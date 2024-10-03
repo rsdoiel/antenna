@@ -1,11 +1,67 @@
 ---
 title: writing
-updated: 2024-10-02 07:38:36
+updated: 2024-10-03 08:50:13
 ---
 
 # writing
 
-(date: 2024-10-02 07:38:36)
+(date: 2024-10-03 08:50:13)
+
+---
+
+## Termush by Sven Holm: Review by Gabino Iglesias
+
+date: 2024-10-03, from: Locus Magazine
+
+<p><strong>Termush</strong>, Sven Holm (Faber Editions 978-0-57137-915-6, £9.99, 119pp, tp) September 2022. (FSG 978-0-37461-358-7, $16.00, 128pp, tp) January 2024. Cover by Rodrigo Corral &#38; Adriana Tonello</p>
+<p>Sven Holm’s <strong>Termush</strong>, originally published in 1967, is as timely now as it was back then. A narrative that uses a dystopian lens to look at people and their behavior in the aftermath of an apocalypse, the novel is a short but very  <a href="https://locusmag.com/2024/10/termush-by-sven-holm-review-by-gabino-iglesias/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/10/termush-by-sven-holm-review-by-gabino-iglesias/>
+
+---
+
+##  It's franchises all the way down
+
+date: 2024-10-02, from: Interesting, a blog on writing
+
+An updated look at sequels and cinematic universes. 
+
+<https://inneresting.substack.com/p/its-franchises-all-the-way-down>
+
+---
+
+## 2024 Polari Prize Shortlists
+
+date: 2024-10-02, from: Locus Magazine
+
+<p><strong></strong>The 2024 Polari Prize Shortlists have been announced via social media.</p>
+<p>Authors and titles of genre interest include <strong>Away With Words</strong> by Sophie Cameron (Little Tiger), <strong>Gwen &#38; Art Are Not in Love</strong> by Lex Croucher (Wednesday), and <strong>Bitterthorn </strong>by Kat Dunn (Andersen), all in the Children&#8217;s &#38; YA category; and <strong>Killing Jericho </strong>by William Hussey (Zaffre) in the Book Category.</p>
+<p>The prizes are given to writers born or based  <a href="https://locusmag.com/2024/10/2024-polari-prize-shortlists/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/10/2024-polari-prize-shortlists/>
+
+---
+
+## 2024 Kindle Storyteller Award Shortlist
+
+date: 2024-10-02, from: Locus Magazine
+
+<p><strong></strong></p>
+<p><strong>Murmuration</strong> by Elizabeth Pike (self-published) is on the five-title shortlist for the 2024 Kindle Storyteller Award.</p>
+<p>The award, launched in 2017, includes a £20,000 prize and &#8220;is open to writers publishing in English in any genre, who publish their work through Kindle Direct Publishing&#8221; on Amazon.co.uk. There were 20 titles on the &#8220;Featured Sci Fi and Fantasy Entries&#8221; and the shortlist itself includes titles from categories &#8220;Crime, Mystery, and Thrillers&#8221;  <a href="https://locusmag.com/2024/10/2024-kindle-storyteller-award-shortlist/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/10/2024-kindle-storyteller-award-shortlist/>
+
+---
+
+## khōréō: Short Fiction Reviews by A.C. Wise
+
+date: 2024-10-02, from: Locus Magazine
+
+<p>khōréō 4.1 </p>
+<p><strong>Anna Bendiy</strong>’s ‘‘<strong>The Goddess of Loneliness and Misfortune</strong>’’ in khōréō 4.1 effectively explores healing, going back to the place you were born, and the cost of war. Bohdana re­turns to her war-ravaged home and calls on a goddess for help, only to discover the goddess has a bit of an attitude and intends to put Bohdana to work before she’ll get involved. ‘‘<strong>Child’s Tongue</strong> <a href="https://locusmag.com/2024/10/khoreo-short-fiction-reviews-by-a-c-wise/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/10/khoreo-short-fiction-reviews-by-a-c-wise/>
 
 ---
 
@@ -76,9 +132,11 @@ The post <a href="https://johnaugust.com/2024/buckling-down-encore">Buckling Dow
 
 date: 2024-10-01, from: Locus Magazine
 
+<p></p>
+<p>&#160;</p>
 <p>Ajram, Sofia: <b>Coup de Grâce</b>
 (Titan Books 9781803369624, $19.99, 144pp, formats: hardcover, ebook, 10/01/2024)</p>
-<p>Experimental horror novel in the form of a sort of CYOA novel. Vicken has a plan: throw himself into the Saint Lawrence River in Montreal and end it all for good, believing it to be the only way out for him after a lifetime of depression and pain. But, stepping off the subway, he finds himself  <a href="https://locusmag.com/2024/10/new-books-1-october-2024/" class="read-more">...Read More </a></p> 
+<p>Experimental horror novel in the form of a sort of CYOA novel. Vicken has a plan: throw himself into the Saint Lawrence River in Montreal and end it all for good, believing it to be the only way out for him after a lifetime of depression and pain. But, stepping off the subway, he finds  <a href="https://locusmag.com/2024/10/new-books-1-october-2024/" class="read-more">...Read More </a></p> 
 
 <https://locusmag.com/2024/10/new-books-1-october-2024/>
 

@@ -1,11 +1,31 @@
 ---
 title: retro computing
-updated: 2024-10-02 07:38:41
+updated: 2024-10-03 08:50:17
 ---
 
 # retro computing
 
-(date: 2024-10-02 07:38:41)
+(date: 2024-10-03 08:50:17)
+
+---
+
+## Halcyon Creates Anti-Ransomware Protection for Linux
+
+date: 2024-10-03, from: Linux Magazine
+
+<p>As more and more Linux systems are getting targeted by ransomware, Halcyon is stepping up its protection.</p> 
+
+<http://www.linux-magazine.com/Online/News/Halcyon-Creates-Anti-Ransomware-Protection-for-Linux>
+
+---
+
+## WROCC October 2024 meeting - Andy Marks and RISCOSbits
+
+date: 2024-10-03, from: Icon Bar, RISC OS News
+
+Wakefield's October speaker was Andy Marks from RISCOSbits telling us about his RISC OS history and talking about his current/future plans. 
+
+<http://www.iconbar.com/comments/rss/news2107.html>
 
 ---
 

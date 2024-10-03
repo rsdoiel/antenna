@@ -1,11 +1,136 @@
 ---
 title: home
-updated: 2024-10-02 07:38:39
+updated: 2024-10-03 08:50:15
 ---
 
 # home
 
-(date: 2024-10-02 07:38:39)
+(date: 2024-10-03 08:50:15)
+
+---
+
+## How They Pulled It Off: A Prefab Curved Wall Creates Clever Storage
+
+date: 2024-10-03, from: Dwell
+
+Designer Adrian Chan took a once chaotic Hong Kong home and added storage everywhere, including a hydraulic platform that lifts the bed. 
+
+<https://www.dwell.com/article/how-they-pulled-it-off-a-prefab-curved-wall-creates-clever-storage-2e5290d2>
+
+---
+
+## 18 Types of Birch Trees (Leaves Identification with Pictures)
+
+date: 2024-10-03, from: Yard Life blog
+
+<p>Birch trees, belonging to the genus Betula, are admired for their elegant forms, striking bark, and vibrant foliage that transforms ... </p>
+<p class="read-more-container"><a title="18 Types of Birch Trees (Leaves Identification with Pictures)" class="read-more button" href="https://ownyardlife.com/18-types-of-birch-trees-leaves-identification-with-pictures/#more-20125" aria-label="Read more about 18 Types of Birch Trees (Leaves Identification with Pictures)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/18-types-of-birch-trees-leaves-identification-with-pictures/">18 Types of Birch Trees (Leaves Identification with Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/18-types-of-birch-trees-leaves-identification-with-pictures/>
+
+---
+
+## This Is the Best Way to Cook Steak at Home, According to Professional Chefs
+
+date: 2024-10-02, from: Sunset Magazine - Living in the West
+
+Cooking steak at home doesn't have to be intimidating. Professional chefs share tips on how to cook steak at home. 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/how-to-cook-steak-at-home>
+
+---
+
+## Recipes
+
+date: 2024-10-02, from: Sunset Magazine - Living in the West
+
+Search Sunset's collection of great recipes for every occasion. From quick weekday meals to indulgent holiday menus, we share the best in Western cooking. 
+
+<https://www.sunset.com/food-wine/kitchen-assistant>
+
+---
+
+## This Perfume Makes You Smell Like Extinct Flowers—and Yes, That’s a Good Thing
+
+date: 2024-10-02, from: Sunset Magazine - Living in the West
+
+Future Society's unique line of perfume made from extinct flowers in tandem with Harvard University is a botanical wonder worth exploring. 
+
+<https://www.sunset.com/lifestyle/future-society-perfumes-extinct-flowers>
+
+---
+
+## The Internet Is Losing Its Mind Over This New “It Flower”
+
+date: 2024-10-02, from: Sunset Magazine - Living in the West
+
+Everything you need to know about the viral “daffodahlia” flower, which looks like it's part-daffodil, part-dahlia. 
+
+<https://www.sunset.com/home-garden/flowers-plants/daffodahlia-flower>
+
+---
+
+## These Empty Nesters Built a Dream Home with Their Grandkids in Mind
+
+date: 2024-10-02, from: Sunset Magazine - Living in the West
+
+Designer Denise Morrison levels up the coastal grandma game at her idyllic, stone-front Orange County home. 
+
+<https://www.sunset.com/home-garden/home-tours/coastal-grandmother-cottage-tour>
+
+---
+
+## Budget Breakdown: This $334K Tiny House Popped Up in an L.A. Backyard in Just Two Days
+
+date: 2024-10-02, from: Dwell
+
+Built by Fritz Tiny Homes and delivered by crane, the compact ADU brings new potential to a compact Silver Lake lot. 
+
+<https://www.dwell.com/article/budget-breakdown-halcyon-02-fritz-tiny-homes-los-angeles-adcba7b8>
+
+---
+
+## Asking $1.7M, This Brutalist French Villa Is Surprisingly Cozy
+
+date: 2024-10-02, from: Dwell
+
+Designed by Georges Guillermont, the cliffside 1960s home is wrapped in cool concrete but packed with warm timber, tile, and terra-cotta finishes. 
+
+<https://www.dwell.com/article/brutalist-villa-georges-guillermont-concrete-home-lyon-france-real-estate-4037186d>
+
+---
+
+## No Small Plans: 10 A-Frame Floor Plans That Deserve an A Plus
+
+date: 2024-10-02, from: Dwell
+
+"All roof, no wall" homes are not easy to augment, but these designs show it's possible to add extensions, sleep nooks, and storage without sacrificing simplicity. 
+
+<https://www.dwell.com/article/no-small-plans-10-a-frame-floor-plans-that-deserve-an-a-plus-fcb7b456>
+
+---
+
+## How to Grow and Care for Freeman Maple
+
+date: 2024-10-02, from: The Gardener's Path
+
+<p>Freeman maples are a hybrid cross between red and silver maples, combining the best of what both species have to offer. They are beautiful, fast-growing, and strong, ideal for rain, Japanese, and cottage gardens. Learn more about Freeman's maples and how to grow these magnificent trees in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/landscape-trees/grow-freeman-maple/">How to Grow and Care for Freeman Maple</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/plants/landscape-trees/grow-freeman-maple/>
+
+---
+
+## CDFA invites Californians to join National Farm to School Month celebration
+
+date: 2024-10-02, from: Calfifornia Dept. Aggriculture blog
+
+October is National Farm to School Month! This year&#8217;s theme is, “From Soil to Sea: Nourishing People and Planet,” honoring the vital role of farmers and ranchers who establish the foundation for a thriving farm to school movement. Since 2021, &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28295">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28295>
 
 ---
 
@@ -18,6 +143,56 @@ date: 2024-10-02, from: Family Handyman Blog
  
 
 <https://www.familyhandyman.com/article/saatva-mattress-topper-review/>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-10-02, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<https://www.sunset.com/>
+
+---
+
+## Here’s Where You Need to Travel, Based on Your Zodiac Sign
+
+date: 2024-10-02, from: Sunset Magazine - Living in the West
+
+Why not consider lining up your travels with your astrological sign? We're sharing our picks for the best destinations in the West. 
+
+<https://www.sunset.com/travel/where-to-travel-based-on-zodiac-sign>
+
+---
+
+## The Ultimate Mexican Beach Road Trip of Your Dreams, Planned by a Local Expert
+
+date: 2024-10-02, from: Sunset Magazine - Living in the West
+
+Heading to Baja California? This Baja California road trip itinerary hits all the spots, from camping to city hotels to beachy towns. 
+
+<https://www.sunset.com/travel/road-trips/baja-california-road-trip-itinerary>
+
+---
+
+## Book a Treatment at These Ultra Relaxing Spas
+
+date: 2024-10-02, from: Sunset Magazine - Living in the West
+
+Looking for a place to get away to rest and rejuvenate? Book a treatment at these relaxing wellness spas and centers in the West. 
+
+<https://www.sunset.com/travel/best-wellness-retreats-2024>
+
+---
+
+## These 6 Wellness Resorts Are the Ultimate Way to Reset
+
+date: 2024-10-02, from: Sunset Magazine - Living in the West
+
+Need to unwind and get away? These spas and wellness resorts are the perfect spots for rest and relaxation. 
+
+<https://www.sunset.com/travel/best-spa-wellness-resorts-2024>
 
 ---
 
@@ -81,13 +256,33 @@ Caviar can be intimidating, and ordering caviar even more so. An expert shares t
 
 ---
 
+## A Toronto Home Defined by Integrated Planters and Organic Shapes Lists for $9.4M
+
+date: 2024-10-01, from: Dwell
+
+Plus, there’s a pool, coach house, and wine cellar with tasting room. 
+
+<https://www.dwell.com/article/sothebys-international-annex-ontario-real-estate-67e01e0a>
+
+---
+
 ## An Artful Oasis of Two San Francisco Designers Seeks $4.6M
 
 date: 2024-10-01, from: Dwell
 
-Lush greenery is hidden amidst stunning architecture. 
+Lush greenery is hidden amid the stunning architecture. 
 
 <https://www.dwell.com/article/sothebys-international-april-sheldon-john-casado-san-francisco-real-estate-a11feb16>
+
+---
+
+## For $9M, You Can Own an Entire Historic Building in Downtown Nashville
+
+date: 2024-10-01, from: Dwell
+
+This is a rare opportunity to create a truly unique urban space. 
+
+<https://www.dwell.com/article/sothebys-international-historic-brick-nashville-real-estate-f0017b99>
 
 ---
 
@@ -100,6 +295,16 @@ date: 2024-10-01, from: Family Handyman Blog
  
 
 <https://www.familyhandyman.com/article/pro-breeze-dehumidifier-review/>
+
+---
+
+## Fall Is Bulb Planting Season—Here’s How to Guarantee a Successful Flower Garden
+
+date: 2024-10-01, from: Sunset Magazine - Living in the West
+
+Fall is bulb planting season, so to get ready we have tips for growing bulbs in your backyard and in containers. 
+
+<https://www.sunset.com/home-garden/garden-basics/how-to-choose-and-plant-fall-bulbs>
 
 ---
 
@@ -201,12 +406,12 @@ Highway 1 is one of those bucket list road trips that is absolutely worth the hy
 
 ---
 
-## The Home Depot’s Decor Days Sale Is Coming! Save Up to 60% On Mattresses and Furniture for the Whole House
+## The Home Depot’s Decor Days Sale Is Here! Save Up to 60% On Mattresses and Furniture for the Whole House
 
 date: 2024-10-01, from: Family Handyman Blog
 
 <p>The Home Depot's Decor Days sale is happening October 3-7, featuring price slashes of up to 60% on furniture and decor for the whole home.</p>
-<p>The post <a href="https://www.familyhandyman.com/article/home-depot-decor-days-sale/">The Home Depot&#8217;s Decor Days Sale Is Coming! Save Up to 60% On Mattresses and Furniture for the Whole House</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/home-depot-decor-days-sale/">The Home Depot&#8217;s Decor Days Sale Is Here! Save Up to 60% On Mattresses and Furniture for the Whole House</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
  
 
 <https://www.familyhandyman.com/article/home-depot-decor-days-sale/>
@@ -283,16 +488,6 @@ date: 2024-10-01, from: Sunset Magazine - Living in the West
 Pinterest just named blues and greens as the colors of fall. Interior designers share how to incorpoate the hues into your home this fall. 
 
 <https://www.sunset.com/home-garden/design/pinterest-fall-2024-color-palette>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-10-01, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<https://www.sunset.com/>
 
 ---
 
@@ -697,16 +892,6 @@ date: 2024-09-29, from: Sunset Magazine - Living in the West
  
 
 <https://www.sunset.com/food-wine/restaurants>
-
----
-
-## Recipes
-
-date: 2024-09-29, from: Sunset Magazine - Living in the West
-
-Search Sunset's collection of great recipes for every occasion. From quick weekday meals to indulgent holiday menus, we share the best in Western cooking. 
-
-<https://www.sunset.com/food-wine/kitchen-assistant>
 
 ---
 

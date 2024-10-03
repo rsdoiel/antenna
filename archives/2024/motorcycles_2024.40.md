@@ -1,11 +1,91 @@
 ---
 title: motorcycles
-updated: 2024-10-02 07:38:40
+updated: 2024-10-03 08:50:17
 ---
 
 # motorcycles
 
-(date: 2024-10-02 07:38:40)
+(date: 2024-10-03 08:50:17)
+
+---
+
+## This New GasGas Dirtbike Is So Special, It Pays Tribute To ALL GasGas' Racers
+
+date: 2024-10-03, from: Ride Apart, Electric Motorcycle News
+
+All GasGas racers that have bagged an enduro world title, at least.  
+
+<https://www.rideapart.com/news/735850/2025-gasgas-ec300gp-special-edition-enduro/>
+
+---
+
+## A $2K Quad That Only Needs a New Battery? Bargain or Bad Idea?
+
+date: 2024-10-03, from: Ride Apart, Electric Motorcycle News
+
+When is that smokin' hot deal on Facebook Marketplace too good to be true, and when is it for real? 
+
+<https://www.rideapart.com/news/735963/kawasaki-kfx-450-quad-deal/>
+
+---
+
+## Husqvarna Finally Launches the Awesome-Looking Vitpilen 801, Get Excited
+
+date: 2024-10-03, from: Ride Apart, Electric Motorcycle News
+
+Stealthy, sleek silver or bright, sunshine yellow. Your choice. 
+
+<https://www.rideapart.com/news/735957/2025-husqvarna-vitpilen-801-launched/>
+
+---
+
+## Suzuki GSX-8R Doesn't Get Much of an Update, Just Three New Colors
+
+date: 2024-10-03, from: Ride Apart, Electric Motorcycle News
+
+Pretty much everything else remains the same.  
+
+<https://www.rideapart.com/news/735807/2025-suzuki-gsx8r-new-colors/>
+
+---
+
+## U.S. Seeks to Ban Powersport Manufacturer CFMoto, Just Like TikTok and Others
+
+date: 2024-10-03, from: Ride Apart, Electric Motorcycle News
+
+By the looks of the proposed rules, CFMoto isn't the major motorcycle manufacturer that'd take a hit. 
+
+<https://www.rideapart.com/news/735940/us-cfmoto-ban-commerce-rules/>
+
+---
+
+## Harley-Davidson's Co-founder's Home Could be Demolished, People Want to Save It
+
+date: 2024-10-03, from: Ride Apart, Electric Motorcycle News
+
+To Scotland, brother! 
+
+<https://www.rideapart.com/news/735947/harley-davidson-cofounder-home-scotland-gofundme/>
+
+---
+
+## What In The Actual Hell Is Going On With This Makeshift Motorcycle?
+
+date: 2024-10-03, from: Ride Apart, Electric Motorcycle News
+
+The longer you look, the weirder it gets.  
+
+<https://www.rideapart.com/news/735811/crazy-custom-backyard-built-makeshift-motorcycle/>
+
+---
+
+## 23XI Racing and Front Row Motorsports File Federal Antitrust Lawsuit Against NASCAR and James (Jim) France
+
+date: 2024-10-02, from: Kickin the Tires blog
+
+Here is a copy of the lawsuit obtained by Kickin&#8217; the Tires from the federal court online filing system. 
+
+<https://kickinthetires.net/nascar/23xi-racing-and-front-row-motorsports-file-federal-antitrust-lawsuit-against-nascar-and-james-jim-france/>
 
 ---
 

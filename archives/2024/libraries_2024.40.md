@@ -1,11 +1,33 @@
 ---
 title: libraries
-updated: 2024-10-02 07:38:38
+updated: 2024-10-03 08:50:15
 ---
 
 # libraries
 
-(date: 2024-10-02 07:38:38)
+(date: 2024-10-03 08:50:15)
+
+---
+
+## Improving Search, Removing Dead-Ends
+
+date: 2024-10-03, from: Open Library Blog
+
+Thanks to the work of 2024 Design &#38; Engineering Fellow Meredith White, the Open Library search page now suggests Search Inside results any time a search fails to find books matching by title or author. Before: After: The planning and development of this feature were led by volunteer and 2024 Design &#38; Engineering Fellow, Meredith [&#8230;] 
+
+<https://blog.openlibrary.org/2024/10/03/improving-search-removing-dead-ends/>
+
+---
+
+## Engaging with Your Community to Effect Change: An Irish Case Study
+
+date: 2024-10-03, from: Scholarly Kitchen
+
+<p>In today's post Alice Meadows shares a case study of community engagement in Ireland as part of the country's plans to develop a national persistent identifier (PID) strategy</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/10/03/engaging-with-your-community-to-effect-change-an-irish-case-study/">Engaging with Your Community to Effect Change: An Irish Case Study</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/10/03/engaging-with-your-community-to-effect-change-an-irish-case-study/>
 
 ---
 
@@ -17,6 +39,26 @@ Poirier, Clémence
 Soesanto, Stefan 
 
 <http://hdl.handle.net/20.500.11850/697348>
+
+---
+
+## Lake archives from tropical Africa: Reconstructing the paleoclimate leading to the African Rainforest Crisis 3000 years ago
+
+date: 2024-10-03, from: ETH Zurich, recently added
+
+Engelhardt, Michelle; De Clippele, Antoine; Ludjwera, Alfred; Haghipour, Negar; Six, Johan; Drake, Travis; De Groot, Lissie; Van Oost, Kristof; Hemingway, Jordon 
+
+<http://hdl.handle.net/20.500.11850/697822>
+
+---
+
+## Reproductive Responsibility and the Climate Crisis
+
+date: 2024-10-03, from: ETH Zurich, recently added
+
+Lucas, Daniel 
+
+<http://hdl.handle.net/20.500.11850/697851>
 
 ---
 
@@ -217,12 +259,12 @@ Bell, Clive; Gersbach, Hans; Komarov, Evgenij
 
 ---
 
-## Day in Review (September 30–October 3)
+## Day in Review (September 30–October 2)
 
 date: 2024-09-30, from: Association of Research Libraries News
 
-<p>Last Updated on October 1, 2024, 4:21 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, October 1 &#124; Wednesday, October 2 &#124; Thursday,...</p>
-<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-september-30-october-3/">Day in Review (September 30–October 3)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+<p>Last Updated on October 3, 2024, 9:49 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, October 1 &#124; Wednesday, October 2 Note: Day in...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-september-30-october-3/">Day in Review (September 30–October 2)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
 <https://www.arl.org/day-in-review/day-in-review-september-30-october-3/>

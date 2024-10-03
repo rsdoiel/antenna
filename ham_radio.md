@@ -1,11 +1,47 @@
 ---
 title: ham radio
-updated: 2024-10-02 07:38:32
+updated: 2024-10-03 08:50:09
 ---
 
 # ham radio
 
-(date: 2024-10-02 07:38:32)
+(date: 2024-10-03 08:50:09)
+
+---
+
+## Preaccumulator handles VFC outputs that are too fast for a naked CTP to swallow
+
+date: 2024-10-03, from: EDN Blog
+
+<img width="570" height="335" src="https://www.edn.com/wp-content/uploads/VFC-Prescaler_Figure.png?fit=570%2C335" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/VFC-Prescaler_Figure.png?w=570 570w, https://www.edn.com/wp-content/uploads/VFC-Prescaler_Figure.png?w=300 300w" sizes="(max-width: 570px) 100vw, 570px" /><p>A 100-MHz MSI counter prescales and accumulates VFC LSBs so clunky CTP can cope to extend the peripheral’s speed by up to 16x. </p>
+<p>The post <a href="https://www.edn.com/preaccumulator-handles-vfc-outputs-that-are-too-fast-for-a-naked-ctp-to-swallow/" data-wpel-link="internal">Preaccumulator handles VFC outputs that are too fast for a naked CTP to swallow</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/preaccumulator-handles-vfc-outputs-that-are-too-fast-for-a-naked-ctp-to-swallow/>
+
+---
+
+## Getting an audio signal with a THD < 0.0002% made easy
+
+date: 2024-10-02, from: EDN Blog
+
+<img width="874" height="235" src="https://www.edn.com/wp-content/uploads/Audio-Signal-DI_Figure1.png?fit=874%2C235" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Audio-Signal-DI_Figure1.png?w=874 874w, https://www.edn.com/wp-content/uploads/Audio-Signal-DI_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/Audio-Signal-DI_Figure1.png?w=768 768w" sizes="(max-width: 874px) 100vw, 874px" /><p>A circuit that generates a very pure sine wave in the audio range with a THD of less than 0.0002% with a frequency multiplier and an LPF.</p>
+<p>The post <a href="https://www.edn.com/getting-an-audio-signal-with-a-thd-0-0002-made-easy/" data-wpel-link="internal">Getting an audio signal with a THD &lt; 0.0002% made easy</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/getting-an-audio-signal-with-a-thd-0-0002-made-easy/>
+
+---
+
+## Electronic musical instruments design: what’s inside counts
+
+date: 2024-10-02, from: EDN Blog
+
+<img width="1280" height="472" src="https://www.edn.com/wp-content/uploads/Figure-1-musical-instrument-ASIC-Faraday.png?fit=1280%2C472" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Figure-1-musical-instrument-ASIC-Faraday.png?w=1280 1280w, https://www.edn.com/wp-content/uploads/Figure-1-musical-instrument-ASIC-Faraday.png?w=300 300w, https://www.edn.com/wp-content/uploads/Figure-1-musical-instrument-ASIC-Faraday.png?w=768 768w, https://www.edn.com/wp-content/uploads/Figure-1-musical-instrument-ASIC-Faraday.png?w=1024 1024w" sizes="(max-width: 1280px) 100vw, 1280px" /><p>A look inside a music instrument design illustrates the merits of an ASIC path compared to using discrete components.</p>
+<p>The post <a href="https://www.edn.com/electronic-musical-instruments-design-whats-inside-counts/" data-wpel-link="internal">Electronic musical instruments design: what’s inside counts</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/electronic-musical-instruments-design-whats-inside-counts/>
 
 ---
 
@@ -13,7 +49,7 @@ updated: 2024-10-02 07:38:32
 
 date: 2024-10-01, from: EDN Blog
 
-<img width="1400" height="782" src="https://www.edn.com/wp-content/uploads/Old-control-panel-harness-1.jpg?fit=1400%2C782" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Old-control-panel-harness-1.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/Old-control-panel-harness-1.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Old-control-panel-harness-1.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Old-control-panel-harness-1.jpg?w=1024 1024w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>Zap me once, shame on you. Zap me twice, shame on me. Zap me three times…time to move? </p>
+<img width="1400" height="782" src="https://www.edn.com/wp-content/uploads/Old-control-panel-harness-1.jpg?fit=1400%2C782" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Old-control-panel-harness-1.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/Old-control-panel-harness-1.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Old-control-panel-harness-1.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Old-control-panel-harness-1.jpg?w=1024 1024w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>Zap me once, shame on you. Zap me twice, shame on me. Zap me three times…time to move? </p>
 <p>The post <a href="https://www.edn.com/lightning-strikesthrice/" data-wpel-link="internal">Lightning strikes…thrice???!!!</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

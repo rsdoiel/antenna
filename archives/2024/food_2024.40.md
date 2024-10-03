@@ -1,11 +1,217 @@
 ---
 title: food
-updated: 2024-10-02 07:38:43
+updated: 2024-10-03 08:50:19
 ---
 
 # food
 
-(date: 2024-10-02 07:38:43)
+(date: 2024-10-03 08:50:19)
+
+---
+
+## European Committee Proposes 12-Month Postponement Of Deforestation Law
+
+date: 2024-10-03, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. If adopted, the new law wouldn't go into effect until the end of 2025. 
+
+<https://sprudge.com/european-committee-proposes-12-month-postponement-of-deforestation-law-256208.html>
+
+---
+
+## Chipotle Butternut Squash Soup
+
+date: 2024-10-03, from: Pepper Scale
+
+You may have tried one of many spicy squash soups before (like our delicious option that uses jalapeños), but you haven&#8217;t experienced what can be until you slow cook a squash soup with chipotle peppers and adobo sauce. Seriously, if you like smoke, earthy sweet, ... <p class="read-more-container"><a title="Chipotle Butternut Squash Soup" class="read-more button" href="https://pepperscale.com/chipotle-butternut-squash-soup/#more-9109" aria-label="Read more about Chipotle Butternut Squash Soup">Read more</a></p> 
+
+<https://pepperscale.com/chipotle-butternut-squash-soup/>
+
+---
+
+## Bacon Jalapeño Mac And Cheese
+
+date: 2024-10-03, from: Pepper Scale
+
+Talk about feel-good food. Bacon jalapeño mac and cheese delivers a mammoth amount of happiness to your mouth: creamy, meaty, and spicy. Fresh jalapeño peppers provide a nice bright bite that always pairs well with bacon. Don&#8217;t use canned jalapeños here, the fresh jalapeño brightness ... <p class="read-more-container"><a title="Bacon Jalapeño Mac And Cheese" class="read-more button" href="https://pepperscale.com/bacon-jalapeno-mac-and-cheese/#more-17327" aria-label="Read more about Bacon Jalapeño Mac And Cheese">Read more</a></p> 
+
+<https://pepperscale.com/bacon-jalapeno-mac-and-cheese/>
+
+---
+
+## Sriracha Lime Sauce
+
+date: 2024-10-03, from: Pepper Scale
+
+Sriracha sauce is the perfect base for all sorts of sauces. Its mix of red jalapeños peppers, tomato, and garlic works with anything from pasta sauces to barbecue wet rubs. This Sriracha lime sauce sits somewhere in between the two. It&#8217;s an excellent serving sauce ... <p class="read-more-container"><a title="Sriracha Lime Sauce" class="read-more button" href="https://pepperscale.com/sriracha-lime-sauce/#more-18253" aria-label="Read more about Sriracha Lime Sauce">Read more</a></p> 
+
+<https://pepperscale.com/sriracha-lime-sauce/>
+
+---
+
+## Spicy Green Chutney
+
+date: 2024-10-03, from: Pepper Scale
+
+You may know green chutney by a few other names: it&#8217;s also known as coriander chutney or hari chutney. However you say it, this is a delicious Indian condiment that&#8217;s a go-to side for Indian appetizers like samosas or simply naan bread. Though, there are ... <p class="read-more-container"><a title="Spicy Green Chutney" class="read-more button" href="https://pepperscale.com/green-chutney/#more-17982" aria-label="Read more about Spicy Green Chutney">Read more</a></p> 
+
+<https://pepperscale.com/green-chutney/>
+
+---
+
+## Jerk Chicken Pot Pie
+
+date: 2024-10-03, from: Pepper Scale
+
+Here’s a pie where all the fiery, spicy glory of jerk chicken is captured beneath a rough-puff pastry crust. It’s a taste of summer all wrapped up for winter with a sauce made from coconut cream, sweet potato, leeks, onions, celery, and carrots. In its ... <p class="read-more-container"><a title="Jerk Chicken Pot Pie" class="read-more button" href="https://pepperscale.com/jerk-chicken-pot-pie/#more-93020" aria-label="Read more about Jerk Chicken Pot Pie">Read more</a></p> 
+
+<https://pepperscale.com/jerk-chicken-pot-pie/>
+
+---
+
+## Help Support These Coffee Businesses Impacted by Hurricane Helene
+
+date: 2024-10-03, from: The Fresh Cup
+
+<p>Hurricane Helene impacted many coffee workers and cafes across the southeastern part of the United States. Here's how you can help. </p>
+<p>The post <a href="https://freshcup.com/help-support-these-coffee-businesses-impacted-by-hurricane-helene/">Help Support These Coffee Businesses Impacted by Hurricane Helene</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<https://freshcup.com/help-support-these-coffee-businesses-impacted-by-hurricane-helene/>
+
+---
+
+## Creamy Peri Peri Chicken Pasta
+
+date: 2024-10-03, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2024/09/Creamy-Peri-Peri-Chicken-Pasta-1200-6006.jpg"/></div>
+<p>A tasty chicken pasta in a creamy peri peri sauce! Peri peri sauce is a sauce made with sweet roasted red peppers, spicy chilies and seasonings; it&#8217;s often used as a marinade for meats and it also works well as a sauce for pasta! This is a super simple pasta recipe with chicken, onions, red...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/creamy-peri-peri-chicken-pasta/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/creamy-peri-peri-chicken-pasta/">Creamy Peri Peri Chicken Pasta</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<https://www.closetcooking.com/creamy-peri-peri-chicken-pasta/>
+
+---
+
+## Grilled Cauliflower Steaks
+
+date: 2024-10-03, from: Taste of Home
+
+Grilled cauliflower steak is a dinner the whole family will like! 
+
+<https://www.tasteofhome.com/recipes/grilled-cauliflower-steaks/>
+
+---
+
+## Pumpkin Espresso Martini
+
+date: 2024-10-02, from: Taste of Home
+
+If pumpkin spice lattes and espresso martinis had a lovechild, this would be it. This pumpkin espresso martini contains real pumpkin puree, no fake flavorings. It also features a coffee liqueur, vodka, vanilla creamer and pumpkin pie spices. This is the one you'll want to make for your next autumn soiree. 
+
+<https://www.tasteofhome.com/recipes/pumpkin-espresso-martini/>
+
+---
+
+## Air-Fryer Mac and Cheese
+
+date: 2024-10-02, from: Taste of Home
+
+Air fryers aren't meant for boiling pasta, but this air-fryer mac and cheese is still a winner. The trick is to cook your pasta conventionally and then use your air fryer to heat and brown the mac and cheese. 
+
+<https://www.tasteofhome.com/recipes/air-fryer-mac-and-cheese/>
+
+---
+
+## Gifts Under $50 for the Food Lovers on Your List
+
+date: 2024-10-02, from: Bon Appetet
+
+Compact coffee makers, breakfast-themed puzzles, and other cheap gifts that are better than a gift card. 
+
+<https://www.bonappetit.com/story/best-food-and-drink-gifts-under-50>
+
+---
+
+## Greek Potato Salad
+
+date: 2024-10-02, from: Taste of Home
+
+Experience a taste of the Mediterranean with our flavorful Greek potato salad recipe featuring Yukon Golds, red onion, olives, feta cheese and aromatic herbs. 
+
+<https://www.tasteofhome.com/recipes/greek-potato-salad/>
+
+---
+
+## Jalapeno Salsa
+
+date: 2024-10-02, from: Taste of Home
+
+This easy jalapeno salsa brings fresh, bold flavors to any meal. It’s great as a dip or a topping for tacos—quick to make and packed with heat! 
+
+<https://www.tasteofhome.com/recipes/jalapeno-salsa/>
+
+---
+
+## Cheesecake Balls
+
+date: 2024-10-02, from: Taste of Home
+
+<span style="font-weight: 400;">These no-bake cheesecake balls are a creamy, bite-sized treat with a sweet graham cracker crunch that could not be easier to whip up.</span> 
+
+<https://www.tasteofhome.com/recipes/cheesecake-balls/>
+
+---
+
+## 37 Cocoa Powder Recipes for Chocolate Lovers
+
+date: 2024-10-02, from: Bon Appetet
+
+Our darkest brownies, chocolate banana bread, and a few savory recipes too. 
+
+<https://www.bonappetit.com/gallery/best-cocoa-powder-recipes>
+
+---
+
+## Halloween Horror Fiction On Sprudge! Send Us Your Scariest Coffee Story For 2024
+
+date: 2024-10-02, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Submit your spooky stories now! 
+
+<https://sprudge.com/halloween-horror-fiction-on-sprudge-send-us-your-scariest-coffee-story-for-2024-256151.html>
+
+---
+
+## Help Small Coffee Businesses Devastated by Helene
+
+date: 2024-10-02, from: Daily Coffee News
+
+<div><img width="620" height="409" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Asheville-flooding-620x409.jpg" class="attachment-large size-large wp-post-image" alt="Asheville Helene" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Asheville-flooding-620x409.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Asheville-flooding-300x198.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Asheville-flooding-150x99.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Asheville-flooding-768x506.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Asheville-flooding.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>[Update, 10/3/24: This story has been updated numerous times since its original publication to include more fundraising and relief efforts. If you have something to add to the list below,... 
+
+<https://dailycoffeenews.com/2024/10/02/help-small-coffee-businesses-devastated-by-helene/>
+
+---
+
+## Empirical Water Aims for Observable Improvements in Coffee Brewing
+
+date: 2024-10-02, from: Daily Coffee News
+
+<div><img width="620" height="496" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Empirical-Water-feature-620x496.jpg" class="attachment-large size-large wp-post-image" alt="Empirical Water feature" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Empirical-Water-feature-620x496.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Empirical-Water-feature-300x240.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Empirical-Water-feature-150x120.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Empirical-Water-feature-768x614.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Empirical-Water-feature.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new product aimed at improving and controlling the mineral content of water called Empirical Water swims somewhat against the current, drawing inspiration more from nature than from the chemistry... 
+
+<https://dailycoffeenews.com/2024/10/02/empirical-water-aims-for-observable-improvements-in-coffee-brewing/>
+
+---
+
+## JDE Peet’s and TechnoServe Launch $15.3 Million Avanza Café Project
+
+date: 2024-10-02, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Avanza-Cafe-logo-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Avanza Cafe logo" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Avanza-Cafe-logo-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Avanza-Cafe-logo-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Avanza-Cafe-logo-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Avanza-Cafe-logo-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Avanza-Cafe-logo.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Coffee roasting conglomerate JDE Peet&#8217;s and the nonprofit TechnoServe announced the launch of a wide-ranging new sustainability initiative focused on the Central American coffee sector called Avanza Café. The initiative,... 
+
+<https://dailycoffeenews.com/2024/10/02/jde-peets-and-technoserve-launch-15-3-million-avanza-cafe-project/>
 
 ---
 
@@ -58,6 +264,18 @@ date: 2024-10-02, from: Chili Pepper Madness
  
 
 <https://www.chilipeppermadness.com/chili-pepper-recipes/hot-sauces/roasted-pumpkin-jerk-hot-sauce/>
+
+---
+
+## Fiery Roasted Pumpkin Jerk Hot Sauce
+
+date: 2024-10-02, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/roasted-pumpkin-jerk-hot-sauce/" title="Fiery Roasted Pumpkin Jerk Hot Sauce" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Roasted-Pumpkin-Jerk-Hot-Sauce-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Roasted Pumpkin Jerk Hot Sauce in bottles" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Roasted-Pumpkin-Jerk-Hot-Sauce-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Roasted-Pumpkin-Jerk-Hot-Sauce-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Roasted-Pumpkin-Jerk-Hot-Sauce-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Roasted-Pumpkin-Jerk-Hot-Sauce-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Roasted-Pumpkin-Jerk-Hot-Sauce-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Roasted-Pumpkin-Jerk-Hot-Sauce-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Roasted-Pumpkin-Jerk-Hot-Sauce-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This Caribbean style hot sauce combines fiery Scotch Bonnet chilies with earthy roasted pumpkin and jerk spices for a flaming hot sauce with an island vibe.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/roasted-pumpkin-jerk-hot-sauce/">Fiery Roasted Pumpkin Jerk Hot Sauce</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<https://www.chilipeppermadness.com/recipes/roasted-pumpkin-jerk-hot-sauce/>
 
 ---
 
@@ -261,7 +479,7 @@ date: 2024-10-01, from: The Sprudge
 
 date: 2024-10-01, from: Daily Coffee News
 
-<div><img width="620" height="365" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/VOCAL-Alliance-coffee-620x365.jpg" class="attachment-large size-large wp-post-image" alt="VOCAL Coffee Alliance" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/VOCAL-Alliance-coffee-620x365.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/VOCAL-Alliance-coffee-300x177.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/VOCAL-Alliance-coffee-150x88.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/VOCAL-Alliance-coffee-768x453.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/VOCAL-Alliance-coffee.jpg 1330w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new consortium of civil society organizations under the acronym VOCAL (Voice of Organizations in Coffee Alliance) launched today, challenging the coffee industry&#8217;s prevailing positions on regulatory compliance. In its... 
+<div><img width="620" height="365" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/VOCAL-Alliance-coffee-620x365.jpg" class="attachment-large size-large wp-post-image" alt="VOCAL Coffee Alliance" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/VOCAL-Alliance-coffee-620x365.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/VOCAL-Alliance-coffee-300x177.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/VOCAL-Alliance-coffee-150x88.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/VOCAL-Alliance-coffee-768x453.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/VOCAL-Alliance-coffee.jpg 1330w" sizes="(max-width: 620px) 100vw, 620px" /></div>[Note: One day after the publication of this story, the European Commission signaled a proposal to delay implementation of the landmark EUDR legislation by 12 months. Keep up with DCN... 
 
 <https://dailycoffeenews.com/2024/10/01/vocal-alliance-launches-urges-eu-regulatory-compliance-over-pushback/>
 
@@ -277,7 +495,7 @@ A fresh take on a Midwest staple, featuring homemade gravy and plenty of vegetab
 
 ---
 
-## 12 Dos and Don’ts for Peak Chicken Parm
+## 12 Do's and Don'ts for Peak Chicken Parm
 
 date: 2024-10-01, from: Bon Appetet
 
@@ -301,7 +519,7 @@ date: 2024-10-01, from: The Sprudge
 
 date: 2024-10-01, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/World-Coffee-Innovation-Summit-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="World Coffee Innovation Summit" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/World-Coffee-Innovation-Summit-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/World-Coffee-Innovation-Summit-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/World-Coffee-Innovation-Summit-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/World-Coffee-Innovation-Summit-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/World-Coffee-Innovation-Summit.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A high-level coffee event focused on climate and finance in the coffee sector called the World Coffee Innovation Summit is coming to the Queen Elizabeth II Centre (QEII) in London... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/World-Coffee-Innovation-Summit-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="World Coffee Innovation Summit" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/World-Coffee-Innovation-Summit-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/World-Coffee-Innovation-Summit-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/World-Coffee-Innovation-Summit-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/World-Coffee-Innovation-Summit-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/World-Coffee-Innovation-Summit.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A high-level coffee event focused on climate and finance in the coffee sector called the World Coffee Innovation Summit is coming to the Queen Elizabeth II Centre (QEII) in London... 
 
 <https://dailycoffeenews.com/2024/10/01/world-coffee-innovation-summit-in-london-oct-16-17/>
 
@@ -311,7 +529,7 @@ date: 2024-10-01, from: Daily Coffee News
 
 date: 2024-10-01, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Fairtrade Golden Cup and quality in Honduras" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Fairtrade International rang in the October 1 International Coffee Day by celebrating the winners of its annual Golden Cup green coffee competitions. With the Latin American and Caribbean Network of... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Fairtrade Golden Cup and quality in Honduras" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Fairtrade International rang in the October 1 International Coffee Day by celebrating the winners of its annual Golden Cup green coffee competitions. With the Latin American and Caribbean Network of... 
 
 <https://dailycoffeenews.com/2024/10/01/fairtrade-international-celebrates-golden-cup-winners/>
 

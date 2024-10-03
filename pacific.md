@@ -1,11 +1,604 @@
 ---
 title: pacific
-updated: 2024-10-02 07:38:31
+updated: 2024-10-03 08:50:08
 ---
 
 # pacific
 
-(date: 2024-10-02 07:38:31)
+(date: 2024-10-03 08:50:08)
+
+---
+
+## Aftermath
+
+date: 2024-10-03, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Mercedes Lawry What can I say out here in the field of scorched grass? How long will it take for the water to disappear? Rivers thin to trickles, to dry rocks and bruised stones. The many stars in a &#8230; <a href="https://hawaiipacificreview.org/2024/10/03/aftermath/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://hawaiipacificreview.org/2024/10/03/aftermath/>
+
+---
+
+## Royals sweep Orioles, advance to face Yankees in ALDS
+
+date: 2024-10-03, from: Hawaii Tribune Harold
+
+
+				<p>BALTIMORE &#8212; The Kansas City Royals are headed to the American League Divisional Series.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/03/sports/royals-sweep-orioles-advance-to-face-yankees-in-alds/>
+
+---
+
+## Warriors, Ka Makani sweep competition
+
+date: 2024-10-03, from: Hawaii Tribune Harold
+
+
+				<p>KEA&#8216;AU &#8212; After dropping two consecutive matches, Waiakea girls volleyball got back on track with a straight-sets victory over Christian Liberty Academy on Tuesday night in Kea&#8216;au.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/03/sports/warriors-ka-makani-sweep-competition/>
+
+---
+
+## Big Island Sports Hall of Fame is accepting nominations
+
+date: 2024-10-03, from: Hawaii Tribune Harold
+
+
+				<p>The Big Island Sports Hall of Fame Committee is accepting nominees for its 2025 class by visiting www.bigislandsports.org by Jan. 15, 2025.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/03/sports/big-island-sports-hall-of-fame-is-accepting-nominations/>
+
+---
+
+## US dockworker strike enters second day with talks at a standstill
+
+date: 2024-10-03, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK/WASHINGTON &#8212; A strike by 45,000 dockworkers halting shipments at U.S. East Coast and Gulf Coast ports entered its second day on Wednesday with no negotiations currently scheduled between the two sides, sources told Reuters. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/03/nation-world-news/us-dockworker-strike-enters-second-day-with-talks-at-a-standstill/>
+
+---
+
+## Tigers pull off shocking sweep of Astros, advance to ALDS
+
+date: 2024-10-03, from: Hawaii Tribune Harold
+
+
+				<p>HOUSTON &#8212; Andy Ibanez produced a pinch-hit, two-out, three-run double in the top of the eighth inning and the Detroit Tigers capped a stunning sweep of their American League wild-card series with a 5-2 comeback victory over the Houston Astros in Game 2 on Wednesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/03/sports/tigers-pull-off-shocking-sweep-of-astros-advance-to-alds/>
+
+---
+
+## Small rocky planet detected in orbit about nearby Barnard’s star
+
+date: 2024-10-03, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Barnard&#8217;s star is a red dwarf, the smallest type of regular star and much smaller and less luminous than our sun. At about 6 light years away, it is the closest single star &#8212; one not orbiting with other stars &#8212; to our solar system. It is, in cosmic terms, in our neighborhood.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/03/nation-world-news/small-rocky-planet-detected-in-orbit-about-nearby-barnards-star/>
+
+---
+
+## A wider war in the Middle East, from Hamas to Hezbollah and now Iran
+
+date: 2024-10-03, from: Hawaii Tribune Harold
+
+
+				<p>The long-feared &#8220;wider war&#8221; in the Middle East is here.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/03/nation-world-news/a-wider-war-in-the-middle-east-from-hamas-to-hezbollah-and-now-iran/>
+
+---
+
+## Biden, Harris view Helene devastation, 1,000 troops deployed
+
+date: 2024-10-03, from: Hawaii Tribune Harold
+
+
+				<p>RALEIGH, North Carolina &#8212; President Joe Biden and Vice President Kamala Harris visited South Carolina, North Carolina and Georgia on Wednesday to see first hand the devastation wrought in the U.S. Southeast by Hurricane Helene, which has killed at least 160 people. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/03/nation-world-news/biden-harris-view-helene-devastation-1000-troops-deployed/>
+
+---
+
+## California heat wave smashes records, but the worst is still to come
+
+date: 2024-10-03, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; An unusual October heat wave &#8212; still yet to peak across California &#8212; has already set records across the state and brought unseasonably hot weather to cities all across the state from Redding through San Diego.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/03/nation-world-news/california-heat-wave-smashes-records-but-the-worst-is-still-to-come/>
+
+---
+
+## Your Views for October 3
+
+date: 2024-10-03, from: Hawaii Tribune Harold
+
+
+				<p>Puna landowner&#0010;is being selfish</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/03/opinion/your-views-for-october-3-6/>
+
+---
+
+## 5 takeaways from the vice presidential debate
+
+date: 2024-10-03, from: Hawaii Tribune Harold
+
+
+				<p>Voters don&#8217;t usually make up their mind based on a presidential candidate&#8217;s running mate. That&#8217;s why the mission for most candidates in a vice presidential debate is to avoid mistakes while making the boss look good.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/03/nation-world-news/5-takeaways-from-the-vice-presidential-debate/>
+
+---
+
+## Construction sector helps to lift US private payrolls in September
+
+date: 2024-10-03, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. private payrolls increased more than expected in September, boosted by hiring in the construction, leisure and hospitality industries, adding to the evidence of a stable labor market. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/03/nation-world-news/construction-sector-helps-to-lift-us-private-payrolls-in-september/>
+
+---
+
+## How Russians serve the state: In battle, and in childbirth
+
+date: 2024-10-03, from: Hawaii Tribune Harold
+
+
+				<p>BERLIN &#8212; What the Kremlin wants from Russians now boils down to two things.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/03/nation-world-news/how-russians-serve-the-state-in-battle-and-in-childbirth/>
+
+---
+
+## Judge unseals new evidence in federal election case against Trump
+
+date: 2024-10-03, from: Hawaii Tribune Harold
+
+
+				<p>When told by an aide that Vice President Mike Pence was in peril as the rioting on Capitol Hill escalated on Jan. 6, 2021, President Donald Trump replied, &#8220;So what?&#8221; </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/03/nation-world-news/judge-unseals-new-evidence-in-federal-election-case-against-trump/>
+
+---
+
+## Nation and world news in brief for October 3
+
+date: 2024-10-03, from: Hawaii Tribune Harold
+
+
+				<p>Doctor pleads guilty in death of &#8216;Friends&#8217; star Matthew Perry</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/03/nation-world-news/nation-and-world-news-in-brief-for-october-3/>
+
+---
+
+## JD Vance’s audition to lead the GOP is working
+
+date: 2024-10-03, from: Hawaii Tribune Harold
+
+
+				<p>What you saw Tuesday in the vice presidential debate was an audition for the leader of the post-Trump Republican Party. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/03/opinion/jd-vances-audition-to-lead-the-gop-is-working/>
+
+---
+
+## Gender activists to Pennsylvania parents: We’ll take it from here
+
+date: 2024-10-03, from: Hawaii Tribune Harold
+
+
+				<p>If you&#8217;re the parent of a child in a Pennsylvania school facing disciplinary problems, the law says you must be notified. The same goes if your child is caught with drugs or alcohol. But if your child is questioning his or her gender, you won&#8217;t hear a word. In fact, many school districts have adopted policies deliberately designed to keep you in the dark.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/03/opinion/gender-activists-to-pennsylvania-parents-well-take-it-from-here/>
+
+---
+
+## Veterans housing complex nearly pau
+
+date: 2024-10-03, from: Hawaii Tribune Harold
+
+
+				<p>The state&#8217;s first veteran-focused senior living center will take a little longer to finally open to residents.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/03/hawaii-news/veterans-housing-complex-nearly-pau/>
+
+---
+
+## Experts report increase in native birds being shot with air rifles
+
+date: 2024-10-03, from: Hawaii Tribune Harold
+
+
+				<p>A Kailua-Kona veterinarian who has treated ill and injured wild birds for two decades said she&#8217;s seen an increase in recent years of cases in which native birds were shot by air-powered pellet rifles.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/03/hawaii-news/experts-report-increase-in-native-birds-being-shot-with-air-rifles/>
+
+---
+
+## Gun, transgender rights, porn cases loom as US Supreme Court returns
+
+date: 2024-10-03, from: Hawaii Tribune Harold
+
+
+				<p>The U.S. Supreme Court launches its new nine-month term on Monday with several major cases already on its schedule &#8212; involving guns, transgender rights, online pornography and more &#8212; and with the possibility of confronting legal disputes that may arise from the Nov. 5 presidential election. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/03/nation-world-news/gun-transgender-rights-porn-cases-loom-as-us-supreme-court-returns/>
+
+---
+
+## New CMI president arrives
+
+date: 2024-10-03, from: Marshal Islands Journal
+
+<p>An inauguration was held Tuesday for new CMI President Dr. David Newnham at Staff Sergeant Solomon Sam Basketball Court. Newnham vowed to put students first, and fulfill the vision and mission of the college. As part of the college’s tradition when installing a new president, the Board of Regents Chair Kathryn Relang and PSS Commissioner [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/new-cmi-president-arrives/">New CMI president arrives</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/new-cmi-president-arrives/>
+
+---
+
+## Lawmakers hear testimony on supplemental funding measure
+
+date: 2024-10-03, from: Guam Daily Post
+
+Local lawmakers heard support for a $36.7 million supplemental funding measure, Bill 355-37, during a public hearing Thursday, particularly over a $2 million appropriation for the Guam Cancer Trust Fund, which supports various nonprofit organizations on Guam. But public testimony… 
+
+<https://www.postguam.com/news/local/lawmakers-hear-testimony-on-supplemental-funding-measure/article_6cf89d2a-811a-11ef-8af7-63a3f4485d36.html>
+
+---
+
+## Delegate says RECA proposal ongoing
+
+date: 2024-10-03, from: Guam Daily Post
+
+Discussion on the Radiation Exposure Compensation Act resurfaced last week among federal lawmakers whose districts would benefit from the legislation, but as was the case with efforts to extend and expand the program earlier this year, that initiative is contingent… 
+
+<https://www.postguam.com/news/local/delegate-says-reca-proposal-ongoing/article_6e005d1a-8143-11ef-9a9e-53df880e1c50.html>
+
+---
+
+## Suspect in September car crash arrested following man’s death
+
+date: 2024-10-03, from: Guam Daily Post
+
+Darlene Mafnas Bascon, a motorist involved in a two-car collision in Dededo on Sept. 5, has been arrested, as the Guam Police Department reported a passenger in Bascon's vehicle died. 
+
+<https://www.postguam.com/news/local/suspect-in-september-car-crash-arrested-following-man-s-death/article_3cf7018e-812e-11ef-8569-7789cb858600.html>
+
+---
+
+## Officials: 11-year-old girl posted threats to 'shoot at the school'
+
+date: 2024-10-03, from: Guam Daily Post
+
+An 11-year-old girl is in the custody of the Department of Youth Affairs after an investigation into threats made to Astumbo Middle School on Monday implicated the preteen. 
+
+<https://www.postguam.com/news/local/officials-11-year-old-girl-posted-threats-to-shoot-at-the-school/article_7a6acff2-8145-11ef-864b-c33e1b423795.html>
+
+---
+
+## GDOE thanks National Guard for school inspection prep help
+
+date: 2024-10-03, from: Guam Daily Post
+
+The Guam Army National Guard 1st Battalion, 294th Infantry Regiment, also known as Team Binadu, is wrapping up a yearlong mission protecting the island, but the regiment's members' service to the community extended far beyond supporting the Terminal High Altitude… 
+
+<https://www.postguam.com/news/local/gdoe-thanks-national-guard-for-school-inspection-prep-help/article_4c2eeb10-813f-11ef-9870-c30faad3e739.html>
+
+---
+
+## Tropical disturbance developing near FSM
+
+date: 2024-10-03, updated: 2024-10-03, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/news/local/tropical-disturbance-developing-near-fsm/article_5e4eadf4-8152-11ef-9c59-13c538dd2638.html>
+
+---
+
+## Wind blows against Guam, CNMI:  Japanese citizens have not regained their appetite for traveling abroad
+
+date: 2024-10-03, from: Pacific Island Times
+
+By Julian Ryall   Tokyo — The Guam Visitors Bureau sent a delegation to the “Tourism EXPO Japan 2024,” which took place at the Tokyo Big... 
+
+<https://www.pacificislandtimes.com/post/wind-blows-against-guam-cnmi-japanese-citizens-have-not-regained-their-appetite-for-traveling-abr>
+
+---
+
+## Aydlett brothers' new Tower for Humanity benefit project begins
+
+date: 2024-10-03, from: Guam Daily Post
+
+The brothers Landon and Brandon Aydlett began construction on their next toy timber project on Tuesday at the Agana Shopping Center, Landon Aydlett said in a press release. Set in the center court, the brothers plan to build a 28-foot… 
+
+<https://www.postguam.com/news/local/aydlett-brothers-new-tower-for-humanity-benefit-project-begins/article_d7f51c84-8133-11ef-bc9c-8ff12f195da6.html>
+
+---
+
+## Guam National Guard attends 1st joint meeting with Palau
+
+date: 2024-10-03, from: Guam Daily Post
+
+PELELIU, Palau – A delegation from the Guam National Guard attended the 2024 United States-Republic of Palau Joint Committee Meeting in Peleliu from Sept. 16 to 17. Guam Guard delegates attended both as newly signed State Partnership Program partners with… 
+
+<https://www.postguam.com/news/local/guam-national-guard-attends-1st-joint-meeting-with-palau/article_b70a27ee-8133-11ef-a718-a39c43837ac9.html>
+
+---
+
+## ABC board sets precedent, grants alcohol license to UOG Marine Lab
+
+date: 2024-10-03, from: Guam Daily Post
+
+For the first time since 1978, the Alcoholic Beverage Control Board approved an application for a government agency to hold an industrial alcohol license, setting the precedent for licenses used for educational settings. 
+
+<https://www.postguam.com/news/local/abc-board-sets-precedent-grants-alcohol-license-to-uog-marine-lab/article_eedde278-8133-11ef-9268-ef52ff20461a.html>
+
+---
+
+## Blas, Horton earn podium in Palau
+
+date: 2024-10-03, from: Guam Daily Post
+
+This past Sunday, two of Guam’s top cyclists, Blayde Blas and Derek Horton, not only competed in the inaugural 100-kilometer Palau Cycling Challenge but secured the top spots on the podium. 
+
+<https://www.postguam.com/sports/local/blas-horton-earn-podium-in-palau/article_f7a93962-810f-11ef-b1a5-5723faafec89.html>
+
+---
+
+## Band, dance comp highlights Culture Week
+
+date: 2024-10-03, from: Marshal Islands Journal
+
+<p>WILMER JOEL Several of the island’s top bands and dancers performed during last week&#8217;s Luttok Kobban Alele festivities. Ten bands — the Ladudu Band, Pinnin Matolen, Lijaanbaru, Al in Majel (AIM) Band, LiErwa Band, Moriba, CMI Production, Brothers Band, Kajoor Wot Wor, and Kitwon Jota — competed in the Battle of the Bands, which was [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/band-dance-comp-highlights-culture-week/">Band, dance comp highlights Culture Week</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/band-dance-comp-highlights-culture-week/>
+
+---
+
+## Contributing to climate crisis solutions
+
+date: 2024-10-03, from: Pacific Island Times
+
+Majuro  — My wife and I recently took some of our grandchildren to Laura Beach at the end of the island in Majuro. We have been going... 
+
+<https://www.pacificislandtimes.com/post/contributing-to-climate-crisis-solutions>
+
+---
+
+## First Year Death Anniversary: †David Lawrence Lian Igitol
+
+date: 2024-10-03, updated: 2024-10-03, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/obituaries/first-year-death-anniversary-david-lawrence-lian-igitol/article_f299b2f0-812b-11ef-a572-930ed487d201.html>
+
+---
+
+## 3 UH research projects earn nearly $1M by Dept. of Energy
+
+date: 2024-10-03, from: University of Hawaiʻi News
+
+<p>These projects are among 39 nationwide that have been awarded a total of $36 million in funding.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/02/projects-earn-dept-of-energy-grants/">3 <abbr>UH</abbr> research projects earn nearly $1<abbr>M</abbr> by <abbr>Dept</abbr>. of Energy</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/02/projects-earn-dept-of-energy-grants/>
+
+---
+
+## The five-way race for Congress: Candidates tackle CNMI economy, federal rules and the China factor
+
+date: 2024-10-03, from: Pacific Island Times
+
+By Bryan Manabat   Saipan - The CNMI faces many obstacles to building a resilient and sustainable economy. Challenges include limited... 
+
+<https://www.pacificislandtimes.com/post/the-five-way-race-for-congress-candidates-tackle-cnmi-economy-federal-rules-and-the-china-factor>
+
+---
+
+## Weaving elementary STEM ed, culture aim of $643K grant
+
+date: 2024-10-03, from: University of Hawaiʻi News
+
+<p>The project also aims to advance next generation science education nationwide.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/02/weaving-elementary-stem-ed-culture/">Weaving elementary <abbr>STEM</abbr> ed, culture aim of $643<abbr>K</abbr> grant</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/02/weaving-elementary-stem-ed-culture/>
+
+---
+
+## Letter to the editor:  The alarming drug problem in Fiji
+
+date: 2024-10-03, from: Pacific Island Times
+
+Suva --I am writing to express my deep concern about the alarming increase in drug use across our beautiful Fiji. As a student at the... 
+
+<https://www.pacificislandtimes.com/post/letter-to-the-editor-the-alarming-drug-problem-in-fiji>
+
+---
+
+## Strategic fund promotes gender equity at USP
+
+date: 2024-10-03, from: University of the South Pacific (Fiji)
+
+<p>Three female academics at The University of the South Pacific (USP) were inaugural recipients of...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/strategic-fund-promotes-gender-equity-at-usp/">Strategic fund promotes gender equity at USP</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/strategic-fund-promotes-gender-equity-at-usp/>
+
+---
+
+## Hilda pushes nuclear justice
+
+date: 2024-10-02, from: Marshal Islands Journal
+
+<p>“Nuclear Justice and Transitional Justice” was the focus of a side event held at the UN headquarters in Geneva, Switzerland last Friday attended by President Hilda Heine and a team from the Marshall Islands. The President delivered the keynote address emphasizing the enduring impact of the Marshall Islands’ nuclear legacy and the urgent need for [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/hilda-pushes-nuclear-justice/">Hilda pushes nuclear justice</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/hilda-pushes-nuclear-justice/>
+
+---
+
+## Waikīkī sea-level rise adaptation renderings, community outreach earn award
+
+date: 2024-10-02, from: University of Hawaiʻi News
+
+<p>A <abbr>UH</abbr>-led project earned the distinguished Award of Merit from the American Institute of Architects Honolulu.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/02/aia-award/">Waikīkī sea-level rise adaptation renderings, community outreach earn award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/02/aia-award/>
+
+---
+
+## UH awarded $64K to expand a Filipino youth cultural program
+
+date: 2024-10-02, from: University of Hawaiʻi News
+
+<p><abbr>CSEAS</abbr> received a National Resource Center grant to expand the Pamana ng Lahi: Philippine Language and Culture Workshop.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/02/64k-to-expand-filipino-youth-program/"><abbr>UH</abbr> awarded $64K to expand a Filipino youth cultural program</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/02/64k-to-expand-filipino-youth-program/>
+
+---
+
+## Image of the Week: Comet
+
+date: 2024-10-02, from: University of Hawaiʻi News
+
+<p>This week’s image is from <abbr>UH</abbr> Mānoa's Shen Ran.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/02/image-of-the-week-comet/">Image of the Week: Comet</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/02/image-of-the-week-comet/>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2024-10-02, updated: 2024-10-03, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## JKPL participates in National Book Festival
+
+date: 2024-10-02, updated: 2024-10-03, from: Marianas Variety
+
+(JKPL) — An estimated 200,000 book lovers joined the Library of Congress National Book Festival in person on August 24, 2024 at the Washington Convention Center in Washington, D.C. This year’s festival theme “Books Build Us Up” celebrated the transformative power of books in all of us. Every year, the National Book Festival brings together best-selling authors, poets and illustrators with thousands of readers for book talks, panel discussions, book signings and other engaging activities from across the country and beyond to celebrate reading, literacy, authors, and community. 
+
+<https://www.mvariety.com/news/community_bulletins/jkpl-participates-in-national-book-festival/article_196e7ea0-80ce-11ef-a04e-5f30c93b6db1.html>
+
+---
+
+## DPL, Corrections, others cover WW II debris near former Hyatt
+
+date: 2024-10-02, updated: 2024-10-03, from: Marianas Variety
+
+A GOVERNMENT and private sector collaboration on Wednesday, Oct. 2, used sandbags to cover exposed metal debris adjacent to the former Hyatt hotel in Garapan. 
+
+<https://www.mvariety.com/news/local/dpl-corrections-others-cover-ww-ii-debris-near-former-hyatt/article_1d89d40a-80c7-11ef-90e7-d3a82e104c09.html>
+
+---
+
+## New researcher and evaluator at NMC-CREES’ Food Science Program
+
+date: 2024-10-02, updated: 2024-10-03, from: Marianas Variety
+
+(NMC) — As part of Northern Marianas College’s Cooperative Research, Extension, and Education Services’ continuous efforts to expand its research and extension work, the college has brought on Dr. Md. Abdur Rashid Mia, whose expertise in biochemistry, molecular biology, and pharmaceutical technology brings a fresh perspective and is anticipated to contribute significantly to the program’s development and to the development of the CNMI Green Growth Initiative’s Regenerative Development Green Economy. 
+
+<https://www.mvariety.com/news/local/new-researcher-and-evaluator-at-nmc-crees-food-science-program/article_715c7068-80c9-11ef-9ad8-ffd202527f37.html>
+
+---
+
+## Iranian missile strike on Israel shows capability for greater scale, complexity
+
+date: 2024-10-02, updated: 2024-10-03, from: Marianas Variety
+
+(Reuters) — The Iranian ballistic missile attack against Israel on Tuesday was larger, more complex and involved more advanced weapons than the strikes in April, experts say, putting greater stress on missile defenses and allowing more warheads to get through. 
+
+<https://www.mvariety.com/news/regional_world/iranian-missile-strike-on-israel-shows-capability-for-greater-scale-complexity/article_def752a4-80ca-11ef-93b3-bb6e2df885b3.html>
+
+---
+
+## SIS recognized for student success in AP program
+
+date: 2024-10-02, updated: 2024-10-03, from: Marianas Variety
+
+COLLEGE Board announced that Saipan International School has been named to the 2024 Advanced Placement Program or AP School Honor Roll. In 2023, SIS was the only CNMI school on the Honor Roll, earning Gold distinction. This year, SIS improved on its standing, earning the Platinum distinction, the highest level of distinction offered by the College Board. 
+
+<https://www.mvariety.com/news/community_bulletins/sis-recognized-for-student-success-in-ap-program/article_bff2f43a-80cf-11ef-bf36-53eb27bee838.html>
+
+---
+
+## Rare ‘wallet’ of Viking-era treasure found in Isle of Man
+
+date: 2024-10-02, updated: 2024-10-03, from: Marianas Variety
+
+LONDON (Reuters) — Two British metal detectorists have unearthed a rare hoard of 1,000-year-old silver coins on the Isle of Man, shedding light on a vibrant Viking-era economy where traders and cash moved through England and Ireland. 
+
+<https://www.mvariety.com/lifestyle/rare-wallet-of-viking-era-treasure-found-in-isle-of-man/article_eebdf8b2-80d1-11ef-aa02-f3707728022d.html>
+
+---
+
+## Louis Vuitton shows flouncy, layered looks at the Louvre for Paris Fashion Week
+
+date: 2024-10-02, updated: 2024-10-03, from: Marianas Variety
+
+PARIS (Reuters) — Louis Vuitton womenswear designer Nicolas Ghesquiere showed a lineup of layered looks with short, flouncy skirts and puffy-sleeved jackets for the label's spring-summer outing on Tuesday, the last day of Paris Fashion Week. 
+
+<https://www.mvariety.com/lifestyle/louis-vuitton-shows-flouncy-layered-looks-at-the-louvre-for-paris-fashion-week/article_78e41838-80d1-11ef-857e-d714b4af9948.html>
+
+---
+
+## Local food group acquires Cinnabon Guam franchise  
+
+date: 2024-10-02, from: Pacific Island Times
+
+By Pacific Island Times News Staff A local food group of international brands, which owns franchises for Subway Restaurants and Chili’s... 
+
+<https://www.pacificislandtimes.com/post/local-food-group-acquires-cinnabon-guam-franchise>
 
 ---
 
@@ -331,14 +924,64 @@ date: 2024-10-02, from: Hawaii Tribune Harold
 
 ---
 
-## Regents on track to select next UH President in late October
+## Property manager points to people taking trash for dumping of senator's documents
+
+date: 2024-10-02, from: Guam Daily Post
+
+The dumping of trash in Hagåtña allegedly belonging to the office of Sen. Joanne Brown seems to be a case of "scavengers" or individuals acting unlawfully, based on a letter from the property manager of the senator's office, which is… 
+
+<https://www.postguam.com/news/local/property-manager-points-to-people-taking-trash-for-dumping-of-senators-documents/article_c6dd600e-807b-11ef-bdd1-d3c4cd624a48.html>
+
+---
+
+## Alleged ‘pyromaniac’ charged
+
+date: 2024-10-02, from: Guam Daily Post
+
+A man charged with three counts of arson allegedly admitted to setting a car, a dumpster and residential trash bins on fire "for fun" after consuming alcohol. 
+
+<https://www.postguam.com/news/local/alleged-pyromaniac-charged/article_bb682ac8-8081-11ef-8c24-d7839c406206.html>
+
+---
+
+## GDOE oversight: Teacher, aide  vacancies, inspections discussed
+
+date: 2024-10-02, from: Guam Daily Post
+
+The Guam Department of Education currently has 49 teacher vacancies and 41 school aide vacancies, with 38 of those being aides who work with students with special education needs, according to presentations made Tuesday during a legislative oversight hearing on… 
+
+<https://www.postguam.com/news/gdoe-oversight-teacher-aide-vacancies-inspections-discussed/article_1903c710-8059-11ef-bbef-23219264cbc6.html>
+
+---
+
+## Attorney says UOG campus ban  on client Analista is retaliation
+
+date: 2024-10-02, from: Guam Daily Post
+
+The board of regents at the University of Guam has adopted a resolution that not only sustains the termination of former administrator Norman Analista but also bars him from returning to the university campus for a period of time, a… 
+
+<https://www.postguam.com/news/local/attorney-says-uog-campus-ban-on-client-analista-is-retaliation/article_0c7ff270-7feb-11ef-a802-cbc2b484f36e.html>
+
+---
+
+## Regents on track to select next UH President in mid-October
 
 date: 2024-10-02, from: University of Hawaiʻi News
 
 <p>The regents are asking all stakeholders and the public to provide feedback on the finalists.</p>
-The post <a href="https://www.hawaii.edu/news/2024/10/01/regents-on-track-to-select-next-uh-president/">Regents on track to select next <abbr>UH</abbr> President in late October</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2024/10/01/regents-on-track-to-select-next-uh-president/">Regents on track to select next <abbr>UH</abbr> President in mid-October</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <https://www.hawaii.edu/news/2024/10/01/regents-on-track-to-select-next-uh-president/>
+
+---
+
+## NOAA: Severe reef bleaching  threat for 1st time in 7 years
+
+date: 2024-10-02, from: Guam Daily Post
+
+Guam’s coral reefs are predicted to experience severe, widespread coral bleaching and death for the first time in seven years, according to a press release from the Guam Coral Reef Initiative. 
+
+<https://www.postguam.com/news/local/noaa-severe-reef-bleaching-threat-for-1st-time-in-7-years/article_a2a50b0a-806d-11ef-a456-dff89b45235d.html>
 
 ---
 
@@ -357,7 +1000,7 @@ The post <a href="https://www.hawaii.edu/news/2024/10/01/hawaiian-word-of-the-we
 
 date: 2024-10-02, from: University of Hawaiʻi News
 
-<p>Share a favorite recipe with our <abbr>UH</abbr> &#6998;ohana.</p>
+<p>Share a favorite recipe with our <abbr>UH</abbr> &#699;ohana.</p>
 The post <a href="https://www.hawaii.edu/news/2024/10/01/share-your-uh-mazing-holiday-recipe/">Share your UH-mazing holiday recipe</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <https://www.hawaii.edu/news/2024/10/01/share-your-uh-mazing-holiday-recipe/>
@@ -909,8 +1552,8 @@ date: 2024-10-01, from: Hawaii Tribune Harold
 
 date: 2024-10-01, from: Island Times
 
-<figure><img width="1024" height="576" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/boat-race.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/boat-race.jpg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/boat-race.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/boat-race.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/boat-race.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/boat-race.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/boat-race.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/boat-race.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/boat-race.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72881" data-permalink="https://islandtimes.org/boats-markets-and-milestones-palauans-mark-the-30th-independence-day-anniversary/boat-race/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/boat-race.jpg?fit=1280%2C720&amp;ssl=1" data-orig-size="1280,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="boat race" data-image-description="" data-image-caption="&lt;p&gt;Boat racing, Day market and items on display during the 30th Independence Day celebrations. Photo credit: Rivers Reklai&lt;/p&gt;
-" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/boat-race.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/boat-race.jpg?fit=780%2C439&amp;ssl=1" tabindex="0" role="button" /></figure>
+<figure><img width="1024" height="576" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/imagee.jpeg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/imagee.jpeg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/imagee.jpeg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/imagee.jpeg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/imagee.jpeg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/imagee.jpeg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/imagee.jpeg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/imagee.jpeg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/imagee.jpeg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72904" data-permalink="https://islandtimes.org/boats-markets-and-milestones-palauans-mark-the-30th-independence-day-anniversary/imagee/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/imagee.jpeg?fit=1280%2C720&amp;ssl=1" data-orig-size="1280,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="imagee" data-image-description="" data-image-caption="&lt;p&gt;Photo Credits: Rivers Phillip Reklai&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/imagee.jpeg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/imagee.jpeg?fit=780%2C439&amp;ssl=1" tabindex="0" role="button" /></figure>
 <p>By: Samantha Iyar Koror, Palau – September 29, 2024 – Friends, families, and visitors gathered at the Japan-Koror Friendship Bridge to celebrate Palau&#8217;s 30th Independence Day with a variety of events under the bright, sunny skies. The day was packed with activities, including a bustling day market on the Airai side, featuring food, souvenirs, and [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/boats-markets-and-milestones-palauans-mark-the-30th-independence-day-anniversary/">Boats, Markets, and Milestones: Palauans mark the 30th Independence Day Anniversary</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -963,6 +1606,9 @@ date: 2024-10-01, from: Island Times
 
 date: 2024-10-01, from: Island Times
 
+<figure><img width="1024" height="576" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/image.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/image.jpg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/image.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/image.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/image.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/image.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/image.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/image.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/image.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72901" data-permalink="https://islandtimes.org/sugiyama-wins-30th-independence-day-category-2-utility-4boat-race-official-results-pending/image-12/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/image.jpg?fit=1280%2C720&amp;ssl=1" data-orig-size="1280,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="image" data-image-description="" data-image-caption="&lt;p&gt;Photo Credits: Rivers Phillip Reklai&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/image.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/image.jpg?fit=780%2C439&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>BY: Eustoria Maria Borja KOROR, Palau – The 30th Independence Day Boat Race drew enthusiasts to the Japan-Palau Friendship Bridge on Saturday, where former Legislator At-Large Jennifer Sugiyama claimed first place in the competitive Category 2 – Utility 4, 150 HP race. Sugiyama, who is now a talk show host for Palau Wave Productions, was [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/sugiyama-wins-30th-independence-day-category-2-utility-4boat-race-official-results-pending/">Sugiyama Wins 30th Independence Day Category 2 – Utility 4Boat Race; Official Results Pending</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
 
@@ -1168,16 +1814,6 @@ date: 2024-10-01, from: Guam Daily Post
 Attorney General Douglas Moylan isn’t sugarcoating anything, especially when it comes to the increasing methamphetamine problem that has plagued Guam for decades, telling the community in his latest billboard campaign that “Meth Kills,” the Office of the Attorney General said… 
 
 <https://www.postguam.com/news/local/ag-launches-meth-kills-campaign/article_c3d0bc14-7ec6-11ef-a559-bbf66a1201ba.html>
-
----
-
-## A dangerous proposal
-
-date: 2024-10-01, from: Pacific Island Times
-
-While I am neither a golfer nor land/homeowner in this area of Dededo, it seems rather absurd to close a public golf course as well as... 
-
-<https://www.pacificislandtimes.com/post/an-dangerous-proposal>
 
 ---
 

@@ -1,11 +1,31 @@
 ---
 title: health
-updated: 2024-10-02 07:38:41
+updated: 2024-10-03 08:50:18
 ---
 
 # health
 
-(date: 2024-10-02 07:38:41)
+(date: 2024-10-03 08:50:18)
+
+---
+
+## Chemical composition and antifungal activity of Capsicum pepper aqueous extracts against plant pathogens and food spoilage fungi
+
+date: 2024-10-03, from: Frontiers in Cellular and Infection Microbiology
+
+Capsicum pepper is a rich source of phytochemical compounds such as capsaicinoids, phenols, flavonoids, and so forth. Due to their antimicrobial and antioxidant potential all of these compounds have been assessed and used for both human and plant health benefits. Herein, three fresh varieties of Capsicum annuum (Cacho de Cabra, Bell pepper, and Hungarian Wax varieties) and one fresh and ripe variety of C. baccatum (Cristal) were evaluated. Capsaicin, dihydrocapsaicin, nordihydrocapsaicin and the phenolic content of Capsicum spp. extracts were characterised. The antifungal potential of capsaicinoids and antioxidant activities, and the ecotoxicity of each Capsicum spp. extract, using the model Galleria mellonella, were also evaluated. Phytochemical analyses showed that the Cristal and Hungarian Wax varieties presented the highest amount of capsaicin, dihydrocapsaicin, and nordihydrocapsaicin; while Bell Pepper had the highest phenol content and antioxidant activity. Capsaicinoids’ standards and Capsicum spp. extracts showed fungistatic activity against the fungal strains assessed. For the fungal strains assessed, the fungistatic activities of capsaicinoids’ standards were higher than those observed in Capsicum spp. extracts. The Hungarian Wax extracts inhibited slightly the growth of Aspergillus niger MUM05.11 and Fusarium oxysporum MUM16.143. Similarly, A. niger, F. oxysporum, Rhizopus arrhizus MUM16.05 and Alternaria sp. UFRO17.178 had their growth retarded by the use of Cacho de Cabra and Cristal extracts. Noticeable changes were observed in the fungal strains’ morphologies, such as the presence of fragile fungal structures, pigmentation loss, variation in the reproductive structures size and the conidia number. Capsicum extracts weaken the growth of fungi, indicating their fungistatic potential. Considering the fungistatic potential and non-ecotoxicity of these extracts, it is possible to suggest their use as a tool for pest management in the agri-food sector, controlling the growth and reproduction of fungi without posing a risk to non-target biodiversity. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1451287>
+
+---
+
+## Epidemiological characteristics of three herpesviruses infections in children in Nanjing, China, from 2018 to 2023
+
+date: 2024-10-03, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectiveTo evaluate the epidemiology characteristics of Herpes simplex virus type 2 (HSV-2), Epstein-Barr virus (EBV) and Cytomegalovirus (CMV) infection in children from January 2018 to December 2023, in Nanjing, China.MethodsWe conducted a retrospective analysis of 21,210, 49,494 and 32,457 outpatients and inpatients aged 1 day to 17 years who were subjected to the three herpesviruses (HSV-2, EBV, and CMV) nucleic acid testing from January 2018 to December 2023, respectively. Demographic information, laboratory findings, etc. were collected and analyzed. HSV-2, EBV and CMV nucleic acid testing were performed by real-time PCR.ResultsThe total rate of detection of the three herpesviruses for all specimens was 0.32% (67/21,210), 14.99% (7419/49,494), and 8.88% (2881/32,457), respectively. A declining trend in the incidence of viral infections over the years was observed for the three herpesviruses (all P<0.05). The detection rate for HSV-2, EBV, and CMV was highest among patients aged 1-3 years, 3-7 years, and 28 days to 1 year, respectively (all P<0.05). The presence of HSV-2 and CMV infection did not exhibit a discernible seasonal pattern, whereas EBV typically demonstrated an elevation during the summer and autumn.ConclusionEBV and CMV were both prevalent among children in China, except for HSV-2. The annual prevalence of the three herpesviruses show decreasing trend from 2018 to 2023, and no difference in gender (except for EBV). EBV infections usually occur in the summer and autumn, whereas HSV-2 and CMV do not exhibit significant seasonality. The positivity rate of HSV-2 is highest in 1-3 years, EBV is highest in 3-7 years, and that of CMV is highest in 28 days to 1 year. Positive detection rates are higher in outpatients than in inpatients. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1448533>
 
 ---
 

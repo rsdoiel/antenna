@@ -1,11 +1,385 @@
 ---
 title: going electric
-updated: 2024-10-02 07:38:42
+updated: 2024-10-03 08:50:19
 ---
 
 # going electric
 
-(date: 2024-10-02 07:38:42)
+(date: 2024-10-03 08:50:19)
+
+---
+
+## EVgo gets a $1.05B DOE loan for 7,500 DC fast chargers
+
+date: 2024-10-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/EVgo_station_near_multifamily.jpg_download1_gl1_1b8vbag__gcl_au_NDY2NDI3MTAuMTcyMzU4MTAxMA.__ga_ODg5NTk2NDk4LjE2OTgxNzk3NTI.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://www.evgo.com/" target="_blank" rel="noreferrer noopener">EVgo</a> (Nasdaq: EVGO) has received a conditional commitment for a $1.05 billion US Department of Energy loan to build around 7,500 DC fast chargers.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dc-fast-charging,department-of-energy,evgo,solar,united-states-department-of-energy" data-layer-viewtype="unknown" data-post-id="382586" href="https://electrek.co/2024/10/03/evgo-gets-a-1-05b-doe-loan-for-7500-dc-fast-chargers/#more-382586" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/03/evgo-gets-a-1-05b-doe-loan-for-7500-dc-fast-chargers/>
+
+---
+
+## New off-grid solar-powered device can charge 12 electric bikes
+
+date: 2024-10-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/beam-head-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Beam Global, a company that builds sustainable infrastructure solutions for the transportation industry, today unveiled a new off-grid charging platform designed to provide secure charging for up to 12 electric bicycles.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,solar-power" data-layer-viewtype="unknown" data-post-id="382577" href="https://electrek.co/2024/10/03/new-off-grid-solar-powered-device-can-charge-12-electric-bikes/#more-382577" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/03/new-off-grid-solar-powered-device-can-charge-12-electric-bikes/>
+
+---
+
+## Tesla fans start rumor McDonald’s is going to partner with Tesla’s Cybercab
+
+date: 2024-10-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Tesla-Cybercab-Mcdonalds.webp?w=1456" /></div><p>Tesla fans are starting a rumor that McDonald’s is going to partner with Tesla on its Robotaxi/Cybercab based on a cryptic message the fast-food chain posted.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="382579" href="https://electrek.co/2024/10/03/tesla-fans-rumor-mcdonalds-partner-tesla-cybercab/#more-382579" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/03/tesla-fans-rumor-mcdonalds-partner-tesla-cybercab/>
+
+---
+
+## Toyota Reportedly Delays Production Of Its First U.S.-Made EV
+
+date: 2024-10-03, from: Inside EVs News
+
+The automaker will now start producing its three-row electric SUV in Kentucky in 2026, Nikkei reports.  
+
+<https://insideevs.com/news/736052/toyota-us-ev-production-delay/>
+
+---
+
+## Nissan's Death Spiral Continues
+
+date: 2024-10-03, from: Inside EVs News
+
+Plus, the U.S. has passed $2 billion in EV tax credits and the EU is ready to move forward with Chinese EV tariffs. 
+
+<https://insideevs.com/news/735968/nissan-death-spiral-continues-global/>
+
+---
+
+## Tesla reveals how many Cybertrucks it produced through yet another recall
+
+date: 2024-10-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/02/Toyota-Tesla-Cybertruck.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Tesla is recalling the Cybertruck again, but it’s another over-the-air software update fix, so it’s no big deal. But what it does is reveal how many Cybertrucks Tesla has produced to date.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="382560" href="https://electrek.co/2024/10/03/tesla-reveals-how-many-cybertrucks-it-produced-another-recall/#more-382560" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/03/tesla-reveals-how-many-cybertrucks-it-produced-another-recall/>
+
+---
+
+## Enel X Way JuiceBox Charger Customers Are Cut Off And Left In The Dark
+
+date: 2024-10-03, from: Inside EVs News
+
+The charging company abruptly announced it is shutting down in the U.S. and Canada, leaving owners without connected features. 
+
+<https://insideevs.com/news/736041/enel-x-juicebox-discontinued/>
+
+---
+
+## Toyota is delaying new US-made electric SUVs, but there’s more to it
+
+date: 2024-10-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Toyota-delaying-electric-SUVs.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/toyota/">Toyota</a> will not make electric SUVs in the US starting next year as planned. According to a new report, Toyota is delaying production of new electric SUVs in the US by several months. The company is blaming the holdup on slowing EV sales in the US, but are they really?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lexus,toyota" data-layer-viewtype="unknown" data-post-id="382557" href="https://electrek.co/2024/10/03/toyota-delaying-new-us-made-electric-suvs-more/#more-382557" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/03/toyota-delaying-new-us-made-electric-suvs-more/>
+
+---
+
+## Climate change made Helene 200x more likely – but just 3% of TV news said so
+
+date: 2024-10-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/hurricane-helene-csu-cira-noaa.jpeg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Hurricane Helene has made its way through the southeast US as the strongest storm of the 2024 season and potentially the costliest storm ever recorded. But if you watch US media, you’d barely know that the true culprit behind Helene’s record-breaking strength is <em>us</em> – the climate change that we humans caused by burning fossil fuels.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="climate-change" data-layer-viewtype="unknown" data-post-id="382328" href="https://electrek.co/2024/10/03/climate-change-made-helene-200x-more-likely-but-just-3-of-tv-news-said-so/#more-382328" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/03/climate-change-made-helene-200x-more-likely-but-just-3-of-tv-news-said-so/>
+
+---
+
+## The Nissan Leaf Is Still Alive And Kicking: U.S. Sales Up 187% In The Third Quarter
+
+date: 2024-10-03, from: Inside EVs News
+
+The aging electric hatchback is still going strong, at least compared to last year's figures. 
+
+<https://insideevs.com/news/736020/nissan-ev-sales-us-q3-2024/>
+
+---
+
+## 24M shares test data of new Impervio separator that helps reduce EV battery fires
+
+date: 2024-10-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/EV-battery-fires-24M.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Volkswagen-backed battery developer <a href="https://electrek.co/guides/24m-technologies/">24M Technologies</a> has shared test data showcasing its Impervio separator technology, which helps reduce the risk of EV battery fires. The video footage below shows a side-by-side comparison of conventional EV cells overcharged with and without an Impervio separator in real-time, demonstrating the technology’s potential in the future.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="24m-technologies,electric-vehicle-fire,ev-batteries" data-layer-viewtype="unknown" data-post-id="382524" href="https://electrek.co/2024/10/03/24m-shares-test-data-impervio-separator-helps-reduce-ev-battery-fires/#more-382524" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/03/24m-shares-test-data-impervio-separator-helps-reduce-ev-battery-fires/>
+
+---
+
+## Ford ‘Outpaced The Industry’: F-150 Lightning Sales More Than Doubled In The Third Quarter
+
+date: 2024-10-03, from: Inside EVs News
+
+Ford's EV lineup is having a record sales run this year, even if the Mustang Mach-E went into the red in the previous quarter. 
+
+<https://insideevs.com/news/735988/ford-record-ev-sales-q3-2024/>
+
+---
+
+## NYC launches North American Electric Construction Coalition
+
+date: 2024-10-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/electric-cities.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On today’s electrifying episode of <em><a href="https://www.youtube.com/@ElectrekDaily">Quick Charge</a></em>, we’ve got Sylvie Binder from the New York City Mayor’s Office here to tell us about the newly launched North American Electric Construction Coalition (NAECC) is committed to decarbonizing the construction industry, and NYC is already making serious headway.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,heavy-equipment,new-york,quick-charge" data-layer-viewtype="unknown" data-post-id="382487" href="https://electrek.co/2024/10/02/nyc-launches-north-american-electric-construction-coalition-quick-charge/#more-382487" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/02/nyc-launches-north-american-electric-construction-coalition-quick-charge/>
+
+---
+
+## Utah’s first floating solar farm is complete [video]
+
+date: 2024-10-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Floating-solar-Utah.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Renewable developer <a href="https://www.ameresco.com/" target="_blank" rel="noreferrer noopener">Ameresco</a> teamed up with water utility Mountain Regional Water Special Service District to launch Utah’s first floating solar farm. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,solar-power,utah" data-layer-viewtype="unknown" data-post-id="382480" href="https://electrek.co/2024/10/02/utahs-first-floating-solar-farm-is-complete-video/#more-382480" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/02/utahs-first-floating-solar-farm-is-complete-video/>
+
+---
+
+## Used Mercedes-Benz EQBs Are Now Below $30,000
+
+date: 2024-10-02, from: Inside EVs News
+
+The Mercedes-Benz EQB isn’t a bad car; it just cost way too much money brand new. But used ones are a screaming deal now. 
+
+<https://insideevs.com/news/735964/used-mercedes-eqb-30k/>
+
+---
+
+## Sneak peek at Rove’s first ‘full-service’ EV charger, opening Oct 15
+
+date: 2024-10-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/P1044374-e1727900082612.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Rove, a new developer of full-service charging stations, has finished construction of its <a href="https://www.rovecharging.com/centers/santa-ana">first charging station in Santa Ana, California</a>, and invited us for a sneak peek ahead of its opening this month. The station includes 40 charging spots, a grocery store, indoor and outdoor seating, a car wash, and even a small dog park.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-charging-stations,rove-charging" data-layer-viewtype="unknown" data-post-id="382457" href="https://electrek.co/2024/10/02/sneak-peek-at-roves-first-full-service-ev-charger-opening-oct-15/#more-382457" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/02/sneak-peek-at-roves-first-full-service-ev-charger-opening-oct-15/>
+
+---
+
+## Rivian R1T gets dragged 100 feet after Hurricane Helene and still runs [Video]
+
+date: 2024-10-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Rivian-R1T-Hurricane-Helene.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>When Rivian said its electric pickup was built to “handle it all,” it wasn’t bluffing. A <a href="https://electrek.co/guides/rivian-r1t/">Rivian R1T</a> owner in Asheville, North Carolina, had his vehicle dragged 100 to 150 feet after Hurricane Helene swept through the area. To even his surprise, Rivian’s electric pickup was still ready to run.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian,rivian-r1t" data-layer-viewtype="unknown" data-post-id="382452" href="https://electrek.co/2024/10/02/rivian-r1t-dragged-hurricane-helene-still-runs-video/#more-382452" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/02/rivian-r1t-dragged-hurricane-helene-still-runs-video/>
+
+---
+
+## Arkansas’ largest-ever solar project gets $32M from Climate United
+
+date: 2024-10-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Scenic-Hill-Solar-Image-5.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>US nonprofit coalition Climate United announced $31.8 million in direct financing for the largest commercial and industrial solar deployment in Arkansas’ history. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,solar-power" data-layer-viewtype="unknown" data-post-id="382438" href="https://electrek.co/2024/10/02/arkansas-largest-ever-solar-project-gets-32m-from-climate-united/#more-382438" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/02/arkansas-largest-ever-solar-project-gets-32m-from-climate-united/>
+
+---
+
+## Elon Musk celebrates winning lawsuit over Tesla self-driving claims with embarrassing defense
+
+date: 2024-10-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/fred5648_Elon_Musk_looking_embarassed_in_front_of_a_judge_in_co_b7fa0a6e-6a38-4ff2-a553-f67e3f7a132a.webp?w=1100" /></div><p>Elon Musk is celebrating winning a lawsuit over his misleading claims regarding Tesla’s self-driving program.</p>
+
+
+
+<p>However, before celebrating, he should take a closer look at the defense his lawyers took: puffery.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="382450" href="https://electrek.co/2024/10/02/elon-musk-celebrates-winning-lawsuit-tesla-self-driving-claims-embarrassing-defense/#more-382450" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/02/elon-musk-celebrates-winning-lawsuit-tesla-self-driving-claims-embarrassing-defense/>
+
+---
+
+## Updated Mitsubishi Outlander PHEV Has Larger Battery, Debuts In Europe
+
+date: 2024-10-02, from: Inside EVs News
+
+The 2025 model year of the fourth-generation Outlander plug-in hybrid has more electric range but also more power. 
+
+<https://insideevs.com/news/735941/mitsubishi-outlander-phev-bigger-battery/>
+
+---
+
+## Kia launches the 2025 Ray EV starting under $21,000
+
+date: 2024-10-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Kia-2025-Ray-EV-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/kia/">Kia</a> officially launched the 2025 Ray EV in Korea with the same low starting price of under $21,000. However,  the new model year gains additional features. With incentives, the entry-level electric car can be bought for as little as $15,000 (20 million won)</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia" data-layer-viewtype="unknown" data-post-id="382422" href="https://electrek.co/2024/10/02/kia-launches-2025-ray-ev-starting-under-21000/#more-382422" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/02/kia-launches-2025-ray-ev-starting-under-21000/>
+
+---
+
+## Segway MAX G30LP hits new $450 Prime Day low, Lectric extra battery e-bike bundle $1,399, Bluetti power stations 57% off, more
+
+date: 2024-10-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Segway-Ninebot-Max-G30LP-Foldable-Electric-Scooter-newer-FI-1.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Fall’s Prime Day pricing is dropping early folks, with today’s Green Deals spotlighting <a href="https://9to5toys.com/2024/10/02/segway-ninebot-max-g30lp-e-scooter-with-regen-brakes-now-at-450-fall-prime-day-low/">Segway’s Ninebot MAX G30LP KickScooter</a> which is now down at a <a href="https://9to5toys.com/2024/10/02/segway-ninebot-max-g30lp-e-scooter-with-regen-brakes-now-at-450-fall-prime-day-low/">new $450 fall Prime Day low</a>. Coming up right behind it is <a href="https://9to5toys.com/2024/10/02/score-776-in-free-gear-with-lectrics-xpeak-off-road-e-bikes-including-extra-battery-for-110-mile-range-at-1399/">Lectric’s XPeak Off-Road e-bikes</a> that have shaken off the recent price cut in favor of receiving $776 in free gear, including an extra battery for double travel distance – all for <a href="https://9to5toys.com/2024/10/02/score-776-in-free-gear-with-lectrics-xpeak-off-road-e-bikes-including-extra-battery-for-110-mile-range-at-1399/">$1,399</a>. Bluetti has also launched its fall Prime Day sale that has returned its <a href="https://9to5toys.com/2024/10/02/bluettis-ac200l-2048wh-lifepo4-power-station-returns-to-1199-low-in-early-fall-prime-day-sale-save-800-more/">AC200L Portable Power Station</a> back to its <a href="https://9to5toys.com/2024/10/02/bluettis-ac200l-2048wh-lifepo4-power-station-returns-to-1199-low-in-early-fall-prime-day-sale-save-800-more/">$1,199 low</a>. You can also prepare for the snow season at a great price with the <a href="https://9to5toys.com/2024/10/01/prep-for-snowfall-with-the-ego-power-56v-21-inch-cordless-electric-snow-blower-at-549-and-save-100/">EGO Power+ 56V 21-inch Cordless Electric Snow Blower</a>, and EV drivers are getting another one-day sale for <a href="https://9to5toys.com/2024/10/02/rexings-tesla-to-j1772-ev-adapter-provides-a-more-compatible-charge-at-110-for-today-only-reg-160/">Rexing’s Tesla to J1772 EV Charger Adapter</a> too. Plus, all the other hangover Green Deals in the links at the bottom of the page, like yesterday’s ongoing discounts on <a href="https://9to5toys.com/2024/10/01/teslas-universal-and-standard-wall-connector-ev-charging-stations-see-rare-price-cut-to-new-lows-from-420/">Tesla’s Universal and Standard Wall Connector</a> level 2 EV charging stations, and much more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="382425" href="https://electrek.co/2024/10/02/segway-ninebot-max-g30lp-kickscooter-lectric-e-bike-bundle-bluetti-more/#more-382425" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/02/segway-ninebot-max-g30lp-kickscooter-lectric-e-bike-bundle-bluetti-more/>
+
+---
+
+## Rivian R1T Still Runs After Being Carried 100 Yards By Hurricane Helene Flood
+
+date: 2024-10-02, from: Inside EVs News
+
+An electric pickup truck apparently withstood flooding that would have destroyed a conventional combustion vehicle. 
+
+<https://insideevs.com/news/735934/rivian-r1t-flood-hurrican-helene/>
+
+---
+
+## Demand Is Sliding For One Of The Coolest EVs Available Today
+
+date: 2024-10-02, from: Inside EVs News
+
+No matter how much effort automakers put into making an EV appealing, buyers aren’t interested unless it’s a crossover. 
+
+<https://insideevs.com/news/735930/hyundai-ioniq-6-sales-down/>
+
+---
+
+## BYD shatters Q3 and September sales records as growth streak continues
+
+date: 2024-10-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/BYD-new-EVs-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>China’s leading EV maker hit a milestone, selling over 400,000 vehicles for the first time last month. <a href="https://electrek.co/guides/byd/">BYD</a> just had its fourth straight month of record-breaking sales as its dominant run continued in September. Will it be enough to top Tesla for the global EV sales crown?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="382398" href="https://electrek.co/2024/10/02/byd-shatters-q3-september-sales-records/#more-382398" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/02/byd-shatters-q3-september-sales-records/>
+
+---
+
+## Enel X Way North America is shutting down – here’s what we know
+
+date: 2024-10-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/04/Enel-X-Way-JuicePump-Photo.jpg?quality=82&#038;strip=all&#038;w=1499" /></div><p>Enel X Way North America has announced it’s shutting down its residential and commercial EV charger business in the US and Canada, effective October 11, 2024.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dc-fast-charging,enel,ev-chargers,ev-charging,juicebox" data-layer-viewtype="unknown" data-post-id="382400" href="https://electrek.co/2024/10/02/enel-x-way-north-america-is-shutting-down-heres-what-we-know/#more-382400" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/02/enel-x-way-north-america-is-shutting-down-heres-what-we-know/>
+
+---
+
+## Electric scooter giant Gogoro cleared of fraud charges after investigation
+
+date: 2024-10-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/05/gogoro-korea-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Last week, <a href="https://electrek.co/2024/09/14/gogoro-ceo-resigns-amid-accusations-of-subsidy-fraud/">we reported on news</a> of Gogoro’s founder and CEO, Horace Luke, resigning amid accusations of subsidy fraud by the company in its domestic market of Taiwan. Now we’ve learned that the Taiwanese government has concluded that there is insufficient evidence to support the claims of fraud in an investigation relating to an earlier case of misidentified non-domestic components.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-scooter,gogoro" data-layer-viewtype="unknown" data-post-id="382360" href="https://electrek.co/2024/10/02/electric-scooter-giant-gogoro-cleared-of-fraud-charges-after-investigation/#more-382360" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/02/electric-scooter-giant-gogoro-cleared-of-fraud-charges-after-investigation/>
+
+---
+
+## European Automakers May Feel The Heat Amid Dockworkers Strike
+
+date: 2024-10-02, from: Inside EVs News
+
+We also discuss Kia's plans to enter Japan and how Xpeng will fight the EU tariffs. 
+
+<https://insideevs.com/news/735919/dockworkers-strike-puts-european-brands-at-risk/>
+
+---
+
+## Ford officially overthrown by GM in Q3 electric vehicle sales in the US
+
+date: 2024-10-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Ford-free-EV-charger.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/ford/">Ford</a> said it remains the second best-selling EV brand in the US behind Tesla, but is it really? Ford was topped by <a href="https://electrek.co/guides/gm/">GM</a> in Q3 electric vehicle sales as the race intensifies into the end of the year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford,gm" data-layer-viewtype="unknown" data-post-id="382385" href="https://electrek.co/2024/10/02/ford-officially-overthrown-by-gm-q3-electric-vehicle-sales/#more-382385" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/02/ford-officially-overthrown-by-gm-q3-electric-vehicle-sales/>
 
 ---
 
@@ -23,7 +397,7 @@ date: 2024-10-02, from: Electrek Feed
 
 ---
 
-## These Are All The Non-Tesla EVs That Can Use Tesla Superchargers
+## All The Non-Tesla EVs That Can Use Tesla Superchargers
 
 date: 2024-10-02, from: Inside EVs News
 
@@ -85,7 +459,7 @@ date: 2024-10-02, from: Electrek Feed
 
 ---
 
-## Dead: Cheapest Tesla Model 3 Discontinued In U.S.
+## Tesla Model 3’s Cheapest Trim Discontinued In U.S.
 
 date: 2024-10-02, from: Inside EVs News
 
@@ -251,7 +625,7 @@ date: 2024-10-01, from: Electrek Feed
 
 ---
 
-## Consumer Reports Recommends The Tesla Cybertruck. For Now, At Least
+## Consumer Reports Likes The Tesla Cybertruck. For Now, At Least
 
 date: 2024-10-01, from: Inside EVs News
 

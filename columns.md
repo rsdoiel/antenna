@@ -1,11 +1,327 @@
 ---
 title: columns
-updated: 2024-10-02 07:38:34
+updated: 2024-10-03 08:50:11
 ---
 
 # columns
 
-(date: 2024-10-02 07:38:34)
+(date: 2024-10-03 08:50:11)
+
+---
+
+## AI deflates the value of expertise
+
+date: 2024-10-03, from: Dave Winer's Scripting News
+
+<p>I didn't read the WSJ story about the deflation of expertise, quoting <a href="https://en.wikipedia.org/wiki/Vinod_Khosla">Vinod Khosla</a>, Silicon Valley venture capitalist, who I know from my time in California. He says AI leads to a deflation of expertise. I agree with him, AI absolutely deflates the value of expertise. </p>
+<p>It aggregates all of our knowledge in one place where it's easy to access, about anything you want to know. It answers questions that you can't get any other way. </p>
+<p>Some technological developments are profound. We never understand all the implications of a new technology when it comes online, but you do get some strong clues. You have to use it to know learn how to think about it. That's not unreasonable because we all grew up in a world that didn't have this technology, as my parents grew up in a world without television, and I didn't use a computer until I was 18 or use the web until I was 37. None of us grew up with anything but fiction about AI, and the fiction imho didn't grasp the implications very well.  </p>
+<p>If I ask good questions ChatGPT stretches my mind in ways it never has been stretched before and I'm well educated and in my work have explored frontiers of knowledge, even so -- this is the most mind-stretching experience I've ever had. Not kidding. And I'm not a VC or prone to overhyping tech.
+</p>
+ 
+
+<http://scripting.com/2024/10/03/152757.html?title=aiDeflatesTheValueOfExpertise>
+
+---
+
+## Setting Up a VPN Without an App on iPhone
+
+date: 2024-10-03, updated: 2024-10-03, from: Daring Fireball
+
+ 
+
+<https://forestvpn.com/blog/technology/internet-security-en/how-to-use-vpn-without-app-on-iphone/>
+
+---
+
+## Starlink Offers Free Service to Victims of Hurricane Helene
+
+date: 2024-10-03, updated: 2024-10-03, from: Daring Fireball
+
+ 
+
+<https://www.highspeedinternet.com/resources/starlink-offers-free-internet-hurricane-helene>
+
+---
+
+## Messages via Satellite Provides Lifeline to iOS 18 Users in Aftermath of Hurricane Helene
+
+date: 2024-10-03, updated: 2024-10-03, from: Daring Fireball
+
+ 
+
+<https://9to5mac.com/2024/09/30/messages-via-satellite-provides-lifeline-to-iphone-owners-in-hurricane-helene-fallout/>
+
+---
+
+## Warning: Slow Blogging Ahead
+
+date: 2024-10-03, from: David Rosenthal's blog
+
+Vicky &amp; I have recently acquired two major joint writing assignments with effective deadlines in the next couple of months. And I am still on the hook for a Wikipedia page about the late <a href="https://blog.dshr.org/2024/09/dewayne-hendricks-rip.html">Dewayne Hendricks</a>. This is all likely to reduce the flow of posts on this blog for a while, for which I apologize. 
+
+<https://blog.dshr.org/2024/10/warning-slow-blogging-ahead.html>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-03, from: Dave Winer's Scripting News)
+
+I didn't like the code ChatGPT was writing for me, so I tried it in Claude, and the code is much closer to my style. I may try that again. I've heard it's better at supporting code than other chatbots. 
+
+<http://scripting.com/2024/10/03.html#a142137>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-10-03, from: Miguel de Icaza Mastondon feed)
+
+<p>Embedded Swift with Wasm and Godot:</p><p>(Work by Jordan Schidlowsky):</p> 
+
+<https://mastodon.social/@Migueldeicaza/113243765669040404>
+
+---
+
+## Weird Zimbra Vulnerability
+
+date: 2024-10-03, updated: 2024-10-03, from: Bruce Schneier blog
+
+<p>Hackers can execute commands on a remote computer by sending <a href="https://arstechnica.com/security/2024/10/attackers-exploit-critical-vulnerability-recently-patched-in-zimbra-servers/">malformed emails</a> to a Zimbra mail server. It&#8217;s critical, but difficult to exploit.</p>
+<blockquote><p>In an email sent Wednesday afternoon, Proofpoint researcher Greg Lesnewich seemed to largely concur that the attacks weren&#8217;t likely to lead to mass infections that could install ransomware or espionage malware. The researcher provided the following details:</p>
+<ul>
+<li>While the exploitation attempts we have observed were indiscriminate in targeting, we haven&#8217;t seen a large volume of exploitation attempts
+<li>Based on what we have researched and observed, exploitation of this vulnerability is very easy, but we do not have any information about how reliable the exploitation is
+...</li></li></ul></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/10/weird-zimbra-vulnerability.html>
+
+---
+
+## Vance and the future of the anti-democracy movement 
+
+date: 2024-10-03, from: Robert Reich's blog
+
+Vance has been anointed its future leader 
+
+<https://robertreich.substack.com/p/vance-and-the-future-of-the-anti>
+
+---
+
+## October 2, 2024 
+
+date: 2024-10-03, from: Heather Cox Richardson blog
+
+When moderator Margaret Brennan noted during last night&#8217;s vice presidential debate that Republican nominee J.D. 
+
+<https://heathercoxrichardson.substack.com/p/october-2-2024>
+
+---
+
+## History Extra for October 1, 2024
+
+date: 2024-10-03, from: Heather Cox Richardson blog
+
+The rise of professional baseball in the United States was tied closely to the post-Civil War economy, which offered upwardly mobile families in urban areas a lifestyle unimaginable before 1860. 
+
+<https://heathercoxrichardson.substack.com/p/history-extra-for-october-1-2024>
+
+---
+
+## How I Use This Site
+
+date: 2024-10-03, from: Jessica Smith's blog
+
+<p>I wanted to write a blog post with some thoughts I&rsquo;ve been having about how I&rsquo;ve been using this site in recent times, and how that&rsquo;s likely to change (or not) in the short to medium-term. Basically, as you may have noticed, I&rsquo;ve been posting much less this year (and even last year) than I used to, in the early years of me having this site. There are a couple of reasons for that, which mainly boil down to me just not being in a frame of mind to blog so much. I&rsquo;ve been pregnant for most of the year, which has sapped me of a lot of the energy I used to have. I also kind of don&rsquo;t want to blog about being pregnant all the time, but it&rsquo;s been such a big thing going on in my life that it&rsquo;s like I have no ideas for anything else to blog about! It&rsquo;s just&hellip; a weird time. What else can I say?</p>
+<p>Another thing that&rsquo;s been going on is that I&rsquo;ve been posting much more <a href="https://toot.cat/jayeless" title="my Mastodon profile">on Mastodon<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a> in the first instance, and then copying posts back here – often in a big batch – when I find the energy at some point down the line. In <a href="https://www.jayeless.net/wiki/indieweb.html">IndieWeb</a> parlance, I&rsquo;ve been <abbr title="Post Elsewhere, Syndicate on Own Site">PESOS</abbr>ing, not <abbr title="Post on Own Site, Syndicate Elsewhere">POSSE</abbr>ing (and often, like I say, significantly after I first posted the posts on Mastodon). I feel like the whole &ldquo;IndieWeb&rdquo; approach to online socialising, which appealed to me so much when I first came across the idea, worked really well for so long as I had the enthusiasm to keep up with janky multi-step publication workflows&hellip; but as time has gone on, it&rsquo;s come to feel like a hassle. It&rsquo;s so much <em>easier</em> to post on Mastodon than it is to post on my own site, especially from my phone. I do have an <a href="https://getindiekit.com/">Indiekit<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a> server which is <em>supposed</em> to make posting on this site just as hassle-free, but see &ldquo;janky multi-step publication workflows&rdquo;&hellip; it&rsquo;s not the fault of Indiekit itself but it feels like there&rsquo;s <em>always</em> some reason why it doesn&rsquo;t work. The server (deployed on fly.io) crashes for no good reason. The authentication to GitLab somehow breaks. I make a mistake not escaping an apostrophe in an image&rsquo;s alt text and then the Hugo rebuild fails and I can&rsquo;t fix it until I get back on my computer. Considering I feel like the vast majority of people who read my posts read them via Mastodon anyway, I just can&rsquo;t be bothered any more! There are some things I do post here exclusively (mainly link posts), or here simultaneously with Mastodon, but I can only do that from my computer, which I&rsquo;m not using 100% of the time. Otherwise it&rsquo;s a lot easier to post first there, and use this site to archive those posts.</p>
+<p>And I mean, as I suggested, I am currently <em>very</em> pregnant. I&rsquo;m anticipating that once Baby is here, an even larger proportion of the &ldquo;internet time&rdquo; that I have will be via my phone, rather than via my computer, and I&rsquo;ll probably have less &ldquo;internet time&rdquo; overall too. So&hellip; that suggests to me that I&rsquo;m not going to get back to using this site as a &ldquo;home base&rdquo;, and <abbr title="Post on Own Site, Syndicate Elsewhere">POSSE</abbr>ing out from here, any time soon.</p>
+<p>Which is not to say that I&rsquo;m &ldquo;giving up&rdquo; on having a personal site, by any means. Certainly, even if I do post first on Mastodon, I like that archiving posts here means I&rsquo;m way more able to find them again later. If I want to browse all the Gidget pics I&rsquo;ve posted, or the thoughts I&rsquo;ve posted about pretty much any specific topic, I can do so using the tag archive pages here (or the search function). Mastodon makes it a lot harder to browse old posts. Mastodon is also not a place to post full-length blog posts (like this one) so if and when I have one of those to put out there, those&rsquo;ll be going up here first. I also like having a <a href="https://www.jayeless.net/wiki/">personal wiki</a> (even if I&rsquo;ve found that pages on anything topical are freaking impossible to keep updated), dedicated &ldquo;sections&rdquo; for link posts and book reviews, the ability to create alternate language versions to further my <a href="https://www.jayeless.net/wiki/international-auxiliary-language.html">auxlanging</a> hobby, and so forth&hellip; I mean, I could solve a lot of my own problems by migrating back to <a href="https://micro.blog">Micro.blog<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a> if all I wanted was a blog (micro + macro combined), but I like having the freedom to keep adding stuff to this site beyond the standard blog posts. I just don&rsquo;t always have the energy to keep them updated once I do. But the good thing about using <a href="https://gohugo.io">Hugo<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a> is that a deployed static website isn&rsquo;t going to break if I don&rsquo;t update it. (That said, the <em>bad</em> thing about Hugo is that sometimes a new version of Hugo itself comes out that fucks up something I&rsquo;ve been doing with this website. That&rsquo;s generally not fun to try to resolve when I&rsquo;m lacking the energy for website workflow debugging in the first place. So, I have to be careful not to cavalierly run <code>brew upgrade</code> on my computer unless I&rsquo;m prepared to risk losing the ability to locally preview stuff, haha.) So you know, this post isn&rsquo;t really to say I&rsquo;m going to be changing anything about this site. It&rsquo;s more to acknowledge the way I&rsquo;ve already been using it, over the last few months.</p>
+<p>I do wish the IndieWeb would be <em>easier</em> for people who aren&rsquo;t professional-tier web developers who can code their own <abbr title="Content Management System">CMS</abbr>es and admin their own servers. Or maybe I&rsquo;m just in an awkward place where my wants are too &ldquo;advanced&rdquo; for a ready-made solution like Micro.blog but I also don&rsquo;t have the skills (or consistent enthusiasm) to maintain something bespoke. And honestly, I feel like I&rsquo;m seeing this loss of enthusiasm among other &ldquo;IndieWeb but not diehards about it&rdquo; people that I used to follow on Micro.blog&hellip; and still do follow on Micro.blog, technically, but I so rarely even open my Micro.blog timeline any more (instead following Micro.blog accounts on Mastodon, if not the person&rsquo;s Mastodon account). People are using federated social media more, and trying other blogging platforms like <a href="https://bearblog.dev">Bear<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a> and <a href="https://pika.page">Pika<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a> (or continuing with their own blogging setups like me, but pulling away from more specific &ldquo;IndieWeb&rdquo; stuff like <abbr title="Post on Own Site, Syndicate Elsewhere">POSSE</abbr>ing or webmentions). This just seems easier, or more pleasant or something for a lot of people. I don&rsquo;t know. I mean, it&rsquo;s a hobby, right, so we&rsquo;ve got to do what we have to to make it enjoyable for ourselves, or else there&rsquo;s no point.</p>
+<p>So, how do I even wrap this up now? I guess, if you want to follow my updates online, your best bet is to follow <a href="https://toot.cat/jayeless">my Mastodon account<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a>. Feel free to follow whichever of <a href="https://www.jayeless.net/rss.html">this site&rsquo;s RSS feeds</a> you like, too – there&rsquo;s likely to be some stuff (mainly link posts) that I don&rsquo;t also post on Mastodon – but just be warned that microblog posts are likely to come in batches some time down the track from when they were actually written (but the timestamps should be accurate for the original time of writing). My life is changing, and I don&rsquo;t have the energy to keep on top of this site the way I used to, but it&rsquo;s not going anywhere! And it&rsquo;s totally possible that one day I&rsquo;ll have more capacity for it all again. At any rate&hellip; in the meantime, keep up with you all over there!</p> 
+
+<https://www.jayeless.net/2024/10/how-i-use-this-site.html>
+
+---
+
+## On the SGI again (for a moment)
+
+date: 2024-10-03, from: Jirka's blog
+
+I'm  writing  this   post  on  my  SGI  O2.  Why?   Because  it's  more distraction-free environment (no https so almost no "Internet" at all). It makes some things harder, however. Wikipedia searches are limited to the gopher interface and so on. 
+
+<http://jirka.1-2-8.net/20241003-0442_On_the_SGI_again_for_a_moment>
+
+---
+
+## Nerdy Details: The Apple iPhone 16’s Camera Control Button
+
+date: 2024-10-03, updated: 2024-10-03, from: Daring Fireball
+
+ 
+
+<https://coolhunting.com/tech/nerdy-details-the-apple-iphone-16s-camera-control-button/>
+
+---
+
+## Apple Weather Is Delivering Spurious ‘Excessive Heat’ Warnings to Users Who Are Nowhere Near the Heat Wave
+
+date: 2024-10-03, updated: 2024-10-03, from: Daring Fireball
+
+ 
+
+<https://9to5mac.com/2024/09/30/excessive-heat-warning-alert-on-iphone-heres-why/>
+
+---
+
+## From the Annals of Going Back to the Well Way Too Many Times
+
+date: 2024-10-03, updated: 2024-10-03, from: Daring Fireball
+
+ 
+
+<https://www.justice.gov/usao-dc/pr/multimillion-dollar-scheme-defraud-apple-inc-out-6000-iphones-nets-prison-terms-two>
+
+---
+
+##  Opinion: We Need More Consequences for Reckless Driving. &#8220;&#8216;Punishment&#8217; and &#8216;consequences&#8217; aren&#8217;t... 
+
+date: 2024-10-02, updated: 2024-10-02, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/0045370-opinion-we-need-more-cons>
+
+---
+
+## Election Countdown, 33 Days to Go: Did We Learn Anything from the VP Debate?
+
+date: 2024-10-02, from: James Fallows, Substack
+
+Yes. In ways the debaters probably did not anticipate. 
+
+<https://fallows.substack.com/p/election-countdown-33-days-to-go>
+
+---
+
+##  Shiny and Chrome 
+
+date: 2024-10-02, updated: 2024-10-02, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/shiny-and-chrome>
+
+---
+
+##  When I tell folks (like during my XOXO talk) that I&#8217;m leaving... 
+
+date: 2024-10-02, updated: 2024-10-02, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/0045371-when-i-tell-folks-like>
+
+---
+
+## October 1, 2024
+
+date: 2024-10-02, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/october-1-2024-037>
+
+---
+
+##  Two college students paired Meta&#8217;s Ray Ban smart glasses with facial recognition... 
+
+date: 2024-10-02, updated: 2024-10-02, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/0045373-two-college-students-pair>
+
+---
+
+##  What&#8217;s the Labor Share of National Income? 
+
+date: 2024-10-02, updated: 2024-10-02, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/whats-the-labor-share-of-national-income>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-02, from: Dave Winer's Scripting News)
+
+<a href="http://scripting.com/misc/countdown/">Counting down to 30</a>. 
+
+<http://scripting.com/2024/10/02.html#a165737>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-02, from: Dave Winer's Scripting News)
+
+When news excuses lies and when all the viewers know they're doing it, we're beyond the point of no return.
+ 
+
+<http://scripting.com/2024/10/02.html#a163550>
+
+---
+
+## At the Behest of Russia, Apple Has Purged Nearly 100 VPN Apps From the App Store
+
+date: 2024-10-02, updated: 2024-10-03, from: Daring Fireball
+
+ 
+
+<https://novayagazeta.eu/articles/2024/09/25/apple-removes-nearly-60-additional-vpns-from-its-russian-app-store-en-news>
+
+---
+
+##  The podcasts generated by Google&#8217;s NotebookLM service are &#8220;surprisingly effective&#8221;. (Whether this... 
+
+date: 2024-10-02, updated: 2024-10-02, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/0045369-the-podcasts-generated-by>
+
+---
+
+## At the Behest of YouTube, Juno Has Been Removed From the App Store
+
+date: 2024-10-02, updated: 2024-10-02, from: Daring Fireball
+
+ 
+
+<https://christianselig.com/2024/10/juno-removed/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-02, from: Dave Winer's Scripting News)
+
+I have been looking for this <a href="http://scripting.com/images/2024/10/02/palfrey2003.jpeg">picture</a> of John Palfrey, and just <a href="https://web.archive.org/web/20030604105516/http://blogs.law.harvard.edu/stories/storyReader$291">found</a> it via digging through the <a href="http://scripting.com/2004/09/29.html">archive</a> for September 2004. 
+
+<http://scripting.com/2024/10/02.html#a154235>
+
+---
+
+##  Lighthouse Parents Have More Confident Kids. &#8220;Sometimes, the best thing a parent... 
+
+date: 2024-10-02, updated: 2024-10-02, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/0045367-lighthouse-parents-have-m>
+
+---
+
+##  Great Art Explained: Van Gogh&#8217;s Last Painting 
+
+date: 2024-10-02, updated: 2024-10-02, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/great-art-explained-van-goghs-last-painting>
 
 ---
 
@@ -40,7 +356,7 @@ date: 2024-10-02, from: Jeff Geerling blog
 
 **@Dave Winer's Scripting News** (date: 2024-10-02, from: Dave Winer's Scripting News)
 
-It has been pointed out that this blog will be 30 years old on October 7, not October 10, as I had previously reported. The clock at the bottom of story pages is correct. It currently reads: 29 years, 11 months, 25 days, 19 hours, 1 minute, 34 seconds. 
+It has been pointed out that this blog will be 30 years old on <a href="http://scripting.com/2024/10/07.html">October 7</a>, not October 10, as I had previously reported. The clock at the bottom of story pages is correct. It currently reads: 29 years, 11 months, 25 days, 19 hours, 1 minute, 34 seconds. 
 
 <http://scripting.com/2024/10/02.html#a135946>
 
@@ -68,6 +384,7 @@ date: 2024-10-02, from: Dave Winer's Scripting News
 
 <p>I have a lot of podcast catching up to do today.</p>
 <ul>
+<li>A <a href="https://shownotes.scripting.com/scripting/2024/10/02/thePodcast0Feed.html">Scripting News podcast</a> from today, about the <a href="https://this.how/podcast0/">Podcast0</a> <a href="http://scripting.com/podcast0/rss.xml">feed</a> and the power of OPML subscription lists ftw.</li>
 <li>A Trade Secrets <a href="https://shownotes.scripting.com/podcast0/2024/10/02/howCanIMissYouWhenYouWontGoAway.html">cast</a> from <a href="http://scripting.com/2004/10/01.html">Oct 1, 2004</a>. </li>
 <li>A <a href="https://shownotes.scripting.com/podcast0/2024/10/02/tradeSecrets.html">Trade Secrets cast</a> with Adam and myself from <a href="http://scripting.com/2004/09/28.html">Sept 28, 2004</a>.</li>
 <li>An Morning Coffee Notes <a href="https://shownotes.scripting.com/podcast0/2024/10/02/bloglinesApiAndOtherTopics.html">episode</a> from the <a href="http://scripting.com/2004/09/28.html">same day</a>, about Bloglines, an early feed reader, the commons and fair compensation for centralized commons. </li>
@@ -182,7 +499,7 @@ date: 2024-10-02, updated: 2024-10-02, from: Bruce Schneier blog
 
 ---
 
-## Office Hours: Last night’s vice-presidential debate
+## Office Hours: Last night’s vice presidential debate
 
 date: 2024-10-02, from: Robert Reich's blog
 
@@ -972,7 +1289,7 @@ date: 2024-10-01, from: Matt Haughey blog
 
 ## Modernizing the Original ADB Keyboard From the Apple IIGS
 
-date: 2024-10-01, updated: 2024-10-01, from: Daring Fireball
+date: 2024-10-01, updated: 2024-10-03, from: Daring Fireball
 
  
 

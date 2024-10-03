@@ -1,15 +1,212 @@
 ---
 title: socal north
-updated: 2024-10-02 07:38:30
+updated: 2024-10-03 08:50:06
 ---
 
 # socal north
 
-(date: 2024-10-02 07:38:30)
+(date: 2024-10-03 08:50:06)
 
 ---
 
-## Who is the real JD Vance? And 4 other takeaways from the vice-presidential debate
+## The heat is here until the weekend. Tips on how to keep yourself and your furry friends safe
+
+date: 2024-10-03, updated: 2024-10-03, from: The LAist
+
+Heat advisories end today. But come Saturday, another excessive heat watch for the valleys kicks in. 
+
+<https://laist.com/news/climate-environment/heat-furry-friends-safe>
+
+---
+
+## What's next for foster families after an insurance shakeup threatens to upend thousands?
+
+date: 2024-10-03, updated: 2024-10-03, from: The LAist
+
+The largest insurer of foster agencies says it's ending coverage. Foster care advocates fear that if the issue isn't resolved, children will end up being displaced. 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/foster-families-youth-niac-insurance-port-agencies>
+
+---
+
+## California's 'climate credit' to put up to $86 in your pocket
+
+date: 2024-10-03, updated: 2024-10-03, from: The LAist
+
+It’s one way the state uses cap-and-trade money. 
+
+<https://laist.com/news/climate-environment/california-climate-credit-utility-bill>
+
+---
+
+## El Departamento de Policía de San Fernando Involucra a la Comunidad en la Noche Nacional
+
+date: 2024-10-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="612" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/National-Night-Out_SN_03_elsol.jpg?fit=1024%2C612&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/National-Night-Out_SN_03_elsol.jpg?w=1950&amp;ssl=1 1950w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/National-Night-Out_SN_03_elsol.jpg?resize=300%2C179&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/National-Night-Out_SN_03_elsol.jpg?resize=1024%2C612&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/National-Night-Out_SN_03_elsol.jpg?resize=768%2C459&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/National-Night-Out_SN_03_elsol.jpg?resize=1536%2C918&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/National-Night-Out_SN_03_elsol.jpg?resize=1200%2C718&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/National-Night-Out_SN_03_elsol.jpg?resize=1568%2C938&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/National-Night-Out_SN_03_elsol.jpg?resize=400%2C239&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/National-Night-Out_SN_03_elsol.jpg?resize=706%2C422&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/National-Night-Out_SN_03_elsol.jpg?fit=1024%2C612&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>El Departamento de Policía de San Fernando (SFPD, por sus siglas en inglés) llevó a cabo su Noche Nacional anual el martes 1 de octubre, invitando a la comunidad a [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/10/02/el-departamento-de-policia-de-san-fernando-involucra-a-la-comunidad-en-la-noche-nacional/">El Departamento de Policía de San Fernando Involucra a la Comunidad en la Noche Nacional</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/10/02/el-departamento-de-policia-de-san-fernando-involucra-a-la-comunidad-en-la-noche-nacional/>
+
+---
+
+## Voluntarios Plantan Árboles para el Nuevo ‘Patio Viviente’ de la Escuela Secundaria Pacoima Middle School
+
+date: 2024-10-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="771" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?fit=771%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?w=1928&amp;ssl=1 1928w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?resize=226%2C300&amp;ssl=1 226w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?resize=771%2C1024&amp;ssl=1 771w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?resize=768%2C1020&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?resize=1157%2C1536&amp;ssl=1 1157w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?resize=1542%2C2048&amp;ssl=1 1542w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?resize=1200%2C1594&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?resize=1568%2C2083&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?resize=2000%2C2656&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?resize=400%2C531&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?resize=706%2C938&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?fit=771%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Ocho años después de que la directora Simer Garcha expresara su deseo de reverdecer y embellecer su escuela en la Escuela Secundaria Pacoima Middle School, se develó el “patio viviente” [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/10/02/voluntarios-plantan-arboles-para-el-nuevo-patio-viviente-de-la-escuela-secundaria-pacoima-middle-school/">Voluntarios Plantan Árboles para el Nuevo ‘Patio Viviente’ de la Escuela Secundaria Pacoima Middle School</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/10/02/voluntarios-plantan-arboles-para-el-nuevo-patio-viviente-de-la-escuela-secundaria-pacoima-middle-school/>
+
+---
+
+## Horóscopo
+
+date: 2024-10-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Holiday Mathis (Creators.com) ARIES (21 de mar &#8211; 19 de abr) La semana presenta interacciones multigeneracionales. Aunque es de la vieja escuela, en cierto sentido es un honor que [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/10/02/horoscopo-183/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/10/02/horoscopo-183/>
+
+---
+
+## EVENTOS Locales – Semana de 3 de Octubre, 2024
+
+date: 2024-10-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Sábado, Octubre 5 Golden Future 50+ Senior Expo &#8211; Edición Valle de San Fernando Hilton Woodland Hills Hotel 6360 Canoga Ave. Woodland Hills 9 a.m. – 1:30 p.m. Este evento [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/10/02/eventos-locales-semana-de-3-de-octubre-2024/">EVENTOS Locales &#8211; Semana de 3 de Octubre, 2024</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/10/02/eventos-locales-semana-de-3-de-octubre-2024/>
+
+---
+
+## Residentes del Valle de San Fernando Discuten las Propuestas de la Boleta Electoral en ‘Props in a Minute’
+
+date: 2024-10-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Este noviembre, los votantes de California no solo votarán por el próximo presidente o congresista, sino que también determinarán el destino de 10 propuestas electorales, que cubren temas que van [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/10/02/residentes-del-valle-de-san-fernando-discuten-las-propuestas-de-la-boleta-electoral-en-props-in-a-minute/">Residentes del Valle de San Fernando Discuten las Propuestas de la Boleta Electoral en ‘Props in a Minute’</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/10/02/residentes-del-valle-de-san-fernando-discuten-las-propuestas-de-la-boleta-electoral-en-props-in-a-minute/>
+
+---
+
+## Ahora Tome las Riendas de Su Salud con Vacunas Oportunas
+
+date: 2024-10-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="683" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?fit=683%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?w=1707&amp;ssl=1 1707w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?resize=1365%2C2048&amp;ssl=1 1365w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?resize=1200%2C1800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?resize=1568%2C2352&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?resize=400%2C600&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?resize=706%2C1059&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?fit=683%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Por el Dr. Anilrudh Venugopal Director de Enfermedades Infecciosas, Optum California, ubicado en Mission Hills El virus de la gripe y el virus de COVID-19 son responsables de la propagación [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/10/02/ahora-tome-las-riendas-de-su-salud-con-vacunas-oportunas/">Ahora Tome las Riendas de Su Salud con Vacunas Oportunas </a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/10/02/ahora-tome-las-riendas-de-su-salud-con-vacunas-oportunas/>
+
+---
+
+## Cinco Candidatos Hacen Campaña para Dos Puestos Vacantes en el Concejo Municipal de San Fernando
+
+date: 2024-10-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="648" height="335" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/2401a4605b6dab11f892a662b925f861.jpg?fit=648%2C335&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/2401a4605b6dab11f892a662b925f861.jpg?w=648&amp;ssl=1 648w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/2401a4605b6dab11f892a662b925f861.jpg?resize=300%2C155&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/2401a4605b6dab11f892a662b925f861.jpg?resize=400%2C207&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/2401a4605b6dab11f892a662b925f861.jpg?fit=648%2C335&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A un mes de las elecciones generales de noviembre, los cinco candidatos que se postulan para ocupar los dos puestos vacantes en el Concejo Municipal de San Fernando están inmersos [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/10/02/cinco-candidatos-hacen-campana-para-dos-puestos-vacantes-en-el-concejo-municipal-de-san-fernando/">Cinco Candidatos Hacen Campaña para Dos Puestos Vacantes en el Concejo Municipal de San Fernando</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/10/02/cinco-candidatos-hacen-campana-para-dos-puestos-vacantes-en-el-concejo-municipal-de-san-fernando/>
+
+---
+
+## La Prohibición de Productos Químicos Tóxicos en Dispositivos Médicos de California es un Modelo para la Nación
+
+date: 2024-10-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Estimado editor: California hizo historia la semana pasada cuando el gobernador Gavin Newsom firmó la Ley de Dispositivos Médicos Libres de Tóxicos (AB 2300), convirtiéndose en el primer estado del [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/10/02/la-prohibicion-de-productos-quimicos-toxicos-en-dispositivos-medicos-de-california-es-un-modelo-para-la-nacion/">La Prohibición de Productos Químicos Tóxicos en Dispositivos Médicos de California es un Modelo para la Nación</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/10/02/la-prohibicion-de-productos-quimicos-toxicos-en-dispositivos-medicos-de-california-es-un-modelo-para-la-nacion/>
+
+---
+
+## Who Is Claudia Sheinbaum, the Scientist Who Will Head Mexico as Its First Female President?
+
+date: 2024-10-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/AP24269651615711-e1727927351515.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/AP24269651615711-e1727927351515.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/AP24269651615711-e1727927351515.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/AP24269651615711-e1727927351515.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/AP24269651615711-e1727927351515.jpg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>MEXICO CITY (AP) — Claudia Sheinbaum takes office Tuesday as Mexico’s first female president in the nation’s more than 200 years of independence. The 62-year-old former Mexico City mayor and [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/10/02/who-is-claudia-sheinbaum-the-scientist-who-will-head-mexico-as-its-first-female-president/">Who Is Claudia Sheinbaum, the Scientist Who Will Head Mexico as Its First Female President?</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/10/02/who-is-claudia-sheinbaum-the-scientist-who-will-head-mexico-as-its-first-female-president/>
+
+---
+
+## Search Crews with Cadaver Dogs Wade Through Muck of Communities ‘Wiped Off the Map’ by Helene
+
+date: 2024-10-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/AP24275594564529-scaled-e1727926821327.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/AP24275594564529-scaled-e1727926821327.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/AP24275594564529-scaled-e1727926821327.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/AP24275594564529-scaled-e1727926821327.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/AP24275594564529-scaled-e1727926821327.jpg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>By Erik Verduzco, Jeff Amy and Kimberlee Kruesi&#160; Associated Press SWANNANOA, N.C. (AP) — Cadaver dogs and search crews trudged through knee-deep muck and debris in the mountains of western [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/10/02/search-crews-with-cadaver-dogs-wade-through-muck-of-communities-wiped-off-the-map-by-helene/">Search Crews with Cadaver Dogs Wade Through Muck of Communities ‘Wiped Off the Map’ by Helene</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/10/02/search-crews-with-cadaver-dogs-wade-through-muck-of-communities-wiped-off-the-map-by-helene/>
+
+---
+
+## LAUSD reaffirms support for students and staff ahead of elections
+
+date: 2024-10-02, updated: 2024-10-02, from: The LAist
+
+Superintendent Alberto Carvalho says the district has heard growing concern from staff, students and their families about the outcome of the presidential election. 
+
+<https://laist.com/news/education/los-angeles-unified-school-district-2025-election-support>
+
+---
+
+## Last chance: How you can score a free A/C from LADWP
+
+date: 2024-10-02, updated: 2024-10-02, from: The LAist
+
+As another heat wave hits, LADWP hosts last free portable A/C giveaway event of the year. 
+
+<https://laist.com/news/climate-environment/free-a-c-ladwp>
+
+---
+
+## Irvine City Council
+
+date: 2024-10-02, updated: 2024-10-02, from: The LAist
+
+This is Irvine’s first election since Measure D passed earlier this year, which dramatically overhauled how government will work in this city. 
+
+<https://laist.com/news/politics/2024-election-california-general-irvine-city-council>
+
+---
+
+## Lawsuit filed against University of California seeks answer to whether undocumented students can hold campus jobs
+
+date: 2024-10-02, updated: 2024-10-02, from: The LAist
+
+The lawsuit alleges UC discriminated against undocumented students by denying them opportunities open to other students. 
+
+<https://laist.com/news/education/students-undocumented-sue-university-of-california-over-campus-jobs-policy>
+
+---
+
+## Who is the real JD Vance? And 4 other takeaways from the vice presidential debate
 
 date: 2024-10-02, updated: 2024-10-02, from: The LAist
 

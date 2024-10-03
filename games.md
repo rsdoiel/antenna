@@ -1,11 +1,111 @@
 ---
 title: games
-updated: 2024-10-02 07:38:37
+updated: 2024-10-03 08:50:13
 ---
 
 # games
 
-(date: 2024-10-02 07:38:37)
+(date: 2024-10-03 08:50:13)
+
+---
+
+## Dragon Age won The Game Awards’ first GOTY 10 years ago. Is it about to happen again?
+
+date: 2024-10-03, updated: 2024-10-03, from: Polygon Website
+
+Ten years ago, the recipient of Game of the Year at Geoff Keighley’s inaugural The Game Awards was Dragon Age: Inquisition. This might come as a surprise. While it was well received at the time, sold well, and remains beloved by many fans, Inquisition occupies an awkward spot in gaming culture. In 2014, it was [&#8230;] 
+
+<https://www.polygon.com/awards/459117/dragon-age-the-veilguard-game-awards-chances>
+
+---
+
+## Godzilla’s 70th birthday bash continues with new books and 1970s comic reprints
+
+date: 2024-10-03, updated: 2024-10-03, from: Polygon Website
+
+Godzilla’s 70th birthday just keeps on delivering the goods. As if the fabulous Godzilla Minus One wasn’t sufficient (watch it on Netflix or pre-order a copy on 4K Blu-ray), there’s even more great stuff coming out celebrating the colossal bipedal lizard. This time, we’re focused on new and upcoming books that expand on the cultural [&#8230;] 
+
+<https://www.polygon.com/deals/459851/godzilla-marvel-comics-books-encyclopedia>
+
+---
+
+## This small scene in Vox Machina episode 2 has added significance to the cast
+
+date: 2024-10-03, updated: 2024-10-02, from: Polygon Website
+
+There’s a lot happening in the first three episodes of the new season of The Legend of Vox Machina: duplicitous dragons, reluctant family reunions, old enemies reappearing, and an unexpected romp to a totally different country, among other things. But amid the chase scenes, character introductions (and reintroductions), and heist planning, there’s one small little [&#8230;] 
+
+<https://www.polygon.com/tv/458817/legend-vox-machina-cameo-episode-2>
+
+---
+
+## All the Lord of the Rings: The Rings of Power season 3 news we’ve heard so far
+
+date: 2024-10-03, updated: 2024-10-03, from: Polygon Website
+
+Like season 1, The Lord of the Rings: The Rings of Power season 2 ended with a lot of seismic shifts for the world of Middle-earth. Which makes sense, since there was a lot covered in the second season of The Rings of Power; between a full-on battle, a political coup, growing concern about the [&#8230;] 
+
+<https://www.polygon.com/lotr-rings-of-power/459256/trop-season-3-release-date-cast-news>
+
+---
+
+## You will never play many of 2024’s best games
+
+date: 2024-10-03, updated: 2024-10-03, from: Polygon Website
+
+Polygon’s Editor’s Letter is a column from Editor-in-Chief Chris Plante that reflects on the video game and entertainment industries, their communities, and Polygon itself. New editions appear in the first week of each month. Last month, I wrote about how the endless stream of “too many games” has caused existential problems for game makers. This [&#8230;] 
+
+<https://www.polygon.com/459580/too-many-video-games>
+
+---
+
+## Where to find Platboom Echo locations in Zelda: Echoes of Wisdom
+
+date: 2024-10-03, updated: 2024-10-03, from: Polygon Website
+
+The Platboom Echo is an extremely helpful echo in The Legend of Zelda: Echoes of Wisdom. Platbooms are essentially floating mattresses with dangerously spiky bottoms. They go up and down like an elevator, and as such, you can use them to complete many of the platforming challenges in Echoes of Wisdom Summoning a platboom costs [&#8230;] 
+
+<https://www.polygon.com/zelda-echoes-wisdom-guides/459545/platboom-location-where-to-find>
+
+---
+
+## Is the Daily PokéCoin Bounty Part 2 ticket worth it in Pokémon Go?
+
+date: 2024-10-03, updated: 2024-10-03, from: Polygon Website
+
+“Daily PokéCoin Bounty Ticket Part 2” is available to purchase as part of Pokémon Go’s “Max Out” season between Oct. and Nov. 2024. The $4.99 ticket promises a lot of perks, but is it worth buying? We explain what the ticket rewards, along with whether or not your money, below. What is the Pokémon Go [&#8230;] 
+
+<https://www.polygon.com/pokemon-go-guide/446377/daily-pokecoin-bounty-ticket-worth-it-value-research>
+
+---
+
+## The Day Before’s strange saga continues, as Fntastic attempts a comeback with a new game
+
+date: 2024-10-02, updated: 2024-10-02, from: Polygon Website
+
+The developers behind 2023’s disastrous survival MMO The Day Before want a second chance. More than nine months after studio Fntastic announced it was closing down in the wake of The Day Before’s spectacular flame-out, former members of that dev team announced Fntastic 2.0, which they describe as “a plan for recovery” for the beleaguered [&#8230;] 
+
+<https://www.polygon.com/gaming/459703/the-day-before-dev-fntastic-escape-factory-kickstarter>
+
+---
+
+## Eastern Temple and ‘Let’s Play a Game’ quest walkthrough for Zelda: Echoes of Wisdom
+
+date: 2024-10-02, updated: 2024-10-02, from: Polygon Website
+
+The Eastern Temple is a mini dungeon in The Legend of Zelda: Echoes of Wisdom that’s home to the “Let’s Play a Game” side quest. You’ll need to defeat the monster in the temple for the archeologist Sago, who wants to continue his work there. In this Zelda: Echoes of Wisdom guide, we’ll show you [&#8230;] 
+
+<https://www.polygon.com/zelda-echoes-wisdom-guides/459444/eastern-temple-walkthrough-lets-play-a-game>
+
+---
+
+## Get a T. rex-size bundle of Jurassic Park sims for just $20
+
+date: 2024-10-02, updated: 2024-10-02, from: Polygon Website
+
+Listen, if you think you can do a better job than Richard Attenborough, be my guest, but managing a theme park full of unruly guests and insubordinate ten-ton reptiles is harder than it seems. Don’t believe me? Try your hand at managing your own Jurassic Park with Humble’s $20 bundle that includes both Jurassic World [&#8230;] 
+
+<https://www.polygon.com/good-deals/459587/jurassic-world-evolution-humble-bundle-sale>
 
 ---
 
@@ -256,16 +356,6 @@ date: 2024-10-01, updated: 2024-09-30, from: Polygon Website
 Even with Netflix’s recommendation algorithm serving you new movies, new TV shows, and original programming tailored to your viewing habits, the streaming service’s fire hose of content makes what’s coming difficult to parse. A lot of horror movies from the back catalogue — including Halloween (2018), Scream (2022), and It Chapter Two — arrive on [&#8230;] 
 
 <https://www.polygon.com/entertainment/458016/ew-netflix-october-2024-movies-tv-to-watch>
-
----
-
-## Is the Daily PokéCoin Bounty Part 2 ticket worth it in Pokémon Go?
-
-date: 2024-10-01, updated: 2024-10-01, from: Polygon Website
-
-“Daily PokéCoin Bounty Ticket Part 2” is available to purchase as part of Pokémon Go’s “Max Out” season between Oct. and Nov. 2024. The $4.99 ticket promises a lot of perks, but is it worth buying? We explain what the ticket rewards, along with whether or not your money, below. What is the Pokémon Go [&#8230;] 
-
-<https://www.polygon.com/pokemon-go-guide/446377/daily-pokecoin-bounty-ticket-worth-it-value-research>
 
 ---
 

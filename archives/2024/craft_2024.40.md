@@ -1,11 +1,21 @@
 ---
 title: craft
-updated: 2024-10-02 07:38:43
+updated: 2024-10-03 08:50:20
 ---
 
 # craft
 
-(date: 2024-10-02 07:38:43)
+(date: 2024-10-03 08:50:20)
+
+---
+
+## New Class with Jerome Bias
+
+date: 2024-10-02, from: Lost Arg Press blog
+
+We’ve added a new class: Build an 18th-century Southern Table with Jerome Bias – it&#8217;s Feb. 17-21, 2025, in our Covington, Kentucky, shop. You can read more about it (and register now) at our ticketing site – but if you’re interested, don’t dally. Space is limited! – Fitz 
+
+<https://blog.lostartpress.com/2024/10/02/new-class-with-jerome-bias/>
 
 ---
 

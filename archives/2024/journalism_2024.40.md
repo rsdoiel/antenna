@@ -1,11 +1,313 @@
 ---
 title: journalism
-updated: 2024-10-02 07:38:37
+updated: 2024-10-03 08:50:14
 ---
 
 # journalism
 
-(date: 2024-10-02 07:38:37)
+(date: 2024-10-03 08:50:14)
+
+---
+
+## New generation, same spirit: Mariachi Aztlán returns
+
+date: 2024-10-03, from: The Sundail (CSUN Student Newspaper)
+
+CSUN is reviving the traditional Mexican music style by relaunching a historic group on campus, Mariachi Aztlán Nueva Generation, formerly known as Mariachi Aztlán. The club was originally started in... 
+
+<https://sundial.csun.edu/185818/news/new-generation-same-spirit-mariachi-aztlan-returns/>
+
+---
+
+## Classifieds – October 3, 2024
+
+date: 2024-10-03, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/03/classifieds-october-3-2024/">Classifieds &#8211; October 3, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/03/classifieds-october-3-2024/>
+
+---
+
+## Students should talk to their Lyft drivers
+
+date: 2024-10-03, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The silence in your free ride is deafening — let’s start humanizing our drivers.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/03/students-should-talk-to-their-lyft-drivers/">Students should talk to their Lyft drivers</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/03/students-should-talk-to-their-lyft-drivers/>
+
+---
+
+## La CASA supports students since 1972
+
+date: 2024-10-03, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The student resource hub was founded after Latine students advocated for it.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/03/la-casa-supports-students-since-1972/">La CASA supports students since 1972</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/03/la-casa-supports-students-since-1972/>
+
+---
+
+## ¡Wepa! ALAJE electrifies the crowd during Jazz Night at Carson
+
+date: 2024-10-03, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Thornton ensemble introduced salsa music to a dancing crowd Monday.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/03/wepa-alaje-electrifies-the-crowd-during-jazz-night-at-carson/">¡Wepa! ALAJE electrifies the crowd during Jazz Night at Carson</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/03/wepa-alaje-electrifies-the-crowd-during-jazz-night-at-carson/>
+
+---
+
+## A winner in every language
+
+date: 2024-10-03, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Cayla Barnes demands victory no matter where she goes.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/03/a-winner-in-every-language/">A winner in every language</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/03/a-winner-in-every-language/>
+
+---
+
+## The franchise era will inevitably come to an end
+
+date: 2024-10-03, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Counter-culture will lead us out of entertainment’s infinite nostalgia purgatory.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/03/the-franchise-era-will-inevitably-come-to-an-end/">The franchise era will inevitably come to an end</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/03/the-franchise-era-will-inevitably-come-to-an-end/>
+
+---
+
+## Stream frightening and funny October content
+
+date: 2024-10-03, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Find shows — from fresh to familiar — to fiddle with this second month of fall.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/03/stream-frightening-and-funny-october-content/">Stream frightening and funny October content</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/03/stream-frightening-and-funny-october-content/>
+
+---
+
+## Soccer faces Oregon, hopes to stay undefeated in Big Ten
+
+date: 2024-10-03, from: The Daily Trojan (USC Student Newspaper)
+
+<p>In their sixth Big Ten game, the Trojans face the Ducks at home Saturday afternoon.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/03/soccer-faces-oregon-hopes-to-stay-undefeated-in-big-ten/">Soccer faces Oregon, hopes to stay undefeated in Big Ten</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/03/soccer-faces-oregon-hopes-to-stay-undefeated-in-big-ten/>
+
+---
+
+## SchoolScoops promises students ‘inside scoop’ with tours
+
+date: 2024-10-03, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Founder Samuel Tate pair prospective students with a personalized tour guide.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/03/schoolscoops-promises-students-inside-scoop-with-tours/">SchoolScoops promises students ‘inside scoop’ with tours</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/03/schoolscoops-promises-students-inside-scoop-with-tours/>
+
+---
+
+## UC-AFT secures contract agreement for Professional Librarians with UC
+
+date: 2024-10-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+After months of negotiation, librarians have a new contract with the UC for higher wages and additional benefits.
+The UC announced Tuesday that it agreed to contract changes for librarians after 11 months of bargaining with the University Council-American Federation of Teachers &#8211; a union representing UC librarians and non-tenured faculty members. 
+
+<https://dailybruin.com/2024/10/02/uc-aft-secures-contract-agreement-for-professional-librarians-with-uc/>
+
+---
+
+## Video game preview: New releases this fall to bring excitement with remakes, series continuations
+
+date: 2024-10-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 2 at 6:00 p.m.</em>
+With the crispness of autumn settling in, the season’s top video games are ripe for discovery.
+As the leaves turn and the air cools, this harvest season brings a variety of immersive stories and nostalgic comforts. 
+
+<https://dailybruin.com/2024/10/02/video-game-preview-new-releases-this-fall-to-bring-excitement-with-remakes-series-continuations/>
+
+---
+
+## UC faces lawsuit regarding refusal to hire undocumented students to on-campus jobs
+
+date: 2024-10-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+A UCLA alumnus and lecturer filed a lawsuit against the UC on Tuesday, alleging the University discriminated against its undocumented students.
+The lawsuit, filed in the California Court of Appeals, requests an order for the UC to change its policy barring undocumented students from accessing on-campus employment and paid educational opportunities. 
+
+<https://dailybruin.com/2024/10/02/uc-faces-lawsuit-regarding-refusal-to-hire-undocumented-students-to-on-campus-jobs/>
+
+---
+
+## Don’t walk alone: Matador Patrol Safety Escorts
+
+date: 2024-10-02, from: The Sundail (CSUN Student Newspaper)
+
+After a long night class, there is the dreaded walk across campus to one&#8217;s car. The Matador Safety Patrol can give students peace of mind when making this trek in... 
+
+<https://sundial.csun.edu/185813/news/dont-walk-alone-matador-patrol-safety-escorts/>
+
+---
+
+## Hundreds of students connect with potential employers at Industry Night
+
+date: 2024-10-02, from: The Sundail (CSUN Student Newspaper)
+
+Students hoped for a chance to be let into CSUN Industry Night, but by 7 p.m., the USU Northridge center had reached building capacity, forcing many of the 800 registered... 
+
+<https://sundial.csun.edu/185806/news/hundreds-of-students-connect-with-potential-employers-at-industry-night/>
+
+---
+
+## Survivors Circle seeks to provide support to survivors of sexual assault
+
+date: 2024-10-02, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Beginning in October, Emmons Wellness Center will resume Survivors Circle, a confidential support group for student survivors of sexual assault to reflect on and work towards healing from their trauma. The group will be facilitated by Emmons Staff Therapist and Training Coordinator, Dr. Paloma Franco, who said she plans to select a regular meeting time and location for [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/10/02/survivors-circle-seeks-to-provide-support-to-survivors-of-sexual-assault/2913138">Survivors Circle seeks to provide support to survivors of sexual assault</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/news/2024/10/02/survivors-circle-seeks-to-provide-support-to-survivors-of-sexual-assault/2913138>
+
+---
+
+## Opinion: Free medical school is a gross misuse of philanthropic resources
+
+date: 2024-10-02, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Philanthropist and former New York City Mayor Michael Bloomberg donated a large sum of money — $1 billion dollars— to Johns Hopkins University’s medical school in July 2024, making tuition free for all students whose families make under $300,000 per year. At first glance, this seems like an exceptional act of generosity, assisting and helping increase access [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/opinions/2024/10/02/opinion-free-medical-school-is-a-gross-misuse-of-philanthropic-resources/2913106">Opinion: Free medical school is a gross misuse of philanthropic resources</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/opinions/2024/10/02/opinion-free-medical-school-is-a-gross-misuse-of-philanthropic-resources/2913106>
+
+---
+
+## Increased policing in Eagle Rock is met with mixed reactions
+
+date: 2024-10-02, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>In response to several break-ins to shops on Colorado Blvd, the City Council of LA approved $100,000 January 2024 to increase foot patrols in Eagle Rock in a motion spearheaded by Kevin de León. Luciano Alcorta co-owns Malbec Market, an Argentinian restaurant, alongside his brother. Alcorta said that no one has broken into his store since January. He said he [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/community/2024/10/02/increased-policing-in-eagle-rock-is-met-with-mixed-reactions/2913119">Increased policing in Eagle Rock is met with mixed reactions</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/community/2024/10/02/increased-policing-in-eagle-rock-is-met-with-mixed-reactions/2913119>
+
+---
+
+## Associate Director of Jewish Student Life Ben Greenberg wins 2024 Advisor of the Year
+
+date: 2024-10-02, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Occidental College&#8217;s Student Organization Advisor of the Year Award recognizes a community member who advises and supports an organization outside of their normal duties. Occidental’s Associate Director of Jewish Student Life Ben Greenberg won the award in May 2024. According to the Rev. Dr. Susan Young, he was nominated by students as a part of Occidental’s Hillel group. “It [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/10/02/associate-director-of-jewish-student-life-ben-greenberg-wins-2024-advisor-of-the-year/2913149">Associate Director of Jewish Student Life Ben Greenberg wins 2024 Advisor of the Year</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/news/2024/10/02/associate-director-of-jewish-student-life-ben-greenberg-wins-2024-advisor-of-the-year/2913149>
+
+---
+
+## Sunrise Oxy members gather for climate strike at LA City Hall
+
+date: 2024-10-02, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Occidental students Emma Galbraith (senior) and Luci Johnston (junior) took to the stage to speak on the climate crisis Sept. 20, as Angelenos of all ages and backgrounds gathered in front of the LA City Hall. This speech happened as part of a yearly climate strike organized by Youth Climate Strike LA (YCSLA), a local climate organization [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/10/02/sunrise-oxy-members-gather-for-climate-strike-at-la-city-hall/2913142">Sunrise Oxy members gather for climate strike at LA City Hall</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/news/2024/10/02/sunrise-oxy-members-gather-for-climate-strike-at-la-city-hall/2913142>
+
+---
+
+## 2 Paws Up: An inside look at Occidental’s only sketch comedy team
+
+date: 2024-10-02, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Run by co-presidents Sammy Levy (senior) and Skye Borch (sophomore), 2 Paws Up is Occidental&#8217;s sketch comedy team. Sketch comedy is defined as short comedic scenes or vignettes, usually just a few minutes in length. Every Sunday from 4-5 p.m., students come together in the library&#8217;s Brown Lab and participate in table reads and writing sessions. “This [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2024/10/02/2-paws-up-an-inside-look-at-occidentals-only-sketch-comedy-team/2913116">2 Paws Up: An inside look at Occidental&#8217;s only sketch comedy team</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/culture/2024/10/02/2-paws-up-an-inside-look-at-occidentals-only-sketch-comedy-team/2913116>
+
+---
+
+## Artist of the Week: Sophie Weil brings musicians to life in her concert photos
+
+date: 2024-10-02, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Sophie Weil (senior) is using her passions in photography to build connections and make a name for herself. A Media Arts and Culture (MAC) major from Santa Rosa, CA, Weil has photographed 70 concerts across LA and has no intentions of slowing down any time soon. “When I&#8217;m shooting concerts, I want my photos to [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2024/10/02/artist-of-the-week-sophie-weil-brings-musicians-to-life-in-her-concert-photos/2913120">Artist of the Week: Sophie Weil brings musicians to life in her concert photos</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/culture/2024/10/02/artist-of-the-week-sophie-weil-brings-musicians-to-life-in-her-concert-photos/2913120>
+
+---
+
+## From Chappell Roan to Blink-182, music motivates students in the gym
+
+date: 2024-10-02, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>If there is one thing to notice when walking into a gym, aside from the sea of equipment and the crowds of sweaty athletes, it is the headphones. Virtually everyone wears them, whether they&#8217;re running, benching, stretching or squatting. If almost everyone in the gym is listening to something, the question must come to mind: [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2024/10/02/from-chappell-roan-to-blink-182-music-motivates-students-in-the-gym/2913114">From Chappell Roan to Blink-182, music motivates students in the gym</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/culture/2024/10/02/from-chappell-roan-to-blink-182-music-motivates-students-in-the-gym/2913114>
+
+---
+
+## Oxy Live! kicks off new season with Tavares Strachan and Paul Holdengräber
+
+date: 2024-10-02, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>The 2024–2025 season of Oxy Live!, Occidental’s annual speaker program opened Sept. 24 in Thorne Hall and featured conceptual artist Tavares Strachan in conversation with award-winning interviewer Paul Holdengräber. The conversation between the two lasted over an hour, with topics ranging from Arctic exploration to Sisyphus. Meldia Yesayan, executive director of Oxy Arts, said via email that [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/10/02/oxy-live-kicks-off-new-season-with-tavares-strachan-and-paul-holdengraber/2913135">Oxy Live! kicks off new season with Tavares Strachan and Paul Holdengräber</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/news/2024/10/02/oxy-live-kicks-off-new-season-with-tavares-strachan-and-paul-holdengraber/2913135>
+
+---
+
+## Dance’s vibrant culture takes the floor at Occidental
+
+date: 2024-10-02, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>With Dance Production (Dance Pro) being one of the the longest-running and biggest clubs at Occidental, it’s safe to say that dance has a large prominence on campus. But, besides Occidental&#8217;s dance studio hosting Dance Pro rehearsals and PULSE classes, there are many other ways for students to strut their stuff on campus. Yemale Febres [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/sports/2024/10/02/dances-vibrant-culture-takes-the-floor-at-occidental/2913094">Dance&#8217;s vibrant culture takes the floor at Occidental</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/sports/2024/10/02/dances-vibrant-culture-takes-the-floor-at-occidental/2913094>
+
+---
+
+## Men’s Basketball release 2024-25 Schedule
+
+date: 2024-10-02, from: The Sundail (CSUN Student Newspaper)
+
+With the season just over a month away the men’s basketball team released the 2024-25 schedule which features an early season test with USC and a Thanksgiving road trip in... 
+
+<https://sundial.csun.edu/185695/sports/mens-basketball-release-2024-25-schedule/>
 
 ---
 
@@ -161,6 +463,16 @@ The ASA, comprising around 10,000 members, distributes eight major awards each y
 
 ---
 
+## Stacey Abrams talks the power of the youth vote at Election 2024 event
+
+date: 2024-10-02, from: Laloyolan (LMU Student Newspaper)
+
+ 
+
+<https://www.laloyolan.com/news/stacey-abrams-talks-the-power-of-the-youth-vote-at-election-2024-event/article_06aa505c-8077-11ef-a951-a3a598eb0438.html>
+
+---
+
 ## The age of the vanilla DJ
 
 date: 2024-10-02, from: The Daily Trojan (USC Student Newspaper)
@@ -273,7 +585,7 @@ date: 2024-10-02, from: The Round Up (Pierce College Student Newspaper)
 
 date: 2024-10-02, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Oct. 1 at 9:42 p.m.</em>
+<em>This post was updated Oct. 2 at 5:24 p.m.</em>
 The ASUCLA Board of Directors held its third meeting of the 2024-2025 term Sept. 27.
 The board, composed of a student majority, has financial oversight over ASUCLA entities, including the Undergraduate Students Association Council, the Graduate Student Association and the ASUCLA Communications Board – which oversees UCLA Student Media. 
 
