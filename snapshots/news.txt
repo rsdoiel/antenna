@@ -227,7 +227,7 @@ https://www.haskell.org/ghc/rss.xml "~Glasgow Haskell Compiler"
 https://www.howtoraspberry.com/feed/ "~How to Raspberry"
 https://www.htmhell.dev/feed_tips.xml "~HTMH(ell) newsletter, improving the web toolbox"
 https://www.itforarchivists.com/index.xml "~IT for Archivists"
-https://www.jayeless.net/posts/index.xml "~Jessica Smith's blog"
+#https://www.jayeless.net/posts/index.xml "~Jessica Smith's blog"
 https://www.joelonsoftware.com/feed/ "~Joel on Software"
 https://www.jsonfeed.org/feed.xml "~JSON Feed blog"
 https://www.lagq.com/news?format=RSS "~L.A.G.Q. news" curl/8.5.0
