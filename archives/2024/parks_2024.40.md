@@ -1,11 +1,21 @@
 ---
 title: parks
-updated: 2024-10-03 08:50:16
+updated: 2024-10-04 07:31:36
 ---
 
 # parks
 
-(date: 2024-10-03 08:50:16)
+(date: 2024-10-04 07:31:36)
+
+---
+
+## Grand Canyon National Park’s North Rim to Begin Day-Use Operations on October 16, 2024
+
+date: 2024-10-03, from: Press Releases
+
+Grand Canyon National Park’s North Rim will begin day-use operations on October 16, 2024. Grand Canyon Lodge will close, and no overnight accommodations, including camping, will be available to visitors. Those exploring the North Rim on or after October 16 should plan to be self-sufficient, bringing enough food and water for the day. https://www.nps.gov/grca/learn/news/north-rim-transitions-to-day-use-oct-16-2024.htm 
+
+<https://www.nps.gov/grca/learn/news/north-rim-transitions-to-day-use-oct-16-2024.htm>
 
 ---
 

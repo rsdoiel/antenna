@@ -1,11 +1,285 @@
 ---
 title: columns
-updated: 2024-10-03 08:50:11
+updated: 2024-10-04 07:31:31
 ---
 
 # columns
 
-(date: 2024-10-03 08:50:11)
+(date: 2024-10-04 07:31:31)
+
+---
+
+## How about those Mets!
+
+date: 2024-10-04, from: Dave Winer's Scripting News
+
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/10/04/caseyStengelMetsManager.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">We are a Mets family. Around the kitchen table in my childhood home, the default question was "What did the Mets do?" Before I was born we were a Brooklyn Dodgers family, always National League, but the Dodgers left shortly after I was born and the Mets came along when I was seven, and that was it for us. It was the one thing we all agreed on -- the Mets. Much later when my Mom and I would fight about something, a pretty regular thing -- I invented what I called Shea Stadium Rules, which meant that a disagreement could be tabled when we remember that underneath everything we are true Mets fans, and ultimately Mets fans can find something to agree on -- that rain or shine and there was plenty of rain, we always stood with our team. A deeper truth of the Mets was we didn't really mind when they lost. Because underneath it all at a whole other level, the Mets have a <a href="http://scripting.com/2018/06/24/181734.html">philosophy</a> that is strong, 365 days a year, 24 hours a day, and every minute of every day. We are the Mets and that's all you need to know. </p>
+<p>Anyway, last night it wasn't lookin good. It was a winner-take-all game with the hated (for now) Milwaukee Brewers. We hated them because it looked like they were going to end the Mets season in the first round of the playoffs. I was getting ready to take off my Mets cap for the year, and put on my Knicks cap, when Lindor walked, Nimmo singled, and then with runners on first and third and one out, Pete Alonso came to bat. He's been cold all year. I hoped for a base hit or at least a long sacrifice fly to bring in the runner on third. I couldn't watch but forced myself to. And then <b>it happened</b>. </p>
+<p>We who have been joined at the heart to this team and have been through it all, have come to expect failure, but sometimes winning happens, as it did last night. A big swing. The bat connects. Oh please let it land anywhere but the glove of a Brewer, and then all of a sudden Alonso is jogging around the bases, and delirium takes over, in the living room of my mountain home and everywhere Mets fans were at that fateful hour. Here we go! It looks good. </p>
+<p>We figured at that point they might as well just retire the side, but the Metsies, who Casey Stengel, the first manager of the team asked "Can't anyone play this stinkin game!" (as he reviewed the Mets dugout bench) -- brought in another run, which it turns out we didn't need. </p>
+<p>The Brewers were overwhelmed. They tried to score in the bottom of the ninth but the Mets <a href="https://www.google.com/search?q=site%3Ascripting.com+mets+philosophy">philosophy</a> was too strong.</p>
+<p>It's like everyAround the kitchen table in my childhood home, the default question was "What did the Mets do?"  baseball kid's fantasy -- the count is 3 and 2 ,the team's back is to the wall, up comes the slugger and he hits it <b>out of the park</b> and the team emerges victorious and the young person's fantasy saves the day. We've all been there, many times. Last night we got to live it, again, this time for real. </p>
+<p>And now we go to Philadelphia to give them a proper dose of New York love. </p>
+<p>Meet the Mets meet the Mets, step right up and greet the Mets, etc. </p>
+<p>Game 1 of the NLDS begins tomorrow at 4PM. Good times will be had by all (except Philadelphia fans of course).</p>
+<p>PS: This wasn't Mookie at bat in game 6 of the 1986 World Series, but it was along those lines of improbability.</p>
+<p>PPS: I love that they give a readout on screen of the probability of each team winning. At the top of the ninth, before all this michegas, the Mets had only a 6% chance of winning. I think every game should come with a graph over time of this stat. It would be an emotional map, much more interesting than all the other stats.</p>
+ 
+
+<http://scripting.com/2024/10/04/132351.html?title=howAboutThoseMets>
+
+---
+
+## Busybox 1.37 is tiny but capable, the way we like Linux tools to be
+
+date: 2024-10-04, updated: 2024-10-04, from: Liam Proven's articles at the Register
+
+<h4>Self-proclaimed Swiss Army knife of embedded Linux moves slow and fixes things in latest release</h4>
+      <p>Busybox is tiny, unobtrusive, and runs quite a lot of routers and other key bits of the internet – somewhat like Linux itself used to be.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/10/04/busybox_137/>
+
+---
+
+## 2024 Election Video of the week: Why is MAGA so WEIRD? 
+
+date: 2024-10-04, from: Robert Reich's blog
+
+Video #5 
+
+<https://robertreich.substack.com/p/2024-election-video-of-the-week-why>
+
+---
+
+## October 3, 2024
+
+date: 2024-10-04, from: Heather Cox Richardson blog
+
+Former Republican representative Liz Cheney of Wyoming joined Vice President Kamala Harris on a stage hung with red, white, and blue bunting and signs that said &#8220;Country Over Party.&#8221; As Cheney took the stage, the crowd chanted, &#8220;Thank you, Liz!&#8221; The two were on the campaign trail today in Ripon, Wisconsin, the town that claims to be the birthplace of the Republican Party. 
+
+<https://heathercoxrichardson.substack.com/p/october-3-2024>
+
+---
+
+## What is a writing portal?
+
+date: 2024-10-04, from: Dave Winer's Scripting News
+
+<p>So far we've only created reading portals. What I want for myself and for you, is a writing portal. </p>
+<ul>
+<li>A reading portal brings a lot of writers together so you can read them all in one place.</li>
+<li>A writing portal is the same idea but in reverse. I write in my portal, and it flows where ever I want it to.</li>
+</ul>
+<p>The problem is the reading portals aren't open to allow this to work.</p>
+<p>They all want you to write in their <a href="http://scripting.com/2024/01/14/031201.html">tiny little text boxes</a>.</p>
+ 
+
+<http://scripting.com/2024/10/03/023255.html?title=whatIsAWritingPortal>
+
+---
+
+## Friday 4 October, 2024
+
+date: 2024-10-03, from: John Naughton's online diary
+
+Ireland’s Lake District The view from Aghadoe Heights over Killarney. Quote of the Day “Any fool can know. The point is to understand.” Albert Einstein. Musical alternative to the morning’s radio news &#8216;Fairytale of New York&#8217; played at Shane MacGowan&#8217;s &#8230; <a href="https://memex.naughtons.org/friday-4-october-2024/39932/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/friday-4-october-2024/39932/>
+
+---
+
+## In Case You’ve Forgotten …
+
+date: 2024-10-03, from: Dan Rather's Steady
+
+Trump and January 6 &#8212; Jack Smith&#8217;s October Surprise 
+
+<https://steady.substack.com/p/in-case-youve-forgotten>
+
+---
+
+## Meet My New Editorial Project
+
+date: 2024-10-03, from: Om Malik blog
+
+This isn&#8217;t a typical&#160;&#8220;A Letter from Om.&#8221; Instead,&#160;it&#8217;s an announcement about&#160;a new editorial project &#8212; a&#160;concentrated effort to&#160;write&#160;and report on the future.&#160;I&#8217;m reaching out to invite you&#160;to&#160;subscribe to&#160;this&#160;new email newsletter&#160;I&#8217;m&#160;co-writing with Fred Vogelstein, another&#160;veteran&#160;technology&#160;writer,&#160;and a friend. At the dawn of the new year,&#160;I wondered about&#160;Wired&#160;magazine&#160;and how it has shifted away from its axis of optimism &#8230; 
+
+<https://om.co/2024/10/03/meet-my-new-editorial-project/>
+
+---
+
+## Finding the best case and wallet for your new phone
+
+date: 2024-10-03, from: Matt Haughey blog
+
+<p>I get a new iPhone most years and I tell myself it&apos;s for the photography aspects, but honestly, I&apos;m ok buying a new pocket computer each year, especially one that is used more than any other computer I own.</p><p>I usually get the iPhone Pro in</p> 
+
+<https://a.wholelottanothing.org/finding-the-best-case-and-wallet-for-your-new-phone/>
+
+---
+
+##  Ta-Nehisi Coates & Jon Stewart: Understanding the Humiliation of Oppression 
+
+date: 2024-10-03, updated: 2024-10-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/ta-nehisi-coates-jon-stewart-understanding-the-humiliation-of-oppression>
+
+---
+
+##  What Does Our Far Future Look Like? 
+
+date: 2024-10-03, updated: 2024-10-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/what-does-our-far-future-look-like>
+
+---
+
+## Throwback Thursday: KDE 2 on SuSE Linux 7.3
+
+date: 2024-10-03, from: mrusme blog
+
+*"Do you pine for the days when men were men and wrote their own device
+drivers?"*\
+-- Linus T. 
+
+<https://xn--gckvb8fzb.com/throwback-thursday-kde-2-on-suse-linux-7-3/>
+
+---
+
+##  This AI-generated video is a) completely bonkers (seriously, watch all the way... 
+
+date: 2024-10-03, updated: 2024-10-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/0045379-this-ai-generated-video-i>
+
+---
+
+##  If you play Spelling Bee, the Times has a Spelling Bee Buddy... 
+
+date: 2024-10-03, updated: 2024-10-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/0045377-if-you-play-spelling-bee>
+
+---
+
+## Think Globally, Eat Here
+
+date: 2024-10-03, from: Doc Searls (at Harvard), New Old Blog
+
+Fifteenth in the News Commons series. This semester&#8217;s Beyond the Web salon series for the Ostrom Workshop and Hamilton Lugar School at Indiana University is themed Think Globally, Eat Here—Small Solutions for Big Tech Problems. I will give the opening talk, about the News Commons (subject of fourteen prior posts here) at noon (Eastern) next [&#8230;] 
+
+<https://doc.searls.com/2024/10/03/think-globally-eat-here/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-03, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2019/08/18/bigLittleLies.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">A ChatGPT news network would be pretty interesting. You could register as an independent blogger, and push your writing up to their cloud in real time. And then readers could ask what experts on <i>whatever</i> think about <i>what just happened</i> and it would know what your expertise is, and it could build the report also in realtime, in response to a very detailed question you could ask. And you could tell it whether or not you want lies, or if they should omit the lies. Personally I would opt out of the lies, but some people like lies in their news, kind of like menthol in cigarettes. And forget about paying the news orgs. They don't give you a way to opt out of the lies. 
+
+<http://scripting.com/2024/10/03.html#a192131>
+
+---
+
+##  10-Minute Art Challenge: Hiroshige&#8217;s &#8216;Sudden Rain&#8217; 
+
+date: 2024-10-03, updated: 2024-10-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/10-minute-art-challenge-hiroshiges-sudden-rain>
+
+---
+
+## October 2, 2024
+
+date: 2024-10-03, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/october-2-2024-5ec>
+
+---
+
+## Election Countdown, 32 Days to Go: Two Contrasting Front Pages. 
+
+date: 2024-10-03, from: James Fallows, Substack
+
+&#8216;See things steady and see them whole.&#8217; That's what the press is supposed to do. That's not what we are getting. 
+
+<https://fallows.substack.com/p/election-countdown-32-days-to-go>
+
+---
+
+##  Profile of Aisha Nyandoro (founder of a guaranteed-income project) for the Time... 
+
+date: 2024-10-03, updated: 2024-10-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/0045375-profile-of-aisha-nyandoro>
+
+---
+
+##  Some of the most prized public spaces in Europe were once used... 
+
+date: 2024-10-03, updated: 2024-10-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/0045365-some-of-the-most-prized>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-10-03, from: Miguel de Icaza Mastondon feed)
+
+<p>I am already an avid “Boycat” user.</p><p>Every trip to the grocery store, I make sure my money goes to the right brands.</p><p> <a href="https://www.boycat.io" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://www.</span><span class="">boycat.io</span><span class="invisible"></span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/113244538907201649>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-10-03, from: Miguel de Icaza Mastondon feed)
+
+<p>Today Tech for Palestine is launching their project incubator.  I found it via Paul Beggar:</p><p><a href="https://updates.techforpalestine.org/announcing-the-tech-for-palestine-incubator/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">updates.techforpalestine.org/a</span><span class="invisible">nnouncing-the-tech-for-palestine-incubator/</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/113244531328213890>
+
+---
+
+##  Two Sally Rooney Things I Didn&#8217;t Know About 
+
+date: 2024-10-03, updated: 2024-10-03, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/two-sally-rooney-things-i-didnt-know-about>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-03, from: Dave Winer's Scripting News)
+
+So far we've only created reading portals. What I want for myself and for you, is a <a href="http://scripting.com/2024/10/03/023255.html">writing portal</a>. Think about it. 
+
+<http://scripting.com/2024/10/03.html#a161830>
+
+---
+
+## Valve powers up Arch Linux – because who needs Windows when you have a Steam Deck?
+
+date: 2024-10-03, updated: 2024-10-03, from: Liam Proven's articles at the Register
+
+<h4>Distro behind the handheld console announces corporate sponsorship</h4>
+      <p>Valve is officially sponsoring the Linux distro that powers the gaming giant's Steam Deck console.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/10/03/valve_sponsors_arch/>
 
 ---
 
@@ -16,8 +290,7 @@ date: 2024-10-03, from: Dave Winer's Scripting News
 <p>I didn't read the WSJ story about the deflation of expertise, quoting <a href="https://en.wikipedia.org/wiki/Vinod_Khosla">Vinod Khosla</a>, Silicon Valley venture capitalist, who I know from my time in California. He says AI leads to a deflation of expertise. I agree with him, AI absolutely deflates the value of expertise. </p>
 <p>It aggregates all of our knowledge in one place where it's easy to access, about anything you want to know. It answers questions that you can't get any other way. </p>
 <p>Some technological developments are profound. We never understand all the implications of a new technology when it comes online, but you do get some strong clues. You have to use it to know learn how to think about it. That's not unreasonable because we all grew up in a world that didn't have this technology, as my parents grew up in a world without television, and I didn't use a computer until I was 18 or use the web until I was 37. None of us grew up with anything but fiction about AI, and the fiction imho didn't grasp the implications very well.  </p>
-<p>If I ask good questions ChatGPT stretches my mind in ways it never has been stretched before and I'm well educated and in my work have explored frontiers of knowledge, even so -- this is the most mind-stretching experience I've ever had. Not kidding. And I'm not a VC or prone to overhyping tech.
-</p>
+<p>If I ask good questions ChatGPT stretches my mind in ways it never has been stretched before and I'm well educated and in my work have explored frontiers of knowledge, even so -- this is the most mind-stretching experience I've ever had. Not kidding. And I'm not a VC or prone to overhyping tech. </p>
  
 
 <http://scripting.com/2024/10/03/152757.html?title=aiDeflatesTheValueOfExpertise>
@@ -36,7 +309,7 @@ date: 2024-10-03, updated: 2024-10-03, from: Daring Fireball
 
 ## Starlink Offers Free Service to Victims of Hurricane Helene
 
-date: 2024-10-03, updated: 2024-10-03, from: Daring Fireball
+date: 2024-10-03, updated: 2024-10-04, from: Daring Fireball
 
  
 
@@ -66,7 +339,7 @@ Vicky &amp; I have recently acquired two major joint writing assignments with ef
 
 **@Dave Winer's Scripting News** (date: 2024-10-03, from: Dave Winer's Scripting News)
 
-I didn't like the code ChatGPT was writing for me, so I tried it in Claude, and the code is much closer to my style. I may try that again. I've heard it's better at supporting code than other chatbots. 
+I didn't like the code ChatGPT was writing for me, so I tried it in <a href="https://claude.ai/new">Claude</a>, and the code is much closer to my style. I may try that again. I've heard it's better at supporting code than other chatbots. 
 
 <http://scripting.com/2024/10/03.html#a142137>
 
@@ -260,8 +533,7 @@ date: 2024-10-02, updated: 2024-10-02, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2024-10-02, from: Dave Winer's Scripting News)
 
-When news excuses lies and when all the viewers know they're doing it, we're beyond the point of no return.
- 
+When news excuses lies and when all the viewers know they're doing it, we're beyond the point of no return. 
 
 <http://scripting.com/2024/10/02.html#a163550>
 
@@ -1753,7 +2025,7 @@ New <a href="https://shownotes.scripting.com/podcast0/2024/09/30/frontierOpenSou
 
 ## AI and the 2024 US Elections
 
-date: 2024-09-30, updated: 2024-09-27, from: Bruce Schneier blog
+date: 2024-09-30, updated: 2024-10-03, from: Bruce Schneier blog
 
 <p>For years now, AI has undermined the public&#8217;s ability to trust what it sees, hears, and reads. The <a href="https://www.theatlantic.com/technology/archive/2023/04/ai-generated-political-ads-election-candidate-voter-interaction-transparency/673893/">Republican National Committee</a> released a provocative ad offering an &#8220;AI-generated look into the country&#8217;s possible future if Joe Biden is re-elected,&#8221; showing apocalyptic, machine-made images of ruined cityscapes and chaos at the border. <a href="https://www.nbcnews.com/politics/2024-election/biden-robocall-new-hampshire-strategist-rcna139760">Fake robocalls</a> purporting to be from Biden urged New Hampshire residents not to vote in the 2024 primary election. This summer, the Department of Justice cracked down on a <a href="https://www.npr.org/2024/07/09/g-s1-9010/russia-bot-farm-ai-disinformation">Russian bot farm</a> that was using AI to impersonate Americans on social media, and OpenAI disrupted an ...</p> 
 

@@ -1,11 +1,11 @@
 ---
 title: retro computing
-updated: 2024-10-03 08:50:17
+updated: 2024-10-04 07:31:37
 ---
 
 # retro computing
 
-(date: 2024-10-03 08:50:17)
+(date: 2024-10-04 07:31:37)
 
 ---
 
@@ -13,7 +13,7 @@ updated: 2024-10-03 08:50:17
 
 date: 2024-10-03, from: Linux Magazine
 
-<p>As more and more Linux systems are getting targeted by ransomware, Halcyon is stepping up its protection.</p> 
+<p>As more Linux systems are targeted by ransomware, Halcyon is stepping up its protection.</p> 
 
 <http://www.linux-magazine.com/Online/News/Halcyon-Creates-Anti-Ransomware-Protection-for-Linux>
 

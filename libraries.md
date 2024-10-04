@@ -1,11 +1,23 @@
 ---
 title: libraries
-updated: 2024-10-03 08:50:15
+updated: 2024-10-04 07:31:34
 ---
 
 # libraries
 
-(date: 2024-10-03 08:50:15)
+(date: 2024-10-04 07:31:34)
+
+---
+
+## Nikon’s Small World in Motion 2024 Winners (with bonus Tardigrade content)
+
+date: 2024-10-04, from: Scholarly Kitchen
+
+<p>Once again, Nikon's Small World in Motion video microscopy competition winners are remarkable.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/10/04/nikons-small-world-in-motion-2024-winners-with-bonus-tardigrade-content/">Nikon&#8217;s Small World in Motion 2024 Winners (with bonus Tardigrade content)</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/10/04/nikons-small-world-in-motion-2024-winners-with-bonus-tardigrade-content/>
 
 ---
 

@@ -1,11 +1,253 @@
 ---
 title: food
-updated: 2024-10-03 08:50:19
+updated: 2024-10-04 07:31:39
 ---
 
 # food
 
-(date: 2024-10-03 08:50:19)
+(date: 2024-10-04 07:31:39)
+
+---
+
+## Weekly Coffee News: Exploring ‘Double Roasting’ + Coffee World Loses Mutombo
+
+date: 2024-10-04, from: Daily Coffee News
+
+<div><img width="620" height="457" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/dark-roast-coffee-1-620x457.jpg" class="attachment-large size-large wp-post-image" alt="dark roast coffee" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/dark-roast-coffee-1-620x457.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/dark-roast-coffee-1-300x221.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/dark-roast-coffee-1-150x110.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/dark-roast-coffee-1-768x565.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/dark-roast-coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Experimenting with &#8216;Double Roasting&#8217; Coffee for Dark Roasts Expert... 
+
+<https://dailycoffeenews.com/2024/10/04/weekly-coffee-news-exploring-double-roasting-coffee-world-loses-mutombo/>
+
+---
+
+## Spicy Cottage Pie
+
+date: 2024-10-04, from: Pepper Scale
+
+Our spicy cottage pie is traditional comfort food with a modern and fiery twist. This is a winter meal that’ll warm you from head to toe.&#160;It’s not overly spicy — more of a gentle hum from dried red pepper flakes, Sriracha sauce, black pepper, and ... <p class="read-more-container"><a title="Spicy Cottage Pie" class="read-more button" href="https://pepperscale.com/spicy-cottage-pie/#more-80392" aria-label="Read more about Spicy Cottage Pie">Read more</a></p> 
+
+<https://pepperscale.com/spicy-cottage-pie/>
+
+---
+
+## Jalapeño Infused Olive Oil
+
+date: 2024-10-04, from: Pepper Scale
+
+Infusing olive oil with jalapeños is an excellent way to bring spice to everyday dishes. Use it for cooking or as a salad topper. Or simply pour some into a dipping dish and pair with your favorite bread and vegetables. It has a very eatable ... <p class="read-more-container"><a title="Jalapeño Infused Olive Oil" class="read-more button" href="https://pepperscale.com/jalapeno-infused-olive-oil/#more-6311" aria-label="Read more about Jalapeño Infused Olive Oil">Read more</a></p> 
+
+<https://pepperscale.com/jalapeno-infused-olive-oil/>
+
+---
+
+## Extra-Spiced Cowboy Candy
+
+date: 2024-10-04, from: Pepper Scale
+
+Extra-spiced cowboy candy (a.k.a. candied jalapeños), blends the fiery heat of jalapeños with the sweet allure of sugar, honey, and all sorts of flavorful spices. This is a fun-to-eat treat that works just as well as a snack as it does as a side to ... <p class="read-more-container"><a title="Extra-Spiced Cowboy Candy" class="read-more button" href="https://pepperscale.com/extra-spiced-cowboy-candy/#more-97356" aria-label="Read more about Extra-Spiced Cowboy Candy">Read more</a></p> 
+
+<https://pepperscale.com/extra-spiced-cowboy-candy/>
+
+---
+
+## Homemade Rasam Powder
+
+date: 2024-10-04, from: Pepper Scale
+
+Rasam powder is a must if you want to make Indian rasam — a delicious thin soup, perfect over rice. Its heat comes from dried red chilies. You can control the spice with your red chili choice. We recommend Kashmiri chili in this recipe (relatively mild, ... <p class="read-more-container"><a title="Homemade Rasam Powder" class="read-more button" href="https://pepperscale.com/rasam-powder/#more-17322" aria-label="Read more about Homemade Rasam Powder">Read more</a></p> 
+
+<https://pepperscale.com/rasam-powder/>
+
+---
+
+## Green Enchilada Sauce
+
+date: 2024-10-04, from: Pepper Scale
+
+Tomatillos are the real stars of this green enchilada sauce. Their delicious fruit-like tang is a perfect complement to enchiladas (and other rustic Mexican cuisine as well). But they aren&#8217;t the only green things that matter in this enchilada sauce. Both poblano peppers and jalapeños ... <p class="read-more-container"><a title="Green Enchilada Sauce" class="read-more button" href="https://pepperscale.com/green-enchilada-sauce/#more-17501" aria-label="Read more about Green Enchilada Sauce">Read more</a></p> 
+
+<https://pepperscale.com/green-enchilada-sauce/>
+
+---
+
+## It’s Impossible to Visit Every Starbucks On Earth—But One Man Is Trying Anyway
+
+date: 2024-10-04, from: The Fresh Cup
+
+<p>Since 1997, one man has vowed to visit every single Starbucks in the world. But with thousands of stores opening annually, his quest has evolved into something more complicated than he first envisioned.</p>
+<p>The post <a href="https://freshcup.com/its-impossible-to-visit-every-starbucks-on-earth-but-one-man-is-trying-anyway/">It&#8217;s Impossible to Visit Every Starbucks On Earth—But One Man Is Trying Anyway</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<https://freshcup.com/its-impossible-to-visit-every-starbucks-on-earth-but-one-man-is-trying-anyway/>
+
+---
+
+## Tasty Tacos Recipes
+
+date: 2024-10-04, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2018/10/Tasty-Tacos.jpg"/></div>
+<p>Some of the tastiest taco recipes on closetcooking.com! Authentic Mexican taco recipes; beef tacos, chicken tacos, shrimp tacos, quick and easy taco recipes. October the 4th is National Taco Day!!! I am a huge fan of tacos so I have a few taco recipes and for this special occasion I have rounded up some of...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/tasty-tacos-recipes/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/tasty-tacos-recipes/">Tasty Tacos Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<https://www.closetcooking.com/tasty-tacos-recipes/>
+
+---
+
+## Speedy Meatballs and More Recipes We Made This Week
+
+date: 2024-10-04, from: Bon Appetet
+
+Like herby cauliflower fritters and carrot sheet cake. 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-october-2024>
+
+---
+
+## Cincinnati Chili Recipe
+
+date: 2024-10-04, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/cincinnati-chili/" title="Cincinnati Chili Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Cincinnati-Chili-Recipe5-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="5-Way Cincinnati Chili in a bowl" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Cincinnati-Chili-Recipe5-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Cincinnati-Chili-Recipe5-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Cincinnati-Chili-Recipe5-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Cincinnati-Chili-Recipe5-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Cincinnati-Chili-Recipe5-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Cincinnati-Chili-Recipe5-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Cincinnati-Chili-Recipe5.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Cincinnati chili is a beloved regional favorite, filled with a beguiling mix of unique spices and served over hot spaghetti, a chili unlike any other.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/cincinnati-chili/">Cincinnati Chili Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<https://www.chilipeppermadness.com/recipes/cincinnati-chili/>
+
+---
+
+## The Best Food Processor (2024), Reviewed by Our Experts
+
+date: 2024-10-03, from: Bon Appetet
+
+This kitchen workhorse deserves a spot on your countertop—here are our top picks. 
+
+<https://www.bonappetit.com/story/best-food-processor>
+
+---
+
+## The Best Aldi Fall Finds, Reviewed and Ranked
+
+date: 2024-10-03, from: Taste of Home
+
+<p>The leaves are rustling, there's a chill in the air and it's time to enjoy all things pumpkin spice! We browsed the aisles to find, sample and rank Aldi fall finds.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/aldi-fall-finds/">The Best Aldi Fall Finds, Reviewed and Ranked</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/collection/aldi-fall-finds/>
+
+---
+
+## About Bon Appétit
+
+date: 2024-10-03, from: Bon Appetet
+
+Meet the team behind the stories and recipes you love from Bon Appétit. Our staff of writers, editors, and fact-checkers bring you the food news you crave. 
+
+<https://www.bonappetit.com/story/about-us>
+
+---
+
+## The Best Dutch Oven (2024), Reviewed by Our Experts
+
+date: 2024-10-03, from: Bon Appetet
+
+These three Dutch ovens are beloved by our product testers, test kitchen pros, and industry vets. 
+
+<https://www.bonappetit.com/story/just-buy-it-lodge-dutch-oven>
+
+---
+
+## Heya Wines Is Pushing Lebanon's Wine Industry Forward
+
+date: 2024-10-03, from: Bon Appetet
+
+Lebanon’s wine industry has experienced everything from daily electric outages to literal war. Despite the tumult, the founders of Heya Wines are empowering women in a male-dominated field. 
+
+<https://www.bonappetit.com/story/this-woman-run-winery-is-pushing-lebanon-wine-industry-forward>
+
+---
+
+## French Onion Mac and Cheese
+
+date: 2024-10-03, from: Taste of Home
+
+French onion mac and cheese is surprisingly complex and rich in flavor thanks to all the cheese, the onions and more. 
+
+<https://www.tasteofhome.com/recipes/french-onion-mac-and-cheese/>
+
+---
+
+## Watch Out, Krusty Krab: The Krabby Patty Is Coming to Wendy’s
+
+date: 2024-10-03, from: Taste of Home
+
+<p>The secret formula for the Krabby Patty has been revealed.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/krabby-patty-kollab-wendys/">Watch Out, Krusty Krab: The Krabby Patty Is Coming to Wendy&#8217;s</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/article/krabby-patty-kollab-wendys/>
+
+---
+
+## 32 Best Prime Day Deals Under $25 for Your Kitchen and Home (2024)
+
+date: 2024-10-03, from: Bon Appetet
+
+Kitchen upgrades for less than a decent bottle of pét-nat. 
+
+<https://www.bonappetit.com/story/best-early-prime-day-deals-october-1>
+
+---
+
+## 11 Food Advent Calendars to Buy Before They Sell Out (2024)
+
+date: 2024-10-03, from: Bon Appetet
+
+From cookies and chocolates to wine and cheese, these are the best food advent calendars to buy in 2024. 
+
+<https://www.bonappetit.com/story/best-food-advent-calendars>
+
+---
+
+## Starbucks Expands Research-Focused Coffee Farm Operations
+
+date: 2024-10-03, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Starbucks-coffee-farm-2-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Starbucks coffee farm 2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Starbucks-coffee-farm-2-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Starbucks-coffee-farm-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Starbucks-coffee-farm-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Starbucks-coffee-farm-2-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Starbucks-coffee-farm-2.jpg 1024w" sizes="(max-width: 620px) 100vw, 620px" /></div>Starbucks today announced an expansion of its in-house coffee farming and sustainability research activities, including new coffee farms in Costa Rica and Guatemala, plus planned investments for farms in Africa... 
+
+<https://dailycoffeenews.com/2024/10/03/starbucks-expands-research-focused-coffee-farm-operations/>
+
+---
+
+## We’re Looking For Design Inclusivity In The Specialty Coffee Industry
+
+date: 2024-10-03, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Entries are open now through October 11th. 
+
+<https://sprudge.com/were-looking-for-design-inclusivity-in-the-specialty-coffee-industry-256289.html>
+
+---
+
+## Blueberry Cheesecake Cookies
+
+date: 2024-10-03, from: Taste of Home
+
+These soft blueberry cheesecake cookies have a creamy surprise in the middle—frozen cream cheese that melts into a gooey, tangy center! 
+
+<https://www.tasteofhome.com/recipes/blueberry-cheesecake-cookies/>
+
+---
+
+## European Legislators Plan to Delay Deforestation Law (EUDR) a Year
+
+date: 2024-10-03, from: Daily Coffee News
+
+<div><img width="620" height="416" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/gabriel-bucataru-vMo8NKciA2Q-unsplash-620x416.jpg" class="attachment-large size-large wp-post-image" alt="gabriel-bucataru-vMo8NKciA2Q-unsplash" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/gabriel-bucataru-vMo8NKciA2Q-unsplash-620x416.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/gabriel-bucataru-vMo8NKciA2Q-unsplash-300x201.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/gabriel-bucataru-vMo8NKciA2Q-unsplash-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/gabriel-bucataru-vMo8NKciA2Q-unsplash-768x515.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/gabriel-bucataru-vMo8NKciA2Q-unsplash.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The European Commission yesterday said it plans to delay enforcement of the landmark deforestation-free supply chain law, known as EUDR, for 12 months. The announcement comes amidst a chorus of... 
+
+<https://dailycoffeenews.com/2024/10/03/european-legislators-plan-to-delay-deforestation-law-eudr-a-year/>
 
 ---
 
@@ -189,7 +431,7 @@ date: 2024-10-02, from: The Sprudge
 
 date: 2024-10-02, from: Daily Coffee News
 
-<div><img width="620" height="409" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Asheville-flooding-620x409.jpg" class="attachment-large size-large wp-post-image" alt="Asheville Helene" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Asheville-flooding-620x409.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Asheville-flooding-300x198.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Asheville-flooding-150x99.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Asheville-flooding-768x506.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Asheville-flooding.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>[Update, 10/3/24: This story has been updated numerous times since its original publication to include more fundraising and relief efforts. If you have something to add to the list below,... 
+<div><img width="620" height="409" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Asheville-flooding-620x409.jpg" class="attachment-large size-large wp-post-image" alt="Asheville Helene" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Asheville-flooding-620x409.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Asheville-flooding-300x198.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Asheville-flooding-150x99.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Asheville-flooding-768x506.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Asheville-flooding.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>[Update, 10/3/24: This story has been updated numerous times since its original publication to include more fundraising and relief efforts. If you have something to add to the list below,... 
 
 <https://dailycoffeenews.com/2024/10/02/help-small-coffee-businesses-devastated-by-helene/>
 
@@ -199,7 +441,7 @@ date: 2024-10-02, from: Daily Coffee News
 
 date: 2024-10-02, from: Daily Coffee News
 
-<div><img width="620" height="496" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Empirical-Water-feature-620x496.jpg" class="attachment-large size-large wp-post-image" alt="Empirical Water feature" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Empirical-Water-feature-620x496.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Empirical-Water-feature-300x240.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Empirical-Water-feature-150x120.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Empirical-Water-feature-768x614.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Empirical-Water-feature.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new product aimed at improving and controlling the mineral content of water called Empirical Water swims somewhat against the current, drawing inspiration more from nature than from the chemistry... 
+<div><img width="620" height="496" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Empirical-Water-feature-620x496.jpg" class="attachment-large size-large wp-post-image" alt="Empirical Water feature" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Empirical-Water-feature-620x496.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Empirical-Water-feature-300x240.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Empirical-Water-feature-150x120.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Empirical-Water-feature-768x614.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Empirical-Water-feature.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new product aimed at improving and controlling the mineral content of water called Empirical Water swims somewhat against the current, drawing inspiration more from nature than from the chemistry... 
 
 <https://dailycoffeenews.com/2024/10/02/empirical-water-aims-for-observable-improvements-in-coffee-brewing/>
 
@@ -209,7 +451,7 @@ date: 2024-10-02, from: Daily Coffee News
 
 date: 2024-10-02, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Avanza-Cafe-logo-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Avanza Cafe logo" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Avanza-Cafe-logo-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Avanza-Cafe-logo-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Avanza-Cafe-logo-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Avanza-Cafe-logo-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Avanza-Cafe-logo.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Coffee roasting conglomerate JDE Peet&#8217;s and the nonprofit TechnoServe announced the launch of a wide-ranging new sustainability initiative focused on the Central American coffee sector called Avanza Café. The initiative,... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Avanza-Cafe-logo-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Avanza Cafe logo" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Avanza-Cafe-logo-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Avanza-Cafe-logo-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Avanza-Cafe-logo-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Avanza-Cafe-logo-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Avanza-Cafe-logo.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Coffee roasting conglomerate JDE Peet&#8217;s and the nonprofit TechnoServe announced the launch of a wide-ranging new sustainability initiative focused on the Central American coffee sector called Avanza Café. The initiative,... 
 
 <https://dailycoffeenews.com/2024/10/02/jde-peets-and-technoserve-launch-15-3-million-avanza-cafe-project/>
 
@@ -271,7 +513,7 @@ date: 2024-10-02, from: Chili Pepper Madness
 
 date: 2024-10-02, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/roasted-pumpkin-jerk-hot-sauce/" title="Fiery Roasted Pumpkin Jerk Hot Sauce" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Roasted-Pumpkin-Jerk-Hot-Sauce-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Roasted Pumpkin Jerk Hot Sauce in bottles" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Roasted-Pumpkin-Jerk-Hot-Sauce-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Roasted-Pumpkin-Jerk-Hot-Sauce-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Roasted-Pumpkin-Jerk-Hot-Sauce-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Roasted-Pumpkin-Jerk-Hot-Sauce-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Roasted-Pumpkin-Jerk-Hot-Sauce-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Roasted-Pumpkin-Jerk-Hot-Sauce-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Roasted-Pumpkin-Jerk-Hot-Sauce-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This Caribbean style hot sauce combines fiery Scotch Bonnet chilies with earthy roasted pumpkin and jerk spices for a flaming hot sauce with an island vibe.</p>
+<a href="https://www.chilipeppermadness.com/recipes/roasted-pumpkin-jerk-hot-sauce/" title="Fiery Roasted Pumpkin Jerk Hot Sauce" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Roasted-Pumpkin-Jerk-Hot-Sauce-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Roasted Pumpkin Jerk Hot Sauce in bottles" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Roasted-Pumpkin-Jerk-Hot-Sauce-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Roasted-Pumpkin-Jerk-Hot-Sauce-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Roasted-Pumpkin-Jerk-Hot-Sauce-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Roasted-Pumpkin-Jerk-Hot-Sauce-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Roasted-Pumpkin-Jerk-Hot-Sauce-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Roasted-Pumpkin-Jerk-Hot-Sauce-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Roasted-Pumpkin-Jerk-Hot-Sauce-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This Caribbean style hot sauce combines fiery Scotch Bonnet chilies with earthy roasted pumpkin and jerk spices for a flaming hot sauce with an island vibe.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/roasted-pumpkin-jerk-hot-sauce/">Fiery Roasted Pumpkin Jerk Hot Sauce</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

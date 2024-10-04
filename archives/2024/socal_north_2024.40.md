@@ -1,11 +1,81 @@
 ---
 title: socal north
-updated: 2024-10-03 08:50:06
+updated: 2024-10-04 07:31:26
 ---
 
 # socal north
 
-(date: 2024-10-03 08:50:06)
+(date: 2024-10-04 07:31:26)
+
+---
+
+## SoCal will bake this weekend as October heat wave continues
+
+date: 2024-10-04, updated: 2024-10-04, from: The LAist
+
+It’ll be around 10 degrees hotter than normal for much of the Southland. 
+
+<https://laist.com/news/climate-environment/southland-weekend-october-heat-wave>
+
+---
+
+## LA Officials Tout License Plate Reader Project in NW San Fernando Valley
+
+date: 2024-10-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>PORTER RANCH (CNS) &#8211; City and police officials today touted an ongoing effort to install 100 automated license plate readers in the northwest San Fernando Valley, saying the technology can [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/10/03/la-officials-tout-license-plate-reader-project-in-nw-san-fernando-valley/">LA Officials Tout License Plate Reader Project in NW San Fernando Valley</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/10/03/la-officials-tout-license-plate-reader-project-in-nw-san-fernando-valley/>
+
+---
+
+## Pet Adoption Week Returns on October 7
+
+date: 2024-10-03, from: City of Santa Clarita
+
+<p>The City Will Waive Adoption Fees at Castaic Animal Care Center It’s the perfect time to open your heart to endless pawsibilities! The City of Santa Clarita is excited to announce the return of the second annual Pet Adoption Week! From October 7-12 the City will cover all adoption fees for residents adopting an animal [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/10/03/pet-adoption-week-returns-on-october-7/">Pet Adoption Week Returns on October 7</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/10/03/pet-adoption-week-returns-on-october-7/>
+
+---
+
+## Explore Upcoming Events at Our Local Community Centers!
+
+date: 2024-10-03, from: City of Santa Clarita
+
+<p>By Councilmember Jason Gibbs “Alone, we can do so little; together, we can do so much.”— Helen Keller As fall approaches, the City of Santa Clarita is gearing up for its most anticipated season of the year! Our City staff is thrilled to embrace the season with a spectacular lineup of events, including spooky Halloween [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/10/03/explore-upcoming-events-at-our-local-community-centers/">Explore Upcoming Events at Our Local Community Centers!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/10/03/explore-upcoming-events-at-our-local-community-centers/>
+
+---
+
+## Legislators could override nearly every Newsom veto. Why don’t they?
+
+date: 2024-10-03, updated: 2024-10-03, from: The LAist
+
+About 90% of bills that Newsom blocked this year passed with the support of more than two-thirds of legislators — enough to override a governor’s veto. 
+
+<https://laist.com/news/politics/legislators-could-override-nearly-every-newsom-veto>
+
+---
+
+## Man Gets Life Without Parole for Killing UCLA Grad Student at Furniture Store
+
+date: 2024-10-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="578" height="374" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/mugshot-1.jpg?fit=578%2C374&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/mugshot-1.jpg?w=578&amp;ssl=1 578w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/mugshot-1.jpg?resize=300%2C194&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/mugshot-1.jpg?resize=400%2C259&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/mugshot-1.jpg?fit=578%2C374&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ANGELES (CNS) &#8211; A transient convicted of murdering a UCLA graduate student &#8212; who was stabbed 46 times inside a Hancock Park furniture store in an attack captured in [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/10/03/man-gets-life-without-parole-for-killing-ucla-grad-student-at-furniture-store/">Man Gets Life Without Parole for Killing UCLA Grad Student at Furniture Store</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/10/03/man-gets-life-without-parole-for-killing-ucla-grad-student-at-furniture-store/>
 
 ---
 
@@ -23,7 +93,7 @@ Heat advisories end today. But come Saturday, another excessive heat watch for t
 
 date: 2024-10-03, updated: 2024-10-03, from: The LAist
 
-The largest insurer of foster agencies says it's ending coverage. Foster care advocates fear that if the issue isn't resolved, children will end up being displaced. 
+The largest insurer of California's foster agencies says it's ending coverage. Foster care advocates fear that if the issue isn't resolved, children will end up being displaced. 
 
 <https://laist.com/news/education/early-childhood-education-pre-k/foster-families-youth-niac-insurance-port-agencies>
 
@@ -43,7 +113,7 @@ It’s one way the state uses cap-and-trade money.
 
 date: 2024-10-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="612" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/National-Night-Out_SN_03_elsol.jpg?fit=1024%2C612&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/National-Night-Out_SN_03_elsol.jpg?w=1950&amp;ssl=1 1950w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/National-Night-Out_SN_03_elsol.jpg?resize=300%2C179&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/National-Night-Out_SN_03_elsol.jpg?resize=1024%2C612&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/National-Night-Out_SN_03_elsol.jpg?resize=768%2C459&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/National-Night-Out_SN_03_elsol.jpg?resize=1536%2C918&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/National-Night-Out_SN_03_elsol.jpg?resize=1200%2C718&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/National-Night-Out_SN_03_elsol.jpg?resize=1568%2C938&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/National-Night-Out_SN_03_elsol.jpg?resize=400%2C239&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/National-Night-Out_SN_03_elsol.jpg?resize=706%2C422&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/National-Night-Out_SN_03_elsol.jpg?fit=1024%2C612&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="612" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/National-Night-Out_SN_03_elsol.jpg?fit=1024%2C612&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/National-Night-Out_SN_03_elsol.jpg?w=1950&amp;ssl=1 1950w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/National-Night-Out_SN_03_elsol.jpg?resize=300%2C179&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/National-Night-Out_SN_03_elsol.jpg?resize=1024%2C612&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/National-Night-Out_SN_03_elsol.jpg?resize=768%2C459&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/National-Night-Out_SN_03_elsol.jpg?resize=1536%2C918&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/National-Night-Out_SN_03_elsol.jpg?resize=1200%2C718&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/National-Night-Out_SN_03_elsol.jpg?resize=1568%2C938&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/National-Night-Out_SN_03_elsol.jpg?resize=400%2C239&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/National-Night-Out_SN_03_elsol.jpg?resize=706%2C422&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/National-Night-Out_SN_03_elsol.jpg?fit=1024%2C612&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>El Departamento de Policía de San Fernando (SFPD, por sus siglas en inglés) llevó a cabo su Noche Nacional anual el martes 1 de octubre, invitando a la comunidad a [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/10/02/el-departamento-de-policia-de-san-fernando-involucra-a-la-comunidad-en-la-noche-nacional/">El Departamento de Policía de San Fernando Involucra a la Comunidad en la Noche Nacional</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -56,7 +126,7 @@ date: 2024-10-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-10-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="771" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?fit=771%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?w=1928&amp;ssl=1 1928w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?resize=226%2C300&amp;ssl=1 226w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?resize=771%2C1024&amp;ssl=1 771w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?resize=768%2C1020&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?resize=1157%2C1536&amp;ssl=1 1157w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?resize=1542%2C2048&amp;ssl=1 1542w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?resize=1200%2C1594&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?resize=1568%2C2083&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?resize=2000%2C2656&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?resize=400%2C531&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?resize=706%2C938&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?fit=771%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="771" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?fit=771%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?w=1928&amp;ssl=1 1928w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?resize=226%2C300&amp;ssl=1 226w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?resize=771%2C1024&amp;ssl=1 771w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?resize=768%2C1020&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?resize=1157%2C1536&amp;ssl=1 1157w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?resize=1542%2C2048&amp;ssl=1 1542w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?resize=1200%2C1594&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?resize=1568%2C2083&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?resize=2000%2C2656&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?resize=400%2C531&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?resize=706%2C938&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20240928_184505280.MP_-scaled.jpg?fit=771%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Ocho años después de que la directora Simer Garcha expresara su deseo de reverdecer y embellecer su escuela en la Escuela Secundaria Pacoima Middle School, se develó el “patio viviente” [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/10/02/voluntarios-plantan-arboles-para-el-nuevo-patio-viviente-de-la-escuela-secundaria-pacoima-middle-school/">Voluntarios Plantan Árboles para el Nuevo ‘Patio Viviente’ de la Escuela Secundaria Pacoima Middle School</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -93,7 +163,7 @@ date: 2024-10-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-10-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Props-in-a-Minute_SN_06-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Este noviembre, los votantes de California no solo votarán por el próximo presidente o congresista, sino que también determinarán el destino de 10 propuestas electorales, que cubren temas que van [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/10/02/residentes-del-valle-de-san-fernando-discuten-las-propuestas-de-la-boleta-electoral-en-props-in-a-minute/">Residentes del Valle de San Fernando Discuten las Propuestas de la Boleta Electoral en ‘Props in a Minute’</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -106,7 +176,7 @@ date: 2024-10-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-10-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="683" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?fit=683%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?w=1707&amp;ssl=1 1707w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?resize=1365%2C2048&amp;ssl=1 1365w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?resize=1200%2C1800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?resize=1568%2C2352&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?resize=400%2C600&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?resize=706%2C1059&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?fit=683%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="683" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?fit=683%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?w=1707&amp;ssl=1 1707w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?resize=1365%2C2048&amp;ssl=1 1365w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?resize=1200%2C1800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?resize=1568%2C2352&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?resize=400%2C600&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?resize=706%2C1059&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Dr.-Anilrudh-Venugopal-scaled.jpg?fit=683%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Por el Dr. Anilrudh Venugopal Director de Enfermedades Infecciosas, Optum California, ubicado en Mission Hills El virus de la gripe y el virus de COVID-19 son responsables de la propagación [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/10/02/ahora-tome-las-riendas-de-su-salud-con-vacunas-oportunas/">Ahora Tome las Riendas de Su Salud con Vacunas Oportunas </a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -119,7 +189,7 @@ date: 2024-10-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-10-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="648" height="335" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/2401a4605b6dab11f892a662b925f861.jpg?fit=648%2C335&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/2401a4605b6dab11f892a662b925f861.jpg?w=648&amp;ssl=1 648w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/2401a4605b6dab11f892a662b925f861.jpg?resize=300%2C155&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/2401a4605b6dab11f892a662b925f861.jpg?resize=400%2C207&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/2401a4605b6dab11f892a662b925f861.jpg?fit=648%2C335&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="648" height="335" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/2401a4605b6dab11f892a662b925f861.jpg?fit=648%2C335&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/2401a4605b6dab11f892a662b925f861.jpg?w=648&amp;ssl=1 648w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/2401a4605b6dab11f892a662b925f861.jpg?resize=300%2C155&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/2401a4605b6dab11f892a662b925f861.jpg?resize=400%2C207&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/2401a4605b6dab11f892a662b925f861.jpg?fit=648%2C335&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>A un mes de las elecciones generales de noviembre, los cinco candidatos que se postulan para ocupar los dos puestos vacantes en el Concejo Municipal de San Fernando están inmersos [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/10/02/cinco-candidatos-hacen-campana-para-dos-puestos-vacantes-en-el-concejo-municipal-de-san-fernando/">Cinco Candidatos Hacen Campaña para Dos Puestos Vacantes en el Concejo Municipal de San Fernando</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -283,6 +353,18 @@ date: 2024-10-01, updated: 2024-10-01, from: The LAist
 An estimated 1 in 5 schools has no air conditioning and another 10% need repair. 
 
 <https://laist.com/news/education/vomiting-cramps-and-lethargy-as-heat-rises-california-kids-are-sweltering-in-schools-with-no-air-conditioning>
+
+---
+
+## Excellence in Financial Reporting Earns Port Prestigious Recognition for 14th Consecutive Year
+
+date: 2024-10-01, from: Port Hueneme
+
+<p>&#160; Download Press Release Contact: Letitia Austin Public and Gov’t Relations Manager Laustin@Portofh.org &#160; [PORT HUENEME, CA] – Founded in 1906, The Government Finance Officers Association (GFOA) represents public finance&#8230;</p>
+<p>The post <a href="https://www.portofhueneme.org/banana-festival-2024-3/">Excellence in Financial Reporting Earns Port Prestigious Recognition for 14th Consecutive Year</a> appeared first on <a href="https://www.portofhueneme.org">The Port of Hueneme</a>.</p>
+ 
+
+<https://www.portofhueneme.org/banana-festival-2024-3/>
 
 ---
 

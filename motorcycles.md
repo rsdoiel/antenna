@@ -1,11 +1,91 @@
 ---
 title: motorcycles
-updated: 2024-10-03 08:50:17
+updated: 2024-10-04 07:31:36
 ---
 
 # motorcycles
 
-(date: 2024-10-03 08:50:17)
+(date: 2024-10-04 07:31:36)
+
+---
+
+## Can You Seriously Trademark "Freedom"? Guess Bajaj Is About To Find Out
+
+date: 2024-10-04, from: Ride Apart, Electric Motorcycle News
+
+In July 2024, Bajaj launched its first CNG bike, the Freedom 125. Now it's getting sued. 
+
+<https://www.rideapart.com/news/736091/bajaj-freedom-trademark-lawsuit-india/>
+
+---
+
+## Here's How Much the New BMW R 1300 GS Adventure Will Cost You
+
+date: 2024-10-04, from: Ride Apart, Electric Motorcycle News
+
+It ain't cheap.  
+
+<https://www.rideapart.com/news/736075/bmw-r-1300-gs-adventure-pricing/>
+
+---
+
+## I Can't Stop Drooling Over This All-Carbon Honda CBR1000RR-R Fireblade SP
+
+date: 2024-10-04, from: Ride Apart, Electric Motorcycle News
+
+Only 300 of these stealthy superbikes will ever see the dark of night.  
+
+<https://www.rideapart.com/news/735970/2025-honda-cbr1000rrr-fireblade-sp-carbon-edition/>
+
+---
+
+## Hipsters Beware, Kawasaki's Going to Drop a Classic-Looking Motorcycle Soon
+
+date: 2024-10-04, from: Ride Apart, Electric Motorcycle News
+
+Big style in a small package. 
+
+<https://www.rideapart.com/news/735969/2025-kawasaki-w230-debut-usa/>
+
+---
+
+## How Does an EV-Swapped Honda Beat Stack Up Against The Gas?
+
+date: 2024-10-04, from: Ride Apart, Electric Motorcycle News
+
+Make your inner nine year old happy by watching how this Beat Off went. 
+
+<https://www.rideapart.com/news/736068/honda-beat-ev-swap-test/>
+
+---
+
+## 'Wolf-Whacking' Gets Wyoming's OK, But It Stupidly Got Lumped In With Hunting
+
+date: 2024-10-04, from: Ride Apart, Electric Motorcycle News
+
+Stop lumping it in with hunting.  
+
+<https://www.rideapart.com/news/736061/wolf-whacking-bill-wyoming-hunting-controversy/>
+
+---
+
+## ARCA Menards West Series: 2024 Roseville Race Preview
+
+date: 2024-10-04, from: Kickin the Tires blog
+
+By Vincent Delforge, Special to Kickin&#8217; the Tires. This Saturday, October 5th, will be the 10th of the 12 races of the 2024 ARCA Menards West Series season. It is&#8230;  
+
+<https://kickinthetires.net/nascar/arca-menards-west-series-2024-roseville-race-preview/>
+
+---
+
+## 2024 ARCA West at Madera: Team Reactions, Analysis
+
+date: 2024-10-03, from: Kickin the Tires blog
+
+By Vincent Delforge, Special to Kickin&#8217; the Tires The West Coast Stock Car Motorsports Hall of Fame 150, the ninth race of the 2024 ARCA Menards West Series season, held&#8230;  
+
+<https://kickinthetires.net/nascar/2024-arca-west-at-madera-team-reactions-analysis/>
 
 ---
 
@@ -53,7 +133,7 @@ Pretty much everything else remains the same.
 
 date: 2024-10-03, from: Ride Apart, Electric Motorcycle News
 
-By the looks of the proposed rules, CFMoto isn't the major motorcycle manufacturer that'd take a hit. 
+By the looks of the proposed rules, CFMoto isn't the only major motorcycle manufacturer that'd take a hit. 
 
 <https://www.rideapart.com/news/735940/us-cfmoto-ban-commerce-rules/>
 

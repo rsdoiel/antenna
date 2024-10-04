@@ -1,11 +1,56 @@
 ---
 title: writing
-updated: 2024-10-03 08:50:13
+updated: 2024-10-04 07:31:32
 ---
 
 # writing
 
-(date: 2024-10-03 08:50:13)
+(date: 2024-10-04 07:31:32)
+
+---
+
+## 2024 Rhysling Award Winners
+
+date: 2024-10-04, from: Locus Magazine
+
+<p>The Science Fiction &#38; Fantasy Poetry Association (SFPA) has announced the winners of the 2024 Rhysling Awards for speculative poetry.</p>
+<p><strong>Short Poem Category</strong></p>
+<div class="mynomorebulletlist">
+<ul>
+<li>First Place: “No One Now Remembers,&#8221; Geoffrey A. Landis (Fantasy and Science Fiction 11-12/23)</li>
+<li>Second Place: “Language as a Form of Breath,” Angel Leal (Apparition Lit 10/23)</li>
+<li>Third Place: “The Day We All Died, A Little,” Lisa Timpf (Radon Journal 9/23)</li>
+<li>Honorable Mention: “Let Us Dream,&#8221; Myna </li></ul></div> <a href="https://locusmag.com/2024/10/2024-rhysling-award-winners/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/10/2024-rhysling-award-winners/>
+
+---
+
+## 2023 Endeavour Award Shortlist
+
+date: 2024-10-03, from: Locus Magazine
+
+<p>The finalists for the Endeavour Award have been announced. The award recognizes &#8220;a distinguished science fiction or fantasy book written by a Pacific Northwest author or authors and published in the previous year.&#8221; The finalists are:</p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>Bookshops &#38; Bonedust</strong>, Travis Baldree (Tor)</li>
+<li><strong>Vampires of El Norte</strong>, Isabel Cañas (Berkley)</li>
+<li><strong>Again and Again</strong>, Jonathan Evison (Penguin Random House/Dutton)</li>
+<li><strong>Sleep No More</strong>, Seanan McGuire (DAW)</li>
+<li><strong>Painted Devils</strong>, </li></ul></div> <a href="https://locusmag.com/2024/10/2023-endeavour-award-shortlist/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/10/2023-endeavour-award-shortlist/>
+
+---
+
+## New Books YouTube Video For 10/01/24 Is Available!
+
+date: 2024-10-03, from: Locus Magazine
+
+<p>Week one of October and we&#8217;re happy to bring you another lovely video featuring the top new releases in the Science Fiction, Horror, and Fantasy genres! Stay up to date on this weeks picks by coming by to watch us on our YouTube channel!</p>
+<div class="jetpack-video-wrapper"></div> <a href="https://locusmag.com/2024/10/new-books-youtube-video-for-10-01-24-is-available/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/10/new-books-youtube-video-for-10-01-24-is-available/>
 
 ---
 

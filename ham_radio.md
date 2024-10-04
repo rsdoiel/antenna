@@ -1,11 +1,103 @@
 ---
 title: ham radio
-updated: 2024-10-03 08:50:09
+updated: 2024-10-04 07:31:29
 ---
 
 # ham radio
 
-(date: 2024-10-03 08:50:09)
+(date: 2024-10-04 07:31:29)
+
+---
+
+## Portable signal generators reach 26 GHz
+
+date: 2024-10-04, from: EDN Blog
+
+<img width="700" height="432" src="https://www.edn.com/wp-content/uploads/Keysight-AP5002A.jpg?fit=700%2C432" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Keysight-AP5002A.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Keysight-AP5002A.jpg?w=300 300w" sizes="(max-width: 700px) 100vw, 700px" /><p>Two analog signal generators from Keysight enable component and device characterization at frequencies up to 26 GHz.</p>
+<p>The post <a href="https://www.edn.com/portable-signal-generators-reach-26-ghz/" data-wpel-link="internal">Portable signal generators reach 26 GHz</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/portable-signal-generators-reach-26-ghz/>
+
+---
+
+## Ideal diode switch elevates UCB-C safety
+
+date: 2024-10-04, from: EDN Blog
+
+<img width="800" height="462" src="https://www.edn.com/wp-content/uploads/Alpha_Omega-1390DI.jpg?fit=800%2C462" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Alpha_Omega-1390DI.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Alpha_Omega-1390DI.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Alpha_Omega-1390DI.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Offering Limited Power Source (LPS) functionality, the AOS AOZ1390DI ideal diode protection switch improves USB-C efficiency and safety.</p>
+<p>The post <a href="https://www.edn.com/ideal-diode-switch-elevates-ucb-c-safety/" data-wpel-link="internal">Ideal diode switch elevates UCB-C safety</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/ideal-diode-switch-elevates-ucb-c-safety/>
+
+---
+
+## FPGA is optimized for high-bandwidth workloads
+
+date: 2024-10-04, from: EDN Blog
+
+<img width="800" height="447" src="https://www.edn.com/wp-content/uploads/Achronix-AC7t800.jpg?fit=800%2C447" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Achronix-AC7t800.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Achronix-AC7t800.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Achronix-AC7t800.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>The Achronix Speedster AC7t800 FPGA delivers 12 Tbps of fabric bandwidth, making it well-suited for AI/ML and data center applications.</p>
+<p>The post <a href="https://www.edn.com/fpga-is-optimized-for-high-bandwidth-workloads/" data-wpel-link="internal">FPGA is optimized for high-bandwidth workloads</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/fpga-is-optimized-for-high-bandwidth-workloads/>
+
+---
+
+## Page EEPROM boasts flash-like speed
+
+date: 2024-10-04, from: EDN Blog
+
+<img width="800" height="462" src="https://www.edn.com/wp-content/uploads/STMicro-M95Pxx.jpg?fit=800%2C462" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/STMicro-M95Pxx.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/STMicro-M95Pxx.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/STMicro-M95Pxx.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>ST has launched a page EEPROM that provides the speed and density typical of serial flash, combined with the byte-level flexibility of EEPROM.</p>
+<p>The post <a href="https://www.edn.com/page-eeprom-boasts-flash-like-speed/" data-wpel-link="internal">Page EEPROM boasts flash-like speed</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/page-eeprom-boasts-flash-like-speed/>
+
+---
+
+## Eval kit promotes LoRaWAN for smart home
+
+date: 2024-10-04, from: EDN Blog
+
+<img width="800" height="368" src="https://www.edn.com/wp-content/uploads/Semtech-LoRa-eval.jpg?fit=800%2C368" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Semtech-LoRa-eval.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Semtech-LoRa-eval.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Semtech-LoRa-eval.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Semtech’s single-channel LoRaWAN hub evaluation kit supports smaller-scale network deployments, such as SMB and smart home applications.</p>
+<p>The post <a href="https://www.edn.com/eval-kit-promotes-lorawan-for-smart-home/" data-wpel-link="internal">Eval kit promotes LoRaWAN for smart home</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/eval-kit-promotes-lorawan-for-smart-home/>
+
+---
+
+## The K7RA Solar Update
+
+date: 2024-10-04, from: Amateur Radio Relay League News
+
+<p>ASWFC GEOMAGNETIC DISTURBANCE WARNING ISSUED AT 0042UT/04 OCTOBER 2024 BY THE AUSTRALIAN SPACE WEATHER FORECASTING CENTRE.<br /><br />Two coronal mass ejections first observed on 01-Oct and 03-Oct are<br />expected to impact Earth over 04-05 Oct. Lack of analyzable corona<br />graph imagery makes arrival time predictions uncertain.<br /><br />INCREASED GEOMAGNETIC ACTIVITY EXPECTED DUE TO CORONAL MASS EJECTION FROM 04-06 OCTOBER ...</p> 
+
+<http://www.arrl.org/news/view/the-k7ra-solar-update-848>
+
+---
+
+## Ham Radio Serving Southeast US Recovery Efforts
+
+date: 2024-10-04, from: Amateur Radio Relay League News
+
+<p>ARRL® The National Association for Amateur Radio® is tracking how amateur radio is proving critical in areas hit hard by Hurricane Helene, especially in North and South Carolina, portions of Tennessee, and beyond. In the hardest-hit Asheville, North Carolina, area, homes and entire towns have been swept away by flood waters and mudslides. Over 200 people have been killed, and many more are stil...</p> 
+
+<http://www.arrl.org/news/view/ham-radio-serving-southeast-us-recovery-efforts>
+
+---
+
+## Spin memristor mimics brain for energy efficiency in AI
+
+date: 2024-10-04, from: EDN Blog
+
+<img width="617" height="310" src="https://www.edn.com/wp-content/uploads/Fig-1-spin-memristor-TDK.jpg?fit=617%2C310" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Fig-1-spin-memristor-TDK.jpg?w=617 617w, https://www.edn.com/wp-content/uploads/Fig-1-spin-memristor-TDK.jpg?w=300 300w" sizes="(max-width: 617px) 100vw, 617px" /><p>TDK has developed “spin-memristor” as the basic element of a neuromorphic device in collaboration with CEA.</p>
+<p>The post <a href="https://www.edn.com/spin-memristor-mimics-brain-for-energy-efficiency-in-ai/" data-wpel-link="internal">Spin memristor mimics brain for energy efficiency in AI</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/spin-memristor-mimics-brain-for-energy-efficiency-in-ai/>
 
 ---
 
@@ -13,7 +105,7 @@ updated: 2024-10-03 08:50:09
 
 date: 2024-10-03, from: EDN Blog
 
-<img width="570" height="335" src="https://www.edn.com/wp-content/uploads/VFC-Prescaler_Figure.png?fit=570%2C335" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/VFC-Prescaler_Figure.png?w=570 570w, https://www.edn.com/wp-content/uploads/VFC-Prescaler_Figure.png?w=300 300w" sizes="(max-width: 570px) 100vw, 570px" /><p>A 100-MHz MSI counter prescales and accumulates VFC LSBs so clunky CTP can cope to extend the peripheral’s speed by up to 16x. </p>
+<img width="570" height="335" src="https://www.edn.com/wp-content/uploads/VFC-Prescaler_Figure.png?fit=570%2C335" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/VFC-Prescaler_Figure.png?w=570 570w, https://www.edn.com/wp-content/uploads/VFC-Prescaler_Figure.png?w=300 300w" sizes="(max-width: 570px) 100vw, 570px" /><p>A 100-MHz MSI counter prescales and accumulates VFC LSBs so clunky CTP can cope to extend the peripheral’s speed by up to 16x. </p>
 <p>The post <a href="https://www.edn.com/preaccumulator-handles-vfc-outputs-that-are-too-fast-for-a-naked-ctp-to-swallow/" data-wpel-link="internal">Preaccumulator handles VFC outputs that are too fast for a naked CTP to swallow</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

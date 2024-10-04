@@ -1,11 +1,111 @@
 ---
 title: games
-updated: 2024-10-03 08:50:13
+updated: 2024-10-04 07:31:33
 ---
 
 # games
 
-(date: 2024-10-03 08:50:13)
+(date: 2024-10-04 07:31:33)
+
+---
+
+## How to lose friends and alienate people with Magic’s new group slug Commander deck
+
+date: 2024-10-04, updated: 2024-10-04, from: Polygon Website
+
+No one is safe when Valgavoth, Harrower of Souls spreads his massive, mothlike wings. This is the terrifying reality in the world of Duskmourn, Magic: The Gathering’s newest horror-themed expansion. In the latest collection of preconstructed Commander decks, Magic’s primary multiplayer format, the legendary elder demon is on full display in the red-black deck Endless [&#8230;] 
+
+<https://www.polygon.com/mtg-magic-the-gathering/460284/commander-red-black-group-slug-endless-punishment-deck>
+
+---
+
+## Indie developers are revitalizing the underappreciated immersive sim
+
+date: 2024-10-04, updated: 2024-10-04, from: Polygon Website
+
+When Arkane Austin was shuttered by Microsoft, many gamers wistfully wondered if this was the end of the AAA immersive sim. While that legacy lives on through projects like Wolfeye Studios’ upcoming sci-fi RPG, the genre is absolutely thriving in the indie scene. Recently, we’ve noticed an explosion of intriguing, ambitious, and fascinating immersive sims [&#8230;] 
+
+<https://www.polygon.com/gaming/460227/indie-immersive-simulation-games-genre-trend>
+
+---
+
+## The Silent Hill 2 remake adds yet another layer of interpretation
+
+date: 2024-10-04, updated: 2024-10-04, from: Polygon Website
+
+How do you remake a story that lives in interpretations? In “Lost Memories: Silent Hill Chronicle,” a lengthy document published by Konami and Team Silent in 2003, the developers wrote that there’s no canonical ending to the original Silent Hill 2, which has four main conclusions depending on your actions. Many narrative subtleties with regard [&#8230;] 
+
+<https://www.polygon.com/review/460647/silent-hill-2-sh2-remake-review-ps5-pc>
+
+---
+
+## Big Star Wars Outlaws patch fixes a long list of launch issues
+
+date: 2024-10-03, updated: 2024-10-03, from: Polygon Website
+
+Ubisoft rolled out a massive update for Star Wars Outlaws on Thursday, addressing a long list of complaints about the open-world Star Wars game as the first step in its previously announced roadmap to improve the game. If you haven’t finished Star Wars Outlaws yet — maybe because you were annoyed by the game’s wonky [&#8230;] 
+
+<https://www.polygon.com/gaming/460554/star-wars-outlaws-stealth-speeder-bugs-patch>
+
+---
+
+## The Sims 4’s next expansion lets you be the Grim Reaper and save souls
+
+date: 2024-10-03, updated: 2024-10-03, from: Polygon Website
+
+The Sims 4’s next expansion is set to arrive on Halloween and, as is appropriate for such a spooky season, the expansion is all about the specter of death. On Thursday, Electronic Arts released some more information on what players can expect from Life and Death, a new expansion that includes the town of Ravenwood, [&#8230;] 
+
+<https://www.polygon.com/news/460517/sims-4-life-death-grim-reaper-playable>
+
+---
+
+## The illustrated Lord of the Rings box set has never been cheaper
+
+date: 2024-10-03, updated: 2024-10-03, from: Polygon Website
+
+The Lord of the Rings Deluxe Illustrated Box Set is perhaps the most decadent version of Tolkien’s trilogy ever brought to print, and it’s currently discounted to its lowest price ever on Amazon. Typically priced at $325, the massive box set is on sale for just $246.41, just in time for October Prime Day. The [&#8230;] 
+
+<https://www.polygon.com/amazon-prime-day/460068/lord-of-the-rings-illustrated-box-set-hobbit-sale>
+
+---
+
+## Rings of Power season 2 leaves its wizards almost as mysterious as season 1
+
+date: 2024-10-03, updated: 2024-10-03, from: Polygon Website
+
+The first season of The Lord of the Rings: The Rings of Power loved its mysteries — a secret Sauron, a spooky sword, and an amnesiac meteor man. And while we had a pretty good idea of who that meteor man was at the end of season 1, the finale of season 2 finally gives [&#8230;] 
+
+<https://www.polygon.com/lotr-rings-of-power/459369/gandalf-name-saruman-dark-wizard>
+
+---
+
+## The new Until Dawn is more than just an upgrade, it’s a hint at a sequel
+
+date: 2024-10-03, updated: 2024-10-03, from: Polygon Website
+
+Developer Ballistic Moon’s “rebuilt and enhanced” version of horror game Until Dawn —&#160;out this Friday —&#160;goes beyond just a visual upgrade for PlayStation 5 and Windows PC. The remastered re-release of the 2015 original also includes a little something more, in the form of a new ending that points toward a possible future for the [&#8230;] 
+
+<https://www.polygon.com/news/459908/until-dawn-2-remaster-new-ending>
+
+---
+
+## Asmodee’s first Lego board game, Monkey Palace, feels like Scrabble for STEM kids
+
+date: 2024-10-03, updated: 2024-10-03, from: Polygon Website
+
+When I’m playing board games, I have a habit of photographing the table at the very end, just before we put everything up. There’s something intrinsically rewarding about capturing how a game went from box to setup and then from setup to a full game — to capture how busy and frenetic everything got, as [&#8230;] 
+
+<https://www.polygon.com/gaming/459860/monkey-palace-lego-board-game-review>
+
+---
+
+## The Rings of Power is at battle with itself
+
+date: 2024-10-03, updated: 2024-10-03, from: Polygon Website
+
+So, here we are at last: the eighth and final episode of The Rings of Power season 2. As you’d expect from a season finale, a lot goes down in episode 8. The Sauron/Celebrimbor partnership reaches its inevitably tragic conclusion. The extended dust-up between Elrond, Galadriel, and the elves and Adar’s forces reaches its endgame. [&#8230;] 
+
+<https://www.polygon.com/lotr-rings-of-power/459096/trop-season-finale-review-2-8>
 
 ---
 

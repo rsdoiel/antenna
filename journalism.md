@@ -1,11 +1,417 @@
 ---
 title: journalism
-updated: 2024-10-03 08:50:14
+updated: 2024-10-04 07:31:34
 ---
 
 # journalism
 
-(date: 2024-10-03 08:50:14)
+(date: 2024-10-04 07:31:34)
+
+---
+
+## Classifieds – October 4, 2024
+
+date: 2024-10-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/04/classifieds-october-4-2024/">Classifieds &#8211; October 4, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/04/classifieds-october-4-2024/>
+
+---
+
+## Renaissance students innovate their own education
+
+date: 2024-10-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Students blend their varying passions to create a unique, multidisciplinary experience.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/04/renaissance-students/">Renaissance students innovate their own education</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/04/renaissance-students/>
+
+---
+
+## The Weekly Frame: Depth
+
+date: 2024-10-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Regardless of the flatness of the image, skilled photographers can work to make the image feel real and full of life.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/04/the-weekly-frame-depth/">The Weekly Frame: Depth</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/04/the-weekly-frame-depth/>
+
+---
+
+## Magdalena Bay performs synth-pop nostalgia
+
+date: 2024-10-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The best friend duo rocked the Fonda Theatre stage with their latest album.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/04/magdalena-bay-performs-synth-pop-nostalgia/">Magdalena Bay performs synth-pop nostalgia</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/04/magdalena-bay-performs-synth-pop-nostalgia/>
+
+---
+
+## The (fashion) world, according to Noe
+
+date: 2024-10-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Fresh-faced and seasoned fashion week veteran Noa “Noe” Levy takes the industry by storm.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/04/the-fashion-world-according-to-noe/">The (fashion) world, according to Noe</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/04/the-fashion-world-according-to-noe/>
+
+---
+
+## The dining hall experience could be improved — here’s how
+
+date: 2024-10-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The strategic solicitation of student input could help improve dining hall food.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/04/the-dining-hall-experience-could-be-improved-heres-how/">The dining hall experience could be improved — here’s how</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/04/the-dining-hall-experience-could-be-improved-heres-how/>
+
+---
+
+## ‘Lingering Sins’ showcases identity, dedication
+
+date: 2024-10-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The nuanced student film represents the struggle of independent filmmaking.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/04/lingering-sins-profile/">‘Lingering Sins’ showcases identity, dedication</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/04/lingering-sins-profile/>
+
+---
+
+## Uncovering Los Angeles’ hidden gems
+
+date: 2024-10-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Here are five underrated spots to check out when you want to eat, watch or smoke.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/04/los-angeles-hidden-gems/">Uncovering Los Angeles&#8217; hidden gems</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/04/los-angeles-hidden-gems/>
+
+---
+
+## Two high-stakes home games lie ahead for women’s volleyball
+
+date: 2024-10-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans have an exciting weekend of back-to-back matches with Big Ten foes. </p>
+<p>The post <a href="https://dailytrojan.com/2024/10/04/two-high-stakes-home-games-lie-ahead-for-womens-volleyball/">Two high-stakes home games lie ahead for women’s volleyball</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/04/two-high-stakes-home-games-lie-ahead-for-womens-volleyball/>
+
+---
+
+## Were those tables here yesterday?
+
+date: 2024-10-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Let’s take a look into how event planning and setup operates at the University.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/04/set-up-crew/">Were those tables here yesterday?</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/04/set-up-crew/>
+
+---
+
+## Student entrepreneurs discuss their paths from vision to venture
+
+date: 2024-10-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Three students share how they turned their passions into self-run businesses.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/04/student-entrepreneurs-vision-to-venture/">Student entrepreneurs discuss their paths from vision to venture</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/04/student-entrepreneurs-vision-to-venture/>
+
+---
+
+## Downtown Women’s Center serves LA’s unhoused population
+
+date: 2024-10-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>DWC employees shed light on the services they provide to address homelessness. </p>
+<p>The post <a href="https://dailytrojan.com/2024/10/04/downtown-womens-center/">Downtown Women’s Center serves LA’s unhoused population</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/04/downtown-womens-center/>
+
+---
+
+## From passive to puppeteering: parents and college applications
+
+date: 2024-10-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC students examine their parents' impact on their college admissions process.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/04/parents-and-college-applications/">From passive to puppeteering: parents and college applications</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/04/parents-and-college-applications/>
+
+---
+
+## Belonging in selective extracurricular activities
+
+date: 2024-10-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The exclusiveness in club cultures deprives us of the joy of finding companions.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/04/belonging-in-selective-extracurricular-activities/">Belonging in selective extracurricular activities</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/04/belonging-in-selective-extracurricular-activities/>
+
+---
+
+## A sit-down with USC’s dining hall chefs
+
+date: 2024-10-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Kitchen managers reflect on their experiences working in USC’s three dining halls.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/04/dining-hall-chefs/">A sit-down with USC’s dining hall chefs</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/04/dining-hall-chefs/>
+
+---
+
+## Unify America provides space for political common ground
+
+date: 2024-10-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>College students across the nation with varying political beliefs engage in civic exercise.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/04/unify-america-provides-space-for-political-common-ground/">Unify America provides space for political common ground</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/04/unify-america-provides-space-for-political-common-ground/>
+
+---
+
+## Football makes second Midwest trip
+
+date: 2024-10-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans aim to carry momentum into Minnesota after a hard-fought victory.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/04/football-makes-second-midwest-trip/">Football makes second Midwest trip</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/04/football-makes-second-midwest-trip/>
+
+---
+
+## UCLA men’s soccer polishes offensive tactics ahead of Penn State game
+
+date: 2024-10-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 3 at 10:42 p.m.</em>
+Offense and defense can operate as two distinct units – acting almost foreign to one another.
+In a season where the Bruins&#8217; defense has shone, their offense has consistently faltered. 
+
+<https://dailybruin.com/2024/10/03/ucla-mens-soccer-polishes-offensive-tactics-ahead-of-penn-state-game/>
+
+---
+
+## Rudy Quan debuts at ITA Men’s All-American Championships
+
+date: 2024-10-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+The ink on Rudy Quan&#8217;s UCLA enrollment is barely dry.
+But the freshman is already close to imprinting his name in Westwood.
+&#8220;He&#8217;s off and running in college tennis,&#8221; said head coach Billy Martin. 
+
+<https://dailybruin.com/2024/10/03/rudy-quan-debuts-at-ita-mens-all-american-championships/>
+
+---
+
+## 5K walk Alive Together raises awareness for suicide prevention, mental health
+
+date: 2024-10-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 3 at 10:50 p.m.</em>
+Over 1,000 people gathered in Wilson Plaza on Sunday morning for Alive Together, a five-kilometer walk that mourns those who died by suicide and raises mental health awareness. 
+
+<https://dailybruin.com/2024/10/03/5k-walk-alive-together-raises-awareness-for-suicide-prevention-mental-health/>
+
+---
+
+## Former UCLA dentistry student sentenced 35 years for 2023 shooting of Jewish men
+
+date: 2024-10-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+A former UCLA School of Dentistry student was sentenced to 35 years in federal prison Monday for shooting two Jewish men in 2023.
+Jaime Tran, who was last enrolled at UCLA in 2018, was arrested for shooting and wounding two Jewish men as they left religious services in Los Angeles, according to a press release from the United States Department of Justice. 
+
+<https://dailybruin.com/2024/10/03/former-ucla-dentistry-student-sentenced-35-years-for-2023-shooting-of-jewish-men/>
+
+---
+
+## Op-ed: Admin complacency in attacks on pro-Palestine protesters proves UCLA wants us dead
+
+date: 2024-10-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+Editor&#8217;s note: This article describes instances of violence that may be disturbing to some readers.
+On the fourth day of the UCLA Palestine solidarity encampment, a community member asked me, &#8220;What should we do if there&#8217;s a bomb?&#8221;
+I replied incredulously, &#8220;Bombs aren&#8217;t allowed at UCLA.&#8221;
+The next night, a Zionist flashed encampment participants with their holstered pistol. 
+
+<https://dailybruin.com/2024/10/03/op-ed-admin-complacency-in-attacks-on-pro-palestine-protesters-proves-ucla-wants-us-dead/>
+
+---
+
+## Women’s golf blown to 8th-place finish in Windy City Collegiate Classic
+
+date: 2024-10-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 3 at 10:48 p.m.</em>
+Windy City blew in the first victory of the Bruins&#8217; season exactly one year ago.
+This year, though, those gusts instead pulled the team under. 
+
+<https://dailybruin.com/2024/10/03/womens-golf-blown-to-8th-place-finish-in-windy-city-collegiate-classic/>
+
+---
+
+## Swim and dive to open road-heavy season after summer of hard training
+
+date: 2024-10-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+Inspired by the Big Ten&#8217;s stylized &#8220;B1G&#8221; logo, the Bruins developed a new motto as their new mission statement.
+&#8220;Bold, one team and gritty.&#8221;
+Fueled by its new slogan, No. 
+
+<https://dailybruin.com/2024/10/03/swim-and-dive-to-open-road-heavy-season-after-summer-of-hard-training/>
+
+---
+
+## Crimewatch: September 2024
+
+date: 2024-10-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+Sources: UCPD. Graphic reporting by Gabrielle Gillette, Assistant News Editor. Interactive by Liam McGlynn, Data Editor.
+UCPD recorded 621 unique entries in its Sept. 1 to Sept. 
+
+<https://dailybruin.com/2024/10/03/crimewatch-september-2024/>
+
+---
+
+## Second Take: School phone bans, Instagram Teen Accounts both imperfect solutions
+
+date: 2024-10-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+Teenagers are caught in a battle for the future of their feeds.
+Instagram announced its novel Teen Accounts feature Sept. 17, outlining how users under 18 would soon discover content and messaging restrictions imposed on their accounts. 
+
+<https://dailybruin.com/2024/10/03/second-take-school-phone-bans-instagram-teen-accounts-both-imperfect-solutions/>
+
+---
+
+## Academics host 24-hour reading of Palestinian writer Edward Said’s ‘Out of Place’
+
+date: 2024-10-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 3 at 8:15 p.m.</em>
+It’s not every day one can listen to a book reading for 24 hours straight.
+Twenty-seven UCLA departments and units collaborated to host a 24-hour reading of Edward Said’s 1999 memoir “Out of Place” from Tuesday to Wednesday. 
+
+<https://dailybruin.com/2024/10/03/academics-host-24-hour-reading-of-palestinian-writer-edward-saids-out-of-place/>
+
+---
+
+## From Matador to Pro: Jamar Ricketts navigates MLS and injury setbacks
+
+date: 2024-10-03, from: The Sundail (CSUN Student Newspaper)
+
+The 2024 MLS SuperDraft has now passed, and with it, the Matadors have gained a new member in a small group. Jamar Ricketts, who was drafted by the San Jose... 
+
+<https://sundial.csun.edu/185840/sports/from-matador-to-pro-jamar-ricketts-navigates-mls-and-injury-setbacks/>
+
+---
+
+## Editorial Cartoon: “Welcome New Bruins!”
+
+date: 2024-10-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<https://dailybruin.com/2024/10/03/editorial-cartoon-welcome-new-bruins/>
+
+---
+
+## Alumni films ‘Hickey,’ ‘Esperanza’ recognized at PBS SoCal’s FINE CUT festival
+
+date: 2024-10-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA alumni are setting the stage for efficacious storytelling through short films. 
+Celebrating its 25th anniversary, PBS SoCal&#8217;s annual FINE CUT festival of films showcases student films from across Southern California and provides networking  opportunities for participants. 
+
+<https://dailybruin.com/2024/10/03/alumni-films-hickey-esperanza-recognized-at-pbs-socals-fine-cut-festival/>
+
+---
+
+## Women’s tennis starts season swinging with NCAA doubles championships berth
+
+date: 2024-10-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 3 at 10:39 p.m.</em>
+A pair of veteran Bruins have already punched their ticket to the NCAA championships.
+From Sept. 21 to Sept. 
+
+<https://dailybruin.com/2024/10/03/womens-tennis-starts-season-swinging-with-ncaa-doubles-championships-berth/>
+
+---
+
+## Bruins sharpen claws in preparation for duel against undefeated Nittany Lions
+
+date: 2024-10-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 3 at 10:28 p.m.</em>
+There arguably isn’t a more daunting three-game stretch in college football than what the Bruins have been served. 
+
+<https://dailybruin.com/2024/10/03/bruins-sharpen-claws-in-preparation-for-duel-against-undefeated-nittany-lions/>
+
+---
+
+## Women’s volleyball hosts Minnesota, Michigan on heels of first Big Ten victory
+
+date: 2024-10-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+It&#8217;s all about keeping the momentum.
+UCLA women&#8217;s volleyball (7-4, 1-1 Big Ten) is gearing up to host No. 12 Minnesota (8-4, 1-1) and Michigan (12-1, 2-0) at Pauley Pavilion on Friday and Saturday. 
+
+<https://dailybruin.com/2024/10/03/womens-volleyball-hosts-minnesota-michigan-on-heels-of-first-big-ten-victory/>
+
+---
+
+## Journalism scholars want to make journalism better. They’re not quite sure how.
+
+date: 2024-10-03, from: Nieman Journalism Lab
+
+As journalism struggles through a now decades-long decline in economic stability and public trust, academics who study journalism have grown increasingly focused on finding ways to improve the profession. The signs of this shift are everywhere. Academic conferences and groups focused on journalism research have recently launched awards meant to recognize scholars who successfully bring... 
+
+<https://www.niemanlab.org/2024/10/journalism-scholars-want-to-make-journalism-better-theyre-not-quite-sure-how/>
+
+---
+
+## CSUN’s Project Rebound: Redefining second chances through education
+
+date: 2024-10-03, from: The Sundail (CSUN Student Newspaper)
+
+Project Rebound, formerly a program, is now a department at CSUN that helps students who were formerly incarcerated and are interested in pursuing a higher education. The department provides assistance... 
+
+<https://sundial.csun.edu/185823/news/csuns-project-rebound-redefining-second-chances-through-education/>
 
 ---
 
@@ -142,7 +548,7 @@ The UC announced Tuesday that it agreed to contract changes for librarians after
 
 date: 2024-10-02, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Oct. 2 at 6:00 p.m.</em>
+<em>This post was updated Oct. 3 at 8:22 p.m.</em>
 With the crispness of autumn settling in, the season’s top video games are ripe for discovery.
 As the leaves turn and the air cools, this harvest season brings a variety of immersive stories and nostalgic comforts. 
 
@@ -154,8 +560,8 @@ As the leaves turn and the air cools, this harvest season brings a variety of im
 
 date: 2024-10-02, from: The Daily Bruin (UCLA Student Newspaper)
 
-A UCLA alumnus and lecturer filed a lawsuit against the UC on Tuesday, alleging the University discriminated against its undocumented students.
-The lawsuit, filed in the California Court of Appeals, requests an order for the UC to change its policy barring undocumented students from accessing on-campus employment and paid educational opportunities. 
+<em>This post was updated Oct. 3 at 10:47 p.m.</em>
+A UCLA alumnus and lecturer filed a lawsuit against the UC on Tuesday, alleging the University discriminated against its undocumented students. 
 
 <https://dailybruin.com/2024/10/02/uc-faces-lawsuit-regarding-refusal-to-hire-undocumented-students-to-on-campus-jobs/>
 
