@@ -1,11 +1,32 @@
 ---
 title: pacific
-updated: 2024-10-04 07:31:28
+updated: 2024-10-05 09:57:09
 ---
 
 # pacific
 
-(date: 2024-10-04 07:31:28)
+(date: 2024-10-05 09:57:09)
+
+---
+
+## Search begins for next SOEST dean at UH Mānoa
+
+date: 2024-10-04, from: University of Hawaiʻi News
+
+<p>The Office of the Provost has formally initiated the search for the next dean of the School of Ocean and Earth Science and Technology.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/04/search-for-soest-dean/">Search begins for next <abbr>SOEST</abbr> dean at <abbr>UH</abbr> Mānoa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/04/search-for-soest-dean/>
+
+---
+
+## Don’t just age, age better: 5 longevity tips for healthier aging
+
+date: 2024-10-04, updated: 2024-10-04, from: Marianas Variety
+
+(BPT) - Do you know how well you’re aging? Aging well goes beyond how you look. To live a healthier, more active lifestyle as you age, it’s important to know your current health baseline and identify potential future issues that you can prevent or manage now. 
+
+<https://www.mvariety.com/online_features/tech_talk_and_innovation/don-t-just-age-age-better-5-longevity-tips-for-healthier-aging/article_092536ab-c8b2-5a16-9257-b4ac89ff01d0.html>
 
 ---
 
@@ -572,6 +593,36 @@ date: 2024-10-04, from: Island Times
 
 ---
 
+## Financial Planning: A Great Career Option for Remote Work
+
+date: 2024-10-04, updated: 2024-10-04, from: Marianas Variety
+
+(StatePoint) If you’re like most workers today, you see remote work as a major perk. In fact, a Buffer study finds that 98% of all workers have expressed the desire to work remotely, at least part of the time. 
+
+<https://www.mvariety.com/online_features/business_and_careers/financial-planning-a-great-career-option-for-remote-work/article_d00d3953-8788-5a8a-8335-a69bd493f4ce.html>
+
+---
+
+## Be a Tailgating Legend This Football Season
+
+date: 2024-10-04, updated: 2024-10-04, from: Marianas Variety
+
+(StatePoint) It’s tailgating season and whether you’re gathering in your backyard or in the stadium parking lot, you know that some of the best times happen in the hours leading up to the game, especially when there are tasty bites in the mix. 
+
+<https://www.mvariety.com/online_features/food_recipes_entertaining/be-a-tailgating-legend-this-football-season/article_7bca0357-4b6f-5c87-ad00-a51c89a8326f.html>
+
+---
+
+## How Less Plastic Can Help Protect Your Family and Community
+
+date: 2024-10-04, updated: 2024-10-04, from: Marianas Variety
+
+(StatePoint) In a major policy shift, the United States is targeting plastic pollution at the production, processing, use and disposal phases, and is backing a global treaty to reduce plastic production. Advocates are celebrating the move as a watershed moment and a step in the right direction toward protecting human health, communities and the environment. 
+
+<https://www.mvariety.com/online_features/green_living/how-less-plastic-can-help-protect-your-family-and-community/article_0a53323c-ac65-53ed-86ec-baae9a522ac7.html>
+
+---
+
 ## Brief Chat with Catherine Castro: What’s at stake for Guam’s economy in this year's elections
 
 date: 2024-10-04, from: Pacific Island Times
@@ -579,6 +630,16 @@ date: 2024-10-04, from: Pacific Island Times
 By Ron Rocky Coloma   As Guam gears up for the general elections on Nov. 5, the business community is watching closely to see what... 
 
 <https://www.pacificislandtimes.com/post/brief-chat-with-catherine-castro-what-s-at-stake-for-guam-s-economy-in-this-year-s-elections>
+
+---
+
+## Tropical disturbance developing north of Chuuk
+
+date: 2024-10-04, updated: 2024-10-04, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/news/local/tropical-disturbance-developing-north-of-chuuk/article_0de832a6-81f0-11ef-9119-cb26b9bda876.html>
 
 ---
 
@@ -601,6 +662,16 @@ date: 2024-10-03, from: University of Hawaiʻi News
 The post <a href="https://www.hawaii.edu/news/2024/10/03/kalaupapa-residents-equipment-training/">Kalaupapa residents get hands-on equipment training by <abbr>UH</abbr> Maui College</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <https://www.hawaii.edu/news/2024/10/03/kalaupapa-residents-equipment-training/>
+
+---
+
+## New nationwide notification policy will help women with dense breast tissue
+
+date: 2024-10-03, updated: 2024-10-05, from: Marianas Variety
+
+(BPT) - Have you scheduled your mammogram? If you’re a woman over 40 and haven’t had a mammogram before or are putting off your next one, this is your friendly reminder to schedule it now. Doing so can give you important health information and potentially save your life. 
+
+<https://www.mvariety.com/online_features/tech_talk_and_innovation/new-nationwide-notification-policy-will-help-women-with-dense-breast-tissue/article_6f9a2499-9b75-5fce-bc77-bea2ccda38d1.html>
 
 ---
 
@@ -650,6 +721,26 @@ date: 2024-10-03, from: INSIGHTS ON PBS HAWAIʻI
 
 ---
 
+## Saving Lives: How New Approaches to Mental Health Are Revolutionizing Suicide Prevention
+
+date: 2024-10-03, updated: 2024-10-03, from: Marianas Variety
+
+Sorry, but your browser does not support the video tag. 
+
+<https://www.mvariety.com/online_features/health_and_wellness/saving-lives-how-new-approaches-to-mental-health-are-revolutionizing-suicide-prevention/article_baee343f-48c6-5546-a62d-917a1573dbbd.html>
+
+---
+
+## For love of family: How one woman persists throughout her breast cancer treatment journey
+
+date: 2024-10-03, updated: 2024-10-05, from: Marianas Variety
+
+(BPT) - Southern California native Lisa Shoemaker has been coping with breast cancer for a long time, and one thing keeps her going: her family. She married her high school sweetheart and had two boys before she was first diagnosed with stage 2 breast cancer at age 29. With this devastating diagnosis, Shoemaker feared she wouldn't live to see her 2- and 4-year-old sons grow up. 
+
+<https://www.mvariety.com/online_features/senior_living/for-love-of-family-how-one-woman-persists-throughout-her-breast-cancer-treatment-journey/article_95983c82-ccdf-5ac3-bb7c-be001aca280e.html>
+
+---
+
 ## October 2024 anniversaries
 
 date: 2024-10-03, from: University of Hawaiʻi News
@@ -658,6 +749,26 @@ date: 2024-10-03, from: University of Hawaiʻi News
 The post <a href="https://www.hawaii.edu/news/2024/10/03/october-2024-anniversaries/">October 2024 anniversaries</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <https://www.hawaii.edu/news/2024/10/03/october-2024-anniversaries/>
+
+---
+
+## 5 simple ways to harvest your health this fall
+
+date: 2024-10-03, updated: 2024-10-05, from: Marianas Variety
+
+(BPT) - Fall is here and it's time to cozy up with healthier habits! If you're looking to refresh your routine and embrace healthier habits this season, Registered Dietitian and Nutritionist Dawn Jackson Blatner shares valuable tips to help you harvest your health this fall. 
+
+<https://www.mvariety.com/online_features/health_and_wellness/5-simple-ways-to-harvest-your-health-this-fall/article_80445563-9693-5796-84a4-50017dfab947.html>
+
+---
+
+## Teacher of the Year candidates talk about what makes teaching special
+
+date: 2024-10-03, updated: 2024-10-03, from: Marianas Variety
+
+NEXT month, the CNMI Public School System will announce its overall Teacher of the Year winner from among its five candidates: Christina Ruiz, Patricia Muna, Marylyn Tabuena, Darlene Aldan, and Yeji Lee. For World Teacher’s Day, the Marianas Variety wanted to hear directly from the candidates themselves their perspectives on teaching. 
+
+<https://www.mvariety.com/news/community_bulletins/teacher-of-the-year-candidates-talk-about-what-makes-teaching-special/article_2e4d04b0-815d-11ef-9629-836c984bd4d3.html>
 
 ---
 
@@ -3433,4 +3544,318 @@ date: 2024-09-29, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/09/28/sports/hawaii-six-other-schools-commit-to-mountain-west/>
+
+---
+
+## Hezbollah confirms Nasrallah is killed after Israeli strike
+
+date: 2024-09-28, updated: 2024-09-28, from: Marianas Variety
+
+JERUSALEM/BEIRUT (Reuters) — Hezbollah leader Sayyed Hassan Nasrallah has been killed, the Iran-backed group said on Saturday, confirming his death after the Israeli military said it had eliminated him in an airstrike in Beirut the day before. 
+
+<https://www.mvariety.com/news/regional_world/hezbollah-confirms-nasrallah-is-killed-after-israeli-strike/article_68a1d710-7d9a-11ef-9dbe-7778d8464ff2.html>
+
+---
+
+## All clear
+
+date: 2024-09-28, updated: 2024-09-28, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/news/local/all-clear/article_e4552a12-7d89-11ef-a9c4-27bdf4ecbc48.html>
+
+---
+
+## This fish evolved legs that it uses to taste stuff on the seafloor
+
+date: 2024-09-28, from: Hawaii Tribune Harold
+
+
+				<p>The sea robin has fascinated scientists for decades. It has the body of a fish, the wings of a bird and the legs of a crab.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/features/this-fish-evolved-legs-that-it-uses-to-taste-stuff-on-the-seafloor/>
+
+---
+
+## A pygmy hippo is stealing hearts (and biting zookeepers)
+
+date: 2024-09-28, from: Hawaii Tribune Harold
+
+
+				<p>Defiant, sassy, slippery, chubby, loves to scream. We can all relate.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/features/a-pygmy-hippo-is-stealing-hearts-and-biting-zookeepers/>
+
+---
+
+## Israeli airstrikes rock Beirut, Hezbollah command center hit
+
+date: 2024-09-28, from: Hawaii Tribune Harold
+
+
+				<p>BEIRUT/JERUSALEM &#8212; A wave of air raids hit Beirut&#8217;s southern suburbs early on Saturday as Israel stepped up attacks on Hezbollah, after a massive strike on the Iran-backed movement&#8217;s command centre that apparently targeted leader Hassan Nasrallah.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/nation-world-news/israeli-airstrikes-rock-beirut-hezbollah-command-center-hit/>
+
+---
+
+## Dow hits record after US inflation data
+
+date: 2024-09-28, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Treasury yields and the dollar fell while the Dow registered a record closing high on Friday as a subdued U.S. inflation report lifted expectations of an outsized interest rate cut at the Federal Reserve&#8217;s November policy meeting.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/nation-world-news/dow-hits-record-after-us-inflation-data/>
+
+---
+
+## Trump, Harris step up efforts to woo Mormon voters
+
+date: 2024-09-28, from: Hawaii Tribune Harold
+
+
+				<p>Both presidential campaigns have stepped up efforts to court an unlikely group of potential swing voters: Mormons.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/nation-world-news/trump-harris-step-up-efforts-to-woo-mormon-voters/>
+
+---
+
+## Mayor Eric Adams pleads not guilty as New Yorkers contemplate what comes next
+
+date: 2024-09-28, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; A muted but defiant Mayor Eric Adams, in back-to-back appearances inside a federal courthouse in Manhattan and outside its granite facade Friday, professed his innocence of criminal charges including bribery and fraud and stood by as his lawyer railed against the evidence in a case that threatens to topple his embattled administration.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/nation-world-news/mayor-eric-adams-pleads-not-guilty-as-new-yorkers-contemplate-what-comes-next/>
+
+---
+
+## Kamala Harris’ campaign thinks she can win on the economy. Here’s how.
+
+date: 2024-09-28, from: Hawaii Tribune Harold
+
+
+				<p>For many months, it has been an undisputed and durable fact of the 2024 race that former President Donald Trump held a strong political advantage on the most pressing issue to the most voters: the economy.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/nation-world-news/kamala-harris-campaign-thinks-she-can-win-on-the-economy-heres-how/>
+
+---
+
+## Maggie Smith, grand dame of stage and screen, dies at 89
+
+date: 2024-09-28, from: Hawaii Tribune Harold
+
+
+				<p>Maggie Smith, one of the finest British stage and screen actors of her generation, whose award-winning roles ranged from a freethinking Scottish schoolteacher in &#8220;The Prime of Miss Jean Brodie&#8221; to the acid-tongued dowager countess on &#8220;Downton Abbey,&#8221; died Friday in London. She was 89.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/nation-world-news/maggie-smith-grand-dame-of-stage-and-screen-dies-at-89/>
+
+---
+
+## US charges Iranians with hacking Trump campaign
+
+date: 2024-09-28, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A federal grand jury in Washington has indicted three members of a cyberespionage unit associated with Iran&#8217;s Revolutionary Guard for mounting wide-ranging attacks targeting politicians, officials and journalists that led to the hacking of the Trump campaign this summer.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/nation-world-news/us-charges-iranians-with-hacking-trump-campaign/>
+
+---
+
+## Hurricane Helene leaves huge swaths of damage in its wake
+
+date: 2024-09-28, from: Hawaii Tribune Harold
+
+
+				<p>STEINHATCHEE, Fla. &#8212; Hurricane Helene forged a devastating path of floods and wind damage after slamming into Florida&#8217;s Big Bend region Thursday night, submerging much of the state&#8217;s Gulf Coast before continuing its destructive march through Georgia and into the mountains of Appalachia. More than 40 people were reported dead in four states as the huge storm spawned flash floods and landslides on its way north.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/nation-world-news/hurricane-helene-leaves-huge-swaths-of-damage-in-its-wake/>
+
+---
+
+## Biden officials stave off sticker shock on Medicare drug premiums
+
+date: 2024-09-28, from: Hawaii Tribune Harold
+
+
+				<p>The Biden administration Friday announced that older Americans next year would face lower average monthly premiums for their prescription drugs, a feat achieved by pouring billions of dollars into subsidies for insurers. The move avoided a potential minefield of higher costs affecting the nation&#8217;s most stalwart voters weeks before the presidential election.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/nation-world-news/biden-officials-stave-off-sticker-shock-on-medicare-drug-premiums/>
+
+---
+
+## Board projects new Aloha Stadium’s completion for 2028 season
+
+date: 2024-09-28, from: Hawaii Tribune Harold
+
+
+				<p>The state will likely miss a self-imposed deadline Monday, but Stadium Authority board members said at Thursday&#8217;s monthly meeting they don&#8217;t see it affecting the overall timeline that still has a new Aloha Stadium in Halawa built in time for the 2028 football season.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/sports/board-projects-new-aloha-stadiums-completion-for-2028-season/>
+
+---
+
+## The Fed’s preferred inflation gauge cooled in August
+
+date: 2024-09-28, from: Hawaii Tribune Harold
+
+
+				<p>Inflation cooled in August, the latest sign of progress in the Federal Reserve&#8217;s yearslong fight to bring rapid price increases back under control.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/nation-world-news/the-feds-preferred-inflation-gauge-cooled-in-august/>
+
+---
+
+## Anti-Doping agency lost track of open cases and test results before Olympics
+
+date: 2024-09-28, from: Hawaii Tribune Harold
+
+
+				<p>Just weeks before this summer&#8217;s Olympics in Paris, officials at the headquarters of the World Anti-Doping Agency got some startling news.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/sports/anti-doping-agency-lost-track-of-open-cases-and-test-results-before-olympics/>
+
+---
+
+## Caitlin Clark wins Rookie of the Year, Napheesa Collier DPOY
+
+date: 2024-09-28, from: Hawaii Tribune Harold
+
+
+				<p>Indiana Fever superstar Caitlin Clark is the WNBA&#8217;s Rookie of the Year, The Athletic reported Friday night.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/sports/caitlin-clark-wins-rookie-of-the-year-napheesa-collier-dpoy/>
+
+---
+
+## Taylor Swift encouraged us to do election research. But how?
+
+date: 2024-09-28, from: Hawaii Tribune Harold
+
+
+				<p>I&#8217;m an independent who has voted for Democrats and Republicans over the years, and what I appreciated most about Taylor Swift&#8217;s presidential endorsement was that she didn&#8217;t tell people what to think or who to vote for. What she did do was outline a thoughtful process and share where she came out.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/opinion/taylor-swift-encouraged-us-to-do-election-research-but-how/>
+
+---
+
+## Trump’s crypto grift is the last thing America needs
+
+date: 2024-09-28, from: Hawaii Tribune Harold
+
+
+				<p>In such a dispiriting campaign season, it&#8217;s tempting to tune out each new outrage. Even so, former President Donald Trump&#8217;s continued promotion of a sketchy new crypto project mere weeks before the presidential election merits comment. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/09/28/opinion/trumps-crypto-grift-is-the-last-thing-america-needs/>
+
+---
+
+## DPW not double charging GDOE for bus operations
+
+date: 2024-09-28, from: Guam Daily Post
+
+The Department of Public Works cleared up confusion regarding services it provides to the Guam Department of Education busing students to and from school, specifically pertaining to payment and funding for those services. 
+
+<https://www.postguam.com/news/local/dpw-not-double-charging-gdoe-for-bus-operations/article_c0b74d22-7d31-11ef-b8e6-33d819493b89.html>
+
+---
+
+## UOG’s Peralta wins Cayuse productivity award
+
+date: 2024-09-28, from: Guam Daily Post
+
+Pamela Peralta, interim vice provost of research and sponsored programs and director of grants and contracts at the University of Guam, was recently awarded a Productivity Award from Cayuse, a research software company whose programs track and manage research grants… 
+
+<https://www.postguam.com/news/local/uog-s-peralta-wins-cayuse-productivity-award/article_7322903a-7c7d-11ef-983f-83aa9d1c3c03.html>
+
+---
+
+## $2.7M awarded to enhance support for victims of family violence, sexual assault
+
+date: 2024-09-28, from: Guam Daily Post
+
+The effort to combat family violence and sexual assault is now backed by $2.7 million in grants that will bring about enhanced support for those who have been victimized. 
+
+<https://www.postguam.com/news/local/2-7m-awarded-to-enhance-support-for-victims-of-family-violence-sexual-assault/article_832c3a9a-7d30-11ef-967f-d74d8ea94e3e.html>
+
+---
+
+## Panthers gel, drop Warriors in 4 sets
+
+date: 2024-09-28, from: Guam Daily Post
+
+At the start of the Independent Interscholastic Athletic Association of Guam 2024-2025 girls varsity volleyball season, the Guam High School Panthers were loaded with talent but lacked experience as a cohesive unit. But several weeks into the season, the team… 
+
+<https://www.postguam.com/sports/local/panthers-gel-drop-warriors-in-4-sets/article_196f8288-7d21-11ef-be4d-dbbf8247f6b3.html>
+
+---
+
+## SHS inspection continues, IMS, Chief Brodie to be inspected this week
+
+date: 2024-09-28, from: Guam Daily Post
+
+The Guam Department of Education has three schools that are still closed pending the completion and passing of sanitary inspections, according to education officials on Friday. 
+
+<https://www.postguam.com/news/local/shs-inspection-continues-ims-chief-brodie-to-be-inspected-this-week/article_81d4d4e4-7d31-11ef-abd6-0b49f4413194.html>
+
+---
+
+## UOG marine lab scientists discover gene for climate change resilience in soft corals
+
+date: 2024-09-28, from: Guam Daily Post
+
+A researcher at the University of Guam marine laboratory led a team of scientists who discovered a unique gene found in soft corals that helps them recover from the stress of climate change, according to a press release from UOG. 
+
+<https://www.postguam.com/news/local/uog-marine-lab-scientists-discover-gene-for-climate-change-resilience-in-soft-corals/article_3751a766-7c83-11ef-9dcc-cf50a07d4a74.html>
+
+---
+
+## Inmate allegedly found with shank in cell
+
+date: 2024-09-28, from: Guam Daily Post
+
+An inmate housed in maximum security at the Department of Corrections in Mangilao allegedly had contraband hidden in his cell, according to a magistrate's complaint filed in the Superior Court of Guam on Thursday. 
+
+<https://www.postguam.com/news/local/inmate-allegedly-found-with-shank-in-cell/article_3a81bc4c-7c5a-11ef-810f-a77a032e87db.html>
+
+---
+
+## Governor cancels tropical storm conditions
+
+date: 2024-09-28, updated: 2024-09-28, from: Marianas Variety
+
+ 
+
+<https://www.mvariety.com/news/local/governor-cancels-tropical-storm-conditions/article_1de505c4-7d47-11ef-8d91-6f01971c11e0.html>
+
+---
+
+## A dangerous proposal
+
+date: 2024-09-28, from: Pacific Island Times
+
+While I am neither a golfer nor a land/homeowner in this area of Dededo, it seems rather absurd to close a public golf course.   It is... 
+
+<https://www.pacificislandtimes.com/post/an-dangerous-proposal>
 

@@ -1,11 +1,211 @@
 ---
 title: home
-updated: 2024-10-04 07:31:35
+updated: 2024-10-05 09:57:16
 ---
 
 # home
 
-(date: 2024-10-04 07:31:35)
+(date: 2024-10-05 09:57:16)
+
+---
+
+## Breaking Barriers: Student Research Grant Recipient Selena Vengco on Changing the Field
+
+date: 2024-10-04, from: California Native Plants Society
+
+<p>Selena Vengco is safeguarding the future of the rare Erythranthe discolor through conservation research.</p>
+<p>The post <a href="https://www.cnps.org/education/student-research-grant-selena-vengco-40435">Breaking Barriers: Student Research Grant Recipient Selena Vengco on Changing the Field</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/education/student-research-grant-selena-vengco-40435>
+
+---
+
+## We Found The 10 Best Reading Chairs After Weeks of Testing
+
+date: 2024-10-04, from: Family Handyman Blog
+
+<p>Our expert shopping editors tested the best reading chairs to find the perfect fit for every reading nook in your home.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/best-reading-chair/">We Found The 10 Best Reading Chairs After Weeks of Testing</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/list/best-reading-chair/>
+
+---
+
+## Friday Links: October 4, 2024
+
+date: 2024-10-04, from: California Native Plants Society
+
+<p>Get the deets about why fungi love sounds; how ants have been farming for 66 million years, give or take; the plan to save endangered wildflowers, and more!</p>
+<p>The post <a href="https://www.cnps.org/friday-links/friday-links-october-4-2024-40523">Friday Links: October 4, 2024</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/friday-links/friday-links-october-4-2024-40523>
+
+---
+
+## Fighting to Protect California’s 13,000-Year-Old Oak
+
+date: 2024-10-04, from: California Native Plants Society
+
+<p>CNPS and partners are suing to protect the world's oldest known living oak, estimated to be at least 13,000 years old.</p>
+<p>The post <a href="https://www.cnps.org/news-releases/fighting-to-protect-californias-13000-year-old-oak-40567">Fighting to Protect California&#8217;s 13,000-Year-Old Oak</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/news-releases/fighting-to-protect-californias-13000-year-old-oak-40567>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-10-04, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<https://www.sunset.com/>
+
+---
+
+## Plan Your Stargazing Road Trip Across the West with These Dark Sky Routes
+
+date: 2024-10-04, from: Sunset Magazine - Living in the West
+
+These west-coast stargazing trip routes are calibrated to include fantastic sights, optimize travel time between stops, and avoid roads that could pose seasonal restrictions. 
+
+<https://www.sunset.com/travel/wild-lands/stargazing-routes-west>
+
+---
+
+## Why Idaho’s Sun Valley Should Be on Your Stargazing Bucket List
+
+date: 2024-10-04, from: Sunset Magazine - Living in the West
+
+Of all of the Idaho's attractions, few are more impressive than its night skies for stargazing. 
+
+<https://www.sunset.com/travel/wild-lands/idaho-star-gazing-trip>
+
+---
+
+## 23 Hostess Gifts to Bring to Your Next Holiday Party
+
+date: 2024-10-04, from: Sunset Magazine - Living in the West
+
+Don't show up empty-handed to your next holiday party. These hostess gift ideas will be much appreciated and get you invited back. 
+
+<https://www.sunset.com/food-wine/entertaining/hostess-gift-ideas>
+
+---
+
+## All of the Foodie Gifts You Need to Buy for Friends, Family (and Maybe Even Yourself)
+
+date: 2024-10-04, from: Sunset Magazine - Living in the West
+
+Here are our favorite gifts for foodies, from pots and oils to unique gadgets and kitchen tools. 
+
+<https://www.sunset.com/lifestyle/shopping/best-gifts-for-foodies>
+
+---
+
+## An Olive Oil Sommelier Spills: How to Spot the Difference Between Authentic EVOO and Imposter Brands
+
+date: 2024-10-04, from: Sunset Magazine - Living in the West
+
+While there are few federal regulations on importing olive oil and what's actually considered "extra virgin", we've got an olive oil sommelier's insight. 
+
+<https://www.sunset.com/food-wine/extra-virgin-olive-oil-tips>
+
+---
+
+## 25 Thoughtful Grad Gift Ideas That Won’t Disappoint
+
+date: 2024-10-04, from: Sunset Magazine - Living in the West
+
+Celebrate commencement with these thoughtful graduation gifts for the high school, college, and graduate school grad. 
+
+<https://www.sunset.com/lifestyle/shopping/graduation-gift-ideas>
+
+---
+
+## Asking $2.5M, This Midwest Midcentury Has Ties to Frank Lloyd Wright
+
+date: 2024-10-04, from: Dwell
+
+Wright drew up plans and broke ground on the hilltop site overlooking St. Louis—and architect Charles E. King completed the project as his personal residence. 
+
+<https://www.dwell.com/article/frank-lloyd-wright-charles-e-king-house-belleville-illinois-real-estate-c547c91b>
+
+---
+
+## 34 AAPI-Owned Brands That Are Made Right Here in the West
+
+date: 2024-10-04, from: Sunset Magazine - Living in the West
+
+Each May marks Asian-American and Pacific Islander Heritage Month. To celebrate, check out these AAPI-owned brands headquartered in the West 
+
+<https://www.sunset.com/lifestyle/aapi-owned-brands-in-the-west>
+
+---
+
+## Take Stargazing to the Next Level at These Dark Sky Campsites
+
+date: 2024-10-04, from: Sunset Magazine - Living in the West
+
+These campsites are perfect for stargazing,as the nightly promise of starlit canopies, meteor showers, and planets makes being outside more rewarding. 
+
+<https://www.sunset.com/travel/camping/stargazing-campsites>
+
+---
+
+## The Earth Now Has Two Moons—Here’s How to See Them
+
+date: 2024-10-04, from: Sunset Magazine - Living in the West
+
+For about two months, our planet will have a second moon the size of a school bus orbiting it. Here is how you can see it. 
+
+<https://www.sunset.com/travel/earth-two-moons>
+
+---
+
+## CDFA hosts panel discussion for Hispanic Heritage Month
+
+date: 2024-10-04, from: Calfifornia Dept. Aggriculture blog
+
+In celebration of&#160;National Hispanic Heritage Month,&#160;CDFA hosted a panel discussion yesterday organized by the agency’s&#160;Diversity, Equity, and Inclusion (DEI) Committee&#160;and the&#160;Office of Civil Rights. This year’s theme,&#160;Pioneers of Change: Shaping the Future Together, presented an opportunity for Latino leaders at &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28300">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28300>
+
+---
+
+## My House: Designer Jessica Pell’s Desert Retreat Came With Her New Hotel Project
+
+date: 2024-10-04, from: Dwell
+
+In the process of transforming a run-down motor lodge into Hotel Wren, the LA-based founder of Manola Studio revived the Joshua Tree property’s midcentury back house for herself. 
+
+<https://www.dwell.com/article/my-house-designer-jessica-pells-desert-retreat-came-with-her-new-hotel-project-cbc55813>
+
+---
+
+## 21 of the Best Cold-Hardy Shrubs for Winter Interest
+
+date: 2024-10-04, from: The Gardener's Path
+
+<p>Do you need some relief from the short, dark days of winter? Many woody shrubs provide colorful cold weather displays, including attractive bark, berries, colorful foliage, unique shapes, and perfumed flowers. Learn about 21 of the best cold-hardy shrubs for winter interest in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/ornamentals/cold-hardy-shrubs/">21 of the Best Cold-Hardy Shrubs for Winter Interest</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/plants/ornamentals/cold-hardy-shrubs/>
+
+---
+
+## AIA Austin’s 2024 Homes Tour Will Unveil the City’s Best Residential Architecture
+
+date: 2024-10-04, from: Dwell
+
+The 38th annual event marks the first time an ADU used as a primary residence is among the esteemed showcase’s selected projects. 
+
+<https://www.dwell.com/article/aia-austin-home-tours-2024-annual-event-preview-9828fde2-674c6c75>
 
 ---
 
@@ -183,16 +383,6 @@ date: 2024-10-03, from: Sunset Magazine - Living in the West
 Future Society's unique line of perfume made from extinct flowers in tandem with Harvard University is a botanical wonder worth exploring. 
 
 <https://www.sunset.com/lifestyle/future-society-perfumes-extinct-flowers>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-10-03, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<https://www.sunset.com/>
 
 ---
 
@@ -400,6 +590,26 @@ date: 2024-10-01, from: Sunset Magazine - Living in the West
 Caviar can be intimidating, and ordering caviar even more so. An expert shares the best tips for ordering caviar. 
 
 <https://www.sunset.com/food-wine/restaurants/how-to-order-caviar>
+
+---
+
+## A Scottsdale Townhouse Nestled in the Cactus-Strewn Landscape Hits the Market for $2.1M
+
+date: 2024-10-01, from: Dwell
+
+Vaulted ceilings, two outdoor spaces, and luxe finishes make this  home a Southwestern gem. 
+
+<https://www.dwell.com/article/sothebys-international-pavoreal-scottsdale-real-estate-b629edc7>
+
+---
+
+## With Palm Trees and a Pool, This $9.5M Pinecrest Home Embraces Modern Florida Living
+
+date: 2024-10-01, from: Dwell
+
+Nestled on a corner lot with picturesque views, it comes with a wine gallery, outdoor kitchen, and more. 
+
+<https://www.dwell.com/article/sothebys-international-smart-amenities-pinecrest-real-estate-815aed31>
 
 ---
 
@@ -792,16 +1002,6 @@ date: 2024-09-30, from: The Gardener's Path
 
 ---
 
-## The Earth Now Has Two Moons—Here’s How to See Them
-
-date: 2024-09-30, from: Sunset Magazine - Living in the West
-
-For about two months, our planet will have a second moon the size of a school bus orbiting us. Here is how you can see it. 
-
-<https://www.sunset.com/travel/earth-two-moons>
-
----
-
 ## 10 Things You Need to Do in Your Garden This Fall
 
 date: 2024-09-30, from: Sunset Magazine - Living in the West
@@ -1075,4 +1275,70 @@ date: 2024-09-29, from: Yard Life blog
  
 
 <https://ownyardlife.com/19-types-of-walnut-trees-pictures-and-identification/>
+
+---
+
+## 24 Types of Poplar Trees (Pictures and Leaves Identification)
+
+date: 2024-09-28, from: Yard Life blog
+
+<p>Poplar trees are a diverse group of fast-growing deciduous trees found across various regions of the world. Known for their ... </p>
+<p class="read-more-container"><a title="24 Types of Poplar Trees (Pictures and Leaves Identification)" class="read-more button" href="https://ownyardlife.com/24-types-of-poplar-trees-pictures-and-leaves-identification/#more-19850" aria-label="Read more about 24 Types of Poplar Trees (Pictures and Leaves Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/24-types-of-poplar-trees-pictures-and-leaves-identification/">24 Types of Poplar Trees (Pictures and Leaves Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/24-types-of-poplar-trees-pictures-and-leaves-identification/>
+
+---
+
+## The Smart Details That Turned This Kitchen into a Family-Friendly Space
+
+date: 2024-09-28, from: Sunset Magazine - Living in the West
+
+This kitchen had been recently remodeled, but was in need of a revamp for a growing family. A designer gave it family-friendly details. 
+
+<https://www.sunset.com/home-garden/home-tours/silver-lake-kitchen-before-after>
+
+---
+
+## The Owners Changed All 51 Windows in This Mid-Century Modern Home
+
+date: 2024-09-28, from: Sunset Magazine - Living in the West
+
+This Buff & Hensman house was originally falling apart, but had good bones. The owners restored it to its original beauty. 
+
+<https://www.sunset.com/home-garden/home-tours/buff-hensman-pasadena-house>
+
+---
+
+## From a Natural Wine Bar to a Historic Saloon, Here’s Where to Drink in the West Right Now
+
+date: 2024-09-28, from: Sunset Magazine - Living in the West
+
+From the oldest bar in Nevada to a natural wine bar, these are the best places to enjoy a drink in the West. 
+
+<https://www.sunset.com/travel/best-bars-in-west-2024>
+
+---
+
+## This Is the Biggest Trend in Luxury Travel—And It May Help You Live Longer
+
+date: 2024-09-28, from: Sunset Magazine - Living in the West
+
+Spa retreats and weight-loss focussed detox programs are so passé. A new trend in longevity tourism is taking over the world of travel. 
+
+<https://www.sunset.com/travel/longevity-retreats-travel-trend>
+
+---
+
+## In-Depth Peperomia Plant Care and Cultivation Guide
+
+date: 2024-09-28, from: Yard Life blog
+
+<p>Peperomia plants have gained popularity among indoor gardening enthusiasts for their unique foliage, diverse varieties, and low-maintenance care requirements. With ... </p>
+<p class="read-more-container"><a title="In-Depth Peperomia Plant Care and Cultivation Guide" class="read-more button" href="https://ownyardlife.com/in-depth-peperomia-plant-care-and-cultivation-guide/#more-19831" aria-label="Read more about In-Depth Peperomia Plant Care and Cultivation Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/in-depth-peperomia-plant-care-and-cultivation-guide/">In-Depth Peperomia Plant Care and Cultivation Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/in-depth-peperomia-plant-care-and-cultivation-guide/>
 

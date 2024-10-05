@@ -1,11 +1,11 @@
 ---
 title: central coast
-updated: 2024-10-04 07:31:29
+updated: 2024-10-05 09:57:10
 ---
 
 # central coast
 
-(date: 2024-10-04 07:31:29)
+(date: 2024-10-05 09:57:10)
 
 ---
 
@@ -873,4 +873,287 @@ date: 2024-09-29, from: Newshawk, the freshest news in Santa Barbara County
  
 
 <https://www.noozhawk.com/sbcc-football-falls-in-back-and-forth-affair-with-college-of-the-canyons-30-23/>
+
+---
+
+## GOING BANANAS AT PORT OF HUENEME!
+
+date: 2024-09-28, from: Port Hueneme
+
+<p>11th Annual BananaFest Celebrating a Diverse Working Port Themed “Charging Forward to a Zero Emission Future” &#160; Download Press Release Contact: Letitia Austin Public and Gov’t Relations Manager Laustin@Portofh.org &#160;&#8230;</p>
+<p>The post <a href="https://www.portofhueneme.org/banana-festival-2024/">GOING BANANAS AT PORT OF HUENEME!</a> appeared first on <a href="https://www.portofhueneme.org">The Port of Hueneme</a>.</p>
+ 
+
+<https://www.portofhueneme.org/banana-festival-2024/>
+
+---
+
+## Glenn Morris: Legal Reform a Crucial Step Toward Fair Labor Practices
+
+date: 2024-09-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>For the past two decades, I have watched an ever increasing cycle of lawsuit abuse in California that necessitates significant legal reform to avoid becoming an outsized barrier to our [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/glenn-morris-legal-reform-a-crucial-step-toward-fair-labor-practices/">Glenn Morris: Legal Reform a Crucial Step Toward Fair Labor Practices</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/glenn-morris-legal-reform-a-crucial-step-toward-fair-labor-practices/>
+
+---
+
+## Dan McCaslin: Keep Rattlesnake Canyon a Wilderness Park
+
+date: 2024-09-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-Sign-Welcoming-you-to-Rattlesnake-Canyon-WILDERNESS-Park-dm.jpeg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A sign welcomes visitors to the Rattlesnake Canyon Wilderness Area." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-Sign-Welcoming-you-to-Rattlesnake-Canyon-WILDERNESS-Park-dm.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-Sign-Welcoming-you-to-Rattlesnake-Canyon-WILDERNESS-Park-dm.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-Sign-Welcoming-you-to-Rattlesnake-Canyon-WILDERNESS-Park-dm.jpeg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-Sign-Welcoming-you-to-Rattlesnake-Canyon-WILDERNESS-Park-dm.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-Sign-Welcoming-you-to-Rattlesnake-Canyon-WILDERNESS-Park-dm.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-Sign-Welcoming-you-to-Rattlesnake-Canyon-WILDERNESS-Park-dm.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-Sign-Welcoming-you-to-Rattlesnake-Canyon-WILDERNESS-Park-dm.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-Sign-Welcoming-you-to-Rattlesnake-Canyon-WILDERNESS-Park-dm.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091224-Sign-Welcoming-you-to-Rattlesnake-Canyon-WILDERNESS-Park-dm.jpeg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Hiking exuberantly up familiar Rattlesnake Canyon Trail in early September’s splendid heat, I realized how fortunate we are to live in Santa Barbara and yet have easy access to near-wilderness [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/dan-mccaslin-keep-rattlesnake-canyon-a-wilderness-park/">Dan McCaslin: Keep Rattlesnake Canyon a Wilderness Park</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/dan-mccaslin-keep-rattlesnake-canyon-a-wilderness-park/>
+
+---
+
+## Jim Langley: ‘Let Us Reason Together’
+
+date: 2024-09-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>I suspect most readers would appreciate the adult in the room during any conflict tactfully suggesting “Let us reason together.” That’s what I believe most in this world would prefer [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/jim-langley-let-us-reason-together/">Jim Langley: ‘Let Us Reason Together’</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/jim-langley-let-us-reason-together/>
+
+---
+
+## Architectural Foundation Tour Showcases Unique Local Home Designs
+
+date: 2024-09-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The community is invited to join&#160;Architectural Foundation of Santa Barbara&#160;(AFSB) and AIASB members for AIASB&#8217;s 15th annual ArchitecTours,&#160;a self-guided, in-person architectural tour showcasing the design and depth of knowledge of [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/architectural-foundation-tour-showcases-unique-local-home-designs/">Architectural Foundation Tour Showcases Unique Local Home Designs</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/architectural-foundation-tour-showcases-unique-local-home-designs/>
+
+---
+
+## Granada’s Centennial Series Spotlights Local Singers, Musicians
+
+date: 2024-09-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>As the Granada Theatre’s centennial celebrations continue, audiences are invited to experience a combination of top Santa Barbara singers and musicians in concert, 7 p.m. Saturday, Oct. 5 at 1214 [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/granadas-centennial-series-spotlights-local-singers-musicians/">Granada&#8217;s Centennial Series Spotlights Local Singers, Musicians</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/granadas-centennial-series-spotlights-local-singers-musicians/>
+
+---
+
+## For Season Opener, Theatre Group at SBCC Gets ‘Lost in Yonkers’
+
+date: 2024-09-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="671" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092824-lostinyonkers-2000.gif?fit=1024%2C671&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Guy Challen, Luke David Hamilton and Peter Fuller rehearse a scene for the Theatre Group at SBCC’s production of Neil Simon’s ‘Lost in Yonkers.’ (Ben Crop photo)" decoding="async" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Theatre Group at SBCC continues its 2024-25 season with Neil Simon’s “Lost in Yonkers,” directed by Jonathan Fox, Oct. 9-26 in the Garvin Theatre on SBCC’s West Campus. Considered [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/for-season-opener-theatre-group-at-sbcc-gets-lost-in-yonkers/">For Season Opener, Theatre Group at SBCC Gets &#8216;Lost in Yonkers&#8217;</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/for-season-opener-theatre-group-at-sbcc-gets-lost-in-yonkers/>
+
+---
+
+## County Taking Applications to Fill Vacancies on Special District Boards
+
+date: 2024-09-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Barbara County Board of Supervisors is accepting applications to fill Special District Board vacancies. Only individuals registered to vote within a Special District are eligible to serve on [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/county-taking-applications-to-fill-vacancies-on-special-district-boards/">County Taking Applications to Fill Vacancies on Special District Boards</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/county-taking-applications-to-fill-vacancies-on-special-district-boards/>
+
+---
+
+## Online Panel Considers Workforce Housing on School District Property
+
+date: 2024-09-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Barbara County Education Office, in partnership with the Santa Barbara County School Boards Association, recently hosted an online panel to discuss building workforce housing for school employees on [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/online-panel-considers-workforce-housing-on-school-district-property/">Online Panel Considers Workforce Housing on School District Property</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/online-panel-considers-workforce-housing-on-school-district-property/>
+
+---
+
+## Santa Barbara Zoo Names Charles Hopper as Next President and CEO
+
+date: 2024-09-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Charles Hopper will be the next president and CEO of the Santa Barbara Zoo, following a comprehensive national search, the zoo has announced. Hopper will succeed Rich Block, who is [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-zoo-names-charles-hopper-as-next-president-and-ceo/">Santa Barbara Zoo Names Charles Hopper as Next President and CEO</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-zoo-names-charles-hopper-as-next-president-and-ceo/>
+
+---
+
+## Public Advised Not to Eat Sport/Recreationally-Harvested Shellfish
+
+date: 2024-09-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The California Department of Public Health (CDPH), on Sept. 26, issued an advisory “not to consume” sport/recreationally-harvested shellfish. Dangerous levels of domoic acid have been detected in mussels from Santa [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/public-advised-not-to-eat-sport-recreationally-harvested-shellfish/">Public Advised Not to Eat Sport/Recreationally-Harvested Shellfish</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/public-advised-not-to-eat-sport-recreationally-harvested-shellfish/>
+
+---
+
+## Junior League of Santa Barbara Gala to Hail a Century of Local Service
+
+date: 2024-09-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Junior League of Santa Barbara (JLSB) invites the community to join in celebrating 100 years of service to the Santa Barbara Community at its 14th annual Gala, 6-11 p.m. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/junior-league-of-santa-barbara-gala-to-hail-a-century-of-local-service/">Junior League of Santa Barbara Gala to Hail a Century of Local Service</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/junior-league-of-santa-barbara-gala-to-hail-a-century-of-local-service/>
+
+---
+
+## It’s That Time Already – Apply Now to be in Lompoc Christmas Parade
+
+date: 2024-09-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Applications are available for this year’s Lompoc Valley Children’s Christmas Season Parade themed Dreaming of a White Christmas. The parade will be at 6 p.m. Friday, Dec. 6. Individuals, groups [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/its-that-time-already-apply-now-to-be-in-lompoc-christmas-parade/">It&#8217;s That Time Already &#8211; Apply Now to be in Lompoc Christmas Parade</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/its-that-time-already-apply-now-to-be-in-lompoc-christmas-parade/>
+
+---
+
+## Morning Dew
+
+date: 2024-09-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091524-POD-Debbie-Petlow.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Morning dew on plumeria." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091524-POD-Debbie-Petlow.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091524-POD-Debbie-Petlow.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091524-POD-Debbie-Petlow.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091524-POD-Debbie-Petlow.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091524-POD-Debbie-Petlow.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091524-POD-Debbie-Petlow.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091524-POD-Debbie-Petlow.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091524-POD-Debbie-Petlow.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091524-POD-Debbie-Petlow.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091524-POD-Debbie-Petlow.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091524-POD-Debbie-Petlow.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091524-POD-Debbie-Petlow.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/091524-POD-Debbie-Petlow.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/morning-dew/">Morning Dew</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/morning-dew/>
+
+---
+
+## Bishop Diego, San Marcos, Santa Barbara Advance to TOC Quarterfinals
+
+date: 2024-09-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="710" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Eliana-Reacts.jpg?fit=1024%2C710&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Eliana-Reacts.jpg?w=1700&amp;ssl=1 1700w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Eliana-Reacts.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Eliana-Reacts.jpg?resize=1024%2C710&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Eliana-Reacts.jpg?resize=768%2C532&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Eliana-Reacts.jpg?resize=1536%2C1064&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Eliana-Reacts.jpg?resize=1200%2C832&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Eliana-Reacts.jpg?resize=1568%2C1087&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Eliana-Reacts.jpg?resize=400%2C277&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Eliana-Reacts.jpg?fit=1024%2C710&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Eliana Urzua and her Bishop Diego girls volleyball teammates made it clear Friday that they’re in the Santa Barbara High Tournament of Champions to win it. Urzua’s emphatic solo block [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/bishop-diego-san-marcos-santa-barbara-advance-to-toc-quarterfinals/">Bishop Diego, San Marcos, Santa Barbara Advance to TOC Quarterfinals</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/bishop-diego-san-marcos-santa-barbara-advance-to-toc-quarterfinals/>
+
+---
+
+## Carpinteria High Football Struggles to Keep Up with Santa Paula in 42-10 Loss
+
+date: 2024-09-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/carp-football-927.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/carp-football-927.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/carp-football-927.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/carp-football-927.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/carp-football-927.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/carp-football-927.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/carp-football-927.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/carp-football-927.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/carp-football-927.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/carp-football-927.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Carpinteria High football fell behind early and couldn’t catch up to Santa Paula in a 42-10 loss in the latest chapter of the two teams’ rivalry on Friday night at [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/carpinteria-high-football-struggles-to-keep-up-with-santa-paula-in-42-10-loss/">Carpinteria High Football Struggles to Keep Up with Santa Paula in 42-10 Loss</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/carpinteria-high-football-struggles-to-keep-up-with-santa-paula-in-42-10-loss/>
+
+---
+
+## Cate Girls Volleyball Struggles Late in Four-Set Loss to St. Bonaventure
+
+date: 2024-09-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Cate girls volleyball started strong but couldn’t maintain that momentum in a four-set loss to St. Bonaventure on Friday night, 25-20, 24-26, 9-25, 15-25. After the Rams pulled out the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/cate-girls-volleyball-struggles-late-in-four-set-loss-to-st-bonaventure/">Cate Girls Volleyball Struggles Late in Four-Set Loss to St. Bonaventure</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/cate-girls-volleyball-struggles-late-in-four-set-loss-to-st-bonaventure/>
+
+---
+
+## Prep Boys Water Polo Roundup: Santa Barbara, Dos Pueblos Open Tournament Play
+
+date: 2024-09-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara High boys water polo split their doubleheader at the Saddleback Tournament on Friday in Orange County. The Dons opened up the weekend by taking down Temescal Canyon 14-4 [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-high-boys-water-polo-goes-1-1-on-day-1-of-saddleback-tournament/">Prep Boys Water Polo Roundup: Santa Barbara, Dos Pueblos Open Tournament Play</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-high-boys-water-polo-goes-1-1-on-day-1-of-saddleback-tournament/>
+
+---
+
+## Santa Barbara Councilman Mike Jordan Leads Campaign Fundraising
+
+date: 2024-09-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Campaign-Statements-Infographic-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Santa Barbara campaign statements infographic." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Campaign-Statements-Infographic-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Campaign-Statements-Infographic-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Campaign-Statements-Infographic-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Campaign-Statements-Infographic-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Campaign-Statements-Infographic-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Campaign-Statements-Infographic-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Campaign-Statements-Infographic-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Campaign-Statements-Infographic-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Campaign-Statements-Infographic-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Mike Jordan leads in overall campaign fundraising in the Santa Barbara City Council races, while Alejandra Gutierrez and Wendy Santamaria have raised roughly about the same amount of money in [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-councilman-mike-jordan-leads-campaign-fundraising/">Santa Barbara Councilman Mike Jordan Leads Campaign Fundraising</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-councilman-mike-jordan-leads-campaign-fundraising/>
+
+---
+
+## No. 12 UCSB Men’s Water Polo Falls to Top-Ranked UCLA, 16-8
+
+date: 2024-09-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The No. 12 UC Santa Barbara Men&#8217;s Water Polo team knew they were going to need some luck to upset No. 1 UCLA on Friday night, and the Gauchos did [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/no-12-ucsb-mens-water-polo-falls-to-top-ranked-ucla-16-8/">No. 12 UCSB Men&#8217;s Water Polo Falls to Top-Ranked UCLA, 16-8</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/no-12-ucsb-mens-water-polo-falls-to-top-ranked-ucla-16-8/>
+
+---
+
+## From Our Inbox: Letters to the Editor for the Week Ending Sept. 27, 2024
+
+date: 2024-09-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Regarding the Sept. 26 article, “UCSB Chancellor Henry Yang Getting Pay Raise to $820,000,” I did some checking and found that at the time of my graduation from college in [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/from-our-inbox-letters-to-the-editor-for-the-week-ending-sept-27-2024/">From Our Inbox: Letters to the Editor for the Week Ending Sept. 27, 2024</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/from-our-inbox-letters-to-the-editor-for-the-week-ending-sept-27-2024/>
+
+---
+
+## Ribbon-Cutting Ceremony Celebrates New Traffic Signal on Highway 166
+
+date: 2024-09-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Highway166-Traffic-Signal1a-js.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A new traffic signal has been installed at the intersection of Highway 166 and Black Road as officials gather Friday to celebrate the long-awaited milestone funded by Measure A. With Santa Barbara County Association of Government chair Steve Lavagnino, center, are state lawmaker aides Carson Link and Christina Hernandez." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Highway166-Traffic-Signal1a-js.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Highway166-Traffic-Signal1a-js.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Highway166-Traffic-Signal1a-js.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Highway166-Traffic-Signal1a-js.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Highway166-Traffic-Signal1a-js.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Highway166-Traffic-Signal1a-js.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Highway166-Traffic-Signal1a-js.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Highway166-Traffic-Signal1a-js.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-Highway166-Traffic-Signal1a-js.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A new traffic signal greets drivers traveling on Highway 166 between Santa Maria and Guadalupe amid efforts to put the brakes on a deadly segment of the roadway.&#160; The signal [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ribbon-cutting-ceremony-celebrates-new-traffic-signal-on-highway-166/">Ribbon-Cutting Ceremony Celebrates New Traffic Signal on Highway 166</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ribbon-cutting-ceremony-celebrates-new-traffic-signal-on-highway-166/>
+
+---
+
+## Santa Maria Council Selects Fillmore’s David Rowlands as New City Manager
+
+date: 2024-09-28, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-David-Rowlands-cont.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="David Rowlands, who has 30 years of experience in city government, has been selected as the new city manager for Santa Maria." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-David-Rowlands-cont.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-David-Rowlands-cont.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-David-Rowlands-cont.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-David-Rowlands-cont.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-David-Rowlands-cont.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-David-Rowlands-cont.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-David-Rowlands-cont.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-David-Rowlands-cont.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092724-David-Rowlands-cont.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Following a yearlong effort and two national searches, a new city manager has been selected to lead Santa Maria. The finalist is David Rowlands, with 30 years of experience in [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-maria-council-selects-fillmores-david-rowlands-as-new-city-manager/">Santa Maria Council Selects Fillmore&#8217;s David Rowlands as New City Manager</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-maria-council-selects-fillmores-david-rowlands-as-new-city-manager/>
 

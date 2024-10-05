@@ -1,11 +1,31 @@
 ---
 title: games
-updated: 2024-10-04 07:31:33
+updated: 2024-10-05 09:57:14
 ---
 
 # games
 
-(date: 2024-10-04 07:31:33)
+(date: 2024-10-05 09:57:14)
+
+---
+
+## Deadpool &#038; Wolverine, Speak No Evil, Netflix’s The Platform 2, and every movie new to streaming this week
+
+date: 2024-10-04, updated: 2024-10-03, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. Evil is in question this week, as Ryusuke Hamaguchi’s Evil Does Not Exist and James Watkins’ 2024 remake of Speak No Evil come to streaming on [&#8230;] 
+
+<https://www.polygon.com/entertainment/456330/new-movies-deadpool-wolverine-netflix-platform-2-speak-no-evil-watch-streaming>
+
+---
+
+## I’m offended that the only thing Zelda can consume in Echoes of Wisdom is smoothies
+
+date: 2024-10-04, updated: 2024-10-04, from: Polygon Website
+
+Before I soapbox about smoothies and women, I must make one thing clear: The girls are not all right. And by “the girls” I mean myself, and a few of my other friends who don’t identify as men. When I heard that The Legend of Zelda: Echoes of Wisdom would finally put Zelda in the [&#8230;] 
+
+<https://www.polygon.com/opinion/461122/zelda-echoes-of-wisdom-smoothies-diet-culture>
 
 ---
 
@@ -216,16 +236,6 @@ date: 2024-10-02, updated: 2024-10-02, from: Polygon Website
 The makers of the Nintendo Switch emulator Ryujinx pulled the open-source project offline after being contacted by Nintendo, one of its developer announced Tuesday on Discord. If you’re counting, that’s the second Nintendo Switch emulator to be pulled offline in 2024; Nintendo sued the makers of popular open source emulator Yuzu in February before settling [&#8230;] 
 
 <https://www.polygon.com/gaming/458905/nintendo-switch-emulator-ryujinx-offline>
-
----
-
-## The Halloween Countdown: 31 days of horror to watch
-
-date: 2024-10-02, updated: 2024-10-02, from: Polygon Website
-
-Do you feel that? That chill in the air, that tingling sensation at the back of your neck? It can only mean one thing. That’s right: Halloween season is once again upon us! Here at Polygon, we love horror. We cover it all year round, whether it’s ranking the scariest new releases of the year [&#8230;] 
-
-<https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream>
 
 ---
 
@@ -616,4 +626,54 @@ date: 2024-09-29, updated: 2024-09-27, from: Polygon Website
 It’s 1971. Your top aide approaches you in the Oval Office. “As president,” he says, “you have authorized numerous dirty tricks straight out of the White House, like wiretapping and break-ins. Much of this stemmed from your paranoia over leaks of the secret bombing of Cambodia. Among those targeted by the White House ‘Plumbers’ have [&#8230;] 
 
 <https://www.polygon.com/gaming/457588/living-alt-history-election-dreams-and-nightmares-in-the-campaign-trail>
+
+---
+
+## Nier: Automata Ver1.1a is the sleeper hit of the anime season
+
+date: 2024-09-28, updated: 2024-09-27, from: Polygon Website
+
+After being left feeling deflated by the first episode of Nier: Automata Ver1.1a, an adaptation of the outstanding video game from Yoko Taro and PlatinumGames, I didn’t think I’d return to it. It played like what a cynic would expect: an almost one-to-one recreation but with uglier 3D animation; it felt like it was missing [&#8230;] 
+
+<https://www.polygon.com/anime/457315/nier-automata-ver1-1a-review-good-actually>
+
+---
+
+## Sleep turns sleepwalking into a supernatural slasher — and it’s wicked fun
+
+date: 2024-09-28, updated: 2024-09-27, from: Polygon Website
+
+Train to Busan, The Wailing, A Tale of Two Sisters, I Saw the Devil — the Korean horror movies that have crossed over and popped in the States have been intense, often sprawling films that teeter on the edge of thriller. Their nightmares linger. So Sleep, now in U.S. theaters, was an immediate surprise, simply [&#8230;] 
+
+<https://www.polygon.com/movies/457288/sleep-movie-2024-review>
+
+---
+
+## What is Alan Tudyk&#8217;s secret role in Superman?
+
+date: 2024-09-28, updated: 2024-09-27, from: Polygon Website
+
+Even as a diehard Man of Steel advocate, I am excited for James Gunn’s new take on Superman. It’s the DCU’s first major project since Gunn was named co-CEO of DC Studios, offering a reset on the DC Universe and a chance for a fresh new face in the iconic red and blue. David Corenswet [&#8230;] 
+
+<https://www.polygon.com/dc/457411/alan-tudyk-superman-movie-role-casting-who>
+
+---
+
+## The best movies leaving Netflix, Max, and Prime at the end of September 2024
+
+date: 2024-09-28, updated: 2024-09-28, from: Polygon Website
+
+We’re almost to the end of the month, and that means a lot of coming and going on every major streaming platform. And while plenty of exciting movies are on the way in October, with plenty of great spooky options to choose from, we’re here to make sure you don’t miss the gems leaving at [&#8230;] 
+
+<https://www.polygon.com/what-to-watch/455795/best-movies-netflix-amazon-hulu-leaving-september-2024>
+
+---
+
+## I started building my neighborhood in The Sims and now I feel like a creep 
+
+date: 2024-09-28, updated: 2024-09-27, from: Polygon Website
+
+In the opening scene of Alfred Hitchcock’s Rear Window, a panning camera shows the outside of buildings and gives the viewer a glimpse inside the apartments. From the floating vantage point, you can see the ongoings of neighbors as they start their days. The view of the camera helps set the scene for the movie, [&#8230;] 
+
+<https://www.polygon.com/gaming/457097/sims-4-recreating-neighborhoood>
 

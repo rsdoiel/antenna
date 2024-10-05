@@ -1,11 +1,21 @@
 ---
 title: retro computing
-updated: 2024-10-04 07:31:37
+updated: 2024-10-05 09:57:18
 ---
 
 # retro computing
 
-(date: 2024-10-04 07:31:37)
+(date: 2024-10-05 09:57:18)
+
+---
+
+## The Truth Is Out There, Part 3: The Game of Belief
+
+date: 2024-10-04, from: Digital Antiquarian
+
+If traditional film is a river, the viewer of that film sits on the bank and watches the water flow by. We wanted to take that viewer and turn them into a fish and put them down into that river. &#8212; Greg Roach, Director of The X-Files Game Given the demographics of X-Files fandom, we [&#8230;] 
+
+<https://www.filfre.net/2024/10/the-truth-is-out-there-part-3-the-game-of-belief/>
 
 ---
 
@@ -106,4 +116,14 @@ date: 2024-09-29, from: RiscOS Story
 With apologies to Kevin Wells for a bit of a delay mentioning the first of these updates (the bunker has been unattended for a couple of weeks), there are two updates to report on MACadd, his application that can be used to look up information about MAC (Media Access Control) addresses. MAC addresses are twelve digit base 16 (hexadecimal) codes assigned to network interfaces that are on board devices of all sorts, and intended to be unique. Their purpose is to ensure all such devices can be identified and treated&#8230; 
 
 <https://www.riscository.com/2024/macadd-adds-french-german/>
+
+---
+
+## London Show is 4 weeks away
+
+date: 2024-09-28, from: Icon Bar, RISC OS News
+
+It has not happened for a few years, so you may need a reminder that we have an October London Show. 
+
+<http://www.iconbar.com/comments/rss/news2105.html>
 

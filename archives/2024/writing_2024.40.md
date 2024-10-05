@@ -1,11 +1,70 @@
 ---
 title: writing
-updated: 2024-10-04 07:31:32
+updated: 2024-10-05 09:57:13
 ---
 
 # writing
 
-(date: 2024-10-04 07:31:32)
+(date: 2024-10-05 09:57:13)
+
+---
+
+## ☠️ #219 - Death is coming (look busy)
+
+date: 2024-10-04, from: Interesting, a blog on writing
+
+Death is inevitable; sometimes it's a character! 
+
+<https://inneresting.substack.com/p/219-death-is-coming-look-busy>
+
+---
+
+## Glasgow 2024 Report
+
+date: 2024-10-04, from: Locus Magazine
+
+<p></p>
+<p>Glasgow 2024, the 82nd World Science Fiction Convention, was held August 8-12, 2024 at the Scottish Events Campus (SEC) in Glasgow, Scotland. Guests of honor were artist Chris Baker; authors Ken MacLeod, Nnedi Okorafor, and Terri Windling; fan guests of honor Claire Brialey and Mark Plummer; special guests were Samantha Béart, Meganne Christian, Tanya DePass, Catherine Heymans, Tendai Huchu, and Three Black Halflings. Registration provided provisional figures of 7,300 in-per­son  <a href="https://locusmag.com/2024/10/glasgow-2024-report/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/10/glasgow-2024-report/>
+
+---
+
+## Featured Friday: Dysfunctional Families
+
+date: 2024-10-04, from: John August blog
+
+Weekend Read, our app for reading scripts on your phone, features a new curated collection of screenplays each week. This week, we look at how dysfunctional families are portrayed across genres, and how they use specificity to articulate the universal condition of having a weird relationship with your folks. Our collection includes: A Serious Man [&#8230;]
+The post <a href="https://johnaugust.com/2024/featured-friday-dysfunctional-families">Featured Friday: Dysfunctional Families</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/featured-friday-dysfunctional-families>
+
+---
+
+## Merciless Saviors by H.E. Edgmon: Review by Colleen Mondor
+
+date: 2024-10-04, from: Locus Magazine
+
+<p><strong>Merciless Saviors</strong>, H.E. Edgmon (Wednesday 978-1-250-85363-9, $20.00, 336pp, hc) April 2024.</p>
+<p>In <strong>Godly Heathens</strong>, the first book in H.E. Edgmon’s duology about American teens who are actually gods from a parallel world, readers met Gem Echols from small-town Georgia, who suffers from truly horrific dreams. Gem’s best friend is Enzo, a Brooklyn teen with whom they share a long-distance (never met in person but plenty of texting, talking  <a href="https://locusmag.com/2024/10/merciless-saviors-by-h-e-edgmon-review-by-colleen-mondor/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/10/merciless-saviors-by-h-e-edgmon-review-by-colleen-mondor/>
+
+---
+
+## 2024 Dwarf Star Award Winners
+
+date: 2024-10-04, from: Locus Magazine
+
+<p>The Science Fiction Poetry Association (SFPA) has announced the 2024 Dwarf Stars Award winners. The Dwarf Stars honor the best speculative poem of one to ten lines published in the previous year.</p>
+<div class="mynomorebulletlist">
+<ul>
+<li>WINNER: &#8220;关于树的无数可能&#8221;/ &#8220;the infinite possibilities of trees,&#8221; Xiao Xi, translated by Yilin Wang (Prism International Spring 23, originally published in <strong>风不止/The Ceaseless Wind</strong>)
+</li>
+<li>Second Place: “All-Kinds-of-Fears,&#8221; Amelia Gorman (Dreams and Nightmares 2/23)</li>
+<li>Third Place: &#8220;Nikola Tesla,&#8221; F.J. </li></ul></div> <a href="https://locusmag.com/2024/10/2024-dwarf-star-award-winners/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/10/2024-dwarf-star-award-winners/>
 
 ---
 
@@ -363,4 +422,25 @@ date: 2024-09-29, from: Locus Magazine
 <p>I seem to have found myself reading a number of haunted house novels in the last year or so, and it’s always fascinating to watch how authors still find ways to ring new changes on a template that goes back to the earliest Gothic novels. In <strong>Haunt Sweet Home</strong>, Sarah Pinsker’s witty approach is to focus  <a href="https://locusmag.com/2024/09/haunt-sweet-home-by-sarah-pinsker-review-by-gary-k-wolfe/" class="read-more">...Read More </a></p> 
 
 <https://locusmag.com/2024/09/haunt-sweet-home-by-sarah-pinsker-review-by-gary-k-wolfe/>
+
+---
+
+## OK Kids, You Get to Vote
+
+date: 2024-09-28, from: Margaret Atwoods Substack
+
+Right here on this website. But not for President. 
+
+<https://margaretatwood.substack.com/p/ok-kids-you-get-to-vote>
+
+---
+
+## One of Our Kind by Nicola Yoon: Review by Alex Brown
+
+date: 2024-09-28, from: Locus Magazine
+
+<p><strong>One of Our Kind</strong>, Nicola Yoon (Knopf 978-0-59347-067-1, $28.00. 272pp, hc) June 2024.</p>
+<p>Jasmyn, her husband Kingston, and their young son Kamau are excited to move to the new all-Black community of Liberty, just outside Los Angeles in Nicola Yoon’s <strong>One of Our Kind</strong>. King’s new job and higher income landed them a sprawl­ing home in a luxury community where everyone from the retail workers to the cops  <a href="https://locusmag.com/2024/09/one-of-our-kind-by-nicola-yoon-review-by-alex-brown/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/09/one-of-our-kind-by-nicola-yoon-review-by-alex-brown/>
 

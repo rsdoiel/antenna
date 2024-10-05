@@ -1,11 +1,11 @@
 ---
 title: health
-updated: 2024-10-04 07:31:38
+updated: 2024-10-05 09:57:19
 ---
 
 # health
 
-(date: 2024-10-04 07:31:38)
+(date: 2024-10-05 09:57:19)
 
 ---
 
@@ -286,4 +286,16 @@ date: 2024-09-30, from: Frontiers in Cellular and Infection Microbiology
 Hepatic tuberculosis (HTB) is rare extrapulmonary tuberculosis that is clinically similar to liver malignancy, making it difficult for correct diagnoses. Pathology is the gold standard for tuberculosis diagnosis. However, there are few reports on the pathological features of HTB. A total of 32 HTB cases were considered and the differences in pathological features and drug resistance were analyzed and compared with those for pulmonary tuberculosis (PTB). Enhanced CT scans showed ring-shaped delayed enhancement during the arterial, venous, and delayed phases. Most HTB cases were single lesions, with the highest incidence in the right lobe, and the average lesion volume was smaller than that of PTB. The frequency of granuloma in pathological changes, the overall share of the lesion area in the HTB group, and the number of foxp3+ cells were significantly higher than in the PTB group. However, no statistically significant differences were observed between the two groups’ other pathological features and immune cell numbers. The immune microenvironment of the normal tissues surrounding the lesion was further analyzed. The findings showed that the number of macrophages and foxp3+ cells in the HTB group was significantly higher than in the PTB group. No significant difference in drug resistance was detected between the HTB and PTB groups. In conclusion, there are substantial differences in the characterization of pathological feature and immune microenvironment between HTB and PTB. The frequency of granuloma and subsequent overall share of the lesion area was significantly higher in HTB compared to PTB. 
 
 <https://www.frontiersin.org/articles/10.3389/fcimb.2024.1418225>
+
+---
+
+## Does Soda Cause Kidney Stones?
+
+date: 2024-09-28, from: The Kidney Dietitian
+
+<p>Is this true? Can drinking soda cause kidney stones? Are dark sodas worse than others? Unfortunately, yes. Drinks that are sweetened with sugar, such as soda, are associated with an increased risk of kidney stones. Diet cola may also cause stone formation. However, non-cola diet soda may have some beneficial ingredients. Read on to learn [&#8230;]</p>
+<p>The post <a href="https://www.thekidneydietitian.org/does-soda-cause-kidney-stones/">Does Soda Cause Kidney Stones?</a> appeared first on <a href="https://www.thekidneydietitian.org">The Kidney Dietitian</a>.</p>
+ 
+
+<https://www.thekidneydietitian.org/does-soda-cause-kidney-stones/>
 

@@ -1,11 +1,125 @@
 ---
 title: socal north
-updated: 2024-10-04 07:31:26
+updated: 2024-10-05 09:57:07
 ---
 
 # socal north
 
-(date: 2024-10-04 07:31:26)
+(date: 2024-10-05 09:57:07)
+
+---
+
+## Charter Amendement FF: Pension equity for Los Angeles City law enforcement
+
+date: 2024-10-04, updated: 2024-10-04, from: The LAist
+
+The measure would allow certain peace officers — like those who work at LAX — and park rangers to transfer their pension plans to one some say will provide better benefits. 
+
+<https://laist.com/news/politics/2024-election-california-general-charter-amendment-ff>
+
+---
+
+## Catalina Film Festival honors Marcia Gay Harden and Avalon’s David Hart
+
+date: 2024-10-04, from: Catalina Islander
+
+For the Islander The 14th annual Catalina Film Festival celebrated two extraordinary women making waves and impacting change, Saturday, September 28, 2024 at the historic Avalon Theatre at the Catalina Casino: Academy Award-winning actress Marcia Gay Harden and actress/philanthropist Emmanuelle Chriqui. Avalon’s own David Hart, the city’s Community Services manager, received the Heart of Avalon [&#8230;] 
+
+<https://thecatalinaislander.com/catalina-film-festival-honors-marcia-gay-harden-and-avalons-david-hart/>
+
+---
+
+## Kayaks cleanup shipwreck debris
+
+date: 2024-10-04, from: Catalina Islander
+
+Local groups hosted a kayak cleanup on Monday, Sept. 23 and together, the nine kayakers collected more than 1,000 pounds of debris. And the kayakers got some vital help in getting all that debris back to the dump site. One of the organizers, Kayla Feairheller, founder and president of Bleu World, gave a huge shout [&#8230;] 
+
+<https://thecatalinaislander.com/kayaks-cleanup-shipwreck-debris/>
+
+---
+
+## Measure E: Parcel tax to raise funds for Los Angeles County Fire Department
+
+date: 2024-10-04, updated: 2024-10-04, from: The LAist
+
+"Additional revenue is desperately needed by the fire district," says Los Angeles County Fire Chief Anthony Marrone. 
+
+<https://laist.com/news/politics/2024-election-california-general-measure-e>
+
+---
+
+## Avalon city manager gets raise
+
+date: 2024-10-04, from: Catalina Islander
+
+The Avalon City Council on Tuesday, Oct. 1, gave City Manager David Maistros a pay raise this week. The council voted unanimously (with Councilmember Lisa Lavelle absent) to give Maistros a 5% merit increase. The raise takes effect retroactively effective Feb. 1 of 2024, according to the staff report. The change brings Maistros’s base pay [&#8230;] 
+
+<https://thecatalinaislander.com/avalon-city-manager-gets-raise/>
+
+---
+
+## Catalina Festival of Art awards years’ top works
+
+date: 2024-10-04, from: Catalina Islander
+
+The 65th Annual Catalina Festival of Art wrapped up recently with more than 60 booths of local and visiting artists displaying and selling their work. Award winners included the prize for best Catalina Scene going to this year’s Festival of Art poster artist, Kymberlee Stanley. Stanley, a former resident of the island had spent months [&#8230;] 
+
+<https://thecatalinaislander.com/catalina-festival-of-art-awards-years-top-works/>
+
+---
+
+## Council tells staff: No tents on beaches
+
+date: 2024-10-04, from: Catalina Islander
+
+The Avalon City Council on Oct. 1 directed staff to restrict tents on the beach: No tents on Middle Ranch or South Beach. No tables would be allowed. Property could not be left on the beach overnight. An ordinance will be brought back to the council at a future date. Discussion The discussion was brought [&#8230;] 
+
+<https://thecatalinaislander.com/council-tells-staff-no-tents-on-beaches/>
+
+---
+
+## Gascón: Review of New Evidence in Menendez Brothers Case Under Way
+
+date: 2024-10-04, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>LOS ANGELES (CNS) &#8211; Los Angeles County District Attorney George Gascón said his office is actively reviewing the case of Erik and Lyle Menendez, who were convicted of killing their [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/10/04/gascon-review-of-new-evidence-in-menendez-brothers-case-under-way/">Gascón: Review of New Evidence in Menendez Brothers Case Under Way</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/10/04/gascon-review-of-new-evidence-in-menendez-brothers-case-under-way/>
+
+---
+
+## Jim McDonnell Named Next Chief of Los Angeles Police Department
+
+date: 2024-10-04, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>LOS ANGELES (CNS) &#8211; Former Los Angeles Police Department Assistant Chief Jim McDonnell, who also spent four years as county sheriff, was named today the next chief of the LAPD, [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/10/04/jim-mcdonnell-named-next-chief-of-los-angeles-police-department/">Jim McDonnell Named Next Chief of Los Angeles Police Department</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<https://sanfernandosun.com/2024/10/04/jim-mcdonnell-named-next-chief-of-los-angeles-police-department/>
+
+---
+
+## A lot of LA County candidates are running unopposed. What that means for you
+
+date: 2024-10-04, updated: 2024-10-04, from: The LAist
+
+LAist found more than 140 races countywide have only one candidate. Here’s what it means and what experts have to say. 
+
+<https://laist.com/news/politics/la-county-candidates-running-unopposed-what-this-means-for-schools-water-districts>
+
+---
+
+## Slightly cooler today before excessive heat takes over this weekend
+
+date: 2024-10-04, updated: 2024-10-04, from: The LAist
+
+Excessive heat advisories have been extended until Monday 8 p.m. 
+
+<https://laist.com/news/climate-environment/cooler-excessive-heat-weekend>
 
 ---
 
@@ -23,7 +137,7 @@ It’ll be around 10 degrees hotter than normal for much of the Southland.
 
 date: 2024-10-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Johnleelicenseplatereader-scaled.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>PORTER RANCH (CNS) &#8211; City and police officials today touted an ongoing effort to install 100 automated license plate readers in the northwest San Fernando Valley, saying the technology can [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/10/03/la-officials-tout-license-plate-reader-project-in-nw-san-fernando-valley/">LA Officials Tout License Plate Reader Project in NW San Fernando Valley</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -91,7 +205,7 @@ Heat advisories end today. But come Saturday, another excessive heat watch for t
 
 ## What's next for foster families after an insurance shakeup threatens to upend thousands?
 
-date: 2024-10-03, updated: 2024-10-03, from: The LAist
+date: 2024-10-03, updated: 2024-10-04, from: The LAist
 
 The largest insurer of California's foster agencies says it's ending coverage. Foster care advocates fear that if the issue isn't resolved, children will end up being displaced. 
 
@@ -554,4 +668,48 @@ date: 2024-09-30, updated: 2024-09-30, from: The LAist
 Plonts, a new plant-based cheese, is taking an irreverent approach to swaying consumers. 
 
 <https://laist.com/news/climate-environment/vegan-cheese-brand>
+
+---
+
+## GOING BANANAS AT PORT OF HUENEME!
+
+date: 2024-09-28, from: Port Hueneme
+
+<p>11th Annual BananaFest Celebrating a Diverse Working Port Themed “Charging Forward to a Zero Emission Future” &#160; Download Press Release Contact: Letitia Austin Public and Gov’t Relations Manager Laustin@Portofh.org &#160;&#8230;</p>
+<p>The post <a href="https://www.portofhueneme.org/banana-festival-2024/">GOING BANANAS AT PORT OF HUENEME!</a> appeared first on <a href="https://www.portofhueneme.org">The Port of Hueneme</a>.</p>
+ 
+
+<https://www.portofhueneme.org/banana-festival-2024/>
+
+---
+
+## Active Living in Santa Clarita
+
+date: 2024-09-28, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin “Exercise is the key, not only to physical health, but to peace of mind.” – Nelson Mandela After opening Skyline Ranch Park earlier this year, and having our official groundbreaking ceremonies for the future Rink Sports Pavilion and upgrades to David March Park, there are so many recreational opportunities in [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/09/28/active-living-in-santa-clarita/">Active Living in Santa Clarita</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/09/28/active-living-in-santa-clarita/>
+
+---
+
+## Angelenos take on the (seemingly) impossible task of controlling Tree of Heaven
+
+date: 2024-09-28, updated: 2024-09-30, from: The LAist
+
+Earlier this month, we did a story on the die-hard Tree of Heaven with surprising resonance. 
+
+<https://laist.com/news/climate-environment/angelenos-take-on-the-seemingly-impossible-task-of-controlling-tree-of-heaven>
+
+---
+
+## Here’s how the ‘Old Glory’ oak tree historic landmark came to be
+
+date: 2024-09-28, updated: 2024-09-28, from: The LAist
+
+The roughly 400-year-old tree was slated to be removed for a proposed housing development more than 20 years ago. 
+
+<https://laist.com/news/climate-environment/heres-how-the-old-glory-oak-tree-historic-landmark-came-to-be>
 

@@ -1,11 +1,53 @@
 ---
 title: ham radio
-updated: 2024-10-04 07:31:29
+updated: 2024-10-05 09:57:10
 ---
 
 # ham radio
 
-(date: 2024-10-04 07:31:29)
+(date: 2024-10-05 09:57:10)
+
+---
+
+## An Incredible Amateur Radio Rescue Story
+
+date: 2024-10-04, from: Amateur Radio Relay League News
+
+<p><i>Editor’s note:  The following story was submitted by Don Gardner, W7PJ, ARRL Idaho Section Emergency Coordinator.</i></p><p><i></i></p><i></i><p>On the evening of September 21, 2024, Greg Owen, WX7Z, heard an amateur radio emergency call on the VHF frequency known as the national simplex calling frequency, 146.52 MHz. Ed Clark, K7ELC, was calling to get medical help for a 51-year-old man who had rolled his four-wheeler. </p><p></p><p>Mac M...</p> 
+
+<http://www.arrl.org/news/view/an-incredible-amateur-radio-rescue-story>
+
+---
+
+## Simulated Emergency Test (SET) Scheduled for October 5—6
+
+date: 2024-10-04, from: Amateur Radio Relay League News
+
+<p>The first weekend of October is when ARRL encourages local groups to hold the Simulated Emergency Test, or SET. Throughout September, ARRL shared materials about resilience through National Preparedness Month. Now, as entire areas are washed away in the aftermath of Hurricane Helene, the utility value of amateur radio is more necessary and visible than ever. </p><p></p><p>When disaster strikes, infrastructur...</p> 
+
+<http://www.arrl.org/news/view/simulated-emergency-test-set-scheduled-for-october-5-6>
+
+---
+
+## The ARRL Foundation is Now Accepting Grant Applications Through October 31, 2024
+
+date: 2024-10-04, from: Amateur Radio Relay League News
+
+<p>There is funding available to organizations for eligible amateur radio-related projects and initiatives, particularly those with a focus on educating, licensing, and supporting amateur radio activities. Youth-based projects and initiatives are especially encouraged. The ARRL Foundation grants program accepts proposals on a cyclical basis three times a year, in February, June, and October. Award...</p> 
+
+<http://www.arrl.org/news/view/the-arrl-foundation-is-now-accepting-grant-applications-through-october-31-2024>
+
+---
+
+## Quartz oscillator with shock excitation
+
+date: 2024-10-04, from: EDN Blog
+
+<img width="157" height="151" src="https://www.edn.com/wp-content/uploads/QuartzOscillator_Fig1.jpg?fit=157%2C151" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" /><p>A circuit that produces an approximate square wave of odd-integer quartz harmonics, including its main frequency.</p>
+<p>The post <a href="https://www.edn.com/quartz-oscillator-with-shock-excitation/" data-wpel-link="internal">Quartz oscillator with shock excitation</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/quartz-oscillator-with-shock-excitation/>
 
 ---
 
@@ -13,7 +55,7 @@ updated: 2024-10-04 07:31:29
 
 date: 2024-10-04, from: EDN Blog
 
-<img width="700" height="432" src="https://www.edn.com/wp-content/uploads/Keysight-AP5002A.jpg?fit=700%2C432" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Keysight-AP5002A.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Keysight-AP5002A.jpg?w=300 300w" sizes="(max-width: 700px) 100vw, 700px" /><p>Two analog signal generators from Keysight enable component and device characterization at frequencies up to 26 GHz.</p>
+<img width="700" height="432" src="https://www.edn.com/wp-content/uploads/Keysight-AP5002A.jpg?fit=700%2C432" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Keysight-AP5002A.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Keysight-AP5002A.jpg?w=300 300w" sizes="(max-width: 700px) 100vw, 700px" /><p>Two analog signal generators from Keysight enable component and device characterization at frequencies up to 26 GHz.</p>
 <p>The post <a href="https://www.edn.com/portable-signal-generators-reach-26-ghz/" data-wpel-link="internal">Portable signal generators reach 26 GHz</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

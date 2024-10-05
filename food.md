@@ -1,11 +1,191 @@
 ---
 title: food
-updated: 2024-10-04 07:31:39
+updated: 2024-10-05 09:57:20
 ---
 
 # food
 
-(date: 2024-10-04 07:31:39)
+(date: 2024-10-05 09:57:20)
+
+---
+
+## Every M&M’s Flavor We Could Find, Ranked
+
+date: 2024-10-04, from: Taste of Home
+
+<p>It's our calling to find the absolute best M&#038;M's in the candy aisle.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/mms-flavors/">Every M&#038;M&#8217;s Flavor We Could Find, Ranked</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/collection/mms-flavors/>
+
+---
+
+## Air-Fryer Cornbread
+
+date: 2024-10-04, from: Taste of Home
+
+This air-fryer cornbread has a tender crumb and slightly crispy exterior. In 30 minutes, it's ready to pair with chili or a hearty stew. 
+
+<https://www.tasteofhome.com/recipes/air-fryer-cornbread/>
+
+---
+
+## Bow Tie Pasta Salad
+
+date: 2024-10-04, from: Taste of Home
+
+<span style="font-weight: 400;">This bow tie pasta salad combines delicious vegetables, herbs, cheese and salami and is topped with a tangy vinaigrette. </span> 
+
+<https://www.tasteofhome.com/recipes/bow-tie-pasta-salad/>
+
+---
+
+## Steak au Poivre
+
+date: 2024-10-04, from: Taste of Home
+
+Steak au poivre is a classic French dish for a reason<span style="font-weight: 400;">—it's decadent, elegant and easy to prepare.</span> 
+
+<https://www.tasteofhome.com/recipes/steak-au-poivre/>
+
+---
+
+## California Just Banned Food Labels That Say ‘Sell By’ or ‘Best Before’
+
+date: 2024-10-04, from: Taste of Home
+
+<p>The state of California passed a law that regulates food labels, so consumers no longer have to play a guessing game.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/california-food-labels-change/">California Just Banned Food Labels That Say &#8216;Sell By&#8217; or &#8216;Best Before&#8217;</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/article/california-food-labels-change/>
+
+---
+
+## Hanger Steak
+
+date: 2024-10-04, from: Taste of Home
+
+When you're craving the deep, rich flavors of beef, this hanger steak is the way to go. Hanger steak provides a more intense flavor than sirloin or tenderloin, and sauced with Worcestershire, garlic and fresh thyme, it's a versatile protein that'll go with any meal. 
+
+<https://www.tasteofhome.com/recipes/hanger-steak/>
+
+---
+
+## McDonald’s Is About to Drop Its Highly Anticipated Chicken Big Mac
+
+date: 2024-10-04, from: Taste of Home
+
+<p>This Chicken Big Mac is guaranteed to be a big deal in the United States.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/mcdonalds-chicken-big-mac-drops-in-october/">McDonald&#8217;s Is About to Drop Its Highly Anticipated Chicken Big Mac</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/article/mcdonalds-chicken-big-mac-drops-in-october/>
+
+---
+
+## White Bean Soup
+
+date: 2024-10-04, from: Taste of Home
+
+This vegetarian version of white bean soup is loaded with aromatic vegetables, herbs, garlic and a touch of tomato for a well-rounded flavor profile and lots of nutrition. 
+
+<https://www.tasteofhome.com/recipes/white-bean-soup-2/>
+
+---
+
+## This Is Where to Find the Cheapest Halloween Candy
+
+date: 2024-10-04, from: Taste of Home
+
+<p>'Tis the season for ghosts, ghouls and goblins, but there's nothing scarier than paying too much for Halloween treats. Here's where to shop for the best deals.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/where-to-buy-candy-for-halloween/">This Is Where to Find the Cheapest Halloween Candy</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/article/where-to-buy-candy-for-halloween/>
+
+---
+
+## Best Air Fryer Deals to Shop if You Can't Wait for Prime Day
+
+date: 2024-10-04, from: Bon Appetet
+
+Amazon’s October 2024 Prime Day is coming, but we’ve scouted some early deals from our favorite brands like Instant, Ninja, and Cosori. 
+
+<https://www.bonappetit.com/story/amazon-prime-day-best-air-fryer-deals-october>
+
+---
+
+## The Best Coffee Subscriptions For Every Taste And Budget
+
+date: 2024-10-04, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_blank">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_blank">http://sprudge.com</a>. This is the RSS feed version. Some of the best coffee subscriptions from around the globe. 
+
+<https://sprudge.com/the-best-coffee-subscriptions-for-every-taste-and-budget-256237.html>
+
+---
+
+## Crisis Averted: Dockworker Strike Suspended, Freeing Up Coffee Imports
+
+date: 2024-10-04, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_blank">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_blank">http://sprudge.com</a>. This is the RSS feed version. Hundreds of containers of coffee are currently caught in limbo. 
+
+<https://sprudge.com/crisis-averted-dockworker-strike-suspended-freeing-up-coffee-imports-256303.html>
+
+---
+
+## The Black Plastic Used for Your Kitchen Utensils May Contain Toxic Chemicals
+
+date: 2024-10-04, from: Taste of Home
+
+<p>Research links black plastic cooking utensils to toxic flame retardants that could be harmful to your health.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/black-plastic-kitchen-utensils/">The Black Plastic Used for Your Kitchen Utensils May Contain Toxic Chemicals</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/article/black-plastic-kitchen-utensils/>
+
+---
+
+## Caramelized Bananas
+
+date: 2024-10-04, from: Taste of Home
+
+To make caramelized bananas, simmer fresh bananas in a simple caramel sauce made with butter and brown sugar until tender and golden brown. Caramelized bananas are a great substitute for pancake syrup. A spoonful over vanilla ice cream is delicious too. 
+
+<https://www.tasteofhome.com/recipes/caramelized-bananas/>
+
+---
+
+## Copycat Chick-fil-A Mac and Cheese
+
+date: 2024-10-04, from: Taste of Home
+
+Recreate a drive-thru classic at home with this copycat recipe for Chick-fil-A mac and cheese. It brings together a blend of cheeses for an indulgent dish with a crispy top. 
+
+<https://www.tasteofhome.com/recipes/copycat-chick-fil-a-mac-and-cheese/>
+
+---
+
+## Sausage Tasties
+
+date: 2024-10-04, from: Taste of Home
+
+These sausage pastries got their name when a friend mistakenly called them tasties instead of pastries. They’ve been sausage tasties ever since! If you’re lucky enough to have a few left, they tastes great reheated for breakfast. I like to serve them with honey mustard dipping sauce. —Kristyne Mcdougle Walter, Lorain, Ohio 
+
+<https://www.tasteofhome.com/recipes/sausage-tasties/>
+
+---
+
+## Arizona’s Press Coffee Buys 70-Hectare Farm in Panama
+
+date: 2024-10-04, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Press-coffee-farm-Panama-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Press coffee farm Panama 1" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Press-coffee-farm-Panama-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Press-coffee-farm-Panama-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Press-coffee-farm-Panama-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Press-coffee-farm-Panama-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Press-coffee-farm-Panama-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Phoenix-based specialty coffee roaster and retailer Press Coffee recently acquired a 70-acre coffee farm in Western Panama. With the farm purchase, the company plans to launch an &#8220;Estate&#8221; line of... 
+
+<https://dailycoffeenews.com/2024/10/04/arizonas-press-coffee-buys-70-hectare-farm-in-panama/>
 
 ---
 
@@ -13,7 +193,7 @@ updated: 2024-10-04 07:31:39
 
 date: 2024-10-04, from: Daily Coffee News
 
-<div><img width="620" height="457" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/dark-roast-coffee-1-620x457.jpg" class="attachment-large size-large wp-post-image" alt="dark roast coffee" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/dark-roast-coffee-1-620x457.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/dark-roast-coffee-1-300x221.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/dark-roast-coffee-1-150x110.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/dark-roast-coffee-1-768x565.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/dark-roast-coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Experimenting with &#8216;Double Roasting&#8217; Coffee for Dark Roasts Expert... 
+<div><img width="620" height="457" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/dark-roast-coffee-1-620x457.jpg" class="attachment-large size-large wp-post-image" alt="dark roast coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/dark-roast-coffee-1-620x457.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/dark-roast-coffee-1-300x221.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/dark-roast-coffee-1-150x110.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/dark-roast-coffee-1-768x565.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/dark-roast-coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Experimenting with &#8216;Double Roasting&#8217; Coffee for Dark Roasts Expert... 
 
 <https://dailycoffeenews.com/2024/10/04/weekly-coffee-news-exploring-double-roasting-coffee-world-loses-mutombo/>
 
@@ -225,7 +405,7 @@ date: 2024-10-03, from: Daily Coffee News
 
 date: 2024-10-03, from: The Sprudge
 
-<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Entries are open now through October 11th. 
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_blank">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_blank">http://sprudge.com</a>. This is the RSS feed version. Entries are open now through October 11th. 
 
 <https://sprudge.com/were-looking-for-design-inclusivity-in-the-specialty-coffee-industry-256289.html>
 
@@ -245,7 +425,7 @@ These soft blueberry cheesecake cookies have a creamy surprise in the middle—f
 
 date: 2024-10-03, from: Daily Coffee News
 
-<div><img width="620" height="416" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/gabriel-bucataru-vMo8NKciA2Q-unsplash-620x416.jpg" class="attachment-large size-large wp-post-image" alt="gabriel-bucataru-vMo8NKciA2Q-unsplash" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/gabriel-bucataru-vMo8NKciA2Q-unsplash-620x416.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/gabriel-bucataru-vMo8NKciA2Q-unsplash-300x201.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/gabriel-bucataru-vMo8NKciA2Q-unsplash-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/gabriel-bucataru-vMo8NKciA2Q-unsplash-768x515.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/gabriel-bucataru-vMo8NKciA2Q-unsplash.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The European Commission yesterday said it plans to delay enforcement of the landmark deforestation-free supply chain law, known as EUDR, for 12 months. The announcement comes amidst a chorus of... 
+<div><img width="620" height="416" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/gabriel-bucataru-vMo8NKciA2Q-unsplash-620x416.jpg" class="attachment-large size-large wp-post-image" alt="gabriel-bucataru-vMo8NKciA2Q-unsplash" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/gabriel-bucataru-vMo8NKciA2Q-unsplash-620x416.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/gabriel-bucataru-vMo8NKciA2Q-unsplash-300x201.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/gabriel-bucataru-vMo8NKciA2Q-unsplash-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/gabriel-bucataru-vMo8NKciA2Q-unsplash-768x515.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/gabriel-bucataru-vMo8NKciA2Q-unsplash.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The European Commission yesterday said it plans to delay enforcement of the landmark deforestation-free supply chain law, known as EUDR, for 12 months. The announcement comes amidst a chorus of... 
 
 <https://dailycoffeenews.com/2024/10/03/european-legislators-plan-to-delay-deforestation-law-eudr-a-year/>
 
@@ -255,7 +435,7 @@ date: 2024-10-03, from: Daily Coffee News
 
 date: 2024-10-03, from: The Sprudge
 
-<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. If adopted, the new law wouldn't go into effect until the end of 2025. 
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_blank">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_blank">http://sprudge.com</a>. This is the RSS feed version. If adopted, the new law wouldn't go into effect until the end of 2025. 
 
 <https://sprudge.com/european-committee-proposes-12-month-postponement-of-deforestation-law-256208.html>
 
@@ -421,7 +601,7 @@ Our darkest brownies, chocolate banana bread, and a few savory recipes too.
 
 date: 2024-10-02, from: The Sprudge
 
-<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Submit your spooky stories now! 
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_blank">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_blank">http://sprudge.com</a>. This is the RSS feed version. Submit your spooky stories now! 
 
 <https://sprudge.com/halloween-horror-fiction-on-sprudge-send-us-your-scariest-coffee-story-for-2024-256151.html>
 
@@ -481,7 +661,7 @@ This jalapeño and cheese chip dip is just as perfect as a party appetizer as it
 
 date: 2024-10-02, from: The Sprudge
 
-<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. More than four cups of coffee a day may increase stroke risk. 
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_blank">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_blank">http://sprudge.com</a>. This is the RSS feed version. More than four cups of coffee a day may increase stroke risk. 
 
 <https://sprudge.com/excessive-coffee-drinking-may-carry-a-risk-of-stroke-256048.html>
 
@@ -651,7 +831,7 @@ date: 2024-10-01, from: Taste of Home
 
 date: 2024-10-01, from: The Sprudge
 
-<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Mill City Roasters is waiving all fees for technical support time to help coffee professionals get their production equipment back into service. 
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_blank">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_blank">http://sprudge.com</a>. This is the RSS feed version. Mill City Roasters is waiving all fees for technical support time to help coffee professionals get their production equipment back into service. 
 
 <https://sprudge.com/mill-city-roasters-activates-disaster-recovery-program-256117.html>
 
@@ -701,7 +881,7 @@ Will these lamb burgers become your most-loved burger of all time? There's a ver
 
 date: 2024-10-01, from: The Sprudge
 
-<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Over a third of the deaths caused by Hurricane Helene occurred in Buncombe County. 
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_blank">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_blank">http://sprudge.com</a>. This is the RSS feed version. Over a third of the deaths caused by Hurricane Helene occurred in Buncombe County. 
 
 <https://sprudge.com/hurricane-helene-devastates-asheville-coffee-community-256104.html>
 
@@ -711,7 +891,7 @@ date: 2024-10-01, from: The Sprudge
 
 date: 2024-10-01, from: The Sprudge
 
-<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Looking back a the 10th Annual Welcome Conference in New York City, New York. 
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_blank">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_blank">http://sprudge.com</a>. This is the RSS feed version. Looking back a the 10th Annual Welcome Conference in New York City, New York. 
 
 <https://sprudge.com/coffee-shines-at-the-10th-annual-welcome-conference-in-new-york-city-255386.html>
 
@@ -751,7 +931,7 @@ Chef Angie Rito shares her pro moves for chicken parm, from her favorite type of
 
 date: 2024-10-01, from: The Sprudge
 
-<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The new coffee pays homage to California’s Inland Empire region. 
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_blank">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_blank">http://sprudge.com</a>. This is the RSS feed version. The new coffee pays homage to California’s Inland Empire region. 
 
 <https://sprudge.com/klatch-coffee-announces-new-blend-empire-255693.html>
 
@@ -1145,4 +1325,154 @@ date: 2024-09-29, from: Taste of Home
  
 
 <https://www.tasteofhome.com/article/bobby-flay-greenpan-cookware/>
+
+---
+
+## The Cheapest Meal Delivery Services That Are Actually Worth Ordering 2024
+
+date: 2024-09-28, from: Bon Appetet
+
+According to Bon Appetit editors and contributors who have tried them at home. 
+
+<https://www.bonappetit.com/story/the-cheapest-meal-delivery-services>
+
+---
+
+## Adobo de Chanco: Pepper-Powered Peruvian Pork
+
+date: 2024-09-28, from: Pepper Scale
+
+“Don’t spoil it with cutlery. This is party pork!” That’s the advice from a beaming buddy of mine about adobo de chanco — slow braised pork shoulder, served with ladles of bread-dunking, fiery sauce, and buttered corn. “This Peruvian pork is for pure pleasure, please, ... <p class="read-more-container"><a title="Adobo de Chanco: Pepper-Powered Peruvian Pork" class="read-more button" href="https://pepperscale.com/adobo-de-chanco/#more-85923" aria-label="Read more about Adobo de Chanco: Pepper-Powered Peruvian Pork">Read more</a></p> 
+
+<https://pepperscale.com/adobo-de-chanco/>
+
+---
+
+## Algerian Spicy Chicken And Chickpea Tagine
+
+date: 2024-09-28, from: Pepper Scale
+
+Hotly spiced with dersa, this Algerian spicy chicken and chickpea tagine is a good-looking, sunshiny treat that’s surprisingly easy to make. Dersa? That’s an Algerian, hot-as-you-like combo of ground bird’s eye chili, paprika, cumin, and black pepper. It’s all mixed together with garlic, lemon juice, ... <p class="read-more-container"><a title="Algerian Spicy Chicken And Chickpea Tagine" class="read-more button" href="https://pepperscale.com/algerian-spicy-chicken-and-chickpea-tagine/#more-84990" aria-label="Read more about Algerian Spicy Chicken And Chickpea Tagine">Read more</a></p> 
+
+<https://pepperscale.com/algerian-spicy-chicken-and-chickpea-tagine/>
+
+---
+
+## 31 Chocolate Cookie Recipes, Emphasis on Chocolate
+
+date: 2024-09-28, from: Bon Appetet
+
+Like low-fuss slice-and-bakes, chocolate-filled macaroons, cheesecake brownie cookies, and more. 
+
+<https://www.bonappetit.com/gallery/types-of-chocolate-cookie-recipes>
+
+---
+
+## Bobotie: Cape Town’s Savory, Spicy Specialty
+
+date: 2024-09-28, from: Pepper Scale
+
+Fired with chilies, generously spiced ground beef gets sweetened with raisins, chutney, and almonds, and baked beneath a custardy, egg-and-milk topping. That’s bobotie. This unusual, richly flavored delight is a mega South African favorite that’s grand for special occasions and celebrations. If you’re Italian, this ... <p class="read-more-container"><a title="Bobotie: Cape Town’s Savory, Spicy Specialty" class="read-more button" href="https://pepperscale.com/bobotie/#more-86293" aria-label="Read more about Bobotie: Cape Town’s Savory, Spicy Specialty">Read more</a></p> 
+
+<https://pepperscale.com/bobotie/>
+
+---
+
+## Spicy Chestnut Soup
+
+date: 2024-09-28, from: Pepper Scale
+
+What could be more perfect on a cold winter evening than a large bowl of spicy chestnut soup? This is a hearty bowl, with delicious chunky pieces of chestnut and the salty delight that is crushed bacon bits. It&#8217;s earthy, meaty, nutty, and fiery all ... <p class="read-more-container"><a title="Spicy Chestnut Soup" class="read-more button" href="https://pepperscale.com/spicy-chestnut-soup/#more-86081" aria-label="Read more about Spicy Chestnut Soup">Read more</a></p> 
+
+<https://pepperscale.com/spicy-chestnut-soup/>
+
+---
+
+## Easy Pico De Gallo
+
+date: 2024-09-28, from: Pepper Scale
+
+Here&#8217;s an easy pico de gallo recipe that takes no time at all to make — from prep to table in under 20 minutes. That&#8217;s a lot of flavor in a little time. We love this salsa fresca as a spicy side (a great alternative to ... <p class="read-more-container"><a title="Easy Pico De Gallo" class="read-more button" href="https://pepperscale.com/easy-pico-de-gallo/#more-3767" aria-label="Read more about Easy Pico De Gallo">Read more</a></p> 
+
+<https://pepperscale.com/easy-pico-de-gallo/>
+
+---
+
+## Chipotle Cocktail Sauce
+
+date: 2024-09-28, from: Pepper Scale
+
+Like a little smoky edge to your sauces? Don&#8217;t ignore what chipotle peppers can quickly bring to the table, particularly in simple ketchup-based sauces like cocktail sauce. This chipotle cocktail sauce brings plenty of horseradish spiciness but adds an earthy, smoky zip via chipotle in ... <p class="read-more-container"><a title="Chipotle Cocktail Sauce" class="read-more button" href="https://pepperscale.com/chipotle-cocktail-sauce/#more-32938" aria-label="Read more about Chipotle Cocktail Sauce">Read more</a></p> 
+
+<https://pepperscale.com/chipotle-cocktail-sauce/>
+
+---
+
+## Bloody Mary Ketchup
+
+date: 2024-09-28, from: Pepper Scale
+
+This one is a no-brainer for Bloody Mary fans. Turn your classic ketchup into a zesty condiment version of the popular cocktail! It&#8217;s tangy, peppery, and fiery — like a good spicy Bloody Mary should be. This is a delicious traditional ketchup alternative for french ... <p class="read-more-container"><a title="Bloody Mary Ketchup" class="read-more button" href="https://pepperscale.com/bloody-mary-ketchup/#more-34563" aria-label="Read more about Bloody Mary Ketchup">Read more</a></p> 
+
+<https://pepperscale.com/bloody-mary-ketchup/>
+
+---
+
+## The Most Popular Recipes of September 2024
+
+date: 2024-09-28, from: Bon Appetet
+
+One-pan salmon, pumpkin chiffon pie, and more. 
+
+<https://www.bonappetit.com/gallery/most-popular-recipes-september-2024>
+
+---
+
+## Microwave Mashed Potatoes
+
+date: 2024-09-28, from: Taste of Home
+
+Perfect for busy weeknights or whenever you're craving comfort food without the fuss, these microwave mashed potatoes are quick, easy, and perfectly delicious. 
+
+<https://www.tasteofhome.com/recipes/microwave-mashed-potatoes/>
+
+---
+
+## White Chocolate Ganache
+
+date: 2024-09-28, from: Taste of Home
+
+Using just two simple ingredients, this decadent white chocolate ganache is ideal for enjoying over fresh pastries, drizzled on top of your favorite cakes or pies or using as a dipping sauce when the mood strikes. 
+
+<https://www.tasteofhome.com/recipes/white-chocolate-ganache/>
+
+---
+
+## Bison Burger
+
+date: 2024-09-28, from: Taste of Home
+
+This bison burger recipe have all of the flavor of your typical ground beef burger, but they're lighter and leaner. This recipe tops juicy ground bison with caramelized onions and melted Swiss cheese. 
+
+<https://www.tasteofhome.com/recipes/bison-burger/>
+
+---
+
+## Lemon Zucchini Bread
+
+date: 2024-09-28, from: Taste of Home
+
+When you've got too much zucchini, it's time to make this lemon zucchini bread recipe. This produces two loaves that will feed several people, and the loaves freeze well, too. 
+
+<https://www.tasteofhome.com/recipes/lemon-zucchini-bread/>
+
+---
+
+## Smoked Gouda Mac and Cheese
+
+date: 2024-09-28, from: Taste of Home
+
+Elevate your typical mac and cheese with this smoked gouda mac and cheese recipe. Made with three types of cheeses, a creamy milk roux and plenty of spices for added flavor, this recipe is a total winner. 
+
+<https://www.tasteofhome.com/recipes/smoked-gouda-mac-and-cheese/>
 

@@ -1,11 +1,249 @@
 ---
 title: going electric
-updated: 2024-10-04 07:31:39
+updated: 2024-10-05 09:57:20
 ---
 
 # going electric
 
-(date: 2024-10-04 07:31:39)
+(date: 2024-10-05 09:57:20)
+
+---
+
+## Lightning fast charger: Fortescue 6 MW DCFC for electric heavy equipment
+
+date: 2024-10-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/fortescue.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Global mining and metals company Fortescue is driving the technology behind massive, all electric heavy equipment solutions with an all-new 6 MW DC fast charger that can charge this massive haul truck’s 1,900 kWh battery in less than thirty minutes. (!)</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,electric-trucks,liebherr,mining" data-layer-viewtype="unknown" data-post-id="382885" href="https://electrek.co/2024/10/04/worlds-fastest-charger-fortescue-6-mw-dcfc-for-electric-heavy-equipment/#more-382885" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/04/worlds-fastest-charger-fortescue-6-mw-dcfc-for-electric-heavy-equipment/>
+
+---
+
+## Fisker Is Under Investigation By The Feds
+
+date: 2024-10-04, from: Inside EVs News
+
+In a filing on Friday, the Securities and Exchange Commission said it objected to EV startup Fisker's current liquidation plan.  
+
+<https://insideevs.com/news/736234/fisker-sec-investigation-bankruptcy/>
+
+---
+
+## Get your EV questions answered at Drive Electric Week, continuing thru Sunday
+
+date: 2024-10-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Screenshot-2024-10-04-at-1.16.42PM-e1728080112156.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Drive Electric Week <a href="https://electrek.co/2024/09/26/get-all-your-ev-questions-answered-at-drive-electric-week-sep-27-oct-6/">kicked off last Saturday</a> with <a href="https://driveelectricweek.org/attend">nearly 200 online and in-person events</a> celebrating electric vehicles, and it continues this weekend with events through Sunday, October 6.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="national-drive-electric-week" data-layer-viewtype="unknown" data-post-id="382877" href="https://electrek.co/2024/10/04/get-your-ev-questions-answered-at-drive-electric-week-continuing-thru-sunday/#more-382877" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/04/get-your-ev-questions-answered-at-drive-electric-week-continuing-thru-sunday/>
+
+---
+
+## Prices fall for residential solar, demand is up for battery storage – EnergySage
+
+date: 2024-10-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/sunrun-solar-battery-storage-tesla-powerwall.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Residential solar and battery storage marketplace EnergySage just released its latest insights report for H1 2024 – here are 3 of its top-line findings. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,egeb,energy-brief,solar,rooftop-solar,solar-power" data-layer-viewtype="unknown" data-post-id="382862" href="https://electrek.co/2024/10/04/prices-fall-for-residential-solar-demand-is-up-for-battery-storage-energysage/#more-382862" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/04/prices-fall-for-residential-solar-demand-is-up-for-battery-storage-energysage/>
+
+---
+
+## Podcast: Tesla Cybertruck gets cheaper, EV delivery results for Tesla, Ford, GM, Rivian, and more
+
+date: 2024-10-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla Cybertruck getting cheaper, EV delivery results for Tesla, Ford, GM, Rivian, and more.</p>
+
+
+
+<p><strong>Today’s episode is sponsored by BLUETTI, a leading provider of portable power stations, solar generators, and energy storage systems. For a limited time, save up to 50% during Amazon Fall Prime Day. </strong>.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Electrek_10-04-24.mp3"></audio></figure>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="382842" href="https://electrek.co/2024/10/04/podcast-tesla-cybertruck-gets-cheaper-ev-delivery-results-for-tesla-ford-gm-rivian-and-more/#more-382842" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/04/podcast-tesla-cybertruck-gets-cheaper-ev-delivery-results-for-tesla-ford-gm-rivian-and-more/>
+
+---
+
+## Hyundai just opened its massive new Georgia EV plant as the first IONIQ 5 rolls out
+
+date: 2024-10-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Hyundai-US-made-IONIQ-5-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/hyundai/">Hyundai</a> is kicking off a new era as its $7.6 billion EV plant in Georgia is now officially up and running. The first US-made IONIQ 5 rolled off the assembly line and is scheduled to arrive at US dealers by the end of the year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="382855" href="https://electrek.co/2024/10/04/hyundai-opened-massive-new-ev-plant-georgia/#more-382855" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/04/hyundai-opened-massive-new-ev-plant-georgia/>
+
+---
+
+## Europe pushes ahead with China EV tariffs despite Germany’s objection
+
+date: 2024-10-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/China-EU-tariffs.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The European Union has <a href="https://www.reuters.com/business/autos-transportation/eu-governments-face-pivotal-vote-chinese-ev-tariffs-2024-10-04/">voted to move forward</a> with its plan to impose tariffs on electric cars imported from China, despite recent moves by Germany to attempt to block the proposal.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,europe,tariffs" data-layer-viewtype="unknown" data-post-id="382852" href="https://electrek.co/2024/10/04/europe-pushes-ahead-with-china-ev-tariffs-despite-germanys-objection/#more-382852" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/04/europe-pushes-ahead-with-china-ev-tariffs-despite-germanys-objection/>
+
+---
+
+## Are EVs Really Fire-Prone Death Traps?
+
+date: 2024-10-04, from: Inside EVs News
+
+You've probably seen videos of scary EV fires. Are they common enough for you to worry about it? 
+
+<https://insideevs.com/news/736222/ev-myths-fires/>
+
+---
+
+## BMW Supercharger Access Potentially Delayed Until 'Later In 2025'
+
+date: 2024-10-04, from: Inside EVs News
+
+The automaker had previously announced that BMW and Mini vehicles would gain Supercharger access in early 2025. 
+
+<https://insideevs.com/news/736217/bmw-supercharger-acces-potentially-delayed/>
+
+---
+
+## GE electric 2-in-1 washer & ventless heat pump dryer $900 off, Aventon e-bikes and bundles from $999, Jackery Prime sale, more
+
+date: 2024-10-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/GE-Profile-Electric-2-in-1-washer-and-dryer-with-ventless-heat-pump-2.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Closing out this week’s Green Deals, we have the <a href="https://9to5toys.com/2024/10/04/laundry-doesnt-have-to-be-annoying-with-ges-electric-2-in-1-washer-ventless-heat-pump-dryer-at-2000-save-900/">GE Profile 4.8 cu. ft. UltraFast Electric 2-in-1 Washer &amp; Dryer with Ventless Heat Pump for $2,000</a>, with an open-box discount for an excellent condition model at <a href="https://9to5toys.com/2024/10/04/laundry-doesnt-have-to-be-annoying-with-ges-electric-2-in-1-washer-ventless-heat-pump-dryer-at-2000-save-900/">$1,700</a>. Aventon has launched another sale <a href="https://9to5toys.com/2024/10/04/aventon-offers-up-to-500-off-e-bikes-and-accessories-extra-battery-bundles-all-starting-from-999/">taking up to $500 off e-bikes and accessory/extra battery bundles</a> that start from <a href="https://9to5toys.com/2024/10/04/aventon-offers-up-to-500-off-e-bikes-and-accessories-extra-battery-bundles-all-starting-from-999/">$999</a>, with <a href="https://9to5toys.com/2024/10/03/lectrics-one-long-range-e-bike-gets-price-cut-and-220-in-free-gear-for-2199-low/">Lectric’s ONE Long-Range e-bike</a> also getting a price cut and $220 in free gear for <a href="https://9to5toys.com/2024/10/03/lectrics-one-long-range-e-bike-gets-price-cut-and-220-in-free-gear-for-2199-low/">$2,199</a>. There’s also <a href="https://9to5toys.com/2024/10/04/jackerys-prime-sale-drops-2024-lifepo4-explorer-1000-v2-power-station-to-new-549-low-more-from-179/">Jackery’s Explorer 1000 v2 Portable Power Station</a> that has fallen to a <a href="https://9to5toys.com/2024/10/04/jackerys-prime-sale-drops-2024-lifepo4-explorer-1000-v2-power-station-to-new-549-low-more-from-179/">new $549 low</a> in the brand’s Prime Day sale, while <a href="https://9to5toys.com/2024/10/03/greenworks-80v-21-inch-cordless-electric-push-mower-with-two-2-0ah-batteries-falls-to-375-reg-500/">Greenworks’ 80V 21-inch cordless electric push mower</a> that comes with two 2.0Ah batteries has dropped down to <a href="https://9to5toys.com/2024/10/03/greenworks-80v-21-inch-cordless-electric-push-mower-with-two-2-0ah-batteries-falls-to-375-reg-500/">$375</a>. Plus, all the other hangover Green Deals in the links at the bottom of the page, like yesterday’s new low on the <a href="https://9to5toys.com/2024/10/02/juiceds-20-off-sitewide-sale-drops-jetcurrent-pro-foldable-e-bike-to-new-1759-low-and-saves-you-1040/">Juiced JetCurrent Pro e-bike</a>, <a href="https://9to5toys.com/2024/10/03/rad-powers-radexpand-5-folding-e-bike-drops-to-new-1199-low-reg-1599-more-deals-from-375/">Rad Power’s latest sale</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="382828" href="https://electrek.co/2024/10/04/ge-electric-2-in-1-washer-dryer-aventon-e-bikes-jackery-prime-sale-more/#more-382828" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/04/ge-electric-2-in-1-washer-dryer-aventon-e-bikes-jackery-prime-sale-more/>
+
+---
+
+## Hyundai to launch new INSTER EV in the UK starting under $31,000
+
+date: 2024-10-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Hyundai-Inster-EV-UK-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai is preparing to launch its first small EV in Europe. The new <a href="https://electrek.co/guides/hyundai/">Hyundai</a> INSTER EV will challenge low-cost EVs in the UK after the company announced that prices will start at under $31,000 (£23,495).</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="382827" href="https://electrek.co/2024/10/04/hyundai-launch-new-inster-ev-uk-starting-31000/#more-382827" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/04/hyundai-launch-new-inster-ev-uk-starting-31000/>
+
+---
+
+## The Cheaper Tesla Cybertruck Is Finally Here
+
+date: 2024-10-04, from: Inside EVs News
+
+Tesla has dropped the $20,000 Foundation Series package from the Cybertruck, bringing it to under $80,000. 
+
+<https://insideevs.com/news/736199/tesla-cybertruck-80k-orders-start/>
+
+---
+
+## Tesla loses one of its top executives in Europe
+
+date: 2024-10-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/12/Tesla-Gigafactory-Berlin-Hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has lost one of its top executives in Europe in charge of all business development and public policies.</p>
+
+
+
+<p>He is one of two top Tesla executives to leave this week.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="382820" href="https://electrek.co/2024/10/04/tesla-loses-one-of-its-top-executives-in-europe/#more-382820" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/04/tesla-loses-one-of-its-top-executives-in-europe/>
+
+---
+
+## Kia’s $30,000 EV3 gets even cheaper in Korea through its new E-Value program
+
+date: 2024-10-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Kia-cheaper-EVs-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After launching a new E-Value program in its home market, <a href="https://electrek.co/guides/kia-ev3/">Kia’s new EV3</a> is now even more affordable. Starting at just over $30,000, the EV3 is one of the cheapest EVs on the market, but through its latest offer, Kia says the EV3 can be bought for as little as $67 per month.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev3" data-layer-viewtype="unknown" data-post-id="382813" href="https://electrek.co/2024/10/04/kias-30000-ev3-now-even-cheaper-korea/#more-382813" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/04/kias-30000-ev3-now-even-cheaper-korea/>
+
+---
+
+## Tesla shares impressive data point about its Supercharger network
+
+date: 2024-10-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Electric-vehicles-5K-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Tesla has shared an impressive data point about its Supercharger network: 1.4 TWh of energy delivered in a single quarter.</p>
+
+
+
+<p>What does it mean?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="382809" href="https://electrek.co/2024/10/04/tesla-shares-impressive-data-point-about-its-supercharger-network/#more-382809" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/04/tesla-shares-impressive-data-point-about-its-supercharger-network/>
+
+---
+
+## Tesla Scored A Win Against BYD
+
+date: 2024-10-04, from: Inside EVs News
+
+Tesla still managed to knock out BYD in global EV sales. Plus, we look at Maserati's marketing woes and new anti-China moves in Europe. 
+
+<https://insideevs.com/news/736187/tesla-byd-q3-ev-cm/>
+
+---
+
+## Hyundai’s new US-made IONIQ 5 is getting the Waymo robotaxi treatment
+
+date: 2024-10-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Hyundais-IONIQ-5-Waymo.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai’s upgraded 2025 <a href="https://electrek.co/guides/hyundai-ioniq-5/">IONIQ 5</a>, hitting the US this fall, will join Waymo’s robotaxi fleet. As part of a new multi-year partnership, Hyundai is preparing to allocate a “significant” amount of IONIQ 5 models for the Waymo One robotaxi fleet.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-5,waymo" data-layer-viewtype="unknown" data-post-id="382797" href="https://electrek.co/2024/10/04/hyundais-new-ioniq-5-getting-waymo-robotaxi-treatment/#more-382797" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/04/hyundais-new-ioniq-5-getting-waymo-robotaxi-treatment/>
 
 ---
 
@@ -52,6 +290,10 @@ date: 2024-10-04, from: Electrek Feed
 date: 2024-10-04, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time that includes updates from Bosch’s new line of motors and batteries, new e-bikes from brands like Urban Arrow and Engwe, an analysis of a reduction of e-bike fire deaths in NYC, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Wheel-E_10-4-24.mp3"></audio></figure>
 
 
 
@@ -203,7 +445,7 @@ date: 2024-10-03, from: Electrek Feed
 
 date: 2024-10-03, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/pexels-photo-230518.jpeg?quality=82&#038;strip=all&#038;w=1333" /></div><p>The US Department of Energy (DOE) announces $1.5B for four transmission projects – including connecting the Texas grid to the rest of the US for the first time ever.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/pexels-photo-230518.jpeg?quality=82&#038;strip=all&#038;w=1333" /></div><p>The US Department of Energy (DOE) announces $1.5B for four transmission projects – including connecting the Texas grid to the Southeast grids for the first time ever.</p>
 
 
 
@@ -1566,4 +1808,76 @@ date: 2024-09-29, from: Electrek Feed
  <a data-layer-pagetype="post" data-layer-postcategory="bidirectional-charging,vehicle-to-grid" data-layer-viewtype="unknown" data-post-id="381963" href="https://electrek.co/2024/09/28/bidirectional-charging-may-be-required-on-evs-soon-due-to-new-ca-law/#more-381963" class="more-link">more…</a> 
 
 <https://electrek.co/2024/09/28/bidirectional-charging-may-be-required-on-evs-soon-due-to-new-ca-law/>
+
+---
+
+## Industry first: Komatsu reveals power agnostic 320 ton haul truck
+
+date: 2024-09-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/komatsu_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Japanese equipment giant Komatsu dropped its new, 320-ton Power Agnostic 930E mining truck at MinsExpo trade show in Las Vegas, calling it a future-ready solution that can run on diesel, hydrogen, or pure electric power.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,komatsu,mining" data-layer-viewtype="unknown" data-post-id="381912" href="https://electrek.co/2024/09/28/industry-first-komatsu-reveals-power-agnostic-320-ton-haul-truck/#more-381912" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/28/industry-first-komatsu-reveals-power-agnostic-320-ton-haul-truck/>
+
+---
+
+## Rivian CEO RJ Scaringe Wishes NACS Ramp Up Was Faster
+
+date: 2024-09-28, from: Inside EVs News
+
+Scaringe said there was no ‘tension’ with Tesla and that the two companies are partners that work well together. 
+
+<https://insideevs.com/news/735427/rivian-ceo-rj-scaringe-wishes-nacs-rollout-was-faster/>
+
+---
+
+## Score a sporty new Fiat 500e at more than 30% off MSRP
+
+date: 2024-09-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/FT024_093FHgj57mujijlkdp6sieg0qn5vk4.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>It’s no Ferrari, but owning a sporty little Fiat 500e is about as close to putting a <em>cavallino rampante</em> in the garage as most of us will ever get. And if we act soon, we could do just that for 30% less money than before.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-deals,fiat" data-layer-viewtype="unknown" data-post-id="381885" href="https://electrek.co/2024/09/28/score-a-sporty-new-fiat-500e-at-more-than-30-off-msrp/#more-381885" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/28/score-a-sporty-new-fiat-500e-at-more-than-30-off-msrp/>
+
+---
+
+## Hyundai's Plan For Underground EV Fires: This Firefighting Robot
+
+date: 2024-09-28, from: Inside EVs News
+
+The Hyundai Motor Group is not messing around when it comes to the threat of parking garage EV fires. 
+
+<https://insideevs.com/news/735443/hyundai-ev-fire-robot/>
+
+---
+
+## Mahle CEO Arnd Franz says hydrogen will fail without fossil fuels
+
+date: 2024-09-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/mahle_wasserstoffmotor_auf_dem_pruefstand.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Echoing the words of hydrogen critics everywhere, Mahle Chairman Arnd Franz says that building out a hydrogen infrastructure won’t be possible without “blue” H made from fossil fuels.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,hydrogen" data-layer-viewtype="unknown" data-post-id="381868" href="https://electrek.co/2024/09/28/mahle-ceo-arnd-franz-says-hydrogen-will-fail-without-fossil-fuels/#more-381868" class="more-link">more…</a> 
+
+<https://electrek.co/2024/09/28/mahle-ceo-arnd-franz-says-hydrogen-will-fail-without-fossil-fuels/>
+
+---
+
+## Dead Fisker Ocean Bought For $10,000, Rebuilt For Chump Change
+
+date: 2024-09-28, from: Inside EVs News
+
+How’s that for depreciation? 
+
+<https://insideevs.com/news/735348/fisker-ocean-cheap-repair-charge-port/>
 

@@ -1,11 +1,88 @@
 ---
 title: journalism
-updated: 2024-10-04 07:31:34
+updated: 2024-10-05 09:57:15
 ---
 
 # journalism
 
-(date: 2024-10-04 07:31:34)
+(date: 2024-10-05 09:57:15)
+
+---
+
+## Album review: Coldplay’s new release ‘Moon Music’ fails to live up to its rock legacy
+
+date: 2024-10-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+Coldplay&#8217;s newest album aimed for the moon but fell far short of being out of this world.
+The British rock band&#8217;s 10th studio album &#8220;Moon Music&#8221; was released Friday and features 10 songs across 44 minutes of music. 
+
+<https://dailybruin.com/2024/10/04/album-review-coldplays-new-release-moon-music-fails-to-live-up-to-its-rock-legacy/>
+
+---
+
+## This Week: October 4
+
+date: 2024-10-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+Updates on the undocumented student employment lawsuit and closure of Jackie Robinson Stadium. UCLA&#8217;s football performance and Oregon and upcoming game against Penn State. Release of &#8220;Joker: Folie &#224; Deux&#8221; and Coldplay&#8217;s new album. 
+
+<https://dailybruin.com/2024/10/04/this-week-october-4/>
+
+---
+
+## Film review: ‘Joker: Folie à Deux’ reimagines classic characters, delivers haunting narrative
+
+date: 2024-10-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+Warning: spoilers ahead.
+&#8220;Joker: Folie &#224; Deux&#8221; is a dark, symphonic crescendo into madness, redefining chaos. 
+Slicing into theaters Friday, director Todd Phillips&#8217; audacious sequel to his 2019 phenomenon, &#8220;Joker,&#8221; is a visceral exploration of love and madness. 
+
+<https://dailybruin.com/2024/10/04/film-review-joker-folie-deux-reimagines-classic-characters-delivers-haunting-narrative/>
+
+---
+
+## UCLA men’s water polo gears up to defend undefeated streak in Stanford match
+
+date: 2024-10-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 4 at 2:17 p.m.</em>
+The undefeated Bruins will put their perfect record on the line as they take on their closest competitors in the battle to keep their number one spot. 
+
+<https://dailybruin.com/2024/10/04/ucla-mens-water-polo-gears-up-to-defend-undefeated-streak-in-stanford-match/>
+
+---
+
+## Promoting inclusion and healthy living
+
+date: 2024-10-04, from: The Round Up (Pierce College Student Newspaper)
+
+<p>When she was a college student, Houry Tanashian didn’t know where the campus health center was. Tanashian, now a registered nurse and the director of</p>
+<p>The post <a href="https://theroundupnews.com/2024/10/04/promoting-inclusion-and-healthy-living/">Promoting inclusion and healthy living</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<https://theroundupnews.com/2024/10/04/promoting-inclusion-and-healthy-living/?utm_source=rss&utm_medium=rss&utm_campaign=promoting-inclusion-and-healthy-living>
+
+---
+
+## Scouting Report: UCLA football vs. Penn State
+
+date: 2024-10-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA football (1-3, 0-2 Big Ten) is heading across the country to visit No. 7 Penn State (4-0, 1-0) for the first time as conference foes. 
+
+<https://dailybruin.com/2024/10/04/scouting-report-ucla-football-vs-penn-state/>
+
+---
+
+## Mayor Karen Bass appoints Jim McDonnell as 59th LAPD chief of police
+
+date: 2024-10-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+Jim McDonnell was named as the next LAPD chief of police Friday.
+Mayor Karen Bass announced McDonnell would be stepping in as chief of police at a 9 a.m. 
+
+<https://dailybruin.com/2024/10/04/mayor-karen-bass-appoints-jim-mcdonnell-as-59th-lapd-chief-of-police/>
 
 ---
 
@@ -259,13 +336,14 @@ Jaime Tran, who was last enrolled at UCLA in 2018, was arrested for shooting and
 
 ---
 
-## Op-ed: Admin complacency in attacks on pro-Palestine protesters proves UCLA wants us dead
+## Op-ed: Admin’s actions toward pro-Palestine protesters proves UCLA wants us dead
 
 date: 2024-10-04, from: The Daily Bruin (UCLA Student Newspaper)
 
-Editor&#8217;s note: This article describes instances of violence that may be disturbing to some readers.
-On the fourth day of the UCLA Palestine solidarity encampment, a community member asked me, &#8220;What should we do if there&#8217;s a bomb?&#8221;
-I replied incredulously, &#8220;Bombs aren&#8217;t allowed at UCLA.&#8221;
+<em>This post was updated Oct. 4 at 8:08 p.m.</em>
+Editor’s note: This article describes instances of violence that may be disturbing to some readers.
+On the fourth day of the UCLA Palestine solidarity encampment, a community member asked me, “What should we do if there’s a bomb?”
+I replied incredulously, “Bombs aren’t allowed at UCLA.”
 The next night, a Zionist flashed encampment participants with their holstered pistol. 
 
 <https://dailybruin.com/2024/10/03/op-ed-admin-complacency-in-attacks-on-pro-palestine-protesters-proves-ucla-wants-us-dead/>
@@ -581,7 +659,7 @@ After a long night class, there is the dreaded walk across campus to one&#8217;s
 
 date: 2024-10-02, from: The Sundail (CSUN Student Newspaper)
 
-Students hoped for a chance to be let into CSUN Industry Night, but by 7 p.m., the USU Northridge center had reached building capacity, forcing many of the 800 registered... 
+Students eagerly waited outside the USU Northridge Center for their chance to experience CSUN Industry Night. With more than 800 registered attendees, the event reached building capacity around 7 p.m.,... 
 
 <https://sundial.csun.edu/185806/news/hundreds-of-students-connect-with-potential-employers-at-industry-night/>
 
@@ -1768,4 +1846,114 @@ Rise and shine, Bruins &#8211; and don&#8217;t press snooze.
 UCLA cross country&#8217;s journey to the Gans Creek Classic in Columbia, Missouri, was highlighted by early mornings thanks to the two-hour time change. 
 
 <https://dailybruin.com/2024/09/28/new-returning-runners-lead-ucla-cross-country-at-gans-creek-classic/>
+
+---
+
+## USC vs. Wisconsin — as it happened
+
+date: 2024-09-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Henry Mode reports live from Los Angeles Memorial Coliseum.</p>
+<p>The post <a href="https://dailytrojan.com/2024/09/28/usc-vs-wisconsin-live-updates/">USC vs. Wisconsin — as it happened</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/09/28/usc-vs-wisconsin-live-updates/>
+
+---
+
+## Espresso Chronicles: With overpriced food and mediocre drinks, Sipp Coffee House fails to satisfy
+
+date: 2024-09-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+The newest boho chic coffee shop allured me with its stylish character yet released me with its costly prices and awkward seating.
+When visiting Sipp Coffee House, a recently opened establishment in Westwood, I entered with high expectations because of the area&#8217;s prodigious coffee scene. 
+
+<https://dailybruin.com/2024/09/28/espresso-chronicles-with-overpriced-food-and-mediocre-drinks-sipp-coffee-house-fails-to-satisfy/>
+
+---
+
+## Gameday predictions: UCLA vs. Oregon
+
+date: 2024-09-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA football (1-2, 0-1 Big Ten) is returning to the Rose Bowl for its second Big Ten matchup of the season – and a familiar Pac-12 clash – facing No. 
+
+<https://dailybruin.com/2024/09/28/gameday-predictions-ucla-vs-oregon-5/>
+
+---
+
+## Pablo Ereño ties for first at The Tindall, leading UCLA men’s golf to fifth place
+
+date: 2024-09-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Sept. 30 at 12:18 a.m.</em>
+It could take years for the shoe to drop.
+But for Pablo Ereño, he dropped his with a bang. 
+
+<https://dailybruin.com/2024/09/27/pablo-ereo-ties-for-first-at-the-tindall-leading-ucla-mens-golf-to-fifth-place/>
+
+---
+
+## Op-ed: UC expansion creates demand that neglects fair wages, housing of frontline workers
+
+date: 2024-09-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Sept. 27 at 9:17 p.m.</em>
+In recent months, thousands of University of California employees and their allies have repeatedly taken to the streets to protest for higher wages and housing assistance. 
+
+<https://dailybruin.com/2024/09/27/uc-expansion-creates-demand-that-neglects-fair-wages-housing-of-frontline-workers/>
+
+---
+
+## Enormous Activities Fair displays range of UCLA student interests, opportunities
+
+date: 2024-09-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Sept. 29 at 11:38 p.m.</em>
+From performing Shakespeare to beekeeping to organized wiffle ball – if you can think of it, UCLA has a club for it. 
+
+<https://dailybruin.com/2024/09/27/enormous-activities-fair-displays-range-of-ucla-student-interests-opportunities/>
+
+---
+
+## Arushi Avachat fuses Bollywood, rom-com inspirations into debut novel
+
+date: 2024-09-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+Arushi Avachat is bringing Bollywood extravagance to young adult romance.
+The recent graduate and former Daily Bruin contributor published her debut novel, “Arya Khanna’s Bollywood Moment,” earlier this year while completing her bachelor’s degrees in English and political science with a minor in South Asian studies. 
+
+<https://dailybruin.com/2024/09/27/arushi-avachat-fuses-bollywood-rom-com-inspirations-into-debut-novel/>
+
+---
+
+## UCLA women’s soccer hosts Wisconsin for scoreless home opener
+
+date: 2024-09-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+Fall quarter is underway &#8211; and though the Bruins and Badgers stayed mute between the goalposts, UCLA students ensured the stands were anything but. 
+&#8220;We are starting school up, so it&#8217;s awesome to have the fans back,&#8221; said senior defender Lilly Reale. 
+
+<https://dailybruin.com/2024/09/27/ucla-womens-soccer-hosts-wisconsin-for-scoreless-home-opener/>
+
+---
+
+## Scouting report: UCLA football vs. Oregon
+
+date: 2024-09-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA football (1-2, 0-1 Big Ten) is heading back to the Rose Bowl to face a familiar foe &#8211; No. 8 Oregon (3-0). With the Ducks and Bruins now part of the Big Ten, one team will walk away with its first conference win Saturday night. 
+
+<https://dailybruin.com/2024/09/27/scouting-report-ucla-football-vs-oregon-2/>
+
+---
+
+## UCLA football faces offensive challenge ahead of Saturday’s matchup against Oregon
+
+date: 2024-09-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Big Ten cast novelty on all fronts for the Bruins – locations, opponents, travel and so forth.
+But Saturday’s battle will reintroduce familiarity after a 96-year legacy in the Pac-12 melted. 
+
+<https://dailybruin.com/2024/09/27/ucla-football-face-offensive-challenge-ahead-of-saturdays-matchup-against-oregon/>
 

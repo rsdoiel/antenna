@@ -1,11 +1,21 @@
 ---
 title: motorcycles
-updated: 2024-10-04 07:31:36
+updated: 2024-10-05 09:57:18
 ---
 
 # motorcycles
 
-(date: 2024-10-04 07:31:36)
+(date: 2024-10-05 09:57:18)
+
+---
+
+## BLM Set to Close Countless Off-Road Trails, Gives Shady Politicians What They Want
+
+date: 2024-10-04, from: Ride Apart, Electric Motorcycle News
+
+Good work, everyone!  
+
+<https://www.rideapart.com/news/736083/blm-bears-ears-national-monument-ohv-closures/>
 
 ---
 
@@ -476,4 +486,14 @@ date: 2024-09-29, from: Kickin the Tires blog
 By Seth Eggert, Associate Editor The short-run speed that Chandler Smith had in the NASCAR Xfinity Series race at Kansas Speedway wasn’t enough to hold off the competition in the&#8230;  
 
 <https://kickinthetires.net/nascar/chandler-smiths-short-run-speed-leaves-him-third-at-kansas/>
+
+---
+
+## Let The Paul Sr Vs Bearded Mechanic Vs Bikes & Beards Build-Off Begin!
+
+date: 2024-09-28, from: Ride Apart, Electric Motorcycle News
+
+It's all in good fun this time around, and they even have a chair-throwing contest. 
+
+<https://www.rideapart.com/news/735425/paul-sr-bikes-bearded-mechanic/>
 

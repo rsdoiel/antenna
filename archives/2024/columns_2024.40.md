@@ -1,11 +1,107 @@
 ---
 title: columns
-updated: 2024-10-04 07:31:31
+updated: 2024-10-05 09:57:12
 ---
 
 # columns
 
-(date: 2024-10-04 07:31:31)
+(date: 2024-10-05 09:57:12)
+
+---
+
+## Friday Squid Blogging: Map of All Colossal Squid Sightings
+
+date: 2024-10-04, updated: 2024-09-25, from: Bruce Schneier blog
+
+<p>Interesting <a href="https://x.com/TerribleMaps/status/1834623825914532209">map</a>, from <a href="https://nora.nerc.ac.uk/id/eprint/518000/">this paper</a>.</p>
+<p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>
+ 
+
+<https://www.schneier.com/blog/archives/2024/10/friday-squid-blogging-map-of-all-colossal-squid-sightings.html>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-04, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/02/13/commanderDataStarTrek.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I think a lot of confusion about AI products comes from the name. It's not clear what intelligence in humans is or how it works. We just believe it exists. So then the question is, can machines do the same thing? The truth is no one knows. It could be that human intelligence, once we figure out what it is, will be as trivial as they tell us the AI "intelligence" is. So if you're trying to make sense of it, or if the idea is offensive, try pretending that "intelligence" was "pomegranate" or "cauliflower" -- these are two terms <a href="https://www.youtube.com/watch?v=8JKoFCUaUbY">John Lennon</a> suggested George Harrison use in place of words in <a href="https://genius.com/The-beatles-something-lyrics">lyrics</a> he hasn't come up with. Say ChatGPT is "Artificial Cauliflower" and that should be less offensive, yes? It would make as much sense as calling it intelligence. On the other hand, conversation with my favorite Artificial Cauliflower app does feel pretty much exactly like conversing with a human. A very patient and very knowledgeable and intelligent (whatever that means) but not infallible human. 
+
+<http://scripting.com/2024/10/04.html#a190204>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-04, from: Dave Winer's Scripting News)
+
+An idea for <a href="https://www.threads.net/@gaberivera">Gabe</a> at <a href="https://www.techmeme.com/">Techmeme</a>. Here's a <a href="https://imgs.scripting.com/2024/10/04/techmemeStory.png">screen shot</a> of a <a href="https://www.techmeme.com/241004/p4#a241004p4">story</a> on Techmeme. I don't have time to click on each of the links, but a machine can. I would love to get a AI-generated summary of all the links, the range or reactions, or a consensus if one has emerged. 
+
+<http://scripting.com/2024/10/04.html#a190037>
+
+---
+
+## October 3, 2024
+
+date: 2024-10-04, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/october-3-2024-b57>
+
+---
+
+## Why Is Jack Smith’s Unsealed Motion, Outlining Trump’s Criminal Actions to Overturn the 2020 Election, Not the Top Story?
+
+date: 2024-10-04, updated: 2024-10-05, from: Daring Fireball
+
+ 
+
+<https://politicalwire.com/2024/10/03/why-is-this-not-the-top-story/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-10-04, from: Miguel de Icaza Mastondon feed)
+
+<p>Another post from Laura, I love her:</p><p> <a href="https://www.normalisland.co.uk/p/israel-says-irans-attack-on-its-air" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">normalisland.co.uk/p/israel-sa</span><span class="invisible">ys-irans-attack-on-its-air</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/113250292505949336>
+
+---
+
+## MLB Sold Ads on Players’ Batting Helmets for the Postseason
+
+date: 2024-10-04, updated: 2024-10-04, from: Daring Fireball
+
+ 
+
+<https://www.mlb.com/press-release/press-release-strauss-partners-with-mlb-in-new-international-sponsorship-pact-to-become-first-brand-partner-on-mlb-and-minor-league-baseball-batting-helmets-in-the-us>
+
+---
+
+##  Ran across this book in the bookstore recently and it looked great:... 
+
+date: 2024-10-04, updated: 2024-10-04, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/0045382-ran-across-this-book-in>
+
+---
+
+## Hodinkee Sold to Watches of Switzerland
+
+date: 2024-10-04, updated: 2024-10-04, from: Daring Fireball
+
+ 
+
+<https://www.nytimes.com/2024/10/04/fashion/hodinkee-sale-watches-of-switzerland.html>
+
+---
+
+##  Music By John Williams 
+
+date: 2024-10-04, updated: 2024-10-04, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/music-by-john-williams>
 
 ---
 
@@ -13,17 +109,17 @@ updated: 2024-10-04 07:31:31
 
 date: 2024-10-04, from: Dave Winer's Scripting News
 
-<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/10/04/caseyStengelMetsManager.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">We are a Mets family. Around the kitchen table in my childhood home, the default question was "What did the Mets do?" Before I was born we were a Brooklyn Dodgers family, always National League, but the Dodgers left shortly after I was born and the Mets came along when I was seven, and that was it for us. It was the one thing we all agreed on -- the Mets. Much later when my Mom and I would fight about something, a pretty regular thing -- I invented what I called Shea Stadium Rules, which meant that a disagreement could be tabled when we remember that underneath everything we are true Mets fans, and ultimately Mets fans can find something to agree on -- that rain or shine and there was plenty of rain, we always stood with our team. A deeper truth of the Mets was we didn't really mind when they lost. Because underneath it all at a whole other level, the Mets have a <a href="http://scripting.com/2018/06/24/181734.html">philosophy</a> that is strong, 365 days a year, 24 hours a day, and every minute of every day. We are the Mets and that's all you need to know. </p>
-<p>Anyway, last night it wasn't lookin good. It was a winner-take-all game with the hated (for now) Milwaukee Brewers. We hated them because it looked like they were going to end the Mets season in the first round of the playoffs. I was getting ready to take off my Mets cap for the year, and put on my Knicks cap, when Lindor walked, Nimmo singled, and then with runners on first and third and one out, Pete Alonso came to bat. He's been cold all year. I hoped for a base hit or at least a long sacrifice fly to bring in the runner on third. I couldn't watch but forced myself to. And then <b>it happened</b>. </p>
-<p>We who have been joined at the heart to this team and have been through it all, have come to expect failure, but sometimes winning happens, as it did last night. A big swing. The bat connects. Oh please let it land anywhere but the glove of a Brewer, and then all of a sudden Alonso is jogging around the bases, and delirium takes over, in the living room of my mountain home and everywhere Mets fans were at that fateful hour. Here we go! It looks good. </p>
-<p>We figured at that point they might as well just retire the side, but the Metsies, who Casey Stengel, the first manager of the team asked "Can't anyone play this stinkin game!" (as he reviewed the Mets dugout bench) -- brought in another run, which it turns out we didn't need. </p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/10/04/caseyStengelMetsManager.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">We are a Mets family. Around the kitchen table in my childhood home, the default question was "What did the Mets do?" Before I was born we were a Brooklyn Dodgers family, always National League, but the Dodgers left shortly after I was born and the Mets came along when I was seven, and that was it for us. It was the one thing we all agreed on -- the Mets. Much later when my Mom and I would fight about something, a pretty regular thing -- I invented what I called <a href="https://hello.typepad.com/hello/2009/11/shea-stadium-rules.html">Shea Stadium Rules</a>, which meant that a disagreement could be tabled when we remember that underneath everything we are true Mets fans, and ultimately Mets fans can find something to agree on -- that rain or shine and there was plenty of rain, we always stood with our team. A deeper truth of the Mets was we didn't really mind when they lost. Because underneath it all at a whole other level, the Mets have a <a href="http://scripting.com/2018/06/24/181734.html">philosophy</a> that is strong. We are the Mets and that's all you need to know. </p>
+<p>Anyway, last night it wasn't lookin good. It was a winner-take-all game with the hated (for now) Milwaukee Brewers. We hated them because it looked like they were going to end the Mets season in the first round of the playoffs. I was getting ready to take off my Mets cap for the year, and put on my Knicks cap, when Lindor walked, then Nimmo singled, and with runners on first and third and one out, Pete Alonso comes to the plate. He's been cold all year. I hoped for a base hit or at least a long sacrifice fly to bring in the runner on third. I couldn't watch but forced myself to. And then <b>it happened</b>. </p>
+<p>We who have been joined at the heart to this team and have been through it all, have come to expect failure, but sometimes winning happens, as it did last night. A big swing. The bat connects. Oh please let it land anywhere but the glove of a Brewer, and then all of a sudden Alonso is jogging around the bases, and delirium takes over, in the living room of my mountain home and everywhere Mets fans were at that fateful hour. </p>
+<p>We figured at that point they might as well just retire the side, but the Metsies, who Casey Stengel, the first manager asked "Can't anyone play this stinkin game!" -- brought in another run, which it turns out we didn't need. </p>
 <p>The Brewers were overwhelmed. They tried to score in the bottom of the ninth but the Mets <a href="https://www.google.com/search?q=site%3Ascripting.com+mets+philosophy">philosophy</a> was too strong.</p>
-<p>It's like everyAround the kitchen table in my childhood home, the default question was "What did the Mets do?"  baseball kid's fantasy -- the count is 3 and 2 ,the team's back is to the wall, up comes the slugger and he hits it <b>out of the park</b> and the team emerges victorious and the young person's fantasy saves the day. We've all been there, many times. Last night we got to live it, again, this time for real. </p>
+<p>It's like every baseball kid's fantasy -- the count is 3 and 2 ,the team's back is to the wall, up comes the slugger, the crowd is silent and then he hits it <b>out of the park</b> and the team emerges victorious and the young person's fantasy saves the day. We've all been there, many times. Last night we got to live it, again, this time for real. </p>
 <p>And now we go to Philadelphia to give them a proper dose of New York love. </p>
 <p>Meet the Mets meet the Mets, step right up and greet the Mets, etc. </p>
 <p>Game 1 of the NLDS begins tomorrow at 4PM. Good times will be had by all (except Philadelphia fans of course).</p>
-<p>PS: This wasn't Mookie at bat in game 6 of the 1986 World Series, but it was along those lines of improbability.</p>
-<p>PPS: I love that they give a readout on screen of the probability of each team winning. At the top of the ninth, before all this michegas, the Mets had only a 6% chance of winning. I think every game should come with a graph over time of this stat. It would be an emotional map, much more interesting than all the other stats.</p>
+<p>PS: This wasn't <a href="http://scripting.com/stories/2007/10/08/baseballCanTeachUsAboutLif.html#p9">Mookie</a> in <a href="https://baseballhall.org/discover-more/stories/whole-new-ballgame/new-york-mets-1986-world-series">game 6 </a>of the 1986 World Series, but it was along those lines of improbability.</p>
+<p>PPS: I love that they give a realtime readout on screen of the probability of each team winning. At the top of the ninth, before all the michegas, the Mets had only a 6% chance of winning. I think every game should come with a graph over time of this stat. It would be an emotional map, much more interesting than the other stats.</p>
  
 
 <http://scripting.com/2024/10/04/132351.html?title=howAboutThoseMets>
@@ -1811,6 +1907,16 @@ date: 2024-10-01, updated: 2024-09-27, from: Bruce Schneier blog
 
 ---
 
+## Terminal colours are tricky
+
+date: 2024-10-01, updated: 2024-10-01, from: Julia Evans blog
+
+ 
+
+<https://jvns.ca/blog/2024/10/01/terminal-colours/>
+
+---
+
 ## The single most important thing to listen for in tonight's debate
 
 date: 2024-10-01, from: Robert Reich's blog
@@ -1878,6 +1984,16 @@ date: 2024-10-01, updated: 2024-10-01, from: Daring Fireball
  
 
 <https://om.co/2024/09/10/the-iphone-content-machine-a-visual-essay/>
+
+---
+
+## [Sponsor] WorkOS
+
+date: 2024-10-01, updated: 2024-10-01, from: Daring Fireball
+
+ 
+
+<https://workos.com/?utm_source=daringfireball&utm_medium=display&utm_campaign=q12024>
 
 ---
 
@@ -2385,4 +2501,154 @@ date: 2024-09-29, from: Om Malik blog
 If you have a long career in media and writing in public like I have, you’re likely to make some mistakes. And you’re going to have some regrets. One of those was a story I wrote about Path, a company started by Dave Morin. I was critical, harsh and unkind to the company and its &#8230; 
 
 <https://om.co/2024/09/28/lessons-from-mkbhds-app-brouhaha/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-09-28, from: Miguel de Icaza Mastondon feed)
+
+<p>Part 3</p> 
+
+<https://mastodon.social/@Migueldeicaza/113217537697420676>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-09-28, from: Miguel de Icaza Mastondon feed)
+
+<p>Part 2</p> 
+
+<https://mastodon.social/@Migueldeicaza/113217532360330739>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-09-28, from: Miguel de Icaza Mastondon feed)
+
+<p>Some observations from Twitter:</p> 
+
+<https://mastodon.social/@Migueldeicaza/113217525459817345>
+
+---
+
+## Relay for St. Jude Is Approaching $1 Million
+
+date: 2024-09-28, updated: 2024-10-01, from: Daring Fireball
+
+ 
+
+<https://relay.experience.stjude.org/>
+
+---
+
+## Election Countdown, 38 Days to Go: What Is Wrong With Our Leading Paper?
+
+date: 2024-09-28, from: James Fallows, Substack
+
+A view of public life as political circus. And the ongoing damage that view does. 
+
+<https://fallows.substack.com/p/election-countdown-38-days-to-go>
+
+---
+
+## Tom’s Guide iPhone 16 Battery Life Testing Shows Impressive Year-Over-Year Gains
+
+date: 2024-09-28, updated: 2024-09-28, from: Daring Fireball
+
+ 
+
+<https://www.tomsguide.com/phones/iphones/iphone-16-battery-life-results-are-in-and-we-can-hardly-believe-our-eyes>
+
+---
+
+## WSJ: ‘Apple Is No Longer in Talks to Join OpenAI Investment Round’
+
+date: 2024-09-28, updated: 2024-09-28, from: Daring Fireball
+
+ 
+
+<https://www.wsj.com/tech/apple-no-longer-in-talks-to-join-openai-investment-round-e3be3e66>
+
+---
+
+## OK Kids, You Get to Vote
+
+date: 2024-09-28, from: Margaret Atwood's substack
+
+Right here on this website. But not for President. 
+
+<https://margaretatwood.substack.com/p/ok-kids-you-get-to-vote>
+
+---
+
+## September 27, 2024
+
+date: 2024-09-28, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/september-27-2024-aab>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-09-28, from: Dave Winer's Scripting News)
+
+I should put a dollar in a jar every time ChatGPT saves my ass. I thought I had boxed myself into a corner regarding the hash value for a web page, then I asked a question I wasn't sure there was an answer to. "In JS in the browser, I have the name of an anchor element and I want the browser to vertically scroll to it," to which it said: "Here's an example." 
+
+<http://scripting.com/2024/09/28.html#a151322>
+
+---
+
+## Making the social web really work
+
+date: 2024-09-28, from: Dave Winer's Scripting News
+
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2019/11/14/weTryHarder.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Molly White wrote a <a href="https://www.citationneeded.news/posse/">great piece</a> on the problem we're all facing now that so many of us are trying to maintain a presence on a few different social web sites. She describes a situation I've been writing about since the mid-late 00s, with the inception of Twitter and Google Reader, two phenoms that had very different ideas of what writing on the web should be. That's where the problems started.</p>
+<p>Before that we had a cross-posting API that was broadly supported and really worked, based on <a href="https://cyber.harvard.edu/rss/rss.html#hrelementsOfLtitemgt">RSS 2.0's idea</a> of what a post is. It's called the <a href="https://xmlrpc.com/metaweblog">Metaweblog API</a>, and it's still supported by <a href="https://codex.wordpress.org/XML-RPC_MetaWeblog_API">WordPress</a> and probably a few other social web sites (I take a broad view of what the social web is and definitely include WordPress and other blogging tools. Based on Molly's piece, I expect she would see it that way too.)</p>
+<p>The first approach I took to this problem was to cross-post as Molly describes, to work around the limits in software. But the limits will creep into your writing, since you know that people who read your stuff on Bluesky, Threads or Twitter won't see the links, you'll be reluctant to them in your writing. I encountered this problem in the mid-teens when I was trying to cross-post to Medium and Facebook, one supported links and basic HTML, the other didn't. Eventually before <a href="http://scripting.com/2017/05/05/iWantMyOldBlogBack.html">giving up</a> on the POSSE approach in 2017, I was barely using links at all. I was trying to keep four pieces of software happy and doing so made my writing suck.</p>
+<p>To get a handle on the problem, I created a list of features I felt all social web platforms should support and published it at <a href="https://textcasting.org/">textcasting.org</a>. Ultimately I think we're going to have to make a platform that implements a reasonable subset of this functionality, if only as a demo for the social web companies to show them what we want. There already are Mastodon forks that support some of the features (no character limit, Markdown support). </p>
+<p>I <a href="https://github.com/scripting/textcasting">published the code</a> I use to cross-post for my linkblog, that much does work quite well across the different platforms, and I'd be happy to operate a server for people to experiment with. The <a href="https://github.com/scripting/textcasting/blob/main/textcasting.js">server software</a> runs in Node.js, is already open source. It has a simple <a href="https://github.com/scripting/textcasting/tree/main/plugins/platforms">plug-in architecture</a> so support for new platforms can be added without modifying the server. </p>
+<p>But my main point is this -- let's <a href="http://scripting.com/2024/04/16/140810.html">work together</a>. We really aren't very good in tech at building on each others' work, that's why we get so stuck. I have a lot to say about that too, I've been writing about it on my blog for many many years. </p>
+<p>And thanks for picking up this thread. It's one of the two big threads -- along with AI -- how are we going to make writing on the web work.</p>
+<p>PS: I started writing this in Mastodon, but obviously I had to fall back to my blog, because there was no room and I needed to use links or why bother. ;-)</p>
+ 
+
+<http://scripting.com/2024/09/28/132152.html?title=makingTheSocialWebReallyWork>
+
+---
+
+## 37 Days Left in the Garden of Good and Evil: The Coffee Klatch for September 28, 2024
+
+date: 2024-09-28, from: Robert Reich's blog
+
+With Michael Lahanas-Calder&#243;n and Yours Truly Robert Reich 
+
+<https://robertreich.substack.com/p/the-home-s-t-r-e-t-c-h-the-coffee>
+
+---
+
+## September 27, 2024
+
+date: 2024-09-28, from: Heather Cox Richardson blog
+
+Last night, at about 11:10 local time, Hurricane Helene made landfall in the Big Bend area of Florida, where the state&#8217;s panhandle curves down toward the peninsula. 
+
+<https://heathercoxrichardson.substack.com/p/september-27-2024>
+
+---
+
+## Weeknotes: Sept. 21-27, 2024
+
+date: 2024-09-28, from: Tracy Durnell Blog
+
+Win of the week: finally got the contract for my new project, and got my insurance updated! Looking forward to: starting the project! Stuff I did: 3.5 hours consulting 3 hours business development and admin 45 minutes writing took one cat to the vet, always a stressful outing for the whole household 😑 more art [&#8230;] 
+
+<https://tracydurnell.com/2024/09/27/weeknotes-sept-21-27-2024/>
+
+---
+
+## The Great American Road Trip
+
+date: 2024-09-28, from: Tracy Durnell Blog
+
+A mention of electrifying &#8220;the great American road trip&#8221; threw me for a mental loop: does road tripping happen significantly more in America than other countries? 🤔 I could potentially see that being so, given our lack of long distance public transit, large geographic size spanning vast wild spaces, pretty extensive system of national parks, [&#8230;] 
+
+<https://tracydurnell.com/2024/09/27/the-great-american-road-trip/>
 
