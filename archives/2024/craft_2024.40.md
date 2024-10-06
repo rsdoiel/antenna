@@ -1,11 +1,21 @@
 ---
 title: craft
-updated: 2024-10-05 09:57:21
+updated: 2024-10-06 11:09:22
 ---
 
 # craft
 
-(date: 2024-10-05 09:57:21)
+(date: 2024-10-06 11:09:22)
+
+---
+
+## Come See the Chair Show on Nov. 23
+
+date: 2024-10-06, from: Lost Arg Press blog
+
+I’ve never shown my work in a gallery. I’ve been asked a few times, but my problem is this: I don’t want to give up 50 percent of the sales price to the gallery. I’d rather skip the glory of cheese and boxed wine in plastic cups and sell my work direct. But gallery shows... 
+
+<https://blog.lostartpress.com/2024/10/06/come-see-the-chair-show-on-nov-23/>
 
 ---
 

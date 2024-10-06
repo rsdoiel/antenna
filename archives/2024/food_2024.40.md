@@ -1,11 +1,145 @@
 ---
 title: food
-updated: 2024-10-05 09:57:20
+updated: 2024-10-06 11:09:22
 ---
 
 # food
 
-(date: 2024-10-05 09:57:20)
+(date: 2024-10-06 11:09:22)
+
+---
+
+## Cake Mix Cookie Bars
+
+date: 2024-10-06, from: Taste of Home
+
+Cake mix cookie bars have a scrumptious chocolate layer between two cookie layers made with cake mix. It's a simple and speedy recipe when you want something baked, and you want it quick. 
+
+<https://www.tasteofhome.com/recipes/can-t-leave-alone-bars/>
+
+---
+
+## Jamaican Jerk Chicken: Hot And Richly Spiced
+
+date: 2024-10-06, from: Pepper Scale
+
+This big-hitter from Jamaica is powered by jerk seasoning — a vibrant blend of high-heat chilies, allspice, cinnamon, ginger, nutmeg, garlic, onions, and limes. Sweetened by caramel-y brown sugar, and darkened with salty soy, it pairs perfectly with delicately tender chicken. This Jamaican jerk chicken ... <p class="read-more-container"><a title="Jamaican Jerk Chicken: Hot And Richly Spiced" class="read-more button" href="https://pepperscale.com/jamaican-jerk-chicken/#more-85729" aria-label="Read more about Jamaican Jerk Chicken: Hot And Richly Spiced">Read more</a></p> 
+
+<https://pepperscale.com/jamaican-jerk-chicken/>
+
+---
+
+## Peri-Peri Chicken Livers: Deserving Of Top Billing
+
+date: 2024-10-06, from: Pepper Scale
+
+So much better when they’re not just the supporting act&#8230; Chicken livers with peri-peri peppers. Fab, right? But why not do them the justice they really deserve by highlighting them in a sensational main course. What’s so great about these spicy chicken livers? First, chicken ... <p class="read-more-container"><a title="Peri-Peri Chicken Livers: Deserving Of Top Billing" class="read-more button" href="https://pepperscale.com/peri-peri-chicken-livers/#more-79272" aria-label="Read more about Peri-Peri Chicken Livers: Deserving Of Top Billing">Read more</a></p> 
+
+<https://pepperscale.com/peri-peri-chicken-livers/>
+
+---
+
+## Spicy Paloma Cocktail
+
+date: 2024-10-06, from: Pepper Scale
+
+Tired of leaning on the margarita when thinking of spicy Mexican cocktails? Have you tried a spicy paloma? It&#8217;s grapefruit-based, like a greyhound cocktail, with the tangy lime of the margarita. It&#8217;s tasty, and one of the most popular cocktails in Mexico. In the U.S., ... <p class="read-more-container"><a title="Spicy Paloma Cocktail" class="read-more button" href="https://pepperscale.com/spicy-paloma-cocktail/#more-8312" aria-label="Read more about Spicy Paloma Cocktail">Read more</a></p> 
+
+<https://pepperscale.com/spicy-paloma-cocktail/>
+
+---
+
+## Larb Isaan: A Truly Tremendous Salad
+
+date: 2024-10-06, from: Pepper Scale
+
+Hot, sharp, salty, sour, and nutty. They’re the cornerstone flavors in larb isaan, a super-savory, stylish salad from Laos and Thailand. Our larb recipe features diced chicken cooked with Thai bird’s eye chilies, toasted rice, lime juice, red onion, and fish sauce. Tabbouleh, Waldorf, Nicoise, ... <p class="read-more-container"><a title="Larb Isaan: A Truly Tremendous Salad" class="read-more button" href="https://pepperscale.com/larb-isaan/#more-87794" aria-label="Read more about Larb Isaan: A Truly Tremendous Salad">Read more</a></p> 
+
+<https://pepperscale.com/larb-isaan/>
+
+---
+
+## Sticky Korean Pork Chops
+
+date: 2024-10-06, from: Pepper Scale
+
+Korea has some of the most flavorsome food around, and these pork chops are no exception.&#160;They are so simple to prepare ahead of time. And when you’re ready, it’s only ten minutes to cook. They are perfect for an quick-prep evening meal after a long ... <p class="read-more-container"><a title="Sticky Korean Pork Chops" class="read-more button" href="https://pepperscale.com/sticky-korean-pork-chops/#more-78945" aria-label="Read more about Sticky Korean Pork Chops">Read more</a></p> 
+
+<https://pepperscale.com/sticky-korean-pork-chops/>
+
+---
+
+## Coffee Coffee Coffee! Exquisite Selections From Our Curated Partners
+
+date: 2024-10-06, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_blank">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_blank">http://sprudge.com</a>. This is the RSS feed version. We get asked by friends and family where to buy coffee a lot. It&#8217;s a tough question! It&#8217;s easy to lose track of just how many incredible, fresh, vibrant coffees [&#8230;] 
+
+<https://sprudge.com/coffee-coffee-coffee-exquisite-selections-from-our-curated-partners-256334.html>
+
+---
+
+## 50 Essential Thanksgiving Recipes
+
+date: 2024-10-06, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2017/10/50-Essential-Thanksgiving-Recipes.jpg"/></div>
+<p>The 50 top recipes for the best Thanksgiving meal; from breakfast, to snacks, and the turkey, to side dishes and dessert! I can hardly believe that it&#8217;s already that time of year but the holidays are upon us starting with Thanksgiving which is being celebrated next weekend in Canada! Of course that means that it...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/50-thanksgiving-recipes/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/50-thanksgiving-recipes/">50 Essential Thanksgiving Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<https://www.closetcooking.com/50-thanksgiving-recipes/>
+
+---
+
+## Sriracha Mac And Cheese
+
+date: 2024-10-05, from: Pepper Scale
+
+Rooster sauce and cheese? Yes please. The spicy garlic flavor of Sriracha Sauce pairs nicely with cheesy mac and cheese. This recipe double dips on Sriracha: The Rooster Sauce is in the cheese mixture and the sauce (or Sriracha powder) is sprinkled atop the mac ... <p class="read-more-container"><a title="Sriracha Mac And Cheese" class="read-more button" href="https://pepperscale.com/sriracha-mac-and-cheese/#more-6847" aria-label="Read more about Sriracha Mac And Cheese">Read more</a></p> 
+
+<https://pepperscale.com/sriracha-mac-and-cheese/>
+
+---
+
+## Cheddar Old Bay Biscuits
+
+date: 2024-10-05, from: Pepper Scale
+
+We are suckers for Bisquick biscuits. They are so easy to make, no matter what the recipe, and so homey good. But, of course, any food &#8211; no matter how delicious&#160;it already is &#8211; is just made better with a dash (or three) of Old ... <p class="read-more-container"><a title="Cheddar Old Bay Biscuits" class="read-more button" href="https://pepperscale.com/cheddar-old-bay-biscuits/#more-9868" aria-label="Read more about Cheddar Old Bay Biscuits">Read more</a></p> 
+
+<https://pepperscale.com/cheddar-old-bay-biscuits/>
+
+---
+
+## Spiced Plum And Amaretti Crumble
+
+date: 2024-10-05, from: Pepper Scale
+
+Make it hot or not, this sweet and spiced plum and amaretti crumble will have you coming back for more. The amaretti biscuits provide delicious crunchiness, with that tasty amaretto flavor. It&#8217;s a perfect culinary foil to the sweet and tangy plumb flavor. Plus, there&#8217;s ... <p class="read-more-container"><a title="Spiced Plum And Amaretti Crumble" class="read-more button" href="https://pepperscale.com/spiced-plum-and-amaretti-crumble/#more-86564" aria-label="Read more about Spiced Plum And Amaretti Crumble">Read more</a></p> 
+
+<https://pepperscale.com/spiced-plum-and-amaretti-crumble/>
+
+---
+
+## Homemade Louisiana Hot Sauce
+
+date: 2024-10-05, from: Pepper Scale
+
+All it takes is three ingredients. That&#8217;s the beauty of a traditional homemade Louisiana hot sauce. It&#8217;s so simple: chili peppers, vinegar, and salt. Hot, tangy, and salty. It&#8217;s the type of sauce that works well with wings, Cajun cuisine, fried foods, sandwiches, and salads. ... <p class="read-more-container"><a title="Homemade Louisiana Hot Sauce" class="read-more button" href="https://pepperscale.com/homemade-louisiana-hot-sauce/#more-5370" aria-label="Read more about Homemade Louisiana Hot Sauce">Read more</a></p> 
+
+<https://pepperscale.com/homemade-louisiana-hot-sauce/>
+
+---
+
+## Buckwheat Soba Noodles
+
+date: 2024-10-05, from: Pepper Scale
+
+Buckwheat soba noodles have a unique, earthy flavor that is both comforting and wholesome, making them a delightful choice for a quick yet satisfying meal. They are delicious on their own for a vegetarian side or entrée, or, if you prefer, add chicken or steak ... <p class="read-more-container"><a title="Buckwheat Soba Noodles" class="read-more button" href="https://pepperscale.com/buckwheat-soba-noodles/#more-97328" aria-label="Read more about Buckwheat Soba Noodles">Read more</a></p> 
+
+<https://pepperscale.com/buckwheat-soba-noodles/>
 
 ---
 
@@ -1325,154 +1459,4 @@ date: 2024-09-29, from: Taste of Home
  
 
 <https://www.tasteofhome.com/article/bobby-flay-greenpan-cookware/>
-
----
-
-## The Cheapest Meal Delivery Services That Are Actually Worth Ordering 2024
-
-date: 2024-09-28, from: Bon Appetet
-
-According to Bon Appetit editors and contributors who have tried them at home. 
-
-<https://www.bonappetit.com/story/the-cheapest-meal-delivery-services>
-
----
-
-## Adobo de Chanco: Pepper-Powered Peruvian Pork
-
-date: 2024-09-28, from: Pepper Scale
-
-“Don’t spoil it with cutlery. This is party pork!” That’s the advice from a beaming buddy of mine about adobo de chanco — slow braised pork shoulder, served with ladles of bread-dunking, fiery sauce, and buttered corn. “This Peruvian pork is for pure pleasure, please, ... <p class="read-more-container"><a title="Adobo de Chanco: Pepper-Powered Peruvian Pork" class="read-more button" href="https://pepperscale.com/adobo-de-chanco/#more-85923" aria-label="Read more about Adobo de Chanco: Pepper-Powered Peruvian Pork">Read more</a></p> 
-
-<https://pepperscale.com/adobo-de-chanco/>
-
----
-
-## Algerian Spicy Chicken And Chickpea Tagine
-
-date: 2024-09-28, from: Pepper Scale
-
-Hotly spiced with dersa, this Algerian spicy chicken and chickpea tagine is a good-looking, sunshiny treat that’s surprisingly easy to make. Dersa? That’s an Algerian, hot-as-you-like combo of ground bird’s eye chili, paprika, cumin, and black pepper. It’s all mixed together with garlic, lemon juice, ... <p class="read-more-container"><a title="Algerian Spicy Chicken And Chickpea Tagine" class="read-more button" href="https://pepperscale.com/algerian-spicy-chicken-and-chickpea-tagine/#more-84990" aria-label="Read more about Algerian Spicy Chicken And Chickpea Tagine">Read more</a></p> 
-
-<https://pepperscale.com/algerian-spicy-chicken-and-chickpea-tagine/>
-
----
-
-## 31 Chocolate Cookie Recipes, Emphasis on Chocolate
-
-date: 2024-09-28, from: Bon Appetet
-
-Like low-fuss slice-and-bakes, chocolate-filled macaroons, cheesecake brownie cookies, and more. 
-
-<https://www.bonappetit.com/gallery/types-of-chocolate-cookie-recipes>
-
----
-
-## Bobotie: Cape Town’s Savory, Spicy Specialty
-
-date: 2024-09-28, from: Pepper Scale
-
-Fired with chilies, generously spiced ground beef gets sweetened with raisins, chutney, and almonds, and baked beneath a custardy, egg-and-milk topping. That’s bobotie. This unusual, richly flavored delight is a mega South African favorite that’s grand for special occasions and celebrations. If you’re Italian, this ... <p class="read-more-container"><a title="Bobotie: Cape Town’s Savory, Spicy Specialty" class="read-more button" href="https://pepperscale.com/bobotie/#more-86293" aria-label="Read more about Bobotie: Cape Town’s Savory, Spicy Specialty">Read more</a></p> 
-
-<https://pepperscale.com/bobotie/>
-
----
-
-## Spicy Chestnut Soup
-
-date: 2024-09-28, from: Pepper Scale
-
-What could be more perfect on a cold winter evening than a large bowl of spicy chestnut soup? This is a hearty bowl, with delicious chunky pieces of chestnut and the salty delight that is crushed bacon bits. It&#8217;s earthy, meaty, nutty, and fiery all ... <p class="read-more-container"><a title="Spicy Chestnut Soup" class="read-more button" href="https://pepperscale.com/spicy-chestnut-soup/#more-86081" aria-label="Read more about Spicy Chestnut Soup">Read more</a></p> 
-
-<https://pepperscale.com/spicy-chestnut-soup/>
-
----
-
-## Easy Pico De Gallo
-
-date: 2024-09-28, from: Pepper Scale
-
-Here&#8217;s an easy pico de gallo recipe that takes no time at all to make — from prep to table in under 20 minutes. That&#8217;s a lot of flavor in a little time. We love this salsa fresca as a spicy side (a great alternative to ... <p class="read-more-container"><a title="Easy Pico De Gallo" class="read-more button" href="https://pepperscale.com/easy-pico-de-gallo/#more-3767" aria-label="Read more about Easy Pico De Gallo">Read more</a></p> 
-
-<https://pepperscale.com/easy-pico-de-gallo/>
-
----
-
-## Chipotle Cocktail Sauce
-
-date: 2024-09-28, from: Pepper Scale
-
-Like a little smoky edge to your sauces? Don&#8217;t ignore what chipotle peppers can quickly bring to the table, particularly in simple ketchup-based sauces like cocktail sauce. This chipotle cocktail sauce brings plenty of horseradish spiciness but adds an earthy, smoky zip via chipotle in ... <p class="read-more-container"><a title="Chipotle Cocktail Sauce" class="read-more button" href="https://pepperscale.com/chipotle-cocktail-sauce/#more-32938" aria-label="Read more about Chipotle Cocktail Sauce">Read more</a></p> 
-
-<https://pepperscale.com/chipotle-cocktail-sauce/>
-
----
-
-## Bloody Mary Ketchup
-
-date: 2024-09-28, from: Pepper Scale
-
-This one is a no-brainer for Bloody Mary fans. Turn your classic ketchup into a zesty condiment version of the popular cocktail! It&#8217;s tangy, peppery, and fiery — like a good spicy Bloody Mary should be. This is a delicious traditional ketchup alternative for french ... <p class="read-more-container"><a title="Bloody Mary Ketchup" class="read-more button" href="https://pepperscale.com/bloody-mary-ketchup/#more-34563" aria-label="Read more about Bloody Mary Ketchup">Read more</a></p> 
-
-<https://pepperscale.com/bloody-mary-ketchup/>
-
----
-
-## The Most Popular Recipes of September 2024
-
-date: 2024-09-28, from: Bon Appetet
-
-One-pan salmon, pumpkin chiffon pie, and more. 
-
-<https://www.bonappetit.com/gallery/most-popular-recipes-september-2024>
-
----
-
-## Microwave Mashed Potatoes
-
-date: 2024-09-28, from: Taste of Home
-
-Perfect for busy weeknights or whenever you're craving comfort food without the fuss, these microwave mashed potatoes are quick, easy, and perfectly delicious. 
-
-<https://www.tasteofhome.com/recipes/microwave-mashed-potatoes/>
-
----
-
-## White Chocolate Ganache
-
-date: 2024-09-28, from: Taste of Home
-
-Using just two simple ingredients, this decadent white chocolate ganache is ideal for enjoying over fresh pastries, drizzled on top of your favorite cakes or pies or using as a dipping sauce when the mood strikes. 
-
-<https://www.tasteofhome.com/recipes/white-chocolate-ganache/>
-
----
-
-## Bison Burger
-
-date: 2024-09-28, from: Taste of Home
-
-This bison burger recipe have all of the flavor of your typical ground beef burger, but they're lighter and leaner. This recipe tops juicy ground bison with caramelized onions and melted Swiss cheese. 
-
-<https://www.tasteofhome.com/recipes/bison-burger/>
-
----
-
-## Lemon Zucchini Bread
-
-date: 2024-09-28, from: Taste of Home
-
-When you've got too much zucchini, it's time to make this lemon zucchini bread recipe. This produces two loaves that will feed several people, and the loaves freeze well, too. 
-
-<https://www.tasteofhome.com/recipes/lemon-zucchini-bread/>
-
----
-
-## Smoked Gouda Mac and Cheese
-
-date: 2024-09-28, from: Taste of Home
-
-Elevate your typical mac and cheese with this smoked gouda mac and cheese recipe. Made with three types of cheeses, a creamy milk roux and plenty of spices for added flavor, this recipe is a total winner. 
-
-<https://www.tasteofhome.com/recipes/smoked-gouda-mac-and-cheese/>
 

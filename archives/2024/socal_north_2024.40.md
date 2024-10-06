@@ -1,11 +1,43 @@
 ---
 title: socal north
-updated: 2024-10-05 09:57:07
+updated: 2024-10-06 11:09:08
 ---
 
 # socal north
 
-(date: 2024-10-05 09:57:07)
+(date: 2024-10-06 11:09:08)
+
+---
+
+## How LA became a donut town and the man who started it all
+
+date: 2024-10-06, updated: 2024-10-06, from: The LAist
+
+The story of Ted Ngoy and the community of Cambodian refugees behind every donut. 
+
+<https://laist.com/news/la-history/how-la-became-a-donut-town-and-the-man-who-started-it-all>
+
+---
+
+## Oh, nuts! Wildfire smoke harms a crucial part of California’s economy, study says
+
+date: 2024-10-06, updated: 2024-10-06, from: The LAist
+
+UC Davis researchers have found that 2020’s megafires meant Central Valley nut orchards produced a smaller crop the following year. 
+
+<https://laist.com/news/climate-environment/wildfire-smoke-harms-a-crucial-part-of-californias-economy-study>
+
+---
+
+## Adopt, Don’t Shop During Pet Adoption Week!
+
+date: 2024-10-05, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin According to the American Society of the Prevention of Cruelty to Animals, 6.3 million lost or stray animals enter animal care centers across the nation every year. Rather than purchasing your pet from a breeder, adopting from a care center truly saves a life. Living in Santa Clarita, we’re fortunate [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/10/05/adopt-dont-shop-during-pet-adoption-week/">Adopt, Don’t Shop During Pet Adoption Week!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/10/05/adopt-dont-shop-during-pet-adoption-week/>
 
 ---
 
@@ -668,48 +700,4 @@ date: 2024-09-30, updated: 2024-09-30, from: The LAist
 Plonts, a new plant-based cheese, is taking an irreverent approach to swaying consumers. 
 
 <https://laist.com/news/climate-environment/vegan-cheese-brand>
-
----
-
-## GOING BANANAS AT PORT OF HUENEME!
-
-date: 2024-09-28, from: Port Hueneme
-
-<p>11th Annual BananaFest Celebrating a Diverse Working Port Themed “Charging Forward to a Zero Emission Future” &#160; Download Press Release Contact: Letitia Austin Public and Gov’t Relations Manager Laustin@Portofh.org &#160;&#8230;</p>
-<p>The post <a href="https://www.portofhueneme.org/banana-festival-2024/">GOING BANANAS AT PORT OF HUENEME!</a> appeared first on <a href="https://www.portofhueneme.org">The Port of Hueneme</a>.</p>
- 
-
-<https://www.portofhueneme.org/banana-festival-2024/>
-
----
-
-## Active Living in Santa Clarita
-
-date: 2024-09-28, from: City of Santa Clarita
-
-<p>By City Manager Ken Striplin “Exercise is the key, not only to physical health, but to peace of mind.” – Nelson Mandela After opening Skyline Ranch Park earlier this year, and having our official groundbreaking ceremonies for the future Rink Sports Pavilion and upgrades to David March Park, there are so many recreational opportunities in [&#8230;]</p>
-<p>The post <a href="https://santaclarita.gov/blog/2024/09/28/active-living-in-santa-clarita/">Active Living in Santa Clarita</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<https://santaclarita.gov/blog/2024/09/28/active-living-in-santa-clarita/>
-
----
-
-## Angelenos take on the (seemingly) impossible task of controlling Tree of Heaven
-
-date: 2024-09-28, updated: 2024-09-30, from: The LAist
-
-Earlier this month, we did a story on the die-hard Tree of Heaven with surprising resonance. 
-
-<https://laist.com/news/climate-environment/angelenos-take-on-the-seemingly-impossible-task-of-controlling-tree-of-heaven>
-
----
-
-## Here’s how the ‘Old Glory’ oak tree historic landmark came to be
-
-date: 2024-09-28, updated: 2024-09-28, from: The LAist
-
-The roughly 400-year-old tree was slated to be removed for a proposed housing development more than 20 years ago. 
-
-<https://laist.com/news/climate-environment/heres-how-the-old-glory-oak-tree-historic-landmark-came-to-be>
 

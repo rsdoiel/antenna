@@ -1,11 +1,94 @@
 ---
 title: home
-updated: 2024-10-05 09:57:16
+updated: 2024-10-06 11:09:17
 ---
 
 # home
 
-(date: 2024-10-05 09:57:16)
+(date: 2024-10-06 11:09:17)
+
+---
+
+## How to Identify and Treat 9 Dracaena Diseases
+
+date: 2024-10-06, from: The Gardener's Path
+
+<p>Dracaena are tough, easygoing plants that rarely suffer from diseases. But if your plants are showing signs of problems, you need to figure out the cause quickly. There are a number of diseases that can affect dracaena and some can kill the plant. Learn how to identify and treat nine dracaena diseases in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/houseplants/dracaena-diseases/">How to Identify and Treat 9 Dracaena Diseases</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/plants/houseplants/dracaena-diseases/>
+
+---
+
+## 81 Popular Types of White Flowers (Pictures and Names)
+
+date: 2024-10-06, from: Yard Life blog
+
+<p>In the world of plants, white flowers not only possess a pure beauty but also symbolize many profound meanings. This ... </p>
+<p class="read-more-container"><a title="81 Popular Types of White Flowers (Pictures and Names)" class="read-more button" href="https://ownyardlife.com/81-popular-types-of-white-flowers-pictures-and-names/#more-20276" aria-label="Read more about 81 Popular Types of White Flowers (Pictures and Names)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/81-popular-types-of-white-flowers-pictures-and-names/">81 Popular Types of White Flowers (Pictures and Names)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/81-popular-types-of-white-flowers-pictures-and-names/>
+
+---
+
+## How to Make Homemade Pumpkin Puree (and Freeze It)
+
+date: 2024-10-05, from: Homestead and Chil
+
+<p>Come learn how to easily make your own homemade pumpkin puree. It's so much more fresh and flavorful than the canned stuff! We'll also talk about how to freeze pumpkin puree, and the numerous ways you can use it. Make this now while pumpkins are in season, and enjoy pumpkin vibes for many months ahead! </p>
+<p>The post <a href="https://homesteadandchill.com/homemade-pumpkin-puree/">How to Make Homemade Pumpkin Puree (and Freeze It)</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<https://homesteadandchill.com/homemade-pumpkin-puree/>
+
+---
+
+## Everything You Ever Wanted to Know About Ordering Caviar (But Were Too Embarrassed to Ask)
+
+date: 2024-10-05, from: Sunset Magazine - Living in the West
+
+Caviar can be intimidating, and ordering caviar even more so. An expert shares the best tips for ordering caviar. 
+
+<https://www.sunset.com/food-wine/restaurants/how-to-order-caviar>
+
+---
+
+## The Recipes You Should Be Cooking in October
+
+date: 2024-10-05, from: Sunset Magazine - Living in the West
+
+Fall is in full swing in October, so it's time to take advantage of all the seasonal produce. We've got the fall recipes to make this month. 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/october-recipes-2024>
+
+---
+
+## Does Rubbing Alcohol Kill Bed Bugs? All You Need to Know
+
+date: 2024-10-05, from: Yard Life blog
+
+<p>Bed bugs are notorious for their persistence and the difficulties involved in eradicating them. Many homeowners, out of desperation, turn ... </p>
+<p class="read-more-container"><a title="Does Rubbing Alcohol Kill Bed Bugs? All You Need to Know" class="read-more button" href="https://ownyardlife.com/does-rubbing-alcohol-kill-bedbugs-everything-you-need-to-know/#more-20259" aria-label="Read more about Does Rubbing Alcohol Kill Bed Bugs? All You Need to Know">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/does-rubbing-alcohol-kill-bedbugs-everything-you-need-to-know/">Does Rubbing Alcohol Kill Bed Bugs? All You Need to Know</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/does-rubbing-alcohol-kill-bedbugs-everything-you-need-to-know/>
+
+---
+
+## 37 Tiny Red Spider Species (Pictures and Identification)
+
+date: 2024-10-05, from: Yard Life blog
+
+<p>Tiny red spiders are fascinating to both nature lovers and casual viewers in the vast world of arachnids. These colorful ... </p>
+<p class="read-more-container"><a title="37 Tiny Red Spider Species (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/37-tiny-red-spider-species-pictures-and-identification/#more-20213" aria-label="Read more about 37 Tiny Red Spider Species (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/37-tiny-red-spider-species-pictures-and-identification/">37 Tiny Red Spider Species (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/37-tiny-red-spider-species-pictures-and-identification/>
 
 ---
 
@@ -583,16 +666,6 @@ date: 2024-10-01, from: Family Handyman Blog
 
 ---
 
-## Everything You Wanted to Know About Ordering Caviar (But Were Too Embarrassed to Ask)
-
-date: 2024-10-01, from: Sunset Magazine - Living in the West
-
-Caviar can be intimidating, and ordering caviar even more so. An expert shares the best tips for ordering caviar. 
-
-<https://www.sunset.com/food-wine/restaurants/how-to-order-caviar>
-
----
-
 ## A Scottsdale Townhouse Nestled in the Cactus-Strewn Landscape Hits the Market for $2.1M
 
 date: 2024-10-01, from: Dwell
@@ -891,16 +964,6 @@ date: 2024-09-30, from: Family Handyman Blog
  
 
 <https://www.familyhandyman.com/article/fed-rate-cut-impact-on-housing-2024/>
-
----
-
-## The Recipes You Should Be Cooking in October
-
-date: 2024-09-30, from: Sunset Magazine - Living in the West
-
-Fall is in full swing in October, so it's time to take advantage of all the seasonal produce. We've got the fall recipes to make this month. 
-
-<https://www.sunset.com/food-wine/kitchen-assistant/october-recipes-2024>
 
 ---
 
@@ -1275,70 +1338,4 @@ date: 2024-09-29, from: Yard Life blog
  
 
 <https://ownyardlife.com/19-types-of-walnut-trees-pictures-and-identification/>
-
----
-
-## 24 Types of Poplar Trees (Pictures and Leaves Identification)
-
-date: 2024-09-28, from: Yard Life blog
-
-<p>Poplar trees are a diverse group of fast-growing deciduous trees found across various regions of the world. Known for their ... </p>
-<p class="read-more-container"><a title="24 Types of Poplar Trees (Pictures and Leaves Identification)" class="read-more button" href="https://ownyardlife.com/24-types-of-poplar-trees-pictures-and-leaves-identification/#more-19850" aria-label="Read more about 24 Types of Poplar Trees (Pictures and Leaves Identification)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/24-types-of-poplar-trees-pictures-and-leaves-identification/">24 Types of Poplar Trees (Pictures and Leaves Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<https://ownyardlife.com/24-types-of-poplar-trees-pictures-and-leaves-identification/>
-
----
-
-## The Smart Details That Turned This Kitchen into a Family-Friendly Space
-
-date: 2024-09-28, from: Sunset Magazine - Living in the West
-
-This kitchen had been recently remodeled, but was in need of a revamp for a growing family. A designer gave it family-friendly details. 
-
-<https://www.sunset.com/home-garden/home-tours/silver-lake-kitchen-before-after>
-
----
-
-## The Owners Changed All 51 Windows in This Mid-Century Modern Home
-
-date: 2024-09-28, from: Sunset Magazine - Living in the West
-
-This Buff & Hensman house was originally falling apart, but had good bones. The owners restored it to its original beauty. 
-
-<https://www.sunset.com/home-garden/home-tours/buff-hensman-pasadena-house>
-
----
-
-## From a Natural Wine Bar to a Historic Saloon, Here’s Where to Drink in the West Right Now
-
-date: 2024-09-28, from: Sunset Magazine - Living in the West
-
-From the oldest bar in Nevada to a natural wine bar, these are the best places to enjoy a drink in the West. 
-
-<https://www.sunset.com/travel/best-bars-in-west-2024>
-
----
-
-## This Is the Biggest Trend in Luxury Travel—And It May Help You Live Longer
-
-date: 2024-09-28, from: Sunset Magazine - Living in the West
-
-Spa retreats and weight-loss focussed detox programs are so passé. A new trend in longevity tourism is taking over the world of travel. 
-
-<https://www.sunset.com/travel/longevity-retreats-travel-trend>
-
----
-
-## In-Depth Peperomia Plant Care and Cultivation Guide
-
-date: 2024-09-28, from: Yard Life blog
-
-<p>Peperomia plants have gained popularity among indoor gardening enthusiasts for their unique foliage, diverse varieties, and low-maintenance care requirements. With ... </p>
-<p class="read-more-container"><a title="In-Depth Peperomia Plant Care and Cultivation Guide" class="read-more button" href="https://ownyardlife.com/in-depth-peperomia-plant-care-and-cultivation-guide/#more-19831" aria-label="Read more about In-Depth Peperomia Plant Care and Cultivation Guide">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/in-depth-peperomia-plant-care-and-cultivation-guide/">In-Depth Peperomia Plant Care and Cultivation Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<https://ownyardlife.com/in-depth-peperomia-plant-care-and-cultivation-guide/>
 

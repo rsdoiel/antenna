@@ -1,11 +1,144 @@
 ---
 title: journalism
-updated: 2024-10-05 09:57:15
+updated: 2024-10-06 11:09:16
 ---
 
 # journalism
 
-(date: 2024-10-05 09:57:15)
+(date: 2024-10-06 11:09:16)
+
+---
+
+## Following quick turnaround, UCLA women’s golf readies for new conference match
+
+date: 2024-10-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Big Ten opportunities come with big-time travel.
+With a quick turnaround following the Windy City Collegiate Classic, UCLA women&#8217;s golf is heading back to Illinois to compete at the two-day  Illini Women&#8217;s Invitational at Medinah on Monday. 
+
+<https://dailybruin.com/2024/10/06/following-quick-turnaround-ucla-womens-golf-readies-for-new-conference-match/>
+
+---
+
+## GRAMMY Museum celebrates Deaf Awareness Month with poetic dialogue
+
+date: 2024-10-06, from: The Sundail (CSUN Student Newspaper)
+
+The GRAMMY Museum hosted a discussion on Saturday, Sept. 28, featuring award-winning Jamaican-British poet Raymond Antrobus and GRAMMY-winning producer Ian Brennan in celebration of Deaf Awareness Month. (From left to... 
+
+<https://sundial.csun.edu/185959/arts-entertainment/grammy-museum-celebrates-deaf-awareness-month-with-poetic-dialogue/>
+
+---
+
+## Men’s soccer lets lead slip to Penn State, giving up 2 late goals in tied finish
+
+date: 2024-10-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 5 at 10:16 p.m.</em>
+The trend of dropping points has continued once more.
+After leading for the first 78 minutes of the contest – and by two goals for 22 minutes in the second half – UCLA men’s soccer (4-3-4, 1-2-2 Big Ten) tied Penn State (4-5-2, 1-2-2) 2-2 Friday night in University Park, Pennsylvania. 
+
+<https://dailybruin.com/2024/10/05/mens-soccer-lets-lead-slip-to-penn-state-giving-up-2-late-goals-in-tied-finish/>
+
+---
+
+## The Matadors battle in a 1-1 draw with the Highlanders in Big West Opener
+
+date: 2024-10-06, from: The Sundail (CSUN Student Newspaper)
+
+The CSUN men’s soccer team conceded late to draw with the Highlanders of UC Riverside in their Big West opener, and drew 1-1 at Matador Soccer Field. There was back-and-forth... 
+
+<https://sundial.csun.edu/185947/sports/the-matadors-battle-in-a-1-1-draw-with-the-highlanders-in-big-west-opener/>
+
+---
+
+## CSUN drops yet another heartbreaker to the University of Hawaii
+
+date: 2024-10-06, from: The Sundail (CSUN Student Newspaper)
+
+CSUN women’s soccer took on the University of Hawaii Thursday night in what was CSUN’s third Big West match of the year. It was a dead tie until late when... 
+
+<https://sundial.csun.edu/185940/sports/csun-drops-yet-another-heartbreaker-to-the-university-of-hawaii/>
+
+---
+
+## UCLA football fails to earn its stripes in road loss to Penn State
+
+date: 2024-10-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 5 at 9:40 p.m.</em>
+A switch seems to flip in the Bruin locker room at halftime.
+In fact, the team&#8217;s season could be defined by a cycle of two clashing stories.&#160;
+One half almost silences naysayers, the other forces the crowd to seek the nearest exit – consistency has been a fleeting ghost.&#160;
+This time, with a dreamy first half and nightmarish second, UCLA football (1-4, 0-3 Big Ten) was bowled over by No. 
+
+<https://dailybruin.com/2024/10/05/ucla-football-fails-to-earn-its-stripes-in-road-loss-to-penn-state/>
+
+---
+
+## Women’s volleyball falls short against Minnesota in first home loss of season
+
+date: 2024-10-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+A touch at the edge of a player&#8217;s fingertips can make or break a single point.
+Split-second plays define each battle for control, where a slight error can tip the balance between victory and defeat. 
+
+<https://dailybruin.com/2024/10/05/womens-volleyball-falls-short-against-minnesota-in-first-home-loss-of-season/>
+
+---
+
+## Second Take: The declining popularity of girl groups in Western music harms sonic diversity
+
+date: 2024-10-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Contemporary pop hits have sounded hollower without the regular inclusion of girl groups in the Western musical landscape.
+Even as this summer featured the explosion in popularity of several female artists from Sabrina Carpenter to Chappell Roan &#8211; while others such as Charli xcx experienced a resurgence in mainstream attention &#8211; the music industry&#8217;s ever-evolving ecosystem remains strangely absent of female groups. 
+
+<https://dailybruin.com/2024/10/05/second-take-the-declining-popularity-of-girl-groups-in-western-music-harms-sonic-diversity/>
+
+---
+
+## USC vs. Minnesota — as it happened
+
+date: 2024-10-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Henry Mode reports live from Huntington Bank Stadium.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/05/usc-vs-minnesota-live-updates/">USC vs. Minnesota — as it happened</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/05/usc-vs-minnesota-live-updates/>
+
+---
+
+## LAFD responds to fire on Roebling Avenue
+
+date: 2024-10-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+A Roebling fire broke out early Saturday morning.
+A fire began on Roebling Avenue around 12:30 a.m. Saturday. A couch, a chair and a toilet were among the objects in the fire. 
+
+<https://dailybruin.com/2024/10/05/lafd-responds-to-fire-on-roebling-avenue/>
+
+---
+
+## Gameday predictions: UCLA vs. Penn State
+
+date: 2024-10-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA football (1-3, 0-2 Big Ten) is headed to Beaver Stadium – the second-largest college football stadium in the country – to face No. 7 Penn State (4-0, 1-0) in its second straight top-10 matchup. 
+
+<https://dailybruin.com/2024/10/04/gameday-predictions-ucla-vs-penn-state/>
+
+---
+
+## UCLA women’s soccer to face old rival Washington after battling several new foes
+
+date: 2024-10-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+After taking on a slate of new Big Ten opponents, UCLA will face a familiar foe.
+UCLA women&#8217;s soccer (9-2-2, 4-0-1 Big Ten) will take on Washington (6-3-2, 3-2) – a former Pac-12 mainstay who made the transition to the Big Ten alongside UCLA – on Saturday. 
+
+<https://dailybruin.com/2024/10/04/ucla-womens-soccer-to-face-old-rival-washington-after-battling-several-new-foes/>
 
 ---
 
@@ -318,7 +451,7 @@ But the freshman is already close to imprinting his name in Westwood.
 
 date: 2024-10-04, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Oct. 3 at 10:50 p.m.</em>
+<em>This post was updated Oct. 5 at 3:45 p.m.</em>
 Over 1,000 people gathered in Wilson Plaza on Sunday morning for Alive Together, a five-kilometer walk that mourns those who died by suicide and raises mental health awareness. 
 
 <https://dailybruin.com/2024/10/03/5k-walk-alive-together-raises-awareness-for-suicide-prevention-mental-health/>
@@ -1846,114 +1979,4 @@ Rise and shine, Bruins &#8211; and don&#8217;t press snooze.
 UCLA cross country&#8217;s journey to the Gans Creek Classic in Columbia, Missouri, was highlighted by early mornings thanks to the two-hour time change. 
 
 <https://dailybruin.com/2024/09/28/new-returning-runners-lead-ucla-cross-country-at-gans-creek-classic/>
-
----
-
-## USC vs. Wisconsin — as it happened
-
-date: 2024-09-28, from: The Daily Trojan (USC Student Newspaper)
-
-<p>Henry Mode reports live from Los Angeles Memorial Coliseum.</p>
-<p>The post <a href="https://dailytrojan.com/2024/09/28/usc-vs-wisconsin-live-updates/">USC vs. Wisconsin — as it happened</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2024/09/28/usc-vs-wisconsin-live-updates/>
-
----
-
-## Espresso Chronicles: With overpriced food and mediocre drinks, Sipp Coffee House fails to satisfy
-
-date: 2024-09-28, from: The Daily Bruin (UCLA Student Newspaper)
-
-The newest boho chic coffee shop allured me with its stylish character yet released me with its costly prices and awkward seating.
-When visiting Sipp Coffee House, a recently opened establishment in Westwood, I entered with high expectations because of the area&#8217;s prodigious coffee scene. 
-
-<https://dailybruin.com/2024/09/28/espresso-chronicles-with-overpriced-food-and-mediocre-drinks-sipp-coffee-house-fails-to-satisfy/>
-
----
-
-## Gameday predictions: UCLA vs. Oregon
-
-date: 2024-09-28, from: The Daily Bruin (UCLA Student Newspaper)
-
-UCLA football (1-2, 0-1 Big Ten) is returning to the Rose Bowl for its second Big Ten matchup of the season – and a familiar Pac-12 clash – facing No. 
-
-<https://dailybruin.com/2024/09/28/gameday-predictions-ucla-vs-oregon-5/>
-
----
-
-## Pablo Ereño ties for first at The Tindall, leading UCLA men’s golf to fifth place
-
-date: 2024-09-28, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated Sept. 30 at 12:18 a.m.</em>
-It could take years for the shoe to drop.
-But for Pablo Ereño, he dropped his with a bang. 
-
-<https://dailybruin.com/2024/09/27/pablo-ereo-ties-for-first-at-the-tindall-leading-ucla-mens-golf-to-fifth-place/>
-
----
-
-## Op-ed: UC expansion creates demand that neglects fair wages, housing of frontline workers
-
-date: 2024-09-28, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated Sept. 27 at 9:17 p.m.</em>
-In recent months, thousands of University of California employees and their allies have repeatedly taken to the streets to protest for higher wages and housing assistance. 
-
-<https://dailybruin.com/2024/09/27/uc-expansion-creates-demand-that-neglects-fair-wages-housing-of-frontline-workers/>
-
----
-
-## Enormous Activities Fair displays range of UCLA student interests, opportunities
-
-date: 2024-09-28, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated Sept. 29 at 11:38 p.m.</em>
-From performing Shakespeare to beekeeping to organized wiffle ball – if you can think of it, UCLA has a club for it. 
-
-<https://dailybruin.com/2024/09/27/enormous-activities-fair-displays-range-of-ucla-student-interests-opportunities/>
-
----
-
-## Arushi Avachat fuses Bollywood, rom-com inspirations into debut novel
-
-date: 2024-09-28, from: The Daily Bruin (UCLA Student Newspaper)
-
-Arushi Avachat is bringing Bollywood extravagance to young adult romance.
-The recent graduate and former Daily Bruin contributor published her debut novel, “Arya Khanna’s Bollywood Moment,” earlier this year while completing her bachelor’s degrees in English and political science with a minor in South Asian studies. 
-
-<https://dailybruin.com/2024/09/27/arushi-avachat-fuses-bollywood-rom-com-inspirations-into-debut-novel/>
-
----
-
-## UCLA women’s soccer hosts Wisconsin for scoreless home opener
-
-date: 2024-09-28, from: The Daily Bruin (UCLA Student Newspaper)
-
-Fall quarter is underway &#8211; and though the Bruins and Badgers stayed mute between the goalposts, UCLA students ensured the stands were anything but. 
-&#8220;We are starting school up, so it&#8217;s awesome to have the fans back,&#8221; said senior defender Lilly Reale. 
-
-<https://dailybruin.com/2024/09/27/ucla-womens-soccer-hosts-wisconsin-for-scoreless-home-opener/>
-
----
-
-## Scouting report: UCLA football vs. Oregon
-
-date: 2024-09-28, from: The Daily Bruin (UCLA Student Newspaper)
-
-UCLA football (1-2, 0-1 Big Ten) is heading back to the Rose Bowl to face a familiar foe &#8211; No. 8 Oregon (3-0). With the Ducks and Bruins now part of the Big Ten, one team will walk away with its first conference win Saturday night. 
-
-<https://dailybruin.com/2024/09/27/scouting-report-ucla-football-vs-oregon-2/>
-
----
-
-## UCLA football faces offensive challenge ahead of Saturday’s matchup against Oregon
-
-date: 2024-09-28, from: The Daily Bruin (UCLA Student Newspaper)
-
-The Big Ten cast novelty on all fronts for the Bruins – locations, opponents, travel and so forth.
-But Saturday’s battle will reintroduce familiarity after a 96-year legacy in the Pac-12 melted. 
-
-<https://dailybruin.com/2024/09/27/ucla-football-face-offensive-challenge-ahead-of-saturdays-matchup-against-oregon/>
 

@@ -1,11 +1,31 @@
 ---
 title: motorcycles
-updated: 2024-10-05 09:57:18
+updated: 2024-10-06 11:09:19
 ---
 
 # motorcycles
 
-(date: 2024-10-05 09:57:18)
+(date: 2024-10-06 11:09:19)
+
+---
+
+## Triumph's TF 450-RC Dirt Bike: This Is It
+
+date: 2024-10-06, from: Ride Apart, Electric Motorcycle News
+
+Thumper-lovers, rejoice! 
+
+<https://www.rideapart.com/news/736207/triumph-tf-450-rc-dirt-bike-2025/>
+
+---
+
+## Wheels Through Time Is Raising Money To Help Hurricane Victims, You Can Help
+
+date: 2024-10-05, from: Ride Apart, Electric Motorcycle News
+
+The Museum That Runs and its staff are OK, but need your help assisting with cleanup efforts in western North Carolina. 
+
+<https://www.rideapart.com/news/736218/wheels-through-time-hurricane-helene/>
 
 ---
 
@@ -486,14 +506,4 @@ date: 2024-09-29, from: Kickin the Tires blog
 By Seth Eggert, Associate Editor The short-run speed that Chandler Smith had in the NASCAR Xfinity Series race at Kansas Speedway wasn’t enough to hold off the competition in the&#8230;  
 
 <https://kickinthetires.net/nascar/chandler-smiths-short-run-speed-leaves-him-third-at-kansas/>
-
----
-
-## Let The Paul Sr Vs Bearded Mechanic Vs Bikes & Beards Build-Off Begin!
-
-date: 2024-09-28, from: Ride Apart, Electric Motorcycle News
-
-It's all in good fun this time around, and they even have a chair-throwing contest. 
-
-<https://www.rideapart.com/news/735425/paul-sr-bikes-bearded-mechanic/>
 

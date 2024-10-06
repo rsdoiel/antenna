@@ -1,11 +1,235 @@
 ---
 title: columns
-updated: 2024-10-05 09:57:12
+updated: 2024-10-06 11:09:12
 ---
 
 # columns
 
-(date: 2024-10-05 09:57:12)
+(date: 2024-10-06 11:09:12)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-06, from: Dave Winer's Scripting News)
+
+<span class="spHowLongUntilThirty">1 day, 3 hours, 4 minutes, 49 seconds</span> until this blog is 30. 
+
+<http://scripting.com/2024/10/06.html#a154635>
+
+---
+
+## How about those Mets, day 2
+
+date: 2024-10-06, from: Dave Winer's Scripting News
+
+<p>I am reminded of 2015, when the Mets were so charmed -- they could be down 9-0 in the 8th inning and you would tune into the game to see how they'd win it. It's not the usual thing for the Mets, who pull defeat from the jaws of victory far more often than the other way. </p>
+<p>And omg, 2024 is shaping up the same way. </p>
+<p>Sit down and shut up, here come the Mets!</p>
+<p>Briefly, because I have stuff to do -- the Mets were down 1-0 in the bottom of the 8th, having been thoroughly shut down by the amazing Zach Wheeler. Imagine someone throwing a ball at you at 100 mph that looks like it's going down but actually goes up and to the left. Or next time down and to the right. You could try to swing but you'd have to be very lucky to connect. And so it was for the first seven innings until they took out Wheeler (pitchers don't do complete games any longer, they used to). </p>
+<p>The Mets were ready. Hit after hit after hit and before you knew it, it was 5-1. Alonso, the star of the last Milwaukee game drove in one of the runs with a long sacrifice fly to center.  </p>
+<p>The Phillies and their fans who had been so confident of victory were shocked. And left to plan for today's game at 4PM on Fox. You gotta know where I'll be -- glued to the set and dreaming about the fate of this Mets team who shows real signs of strong <a href="https://www.google.com/search?q=mets+philosophy+site%3Ascripting.com">philosophy</a>. </p>
+ 
+
+<http://scripting.com/2024/10/06/151115.html?title=howAboutThoseMetsDay2>
+
+---
+
+## WordPress destiny, day 2
+
+date: 2024-10-06, from: Dave Winer's Scripting News
+
+<p>Glad I wrote the piece I wrote <a href="http://scripting.com/2024/10/05/142118.html?title=wordPressDestiny1">yesterday</a>. </p>
+<p>I could have written it any time in the last year as I was investigating and developing on the WordPress API and back end, but now seemed to be a good time, with all the attention its getting, and Matt's interviews, I and others are getting a better idea of what the various components of the community are. I don't know about the rest of you, but I had only a vague idea of what WordPress is beyond a piece of software used for commerce and to a lesser extent these days, writing on the web.</p>
+<p>A few ideas -- not in any particular order:</p>
+<ul>
+<li>From my point of view, blogging and the <a href="https://oursocialweb.org/">social web</a>, WordPress is being built <i>around</i> more than being built on, when it is such a <a href="https://textcasting.org/">potent</a> and surprisingly open <a href="https://www.google.com/search?q=site%3Ascripting.com+coral+reef">platform</a>. I took the time to look, and underneath the cluttered user interface is a strong foundation that you could build <i>any kind of writing software</i> on. </li>
+<li>If a community developed at this level, writing tools, we'd be compatible at a very deep level, so the opportunities for <a href="https://www.google.com/search?q=site%3Ascripting.com+interop">interop</a> are amazing. I don't say that lightly. (I had asked them to allow apps to attach their own data to posts for years, until I discovered earlier this year the API has that feature. If only they had listened to the question and answered it thoughtfully, we could have saved years. The company desperately needs an evangelism function.)</li>
+<li>The WordPress platform could be a very strong part of the <a href="https://oursocialweb.org/">social web</a>. The comparison between developer freedom on the WordPress platform and the Facebook one (which is what Threads is built on) is stark. I have worked on the Facebook platform, btw -- and from a software design perspective it's brilliant, a breakthrough, something to emulate, which I did in the <a href="https://github.com/scripting/wpIdentity">wpidentity</a> package I wrote. But from a policy standpoint, after the 2016 election Facebook's API was radically restricted, not something many people know about (it was a fully public event). WordPress has an API that doesn't appear to have any such limits, and even if they imposed them, in theory their server could be cloned (it's open source) but it certainly could be emulated at an API level. </li>
+<li>It's enticing. All those users -- there should be a market for writing tools there, but there isn't. Why is that??</li>
+<li>I feel like we're like ships passing in the night. I thought I should point this out, at least once, as Matt and company go off in a direction I don't understand and don't see why I should want to. Did they care when the move to HTTPS undermined what remains of the original blogosphere? I don't see any evidence of it. It's like Walmart sought to build a shopping center on the remains of the <a href="https://en.wikipedia.org/wiki/Library_of_Alexandria">Library of Alexandria</a>. People don't seem to have any respect for independent writing on the web, what we dreamed of in the beginning, and <i>the dream was realized.</i> No wonder the tech industry wants to tear it down. It contradicts a basic premise of the programming priesthood. And no wonder journalism doesn't defend it, they are offended by the idea of people writing for free, based on the incorrect assumption about what we do. We're their sources, dammit, not their competitors, at least if they would do their jobs (which is another problem altogether) and if they spent any time thinking and questioning before condeming.</li>
+<li> Look at <a href="https://www.theguardian.com/commentisfree/2024/oct/05/the-blogosphere-is-in-full-bloom-the-rest-of-the-internet-has-wilted-dave-winer">John Naughton's piece</a> today in the Guardian. He's doing more to focus attention on the web as a writing environment than the whole tech industry which is built on our work, especially Automattic. The ignorance and in some cases resentment in the industry is huge, something else Naughton points out so well. We can turn this around, I guess since WordPress is open source, it doesn't have to wait for Matt to turn in that direction. </li>
+</ul>
+<p>Just some thoughts as the world seems to be converging on something, not sure what. There are so many doors that are now open that never were before, the question is -- do we have the courage to connect the dots and work together, or do we all insist on going our own ways to a fairly dark future.  </p>
+ 
+
+<http://scripting.com/2024/10/06/142657.html?title=wordpressDestinyDay2>
+
+---
+
+## ’Forever Country‘
+
+date: 2024-10-06, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<https://steady.substack.com/p/forever-country>
+
+---
+
+## Sunday caption contest: Activism
+
+date: 2024-10-06, from: Robert Reich's blog
+
+And last week&#8217;s winner 
+
+<https://robertreich.substack.com/p/sunday-caption-contest-activism>
+
+---
+
+## October 5, 2024
+
+date: 2024-10-06, from: Heather Cox Richardson blog
+
+William McKinley is having a moment (which I confess is a sentence I never expected to write). 
+
+<https://heathercoxrichardson.substack.com/p/october-5-2024>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-10-05, from: Miguel de Icaza Mastondon feed)
+
+<p>Israel is speed running their genocide and extermination plans- he knows he has at least four weeks of solid support.</p><p>He might need to scale it down to a mild ethnic cleansing after the election.</p> 
+
+<https://mastodon.social/@Migueldeicaza/113257168091049421>
+
+---
+
+## October 4, 2024
+
+date: 2024-10-05, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/october-4-2024-a4b>
+
+---
+
+## Geothermal power in the North Bay
+
+date: 2024-10-05, from: Jonudell blog
+
+I was aware of The Geysers, a geothermal field about 35 miles north of my home in Santa Rosa, but I never gave it much thought until my first bike ride through the area. Then I learned a number of interesting things. It&#8217;s the world&#8217;s largest geothermal field, producing more than 700 megawatts. It accounts &#8230; <a href="https://blog.jonudell.net/2024/10/05/geothermal-power-in-the-north-bay/" class="more-link">Continue reading <span class="screen-reader-text">Geothermal power in the North Bay</span></a> 
+
+<https://blog.jonudell.net/2024/10/05/geothermal-power-in-the-north-bay/>
+
+---
+
+## CNBC: ‘WordPress CEO Matt Mullenweg Goes “Nuclear” on Silver Lake, WP Engine’
+
+date: 2024-10-05, updated: 2024-10-05, from: Daring Fireball
+
+ 
+
+<https://www.cnbc.com/2024/10/05/wordpress-ceo-matt-mullenweg-goes-nuclear-on-silver-lake-wp-engine-.html>
+
+---
+
+## Weeknotes: Sept. 28 – Oct. 4, 2024
+
+date: 2024-10-05, from: Tracy Durnell Blog
+
+Win of the week: finally got around to baking the cake I&#8217;ve been wanting: vanilla cake with chocolate frosting and sprinkles 🧁 (from Snacking Cakes) Looking forward to: chilling this weekend Stuff I did: 9.25 hours consulting &#8212; finally kicked off the new project! Lots of yardwork ✂ Two doctor trips for my annual wellness checkup [&#8230;] 
+
+<https://tracydurnell.com/2024/10/05/weeknotes-sept-28-oct-4-2024/>
+
+---
+
+## The Verge Summarizes the Nasty WordPress/Automattic/WP Engine Feud
+
+date: 2024-10-05, updated: 2024-10-05, from: Daring Fireball
+
+ 
+
+<https://www.theverge.com/2024/10/4/24262232/matt-mullenweg-wordpress-org-wp-engine>
+
+---
+
+## A WordPress app ecosystem?
+
+date: 2024-10-05, from: Dave Winer's Scripting News
+
+<p>A few years before WordPress came out, I did a product called <a href="https://www.google.com/search?q=site%3Ascripting.com+%22radio+userland%22">Radio UserLand</a> which was a combination <a href="http://scripting.com/2021/08/15/024232.html?title=radioUserlandScreenShot">blogging tool</a> and feed reader. Two main screens, a streamlined UI. You could get in quickly, write and publish a post in a minute, and see it show up in the reader a moment later. It worked, and it added a major new component to the blogging world, and I think still represents the simplest most focused UI for writing. It was a really popular product. </p>
+<p>The same idea, really simple blog post writing and editing, with all the <a href="https://textcasting.org/">features</a> that should be available to web writers, optional titles, links, simple styling, enclosures, the ability to edit. The things the common social web apps generally <i>don't</i> have. </p>
+<p>This imho is a huge opportunity. I wish this is where the focus in the WordPress community was, but I think right now the world is building <i>around</i> WordPress, not on it. It could be great, it could totally solve the problem of a new document standard in the social web that makes it really like the web. Instead they're fighting over who owns what part of the WordPress trademark, at least as far as I can tell. </p>
+<p>Last year I created a Node.js package called <a href="https://github.com/scripting/wpIdentity">wpidentity</a> that acts as a bridge between a browser-based JavaScript app and the WordPress back-end, and the result is fine. It suggests that there could be a developer community writing apps that all join up in the middle in WordPress's database. Pretty powerful idea! </p>
+<p>And I think the users, the writers, would love it, because we developers could <b>compete to delight them</b>, and not have to worry about building a huge server capability as Automattic already has debugged and scaled. And maybe the battle that's going on now could fade into the background.</p>
+ 
+
+<http://scripting.com/2024/10/05/142118.html?title=aWordpressAppEcosystem>
+
+---
+
+## WordPress has a greater destiny
+
+date: 2024-10-05, from: Dave Winer's Scripting News
+
+<p>A few years before WordPress came out, I did a product called <a href="https://www.google.com/search?q=site%3Ascripting.com+%22radio+userland%22">Radio UserLand</a> which was a combination <a href="http://scripting.com/2021/08/15/024232.html?title=radioUserlandScreenShot">blogging tool</a> and feed reader. Two main screens, a streamlined UI. You could get in quickly, write and publish a post in a minute, and see it show up in the reader a moment later. It worked, and it added a major new component to the blogging world, and I think still represents the simplest most focused UI for writing. It was a really popular product. </p>
+<p>The same idea, really simple blog post writing and editing, with all the <a href="https://textcasting.org/">features</a> that should be available to web writers, optional titles, links, simple styling, enclosures, the ability to edit. The things the common social web apps generally <i>don't</i> have. </p>
+<p>This imho is a huge opportunity. I wish this is where the focus in the WordPress community was, but I think right now the world is building <i>around</i> WordPress, not on it. It could be great, it could totally solve the problem of a new document standard in the social web that makes it really like the web. Instead they're fighting over who owns what part of the WordPress trademark, at least as far as I can tell. </p>
+<p>Last year I created a Node.js package called <a href="https://github.com/scripting/wpIdentity">wpidentity</a> that acts as a bridge between a browser-based JavaScript app and the WordPress back-end, and the result is fine. It suggests that there could be a developer community writing apps that all join up in the middle in WordPress's database. Pretty powerful idea! </p>
+<p>And I think the users, the writers, would love it, because we developers could <b>compete to delight them</b>, and not have to worry about building a huge server capability as Automattic already has debugged and scaled. And maybe the battle that's going on now could fade into the background.</p>
+ 
+
+<http://scripting.com/2024/10/05/142118.html?title=wordpressHasAGreaterDestiny>
+
+---
+
+## Trump’s October Surprise!? | The Coffee Klatch: October 5, 2024
+
+date: 2024-10-05, from: Robert Reich's blog
+
+With Heather Lofthouse and Yours Truly 
+
+<https://robertreich.substack.com/p/trumps-october-surprise-the-coffee>
+
+---
+
+## October 4, 2024
+
+date: 2024-10-05, from: Heather Cox Richardson blog
+
+MAGA Republicans are now lying about the federal response to Hurricane Helene in much the same way they lied about Haitian migrants bringing chaos and disease to Springfield, Ohio. 
+
+<https://heathercoxrichardson.substack.com/p/october-4-2024>
+
+---
+
+##  Relax With George Clooney at the End of a Movie 
+
+date: 2024-10-05, updated: 2024-10-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/relax-with-george-clooney-at-the-end-of-a-movie>
+
+---
+
+##  Matthew Ingram takes a look at the moral panic over social media... 
+
+date: 2024-10-05, updated: 2024-10-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/0045385-matthew-ingram-takes-a-lo>
+
+---
+
+##  Sports Celebrate Physical Variation — Until It Challenges Social Norms. &#8220;A powerful... 
+
+date: 2024-10-05, updated: 2024-10-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/0045384-sports-celebrate-physical>
+
+---
+
+##  You&#8217;ve heard about the Earth&#8217;s new mini-moon, yes? &#8220;It will be temporarily... 
+
+date: 2024-10-05, updated: 2024-10-05, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/0045383-youve-heard-about-the-ear>
 
 ---
 
@@ -405,7 +629,7 @@ date: 2024-10-03, updated: 2024-10-03, from: Daring Fireball
 
 ## Starlink Offers Free Service to Victims of Hurricane Helene
 
-date: 2024-10-03, updated: 2024-10-04, from: Daring Fireball
+date: 2024-10-03, updated: 2024-10-05, from: Daring Fireball
 
  
 
@@ -2501,154 +2725,4 @@ date: 2024-09-29, from: Om Malik blog
 If you have a long career in media and writing in public like I have, you’re likely to make some mistakes. And you’re going to have some regrets. One of those was a story I wrote about Path, a company started by Dave Morin. I was critical, harsh and unkind to the company and its &#8230; 
 
 <https://om.co/2024/09/28/lessons-from-mkbhds-app-brouhaha/>
-
----
-
-**@Miguel de Icaza Mastondon feed** (date: 2024-09-28, from: Miguel de Icaza Mastondon feed)
-
-<p>Part 3</p> 
-
-<https://mastodon.social/@Migueldeicaza/113217537697420676>
-
----
-
-**@Miguel de Icaza Mastondon feed** (date: 2024-09-28, from: Miguel de Icaza Mastondon feed)
-
-<p>Part 2</p> 
-
-<https://mastodon.social/@Migueldeicaza/113217532360330739>
-
----
-
-**@Miguel de Icaza Mastondon feed** (date: 2024-09-28, from: Miguel de Icaza Mastondon feed)
-
-<p>Some observations from Twitter:</p> 
-
-<https://mastodon.social/@Migueldeicaza/113217525459817345>
-
----
-
-## Relay for St. Jude Is Approaching $1 Million
-
-date: 2024-09-28, updated: 2024-10-01, from: Daring Fireball
-
- 
-
-<https://relay.experience.stjude.org/>
-
----
-
-## Election Countdown, 38 Days to Go: What Is Wrong With Our Leading Paper?
-
-date: 2024-09-28, from: James Fallows, Substack
-
-A view of public life as political circus. And the ongoing damage that view does. 
-
-<https://fallows.substack.com/p/election-countdown-38-days-to-go>
-
----
-
-## Tom’s Guide iPhone 16 Battery Life Testing Shows Impressive Year-Over-Year Gains
-
-date: 2024-09-28, updated: 2024-09-28, from: Daring Fireball
-
- 
-
-<https://www.tomsguide.com/phones/iphones/iphone-16-battery-life-results-are-in-and-we-can-hardly-believe-our-eyes>
-
----
-
-## WSJ: ‘Apple Is No Longer in Talks to Join OpenAI Investment Round’
-
-date: 2024-09-28, updated: 2024-09-28, from: Daring Fireball
-
- 
-
-<https://www.wsj.com/tech/apple-no-longer-in-talks-to-join-openai-investment-round-e3be3e66>
-
----
-
-## OK Kids, You Get to Vote
-
-date: 2024-09-28, from: Margaret Atwood's substack
-
-Right here on this website. But not for President. 
-
-<https://margaretatwood.substack.com/p/ok-kids-you-get-to-vote>
-
----
-
-## September 27, 2024
-
-date: 2024-09-28, from: Heather Cox Richardson blog
-
- 
-
-<https://heathercoxrichardson.substack.com/p/september-27-2024-aab>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-09-28, from: Dave Winer's Scripting News)
-
-I should put a dollar in a jar every time ChatGPT saves my ass. I thought I had boxed myself into a corner regarding the hash value for a web page, then I asked a question I wasn't sure there was an answer to. "In JS in the browser, I have the name of an anchor element and I want the browser to vertically scroll to it," to which it said: "Here's an example." 
-
-<http://scripting.com/2024/09/28.html#a151322>
-
----
-
-## Making the social web really work
-
-date: 2024-09-28, from: Dave Winer's Scripting News
-
-<p><img class="imgRightMargin" src="https://imgs.scripting.com/2019/11/14/weTryHarder.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Molly White wrote a <a href="https://www.citationneeded.news/posse/">great piece</a> on the problem we're all facing now that so many of us are trying to maintain a presence on a few different social web sites. She describes a situation I've been writing about since the mid-late 00s, with the inception of Twitter and Google Reader, two phenoms that had very different ideas of what writing on the web should be. That's where the problems started.</p>
-<p>Before that we had a cross-posting API that was broadly supported and really worked, based on <a href="https://cyber.harvard.edu/rss/rss.html#hrelementsOfLtitemgt">RSS 2.0's idea</a> of what a post is. It's called the <a href="https://xmlrpc.com/metaweblog">Metaweblog API</a>, and it's still supported by <a href="https://codex.wordpress.org/XML-RPC_MetaWeblog_API">WordPress</a> and probably a few other social web sites (I take a broad view of what the social web is and definitely include WordPress and other blogging tools. Based on Molly's piece, I expect she would see it that way too.)</p>
-<p>The first approach I took to this problem was to cross-post as Molly describes, to work around the limits in software. But the limits will creep into your writing, since you know that people who read your stuff on Bluesky, Threads or Twitter won't see the links, you'll be reluctant to them in your writing. I encountered this problem in the mid-teens when I was trying to cross-post to Medium and Facebook, one supported links and basic HTML, the other didn't. Eventually before <a href="http://scripting.com/2017/05/05/iWantMyOldBlogBack.html">giving up</a> on the POSSE approach in 2017, I was barely using links at all. I was trying to keep four pieces of software happy and doing so made my writing suck.</p>
-<p>To get a handle on the problem, I created a list of features I felt all social web platforms should support and published it at <a href="https://textcasting.org/">textcasting.org</a>. Ultimately I think we're going to have to make a platform that implements a reasonable subset of this functionality, if only as a demo for the social web companies to show them what we want. There already are Mastodon forks that support some of the features (no character limit, Markdown support). </p>
-<p>I <a href="https://github.com/scripting/textcasting">published the code</a> I use to cross-post for my linkblog, that much does work quite well across the different platforms, and I'd be happy to operate a server for people to experiment with. The <a href="https://github.com/scripting/textcasting/blob/main/textcasting.js">server software</a> runs in Node.js, is already open source. It has a simple <a href="https://github.com/scripting/textcasting/tree/main/plugins/platforms">plug-in architecture</a> so support for new platforms can be added without modifying the server. </p>
-<p>But my main point is this -- let's <a href="http://scripting.com/2024/04/16/140810.html">work together</a>. We really aren't very good in tech at building on each others' work, that's why we get so stuck. I have a lot to say about that too, I've been writing about it on my blog for many many years. </p>
-<p>And thanks for picking up this thread. It's one of the two big threads -- along with AI -- how are we going to make writing on the web work.</p>
-<p>PS: I started writing this in Mastodon, but obviously I had to fall back to my blog, because there was no room and I needed to use links or why bother. ;-)</p>
- 
-
-<http://scripting.com/2024/09/28/132152.html?title=makingTheSocialWebReallyWork>
-
----
-
-## 37 Days Left in the Garden of Good and Evil: The Coffee Klatch for September 28, 2024
-
-date: 2024-09-28, from: Robert Reich's blog
-
-With Michael Lahanas-Calder&#243;n and Yours Truly Robert Reich 
-
-<https://robertreich.substack.com/p/the-home-s-t-r-e-t-c-h-the-coffee>
-
----
-
-## September 27, 2024
-
-date: 2024-09-28, from: Heather Cox Richardson blog
-
-Last night, at about 11:10 local time, Hurricane Helene made landfall in the Big Bend area of Florida, where the state&#8217;s panhandle curves down toward the peninsula. 
-
-<https://heathercoxrichardson.substack.com/p/september-27-2024>
-
----
-
-## Weeknotes: Sept. 21-27, 2024
-
-date: 2024-09-28, from: Tracy Durnell Blog
-
-Win of the week: finally got the contract for my new project, and got my insurance updated! Looking forward to: starting the project! Stuff I did: 3.5 hours consulting 3 hours business development and admin 45 minutes writing took one cat to the vet, always a stressful outing for the whole household 😑 more art [&#8230;] 
-
-<https://tracydurnell.com/2024/09/27/weeknotes-sept-21-27-2024/>
-
----
-
-## The Great American Road Trip
-
-date: 2024-09-28, from: Tracy Durnell Blog
-
-A mention of electrifying &#8220;the great American road trip&#8221; threw me for a mental loop: does road tripping happen significantly more in America than other countries? 🤔 I could potentially see that being so, given our lack of long distance public transit, large geographic size spanning vast wild spaces, pretty extensive system of national parks, [&#8230;] 
-
-<https://tracydurnell.com/2024/09/27/the-great-american-road-trip/>
 

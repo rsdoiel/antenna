@@ -1,11 +1,173 @@
 ---
 title: going electric
-updated: 2024-10-05 09:57:20
+updated: 2024-10-06 11:09:21
 ---
 
 # going electric
 
-(date: 2024-10-05 09:57:20)
+(date: 2024-10-06 11:09:21)
+
+---
+
+## This Electric Minivan From China Is Less Than $10,000
+
+date: 2024-10-06, from: Inside EVs News
+
+That’s how much a small EV costs in China, so getting something this roomy for similar money sounds like a really good deal. 
+
+<https://insideevs.com/news/736266/wuling-gm-electric-mpv-cheap/>
+
+---
+
+## QOTD: is Volvo planning a low cost, electric Robotaxi rival?
+
+date: 2024-10-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/volvo_concept.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>It’s probably nothing. <a href="https://www.facebook.com/volvocarsheritage/posts/pfbid081v4j8XnXGpeseiYaaqth3Hc8Gzc9ewys7oe6GABuGRQcm7YyvemAr7z4Uh25Jggl?rdid=GizTvLIaX5GuzKlJ">Just a playful post on social media from a random Volvo account celebrating an obscure concept car from the early aughts</a>. It couldn’t possibly mean that Volvo is actually going to build the thing … right?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla-robotaxi,volvo,waymo,zeekr" data-layer-viewtype="unknown" data-post-id="383019" href="https://electrek.co/2024/10/06/qotd-is-volvo-planning-a-low-cost-electric-robotaxi-rival/#more-383019" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/06/qotd-is-volvo-planning-a-low-cost-electric-robotaxi-rival/>
+
+---
+
+## California May Require Bidirectional Charging EVs. That Could Save Lives
+
+date: 2024-10-06, from: Inside EVs News
+
+A new California law could require the battery power in EVs to feed other devices, homes and even the grid could be a game-changer.  
+
+<https://insideevs.com/news/736302/california-v2l-law-newsom/>
+
+---
+
+## E-quipment highlight: JLG E313 electric telehandler
+
+date: 2024-10-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/jlg-e313.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Designed for both all-terrain and off-road use, the all-electric E313 telehandler from JLG is a new, low-noise solution for moving materials around indoor construction, urban, residential, and municipal projects.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,heavy-equipment" data-layer-viewtype="unknown" data-post-id="383005" href="https://electrek.co/2024/10/06/e-quipment-highlight-jlg-e313-electric-telehandler/#more-383005" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/06/e-quipment-highlight-jlg-e313-electric-telehandler/>
+
+---
+
+## The Future Of EV Charging Is Way Nicer Than Any Gas Station
+
+date: 2024-10-06, from: Inside EVs News
+
+Rove's station has 40 fast charging stalls, a high-end mini mart, public seating, on-site security and clean bathrooms. 
+
+<https://insideevs.com/news/736249/rove-charging-station-future-ca/>
+
+---
+
+## Bollinger delivers first B4 electric work trucks to customers
+
+date: 2024-10-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/NACARATO_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>It’s got a long way to go, but the journey of a thousand miles begins with a single step – and the first delivery of Bollinger B4 electric trucks to Nacarato Truck Centers is now in the history books!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bollinger-motors,commercial-evs,electric-trucks" data-layer-viewtype="unknown" data-post-id="382987" href="https://electrek.co/2024/10/06/bollinger-delivers-first-b4-electric-work-trucks-to-customers/#more-382987" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/06/bollinger-delivers-first-b4-electric-work-trucks-to-customers/>
+
+---
+
+## Here are the best electric bikes you can buy at every price level in October 2024
+
+date: 2024-10-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/tern-quick-haul-taiwan-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>I’ve spent countless hours here at <em>Electrek</em> doing detailed <a href="https://electrek.co/2023/01/11/radtrike-review-testing-rad-power-bikes-electric-trike/">hands-on testing</a> of hundreds of electric bikes. Through thousands of miles of riding, I’ve been fortunate to learn these e-bikes inside and out, top to bottom and front to back. That long-term experience with real-world e-bike testing has helped me find the best electric bicycles on the market for just about any budget.</p>
+
+
+
+<p>Below are some of the top e-bikes I’ve hand-tested for every price range, current as of October 2024. We’re still enjoying the tail end of some great summer pricing as e-bike companies push to move their inventory! Just like the<a href="https://electrek.co/2023/11/19/now-is-the-best-time-ever-to-buy-electric-bike/"> ultra-competitive e-bike selling year</a> last year, 2024 has been a year of impressive e-bike sales. So check out the awesome e-bikes below, any one of which could become your next electric bike.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="228361" href="https://electrek.co/2024/10/06/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/#more-228361" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/06/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/>
+
+---
+
+## All the EVs (and one PHEV) you can buy with 0% financing this October
+
+date: 2024-10-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/zero-october.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://electrek.co/author/joborras/"></a>Lease deals get all the hype, but some people still want to own the car they’ve made all those payments on. If that’s you, and you’ve been waiting for interest rates to drop, you’re in luck: there’s a bunch of great plugin cars you can buy with 0% financing this month!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-deals,hyundai,kia" data-layer-viewtype="unknown" data-post-id="382950" href="https://electrek.co/2024/10/05/all-the-evs-and-one-phev-you-can-buy-with-0-financing-this-october/#more-382950" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/05/all-the-evs-and-one-phev-you-can-buy-with-0-financing-this-october/>
+
+---
+
+## BYD delivers 100 of its K9UD electric transit buses to Uruguay
+
+date: 2024-10-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/pdp-coach-bus-image-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Chinese electric vehicle giant BYD has delivered 100 of its 12 meter K9UD electric transit buses to Uruguay’s largest electric public transport operator, Cutcsa.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,electric-buses" data-layer-viewtype="unknown" data-post-id="382935" href="https://electrek.co/2024/10/05/byd-delivers-100-of-its-electric-transit-buses-to-uruguay/#more-382935" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/05/byd-delivers-100-of-its-electric-transit-buses-to-uruguay/>
+
+---
+
+## Tesla Model 3 Performance Beats EPA Estimate In Range Test
+
+date: 2024-10-05, from: Inside EVs News
+
+The new Model 3 Performance delivers way more real-world range than its predecessor, Edmunds says. 
+
+<https://insideevs.com/news/736241/tesla-model-3-performance-range/>
+
+---
+
+## Even Toyota Knows The End Of Internal Combustion Is Near
+
+date: 2024-10-05, from: Inside EVs News
+
+"There is a decision being made now as to whether to stop making pure ICE for the U.S. market," the company's chief scientist said. 
+
+<https://insideevs.com/news/736270/toyota-end-of-ice/>
+
+---
+
+## North America’s largest electric wheel loader: HEVI H65L arrives at dealers
+
+date: 2024-10-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/HEVI-Electric-Wheel-Loader.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>With an operating weight scratching at 50,000 lbs., the recently revealed HEVI H65L is the largest battery electric wheel loader available in the North American market today.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,electric-heavy-machinery" data-layer-viewtype="unknown" data-post-id="382910" href="https://electrek.co/2024/10/05/north-americas-largest-electric-wheel-loader-hevi-h65l-arrives-at-dealers/#more-382910" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/05/north-americas-largest-electric-wheel-loader-hevi-h65l-arrives-at-dealers/>
+
+---
+
+## Kia EV9 Vs Rivian R1S: Two Of The Best Three-Row EVs Out There
+
+date: 2024-10-05, from: Inside EVs News
+
+Edmunds put the two battery-powered SUVs to the test, and the results are in. Which would you pick? 
+
+<https://insideevs.com/news/736033/kia-ev9-vs-rivian-r1s-comparison-edmunds/>
 
 ---
 
@@ -1808,76 +1970,4 @@ date: 2024-09-29, from: Electrek Feed
  <a data-layer-pagetype="post" data-layer-postcategory="bidirectional-charging,vehicle-to-grid" data-layer-viewtype="unknown" data-post-id="381963" href="https://electrek.co/2024/09/28/bidirectional-charging-may-be-required-on-evs-soon-due-to-new-ca-law/#more-381963" class="more-link">more…</a> 
 
 <https://electrek.co/2024/09/28/bidirectional-charging-may-be-required-on-evs-soon-due-to-new-ca-law/>
-
----
-
-## Industry first: Komatsu reveals power agnostic 320 ton haul truck
-
-date: 2024-09-28, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/komatsu_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Japanese equipment giant Komatsu dropped its new, 320-ton Power Agnostic 930E mining truck at MinsExpo trade show in Las Vegas, calling it a future-ready solution that can run on diesel, hydrogen, or pure electric power.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,komatsu,mining" data-layer-viewtype="unknown" data-post-id="381912" href="https://electrek.co/2024/09/28/industry-first-komatsu-reveals-power-agnostic-320-ton-haul-truck/#more-381912" class="more-link">more…</a> 
-
-<https://electrek.co/2024/09/28/industry-first-komatsu-reveals-power-agnostic-320-ton-haul-truck/>
-
----
-
-## Rivian CEO RJ Scaringe Wishes NACS Ramp Up Was Faster
-
-date: 2024-09-28, from: Inside EVs News
-
-Scaringe said there was no ‘tension’ with Tesla and that the two companies are partners that work well together. 
-
-<https://insideevs.com/news/735427/rivian-ceo-rj-scaringe-wishes-nacs-rollout-was-faster/>
-
----
-
-## Score a sporty new Fiat 500e at more than 30% off MSRP
-
-date: 2024-09-28, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/FT024_093FHgj57mujijlkdp6sieg0qn5vk4.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>It’s no Ferrari, but owning a sporty little Fiat 500e is about as close to putting a <em>cavallino rampante</em> in the garage as most of us will ever get. And if we act soon, we could do just that for 30% less money than before.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="ev-deals,fiat" data-layer-viewtype="unknown" data-post-id="381885" href="https://electrek.co/2024/09/28/score-a-sporty-new-fiat-500e-at-more-than-30-off-msrp/#more-381885" class="more-link">more…</a> 
-
-<https://electrek.co/2024/09/28/score-a-sporty-new-fiat-500e-at-more-than-30-off-msrp/>
-
----
-
-## Hyundai's Plan For Underground EV Fires: This Firefighting Robot
-
-date: 2024-09-28, from: Inside EVs News
-
-The Hyundai Motor Group is not messing around when it comes to the threat of parking garage EV fires. 
-
-<https://insideevs.com/news/735443/hyundai-ev-fire-robot/>
-
----
-
-## Mahle CEO Arnd Franz says hydrogen will fail without fossil fuels
-
-date: 2024-09-28, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/mahle_wasserstoffmotor_auf_dem_pruefstand.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Echoing the words of hydrogen critics everywhere, Mahle Chairman Arnd Franz says that building out a hydrogen infrastructure won’t be possible without “blue” H made from fossil fuels.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,hydrogen" data-layer-viewtype="unknown" data-post-id="381868" href="https://electrek.co/2024/09/28/mahle-ceo-arnd-franz-says-hydrogen-will-fail-without-fossil-fuels/#more-381868" class="more-link">more…</a> 
-
-<https://electrek.co/2024/09/28/mahle-ceo-arnd-franz-says-hydrogen-will-fail-without-fossil-fuels/>
-
----
-
-## Dead Fisker Ocean Bought For $10,000, Rebuilt For Chump Change
-
-date: 2024-09-28, from: Inside EVs News
-
-How’s that for depreciation? 
-
-<https://insideevs.com/news/735348/fisker-ocean-cheap-repair-charge-port/>
 

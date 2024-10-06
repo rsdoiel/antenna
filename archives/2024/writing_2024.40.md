@@ -1,11 +1,79 @@
 ---
 title: writing
-updated: 2024-10-05 09:57:13
+updated: 2024-10-06 11:09:14
 ---
 
 # writing
 
-(date: 2024-10-05 09:57:13)
+(date: 2024-10-06 11:09:14)
+
+---
+
+## Fran Skene (1937-2024)
+
+date: 2024-10-06, from: Locus Magazine
+
+<p>Canadian fan and author <strong>FRAN SKENE</strong>, 86, died June 17, 2024. Skene was active in Van­couver fandom in the ’70s and ’80s, chairing Westercon 30 in 1977, among other conven­tions, and was a major part of the ‘‘Vancouver in ’84’’ Worldcon bid. She also produced fanzines, and was a guest of honor at numerous conventions. Born December 18, 1937, Skene worked as a librarian. After her retirement, she published  <a href="https://locusmag.com/2024/10/fran-skene/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/10/fran-skene/>
+
+---
+
+## No/Mad/Land by Francisco Verso: Review by Paul Di Filippo
+
+date: 2024-10-06, from: Locus Magazine
+
+<p><strong>No/Mad/Land</strong>, Franceso Verso (Flame Tree Press 978-1787589278, hardcover, 384pp, $26.95) September 2024</p>
+<p>Even when deploying familiar tropes of the genre in totally au courant ways, science fiction by non-Anglo authors always reveals an idiosyncratic slant or attitude or worldview. This has been evident at least since Stanislaw Lem burst onto the English-language publishing scene, and is witnessed more recently in works from such accomplished authors as Cixin Liu, Hannu  <a href="https://locusmag.com/2024/10/no-mad-land-by-francisco-verso-review-by-paul-di-filippo/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/10/no-mad-land-by-francisco-verso-review-by-paul-di-filippo/>
+
+---
+
+## Reactor, The Sunday Morning Transport, and Nightmare: Short Fiction Reviews by Paula Guran
+
+date: 2024-10-06, from: Locus Magazine
+
+<p>Reactor 6/5/24 to 7/10/24
+The Sunday Morning Transport 5/26/24 to 7/14/24
+Nightmare 7/24</p>
+<p>Reactor continues to present top-quality fic­tion. <strong>Rich Larson</strong>’s “<strong>Breathing Constella­tions</strong>” (June 5) is small-scale but excellent SF story revolving around a struggling human commune in Argentinian Patagonia seeking the permission of a pod of orcas to begin harvesting plankton in their waters.</p>
+<p>In the heartwarming “<strong>Reduce! Reuse! Re­cycle!</strong>” (June 12) by <strong>TJ </strong> <a href="https://locusmag.com/2024/10/reactor-the-sunday-morning-transport-and-nightmare-short-fiction-reviews-by-paula-guran/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/10/reactor-the-sunday-morning-transport-and-nightmare-short-fiction-reviews-by-paula-guran/>
+
+---
+
+## Rebel by David Weber & Richard Fox: Review by Paul Di Filippo
+
+date: 2024-10-05, from: Locus Magazine
+
+<p><strong>Rebel</strong>, David Weber &#38; Richard Fox (Baen 978-1982193607, hardcover, 496pp, $28.00) September 2024</p>
+<p>I seem to be on a bit of a quest lately to try to acquaint myself with authors I’ve shamefully overlooked. That’s always a healthy move, I think—aligned with, but distinct from, keeping up with brand-new debut writers. I reviewed a Michael Flynn book for the first time recently in these pages (alas, only after he  <a href="https://locusmag.com/2024/10/paul-di-filippo-reviews-rebel-by-david-weber-richard-fox/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/10/paul-di-filippo-reviews-rebel-by-david-weber-richard-fox/>
+
+---
+
+## Lake of Darkness by Adam Roberts: Review by Gary K. Wolfe
+
+date: 2024-10-05, from: Locus Magazine
+
+<p><strong>Lake of Darkness</strong>, Adam Roberts (Gollancz 978-1-39961-767-3, £22.00, 320pp, hc) July 2024.</p>
+<p>Despite having won BSFA and Campbell Awards for his 2012 novel <strong>Jack Glass</strong>, Adam Roberts has a good case for being one of the most under-appreciated novelists in the UK – not a single Hugo or Nebula nomination in a career of more than two decades, according to the SFADB. As I and others have argued  <a href="https://locusmag.com/2024/10/lake-of-darkness-by-adam-roberts-review-by-gary-k-wolfe/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/10/lake-of-darkness-by-adam-roberts-review-by-gary-k-wolfe/>
+
+---
+
+## H. Bruce Franklin (1934-2024)
+
+date: 2024-10-05, from: Locus Magazine
+
+<p>Scholar and editor <strong>H. BRUCE FRANK­LIN</strong>, 90, died May 19, 2024 in El Cerrito CA. He taught one of the first university courses on science fiction literature while he was at Stanford University, and also wrote and edited numerous works of SF interest.</p>
+<p>Howard Bruce Franklin was born February 28, 1934 in Brooklyn NY. He worked his way through college, graduating from Amherst College in 1955. He served in  <a href="https://locusmag.com/2024/10/h-bruce-franklin-1934-2024/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/10/h-bruce-franklin-1934-2024/>
 
 ---
 
@@ -422,25 +490,4 @@ date: 2024-09-29, from: Locus Magazine
 <p>I seem to have found myself reading a number of haunted house novels in the last year or so, and it’s always fascinating to watch how authors still find ways to ring new changes on a template that goes back to the earliest Gothic novels. In <strong>Haunt Sweet Home</strong>, Sarah Pinsker’s witty approach is to focus  <a href="https://locusmag.com/2024/09/haunt-sweet-home-by-sarah-pinsker-review-by-gary-k-wolfe/" class="read-more">...Read More </a></p> 
 
 <https://locusmag.com/2024/09/haunt-sweet-home-by-sarah-pinsker-review-by-gary-k-wolfe/>
-
----
-
-## OK Kids, You Get to Vote
-
-date: 2024-09-28, from: Margaret Atwoods Substack
-
-Right here on this website. But not for President. 
-
-<https://margaretatwood.substack.com/p/ok-kids-you-get-to-vote>
-
----
-
-## One of Our Kind by Nicola Yoon: Review by Alex Brown
-
-date: 2024-09-28, from: Locus Magazine
-
-<p><strong>One of Our Kind</strong>, Nicola Yoon (Knopf 978-0-59347-067-1, $28.00. 272pp, hc) June 2024.</p>
-<p>Jasmyn, her husband Kingston, and their young son Kamau are excited to move to the new all-Black community of Liberty, just outside Los Angeles in Nicola Yoon’s <strong>One of Our Kind</strong>. King’s new job and higher income landed them a sprawl­ing home in a luxury community where everyone from the retail workers to the cops  <a href="https://locusmag.com/2024/09/one-of-our-kind-by-nicola-yoon-review-by-alex-brown/" class="read-more">...Read More </a></p> 
-
-<https://locusmag.com/2024/09/one-of-our-kind-by-nicola-yoon-review-by-alex-brown/>
 

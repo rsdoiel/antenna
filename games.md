@@ -1,11 +1,161 @@
 ---
 title: games
-updated: 2024-10-05 09:57:14
+updated: 2024-10-06 11:09:15
 ---
 
 # games
 
-(date: 2024-10-05 09:57:14)
+(date: 2024-10-06 11:09:15)
+
+---
+
+## 13 great horror games for horror wimps to play
+
+date: 2024-10-06, updated: 2024-10-04, from: Polygon Website
+
+October is spooky season, and the urge to settle in with some pumpkin-scented candles with a seasonally fitting game is at an all-time high. But while there are plenty of horror games out there for the brave and the bold, what are the scaredy-cats to do this Halloween season?  Never fear — we’ve collected a [&#8230;] 
+
+<https://www.polygon.com/what-to-play/458656/best-horror-games-wimps-not-too-scary>
+
+---
+
+## Red Rooms director on his skin-crawling serial-killer technothriller: ‘I’m going hard on you’
+
+date: 2024-10-06, updated: 2024-10-05, from: Polygon Website
+
+Canadian filmmaker Pascal Plante was already dwelling on the eldritch terrors that lurked below the surface of the dark web before the COVID-19 pandemic sent him into lockdown. But by 2021, his self-inflicted misery, combined with sitting at home for long stretches of time, resulted in the screenplay for Red Rooms.&#160; A brilliant examination of [&#8230;] 
+
+<https://www.polygon.com/horror/460518/red-rooms-director-interview-serial-killer>
+
+---
+
+## The Halloween Countdown: 31 days of horror to watch
+
+date: 2024-10-06, updated: 2024-10-06, from: Polygon Website
+
+Do you feel that? That chill in the air, that tingling sensation at the back of your neck? It can only mean one thing. That’s right: Halloween season is once again upon us! Here at Polygon, we love horror. We cover it all year round, whether it’s ranking the scariest new releases of the year [&#8230;] 
+
+<https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream>
+
+---
+
+## Mouthwashing is a surreal horror gem about being lost and starving in space
+
+date: 2024-10-06, updated: 2024-10-04, from: Polygon Website
+
+A good horror game scares you in the moment, but a great horror game lingers in the back of your mind well past the end credits. We’ve been blessed in recent years with a plethora of excellent horror games, but with the arrival of October comes even more spooky games to get us nice and [&#8230;] 
+
+<https://www.polygon.com/impressions/460243/mouthwashing-horror-game-steam-itchio-narrative>
+
+---
+
+## The Rings of Power refuses to weigh in on the most pressing Tolkien debate of our time
+
+date: 2024-10-06, updated: 2024-10-04, from: Polygon Website
+
+Season 1 of The Lord of the Rings: The Rings of Power promised a balrog, and while the tragic sacrifice of King Durin in the mithril-rich depths beneath Khazad-dûm might have been brief, it was certainly spectacular. But there’s one thing it didn’t do, and that’s give Rings of Power’s answer to a simple question: [&#8230;] 
+
+<https://www.polygon.com/lotr-rings-of-power/460132/trop-balrog-finale-lore-tolkien>
+
+---
+
+## The PlayStation 5 is $50 off ahead of Oct. Prime Day
+
+date: 2024-10-06, updated: 2024-10-06, from: Polygon Website
+
+If you’ve been on the fence about which PlayStation 5 to buy and have ultimately decided against the PS5 Pro — either because of the price tag or because you couldn’t nab the extra-gorgeous 30th anniversary edition in time —&#160;the slimmed-down PS5 Digital Edition is on sale at both Amazon and Target for $399.99 (was [&#8230;] 
+
+<https://www.polygon.com/amazon-prime-day/460722/ps5-slim-digital-best-deal>
+
+---
+
+## What time does Diablo 4: Vessel of Hatred release and season 6 start?
+
+date: 2024-10-05, updated: 2024-10-03, from: Polygon Website
+
+Vessel of Hatred is the first expansion for Diablo 4, and adds a new class, region, and act for the campaign. It also overhauls a ton of different systems for the game, officially pushing Diablo 4 into version 2.0. But when can you and your friends dive into Nahantu and meet the Spiritborn for the [&#8230;] 
+
+<https://www.polygon.com/diablo-4-guides/459108/vessel-of-hatred-dlc-release-time-season-6-start>
+
+---
+
+## Nova Drift turns Vampire Survivors into a recipe for glorious space combat
+
+date: 2024-10-05, updated: 2024-10-04, from: Polygon Website
+
+Over on Cheap Digicam TikTok, there’s a lot of talk about recipes these days. Recipes in this context are congregations of specific camera settings that can generate very specific film-like effects in digital photographs. Want a bloomy 1970s sunset or a cityscape with bokeh pearls the size of snowballs? Good news. There are recipes for [&#8230;] 
+
+<https://www.polygon.com/impressions/458387/nova-drift-impressions-vampire-survivors>
+
+---
+
+## Frankie Freako takes an Oscar-worthy approach to goofball gremlin terror
+
+date: 2024-10-05, updated: 2024-10-05, from: Polygon Website
+
+Making a great movie is a tall order. But making a great “bad” movie is a steeper challenge. Steven Kostanski has made the great bad movie his calling card: No one is elevating trash into treasure quite like the Canadian FX makeup maven turned director, whose abilities to transcend pastiche and stretch indie budgets into [&#8230;] 
+
+<https://www.polygon.com/horror/460974/frankie-freako-review>
+
+---
+
+## The Binding of Isaac card game is down to its lowest price ever ahead of Oct. Prime Day
+
+date: 2024-10-05, updated: 2024-10-04, from: Polygon Website
+
+The Binding of Isaac, the video game, remains one of the best roguelike games of all time. Even if you haven’t played the game yourself, there’s a good chance you’d recognize its distinct visuals, particularly Isaac himself. But there’s also The Binding of Isaac, the card game, which launched in 2018 to adapt much of [&#8230;] 
+
+<https://www.polygon.com/amazon-prime-day/461148/binding-of-isaac-card-game-best-deal>
+
+---
+
+## The best movies new to streaming this October
+
+date: 2024-10-05, updated: 2024-10-04, from: Polygon Website
+
+Happy October, Polygon readers! We’re officially in fall, and you know what that means: Halloween season. With the year’s spookiest holiday almost upon us, nearly every streaming service is pulling out all the stops to serve up the very best horror and horror-adjacent movies their respective libraries have to offer. As always, we’ve combed through [&#8230;] 
+
+<https://www.polygon.com/what-to-watch/459222/best-new-movies-netflix-amazon-prime-max-hulu-october-2024>
+
+---
+
+## NHL 25 isn’t built for newcomers, but it eventually fit into my little hockey world
+
+date: 2024-10-05, updated: 2024-10-04, from: Polygon Website
+
+After several years of watching hockey only during the Stanley Cup finals, I became a bonafide hockey fan during last year’s regular season. I watched the Boston Bruins’ opening night game against the Chicago Blackhawks last October, and I’ve missed only a handful of Bruins games since. I spent my birthday in the Hub on [&#8230;] 
+
+<https://www.polygon.com/review/459722/nhl-25-review>
+
+---
+
+## For Warhammer Day, treat yourself to 7 great games for $15
+
+date: 2024-10-05, updated: 2024-10-04, from: Polygon Website
+
+Warhammer Day isn’t technically until Oct. 14, but Humble is celebrating everyone’s favorite grimdark setting a bit early. Its “Have a Warhammer Day” bundle costs $15 and features seven titles and DLC, including one of the best Warhammer games around, Warhammer 4K: Inquisitor &#8211; Martyr. Even though other retailers like Steam and GOG are already [&#8230;] 
+
+<https://www.polygon.com/good-deals/460929/warhammer-40k-day-humble-bundle-sale>
+
+---
+
+## Pokémon Go Sewaddle Community Day guide
+
+date: 2024-10-05, updated: 2024-10-03, from: Polygon Website
+
+Pokémon Go is having a Sewaddle Community Day event on Saturday, Oct. 5, from 2-5 p.m. in your local time. As expected with a Community Day event, Sewaddle will spawn in huge numbers with a high chance for it to appear shiny. There are also several other bonuses and perks, which we’ve listed out below. [&#8230;] 
+
+<https://www.polygon.com/pokemon-go-guide/460144/sewaddle-community-day-shiny-start-time-swadloon-leavanny>
+
+---
+
+## The stories behind every song in Joker: Folie à Deux — and where to find the best versions
+
+date: 2024-10-05, updated: 2024-10-05, from: Polygon Website
+
+Back in 2022, Joker director Todd Phillips announced plans for a sequel with an Instagram post that revealed the title — Joker: Folie à Deux — but little else. When Lady Gaga joined the cast as Harleen Quinzel, better known as Harley Quinn, the picture became clearer. It clarified again with the rumors that it [&#8230;] 
+
+<https://www.polygon.com/movies/461267/joker-folie-a-deux-song-origins-where-to-stream>
 
 ---
 
@@ -626,54 +776,4 @@ date: 2024-09-29, updated: 2024-09-27, from: Polygon Website
 It’s 1971. Your top aide approaches you in the Oval Office. “As president,” he says, “you have authorized numerous dirty tricks straight out of the White House, like wiretapping and break-ins. Much of this stemmed from your paranoia over leaks of the secret bombing of Cambodia. Among those targeted by the White House ‘Plumbers’ have [&#8230;] 
 
 <https://www.polygon.com/gaming/457588/living-alt-history-election-dreams-and-nightmares-in-the-campaign-trail>
-
----
-
-## Nier: Automata Ver1.1a is the sleeper hit of the anime season
-
-date: 2024-09-28, updated: 2024-09-27, from: Polygon Website
-
-After being left feeling deflated by the first episode of Nier: Automata Ver1.1a, an adaptation of the outstanding video game from Yoko Taro and PlatinumGames, I didn’t think I’d return to it. It played like what a cynic would expect: an almost one-to-one recreation but with uglier 3D animation; it felt like it was missing [&#8230;] 
-
-<https://www.polygon.com/anime/457315/nier-automata-ver1-1a-review-good-actually>
-
----
-
-## Sleep turns sleepwalking into a supernatural slasher — and it’s wicked fun
-
-date: 2024-09-28, updated: 2024-09-27, from: Polygon Website
-
-Train to Busan, The Wailing, A Tale of Two Sisters, I Saw the Devil — the Korean horror movies that have crossed over and popped in the States have been intense, often sprawling films that teeter on the edge of thriller. Their nightmares linger. So Sleep, now in U.S. theaters, was an immediate surprise, simply [&#8230;] 
-
-<https://www.polygon.com/movies/457288/sleep-movie-2024-review>
-
----
-
-## What is Alan Tudyk&#8217;s secret role in Superman?
-
-date: 2024-09-28, updated: 2024-09-27, from: Polygon Website
-
-Even as a diehard Man of Steel advocate, I am excited for James Gunn’s new take on Superman. It’s the DCU’s first major project since Gunn was named co-CEO of DC Studios, offering a reset on the DC Universe and a chance for a fresh new face in the iconic red and blue. David Corenswet [&#8230;] 
-
-<https://www.polygon.com/dc/457411/alan-tudyk-superman-movie-role-casting-who>
-
----
-
-## The best movies leaving Netflix, Max, and Prime at the end of September 2024
-
-date: 2024-09-28, updated: 2024-09-28, from: Polygon Website
-
-We’re almost to the end of the month, and that means a lot of coming and going on every major streaming platform. And while plenty of exciting movies are on the way in October, with plenty of great spooky options to choose from, we’re here to make sure you don’t miss the gems leaving at [&#8230;] 
-
-<https://www.polygon.com/what-to-watch/455795/best-movies-netflix-amazon-hulu-leaving-september-2024>
-
----
-
-## I started building my neighborhood in The Sims and now I feel like a creep 
-
-date: 2024-09-28, updated: 2024-09-27, from: Polygon Website
-
-In the opening scene of Alfred Hitchcock’s Rear Window, a panning camera shows the outside of buildings and gives the viewer a glimpse inside the apartments. From the floating vantage point, you can see the ongoings of neighbors as they start their days. The view of the camera helps set the scene for the movie, [&#8230;] 
-
-<https://www.polygon.com/gaming/457097/sims-4-recreating-neighborhoood>
 

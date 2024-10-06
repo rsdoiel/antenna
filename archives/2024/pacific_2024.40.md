@@ -1,11 +1,843 @@
 ---
 title: pacific
-updated: 2024-10-05 09:57:09
+updated: 2024-10-06 11:09:10
 ---
 
 # pacific
 
-(date: 2024-10-05 09:57:09)
+(date: 2024-10-06 11:09:10)
+
+---
+
+## Finding ʻUlutopia: Better breadfruit through Kauaʻi CC research project
+
+date: 2024-10-06, from: University of Hawaiʻi News
+
+<p>A <span aria-label="Kauai">Kaua&#699;i</span> <abbr>CC</abbr> project has found a way to double the production of <span aria-label="ulu">&#699;ulu</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/06/finding-ulutopia-better-breadfruit-through-kauai-cc/">Finding ʻUlutopia: Better breadfruit through Kauaʻi <abbr>CC</abbr> research project</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/06/finding-ulutopia-better-breadfruit-through-kauai-cc/>
+
+---
+
+## MLB roundup: Shohei Ohtani sparks Dodgers’ rally vs. Padres
+
+date: 2024-10-06, updated: 2024-10-06, from: Marianas Variety
+
+(Reuters) — Shohei Ohtani hit a three-run home run in the first playoff game of his career and the host Los Angeles Dodgers rallied for a 7-5 victory over the San Diego Padres on Saturday in Game 1 of their National League Division Series. 
+
+<https://www.mvariety.com/sports/nationalsports/mlb-roundup-shohei-ohtani-sparks-dodgers-rally-vs-padres/article_a04f3ac6-83d1-11ef-8d18-fb1b1771f2cb.html>
+
+---
+
+## Chaos hits AP poll with 4 teams ranked in the top 11 losing to unranked opponents
+
+date: 2024-10-06, updated: 2024-10-06, from: Marianas Variety
+
+(AP) —  Vanderbilt’s stunning upset of No. 1 Alabama that led to crazed fans marching the goal posts through the streets of Nashville was just the appetizer. 
+
+<https://www.mvariety.com/sports/nationalsports/chaos-hits-ap-poll-with-4-teams-ranked-in-the-top-11-losing-to-unranked/article_0fe6f5e6-83d1-11ef-ad14-077d13aa29d1.html>
+
+---
+
+## Guam Agriculture opposes NOAA’s listing giant clams as endangered
+
+date: 2024-10-06, updated: 2024-10-06, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — Imagine for a minute that CHamorus could no longer wear a sinahi or other jewelry made from the giant clam across borders without risking confiscation. According to the Guam Department of Agriculture, that is just one of the impacts the National Oceanic and Atmospheric Administration proposal to list 10 species of giant clams as endangered would bring. 
+
+<https://www.mvariety.com/news/regional_world/guam-agriculture-opposes-noaa-s-listing-giant-clams-as-endangered/article_05018424-83d2-11ef-8a6b-0bffab38f776.html>
+
+---
+
+## Beto, Vizion Insurance in basketball finale
+
+date: 2024-10-06, updated: 2024-10-06, from: Marianas Variety
+
+BETO and Vizion Insurance will vie for the season 2 championship of the Destroyers Basketball Club Friedly Games 2024 after eliminating their respective semifinal adversaries at the TSL Sports Complex on Saturday. 
+
+<https://www.mvariety.com/sports/localsports/beto-vizion-insurance-in-basketball-finale/article_0c5ca48c-83bf-11ef-ad13-539bac7a58b3.html>
+
+---
+
+## Tony Satur is Amigos September Ace
+
+date: 2024-10-06, updated: 2024-10-06, from: Marianas Variety
+
+TONY Satur topped the Amigos Golf Club’s September Ace of the Month tournament with a two-day net total of 140 at the west course  of Laolao Bay Golf &amp; Resort on Sunday, Sept. 15. 
+
+<https://www.mvariety.com/sports/localsports/tony-satur-is-amigos-september-ace/article_8ad6850e-83be-11ef-ae98-bbe207ce0714.html>
+
+---
+
+## Fighting for the future
+
+date: 2024-10-06, updated: 2024-10-06, from: Marianas Variety
+
+HAFA Adai! 
+
+<https://www.mvariety.com/views/letters_to_editor/fighting-for-the-future/article_f74bba50-83d3-11ef-bc3e-7f56211e8ad8.html>
+
+---
+
+## Dear CNMI community
+
+date: 2024-10-06, updated: 2024-10-06, from: Marianas Variety
+
+AS we approach the midterm elections, it is crucial to reflect on the current state of our Commonwealth and evaluate the actions taken by both past and present administrations. Equally important is the need to hold our Senators, Representatives, and new candidates accountable for the plans they present moving forward. 
+
+<https://www.mvariety.com/views/letters_to_editor/dear-cnmi-community/article_2ec726e0-83d4-11ef-8517-bf4aef002fed.html>
+
+---
+
+## BC’s Tales of the Pacific ǀ Tristan Jones
+
+date: 2024-10-06, updated: 2024-10-06, from: Marianas Variety
+
+JIMMY Buffett taught us that sometimes, well-told fiction is better than reality.  Tristan Jones would have agreed.  His own life packed enough interesting material to keep inquisitive grandchildren gathered wide-eyed at his feet for years, yet halfway through his life’s journey he upped the ante and reinvented himself.  Separating fact from fiction in Tristan Jones’ life is one thing, but whatever you think of him, there is no denying his power with the pen. 
+
+<https://www.mvariety.com/views/columnists/bc-s-tales-of-the-pacific-tristan-jones/article_4671f988-83d3-11ef-b8c1-fb2d6c4cc629.html>
+
+---
+
+## Jigz celebrates 15 years of service to NMI
+
+date: 2024-10-06, updated: 2024-10-06, from: Marianas Variety
+
+JIGZ Barber Shop &amp; Beauty Salon on Saturday celebrated its 15th year of providing the local community with quality services. 
+
+<https://www.mvariety.com/news/local/jigz-celebrates-15-years-of-service-to-nmi/article_ad784ee0-83a9-11ef-845d-af6c43239b46.html>
+
+---
+
+## SSHS celebrates its AP Capstone Diploma recipients
+
+date: 2024-10-06, updated: 2024-10-06, from: Marianas Variety
+
+(SSHS) — Over 2,500 schools participated in the AP Capstone Diploma program, a project-based learning experience valued by colleges and universities across the U.S. and around the world. 
+
+<https://www.mvariety.com/news/community_bulletins/sshs-celebrates-its-ap-capstone-diploma-recipients/article_9bcd8474-83dd-11ef-8db5-375f3fe431c2.html>
+
+---
+
+## Campaigns seek any edge to sway a tossup election
+
+date: 2024-10-06, from: Hawaii Tribune Harold
+
+
+				<p>As Vice President Kamala Harris and former President Donald Trump begin the final 30-day push for the White House, they are locked in a neck-and-neck race from the Rust Belt to the Sun Belt.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/06/nation-world-news/campaigns-seek-any-edge-to-sway-a-tossup-election/>
+
+---
+
+## Trump’s return to scene of attack is a do-over in more ways than one
+
+date: 2024-10-06, from: Hawaii Tribune Harold
+
+
+				<p>BUTLER, Pa. &#8212; Donald Trump returned to Butler, Pennsylvania, on Saturday for a massive rally at the fairgrounds where he was struck in July by a would-be assassin&#8217;s bullet, an event envisioned by his campaign as a show of strength and a memorial for the former volunteer fire chief who was killed during the attack.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/06/nation-world-news/trumps-return-to-scene-of-attack-is-a-do-over-in-more-ways-than-one/>
+
+---
+
+## Bill targets 40-year-old law regarding radioactive materials
+
+date: 2024-10-06, from: Hawaii Tribune Harold
+
+
+				<p>A decades-old Hawaii County law allowing the U.S. Armed Forces to freely transport radioactive materials on the island may be coming to an end.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/06/hawaii-news/bill-targets-40-year-old-law-regarding-radioactive-materials/>
+
+---
+
+## As 23andMe struggles, concerns surface about its genetic data
+
+date: 2024-10-06, from: Hawaii Tribune Harold
+
+
+				<p>The genetic testing company 23andMe, once valued at $6 billion, is facing an uncertain future after a drop in share prices, a recent board resignation and a data breach last year that affected nearly 7 million customers.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/06/nation-world-news/as-23andme-struggles-concerns-surface-about-its-genetic-data/>
+
+---
+
+## NOAA seeks to restore road to Mauna Loa Observatory
+
+date: 2024-10-06, from: Hawaii Tribune Harold
+
+
+				<p>Access to the Mauna Loa Observatory could be restored by next April, more than two years after the eruption of its namesake volcano cut it off from the rest of the island.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/06/hawaii-news/noaa-seeks-to-restore-road-to-mauna-loa-observatory/>
+
+---
+
+## Council bill seeks to ease permit restrictions for ag lot owners
+
+date: 2024-10-06, from: Hawaii Tribune Harold
+
+
+				<p>Agricultural landowners could encounter less red tape when trying to make small improvements to their properties, under a County Council proposal.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/06/hawaii-news/council-bill-seeks-to-ease-permit-restrictions-for-ag-lot-owners/>
+
+---
+
+## As America’s marijuana use grows, so do the harms
+
+date: 2024-10-06, from: Hawaii Tribune Harold
+
+
+				<p>In midcoast Maine, a pediatrician sees teenagers so dependent on cannabis that they consume it practically all day, every day &#8212; &#8220;a remarkably scary amount,&#8221; she said.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/06/nation-world-news/as-americas-marijuana-use-grows-so-do-the-harms/>
+
+---
+
+## Man charged with felony fireworks offense
+
+date: 2024-10-06, from: Hawaii Tribune Harold
+
+
+				<p>A 44-year-old Hilo man might be the first Hawaii Island resident to be charged with a felony fireworks offense.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/06/hawaii-news/man-charged-with-felony-fireworks-offense/>
+
+---
+
+## US officials struggle to quash Hurricane Helene conspiracy theories
+
+date: 2024-10-06, from: Hawaii Tribune Harold
+
+
+				<p>In the wake of the devastation of Hurricane Helene in the United States this week, a new storm emerged on social media - false rumors about how disaster funds have been used, and even claims that officials control the weather.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/06/nation-world-news/us-officials-struggle-to-quash-hurricane-helene-conspiracy-theories/>
+
+---
+
+## USS Daniel Inouye returns from first deployment
+
+date: 2024-10-06, from: Hawaii Tribune Harold
+
+
+				<p>The Navy destroyer USS Daniel Inouye returned Friday to its home port of Pearl Harbor as it concluded its first overseas deployment. On the edge of the pier, friends and family of the ship&#8217;s crew waited with signs and lei to welcome their sailors back home.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/06/hawaii-news/uss-daniel-inouye-returns-from-first-deployment/>
+
+---
+
+## Your Views for October 5
+
+date: 2024-10-06, from: Hawaii Tribune Harold
+
+
+				<p>&#8216;Affordable&#8217; might&#0010;not be right word</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/06/opinion/your-views-for-october-5-9/>
+
+---
+
+## Obituaries for October 6
+
+date: 2024-10-06, from: Hawaii Tribune Harold
+
+
+				<p>Henry Sweetleimamo Evangelista Jr., 67 of Pahoa died Sept. 1 at home. He was an entrepreneur, owning Kukui Boy Products, distributor of wholesale and retail manufacturing of food products, catering, preparing meals for the Alu Like Kupuna program, owner of the Waiakea Kai Cafe and Snack Shop serving local-style foods, Mamo-Ulu Creations, a local attire company, musician and songwriter, artist, and man of many talents who received the Golden Hammer Award for the Class of 1975 at Pahoa High School. Private services with cremation to follow. Survived by daughter, Lesly Makamae S. (Damon) Remmers; son, Layne Mohala (Ku&#8216;uhoni) Wong-Evangelista; mother of his children, Ululani Tammy Evangelista; partner, Jackie Markham; sisters, Sandy Evangelista, Emmalyn Evangelista of Hilo and Heather (Christian)Kubo of Puna, four grandchildren and four great-grandchildren; nieces and nephews. Arrangemens by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/06/obituaries/obituaries-for-october-6-10/>
+
+---
+
+## Heavy strikes shake Beirut as Israel expands Lebanon campaign
+
+date: 2024-10-06, from: Hawaii Tribune Harold
+
+
+				<p>BEIRUT (Reuters) &#8212; Massive consecutive strikes hit Beirut&#8217;s southern suburbs from late Saturday into Sunday, Reuters eyewitnesses said, sending booms across the city and sparking flashes of red and white for nearly 30 minutes visible from several kilometers away. The strikes came after days of bombing by Israel of Beirut suburbs considered strongholds for Iran-backed armed group Hezbollah, killing its leader Sayyed Hassan Nasrallah, and possibly his potential successor. A Lebanese security source said on Saturday that Hashem Safieddine, the potential successor, had been out of contact since Friday, after an Israeli airstrike near the city&#8217;s international airport that was reported to have targeted him. The Israeli military said it eliminated Nasrallah in a strike on the group&#8217;s central command headquarters in Beirut on Sept. 27. Hezbollah confirmed he had been killed.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/06/nation-world-news/heavy-strikes-shake-beirut-as-israel-expands-lebanon-campaign/>
+
+---
+
+## Harris meets with Arab and Muslim leaders in Michigan
+
+date: 2024-10-06, from: Hawaii Tribune Harold
+
+
+				<p>Vice President Kamala Harris on Friday met with Arab and Muslim leaders while campaigning in Michigan, a crucial battleground state where roiling discontent over the United States&#8217; backing of Israel&#8217;s war in the Gaza Strip and Israel&#8217;s escalating attacks in Lebanon could threaten her support.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/06/nation-world-news/harris-meets-with-arab-and-muslim-leaders-in-michigan/>
+
+---
+
+## Volcano Watch: First light (and flight) for HVO’s new airborne lidar system
+
+date: 2024-10-06, from: Hawaii Tribune Harold
+
+
+				<p>Topographic mapping has been a key component of volcano monitoring for decades, helping scientists to study morphologic changes and predict the paths of lava flows during eruptions. Lidar systems are a preferred mapping tool and the USGS Hawaiian Volcano Observatory now has a lidar system of its own to generate mapping products more frequently than ever before.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/06/community/volcano-watch-first-light-and-flight-for-hvos-new-airborne-lidar-system/>
+
+---
+
+## What Vance wouldn’t say: Donald Trump lost in 2020, fair and square
+
+date: 2024-10-06, from: Hawaii Tribune Harold
+
+
+				<p>In contrast to the scattered, angry, erratic, openly demagogic man at the top of the ticket, Sen. JD Vance was calm and clear and presentable in Tuesday night&#8217;s debate against Gov. Tim Walz, Kamala Harris&#8217; choice to be a heartbeat away from the presidency. Vance probably even won on points, if you judge these things like a high school debate meet; Walz served up a few word salads. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/06/opinion/what-vance-wouldnt-say-donald-trump-lost-in-2020-fair-and-square/>
+
+---
+
+## The Rhine River: Raging with history
+
+date: 2024-10-06, from: Hawaii Tribune Harold
+
+
+				<p>Jostling through crowds of Germans and tourists in the Rhine River village of Bacharach, I climb to the sun deck of the ferry and grab a chair. With the last passenger barely aboard, the gangplank is dragged in and the river pulls us away.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/06/features/the-rhine-river-raging-with-history/>
+
+---
+
+## Shohei Ohtani leads Dodgers past Padres in playoff debut
+
+date: 2024-10-06, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; Shohei Ohtani hit a three-run home run in the first playoff game of his career and the Los Angeles Dodgers rallied for a 7-5 victory over the San Diego Padres on Saturday in Game 1 of their National League Division Series.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/06/sports/shohei-ohtani-leads-dodgers-past-padres-in-playoff-debut/>
+
+---
+
+## Texas A&M blasts No. 9 Missouri with balanced attack
+
+date: 2024-10-06, from: Hawaii Tribune Harold
+
+
+				<p>Le&#8217;Veon Moss rushed for 138 yards and three touchdowns and Conner Weigman threw for 276 yards as No. 25 Texas A&#038;M dismantled No. 9 Missouri 41-10 in their Southeastern Conference matchup on Saturday in Bryan-College Station, Texas.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/06/sports/texas-am-blasts-no-9-missouri-with-balanced-attack/>
+
+---
+
+## Alex Verdugo, Yankees clip Royals to open ALDS
+
+date: 2024-10-06, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; The final three-plus months of Alex Verdugo&#8217;s first regular season with the New York Yankees were so frustrating that there were some doubts if he would be in the starting lineup for Game 1 of the American League Division Series.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/06/sports/alex-verdugo-yankees-clip-royals-to-open-alds/>
+
+---
+
+## Five Warriors observations: Lindy Waters III hits game winner to beat Clippers on Oahu
+
+date: 2024-10-06, from: Hawaii Tribune Harold
+
+
+				<p>HONOLULU &#8212; Here are five observations from the Warriors&#8217; preseason-opening 91-90 win over the Clippers on Saturday afternoon in Hawaii.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/06/sports/five-warriors-observations-lindy-waters-iii-hits-game-winner-to-beat-clippers-on-oahu/>
+
+---
+
+## Vanderbilt jumps ahead early, never trails in stunning upset of No. 1 Alabama
+
+date: 2024-10-06, from: Hawaii Tribune Harold
+
+
+				<p>Vanderbilt&#8217;s Diego Pavia threw for 252 yards and two touchdowns as the Commodores shocked top-ranked Alabama, 40-35, at First Bank Stadium in Nashville, Tenn., on Saturday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/06/sports/vanderbilt-jumps-ahead-early-never-trails-in-stunning-upset-of-no-1-alabama/>
+
+---
+
+## The Savannah Bananas needed a bigger stage
+
+date: 2024-10-06, from: Hawaii Tribune Harold
+
+
+				<p>Getting tickets to Savannah Bananas games over the last few years has been so difficult that the barnstorming baseball team has drawn comparisons to Taylor Swift. And like Swift, the Bananas, who have danced their way to national stardom, will be taking their act from intimate venues to almost exclusively giant stadiums in 2025.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/06/sports/the-savannah-bananas-needed-a-bigger-stage/>
+
+---
+
+## FIFA limits on player transfers are illegal, Europe’s top court rules
+
+date: 2024-10-06, from: Hawaii Tribune Harold
+
+
+				<p>Europe&#8217;s top court ruled Friday that some elements of soccer&#8217;s multibillion-dollar global player trading market are illegal, a decision that is likely to force changes to the way thousands of athletes move between teams around the world every year.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/06/sports/fifa-limits-on-player-transfers-are-illegal-europes-top-court-rules/>
+
+---
+
+## Guam takes 3rd in FIRST Global Challenge
+
+date: 2024-10-06, from: Guam Daily Post
+
+On Saturday in Hagåtña, four seniors from Father Duenas Memorial School and Simon Sanchez High School showcased their robotics project which won their alliance third place in a competition held over 7,000 miles away in Athens, Greece. 
+
+<https://www.postguam.com/news/local/guam-takes-3rd-in-first-global-challenge/article_0f3e1d06-8393-11ef-8ee1-8303c9ae7d70.html>
+
+---
+
+## Guam Agriculture opposes NOAA's listing giant clams as endangered
+
+date: 2024-10-06, from: Guam Daily Post
+
+Imagine for a minute that CHamorus could no longer wear a sinahi or other jewelry made from the giant clam across borders without risking confiscation. According to the Guam Department of Agriculture, that is just one of the impacts the… 
+
+<https://www.postguam.com/news/local/guam-agriculture-opposes-noaas-listing-giant-clams-as-endangered/article_abf8a8c8-839d-11ef-9fcb-eb0f75fbc377.html>
+
+---
+
+## Stakeout leads to 4 drug arrests
+
+date: 2024-10-06, from: Guam Daily Post
+
+The Guam Police Department arrested four individuals, one of them suspected to be the “main man” of an alleged “trap house” in Dededo. 
+
+<https://www.postguam.com/news/local/stakeout-leads-to-4-drug-arrests/article_c2614e08-8299-11ef-9ea2-8ffb669e7189.html>
+
+---
+
+## Man allegedly assaulted father
+
+date: 2024-10-06, from: Guam Daily Post
+
+A suspect charged Thursday in the Superior Court of Guam allegedly wore brass knuckles during an altercation with his father that turned physical over a “rude awakening.” 
+
+<https://www.postguam.com/news/local/man-allegedly-assaulted-father/article_b19de3e2-81f4-11ef-95a5-97a1ac8c6e3a.html>
+
+---
+
+## Man accused of threats to woman, children
+
+date: 2024-10-06, from: Guam Daily Post
+
+A man who allegedly claimed to be part of a “crew” is accused of threatening his girlfriend and her sons for “retaliation,” a magistrate's complaint filed in the Superior Court of Guam stated. 
+
+<https://www.postguam.com/news/local/man-accused-of-threats-to-woman-children/article_84f57e7e-8378-11ef-871d-4779399a539f.html>
+
+---
+
+## Driver involved in a head-on car collision allegedly drank 8 beers
+
+date: 2024-10-06, from: Guam Daily Post
+
+A 25-year-old man allegedly had more than two times the legal blood alcohol level when he collided head-on with another vehicle on Thursday in Mangilao. 
+
+<https://www.postguam.com/news/local/driver-involved-in-a-head-on-car-collision-allegedly-drank-8-beers/article_16cd0aaa-8299-11ef-a646-6b210dbe5ab9.html>
+
+---
+
+## The sunny side of life
+
+date: 2024-10-05, from: Pacific Island Times
+
+Someone said, “Aline, you don’t like to criticize others in your writing.” I thought about that. There were a couple of times when anger... 
+
+<https://www.pacificislandtimes.com/post/the-sunny-side-of-life>
+
+---
+
+## What America left behind
+
+date: 2024-10-05, from: Pacific Island Times
+
+Manila – A work-related trip recently brought me to Subic Naval Facility, the site of one of the two former U.S. military bases in the... 
+
+<https://www.pacificislandtimes.com/post/what-america-left-behind>
+
+---
+
+## My lucky day
+
+date: 2024-10-05, from: Pacific Island Times
+
+Bridgman, MI— In my previous column, I told the story of the last speeding ticket I had and the promise I made to my wife, Sharon, to... 
+
+<https://www.pacificislandtimes.com/post/my-lucky-day>
+
+---
+
+## Independence, co-dependence: The complex nature of free association
+
+date: 2024-10-05, from: Pacific Island Times
+
+On Oct. 1, 2024, Palau marked the 30th anniversary of its independence. The two other freely associated states, the Federated States of... 
+
+<https://www.pacificislandtimes.com/post/independence-co-dependence-the-complex-nature-of-free-association>
+
+---
+
+## U.S. will not renew legal status for hundreds of thousands of migrants
+
+date: 2024-10-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Biden administration will not renew a temporary humanitarian entry program for hundreds of thousands of migrants with U.S. sponsors who arrived in recent years, the U.S. Department of Homeland Security said on Friday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/05/nation-world-news/u-s-will-not-renew-legal-status-for-hundreds-of-thousands-of-migrants/>
+
+---
+
+## Israel targets Hezbollah intel HQ in Lebanon; Iran says it will not back down
+
+date: 2024-10-05, from: Hawaii Tribune Harold
+
+
+				<p>BEIRUT/JERUSALEM &#8212; Israel said it had targeted the intelligence headquarters of Hezbollah in Beirut and was assessing the damage on Friday after a series of strikes on senior figures in the group that Iran&#8217;s Supreme Leader dismissed as counterproductive.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/05/nation-world-news/israel-targets-hezbollah-intel-hq-in-lebanon-iran-says-it-will-not-back-down/>
+
+---
+
+## Judge halts Biden student debt plan right after it was allowed to proceed
+
+date: 2024-10-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A federal judge in Missouri temporarily blocked a Biden administration plan to cancel student debt less than a day after another judge had allowed it to proceed, throwing into uncertainty the fate of a program that could affect more than 27 million borrowers.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/05/nation-world-news/judge-halts-biden-student-debt-plan-right-after-it-was-allowed-to-proceed/>
+
+---
+
+## Some still searching for their loved ones a week after Hurricane Helene
+
+date: 2024-10-05, from: Hawaii Tribune Harold
+
+
+				<p>BLACK MOUNTAIN, N.C. &#8212; The last time Drew McLean&#8217;s parents saw him, he was marveling at the power of Tropical Storm Helene as it washed over their home in the mountains of North Carolina.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/05/nation-world-news/some-still-searching-for-their-loved-ones-a-week-after-hurricane-helene/>
+
+---
+
+## Dow registers record high close as US jobs data eases economic worries
+
+date: 2024-10-05, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; The Dow posted a record closing high on Friday and the Nasdaq ended with a more than 1% gain as a stronger-than-expected jobs report reassured investors who had worried the economy may be getting too weak.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/05/nation-world-news/dow-registers-record-high-close-as-us-jobs-data-eases-economic-worries/>
+
+---
+
+## Haitian gang slaughters at least 70 people as thousands flee
+
+date: 2024-10-05, from: Hawaii Tribune Harold
+
+
+				<p>PORT-AU-PRINCE &#8212; Gang members brandishing automatic rifles stormed through a town in Haiti&#8217;s main breadbasket region, killing at least 70 and forcing over 6,000 to flee, causing widespread shock even in a country grown accustomed to outbreaks of violence.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/05/nation-world-news/haitian-gang-slaughters-at-least-70-people-as-thousands-flee/>
+
+---
+
+## The bold. The beautiful. The fat bear.
+
+date: 2024-10-05, from: Hawaii Tribune Harold
+
+
+				<p>Voters have a lot to weigh: leadership qualities, policy agenda, experience. But over the past decade, one race has been defined by the amount of wild salmon that can be smashed into a mouth. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/05/features/the-bold-the-beautiful-the-fat-bear/>
+
+---
+
+## A reflection — How Kamala Harris is carrying the torch
+
+date: 2024-10-05, from: Hawaii Tribune Harold
+
+
+				<p>As the 2024 presidential campaign season heats up, with Vice President Kamala Harris emerging as a formidable contender, it&#8217;s a moment to reflect on the enduring power of the feminist mantra that has shaped generations of women in politics: &#8220;The personal is political.&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/05/opinion/a-reflection-how-kamala-harris-is-carrying-the-torch/>
+
+---
+
+## Nibi the beaver’s future reached the courts. Then the Massachusetts governor stepped in.
+
+date: 2024-10-05, from: Hawaii Tribune Harold
+
+
+				<p>This is a story about wildlife, about bureaucracy, about politics, about the internet.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/05/nation-world-news/nibi-the-beavers-future-reached-the-courts-then-the-massachusetts-governor-stepped-in/>
+
+---
+
+## Conservative activists are monitoring — and filming — voter registration sites
+
+date: 2024-10-05, from: Hawaii Tribune Harold
+
+
+				<p>One sweltering morning in Phoenix, four workers from a Latino nonprofit stood with clipboards outside a motor vehicle office to do the grunt work of democracy: persuading reluctant Americans to register to vote.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/05/opinion/conservative-activists-are-monitoring-and-filming-voter-registration-sites/>
+
+---
+
+## As 10 states prepare to vote on abortion rights, Texas shows that abortion bans are deadly for women
+
+date: 2024-10-05, from: Hawaii Tribune Harold
+
+
+				<p>This election day, voters will have a direct voice in deciding whether to preserve or enhance abortion rights in 10 states, including six in which abortion is outlawed or seriously restricted.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/05/opinion/as-10-states-prepare-to-vote-on-abortion-rights-texas-shows-that-abortion-bans-are-deadly-for-women/>
+
+---
+
+## Pandemic startups are thriving, and helping to fuel the economy
+
+date: 2024-10-05, from: Hawaii Tribune Harold
+
+
+				<p>Hector Xu was on track for a career in academia when the pandemic upended his plans.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/05/nation-world-news/pandemic-startups-are-thriving-and-helping-to-fuel-the-economy/>
+
+---
+
+## Hawaii’s tourism goals unlikely to keep up with inflation
+
+date: 2024-10-05, from: Hawaii Tribune Harold
+
+
+				<p>Times are tough.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/05/hawaii-news/hawaiis-tourism-goals-unlikely-to-keep-up-with-inflation/>
+
+---
+
+## Ports rush to reopen after first major strike in decades is suspended
+
+date: 2024-10-05, from: Hawaii Tribune Harold
+
+
+				<p>Hours after a longshoremen&#8217;s union on the East and Gulf coasts agreed to suspend its strike, major ports rushed to reopen Friday and get cargo to businesses that have spent the last few days racked with fear over lost sales.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/05/nation-world-news/ports-rush-to-reopen-after-first-major-strike-in-decades-is-suspended/>
+
+---
+
+## An exodus of agents left the Secret Service unprepared for 2024
+
+date: 2024-10-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; In November, Michael Ebey, a Secret Service special agent, found himself working another 12-hour shift. Like so many before, it was grueling.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/05/nation-world-news/an-exodus-of-agents-left-the-secret-service-unprepared-for-2024/>
+
+---
+
+## BIIF volleyball: Warriors, Ka Makani and Bulls sweep
+
+date: 2024-10-05, from: Hawaii Tribune Harold
+
+
+				<p>HILO &#8212; Waiakea girls volleyball opened its two-match homestand with its second consecutive straight-sets victory on Thursday in Hilo. The Warriors beat the visiting Kea&#8216;au Cougars by scores of 25-10, 25-14 and 25-11. It was the seventh straight-sets win of the season for Waiakea.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/05/sports/biif-volleyball-warriors-ka-makani-and-bulls-sweep/>
+
+---
+
+## UH-Hilo volleyball: Vulcans bounce back to down Menlo; Leonard moves to No. 2 in program wins
+
+date: 2024-10-05, from: Hawaii Tribune Harold
+
+
+				<p>ATHERTON, California &#8211; Hawai&#8217;i Hilo Women&#8217;s Volleyball rebounded from an opening-set defeat to down Menlo in four sets (17-25, 25-12, 25-11, 25-21) Thursday evening in Pacific West Conference play at the Haynes-Prim Pavilion.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/05/sports/uh-hilo-volleyball-vulcans-bounce-back-to-down-menlo-leonard-moves-to-no-2-in-program-wins/>
+
+---
+
+## BIIF football: Wildcats wash Waveriders
+
+date: 2024-10-05, from: Hawaii Tribune Harold
+
+
+				<p>KEALAKEKUA &#8212; Konawaena football played one of its best games of the season during Thursday night&#8217;s rout of local rival Kealakehe at Julian R. Yates Field.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/05/sports/biif-football-wildcats-wash-waveriders/>
+
+---
+
+## Mets geared up to face Phillies ace Zack Wheeler in Game 1 of NLDS
+
+date: 2024-10-05, from: Hawaii Tribune Harold
+
+
+				<p>PHILADELPHIA &#8212; Shockingly, J.D. Martinez has never faced Zack Wheeler.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/05/sports/mets-geared-up-to-face-phillies-ace-zack-wheeler-in-game-1-of-nlds/>
+
+---
+
+## A season of milestones for Ohtani, with the big one still unfulfilled
+
+date: 2024-10-05, from: Hawaii Tribune Harold
+
+
+				<p>In his first season as a member of the Los Angeles Dodgers, Shohei Ohtani has established himself as the center of the franchise&#8217;s universe. He thrived underneath the spotlight of his 10-year, $700 million contract. His boost to the financial bottom line made team officials giddy &#8212; &#8220;well beyond what we imagined,&#8221; said the team&#8217;s president, Stan Kasten. He responded to a shocking betrayal from his closest confidant with one of the best offensive seasons in MLB history.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/05/sports/a-season-of-milestones-for-ohtani-with-the-big-one-still-unfulfilled/>
+
+---
+
+## Week 5 NFL capsules
+
+date: 2024-10-05, from: Hawaii Tribune Harold
+
+
+				<p><strong>New York Jets (2-2) vs. Minnesota Vikings (4-0) in London</strong></p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/05/sports/week-5-nfl-capsules/>
+
+---
+
+## Complaint: Suspect tried to lose police on dark road
+
+date: 2024-10-05, from: Guam Daily Post
+
+A suspect who led police on a high-speed chase through Dededo on Oct. 1 didn’t get away for long, despite efforts to lose authorities on a dark road, according to a magistrate's complaint filed in the Superior Court of Guam… 
+
+<https://www.postguam.com/news/local/complaint-suspect-tried-to-lose-police-on-dark-road/article_a87bb9e2-8208-11ef-873f-07a795cc8ebc.html>
+
+---
+
+## GDOE: Chief Brodie passes inspection, no word on SHS inspection results
+
+date: 2024-10-05, from: Guam Daily Post
+
+It’s been a week since the superintendent’s deadline to have all 24,000 students back on campus for in-person learning, however, two schools remain closed. 
+
+<https://www.postguam.com/news/local/gdoe-chief-brodie-passes-inspection-no-word-on-shs-inspection-results/article_0f407748-82a5-11ef-81f7-5bbd61a4db50.html>
+
+---
+
+## Lawmakers debate 'sweetheart deal' for golf course conversion to solar farm
+
+date: 2024-10-05, from: Guam Daily Post
+
+A "sweetheart deal." That's what some lawmakers said Bill 179-37 would create by modifying the lease between Guam International Country Club Inc. and the Chamorro Land Trust Commission to allow the operation of a solar power facility on CLTC property… 
+
+<https://www.postguam.com/news/local/lawmakers-debate-sweetheart-deal-for-golf-course-conversion-to-solar-farm/article_f782b73c-81fb-11ef-b43d-f331bee58dbe.html>
+
+---
+
+## Bascon charged with vehicular homicide, released on $15K PR bond
+
+date: 2024-10-05, from: Guam Daily Post
+
+Charged with vehicular homicide in the death of John Edward Kinsey III, Darlene Mafnas Bascon faces up to nine years imprisonment if found guilty. 
+
+<https://www.postguam.com/news/local/bascon-charged-with-vehicular-homicide-released-on-15k-pr-bond/article_668455d6-81f8-11ef-ada5-17c7ab28deaa.html>
+
+---
+
+## Guam rugby triumphs over Nepal, to face India in cup semifinals
+
+date: 2024-10-05, from: Guam Daily Post
+
+Despite a short-handed roster, which became even shorter after Mariana Crisostomo sustained a suspected ACL tear and Erica Quichocho suffered three cracked ribs, the Guam women’s national rugby team won a game and had two other strong showings Friday in… 
+
+<https://www.postguam.com/sports/local/guam-rugby-triumphs-over-nepal-to-face-india-in-cup-semifinals/article_62331580-8298-11ef-9382-43a622ff17f2.html>
+
+---
+
+## Airport terminal flooring project moves forward
+
+date: 2024-10-05, from: Guam Daily Post
+
+If you’ve flown into Guam in the last year, you may have noticed the bare floors in the baggage claim area, but according to the Guam International Airport Authority, that will soon change as a project to install culturally artistic… 
+
+<https://www.postguam.com/news/local/airport-terminal-flooring-project-moves-forward/article_64034f96-829e-11ef-8c24-f30c598141c4.html>
+
+---
+
+## Support for bill limiting cannabis testing exemption
+
+date: 2024-10-05, from: Guam Daily Post
+
+With the effective date for the cannabis testing exemption in Guam law fast approaching, certain lawmakers are hoping to amend the law further so that the exemption only applies to cannabis flowers or buds, and not edibles or any other… 
+
+<https://www.postguam.com/news/local/support-for-bill-limiting-cannabis-testing-exemption/article_7473d19c-8231-11ef-a365-9fc71641e55b.html>
+
+---
+
+## Honowai 6th graders explore medical careers at JABSOM
+
+date: 2024-10-05, from: University of Hawaiʻi News
+
+<p>100 sixth graders were given a physician pathway career tour at <abbr>JABSOM.</abbr></p>
+The post <a href="https://www.hawaii.edu/news/2024/10/04/honowai-students-expolore-jabsom/">Honowai 6th graders explore medical careers at <abbr>JABSOM</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/04/honowai-students-expolore-jabsom/>
 
 ---
 
@@ -468,6 +1300,46 @@ date: 2024-10-04, from: Island Times
 
 ---
 
+## Security of THAAD transfers hands
+
+date: 2024-10-04, from: Guam Daily Post
+
+After completing a successful 10-month tour guarding the Terminal High Altitude Area Defense, or THAAD, system, the 294th Guam Army National Guard Infantry Regiment, fondly known as Team Binadu, transferred authority to Team Kulepbla. 
+
+<https://www.postguam.com/news/local/security-of-thaad-transfers-hands/article_9ddbb038-820c-11ef-b8f2-9f44313cd0b7.html>
+
+---
+
+## Officials address concerns over Chinese missile launch
+
+date: 2024-10-04, from: Guam Daily Post
+
+Military and civilian government officials told the community on Friday that the intercontinental ballistic missile launched by China last week posed “no threat” to Guam, saying that the defense of Guam is in good hands. 
+
+<https://www.postguam.com/news/local/officials-address-concerns-over-chinese-missile-launch/article_eafe4c9a-8211-11ef-ac64-ab1c6c401326.html>
+
+---
+
+## UOG’s Sellmann to speak on sustainable agriculture through village gardens
+
+date: 2024-10-04, from: Guam Daily Post
+
+The University of Guam College of Liberal Arts and Social Sciences invites the public and the university community to a special presentation from 4 to 5 p.m. Wednesday, Oct. 16, the university announced in a press release. 
+
+<https://www.postguam.com/news/local/uog-s-sellmann-to-speak-on-sustainable-agriculture-through-village-gardens/article_c3797060-8206-11ef-bb39-831f49cacc59.html>
+
+---
+
+## NWS: 99W to bring wet, windy weather
+
+date: 2024-10-04, from: Guam Daily Post
+
+Weather system Invest 99W is going to continue toward Guam over the weekend, according to the National Weather Service Guam Forecast Office, which anticipates the disturbance to pass the island some time this weekend. NWS warning coordination meteorologist Landon Aydlett… 
+
+<https://www.postguam.com/news/local/nws-99w-to-bring-wet-windy-weather/article_af887248-8217-11ef-8258-6b001500abab.html>
+
+---
+
 ## Special envoy Ljaucu Zingrur presents Taiwan President Lai’s Congratulatory Letter
 
 date: 2024-10-04, from: Island Times
@@ -593,6 +1465,26 @@ date: 2024-10-04, from: Island Times
 
 ---
 
+## 2 customs officers promoted to rank of captain
+
+date: 2024-10-04, from: Guam Daily Post
+
+The Guam Customs and Quarantine Agency promoted two of its officers to the rank of Captain recently during a ceremony at the Ricardo J. Bordallo Governor’s Complex, the agency announced in a press release. Formerly holding the rank of customs… 
+
+<https://www.postguam.com/news/local/2-customs-officers-promoted-to-rank-of-captain/article_73beb150-81fe-11ef-abc2-f7083fe2d477.html>
+
+---
+
+## DOC detainee apprehended after allegedly fleeing in stolen vehicle
+
+date: 2024-10-04, from: Guam Daily Post
+
+Department of Corrections detainee Gregory Thomas Bernardo was apprehended and taken into custody late Friday morning after being reported unaccounted for around 5:36 a.m. that day. 
+
+<https://www.postguam.com/news/local/doc-detainee-apprehended-after-allegedly-fleeing-in-stolen-vehicle/article_f5dd4320-8200-11ef-b7d1-07a116a57d30.html>
+
+---
+
 ## Financial Planning: A Great Career Option for Remote Work
 
 date: 2024-10-04, updated: 2024-10-04, from: Marianas Variety
@@ -620,6 +1512,26 @@ date: 2024-10-04, updated: 2024-10-04, from: Marianas Variety
 (StatePoint) In a major policy shift, the United States is targeting plastic pollution at the production, processing, use and disposal phases, and is backing a global treaty to reduce plastic production. Advocates are celebrating the move as a watershed moment and a step in the right direction toward protecting human health, communities and the environment. 
 
 <https://www.mvariety.com/online_features/green_living/how-less-plastic-can-help-protect-your-family-and-community/article_0a53323c-ac65-53ed-86ec-baae9a522ac7.html>
+
+---
+
+## GCC selected for FAFSA 2025-26 form beta testing amid challenges
+
+date: 2024-10-04, from: Guam Daily Post
+
+Guam Community College has been selected by the U.S. Department of Education to participate in the beta testing for the 2025-2026 Free Application for Federal Student Aid, GCC announced recently in a press release. This initiative is part of USDOE’s… 
+
+<https://www.postguam.com/news/local/gcc-selected-for-fafsa-2025-26-form-beta-testing-amid-challenges/article_b5e29fd6-813d-11ef-bb69-932b8e545cb0.html>
+
+---
+
+## GPA urges early coordination to avoid project delays
+
+date: 2024-10-04, from: Guam Daily Post
+
+Manufacturing challenges, global supply chain disruptions and major U.S. disasters have negatively impacted the availability of electrical commodities, according to the Guam Power Authority, which is urging contractors and developers to submit application requests of service for new power installations… 
+
+<https://www.postguam.com/news/local/gpa-urges-early-coordination-to-avoid-project-delays/article_b09d4370-8181-11ef-a64d-dbcf9774add0.html>
 
 ---
 
@@ -651,6 +1563,16 @@ date: 2024-10-04, from: University of Hawaiʻi News
 The post <a href="https://www.hawaii.edu/news/2024/10/03/nuclear-reactor-detection-system/">Finding nuclear material extracted for weapons part of new detection system</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <https://www.hawaii.edu/news/2024/10/03/nuclear-reactor-detection-system/>
+
+---
+
+## DOC detainee unaccounted for Friday morning
+
+date: 2024-10-04, from: Guam Daily Post
+
+The Department of Corrections has reported that local detainee Gregory Thomas Bernardo was unaccounted for at around 5:36 a.m. Friday. The incident was reported to the Guam Police Department and DOC personnel are searching for Bernardo, the release stated. 
+
+<https://www.postguam.com/news/doc-detainee-unaccounted-for-friday-morning/article_a27f09e6-81e9-11ef-91a9-ff46984322fe.html>
 
 ---
 
@@ -3544,318 +4466,4 @@ date: 2024-09-29, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/09/28/sports/hawaii-six-other-schools-commit-to-mountain-west/>
-
----
-
-## Hezbollah confirms Nasrallah is killed after Israeli strike
-
-date: 2024-09-28, updated: 2024-09-28, from: Marianas Variety
-
-JERUSALEM/BEIRUT (Reuters) — Hezbollah leader Sayyed Hassan Nasrallah has been killed, the Iran-backed group said on Saturday, confirming his death after the Israeli military said it had eliminated him in an airstrike in Beirut the day before. 
-
-<https://www.mvariety.com/news/regional_world/hezbollah-confirms-nasrallah-is-killed-after-israeli-strike/article_68a1d710-7d9a-11ef-9dbe-7778d8464ff2.html>
-
----
-
-## All clear
-
-date: 2024-09-28, updated: 2024-09-28, from: Marianas Variety
-
- 
-
-<https://www.mvariety.com/news/local/all-clear/article_e4552a12-7d89-11ef-a9c4-27bdf4ecbc48.html>
-
----
-
-## This fish evolved legs that it uses to taste stuff on the seafloor
-
-date: 2024-09-28, from: Hawaii Tribune Harold
-
-
-				<p>The sea robin has fascinated scientists for decades. It has the body of a fish, the wings of a bird and the legs of a crab.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/28/features/this-fish-evolved-legs-that-it-uses-to-taste-stuff-on-the-seafloor/>
-
----
-
-## A pygmy hippo is stealing hearts (and biting zookeepers)
-
-date: 2024-09-28, from: Hawaii Tribune Harold
-
-
-				<p>Defiant, sassy, slippery, chubby, loves to scream. We can all relate.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/28/features/a-pygmy-hippo-is-stealing-hearts-and-biting-zookeepers/>
-
----
-
-## Israeli airstrikes rock Beirut, Hezbollah command center hit
-
-date: 2024-09-28, from: Hawaii Tribune Harold
-
-
-				<p>BEIRUT/JERUSALEM &#8212; A wave of air raids hit Beirut&#8217;s southern suburbs early on Saturday as Israel stepped up attacks on Hezbollah, after a massive strike on the Iran-backed movement&#8217;s command centre that apparently targeted leader Hassan Nasrallah.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/28/nation-world-news/israeli-airstrikes-rock-beirut-hezbollah-command-center-hit/>
-
----
-
-## Dow hits record after US inflation data
-
-date: 2024-09-28, from: Hawaii Tribune Harold
-
-
-				<p>NEW YORK &#8212; Treasury yields and the dollar fell while the Dow registered a record closing high on Friday as a subdued U.S. inflation report lifted expectations of an outsized interest rate cut at the Federal Reserve&#8217;s November policy meeting.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/28/nation-world-news/dow-hits-record-after-us-inflation-data/>
-
----
-
-## Trump, Harris step up efforts to woo Mormon voters
-
-date: 2024-09-28, from: Hawaii Tribune Harold
-
-
-				<p>Both presidential campaigns have stepped up efforts to court an unlikely group of potential swing voters: Mormons.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/28/nation-world-news/trump-harris-step-up-efforts-to-woo-mormon-voters/>
-
----
-
-## Mayor Eric Adams pleads not guilty as New Yorkers contemplate what comes next
-
-date: 2024-09-28, from: Hawaii Tribune Harold
-
-
-				<p>NEW YORK &#8212; A muted but defiant Mayor Eric Adams, in back-to-back appearances inside a federal courthouse in Manhattan and outside its granite facade Friday, professed his innocence of criminal charges including bribery and fraud and stood by as his lawyer railed against the evidence in a case that threatens to topple his embattled administration.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/28/nation-world-news/mayor-eric-adams-pleads-not-guilty-as-new-yorkers-contemplate-what-comes-next/>
-
----
-
-## Kamala Harris’ campaign thinks she can win on the economy. Here’s how.
-
-date: 2024-09-28, from: Hawaii Tribune Harold
-
-
-				<p>For many months, it has been an undisputed and durable fact of the 2024 race that former President Donald Trump held a strong political advantage on the most pressing issue to the most voters: the economy.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/28/nation-world-news/kamala-harris-campaign-thinks-she-can-win-on-the-economy-heres-how/>
-
----
-
-## Maggie Smith, grand dame of stage and screen, dies at 89
-
-date: 2024-09-28, from: Hawaii Tribune Harold
-
-
-				<p>Maggie Smith, one of the finest British stage and screen actors of her generation, whose award-winning roles ranged from a freethinking Scottish schoolteacher in &#8220;The Prime of Miss Jean Brodie&#8221; to the acid-tongued dowager countess on &#8220;Downton Abbey,&#8221; died Friday in London. She was 89.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/28/nation-world-news/maggie-smith-grand-dame-of-stage-and-screen-dies-at-89/>
-
----
-
-## US charges Iranians with hacking Trump campaign
-
-date: 2024-09-28, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; A federal grand jury in Washington has indicted three members of a cyberespionage unit associated with Iran&#8217;s Revolutionary Guard for mounting wide-ranging attacks targeting politicians, officials and journalists that led to the hacking of the Trump campaign this summer.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/28/nation-world-news/us-charges-iranians-with-hacking-trump-campaign/>
-
----
-
-## Hurricane Helene leaves huge swaths of damage in its wake
-
-date: 2024-09-28, from: Hawaii Tribune Harold
-
-
-				<p>STEINHATCHEE, Fla. &#8212; Hurricane Helene forged a devastating path of floods and wind damage after slamming into Florida&#8217;s Big Bend region Thursday night, submerging much of the state&#8217;s Gulf Coast before continuing its destructive march through Georgia and into the mountains of Appalachia. More than 40 people were reported dead in four states as the huge storm spawned flash floods and landslides on its way north.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/28/nation-world-news/hurricane-helene-leaves-huge-swaths-of-damage-in-its-wake/>
-
----
-
-## Biden officials stave off sticker shock on Medicare drug premiums
-
-date: 2024-09-28, from: Hawaii Tribune Harold
-
-
-				<p>The Biden administration Friday announced that older Americans next year would face lower average monthly premiums for their prescription drugs, a feat achieved by pouring billions of dollars into subsidies for insurers. The move avoided a potential minefield of higher costs affecting the nation&#8217;s most stalwart voters weeks before the presidential election.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/28/nation-world-news/biden-officials-stave-off-sticker-shock-on-medicare-drug-premiums/>
-
----
-
-## Board projects new Aloha Stadium’s completion for 2028 season
-
-date: 2024-09-28, from: Hawaii Tribune Harold
-
-
-				<p>The state will likely miss a self-imposed deadline Monday, but Stadium Authority board members said at Thursday&#8217;s monthly meeting they don&#8217;t see it affecting the overall timeline that still has a new Aloha Stadium in Halawa built in time for the 2028 football season.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/28/sports/board-projects-new-aloha-stadiums-completion-for-2028-season/>
-
----
-
-## The Fed’s preferred inflation gauge cooled in August
-
-date: 2024-09-28, from: Hawaii Tribune Harold
-
-
-				<p>Inflation cooled in August, the latest sign of progress in the Federal Reserve&#8217;s yearslong fight to bring rapid price increases back under control.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/28/nation-world-news/the-feds-preferred-inflation-gauge-cooled-in-august/>
-
----
-
-## Anti-Doping agency lost track of open cases and test results before Olympics
-
-date: 2024-09-28, from: Hawaii Tribune Harold
-
-
-				<p>Just weeks before this summer&#8217;s Olympics in Paris, officials at the headquarters of the World Anti-Doping Agency got some startling news.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/28/sports/anti-doping-agency-lost-track-of-open-cases-and-test-results-before-olympics/>
-
----
-
-## Caitlin Clark wins Rookie of the Year, Napheesa Collier DPOY
-
-date: 2024-09-28, from: Hawaii Tribune Harold
-
-
-				<p>Indiana Fever superstar Caitlin Clark is the WNBA&#8217;s Rookie of the Year, The Athletic reported Friday night.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/28/sports/caitlin-clark-wins-rookie-of-the-year-napheesa-collier-dpoy/>
-
----
-
-## Taylor Swift encouraged us to do election research. But how?
-
-date: 2024-09-28, from: Hawaii Tribune Harold
-
-
-				<p>I&#8217;m an independent who has voted for Democrats and Republicans over the years, and what I appreciated most about Taylor Swift&#8217;s presidential endorsement was that she didn&#8217;t tell people what to think or who to vote for. What she did do was outline a thoughtful process and share where she came out.</p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/28/opinion/taylor-swift-encouraged-us-to-do-election-research-but-how/>
-
----
-
-## Trump’s crypto grift is the last thing America needs
-
-date: 2024-09-28, from: Hawaii Tribune Harold
-
-
-				<p>In such a dispiriting campaign season, it&#8217;s tempting to tune out each new outrage. Even so, former President Donald Trump&#8217;s continued promotion of a sketchy new crypto project mere weeks before the presidential election merits comment. </p>
-			 
-
-<https://www.hawaiitribune-herald.com/2024/09/28/opinion/trumps-crypto-grift-is-the-last-thing-america-needs/>
-
----
-
-## DPW not double charging GDOE for bus operations
-
-date: 2024-09-28, from: Guam Daily Post
-
-The Department of Public Works cleared up confusion regarding services it provides to the Guam Department of Education busing students to and from school, specifically pertaining to payment and funding for those services. 
-
-<https://www.postguam.com/news/local/dpw-not-double-charging-gdoe-for-bus-operations/article_c0b74d22-7d31-11ef-b8e6-33d819493b89.html>
-
----
-
-## UOG’s Peralta wins Cayuse productivity award
-
-date: 2024-09-28, from: Guam Daily Post
-
-Pamela Peralta, interim vice provost of research and sponsored programs and director of grants and contracts at the University of Guam, was recently awarded a Productivity Award from Cayuse, a research software company whose programs track and manage research grants… 
-
-<https://www.postguam.com/news/local/uog-s-peralta-wins-cayuse-productivity-award/article_7322903a-7c7d-11ef-983f-83aa9d1c3c03.html>
-
----
-
-## $2.7M awarded to enhance support for victims of family violence, sexual assault
-
-date: 2024-09-28, from: Guam Daily Post
-
-The effort to combat family violence and sexual assault is now backed by $2.7 million in grants that will bring about enhanced support for those who have been victimized. 
-
-<https://www.postguam.com/news/local/2-7m-awarded-to-enhance-support-for-victims-of-family-violence-sexual-assault/article_832c3a9a-7d30-11ef-967f-d74d8ea94e3e.html>
-
----
-
-## Panthers gel, drop Warriors in 4 sets
-
-date: 2024-09-28, from: Guam Daily Post
-
-At the start of the Independent Interscholastic Athletic Association of Guam 2024-2025 girls varsity volleyball season, the Guam High School Panthers were loaded with talent but lacked experience as a cohesive unit. But several weeks into the season, the team… 
-
-<https://www.postguam.com/sports/local/panthers-gel-drop-warriors-in-4-sets/article_196f8288-7d21-11ef-be4d-dbbf8247f6b3.html>
-
----
-
-## SHS inspection continues, IMS, Chief Brodie to be inspected this week
-
-date: 2024-09-28, from: Guam Daily Post
-
-The Guam Department of Education has three schools that are still closed pending the completion and passing of sanitary inspections, according to education officials on Friday. 
-
-<https://www.postguam.com/news/local/shs-inspection-continues-ims-chief-brodie-to-be-inspected-this-week/article_81d4d4e4-7d31-11ef-abd6-0b49f4413194.html>
-
----
-
-## UOG marine lab scientists discover gene for climate change resilience in soft corals
-
-date: 2024-09-28, from: Guam Daily Post
-
-A researcher at the University of Guam marine laboratory led a team of scientists who discovered a unique gene found in soft corals that helps them recover from the stress of climate change, according to a press release from UOG. 
-
-<https://www.postguam.com/news/local/uog-marine-lab-scientists-discover-gene-for-climate-change-resilience-in-soft-corals/article_3751a766-7c83-11ef-9dcc-cf50a07d4a74.html>
-
----
-
-## Inmate allegedly found with shank in cell
-
-date: 2024-09-28, from: Guam Daily Post
-
-An inmate housed in maximum security at the Department of Corrections in Mangilao allegedly had contraband hidden in his cell, according to a magistrate's complaint filed in the Superior Court of Guam on Thursday. 
-
-<https://www.postguam.com/news/local/inmate-allegedly-found-with-shank-in-cell/article_3a81bc4c-7c5a-11ef-810f-a77a032e87db.html>
-
----
-
-## Governor cancels tropical storm conditions
-
-date: 2024-09-28, updated: 2024-09-28, from: Marianas Variety
-
- 
-
-<https://www.mvariety.com/news/local/governor-cancels-tropical-storm-conditions/article_1de505c4-7d47-11ef-8d91-6f01971c11e0.html>
-
----
-
-## A dangerous proposal
-
-date: 2024-09-28, from: Pacific Island Times
-
-While I am neither a golfer nor a land/homeowner in this area of Dededo, it seems rather absurd to close a public golf course.   It is... 
-
-<https://www.pacificislandtimes.com/post/an-dangerous-proposal>
 

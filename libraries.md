@@ -1,11 +1,21 @@
 ---
 title: libraries
-updated: 2024-10-05 09:57:15
+updated: 2024-10-06 11:09:16
 ---
 
 # libraries
 
-(date: 2024-10-05 09:57:15)
+(date: 2024-10-06 11:09:16)
+
+---
+
+## On possibilities and impossibilities for causal inference with observational data
+
+date: 2024-10-05, from: ETH Zurich, recently added
+
+Schultheiss, Christoph Oliver 
+
+<http://hdl.handle.net/20.500.11850/698134>
 
 ---
 
