@@ -1,11 +1,23 @@
 ---
 title: ham radio
-updated: 2024-10-07 07:42:30
+updated: 2024-10-08 06:55:36
 ---
 
 # ham radio
 
-(date: 2024-10-07 07:42:30)
+(date: 2024-10-08 06:55:36)
+
+---
+
+## Improved PRTD circuit is product of EDN DI teamwork
+
+date: 2024-10-08, from: EDN Blog
+
+<img width="1033" height="648" src="https://www.edn.com/wp-content/uploads/TeamWork_Figure.png?fit=1033%2C648" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/TeamWork_Figure.png?w=1033 1033w, https://www.edn.com/wp-content/uploads/TeamWork_Figure.png?w=300 300w, https://www.edn.com/wp-content/uploads/TeamWork_Figure.png?w=768 768w, https://www.edn.com/wp-content/uploads/TeamWork_Figure.png?w=1024 1024w" sizes="(max-width: 1033px) 100vw, 1033px" /><p>Improved PRTD circuits that cancels nonlinearity and reduces excitation that cuts self-heating error by 100x. </p>
+<p>The post <a href="https://www.edn.com/improved-prtd-circuit-is-product-of-edn-di-teamwork/" data-wpel-link="internal">Improved PRTD circuit is product of EDN DI teamwork</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/improved-prtd-circuit-is-product-of-edn-di-teamwork/>
 
 ---
 
@@ -13,7 +25,7 @@ updated: 2024-10-07 07:42:30
 
 date: 2024-10-07, from: EDN Blog
 
-<img width="1400" height="1755" src="https://www.edn.com/wp-content/uploads/frame_right-side.jpg?fit=1400%2C1755" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/frame_right-side.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/frame_right-side.jpg?w=239 239w, https://www.edn.com/wp-content/uploads/frame_right-side.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/frame_right-side.jpg?w=817 817w, https://www.edn.com/wp-content/uploads/frame_right-side.jpg?w=1225 1225w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>Endemic code compromises? A nexus IC’s retirement? Time to yank the cloud access on this network-attached storage, I guess.</p>
+<img width="1400" height="1755" src="https://www.edn.com/wp-content/uploads/frame_right-side.jpg?fit=1400%2C1755" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/frame_right-side.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/frame_right-side.jpg?w=239 239w, https://www.edn.com/wp-content/uploads/frame_right-side.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/frame_right-side.jpg?w=817 817w, https://www.edn.com/wp-content/uploads/frame_right-side.jpg?w=1225 1225w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>Endemic code compromises? A nexus IC’s retirement? Time to yank the cloud access on this network-attached storage, I guess.</p>
 <p>The post <a href="https://www.edn.com/disassembling-a-cloud-compromised-nas/" data-wpel-link="internal">Disassembling a Cloud-compromised NAS</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

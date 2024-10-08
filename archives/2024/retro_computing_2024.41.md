@@ -1,11 +1,21 @@
 ---
 title: retro computing
-updated: 2024-10-07 07:42:38
+updated: 2024-10-08 06:55:45
 ---
 
 # retro computing
 
-(date: 2024-10-07 07:42:38)
+(date: 2024-10-08 06:55:45)
+
+---
+
+## b.log 2024/10/07 - Hello?, Tilley?, The drain is done, ADHD and sleep, Mood adjustment basket, Writers have no sense of scale.
+
+date: 2024-10-07, from: Richard Murray's blog
+
+Hello?, Tilley?, The drain is done, ADHD and sleep, Mood adjustment basket, Writers have no sense of scale. 
+
+<https://heyrick.eu/blog/index.php?diary=20241007>
 
 ---
 

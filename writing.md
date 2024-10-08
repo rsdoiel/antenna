@@ -1,11 +1,146 @@
 ---
 title: writing
-updated: 2024-10-07 07:42:34
+updated: 2024-10-08 06:55:40
 ---
 
 # writing
 
-(date: 2024-10-07 07:42:34)
+(date: 2024-10-08 06:55:40)
+
+---
+
+## Scriptnotes, Episode 654: How to Watch Bad Movies, Transcript
+
+date: 2024-10-08, from: John August blog
+
+The original post for this episode can be found here. John August: Hello and welcome. My name is John August. Craig Mazin: Bloop, bloop. My name is Craig Mazin. John: And this is Episode 654 of Scriptnotes, a podcast about screenwriting and things that are interesting to screenwriters. Now, often on this podcast, we talk [&#8230;]
+The post <a href="https://johnaugust.com/2024/scriptnotes-episode-654-how-to-watch-bad-movies-transcript">Scriptnotes, Episode 654: How to Watch Bad Movies, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/scriptnotes-episode-654-how-to-watch-bad-movies-transcript>
+
+---
+
+## Scriptnotes, Episode 653: Multi-Cam Comedies and WGA Dollars, Transcript
+
+date: 2024-10-08, from: John August blog
+
+The original post for this episode can be found here. John August: Hello and welcome. My name is John August, and you’re listening to Episode 653 of Scriptnotes, a podcast about screenwriting and things that are interesting to screenwriters. Today on the show, we discuss a giant area of television writing we’ve barely covered over [&#8230;]
+The post <a href="https://johnaugust.com/2024/scriptnotes-episode-653-multi-cam-comedies-and-wga-dollars-transcript">Scriptnotes, Episode 653: Multi-Cam Comedies and WGA Dollars, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/scriptnotes-episode-653-multi-cam-comedies-and-wga-dollars-transcript>
+
+---
+
+## Scriptnotes, Episode 652: Rituals, Transcript
+
+date: 2024-10-08, from: John August blog
+
+The original post for this episode can be found here. John August: Hello and welcome. My name is John August. Craig Mazin: My name is Craig Mazin. John: You’re listening to Episode 652 of Scriptnotes, a podcast about screenwriting and things that are interesting to screenwriters. Today on the show, what things are characters doing [&#8230;]
+The post <a href="https://johnaugust.com/2024/scriptnotes-episode-652-rituals-transcript">Scriptnotes, Episode 652: Rituals, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/scriptnotes-episode-652-rituals-transcript>
+
+---
+
+## Weekly Bestsellers, 7 October 2024
+
+date: 2024-10-07, from: Locus Magazine
+
+<div style="padding: 14px 0px 0px 0px; text-align: center;">
+<p>Richard Powers&#8217;s new novel <b>Playground</b> (Norton) debuts on the four print lists compiled here, ranking as high as #3 on the LA Times list. Also debuting this week: Erin A. Craig&#8217;s <b>The Thirteenth Child</b> (Delacorte), ranking #1 on the NY Times&#8216; Young Adult Hardcover list.</p>
+</div>
+
+
+
+
+<p></p>
+
+
+
+Title
+Debut / #wks on any list
+NYT
+10.13
+LAT
+10.06
+USAT 
+09.29
+PW 
+10.07
+Amz 
+(10.07)
+UK:
+Amz UK 
+(10.07)
+Canada:
+Amz.ca 
+(10.07)
+
+
+Items <a href="https://locusmag.com/2024/10/weekly-bestsellers-7-october-2024/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/10/weekly-bestsellers-7-october-2024/>
+
+---
+
+## HOLD YOUR BREATH Writer Explores Dark Side of Motherhood in Horror Tale
+
+date: 2024-10-07, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/hold-your-breath-writer-explores-dark-side-of-motherhood-in-horror-tale" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Hold%20Your%20Breath.png" alt="Sarah Paulson in HOLD YOUR BREATH" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><em>Hold Your Breath</em> is an achingly beautiful film that resonates in many powerful ways. While hitting many of the necessary tropes of psychological horror, it’s the incredible acting performances that hook you and won’t let you escape – even when it’s hard to breathe.&nbsp;<br><br>Set in Oklahoma in the 1930s Dust Bowl, famine, disease and death abound. But for Margaret (Sarah Paulson), and her two daughters, 12-year-old Rose (Amiah Miller) and 7-year-old Ollie (Alona Jane Robbins) who’s deaf, it’s not just the pervasive dust that’s threatening their lives, but something much more sinister. Even when the mysterious stranger Wallace (Ebon Moss-Bachrach) shows up menacingly in the night, the film asks: could the mother-daughter bond be the most dangerous threat of all?&nbsp;<br><br>Written by Karrie Crouse, best known for TV’s <em>Westworld</em>, and directed by Crouse and Will Joines, the movie seems like a dark fable inspired by the Covid-19 pandemic, when just breathing the air might put your life at risk. But surprisingly (and eerily), the screenplay was written before the pandemic even started. Crouse says the inspiration for the film actually came from watching the Ken Burns documentary <em>The Dust Bowl</em>.&nbsp;</p> 
+
+<https://blog.finaldraft.com/hold-your-breath-writer-explores-dark-side-of-motherhood-in-horror-tale>
+
+---
+
+## Publisher Guan Leaves Erewhon
+
+date: 2024-10-07, from: Locus Magazine
+
+<p>Sarah Guan announced via social media that she has left her position as publisher of Erewhon Books. Guan said:</p>
+<p>Over my five years at Erewhon, we championed a diverse list of award winners and finalists, bestsellers, and Indie Next picks who garnered rave reviews from national and international media&#8230;. While I will dearly miss working with our amazing authors &#8212; and will always cheer for their success &#8212; I leave  <a href="https://locusmag.com/2024/10/publisher-guan-leaves-erewhon/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/10/publisher-guan-leaves-erewhon/>
+
+---
+
+## 2024 Elgin Awards Winners
+
+date: 2024-10-07, from: Locus Magazine
+
+<p>The Science Fiction &#38; Fantasy Poetry Association (SFPA) has announced the winners of the 2024 Elgin Awards, presented for the best poetry chapbook and the best full-length poetry book in the speculative genre. The Elgin Awards are named after the founder of SFPA, Suzette Haden Elgin.</p>
+<div class="mynomorebulletlist"><strong>Best Full-Length Book
+</strong>
+<ul>
+<li>First Place: <strong>The Gravity of Existence</strong>, Christina Sng (Interstellar Flight)</li>
+<li>Second Place: <strong>Bounded By Eternity</strong>, Deborah L. Davitt self-published)</li></ul></div> <a href="https://locusmag.com/2024/10/2024-elgin-awards-winners/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/10/2024-elgin-awards-winners/>
+
+---
+
+## Hum by Helen Phillips: Review by Ian Mond
+
+date: 2024-10-07, from: Locus Magazine
+
+<p><strong>Hum</strong>, Helen Phillips (Marysue Rucci Books 978-1-66800-883-6, $27.99, 272pp, hc) August 2024.</p>
+<p>The novels I review for this column are not chosen with a theme in mind. If one does pop up, it’s purely coincidental. That goes for this month. I had no idea <strong>Hum</strong>, <strong>Napalm in the Heart</strong>, and <strong>Ultra 85 </strong>would all be dystopian novels. The good news is that they’re very different in tone,  <a href="https://locusmag.com/2024/10/hum-by-helen-phillips-review-by-ian-mond/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/10/hum-by-helen-phillips-review-by-ian-mond/>
+
+---
+
+## Lev Grossman: The Divine & The Magical
+
+date: 2024-10-07, from: Locus Magazine
+
+<p></p>
+<p><strong>LEV GROSSMAN</strong> was born June 26, 1969 and grew up in Lexington MA. He graduated from Harvard in 1991 and worked toward a PhD in comparative literature at Yale for three years, leaving before finishing his dissertation. He moved to New York, where he became a journalist and novelist. From 2002 to 2016, Grossman was a book critic and senior writer for TIME magazine, where he covered the internet, video  <a href="https://locusmag.com/2024/10/lev-grossman-the-divine-the-magical/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/10/lev-grossman-the-divine-the-magical/>
 
 ---
 

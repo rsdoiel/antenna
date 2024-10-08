@@ -1,11 +1,111 @@
 ---
 title: games
-updated: 2024-10-07 07:42:34
+updated: 2024-10-08 06:55:41
 ---
 
 # games
 
-(date: 2024-10-07 07:42:34)
+(date: 2024-10-08 06:55:41)
+
+---
+
+## The best board game deals of October Prime Day
+
+date: 2024-10-08, updated: 2024-10-08, from: Polygon Website
+
+Over the last several years, Amazon&#8217;s Prime Day sales have included some extraordinary deals for fans of tabletop gaming, and these October Prime Day offerings are keeping that trend alive with some absolutely great board game deals to be found. The discounts fall squarely in the realm of what we like to call “modern classics” [&#8230;] 
+
+<https://www.polygon.com/amazon-prime-day/455240/the-best-board-game-deals-of-october-prime-day>
+
+---
+
+## The Super Mario 64 Lego set is discounted to its lowest price yet for Prime Day (update: out of stock)
+
+date: 2024-10-08, updated: 2024-10-08, from: Polygon Website
+
+The massive Lego Super Mario 64 Question Mark Block is a 2,064-piece tribute to the red plumber&#8217;s inaugural three-dimensional adventure and was briefly discounted to its lowest price ever on Amazon as part of October Prime Day. Unfortunately, this set is now out of stock, but you can still find deals on a variety of [&#8230;] 
+
+<https://www.polygon.com/amazon-prime-day/461723/super-mario-64-lego-question-mark-block-prime-day-sale>
+
+---
+
+## Get 2024’s best football game for 39% off during October Prime Day
+
+date: 2024-10-08, updated: 2024-10-08, from: Polygon Website
+
+Amazon’s October Prime Day is now underway, and it’s full of great deals. One that I suspect sports fans may appreciate seeing is the 39% off sale happening on EA Sports College Football 25, Electronic Art’s much-anticipated return to NCAA football — the first in a decade. This big price cut is the title’s first [&#8230;] 
+
+<https://www.polygon.com/amazon-prime-day/459917/ea-sports-college-football-deal-ncaa>
+
+---
+
+## The original Red Dead Redemption is finally coming to PC
+
+date: 2024-10-08, updated: 2024-10-08, from: Polygon Website
+
+Red Dead Redemption is headed to Windows PC on Oct. 29, Rockstar Games announced Tuesday. The port of the 2010 open-world Western adventure game follows recent re-releases of Red Dead Redemption for PlayStation 4 and Nintendo Switch. Like those versions of the game, the PC port of Red Dead Redemption will include its zombie-infested spinoff, [&#8230;] 
+
+<https://www.polygon.com/news/23171877/red-dead-redemption-1-pc-steam-release-date>
+
+---
+
+## The Halloween Countdown: 31 days of horror to watch
+
+date: 2024-10-08, updated: 2024-10-08, from: Polygon Website
+
+Do you feel that? That chill in the air, that tingling sensation at the back of your neck? It can only mean one thing. That’s right: Halloween season is once again upon us! Here at Polygon, we love horror. We cover it all year round, whether it’s ranking the scariest new releases of the year [&#8230;] 
+
+<https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream>
+
+---
+
+## The best October Prime Day deals
+
+date: 2024-10-08, updated: 2024-10-08, from: Polygon Website
+
+October Prime Day 2024 is in full effect, with awesome discounts on some of our favorite games, accessories, collectibles, toys, and more —&#160;all on sale through Oct. 9. Highlights include deals on the slim PlayStation 5 Digital Edition, the Steelseries Arctis Nova Pro wireless headset, and Descent: Legends of the Dark, as well as dozens [&#8230;] 
+
+<https://www.polygon.com/amazon-prime-day/455235/best-deals-gaming-movies-toys-board-games>
+
+---
+
+## Joker: Folie à Deux flips the script on Harley Quinn — but not on Todd Phillips’ problems writing women
+
+date: 2024-10-08, updated: 2024-10-07, from: Polygon Website
+
+Todd Phillips’ Joker sequel, Joker: Folie à Deux, is catching flak from fans for deviating from perceived canon — both the various comics versions of longtime Batman villain Joker, and what fans thought they were seeing in the earlier film. But that lack of fidelity should be the movie’s greatest strength — especially when it comes [&#8230;] 
+
+<https://www.polygon.com/analysis/462109/joker-folie-a-deux-harley-quinn-lady-gaga>
+
+---
+
+## One of my favorite electronic screwdrivers is nearly half off for Prime Day
+
+date: 2024-10-08, updated: 2024-10-08, from: Polygon Website
+
+I have a lot of screwdriving solutions, and it is my earnestly held belief that each one is beautiful and special. (Editor’s note: This is true!) Sometimes you need the power and endurance of the impact driver; other times, the compact ratcheting screwdriver with the extra bits tucked away in its butt. But one screwdriver [&#8230;] 
+
+<https://www.polygon.com/amazon-prime-day/24200535/hoto-electric-screwdriver-sale-beautiful>
+
+---
+
+## What if Pokémon Snap was soaked in pumpkin spice?
+
+date: 2024-10-08, updated: 2024-10-07, from: Polygon Website
+
+Penko Park is among the best Pokémon Snap-likes available, a delightful, polished, and spooky riff on a neglected but beloved genre. So why has nobody heard of it? Bad timing. The adorably creepy photography game launched in October 2020, buried beneath the twin shitpiles of the pandemic and the previous election cycle. Four years later, [&#8230;] 
+
+<https://www.polygon.com/impressions/461729/penko-park-pokemon-snap-like>
+
+---
+
+## The best Magic: The Gathering deals of October Prime Day
+
+date: 2024-10-08, updated: 2024-10-08, from: Polygon Website
+
+We know why you&#8217;re here. I mean, it&#8217;s kind of obvious from the headline you clicked on —&#160;you&#8217;re here to find the best deals on Magic: The Gathering for October Prime Day. And we aim to please! Compared with July Prime Day, this week&#8217;s sales follow a &#8220;less is more&#8221; motto, i.e.&#160;fewer picks but steep [&#8230;] 
+
+<https://www.polygon.com/amazon-prime-day/460640/best-mtg-deals-magic-gathering>
 
 ---
 
@@ -19,16 +119,6 @@ It’s typical for Sony to knock an extra $50 or so off its headphones once they
 
 ---
 
-## Get 2024’s best football game for 30% off ahead of October Prime Day
-
-date: 2024-10-07, updated: 2024-10-07, from: Polygon Website
-
-We’ve already seeing a lot of great deals before Amazon’s October Prime Day formally kicks off. One that I suspect sports fans may appreciate seeing is the 30% off sale happening on EA Sports College Football 25, Electronic Art’s much-anticipated return to NCAA football — the first in a decade. This big price cut is [&#8230;] 
-
-<https://www.polygon.com/amazon-prime-day/459917/ea-sports-college-football-deal-ncaa>
-
----
-
 ## We don’t need Persona 6 yet. Metaphor: ReFantazio is right here.
 
 date: 2024-10-07, updated: 2024-10-07, from: Polygon Website
@@ -36,16 +126,6 @@ date: 2024-10-07, updated: 2024-10-07, from: Polygon Website
 There’s a percentage of people who will go absolutely feral at the first confirmation of information about the next Persona game. The runaway success of Persona 5 converted first-time players into evangelical worshippers at the altar of Altus. (This is even to the chagrin of Shin Megami Tensei fans, who will be quick to remind [&#8230;] 
 
 <https://www.polygon.com/review/461096/metaphor-refantazio-review-ps5-ps4-xbox-pc>
-
----
-
-## The Halloween Countdown: 31 days of horror to watch
-
-date: 2024-10-07, updated: 2024-10-07, from: Polygon Website
-
-Do you feel that? That chill in the air, that tingling sensation at the back of your neck? It can only mean one thing. That’s right: Halloween season is once again upon us! Here at Polygon, we love horror. We cover it all year round, whether it’s ranking the scariest new releases of the year [&#8230;] 
-
-<https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream>
 
 ---
 

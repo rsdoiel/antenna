@@ -1,11 +1,81 @@
 ---
 title: motorcycles
-updated: 2024-10-07 07:42:38
+updated: 2024-10-08 06:55:44
 ---
 
 # motorcycles
 
-(date: 2024-10-07 07:42:38)
+(date: 2024-10-08 06:55:44)
+
+---
+
+## Does Matte Green Make the Honda ADV 160 More Adventurous?
+
+date: 2024-10-08, from: Ride Apart, Electric Motorcycle News
+
+Honda should bring this color to the US like, right now.  
+
+<https://www.rideapart.com/news/736325/2025-honda-adv160-matte-green-thailand/>
+
+---
+
+## Panasonic’s Big Fat Battery Cells Are Set To Change The EV Game, Well Maybe
+
+date: 2024-10-08, from: Ride Apart, Electric Motorcycle News
+
+It’s the perfect example of less is more, but is it enough to change the EV game?  
+
+<https://www.rideapart.com/news/736319/panasonic-4680-ev-battery-cells-coming-soon/>
+
+---
+
+## Would You Rock This Very Silly-Looking Helmet-Mounted Windshield Wiper?
+
+date: 2024-10-08, from: Ride Apart, Electric Motorcycle News
+
+I don't know if I could stand that pointing and laughing... 
+
+<https://www.rideapart.com/news/736444/motorcycle-helmet-windshield-wiper-bikerguard/>
+
+---
+
+## REV'IT!'s TAILORTECH Fitting Events Are Genius, May Be the Only Way To Buy Custom
+
+date: 2024-10-08, from: Ride Apart, Electric Motorcycle News
+
+There's no way I'm buying a custom race suit unless it's fitted. 
+
+<https://www.rideapart.com/news/736469/revit-tailor-tech-custom-fitting-events/>
+
+---
+
+## Stunt Motorcyclist Is Turning an Old Track bike Into a Sand Demon, Because Why Not
+
+date: 2024-10-08, from: Ride Apart, Electric Motorcycle News
+
+The Red Bull athlete has some crazy things in store for this retired race bike.  
+
+<https://www.rideapart.com/news/736315/aaron-colton-new-yamaha-r1-project/>
+
+---
+
+## Be Part of the Hayabusa's 25th Anniversary Celebration, Here’s How
+
+date: 2024-10-08, from: Ride Apart, Electric Motorcycle News
+
+Suzuki couldn't have made it easier to show your love for one of the fastest motorcycles to ever grace our roads. 
+
+<https://www.rideapart.com/news/736242/suzuki-hayabusa-25th-anniversary-celebration/>
+
+---
+
+## ARCA Menards Series West: 2024 Roseville Race Review
+
+date: 2024-10-07, from: Kickin the Tires blog
+
+By Vincent Delforge, Special to Kickin&#8217; the Tires Trevor Huddleston won the NAPA Auto Parts 150 presented by Berco Redwood on Saturday night, October 5, 2024 at the All American&#8230;  
+
+<https://kickinthetires.net/nascar/arca-menards-series-west-2024-roseville-race-review/>
 
 ---
 

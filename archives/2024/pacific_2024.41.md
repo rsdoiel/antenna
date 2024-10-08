@@ -1,11 +1,534 @@
 ---
 title: pacific
-updated: 2024-10-07 07:42:29
+updated: 2024-10-08 06:55:36
 ---
 
 # pacific
 
-(date: 2024-10-07 07:42:29)
+(date: 2024-10-08 06:55:36)
+
+---
+
+## Back on the bench, the Supreme Court is diligent and dour
+
+date: 2024-10-08, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The last time the justices put on their robes and sat behind the Supreme Court&#8217;s majestic mahogany bench, Chief Justice John Roberts announced that former President Donald Trump enjoyed substantial constitutional immunity from prosecution.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/08/nation-world-news/back-on-the-bench-the-supreme-court-is-diligent-and-dour/>
+
+---
+
+## Dire warnings for storm-weary Floridians as Hurricane Milton approaches
+
+date: 2024-10-08, from: Hawaii Tribune Harold
+
+
+				<p>MIAMI &#8212; Weary Floridians on Monday steeled themselves for a second major hurricane in two weeks, wrestling with anxiety about whether to leave their homes and where the storm might go as Hurricane Milton took aim at much of the state&#8217;s battered Gulf Coast.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/08/nation-world-news/dire-warnings-for-storm-weary-floridians-as-hurricane-milton-approaches/>
+
+---
+
+## Wanted: Better immigration policy, more immigrants
+
+date: 2024-10-08, from: Hawaii Tribune Harold
+
+
+				<p>Clashes over immigration and control of the U.S. border have already figured prominently in the battle for the presidency. A better policy is certainly needed &#8212; one that admits far more workers with skills in short supply, restores an orderly process for accepting other economic migrants and asylum seekers, dissuades those who won&#8217;t qualify from turning up at the border, and helps states and cities cope with the consequences of failing to get this right. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/08/opinion/wanted-better-immigration-policy-more-immigrants/>
+
+---
+
+## Hawaii’s loan forgiveness program helps ease the burden on health care workers’ families
+
+date: 2024-10-08, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii&#8217;s $30 million program to pay off student loans for health care workers &#8212; up to $50,000 for each of two years &#8212; means that Maui parents Angel and Louise Batoon can be more certain that their son, Luke, remains in the islands to continue his nursing career.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/08/hawaii-news/hawaiis-loan-forgiveness-program-helps-ease-the-burden-on-health-care-workers-families/>
+
+---
+
+## Supreme Court turns down Biden’s appeal in Texas abortion case
+
+date: 2024-10-08, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Supreme Court on Monday turned down an appeal from the Biden administration urging the justices to allow some emergency abortions in Texas.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/08/nation-world-news/supreme-court-turns-down-bidens-appeal-in-texas-abortion-case/>
+
+---
+
+## Russia, China and Iran intend to stoke false election claims, officials warn
+
+date: 2024-10-08, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Foreign efforts to undermine American democracy will continue after Election Day, U.S. intelligence officials said Monday, with covert influence campaigns focused on questioning the validity of election results after polls close.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/08/nation-world-news/russia-china-and-iran-intend-to-stoke-false-election-claims-officials-warn/>
+
+---
+
+## Your Views for October 8
+
+date: 2024-10-08, from: Hawaii Tribune Harold
+
+
+				<p>Thoughts on native&#0010;birds getting shot</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/08/opinion/your-views-for-october-8-5/>
+
+---
+
+## US workers need paid parental leave
+
+date: 2024-10-08, from: Hawaii Tribune Harold
+
+
+				<p>My first and only child is 12 years old. Our dream of having a second child seemed out of reach. But then, in what seemed like a miracle, I became pregnant.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/08/opinion/us-workers-need-paid-parental-leave/>
+
+---
+
+## In Ukraine, small, fluffy dogs offer wartime comfort
+
+date: 2024-10-08, from: Hawaii Tribune Harold
+
+
+				<p>KYIV, Ukraine &#8212; For two days last month, a vision of canine paradise emerged in the heart of a city regularly pounded by Russian drones and missiles.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/08/features/in-ukraine-small-fluffy-dogs-offer-wartime-comfort/>
+
+---
+
+## Google must open Android to other app stores and billing options, judge rules
+
+date: 2024-10-08, from: Hawaii Tribune Harold
+
+
+				<p>SAN FRANCISCO &#8212; In December, a federal jury in San Francisco found that Google had violated antitrust law by imposing high fees and stringent rules on Epic Games and other app developers in Google&#8217;s app store.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/08/nation-world-news/google-must-open-android-to-other-app-stores-and-billing-options-judge-rules/>
+
+---
+
+## Trump says there are ‘a lot of bad genes’ among migrants in the US
+
+date: 2024-10-08, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Republican presidential candidate Donald Trump said on Monday there are &#8220;a lot of bad genes&#8221; in the United States, while discussing murders allegedly committed by immigrants living illegally in the United States. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/08/nation-world-news/trump-says-there-are-a-lot-of-bad-genes-among-migrants-in-the-us/>
+
+---
+
+## Israel-Hezbollah fighting intensifies, as memorials mark war anniversary
+
+date: 2024-10-08, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM/BEIRUT &#8212; Hezbollah fired rockets at Israel&#8217;s third-largest city, Haifa, and Israel looked poised to expand its offensive into Lebanon on Monday, one year after the devastating Hamas attack on Israel that sparked the Gaza war. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/08/nation-world-news/israel-hezbollah-fighting-intensifies-as-memorials-mark-war-anniversary/>
+
+---
+
+## Nobel prize for medicine goes to U.S. duo who discovered microRNA
+
+date: 2024-10-08, from: Hawaii Tribune Harold
+
+
+				<p>STOCKHOLM &#8212; U.S. scientists Victor Ambros and Gary Ruvkun won the 2024 Nobel Prize in Medicine on Monday for the discovery of microRNA and its crucial role in how multicellular organisms grow and live.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/08/nation-world-news/nobel-prize-for-medicine-goes-to-u-s-duo-who-discovered-microrna/>
+
+---
+
+## European space mission launches to investigate an asteroid crash site
+
+date: 2024-10-08, from: Hawaii Tribune Harold
+
+
+				<p>In humanity&#8217;s latest bid to avoid going the way of the dinosaurs, a European spacecraft soared away from the coast of Florida on Monday. The mission, Hera, will visit an asteroid that NASA deliberately struck with another spacecraft two years ago.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/08/nation-world-news/european-space-mission-launches-to-investigate-an-asteroid-crash-site/>
+
+---
+
+## BIIF football: KSH wins seventh straight; Hilo wins nailbiter
+
+date: 2024-10-08, from: Hawaii Tribune Harold
+
+
+				<p>WAIMEA &#8212; It was business as usual for Kamehameha Schools-Hawai&#8216;i football on Saturday afternoon against Hawaii Preparatory Academy.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/08/sports/biif-football-ksh-wins-seventh-straight-hilo-wins-nailbiter/>
+
+---
+
+## Patrick Mahomes throws for 331 yards as unbeaten Chiefs top Saints
+
+date: 2024-10-08, from: Hawaii Tribune Harold
+
+
+				<p>Kareem Hunt and Xavier Worthy rushed for touchdowns, Harrison Butker kicked four field goals, Patrick Mahomes passed for 331 yards and the host Kansas City Chiefs defeated the New Orleans Saints 26-13 on Monday night.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/08/sports/patrick-mahomes-throws-for-331-yards-as-unbeaten-chiefs-top-saints/>
+
+---
+
+## PHOTOS: Air riflery at Waiakea
+
+date: 2024-10-08, from: Hawaii Tribune Harold
+
+
+				<p>By Tim Wright</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/08/sports/photos-air-riflery-at-waiakea/>
+
+---
+
+## Kerry Carpenter’s blast pulls Tigers level with Guardians in ALDS
+
+date: 2024-10-08, from: Hawaii Tribune Harold
+
+
+				<p>CLEVELAND &#8212; Kerry Carpenter elected not to take some swings in the batting cage before entering Game 2 of the American League Division Series in the eighth inning on Monday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/08/sports/kerry-carpenters-blast-pulls-tigers-level-with-guardians-in-alds/>
+
+---
+
+## Salvador Perez, Royals use big 4th inning to tie ALDS vs. Yanks
+
+date: 2024-10-08, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Hours before becoming the hero in his 35th career postseason game, Salvador Perez discussed how undergoing Tommy John surgery in 2019 helped prolong his career.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/08/sports/salvador-perez-royals-use-big-4th-inning-to-tie-alds-vs-yanks/>
+
+---
+
+## Women Candidates Make Historic Strides in Palau’s Upcoming General Election
+
+date: 2024-10-08, from: Island Times
+
+<figure><img width="1024" height="445" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?fit=1024%2C445&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?resize=300%2C130&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?resize=1024%2C445&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?resize=768%2C334&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?resize=1200%2C522&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?resize=400%2C174&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?resize=706%2C307&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?fit=1024%2C445&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73031" data-permalink="https://islandtimes.org/women-candidates-make-historic-strides-in-palaus-upcoming-general-election/oct08issue-indd/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?fit=1249%2C543&amp;ssl=1" data-orig-size="1249,543" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;oct08issue.indd&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="oct08issue.indd" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?fit=300%2C130&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?fit=780%2C339&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By: Samantha Iyar As Palau approaches its general election in November, a remarkable wave of female candidates is stepping into the political arena, signaling a shift towards greater gender representation. Out of 34 candidates running for the House of Delegates, six women are vying for seats, while another six women are competing for one of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/women-candidates-make-historic-strides-in-palaus-upcoming-general-election/">Women Candidates Make Historic Strides in Palau&#8217;s Upcoming General Election</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/women-candidates-make-historic-strides-in-palaus-upcoming-general-election/>
+
+---
+
+## Speaker Anastacio ordered to pay $3.5m in 24 mos for tax violation
+
+date: 2024-10-08, from: Island Times
+
+<p>BY: Eustoria Marie Borja Koror, Palau — Sabino Anastacio, Speaker of the House of Delegates, was order to pay taxes, penalties and interest on real estate transactions he conducted in 2015 where he failed both to obtain a license and pay taxes on real estate income of $1.875m. Total tax, penalty and interest assessed against [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/speaker-anastacio-ordered-to-pay-3-5m-in-24-mos-for-tax-violation/">Speaker Anastacio ordered to pay $3.5m in 24 mos for tax violation</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/speaker-anastacio-ordered-to-pay-3-5m-in-24-mos-for-tax-violation/>
+
+---
+
+## U.S. and Micronesian Leaders Discuss Commitments Under Compact of Free Association
+
+date: 2024-10-08, from: Island Times
+
+<p>KOROR, Palau — U.S. and Pacific Island leaders gathered in Palau yesterday, 7th October 2024, to discuss the Compact of Free Association (COFA) agreements, reaffirming their commitments to mutual security, economic cooperation, and democratic principles. The meeting highlighted ongoing cooperation between the U.S. and the Freely Associated States (FAS), which include Palau, the Federated States [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/u-s-and-micronesian-leaders-discuss-commitments-under-compact-of-free-association/">U.S. and Micronesian Leaders Discuss Commitments Under Compact of Free Association</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/u-s-and-micronesian-leaders-discuss-commitments-under-compact-of-free-association/>
+
+---
+
+## Palauans in Guam Celebrate 30 Years of Independence with Festivities and Official Proclamations
+
+date: 2024-10-08, from: Island Times
+
+<figure><img width="1024" height="748" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_E5DC03A2-E69F-43E8-8F22-9D61C5295B82.jpeg?fit=1024%2C748&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_E5DC03A2-E69F-43E8-8F22-9D61C5295B82.jpeg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_E5DC03A2-E69F-43E8-8F22-9D61C5295B82.jpeg?resize=300%2C219&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_E5DC03A2-E69F-43E8-8F22-9D61C5295B82.jpeg?resize=1024%2C748&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_E5DC03A2-E69F-43E8-8F22-9D61C5295B82.jpeg?resize=768%2C561&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_E5DC03A2-E69F-43E8-8F22-9D61C5295B82.jpeg?resize=1536%2C1121&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_E5DC03A2-E69F-43E8-8F22-9D61C5295B82.jpeg?resize=1200%2C876&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_E5DC03A2-E69F-43E8-8F22-9D61C5295B82.jpeg?resize=1568%2C1145&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_E5DC03A2-E69F-43E8-8F22-9D61C5295B82.jpeg?resize=2000%2C1460&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_E5DC03A2-E69F-43E8-8F22-9D61C5295B82.jpeg?resize=400%2C292&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_E5DC03A2-E69F-43E8-8F22-9D61C5295B82.jpeg?resize=706%2C515&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_E5DC03A2-E69F-43E8-8F22-9D61C5295B82.jpeg?fit=1024%2C748&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73020" data-permalink="https://islandtimes.org/palauans-in-guam-celebrate-30-years-of-independence-with-festivities-and-official-proclamations/messenger_creation_e5dc03a2-e69f-43e8-8f22-9d61c5295b82/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_E5DC03A2-E69F-43E8-8F22-9D61C5295B82.jpeg?fit=2048%2C1495&amp;ssl=1" data-orig-size="2048,1495" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Messenger_creation_E5DC03A2-E69F-43E8-8F22-9D61C5295B82" data-image-description="" data-image-caption="&lt;p&gt;Mihaela Anderson FB page / Office of the President&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_E5DC03A2-E69F-43E8-8F22-9D61C5295B82.jpeg?fit=300%2C219&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_E5DC03A2-E69F-43E8-8F22-9D61C5295B82.jpeg?fit=780%2C570&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By: Eoghan Olkeriil Ngirudelsang KOROR, Palau — Hundreds of Palauans gathered at the Palau Cultural Center in Dededo, Guam, on Saturday, October 5, to celebrate Palau&#8217;s 30th Independence Day. During the event, Guam&#8217;s Lt. Gov. Joshua F. Tenorio presented a special proclamation honoring the Palauan community in Guam as they celebrated their nation’s independence. Speaker [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palauans-in-guam-celebrate-30-years-of-independence-with-festivities-and-official-proclamations/">Palauans in Guam Celebrate 30 Years of Independence with Festivities and Official Proclamations</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palauans-in-guam-celebrate-30-years-of-independence-with-festivities-and-official-proclamations/>
+
+---
+
+## USAID Boosts Anti-Human Trafficking Efforts in Palau with New Equipment Donation
+
+date: 2024-10-08, from: Island Times
+
+<figure><img width="1024" height="830" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-07-at-11.26.50-1-scaled.jpeg?fit=1024%2C830&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-07-at-11.26.50-1-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-07-at-11.26.50-1-scaled.jpeg?resize=300%2C243&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-07-at-11.26.50-1-scaled.jpeg?resize=1024%2C830&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-07-at-11.26.50-1-scaled.jpeg?resize=768%2C623&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-07-at-11.26.50-1-scaled.jpeg?resize=1536%2C1245&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-07-at-11.26.50-1-scaled.jpeg?resize=2048%2C1661&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-07-at-11.26.50-1-scaled.jpeg?resize=1200%2C973&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-07-at-11.26.50-1-scaled.jpeg?resize=1568%2C1271&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-07-at-11.26.50-1-scaled.jpeg?resize=2000%2C1622&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-07-at-11.26.50-1-scaled.jpeg?resize=400%2C324&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-07-at-11.26.50-1-scaled.jpeg?resize=706%2C572&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-07-at-11.26.50-1-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-07-at-11.26.50-1-scaled.jpeg?fit=1024%2C830&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73018" data-permalink="https://islandtimes.org/usaid-boosts-anti-human-trafficking-efforts-in-palau-with-new-equipment-donation/whatsapp-image-2024-10-07-at-11-26-50-1/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-07-at-11.26.50-1-scaled.jpeg?fit=2560%2C2076&amp;ssl=1" data-orig-size="2560,2076" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="WhatsApp Image 2024-10-07 at 11.26.50 (1)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-07-at-11.26.50-1-scaled.jpeg?fit=300%2C243&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-07-at-11.26.50-1-scaled.jpeg?fit=780%2C632&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By Samantha Iyar Koror, Palau &#8211; On October 04, 2024 a handover ceremony took place at the Anti Human Trafficking Unit (AHTU) within the Bureau of Public Safety in Malakal, marking a significant collaboration between the the United States Agency for International Development (USAID) and The Asia Foundation. The AHTU received essential equipment, including a [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/usaid-boosts-anti-human-trafficking-efforts-in-palau-with-new-equipment-donation/">USAID Boosts Anti-Human Trafficking Efforts in Palau with New Equipment Donation</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/usaid-boosts-anti-human-trafficking-efforts-in-palau-with-new-equipment-donation/>
+
+---
+
+## Rubekul Belau Seeks Legislative Action on Traditional Title Conflicts
+
+date: 2024-10-08, from: Island Times
+
+<p>By Eoghan Olkeriil Ngirudelsang Koror, Palau — On September 26, Rubekul Belau submitted a proposed bill to the Olbiil Era Kelulau (OEK), seeking to address ongoing disputes over traditional titles. In an accompanying letter, Rubekul Belau urged OEK to review and consider enacting the bill during the 11th Olbiil Era Kelulau session. The proposed legislation, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/rubekul-belau-seeks-legislative-action-on-traditional-title-conflicts/">Rubekul Belau Seeks Legislative Action on Traditional Title Conflicts</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/rubekul-belau-seeks-legislative-action-on-traditional-title-conflicts/>
+
+---
+
+## Sole Proprietorship defined: Clarification on Wages and Salary Tax
+
+date: 2024-10-08, from: Island Times
+
+<p>BY: Eustoria Marie Borja Koror, Palau — The Bureau of Revenue &#38; Taxation has issued a new Tax Circular, Ref No. TC 2024-04, dated September 30, 2024, providing vital clarification on the application of the Wages and Salary Tax (WST) for sole proprietors. The circular seeks to address concerns surrounding double taxation and outlines how [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/sole-proprietorship-defined-clarification-on-wages-and-salary-tax/">Sole Proprietorship defined: Clarification on Wages and Salary Tax</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/sole-proprietorship-defined-clarification-on-wages-and-salary-tax/>
+
+---
+
+## The Impact of the APIC Program Through Mr. Quinlan S. Yaoch
+
+date: 2024-10-08, from: Island Times
+
+<figure><img width="1024" height="761" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/QSY-Group.jpeg?fit=1024%2C761&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/QSY-Group.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/QSY-Group.jpeg?resize=300%2C223&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/QSY-Group.jpeg?resize=1024%2C761&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/QSY-Group.jpeg?resize=768%2C571&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/QSY-Group.jpeg?resize=1536%2C1142&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/QSY-Group.jpeg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/QSY-Group.jpeg?resize=1200%2C892&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/QSY-Group.jpeg?resize=1568%2C1166&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/QSY-Group.jpeg?resize=400%2C297&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/QSY-Group.jpeg?resize=706%2C525&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/QSY-Group.jpeg?fit=1024%2C761&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73008" data-permalink="https://islandtimes.org/the-impact-of-the-apic-program-through-mr-quinlan-s-yaoch/qsy-group/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/QSY-Group.jpeg?fit=2000%2C1487&amp;ssl=1" data-orig-size="2000,1487" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="QSY Group" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/QSY-Group.jpeg?fit=300%2C223&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/QSY-Group.jpeg?fit=780%2C580&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>On October 4th, 2024 , Palau Community College (PCC) student, Mr. Quinlan S. Yaoch, who successfully completed a summer session at Sophia University in Japan from June 26 to July 20,2024, as part of the APIC Pacific Islands and West Indies Student Invitation Program gave a captivating presentation of his experience in Japan to Japan [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/the-impact-of-the-apic-program-through-mr-quinlan-s-yaoch/">The Impact of the APIC Program Through Mr. Quinlan S. Yaoch</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/the-impact-of-the-apic-program-through-mr-quinlan-s-yaoch/>
+
+---
+
+## D.A.V.E. Art Show highlights Palauan creativity for 30th Independence Day and OBF
+
+date: 2024-10-08, from: Island Times
+
+<figure><img width="768" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/IMG_5479-scaled.jpg?fit=768%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/IMG_5479-scaled.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/IMG_5479-scaled.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/IMG_5479-scaled.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/IMG_5479-scaled.jpg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/IMG_5479-scaled.jpg?resize=1536%2C2048&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/IMG_5479-scaled.jpg?resize=900%2C1200&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/IMG_5479-scaled.jpg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/IMG_5479-scaled.jpg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/IMG_5479-scaled.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/IMG_5479-scaled.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/IMG_5479-scaled.jpg?resize=1200%2C1600&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/IMG_5479-scaled.jpg?resize=1568%2C2091&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/IMG_5479-scaled.jpg?resize=2000%2C2667&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/IMG_5479-scaled.jpg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/IMG_5479-scaled.jpg?resize=706%2C941&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/IMG_5479-scaled.jpg?fit=768%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73005" data-permalink="https://islandtimes.org/d-a-v-e-art-show-highlights-palauan-creativity-for-30th-independence-day-and-obf/img_5479/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/IMG_5479-scaled.jpg?fit=1920%2C2560&amp;ssl=1" data-orig-size="1920,2560" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone 15&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1727774443&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;1.54&quot;,&quot;iso&quot;:&quot;250&quot;,&quot;shutter_speed&quot;:&quot;0.0083333333333333&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_5479" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/IMG_5479-scaled.jpg?fit=225%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/IMG_5479-scaled.jpg?fit=768%2C1024&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>The Display of Art and Visual Expression (DAVE) Art Show, a locally organized and curated art exhibition, was a vibrant addition to Palau&#8217;s 30th Independence Day and Olechotel Belau Fair on October 1st. Situated at the main entrance (OEK Rotunda), visitors were immediately greeted by a stunning showcase of works from 27 talented Palauan contemporary [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/d-a-v-e-art-show-highlights-palauan-creativity-for-30th-independence-day-and-obf/">D.A.V.E. Art Show highlights Palauan creativity for 30th Independence Day and OBF</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/d-a-v-e-art-show-highlights-palauan-creativity-for-30th-independence-day-and-obf/>
+
+---
+
+## PICRC and TNC sign grant to support coral reef monitoring in Palau
+
+date: 2024-10-08, from: Island Times
+
+<figure><img width="1024" height="929" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Noah-and-Lkong.jpg?fit=1024%2C929&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Noah-and-Lkong.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Noah-and-Lkong.jpg?resize=300%2C272&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Noah-and-Lkong.jpg?resize=1024%2C929&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Noah-and-Lkong.jpg?resize=768%2C697&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Noah-and-Lkong.jpg?resize=1200%2C1089&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Noah-and-Lkong.jpg?resize=400%2C363&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Noah-and-Lkong.jpg?resize=706%2C640&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Noah-and-Lkong.jpg?fit=1024%2C929&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73003" data-permalink="https://islandtimes.org/picrc-and-tnc-sign-grant-to-support-coral-reef-monitoring-in-palau/noah-and-lkong/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Noah-and-Lkong.jpg?fit=1249%2C1133&amp;ssl=1" data-orig-size="1249,1133" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;4.5&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon EOS R6&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1727955050&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;120&quot;,&quot;iso&quot;:&quot;160&quot;,&quot;shutter_speed&quot;:&quot;0.002&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Noah and Lkong" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Noah-and-Lkong.jpg?fit=300%2C272&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Noah-and-Lkong.jpg?fit=780%2C708&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>The Palau International Coral Reef Center (PICRC) has signed a $20,000 grant agreement with The Nature Conservancy (TNC) to support PICRC’s ongoing coral reef monitoring efforts. This partnership is part of the Micronesia Coral Reefs Program, implemented by TNC’s Micronesia and Polynesia Program and supported by the Global Fund for Coral Reefs. The program is [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/picrc-and-tnc-sign-grant-to-support-coral-reef-monitoring-in-palau/">PICRC and TNC sign grant to support coral reef monitoring in Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/picrc-and-tnc-sign-grant-to-support-coral-reef-monitoring-in-palau/>
+
+---
+
+## $10 gift to you for Spay & Neuter
+
+date: 2024-10-08, from: Island Times
+
+<p>Palau Animal Welfare Society (PAWS) alongside Governor Henaro Polloi is continuing their $10 Gift Promotion by holding a ONE DAY ONLY free Spay/Neuter Mobile Clinic at Melekeok State on October&#160; 09, 2024; starting at 9am we will be at the Beach Summer House across the State office performing our clinical services until 2pm. After 2pm [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/10-gift-to-you-for-spay-neuter/">$10 gift to you for Spay &amp; Neuter</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/10-gift-to-you-for-spay-neuter/>
+
+---
+
+## USCGC Oliver Henry completes strategic patrol in Palauan waters, strengthening regional security and maritime partnerships
+
+date: 2024-10-08, from: Island Times
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/USCGC-Oliver-Henry.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/USCGC-Oliver-Henry.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/USCGC-Oliver-Henry.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/USCGC-Oliver-Henry.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/USCGC-Oliver-Henry.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/USCGC-Oliver-Henry.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/USCGC-Oliver-Henry.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/USCGC-Oliver-Henry.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/USCGC-Oliver-Henry.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/USCGC-Oliver-Henry.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/USCGC-Oliver-Henry.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/USCGC-Oliver-Henry.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72995" data-permalink="https://islandtimes.org/uscgc-oliver-henry-completes-strategic-patrol-in-palauan-waters-strengthening-regional-security-and-maritime-partnerships/uscgc-oliver-henry/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/USCGC-Oliver-Henry.jpg?fit=1249%2C937&amp;ssl=1" data-orig-size="1249,937" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="USCGC Oliver Henry." data-image-description="" data-image-caption="&lt;p&gt;Courtesy Photo | A boarding team from the USCGC Oliver Henry (WPC 1140), alongside a Palau Division of Marine Law Enforcement officer, return from a completed bilateral maritime law enforcement boarding on a foreign fishing vessel supporting the Republic of Palau in their Exclusive Economic Zone on Sept. 24, 2024. Their vigilance played a pivotal role in deterring illegal, unreported, and unregulated (IUU) fishing and other illicit maritime activities, thereby enhancing maritime security. (U.S. Coast Guard photo) &lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/USCGC-Oliver-Henry.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/USCGC-Oliver-Henry.jpg?fit=780%2C585&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Story by&#160;Chief Warrant Officer Sara Muir&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; U.S. Coast Guard Forces Micronesia / Sector Guam&#160;&#160; SANTA RITA, Guam — The crew of USCGC Oliver Henry (WPC 1140) completed a two-week patrol from Sept. 16 – 30, 2024, as part of Operation Rematau, contributing to maritime security, domain awareness and the enhancement of strategic partnerships between the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/uscgc-oliver-henry-completes-strategic-patrol-in-palauan-waters-strengthening-regional-security-and-maritime-partnerships/">USCGC Oliver Henry completes strategic patrol in Palauan waters, strengthening regional security and maritime partnerships</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/uscgc-oliver-henry-completes-strategic-patrol-in-palauan-waters-strengthening-regional-security-and-maritime-partnerships/>
+
+---
+
+## Codependency: Dancing with a wounded soul, yourself.
+
+date: 2024-10-08, from: Island Times
+
+<figure><img width="400" height="400" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400-1.jpg?fit=400%2C400&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400-1.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400-1.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400-1.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400-1.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400-1.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400-1.jpg?fit=400%2C400&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72144" data-permalink="https://islandtimes.org/helping-your-teen-develop-emotional-maturity/lnkcvqv8_400x400-10/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400-1.jpg?fit=400%2C400&amp;ssl=1" data-orig-size="400,400" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="LNkCVQv8_400x400" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400-1.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/08/LNkCVQv8_400x400-1.jpg?fit=400%2C400&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>The other day I opened my journal from several years ago and was pleasantly surprised.&#160; I thank my Teacher, Counselor, Friend, and LORD, my God. The Third Member of the Holy Trinity aka Holy Spirit. Anyways She&#8217;s been walking these halls of my soul healing, repairing and restoring the damaged and broken parts of my [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/codependency-dancing-with-a-wounded-soul-yourself/">Codependency: Dancing with a wounded soul, yourself.</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/codependency-dancing-with-a-wounded-soul-yourself/>
+
+---
+
+## UN rights council examines nuclear legacy consequences in the Marshall Islands
+
+date: 2024-10-08, from: Island Times
+
+<p>GENEVA, 07 OCTOBER 2024 (UN NEWS CENTRE) &#8212; The UN Human Rights Council convened a dialogue on Friday to examine the nuclear testing legacy in the Marshall Islands, which representatives from the Pacific nation said has left their people with some of the highest rates of cancer globally.&#160; Research conducted by the UN human rights [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/un-rights-council-examines-nuclear-legacy-consequences-in-the-marshall-islands/">UN rights council examines nuclear legacy consequences in the Marshall Islands</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/un-rights-council-examines-nuclear-legacy-consequences-in-the-marshall-islands/>
+
+---
+
+## Pacific Games Council Selects Hosts for 2029 Pacific Mini Games and 2031 Pacific Games
+
+date: 2024-10-08, from: Island Times
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PGC-Day-1-Group.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PGC-Day-1-Group.jpg?w=1901&amp;ssl=1 1901w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PGC-Day-1-Group.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PGC-Day-1-Group.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PGC-Day-1-Group.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PGC-Day-1-Group.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PGC-Day-1-Group.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PGC-Day-1-Group.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PGC-Day-1-Group.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PGC-Day-1-Group.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PGC-Day-1-Group.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PGC-Day-1-Group.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PGC-Day-1-Group.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PGC-Day-1-Group.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="72989" data-permalink="https://islandtimes.org/pacific-games-council-selects-hosts-for-2029-pacific-mini-games-and-2031-pacific-games/pgc-day-1-group/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PGC-Day-1-Group.jpg?fit=1901%2C1426&amp;ssl=1" data-orig-size="1901,1426" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PGC Day 1 Group" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PGC-Day-1-Group.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PGC-Day-1-Group.jpg?fit=780%2C585&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>October 4, 2024 – Palau: The Pacific Games Council (PGC) has officially selected the Cook Islands as the host of the 2029 Pacific Mini Games and Tonga as the host of the 2031 Pacific Games. The decision was made during the PGC General Assembly held this week in Palau, where members cast their votes for [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pacific-games-council-selects-hosts-for-2029-pacific-mini-games-and-2031-pacific-games/">Pacific Games Council Selects Hosts for 2029 Pacific Mini Games and 2031 Pacific Games</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/pacific-games-council-selects-hosts-for-2029-pacific-mini-games-and-2031-pacific-games/>
+
+---
+
+## Guam Chamber of Commerce seeks retention of credit card fee waivers
+
+date: 2024-10-08, from: Pacific Island Times
+
+By Pacific Island  Times News Staff  The Guam Chamber of Commerce urged the Guam legislature to appropriate funds to cover the... 
+
+<https://www.pacificislandtimes.com/post/guam-chamber-of-commerce-seeks-retention-of-credit-card-fee-waivers>
+
+---
+
+## Letter to the editor: Unintended consequences of school closures
+
+date: 2024-10-08, from: Pacific Island Times
+
+Now that most students are back in spruced-up classrooms, using functional bathrooms, it’s a good time to look at the unintended... 
+
+<https://www.pacificislandtimes.com/post/letter-to-the-editor-unintended-consequences-of-school-closures>
+
+---
+
+## Guam senator vows to revive bill to penalize delinquent agency heads 
+
+date: 2024-10-08, from: Pacific Island Times
+
+By Pacific Island Times News Staff  Sen. Telo Taitague vowed to revive a proposal that would force punctual submissions of financial... 
+
+<https://www.pacificislandtimes.com/post/guam-senator-vows-to-revive-bill-to-penalize-delinquent-agency-heads>
+
+---
+
+## UH goalkeeper named Big West Defensive Player of the Week
+
+date: 2024-10-08, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa goalkeeper Kennedy Justin earned Big West Defensive Player of the Week</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/07/justin-big-west-defensive-player-week/"><abbr>UH</abbr> goalkeeper named Big West Defensive Player of the Week</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/07/justin-big-west-defensive-player-week/>
+
+---
+
+## Native Hawaiian moth research wins ‘best student talk’ at competition
+
+date: 2024-10-08, from: University of Hawaiʻi News
+
+<p>Kyhl Austin's presentation was on the conservation of Native Hawaiian moths documenting the decline of many species.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/07/native-hawaiian-moth-research/">Native Hawaiian moth research wins ‘best student talk’ at competition</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/07/native-hawaiian-moth-research/>
+
+---
+
+## GAO approves request to study Guam Customs federalization 
+
+date: 2024-10-08, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Government Accountability Office has agreed to conduct a study to determine the feasibility of the... 
+
+<https://www.pacificislandtimes.com/post/gao-approves-request-to-study-guam-customs-federalization>
+
+---
+
+## Alexander, Lang earn Big West volleyball awards
+
+date: 2024-10-08, from: University of Hawaiʻi News
+
+<p>Caylen Alexander was named the Big West Offensive Player of the Week and Kate Lang earned the Setter of the Week award.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/07/alexander-lang-big-west-volleyball-awards/">Alexander, Lang earn Big West volleyball awards</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/07/alexander-lang-big-west-volleyball-awards/>
+
+---
+
+##  ‘Being CHamoru is more than wearing a CHamoru shirt’ 
+
+date: 2024-10-07, from: Pacific Island Times
+
+Diaspora: Reconnecting with cultural roots   By Johanna Salinas   Michael Mendiola Garcia, born to CHamoru parents, grew up in... 
+
+<https://www.pacificislandtimes.com/post/being-chamoru-is-more-than-wearing-a-chamoru-shirt>
+
+---
+
+## UH Cancer Center receives full 5-year NCI designation with best score in a decade
+
+date: 2024-10-07, from: University of Hawaiʻi News
+
+<p>The five year designation places the <abbr>UH</abbr> Cancer Center in the top 4% of all cancer centers in the U.S.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/07/cancer-center-nci-designation-best-score-in-a-decade/"><abbr>UH</abbr> Cancer Center receives full 5-year <abbr>NCI</abbr> designation with best score in a decade</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/07/cancer-center-nci-designation-best-score-in-a-decade/>
+
+---
+
+## Impersonations
+
+date: 2024-10-07, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Nancy Beadie If Billy Collins were a woman, or if I were Billy Collins, we might write about the ironing I am doing now– how a good iron has a life of its own as it noses up the &#8230; <a href="https://hawaiipacificreview.org/2024/10/07/impersonations/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://hawaiipacificreview.org/2024/10/07/impersonations/>
 
 ---
 
@@ -38,7 +561,7 @@ date: 2024-10-07, from: Hawaii Tribune Harold
 date: 2024-10-07, from: Hawaii Tribune Harold
 
 
-				<p>The owner of a home in Milolii Beach Lots is suing Hawaii County, claiming its Electronic Processing and Information Center system &#8212; known as EPIC &#8212; has trapped him in a permitting Catch-22 that only will allow him to demolish his house, not to remodel or live in it.</p>
+				<p>CORRECTIONS: In a previous edition of this story, Shahzaad Ausman&#8217;s first name is misspelled and Walter Fullerton is misidentified as the previous owner of the property. The Tribune-Herald regrets the errors and apologizes to both gentlemen.</p>
 			 
 
 <https://www.hawaiitribune-herald.com/2024/10/07/hawaii-news/epic-fail-homeowner-sues-county-over-building-permits/>
@@ -198,6 +721,30 @@ date: 2024-10-07, from: Hawaii Tribune Harold
 			 
 
 <https://www.hawaiitribune-herald.com/2024/10/07/opinion/its-too-late-for-kamala-harris-to-play-tough-on-immigration/>
+
+---
+
+## Let’s Talk Food: History of umami
+
+date: 2024-10-07, from: Hawaii Tribune Harold
+
+
+				<p>The Hilo Meishoin Mission monthly newsletter is often full of history and interesting facts about the people and places of Japan. Reverend Junshin Miyazaki is great if you are interested in getting information about your family tree or knowing where your grandparents lived in Japan.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/07/community/lets-talk-food-history-of-umami/>
+
+---
+
+## HVO: Smoke rising from crater is not caused by a new eruption
+
+date: 2024-10-07, from: Hawaii Tribune Harold
+
+
+				<p>Smoke rising from Napau Crater in Hawaii Volcanoes National Park is not from a new eruption, but an ongoing wildfire, reports the Hawaiian Volcano Observatory.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/07/hawaii-news/hvo-smoke-rising-from-crater-is-not-caused-by-a-new-eruption/>
 
 ---
 

@@ -1,11 +1,31 @@
 ---
 title: craft
-updated: 2024-10-07 07:42:41
+updated: 2024-10-08 06:55:47
 ---
 
 # craft
 
-(date: 2024-10-07 07:42:41)
+(date: 2024-10-08 06:55:47)
+
+---
+
+## Flick That Switch
+
+date: 2024-10-08, from: Lost Arg Press blog
+
+The following is excerpted from Derek Jones’ new book “Cricket Tables.” Simplicity, necessity and ingenuity are the three key principles for making cricket tables. This traditional three-legged table exists in a variety of forms and woods – no two are the same. So making them follows an organic process – your tools and materials dictate... 
+
+<https://blog.lostartpress.com/2024/10/08/flick-that-switch/>
+
+---
+
+## New Kits for the Hobbit-y Chair
+
+date: 2024-10-08, from: Lost Arg Press blog
+
+You can now order the carefully chosen wooden parts needed for the Hobbit-y Chair from The Stick Chair Journal No. 2. The kits are $295 and are in red elm, my favorite chairmaking wood. You can order a kit here from Alexander Brothers in Virginia. Shea Alexander and his employees have been supplying me with... 
+
+<https://blog.lostartpress.com/2024/10/07/new-kits-for-the-hobbit-y-chair/>
 
 ---
 

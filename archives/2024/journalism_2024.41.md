@@ -1,11 +1,313 @@
 ---
 title: journalism
-updated: 2024-10-07 07:42:35
+updated: 2024-10-08 06:55:41
 ---
 
 # journalism
 
-(date: 2024-10-07 07:42:35)
+(date: 2024-10-08 06:55:41)
+
+---
+
+## Jewish organizations, students, allies remember Hamas attacks at vigil
+
+date: 2024-10-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Participants sang to live music, watched Oct. 7 survivor testimony and listened to student speakers.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/08/jewish-organizations-students-allies-remember-hamas-attacks-at-vigil/">Jewish organizations, students, allies remember Hamas attacks at vigil</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/08/jewish-organizations-students-allies-remember-hamas-attacks-at-vigil/>
+
+---
+
+## Classifieds – October 8, 2024
+
+date: 2024-10-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/08/classifieds-october-8-2024/">Classifieds &#8211; October 8, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/08/classifieds-october-8-2024/>
+
+---
+
+## Oxy SJP, Oxy JVP blocked outside Swan Hall, professor falls in physical confrontation with private security
+
+date: 2024-10-08, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>The Occidental chapters of Students for Justice in Palestine (Oxy SJP) and Jewish Voice for Peace (Oxy JVP), participating in a national Rage Week tied to the anniversary of the Hamas attacks on Israel, were rebuffed by Campus Safety and private security outside of Swan Hall Oct. 7 as they marched toward a Board of [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/10/08/oxy-sjp-oxy-jvp-blocked-outside-swan-hall-professor-falls-in-physical-confrontation-with-private-security/2913234">Oxy SJP, Oxy JVP blocked outside Swan Hall, professor falls in physical confrontation with private security</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/news/2024/10/08/oxy-sjp-oxy-jvp-blocked-outside-swan-hall-professor-falls-in-physical-confrontation-with-private-security/2913234>
+
+---
+
+## USC falls to the Trees in second loss this season
+
+date: 2024-10-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC’s formidable defense couldn’t deliver a comeback against the No. 3 Cardinal. </p>
+<p>The post <a href="https://dailytrojan.com/2024/10/08/usc-falls-to-the-trees-in-second-loss-this-season/">USC falls to the Trees in second loss this season</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/08/usc-falls-to-the-trees-in-second-loss-this-season/>
+
+---
+
+## Pro-Palestinian demonstrators walkout, march around campus
+
+date: 2024-10-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Students and faculty demanded USC divest from weapons makers and criticized its security protocols. </p>
+<p>The post <a href="https://dailytrojan.com/2024/10/08/pro-palestinian-demonstrators-walkout-march-around-campus/">Pro-Palestinian demonstrators walkout, march around campus</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/08/pro-palestinian-demonstrators-walkout-march-around-campus/>
+
+---
+
+## Athletics are helping rejuvenate endangered languages
+
+date: 2024-10-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>From Gaelic football to lacrosse, sports are a great tool for language preservation.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/08/athletics-are-helping-rejuvenate-endangered-languages/">Athletics are helping rejuvenate endangered languages</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/08/athletics-are-helping-rejuvenate-endangered-languages/>
+
+---
+
+## ‘Saturday Night’ is a love letter to comedy, creativity
+
+date: 2024-10-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>As “Saturday Night Live” celebrates 50 years, “Saturday Night” honors the show’s creation. </p>
+<p>The post <a href="https://dailytrojan.com/2024/10/08/saturday-night-is-a-love-letter-to-comedy-creativity/">‘Saturday Night’ is a love letter to comedy, creativity</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/08/saturday-night-is-a-love-letter-to-comedy-creativity/>
+
+---
+
+## Trojans outlast UC Berkeley at Uytengsu
+
+date: 2024-10-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A high-scoring divisional matchup game way to the Trojans’ twelfth win this fall.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/08/uc-berkeley-outlasted-at-uytengsu/">Trojans outlast UC Berkeley at Uytengsu</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/08/uc-berkeley-outlasted-at-uytengsu/>
+
+---
+
+## Omar Apollo displays evergreen talent at ‘God Said No’ tour
+
+date: 2024-10-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The singer performed his hit singles and newest album at the Hollywood Bowl Oct. 5.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/08/omar-apollo-displays-evergreen-talent-at-god-said-no-tour/">Omar Apollo displays evergreen talent at ‘God Said No’ tour</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/08/omar-apollo-displays-evergreen-talent-at-god-said-no-tour/>
+
+---
+
+## Rocket League tournament brings excitement to CSUN’s Game Room
+
+date: 2024-10-08, from: The Sundail (CSUN Student Newspaper)
+
+In the building across from the Student Recreation Center (SRC), the Games Room can be found. There are a variety of games available for students to enjoy, and many seats... 
+
+<https://sundial.csun.edu/185984/arts-entertainment/rocket-league-tournament-brings-excitement-to-csuns-game-room/>
+
+---
+
+## Theater preview: From musicals to mysteries, Los Angeles stages will be on spotlight this fall
+
+date: 2024-10-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+As the weather cools, Los Angeles&#8217; theater productions are heating up the stage with electrifying vitality.
+This fall, revered casts and contemporary adaptations will hit theaters across LA. 
+
+<https://dailybruin.com/2024/10/07/theater-preview-from-musicals-to-mysteries-los-angeles-stages-will-be-on-spotlight-this-fall/>
+
+---
+
+## UCLA men’s water polo bounces back after its first loss of the season to Stanford
+
+date: 2024-10-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+A top ranking comes with prestige, pressure and a target on one’s back – with every new opponent seeking an upset.
+No. 1 UCLA men’s water polo (14-1, 1-1 MPSF) saw its 13-game undefeated streak come to an end Saturday afternoon at Spieker Aquatics Center, falling to No. 
+
+<https://dailybruin.com/2024/10/07/ucla-mens-water-polo-bounces-back-after-its-first-loss-of-the-season-to-stanford/>
+
+---
+
+## BREAKING: President Timothy Law Snyder to retire at the end of 2024-25 academic year
+
+date: 2024-10-07, from: Laloyolan (LMU Student Newspaper)
+
+President Timothy Law Snyder, Ph.D., will conclude his 10th year as LMU’s president in May 2025. 
+
+<https://www.laloyolan.com/news/breaking-president-timothy-law-snyder-to-retire-at-the-end-of-2024-25-academic-year/article_56144ee0-84f5-11ef-85fa-13ae8fca48ff.html>
+
+---
+
+## UCLA students report drug-related aggravated assault on Gayley Avenue
+
+date: 2024-10-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCPD is searching for suspects in a drug-related off campus aggravated assault.
+Two victims reported separate incidents of being drugged with an unknown substance at parties on Gayley Avenue – where many UCLA fraternities are housed – last week, according to a crime alert sent by UCPD on Monday afternoon.&#160;
+The first victim attended three parties along Gayley Avenue on Thursday, where they experienced symptoms which they did not attribute to alcohol, according to the alert. 
+
+<https://dailybruin.com/2024/10/07/ucla-students-report-drug-related-aggravated-assault-on-gayley-avenue/>
+
+---
+
+## Book preview: Fall literature brings gripping memoirs of stars, transformative tales
+
+date: 2024-10-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 7 at 5:03 p.m.</em>
+As autumn unfurls its vibrant tapestry, a golden glow envelops the latest literary offerings.
+Book lovers and cozy nook dwellers will find solace as fall ushers in a bounty of enchanting narratives. 
+
+<https://dailybruin.com/2024/10/07/book-preview-fall-literature-brings-gripping-memoirs-of-stars-transformative-tales/>
+
+---
+
+## Bruin to Bruin: Moshe Kashani
+
+date: 2024-10-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+On this episode of &#8220;Bruin to Bruin,&#8221; Aidan Teeger interviews Moshe Kashani, a UCLA alumnus who founded Driply Coffee, a small-batch cold brew coffee brand. Kashani shares his entrepreneurial journey, from selling lattes in his dorm room to securing shelf space in retailers, such as Erewhon and the UCLA Store. 
+
+<https://dailybruin.com/2024/10/07/bruin-to-bruin-moshe-kashani/>
+
+---
+
+## LAPD concludes bomb threat investigation near fire station
+
+date: 2024-10-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>There is no known threat associated with the incident on the 3000 block of Hoover Street and the investigation is ongoing, an LAPD officer told the <i>Daily Trojan</i>.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/07/breaking-lapd-bomb-threat/">LAPD concludes bomb threat investigation near fire station</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/07/breaking-lapd-bomb-threat/>
+
+---
+
+## Concert preview: Fall concerts provide variety, from rock bands to indie favorites
+
+date: 2024-10-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+Before any ghouls and goblins can emerge for Halloween, several concerts will entrance Los Angeles this fall.
+From rising international stars to hit-making rock bands, with indie favorites and R&#38;B songstresses in the mix, artists of many sounds and genres will be headlining some of Los Angeles’ most dynamic venues very soon. 
+
+<https://dailybruin.com/2024/10/07/concert-preview-fall-concerts-provide-variety-from-rock-bands-to-indie-favorites/>
+
+---
+
+## Life at The Start of a New Semester
+
+date: 2024-10-07, from: The Sundail (CSUN Student Newspaper)
+
+Life at the start of a new semester is never easy. Click here for an insight into what it’s like. 
+
+<https://sundial.csun.edu/185980/sundialbrandstudio/sundial-marketplace/life-at-the-start-of-a-new-semester/>
+
+---
+
+## Anniversary of Oct. 7 attacks
+
+date: 2024-10-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 7 at 9:12 p.m.</em>
+The Daily Bruin covers breaking news relevant to the UCLA community as it happens. This page covered events from Oct. 
+
+<https://dailybruin.com/2024/10/07/live-anniversary-of-oct-7-attacks/>
+
+---
+
+## One year in, the Israel-Gaza war has cost more than 120 journalists their lives
+
+date: 2024-10-07, from: Nieman Journalism Lab
+
+One year ago today, the Palestinian group Hamas launched a massive wave of attacks into southern Israel — an assault that included more than 4,000 rockets fired, the taking of hundreds of hostages, and massacres of civilians. More than 1,100 Israelis were killed within a span of hours. Israel launched an immediate counterattack on Gaza,... 
+
+<https://www.niemanlab.org/2024/10/one-year-in-the-israel-gaza-war-has-cost-more-than-120-journalists-their-lives/>
+
+---
+
+## How Personal Injury Lawyers Approach Claims with Non-Economic Damages
+
+date: 2024-10-07, from: The Sundail (CSUN Student Newspaper)
+
+Image source In personal injury cases, victims sometimes suffer more than just financial losses. They may experience emotional disturbances as well. While calculating compensation for medical bills and lost wages... 
+
+<https://sundial.csun.edu/185974/sundialbrandstudio/independent-legal-guide/how-personal-injury-lawyers-approach-claims-with-non-economic-damages/>
+
+---
+
+## UCLA men’s golf readies for Fighting Irish Classic in Indiana
+
+date: 2024-10-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+Westwood&#8217;s fanbase reeled in a loss to the Hoosiers on the gridiron nearly a month ago.&#160;
+But the Bruins – and their constituency – will have a chance at redemption, albeit on the greens.&#160;
+UCLA men’s golf will compete at the Fighting Irish Classic starting Sunday, where the squad will play in a 54-hole event at Warren Golf Course in South Bend, Indiana. 
+
+<https://dailybruin.com/2024/10/07/ucla-mens-golf-readies-for-fighting-irish-classic-in-indiana/>
+
+---
+
+## The former host of S-Town has a new subject to investigate: Journalism
+
+date: 2024-10-07, from: Nieman Journalism Lab
+
+When the podcast S-Town came out in 2017, it rode into the audio world on the crest of a wave that had been created by its sister podcast Serial just three years earlier. If you worked in audio, spirits were high: money was pouring in, and podcast studios — divorced from the public radio stations... 
+
+<https://www.niemanlab.org/2024/10/the-former-host-of-s-town-has-a-new-subject-to-investigate-journalism/>
+
+---
+
+## What’s the journalism we can make for people who don’t trust journalism?
+
+date: 2024-10-07, from: Nieman Journalism Lab
+
+In Drinks for Five, the second episode of Question Everything, host Brian Reed collected four fellow journalists — Ira Glass and Zoe Chace, both of This American Life, Astead Herndon, politics reporter at the New York Times, and Pulitzer Prize-winning author Jonathan Eig — in a wine store in Brooklyn to discuss the nature of their... 
+
+<https://www.niemanlab.org/2024/10/whats-the-journalism-we-can-make-for-people-who-dont-trust-journalism/>
+
+---
+
+## After a year of genocide, what will it take for USC to divest?
+
+date: 2024-10-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The international movement for Palestinian liberation remains steadfast.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/07/a-year-of-genocide/">After a year of genocide, what will it take for USC to divest?</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/07/a-year-of-genocide/>
+
+---
+
+## Opinion: In memory of my uncle Yossi Avtalon, a tribute to victims of Oct. 7
+
+date: 2024-10-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+“Help, help, help us please if anyone saw our Zigi. He is my grandmother baby brother. We need to find him. If you saw his face in a video or if there is someone who saw him at any point, please give us a call, any little piece of information. 
+
+<https://dailybruin.com/2024/10/07/opinion-in-memory-of-my-uncle-yossi-avtalon-a-tribute-to-victims-of-oct-7/>
 
 ---
 
