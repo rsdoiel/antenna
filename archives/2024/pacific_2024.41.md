@@ -1,11 +1,577 @@
 ---
 title: pacific
-updated: 2024-10-08 06:55:36
+updated: 2024-10-09 08:15:37
 ---
 
 # pacific
 
-(date: 2024-10-08 06:55:36)
+(date: 2024-10-09 08:15:37)
+
+---
+
+## Book raises unverified claims about Trump’s ties to Putin
+
+date: 2024-10-09, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Just weeks before an election, Americans are once again being confronted with a familiar if vexing question that has never been definitively resolved: What is up with former President Donald Trump and President Vladimir Putin of Russia?</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/09/nation-world-news/book-raises-unverified-claims-about-trumps-ties-to-putin/>
+
+---
+
+## Afghan man arrested on charges of plotting election day attack
+
+date: 2024-10-09, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The FBI has arrested an Afghan citizen in Oklahoma City on charges of plotting a suicide attack on Election Day, with the intent of inflicting mass casualties on behalf of the Islamic State group, according to a criminal complaint filed on Tuesday. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/09/nation-world-news/afghan-man-arrested-on-charges-of-plotting-election-day-attack/>
+
+---
+
+## Nation and world news in brief for October 9
+
+date: 2024-10-09, from: Hawaii Tribune Harold
+
+
+				<p>Deputy of New York &#0010;Mayor Eric Adams is seventh senior official to resign</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/09/nation-world-news/nation-and-world-news-in-brief-for-october-9/>
+
+---
+
+## Napheesa Collier leads Lynx in 88-77 rout of Sun to advance to WNBA Finals
+
+date: 2024-10-09, from: Hawaii Tribune Harold
+
+
+				<p>The Connecticut Sun couldn&#8217;t overcome a disastrous first-half performance in Game 5 of their WNBA playoff series against the Minnesota Lynx on Tuesday in Minneapolis, suffering an 88-77 loss that ended the team&#8217;s season in the semifinals for a second consecutive season.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/09/sports/napheesa-collier-leads-lynx-in-88-77-rout-of-sun-to-advance-to-wnba-finals/>
+
+---
+
+## Sports briefs: Toughman season finale approaching; Police host HI-PAL hoops tourney
+
+date: 2024-10-09, from: Hawaii Tribune Harold
+
+
+				<p>Toughman season finale approaching</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/09/sports/sports-briefs-toughman-season-finale-approaching-police-host-hi-pal-hoops-tourney/>
+
+---
+
+## BIIF volleyball: Bulls, Ka Makani and Trojans roll
+
+date: 2024-10-09, from: Hawaii Tribune Harold
+
+
+				<p>Week 9 of the Big Island Interscholastic Federation (BIIF) girls volleyball season kicked off Monday across the isle. Island playoffs are slated to begin Oct. 18.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/09/sports/biif-volleyball-bulls-ka-makani-and-trojans-roll/>
+
+---
+
+## UH-H sports: Vulcans move to No. 23; hoops schedule released
+
+date: 2024-10-09, from: Hawaii Tribune Harold
+
+
+				<p>KANSAS CITY, Mo. &#8212; With two more wins added to its belt, UH-Hilo women&#8217;s soccer moved up two spots to No. 23 in the latest United Soccer Coaches Top 25 National Rankings released Tuesday morning.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/09/sports/uh-h-sports-vulcans-move-to-no-23-hoops-schedule-released/>
+
+---
+
+## Sean Manaea subdues Phillies as Mets take 2-1 series lead
+
+date: 2024-10-09, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Sean Manaea carried a shutout into the eighth inning and benefited from strong defense behind him by the New York Mets, who beat the Philadelphia Phillies 7-2 in Game 3 of a National League Division Series on Tuesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/09/sports/sean-manaea-subdues-phillies-as-mets-take-2-1-series-lead/>
+
+---
+
+## Nonprofit holds event to raise awareness about domestic violence
+
+date: 2024-10-09, from: Hawaii Tribune Harold
+
+
+				<p>Sign-wavers lined a portion of Kilauea Avenue in midtown Hilo on Tuesday to help raise awareness about domestic violence in the community &#8212; and share messages of hope and strength &#8212; with passing motorists on the busy thoroughfare.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/09/hawaii-news/nonprofit-holds-event-to-raise-awareness-about-domestic-violence/>
+
+---
+
+## Pahoa bus hub/library could break ground in 2025
+
+date: 2024-10-09, from: Hawaii Tribune Harold
+
+
+				<p>A combination bus hub and library planned to be built in Pahoa is on track to begin construction next year.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/09/hawaii-news/pahoa-bus-hub-library-could-break-ground-in-2025/>
+
+---
+
+## Pahoa man ‘relieved’ by lesser verdict in stabbing case
+
+date: 2024-10-09, from: Hawaii Tribune Harold
+
+
+				<p>A 42-year-old Pahoa man was convicted Monday by a Hilo jury of second-degree assault and first-degree burglary for breaking into his former girlfriend&#8217;s house more than three years ago and stabbing her with a large knife while she was in bed.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/09/hawaii-news/pahoa-man-relieved-by-lesser-verdict-in-stabbing-case/>
+
+---
+
+## Roth signs bill to expand housing availability
+
+date: 2024-10-09, from: Hawaii Tribune Harold
+
+
+				<p>Mayor Mitch Roth has signed County Council Bill 123, a piece of legislation aimed at increasing housing inventory.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/09/hawaii-news/roth-signs-bill-to-expand-housing-availability/>
+
+---
+
+## Battered by Helene and now bracing for Milton
+
+date: 2024-10-09, from: Hawaii Tribune Harold
+
+
+				<p>ST. PETERSBURG, Fla. &#8212; Hundreds of thousands of people fled Florida&#8217;s Gulf Coast on Tuesday, packing up belongings and draining gas stations as they moved out of the path of Hurricane Milton, in what could be one of the largest evacuations in state history.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/09/nation-world-news/battered-by-helene-and-now-bracing-for-milton/>
+
+---
+
+## Harris proposes new funds for at-home senior care, aiming at ‘sandwich generation’
+
+date: 2024-10-09, from: Hawaii Tribune Harold
+
+
+				<p>Democratic presidential candidate Kamala Harris announced a plan to expand healthcare benefits to cover at-home senior care in an interview on ABC&#8217;s &#8220;The View&#8221; program on Tuesday, the latest policy proposal in her effort to boost the &#8220;care economy&#8221; and lower healthcare costs. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/09/nation-world-news/harris-proposes-new-funds-for-at-home-senior-care-aiming-at-sandwich-generation/>
+
+---
+
+## Slack-key greats in the spotlight: About a dozen of Hawaii’s most talented players set to take the stage at Kona resort
+
+date: 2024-10-09, from: Hawaii Tribune Harold
+
+
+				<p>A dozen of Hawaii&#8217;s most talented slack-key guitarists are on the bill of the 27th Annual Kona Style Hawaiian Slack Key Guitar Festival.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/09/hawaii-news/slack-key-greats-in-the-spotlight-about-a-dozen-of-hawaiis-most-talented-players-set-to-take-the-stage-at-kona-resort/>
+
+---
+
+## Justice Department airing details about foreign election interference
+
+date: 2024-10-09, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; After the Justice Department unsealed charges last month in an Iran-linked hacking operation against Donald Trump&#8217;s campaign, Attorney General Merrick B. Garland offered a window into one department motivation: calling out the threat publicly.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/09/nation-world-news/justice-department-airing-details-about-foreign-election-interference/>
+
+---
+
+## What Trump and Vance want from Hurricane Helene
+
+date: 2024-10-09, from: Hawaii Tribune Harold
+
+
+				<p>Donald Trump and JD Vance are lying about the federal government&#8217;s response to Hurricane Helene. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/09/opinion/what-trump-and-vance-want-from-hurricane-helene/>
+
+---
+
+## We need gun safe storage laws
+
+date: 2024-10-09, from: Hawaii Tribune Harold
+
+
+				<p>In his June 25 advisory, Surgeon General Vivek Murthy called firearm violence a public health crisis, noting that it is now the leading cause of death among U.S. children.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/09/opinion/we-need-gun-safe-storage-laws/>
+
+---
+
+## Biden announces new rule to remove all US lead pipes in a decade
+
+date: 2024-10-09, from: Hawaii Tribune Harold
+
+
+				<p>The Biden administration finalized a landmark rule on Tuesday that would require water utilities to replace virtually every lead pipe in the country within 10 years, tackling a major threat that is particularly dangerous to infants and children. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/09/nation-world-news/biden-announces-new-rule-to-remove-all-us-lead-pipes-in-a-decade/>
+
+---
+
+## Nobel prize in physics goes to machine learning pioneers Hopfield and Hinton
+
+date: 2024-10-09, from: Hawaii Tribune Harold
+
+
+				<p>STOCKHOLM &#8212; U.S. scientist John Hopfield and British-Canadian Geoffrey Hinton won the 2024 Nobel Prize in Physics on Tuesday for discoveries and inventions in machine learning that paved the way for the artificial intelligence boom.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/09/nation-world-news/nobel-prize-in-physics-goes-to-machine-learning-pioneers-hopfield-and-hinton/>
+
+---
+
+## Hawaii Community College launches new butchery course
+
+date: 2024-10-09, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Community College&#8217;s Ko Education Center in Honoka&#8216;a announces the launch of its new six-week, noncredit butchery course starting in spring 2025.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/09/community/hawaii-community-college-launches-new-butchery-course/>
+
+---
+
+## Waimea Fall Festival is this Saturday
+
+date: 2024-10-09, from: Hawaii Tribune Harold
+
+
+				<p>WAIMEA &#8212; The public is invited to welcome the fall season with a full day of family fun and something for everyone at the fifth annual Waimea Fall Festival from 10 a.m. to 4 p.m. on Saturday at the Spencer K. Schutte Waimea District Park (67-1315 Ala &#8216;Ohia Road).</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/09/community/waimea-fall-festival-is-this-saturday/>
+
+---
+
+## TikTok sued by 13 states and DC, accused of harming younger users
+
+date: 2024-10-09, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK/WASHINGTON &#8212; TikTok faces new lawsuits filed by 13 U.S. states and the District of Columbia on Tuesday, accusing the popular social media platform of harming and failing to protect young people.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/09/nation-world-news/tiktok-sued-by-13-states-and-dc-accused-of-harming-younger-users/>
+
+---
+
+## Florida gas stations run empty amid panic ahead of Hurricane Milton
+
+date: 2024-10-09, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; A growing number of gas stations were flashing empty signs on Tuesday as panic-buying gripped Florida, where residents are bracing for a monster hurricane to make landfall.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/09/nation-world-news/florida-gas-stations-run-empty-amid-panic-ahead-of-hurricane-milton/>
+
+---
+
+## US Supreme Court leans toward upholding Biden’s ‘ghost guns’ restrictions
+
+date: 2024-10-09, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. Supreme Court signaled on Tuesday a willingness to uphold the legality of a 2022 regulation issued by President Joe Biden&#8217;s administration cracking down on &#8220;ghost guns,&#8221; largely untraceable firearms whose use has proliferated in crimes nationwide. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/09/nation-world-news/us-supreme-court-leans-toward-upholding-bidens-ghost-guns-restrictions/>
+
+---
+
+## Israel says it has killed slain Hezbollah leader’s successors
+
+date: 2024-10-09, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM/BEIRUT &#8212; Prime Minister Benjamin Netanyahu said on Tuesday Israeli airstrikes had killed two successors to Hezbollah&#8217;s slain leader, as Israel expanded its offensive against the Iran-backed group with a fourth army division deployed into south Lebanon. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/09/nation-world-news/israel-says-it-has-killed-slain-hezbollah-leaders-successors/>
+
+---
+
+## What made Milton the third-fastest intensifying Atlantic storm?
+
+date: 2024-10-09, from: Hawaii Tribune Harold
+
+
+				<p>This year&#8217;s warm waters in the Gulf of Mexico helped Milton swiftly become a powerful hurricane, with the U.S. National Hurricane Center calling it the third-fastest intensifying Atlantic storm on record. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/09/nation-world-news/what-made-milton-the-third-fastest-intensifying-atlantic-storm/>
+
+---
+
+## Hawaiian Word of the Week: Alanui
+
+date: 2024-10-09, from: University of Hawaiʻi News
+
+<p>Alanui&#8212;Street, road, highway.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/08/hawaiian-word-of-the-week-alanui/">Hawaiian Word of the Week: Alanui</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/08/hawaiian-word-of-the-week-alanui/>
+
+---
+
+## PBS spotlights buzz worthy beekeeping at UH Hilo
+
+date: 2024-10-09, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Hilo’s beekeeping program took the spotlight on <abbr>PBS</abbr> <span aria-label="Hawaii">Hawai&#699;i</span>’s <em>Home is Here</em> series.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/08/pbs-spotlights-uh-hilo-beekeeping/"><abbr>PBS</abbr> spotlights buzz worthy beekeeping at <abbr>UH</abbr> Hilo</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/08/pbs-spotlights-uh-hilo-beekeeping/>
+
+---
+
+## GDOE may realign enrollment as  it tackles major budget shortfall
+
+date: 2024-10-09, from: Guam Daily Post
+
+Chief Brodie Memorial Elementary School passed its sanitary inspection last week, but it hasn't yet opened its doors to its students, who continue to attend classes at the Juan M. Guerrero Elementary School campus. 
+
+<https://www.postguam.com/news/local/gdoe-may-realign-enrollment-as-it-tackles-major-budget-shortfall/article_f7b789b6-853f-11ef-acc1-6b2faa2405bd.html>
+
+---
+
+## ACLU says Moylan should concede after SCOTUS denial, AG responds
+
+date: 2024-10-09, from: Guam Daily Post
+
+Meagan Burrows, a senior staff attorney of the Reproductive Freedom Project at the American Civil Liberties Union, said Attorney General Douglas Moylan should recognize the recent denial from the Supreme Court of the United States as "the end of his… 
+
+<https://www.postguam.com/news/local/aclu-says-moylan-should-concede-after-scotus-denial-ag-responds/article_8f50b8b6-85e9-11ef-aaba-efed163258f1.html>
+
+---
+
+## Moylan says US is prepared to defend Guam in case a conflict arises
+
+date: 2024-10-09, from: Pacific Island Times
+
+By Frank Whitman Guam Del. James C. Moylan assured the people of Guam that the protection of Guam in the event of a military conflict is... 
+
+<https://www.pacificislandtimes.com/post/moylan-says-us-is-prepared-to-defend-guam-in-case-a-conflict-arises>
+
+---
+
+## October is National Pedestrian Safety Month
+
+date: 2024-10-09, from: Guam Daily Post
+
+The Department of Public Works Office of Highway Safety, together with the partners for highways safety, invites everyone to join the observance of National Pedestrian Safety Month, DPW announced in a press release. 
+
+<https://www.postguam.com/news/local/october-is-national-pedestrian-safety-month/article_cc503bde-85ed-11ef-9f89-ab189a10416c.html>
+
+---
+
+## Flowers named new director of Center for Indo-Pacific Affairs
+
+date: 2024-10-09, from: University of Hawaiʻi News
+
+<p><abbr>CIPA</abbr> tackles complex issues by integrating fields such as economics, technology, environmental science and public health.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/08/new-cipa-director/">Flowers named new director of Center for Indo-Pacific Affairs</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/08/new-cipa-director/>
+
+---
+
+## UOG student Garret O’Donnell  selected for Knauss fellowship
+
+date: 2024-10-09, from: Guam Daily Post
+
+University of Guam student Garret O’Donnell has been selected for the highly competitive Knauss Marine Policy Fellowship from the National Oceanic and Atmospheric Administration and the National Sea Grant College Program, according to a press release from the university. 
+
+<https://www.postguam.com/news/local/uog-student-garret-o-donnell-selected-for-knauss-fellowship/article_3dbae35c-851a-11ef-aaab-e7692767eabb.html>
+
+---
+
+## Shifting Tides
+
+date: 2024-10-09, from: HIKI NŌ ON PBS HAWAIʻI
+
+<p>In this episode of HIKI NŌ on PBS Hawai‘i hosted by Maya Villanueva, a sophomore at Kalani High School on Oʻahu, and Caleb Crosswell, a freshman at Kalani High School, students explore changes to their community spaces, impending deadlines for a landfill, an elementary schoolʻs robotics club, a school project in support of Maui, and [&#8230;]</p>
+<p>The post <a href="https://www.pbshawaii.org/shifting-tides/">Shifting Tides</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<https://www.pbshawaii.org/shifting-tides/>
+
+---
+
+## $950K to launch new butchery course at Hawaiʻi CC
+
+date: 2024-10-09, from: University of Hawaiʻi News
+
+<p>The course offers students comprehensive, hands-on training in butchery, including humane slaughter methods, carcass breakdown and meat processing.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/08/new-butchery-course/">$950K to launch new butchery course at Hawaiʻi <abbr>CC</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/08/new-butchery-course/>
+
+---
+
+## UH Mānoa shines in latest world university rankings
+
+date: 2024-10-09, from: University of Hawaiʻi News
+
+<p>This recognition positions <abbr>UH</abbr>’s flagship campus as the <abbr>No</abbr>. 63 ranked university in the United States.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/08/times-higher-education-world-rankings-2025/"><abbr>UH</abbr> Mānoa shines in latest world university rankings</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/08/times-higher-education-world-rankings-2025/>
+
+---
+
+## Former Warrior Jeff Ulbrich named New York Jets interim head coach
+
+date: 2024-10-09, from: University of Hawaiʻi News
+
+<p>Ulbrich has served as Jets defensive coordinator since 2021.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/08/ulbrich-named-jets-interim-hc/">Former Warrior Jeff Ulbrich named New York Jets interim head coach</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/08/ulbrich-named-jets-interim-hc/>
+
+---
+
+## Could adding iron to the ocean solve some climate change problems?
+
+date: 2024-10-09, from: University of Hawaiʻi News
+
+<p>A study explores the potential of ocean iron fertilization as a low-cost, scalable and rapidly deployable method of marine carbon dioxide removal.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/08/adding-iron-to-ocean/">Could adding iron to the ocean solve some climate change problems?</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/08/adding-iron-to-ocean/>
+
+---
+
+## Teachers frustrated over unresolved sharing of Guam school campus
+
+date: 2024-10-08, from: Pacific Island Times
+
+By Jayvee Vallejera   The simmering tensions that began brewing after two elementary schools in Guam were made to share space in what was... 
+
+<https://www.pacificislandtimes.com/post/teachers-frustrated-over-unresolved-sharing-of-guam-school-campus>
+
+---
+
+## US Supreme Court declines to review ruling on Guam's voided abortion ban 
+
+date: 2024-10-08, from: Pacific Island Times
+
+By Pacific Island Times News Staff The U.S. Supreme Court has denied Attorney General Douglas Moylan’s petition for a reversal of the... 
+
+<https://www.pacificislandtimes.com/post/us-supreme-court-declines-to-review-ruling-on-guam-s-voided-abortion-ban>
+
+---
+
+## Hawaiʻi photographers explored at Gallery ʻIolani speaker series
+
+date: 2024-10-08, from: University of Hawaiʻi News
+
+<p>Ke Alula, a series of six discussion programs is scheduled on Saturdays.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/08/hawaii-photographers-gallery-iolani/">Hawaiʻi photographers explored at Gallery ʻIolani speaker series</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/08/hawaii-photographers-gallery-iolani/>
+
+---
+
+## Actor Randall Park, music producer Dan the Automator, engage with UH students
+
+date: 2024-10-08, from: University of Hawaiʻi News
+
+<p>The course is centered on Asian American pop culture, offering students the chance to apply ethnic studies frameworks in real time.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/08/randall-park-dan-the-automator-uh-students/">Actor Randall Park, music producer Dan the Automator, engage with <abbr>UH</abbr> students</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/08/randall-park-dan-the-automator-uh-students/>
+
+---
+
+## Policing the Pacific by the Pacific 
+
+date: 2024-10-08, from: Pacific Island Times
+
+But some island nations are worried the regional police initiatives might further escalate rivalries between US and China   By Jayvee... 
+
+<https://www.pacificislandtimes.com/post/policing-the-pacific-by-the-pacific>
+
+---
+
+## Guam National Guard seeks expanded role in defense
+
+date: 2024-10-08, from: Pacific Island Times
+
+By Mar-Vic Cagurangan The growing geopolitical tensions in the Pacific region represent a growing security threat to Guam itself. This... 
+
+<https://www.pacificislandtimes.com/post/guam-national-guard-seeks-expanded-role-in-defense>
+
+---
+
+## Looting ‘A’ to satisfy ‘B’
+
+date: 2024-10-08, from: Pacific Island Times
+
+Saipan  — A U.S. political writer complains that the Harris-Walz economic plan is unsound. Others say the same thing about the... 
+
+<https://www.pacificislandtimes.com/post/looting-a-to-satisfy-b>
+
+---
+
+## Maui wildfire survey finds sharp, persistent increases in poverty, housing instability
+
+date: 2024-10-08, from: University of Hawaiʻi News
+
+<p>The data came from 402 individuals representing 374 households.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/08/maui-wildfire-survey-report/">Maui wildfire survey finds sharp, persistent increases in poverty, housing instability</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/08/maui-wildfire-survey-report/>
+
+---
+
+## 64-year-old woman reportedly suffers minor  injuries as man allegedly steals chips, sodas
+
+date: 2024-10-08, from: Guam Daily Post
+
+Randy Ignacio Chargualaf is facing a charge of third-degree robbery after he allegedly stole two bags of chips and two sodas from Dairy Mart in Mangilao. The alleged incident reportedly left a 64-year-old woman with some minor injuries. 
+
+<https://www.postguam.com/news/64-year-old-woman-reportedly-suffers-minor-injuries-as-man-allegedly-steals-chips-sodas/article_0e73b2f8-8589-11ef-85e6-0fb8e43440f6.html>
+
+---
+
+## Man, woman arrested after officers find suspected methamphetamine during stop
+
+date: 2024-10-08, from: Guam Daily Post
+
+A man and a woman are facing drug possession charges after a traffic stop led to the discovery of suspected drug paraphernalia. 
+
+<https://www.postguam.com/news/local/man-woman-arrested-after-officers-find-suspected-methamphetamine-during-stop/article_48e6937c-8581-11ef-941c-53db9bb51a27.html>
 
 ---
 
@@ -237,6 +803,18 @@ date: 2024-10-08, from: Hawaii Tribune Harold
 
 ---
 
+## UH Cancer Center recognized  with 5-year national designation
+
+date: 2024-10-08, from: Hawaii Tribune Harold
+
+
+				<p>The University of Hawaii Cancer Center on Monday officially announced the renewal of its status as a National Cancer Institute-designated cancer center, receiving its best score in a decade and classified by the NCI as an &#8220;outstanding&#8221; cancer center.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/08/hawaii-news/uh-cancer-center-recognized-with-5-year-national-designation/>
+
+---
+
 ## Women Candidates Make Historic Strides in Palau’s Upcoming General Election
 
 date: 2024-10-08, from: Island Times
@@ -428,6 +1006,26 @@ date: 2024-10-08, from: Island Times
 
 ---
 
+## Temporary Sanchez campus by Christmas break unlikely
+
+date: 2024-10-08, from: Guam Daily Post
+
+It appears that Simon Sanchez High School students will not be able to move into a temporary campus by Christmas break. Guam Department of Education Superintendent Kenneth Erik Swanson said Tuesday that he doubts that would happen even if the… 
+
+<https://www.postguam.com/news/local/temporary-sanchez-campus-by-christmas-break-unlikely/article_39f3ccda-8537-11ef-8ff6-5f7e4b3b2c83.html>
+
+---
+
+## High Court denies AG's petition regarding abortion ban decision
+
+date: 2024-10-08, from: Guam Daily Post
+
+The Supreme Court of the United States has denied the Guam attorney general's petition for a writ of certiorari regarding last year's determination from the Supreme Court of Guam that a decades-old abortion ban no longer has any effect on… 
+
+<https://www.postguam.com/news/local/high-court-denies-ags-petition-regarding-abortion-ban-decision/article_b0ac2392-8521-11ef-9583-0f40c34497b1.html>
+
+---
+
 ## Guam Chamber of Commerce seeks retention of credit card fee waivers
 
 date: 2024-10-08, from: Pacific Island Times
@@ -435,6 +1033,46 @@ date: 2024-10-08, from: Pacific Island Times
 By Pacific Island  Times News Staff  The Guam Chamber of Commerce urged the Guam legislature to appropriate funds to cover the... 
 
 <https://www.pacificislandtimes.com/post/guam-chamber-of-commerce-seeks-retention-of-credit-card-fee-waivers>
+
+---
+
+## Lutheran Church gets new pastor
+
+date: 2024-10-08, from: Guam Daily Post
+
+The Lutheran Church of Guam installed Rev. Andrew "Andy" Taylor as its new pastor, following a service Sunday, the church announced in a press release. 
+
+<https://www.postguam.com/news/local/lutheran-church-gets-new-pastor/article_4be4bbaa-852a-11ef-ab7b-5bab29e420b1.html>
+
+---
+
+## UOG installs aquaponics systems
+
+date: 2024-10-08, from: Guam Daily Post
+
+For many, the thought of being able to go out to the backyard and grab a fresh fish for dinner seems absurd, but it is a reality for members of the first cohort of the University of Guam Center for… 
+
+<https://www.postguam.com/news/local/uog-installs-aquaponics-systems/article_a46c894c-851b-11ef-9fff-67fcd5bc314a.html>
+
+---
+
+## Man allegedly steals bike, exchanges for meth
+
+date: 2024-10-08, from: Guam Daily Post
+
+A man who reportedly goes by the street name "Rambo" has been charged with theft of property for his alleged involvement in the theft of a bicycle worth $700, which he allegedly exchanged for methamphetamine, or ice. 
+
+<https://www.postguam.com/news/local/man-allegedly-steals-bike-exchanges-for-meth/article_2a257892-847b-11ef-90d1-0737d3255e19.html>
+
+---
+
+## Override attempts fail, several bills passed as lawmakers close session
+
+date: 2024-10-08, from: Guam Daily Post
+
+The latest attempt to enact two vetoed measures related to the Office of Public Accountability, Bill 213-37 and Bill 227-37, again fell short of passing the Guam Legislature as lawmakers capped off session late Monday morning. Bill 213 obtained only… 
+
+<https://www.postguam.com/news/local/override-attempts-fail-several-bills-passed-as-lawmakers-close-session/article_90ce8d1e-84ac-11ef-a923-b3584167f59b.html>
 
 ---
 
@@ -748,6 +1386,66 @@ date: 2024-10-07, from: Hawaii Tribune Harold
 
 ---
 
+## Oversight on GHS/OCD postponed again
+
+date: 2024-10-07, from: Guam Daily Post
+
+The long-awaited oversight hearing on Guam Homeland Security/Office of Civil Defense will, again, have to wait another day. The hearing was scheduled to take place Monday morning, but the ongoing session at the Guam Legislature meant the hearing had to… 
+
+<https://www.postguam.com/news/local/oversight-on-ghs-ocd-postponed-again/article_7b441a38-8450-11ef-b488-5fa1717b74b2.html>
+
+---
+
+## Passenger told allegedly drunk driver ‘slow down’ before crash
+
+date: 2024-10-07, from: Guam Daily Post
+
+The passenger of a vehicle with a man who reportedly had three times the legal limit for blood alcohol content in his system allegedly told police that he had told the driver “to slow down,” before a collision on Swamp… 
+
+<https://www.postguam.com/news/local/passenger-told-allegedly-drunk-driver-slow-down-before-crash/article_365c87b2-8378-11ef-8d50-b7573f0e21d5.html>
+
+---
+
+## Teaching abroad: UOG alum’s Peace Corps mission in Samoa
+
+date: 2024-10-07, from: Guam Daily Post
+
+When Lazaro Quinata graduated from the University of Guam in 2020 with a degree in sociology and a minor in CHamoru studies, he was eager to explore new opportunities. The COVID-19 pandemic initially limited his options, but he was able… 
+
+<https://www.postguam.com/news/local/teaching-abroad-uog-alum-s-peace-corps-mission-in-samoa/article_344ab36a-8209-11ef-96f5-779fbecaec91.html>
+
+---
+
+## Southern passes DPHSS inspection, students return to campus Tuesday
+
+date: 2024-10-07, from: Guam Daily Post
+
+Southern High School students will return to their home campus Tuesday, with their school successfully passing a reinspection by Department of Public Health and Social Services officials. 
+
+<https://www.postguam.com/news/local/southern-passes-dphss-inspection-students-return-to-campus-tuesday/article_aa0eee06-8464-11ef-b3a4-8bf7226a53e5.html>
+
+---
+
+## Shieh denies rumors he’s leaving
+
+date: 2024-10-07, from: Guam Daily Post
+
+Dr. Thomas Shieh has shot down rumors that he is resigning from the Guam Memorial Hospital, telling The Guam Daily Post on Monday that a recent post on his Facebook page was taken “the wrong way.” 
+
+<https://www.postguam.com/news/local/shieh-denies-rumors-he-s-leaving/article_163d424a-845f-11ef-8212-d3b80c4dc093.html>
+
+---
+
+## Swaggers dunk Crumble Cookies in 15U volleyball championship game
+
+date: 2024-10-07, from: Guam Daily Post
+
+With tournament co-MVPs Lea Aromin and Jaedyn Punongbayan leading their young team, the AOLG Swaggers defeated the Legacy Volleyball Club Crumble Cookies 25-20, 25-17, in the AOLG 15U Girls Volleyball Tournament championship game Sunday in Hagåtña. 
+
+<https://www.postguam.com/sports/local/swaggers-dunk-crumble-cookies-in-15u-volleyball-championship-game/article_21afb936-8433-11ef-92de-eb5b4b197878.html>
+
+---
+
 ## HIKI NŌ ON PBS HAWAI‘I: Class of 2024, Part 2
 
 date: 2024-10-07, from: HIKI NŌ ON PBS HAWAIʻI
@@ -767,6 +1465,16 @@ date: 2024-10-07, from: Pacific Island Times
 By Louella Losinio   Manila —With Guam facing a gap in health care, the Philippines, a rapidly emerging medical tourism destination, is... 
 
 <https://www.pacificislandtimes.com/post/medical-tourism-the-philippines-remains-a-top-destination-for-patients-from-guam-and-micronesia>
+
+---
+
+## Man found sleeping near school allegedly had methamphetamine
+
+date: 2024-10-07, from: Guam Daily Post
+
+Officers with the Guam Police Department say that the man they found sleeping in a “running vehicle” near an elementary school in Malesso' was also found with methamphetamine. 
+
+<https://www.postguam.com/news/local/man-found-sleeping-near-school-allegedly-had-methamphetamine/article_0a20c02c-8379-11ef-a5ba-dfe7e280e256.html>
 
 ---
 

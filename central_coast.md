@@ -1,11 +1,136 @@
 ---
 title: central coast
-updated: 2024-10-08 06:55:37
+updated: 2024-10-09 08:15:38
 ---
 
 # central coast
 
-(date: 2024-10-08 06:55:37)
+(date: 2024-10-09 08:15:38)
+
+---
+
+## Late Summer Snow in Iceland
+
+date: 2024-10-09, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090924-POD-Joyce-Dudley.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Late summer snow in Iceland." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090924-POD-Joyce-Dudley.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090924-POD-Joyce-Dudley.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090924-POD-Joyce-Dudley.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090924-POD-Joyce-Dudley.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090924-POD-Joyce-Dudley.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090924-POD-Joyce-Dudley.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090924-POD-Joyce-Dudley.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090924-POD-Joyce-Dudley.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090924-POD-Joyce-Dudley.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090924-POD-Joyce-Dudley.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090924-POD-Joyce-Dudley.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/090924-POD-Joyce-Dudley.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/late-summer-snow-in-iceland/">Late Summer Snow in Iceland</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/late-summer-snow-in-iceland/>
+
+---
+
+## Film Festival Leases Former Fiesta Five Theater in Big Downtown Shakeup
+
+date: 2024-10-09, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-Film-Festival-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The Santa Barbara International Film Festival has leased the former Fiesta Five Theater building, and it plans to turn it into a modern, state-of-the-art venue that focuses on a variety of films." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-Film-Festival-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-Film-Festival-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-Film-Festival-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-Film-Festival-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-Film-Festival-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-Film-Festival-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-Film-Festival-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-Film-Festival-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-Film-Festival-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The show must go on. In this case, it&#8217;s the Santa Barbara International Film Festival. The Santa Barbara City Council on Tuesday approved a lease agreement with the organization to [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/sbiff-to-transform-former-fiesta-five-theater-into-state-of-the-art-film-center/">Film Festival Leases Former Fiesta Five Theater in Big Downtown Shakeup</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/sbiff-to-transform-former-fiesta-five-theater-into-state-of-the-art-film-center/>
+
+---
+
+## Incumbent Mike Jordan Battles Newcomer Terra Taylor in Santa Barbara’s District 2
+
+date: 2024-10-09, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-District-2-Mike-Jordan-Terra-Taylor-1-JM-copy.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Terra Taylor and Mike Jordan are facing off in the Nov. 5 election to represent District 2 on the Santa Barbara City Council." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-District-2-Mike-Jordan-Terra-Taylor-1-JM-copy.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-District-2-Mike-Jordan-Terra-Taylor-1-JM-copy.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-District-2-Mike-Jordan-Terra-Taylor-1-JM-copy.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-District-2-Mike-Jordan-Terra-Taylor-1-JM-copy.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-District-2-Mike-Jordan-Terra-Taylor-1-JM-copy.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-District-2-Mike-Jordan-Terra-Taylor-1-JM-copy.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-District-2-Mike-Jordan-Terra-Taylor-1-JM-copy.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-District-2-Mike-Jordan-Terra-Taylor-1-JM-copy.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-District-2-Mike-Jordan-Terra-Taylor-1-JM-copy.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A well-known incumbent and political insider looks to hold on to his City Council seat against a political newcomer in Santa Barbara&#8217;s District 2. Mike Jordan is running against Terra [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/incumbent-mike-jordan-battles-newcomer-terra-taylor-in-santa-barbaras-district-2/">Incumbent Mike Jordan Battles Newcomer Terra Taylor in Santa Barbara&#8217;s District 2</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/incumbent-mike-jordan-battles-newcomer-terra-taylor-in-santa-barbaras-district-2/>
+
+---
+
+## County Supervisors Take Steps to Protect Senior Mobile Home Parks
+
+date: 2024-10-09, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-Del-Cielo-Mobile-Estates1-js-1.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Del Cielo Mobile Estates in Orcutt." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-Del-Cielo-Mobile-Estates1-js-1.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-Del-Cielo-Mobile-Estates1-js-1.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-Del-Cielo-Mobile-Estates1-js-1.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-Del-Cielo-Mobile-Estates1-js-1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-Del-Cielo-Mobile-Estates1-js-1.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-Del-Cielo-Mobile-Estates1-js-1.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-Del-Cielo-Mobile-Estates1-js-1.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-Del-Cielo-Mobile-Estates1-js-1.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-Del-Cielo-Mobile-Estates1-js-1.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Santa Barbara County Board of Supervisors responded to community outcry over a proposal to convert a senior mobile home park to an all-ages community by discussing a potential moratorium [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/county-supervisors-take-steps-to-protect-senior-mobile-home-parks/">County Supervisors Take Steps to Protect Senior Mobile Home Parks</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/county-supervisors-take-steps-to-protect-senior-mobile-home-parks/>
+
+---
+
+## Dominant First Half Lifts San Marcos Boys Water Polo to 9-4 Win Over Dos Pueblos
+
+date: 2024-10-09, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-dp-water-polo.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-dp-water-polo.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-dp-water-polo.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-dp-water-polo.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-dp-water-polo.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-dp-water-polo.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-dp-water-polo.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-dp-water-polo.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-dp-water-polo.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-dp-water-polo.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>San Marcos boys water polo started strong and never looked back en route to a 9-4 win over Dos Pueblos in a crosstown matchup on Tuesday at Elings Aquatic Center. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/dominant-first-half-lifts-san-marcos-boys-water-polo-to-9-4-win-over-dos-pueblos/">Dominant First Half Lifts San Marcos Boys Water Polo to 9-4 Win Over Dos Pueblos</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/dominant-first-half-lifts-san-marcos-boys-water-polo-to-9-4-win-over-dos-pueblos/>
+
+---
+
+## County Salutes Heroism of Officers After Santa Maria Court Bombing
+
+date: 2024-10-09, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-Court-Bombing-Recogntion-cont.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Four law enforcement officers are honored Tuesday for their actions when a bomb detonated Sept. 25 in the Santa Maria Court Complex. Pictured are, from left, Santa Barbara County Board of Supervisors chair Steve Lavagnino, Sheriff Bill Brown, Santa Maria Police Officer Erik Hesch, Sheriff&#039;s Deputy Chris Nelson, California Highway Patrol Officer Brian Hanrahan, District Attorney&#039;s Office investigator Wayne Flick, District Attorney John Savrnoch and Fourth District Supervisor Bob Nelson." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-Court-Bombing-Recogntion-cont.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-Court-Bombing-Recogntion-cont.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-Court-Bombing-Recogntion-cont.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-Court-Bombing-Recogntion-cont.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-Court-Bombing-Recogntion-cont.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-Court-Bombing-Recogntion-cont.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-Court-Bombing-Recogntion-cont.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-Court-Bombing-Recogntion-cont.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100824-Court-Bombing-Recogntion-cont.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Amid the chaos following the detonation of a bomb inside Santa Maria&#8217;s Santa Barbara County Superior Court building lobby two weeks ago, Steve Neil reacted with instinct. On Tuesday, Neil, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-county-salutes-heroism-of-officers-after-court-bombing/">County Salutes Heroism of Officers After Santa Maria Court Bombing</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-county-salutes-heroism-of-officers-after-court-bombing/>
+
+---
+
+## Prep Girls Volleyball Roundup: Laguna Blanca Secures Five-Set Comeback Win Over Thacher
+
+date: 2024-10-09, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Laguna Blanca girls volleyball pulled out a five-set win over Thacher in a Frontier League match, 23-25, 25-21, 20-25, 25-19, 15-5. The Owls fell behind 2-1 after three sets but [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/prep-girls-volleyball-roundup-laguna-blanca-secures-five-set-comeback-win-over-thacher/">Prep Girls Volleyball Roundup: Laguna Blanca Secures Five-Set Comeback Win Over Thacher</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/prep-girls-volleyball-roundup-laguna-blanca-secures-five-set-comeback-win-over-thacher/>
+
+---
+
+## Prep Girls Tennis Roundup: Cate Routs Foothill Tech to Continue Dominant League Season
+
+date: 2024-10-09, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Cate girls tennis remained undefeated in Tri-Valley League play with a 16-2 win over Foothill Tech on Tuesday. The Rams got wins from 15 different players en route to the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/prep-girls-tennis-roundup-cate-routs-foothill-tech-to-continue-dominant-league-season/">Prep Girls Tennis Roundup: Cate Routs Foothill Tech to Continue Dominant League Season</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/prep-girls-tennis-roundup-cate-routs-foothill-tech-to-continue-dominant-league-season/>
+
+---
+
+## Prep Girls Golf Roundup: Santa Barbara Takes Down Carpinteria, Laguna Blanca Bests Bishop Diego
+
+date: 2024-10-09, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara High girls golf took down the Carpinteria Warriors on Tuesday afternoon in a non-league matchup at Santa Barbara Golf Club&#8217;s par 37 course. The Dons finished the day [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-high-girls-golf-takes-down-carpinteria-high-in-non-league-match/">Prep Girls Golf Roundup: Santa Barbara Takes Down Carpinteria, Laguna Blanca Bests Bishop Diego</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-high-girls-golf-takes-down-carpinteria-high-in-non-league-match/>
+
+---
+
+## UCSB Men’s Golf Places 13th at Alister Mackenzie Invitational
+
+date: 2024-10-09, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The UC Santa Barbara Golf team was back on the green the last two days as they competed at the Alister Mackenzie Invitational hosted by Cal. By the end of [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ucsb-mens-golf-places-13th-at-alister-mackenzie-invitational/">UCSB Men&#8217;s Golf Places 13th at Alister Mackenzie Invitational</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/ucsb-mens-golf-places-13th-at-alister-mackenzie-invitational/>
 
 ---
 

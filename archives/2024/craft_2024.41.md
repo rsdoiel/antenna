@@ -1,11 +1,21 @@
 ---
 title: craft
-updated: 2024-10-08 06:55:47
+updated: 2024-10-09 08:15:49
 ---
 
 # craft
 
-(date: 2024-10-08 06:55:47)
+(date: 2024-10-09 08:15:49)
+
+---
+
+## The Lost Art Press Food Tour
+
+date: 2024-10-09, from: Lost Arg Press blog
+
+Note: If you&#8217;re planning on coming to town next month for our Chair Show and Open Day, here are some restaurants to try. There’s a reason Cincinnati is one of the fattest cities in the USA. Megan and I often joke that next year we’re going to flip the script on our classes at the... 
+
+<https://blog.lostartpress.com/2024/10/09/the-lost-art-press-food-tour/>
 
 ---
 

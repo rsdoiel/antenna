@@ -1,11 +1,91 @@
 ---
 title: motorcycles
-updated: 2024-10-08 06:55:44
+updated: 2024-10-09 08:15:46
 ---
 
 # motorcycles
 
-(date: 2024-10-08 06:55:44)
+(date: 2024-10-09 08:15:46)
+
+---
+
+## Gogoro Seems To Be In Some Serious Trouble, But There’s a Ray Of Hope
+
+date: 2024-10-09, from: Ride Apart, Electric Motorcycle News
+
+The future of Gogoro ultimately remains very murky.  
+
+<https://www.rideapart.com/news/736318/gogoro-in-trouble-ceo-resigns-legal-issues/>
+
+---
+
+## Don’t Call the New 2025 Yamaha R9 an R6 Replacement, It Isn’t
+
+date: 2024-10-09, from: Ride Apart, Electric Motorcycle News
+
+Is this how you want the future of the supersport category to look? 
+
+<https://www.rideapart.com/news/736626/debut-2025-yamaha-yxf-r9-specs-price-overview/>
+
+---
+
+## Iconic Blue Ridge Parkway is Closed, But Tail of the Dragon Remains Open
+
+date: 2024-10-09, from: Ride Apart, Electric Motorcycle News
+
+For now.  
+
+<https://www.rideapart.com/news/736636/blue-ridge-parkway-motorcycle-road-closed-tail-of-dragon-open/>
+
+---
+
+## Someone Is Selling Vespa's Crazy Rocket Launching Scooter, No Really
+
+date: 2024-10-09, from: Ride Apart, Electric Motorcycle News
+
+Ready to drop out of a plane and into your heart right now. 
+
+<https://www.rideapart.com/news/736628/vespa-tap-150-for-sale-rocket-launcher/>
+
+---
+
+## Don't Be a Jerk To Whales, Ride Your Jet Skis Away From Them
+
+date: 2024-10-09, from: Ride Apart, Electric Motorcycle News
+
+Come on, folks.  
+
+<https://www.rideapart.com/news/736607/jet-ski-whale-encounter-jerk-riders-australia/>
+
+---
+
+## KTM Needs To Chill, It Has Way Too Much Planned For EICMA
+
+date: 2024-10-09, from: Ride Apart, Electric Motorcycle News
+
+I guess that’s what you get for sitting out the past five years.  
+
+<https://www.rideapart.com/news/736500/ktm-eicma-2024-announcement-new-tech-models/>
+
+---
+
+## CFMoto Loses Its Mind, Flips The Script With Four New Motorcycles
+
+date: 2024-10-09, from: Ride Apart, Electric Motorcycle News
+
+These four new bikes have quite a lot of potential.  
+
+<https://www.rideapart.com/news/736478/cfmoto-mtx-500sr-675srr-150sc-launch-philippines/>
+
+---
+
+## Bell Helmets, Fox Racing, Giro and Others Were Just Sold Off, Fates Unclear
+
+date: 2024-10-08, from: Ride Apart, Electric Motorcycle News
+
+What will become of these iconic brands? 
+
+<https://www.rideapart.com/news/736595/bell-helmets-revelyst-strategic-value-partners-private-equity-sale/>
 
 ---
 

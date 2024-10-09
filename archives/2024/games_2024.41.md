@@ -1,11 +1,111 @@
 ---
 title: games
-updated: 2024-10-08 06:55:41
+updated: 2024-10-09 08:15:42
 ---
 
 # games
 
-(date: 2024-10-08 06:55:41)
+(date: 2024-10-09 08:15:42)
+
+---
+
+## Omg, they’re finally singing in a Wicked trailer!
+
+date: 2024-10-09, updated: 2024-10-09, from: Polygon Website
+
+Wicked is one of the most famous and successful musicals of all time, with iconic songs like “Defying Gravity,” “Popular,” and “For Good” transcending beyond musical theater. Based on the 1995 fantasy novel by Gregory Maguire, itself inspired by The Wizard of Oz (both the movie and the original novel), Wicked is the origin story [&#8230;] 
+
+<https://www.polygon.com/movies/463672/wicked-trailer-musical-singing>
+
+---
+
+## After Shadow of the Tomb Raider, an animated Lara Croft had to laugh, cry, and wrestle like a pro
+
+date: 2024-10-09, updated: 2024-10-08, from: Polygon Website
+
+Since her first tomb-raiding adventure nearly 30 years ago, Lara Croft has trotted the entire globe in pursuit of artifacts and international threats. So where does one even begin crafting a new Tomb Raider story, told entirely in unplayable animation? Showrunner Tasha Huo had a vision — and Netflix bought in.&#160; “Obviously you can start [&#8230;] 
+
+<https://www.polygon.com/animation-cartoons/462663/tomb-raider-netflix-lara-croft-after-survivor-trilogy>
+
+---
+
+## Game of the Year: The frontrunners, dark horses, and challengers to come
+
+date: 2024-10-09, updated: 2024-10-09, from: Polygon Website
+
+This year marks the 10th anniversary of The Game Awards, and in that time Geoff Keighley’s annual event has established itself quite firmly as the leading awards ceremony for the game industry — the Oscars of gaming. It remains promotionally overstuffed to the point that it’s still arguably better known for trailers than awards, but [&#8230;] 
+
+<https://www.polygon.com/awards/450195/game-of-the-year-game-awards-frontrunners>
+
+---
+
+## Our favorite Steam Deck fold-up keyboard is 22% off
+
+date: 2024-10-09, updated: 2024-10-09, from: Polygon Website
+
+Amazon’s October Prime Day is a great opportunity to save on big ticket tech and gaming products. It’s also a time to get deals on affordable gadgets that can make life a bit easier. One such example is a compact fold-up keyboard, which we think should be part of any Steam Deck owners repertoire. We’ve [&#8230;] 
+
+<https://www.polygon.com/amazon-prime-day/463478/steam-deck-fold-up-keyboard-trackpad-deal>
+
+---
+
+## The Halloween Countdown: 31 days of horror to watch
+
+date: 2024-10-09, updated: 2024-10-09, from: Polygon Website
+
+Do you feel that? That chill in the air, that tingling sensation at the back of your neck? It can only mean one thing. That’s right: Halloween season is once again upon us! Here at Polygon, we love horror. We cover it all year round, whether it’s ranking the scariest new releases of the year [&#8230;] 
+
+<https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream>
+
+---
+
+## Silent Hill 2 owes much to Christina Aguilera at the 1999 Teen Choice Awards
+
+date: 2024-10-09, updated: 2024-10-09, from: Polygon Website
+
+Konami’s Silent Hill series is famously inspired by film and pop culture, as proven by the first game’s strong Kindergarten Cop influence. But one specific ’90s reference in Silent Hill 2 has been fascinating fans for more than 20 years: the game’s Christina-Aguilera-at-the-1999-Teen-Choice-Awards connection. Maria, one of Silent Hill 2’s antagonists, is clearly modeled after [&#8230;] 
+
+<https://www.polygon.com/culture/462908/silent-hill-2-christina-aguilera-teen-choice-awards-1999>
+
+---
+
+## The Prime Day deals our readers can&#8217;t get enough of
+
+date: 2024-10-09, updated: 2024-10-09, from: Polygon Website
+
+We’re on day two of a busy October Prime Day, where we’ve spent countless collective hours sifting through literally thousands of deals to find a few hundred we think are worth your time across video games, board games, Lego, and more. And from there, we’ve noticed a few that stood out as the best of [&#8230;] 
+
+<https://www.polygon.com/amazon-prime-day/463039/bestsellers-popular-deals>
+
+---
+
+## ‘Like new’ PlayStation Portals are still $60 off through Amazon for Prime Day
+
+date: 2024-10-09, updated: 2024-10-09, from: Polygon Website
+
+Discounts on the PlayStation Portal, Sony’s remote player for the PS5 with an 8-inch screen, are nearly impossible to come by. We’re surprised that Amazon has one for October Prime Day (and that is has lasted through day 2), but there’s a catch. The company has a large stock of “like new” units that were [&#8230;] 
+
+<https://www.polygon.com/amazon-prime-day/463068/playstation-ps-portal-deal-like-new-renewed>
+
+---
+
+## Nintendo announces new game hardware: an alarm clock!
+
+date: 2024-10-09, updated: 2024-10-09, from: Polygon Website
+
+Nintendo has a new piece of game hardware coming in 2024. It’s not the Switch 2, it’s the Nintendo Sound Clock: Alarmo, a new motion-sensing alarm clock that will rouse you from sleep with the sounds of video games like Super Mario Odyssey, The Legend of Zelda: Breath of the Wild, and more. The $99.99 [&#8230;] 
+
+<https://www.polygon.com/nintendo/463519/nintendo-alarmo-alarm-clock-new-hardware>
+
+---
+
+## The best October Prime Day deals
+
+date: 2024-10-09, updated: 2024-10-09, from: Polygon Website
+
+October Prime Day 2024 is back for day two, with even more awesome discounts on some of our favorite games, accessories, collectibles, toys, and more — all on sale through Oct. 9. Highlights include deals on the slim PlayStation 5, the Steelseries Arctis Nova Pro wireless headset, and Descent: Legends of the Dark, as well as [&#8230;] 
+
+<https://www.polygon.com/amazon-prime-day/455235/best-deals-gaming-movies-toys-board-games>
 
 ---
 
@@ -46,26 +146,6 @@ date: 2024-10-08, updated: 2024-10-08, from: Polygon Website
 Red Dead Redemption is headed to Windows PC on Oct. 29, Rockstar Games announced Tuesday. The port of the 2010 open-world Western adventure game follows recent re-releases of Red Dead Redemption for PlayStation 4 and Nintendo Switch. Like those versions of the game, the PC port of Red Dead Redemption will include its zombie-infested spinoff, [&#8230;] 
 
 <https://www.polygon.com/news/23171877/red-dead-redemption-1-pc-steam-release-date>
-
----
-
-## The Halloween Countdown: 31 days of horror to watch
-
-date: 2024-10-08, updated: 2024-10-08, from: Polygon Website
-
-Do you feel that? That chill in the air, that tingling sensation at the back of your neck? It can only mean one thing. That’s right: Halloween season is once again upon us! Here at Polygon, we love horror. We cover it all year round, whether it’s ranking the scariest new releases of the year [&#8230;] 
-
-<https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream>
-
----
-
-## The best October Prime Day deals
-
-date: 2024-10-08, updated: 2024-10-08, from: Polygon Website
-
-October Prime Day 2024 is in full effect, with awesome discounts on some of our favorite games, accessories, collectibles, toys, and more —&#160;all on sale through Oct. 9. Highlights include deals on the slim PlayStation 5 Digital Edition, the Steelseries Arctis Nova Pro wireless headset, and Descent: Legends of the Dark, as well as dozens [&#8230;] 
-
-<https://www.polygon.com/amazon-prime-day/455235/best-deals-gaming-movies-toys-board-games>
 
 ---
 

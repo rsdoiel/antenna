@@ -1,11 +1,245 @@
 ---
 title: home
-updated: 2024-10-08 06:55:43
+updated: 2024-10-09 08:15:44
 ---
 
 # home
 
-(date: 2024-10-08 06:55:43)
+(date: 2024-10-09 08:15:44)
+
+---
+
+## Lucky Bamboo Plant Care and Growing Guide (Most Detailed)
+
+date: 2024-10-09, from: Yard Life blog
+
+<p>Lucky bamboo plant, scientifically known as Dracaena sanderiana, is a popular indoor plant celebrated not only for its striking appearance ... </p>
+<p class="read-more-container"><a title="Lucky Bamboo Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/lucky-bamboo-plant-care-and-growing-guide-most-detailed/#more-20518" aria-label="Read more about Lucky Bamboo Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/lucky-bamboo-plant-care-and-growing-guide-most-detailed/">Lucky Bamboo Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/lucky-bamboo-plant-care-and-growing-guide-most-detailed/>
+
+---
+
+## Everything I Bought to Make My Boring Shower Feel Like a Spa
+
+date: 2024-10-09, from: Dwell
+
+Treat yourself to a head that mimics a waterfall or a stone bath mat made of diatomaceous earth. 
+
+<https://www.dwell.com/article/everything-i-bought-to-make-my-boring-shower-feel-like-a-spa-a76cc7bb>
+
+---
+
+## Yellow Jacket vs Hornet: A Complete Guide to Identifying Them
+
+date: 2024-10-09, from: Yard Life blog
+
+<p>Yellow jackets and hornets are two commonly mistaken wasps due to their similar appearances and behaviors. Both belong to the ... </p>
+<p class="read-more-container"><a title="Yellow Jacket vs Hornet: A Complete Guide to Identifying Them" class="read-more button" href="https://ownyardlife.com/yellow-jacket-vs-hornet-a-complete-guide-to-identifying-them/#more-20511" aria-label="Read more about Yellow Jacket vs Hornet: A Complete Guide to Identifying Them">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/yellow-jacket-vs-hornet-a-complete-guide-to-identifying-them/">Yellow Jacket vs Hornet: A Complete Guide to Identifying Them</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/yellow-jacket-vs-hornet-a-complete-guide-to-identifying-them/>
+
+---
+
+## Why Do Flying Ants Suddenly Appear in Your Home?
+
+date: 2024-10-09, from: Yard Life blog
+
+<p>Have you ever stepped outside on a warm day only to be greeted by a cloud of flying ants? This ... </p>
+<p class="read-more-container"><a title="Why Do Flying Ants Suddenly Appear in Your Home?" class="read-more button" href="https://ownyardlife.com/why-do-flying-ants-suddenly-appear-in-your-home/#more-20499" aria-label="Read more about Why Do Flying Ants Suddenly Appear in Your Home?">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/why-do-flying-ants-suddenly-appear-in-your-home/">Why Do Flying Ants Suddenly Appear in Your Home?</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/why-do-flying-ants-suddenly-appear-in-your-home/>
+
+---
+
+## What Do Jumping Spiders Eat? Unveiling Their Nutritional Needs
+
+date: 2024-10-09, from: Yard Life blog
+
+<p>Jumping spiders, belonging to the family Salticidae, are a fascinating group of arachnids renowned for their distinctive leaping ability and ... </p>
+<p class="read-more-container"><a title="What Do Jumping Spiders Eat? Unveiling Their Nutritional Needs" class="read-more button" href="https://ownyardlife.com/what-do-jumping-spiders-eat-unveiling-their-nutritional-needs/#more-20491" aria-label="Read more about What Do Jumping Spiders Eat? Unveiling Their Nutritional Needs">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/what-do-jumping-spiders-eat-unveiling-their-nutritional-needs/">What Do Jumping Spiders Eat? Unveiling Their Nutritional Needs</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/what-do-jumping-spiders-eat-unveiling-their-nutritional-needs/>
+
+---
+
+## Are Orange Ladybugs Poisonous? What You Need to Know
+
+date: 2024-10-09, from: Yard Life blog
+
+<p>When you see a bright orange ladybug crawling on your plants, you might wonder, are orange ladybugs poisonous? Many people ... </p>
+<p class="read-more-container"><a title="Are Orange Ladybugs Poisonous? What You Need to Know" class="read-more button" href="https://ownyardlife.com/are-orange-ladybugs-poisonous-what-you-need-to-know/#more-20480" aria-label="Read more about Are Orange Ladybugs Poisonous? What You Need to Know">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/are-orange-ladybugs-poisonous-what-you-need-to-know/">Are Orange Ladybugs Poisonous? What You Need to Know</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/are-orange-ladybugs-poisonous-what-you-need-to-know/>
+
+---
+
+## 21 Tips on How to Keep Deer Out of Your Garden
+
+date: 2024-10-09, from: Yard Life blog
+
+<p>Deer are undoubtedly beautiful and majestic creatures, but when they decide to treat your garden, berry patch, or flower beds ... </p>
+<p class="read-more-container"><a title="21 Tips on How to Keep Deer Out of Your Garden" class="read-more button" href="https://ownyardlife.com/21-tips-on-how-to-keep-deer-out-of-your-garden/#more-20471" aria-label="Read more about 21 Tips on How to Keep Deer Out of Your Garden">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/21-tips-on-how-to-keep-deer-out-of-your-garden/">21 Tips on How to Keep Deer Out of Your Garden</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/21-tips-on-how-to-keep-deer-out-of-your-garden/>
+
+---
+
+## All the New Fall Things at Trader Joe’s Are Calling Your Name
+
+date: 2024-10-08, from: Sunset Magazine - Living in the West
+
+Fall is one of the most exciting times of the year at Trader Joe's. This year, there are pumpkin, apple, and cinnamon flavors galore. 
+
+<https://www.sunset.com/food-wine/trader-joes-new-october-products-2024>
+
+---
+
+## WTF Happened to the Winners of Airbnb’s $10M OMG! Fund?
+
+date: 2024-10-08, from: Dwell
+
+The buzzy 2022 competition helped finance 100 fantastical rentals for the platform, from an eco-igloo to a giant clog cabin. So what ever came of those projects? 
+
+<https://www.dwell.com/article/what-happened-to-the-winners-of-airbnb-omg-fund-rental-design-competition-e8f55721>
+
+---
+
+## "Megalopolis" Romanticizes the Tortured-Genius Architect Archetype in the Worst Way
+
+date: 2024-10-08, from: Dwell
+
+The protagonist’s would-be utopia is more out of touch than groundbreaking—not unlike Francis Ford Coppola’s magnum opus. 
+
+<https://www.dwell.com/article/megalopolis-romanticizes-the-tortured-genius-architect-archetype-in-the-worst-way-97cdc6cb>
+
+---
+
+## How To Find Land For Your Homestead
+
+date: 2024-10-08, from: The Tiny Life blog
+
+<p>Get The How To Find Land Guide Start Your Homestead Off The Right Way Learn What Costly Mistakes To Avoid Avoid Buying The Wrong Piece Of Land And Save Money Our Free Newsletter Learn About Homesteading, Tiny Houses and Minimalism</p>
+<p>The post <a href="https://thetinylife.com/fop/">How To Find Land For Your Homestead</a> appeared first on <a href="https://thetinylife.com">The Tiny Life</a>.</p>
+ 
+
+<https://thetinylife.com/fop/>
+
+---
+
+## Solo Stove Reviews: We Tested Just About Everything on the Website
+
+date: 2024-10-08, from: Family Handyman Blog
+
+<p>Our long-time shopping editor has tested and reviewed over a dozen Solo Stove products. Here's what she’d order again.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/solo-stove-reviews/">Solo Stove Reviews: We Tested Just About Everything on the Website</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/solo-stove-reviews/>
+
+---
+
+## Designer Jennifer Siegal Is Selling her Modular Venice Beach House for $3M
+
+date: 2024-10-08, from: Dwell
+
+The L.A. compound includes a three-bedroom home, a poolside patio, and an ADU with two separate units. 
+
+<https://www.dwell.com/article/highrise-modular-home-jennifer-siegal-venice-beach-los-angeles-real-estate-80b5ba91>
+
+---
+
+## This 75-Square-Foot Apartment Fits Two Infrared Saunas
+
+date: 2024-10-08, from: Dwell
+
+The compact Rotterdam dwelling might be one of the world’s smallest with a spa, according to the architects who live in it. 
+
+<https://www.dwell.com/article/this-75-square-foot-apartment-fits-two-infrared-saunas-54bfe4ca>
+
+---
+
+## How to Grow ‘Red Dragon’ Japanese Maple
+
+date: 2024-10-08, from: The Gardener's Path
+
+<p>A dwarf Japanese maple variety with gorgeous, color-changing foliage, ‘Red Dragon’ features vibrant leaves with a weeping form. It makes a welcome addition to gardens and landscapes and is the perfect compact specimen for containers and planters. Learn how to grow ‘Red Dragon’ Japanese maple in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/landscape-trees/grow-red-dragon-japanese-maple/">How to Grow ‘Red Dragon’ Japanese Maple</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/plants/landscape-trees/grow-red-dragon-japanese-maple/>
+
+---
+
+## This Mid-Century Modern House Was Originally Built on a Tennis Court Owned By a Hollywood Star
+
+date: 2024-10-08, from: Sunset Magazine - Living in the West
+
+This house was originally built on a tennis court that belonged to a Hollywood star. After its last remodel in the '80s, it got an update. 
+
+<https://www.sunset.com/home-garden/home-tours/la-canada-mid-century-modern-house-tour>
+
+---
+
+## Secretary Ross, Climate Smart Ag delegation visit Peru
+
+date: 2024-10-08, from: Calfifornia Dept. Aggriculture blog
+
+CDFA secretary Karen Ross is in Peru as part of a Climate Smart Agriculture Policy Mission focusing on&#160;expanding collaboration on innovation, on-farm practices, and technologies to assist California’s&#160;specialty crop growers in adapting to climate change. Here are some comments from &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28306">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28306>
+
+---
+
+## If You’re a Pumpkin Spice-Hater, These New Food Items Just Might Change Your Mind
+
+date: 2024-10-08, from: Sunset Magazine - Living in the West
+
+Fall is pumpkin spice-flavored everything season. The newest products out there might make even the naysayers think twice. 
+
+<https://www.sunset.com/food-wine/new-pumpkin-spice-products-2024>
+
+---
+
+## Announcing the 2025 Sunset Western Home & Design Awards—Enter Today!
+
+date: 2024-10-08, from: Sunset Magazine - Living in the West
+
+Sunset is launching the Western Home & Design Awards to honor the people and studios evolving the designs that define living well in the West. 
+
+<https://www.sunset.com/home-garden/2025-sunset-western-home-design-awards>
+
+---
+
+## These Are the Best Amazon October Prime Day Deals, According to Sunset Editors
+
+date: 2024-10-08, from: Sunset Magazine - Living in the West
+
+Amazon's Big Deal Days is the biggest shopping event of fall. Our editors share their favorite picks for Amazon October Prime Day. 
+
+<https://www.sunset.com/lifestyle/shopping/amazon-october-big-deal-days-2024>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-10-08, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -57,16 +291,6 @@ date: 2024-10-08, from: Yard Life blog
 
 ---
 
-## These Are the Best Amazon October Prime Day Deals, According to Sunset Editors
-
-date: 2024-10-07, from: Sunset Magazine - Living in the West
-
-Amazon's Big Deal Days is the biggest shopping event of fall. Our editors share their favorite picks for Amazon October Prime Day. 
-
-<https://www.sunset.com/lifestyle/shopping/amazon-october-big-deal-days-2024>
-
----
-
 ## Before & After: In Menorca, a Family’s Crumbling Farmhouse Is Revived With Local Materials
 
 date: 2024-10-07, from: Dwell
@@ -77,11 +301,11 @@ Architect Gabriel Montañés brings in marés sandstone and indigenous plants to
 
 ---
 
-## The Zillow App Will Now Show Climate Risks
+## The Zillow App Will Now Show a Home’s Climate Risks
 
 date: 2024-10-07, from: Dwell
 
-Understanding threats posed by climate change allows home buyers to feel more secure in their purchase, but it isn’t a panacea. 
+Understanding risks posed by climate change allows home buyers to feel more secure in their purchase, isn’t the panacea to our climate fears. 
 
 <https://www.dwell.com/article/the-zillow-app-will-now-show-a-homes-climate-risks-c2e96b2a>
 
@@ -202,16 +426,6 @@ date: 2024-10-07, from: Family Handyman Blog
  
 
 <https://www.familyhandyman.com/article/frost-proof-concrete-footings/>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-10-07, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<https://www.sunset.com/>
 
 ---
 

@@ -1,11 +1,23 @@
 ---
 title: libraries
-updated: 2024-10-08 06:55:42
+updated: 2024-10-09 08:15:43
 ---
 
 # libraries
 
-(date: 2024-10-08 06:55:42)
+(date: 2024-10-09 08:15:43)
+
+---
+
+## Guest Post — Overcoming Skepticism Through Experimentation: The Role of AI in Transforming Peer Review
+
+date: 2024-10-09, from: Scholarly Kitchen
+
+<p>AI offers great potential, but also raises significant concerns when it comes to its use in peer review. Experimentation with AI is needed to find the right role for it in the process.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/10/09/guest-post-overcoming-skepticism-through-experimentation-the-role-of-ai-in-transforming-peer-review/">Guest Post &#8212; Overcoming Skepticism Through Experimentation: The Role of AI in Transforming Peer Review</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/10/09/guest-post-overcoming-skepticism-through-experimentation-the-role-of-ai-in-transforming-peer-review/>
 
 ---
 

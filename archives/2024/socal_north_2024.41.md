@@ -1,11 +1,103 @@
 ---
 title: socal north
-updated: 2024-10-08 06:55:34
+updated: 2024-10-09 08:15:35
 ---
 
 # socal north
 
-(date: 2024-10-08 06:55:34)
+(date: 2024-10-09 08:15:35)
+
+---
+
+## Low clouds this morning followed by warm weather in the afternoon
+
+date: 2024-10-09, updated: 2024-10-09, from: The LAist
+
+Foggy mornings, warm days ahead 
+
+<https://laist.com/news/climate-environment/low-clouds-warm-weather>
+
+---
+
+## Garvey, Schiff clash on abortion, guns and Trump in only one-on-one debate
+
+date: 2024-10-09, updated: 2024-10-09, from: The LAist
+
+In their only TV face-off before Election Day, U.S. Senate contenders Steve Garvey and Adam Schiff also tussle over immigration and other issues. 
+
+<https://laist.com/news/politics/garvey-schiff-clash-on-abortion-guns-and-trump-in-only-one-on-one-debate>
+
+---
+
+## Get ready to save money. What you should know about the federal rebates for home energy upgrades
+
+date: 2024-10-09, updated: 2024-10-09, from: The LAist
+
+Apartment owners can apply for the first phase of rebates, and the second phase for single-family homeowners will open in coming weeks. 
+
+<https://laist.com/news/climate-environment/federal-rebates-home-energy-upgrades>
+
+---
+
+## LA County considers move to crack down on Mojave Desert dumping
+
+date: 2024-10-08, updated: 2024-10-09, from: The LAist
+
+Some waste piles seen were three stories tall. Supervisor Kathryn Barger says stricter regulations and penalties are needed. 
+
+<https://laist.com/news/climate-environment/la-county-considers-move-to-crack-down-on-mojave-desert-dumping>
+
+---
+
+## This 'Apostille pop-up' in Orange County authenticates documents for international use
+
+date: 2024-10-08, updated: 2024-10-08, from: The LAist
+
+People who live in the U.S. often need a special certificate called an Apostille to take care of business and personal affairs internationally. 
+
+<https://laist.com/news/politics/apostille-pop-up-shop-orange-county-october-9>
+
+---
+
+## Free Drive-Thru Hazardous Waste/E-Waste Collection Event Set for October 19
+
+date: 2024-10-08, from: City of Santa Clarita
+
+<p>The City of Santa Clarita welcomes residents to dispose of their unwanted household hazardous and electronic waste at the FREE Household Hazardous/E-Waste Collection Event on Saturday, October 19, 2024, from 9:00 a.m. to 3:00 p.m. This event will take place at the Via Princessa Metrolink Station at 19201 Via Princessa. The Household Hazardous/E-Waste Collection Event [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/10/08/free-drive-thru-hazardous-waste-e-waste-collection-event-set-for-october-19/">Free Drive-Thru Hazardous Waste/E-Waste Collection Event Set for October 19</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/10/08/free-drive-thru-hazardous-waste-e-waste-collection-event-set-for-october-19/>
+
+---
+
+## This year’s Electoral College map may show another ‘blue shift.’ Here’s why
+
+date: 2024-10-08, updated: 2024-10-08, from: The LAist
+
+Differences in how quickly each state’s counties can report this year’s election results may lead to another “blue shift” or “red mirage” on the presidential electoral map. 
+
+<https://laist.com/news/politics/this-years-electoral-college-map-may-show-another-blue-shift-heres-why>
+
+---
+
+## California Proposition 36: Increases criminal penalties for certain drug and theft crimes
+
+date: 2024-10-08, updated: 2024-10-09, from: The LAist
+
+The measure comes in response to an increase in high-profile “smash-and-grab” robberies and the fentanyl crisis. 
+
+<https://laist.com/news/politics/2024-election-california-general-proposition-36>
+
+---
+
+## California Proposition 6: Prohibit forced labor
+
+date: 2024-10-08, updated: 2024-10-08, from: The LAist
+
+The measure would amend the state constitution to prohibit any form of forced labor or servitude, which is currently allowed as punishment for a crime. 
+
+<https://laist.com/news/politics/2024-election-california-general-proposition-6-prohibit-forced-labor>
 
 ---
 

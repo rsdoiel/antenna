@@ -1,11 +1,333 @@
 ---
 title: journalism
-updated: 2024-10-08 06:55:41
+updated: 2024-10-09 08:15:43
 ---
 
 # journalism
 
-(date: 2024-10-08 06:55:41)
+(date: 2024-10-09 08:15:43)
+
+---
+
+**@The Daily Trojan (USC Student Newspaper)** (date: 2024-10-09, from: The Daily Trojan (USC Student Newspaper))
+
+<p> USC football has compiled a 5-7 record across its last 12 games and has stumbled through Big Ten play.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/09/218297/"></a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/09/218297/>
+
+---
+
+## Musselman, men’s basketball burst into first fall practices
+
+date: 2024-10-09, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Eric Musselman is working off a clean slate less than four weeks from the season.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/09/musselman-mens-basketball-burst-into-first-fall-practices/">Musselman, men’s basketball burst into first fall practices</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/09/musselman-mens-basketball-burst-into-first-fall-practices/>
+
+---
+
+## Why is USC’s gameday culture so bad?
+
+date: 2024-10-09, from: The Daily Trojan (USC Student Newspaper)
+
+<p>An analysis of USC gameday culture in comparison with other schools in the Big Ten.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/09/why-is-uscs-gameday-culture-so-bad/">Why is USC’s gameday culture so bad?</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/09/why-is-uscs-gameday-culture-so-bad/>
+
+---
+
+## Volleyball faces Oregon, UCLA
+
+date: 2024-10-09, from: The Daily Trojan (USC Student Newspaper)
+
+<p> USC aims for its third win in a row in Big Ten battles with the Ducks and Bruins.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/09/volleyball-faces-oregon-ucla/">Volleyball faces Oregon, UCLA</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/09/volleyball-faces-oregon-ucla/>
+
+---
+
+## Football digs deep ahead of lion fight
+
+date: 2024-10-09, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans will take on No. 4 Penn State this weekend at home after a road defeat.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/09/football-digs-deep-ahead-of-lion-fight/">Football digs deep ahead of lion fight</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/09/football-digs-deep-ahead-of-lion-fight/>
+
+---
+
+## Senators, stakeholders discuss programming assemblies’ role
+
+date: 2024-10-09, from: The Daily Trojan (USC Student Newspaper)
+
+<p> Bill to alter programming department bylaws rejected by the senate nine to three. </p>
+<p>The post <a href="https://dailytrojan.com/2024/10/09/senators-stakeholders-discuss-programming-assemblies-role/">Senators, stakeholders discuss programming assemblies’ role</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/09/senators-stakeholders-discuss-programming-assemblies-role/>
+
+---
+
+## USC student files suit against the city of Los Angeles
+
+date: 2024-10-09, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The senior speaks out on unchecked police violence with ‘less-lethal’ weapons.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/09/usc-student-files-suit-against-the-city-of-los-angeles/">USC student files suit against the city of Los Angeles</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/09/usc-student-files-suit-against-the-city-of-los-angeles/>
+
+---
+
+## National Latinx Physician Day focuses health care on empathy, community
+
+date: 2024-10-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+Two UCLA diversity initiatives hosted a National Latinx Physician Day celebration Oct. 1 in the Neuroscience Research Building.
+This year marks the first time National LatinX Physician Day will be celebrated in California. 
+
+<https://dailybruin.com/2024/10/09/national-latinx-physician-day-focuses-health-care-on-empathy-community/>
+
+---
+
+## Hillel at UCLA hosts West Coast debut of play ‘October 7: In Their Own Words’
+
+date: 2024-10-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+A Jewish organization at UCLA hosted the West Coast debut of &#8220;October 7: In Their Own Words&#8221; &#8211; a verbatim play commemorating the victims of the Oct. 
+
+<https://dailybruin.com/2024/10/09/hillel-at-ucla-hosts-west-coast-debut-of-play-october-7-in-their-own-words/>
+
+---
+
+## Pro-Palestine demonstrators march in protest of 1 year of Israeli attacks in Gaza
+
+date: 2024-10-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+Protesters marched in support of Palestine on Monday, one year after Israel began its retaliatory attacks in Gaza. 
+The rally &#8211; hosted by Students for Justice in Palestine at UCLA, Faculty for Justice in Palestine at UCLA, Graduate Students for Justice in Palestine at UCLA and the Palestine Solidarity Collective at UCLA &#8211; began at Dickson Court North around 4:30 p.m. 
+
+<https://dailybruin.com/2024/10/09/pro-palestine-demonstrators-march-in-protest-of-1-year-of-israeli-attacks-in-gaza/>
+
+---
+
+## Classifieds – October 9, 2024
+
+date: 2024-10-09, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/09/classifieds-october-9-2024/">Classifieds &#8211; October 9, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/09/classifieds-october-9-2024/>
+
+---
+
+## Harris is the right choice, but we deserve better
+
+date: 2024-10-09, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Leftists raise valid concerns about the VP’s candidacy, but Jill Stein isn’t the answer.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/09/harris-is-the-right-choice-but-we-deserve-better/">Harris is the right choice, but we deserve better</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/09/harris-is-the-right-choice-but-we-deserve-better/>
+
+---
+
+## LA influencer culture is killing the nightclub
+
+date: 2024-10-09, from: The Daily Trojan (USC Student Newspaper)
+
+<p>If you don’t post about going out and no one knows, is it even worth going at all?</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/09/la-influencer-culture-is-killing-the-nightclub/">LA influencer culture is killing the nightclub</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/09/la-influencer-culture-is-killing-the-nightclub/>
+
+---
+
+## Capoeira at USC makes upside-down the right side up
+
+date: 2024-10-09, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Club Capoeira SC embraces martial arts stemming from liberation and freedom.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/09/capoeira-at-usc-makes-upside-down-the-right-side-up/">Capoeira at USC makes upside-down the right side up</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/09/capoeira-at-usc-makes-upside-down-the-right-side-up/>
+
+---
+
+## Meow and me
+
+date: 2024-10-09, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Is the relationship between fashion and fur deeper than a pretty coat?</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/09/meow-and-me/">Meow and me</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/09/meow-and-me/>
+
+---
+
+## USC sees decrease in reported ethnicity
+
+date: 2024-10-09, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Out of 82,000 applicants, only 3,489 students were both accepted and enrolled.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/09/usc-sees-decrease-in-reported-ethnicity/">USC sees decrease in reported ethnicity</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/09/usc-sees-decrease-in-reported-ethnicity/>
+
+---
+
+## UCLA football’s loss to Penn State hints at greener pastures ahead
+
+date: 2024-10-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+The search for moral victories and marginal improvements has become the norm for weeks.
+But after finishing out their four-game gauntlet, the Bruins have goals beyond merely competing. 
+
+<https://dailybruin.com/2024/10/08/ucla-footballs-loss-to-penn-state-hints-at-greener-pastures-ahead/>
+
+---
+
+## Gallery: UCLA football falls to Penn State in 4th straight loss after cross-country journey
+
+date: 2024-10-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA football (1-4, 0-3 Big Ten) traveled to State College, Pennsylvania, to play then-No. 7 Penn State (5-0, 2-0), with UCLA ultimately losing its fourth straight game by a score of 27-11. 
+
+<https://dailybruin.com/2024/10/08/gallery-ucla-football-falls-to-penn-state-in-4th-straight-loss-after-cross-country-journey/>
+
+---
+
+## USAC passes resolution criticizing UCLA’s revised Time, Place and Manner policies
+
+date: 2024-10-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council unanimously passed a resolution criticizing UCLA&#8217;s interim Time, Place and Manner policies Oct. 1. 
+The resolution, primarily sponsored by General Representative Tommy Contreras, condemns the new TPM policies, which were announced in a BruinPost on Sept. 
+
+<https://dailybruin.com/2024/10/08/usac-passes-resolution-criticizing-uclas-revised-time-place-and-manner-policies/>
+
+---
+
+## UCPD appoints Scott Scheffler as new acting chief of police
+
+date: 2024-10-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+This post was updated Oct. 9 at 1:03 a.m.
+The UCLA Police Department appointed a new acting chief for the second time this year.&#160;
+In what appears to be his first public appearance as acting police chief, UCPD posted a video of Scott Scheffler on X, formerly known as Twitter, on Monday with the caption, “A message from Acting Chief Scheffler.” Scheffler replaced the previous acting chief Gawin Gibson, who was placed on administrative leave Sept. 
+
+<https://dailybruin.com/2024/10/08/ucpd-appoints-scott-scheffler-as-new-acting-chief-of-police/>
+
+---
+
+## UCLA women’s volleyball hits the road to battle longtime conference foe Washington
+
+date: 2024-10-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 8 at 10:58 p.m.</em>
+UCLA and Washington have a long-standing familiarity.
+The names have changed – Pacific Coast Conference, Pac-12, Big Ten – but one thing has remained for more than 100 years: the Bruins and Huskies are conference foes. 
+
+<https://dailybruin.com/2024/10/08/ucla-womens-volleyball-hits-the-road-to-battle-longtime-conference-foe-washington/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-10-08, from: The Daily Bruin (UCLA Student Newspaper))
+
+11:19 a.m. – Around 11 a.m., a person walked through and kicked the flags displayed outside Kerckhoff Hall.
+Kian Kohanteb, a fourth-year political science student, said he and security officers told the person to leave multiple times. 
+
+<https://dailybruin.com/2024/10/08/470366/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-10-08, from: The Daily Bruin (UCLA Student Newspaper))
+
+11:01 a.m. – In front of Kerckhoff Hall, 1,200 flags — including Israeli, American, Thai and Ukrainian flags — have been placed to commemorate the lives lost during the Oct. 
+
+<https://dailybruin.com/2024/10/08/470363/>
+
+---
+
+## UCLA women’s soccer gears up for cross-country matches before regular season end
+
+date: 2024-10-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 8 at 10:40 p.m.</em>
+The quarter system forces the Bruins to navigate an odd crossroad. As fall quarter boots up, their season inches toward the final whistle. 
+
+<https://dailybruin.com/2024/10/08/ucla-womens-soccer-gears-up-for-cross-country-matches-before-regular-season-end/>
+
+---
+
+## Espresso Chronicles: Concierge Coffee handles classic drinks, serene arts atmosphere with care
+
+date: 2024-10-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+Concierge Coffee, tucked away in a quiet corner of downtown Los Angeles, is the kind of place you could easily miss if you weren&#8217;t paying attention. 
+
+<https://dailybruin.com/2024/10/08/espresso-chronicles-concierge-coffee-handles-classic-drinks-serene-arts-atmosphere-with-care/>
+
+---
+
+## Want to change money in Cuba? It’ll probably involve an exiled news outlet — and AI
+
+date: 2024-10-08, from: Nieman Journalism Lab
+
+In Havana, a phrase is widely printed on restaurant menus and displayed by shop owners: “exchange rate of the day.” This daily rate is used to calculate prices for U.S. dollars or euros, which are frequently used instead of Cuban pesos given the country&#8217;s ongoing economic crisis. What often goes unsaid is who, exactly, is... 
+
+<https://www.niemanlab.org/2024/10/want-to-change-money-in-cuba-itll-probably-involve-an-exiled-news-outlet-and-ai/>
+
+---
+
+## El País sweetens subscription offering with full access to The New York Times
+
+date: 2024-10-08, from: Nieman Journalism Lab
+
+Premium subscribers to the Spanish daily newspaper El País will now get full access to The New York Times and its supplemental products like Wirecutter, Cooking, and The Athletic. “This alliance reflects EL PAÍS’s desire to offer its readers the best and most demanding information available at a time of particular global tension due to... 
+
+<https://www.niemanlab.org/2024/10/el-pais-sweetens-subscription-offering-with-full-access-to-the-new-york-times/>
+
+---
+
+## Movie night magic: Fall Guy shines at SRC pool
+
+date: 2024-10-08, from: The Sundail (CSUN Student Newspaper)
+
+As the sun set on Oct. 3, students gathered at the Student Recreation Center pool for a lively movie night, enjoying the action-pack film “Fall Guy” under the evening sky.... 
+
+<https://sundial.csun.edu/185996/arts-entertainment/movie-night-magic-fall-guy-shines-at-src-pool/>
+
+---
+
+## Pro-Palestinian demonstrators walkout, march around campus
+
+date: 2024-10-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Students and faculty demanded USC divest from weapons makers and criticized its security protocols. </p>
+<p>The post <a href="https://dailytrojan.com/2024/10/08/pro-palestinian-demonstrators-walkout-march-around-campus/">Pro-Palestinian demonstrators walkout, march around campus</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/10/08/pro-palestinian-demonstrators-walkout-march-around-campus/>
 
 ---
 
@@ -54,18 +376,6 @@ date: 2024-10-08, from: The Daily Trojan (USC Student Newspaper)
  
 
 <https://dailytrojan.com/2024/10/08/usc-falls-to-the-trees-in-second-loss-this-season/>
-
----
-
-## Pro-Palestinian demonstrators walkout, march around campus
-
-date: 2024-10-08, from: The Daily Trojan (USC Student Newspaper)
-
-<p>Students and faculty demanded USC divest from weapons makers and criticized its security protocols. </p>
-<p>The post <a href="https://dailytrojan.com/2024/10/08/pro-palestinian-demonstrators-walkout-march-around-campus/">Pro-Palestinian demonstrators walkout, march around campus</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2024/10/08/pro-palestinian-demonstrators-walkout-march-around-campus/>
 
 ---
 
@@ -209,8 +519,8 @@ date: 2024-10-07, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2024-10-07, from: The Daily Bruin (UCLA Student Newspaper)
 
-Before any ghouls and goblins can emerge for Halloween, several concerts will entrance Los Angeles this fall.
-From rising international stars to hit-making rock bands, with indie favorites and R&#38;B songstresses in the mix, artists of many sounds and genres will be headlining some of Los Angeles’ most dynamic venues very soon. 
+<em>This post was updated Oct. 8 at 8:30 p.m.</em>
+Before any ghouls and goblins can emerge for Halloween, several concerts will entrance Los Angeles this fall. 
 
 <https://dailybruin.com/2024/10/07/concert-preview-fall-concerts-provide-variety-from-rock-bands-to-indie-favorites/>
 

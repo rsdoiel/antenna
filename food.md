@@ -1,11 +1,307 @@
 ---
 title: food
-updated: 2024-10-08 06:55:47
+updated: 2024-10-09 08:15:48
 ---
 
 # food
 
-(date: 2024-10-08 06:55:47)
+(date: 2024-10-09 08:15:48)
+
+---
+
+## Amazon’s Our Place Sale Is a Great Excuse for a Kitchen Refresh
+
+date: 2024-10-09, from: Bon Appetet
+
+Shop some of the best deals of the year on Our Place cookware and appliances. 
+
+<https://www.bonappetit.com/story/our-place-sale-prime-day-october-2024>
+
+---
+
+## BestCup Spins The Hi-Fi Coffee Pod, a Specialty K-Cup Reinvention
+
+date: 2024-10-09, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/BestCup-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="BestCup 1" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/BestCup-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/BestCup-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/BestCup-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/BestCup-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/BestCup-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Salt Lake City-based coffee co-packing startup BestCup is offering a new approach to Keurig-style brewing with a compostable pod product called the Hi-Fi Coffee Pod. Featuring an open-bottom filter design,... 
+
+<https://dailycoffeenews.com/2024/10/09/bestcup-spins-the-hi-fi-coffee-pod-a-specialty-k-cup-reinvention/>
+
+---
+
+## 17 Best Amazon Prime Day Air Fryer Deals To Shop in 2024
+
+date: 2024-10-09, from: Bon Appetet
+
+Amazon’s October 2024 Prime Day is coming, but we’ve scouted some early deals from our favorite brands like Instant, Ninja, and Cosori. 
+
+<https://www.bonappetit.com/story/amazon-prime-day-best-air-fryer-deals-october-2>
+
+---
+
+## 18 Best Amazon Prime Day Cookware Deals 2024 for a Fall Upgrade
+
+date: 2024-10-09, from: Bon Appetet
+
+Take up to 40% off All-Clad, Lodge, Le Creuset, and more during the Amazon Prime Day sale. 
+
+<https://www.bonappetit.com/story/amazon-prime-day-cookware-deals-2023-october-2>
+
+---
+
+## Homemade Ras El Hanout
+
+date: 2024-10-09, from: Pepper Scale
+
+The best spices in the shop. That&#8217;s ras el hanout. Literally,&#160;ras el hanout means &#8220;head of the shop&#8221; in Arabic and speaks to the best spices the spice seller has to offer. And it&#8217;s quite a mix in ras el hanout.&#160;Every ras el hanout recipe ... <p class="read-more-container"><a title="Homemade Ras El Hanout" class="read-more button" href="https://pepperscale.com/ras-el-hanout-spice/#more-7893" aria-label="Read more about Homemade Ras El Hanout">Read more</a></p> 
+
+<https://pepperscale.com/ras-el-hanout-spice/>
+
+---
+
+## Ranch-Style Beans
+
+date: 2024-10-09, from: Pepper Scale
+
+Sure, you need some planning, but homemade ranch-style beans are a world better than what you&#8217;ll pick up in a can. Most of the recipe is slow cooker time, and the prep is mainly rehydrating your pinto beans and ancho peppers, so the effort needed ... <p class="read-more-container"><a title="Ranch-Style Beans" class="read-more button" href="https://pepperscale.com/ranch-style-beans/#more-17916" aria-label="Read more about Ranch-Style Beans">Read more</a></p> 
+
+<https://pepperscale.com/ranch-style-beans/>
+
+---
+
+## I Need Mushroom Recipes
+
+date: 2024-10-09, from: Bon Appetet
+
+On this episode of Dinner SOS, Chris and caller Leah take a trip to Mushroom Queens to help her feel less intimidated about cooking with mushrooms. 
+
+<https://www.bonappetit.com/story/i-need-mushroom-recipes>
+
+---
+
+## Chicken Biryani Recipe
+
+date: 2024-10-09, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/biryani/" title="Chicken Biryani Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Chicken-Biryani-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A hearty helping of Chicken Biryani on a serving plate" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Chicken-Biryani-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Chicken-Biryani-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Chicken-Biryani-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Chicken-Biryani-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Chicken-Biryani-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Chicken-Biryani-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Chicken-Biryani-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This homemade biryani is layered with tender chicken, fluffy rice, and fragrant spices all in one pot, a delicious, comforting dish the family will love.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/biryani/">Chicken Biryani Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<https://www.chilipeppermadness.com/recipes/biryani/>
+
+---
+
+## Malaysian Curry Powder
+
+date: 2024-10-09, from: Pepper Scale
+
+Think of Malaysian curry powder as an &#8220;in-between&#8221; curry. Its taste is no doubt full-on yellow curry, there&#8217;s no mistake. But it&#8217;s somewhere in-between Indian and Thai curry in flavor. This spice mix leans into coriander, both citrusy and nutty when the seeds are dry ... <p class="read-more-container"><a title="Malaysian Curry Powder" class="read-more button" href="https://pepperscale.com/malaysian-curry-powder/#more-18289" aria-label="Read more about Malaysian Curry Powder">Read more</a></p> 
+
+<https://pepperscale.com/malaysian-curry-powder/>
+
+---
+
+## Muhammara Dip
+
+date: 2024-10-09, from: Pepper Scale
+
+Everyone knows hummus and maybe baba ganoush, but do you know its spicy cousin &#8211; muhammara dip? It&#8217;s a red bell pepper and walnut spread that&#8217;s delicious served right next to those Middle Eastern staples. And it&#8217;s perfect as a pita and vegetable dipper, just ... <p class="read-more-container"><a title="Muhammara Dip" class="read-more button" href="https://pepperscale.com/muhammara-dip/#more-9154" aria-label="Read more about Muhammara Dip">Read more</a></p> 
+
+<https://pepperscale.com/muhammara-dip/>
+
+---
+
+## How To Make Curry Spicier
+
+date: 2024-10-09, from: Pepper Scale
+
+Curry dishes can range in heat level from relatively mild to blisteringly hot. If you want your curry on the hotter end of the spectrum, you need to use methods and ingredients that build heat effectively without introducing unwanted flavors. There are several ways to ... <p class="read-more-container"><a title="How To Make Curry Spicier" class="read-more button" href="https://pepperscale.com/how-to-make-curry-spicier/#more-55307" aria-label="Read more about How To Make Curry Spicier">Read more</a></p> 
+
+<https://pepperscale.com/how-to-make-curry-spicier/>
+
+---
+
+## 103 Best Prime Day Kitchen Deals 2024: Le Creuset, Vitamix, and More
+
+date: 2024-10-09, from: Bon Appetet
+
+Replace your worn out kitchen towels, send your dad an ice cream maker, and finally get that Vitamix you’ve been coveting. 
+
+<https://www.bonappetit.com/story/amazon-prime-day-kitchen-deals-october-9>
+
+---
+
+## Surviving a Sales Slump
+
+date: 2024-10-09, from: The Fresh Cup
+
+<p>How long is too long when sales are down? Here’s how any coffee shop can navigate and survive the inevitable slow periods.</p>
+<p>The post <a href="https://freshcup.com/surviving-a-sales-slump/">Surviving a Sales Slump </a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<https://freshcup.com/surviving-a-sales-slump/>
+
+---
+
+## 10 Best Prime Day Vitamix Deals 2024
+
+date: 2024-10-09, from: Bon Appetet
+
+You can score the Bon Appétit test kitchen’s favorite blender for over 15% off during Prime Day 2024. 
+
+<https://www.bonappetit.com/story/october-prime-day-vitamix-deals-2>
+
+---
+
+## 19 Best Prime Day Espresso Machine Deals of 2024
+
+date: 2024-10-09, from: Bon Appetet
+
+Why go to the coffee shop for espresso when the espresso can come to you? 
+
+<https://www.bonappetit.com/story/amazon-prime-espresso-maker-deals-fall-2024-2>
+
+---
+
+## Fishwife, Fly By Jing, and Other Prime Day Discounts on Pantry Staples
+
+date: 2024-10-08, from: Bon Appetet
+
+Stock up on our favorite condiments, tinned fish, and other pantry essentials. 
+
+<https://www.bonappetit.com/story/prime-day-pantry-deals>
+
+---
+
+## Yeti Prime Day Deals To Shop Right Now 2024
+
+date: 2024-10-08, from: Bon Appetet
+
+Shop some of Yeti's bestsellers at really good prices—if you know which colors to buy. 
+
+<https://www.bonappetit.com/story/yeti-prime-day-deals-2024-2>
+
+---
+
+## 52 Best Prime Day Deals Under $25 for Your Kitchen and Home (2024)
+
+date: 2024-10-08, from: Bon Appetet
+
+Kitchen upgrades for less than a decent bottle of pét-nat. 
+
+<https://www.bonappetit.com/story/best-early-prime-day-deals-october-2>
+
+---
+
+## Prime Day Le Creuset Deals To Shop Right Now 2024
+
+date: 2024-10-08, from: Bon Appetet
+
+This cookware may last forever but these prices won’t. 
+
+<https://www.bonappetit.com/story/prime-day-le-creuset-deals-2024-1>
+
+---
+
+## Protein Powder Deals and Wellness Discounts To Shop This Prime Day
+
+date: 2024-10-08, from: Bon Appetet
+
+Great deals on protein powders and other wellness goodies—like matcha powders, sea moss, and nourishing bone broths. 
+
+<https://www.bonappetit.com/story/protein-powder-deals-prime-day>
+
+---
+
+## FDA Expands Milo’s Poultry Farms Egg Recall Due to Salmonella Outbreak
+
+date: 2024-10-08, from: Taste of Home
+
+<p>Milo's Poultry Farms has expanded its egg recall and the FDA investigation of salmonella infections is ongoing.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/milos-egg-recall-october-2024/">FDA Expands Milo’s Poultry Farms Egg Recall Due to Salmonella Outbreak</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<https://www.tasteofhome.com/article/milos-egg-recall-october-2024/>
+
+---
+
+## Can You Really Find Good Coffee Shops By Reading Two-Star Reviews?
+
+date: 2024-10-08, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. What's the secret to finding good coffee? 
+
+<https://sprudge.com/can-you-really-find-good-coffee-shops-by-reading-two-star-reviews-256519.html>
+
+---
+
+## This Weird Looking Kitchen Tool Is Actually the Best at What It Does and It’s on Sale Right Now for Prime Day
+
+date: 2024-10-08, from: Bon Appetet
+
+Lemons have met their match. 
+
+<https://www.bonappetit.com/story/prime-day-sale-fluicer-citrus-squeezer>
+
+---
+
+## Design Details: Rustic Resurgence at Camel Step in Hail, Saudia Arabia
+
+date: 2024-10-08, from: Daily Coffee News
+
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2024/08/Camel-Step-Coffee-Hail-6-620x465.jpeg" class="attachment-large size-large wp-post-image" alt="Camel Step Coffee Hail 6" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/08/Camel-Step-Coffee-Hail-6-620x465.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/08/Camel-Step-Coffee-Hail-6-300x225.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/08/Camel-Step-Coffee-Hail-6-150x113.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/08/Camel-Step-Coffee-Hail-6-768x576.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/08/Camel-Step-Coffee-Hail-6.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
+
+<https://dailycoffeenews.com/2024/10/08/design-details-rustic-resurgence-at-camel-step-in-hail-saudia-arabia/>
+
+---
+
+## Onyx Coffee Lab Unveils 7th Annual Advent Calendar
+
+date: 2024-10-08, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Pre-orders open now for exclusive, limited-edition experience. 
+
+<https://sprudge.com/onyx-coffee-lab-unveils-7th-annual-advent-calendar-256562.html>
+
+---
+
+## The Best Vegan Protein Powder (2024)
+
+date: 2024-10-08, from: Bon Appetet
+
+Thirteen tubs of protein and one broken blender later, I have answers. 
+
+<https://www.bonappetit.com/story/best-vegan-protein-powder>
+
+---
+
+## The Best Matcha Powder, According to Daily Matcha Drinkers
+
+date: 2024-10-08, from: Bon Appetet
+
+We tried a dozen matcha powders to find the very best one. 
+
+<https://www.bonappetit.com/story/best-matcha-powder>
+
+---
+
+## What Is The Best Coffee Song Of All Time? We Have Some Thoughts
+
+date: 2024-10-08, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Some of the best coffee songs on record. 
+
+<https://sprudge.com/what-is-the-best-coffee-song-of-all-time-we-have-some-thoughts-253280.html>
+
+---
+
+## The Wise Brewer TG Launches with Automated Pourovers in Mind
+
+date: 2024-10-08, from: Daily Coffee News
+
+<div><img width="620" height="437" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Wise-Coffee-Machine-automatic-pourover-4-1-620x437.jpeg" class="attachment-large size-large wp-post-image" alt="Wise Coffee Machine automatic pourover 4" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Wise-Coffee-Machine-automatic-pourover-4-1-620x437.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Wise-Coffee-Machine-automatic-pourover-4-1-300x211.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Wise-Coffee-Machine-automatic-pourover-4-1-150x106.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Wise-Coffee-Machine-automatic-pourover-4-1-768x541.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Wise-Coffee-Machine-automatic-pourover-4-1.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>From the City of Wisdom in Greece, a new automated pourover coffee brewing system called the Wise Brewer TG is entering international commercial and prosumer markets. The machine is the... 
+
+<https://dailycoffeenews.com/2024/10/08/the-wise-brewer-tg-launches-with-automated-pourovers-in-mind/>
 
 ---
 
@@ -23,7 +319,7 @@ Replace your worn out kitchen towels, send your dad an ice cream maker, and fina
 
 date: 2024-10-08, from: Daily Coffee News
 
-<div><img width="620" height="483" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/roasted-coffee-stock-photo-1-620x483.jpg" class="attachment-large size-large wp-post-image" alt="roasted-coffee-stock-photo" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/roasted-coffee-stock-photo-1-620x483.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/roasted-coffee-stock-photo-1-300x233.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/roasted-coffee-stock-photo-1-150x117.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/roasted-coffee-stock-photo-1-768x598.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/roasted-coffee-stock-photo-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Everett, Washington-based Cascade Coffee, one of the largest coffee roasting and packaging companies in the United States, has received an undisclosed investment from Chicago-based investment firm LaSalle Capital. The private-label... 
+<div><img width="620" height="483" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/roasted-coffee-stock-photo-1-620x483.jpg" class="attachment-large size-large wp-post-image" alt="roasted-coffee-stock-photo" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/roasted-coffee-stock-photo-1-620x483.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/roasted-coffee-stock-photo-1-300x233.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/roasted-coffee-stock-photo-1-150x117.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/roasted-coffee-stock-photo-1-768x598.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/roasted-coffee-stock-photo-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Everett, Washington-based Cascade Coffee, one of the largest coffee roasting and packaging companies in the United States, has received an undisclosed investment from Chicago-based investment firm LaSalle Capital. The private-label... 
 
 <https://dailycoffeenews.com/2024/10/08/private-label-specialist-cascade-coffee-has-new-investor/>
 
@@ -39,13 +335,23 @@ Pepper seeds have a bad reputation, at least when it comes to hot peppers. Many 
 
 ---
 
-## 32 Prime Day Kitchen Deals Bon Appétit Editors Are Shopping 2024
+## 32 Amazon Prime Day Kitchen Deals Bon Appétit Editors Are Shopping 2024
 
 date: 2024-10-08, from: Bon Appetet
 
 We’re keeping our eyes peeled for shiny new cookware, fancy pellet ice machines, and the best gooseneck electric kettle. 
 
 <https://www.bonappetit.com/story/october-amazon-prime-day-2024-editor-wishlist>
+
+---
+
+## One-Pot French Onion Pasta
+
+date: 2024-10-08, from: Bon Appetet
+
+Tons of caramelized onions, so much gooey cheese, and very few dirty dishes. 
+
+<https://www.bonappetit.com/recipe/one-pot-french-onion-pasta>
 
 ---
 
@@ -131,16 +437,6 @@ A good espresso machine is an investment. But how much do you spend at the coffe
 
 ---
 
-## 38 Best Prime Day Deals Under $25 for Your Kitchen and Home (2024)
-
-date: 2024-10-08, from: Bon Appetet
-
-Kitchen upgrades for less than a decent bottle of pét-nat. 
-
-<https://www.bonappetit.com/story/best-early-prime-day-deals-october-2>
-
----
-
 ## 10 Best Prime Day Cookware Deals 2024 for a Fall Upgrade
 
 date: 2024-10-08, from: Bon Appetet
@@ -211,7 +507,7 @@ We tried 10 tins in our taste test, including King Oscar, Patagonia, and Ortiz.
 
 date: 2024-10-07, from: The Sprudge
 
-<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_blank">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_blank">http://sprudge.com</a>. This is the RSS feed version. After his victory at the 2024 World Brewers Cup (WBrC) using a ZM grinder, Martin Wölfl joins the Mazzer Racing Team as Brand Ambassador.  
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. After his victory at the 2024 World Brewers Cup (WBrC) using a ZM grinder, Martin Wölfl joins the Mazzer Racing Team as Brand Ambassador.  
 
 <https://sprudge.com/mazzer-welcomes-2024-world-brewers-cup-champion-martin-wolfl-as-brand-ambassador-256532.html>
 
@@ -261,7 +557,7 @@ date: 2024-10-07, from: Taste of Home
 
 date: 2024-10-07, from: The Sprudge
 
-<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_blank">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_blank">http://sprudge.com</a>. This is the RSS feed version. Submit yours today! 
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Submit yours today! 
 
 <https://sprudge.com/this-is-the-final-week-to-enter-the-2024-sprudge-design-awards-256495.html>
 
@@ -271,7 +567,7 @@ date: 2024-10-07, from: The Sprudge
 
 date: 2024-10-07, from: Daily Coffee News
 
-<div><img width="620" height="352" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Lets-Talk-Coffee-group-620x352.jpg" class="attachment-large size-large wp-post-image" alt="Let&#8217;s Talk Coffee group" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Lets-Talk-Coffee-group-620x352.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Lets-Talk-Coffee-group-300x170.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Lets-Talk-Coffee-group-150x85.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Lets-Talk-Coffee-group-768x435.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Lets-Talk-Coffee-group.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Seattle-based green coffee trading company Sustainable Harvest is reprising its long-running Let&#8217;s Talk Coffee event, with plans for Peru in September of 2025. Held in coffee-producing countries, and convening a... 
+<div><img width="620" height="352" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Lets-Talk-Coffee-group-620x352.jpg" class="attachment-large size-large wp-post-image" alt="Let&#8217;s Talk Coffee group" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Lets-Talk-Coffee-group-620x352.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Lets-Talk-Coffee-group-300x170.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Lets-Talk-Coffee-group-150x85.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Lets-Talk-Coffee-group-768x435.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Lets-Talk-Coffee-group.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Seattle-based green coffee trading company Sustainable Harvest is reprising its long-running Let&#8217;s Talk Coffee event, with plans for Peru in September of 2025. Held in coffee-producing countries, and convening a... 
 
 <https://dailycoffeenews.com/2024/10/07/lets-talk-coffee-is-back-heading-to-peru-in-2025/>
 
@@ -313,7 +609,7 @@ date: 2024-10-07, from: Taste of Home
 
 date: 2024-10-07, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Lucienne-Coffee-New-York-3-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Lucienne Coffee New York 3" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Lucienne-Coffee-New-York-3-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Lucienne-Coffee-New-York-3-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Lucienne-Coffee-New-York-3-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Lucienne-Coffee-New-York-3-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Lucienne-Coffee-New-York-3.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new coffee company called Lucienne Coffee in Brooklyn, New York, is specializing in the brewing and sales of high-quality specialty coffees roasted in, and imported from, Japan.&#160; Selling whole... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Lucienne-Coffee-New-York-3-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Lucienne Coffee New York 3" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Lucienne-Coffee-New-York-3-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Lucienne-Coffee-New-York-3-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Lucienne-Coffee-New-York-3-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Lucienne-Coffee-New-York-3-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Lucienne-Coffee-New-York-3.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new coffee company called Lucienne Coffee in Brooklyn, New York, is specializing in the brewing and sales of high-quality specialty coffees roasted in, and imported from, Japan.&#160; Selling whole... 
 
 <https://dailycoffeenews.com/2024/10/07/in-brooklyn-lucienne-coffee-is-serving-coffees-roasted-in-japan/>
 
@@ -323,7 +619,7 @@ date: 2024-10-07, from: Daily Coffee News
 
 date: 2024-10-07, from: The Sprudge
 
-<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_blank">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_blank">http://sprudge.com</a>. This is the RSS feed version. Not all coffees are created equal when it comes to cafestol. 
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Not all coffees are created equal when it comes to cafestol. 
 
 <https://sprudge.com/coffee-may-aid-in-fat-loss-but-theres-a-catch-256340.html>
 
@@ -359,7 +655,7 @@ date: 2024-10-07, from: Closet Cooking
 
 date: 2024-10-07, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/chili-pepper-recipes/stuffed-chili-peppers/classic-chiles-rellenos/" title="Chile Relleno Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Chiles-Rellenos-Recipe-PLATED1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A platter of Chiles Rellenos served on a plate over salsa roja" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Chiles-Rellenos-Recipe-PLATED1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Chiles-Rellenos-Recipe-PLATED1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Chiles-Rellenos-Recipe-PLATED1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Chiles-Rellenos-Recipe-PLATED1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Chiles-Rellenos-Recipe-PLATED1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Chiles-Rellenos-Recipe-PLATED1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Chiles-Rellenos-Recipe-PLATED1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This chile relleno recipe is the ultimate Mexican stuffed pepper, with roasted poblano peppers stuffed with melty cheese, battered and lightly fried.</p>
+<a href="https://www.chilipeppermadness.com/chili-pepper-recipes/stuffed-chili-peppers/classic-chiles-rellenos/" title="Chile Relleno Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Chiles-Rellenos-Recipe-PLATED1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A platter of Chiles Rellenos served on a plate over salsa roja" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Chiles-Rellenos-Recipe-PLATED1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Chiles-Rellenos-Recipe-PLATED1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Chiles-Rellenos-Recipe-PLATED1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Chiles-Rellenos-Recipe-PLATED1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Chiles-Rellenos-Recipe-PLATED1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Chiles-Rellenos-Recipe-PLATED1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Chiles-Rellenos-Recipe-PLATED1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This chile relleno recipe is the ultimate Mexican stuffed pepper, with roasted poblano peppers stuffed with melty cheese, battered and lightly fried.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/chili-pepper-recipes/stuffed-chili-peppers/classic-chiles-rellenos/">Chile Relleno Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 
@@ -541,7 +837,7 @@ Korea has some of the most flavorsome food around, and these pork chops are no e
 
 date: 2024-10-06, from: The Sprudge
 
-<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_blank">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_blank">http://sprudge.com</a>. This is the RSS feed version. We get asked by friends and family where to buy coffee a lot. It&#8217;s a tough question! It&#8217;s easy to lose track of just how many incredible, fresh, vibrant coffees [&#8230;] 
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. We get asked by friends and family where to buy coffee a lot. It&#8217;s a tough question! It&#8217;s easy to lose track of just how many incredible, fresh, vibrant coffees [&#8230;] 
 
 <https://sprudge.com/coffee-coffee-coffee-exquisite-selections-from-our-curated-partners-256334.html>
 

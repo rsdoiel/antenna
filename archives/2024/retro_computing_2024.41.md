@@ -1,11 +1,21 @@
 ---
 title: retro computing
-updated: 2024-10-08 06:55:45
+updated: 2024-10-09 08:15:46
 ---
 
 # retro computing
 
-(date: 2024-10-08 06:55:45)
+(date: 2024-10-09 08:15:46)
+
+---
+
+## October developer 'fireside' chat on saturday night
+
+date: 2024-10-09, from: Icon Bar, RISC OS News
+
+The next 'fireside' chat is on 12th October (this saturday). It starts at 7:30pm UK time and the event is on Zoom. Stay for as long or as short a time as you like. 
+
+<http://www.iconbar.com/comments/rss/news2102.html>
 
 ---
 

@@ -1,11 +1,121 @@
 ---
 title: writing
-updated: 2024-10-08 06:55:40
+updated: 2024-10-09 08:15:42
 ---
 
 # writing
 
-(date: 2024-10-08 06:55:40)
+(date: 2024-10-09 08:15:42)
+
+---
+
+## 2024 Australasian Shadows Awards Winners
+
+date: 2024-10-08, from: Locus Magazine
+
+<p>The 2024 Australasian Shadows Awards (previously known as the Australia Shadows Awards) winners were presented at Conflux in Canberra on October 7, 2024.</p>
+<p>The award is given by the Australasian Horror Writers Association (AHWA) for “the finest in horror and dark fiction published by an Australasian within the calendar year.”</p>
+<div class="mynomorebulletlist">
+<p><strong>Novel</strong></p>
+<ul>
+<li>WINNER: <strong>When Ghosts Call Us Home</strong>, Katya de Becerra (Page Street; Pan Macmillan)</li>
+</ul>
+<ul>
+<li><strong>Polyphemus</strong>, Zachary Ashford (Darklit)</li></ul></div> <a href="https://locusmag.com/2024/10/2024-australasian-shadows-awards-winners/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/10/2024-australasian-shadows-awards-winners/>
+
+---
+
+## 2023 Wonderland Awards Finalists
+
+date: 2024-10-08, from: Locus Magazine
+
+<p>BizarroCon has announced the finalists for the 2024 Wonderland Book Awards for Excellence in Bizarro Fiction.</p>
+<p><strong>Best Novel</strong></p>
+<ul>
+<li><strong>The Last Night to Kill Nazis</strong>, David Agranoff (CLASH)</li>
+<li><strong>Elogona</strong>, Samantha Kolesnik (WeirdPunk )</li>
+<li><strong>Glass Children</strong>, Carlton Mellick III (Eraserhead)</li>
+<li><strong>Edenville</strong>, Sam Rebelein (William Morrow)</li>
+<li><strong>Soft Targets</strong>, Carson Winter (Tenebrous)</li>
+</ul>
+<p><strong>Best Collection</strong></p>
+<ul>
+<li><strong>All I Want is to Take Shrooms and Listen to the Color of Nazi Screams</strong></li></ul> <a href="https://locusmag.com/2024/10/2023-wonderland-awards-finalists-2/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/10/2023-wonderland-awards-finalists-2/>
+
+---
+
+## 2024 Ditmar Awards Winners
+
+date: 2024-10-08, from: Locus Magazine
+
+<p>The winners for the 2024 Ditmar Awards for Australian SF have been announced.</p>
+<p><strong>Best Novel</strong></p>
+<ul>
+<li>WINNER: <strong>The Sinister Booksellers of Bath</strong>, Garth Nix (Allen &#38; Unwin)</li>
+</ul>
+<ul>
+<li><strong>Polyphemus</strong>, Zachary Ashford (DarkLit)</li>
+<li><strong>The Tangled Lands</strong>, Glenda Larke (Wizard&#8217;s Tower)</li>
+<li><strong>Dream Weaver</strong>, Steven Paulsen (IFWG)</li>
+<li><strong>When Dark Roots Hunt</strong>, Zena Shapter (MidnightSun)</li>
+<li><strong>Traitor&#8217;s Run</strong>, Keith Stevenson (coeur de lion)</li>
+</ul>
+<p><strong>Best Novella or Novelette</strong></p>
+<ul>
+<li>WINNER: &#8220;Bitters&#8221;, Kaaron Warren </li></ul> <a href="https://locusmag.com/2024/10/2024-ditmar-awards-winners/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/10/2024-ditmar-awards-winners/>
+
+---
+
+## Cinderwich by Cherie Priest: Review by Colleen Mondor
+
+date: 2024-10-08, from: Locus Magazine
+
+<p><strong>Cinderwich</strong>, Cherie Priest (Apex Book Com­pany 978-1-955-76520-6, $21.95, 162pp, tp) May 2024.</p>
+<p>Cherie Priest’s novella <strong>Cinderwich </strong>gifts readers with a bit of a haunted tree folktale, some true crime detecting, a frustrated ghost, and a couple of academic ladies with a sometimes prickly friendship who are more than willing to sit through countless diner dinners to get to a much-needed truth. In other words, it’s catnip for readers who  <a href="https://locusmag.com/2024/10/cinderwich-by-cherie-priest-review-by-colleen-mondor/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/10/cinderwich-by-cherie-priest-review-by-colleen-mondor/>
+
+---
+
+## Why Horror Never Dies
+
+date: 2024-10-08, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/why-horror-never-dies" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Imported_Blog_Media/fd_blogN_img_theShining-2.jpg" alt="Why Horror Never Dies" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Scary is in. Fear is fashionable. Horror is hot. That’s what we’re told. Judging strictly by box office returns and critical acclaim—not to mention the occasional Academy Award® for best screenplay—horror does seem to be having a moment in the zeitgeist.</p> 
+
+<https://blog.finaldraft.com/why-horror-never-dies>
+
+---
+
+## New Books, 8 October 2024
+
+date: 2024-10-08, from: Locus Magazine
+
+<p>Ali, S.K.: <b>Fledgling: The Keeper&#8217;s Records of Revolution</b>
+(Penguin Random House/Kokila 9780593531242, $21.99, 544pp, formats: hardcover, ebook, audio, 10/08/2024)</p>
+<p>Young-adult SF novel, the first in the Keeper&#8217;s Records of Revolution duology. A privileged and obedient princess from the Upper Earth, agrees to an arranged marriage to the Crown Prince of corrupt and volatile Lower Earth, in order to usher in a final age of enlightenment and put an end to  <a href="https://locusmag.com/2024/10/new-books-8-october-2024/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/10/new-books-8-october-2024/>
+
+---
+
+## Moneyball
+
+date: 2024-10-08, from: John August blog
+
+John and Craig welcome back Taffy Brodesser-Akner (Fleishman is in Trouble) for a deep dive on 2011’s sports drama Moneyball. What makes Moneyball work? Is it a traditional underdog movie, or does it break all the rules? Is Billy Beane a hero or a villain? What advantages do sports movies give you, and how much [&#8230;]
+The post <a href="https://johnaugust.com/2024/moneyball">Moneyball</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<https://johnaugust.com/2024/moneyball>
 
 ---
 
