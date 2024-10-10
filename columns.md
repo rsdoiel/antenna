@@ -1,15 +1,827 @@
 ---
 title: columns
-updated: 2024-10-09 08:15:40
+updated: 2024-10-10 07:05:31
 ---
 
 # columns
 
-(date: 2024-10-09 08:15:40)
+(date: 2024-10-10 07:05:31)
 
 ---
 
-## MIcrosoft’s Final Surface Duo Software Update
+## 3rd Party PoE HATs for Pi 5 add NVMe, fit inside case
+
+date: 2024-10-10, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">3rd Party PoE HATs for Pi 5 add NVMe, fit inside case</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Today I published a video detailing my testing of three new Raspberry Pi HATs—these HATs all add on PoE+ power <em>and</em> an NVMe SSD slot, though the three go about it in different ways.</p>
+
+<p>You can watch the video for the full story (embedded below), but in this post I'll go through my brief thoughts on all three, and link to a few other options coming on the market as well.</p>
+
+<div class="yt-embed">
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }<div class="embed-container"></div>
+</div>
+
+<h2>GeeekPi P33 M.2 NVMe M-Key PoE+ HAT</h2>
+
+<p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/52pi-p33-geeekpi-poe-nvme-hat.jpg" alt="52Pi P33 GeeekPi PoE+ NVMe HAT for Pi 5"></p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-10-10T09:01:22-05:00" title="Thursday, October 10, 2024 - 09:01" class="datetime">October 10, 2024</time>
+</span> 
+
+<https://www.jeffgeerling.com/blog/2024/3rd-party-poe-hats-pi-5-add-nvme-fit-inside-case>
+
+---
+
+## 2024-10-10 Massenschlachten
+
+date: 2024-10-10, from: Alex Schroeder's Blog
+
+<h1 id="2024-10-10-massenschlachten">2024-10-10 Massenschlachten</h1>
+
+<blockquote>
+<p>Dieser Artikel ist Teil von <a href="Hellebarden_und_Helme">Hellebarden &amp; Helme</a> und eine Alternative zu <a href="2024-10-07-massengefechte">2024-10-07 Massengefechte</a>. Die Massengefechte waren etwas OD&amp;D inspiriert und sind ausführlicher, da sie für ein Fanzine geschrieben wurden.</p>
+</blockquote>
+
+<p><strong>Einheiten bilden</strong>: Gleichartigen Kreaturen werden nach belieben
+eingeteilt.</p>
+
+<p>Ein oder zwei Einheiten pro Spielerinnen und Spieler ist ein gute Anfang.</p>
+
+<p>Trefferpunkte berechnen: Man multipliziert Anzahl Kreaturen,
+Anzahl Trefferwürfel pro Kreatur und durchschnittlichen Trefferpunkten pro Trefferwürfel (4½).</p>
+
+<p>40 Banditen haben beispielsweise 40 × 4.5 = 180 Trefferpunkte. Auf der Tabelle unten hat es viele vorberechnete Werte.</p>
+
+<p>Initiative, Bewegung, Angriffe und so weiter funktionieren wie
+immer. Rüstungsklasse, Bewegungsrate, Moral und Rettungswürfe
+bleiben unverändert.</p>
+
+<p>Im Nahkampf kann eine Einheit,
+welche mit mehreren Gegnern im Kontakt ist, alle gleichzeitig angreifen!</p>
+
+<p><strong>Gewicht</strong>: Schaden wird von Angreifer und Verteidiger nach
+untenstehender Tabelle gewichtet, da in der Masse und wegen
+dem Gelände nie alle gleichzeitig angreifen können: Der Schaden
+wird mit dem Gewicht des Angreifers multipliziert und durch das
+Gewicht des Verteidigers geteilt.</p>
+
+<p>40 Banditen haben ein Gewicht von ×6.
+Landen sie einen Treffer und würfeln
+4 Schaden teilen sie 4 × 6 = 24 Schaden
+aus. Ein Bandit mehr und das Gewicht
+würde auf ×7 steigen.</p>
+
+<p>Haben die Banditen mit TW 1 noch
+53 Trefferpunkte, sieht man in der
+Tabelle, dass es 11–20 Banditen mit
+Gewicht ×5 sind.</p>
+
+<p>Die genaue Anzahl ist im Kampf
+egal. Wer es genau wissen will:
+53/4.5 ≈ 12 (aufrunden).</p>
+
+<table>
+<thead>
+<tr>
+<th align="center">Anzahl</th>
+<th align="center">Gewicht</th>
+<th align="center">TW 1</th>
+<th align="center">TW 2</th>
+<th align="center">TW 3</th>
+<th align="center">TW 4</th>
+<th align="center">TW 5</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="center">2–5</td>
+<td align="center">×3</td>
+<td align="center">22</td>
+<td align="center">45</td>
+<td align="center">90</td>
+<td align="center">180</td>
+<td align="center">360</td>
+</tr>
+
+<tr>
+<td align="center">6–10</td>
+<td align="center">×4</td>
+<td align="center">45</td>
+<td align="center">90</td>
+<td align="center">180</td>
+<td align="center">360</td>
+<td align="center">720</td>
+</tr>
+
+<tr>
+<td align="center">11–20</td>
+<td align="center">×5</td>
+<td align="center">90</td>
+<td align="center">180</td>
+<td align="center">360</td>
+<td align="center">720</td>
+<td align="center">1440</td>
+</tr>
+
+<tr>
+<td align="center">21–40</td>
+<td align="center">×6</td>
+<td align="center">180</td>
+<td align="center">360</td>
+<td align="center">720</td>
+<td align="center">1440</td>
+<td align="center">2880</td>
+</tr>
+
+<tr>
+<td align="center">41–80</td>
+<td align="center">×7</td>
+<td align="center">360</td>
+<td align="center">720</td>
+<td align="center">1440</td>
+<td align="center">2880</td>
+<td align="center">5760</td>
+</tr>
+
+<tr>
+<td align="center">81–160</td>
+<td align="center">×8</td>
+<td align="center">720</td>
+<td align="center">1440</td>
+<td align="center">2880</td>
+<td align="center">5760</td>
+<td align="center">11520</td>
+</tr>
+
+<tr>
+<td align="center">161–320</td>
+<td align="center">×9</td>
+<td align="center">1440</td>
+<td align="center">2880</td>
+<td align="center">5760</td>
+<td align="center">11520</td>
+<td align="center">23040</td>
+</tr>
+
+<tr>
+<td align="center">321–640</td>
+<td align="center">×10</td>
+<td align="center">2880</td>
+<td align="center">5760</td>
+<td align="center">11520</td>
+<td align="center">23040</td>
+<td align="center">46080</td>
+</tr>
+</tbody>
+</table>
+<p>Steht eine Einheit mit mehreren Gegnern im Kontakt, können
+alle Gegner gleichzeitig angegriffen werden.</p>
+
+<p>Spielercharaktere und ihr Gefolge werden von ihrer Einheit
+gedeckt. Erleidet die Einheit Schaden, nehmen Spielercharaktere
+und Gefolgsleute zuletzt Schaden.</p>
+
+<p>Spielercharaktere und ihr Gefolge greifen wie immer mit eigenen
+Trefferwürfen und Zaubern an. Zauber werden auf Trefferpunkte
+umgerechnet. Zaubersprüche wie <em>Donnerkeil</em> oder <em>Feuerball</em>, werden
+genau so gegen Einheiten verwendet.</p>
+
+<p>Schlafen 10 Banditen mit je 1 TW, die
+ein, so entspricht das 10 × 4.5 Schaden.
+Der genaue Wirkungsbereich der
+Zauber und die Marschordnung
+der einzelnen Kreaturen werden
+vernachlässigt.</p>
+
+<p>Wenn eine Einheit ihr erstes Mitglied oder die Hälfte ihrer Mitglieder verliert, ist muss ein Moralwurf bestanden werden. Spielercharaktere verleihen ihrer Einheit den Charisma Bonus für Moralwürfe. Die Moralwürfe sind wichtig! Ist der Moralwurf misslungen,
+gilt die Einheit als gebrochen. Sie weicht zurück, sucht Deckung und
+hört auf zu kämpfen.</p>
+
+<p>Spielercharaktere oder Gefolgsleute in gebrochenen Einheiten
+können diesen wieder Mut zusprechen. Pro Einheit kann dies nur
+eine Person pro Runde versuchen. Das Ermutigen einer Einheiten
+kann jede Runde wiederholt werden. Einer ermutigten Einheit
+steht ein erneuter Moralwurf zu. So oder so kann die Einheit diese
+Runde sonst nichts tun.</p>
+
+<p>Erleidet eine gebrochene Einheit erneut Schaden, flieht sie vom
+Schlachtfeld. Alle weiteren Einheiten im Nahkampf erhalten einen
+freien Angriff mit einem +2 Bonus.</p>
+
+<p><a class="tag" href="/search/?q=%23RSP">#RSP</a> <a class="tag" href="/search/?q=%23Massenschlachten">#Massenschlachten</a></p> 
+
+<https://alexschroeder.ch/view/2024-10-10-massenschlachten>
+
+---
+
+## 2024-10-07 Massengefechte
+
+date: 2024-10-10, from: Alex Schroeder's Blog
+
+<h1 id="2024-10-07-massengefechte">2024-10-07 Massengefechte</h1>
+
+<blockquote>
+<p>Dieser Artikel ist erstmals in
+<a href="https://lkh.sdf-eu.org/wandererbill/grenzland/">Grenzland Nr. 4</a>
+erschienen. Siehe <a href="2024-10-10-massenschlachten">2024-10-10 Massenschlachten</a>
+für eine Alternative, die näher an B/X D&amp;D angelehnt ist.</p>
+</blockquote>
+
+<p>Massengefechte bieten eine interessante Abwechslung, genauso wie
+Spielabende, wo man die Monsterseite spielt oder wo man als Däumlinge
+unterwegs ist und dergleichen mehr.</p>
+
+<p>Um ein Massengefecht vorzubereiten, gilt es auf der Karte
+potentielle Freunde und Feinde zu verteilen, jeweils mit mindestens
+einer Person, mit der sich interagieren lässt. Die Feinde bauen den
+Druck auf, der von den Spielerinnen und Spielern gelöst werden muss.
+Schon bald machen sich die verschieden Parteien in Gerüchten,
+Zufallsbegegnungen und Horten bemerkbar.</p>
+
+<p>Typischerweise könnte man so das Problem mit einer Infiltration lösen:
+Die Gruppe muss die wichtigen Bösewichte in Festungen und
+unterirdischen Anlagen finden und ausschalten. Man könnte das Problem
+auch mit Diplomatie lösen: Die Gruppe muss Verhandlungen führen,
+Geschenke überbringen und möglicherweise Tribut zahlen, um den Krieg
+abzuwenden.</p>
+
+<p><img loading="lazy" src="2024-07-09-murten-10.png" alt="A black and white depiction of the battle" /></p>
+
+<blockquote>
+<p>Die Schlacht bei Murten, Seite 265, aus Stumpf, Johannes: Gemeiner
+loblicher Eydgnoschafft Stetten, Landen und Völckeren Chronick
+wirdiger Thaaten Beschreybung [&hellip;]. Getruckt Zürych in der
+Eydgnoschafft : bey Christoffel Froschouer, 1548. Zentralbibliothek
+Zürich., AW 40: 1-2</p>
+
+<p><a href="https://doi.org/10.3931/e-rara-5076">https://doi.org/10.3931/e-rara-5076</a> / Public Domain Mark</p>
+</blockquote>
+
+<p>Eine Massenschlacht bahnt sich an, sobald klar ist, dass nicht jedes
+Problem mit Diplomatie, Infiltration und Mord gelöst werden kann. Es
+dauert einfach zu lange. Die Gegenseite ist mit ihren Vorbereitungen
+schnell und effizient, ihre Dungeons und Festungen sind zu stark, ihre
+Fallen zu gefährlich, ihre Zauber zu mächtig, ihre Ansprüche zu hoch.
+Den Bösewichten kann man nur auf dem offenen Schlachtfeld die Stirn
+bieten.</p>
+
+<p>Um die Idee der Massenschlacht nach und nach einzuführen, gibt es bei
+Begegnungen mit potentiellen Freunden Hinweise auf den Expansionswillen
+der Gegenseite und auf den mangelnden Kooperationswillen neutraler
+Parteien. Daraus ergeben sich diplomatische Missionen, um den
+Zusammenhalt der eigenen Seite zu stärken. Zudem fallen der Gruppe bei
+unabhängigen Abenteuern Pläne und Hinweise in die Hände, die den
+Expansionswillen der Gegner belegen. Auf der eigenen Seite hat es Machthaber,
+denen man diese Hinweise überbringen kann, was dann zu
+Spionagemissionen führt. Auf diesen Missionen findet die Gruppe Belege
+für die Grösse und die Organisation der Gegenseite und es wird klar,
+dass die eigene Seite ebenfalls organisiert werden muss.</p>
+
+<p>Ab diesem Moment sind die Weichen auf Krieg gestellt. Idealerweise
+gibt es nun einen Zeitplan, der so aufgebaut ist, dass man in der
+verbleibenden Zeit einen Teil der neutralen Parteien zu Verbündeten
+machen kann. Damit ist die Gruppe gezwungen, Entscheidungen zu fällen.
+Wen will man auf der eigenen Seite? Wer läuft Gefahr, zur Gegenseite
+überzulaufen? Wer ist besonders wertvoll?</p>
+
+<p>Der Zeitdruck wird der Spielerschaft klar kommuniziert. Wird mit einem
+1:1 Kalender gespielt, vergeht zwischen wöchentlichen Spielabenden
+auch ein Woche in der Spielwelt, in der die Gegenseite sich
+vorbereiten kann. Es lohnt sich nicht, dies zu simulieren. Ist die
+Zeit abgelaufen, fallen der Gegenseite alle verbleibenden neutralen
+Parteien zu. Es wird davon ausgegangen, dass die Gegenseite bei allen
+neutralen Parteien Agenten hat, welche die Partei in ihrem Sinne zu
+beeinflussen versucht. Das Neutralisieren oder Umkehren solcher
+Agenten ist Teil der Herausforderung.</p>
+
+<p>Die Anzahl Parteien muss zum Zeitplan passen. Wenn wir von 12 Parteien
+ausgehen und drei Spielabende pro Partei für unsere Runde ein
+entspanntes Abenteuer sind, dann braucht es 18 Spielabende, um die
+Hälfte der Parteien (6×3) auf die eigene Seite zu ziehen. Wenn die
+Gruppe in der gleichen Zeit mehr Freunde gewinnt, soll das ihr Vorteil
+sein. Die Spielleitung muss für jede der 12 Parteien ungefähr drei
+Spielabende Unterhaltung vorbereiten: Anreise, Begegnungen, Gespräche,
+Probleme beseitigen oder sonstige Gefallen leisten, und so weiter.</p>
+
+<p>Die Parteien können und sollen untereinander unbekannte Loyalitäten
+und Rivalitäten haben, welche die Spielerinnen und Spieler erst
+entdecken und möglicherweise entschärfen oder ausnützen können.</p>
+
+<h2 id="die-konfliktparteien">Die Konfliktparteien</h2>
+
+<p>In der folgenden Liste hat es 12 Parteien und Gorga von den
+Dunkelklauenechsen ist der Hauptgegner.</p>
+
+<ul>
+<li><p><strong>Gorgas</strong>
+ist der Anführer der Dunkelklauenechsen und lässt Eier des eigenen
+Stammes in Drachenblut einweichen, damit daraus Superkrieger
+entstehen.</p></li>
+
+<li><p><strong>Matacabra</strong>
+ist die Anführerin der Schwarzflussechsen, die von den
+Dunkelklauenechsen unterdrückt werden.</p></li>
+
+<li><p><strong>Edelbauch</strong>
+ist Anführerin der Goldaugenkobolde. Diese wurden von Gorgas
+angeheuert, um die Belagerungsmaschinen zu bauen,
+welche die Burg vom Blausee schleifen sollen.</p></li>
+
+<li><p><strong>Purdefel</strong>
+der Weise ist Burgherr von Blausee und Anführer der Menschen. Damit
+ist es auch Schutzherr der Holzfäller und Goldsucher.</p></li>
+
+<li><p><strong>Berta</strong>
+ist die Anführerin der Gnomenbande, welche das Holzfällerlager von
+Ledinan kontrolliert.</p></li>
+
+<li><p><strong>Barzidom</strong>
+ist Anführer der Ogermagier, welche in der Ruine des Odin Tempels ihr
+Unwesen treibt.</p></li>
+
+<li><p><strong>Quinn</strong>
+ist der König der fliegenden Affen, welcher in der Ruine des
+Wassertempels herrscht.</p></li>
+
+<li><p><strong>Sanael</strong>
+ist Anführer der letzten Elfen im Wald. Sie beschäftigen sich mit der
+Greifenzucht.</p></li>
+
+<li><p><strong>Apanal</strong>
+ist der Flussdrache des gleichnamigen Flusses, der durch den Wald
+fliesst. Er meint, dass alle Schätze im Wald Teil seines Schatzes
+sind.</p></li>
+
+<li><p><strong>Kaia</strong>
+ist die ehemalige Anführerin der Steinherzfestung. Sie und alle anderen
+Familienoberhäupter sind einem Kettenteufel verfallen.</p></li>
+
+<li><p><strong>Treibniz</strong>
+ist Priester des Orcus Tempels und ein böser Geselle, aber er kann
+Tote wieder zum Leben erwecken und Zombies kontrollieren.</p></li>
+
+<li><p><strong>Purbok</strong>
+ist Anführer der Goblinjäger von Grezneck. Die Hälfte seiner Leute ist
+wird im letzten Moment zu Treibniz überlaufen, der den Goblins ewiges
+Leben verspricht.
+.SH
+Langsame Eskalation</p></li>
+</ul>
+
+<p>Erst nach und nach erfahren die Spieler, dass sich etwas zusammenbraut.</p>
+
+<ul>
+<li><p>Die Holzfäller berichten, dass die Schwarzflussechsen kaum mehr
+gesichtet werden.</p></li>
+
+<li><p>Die fliegenden Affen berichten, dass es Echsen auf Riesenlibellen
+gibt, welche den Luftraum unsicher machen.</p></li>
+
+<li><p>Im Freya Tempel wird berichtet, dass der Kreislauf des Lebens
+korrumpiert wird.</p></li>
+
+<li><p>Bei einer Bande Kobolden wird ein Brief des Gorgas an Edelbauch
+gefunden, wo ihr ein lukratives Angebot gemacht wird.</p></li>
+
+<li><p>Die Goblinjäger berichten, dass das Schwert
+.I Sumpffeuer
+gefunden worden ist. Es wurden den Abenteurern allerdings von Gorgas
+Echsenkriegern abgenommen.</p></li>
+
+<li><p>Eine geflohene Schwarzflussechse berichtet, dass neuerdings alle Eier
+den Schergen des Gorgas abgegeben werden müssen.</p></li>
+
+<li><p>Die Holzfäller berichten, dass der Fluss nach Essig und Schwefel
+riecht, denn der Drache sei von Zorn erfüllt.</p></li>
+
+<li><p>Der Burgherr von Blausee sucht nach tapferen Recken, welche den
+Einfällen der Schwarzflussechsen ein Ende bereiten.</p></li>
+
+<li><p>Bei Kämpfen mit den Schwarzflussechsen zeigt sich, dass diese extrem
+stark und gefährlich sind.</p></li>
+</ul>
+
+<p>Bei jeder Begegnung gibt es weitere Hinweise darauf, die zeigen, dass
+etwas in Bewegung ist.</p>
+
+<p>Bei den jeweiligen Abenteuern, wo Spielerinnen und Spieler Verbündete
+gewinnen können, sollte schnell klar sein, unter welchen Umständen
+diese mitkämpfen würden und wie stark die Einheiten dann wären (siehe
+unten). Hier sollte mit offenen Karten gespielt werden, damit die
+Gruppe den Versuch auch schnell abbrechen kann, wenn es die Zeit nicht
+wert scheint.</p>
+
+<p>Die entsprechenden Abenteuer müssen natürlich von der Spielleitung
+noch zusammengestellt werden. Diese würden den Rahmen des Artikels
+leider sprengen.
+.SH
+Die Einheiten</p>
+
+<p>Beide Seiten werden in Einheiten mit gleichen Werten eingeteilt.
+Anführer werden von ihren Einheiten unterstützt.</p>
+
+<ul>
+<li><p><strong>Gorgas</strong>
+TW 7 RK 3 mit Sumpffeuer (RW vs. Gift oder Tod) BW 6 mit 100
+.B Dunkelklauenechsen
+TW 2+1 RK 5 BW 6 ML 9
+und 50
+.B Superechsen
+TW 4+1 RK 5 BW 6 ML 11</p></li>
+
+<li><p><strong>Matacabra</strong>
+TW 5 RK 5 BW 6 mit Zaubersprüchen Nebelwand (keine Fernwaffen) und
+Angst (alle Gegner mussen einen RW vs. Sprüche oder Flucht) und 30
+Schwarzflussechsen TW 2+1 RK 5 BW 6 ML 9</p></li>
+
+<li><p><strong>Edelbauch</strong>
+und 40 Kobolde TW 1-1 RK 7 BW 6 ML 7 wobei je 4 ein Katapult (3 TW) bedienen</p></li>
+
+<li><p><strong>Purdefel</strong>
+TW 5 RK 2 BW 6 und 50 Soldaten TW 1 RK 4 BW 6 inkl. Armbrüste</p></li>
+
+<li><p><strong>Berta</strong>
+TW 3 RK 7 BW 6 mit Zaubersprüchen Schlaf (2W8 Gegner) und Farbspray
+(1W8 Gegner) und 20 Messerstechergnome TW 1 RK 7 BW 6 ML 7 und 6
+Riesenwiesel TW 2 RK 8 BW 15 ML 6</p></li>
+
+<li><p><strong>Barzidom</strong>
+mit 5 weiteren Ogermagiern mit Zaubersprüchen Fliegen, Unsichtbarkeit
+und Nebel (keine Fernwaffen) und 20 Oger, all TW 4+1 RK 5 BW 9 ML 8</p></li>
+
+<li><p><strong>Quinn</strong>
+TW 5 RK 9 BW 12 mit 20 fliegenden Affen TW 2 RK 9 BW 12 ML 6, alle
+fliegend, mit einmaligem Bombardement aus der Luft (3 TW)</p></li>
+
+<li><p><strong>Sanael</strong>
+mit 20 Elfen TW 1+1 RK 5 BW 9 ML 8 alle mit Unsichtbarkeit und Fernangriff
+und 10 Greifen TW 7 RK 7 BW 30 ML 8</p></li>
+
+<li><p><strong>Apanal</strong>
+mit Zauberspruch Schlaf (2W8 Gegner) und Drachenodem (Blitze) nach belieben
+TW 9 RK 2 BW 24</p></li>
+
+<li><p><strong>Kaia</strong>
+und 50 Zwerge TW 1 RK 4 BW 6 ML 9</p></li>
+
+<li><p><strong>Treibniz</strong>
+TW 7 RK 2 BW 6 mit Zauberspruch Flammenschlag (5 TW) und 20 Zombies TW
+1 RK 8 BW 6</p></li>
+
+<li><p><strong>Purbok</strong>
+TW 3 RK 6 BW 6 und 30 Goblinjäger TW 1-1 RK 6 BW 6</p></li>
+</ul>
+
+<h2 id="die-regeln">Die Regeln</h2>
+
+<p>In Massenschlachten gibt es pro TW einen Angriff mit dem W20. Jeder
+Treffer verursacht 1 TW Schaden, multipliziert mit dem Gewicht der
+Einheit.</p>
+
+<table>
+<thead>
+<tr>
+<th align="center">Anzahl</th>
+<th align="center">Gewicht</th>
+<th align="center">Anzahl</th>
+<th align="center">Gewicht</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="center">2–5</td>
+<td align="center">×3</td>
+<td align="center">41–80</td>
+<td align="center">×7</td>
+</tr>
+
+<tr>
+<td align="center">6–10</td>
+<td align="center">×4</td>
+<td align="center">81–160</td>
+<td align="center">×8</td>
+</tr>
+
+<tr>
+<td align="center">11–20</td>
+<td align="center">×5</td>
+<td align="center">161–320</td>
+<td align="center">×9</td>
+</tr>
+
+<tr>
+<td align="center">21–40</td>
+<td align="center">×6</td>
+<td align="center">320–640</td>
+<td align="center">×10</td>
+</tr>
+</tbody>
+</table>
+<p>Sind mehrere Einheiten am gleichen Ort, bestimmt die Verteidigung,
+welche Einheit getroffen wird. Über Verletzte wird nicht Buch geführt:
+Wer die Runde überlebt, bleibt ungeschwächt. Zaubersprüche werden
+passend geregelt.</p>
+
+<p>Matacabra und ihre 30 Echsen und die 50 Superechsen von Gorgas nähern
+sich im Schutz von magischem Nebel dem Lager von Barzidom, den 5
+Ogermagiern und den 20 Ogern. Die Gegner können im Nebel nichts
+erkennen und so kommt es zum Nahkampf.</p>
+
+<p>Die Oger schützen die Ogermagier. Matacabra würfelt 5W20 und trifft
+für 1 TW Schaden (Gewicht für 1). Die Echsen würfeln 2W20 und
+verfehlen. Die Superechsen würfeln  4W20 und treffen für 1 TW×7
+Schaden (Gewicht für 50). Da die Oger TW 4+1 haben, bedeuten 8 TW, dass
+2 Oger erschlagen wurden.</p>
+
+<p>Die Echsen nehmen den Gegenschlag auf sich. Die 5 Ogermagier würfeln
+4W20 und treffen für 2 TW×3 Schaden (Gewicht für 5). Die Oger würfeln
+4W20 und treffen für 2 TW×5 Schaden (Gewicht für 20). Da die Echsen TW
+2+1 haben, bedeuten 16 TW, dass 8 Schwarzflussechsen erschlagen
+wurden.</p>
+
+<p>Die Oger und die Schwarzflussechsen müssen einen Moralwurf bestehen
+oder sie brechen und werden handlungsunfähig. Solange sie das Feld
+nicht verlassen haben, können Anführer sie mit einer eigenen Aktion
+sammeln. Die anwesenden Einheiten dürfen dann einen erneuten Moralwurf
+machen.</p>
+
+<p>Werden gebrochene Einheiten noch einmal getroffen, fliehen sie vom
+Feld. Gegner im Nahkampf dürfen noch einmal mit +2 angreifen.</p>
+
+<p><a class="tag" href="/search/?q=%23RSP">#RSP</a> <a class="tag" href="/search/?q=%23Massenschlachten">#Massenschlachten</a></p> 
+
+<https://alexschroeder.ch/view/2024-10-07-massengefechte>
+
+---
+
+## Deebot Robot Vacuums Are Using Photos and Audio to Train Their AI
+
+date: 2024-10-10, updated: 2024-10-08, from: Bruce Schneier blog
+
+<p>An Australian news agency is <a href="https://www.abc.net.au/news/2024-10-05/robot-vacuum-deebot-ecovacs-photos-ai/104416632">reporting</a> that robot vacuum cleaners from the Chinese company Deebot are surreptitiously taking photos and recording audio, and sending that data back to the vendor to train their AIs.</p>
+<blockquote><p>Ecovacs&#8217;s privacy policy&#8212;<a href="https://gl-us-wap.ecovacs.com/content/agreementNewest/PRIVACY/DEFAULT/DEFAULT">available elsewhere in the app</a>&#8212;allows for blanket collection of user data for research purposes, including:</p>
+<ul>
+<li>The 2D or 3D map of the user&#8217;s house generated by the device
+<li>Voice recordings from the device&#8217;s microphone
+<li>Photos or videos recorded by the device&#8217;s camera</ul>
+<p>It also states that voice recordings, videos and photos that are deleted via the app may continue to be held and used by Ecovacs...</p></li></li></li></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/10/deebot-robot-vacuums-are-using-photos-and-audio-to-train-their-ai.html>
+
+---
+
+## Version 7.6 – the 'OpenBSD of Theseus' – released
+
+date: 2024-10-10, updated: 2024-10-10, from: Liam Proven's articles at the Register
+
+<h4>Ideal for black-clad ultra-minimalist types. You probably wouldn't like it</h4>
+      <p>OpenBSD is arguably the most secure general-purpose OS for general-purpose computers. This version has better laptop support, includes more Arm64 kit, and brings hardware-accelerated video playback.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/10/10/version_76_openbsd_of_theseus/>
+
+---
+
+## 2024-10-09 Why are megadungeons great?
+
+date: 2024-10-10, from: Alex Schroeder's Blog
+
+<h1 id="2024-10-09-why-are-megadungeons-great">2024-10-09 Why are megadungeons great?</h1>
+
+<p>We all know the reason they are not great: there&rsquo;s so mega much to read!</p>
+
+<p>A well-written megadungeon doesn&rsquo;t require you to read it all, however.
+You should be able to run your first session by just reading about the area around the main entrance to the first level.
+Everything else should come later.</p>
+
+<p>Do not waste time role-playing in the nearby town before adventuring in the dungeon.</p>
+
+<p>Do not waste time exploring the wilderness around the main entrance before adventuring in the dungeon.</p>
+
+<p>Do not waste time searching for other entries before using the main entrance.</p>
+
+<p>A dungeon has &ldquo;regions&rdquo; that are not easily traversed because there aren&rsquo;t all that many places to cross from one region to the next. That&rsquo;s why you can get away with just preparing the area around the main entrance to the first level.</p>
+
+<p>The benefit of this approach is that players will revisit the area around the main entrance to the first level many times. And this is true all throughout the megadungeon. Players will return to known locations many times. For the person running the megadungeon, this is great. Only small things have changed as far as prep is concerned but the interactions between the things is vastly different.</p>
+
+<p>The map remains the same. The rooms remain the same. Perhaps new monsters have shown up. Perhaps this time they have a different routine. Perhaps they don&rsquo;t want to fight, this time. Perhaps they&rsquo;re complaining about something and need the party&rsquo;s help, this time.</p>
+
+<p>This is the thing! This is why megadungeons are great: The locations, numbers, attitudes and reactions of dungeon denizens is easy to change on the spot but writing and drawing a new dungeon is not. Every location can be visited many times and it&rsquo;ll still be interesting. New traps, new monsters, new treasures; same monsters, new reactions, new quests, new allies. This stuff is easy for us to improvise once we have a map and the initial setup.</p>
+
+<p><a class="tag" href="/search/?q=%23RPG">#RPG</a> <a class="tag" href="/search/?q=%23Megadungeon">#Megadungeon</a></p> 
+
+<https://alexschroeder.ch/view/2024-10-09-why-are-megadungeons-great>
+
+---
+
+## Double standard?
+
+date: 2024-10-10, from: Robert Reich's blog
+
+The media is demanding candid responses from Harris while letting Trump get away with no answers at all 
+
+<https://robertreich.substack.com/p/double-standard>
+
+---
+
+## October 9, 2024
+
+date: 2024-10-10, from: Heather Cox Richardson blog
+
+Yesterday we learned from a forthcoming book by veteran journalist Bob Woodward that in 2020, while he was president, Trump secretly shipped Covid-19 testing equipment to Russian president Vladimir Putin for his own personal use at a time when Americans could not get it. 
+
+<https://heathercoxrichardson.substack.com/p/october-9-2024>
+
+---
+
+## The Oracle Mouths Off, Part One
+
+date: 2024-10-09, from: Margaret Atwood's substack
+
+Be careful what you wish for. 
+
+<https://margaretatwood.substack.com/p/the-oracle-mouths-off-part-one>
+
+---
+
+## All Gas, No Brakes
+
+date: 2024-10-09, from: Dan Rather's Steady
+
+Action plus enthusiasm may help Harris win the White House 
+
+<https://steady.substack.com/p/all-gas-no-brakes>
+
+---
+
+**@Jessica Smith's blog** (date: 2024-10-09, from: Jessica Smith's blog)
+
+<p>A while ago I was watching a Canadian YouTuber who (as a sidebar in a much longer video) was objecting to the idea that Australia is bigger than Greenland… he just went, &ldquo;Um, haven&rsquo;t you seen them on a map?? There&rsquo;s no way!&rdquo; I guess some YouTubers are provocatively wrong about things to farm engagement but that wasn&rsquo;t this guy&rsquo;s schtick, he was just genuinely brainwashed by Mercator maps.</p>
+<p>Anyway, I was reminded of that by this post:</p>
+<blockquote class="mastodon-embed" data-embed-url="https://vis.social/@infobeautiful/113278039092776886/embed" style="background: #FCF8FF; border-radius: 8px; border: 1px solid #C9C4DA; margin: 0 auto; max-width: 540px; min-width: 270px; overflow: hidden; padding: 0;"> <a href="https://vis.social/@infobeautiful/113278039092776886" target="_blank" style="align-items: center; color: #1C1A25; display: flex; flex-direction: column; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Roboto, sans-serif; font-size: 14px; justify-content: center; letter-spacing: 0.25px; line-height: 20px; padding: 24px; text-decoration: none;"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 79 75"><path d="M74.7135 16.6043C73.6199 8.54587 66.5351 2.19527 58.1366 0.964691C56.7196 0.756754 51.351 0 38.9148 0H38.822C26.3824 0 23.7135 0.756754 22.2966 0.964691C14.1319 2.16118 6.67571 7.86752 4.86669 16.0214C3.99657 20.0369 3.90371 24.4888 4.06535 28.5726C4.29578 34.4289 4.34049 40.275 4.877 46.1075C5.24791 49.9817 5.89495 53.8251 6.81328 57.6088C8.53288 64.5968 15.4938 70.4122 22.3138 72.7848C29.6155 75.259 37.468 75.6697 44.9919 73.971C45.8196 73.7801 46.6381 73.5586 47.4475 73.3063C49.2737 72.7302 51.4164 72.086 52.9915 70.9542C53.0131 70.9384 53.0308 70.9178 53.0433 70.8942C53.0558 70.8706 53.0628 70.8445 53.0637 70.8179V65.1661C53.0634 65.1412 53.0574 65.1167 53.0462 65.0944C53.035 65.0721 53.0189 65.0525 52.9992 65.0371C52.9794 65.0218 52.9564 65.011 52.9318 65.0056C52.9073 65.0002 52.8819 65.0003 52.8574 65.0059C48.0369 66.1472 43.0971 66.7193 38.141 66.7103C29.6118 66.7103 27.3178 62.6981 26.6609 61.0278C26.1329 59.5842 25.7976 58.0784 25.6636 56.5486C25.6622 56.5229 25.667 56.4973 25.6775 56.4738C25.688 56.4502 25.7039 56.4295 25.724 56.4132C25.7441 56.397 25.7678 56.3856 25.7931 56.3801C25.8185 56.3746 25.8448 56.3751 25.8699 56.3816C30.6101 57.5151 35.4693 58.0873 40.3455 58.086C41.5183 58.086 42.6876 58.086 43.8604 58.0553C48.7647 57.919 53.9339 57.6701 58.7591 56.7361C58.8794 56.7123 58.9998 56.6918 59.103 56.6611C66.7139 55.2124 73.9569 50.665 74.6929 39.1501C74.7204 38.6967 74.7892 34.4016 74.7892 33.9312C74.7926 32.3325 75.3085 22.5901 74.7135 16.6043ZM62.9996 45.3371H54.9966V25.9069C54.9966 21.8163 53.277 19.7302 49.7793 19.7302C45.9343 19.7302 44.0083 22.1981 44.0083 27.0727V37.7082H36.0534V27.0727C36.0534 22.1981 34.124 19.7302 30.279 19.7302C26.8019 19.7302 25.0651 21.8163 25.0617 25.9069V45.3371H17.0656V25.3172C17.0656 21.2266 18.1191 17.9769 20.2262 15.568C22.3998 13.1648 25.2509 11.9308 28.7898 11.9308C32.8859 11.9308 35.9812 13.492 38.0447 16.6111L40.036 19.9245L42.0308 16.6111C44.0943 13.492 47.1896 11.9308 51.2788 11.9308C54.8143 11.9308 57.6654 13.1648 59.8459 15.568C61.9529 17.9746 63.0065 21.2243 63.0065 25.3172L62.9996 45.3371Z" fill="currentColor"/></svg> <div style="color: #787588; margin-top: 16px;">Post by @infobeautiful@vis.social</div><p>Another reasons to tut at the Mercator Map projection - how a circle with a radius of 5,000km, centred on Paris, looks according the the Mercator projection</p><div style="font-weight: 500;">View on Mastodon</div> </a> </blockquote> <script data-allowed-prefixes="https://vis.social/" async src="https://vis.social/embed.js"></script> 
+
+<https://www.jayeless.net/2024/10/mercator-map-projection.html>
+
+---
+
+## Crazy Stupid Tech
+
+date: 2024-10-09, updated: 2024-10-09, from: Daring Fireball
+
+ 
+
+<https://crazystupidtech.com/archive/the-why-of-crazy-stupid-tech/>
+
+---
+
+##  Imprints of Nature 
+
+date: 2024-10-09, updated: 2024-10-09, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/imprints-of-nature>
+
+---
+
+##  In their own words, what volunteer health care workers saw in Gaza.... 
+
+date: 2024-10-09, updated: 2024-10-09, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/0045426-in-their-own-words-what>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-09, from: Dave Winer's Scripting News)
+
+Thanks for all the good wishes re the <a href="http://scripting.com/2024/10/07.html">30th anniversary</a> of the start of blogging here. It's not the same as it was at the beginning, but it's still pretty good. And to all the friends no longer with us, and there are plenty of them -- you are appreciated, respected and missed. 
+
+<http://scripting.com/2024/10/09.html#a205740>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-09, from: Dave Winer's Scripting News)
+
+<a href="https://scripting.wordpress.com/2005/12/16/new-orleans-notes/">Summary</a> of my posts about New Orleans in December 2005. 
+
+<http://scripting.com/2024/10/09.html#a205632>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-09, from: Dave Winer's Scripting News)
+
+December 2005: <a href="https://flickr.com/photos/scriptingnews/albums/1588659/">Biloxi/Gulfport after Katrina</a>.
+ 
+
+<http://scripting.com/2024/10/09.html#a205202>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-09, from: Dave Winer's Scripting News)
+
+After Katrina I <a href="http://scripting.com/2005/12.html">went to New Orleans</a> to see what was left, esp in the areas where there was a 15-25 foot storm surge in coastal Mississippi. If you went inland from the coast for a few miles there was nothing left. No trees, only a few skeletal all-concrete buildings where the beach used to be, otherwise <a href="https://flickr.com/photos/scriptingnews/73989089/in/album-1588659">everything destroyed</a>. What you don't necessarily realize that it isn't just 15 feet of water, it's 15 feet of stormy ocean with cars and building debris being pushed around floating in the water. This <a href="https://www.threads.net/@davew/post/DA5zrXQJVYE">video</a> on Threads provides a visual illustration of what a 9 foot surge is like.
+ 
+
+<http://scripting.com/2024/10/09.html#a204740>
+
+---
+
+##  Waffle House &#8220;has developed an advanced storm center FEMA consults with&#8221;. Their... 
+
+date: 2024-10-09, updated: 2024-10-09, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/0045427-waffle-house-has-develope>
+
+---
+
+## History Extra for October 8, 2024
+
+date: 2024-10-09, from: Heather Cox Richardson blog
+
+On October 8, 1871, dry conditions and strong winds drove deadly fires through the Midwest. 
+
+<https://heathercoxrichardson.substack.com/p/history-extra-for-october-8-2024>
+
+---
+
+##  On Monday, Dave Winer&#8217;s Scripting News turned 30 years old. Dave is... 
+
+date: 2024-10-09, updated: 2024-10-09, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/0045422-on-monday-dave-winers-scr>
+
+---
+
+##  Stupid dipshits are starting to fill Wikipedia with &#8220;unsourced, poorly-written AI-generated content&#8221;... 
+
+date: 2024-10-09, updated: 2024-10-09, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/0045417-stupid-dipshits-are-start>
+
+---
+
+##  Green Day &#8220;demastered&#8221; their 1994 album Dookie into 15 &#8220;obscure, obsolete, and... 
+
+date: 2024-10-09, updated: 2024-10-09, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/0045421-green-day-demastered-thei>
+
+---
+
+## October 8, 2024
+
+date: 2024-10-09, from: Heather Cox Richardson blog
+
+ 
+
+<https://heathercoxrichardson.substack.com/p/october-8-2024-83b>
+
+---
+
+##  Erin Kissane on Trying to Save the Internet for the Humans 
+
+date: 2024-10-09, updated: 2024-10-09, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/erin-kissane-on-trying-to-save-the-internet-for-the-humans>
+
+---
+
+##  Comet Tsuchinshan-ATLAS should be visible with the naked eye in the night... 
+
+date: 2024-10-09, updated: 2024-10-09, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/0045418-comet-tsuchinshan-atlas-s>
+
+---
+
+## Moom 4 Is Excellent, But Not Available in the Mac App Store
+
+date: 2024-10-09, updated: 2024-10-09, from: Daring Fireball
+
+ 
+
+<https://manytricks.com/blog/?p=6385#more-6385>
+
+---
+
+## Microsoft’s Final Surface Duo Software Update
 
 date: 2024-10-09, updated: 2024-10-09, from: Daring Fireball
 
@@ -19,13 +831,23 @@ date: 2024-10-09, updated: 2024-10-09, from: Daring Fireball
 
 ---
 
-## CoverSutra Is Returning
+## CoverSutra (I Think!) Is Returning
 
 date: 2024-10-09, updated: 2024-10-09, from: Daring Fireball
 
  
 
 <https://sophiestication.com/NightOfTheLivingApp/>
+
+---
+
+##  &#8220;Milton Is the Hurricane That Scientists Were Dreading&#8221; 
+
+date: 2024-10-09, updated: 2024-10-09, from: Jason Kittke's blog
+
+ 
+
+<https://kottke.org/24/10/milton-is-the-hurricane-that-scientists-were-dreading>
 
 ---
 
@@ -66,40 +888,6 @@ date: 2024-10-09, from: Enlightenment Economics blog
 I read Sam Freedman&#8217;s Failed State: Why Nothing Works and How We Fix It with a mixture of nods of recognition and gasps of disbelief. It&#8217;s all too apparent  that &#8211; as the subtitle puts it &#8211; nothing works in &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2024/10/the-narrow-path-from-votes-of-despair/">Continue reading <span class="meta-nav">&#8594;</span></a> 
 
 <http://www.enlightenmenteconomics.com/blog/index.php/2024/10/the-narrow-path-from-votes-of-despair/>
-
----
-
-## 2024-10-09 Why are megadungeons great?
-
-date: 2024-10-09, from: Alex Schroeder's Blog
-
-<h1 id="2024-10-09-why-are-megadungeons-great">2024-10-09 Why are megadungeons great?</h1>
-
-<p>We all know the reason they are not great: there&rsquo;s so mega much to read!</p>
-
-<p>A well-written megadungeon doesn&rsquo;t require you to read it all, however.
-You should be able to run your first session by just reading about the area around the main entrance to the first level.
-Everything else should come later.</p>
-
-<p>Do not waste time role-playing in the nearby town before adventuring in the dungeon.</p>
-
-<p>Do not waste time exploring the wilderness around the main entrance before adventuring in the dungeon.</p>
-
-<p>Do not waste time searching for other entries before using the main entrance.</p>
-
-<p>A dungeon has &ldquo;regions&rdquo; that are not easily traversed because there aren&rsquo;t all that many places to cross from one region to the next. That&rsquo;s why you can get away with just preparing the area around the main entrance to the first level.</p>
-
-<p>The benefit of this approach is that players will revisit the area around the main entrance to the first level many times. And this is true all throughout the megadungeon. Players will return to known locations many times. For the person running the megadungeon, this is great. Only small things have changed as far as prep is concerned but the interactions between the things is vastly different.</p>
-
-<p>The map remains the same. The rooms remain the same. Perhaps new monsters have shown up. Perhaps this time they have a different routine. Perhaps they don&rsquo;t want to fight, this time. Perhaps they&rsquo;re complaining about something and need the party&rsquo;s help, this time.</p>
-
-<p>This is the thing! This is why megadungeons are great.</p>
-
-<p>The locations, numbers, attitudes and reactions of goblins and beetles is easy to change on the spot but writing and drawing a new dungeon is not. Every location can be visited many times and it&rsquo;ll still be interesting. New traps, new monsters, new treasures; same monsters, new reactions, new quests, new allies. This stuff is easy for us to improvise.</p>
-
-<p><a class="tag" href="/search/?q=%23RPG">#RPG</a> <a class="tag" href="/search/?q=%23Megadungeon">#Megadungeon</a></p> 
-
-<https://alexschroeder.ch/view/2024-10-09-why-are-megadungeons-great>
 
 ---
 
@@ -758,346 +1546,6 @@ date: 2024-10-07, updated: 2024-10-07, from: Jason Kittke's blog
  
 
 <https://kottke.org/24/10/0045389-lots-of-good-links-and>
-
----
-
-## 2024-10-07 Massengefechte
-
-date: 2024-10-07, from: Alex Schroeder's Blog
-
-<h1 id="2024-10-07-massengefechte">2024-10-07 Massengefechte</h1>
-
-<blockquote>
-<p>Dieser Artikel ist erstmals in
-<a href="https://lkh.sdf-eu.org/wandererbill/grenzland/">Grenzland Nr. 4</a>
-erschienen.</p>
-</blockquote>
-
-<p>Massengefechte bieten eine interessante Abwechslung, genauso wie
-Spielabende, wo man die Monsterseite spielt oder wo man als Däumlinge
-unterwegs ist und dergleichen mehr.</p>
-
-<p>Um ein Massengefecht vorzubereiten, gilt es auf der Karte
-potentielle Freunde und Feinde zu verteilen, jeweils mit mindestens
-einer Person, mit der sich interagieren lässt. Die Feinde bauen den
-Druck auf, der von den Spielerinnen und Spielern gelöst werden muss.
-Schon bald machen sich die verschieden Parteien in Gerüchten,
-Zufallsbegegnungen und Horten bemerkbar.</p>
-
-<p>Typischerweise könnte man so das Problem mit einer Infiltration lösen:
-Die Gruppe muss die wichtigen Bösewichte in Festungen und
-unterirdischen Anlagen finden und ausschalten. Man könnte das Problem
-auch mit Diplomatie lösen: Die Gruppe muss Verhandlungen führen,
-Geschenke überbringen und möglicherweise Tribut zahlen, um den Krieg
-abzuwenden.</p>
-
-<p><img loading="lazy" src="2024-07-09-murten-10.png" alt="A black and white depiction of the battle" /></p>
-
-<blockquote>
-<p>Die Schlacht bei Murten, Seite 265, aus Stumpf, Johannes: Gemeiner
-loblicher Eydgnoschafft Stetten, Landen und Völckeren Chronick
-wirdiger Thaaten Beschreybung [&hellip;]. Getruckt Zürych in der
-Eydgnoschafft : bey Christoffel Froschouer, 1548. Zentralbibliothek
-Zürich., AW 40: 1-2</p>
-
-<p><a href="https://doi.org/10.3931/e-rara-5076">https://doi.org/10.3931/e-rara-5076</a> / Public Domain Mark</p>
-</blockquote>
-
-<p>Eine Massenschlacht bahnt sich an, sobald klar ist, dass nicht jedes
-Problem mit Diplomatie, Infiltration und Mord gelöst werden kann. Es
-dauert einfach zu lange. Die Gegenseite ist mit ihren Vorbereitungen
-schnell und effizient, ihre Dungeons und Festungen sind zu stark, ihre
-Fallen zu gefährlich, ihre Zauber zu mächtig, ihre Ansprüche zu hoch.
-Den Bösewichten kann man nur auf dem offenen Schlachtfeld die Stirn
-bieten.</p>
-
-<p>Um die Idee der Massenschlacht nach und nach einzuführen, gibt es bei
-Begegnungen mit potentiellen Freunden Hinweise auf den Expansionswillen
-der Gegenseite und auf den mangelnden Kooperationswillen neutraler
-Parteien. Daraus ergeben sich diplomatische Missionen, um den
-Zusammenhalt der eigenen Seite zu stärken. Zudem fallen der Gruppe bei
-unabhängigen Abenteuern Pläne und Hinweise in die Hände, die den
-Expansionswillen der Gegner belegen. Auf der eigenen Seite hat es Machthaber,
-denen man diese Hinweise überbringen kann, was dann zu
-Spionagemissionen führt. Auf diesen Missionen findet die Gruppe Belege
-für die Grösse und die Organisation der Gegenseite und es wird klar,
-dass die eigene Seite ebenfalls organisiert werden muss.</p>
-
-<p>Ab diesem Moment sind die Weichen auf Krieg gestellt. Idealerweise
-gibt es nun einen Zeitplan, der so aufgebaut ist, dass man in der
-verbleibenden Zeit einen Teil der neutralen Parteien zu Verbündeten
-machen kann. Damit ist die Gruppe gezwungen, Entscheidungen zu fällen.
-Wen will man auf der eigenen Seite? Wer läuft Gefahr, zur Gegenseite
-überzulaufen? Wer ist besonders wertvoll?</p>
-
-<p>Der Zeitdruck wird der Spielerschaft klar kommuniziert. Wird mit einem
-1:1 Kalender gespielt, vergeht zwischen wöchentlichen Spielabenden
-auch ein Woche in der Spielwelt, in der die Gegenseite sich
-vorbereiten kann. Es lohnt sich nicht, dies zu simulieren. Ist die
-Zeit abgelaufen, fallen der Gegenseite alle verbleibenden neutralen
-Parteien zu. Es wird davon ausgegangen, dass die Gegenseite bei allen
-neutralen Parteien Agenten hat, welche die Partei in ihrem Sinne zu
-beeinflussen versucht. Das Neutralisieren oder Umkehren solcher
-Agenten ist Teil der Herausforderung.</p>
-
-<p>Die Anzahl Parteien muss zum Zeitplan passen. Wenn wir von 12 Parteien
-ausgehen und drei Spielabende pro Partei für unsere Runde ein
-entspanntes Abenteuer sind, dann braucht es 18 Spielabende, um die
-Hälfte der Parteien (6×3) auf die eigene Seite zu ziehen. Wenn die
-Gruppe in der gleichen Zeit mehr Freunde gewinnt, soll das ihr Vorteil
-sein. Die Spielleitung muss für jede der 12 Parteien ungefähr drei
-Spielabende Unterhaltung vorbereiten: Anreise, Begegnungen, Gespräche,
-Probleme beseitigen oder sonstige Gefallen leisten, und so weiter.</p>
-
-<p>Die Parteien können und sollen untereinander unbekannte Loyalitäten
-und Rivalitäten haben, welche die Spielerinnen und Spieler erst
-entdecken und möglicherweise entschärfen oder ausnützen können.</p>
-
-<h2 id="die-konfliktparteien">Die Konfliktparteien</h2>
-
-<p>In der folgenden Liste hat es 12 Parteien und Gorga von den
-Dunkelklauenechsen ist der Hauptgegner.</p>
-
-<ul>
-<li><p><strong>Gorgas</strong>
-ist der Anführer der Dunkelklauenechsen und lässt Eier des eigenen
-Stammes in Drachenblut einweichen, damit daraus Superkrieger
-entstehen.</p></li>
-
-<li><p><strong>Matacabra</strong>
-ist die Anführerin der Schwarzflussechsen, die von den
-Dunkelklauenechsen unterdrückt werden.</p></li>
-
-<li><p><strong>Edelbauch</strong>
-ist Anführerin der Goldaugenkobolde. Diese wurden von Gorgas
-angeheuert, um die Belagerungsmaschinen zu bauen,
-welche die Burg vom Blausee schleifen sollen.</p></li>
-
-<li><p><strong>Purdefel</strong>
-der Weise ist Burgherr von Blausee und Anführer der Menschen. Damit
-ist es auch Schutzherr der Holzfäller und Goldsucher.</p></li>
-
-<li><p><strong>Berta</strong>
-ist die Anführerin der Gnomenbande, welche das Holzfällerlager von
-Ledinan kontrolliert.</p></li>
-
-<li><p><strong>Barzidom</strong>
-ist Anführer der Ogermagier, welche in der Ruine des Odin Tempels ihr
-Unwesen treibt.</p></li>
-
-<li><p><strong>Quinn</strong>
-ist der König der fliegenden Affen, welcher in der Ruine des
-Wassertempels herrscht.</p></li>
-
-<li><p><strong>Sanael</strong>
-ist Anführer der letzten Elfen im Wald. Sie beschäftigen sich mit der
-Greifenzucht.</p></li>
-
-<li><p><strong>Apanal</strong>
-ist der Flussdrache des gleichnamigen Flusses, der durch den Wald
-fliesst. Er meint, dass alle Schätze im Wald Teil seines Schatzes
-sind.</p></li>
-
-<li><p><strong>Kaia</strong>
-ist die ehemalige Anführerin der Steinherzfestung. Sie und alle anderen
-Familienoberhäupter sind einem Kettenteufel verfallen.</p></li>
-
-<li><p><strong>Treibniz</strong>
-ist Priester des Orcus Tempels und ein böser Geselle, aber er kann
-Tote wieder zum Leben erwecken und Zombies kontrollieren.</p></li>
-
-<li><p><strong>Purbok</strong>
-ist Anführer der Goblinjäger von Grezneck. Die Hälfte seiner Leute ist
-wird im letzten Moment zu Treibniz überlaufen, der den Goblins ewiges
-Leben verspricht.
-.SH
-Langsame Eskalation</p></li>
-</ul>
-
-<p>Erst nach und nach erfahren die Spieler, dass sich etwas zusammenbraut.</p>
-
-<ul>
-<li><p>Die Holzfäller berichten, dass die Schwarzflussechsen kaum mehr
-gesichtet werden.</p></li>
-
-<li><p>Die fliegenden Affen berichten, dass es Echsen auf Riesenlibellen
-gibt, welche den Luftraum unsicher machen.</p></li>
-
-<li><p>Im Freya Tempel wird berichtet, dass der Kreislauf des Lebens
-korrumpiert wird.</p></li>
-
-<li><p>Bei einer Bande Kobolden wird ein Brief des Gorgas an Edelbauch
-gefunden, wo ihr ein lukratives Angebot gemacht wird.</p></li>
-
-<li><p>Die Goblinjäger berichten, dass das Schwert
-.I Sumpffeuer
-gefunden worden ist. Es wurden den Abenteurern allerdings von Gorgas
-Echsenkriegern abgenommen.</p></li>
-
-<li><p>Eine geflohene Schwarzflussechse berichtet, dass neuerdings alle Eier
-den Schergen des Gorgas abgegeben werden müssen.</p></li>
-
-<li><p>Die Holzfäller berichten, dass der Fluss nach Essig und Schwefel
-riecht, denn der Drache sei von Zorn erfüllt.</p></li>
-
-<li><p>Der Burgherr von Blausee sucht nach tapferen Recken, welche den
-Einfällen der Schwarzflussechsen ein Ende bereiten.</p></li>
-
-<li><p>Bei Kämpfen mit den Schwarzflussechsen zeigt sich, dass diese extrem
-stark und gefährlich sind.</p></li>
-</ul>
-
-<p>Bei jeder Begegnung gibt es weitere Hinweise darauf, die zeigen, dass
-etwas in Bewegung ist.</p>
-
-<p>Bei den jeweiligen Abenteuern, wo Spielerinnen und Spieler Verbündete
-gewinnen können, sollte schnell klar sein, unter welchen Umständen
-diese mitkämpfen würden und wie stark die Einheiten dann wären (siehe
-unten). Hier sollte mit offenen Karten gespielt werden, damit die
-Gruppe den Versuch auch schnell abbrechen kann, wenn es die Zeit nicht
-wert scheint.</p>
-
-<p>Die entsprechenden Abenteuer müssen natürlich von der Spielleitung
-noch zusammengestellt werden. Diese würden den Rahmen des Artikels
-leider sprengen.
-.SH
-Die Einheiten</p>
-
-<p>Beide Seiten werden in Einheiten mit gleichen Werten eingeteilt.
-Anführer werden von ihren Einheiten unterstützt.</p>
-
-<ul>
-<li><p><strong>Gorgas</strong>
-TW 7 RK 3 mit Sumpffeuer (RW vs. Gift oder Tod) BW 6 mit 100
-.B Dunkelklauenechsen
-TW 2+1 RK 5 BW 6 ML 9
-und 50
-.B Superechsen
-TW 4+1 RK 5 BW 6 ML 11</p></li>
-
-<li><p><strong>Matacabra</strong>
-TW 5 RK 5 BW 6 mit Zaubersprüchen Nebelwand (keine Fernwaffen) und
-Angst (alle Gegner mussen einen RW vs. Sprüche oder Flucht) und 30
-Schwarzflussechsen TW 2+1 RK 5 BW 6 ML 9</p></li>
-
-<li><p><strong>Edelbauch</strong>
-und 40 Kobolde TW 1-1 RK 7 BW 6 ML 7 wobei je 4 ein Katapult (3 TW) bedienen</p></li>
-
-<li><p><strong>Purdefel</strong>
-TW 5 RK 2 BW 6 und 50 Soldaten TW 1 RK 4 BW 6 inkl. Armbrüste</p></li>
-
-<li><p><strong>Berta</strong>
-TW 3 RK 7 BW 6 mit Zaubersprüchen Schlaf (2W8 Gegner) und Farbspray
-(1W8 Gegner) und 20 Messerstechergnome TW 1 RK 7 BW 6 ML 7 und 6
-Riesenwiesel TW 2 RK 8 BW 15 ML 6</p></li>
-
-<li><p><strong>Barzidom</strong>
-mit 5 weiteren Ogermagiern mit Zaubersprüchen Fliegen, Unsichtbarkeit
-und Nebel (keine Fernwaffen) und 20 Oger, all TW 4+1 RK 5 BW 9 ML 8</p></li>
-
-<li><p><strong>Quinn</strong>
-TW 5 RK 9 BW 12 mit 20 fliegenden Affen TW 2 RK 9 BW 12 ML 6, alle
-fliegend, mit einmaligem Bombardement aus der Luft (3 TW)</p></li>
-
-<li><p><strong>Sanael</strong>
-mit 20 Elfen TW 1+1 RK 5 BW 9 ML 8 alle mit Unsichtbarkeit und Fernangriff
-und 10 Greifen TW 7 RK 7 BW 30 ML 8</p></li>
-
-<li><p><strong>Apanal</strong>
-mit Zauberspruch Schlaf (2W8 Gegner) und Drachenodem (Blitze) nach belieben
-TW 9 RK 2 BW 24</p></li>
-
-<li><p><strong>Kaia</strong>
-und 50 Zwerge TW 1 RK 4 BW 6 ML 9</p></li>
-
-<li><p><strong>Treibniz</strong>
-TW 7 RK 2 BW 6 mit Zauberspruch Flammenschlag (5 TW) und 20 Zombies TW
-1 RK 8 BW 6</p></li>
-
-<li><p><strong>Purbok</strong>
-TW 3 RK 6 BW 6 und 30 Goblinjäger TW 1-1 RK 6 BW 6</p></li>
-</ul>
-
-<h2 id="die-regeln">Die Regeln</h2>
-
-<p>In Massenschlachten gibt es pro TW einen Angriff mit dem W20. Jeder
-Treffer verursacht 1 TW Schaden, multipliziert mit dem Gewicht der
-Einheit.</p>
-
-<table>
-<thead>
-<tr>
-<th align="center">Anzahl</th>
-<th align="center">Gewicht</th>
-<th align="center">Anzahl</th>
-<th align="center">Gewicht</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td align="center">2–5</td>
-<td align="center">×3</td>
-<td align="center">41–80</td>
-<td align="center">×7</td>
-</tr>
-
-<tr>
-<td align="center">6–10</td>
-<td align="center">×4</td>
-<td align="center">81–160</td>
-<td align="center">×8</td>
-</tr>
-
-<tr>
-<td align="center">11–20</td>
-<td align="center">×5</td>
-<td align="center">161–320</td>
-<td align="center">×9</td>
-</tr>
-
-<tr>
-<td align="center">21–40</td>
-<td align="center">×6</td>
-<td align="center">320–640</td>
-<td align="center">×10</td>
-</tr>
-</tbody>
-</table>
-<p>Sind mehrere Einheiten am gleichen Ort, bestimmt die Verteidigung,
-welche Einheit getroffen wird. Über Verletzte wird nicht Buch geführt:
-Wer die Runde überlebt, bleibt ungeschwächt. Zaubersprüche werden
-passend geregelt.</p>
-
-<p>Matacabra und ihre 30 Echsen und die 50 Superechsen von Gorgas nähern
-sich im Schutz von magischem Nebel dem Lager von Barzidom, den 5
-Ogermagiern und den 20 Ogern. Die Gegner können im Nebel nichts
-erkennen und so kommt es zum Nahkampf.</p>
-
-<p>Die Oger schützen die Ogermagier. Matacabra würfelt 5W20 und trifft
-für 1 TW Schaden (Gewicht für 1). Die Echsen würfeln 2W20 und
-verfehlen. Die Superechsen würfeln  4W20 und treffen für 1 TW×7
-Schaden (Gewicht für 50). Da die Oger TW 4+1 haben, bedeuten 8 TW, dass
-2 Oger erschlagen wurden.</p>
-
-<p>Die Echsen nehmen den Gegenschlag auf sich. Die 5 Ogermagier würfeln
-4W20 und treffen für 2 TW×3 Schaden (Gewicht für 5). Die Oger würfeln
-4W20 und treffen für 2 TW×5 Schaden (Gewicht für 20). Da die Echsen TW
-2+1 haben, bedeuten 16 TW, dass 8 Schwarzflussechsen erschlagen
-wurden.</p>
-
-<p>Die Oger und die Schwarzflussechsen müssen einen Moralwurf bestehen
-oder sie brechen und werden handlungsunfähig. Solange sie das Feld
-nicht verlassen haben, können Anführer sie mit einer eigenen Aktion
-sammeln. Die anwesenden Einheiten dürfen dann einen erneuten Moralwurf
-machen.</p>
-
-<p>Werden gebrochene Einheiten noch einmal getroffen, fliehen sie vom
-Feld. Gegner im Nahkampf dürfen noch einmal mit +2 angreifen.</p>
-
-<p><a class="tag" href="/search/?q=%23RSP">#RSP</a> <a class="tag" href="/search/?q=%23Massenschlachten">#Massenschlachten</a></p> 
-
-<https://alexschroeder.ch/view/2024-10-07-massengefechte>
 
 ---
 

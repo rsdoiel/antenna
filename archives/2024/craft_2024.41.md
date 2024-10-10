@@ -1,11 +1,21 @@
 ---
 title: craft
-updated: 2024-10-09 08:15:49
+updated: 2024-10-10 07:05:40
 ---
 
 # craft
 
-(date: 2024-10-09 08:15:49)
+(date: 2024-10-10 07:05:40)
+
+---
+
+## Jaws
+
+date: 2024-10-10, from: Lost Arg Press blog
+
+Every chair class Chris teaches seems to develop its own gravitational pull. It&#8217;s inevitable – if you orbit within 50 feet of a class taught by Chris Schwarz you will get sucked in. Now getting sucked into a class can mean many different things: Perhaps it means assisting students taper chair legs by hand until... 
+
+<https://blog.lostartpress.com/2024/10/10/jaws/>
 
 ---
 

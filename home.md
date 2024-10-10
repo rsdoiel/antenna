@@ -1,11 +1,132 @@
 ---
 title: home
-updated: 2024-10-09 08:15:44
+updated: 2024-10-10 07:05:35
 ---
 
 # home
 
-(date: 2024-10-09 08:15:44)
+(date: 2024-10-10 07:05:35)
+
+---
+
+## String of Turtles Plant Care and Growing Guide (Most Detailed)
+
+date: 2024-10-10, from: Yard Life blog
+
+<p>The String of Turtles (Peperomia prostrata) is a charming succulent admired for its unique, turtle shell-patterned leaves and trailing vines. ... </p>
+<p class="read-more-container"><a title="String of Turtles Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/string-of-turtles-plant-care-and-growing-guide-most-detailed/#more-20533" aria-label="Read more about String of Turtles Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/string-of-turtles-plant-care-and-growing-guide-most-detailed/">String of Turtles Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<https://ownyardlife.com/string-of-turtles-plant-care-and-growing-guide-most-detailed/>
+
+---
+
+## These 4 Changes Will Make Your Home Feel Cozier and More Inviting
+
+date: 2024-10-09, from: Sunset Magazine - Living in the West
+
+For a cozier home, you'll need to be strategic about the colors and textures you use. Interior designers share their best tips. 
+
+<https://www.sunset.com/home-garden/design/how-to-make-home-cozy>
+
+---
+
+## 11 Tips on How to Grout a Backsplash
+
+date: 2024-10-09, from: Family Handyman Blog
+
+<p>Follow these tips to grout your backsplash like a pro.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/how-to-grout-backsplash/">11 Tips on How to Grout a Backsplash</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/list/how-to-grout-backsplash/>
+
+---
+
+## Washington Woman Fed Raccoons for 35 Years, Now She’s Regretting It Big Time
+
+date: 2024-10-09, from: Family Handyman Blog
+
+<p>Feeding the local raccoon population turned into a living nightmare for a woman in Washington. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/dont-feed-raccoons/">Washington Woman Fed Raccoons for 35 Years, Now She&#8217;s Regretting It Big Time</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<https://www.familyhandyman.com/article/dont-feed-raccoons/>
+
+---
+
+## Chefs and Foodies Used to Hate this Ingredient. Now They Can’t Stop Using It.
+
+date: 2024-10-09, from: Sunset Magazine - Living in the West
+
+Packaged dried pasta used to be a major no-no for food lovers and chefs alike. Now it's having a real moment. 
+
+<https://www.sunset.com/food-wine/best-new-dried-pasta-brands>
+
+---
+
+## The ‘Electroculture’ Gardening Trend Is Making a Comeback. Here’s What to Know About It.
+
+date: 2024-10-09, from: Sunset Magazine - Living in the West
+
+Electroculture is a real thing, and well, using it in your garden is as sci-fi as it sounds. We explaing the latest gardening trend. 
+
+<https://www.sunset.com/home-garden/garden-basics/electroculture-gardening-trend>
+
+---
+
+## Rental Revamp: Two Shark Tank Champs Find Paradise in a Former Venice Beach Campground
+
+date: 2024-10-09, from: Dwell
+
+Yellow Leaf Hammocks founders Joe Demin and Rachel Connors carve out their own slice of Eden flush with greenery, an inflatable jacuzzi, and plenty of places to hang out. 
+
+<https://www.dwell.com/article/rental-revamp-venice-beach-bungalow-yellow-leaf-hammocks-los-angeles-686135e5>
+
+---
+
+## Farm to School Month — incorporating produce into school meal programs in San Luis Obispo
+
+date: 2024-10-09, from: Calfifornia Dept. Aggriculture blog
+
+October is National Farm to School Month. CDFA encourages educators, school food service employees, farmers and farm to school enthusiasts across California to join in the celebration. Visit https://www.farmtoschool.org/ for more information. The organization Slow Money San Luis Obispo (SLO) &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28313">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28313>
+
+---
+
+## Architect Victor Lundy’s Home Lists for $1.7M Near Houston
+
+date: 2024-10-09, from: Dwell
+
+Lundy designed the gallery-like dwelling with wide-open spaces encased in wood and glass—and he’s lived there since it was built in 1988. 
+
+<https://www.dwell.com/article/victor-lundy-house-bellaire-houston-texas-real-estate-3ce62fb4>
+
+---
+
+## Breaking Broody: What Is A Broody Hen And How To Stop It
+
+date: 2024-10-09, from: The Tiny Life blog
+
+<p>If you’re learning the ins and outs of raising chickens and all the lingo that goes along with it, you might have heard reference to a broody hen, so it’s a fair question to wonder—what is a broody hen? Basically, broodiness is an obsession with hatching eggs. It’s what happens when your hen’s mothering instinct takes over, whether or not she has fertilized eggs.</p>
+<p>The post <a href="https://thetinylife.com/what-is-a-broody-hen/">Breaking Broody: What Is A Broody Hen And How To Stop It</a> appeared first on <a href="https://thetinylife.com">The Tiny Life</a>.</p>
+ 
+
+<https://thetinylife.com/what-is-a-broody-hen/>
+
+---
+
+## How to Overwinter Artichoke Plants
+
+date: 2024-10-09, from: The Gardener's Path
+
+<p>Artichokes are perennials that can produce for decades, but gardeners in cold regions often grow them as annuals. If you live in a northern climate, you can do some preparations before winter to keep your plants coming back year after year. Learn how to winterize artichoke plants in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/overwinter-artichokes/">How to Overwinter Artichoke Plants</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<https://gardenerspath.com/plants/vegetables/overwinter-artichokes/>
 
 ---
 
@@ -29,6 +150,46 @@ date: 2024-10-09, from: Dwell
 Treat yourself to a head that mimics a waterfall or a stone bath mat made of diatomaceous earth. 
 
 <https://www.dwell.com/article/everything-i-bought-to-make-my-boring-shower-feel-like-a-spa-a76cc7bb>
+
+---
+
+## Disneyland Just Brought Back a New Transportation Option for the First Time in 4 Years
+
+date: 2024-10-09, from: Sunset Magazine - Living in the West
+
+There’s good news for Monorail riders: the nose cone section is open to the public once again after closing during the pandemic. 
+
+<https://www.sunset.com/lifestyle/disneyland-monorail-nose-cone-open>
+
+---
+
+## Disneyland’s Iconic It’s a Small World Ride Is Closing for Months
+
+date: 2024-10-09, from: Sunset Magazine - Living in the West
+
+Disneyland California's It's a Small World ride will close for upgrades and repairs, as well as preparations for the holiday season. 
+
+<https://www.sunset.com/travel/disneylands-its-a-small-world-ride-closure>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-10-09, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<https://www.sunset.com/>
+
+---
+
+## Coffee Lovers Rejoice: Delicious Recipes You Didn’t Know You Needed
+
+date: 2024-10-09, from: Sunset Magazine - Living in the West
+
+Coffee lovers rejoice: delicious recipes you didn’t know you needed. 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/don-francisco-national-coffee-day-recipes>
 
 ---
 
@@ -230,16 +391,6 @@ date: 2024-10-08, from: Sunset Magazine - Living in the West
 Amazon's Big Deal Days is the biggest shopping event of fall. Our editors share their favorite picks for Amazon October Prime Day. 
 
 <https://www.sunset.com/lifestyle/shopping/amazon-october-big-deal-days-2024>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-10-08, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<https://www.sunset.com/>
 
 ---
 

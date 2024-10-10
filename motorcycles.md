@@ -1,11 +1,81 @@
 ---
 title: motorcycles
-updated: 2024-10-09 08:15:46
+updated: 2024-10-10 07:05:37
 ---
 
 # motorcycles
 
-(date: 2024-10-09 08:15:46)
+(date: 2024-10-10 07:05:37)
+
+---
+
+## The Last Two Laps of the Motocross Olympics Would Make Even Your Grandma a Fan
+
+date: 2024-10-10, from: Ride Apart, Electric Motorcycle News
+
+This is "Must See TV". 
+
+<https://www.rideapart.com/news/736615/mxon-final-two-laps-video/>
+
+---
+
+## Honda Launches Two More EV Models, In A Bid To Hit Its 2030 Goals
+
+date: 2024-10-10, from: Ride Apart, Electric Motorcycle News
+
+The same solutions won't work for every market, so Honda is tailoring its options carefully to each region's needs. 
+
+<https://www.rideapart.com/news/736767/honda-cuv-icon-ev-indonesia/>
+
+---
+
+## This Tiny Scrambler Looks Like a Fun Way To Get Into Motorcycles
+
+date: 2024-10-10, from: Ride Apart, Electric Motorcycle News
+
+The AJS ‘71 Scrambler is as simple as it gets.  
+
+<https://www.rideapart.com/news/736642/ajs-71-desert-scrambler-beginner-motorcycle/>
+
+---
+
+## World Rally-Raid Event Claims French Rider’s Life at Rally of Morocco
+
+date: 2024-10-10, from: Ride Apart, Electric Motorcycle News
+
+These are the realities of racing, but it never gets any easier to hear. 
+
+<https://www.rideapart.com/news/736758/french-rider-dies-rally-morocco/>
+
+---
+
+## KTM's Automatic Transmission is Actually Good, OK
+
+date: 2024-10-10, from: Ride Apart, Electric Motorcycle News
+
+No one is forcing you to buy one.  
+
+<https://www.rideapart.com/news/736765/ktm-amt-automatic-transmission-is-good-thing/>
+
+---
+
+## BMW Is Recalling R 18s Outfitted With Reverse Gears For a Very Specific Reason
+
+date: 2024-10-10, from: Ride Apart, Electric Motorcycle News
+
+Always check your o-rings, gaskets, and seals and you'll avoid so many headaches on every vehicle. 
+
+<https://www.rideapart.com/news/736730/bmw-r18-recall-reverse-gear/>
+
+---
+
+## Ariel’s E-Nomad Could Be The Perfect Overlander, But There’s a Problem
+
+date: 2024-10-10, from: Ride Apart, Electric Motorcycle News
+
+Its 150-mile range could leave a lot to be desired.  
+
+<https://www.rideapart.com/news/736676/ariel-enomad-concept-unveiled/>
 
 ---
 

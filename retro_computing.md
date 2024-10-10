@@ -1,11 +1,41 @@
 ---
 title: retro computing
-updated: 2024-10-09 08:15:46
+updated: 2024-10-10 07:05:38
 ---
 
 # retro computing
 
-(date: 2024-10-09 08:15:46)
+(date: 2024-10-10 07:05:38)
+
+---
+
+## Developers’ fireside chat – 12th October
+
+date: 2024-10-10, from: RiscOS Story
+
+This coming Saturday &#8211; 12th October &#8211; is the next opportunity for anyone with an interest in RISC OS and software development to gather together in front of the virtual fire for an informal chat. These meetings, which take place more or less monthly using the Zoom video conferencing system, are a way for people with that interest to get together and discuss anything related to programming on and for RISC OS. There is no pre-set agenda for these meetings, and no speaker arranged ahead of time. Instead, their informal&#8230; 
+
+<https://www.riscository.com/2024/developers-fireside-chat-12th-october/>
+
+---
+
+## b.log 2024/10/09 - My friend is fine, Hurricane Kirk, Printer Weirdness, Writers have no sense of scale.
+
+date: 2024-10-09, from: Richard Murray's blog
+
+My friend is fine, Hurricane Kirk, Printer Weirdness, Writers have no sense of scale. 
+
+<https://heyrick.eu/blog/index.php?diary=20241009>
+
+---
+
+## Thousands of Linux Servers Infected with Stealth Malware Since 2021
+
+date: 2024-10-09, from: Linux Magazine
+
+<p>Perfctl is capable of remaining undetected, which makes it dangerous and hard to mitigate.</p> 
+
+<http://www.linux-magazine.com/Online/News/Thousands-of-Linux-Servers-Infected-with-Stealth-Malware-Since-2021>
 
 ---
 

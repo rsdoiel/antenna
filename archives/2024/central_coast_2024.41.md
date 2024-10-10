@@ -1,11 +1,135 @@
 ---
 title: central coast
-updated: 2024-10-09 08:15:38
+updated: 2024-10-10 07:05:30
 ---
 
 # central coast
 
-(date: 2024-10-09 08:15:38)
+(date: 2024-10-10 07:05:30)
+
+---
+
+## Scarecrow Season
+
+date: 2024-10-10, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092324-POD-Daniel-Tangney.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Scarecrow season." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092324-POD-Daniel-Tangney.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092324-POD-Daniel-Tangney.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092324-POD-Daniel-Tangney.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092324-POD-Daniel-Tangney.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092324-POD-Daniel-Tangney.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092324-POD-Daniel-Tangney.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092324-POD-Daniel-Tangney.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092324-POD-Daniel-Tangney.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092324-POD-Daniel-Tangney.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092324-POD-Daniel-Tangney.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092324-POD-Daniel-Tangney.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092324-POD-Daniel-Tangney.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/scarecrow-season/">Scarecrow Season</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/scarecrow-season/>
+
+---
+
+## Dos Pueblos Girls Flag Football Routs Santa Barbara, 41-12, in Regular Season Finale
+
+date: 2024-10-10, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/dp-girls-flag.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/dp-girls-flag.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/dp-girls-flag.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/dp-girls-flag.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/dp-girls-flag.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/dp-girls-flag.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/dp-girls-flag.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/dp-girls-flag.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/dp-girls-flag.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/dp-girls-flag.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Dos Pueblos girls flag football dominated from start to finish in a 41-12 victory over Santa Barbara High in Wednesday night’s regular-season finale at Scott O’Leary Stadium. With the win, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/dos-pueblos-girls-flag-football-routs-santa-barbara-41-12-in-regular-season-finale/">Dos Pueblos Girls Flag Football Routs Santa Barbara, 41-12, in Regular Season Finale</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/dos-pueblos-girls-flag-football-routs-santa-barbara-41-12-in-regular-season-finale/>
+
+---
+
+## San Marcos Girls Flag Football Secures Comeback Win Over Oxnard to End Regular Season
+
+date: 2024-10-10, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>San Marcos girls flag football capped off the regular season in style, coming from behind to take down Oxnard by a score of 26-19 on Wednesday at Warkentin Stadium. With [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/san-marcos-girls-flag-football-secures-comeback-win-over-oxnard-to-end-regular-season/">San Marcos Girls Flag Football Secures Comeback Win Over Oxnard to End Regular Season</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/san-marcos-girls-flag-football-secures-comeback-win-over-oxnard-to-end-regular-season/>
+
+---
+
+## Santa Barbara Girls Volleyball Celebrates Senior Night with Sweep of Rival Dos Pueblos
+
+date: 2024-10-10, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sb-vs-dp-volley-cover.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sb-vs-dp-volley-cover.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sb-vs-dp-volley-cover.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sb-vs-dp-volley-cover.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sb-vs-dp-volley-cover.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sb-vs-dp-volley-cover.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sb-vs-dp-volley-cover.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sb-vs-dp-volley-cover.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sb-vs-dp-volley-cover.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sb-vs-dp-volley-cover.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Santa Barbara High girls volleyball earned a three-set sweep over a banged-up Dos Pueblos squad on Wednesday night at JR Richards Gym, 25-14, 25-10, 25-12. The Dons honored their seven-player [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-girls-volleyball-celebrates-senior-night-with-sweep-of-rival-dos-pueblos/">Santa Barbara Girls Volleyball Celebrates Senior Night with Sweep of Rival Dos Pueblos</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-girls-volleyball-celebrates-senior-night-with-sweep-of-rival-dos-pueblos/>
+
+---
+
+## Developer Rick Caruso Pitches Miramar Project to County Planning Commission
+
+date: 2024-10-10, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-Ric-Caruso-Miramar-1.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Ric Caruso, owner of the Rosewood Miramar Beach resort." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-Ric-Caruso-Miramar-1.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-Ric-Caruso-Miramar-1.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-Ric-Caruso-Miramar-1.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-Ric-Caruso-Miramar-1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-Ric-Caruso-Miramar-1.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-Ric-Caruso-Miramar-1.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-Ric-Caruso-Miramar-1.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-Ric-Caruso-Miramar-1.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-Ric-Caruso-Miramar-1.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>One of California&#8217;s iconic and picturesque resort hotels is at the center of a controversy that involves a prominent commercial real estate developer, a beloved church and dozens of upset [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/developer-ric-caruso-pitches-miramar-project-to-county-planning-commission/">Developer Rick Caruso Pitches Miramar Project to County Planning Commission</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/developer-ric-caruso-pitches-miramar-project-to-county-planning-commission/>
+
+---
+
+## No. 23 UCSB Men’s Soccer Battles to 1-1 Road Draw with CSU Bakersfield
+
+date: 2024-10-10, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The No. 23 UC Santa Barbara Men&#8217;s Soccer team erased a halftime deficit for the second time in as many Wednesdays on their road trip to Bakersfield, with Alexis Ledoux&#8217;s second-half goal [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/no-23-ucsb-mens-soccer-battles-to-1-1-road-draw-with-csu-bakersfield/">No. 23 UCSB Men&#8217;s Soccer Battles to 1-1 Road Draw with CSU Bakersfield</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/no-23-ucsb-mens-soccer-battles-to-1-1-road-draw-with-csu-bakersfield/>
+
+---
+
+## Councilman Oscar Gutierrez, Tony Becerra Divided on Santa Barbara Issues
+
+date: 2024-10-10, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-Oscar-Tony-Lead-photo-Courtesy-copy.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Tony Becerra and Oscar Gutierrez are facing off in the Nov. 5 election to represent District 3 on the Santa Barbara City Council." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-Oscar-Tony-Lead-photo-Courtesy-copy.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-Oscar-Tony-Lead-photo-Courtesy-copy.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-Oscar-Tony-Lead-photo-Courtesy-copy.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-Oscar-Tony-Lead-photo-Courtesy-copy.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-Oscar-Tony-Lead-photo-Courtesy-copy.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-Oscar-Tony-Lead-photo-Courtesy-copy.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-Oscar-Tony-Lead-photo-Courtesy-copy.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-Oscar-Tony-Lead-photo-Courtesy-copy.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-Oscar-Tony-Lead-photo-Courtesy-copy.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>In a storyline that seems more appropriate for a Netflix drama than Santa Barbara, a martial arts instructor is challenging one of his former students for the District 3 spot [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/councilman-faces-his-former-martial-arts-instructor-for-westside-seat/">Councilman Oscar Gutierrez, Tony Becerra Divided on Santa Barbara Issues</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/councilman-faces-his-former-martial-arts-instructor-for-westside-seat/>
+
+---
+
+## Santa Barbara High Girls Tennis Earns Rivalry Win Over San Marcos, 13-5
+
+date: 2024-10-10, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara High girls tennis came away with a 13-5 win in a crosstown rivalry matchup against San Marcos on Wednesday. “What strikes me as most impressive about this team [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-high-girls-tennis-earns-rivalry-win-over-san-marcos-13-5/">Santa Barbara High Girls Tennis Earns Rivalry Win Over San Marcos, 13-5</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-barbara-high-girls-tennis-earns-rivalry-win-over-san-marcos-13-5/>
+
+---
+
+## Carpinteria High Cross Country Places Fifth at Twilight Invitational
+
+date: 2024-10-10, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Carpinteria High cross country competed in the Twilight Invitational at Lake Casitas on Wednesday, with both the boys and girls teams taking home fifth place in their respective races. While [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/carpinteria-high-cross-country-places-fifth-at-twilight-invitational/">Carpinteria High Cross Country Places Fifth at Twilight Invitational</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/carpinteria-high-cross-country-places-fifth-at-twilight-invitational/>
+
+---
+
+## Santa Ynez High Girls Golf Defeats Dos Pueblos in Non-League Showdown
+
+date: 2024-10-10, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Ynez High girls golf took down Dos Pueblos in a non-league matchup on Wednesday at Alisal River Course, a par 36. The Pirates combined for a team score of [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-ynez-high-girls-golf-defeats-dos-pueblos-in-non-league-showdown/">Santa Ynez High Girls Golf Defeats Dos Pueblos in Non-League Showdown</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<https://www.noozhawk.com/santa-ynez-high-girls-golf-defeats-dos-pueblos-in-non-league-showdown/>
 
 ---
 

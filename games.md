@@ -1,11 +1,111 @@
 ---
 title: games
-updated: 2024-10-09 08:15:42
+updated: 2024-10-10 07:05:33
 ---
 
 # games
 
-(date: 2024-10-09 08:15:42)
+(date: 2024-10-10 07:05:33)
+
+---
+
+## The 30th anniversary PS5 is available to pre-order at more stores
+
+date: 2024-10-10, updated: 2024-10-10, from: Polygon Website
+
+The original PlayStation made its debut in Japan back in Dec. of 1994, meaning that very soon, the Sony console will be 30 years old. To celebrate, Sony is rolling out 30th anniversary editions of its current generation of hardware, including the PlayStation 5 Pro and regular PlayStation 5, all sporting the grey colors of [&#8230;] 
+
+<https://www.polygon.com/pre-order/456457/playstation-30th-anniversary-pro-bundle-controller-where-to-buy>
+
+---
+
+## The cover of the new Discworld tabletop RPG brings back a flood of memories
+
+date: 2024-10-10, updated: 2024-10-09, from: Polygon Website
+
+If, like me, you grew up in the U.K. in the 1980s (I appreciate that you probably didn’t), then the covers of Terry Pratchett’s Discworld novels must exert a strong nostalgic pull on you. In fact, they probably do if you’re any sort of fan of Pratchett’s long-running comedy fantasy series. Josh Kirby’s artwork was [&#8230;] 
+
+<https://www.polygon.com/tabletop-games/463865/the-cover-of-the-new-discworld-tabletop-rpg-brings-back-a-flood-of-memories>
+
+---
+
+## Where to pre-order the PS5 Pro
+
+date: 2024-10-10, updated: 2024-10-10, from: Polygon Website
+
+Sony’s powerful PlayStation 5 Pro is now available to pre-order at a wide variety of retailers, including Amazon, Best Buy, Walmart, GameStop, and Target. This follows a few weeks when it was only possible to pre-order one through PS Direct. No matter where you buy it from, the $699.99 console will ship on Nov. 7. [&#8230;] 
+
+<https://www.polygon.com/pre-order/449691/ps5-pro-ps-direct-amazon-best-buy>
+
+---
+
+## Pokémon and Planet Earth collide in this incredible YouTube series
+
+date: 2024-10-10, updated: 2024-10-10, from: Polygon Website
+
+This fan-made YouTube series has given me a newfound appreciation for the majesty of Pokémon. It’s called “Pokéarth” and it reimagines the fictional creatures as if they were the subjects of nature documentary series like Planet Earth. The episodes show a new side to beloved Pokémon like Wailord and Spheal. Animator EnlargedKai has released four episodes [&#8230;] 
+
+<https://www.polygon.com/youtube/463892/pokemon-pokeearth-nature-doc-remakes>
+
+---
+
+## Our favorite board games are still on sale after Prime Day
+
+date: 2024-10-10, updated: 2024-10-10, from: Polygon Website
+
+Amazon’s October Prime Day has officially come and gone — that’s the bad news. The good news is, a majority of our favorite board games are still on sale, albeit at a lower discount. If you had your eye on a certain worker placement strategy game or a spooky card game, there’s still a chance for [&#8230;] 
+
+<https://www.polygon.com/amazon-prime-day/455240/the-best-board-game-deals-of-october-prime-day>
+
+---
+
+## The Halloween Countdown: 31 days of horror to watch
+
+date: 2024-10-10, updated: 2024-10-10, from: Polygon Website
+
+Do you feel that? That chill in the air, that tingling sensation at the back of your neck? It can only mean one thing. That’s right: Halloween season is once again upon us! Here at Polygon, we love horror. We cover it all year round, whether it’s ranking the scariest new releases of the year [&#8230;] 
+
+<https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream>
+
+---
+
+## Mario &#038; Luigi’s new game feels fun and familiar, but maybe a little formulaic
+
+date: 2024-10-10, updated: 2024-10-10, from: Polygon Website
+
+The first new Mario &#38; Luigi game in nearly a decade is the long-awaited return to Nintendo’s wonderful sub-franchise of action role-playing games. Mario &#38; Luigi: Brothership evokes memories of the Mario Bros.’ lighthearted and colorful story-driven games, plus those of other Nintendo games, like The Legend of Zelda: The Wind Waker and Spirit Tracks. [&#8230;] 
+
+<https://www.polygon.com/impressions/463951/mario-luigi-brothership-nintendo-switch>
+
+---
+
+## House of Spoils star Ariana DeBose has isolated ‘the Blumhouse technique’
+
+date: 2024-10-10, updated: 2024-10-10, from: Polygon Website
+
+After a Fantastic Fest preview of Amazon Video’s lush, intense culinary-crisis horror movie House of Spoils, star Ariana DeBose said something designed to make any fan of horror-focused media powerhouse Blumhouse sit up and take notice: “I’d never done anything in this genre. I didn’t fully understand we were making a Blumhouse horror. […] And [&#8230;] 
+
+<https://www.polygon.com/horror/464027/ariana-debose-house-of-spoils-interview>
+
+---
+
+## Don&#8217;t miss out on the best Magic: The Gathering Prime Day deals before they sell out
+
+date: 2024-10-09, updated: 2024-10-10, from: Polygon Website
+
+It’s the final night of October Prime Day, and we know why you&#8217;re here. I mean, it&#8217;s kind of obvious from the headline you clicked on —&#160;you&#8217;re here to find the best deals on Magic: The Gathering for October Prime Day. And we aim to please! Compared with July Prime Day, this week&#8217;s sales follow [&#8230;] 
+
+<https://www.polygon.com/amazon-prime-day/460640/best-mtg-deals-magic-gathering>
+
+---
+
+## How to stream Xbox games to your Steam Deck, ‘one weird trick’ edition
+
+date: 2024-10-09, updated: 2024-10-09, from: Polygon Website
+
+I’ve owned the Xbox Series S, which I affectionately call the Baby Xbox, since launch day. And yet I almost never play any games on it, compared to my other devices. Why? Because until recently, I didn’t have the ability to stream Xbox games to my Steam Deck. Now, thanks to a little app called [&#8230;] 
+
+<https://www.polygon.com/gaming/464252/how-to-stream-xbox-steam-deck-xbplay>
 
 ---
 
@@ -46,16 +146,6 @@ date: 2024-10-09, updated: 2024-10-09, from: Polygon Website
 Amazon’s October Prime Day is a great opportunity to save on big ticket tech and gaming products. It’s also a time to get deals on affordable gadgets that can make life a bit easier. One such example is a compact fold-up keyboard, which we think should be part of any Steam Deck owners repertoire. We’ve [&#8230;] 
 
 <https://www.polygon.com/amazon-prime-day/463478/steam-deck-fold-up-keyboard-trackpad-deal>
-
----
-
-## The Halloween Countdown: 31 days of horror to watch
-
-date: 2024-10-09, updated: 2024-10-09, from: Polygon Website
-
-Do you feel that? That chill in the air, that tingling sensation at the back of your neck? It can only mean one thing. That’s right: Halloween season is once again upon us! Here at Polygon, we love horror. We cover it all year round, whether it’s ranking the scariest new releases of the year [&#8230;] 
-
-<https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream>
 
 ---
 
@@ -106,16 +196,6 @@ date: 2024-10-09, updated: 2024-10-09, from: Polygon Website
 October Prime Day 2024 is back for day two, with even more awesome discounts on some of our favorite games, accessories, collectibles, toys, and more — all on sale through Oct. 9. Highlights include deals on the slim PlayStation 5, the Steelseries Arctis Nova Pro wireless headset, and Descent: Legends of the Dark, as well as [&#8230;] 
 
 <https://www.polygon.com/amazon-prime-day/455235/best-deals-gaming-movies-toys-board-games>
-
----
-
-## The best board game deals of October Prime Day
-
-date: 2024-10-08, updated: 2024-10-08, from: Polygon Website
-
-Over the last several years, Amazon&#8217;s Prime Day sales have included some extraordinary deals for fans of tabletop gaming, and these October Prime Day offerings are keeping that trend alive with some absolutely great board game deals to be found. The discounts fall squarely in the realm of what we like to call “modern classics” [&#8230;] 
-
-<https://www.polygon.com/amazon-prime-day/455240/the-best-board-game-deals-of-october-prime-day>
 
 ---
 
@@ -176,16 +256,6 @@ date: 2024-10-08, updated: 2024-10-07, from: Polygon Website
 Penko Park is among the best Pokémon Snap-likes available, a delightful, polished, and spooky riff on a neglected but beloved genre. So why has nobody heard of it? Bad timing. The adorably creepy photography game launched in October 2020, buried beneath the twin shitpiles of the pandemic and the previous election cycle. Four years later, [&#8230;] 
 
 <https://www.polygon.com/impressions/461729/penko-park-pokemon-snap-like>
-
----
-
-## The best Magic: The Gathering deals of October Prime Day
-
-date: 2024-10-08, updated: 2024-10-08, from: Polygon Website
-
-We know why you&#8217;re here. I mean, it&#8217;s kind of obvious from the headline you clicked on —&#160;you&#8217;re here to find the best deals on Magic: The Gathering for October Prime Day. And we aim to please! Compared with July Prime Day, this week&#8217;s sales follow a &#8220;less is more&#8221; motto, i.e.&#160;fewer picks but steep [&#8230;] 
-
-<https://www.polygon.com/amazon-prime-day/460640/best-mtg-deals-magic-gathering>
 
 ---
 

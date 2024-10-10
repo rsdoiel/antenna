@@ -1,11 +1,187 @@
 ---
 title: going electric
-updated: 2024-10-09 08:15:48
+updated: 2024-10-10 07:05:39
 ---
 
 # going electric
 
-(date: 2024-10-09 08:15:48)
+(date: 2024-10-10 07:05:39)
+
+---
+
+## BMW surges past European rivals as EV sales top 100,000 in Q3
+
+date: 2024-10-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/BMWs-app-EV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BMW’s electric vehicles are “winning over customers worldwide,” with sales rising by double-digits in the third quarter. With over 100,000 EVs sold over the last three months, <a href="https://electrek.co/guides/bmw/">BMW</a> is taking market share from European rivals.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bmw" data-layer-viewtype="unknown" data-post-id="383575" href="https://electrek.co/2024/10/10/bmw-surges-past-european-rivals-ev-sales-top-100000-q3/#more-383575" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/10/bmw-surges-past-european-rivals-ev-sales-top-100000-q3/>
+
+---
+
+## Boliden set to trial battery electric surface drill rig concept from Sandvik
+
+date: 2024-10-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/electric_drill-rig.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hard rock mining equipment manufacturer Sandvik is working with Swedish mining company Boliden AB to test and develop a new, battery electric surface drill rig concept at Boliden’s Kevitsa mine.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-heavy-machinery,mining" data-layer-viewtype="unknown" data-post-id="383569" href="https://electrek.co/2024/10/10/boliden-set-to-trial-battery-electric-surface-drill-rig-concept-from-sandvik/#more-383569" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/10/boliden-set-to-trial-battery-electric-surface-drill-rig-concept-from-sandvik/>
+
+---
+
+## GM Energy unveils new PowerBanks that can combine to power a home for up to 20 hours
+
+date: 2024-10-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/GM-PowerBank-Silverado-home.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>GM Energy announced it has expanded its portfolio of <a href="https://electrek.co/guides/home-energy-storage/">home energy management products</a> with the PowerBank, a new modular energy storage system (ESS) that can transfer and store energy from the local grid and integrate with an EV owner’s home solar power system.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="gm,gm-energy,home-battery-pack,home-energy-storage" data-layer-viewtype="unknown" data-post-id="383514" href="https://electrek.co/2024/10/10/gm-energy-powerbanks-can-combine-power-a-home-up-to-20-hours/#more-383514" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/10/gm-energy-powerbanks-can-combine-power-a-home-up-to-20-hours/>
+
+---
+
+## This sovereign tribal nation’s school district just got electric school buses
+
+date: 2024-10-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Red-Lake-electric-school-bus-Minnesota.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Minnesota’s only public school district located within a sovereign tribal nation has added two new electric school buses to its fleet. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="blue-bird,electric-school-buses,minnesota" data-layer-viewtype="unknown" data-post-id="383545" href="https://electrek.co/2024/10/09/sovereign-tribal-nation-school-district-electric-school-buses-minnesota/#more-383545" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/09/sovereign-tribal-nation-school-district-electric-school-buses-minnesota/>
+
+---
+
+## Robotaxi rumors, a Tesla van, FSD data calls, and leave Texas solar alone
+
+date: 2024-10-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/try-again.png?w=1600" /></div><p>On today’s episode of <em><a href="https://www.youtube.com/@ElectrekDaily">Quick Charge</a></em>, rumors about a new Tesla van join the hype surrounding the Robotaxi reveal, and full self driving might be coming to the Tesla Semi. What’s more, Tesla is bringing back 0% financing on new Model Ys … if you buy FSD, that is.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,solar-power,tesla-robotaxi,texas" data-layer-viewtype="unknown" data-post-id="383542" href="https://electrek.co/2024/10/09/robotaxi-rumors-a-tesla-van-fsd-data-calls-and-leave-texas-solar-alone/#more-383542" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/09/robotaxi-rumors-a-tesla-van-fsd-data-calls-and-leave-texas-solar-alone/>
+
+---
+
+## Ford offers Ram drivers up to $2,000 off to switch to the F-150 Lightning pickup
+
+date: 2024-10-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/lease-Ford-Lightning-Maverick-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/ford/">Ford</a> wants to draw in buyers from rival brands. Its latest target is pickup truck drivers, specifically Ram owners. Ford is offering Ram owners up to $2,000 off if they switch to its F-150 Lightning.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford,ford-f-150-lightning,ram-trucks" data-layer-viewtype="unknown" data-post-id="383517" href="https://electrek.co/2024/10/09/ford-offers-ram-owners-2000-off-f-150-lightning/#more-383517" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/09/ford-offers-ram-owners-2000-off-f-150-lightning/>
+
+---
+
+## BYD wants to sell 100,000 EVs in Mexico next year as its North American presence expands
+
+date: 2024-10-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/BYD-EVs-North-American.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>China’s leading electric vehicle maker, <a href="https://electrek.co/guides/byd/">BYD</a>, is expanding its North American footprint. Next year, it plans to sell 100,000 EVs in Mexico. BYD will also announce its first manufacturing plant in the region by the end of 2024.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="383505" href="https://electrek.co/2024/10/09/byd-to-sell-100000-evs-north-american-market-next-year/#more-383505" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/09/byd-to-sell-100000-evs-north-american-market-next-year/>
+
+---
+
+## Texans want its lawmakers to stop messing with its solar growth
+
+date: 2024-10-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/5B-Maverick-solar-farm-at-Wurrumiyanga-Tiwi-Islands-NT.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The majority of Texans think there’s too much bureaucracy slowing down new solar projects, and they want lawmakers to step out of the way.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,solar-power,texas" data-layer-viewtype="unknown" data-post-id="383492" href="https://electrek.co/2024/10/09/texans-want-its-lawmakers-to-stop-messing-with-its-solar-growth/#more-383492" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/09/texans-want-its-lawmakers-to-stop-messing-with-its-solar-growth/>
+
+---
+
+## Segway robot mowers from $799, flagship Jackery power station bundle at new $1,999 low, LG smart all-in-one washer/dryer, more
+
+date: 2024-10-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Segway-Navimow-H-Series-new-1.png?w=1200" /></div><p>It’s the second day of Amazon’s Prime Big Deals Day event and we’ve got another batch of notable Green Deals, starting with <a href="https://9to5toys.com/2024/10/08/prime-day-sale-takes-up-to-32-off-segways-navimow-robot-mowers-starting-from-799-up-to-600-off/">Segway’s Navimow Robot Lawn Mowers</a> that are back at their lowest prices starting from <a href="https://9to5toys.com/2024/10/08/prime-day-sale-takes-up-to-32-off-segways-navimow-robot-mowers-starting-from-799-up-to-600-off/">$799</a>. Jackery is taking up to 50% off its power stations for another day – with the flagship <a href="https://9to5toys.com/2024/10/08/jackerys-prime-big-deals-day-sale-drops-flagship-explorer-3000-pro-bundle-to-new-1999-low-2000-off-more/">Explorer 3000 Pro power station</a> bundled with two 220W solar panels hitting a <a href="https://9to5toys.com/2024/10/08/jackerys-prime-big-deals-day-sale-drops-flagship-explorer-3000-pro-bundle-to-new-1999-low-2000-off-more/">new $1,999 low</a> – plus, it and others are eligible to receive free on-the-go power stations and more with your purchase. From there, we have <a href="https://9to5toys.com/2024/10/08/lgs-smart-all-in-one-electric-washer-ventless-dryer-falls-to-2000-in-prime-day-competitor-sale-save-1000-more/">LG’s smart all-in-one electric washer/ventless dryer</a> that is <a href="https://9to5toys.com/2024/10/08/lgs-smart-all-in-one-electric-washer-ventless-dryer-falls-to-2000-in-prime-day-competitor-sale-save-1000-more/">$1,000 off</a>, as well as Bluetti’s Prime Day sales that have dropped the <a href="https://9to5toys.com/2024/10/09/take-bluettis-ac180-portable-power-station-on-your-next-trip-at-new-459-prime-day-low-save-540-more-from-198/">AC180 Portable Power Station down to a new $459 low</a>. Finally, we have a bunch of <a href="https://9to5toys.com/2024/10/09/ego-power-56v-21-inch-cordless-self-propelled-mower-comes-with-7-5ah-battery-for-530-more-deals-from-75/">EGO Power+ deals</a> that you can take advantage of while the savings last. You’ll find our <a href="https://electrek.co/2024/10/08/prime-day-green-deals-evs-power-stations-tools-smart-devices-appliances-more-2/">Prime Big Deal Days hub</a> taking the spotlight down at the bottom of the page once again, curating everything together as we find them for your one-stop shopping pleasure. We’re updating the hub as fast as we can, so be sure to check back in regularly throughout the day.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="383478" href="https://electrek.co/2024/10/09/prime-big-deal-days-segway-robot-mowers-jackery-bundle-lg-smart-appliances-more/#more-383478" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/09/prime-big-deal-days-segway-robot-mowers-jackery-bundle-lg-smart-appliances-more/>
+
+---
+
+## Fiat 500e and Subaru Solterra now cost less than $300/month to lease
+
+date: 2024-10-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/12/Stellantis-affordable-EVs-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Fiat cut the cost of its 2024 500e lease deal by 35% compared to last month, while Subaru trimmed $50/month from its long-standing zero-down lease deal on the 2024 Solterra Premium. Both EVs now boast average monthly lease costs that undercut nearly every new vehicle lease on the US market, electric or otherwise.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="383472" href="https://electrek.co/2024/10/09/fiat-500e-and-subaru-solterra-now-cost-less-than-300-month-to-lease/#more-383472" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/09/fiat-500e-and-subaru-solterra-now-cost-less-than-300-month-to-lease/>
+
+---
+
+## Tesla Robotaxi rumors: butterfly doors, two seats, robovan, and more
+
+date: 2024-10-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/09/Screenshot-2023-09-12-at-6.55.17-PM.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Several rumors about Tesla’s Robotaxi/Cybercab are emerging ahead of the event tomorrow. </p>
+
+
+
+<p>They are talking about butterfly doors, two seats, a robovan, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="383466" href="https://electrek.co/2024/10/09/tesla-robotaxi-rumors-butterfly-doors-two-seats-robovan-and-more/#more-383466" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/09/tesla-robotaxi-rumors-butterfly-doors-two-seats-robovan-and-more/>
+
+---
+
+## Airspeeder teases a new modular solar-powered vertiport with 360 views of eVTOL ‘flying car’ races
+
+date: 2024-10-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Flying-car-races-Airspeeder-hub.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Nascent eVTOL “flying car” racing league <a href="https://electrek.co/guides/airspeeder/">Airspeeder</a> has announced a collaboration with renowned architecture firm HOK to introduce the “SkyDeck,” described as the world’s first modular race vertiport. This solar-powered hub will offer fans 360-degree views of the eVTOLs racing through the air, bringing a new level of immersion to motorsports.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="airspeeder,evtol,evtol-racing" data-layer-viewtype="unknown" data-post-id="383445" href="https://electrek.co/2024/10/09/airspeeder-teases-modular-solar-vertiport-360-views-evtol-flying-car-races/#more-383445" class="more-link">more…</a> 
+
+<https://electrek.co/2024/10/09/airspeeder-teases-modular-solar-vertiport-360-views-evtol-flying-car-races/>
 
 ---
 
@@ -43,15 +219,15 @@ General Motors has good news on the EV front. Meanwhile, Volkswagen tries again 
 
 ---
 
-## ZEEKR expands EU presence by launching in Norway, beginning with two EV models
+## ZEEKR expands Europem presence by launching in Norway, beginning with two EV models
 
 date: 2024-10-09, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/ZEEKR-Norway-001-X-EVs.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Tariffs be damned, Chinese EV brand ZEEKR continues to expand its global presence by sharing plans to launch in another European market – Norway. The initial rollout will consist of two of <a href="https://electrek.co/guides/zeekr/">ZEEKR’s</a> flagship models, which will become available to Norwegian customers very soon,</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/ZEEKR-Norway-001-X-EVs.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Chinese EV brand ZEEKR continues to expand its global presence by sharing plans to launch in another European market – Norway. The initial rollout will consist of two of <a href="https://electrek.co/guides/zeekr/">ZEEKR’s</a> flagship models, which will become available to Norwegian customers very soon,</p>
 
 
 
- <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="383433" href="https://electrek.co/2024/10/09/zeekr-expands-eu-presence-launching-in-norway-two-ev-models/#more-383433" class="more-link">more…</a> 
+ <a data-layer-pagetype="post" data-layer-postcategory="norway,zeekr,zeekr-001,zeekr-x" data-layer-viewtype="unknown" data-post-id="383433" href="https://electrek.co/2024/10/09/zeekr-expands-eu-presence-launching-in-norway-two-ev-models/#more-383433" class="more-link">more…</a> 
 
 <https://electrek.co/2024/10/09/zeekr-expands-eu-presence-launching-in-norway-two-ev-models/>
 

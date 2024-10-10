@@ -1,11 +1,344 @@
 ---
 title: pacific
-updated: 2024-10-09 08:15:37
+updated: 2024-10-10 07:05:28
 ---
 
 # pacific
 
-(date: 2024-10-09 08:15:37)
+(date: 2024-10-10 07:05:28)
+
+---
+
+## Powerful Milton makes landfall on Florida’s Gulf coast
+
+date: 2024-10-10, from: Hawaii Tribune Harold
+
+
+				<p>SARASOTA, Fla. &#8212; Hurricane Milton crashed into Florida with drenching rain, driving wind and a surge of seawater on Wednesday, menacing millions in a state still recovering from Hurricane Helene&#8217;s fury less than two weeks ago.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/10/nation-world-news/powerful-milton-makes-landfall-on-floridas-gulf-coast/>
+
+---
+
+## Inside the battle for America’s most consequential battleground state
+
+date: 2024-10-10, from: Hawaii Tribune Harold
+
+
+				<p>ERIE, Pa. &#8212; When Vice President Kamala Harris rolled out her economic agenda, she went to Pittsburgh. When she unveiled her running mate, she went to Philadelphia. And when she had to pick a place for former President Barack Obama&#8217;s first fall rally this Thursday, it was back to Pittsburgh. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/10/nation-world-news/inside-the-battle-for-americas-most-consequential-battleground-state/>
+
+---
+
+## Nation and world news in brief for October 10
+
+date: 2024-10-10, from: Hawaii Tribune Harold
+
+
+				<p>US races to &#0010;replenish supplies &#0010;of IV fluids &#0010;at hospitals</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/10/nation-world-news/nation-and-world-news-in-brief-for-october-10/>
+
+---
+
+## Honolulu airport moves up in passenger satisfaction, but still 4th worst
+
+date: 2024-10-10, from: Hawaii Tribune Harold
+
+
+				<p>Daniel K. Inouye International Airport, the largest in the state, moved up in a ranking of large airports, but it&#8217;s still fourth from the bottom, according to the latest J.D. Power North America Airport Satisfaction Study.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/10/hawaii-news/honolulu-airport-moves-up-in-passenger-satisfaction-but-still-4th-worst/>
+
+---
+
+## Boise’s Jeanty could join list of Heisman winners to play UH
+
+date: 2024-10-10, from: Hawaii Tribune Harold
+
+
+				<p>The past four decades, the college football stars have aligned with the University of Hawaii schedule.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/10/sports/boises-jeanty-could-join-list-of-heisman-winners-to-play-uh/>
+
+---
+
+## Tigers blank Guardians to take series lead
+
+date: 2024-10-10, from: Hawaii Tribune Harold
+
+
+				<p>DETROIT &#8212; The Tigers unleashed their patented postseason &#8220;pitching chaos&#8221; to claim Game 3 of the ALDS, 3-0. With one more win, a team left for dead in July will implausibly battle for the American League pennant.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/10/sports/tigers-blank-guardians-to-take-series-lead/>
+
+---
+
+## DHHL project will create 78 homestead lots at King’s Landing
+
+date: 2024-10-10, from: Hawaii Tribune Harold
+
+
+				<p>Portions of land at King&#8217;s Landing in Hilo could be awarded for Hawaiian homesteads by 2026.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/10/hawaii-news/dhhl-project-will-create-78-homestead-lots-at-kings-landing/>
+
+---
+
+## New fencing planned for island forest reserves
+
+date: 2024-10-10, from: Hawaii Tribune Harold
+
+
+				<p>The Department of Land and Natural Resources is gearing up to build nearly six miles of ungulate-proof fencing in state land reserves on Big Island.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/10/hawaii-news/new-fencing-planned-for-island-forest-reserves/>
+
+---
+
+## Defendant in fatal Hilo traffic crash released from jail
+
+date: 2024-10-10, from: Hawaii Tribune Harold
+
+
+				<p>A 71-year-old Hilo man who pleaded guilty to a felony negligent homicide charge for a collision that killed a 79-year-old aikido instructor who was riding a recumbent tricycle has been released from custody pending sentencing.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/10/hawaii-news/defendant-in-fatal-hilo-traffic-crash-released-from-jail/>
+
+---
+
+## Your Views for October 10
+
+date: 2024-10-10, from: Hawaii Tribune Harold
+
+
+				<p>More weather&#0010;stations needed</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/10/opinion/your-views-for-october-10-5/>
+
+---
+
+## Why do federal bureaucrats have so much power over our education system?
+
+date: 2024-10-10, from: Hawaii Tribune Harold
+
+
+				<p>The federal government has fumbled one of its largest obligations in education.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/10/opinion/why-do-federal-bureaucrats-have-so-much-power-over-our-education-system/>
+
+---
+
+## BIIF volleyball: Dragons and Warriors wash competition
+
+date: 2024-10-10, from: Hawaii Tribune Harold
+
+
+				<p>The Big Island Interscholastic Federation (BIIF) girls volleyball season continued Tuesday evening &#8212; set to wrap up late next week.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/10/sports/biif-volleyball-dragons-and-warriors-wash-competition/>
+
+---
+
+## Ironman pro field revealed
+
+date: 2024-10-10, from: Hawaii Tribune Harold
+
+
+				<p>KAILUA-KONA &#8212; An elite field of the world&#8217;s best professional male triathletes, including four former Ironman World Champions, will assemble in Kona town for the men&#8217;s edition of the 2024 VinFast Ironman World Championship triathlon. On Saturday, October 26, both the professional and age-group men will contest for their respective Ironman World Championship titles on the much-revered Kona course.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/10/sports/ironman-pro-field-revealed/>
+
+---
+
+## Obituaries for October 10
+
+date: 2024-10-10, from: Hawaii Tribune Harold
+
+
+				<p>R.T. &#8220;Doc&#8221; Halliday, 92, of Kailua-Kona died Aug. 19 at Hospice of Kona&#8217;s Nakamaru Hale in Holualoa. Born in Jamaica, Queens, New York City, he worked in airline operations, sales and marketing for the former Pan Am and other airlines, was a real estate broker, property manager, U.S. Air Force and Army Korean War veteran, Army National Guardsman, and member of Disabled American Veterans, American Legion; Unity Church, Lions Club of Kona, Grand Masonic Lodge of New York and charter member of Kona Elks Lodge No. 2616 and played a pivotal with Hawaii International Billfish Tournament. Military service 11 a.m. Thursday, Oct. 17, at West Hawaii Veterans Cemetery. Celebration of life 2 p.m. at Kona Elks Lodge. Survived by wife Virginia of Kailua-Kona; daughter, Phyllis Grant of Fairbanks, Alaska; bonus daughter, Wilda Payton of Phoenix; bonus son, Richard Payton of Phoenix; hanai son, Mark Costa of Kailua-Kona; a niece and two nephews. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/10/obituaries/obituaries-for-october-10-10/>
+
+---
+
+## Podcasts, ‘The View’ and Howard Stern: How Harris and Trump are ‘microtargeting’ voters
+
+date: 2024-10-10, from: Hawaii Tribune Harold
+
+
+				<p>The viewers of &#8220;The View&#8221; talk show and the listeners of Howard Stern&#8217;s satellite radio program couldn&#8217;t be more different: older women who watch daytime television for the former versus young and middle-aged white men who have long constituted the fervent followers of the once-raunchy stylings of the latter.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/10/nation-world-news/podcasts-the-view-and-howard-stern-how-harris-and-trump-are-microtargeting-voters/>
+
+---
+
+## Survey: Most adults affected by suicide, want more prevention
+
+date: 2024-10-10, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Nearly all U.S. adults agree that more action can be taken to reduce suicide deaths, with about three-fifths also reporting they have been personally affected by suicide, according to national survey data released Wednesday.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/10/nation-world-news/survey-most-adults-affected-by-suicide-want-more-prevention/>
+
+---
+
+## US calls out Israel at UN for ‘catastrophic conditions’ in Gaza
+
+date: 2024-10-10, from: Hawaii Tribune Harold
+
+
+				<p>UNITED NATIONS &#8212; Israel needs to address urgently &#8220;catastrophic conditions&#8221; among Palestinian civilians in the besieged Gaza Strip and stop &#8220;intensifying suffering&#8221; by limiting aid deliveries, its ally the United States told the U.N. Security Council on Wednesday. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/10/nation-world-news/us-calls-out-israel-at-un-for-catastrophic-conditions-in-gaza/>
+
+---
+
+## Resistance to public health, no longer fringe, gains foothold in GOP politics
+
+date: 2024-10-10, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Resistance to public health, relegated to the fringes of the American right and left before COVID vaccine mandates became a cultural flashpoint and a symbol of government overreach, now has a firm foothold in Republican politics &#8212; and a chance to wield real power in Washington.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/10/nation-world-news/resistance-to-public-health-no-longer-fringe-gains-foothold-in-gop-politics/>
+
+---
+
+## US plan to break up Google’s search dominance threatens profit engine, AI growth
+
+date: 2024-10-10, from: Hawaii Tribune Harold
+
+
+				<p>The U.S. Department of Justice&#8217;s proposed remedies to break up Google&#8217;s search dominance could weaken its main profit engine and stall its advances in artificial intelligence, even though a final outcome may be years away, analysts said. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/10/nation-world-news/us-plan-to-break-up-googles-search-dominance-threatens-profit-engine-ai-growth/>
+
+---
+
+## Union leader says striking Boeing workers in for “long haul” after pay talks collapse
+
+date: 2024-10-10, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The lead negotiator for a Boeing union representing about 33,000 workers who have been on strike for nearly a month said on Wednesday that members were prepared to wait out the planemaker, after pay talks collapsed a day earlier.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/10/nation-world-news/union-leader-says-striking-boeing-workers-in-for-long-haul-after-pay-talks-collapse/>
+
+---
+
+## PHOTOS: Daggers and Vikings battle in Hilo
+
+date: 2024-10-10, from: Hawaii Tribune Harold
+
+
+				<p>By Tim Wright</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/10/sports/photos-daggers-and-vikings-battle-in-hilo/>
+
+---
+
+## I’m a ‘Never Trump’ conservative who voted third-party in 2016. Here’s why I won’t make that mistake this time
+
+date: 2024-10-10, from: Hawaii Tribune Harold
+
+
+				<p>I&#8217;m a &#8216;Never Trump&#8217; conservative who voted third-party in 2016. Here&#8217;s why I won&#8217;t make that mistake this time</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/10/10/opinion/im-a-never-trump-conservative-who-voted-third-party-in-2016-heres-why-i-wont-make-that-mistake-this-time/>
+
+---
+
+## Japan, Marshall Islands boat builders maintaining age-old traditions
+
+date: 2024-10-10, from: Marshal Islands Journal
+
+<p>EVE BURNS* Ama Town, Japan – Separated by nearly 2,400 miles, a Marshall Islands program and an American in Japan are working to rebuild and maintain a thousand-year old boat building tradition.&#160; Howard Rice is a renowned boat builder and maritime enthusiast known for his dedication to preserving traditional boat-building techniques while embracing innovative designs. [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/japan-marshall-islands-boat-builders-maintaining-age-old-traditions/">Japan, Marshall Islands boat builders maintaining age-old traditions</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/japan-marshall-islands-boat-builders-maintaining-age-old-traditions/>
+
+---
+
+## ‘Enra’ payment program delayed
+
+date: 2024-10-10, from: Marshal Islands Journal
+
+<p>HILARY HOSIA The long-awaited initiative to put cash in people’s pockets is likely to take place sometime next year and not in December as previously predicted by the government. The news came to light last week Wednesday during the discussion between the Enra Taskforce and Parliament Members at a specially-called Committee of the Whole briefing [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/enra-payment-program-delayed/">‘Enra’ payment program delayed</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/enra-payment-program-delayed/>
+
+---
+
+## Natalie focused on school improvements
+
+date: 2024-10-09, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON The Public School System in the Marshall Islands is made up of a thousand moving parts, with multiple differences and nuances in delivering education in Majuro, Ebeye and outer islands where there is a gradient for the term “remote.” One size does not fit all in the Marshall Islands. Recently installed Education Commissioner [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/natalie-focused-on-school-improvements/">Natalie focused on school improvements</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/natalie-focused-on-school-improvements/>
+
+---
+
+##  Remnants of the CNMI's dead billion-dollar garment industry
+
+date: 2024-10-09, from: Pacific Island Times
+
+By Bryan Manabat Saipan - Nearly two decades after the demise of the CNMI’s garment industry, traces of its former glory linger to this... 
+
+<https://www.pacificislandtimes.com/post/remnants-of-the-cnmi-s-dead-billion-dollar-garment-industry>
+
+---
+
+## Image of the Week: ‘Hawaiian Soul’
+
+date: 2024-10-09, from: University of Hawaiʻi News
+
+<p>This week's image is <abbr>UH</abbr> Mānoa <span aria-label="Hawaiinuiakea">Hawai&#699;inui&#257;kea</span> Dean John Osorio.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/09/image-of-the-week-hawaiian-soul/">Image of the Week: ‘Hawaiian Soul’</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/10/09/image-of-the-week-hawaiian-soul/>
+
+---
+
+## USP surges up 2025 Times Higher Education World University Rankings
+
+date: 2024-10-09, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific (USP) has climbed up 200 places in the 2025...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-surges-up-2025-times-higher-education-world-university-rankings/">USP surges up 2025 Times Higher Education World University Rankings</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/usp-surges-up-2025-times-higher-education-world-university-rankings/>
 
 ---
 
@@ -832,7 +1165,7 @@ date: 2024-10-08, from: Island Times
 
 date: 2024-10-08, from: Island Times
 
-<p>BY: Eustoria Marie Borja Koror, Palau — Sabino Anastacio, Speaker of the House of Delegates, was order to pay taxes, penalties and interest on real estate transactions he conducted in 2015 where he failed both to obtain a license and pay taxes on real estate income of $1.875m. Total tax, penalty and interest assessed against [&#8230;]</p>
+<p>BY: Eustoria Marie Borja Koror, Palau — Sabino Anastacio, Speaker of the House of Delegates, was ordered to pay taxes, penalties and interest on real estate transactions he conducted in 2015 where he failed both to obtain a license and pay taxes on real estate income of $1.875m. Total tax, penalty and interest assessed against [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/speaker-anastacio-ordered-to-pay-3-5m-in-24-mos-for-tax-violation/">Speaker Anastacio ordered to pay $3.5m in 24 mos for tax violation</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
 

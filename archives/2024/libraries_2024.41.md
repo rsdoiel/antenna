@@ -1,11 +1,43 @@
 ---
 title: libraries
-updated: 2024-10-09 08:15:43
+updated: 2024-10-10 07:05:35
 ---
 
 # libraries
 
-(date: 2024-10-09 08:15:43)
+(date: 2024-10-10 07:05:35)
+
+---
+
+## The Chicken or Egg Problem — Should Publishers Mandate Graphical Abstracts or Let Authors Lead the Way?
+
+date: 2024-10-10, from: Scholarly Kitchen
+
+<p>If we want to broaden the audience base for research outputs, then authors need to explore more visual formats for readers to consume. The graphical abstract is one such format.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/10/10/the-chicken-or-egg-problem-should-publishers-mandate-graphical-abstracts-or-let-authors-lead-the-way/">The Chicken or Egg Problem — Should Publishers Mandate Graphical Abstracts or Let Authors Lead the Way?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/10/10/the-chicken-or-egg-problem-should-publishers-mandate-graphical-abstracts-or-let-authors-lead-the-way/>
+
+---
+
+## The Social Contract, by Jean-Jacques Rousseau
+
+date: 2024-10-09, from: Standard Ebooks, new releaases
+
+Rousseau explores the political philosophy of authority originating from the consent of the people. 
+
+<https://standardebooks.org/ebooks/jean-jacques-rousseau/the-social-contract/g-d-h-cole>
+
+---
+
+## Beyond Thirty, by Edgar Rice Burroughs
+
+date: 2024-10-09, from: Standard Ebooks, new releaases
+
+A young naval officer finds himself in a forbidden part of the world after storms waylay his ship. 
+
+<https://standardebooks.org/ebooks/edgar-rice-burroughs/beyond-thirty>
 
 ---
 

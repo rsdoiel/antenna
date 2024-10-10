@@ -1,11 +1,61 @@
 ---
 title: health
-updated: 2024-10-09 08:15:47
+updated: 2024-10-10 07:05:38
 ---
 
 # health
 
-(date: 2024-10-09 08:15:47)
+(date: 2024-10-10 07:05:38)
+
+---
+
+## Duplex recombinase aided amplification-lateral flow dipstick assay for rapid distinction of Mycobacterium tuberculosis and Mycobacterium avium complex
+
+date: 2024-10-10, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectivesThis study aims to develop a novel diagnostic approach using the recombinase aided amplification-lateral flow dipstick(RAA-LFD) assay for the distinction of Mycobacterium tuberculosis (MTB) and Mycobacterium avium complex (MAC), enabling rapid and convenient as well as accurate identification of them in clinical samplesMethodsOur study established a duplex RAA-LFD assay capable of discriminating between MTB and MAC. Based on the principles of RAA primer and probe design, specific primers and probes were developed targeting the MTB IS6110 and the MAC DT1 separately. Optimization of reaction time points and temperatures was conducted, followed by an evaluation of specificity, sensitivity, and reproducibility. The established detection method was then applied to clinical samples and compared with smear microscopy, liquid culture, LAMP, and Xpert/MTB RIF in terms of diagnostic performanceResultsThe complete workflow allows for the effective amplification of the MTB IS6110 and MAC DT1 target sequences at constant 37°C within 20min, and the amplification products can be visually observed on the LFD test strip. This method exhibits high specificity, showing no cross-reactivity with nucleic acids from M. kansassi, M. abscessus, M. gordonae, M. chelonae, M. fortuitum, M. scrofulaceum, M. malmoense, M. chimaera, M. szulgai and common respiratory pathogens. It also demonstrates high sensitivity, with a detection limit as low as 102 CFU/mL. Additionally, the method’s Coefficient of Variation (CV) is less than 5%, ensuring excellent repeatability and reliability. Furthermore, clinical performance evaluations, using Xpert/MTB RIF as the gold standard, demonstrated that the duplex RAA-LFD assay achieves a sensitivity of 92.86% and a specificity of 93.75%. It is also noteworthy that the assay exhibits considerable diagnostic efficacy in smear-negative patientsConclusionsOur study introduces a rapid, specific, and sensitive duplex RAA-LFD assay for the discriminatory diagnosis of MTB and MAC. This method represents a significant advancement in the field of infectious disease diagnostics, offering a valuable tool for rapid detection and management of MTB and MAC infections. The implementation of this approach in point-of-care settings could greatly enhance TB control and prevention efforts, especially in resource-limited environments. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1454096>
+
+---
+
+## A metalloprotease secreted by an environmentally acquired gut bacterium hinders Borrelia afzelii colonization in Ixodes ricinus
+
+date: 2024-10-10, from: Frontiers in Cellular and Infection Microbiology
+
+Although the importance of the microbiome in the context of tick biology and vector competence has recently come into a broader research focus, the field is still in its infancy and the complex ecological interactions between the tick residential bacteria and pathogens are obscure. Here, we show that an environmentally acquired gut bacterium has the potential to impair Borrelia afzelii colonization within the tick vector through a secreted metalloprotease. Oral introduction of either Bacillus cereus LTG-1 isolate or its purified enhancin (BcEnhancin) protein significantly reduces B. afzelii burden in the guts of Ixodes ricinus ticks. This effect is attributed to the ability of BcEnhancin to degrade a glycan-rich peritrophic matrix (PM), which is a gut protective barrier essential for Borrelia survival. Our study highlights the importance of the gut microbiome in determining tick vector competence and provides a deeper mechanistic insight into the complex network of interactions between Borrelia, the tick, and the tick microbiome. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1476266>
+
+---
+
+## Characteristics of the vaginal microbiota and vaginal metabolites in women with cervical dysplasia
+
+date: 2024-10-10, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionEmerging evidence suggests that the vaginal microbiota is closely associated with cervical cancer. However, little is known about the relationships among the vaginal microbiota, vaginal metabolites, and cervical lesion progression in women undergoing cervical dysplasia.MethodsIn this study, to understand vaginal microbiota signatures and vaginal metabolite changes in women with cervical lesions of different grades and cancer, individuals with normal or cervical dysplasia were recruited and divided into healthy controls (HC) group, low-grade squamous intraepithelial lesions (LSIL) group, high-grade squamous intraepithelial lesions (HSIL) group, and cervical cancer (CC) group. Vaginal secretion samples were collected for 16S rRNA gene sequencing, liquid chromatography coupled with mass spectrometry (LC–MS)-based metabolomics, and integrated analysis.ResultsThe results demonstrated that bacterial richness and diversity were greater in the CC group than the other three groups. Additionally, Lactobacillus was found to be negatively associated with bacterial diversity and bacterial metabolic functions, which increased with the degree of cervical lesions and cancer. Metabolomic analysis revealed that distinct metabolites were enriched in these metabolite pathways, including tryptophan metabolism, retinol metabolism, glutathione metabolism, alanine, aspartate, and glutamate metabolism, as well as citrate cycle (TCA cycle). Correlation analysis revealed positive associations between CC group-decreased Lactobacillus abundance and CC group-decreased metabolites. Lactobacillus iners was both negative to nadB and kynU genes, the predicted abundance of which was significantly higher in the CC group. The linear regression model showed that the combination of the vaginal microbiota and vaginal metabolites has good diagnostic performance for cervical cancer.DiscussionOur results indicated a clear difference in the vaginal microbiota and vaginal metabolites of women with cervical dysplasia. Specifically altered bacteria and metabolites were closely associated with the degree of cervical lesions and cancer, indicating the potential of the vaginal microbiota and vaginal metabolites as modifiable factors and therapeutic targets for preventing cervical cancer. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1457216>
+
+---
+
+## Editorial: Antiviral monoclonal antibody therapies
+
+date: 2024-10-10, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1484448>
+
+---
+
+## Fusobacterium nucleatum elicits subspecies-specific responses in human neutrophils
+
+date: 2024-10-10, from: Frontiers in Cellular and Infection Microbiology
+
+Fusobacterium nucleatum as a Gram-negative anaerobe plays a key bridging role in oral biofilms. It is involved in periodontal and extraoral diseases, the most prominent being colorectal cancer. Five subspecies are recognised: animalis, fusiforme, nucleatum, polymorphum and vincentii. Subspecies interact with neutrophils constantly patrolling tissues to remove microbial intruders. Neutrophil antimicrobial activities include generation of reactive oxygen species (ROS), formation of neutrophil extracellular traps (NETs) and release of cytokines and neutrophil enzymes. Subspecies-specific differences in immunogenicity have previously been observed in a neutrophil-like cell line but were not investigated in human neutrophils. Additionally, neutrophil responses to planktonic and biofilm-grown F. nucleatum have not been studied to date. The aims of this study were to compare the immunogenicity of planktonic and biofilm-grown F. nucleatum and to investigate potential differences in human neutrophil responses when stimulated with individual F. nucleatum subspecies. Human neutrophils isolated from peripheral blood were stimulated with planktonic and biofilm-grown F. nucleatum subspecies. Generation of ROS and NET formation were quantified by luminescence and fluorescence assays, respectively. Secretion of cytokines (IL-1β, TNF-α, IL-6, IL-8), neutrophil elastase and matrix metalloproteinase-9 was quantified by enzyme-linked immunosorbent assay (ELISA). Neutrophil responses showed biofilm-grown bacteria induced a significantly higher total and intracellular ROS response, as well as shorter time to total ROS release. Biofilm-grown F. nucleatum led to significantly lower IL-1β release. We found significant differences among individual subspecies in terms of total, intracellular ROS and extracellular superoxide. Subspecies polymorphum stimulated the highest mean amount of NET release. Amounts of cytokines released differed significantly among subspecies, while no differences were found in lysosomal enzyme release. Immunogenicity of F. nucleatum in human neutrophils is highly subspecies-specific in vitro with regard to ROS release and cytokine production. Understanding subspecies-specific immunogenicity of F. nucleatum may facilitate the discovery of novel therapeutic targets in F. nucleatum-mediated diseases. 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1449539>
 
 ---
 
