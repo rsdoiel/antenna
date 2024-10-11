@@ -1,11 +1,638 @@
 ---
 title: pacific
-updated: 2024-10-10 21:04:47
+updated: 2024-10-11 07:08:27
 ---
 
 # pacific
 
-(date: 2024-10-10 21:04:47)
+(date: 2024-10-11 07:08:27)
+
+---
+
+## State launches Gun Tip Line
+
+date: 2024-10-11, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Law Enforcement has established a Gun Tip Line for people to make anonymous reports of illegal gun ownership and gun crimes.</p>
+			 
+
+ 
+
+<https://www.hawaiitribune-herald.com/2024/10/11/hawaii-news/state-launches-gun-tip-line/>
+
+---
+
+## Hawaii Supreme Court weighs in on Schweitzers’ case
+
+date: 2024-10-11, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Supreme Court on Tuesday ordered Hilo Circuit Judge Peter Kubota to transfer a petition seeking monetary compensation for brothers Albert &#8220;Ian&#8221; Schweitzer and Shawn Schweitzer to a new civil case.</p>
+			 
+
+ 
+
+<https://www.hawaiitribune-herald.com/2024/10/11/hawaii-news/hawaii-supreme-court-weighs-in-on-schweitzers-case/>
+
+---
+
+## Hurricane Milton kills at least 11, many far from landfall
+
+date: 2024-10-11, from: Hawaii Tribune Harold
+
+
+				<p>SIESTA KEY, Fla. &#8212; Hurricane Milton cut an uneven path of destruction as it tore across Florida from the Gulf of Mexico late Wednesday and entered the Atlantic Ocean on Thursday, largely sparing the densely populated cities around Tampa Bay but spawning deadly tornadoes far from its center.</p>
+			 
+
+ 
+
+<https://www.hawaiitribune-herald.com/2024/10/11/nation-world-news/hurricane-milton-kills-at-least-11-many-far-from-landfall/>
+
+---
+
+## DLNR: Nene killed by hit-and-run driver in Hilo park
+
+date: 2024-10-11, from: Hawaii Tribune Harold
+
+
+				<p>A male nene, banded as 595, was killed Thursday morning by a hit-and-run driver while apparently crossing a road in Lili&#8216;uokalani Gardens off Banyan Drive, according to the state Department of Land and Natural Resources.</p>
+			 
+
+ 
+
+<https://www.hawaiitribune-herald.com/2024/10/11/hawaii-news/dlnr-nene-killed-by-hit-and-run-driver-in-hilo-park/>
+
+---
+
+## Hurricane Milton spawned dozens of tornadoes, one of them deadly
+
+date: 2024-10-11, from: Hawaii Tribune Harold
+
+
+				<p>As Hurricane Milton spun out over the Atlantic Ocean on Thursday, St. Lucie County reported five people dead in its wake. But those fatalities were eerily on the opposite coast from Siesta Key, where Milton made landfall Wednesday as a powerful Category 3 hurricane. </p>
+			 
+
+ 
+
+<https://www.hawaiitribune-herald.com/2024/10/11/nation-world-news/hurricane-milton-spawned-dozens-of-tornadoes-one-of-them-deadly/>
+
+---
+
+## Airlines’ frequent flyer programs are not very friendly to loyal travelers
+
+date: 2024-10-11, from: Hawaii Tribune Harold
+
+
+				<p>By every definition, I am a frequent flyer. Every Thursday afternoon, after I cast my last vote in the Senate, I head to the airport to fly home to Illinois, where I take meetings with constituents and attend state events through the weekend. Come Monday morning, I&#8217;m back on a plane to Washington.</p>
+			 
+
+ 
+
+<https://www.hawaiitribune-herald.com/2024/10/11/opinion/airlines-frequent-flyer-programs-are-not-very-friendly-to-loyal-travelers/>
+
+---
+
+## Republicans hate tech’s influence on politics. Unless it comes from Elon Musk
+
+date: 2024-10-11, from: Hawaii Tribune Harold
+
+
+				<p>Elon Musk has not been at all subtle in his efforts to help Donald Trump win the presidency. Musk hasn&#8217;t just endorsed him or donated tens of millions of dollars to pro-Trump political action committees or appeared at Trump rallies to jump up and down with joy. Musk is also using the full power of his ownership of the social platform X to portray Kamala Harris as an existential threat to America while spreading many falsehoods. </p>
+			 
+
+ 
+
+<https://www.hawaiitribune-herald.com/2024/10/11/opinion/republicans-hate-techs-influence-on-politics-unless-it-comes-from-elon-musk/>
+
+---
+
+## America needs better than ‘just an average guy’
+
+date: 2024-10-11, from: Hawaii Tribune Harold
+
+
+				<p>&#8220;I grew up middle class&#8221; is not the answer to any question other than, perhaps, &#8220;How did you grow up?&#8221;</p>
+			 
+
+ 
+
+<https://www.hawaiitribune-herald.com/2024/10/11/opinion/america-needs-better-than-just-an-average-guy/>
+
+---
+
+## Nation and world news in brief for October 11
+
+date: 2024-10-11, from: Hawaii Tribune Harold
+
+
+				<p>Ethel Kennedy, &#0010;supporter of family legacy, dies at 96</p>
+			 
+
+ 
+
+<https://www.hawaiitribune-herald.com/2024/10/11/nation-world-news/nation-and-world-news-in-brief-for-october-11/>
+
+---
+
+## Club to host ’50s-themed dance party: Fundraising event is Oct. 19 in Hilo
+
+date: 2024-10-11, from: Hawaii Tribune Harold
+
+
+				<p>The Hilo Woman&#8217;s Club is traveling back in time to the 1950s for a night at the sock hop.</p>
+			 
+
+ 
+
+<https://www.hawaiitribune-herald.com/2024/10/11/hawaii-news/club-to-host-50s-themed-dance-party-fundraising-event-is-oct-19-in-hilo/>
+
+---
+
+## Obama rallies young voters for Kamala Harris in swing state Pennsylvania
+
+date: 2024-10-11, from: Hawaii Tribune Harold
+
+
+				<p>PITTSBURGH &#8212; Former President Barack Obama made a passionate case against Donald Trump and in favor of Vice President Kamala Harris on Thursday during a rally at a Pittsburgh college campus aimed in part at spurring young people to show up for the Nov. 5 election. </p>
+			 
+
+ 
+
+<https://www.hawaiitribune-herald.com/2024/10/11/nation-world-news/obama-rallies-young-voters-for-kamala-harris-in-swing-state-pennsylvania/>
+
+---
+
+## Bayer must pay $78 million in latest Roundup cancer trial, jury finds
+
+date: 2024-10-11, from: Hawaii Tribune Harold
+
+
+				<p>Bayer must pay $78 million to a Pennsylvania man who said he got cancer from using the company&#8217;s Roundup weedkiller, a state court jury in Philadelphia found on Thursday. </p>
+			 
+
+ 
+
+<https://www.hawaiitribune-herald.com/2024/10/11/nation-world-news/bayer-must-pay-78-million-in-latest-roundup-cancer-trial-jury-finds/>
+
+---
+
+## General Election Candidate Forum set for Oct. 17
+
+date: 2024-10-11, from: Hawaii Tribune Harold
+
+
+				<p>The Waimea Community Association will host a General Election Candidate Forum spotlighting three key races: Hawaii County mayor, state House District 8 and County Council District 9.</p>
+			 
+
+ 
+
+<https://www.hawaiitribune-herald.com/2024/10/11/community/general-election-candidate-forum-set-for-oct-17/>
+
+---
+
+## Family-friendly Oktoberfest event Saturday in Keaau
+
+date: 2024-10-11, from: Hawaii Tribune Harold
+
+
+				<p>Members of Veterans of Foreign Wars Post 3830 (Pahoa) and its Auxiliary are holding their 1st Annual Oktoberfest, a communitywide celebration taking place Saturday at Herbert Shipman Park in Keaau.</p>
+			 
+
+ 
+
+<https://www.hawaiitribune-herald.com/2024/10/11/community/family-friendly-oktoberfest-event-saturday-in-keaau/>
+
+---
+
+## County celebrates Filipino American History Month
+
+date: 2024-10-11, from: Hawaii Tribune Harold
+
+
+				<p>In honor of Filipino American History Month, Hawaii County held a flag-raising ceremony Tuesday at the County Building in Hilo.</p>
+			 
+
+ 
+
+<https://www.hawaiitribune-herald.com/2024/10/11/community/county-celebrates-filipino-american-history-month/>
+
+---
+
+## September was a deadly month for Russian troops in Ukraine, US says
+
+date: 2024-10-11, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; September was the bloodiest month of the war for Russian forces in Ukraine, U.S. officials said, with the costly offensive in the east bringing the number of Russia&#8217;s dead and wounded to more than 600,000 troops since the war began in early 2022.</p>
+			 
+
+ 
+
+<https://www.hawaiitribune-herald.com/2024/10/11/nation-world-news/september-was-a-deadly-month-for-russian-troops-in-ukraine-us-says/>
+
+---
+
+## Social Security benefits to climb 2.5% in 2025
+
+date: 2024-10-11, from: Hawaii Tribune Harold
+
+
+				<p>Tens of millions of Americans receiving Social Security benefits are poised to see a 2.5% increase in their monthly checks next year to keep pace with inflation, the Social Security Administration said Thursday, an uptick that&#8217;s on a par with average annual increases in recent decades. </p>
+			 
+
+ 
+
+<https://www.hawaiitribune-herald.com/2024/10/11/nation-world-news/social-security-benefits-to-climb-2-5-in-2025/>
+
+---
+
+## Obituaries for October 11
+
+date: 2024-10-11, from: Hawaii Tribune Harold
+
+
+				<p>The Rev. Ronald Nolan Makaula Dela Cruz, 79, of Waimea died Sept. 20 at Queen&#8217;s North Hawaii Community Hospital in Waimea. Born in Honolulu, he was the retired founder and operator of Security Solutions of Hawaii, a security manager for Parker Ranch, spiritual leader and licensed kahu who performed many weddings and blessings, actor and Screen Actors Guild member who appeared in films including &#8220;Hawaii,&#8221; &#8220;The Hawaiians&#8221; and &#8220;King Kong,&#8221; the original &#8220;Hawaii 5-0&#8221; television program, high chief of the Royal Order of Kamehameha and founder of the Order&#8217;s North Hawaii chapter, and graduate of Farrington High School and Junior All-American in football. Private services held. Celebration of life at a later date. Online condolences: homelanimemorialpark.com. Survived by wife, Mary L. Andrews of Waimea; stepchildren, Ginger (Rick) Gelke of New York and Scott (Aya) Andrews of Panama; sisters, Lorraine Daley of Waimea, Elizabeth (Rick) Ahina of Oahu and Bernadette (Sterling) Nii of Oahu; brother, Anthony (Malia) Koko of Oahu; three step-grandchildren; nieces and nephews. Arrangements by Homelani Memorial Park.</p>
+			 
+
+ 
+
+<https://www.hawaiitribune-herald.com/2024/10/11/obituaries/obituaries-for-october-11-10/>
+
+---
+
+## Six GOP members of Congress sue to have Pennsylvania military and overseas ballots set aside in November election
+
+date: 2024-10-11, from: Hawaii Tribune Harold
+
+
+				<p>Six Republican members of Congress are suing the Pennsylvania Department of State, arguing that ballots from overseas voters &#8212; including members of the U.S. military &#8212; are susceptible to fraud because those voters are not subject to ID requirements applied to U.S.-based absentee voters.</p>
+			 
+
+ 
+
+<https://www.hawaiitribune-herald.com/2024/10/11/nation-world-news/six-gop-members-of-congress-sue-to-have-pennsylvania-military-and-overseas-ballots-set-aside-in-november-election/>
+
+---
+
+## HPA takes back No. 1 spot; Dragons and Vikings sweep
+
+date: 2024-10-11, from: Hawaii Tribune Harold
+
+
+				<p>The Big Island Interscholastic Federation (BIIF) girls volleyball season continued Wednesday across the isle. Island playoffs are slated to begin Oct. 18.</p>
+			 
+
+ 
+
+<https://www.hawaiitribune-herald.com/2024/10/11/sports/hpa-takes-back-no-1-spot-dragons-and-vikings-sweep/>
+
+---
+
+## South Korea’s experimental novelist Han Kang wins 2024 Nobel literature
+
+date: 2024-10-11, from: Hawaii Tribune Harold
+
+
+				<p>STOCKHOLM &#8212; South Korean author Han Kang won the 2024 Nobel Prize in Literature for &#8220;her intense poetic prose that confronts historical traumas and exposes the fragility of human life&#8221;, the award-giving body said on Thursday. </p>
+			 
+
+ 
+
+<https://www.hawaiitribune-herald.com/2024/10/11/nation-world-news/south-koreas-experimental-novelist-han-kang-wins-2024-nobel-literature/>
+
+---
+
+## Lynx rally for wild OT win over Liberty in Finals opener
+
+date: 2024-10-11, from: Hawaii Tribune Harold
+
+
+				<p>Napheesa Collier connected on a turnaround, mid-range fadeaway with 8.8 seconds left in overtime, lifting the Minnesota Lynx to a 95-93 win over the host New York Liberty in Game 1 of the WNBA Finals on Thursday. </p>
+			 
+
+ 
+
+<https://www.hawaiitribune-herald.com/2024/10/11/sports/lynx-rally-for-wild-ot-win-over-liberty-in-finals-opener/>
+
+---
+
+## Brock Purdy fires 3 TD passes as 49ers dump Seahawks
+
+date: 2024-10-11, from: Hawaii Tribune Harold
+
+
+				<p>Brock Purdy threw three touchdown passes, two to George Kittle, and the San Francisco 49ers &#8212; after building a 20-point lead &#8212; held on to defeat the host Seattle Seahawks 36-24 on Thursday. </p>
+			 
+
+ 
+
+<https://www.hawaiitribune-herald.com/2024/10/11/sports/brock-purdy-fires-3-td-passes-as-49ers-dump-seahawks/>
+
+---
+
+## Guardians eke out win over Tigers, force Game 5
+
+date: 2024-10-11, from: Hawaii Tribune Harold
+
+
+				<p>DETROIT &#8212; David Fry blasted a two-run homer in the seventh inning and added a run-scoring sacrifice bunt in the ninth Thursday to help the Cleveland Guardians keep their season alive with a 5-4 victory over the Detroit Tigers in Game 4 of the American League Division Series.</p>
+			 
+
+ 
+
+<https://www.hawaiitribune-herald.com/2024/10/11/sports/guardians-eke-out-win-over-tigers-force-game-5/>
+
+---
+
+## Senate Chairman and PPUC CEO spar over New Electricity rates
+
+date: 2024-10-11, from: Island Times
+
+<figure><img width="450" height="260" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/ceo.jpg?fit=450%2C260&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/ceo.jpg?w=450&amp;ssl=1 450w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/ceo.jpg?resize=300%2C173&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/ceo.jpg?resize=400%2C231&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/ceo.jpg?fit=450%2C260&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73113" data-permalink="https://islandtimes.org/senate-chairman-and-ppuc-ceo-spar-over-new-electricity-rates/ceo-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/ceo.jpg?fit=450%2C260&amp;ssl=1" data-orig-size="450,260" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="ceo" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/ceo.jpg?fit=300%2C173&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/ceo.jpg?fit=450%2C260&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>KOROR, Palau — A clash over Palau’s Distributed Energy Rate (DER) has surfaced, with Senate Committee on Energy Chairman Kerai Mariur and Palau Public Utilities Corporation (PPUC) CEO Frank Kyota offering opposing perspectives on what the new system means for electricity rates and transparency. In a letter addressed to the PPUC, Mariur voiced strong objections [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/senate-chairman-and-ppuc-ceo-spar-over-new-electricity-rates/">Senate Chairman and PPUC CEO spar over New Electricity rates</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+ 
+
+<https://islandtimes.org/senate-chairman-and-ppuc-ceo-spar-over-new-electricity-rates/>
+
+---
+
+## Whipps highlights Palau-Taiwan Relations at Taiwan National Day celebration
+
+date: 2024-10-11, from: Island Times
+
+<figure><img width="1024" height="788" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241009_183039.jpg?fit=1024%2C788&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241009_183039.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241009_183039.jpg?resize=300%2C231&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241009_183039.jpg?resize=1024%2C788&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241009_183039.jpg?resize=768%2C591&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241009_183039.jpg?resize=1200%2C923&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241009_183039.jpg?resize=400%2C308&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241009_183039.jpg?resize=706%2C543&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241009_183039.jpg?fit=1024%2C788&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73108" data-permalink="https://islandtimes.org/whipps-highlights-palau-taiwan-relations-at-taiwan-national-day-celebration/20241009_183039/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241009_183039.jpg?fit=1249%2C961&amp;ssl=1" data-orig-size="1249,961" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;3.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1728498638&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;18.6&quot;,&quot;iso&quot;:&quot;400&quot;,&quot;shutter_speed&quot;:&quot;0.016949152542373&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20241009_183039" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241009_183039.jpg?fit=300%2C231&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241009_183039.jpg?fit=780%2C600&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>KOROR, Palau — President Surangel Whipps Jr. emphasized the strong ties between Palau and Taiwan during the Republic of China (Taiwan) National Day celebration on Oct. 9, 2024, at Palasia Hotel. The event, hosted by Taiwan&#8217;s Ambassador Jessica Lee, gathered officials and community members from both nations to mark Taiwan’s 113th National Day. Whipps, joined [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/whipps-highlights-palau-taiwan-relations-at-taiwan-national-day-celebration/">Whipps highlights Palau-Taiwan Relations at Taiwan National Day celebration</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+ 
+
+<https://islandtimes.org/whipps-highlights-palau-taiwan-relations-at-taiwan-national-day-celebration/>
+
+---
+
+## Kensing II Vessel to Improve Transportation and Access for Sonsorol, Hatohobei
+
+date: 2024-10-11, from: Island Times
+
+<figure><img width="1024" height="756" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/462715432_539741668702918_6715852267784463703_n.jpg?fit=1024%2C756&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/462715432_539741668702918_6715852267784463703_n.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/462715432_539741668702918_6715852267784463703_n.jpg?resize=300%2C221&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/462715432_539741668702918_6715852267784463703_n.jpg?resize=1024%2C756&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/462715432_539741668702918_6715852267784463703_n.jpg?resize=768%2C567&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/462715432_539741668702918_6715852267784463703_n.jpg?resize=1200%2C886&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/462715432_539741668702918_6715852267784463703_n.jpg?resize=400%2C295&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/462715432_539741668702918_6715852267784463703_n.jpg?resize=706%2C521&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/462715432_539741668702918_6715852267784463703_n.jpg?fit=1024%2C756&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73117" data-permalink="https://islandtimes.org/kensing-ii-vessel-to-improve-transportation-and-access-for-sonsorol-hatohobei/462715432_539741668702918_6715852267784463703_n/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/462715432_539741668702918_6715852267784463703_n.jpg?fit=1249%2C922&amp;ssl=1" data-orig-size="1249,922" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="462715432_539741668702918_6715852267784463703_n" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/462715432_539741668702918_6715852267784463703_n.jpg?fit=300%2C221&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/462715432_539741668702918_6715852267784463703_n.jpg?fit=780%2C576&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By: Samantha Iyar The recent introduction of the Kensing II vessel is set to significantly improve transportation and accessibility for the remote island communities of Sonsorol and Hatohobei, addressing long-standing challenges faced by residents. A handover ceremony was held on September 30, 2024, at Marine Law to celebrate the vessel’s arrival. President Surangel S. Whipps [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/kensing-ii-vessel-to-improve-transportation-and-access-for-sonsorol-hatohobei/">Kensing II Vessel to Improve Transportation and Access for Sonsorol, Hatohobei</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+ 
+
+<https://islandtimes.org/kensing-ii-vessel-to-improve-transportation-and-access-for-sonsorol-hatohobei/>
+
+---
+
+## Candidate absences undermine Public dialogue at Palau Congressional Forum
+
+date: 2024-10-11, from: Island Times
+
+<p>By: Eustoria Marie Borja KOROR, Palau – The 2024 Congressional Forum for Palau’s House of Delegates, intended as a key platform for voters to engage with candidates and understand their legislative priorities, was notably impacted by the withdrawal of several Airai State candidates and the absence of House members. Organized by the Palau Entrepreneurs for [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/candidate-absences-undermine-public-dialogue-at-palau-congressional-forum/">Candidate absences undermine Public dialogue at Palau Congressional Forum</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+ 
+
+<https://islandtimes.org/candidate-absences-undermine-public-dialogue-at-palau-congressional-forum/>
+
+---
+
+## Women candidates highlight Legislative priorities in Palau’s House of Delegates race
+
+date: 2024-10-11, from: Island Times
+
+<figure><img width="1024" height="565" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Delegates-candidates-forum.jpg?fit=1024%2C565&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Delegates-candidates-forum.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Delegates-candidates-forum.jpg?resize=300%2C165&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Delegates-candidates-forum.jpg?resize=1024%2C565&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Delegates-candidates-forum.jpg?resize=768%2C424&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Delegates-candidates-forum.jpg?resize=1200%2C662&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Delegates-candidates-forum.jpg?resize=400%2C221&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Delegates-candidates-forum.jpg?resize=706%2C389&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Delegates-candidates-forum.jpg?fit=1024%2C565&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73101" data-permalink="https://islandtimes.org/women-candidates-highlight-legislative-priorities-in-palaus-house-of-delegates-race/delegates-candidates-forum/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Delegates-candidates-forum.jpg?fit=1249%2C689&amp;ssl=1" data-orig-size="1249,689" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Delegates candidates forum" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Delegates-candidates-forum.jpg?fit=300%2C165&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Delegates-candidates-forum.jpg?fit=780%2C430&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By: Samantha Iyar KOROR, Palau (Oct. 9, 2024) — In a pivotal moment for Palau&#8217;s political landscape, six women vying for seats in the House of Delegates participated in a Q&#38;A session at Palau Community College (PCC) Assembly Hall. The event provided voters with a direct opportunity to engage with candidates ahead of the November [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/women-candidates-highlight-legislative-priorities-in-palaus-house-of-delegates-race/">Women candidates highlight Legislative priorities in Palau’s House of Delegates race</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+ 
+
+<https://islandtimes.org/women-candidates-highlight-legislative-priorities-in-palaus-house-of-delegates-race/>
+
+---
+
+## Whipps acknowledges need to Improve Palau’s Investment Climate
+
+date: 2024-10-11, from: Island Times
+
+<figure><img width="497" height="696" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?fit=497%2C696&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?w=497&amp;ssl=1 497w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?resize=214%2C300&amp;ssl=1 214w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?resize=400%2C560&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?fit=497%2C696&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="71308" data-permalink="https://islandtimes.org/whipps-condemns-assassination-attempt-on-trump/surangel_whipps_jr-_at_japan-palau_summit_september_2022/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?fit=497%2C696&amp;ssl=1" data-orig-size="497,696" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;7.1&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon EOS R5&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1662694309&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;109&quot;,&quot;iso&quot;:&quot;8000&quot;,&quot;shutter_speed&quot;:&quot;0.004&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022" data-image-description="" data-image-caption="&lt;p&gt;President Whipps Jr.&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?fit=214%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/07/Surangel_Whipps_Jr._at_Japan-Palau_Summit_September_2022.jpg?fit=497%2C696&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>President Surangel Whipps Jr. admitted that Palau&#8217;s investment climate requires improvements to attract legitimate investors. During an October 9 press conference, Whipps emphasized the need for reforms to create a more welcoming environment for foreign investments. In the past two months, President Whipps has been actively engaging with potential investors from the United States, Japan, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/whipps-acknowledges-need-to-improve-palaus-investment-climate/">Whipps acknowledges need to Improve Palau&#8217;s Investment Climate</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+ 
+
+<https://islandtimes.org/whipps-acknowledges-need-to-improve-palaus-investment-climate/>
+
+---
+
+## Palau Election Commission gears up for 2024 Election after Supreme Court ruling
+
+date: 2024-10-11, from: Island Times
+
+<figure><img width="400" height="378" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/pec.jpg?fit=400%2C378&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/pec.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/pec.jpg?resize=300%2C284&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/pec.jpg?fit=400%2C378&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="60466" data-permalink="https://islandtimes.org/palau-election-certifies-results-of-december-elections/pec-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/pec.jpg?fit=400%2C378&amp;ssl=1" data-orig-size="400,378" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="pec" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/pec.jpg?fit=300%2C284&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/pec.jpg?fit=400%2C378&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>BY: Eustoria Marie Borja Koror, Palau – With just 25 days left before Palau’s 12th General Election on November 5, 2024, the Palau Election Commission (PEC) is working diligently to ensure that all voters, including 2,229 absentee voters, can cast their ballots on time. The Palau Supreme Court, on October 8, upheld the Reapportionment Commission’s [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-election-commission-gears-up-for-2024-election-after-supreme-court-ruling/">Palau Election Commission gears up for 2024 Election after Supreme Court ruling</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+ 
+
+<https://islandtimes.org/palau-election-commission-gears-up-for-2024-election-after-supreme-court-ruling/>
+
+---
+
+## Palau becomes official home of Pacific Ocean Commissioner Office
+
+date: 2024-10-11, from: Island Times
+
+<figure><img width="600" height="493" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/OPOC.jpg?fit=600%2C493&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/OPOC.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/OPOC.jpg?resize=300%2C247&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/OPOC.jpg?resize=400%2C329&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/OPOC.jpg?fit=600%2C493&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73091" data-permalink="https://islandtimes.org/palau-becomes-official-home-of-pacific-ocean-commissioner-office/opoc-4/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/OPOC.jpg?fit=600%2C493&amp;ssl=1" data-orig-size="600,493" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="OPOC" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/OPOC.jpg?fit=300%2C247&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/OPOC.jpg?fit=600%2C493&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>KOROR (OPOC)&#8212;It&#8217;s official- Palau is now the home of the Office of the Pacific Ocean Commissioner (OPOC).  This is following the opening ceremony of the new office by President Surangel Whipps Jr last month. The ceremony attended by high level dignitaries included representatives from Australia and New Zealand, who have been supporting OPOC since it&#8217;s [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-becomes-official-home-of-pacific-ocean-commissioner-office/">Palau becomes official home of Pacific Ocean Commissioner Office</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+ 
+
+<https://islandtimes.org/palau-becomes-official-home-of-pacific-ocean-commissioner-office/>
+
+---
+
+## World Mental Health Day commemorated with Mental Health Training at PCC
+
+date: 2024-10-11, from: Island Times
+
+<figure><img width="973" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/world-mental.jpg?fit=973%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/world-mental.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/world-mental.jpg?resize=285%2C300&amp;ssl=1 285w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/world-mental.jpg?resize=973%2C1024&amp;ssl=1 973w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/world-mental.jpg?resize=768%2C809&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/world-mental.jpg?resize=1200%2C1263&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/world-mental.jpg?resize=400%2C421&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/world-mental.jpg?resize=706%2C743&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/world-mental.jpg?fit=973%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73088" data-permalink="https://islandtimes.org/world-mental-health-day-commemorated-with-mental-health-training-at-pcc/world-mental/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/world-mental.jpg?fit=1249%2C1315&amp;ssl=1" data-orig-size="1249,1315" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="world mental" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/world-mental.jpg?fit=285%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/world-mental.jpg?fit=780%2C821&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>BY: Eustoria Marie Borja In honor of World Mental Health Day, the Division of Behavioral Health of the Ministry of Health and Human Services (MHHS), in collaboration with the Palau Behavioral Health Council, Bangikoi Society (Youth Coalition for a Drug-Free Palau), and the State Opioid Response Program, organized a comprehensive mental health training for students [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/world-mental-health-day-commemorated-with-mental-health-training-at-pcc/">World Mental Health Day commemorated with Mental Health Training at PCC</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+ 
+
+<https://islandtimes.org/world-mental-health-day-commemorated-with-mental-health-training-at-pcc/>
+
+---
+
+## USAID Deputy Administrator Isobel Coleman launches Pacific RISE-CTIP Subaward that leverages the private sector to Counter TIP in Palau
+
+date: 2024-10-11, from: Island Times
+
+<figure><img width="1024" height="685" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Pacific-RISE-CTIP-Weekly-Update-October-4-2024-2.jpg?fit=1024%2C685&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Pacific-RISE-CTIP-Weekly-Update-October-4-2024-2.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Pacific-RISE-CTIP-Weekly-Update-October-4-2024-2.jpg?resize=300%2C201&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Pacific-RISE-CTIP-Weekly-Update-October-4-2024-2.jpg?resize=1024%2C685&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Pacific-RISE-CTIP-Weekly-Update-October-4-2024-2.jpg?resize=768%2C514&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Pacific-RISE-CTIP-Weekly-Update-October-4-2024-2.jpg?resize=1200%2C803&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Pacific-RISE-CTIP-Weekly-Update-October-4-2024-2.jpg?resize=400%2C268&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Pacific-RISE-CTIP-Weekly-Update-October-4-2024-2.jpg?resize=706%2C473&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Pacific-RISE-CTIP-Weekly-Update-October-4-2024-2.jpg?fit=1024%2C685&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73084" data-permalink="https://islandtimes.org/usaid-deputy-administrator-isobel-coleman-launches-pacific-rise-ctip-subaward-that-leverages-the-private-sector-to-counter-tip-in-palau/pacific-rise-ctip-weekly-update-october-4-2024-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Pacific-RISE-CTIP-Weekly-Update-October-4-2024-2.jpg?fit=1249%2C836&amp;ssl=1" data-orig-size="1249,836" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Clara Aglua - Consultant&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Pacific RISE-CTIP Weekly Update October 4 2024-2" data-image-description="" data-image-caption="&lt;p&gt;Deputy Administrator Isobel Coleman, USAID, convening the roundtable discussion with USAID Pacific Regional Imitative and Support for more Effective Counter Trafficking in Persons (RISE-CTIP) Private Sector Partners to launch Palau Chamber of Commerce Subgrant Project in Palau.&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Pacific-RISE-CTIP-Weekly-Update-October-4-2024-2.jpg?fit=300%2C201&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Pacific-RISE-CTIP-Weekly-Update-October-4-2024-2.jpg?fit=780%2C522&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>On September 30, USAID Deputy Administrator Coleman launched a new Pacific RISE-CTIP subaward to the Palau Chamber of Commerce that will leverage Palau’s private sector to counter trafficking in persons (TIP) in the country. Under the project, the Palau Chamber of Commerce and Division of Employment Services will collaborate to address TIP by raising awareness [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/usaid-deputy-administrator-isobel-coleman-launches-pacific-rise-ctip-subaward-that-leverages-the-private-sector-to-counter-tip-in-palau/">USAID Deputy Administrator Isobel Coleman launches Pacific RISE-CTIP Subaward that leverages the private sector to Counter TIP in Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+ 
+
+<https://islandtimes.org/usaid-deputy-administrator-isobel-coleman-launches-pacific-rise-ctip-subaward-that-leverages-the-private-sector-to-counter-tip-in-palau/>
+
+---
+
+## Ribbon cutting ceremony for Ngaraard Elem School water filtration system
+
+date: 2024-10-11, from: Island Times
+
+<figure><img width="1" height="1" src="https://islandtimes.org/wp-content/uploads/2024/10/RIBBON-CUTTING-CEREMONY-FOR-NGARAARD-ELEMENTARY-SCHOOL.tif" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73080" data-permalink="https://islandtimes.org/ribbon-cutting-ceremony-for-ngaraard-elem-school-water-filtration-system/ribbon-cutting-ceremony-for-ngaraard-elementary-school/" data-orig-file="https://islandtimes.org/wp-content/uploads/2024/10/RIBBON-CUTTING-CEREMONY-FOR-NGARAARD-ELEMENTARY-SCHOOL.tif" data-orig-size="" data-comments-opened="1" data-image-meta="[]" data-image-title="RIBBON CUTTING CEREMONY FOR NGARAARD ELEMENTARY SCHOOL" data-image-description="" data-image-caption="" data-medium-file="https://islandtimes.org/wp-content/uploads/2024/10/RIBBON-CUTTING-CEREMONY-FOR-NGARAARD-ELEMENTARY-SCHOOL.tif" data-large-file="https://islandtimes.org/wp-content/uploads/2024/10/RIBBON-CUTTING-CEREMONY-FOR-NGARAARD-ELEMENTARY-SCHOOL.tif" tabindex="0" role="button" /></figure>
+<p>The Palau Public Utilities Corporation is proud to announce the successful completion of Ngaraard Elementary School’s water treatment system. This is an advanced system with innovative low-pressure UF membrane process powered by solar panels. It was constructed and delivered to Palau (Ngaraard) as part of a combined funding from the Federal Ministry for the Environment, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ribbon-cutting-ceremony-for-ngaraard-elem-school-water-filtration-system/">Ribbon cutting ceremony for Ngaraard Elem School water filtration system</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+ 
+
+<https://islandtimes.org/ribbon-cutting-ceremony-for-ngaraard-elem-school-water-filtration-system/>
+
+---
+
+## PPUC employees attend Pacific Linemen Training
+
+date: 2024-10-11, from: Island Times
+
+<p>On September 9-20, 2024, seventeen (17) PPUC employees attended the 5th phase of the Pacific Linemen Training (PLT). This valuable program aims to build capacity, further development and commitment through the safe and efficient transmission of electricity. It is being administered by a grant through the U.S. Department of the Interior’s Office of Insular Affairs. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ppuc-employees-attend-pacific-linemen-training/">PPUC employees attend Pacific Linemen Training</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+ 
+
+<https://islandtimes.org/ppuc-employees-attend-pacific-linemen-training/>
+
+---
+
+## Mireia Batlle Canalias joins PICRC as Communications and Outreach Officer
+
+date: 2024-10-11, from: Island Times
+
+<figure><img width="600" height="735" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PR_MireiaBattleCanaliasJoinsPICRC.jpg?fit=600%2C735&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PR_MireiaBattleCanaliasJoinsPICRC.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PR_MireiaBattleCanaliasJoinsPICRC.jpg?resize=245%2C300&amp;ssl=1 245w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PR_MireiaBattleCanaliasJoinsPICRC.jpg?resize=400%2C490&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PR_MireiaBattleCanaliasJoinsPICRC.jpg?fit=600%2C735&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73072" data-permalink="https://islandtimes.org/mireia-batlle-canalias-joins-picrc-as-communications-and-outreach-officer/pr_mireiabattlecanaliasjoinspicrc/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PR_MireiaBattleCanaliasJoinsPICRC.jpg?fit=600%2C735&amp;ssl=1" data-orig-size="600,735" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone SE (3rd generation)&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1727857858&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;3.99&quot;,&quot;iso&quot;:&quot;32&quot;,&quot;shutter_speed&quot;:&quot;0.0016051364365971&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PR_MireiaBattleCanaliasJoinsPICRC" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PR_MireiaBattleCanaliasJoinsPICRC.jpg?fit=245%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PR_MireiaBattleCanaliasJoinsPICRC.jpg?fit=600%2C735&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Mireia Batlle Canalias, from Spain, recently joined the Palau international Coral Reef Center (PICRC) as a Communications and Outreach Officer. Before moving to Palau, Mireia spent four years as a Science Writer and Project Manager at Science Crunchers, a Portuguese science communication agency. She has a Bachelor of Science in Genetics from Universitat Autònoma de [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/mireia-batlle-canalias-joins-picrc-as-communications-and-outreach-officer/">Mireia Batlle Canalias joins PICRC as Communications and Outreach Officer</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+ 
+
+<https://islandtimes.org/mireia-batlle-canalias-joins-picrc-as-communications-and-outreach-officer/>
+
+---
+
+## WHO Regional Director’s visit to Palau strengthens health partnerships
+
+date: 2024-10-11, from: Island Times
+
+<figure><img width="600" height="705" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/CX5A1666.jpg?fit=600%2C705&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/CX5A1666.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/CX5A1666.jpg?resize=255%2C300&amp;ssl=1 255w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/CX5A1666.jpg?resize=400%2C470&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/CX5A1666.jpg?fit=600%2C705&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73065" data-permalink="https://islandtimes.org/who-regional-directors-visit-to-palau-strengthens-health-partnerships/cx5a1666/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/CX5A1666.jpg?fit=600%2C705&amp;ssl=1" data-orig-size="600,705" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;7.1&quot;,&quot;credit&quot;:&quot;Jeff Bowen&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark III&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1726381498&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;32&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.01&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="CX5A1666" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/CX5A1666.jpg?fit=255%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/CX5A1666.jpg?fit=600%2C705&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>(October 1st , 2024) KOROR, PALAU &#8211; The World Health Organization (WHO) Regional Director for the Western Pacific, Dr. Saia Ma&#8217;u Piukala, concluded a highly successful five-day visit to Palau, reinforcing the strong partnership between WHO and the island nation in addressing critical health challenges. During the visit, Dr. Piukala met with high-level government officials, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/who-regional-directors-visit-to-palau-strengthens-health-partnerships/">WHO Regional Director&#8217;s visit to Palau strengthens health partnerships</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+ 
+
+<https://islandtimes.org/who-regional-directors-visit-to-palau-strengthens-health-partnerships/>
+
+---
+
+## Marshall Islands wins UN Human Rights Council seat with climate, nuclear justice agenda
+
+date: 2024-10-11, from: Island Times
+
+<p>By: Stefan Armbruster/ Benar News Marshall Islands was elected on Wednesday to sit on the United Nations Human Rights Council from next year, with climate change and nuclear justice as its top priorities. Currently there are no Pacific Island nations represented on the 47-member peak U.N. human rights body. Marshall Islands stood with the full [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/marshall-islands-wins-un-human-rights-council-seat-with-climate-nuclear-justice-agenda/">Marshall Islands wins UN Human Rights Council seat with climate, nuclear justice agenda</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+ 
+
+<https://islandtimes.org/marshall-islands-wins-un-human-rights-council-seat-with-climate-nuclear-justice-agenda/>
+
+---
+
+## Consecrate: Rewire & Repair
+
+date: 2024-10-11, from: Island Times
+
+<figure><img width="537" height="567" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?w=537&amp;ssl=1 537w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?resize=284%2C300&amp;ssl=1 284w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?resize=400%2C422&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="61696" data-permalink="https://islandtimes.org/self-compassion/womens-corner-1-6/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1" data-orig-size="537,567" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=284%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>“It is easier to build strong children than to repair broken men.” &#8211; Frederick Douglass Neglecting children, even unintentionally, can deeply impact their emotional and mental well-being. When kids feel unseen, it affects their confidence, relationships, and sense of worth. But here’s the good news: it’s never too late to make a change, and with [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/consecrate-rewire-repair/">Consecrate: Rewire &amp; Repair</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+ 
+
+<https://islandtimes.org/consecrate-rewire-repair/>
+
+---
+
+## Beyond the politics, China’s missile test reflects military need
+
+date: 2024-10-11, from: Island Times
+
+<p>HONG KONG (STRAIT TIMES) &#8212;From a missile discreetly ferried more than 1,000 km (620 miles) to a launch site, to the use of remote bases and satellites to track it from Hainan Island to the South Pacific, China&#8217;s September ICBM flight marked a test of operational necessity. Six security analysts and four diplomats evaluating the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/beyond-the-politics-chinas-missile-test-reflects-military-need/">Beyond the politics, China&#8217;s missile test reflects military need</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+ 
+
+<https://islandtimes.org/beyond-the-politics-chinas-missile-test-reflects-military-need/>
+
+---
+
+## French Polynesian president asks UN to bring France into decolonization talks
+
+date: 2024-10-11, from: Island Times
+
+<p>NEW YORK (BENAR NEWS)&#8212;French Polynesia’s president and civil society leaders have called on the United Nations to bring France to the negotiating table and set a timetable for the decolonization of the Pacific territory. More than a decade after the archipelago was re-listed for decolonisation by the UN General Assembly, France has refused to acknowledge [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/french-polynesian-president-asks-un-to-bring-france-into-decolonization-talks/">French Polynesian president asks UN to bring France into decolonization talks</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+ 
+
+<https://islandtimes.org/french-polynesian-president-asks-un-to-bring-france-into-decolonization-talks/>
+
+---
+
+##  Why print still matters
+
+date: 2024-10-11, from: Pacific Island Times
+
+In July, we were notified by the U.S. Library of Congress that it has selected our website, pacificislandtimes.com , for inclusion in the... 
+
+ 
+
+<https://www.pacificislandtimes.com/post/why-print-still-matters>
+
+---
+
+## FSM asks Washington to keep its end of the bargain 
+
+date: 2024-10-11, from: Pacific Island Times
+
+By Mar-Vic Cagurangan   While Washington may have partially fulfilled some of its pledges under the Compact of Free Association, the... 
+
+ 
+
+<https://www.pacificislandtimes.com/post/fsm-asks-washington-to-keep-its-end-of-the-bargain>
 
 ---
 
@@ -578,6 +1205,20 @@ date: 2024-10-10, from: Hawaii Tribune Harold
  
 
 <https://www.hawaiitribune-herald.com/2024/10/10/hawaii-news/man-arrested-following-armed-standoff-with-police-in-volcano/>
+
+---
+
+## Auditions to be held for Christmas musical
+
+date: 2024-10-10, from: Hawaii Tribune Harold
+
+
+				<p>Hilo Community Players will be holding auditions for their upcoming production of &#8220;A Christmas Carol (The Musical).&#8221;</p>
+			 
+
+ 
+
+<https://www.hawaiitribune-herald.com/2024/10/10/community/auditions-to-be-held-for-christmas-musical/>
 
 ---
 
@@ -1237,7 +1878,7 @@ A man and a woman are facing drug possession charges after a traffic stop led to
 
 date: 2024-10-08, from: Island Times
 
-<figure><img width="1024" height="445" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?fit=1024%2C445&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?resize=300%2C130&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?resize=1024%2C445&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?resize=768%2C334&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?resize=1200%2C522&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?resize=400%2C174&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?resize=706%2C307&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?fit=1024%2C445&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73031" data-permalink="https://islandtimes.org/women-candidates-make-historic-strides-in-palaus-upcoming-general-election/oct08issue-indd/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?fit=1249%2C543&amp;ssl=1" data-orig-size="1249,543" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;oct08issue.indd&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="oct08issue.indd" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?fit=300%2C130&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?fit=780%2C339&amp;ssl=1" tabindex="0" role="button" /></figure>
+<figure><img width="1024" height="445" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?fit=1024%2C445&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?resize=300%2C130&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?resize=1024%2C445&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?resize=768%2C334&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?resize=1200%2C522&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?resize=400%2C174&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?resize=706%2C307&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?fit=1024%2C445&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73031" data-permalink="https://islandtimes.org/women-candidates-make-historic-strides-in-palaus-upcoming-general-election/oct08issue-indd/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?fit=1249%2C543&amp;ssl=1" data-orig-size="1249,543" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;oct08issue.indd&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="oct08issue.indd" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?fit=300%2C130&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/senate-women.jpg?fit=780%2C339&amp;ssl=1" tabindex="0" role="button" /></figure>
 <p>By: Samantha Iyar As Palau approaches its general election in November, a remarkable wave of female candidates is stepping into the political arena, signaling a shift towards greater gender representation. Out of 34 candidates running for the House of Delegates, six women are vying for seats, while another six women are competing for one of [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/women-candidates-make-historic-strides-in-palaus-upcoming-general-election/">Women Candidates Make Historic Strides in Palau&#8217;s Upcoming General Election</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  

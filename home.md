@@ -1,11 +1,26 @@
 ---
 title: home
-updated: 2024-10-10 21:04:52
+updated: 2024-10-11 07:08:32
 ---
 
 # home
 
-(date: 2024-10-10 21:04:52)
+(date: 2024-10-11 07:08:32)
+
+---
+
+## 20 Grasshopper Species in Florida with Pictures, Identification
+
+date: 2024-10-11, from: Yard Life blog
+
+<p>Florida is home to various species of grasshoppers, each with its own unique characteristics. In this guide, we&#x2019;ll explore 20 ... </p>
+<p class="read-more-container"><a title="20 Grasshopper Species in Florida with Pictures, Identification" class="read-more button" href="https://ownyardlife.com/20-grasshopper-species-in-florida-with-pictures-identification/#more-20558" aria-label="Read more about 20 Grasshopper Species in Florida with Pictures, Identification">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/20-grasshopper-species-in-florida-with-pictures-identification/">20 Grasshopper Species in Florida with Pictures, Identification</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+ 
+
+<https://ownyardlife.com/20-grasshopper-species-in-florida-with-pictures-identification/>
 
 ---
 
@@ -24,6 +39,30 @@ date: 2024-10-11, from: Yard Life blog
 
 ---
 
+## Don’t Miss the Meteor Shower Made of Fragments of Comet Halley
+
+date: 2024-10-10, from: Sunset Magazine - Living in the West
+
+Conditions are right for a great meteor shower early Sunday morning. 
+
+ 
+
+<https://www.sunset.com/travel/orionid-meteor-shower-peaks-early-thursday-morning>
+
+---
+
+## A ‘Once-in-a-Lifetime’ Star System Explosion Is Coming Soon—Here’s How to See It
+
+date: 2024-10-10, from: Sunset Magazine - Living in the West
+
+For the first time in nearly 80 years, T Coronae Borealis (T CrB for short) will explode. And experts say you can see it with an unaided eye. 
+
+ 
+
+<https://www.sunset.com/travel/t-coronae-borealis-star-explosion>
+
+---
+
 ## Here’s Why Tesla Cybertrucks Are a Headache for Insurance Companies
 
 date: 2024-10-10, from: Family Handyman Blog
@@ -38,6 +77,18 @@ date: 2024-10-10, from: Family Handyman Blog
 
 ---
 
+## Why Right Now Is the Best Time to Go to Waikiki
+
+date: 2024-10-10, from: Sunset Magazine - Living in the West
+
+It's the perfect time to go to Waikiki and explore all the eats, drinks, and cultural experiences. Use our itinerary. 
+
+ 
+
+<https://www.sunset.com/travel/what-to-do-in-waikiki>
+
+---
+
 ## The Canopy In Detroit Reimagines Big Block Multifamily Housing
 
 date: 2024-10-10, from: Dwell
@@ -47,6 +98,18 @@ For their latest project in Core City, EC3 and Prince Concepts highlight pre-exi
  
 
 <https://www.dwell.com/article/the-canopy-in-detroit-reimagines-big-block-multifamily-housing-a381e8e6>
+
+---
+
+## Disneyland Just Raised Ticket Prices This Week
+
+date: 2024-10-10, from: Sunset Magazine - Living in the West
+
+It’s going to cost you more to visit the Happiest Place on Earth. Disneyland announced that it was raising its ticket prices. 
+
+ 
+
+<https://www.sunset.com/travel/disneyland-ticket-price-increase>
 
 ---
 
@@ -75,6 +138,18 @@ date: 2024-10-10, from: Family Handyman Blog
  
 
 <https://www.familyhandyman.com/article/hoas-more-expensive-to-own-a-home/>
+
+---
+
+## Two Comets Are on Their Way to Our Skies in October—Here’s How to See Them
+
+date: 2024-10-10, from: Sunset Magazine - Living in the West
+
+Mother Nature is putting on a show in two acts this month, with a pair of comets on the way. Here’s how to catch both. 
+
+ 
+
+<https://www.sunset.com/travel/outdoor-adventure/comet-tsuchinshan-atlas-october-2024>
 
 ---
 
@@ -292,6 +367,18 @@ October is National Farm to School Month. CDFA encourages educators, school food
  
 
 <https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28313>
+
+---
+
+## This Stylish Hammock Keeps Vacation Vibes Going All Year Long
+
+date: 2024-10-09, from: Sunset Magazine - Living in the West
+
+You can still create summer vibes year round, just get a hammock to chill out in. Use it for sleeping, napping, and reading, it's an escape. 
+
+ 
+
+<https://www.sunset.com/yellow-leaf-hammock-review>
 
 ---
 

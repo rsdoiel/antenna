@@ -1,11 +1,175 @@
 ---
 title: food
-updated: 2024-10-10 21:04:55
+updated: 2024-10-11 07:08:35
 ---
 
 # food
 
-(date: 2024-10-10 21:04:55)
+(date: 2024-10-11 07:08:35)
+
+---
+
+## The Best Whey Protein Powder for People Who Genuinely Love Food
+
+date: 2024-10-11, from: Bon Appetet
+
+Fruity cereal protein powder is surprisingly good. 
+
+ 
+
+<https://www.bonappetit.com/story/best-whey-protein-powder>
+
+---
+
+## Cheesy Ranch Spinach Puffs
+
+date: 2024-10-11, from: Taste of Home
+
+A coworker gave me this recipe thirty years ago. I made a few changes to suit my family’s tastes. These hot cheese and spinach puffs are tasty and always well-received! They are super convenient since you can make them in advance and bake them later. —Kristine Chayes, Smithtown, New York 
+
+ 
+
+<https://www.tasteofhome.com/recipes/cheesy-ranch-spinach-puffs/>
+
+---
+
+## Weekly Coffee News: Auctions Galore + US Coffee Market Report
+
+date: 2024-10-11, from: Daily Coffee News
+
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Best-of-Yemen2-620x349.jpg" class="attachment-large size-large wp-post-image" alt="Best of Yemen2" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Best-of-Yemen2-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Best-of-Yemen2-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Best-of-Yemen2-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Best-of-Yemen2-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Best-of-Yemen2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at CoffeeIndustryJobs.com. Best of Yemen Auction Breaks Price and Participation... 
+
+ 
+
+<https://dailycoffeenews.com/2024/10/11/weekly-coffee-news-auctions-galore-us-coffee-market-report/>
+
+---
+
+## La Vieille Ferme's Viral Ascent as "Chicken Wine"
+
+date: 2024-10-11, from: Bon Appetet
+
+The French wine La Vielle Ferme has been around since the '70s, but it's the latest brand to go viral. 
+
+ 
+
+<https://www.bonappetit.com/story/la-vieille-ferme-chicken-wine-tiktok>
+
+---
+
+## Too Much Paprika? Four Ways To Fix Your Dish
+
+date: 2024-10-11, from: Pepper Scale
+
+Generally speaking, paprika is a mild spice. The form of it that is easiest to find in the west is used more for its ability to color dishes than for any ability to flavor them. Its mildness means that you have some leeway if you ... <p class="read-more-container"><a title="Too Much Paprika? Four Ways To Fix Your Dish" class="read-more button" href="https://pepperscale.com/too-much-paprika/#more-59022" aria-label="Read more about Too Much Paprika? Four Ways To Fix Your Dish">Read more</a></p> 
+
+ 
+
+<https://pepperscale.com/too-much-paprika/>
+
+---
+
+## Cuban Medianoche Sandwich Recipe
+
+date: 2024-10-11, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/medianoche/" title="Cuban Medianoche Sandwich Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Medianoche-Sandwich-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Mike holding a Cuban Medianoche Sandwich" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Medianoche-Sandwich-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Medianoche-Sandwich-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Medianoche-Sandwich-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Medianoche-Sandwich-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Medianoche-Sandwich-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Medianoche-Sandwich-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Medianoche-Sandwich-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>The Medianoche sandwich is layered with roast pork, ham, Swiss cheese and pickles, then pressed, much like a Cuban sandwich, but served on eggy sweet rolls. Learn how to make it at home!</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/medianoche/">Cuban Medianoche Sandwich Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+ 
+
+<https://www.chilipeppermadness.com/recipes/medianoche/>
+
+---
+
+## Spicy Mushroom Soup
+
+date: 2024-10-11, from: Pepper Scale
+
+What&#8217;s better than&#160;the creamy, earthy flavor of cream of mushroom soup? How about adding a delicious cayenne-inspired kick? It&#8217;s a homey heat that&#8217;ll warm you right up in many different ways. This soup is so filling it&#8217;s like a meal of its own. The amount ... <p class="read-more-container"><a title="Spicy Mushroom Soup" class="read-more button" href="https://pepperscale.com/spicy-mushroom-soup/#more-8650" aria-label="Read more about Spicy Mushroom Soup">Read more</a></p> 
+
+ 
+
+<https://pepperscale.com/spicy-mushroom-soup/>
+
+---
+
+## Spicy Ginger Snap Cookies
+
+date: 2024-10-11, from: Pepper Scale
+
+Ginger snaps always deliver a decent warmth due to the&#8230;you guessed it&#8230;ginger, along with cinnamon, and cloves. But why not turn that warmth into actual sizzle? Spicy ginger snap cookies do just that. A little cayenne pepper powder packs a little pop to that snap. ... <p class="read-more-container"><a title="Spicy Ginger Snap Cookies" class="read-more button" href="https://pepperscale.com/spicy-ginger-snap-cookies/#more-8972" aria-label="Read more about Spicy Ginger Snap Cookies">Read more</a></p> 
+
+ 
+
+<https://pepperscale.com/spicy-ginger-snap-cookies/>
+
+---
+
+## Spicy Masala Eggs With Khichdi
+
+date: 2024-10-11, from: Pepper Scale
+
+This is where super spicy meets satisfyingly simple. Rich with tomato, onion, and classic Indian spices, our spicy masala eggs are fired by cayenne peppers and brightened with lemon juice. Those big-hitting flavors are paired with the creamy, softly spiced, rice-and-lentil delight called khichdi. If ... <p class="read-more-container"><a title="Spicy Masala Eggs With Khichdi " class="read-more button" href="https://pepperscale.com/spicy-masala-eggs-with-khichdi/#more-92543" aria-label="Read more about Spicy Masala Eggs With Khichdi ">Read more</a></p> 
+
+ 
+
+<https://pepperscale.com/spicy-masala-eggs-with-khichdi/>
+
+---
+
+## Fermented Vs. Unfermented Hot Sauce — How Do They Compare?
+
+date: 2024-10-11, from: Pepper Scale
+
+Fermented hot sauce and unfermented hot sauce are the two main options when making (or purchasing) hot sauce. The two processes result in very different products, even though the ingredients are very similar. Let&#8217;s break down the differences between the two in simple terms, so ... <p class="read-more-container"><a title="Fermented Vs. Unfermented Hot Sauce — How Do They Compare?" class="read-more button" href="https://pepperscale.com/fermented-vs-unfermented-hot-sauce/#more-53147" aria-label="Read more about Fermented Vs. Unfermented Hot Sauce — How Do They Compare?">Read more</a></p> 
+
+ 
+
+<https://pepperscale.com/fermented-vs-unfermented-hot-sauce/>
+
+---
+
+## How To Find: An Espresso Machine Technician
+
+date: 2024-10-11, from: The Fresh Cup
+
+<p>Managing a coffee shop can feel isolating, but help is always around the corner. In our new series, "How To Find," we tell you how to connect with the experts you need to take your business forward. </p>
+<p>The post <a href="https://freshcup.com/how-to-find-an-espresso-machine-technician/">How To Find: An Espresso Machine Technician</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+ 
+
+<https://freshcup.com/how-to-find-an-espresso-machine-technician/>
+
+---
+
+## Roasted Delicata Squash and More Recipes We Made This Week
+
+date: 2024-10-11, from: Bon Appetet
+
+Like fresh pasta and chipless cookies. 
+
+ 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-october-2024>
+
+---
+
+## Homemade Chili Powder
+
+date: 2024-10-11, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/homemade-chili-powder/"><img title="homemade-chili-powder-11" src="https://www.isabeleats.com/wp-content/uploads/2024/10/homemade-chili-powder-11-400x600.jpg" alt="Homemade chili powder from scratch in a jar ready to be used in recipes." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	Ready in only 10 minutes, this homemade chili powder is simple, quick, and incredibly flavorful. Made from whole dried guajillo chilies and a few other simple seasonings, you won’t miss the store-bought version. It&#8217;s perfect for using in chilis, tacos, salsas, sauces, sides, and pretty much anything you can think of! Chili powder is an [&#8230;] 
+
+ 
+
+<https://www.isabeleats.com/homemade-chili-powder/>
 
 ---
 
@@ -127,7 +291,7 @@ date: 2024-10-10, from: Taste of Home
 
 date: 2024-10-10, from: Daily Coffee News
 
-<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/08/LAPH-Cafe-Vietnam-1-620x413.jpg" class="attachment-large size-large wp-post-image" alt="LAPH Cafe Vietnam 1" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/08/LAPH-Cafe-Vietnam-1-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/08/LAPH-Cafe-Vietnam-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/08/LAPH-Cafe-Vietnam-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/08/LAPH-Cafe-Vietnam-1-768x511.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/08/LAPH-Cafe-Vietnam-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/08/LAPH-Cafe-Vietnam-1-620x413.jpg" class="attachment-large size-large wp-post-image" alt="LAPH Cafe Vietnam 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/08/LAPH-Cafe-Vietnam-1-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/08/LAPH-Cafe-Vietnam-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/08/LAPH-Cafe-Vietnam-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/08/LAPH-Cafe-Vietnam-1-768x511.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/08/LAPH-Cafe-Vietnam-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
 
  
 
@@ -503,7 +667,7 @@ Air fryer–crisped and honey butter–glazed, okonomiyaki-style with toppings g
 
 date: 2024-10-09, from: Daily Coffee News
 
-<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/coffee-620x413.jpg" class="attachment-large size-large wp-post-image" alt="coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/coffee-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/coffee-768x511.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Payment and business technology giant Square recently analyzed millions of transactions across the United States and Canada to discover coffee consumer trends. Prominent findings included increases in out-of-home coffee purchasing,... 
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/coffee-620x413.jpg" class="attachment-large size-large wp-post-image" alt="coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/coffee-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/coffee-768x511.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Payment and business technology giant Square recently analyzed millions of transactions across the United States and Canada to discover coffee consumer trends. Prominent findings included increases in out-of-home coffee purchasing,... 
 
  
 
@@ -635,7 +799,7 @@ Sure, you need some planning, but homemade ranch-style beans are a world better 
 
 date: 2024-10-09, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/biryani/" title="Chicken Biryani Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Chicken-Biryani-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A hearty helping of Chicken Biryani on a serving plate" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Chicken-Biryani-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Chicken-Biryani-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Chicken-Biryani-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Chicken-Biryani-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Chicken-Biryani-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Chicken-Biryani-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Chicken-Biryani-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This homemade biryani is layered with tender chicken, fluffy rice, and fragrant spices all in one pot, a delicious, comforting dish the family will love.</p>
+<a href="https://www.chilipeppermadness.com/recipes/biryani/" title="Chicken Biryani Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Chicken-Biryani-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A hearty helping of Chicken Biryani on a serving plate" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Chicken-Biryani-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Chicken-Biryani-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Chicken-Biryani-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Chicken-Biryani-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Chicken-Biryani-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Chicken-Biryani-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Chicken-Biryani-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This homemade biryani is layered with tender chicken, fluffy rice, and fragrant spices all in one pot, a delicious, comforting dish the family will love.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/biryani/">Chicken Biryani Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

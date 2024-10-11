@@ -1,11 +1,47 @@
 ---
 title: national
-updated: 2024-10-10 21:04:46
+updated: 2024-10-11 07:08:25
 ---
 
 # national
 
-(date: 2024-10-10 21:04:46)
+(date: 2024-10-11 07:08:25)
+
+---
+
+## Corporate travel spending is forecasted to exceed pre-pandemic levels
+
+date: 2024-10-11, from: Market Place
+
+But that doesn't mean everything has completely caught up, analysts say.  
+
+ 
+
+<https://www.marketplace.org/2024/10/11/corporate-business-travel-spending-is-set-to-exceed-pre-pandemic-levels/>
+
+---
+
+## The argument for just not talking about politics in the workplace
+
+date: 2024-10-11, from: Market Place
+
+"I think the idea is to set a norm of corporate political neutrality," argues Sean Westwood of the Polarization Research Lab. 
+
+ 
+
+<https://www.marketplace.org/2024/10/11/the-argument-for-just-not-talking-about-politics-in-the-workplace/>
+
+---
+
+## Explaining the racial gap in stock market investment
+
+date: 2024-10-11, from: Market Place
+
+New research finds that inequities in unemployment risk can explain some of the racial gap in stock market investment.  
+
+ 
+
+<https://www.marketplace.org/2024/10/11/explaining-the-racial-gap-in-stock-market-investment/>
 
 ---
 

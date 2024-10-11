@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2024-10-10 21:04:51
+updated: 2024-10-11 07:08:31
 ---
 
 # libraries
 
-(date: 2024-10-10 21:04:51)
+(date: 2024-10-11 07:08:31)
+
+---
+
+## Ahoy! Why is English Awash in Nautical Terms?
+
+date: 2024-10-11, from: Scholarly Kitchen
+
+<p>Why is the English language so filled with nautical terms?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/10/11/ahoy-why-is-english-awash-in-nautical-terms/">Ahoy! Why is English Awash in Nautical Terms?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/10/11/ahoy-why-is-english-awash-in-nautical-terms/>
 
 ---
 

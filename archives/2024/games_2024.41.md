@@ -1,11 +1,83 @@
 ---
 title: games
-updated: 2024-10-10 21:04:50
+updated: 2024-10-11 07:08:30
 ---
 
 # games
 
-(date: 2024-10-10 21:04:50)
+(date: 2024-10-11 07:08:30)
+
+---
+
+## People are celebrating their cursed fictional crushes in new TikTok trend
+
+date: 2024-10-11, updated: 2024-10-10, from: Polygon Website
+
+People online are fessing up to their unconventional childhood crushes and I, for one, am happier because of it. A new TikTok trend has people making videos about their early love interests — like Diego from the Ice Age movies or The Man with the Yellow Hat from Curious George — with the top videos [&#8230;] 
+
+ 
+
+<https://www.polygon.com/culture/464598/tiktok-trend-fan-art-cursed-fictional-crushes>
+
+---
+
+## The Halloween Countdown: 31 days of horror to watch
+
+date: 2024-10-11, updated: 2024-10-11, from: Polygon Website
+
+Do you feel that? That chill in the air, that tingling sensation at the back of your neck? It can only mean one thing. That’s right: Halloween season is once again upon us! Here at Polygon, we love horror. We cover it all year round, whether it’s ranking the scariest new releases of the year [&#8230;] 
+
+ 
+
+<https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream>
+
+---
+
+## Honkai: Star Rail 2.6 livestream codes
+
+date: 2024-10-11, updated: 2024-10-11, from: Polygon Website
+
+Honkai: Star Rail just closed out its version 2.6 livestream, teasing what’s to come in the next update, which launches the evening of Oct. 22 EDT. Alongside new characters and events, Hoyoverse uses the stream to distribute codes that reward free Stellar Jade and other upgrade materials. This update adds one playable character to the [&#8230;] 
+
+ 
+
+<https://www.polygon.com/honkai-star-rail-guides/462003/honkai-star-rail-2-6-livestream-codes>
+
+---
+
+## The best TV of 2024 so far
+
+date: 2024-10-11, updated: 2024-10-11, from: Polygon Website
+
+Nicole Kidman may be right about going to the movies — we&#160;do&#160;go to that place to laugh, to cry, to care, to see dazzling images on a huge silver screen. But, all but inevitably, eventually, we go home. And it’s there we also find a place where stories can feel like magic. In fact, it’s [&#8230;] 
+
+ 
+
+<https://www.polygon.com/what-to-watch/24078257/best-tv-2024-shows-series>
+
+---
+
+## Early Dragon Ball: Sparking! Zero boss fight is so hard that it&#8217;s inspired loads of memes
+
+date: 2024-10-11, updated: 2024-10-10, from: Polygon Website
+
+Sometimes there is nothing as painful and joyful as being pummeled to death by a tough boss. Since its early access release on Monday, players of Dragon Ball: Sparking! Zero have been flocking to social media to share memes and commiserate about how hard the Great Ape Vegeta boss fight is.  The Great Ape is [&#8230;] 
+
+ 
+
+<https://www.polygon.com/gaming/464800/dragon-ball-sparking-zero-great-ape-vegeta-memes>
+
+---
+
+## Halo: Flashpoint, a new miniatures game, has all the right moves
+
+date: 2024-10-11, updated: 2024-10-10, from: Polygon Website
+
+First announced in January, Mantic Games’ Halo: Flashpoint makes its way into the world in November as the first wave of pre-orders start shipping out to eager fans. Polygon got a brief, early look at the miniatures skirmish game this week. While the launch product is a touch light on content, the building blocks are [&#8230;] 
+
+ 
+
+<https://www.polygon.com/tabletop-games/464798/halo-flashpoint-review-mantic-miniatures-skirmish>
 
 ---
 
@@ -54,6 +126,18 @@ Every monarch needs their supporters, and in Metaphor: ReFantazio, your Follower
  
 
 <https://www.polygon.com/metaphor-refantazio-guides/463408/followers-all-list-how-to-unlock>
+
+---
+
+## How to increase Eloquence in Metaphor: ReFantazio
+
+date: 2024-10-11, updated: 2024-10-10, from: Polygon Website
+
+Eloquence is one of five Royal Virtues in Metaphor: ReFantazio. It’s also the hardest to come by (compared to Courage, Wisdom, Tolerance, and Imagination) because opportunities to do so are relatively limited.&#160;But not impossible! In this Metaphor: ReFantazio guide, we’ll show you how to raise Eloquence, and explain what you get for the effort. Unlocking [&#8230;] 
+
+ 
+
+<https://www.polygon.com/metaphor-refantazio-guides/463373/eloquence-how-to-increase-raise-level-up>
 
 ---
 

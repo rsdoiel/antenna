@@ -1,11 +1,83 @@
 ---
 title: motorcycles
-updated: 2024-10-10 21:04:53
+updated: 2024-10-11 07:08:33
 ---
 
 # motorcycles
 
-(date: 2024-10-10 21:04:53)
+(date: 2024-10-11 07:08:33)
+
+---
+
+## Washington Won't Open 14 Snowmobile Trails This Year, Blames Lackluster Registrations
+
+date: 2024-10-11, from: Ride Apart, Electric Motorcycle News
+
+A not great snow year was also cited.  
+
+ 
+
+<https://www.rideapart.com/news/736928/washington-closes-snowmobile-trails-2025-2026-season/>
+
+---
+
+## Lane Filtering Actually Works, Says French Moto Safety Instructor
+
+date: 2024-10-11, from: Ride Apart, Electric Motorcycle News
+
+Paris changed a speed limit and effectively banned lane filtering, and riders aren't happy. 
+
+ 
+
+<https://www.rideapart.com/news/736926/lane-filtering-paris-law-change/>
+
+---
+
+## This EV Moto Has a See-Through Frame, Proves We Can’t Get Over The Past
+
+date: 2024-10-11, from: Ride Apart, Electric Motorcycle News
+
+The past will always define our future, no matter what we do.  
+
+ 
+
+<https://www.rideapart.com/news/736775/dab-1a-transparent-edition-electric-motorcycle/>
+
+---
+
+## Federal Government Cuts US Forest Service Budget, Your Trails and Outdoors Will Suffer
+
+date: 2024-10-11, from: Ride Apart, Electric Motorcycle News
+
+Get ready for worse public lands next year.  
+
+ 
+
+<https://www.rideapart.com/news/736921/us-forest-service-budget-cut-seasonal-workers-hiring-freeze/>
+
+---
+
+## Arizona Car Driver Hates Lane-Filtering, Says He Doesn't Care It's Safer
+
+date: 2024-10-11, from: Ride Apart, Electric Motorcycle News
+
+"Me? I say forget the science." is his exact quote.  
+
+ 
+
+<https://www.rideapart.com/news/736905/arizona-citizen-motorcycle-lane-filtering-mesa-tribune-opinion/>
+
+---
+
+## Triumph's Updated Trident Wants It All, Gets More Tech Than Anybody Asked For
+
+date: 2024-10-11, from: Ride Apart, Electric Motorcycle News
+
+It just might be the best-equipped bike in its class.  
+
+ 
+
+<https://www.rideapart.com/news/736777/2025-triumph-trident-660-tech-updates/>
 
 ---
 

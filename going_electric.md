@@ -1,11 +1,115 @@
 ---
 title: going electric
-updated: 2024-10-10 21:04:54
+updated: 2024-10-11 07:08:34
 ---
 
 # going electric
 
-(date: 2024-10-10 21:04:54)
+(date: 2024-10-11 07:08:34)
+
+---
+
+## BYD takes over as China’s largest auto group with low-cost EVs dominating the market
+
+date: 2024-10-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/10/BYD-Q3-profit.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Although <a href="https://electrek.co/guides/byd/">BYD</a> was already the best-selling brand in China, it reached an even more significant milestone last month. After overtaking SAIC, BYD is now China’s largest auto group.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="383797" href="https://electrek.co/2024/10/11/byd-takes-over-chinas-largest-auto-group-low-cost-evs/#more-383797" class="more-link">more…</a> 
+
+ 
+
+<https://electrek.co/2024/10/11/byd-takes-over-chinas-largest-auto-group-low-cost-evs/>
+
+---
+
+## Stellantis CEO Carlos Tavares to retire, his successor to be named at a later date
+
+date: 2024-10-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Stellantis-CEO.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Global automaker Stellantis has confirmed that his long-tenured CEO, Carlos Tavares, will retire when his current contract expires in early 2026. The news was joined by additional executive shakeups as <a href="https://electrek.co/guides/stellantis/">Stellantis</a> has named new chiefs for its European and North American operations as well.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="stellantis" data-layer-viewtype="unknown" data-post-id="383795" href="https://electrek.co/2024/10/11/stellantis-ceo-carlos-tavares-to-retire-his-successor-to-be-named-at-a-later-date/#more-383795" class="more-link">more…</a> 
+
+ 
+
+<https://electrek.co/2024/10/11/stellantis-ceo-carlos-tavares-to-retire-his-successor-to-be-named-at-a-later-date/>
+
+---
+
+## E-bike maker Juiced Bikes appears to collapse amid silence from owners
+
+date: 2024-10-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/juiced-closing-header.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>An early pioneer in the North American electric bicycle market, Juiced Bikes appears to be in collapse. According to many customers, the San Diego-based e-bike company has largely ghosted them and failed to respond to repeated customer service inquiries. At the same time, the company’s website is out of stock on all products and its assets appear headed for auction.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bankruptcy,ebikes" data-layer-viewtype="unknown" data-post-id="383786" href="https://electrek.co/2024/10/11/e-bike-maker-juiced-bikes-appears-to-collapse-amid-silence-from-owners/#more-383786" class="more-link">more…</a> 
+
+ 
+
+<https://electrek.co/2024/10/11/e-bike-maker-juiced-bikes-appears-to-collapse-amid-silence-from-owners/>
+
+---
+
+## Tesla's Robotaxi Won't Have A Charge Port. It's Wireless Charging Only
+
+date: 2024-10-11, from: Inside EVs News
+
+“The Robotaxi has no plug,” Elon Musk said during last night’s reveal. Is Tesla about to go big on inductive charging? 
+
+ 
+
+<https://insideevs.com/news/736961/tesla-robotaxi-charge-port/>
+
+---
+
+## What are you most excited about from Robotaxi event?
+
+date: 2024-10-11, from: Electrek Feed
+
+ 
+
+ 
+
+<https://electrek.co/poll-post/what-are-you-most-excited-about-from-robotaxi-event/>
+
+---
+
+## Tesla unveils Robovan, a 20-seat autonomous passenger/cargo van
+
+date: 2024-10-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Robovan_73-e1728619221559.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla held its <a href="https://electrek.co/2024/10/10/tesla-robotaxi-launch-news-hub-and-watch-party/">Robotaxi event</a> tonight to introduce a whole new vehicle that will function exclusively as a driverless vehicle. But in addition to the Robotaxi, it also unveiled another robo-vehicle – an autonomous van that can be used for either 20-person mass transit or for cargo hauling tasks.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-robovan" data-layer-viewtype="unknown" data-post-id="383713" href="https://electrek.co/2024/10/10/tesla-unveils-robovan-a-20-seat-autonomous-passenger-cargo-van/#more-383713" class="more-link">more…</a> 
+
+ 
+
+<https://electrek.co/2024/10/10/tesla-unveils-robovan-a-20-seat-autonomous-passenger-cargo-van/>
+
+---
+
+## Tesla unveils Cybercab: a $30,000 electric robotaxi coming in the next 2 years
+
+date: 2024-10-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Robotaxi_82-e1728620096771.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has unveiled a new vehicle called Cybercab; a $30,000 electric robotaxi coming in the next 2 years.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybercab" data-layer-viewtype="unknown" data-post-id="383706" href="https://electrek.co/2024/10/10/tesla-unveils-cybercab-electric-robotaxi/#more-383706" class="more-link">more…</a> 
+
+ 
+
+<https://electrek.co/2024/10/10/tesla-unveils-cybercab-electric-robotaxi/>
 
 ---
 
@@ -13,7 +117,7 @@ updated: 2024-10-10 21:04:54
 
 date: 2024-10-11, from: Inside EVs News
 
-Tesla's "one more thing" at the its robotaxi event was an electric, autonomous bus.  
+Tesla shocked the crowd at its robotaxi event when it revealed the concept for an electric, autonomous bus.  
 
  
 
@@ -25,7 +129,7 @@ Tesla's "one more thing" at the its robotaxi event was an electric, autonomous b
 
 date: 2024-10-11, from: Inside EVs News
 
-Tesla CEO Elon Musk said the Cybercab will be available for purchase before 2027. 
+Tesla CEO Elon Musk said the Robotaxi will be available for purchase before 2027. 
 
  
 
@@ -37,7 +141,7 @@ Tesla CEO Elon Musk said the Cybercab will be available for purchase before 2027
 
 date: 2024-10-11, from: Inside EVs News
 
-It's finally here. Tesla The automaker unveiled the vehicle at a splashy event in Los Angeles, but can it deliver on so many promises? 
+Tesla unveiled the Cybercab at a splashy event in Los Angeles, but can it deliver on so many promises? 
 
  
 

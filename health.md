@@ -1,11 +1,35 @@
 ---
 title: health
-updated: 2024-10-10 21:04:54
+updated: 2024-10-11 07:08:34
 ---
 
 # health
 
-(date: 2024-10-10 21:04:54)
+(date: 2024-10-11 07:08:34)
+
+---
+
+## Priming from within: TLR2 dependent but receptor independent activation of the mammary macrophage inflammasome by Streptococcus uberis
+
+date: 2024-10-11, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionStreptococcus uberis is a member of the pyogenic cluster of Streptococcus commonly associated with intramammary infection and mastitis in dairy cattle. It is a poorly controlled globally endemic pathogen responsible for a significant cause of the disease worldwide. The ruminant mammary gland provides an atypical body niche in which immune cell surveillance occurs on both sides of the epithelial tissue. S. uberis does not cause disease in non-ruminant species and is an asymptomatic commensal in other body niches. S. uberis exploits the unusual niche of the mammary gland to initiate an innate response from bovine mammary macrophage (BMMO) present in the secretion (milk) in which it can resist the host immune responses. As a result – and unexpectedly - the host inflammatory response is a key step in the pathogenesis of S.uberis, without which colonisation is impaired. In contrast to other bacteria pathogenic to the bovine mammary gland, S. uberis does not elicit innate responses from epithelial tissues; initial recognition of infection is via macrophages within milk.MethodsWe dissected the role of the bacterial protein SUB1154 in the inflammasome pathway using ex vivo bovine mammary macrophages isolated from milk, recombinant protein expression, and a panel of inhibitors, agonists, and antagonists. We combine this with reverse-transcription quantitative real-time PCR to investigate the mechanisms underlying SUB1154-mediated priming of the immune response.ResultsHere, we show that SUB1154 is responsible for priming the NLRP3 inflammasome in macrophages found in the mammary gland. Without SUB1154, IL-1β is not produced, and we were able to restore IL-1β responses to a sub1154 deletion S. uberis mutant using recombinant SUB1154. Surprisingly, only by blocking internalisation, or the cytoplasmic TIR domain of TLR2 were we able to block SUB1154-mediated priming.DiscussionTogether, our data unifies several contrasting past studies and provides new mechanistic understanding of potential early interactions between pyogenic streptococci and the host. 
+
+ 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1444178>
+
+---
+
+## Efficacy and safety of different drugs for the treatment of bacterial vaginosis: a systematic review and network meta-analysis
+
+date: 2024-10-11, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectiveBacterial vaginosis is a disease caused by vaginal microecology disorder, which seriously affects female health. At present, there are many drugs to treat BV, and this study aims to compare the efficacy and safety of multiple drugs for BV through a network meta-analysis (NMA).MethodsAll studies were sourced from PubMed and Embase databases from the establishment date to April 13, 2023. We evaluated the clinical cure success rate and adverse effects (abnormal increase in vaginal discharge, external genital irritation, and vulvar itching) and performed subgroup analyses of the clinical cure success rate for different modes of administration. All statistical analyses were performed using R and STATA 14.0 software for network meta-analysis.ResultsWe included 42 studies that met the criteria, involving a total of 8382 patients. Network meta-analysis results showed that metronidazole and secnidazole had a higher rate of adverse reactions than placebo (RR 7.06; 95%-CI 2.61-19.10, RR 4.03; 95%-CI 1.63-9.98), the adverse reaction rate of probiotics group was lower than that of metronidazole group (RR 0.44; 95%-CI 0.21-0.93). The clinical cure rate of oral ornidazole was better than clindamycin (RR 16.08; 95%-CI 1.72-150.47), Secnidazole (RR 8.17; 95%-CI 1.66-40.25) and probiotics. Direct meta-analysis results showed that ornidazole had a better clinical cure rate than Secnidazole (RR 1.22; 95%-CI 1.10-1.34), oral ornidazole had a better clinical cure rate than Secnidazole (RR 1.23; 95%-CI 1.11-1.36). The clinical cure rate of vaginal application of sucrose was better than metronidazole (RR 1.12; 95%-CI 1.03-1.21) and metronidazole had a lower clinical cure rate than probiotics (RR 0.68; 95%-CI 0.52-0.88).ConclusionsThe results of this systematic review and network meta-analysis suggest that ornidazole may be an effective alternative for the treatment of BV, and that sucrose and probiotics are potential BV treatments that need to be validated by more high-quality clinical studies in the future. 
+
+ 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1402346>
 
 ---
 

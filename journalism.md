@@ -1,11 +1,66 @@
 ---
 title: journalism
-updated: 2024-10-10 21:04:51
+updated: 2024-10-11 07:08:31
 ---
 
 # journalism
 
-(date: 2024-10-10 21:04:51)
+(date: 2024-10-11 07:08:31)
+
+---
+
+## Comedy group improvises entire hilarious musical
+
+date: 2024-10-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Spoiler Alert Improv put on a completely original hourlong show with songs and stories made up completely on the spot.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/11/comedy-group-improvises-entire-hilarious-musical/">Comedy group improvises entire hilarious musical</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+ 
+
+<https://dailytrojan.com/2024/10/11/comedy-group-improvises-entire-hilarious-musical/>
+
+---
+
+## This Week: October 10
+
+date: 2024-10-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 11 at 12:01 a.m.</em>
+Host Jackson Wooton and editors discuss recent campus events, including vigils and protests, UCLA&#8217;s football performance, upcoming cultural celebrations and news stories from around the country and the globe. 
+
+ 
+
+<https://dailybruin.com/2024/10/10/this-week-october-10/>
+
+---
+
+## UCLA football seeks to break four-game losing streak in Minnesota matchup
+
+date: 2024-10-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 10 at 11:26 p.m.</em>
+Saturday&#8217;s equation is simple: much to gain and little to lose.
+UCLA football (1-4, 0-3 Big Ten) will take on Minnesota (3-3, 1-2) on Saturday evening at the Rose Bowl – its chance to clinch its first victory since Aug. 
+
+ 
+
+<https://dailybruin.com/2024/10/10/ucla-football-seeks-to-break-four-game-losing-streak-in-minnesota-matchup/>
+
+---
+
+## Annual UCLA Volunteer Day brings thousands together to serve, build community
+
+date: 2024-10-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 11 at 12:32 a.m.</em>
+Students and community members woke up early to participate in UCLA’s annual Volunteer Day on Saturday.
+Approximately 2,000 Bruins registered to volunteer at 37 locations across Los Angeles and the United States, according to a written statement from UCLA Media Relations. 
+
+ 
+
+<https://dailybruin.com/2024/10/10/annual-ucla-volunteer-day-brings-thousands-together-to-serve-build-community/>
 
 ---
 
@@ -13,7 +68,7 @@ updated: 2024-10-10 21:04:51
 
 date: 2024-10-11, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Oct. 10 at 8:12 p.m.</em>
+<em>This post was updated Oct. 11 at 12:47 a.m.</em>
 UCLA students can now access a new way to save on transportation.
 Metrolink’s Student Adventure Pass allows students from kindergarten through college with a valid student identification to use the Metrolink system for free. 
 
@@ -52,6 +107,7 @@ The numerous faults make the region highly susceptible to earthquakes – a fact
 
 date: 2024-10-11, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Oct. 11 at 12:36 a.m.</em>
 Every resident of Southern California lives within 10 miles of an active earthquake fault.
 The numerous faults make the region highly susceptible to earthquakes – a fact residents of the Los Angeles area were reminded of when several hit in August and September. 
 
@@ -65,7 +121,8 @@ The numerous faults make the region highly susceptible to earthquakes – a fact
 
 date: 2024-10-11, from: The Daily Bruin (UCLA Student Newspaper)
 
-Westwood bid farewell to the Bruins for about two weeks, but the team quickly found success on the road &#8211; breaking the two-game losing streak they started at Pauley Pavilion. 
+<em>This post was updated Oct. 10 at 11:23 p.m.</em>
+Westwood bid farewell to the Bruins for about two weeks, but the team quickly found success on the road – breaking the two-game losing streak they started at Pauley Pavilion. 
 
  
 
@@ -77,9 +134,11 @@ Westwood bid farewell to the Bruins for about two weeks, but the team quickly fo
 
 date: 2024-10-11, from: The Daily Bruin (UCLA Student Newspaper)
 
-Men&#8217;s water poloUna O&#8217;Farrell, assistant Sports editor
-An opportunity for redemption awaits. 
-After No. 2 UCLA men&#8217;s water polo (14-1, 1-1 MPSF) opened its conference play with one loss and one win last weekend, it will face No. 
+<em>This post was updated Oct. 10 at 11:34 p.m.</em>
+Men’s water polo
+Una O’Farrell, assistant Sports editor
+An opportunity for redemption awaits.
+After No. 2 UCLA men’s water polo (14-1, 1-1 MPSF) opened its conference play with one loss and one win last weekend, it will face No. 
 
  
 
@@ -104,8 +163,9 @@ The first-year music industry student released her latest single, &#8220;The End
 
 date: 2024-10-10, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Oct. 10 at 11:37 p.m.</em>
 Despite a shaky first round, the Bruins bounced back.
- Traveling to Illinois for the second time in one week, No. 5 UCLA women&#8217;s golf tied for fourth overall and finished 19 under par at the Illini Women&#8217;s Invitational at Medinah to complete its third tournament of the fall season. 
+Traveling to Illinois for the second time in one week, No. 
 
  
 
@@ -141,8 +201,9 @@ Source: Unsplash All the birthdays are special, but celebrating 18 makes the bel
 
 date: 2024-10-10, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Oct. 10 at 11:30 p.m.</em>
 Facing the nation&#8217;s second-best team brings high stakes, nerves and pressure.
-All that intensifies, though, as the postseason loom and a playoff berth dangles in the distance. 
+All that intensifies, though, as the postseason looms and a playoff berth dangles in the distance. 
 
  
 
@@ -231,8 +292,9 @@ When I first learned about coffee chats, I thought I would never incorporate the
 
 date: 2024-10-10, from: The Daily Bruin (UCLA Student Newspaper)
 
-For years, Laura Ch&#225;vez-Moreno has explored how bilingual education programs shape students&#8217; identities.
-Ch&#225;vez-Moreno, an assistant professor of education and Chicana/o and Central American studies, said she wished she had access to a bilingual program during her own education. 
+<em>This post was updated Oct. 11 at 12:42 a.m.</em>
+For years, Laura Chávez-Moreno has explored how bilingual education programs shape students’ identities.
+Chávez-Moreno, an assistant professor of education and Chicana/o and Central American studies, said she wished she had access to a bilingual program during her own education. 
 
  
 
@@ -284,7 +346,7 @@ At the Getty Center, celebrating the diversity of Indigenous people is best repr
 
 date: 2024-10-09, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Oct. 10 at 11:52 a.m.</em>
+<em>This post was updated Oct. 11 at 12:40 a.m.</em>
 Union members and nurses rallied Wednesday morning to demand housing support and increased wages ahead of contract negotiations with the UC.&#160;
 The protesters were led by American Federation of State, County and Municipal Employees Local 3299, which represents patient care and service workers at the university, and were joined by the California Nurses Association, which represents registered nurses. 
 

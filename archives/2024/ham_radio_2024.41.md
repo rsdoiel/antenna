@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2024-10-10 21:04:48
+updated: 2024-10-11 07:08:27
 ---
 
 # ham radio
 
-(date: 2024-10-10 21:04:48)
+(date: 2024-10-11 07:08:27)
+
+---
+
+## One-stop advanced packaging solutions for chiplets
+
+date: 2024-10-11, from: EDN Blog
+
+<img width="684" height="500" src="https://www.edn.com/wp-content/uploads/Hero-iamge-Kiwimoore.png?fit=684%2C500" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-iamge-Kiwimoore.png?w=684 684w, https://www.edn.com/wp-content/uploads/Hero-iamge-Kiwimoore.png?w=300 300w" sizes="(max-width: 684px) 100vw, 684px" /><p>The coordinated solutions for advanced packaging are crucial in the vertically disintegrated world of chiplets.</p>
+<p>The post <a href="https://www.edn.com/one-stop-advanced-packaging-solutions-for-chiplets/" data-wpel-link="internal">One-stop advanced packaging solutions for chiplets</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+ 
+
+<https://www.edn.com/one-stop-advanced-packaging-solutions-for-chiplets/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2024-10-10 21:04:48
 
 date: 2024-10-10, from: EDN Blog
 
-<img width="800" height="502" src="https://www.edn.com/wp-content/uploads/Rohm-BD28.jpg?fit=800%2C502" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Rohm-BD28.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Rohm-BD28.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Rohm-BD28.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Optimized for AC/DC power supplies in industrial applications, Rohm’s PWM controller ICs support a wide range of power semiconductors.</p>
+<img width="800" height="502" src="https://www.edn.com/wp-content/uploads/Rohm-BD28.jpg?fit=800%2C502" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Rohm-BD28.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Rohm-BD28.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Rohm-BD28.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Optimized for AC/DC power supplies in industrial applications, Rohm’s PWM controller ICs support a wide range of power semiconductors.</p>
 <p>The post <a href="https://www.edn.com/pwm-controllers-drive-fets-and-igbts/" data-wpel-link="internal">PWM controllers drive FETs and IGBTs</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

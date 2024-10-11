@@ -1,11 +1,23 @@
 ---
 title: writing
-updated: 2024-10-10 21:04:50
+updated: 2024-10-11 07:08:29
 ---
 
 # writing
 
-(date: 2024-10-10 21:04:50)
+(date: 2024-10-11 07:08:29)
+
+---
+
+## Artist Left with Heavy Fees by Copyright Troll Law Firm
+
+date: 2024-10-11, from: Author's Union blog
+
+The final outcome of the case: the plaintiff was ordered to cover $102,404 in fees and $165.72 in costs for the defendant. This should serve as a cautionary tale for would-be plaintiffs: copyright lawsuits, like any other type of litigation, are primarily meant to address the damages plaintiffs actually suffered, and the final settlement should make plaintiffs whole again—that is, as if no infringement has ever occurred. Copyright lawsuits (or the threat to sue) should not be undertaken as a way to create brand new income streams.  
+
+ 
+
+<https://www.authorsalliance.org/2024/10/11/artist-left-with-heavy-fees-by-copyright-troll-law-firm/>
 
 ---
 
