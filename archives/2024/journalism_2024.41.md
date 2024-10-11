@@ -1,11 +1,25 @@
 ---
 title: journalism
-updated: 2024-10-10 19:45:04
+updated: 2024-10-10 21:04:51
 ---
 
 # journalism
 
-(date: 2024-10-10 19:45:04)
+(date: 2024-10-10 21:04:51)
+
+---
+
+## Metrolink renews free Student Adventure Pass for K-12, college students
+
+date: 2024-10-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 10 at 8:12 p.m.</em>
+UCLA students can now access a new way to save on transportation.
+Metrolink’s Student Adventure Pass allows students from kindergarten through college with a valid student identification to use the Metrolink system for free. 
+
+ 
+
+<https://dailybruin.com/2024/10/10/metrolink-renews-free-student-adventure-pass-for-k-12-college-students/>
 
 ---
 
@@ -31,6 +45,19 @@ The numerous faults make the region highly susceptible to earthquakes – a fact
  
 
 <https://dailybruin.com/2024/10/10/recent-earthquakes-in-los-angeles-area-emphasize-necessity-of-preparedness-plans/>
+
+---
+
+## Experts suggest disaster preparedness plans following recent seismic activity
+
+date: 2024-10-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+Every resident of Southern California lives within 10 miles of an active earthquake fault.
+The numerous faults make the region highly susceptible to earthquakes – a fact residents of the Los Angeles area were reminded of when several hit in August and September. 
+
+ 
+
+<https://dailybruin.com/2024/10/10/experts-suggest-disaster-preparedness-plans-following-recent-seismic-activity/>
 
 ---
 
@@ -188,6 +215,18 @@ There&#8217;s one question I get every time I give a talk. I&#8217;m a curator o
 
 ---
 
+## Opinion: Appreciating the value of connection, one coffee chat at a time
+
+date: 2024-10-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+When I first learned about coffee chats, I thought I would never incorporate them into my life. I despise coffee, and I dreaded the idea of talking to a stranger without a quick exit. 
+
+ 
+
+<https://dailybruin.com/2024/10/09/opinion-appreciating-the-value-of-connection-one-coffee-chat-at-a-time/>
+
+---
+
 ## Laura Chávez-Moreno explores race, identity in bilingual education programs
 
 date: 2024-10-10, from: The Daily Bruin (UCLA Student Newspaper)
@@ -232,8 +271,8 @@ date: 2024-10-09, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2024-10-09, from: The Daily Bruin (UCLA Student Newspaper)
 
-At the Getty Center, celebrating the diversity of Indigenous people is best represented through an array of art.
-The Getty Center will host its third annual Celebrating Indigenous Peoples&#8217; Day event Saturday. 
+<em>This post was updated Oct. 10 at 8:42 p.m.</em>
+At the Getty Center, celebrating the diversity of Indigenous people is best represented through an array of art. 
 
  
 
@@ -671,10 +710,7 @@ date: 2024-10-09, from: Laloyolan (LMU Student Newspaper)
 
 Marking a year after Hamas launched a surprise attack on Israel, students and faculty gathered on campus — some in remembrance and mourning, others in protest and solidarity. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/laloyolan.com/content/tncms/assets/v3/editorial/a/4e/a4ee14f7-6e4d-5367-bbc7-d95af6ac3a38/670614151c4b8.image.jpg?resize=300%2C200"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.laloyolan.com/news/a-year-after-oct-7-lmu-community-mourns-and-reflects/article_1c8d6e06-948f-5031-8a81-8ddaca683714.html>
 
@@ -1077,10 +1113,7 @@ date: 2024-10-07, from: Laloyolan (LMU Student Newspaper)
 
 President Timothy Law Snyder, Ph.D., will conclude his 10th year as LMU’s president in May 2025. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/laloyolan.com/content/tncms/assets/v3/editorial/5/e8/5e840452-84f6-11ef-b86a-d7898d377f62/670457fb6c599.image.jpg?resize=300%2C200"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.laloyolan.com/news/breaking-president-timothy-law-snyder-to-retire-at-the-end-of-2024-25-academic-year/article_56144ee0-84f5-11ef-85fa-13ae8fca48ff.html>
 

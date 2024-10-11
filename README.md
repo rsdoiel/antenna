@@ -8,7 +8,7 @@ Antenna demonstrates aggregating of news content via web feeds for personal use.
 - Pandoc 3
 - SQLite 3
 - GNU Make
-- skimmer >= 0.0.15
+- skimmer >= 0.0.16
 - Git + GitHub (to host your personal aggregation site)
 
 ## The moving parts

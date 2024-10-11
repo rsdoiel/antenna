@@ -1,11 +1,11 @@
 ---
 title: weather
-updated: 2024-10-10 19:44:58
+updated: 2024-10-10 21:04:49
 ---
 
 # weather
 
-(date: 2024-10-10 19:44:58)
+(date: 2024-10-10 21:04:49)
 
 ---
 
@@ -13,31 +13,11 @@ updated: 2024-10-10 19:44:58
 
 date: 2024-10-11, from: Eastern Pacific Basin GIS Data
 
-No tropical cyclones as of Fri, 11 Oct 2024 02:34:40 GMT 
+No tropical cyclones as of Fri, 11 Oct 2024 03:57:31 GMT 
 
  
 
 <https://www.nhc.noaa.gov/gis/>
-
----
-
-## CPHC Central North Pacific Outlook
-
-date: 2024-10-11, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_2d0_resize.gif" alt="Central North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_7d0_resize.gif" alt="Central North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC HFOTWOCP ALL<br>TTAA00 PHFO DDHHMM<br><br>Tropical Weather Outlook<br>NWS Central Pacific Hurricane Center Honolulu HI<br>200 PM HST Thu Oct 10 2024<br><br>For the central North Pacific...between 140W and 180W:<br><br>No tropical cyclones are expected during the next 7 days.<br><br>$$<br>Forecaster Vaughan<br>NNNN<br><br></div></div><br />
- 
-
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
 
 ---
 
@@ -122,27 +102,53 @@ dissipate, with little to no additional lightning expected.
 
 ---
 
-## Eastern North Pacific Tropical Weather Outlook
+## Central Pacific Tropical Weather Outlook
 
-date: 2024-10-10, from: Eastern Pacific Basin Tropical Cyclones
+date: 2024-10-10, from: Central Pacific Tropical Weather Outlook
 
+ <br />
+ 000<br />
+ ACPN50 PHFO 102350<br />
+ TWOCP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS Central Pacific Hurricane Center Honolulu HI<br />
+ 200 PM HST Thu Oct 10 2024<br />
+ <br />
+ For the central North Pacific...between 140W and 180W:<br />
+ <br />
+ No tropical cyclones are expected during the next 7 days.<br />
+ <br />
+ $$<br />
+ Forecaster Vaughan<br />
+  
 
-<br/>
-000<br/>
-ABPZ20 KNHC 102326<br/>
-TWOEP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS National Hurricane Center Miami FL<br/>
-500 PM PDT Thu Oct 10 2024<br/>
-<br/>
-For the eastern North Pacific...east of 140 degrees west longitude:<br/>
-<br/>
-Tropical cyclone formation is not expected during the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster Kelly<br/>
  
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## Eastern Pacific Tropical Weather Outlook
+
+date: 2024-10-10, from: Eastern Pacific Tropical Weather Outlook
+
+ <br />
+ 000<br />
+ ABPZ20 KNHC 102326<br />
+ TWOEP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS National Hurricane Center Miami FL<br />
+ 500 PM PDT Thu Oct 10 2024<br />
+ <br />
+ For the eastern North Pacific...east of 140 degrees west longitude:<br />
+ <br />
+ Tropical cyclone formation is not expected during the next 7 days.<br />
+ <br />
+ $$<br />
+ Forecaster Kelly<br />
+  
 
  
 

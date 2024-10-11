@@ -1,11 +1,23 @@
 ---
 title: pacific
-updated: 2024-10-10 19:44:47
+updated: 2024-10-10 21:04:47
 ---
 
 # pacific
 
-(date: 2024-10-10 19:44:47)
+(date: 2024-10-10 21:04:47)
+
+---
+
+## Marshall Islands wins UN Human Rights Council seat with climate, nuclear justice agenda 
+
+date: 2024-10-11, from: Pacific Island Times
+
+By Stefan Armbruster (Benar News} -- Marshall Islands was elected on Wednesday to sit on the United Nations Human Rights Council from... 
+
+ 
+
+<https://www.pacificislandtimes.com/post/marshall-islands-wins-un-human-rights-council-seat-with-climate-nuclear-justice-agenda>
 
 ---
 
@@ -15,10 +27,7 @@ date: 2024-10-10, from: Pacific Island Times
 
 By Pacific Island Times News Staff China's recent test missile launched into the Pacific Ocean was the highlight of the congressional... 
 
-<audio controls="controls">
-<source type="image/png" src="https://static.wixstatic.com/media/b40a18_c07b8f6e9a484605a4b643dcf8a5c25b~mv2.png/v1/fit/w_634,h_319,al_c,q_80/file.png"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.pacificislandtimes.com/post/congressional-delegation-tackles-funding-for-guam-missile-defense-during-a-brief-visit>
 
@@ -43,10 +52,7 @@ date: 2024-10-10, from: Pacific Island Times
 
 By Jayvee Vallejera In contrasting himself against his Democratic opponent, incumbent Guam Del. James Moylan pointed to his legislative... 
 
-<audio controls="controls">
-<source type="image/png" src="https://static.wixstatic.com/media/b40a18_b25684b6467b478b99e0e9d0d2e5802e~mv2.png/v1/fit/w_522,h_200,al_c,q_80/file.png"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.pacificislandtimes.com/post/moylan-hits-cruz-s-absence-in-guam-for-many-years-cruz-says-skills-matters>
 
@@ -58,10 +64,7 @@ date: 2024-10-10, from: Pacific Island Times
 
 By Ongerung Kambes Kesolei   Koror —As Palau celebrates its 30th Independence Day on Oct. 1, the nation finds itself at a critical... 
 
-<audio controls="controls">
-<source type="image/png" src="https://static.wixstatic.com/media/b40a18_059e87af631b4da58068827d69a94b0b~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.pacificislandtimes.com/post/palau-marks-30-years-of-independence-how-far-has-it-come-and-where-is-it-headed>
 
@@ -114,10 +117,7 @@ date: 2024-10-10, updated: 2024-10-10, from: Marianas Variety
 
 NEW YORK (Reuters) — The New York Liberty's long comeback story got a thrilling new chapter with a second straight trip to the WNBA Finals this week, as the team once relegated to a 2,100 capacity stadium in the suburbs has Brooklyn's Barclays Center rocking. 
 
-<audio controls="controls">
-<source type="image/png" src="https://bloximages.newyork1.vip.townnews.com/mvariety.com/content/tncms/assets/v3/editorial/5/c7/5c749a1a-8649-11ef-8006-43b9431a4081/670690dfd0217.image.png?resize=300%2C199"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.mvariety.com/sports/nationalsports/liberty-savors-brick-by-brick-redemption-story-in-wnba/article_50ff4040-8649-11ef-9b52-ef90d6265349.html>
 
@@ -129,10 +129,7 @@ date: 2024-10-10, updated: 2024-10-10, from: Marianas Variety
 
 THE Best of the Marianas people’s choice awards celebrate the CNMI’s finest, from the best dining and drinking spots, to services and natural attractions. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/mvariety.com/content/tncms/assets/v3/editorial/8/4a/84a6b678-8629-11ef-8cfe-87221fbd1913/67065b4addc8c.image.jpg?resize=300%2C215"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.mvariety.com/best-of-the-marianas-voters-win-big/article_5684f75c-8627-11ef-bf12-6f51a1673358.html>
 
@@ -144,10 +141,7 @@ date: 2024-10-10, updated: 2024-10-10, from: Marianas Variety
 
 XTREME Fitness670, headed by Zumba instructors Michelle M. Olita and Angelo Galfo, is honored to be included among the island’s winners for the Best Zumba/Fitness Group category.The Zumba enthusiasts at Xtreme Fitness670 host classes at the Mayor’s Office of Saipan in Oleai on Mondays and Wednesdays, and in Afetna in the K-Supermarket parking lot on Thursdays and Fridays. All classes start at 6:30 p.m. and last one hour.Tinian is included in the mix, with classes taking place at Natibu from 5:30 p.m. to 6:30 p.m. on Saturdays. On Sundays, class is held from 10:30 a.m. to 11:30 a.m. at Jones Pavilion.“It is an honor to be recognized among the best Zumba/fitness groups in the CNMI, especially considering Xtreme Fitness is only two years old,” said Olita. “This achievement serves as a testament to the dedication and hard work put in by our team.”Olita especially mentioned Crisanta Brien and Jhoy Revilla as assistant coaches, together with Cristina Villas and Sarah Lee as lead shadowers.Olita confirms that her group has the community in mind moving forward, with plans to stay as popular as ever with the island’s Zumba participants.“Our plans are focused on maintaining and expanding our popularity by continuing to offer quality Zumba classes that are accessible to the community,” she said. “We aim to keep our classes engaging, diverse, and inclusive to cater to a wide range of individuals.”Olita and Galfo are certified instructors, with licenses in Zumba Basic, Zumba Kids and Kids Jr., Zumba Gold (for individuals aged 50 and above), Zumba Gold Toning, Zumba Toning, Zumba Steps, Aqua Zumba, and Zumba Plate. They are also certified in Strong License, Weights, and Aqua Strong.She invites the island to keep an eye on their social media, XTREME FITNESS670-A&amp;M POWER DUO, on Facebook or to message (670) 588-5509 for updates.Olita’s message to the CNMI is simple: “Prioritize your health and well-being by staying active, engaging in fitness activities such as Zumba, and connecting with the community for a healthier and happier lifestyle. Don't wait any longer—come join us at Xtreme Fitness670 for free Zumba classes and take a step toward a healthier version of yourself. Everyone is welcome to participate, as we strive to support each other in overcoming challenges and becoming stronger together.“Let's move, dance, and enjoy ourselves while enhancing our physical and mental well-being. By doing so, we can create a new fitness-focused community and forge new friendships. Your ongoing support is greatly appreciated. Thank you.” 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/mvariety.com/content/tncms/assets/v3/editorial/c/c4/cc45aace-85d5-11ef-9b66-a38985ed6d43/6705ced553da0.image.jpg?resize=300%2C225"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.mvariety.com/xtreme-fitness670-is-grateful-to-their-team-participants/article_6306ef6e-85d5-11ef-98e9-cfa0fa595828.html>
 
@@ -159,10 +153,7 @@ date: 2024-10-10, updated: 2024-10-10, from: Marianas Variety
 
 AFTER more than 50 years of being in business, Pacifica Insurance Underwriters Inc. has already built a name for itself as one of the leading insurance providers in the CNMI, and that is already a given. What puts the company a cut above the rest, though, is the robust ties it has built with the CNMI community and the many outreach actions it has taken that solidify its standing not just as a business entity, but also as an active community member. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/mvariety.com/content/tncms/assets/v3/editorial/4/7e/47ef2bde-8494-11ef-bb07-4f4d2c77a4be/6703b413092ab.image.jpg?resize=300%2C177"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.mvariety.com/pacifica-insurance-goes-beyond-for-the-cnmi-community/article_3666b84a-8468-11ef-ac88-47f1060749ed.html>
 
@@ -174,10 +165,7 @@ date: 2024-10-10, updated: 2024-10-10, from: Marianas Variety
 
 LOOKING for the perfect spot to grab a bite while soaking in breathtaking ocean views? Look no further than Surf Club Restaurant, Saipan's go-to destination for mouthwatering meals and unbeatable vibes. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/mvariety.com/content/tncms/assets/v3/editorial/6/32/632463d0-8645-11ef-8222-97bd49beab11/67068a0c91fea.image.jpg?resize=300%2C139"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.mvariety.com/surf-club-saipans-hottest-beachfront-restaurant/article_294cfebe-84f7-11ef-8377-df8baec274d5.html>
 
@@ -189,10 +177,7 @@ date: 2024-10-10, updated: 2024-10-10, from: Marianas Variety
 
 SINCE 2019, Marianas Dental Center has been at the forefront of dental care on Saipan, offering a comprehensive range of services to meet the oral health needs of the entire community. 
 
-<audio controls="controls">
-<source type="image/png" src="https://bloximages.newyork1.vip.townnews.com/mvariety.com/content/tncms/assets/v3/editorial/6/e7/6e7383ec-8528-11ef-b222-fbcf5b7583ec/6706234a09247.image.png?resize=300%2C111"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.mvariety.com/teeth-tech-and-trust-mdcs-vision-for-oral-health/article_3bb7d7d2-8528-11ef-b1cd-f3feb9b88abc.html>
 
@@ -204,10 +189,7 @@ date: 2024-10-10, updated: 2024-10-10, from: Marianas Variety
 
 NUKU'ALOFA (AFP/Pacnews) — A surge of drugs is engulfing the paradisal South Pacific, as cartels and triads use far-flung island nations to channel narcotics across the globe, top police and United Nations officials have told AFP. 
 
-<audio controls="controls">
-<source type="image/png" src="https://bloximages.newyork1.vip.townnews.com/mvariety.com/content/tncms/assets/v3/editorial/4/ad/4ade6012-8719-11ef-b54b-4759720cee28/6707edd399450.image.png?resize=300%2C163"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.mvariety.com/news/regional_world/pacific-island-nations-swamped-by-global-drug-trade/article_26a0f516-8719-11ef-ac5d-9ba1a779aaf0.html>
 
@@ -219,10 +201,7 @@ date: 2024-10-10, updated: 2024-10-10, from: Marianas Variety
 
 THE charges of receiving stolen property and theft by deception filed against Jimmy Joaquin Jr. were dismissed without prejudice by the Superior Court on Oct. 2, 2024. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/mvariety.com/content/tncms/assets/v3/editorial/5/17/51737d60-6926-11ef-9694-cb28a525ab48/66d5ae9979585.image.jpg?resize=300%2C200"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.mvariety.com/news/local/charges-against-jimmy-joaquin-jr-dismissed-without-prejudice/article_42109042-86e5-11ef-b072-07087ce1f0c7.html>
 
@@ -234,10 +213,7 @@ date: 2024-10-10, updated: 2024-10-10, from: Marianas Variety
 
 ATTORNEY Keith Chambers said the disclosure of the communications between himself and the prosecutor is very relevant to the contempt of Legislature case against his client, Shayne B. Villanueva. 
 
-<audio controls="controls">
-<source type="image/png" src="https://bloximages.newyork1.vip.townnews.com/mvariety.com/content/tncms/assets/v3/editorial/e/a5/ea55a528-224d-11ef-8806-23069bbf3df1/665ed2e74585c.image.png?resize=300%2C158"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.mvariety.com/news/local/disclosure-of-communications-very-relevant-says-attorney/article_efbe77e6-86e4-11ef-984d-d79b0221efe5.html>
 
@@ -249,10 +225,7 @@ date: 2024-10-10, updated: 2024-10-10, from: Marianas Variety
 
 THE Commonwealth Retirees Association has reorganized to “fight for their pension.” 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/mvariety.com/content/tncms/assets/v3/editorial/7/d3/7d3e4d54-86fd-11ef-9834-1f40c8114835/6707bf1264bef.image.jpg?resize=300%2C200"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.mvariety.com/news/local/nmi-retirees-to-fight-for-pension/article_e3e5b594-86d8-11ef-a134-0f9cbe551269.html>
 
@@ -594,6 +567,20 @@ date: 2024-10-10, from: Hawaii Tribune Harold
 
 ---
 
+## Man arrested following armed standoff with police in Volcano
+
+date: 2024-10-10, from: Hawaii Tribune Harold
+
+
+				<p>Police on Thursday arrested Shawn Edward Page, 58, for first-degree attempted murder and trespassing following a daylong armed standoff in Volcano.</p>
+			 
+
+ 
+
+<https://www.hawaiitribune-herald.com/2024/10/10/hawaii-news/man-arrested-following-armed-standoff-with-police-in-volcano/>
+
+---
+
 ## Japan, Marshall Islands boat builders maintaining age-old traditions
 
 date: 2024-10-10, from: Marshal Islands Journal
@@ -614,10 +601,7 @@ date: 2024-10-10, from: Guam Daily Post
 
 Roughly $800,000 a month is absorbed by the Department of Revenue and Taxation to provide Guam taxpayers with a waiver to the convenience fees charged with the use of credit cards, but, according to the Guam Chamber of Commerce, the… 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/1/0e/10e6a354-86d5-11ef-b7ba-57bfd3183914/67077b1a24875.image.jpg?resize=300%2C200"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.postguam.com/news/local/cost-effective-policy-chamber-supports-credit-card-fee-waiver/article_36722328-86c6-11ef-81f5-f7e36c32ffed.html>
 
@@ -629,10 +613,7 @@ date: 2024-10-10, from: Guam Daily Post
 
 Frustrations grew Wednesday night as the Chief Brodie Elementary School community gathered at their host campus, Juan M. Guerrero Elementary School, wanting to know if and when they would return to their home campus. But while the head of the… 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/d/d0/dd0f2eac-86a7-11ef-955b-07c76902c797/67072f43c85af.image.jpg?resize=300%2C225"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.postguam.com/news/local/budget-shortfall-could-prevent-chief-brodie-campus-reopening/article_7e9be66a-86cc-11ef-a935-3742993aec2e.html>
 
@@ -644,10 +625,7 @@ date: 2024-10-10, from: Guam Daily Post
 
 Acting Gov. Josh Tenorio has signed into law Bill 174-37, the measure that creates an eight-year option for the renewal of a driver's license. This is meant to align with the maximum renewal period allowed under the REAL ID Act,… 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/0/07/007d6d56-86d3-11ef-a54d-c79e388aeb40/65026e6575bbe.image.jpg?resize=300%2C199"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.postguam.com/news/local/8-year-option-for-drivers-licenses-now-law/article_5c6aad64-86c3-11ef-a7b4-4fc90b62da5a.html>
 
@@ -659,10 +637,7 @@ date: 2024-10-10, from: Guam Daily Post
 
 Employees arriving at the Guam Animals In Need shelter in Yigo after the passage of Topical Storm Bebinca last month happened upon a tragic sight. A half-dozen puppies barely clinging to life sat inside a plastic tub at the shelter's… 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/9/ae/9ae604fe-86b8-11ef-82ed-87e51b08a33c/67074b5a42a95.image.jpg?resize=300%2C193"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.postguam.com/news/local/gain-warns-of-consequences-of-dumping-puppies-left-drowning-at-gate-euthanized/article_8a13a36a-86b4-11ef-9775-ffc7211b9ece.html>
 
@@ -674,10 +649,7 @@ date: 2024-10-10, from: Guam Daily Post
 
 CANstruction teams and volunteers are needed to help build the reserves used to feed hungry children who otherwise may not have food to eat when school is out. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/8/bd/8bd5e978-86b5-11ef-a637-ef0f13c4e0d7/64f91cd000a7f.image.jpg?resize=300%2C400"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.postguam.com/news/local/volunteer-donate-to-beheartfelt-s-canstruction-event-this-weekend/article_d46f3026-86ac-11ef-97fc-434c7c36d0f5.html>
 
@@ -703,10 +675,7 @@ date: 2024-10-10, from: Guam Daily Post
 
 Earlier this week, when the Guam women’s national rugby team competed in the Asia Rugby Emirates Sevens Trophy third-place game against Indonesia in Kathmandu, Nepal, they trailed at halftime but never gave up. Earlier that day, while competing in the… 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/b/1c/b1c9d6e0-8696-11ef-bd5a-131b65c89e9a/67071275bef24.image.jpg?crop=1486%2C837%2C8%2C343&resize=300%2C169&order=crop%2Cresize"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.postguam.com/sports/local/guam-rugbys-improbable-medal-defied-the-odds/article_1e9c8158-8694-11ef-947b-bbcd6b83ebc0.html>
 
@@ -718,10 +687,7 @@ date: 2024-10-09, from: Guam Daily Post
 
 Guam Community College alumna Selah Chong, a 2023 graduate from GCC’s culinary arts program, is the first Guamanian to complete her training at the original Le Cordon Bleu culinary school in Paris, France, according to a press release from GCC.… 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/b/49/b49b2464-8641-11ef-b5b3-4bcd540f358d/6706848cf27b5.image.jpg?crop=1062%2C598%2C103%2C433&resize=300%2C169&order=crop%2Cresize"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.postguam.com/island_life/guam-s-1st-le-cordon-bleu-paris-trained-chef-completes-her-journey/article_c80b86e2-863c-11ef-8e49-1bd92dc3022f.html>
 
@@ -747,10 +713,7 @@ date: 2024-10-09, from: Pacific Island Times
 
 By Bryan Manabat Saipan - Nearly two decades after the demise of the CNMI’s garment industry, traces of its former glory linger to this... 
 
-<audio controls="controls">
-<source type="image/png" src="https://static.wixstatic.com/media/b40a18_45c91d7b33054b668d6f0e7f30dddcf2~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.pacificislandtimes.com/post/remnants-of-the-cnmi-s-dead-billion-dollar-garment-industry>
 
@@ -1053,10 +1016,7 @@ date: 2024-10-09, from: Guam Daily Post
 
 Chief Brodie Memorial Elementary School passed its sanitary inspection last week, but it hasn't yet opened its doors to its students, who continue to attend classes at the Juan M. Guerrero Elementary School campus. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/7/ea/7eab71d2-8561-11ef-9af7-1f874de73793/67050bb580ebb.image.jpg?resize=300%2C200"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.postguam.com/news/local/gdoe-may-realign-enrollment-as-it-tackles-major-budget-shortfall/article_f7b789b6-853f-11ef-acc1-6b2faa2405bd.html>
 
@@ -1068,10 +1028,7 @@ date: 2024-10-09, from: Guam Daily Post
 
 Meagan Burrows, a senior staff attorney of the Reproductive Freedom Project at the American Civil Liberties Union, said Attorney General Douglas Moylan should recognize the recent denial from the Supreme Court of the United States as "the end of his… 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/7/3f/73f8e192-85fd-11ef-bd78-4bf9f3a45a53/6706118a5bc1c.image.jpg?resize=300%2C200"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.postguam.com/news/local/aclu-says-moylan-should-concede-after-scotus-denial-ag-responds/article_8f50b8b6-85e9-11ef-aaba-efed163258f1.html>
 
@@ -1083,10 +1040,7 @@ date: 2024-10-09, from: Pacific Island Times
 
 By Frank Whitman Guam Del. James C. Moylan assured the people of Guam that the protection of Guam in the event of a military conflict is... 
 
-<audio controls="controls">
-<source type="image/png" src="https://static.wixstatic.com/media/b40a18_c378cd01ef67470b857e3ec024bb91b0~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.pacificislandtimes.com/post/moylan-says-us-is-prepared-to-defend-guam-in-case-a-conflict-arises>
 
@@ -1098,10 +1052,7 @@ date: 2024-10-09, from: Guam Daily Post
 
 The Department of Public Works Office of Highway Safety, together with the partners for highways safety, invites everyone to join the observance of National Pedestrian Safety Month, DPW announced in a press release. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/3/44/344c0f54-85f5-11ef-8f76-d70d48bdd997/6706038641d86.image.jpg?resize=300%2C210"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.postguam.com/news/local/october-is-national-pedestrian-safety-month/article_cc503bde-85ed-11ef-9f89-ab189a10416c.html>
 
@@ -1126,10 +1077,7 @@ date: 2024-10-09, from: Guam Daily Post
 
 University of Guam student Garret O’Donnell has been selected for the highly competitive Knauss Marine Policy Fellowship from the National Oceanic and Atmospheric Administration and the National Sea Grant College Program, according to a press release from the university. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/b/eb/beb812cc-851a-11ef-957c-035de5d562ad/670495310ebef.image.jpg?crop=1086%2C612%2C338%2C102&resize=300%2C169&order=crop%2Cresize"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.postguam.com/news/local/uog-student-garret-o-donnell-selected-for-knauss-fellowship/article_3dbae35c-851a-11ef-aaab-e7692767eabb.html>
 
@@ -1207,10 +1155,7 @@ date: 2024-10-08, from: Pacific Island Times
 
 By Jayvee Vallejera   The simmering tensions that began brewing after two elementary schools in Guam were made to share space in what was... 
 
-<audio controls="controls">
-<source type="image/png" src="https://static.wixstatic.com/media/b40a18_fedfe69db48545809e7e207f7d4433c3~mv2.jpg/v1/fit/w_560,h_208,al_c,q_80/file.png"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.pacificislandtimes.com/post/teachers-frustrated-over-unresolved-sharing-of-guam-school-campus>
 
@@ -1222,10 +1167,7 @@ date: 2024-10-08, from: Pacific Island Times
 
 By Pacific Island Times News Staff The U.S. Supreme Court has denied Attorney General Douglas Moylan’s petition for a reversal of the... 
 
-<audio controls="controls">
-<source type="image/png" src="https://static.wixstatic.com/media/b40a18_6798bf86671e458bb2d83089c5a77cb4~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.pacificislandtimes.com/post/us-supreme-court-declines-to-review-ruling-on-guam-s-voided-abortion-ban>
 
@@ -1237,10 +1179,7 @@ date: 2024-10-08, from: Pacific Island Times
 
 But some island nations are worried the regional police initiatives might further escalate rivalries between US and China   By Jayvee... 
 
-<audio controls="controls">
-<source type="image/png" src="https://static.wixstatic.com/media/b40a18_c370e9ac13414477a2e26fa2546389b7~mv2.jpg/v1/fit/w_837,h_442,al_c,q_80/file.png"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.pacificislandtimes.com/post/policing-the-pacific-by-the-pacific>
 
@@ -1252,10 +1191,7 @@ date: 2024-10-08, from: Pacific Island Times
 
 By Mar-Vic Cagurangan The growing geopolitical tensions in the Pacific region represent a growing security threat to Guam itself. This... 
 
-<audio controls="controls">
-<source type="image/png" src="https://static.wixstatic.com/media/b40a18_8d0ecd93e0c44dbe8417be5c2d84e921~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.pacificislandtimes.com/post/guam-national-guard-seeks-expanded-role-in-defense>
 
@@ -1267,10 +1203,7 @@ date: 2024-10-08, from: Pacific Island Times
 
 Saipan  — A U.S. political writer complains that the Harris-Walz economic plan is unsound. Others say the same thing about the... 
 
-<audio controls="controls">
-<source type="image/png" src="https://static.wixstatic.com/media/f66d15_bea2d3673ff24d9d9b10d80b1f199956~mv2.jpg/v1/fit/w_288,h_322,al_c,q_80/file.png"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.pacificislandtimes.com/post/looting-a-to-satisfy-b>
 
@@ -1282,10 +1215,7 @@ date: 2024-10-08, from: Guam Daily Post
 
 Randy Ignacio Chargualaf is facing a charge of third-degree robbery after he allegedly stole two bags of chips and two sodas from Dairy Mart in Mangilao. The alleged incident reportedly left a 64-year-old woman with some minor injuries. 
 
-<audio controls="controls">
-<source type="image/png" src="https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/8/c4/8c410456-85e8-11ef-993c-232e03644de6/6705ee6d80381.image.png"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.postguam.com/news/64-year-old-woman-reportedly-suffers-minor-injuries-as-man-allegedly-steals-chips-sodas/article_0e73b2f8-8589-11ef-85e6-0fb8e43440f6.html>
 
@@ -1297,10 +1227,7 @@ date: 2024-10-08, from: Guam Daily Post
 
 A man and a woman are facing drug possession charges after a traffic stop led to the discovery of suspected drug paraphernalia. 
 
-<audio controls="controls">
-<source type="image/png" src="https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/e/34/e3406b60-85e9-11ef-a353-f3b6a8f12f53/6705f0a254423.image.png"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.postguam.com/news/local/man-woman-arrested-after-officers-find-suspected-methamphetamine-during-stop/article_48e6937c-8581-11ef-941c-53db9bb51a27.html>
 
@@ -1533,10 +1460,7 @@ date: 2024-10-08, from: Guam Daily Post
 
 It appears that Simon Sanchez High School students will not be able to move into a temporary campus by Christmas break. Guam Department of Education Superintendent Kenneth Erik Swanson said Tuesday that he doubts that would happen even if the… 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/4/20/42096168-8470-11ef-b654-73bdc5658fa2/670377273a90a.image.jpg?resize=300%2C201"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.postguam.com/news/local/temporary-sanchez-campus-by-christmas-break-unlikely/article_39f3ccda-8537-11ef-8ff6-5f7e4b3b2c83.html>
 
@@ -1548,10 +1472,7 @@ date: 2024-10-08, from: Guam Daily Post
 
 The Supreme Court of the United States has denied the Guam attorney general's petition for a writ of certiorari regarding last year's determination from the Supreme Court of Guam that a decades-old abortion ban no longer has any effect on… 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/c/74/c741c0c6-10fa-11ef-9742-67586e5c291b/6641c1c2405c6.image.jpg?crop=533%2C533%2C204%2C58&resize=300%2C300&order=crop%2Cresize"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.postguam.com/news/local/high-court-denies-ags-petition-regarding-abortion-ban-decision/article_b0ac2392-8521-11ef-9583-0f40c34497b1.html>
 
@@ -1563,10 +1484,7 @@ date: 2024-10-08, from: Pacific Island Times
 
 By Pacific Island  Times News Staff  The Guam Chamber of Commerce urged the Guam legislature to appropriate funds to cover the... 
 
-<audio controls="controls">
-<source type="image/png" src="https://static.wixstatic.com/media/b40a18_9d5668809f754671a98f92220d799971~mv2.jpg/v1/fit/w_820,h_1000,al_c,q_80/file.png"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.pacificislandtimes.com/post/guam-chamber-of-commerce-seeks-retention-of-credit-card-fee-waivers>
 
@@ -1578,10 +1496,7 @@ date: 2024-10-08, from: Guam Daily Post
 
 The Lutheran Church of Guam installed Rev. Andrew "Andy" Taylor as its new pastor, following a service Sunday, the church announced in a press release. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/6/e5/6e531ba0-852a-11ef-acfa-27721369f00b/6704af951dc37.image.jpg?crop=952%2C1175%2C63%2C259&resize=300%2C370&order=crop%2Cresize"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.postguam.com/news/local/lutheran-church-gets-new-pastor/article_4be4bbaa-852a-11ef-ab7b-5bab29e420b1.html>
 
@@ -1593,10 +1508,7 @@ date: 2024-10-08, from: Guam Daily Post
 
 For many, the thought of being able to go out to the backyard and grab a fresh fish for dinner seems absurd, but it is a reality for members of the first cohort of the University of Guam Center for… 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/c/bf/cbfc29ae-851b-11ef-8a99-9771ac5d8b7b/6704974b5ed7e.image.jpg?resize=300%2C200"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.postguam.com/news/local/uog-installs-aquaponics-systems/article_a46c894c-851b-11ef-9fff-67fcd5bc314a.html>
 
@@ -1608,10 +1520,7 @@ date: 2024-10-08, from: Guam Daily Post
 
 A man who reportedly goes by the street name "Rambo" has been charged with theft of property for his alleged involvement in the theft of a bicycle worth $700, which he allegedly exchanged for methamphetamine, or ice. 
 
-<audio controls="controls">
-<source type="image/png" src="https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/1/da/1da4f886-8525-11ef-b30f-8b22c33fd4a7/6704a68893bd6.image.png?resize=300%2C238"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.postguam.com/news/local/man-allegedly-steals-bike-exchanges-for-meth/article_2a257892-847b-11ef-90d1-0737d3255e19.html>
 
@@ -1623,10 +1532,7 @@ date: 2024-10-08, from: Guam Daily Post
 
 The latest attempt to enact two vetoed measures related to the Office of Public Accountability, Bill 213-37 and Bill 227-37, again fell short of passing the Guam Legislature as lawmakers capped off session late Monday morning. Bill 213 obtained only… 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/a/24/a24538d8-845a-11ef-a0d1-3b4a9eb94ae1/670352b3965d1.image.jpg?resize=300%2C200"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.postguam.com/news/local/override-attempts-fail-several-bills-passed-as-lawmakers-close-session/article_90ce8d1e-84ac-11ef-a923-b3584167f59b.html>
 
@@ -1638,10 +1544,7 @@ date: 2024-10-08, from: Pacific Island Times
 
 Now that most students are back in spruced-up classrooms, using functional bathrooms, it’s a good time to look at the unintended... 
 
-<audio controls="controls">
-<source type="image/png" src="https://static.wixstatic.com/media/b40a18_7021f79df6334e98ae0d6e8948f7ebf3~mv2.png/v1/fit/w_689,h_372,al_c,q_80/file.png"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.pacificislandtimes.com/post/letter-to-the-editor-unintended-consequences-of-school-closures>
 
@@ -1653,10 +1556,7 @@ date: 2024-10-08, from: Pacific Island Times
 
 By Pacific Island Times News Staff  Sen. Telo Taitague vowed to revive a proposal that would force punctual submissions of financial... 
 
-<audio controls="controls">
-<source type="image/png" src="https://static.wixstatic.com/media/f66d15_40dd8e00f06d466aa10e6ecdf477b2c2~mv2.jpg/v1/fit/w_600,h_483,al_c,q_80/file.png"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.pacificislandtimes.com/post/guam-senator-vows-to-revive-bill-to-penalize-delinquent-agency-heads>
 
@@ -1668,10 +1568,7 @@ date: 2024-10-08, from: Pacific Island Times
 
 By Pacific Island Times News Staff The Government Accountability Office has agreed to conduct a study to determine the feasibility of the... 
 
-<audio controls="controls">
-<source type="image/png" src="https://static.wixstatic.com/media/b40a18_61361994e19542d5b4f29cd566e1cb7e~mv2.jpg/v1/fit/w_971,h_437,al_c,q_80/file.png"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.pacificislandtimes.com/post/gao-approves-request-to-study-guam-customs-federalization>
 
@@ -1697,10 +1594,7 @@ date: 2024-10-07, from: Pacific Island Times
 
 Diaspora: Reconnecting with cultural roots   By Johanna Salinas   Michael Mendiola Garcia, born to CHamoru parents, grew up in... 
 
-<audio controls="controls">
-<source type="image/png" src="https://static.wixstatic.com/media/b40a18_eab7b5c1b103426c89e1ff3ebe6c5b5a~mv2.jpg/v1/fit/w_771,h_476,al_c,q_80/file.png"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.pacificislandtimes.com/post/being-chamoru-is-more-than-wearing-a-chamoru-shirt>
 
@@ -1724,10 +1618,7 @@ date: 2024-10-07, from: Guam Daily Post
 
 The long-awaited oversight hearing on Guam Homeland Security/Office of Civil Defense will, again, have to wait another day. The hearing was scheduled to take place Monday morning, but the ongoing session at the Guam Legislature meant the hearing had to… 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/2/01/201c6198-6e83-11ef-98dd-cb53bddf84c9/66deadfed5119.image.jpg?resize=300%2C200"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.postguam.com/news/local/oversight-on-ghs-ocd-postponed-again/article_7b441a38-8450-11ef-b488-5fa1717b74b2.html>
 
@@ -1739,10 +1630,7 @@ date: 2024-10-07, from: Guam Daily Post
 
 The passenger of a vehicle with a man who reportedly had three times the legal limit for blood alcohol content in his system allegedly told police that he had told the driver “to slow down,” before a collision on Swamp… 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/c/e2/ce280e58-8397-11ef-b84f-ffd31bd02534/656febc9537f6.image.jpg?resize=300%2C185"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.postguam.com/news/local/passenger-told-allegedly-drunk-driver-slow-down-before-crash/article_365c87b2-8378-11ef-8d50-b7573f0e21d5.html>
 
@@ -1754,10 +1642,7 @@ date: 2024-10-07, from: Guam Daily Post
 
 When Lazaro Quinata graduated from the University of Guam in 2020 with a degree in sociology and a minor in CHamoru studies, he was eager to explore new opportunities. The COVID-19 pandemic initially limited his options, but he was able… 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/6/8b/68ba8486-8209-11ef-99f5-a78ee7d1a8ac/66ff6fa5b1090.image.jpg?crop=830%2C469%2C69%2C208&resize=300%2C170&order=crop%2Cresize"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.postguam.com/news/local/teaching-abroad-uog-alum-s-peace-corps-mission-in-samoa/article_344ab36a-8209-11ef-96f5-779fbecaec91.html>
 
@@ -1769,10 +1654,7 @@ date: 2024-10-07, from: Guam Daily Post
 
 Southern High School students will return to their home campus Tuesday, with their school successfully passing a reinspection by Department of Public Health and Social Services officials. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/d/0b/d0bb291c-64fb-11ef-b8e2-b7cd3912e392/66ceb16e68a01.image.jpg?crop=757%2C426%2C726%2C436&resize=300%2C169&order=crop%2Cresize"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.postguam.com/news/local/southern-passes-dphss-inspection-students-return-to-campus-tuesday/article_aa0eee06-8464-11ef-b3a4-8bf7226a53e5.html>
 
@@ -1784,10 +1666,7 @@ date: 2024-10-07, from: Guam Daily Post
 
 Dr. Thomas Shieh has shot down rumors that he is resigning from the Guam Memorial Hospital, telling The Guam Daily Post on Monday that a recent post on his Facebook page was taken “the wrong way.” 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/5/36/53627352-845f-11ef-876e-e3403f6c460e/67035ab90c777.image.jpg?crop=852%2C481%2C9%2C63&resize=300%2C169&order=crop%2Cresize"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.postguam.com/news/local/shieh-denies-rumors-he-s-leaving/article_163d424a-845f-11ef-8212-d3b80c4dc093.html>
 
@@ -1799,10 +1678,7 @@ date: 2024-10-07, from: Guam Daily Post
 
 With tournament co-MVPs Lea Aromin and Jaedyn Punongbayan leading their young team, the AOLG Swaggers defeated the Legacy Volleyball Club Crumble Cookies 25-20, 25-17, in the AOLG 15U Girls Volleyball Tournament championship game Sunday in Hagåtña. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/9/fe/9fe82480-8435-11ef-a2e3-cfd7ca3b2d72/6703149c42314.image.jpg?crop=1018%2C573%2C130%2C109&resize=300%2C169&order=crop%2Cresize"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.postguam.com/sports/local/swaggers-dunk-crumble-cookies-in-15u-volleyball-championship-game/article_21afb936-8433-11ef-92de-eb5b4b197878.html>
 
@@ -1828,10 +1704,7 @@ date: 2024-10-07, from: Pacific Island Times
 
 By Louella Losinio   Manila —With Guam facing a gap in health care, the Philippines, a rapidly emerging medical tourism destination, is... 
 
-<audio controls="controls">
-<source type="image/png" src="https://static.wixstatic.com/media/b40a18_58fa488de76744d4a17dcbf5bddda87a~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.pacificislandtimes.com/post/medical-tourism-the-philippines-remains-a-top-destination-for-patients-from-guam-and-micronesia>
 
@@ -1843,10 +1716,7 @@ date: 2024-10-07, from: Guam Daily Post
 
 Officers with the Guam Police Department say that the man they found sleeping in a “running vehicle” near an elementary school in Malesso' was also found with methamphetamine. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/2/15/2150fe88-8379-11ef-8296-9bf9c52f0c3f/6701d8994710f.image.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.postguam.com/news/local/man-found-sleeping-near-school-allegedly-had-methamphetamine/article_0a20c02c-8379-11ef-a5ba-dfe7e280e256.html>
 
@@ -1858,10 +1728,7 @@ date: 2024-10-06, from: Pacific Island Times
 
 By Mar-Vic Cagurangan and Jayvee Vallejera   As Nov. 5 draws near, Guam voters are gauging how outcomes of the 2024 midterm elections... 
 
-<audio controls="controls">
-<source type="image/png" src="https://static.wixstatic.com/media/11062b_03be1a6798a341f4984b1104b3f4a14a~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.pacificislandtimes.com/post/key-issues-shaping-guam-s-elections>
 
@@ -1873,10 +1740,7 @@ date: 2024-10-06, from: Pacific Island Times
 
 Citizens from all walks of life throughout the world have long felt an urge to get involved in environmental politics. Every year,... 
 
-<audio controls="controls">
-<source type="image/png" src="https://static.wixstatic.com/media/b40a18_f0feac5d0c494a4fb4fae4c118b4a3ac~mv2.jpg/v1/fit/w_485,h_509,al_c,q_80/file.png"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.pacificislandtimes.com/post/what-i-never-learned-from-the-model-united-nations>
 
@@ -1888,10 +1752,7 @@ date: 2024-10-06, from: Guam Daily Post
 
 On Saturday in Hagåtña, four seniors from Father Duenas Memorial School and Simon Sanchez High School showcased their robotics project which won their alliance third place in a competition held over 7,000 miles away in Athens, Greece. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/5/2f/52facc74-8393-11ef-a548-07259edd9b64/67020484c5ce7.image.jpg?resize=300%2C400"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.postguam.com/news/local/guam-takes-3rd-in-first-global-challenge/article_0f3e1d06-8393-11ef-8ee1-8303c9ae7d70.html>
 
@@ -1903,10 +1764,7 @@ date: 2024-10-06, from: Guam Daily Post
 
 Imagine for a minute that CHamorus could no longer wear a sinahi or other jewelry made from the giant clam across borders without risking confiscation. According to the Guam Department of Agriculture, that is just one of the impacts the… 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/c/1e/c1e0d56a-7fa2-11ef-9294-3b929172dfec/66fb6838917ad.image.jpg?resize=300%2C200"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.postguam.com/news/local/guam-agriculture-opposes-noaas-listing-giant-clams-as-endangered/article_abf8a8c8-839d-11ef-9fcb-eb0f75fbc377.html>
 
@@ -1918,10 +1776,7 @@ date: 2024-10-06, from: Guam Daily Post
 
 A suspect charged Thursday in the Superior Court of Guam allegedly wore brass knuckles during an altercation with his father that turned physical over a “rude awakening.” 
 
-<audio controls="controls">
-<source type="image/png" src="https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/e/70/e70fb718-838d-11ef-9bb5-db906cf47fa3/6701fb6a345a1.image.png"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.postguam.com/news/local/man-allegedly-assaulted-father/article_b19de3e2-81f4-11ef-95a5-97a1ac8c6e3a.html>
 
@@ -1933,10 +1788,7 @@ date: 2024-10-06, from: Guam Daily Post
 
 The Guam Police Department arrested four individuals, one of them suspected to be the “main man” of an alleged “trap house” in Dededo. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/1/78/17809dd4-829b-11ef-bd23-4ba223ab9edf/6700640b40bd3.image.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.postguam.com/news/local/stakeout-leads-to-4-drug-arrests/article_c2614e08-8299-11ef-9ea2-8ffb669e7189.html>
 
@@ -1948,10 +1800,7 @@ date: 2024-10-06, from: Guam Daily Post
 
 A 25-year-old man allegedly had more than two times the legal blood alcohol level when he collided head-on with another vehicle on Thursday in Mangilao. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/8/68/868a9dda-8299-11ef-8f44-0f294c8f7934/6700615c06bec.image.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.postguam.com/news/local/driver-involved-in-a-head-on-car-collision-allegedly-drank-8-beers/article_16cd0aaa-8299-11ef-a646-6b210dbe5ab9.html>
 
@@ -1963,10 +1812,7 @@ date: 2024-10-06, from: Guam Daily Post
 
 A man who allegedly claimed to be part of a “crew” is accused of threatening his girlfriend and her sons for “retaliation,” a magistrate's complaint filed in the Superior Court of Guam stated. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://bloximages.newyork1.vip.townnews.com/postguam.com/content/tncms/assets/v3/editorial/9/e1/9e1af0d2-8378-11ef-b376-fbba81f09fd2/6701d7f4662b9.image.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.postguam.com/news/local/man-accused-of-threats-to-woman-children/article_84f57e7e-8378-11ef-871d-4779399a539f.html>
 

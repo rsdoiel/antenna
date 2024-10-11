@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2024-10-10 19:45:09
+updated: 2024-10-10 21:04:51
 ---
 
 # libraries
 
-(date: 2024-10-10 19:45:09)
+(date: 2024-10-10 21:04:51)
 
 ---
 
@@ -29,10 +29,7 @@ date: 2024-10-09, from: Standard Ebooks, new releaases
 
 Rousseau explores the political philosophy of authority originating from the consent of the people. 
 
-<audio controls="controls">
-<source type="application/epub+zip" src="https://standardebooks.org/ebooks/jean-jacques-rousseau/the-social-contract/g-d-h-cole/downloads/jean-jacques-rousseau_the-social-contract_g-d-h-cole.epub"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://standardebooks.org/ebooks/jean-jacques-rousseau/the-social-contract/g-d-h-cole>
 
@@ -44,10 +41,7 @@ date: 2024-10-09, from: Standard Ebooks, new releaases
 
 A young naval officer finds himself in a forbidden part of the world after storms waylay his ship. 
 
-<audio controls="controls">
-<source type="application/epub+zip" src="https://standardebooks.org/ebooks/edgar-rice-burroughs/beyond-thirty/downloads/edgar-rice-burroughs_beyond-thirty.epub"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://standardebooks.org/ebooks/edgar-rice-burroughs/beyond-thirty>
 

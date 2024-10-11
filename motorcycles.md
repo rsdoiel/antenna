@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2024-10-10 19:45:16
+updated: 2024-10-10 21:04:53
 ---
 
 # motorcycles
 
-(date: 2024-10-10 19:45:16)
+(date: 2024-10-10 21:04:53)
+
+---
+
+## DOCUMENT DUMP: Latest Filings In The Antitrust Lawsuit By 23XI Racing and Front Row Motorsports Against NASCAR
+
+date: 2024-10-11, from: Kickin the Tires blog
+
+By Jerry Jordan, Editor EDITOR&#8217;S NOTE: Below are the latest filings in the federal antitrust lawsuit involving 23XI Racing and Front Row Motorsports versus NASCAR and James (Jim) France. Going&#8230;  
+
+ 
+
+<https://kickinthetires.net/nascar/document-dump-latest-filings-in-the-antitrust-lawsuit-by-23xi-racing-and-front-row-motorsports-against-nascar/>
 
 ---
 
@@ -15,10 +27,7 @@ date: 2024-10-10, from: Ride Apart, Electric Motorcycle News
 
 This is "Must See TV". 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/G3W12J/s6/honda-cr-prototype-racing---all-japan-motocross-championship.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.rideapart.com/news/736615/mxon-final-two-laps-video/>
 
@@ -30,10 +39,7 @@ date: 2024-10-10, from: Ride Apart, Electric Motorcycle News
 
 The same solutions won't work for every market, so Honda is tailoring its options carefully to each region's needs. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/P3JVrW/s6/honda-cuv-e.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.rideapart.com/news/736767/honda-cuv-icon-ev-indonesia/>
 
@@ -45,10 +51,7 @@ date: 2024-10-10, from: Ride Apart, Electric Motorcycle News
 
 The AJS ‘71 Scrambler is as simple as it gets.  
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/Rq2bgg/s6/ajs-71-desert-scrambler.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.rideapart.com/news/736642/ajs-71-desert-scrambler-beginner-motorcycle/>
 
@@ -60,10 +63,7 @@ date: 2024-10-10, from: Ride Apart, Electric Motorcycle News
 
 These are the realities of racing, but it never gets any easier to hear. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/pb38Q0/s6/frederic-baudry.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.rideapart.com/news/736758/french-rider-dies-rally-morocco/>
 
@@ -75,10 +75,7 @@ date: 2024-10-10, from: Ride Apart, Electric Motorcycle News
 
 No one is forcing you to buy one.  
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/2NQ96B/s6/ktm-jump.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.rideapart.com/news/736765/ktm-amt-automatic-transmission-is-good-thing/>
 
@@ -90,10 +87,7 @@ date: 2024-10-10, from: Ride Apart, Electric Motorcycle News
 
 Always check your o-rings, gaskets, and seals and you'll avoid so many headaches on every vehicle. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/P3WjBG/s6/2024-bmw-r-18-classic---red-and-black---right-side-2.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.rideapart.com/news/736730/bmw-r18-recall-reverse-gear/>
 
@@ -105,10 +99,7 @@ date: 2024-10-10, from: Ride Apart, Electric Motorcycle News
 
 Its 150-mile range could leave a lot to be desired.  
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/zxq0V7/s6/ariel-e-nomad-parked.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.rideapart.com/news/736676/ariel-enomad-concept-unveiled/>
 
@@ -120,10 +111,7 @@ date: 2024-10-09, from: Ride Apart, Electric Motorcycle News
 
 The future of Gogoro ultimately remains very murky.  
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/eoYwPK/s6/gogoro-2022-press-conference.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.rideapart.com/news/736318/gogoro-in-trouble-ceo-resigns-legal-issues/>
 
@@ -135,10 +123,7 @@ date: 2024-10-09, from: Ride Apart, Electric Motorcycle News
 
 Is this how you want the future of the supersport category to look? 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/pb38bg/s6/2025-yamaha-yzf-r9.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.rideapart.com/news/736626/debut-2025-yamaha-yxf-r9-specs-price-overview/>
 
@@ -150,10 +135,7 @@ date: 2024-10-09, from: Ride Apart, Electric Motorcycle News
 
 For now.  
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/JOANJM/s6/blue-ridge-parkway-closure.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.rideapart.com/news/736636/blue-ridge-parkway-motorcycle-road-closed-tail-of-dragon-open/>
 
@@ -165,10 +147,7 @@ date: 2024-10-09, from: Ride Apart, Electric Motorcycle News
 
 Ready to drop out of a plane and into your heart right now. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/1ZEw3p/s6/vespa-tap-for-sale---hero.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.rideapart.com/news/736628/vespa-tap-150-for-sale-rocket-launcher/>
 
@@ -180,10 +159,7 @@ date: 2024-10-09, from: Ride Apart, Electric Motorcycle News
 
 Come on, folks.  
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/koElbB/s6/kawasaki-jet-ski-ultra-160lx-s-angler.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.rideapart.com/news/736607/jet-ski-whale-encounter-jerk-riders-australia/>
 
@@ -195,10 +171,7 @@ date: 2024-10-09, from: Ride Apart, Electric Motorcycle News
 
 I guess that’s what you get for sitting out the past five years.  
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/MkYg4Y/s6/ktm-needs-to-chill-has-way-too-much-planned-for-eicma-2024.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.rideapart.com/news/736500/ktm-eicma-2024-announcement-new-tech-models/>
 
@@ -210,10 +183,7 @@ date: 2024-10-09, from: Ride Apart, Electric Motorcycle News
 
 These four new bikes have quite a lot of potential.  
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/pb3JRV/s6/cfmoto-launched-four-new-motorcycles-in-manila-philippines.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.rideapart.com/news/736478/cfmoto-mtx-500sr-675srr-150sc-launch-philippines/>
 
@@ -225,10 +195,7 @@ date: 2024-10-08, from: Ride Apart, Electric Motorcycle News
 
 What will become of these iconic brands? 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/y24lE7/s6/bell-helmets.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.rideapart.com/news/736595/bell-helmets-revelyst-strategic-value-partners-private-equity-sale/>
 
@@ -240,10 +207,7 @@ date: 2024-10-08, from: Ride Apart, Electric Motorcycle News
 
 Honda should bring this color to the US like, right now.  
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/AkN33P/s6/honda-makes-the-adv-160-more-adventurous-with-camo-matte-green-in-thailand.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.rideapart.com/news/736325/2025-honda-adv160-matte-green-thailand/>
 
@@ -255,10 +219,7 @@ date: 2024-10-08, from: Ride Apart, Electric Motorcycle News
 
 It’s the perfect example of less is more, but is it enough to change the EV game?  
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/0eWggp/s6/panasonic-s-big-fat-battery-cells-are-set-to-change-the-ev-game-maybe.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.rideapart.com/news/736319/panasonic-4680-ev-battery-cells-coming-soon/>
 
@@ -270,10 +231,7 @@ date: 2024-10-08, from: Ride Apart, Electric Motorcycle News
 
 I don't know if I could stand that pointing and laughing... 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/YAgzNy/s6/bikerguard-windshield-wiper-helmet.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://www.rideapart.com/news/736444/motorcycle-helmet-windshield-wiper-bikerguard/>
 

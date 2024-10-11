@@ -1,11 +1,40 @@
 ---
 title: central coast
-updated: 2024-10-10 19:44:50
+updated: 2024-10-10 21:04:48
 ---
 
 # central coast
 
-(date: 2024-10-10 19:44:50)
+(date: 2024-10-10 21:04:48)
+
+---
+
+## Supporters of Santa Maria School District’s Measure J Share About Overcrowding
+
+date: 2024-10-11, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-SMJUHSD-MeasureJ-1b-js.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="With students and supporters behind her, state Sen. Monique Limón speaks Wednesday about Measure J on the Nov. 5 ballot to support the Santa Maria Joint Union High School District&#039;s future projects, including a new campus." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-SMJUHSD-MeasureJ-1b-js.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-SMJUHSD-MeasureJ-1b-js.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-SMJUHSD-MeasureJ-1b-js.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-SMJUHSD-MeasureJ-1b-js.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-SMJUHSD-MeasureJ-1b-js.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-SMJUHSD-MeasureJ-1b-js.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-SMJUHSD-MeasureJ-1b-js.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-SMJUHSD-MeasureJ-1b-js.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-SMJUHSD-MeasureJ-1b-js.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Urging voters to support Measure J, a Santa Maria Joint Union High School District student and a teacher shared similar experiences about long restroom lines and incredibly jammed hallways because [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/supporters-of-santa-maria-school-districts-measure-j-share-stories-of-overcrowding/">Supporters of Santa Maria School District&#8217;s Measure J Share About Overcrowding</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+ 
+
+<https://www.noozhawk.com/supporters-of-santa-maria-school-districts-measure-j-share-stories-of-overcrowding/>
+
+---
+
+## County Planning Commission Votes Against Carpinteria Cannabis Farm
+
+date: 2024-10-11, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Barbara County Planning Commission sided in favor of an appeal against a Carpinteria cannabis farm in a narrow vote that hinged on the issue of odors and backlash [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/county-planning-commission-votes-against-carpinteria-cannabis-farm/">County Planning Commission Votes Against Carpinteria Cannabis Farm</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+ 
+
+<https://www.noozhawk.com/county-planning-commission-votes-against-carpinteria-cannabis-farm/>
 
 ---
 
@@ -13,7 +42,7 @@ updated: 2024-10-10 19:44:50
 
 date: 2024-10-11, from: Newshawk, the freshest news in Santa Barbara County
 
-<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/prep-girls-golf-1010.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/prep-girls-golf-1010.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/prep-girls-golf-1010.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/prep-girls-golf-1010.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/prep-girls-golf-1010.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/prep-girls-golf-1010.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/prep-girls-golf-1010.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/prep-girls-golf-1010.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/prep-girls-golf-1010.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/prep-girls-golf-1010.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/prep-girls-golf-1010.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/prep-girls-golf-1010.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/prep-girls-golf-1010.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/prep-girls-golf-1010.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/prep-girls-golf-1010.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/prep-girls-golf-1010.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/prep-girls-golf-1010.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/prep-girls-golf-1010.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/prep-girls-golf-1010.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/prep-girls-golf-1010.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Dos Pueblos girls golf defended its home course with a crosstown rivalry win over Santa Barbara High on Thursday afternoon at Glen Annie Golf Course, a par 35. Sagarika Manian’s [&#8230;]</p>
 <p>The post <a href="https://www.noozhawk.com/prep-girls-golf-roundup-sagarika-manian-shines-as-dos-pueblos-defeats-santa-barbara/">Prep Girls Golf Roundup: Sagarika Manian Shines as Dos Pueblos Defeats Santa Barbara</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  

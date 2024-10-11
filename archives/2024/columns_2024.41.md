@@ -1,11 +1,11 @@
 ---
 title: columns
-updated: 2024-10-10 19:44:57
+updated: 2024-10-10 21:04:49
 ---
 
 # columns
 
-(date: 2024-10-10 19:44:57)
+(date: 2024-10-10 21:04:49)
 
 ---
 
@@ -197,7 +197,7 @@ date: 2024-10-10, from: Heather Cox Richardson blog
 
 <audio controls="controls">
 <source type="audio/mpeg" src="https://api.substack.com/feed/podcast/150065760/613e3795ee3b83f0d4694874c047d74d.mp3"></source>
-	<p>Your browser does not support the audio element.</p>
+	<p>Your browser doesn't support this type of audio file</p>
 </audio> 
 
 <https://heathercoxrichardson.substack.com/p/october-9-2024-07a>
@@ -996,10 +996,7 @@ date: 2024-10-10, from: Robert Reich's blog
 
 The media is demanding candid responses from Harris while letting Trump get away with no answers at all 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://substack-post-media.s3.amazonaws.com/public/images/d940027a-3fe9-4e44-951a-cbc8e5c43236_4200x2363.png"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://robertreich.substack.com/p/double-standard>
 
@@ -1023,10 +1020,7 @@ date: 2024-10-09, from: Margaret Atwood's substack
 
 Be careful what you wish for. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff67a69a5-f0b2-494f-b3f7-32bd96d400ea_4032x3024.jpeg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://margaretatwood.substack.com/p/the-oracle-mouths-off-part-one>
 
@@ -1038,10 +1032,7 @@ date: 2024-10-09, from: Dan Rather's Steady
 
 Action plus enthusiasm may help Harris win the White House 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38dbb98f-8a10-48f2-92e9-3f82e89d7ea7_6000x4000.jpeg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://steady.substack.com/p/all-gas-no-brakes>
 
@@ -1205,7 +1196,7 @@ date: 2024-10-09, from: Heather Cox Richardson blog
 
 <audio controls="controls">
 <source type="audio/mpeg" src="https://api.substack.com/feed/podcast/150020532/f502326adeca4f8ffa582d0d97327ae8.mp3"></source>
-	<p>Your browser does not support the audio element.</p>
+	<p>Your browser doesn't support this type of audio file</p>
 </audio> 
 
 <https://heathercoxrichardson.substack.com/p/october-8-2024-83b>
@@ -1365,10 +1356,7 @@ date: 2024-10-09, from: Robert Reich's blog
 
 Friends, 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://substack-post-media.s3.amazonaws.com/public/images/1f9f06c9-55f8-4009-bf9b-d4fff906f483_880x587.jpeg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://robertreich.substack.com/p/office-hours-milton-helene-floods>
 
@@ -1833,7 +1821,7 @@ date: 2024-10-08, from: Heather Cox Richardson blog
 
 <audio controls="controls">
 <source type="audio/mpeg" src="https://api.substack.com/feed/podcast/149959895/b01b7a91dc2e02f1e2e5cc0bc13efec1.mp3"></source>
-	<p>Your browser does not support the audio element.</p>
+	<p>Your browser doesn't support this type of audio file</p>
 </audio> 
 
 <https://heathercoxrichardson.substack.com/p/october-7-2024-3ea>
@@ -1859,10 +1847,7 @@ date: 2024-10-08, from: Robert Reich's blog
 
 A personal story 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda98c213-3e35-48cf-8ba9-e2ca64e6f4f1_400x514.jpeg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://robertreich.substack.com/p/when-corporations-maim-and-kill-their>
 
@@ -1932,10 +1917,7 @@ date: 2024-10-08, from: Dan Rather's Steady
 
 &#8216;Blowhard&#8217; is not just a wind speed 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99c466d8-b666-4713-a132-3475b2be13b0_5236x3490.jpeg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://steady.substack.com/p/a-hurricane-of-lies>
 
@@ -2138,7 +2120,7 @@ date: 2024-10-07, from: Heather Cox Richardson blog
 
 <audio controls="controls">
 <source type="audio/mpeg" src="https://api.substack.com/feed/podcast/149923717/6ab0490a5083786578895b37789cc960.mp3"></source>
-	<p>Your browser does not support the audio element.</p>
+	<p>Your browser doesn't support this type of audio file</p>
 </audio> 
 
 <https://heathercoxrichardson.substack.com/p/october-6-2024-be6>
@@ -2270,7 +2252,7 @@ date: 2024-10-07, from: Dave Winer's Scripting News
 
 <audio controls="controls">
 <source type="audio/mpeg" src="https://s3.amazonaws.com/scripting.com/publicfolder/downloads/podcasts/2024/10/07/pseudoCodeAndKitchenTableConversations.m4a"></source>
-	<p>Your browser does not support the audio element.</p>
+	<p>Your browser doesn't support this type of audio file</p>
 </audio> 
 
 <http://scripting.com/2024/10/07/135828.html?title=pseudoCodeAndKitchentableConversations>
@@ -2352,10 +2334,7 @@ date: 2024-10-07, from: Robert Reich's blog
 
 Friends, 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1641f566-9789-4e10-aed5-9a23dce894c3_1258x910.jpeg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://robertreich.substack.com/p/how-the-gop-became-the-party-of-cranks>
 
@@ -2381,7 +2360,7 @@ date: 2024-10-07, from: Heather Cox Richardson blog
 
 <audio controls="controls">
 <source type="audio/mpeg" src="https://api.substack.com/feed/podcast/149898351/7a1c9c3c0f8f01a9debbeefe5c9b1a3b.mp3"></source>
-	<p>Your browser does not support the audio element.</p>
+	<p>Your browser doesn't support this type of audio file</p>
 </audio> 
 
 <https://heathercoxrichardson.substack.com/p/october-5-2024-bb5>
@@ -2459,10 +2438,7 @@ date: 2024-10-06, from: Dan Rather's Steady
 
 A Reason To Smile 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f2b1788-7eee-4759-8903-c9690a03ce6d_1000x667.jpeg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://steady.substack.com/p/forever-country>
 
@@ -2474,10 +2450,7 @@ date: 2024-10-06, from: Robert Reich's blog
 
 And last week&#8217;s winner 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe55b4e8f-1ba2-484a-9fcc-2b3db6507d78_3500x2268.jpeg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://robertreich.substack.com/p/sunday-caption-contest-activism>
 

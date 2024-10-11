@@ -1,11 +1,11 @@
 ---
 title: writing
-updated: 2024-10-10 19:45:00
+updated: 2024-10-10 21:04:50
 ---
 
 # writing
 
-(date: 2024-10-10 19:45:00)
+(date: 2024-10-10 21:04:50)
 
 ---
 
@@ -86,10 +86,7 @@ date: 2024-10-09, from: Margaret Atwoods Substack
 
 Be careful what you wish for. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff67a69a5-f0b2-494f-b3f7-32bd96d400ea_4032x3024.jpeg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://margaretatwood.substack.com/p/the-oracle-mouths-off-part-one>
 
@@ -157,10 +154,7 @@ date: 2024-10-09, from: Interesting, a blog on writing
 
 The tension in making a scene feel real, but not "too real." 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a047f0d-f873-4215-b63d-6fd37d1547ca_1600x901.jpeg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://inneresting.substack.com/p/long-takes-and-calculated-decluttering>
 
@@ -250,7 +244,7 @@ The post <a href="https://johnaugust.com/2024/moneyball">Moneyball</a> first app
 
 <audio controls="controls">
 <source type="audio/mpeg" src="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/660standard.mp3"></source>
-	<p>Your browser does not support the audio element.</p>
+	<p>Your browser doesn't support this type of audio file</p>
 </audio> 
 
 <https://johnaugust.com/2024/moneyball>

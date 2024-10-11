@@ -1,11 +1,47 @@
 ---
 title: going electric
-updated: 2024-10-10 19:45:24
+updated: 2024-10-10 21:04:54
 ---
 
 # going electric
 
-(date: 2024-10-10 19:45:24)
+(date: 2024-10-10 21:04:54)
+
+---
+
+## Tesla Robovan: This Is It
+
+date: 2024-10-11, from: Inside EVs News
+
+Tesla's "one more thing" at the its robotaxi event was an electric, autonomous bus.  
+
+ 
+
+<https://insideevs.com/news/736937/tesla-robovan-bus-revealed/>
+
+---
+
+## Tesla Robotaxi To Cost Under $30,000: Elon Musk
+
+date: 2024-10-11, from: Inside EVs News
+
+Tesla CEO Elon Musk said the Cybercab will be available for purchase before 2027. 
+
+ 
+
+<https://insideevs.com/news/736936/tesla-robotaxi-cybercab-price/>
+
+---
+
+## Tesla Robotaxi: This Is It
+
+date: 2024-10-11, from: Inside EVs News
+
+It's finally here. Tesla The automaker unveiled the vehicle at a splashy event in Los Angeles, but can it deliver on so many promises? 
+
+ 
+
+<https://insideevs.com/news/736879/tesla-robotaxi-cybercab-reveal/>
 
 ---
 
@@ -67,10 +103,7 @@ date: 2024-10-10, from: Inside EVs News
 
 There's a reason for that, the CEO of Mercedes-Benz R&D said in an interview. But is being more cautious than Tesla risking the future? 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/0eWpy3/s6/mercedes-autonomy-top.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://insideevs.com/news/736759/mercedes-drive-pilot-l3-interview/>
 
@@ -114,10 +147,7 @@ date: 2024-10-10, from: Inside EVs News
 
 Ionna and others are pioneering next-generation charging hubs, with more amenities and plugs. And—imagine this—covered parking.  
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/g4z2K7/s6/ionna-s-second-rechargery.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://insideevs.com/news/736910/ionna-charging-station-design/>
 
@@ -197,10 +227,7 @@ date: 2024-10-10, from: Inside EVs News
 
 There are still big questions about how Tesla would actually build a nationwide autonomous taxi service.  
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/Oo2ZgL/s6/tesla-robotaxi-top-image.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://insideevs.com/news/736900/tesla-robotaxi-cybercab-business-model/>
 
@@ -228,10 +255,7 @@ date: 2024-10-10, from: Inside EVs News
 
 A growing number of companies are now offering installation as part of the charger buying process. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/9m4W2l/s6/chargepoint-home-installation.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://insideevs.com/news/736875/chargepoint-ev-charger-home-installation/>
 
@@ -263,10 +287,7 @@ date: 2024-10-10, from: Inside EVs News
 
 Tesla hasn’t announced any plans to bring its driverless taxi to Europe, but it probably will. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/vxn7gY/s6/robotaxi-eu.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://insideevs.com/news/736847/tesla-robotaxi-coming-to-europe/>
 
@@ -310,10 +331,7 @@ date: 2024-10-10, from: Inside EVs News
 
 Here's a hint: it's not actually the Robotaxi. It's what the EV market really wants.  
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/lE340M/s6/tesla-model-2-render-close-up.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://insideevs.com/news/736859/tesla-robotaxi-event-affordable-model/>
 
@@ -325,10 +343,7 @@ date: 2024-10-10, from: Inside EVs News
 
 Plus, the industry is split on LIDAR, and BYD wants to sell 100,000 cars in Mexico next year. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/P3JVby/s6/tesla-robotaxi-ai-black-box.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://insideevs.com/news/736774/tesla-robotaxi-ai-black-box/>
 
@@ -388,10 +403,7 @@ date: 2024-10-10, from: Inside EVs News
 
 Sales of BMW Group’s EVs went up even as BMW grapples with a global recall and Mini is refreshing its lineup. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/QevGA7/s6/bmw-group-ev-sales-went-up-in-q3-2024.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://insideevs.com/news/736804/bmw-ev-sales-q3-2024/>
 
@@ -403,10 +415,7 @@ date: 2024-10-10, from: Inside EVs News
 
 American Lease, the entity that wants to buy over 3,000 Ocean EVs, said it wants out of the deal if it can’t use its own server. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/kol8Lx/s6/fisker-ocean-data-cannot-be-ported-to-a-new-server.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://insideevs.com/news/736798/fisker-ocean-data-impossible-port/>
 
@@ -460,16 +469,13 @@ date: 2024-10-09, from: Electrek Feed
 
 ---
 
-## Tesla Robotaxi Event: Watch It Live Here (Updated With Latest)
+## Tesla Robotaxi Event: The Recap
 
 date: 2024-10-09, from: Inside EVs News
 
-The show starts on October 10 at 10 PM Eastern. Grab your popcorn, this is going to be interesting. 
+Elon Musk introduced the Tesla "Cybercab" and "Robovan" at Thursday's event, but both may be a ways off. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/mM3YzB/s6/tesla-robotaxi-event-live-stream.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://insideevs.com/news/736707/tesla-robotaxi-event-live-stream/>
 
@@ -481,10 +487,7 @@ date: 2024-10-09, from: Inside EVs News
 
 Last week, four top Tesla executives who directly reported to CEO Elon Musk announced their departures on LinkedIn. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/Oo042y/s6/tesla-fsd-v12.4.1.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://insideevs.com/news/736762/tesla-exodus-top-officials-leave/>
 
@@ -512,10 +515,7 @@ date: 2024-10-09, from: Inside EVs News
 
 Canadian buyers can already go out and buy the pint-sized EV crossover at dealerships across the country. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/zxq0kb/s6/ex30-canada-top.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://insideevs.com/news/736748/volvo-ex30-canadian-roads-on-sale/>
 
@@ -599,10 +599,7 @@ date: 2024-10-09, from: Inside EVs News
 
 The Tesla Robotaxi reveal is CEO Elon Musk's make-or-break moment. But AI scientists think Tesla's approach has major flaws. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/6ZoO1l/s6/tesla-robotaxi-top.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://insideevs.com/news/736711/tesla-robotaxi-doubt-science-fsd/>
 
@@ -646,10 +643,7 @@ date: 2024-10-09, from: Inside EVs News
 
 Honda's taking a page out of Hyundai's book, introducing game-like features to its next-generation EVs. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/QevGG3/s6/honda-vr-top.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://insideevs.com/news/736634/honda-ev-plans-fake-shifting/>
 
@@ -661,10 +655,7 @@ date: 2024-10-09, from: Inside EVs News
 
 General Motors has good news on the EV front. Meanwhile, Volkswagen tries again and Honda hedges its bets. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/nAb88y/s6/gm-ev-cm-top.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://insideevs.com/news/736719/gm-ev-profits-cm/>
 
@@ -692,10 +683,7 @@ date: 2024-10-09, from: Inside EVs News
 
 Model years 2020 through 2024 are affected, but the fix is different depending on the year of manufacture. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/MkY6MY/s6/porsche-taycan-recalled-for-battery-fire-risk.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://insideevs.com/news/736702/porsche-taycan-battery-fire-recall/>
 
@@ -723,10 +711,7 @@ date: 2024-10-09, from: Inside EVs News
 
 You’re not exactly spoiled for choice when it comes to trim levels, either. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/JOA6xQ/s6/volkswagen-id.-buzz-configurator-goes-live-in-the-u.s..jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://insideevs.com/news/736665/vw-id-buzz-configurator-trims-pricing/>
 
@@ -802,10 +787,7 @@ date: 2024-10-08, from: Inside EVs News
 
 GM's cost-cutting around batteries is projected to save up to $6,000 per vehicle in the short term. 
 
-<audio controls="controls">
-<source type="image/jpeg" src="https://cdn.motor1.com/images/mgl/Oo296y/s6/chevy-equinox-ev-ultium-hero.jpg"></source>
-	<p>Your browser does not support the audio element.</p>
-</audio> 
+ 
 
 <https://insideevs.com/news/736631/gm-lfp-6000-per-vehicle/>
 

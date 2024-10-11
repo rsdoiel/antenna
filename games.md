@@ -1,11 +1,71 @@
 ---
 title: games
-updated: 2024-10-10 19:45:02
+updated: 2024-10-10 21:04:50
 ---
 
 # games
 
-(date: 2024-10-10 19:45:02)
+(date: 2024-10-10 21:04:50)
+
+---
+
+## How to unlock Archetypes in Metaphor: ReFantazio
+
+date: 2024-10-11, updated: 2024-10-10, from: Polygon Website
+
+Archetypes are the class system in in Metaphor: ReFantazio, with each one determining the skills an abilities available to you. Over the course of the game, you can invest in them more deeply to grow their power and expand their skillsets as you upgrade them.  Each Archetype revolves around a general playstyle or traditional RPG [&#8230;] 
+
+ 
+
+<https://www.polygon.com/metaphor-refantazio-guides/463846/archetypes-all-list-how-to-unlock-jobs-classes>
+
+---
+
+## How to get all endings in Metaphor: ReFantazio
+
+date: 2024-10-11, updated: 2024-10-10, from: Polygon Website
+
+There are four endings in Metaphor: ReFantazio — parts of the game that technically conclude with a credits scroll. There is, however, just one real ending if you wish to complete the story; the other three are bad endings that will cut your journey short. There are no trophies or achievements for seeing the bad [&#8230;] 
+
+ 
+
+<https://www.polygon.com/metaphor-refantazio-guides/463816/endings-all-how-to-get-true>
+
+---
+
+## How long does it take to beat Metaphor: ReFantazio?
+
+date: 2024-10-11, updated: 2024-10-10, from: Polygon Website
+
+Metaphor: ReFantazio is from the creators behind Persona 3, 4 and 5. Given those Japanese high school RPGs were all epic affairs, you might be wondering how long it takes to beat this new original fantasy RPG, which shares a similar structure and other gameplay elements. The answer is that it is a pretty long [&#8230;] 
+
+ 
+
+<https://www.polygon.com/metaphor-refantazio-guides/463760/how-long-to-beat-game-length-hours>
+
+---
+
+## How to unlock all Followers in Metaphor: ReFantazio
+
+date: 2024-10-11, updated: 2024-10-10, from: Polygon Website
+
+Every monarch needs their supporters, and in Metaphor: ReFantazio, your Followers are your friends, your comrades, and the most important mechanic in the game. Followers are Metaphor&#8216;s equivalent of Social Links or Confidants from the Persona games. If you&#8217;ve played those games, you&#8217;ll pick up on how this system works pretty quickly. The loop is [&#8230;] 
+
+ 
+
+<https://www.polygon.com/metaphor-refantazio-guides/463408/followers-all-list-how-to-unlock>
+
+---
+
+## 13 beginner’s tips to know before starting Metaphor: ReFantazio
+
+date: 2024-10-11, updated: 2024-10-10, from: Polygon Website
+
+Metaphor: ReFantazio is a fantastic Persona-like romp through the fantasy genre. But the sheer scale of what’s on offer, combined with the limited number of in-game days to get everything done, means that if you want to do everything in one playthrough, you’re going to need to be efficient.  From making friends to cooking, cleaning, [&#8230;] 
+
+ 
+
+<https://www.polygon.com/metaphor-refantazio-guides/463158/beginners-tips-tricks>
 
 ---
 
