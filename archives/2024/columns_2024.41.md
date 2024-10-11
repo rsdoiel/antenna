@@ -1,11 +1,80 @@
 ---
 title: columns
-updated: 2024-10-11 07:08:28
+updated: 2024-10-11 08:58:08
 ---
 
 # columns
 
-(date: 2024-10-11 07:08:28)
+(date: 2024-10-11 08:58:08)
+
+---
+
+##  The Distorted Paper Collages of Lola Dupré 
+
+date: 2024-10-11, updated: 2024-10-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/the-distorted-paper-collages-of-lola-dupre>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-10-11, from: Miguel de Icaza Mastondon feed)
+
+<p>Berlin is the Mexico City of the Middle East</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113289426623433968>
+
+---
+
+## History Extra for October 10, 2024
+
+date: 2024-10-11, from: Heather Cox Richardson blog
+
+After the Civil War, the Midwest had never gotten fully on board with the national celebration of industrialists and their great fortunes. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/history-extra-for-october-10-2024>
+
+---
+
+##  Twin Peaks Actually Explained (in a four-hour video). &#8220;Lynch&#8217;s obsession with electricity... 
+
+date: 2024-10-11, updated: 2024-10-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045411-twin-peaks-actually-expla>
+
+---
+
+## Realizing Meshtastic's Promise with the T-Deck
+
+date: 2024-10-11, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Realizing Meshtastic's Promise with the T-Deck</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><a href="https://meshtastic.org">Meshtastic</a>—a simple off-grid mesh network used to transfer short messages—is a neat bit of tech, but until recently, most development has focused on little nodes with or without tiny OLED displays, and a separate phone app or web UI to actually <em>interact</em> with the mesh.</p>
+
+<p>The major use case I have for Meshtastic is backup comms—when cell networks and physical infrastructure may be unavailable. In those conditions, I don't want to run my full computer, or even a full smartphone, just to communicate long range via text.</p>
+
+<p>Enter the T-Deck:</p>
+
+<p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/lilygo-t-deck-on-workbench-new-firmware.jpeg" alt="Lilygo T-Deck running experimental UI Meshtastic firmware"></p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-10-11T09:35:11-05:00" title="Friday, October 11, 2024 - 09:35" class="datetime">October 11, 2024</time>
+</span> 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2024/realizing-meshtastics-promise-t-deck>
 
 ---
 
@@ -15,9 +84,35 @@ date: 2024-10-11, updated: 2024-10-11, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/0045425-i-am-tempted-by-this>
+
+---
+
+## The web lives!
+
+date: 2024-10-11, from: Dave Winer's Scripting News
+
+<p>I have a morning ritual which begins with breakfast and iced coffee, and my laptop, on the kitchen table, to review the news, sports, whatever. Write a few tweets or share a few links. Usually with WNYC playing in the background until I find something I want to read carefully, then I shout at Alexa to go away. When done, I head upstairs where the work begins, often with a blog post, as I'm writing now, and sometimes with a bit of code, but that usually waits until my brain is warmed up. </p>
+<p>But today I had a different assignment. Instead of tweeting, I wrote a few wordpress/mastodon posts, a new hybrid, a medium that I may well be the first person to explore, to do actual writing in. </p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/10/11/kong.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I have a writing tool I call wordland, it connects directly to WordPress, and from there, one of my sites is hooked up to Mastodon via ActivityPub. I choose to view it that way, to keep from going crazy. I know that it's hooked up to the "fediverse" -- meaning my writing can be viewed by any other app that supports the protocol Masotodon supports which is kind of ActivityPub+ -- where the + is the Mastodon API. Not sure what the ratios are, and I don't care. In this context I am a user, and happy to be that. The developers at Automattic are taking care of the technical details. </p>
+<p>Here's the conclusion that appeared in <a href="https://mastodon.social/@daveverse.wordpress.com@daveverse.wordpress.com/113288911901690601">one of the posts</a> I wrote in my kitchen this morning -- "I am more excited about the web than I have been in a <i>lonnnnng</i> time." I am. I explained why in one of my posts, but it comes down to this. I have most of the features I asked for in <a href="https://textcasting.org/">textcasting</a> (!) and I am typing in a respectable editing window, where I retain copies of my writing, and there's no freaking "tiny text box". And because I'm hooking in through a protocol (here's the punchline) this writing can go anywhere. Anywhere. Let me say that again. Anywhere. </p>
+<p>Like I said the other day, I doubt if Automattic knows what they have. I seriously doubt it. But in a few years, we're going to look back on this as the moment when Twitter stopped controlling our writing, as they have since 2006. </p>
+<p>No more character limits. Posts can have titles, or not. We can use links, as many as we like. Styling works. We can edit our posts. And the really big payoff, I can use a tool I love and you can use a tool you love and they work together perfectly well. And if one day you feel like using mine, and I feel like using yours, it works. So in one step, we turn the clock back to 1994, when the web had all the features a writer could want, and one extra -- links, that we've been missing since Twitter and Facebook decided we didn't need them. And the folks at Bluesky and Mastodon agreed, possibly without realizing all the damage. Maybe none of them understood, or maybe bringing back links was just never a priority. But if we move quickly now, we can create the expectation that Threads hasn't really supported the Fediverse until they support links and styling and no character limits, too. </p>
+<p>Links to the stories I wrote earlier, on Mastodon:</p>
+<ol>
+<li><a href="https://mastodon.social/@daveverse.wordpress.com@daveverse.wordpress.com/113288911901690601">My new writing environment does textcasting</a>.</li>
+<li><a href="https://mastodon.social/@daveverse.wordpress.com@daveverse.wordpress.com/113288829308266525">I have bad luck hooking up to platforms</a>.</li>
+<li><a href="https://mastodon.social/@daveverse.wordpress.com@daveverse.wordpress.com/113288799924700948">A place for a 90s blogosperic reboot</a>.</li>
+</ol>
+<p>WordPress versions are linked to from the Mastodon posts. </p>
+<p>Enter this in the address box: <b>@daveverse.wordpress.com</b> to follow this blog in Mastodon.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2024/10/11/132736.html?title=theWebLives>
 
 ---
 
@@ -27,7 +122,7 @@ date: 2024-10-11, updated: 2024-10-11, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/0045409-initial-experiments-in-us>
 
@@ -40,7 +135,7 @@ date: 2024-10-11, updated: 2024-10-11, from: Liam Proven's articles at the Regis
 <h4><span class="label">Explainer</span> But what does that mean?</h4>
       <p>Apple&#39;s latest OS release is the newest member of the Open Group list of officially verified UNIX variants – by quite some margin.</p> 
 
- 
+<br> 
 
 <https://go.theregister.com/i/cfa/https://www.theregister.com/2024/10/11/macos_15_is_unix/>
 
@@ -50,7 +145,7 @@ date: 2024-10-11, updated: 2024-10-11, from: Liam Proven's articles at the Regis
 
 <p>I have arrived in Europe, the land of cookie popups!</p><p>I hope they don’t arrest me from bringing a contraband ChatGPT with me, or opposing the genocide in Gaza.</p> 
 
- 
+<br> 
 
 <https://mastodon.social/@Migueldeicaza/113288662680855648>
 
@@ -63,7 +158,7 @@ date: 2024-10-11, updated: 2024-10-09, from: Bruce Schneier blog
 <p>After retiring in 2014 from an uncharacteristically long tenure running the NSA (and US CyberCommand), Keith Alexander founded a cybersecurity company called IronNet. At the time, he claimed that it was based on IP he developed on his own time while still in the military. That always troubled me. Whatever ideas he had, they were developed on public time using public resources: he shouldn&#8217;t have been able to leave military service with them in his back pocket.</p>
 <p>In any case, it was never clear what those ideas were. IronNet never seemed to have any special technology going for it. Near as I could tell, its success was entirely based on Alexander&#8217;s name...</p> 
 
- 
+<br> 
 
 <https://www.schneier.com/blog/archives/2024/10/ironnet-has-shut-down.html>
 
@@ -75,7 +170,7 @@ date: 2024-10-11, from: Robert Reich's blog
 
 Trump and Putin are stronger allies than we even knew. This is bad news for Ukraine if Trump wins the election, and bad news for American democracy. 
 
- 
+<br> 
 
 <https://robertreich.substack.com/p/the-axis-of-tyranny-in-america-and>
 
@@ -87,7 +182,7 @@ date: 2024-10-11, from: Heather Cox Richardson blog
 
 Hurricane Milton made landfall yesterday evening as a Category 3 storm just south of Sarasota, Florida. 
 
- 
+<br> 
 
 <https://heathercoxrichardson.substack.com/p/october-10-2024>
 
@@ -180,7 +275,7 @@ date: 2024-10-11, from: Dave Rupert blog
 <li>Bought the new Zelda, haven’t played it but my son is almost done.</li>
 </ul> 
 
- 
+<br> 
 
 <https://daverupert.com/2024/10/vibe-check-35/>
 
@@ -192,7 +287,7 @@ date: 2024-10-10, from: John Naughton's online diary
 
 Inwards and Onwards! The new entrance to the National Portrait Gallery, one of my favourite buildings in London, yesterday. Quote of the Day ”Within every lean, hungry, tech start-up founder, a bloated monopolist was struggling to get out.” Henry Farrell &#8230; <a href="https://memex.naughtons.org/friday-11-october-2024/39952/">Continue reading <span class="meta-nav">&#8594;</span></a> 
 
- 
+<br> 
 
 <https://memex.naughtons.org/friday-11-october-2024/39952/>
 
@@ -204,7 +299,7 @@ date: 2024-10-10, from: Jonudell blog
 
 There are plenty of ways to use LLMs ineffectively. For best results, lean into your own intelligence, experience, and creativity. Delegate the boring and routine stuff to closely supervised assistants whose work you can easily check. Mix Human Expertise With LLM Assistance for Easier Coding Part of the LLM series at The New Stack. 
 
- 
+<br> 
 
 <https://blog.jonudell.net/2024/10/10/mix-human-expertise-with-llm-assistance-for-easier-coding/>
 
@@ -214,7 +309,7 @@ There are plenty of ways to use LLMs ineffectively. For best results, lean into 
 
 <p>OMG the new on-device transcription for your voice memos on iPhone is amazing!  And it can do text searches.</p><p>I have so many lectures recorded.</p><p>This is a gift of the gods.</p> 
 
- 
+<br> 
 
 <https://mastodon.social/@Migueldeicaza/113285627290303245>
 
@@ -224,7 +319,7 @@ There are plenty of ways to use LLMs ineffectively. For best results, lean into 
 
 <p>First time traveling on the AirBus Beluga.   I am so excited.</p> 
 
- 
+<br> 
 
 <https://mastodon.social/@Migueldeicaza/113285546639976602>
 
@@ -236,7 +331,7 @@ date: 2024-10-10, from: Doc Searls (at Harvard), New Old Blog
 
 I got an iPhone 16 Pro twelve days ago. I have two more days to swap it for an iPhone 16 Pro Max, which will cost me $100 above the mint I already paid for the Pro with 1 TB of storage. Why so much storage? I want to maximize storage because this thing is [&#8230;] 
 
- 
+<br> 
 
 <https://doc.searls.com/2024/10/10/iphone-16-pro-or-pro-max/>
 
@@ -248,7 +343,7 @@ date: 2024-10-10, updated: 2024-10-10, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/0045435-the-trailer-for-season-2>
 
@@ -258,7 +353,7 @@ date: 2024-10-10, updated: 2024-10-10, from: Jason Kittke's blog
 
 <p>Leaving for GodotCon!</p><p>Looking forward to meet you all on Saturday!</p> 
 
- 
+<br> 
 
 <https://mastodon.social/@Migueldeicaza/113285133317052765>
 
@@ -270,7 +365,7 @@ date: 2024-10-10, updated: 2024-10-10, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/radioheads-everything-in-its-right-place-800-slower>
 
@@ -282,7 +377,7 @@ date: 2024-10-10, updated: 2024-10-10, from: Daring Fireball
 
 The question to ask is, “Is this what users want and expect?” Sometimes it really is that simple. I’m not sure it’s ever worth asking “Is this what growth-hacking VC-backed social-media app makers want?” 
 
- 
+<br> 
 
 <https://daringfireball.net/2024/10/consider_the_plight_of_the_vc-backed_privacy_burglars>
 
@@ -294,7 +389,7 @@ date: 2024-10-10, updated: 2024-10-10, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/0045431-whoa-new-nintendo-hardwar>
 
@@ -306,7 +401,7 @@ date: 2024-10-10, from: Heather Cox Richardson blog
 
 On October 9, 1919, the Cincinnati Reds beat the Chicago White Sox to win the World Series. 
 
- 
+<br> 
 
 <https://heathercoxrichardson.substack.com/p/history-extra-for-october-9-2024>
 
@@ -318,7 +413,7 @@ date: 2024-10-10, updated: 2024-10-10, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/0045428-covid-19-may-increase-the>
 
@@ -338,7 +433,7 @@ date: 2024-10-10, from: Dave Winer's Scripting News
 </ol>
  
 
- 
+<br> 
 
 <http://scripting.com/2024/10/10/190904.html?title=memorableTvwatchingMoments>
 
@@ -350,7 +445,7 @@ date: 2024-10-10, updated: 2024-10-10, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/0045432-one-woman-and-two-men>
 
@@ -360,7 +455,7 @@ date: 2024-10-10, updated: 2024-10-10, from: Jason Kittke's blog
 
 I'm posting <a href="https://mastodon.social/@daveverse.wordpress.com@daveverse.wordpress.com">development notes</a> on the <i>wordland</i> product in my wordpress/mastodon account. I'm starting to like using the new editor. Today I switched the format we save drafts in from HTML to Markdown. More consistent with my belief that Markdown is the <a href="http://scripting.com/2022/08/25/210902.html">ideal subset of web writing</a> features for the <a href="https://oursocialweb.org/">social web</a>. 
 
- 
+<br> 
 
 <http://scripting.com/2024/10/10.html#a184350>
 
@@ -374,8 +469,8 @@ date: 2024-10-10, from: Heather Cox Richardson blog
 
 <audio controls="controls">
 <source type="audio/mpeg" src="https://api.substack.com/feed/podcast/150065760/613e3795ee3b83f0d4694874c047d74d.mp3"></source>
-	<p>Your browser doesn't support this type of audio file</p>
-</audio> 
+	<a href="https://api.substack.com/feed/podcast/150065760/613e3795ee3b83f0d4694874c047d74d.mp3" target="_blank">audio/mpeg</a>
+</audio><br> 
 
 <https://heathercoxrichardson.substack.com/p/october-9-2024-07a>
 
@@ -387,7 +482,7 @@ date: 2024-10-10, updated: 2024-10-10, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/the-best-panoramic-photos-of-2024>
 
@@ -399,7 +494,7 @@ date: 2024-10-10, updated: 2024-10-10, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/0045430-the-myth-of-the-climate>
 
@@ -411,7 +506,7 @@ date: 2024-10-10, updated: 2024-10-10, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/0045433-who-died-and-left-the>
 
@@ -421,7 +516,7 @@ date: 2024-10-10, updated: 2024-10-10, from: Jason Kittke's blog
 
 Isn't it weird that businesses <a href="https://en.wikipedia.org/wiki/Search_engine_optimization">work hard</a> to get better position on Google search, but fight the other way with AI to be <a href="https://chatgpt.com/share/6707fec7-11c8-8012-b616-67bc4c961972">excluded</a>. At some point they could realize that one of the approaches isn't correct. 
 
- 
+<br> 
 
 <http://scripting.com/2024/10/10.html#a161705>
 
@@ -433,7 +528,7 @@ date: 2024-10-10, updated: 2024-10-10, from: Daring Fireball
 
  
 
- 
+<br> 
 
 <https://www.gocomics.com/calvinandhobbes/2024/10/06>
 
@@ -443,7 +538,7 @@ date: 2024-10-10, updated: 2024-10-10, from: Daring Fireball
 
 <img class="imgRightMargin" src="https://imgs.scripting.com/2024/10/10/ronaldMcGrimace.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Quick note about last night's <a href="https://www.youtube.com/watch?v=Tu-LZvntCf8">Mets win over Philly</a>. The series is over, the next game on Sunday will be against the winner in the west, either San Diego or Los Angeles. Last night's game was stressful, low scoring, until the Mets star shortstop hit a <a href="https://www.mlb.com/video/francisco-lindor-hits-a-grand-slam-1-to-center-field-starling-marte-score">freaking</a> <i>grand slam</i> <a href="https://sports.yahoo.com/francisco-lindor-sends-mets-to-the-nlcs-eliminates-phillies-with-grand-slam-in-nlds-game-4-035006801.html">home run</a>, and that was all the scoring we needed. The Mets are the hottest team in baseball. It doesn't feel like a long time since <a href="https://en.wikipedia.org/wiki/2015_New_York_Mets_season">2015</a> when they got to the World Series before crashing. Who knows how far we'll get this year, honestly -- I'm surprised (and pleased) we got this far. And in the meantime, I caught a tiny bit of last night's preseason game between the <a href="https://www.bulletsforever.com/2024/10/9/24266653/washington-wizards-new-york-knicks-nba-preseason-game-recap">Knicks</a> and some other team I don't care about. They have two new stars to add to the roster after <a href="https://www.nba.com/news/isaiah-hartenstein-2024-free-agency">losing one star</a> as a free agent, and trading two others for the <a href="https://www.nba.com/news/karl-anthony-towns-trade-knicks-timberwolves">second new star</a>. All in all, very enticing. New York has some excellent sports teams, which is unusual, because it isn't just the Jankees this time, a team I will, I promise, <i>never</i> root for. Quite the opposite. I will root for whoever they are playing. You can probably tell I don't like them. <span class="spOldSchoolEmoji">😄</span> 
 
- 
+<br> 
 
 <http://scripting.com/2024/10/10.html#a155959>
 
@@ -455,7 +550,7 @@ date: 2024-10-10, updated: 2024-10-10, from: Daring Fireball
 
  
 
- 
+<br> 
 
 <https://www.bleepingcomputer.com/news/security/internet-archive-hacked-data-breach-impacts-31-million-users/>
 
@@ -467,7 +562,7 @@ date: 2024-10-10, updated: 2024-10-10, from: Daring Fireball
 
  
 
- 
+<br> 
 
 <https://x.com/bella_bongiorno/status/1843705512808067296?s=12&t=75cuNzpkeCQ9C7aB0JjsEg>
 
@@ -479,7 +574,7 @@ date: 2024-10-10, updated: 2024-10-10, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/photo-remakes-of-famous-art-1>
 
@@ -491,7 +586,7 @@ date: 2024-10-10, updated: 2024-10-10, from: Daring Fireball
 
  
 
- 
+<br> 
 
 <https://www.theverge.com/24266272/nintendo-alarmo-sound-clock-hands-on>
 
@@ -503,7 +598,7 @@ date: 2024-10-10, updated: 2024-10-10, from: Daring Fireball
 
  
 
- 
+<br> 
 
 <https://www.bloomberg.com/news/articles/2024-10-09/apple-s-dan-riccio-key-executive-in-both-the-jobs-and-cook-eras-to-retire>
 
@@ -517,7 +612,7 @@ After over four years, I am simplifying the UPDC to make it more lightweight,
 more portable, and less *in the way*. This is a status update on the
 Ultra-Portable Data Center. 
 
- 
+<br> 
 
 <https://xn--gckvb8fzb.com/ultra-portable-data-center-part-two/>
 
@@ -529,7 +624,7 @@ date: 2024-10-10, updated: 2024-10-10, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/0045429-this-simple-tool-finds-yo>
 
@@ -541,7 +636,7 @@ date: 2024-10-10, updated: 2024-10-10, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/0045420-forums-are-still-alive-ac>
 
@@ -568,7 +663,7 @@ date: 2024-10-10, from: Jeff Geerling blog
 <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-10-10T09:01:22-05:00" title="Thursday, October 10, 2024 - 09:01" class="datetime">October 10, 2024</time>
 </span> 
 
- 
+<br> 
 
 <https://www.jeffgeerling.com/blog/2024/3rd-party-poe-hats-pi-5-add-nvme-fit-inside-case>
 
@@ -753,7 +848,7 @@ freien Angriff mit einem +2 Bonus.</p>
 
 <p><a class="tag" href="/search/?q=%23RSP">#RSP</a> <a class="tag" href="/search/?q=%23Massenschlachten">#Massenschlachten</a></p> 
 
- 
+<br> 
 
 <https://alexschroeder.ch/view/2024-10-10-massenschlachten>
 
@@ -1096,7 +1191,7 @@ Feld. Gegner im Nahkampf dürfen noch einmal mit +2 angreifen.</p>
 
 <p><a class="tag" href="/search/?q=%23RSP">#RSP</a> <a class="tag" href="/search/?q=%23Massenschlachten">#Massenschlachten</a></p> 
 
- 
+<br> 
 
 <https://alexschroeder.ch/view/2024-10-07-massengefechte>
 
@@ -1114,7 +1209,7 @@ date: 2024-10-10, updated: 2024-10-08, from: Bruce Schneier blog
 <li>Photos or videos recorded by the device&#8217;s camera</ul>
 <p>It also states that voice recordings, videos and photos that are deleted via the app may continue to be held and used by Ecovacs...</p></li></li></li></blockquote> 
 
- 
+<br> 
 
 <https://www.schneier.com/blog/archives/2024/10/deebot-robot-vacuums-are-using-photos-and-audio-to-train-their-ai.html>
 
@@ -1127,7 +1222,7 @@ date: 2024-10-10, updated: 2024-10-10, from: Liam Proven's articles at the Regis
 <h4>Ideal for black-clad ultra-minimalist types. You probably wouldn&#39;t like it</h4>
       <p>OpenBSD is arguably the most secure general-purpose OS for general-purpose computers. This version has better laptop support, includes more Arm64 kit, and brings hardware-accelerated video playback.</p> 
 
- 
+<br> 
 
 <https://go.theregister.com/i/cfa/https://www.theregister.com/2024/10/10/version_76_openbsd_of_theseus/>
 
@@ -1161,7 +1256,7 @@ Everything else should come later.</p>
 
 <p><a class="tag" href="/search/?q=%23RPG">#RPG</a> <a class="tag" href="/search/?q=%23Megadungeon">#Megadungeon</a></p> 
 
- 
+<br> 
 
 <https://alexschroeder.ch/view/2024-10-09-why-are-megadungeons-great>
 
@@ -1173,7 +1268,7 @@ date: 2024-10-10, from: Robert Reich's blog
 
 The media is demanding candid responses from Harris while letting Trump get away with no answers at all 
 
- 
+<br> 
 
 <https://robertreich.substack.com/p/double-standard>
 
@@ -1185,7 +1280,7 @@ date: 2024-10-10, from: Heather Cox Richardson blog
 
 Yesterday we learned from a forthcoming book by veteran journalist Bob Woodward that in 2020, while he was president, Trump secretly shipped Covid-19 testing equipment to Russian president Vladimir Putin for his own personal use at a time when Americans could not get it. 
 
- 
+<br> 
 
 <https://heathercoxrichardson.substack.com/p/october-9-2024>
 
@@ -1197,7 +1292,7 @@ date: 2024-10-09, from: Margaret Atwood's substack
 
 Be careful what you wish for. 
 
- 
+<br> 
 
 <https://margaretatwood.substack.com/p/the-oracle-mouths-off-part-one>
 
@@ -1209,7 +1304,7 @@ date: 2024-10-09, from: Dan Rather's Steady
 
 Action plus enthusiasm may help Harris win the White House 
 
- 
+<br> 
 
 <https://steady.substack.com/p/all-gas-no-brakes>
 
@@ -1221,7 +1316,7 @@ Action plus enthusiasm may help Harris win the White House
 <p>Anyway, I was reminded of that by this post:</p>
 <blockquote class="mastodon-embed" data-embed-url="https://vis.social/@infobeautiful/113278039092776886/embed" style="background: #FCF8FF; border-radius: 8px; border: 1px solid #C9C4DA; margin: 0 auto; max-width: 540px; min-width: 270px; overflow: hidden; padding: 0;"> <a href="https://vis.social/@infobeautiful/113278039092776886" target="_blank" style="align-items: center; color: #1C1A25; display: flex; flex-direction: column; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Roboto, sans-serif; font-size: 14px; justify-content: center; letter-spacing: 0.25px; line-height: 20px; padding: 24px; text-decoration: none;"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 79 75"><path d="M74.7135 16.6043C73.6199 8.54587 66.5351 2.19527 58.1366 0.964691C56.7196 0.756754 51.351 0 38.9148 0H38.822C26.3824 0 23.7135 0.756754 22.2966 0.964691C14.1319 2.16118 6.67571 7.86752 4.86669 16.0214C3.99657 20.0369 3.90371 24.4888 4.06535 28.5726C4.29578 34.4289 4.34049 40.275 4.877 46.1075C5.24791 49.9817 5.89495 53.8251 6.81328 57.6088C8.53288 64.5968 15.4938 70.4122 22.3138 72.7848C29.6155 75.259 37.468 75.6697 44.9919 73.971C45.8196 73.7801 46.6381 73.5586 47.4475 73.3063C49.2737 72.7302 51.4164 72.086 52.9915 70.9542C53.0131 70.9384 53.0308 70.9178 53.0433 70.8942C53.0558 70.8706 53.0628 70.8445 53.0637 70.8179V65.1661C53.0634 65.1412 53.0574 65.1167 53.0462 65.0944C53.035 65.0721 53.0189 65.0525 52.9992 65.0371C52.9794 65.0218 52.9564 65.011 52.9318 65.0056C52.9073 65.0002 52.8819 65.0003 52.8574 65.0059C48.0369 66.1472 43.0971 66.7193 38.141 66.7103C29.6118 66.7103 27.3178 62.6981 26.6609 61.0278C26.1329 59.5842 25.7976 58.0784 25.6636 56.5486C25.6622 56.5229 25.667 56.4973 25.6775 56.4738C25.688 56.4502 25.7039 56.4295 25.724 56.4132C25.7441 56.397 25.7678 56.3856 25.7931 56.3801C25.8185 56.3746 25.8448 56.3751 25.8699 56.3816C30.6101 57.5151 35.4693 58.0873 40.3455 58.086C41.5183 58.086 42.6876 58.086 43.8604 58.0553C48.7647 57.919 53.9339 57.6701 58.7591 56.7361C58.8794 56.7123 58.9998 56.6918 59.103 56.6611C66.7139 55.2124 73.9569 50.665 74.6929 39.1501C74.7204 38.6967 74.7892 34.4016 74.7892 33.9312C74.7926 32.3325 75.3085 22.5901 74.7135 16.6043ZM62.9996 45.3371H54.9966V25.9069C54.9966 21.8163 53.277 19.7302 49.7793 19.7302C45.9343 19.7302 44.0083 22.1981 44.0083 27.0727V37.7082H36.0534V27.0727C36.0534 22.1981 34.124 19.7302 30.279 19.7302C26.8019 19.7302 25.0651 21.8163 25.0617 25.9069V45.3371H17.0656V25.3172C17.0656 21.2266 18.1191 17.9769 20.2262 15.568C22.3998 13.1648 25.2509 11.9308 28.7898 11.9308C32.8859 11.9308 35.9812 13.492 38.0447 16.6111L40.036 19.9245L42.0308 16.6111C44.0943 13.492 47.1896 11.9308 51.2788 11.9308C54.8143 11.9308 57.6654 13.1648 59.8459 15.568C61.9529 17.9746 63.0065 21.2243 63.0065 25.3172L62.9996 45.3371Z" fill="currentColor"/></svg> <div style="color: #787588; margin-top: 16px;">Post by @infobeautiful@vis.social</div><p>Another reasons to tut at the Mercator Map projection - how a circle with a radius of 5,000km, centred on Paris, looks according the the Mercator projection</p><div style="font-weight: 500;">View on Mastodon</div> </a> </blockquote> <script data-allowed-prefixes="https://vis.social/" async src="https://vis.social/embed.js"></script> 
 
- 
+<br> 
 
 <https://www.jayeless.net/2024/10/mercator-map-projection.html>
 
@@ -1233,7 +1328,7 @@ date: 2024-10-09, updated: 2024-10-09, from: Daring Fireball
 
  
 
- 
+<br> 
 
 <https://crazystupidtech.com/archive/the-why-of-crazy-stupid-tech/>
 
@@ -1245,7 +1340,7 @@ date: 2024-10-09, updated: 2024-10-09, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/imprints-of-nature>
 
@@ -1257,7 +1352,7 @@ date: 2024-10-09, updated: 2024-10-09, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/0045426-in-their-own-words-what>
 
@@ -1267,7 +1362,7 @@ date: 2024-10-09, updated: 2024-10-09, from: Jason Kittke's blog
 
 Thanks for all the good wishes re the <a href="http://scripting.com/2024/10/07.html">30th anniversary</a> of the start of blogging here. It's not the same as it was at the beginning, but it's still pretty good. And to all the friends no longer with us, and there are plenty of them -- you are appreciated, respected and missed. 
 
- 
+<br> 
 
 <http://scripting.com/2024/10/09.html#a205740>
 
@@ -1277,7 +1372,7 @@ Thanks for all the good wishes re the <a href="http://scripting.com/2024/10/07.h
 
 <a href="https://scripting.wordpress.com/2005/12/16/new-orleans-notes/">Summary</a> of my posts about New Orleans in December 2005. 
 
- 
+<br> 
 
 <http://scripting.com/2024/10/09.html#a205632>
 
@@ -1285,10 +1380,9 @@ Thanks for all the good wishes re the <a href="http://scripting.com/2024/10/07.h
 
 **@Dave Winer's Scripting News** (date: 2024-10-09, from: Dave Winer's Scripting News)
 
-December 2005: <a href="https://flickr.com/photos/scriptingnews/albums/1588659/">Biloxi/Gulfport after Katrina</a>.
- 
+December 2005: <a href="https://flickr.com/photos/scriptingnews/albums/1588659/">Biloxi/Gulfport after Katrina</a>. 
 
- 
+<br> 
 
 <http://scripting.com/2024/10/09.html#a205202>
 
@@ -1296,10 +1390,9 @@ December 2005: <a href="https://flickr.com/photos/scriptingnews/albums/1588659/"
 
 **@Dave Winer's Scripting News** (date: 2024-10-09, from: Dave Winer's Scripting News)
 
-After Katrina I <a href="http://scripting.com/2005/12.html">went to New Orleans</a> to see what was left, esp in the areas where there was a 15-25 foot storm surge in coastal Mississippi. If you went inland from the coast for a few miles there was nothing left. No trees, only a few skeletal all-concrete buildings where the beach used to be, otherwise <a href="https://flickr.com/photos/scriptingnews/73989089/in/album-1588659">everything destroyed</a>. What you don't necessarily realize that it isn't just 15 feet of water, it's 15 feet of stormy ocean with cars and building debris being pushed around floating in the water. This <a href="https://www.threads.net/@davew/post/DA5zrXQJVYE">video</a> on Threads provides a visual illustration of what a 9 foot surge is like.
- 
+After Katrina I <a href="http://scripting.com/2005/12.html">went to New Orleans</a> to see what was left, esp in the areas where there was a 15-25 foot storm surge in coastal Mississippi. If you went inland from the coast for a few miles there was nothing left. No trees, only a few skeletal all-concrete buildings where the beach used to be, otherwise <a href="https://flickr.com/photos/scriptingnews/73989089/in/album-1588659">everything destroyed</a>. What you don't necessarily realize that it isn't just 15 feet of water, it's 15 feet of stormy ocean with cars and building debris being pushed around floating in the water. This <a href="https://www.threads.net/@davew/post/DA5zrXQJVYE">video</a> on Threads provides a visual illustration of what a 9 foot surge is like. 
 
- 
+<br> 
 
 <http://scripting.com/2024/10/09.html#a204740>
 
@@ -1311,7 +1404,7 @@ date: 2024-10-09, updated: 2024-10-09, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/0045427-waffle-house-has-develope>
 
@@ -1323,7 +1416,7 @@ date: 2024-10-09, from: Heather Cox Richardson blog
 
 On October 8, 1871, dry conditions and strong winds drove deadly fires through the Midwest. 
 
- 
+<br> 
 
 <https://heathercoxrichardson.substack.com/p/history-extra-for-october-8-2024>
 
@@ -1335,7 +1428,7 @@ date: 2024-10-09, updated: 2024-10-09, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/0045422-on-monday-dave-winers-scr>
 
@@ -1347,7 +1440,7 @@ date: 2024-10-09, updated: 2024-10-09, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/0045417-stupid-dipshits-are-start>
 
@@ -1359,7 +1452,7 @@ date: 2024-10-09, updated: 2024-10-09, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/0045421-green-day-demastered-thei>
 
@@ -1373,8 +1466,8 @@ date: 2024-10-09, from: Heather Cox Richardson blog
 
 <audio controls="controls">
 <source type="audio/mpeg" src="https://api.substack.com/feed/podcast/150020532/f502326adeca4f8ffa582d0d97327ae8.mp3"></source>
-	<p>Your browser doesn't support this type of audio file</p>
-</audio> 
+	<a href="https://api.substack.com/feed/podcast/150020532/f502326adeca4f8ffa582d0d97327ae8.mp3" target="_blank">audio/mpeg</a>
+</audio><br> 
 
 <https://heathercoxrichardson.substack.com/p/october-8-2024-83b>
 
@@ -1386,7 +1479,7 @@ date: 2024-10-09, updated: 2024-10-09, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/erin-kissane-on-trying-to-save-the-internet-for-the-humans>
 
@@ -1398,7 +1491,7 @@ date: 2024-10-09, updated: 2024-10-09, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/0045418-comet-tsuchinshan-atlas-s>
 
@@ -1410,7 +1503,7 @@ date: 2024-10-09, updated: 2024-10-09, from: Daring Fireball
 
  
 
- 
+<br> 
 
 <https://manytricks.com/blog/?p=6385#more-6385>
 
@@ -1422,7 +1515,7 @@ date: 2024-10-09, updated: 2024-10-09, from: Daring Fireball
 
  
 
- 
+<br> 
 
 <https://www.windowscentral.com/phones/the-surface-duo-is-dead-microsoft-pulls-plug-on-usd1-500-surface-duo-2-after-just-one-android-os-upgrade>
 
@@ -1434,7 +1527,7 @@ date: 2024-10-09, updated: 2024-10-09, from: Daring Fireball
 
  
 
- 
+<br> 
 
 <https://sophiestication.com/NightOfTheLivingApp/>
 
@@ -1446,7 +1539,7 @@ date: 2024-10-09, updated: 2024-10-09, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/milton-is-the-hurricane-that-scientists-were-dreading>
 
@@ -1458,7 +1551,7 @@ date: 2024-10-09, updated: 2024-10-09, from: Daring Fireball
 
  
 
- 
+<br> 
 
 <https://9to5mac.com/2024/10/08/home-depot-apple-pay-support/>
 
@@ -1470,7 +1563,7 @@ date: 2024-10-09, updated: 2024-10-09, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/0045404-the-passwords-generated-b>
 
@@ -1482,7 +1575,7 @@ date: 2024-10-09, updated: 2024-10-09, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/0045413-mainstream-journalists-ar>
 
@@ -1494,7 +1587,7 @@ date: 2024-10-09, from: Enlightenment Economics blog
 
 I read Sam Freedman&#8217;s Failed State: Why Nothing Works and How We Fix It with a mixture of nods of recognition and gasps of disbelief. It&#8217;s all too apparent  that &#8211; as the subtitle puts it &#8211; nothing works in &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2024/10/the-narrow-path-from-votes-of-despair/">Continue reading <span class="meta-nav">&#8594;</span></a> 
 
- 
+<br> 
 
 <http://www.enlightenmenteconomics.com/blog/index.php/2024/10/the-narrow-path-from-votes-of-despair/>
 
@@ -1508,7 +1601,7 @@ date: 2024-10-09, updated: 2024-10-07, from: Bruce Schneier blog
 <p>News <a href="https://arstechnica.com/tech-policy/2024/10/harvard-students-make-auto-doxxing-smart-glasses-to-show-need-for-privacy-regs/">article</a>.</p>
  
 
- 
+<br> 
 
 <https://www.schneier.com/blog/archives/2024/10/auto-identification-smart-glasses.html>
 
@@ -1521,7 +1614,7 @@ date: 2024-10-09, updated: 2024-10-09, from: Liam Proven's articles at the Regis
 <h4>A traditional-style rich email client – but for tablets</h4>
       <p>MZLA, the company behind the Thunderbird email client, is finally putting its mobile email client app into beta testing – but it&#39;s a lot more mature than that sounds.</p> 
 
- 
+<br> 
 
 <https://go.theregister.com/i/cfa/https://www.theregister.com/2024/10/09/thunderbird_for_android_beta/>
 
@@ -1533,7 +1626,7 @@ date: 2024-10-09, from: Robert Reich's blog
 
 Friends, 
 
- 
+<br> 
 
 <https://robertreich.substack.com/p/office-hours-milton-helene-floods>
 
@@ -1545,7 +1638,7 @@ date: 2024-10-09, from: Daniel Stenberg Blog
 
 tldr: the curl bug-bounty has been an astounding success so far. We started the current curl bug-bounty setup in April 2019. We have thus run it for five and a half years give or take. In the beginning we awarded researchers just a few hundred USD per issue because we did not know where it &#8230; <a href="https://daniel.haxx.se/blog/2024/10/09/curl-bug-bounty-stats/" class="more-link">Continue reading <span class="screen-reader-text">curl bug-bounty stats</span> <span class="meta-nav">&#8594;</span></a> 
 
- 
+<br> 
 
 <https://daniel.haxx.se/blog/2024/10/09/curl-bug-bounty-stats/>
 
@@ -1555,7 +1648,7 @@ tldr: the curl bug-bounty has been an astounding success so far. We started the 
 
 <p>This leak from the “AI girlfriend” hack includes email addresses and ways of tracking people.  If it wasn’t enough of a nightmare, the CSAM requests were leaked too.</p><p><a href="https://x.com/troyhunt/status/1843788319785939422?s=61&amp;t=icP0vNw4OqAHssn8WLVAAg" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">x.com/troyhunt/status/18437883</span><span class="invisible">19785939422?s=61&amp;t=icP0vNw4OqAHssn8WLVAAg</span></a></p> 
 
- 
+<br> 
 
 <https://mastodon.social/@Migueldeicaza/113275525511178066>
 
@@ -1565,7 +1658,7 @@ tldr: the curl bug-bounty has been an astounding success so far. We started the 
 
 <p>There has never been a better time to acquire novelty .io domains<br /><a href="https://mastodon.social/@jwz/113274036505755520" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@jwz/113274036</span><span class="invisible">505755520</span></a></p> 
 
- 
+<br> 
 
 <https://mastodon.social/@Migueldeicaza/113275494605489621>
 
@@ -1575,7 +1668,7 @@ tldr: the curl bug-bounty has been an astounding success so far. We started the 
 
 <p>Oooh, I just saw that <a href="https://store.steampowered.com/app/683320/GRIS/">GRIS is 90% off on Steam<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a>. I remember watching BaerTaffy play through it years ago; it&rsquo;s a <em>beautiful</em> platforming game with a poignant &ldquo;mental health&rdquo; message, but I figured I&rsquo;d never actually pick it up myself because AUD$22 is more than I can justify for a three-hour game. Two dollars (and 19¢), though – I can definitely swing that!</p> 
 
- 
+<br> 
 
 <https://www.jayeless.net/2024/10/gris-90pc-off.html>
 
@@ -1587,7 +1680,7 @@ date: 2024-10-09, from: Heather Cox Richardson blog
 
 &#8220;It&#8217;s been a tradition for more than half a century that the major party candidates for president sit down with 60 Minutes in October,&#8221; host Scott Pelley said to the camera last night before 60 Minutes aired an interview with Vice President Kamala Harris. 
 
- 
+<br> 
 
 <https://heathercoxrichardson.substack.com/p/october-8-2024>
 
@@ -1599,7 +1692,7 @@ date: 2024-10-09, updated: 2024-10-09, from: Daring Fireball
 
  
 
- 
+<br> 
 
 <https://www.toddheberlein.com/blog/2024/10/3/a-cozy-wwdc>
 
@@ -1611,7 +1704,7 @@ date: 2024-10-09, from: Tracy Durnell Blog
 
 Rather, my experience is that young readers are eminently capable of critically engaging in long form content, but they’re rightfully demanding a seat at the table where decisions about texts are being made. Thought that Atlantic article seemed sus. I see this skepticism of curricula as rooted in the growing distrust in experts and the [&#8230;] 
 
- 
+<br> 
 
 <https://tracydurnell.com/2024/10/08/agency-in-reading/>
 
@@ -1623,7 +1716,7 @@ date: 2024-10-09, updated: 2024-10-09, from: Daring Fireball
 
  
 
- 
+<br> 
 
 <https://blog.panic.com/end-of-the-road-for-google-drive-and-transmit/>
 
@@ -1635,7 +1728,7 @@ date: 2024-10-09, updated: 2024-10-09, from: Daring Fireball
 
  
 
- 
+<br> 
 
 <https://www.nytimes.com/2024/10/06/us/politics/trump-speeches-age-cognitive-decline.html>
 
@@ -1647,7 +1740,7 @@ date: 2024-10-08, updated: 2024-10-08, from: Daring Fireball
 
  
 
- 
+<br> 
 
 <https://www.macrumors.com/2024/10/07/apple-potentially-facing-worst-leak-since-iphone-4/>
 
@@ -1659,7 +1752,7 @@ date: 2024-10-08, from: John Naughton's online diary
 
 Coffee morning In one of my favourite cafés. Quote of the Day ”Before you react, think. Before you spend, earn. Before you criticize, wait. Before you quit, try.” Ernest Hemingway Musical alternative to the morning’s radio news J.S. Bach &#124; &#8230; <a href="https://memex.naughtons.org/wednesday-9-october2024/39945/">Continue reading <span class="meta-nav">&#8594;</span></a> 
 
- 
+<br> 
 
 <https://memex.naughtons.org/wednesday-9-october2024/39945/>
 
@@ -1669,7 +1762,7 @@ Coffee morning In one of my favourite cafés. Quote of the Day ”Before you rea
 
 <p>I keep closing bugs, and more keep creeping up, so looks like I am not making much progress, but I am!</p><p>- closed since last update: 18</p><p>Still left to do:<br />- Limited Preview: 16 bugs<br />- Public TestFlight: 50<br />- Public launch/appstore: 29</p><p>Some was pretty major, like getting drag and drop to work to reorder nodes.</p><p>23 new bugs, some not triaged.</p> 
 
- 
+<br> 
 
 <https://mastodon.social/@Migueldeicaza/113274451247643320>
 
@@ -1681,7 +1774,7 @@ date: 2024-10-08, updated: 2024-10-08, from: Daring Fireball
 
  
 
- 
+<br> 
 
 <https://www.macrumors.com/2024/10/07/apple-screen-recording-popup-update/>
 
@@ -1693,7 +1786,7 @@ date: 2024-10-08, from: Tracy Durnell Blog
 
 Writing with hypertext gives us additional options beyond just text for conveying a point, be it links, embedded pullquotes, audio notes, photos, animations, drawings, maps, or screenshots. 
 
- 
+<br> 
 
 <https://tracydurnell.com/2024/10/08/hypertext-writing-includes-modalities-beyond-text/>
 
@@ -1705,7 +1798,7 @@ date: 2024-10-08, from: Stephen Wolfram blog
 
 <span class="thumbnail"><img width="128" height="108" src="https://content.wolfram.com/sites/43/2024/10/swblog-time-icon-v2.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></span>The Computational View of Time Time is a central feature of human experience. But what actually is it? In traditional scientific accounts it’s often represented as some kind of coordinate much like space (though a coordinate that for some reason is always systematically increasing for us). But while this may be a useful mathematical description, [&#8230;] 
 
- 
+<br> 
 
 <https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/>
 
@@ -1717,7 +1810,7 @@ date: 2024-10-08, updated: 2024-10-08, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/the-move>
 
@@ -1729,7 +1822,7 @@ date: 2024-10-08, updated: 2024-10-08, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/0045408-a-look-at-mozillas-rebran>
 
@@ -1739,7 +1832,7 @@ date: 2024-10-08, updated: 2024-10-08, from: Jason Kittke's blog
 
 <a href="https://shownotes.scripting.com/scripting/2024/10/08/editorWordpressMastodon.html">Podcast</a>: I was able to write a post that appeared on Mastodon using ActivityPub. Via the WordPress API. Congrats to the ActivtyPub community, Automattic and Mastodon. "It just worked." 
 
- 
+<br> 
 
 <http://scripting.com/2024/10/08.html#a200539>
 
@@ -1749,7 +1842,7 @@ date: 2024-10-08, updated: 2024-10-08, from: Jason Kittke's blog
 
 <p>Year 2040, Seattle:</p> 
 
- 
+<br> 
 
 <https://mastodon.social/@Migueldeicaza/113273587496049980>
 
@@ -1761,7 +1854,7 @@ date: 2024-10-08, updated: 2024-10-08, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/finalists-for-the-2024-comedy-wildlife-photography-awards>
 
@@ -1773,7 +1866,7 @@ date: 2024-10-08, updated: 2024-10-08, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/0045403-from-kenji-lopez-alt-a-li>
 
@@ -1783,7 +1876,7 @@ date: 2024-10-08, updated: 2024-10-08, from: Jason Kittke's blog
 
 BTW, it also supports HTML pretty well, but the title does not appear on the Mastodon version. That's going to be a problem. Actually the title is visible at the bottom. Let's call that an anachronism. Of course the title should/must be at the top. 
 
- 
+<br> 
 
 <http://scripting.com/2024/10/08.html#a175612>
 
@@ -1793,7 +1886,7 @@ BTW, it also supports HTML pretty well, but the title does not appear on the Mas
 
 <img class="imgRightMargin" src="https://imgs.scripting.com/2020/04/09/santaCoke.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Okay this is blowing my mind. My friends at Automattic showed me how to turn on ActivityPub on a WordPress site. I wrote a <a href="https://daveverse.wordpress.com/2024/10/08/writers-come-first-in-wordland/">test post</a> in my simple WordPress editor, forgetting that it would be cross-posted to Mastodon. When I just checked in on Masto, <a href="https://mastodon.social/@daveverse.wordpress.com@daveverse.wordpress.com/113272969462140490">there was the freaking post</a>. After I recovered from passing out, I wondered what happens if I update the post in my editor, and save it to the <a href="https://daveverse.wordpress.com/2024/10/08/writers-come-first-in-wordland/">WordPress site</a> that's hooked up to Masto via ActivityPub. So I made a change and saved it. I waited and waited, nothing happened. I got ready to add a comment saying ahh I guess it doesn't update, when -- it updated. Oh geez look at that. Folks, I did nothing here but write an app that can be used to edit WordPress posts. And I got in return an app that is part of the freaking Fediverse. And I never had to write a line of ActivityPub code. Think about that. I don't know if Automattic understands what they have, honestly. 
 
- 
+<br> 
 
 <http://scripting.com/2024/10/08.html#a174842>
 
@@ -1805,7 +1898,7 @@ date: 2024-10-08, updated: 2024-10-08, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/0045405-aint-nothing-like-the-rea>
 
@@ -1826,7 +1919,7 @@ date: 2024-10-08, from: Jeff Geerling blog
 <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-10-08T12:17:58-05:00" title="Tuesday, October 8, 2024 - 12:17" class="datetime">October 8, 2024</time>
 </span> 
 
- 
+<br> 
 
 <https://www.jeffgeerling.com/blog/2024/use-external-gpu-on-raspberry-pi-5-4k-gaming>
 
@@ -1848,7 +1941,7 @@ date: 2024-10-08, from: Dave Winer's Scripting News
 <p>This is how I applied the lesson. When I saw the potential in another developer and a way for their project to help me achieve my goal, I go for it. I know those things are very rare, and not to worry if it doesn't arrive in exactly the way I expected it to. </p>
  
 
- 
+<br> 
 
 <http://scripting.com/2024/10/08/155702.html?title=guyKawasakiProtoevangelist>
 
@@ -1860,7 +1953,7 @@ date: 2024-10-08, updated: 2024-10-08, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/infinite-cosmos-visions-from-the-jw-space-telescope>
 
@@ -1870,7 +1963,7 @@ date: 2024-10-08, updated: 2024-10-08, from: Jason Kittke's blog
 
 <a href="https://om.co/2024/10/08/dave-happy-30th-blog-birthday/">Om Malik</a>, a long-time friend, <a href="http://scripting.com/stories/2009/11/24/naturalbornBlogger.html">NBB</a> and supporter: "The best version of Dave is the Hopeful Dave." I agree. That's certainly when I'm happiest. Because it means someone is working with someone else. Imho, that's the only source of hope in our world. 
 
- 
+<br> 
 
 <http://scripting.com/2024/10/08.html#a154014>
 
@@ -1882,7 +1975,7 @@ date: 2024-10-08, updated: 2024-10-08, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/0045401-report-nbc-is-shelving-se>
 
@@ -1894,7 +1987,7 @@ date: 2024-10-08, from: Om Malik blog
 
 It would be an understatement to say that Dave Winer has been influential in my life. His pioneering work set me on the path of blogging. I wouldn’t be where I am without blogging, as my ideal medium of expression. Sure, I was a professional journalist, but my blog was me, my voice, and my &#8230; 
 
- 
+<br> 
 
 <https://om.co/2024/10/08/dave-happy-30th-blog-birthday/>
 
@@ -1906,7 +1999,7 @@ date: 2024-10-08, updated: 2024-10-08, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/0045399-nobel-physics-prize-award>
 
@@ -1918,7 +2011,7 @@ date: 2024-10-08, updated: 2024-10-08, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/0045398-an-exhibition-of-dozens-o>
 
@@ -1951,7 +2044,7 @@ And act accordingly.</p>
 
 <p><a class="tag" href="/search/?q=%23Climate">#Climate</a></p> 
 
- 
+<br> 
 
 <https://alexschroeder.ch/view/2024-10-08-climate>
 
@@ -1961,7 +2054,7 @@ And act accordingly.</p>
 
 <img class="imgRightMargin" src="https://imgs.scripting.com/2022/09/21/mets.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I'm really proud of <a href="https://daringfireball.net/linked/2024/10/07/scripting-news-30-years">what John Gruber said</a> about me as a blogger in his Daring Fireball <a href="https://daringfireball.net/linked/2024/10/07/scripting-news-30-years">yesterday</a>: "Winer is rightfully renowned for his technical achievements — outliners as an application genre, RSS in general, and RSS in the specific context of podcasting in particular — but what’s kept me reading Scripting News for the entirety of Scripting News’s 30-years-and-counting run is his writing. He has such a distinctive writing voice that is impossible to imagine in any medium other than the web. But I think that’s because he helped define what writing not just on the web, but for the web, even meant." 
 
- 
+<br> 
 
 <http://scripting.com/2024/10/08.html#a124723>
 
@@ -1974,7 +2067,7 @@ date: 2024-10-08, updated: 2024-10-08, from: Liam Proven's articles at the Regis
 <h4><span class="label">EuroBSDcon 2024</span> Stability? Predictability? Reliability? Where&#39;s the fun in that?</h4>
       <p>One of Stefano Marinelli&#39;s NetBSD boxes sat quietly serving for a decade, because everyone forgot about it. This is how Unix is meant to be.</p> 
 
- 
+<br> 
 
 <https://go.theregister.com/i/cfa/https://www.theregister.com/2024/10/08/switching_from_linux_to_bsd/>
 
@@ -1984,7 +2077,7 @@ date: 2024-10-08, updated: 2024-10-08, from: Liam Proven's articles at the Regis
 
 I've mentioned the <a href="https://github.com/scripting/wpIdentity/">wpIdentity package</a> a few times recently, and thought I should explain its <a href="https://github.com/scripting/wpIdentity/blob/main/docs/history.md">purpose and history</a>. 
 
- 
+<br> 
 
 <http://scripting.com/2024/10/08.html#a120618>
 
@@ -1998,8 +2091,8 @@ date: 2024-10-08, from: Heather Cox Richardson blog
 
 <audio controls="controls">
 <source type="audio/mpeg" src="https://api.substack.com/feed/podcast/149959895/b01b7a91dc2e02f1e2e5cc0bc13efec1.mp3"></source>
-	<p>Your browser doesn't support this type of audio file</p>
-</audio> 
+	<a href="https://api.substack.com/feed/podcast/149959895/b01b7a91dc2e02f1e2e5cc0bc13efec1.mp3" target="_blank">audio/mpeg</a>
+</audio><br> 
 
 <https://heathercoxrichardson.substack.com/p/october-7-2024-3ea>
 
@@ -2012,7 +2105,7 @@ date: 2024-10-08, updated: 2024-10-07, from: Bruce Schneier blog
 <p>The <i>Wall Street Journal</i> is <a href="https://www.wsj.com/tech/cybersecurity/u-s-wiretap-systems-targeted-in-china-linked-hack-327fc63b">reporting</a> that Chinese hackers (Salt Typhoon) penetrated the networks of US broadband providers, and might have accessed the backdoors that the federal government uses to execute court-authorized wiretap requests. Those backdoors have been mandated by law&#8212;CALEA&#8212;since 1994.</p>
 <p>It&#8217;s a weird story. The first line of the article is: &#8220;A cyberattack tied to the Chinese government penetrated the networks of a swath of U.S. broadband providers.&#8221; This implies that the attack wasn&#8217;t against the broadband providers directly, but against one of the intermediary companies that sit between the government CALEA requests and the broadband providers...</p> 
 
- 
+<br> 
 
 <https://www.schneier.com/blog/archives/2024/10/china-possibly-hacking-us-lawful-access-backdoor.html>
 
@@ -2024,7 +2117,7 @@ date: 2024-10-08, from: Robert Reich's blog
 
 A personal story 
 
- 
+<br> 
 
 <https://robertreich.substack.com/p/when-corporations-maim-and-kill-their>
 
@@ -2036,7 +2129,7 @@ date: 2024-10-08, from: Tracy Durnell Blog
 
 I&#8217;ve also been spending a lot of time gardening and nesting. I&#8217;ve noticed myself having trouble focusing on longform reading and doing things that involve making decisions&#8230; I forget sometimes how much stress and anxiety become embodied. There are real reasons I can&#8217;t concentrate, and it&#8217;s a good time to be gentle with myself. Now [&#8230;] 
 
- 
+<br> 
 
 <https://tracydurnell.com/2024/10/07/granting-ourselves-grace/>
 
@@ -2048,7 +2141,7 @@ date: 2024-10-08, from: Heather Cox Richardson blog
 
 People in Florida are evacuating before Hurricane Milton is expected to hit the state&#8217;s Gulf Coast on Wednesday evening, bringing tornadoes, high winds, a dramatic storm surge, and upwards of 15 inches of rain. 
 
- 
+<br> 
 
 <https://heathercoxrichardson.substack.com/p/october-7-2024>
 
@@ -2060,7 +2153,7 @@ date: 2024-10-08, updated: 2024-10-08, from: Daring Fireball
 
  
 
- 
+<br> 
 
 <https://daringfireball.net/thetalkshow/2024/10/07/ep-411>
 
@@ -2070,7 +2163,7 @@ date: 2024-10-08, updated: 2024-10-08, from: Daring Fireball
 
 <p>When you are a terrorist, but you also have a good skin care routine.</p><p>Rafael Eitan and Ariel Sharon:</p><p><a href="https://mondoweiss.net/2018/05/remarkable-disappearing-terrorism/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">mondoweiss.net/2018/05/remarka</span><span class="invisible">ble-disappearing-terrorism/</span></a></p> 
 
- 
+<br> 
 
 <https://mastodon.social/@Migueldeicaza/113269032630476384>
 
@@ -2082,7 +2175,7 @@ date: 2024-10-08, updated: 2024-10-08, from: Daring Fireball
 
  
 
- 
+<br> 
 
 <https://www.theverge.com/policy/2024/10/7/24243316/epic-google-permanent-injunction-ruling-third-party-stores>
 
@@ -2094,7 +2187,7 @@ date: 2024-10-08, from: Dan Rather's Steady
 
 &#8216;Blowhard&#8217; is not just a wind speed 
 
- 
+<br> 
 
 <https://steady.substack.com/p/a-hurricane-of-lies>
 
@@ -2106,7 +2199,7 @@ date: 2024-10-07, updated: 2024-10-08, from: Daring Fireball
 
  
 
- 
+<br> 
 
 <https://1password.com/daringfireball>
 
@@ -2118,7 +2211,7 @@ date: 2024-10-07, updated: 2024-10-07, from: Daring Fireball
 
  
 
- 
+<br> 
 
 <https://www.wsj.com/tech/cybersecurity/u-s-wiretap-systems-targeted-in-china-linked-hack-327fc63b>
 
@@ -2129,7 +2222,7 @@ date: 2024-10-07, updated: 2024-10-07, from: Daring Fireball
 <p>Trying to sleep at 36 weeks pregnant fuckin&rsquo; sucks, man. My Fitbit tells me I got four hours&rsquo; sleep last night, in two separate blocks, and that&rsquo;s been the story of three of the last five days. People keep telling me it&rsquo;ll get worse when Baby is here and I just do NOT believe it. Even if I&rsquo;m still only getting four discontinuous hours, at least it&rsquo;ll be deep sleep 😂</p>
 <p>I mean, I guess a large part of my frustration is that it&rsquo;s not like sleeping four hours a night means I have 20 hours a day for productivity (general chores, tidying the flat ahead of Baby&rsquo;s arrival, etc.) + leisure + whatever else… I&rsquo;m spending AT LEAST another four hours a night tossing and turning in pain, unable to sleep. It&rsquo;s this &ldquo;tossing and turning&rdquo; time that I assume will not exist when we have a newborn!</p> 
 
- 
+<br> 
 
 <https://www.jayeless.net/2024/10/late-pregnancy-sleep-fuckin-sucks.html>
 
@@ -2141,7 +2234,7 @@ date: 2024-10-07, updated: 2024-10-07, from: Daring Fireball
 
  
 
- 
+<br> 
 
 <https://www.theguardian.com/commentisfree/2024/oct/05/the-blogosphere-is-in-full-bloom-the-rest-of-the-internet-has-wilted-dave-winer>
 
@@ -2153,7 +2246,7 @@ date: 2024-10-07, updated: 2024-10-07, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/chefs-table-noodles>
 
@@ -2165,7 +2258,7 @@ date: 2024-10-07, updated: 2024-10-07, from: Daring Fireball
 
  
 
- 
+<br> 
 
 <http://scripting.com/2024/10/07.html>
 
@@ -2177,7 +2270,7 @@ date: 2024-10-07, updated: 2024-10-07, from: Daring Fireball
 
  
 
- 
+<br> 
 
 <https://aaron.vegh.ca/2024/10/say-hello-to-croissant>
 
@@ -2189,7 +2282,7 @@ date: 2024-10-07, updated: 2024-10-07, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/0045397-tressie-mcmillan-cottom-r>
 
@@ -2201,7 +2294,7 @@ date: 2024-10-07, updated: 2024-10-07, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/0045394-an-ai-model-helped-uncove>
 
@@ -2213,7 +2306,7 @@ date: 2024-10-07, updated: 2024-10-07, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/every-frame-a-painting-what-would-billy-wilder-do>
 
@@ -2225,7 +2318,7 @@ date: 2024-10-07, from: Heather Cox Richardson blog
 
 During the Trump administration, after an extensive investigation, the Republican-dominated Senate Intelligence Committee concluded that &#8220;the Russian government engaged in an aggressive, multifaceted effort to influence, or attempt to influence, the outcome of the 2016 presidential election&#8230;by harming Hillary Clinton&#8217;s chances of success and supporting &#8230; 
 
- 
+<br> 
 
 <https://heathercoxrichardson.substack.com/p/history-extra-for-october-6-2024>
 
@@ -2237,7 +2330,7 @@ date: 2024-10-07, updated: 2024-10-07, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/0045393-spain-barcelona-legend-an>
 
@@ -2249,7 +2342,7 @@ date: 2024-10-07, updated: 2024-10-07, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/0045392-private-snafu-the-world-w>
 
@@ -2261,7 +2354,7 @@ date: 2024-10-07, updated: 2024-10-07, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/new-film-by-errol-morris-separated>
 
@@ -2271,7 +2364,7 @@ date: 2024-10-07, updated: 2024-10-07, from: Jason Kittke's blog
 
 <img class="imgRightMargin" src="https://imgs.scripting.com/2023/10/25/mookieWilson.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I did a <a href="http://scripting.com/2019/08/06/155950.html">roundup of thoughts</a> when this blog turned 25. I stand by what I wrote then, but I'd add this. My blog started because I needed content to test a script I had written that sent emails on my Mac using <a href="http://scripting.com/frontier/apps/Eudora.html">Eudora</a>, which was an early <a href="http://scripting.com/frontier/apps/Eudora.html">scriptable app</a> and I had a nice scripting system that worked with it. I looked around for <a href="http://scripting.com/davenet/1994/10/07/marccantersingsagain.html">something</a> to send (30 years ago today), and shot out an email to the people whose business cards I had collected at various tech conferences. It was a thrill, so I did it <a href="http://scripting.com/davenet/1994/10/12/marcs10things.html">again</a>, and <a href="http://scripting.com/davenet/1994/10/13/lettertocannavino.html">again</a> and <a href="http://scripting.com/davenet/1994/10/14/howtoinvestinpdas.html">three</a> <a href="http://scripting.com/davenet/1994/10/16/randybattatonpdas.html">more</a> <a href="http://scripting.com/davenet/1994/10/17/pdasonparade.html">times</a>, before I realized hey I could use this thing to get <a href="http://scripting.com/davenet/1994/10/18/billgatesvstheinternet.html">my own ideas</a> out <a href="http://scripting.com/davenet/">there</a>. And thus began <a href="http://scripting.com/">this thing</a> that I still do to this day. Look at the <a href="http://scripting.com/2024/10/05/142118.html">two</a> <a href="http://scripting.com/2024/10/06/142657.html">posts</a> I wrote about WordPress in the last few days. There may be hope to find a blogosphere buried somewhere in there. And it may be possible to give them some sweet new writing tools so they can get excited about writing on the web the way we did all those years ago. I actually am kind of optimistic about that. Maybe we can stand up something in the midst of the noise. When we booted up podcasting, approx 20 years ago, we had a slogan -- "Users and developers party together." It worked! That is still the way I want to build stuff, it's the only way I know how to do it. Blogging started out as a programming adventure and eventually became a form of literature. How about that. I'm up for doing more of that if you all are. But please expect to make contributions, don't expect it all to come to you for free, because as we know nothing really is free. 
 
- 
+<br> 
 
 <http://scripting.com/2024/10/07.html#a170303>
 
@@ -2283,7 +2376,7 @@ date: 2024-10-07, updated: 2024-10-07, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/0045389-lots-of-good-links-and>
 
@@ -2297,8 +2390,8 @@ date: 2024-10-07, from: Heather Cox Richardson blog
 
 <audio controls="controls">
 <source type="audio/mpeg" src="https://api.substack.com/feed/podcast/149923717/6ab0490a5083786578895b37789cc960.mp3"></source>
-	<p>Your browser doesn't support this type of audio file</p>
-</audio> 
+	<a href="https://api.substack.com/feed/podcast/149923717/6ab0490a5083786578895b37789cc960.mp3" target="_blank">audio/mpeg</a>
+</audio><br> 
 
 <https://heathercoxrichardson.substack.com/p/october-6-2024-be6>
 
@@ -2384,7 +2477,7 @@ Going further, if one believes that no particular people are doing things of con
 In other words, it is a means for the system's insiders to evade responsibility for their actions.<br />
 <br /> 
 
- 
+<br> 
 
 <https://blog.dshr.org/2024/10/it-was-ten-years-ago-today.html>
 
@@ -2396,7 +2489,7 @@ date: 2024-10-07, updated: 2024-10-07, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/the-british-pathe-archive-1>
 
@@ -2408,7 +2501,7 @@ date: 2024-10-07, updated: 2024-10-07, from: Jason Kittke's blog
 
  
 
- 
+<br> 
 
 <https://kottke.org/24/10/0045388-we-only-learnt-of-our>
 
@@ -2429,8 +2522,8 @@ date: 2024-10-07, from: Dave Winer's Scripting News
 
 <audio controls="controls">
 <source type="audio/mpeg" src="https://s3.amazonaws.com/scripting.com/publicfolder/downloads/podcasts/2024/10/07/pseudoCodeAndKitchenTableConversations.m4a"></source>
-	<p>Your browser doesn't support this type of audio file</p>
-</audio> 
+	<a href="https://s3.amazonaws.com/scripting.com/publicfolder/downloads/podcasts/2024/10/07/pseudoCodeAndKitchenTableConversations.m4a" target="_blank">audio/mpeg</a>
+</audio><br> 
 
 <http://scripting.com/2024/10/07/135828.html?title=pseudoCodeAndKitchentableConversations>
 
@@ -2440,7 +2533,7 @@ date: 2024-10-07, from: Dave Winer's Scripting News
 
 Interestingly, the <a href="https://imgs.scripting.com/2024/10/07/mailClock.png">clock</a> at the bottom of the nightly emails does not agree with the clock on the home page of Scripting News. It's a hard thing to test in real life. And it's completely fitting, given the motto of the blog is: <i>it's even worse than it appears,</i> which could be the motto of all programmers everywhere, and probably bloggers too. We always focus on the bad news, of course -- that's human nature -- but always remember, it could actually be worse. 
 
- 
+<br> 
 
 <http://scripting.com/2024/10/07.html#a121916>
 
@@ -2450,7 +2543,7 @@ Interestingly, the <a href="https://imgs.scripting.com/2024/10/07/mailClock.png"
 
 Today's the big day. Thanks to John Naughton's wonderful <a href="https://www.theguardian.com/commentisfree/2024/oct/05/the-blogosphere-is-in-full-bloom-the-rest-of-the-internet-has-wilted-dave-winer">piece</a> in the Guardian, I'm hearing from people all over the world about what blogging means to them. I appreciate all of the messages, but would appreciate them <i>even more</i> if they were on your blog. We need to keep using the tech. Blogging is kind of lost, and I would like to see that change. Every time you post something you're proud of on a social media site, how about taking a moment and posting it to your blog too. And while there, if appropriate, link to something from some part of your post, even though the social media sites don't support linking, the web is still there and it still does. 
 
- 
+<br> 
 
 <http://scripting.com/2024/10/07.html#a121544>
 
@@ -2460,7 +2553,7 @@ Today's the big day. Thanks to John Naughton's wonderful <a href="https://www.th
 
 Today is the 30th anniversary of this blog. <i>Hola!</i> 
 
- 
+<br> 
 
 <http://scripting.com/2024/10/07.html#a121515>
 
@@ -2474,7 +2567,7 @@ date: 2024-10-07, updated: 2024-10-07, from: Bruce Schneier blog
 <p>News <a href="https://www.bleepingcomputer.com/news/security/cloudflare-blocks-largest-recorded-ddos-attack-peaking-at-38tbps/">article</a>.</p>
  
 
- 
+<br> 
 
 <https://www.schneier.com/blog/archives/2024/10/largest-recorded-ddos-attack-is-3-8-tbps.html>
 
@@ -2487,7 +2580,7 @@ date: 2024-10-07, updated: 2024-10-07, from: Liam Proven's articles at the Regis
 <h4>A couple of FOSS goodies that should be ready for the festive season</h4>
       <p>The next version of Xfce, the oldest FOSS Unix desktop environment around, is nearly ready – and should have preliminary, &#34;minimally usable&#34; Wayland support.</p> 
 
- 
+<br> 
 
 <https://go.theregister.com/i/cfa/https://www.theregister.com/2024/10/07/xfce_420_and_mint_221/>
 
@@ -2499,7 +2592,7 @@ date: 2024-10-07, updated: 2024-10-07, from: Julia Evans blog
 
  
 
- 
+<br> 
 
 <https://jvns.ca/blog/2024/10/07/some-notes-on-upgrading-hugo/>
 
@@ -2511,7 +2604,7 @@ date: 2024-10-07, from: Robert Reich's blog
 
 Friends, 
 
- 
+<br> 
 
 <https://robertreich.substack.com/p/how-the-gop-became-the-party-of-cranks>
 
@@ -2523,7 +2616,7 @@ date: 2024-10-07, from: Heather Cox Richardson blog
 
 This morning began with a CNN headline story by fact checker Daniel Dale, titled &#8220;Six days of Trump lies about the Hurricane Helene response.&#8221; Dale noted that Republican nominee for president Donald Trump has been one of the chief sources of the disinformation that has badly hampered recovery efforts. 
 
- 
+<br> 
 
 <https://heathercoxrichardson.substack.com/p/october-6-2024>
 
@@ -2537,8 +2630,8 @@ date: 2024-10-07, from: Heather Cox Richardson blog
 
 <audio controls="controls">
 <source type="audio/mpeg" src="https://api.substack.com/feed/podcast/149898351/7a1c9c3c0f8f01a9debbeefe5c9b1a3b.mp3"></source>
-	<p>Your browser doesn't support this type of audio file</p>
-</audio> 
+	<a href="https://api.substack.com/feed/podcast/149898351/7a1c9c3c0f8f01a9debbeefe5c9b1a3b.mp3" target="_blank">audio/mpeg</a>
+</audio><br> 
 
 <https://heathercoxrichardson.substack.com/p/october-5-2024-bb5>
 
@@ -2550,7 +2643,7 @@ date: 2024-10-06, from: John Naughton's online diary
 
 Roll out the barrel Rooting around in my vast photo archive what should I find but this? Taken on Boxing Day (December 26) 2008 when a large number of ostensibly sane male residents of Grantchester, a nice village near Cambridge, &#8230; <a href="https://memex.naughtons.org/monday-7-october-2024/39938/">Continue reading <span class="meta-nav">&#8594;</span></a> 
 
- 
+<br> 
 
 <https://memex.naughtons.org/monday-7-october-2024/39938/>
 
@@ -2560,7 +2653,7 @@ Roll out the barrel Rooting around in my vast photo archive what should I find b
 
 <span class="spHowLongUntilThirty">1 day, 3 hours, 4 minutes, 49 seconds</span> until this blog is 30. 
 
- 
+<br> 
 
 <http://scripting.com/2024/10/06.html#a154635>
 
@@ -2578,7 +2671,7 @@ date: 2024-10-06, from: Dave Winer's Scripting News
 <p>The Phillies and their fans who had been so confident of victory were shocked. And left to plan for today's game at 4PM on Fox. You gotta know where I'll be -- glued to the set and dreaming about the fate of this Mets team who shows real signs of strong <a href="https://www.google.com/search?q=mets+philosophy+site%3Ascripting.com">philosophy</a>. </p>
  
 
- 
+<br> 
 
 <http://scripting.com/2024/10/06/151115.html?title=howAboutThoseMetsDay2>
 
@@ -2603,7 +2696,7 @@ date: 2024-10-06, from: Dave Winer's Scripting News
 <p>PS: If you're a developer, this is the <a href="https://github.com/scripting/wpIdentity/blob/main/client/api2.js">API</a> you use in browser-JS code for the wpidentity package. This was the way Facebook packaged their API for developers, and it was far more efficient than the way Twitter did and WordPress too. So I added this to the stack, and built on it. </p>
  
 
- 
+<br> 
 
 <http://scripting.com/2024/10/06/142657.html?title=wordpressDestinyDay2>
 
@@ -2615,7 +2708,7 @@ date: 2024-10-06, from: Dan Rather's Steady
 
 A Reason To Smile 
 
- 
+<br> 
 
 <https://steady.substack.com/p/forever-country>
 
@@ -2627,7 +2720,7 @@ date: 2024-10-06, from: Robert Reich's blog
 
 And last week&#8217;s winner 
 
- 
+<br> 
 
 <https://robertreich.substack.com/p/sunday-caption-contest-activism>
 
@@ -2639,7 +2732,7 @@ date: 2024-10-06, from: Heather Cox Richardson blog
 
 William McKinley is having a moment (which I confess is a sentence I never expected to write). 
 
- 
+<br> 
 
 <https://heathercoxrichardson.substack.com/p/october-5-2024>
 
@@ -2649,7 +2742,7 @@ William McKinley is having a moment (which I confess is a sentence I never expec
 
 <p>Can I just ask, what is the point of a service being called &ldquo;Hospital in the Home&rdquo; if you still have to go to the hospital for the appointment? Maybe call it something different, like idk, &ldquo;outpatient services&rdquo;, at that point?</p> 
 
- 
+<br> 
 
 <https://www.jayeless.net/2024/10/hospital-in-the-home.html>
 

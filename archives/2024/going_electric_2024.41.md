@@ -1,11 +1,71 @@
 ---
 title: going electric
-updated: 2024-10-11 07:08:34
+updated: 2024-10-11 08:58:14
 ---
 
 # going electric
 
-(date: 2024-10-11 07:08:34)
+(date: 2024-10-11 08:58:14)
+
+---
+
+## BYD teases its new full-size luxury electric SUV [Images]
+
+date: 2024-10-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/BYD-full-size-electric-SUV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BYD is preparing to launch its new full-size luxury electric SUV later this year. Ahead of its official debut, <a href="https://electrek.co/guides/byd/">BYD</a> released two new images of the Denza N9 without any camouflage for the first time.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,denza" data-layer-viewtype="unknown" data-post-id="383841" href="https://electrek.co/2024/10/11/byd-teases-new-full-size-luxury-electric-suv-images/#more-383841" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/11/byd-teases-new-full-size-luxury-electric-suv-images/>
+
+---
+
+## Tesla Robotaxi vs. Waymo vs. Cruise: Here's How They Stack Up
+
+date: 2024-10-11, from: Inside EVs News
+
+With hundreds of millions of dollars invested in developing vision-based autonomy, how does Tesla compare to Waymo and Cruise? 
+
+<br> 
+
+<https://insideevs.com/news/736709/tesla-robotaxi-waymo-cruise/>
+
+---
+
+## Polestar (PSNY) is done with show and tell, needs to start ‘actively selling cars’
+
+date: 2024-10-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Polestar-first-electric-SUV-US-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Although <a href="https://electrek.co/guides/polestar/">Polestar</a> (PSNY) delivered fewer vehicles in the third quarter than last year, the EV maker expects to achieve a positive gross profit margin in Q4 2024. To hit its target, Polestar’s new CEO said the EV maker needs to go from showing to “actively selling cars.”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="polestar" data-layer-viewtype="unknown" data-post-id="383814" href="https://electrek.co/2024/10/11/polestar-over-show-and-tell-needs-to-start-actively-selling-cars/#more-383814" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/11/polestar-over-show-and-tell-needs-to-start-actively-selling-cars/>
+
+---
+
+## Enel X Way North America gives its customers an 11th-hour lifeline
+
+date: 2024-10-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/enel-x-way-juicebox.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Enel X Way North America’s EV chargers will continue to operate with software connectivity beyond today – here’s what we know.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dc-fast-charging,enel,ev-chargers,ev-charging,juicebox" data-layer-viewtype="unknown" data-post-id="383816" href="https://electrek.co/2024/10/11/enel-x-way-north-america-gives-its-customers-an-11th-hour-lifeline/#more-383816" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/11/enel-x-way-north-america-gives-its-customers-an-11th-hour-lifeline/>
 
 ---
 
@@ -19,7 +79,7 @@ date: 2024-10-11, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="383797" href="https://electrek.co/2024/10/11/byd-takes-over-chinas-largest-auto-group-low-cost-evs/#more-383797" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/11/byd-takes-over-chinas-largest-auto-group-low-cost-evs/>
 
@@ -35,7 +95,7 @@ date: 2024-10-11, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="stellantis" data-layer-viewtype="unknown" data-post-id="383795" href="https://electrek.co/2024/10/11/stellantis-ceo-carlos-tavares-to-retire-his-successor-to-be-named-at-a-later-date/#more-383795" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/11/stellantis-ceo-carlos-tavares-to-retire-his-successor-to-be-named-at-a-later-date/>
 
@@ -51,7 +111,7 @@ date: 2024-10-11, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="bankruptcy,ebikes" data-layer-viewtype="unknown" data-post-id="383786" href="https://electrek.co/2024/10/11/e-bike-maker-juiced-bikes-appears-to-collapse-amid-silence-from-owners/#more-383786" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/11/e-bike-maker-juiced-bikes-appears-to-collapse-amid-silence-from-owners/>
 
@@ -63,7 +123,7 @@ date: 2024-10-11, from: Inside EVs News
 
 “The Robotaxi has no plug,” Elon Musk said during last night’s reveal. Is Tesla about to go big on inductive charging? 
 
- 
+<br> 
 
 <https://insideevs.com/news/736961/tesla-robotaxi-charge-port/>
 
@@ -75,7 +135,7 @@ date: 2024-10-11, from: Electrek Feed
 
  
 
- 
+<br> 
 
 <https://electrek.co/poll-post/what-are-you-most-excited-about-from-robotaxi-event/>
 
@@ -91,7 +151,7 @@ date: 2024-10-11, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-robovan" data-layer-viewtype="unknown" data-post-id="383713" href="https://electrek.co/2024/10/10/tesla-unveils-robovan-a-20-seat-autonomous-passenger-cargo-van/#more-383713" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/10/tesla-unveils-robovan-a-20-seat-autonomous-passenger-cargo-van/>
 
@@ -107,7 +167,7 @@ date: 2024-10-11, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybercab" data-layer-viewtype="unknown" data-post-id="383706" href="https://electrek.co/2024/10/10/tesla-unveils-cybercab-electric-robotaxi/#more-383706" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/10/tesla-unveils-cybercab-electric-robotaxi/>
 
@@ -119,7 +179,7 @@ date: 2024-10-11, from: Inside EVs News
 
 Tesla shocked the crowd at its robotaxi event when it revealed the concept for an electric, autonomous bus.  
 
- 
+<br> 
 
 <https://insideevs.com/news/736937/tesla-robovan-bus-revealed/>
 
@@ -131,7 +191,7 @@ date: 2024-10-11, from: Inside EVs News
 
 Tesla CEO Elon Musk said the Robotaxi will be available for purchase before 2027. 
 
- 
+<br> 
 
 <https://insideevs.com/news/736936/tesla-robotaxi-cybercab-price/>
 
@@ -143,7 +203,7 @@ date: 2024-10-11, from: Inside EVs News
 
 Tesla unveiled the Cybercab at a splashy event in Los Angeles, but can it deliver on so many promises? 
 
- 
+<br> 
 
 <https://insideevs.com/news/736879/tesla-robotaxi-cybercab-reveal/>
 
@@ -159,7 +219,7 @@ date: 2024-10-11, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="electric-school-buses,quick-charge,voltera" data-layer-viewtype="unknown" data-post-id="383702" href="https://electrek.co/2024/10/10/electric-school-bus-charging-for-everyone-and-someone-who-wants-to-pay-for-it/#more-383702" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/10/electric-school-bus-charging-for-everyone-and-someone-who-wants-to-pay-for-it/>
 
@@ -179,7 +239,7 @@ date: 2024-10-10, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="383694" href="https://electrek.co/2024/10/10/tesla-robotaxi-launch-news-hub-and-watch-party/#more-383694" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/10/tesla-robotaxi-launch-news-hub-and-watch-party/>
 
@@ -195,7 +255,7 @@ date: 2024-10-10, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="rivian,rivian-r1t" data-layer-viewtype="unknown" data-post-id="383677" href="https://electrek.co/2024/10/10/rivian-r1t-solar-powered-tonneau-cover/#more-383677" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/10/rivian-r1t-solar-powered-tonneau-cover/>
 
@@ -207,7 +267,7 @@ date: 2024-10-10, from: Inside EVs News
 
 There's a reason for that, the CEO of Mercedes-Benz R&D said in an interview. But is being more cautious than Tesla risking the future? 
 
- 
+<br> 
 
 <https://insideevs.com/news/736759/mercedes-drive-pilot-l3-interview/>
 
@@ -223,7 +283,7 @@ date: 2024-10-10, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="383659" href="https://electrek.co/2024/10/10/tesla-giga-berlin-worker-council-gets-a-win-temp-workers-permanent/#more-383659" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/10/tesla-giga-berlin-worker-council-gets-a-win-temp-workers-permanent/>
 
@@ -239,7 +299,7 @@ date: 2024-10-10, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,offshore-wind-power,scotland" data-layer-viewtype="unknown" data-post-id="383670" href="https://electrek.co/2024/10/10/hywind-scotland-worlds-first-floating-wind-farm-is-back-online-after-being-towed-to-norway/#more-383670" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/10/hywind-scotland-worlds-first-floating-wind-farm-is-back-online-after-being-towed-to-norway/>
 
@@ -251,7 +311,7 @@ date: 2024-10-10, from: Inside EVs News
 
 Ionna and others are pioneering next-generation charging hubs, with more amenities and plugs. And—imagine this—covered parking.  
 
- 
+<br> 
 
 <https://insideevs.com/news/736910/ionna-charging-station-design/>
 
@@ -267,7 +327,7 @@ date: 2024-10-10, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="mercedes-benz" data-layer-viewtype="unknown" data-post-id="383654" href="https://electrek.co/2024/10/10/mercedes-first-van-ea-electric-vans-spotted-public-new-teaser/#more-383654" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/10/mercedes-first-van-ea-electric-vans-spotted-public-new-teaser/>
 
@@ -287,7 +347,7 @@ date: 2024-10-10, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="383626" href="https://electrek.co/2024/10/10/jackery-explorer-2000-v2-bundle-allpowers-prime-sale-more/#more-383626" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/10/jackery-explorer-2000-v2-bundle-allpowers-prime-sale-more/>
 
@@ -303,7 +363,7 @@ date: 2024-10-10, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="xpeng,xpeng-motors,xpeng-p7" data-layer-viewtype="unknown" data-post-id="383609" href="https://electrek.co/2024/10/10/xpeng-xpev-unveils-p7-sedan-as-worlds-first-ai-car-initial-deliveries-to-begin-in-november/#more-383609" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/10/xpeng-xpev-unveils-p7-sedan-as-worlds-first-ai-car-initial-deliveries-to-begin-in-november/>
 
@@ -319,7 +379,7 @@ date: 2024-10-10, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="ram-trucks" data-layer-viewtype="unknown" data-post-id="383612" href="https://electrek.co/2024/10/10/rams-first-electric-pickup-headed-overseas/#more-383612" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/10/rams-first-electric-pickup-headed-overseas/>
 
@@ -331,7 +391,7 @@ date: 2024-10-10, from: Inside EVs News
 
 There are still big questions about how Tesla would actually build a nationwide autonomous taxi service.  
 
- 
+<br> 
 
 <https://insideevs.com/news/736900/tesla-robotaxi-cybercab-business-model/>
 
@@ -347,7 +407,7 @@ date: 2024-10-10, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="kelley-blue-book,tesla,tesla-cybertruck,tesla-model-3,tesla-model-y" data-layer-viewtype="unknown" data-post-id="383618" href="https://electrek.co/2024/10/10/cybertruck-reached-its-highest-ever-average-transaction-price-in-september/#more-383618" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/10/cybertruck-reached-its-highest-ever-average-transaction-price-in-september/>
 
@@ -359,7 +419,7 @@ date: 2024-10-10, from: Inside EVs News
 
 A growing number of companies are now offering installation as part of the charger buying process. 
 
- 
+<br> 
 
 <https://insideevs.com/news/736875/chargepoint-ev-charger-home-installation/>
 
@@ -379,7 +439,7 @@ date: 2024-10-10, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="uber" data-layer-viewtype="unknown" data-post-id="383616" href="https://electrek.co/2024/10/10/half-of-ubers-riders-say-no-to-self-driving-cars-highlighting-trust-issues/#more-383616" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/10/half-of-ubers-riders-say-no-to-self-driving-cars-highlighting-trust-issues/>
 
@@ -391,7 +451,7 @@ date: 2024-10-10, from: Inside EVs News
 
 Tesla hasn’t announced any plans to bring its driverless taxi to Europe, but it probably will. 
 
- 
+<br> 
 
 <https://insideevs.com/news/736847/tesla-robotaxi-coming-to-europe/>
 
@@ -407,7 +467,7 @@ date: 2024-10-10, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="general-motors,gm" data-layer-viewtype="unknown" data-post-id="383596" href="https://electrek.co/2024/10/10/gm-sold-more-evs-hybrids-than-gas-cars-first-time-china/#more-383596" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/10/gm-sold-more-evs-hybrids-than-gas-cars-first-time-china/>
 
@@ -423,7 +483,7 @@ date: 2024-10-10, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="firefly,nio,onvo" data-layer-viewtype="unknown" data-post-id="383583" href="https://electrek.co/2024/10/10/ev-sub-brand-codenamed-firefly-launch-nio-day-2024-december-21/#more-383583" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/10/ev-sub-brand-codenamed-firefly-launch-nio-day-2024-december-21/>
 
@@ -435,7 +495,7 @@ date: 2024-10-10, from: Inside EVs News
 
 Here's a hint: it's not actually the Robotaxi. It's what the EV market really wants.  
 
- 
+<br> 
 
 <https://insideevs.com/news/736859/tesla-robotaxi-event-affordable-model/>
 
@@ -447,7 +507,7 @@ date: 2024-10-10, from: Inside EVs News
 
 Plus, the industry is split on LIDAR, and BYD wants to sell 100,000 cars in Mexico next year. 
 
- 
+<br> 
 
 <https://insideevs.com/news/736774/tesla-robotaxi-ai-black-box/>
 
@@ -463,7 +523,7 @@ date: 2024-10-10, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="bmw" data-layer-viewtype="unknown" data-post-id="383575" href="https://electrek.co/2024/10/10/bmw-surges-past-european-rivals-ev-sales-top-100000-q3/#more-383575" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/10/bmw-surges-past-european-rivals-ev-sales-top-100000-q3/>
 
@@ -479,7 +539,7 @@ date: 2024-10-10, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="electric-heavy-machinery,mining" data-layer-viewtype="unknown" data-post-id="383569" href="https://electrek.co/2024/10/10/boliden-set-to-trial-battery-electric-surface-drill-rig-concept-from-sandvik/#more-383569" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/10/boliden-set-to-trial-battery-electric-surface-drill-rig-concept-from-sandvik/>
 
@@ -495,7 +555,7 @@ date: 2024-10-10, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="gm,gm-energy,home-battery-pack,home-energy-storage" data-layer-viewtype="unknown" data-post-id="383514" href="https://electrek.co/2024/10/10/gm-energy-powerbanks-can-combine-power-a-home-up-to-20-hours/#more-383514" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/10/gm-energy-powerbanks-can-combine-power-a-home-up-to-20-hours/>
 
@@ -507,7 +567,7 @@ date: 2024-10-10, from: Inside EVs News
 
 Sales of BMW Group’s EVs went up even as BMW grapples with a global recall and Mini is refreshing its lineup. 
 
- 
+<br> 
 
 <https://insideevs.com/news/736804/bmw-ev-sales-q3-2024/>
 
@@ -519,7 +579,7 @@ date: 2024-10-10, from: Inside EVs News
 
 American Lease, the entity that wants to buy over 3,000 Ocean EVs, said it wants out of the deal if it can’t use its own server. 
 
- 
+<br> 
 
 <https://insideevs.com/news/736798/fisker-ocean-data-impossible-port/>
 
@@ -535,7 +595,7 @@ date: 2024-10-09, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="blue-bird,electric-school-buses,minnesota" data-layer-viewtype="unknown" data-post-id="383545" href="https://electrek.co/2024/10/09/sovereign-tribal-nation-school-district-electric-school-buses-minnesota/#more-383545" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/09/sovereign-tribal-nation-school-district-electric-school-buses-minnesota/>
 
@@ -551,7 +611,7 @@ date: 2024-10-09, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="byd,solar-power,tesla-robotaxi,texas" data-layer-viewtype="unknown" data-post-id="383542" href="https://electrek.co/2024/10/09/robotaxi-rumors-a-tesla-van-fsd-data-calls-and-leave-texas-solar-alone/#more-383542" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/09/robotaxi-rumors-a-tesla-van-fsd-data-calls-and-leave-texas-solar-alone/>
 
@@ -567,7 +627,7 @@ date: 2024-10-09, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="ford,ford-f-150-lightning,ram-trucks" data-layer-viewtype="unknown" data-post-id="383517" href="https://electrek.co/2024/10/09/ford-offers-ram-owners-2000-off-f-150-lightning/#more-383517" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/09/ford-offers-ram-owners-2000-off-f-150-lightning/>
 
@@ -579,7 +639,7 @@ date: 2024-10-09, from: Inside EVs News
 
 Elon Musk introduced the Tesla "Cybercab" and "Robovan" at Thursday's event, but both may be a ways off. 
 
- 
+<br> 
 
 <https://insideevs.com/news/736707/tesla-robotaxi-event-live-stream/>
 
@@ -591,7 +651,7 @@ date: 2024-10-09, from: Inside EVs News
 
 Last week, four top Tesla executives who directly reported to CEO Elon Musk announced their departures on LinkedIn. 
 
- 
+<br> 
 
 <https://insideevs.com/news/736762/tesla-exodus-top-officials-leave/>
 
@@ -607,7 +667,7 @@ date: 2024-10-09, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="383505" href="https://electrek.co/2024/10/09/byd-to-sell-100000-evs-north-american-market-next-year/#more-383505" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/09/byd-to-sell-100000-evs-north-american-market-next-year/>
 
@@ -619,7 +679,7 @@ date: 2024-10-09, from: Inside EVs News
 
 Canadian buyers can already go out and buy the pint-sized EV crossover at dealerships across the country. 
 
- 
+<br> 
 
 <https://insideevs.com/news/736748/volvo-ex30-canadian-roads-on-sale/>
 
@@ -635,7 +695,7 @@ date: 2024-10-09, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,solar-power,texas" data-layer-viewtype="unknown" data-post-id="383492" href="https://electrek.co/2024/10/09/texans-want-its-lawmakers-to-stop-messing-with-its-solar-growth/#more-383492" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/09/texans-want-its-lawmakers-to-stop-messing-with-its-solar-growth/>
 
@@ -655,7 +715,7 @@ date: 2024-10-09, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="383478" href="https://electrek.co/2024/10/09/prime-big-deal-days-segway-robot-mowers-jackery-bundle-lg-smart-appliances-more/#more-383478" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/09/prime-big-deal-days-segway-robot-mowers-jackery-bundle-lg-smart-appliances-more/>
 
@@ -671,7 +731,7 @@ date: 2024-10-09, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="383472" href="https://electrek.co/2024/10/09/fiat-500e-and-subaru-solterra-now-cost-less-than-300-month-to-lease/#more-383472" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/09/fiat-500e-and-subaru-solterra-now-cost-less-than-300-month-to-lease/>
 
@@ -691,7 +751,7 @@ date: 2024-10-09, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="383466" href="https://electrek.co/2024/10/09/tesla-robotaxi-rumors-butterfly-doors-two-seats-robovan-and-more/#more-383466" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/09/tesla-robotaxi-rumors-butterfly-doors-two-seats-robovan-and-more/>
 
@@ -703,7 +763,7 @@ date: 2024-10-09, from: Inside EVs News
 
 The Tesla Robotaxi reveal is CEO Elon Musk's make-or-break moment. But AI scientists think Tesla's approach has major flaws. 
 
- 
+<br> 
 
 <https://insideevs.com/news/736711/tesla-robotaxi-doubt-science-fsd/>
 
@@ -719,7 +779,7 @@ date: 2024-10-09, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="airspeeder,evtol,evtol-racing" data-layer-viewtype="unknown" data-post-id="383445" href="https://electrek.co/2024/10/09/airspeeder-teases-modular-solar-vertiport-360-views-evtol-flying-car-races/#more-383445" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/09/airspeeder-teases-modular-solar-vertiport-360-views-evtol-flying-car-races/>
 
@@ -735,33 +795,9 @@ date: 2024-10-09, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="383446" href="https://electrek.co/2024/10/09/tesla-tsla-goes-back-to-0-financing-but-forces-you-to-buy-full-self-driving/#more-383446" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/09/tesla-tsla-goes-back-to-0-financing-but-forces-you-to-buy-full-self-driving/>
-
----
-
-## Honda's EV Plans: Simulated Shifting, VR Passengers And Leaderboards
-
-date: 2024-10-09, from: Inside EVs News
-
-Honda's taking a page out of Hyundai's book, introducing game-like features to its next-generation EVs. 
-
- 
-
-<https://insideevs.com/news/736634/honda-ev-plans-fake-shifting/>
-
----
-
-## GM Pushes On With The Key To Its EV Future: Profits
-
-date: 2024-10-09, from: Inside EVs News
-
-General Motors has good news on the EV front. Meanwhile, Volkswagen tries again and Honda hedges its bets. 
-
- 
-
-<https://insideevs.com/news/736719/gm-ev-profits-cm/>
 
 ---
 
@@ -775,21 +811,9 @@ date: 2024-10-09, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="norway,zeekr,zeekr-001,zeekr-x" data-layer-viewtype="unknown" data-post-id="383433" href="https://electrek.co/2024/10/09/zeekr-expands-eu-presence-launching-in-norway-two-ev-models/#more-383433" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/09/zeekr-expands-eu-presence-launching-in-norway-two-ev-models/>
-
----
-
-## Porsche Recalls Over 27,000 Taycan EVs Because Of Battery Fire Risk
-
-date: 2024-10-09, from: Inside EVs News
-
-Model years 2020 through 2024 are affected, but the fix is different depending on the year of manufacture. 
-
- 
-
-<https://insideevs.com/news/736702/porsche-taycan-battery-fire-recall/>
 
 ---
 
@@ -803,21 +827,9 @@ date: 2024-10-09, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="383430" href="https://electrek.co/2024/10/09/ebay-announces-ban-on-private-sales-of-electric-bicycles/#more-383430" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/09/ebay-announces-ban-on-private-sales-of-electric-bicycles/>
-
----
-
-## VW ID. Buzz Configurator Goes Live: $71,545 Top Trim Comes With Rear Drum Brakes
-
-date: 2024-10-09, from: Inside EVs News
-
-You’re not exactly spoiled for choice when it comes to trim levels, either. 
-
- 
-
-<https://insideevs.com/news/736665/vw-id-buzz-configurator-trims-pricing/>
 
 ---
 
@@ -831,7 +843,7 @@ date: 2024-10-09, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="383228" href="https://electrek.co/2024/10/09/prime-day-green-deals-evs-power-stations-tools-smart-devices-appliances-more-2/#more-383228" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/09/prime-day-green-deals-evs-power-stations-tools-smart-devices-appliances-more-2/>
 
@@ -847,7 +859,7 @@ date: 2024-10-09, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,renewable-energy,solar-power,wind-power" data-layer-viewtype="unknown" data-post-id="383362" href="https://electrek.co/2024/10/08/renewables-could-meet-almost-half-of-global-electricity-demand-by-2030-iea/#more-383362" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/08/renewables-could-meet-almost-half-of-global-electricity-demand-by-2030-iea/>
 
@@ -863,7 +875,7 @@ date: 2024-10-09, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="chevy-silverado-ev,tesla-cybertruck,tesla-robotaxi,tsla-tesla-stock" data-layer-viewtype="unknown" data-post-id="383415" href="https://electrek.co/2024/10/08/whee-robots-tesla-robotaxi-event-set-to-underwhelm-and-gm-throws-shade/#more-383415" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/08/whee-robots-tesla-robotaxi-event-set-to-underwhelm-and-gm-throws-shade/>
 
@@ -879,21 +891,9 @@ date: 2024-10-08, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="ccs,dc-fast-charging,ev-chargers,new-york,north-american-charging-standard-nacs,tesla,tesla-ccs-adapter,tesla-supercharger" data-layer-viewtype="unknown" data-post-id="383400" href="https://electrek.co/2024/10/08/dandy-mini-marts-chooses-tesla-to-install-its-first-ev-chargers/#more-383400" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/08/dandy-mini-marts-chooses-tesla-to-install-its-first-ev-chargers/>
-
----
-
-## How GM Is Going To Cut EV Prices By $6,000 Per Vehicle
-
-date: 2024-10-08, from: Inside EVs News
-
-GM's cost-cutting around batteries is projected to save up to $6,000 per vehicle in the short term. 
-
- 
-
-<https://insideevs.com/news/736631/gm-lfp-6000-per-vehicle/>
 
 ---
 
@@ -911,7 +911,7 @@ date: 2024-10-08, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="383394" href="https://electrek.co/2024/10/08/irvine-pd-wants-its-new-tesla-cybertruck-police-vehicle-to-start-conversations/#more-383394" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/08/irvine-pd-wants-its-new-tesla-cybertruck-police-vehicle-to-start-conversations/>
 
@@ -927,7 +927,7 @@ date: 2024-10-08, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="general-motors,gm" data-layer-viewtype="unknown" data-post-id="383370" href="https://electrek.co/2024/10/08/gm-takes-shot-ford-after-taking-over-number-two-ev-brand/#more-383370" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/08/gm-takes-shot-ford-after-taking-over-number-two-ev-brand/>
 
@@ -943,7 +943,7 @@ date: 2024-10-08, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="subaru,toyota" data-layer-viewtype="unknown" data-post-id="383350" href="https://electrek.co/2024/10/08/toyota-subaru-plan-another-electric-suv-join-bz4x-solterra/#more-383350" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/08/toyota-subaru-plan-another-electric-suv-join-bz4x-solterra/>
 
@@ -963,7 +963,7 @@ date: 2024-10-08, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="383341" href="https://electrek.co/2024/10/08/anker-fall-prime-day-sale-gotrax-ebe1-e-bike-greenworks-aerogarden-more/#more-383341" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/08/anker-fall-prime-day-sale-gotrax-ebe1-e-bike-greenworks-aerogarden-more/>
 
@@ -979,7 +979,7 @@ date: 2024-10-08, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="rivian" data-layer-viewtype="unknown" data-post-id="383312" href="https://electrek.co/2024/10/08/why-rivian-rivn-cutting-ev-production-goal-2024/#more-383312" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/08/why-rivian-rivn-cutting-ev-production-goal-2024/>
 
@@ -995,7 +995,7 @@ date: 2024-10-08, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="honda,honda-0,honda-0-saloon" data-layer-viewtype="unknown" data-post-id="383128" href="https://electrek.co/2024/10/08/honda-tech-day-2024-one-of-first-test-drive-new-0-series-ev-architecture/#more-383128" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/08/honda-tech-day-2024-one-of-first-test-drive-new-0-series-ev-architecture/>
 
@@ -1011,7 +1011,7 @@ date: 2024-10-08, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="kia" data-layer-viewtype="unknown" data-post-id="383258" href="https://electrek.co/2024/10/08/kia-converted-pride-into-true-ev-socket-rocket/#more-383258" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/08/kia-converted-pride-into-true-ev-socket-rocket/>
 
@@ -1027,7 +1027,7 @@ date: 2024-10-08, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="383176" href="https://electrek.co/2024/10/08/tesla-robotaxi-unveiling-expectations-are-low-could-tesla-overdeliver/#more-383176" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/08/tesla-robotaxi-unveiling-expectations-are-low-could-tesla-overdeliver/>
 
@@ -1043,7 +1043,7 @@ date: 2024-10-08, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="383239" href="https://electrek.co/2024/10/08/own-an-electric-bike-and-prepping-for-a-hurricane-do-this-right-away/#more-383239" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/08/own-an-electric-bike-and-prepping-for-a-hurricane-do-this-right-away/>
 
@@ -1059,7 +1059,7 @@ date: 2024-10-07, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="fortescue,liebherr,mining" data-layer-viewtype="unknown" data-post-id="383146" href="https://electrek.co/2024/10/07/first-product-from-new-fortescue-detroit-factory-marine-batteries-quick-charge/#more-383146" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/07/first-product-from-new-fortescue-detroit-factory-marine-batteries-quick-charge/>
 
@@ -1075,7 +1075,7 @@ date: 2024-10-07, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="383177" href="https://electrek.co/2024/10/07/heres-what-to-know-if-you-drive-an-ev-hurricane-milton/#more-383177" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/07/heres-what-to-know-if-you-drive-an-ev-hurricane-milton/>
 
@@ -1091,7 +1091,7 @@ date: 2024-10-07, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles" data-layer-viewtype="unknown" data-post-id="383089" href="https://electrek.co/2024/10/07/evs-for-lease-under-200-month-october/#more-383089" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/07/evs-for-lease-under-200-month-october/>
 
@@ -1107,7 +1107,7 @@ date: 2024-10-07, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,offshore-wind-power,portugal" data-layer-viewtype="unknown" data-post-id="383144" href="https://electrek.co/2024/10/07/windfloat-atlantic-worlds-first-semi-submersible-floating-offshore-wind-farm/#more-383144" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/07/windfloat-atlantic-worlds-first-semi-submersible-floating-offshore-wind-farm/>
 
@@ -1123,7 +1123,7 @@ date: 2024-10-07, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="rivian,rivian-r2" data-layer-viewtype="unknown" data-post-id="383087" href="https://electrek.co/2024/10/07/rivian-rivn-takes-big-step-toward-restarting-georgia-ev-plant/#more-383087" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/07/rivian-rivn-takes-big-step-toward-restarting-georgia-ev-plant/>
 
@@ -1143,7 +1143,7 @@ date: 2024-10-07, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="383116" href="https://electrek.co/2024/10/07/mod-easy-3-e-bike-ecoflow-bundles-anker-solix-gotrax-greenworks-more/#more-383116" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/07/mod-easy-3-e-bike-ecoflow-bundles-anker-solix-gotrax-greenworks-more/>
 
@@ -1159,7 +1159,7 @@ date: 2024-10-07, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="chevrolet,chevy-silverado-ev" data-layer-viewtype="unknown" data-post-id="383111" href="https://electrek.co/2024/10/07/2025-chevy-silverado-ev-gets-price-cut-more-range/#more-383111" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/07/2025-chevy-silverado-ev-gets-price-cut-more-range/>
 
@@ -1175,7 +1175,7 @@ date: 2024-10-07, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="bmw,chargescape,ford,honda,nissan,v2g,vehicle-to-grid" data-layer-viewtype="unknown" data-post-id="383075" href="https://electrek.co/2024/10/07/nissan-joins-bmw-ford-honda-chargescape-vehicle-to-grid-charging-joint-venture/#more-383075" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/07/nissan-joins-bmw-ford-honda-chargescape-vehicle-to-grid-charging-joint-venture/>
 
@@ -1191,7 +1191,7 @@ date: 2024-10-07, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="tesla,waymo" data-layer-viewtype="unknown" data-post-id="383086" href="https://electrek.co/2024/10/07/waymo-hires-teslas-head-of-vehicle-programs-ahead-of-robotaxi-unveiling/#more-383086" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/07/waymo-hires-teslas-head-of-vehicle-programs-ahead-of-robotaxi-unveiling/>
 
@@ -1207,7 +1207,7 @@ date: 2024-10-07, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-motors" data-layer-viewtype="unknown" data-post-id="383071" href="https://electrek.co/2024/10/07/lucid-lcid-breaks-delivery-record-again-q3-big-discounts/#more-383071" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/07/lucid-lcid-breaks-delivery-record-again-q3-big-discounts/>
 
@@ -1223,7 +1223,7 @@ date: 2024-10-07, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="383057" href="https://electrek.co/2024/10/07/tesla-loses-top-vehicle-program-manager-behind-model-s-x-cybertruck-and-more/#more-383057" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/07/tesla-loses-top-vehicle-program-manager-behind-model-s-x-cybertruck-and-more/>
 
@@ -1239,7 +1239,7 @@ date: 2024-10-07, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="jeep" data-layer-viewtype="unknown" data-post-id="383045" href="https://electrek.co/2024/10/07/first-look-electric-jeep-compass/#more-383045" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/07/first-look-electric-jeep-compass/>
 
@@ -1255,7 +1255,7 @@ date: 2024-10-06, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="tesla-robotaxi,volvo,waymo,zeekr" data-layer-viewtype="unknown" data-post-id="383019" href="https://electrek.co/2024/10/06/qotd-is-volvo-planning-a-low-cost-electric-robotaxi-rival/#more-383019" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/06/qotd-is-volvo-planning-a-low-cost-electric-robotaxi-rival/>
 
@@ -1271,7 +1271,7 @@ date: 2024-10-06, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,heavy-equipment" data-layer-viewtype="unknown" data-post-id="383005" href="https://electrek.co/2024/10/06/e-quipment-highlight-jlg-e313-electric-telehandler/#more-383005" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/06/e-quipment-highlight-jlg-e313-electric-telehandler/>
 
@@ -1287,7 +1287,7 @@ date: 2024-10-06, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="bollinger-motors,commercial-evs,electric-trucks" data-layer-viewtype="unknown" data-post-id="382987" href="https://electrek.co/2024/10/06/bollinger-delivers-first-b4-electric-work-trucks-to-customers/#more-382987" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/06/bollinger-delivers-first-b4-electric-work-trucks-to-customers/>
 
@@ -1307,7 +1307,7 @@ date: 2024-10-06, from: Electrek Feed
 
  <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="228361" href="https://electrek.co/2024/10/06/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/#more-228361" class="more-link">more…</a> 
 
- 
+<br> 
 
 <https://electrek.co/2024/10/06/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/>
 

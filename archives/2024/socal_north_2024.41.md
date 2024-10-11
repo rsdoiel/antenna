@@ -1,11 +1,23 @@
 ---
 title: socal north
-updated: 2024-10-11 07:08:26
+updated: 2024-10-11 08:58:06
 ---
 
 # socal north
 
-(date: 2024-10-11 07:08:26)
+(date: 2024-10-11 08:58:06)
+
+---
+
+## Another foggy morning as temperatures cool down heading into the weekend
+
+date: 2024-10-11, updated: 2024-10-11, from: The LAist
+
+A dense fog advisory is in effect until 9 a.m. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/foggy-morning-cool-temps-weekend>
 
 ---
 
@@ -15,7 +27,7 @@ date: 2024-10-11, updated: 2024-10-11, from: The LAist
 
 Republican Rep. Michelle Steel is facing a challenge from Democrat Derek Tran, who's vying to be the first Vietnamese American to represent Little Saigon. 
 
- 
+<br> 
 
 <https://laist.com/news/politics/steel-tran-race-little-saigon-45th-congressional-district>
 
@@ -27,7 +39,7 @@ date: 2024-10-11, updated: 2024-10-11, from: The LAist
 
 SoCalEarth.org wants to arm people with the data they need to engage with climate issues. 
 
- 
+<br> 
 
 <https://laist.com/news/climate-environment/website-data-climate-action-create-climate-map>
 
@@ -41,7 +53,7 @@ date: 2024-10-10, from: City of Santa Clarita
 <p>The post <a href="https://santaclarita.gov/blog/2024/10/10/exciting-upgrades-coming-to-old-orchard-park/">Exciting Upgrades Coming to Old Orchard Park</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
  
 
- 
+<br> 
 
 <https://santaclarita.gov/blog/2024/10/10/exciting-upgrades-coming-to-old-orchard-park/>
 
@@ -53,19 +65,19 @@ date: 2024-10-10, updated: 2024-10-10, from: The LAist
 
 Foggy mornings, warm days ahead. 
 
- 
+<br> 
 
 <https://laist.com/news/climate-environment/temps-drop-inland-areas-today>
 
 ---
 
-## LA’s Native youth are building power through community
+## LA’s Native youths are building power through community
 
-date: 2024-10-10, updated: 2024-10-10, from: The LAist
+date: 2024-10-10, updated: 2024-10-11, from: The LAist
 
-Native American youth have driven civic engagement during recent elections. 
+Native American youths have driven civic engagement during recent elections. 
 
- 
+<br> 
 
 <https://laist.com/news/education/california-indigenous-native-american-youth-vote-2024>
 
@@ -80,7 +92,7 @@ date: 2024-10-10, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 <p>The post <a href="https://sanfernandosun.com/2024/10/09/mural-de-pacoima-rinde-homenaje-a-gabriel-fernandez-y-arroja-luz-sobre-el-abuso-infantil/">Mural de Pacoima Rinde Homenaje a Gabriel Fernández y Arroja Luz Sobre el Abuso Infantil</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
 
- 
+<br> 
 
 <https://sanfernandosun.com/2024/10/09/mural-de-pacoima-rinde-homenaje-a-gabriel-fernandez-y-arroja-luz-sobre-el-abuso-infantil/>
 
@@ -94,7 +106,7 @@ date: 2024-10-10, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 <p>The post <a href="https://sanfernandosun.com/2024/10/09/horoscopo-184/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
 
- 
+<br> 
 
 <https://sanfernandosun.com/2024/10/09/horoscopo-184/>
 
@@ -108,7 +120,7 @@ date: 2024-10-10, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 <p>The post <a href="https://sanfernandosun.com/2024/10/09/eventos-locales-semana-de-10-de-octubre-2024/">EVENTOS Locales &#8211; Semana de 10 de octubre, 2024 </a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
 
- 
+<br> 
 
 <https://sanfernandosun.com/2024/10/09/eventos-locales-semana-de-10-de-octubre-2024/>
 
@@ -123,7 +135,7 @@ date: 2024-10-10, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 <p>The post <a href="https://sanfernandosun.com/2024/10/09/el-voto-hispano-latino-latina-latinx-latine-pone-en-escena-sus-matices-y-diversidad/">&#8216;El Voto Hispano/Latino/Latina/Latinx/Latiné&#8217; Pone en Escena sus Matices y Diversidad</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
 
- 
+<br> 
 
 <https://sanfernandosun.com/2024/10/09/el-voto-hispano-latino-latina-latinx-latine-pone-en-escena-sus-matices-y-diversidad/>
 
@@ -138,7 +150,7 @@ date: 2024-10-10, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 <p>The post <a href="https://sanfernandosun.com/2024/10/09/las-trayectorias-de-vuelo-de-los-latinos-en-la-industria-de-la-aviacion/">Las Trayectorias de Vuelo de los Latinos en la Industria de la Aviación</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
 
- 
+<br> 
 
 <https://sanfernandosun.com/2024/10/09/las-trayectorias-de-vuelo-de-los-latinos-en-la-industria-de-la-aviacion/>
 
@@ -153,7 +165,7 @@ date: 2024-10-10, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 <p>The post <a href="https://sanfernandosun.com/2024/10/09/la-mission-college-abre-un-nuevo-centro-worksource-para-conectar-a-la-comunidad-con-oportunidades-laborales/">LA Mission College Abre un Nuevo Centro WorkSource para Conectar a la Comunidad con Oportunidades Laborales</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
 
- 
+<br> 
 
 <https://sanfernandosun.com/2024/10/09/la-mission-college-abre-un-nuevo-centro-worksource-para-conectar-a-la-comunidad-con-oportunidades-laborales/>
 
@@ -168,7 +180,7 @@ date: 2024-10-10, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 <p>The post <a href="https://sanfernandosun.com/2024/10/09/salvando-vidas-con-cada-paso-manejando-la-educacion-en-rcp-en-la-caminata-del-corazon-y-el-accidente-cerebrovascular-del-area-metropolitana-de-los-angeles/">Salvando Vidas con Cada Paso: Manejando la Educación en RCP en la Caminata del Corazón y el Accidente Cerebrovascular del Área Metropolitana de Los Ángeles</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
 
- 
+<br> 
 
 <https://sanfernandosun.com/2024/10/09/salvando-vidas-con-cada-paso-manejando-la-educacion-en-rcp-en-la-caminata-del-corazon-y-el-accidente-cerebrovascular-del-area-metropolitana-de-los-angeles/>
 
@@ -183,7 +195,7 @@ date: 2024-10-10, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 <p>The post <a href="https://sanfernandosun.com/2024/10/09/es-bark-tober-el-condado-de-los-angeles-esta-haciendo-un-gran-esfuerzo-para-aumentar-las-adopciones-de-mascotas/">¡Es Bark- tober! El condado de Los Ángeles está Haciendo un Gran Esfuerzo para Aumentar las Adopciones de Mascotas</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
 
- 
+<br> 
 
 <https://sanfernandosun.com/2024/10/09/es-bark-tober-el-condado-de-los-angeles-esta-haciendo-un-gran-esfuerzo-para-aumentar-las-adopciones-de-mascotas/>
 
@@ -197,7 +209,7 @@ date: 2024-10-10, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 <p>The post <a href="https://sanfernandosun.com/2024/10/09/cardenas-presenta-resolucion-sobre-jovenes-juzgados-como-adultos-en-el-sistema-de-justicia/">Cárdenas Presenta Resolución Sobre Jóvenes Juzgados Como Adultos en el Sistema de Justicia</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
 
- 
+<br> 
 
 <https://sanfernandosun.com/2024/10/09/cardenas-presenta-resolucion-sobre-jovenes-juzgados-como-adultos-en-el-sistema-de-justicia/>
 
@@ -212,7 +224,7 @@ date: 2024-10-10, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 <p>The post <a href="https://sanfernandosun.com/2024/10/09/a-kitchen-staffed-by-trans-women-is-a-refuge-for-mexico-citys-lgbtq-community/">A Kitchen Staffed by Trans Women Is a Refuge for Mexico City’s LGBTQ+ Community</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
 
- 
+<br> 
 
 <https://sanfernandosun.com/2024/10/09/a-kitchen-staffed-by-trans-women-is-a-refuge-for-mexico-citys-lgbtq-community/>
 
@@ -224,21 +236,9 @@ date: 2024-10-09, updated: 2024-10-10, from: The LAist
 
 Huntington Beach's Measure U, on the November ballot, would give voters the ability to block major changes to local zoning. 
 
- 
+<br> 
 
 <https://laist.com/news/politics/huntington-beach-measure-u-election-glitch-discovered-by-laist>
-
----
-
-## Why we’ve been seeing unusually foggy mornings in SoCal
-
-date: 2024-10-09, updated: 2024-10-09, from: The LAist
-
-It’s not “May Gray” or “June Gloom,” but an extended period of high pressure is causing similar conditions. 
-
- 
-
-<https://laist.com/news/climate-environment/why-weve-been-seeing-unusually-foggy-mornings-in-socal>
 
 ---
 
@@ -250,7 +250,7 @@ date: 2024-10-09, from: City of Santa Clarita
 <p>The post <a href="https://santaclarita.gov/blog/2024/10/09/register-for-the-girls-try-hockey-for-free-day-at-the-cube/">Register for the &#8220;Girls Try Hockey for Free Day&#8221; at The Cube!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
  
 
- 
+<br> 
 
 <https://santaclarita.gov/blog/2024/10/09/register-for-the-girls-try-hockey-for-free-day-at-the-cube/>
 
@@ -262,7 +262,7 @@ date: 2024-10-09, updated: 2024-10-10, from: The LAist
 
 The state measure would make a tax on medical providers permanent and would guarantee funding for some Medi-Cal services. 
 
- 
+<br> 
 
 <https://laist.com/news/politics/2024-election-california-general-proposition-35>
 
@@ -276,7 +276,7 @@ date: 2024-10-08, from: City of Santa Clarita
 <p>The post <a href="https://santaclarita.gov/blog/2024/10/08/free-drive-thru-hazardous-waste-e-waste-collection-event-set-for-october-19/">Free Drive-Thru Hazardous Waste/E-Waste Collection Event Set for October 19</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
  
 
- 
+<br> 
 
 <https://santaclarita.gov/blog/2024/10/08/free-drive-thru-hazardous-waste-e-waste-collection-event-set-for-october-19/>
 
@@ -288,7 +288,7 @@ date: 2024-10-07, updated: 2024-10-08, from: The LAist
 
 Los Angeles County mistakenly included two school bond measures on ballots bound for Santa Monica and Malibu, when each city should only have one. 
 
- 
+<br> 
 
 <https://laist.com/news/education/santa-monica-malibu-voting-misprint>
 
@@ -300,7 +300,7 @@ date: 2024-10-06, updated: 2024-10-06, from: The LAist
 
 The story of Ted Ngoy and the community of Cambodian refugees behind every donut. 
 
- 
+<br> 
 
 <https://laist.com/news/la-history/how-la-became-a-donut-town-and-the-man-who-started-it-all>
 

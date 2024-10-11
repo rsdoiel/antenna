@@ -1,11 +1,11 @@
 ---
 title: journalism
-updated: 2024-10-11 07:08:31
+updated: 2024-10-11 08:58:10
 ---
 
 # journalism
 
-(date: 2024-10-11 07:08:31)
+(date: 2024-10-11 08:58:10)
 
 ---
 
@@ -17,7 +17,7 @@ date: 2024-10-11, from: The Daily Trojan (USC Student Newspaper)
 <p>The post <a href="https://dailytrojan.com/2024/10/11/comedy-group-improvises-entire-hilarious-musical/">Comedy group improvises entire hilarious musical</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
- 
+<br> 
 
 <https://dailytrojan.com/2024/10/11/comedy-group-improvises-entire-hilarious-musical/>
 
@@ -30,7 +30,7 @@ date: 2024-10-11, from: The Daily Bruin (UCLA Student Newspaper)
 <em>This post was updated Oct. 11 at 12:01 a.m.</em>
 Host Jackson Wooton and editors discuss recent campus events, including vigils and protests, UCLA&#8217;s football performance, upcoming cultural celebrations and news stories from around the country and the globe. 
 
- 
+<br> 
 
 <https://dailybruin.com/2024/10/10/this-week-october-10/>
 
@@ -44,7 +44,7 @@ date: 2024-10-11, from: The Daily Bruin (UCLA Student Newspaper)
 Saturday&#8217;s equation is simple: much to gain and little to lose.
 UCLA football (1-4, 0-3 Big Ten) will take on Minnesota (3-3, 1-2) on Saturday evening at the Rose Bowl – its chance to clinch its first victory since Aug. 
 
- 
+<br> 
 
 <https://dailybruin.com/2024/10/10/ucla-football-seeks-to-break-four-game-losing-streak-in-minnesota-matchup/>
 
@@ -58,7 +58,7 @@ date: 2024-10-11, from: The Daily Bruin (UCLA Student Newspaper)
 Students and community members woke up early to participate in UCLA’s annual Volunteer Day on Saturday.
 Approximately 2,000 Bruins registered to volunteer at 37 locations across Los Angeles and the United States, according to a written statement from UCLA Media Relations. 
 
- 
+<br> 
 
 <https://dailybruin.com/2024/10/10/annual-ucla-volunteer-day-brings-thousands-together-to-serve-build-community/>
 
@@ -72,7 +72,7 @@ date: 2024-10-11, from: The Daily Bruin (UCLA Student Newspaper)
 UCLA students can now access a new way to save on transportation.
 Metrolink’s Student Adventure Pass allows students from kindergarten through college with a valid student identification to use the Metrolink system for free. 
 
- 
+<br> 
 
 <https://dailybruin.com/2024/10/10/metrolink-renews-free-student-adventure-pass-for-k-12-college-students/>
 
@@ -84,22 +84,9 @@ date: 2024-10-11, from: The Sundail (CSUN Student Newspaper)
 
 CSUN men’s soccer took on the Aggies of UC Davis Wednesday night at home. The match included two squads who were winless in conference play hungry for that first win.... 
 
- 
+<br> 
 
 <https://sundial.csun.edu/186164/sports/csun-ties-with-uc-davis-in-a-heated-big-west-matchup/>
-
----
-
-## Recent earthquakes in Los Angeles area emphasize necessity of preparedness plans
-
-date: 2024-10-11, from: The Daily Bruin (UCLA Student Newspaper)
-
-Every resident of Southern California lives within 10 miles of an active earthquake fault.
-The numerous faults make the region highly susceptible to earthquakes – a fact residents of the Los Angeles area were reminded of when several hit in August and September. 
-
- 
-
-<https://dailybruin.com/2024/10/10/recent-earthquakes-in-los-angeles-area-emphasize-necessity-of-preparedness-plans/>
 
 ---
 
@@ -111,7 +98,7 @@ date: 2024-10-11, from: The Daily Bruin (UCLA Student Newspaper)
 Every resident of Southern California lives within 10 miles of an active earthquake fault.
 The numerous faults make the region highly susceptible to earthquakes – a fact residents of the Los Angeles area were reminded of when several hit in August and September. 
 
- 
+<br> 
 
 <https://dailybruin.com/2024/10/10/experts-suggest-disaster-preparedness-plans-following-recent-seismic-activity/>
 
@@ -124,7 +111,7 @@ date: 2024-10-11, from: The Daily Bruin (UCLA Student Newspaper)
 <em>This post was updated Oct. 10 at 11:23 p.m.</em>
 Westwood bid farewell to the Bruins for about two weeks, but the team quickly found success on the road – breaking the two-game losing streak they started at Pauley Pavilion. 
 
- 
+<br> 
 
 <https://dailybruin.com/2024/10/10/ucla-womens-volleyball-breaks-losing-streak-with-win-against-washington/>
 
@@ -140,7 +127,7 @@ Una O’Farrell, assistant Sports editor
 An opportunity for redemption awaits.
 After No. 2 UCLA men’s water polo (14-1, 1-1 MPSF) opened its conference play with one loss and one win last weekend, it will face No. 
 
- 
+<br> 
 
 <https://dailybruin.com/2024/10/10/weekend-in-preview-oct-10/>
 
@@ -153,7 +140,7 @@ date: 2024-10-10, from: The Daily Bruin (UCLA Student Newspaper)
 An ever-evolving sound is just the beginning for Ava August.
 The first-year music industry student released her latest single, &#8220;The End,&#8221; on Thursday with a video to follow Friday. 
 
- 
+<br> 
 
 <https://dailybruin.com/2024/10/10/american-idol-alumnus-ava-august-reclaims-confidence-through-self-written-songs/>
 
@@ -167,7 +154,7 @@ date: 2024-10-10, from: The Daily Bruin (UCLA Student Newspaper)
 Despite a shaky first round, the Bruins bounced back.
 Traveling to Illinois for the second time in one week, No. 
 
- 
+<br> 
 
 <https://dailybruin.com/2024/10/10/after-tough-start-womens-golf-rebounds-to-4th-at-illini-womens-invitational/>
 
@@ -179,7 +166,7 @@ date: 2024-10-10, from: The Sundail (CSUN Student Newspaper)
 
   Literacy Pittsburgh, the region&#8217;s largest literacy provider, recently received a generous $50,000 donation from Laurel Foundation to support its College and Career Readiness program.  Laurel Foundation is a philanthropic... 
 
- 
+<br> 
 
 <https://sundial.csun.edu/186051/sundialbrandstudio/sundial-marketplace/literacy-pittsburgh-advances-cordelia-scaife-mays-vision-of-american-empowerment-through-laurel-foundations-support/>
 
@@ -191,7 +178,7 @@ date: 2024-10-10, from: The Sundail (CSUN Student Newspaper)
 
 Source: Unsplash All the birthdays are special, but celebrating 18 makes the bells sound a bit louder. Locanto Los Angeles, just turned 18 on July 27th. Over all these years,... 
 
- 
+<br> 
 
 <https://sundial.csun.edu/186046/sundialbrandstudio/sundial-marketplace/locanto-los-angeles-marks-18-years-with-fresh-innovations/>
 
@@ -205,7 +192,7 @@ date: 2024-10-10, from: The Daily Bruin (UCLA Student Newspaper)
 Facing the nation&#8217;s second-best team brings high stakes, nerves and pressure.
 All that intensifies, though, as the postseason looms and a playoff berth dangles in the distance. 
 
- 
+<br> 
 
 <https://dailybruin.com/2024/10/10/ucla-mens-soccer-to-take-on-no-2-ohio-state-as-race-for-playoffs-heats-up/>
 
@@ -220,7 +207,7 @@ The Golden State Valkyries have hired Natalie Nakase as their first head coach, 
 Nakase, a member of UCLA women’s basketball from 1998 to 2003, will spearhead the Valkyries after serving as the Las Vegas Aces’ assistant coach since February 2022.&#160;
 After forming a partnership with the Golden State Warriors earlier this year, the Valkyries were announced as the WNBA’s 13th team Oct. 
 
- 
+<br> 
 
 <https://dailybruin.com/2024/10/10/golden-state-valkyries-hire-former-ucla-captain-natalie-nakase-as-first-head-coach/>
 
@@ -232,7 +219,7 @@ date: 2024-10-10, from: The Daily Bruin (UCLA Student Newspaper)
 
 &#8220;Beyond the Statute&#8221; is a series created by Sierra Benayon-Abraham, an assistant Opinion editor and third-year public health student. In these columns, she will be exploring various public health policies, laws and experiences that different marginalized communities encounter, along with the truths behind them. 
 
- 
+<br> 
 
 <https://dailybruin.com/2024/10/10/beyond-the-statute-from-young-to-old-women-have-been-actively-denied-access-to-adequate-health-care/>
 
@@ -246,7 +233,7 @@ date: 2024-10-10, from: The Canyon News (COC Student Newspaper)
 <p>The post <a href="https://canyonsnews.com/thepurple-walk-helps-rasie-funds-to-support-domestic-violence-survivors/">The annual “Purple Walk” helps rasie funds to support domestic violence survivors</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
  
 
- 
+<br> 
 
 <https://canyonsnews.com/thepurple-walk-helps-rasie-funds-to-support-domestic-violence-survivors/>
 
@@ -258,7 +245,7 @@ date: 2024-10-10, from: Nieman Journalism Lab
 
 If a webpage ever seems slow, there&#8217;s one thing that&#8217;s unlikely to be the culprit: its text. Unlike images, videos, or interactive elements, words get encoded into tiny, hyper-efficient packages. War and Peace has more than 560,000 words, but you can cram them all into 3.2 megabytes as plain text. That&#8217;s slightly smaller than this... 
 
- 
+<br> 
 
 <https://www.niemanlab.org/2024/10/with-hurricane-milton-looming-npr-stations-got-a-lower-bandwidth-way-to-reach-residents/>
 
@@ -270,7 +257,7 @@ date: 2024-10-10, from: Nieman Journalism Lab
 
 There&#8217;s one question I get every time I give a talk. I&#8217;m a curator of political history at the Smithsonian Institution, and when I discuss the deep history of political division in our country, someone in the audience always asserts that we can&#8217;t possibly compare past divisions to the present, because our media landscape is... 
 
- 
+<br> 
 
 <https://www.niemanlab.org/2024/10/how-a-19th-century-news-revolution-sparked-activists-influencers-disinformation-and-the-civil-war/>
 
@@ -282,7 +269,7 @@ date: 2024-10-10, from: The Daily Bruin (UCLA Student Newspaper)
 
 When I first learned about coffee chats, I thought I would never incorporate them into my life. I despise coffee, and I dreaded the idea of talking to a stranger without a quick exit. 
 
- 
+<br> 
 
 <https://dailybruin.com/2024/10/09/opinion-appreciating-the-value-of-connection-one-coffee-chat-at-a-time/>
 
@@ -296,7 +283,7 @@ date: 2024-10-10, from: The Daily Bruin (UCLA Student Newspaper)
 For years, Laura Chávez-Moreno has explored how bilingual education programs shape students’ identities.
 Chávez-Moreno, an assistant professor of education and Chicana/o and Central American studies, said she wished she had access to a bilingual program during her own education. 
 
- 
+<br> 
 
 <https://dailybruin.com/2024/10/09/laura-chvez-moreno-explores-race-identity-in-bilingual-education-programs/>
 
@@ -309,7 +296,7 @@ date: 2024-10-10, from: The Daily Bruin (UCLA Student Newspaper)
 Despite a strong start, the Bruins were unable to capitalize on their final day of play.
 At the conclusion of the first day of the Fighting Irish Classic, UCLA men&#8217;s golf sat in third place. 
 
- 
+<br> 
 
 <https://dailybruin.com/2024/10/09/ucla-mens-golf-finishes-7th-in-fighting-irish-classic/>
 
@@ -323,7 +310,7 @@ date: 2024-10-09, from: The Daily Trojan (USC Student Newspaper)
 <p>The post <a href="https://dailytrojan.com/2024/10/09/pro-palestinian-protesters-march-entrances-close-following-study-in/">Pro-Palestinian group participates in study-in</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
- 
+<br> 
 
 <https://dailytrojan.com/2024/10/09/pro-palestinian-protesters-march-entrances-close-following-study-in/>
 
@@ -336,7 +323,7 @@ date: 2024-10-09, from: The Daily Bruin (UCLA Student Newspaper)
 <em>This post was updated Oct. 10 at 8:42 p.m.</em>
 At the Getty Center, celebrating the diversity of Indigenous people is best represented through an array of art. 
 
- 
+<br> 
 
 <https://dailybruin.com/2024/10/09/getty-center-hosts-celebrating-indigenous-peoples-day-celebrates-native-cultures/>
 
@@ -350,7 +337,7 @@ date: 2024-10-09, from: The Daily Bruin (UCLA Student Newspaper)
 Union members and nurses rallied Wednesday morning to demand housing support and increased wages ahead of contract negotiations with the UC.&#160;
 The protesters were led by American Federation of State, County and Municipal Employees Local 3299, which represents patient care and service workers at the university, and were joined by the California Nurses Association, which represents registered nurses. 
 
- 
+<br> 
 
 <https://dailybruin.com/2024/10/09/afscme-local-3299-nurses-picket-to-demand-higher-wages-better-working-conditions/>
 
@@ -363,7 +350,7 @@ date: 2024-10-09, from: The Daily Bruin (UCLA Student Newspaper)
 Hundreds of people attended a vigil Monday evening to observe the one-year anniversary of the Oct. 7, 2023, attacks. 
 The attacks on Israel by Hamas &#8211; a militant group and Palestinian political party &#8211; killed at least 1,200 Israelis and led to nearly 250 hostages captured, according to ABC News. 
 
- 
+<br> 
 
 <https://dailybruin.com/2024/10/09/jewish-organizations-host-vigil-on-1-year-anniversary-of-oct-7-hamas-attack/>
 
@@ -375,7 +362,7 @@ date: 2024-10-09, from: Nieman Journalism Lab
 
 Pop culture, viral dances, and comedy are big on TikTok. News and politics? Not so much. A new report from the Pew Research Center finds that Americans on TikTok follow very few politicians, journalists, or traditional media outlets. In fact, the typical U.S. adult on TikTok follows zero accounts in those categories. For the new... 
 
- 
+<br> 
 
 <https://www.niemanlab.org/2024/10/the-typical-american-tiktok-user-doesnt-follow-a-single-journalist-or-traditional-media-outlet/>
 
@@ -387,7 +374,7 @@ date: 2024-10-09, from: Nieman Journalism Lab
 
 Whether on the web or the app, the home page of The New York Times is a crucial gateway, setting the stage for readers’ experiences and guiding them to the most important news of the day. The Times publishes over 250 stories daily, far more than the 50 to 60 stories that can be featured... 
 
- 
+<br> 
 
 <https://www.niemanlab.org/2024/10/how-the-new-york-times-incorporates-editorial-judgment-in-algorithms-to-curate-its-home-page/>
 
@@ -401,7 +388,7 @@ date: 2024-10-09, from: The Occidental News (Occidental College Student Newspape
 <p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2024/10/09/artist-of-the-week-from-behind-the-camera-patio-production-brings-passion-and-creativity-to-life/2913260">Artist of the Week: From behind the camera, Patio Production brings passion and creativity to life</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
  
 
- 
+<br> 
 
 <https://theoccidentalnews.com/culture/2024/10/09/artist-of-the-week-from-behind-the-camera-patio-production-brings-passion-and-creativity-to-life/2913260>
 
@@ -415,7 +402,7 @@ date: 2024-10-09, from: The Occidental News (Occidental College Student Newspape
 <p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2024/10/09/radical-self-love-book-club-provides-a-platform-for-marginalized-voices-to-stretch-and-grow/2913265">Radical Self-Love Book Club provides a platform for marginalized voices to stretch and grow</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
  
 
- 
+<br> 
 
 <https://theoccidentalnews.com/culture/2024/10/09/radical-self-love-book-club-provides-a-platform-for-marginalized-voices-to-stretch-and-grow/2913265>
 
@@ -429,7 +416,7 @@ date: 2024-10-09, from: The Occidental News (Occidental College Student Newspape
 <p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2024/10/09/alex-holmes-explores-anxiety-with-senior-thesis-film-boiling-point/2913267">Alex Holmes explores anxiety with senior thesis film, &#8216;Boiling Point&#8217;</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
  
 
- 
+<br> 
 
 <https://theoccidentalnews.com/culture/2024/10/09/alex-holmes-explores-anxiety-with-senior-thesis-film-boiling-point/2913267>
 
@@ -443,7 +430,7 @@ date: 2024-10-09, from: The Occidental News (Occidental College Student Newspape
 <p>The post <a rel="nofollow" href="https://theoccidentalnews.com/sports/2024/10/09/flosports-adds-sciac-to-its-roster-with-multi-year-livestreaming-partnership/2913250">FloSports adds SCIAC to its roster with multi-year livestreaming partnership</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
  
 
- 
+<br> 
 
 <https://theoccidentalnews.com/sports/2024/10/09/flosports-adds-sciac-to-its-roster-with-multi-year-livestreaming-partnership/2913250>
 
@@ -457,7 +444,7 @@ date: 2024-10-09, from: The Occidental News (Occidental College Student Newspape
 <p>The post <a rel="nofollow" href="https://theoccidentalnews.com/opinions/2024/10/09/opinion-how-can-you-not-be-romantic-about-baseball/2913274">Opinion: How can you not be romantic about baseball?</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
  
 
- 
+<br> 
 
 <https://theoccidentalnews.com/opinions/2024/10/09/opinion-how-can-you-not-be-romantic-about-baseball/2913274>
 
@@ -471,7 +458,7 @@ date: 2024-10-09, from: The Occidental News (Occidental College Student Newspape
 <p>The post <a rel="nofollow" href="https://theoccidentalnews.com/sports/2024/10/09/athletes-of-the-week-bosanacs-offense-and-channells-defense-bring-energy-to-occidentals-fall-sports-season/2913247">Athletes of the Week: Bosanac’s offense and Channell’s defense bring energy to Occidental’s fall sports season</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
  
 
- 
+<br> 
 
 <https://theoccidentalnews.com/sports/2024/10/09/athletes-of-the-week-bosanacs-offense-and-channells-defense-bring-energy-to-occidentals-fall-sports-season/2913247>
 
@@ -485,7 +472,7 @@ date: 2024-10-09, from: The Occidental News (Occidental College Student Newspape
 <p>The post <a rel="nofollow" href="https://theoccidentalnews.com/opinions/2024/10/09/opinion-where-will-nainai-go/2913277">Opinion: Where will Nǎinai go?</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
  
 
- 
+<br> 
 
 <https://theoccidentalnews.com/opinions/2024/10/09/opinion-where-will-nainai-go/2913277>
 
@@ -499,7 +486,7 @@ date: 2024-10-09, from: The Occidental News (Occidental College Student Newspape
 <p>The post <a rel="nofollow" href="https://theoccidentalnews.com/opinions/2024/10/09/opinion-jd-vance-flunks-the-beer-test-and-the-debate/2913280">Opinion: JD Vance flunks the beer test—and the debate</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
  
 
- 
+<br> 
 
 <https://theoccidentalnews.com/opinions/2024/10/09/opinion-jd-vance-flunks-the-beer-test-and-the-debate/2913280>
 
@@ -513,7 +500,7 @@ date: 2024-10-09, from: The Occidental News (Occidental College Student Newspape
 <p>The post <a rel="nofollow" href="https://theoccidentalnews.com/community/2024/10/09/special-tacos-here-and-there-taco-trucks-are-vital-to-the-occidental-community/2913286">&#8216;Special tacos here and there&#8217;: taco trucks are vital to the Occidental community</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
  
 
- 
+<br> 
 
 <https://theoccidentalnews.com/community/2024/10/09/special-tacos-here-and-there-taco-trucks-are-vital-to-the-occidental-community/2913286>
 
@@ -527,7 +514,7 @@ date: 2024-10-09, from: The Occidental News (Occidental College Student Newspape
 <p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/10/09/black-woman-owned-bookstores-in-la-offer-spaces-of-resilience-and-representation/2913288">Black woman-owned bookstores in LA offer spaces of resilience and representation</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
  
 
- 
+<br> 
 
 <https://theoccidentalnews.com/news/2024/10/09/black-woman-owned-bookstores-in-la-offer-spaces-of-resilience-and-representation/2913288>
 
@@ -541,7 +528,7 @@ date: 2024-10-09, from: The Daily Trojan (USC Student Newspaper)
 <p>The post <a href="https://dailytrojan.com/2024/10/09/218297/">Is Lincoln Riley on the hot seat?</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
- 
+<br> 
 
 <https://dailytrojan.com/2024/10/09/218297/>
 
@@ -555,7 +542,7 @@ date: 2024-10-09, from: The Daily Trojan (USC Student Newspaper)
 <p>The post <a href="https://dailytrojan.com/2024/10/09/musselman-mens-basketball-burst-into-first-fall-practices/">Musselman, men’s basketball burst into first fall practices</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
- 
+<br> 
 
 <https://dailytrojan.com/2024/10/09/musselman-mens-basketball-burst-into-first-fall-practices/>
 
@@ -569,7 +556,7 @@ date: 2024-10-09, from: The Daily Trojan (USC Student Newspaper)
 <p>The post <a href="https://dailytrojan.com/2024/10/09/why-is-uscs-gameday-culture-so-bad/">Why is USC’s gameday culture so bad?</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
- 
+<br> 
 
 <https://dailytrojan.com/2024/10/09/why-is-uscs-gameday-culture-so-bad/>
 
@@ -583,7 +570,7 @@ date: 2024-10-09, from: The Daily Trojan (USC Student Newspaper)
 <p>The post <a href="https://dailytrojan.com/2024/10/09/volleyball-faces-oregon-ucla/">Volleyball faces Oregon, UCLA</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
- 
+<br> 
 
 <https://dailytrojan.com/2024/10/09/volleyball-faces-oregon-ucla/>
 
@@ -597,7 +584,7 @@ date: 2024-10-09, from: The Daily Trojan (USC Student Newspaper)
 <p>The post <a href="https://dailytrojan.com/2024/10/09/football-digs-deep-ahead-of-lion-fight/">Football digs deep ahead of lion fight</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
- 
+<br> 
 
 <https://dailytrojan.com/2024/10/09/football-digs-deep-ahead-of-lion-fight/>
 
@@ -611,7 +598,7 @@ date: 2024-10-09, from: The Daily Trojan (USC Student Newspaper)
 <p>The post <a href="https://dailytrojan.com/2024/10/09/senators-stakeholders-discuss-programming-assemblies-role/">Senators, stakeholders discuss programming assemblies’ role</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
- 
+<br> 
 
 <https://dailytrojan.com/2024/10/09/senators-stakeholders-discuss-programming-assemblies-role/>
 
@@ -625,7 +612,7 @@ date: 2024-10-09, from: The Daily Trojan (USC Student Newspaper)
 <p>The post <a href="https://dailytrojan.com/2024/10/09/usc-student-files-suit-against-the-city-of-los-angeles/">USC student files suit against the city of Los Angeles</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
- 
+<br> 
 
 <https://dailytrojan.com/2024/10/09/usc-student-files-suit-against-the-city-of-los-angeles/>
 
@@ -638,7 +625,7 @@ date: 2024-10-09, from: The Daily Bruin (UCLA Student Newspaper)
 Two UCLA diversity initiatives hosted a National Latinx Physician Day celebration Oct. 1 in the Neuroscience Research Building.
 This year marks the first time National LatinX Physician Day will be celebrated in California. 
 
- 
+<br> 
 
 <https://dailybruin.com/2024/10/09/national-latinx-physician-day-focuses-health-care-on-empathy-community/>
 
@@ -650,22 +637,9 @@ date: 2024-10-09, from: The Daily Bruin (UCLA Student Newspaper)
 
 A Jewish organization at UCLA hosted the West Coast debut of &#8220;October 7: In Their Own Words&#8221; &#8211; a verbatim play commemorating the victims of the Oct. 
 
- 
+<br> 
 
 <https://dailybruin.com/2024/10/09/hillel-at-ucla-hosts-west-coast-debut-of-play-october-7-in-their-own-words/>
-
----
-
-## Pro-Palestine demonstrators march in protest of 1 year of Israeli attacks in Gaza
-
-date: 2024-10-09, from: The Daily Bruin (UCLA Student Newspaper)
-
-Protesters marched in support of Palestine on Monday, one year after Israel began its retaliatory attacks in Gaza. 
-The rally &#8211; hosted by Students for Justice in Palestine at UCLA, Faculty for Justice in Palestine at UCLA, Graduate Students for Justice in Palestine at UCLA and the Palestine Solidarity Collective at UCLA &#8211; began at Dickson Court North around 4:30 p.m. 
-
- 
-
-<https://dailybruin.com/2024/10/09/pro-palestine-demonstrators-march-in-protest-of-1-year-of-israeli-attacks-in-gaza/>
 
 ---
 
@@ -677,7 +651,7 @@ date: 2024-10-09, from: The Daily Trojan (USC Student Newspaper)
 <p>The post <a href="https://dailytrojan.com/2024/10/09/classifieds-october-9-2024/">Classifieds &#8211; October 9, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
- 
+<br> 
 
 <https://dailytrojan.com/2024/10/09/classifieds-october-9-2024/>
 
@@ -691,7 +665,7 @@ date: 2024-10-09, from: The Daily Trojan (USC Student Newspaper)
 <p>The post <a href="https://dailytrojan.com/2024/10/09/harris-is-the-right-choice-but-we-deserve-better/">Harris is the right choice, but we deserve better</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
- 
+<br> 
 
 <https://dailytrojan.com/2024/10/09/harris-is-the-right-choice-but-we-deserve-better/>
 
@@ -705,7 +679,7 @@ date: 2024-10-09, from: The Daily Trojan (USC Student Newspaper)
 <p>The post <a href="https://dailytrojan.com/2024/10/09/la-influencer-culture-is-killing-the-nightclub/">LA influencer culture is killing the nightclub</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
- 
+<br> 
 
 <https://dailytrojan.com/2024/10/09/la-influencer-culture-is-killing-the-nightclub/>
 
@@ -719,7 +693,7 @@ date: 2024-10-09, from: The Daily Trojan (USC Student Newspaper)
 <p>The post <a href="https://dailytrojan.com/2024/10/09/capoeira-at-usc-makes-upside-down-the-right-side-up/">Capoeira at USC makes upside-down the right side up</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
- 
+<br> 
 
 <https://dailytrojan.com/2024/10/09/capoeira-at-usc-makes-upside-down-the-right-side-up/>
 
@@ -733,7 +707,7 @@ date: 2024-10-09, from: The Daily Trojan (USC Student Newspaper)
 <p>The post <a href="https://dailytrojan.com/2024/10/09/meow-and-me/">Meow and me</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
- 
+<br> 
 
 <https://dailytrojan.com/2024/10/09/meow-and-me/>
 
@@ -747,73 +721,9 @@ date: 2024-10-09, from: The Daily Trojan (USC Student Newspaper)
 <p>The post <a href="https://dailytrojan.com/2024/10/09/usc-sees-decrease-in-reported-ethnicity/">USC sees decrease in reported ethnicity</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
- 
+<br> 
 
 <https://dailytrojan.com/2024/10/09/usc-sees-decrease-in-reported-ethnicity/>
-
----
-
-## UCLA football’s loss to Penn State hints at greener pastures ahead
-
-date: 2024-10-09, from: The Daily Bruin (UCLA Student Newspaper)
-
-The search for moral victories and marginal improvements has become the norm for weeks.
-But after finishing out their four-game gauntlet, the Bruins have goals beyond merely competing. 
-
- 
-
-<https://dailybruin.com/2024/10/08/ucla-footballs-loss-to-penn-state-hints-at-greener-pastures-ahead/>
-
----
-
-## A year after Oct. 7, LMU community mourns and reflects
-
-date: 2024-10-09, from: Laloyolan (LMU Student Newspaper)
-
-Marking a year after Hamas launched a surprise attack on Israel, students and faculty gathered on campus — some in remembrance and mourning, others in protest and solidarity. 
-
- 
-
-<https://www.laloyolan.com/news/a-year-after-oct-7-lmu-community-mourns-and-reflects/article_1c8d6e06-948f-5031-8a81-8ddaca683714.html>
-
----
-
-## Gallery: UCLA football falls to Penn State in 4th straight loss after cross-country journey
-
-date: 2024-10-09, from: The Daily Bruin (UCLA Student Newspaper)
-
-UCLA football (1-4, 0-3 Big Ten) traveled to State College, Pennsylvania, to play then-No. 7 Penn State (5-0, 2-0), with UCLA ultimately losing its fourth straight game by a score of 27-11. 
-
- 
-
-<https://dailybruin.com/2024/10/08/gallery-ucla-football-falls-to-penn-state-in-4th-straight-loss-after-cross-country-journey/>
-
----
-
-## USAC passes resolution criticizing UCLA’s revised Time, Place and Manner policies
-
-date: 2024-10-09, from: The Daily Bruin (UCLA Student Newspaper)
-
-The Undergraduate Students Association Council unanimously passed a resolution criticizing UCLA&#8217;s interim Time, Place and Manner policies Oct. 1. 
-The resolution, primarily sponsored by General Representative Tommy Contreras, condemns the new TPM policies, which were announced in a BruinPost on Sept. 
-
- 
-
-<https://dailybruin.com/2024/10/08/usac-passes-resolution-criticizing-uclas-revised-time-place-and-manner-policies/>
-
----
-
-## UCPD appoints Scott Scheffler as new acting chief of police
-
-date: 2024-10-08, from: The Daily Bruin (UCLA Student Newspaper)
-
-This post was updated Oct. 9 at 1:03 a.m.
-The UCLA Police Department appointed a new acting chief for the second time this year.&#160;
-In what appears to be his first public appearance as acting police chief, UCPD posted a video of Scott Scheffler on X, formerly known as Twitter, on Monday with the caption, “A message from Acting Chief Scheffler.” Scheffler replaced the previous acting chief Gawin Gibson, who was placed on administrative leave Sept. 
-
- 
-
-<https://dailybruin.com/2024/10/08/ucpd-appoints-scott-scheffler-as-new-acting-chief-of-police/>
 
 ---
 
@@ -823,7 +733,7 @@ date: 2024-10-08, from: Nieman Journalism Lab
 
 In Havana, a phrase is widely printed on restaurant menus and displayed by shop owners: “exchange rate of the day.” This daily rate is used to calculate prices for U.S. dollars or euros, which are frequently used instead of Cuban pesos given the country&#8217;s ongoing economic crisis. What often goes unsaid is who, exactly, is... 
 
- 
+<br> 
 
 <https://www.niemanlab.org/2024/10/want-to-change-money-in-cuba-itll-probably-involve-an-exiled-news-outlet-and-ai/>
 
@@ -835,7 +745,7 @@ date: 2024-10-08, from: Nieman Journalism Lab
 
 Premium subscribers to the Spanish daily newspaper El País will now get full access to The New York Times and its supplemental products like Wirecutter, Cooking, and The Athletic. “This alliance reflects EL PAÍS’s desire to offer its readers the best and most demanding information available at a time of particular global tension due to... 
 
- 
+<br> 
 
 <https://www.niemanlab.org/2024/10/el-pais-sweetens-subscription-offering-with-full-access-to-the-new-york-times/>
 
@@ -847,7 +757,7 @@ date: 2024-10-08, from: The Sundail (CSUN Student Newspaper)
 
 As the sun set on Oct. 3, students gathered at the Student Recreation Center pool for a lively movie night, enjoying the action-pack film “Fall Guy” under the evening sky.... 
 
- 
+<br> 
 
 <https://sundial.csun.edu/185996/arts-entertainment/movie-night-magic-fall-guy-shines-at-src-pool/>
 
@@ -859,7 +769,7 @@ date: 2024-10-08, from: California Tech (Caltech Student Newspaper)
 
 The email stated the air conditioning system in the South Houses was down due to a broken chilled waterline. This by nature was already grim. 
 
- 
+<br> 
 
 <https://tech.caltech.edu/2024/10/08/very-warm-welcome/>
 
@@ -871,7 +781,7 @@ date: 2024-10-08, from: California Tech (Caltech Student Newspaper)
 
 Many who paid for these courses were extremely dissatisfied with both their poor quality and lack of transparency about Caltech’s involvement. 
 
- 
+<br> 
 
 <https://tech.caltech.edu/2024/10/08/outsourced-online-camp-backlash/>
 
@@ -883,7 +793,7 @@ date: 2024-10-08, from: California Tech (Caltech Student Newspaper)
 
 In a heartwarming story of alumni giving back, Caltech spinoff company Virtualitics has pledged $100,000 over five years to support cutting-edge artificial intelligence research at its alma mater. 
 
- 
+<br> 
 
 <https://tech.caltech.edu/2024/10/08/virtualitics-ai-research/>
 
@@ -895,7 +805,7 @@ date: 2024-10-08, from: California Tech (Caltech Student Newspaper)
 
 Welcome to the beginning of a new academic year! I hope it brings discovery, friendship, joy, and the right kinds of challenges—the ones that help you grow into your talents and feel a sense of pride upon accomplishment. 
 
- 
+<br> 
 
 <https://tech.caltech.edu/2024/10/08/academic-year-welcome/>
 
@@ -907,7 +817,7 @@ date: 2024-10-08, from: California Tech (Caltech Student Newspaper)
 
 There’s a good sandwich, nay, a great sandwich at Broad Café. Quite honestly, this sandwich is glorious. 
 
- 
+<br> 
 
 <https://tech.caltech.edu/2024/10/08/sandwich-lamentation/>
 
@@ -919,7 +829,7 @@ date: 2024-10-08, from: California Tech (Caltech Student Newspaper)
 
 New students, welcome to Caltech! There’s a lot of great places in and around Pasadena, ranging from flea markets, art stores, boba arcades, and free museums. 
 
- 
+<br> 
 
 <https://tech.caltech.edu/2024/10/08/pasadena-happenings/>
 
@@ -931,7 +841,7 @@ date: 2024-10-08, from: California Tech (Caltech Student Newspaper)
 
 Settebello is decorated in a very hipster-like industrial manner with hints of modernism. Every wall is lined with exposed brick, and ductwork peeks through the open ceiling, which, in the year 2024, are signs that this place is meant for twenty-seven year old software engineers on a date night&hellip; 
 
- 
+<br> 
 
 <https://tech.caltech.edu/2024/10/08/man-vs-mannion-man/>
 
@@ -943,7 +853,7 @@ date: 2024-10-08, from: California Tech (Caltech Student Newspaper)
 
 I chose this restaurant because I wanted to see if their food transported me back to some fantastic memories of Naples, as well as to see if this was a restaurant that students could escape to for a quick break from their academic rigors. 
 
- 
+<br> 
 
 <https://tech.caltech.edu/2024/10/08/man-vs-mannion-mannion/>
 
@@ -955,7 +865,7 @@ date: 2024-10-08, from: California Tech (Caltech Student Newspaper)
 
 What happened to the days when a man could simply enter 15 or 45 seconds, saying nothing of more creative inputs, like 0:42 or 6:09? 
 
- 
+<br> 
 
 <https://tech.caltech.edu/2024/10/08/big-microwave/>
 
@@ -967,7 +877,7 @@ date: 2024-10-08, from: California Tech (Caltech Student Newspaper)
 
 Unlike many other college institutions, Caltech gives us all the chance to take our first two terms of college on pass/fail, meaning that this is the perfect time to go out, explore, and have new experiences. 
 
- 
+<br> 
 
 <https://tech.caltech.edu/2024/10/08/side-quests-galore/>
 
@@ -979,7 +889,7 @@ date: 2024-10-08, from: California Tech (Caltech Student Newspaper)
 
 It has come to our attention that there is wrong information going around about Mailbox assignments. 
 
- 
+<br> 
 
 <https://tech.caltech.edu/2024/10/08/mailbox-alert/>
 
@@ -991,7 +901,7 @@ date: 2024-10-08, from: California Tech (Caltech Student Newspaper)
 
 The Keck Institute for Space Studies (KISS) at Caltech offers an incredible opportunity for graduate students and postdocs through its renowned KISS Affiliates program&hellip; 
 
- 
+<br> 
 
 <https://tech.caltech.edu/2024/10/08/kiss-affiliates/>
 
@@ -1003,7 +913,7 @@ date: 2024-10-08, from: California Tech (Caltech Student Newspaper)
 
 Sign-ups for undergraduate students to participate in the 2025 Student Faculty Conference (SFC) and Student Life and Experience Conference (SLEC) are now open. 
 
- 
+<br> 
 
 <https://tech.caltech.edu/2024/10/08/slec-sfc-signups/>
 
@@ -1015,7 +925,7 @@ date: 2024-10-08, from: California Tech (Caltech Student Newspaper)
 
 I don’t know if I’m just (un)lucky, but it feels quite often that I come across a broken sprinkler head gushing concerning amounts of water onto the adjacent sidewalk&hellip; 
 
- 
+<br> 
 
 <https://tech.caltech.edu/2024/10/08/leaky-sprinkler-scourge/>
 
@@ -1027,7 +937,7 @@ date: 2024-10-08, from: California Tech (Caltech Student Newspaper)
 
 In an email to the Caltech community on September 5, 2024, professors announced two changes to the Institute’s undergraduate admissions process—reinstating standardized testing and reducing the weight of athletics. 
 
- 
+<br> 
 
 <https://tech.caltech.edu/2024/10/08/ug-admissions-athletics/>
 
@@ -1039,7 +949,7 @@ date: 2024-10-08, from: California Tech (Caltech Student Newspaper)
 
 Caltech Women’s Soccer team had their second home game of the season this past Saturday in the Caltech North Field against La Verne. 
 
- 
+<br> 
 
 <https://tech.caltech.edu/2024/10/08/womens-soccer-highlight/>
 
@@ -1053,7 +963,7 @@ date: 2024-10-08, from: The Daily Trojan (USC Student Newspaper)
 <p>The post <a href="https://dailytrojan.com/2024/10/08/pro-palestinian-demonstrators-walkout-march-around-campus/">Pro-Palestinian demonstrators walkout, march around campus</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
- 
+<br> 
 
 <https://dailytrojan.com/2024/10/08/pro-palestinian-demonstrators-walkout-march-around-campus/>
 
@@ -1067,7 +977,7 @@ date: 2024-10-08, from: The Daily Trojan (USC Student Newspaper)
 <p>The post <a href="https://dailytrojan.com/2024/10/08/jewish-organizations-students-allies-remember-hamas-attacks-at-vigil/">Jewish organizations, students, allies remember Hamas attacks at vigil</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
- 
+<br> 
 
 <https://dailytrojan.com/2024/10/08/jewish-organizations-students-allies-remember-hamas-attacks-at-vigil/>
 
@@ -1081,7 +991,7 @@ date: 2024-10-08, from: The Daily Trojan (USC Student Newspaper)
 <p>The post <a href="https://dailytrojan.com/2024/10/08/classifieds-october-8-2024/">Classifieds &#8211; October 8, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
- 
+<br> 
 
 <https://dailytrojan.com/2024/10/08/classifieds-october-8-2024/>
 
@@ -1095,7 +1005,7 @@ date: 2024-10-08, from: The Daily Trojan (USC Student Newspaper)
 <p>The post <a href="https://dailytrojan.com/2024/10/08/usc-falls-to-the-trees-in-second-loss-this-season/">USC falls to the Trees in second loss this season</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
- 
+<br> 
 
 <https://dailytrojan.com/2024/10/08/usc-falls-to-the-trees-in-second-loss-this-season/>
 
@@ -1109,7 +1019,7 @@ date: 2024-10-08, from: The Daily Trojan (USC Student Newspaper)
 <p>The post <a href="https://dailytrojan.com/2024/10/08/athletics-are-helping-rejuvenate-endangered-languages/">Athletics are helping rejuvenate endangered languages</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
- 
+<br> 
 
 <https://dailytrojan.com/2024/10/08/athletics-are-helping-rejuvenate-endangered-languages/>
 
@@ -1123,7 +1033,7 @@ date: 2024-10-08, from: The Daily Trojan (USC Student Newspaper)
 <p>The post <a href="https://dailytrojan.com/2024/10/08/saturday-night-is-a-love-letter-to-comedy-creativity/">‘Saturday Night’ is a love letter to comedy, creativity</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
- 
+<br> 
 
 <https://dailytrojan.com/2024/10/08/saturday-night-is-a-love-letter-to-comedy-creativity/>
 
@@ -1137,7 +1047,7 @@ date: 2024-10-08, from: The Daily Trojan (USC Student Newspaper)
 <p>The post <a href="https://dailytrojan.com/2024/10/08/uc-berkeley-outlasted-at-uytengsu/">Trojans outlast UC Berkeley at Uytengsu</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
- 
+<br> 
 
 <https://dailytrojan.com/2024/10/08/uc-berkeley-outlasted-at-uytengsu/>
 
@@ -1151,7 +1061,7 @@ date: 2024-10-08, from: The Daily Trojan (USC Student Newspaper)
 <p>The post <a href="https://dailytrojan.com/2024/10/08/omar-apollo-displays-evergreen-talent-at-god-said-no-tour/">Omar Apollo displays evergreen talent at ‘God Said No’ tour</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
- 
+<br> 
 
 <https://dailytrojan.com/2024/10/08/omar-apollo-displays-evergreen-talent-at-god-said-no-tour/>
 
@@ -1163,21 +1073,9 @@ date: 2024-10-08, from: The Sundail (CSUN Student Newspaper)
 
 In the building across from the Student Recreation Center (SRC), the Games Room can be found. There are a variety of games available for students to enjoy, and many seats... 
 
- 
+<br> 
 
 <https://sundial.csun.edu/185984/arts-entertainment/rocket-league-tournament-brings-excitement-to-csuns-game-room/>
-
----
-
-## BREAKING: President Timothy Law Snyder to retire at the end of 2024-25 academic year
-
-date: 2024-10-07, from: Laloyolan (LMU Student Newspaper)
-
-President Timothy Law Snyder, Ph.D., will conclude his 10th year as LMU’s president in May 2025. 
-
- 
-
-<https://www.laloyolan.com/news/breaking-president-timothy-law-snyder-to-retire-at-the-end-of-2024-25-academic-year/article_56144ee0-84f5-11ef-85fa-13ae8fca48ff.html>
 
 ---
 
@@ -1189,7 +1087,7 @@ date: 2024-10-07, from: The Daily Trojan (USC Student Newspaper)
 <p>The post <a href="https://dailytrojan.com/2024/10/07/breaking-lapd-bomb-threat/">LAPD concludes bomb threat investigation near fire station</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
- 
+<br> 
 
 <https://dailytrojan.com/2024/10/07/breaking-lapd-bomb-threat/>
 
@@ -1201,7 +1099,7 @@ date: 2024-10-07, from: The Sundail (CSUN Student Newspaper)
 
 Life at the start of a new semester is never easy. Click here for an insight into what it’s like. 
 
- 
+<br> 
 
 <https://sundial.csun.edu/185980/sundialbrandstudio/sundial-marketplace/life-at-the-start-of-a-new-semester/>
 
@@ -1213,7 +1111,7 @@ date: 2024-10-07, from: Nieman Journalism Lab
 
 One year ago today, the Palestinian group Hamas launched a massive wave of attacks into southern Israel — an assault that included more than 4,000 rockets fired, the taking of hundreds of hostages, and massacres of civilians. More than 1,100 Israelis were killed within a span of hours. Israel launched an immediate counterattack on Gaza,... 
 
- 
+<br> 
 
 <https://www.niemanlab.org/2024/10/one-year-in-the-israel-gaza-war-has-cost-more-than-120-journalists-their-lives/>
 
@@ -1225,7 +1123,7 @@ date: 2024-10-07, from: The Sundail (CSUN Student Newspaper)
 
 Image source In personal injury cases, victims sometimes suffer more than just financial losses. They may experience emotional disturbances as well. While calculating compensation for medical bills and lost wages... 
 
- 
+<br> 
 
 <https://sundial.csun.edu/185974/sundialbrandstudio/independent-legal-guide/how-personal-injury-lawyers-approach-claims-with-non-economic-damages/>
 
@@ -1237,7 +1135,7 @@ date: 2024-10-07, from: Nieman Journalism Lab
 
 When the podcast S-Town came out in 2017, it rode into the audio world on the crest of a wave that had been created by its sister podcast Serial just three years earlier. If you worked in audio, spirits were high: money was pouring in, and podcast studios — divorced from the public radio stations... 
 
- 
+<br> 
 
 <https://www.niemanlab.org/2024/10/the-former-host-of-s-town-has-a-new-subject-to-investigate-journalism/>
 
@@ -1249,7 +1147,7 @@ date: 2024-10-07, from: Nieman Journalism Lab
 
 In Drinks for Five, the second episode of Question Everything, host Brian Reed collected four fellow journalists — Ira Glass and Zoe Chace, both of This American Life, Astead Herndon, politics reporter at the New York Times, and Pulitzer Prize-winning author Jonathan Eig — in a wine store in Brooklyn to discuss the nature of their... 
 
- 
+<br> 
 
 <https://www.niemanlab.org/2024/10/whats-the-journalism-we-can-make-for-people-who-dont-trust-journalism/>
 
@@ -1263,7 +1161,7 @@ date: 2024-10-07, from: The Daily Trojan (USC Student Newspaper)
 <p>The post <a href="https://dailytrojan.com/2024/10/07/a-year-of-genocide/">After a year of genocide, what will it take for USC to divest?</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
- 
+<br> 
 
 <https://dailytrojan.com/2024/10/07/a-year-of-genocide/>
 
@@ -1277,7 +1175,7 @@ date: 2024-10-07, from: The Daily Trojan (USC Student Newspaper)
 <p>The post <a href="https://dailytrojan.com/2024/10/07/classifieds-october-7-2024/">Classifieds &#8211; October 7, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
- 
+<br> 
 
 <https://dailytrojan.com/2024/10/07/classifieds-october-7-2024/>
 
@@ -1291,7 +1189,7 @@ date: 2024-10-07, from: The Daily Trojan (USC Student Newspaper)
 <p>The post <a href="https://dailytrojan.com/2024/10/07/sda-panel-encourages-students-to-use-their-voice/">SDA panel encourages students to use their voice</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
- 
+<br> 
 
 <https://dailytrojan.com/2024/10/07/sda-panel-encourages-students-to-use-their-voice/>
 
@@ -1305,7 +1203,7 @@ date: 2024-10-07, from: The Daily Trojan (USC Student Newspaper)
 <p>The post <a href="https://dailytrojan.com/2024/10/07/joker-folie-a-deux-says-a-whole-lot-of-nothing/">‘Joker: Folie à Deux’ says a whole lot of nothing</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
- 
+<br> 
 
 <https://dailytrojan.com/2024/10/07/joker-folie-a-deux-says-a-whole-lot-of-nothing/>
 
@@ -1319,7 +1217,7 @@ date: 2024-10-07, from: The Daily Trojan (USC Student Newspaper)
 <p>The post <a href="https://dailytrojan.com/2024/10/07/usc-trojan-food-pantry-relocates-strives-to-run-long-term/">USC Trojan Food Pantry relocates, strives to run long term</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
- 
+<br> 
 
 <https://dailytrojan.com/2024/10/07/usc-trojan-food-pantry-relocates-strives-to-run-long-term/>
 
@@ -1333,7 +1231,7 @@ date: 2024-10-07, from: The Daily Trojan (USC Student Newspaper)
 <p>The post <a href="https://dailytrojan.com/2024/10/07/womens-volleyball-defies-odds-two-straight-nights/">Women’s volleyball defies odds two straight nights</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
- 
+<br> 
 
 <https://dailytrojan.com/2024/10/07/womens-volleyball-defies-odds-two-straight-nights/>
 
@@ -1347,7 +1245,7 @@ date: 2024-10-07, from: The Daily Trojan (USC Student Newspaper)
 <p>The post <a href="https://dailytrojan.com/2024/10/07/iya-ernst-young-launch-entrepreneurship-program-for-women/">IYA, Ernst &#038; Young launch entrepreneurship program for women</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
- 
+<br> 
 
 <https://dailytrojan.com/2024/10/07/iya-ernst-young-launch-entrepreneurship-program-for-women/>
 
@@ -1361,7 +1259,7 @@ date: 2024-10-07, from: The Daily Trojan (USC Student Newspaper)
 <p>The post <a href="https://dailytrojan.com/2024/10/07/just-stop-oil-misses-the-purpose-of-protest/">Just Stop Oil misses the purpose of protest</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
- 
+<br> 
 
 <https://dailytrojan.com/2024/10/07/just-stop-oil-misses-the-purpose-of-protest/>
 
@@ -1375,7 +1273,7 @@ date: 2024-10-07, from: The Daily Trojan (USC Student Newspaper)
 <p>The post <a href="https://dailytrojan.com/2024/10/07/trojans-go-o-fer-in-midwest/">Trojans go o-fer in Midwest</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
- 
+<br> 
 
 <https://dailytrojan.com/2024/10/07/trojans-go-o-fer-in-midwest/>
 
@@ -1389,7 +1287,7 @@ date: 2024-10-07, from: The Daily Trojan (USC Student Newspaper)
 <p>The post <a href="https://dailytrojan.com/2024/10/07/rare-books-la-brings-literary-treasures-to-union-station/">Rare Books LA brings literary treasures to Union Station</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
- 
+<br> 
 
 <https://dailytrojan.com/2024/10/07/rare-books-la-brings-literary-treasures-to-union-station/>
 
@@ -1401,7 +1299,7 @@ date: 2024-10-06, from: The Sundail (CSUN Student Newspaper)
 
 On Sept. 30 at 7:30 p.m., the CSUN Music Entertainment Student Association (MESA) hosted the “Hip-Hop Music Panel: Chris “The Glove” Taylor, which was a discussion of the current state... 
 
- 
+<br> 
 
 <https://sundial.csun.edu/185953/arts-entertainment/beats-bars-and-wisdom-hip-hop-icons-take-the-stage-at-csun/>
 
@@ -1413,7 +1311,7 @@ date: 2024-10-06, from: The Sundail (CSUN Student Newspaper)
 
 The GRAMMY Museum hosted a discussion on Saturday, Sept. 28, featuring award-winning Jamaican-British poet Raymond Antrobus and GRAMMY-winning producer Ian Brennan in celebration of Deaf Awareness Month. (From left to... 
 
- 
+<br> 
 
 <https://sundial.csun.edu/185959/arts-entertainment/grammy-museum-celebrates-deaf-awareness-month-with-poetic-dialogue/>
 
@@ -1425,7 +1323,7 @@ date: 2024-10-06, from: The Sundail (CSUN Student Newspaper)
 
 The CSUN men’s soccer team conceded late to draw with the Highlanders of UC Riverside in their Big West opener, and drew 1-1 at Matador Soccer Field. There was back-and-forth... 
 
- 
+<br> 
 
 <https://sundial.csun.edu/185947/sports/the-matadors-battle-in-a-1-1-draw-with-the-highlanders-in-big-west-opener/>
 

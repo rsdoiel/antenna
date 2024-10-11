@@ -1,11 +1,11 @@
 ---
 title: ham radio
-updated: 2024-10-11 07:08:27
+updated: 2024-10-11 08:58:07
 ---
 
 # ham radio
 
-(date: 2024-10-11 07:08:27)
+(date: 2024-10-11 08:58:07)
 
 ---
 
@@ -17,7 +17,7 @@ date: 2024-10-11, from: EDN Blog
 <p>The post <a href="https://www.edn.com/one-stop-advanced-packaging-solutions-for-chiplets/" data-wpel-link="internal">One-stop advanced packaging solutions for chiplets</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
- 
+<br> 
 
 <https://www.edn.com/one-stop-advanced-packaging-solutions-for-chiplets/>
 
@@ -31,7 +31,7 @@ date: 2024-10-10, from: EDN Blog
 <p>The post <a href="https://www.edn.com/pwm-controllers-drive-fets-and-igbts/" data-wpel-link="internal">PWM controllers drive FETs and IGBTs</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
- 
+<br> 
 
 <https://www.edn.com/pwm-controllers-drive-fets-and-igbts/>
 
@@ -45,7 +45,7 @@ date: 2024-10-10, from: EDN Blog
 <p>The post <a href="https://www.edn.com/system-performs-one-pass-wafer-test-up-to-3-kv/" data-wpel-link="internal">System performs one-pass wafer test up to 3 kV</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
- 
+<br> 
 
 <https://www.edn.com/system-performs-one-pass-wafer-test-up-to-3-kv/>
 
@@ -59,7 +59,7 @@ date: 2024-10-10, from: EDN Blog
 <p>The post <a href="https://www.edn.com/sink-controllers-ease-shift-to-usb-c-pd/" data-wpel-link="internal">Sink controllers ease shift to USB-C PD</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
- 
+<br> 
 
 <https://www.edn.com/sink-controllers-ease-shift-to-usb-c-pd/>
 
@@ -73,7 +73,7 @@ date: 2024-10-10, from: EDN Blog
 <p>The post <a href="https://www.edn.com/platform-advances-800g-ethernet-an-lt-validation/" data-wpel-link="internal">Platform advances 800G Ethernet AN/LT validation</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
- 
+<br> 
 
 <https://www.edn.com/platform-advances-800g-ethernet-an-lt-validation/>
 
@@ -87,7 +87,7 @@ date: 2024-10-10, from: EDN Blog
 <p>The post <a href="https://www.edn.com/tulip-antenna-delivers-360-stability-for-uwb/" data-wpel-link="internal">Tulip antenna delivers 360° stability for UWB</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
- 
+<br> 
 
 <https://www.edn.com/tulip-antenna-delivers-360-stability-for-uwb/>
 
@@ -99,7 +99,7 @@ date: 2024-10-10, from: Amateur Radio Relay League News
 
 <p><strong>Thursday, October 10, 2024 1:00 PM Eastern Update:</strong></p><p>The hurricane nets have each suspended operations as the focus shifts from response to recovery. <br /><br />More information to come via ARRL News and in <em>The ARRL Letter</em>. </p><hr /><p><strong>Thursday, October 10, 2024 9:30 AM Eastern Update:</strong></p><p>Amateur radio operators are in service across the State of Florida. The Florida SARNET has been placed in a restricted net condition to e...</p> 
 
- 
+<br> 
 
 <http://www.arrl.org/news/view/hurricane-milton-storm-updates>
 
@@ -113,7 +113,7 @@ date: 2024-10-10, from: EDN Blog
 <p>The post <a href="https://www.edn.com/analog-devices-approach-to-heterogeneous-debug/" data-wpel-link="internal">Analog Devices&#8217; approach to heterogeneous debug</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
- 
+<br> 
 
 <https://www.edn.com/analog-devices-approach-to-heterogeneous-debug/>
 
@@ -127,7 +127,7 @@ date: 2024-10-10, from: EDN Blog
 <p>The post <a href="https://www.edn.com/in-vehicle-passenger-detection-wi-fi-sensing-a-just-right-solution/" data-wpel-link="internal">In-vehicle passenger detection: Wi-Fi sensing a ‘just right’ solution</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
- 
+<br> 
 
 <https://www.edn.com/in-vehicle-passenger-detection-wi-fi-sensing-a-just-right-solution/>
 
@@ -141,7 +141,7 @@ date: 2024-10-09, from: EDN Blog
 <p>The post <a href="https://www.edn.com/implementing-enhanced-wear-leveling-on-standalone-eeprom/" data-wpel-link="internal">Implementing enhanced wear-leveling on standalone EEPROM</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
- 
+<br> 
 
 <https://www.edn.com/implementing-enhanced-wear-leveling-on-standalone-eeprom/>
 
@@ -155,21 +155,7 @@ date: 2024-10-08, from: EDN Blog
 <p>The post <a href="https://www.edn.com/improved-prtd-circuit-is-product-of-edn-di-teamwork/" data-wpel-link="internal">Improved PRTD circuit is product of EDN DI teamwork</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
- 
+<br> 
 
 <https://www.edn.com/improved-prtd-circuit-is-product-of-edn-di-teamwork/>
-
----
-
-## Disassembling a Cloud-compromised NAS
-
-date: 2024-10-07, from: EDN Blog
-
-<img width="1400" height="1755" src="https://www.edn.com/wp-content/uploads/frame_right-side.jpg?fit=1400%2C1755" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/frame_right-side.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/frame_right-side.jpg?w=239 239w, https://www.edn.com/wp-content/uploads/frame_right-side.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/frame_right-side.jpg?w=817 817w, https://www.edn.com/wp-content/uploads/frame_right-side.jpg?w=1225 1225w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>Endemic code compromises? A nexus IC’s retirement? Time to yank the cloud access on this network-attached storage, I guess.</p>
-<p>The post <a href="https://www.edn.com/disassembling-a-cloud-compromised-nas/" data-wpel-link="internal">Disassembling a Cloud-compromised NAS</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
- 
-
- 
-
-<https://www.edn.com/disassembling-a-cloud-compromised-nas/>
 

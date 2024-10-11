@@ -1,11 +1,11 @@
 ---
 title: motorcycles
-updated: 2024-10-11 07:08:33
+updated: 2024-10-11 08:58:13
 ---
 
 # motorcycles
 
-(date: 2024-10-11 07:08:33)
+(date: 2024-10-11 08:58:13)
 
 ---
 
@@ -15,7 +15,7 @@ date: 2024-10-11, from: Ride Apart, Electric Motorcycle News
 
 A not great snow year was also cited.  
 
- 
+<br> 
 
 <https://www.rideapart.com/news/736928/washington-closes-snowmobile-trails-2025-2026-season/>
 
@@ -27,7 +27,7 @@ date: 2024-10-11, from: Ride Apart, Electric Motorcycle News
 
 Paris changed a speed limit and effectively banned lane filtering, and riders aren't happy. 
 
- 
+<br> 
 
 <https://www.rideapart.com/news/736926/lane-filtering-paris-law-change/>
 
@@ -39,7 +39,7 @@ date: 2024-10-11, from: Ride Apart, Electric Motorcycle News
 
 The past will always define our future, no matter what we do.  
 
- 
+<br> 
 
 <https://www.rideapart.com/news/736775/dab-1a-transparent-edition-electric-motorcycle/>
 
@@ -51,7 +51,7 @@ date: 2024-10-11, from: Ride Apart, Electric Motorcycle News
 
 Get ready for worse public lands next year.  
 
- 
+<br> 
 
 <https://www.rideapart.com/news/736921/us-forest-service-budget-cut-seasonal-workers-hiring-freeze/>
 
@@ -63,7 +63,7 @@ date: 2024-10-11, from: Ride Apart, Electric Motorcycle News
 
 "Me? I say forget the science." is his exact quote.  
 
- 
+<br> 
 
 <https://www.rideapart.com/news/736905/arizona-citizen-motorcycle-lane-filtering-mesa-tribune-opinion/>
 
@@ -75,7 +75,7 @@ date: 2024-10-11, from: Ride Apart, Electric Motorcycle News
 
 It just might be the best-equipped bike in its class.  
 
- 
+<br> 
 
 <https://www.rideapart.com/news/736777/2025-triumph-trident-660-tech-updates/>
 
@@ -87,7 +87,7 @@ date: 2024-10-11, from: Kickin the Tires blog
 
 By Jerry Jordan, Editor EDITOR&#8217;S NOTE: Below are the latest filings in the federal antitrust lawsuit involving 23XI Racing and Front Row Motorsports versus NASCAR and James (Jim) France. Going&#8230;  
 
- 
+<br> 
 
 <https://kickinthetires.net/nascar/document-dump-latest-filings-in-the-antitrust-lawsuit-by-23xi-racing-and-front-row-motorsports-against-nascar/>
 
@@ -99,7 +99,7 @@ date: 2024-10-10, from: Ride Apart, Electric Motorcycle News
 
 This is "Must See TV". 
 
- 
+<br> 
 
 <https://www.rideapart.com/news/736615/mxon-final-two-laps-video/>
 
@@ -111,7 +111,7 @@ date: 2024-10-10, from: Ride Apart, Electric Motorcycle News
 
 The same solutions won't work for every market, so Honda is tailoring its options carefully to each region's needs. 
 
- 
+<br> 
 
 <https://www.rideapart.com/news/736767/honda-cuv-icon-ev-indonesia/>
 
@@ -123,7 +123,7 @@ date: 2024-10-10, from: Ride Apart, Electric Motorcycle News
 
 The AJS ‘71 Scrambler is as simple as it gets.  
 
- 
+<br> 
 
 <https://www.rideapart.com/news/736642/ajs-71-desert-scrambler-beginner-motorcycle/>
 
@@ -135,7 +135,7 @@ date: 2024-10-10, from: Ride Apart, Electric Motorcycle News
 
 These are the realities of racing, but it never gets any easier to hear. 
 
- 
+<br> 
 
 <https://www.rideapart.com/news/736758/french-rider-dies-rally-morocco/>
 
@@ -147,7 +147,7 @@ date: 2024-10-10, from: Ride Apart, Electric Motorcycle News
 
 No one is forcing you to buy one.  
 
- 
+<br> 
 
 <https://www.rideapart.com/news/736765/ktm-amt-automatic-transmission-is-good-thing/>
 
@@ -159,7 +159,7 @@ date: 2024-10-10, from: Ride Apart, Electric Motorcycle News
 
 Always check your o-rings, gaskets, and seals and you'll avoid so many headaches on every vehicle. 
 
- 
+<br> 
 
 <https://www.rideapart.com/news/736730/bmw-r18-recall-reverse-gear/>
 
@@ -171,7 +171,7 @@ date: 2024-10-10, from: Ride Apart, Electric Motorcycle News
 
 Its 150-mile range could leave a lot to be desired.  
 
- 
+<br> 
 
 <https://www.rideapart.com/news/736676/ariel-enomad-concept-unveiled/>
 
@@ -183,7 +183,7 @@ date: 2024-10-09, from: Ride Apart, Electric Motorcycle News
 
 The future of Gogoro ultimately remains very murky.  
 
- 
+<br> 
 
 <https://www.rideapart.com/news/736318/gogoro-in-trouble-ceo-resigns-legal-issues/>
 
@@ -195,7 +195,7 @@ date: 2024-10-09, from: Ride Apart, Electric Motorcycle News
 
 Is this how you want the future of the supersport category to look? 
 
- 
+<br> 
 
 <https://www.rideapart.com/news/736626/debut-2025-yamaha-yxf-r9-specs-price-overview/>
 
@@ -207,7 +207,7 @@ date: 2024-10-09, from: Ride Apart, Electric Motorcycle News
 
 For now.  
 
- 
+<br> 
 
 <https://www.rideapart.com/news/736636/blue-ridge-parkway-motorcycle-road-closed-tail-of-dragon-open/>
 
@@ -219,7 +219,7 @@ date: 2024-10-09, from: Ride Apart, Electric Motorcycle News
 
 Ready to drop out of a plane and into your heart right now. 
 
- 
+<br> 
 
 <https://www.rideapart.com/news/736628/vespa-tap-150-for-sale-rocket-launcher/>
 
@@ -231,81 +231,9 @@ date: 2024-10-09, from: Ride Apart, Electric Motorcycle News
 
 Come on, folks.  
 
- 
+<br> 
 
 <https://www.rideapart.com/news/736607/jet-ski-whale-encounter-jerk-riders-australia/>
-
----
-
-## KTM Needs To Chill, It Has Way Too Much Planned For EICMA
-
-date: 2024-10-09, from: Ride Apart, Electric Motorcycle News
-
-I guess that’s what you get for sitting out the past five years.  
-
- 
-
-<https://www.rideapart.com/news/736500/ktm-eicma-2024-announcement-new-tech-models/>
-
----
-
-## CFMoto Loses Its Mind, Flips The Script With Four New Motorcycles
-
-date: 2024-10-09, from: Ride Apart, Electric Motorcycle News
-
-These four new bikes have quite a lot of potential.  
-
- 
-
-<https://www.rideapart.com/news/736478/cfmoto-mtx-500sr-675srr-150sc-launch-philippines/>
-
----
-
-## Bell Helmets, Fox Racing, Giro and Others Were Just Sold Off, Fates Unclear
-
-date: 2024-10-08, from: Ride Apart, Electric Motorcycle News
-
-What will become of these iconic brands? 
-
- 
-
-<https://www.rideapart.com/news/736595/bell-helmets-revelyst-strategic-value-partners-private-equity-sale/>
-
----
-
-## Does Matte Green Make the Honda ADV 160 More Adventurous?
-
-date: 2024-10-08, from: Ride Apart, Electric Motorcycle News
-
-Honda should bring this color to the US like, right now.  
-
- 
-
-<https://www.rideapart.com/news/736325/2025-honda-adv160-matte-green-thailand/>
-
----
-
-## Panasonic’s Big Fat Battery Cells Are Set To Change The EV Game, Well Maybe
-
-date: 2024-10-08, from: Ride Apart, Electric Motorcycle News
-
-It’s the perfect example of less is more, but is it enough to change the EV game?  
-
- 
-
-<https://www.rideapart.com/news/736319/panasonic-4680-ev-battery-cells-coming-soon/>
-
----
-
-## Would You Rock This Very Silly-Looking Helmet-Mounted Windshield Wiper?
-
-date: 2024-10-08, from: Ride Apart, Electric Motorcycle News
-
-I don't know if I could stand that pointing and laughing... 
-
- 
-
-<https://www.rideapart.com/news/736444/motorcycle-helmet-windshield-wiper-bikerguard/>
 
 ---
 
@@ -315,7 +243,7 @@ date: 2024-10-07, from: Kickin the Tires blog
 
 By Vincent Delforge, Special to Kickin&#8217; the Tires Trevor Huddleston won the NAPA Auto Parts 150 presented by Berco Redwood on Saturday night, October 5, 2024 at the All American&#8230;  
 
- 
+<br> 
 
 <https://kickinthetires.net/nascar/arca-menards-series-west-2024-roseville-race-review/>
 
@@ -327,7 +255,7 @@ date: 2024-10-07, from: Kickin the Tires blog
 
 By Matt Courson, Staff Writer TALLADEGA, Ala. — Ricky Stenhouse edged Brad Keselowski to score his fourth career victory and second at Talladega Superspeedway. &#8220;We had our Chevy teammates behind&#8230;  
 
- 
+<br> 
 
 <https://kickinthetires.net/nascar/cup/stenhouse-claims-talladega-victory/>
 
@@ -339,7 +267,7 @@ date: 2024-10-06, from: Kickin the Tires blog
 
 TALLADEGA, Ala. — Kyle Larson was &#8220;very happy&#8221; with his fourth place finish in the Yellawood 500 at Talladega. The finish marks just his second top five Superspeedway finish in&#8230;  
 
- 
+<br> 
 
 <https://kickinthetires.net/nascar/cup/kyle-larson-ties-best-superspeedway-finish-of-career-at-talladega/>
 

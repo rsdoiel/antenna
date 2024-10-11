@@ -1,11 +1,47 @@
 ---
 title: food
-updated: 2024-10-11 07:08:35
+updated: 2024-10-11 08:58:15
 ---
 
 # food
 
-(date: 2024-10-11 07:08:35)
+(date: 2024-10-11 08:58:15)
+
+---
+
+## Artichoke-Topped Crab Bites
+
+date: 2024-10-11, from: Taste of Home
+
+This recipe is my take on crab cakes that I made into finger food for a party. The artichoke mixture on top really complements the crab. —Margee Berry, White Salmon, Washington 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/artichoke-topped-crab-bites/>
+
+---
+
+## Cookie Butter Puppy Chow
+
+date: 2024-10-11, from: Taste of Home
+
+In my extended family there are both nut and gluten allergies. I originally came up with this recipe because I wanted to bring an allergy-friendly dish to family potlucks that still tasted delicious and seasonal. It got such rave reviews that now I make it all throughout the holiday season. —Kristin Bowers, Gilbert, Arizona 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/cookie-butter-puppy-chow/>
+
+---
+
+## Falafel
+
+date: 2024-10-11, from: Bon Appetet
+
+Soaked, dried chickpeas, blended with a flurry of herbs and spices, are key to the best homemade falafel. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/homemade-falafel-recipe>
 
 ---
 
@@ -15,7 +51,7 @@ date: 2024-10-11, from: Bon Appetet
 
 Fruity cereal protein powder is surprisingly good. 
 
- 
+<br> 
 
 <https://www.bonappetit.com/story/best-whey-protein-powder>
 
@@ -27,7 +63,7 @@ date: 2024-10-11, from: Taste of Home
 
 A coworker gave me this recipe thirty years ago. I made a few changes to suit my family’s tastes. These hot cheese and spinach puffs are tasty and always well-received! They are super convenient since you can make them in advance and bake them later. —Kristine Chayes, Smithtown, New York 
 
- 
+<br> 
 
 <https://www.tasteofhome.com/recipes/cheesy-ranch-spinach-puffs/>
 
@@ -39,19 +75,19 @@ date: 2024-10-11, from: Daily Coffee News
 
 <div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Best-of-Yemen2-620x349.jpg" class="attachment-large size-large wp-post-image" alt="Best of Yemen2" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Best-of-Yemen2-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Best-of-Yemen2-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Best-of-Yemen2-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Best-of-Yemen2-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Best-of-Yemen2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at CoffeeIndustryJobs.com. Best of Yemen Auction Breaks Price and Participation... 
 
- 
+<br> 
 
 <https://dailycoffeenews.com/2024/10/11/weekly-coffee-news-auctions-galore-us-coffee-market-report/>
 
 ---
 
-## La Vieille Ferme's Viral Ascent as "Chicken Wine"
+## La Vieille Ferme's Viral Ascent as 'Chicken Wine'
 
 date: 2024-10-11, from: Bon Appetet
 
-The French wine La Vielle Ferme has been around since the '70s, but it's the latest brand to go viral. 
+The French wine La Vielle Ferme has been around since the ’70s, but it’s the latest brand to go viral. 
 
- 
+<br> 
 
 <https://www.bonappetit.com/story/la-vieille-ferme-chicken-wine-tiktok>
 
@@ -63,7 +99,7 @@ date: 2024-10-11, from: Pepper Scale
 
 Generally speaking, paprika is a mild spice. The form of it that is easiest to find in the west is used more for its ability to color dishes than for any ability to flavor them. Its mildness means that you have some leeway if you ... <p class="read-more-container"><a title="Too Much Paprika? Four Ways To Fix Your Dish" class="read-more button" href="https://pepperscale.com/too-much-paprika/#more-59022" aria-label="Read more about Too Much Paprika? Four Ways To Fix Your Dish">Read more</a></p> 
 
- 
+<br> 
 
 <https://pepperscale.com/too-much-paprika/>
 
@@ -77,7 +113,7 @@ date: 2024-10-11, from: Chili Pepper Madness
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/medianoche/">Cuban Medianoche Sandwich Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 
- 
+<br> 
 
 <https://www.chilipeppermadness.com/recipes/medianoche/>
 
@@ -89,7 +125,7 @@ date: 2024-10-11, from: Pepper Scale
 
 What&#8217;s better than&#160;the creamy, earthy flavor of cream of mushroom soup? How about adding a delicious cayenne-inspired kick? It&#8217;s a homey heat that&#8217;ll warm you right up in many different ways. This soup is so filling it&#8217;s like a meal of its own. The amount ... <p class="read-more-container"><a title="Spicy Mushroom Soup" class="read-more button" href="https://pepperscale.com/spicy-mushroom-soup/#more-8650" aria-label="Read more about Spicy Mushroom Soup">Read more</a></p> 
 
- 
+<br> 
 
 <https://pepperscale.com/spicy-mushroom-soup/>
 
@@ -101,7 +137,7 @@ date: 2024-10-11, from: Pepper Scale
 
 Ginger snaps always deliver a decent warmth due to the&#8230;you guessed it&#8230;ginger, along with cinnamon, and cloves. But why not turn that warmth into actual sizzle? Spicy ginger snap cookies do just that. A little cayenne pepper powder packs a little pop to that snap. ... <p class="read-more-container"><a title="Spicy Ginger Snap Cookies" class="read-more button" href="https://pepperscale.com/spicy-ginger-snap-cookies/#more-8972" aria-label="Read more about Spicy Ginger Snap Cookies">Read more</a></p> 
 
- 
+<br> 
 
 <https://pepperscale.com/spicy-ginger-snap-cookies/>
 
@@ -113,7 +149,7 @@ date: 2024-10-11, from: Pepper Scale
 
 This is where super spicy meets satisfyingly simple. Rich with tomato, onion, and classic Indian spices, our spicy masala eggs are fired by cayenne peppers and brightened with lemon juice. Those big-hitting flavors are paired with the creamy, softly spiced, rice-and-lentil delight called khichdi. If ... <p class="read-more-container"><a title="Spicy Masala Eggs With Khichdi " class="read-more button" href="https://pepperscale.com/spicy-masala-eggs-with-khichdi/#more-92543" aria-label="Read more about Spicy Masala Eggs With Khichdi ">Read more</a></p> 
 
- 
+<br> 
 
 <https://pepperscale.com/spicy-masala-eggs-with-khichdi/>
 
@@ -125,7 +161,7 @@ date: 2024-10-11, from: Pepper Scale
 
 Fermented hot sauce and unfermented hot sauce are the two main options when making (or purchasing) hot sauce. The two processes result in very different products, even though the ingredients are very similar. Let&#8217;s break down the differences between the two in simple terms, so ... <p class="read-more-container"><a title="Fermented Vs. Unfermented Hot Sauce — How Do They Compare?" class="read-more button" href="https://pepperscale.com/fermented-vs-unfermented-hot-sauce/#more-53147" aria-label="Read more about Fermented Vs. Unfermented Hot Sauce — How Do They Compare?">Read more</a></p> 
 
- 
+<br> 
 
 <https://pepperscale.com/fermented-vs-unfermented-hot-sauce/>
 
@@ -139,7 +175,7 @@ date: 2024-10-11, from: The Fresh Cup
 <p>The post <a href="https://freshcup.com/how-to-find-an-espresso-machine-technician/">How To Find: An Espresso Machine Technician</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
  
 
- 
+<br> 
 
 <https://freshcup.com/how-to-find-an-espresso-machine-technician/>
 
@@ -151,7 +187,7 @@ date: 2024-10-11, from: Bon Appetet
 
 Like fresh pasta and chipless cookies. 
 
- 
+<br> 
 
 <https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-october-2024>
 
@@ -167,7 +203,7 @@ date: 2024-10-11, from: Isebel Eats
 	</div>
 	Ready in only 10 minutes, this homemade chili powder is simple, quick, and incredibly flavorful. Made from whole dried guajillo chilies and a few other simple seasonings, you won’t miss the store-bought version. It&#8217;s perfect for using in chilis, tacos, salsas, sauces, sides, and pretty much anything you can think of! Chili powder is an [&#8230;] 
 
- 
+<br> 
 
 <https://www.isabeleats.com/homemade-chili-powder/>
 
@@ -179,7 +215,7 @@ date: 2024-10-10, from: Taste of Home
 
 Asparagus fans will delight in this simple asparagus casserole that's creamy, easy to make and pairs well with many dishes. While fresh asparagus is best here, you can also make it with canned or thawed asparagus. 
 
- 
+<br> 
 
 <https://www.tasteofhome.com/recipes/asparagus-casserole/>
 
@@ -191,7 +227,7 @@ date: 2024-10-10, from: Taste of Home
 
 Recreate the taste of summer with this homemade peach milkshake recipe, inspired by Chick-fil-A’s seasonal favorite. Made with fresh and frozen peaches and creamy vanilla ice cream, our version easily rivals the original. 
 
- 
+<br> 
 
 <https://www.tasteofhome.com/recipes/copycat-chick-fil-a-peach-milkshake/>
 
@@ -203,7 +239,7 @@ date: 2024-10-10, from: Taste of Home
 
 This peach syrup might just become one of your go-to recipes during peach season. The quick and easy puree is a wonderful way to bring that fresh peach flavor to waffles and pancakes, desserts, beverages and more. 
 
- 
+<br> 
 
 <https://www.tasteofhome.com/recipes/peach-syrup/>
 
@@ -217,7 +253,7 @@ date: 2024-10-10, from: Taste of Home
 <p>The post <a href="https://www.tasteofhome.com/article/krispy-kreme-ghostbusters-doughnuts/">Krispy Kreme Just Added Ghostbusters Doughnuts to Its Menu</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
  
 
- 
+<br> 
 
 <https://www.tasteofhome.com/article/krispy-kreme-ghostbusters-doughnuts/>
 
@@ -231,7 +267,7 @@ date: 2024-10-10, from: Taste of Home
 <p>The post <a href="https://www.tasteofhome.com/article/taco-bell-double-decker-taco/">Taco Bell Just Brought Back Its Famous Double Decker Taco</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
  
 
- 
+<br> 
 
 <https://www.tasteofhome.com/article/taco-bell-double-decker-taco/>
 
@@ -243,7 +279,7 @@ date: 2024-10-10, from: Taste of Home
 
 <span style="font-weight: 400;">The secret to this satisfying homemade banana ice cream is fresh fruit, and few fruits are more affordable or versatile than the </span><span style="font-weight: 400;">humble banana. </span><span style="font-weight: 400;">Betcha can’t stop at just one scoop!</span> 
 
- 
+<br> 
 
 <https://www.tasteofhome.com/recipes/best-banana-ice-cream/>
 
@@ -255,7 +291,7 @@ date: 2024-10-10, from: The Sprudge
 
 <strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Nominations close October 11th.  
 
- 
+<br> 
 
 <https://sprudge.com/the-second-annual-sprudge-design-awards-entries-are-closing-soon-256784.html>
 
@@ -267,7 +303,7 @@ date: 2024-10-10, from: Bon Appetet
 
 Because if you’re into food, you’re probably into candles, too. 
 
- 
+<br> 
 
 <https://www.bonappetit.com/story/the-ultimate-candle-gift-guide>
 
@@ -281,7 +317,7 @@ date: 2024-10-10, from: Taste of Home
 <p>The post <a href="https://www.tasteofhome.com/article/christmas-ruggable/">The Christmas Ruggable Collection Is Here—And it&#8217;s On Sale!</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
  
 
- 
+<br> 
 
 <https://www.tasteofhome.com/article/christmas-ruggable/>
 
@@ -293,7 +329,7 @@ date: 2024-10-10, from: Daily Coffee News
 
 <div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/08/LAPH-Cafe-Vietnam-1-620x413.jpg" class="attachment-large size-large wp-post-image" alt="LAPH Cafe Vietnam 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/08/LAPH-Cafe-Vietnam-1-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/08/LAPH-Cafe-Vietnam-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/08/LAPH-Cafe-Vietnam-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/08/LAPH-Cafe-Vietnam-1-768x511.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/08/LAPH-Cafe-Vietnam-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
 
- 
+<br> 
 
 <https://dailycoffeenews.com/2024/10/10/design-details-suspended-trees-at-multilevel-laph-cafe-in-vietnam/>
 
@@ -305,7 +341,7 @@ date: 2024-10-10, from: Taste of Home
 
 Cheesecake bars are a surprisingly simple, portable and party-friendly version of New York's favorite dessert. Our fluffy cheesecake bars are light and airy because the egg whites are whipped before they're folded into the batter. 
 
- 
+<br> 
 
 <https://www.tasteofhome.com/recipes/cheesecake-bars/>
 
@@ -317,7 +353,7 @@ date: 2024-10-10, from: Taste of Home
 
 Mac and cheese with hot dogs is one of those dishes you could plow through in front of the TV with a smile on your face. And so you should. This recipe gives you the creamiest sauce for some terrific comfort food. 
 
- 
+<br> 
 
 <https://www.tasteofhome.com/recipes/hot-dog-mac-and-cheese/>
 
@@ -329,7 +365,7 @@ date: 2024-10-10, from: Taste of Home
 
 Reinvent leftover mashed potatoes into a deli-style salad with chopped hard-boiled egg, dill pickles, celery and a healthy splash each of pickle brine and vinegar. 
 
- 
+<br> 
 
 <https://www.tasteofhome.com/recipes/mashed-potato-salad/>
 
@@ -341,7 +377,7 @@ date: 2024-10-10, from: Taste of Home
 
 This fuss-free recipe for raspberry sherbet uses common ingredients you probably already have in your kitchen, making it super easy to whip up this cool, creamy treat. 
 
- 
+<br> 
 
 <https://www.tasteofhome.com/recipes/raspberry-sherbet/>
 
@@ -353,7 +389,7 @@ date: 2024-10-10, from: Daily Coffee News
 
 <div><img width="620" height="437" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Lina-Granados-4-1-620x437.jpg" class="attachment-large size-large wp-post-image" alt="Lina Granados 4" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Lina-Granados-4-1-620x437.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Lina-Granados-4-1-300x212.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Lina-Granados-4-1-150x106.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Lina-Granados-4-1-768x542.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Lina-Granados-4-1.jpg 848w" sizes="(max-width: 620px) 100vw, 620px" /></div>When Lina Granados sat down to talk with DCN, she had recently returned home to Armenia, Colombia, from Trieste, Italy, where she was completing the residential requirement for her master’s... 
 
- 
+<br> 
 
 <https://dailycoffeenews.com/2024/10/10/three-questions-with-lina-granados-of-racafe-in-bogota/>
 
@@ -365,7 +401,7 @@ date: 2024-10-10, from: Bon Appetet
 
 Strip steaks with tangy butter sauce, a quick miso-curry stir fry, our favorite tuna melt, and more recipes to level up your cooking. 
 
- 
+<br> 
 
 <https://www.bonappetit.com/bon-appetit-box-3>
 
@@ -377,7 +413,7 @@ date: 2024-10-10, from: The Sprudge
 
 <strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. The coffee calendar is standing room only. 
 
- 
+<br> 
 
 <https://sprudge.com/there-are-so-many-coffee-events-this-weekend-256674.html>
 
@@ -389,7 +425,7 @@ date: 2024-10-10, from: Pepper Scale
 
 Carrot-based hot sauces are surprisingly delicious. They smooth the typical hot sauce tang and provide a little earthiness to the sauce to boot. One of our favorite combos of the bunch is certainly a carrot habanero sauce. It delivers significant spice and the habanero pepper ... <p class="read-more-container"><a title="Carrot Habanero Sauce" class="read-more button" href="https://pepperscale.com/carrot-habanero-sauce/#more-6455" aria-label="Read more about Carrot Habanero Sauce">Read more</a></p> 
 
- 
+<br> 
 
 <https://pepperscale.com/carrot-habanero-sauce/>
 
@@ -401,7 +437,7 @@ date: 2024-10-10, from: Pepper Scale
 
 The mix of cinnamon and cayenne pepper is one of those spice rack dynamic duos. Cinnamon has that exotic warmth, that sweet earthy flair. And cayenne? Well, it will punch you right in the taste buds. It adds extra life to that homey cinnamon warmth, ... <p class="read-more-container"><a title="Spicy Cinnamon Pecans" class="read-more button" href="https://pepperscale.com/spicy-cinnamon-pecans/#more-9663" aria-label="Read more about Spicy Cinnamon Pecans">Read more</a></p> 
 
- 
+<br> 
 
 <https://pepperscale.com/spicy-cinnamon-pecans/>
 
@@ -413,7 +449,7 @@ date: 2024-10-10, from: Pepper Scale
 
 The Cajun &#8220;holy trinity&#8221; is a blend of three aromatic ingredients: bell pepper, onion, and celery. These ingredients are typically sauteed in oil or butter. The aromatics release their aroma and flavor, which makes them a perfect base for a variety of dishes. The three ingredients ... <p class="read-more-container"><a title="What Is The Cajun Holy Trinity? History And Use" class="read-more button" href="https://pepperscale.com/cajun-holy-trinity/#more-34373" aria-label="Read more about What Is The Cajun Holy Trinity? History And Use">Read more</a></p> 
 
- 
+<br> 
 
 <https://pepperscale.com/cajun-holy-trinity/>
 
@@ -425,7 +461,7 @@ date: 2024-10-10, from: Pepper Scale
 
 Who doesn&#8217;t love the classic spiced pumpkin pie? With its earthy nutmeg and flavor-packed cloves,&#160;it&#8217;s jam-packed with taste-goodness.&#160;But&#160;you know what we think is missing? Of course&#8230;a little heat. Enter our cayenne spiced pumpkin pie. Pumpkin and chili peppers go together incredibly well. It&#8217;s that combo ... <p class="read-more-container"><a title="Cayenne Spiced Pumpkin Pie" class="read-more button" href="https://pepperscale.com/cayenne-spiced-pumpkin-pie/#more-6760" aria-label="Read more about Cayenne Spiced Pumpkin Pie">Read more</a></p> 
 
- 
+<br> 
 
 <https://pepperscale.com/cayenne-spiced-pumpkin-pie/>
 
@@ -437,7 +473,7 @@ date: 2024-10-10, from: Pepper Scale
 
 If you love DIY projects in the kitchen, making your own seasoning blends is a ton of fun. It makes the ultimate use of the well-stocked spice rack. One of our favorites is spicy curry powders. And few are spicier than Madras curry powder. There ... <p class="read-more-container"><a title="Homemade Madras Curry Powder" class="read-more button" href="https://pepperscale.com/homemade-madras-curry-powder/#more-16842" aria-label="Read more about Homemade Madras Curry Powder">Read more</a></p> 
 
- 
+<br> 
 
 <https://pepperscale.com/homemade-madras-curry-powder/>
 
@@ -453,7 +489,7 @@ date: 2024-10-10, from: Closet Cooking
 <p>The post <a href="https://www.closetcooking.com/roasted-red-pepper-orzo/">Roasted Red Pepper Orzo</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
  
 
- 
+<br> 
 
 <https://www.closetcooking.com/roasted-red-pepper-orzo/>
 
@@ -465,7 +501,7 @@ date: 2024-10-10, from: Bon Appetet
 
 Thanks to its apocryphal beginnings and statewide brand loyalty, the brandy old-fashioned is the Badger State's go-to cocktail. 
 
- 
+<br> 
 
 <https://www.bonappetit.com/story/wisconsin-brandy-old-fashioned>
 
@@ -479,7 +515,7 @@ date: 2024-10-09, from: Taste of Home
 <p>The post <a href="https://www.tasteofhome.com/article/frontgate-christmas-tree-review/">Frontgate Christmas Tree Review: This Classic Fraser Fir Tree Is Better Than the Real Deal</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
  
 
- 
+<br> 
 
 <https://www.tasteofhome.com/article/frontgate-christmas-tree-review/>
 
@@ -491,7 +527,7 @@ date: 2024-10-09, from: Bon Appetet
 
 Replace your worn out kitchen towels, send your dad an ice cream maker, and finally get that Vitamix you’ve been coveting. 
 
- 
+<br> 
 
 <https://www.bonappetit.com/story/amazon-prime-day-kitchen-deals-october-9>
 
@@ -505,7 +541,7 @@ date: 2024-10-09, from: Taste of Home
 <p>The post <a href="https://www.tasteofhome.com/article/balsam-hill-garland-review/">Balsam Hill Garland Review: The Perfect Canvas for Custom Holiday Decorating</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
  
 
- 
+<br> 
 
 <https://www.tasteofhome.com/article/balsam-hill-garland-review/>
 
@@ -519,7 +555,7 @@ date: 2024-10-09, from: Taste of Home
 <p>The post <a href="https://www.tasteofhome.com/article/brucepac-recall-october-2024/">9.86 Million Pounds of Ready-to-Eat Meat and Poultry Products Have Been Recalled</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
  
 
- 
+<br> 
 
 <https://www.tasteofhome.com/article/brucepac-recall-october-2024/>
 
@@ -533,7 +569,7 @@ date: 2024-10-09, from: Taste of Home
 <p>The post <a href="https://www.tasteofhome.com/article/starbucks-holiday-menu-2024/">Everything You Need to Know About the Starbucks Holiday Menu for 2024</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
  
 
- 
+<br> 
 
 <https://www.tasteofhome.com/article/starbucks-holiday-menu-2024/>
 
@@ -545,7 +581,7 @@ date: 2024-10-09, from: Bon Appetet
 
 We’re keeping our eyes peeled for shiny new cookware, fancy pellet ice machines, and the best gooseneck electric kettle. 
 
- 
+<br> 
 
 <https://www.bonappetit.com/story/october-amazon-prime-day-2024-editor-wishlist-1>
 
@@ -557,7 +593,7 @@ date: 2024-10-09, from: Bon Appetet
 
 Take up to 40% off All-Clad, Lodge, Le Creuset, and more during the Amazon Prime Day sale. 
 
- 
+<br> 
 
 <https://www.bonappetit.com/story/amazon-prime-day-cookware-deals-2023-october-2>
 
@@ -569,7 +605,7 @@ date: 2024-10-09, from: Bon Appetet
 
 Kitchen upgrades for less than a decent bottle of pét-nat. 
 
- 
+<br> 
 
 <https://www.bonappetit.com/story/best-early-prime-day-deals-october-2>
 
@@ -581,7 +617,7 @@ date: 2024-10-09, from: Taste of Home
 
 <span style="font-weight: 400;">These southern style green beans are infused with rich, smoky flavors, courtesy of adding savory bacon to the recipe.</span> 
 
- 
+<br> 
 
 <https://www.tasteofhome.com/recipes/southern-green-beans/>
 
@@ -597,7 +633,7 @@ date: 2024-10-09, from: Isebel Eats
 	</div>
 	This Mexican chorizo recipe is easy to make right at home and is packed with bold and authentic flavors and spices to level up any meal! It&#8217;s perfect for all your favorite dishes, such as tacos, nachos, queso fundido, and more! Chorizo is easily one of my favorite Mexican ingredients to use. It&#8217;s packed with [&#8230;] 
 
- 
+<br> 
 
 <https://www.isabeleats.com/chorizo-recipe/>
 
@@ -609,7 +645,7 @@ date: 2024-10-09, from: Taste of Home
 
 <span style="font-weight: 400;">Jalapeno mac and cheese is a spicy riff on the classic comfort dish; it combines spicy peppers with rich cheeses like cheddar and mozzarella. </span> 
 
- 
+<br> 
 
 <https://www.tasteofhome.com/recipes/jalapeno-mac-and-cheese-2/>
 
@@ -621,7 +657,7 @@ date: 2024-10-09, from: Taste of Home
 
 This Instant Pot sweet potato recipe is for medium-sized potatoes, but you can add five to ten minutes for large potatoes or reduce the time for small potatoes. 
 
- 
+<br> 
 
 <https://www.tasteofhome.com/recipes/instant-pot-sweet-potatoes/>
 
@@ -633,7 +669,7 @@ date: 2024-10-09, from: Taste of Home
 
 <span style="font-weight: 400;">The delicious apple tea transforms scraps into a cozy beverage filled with warm flavors.</span> 
 
- 
+<br> 
 
 <https://www.tasteofhome.com/recipes/apple-tea-2/>
 
@@ -645,7 +681,7 @@ date: 2024-10-09, from: Bon Appetet
 
 Stock up on our favorite condiments, tinned fish, and other pantry essentials. 
 
- 
+<br> 
 
 <https://www.bonappetit.com/story/prime-day-pantry-deals>
 
@@ -657,7 +693,7 @@ date: 2024-10-09, from: Bon Appetet
 
 Air fryer–crisped and honey butter–glazed, okonomiyaki-style with toppings galore, cheesy sprouts gratin, and more. 
 
- 
+<br> 
 
 <https://www.bonappetit.com/gallery/best-brussels-sprouts-recipes>
 
@@ -669,7 +705,7 @@ date: 2024-10-09, from: Daily Coffee News
 
 <div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/coffee-620x413.jpg" class="attachment-large size-large wp-post-image" alt="coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/coffee-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/coffee-768x511.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Payment and business technology giant Square recently analyzed millions of transactions across the United States and Canada to discover coffee consumer trends. Prominent findings included increases in out-of-home coffee purchasing,... 
 
- 
+<br> 
 
 <https://dailycoffeenews.com/2024/10/09/report-matcha-oat-milk-and-functional-ingredients-on-the-rise-in-us-and-canada/>
 
@@ -681,7 +717,7 @@ date: 2024-10-09, from: Bon Appetet
 
 Amazon’s October 2024 Prime Day is coming, but we’ve scouted some early deals from our favorite brands like Instant, Ninja, and Cosori. 
 
- 
+<br> 
 
 <https://www.bonappetit.com/story/amazon-prime-day-best-air-fryer-deals-october-2>
 
@@ -693,7 +729,7 @@ date: 2024-10-09, from: Bon Appetet
 
 Why go to the coffee shop for espresso when the espresso can come to you? 
 
- 
+<br> 
 
 <https://www.bonappetit.com/story/amazon-prime-espresso-maker-deals-fall-2024-2>
 
@@ -705,7 +741,7 @@ date: 2024-10-09, from: Taste of Home
 
 Scalloped sweet potatoes are indulgent enough to be served at an extravagant meal, such as a holiday dinner. 
 
- 
+<br> 
 
 <https://www.tasteofhome.com/recipes/scalloped-sweet-potatoes/>
 
@@ -717,7 +753,7 @@ date: 2024-10-09, from: Taste of Home
 
 If you love cornbread and you love croutons, then all will be right with the world when you put the two together and make these crunchy, savory cornbread croutons. 
 
- 
+<br> 
 
 <https://www.tasteofhome.com/recipes/cornbread-croutons/>
 
@@ -729,9 +765,21 @@ date: 2024-10-09, from: Bon Appetet
 
 Your bookshelf needs this. 
 
- 
+<br> 
 
 <https://www.bonappetit.com/story/prime-day-cookbook-deals-october>
+
+---
+
+## Cheesecake Fruit Salad
+
+date: 2024-10-09, from: Taste of Home
+
+Our luscious cheesecake fruit salad boasts all the gorgeous flavors of a fruity cheesecake with none of the hassle. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/cheesecake-fruit-salad/>
 
 ---
 
@@ -741,7 +789,7 @@ date: 2024-10-09, from: Daily Coffee News
 
 <div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/black-coffee-620x414.jpg" class="attachment-large size-large wp-post-image" alt="black coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/black-coffee-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/black-coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/black-coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/black-coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/black-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A Minneapolis company called Microtrace is accusing private-label food manufacturing giant TreeHouse Foods of &#8220;reverse engineering&#8221; proprietary technology used to identify Keurig-style coffee pods. In a lawsuit filed Sept. 30... 
 
- 
+<br> 
 
 <https://dailycoffeenews.com/2024/10/09/minnesota-company-sues-treehouse-over-pod-production-secrets/>
 
@@ -753,7 +801,7 @@ date: 2024-10-09, from: Bon Appetet
 
 Shop some of the best deals of the year on Our Place cookware and appliances. 
 
- 
+<br> 
 
 <https://www.bonappetit.com/story/our-place-sale-prime-day-october-2024>
 
@@ -765,33 +813,9 @@ date: 2024-10-09, from: Daily Coffee News
 
 <div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/BestCup-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="BestCup 1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/BestCup-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/BestCup-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/BestCup-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/BestCup-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/BestCup-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Salt Lake City-based coffee co-packing startup BestCup is offering a new approach to Keurig-style brewing with a compostable pod product called the Hi-Fi Coffee Pod. Featuring an open-bottom filter design,... 
 
- 
+<br> 
 
 <https://dailycoffeenews.com/2024/10/09/bestcup-spins-the-hi-fi-coffee-pod-a-specialty-k-cup-reinvention/>
-
----
-
-## Homemade Ras El Hanout
-
-date: 2024-10-09, from: Pepper Scale
-
-The best spices in the shop. That&#8217;s ras el hanout. Literally,&#160;ras el hanout means &#8220;head of the shop&#8221; in Arabic and speaks to the best spices the spice seller has to offer. And it&#8217;s quite a mix in ras el hanout.&#160;Every ras el hanout recipe ... <p class="read-more-container"><a title="Homemade Ras El Hanout" class="read-more button" href="https://pepperscale.com/ras-el-hanout-spice/#more-7893" aria-label="Read more about Homemade Ras El Hanout">Read more</a></p> 
-
- 
-
-<https://pepperscale.com/ras-el-hanout-spice/>
-
----
-
-## Ranch-Style Beans
-
-date: 2024-10-09, from: Pepper Scale
-
-Sure, you need some planning, but homemade ranch-style beans are a world better than what you&#8217;ll pick up in a can. Most of the recipe is slow cooker time, and the prep is mainly rehydrating your pinto beans and ancho peppers, so the effort needed ... <p class="read-more-container"><a title="Ranch-Style Beans" class="read-more button" href="https://pepperscale.com/ranch-style-beans/#more-17916" aria-label="Read more about Ranch-Style Beans">Read more</a></p> 
-
- 
-
-<https://pepperscale.com/ranch-style-beans/>
 
 ---
 
@@ -803,7 +827,7 @@ date: 2024-10-09, from: Chili Pepper Madness
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/biryani/">Chicken Biryani Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 
- 
+<br> 
 
 <https://www.chilipeppermadness.com/recipes/biryani/>
 
@@ -815,45 +839,9 @@ date: 2024-10-09, from: Bon Appetet
 
 On this episode of Dinner SOS, Chris and caller Leah take a trip to Mushroom Queens to help her feel less intimidated about cooking with mushrooms. 
 
- 
+<br> 
 
 <https://www.bonappetit.com/story/i-need-mushroom-recipes>
-
----
-
-## Malaysian Curry Powder
-
-date: 2024-10-09, from: Pepper Scale
-
-Think of Malaysian curry powder as an &#8220;in-between&#8221; curry. Its taste is no doubt full-on yellow curry, there&#8217;s no mistake. But it&#8217;s somewhere in-between Indian and Thai curry in flavor. This spice mix leans into coriander, both citrusy and nutty when the seeds are dry ... <p class="read-more-container"><a title="Malaysian Curry Powder" class="read-more button" href="https://pepperscale.com/malaysian-curry-powder/#more-18289" aria-label="Read more about Malaysian Curry Powder">Read more</a></p> 
-
- 
-
-<https://pepperscale.com/malaysian-curry-powder/>
-
----
-
-## Muhammara Dip
-
-date: 2024-10-09, from: Pepper Scale
-
-Everyone knows hummus and maybe baba ganoush, but do you know its spicy cousin &#8211; muhammara dip? It&#8217;s a red bell pepper and walnut spread that&#8217;s delicious served right next to those Middle Eastern staples. And it&#8217;s perfect as a pita and vegetable dipper, just ... <p class="read-more-container"><a title="Muhammara Dip" class="read-more button" href="https://pepperscale.com/muhammara-dip/#more-9154" aria-label="Read more about Muhammara Dip">Read more</a></p> 
-
- 
-
-<https://pepperscale.com/muhammara-dip/>
-
----
-
-## How To Make Curry Spicier
-
-date: 2024-10-09, from: Pepper Scale
-
-Curry dishes can range in heat level from relatively mild to blisteringly hot. If you want your curry on the hotter end of the spectrum, you need to use methods and ingredients that build heat effectively without introducing unwanted flavors. There are several ways to ... <p class="read-more-container"><a title="How To Make Curry Spicier" class="read-more button" href="https://pepperscale.com/how-to-make-curry-spicier/#more-55307" aria-label="Read more about How To Make Curry Spicier">Read more</a></p> 
-
- 
-
-<https://pepperscale.com/how-to-make-curry-spicier/>
 
 ---
 
@@ -865,7 +853,7 @@ date: 2024-10-09, from: The Fresh Cup
 <p>The post <a href="https://freshcup.com/surviving-a-sales-slump/">Surviving a Sales Slump </a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
  
 
- 
+<br> 
 
 <https://freshcup.com/surviving-a-sales-slump/>
 
@@ -877,7 +865,7 @@ date: 2024-10-09, from: Bon Appetet
 
 You can score the Bon Appétit test kitchen’s favorite blender for over 15% off during Prime Day 2024. 
 
- 
+<br> 
 
 <https://www.bonappetit.com/story/october-prime-day-vitamix-deals-2>
 
@@ -889,7 +877,7 @@ date: 2024-10-08, from: Bon Appetet
 
 Shop some of Yeti's bestsellers at really good prices—if you know which colors to buy. 
 
- 
+<br> 
 
 <https://www.bonappetit.com/story/yeti-prime-day-deals-2024-2>
 
@@ -901,7 +889,7 @@ date: 2024-10-08, from: Bon Appetet
 
 This cookware may last forever but these prices won’t. 
 
- 
+<br> 
 
 <https://www.bonappetit.com/story/prime-day-le-creuset-deals-2024-1>
 
@@ -913,7 +901,7 @@ date: 2024-10-08, from: Bon Appetet
 
 Great deals on protein powders and other wellness goodies—like matcha powders, sea moss, and nourishing bone broths. 
 
- 
+<br> 
 
 <https://www.bonappetit.com/story/protein-powder-deals-prime-day>
 
@@ -927,7 +915,7 @@ date: 2024-10-08, from: Taste of Home
 <p>The post <a href="https://www.tasteofhome.com/article/milos-egg-recall-october-2024/">FDA Expands Milo’s Poultry Farms Egg Recall Due to Salmonella Outbreak</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
  
 
- 
+<br> 
 
 <https://www.tasteofhome.com/article/milos-egg-recall-october-2024/>
 
@@ -939,7 +927,7 @@ date: 2024-10-08, from: The Sprudge
 
 <strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. What's the secret to finding good coffee? 
 
- 
+<br> 
 
 <https://sprudge.com/can-you-really-find-good-coffee-shops-by-reading-two-star-reviews-256519.html>
 
@@ -951,7 +939,7 @@ date: 2024-10-08, from: Bon Appetet
 
 Lemons have met their match. 
 
- 
+<br> 
 
 <https://www.bonappetit.com/story/prime-day-sale-fluicer-citrus-squeezer>
 
@@ -963,7 +951,7 @@ date: 2024-10-08, from: Daily Coffee News
 
 <div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2024/08/Camel-Step-Coffee-Hail-6-620x465.jpeg" class="attachment-large size-large wp-post-image" alt="Camel Step Coffee Hail 6" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/08/Camel-Step-Coffee-Hail-6-620x465.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/08/Camel-Step-Coffee-Hail-6-300x225.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/08/Camel-Step-Coffee-Hail-6-150x113.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/08/Camel-Step-Coffee-Hail-6-768x576.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/08/Camel-Step-Coffee-Hail-6.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
 
- 
+<br> 
 
 <https://dailycoffeenews.com/2024/10/08/design-details-rustic-resurgence-at-camel-step-in-hail-saudia-arabia/>
 
@@ -975,7 +963,7 @@ date: 2024-10-08, from: The Sprudge
 
 <strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Pre-orders open now for exclusive, limited-edition experience. 
 
- 
+<br> 
 
 <https://sprudge.com/onyx-coffee-lab-unveils-7th-annual-advent-calendar-256562.html>
 
@@ -987,7 +975,7 @@ date: 2024-10-08, from: Bon Appetet
 
 Thirteen tubs of protein and one broken blender later, I have answers. 
 
- 
+<br> 
 
 <https://www.bonappetit.com/story/best-vegan-protein-powder>
 
@@ -999,7 +987,7 @@ date: 2024-10-08, from: Bon Appetet
 
 We tried a dozen matcha powders to find the very best one. 
 
- 
+<br> 
 
 <https://www.bonappetit.com/story/best-matcha-powder>
 
@@ -1011,7 +999,7 @@ date: 2024-10-08, from: The Sprudge
 
 <strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Some of the best coffee songs on record. 
 
- 
+<br> 
 
 <https://sprudge.com/what-is-the-best-coffee-song-of-all-time-we-have-some-thoughts-253280.html>
 
@@ -1023,7 +1011,7 @@ date: 2024-10-08, from: Daily Coffee News
 
 <div><img width="620" height="437" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Wise-Coffee-Machine-automatic-pourover-4-1-620x437.jpeg" class="attachment-large size-large wp-post-image" alt="Wise Coffee Machine automatic pourover 4" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Wise-Coffee-Machine-automatic-pourover-4-1-620x437.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Wise-Coffee-Machine-automatic-pourover-4-1-300x211.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Wise-Coffee-Machine-automatic-pourover-4-1-150x106.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Wise-Coffee-Machine-automatic-pourover-4-1-768x541.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Wise-Coffee-Machine-automatic-pourover-4-1.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>From the City of Wisdom in Greece, a new automated pourover coffee brewing system called the Wise Brewer TG is entering international commercial and prosumer markets. The machine is the... 
 
- 
+<br> 
 
 <https://dailycoffeenews.com/2024/10/08/the-wise-brewer-tg-launches-with-automated-pourovers-in-mind/>
 
@@ -1035,7 +1023,7 @@ date: 2024-10-08, from: Daily Coffee News
 
 <div><img width="620" height="483" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/roasted-coffee-stock-photo-1-620x483.jpg" class="attachment-large size-large wp-post-image" alt="roasted-coffee-stock-photo" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/roasted-coffee-stock-photo-1-620x483.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/roasted-coffee-stock-photo-1-300x233.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/roasted-coffee-stock-photo-1-150x117.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/roasted-coffee-stock-photo-1-768x598.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/roasted-coffee-stock-photo-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Everett, Washington-based Cascade Coffee, one of the largest coffee roasting and packaging companies in the United States, has received an undisclosed investment from Chicago-based investment firm LaSalle Capital. The private-label... 
 
- 
+<br> 
 
 <https://dailycoffeenews.com/2024/10/08/private-label-specialist-cascade-coffee-has-new-investor/>
 
@@ -1047,7 +1035,7 @@ date: 2024-10-08, from: Bon Appetet
 
 Tons of caramelized onions, so much gooey cheese, and very few dirty dishes. 
 
- 
+<br> 
 
 <https://www.bonappetit.com/recipe/one-pot-french-onion-pasta>
 
@@ -1061,7 +1049,7 @@ date: 2024-10-08, from: The Fresh Cup
 <p>The post <a href="https://freshcup.com/a-new-six-week-virtual-series-aims-to-raise-the-bar-on-roastery-operations/">A New Six-Week Virtual Series Aims To Raise The Bar On Roastery Operations</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
  
 
- 
+<br> 
 
 <https://freshcup.com/a-new-six-week-virtual-series-aims-to-raise-the-bar-on-roastery-operations/>
 
@@ -1073,7 +1061,7 @@ date: 2024-10-08, from: Bon Appetet
 
 A good espresso machine is an investment. But how much do you spend at the coffee shop every year? 
 
- 
+<br> 
 
 <https://www.bonappetit.com/story/best-espresso-machines>
 
@@ -1089,7 +1077,7 @@ date: 2024-10-08, from: Isebel Eats
 	</div>
 	Satisfy your nacho cravings with these quick and easy Bell Pepper Nachos! Packed with colorful mini sweet peppers as a crunchy base and loaded with ground turkey, black beans, corn, and cheese, these nachos are perfect for a light dinner or a crowd-pleasing appetizer! I LOVE any and all kinds of nachos &#8211; simple ones [&#8230;] 
 
- 
+<br> 
 
 <https://www.isabeleats.com/healthy-chicken-nachos/>
 
@@ -1103,7 +1091,7 @@ date: 2024-10-08, from: Taste of Home
 <p>The post <a href="https://www.tasteofhome.com/collection/best-sales-prime-big-deal-days/">Prime Big Deal Days Is Here! Save More Than 50% on KitchenAid, HexClad, Keurig and More</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
  
 
- 
+<br> 
 
 <https://www.tasteofhome.com/collection/best-sales-prime-big-deal-days/>
 
@@ -1115,7 +1103,7 @@ date: 2024-10-07, from: Bon Appetet
 
 We tried 10 tins in our taste test, including King Oscar, Patagonia, and Ortiz. 
 
- 
+<br> 
 
 <https://www.bonappetit.com/story/best-canned-sardines-taste-test-article>
 
@@ -1127,7 +1115,7 @@ date: 2024-10-07, from: The Sprudge
 
 <strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. After his victory at the 2024 World Brewers Cup (WBrC) using a ZM grinder, Martin Wölfl joins the Mazzer Racing Team as Brand Ambassador.  
 
- 
+<br> 
 
 <https://sprudge.com/mazzer-welcomes-2024-world-brewers-cup-champion-martin-wolfl-as-brand-ambassador-256532.html>
 
@@ -1139,7 +1127,7 @@ date: 2024-10-07, from: Taste of Home
 
 Our recipe for cornbread with creamed corn creates a fluffy, moist bake that takes the classic side dish to the next level. The cream-style corn and buttermilk plump up the flavor, while sugar adds a touch of sweetness. 
 
- 
+<br> 
 
 <https://www.tasteofhome.com/recipes/cornbread-with-creamed-corn/>
 
@@ -1151,7 +1139,7 @@ date: 2024-10-07, from: Bon Appetet
 
 Come with Stefano Secchi, chef-owner of New York’s Rezdôra and Massara, on a seven-day travel experience in Piedmont. 
 
- 
+<br> 
 
 <https://www.bonappetit.com/story/piedmont-culinary-getaway>
 
@@ -1163,7 +1151,7 @@ date: 2024-10-07, from: Bon Appetet
 
 Instant coffee has come a long way. We put our palates to the test to determine which brands are worth your time. 
 
- 
+<br> 
 
 <https://www.bonappetit.com/story/best-instant-coffee>
 
@@ -1175,7 +1163,7 @@ date: 2024-10-07, from: The Sprudge
 
 <strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Submit yours today! 
 
- 
+<br> 
 
 <https://sprudge.com/this-is-the-final-week-to-enter-the-2024-sprudge-design-awards-256495.html>
 
@@ -1187,7 +1175,7 @@ date: 2024-10-07, from: Daily Coffee News
 
 <div><img width="620" height="352" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Lets-Talk-Coffee-group-620x352.jpg" class="attachment-large size-large wp-post-image" alt="Let&#8217;s Talk Coffee group" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Lets-Talk-Coffee-group-620x352.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Lets-Talk-Coffee-group-300x170.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Lets-Talk-Coffee-group-150x85.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Lets-Talk-Coffee-group-768x435.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Lets-Talk-Coffee-group.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Seattle-based green coffee trading company Sustainable Harvest is reprising its long-running Let&#8217;s Talk Coffee event, with plans for Peru in September of 2025. Held in coffee-producing countries, and convening a... 
 
- 
+<br> 
 
 <https://dailycoffeenews.com/2024/10/07/lets-talk-coffee-is-back-heading-to-peru-in-2025/>
 
@@ -1199,21 +1187,9 @@ date: 2024-10-07, from: Taste of Home
 
  
 
- 
+<br> 
 
 <https://www.tasteofhome.com/recipes/belgioioso-artichoke-caprese-platter/>
-
----
-
-## The Best Drip Coffee Makers (2024), Tested and Reviewed
-
-date: 2024-10-07, from: Bon Appetet
-
-Coffee doesn’t need to be hard to be delicious. 
-
- 
-
-<https://www.bonappetit.com/story/best-drip-coffee-makers>
 
 ---
 
@@ -1225,21 +1201,9 @@ date: 2024-10-07, from: Taste of Home
 <p>The post <a href="https://www.tasteofhome.com/article/harry-potter-floating-candles/">Perfect for Halloween! These Harry Potter Floating Candles Turn Your House into Hogwarts</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
  
 
- 
+<br> 
 
 <https://www.tasteofhome.com/article/harry-potter-floating-candles/>
-
----
-
-## In Brooklyn, Lucienne Coffee is Serving Coffees Roasted in Japan
-
-date: 2024-10-07, from: Daily Coffee News
-
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Lucienne-Coffee-New-York-3-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Lucienne Coffee New York 3" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Lucienne-Coffee-New-York-3-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Lucienne-Coffee-New-York-3-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Lucienne-Coffee-New-York-3-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Lucienne-Coffee-New-York-3-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Lucienne-Coffee-New-York-3.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new coffee company called Lucienne Coffee in Brooklyn, New York, is specializing in the brewing and sales of high-quality specialty coffees roasted in, and imported from, Japan.&#160; Selling whole... 
-
- 
-
-<https://dailycoffeenews.com/2024/10/07/in-brooklyn-lucienne-coffee-is-serving-coffees-roasted-in-japan/>
 
 ---
 
@@ -1249,7 +1213,7 @@ date: 2024-10-07, from: The Sprudge
 
 <strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Not all coffees are created equal when it comes to cafestol. 
 
- 
+<br> 
 
 <https://sprudge.com/coffee-may-aid-in-fat-loss-but-theres-a-catch-256340.html>
 
@@ -1263,7 +1227,7 @@ date: 2024-10-07, from: The Fresh Cup
 <p>The post <a href="https://freshcup.com/coffee-news-club-week-of-october-7th/">Coffee News Club: Week of October 7th</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
  
 
- 
+<br> 
 
 <https://freshcup.com/coffee-news-club-week-of-october-7th/>
 
@@ -1279,7 +1243,7 @@ date: 2024-10-07, from: Closet Cooking
 <p>The post <a href="https://www.closetcooking.com/butternut-squash-soup-2/">Butternut Squash Soup</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
  
 
- 
+<br> 
 
 <https://www.closetcooking.com/butternut-squash-soup-2/>
 
@@ -1293,81 +1257,9 @@ date: 2024-10-07, from: Chili Pepper Madness
 <p>The post <a href="https://www.chilipeppermadness.com/chili-pepper-recipes/stuffed-chili-peppers/classic-chiles-rellenos/">Chile Relleno Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 
- 
+<br> 
 
 <https://www.chilipeppermadness.com/chili-pepper-recipes/stuffed-chili-peppers/classic-chiles-rellenos/>
-
----
-
-## Creamy Pasta Salad
-
-date: 2024-10-07, from: Taste of Home
-
-Everyone needs this creamy pasta salad recipe that they can reach for when they need a foolproof salad everyone will love. This is one of those classic dishes you'll make over and over again. 
-
- 
-
-<https://www.tasteofhome.com/recipes/easy-creamy-pasta-salad/>
-
----
-
-## Pesto Tortellini Salad
-
-date: 2024-10-07, from: Taste of Home
-
-Easy to make and packed with flavor, this pesto tortellini salad recipe is one you'll return to again and again. 
-
- 
-
-<https://www.tasteofhome.com/recipes/pesto-tortellini-salad/>
-
----
-
-## Velveeta Fudge
-
-date: 2024-10-07, from: Taste of Home
-
-Velveeta fudge sounds like a crazy idea, but it turns out it's crazy enough to work, resulting in a delightful treat. 
-
- 
-
-<https://www.tasteofhome.com/recipes/velveeta-fudge/>
-
----
-
-## Blueberry Cheesecake Bars
-
-date: 2024-10-07, from: Taste of Home
-
-These blueberry cheesecake bars are easy to make and even easier to enjoy. 
-
- 
-
-<https://www.tasteofhome.com/recipes/blueberry-cheesecake-bars/>
-
----
-
-## The Best Air Fryer Accessories 2024: Make Your Favorite Appliance Do Even More
-
-date: 2024-10-07, from: Bon Appetet
-
-While testing air fryers to find the very best ones, we've found tools that enhance your machine. Read about our favorite air fryer accessories. 
-
- 
-
-<https://www.bonappetit.com/story/the-best-air-fryer-accessories>
-
----
-
-## Best Air Fryers (2024), Reviewed By Our Experts
-
-date: 2024-10-07, from: Bon Appetet
-
-Here’s what our editors recommend for crunchy fries, crispy chicken skin, blistered veggies, and more. 
-
- 
-
-<https://www.bonappetit.com/gallery/best-air-fryers>
 
 ---
 
@@ -1377,7 +1269,7 @@ date: 2024-10-06, from: The Sprudge
 
 <strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. We get asked by friends and family where to buy coffee a lot. It&#8217;s a tough question! It&#8217;s easy to lose track of just how many incredible, fresh, vibrant coffees [&#8230;] 
 
- 
+<br> 
 
 <https://sprudge.com/coffee-coffee-coffee-exquisite-selections-from-our-curated-partners-256334.html>
 
@@ -1393,7 +1285,7 @@ date: 2024-10-06, from: Closet Cooking
 <p>The post <a href="https://www.closetcooking.com/50-thanksgiving-recipes/">50 Essential Thanksgiving Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
  
 
- 
+<br> 
 
 <https://www.closetcooking.com/50-thanksgiving-recipes/>
 
