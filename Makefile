@@ -27,7 +27,7 @@ endif
 
 PROJECT = Antenna
 
-section_names = national socal_north pacific ham_radio central_coast columns weather writing games journalism libraries home parks motorcycles retro_computing health going_electric food craft
+section_names = north_america socal_north pacific ham_radio central_coast columns weather writing games journalism libraries home parks motorcycles retro_computing health going_electric food craft
 
 md_files = $(addsuffix .md,$(section_names))
 
@@ -57,8 +57,8 @@ harvest: $(section_names)
 food: .FORCE
 	-skimmer food.txt
 
-national: .FORCE
-	-skimmer national.txt
+north_america: .FORCE
+	-skimmer north_america.txt
 
 socal_north: .FORCE
 	-skimmer socal_north.txt
@@ -156,8 +156,8 @@ pagefind: .FORCE
 	git add pagefind
 
 clean: .FORCE
-	-rm national.md 2>/dev/null
-	-rm national.html 2>/dev/null
+	-rm north_america.md 2>/dev/null
+	-rm north_america.html 2>/dev/null
 	-rm ham_radio.md 2>/dev/null
 	-rm ham_radio.html 2>/dev/null
 	-rm tech_likely.md 2>/dev/null

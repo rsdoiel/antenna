@@ -12,7 +12,7 @@ Collection                                Description of Posts                  
 [Central Coast](central_coast.html)       Califronia's Central Coast                                         [central_coast.txt](central_coast.txt)
 [Home, Garden & Urban Farm](home.html)    Home, Garden & Urban blogs and news                                [home.txt](home.txt)
 [Good Eats, Healthy Eats](food.html)      Healthy Eats, Good Eats                                            [food.txt](foot.txt)
-[North America](national.html)            North America                                                      [national.txt](national.txt)
+[North America](north_america.html)       North America                                                      [north_america.txt](north_america.txt)
 [Going Electric](going_electric.html)     Going Electric                                                     [going_electric.txt](going_electric.txt)
 [Columns](columns.html)                   Frequent Pocket additions                                          [columns.txt](columns.txt)
 [Retro Computing](retro_computing.html)   Computer history and systems                                       [retro_computing.txt](retro_computing.txt)

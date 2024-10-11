@@ -1,11 +1,121 @@
 ---
 title: socal north
-updated: 2024-10-11 08:58:06
+updated: 2024-10-11 15:59:18
 ---
 
 # socal north
 
-(date: 2024-10-11 08:58:06)
+(date: 2024-10-11 15:59:18)
+
+---
+
+## How the Los Angeles County Bar Association Rates Superior Court Judge Candidates
+
+date: 2024-10-11, updated: 2024-10-11, from: The LAist
+
+Sus calificaciones son una de las únicas formas en la que un votante que no cuente con formación jurídica pueda evaluar si un candidato a juez del Tribunal Superior del Condado de Los Ángeles está calificado para el cargo. 
+
+<br> 
+
+<https://laist.com/news/politics/2024-election-california-los-angeles-county-superior-court-judge-lacba-rating-es-colegio-abogados-condado>
+
+---
+
+## Proposición 5 de California: Facilitar la aprobación de bonos para viviendas e infraestructura
+
+date: 2024-10-11, updated: 2024-10-11, from: The LAist
+
+¿Debería California permitir que se aprueben nuevos bonos para viviendas y carreteras con el 55 % de apoyo de los votantes, en lugar del umbral actual de dos tercios? 
+
+<br> 
+
+<https://laist.com/news/politics/2024-election-california-general-proposition-5-affordable-housing-construction-es-propuesta-viviendas-infraestructura>
+
+---
+
+## Proposición 4 de California: Financiamiento de la acción climática
+
+date: 2024-10-11, updated: 2024-10-11, from: The LAist
+
+La Propuesta 4 es un bono de 10 mil millones de dólares para financiar proyectos climáticos y ambientales. 
+
+<br> 
+
+<https://laist.com/news/politics/2024-election-california-general-proposition-4-climate-action-bond-es-propuesta-accion-climatica>
+
+---
+
+## Avalon Rotary Chili Cook-off winners
+
+date: 2024-10-11, from: Catalina Islander
+
+Out of 15 Chili Cook-off entries, three winners were selected in each of two categories; Judges Choice and People’s Choice. Two entrants won in both categories! People’s Choice 1st Favor Fire Chris Blehm 2nd The Rattler Adrian Thoricht 3rd Liar’s Chili Jay Torres Judge’s Choice 1st Scorched Earth Santa Catalina Island Company 2nd The Rattler [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/avalon-rotary-chili-cook-off-winners/>
+
+---
+
+## Avalon community’s help needed in search for Hemmingway
+
+date: 2024-10-11, from: Catalina Islander
+
+Hemmingway, the community cat that lives at the animal clinic, has been missing since September 13 and his family is hoping the community can help locate him. Hemmingway is the well-known cat who was found and raised by Dr. Denny. Hemmingway lives at the vet office. Hemmingway has bowed legs and six toes on each [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/avalon-communitys-help-needed-in-search-for-hemmingway/>
+
+---
+
+## Sheriff’s Log: Oct. 3 to Oct. 9, 2024
+
+date: 2024-10-11, from: Catalina Islander
+
+The following is the Avalon’s Sheriff’s Stations significant incidents report for the period of Oct. 3 to Oct. 9, 2024. All suspects are presumed innocent until proven guilty in a court of law. Many people who are arrested do not get prosecuted in the first place and many who are prosecuted do not get convicted. [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/sheriffs-log-oct-3-to-oct-9-2024/>
+
+---
+
+## Sidewalk vendor update
+
+date: 2024-10-11, from: Catalina Islander
+
+The City Council had a second discussion about sidewalk vending permits at the Oct. 1 meeting. Sidewalk vendor Daniel Felts and the council reached an informal agreement on two additional locations for vendors. Felts also proposed a streamlined, online process for permit applications. He also proposed increasing the number of permits from the current cap [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/sidewalk-vendor-update/>
+
+---
+
+## Five lives lost in Beech 95 plane crash on Island
+
+date: 2024-10-11, from: Catalina Islander
+
+Five people died following a plane crash that occurred Tuesday night, Oct. 8, on Catalina. The names of the victims had not been released as of deadline. This is standard procedure. The remains were apparently recovered Oct. 9. The Federal Aviation Administration, Los Angeles Sheriff’s Department, and National Transportation Safety Board all confirmed the incident. [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/five-lives-lost-in-beech-95-plane-crash-on-island/>
+
+---
+
+## Eclipse Theatre Presents “Something Wicked This Way Comes” at The MAIN
+
+date: 2024-10-11, from: City of Santa Clarita
+
+<p>Be Careful What You Wish For! Delve into “Something Wicked This Way Comes,” an adapted play written by Ray Bradbury, which tells the story of two boys on the cusp of manhood, one content to stay in place and the other eager to grow up and move away. You will not want to miss this [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/10/11/eclipse-theatre-presents-something-wicked-this-way-comes-at-the-main/">Eclipse Theatre Presents &#8220;Something Wicked This Way Comes&#8221; at The MAIN</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/10/11/eclipse-theatre-presents-something-wicked-this-way-comes-at-the-main/>
 
 ---
 
