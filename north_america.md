@@ -1,11 +1,27 @@
 ---
 title: north america
-updated: 2024-10-11 16:34:22
+updated: 2024-10-11 16:35:52
 ---
 
 # north america
 
-(date: 2024-10-11 16:34:22)
+(date: 2024-10-11 16:35:52)
+
+---
+
+## How the 2024 presidential candidates compare on national debt
+
+date: 2024-10-11, from: Market Place
+
+<p>As Election Day grows closer, economic-minded voters wanna know: How much do Harris and Trump plan on adding to the national debt? The Committee for a Responsible Federal Budget reviewed the campaign promises of both candidates and predicted a spending range for each. In this episode, will Trump or Harris dig a deeper debt hole — and why should voters care? Plus, thousands in North Carolina are still without power, and why a mining company is paying billions for a lithium firm when the metal&#8217;s prices are down.</p>
+ 
+
+<audio controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/11/pm_20241011_PM_Podcast_64.mp3"></source>
+	<a href="https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/11/pm_20241011_PM_Podcast_64.mp3" target="_blank">audio/mpeg</a>
+</audio><br> 
+
+<https://www.marketplace.org/shows/marketplace/how-the-2024-presidential-candidates-compare-on-national-debt>
 
 ---
 
