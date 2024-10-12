@@ -1,11 +1,131 @@
 ---
 title: food
-updated: 2024-10-11 08:58:15
+updated: 2024-10-12 08:13:24
 ---
 
 # food
 
-(date: 2024-10-11 08:58:15)
+(date: 2024-10-12 08:13:24)
+
+---
+
+## Aldi Just Revealed Its 12 Most Popular Items of 2024
+
+date: 2024-10-11, from: Taste of Home
+
+<p>This is what people love to pick up at Aldi.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/aldi-fan-favorites-2024/">Aldi Just Revealed Its 12 Most Popular Items of 2024</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/aldi-fan-favorites-2024/>
+
+---
+
+## Tartufo Ice Cream
+
+date: 2024-10-11, from: Taste of Home
+
+Tartufo ice cream is a dome-shaped dessert that hails from Calabria, Italy. It's made with layers of ice cream, cherries and crushed cookies enrobed in a rich dark chocolate shell. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/tartufo-ice-cream/>
+
+---
+
+## 13 Last-Minute Gift Ideas for Frantic Shoppers
+
+date: 2024-10-11, from: Bon Appetet
+
+Including subscription gifts that don't need to arrive on the actual day, virtual baking classes, and plenty of fast-shipping options. 
+
+<br> 
+
+<https://www.bonappetit.com/story/the-last-minute-gift-guide>
+
+---
+
+## Is the Popeyes Ghost Pepper Chicken Sandwich Really ‘Spooky Spicy’?
+
+date: 2024-10-11, from: Taste of Home
+
+<p>I went to Popeyes to see if this sandwich brings the heat.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/popeyes-ghost-pepper-chicken-sandwich-review/">Is the Popeyes Ghost Pepper Chicken Sandwich Really &#8216;Spooky Spicy&#8217;?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/popeyes-ghost-pepper-chicken-sandwich-review/>
+
+---
+
+## 5 Joanna Gaines Kitchen Ideas​ to Keep Your Space Organized
+
+date: 2024-10-11, from: Taste of Home
+
+<p>These signature Joanna Gaines kitchen ideas and style tips will improve the storage and functionality of your kitchen.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/joanna-gaines-kitchen-ideas/">5 Joanna Gaines Kitchen Ideas​ to Keep Your Space Organized</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/joanna-gaines-kitchen-ideas/>
+
+---
+
+## The Best Electric Kettles (2024), Tested and Reviewed
+
+date: 2024-10-11, from: Bon Appetet
+
+Seriously, why are you still heating water on the stove? 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-electric-kettles>
+
+---
+
+## You Should Never Line the Bottom of Your Oven with Foil—Here’s Why
+
+date: 2024-10-11, from: Taste of Home
+
+<p>Aluminum foil is safe for cooking, but never put it on the bottom of your oven.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/can-you-put-aluminum-foil-in-the-oven/">You Should Never Line the Bottom of Your Oven with Foil—Here&#8217;s Why</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/can-you-put-aluminum-foil-in-the-oven/>
+
+---
+
+## Dunkin’ Just Leaked Its List of Holiday Drinks for 2024
+
+date: 2024-10-11, from: Taste of Home
+
+<p>You Cookie Butter-believe I'll sip Dunkin' holiday drinks all season long.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/dunkin-holiday-drinks-2024/">Dunkin&#8217; Just Leaked Its List of Holiday Drinks for 2024</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/dunkin-holiday-drinks-2024/>
+
+---
+
+## The Wicked Stanley Tumblers Are Coming—And They’re Going to Be Popular!
+
+date: 2024-10-11, from: Taste of Home
+
+<p>Head off to the Land of Oz in style with these Wicked Stanley tumblers, available in two sizes, plus green Elphaba and pink Glinda designs.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/wicked-stanley-tumbler/">The Wicked Stanley Tumblers Are Coming—And They&#8217;re Going to Be Popular! </a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/wicked-stanley-tumbler/>
 
 ---
 

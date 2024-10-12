@@ -1,11 +1,26 @@
 ---
 title: central coast
-updated: 2024-10-11 08:58:07
+updated: 2024-10-12 08:13:17
 ---
 
 # central coast
 
-(date: 2024-10-11 08:58:07)
+(date: 2024-10-12 08:13:17)
+
+---
+
+## Goleta City Council, Mayoral Candidates Talk Housing Mandates at Election Forum
+
+date: 2024-10-11, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101124-Goleta-forum-perotte-foster-1-RC.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Goleta mayoral candidates Paula Perotte and Richard Foster talk about city issues during a League of Women Voters forum Thursday night." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101124-Goleta-forum-perotte-foster-1-RC.jpg?w=2200&amp;ssl=1 2200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101124-Goleta-forum-perotte-foster-1-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101124-Goleta-forum-perotte-foster-1-RC.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101124-Goleta-forum-perotte-foster-1-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101124-Goleta-forum-perotte-foster-1-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101124-Goleta-forum-perotte-foster-1-RC.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101124-Goleta-forum-perotte-foster-1-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101124-Goleta-forum-perotte-foster-1-RC.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101124-Goleta-forum-perotte-foster-1-RC.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101124-Goleta-forum-perotte-foster-1-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101124-Goleta-forum-perotte-foster-1-RC.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The six candidates running for Goleta City Council seats spoke about housing, Old Town and the library closure at Thursday night&#8217;s election forum. Incumbent Mayor Paula Perotte and city Councilmember [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/goleta-city-council-mayoral-candidates-talk-housing-mandates-at-election-forum/">Goleta City Council, Mayoral Candidates Talk Housing Mandates at Election Forum</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/goleta-city-council-mayoral-candidates-talk-housing-mandates-at-election-forum/>
 
 ---
 

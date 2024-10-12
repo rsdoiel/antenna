@@ -1,11 +1,11 @@
 ---
 title: north america
-updated: 2024-10-11 16:38:55
+updated: 2024-10-12 08:13:14
 ---
 
 # north america
 
-(date: 2024-10-11 16:38:55)
+(date: 2024-10-12 08:13:14)
 
 ---
 
@@ -488,4 +488,33 @@ date: 2024-10-07, from: Market Place
 </audio><br> 
 
 <https://www.marketplace.org/shows/marketplace/we-added-a-ton-of-jobs-last-month-surprise>
+
+---
+
+## The political attacks on economic data
+
+date: 2024-10-05, from: Market Place, Make me Smart
+
+<p>The jobs report released today blew past economists&#8217; forecasts, estimating that employers added <a href="https://www.cnbc.com/2024/10/04/september-2024-us-jobs-report.html" target="_blank" rel="noreferrer noopener">about 250,000 jobs</a> to the U.S. economy in September. Republican Sen. Marco Rubio is falsely claiming the jobs report is &#8220;fake.&#8221; We&#8217;ll get into how big economic data is being politicized. And, what happens when October surprises aren&#8217;t so surprising anymore? Plus, we&#8217;ll weigh in on &#8220;white labeling&#8221; and flying taxis during a round of Half Full / Half Empty!</p>
+<p>Here&#8217;s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.cnn.com/2024/10/03/politics/october-surprises-trump-harris-analysis/index.html" target="_blank" rel="noreferrer noopener">&#8220;October surprises are piling up, but a toss-up race seems impervious to shocks&#8221;</a> from CNN Politics</li>
+<li><a href="https://www.msnbc.com/opinion/msnbc-opinion/jack-smith-immunity-filing-comey-letter-rcna173831" target="_blank" rel="noreferrer noopener">&#8220;Jack Smith&#8217;s latest filing in the Trump election case is no &#8216;Comey letter'&#8221;</a> from MSNBC</li>
+<li><a href="https://www.oklahoman.com/story/news/2024/10/04/donald-trump-supported-bible-one-of-few-that-meets-ryan-walters-criteria-for-ok-classrooms/75510021007/" target="_blank" rel="noreferrer noopener">&#8220;&#8216;Trump Bible&#8217; one of few that meet Walters&#8217; criteria for Oklahoma classrooms&#8221;</a> from The Oklahoman</li>
+<li><a href="https://x.com/marcorubio/status/1842246712225603776">Tweet</a> from Sen. Marco Rubio about today&#8217;s jobs report</li>
+<li><a href="https://www.businessinsider.com/job-applications-send-dm-ceo-hiring-director-executives-advice-2024-10?utm_source=Iterable&amp;utm_medium=email&amp;utm_campaign=campaign_Insider%20Today,%20October%202,%202024" target="_blank" rel="noreferrer noopener">&#8220;Not hearing back on job applications? Some career consultants suggest a bold new tactic.&#8221;</a> from Business Insider</li>
+<li><a href="https://www.marketplace.org/2024/09/27/sidewalk-maintenance-denver-property-owner-tax-funding/" target="_blank" rel="noreferrer noopener">&#8220;Denver is funding sidewalk maintenance with a property owner tax&#8221;</a> from Marketplace</li>
+<li><a href="https://www.marketplace.org/2024/10/01/white-label-retailers-furniture-decor-home-online-shopping-e-commerce/" target="_blank" rel="noreferrer noopener">&#8220;Why do retailers white label certain products?&#8221;</a> from Marketplace</li>
+<li><a href="https://www.cnbc.com/2024/10/02/costco-adds-platinum-bars-to-its-precious-metals-lineup.html" target="_blank" rel="noreferrer noopener">&#8220;Costco adds platinum bars to its precious metals lineup&#8221;</a> from CNBC</li>
+<li><a href="https://www.theverge.com/2024/10/2/24260176/toyota-joby-aviation-air-taxi-vtol-investment-stock" target="_blank" rel="noreferrer noopener">&#8220;Toyota puts another $500 million in an air taxi startup&#8221;</a> from The Verge</li>
+</ul>
+<p>Don’t let us fall short. We need your help to reach our Fall Fundraiser goal today!: <a href="https://support.marketplace.org/smart-sn" target="_blank" rel="noreferrer noopener">https://support.marketplace.org/smart-sn</a></p>
+ 
+
+<audio controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-MakeMeSmart/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/04/mms_20241004_MMS_128.mp3"></source>
+	<a href="https://play.podtrac.com/APM-MakeMeSmart/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/04/mms_20241004_MMS_128.mp3" target="_blank">audio/mpeg</a>
+</audio><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/the-political-attacks-on-economic-data>
 

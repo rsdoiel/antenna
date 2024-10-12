@@ -1,11 +1,98 @@
 ---
 title: writing
-updated: 2024-10-11 08:58:09
+updated: 2024-10-12 08:13:18
 ---
 
 # writing
 
-(date: 2024-10-11 08:58:09)
+(date: 2024-10-12 08:13:18)
+
+---
+
+## 📦 #220 - Trapped!
+
+date: 2024-10-11, from: Interesting, a blog on writing
+
+There's nowhere to run. 
+
+<br> 
+
+<https://inneresting.substack.com/p/220-trapped>
+
+---
+
+## Zoe Kaplan (1996-2024)
+
+date: 2024-10-11, from: Locus Magazine
+
+<p>Writer and publishing professional Zoe Kaplan, 28, died October 9, 2024 of complications from diabetes.</p>
+<p>Kaplan began publishing short fiction of genre interest with &#8220;Pink Marble&#8221; in 2021, and published several other stories in magazines and anthologies. She also worked in publishing, spending time at Tor before joining Simon &#38; Schuster in 2021, first as a member of the production team, and later as a managing editorial associate, working extensively  <a href="https://locusmag.com/2024/10/zoe-kaplan-1996-2024/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/10/zoe-kaplan-1996-2024/>
+
+---
+
+## 2024 SKRIVA Short Story Competition Winners
+
+date: 2024-10-11, from: Locus Magazine
+
+<p>Results of the 25th Fantastiknovelltävlingen, a Swedish &#8220;Fantastic Short Story Competition&#8221; organized by writers&#8217; email list SKRIVA, have been announced.</p>
+<p></p>
+<div class="mynomorebulletlist">
+<p><strong>First Place</strong></p>
+<ul>
+<li>&#8220;Ormens väg&#8221; (&#8220;The Way of the Serpent&#8221;) by Ellinor Romin</li>
+</ul>
+<p><strong>Second Place</strong></p>
+<ul>
+<li>&#8220;Tunnelskeende&#8221; (&#8220;Tunnel Event&#8221;) by Lizette Lindskog</li>
+</ul>
+<p><strong>Third Place</strong></p>
+<ul>
+<li>&#8220;Väktaren på Tunnbindargatan&#8221; (&#8220;The Guardian of Cooper Street&#8221;) by Erika Johansson</li>
+</ul>
+<p><strong>Honorable Mentions</strong></p>
+<ul>
+<li>Mattias Kuldkepp</li>
+<li>Camilla Olsson</li>
+<li>Jolina Petrén</li>
+<li>Tobias Robinson</li>
+</ul>
+<p>Winners were awarded prizes including cash, shares </p></div> <a href="https://locusmag.com/2024/10/2024-skriva-short-story-competition-winners/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2024/10/2024-skriva-short-story-competition-winners/>
+
+---
+
+## THE SUBSTANCE and how to write Body Horror
+
+date: 2024-10-11, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/the-substance-and-how-to-write-body-horror" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/The%20Substance-2.png" alt="Demi Moore in THE SUBSTANCE" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Hormones. Puberty. Weight gain. Cancer. Aging. Menopause. Mental decline.&nbsp;</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/the-substance-and-how-to-write-body-horror>
+
+---
+
+## Featured Friday: Sci-Fi Futurism
+
+date: 2024-10-11, from: John August blog
+
+Weekend Read, our app for reading scripts on your phone, features a new curated collection of screenplays each week. This week, we look at the many ways writers have imagined our future, and the astonishing new technology, fashion, problems and ethical dilemmas that might come to pass. Our collection includes: 2001: A Space Odyssey by [&#8230;]
+The post <a href="https://johnaugust.com/2024/featured-friday-sci-fi-futurism">Featured Friday: Sci-Fi Futurism</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2024/featured-friday-sci-fi-futurism>
 
 ---
 
@@ -105,12 +192,12 @@ date: 2024-10-10, from: Locus Magazine
 
 ---
 
-## Co-Writer of REZ BALL Talks Writing Sports Drama And Avoiding Tropes
+## Co-Writer of REZ BALL Talks Writing Sports Drama And Embracing Tropes
 
 date: 2024-10-10, from: Final Draft blog
 
 <div class="hs-featured-image-wrapper"> 
- <a href="https://blog.finaldraft.com/co-writer-of-rez-ball-talks-writing-sports-drama-and-avoiding-tropes" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Rez%20Ball.%20%20Director%20and%20Co-Writer%20Sydney%20Freeland%20on%20the%20set%20of%20Rez%20Ball.%20%20Cr.%20Lewis%20JacobsNetflix%20%C2%A9%202024.jpg" alt="Co-Writer of REZ BALL Talks Writing Sports Drama And Avoiding Tropes" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+ <a href="https://blog.finaldraft.com/co-writer-of-rez-ball-talks-writing-sports-drama-and-avoiding-tropes" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Rez%20Ball.%20%20Director%20and%20Co-Writer%20Sydney%20Freeland%20on%20the%20set%20of%20Rez%20Ball.%20%20Cr.%20Lewis%20JacobsNetflix%20%C2%A9%202024.jpg" alt="Co-Writer of REZ BALL Talks Writing Sports Drama And Embracing Tropes" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
 </div> 
 <p>It can be incredibly difficult to venture into an established genre like the <a href="https://blog.finaldraft.com/5-reasons-you-should-write-a-sports-biopic-like-clipped">sports drama.</a><br><br>It’s a tried-and-true narrative with some equally tested—and beloved—tropes. Sometimes the team is a ragtag group of misfits, the underdogs no one believes in. Sometimes the coach has taken on this post after failing in the big leagues. Often, the most dramatic moment comes down to the last play in the big game.<br><br>Writer/director Sydney Freeland (Diné) knows all these tropes. And instead of fighting against them during the writing process, she embraced them, flipped them, gave them a unique spin, and made them work for the story.&nbsp;</p> 
 

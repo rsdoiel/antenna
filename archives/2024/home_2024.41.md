@@ -1,11 +1,401 @@
 ---
 title: home
-updated: 2024-10-11 08:58:12
+updated: 2024-10-12 08:13:20
 ---
 
 # home
 
-(date: 2024-10-11 08:58:12)
+(date: 2024-10-12 08:13:20)
+
+---
+
+## Restoring Access and Stewardship to Culturally Significant Landscapes in an Era of Climate Change: Lessons From the Amah Mutsun Tribal Band
+
+date: 2024-10-11, from: California Native Plants Society
+
+<p>The Amah Mutsun Tribal Band's resilience in times of great social and environmental change offers lessons for the current climate crisis.</p>
+<p>The post <a href="https://www.cnps.org/artemisia-journal/restoring-access-and-stewardship-to-culturally-significant-landscapes-in-an-era-of-climate-change-lessons-from-the-amah-mutsun-tribal-band-40489">Restoring Access and Stewardship to Culturally Significant Landscapes in an Era of Climate Change: Lessons From the Amah Mutsun Tribal Band</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/artemisia-journal/restoring-access-and-stewardship-to-culturally-significant-landscapes-in-an-era-of-climate-change-lessons-from-the-amah-mutsun-tribal-band-40489>
+
+---
+
+## Jeanette Marantos Is Changing Hearts and Minds
+
+date: 2024-10-11, from: California Native Plants Society
+
+<p>LA Times garden writer Jeanette Marantos has become an unexpected yet powerful advocate for native plants, inspiring countless readers through her personal journey and her informative, heartfelt stories on sustainable gardening.</p>
+<p>The post <a href="https://www.cnps.org/flora-magazine/jeanette-marantos-is-changing-hearts-and-minds-40661">Jeanette Marantos Is Changing Hearts and Minds</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/flora-magazine/jeanette-marantos-is-changing-hearts-and-minds-40661>
+
+---
+
+## Help! My Neighbor’s Holiday Decorations Are Out of Control
+
+date: 2024-10-11, from: Family Handyman Blog
+
+<p>Your neighbor's holiday decorations are festive and fun, but they're too big and far too loud. Is there anything you can do?</p>
+<p>The post <a href="https://www.familyhandyman.com/article/neighbor-holiday-decorations-out-of-control/">Help! My Neighbor&#8217;s Holiday Decorations Are Out of Control</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/neighbor-holiday-decorations-out-of-control/>
+
+---
+
+## Outdoor Adventure
+
+date: 2024-10-11, from: Sunset Magazine - Living in the West
+
+Plan an outdoor adventure in the West with our insider tips on national parks, the best campgrounds, amazing hikes, and bike trips. 
+
+<br> 
+
+<https://www.sunset.com/travel/outdoor-adventure>
+
+---
+
+## Road Trips
+
+date: 2024-10-11, from: Sunset Magazine - Living in the West
+
+Satisfy your wanderlust with a Western classic??a great road trip. Get ideas for the best routes and where to eat along the way. 
+
+<br> 
+
+<https://www.sunset.com/travel/road-trips>
+
+---
+
+## Insider Guides: Places We Love
+
+date: 2024-10-11, from: Sunset Magazine - Living in the West
+
+Use our Insider Guides to browse the hidden gems we love, as featured in Sunset magazine, plus exclusive recommendations from our editors. 
+
+<br> 
+
+<https://www.sunset.com/travel/insider-guides>
+
+---
+
+## Travel the West
+
+date: 2024-10-11, from: Sunset Magazine - Living in the West
+
+The West is cities and small towns, national parks and wine country, natural wonders and manmade amusements. We have all the tips, guides, ideas, and road-trip routes you need to plan an adventure! 
+
+<br> 
+
+<https://www.sunset.com/travel>
+
+---
+
+## Gifts & Shopping
+
+date: 2024-10-11, from: Sunset Magazine - Living in the West
+
+One-of-a-kind gifts to spread holiday cheer, including picks for everyone on your list, from gardeners and travelers to parents and pets. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping>
+
+---
+
+## Lifestyle
+
+date: 2024-10-11, from: Sunset Magazine - Living in the West
+
+Lifestyle ideas and inspiration for every life stage, from gift guides and gear recommendations to wedding planning, living with kids and pets, and saving for home remodels. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle>
+
+---
+
+## The Idea Hub
+
+date: 2024-10-11, from: Sunset Magazine - Living in the West
+
+Innovative design and genius decorating ideas are around every corner in our Idea Hub showcase homes. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/idea-houses>
+
+---
+
+## Outdoor Living
+
+date: 2024-10-11, from: Sunset Magazine - Living in the West
+
+Update your outdoor living areas with our design and decorating tips on patios, decks, sheds, and more. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/outdoor-living>
+
+---
+
+## Flowers & Plants
+
+date: 2024-10-11, from: Sunset Magazine - Living in the West
+
+The very best flowers and plants for your garden's climate zone. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/plants>
+
+---
+
+## Landscaping
+
+date: 2024-10-11, from: Sunset Magazine - Living in the West
+
+Get landscaping ideas and inspiration from our gardening experts to design your own backyard or garden oasis. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/landscaping>
+
+---
+
+## DIY Projects
+
+date: 2024-10-11, from: Sunset Magazine - Living in the West
+
+Transform your home with quick and easy DIY projects, crafts, and decorating ideas for around the house. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/diy-projects>
+
+---
+
+## Garden Basics
+
+date: 2024-10-11, from: Sunset Magazine - Living in the West
+
+Learn how to start your own home garden with our gardening experts&apos; tips and tutorials 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics>
+
+---
+
+## Decorating & Design
+
+date: 2024-10-11, from: Sunset Magazine - Living in the West
+
+Transform your home with our decorating tips, including ideas for small spaces, DIY projects, home design, and more. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design>
+
+---
+
+## Home Tours
+
+date: 2024-10-11, from: Sunset Magazine - Living in the West
+
+Take a peek at our favorite homes around the West, from modern cabins to mid-century ranch houses 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours>
+
+---
+
+## Home & Garden
+
+date: 2024-10-11, from: Sunset Magazine - Living in the West
+
+Great home and garden design ideas, from decorating and DIY projects to landscaping and edible gardening tips from Sunset magazine. 
+
+<br> 
+
+<https://www.sunset.com/home-garden>
+
+---
+
+## Restaurants
+
+date: 2024-10-11, from: Sunset Magazine - Living in the West
+
+ 
+
+<br> 
+
+<https://www.sunset.com/food-wine/restaurants>
+
+---
+
+## Recipes
+
+date: 2024-10-11, from: Sunset Magazine - Living in the West
+
+Search Sunset's collection of great recipes for every occasion. From quick weekday meals to indulgent holiday menus, we share the best in Western cooking. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant>
+
+---
+
+## Food and Drink
+
+date: 2024-10-11, from: Sunset Magazine - Living in the West
+
+Delicious recipes, food and wine pairings, and more ways to savor the West. 
+
+<br> 
+
+<https://www.sunset.com/food-wine>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-10-11, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## What Your HOA Can and Can’t Make You Do
+
+date: 2024-10-11, from: Family Handyman Blog
+
+<p>Discover the powers and limitations of your HOA, including the rules it can enforce and your rights as a homeowner in the community.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-much-control-hoa-have/">What Your HOA Can and Can&#8217;t Make You Do</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/how-much-control-hoa-have/>
+
+---
+
+## Flood vs. Homeowner’s Insurance: Know the Difference Before Disaster Strikes
+
+date: 2024-10-11, from: Family Handyman Blog
+
+<p>If you didn't specifically ask for flood insurance, chances are you're not covered. Here's how to decide if you need it.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/flood-vs-homeowners-insurance/">Flood vs. Homeowner’s Insurance: Know the Difference Before Disaster Strikes</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/flood-vs-homeowners-insurance/>
+
+---
+
+## Friday Links: October 11, 2024
+
+date: 2024-10-11, from: California Native Plants Society
+
+<p>Join us for stories crazy and wild. The rare western bewildering bushmallow re-emerges in the Bay Area and a rescued condor enjoys a life of freedom. </p>
+<p>The post <a href="https://www.cnps.org/friday-links/friday-links-october-11-2024-40653">Friday Links: October 11, 2024</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/friday-links/friday-links-october-11-2024-40653>
+
+---
+
+## Watch Out! Facebook Car Detailing Scams Are on the Rise
+
+date: 2024-10-11, from: Family Handyman Blog
+
+<p>Thinking of having your car professionally detailed before winter hits? Be sure to take a close look at the service you're about to hire— if you're not careful, you could be signing up for a scam.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/facebook-car-detailing-scam/">Watch Out! Facebook Car Detailing Scams Are on the Rise</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/facebook-car-detailing-scam/>
+
+---
+
+## Essential Tips For Wiring An Unfinished Garage
+
+date: 2024-10-11, from: Family Handyman Blog
+
+<p>Frustrated by substandard power and lighting in your unfinished garage? Update it!</p>
+<p>The post <a href="https://www.familyhandyman.com/article/garage-electrical-wiring/">Essential Tips For Wiring An Unfinished Garage</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/garage-electrical-wiring/>
+
+---
+
+## Why Right Now Is the Best Time to Go to Waikiki
+
+date: 2024-10-11, from: Sunset Magazine - Living in the West
+
+It's the perfect time to go to Waikiki and explore all the eats, drinks, and cultural experiences. Use our itinerary. 
+
+<br> 
+
+<https://www.sunset.com/travel/what-to-do-in-waikiki>
+
+---
+
+## Before & After: This Color-Obsessed Quebec Designer Lives Above Her Studio
+
+date: 2024-10-11, from: Dwell
+
+Interior designer Nathalie Perron created the ultimate live/work space: office on the bottom, colorful personal condo on top. 
+
+<br> 
+
+<https://www.dwell.com/article/before-and-after-this-color-obsessed-quebec-designer-lives-above-her-studio-caa4ad12>
+
+---
+
+## This $2.5M L.A. Home Was Revamped by Frank Lloyd Wright’s Grandson
+
+date: 2024-10-11, from: Dwell
+
+Eric Lloyd Wright’s Ross House is a 1924 gem with refreshed interiors and a prized site on the edge of the Silver Lake Reservoir. 
+
+<br> 
+
+<https://www.dwell.com/article/ross-house-eric-lloyd-wright-silver-lake-los-angeles-real-estate-13e5115c>
+
+---
+
+## How to Winterize Palm Trees
+
+date: 2024-10-11, from: The Gardener's Path
+
+<p>Many palm trees need extra protection during the cold months of winter to ensure they survive until spring. Whether you are growing your palms in the garden or in containers, there are some simple steps to take in the fall to prepare them for winter. Learn how to winterize palms in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/landscape-trees/winterize-palms/">How to Winterize Palm Trees</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/landscape-trees/winterize-palms/>
 
 ---
 
@@ -166,18 +556,6 @@ date: 2024-10-10, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/tesla-cybertruck-insurance/>
-
----
-
-## Why Right Now Is the Best Time to Go to Waikiki
-
-date: 2024-10-10, from: Sunset Magazine - Living in the West
-
-It's the perfect time to go to Waikiki and explore all the eats, drinks, and cultural experiences. Use our itinerary. 
-
-<br> 
-
-<https://www.sunset.com/travel/what-to-do-in-waikiki>
 
 ---
 
@@ -359,18 +737,6 @@ Packaged dried pasta used to be a major no-no for food lovers and chefs alike. N
 <br> 
 
 <https://www.sunset.com/food-wine/best-new-dried-pasta-brands>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-10-10, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 
@@ -1004,4 +1370,18 @@ date: 2024-10-06, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/houseplants/dracaena-diseases/>
+
+---
+
+## How to Make Homemade Pumpkin Puree (and Freeze It)
+
+date: 2024-10-05, from: Homestead and Chil
+
+<p>Come learn how to easily make your own homemade pumpkin puree. It's so much more fresh and flavorful than the canned stuff! We'll also talk about how to freeze pumpkin puree, and the numerous ways you can use it. Make this now while pumpkins are in season, and enjoy pumpkin vibes for many months ahead! </p>
+<p>The post <a href="https://homesteadandchill.com/homemade-pumpkin-puree/">How to Make Homemade Pumpkin Puree (and Freeze It)</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/homemade-pumpkin-puree/>
 

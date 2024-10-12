@@ -1,11 +1,87 @@
 ---
 title: journalism
-updated: 2024-10-11 08:58:10
+updated: 2024-10-12 08:13:19
 ---
 
 # journalism
 
-(date: 2024-10-11 08:58:10)
+(date: 2024-10-12 08:13:19)
+
+---
+
+## CSUN’s Jewish Community Observes Yom Kippur
+
+date: 2024-10-11, from: The Sundail (CSUN Student Newspaper)
+
+As the Sun sets today, the Jewish Community will begin fast in observance of Yom Kippur, which translates to “Day of Atonement”, is considered to be the holiest day of... 
+
+<br> 
+
+<https://sundial.csun.edu/186171/arts-entertainment/csuns-jewish-community-observes-yom-kippur/>
+
+---
+
+## LCC theater company livestreams UCLA themed Dungeons & Dragons
+
+date: 2024-10-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA&#8217;s Asian American theater company &#8211; Lapu, the Coyote That Cares Theatre Company &#8211; is bringing out the magical side of UCLA.
+The student-led theater group is currently producing a quarter-long Dungeons &#38; Dragons campaign called BRUIN MAGIC. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/11/lcc-theater-company-livestreams-ucla-themed-dungeons-dragons/>
+
+---
+
+## Women’s soccer dominates first half in win against Northwestern
+
+date: 2024-10-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+Meg Boade returned to her home field of four years.
+Only this time, the graduate student midfielder was the opponent.
+UCLA women&#8217;s soccer (11-2-2, 6-0-1 Big Ten) traveled to Chicago as part of its  two-game road stint, securing a 1-0 victory over Northwestern (5-7-3, 0-5-2) on Thursday night. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/11/womens-soccer-dominates-first-half-in-win-against-northwestern/>
+
+---
+
+## The Weekly Frame II: A Moment in Time
+
+date: 2024-10-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/11/the-weekly-frame-ii-a-moment-in-time/>
+
+---
+
+## UCLA men’s volleyball hires John Hawks as new head coach
+
+date: 2024-10-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA men’s volleyball hired John Hawks as its next head coach, the program announced Friday afternoon.
+Hawks – who served as the Bruins&#8217; assistant coach from 2015 to 2022 before taking on the head coaching post at Loyola Chicago – will succeed John Speraw, former head coach and current president and CEO of USA Volleyball, as the third head coach in program history. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/11/ucla-mens-volleyball-hires-john-hawks-as-new-head-coach/>
+
+---
+
+## Women’s Golf Clinch Back-to-Back Tournament Wins
+
+date: 2024-10-11, from: The Sundail (CSUN Student Newspaper)
+
+After securing their first tournament win at the Eagle Invitational in September, women’s golf captured their second straight tournament win at the WMU Bronco Fall Classic. After three rounds with... 
+
+<br> 
+
+<https://sundial.csun.edu/186168/sports/womens-golf-clinch-back-to-back-tournament-wins/>
 
 ---
 
@@ -13,7 +89,7 @@ updated: 2024-10-11 08:58:10
 
 date: 2024-10-11, from: The Daily Trojan (USC Student Newspaper)
 
-<p>Spoiler Alert Improv put on a completely original hourlong show with songs and stories made up completely on the spot.</p>
+<p>Spoiler Alert Improv put on an original hourlong show with songs and stories made up completely on the spot.</p>
 <p>The post <a href="https://dailytrojan.com/2024/10/11/comedy-group-improvises-entire-hilarious-musical/">Comedy group improvises entire hilarious musical</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
@@ -1326,4 +1402,18 @@ The CSUN men’s soccer team conceded late to draw with the Highlanders of UC Ri
 <br> 
 
 <https://sundial.csun.edu/185947/sports/the-matadors-battle-in-a-1-1-draw-with-the-highlanders-in-big-west-opener/>
+
+---
+
+## USC vs. Minnesota — as it happened
+
+date: 2024-10-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Henry Mode reports live from Huntington Bank Stadium.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/05/usc-vs-minnesota-live-updates/">USC vs. Minnesota — as it happened</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/05/usc-vs-minnesota-live-updates/>
 

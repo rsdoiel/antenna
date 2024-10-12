@@ -1,11 +1,35 @@
 ---
 title: libraries
-updated: 2024-10-11 08:58:11
+updated: 2024-10-12 08:13:20
 ---
 
 # libraries
 
-(date: 2024-10-11 08:58:11)
+(date: 2024-10-12 08:13:20)
+
+---
+
+## Democracy and Social Ethics, by Jane Addams
+
+date: 2024-10-11, from: Standard Ebooks, new releaases
+
+Jane Addams argues that addressing social issues like poverty and inequality requires shifting from individual morality to a collective understanding of social responsibility. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/jane-addams/democracy-and-social-ethics>
+
+---
+
+## The Magic City, by E. Nesbit
+
+date: 2024-10-11, from: Standard Ebooks, new releaases
+
+A young boy, upset by his older sister’s recent marriage, builds an imaginary city out of blocks and household items and then finds himself living inside it. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/e-nesbit/the-magic-city>
 
 ---
 

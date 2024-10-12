@@ -1,11 +1,211 @@
 ---
 title: columns
-updated: 2024-10-11 08:58:08
+updated: 2024-10-12 08:13:17
 ---
 
 # columns
 
-(date: 2024-10-11 08:58:08)
+(date: 2024-10-12 08:13:17)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-11, from: Dave Winer's Scripting News)
+
+Summarizing the last 18 years on the web. Between Twitter and Google Reader, the web was cut into two, and they didn't get along. We may now be on the cusp of fixing that. Why? Because WordPress and Mastodon work with each other in unforeseen ways. We got lucky, because I don't think this was done consciously by the developers of either product. 
+
+<br> 
+
+<http://scripting.com/2024/10/11.html#a231010>
+
+---
+
+## ‘Elon Musk Makes Bold Claims About Tesla Robotaxi in Hollywood Backlot’
+
+date: 2024-10-11, updated: 2024-10-11, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://arstechnica.com/cars/2024/10/elon-musk-makes-bold-claims-about-tesla-robotaxi-in-hollywood-backlot/>
+
+---
+
+## Donald Trump, Yesterday, on Autonomous Cars
+
+date: 2024-10-11, updated: 2024-10-12, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://x.com/danahull/status/1844530542190158288>
+
+---
+
+##  A short thread of videos that sync perfectly to other audio tracks,... 
+
+date: 2024-10-11, updated: 2024-10-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045412-a-short-thread-of-videos>
+
+---
+
+## Indian Fishermen Are Catching Less Squid
+
+date: 2024-10-11, updated: 2024-10-09, from: Bruce Schneier blog
+
+<p>Fishermen in Tamil Nadu are reporting <a href="https://www.news18.com/india/in-rameswaram-fishermen-shares-how-depletion-of-squid-species-affect-their-business-9048665.html">smaller catches</a> of squid.</p>
+<p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/10/indian-fishermen-are-catching-less-squid.html>
+
+---
+
+##  A Syllabus for Generalists. Featuring resources for learning about geometry, chemistry, world... 
+
+date: 2024-10-11, updated: 2024-10-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045414-a-syllabus-for-generalist>
+
+---
+
+## My 2024 Election Video of the Week: Trump’s Business Failures
+
+date: 2024-10-11, from: Robert Reich's blog
+
+Please share! 
+
+<br> 
+
+<https://robertreich.substack.com/p/my-2024-election-video-of-the-week>
+
+---
+
+## Ubuntu turns 20: 'Oracular Oriole' shows this old bird's still got plenty of flight
+
+date: 2024-10-11, updated: 2024-10-11, from: Liam Proven's articles at the Register
+
+<h4>The 24.10 release offers fun and freshness, but not immutability</h4>
+      <p>The first interim release of Ubuntu since the somewhat troubled Noble Numbat is a smooth upgrade - but not all of the new hotness is here yet.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/10/11/ubuntu_oracular_oriole_released/>
+
+---
+
+##  Floor Maps of Iconic NYC Fast Food Joints 
+
+date: 2024-10-11, updated: 2024-10-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/floor-maps-of-iconic-nyc-fast-food-joints-1>
+
+---
+
+## October 10, 2024
+
+date: 2024-10-11, from: Heather Cox Richardson blog
+
+ 
+
+<audio controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/150110703/c027ee363a8c5084091caa32e893336e.mp3"></source>
+	<a href="https://api.substack.com/feed/podcast/150110703/c027ee363a8c5084091caa32e893336e.mp3" target="_blank">audio/mpeg</a>
+</audio><br> 
+
+<https://heathercoxrichardson.substack.com/p/october-10-2024-a08>
+
+---
+
+## More on My AI and Democracy Book
+
+date: 2024-10-11, updated: 2024-10-11, from: Bruce Schneier blog
+
+<p>In July, I <a href="https://www.schneier.com/blog/archives/2024/07/upcoming-book-on-ai-and-democracy.html">wrote</a> about my new book project on AI and democracy, to be published by MIT Press in fall 2025. My co-author and collaborator <a href="https://cyber.harvard.edu/people/nathan-sanders">Nathan Sanders</a> and I are hard at work writing.</p>
+<p>At this point, we would like feedback on titles. Here are four possibilities:</p>
+<ol>
+<li>Rewiring the Republic: How AI Will Transform our Politics, Government, and Citizenship
+<li>The Thinking State: How AI Can Improve Democracy
+<li>Better Run: How AI Can Make our Politics, Government, Citizenship More Efficient, Effective and Fair
+<li>AI and the New Future of Democracy: Changes in Politics, Government, and Citizenship...</li></li></li></li></ol> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/10/more-on-my-ai-and-democracy-book.html>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-10-11, from: Miguel de Icaza Mastondon feed)
+
+<p>Joseph and me just rawdogged the first restaurant near our hotel in Berlin that served goulash and the meal was one of the best I had this year.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113290113350108952>
+
+---
+
+##  The Most Sought-After Travel Guide Is a Google Doc. &#8220;Nothing is more... 
+
+date: 2024-10-11, updated: 2024-10-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045402-the-most-sought-after-tra>
+
+---
+
+##  Newly remastered and available on YouTube, Interview Project (presented by David Lynch)... 
+
+date: 2024-10-11, updated: 2024-10-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045436-newly-remastered-and-avai>
+
+---
+
+## Why Are News Organizations Giving Any Credence to Elon Musk’s Claims About Tesla’s Previewed Self-Driving Taxi and Bus?
+
+date: 2024-10-11, updated: 2024-10-11, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.reuters.com/technology/teslas-musk-unveil-robotaxis-amid-fanfare-skepticism-2024-10-10/>
+
+---
+
+##  Photos of Spanish Human Tower Competitions. &#8220;More than 40 teams of &#8216;castellers&#8217;... 
+
+date: 2024-10-11, updated: 2024-10-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045415-photos-of-spanish-human-t>
 
 ---
 
@@ -113,6 +313,32 @@ date: 2024-10-11, from: Dave Winer's Scripting News
 <br> 
 
 <http://scripting.com/2024/10/11/132736.html?title=theWebLives>
+
+---
+
+## The web lives in WordPress and Mastodon
+
+date: 2024-10-11, from: Dave Winer's Scripting News
+
+<p>I have a morning ritual which begins with breakfast and iced coffee, and my laptop, on the kitchen table, to review the news, sports, whatever. Write a few tweets or share a few links. Usually with <a href="https://www.wnyc.org/">WNYC</a> playing in the background until I find something I want to read carefully, then I shout at <a href="https://www.alexa.com/">Alexa</a> to go away. When done, I head upstairs where the work begins, often with a blog post, as I'm writing now, and sometimes with a bit of code, but that usually waits until my brain is warmed up. </p>
+<p>But today I had a different assignment. Instead of tweeting, I wrote a few wordpress/mastodon posts, a new hybrid, a medium that I may well be the first person to explore, to do actual writing in. </p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/10/11/kong.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I have a writing tool I call wordLand, it connects directly to WordPress, and from there, one of my sites is hooked up to Mastodon via ActivityPub. I choose to view it that way, to keep from going crazy. I know that it's hooked up to the "fediverse" -- meaning my writing can be viewed by any other app that supports the protocol Masotodon supports which is kind of ActivityPub+ -- where the + is the Mastodon API. Not sure what the ratios are, and I don't care. In this context I am a user, and happy to be that. The developers at Automattic are taking care of the technical details. </p>
+<p>Here's the conclusion that appeared in <a href="https://mastodon.social/@daveverse.wordpress.com@daveverse.wordpress.com/113288911901690601">one of the posts</a> I wrote in my kitchen this morning -- "I am more excited about the web than I have been in a <i>lonnnnng</i> time." I am. I explained why in one of my posts, but it comes down to this. I have most of the features I asked for in <a href="https://textcasting.org/">textcasting</a> (!) and I am typing in a respectable editing window, where I retain copies of my writing, and there's no freaking <a href="http://scripting.com/2024/01/14/031201.html">tiny little text box</a>. And because I'm hooking in through a protocol (here's the punchline) this writing can go anywhere. Anywhere. Let me say that again. Any. Where. </p>
+<p>Like I said the other day, I doubt if Automattic knows what they have. I seriously doubt it. But in a few years, we're going to look back on this as the moment when Twitter stopped controlling our writing, as they have since 2006. </p>
+<p>No more character limits. Posts can have titles, or not. We can use <a href="http://scripting.com/scripting/manila/bloggerCon/ruleoflinks.html">links</a>, as many as we like. Styling works. We can edit our posts. And the really big payoff, I can use a writing tool I love and you can use a tool you love and they work together perfectly well. And if one day you feel like using mine, and I feel like using yours, it just works. So in one step, we turn the clock back to 1994, when the web had all the features a writer could want.</p>
+<p>Links to the stories I wrote earlier, on Mastodon:</p>
+<ol>
+<li><a href="https://mastodon.social/@daveverse.wordpress.com@daveverse.wordpress.com/113288911901690601">My new writing environment does textcasting</a>.</li>
+<li><a href="https://mastodon.social/@daveverse.wordpress.com@daveverse.wordpress.com/113288829308266525">I have bad luck hooking up to platforms</a>.</li>
+<li><a href="https://mastodon.social/@daveverse.wordpress.com@daveverse.wordpress.com/113288799924700948">A place for a 90s blogosperic reboot</a>.</li>
+</ol>
+<p>WordPress versions are linked to from the Mastodon posts. </p>
+<p>Enter this in the address box: <b>@daveverse.wordpress.com</b> to follow this blog in Mastodon.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2024/10/11/132736.html?title=theWebLivesInWordpressAndMastodon>
 
 ---
 
@@ -373,7 +599,7 @@ date: 2024-10-10, updated: 2024-10-10, from: Jason Kittke's blog
 
 ## ★ Consider the Plight of the VC-Backed Privacy Burglars
 
-date: 2024-10-10, updated: 2024-10-10, from: Daring Fireball
+date: 2024-10-10, updated: 2024-10-11, from: Daring Fireball
 
 The question to ask is, “Is this what users want and expect?” Sometimes it really is that simple. I’m not sure it’s ever worth asking “Is this what growth-hacking VC-backed social-media app makers want?” 
 
@@ -2745,4 +2971,169 @@ William McKinley is having a moment (which I confess is a sentence I never expec
 <br> 
 
 <https://www.jayeless.net/2024/10/hospital-in-the-home.html>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-10-05, from: Miguel de Icaza Mastondon feed)
+
+<p>Israel is speed running their genocide and extermination plans- he knows he has at least four weeks of solid support.</p><p>He might need to scale it down to a mild ethnic cleansing after the election.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113257168091049421>
+
+---
+
+## October 4, 2024
+
+date: 2024-10-05, from: Heather Cox Richardson blog
+
+ 
+
+<audio controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/149856126/9c9fcec1c5f63046e69141a446288d67.mp3"></source>
+	<a href="https://api.substack.com/feed/podcast/149856126/9c9fcec1c5f63046e69141a446288d67.mp3" target="_blank">audio/mpeg</a>
+</audio><br> 
+
+<https://heathercoxrichardson.substack.com/p/october-4-2024-a4b>
+
+---
+
+## Geothermal power in the North Bay
+
+date: 2024-10-05, from: Jonudell blog
+
+I was aware of The Geysers, a geothermal field about 35 miles north of my home in Santa Rosa, but I never gave it much thought until my first bike ride through the area. Then I learned a number of interesting things. It&#8217;s the world&#8217;s largest geothermal field, producing more than 700 megawatts. It accounts &#8230; <a href="https://blog.jonudell.net/2024/10/05/geothermal-power-in-the-north-bay/" class="more-link">Continue reading <span class="screen-reader-text">Geothermal power in the North Bay</span></a> 
+
+<br> 
+
+<https://blog.jonudell.net/2024/10/05/geothermal-power-in-the-north-bay/>
+
+---
+
+## CNBC: ‘WordPress CEO Matt Mullenweg Goes “Nuclear” on Silver Lake, WP Engine’
+
+date: 2024-10-05, updated: 2024-10-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.cnbc.com/2024/10/05/wordpress-ceo-matt-mullenweg-goes-nuclear-on-silver-lake-wp-engine-.html>
+
+---
+
+## Weeknotes: Sept. 28 – Oct. 4, 2024
+
+date: 2024-10-05, from: Tracy Durnell Blog
+
+Win of the week: finally got around to baking the cake I&#8217;ve been wanting: vanilla cake with chocolate frosting and sprinkles 🧁 (from Snacking Cakes) Looking forward to: chilling this weekend Stuff I did: 9.25 hours consulting &#8212; finally kicked off the new project! Lots of yardwork ✂ Two doctor trips for my annual wellness checkup [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2024/10/05/weeknotes-sept-28-oct-4-2024/>
+
+---
+
+## The Verge Summarizes the Nasty WordPress/Automattic/WP Engine Feud
+
+date: 2024-10-05, updated: 2024-10-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/2024/10/4/24262232/matt-mullenweg-wordpress-org-wp-engine>
+
+---
+
+## WordPress has a greater destiny
+
+date: 2024-10-05, from: Dave Winer's Scripting News
+
+<p>A few years before WordPress came out, I did a product called <a href="https://www.google.com/search?q=site%3Ascripting.com+%22radio+userland%22">Radio UserLand</a> which was a combination <a href="http://scripting.com/2021/08/15/024232.html?title=radioUserlandScreenShot">blogging tool</a> and feed reader. Two main screens, a streamlined UI. You could get in quickly, write and publish a post in a minute, and see it show up in the reader a moment later. It worked, and it added a major new component to the blogging world, and I think still represents the simplest most focused UI for writing. It was a really popular product. </p>
+<p>The same idea, really simple blog post writing and editing, with all the <a href="https://textcasting.org/">features</a> that should be available to web writers, optional titles, links, simple styling, enclosures, the ability to edit. The things the common social web apps generally <i>don't</i> have. </p>
+<p>This imho is a huge opportunity. I wish this is where the focus in the WordPress community was, but I think right now the world is building <i>around</i> WordPress, not on it. It could be great, it could totally solve the problem of a new document standard in the social web that makes it really like the web. Instead they're fighting over who owns what part of the WordPress trademark, at least as far as I can tell. </p>
+<p>Last year I created a Node.js package called <a href="https://github.com/scripting/wpIdentity">wpidentity</a> that acts as a bridge between a browser-based JavaScript app and the WordPress back-end, and the result is fine. It suggests that there could be a developer community writing apps that all join up in the middle in WordPress's database. Pretty powerful idea! </p>
+<p>And I think the users, the writers, would love it, because we developers could <b>compete to delight them</b>, and not have to worry about building a huge server capability as Automattic already has debugged and scaled. And maybe the battle that's going on now could fade into the background.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2024/10/05/142118.html?title=wordpressHasAGreaterDestiny>
+
+---
+
+## Trump’s October Surprise!? | The Coffee Klatch: October 5, 2024
+
+date: 2024-10-05, from: Robert Reich's blog
+
+With Heather Lofthouse and Yours Truly 
+
+<audio controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/149823382/78be6454a07e40d69887f94320bc770a.mp3"></source>
+	<a href="https://api.substack.com/feed/podcast/149823382/78be6454a07e40d69887f94320bc770a.mp3" target="_blank">audio/mpeg</a>
+</audio><br> 
+
+<https://robertreich.substack.com/p/trumps-october-surprise-the-coffee>
+
+---
+
+## October 4, 2024
+
+date: 2024-10-05, from: Heather Cox Richardson blog
+
+MAGA Republicans are now lying about the federal response to Hurricane Helene in much the same way they lied about Haitian migrants bringing chaos and disease to Springfield, Ohio. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/october-4-2024>
+
+---
+
+##  Relax With George Clooney at the End of a Movie 
+
+date: 2024-10-05, updated: 2024-10-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/relax-with-george-clooney-at-the-end-of-a-movie>
+
+---
+
+##  Matthew Ingram takes a look at the moral panic over social media... 
+
+date: 2024-10-05, updated: 2024-10-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045385-matthew-ingram-takes-a-lo>
+
+---
+
+##  Sports Celebrate Physical Variation — Until It Challenges Social Norms. &#8220;A powerful... 
+
+date: 2024-10-05, updated: 2024-10-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045384-sports-celebrate-physical>
+
+---
+
+##  You&#8217;ve heard about the Earth&#8217;s new mini-moon, yes? &#8220;It will be temporarily... 
+
+date: 2024-10-05, updated: 2024-10-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045383-youve-heard-about-the-ear>
 

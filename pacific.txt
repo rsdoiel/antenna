@@ -60,7 +60,7 @@ https://www.pbshawaii.org/programs/hiki-no/feed/ "~HIKI NŌ ON PBS HAWAIʻI"
 https://www.pbshawaii.org/programs/home-is-here/feed/ "~Home is Here"
 https://www.pbshawaii.org/programs/insights-on-pbs-hawaii/feed/ "~INSIGHTS ON PBS HAWAIʻI"
 https://www.hawaii.edu/news/feed/ "~University of Hawaiʻi News"
-https://www.manoanow.org/search/?f=rss&t=article&c=kaleo&l=50&s=start_time&sd=desc "~Ka Leo O Hawaiʻi (UH Manoa student newspaper)"
+#https://www.manoanow.org/search/?f=rss&t=article&c=kaleo&l=50&s=start_time&sd=desc "~Ka Leo O Hawaiʻi (UH Manoa student newspaper)"
 #https://thesilversword.com/feed/ "~Chaminade Silversword (Chaminade Univ. student newspaper)" Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
 https://thesilversword.com/category/news/feed/ "~Chaminade Silversword (Chaminade Univ. student newspaper)" Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
 https://hawaiipacificreview.org/feed/ "~Hawai'i Pacific Review (HPU Literary Magazine)"
@@ -78,7 +78,7 @@ https://www.hawaiitribune-herald.com/feed/ "~Hawaii Tribune Harold"
 #
 # U.S. Based News Services
 #
-https://apnews.com/hub/micronesia.rss "~Micronesian Hub AP News Service"
+#https://apnews.com/hub/micronesia.rss "~Micronesian Hub AP News Service"
 
 #
 # European News Services covering  Micronesia

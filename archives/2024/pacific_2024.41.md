@@ -1,11 +1,37 @@
 ---
 title: pacific
-updated: 2024-10-11 08:58:06
+updated: 2024-10-12 08:13:16
 ---
 
 # pacific
 
-(date: 2024-10-11 08:58:06)
+(date: 2024-10-12 08:13:16)
+
+---
+
+## Tentative agreement reached on UH faculty contract
+
+date: 2024-10-11, from: University of Hawaiʻi News
+
+<p>Faculty will vote electronically on the tentative agreement from October 15, through 5 p.m, October 17.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/11/tentative-agreement-uh-faculty-contract/">Tentative agreement reached on <abbr>UH</abbr> faculty contract</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/11/tentative-agreement-uh-faculty-contract/>
+
+---
+
+## Hall of Honor Awards celebrates 75 years, raises more than $340K for Shidler College
+
+date: 2024-10-11, from: University of Hawaiʻi News
+
+<p>The 2024 gala brought in over 400 guests to celebrate the 2024 distinguished alumni cohort.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/11/hall-of-honor-2024/">Hall of Honor Awards celebrates 75 years, raises more than $340<abbr>K</abbr> for Shidler College</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/11/hall-of-honor-2024/>
 
 ---
 
@@ -757,6 +783,18 @@ By Ongerung Kambes Kesolei   Koror —As Palau celebrates its 30th Independence
 
 ---
 
+## New Medicare Program Makes Prescription Costs Easier to Handle
+
+date: 2024-10-10, updated: 2024-10-10, from: Marianas Variety
+
+(BPT) - This year’s Medicare Annual Enrollment brings a major change for prescription drug users: a new payment program for older adults and those with disabilities to spread out their costs over time, making it easier to manage out-of-pocket expenses. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/senior_living/new-medicare-program-makes-prescription-costs-easier-to-handle/article_7ff5d50d-924c-5040-9295-78dc92e1227b.html>
+
+---
+
 ## Drone program opens STEM opportunities for Oʻahu JROTC students
 
 date: 2024-10-10, from: University of Hawaiʻi News
@@ -784,6 +822,66 @@ date: 2024-10-10, from: Marshal Islands Journal
 
 ---
 
+## Managing COVID-19 This Season: What You Need to Know and How to Stay Informed
+
+date: 2024-10-10, updated: 2024-10-10, from: Marianas Variety
+
+(BPT) - COVID-19 can affect anyone, so it's important to stay informed as we approach another respiratory virus season. This infographic offers key insights on COVID-19 vaccinations, transmission, increased risk factors, Long COVID risks, and the benefits of getting your flu shot at the same time. It also explains when and how to get your updated vaccine for the year. Always talk to your doctor if you have any questions or concerns about vaccinations this season. To find your local vaccine availability and COVID-19 resources, please visit: https://www.ForYouAndThem.com/. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/health_and_wellness/managing-covid-19-this-season-what-you-need-to-know-and-how-to-stay-informed/article_08a174bb-c1b2-59fd-a0e6-a6d244757166.html>
+
+---
+
+## Help protect your home, your family and your moments
+
+date: 2024-10-10, updated: 2024-10-10, from: Marianas Variety
+
+Sorry, but your browser does not support the video tag. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/real_estate/help-protect-your-home-your-family-and-your-moments/article_adbf7adc-c3ce-5b65-b4c9-853623c680dd.html>
+
+---
+
+## What You Need to Know About the Updated COVID-19 Vaccine
+
+date: 2024-10-10, updated: 2024-10-10, from: Marianas Variety
+
+(BPT) - COVID-19 remains a public health concern, as we continue to see periodic surges in infections and hospitalizations.1 But while SARS-CoV-2 infections tend to rise during the fall and winter seasons just like the flu, the virus poses a year-round burden and COVID-19 remains a leading cause of hospitalizations from respiratory infections.2,3 As we head into colder months, it's important to take precautions to protect yourself and your loved ones from infection. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/senior_living/what-you-need-to-know-about-the-updated-covid-19-vaccine/article_86e346e8-65e8-531d-9336-105902fb3ea6.html>
+
+---
+
+## Living with CIDP and Pathways to Innovative Treatment
+
+date: 2024-10-10, updated: 2024-10-10, from: Marianas Variety
+
+(BPT) - "At first I was kind of like, what is that? What is CIDP? I've never heard of that. But then, the relief set in more than confusion … because at least there was a name to what I had." 
+
+<br> 
+
+<https://www.mvariety.com/online_features/health_and_wellness/living-with-cidp-and-pathways-to-innovative-treatment/article_98eb052d-1b12-5971-92cb-6e56421c0423.html>
+
+---
+
+## Fire safety: Act now to protect your home and family
+
+date: 2024-10-10, updated: 2024-10-10, from: Marianas Variety
+
+(BPT) - Fall and winter are peak seasons for home fires, according to the National Fire Protection Association (NFPA). To protect your home this Fire Safety Prevention Week, take proactive steps to safeguard against fires, and to be sure your family is ready in case of an emergency. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/real_estate/fire-safety-act-now-to-protect-your-home-and-family/article_c1bd3243-e894-57e0-b270-20fa34b89430.html>
+
+---
+
 ## U.S. SENATOR
 
 date: 2024-10-10, from: INSIGHTS ON PBS HAWAIʻI
@@ -795,6 +893,18 @@ date: 2024-10-10, from: INSIGHTS ON PBS HAWAIʻI
 <br> 
 
 <https://www.pbshawaii.org/u-s-senate/>
+
+---
+
+## Fall in love with autumn and winter gardening
+
+date: 2024-10-10, updated: 2024-10-11, from: Marianas Variety
+
+Sorry, but your browser does not support the video tag. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/real_estate/fall-in-love-with-autumn-and-winter-gardening/article_f1f7eeaf-a1ba-5e66-be85-cb3eff5b7fb8.html>
 
 ---
 
@@ -1960,4 +2070,88 @@ A 25-year-old man allegedly had more than two times the legal blood alcohol leve
 <br> 
 
 <https://www.postguam.com/news/local/driver-involved-in-a-head-on-car-collision-allegedly-drank-8-beers/article_16cd0aaa-8299-11ef-a646-6b210dbe5ab9.html>
+
+---
+
+## Complaint: Suspect tried to lose police on dark road
+
+date: 2024-10-05, from: Guam Daily Post
+
+A suspect who led police on a high-speed chase through Dededo on Oct. 1 didn’t get away for long, despite efforts to lose authorities on a dark road, according to a magistrate's complaint filed in the Superior Court of Guam… 
+
+<br> 
+
+<https://www.postguam.com/news/local/complaint-suspect-tried-to-lose-police-on-dark-road/article_a87bb9e2-8208-11ef-873f-07a795cc8ebc.html>
+
+---
+
+## GDOE: Chief Brodie passes inspection, no word on SHS inspection results
+
+date: 2024-10-05, from: Guam Daily Post
+
+It’s been a week since the superintendent’s deadline to have all 24,000 students back on campus for in-person learning, however, two schools remain closed. 
+
+<br> 
+
+<https://www.postguam.com/news/local/gdoe-chief-brodie-passes-inspection-no-word-on-shs-inspection-results/article_0f407748-82a5-11ef-81f7-5bbd61a4db50.html>
+
+---
+
+## Lawmakers debate 'sweetheart deal' for golf course conversion to solar farm
+
+date: 2024-10-05, from: Guam Daily Post
+
+A "sweetheart deal." That's what some lawmakers said Bill 179-37 would create by modifying the lease between Guam International Country Club Inc. and the Chamorro Land Trust Commission to allow the operation of a solar power facility on CLTC property… 
+
+<br> 
+
+<https://www.postguam.com/news/local/lawmakers-debate-sweetheart-deal-for-golf-course-conversion-to-solar-farm/article_f782b73c-81fb-11ef-b43d-f331bee58dbe.html>
+
+---
+
+## Bascon charged with vehicular homicide, released on $15K PR bond
+
+date: 2024-10-05, from: Guam Daily Post
+
+Charged with vehicular homicide in the death of John Edward Kinsey III, Darlene Mafnas Bascon faces up to nine years imprisonment if found guilty. 
+
+<br> 
+
+<https://www.postguam.com/news/local/bascon-charged-with-vehicular-homicide-released-on-15k-pr-bond/article_668455d6-81f8-11ef-ada5-17c7ab28deaa.html>
+
+---
+
+## Airport terminal flooring project moves forward
+
+date: 2024-10-05, from: Guam Daily Post
+
+If you’ve flown into Guam in the last year, you may have noticed the bare floors in the baggage claim area, but according to the Guam International Airport Authority, that will soon change as a project to install culturally artistic… 
+
+<br> 
+
+<https://www.postguam.com/news/local/airport-terminal-flooring-project-moves-forward/article_64034f96-829e-11ef-8c24-f30c598141c4.html>
+
+---
+
+## Support for bill limiting cannabis testing exemption
+
+date: 2024-10-05, from: Guam Daily Post
+
+With the effective date for the cannabis testing exemption in Guam law fast approaching, certain lawmakers are hoping to amend the law further so that the exemption only applies to cannabis flowers or buds, and not edibles or any other… 
+
+<br> 
+
+<https://www.postguam.com/news/local/support-for-bill-limiting-cannabis-testing-exemption/article_7473d19c-8231-11ef-a365-9fc71641e55b.html>
+
+---
+
+## Guam rugby triumphs over Nepal, to face India in cup semifinals
+
+date: 2024-10-05, from: Guam Daily Post
+
+Despite a short-handed roster, which became even shorter after Mariana Crisostomo sustained a suspected ACL tear and Erica Quichocho suffered three cracked ribs, the Guam women’s national rugby team won a game and had two other strong showings Friday in… 
+
+<br> 
+
+<https://www.postguam.com/sports/local/guam-rugby-triumphs-over-nepal-to-face-india-in-cup-semifinals/article_62331580-8298-11ef-9382-43a622ff17f2.html>
 

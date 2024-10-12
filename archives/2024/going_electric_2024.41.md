@@ -1,11 +1,219 @@
 ---
 title: going electric
-updated: 2024-10-11 08:58:14
+updated: 2024-10-12 08:13:23
 ---
 
 # going electric
 
-(date: 2024-10-11 08:58:14)
+(date: 2024-10-12 08:13:23)
+
+---
+
+## It sure seems like the Optimus robots at Tesla’s event were under human control
+
+date: 2024-10-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Bot_83-e1728689316758.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>We <a href="https://electrek.co/2024/10/11/elon-musk-wants-you-to-believe-tesla-is-about-to-deliver-self-driving-without-any-data/">didn’t learn much new</a> from Tesla’s <a href="https://electrek.co/2024/10/10/tesla-robotaxi-launch-news-hub-and-watch-party/">Robotaxi event</a> last night, but one piece of information we were looking forward to was a little information on Optimus, Tesla’s humanoid robot. And we got some, but it’s maybe a little less flattering to Tesla than some might have liked.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-optimus" data-layer-viewtype="unknown" data-post-id="383910" href="https://electrek.co/2024/10/11/it-sure-seems-like-the-optimus-robots-at-teslas-event-were-under-human-control/#more-383910" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/11/it-sure-seems-like-the-optimus-robots-at-teslas-event-were-under-human-control/>
+
+---
+
+## ChargePoint has a new home EV charger installation program, so I tried it out
+
+date: 2024-10-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/chargePoint-Home_Installation.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>ChargePoint now offers installation with the purchase of its Level 2 home EV chargers in the US to simplify the setup process, so I got a quote – here’s how it went.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chargepoint,ev-chargers,ev-charging,installation" data-layer-viewtype="unknown" data-post-id="383846" href="https://electrek.co/2024/10/11/chargepoint-has-a-new-home-ev-charger-installation-program-so-i-tried-it-out/#more-383846" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/11/chargepoint-has-a-new-home-ev-charger-installation-program-so-i-tried-it-out/>
+
+---
+
+## Tesla’s ‘one-time’ FSD transfer scheme is back for the fourth time
+
+date: 2024-10-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/10/Tesla-FSD-Beta-official-demo.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla will once again allow current owners to transfer Full Self-Driving to a new vehicle purchase, even though it previously said that this program would never return after it ended for the third time 11 days ago.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="full-self-driving-fsd,tesla" data-layer-viewtype="unknown" data-post-id="383780" href="https://electrek.co/2024/10/11/teslas-one-time-fsd-transfer-scheme-is-back-for-the-fourth-time/#more-383780" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/11/teslas-one-time-fsd-transfer-scheme-is-back-for-the-fourth-time/>
+
+---
+
+## Enel X Way JuiceBox Customers: Here's What To Do Next
+
+date: 2024-10-11, from: Inside EVs News
+
+If you're a JuiceBox EV charger owner and you're worried after your service was abruptly discontinued, there is hope. 
+
+<br> 
+
+<https://insideevs.com/news/737124/enel-juicebox-customer-guide/>
+
+---
+
+## Podcast: Tesla’s Cybercab & Robovan unveiling, Lucid deliveries, Rivian supply issue, and more
+
+date: 2024-10-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla’s Cybercab and Robovan unveilings, Lucid deliveries, Rivian supply issue, and more</p>
+
+
+
+<p><strong>Today’s episode is sponsored by BLUETTI, a leading provider of portable power stations, solar generators, and energy storage systems. For a limited time, save up to 57% during BLUETTI’s Member’s Day Sale. <a href="https://bit.ly/3U4pIoY">Learn more here</a>.</strong></p>
+
+
+
+<p><strong><a href="https://bit.ly/3BSQwSE" target="_blank" rel="noreferrer noopener">Sponsored by ALSET Auto</a>: North America’s leader in paint protection and restyling; offering colored wraps, paint protection, window tint, ceramic coatings and more, <em>exclusively</em> on EVs.</strong></p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Electrek_10-11-24.mp3"></audio></figure>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="383875" href="https://electrek.co/2024/10/11/podcast-teslas-cybercab-robovan-unveiling-lucid-deliveries-rivian-supply-issue-and-more/#more-383875" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/11/podcast-teslas-cybercab-robovan-unveiling-lucid-deliveries-rivian-supply-issue-and-more/>
+
+---
+
+## EV Batteries Will Be Half Their 2023 Prices In Two Years: Study
+
+date: 2024-10-11, from: Inside EVs News
+
+Cheap EV batteries will drive a major rebound in electric car demand in the U.S., Goldman Sachs researchers say.  
+
+<br> 
+
+<https://insideevs.com/news/737116/battery-prices-ev-study-2026/>
+
+---
+
+## Okay, Robotaxi looks cool. But how is this better than Model 2?
+
+date: 2024-10-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Robotaxi_83-e1728671113155.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla’s <a href="https://electrek.co/2024/10/10/tesla-robotaxi-launch-news-hub-and-watch-party/">Robotaxi event</a> came and went last night, and we finally learned (<a href="https://electrek.co/2024/10/11/elon-musk-wants-you-to-believe-tesla-is-about-to-deliver-self-driving-without-any-data/">very few</a>) new details about the much-hyped car that CEO Elon Musk thinks will add $5 trillion to Tesla’s market capitalization.</p>
+
+
+
+<p>But the main thing it left me (still) thinking is: why does this car even exist?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-robotaxi" data-layer-viewtype="unknown" data-post-id="383870" href="https://electrek.co/2024/10/11/okay-robotaxi-looks-cool-but-how-is-this-better-than-model-2/#more-383870" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/11/okay-robotaxi-looks-cool-but-how-is-this-better-than-model-2/>
+
+---
+
+## Tenways CGO600 Pro e-bike at $1,399 with bonus savings, Bluetti AC180 bundle $779, UGREEN power station, Greenworks, more
+
+date: 2024-10-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Tenways-CGO600-Pro-e-bike.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Closing out this week’s Green Deals is a $500 discount on <a href="https://9to5toys.com/2024/10/11/tenways-37-pound-cgo600-pro-belt-drive-e-bike-assists-you-up-to-53-miles-at-1399-low-save-500/">Tenways’ CGO600 Pro belt-drive e-bike</a> that is down at a <a href="https://9to5toys.com/2024/10/11/tenways-37-pound-cgo600-pro-belt-drive-e-bike-assists-you-up-to-53-miles-at-1399-low-save-500/">$1,399 low</a> and also has a few ways to score some bonus savings. We’ve also got a bunch of lingering Prime Day deals like <a href="https://9to5toys.com/2024/10/11/bluetti-ac180-solar-generator-bundle-at-new-779-low-520-off-more-hangover-prime-day-deals-from-149/">Bluetti’s AC180 Portable Power Station</a> that comes bundled with a 200W solar panel at a <a href="https://9to5toys.com/2024/10/11/bluetti-ac180-solar-generator-bundle-at-new-779-low-520-off-more-hangover-prime-day-deals-from-149/">new $779 low</a>, as well as several other models/bundles still remaining at their recent low prices. Next, you can score $304 off <a href="https://9to5toys.com/2024/10/10/save-304-on-ugreens-powerroam-1200-lifepo4-power-station-as-it-returns-to-495-low-in-post-prime-day-savings/">UGREEN’s PowerRoam 1200 Portable Power Station at $495</a>, or save up to <a href="https://9to5toys.com/2024/10/11/greenworks-40v-19-inch-cordless-electric-mower-comes-with-a-5-0ah-50kmah-power-bank-battery-at-240-low-save-80-more/">50% on a whole collection of Greenworks tools</a>, including a <a href="https://9to5toys.com/2024/10/11/greenworks-40v-19-inch-cordless-electric-mower-comes-with-a-5-0ah-50kmah-power-bank-battery-at-240-low-save-80-more/">40V 19-inch cordless electric mower</a> that comes with a 5.0Ah/50kmAh power bank battery for <a href="https://9to5toys.com/2024/10/11/greenworks-40v-19-inch-cordless-electric-mower-comes-with-a-5-0ah-50kmah-power-bank-battery-at-240-low-save-80-more/">$240</a>, among others. Plus, all the other hangover Green Deals in the links at the bottom of the page, like yesterday’s first-time <a href="https://9to5toys.com/2024/10/10/first-discount-hits-jackerys-new-explorer-2000-v2-bundle-with-two-200w-solar-panels-at-1599-in-post-prime-day-sale/">Jackery Explorer 2000 v2 bundle</a> discount and the <a href="https://electrek.co/2024/10/08/prime-day-green-deals-evs-power-stations-tools-smart-devices-appliances-more-2/">Hangover Prime Big Deal Days hub</a>, which still has a significant amount of leftover deals that are still lingering and worth a look before they’re gone.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="383872" href="https://electrek.co/2024/10/11/tenways-cgo600-pro-e-bike-bluetti-ac180-bundle-ugreen-greenworks-more/#more-383872" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/11/tenways-cgo600-pro-e-bike-bluetti-ac180-bundle-ugreen-greenworks-more/>
+
+---
+
+## I'd Want A Tesla Cybercab—If It Had A Steering Wheel
+
+date: 2024-10-11, from: Inside EVs News
+
+The Cybercab's design could appeal to driving enthusiasts with a few changes, like the ability to manually control the car.  
+
+<br> 
+
+<https://insideevs.com/news/737103/tesla-cybercab-steering-wheel/>
+
+---
+
+## General Motors Will Sell You A PowerBank For Your Home
+
+date: 2024-10-11, from: Inside EVs News
+
+GM now has a complete home power backup system that can even draw power from your EV's battery. 
+
+<br> 
+
+<https://insideevs.com/news/737061/gm-home-powerbank-energy-storage/>
+
+---
+
+## Kia reveals EV5 prices in Australia, undercutting top-selling rivals
+
+date: 2024-10-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/11/Kia-20K-EV5-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/kia/">Kia</a> is undercutting rivals in Australia, including Tesla’s best-selling Model Y with its new EV5. Can Kia’s electric SUV keep up with the competition?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev5" data-layer-viewtype="unknown" data-post-id="383858" href="https://electrek.co/2024/10/11/kia-reveals-ev5-prices-in-australia-undercuts-top-selling-rivals/#more-383858" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/11/kia-reveals-ev5-prices-in-australia-undercuts-top-selling-rivals/>
+
+---
+
+## Polestar Knows It Has To Be In Comeback Mode
+
+date: 2024-10-11, from: Inside EVs News
+
+We also discuss the sweeping management shake-up at Stellantis and Donald Trump's concerns about self-driving cars. 
+
+<br> 
+
+<https://insideevs.com/news/737100/polestar-needs-a-comeback/>
+
+---
+
+## Elon Musk wants you to believe Tesla is about to deliver self-driving without any data
+
+date: 2024-10-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Robotaxi_75-e1728619627481.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>There was one big thing missing from Tesla’s autonomy event yesterday: data. Elon Musk wants you to believe Tesla is about to deliver self-driving, but you just have to believe him despite the fact that he has been wrong about it every year for the past five years.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="383840" href="https://electrek.co/2024/10/11/elon-musk-wants-you-to-believe-tesla-is-about-to-deliver-self-driving-without-any-data/#more-383840" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/11/elon-musk-wants-you-to-believe-tesla-is-about-to-deliver-self-driving-without-any-data/>
 
 ---
 
@@ -1310,4 +1518,52 @@ date: 2024-10-06, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2024/10/06/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/>
+
+---
+
+## All the EVs (and one PHEV) you can buy with 0% financing this October
+
+date: 2024-10-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/zero-october.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://electrek.co/author/joborras/"></a>Lease deals get all the hype, but some people still want to own the car they’ve made all those payments on. If that’s you, and you’ve been waiting for interest rates to drop, you’re in luck: there’s a bunch of great plugin cars you can buy with 0% financing this month!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-deals,hyundai,kia" data-layer-viewtype="unknown" data-post-id="382950" href="https://electrek.co/2024/10/05/all-the-evs-and-one-phev-you-can-buy-with-0-financing-this-october/#more-382950" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/05/all-the-evs-and-one-phev-you-can-buy-with-0-financing-this-october/>
+
+---
+
+## BYD delivers 100 of its K9UD electric transit buses to Uruguay
+
+date: 2024-10-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/pdp-coach-bus-image-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Chinese electric vehicle giant BYD has delivered 100 of its 12 meter K9UD electric transit buses to Uruguay’s largest electric public transport operator, Cutcsa.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,electric-buses" data-layer-viewtype="unknown" data-post-id="382935" href="https://electrek.co/2024/10/05/byd-delivers-100-of-its-electric-transit-buses-to-uruguay/#more-382935" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/05/byd-delivers-100-of-its-electric-transit-buses-to-uruguay/>
+
+---
+
+## North America’s largest electric wheel loader: HEVI H65L arrives at dealers
+
+date: 2024-10-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/HEVI-Electric-Wheel-Loader.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>With an operating weight scratching at 50,000 lbs., the recently revealed HEVI H65L is the largest battery electric wheel loader available in the North American market today.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,electric-heavy-machinery" data-layer-viewtype="unknown" data-post-id="382910" href="https://electrek.co/2024/10/05/north-americas-largest-electric-wheel-loader-hevi-h65l-arrives-at-dealers/#more-382910" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/05/north-americas-largest-electric-wheel-loader-hevi-h65l-arrives-at-dealers/>
 

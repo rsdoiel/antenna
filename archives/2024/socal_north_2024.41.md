@@ -1,17 +1,17 @@
 ---
 title: socal north
-updated: 2024-10-11 15:59:18
+updated: 2024-10-12 08:13:15
 ---
 
 # socal north
 
-(date: 2024-10-11 15:59:18)
+(date: 2024-10-12 08:13:15)
 
 ---
 
 ## How the Los Angeles County Bar Association Rates Superior Court Judge Candidates
 
-date: 2024-10-11, updated: 2024-10-11, from: The LAist
+date: 2024-10-11, updated: 2024-10-12, from: The LAist
 
 Sus calificaciones son una de las únicas formas en la que un votante que no cuente con formación jurídica pueda evaluar si un candidato a juez del Tribunal Superior del Condado de Los Ángeles está calificado para el cargo. 
 
@@ -21,9 +21,21 @@ Sus calificaciones son una de las únicas formas en la que un votante que no cue
 
 ---
 
+## Proposición 33 de California: Permitir que las ciudades de California aprueben controles de alquiler más estrictos
+
+date: 2024-10-11, updated: 2024-10-12, from: The LAist
+
+¿Será la tercera la vencida en los esfuerzos por derogar una ley estatal que restrinja las formas locales de control de alquileres? 
+
+<br> 
+
+<https://laist.com/news/politics/2024-election-california-general-proposition-33-rent-control-es-proposicion-alquiler>
+
+---
+
 ## Proposición 5 de California: Facilitar la aprobación de bonos para viviendas e infraestructura
 
-date: 2024-10-11, updated: 2024-10-11, from: The LAist
+date: 2024-10-11, updated: 2024-10-12, from: The LAist
 
 ¿Debería California permitir que se aprueben nuevos bonos para viviendas y carreteras con el 55 % de apoyo de los votantes, en lugar del umbral actual de dos tercios? 
 
@@ -133,7 +145,7 @@ A dense fog advisory is in effect until 9 a.m.
 
 ## Orange County's Little Saigon heavily courted in tough Congressional battle
 
-date: 2024-10-11, updated: 2024-10-11, from: The LAist
+date: 2024-10-11, updated: 2024-10-12, from: The LAist
 
 Republican Rep. Michelle Steel is facing a challenge from Democrat Derek Tran, who's vying to be the first Vietnamese American to represent Little Saigon. 
 
@@ -145,7 +157,7 @@ Republican Rep. Michelle Steel is facing a challenge from Democrat Derek Tran, w
 
 ## Creating your own climate map: A new website aims to help Southern Californians use data for climate action
 
-date: 2024-10-11, updated: 2024-10-11, from: The LAist
+date: 2024-10-11, updated: 2024-10-12, from: The LAist
 
 SoCalEarth.org wants to arm people with the data they need to engage with climate issues. 
 
@@ -413,4 +425,18 @@ The story of Ted Ngoy and the community of Cambodian refugees behind every donut
 <br> 
 
 <https://laist.com/news/la-history/how-la-became-a-donut-town-and-the-man-who-started-it-all>
+
+---
+
+## Adopt, Don’t Shop During Pet Adoption Week!
+
+date: 2024-10-05, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin According to the American Society of the Prevention of Cruelty to Animals, 6.3 million lost or stray animals enter animal care centers across the nation every year. Rather than purchasing your pet from a breeder, adopting from a care center truly saves a life. Living in Santa Clarita, we’re fortunate [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/10/05/adopt-dont-shop-during-pet-adoption-week/">Adopt, Don’t Shop During Pet Adoption Week!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/10/05/adopt-dont-shop-during-pet-adoption-week/>
 
