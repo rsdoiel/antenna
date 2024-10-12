@@ -1,11 +1,11 @@
 ---
 title: pacific
-updated: 2024-10-12 08:13:16
+updated: 2024-10-12 11:10:32
 ---
 
 # pacific
 
-(date: 2024-10-12 08:13:16)
+(date: 2024-10-12 11:10:32)
 
 ---
 
@@ -22,6 +22,18 @@ The post <a href="https://www.hawaii.edu/news/2024/10/11/tentative-agreement-uh-
 
 ---
 
+## Hope amid the chaos: Good neighbors rebuild and support each other after hurricanes
+
+date: 2024-10-11, updated: 2024-10-11, from: Marianas Variety
+
+(BPT) - Recent natural disasters have affected people across the United States. For some, dangerous storms have significantly impacted their lives and property. The greatest concern is everyone’s safety. Next, it’s assessing cleanups and addressing damage. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/real_estate/hope-amid-the-chaos-good-neighbors-rebuild-and-support-each-other-after-hurricanes/article_339dea7d-5616-58df-b2f0-7d04e0979352.html>
+
+---
+
 ## Hall of Honor Awards celebrates 75 years, raises more than $340K for Shidler College
 
 date: 2024-10-11, from: University of Hawaiʻi News
@@ -32,6 +44,30 @@ The post <a href="https://www.hawaii.edu/news/2024/10/11/hall-of-honor-2024/">Ha
 <br> 
 
 <https://www.hawaii.edu/news/2024/10/11/hall-of-honor-2024/>
+
+---
+
+## Anheuser-Busch Celebrates American Growers  on National Farmer’s Day
+
+date: 2024-10-11, updated: 2024-10-11, from: Marianas Variety
+
+(NAPSI)—Behind every sip of Anheuser-Busch’s industry-leading beers is a farmer who worked hard to grow the high-quality rice, barley, corn, or hops inside that beer. This National Farmer’s Day, Anheuser-Busch is raising a toast to the more than 700 farmers across the country who make our beers possible. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/food_recipes_entertaining/anheuser-busch-celebrates-american-growers-on-national-farmer-s-day/article_32ad601a-66b4-5ead-90af-8449250a1115.html>
+
+---
+
+## Por qué es importante priorizar su salud y maximizar su bienestar
+
+date: 2024-10-11, updated: 2024-10-11, from: Marianas Variety
+
+(BPT) - ¿Le da prioridad a las visitas de bienestar y a las pruebas de detección de enfermedades en su lista de cosas por hacer? Lamentablemente, muchos estadounidenses no lo hacen. La Encuesta de Bienestar (Wellness Matters) de Aflac de 2024 reveló que 3 de cada 5 estadounidenses evitan las pruebas de detección comunes recomendadas, lo que representa un 20 % más que el año pasado. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/espanol/por-qu-es-importante-priorizar-su-salud-y-maximizar-su-bienestar/article_9f54f6ff-e547-55be-ade2-159237f29e64.html>
 
 ---
 
@@ -710,6 +746,18 @@ By Mar-Vic Cagurangan   While Washington may have partially fulfilled some of i
 
 ---
 
+## 7 expert insights on the future of branded content
+
+date: 2024-10-11, updated: 2024-10-11, from: Marianas Variety
+
+(BPT) - What's next for branded content? 
+
+<br> 
+
+<https://www.mvariety.com/online_features/education/7-expert-insights-on-the-future-of-branded-content/article_aa4fcd31-1614-5761-8299-2caa4cb67092.html>
+
+---
+
 ## Marshall Islands wins UN Human Rights Council seat with climate, nuclear justice agenda 
 
 date: 2024-10-11, from: Pacific Island Times
@@ -785,7 +833,7 @@ By Ongerung Kambes Kesolei   Koror —As Palau celebrates its 30th Independence
 
 ## New Medicare Program Makes Prescription Costs Easier to Handle
 
-date: 2024-10-10, updated: 2024-10-10, from: Marianas Variety
+date: 2024-10-10, updated: 2024-10-12, from: Marianas Variety
 
 (BPT) - This year’s Medicare Annual Enrollment brings a major change for prescription drug users: a new payment program for older adults and those with disabilities to spread out their costs over time, making it easier to manage out-of-pocket expenses. 
 
@@ -824,7 +872,7 @@ date: 2024-10-10, from: Marshal Islands Journal
 
 ## Managing COVID-19 This Season: What You Need to Know and How to Stay Informed
 
-date: 2024-10-10, updated: 2024-10-10, from: Marianas Variety
+date: 2024-10-10, updated: 2024-10-12, from: Marianas Variety
 
 (BPT) - COVID-19 can affect anyone, so it's important to stay informed as we approach another respiratory virus season. This infographic offers key insights on COVID-19 vaccinations, transmission, increased risk factors, Long COVID risks, and the benefits of getting your flu shot at the same time. It also explains when and how to get your updated vaccine for the year. Always talk to your doctor if you have any questions or concerns about vaccinations this season. To find your local vaccine availability and COVID-19 resources, please visit: https://www.ForYouAndThem.com/. 
 
@@ -836,7 +884,7 @@ date: 2024-10-10, updated: 2024-10-10, from: Marianas Variety
 
 ## Help protect your home, your family and your moments
 
-date: 2024-10-10, updated: 2024-10-10, from: Marianas Variety
+date: 2024-10-10, updated: 2024-10-12, from: Marianas Variety
 
 Sorry, but your browser does not support the video tag. 
 
@@ -848,13 +896,25 @@ Sorry, but your browser does not support the video tag.
 
 ## What You Need to Know About the Updated COVID-19 Vaccine
 
-date: 2024-10-10, updated: 2024-10-10, from: Marianas Variety
+date: 2024-10-10, updated: 2024-10-12, from: Marianas Variety
 
 (BPT) - COVID-19 remains a public health concern, as we continue to see periodic surges in infections and hospitalizations.1 But while SARS-CoV-2 infections tend to rise during the fall and winter seasons just like the flu, the virus poses a year-round burden and COVID-19 remains a leading cause of hospitalizations from respiratory infections.2,3 As we head into colder months, it's important to take precautions to protect yourself and your loved ones from infection. 
 
 <br> 
 
 <https://www.mvariety.com/online_features/senior_living/what-you-need-to-know-about-the-updated-covid-19-vaccine/article_86e346e8-65e8-531d-9336-105902fb3ea6.html>
+
+---
+
+## Fire safety: Act now to protect your home and family
+
+date: 2024-10-10, updated: 2024-10-12, from: Marianas Variety
+
+(BPT) - Fall and winter are peak seasons for home fires, according to the National Fire Protection Association (NFPA). To protect your home this Fire Safety Prevention Week, take proactive steps to safeguard against fires, and to be sure your family is ready in case of an emergency. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/real_estate/fire-safety-act-now-to-protect-your-home-and-family/article_c1bd3243-e894-57e0-b270-20fa34b89430.html>
 
 ---
 
@@ -867,18 +927,6 @@ date: 2024-10-10, updated: 2024-10-10, from: Marianas Variety
 <br> 
 
 <https://www.mvariety.com/online_features/health_and_wellness/living-with-cidp-and-pathways-to-innovative-treatment/article_98eb052d-1b12-5971-92cb-6e56421c0423.html>
-
----
-
-## Fire safety: Act now to protect your home and family
-
-date: 2024-10-10, updated: 2024-10-10, from: Marianas Variety
-
-(BPT) - Fall and winter are peak seasons for home fires, according to the National Fire Protection Association (NFPA). To protect your home this Fire Safety Prevention Week, take proactive steps to safeguard against fires, and to be sure your family is ready in case of an emergency. 
-
-<br> 
-
-<https://www.mvariety.com/online_features/real_estate/fire-safety-act-now-to-protect-your-home-and-family/article_c1bd3243-e894-57e0-b270-20fa34b89430.html>
 
 ---
 

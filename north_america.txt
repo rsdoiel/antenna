@@ -7,3 +7,14 @@ https://publicsquaremedia.org/feed/ "~Public Square Media"
 #https://www.marketplace.org/feed/ "~Market Place"
 https://www.marketplace.org/feed/podcast/make-me-smart "~Market Place, Make me Smart"
 https://marketplace.org/feed/podcast/marketplace/ "~Market Place"
+https://www.voanews.com/api/zqbomekvi_ "~VOA News USA"
+https://www.marketplace.org/feed/podcast/marketplace-morning-report "~Marketplace Morning Report"
+
+#
+# Non-profit Journalism
+#
+https://capitalandmain.com/feed "~Capital and Main"
+
+#
+# Overseas via of North America
+#

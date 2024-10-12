@@ -27,7 +27,7 @@ endif
 
 PROJECT = Antenna
 
-section_names = north_america socal_north pacific ham_radio central_coast columns weather writing games journalism libraries home parks motorcycles retro_computing health going_electric food craft
+section_names = north_america socal_north pacific ham_radio science_and_technology central_coast columns weather writing games journalism libraries home parks motorcycles retro_computing health going_electric food craft
 
 md_files = $(addsuffix .md,$(section_names))
 
@@ -111,6 +111,9 @@ retro_computing: .FORCE
 going_electric: .FORCE
 	-skimmer going_electric.txt
 
+science_and_technology:
+	- skimmer science_and_technology.txt
+
 markdown: $(md_files)
 
 $(md_files): .FORCE
@@ -158,6 +161,8 @@ pagefind: .FORCE
 clean: .FORCE
 	-rm north_america.md 2>/dev/null
 	-rm north_america.html 2>/dev/null
+	-rm science_and_technology.md 2>/dev/null
+	-rm science_and_technology.html 2>/dev/null
 	-rm ham_radio.md 2>/dev/null
 	-rm ham_radio.html 2>/dev/null
 	-rm tech_likely.md 2>/dev/null

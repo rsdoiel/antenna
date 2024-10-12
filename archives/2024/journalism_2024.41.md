@@ -1,11 +1,11 @@
 ---
 title: journalism
-updated: 2024-10-12 08:13:19
+updated: 2024-10-12 11:10:36
 ---
 
 # journalism
 
-(date: 2024-10-12 08:13:19)
+(date: 2024-10-12 11:10:36)
 
 ---
 
@@ -48,18 +48,6 @@ UCLA women&#8217;s soccer (11-2-2, 6-0-1 Big Ten) traveled to Chicago as part of
 
 ---
 
-## The Weekly Frame II: A Moment in Time
-
-date: 2024-10-11, from: The Daily Bruin (UCLA Student Newspaper)
-
- 
-
-<br> 
-
-<https://dailytrojan.com/2024/10/11/the-weekly-frame-ii-a-moment-in-time/>
-
----
-
 ## UCLA men’s volleyball hires John Hawks as new head coach
 
 date: 2024-10-11, from: The Daily Bruin (UCLA Student Newspaper)
@@ -82,6 +70,20 @@ After securing their first tournament win at the Eagle Invitational in September
 <br> 
 
 <https://sundial.csun.edu/186168/sports/womens-golf-clinch-back-to-back-tournament-wins/>
+
+---
+
+## The Weekly Frame: A Moment in Time
+
+date: 2024-10-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>In a unique and new collaboration, college newspapers teamed up to capture one hour of time across the country.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/11/the-weekly-frame-ii-a-moment-in-time/">The Weekly Frame: A Moment in Time</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/11/the-weekly-frame-ii-a-moment-in-time/>
 
 ---
 

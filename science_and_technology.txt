@@ -1,0 +1,7 @@
+#
+# Science and Technology
+#
+https://www.theregister.com/headlines.atom "~The Register (UK I.T. News)"
+https://www.nasa.gov/news-release/feed/ "~NASA breaking news"
+https://www.darpa.mil/rss/ "~Darpa News"
+https://www.quantamagazine.org/feed/ "~Quanta Magazine" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)

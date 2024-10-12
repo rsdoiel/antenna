@@ -49,3 +49,9 @@ https://www.friendlycontractor.com/feed/ "~PHB blog"
 #
 https://www.dwell.com/@dwell/rss "~Dwell"
 https://www.sunset.com/feed "~Sunset Magazine - Living in the West"
+
+#
+# Native Plants
+#
+https://www.cnps.org/feed "~California Native Plants Society"
+https://www.cnps-scv.org/?format=feed&type=rss "~California Native Plants Society, Santa Clarita"

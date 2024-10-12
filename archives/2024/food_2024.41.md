@@ -1,11 +1,11 @@
 ---
 title: food
-updated: 2024-10-12 08:13:24
+updated: 2024-10-12 11:10:41
 ---
 
 # food
 
-(date: 2024-10-12 08:13:24)
+(date: 2024-10-12 11:10:41)
 
 ---
 
@@ -210,6 +210,18 @@ The French wine La Vielle Ferme has been around since the ’70s, but it’s the
 <br> 
 
 <https://www.bonappetit.com/story/la-vieille-ferme-chicken-wine-tiktok>
+
+---
+
+## There Are So Many Coffee Events This Weekend
+
+date: 2024-10-11, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. The coffee calendar is standing room only. 
+
+<br> 
+
+<https://sprudge.com/there-are-so-many-coffee-events-this-weekend-256674.html>
 
 ---
 
@@ -524,18 +536,6 @@ Strip steaks with tangy butter sauce, a quick miso-curry stir fry, our favorite 
 <br> 
 
 <https://www.bonappetit.com/bon-appetit-box-3>
-
----
-
-## There Are So Many Coffee Events This Weekend
-
-date: 2024-10-10, from: The Sprudge
-
-<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. The coffee calendar is standing room only. 
-
-<br> 
-
-<https://sprudge.com/there-are-so-many-coffee-events-this-weekend-256674.html>
 
 ---
 
