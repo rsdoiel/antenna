@@ -8,7 +8,7 @@ https://communitygardensofsantaclarita.org/feed/ "~Community Gardens of Santa Cl
 # Theodore Payne's website redesign removed feeds even though they remain a Wordpress site.
 # I might be able to restore this if I can figure out how to leverl the wp-json link visiable
 # in elinks. 2024-09-01 RSD
-https://theodorepayne.org/feed/ "~Theodore Payne Foundation (SoCal Native Plants)" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+##https://theodorepayne.org/feed/ "~Theodore Payne Foundation (SoCal Native Plants)" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io) ## Theodore Payne stopped having feeds after site reorg.
 https://www.cnps.org/feed "~California Native Plants Society"
 https://californiaoaks.org/feed/ "~California Oaks News"
 https://ucanr.edu/blogs/UrbanAg/rssmain.xml "~Urban Ag blog"
@@ -37,7 +37,7 @@ https://gardenerspath.com/feed/ "~The Gardener's Path"
 # Companies and Suppliers
 #
 https://sandiegoseedcompany.com/feed/ "~San Diego Seed Compan"
-https://www.friendlycontractor.com/feed/ "~PHB blog"
+https://friendlycontractor.com/feed/ "~PHB blog"
 
 #
 # Food and Health, what our gardens deliver to us
