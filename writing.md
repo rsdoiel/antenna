@@ -1,11 +1,11 @@
 ---
 title: writing
-updated: 2024-10-12 11:10:35
+updated: 2024-10-12 12:29:31
 ---
 
 # writing
 
-(date: 2024-10-12 11:10:35)
+(date: 2024-10-12 12:29:31)
 
 ---
 
@@ -219,37 +219,6 @@ Be careful what you wish for.
 
 ---
 
-## Scientific American Staff Picks
-
-date: 2024-10-09, from: Locus Magazine
-
-<p>Scientific American published a list of &#8220;Science-Fiction Books Scientific American’s Staff Love.&#8221;</p>
-<p>&#8220;Top Shelf Recommendations&#8221; include <strong>The Hitchhiker&#8217;s Guide to the Galaxy</strong> by Douglas Adams, <strong>Contact </strong>by Carl Sagan, <strong>The Fifth Season </strong>by N.K. Jemisin, and series The Murderbot Diaries by Martha Wells.</p>
-<p>There are a number of other categories featuring works of genre interest, including &#8220;Ghastly Thrillers&#8221; and &#8220;All&#8217;s Fair In Love, War And Time Travel.&#8221;</p>
-<div class="mynomorebulletlist">
-<div class="mynomorebulletlist">
-<p>For the complete </p></div></div> <a href="https://locusmag.com/2024/10/scientific-american-staff-picks/" class="read-more">...Read More </a> 
-
-<br> 
-
-<https://locusmag.com/2024/10/scientific-american-staff-picks/>
-
----
-
-## Robinson at UN Bookshop
-
-date: 2024-10-09, from: Locus Magazine
-
-<p>The United Nations bookshop, located in the Visitors Concourse of the United Nations in the General Assembly Building, held a one-hour &#8220;meet the author&#8221; event featuring Kim Stanley Robinson on September 21, 2024.</p>
-<p>Robinson read from <strong>The Ministry for the Future </strong>and the following Q&#38;A was moderated by Nanette Braun, director of Public Information at the Department of Global Communications.</p>
-<p>The bookshop offers &#8220;the latest books published by and about  <a href="https://locusmag.com/2024/10/robinson-at-un-bookshop/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2024/10/robinson-at-un-bookshop/>
-
----
-
 ## How to sell Big Fish
 
 date: 2024-10-09, from: John August blog
@@ -263,18 +232,6 @@ The post <a href="https://johnaugust.com/2024/how-to-sell-big-fish">How to sell 
 
 ---
 
-## Joker: Folie à Deux Movie Review by Erin Underwood
-
-date: 2024-10-09, from: Locus Magazine
-
-<p class="p1"><strong>Joker: Folie à Deux</strong> starring Joaquin Phoenix and Lady Gaga follows up the 2019 smash hit <strong>Joker.</strong>  The film was easily one of the most anticipated movies of 2024, which automatically puts it at a disadvantage when trying to meet the audience’s expectations. However,<strong> Joker: Folie à Deux</strong> just might be a prime example of why studios need to rethink their current approach to filmmaking when a film that should  <a href="https://locusmag.com/2024/10/joker-folie-a-deux-movie-review-by-erin-underwood/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2024/10/joker-folie-a-deux-movie-review-by-erin-underwood/>
-
----
-
 ## Long takes and calculated decluttering
 
 date: 2024-10-09, from: Interesting, a blog on writing
@@ -284,33 +241,6 @@ The tension in making a scene feel real, but not "too real."
 <br> 
 
 <https://inneresting.substack.com/p/long-takes-and-calculated-decluttering>
-
----
-
-## 2024 New Mexico-Arizona Book Awards
-
-date: 2024-10-09, from: Locus Magazine
-
-<p>The 2024 New Mexico-Arizona Book Awards have been announced. The Science Fiction &#38; Fantasy category winner was a three-way tie: <strong>Guardians of the High Pass</strong> by Avery Christy (Well Read Coyote), <strong>Magical Mushrooms</strong> by Kris Neri (Well Read Coyote), and <strong>Oceana</strong> by E J Randolph (Well Read Coyote).</p>
-<p>The award mission is &#8220;uncovering and honoring the best in Arizona and New Mexico books.&#8221; Each book is judged by members of  <a href="https://locusmag.com/2024/10/2024-new-mexico-arizona-book-awards/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2024/10/2024-new-mexico-arizona-book-awards/>
-
----
-
-## SFWA Secretary Candidate Withdraws
-
-date: 2024-10-09, from: Locus Magazine
-
-<p></p>
-<p>Matthew Reardon, AKA JRH Lawless, has withdrawn his candidacy for secretary of the Science Fiction and Fantasy Writers Association (SFWA) special election. While there are now no official candidates, Steven D. Brewer is a write-in candidate for the position.</p>
-<p>SFWA is holding the special election for president and secretary following the resignations of president Jeffe Kennedy and vice-president Chelsea Mueller, among others. Secretary Anthony W. Eichenlaub is currently interim president. <a href="https://locusmag.com/2024/10/sfwa-secretary-candidate-withdraws/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2024/10/sfwa-secretary-candidate-withdraws/>
 
 ---
 

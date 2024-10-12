@@ -5,6 +5,7 @@
 # Universities and Research Organizations
 https://www.usp.ac.fj/feed/ "~University of the South Pacific (Fiji)"
 
+
 # NGOs
 #https://www.forumsec.org/feed/ "~Pacific Island Forum" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io) # site reimplemented without RSS feeds
 # Micronesian Conservation Coalition fails to open, they are whitelisting some how, works in Firefox, Chrome, but not with skimmer or wget.
@@ -22,8 +23,8 @@ https://www.usp.ac.fj/feed/ "~University of the South Pacific (Fiji)"
 # guampdn.com: getting errors, to many requests, 2023-10-16
 #https://www.guampdn.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc "~Guam Pacific Daily News"
 #https://www.guampdn.com/search/?f=rss&amp;t=article&l=10&s=start_time&sd=desc&amp;k[]=#topstor "~Pacific Daily News" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io) # even after adding the agent string retrieving the feed is not reliable, 2023-12-15
-#https://www.postguam.com/search/?c=news*&t=article&nsa=eedition?s=start_time&sd=desc&l=50&f=rss "~The Guam Daily Post" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io) # feed is dropped, not reliable, 2023-12-23
-https://www.postguam.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc "~Guam Daily Post"
+##https://www.postguam.com/search/?c=news*&t=article&nsa=eedition?s=start_time&sd=desc&l=50&f=rss "~The Guam Daily Post" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io) # feed is dropped, not reliable, 2023-12-23
+##https://www.postguam.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc "~Guam Daily Post"
 # pacificialndtimes.com: getting errors, too many requests, 2023-10-16
 https://www.pacificislandtimes.com/blog-feed.xml "~Pacific Island Times" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 # Northern Marianas Papers
@@ -83,12 +84,12 @@ https://www.hawaiitribune-herald.com/feed/ "~Hawaii Tribune Harold"
 #
 # European News Services covering  Micronesia
 #
-https://www.theguardian.com/world/micronesia/rss "~The Guardian, World/Micronesia"
+##https://www.theguardian.com/world/micronesia/rss "~The Guardian, World/Micronesia"
 
 #
 # FSM Government feeds
 #
-https://gov.fm/index.php/component/content/category/35-pio-articles?Itemid=177&format=feed&type=rss "~FSM Public Information Office (Simina Administration)"
+##https://gov.fm/index.php/component/content/category/35-pio-articles?Itemid=177&format=feed&type=rss "~FSM Public Information Office (Simina Administration)"
 #https://gov.fm/index.php/component/content/category/34-pio-articles?Itemid=177&format=feed&type=rss "~FSM Public Information Office (Panuelo Administration)"
 
 #

@@ -1,11 +1,11 @@
 ---
 title: science and technology
-updated: 2024-10-12 11:10:33
+updated: 2024-10-12 12:29:28
 ---
 
 # science and technology
 
-(date: 2024-10-12 11:10:33)
+(date: 2024-10-12 12:29:28)
 
 ---
 
@@ -69,6 +69,30 @@ In honor of Hispanic Heritage Month, we recognize Hispanic astronauts who have f
 
 ---
 
+## Human Lifespan Might Be About to Hit a Ceiling, Experts Say
+
+date: 2024-10-11, from: Smithsonian Magazine
+
+In the ’90s, many scientists disputed an epidemiologist’s warning that the fast-paced life extension of the 20th century would plateau. Now, a new study suggests he was right 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/human-lifespan-might-be-about-to-hit-a-ceiling-experts-say-180985259/>
+
+---
+
+## A Treasure Hunt for an Ornate Golden Owl Buried in France Has Ended After 31 Years
+
+date: 2024-10-11, from: Smithsonian Magazine
+
+The quest drew thousands of curious participants hoping to solve a series of elaborate riddles—and win a bejeweled statue worth an estimated $165,000 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-treasure-hunt-for-an-ornate-golden-owl-buried-in-france-has-ended-after-31-years-180985207/>
+
+---
+
 ## NASA to Provide Live Coverage of Crew-8 Return, Splashdown
 
 date: 2024-10-11, from: NASA breaking news
@@ -93,6 +117,18 @@ date: 2024-10-11, updated: 2024-10-11, from: The Register (UK I.T. News)
 
 ---
 
+## How an Elephant's Wrinkles Reveal Whether It Is Right- or Left-Trunked
+
+date: 2024-10-11, from: Smithsonian Magazine
+
+A new study sheds light on the muscular, dexterous appendage, suggesting trunk wrinkles are more important than many people realize 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/how-an-elephants-wrinkles-reveal-whether-it-is-right-or-left-trunked-180985247/>
+
+---
+
 ## Ancient Comet Makes Appearance
 
 date: 2024-10-11, from: NASA breaking news
@@ -102,6 +138,42 @@ NASA astronaut Matthew Dominick captured this timelapse photo of Comet C/2023 A3
 <br> 
 
 <https://www.nasa.gov/image-article/ancient-comet-makes-appearance/>
+
+---
+
+## Museum Workers Have Rescued an Artwork From the Trash After a Mechanic Mistook It for Garbage
+
+date: 2024-10-11, from: Smithsonian Magazine
+
+A Dutch museum famous for displaying art in unconventional locations had placed a pair of painted beer cans in a glass elevator shaft 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/museum-workers-have-rescued-an-artwork-from-the-trash-after-a-mechanic-mistook-it-for-garbage-180985240/>
+
+---
+
+## Nobel Peace Prize Goes to Japanese Atomic Bomb Survivors Who Fight for Nuclear Disarmament
+
+date: 2024-10-11, from: Smithsonian Magazine
+
+The grassroots organization, Nihon Hidankyo, was lauded for "demonstrating through witness testimony that nuclear weapons must never be used again" 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/nobel-peace-prize-goes-to-japanese-atomic-bomb-survivors-who-fight-for-nuclear-disarmament-180985256/>
+
+---
+
+## See 15 Winning Images From the Wildlife Photographer of the Year Contest
+
+date: 2024-10-11, from: Smithsonian Magazine
+
+Breathtaking shots shine a light on the wonders of wildlife and the threats that human activities pose to the natural world 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/see-15-winning-images-from-the-wildlife-photographer-of-the-year-contest-180985257/>
 
 ---
 
@@ -150,6 +222,18 @@ A valve designed for NASA rover landings enables effective stage separations for
 <br> 
 
 <https://www.nasa.gov/technology/tech-transfer-spinoffs/controlled-propulsion-for-gentle-landings/>
+
+---
+
+## Seeing Vermeer’s 'Girl With a Pearl Earring' in Person Stimulates the Brain More Than Looking at Reprints, Study Suggests
+
+date: 2024-10-11, from: Smithsonian Magazine
+
+Scientists used EEG headsets, MRI machines and eye trackers to study volunteers' responses to five paintings housed at the Mauritshuis museum in the Netherlands 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/seeing-vermeers-girl-with-a-pearl-earring-in-person-stimulates-the-brain-more-than-looking-at-reprints-study-suggests-180985254/>
 
 ---
 
@@ -381,6 +465,18 @@ date: 2024-10-10, updated: 2024-10-10, from: The Register (UK I.T. News)
 
 ---
 
+## A Rare Monet Painting Has Been Returned to the Family of Its Rightful Owners—Eight Decades After It Was Stolen by the Nazis
+
+date: 2024-10-10, from: Smithsonian Magazine
+
+The Gestapo seized the Impressionist painting from storage after its owners fled from their home in Vienna. Now, the piece has been returned to their granddaughters 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-rare-monet-painting-has-been-returned-to-the-family-of-its-rightful-owners-eight-decades-after-it-was-stolen-by-the-nazis-180985250/>
+
+---
+
 ## GSA plows ahead with face matching tech despite its own reliability concerns
 
 date: 2024-10-10, updated: 2024-10-10, from: The Register (UK I.T. News)
@@ -390,6 +486,18 @@ date: 2024-10-10, updated: 2024-10-10, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2024/10/10/gsa_plows_ahead_with_face/>
+
+---
+
+## Meet Milagra, a Rare Condor Rescued as an Egg and Newly Released Back Into the Wild
+
+date: 2024-10-10, from: Smithsonian Magazine
+
+Milagra, Spanish for “miracle,” was hatched and raised in captivity by foster condor parents after her mother died of avian flu in April 2023 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/meet-milagra-a-rare-condor-rescued-as-an-egg-and-newly-released-back-into-the-wild-180985249/>
 
 ---
 
@@ -405,6 +513,18 @@ date: 2024-10-10, updated: 2024-10-10, from: The Register (UK I.T. News)
 
 ---
 
+## World-First Stem Cell Treatment Reverses Diabetes for a Patient in China, Study Suggests
+
+date: 2024-10-10, from: Smithsonian Magazine
+
+Scientists converted the patient’s own cells into blood sugar-regulating cell clusters before injecting them back into her abdomen—and one year later, she still doesn't need insulin injections 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/world-first-stem-cell-treatment-reverses-diabetes-for-a-patient-in-china-study-suggests-180985198/>
+
+---
+
 ## BBC weather glitch shows 13k mph winds in London, 404℃ in Nottingham
 
 date: 2024-10-10, updated: 2024-10-10, from: The Register (UK I.T. News)
@@ -414,6 +534,18 @@ date: 2024-10-10, updated: 2024-10-10, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2024/10/10/bbc_weather_error_predicts_lows/>
+
+---
+
+## Han Kang Becomes the First South Korean Author to Win the Nobel Prize in Literature
+
+date: 2024-10-10, from: Smithsonian Magazine
+
+Best known for "The Vegetarian," the novelist and poet was praised for her "intense poetic prose that confronts historical traumas and exposes the fragility of human life" 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/han-kang-becomes-the-first-south-korean-author-to-win-the-nobel-prize-in-literature-180985248/>
 
 ---
 
@@ -453,6 +585,18 @@ date: 2024-10-10, updated: 2024-10-10, from: The Register (UK I.T. News)
 
 ---
 
+## You Could See Dazzling Auroras Tonight as 'Strong' Solar Storm Hits. Here's What to Know
+
+date: 2024-10-10, from: Smithsonian Magazine
+
+Predicted to bring the northern lights as far south as parts of California and Alabama, a large coronal mass ejection from the sun collided with our planet Thursday morning 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/you-could-see-dazzling-auroras-tonight-as-strong-solar-storm-hits-heres-what-to-know-180985251/>
+
+---
+
 ## The .io domain isn't going anywhere anytime soon amid treaty
 
 date: 2024-10-10, updated: 2024-10-10, from: The Register (UK I.T. News)
@@ -462,6 +606,18 @@ date: 2024-10-10, updated: 2024-10-10, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2024/10/10/io_domain_uk_mauritius/>
+
+---
+
+## Rome's Trevi Fountain Will Get a Much-Needed Cleaning—and a Controversial New Entry Fee
+
+date: 2024-10-10, from: Smithsonian Magazine
+
+During the restorations, visitors will be able to see the famous site via a temporary walkway, which officials will use to study the flow of foot traffic 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/romes-trevi-fountain-will-get-a-much-needed-cleaning-and-a-controversial-new-entry-fee-180985243/>
 
 ---
 
@@ -681,6 +837,18 @@ date: 2024-10-09, updated: 2024-10-09, from: The Register (UK I.T. News)
 
 ---
 
+## This Exhibition Is Betting That You Don't Know Frida Kahlo as Well as You May Think
+
+date: 2024-10-09, from: Smithsonian Magazine
+
+"Frida: Beyond the Myth" aims to paint an intimate portrait of the artist through dozens of works created by Kahlo and photographs taken by her loved ones 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/this-exhibition-is-betting-that-you-dont-know-frida-kahlo-as-well-as-you-may-think-180985214/>
+
+---
+
 ## Marriott settles for a piddly $52M after series of breaches affecting millions
 
 date: 2024-10-09, updated: 2024-10-09, from: The Register (UK I.T. News)
@@ -690,6 +858,18 @@ date: 2024-10-09, updated: 2024-10-09, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2024/10/09/marriott_settlements_data_breaches/>
+
+---
+
+## Scientists' Work on Protein Structure, Which Governs All Aspects of Life, Wins Nobel Prize in Chemistry
+
+date: 2024-10-09, from: Smithsonian Magazine
+
+David Baker, Demis Hassabis and John M. Jumper revealed how amino acids shape protein structure, a finding that could aid in drug discovery 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/scientists-work-on-protein-structure-which-governs-all-aspects-of-life-wins-nobel-prize-in-chemistry-180985239/>
 
 ---
 
@@ -705,6 +885,18 @@ date: 2024-10-09, updated: 2024-10-09, from: The Register (UK I.T. News)
 
 ---
 
+## How to See the Bright Comet Flaring Up in the Night Sky This Week
+
+date: 2024-10-09, from: Smithsonian Magazine
+
+Comet Tsuchinshan-ATLAS should be visible to the naked eye as it passes Earth on its way out of our solar system 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/how-to-see-the-bright-comet-flaring-up-in-the-night-sky-this-week-180985242/>
+
+---
+
 ## National Public Data files for bankruptcy, admits 'hundreds of millions' potentially affected
 
 date: 2024-10-09, updated: 2024-10-09, from: The Register (UK I.T. News)
@@ -717,6 +909,30 @@ date: 2024-10-09, updated: 2024-10-09, from: The Register (UK I.T. News)
 
 ---
 
+## Archaeologists Discover Intricately Decorated Coffins Belonging to the Only Daughter of an Ancient Egyptian Governor
+
+date: 2024-10-09, from: Smithsonian Magazine
+
+The 4,000-year-old burial chamber featured hieroglyphs referring to the woman, known as Idi, as the "lady of the house" 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/archaeologists-discover-intricately-decorated-coffins-belonging-to-the-only-daughter-of-an-ancient-egyptian-governor-180985217/>
+
+---
+
+## 'Highly Defensive' Mother Bear Grazer Defeats Male That Killed Her Cub to Win Fat Bear Week
+
+date: 2024-10-09, from: Smithsonian Magazine
+
+For the second year in a row, Grazer bested the massive male named Chunk to take the crown in the single elimination online popularity contest at Katmai National Park and Preserve 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/highly-defensive-mother-bear-grazer-defeats-male-that-killed-her-cub-to-win-fat-bear-week-180985241/>
+
+---
+
 ## The ‘Beautiful Confusion’ of the First Billion Years Comes Into View
 
 date: 2024-10-09, from: Quanta Magazine
@@ -726,6 +942,138 @@ Astronomers are reveling in the James Webb Space Telescope’s discoveries about
 <br> 
 
 <https://www.quantamagazine.org/the-beautiful-confusion-of-the-first-billion-years-comes-into-view-20241009/>
+
+---
+
+## An American Bomb Left Over From World War II Explodes at an Airport Taxiway in Japan
+
+date: 2024-10-09, from: Smithsonian Magazine
+
+No one was injured in the blast, and authorities are investigating why the ordnance detonated after so many years underground 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/an-american-bomb-left-over-from-world-war-ii-explodes-at-an-airport-taxiway-in-japan-180985232/>
+
+---
+
+## The FBI Recovers an Andy Warhol Print Worth $175,000 That Vanished From a Private Home in 2021
+
+date: 2024-10-08, from: Smithsonian Magazine
+
+A man is expected to plead guilty for trafficking the print, which reappeared at a Dallas auction house shortly after it went missing from a California residence 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-fbi-recovers-an-andy-warhol-print-worth-175000-that-vanished-from-a-private-home-in-2021-180985210/>
+
+---
+
+## Immerse Yourself in the 'Hyperwall,' NASA's New Visual Showcase of a Changing Earth
+
+date: 2024-10-08, from: Smithsonian Magazine
+
+A new exhibition at the Smithsonian's National Museum of Natural History combines satellite observations and historical data to offer a "larger-than-life look" at our planet's climate today 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/immerse-yourself-in-the-hyperwall-nasas-new-visual-showcase-of-a-changing-earth-180985211/>
+
+---
+
+## Scientists Who Developed the Building Blocks of Artificial Intelligence Win Nobel Prize in Physics
+
+date: 2024-10-08, from: Smithsonian Magazine
+
+John Hopfield and Geoffrey Hinton shared the award for their work on artificial neural networks and machine learning 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/scientists-who-developed-the-building-blocks-of-artificial-intelligence-win-nobel-prize-in-physics-180985219/>
+
+---
+
+## An Art Dealer Bought This Painting at a Barn Sale for $50. It Turned Out to Be an Emily Carr Worth Nearly $150,000
+
+date: 2024-10-08, from: Smithsonian Magazine
+
+The Canadian Post-Impressionist artist was famous for her evocative landscapes and paintings incorporating motifs from First Nations groups 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/an-art-dealer-bought-this-painting-at-a-barn-sale-for-50-it-turned-out-to-be-an-emily-carr-worth-nearly-150000-180985204/>
+
+---
+
+## Hurricane Helene's Floodwaters Damaged 80 Percent of Buildings in Asheville's River Arts District
+
+date: 2024-10-08, from: Smithsonian Magazine
+
+Home to more than 300 artists, the neighborhood was submerged under the record-high waters of the French Broad River 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/hurricane-helenes-floodwaters-damaged-80-percent-of-buildings-in-ashevilles-river-arts-district-180985209/>
+
+---
+
+## American Scientists Win Nobel Prize in Medicine for 'Groundbreaking' Gene Discovery Made by Studying Worms
+
+date: 2024-10-07, from: Smithsonian Magazine
+
+Victor Ambros and Gary Ruvkun discovered microRNA, tiny molecules that play a crucial role in how cells develop, paving the way for new treatments for diseases 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/american-scientists-win-nobel-prize-in-medicine-for-groundbreaking-gene-discovery-made-by-studying-worms-180985206/>
+
+---
+
+## This Painting Was Thought to Be a Botticelli Copy. Now, Researchers Say It Was Made in His Studio
+
+date: 2024-10-07, from: Smithsonian Magazine
+
+A new analysis suggests that the piece was created by several artists working in the Italian Renaissance painter's studio—and that Botticelli himself may have worked on important details 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/this-painting-was-thought-to-be-a-botticelli-copy-now-researchers-think-it-was-made-in-his-studio-180985179/>
+
+---
+
+## Bottlenose Dolphins 'Smile' at Each Other During Playtime, Study Finds
+
+date: 2024-10-07, from: Smithsonian Magazine
+
+Researchers still don't know what the open-mouth facial expression means or whether it's akin to smiling in humans—but several animals make a similar face during play 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/bottlenose-dolphins-smile-at-each-other-during-playtime-study-finds-180985205/>
+
+---
+
+## Astronomers Are Watching for a Once-in-a-Lifetime Nova Explosion. When Will We See It?
+
+date: 2024-10-07, from: Smithsonian Magazine
+
+A recurrent nova, known as the Blaze Star or T Coronae Borealis, is predicted to soon appear in the night sky. But the exact timing of the rare eruption remains unknown 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/astronomers-are-watching-for-a-once-in-a-lifetime-nova-explosion-when-will-we-see-it-180985120/>
+
+---
+
+## A Monet Masterpiece That Hung in Churchill's Home Is Now Free of Grime From Cigar Smoke
+
+date: 2024-10-07, from: Smithsonian Magazine
+
+The newly restored "Charing Cross Bridge," which once hung in the politician's drawing room, is now on display at London's Courtauld Gallery 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-monet-masterpiece-that-hung-in-churchills-home-is-now-free-of-grime-from-cigar-smoke-180985147/>
 
 ---
 

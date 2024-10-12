@@ -1,11 +1,11 @@
 ---
 title: food
-updated: 2024-10-12 11:10:41
+updated: 2024-10-12 12:29:37
 ---
 
 # food
 
-(date: 2024-10-12 11:10:41)
+(date: 2024-10-12 12:29:37)
 
 ---
 
@@ -174,18 +174,6 @@ Fruity cereal protein powder is surprisingly good.
 <br> 
 
 <https://www.bonappetit.com/story/best-whey-protein-powder>
-
----
-
-## Cheesy Ranch Spinach Puffs
-
-date: 2024-10-11, from: Taste of Home
-
-A coworker gave me this recipe thirty years ago. I made a few changes to suit my family’s tastes. These hot cheese and spinach puffs are tasty and always well-received! They are super convenient since you can make them in advance and bake them later. —Kristine Chayes, Smithtown, New York 
-
-<br> 
-
-<https://www.tasteofhome.com/recipes/cheesy-ranch-spinach-puffs/>
 
 ---
 
@@ -731,18 +719,6 @@ Kitchen upgrades for less than a decent bottle of pét-nat.
 
 ---
 
-## Southern Green Beans
-
-date: 2024-10-09, from: Taste of Home
-
-<span style="font-weight: 400;">These southern style green beans are infused with rich, smoky flavors, courtesy of adding savory bacon to the recipe.</span> 
-
-<br> 
-
-<https://www.tasteofhome.com/recipes/southern-green-beans/>
-
----
-
 ## Chorizo Recipe
 
 date: 2024-10-09, from: Isebel Eats
@@ -756,42 +732,6 @@ date: 2024-10-09, from: Isebel Eats
 <br> 
 
 <https://www.isabeleats.com/chorizo-recipe/>
-
----
-
-## Jalapeno Mac and Cheese
-
-date: 2024-10-09, from: Taste of Home
-
-<span style="font-weight: 400;">Jalapeno mac and cheese is a spicy riff on the classic comfort dish; it combines spicy peppers with rich cheeses like cheddar and mozzarella. </span> 
-
-<br> 
-
-<https://www.tasteofhome.com/recipes/jalapeno-mac-and-cheese-2/>
-
----
-
-## Instant Pot Sweet Potatoes
-
-date: 2024-10-09, from: Taste of Home
-
-This Instant Pot sweet potato recipe is for medium-sized potatoes, but you can add five to ten minutes for large potatoes or reduce the time for small potatoes. 
-
-<br> 
-
-<https://www.tasteofhome.com/recipes/instant-pot-sweet-potatoes/>
-
----
-
-## Apple Tea
-
-date: 2024-10-09, from: Taste of Home
-
-<span style="font-weight: 400;">The delicious apple tea transforms scraps into a cozy beverage filled with warm flavors.</span> 
-
-<br> 
-
-<https://www.tasteofhome.com/recipes/apple-tea-2/>
 
 ---
 
@@ -855,30 +795,6 @@ Why go to the coffee shop for espresso when the espresso can come to you?
 
 ---
 
-## Scalloped Sweet Potatoes
-
-date: 2024-10-09, from: Taste of Home
-
-Scalloped sweet potatoes are indulgent enough to be served at an extravagant meal, such as a holiday dinner. 
-
-<br> 
-
-<https://www.tasteofhome.com/recipes/scalloped-sweet-potatoes/>
-
----
-
-## Cornbread Croutons
-
-date: 2024-10-09, from: Taste of Home
-
-If you love cornbread and you love croutons, then all will be right with the world when you put the two together and make these crunchy, savory cornbread croutons. 
-
-<br> 
-
-<https://www.tasteofhome.com/recipes/cornbread-croutons/>
-
----
-
 ## 7 Prime Day Cookbook Deals Actually Worth Buying in Hardcover (or Kindle if That's Your Thing) up to 60% Off
 
 date: 2024-10-09, from: Bon Appetet
@@ -888,18 +804,6 @@ Your bookshelf needs this.
 <br> 
 
 <https://www.bonappetit.com/story/prime-day-cookbook-deals-october>
-
----
-
-## Cheesecake Fruit Salad
-
-date: 2024-10-09, from: Taste of Home
-
-Our luscious cheesecake fruit salad boasts all the gorgeous flavors of a fruity cheesecake with none of the hassle. 
-
-<br> 
-
-<https://www.tasteofhome.com/recipes/cheesecake-fruit-salad/>
 
 ---
 
@@ -939,6 +843,18 @@ date: 2024-10-09, from: Daily Coffee News
 
 ---
 
+## I Need Mushroom Recipes
+
+date: 2024-10-09, from: Bon Appetet
+
+On this episode of Dinner SOS, Chris and caller Leah take a trip to Mushroom Queens to help her feel less intimidated about cooking with mushrooms. 
+
+<br> 
+
+<https://www.bonappetit.com/story/i-need-mushroom-recipes>
+
+---
+
 ## Chicken Biryani Recipe
 
 date: 2024-10-09, from: Chili Pepper Madness
@@ -950,18 +866,6 @@ date: 2024-10-09, from: Chili Pepper Madness
 <br> 
 
 <https://www.chilipeppermadness.com/recipes/biryani/>
-
----
-
-## I Need Mushroom Recipes
-
-date: 2024-10-09, from: Bon Appetet
-
-On this episode of Dinner SOS, Chris and caller Leah take a trip to Mushroom Queens to help her feel less intimidated about cooking with mushrooms. 
-
-<br> 
-
-<https://www.bonappetit.com/story/i-need-mushroom-recipes>
 
 ---
 
@@ -1024,20 +928,6 @@ Great deals on protein powders and other wellness goodies—like matcha powders,
 <br> 
 
 <https://www.bonappetit.com/story/protein-powder-deals-prime-day>
-
----
-
-## FDA Expands Milo’s Poultry Farms Egg Recall Due to Salmonella Outbreak
-
-date: 2024-10-08, from: Taste of Home
-
-<p>Milo's Poultry Farms has expanded its egg recall and the FDA investigation of salmonella infections is ongoing.</p>
-<p>The post <a href="https://www.tasteofhome.com/article/milos-egg-recall-october-2024/">FDA Expands Milo’s Poultry Farms Egg Recall Due to Salmonella Outbreak</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
- 
-
-<br> 
-
-<https://www.tasteofhome.com/article/milos-egg-recall-october-2024/>
 
 ---
 
@@ -1203,32 +1093,6 @@ date: 2024-10-08, from: Isebel Eats
 
 ---
 
-## Prime Big Deal Days Is Here! Save More Than 50% on KitchenAid, HexClad, Keurig and More
-
-date: 2024-10-08, from: Taste of Home
-
-<p>Ready your cart—it's officially Amazon Prime Big Deal Days. Our Senior Shopping Editor hand-selected the best kitchen and home deals based on products from her personal testing. </p>
-<p>The post <a href="https://www.tasteofhome.com/collection/best-sales-prime-big-deal-days/">Prime Big Deal Days Is Here! Save More Than 50% on KitchenAid, HexClad, Keurig and More</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
- 
-
-<br> 
-
-<https://www.tasteofhome.com/collection/best-sales-prime-big-deal-days/>
-
----
-
-## The Best Canned Sardines for Snacking and Cooking
-
-date: 2024-10-07, from: Bon Appetet
-
-We tried 10 tins in our taste test, including King Oscar, Patagonia, and Ortiz. 
-
-<br> 
-
-<https://www.bonappetit.com/story/best-canned-sardines-taste-test-article>
-
----
-
 ## Mazzer Welcomes 2024 World Brewers Cup Champion Martin Wölfl As Brand Ambassador
 
 date: 2024-10-07, from: The Sprudge
@@ -1238,42 +1102,6 @@ date: 2024-10-07, from: The Sprudge
 <br> 
 
 <https://sprudge.com/mazzer-welcomes-2024-world-brewers-cup-champion-martin-wolfl-as-brand-ambassador-256532.html>
-
----
-
-## Cornbread with Creamed Corn
-
-date: 2024-10-07, from: Taste of Home
-
-Our recipe for cornbread with creamed corn creates a fluffy, moist bake that takes the classic side dish to the next level. The cream-style corn and buttermilk plump up the flavor, while sugar adds a touch of sweetness. 
-
-<br> 
-
-<https://www.tasteofhome.com/recipes/cornbread-with-creamed-corn/>
-
----
-
-## Travel with Bon Appétit on a Culinary Getaway to Piedmont
-
-date: 2024-10-07, from: Bon Appetet
-
-Come with Stefano Secchi, chef-owner of New York’s Rezdôra and Massara, on a seven-day travel experience in Piedmont. 
-
-<br> 
-
-<https://www.bonappetit.com/story/piedmont-culinary-getaway>
-
----
-
-## The Best Instant Coffee (2024)
-
-date: 2024-10-07, from: Bon Appetet
-
-Instant coffee has come a long way. We put our palates to the test to determine which brands are worth your time. 
-
-<br> 
-
-<https://www.bonappetit.com/story/best-instant-coffee>
 
 ---
 
@@ -1298,32 +1126,6 @@ date: 2024-10-07, from: Daily Coffee News
 <br> 
 
 <https://dailycoffeenews.com/2024/10/07/lets-talk-coffee-is-back-heading-to-peru-in-2025/>
-
----
-
-## BelGioioso Artichoke Caprese Platter
-
-date: 2024-10-07, from: Taste of Home
-
- 
-
-<br> 
-
-<https://www.tasteofhome.com/recipes/belgioioso-artichoke-caprese-platter/>
-
----
-
-## Perfect for Halloween! These Harry Potter Floating Candles Turn Your House into Hogwarts
-
-date: 2024-10-07, from: Taste of Home
-
-<p>Lumos! Are the Harry Potter floating candles worth the hype? We tested two options to find out. </p>
-<p>The post <a href="https://www.tasteofhome.com/article/harry-potter-floating-candles/">Perfect for Halloween! These Harry Potter Floating Candles Turn Your House into Hogwarts</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
- 
-
-<br> 
-
-<https://www.tasteofhome.com/article/harry-potter-floating-candles/>
 
 ---
 

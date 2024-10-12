@@ -1,11 +1,11 @@
 ---
 title: journalism
-updated: 2024-10-12 11:10:36
+updated: 2024-10-12 12:29:32
 ---
 
 # journalism
 
-(date: 2024-10-12 11:10:36)
+(date: 2024-10-12 12:29:32)
 
 ---
 
@@ -367,19 +367,6 @@ Chávez-Moreno, an assistant professor of education and Chicana/o and Central Am
 
 ---
 
-## UCLA men’s golf finishes 7th in Fighting Irish Classic
-
-date: 2024-10-10, from: The Daily Bruin (UCLA Student Newspaper)
-
-Despite a strong start, the Bruins were unable to capitalize on their final day of play.
-At the conclusion of the first day of the Fighting Irish Classic, UCLA men&#8217;s golf sat in third place. 
-
-<br> 
-
-<https://dailybruin.com/2024/10/09/ucla-mens-golf-finishes-7th-in-fighting-irish-classic/>
-
----
-
 ## Pro-Palestinian group participates in study-in
 
 date: 2024-10-09, from: The Daily Trojan (USC Student Newspaper)
@@ -391,46 +378,6 @@ date: 2024-10-09, from: The Daily Trojan (USC Student Newspaper)
 <br> 
 
 <https://dailytrojan.com/2024/10/09/pro-palestinian-protesters-march-entrances-close-following-study-in/>
-
----
-
-## Getty Center hosts Celebrating Indigenous Peoples’ Day, celebrates Native cultures
-
-date: 2024-10-09, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated Oct. 10 at 8:42 p.m.</em>
-At the Getty Center, celebrating the diversity of Indigenous people is best represented through an array of art. 
-
-<br> 
-
-<https://dailybruin.com/2024/10/09/getty-center-hosts-celebrating-indigenous-peoples-day-celebrates-native-cultures/>
-
----
-
-## AFSCME Local 3299, nurses picket to demand higher wages, better working conditions
-
-date: 2024-10-09, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated Oct. 11 at 12:40 a.m.</em>
-Union members and nurses rallied Wednesday morning to demand housing support and increased wages ahead of contract negotiations with the UC.&#160;
-The protesters were led by American Federation of State, County and Municipal Employees Local 3299, which represents patient care and service workers at the university, and were joined by the California Nurses Association, which represents registered nurses. 
-
-<br> 
-
-<https://dailybruin.com/2024/10/09/afscme-local-3299-nurses-picket-to-demand-higher-wages-better-working-conditions/>
-
----
-
-## Jewish organizations host vigil on 1-year anniversary of Oct. 7 Hamas attack
-
-date: 2024-10-09, from: The Daily Bruin (UCLA Student Newspaper)
-
-Hundreds of people attended a vigil Monday evening to observe the one-year anniversary of the Oct. 7, 2023, attacks. 
-The attacks on Israel by Hamas &#8211; a militant group and Palestinian political party &#8211; killed at least 1,200 Israelis and led to nearly 250 hostages captured, according to ABC News. 
-
-<br> 
-
-<https://dailybruin.com/2024/10/09/jewish-organizations-host-vigil-on-1-year-anniversary-of-oct-7-hamas-attack/>
 
 ---
 
@@ -693,31 +640,6 @@ date: 2024-10-09, from: The Daily Trojan (USC Student Newspaper)
 <br> 
 
 <https://dailytrojan.com/2024/10/09/usc-student-files-suit-against-the-city-of-los-angeles/>
-
----
-
-## National Latinx Physician Day focuses health care on empathy, community
-
-date: 2024-10-09, from: The Daily Bruin (UCLA Student Newspaper)
-
-Two UCLA diversity initiatives hosted a National Latinx Physician Day celebration Oct. 1 in the Neuroscience Research Building.
-This year marks the first time National LatinX Physician Day will be celebrated in California. 
-
-<br> 
-
-<https://dailybruin.com/2024/10/09/national-latinx-physician-day-focuses-health-care-on-empathy-community/>
-
----
-
-## Hillel at UCLA hosts West Coast debut of play ‘October 7: In Their Own Words’
-
-date: 2024-10-09, from: The Daily Bruin (UCLA Student Newspaper)
-
-A Jewish organization at UCLA hosted the West Coast debut of &#8220;October 7: In Their Own Words&#8221; &#8211; a verbatim play commemorating the victims of the Oct. 
-
-<br> 
-
-<https://dailybruin.com/2024/10/09/hillel-at-ucla-hosts-west-coast-debut-of-play-october-7-in-their-own-words/>
 
 ---
 
@@ -1368,42 +1290,6 @@ date: 2024-10-07, from: The Daily Trojan (USC Student Newspaper)
 <br> 
 
 <https://dailytrojan.com/2024/10/07/rare-books-la-brings-literary-treasures-to-union-station/>
-
----
-
-## Beats, bars and wisdom: Hip-Hop icons take the stage at CSUN
-
-date: 2024-10-06, from: The Sundail (CSUN Student Newspaper)
-
-On Sept. 30 at 7:30 p.m., the CSUN Music Entertainment Student Association (MESA) hosted the “Hip-Hop Music Panel: Chris “The Glove” Taylor, which was a discussion of the current state... 
-
-<br> 
-
-<https://sundial.csun.edu/185953/arts-entertainment/beats-bars-and-wisdom-hip-hop-icons-take-the-stage-at-csun/>
-
----
-
-## GRAMMY Museum celebrates Deaf Awareness Month with poetic dialogue
-
-date: 2024-10-06, from: The Sundail (CSUN Student Newspaper)
-
-The GRAMMY Museum hosted a discussion on Saturday, Sept. 28, featuring award-winning Jamaican-British poet Raymond Antrobus and GRAMMY-winning producer Ian Brennan in celebration of Deaf Awareness Month. (From left to... 
-
-<br> 
-
-<https://sundial.csun.edu/185959/arts-entertainment/grammy-museum-celebrates-deaf-awareness-month-with-poetic-dialogue/>
-
----
-
-## The Matadors battle in a 1-1 draw with the Highlanders in Big West Opener
-
-date: 2024-10-06, from: The Sundail (CSUN Student Newspaper)
-
-The CSUN men’s soccer team conceded late to draw with the Highlanders of UC Riverside in their Big West opener, and drew 1-1 at Matador Soccer Field. There was back-and-forth... 
-
-<br> 
-
-<https://sundial.csun.edu/185947/sports/the-matadors-battle-in-a-1-1-draw-with-the-highlanders-in-big-west-opener/>
 
 ---
 

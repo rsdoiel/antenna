@@ -1,11 +1,11 @@
 ---
 title: pacific
-updated: 2024-10-12 11:10:32
+updated: 2024-10-12 12:29:27
 ---
 
 # pacific
 
-(date: 2024-10-12 11:10:32)
+(date: 2024-10-12 12:29:27)
 
 ---
 
@@ -365,48 +365,6 @@ date: 2024-10-11, from: Hawaii Tribune Harold
 
 ---
 
-## Lynx rally for wild OT win over Liberty in Finals opener
-
-date: 2024-10-11, from: Hawaii Tribune Harold
-
-
-				<p>Napheesa Collier connected on a turnaround, mid-range fadeaway with 8.8 seconds left in overtime, lifting the Minnesota Lynx to a 95-93 win over the host New York Liberty in Game 1 of the WNBA Finals on Thursday. </p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/11/sports/lynx-rally-for-wild-ot-win-over-liberty-in-finals-opener/>
-
----
-
-## Brock Purdy fires 3 TD passes as 49ers dump Seahawks
-
-date: 2024-10-11, from: Hawaii Tribune Harold
-
-
-				<p>Brock Purdy threw three touchdown passes, two to George Kittle, and the San Francisco 49ers &#8212; after building a 20-point lead &#8212; held on to defeat the host Seattle Seahawks 36-24 on Thursday. </p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/11/sports/brock-purdy-fires-3-td-passes-as-49ers-dump-seahawks/>
-
----
-
-## Guardians eke out win over Tigers, force Game 5
-
-date: 2024-10-11, from: Hawaii Tribune Harold
-
-
-				<p>DETROIT &#8212; David Fry blasted a two-run homer in the seventh inning and added a run-scoring sacrifice bunt in the ninth Thursday to help the Cleveland Guardians keep their season alive with a 5-4 victory over the Detroit Tigers in Game 4 of the American League Division Series.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/11/sports/guardians-eke-out-win-over-tigers-force-game-5/>
-
----
-
 ## Senate Chairman and PPUC CEO spar over New Electricity rates
 
 date: 2024-10-11, from: Island Times
@@ -573,30 +531,6 @@ date: 2024-10-11, from: Island Times
 
 ---
 
-## Officials provide update on Simon Sanchez reconstruction project
-
-date: 2024-10-11, from: Guam Daily Post
-
-The new Simon Sanchez High School campus is anticipated to be approximately 300,000 square feet, will house more than 1,900 students in 100 classrooms and is estimated to cost $166 million. 
-
-<br> 
-
-<https://www.postguam.com/news/local/officials-provide-update-on-simon-sanchez-reconstruction-project/article_e614691e-8769-11ef-b559-33d727519e50.html>
-
----
-
-## No session agenda adopted this week due to lack of quorum
-
-date: 2024-10-11, from: Guam Daily Post
-
-A lack of quorum for meetings of the legislative Committee on Rules meant a session agenda couldn't be adopted this week, to the disappointment of senators in attendance. Seven senators are needed to form a quorum. Only six senators were… 
-
-<br> 
-
-<https://www.postguam.com/news/local/no-session-agenda-adopted-this-week-due-to-lack-of-quorum/article_c65bb28c-8767-11ef-830b-8bb4f761dbba.html>
-
----
-
 ## PPUC employees attend Pacific Linemen Training
 
 date: 2024-10-11, from: Island Times
@@ -698,30 +632,6 @@ date: 2024-10-11, from: Island Times
 
 ---
 
-## Complaint: Father allegedly hit daughter with pipe, pointed gun at her face
-
-date: 2024-10-11, from: Guam Daily Post
-
-A 13-year-old girl and her 9-year-old sister walked into the Guam Police Department on Wednesday, allegedly telling authorities that their father had abused them repeatedly. 
-
-<br> 
-
-<https://www.postguam.com/news/local/complaint-father-allegedly-hit-daughter-with-pipe-pointed-gun-at-her-face/article_79ff0a94-876a-11ef-9485-b38957355e9f.html>
-
----
-
-## Complaint: Suspect shot 2 women, car with slingshot over parking stall
-
-date: 2024-10-11, from: Guam Daily Post
-
-An altercation reportedly over a parking stall at the Compadres Mall in Harmon has led to the arrest of a restaurant worker’s boyfriend on allegations that he “shot” two other restaurant employees with a slingshot. 
-
-<br> 
-
-<https://www.postguam.com/news/local/complaint-suspect-shot-2-women-car-with-slingshot-over-parking-stall/article_f5007462-876a-11ef-a18f-df29c6e6aef2.html>
-
----
-
 ##  Why print still matters
 
 date: 2024-10-11, from: Pacific Island Times
@@ -767,18 +677,6 @@ By Stefan Armbruster (Benar News} -- Marshall Islands was elected on Wednesday t
 <br> 
 
 <https://www.pacificislandtimes.com/post/marshall-islands-wins-un-human-rights-council-seat-with-climate-nuclear-justice-agenda>
-
----
-
-## UOG SHRM Student Chapter receives highest honor
-
-date: 2024-10-11, from: Guam Daily Post
-
-The University of Guam Society for Human Resource Management Student Chapter has earned the SHRM Superior Merit Award for the 2023-2024 academic year, the university announced in a press release. This recognition is the highest honor granted to student chapters… 
-
-<br> 
-
-<https://www.postguam.com/news/local/uog-shrm-student-chapter-receives-highest-honor/article_3b6a2ff0-8771-11ef-b3b1-43cb7769352b.html>
 
 ---
 
@@ -944,138 +842,6 @@ date: 2024-10-10, from: INSIGHTS ON PBS HAWAIʻI
 
 ---
 
-## Fall in love with autumn and winter gardening
-
-date: 2024-10-10, updated: 2024-10-11, from: Marianas Variety
-
-Sorry, but your browser does not support the video tag. 
-
-<br> 
-
-<https://www.mvariety.com/online_features/real_estate/fall-in-love-with-autumn-and-winter-gardening/article_f1f7eeaf-a1ba-5e66-be85-cb3eff5b7fb8.html>
-
----
-
-## Xtreme Fitness670 is grateful to their team, participants
-
-date: 2024-10-10, updated: 2024-10-11, from: Marianas Variety
-
-XTREME Fitness670, headed by Zumba instructors Michelle M. Olita and Angelo Galfo, is honored to be included among the island’s winners for the Best Zumba/Fitness Group category.The Zumba enthusiasts at Xtreme Fitness670 host classes at the Mayor’s Office of Saipan in Oleai on Mondays and Wednesdays, and in Afetna in the K-Supermarket parking lot on Thursdays and Fridays. All classes start at 6:30 p.m. and last one hour.Tinian is included in the mix, with classes taking place at Natibu from 5:30 p.m. to 6:30 p.m. on Saturdays. On Sundays, class is held from 10:30 a.m. to 11:30 a.m. at Jones Pavilion.“It is an honor to be recognized among the best Zumba/fitness groups in the CNMI, especially considering Xtreme Fitness is only two years old,” said Olita. “This achievement serves as a testament to the dedication and hard work put in by our team.”Olita especially mentioned Crisanta Brien and Jhoy Revilla as assistant coaches, together with Cristina Villas and Sarah Lee as lead shadowers.Olita confirms that her group has the community in mind moving forward, with plans to stay as popular as ever with the island’s Zumba participants.“Our plans are focused on maintaining and expanding our popularity by continuing to offer quality Zumba classes that are accessible to the community,” she said. “We aim to keep our classes engaging, diverse, and inclusive to cater to a wide range of individuals.”Olita and Galfo are certified instructors, with licenses in Zumba Basic, Zumba Kids and Kids Jr., Zumba Gold (for individuals aged 50 and above), Zumba Gold Toning, Zumba Toning, Zumba Steps, Aqua Zumba, and Zumba Plate. They are also certified in Strong License, Weights, and Aqua Strong.She invites the island to keep an eye on their social media, XTREME FITNESS670-A&amp;M POWER DUO, on Facebook or to message (670) 588-5509 for updates.Olita’s message to the CNMI is simple: “Prioritize your health and well-being by staying active, engaging in fitness activities such as Zumba, and connecting with the community for a healthier and happier lifestyle. Don't wait any longer—come join us at Xtreme Fitness670 for free Zumba classes and take a step toward a healthier version of yourself. Everyone is welcome to participate, as we strive to support each other in overcoming challenges and becoming stronger together.“Let's move, dance, and enjoy ourselves while enhancing our physical and mental well-being. By doing so, we can create a new fitness-focused community and forge new friendships. Your ongoing support is greatly appreciated. Thank you.” 
-
-<br> 
-
-<https://www.mvariety.com/xtreme-fitness670-is-grateful-to-their-team-participants/article_6306ef6e-85d5-11ef-98e9-cfa0fa595828.html>
-
----
-
-## Vizion Insurance captures CNMI spotlight
-
-date: 2024-10-10, updated: 2024-10-11, from: Marianas Variety
-
-FOR a company that’s a relative newbie in the field of insurance, Vizion Insurance has certainly made an enormously positive impression on the CNMI community. 
-
-<br> 
-
-<https://www.mvariety.com/vizion-insurance-captures-cnmi-spotlight/article_cda60642-85ae-11ef-a3cf-2f0462ab2529.html>
-
----
-
-## RNV Construction: Building the CNMI for 25 years
-
-date: 2024-10-10, updated: 2024-10-11, from: Marianas Variety
-
-FOR a quarter of a century, RNV Construction has been shaping the landscape of the Commonwealth of the Northern Mariana Islands. The company now boasts a workforce of over a hundred employees, according to Operations Manager Moises Tagle Jr. 
-
-<br> 
-
-<https://www.mvariety.com/rnv-construction-building-the-cnmi-for-25-years/article_0d9928a6-85ff-11ef-b04e-03c47e004da9.html>
-
----
-
-## Pacifica Insurance goes beyond for the CNMI community
-
-date: 2024-10-10, updated: 2024-10-11, from: Marianas Variety
-
-AFTER more than 50 years of being in business, Pacifica Insurance Underwriters Inc. has already built a name for itself as one of the leading insurance providers in the CNMI, and that is already a given. What puts the company a cut above the rest, though, is the robust ties it has built with the CNMI community and the many outreach actions it has taken that solidify its standing not just as a business entity, but also as an active community member. 
-
-<br> 
-
-<https://www.mvariety.com/pacifica-insurance-goes-beyond-for-the-cnmi-community/article_3666b84a-8468-11ef-ac88-47f1060749ed.html>
-
----
-
-## Nam Dae Moon: A taste of Korea on Saipan
-
-date: 2024-10-10, updated: 2024-10-11, from: Marianas Variety
-
-NAM Dae Moon offers a slice of authentic Korean cuisine and culture. This beloved restaurant, under the careful stewardship of owner and manager Hellena Kim (Mi Yun Kim) and Soung Jun Lee, has become the go-to destination for both tourists and locals alike. 
-
-<br> 
-
-<https://www.mvariety.com/nam-dae-moon-a-taste-of-korea-on-saipan/article_7441de46-84fa-11ef-bf94-e3510a2c339a.html>
-
----
-
-## Joeten Enterprises responds to the many needs of the CNMI
-
-date: 2024-10-10, updated: 2024-10-11, from: Marianas Variety
-
-THE venerable Joeten Enterprises, Inc. turned 75 years old this year and adds another feather to its cap by being named one of the best companies in the CNMI in this year’s edition of the Best of the Marianas contest. 
-
-<br> 
-
-<https://www.mvariety.com/joeten-enterprises-responds-to-the-many-needs-of-the-cnmi/article_05cd134e-86c2-11ef-9f2e-53aa203b0563.html>
-
----
-
-## IT&E creates solid partnership with the Marianas
-
-date: 2024-10-10, updated: 2024-10-11, from: Marianas Variety
-
-ASK anyone in the CNMI where the IT&amp;E offices are and they can immediately give you directions. That is quite telling, as it gives you an idea of how IT&amp;E has become such an institution in the CNMI and how it has managed to put down such deep roots in the community. 
-
-<br> 
-
-<https://www.mvariety.com/it-e-creates-solid-partnership-with-the-marianas/article_e412f108-86ce-11ef-851d-2baddd58a90e.html>
-
----
-
-## Herman’s Modern Bakery: A beloved CNMI institution
-
-date: 2024-10-10, updated: 2024-10-11, from: Marianas Variety
-
-EIGHTY years! That’s how long Herman’s Modern Bakery Inc. has been in business in the CNMI. That alone tells you that the company is already an institution in the Commonwealth and has roots so deep they are now a part of the fabric of CNMI history. 
-
-<br> 
-
-<https://www.mvariety.com/herman-s-modern-bakery-a-beloved-cnmi-institution/article_a36ec708-8610-11ef-846f-8fbd126ae760.html>
-
----
-
-## Healing hands at Healing Stone Spa in Garapan
-
-date: 2024-10-10, updated: 2024-10-11, from: Marianas Variety
-
-HEALING Stone Spa always prioritizes its customers' spa experience. 
-
-<br> 
-
-<https://www.mvariety.com/healing-hands-at-healing-stone-spa-in-garapan/article_7b42bdbe-85d6-11ef-b85d-6fb81e54984b.html>
-
----
-
-## Liberty savors ‘brick-by-brick’ redemption story in WNBA
-
-date: 2024-10-10, updated: 2024-10-10, from: Marianas Variety
-
-NEW YORK (Reuters) — The New York Liberty's long comeback story got a thrilling new chapter with a second straight trip to the WNBA Finals this week, as the team once relegated to a 2,100 capacity stadium in the suburbs has Brooklyn's Barclays Center rocking. 
-
-<br> 
-
-<https://www.mvariety.com/sports/nationalsports/liberty-savors-brick-by-brick-redemption-story-in-wnba/article_50ff4040-8649-11ef-9b52-ef90d6265349.html>
-
----
-
 ## Jaluit, Lae win 3×3 tourney
 
 date: 2024-10-10, from: Marshal Islands Journal
@@ -1087,230 +853,6 @@ date: 2024-10-10, from: Marshal Islands Journal
 <br> 
 
 <https://marshallislandsjournal.com/jaluit-lae-win-3x3-tourney/>
-
----
-
-## Auditions to be held for Christmas musical
-
-date: 2024-10-10, from: Hawaii Tribune Harold
-
-
-				<p>Hilo Community Players will be holding auditions for their upcoming production of &#8220;A Christmas Carol (The Musical).&#8221;</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/10/community/auditions-to-be-held-for-christmas-musical/>
-
----
-
-## Man arrested following armed standoff with police in Volcano
-
-date: 2024-10-10, from: Hawaii Tribune Harold
-
-
-				<p>Police on Thursday arrested Shawn Edward Page, 58, for first-degree attempted murder and trespassing following a daylong armed standoff in Volcano.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/10/hawaii-news/man-arrested-following-armed-standoff-with-police-in-volcano/>
-
----
-
-## DLNR: Hit-and-run driver kills nene in Hilo park
-
-date: 2024-10-10, from: Hawaii Tribune Harold
-
-
-				<p>A male nene, banded as 595, was killed this morning by a hit-and-run driver while apparently crossing a road in Lili&#699;uokalani Gardens off Banyan Drive, according to the state Department of Land and Natural Resources.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/10/hawaii-news/dlnr-hit-and-run-driver-kills-nene-in-hilo-park/>
-
----
-
-## Powerful Milton makes landfall on Florida’s Gulf coast
-
-date: 2024-10-10, from: Hawaii Tribune Harold
-
-
-				<p>SARASOTA, Fla. &#8212; Hurricane Milton crashed into Florida with drenching rain, driving wind and a surge of seawater on Wednesday, menacing millions in a state still recovering from Hurricane Helene&#8217;s fury less than two weeks ago.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/10/nation-world-news/powerful-milton-makes-landfall-on-floridas-gulf-coast/>
-
----
-
-## Inside the battle for America’s most consequential battleground state
-
-date: 2024-10-10, from: Hawaii Tribune Harold
-
-
-				<p>ERIE, Pa. &#8212; When Vice President Kamala Harris rolled out her economic agenda, she went to Pittsburgh. When she unveiled her running mate, she went to Philadelphia. And when she had to pick a place for former President Barack Obama&#8217;s first fall rally this Thursday, it was back to Pittsburgh. </p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/10/nation-world-news/inside-the-battle-for-americas-most-consequential-battleground-state/>
-
----
-
-## Nation and world news in brief for October 10
-
-date: 2024-10-10, from: Hawaii Tribune Harold
-
-
-				<p>US races to &#0010;replenish supplies &#0010;of IV fluids &#0010;at hospitals</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/10/nation-world-news/nation-and-world-news-in-brief-for-october-10/>
-
----
-
-## Honolulu airport moves up in passenger satisfaction, but still 4th worst
-
-date: 2024-10-10, from: Hawaii Tribune Harold
-
-
-				<p>Daniel K. Inouye International Airport, the largest in the state, moved up in a ranking of large airports, but it&#8217;s still fourth from the bottom, according to the latest J.D. Power North America Airport Satisfaction Study.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/10/hawaii-news/honolulu-airport-moves-up-in-passenger-satisfaction-but-still-4th-worst/>
-
----
-
-## Boise’s Jeanty could join list of Heisman winners to play UH
-
-date: 2024-10-10, from: Hawaii Tribune Harold
-
-
-				<p>The past four decades, the college football stars have aligned with the University of Hawaii schedule.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/10/sports/boises-jeanty-could-join-list-of-heisman-winners-to-play-uh/>
-
----
-
-## Tigers blank Guardians to take series lead
-
-date: 2024-10-10, from: Hawaii Tribune Harold
-
-
-				<p>DETROIT &#8212; The Tigers unleashed their patented postseason &#8220;pitching chaos&#8221; to claim Game 3 of the ALDS, 3-0. With one more win, a team left for dead in July will implausibly battle for the American League pennant.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/10/sports/tigers-blank-guardians-to-take-series-lead/>
-
----
-
-## DHHL project will create 78 homestead lots at King’s Landing
-
-date: 2024-10-10, from: Hawaii Tribune Harold
-
-
-				<p>Portions of land at King&#8217;s Landing in Hilo could be awarded for Hawaiian homesteads by 2026.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/10/hawaii-news/dhhl-project-will-create-78-homestead-lots-at-kings-landing/>
-
----
-
-## New fencing planned for island forest reserves
-
-date: 2024-10-10, from: Hawaii Tribune Harold
-
-
-				<p>The Department of Land and Natural Resources is gearing up to build nearly six miles of ungulate-proof fencing in state land reserves on Big Island.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/10/hawaii-news/new-fencing-planned-for-island-forest-reserves/>
-
----
-
-## Defendant in fatal Hilo traffic crash released from jail
-
-date: 2024-10-10, from: Hawaii Tribune Harold
-
-
-				<p>A 71-year-old Hilo man who pleaded guilty to a felony negligent homicide charge for a collision that killed a 79-year-old aikido instructor who was riding a recumbent tricycle has been released from custody pending sentencing.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/10/hawaii-news/defendant-in-fatal-hilo-traffic-crash-released-from-jail/>
-
----
-
-## Your Views for October 10
-
-date: 2024-10-10, from: Hawaii Tribune Harold
-
-
-				<p>More weather&#0010;stations needed</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/10/opinion/your-views-for-october-10-5/>
-
----
-
-## Why do federal bureaucrats have so much power over our education system?
-
-date: 2024-10-10, from: Hawaii Tribune Harold
-
-
-				<p>The federal government has fumbled one of its largest obligations in education.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/10/opinion/why-do-federal-bureaucrats-have-so-much-power-over-our-education-system/>
-
----
-
-## BIIF volleyball: Dragons and Warriors wash competition
-
-date: 2024-10-10, from: Hawaii Tribune Harold
-
-
-				<p>The Big Island Interscholastic Federation (BIIF) girls volleyball season continued Tuesday evening &#8212; set to wrap up late next week.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/10/sports/biif-volleyball-dragons-and-warriors-wash-competition/>
-
----
-
-## Ironman pro field revealed
-
-date: 2024-10-10, from: Hawaii Tribune Harold
-
-
-				<p>KAILUA-KONA &#8212; An elite field of the world&#8217;s best professional male triathletes, including four former Ironman World Champions, will assemble in Kona town for the men&#8217;s edition of the 2024 VinFast Ironman World Championship triathlon. On Saturday, October 26, both the professional and age-group men will contest for their respective Ironman World Championship titles on the much-revered Kona course.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/10/sports/ironman-pro-field-revealed/>
 
 ---
 
@@ -1328,66 +870,6 @@ date: 2024-10-10, from: Marshal Islands Journal
 
 ---
 
-## ‘Cost-effective policy’: Chamber supports credit card fee waiver
-
-date: 2024-10-10, from: Guam Daily Post
-
-Roughly $800,000 a month is absorbed by the Department of Revenue and Taxation to provide Guam taxpayers with a waiver to the convenience fees charged with the use of credit cards, but, according to the Guam Chamber of Commerce, the… 
-
-<br> 
-
-<https://www.postguam.com/news/local/cost-effective-policy-chamber-supports-credit-card-fee-waiver/article_36722328-86c6-11ef-81f5-f7e36c32ffed.html>
-
----
-
-## Budget shortfall could prevent Chief Brodie campus reopening
-
-date: 2024-10-10, from: Guam Daily Post
-
-Frustrations grew Wednesday night as the Chief Brodie Elementary School community gathered at their host campus, Juan M. Guerrero Elementary School, wanting to know if and when they would return to their home campus. But while the head of the… 
-
-<br> 
-
-<https://www.postguam.com/news/local/budget-shortfall-could-prevent-chief-brodie-campus-reopening/article_7e9be66a-86cc-11ef-a935-3742993aec2e.html>
-
----
-
-## 8-year option for driver's licenses now law
-
-date: 2024-10-10, from: Guam Daily Post
-
-Acting Gov. Josh Tenorio has signed into law Bill 174-37, the measure that creates an eight-year option for the renewal of a driver's license. This is meant to align with the maximum renewal period allowed under the REAL ID Act,… 
-
-<br> 
-
-<https://www.postguam.com/news/local/8-year-option-for-drivers-licenses-now-law/article_5c6aad64-86c3-11ef-a7b4-4fc90b62da5a.html>
-
----
-
-## GAIN warns of consequences of dumping: Puppies left drowning at gate euthanized
-
-date: 2024-10-10, from: Guam Daily Post
-
-Employees arriving at the Guam Animals In Need shelter in Yigo after the passage of Topical Storm Bebinca last month happened upon a tragic sight. A half-dozen puppies barely clinging to life sat inside a plastic tub at the shelter's… 
-
-<br> 
-
-<https://www.postguam.com/news/local/gain-warns-of-consequences-of-dumping-puppies-left-drowning-at-gate-euthanized/article_8a13a36a-86b4-11ef-9775-ffc7211b9ece.html>
-
----
-
-## Volunteer, donate to BeHeartfelt’s CANstruction event this weekend
-
-date: 2024-10-10, from: Guam Daily Post
-
-CANstruction teams and volunteers are needed to help build the reserves used to feed hungry children who otherwise may not have food to eat when school is out. 
-
-<br> 
-
-<https://www.postguam.com/news/local/volunteer-donate-to-beheartfelt-s-canstruction-event-this-weekend/article_d46f3026-86ac-11ef-97fc-434c7c36d0f5.html>
-
----
-
 ## ‘Enra’ payment program delayed
 
 date: 2024-10-10, from: Marshal Islands Journal
@@ -1399,30 +881,6 @@ date: 2024-10-10, from: Marshal Islands Journal
 <br> 
 
 <https://marshallislandsjournal.com/enra-payment-program-delayed/>
-
----
-
-## Guam rugby's improbable medal defied the odds
-
-date: 2024-10-10, from: Guam Daily Post
-
-Earlier this week, when the Guam women’s national rugby team competed in the Asia Rugby Emirates Sevens Trophy third-place game against Indonesia in Kathmandu, Nepal, they trailed at halftime but never gave up. Earlier that day, while competing in the… 
-
-<br> 
-
-<https://www.postguam.com/sports/local/guam-rugbys-improbable-medal-defied-the-odds/article_1e9c8158-8694-11ef-947b-bbcd6b83ebc0.html>
-
----
-
-## Guam’s 1st Le Cordon Bleu Paris-trained chef completes her journey
-
-date: 2024-10-09, from: Guam Daily Post
-
-Guam Community College alumna Selah Chong, a 2023 graduate from GCC’s culinary arts program, is the first Guamanian to complete her training at the original Le Cordon Bleu culinary school in Paris, France, according to a press release from GCC.… 
-
-<br> 
-
-<https://www.postguam.com/island_life/guam-s-1st-le-cordon-bleu-paris-trained-chef-completes-her-journey/article_c80b86e2-863c-11ef-8e49-1bd92dc3022f.html>
 
 ---
 
@@ -1505,30 +963,6 @@ The post <a href="https://www.hawaii.edu/news/2024/10/08/pbs-spotlights-uh-hilo-
 
 ---
 
-## GDOE may realign enrollment as  it tackles major budget shortfall
-
-date: 2024-10-09, from: Guam Daily Post
-
-Chief Brodie Memorial Elementary School passed its sanitary inspection last week, but it hasn't yet opened its doors to its students, who continue to attend classes at the Juan M. Guerrero Elementary School campus. 
-
-<br> 
-
-<https://www.postguam.com/news/local/gdoe-may-realign-enrollment-as-it-tackles-major-budget-shortfall/article_f7b789b6-853f-11ef-acc1-6b2faa2405bd.html>
-
----
-
-## ACLU says Moylan should concede after SCOTUS denial, AG responds
-
-date: 2024-10-09, from: Guam Daily Post
-
-Meagan Burrows, a senior staff attorney of the Reproductive Freedom Project at the American Civil Liberties Union, said Attorney General Douglas Moylan should recognize the recent denial from the Supreme Court of the United States as "the end of his… 
-
-<br> 
-
-<https://www.postguam.com/news/local/aclu-says-moylan-should-concede-after-scotus-denial-ag-responds/article_8f50b8b6-85e9-11ef-aaba-efed163258f1.html>
-
----
-
 ## Moylan says US is prepared to defend Guam in case a conflict arises
 
 date: 2024-10-09, from: Pacific Island Times
@@ -1538,18 +972,6 @@ By Frank Whitman Guam Del. James C. Moylan assured the people of Guam that the p
 <br> 
 
 <https://www.pacificislandtimes.com/post/moylan-says-us-is-prepared-to-defend-guam-in-case-a-conflict-arises>
-
----
-
-## October is National Pedestrian Safety Month
-
-date: 2024-10-09, from: Guam Daily Post
-
-The Department of Public Works Office of Highway Safety, together with the partners for highways safety, invites everyone to join the observance of National Pedestrian Safety Month, DPW announced in a press release. 
-
-<br> 
-
-<https://www.postguam.com/news/local/october-is-national-pedestrian-safety-month/article_cc503bde-85ed-11ef-9f89-ab189a10416c.html>
 
 ---
 
@@ -1566,18 +988,6 @@ The post <a href="https://www.hawaii.edu/news/2024/10/08/new-cipa-director/">Flo
 
 ---
 
-## UOG student Garret O’Donnell  selected for Knauss fellowship
-
-date: 2024-10-09, from: Guam Daily Post
-
-University of Guam student Garret O’Donnell has been selected for the highly competitive Knauss Marine Policy Fellowship from the National Oceanic and Atmospheric Administration and the National Sea Grant College Program, according to a press release from the university. 
-
-<br> 
-
-<https://www.postguam.com/news/local/uog-student-garret-o-donnell-selected-for-knauss-fellowship/article_3dbae35c-851a-11ef-aaab-e7692767eabb.html>
-
----
-
 ## Shifting Tides
 
 date: 2024-10-09, from: HIKI NŌ ON PBS HAWAIʻI
@@ -1589,58 +999,6 @@ date: 2024-10-09, from: HIKI NŌ ON PBS HAWAIʻI
 <br> 
 
 <https://www.pbshawaii.org/shifting-tides/>
-
----
-
-## $950K to launch new butchery course at Hawaiʻi CC
-
-date: 2024-10-09, from: University of Hawaiʻi News
-
-<p>The course offers students comprehensive, hands-on training in butchery, including humane slaughter methods, carcass breakdown and meat processing.</p>
-The post <a href="https://www.hawaii.edu/news/2024/10/08/new-butchery-course/">$950K to launch new butchery course at Hawaiʻi <abbr>CC</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2024/10/08/new-butchery-course/>
-
----
-
-## UH Mānoa shines in latest world university rankings
-
-date: 2024-10-09, from: University of Hawaiʻi News
-
-<p>This recognition positions <abbr>UH</abbr>’s flagship campus as the <abbr>No</abbr>. 63 ranked university in the United States.</p>
-The post <a href="https://www.hawaii.edu/news/2024/10/08/times-higher-education-world-rankings-2025/"><abbr>UH</abbr> Mānoa shines in latest world university rankings</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2024/10/08/times-higher-education-world-rankings-2025/>
-
----
-
-## Former Warrior Jeff Ulbrich named New York Jets interim head coach
-
-date: 2024-10-09, from: University of Hawaiʻi News
-
-<p>Ulbrich has served as Jets defensive coordinator since 2021.</p>
-The post <a href="https://www.hawaii.edu/news/2024/10/08/ulbrich-named-jets-interim-hc/">Former Warrior Jeff Ulbrich named New York Jets interim head coach</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2024/10/08/ulbrich-named-jets-interim-hc/>
-
----
-
-## Could adding iron to the ocean solve some climate change problems?
-
-date: 2024-10-09, from: University of Hawaiʻi News
-
-<p>A study explores the potential of ocean iron fertilization as a low-cost, scalable and rapidly deployable method of marine carbon dioxide removal.</p>
-The post <a href="https://www.hawaii.edu/news/2024/10/08/adding-iron-to-ocean/">Could adding iron to the ocean solve some climate change problems?</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2024/10/08/adding-iron-to-ocean/>
 
 ---
 
@@ -1704,30 +1062,6 @@ Saipan  — A U.S. political writer complains that the Harris-Walz economic pla
 
 ---
 
-## 64-year-old woman reportedly suffers minor  injuries as man allegedly steals chips, sodas
-
-date: 2024-10-08, from: Guam Daily Post
-
-Randy Ignacio Chargualaf is facing a charge of third-degree robbery after he allegedly stole two bags of chips and two sodas from Dairy Mart in Mangilao. The alleged incident reportedly left a 64-year-old woman with some minor injuries. 
-
-<br> 
-
-<https://www.postguam.com/news/64-year-old-woman-reportedly-suffers-minor-injuries-as-man-allegedly-steals-chips-sodas/article_0e73b2f8-8589-11ef-85e6-0fb8e43440f6.html>
-
----
-
-## Man, woman arrested after officers find suspected methamphetamine during stop
-
-date: 2024-10-08, from: Guam Daily Post
-
-A man and a woman are facing drug possession charges after a traffic stop led to the discovery of suspected drug paraphernalia. 
-
-<br> 
-
-<https://www.postguam.com/news/local/man-woman-arrested-after-officers-find-suspected-methamphetamine-during-stop/article_48e6937c-8581-11ef-941c-53db9bb51a27.html>
-
----
-
 ## Women Candidates Make Historic Strides in Palau’s Upcoming General Election
 
 date: 2024-10-08, from: Island Times
@@ -1757,30 +1091,6 @@ date: 2024-10-08, from: Island Times
 
 ---
 
-## Temporary Sanchez campus by Christmas break unlikely
-
-date: 2024-10-08, from: Guam Daily Post
-
-It appears that Simon Sanchez High School students will not be able to move into a temporary campus by Christmas break. Guam Department of Education Superintendent Kenneth Erik Swanson said Tuesday that he doubts that would happen even if the… 
-
-<br> 
-
-<https://www.postguam.com/news/local/temporary-sanchez-campus-by-christmas-break-unlikely/article_39f3ccda-8537-11ef-8ff6-5f7e4b3b2c83.html>
-
----
-
-## High Court denies AG's petition regarding abortion ban decision
-
-date: 2024-10-08, from: Guam Daily Post
-
-The Supreme Court of the United States has denied the Guam attorney general's petition for a writ of certiorari regarding last year's determination from the Supreme Court of Guam that a decades-old abortion ban no longer has any effect on… 
-
-<br> 
-
-<https://www.postguam.com/news/local/high-court-denies-ags-petition-regarding-abortion-ban-decision/article_b0ac2392-8521-11ef-9583-0f40c34497b1.html>
-
----
-
 ## Guam Chamber of Commerce seeks retention of credit card fee waivers
 
 date: 2024-10-08, from: Pacific Island Times
@@ -1790,54 +1100,6 @@ By Pacific Island  Times News Staff  The Guam Chamber of Commerce urged the Gua
 <br> 
 
 <https://www.pacificislandtimes.com/post/guam-chamber-of-commerce-seeks-retention-of-credit-card-fee-waivers>
-
----
-
-## Lutheran Church gets new pastor
-
-date: 2024-10-08, from: Guam Daily Post
-
-The Lutheran Church of Guam installed Rev. Andrew "Andy" Taylor as its new pastor, following a service Sunday, the church announced in a press release. 
-
-<br> 
-
-<https://www.postguam.com/news/local/lutheran-church-gets-new-pastor/article_4be4bbaa-852a-11ef-ab7b-5bab29e420b1.html>
-
----
-
-## UOG installs aquaponics systems
-
-date: 2024-10-08, from: Guam Daily Post
-
-For many, the thought of being able to go out to the backyard and grab a fresh fish for dinner seems absurd, but it is a reality for members of the first cohort of the University of Guam Center for… 
-
-<br> 
-
-<https://www.postguam.com/news/local/uog-installs-aquaponics-systems/article_a46c894c-851b-11ef-9fff-67fcd5bc314a.html>
-
----
-
-## Man allegedly steals bike, exchanges for meth
-
-date: 2024-10-08, from: Guam Daily Post
-
-A man who reportedly goes by the street name "Rambo" has been charged with theft of property for his alleged involvement in the theft of a bicycle worth $700, which he allegedly exchanged for methamphetamine, or ice. 
-
-<br> 
-
-<https://www.postguam.com/news/local/man-allegedly-steals-bike-exchanges-for-meth/article_2a257892-847b-11ef-90d1-0737d3255e19.html>
-
----
-
-## Override attempts fail, several bills passed as lawmakers close session
-
-date: 2024-10-08, from: Guam Daily Post
-
-The latest attempt to enact two vetoed measures related to the Office of Public Accountability, Bill 213-37 and Bill 227-37, again fell short of passing the Guam Legislature as lawmakers capped off session late Monday morning. Bill 213 obtained only… 
-
-<br> 
-
-<https://www.postguam.com/news/local/override-attempts-fail-several-bills-passed-as-lawmakers-close-session/article_90ce8d1e-84ac-11ef-a923-b3584167f59b.html>
 
 ---
 
@@ -1874,18 +1136,6 @@ By Pacific Island Times News Staff The Government Accountability Office has agre
 <br> 
 
 <https://www.pacificislandtimes.com/post/gao-approves-request-to-study-guam-customs-federalization>
-
----
-
-## A look at UH President candidate Julian Vasquez Heilig
-
-date: 2024-10-07, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
-
- 
-
-<br> 
-
-<https://www.manoanow.org/kaleo/a-look-at-uh-president-candidate-julian-vasquez-heilig/article_5858123e-7c5f-11ef-a54f-5b9175f9376d.html>
 
 ---
 
@@ -1927,78 +1177,6 @@ by Nancy Beadie If Billy Collins were a woman, or if I were Billy Collins, we mi
 
 ---
 
-## Oversight on GHS/OCD postponed again
-
-date: 2024-10-07, from: Guam Daily Post
-
-The long-awaited oversight hearing on Guam Homeland Security/Office of Civil Defense will, again, have to wait another day. The hearing was scheduled to take place Monday morning, but the ongoing session at the Guam Legislature meant the hearing had to… 
-
-<br> 
-
-<https://www.postguam.com/news/local/oversight-on-ghs-ocd-postponed-again/article_7b441a38-8450-11ef-b488-5fa1717b74b2.html>
-
----
-
-## Passenger told allegedly drunk driver ‘slow down’ before crash
-
-date: 2024-10-07, from: Guam Daily Post
-
-The passenger of a vehicle with a man who reportedly had three times the legal limit for blood alcohol content in his system allegedly told police that he had told the driver “to slow down,” before a collision on Swamp… 
-
-<br> 
-
-<https://www.postguam.com/news/local/passenger-told-allegedly-drunk-driver-slow-down-before-crash/article_365c87b2-8378-11ef-8d50-b7573f0e21d5.html>
-
----
-
-## Teaching abroad: UOG alum’s Peace Corps mission in Samoa
-
-date: 2024-10-07, from: Guam Daily Post
-
-When Lazaro Quinata graduated from the University of Guam in 2020 with a degree in sociology and a minor in CHamoru studies, he was eager to explore new opportunities. The COVID-19 pandemic initially limited his options, but he was able… 
-
-<br> 
-
-<https://www.postguam.com/news/local/teaching-abroad-uog-alum-s-peace-corps-mission-in-samoa/article_344ab36a-8209-11ef-96f5-779fbecaec91.html>
-
----
-
-## Southern passes DPHSS inspection, students return to campus Tuesday
-
-date: 2024-10-07, from: Guam Daily Post
-
-Southern High School students will return to their home campus Tuesday, with their school successfully passing a reinspection by Department of Public Health and Social Services officials. 
-
-<br> 
-
-<https://www.postguam.com/news/local/southern-passes-dphss-inspection-students-return-to-campus-tuesday/article_aa0eee06-8464-11ef-b3a4-8bf7226a53e5.html>
-
----
-
-## Shieh denies rumors he’s leaving
-
-date: 2024-10-07, from: Guam Daily Post
-
-Dr. Thomas Shieh has shot down rumors that he is resigning from the Guam Memorial Hospital, telling The Guam Daily Post on Monday that a recent post on his Facebook page was taken “the wrong way.” 
-
-<br> 
-
-<https://www.postguam.com/news/local/shieh-denies-rumors-he-s-leaving/article_163d424a-845f-11ef-8212-d3b80c4dc093.html>
-
----
-
-## Swaggers dunk Crumble Cookies in 15U volleyball championship game
-
-date: 2024-10-07, from: Guam Daily Post
-
-With tournament co-MVPs Lea Aromin and Jaedyn Punongbayan leading their young team, the AOLG Swaggers defeated the Legacy Volleyball Club Crumble Cookies 25-20, 25-17, in the AOLG 15U Girls Volleyball Tournament championship game Sunday in Hagåtña. 
-
-<br> 
-
-<https://www.postguam.com/sports/local/swaggers-dunk-crumble-cookies-in-15u-volleyball-championship-game/article_21afb936-8433-11ef-92de-eb5b4b197878.html>
-
----
-
 ## HIKI NŌ ON PBS HAWAI‘I: Class of 2024, Part 2
 
 date: 2024-10-07, from: HIKI NŌ ON PBS HAWAIʻI
@@ -2025,18 +1203,6 @@ By Louella Losinio   Manila —With Guam facing a gap in health care, the Phili
 
 ---
 
-## Man found sleeping near school allegedly had methamphetamine
-
-date: 2024-10-07, from: Guam Daily Post
-
-Officers with the Guam Police Department say that the man they found sleeping in a “running vehicle” near an elementary school in Malesso' was also found with methamphetamine. 
-
-<br> 
-
-<https://www.postguam.com/news/local/man-found-sleeping-near-school-allegedly-had-methamphetamine/article_0a20c02c-8379-11ef-a5ba-dfe7e280e256.html>
-
----
-
 ## Key issues shaping Guam’s elections
 
 date: 2024-10-06, from: Pacific Island Times
@@ -2046,160 +1212,4 @@ By Mar-Vic Cagurangan and Jayvee Vallejera   As Nov. 5 draws near, Guam voters 
 <br> 
 
 <https://www.pacificislandtimes.com/post/key-issues-shaping-guam-s-elections>
-
----
-
-## Guam Agriculture opposes NOAA's listing giant clams as endangered
-
-date: 2024-10-06, from: Guam Daily Post
-
-Imagine for a minute that CHamorus could no longer wear a sinahi or other jewelry made from the giant clam across borders without risking confiscation. According to the Guam Department of Agriculture, that is just one of the impacts the… 
-
-<br> 
-
-<https://www.postguam.com/news/local/guam-agriculture-opposes-noaas-listing-giant-clams-as-endangered/article_abf8a8c8-839d-11ef-9fcb-eb0f75fbc377.html>
-
----
-
-## Guam takes 3rd in FIRST Global Challenge
-
-date: 2024-10-06, from: Guam Daily Post
-
-On Saturday in Hagåtña, four seniors from Father Duenas Memorial School and Simon Sanchez High School showcased their robotics project which won their alliance third place in a competition held over 7,000 miles away in Athens, Greece. 
-
-<br> 
-
-<https://www.postguam.com/news/local/guam-takes-3rd-in-first-global-challenge/article_0f3e1d06-8393-11ef-8ee1-8303c9ae7d70.html>
-
----
-
-## Man allegedly assaulted father
-
-date: 2024-10-06, from: Guam Daily Post
-
-A suspect charged Thursday in the Superior Court of Guam allegedly wore brass knuckles during an altercation with his father that turned physical over a “rude awakening.” 
-
-<br> 
-
-<https://www.postguam.com/news/local/man-allegedly-assaulted-father/article_b19de3e2-81f4-11ef-95a5-97a1ac8c6e3a.html>
-
----
-
-## Stakeout leads to 4 drug arrests
-
-date: 2024-10-06, from: Guam Daily Post
-
-The Guam Police Department arrested four individuals, one of them suspected to be the “main man” of an alleged “trap house” in Dededo. 
-
-<br> 
-
-<https://www.postguam.com/news/local/stakeout-leads-to-4-drug-arrests/article_c2614e08-8299-11ef-9ea2-8ffb669e7189.html>
-
----
-
-## Man accused of threats to woman, children
-
-date: 2024-10-06, from: Guam Daily Post
-
-A man who allegedly claimed to be part of a “crew” is accused of threatening his girlfriend and her sons for “retaliation,” a magistrate's complaint filed in the Superior Court of Guam stated. 
-
-<br> 
-
-<https://www.postguam.com/news/local/man-accused-of-threats-to-woman-children/article_84f57e7e-8378-11ef-871d-4779399a539f.html>
-
----
-
-## Driver involved in a head-on car collision allegedly drank 8 beers
-
-date: 2024-10-06, from: Guam Daily Post
-
-A 25-year-old man allegedly had more than two times the legal blood alcohol level when he collided head-on with another vehicle on Thursday in Mangilao. 
-
-<br> 
-
-<https://www.postguam.com/news/local/driver-involved-in-a-head-on-car-collision-allegedly-drank-8-beers/article_16cd0aaa-8299-11ef-a646-6b210dbe5ab9.html>
-
----
-
-## Complaint: Suspect tried to lose police on dark road
-
-date: 2024-10-05, from: Guam Daily Post
-
-A suspect who led police on a high-speed chase through Dededo on Oct. 1 didn’t get away for long, despite efforts to lose authorities on a dark road, according to a magistrate's complaint filed in the Superior Court of Guam… 
-
-<br> 
-
-<https://www.postguam.com/news/local/complaint-suspect-tried-to-lose-police-on-dark-road/article_a87bb9e2-8208-11ef-873f-07a795cc8ebc.html>
-
----
-
-## GDOE: Chief Brodie passes inspection, no word on SHS inspection results
-
-date: 2024-10-05, from: Guam Daily Post
-
-It’s been a week since the superintendent’s deadline to have all 24,000 students back on campus for in-person learning, however, two schools remain closed. 
-
-<br> 
-
-<https://www.postguam.com/news/local/gdoe-chief-brodie-passes-inspection-no-word-on-shs-inspection-results/article_0f407748-82a5-11ef-81f7-5bbd61a4db50.html>
-
----
-
-## Lawmakers debate 'sweetheart deal' for golf course conversion to solar farm
-
-date: 2024-10-05, from: Guam Daily Post
-
-A "sweetheart deal." That's what some lawmakers said Bill 179-37 would create by modifying the lease between Guam International Country Club Inc. and the Chamorro Land Trust Commission to allow the operation of a solar power facility on CLTC property… 
-
-<br> 
-
-<https://www.postguam.com/news/local/lawmakers-debate-sweetheart-deal-for-golf-course-conversion-to-solar-farm/article_f782b73c-81fb-11ef-b43d-f331bee58dbe.html>
-
----
-
-## Bascon charged with vehicular homicide, released on $15K PR bond
-
-date: 2024-10-05, from: Guam Daily Post
-
-Charged with vehicular homicide in the death of John Edward Kinsey III, Darlene Mafnas Bascon faces up to nine years imprisonment if found guilty. 
-
-<br> 
-
-<https://www.postguam.com/news/local/bascon-charged-with-vehicular-homicide-released-on-15k-pr-bond/article_668455d6-81f8-11ef-ada5-17c7ab28deaa.html>
-
----
-
-## Airport terminal flooring project moves forward
-
-date: 2024-10-05, from: Guam Daily Post
-
-If you’ve flown into Guam in the last year, you may have noticed the bare floors in the baggage claim area, but according to the Guam International Airport Authority, that will soon change as a project to install culturally artistic… 
-
-<br> 
-
-<https://www.postguam.com/news/local/airport-terminal-flooring-project-moves-forward/article_64034f96-829e-11ef-8c24-f30c598141c4.html>
-
----
-
-## Support for bill limiting cannabis testing exemption
-
-date: 2024-10-05, from: Guam Daily Post
-
-With the effective date for the cannabis testing exemption in Guam law fast approaching, certain lawmakers are hoping to amend the law further so that the exemption only applies to cannabis flowers or buds, and not edibles or any other… 
-
-<br> 
-
-<https://www.postguam.com/news/local/support-for-bill-limiting-cannabis-testing-exemption/article_7473d19c-8231-11ef-a365-9fc71641e55b.html>
-
----
-
-## Guam rugby triumphs over Nepal, to face India in cup semifinals
-
-date: 2024-10-05, from: Guam Daily Post
-
-Despite a short-handed roster, which became even shorter after Mariana Crisostomo sustained a suspected ACL tear and Erica Quichocho suffered three cracked ribs, the Guam women’s national rugby team won a game and had two other strong showings Friday in… 
-
-<br> 
-
-<https://www.postguam.com/sports/local/guam-rugby-triumphs-over-nepal-to-face-india-in-cup-semifinals/article_62331580-8298-11ef-9382-43a622ff17f2.html>
 

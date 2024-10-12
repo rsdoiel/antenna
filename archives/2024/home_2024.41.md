@@ -1,11 +1,11 @@
 ---
 title: home
-updated: 2024-10-12 11:10:38
+updated: 2024-10-12 12:29:34
 ---
 
 # home
 
-(date: 2024-10-12 11:10:38)
+(date: 2024-10-12 12:29:34)
 
 ---
 
@@ -479,18 +479,6 @@ CDFA secretary Karen Ross visited Peru this week as part of a Climate Smart Agri
 
 ---
 
-## This Stylish Hammock Keeps Vacation Vibes Going All Year Long
-
-date: 2024-10-11, from: Sunset Magazine - Living in the West
-
-You can still create summer vibes year round, just get a hammock to chill out in. Use it for sleeping, napping, and reading, it's an escape. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/outdoor-living/yellow-leaf-hammock-review>
-
----
-
 ## 20 Grasshopper Species in Florida with Pictures, Identification
 
 date: 2024-10-11, from: Yard Life blog
@@ -521,30 +509,6 @@ date: 2024-10-11, from: Yard Life blog
 
 ---
 
-## Don’t Miss the Meteor Shower Made of Fragments of Comet Halley
-
-date: 2024-10-10, from: Sunset Magazine - Living in the West
-
-Conditions are right for a great meteor shower early Sunday morning. 
-
-<br> 
-
-<https://www.sunset.com/travel/orionid-meteor-shower-peaks-early-thursday-morning>
-
----
-
-## A ‘Once-in-a-Lifetime’ Star System Explosion Is Coming Soon—Here’s How to See It
-
-date: 2024-10-10, from: Sunset Magazine - Living in the West
-
-For the first time in nearly 80 years, T Coronae Borealis (T CrB for short) will explode. And experts say you can see it with an unaided eye. 
-
-<br> 
-
-<https://www.sunset.com/travel/t-coronae-borealis-star-explosion>
-
----
-
 ## Here’s Why Tesla Cybertrucks Are a Headache for Insurance Companies
 
 date: 2024-10-10, from: Family Handyman Blog
@@ -568,18 +532,6 @@ For their latest project in Core City, EC3 and Prince Concepts highlight pre-exi
 <br> 
 
 <https://www.dwell.com/article/the-canopy-in-detroit-reimagines-big-block-multifamily-housing-a381e8e6>
-
----
-
-## Disneyland Just Raised Ticket Prices This Week
-
-date: 2024-10-10, from: Sunset Magazine - Living in the West
-
-It’s going to cost you more to visit the Happiest Place on Earth. Disneyland announced that it was raising its ticket prices. 
-
-<br> 
-
-<https://www.sunset.com/travel/disneyland-ticket-price-increase>
 
 ---
 
@@ -608,18 +560,6 @@ date: 2024-10-10, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/hoas-more-expensive-to-own-a-home/>
-
----
-
-## Two Comets Are on Their Way to Our Skies in October—Here’s How to See Them
-
-date: 2024-10-10, from: Sunset Magazine - Living in the West
-
-Mother Nature is putting on a show in two acts this month, with a pair of comets on the way. Here’s how to catch both. 
-
-<br> 
-
-<https://www.sunset.com/travel/outdoor-adventure/comet-tsuchinshan-atlas-october-2024>
 
 ---
 
@@ -677,18 +617,6 @@ Set just a short drive from the beach, the renovated two-story home has soothing
 
 ---
 
-## Your End of Summer Garden Bootcamp: 7 Things to Do Right Now
-
-date: 2024-10-10, from: Sunset Magazine - Living in the West
-
-The end of summer means it's time to clean up the garden and get it into working shape. Here's what to do to prepare it for seasons ahead. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/garden-basics/end-of-summer-garden-tasks>
-
----
-
 ## October 10 – World Mental Health Day
 
 date: 2024-10-10, from: Calfifornia Dept. Aggriculture blog
@@ -728,42 +656,6 @@ date: 2024-10-10, from: Yard Life blog
 
 ---
 
-## Chefs and Foodies Used to Hate This Ingredient. Now They Can’t Stop Using It.
-
-date: 2024-10-10, from: Sunset Magazine - Living in the West
-
-Packaged dried pasta used to be a major no-no for food lovers and chefs alike. Now it's having a real moment. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/best-new-dried-pasta-brands>
-
----
-
-## If You’re a Pumpkin Spice-Hater, These New Food Items Just Might Change Your Mind
-
-date: 2024-10-10, from: Sunset Magazine - Living in the West
-
-Fall is pumpkin spice-flavored everything season. The newest products out there might make even the naysayers think twice. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/new-pumpkin-spice-products-2024>
-
----
-
-## These 4 Changes Will Make Your Home Feel Cozier and More Inviting
-
-date: 2024-10-09, from: Sunset Magazine - Living in the West
-
-For a cozier home, you'll need to be strategic about the colors and textures you use. Interior designers share their best tips. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design/how-to-make-home-cozy>
-
----
-
 ## 11 Tips on How to Grout a Backsplash
 
 date: 2024-10-09, from: Family Handyman Blog
@@ -789,18 +681,6 @@ date: 2024-10-09, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/dont-feed-raccoons/>
-
----
-
-## The ‘Electroculture’ Gardening Trend Is Making a Comeback. Here’s What to Know About It.
-
-date: 2024-10-09, from: Sunset Magazine - Living in the West
-
-Electroculture is a real thing, and well, using it in your garden is as sci-fi as it sounds. We explaing the latest gardening trend. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/garden-basics/electroculture-gardening-trend>
 
 ---
 
@@ -837,18 +717,6 @@ Lundy designed the gallery-like dwelling with wide-open spaces encased in wood a
 <br> 
 
 <https://www.dwell.com/article/victor-lundy-house-bellaire-houston-texas-real-estate-3ce62fb4>
-
----
-
-## 5 Small, Budget-Friendly Paint Projects That Can Completely Transform Your Home
-
-date: 2024-10-09, from: Sunset Magazine - Living in the West
-
-All you need is a can of paint to transform a room. There are some DIY paint projects to try that can make a big design difference. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/diy-projects/budget-friendly-paint-projects>
 
 ---
 
@@ -904,129 +772,6 @@ Treat yourself to a head that mimics a waterfall or a stone bath mat made of dia
 <br> 
 
 <https://www.dwell.com/article/everything-i-bought-to-make-my-boring-shower-feel-like-a-spa-a76cc7bb>
-
----
-
-## Disneyland Just Brought Back a New Transportation Option for the First Time in 4 Years
-
-date: 2024-10-09, from: Sunset Magazine - Living in the West
-
-There’s good news for Monorail riders: the nose cone section is open to the public once again after closing during the pandemic. 
-
-<br> 
-
-<https://www.sunset.com/lifestyle/disneyland-monorail-nose-cone-open>
-
----
-
-## Disneyland’s Iconic It’s a Small World Ride Is Closing for Months
-
-date: 2024-10-09, from: Sunset Magazine - Living in the West
-
-Disneyland California's It's a Small World ride will close for upgrades and repairs, as well as preparations for the holiday season. 
-
-<br> 
-
-<https://www.sunset.com/travel/disneylands-its-a-small-world-ride-closure>
-
----
-
-## Coffee Lovers Rejoice: Delicious Recipes You Didn’t Know You Needed
-
-date: 2024-10-09, from: Sunset Magazine - Living in the West
-
-Coffee lovers rejoice: delicious recipes you didn’t know you needed. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/kitchen-assistant/don-francisco-national-coffee-day-recipes>
-
----
-
-## Yellow Jacket vs Hornet: A Complete Guide to Identifying Them
-
-date: 2024-10-09, from: Yard Life blog
-
-<p>Yellow jackets and hornets are two commonly mistaken wasps due to their similar appearances and behaviors. Both belong to the ... </p>
-<p class="read-more-container"><a title="Yellow Jacket vs Hornet: A Complete Guide to Identifying Them" class="read-more button" href="https://ownyardlife.com/yellow-jacket-vs-hornet-a-complete-guide-to-identifying-them/#more-20511" aria-label="Read more about Yellow Jacket vs Hornet: A Complete Guide to Identifying Them">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/yellow-jacket-vs-hornet-a-complete-guide-to-identifying-them/">Yellow Jacket vs Hornet: A Complete Guide to Identifying Them</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/yellow-jacket-vs-hornet-a-complete-guide-to-identifying-them/>
-
----
-
-## Why Do Flying Ants Suddenly Appear in Your Home?
-
-date: 2024-10-09, from: Yard Life blog
-
-<p>Have you ever stepped outside on a warm day only to be greeted by a cloud of flying ants? This ... </p>
-<p class="read-more-container"><a title="Why Do Flying Ants Suddenly Appear in Your Home?" class="read-more button" href="https://ownyardlife.com/why-do-flying-ants-suddenly-appear-in-your-home/#more-20499" aria-label="Read more about Why Do Flying Ants Suddenly Appear in Your Home?">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/why-do-flying-ants-suddenly-appear-in-your-home/">Why Do Flying Ants Suddenly Appear in Your Home?</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/why-do-flying-ants-suddenly-appear-in-your-home/>
-
----
-
-## What Do Jumping Spiders Eat? Unveiling Their Nutritional Needs
-
-date: 2024-10-09, from: Yard Life blog
-
-<p>Jumping spiders, belonging to the family Salticidae, are a fascinating group of arachnids renowned for their distinctive leaping ability and ... </p>
-<p class="read-more-container"><a title="What Do Jumping Spiders Eat? Unveiling Their Nutritional Needs" class="read-more button" href="https://ownyardlife.com/what-do-jumping-spiders-eat-unveiling-their-nutritional-needs/#more-20491" aria-label="Read more about What Do Jumping Spiders Eat? Unveiling Their Nutritional Needs">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/what-do-jumping-spiders-eat-unveiling-their-nutritional-needs/">What Do Jumping Spiders Eat? Unveiling Their Nutritional Needs</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/what-do-jumping-spiders-eat-unveiling-their-nutritional-needs/>
-
----
-
-## Are Orange Ladybugs Poisonous? What You Need to Know
-
-date: 2024-10-09, from: Yard Life blog
-
-<p>When you see a bright orange ladybug crawling on your plants, you might wonder, are orange ladybugs poisonous? Many people ... </p>
-<p class="read-more-container"><a title="Are Orange Ladybugs Poisonous? What You Need to Know" class="read-more button" href="https://ownyardlife.com/are-orange-ladybugs-poisonous-what-you-need-to-know/#more-20480" aria-label="Read more about Are Orange Ladybugs Poisonous? What You Need to Know">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/are-orange-ladybugs-poisonous-what-you-need-to-know/">Are Orange Ladybugs Poisonous? What You Need to Know</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/are-orange-ladybugs-poisonous-what-you-need-to-know/>
-
----
-
-## 21 Tips on How to Keep Deer Out of Your Garden
-
-date: 2024-10-09, from: Yard Life blog
-
-<p>Deer are undoubtedly beautiful and majestic creatures, but when they decide to treat your garden, berry patch, or flower beds ... </p>
-<p class="read-more-container"><a title="21 Tips on How to Keep Deer Out of Your Garden" class="read-more button" href="https://ownyardlife.com/21-tips-on-how-to-keep-deer-out-of-your-garden/#more-20471" aria-label="Read more about 21 Tips on How to Keep Deer Out of Your Garden">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/21-tips-on-how-to-keep-deer-out-of-your-garden/">21 Tips on How to Keep Deer Out of Your Garden</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/21-tips-on-how-to-keep-deer-out-of-your-garden/>
-
----
-
-## All the New Fall Things at Trader Joe’s Are Calling Your Name
-
-date: 2024-10-08, from: Sunset Magazine - Living in the West
-
-Fall is one of the most exciting times of the year at Trader Joe's. This year, there are pumpkin, apple, and cinnamon flavors galore. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/trader-joes-new-october-products-2024>
 
 ---
 
@@ -1132,18 +877,6 @@ date: 2024-10-08, from: The Gardener's Path
 
 ---
 
-## This Mid-Century Modern House Was Originally Built on a Tennis Court Owned By a Hollywood Star
-
-date: 2024-10-08, from: Sunset Magazine - Living in the West
-
-This house was originally built on a tennis court that belonged to a Hollywood star. After its last remodel in the '80s, it got an update. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/home-tours/la-canada-mid-century-modern-house-tour>
-
----
-
 ## Secretary Ross, Climate Smart Ag delegation visit Peru
 
 date: 2024-10-08, from: Calfifornia Dept. Aggriculture blog
@@ -1153,45 +886,6 @@ CDFA secretary Karen Ross is in Peru as part of a Climate Smart Agriculture Poli
 <br> 
 
 <https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28306>
-
----
-
-## Announcing the 2025 Sunset Western Home & Design Awards—Enter Today!
-
-date: 2024-10-08, from: Sunset Magazine - Living in the West
-
-Sunset is launching the Western Home & Design Awards to honor the people and studios evolving the designs that define living well in the West. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/2025-sunset-western-home-design-awards>
-
----
-
-## These Are the Best Amazon October Prime Day Deals, According to Sunset Editors
-
-date: 2024-10-08, from: Sunset Magazine - Living in the West
-
-Amazon's Big Deal Days is the biggest shopping event of fall. Our editors share their favorite picks for Amazon October Prime Day. 
-
-<br> 
-
-<https://www.sunset.com/lifestyle/shopping/amazon-october-big-deal-days-2024>
-
----
-
-## Majesty Palm Care and Growing Guide (Most Detailed)
-
-date: 2024-10-08, from: Yard Life blog
-
-<p>The Majesty Palm (Ravenea rivularis), with its elegant fronds and towering stature, is a popular choice for both indoor and ... </p>
-<p class="read-more-container"><a title="Majesty Palm Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/majesty-palm-care-and-growing-guide-most-detailed/#more-20453" aria-label="Read more about Majesty Palm Care and Growing Guide (Most Detailed)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/majesty-palm-care-and-growing-guide-most-detailed/">Majesty Palm Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/majesty-palm-care-and-growing-guide-most-detailed/>
 
 ---
 

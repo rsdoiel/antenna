@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2024-10-12 11:10:37
+updated: 2024-10-12 12:29:33
 ---
 
 # libraries
 
-(date: 2024-10-12 11:10:37)
+(date: 2024-10-12 12:29:33)
 
 ---
 
@@ -61,18 +61,6 @@ date: 2024-10-10, from: Scholarly Kitchen
 
 ---
 
-## How do pig veterinarians view technology-assisted data utilisation for pig health and welfare management? A qualitative study in Spain, the Netherlands, and Ireland
-
-date: 2024-10-10, from: ETH Zurich, recently added
-
-Zhou, Xiao; Garcia-Morante, Beatriz; Burrell, Alison; Correia-Gomes, Carla; Dieste-Pérez, Lucia; Eenink, Karlijn; Segalés, Joaquim; Sibila, Marina; Siegrist, Michael; Tobias, Tijs; Vilalta, Carles; Bearth, Angela 
-
-<br> 
-
-<http://hdl.handle.net/20.500.11850/699149>
-
----
-
 ## The Social Contract, by Jean-Jacques Rousseau
 
 date: 2024-10-09, from: Standard Ebooks, new releaases
@@ -108,6 +96,42 @@ date: 2024-10-09, from: Scholarly Kitchen
 <br> 
 
 <https://scholarlykitchen.sspnet.org/2024/10/09/guest-post-overcoming-skepticism-through-experimentation-the-role-of-ai-in-transforming-peer-review/>
+
+---
+
+## Internet Archive to Receive 400,000 Dissertations from Leiden University
+
+date: 2024-10-08, from: Internet Archive Blog
+
+From https://www.library.universiteitleiden.nl/news/2024/10/he-internet-archive-takes-over-foreign-dissertations-from-ubl Last month, the UBL announced that it will deselect an extensive collection of foreign dissertations. We are happy to report now that The Internet Archive will be taking [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2024/10/08/internet-archive-to-receive-400000-dissertations-from-leiden-university/>
+
+---
+
+## Shortwave Radio: A Unique Collection from the Cold War Era
+
+date: 2024-10-08, from: Internet Archive Blog
+
+It was the mid-1980s, Chuck Vesei developed a fascination with shortwave radio. He used his portable radio to tune into shortwave broadcasts from around the globe.&#160;Because shortwave signals can travel [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2024/10/08/shortwave-collection/>
+
+---
+
+## Vanishing Culture: Keeping the Receipts
+
+date: 2024-10-08, from: Internet Archive Blog
+
+The following guest post from editor and journalist Maria Bustillos is part of our&#160;Vanishing Culture&#160;series, highlighting the power and importance of preservation in our digital age. On August 13, 1961, [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2024/10/08/vanishing-culture-keeping-the-receipts/>
 
 ---
 
@@ -224,6 +248,18 @@ This paper details the National Library of Belgium’s (KBR) exploration of auto
 <br> 
 
 <https://journal.code4lib.org/articles/18103>
+
+---
+
+## Aruba to Receive 2024 Internet Archive Hero Award for Groundbreaking Digital Heritage Initiatives
+
+date: 2024-10-07, from: Internet Archive Blog
+
+In a world where digital access to knowledge is increasingly vital, the island nation of Aruba has taken bold steps to ensure its cultural heritage is preserved and accessible for [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2024/10/07/aruba-to-receive-2024-internet-archive-hero-award-for-groundbreaking-digital-heritage-initiatives/>
 
 ---
 

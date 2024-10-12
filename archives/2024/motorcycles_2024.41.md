@@ -1,11 +1,11 @@
 ---
 title: motorcycles
-updated: 2024-10-12 11:10:39
+updated: 2024-10-12 12:29:35
 ---
 
 # motorcycles
 
-(date: 2024-10-12 11:10:39)
+(date: 2024-10-12 12:29:35)
 
 ---
 
@@ -222,18 +222,6 @@ Ready to drop out of a plane and into your heart right now.
 <br> 
 
 <https://www.rideapart.com/news/736628/vespa-tap-150-for-sale-rocket-launcher/>
-
----
-
-## Don't Be a Jerk To Whales, Ride Your Jet Skis Away From Them
-
-date: 2024-10-09, from: Ride Apart, Electric Motorcycle News
-
-Come on, folks.  
-
-<br> 
-
-<https://www.rideapart.com/news/736607/jet-ski-whale-encounter-jerk-riders-australia/>
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: going electric
-updated: 2024-10-12 11:10:40
+updated: 2024-10-12 12:29:37
 ---
 
 # going electric
 
-(date: 2024-10-12 11:10:40)
+(date: 2024-10-12 12:29:37)
 
 ---
 
@@ -653,18 +653,6 @@ date: 2024-10-10, from: Electrek Feed
 
 ---
 
-## Is The Tesla Robotaxi Coming To Europe?
-
-date: 2024-10-10, from: Inside EVs News
-
-Tesla hasn’t announced any plans to bring its driverless taxi to Europe, but it probably will. 
-
-<br> 
-
-<https://insideevs.com/news/736847/tesla-robotaxi-coming-to-europe/>
-
----
-
 ## GM sold more EVs and hybrids than gas cars for the first time in China
 
 date: 2024-10-10, from: Electrek Feed
@@ -694,30 +682,6 @@ date: 2024-10-10, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2024/10/10/ev-sub-brand-codenamed-firefly-launch-nio-day-2024-december-21/>
-
----
-
-## Tesla's Robotaxi Event Can Be A Win If It Brings Us What We Really Want
-
-date: 2024-10-10, from: Inside EVs News
-
-Here's a hint: it's not actually the Robotaxi. It's what the EV market really wants.  
-
-<br> 
-
-<https://insideevs.com/news/736859/tesla-robotaxi-event-affordable-model/>
-
----
-
-## Tesla's Robotaxi Still Faces The AI 'Black Box Problem'
-
-date: 2024-10-10, from: Inside EVs News
-
-Plus, the industry is split on LIDAR, and BYD wants to sell 100,000 cars in Mexico next year. 
-
-<br> 
-
-<https://insideevs.com/news/736774/tesla-robotaxi-ai-black-box/>
 
 ---
 
@@ -769,30 +733,6 @@ date: 2024-10-10, from: Electrek Feed
 
 ---
 
-## BMW's EVs Are Having A Great Time
-
-date: 2024-10-10, from: Inside EVs News
-
-Sales of BMW Group’s EVs went up even as BMW grapples with a global recall and Mini is refreshing its lineup. 
-
-<br> 
-
-<https://insideevs.com/news/736804/bmw-ev-sales-q3-2024/>
-
----
-
-## Fisker Ocean Vehicle Data 'Impossible' To Port To Another Server
-
-date: 2024-10-10, from: Inside EVs News
-
-American Lease, the entity that wants to buy over 3,000 Ocean EVs, said it wants out of the deal if it can’t use its own server. 
-
-<br> 
-
-<https://insideevs.com/news/736798/fisker-ocean-data-impossible-port/>
-
----
-
 ## This sovereign tribal nation’s school district just got electric school buses
 
 date: 2024-10-09, from: Electrek Feed
@@ -841,30 +781,6 @@ date: 2024-10-09, from: Electrek Feed
 
 ---
 
-## Tesla Robotaxi Event: The Recap
-
-date: 2024-10-09, from: Inside EVs News
-
-Elon Musk introduced the Tesla "Cybercab" and "Robovan" at Thursday's event, but both may be a ways off. 
-
-<br> 
-
-<https://insideevs.com/news/736707/tesla-robotaxi-event-live-stream/>
-
----
-
-## More Tesla Executives Exit Ahead Of Robotaxi Debut
-
-date: 2024-10-09, from: Inside EVs News
-
-Last week, four top Tesla executives who directly reported to CEO Elon Musk announced their departures on LinkedIn. 
-
-<br> 
-
-<https://insideevs.com/news/736762/tesla-exodus-top-officials-leave/>
-
----
-
 ## BYD wants to sell 100,000 EVs in Mexico next year as its North American presence expands
 
 date: 2024-10-09, from: Electrek Feed
@@ -878,18 +794,6 @@ date: 2024-10-09, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2024/10/09/byd-to-sell-100000-evs-north-american-market-next-year/>
-
----
-
-## The Volvo EX30 Is Already On Canadian Roads
-
-date: 2024-10-09, from: Inside EVs News
-
-Canadian buyers can already go out and buy the pint-sized EV crossover at dealerships across the country. 
-
-<br> 
-
-<https://insideevs.com/news/736748/volvo-ex30-canadian-roads-on-sale/>
 
 ---
 
@@ -962,18 +866,6 @@ date: 2024-10-09, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2024/10/09/tesla-robotaxi-rumors-butterfly-doors-two-seats-robovan-and-more/>
-
----
-
-## Tesla Has A Lot To Prove On Robotaxi Day. Top Experts Have Doubts
-
-date: 2024-10-09, from: Inside EVs News
-
-The Tesla Robotaxi reveal is CEO Elon Musk's make-or-break moment. But AI scientists think Tesla's approach has major flaws. 
-
-<br> 
-
-<https://insideevs.com/news/736711/tesla-robotaxi-doubt-science-fsd/>
 
 ---
 

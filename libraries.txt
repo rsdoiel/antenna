@@ -38,3 +38,6 @@ https://www.brodrigues.co/blog/index.xml "~Bruno Rodrigues blog"
 #
 https://www.crossref.org/blog/index.xml "~Crossref Blog"
 https://www.itforarchivists.com/index.xml "~IT for Archivists"
+https://blog.archive.org/feed/ "~Internet Archive Blog"
+https://opencitations.hypotheses.org/feed "~Open Citation blog at Hypotheses.org"
+https://ror.org/index.xml "~ROR Research ID Blog"

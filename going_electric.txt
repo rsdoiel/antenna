@@ -9,7 +9,7 @@ https://greencoast.org/feed/ "~Green Coast blog"
 
 #
 # Government sites/feeds
-https://www.whitehouse.gov/ostp/news-updates/blogs/feed "~Office of Science and Technology Policy blog"
+https://www.whitehouse.gov/ostp/news-updates/blogs/feed/ "~Office of Science and Technology Policy blog"
 https://www.calenergyblog.com/blog-feed.xml "~California Energy Blog"
 
 # Podcasts

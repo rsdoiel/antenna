@@ -1,11 +1,11 @@
 ---
 title: socal north
-updated: 2024-10-12 11:10:31
+updated: 2024-10-12 12:29:27
 ---
 
 # socal north
 
-(date: 2024-10-12 11:10:31)
+(date: 2024-10-12 12:29:27)
 
 ---
 
@@ -42,18 +42,6 @@ date: 2024-10-11, updated: 2024-10-12, from: The LAist
 <br> 
 
 <https://laist.com/news/politics/2024-election-california-general-proposition-5-affordable-housing-construction-es-propuesta-viviendas-infraestructura>
-
----
-
-## Proposición 4 de California: Financiamiento de la acción climática
-
-date: 2024-10-11, updated: 2024-10-11, from: The LAist
-
-La Propuesta 4 es un bono de 10 mil millones de dólares para financiar proyectos climáticos y ambientales. 
-
-<br> 
-
-<https://laist.com/news/politics/2024-election-california-general-proposition-4-climate-action-bond-es-propuesta-accion-climatica>
 
 ---
 
@@ -178,18 +166,6 @@ date: 2024-10-10, from: City of Santa Clarita
 <br> 
 
 <https://santaclarita.gov/blog/2024/10/10/exciting-upgrades-coming-to-old-orchard-park/>
-
----
-
-## Temperatures drop a few degrees today for inland areas
-
-date: 2024-10-10, updated: 2024-10-10, from: The LAist
-
-Foggy mornings, warm days ahead. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/temps-drop-inland-areas-today>
 
 ---
 
@@ -375,18 +351,6 @@ date: 2024-10-09, from: City of Santa Clarita
 <br> 
 
 <https://santaclarita.gov/blog/2024/10/09/register-for-the-girls-try-hockey-for-free-day-at-the-cube/>
-
----
-
-## California Proposition 35: Extending a tax to fund health care
-
-date: 2024-10-09, updated: 2024-10-10, from: The LAist
-
-The state measure would make a tax on medical providers permanent and would guarantee funding for some Medi-Cal services. 
-
-<br> 
-
-<https://laist.com/news/politics/2024-election-california-general-proposition-35>
 
 ---
 
