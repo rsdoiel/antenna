@@ -239,5 +239,10 @@ refresh:
 publish: .FORCE
 	@if [ "$(msg)" != "" ]; then git commit -am "$(msg)"; else git commit -am "Publish Site"; fi
 	git push origin main
+	git checkout gh-pages
+	git pull origin main
+	git commit -am "merge main into gh-pages"
+	git push origin gh-pages
+	git checkout main
 
 .FORCE:
