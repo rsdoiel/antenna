@@ -1,11 +1,146 @@
 ---
 title: journalism
-updated: 2024-10-12 12:29:32
+updated: 2024-10-13 09:42:45
 ---
 
 # journalism
 
-(date: 2024-10-12 12:29:32)
+(date: 2024-10-13 09:42:45)
+
+---
+
+## Concert review: With hyper beats, Porter Robinson paints “SMILE! :D” on numerous faces
+
+date: 2024-10-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+Editor&#8217;s note: This article contains references to suicide.
+Porter Robinson delivered an energized performance with a &#8220;SMILE! :D&#8221; and way too much more.
+The Grammy-nominated DJ took his &#8220;SMILE! 
+
+<br> 
+
+<https://dailybruin.com/2024/10/12/concert-review-with-hyper-beats-porter-robinson-paints-smile-d-on-numerous-faces/>
+
+---
+
+## Golden Gophers burrow Bruins’ lead with last-minute touchdown in Rose Bowl loss
+
+date: 2024-10-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+Ethan Garbers wasn’t scheduled to start an hour before Saturday’s kickoff.&#160;
+But on the Bruins’ first drive, the redshirt senior quarterback took the field.&#160;
+And on UCLA’s final drive –&#160;with 27 seconds left on the clock – Garbers was the team’s last hope.&#160;
+However, the seasoned signal-caller was depleted of his magic tricks by the fourth quarter.&#160;
+With seven seconds to play, Garbers tossed deep into the night –&#160;and right into the hands of defensive back Koi Perich –&#160;for his third interception of the game.&#160;
+As UCLA football (1-5, 0-4 Big Ten) lived and died by its veteran quarterback, Minnesota (4-3, 2-2) emerged victorious 21-17 at the Rose Bowl on Saturday night.&#160;
+“This is a tough loss, so this one’s going to sting a little bit,” said coach DeShaun Foster. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/12/golden-gophers-burrow-bruins-lead-with-last-minute-touchdown-in-rose-bowl-loss/>
+
+---
+
+## UCLA cross country makes strides at final competition before Big Ten Championships
+
+date: 2024-10-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+Making a season debut less than a month before the Big Ten championships is a risk.
+But graduate student Michael Mireles and senior Mia Kane don&#8217;t seem too concerned. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/12/ucla-cross-country-makes-strides-at-final-competition-before-big-ten-championships/>
+
+---
+
+## Women’s volleyball to take on crosstown rival USC upon return to LA
+
+date: 2024-10-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+One of the first things UCLA athletes prepare for  upon stepping foot in Westwood is the crosstown rivalry.
+Freshman outside hitter Kiki Horne is one of nine Bruins gearing up for their first battle against the Trojans. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/12/womens-volleyball-to-take-on-crosstown-rival-usc-upon-return-to-la/>
+
+---
+
+## UCLA men’s soccer takes late lead for victory over Ohio State
+
+date: 2024-10-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+Two goals in 81 seconds put the Bruins up over the Buckeyes &#8211;  and this time, the Bruins held on for the win.
+UCLA men&#8217;s soccer (5-3-4, 2-2-2 Big Ten) took down No. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/12/ucla-mens-soccer-takes-late-lead-for-victory-over-ohio-state/>
+
+---
+
+## CSUN English department showcases opportunities at annual Open House
+
+date: 2024-10-12, from: The Sundail (CSUN Student Newspaper)
+
+The CSUN English department hosted its annual Open House event on Sept. 26, inviting students, particularly freshmen, to explore the various offerings and opportunities available within the department. The event... 
+
+<br> 
+
+<https://sundial.csun.edu/186175/news/csun-english-department-showcases-opportunities-at-annual-open-house/>
+
+---
+
+## USC vs. Penn State — live updates
+
+date: 2024-10-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Leila MacKenzie reports live form the L.A. Coliseum.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/12/usc-vs-penn-state-live-updates/">USC vs. Penn State — live updates</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/12/usc-vs-penn-state-live-updates/>
+
+---
+
+## Gameday predictions: UCLA vs. Minnesota
+
+date: 2024-10-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA football (1-4, 0-3 Big Ten) will have a chance to snap a 336-day losing streak at the Rose Bowl against Minnesota (3-3, 1-2) on Saturday evening. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/12/gameday-predictions-ucla-vs-minnesota/>
+
+---
+
+## The Saugus football  communty rushes to aid a coach in need
+
+date: 2024-10-12, from: The Canyon News (COC Student Newspaper)
+
+<p>One high school football community has come together in a powerful show&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/the-saugus-football-communty-rushes-to-aid-a-coach-in-need/">The Saugus football  communty rushes to aid a coach in need</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/the-saugus-football-communty-rushes-to-aid-a-coach-in-need/>
+
+---
+
+## Scouting report: UCLA football vs. Minnesota
+
+date: 2024-10-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA football (1-4, 0-3 Big Ten) is heading back to the Rose Bowl to face Minnesota (3-3, 1-2) on Saturday. With the Gophers on the heels of an upset victory and the Bruins without a conference win, both teams will come into Saturday&#8217;s contest with something to prove. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/11/scouting-report-ucla-football-vs-minnesota/>
 
 ---
 
@@ -48,6 +183,18 @@ UCLA women&#8217;s soccer (11-2-2, 6-0-1 Big Ten) traveled to Chicago as part of
 
 ---
 
+## The Weekly Frame II: A Moment in Time
+
+date: 2024-10-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/11/the-weekly-frame-ii-a-moment-in-time/>
+
+---
+
 ## UCLA men’s volleyball hires John Hawks as new head coach
 
 date: 2024-10-11, from: The Daily Bruin (UCLA Student Newspaper)
@@ -70,20 +217,6 @@ After securing their first tournament win at the Eagle Invitational in September
 <br> 
 
 <https://sundial.csun.edu/186168/sports/womens-golf-clinch-back-to-back-tournament-wins/>
-
----
-
-## The Weekly Frame: A Moment in Time
-
-date: 2024-10-11, from: The Daily Trojan (USC Student Newspaper)
-
-<p>In a unique and new collaboration, college newspapers teamed up to capture one hour of time across the country.</p>
-<p>The post <a href="https://dailytrojan.com/2024/10/11/the-weekly-frame-ii-a-moment-in-time/">The Weekly Frame: A Moment in Time</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<br> 
-
-<https://dailytrojan.com/2024/10/11/the-weekly-frame-ii-a-moment-in-time/>
 
 ---
 
@@ -1290,18 +1423,4 @@ date: 2024-10-07, from: The Daily Trojan (USC Student Newspaper)
 <br> 
 
 <https://dailytrojan.com/2024/10/07/rare-books-la-brings-literary-treasures-to-union-station/>
-
----
-
-## USC vs. Minnesota — as it happened
-
-date: 2024-10-05, from: The Daily Trojan (USC Student Newspaper)
-
-<p>Henry Mode reports live from Huntington Bank Stadium.</p>
-<p>The post <a href="https://dailytrojan.com/2024/10/05/usc-vs-minnesota-live-updates/">USC vs. Minnesota — as it happened</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<br> 
-
-<https://dailytrojan.com/2024/10/05/usc-vs-minnesota-live-updates/>
 

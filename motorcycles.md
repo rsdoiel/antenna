@@ -1,11 +1,71 @@
 ---
 title: motorcycles
-updated: 2024-10-12 12:29:35
+updated: 2024-10-13 09:42:47
 ---
 
 # motorcycles
 
-(date: 2024-10-12 12:29:35)
+(date: 2024-10-13 09:42:47)
+
+---
+
+## This African EV Startup Is Crazy About Solar, and Wants To Prove a Point
+
+date: 2024-10-13, from: Ride Apart, Electric Motorcycle News
+
+Roam Electric’s embarking on a 3,700-mile adventure through Africa using nothing but solar power.  
+
+<br> 
+
+<https://www.rideapart.com/news/736946/roam-electric-solar-powered-adventure-africa/>
+
+---
+
+## GALLERY: Catch The Action From The Charlotte ROVAL
+
+date: 2024-10-13, from: Kickin the Tires blog
+
+Photo by Blake Ulino, Photographer 
+
+<br> 
+
+<https://kickinthetires.net/nascar/gallery-catch-the-action-from-the-charlotte-roval/>
+
+---
+
+## GALLERY: NHRA Descends On Texas Motorsplex
+
+date: 2024-10-13, from: Kickin the Tires blog
+
+Photos by Jerry Jordan, Editor 
+
+<br> 
+
+<https://kickinthetires.net/photo-gallery/gallery-nhra-descends-on-texas-motorsplex/>
+
+---
+
+## Parker Kligerman: ‘I Knew It Was a Battle Royale’ at The Roval
+
+date: 2024-10-13, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor CONCORD, N.C. – Winning in the NASCAR Xfinity Series sometimes can be by ‘an inch or a mile,’ and in Parker Kligerman’s case a matter&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/kligerman-knew-battle-royale-the-roval/>
+
+---
+
+## This ‘Busa-Powered Citroen Is a Wild Race Car, and It Could Be Yours
+
+date: 2024-10-12, from: Ride Apart, Electric Motorcycle News
+
+It just looks like a Citroen C2, but beneath the surface, it really isn’t.  
+
+<br> 
+
+<https://www.rideapart.com/news/736944/hayabusa-powered-citroen-c2-hillclimb-racer/>
 
 ---
 

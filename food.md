@@ -1,11 +1,167 @@
 ---
 title: food
-updated: 2024-10-12 12:29:37
+updated: 2024-10-13 09:42:49
 ---
 
 # food
 
-(date: 2024-10-12 12:29:37)
+(date: 2024-10-13 09:42:49)
+
+---
+
+## Coffee Recommendations You Can Trust From The Team At Sprudge
+
+date: 2024-10-13, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Our weekly selection from the Sprudge Roaster's Village. 
+
+<br> 
+
+<https://sprudge.com/coffee-recommendations-you-can-trust-from-the-team-at-sprudge-256828.html>
+
+---
+
+## Spicy Mango Avocado Salad
+
+date: 2024-10-12, from: Pepper Scale
+
+Here&#8217;s a light summer salad with a zesty kick! As is, this spicy mango avocado salad makes a great appetizer or side. Or top it with grilled chicken or shrimp to turn it into a full meal. It&#8217;s a quick and easy dish that is ... <p class="read-more-container"><a title="Spicy Mango Avocado Salad" class="read-more button" href="https://pepperscale.com/mango-avocado-salad/#more-3513" aria-label="Read more about Spicy Mango Avocado Salad">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/mango-avocado-salad/>
+
+---
+
+## How Long Do Dried Peppers Last?
+
+date: 2024-10-12, from: Pepper Scale
+
+Dried peppers, whether no-heat sweet peppers or fiery chilies, can go bad just like any other food. By drying peppers, you can extend their shelf life for quite a long time, but not indefinitely. You should also keep in mind that other things can go ... <p class="read-more-container"><a title="How Long Do Dried Peppers Last?" class="read-more button" href="https://pepperscale.com/how-long-do-dried-peppers-last/#more-89455" aria-label="Read more about How Long Do Dried Peppers Last?">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/how-long-do-dried-peppers-last/>
+
+---
+
+## How To Make Homemade Salsa Hotter
+
+date: 2024-10-12, from: Pepper Scale
+
+Homemade salsas, with their fresh ingredients, often have more complex flavor profiles (and are more nuanced in terms of their heat levels) than the jarred stuff. There are many varieties of fresh salsas, each with different styles and flavors. Homemade salsa can be anywhere on ... <p class="read-more-container"><a title="How To Make Homemade Salsa Hotter" class="read-more button" href="https://pepperscale.com/how-to-make-homemade-salsa-hotter/#more-52824" aria-label="Read more about How To Make Homemade Salsa Hotter">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/how-to-make-homemade-salsa-hotter/>
+
+---
+
+## Too Much Sriracha? How To Fix Your Dish
+
+date: 2024-10-12, from: Pepper Scale
+
+When it is used in moderation, Sriracha sauce is generally regarded among spicy condiments as being fairly mild. When measured on the Scoville scale, the rooster sauce rates at only 1,000 to 2,500 Scoville heat units. The issues come when you go overboard with it. ... <p class="read-more-container"><a title="Too Much Sriracha? How To Fix Your Dish" class="read-more button" href="https://pepperscale.com/too-much-sriracha/#more-17898" aria-label="Read more about Too Much Sriracha? How To Fix Your Dish">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/too-much-sriracha/>
+
+---
+
+## Braai: The Iconic Barbecue Of Southern Africa
+
+date: 2024-10-12, from: Pepper Scale
+
+It’s pronounced like “try” – just drop the ‘t’ for a ‘b’. Bry. And perhaps more than any other national emblems &#8211; flags, anthems, currencies, languages &#8211; braai is the defining symbol of southern Africa. It’s far more than a type of cookery or simple ... <p class="read-more-container"><a title="Braai: The Iconic Barbecue Of Southern Africa" class="read-more button" href="https://pepperscale.com/braai/#more-79350" aria-label="Read more about Braai: The Iconic Barbecue Of Southern Africa">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/braai/>
+
+---
+
+## Woolworth Cheesecake
+
+date: 2024-10-12, from: Taste of Home
+
+This easy, no-bake cheesecake is a nostalgic nod to a classic dessert from Woolworth’s famous lunch counter. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/woolworth-cheesecake/>
+
+---
+
+## Cornbread Fritters
+
+date: 2024-10-12, from: Taste of Home
+
+Imagine cornbread, but in a fried and fun-sized form. Our cornbread fritters recipe is a delightfully fun and delicious treat that whips up in less than 30 minutes. Buttermilk and a hint of sugar make them even more scrumptious. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/cornbread-fritters/>
+
+---
+
+## Fruity Pebbles Cheesecake
+
+date: 2024-10-12, from: Taste of Home
+
+Fruity Pebbles cheesecake has party written all over it, whether you're planning a kiddo's birthday or you just want to make your week a little more celebratory. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/fruity-pebbles-cheesecake/>
+
+---
+
+## Pulled Pork Mac and Cheese
+
+date: 2024-10-12, from: Taste of Home
+
+Can't decide between pulled pork sandwiches and mac and cheese? Meet your new favorite mash-up: pulled pork mac and cheese. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/pulled-pork-mac-and-cheese/>
+
+---
+
+## 53 Easy Dinner Ideas for Simple, Satisfying Meals
+
+date: 2024-10-12, from: Bon Appetet
+
+Like a weeknight salmon rice bowl, artichoke-dip-inspired pasta, and a warming white chicken chili. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/easy-dinner-ideas>
+
+---
+
+## Crawfish Bisque
+
+date: 2024-10-12, from: Taste of Home
+
+This crawfish bisque is rich and flavorful, but surprisingly easy. Make a batch when you feel like spoiling yourself, or as the first course of a company-worthy meal. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/crawfish-bisque/>
+
+---
+
+## Cranberry-Orange Relish
+
+date: 2024-10-12, from: Taste of Home
+
+Cranberry-orange relish is sweet, simple and a delicious uncooked alternative to plain cranberry sauce at a holiday meal. You need only a few minutes to cut and mix everything, and the relish is ready to serve after a couple of hours in the refrigerator. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/cranberry-orange-relish-2/>
 
 ---
 

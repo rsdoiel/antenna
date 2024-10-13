@@ -1,11 +1,147 @@
 ---
 title: going electric
-updated: 2024-10-12 12:29:37
+updated: 2024-10-13 09:42:48
 ---
 
 # going electric
 
-(date: 2024-10-12 12:29:37)
+(date: 2024-10-13 09:42:48)
+
+---
+
+## The Lynk & Co 02 Is A Volvo EX30 Designed To Make Car Sharing Easier
+
+date: 2024-10-13, from: Inside EVs News
+
+This small crossover has a "sharing strap" that will take the driver directly to the app used to manage the carsharing program. 
+
+<br> 
+
+<https://insideevs.com/news/737128/lynk-and-co-02-sharing/>
+
+---
+
+## U.S. EV Sales Hit Another Record In Q3 2024: '10% Share Within Reach'
+
+date: 2024-10-13, from: Inside EVs News
+
+General Motors has officially become America's second-best-selling EV maker behind Tesla, pushing Hyundai Motor Group into the third spot. 
+
+<br> 
+
+<https://insideevs.com/news/737158/us-ev-sales-q3-2024/>
+
+---
+
+## Price parity is here: new Stellantis crossover is the same price, EV or ICE
+
+date: 2024-10-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/EV-price-parity.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The newest midsize crossover in Stellantis’ European lineup is available in five or seven-passenger configurations with either mild hybrid ICE or BEV drivetrain configurations – but that’s not the interesting part. The interesting part is this: <strong>whether you go with gas or electric, the price you pay remains the same</strong>. (!)</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="price,stellantis" data-layer-viewtype="unknown" data-post-id="383998" href="https://electrek.co/2024/10/13/price-parity-is-here-new-stellantis-crossover-is-the-same-price-ev-or-ice/#more-383998" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/13/price-parity-is-here-new-stellantis-crossover-is-the-same-price-ev-or-ice/>
+
+---
+
+## GMC quietly reveals 2025 Sierra EV Denali with $10,000 lower starting price
+
+date: 2024-10-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/GMC_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The 2024 GMC Sierra EV Denali Edition 1 is still a rare sight on US roads, but that hasn’t stopped GM from rolling out the 2025 version with up to 440 miles of range … <a href="https://www.carsdirect.com/buildyourcar/style?make=gmc&amp;model=sierra-ev&amp;src=1001054&amp;lnk=subID-JO">and a base price that’s $10,000 <em>lower</em> than the ’24</a>!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-trucks,gmc" data-layer-viewtype="unknown" data-post-id="383966" href="https://electrek.co/2024/10/12/gmc-quietly-reveals-2025-sierra-ev-denali-with-10000-lower-starting-price/#more-383966" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/12/gmc-quietly-reveals-2025-sierra-ev-denali-with-10000-lower-starting-price/>
+
+---
+
+## This Brand New Nissan Leaf Has Been Bricked For Two Months
+
+date: 2024-10-12, from: Inside EVs News
+
+Out of Spec leased a brand new Nissan Leaf. Less than 500 miles later, it died, and it's stayed dead for over two months. 
+
+<br> 
+
+<https://insideevs.com/news/737109/new-nissan-leaf-bricked-battery-issue/>
+
+---
+
+## 2024 Chevrolet Equinox EV 2LT vs. 2RS: What Does $1,500 Extra Get You?
+
+date: 2024-10-12, from: Inside EVs News
+
+The two trims come with the same electric motor, battery and charging specs. So what's different? 
+
+<br> 
+
+<https://insideevs.com/news/736846/2024-chevrolet-equinox-ev-2lt-vs-2rs-comparison-video/>
+
+---
+
+## E-quipment highlight: Komatsu launches 400 ton electric mining excavator
+
+date: 2024-10-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Excavator-PC4000E-OM-220723-DSC-0188.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Komatsu says its new PC4000-11E hydraulic mining excavator can bring both the powerful digging force of high-performance diesel machines and the emission-free operation of battery power to some of <a href="https://electrek.co/2024/05/14/komatsu-launches-first-ever-electric-drilling-bolting-rigs/">the world’s toughest mining operations</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="heavy-equipment,komatsu,mining" data-layer-viewtype="unknown" data-post-id="383946" href="https://electrek.co/2024/10/12/e-quipment-highlight-komatsu-launches-400-ton-electric-mining-excavator/#more-383946" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/12/e-quipment-highlight-komatsu-launches-400-ton-electric-mining-excavator/>
+
+---
+
+## RoboFlop: Tesla's Cybercab Event Torched By Analysts And Investors
+
+date: 2024-10-12, from: Inside EVs News
+
+"It is our understanding that these robots were not operating entirely autonomously," a Morgan Stanley report said.  
+
+<br> 
+
+<https://insideevs.com/news/737149/tesla-robotaxi-flop-event/>
+
+---
+
+## Kempower chargers installed using only electric construction equipment
+
+date: 2024-10-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/all-electric_CHARGER.jpg?quality=82&#038;strip=all&#038;w=1592" /></div><p>Nearly a year after launching the Sweden-US Green Transition Initiative (GTI), the group says it’s completed the first DC fast charging station construction project in the US using <strong>only</strong> electric construction equipment.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,kempower,volvo-construction-equipment" data-layer-viewtype="unknown" data-post-id="383927" href="https://electrek.co/2024/10/12/kempower-chargers-installed-using-only-electric-construction-equipment/#more-383927" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/12/kempower-chargers-installed-using-only-electric-construction-equipment/>
+
+---
+
+## Fisker Ocean EVs Will Remain Cloud-Connected After All
+
+date: 2024-10-12, from: Inside EVs News
+
+American Lease, the company that wants to buy the bankrupt automaker’s remaining inventory, agreed to pay extra for cloud services. 
+
+<br> 
+
+<https://insideevs.com/news/737132/fisker-ev-cloud-services-liquidation/>
 
 ---
 
@@ -1410,52 +1546,4 @@ date: 2024-10-06, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2024/10/06/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/>
-
----
-
-## All the EVs (and one PHEV) you can buy with 0% financing this October
-
-date: 2024-10-05, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/zero-october.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://electrek.co/author/joborras/"></a>Lease deals get all the hype, but some people still want to own the car they’ve made all those payments on. If that’s you, and you’ve been waiting for interest rates to drop, you’re in luck: there’s a bunch of great plugin cars you can buy with 0% financing this month!</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="ev-deals,hyundai,kia" data-layer-viewtype="unknown" data-post-id="382950" href="https://electrek.co/2024/10/05/all-the-evs-and-one-phev-you-can-buy-with-0-financing-this-october/#more-382950" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2024/10/05/all-the-evs-and-one-phev-you-can-buy-with-0-financing-this-october/>
-
----
-
-## BYD delivers 100 of its K9UD electric transit buses to Uruguay
-
-date: 2024-10-05, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/pdp-coach-bus-image-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Chinese electric vehicle giant BYD has delivered 100 of its 12 meter K9UD electric transit buses to Uruguay’s largest electric public transport operator, Cutcsa.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="byd,electric-buses" data-layer-viewtype="unknown" data-post-id="382935" href="https://electrek.co/2024/10/05/byd-delivers-100-of-its-electric-transit-buses-to-uruguay/#more-382935" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2024/10/05/byd-delivers-100-of-its-electric-transit-buses-to-uruguay/>
-
----
-
-## North America’s largest electric wheel loader: HEVI H65L arrives at dealers
-
-date: 2024-10-05, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/HEVI-Electric-Wheel-Loader.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>With an operating weight scratching at 50,000 lbs., the recently revealed HEVI H65L is the largest battery electric wheel loader available in the North American market today.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,electric-heavy-machinery" data-layer-viewtype="unknown" data-post-id="382910" href="https://electrek.co/2024/10/05/north-americas-largest-electric-wheel-loader-hevi-h65l-arrives-at-dealers/#more-382910" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2024/10/05/north-americas-largest-electric-wheel-loader-hevi-h65l-arrives-at-dealers/>
 

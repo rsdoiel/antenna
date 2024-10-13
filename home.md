@@ -1,11 +1,145 @@
 ---
 title: home
-updated: 2024-10-12 12:29:34
+updated: 2024-10-13 09:42:46
 ---
 
 # home
 
-(date: 2024-10-12 12:29:34)
+(date: 2024-10-13 09:42:46)
+
+---
+
+## How to Propagate Crocus Offsets
+
+date: 2024-10-13, from: The Gardener's Path
+
+<p>Crocus flowers herald the arrival of spring, adding color to the late winter landscape. They grow from underground corms which as they mature, produce offsets that you can carefully divide and use to propagate new plants. Learn all about how to dig up crocus corms and separate the offsets in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/propagate-crocus-offsets/">How to Propagate Crocus Offsets</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/propagate-crocus-offsets/>
+
+---
+
+## Dracaena Plant Care and Growing Guide (Most Detailed)
+
+date: 2024-10-13, from: Yard Life blog
+
+<p>Dracaena, a popular genus of tropical broadleaf evergreen shrubs and trees, is widely loved for its stunning appearance and ease ... </p>
+<p class="read-more-container"><a title="Dracaena Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/dracaena-plant-care-and-growing-guide-most-detailed/#more-20672" aria-label="Read more about Dracaena Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/dracaena-plant-care-and-growing-guide-most-detailed/">Dracaena Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/dracaena-plant-care-and-growing-guide-most-detailed/>
+
+---
+
+## Nerve Plant Care and Growing Guide (Most Detailed)
+
+date: 2024-10-13, from: Yard Life blog
+
+<p>The nerve plant (Fittonia albivenis), also known as the mosaic plant or painted net leaf, is a popular choice for ... </p>
+<p class="read-more-container"><a title="Nerve Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/nerve-plant-care-and-growing-guide-most-detailed/#more-20663" aria-label="Read more about Nerve Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/nerve-plant-care-and-growing-guide-most-detailed/">Nerve Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/nerve-plant-care-and-growing-guide-most-detailed/>
+
+---
+
+## 20 Types of Elm Trees (Leaves Identification and Pictures)
+
+date: 2024-10-12, from: Yard Life blog
+
+<p>Elm trees are some of the most versatile and resilient trees found across North America, Asia, and Europe. Known for ... </p>
+<p class="read-more-container"><a title="20 Types of Elm Trees (Leaves Identification and Pictures)" class="read-more button" href="https://ownyardlife.com/20-types-of-elm-trees-leaves-identification-and-pictures/#more-20630" aria-label="Read more about 20 Types of Elm Trees (Leaves Identification and Pictures)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/20-types-of-elm-trees-leaves-identification-and-pictures/">20 Types of Elm Trees (Leaves Identification and Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/20-types-of-elm-trees-leaves-identification-and-pictures/>
+
+---
+
+## Baby Tears Plant Care and Growing Guide (Most Detailed)
+
+date: 2024-10-12, from: Yard Life blog
+
+<p>Baby Tears Plant (Soleirolia soleirolii), often called Angel&#8217;s Tears or Paddy&#x2019;s Wig, is a stunning tropical perennial known for its ... </p>
+<p class="read-more-container"><a title="Baby Tears Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/baby-tears-plant-care-and-growing-guide-most-detailed/#more-20621" aria-label="Read more about Baby Tears Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/baby-tears-plant-care-and-growing-guide-most-detailed/">Baby Tears Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/baby-tears-plant-care-and-growing-guide-most-detailed/>
+
+---
+
+## Awapuhi Plant Care and Growing Guide (Most Detailed)
+
+date: 2024-10-12, from: Yard Life blog
+
+<p>The Awapuhi plant, also known as shampoo ginger, is gaining popularity for its unique aesthetic and practical uses. Scientifically referred ... </p>
+<p class="read-more-container"><a title="Awapuhi Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/awapuhi-plant-care-and-growing-guide-most-detailed/#more-20613" aria-label="Read more about Awapuhi Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/awapuhi-plant-care-and-growing-guide-most-detailed/">Awapuhi Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/awapuhi-plant-care-and-growing-guide-most-detailed/>
+
+---
+
+## Bird of Paradise Plant Care and Growing Guide (Most Detailed)
+
+date: 2024-10-12, from: Yard Life blog
+
+<p>The Bird of Paradise plant, known scientifically as Strelitzia reginae and Strelitzia nicolai, is one of the most distinctive and ... </p>
+<p class="read-more-container"><a title="Bird of Paradise Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/bird-of-paradise-plant-care-and-growing-guide-most-detailed/#more-20601" aria-label="Read more about Bird of Paradise Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/bird-of-paradise-plant-care-and-growing-guide-most-detailed/">Bird of Paradise Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/bird-of-paradise-plant-care-and-growing-guide-most-detailed/>
+
+---
+
+## Peruvian Apple Cactus Care and Growing Guide (Most Detailed)
+
+date: 2024-10-12, from: Yard Life blog
+
+<p>The Peruvian apple cactus, known scientifically as Cereus peruvianus, Cereus Uruguayanus, or Cereus Repandus, is a stunning, columnar cactus that ... </p>
+<p class="read-more-container"><a title="Peruvian Apple Cactus Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/peruvian-apple-cactus-care-and-growing-guide-most-detailed/#more-20592" aria-label="Read more about Peruvian Apple Cactus Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/peruvian-apple-cactus-care-and-growing-guide-most-detailed/">Peruvian Apple Cactus Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/peruvian-apple-cactus-care-and-growing-guide-most-detailed/>
+
+---
+
+## Peggy Martin Rose Care and Growing Guide (Most Detailed)
+
+date: 2024-10-12, from: Yard Life blog
+
+<p>The Peggy Martin Rose, often referred to as the &#x201C;Hurricane Katrina Rose,&#x201D; is a resilient and captivating climbing rose that ... </p>
+<p class="read-more-container"><a title="Peggy Martin Rose Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/peggy-martin-rose-care-and-growing-guide-most-detailed/#more-20584" aria-label="Read more about Peggy Martin Rose Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/peggy-martin-rose-care-and-growing-guide-most-detailed/">Peggy Martin Rose Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/peggy-martin-rose-care-and-growing-guide-most-detailed/>
 
 ---
 
@@ -1064,18 +1198,4 @@ date: 2024-10-06, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/houseplants/dracaena-diseases/>
-
----
-
-## How to Make Homemade Pumpkin Puree (and Freeze It)
-
-date: 2024-10-05, from: Homestead and Chil
-
-<p>Come learn how to easily make your own homemade pumpkin puree. It's so much more fresh and flavorful than the canned stuff! We'll also talk about how to freeze pumpkin puree, and the numerous ways you can use it. Make this now while pumpkins are in season, and enjoy pumpkin vibes for many months ahead! </p>
-<p>The post <a href="https://homesteadandchill.com/homemade-pumpkin-puree/">How to Make Homemade Pumpkin Puree (and Freeze It)</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
- 
-
-<br> 
-
-<https://homesteadandchill.com/homemade-pumpkin-puree/>
 

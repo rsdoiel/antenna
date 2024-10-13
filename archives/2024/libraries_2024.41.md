@@ -1,11 +1,23 @@
 ---
 title: libraries
-updated: 2024-10-12 12:29:33
+updated: 2024-10-13 09:42:45
 ---
 
 # libraries
 
-(date: 2024-10-12 12:29:33)
+(date: 2024-10-13 09:42:45)
+
+---
+
+## Fast and accurate method to simulate the LISA response to Galactic binaries
+
+date: 2024-10-15, from: ETH Zurich, recently added
+
+Riegger F.; Robertsson J.; Andersson F. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/699216>
 
 ---
 

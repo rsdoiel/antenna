@@ -1,11 +1,1475 @@
 ---
 title: north america
-updated: 2024-10-12 12:29:26
+updated: 2024-10-13 09:42:39
 ---
 
 # north america
 
-(date: 2024-10-12 12:29:26)
+(date: 2024-10-13 09:42:39)
+
+---
+
+##  LEVER WEEKLY: Titans Of Deregulation 
+
+date: 2024-10-13, from: The Lever News
+
+ Lawmakers are downplaying climate change while an oil giant gets cozy with the Supreme Court, and more from The Lever this week.  
+
+<br> 
+
+<https://www.levernews.com/titans-of-deregulation/>
+
+---
+
+## Biden viewing Hurricane Milton damage in Florida; Harris plans to go to church in North Carolina
+
+date: 2024-10-13, from: VOA News USA
+
+Washington — President Joe Biden on Sunday is surveying the devastation inflicted on Florida's Gulf Coast by Hurricane Milton as he urges Congress to approve additional emergency disaster funding. Vice President Kamala Harris will spend a second day in North Carolina, hard-hit by Hurricane Helene, to attend a Black church and hold a campaign rally.
+
+
+Biden's visit to the St. Petersburg area offers him another chance to press House Speaker Mike Johnson, R-La., for congressional approval of more aid money before the Nov. 5 election. Johnson has said the issue will be dealt with after then.
+
+
+"I think Speaker Johnson is going to get the message that he's got to step up, particularly for small businesses," Biden told reporters as he and Harris met with aides on Friday to discuss the federal response to Hurricanes Milton and Helene. Biden and Johnson have yet to discuss the matter directly.
+
+
+
+
+In Florida, Biden was set to announce $612 million for six Department of Energy projects in areas affected by the hurricanes to improve the resilience of the region's electric grid, the White House said. The funding includes $94 million for two projects in Florida: $47 million for Gainesville Regional Utilities and $47 million for Switched Source to partner with Florida Power and Light.
+
+
+Harris, the Democratic presidential nominee, visited Raleigh on Saturday to meet with Black elected and religious leaders and help volunteers package personal care items for delivery to victims of Helene in the western part of the state.
+
+
+
+
+She was spending Sunday in Greenville, with plans to speak during a church service as part of her campaign's "Souls to the Polls" effort to help turn out Black churchgoers before Election Day. She was also scheduled to hold a rally to talk about her economic plans and highlight Thursday's start of early voting in the state, her campaign said.
+
+
+Harris and her running mate, Minnesota Gov. Tim Walz, will spend the coming week campaigning in the competitive states of Pennsylvania, Michigan, Wisconsin and North Carolina, according to a Harris campaign official who was not authorized to publicly discuss details not yet made public and spoke on condition of anonymity.
+
+
+With less than four weeks to go before Election Day, the hurricanes have added another dimension to the closely contested presidential race.
+
+
+Republican presidential nominee Donald Trump has said the Biden administration's storm response had been lacking, particularly in North Carolina after Hurricane Helene. Biden and Harris have hammered Trump for promoting falsehoods about the federal response.
+
+
+
+
+Trump made a series of false claims after Helene struck in late September, including incorrectly saying that the federal government is intentionally withholding aid to Republican disaster victims. He also falsely claimed the Federal Emergency Management Agency had run out of money because all of it had gone to programs for immigrants in the country illegally.
+
+
+Biden said Trump was "not singularly" to blame for the spread of false claims in recent weeks but that he has the "biggest mouth."
+
+
+The president is pressing for swift action by Congress to make sure the Small Business Administration and FEMA have the money they need to get through hurricane season, which ends Nov. 30 in the Atlantic. He said Friday that Milton alone had caused an estimated $50 billion in damages.
+
+
+
+
+Homeland Security Secretary Alejandro Mayorkas said last week that FEMA will be able to meet "immediate needs" caused by the two storms. But he warned in the aftermath of Helene that the agency does not have enough funding to make it through the hurricane season.
+
+
+But Johnson has pushed back, saying the agencies have enough money for the time being and that lawmakers will address the funding issue during the lame-duck session after the election.
+
+
+Also percolating in the background are tensions between Harris and Gov. Ron DeSantis, R-Fla. As Helene barreled toward Florida, the two traded accusations that the other was trying to politicize the federal storm response.
+
+
+Harris' office last week suggested that DeSantis was dodging her phone calls. DeSantis responded that he was unaware she had called and he grumbled that she hadn't been involved in the federal government's response before she became the Democratic nominee.
+
+
+Biden, for his part, said he hoped to see DeSantis on Sunday, if the governor's schedule permitted.
+
+
+"He's been very cooperative," Biden said about DeSantis. He added, "We got on very, very well."
+
+
+DeSantis said Saturday that he had no details about the president's visit.
+
+
+Biden was scheduled to survey damage during an aerial tour between Tampa and St. Pete Beach, where he will be briefed on the storm by federal, state and local officials. He also will residents and first responders.
+
+
+Hurricane Milton made landfall in Florida as a Category 3 storm on Wednesday evening. At least 10 people were killed and hundreds of thousands of residents remain without power.
+
+
+Officials say the toll could have been worse if not for widespread evacuations. The still-fresh devastation wrought by Helene just two weeks earlier probably helped compel many people to flee. 
+
+<br> 
+
+<https://www.voanews.com/a/biden-will-view-hurricane-milton-damage-in-florida-harris-plans-to-go-to-church-in-north-carolina-/7820683.html>
+
+---
+
+## SpaceX launches its mega Starship rocket; this time, mechanical arms catches it at landing
+
+date: 2024-10-13, from: VOA News USA
+
+ 
+
+<br> 
+
+<https://www.voanews.com/a/us-aviation-authority-approves-spacex-starship-5-flight-for-sunday-/7820318.html>
+
+---
+
+## NASA's Europa Clipper spacecraft will scour Jupiter moon for ingredients for life
+
+date: 2024-10-13, from: VOA News USA
+
+CAPE CANAVERAL, Fla.  — A NASA spacecraft is ready to set sail for Jupiter and its moon Europa, one of the best bets for finding life beyond Earth.
+
+
+Europa Clipper will peer beneath the moon’s icy crust where an ocean is thought to be sloshing fairly close to the surface. It won’t search for life, but rather determine whether conditions there could support it. Another mission would be needed to flush out any microorganisms lurking there.
+
+
+“It’s a chance for us to explore not a world that might have been habitable billions of years ago, but a world that might be habitable today — right now,” said program scientist Curt Niebur.
+
+
+Its massive solar panels make Clipper the biggest craft built by NASA to investigate another planet. It will take 5 1/2 years to reach Jupiter and will sneak within 16 miles (25 kilometers) of Europa's surface — considerably closer than any other spacecraft.
+
+
+Liftoff is targeted for this month aboard SpaceX’s Falcon Heavy rocket from NASA’s Kennedy Space Center. Mission cost: $5.2 billion.
+
+
+Europa, the superstar among Jupiter’s many moons 
+
+
+One of Jupiter’s 95 known moons, Europa is almost the size of our own moon. It's encased in an ice sheet estimated to be 10 miles to 15 miles or more (15 kilometers to 24 kilometers) thick. Scientists believe this frozen crust hides an ocean that could be 80 miles (120 kilometers) or more deep. The Hubble Space Telescope has spotted what appear to be geysers erupting from the surface. Discovered by Galileo in 1610, Europa is one of the four so-called Galilean moons of Jupiter, along with Ganymede, Io and Callisto.
+
+
+Seeking conditions that support life 
+
+
+What type of life might Europa harbor? Besides water, organic compounds are needed for life as we know it, plus an energy source. In Europa’s case that could be thermal vents on the ocean floor. Deputy project scientist Bonnie Buratti imagines any life would be primitive like the bacterial life that originated in Earth’s deep ocean vents. “We will not know from this mission because we can’t see that deep,” she said. Unlike missions to Mars where habitability is one of many questions, Clipper’s sole job is to establish whether the moon could support life in its ocean or possibly in any pockets of water in the ice.
+
+
+Supersized spacecraft 
+
+
+When its solar wings and antennas are unfurled, Clipper is about the size of a basketball court — more than 100 feet (30 meters) end to end — and weighs nearly 13,000 pounds (6,000 kilograms). The supersized solar panels are needed because of Jupiter’s distance from the sun. The main body — about the size of a camper — is packed with nine science instruments, including radar that will penetrate the ice, cameras that will map virtually the entire moon and tools to tease out the contents of Europa’s surface and tenuous atmosphere. The name hearkens to the swift sailing ships of centuries past.
+
+
+Circling Jupiter to fly by Europa 
+
+
+
+
+The roundabout trip to Jupiter will span 1.8 billion miles (3 billion kilometers). For extra oomph, the spacecraft will swing past Mars early next year and then Earth in late 2026. It arrives at Jupiter in 2030 and begins science work the next year. While orbiting Jupiter, it will cross paths with Europa 49 times. The mission ends in 2034 with a planned crash into Ganymede — Jupiter’s biggest moon and the solar system's too.
+
+
+Europa flybys pose huge radiation risk 
+
+
+There’s more radiation around Jupiter than anywhere else in our solar system, besides the sun. Europa passes through Jupiter’s bands of radiation as it orbits the gas giant, making it especially menacing for spacecraft. That’s why Clipper’s electronics are inside a vault with dense aluminum and zinc walls. All this radiation would nix any life on Europa’s surface. But it could break down water molecules and, perhaps, release oxygen all the way down into the ocean that could possibly fuel sea life.
+
+
+Earlier this year, NASA was in a panic that the spacecraft's many transistors might not withstand the intense radiation. But after months of analysis, engineers concluded the mission could proceed as planned.
+
+
+Other visitors to Jupiter and Europa 
+
+
+NASA’s twin Pioneer spacecraft and then two Voyagers swept past Jupiter in the 1970s. The Voyagers provided the first detailed photos of Europa but from quite a distance. NASA’s Galileo spacecraft had repeated flybys of the moon during the 1990s, passing as close as 124 miles (200 kilometers). Still in action around Jupiter, NASA’s Juno spacecraft has added to Europa’s photo album. Arriving at Jupiter a year after Clipper will be the European Space Agency’s Juice spacecraft, launched last year.
+
+
+Ganymede and other possible ocean worlds 
+
+
+Like Europa, Jupiter’s jumbo moon Ganymede is thought to host an underground ocean. But its frozen shell is much thicker — possibly 100 miles (160 kilometers) thick — making it tougher to probe the environment below. Callisto’s ice sheet may be even thicker, possibly hiding an ocean. Saturn’s moon Enceladus has geysers shooting up, but it’s much farther than Jupiter. Ditto for Saturn’s moon Titan, also suspected of having a subterranean sea. While no ocean worlds have been confirmed beyond our solar system, scientists believe they’re out there — and may even be relatively common.
+
+
+Messages in a cosmic bottle 
+
+
+Like many robotic explorers before it, Clipper bears messages from Earth. Attached to the electronics vault is a triangular metal plate. On one side is a design labeled “water words” with representations of the word for water in 104 languages. On the opposite side: a poem about the moon by U.S. poet laureate Ada Limon and a silicon chip containing the names of 2.6 million people who signed up to vicariously ride along. 
+
+<br> 
+
+<https://www.voanews.com/a/nasa-s-europa-clipper-spacecraft-will-scour-jupiter-moon-for-the-ingredients-for-life-/7820650.html>
+
+---
+
+## Amazon wants to be everything to everyone
+
+date: 2024-10-13, from: VOA News USA
+
+Mount Juliet, United States  — Amazon is bolstering its e-commerce empire while continuing a march deeper into people's lives, from robots to healthcare and entertainment.  
+
+
+Innovations unveiled in recent days by the Seattle-based tech titan included a delivery van computer system to shave time off deliveries by its speed-obsessed logistics network.   
+
+
+Amazon Stores boss Doug Herrington said that the technology enables vans to recognize stops and signal which packages to drop off.  
+
+
+"When we speed up deliveries, customers shop more," Herrington said.  
+
+
+"For 2024, we're going to have the fastest Prime delivery speeds around the world," he added, referring to Amazon's subscription service.  
+
+
+On top of that, according to Herrington, Amazon last year managed to cut 45 cents off the cost per unit shipped, a huge savings when considering the massive volume of sales.  
+
+
+Prime is the 'glue'  
+
+
+Amazon last year recorded profit of more than $30 billion on revenue of $575 billion, powered by its online retail operation and its AWS cloud computing division.  
+
+
+"They have this whole flywheel model with Amazon Prime membership in the middle," said eMarketer analyst Suzy Davidkhanian.  
+
+
+"That's the glue that keeps everything together."  
+
+
+
+
+Businesses include retail, advertising, cloud computing and streamed movies and music.  
+
+
+But that very model has the 30-year-old company facing a US government lawsuit, accused of expanding an illegal monopoly and otherwise harming competition.   
+
+
+Amazon makes money from data gathered about consumers, either by targeting ads or through insights into what products they might like, Davidkhanian said.  
+
+
+That was why Amazon paid for expensive rights to stream NFL American football games on Prime Video in a move that promises to help it pinpoint fans of the sport.  
+
+
+Amazon's digital assistant Alexa can order items on command and has been even built into appliances such as washing machines to let them automatically buy supplies like laundry soap as needed.  
+
+
+A 'pocket pharmacy'  
+
+
+Amazon showed off enhancements to its virtual health care service called One Medical.  
+
+
+For $9 a month Prime members are promised anytime access to video consultations with health care professionals, along with record keeping and drug prescriptions.  
+
+
+An Amazon Pharmacy takes advantage of the company's delivery network to get prescriptions to patients quickly, striving for speeds of less than 24 hours for 45 percent of customers by the end of next year.  
+
+
+"We're building a pharmacy in your pocket that offers rapid delivery right to your door," Amazon Pharmacy chief Hannah McClellan said, referring to the option of using a smartphone app.  
+
+
+The healthcare market promises to be lucrative for Amazon, which is "trying to be the platform that has everything for everyone," said analyst Davidkhanian.  
+
+
+Real world wrinkles  
+
+
+Amazon has suffered setbacks when it comes to brick-and-mortar stores but it continues to strive for a winning strategy.  
+
+
+The company next year will open its first "automated micro warehouse" in Pennsylvania, next to a Whole Foods Market organic grocery shop, the chain it bought in 2017.  
+
+
+People will be able to pick up certain items selected online, with orders filled by robots, after shopping next door for fresh produce and groceries.  
+
+
+Meanwhile, Amazon is ramping up use of artificial intelligence at its online store with tools helping sellers describe and illustrate products.  
+
+
+Product labels will change according to the user, displaying terms likely to catch their attention such as "strawberry flavor" for some and "gluten-free" for others.   
+
+
+"The things that Amazon is doing with AI are to make sure that you go from researching something to making the purchase as quickly as possible," Davidkhanian said.  
+
+
+At the logistics center near Nashville, robotic arms deftly placed packages in carts that autonomously made their way to trucks.  
+
+
+Logistics center automation improves safety and frees up workers for more interesting tasks, according to Amazon robotics manager Julie Mitchell.  
+
+
+However, critics cite delivery speed pressure and other factors as making Amazon warehouses more dangerous than the industry average. 
+
+<br> 
+
+<https://www.voanews.com/a/amazon-wants-to-be-everything-to-everyone-/7820636.html>
+
+---
+
+## Determination to rebuild follows Florida's hurricanes with acceptance that storms will come again
+
+date: 2024-10-13, from: VOA News USA
+
+VENICE, Fla — No sooner had residents of the Bahia Vista Gulf condominium complex dug out and from Hurricane Helene than they were faced with the same daunting cleanup from new damage inflicted by Hurricane Milton.
+
+
+The beachfront units had been gutted, treated and dried out after Hurricane Helene and mounds of sand that had blown in from the beach had been removed. Then, less than two weeks later, Hurricane Milton barreled in and undid all the progress.
+
+
+“They’ve got to start the whole process over, cleaning, sanitizing, bringing in drying equipment, getting them all dried and prepped for renovations,” lamented Bill O’Connell, a board member at the complex in Venice, about an hour's drive south of Tampa. The second hurricane “brought all the sand back on our property.”
+
+
+
+
+Some longtime Floridians have grown accustomed to the annual cycle of storms that can shatter and upend lives in a state known mostly for its balmy weather, sunshine and beaches.
+
+
+“It’s the price you pay to live in paradise,” O’Connell said. “If you want to live here with this view, beautiful sunsets, be able to go out on your boat, enjoy what Florida has to offer, you have to be willing to accept that these storms are going to come."
+
+
+The devastation of the back-to-back storms is still being tallied as a swath of the state comes to terms with damage from the unusual dual strike of storms in such close proximity. Many residents, some returning home after evacuating, spent much of Saturday searching for gas as a fuel shortage gripped the state.
+
+
+President Joe Biden planned to visit the Gulf Coast on Sunday.
+
+
+Hurricane Milton killed at least 10 people after it made landfall as a Category 3 storm, tearing across central Florida, flooding barrier islands and spawning deadly tornadoes. Officials say the toll could have been worse if not for the widespread evacuations. Overall, more than a thousand people were rescued in the wake of the storm.
+
+
+Disaster hits twice 
+
+
+In the fishing village of Cortez, a community of 4,100 southwest of Tampa, Catherine Praught said she and her husband, Mark, felt “pure panic” when Hurricane Milton menaced Cortez so soon after Helene, forcing them to pause their cleanup and evacuate. Fortunately, their home wasn’t damaged by the second storm.
+
+
+“This is where we live,” Catherine Praught said of their low-lying home of 36 years that had to be emptied, gutted and scrubbed after Helene. “We’re just hopeful we get the insurance company to help us.”
+
+
+
+
+Residents of the community's modest, single-story wood and stucco-fronted cottages were working Saturday to remove broken furniture and tree limbs, stacking the debris in the street much like they did after Hurricane Helene.
+
+
+A similar scene could be found in Steinhatchee, west of Gainsville, where enormous piles of debris lined the streets.
+
+
+Melissa Harden lives less than a block from a restaurant and neighborhood bar that were reduced to rubble. Her house is on 16-foot (4.9-meter) pilings, but 4 feet (1.2 meters) of water still flooded in. When Milton was forecast, she feared Steinhatachee would be hit by the third hurricane in 14 months.
+
+
+“Personally, I thought, if it comes, we’re already evacuated and our home is pretty messed up,” she said as friends and relatives helped with the cleanup, removing bathroom fixtures and pulling out damaged boards. “Of course we didn’t want it! No more storms!”
+
+
+Moody’s Analytics on Saturday estimated economic costs from the storm will range from $50 billion to $85 billion, including upwards of $70 billion in property damage and an economic output loss of up to $15 billion.
+
+
+Widespread fuel shortage 
+
+
+In St. Petersburg, scores of people lined up at a station that had no gas Saturday, hoping it would arrive soon. Among them was Daniel Thornton and his 9-year-old daughter Magnolia, who arrived at 7 a.m. and were still waiting four hours later.
+
+
+“They told me they have gas coming but they don’t know when it’s going to be here,” he said. “I have no choice. I have to sit here all day with her until I get gas.”
+
+
+
+
+Gov. Ron DeSantis told reporters Saturday morning that the state opened three fuel distribution sites and planned to open several more. Residents can get 10 gallons (37.8 liters) each, free of charge, he said.
+
+
+“Obviously as power gets restored ... and the Port of Tampa is open, you’re going to see the fuel flowing. But in the meantime, we want to give people another option,” DeSantis said.
+
+
+Officials were replenishing area gas stations with the state’s fuel stockpiles and provided generators to stations that remained without power.
+
+
+Rising rivers among the remaining safety threats 
+
+
+As the recovery continues, DeSantis has warned people to be cautious, citing ongoing safety threats including downed power lines and standing water. Some 1.1 million Floridians were still without power Saturday night, according to Poweroutage.us.
+
+
+
+
+National Weather Service Meteorologist Paul Close said rivers will “keep rising" for the next several days and result in flooding, mostly around Tampa Bay and northward. Those areas were hit by the most rain, which comes on top of a wet summer that included several earlier hurricanes.
+
+
+“You can't do much but wait,” Close said of the rivers cresting. “At least there is no rain in the forecast, no substantial rain. So we have a break here from all our wet weather.” 
+
+<br> 
+
+<https://www.voanews.com/a/determination-to-rebuild-follows-florida-s-hurricanes-with-acceptance-that-storms-will-come-again-/7820622.html>
+
+---
+
+## Hot days and methamphetamine are now deadlier mix in US
+
+date: 2024-10-13, from: VOA News USA
+
+PHOENIX — On just one sweltering day during the hottest June on record in Phoenix, a 38-year-old man collapsed under a freeway bridge and a 41-year-old woman was found slumped outside a business. Both had used methamphetamine before dying from an increasingly dangerous mix of soaring temperatures and stimulants.
+
+
+Meth is showing up more often as a factor in the deaths of people who died from heat-related causes in the U.S., according to an Associated Press analysis of data from the U.S. Centers for Disease Control and Prevention. Death certificates show about one in five heat-related deaths in recent years involved methamphetamine. In Arizona, Texas, Nevada and California, officials found the drug in nearly a third of heat deaths in 2023.
+
+
+
+
+Meth is more common in heat-related deaths than the deadly opioid fentanyl. As a stimulant, it increases body temperature, impairs the brain's ability to regulate body heat and makes it harder for the heart to compensate for extreme heat.
+
+
+If hot weather has already raised someone's body temperature, consuming alcohol or opioids can exacerbate the physical effects, "but meth would be the one that you would be most concerned about," said Bob Anderson, chief of statistical analysis at the National Center for Health Statistics.
+
+
+The trend has emerged as a synthetic drug manufactured south of the border by Mexican drug cartels has largely replaced the domestic version of meth fictionalized in the TV series Breaking Bad. Typically smoked in a glass pipe, a single dose can cost as little as a few dollars.
+
+
+At the same time, human-caused climate change has made it much easier to die from heat-related causes in places like Phoenix, Las Vegas and California's southeastern desert. This has been Earth's hottest summer on record.
+
+
+Phoenix baked in temperatures topping 37.7 Celsius for 113 straight days and hit 47.2 Celsius in late September — uncharacteristic even for a city synonymous with heat. The searing temperatures have carried into October. 
+
+
+"Putting on a jacket can increase body temperature in a cold room. If it's hot outside, we can take off the jacket," explained Rae Matsumoto, dean of the Daniel K. Inouye College of Pharmacy at the University of Hawaii in Hilo. But people using the stimulant in the outdoor heat "can't take off the meth jacket."
+
+
+These fatalities are particularly prevalent in the Southwest, where meth overdoses overall have risen since the mid-2000s.
+
+
+In Maricopa County, America's hottest major metropolitan area, substances including street drugs, alcohol and certain prescription medicines for psychiatric conditions and blood pressure control were involved in about two-thirds, or 419 of the 645 heat-related deaths documented last year. Meth was detected in about three-quarters of these drug cases and was often the primary cause of death, public health data show. Fentanyl was found in just under half of them.
+
+
+In Pima County, home to Tucson, Arizona's second most populous city, methamphetamine was a factor in one-quarter of the 84 heat-related deaths reported so far this year, the medical examiner's office said.
+
+
+In metro Las Vegas, heat was a factor in 294 deaths investigated last year by the Clark County coroner's office, and 39% involved illicit and prescription drugs and alcohol. Of those, meth was detected in three-fourths.
+
+
+The U.S. Drug Enforcement Administration notes in its 2024 National Drug Threat Assessment that 31% of all drug-related deaths in the U.S. are now caused by stimulants that speed up the nervous system, primarily meth. More than 17,000 people in the U.S. died from fatal overdoses and poisonings related to stimulants in the first half of 2023, according to preliminary CDC data.
+
+
+Although overdoses have been more associated with opiates like fentanyl, medical professionals say overdosing on meth is possible if a large amount is ingested. Higher blood pressure and a quickened heart rate can then provoke a heart attack or stroke.
+
+
+
+
+"All of your normal physiological ways of coping with heat are compromised with the use of methamphetamines," said Dr. Aneesh Narang, an emergency medicine physician at Banner University Medical Center in downtown Phoenix.
+
+
+Narang, who sits on a board that reviews overdose fatalities, said the "vast majority" of the heat stroke patients seen in his hospital's emergency department this summer had used street drugs, most commonly methamphetamine.
+
+
+Because of its proximity to the U.S.-Mexico border, Phoenix is considered a "source city" where large amounts of newly smuggled meth are stored and packaged into relatively tiny doses for distribution, said Det. Matt Shay, a narcotics investigator with the Maricopa County Sheriff's Office.
+
+
+"It's an amazing amount that comes in constantly every day," Shay said. "It's also very cheap."
+
+
+U.S. Customs and Border Protection seized about 74,000 kilograms of meth at the U.S.-Mexico border this last fiscal year ending September 30, up from the 63,500 kilograms captured in the previous 12 months.
+
+
+And sellers often target homeless people, Shay said.
+
+
+"It's a customer base that is easy to find and exploit," Shay said. "If you're an enterprising young drug dealer, all you need is some type of transportation and you just cruise around and they swarm your car."
+
+
+Jason Elliott, a 51-year-old unemployed machinist, said he's heard of several heat-related deaths involving meth during his three years on the streets in Phoenix.
+
+
+"It's pretty typical," said Elliot, noting that stimulants enable people to stay awake and alert to prevent being robbed in shelters or outdoors. "What else can you do? You have stuff; you go to sleep, you wake up and your stuff is gone."
+
+
+Dr. Nick Staab, assistant medical director of the Maricopa County Department of Public Health, said brochures were printed this summer and distributed in cooling centers to spread the word about the risk of using stimulants and certain prescription medicines in extreme heat.
+
+
+But it's unclear how many are being reached. People who use drugs may not be welcomed at some cooling centers. A better solution, according to Stacey Cope, capacity building and education director for the harm reduction nonprofit Sonoran Prevention Works, is to lower barriers to entry so that people most at risk "are not expected to be absent from drugs, or they're not expected to leave during the hottest part of the day." 
+
+<br> 
+
+<https://www.voanews.com/a/hot-days-and-methamphetamine-are-now-a-deadlier-mix-in-us/7817104.html>
+
+---
+
+## Online hate against South Asian Americans rises steadily, report says
+
+date: 2024-10-13, from: VOA News USA
+
+WASHINGTON — Online hate against Americans of South Asian ancestry has risen steadily in 2023 and 2024 with the rise of politicians from that community to prominence, according to a report released Wednesday by nonprofit group Stop AAPI Hate.
+
+
+Why it's important
+
+
+Democratic presidential candidate and Vice President Kamala Harris is of Indian descent, as are former Republican presidential candidates Nikki Haley and Vivek Ramaswamy. Republican vice presidential candidate JD Vance's wife, Usha Vance, is also Indian American.
+
+
+Harris faces Republican former President Donald Trump in the 2024 U.S. elections.
+
+
+There has been a steady rise in anti-Asian hate in extremist online spaces from January 2023 to August 2024, the report said.
+
+
+The nonprofit group blamed the rise on a "toxic political climate in which a growing number of leaders and far-right extremist voices continue to spew bigoted political rhetoric and disinformation."
+
+
+Key quotes
+
+
+"Online threats of violence towards Asian communities reached their highest levels in August 2024, after Usha Vance appeared at the Republican National Convention and Kamala Harris was declared a presidential nominee at the Democratic National Convention," Stop AAPI Hate said.
+
+
+"The growing prevalence of anti-South Asian online hate ... in 2023 and 2024 tracks with the rise in South Asian political representation this election cycle," it added.
+
+
+By the numbers
+
+
+Among Asian American subgroups, South Asian communities were targeted with the highest volume of anti-Asian online hostility, with 60% of slurs directed at them in that period, according to the report.
+
+
+Anti-South Asian slurs in extremist online spaces doubled last year, from about 23,000 to more than 46,000, and peaked in August 2024.
+
+
+There are nearly 5.4 million people of South Asian descent living in the United States, comprising of individuals with ancestry from nations including India, Bangladesh, Bhutan, Nepal, Pakistan and Sri Lanka. 
+
+<br> 
+
+<https://www.voanews.com/a/online-hate-against-south-asian-americans-rises-steadily-report-says/7817086.html>
+
+---
+
+## Volunteers bring solar power to Hurricane Helene's disaster zone
+
+date: 2024-10-13, from: VOA News USA
+
+BAKERSVILLE, North Carolina — Nearly two weeks after Hurricane Helene downed power lines and washed out roads all over North Carolina's mountains, the constant din of a gas-powered generator is getting to be too much for Bobby Renfro.
+
+
+It's difficult to hear the nurses, neighbors and volunteers flowing through the community resource hub he has set up in a former church for his neighbors in Tipton Hill, a crossroads in the Pisgah National Forest north of Asheville. Much worse is the cost: he spent $1,200 to buy it and thousands more on fuel that volunteers drive in from Tennessee.
+
+
+Turning off their only power source isn't an option. This generator runs a refrigerator holding insulin for neighbors with diabetes and powers the oxygen machines and nebulizers some of them need to breathe.
+
+
+The retired railroad worker worries that outsiders don't understand how desperate they are, marooned without power on hilltops and down in "hollers."
+
+
+"We have no resources for nothing," Renfro said. "It's going to be a long ordeal."
+
+
+More than 43,000 of the 1.5 million customers who lost power in western North Carolina still lacked electricity on Friday, according to Poweroutage.us. Without it, they can't keep medicines cold or power medical equipment or pump well water. They can't recharge their phones or apply for federal disaster aid.
+
+
+Crews from all over the country and even Canada are helping Duke Energy and local electric cooperatives with repairs, but it's slow going in the dense mountain forests, where some roads and bridges are completely washed away.
+
+
+
+
+"The crews aren't doing what they typically do, which is a repair effort. They're rebuilding from the ground up," said Kristie Aldridge, vice president of communications at North Carolina Electric Cooperatives.
+
+
+Residents who can get their hands on gas and diesel-powered generators are depending on them, but that is not easy. Fuel is expensive and can be a long drive away. Generator fumes pollute and can be deadly. Small home generators are designed to run for hours or days, not weeks and months.
+
+
+Now, more help is arriving. Renfro received a new power source this week, one that will be cleaner, quieter and free to operate. Volunteers with the nonprofit Footprint Project and a local solar installation company delivered a solar generator with six 245-watt solar panels, a 24-volt battery and an AC power inverter. The panels now rest on a grassy hill outside the community building.
+
+
+Renfro hopes his community can draw some comfort and security, "seeing and knowing that they have a little electricity."
+
+
+The Footprint Project is scaling up its response to this disaster with sustainable mobile infrastructure. It has deployed dozens of larger solar microgrids, solar generators and machines that can pull water from the air to 33 sites so far, along with dozens of smaller portable batteries.
+
+
+With donations from solar equipment and installation companies as well as equipment purchased through donated funds, the nonprofit is sourcing hundreds more small batteries and dozens of other larger systems and even industrial-scale solar generators known as "Dragon Wings."
+
+
+Will Heegaard and Jamie Swezey are the husband-and-wife team behind Project Footprint. Heegaard founded it in 2018 in New Orleans with a mission of reducing the greenhouse gas emissions of emergency responses. Helene's destruction is so catastrophic, however, that Swezey said this work is more about supplementing generators than replacing them.
+
+
+"I've never seen anything like this," Swezey said as she stared at a whiteboard with scribbled lists of requests, volunteers and equipment. "It's all hands on deck with whatever you can use to power whatever you need to power."
+
+
+Down near the interstate in Mars Hill, a warehouse owner let Swezey and Heegaard set up operations and sleep inside. They rise each morning triaging emails and texts from all over the region. Requests for equipment range from individuals needing to power a home oxygen machine to makeshift clinics and community hubs distributing supplies.
+
+
+Local volunteers help. Hayden Wilson and Henry Kovacs, glassblowers from Asheville, arrived in a pickup truck and trailer to make deliveries this week. Two installers from the Asheville-based solar company Sundance Power Systems followed in a van.
+
+
+It took them more than an hour on winding roads to reach Bakersville, where the community hub Julie Wiggins runs in her driveway supports about 30 nearby families. It took many of her neighbors days to reach her, cutting their way out through fallen trees. Some were so desperate they stuck their insulin in the creek to keep it cold.
+
+
+Panels and a battery from Footprint Project now power her small fridge, a water pump and a Starlink communications system she set up. "This is a game changer," Wiggins said.
+
+
+The volunteers then drove to Renfro's hub in Tipton Hill before their last stop at a Bakersville church that has been running two generators. Other places are much harder to reach. Heegaard and Swezey even tried to figure out how many portable batteries a mule could carry up a mountain and have arranged for some to be lowered by helicopters.
+
+
+They know the stakes are high after Heegaard volunteered in Puerto Rico, where Hurricane Maria's death toll rose to 3,000 as some mountain communities went without power for 11 months. Duke Energy crews also restored infrastructure in Puerto Rico and are using tactics learned there, like using helicopters to drop in new electric poles, utility spokesman Bill Norton said.
+
+
+The hardest customers to help could be people whose homes and businesses are too damaged to connect, and they are why the Footprint Project will stay in the area for as long as they are needed, Swezey said.
+
+
+"We know there are people who will need help long after the power comes back," she said. 
+
+<br> 
+
+<https://www.voanews.com/a/volunteers-bring-solar-power-to-hurricane-helene-s-disaster-zone/7820560.html>
+
+---
+
+## Widespread fuel shortage hampers Florida’s Hurricane Milton cleanup
+
+date: 2024-10-13, from: VOA News USA
+
+CORTEZ, Florida — Floridians recovering from Hurricane Milton, many of whom were journeying home after fleeing hundreds of miles to escape the storm, spent much of Saturday searching for gas as a fuel shortage gripped the state.
+
+
+In St. Petersburg, scores of people lined up at a station that had no gas, hoping it would arrive soon. Among them was Daniel Thornton and his 9-year-old daughter Magnolia, who arrived at the station at 7 a.m. and were still waiting four hours later.
+
+
+"They told me they have gas coming but they don't know when it's going to be here," he said. "I have no choice. I have to sit here all day with her until I get gas."
+
+
+Gov. Ron DeSantis told reporters Saturday morning that the state opened three fuel distribution sites and planned to open several more. Residents can get 37.85 liters each, free of charge, he said.
+
+
+"Obviously as power gets restored ... and the Port of Tampa is open, you're going to see the fuel flowing. But in the meantime, we want to give people another option," DeSantis said.
+
+
+Officials were replenishing area gas stations with the state's fuel stockpiles and provided generators to stations that remained without power.
+
+
+Disaster hits twice
+
+
+Those who reached home were assessing the damage and beginning the arduous cleaning process. Some, like Bill O'Connell, a board member at Bahia Vista Gulf in Venice, had thought they were done after the condo association hired companies to gut, treat and dry the units following Hurricane Helene. Milton undid that work and caused additional damage, O'Connell said.
+
+
+"It reflooded everything that was already flooded, brought all the sand back on our property that we removed," O'Connell said. "And also did some catastrophic wind damage, ripped off many roofs and blew out a lot of windows that caused more damage inside the units."
+
+
+The two hurricanes left a ruinous mess in the fishing village of Cortez, a community of 4,100 along the northern edge of Sarasota Bay. Residents of its modest, single-story wood and stucco-fronted cottages were working to remove broken furniture and tree limbs, stacking the debris in the street much like they did after Hurricane Helene.
+
+
+"Everything is shot," said Mark Praught, a retired street sweeper for Manatee County, who saw 1.2-meter storm surges during Helene. "We'll replace the electrical and the plumbing and go from there."
+
+
+Praught and his wife, Catherine, have lived for 36 years in a low-lying home that now looks like an empty shell. All the furniture had to be discarded, the walls and the brick and tile floors had to be scrubbed clean of muck, and drywall had to be ripped out.
+
+
+Catherine Praught said they felt "pure panic" when Hurricane Milton menaced Cortez so soon after Helene, forcing them to pause their cleanup and evacuate. Fortunately, their home wasn't damaged by the second storm.
+
+
+"This is where we live," Catherine Praught said. "We're just hopeful we get the insurance company to help us."
+
+
+In Bradenton Beach, Jen Hilliard scooped up wet sand mixed with rocks and tree roots and dumped the mixture into a wheelbarrow.
+
+
+
+
+"This was all grass," Hilliard said of the sandy mess beneath her feet. "They're going to have to make 500 trips of this."
+
+
+Hilliard, who moved to Florida six months ago and lives further inland, said she was happy to pitch in and help clean up her friend's home a block from the shore in Bradenton Beach.
+
+
+Furniture and household appliances sat outside alongside debris from interior drywall that was removed after Helene sent several feet of storm surge into the house. Inside, walls were gutted up to 1.2 meters, exposing the beams underneath.
+
+
+"You roll with the punches," she said. "Community is the best part, though. Everybody helping each other."
+
+
+Milton killed at least 10 people after it made landfall as a Category 3 storm, tearing across central Florida, flooding barrier islands and spawning deadly tornadoes. Officials say the toll could have been worse if not for the widespread evacuations.
+
+
+Overall, more than a thousand people had been rescued in the wake of the storm as of Saturday, DeSantis said.
+
+
+Property damage and economic costs in the billions
+
+
+On Sunday, President Joe Biden will survey the devastation inflicted on Florida's Gulf Coast by the hurricane. He said he hopes to connect with DeSantis during the visit.
+
+
+The trip offers Biden another opportunity to press Republican House Speaker Mike Johnson to call lawmakers back to Washington to approve more funding during their preelection recess. It's something Johnson says he won't do.
+
+
+Biden is making the case that Congress needs to act now to ensure the Small Business Administration and FEMA have the money they need to get through hurricane season, which stretches through November in the Atlantic.
+
+
+DeSantis welcomed the federal government's approval of a disaster declaration announced Saturday and said he had gotten strong support from Biden.
+
+
+"He basically said, you know, you guys are doing a great job. We're here for you," he said when asked about his conversations with Biden. "We sent a big request and we got approved for what we wanted."
+
+
+Moody's Analytics on Saturday estimated economic costs from the storm will range from $50 billion to $85 billion, including upwards of $70 billion in property damage and an economic output loss of up to $15 billion.
+
+
+Safety threats remain, including rising rivers
+
+
+As the recovery continues, DeSantis has warned people to be cautious, citing ongoing safety threats including downed power lines and standing water. Some 1.3 million Floridians were still without power by Saturday afternoon, according to poweroutage.us.
+
+
+National Weather Service Meteorologist Paul Close said rivers will "keep rising" for the next four or five days resulting in river flooding, mostly around Tampa Bay and northward. Those areas were hit by the most rain, which comes on top of a wet summer that included several earlier hurricanes.
+
+
+"You can't do much but wait," Close said of the rivers cresting. "At least there is no rain in the forecast, no substantial rain. So we have a break here from all our wet weather." 
+
+<br> 
+
+<https://www.voanews.com/a/widespread-fuel-shortage-hampers-florida-s-hurricane-milton-cleanup/7820558.html>
+
+---
+
+## Hotel workers strike in Seattle, Washington, joining thousands of US strikers
+
+date: 2024-10-13, from: VOA News USA
+
+ 
+
+<br> 
+
+<https://www.voanews.com/a/hotel-workers-in-seattle-washington-strike-joining-thousands-of-us-strikers/7820533.html>
+
+---
+
+## VOA immigration weekly recap, Oct 7-12
+
+date: 2024-10-12, from: VOA News USA
+
+ 
+
+<br> 
+
+<https://www.voanews.com/a/voa-immigration-weekly-recap-oct-7-12/7820254.html>
+
+---
+
+## Holding Super Bowl outside US is possible, says NFL's commissioner
+
+date: 2024-10-12, from: VOA News USA
+
+london — The National Football League's aggressive international growth plan could include holding a Super Bowl outside the United States for the first time, Commissioner Roger Goodell said on Saturday. 
+
+
+Goodell has shot down the idea in the past, but he told a fan forum in London that it's a possibility. 
+
+
+"We've always traditionally tried to play a Super Bowl in an NFL city — that was always sort of a reward for the cities that have NFL franchises," he said in response to a question about moving the neutral-site game internationally. "But things change. It wouldn't surprise me at all if that happens one day." 
+
+
+Goodell floated the idea as he outlined a plan that could include playing 16 international games every year if the regular season expands to 18 games. 
+
+
+He added that he has "no doubt" that Ireland will host a game soon. He named Rio de Janeiro as a likely new host and said the Jacksonville Jaguars are considering increasing the number of games they play in London during their stadium renovations at home. 
+
+
+This season's Super Bowl — the 59th edition — will be played in New Orleans. In 2026, Levi's Stadium in Santa Clara, California, will host, followed by SoFi Stadium in Inglewood, California, in 2027. Kansas City's 25-22 overtime victory over San Francisco in the last Super Bowl was the most-watched program in U.S. television history. 
+
+
+Team owners already have authorized up to eight international games, but Goodell said they could double that number — creating a scenario where all 32 teams could play an international game each year. 
+
+
+The key is expanding the regular season by one game and reducing the number of preseason games to two. 
+
+
+"If we do expand our season — our regular season — to an 18-and-two structure, I see us going to 16 of those games being in international markets," Goodell said. 
+
+
+He added that the plan could include a second bye week in the schedule. 
+
+
+"A lot of that depends on — can we continue to make the game safer, can we continue to modify the way we conduct the offseason as well as the training camp and as well as the season, so that these guys feel comfortable being able to play that period of time," Goodell said. 
+
+
+Under that scenario, he said, the season would start around Labor Day and conclude around Presidents Day — the third Monday of February. 
+
+
+Moving to an 18th game is seen as inevitable. The players union has indicated it is open to an agreement before the current labor deal expires after the 2030 season. 
+
+
+There are five international games this season, and Goodell said the league wants to increase to eight "quickly." 
+
+
+Dublin has been seen as the next likely host — after Madrid gets its first game in 2025. 
+
+
+"I have no doubt that we're going to be playing in Ireland. I don't know if it will be next year, but it's coming soon," Goodell said at Tottenham Hotspur Stadium. 
+
+
+He cited Rio de Janeiro as the possible host of the next Brazil game — Sao Paulo staged one this season. 
+
+
+London, which could get a night game at some point, has hosted regular-season games since 2007 and Germany since 2022. 
+
+
+"We're looking at other markets in the other direction, toward Asia," he said. "There's probably more interest than we can handle." 
+
+
+Kickoff update 
+
+
+Goodell expects some offseason tweaks to the new kickoff rules but on the whole said "it's working." 
+
+
+The new rules have made kickoffs relevant again, he said, and the early data on injuries is promising. 
+
+
+Just over 30% of kickoffs have been returned this season compared with 20% last season, he said. 
+
+
+"With that increase in returns, it's giving us more data to determine whether we can do it more safely. It actually is incredibly promising. We're seeing lower impacts that have led to less severe injuries and less number of injuries. So, I think it's working," Goodell said. 
+
+
+On average, kickoffs drives are starting just past the 29-yard line, compared with just past the 24 previously, he said. 
+
+
+"I think what we'll see ultimately is a change in the offseason," Goodell said. "Once we know it's a safer play, it will encourage more kickoffs. That could happen in a couple of ways. You could move the kickoff line back, so that they can't kick it out as easily. You could also say the penalty for kicking it out is going to go to the 35 instead of where we're at, the 30." 
+
+
+He said the "great thing" about the new system is "one little crease develops and that guy is gone. That's what I'm looking for is that long kickoff return to return to the game. I think we had four or five last year. We're already at that number at Week 6. That's pretty good." 
+
+<br> 
+
+<https://www.voanews.com/a/holding-super-bowl-outside-us-is-possible-says-nfl-s-commissioner-/7820235.html>
+
+---
+
+## Floridians evacuated for Hurricane Milton make their way back home
+
+date: 2024-10-12, from: VOA News USA
+
+BRANDON, FLORIDA — Florida residents who fled hundreds of miles to escape Hurricane Milton made slow trips home on crowded highways, weary from their long journeys and the cleanup work awaiting them but also grateful to be coming back alive.
+
+
+“I love my house, but I’m not dying in it,” Fred Neuman said Friday while walking his dog outside a rest stop off Interstate 75 north of Tampa.
+
+
+Neuman and his wife live in Siesta Key, where Milton made landfall Wednesday night as a powerful Category 3 hurricane. Heeding local evacuation orders ahead of the storm, they drove nearly 800 kilometers to Destin on the Florida Panhandle. Neighbors told the couple the hurricane destroyed their carport and inflicted other damage, but Neuman shrugged, saying their insurance should cover it.
+
+
+Nearby, Lee and Pamela Essenburm made peanut butter and jelly sandwiches at a picnic table as cars pulling off the slow-moving interstate waited for parking spaces outside the crowded rest stop. Their home in Palmetto, on the south end of Tampa Bay, had a tree fall in the backyard. They evacuated, fearing the damage would be more severe and worrying Milton might hit as a catastrophic Category 4 or 5 storm.
+
+
+“I wasn't going to take a chance on it,” Lee Essenbaum said. “It’s not worth it.”
+
+
+Milton killed at least 10 people when it tore across central Florida, flooding barrier islands, ripping the roof off the Tampa Bay Rays′ baseball stadium and spawning deadly tornadoes.
+
+
+Officials say the toll could have been worse if not for the widespread evacuations. The still-fresh devastation wrought by Hurricane Helene just two weeks earlier probably helped compel many people to flee.
+
+
+“Helene likely provided a stark reminder of how vulnerable certain areas are to storms, particularly coastal regions,” said Craig Fugate, who served as the Federal Emergency Management Agency's administrator under President Barack Obama. “When people see firsthand what can happen, especially in neighboring areas, it can drive behavior change in future storms.”
+
+
+In the seaside town of Punta Gorda, Mayor Lynne Matthews said rescuers had to save three people from floodwaters after Milton passed, compared with 121 rescues from Helene's flooding.
+
+
+“So, people listened to the evacuation order,” Matthews told a news conference Friday, noting that local authorities ensured residents heard them. “We had teams out with the megaphones going through all of our mobile home communities and other places to let people know that they needed to evacuate.”
+
+
+
+
+As of Saturday morning, the number of Floridians still without power had dropped to less than 1.6 million, according to poweroutage.us. St. Petersburg's 260,000 residents were told to boil water before drinking, cooking or brushing their teeth, until at least Monday.
+
+
+Traffic crawled along stretches of I-75 as evacuees’ vehicles crowded alongside a steady stream of utility trucks heading south toward Tampa. While the densely populated city and surrounding Hillsborough County accounted for nearly one-fourth of the remaining power outages, Milton spared Tampa a direct hit, and the lethal storm surge that scientists feared never materialized.
+
+
+On Sunday, President Joe Biden will survey the devastation inflicted on Florida’s Gulf Coast by the hurricane. He said he hopes to connect with Governor Ron DeSantis during the visit.
+
+
+The trip to Florida offers Biden another opportunity to press Republican Speaker Mike Johnson to call lawmakers back to Washington to approve further funding during their pre-election recess. It’s something the top House lawmaker says he won’t do.
+
+
+Biden is making the case that Congress needs to act now to ensure the Small Business Administration and FEMA have the money they need to get through hurricane season, which stretches through the end of November in the Atlantic. The president said Friday that Hurricane Milton caused $50 billion in estimated damages.
+
+
+As the recovery continues, DeSantis has warned people to be cautious, citing ongoing safety threats, including downed power lines and standing water that could hide dangerous objects.
+
+
+“We’re now in the period where you have fatalities that are preventable,” DeSantis said Friday. “You have to make the proper decisions and know that there are hazards out there.”
+
+
+National Weather Service Meteorologist Paul Close said rivers will “keep rising" for the next four or five days resulting in river flooding, mostly around Tampa Bay and northward. Those areas were hit by the most rain, which comes on top of a wet summer that included earlier hurricanes.
+
+
+“You can't do much but wait,” Close said of the rivers cresting. “At least there is no rain in the forecast, no substantial rain. So, we have a break here from all our wet weather.”
+
+
+In coastal Pinellas County, the sheriff's office used high-water vehicles to shuttle people back and forth to their homes in a flooded Palm Harbor neighborhood where waters continued to rise. 
+
+<br> 
+
+<https://www.voanews.com/a/floridians-evacuated-for-hurricane-milton-make-their-way-back-home/7820242.html>
+
+---
+
+## Election stress disorder is a real thing ahead of November voting
+
+date: 2024-10-12, from: VOA News USA
+
+The American Psychiatric Association says that as elections approach, stress levels go up, regardless of political affiliation. The constant stream of news, stressful arguments and concerns about the country's future all put pressure on mental well-being. Some psychologists call it election stress disorder. Maxim Adams has the story. Videographer: Andre Sergunin 
+
+<br> 
+
+<https://www.voanews.com/a/election-stress-disorder-is-a-real-thing-ahead-of-november-voting/7820144.html>
+
+---
+
+## Iran's Terrible, Horrible, Very Bad Year
+
+date: 2024-10-12, updated: 2024-10-12, from: RAND blog
+
+Iran was in a stronger strategic position before its proxies plunged the region into war. But it has only itself to blame. If Tehran is intent on escalating, the United States and its allies may have no other choice but to shift from punitive measures to dismantling Iran's military capabilities. 
+
+<br> 
+
+<https://www.rand.org/pubs/commentary/2024/10/irans-terrible-horrible-very-bad-year.html>
+
+---
+
+## Harris' doctor reports vice president is in 'excellent health'
+
+date: 2024-10-12, from: VOA News USA
+
+WASHINGTON — U.S. Vice President Kamala Harris is in “excellent health” and “possesses the physical and mental resiliency” required to serve as president, her doctor said in a letter released Saturday that summarizes her medical history and status.
+
+
+Dr. Joshua Simmons, a U.S. Army colonel and physician to the vice president, wrote that Harris, 59, maintains a healthy, active lifestyle and that her most recent physical, in April, was “unremarkable.”
+
+
+She “possesses the physical and mental resiliency required to successfully execute the duties of the Presidency, to include those as Chief Executive, Head of State and Commander in Chief,” he wrote in a two-page letter.
+
+
+Harris' campaign hopes to use the moment to draw a contrast with Republican Donald Trump, who has released only limited information about his health over the years, and raise questions about his fitness to serve, according to a campaign aide who spoke on condition of anonymity to discuss sensitive matters.
+
+
+Trump has released very little health information, including after his ear was grazed by a bullet during an assassination attempt in July.
+
+
+Simmons, who said he has been Harris’ primary care physician for the past 3½ years, said the vice president has a history of allergies and urticaria, also known as hives, for which she has been on allergen immunotherapy for the past three years.
+
+
+Simmons said Harris’ latest blood work and other test results were “unremarkable.”
+
+
+Also in the report: Harris wears contact lenses for mild nearsightedness; her family history includes maternal colon cancer; she is up to date on preventive care recommendations, including having a colonoscopy and annual mammograms.
+
+
+As Harris' office released the medical report, her campaign highlighted recent media reports raising questions about Trump's health and mental acuity and his failure to provide information about health status and medical history.
+
+
+Trump, 78, eagerly questioned President Joe Biden's health when the 81-year-old president was seeking reelection. Since Biden was replaced on the ticket with Harris, Trump's own health has drawn more attention.
+
+
+Last November, Trump marked Biden's birthday by releasing a letter from his physician that reported the former president was in “excellent” physical and mental health.
+
+
+The letter, posted on Trump’s social media platform, contained no details to support its claims — measures such as weight, blood pressure and cholesterol levels, or the results of any test. 
+
+<br> 
+
+<https://www.voanews.com/a/harris-doctor-reports-she-s-in-excellent-health-/7820112.html>
+
+---
+
+## US airstrikes target multiple militant camps in Syria
+
+date: 2024-10-12, from: VOA News USA
+
+BEIRUT — A series of U.S. airstrikes targeted several camps run by the Islamic State group in Syria in an operation the U.S. military said will disrupt the extremists from conducting attacks in the region and beyond.
+
+
+The U.S. Central Command said the airstrikes were conducted Friday, without specifying in which parts of Syria. About 900 U.S. troops have been deployed in eastern Syria alongside the U.S.-backed and Kurdish-led Syrian Democratic Forces that were instrumental in the fight against IS militants.
+
+
+Despite their defeat, attacks by IS sleeper cells in Iraq and Syria have been on the rise over the past years, with scores of people killed or wounded.
+
+
+The Islamic State group seized territory at the height of its power and declared a caliphate in large parts of Iraq and Syria in 2014 but was defeated in Iraq in 2017. In March 2019, the extremists lost the last sliver of land they once controlled in eastern Syria.
+
+
+The U.S. military said the strikes will disrupt the ability of the Islamic State group to plan, organize and conduct attacks against the United States, its allies and partners, as well as civilians throughout the region and beyond.
+
+
+It said battle damage assessments were underway and there were no civilian casualties.
+
+
+Last month, Iraq’s military said that Iraqi forces and American troops killed a senior IS commander who was wanted by the United States, as well as several other prominent militants.
+
+
+At its peak, the group ruled an area half the size of the United Kingdom where it enforced its extreme interpretation of Islam, which included attacks on religious minority groups and harsh punishment of Muslims deemed to be apostates. 
+
+<br> 
+
+<https://www.voanews.com/a/us-airstrikes-target-multiple-militant-camps-in-syria/7820096.html>
+
+---
+
+##  YOU LOVE TO SEE IT: EPA’s Pipe Dream Comes True 
+
+date: 2024-10-12, from: The Lever News
+
+ Regulators get the lead out, the Golden State sheds light on dark money, mercury and methane get the boot, and Google has a very bad week.  
+
+<br> 
+
+<https://www.levernews.com/epas-pipe-dream-comes-true/>
+
+---
+
+## Animal lovers try to counter the deadly risk of Chicago high-rises for migrating birds
+
+date: 2024-10-12, from: VOA News USA
+
+chicago — With a neon-green net in hand, Annette Prince briskly walks a downtown Chicago plaza at dawn, looking left and right as she goes.
+
+
+It's not long before she spots a tiny yellow bird sitting on the concrete. It doesn't fly away, and she quickly nets the bird, gently places it inside a paper bag and labels the bag with the date, time and place.
+
+
+"This is a Nashville warbler," said Prince, director of the Chicago Bird Collision Monitors, noting that the bird must have flown into a glass window pane of an adjacent building. "He must only weigh about two pennies. He's squinting his eyes because his head hurts."
+
+
+For rescue groups like the Chicago Bird Collision Monitors, this scene plays out hundreds of times each spring and fall after migrating birds fly into homes, small buildings and sometimes Chicago's skyscrapers and other hulking buildings.
+
+
+A stark sign of the risks came last fall, when 1,000 migrating birds died on a single night after flying into the glass exterior of the city's lakefront convention center, McCormick Place. This fall, the facility unveiled new bird-safe window film on one of its glass buildings along the Lake Michigan shore.
+
+
+The $1.2 million project installed tiny dots on the exterior of the Lakeside Center building, adorning enough glass to cover two football fields.
+
+
+Doug Stotz, senior conservation ecologist at the nearby Field Museum, hopes the project will be a success. He estimated that just 20 birds have died after flying into the convention's center's glass exterior so far this fall, a hopeful sign.
+
+
+"We don't have a lot of data since this just started this fall, but at this point, it looks like it's made a huge difference," Stotz said.
+
+
+But for the birds that collide with Chicago buildings, there is a network of people waiting to help. They also are aiming to educate officials and find solutions to improve building design, lighting and other factors in the massive number of bird collision deaths in Chicago and worldwide.
+
+
+Prince said she and other volunteers walk the streets downtown to document what they can of the birds that are killed and injured.
+
+
+
+
+"We have the combination of the millions of birds that pass through this area because it's a major migratory path through the United States, on top of the amount of artificial lighting that we put out at night, which is when these birds are traveling and getting confused and attracted to the amount of glass," Prince said.
+
+
+Dead birds are often saved for scientific use, including by Chicago's Field Museum of Natural History. Rescued birds are taken to local wildlife rehabilitation centers to recover, such as the DuPage Wildlife Conservation Center in suburban Illinois.
+
+
+On a recent morning, veterinarian Darcy Stephenson at DuPage gave a yellow-bellied sapsucker anesthetic gas before taping its wings open for an X-ray. The bird arrived with a note from a rescue group: "Window collision."
+
+
+Examining the results, she found the bird had a broken ulna — a bone in the wing.
+
+
+The center takes in about 10,000 species of animals annually and 65% of them are avian. Many are victims of window collisions and during peak migration in the fall, several hundred birds can show up in one day.
+
+
+"The large chunk of these birds do actually survive and make it back into the wild once we're able to treat them," said Sarah Reich, head veterinarian at DuPage. "Fractures heal very, very quickly in these guys for shoulder fractures. Soft tissue trauma generally heals pretty well. The challenging cases are going to be the ones where the trauma isn't as apparent."
+
+
+Injured birds go through a process of flight testing, then get a full physical exam by the veterinary staff and are rehabilitated before being set free.
+
+
+"It's exciting to be able to get these guys back out into the wild, especially some of those cases that we're kind of cautiously optimistic about or maybe have an injury that we've never treated successfully before," Reich said, adding that these are the cases "clinic staff get really, really excited about." 
+
+<br> 
+
+<https://www.voanews.com/a/avian-enthusiasts-try-to-counter-the-deadly-risk-of-chicago-high-rises-for-migrating-birds/7819848.html>
+
+---
+
+## Louisiana's Cajun and Creole heritage will be celebrated at 50th annual festival
+
+date: 2024-10-12, from: VOA News USA
+
+new orleans, louisiana — Louisiana's Cajun and Creole heritage takes center stage this weekend when the Festivals Acadiens et Creoles marks a half-century of honoring and celebrating the culture through music, arts, food and community. 
+
+
+What started as a one day concert in 1974 to entertain 150 French-speaking journalists gathered in Lafayette — considered the heart of Cajun country — has grown into a three-day event and possibly one of the largest Cajun and Zydeco festivals in the world, organizers said. And, they note, the entire event is free. 
+
+
+Barry Jean Ancelet, one of the event's organizers, said when the idea formed 50 years ago, nobody knew if anyone would even come to hear the music. 
+
+
+"Cajun music at that time was largely considered 'old people's music,'" he said. "You've got to remember, we were in the throes of Rock 'n' Roll at the time. The people here loved it when they encountered it in dance halls, but this concert was designed to call attention to the music in a different way, to point out its value. They had to sit — not dance — and pay attention. And they ended up hearing it in a different way. It was so successful. We ended up turning it into an annual event where we could call positive attention to this important asset and get people to consider it." 
+
+
+
+
+The festival, now held annually in Lafayette's Girard Park, brings together multi-generations of musicians and artists who annually fight to preserve a culture that continues to evolve. 
+
+
+"We've always been about celebrating the past and handing it off to the future," Ancelet said. "If you value and respect evolution, the culture will produce things that will continue to surprise you. It all comes out in the wash. What's good will last and what's not, won't." 
+
+
+Festival co-founder Pat Mould said the festival is a "self-celebration of who we are, how we live, what we eat, the music and how we speak." 
+
+
+"If you know nothing and want to learn about the culture, this one weekend out of the year allows you to find out everything. Everything you want to know is represented at the festival. It's a quick study of Cajun and Creole living," he said. 
+
+
+Event features homegrown talent
+
+
+On tap musically for the Friday through Sunday event are performances by 60 musicians — all homegrown talent — including Steve Riley and the Mamou Playboys, Wayne Toups, CJ Chenier, Nathan and the Zydeco Cha Chas, Chubby Carrier and the Bayou Swamp Band, The Revelers, Beausoleil avec Michael Doucet and The Lost Bayou Ramblers. 
+
+
+On Friday, contemporary artists will pay tribute to the 1974 concert house band that included Zydeco pioneer Clifton Chenier, Cajun accordion maker Marc Savoy, the Balfa Brothers, a Cajun music ensemble of five brothers, Cajun accordion players Nathan Abshire and Blackie Forrester, and Jimmy C. Newman, a country music and Cajun singer-songwriter and long-time star of the Grand Ole Opry. 
+
+
+"Get ready for Louisiana pure fun," said Carrier, who's scheduled to perform with his band on Sunday. "Get ready to eat some really good food and have the time of your life." 
+
+
+"People all over the word have these dates circled on their calendar," he continued. "It's an event that helps the younger generations continue the traditions. I'm a third generation Zydeco musician. This is a family oriented festival that brings people together of all ages." 
+
+
+A 'celebration of everything Cajun'
+
+
+Riley, who's been performing at this festival since 1988, said he keeps returning for several reasons but especially because it helps preserve the culture. 
+
+
+"It's important to see us on stage, singing and speaking in French. That has an effect on people who come to see us and helps them fall in love with the culture," he said. 
+
+
+"There are a lot of events leading up to the weekend that focuses on the importance of the language, the culture, the food and, of course, the music. There's none other that celebrates it like this one. I think it's the biggest complete celebration of everything Cajun. It's also inclusive of different generations, bands with lineage. That's key," he said. 
+
+
+Riley, now 55, said he's very proud that his three children play music. 
+
+
+"It's a beautiful thing for my family and others like mine," he said. "Having your kids play with you is awesome. Most kids don't want to have anything to do with what their parents do. Mine think what I do is fun and it is." 
+
+
+Riley said when he first started there weren't too many young bands playing Cajun music. 
+
+
+"There was real fear that the music would die off and dissipate like the language," he said. "The opposite has happened. More young folks are preserving and playing this music than ever. The Zydeco scene down here is packed with young people. It's super vibrant and alive. The same with the Cajun scene as well." 
+
+<br> 
+
+<https://www.voanews.com/a/louisiana-s-cajun-and-creole-heritage-will-be-showcased-at-50th-annual-festivals-acadiens-et-creoles-/7817127.html>
+
+---
+
+## Nazi-looted Monet artwork returned to family generations later
+
+date: 2024-10-12, from: VOA News USA
+
+NEW ORLEANS — On the eve of World War II, Nazis in Austria seized a pastel by renowned impressionist artist Claude Monet, selling it off and sparking a family's decadeslong search that culminated Wednesday in New Orleans.
+
+
+At an FBI field office, agents lifted a blue veil covering the Monet pastel and presented Adalbert Parlagi's granddaughters with the artwork over 80 years after it was taken from their family. Helen Lowe said she felt that her grandfather would be watching and that he would be "so, so proud of this moment."
+
+
+Monet's 1865 Bord de Mer depicts rocks along the shoreline of the Normandy coast, where Allied forces stormed the beaches of Nazi-occupied France during D-Day in 1944, marking a turning point in the war. The Monet pastel is one of 20,000 items recovered by the FBI Art Crime Team out of an estimated 600,000 artworks and millions of books and religious objects stolen by the Nazis.
+
+
+"The theft was not random or incidental, but an integral part of the Nazis' plan to eliminate all vestiges of Jewish life in Germany and Europe, root and branch," U.S. State Department Holocaust adviser Stuart E. Eizenstat said in a March speech.
+
+
+After Nazi Germany annexed Austria in 1938, Adalbert Parlagi, a successful businessman and art lover, and his wife, Hilda, left behind almost everything they owned and fled Vienna, using British license plates to drive across the border, their granddaughters said. Though the Parlagis hadn't identified as Jewish for years and baptized their children as Protestants, they were still considered Jewish under Nazi laws, according to Austrian government records. Other relatives were killed in concentration camps.
+
+
+The Parlagis attempted to ship their valuable carpets, porcelain and artworks out of Vienna to London, but found out later that their property had been seized and auctioned off by the Gestapo to support the Third Reich.
+
+
+Multiple international declarations decried trading in Nazi-looted art, beginning with Allied forces in London in 1943. The 1998 Washington principles, signed by more than three dozen countries, reiterated the call and advocated for the return of stolen art.
+
+
+Yet Adalbert Parlagi's efforts were stonewalled by the Vienna auctioneer who had bought and sold the Monet pastel and another artwork owned by Parlagi. The records were lost after the fighting in Vienna, the auctioneer told Adalbert in a letter shortly after World War II, according to an English translation of a document prepared by an Austrian government body reviewing the Parlagi family's art restitution claims.
+
+
+"I also cannot remember two such pictures either," the auctioneer said.
+
+
+
+
+Many survivors of World War II and their descendants ultimately give up trying to recover their lost artwork because of the difficulties they face, said Anne Webber, co-founder of the London-based nonprofit Commission for Looted Art in Europe, which has recovered more than 3,500 looted artworks.
+
+
+"You have to just constantly, constantly, constantly look," Webber said.
+
+
+Adalbert Parlagi and his son Franz kept meticulous ownership and search records. After Franz's death in 2012, Françoise Parlagi stumbled upon her father's cache of documents, including the original receipt from her grandfather's purchase of the Monet pastel. She reached out to Webber's commission for help in 2014.
+
+
+The commission's research team reviewed archives and receipts, contacted museums and art experts and scoured the internet, but initially found "absolutely no trace," Webber said. Then, in 2021, the team discovered online that a New Orleans dealer acquired the Monet in 2017 and sold it to a Louisiana-based doctor and his wife.
+
+
+The FBI investigated the commission's research and, earlier this year, a federal court ruled the pastel should be returned to the Parlagis' descendants.
+
+
+"There was never a question" of returning the art to the rightful owners after learning of its sordid history, said Bridget Vita-Schlamp, whose late husband had purchased the Monet pastel.
+
+
+"We were shocked, I'm not going to lie," she said.
+
+
+The family recovered another work in March from the Austrian government but there are still six more artworks missing, including from acclaimed artists Camille Pissarro and Paul Signac. The U.S. is likely the "largest illegal art market in the world," said Kristin Koch, supervisory special agent with the FBI's Art Crime Program.
+
+
+The art world has a greater responsibility to investigate the origins of artworks and a moral obligation to return looted works to their rightful owners, Webber said.
+
+
+"They represent the life and the lives that were taken," Webber said. "They represent the world that they were exiled from."
+
+
+The granddaughters of Adalbert and Hilda Parlagi say they are grateful for what they have already gotten back. Françoise Parlagi, a broad smile on her face, said she hoped to hang a copy of the pastel in her home. She said the moment felt "unreal."
+
+
+"So many families are in this situation. Maybe they haven't even been trying to recover because they don't believe, they think this might not be possible," she said. "Let us be hope for other families." 
+
+<br> 
+
+<https://www.voanews.com/a/nazi-looted-monet-artwork-returned-to-family-generations-later/7817126.html>
+
+---
+
+## What makes a storm a hurricane? The dangers across 5 categories
+
+date: 2024-10-12, from: VOA News USA
+
+ 
+
+<br> 
+
+<https://www.voanews.com/a/what-makes-a-storm-a-hurricane-the-dangers-across-5-categories-/7817107.html>
+
+---
+
+## US voting systems, targets of conspiracy theories, get tested for accuracy, security
+
+date: 2024-10-12, from: VOA News USA
+
+ATLANTA — Voting machines have been at the center of a web of conspiracy theories after the 2020 U.S. election, with false claims that they were manipulated to steal the presidency from Donald Trump.
+
+
+There was no evidence of widespread fraud or rigged voting machines in the election, and multiple reviews in the battleground states where the Republican president disputed his loss to Democrat Joe Biden confirmed the results as accurate. In 2023, Fox News agreed to pay Dominion Voting Systems, one of the largest voting machine companies, $787 million to avoid a trial in a defamation lawsuit.
+
+
+In the years since his loss, Trump and his allies have continued to sow doubts about voting equipment. State and local election officials have tried to push back by explaining the layers of protection that surround voting systems and the measures they have in place to conduct fair and accurate elections.
+
+
+In November's presidential election, nearly every ballot cast will have a paper record that can be used to obtain an accurate count even if there are errors or cyberattacks.
+
+
+What is a voting machine?
+
+
+Election officials rely on various pieces of technology. Every office does things a little bit differently.
+
+
+Officials rely on a voter registration system that is a database of registered voters and have an election management system that workers use to create, issue and track ballots. They also use an election-night reporting system that reports unofficial results. Many jurisdictions use electronic pollbooks to check in voters at polling locations.
+
+
+All this depends on software and computers, a reliance that carries risks that officials work to identify and address. For example, election officials often will isolate critical systems from the internet and use storage devices, such as secured USB sticks, to transfer data. They limit access to sensitive equipment to only those who need it and have logs that track and monitor the devices.
+
+
+When an internet connection is needed, election officials will often use private networks to limit the risk of malicious activity and take other steps to scan their systems for potential vulnerabilities and threats.
+
+
+Voters in much of the country fill out ballots by hand, and then that ballot will be scanned and counted electronically. A few places, mostly small towns in the Northeast, will count their ballots by hand.
+
+
+In some areas, voters use a computer to mark their ballots electronically and then get a printout of their choices that they insert into a scanner for counting. In other cases, the ballot is cast electronically, and a paper record is printed that summarizes the votes cast. That record is then available if a hand count is needed.
+
+
+Are voting machines connected to the internet?
+
+
+With a few exceptions, no. There are some jurisdictions in a few states that allow for ballot scanners in polling locations to transmit unofficial results, using a mobile private network, after voting has ended on Election Day and the memory cards containing the vote tallies have been removed.
+
+
+Election officials who allow this say it provides for faster reporting of unofficial election results on election night. They say the paper records of the ballots cast are used to authenticate the results during postelection reviews, and that those records would be crucial to a recount if one was needed.
+
+
+Computer security experts have said this is an unnecessary risk and should be prohibited.
+
+
+Are voting machines secure?
+
+
+Election officials say they have worked extensively to shore up security around their voting equipment after an effort by Russia to scan state voter registration systems for vulnerabilities in 2016.
+
+
+There was no evidence then that any data was changed or deleted, but it led the federal government to declare the nation's election systems as critical infrastructure. That allows the U.S. Cybersecurity and Infrastructure Security Agency to provide free cybersecurity reviews and vulnerability testing to election offices nationwide.
+
+
+
+
+"Today, eight years later, because of all the incredible work by election officials to strengthen the security and resiliency of our election process, election infrastructure has never been more secure, and the election stakeholder community has never been stronger," the agency's director, Jen Easterly, told reporters in September.
+
+
+Computer security experts have called for more to be done and for election officials to limit the use of certain technology, specifically machines that mark ballots for voters. A long-running court battle in Georgia has sought to compel the state to get rid of these machines in favor of hand-marked paper ballots.
+
+
+Experts have also raised particular concern about a series of security breaches that occurred after the 2020 election as Trump allies sought access to voting systems in Georgia and elsewhere as they tried to prove their unsubstantiated claims. The experts have warned that the public release of critical election software because of the breaches has raised "serious threats" and have called for a federal investigation.
+
+
+How do election officials ensure accuracy?
+
+
+Election officials say there are safeguards in place to ensure that voting systems are not manipulated. That begins with physical security, such as locked rooms with limited access and the use of tamper-evident seals. In addition, voting equipment is tested before the election, a process that includes running test ballots through the equipment to ensure votes are being counted correctly.
+
+
+Postelection reviews are conducted to identify any mistakes or errors that may have occurred.
+
+
+Around 98% of all ballots cast in this year's election will include a paper record, according to a report by the Brennan Center for Justice based on data collected by Verified Voting, a nonpartisan group that tracks voting equipment in the U.S. Officials say that's important for ensuring that any error or cyberattack will not prevent officials from producing an accurate record of the vote. 
+
+<br> 
+
+<https://www.voanews.com/a/voting-systems-are-targets-of-conspiracy-theories-but-get-tested-for-accuracy-and-security/7817078.html>
+
+---
+
+## Florida residents slog through aftermath of Hurricane Milton
+
+date: 2024-10-12, from: VOA News USA
+
+LITHIA, Florida — Florida residents slogged through flooded streets, gathered up scattered debris and assessed damage to their homes on Friday after Hurricane Milton smashed through coastal communities and spawned a barrage of deadly tornadoes.
+
+
+At least 10 people were dead, and rescuers were still saving people from swollen rivers, but many expressed relief that Milton wasn't worse. The hurricane spared densely populated Tampa a direct hit, and the lethal storm surge that scientists feared never materialized.
+
+
+Gov. Ron DeSantis warned people to not let down their guard, however, citing ongoing safety threats including downed power lines and standing water that could hide dangerous objects.
+
+
+"We're now in the period where you have fatalities that are preventable," DeSantis said. "You have to make the proper decisions and know that there are hazards out there."
+
+
+As of Friday night, the number of customers in Florida still without power had dropped to 1.9 million, according to poweroutage.us. St. Petersburg's 260,000 residents were told to boil water before drinking, cooking or brushing their teeth, until at least Monday.
+
+
+Also Friday, the owner of a major phosphate mine disclosed that pollution spilled into Tampa Bay during the hurricane.
+
+
+The Mosaic Company said in a statement that heavy rains from the storm overwhelmed a collection system at its Riverview site, pushing excess water out of a manhole and into discharges that lead to the bay. The company said the leak was fixed Thursday.
+
+
+Mosaic said the spill likely exceeded a 66,245-liter minimum reporting standard, though it did not provide a figure for what the total volume might have been.
+
+
+Calls and emails to Mosaic seeking additional information about Riverview and the company's other Florida mines received no response, as did a voicemail left with the Florida Department of Environmental Protection.
+
+
+The state has 25 such stacks containing more than 1 billion tons of phosphogypsum, a solid waste byproduct of the phosphate fertilizer mining industry that contains radium, which decays to form radon gas. Both radium and radon are radioactive and can cause cancer. Phosphogypsum may also contain toxic heavy metals and other carcinogens, such as arsenic, cadmium, chromium, lead, mercury and nickel.
+
+
+Florida's vital tourism industry has started to return to normal, meanwhile, as Walt Disney World and other theme parks reopened. The state's busiest airport, in Orlando, resumed full operations Friday.
+
+
+
+
+Arriving just two weeks after the devastating Hurricane Helene, Milton flooded barrier islands, tore the roof off the Tampa Bay Rays ' baseball stadium and toppled a construction crane.
+
+
+Crews from the Hillsborough County Sheriff's Office on Friday were assisting with rescues of people, including a 92-year-old woman, who were stranded in rising waters along the Alafia River. The river is 40 kilometers long and runs from eastern Hillsborough County, east of Tampa, into Tampa Bay.
+
+
+In Pinellas County, deputies used high-water vehicles to shuttle people back and forth to their homes in a flooded Palm Harbor neighborhood where waters continued to rise.
+
+
+Ashley Cabrera left with her 18- and 11-year-old sons and their three dogs, Eeyore, Poe and Molly. It was the first time since Milton struck that they had been able to leave the neighborhood, and they were now headed to a hotel in Orlando.
+
+
+"I'm extremely thankful that we could get out now and go for the weekend somewhere we can get a hot meal and some gas," Cabrera said. "I thought we'd be able to get out as soon as the storm was over. These roads have never flooded like this in all the years that I've lived here."
+
+
+Animals were being saved, too. Cindy Evers helped rescue a large pig stuck in high water at a strip mall in Lithia, east of Tampa. She had already rescued a donkey and several goats after the storm.
+
+
+"I'm high and dry where I'm at, and I have a barn and 9 acres (3.6 hectares)," Evers said, adding that she will soon start to work to find the animals' owners.
+
+
+In the Gulf Coast city of Venice, Milton left behind dozens of centimeters of sand in some beachfront condos, with one unit nearly filled. A swimming pool was packed full of sand, with only its handrails poking out.
+
+
+Some warnings were heeded and lessons learned. When 2.4 meters of seawater flooded Punta Gorda during Hurricane Helene last month, 121 people had to be rescued, Mayor Lynne Matthews said. Milton brought at least 1.5 meters of flooding, but rescuers only had to save three people.
+
+
+"So people listened to the evacuation order," Matthews said.
+
+
+Heaps of fruit were scattered across the ground and trees toppled over after both Milton and Hurricane Helene swept through Polk County and other orange-growing regions, Matt Joyner of trade group Florida Citrus Mutual said Friday.
+
+
+Milton arrived at the start of the orange growing season, so it is still too early to evaluate the full scope of the damage.
+
+
+Florida has already seen orange production diminish over the years, with the industry still recovering from hurricanes of years past while also waging an ongoing battle against a deadly greening disease. Milton could be the knockout punch for some growers, Joyce said.
+
+
+In the western coastal city of Clearwater, Kelvin Glenn said it took less than an hour early Thursday for water to rise to his waist inside his apartment. He and seven children, ranging in age from 3 to 16, were trapped in the brown, foul floodwaters for about three hours before an upstairs neighbor opened their home to them.
+
+
+Later that day, first responders arrived in boats to ferry them away from the building.
+
+
+"Sitting in that cold, nasty water was kind of bad," Glenn said.
+
+
+Short-term survival is now turning into long-term worries. A hotel is $160 a night. Everything inside Glenn's apartment is gone. And it can take time to get assistance.
+
+
+"I ain't going to say we're homeless," Glenn said. "But we've got to start all over again."
+
+
+The Federal Emergency Management Agency has enough money to deal with the immediate needs of people impacted by Helene and Milton but will need additional funding at some point, FEMA administrator Deanne Criswell said Friday.
+
+
+The disaster assistance fund helps pay for the swift response to hurricanes, floods, earthquakes and other disasters. Congress recently replenished the fund with $20 billion — the same amount as last year. 
+
+<br> 
+
+<https://www.voanews.com/a/florida-residents-slog-through-aftermath-of-hurricane-milton/7819902.html>
+
+---
+
+## What TikTok knew of the app’s toll on teens
+
+date: 2024-10-12, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p>This week, more than a dozen states came together to sue TikTok over the social media app&#8217;s effects on young users. Now, a <a href="https://www.npr.org/2024/10/11/g-s1-27676/tiktok-redacted-documents-in-teen-safety-lawsuit-revealed">report</a> by NPR and Kentucky Public Radio shows executives at the company were well aware of the harms to teens. We&#8217;ll get into it. Plus, is the cost of rebuilding after a natural disaster becoming a luxury few can afford? And, would you wear pajama pants to school or work? That and more in a round of Half Full/Half Empty.</p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>Here&#8217;s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.npr.org/2024/10/11/g-s1-27676/tiktok-redacted-documents-in-teen-safety-lawsuit-revealed" target="_blank" rel="noreferrer noopener">&#8220;TikTok executives know about app’s effect on teens, lawsuit documents</a><a href="https://www.npr.org/2024/10/11/g-s1-27676/tiktok-redacted-documents-in-teen-safety-lawsuit-revealed"> allege&#8221;</a> from NPR</li>
+<li><a href="https://slate.com/business/2024/10/hurricane-milton-florida-wealthy-homeowners-stay-climate-migration.html" target="_blank" rel="noreferrer noopener">&#8220;No Hurricane Will Make Rich People Leave Florida&#8221;</a> from Slate</li>
+<li><a href="https://www.marketplace.org/2024/10/07/the-cia-runs-a-nonprofit-venture-capital-firm-whats-it-investing-in/" target="_blank" rel="noreferrer noopener">&#8220;The CIA runs a nonprofit venture capital firm. What’s it investing in?&#8221;</a> from Marketplace</li>
+<li><a href="https://www.nbcnews.com/pop-culture/trump-apprentice-biopic-movie-2024-election-rcna174503" target="_blank" rel="noreferrer noopener">&#8220;Trump biopic &#8216;The Apprentice&#8217; hits theaters amid fury from his campaign&#8221;</a> from NBC News</li>
+<li><a href="https://www.axios.com/2024/10/06/amazon-prime-day-deals-october-2024-walmart-target" target="_blank" rel="noreferrer noopener">&#8220;Black Friday in October: Here come early holiday deals&#8221;</a> from Axios</li>
+<li><a href="https://www.nytimes.com/2024/10/09/us/politics/tim-walz-twitch-stream.html" target="_blank" rel="noreferrer noopener">&#8220;Tim Walz Rally Is Livestreamed on Twitch in Pitch to Young Voters&#8221;</a> from The New York Times</li>
+<li><a href="https://www.wsj.com/style/fashion/pajamas-fashion-dresscode-parenting-workplace-b8127bf1?mod=hp_featst_pos5" target="_blank" rel="noreferrer noopener">&#8220;Get Comfortable With It: Pajama Pants Are for Everywhere&#8221;</a> from The Wall Street Journal</li>
+</ul>
+<p><!-- /wp:paragraph --></p>
+<p><!-- /wp:list --> <!-- wp:paragraph --></p>
+<p>Join Kai Ryssdal and Kimberly Adams for a live taping of &#8220;Make Me Smart&#8221; on Oct. 25 in Boston. In-person tickets are sold out, but you can still join us virtually. Get your tickets <a href="https://ci.ovationtix.com/35123/production/1209492?performanceId=11506951">here</a>.</p>
+<p><!-- /wp:paragraph --></p>
+ 
+
+<audio controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-MakeMeSmart/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/11/mms_20241011_MMS_128.mp3"></source>
+	<a href="https://play.podtrac.com/APM-MakeMeSmart/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/11/mms_20241011_MMS_128.mp3" target="_blank">audio/mpeg</a>
+</audio><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/what-tiktok-knew-of-the-apps-toll-on-teens>
+
+---
+
+## Boeing to lay off 10% of employees as strike stalls airplane production
+
+date: 2024-10-12, from: VOA News USA
+
+ 
+
+<br> 
+
+<https://www.voanews.com/a/boeing-to-lay-off-10-of-employees-as-strike-stalls-airplane-production-/7819631.html>
 
 ---
 
@@ -1645,45 +3109,4 @@ date: 2024-10-06, from: The Lever News
 <br> 
 
 <https://www.levernews.com/so-long-and-thanks-for-all-the-fish/>
-
----
-
-##  Swiping At Swiping Monopolies 
-
-date: 2024-10-05, from: The Lever News
-
- The Feds take on Big Credit Card and take aim at big, bad junk fees, regulators strike again at a fossil fuel company’s poisonous machinery, and voter suppression gets suppressed.  
-
-<br> 
-
-<https://www.levernews.com/swiping-at-swiping-monopolies/>
-
----
-
-## The political attacks on economic data
-
-date: 2024-10-05, from: Market Place, Make me Smart
-
-<p>The jobs report released today blew past economists&#8217; forecasts, estimating that employers added <a href="https://www.cnbc.com/2024/10/04/september-2024-us-jobs-report.html" target="_blank" rel="noreferrer noopener">about 250,000 jobs</a> to the U.S. economy in September. Republican Sen. Marco Rubio is falsely claiming the jobs report is &#8220;fake.&#8221; We&#8217;ll get into how big economic data is being politicized. And, what happens when October surprises aren&#8217;t so surprising anymore? Plus, we&#8217;ll weigh in on &#8220;white labeling&#8221; and flying taxis during a round of Half Full / Half Empty!</p>
-<p>Here&#8217;s everything we talked about today:</p>
-<ul>
-<li><a href="https://www.cnn.com/2024/10/03/politics/october-surprises-trump-harris-analysis/index.html" target="_blank" rel="noreferrer noopener">&#8220;October surprises are piling up, but a toss-up race seems impervious to shocks&#8221;</a> from CNN Politics</li>
-<li><a href="https://www.msnbc.com/opinion/msnbc-opinion/jack-smith-immunity-filing-comey-letter-rcna173831" target="_blank" rel="noreferrer noopener">&#8220;Jack Smith&#8217;s latest filing in the Trump election case is no &#8216;Comey letter'&#8221;</a> from MSNBC</li>
-<li><a href="https://www.oklahoman.com/story/news/2024/10/04/donald-trump-supported-bible-one-of-few-that-meets-ryan-walters-criteria-for-ok-classrooms/75510021007/" target="_blank" rel="noreferrer noopener">&#8220;&#8216;Trump Bible&#8217; one of few that meet Walters&#8217; criteria for Oklahoma classrooms&#8221;</a> from The Oklahoman</li>
-<li><a href="https://x.com/marcorubio/status/1842246712225603776">Tweet</a> from Sen. Marco Rubio about today&#8217;s jobs report</li>
-<li><a href="https://www.businessinsider.com/job-applications-send-dm-ceo-hiring-director-executives-advice-2024-10?utm_source=Iterable&amp;utm_medium=email&amp;utm_campaign=campaign_Insider%20Today,%20October%202,%202024" target="_blank" rel="noreferrer noopener">&#8220;Not hearing back on job applications? Some career consultants suggest a bold new tactic.&#8221;</a> from Business Insider</li>
-<li><a href="https://www.marketplace.org/2024/09/27/sidewalk-maintenance-denver-property-owner-tax-funding/" target="_blank" rel="noreferrer noopener">&#8220;Denver is funding sidewalk maintenance with a property owner tax&#8221;</a> from Marketplace</li>
-<li><a href="https://www.marketplace.org/2024/10/01/white-label-retailers-furniture-decor-home-online-shopping-e-commerce/" target="_blank" rel="noreferrer noopener">&#8220;Why do retailers white label certain products?&#8221;</a> from Marketplace</li>
-<li><a href="https://www.cnbc.com/2024/10/02/costco-adds-platinum-bars-to-its-precious-metals-lineup.html" target="_blank" rel="noreferrer noopener">&#8220;Costco adds platinum bars to its precious metals lineup&#8221;</a> from CNBC</li>
-<li><a href="https://www.theverge.com/2024/10/2/24260176/toyota-joby-aviation-air-taxi-vtol-investment-stock" target="_blank" rel="noreferrer noopener">&#8220;Toyota puts another $500 million in an air taxi startup&#8221;</a> from The Verge</li>
-</ul>
-<p>Don’t let us fall short. We need your help to reach our Fall Fundraiser goal today!: <a href="https://support.marketplace.org/smart-sn" target="_blank" rel="noreferrer noopener">https://support.marketplace.org/smart-sn</a></p>
- 
-
-<audio controls="controls">
-<source type="audio/mpeg" src="https://play.podtrac.com/APM-MakeMeSmart/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/04/mms_20241004_MMS_128.mp3"></source>
-	<a href="https://play.podtrac.com/APM-MakeMeSmart/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/04/mms_20241004_MMS_128.mp3" target="_blank">audio/mpeg</a>
-</audio><br> 
-
-<https://www.marketplace.org/shows/make-me-smart/the-political-attacks-on-economic-data>
 
