@@ -1,15 +1,20 @@
 ---
 <<<<<<< HEAD
 title: parks
+<<<<<<< HEAD
 updated: 2024-10-12 12:29:34
 =======
 title: parks 2024.16
 updated: 2024-04-15 17:45:32
 >>>>>>> db8684dc7a59d46927bb2d211d4e32e9950603e7
+=======
+updated: 2024-10-13 09:42:46
+>>>>>>> b358c0cb75a02acd938111e2a7cf9d9ca0a61b7b
 ---
 
 # parks
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 (date: 2024-10-12 12:29:34)
 =======
@@ -399,4 +404,7 @@ date: 2024-04-15, from: Bureau of Land Management, California
 
 <https://www.blm.gov/press-release/blm-invest-31-million-restore-wildlife-habitats-part-investing-america-agenda>
 >>>>>>> db8684dc7a59d46927bb2d211d4e32e9950603e7
+=======
+(date: 2024-10-13 09:42:46)
+>>>>>>> b358c0cb75a02acd938111e2a7cf9d9ca0a61b7b
 

@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2024-10-12 12:29:38
+updated: 2024-10-13 09:42:49
 ---
 
 # craft
 
-(date: 2024-10-12 12:29:38)
+(date: 2024-10-13 09:42:49)
+
+---
+
+## A Cheat Sheet for ‘Principles of Design’
+
+date: 2024-10-13, from: Lost Arg Press blog
+
+Our latest book, “Principles of Design” by William H. Varnum, offers a systematic method to design furniture, plus a series of rules that guide you in the process. Perhaps even more importantly, “Principles of Design” shows you how to interpret other people’s design. Or how to fix your own designs. Instead of saying something looks... 
+
+<br> 
+
+<https://blog.lostartpress.com/2024/10/13/a-cheat-sheet-for-principles-of-design/>
 
 ---
 

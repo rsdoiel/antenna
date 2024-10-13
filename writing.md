@@ -1,20 +1,83 @@
 ---
 <<<<<<< HEAD
 title: writing
+<<<<<<< HEAD
 updated: 2024-10-12 12:29:31
 =======
 title: writing 2024.16
 updated: 2024-04-15 17:45:32
 >>>>>>> db8684dc7a59d46927bb2d211d4e32e9950603e7
+=======
+updated: 2024-10-13 09:42:44
+>>>>>>> b358c0cb75a02acd938111e2a7cf9d9ca0a61b7b
 ---
 
 # writing
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 (date: 2024-10-12 12:29:31)
 =======
 (date: 2024-04-15 17:45:32)
 >>>>>>> db8684dc7a59d46927bb2d211d4e32e9950603e7
+=======
+(date: 2024-10-13 09:42:44)
+
+---
+
+## The Dark, Uncanny, Apex, and Weird Horror Fall: Short Fiction Reviews by Paula Guran
+
+date: 2024-10-13, from: Locus Magazine
+
+<p>The Dark 6/24
+Uncanny 7-8/24
+Apex #145
+Weird Horror Fall ’24</p>
+<p>The Dark #109 features two originals. “<strong>The Aban­doned</strong>” by <strong>Jack Klausner </strong>is a haunting story that begins with a little girl finding a box in the schoolyard. It takes us through tragic mystery and ends in resignation. The protagonist in <strong>Beth Goder</strong>’s interesting “<strong>Labyrinth</strong>” visits the infa­mous Winchester Mystery House in a story that  <a href="https://locusmag.com/2024/10/the-dark-uncanny-apex-and-weird-horror-fall-short-fiction-reviews-by-paula-guran/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/10/the-dark-uncanny-apex-and-weird-horror-fall-short-fiction-reviews-by-paula-guran/>
+
+---
+
+## Leonard Riggio (1941-2024)
+
+date: 2024-10-12, from: Locus Magazine
+
+<p>Longtime Barnes &#38; Noble head <strong>LEONARD RIGGIO</strong>, 83, died August 27, 2024 in Manhattan. He had Alzheimer’s.</p>
+<p>Leonard Stephen Riggio was born February 28, 1941 in New York, and attended Brooklyn Technical High School. After graduating in 1958, he took night classes at NYU for a while before dropping out. He founded a small book­shop, the Student Book Exchange, in 1965. In 1971, he purchased New York bookshop Barnes  <a href="https://locusmag.com/2024/10/leonard-riggio-1941-2024/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/10/leonard-riggio-1941-2024/>
+
+---
+
+## Your Shadow Half Remains by Sunny Moraine: Review by Gabino Iglesias
+
+date: 2024-10-12, from: Locus Magazine
+
+<p><strong>Your Shadow Half Remains, </strong>Sunny Moraine (Nightfire 978-1-25089-220-1, $16.99, 176pp, tp) February 2024.</p>
+<p>If you look at someone, you’re dead. Not just dead, but dead in some horrible, violent way. That’s the premise at the core of Sunny Moraine’s <strong>Your Shadow Half Remains</strong>. Yes, readers familiar with Josh Malerman’s <strong>Bird Box </strong>may see a similarity to that novel in that premise, but <strong>Your Shadow Half Remains </strong>is very different,  <a href="https://locusmag.com/2024/10/your-shadow-half-remains-by-sunny-moraine-review-by-gabino-iglesias/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/10/your-shadow-half-remains-by-sunny-moraine-review-by-gabino-iglesias/>
+
+---
+
+## Paul Di Filippo Reviews Alien Clay by Adrian Tchaikovsky
+
+date: 2024-10-12, from: Locus Magazine
+
+<p><strong>Alien Clay</strong>, Adrian Tchaikovsky (Orbit 978-0316578974, trade paperback, 432pp, $19.99) September 2024</p>
+<p>If Michael Bishop and Tom Disch had collaborated to script an episode of the <b>Aliens</b> franchise, and then the result had been filmed by Toho Studios, the result might have well come to resemble Adrian Tchaikovsky’s newest kick in the pants, <b>Alien Clay</b>. This is one of three great books Tchaikovsky has released in 2024; similar  <a href="https://locusmag.com/2024/10/paul-di-filippo-reviews-alien-clay-by-adrian-tchaikovsky/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/10/paul-di-filippo-reviews-alien-clay-by-adrian-tchaikovsky/>
+>>>>>>> b358c0cb75a02acd938111e2a7cf9d9ca0a61b7b
 
 ---
 
@@ -74,6 +137,18 @@ date: 2024-10-11, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2024/10/2024-skriva-short-story-competition-winners/>
+
+---
+
+## 10 Great Novels You Can Read in One Sitting
+
+date: 2024-10-11, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/10-great-novels-you-can-read-in-one-sitting>
 
 ---
 
@@ -142,6 +217,18 @@ The final outcome of the case: the plaintiff was ordered to cover $102,404 in fe
 <br> 
 
 <https://www.authorsalliance.org/2024/10/11/artist-left-with-heavy-fees-by-copyright-troll-law-firm/>
+
+---
+
+## How to Create Your Own Solo Writing Retreat
+
+date: 2024-10-11, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/how-to-create-your-own-solo-writing-retreat>
 
 ---
 
@@ -250,6 +337,18 @@ The tension in making a scene feel real, but not "too real."
 <br> 
 
 <https://inneresting.substack.com/p/long-takes-and-calculated-decluttering>
+
+---
+
+## How to Describe Characters in Fiction
+
+date: 2024-10-09, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/how-to-describe-characters-in-fiction>
 
 ---
 

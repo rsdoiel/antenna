@@ -1,20 +1,802 @@
 ---
 <<<<<<< HEAD
 title: pacific
+<<<<<<< HEAD
 updated: 2024-10-12 12:29:27
 =======
 title: pacific 2024.16
 updated: 2024-04-15 17:45:31
 >>>>>>> db8684dc7a59d46927bb2d211d4e32e9950603e7
+=======
+updated: 2024-10-13 09:42:40
+>>>>>>> b358c0cb75a02acd938111e2a7cf9d9ca0a61b7b
 ---
 
 # pacific
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 (date: 2024-10-12 12:29:27)
 =======
 (date: 2024-04-15 17:45:31)
 >>>>>>> db8684dc7a59d46927bb2d211d4e32e9950603e7
+=======
+(date: 2024-10-13 09:42:40)
+
+---
+
+## KHS wins fastpitch softball title
+
+date: 2024-10-13, updated: 2024-10-13, from: Marianas Variety
+
+KAGMAN High School claimed the first ever boys high school division championship of the NMISA-PSS Interscholastic Fastpitch Softball League SY23-24 on Saturday after taming Rota’s Bucks, 22-2, at the Capital Hill softball field. 
+
+<br> 
+
+<https://www.mvariety.com/sports/localsports/khs-wins-fastpitch-softball-title/article_440b86aa-8946-11ef-9328-cb22144887d4.html>
+
+---
+
+## Santos, Taflinger rule high school cross country
+
+date: 2024-10-13, updated: 2024-10-13, from: Marianas Variety
+
+NASH Santos and Addalee Taflinger finished first in their respective high school division championship races of the PSS All School Cross Country SY23-24 event at the Saipan Vegas Country Club on Saturday morning. 
+
+<br> 
+
+<https://www.mvariety.com/sports/localsports/santos-taflinger-rule-high-school-cross-country/article_f0da298c-8945-11ef-9c3d-3732ca39a2ae.html>
+
+---
+
+## Yoshinobu Yamamoto, Dodgers blank Padres, advance to NLCS
+
+date: 2024-10-13, updated: 2024-10-13, from: Marianas Variety
+
+LOS ANGELES (Reuters) — Known for a top of the order filled with MVP performers, the Los Angeles Dodgers threw a curveball and advanced to the National League Championship Series on the back of their pitching staff. 
+
+<br> 
+
+<https://www.mvariety.com/sports/nationalsports/yoshinobu-yamamoto-dodgers-blank-padres-advance-to-nlcs/article_de308938-8964-11ef-8a67-d7576bfb33cf.html>
+
+---
+
+## Guardians will face Yankees in American League Championship Series
+
+date: 2024-10-13, updated: 2024-10-13, from: Marianas Variety
+
+CLEVELAND (Reuters) —  Lane Thomas provided the signature swings of the American League Division Series to send the Guardians back to the AL Championship Series for the first time since 2016. 
+
+<br> 
+
+<https://www.mvariety.com/sports/nationalsports/guardians-will-face-yankees-in-american-league-championship-series/article_7d6361ac-8964-11ef-a27d-df9fbe8461b9.html>
+
+---
+
+## Race card
+
+date: 2024-10-13, updated: 2024-10-13, from: Marianas Variety
+
+WHEN I, as a Proud Chamorro, testified before the House and Senate committee about my plans and vision for the Cannabis Industry, repeated by Commissioner Iguel, a Proud Refaluwasch, it’s YOUR IDEAS, but when Mr. Bob Coldeen says the exact same thing, “it’s a home run." 
+
+<br> 
+
+<https://www.mvariety.com/views/letters_to_editor/race-card/article_167af9e8-8967-11ef-9de4-571e43e729af.html>
+
+---
+
+## ‘Paradise is still paradise’: Floridians vow to rebuild after two hurricanes
+
+date: 2024-10-13, updated: 2024-10-13, from: Marianas Variety
+
+SIESTA KEY, Florida (Reuters) — Chris Fiore was supposed to be accepting delivery of new household appliances and furniture, replacing items that were swamped by Hurricane Helene just a few weeks ago. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/paradise-is-still-paradise-floridians-vow-to-rebuild-after-two-hurricanes/article_9679b9b4-8966-11ef-b599-5398b88c05d6.html>
+
+---
+
+## OPINION ǀ Truth 64: OF, FOR & BY the People & CNMI Impotency! (Part II of III)
+
+date: 2024-10-13, updated: 2024-10-13, from: Marianas Variety
+
+THE TRUTH is we are seeing MORE Taxes, fewer flights with arrivals continuing to decline WE must ask, if WE ask “are WE better off now than before Covid, the answer will be a resounding NO, as NOTHING has changed FOR the better FOR the People nor FOR the CNMI. The impotence in our economy FOR the People is obvious with no real improvements and nothing even planned to improve our economy other than crying to the Feds &amp; taxes. This is WHY I’ve been screaming &amp; yelling for YEARS to get a real economist on the Hill working with our Executive &amp; Legislature but instead WE continue to suffer under what I see as picnic table discussions &amp; decisions on our economy. Just because one may be smart, it by-no-means qualifies them as an economist — so WHO is really our Economist!!! 
+
+<br> 
+
+<https://www.mvariety.com/views/columnists/opinion-truth-64-of-for-by-the-people-cnmi-impotency-part-ii-of-iii/article_57bba9ac-8967-11ef-876a-0ff3b8f0979d.html>
+
+---
+
+## BC’s Tales of the Pacific ǀ Kurosawa witnesses child abuse
+
+date: 2024-10-13, updated: 2024-10-13, from: Marianas Variety
+
+“WHY is there ever this perverse cruelty in humankind that makes us hurt most those we love best?” 
+
+<br> 
+
+<https://www.mvariety.com/views/columnists/bc-s-tales-of-the-pacific-kurosawa-witnesses-child-abuse/article_bfab85c8-8967-11ef-93f0-ab33d9af3a8c.html>
+
+---
+
+## Remengesau discusses ‘brain drain’ and cost of living at Palau independence event
+
+date: 2024-10-13, updated: 2024-10-13, from: Marianas Variety
+
+FORMER Palau President Tommy Remengesau Jr. was the special guest of the Palau Community Association on Saturday, Oct. 12, during its commemoration of Palau’s 30th Independence Day at the Civic Center. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/remengesau-discusses-brain-drain-and-cost-of-living-at-palau-independence-event/article_75033abe-893c-11ef-b53e-afc195f81697.html>
+
+---
+
+## Cannabis industry generates $1.466M
+
+date: 2024-10-13, updated: 2024-10-13, from: Marianas Variety
+
+THE cannabis industry has generated a total economic gain of $1.466 million, from which the government has collected over $217,000 in business gross revenue tax as of July this year, according to Commonwealth Cannabis Commission member Joe B. Palacios. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/cannabis-industry-generates-1-466m/article_758ee0a8-892a-11ef-96b5-db8fb7166499.html>
+
+---
+
+## The impact of US presidential elections on Guam
+
+date: 2024-10-13, from: Pacific Island Times
+
+The United States' presidential election is one of the most closely watched political events around the world, and for good reason. The... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/the-impact-of-us-presidential-elections-on-guam>
+
+---
+
+## Big plans for Hilo airport: Initial design work will begin soon for $162M runway project
+
+date: 2024-10-13, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Department of Transportation has received more than $7 million in state funds to prepare for an eventual project to rehabilitate the Hilo International Airport&#8217;s main runway in 2027.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/13/hawaii-news/big-plans-for-hilo-airport-initial-design-work-will-begin-soon-for-162m-runway-project/>
+
+---
+
+## Daring Trump, Harris’ campaign releases medical information
+
+date: 2024-10-13, from: Hawaii Tribune Harold
+
+
+				<p>Vice President Kamala Harris released a letter Saturday from her White House doctor, who said she is in &#8220;excellent health&#8221; and is successfully managing some minor health issues.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/13/nation-world-news/daring-trump-harris-campaign-releases-medical-information/>
+
+---
+
+## Maunakea authority to occupy former BoH building
+
+date: 2024-10-13, from: Hawaii Tribune Harold
+
+
+				<p>The new state agency that will take over management of Maunakea will have a new home in Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/13/hawaii-news/maunakea-authority-to-occupy-former-boh-building/>
+
+---
+
+## Attempted murder charges in standoff, device wasn’t a bomb
+
+date: 2024-10-13, from: Hawaii Tribune Harold
+
+
+				<p>A homemade device resembling a pipe bomb at a Volcano house where a 58-year-old alleged squatter held off police for about 24 hours last week wasn&#8217;t what it appeared to be, police said Friday morning.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/13/hawaii-news/attempted-murder-charges-in-standoff-device-wasnt-a-bomb/>
+
+---
+
+## Deadly year for Hawaii pedestrians as the number of fatalities has gone up
+
+date: 2024-10-13, from: Hawaii Tribune Harold
+
+
+				<p>The year 2024 has been a deadly one, so far, for pedestrians on Hawaii&#8217;s streets.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/13/hawaii-news/deadly-year-for-hawaii-pedestrians-as-the-number-of-fatalities-has-gone-up/>
+
+---
+
+## Israeli strikes on northern Gaza kill at least 20, aid workers say
+
+date: 2024-10-13, from: Hawaii Tribune Harold
+
+
+				<p>TEL AVIV, Israel &#8212; The humanitarian crisis in the northern Gaza Strip deepened Saturday as an Israeli bombardment killed at least 20 people, trapped thousands more and prompted one of the area&#8217;s last functioning hospitals to issue desperate pleas for assistance.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/13/nation-world-news/israeli-strikes-on-northern-gaza-kill-at-least-20-aid-workers-say/>
+
+---
+
+## Black voters drift from Democrats, imperiling Harris’ bid, poll shows
+
+date: 2024-10-13, from: Hawaii Tribune Harold
+
+
+				<p>Vice President Kamala Harris has improved her party&#8217;s standing among Black voters since President Joe Biden left the presidential race, but she still significantly trails Biden&#8217;s 2020 share of that vital Democratic constituency, according to a New York Times/Siena College poll of Black likely voters.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/13/nation-world-news/black-voters-drift-from-democrats-imperiling-harris-bid-poll-shows/>
+
+---
+
+## Police: Armed fugitive still being sought
+
+date: 2024-10-13, from: Hawaii Tribune Harold
+
+
+				<p>A 40-year-old fugitive who was the subject of a multiagency manhunt in upper Puna on Wednesday in a Glenwood subdivision has 40 criminal convictions dating back to 2004, according to court records.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/13/hawaii-news/police-armed-fugitive-still-being-sought/>
+
+---
+
+## BLNR approves land transfer of more than 7,000 acres
+
+date: 2024-10-13, from: Hawaii Tribune Harold
+
+
+				<p>More than 7,000 acres of pastureland on the Big Island has been transferred from the state Department of Land and Natural Resources to the Department of Agriculture.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/13/hawaii-news/blnr-approves-land-transfer-of-more-than-7000-acres/>
+
+---
+
+## Obituaries for October 13
+
+date: 2024-10-13, from: Hawaii Tribune Harold
+
+
+				<p>Martin Day Charlot, 79, of Pahoa died Oct. 2 at Hilo Benioff Medical Center. He was a renowned artist, muralist and filmmaker. Known for murals including the Disney Aulani, &#8220;Stars in Paradise&#8221; at the former Consolidated Theater and &#8220;Hawaiian Folkways&#8221; at McDonald&#8217;s and children&#8217;s books including &#8220;Sunnyside Up,&#8221; &#8220;Felicia&#8221; and &#8220;Once Upon a Fishhook.&#8221; Celebrations of life Saturday (Oct. 19) at his Pahoa home and Saturday, Oct. 26, at the family&#8217;s Kahala, Oahu, home. RSVP to Kawena@KawenaCharlot.com. No flowers. Memorial donations to the gofundme.com page titled &#8220;Help Martin Charlot &#38;His Children through this tragic time.&#8221; Survived by children, Kawena, Kekoa, Kumalu and Kipano Charlot. Arrangements by Dodo Mortuary.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/13/obituaries/obituaries-for-october-13-12/>
+
+---
+
+## One of the world’s loneliest countries finds companionship in dogs
+
+date: 2024-10-13, from: Hawaii Tribune Harold
+
+
+				<p>SEOUL, South Korea &#8212; The deceased lay wrapped in a cotton blanket, surrounded by white roses and hydrangea, angelic figurines and lit candles and incense. A wall-mounted screen displayed photographs of him. His 71-year-old companion, Kim Seon-ae, convulsed with tears as she bid farewell, caressing his head and face. Next door, young uniformed morticians prepared for his cremation.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/13/nation-world-news/one-of-the-worlds-loneliest-countries-finds-companionship-in-dogs/>
+
+---
+
+## Trump returns to California for a rally in the Coachella Valley
+
+date: 2024-10-13, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; With just 23 days left until election day and voters already casting ballots, former President Donald Trump rallied supporters in the California desert while railing against the state&#8217;s Democratic leadership, notably his presidential rival, Vice President Kamala Harris.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/13/nation-world-news/trump-returns-to-california-for-a-rally-in-the-coachella-valley/>
+
+---
+
+## California rejects bid for more frequent SpaceX launches
+
+date: 2024-10-13, from: Hawaii Tribune Harold
+
+
+				<p>A California state commission has rejected the U.S. Space Force&#8217;s bid to increase the number of SpaceX rocket launches on the state&#8217;s central coast, citing concerns about the environmental impacts of the launches.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/13/nation-world-news/california-rejects-bid-for-more-frequent-spacex-launches/>
+
+---
+
+## ‘Paradise is still paradise’: Floridians vow to rebuild after two hurricanes
+
+date: 2024-10-13, from: Hawaii Tribune Harold
+
+
+				<p>SIESTA KEY, Fla. &#8212; Chris Fiore was supposed to be accepting delivery of new household appliances and furniture, replacing items that were swamped by Hurricane Helene just a few weeks ago.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/13/nation-world-news/paradise-is-still-paradise-floridians-vow-to-rebuild-after-two-hurricanes/>
+
+---
+
+## Missouri’s high school athletes can make money. It’s paying off for Mizzou.
+
+date: 2024-10-13, from: Hawaii Tribune Harold
+
+
+				<p>COLUMBIA, Mo. &#8212; In his four-year career as Missouri&#8217;s starting quarterback, Brady Cook has thrown for 7,603 yards and 43 touchdowns. He led the Tigers to a victory in last year&#8217;s Cotton Bowl. And even after an upset loss to Texas A&#038;M last weekend, his team is in a position to compete for a spot in the College Football Playoff.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/13/sports/missouris-high-school-athletes-can-make-money-its-paying-off-for-mizzou/>
+
+---
+
+## Penny dreadful? America slowly makes its move to a cashless economy
+
+date: 2024-10-13, from: Hawaii Tribune Harold
+
+
+				<p>It used to be common to see Let&#8217;s Make a Deal contestants leave the TV game show smiling after winning $100 for every coin they could pull out of their purse or pocket. But as America moves ever closer to becoming a cashless society, it&#8217;s just as likely to see contestants who couldn&#8217;t scrape up a dime. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/13/opinion/penny-dreadful-america-slowly-makes-its-move-to-a-cashless-economy/>
+
+---
+
+## Progressive politicians lose the plot on fighting terror
+
+date: 2024-10-13, from: Hawaii Tribune Harold
+
+
+				<p>It&#8217;s no coincidence that anti-Israel student groups at Massachusetts colleges and across the country called for a &#8220;Week of Rage&#8221; starting on the one-year anniversary of the Oct. 7 massacre by Hamas as progressive lawmakers demanded a cease-fire. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/13/opinion/progressive-politicians-lose-the-plot-on-fighting-terror/>
+
+---
+
+## Your Views for October 13
+
+date: 2024-10-13, from: Hawaii Tribune Harold
+
+
+				<p>Regarding issues at&#0010;E.B. deSilva school</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/13/opinion/your-views-for-october-13-8/>
+
+---
+
+## Volcano Watch: The 2024 Great Hawaii ShakeOut
+
+date: 2024-10-13, from: Hawaii Tribune Harold
+
+
+				<p>In Hawaii, earthquakes are a common occurrence, and we should always practice earthquake preparedness. Millions of people around the world practice &#8220;DROP, COVER, and HOLD ON&#8221; annually on the third Thursday of October. That includes us in Hawaii!</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/13/community/volcano-watch-the-2024-great-hawaii-shakeout/>
+
+---
+
+## Burgundy: Bulging barrels, barging and beyond
+
+date: 2024-10-13, from: Hawaii Tribune Harold
+
+
+				<p>One of my favorite corners of France is bucolic Burgundy, a region overflowing with imbibable and scenic delights. Crisscrossed with lazy canals and dotted with quiet farming villages, it&#8217;s easy to like &#8212; and its sunny hillsides produce the superior wines and fine cuisine that say &#8220;French.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/13/features/burgundy-bulging-barrels-barging-and-beyond/>
+
+---
+
+## Local boxing: Two-day Toughman season finale next weekend
+
+date: 2024-10-13, from: Hawaii Tribune Harold
+
+
+				<p>HILO &#8212; Two nights of non-stop action begins Friday with the Next Generation Toughman Hawaii Season Finale at Hilo Civic Auditorium. Doors open at 5 p.m. with the show beginning at 6 p.m. and 2 p.m./3 p.m. on Saturday. Fighters from around the globe have made their way to Hilo to compete in what is becoming one of the largest junior international division martial arts competitions in the world.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/13/sports/local-boxing-two-day-toughman-season-finale-next-weekend/>
+
+---
+
+## BIIF football: Aipia ending BIIF career on a high note
+
+date: 2024-10-13, from: Hawaii Tribune Harold
+
+
+				<p>WAIMEA &#8212; Every team wants a player who leads by example &#8212; someone who puts their head down and gets to work, no matter the circumstances. Someone who inspires his teammates to work just as hard as them.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/13/sports/biif-football-aipia-ending-biif-career-on-a-high-note/>
+
+---
+
+## Guardians tag Tigers ace in Game 5, will face Yanks in ALCS
+
+date: 2024-10-13, from: Hawaii Tribune Harold
+
+
+				<p>Lane Thomas provided the signature swings of the American League Division Series to send the Guardians back to the AL Championship Series for the first time since 2016.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/13/sports/guardians-tag-tigers-ace-in-game-5-will-face-yanks-in-alcs/>
+
+---
+
+## USC’s playoff hopes suffer heartbreaking blow in overtime loss to No. 4 Penn State
+
+date: 2024-10-13, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; The chances had been there all afternoon for USC as it tried to put No. 4 Penn State away. But once again Lincoln Riley&#8217;s Trojans tiptoed along the brink, playing fast and loose with their College Football Playoff hopes hanging in the balance, driving late in search of one last opportunity after a painstaking succession of missed ones.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/13/sports/uscs-playoff-hopes-suffer-heartbreaking-blow-in-overtime-loss-to-no-4-penn-state/>
+
+---
+
+## Late FG sends No. 3 Oregon past No. 2 Ohio State
+
+date: 2024-10-13, from: Hawaii Tribune Harold
+
+
+				<p>A 19-yard field goal by Atticus Sappington with 1:47 to play gave No. 3 Oregon a 32-31 win over No. 2 Ohio State in Eugene, Ore., on Saturday night.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/13/sports/late-fg-sends-no-3-oregon-past-no-2-ohio-state/>
+
+---
+
+## BIIF sports: Warriors rout Daggers
+
+date: 2024-10-12, from: Hawaii Tribune Harold
+
+
+				<p>KEA&#8216;AU &#8212; Business was booming for Kamehameha Schools-Hawai&#8216;i football on Thursday night against Pahoa. The Warriors routed the Daggers 59-0 in Kea&#8216;au. It was the second time KSH shut out Pahoa.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/12/sports/biif-sports-warriors-rout-daggers/>
+
+---
+
+## Yoshinobu Yamamoto, Dodgers blank Padres, advance to NLCS
+
+date: 2024-10-12, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; Known for a top of the order filled with MVP performers, the Los Angeles Dodgers threw a curveball and advanced to the National League Championship Series on the back of their pitching staff.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/12/sports/yoshinobu-yamamoto-dodgers-blank-padres-advance-to-nlcs/>
+
+---
+
+## Hawaii QB Schager takes the hits and keeps on playing
+
+date: 2024-10-12, from: Hawaii Tribune Harold
+
+
+				<p>Ironman has shown his mettle.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/12/sports/hawaii-qb-schager-takes-the-hits-and-keeps-on-playing/>
+
+---
+
+## How Roger Goodell became the NFL’s $20 billion man
+
+date: 2024-10-12, from: Hawaii Tribune Harold
+
+
+				<p>As they met in the lobby of the Omni Viking Lakes Hotel in Minnesota in late August, Jerry Jones, the owner of the Dallas Cowboys, and Robert Kraft, the owner of the New England Patriots, greeted each other warmly, sharing fist bumps as a small entourage that included their oldest sons surrounded them. The two men, who have nine Super Bowl wins between them (six for Kraft, 83, and three for Jones, who turns 82 on Sunday), were upbeat and refreshed after their summer vacations in the South of France and the Hamptons.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/12/sports/how-roger-goodell-became-the-nfls-20-billion-man/>
+
+---
+
+## Jupiter’s Great Red Spot moves Like the solar system’s biggest kickball
+
+date: 2024-10-12, from: Hawaii Tribune Harold
+
+
+				<p>The Great Red Spot of Jupiter is one of the solar system&#8217;s most astonishing marvels. An elliptical storm with inky swirls of burnt orange and dulled copper, it is longer than the Earth is wide, and its winds screech through the tops of the planet&#8217;s clouds at 400 mph.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/12/nation-world-news/jupiters-great-red-spot-moves-like-the-solar-systems-biggest-kickball/>
+
+---
+
+## Nevada asked AI which students need help. The answer caused an outcry.
+
+date: 2024-10-12, from: Hawaii Tribune Harold
+
+
+				<p>Nevada has long had the most lopsided school funding in the country. Low-income districts there have nearly 35% less money to spend per pupil than wealthier ones do &#8212; the largest gap of any state.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/12/nation-world-news/nevada-asked-ai-which-students-need-help-the-answer-caused-an-outcry/>
+
+---
+
+## For atomic bomb survivors, a Nobel Peace Prize and a reckoning, 80 years later
+
+date: 2024-10-12, from: Hawaii Tribune Harold
+
+
+				<p>Cities blasted to rubble. Burned bodies and flayed flesh. Invisible waves of radiation coursing through the air. And the indelible image of a mushroom cloud.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/12/nation-world-news/for-atomic-bomb-survivors-a-nobel-peace-prize-and-a-reckoning-80-years-later/>
+
+---
+
+## Trump ratchets up rhetoric, calls for death penalty for migrants who kill Americans
+
+date: 2024-10-12, from: Hawaii Tribune Harold
+
+
+				<p>AURORA, Colo. &#8212; Donald Trump portrayed migrants as dangerous criminals during a rally in Aurora, Colorado, on Friday, calling for the death penalty for migrants who kill U.S. citizens as he escalates the anti-immigration rhetoric that has fueled his presidential run.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/12/nation-world-news/trump-ratchets-up-rhetoric-calls-for-death-penalty-for-migrants-who-kill-americans/>
+
+---
+
+## Elon Musk shows off Tesla ‘robotaxi’ that drives itself
+
+date: 2024-10-12, from: Hawaii Tribune Harold
+
+
+				<p>After years of promises, Tesla on Thursday unveiled a car that Elon Musk, the company&#8217;s CEO said will be able to drive itself without human supervision. Musk has said the vehicle will add trillions of dollars to the company&#8217;s stock market value and fuel its growth.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/12/nation-world-news/elon-musk-shows-off-tesla-robotaxi-that-drives-itself/>
+
+---
+
+## As Floridians return, officials size up Milton’s uneven trail of destruction
+
+date: 2024-10-12, from: Hawaii Tribune Harold
+
+
+				<p>Florida residents on Friday returned to neighborhoods stricken by power outages and filled with piles of soggy, stinking debris as tens of thousands of emergency workers began repairing the destruction caused by Hurricane Milton.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/12/nation-world-news/as-floridians-return-officials-size-up-miltons-uneven-trail-of-destruction/>
+
+---
+
+## Lebanon’s leader calls on UN for cease-fire amid search for airstrike survivors
+
+date: 2024-10-12, from: Hawaii Tribune Harold
+
+
+				<p>BEIRUT &#8212; Rescuers dug through piles of rubble in central Beirut on Friday, looking for survivors and bodies, a day after deadly airstrikes in two densely populated neighborhoods of the Lebanese capital spread fear that no place in the country was safe from the Israeli military onslaught against Hezbollah.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/12/nation-world-news/lebanons-leader-calls-on-un-for-cease-fire-amid-search-for-airstrike-survivors/>
+
+---
+
+## In Michigan, Walz assails Trump’s record on manufacturing
+
+date: 2024-10-12, from: Hawaii Tribune Harold
+
+
+				<p>WARREN, Mich. &#8212; Gov. Tim Walz of Minnesota took the stage in a Detroit suburb on Friday to offer a sharp rebuttal to former President Donald Trump, who had positioned himself as a savior of the auto industry at an appearance in Detroit a day earlier.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/12/nation-world-news/in-michigan-walz-assails-trumps-record-on-manufacturing/>
+
+---
+
+## Democrats roll out ad attacking Jill Stein, the Green Party candidate for president
+
+date: 2024-10-12, from: Hawaii Tribune Harold
+
+
+				<p>The Democratic National Committee on Friday released its first advertisement this election season targeting a third-party presidential candidate, Jill Stein of the Green Party. With Election Day just weeks away, Democrats are increasingly concerned that Stein&#8217;s candidacy could siphon votes away from Vice President Kamala Harris, whose race against former President Donald Trump is tight. The ad will run on television in three battleground states &#8212; Michigan, Pennsylvania and Wisconsin &#8212; and on cable nationally, according to a news release.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/12/nation-world-news/democrats-roll-out-ad-attacking-jill-stein-the-green-party-candidate-for-president/>
+
+---
+
+## Trump aides sought enhanced security for closing stages of campaign
+
+date: 2024-10-12, from: Hawaii Tribune Harold
+
+
+				<p>Former President Donald Trump&#8217;s campaign has requested a series of additional security measures, including military assets, in conversations with the White House and the Secret Service because of continuing threats to his safety, according to four people briefed on the matter.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/12/nation-world-news/trump-aides-sought-enhanced-security-for-closing-stages-of-campaign/>
+
+---
+
+## Week 6 Sunday NFL Capsules
+
+date: 2024-10-12, from: Hawaii Tribune Harold
+
+
+				<p><strong>Jacksonville Jaguars (1-4) at Chicago Bears (3-2) in London, 3:30 a.m. HST</strong></p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/12/sports/week-6-sunday-nfl-capsules/>
+
+---
+
+## Boeing will cut 17,000 jobs in bid to slash costs
+
+date: 2024-10-12, from: Hawaii Tribune Harold
+
+
+				<p>Boeing&#8217;s new chief executive on Friday announced plans to reduce its workforce by 10%, or about 17,000 jobs, as he seeks to restructure the company in an effort to slash costs and improve production of planes, which has been plagued by numerous delays.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/12/nation-world-news/boeing-will-cut-17000-jobs-in-bid-to-slash-costs/>
+
+---
+
+## Price controls are a bipartisan delusion
+
+date: 2024-10-12, from: Hawaii Tribune Harold
+
+
+				<p>Now that inflation seems to be largely tamed, another threat has sprung up in its wake: the misguided notion that politicians can and should deal with high prices by capping or controlling them.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/12/opinion/price-controls-are-a-bipartisan-delusion/>
+
+---
+
+## Vance plays Saruman to Trump’s Sauron
+
+date: 2024-10-12, from: Hawaii Tribune Harold
+
+
+				<p>&#8220;I&#8217;m a big Lord of the Rings guy,&#8221; JD Vance once told a podcaster. The running mate of former and perhaps future president Donald Trump went on to explain that &#8220;a lot of my conservative worldview was influenced by Tolkien.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/12/opinion/vance-plays-saruman-to-trumps-sauron/>
+
+---
+
+## She didn’t see other Black hikers. She decided to change that.
+
+date: 2024-10-12, from: Hawaii Tribune Harold
+
+
+				<p>INGLETON, England &#8212; The women made their way up the narrow stone steps in a winding line, the rolling green fields of the English countryside stretching out across the valley below. The steep climb, which had begun in the early morning, brought them high above an elevated rail line, its imposing Victorian arches rising in the distance.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/12/features/she-didnt-see-other-black-hikers-she-decided-to-change-that/>
+
+---
+
+## PBS Hawaiʻi documentary features social activist UH’s McElrath
+
+date: 2024-10-12, from: University of Hawaiʻi News
+
+<p>Former <abbr>UH</abbr> Mānoa professor and labor leader Ah Quon McElrath is the focus of a new documentary that will air on <abbr>PBS</abbr> <span aria-label="Hawaii">Hawai&#699;i</span> on October 17, 2024.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/11/pbs-hawaii-documentary-ah-quon-mcelrath/"><abbr>PBS</abbr> Hawaiʻi documentary features social activist <abbr>UH</abbr>’s McElrath</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/11/pbs-hawaii-documentary-ah-quon-mcelrath/>
+
+---
+
+## In memoriam: Sedimentologist, pioneer on submarine groundwater Craig Glenn
+
+date: 2024-10-12, from: University of Hawaiʻi News
+
+<p>Craig Richard Glenn was known worldwide for his pioneering research on submarine groundwater discharge in <span aria-label="Hawaii.">Hawai&#699;i.</span></p>
+The post <a href="https://www.hawaii.edu/news/2024/10/11/in-memoriam-craig-glenn/">In memoriam: Sedimentologist, pioneer on submarine groundwater Craig Glenn</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/11/in-memoriam-craig-glenn/>
+>>>>>>> b358c0cb75a02acd938111e2a7cf9d9ca0a61b7b
 
 ---
 

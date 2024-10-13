@@ -1,11 +1,95 @@
 ---
 title: games
-updated: 2024-10-12 12:29:31
+updated: 2024-10-13 09:42:44
 ---
 
 # games
 
-(date: 2024-10-12 12:29:31)
+(date: 2024-10-13 09:42:44)
+
+---
+
+## The movies that inspired the Silent Hill series and where to watch them
+
+date: 2024-10-13, updated: 2024-10-11, from: Polygon Website
+
+Earlier this week, Silent Hill 2 finally emerged from the fog of its development. A remake of the original 2001 game of the same name by Polish developer Bloober Team (Layers of Fear, The Medium), Silent Hill 2 is easily the most anticipated and ambitious horror game of 2024, a modern take on one of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/462234/silent-hill-2-movie-inspirations-where-to-watch>
+
+---
+
+## The Halloween Countdown: 31 days of horror to watch
+
+date: 2024-10-13, updated: 2024-10-13, from: Polygon Website
+
+Do you feel that? That chill in the air, that tingling sensation at the back of your neck? It can only mean one thing. That’s right: Halloween season is once again upon us! Here at Polygon, we love horror. We cover it all year round, whether it’s ranking the scariest new releases of the year [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream>
+
+---
+
+## We need to talk about the ‘humans’ in Metaphor: ReFantazio
+
+date: 2024-10-13, updated: 2024-10-11, from: Polygon Website
+
+Metaphor: ReFantazio is not a horror game — it’s a fantasy RPG with a story that keeps getting better as it goes along and a combat system that’s complex and satisfying. But whenever I run into the “humans,” monsters whose visual design look nothing like any human I’ve ever seen in my life, I feel [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/465420/metaphor-refantazio-humans-hieronymus-bosch>
+
+---
+
+## The host of Dropout’s new cooking show wants you to ‘have more fun’ with your food
+
+date: 2024-10-13, updated: 2024-10-11, from: Polygon Website
+
+The comedy streaming service Dropout is breaking ground in a highly competitive genre of television: the cooking competition show. Its new series, Gastronauts, brings Dropout’s comedic talent and penchant for zany antics to the well-worn genre with something just a little less cutthroat than you’ll see on other cooking shows. Hosted by comedian, writer, and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/463604/dropout-cooking-show-gastronauts-host-jordan-myrick-interview>
+
+---
+
+## Where Lara Croft is headed in Tomb Raider season 2
+
+date: 2024-10-12, updated: 2024-10-11, from: Polygon Website
+
+Tomb Raider fans, bless them, spend a lot of time wondering how the series all syncs up. If the Lara Croft we saw in the original ’90s games is the same one as the rougher-around-the-edges Lara from the Survivor trilogy, then what happened in between to have it all make sense?  Luckily, answers appear on [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/animation-cartoons/465245/tomb-raider-season-2-lara-croft-sam-season-1-ending>
+
+---
+
+## The best thrillers to watch on Netflix this October
+
+date: 2024-10-12, updated: 2024-10-11, from: Polygon Website
+
+Netflix is ushering in the fall season with a slate of great additions this October, including quite a few thrillers. Along with the highly anticipated sequel to Netflix’s gnarly thriller The Platform, the streamer also added quite a few older thrillers, including a few greats from the 2000s and a few that go even further [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/462683/best-thriller-movies-netflix-watch-october-2024>
+
+---
+
+## The best thing about Zelda: Echoes of Wisdom? The music
+
+date: 2024-10-12, updated: 2024-10-11, from: Polygon Website
+
+There’s been a slight sense of anticlimax after the release of The Legend of Zelda: Echoes of Wisdom. It’s a very good game, of course, but perhaps a few steps shy of the greatness we expect of the series. Its new, indirect gameplay style, with Zelda conjuring echoes of objects and monsters to solve puzzles [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/465087/zelda-echoes-of-wisdom-music-rules>
 
 ---
 

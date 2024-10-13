@@ -35,7 +35,7 @@ html_files = $(addsuffix .html,$(section_names))
 
 build: harvest markdown html archives index.html about.html search.html README.html CITATION.cff pagefind dump
 
-world: snapshots build
+world: build snapshots
 
 california: harvest markdown html archives index.html about.html search.html README.html CITATION.cff pagefind dump
 
@@ -237,6 +237,7 @@ refresh:
 	git pull origin $(BRANCH)
 
 publish: .FORCE
+<<<<<<< HEAD
 	@if [ "$(msg)" != "" ]; then git commit -am "$(msg)"; else git commit -am "Publish Site"; fi
 	git push origin main
 	git checkout gh-pages
@@ -244,5 +245,8 @@ publish: .FORCE
 	git commit -am "merge main into gh-pages"
 	git push origin gh-pages
 	git checkout main
+=======
+	./publish.bash
+>>>>>>> b358c0cb75a02acd938111e2a7cf9d9ca0a61b7b
 
 .FORCE:

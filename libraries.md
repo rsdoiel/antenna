@@ -1,20 +1,40 @@
 ---
 <<<<<<< HEAD
 title: libraries
+<<<<<<< HEAD
 updated: 2024-10-12 12:29:33
 =======
 title: libraries 2024.16
 updated: 2024-04-15 17:45:32
 >>>>>>> db8684dc7a59d46927bb2d211d4e32e9950603e7
+=======
+updated: 2024-10-13 09:42:45
+>>>>>>> b358c0cb75a02acd938111e2a7cf9d9ca0a61b7b
 ---
 
 # libraries
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 (date: 2024-10-12 12:29:33)
 =======
 (date: 2024-04-15 17:45:32)
 >>>>>>> db8684dc7a59d46927bb2d211d4e32e9950603e7
+=======
+(date: 2024-10-13 09:42:45)
+
+---
+
+## Fast and accurate method to simulate the LISA response to Galactic binaries
+
+date: 2024-10-15, from: ETH Zurich, recently added
+
+Riegger F.; Robertsson J.; Andersson F. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/699216>
+>>>>>>> b358c0cb75a02acd938111e2a7cf9d9ca0a61b7b
 
 ---
 

@@ -1,11 +1,107 @@
 ---
 title: science and technology
-updated: 2024-10-12 12:29:28
+updated: 2024-10-13 09:42:41
 ---
 
 # science and technology
 
-(date: 2024-10-12 12:29:28)
+(date: 2024-10-13 09:42:41)
+
+---
+
+## Schools bombarded by nation-state attacks, ransomware gangs, and everyone in between
+
+date: 2024-10-13, updated: 2024-10-13, from: The Register (UK I.T. News)
+
+<h4>Reading, writing, and cyber mayhem, amirite?</h4> <p>If we were to draw an infosec Venn diagram, with one circle representing &#34;sensitive info that attackers would want to steal&#34; and the other &#34;limited resources plus difficult-to-secure IT environments,&#34; education would sit in the overlap. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/13/schools_nationstate_attacks_ransomware/>
+
+---
+
+## A Serendipitous NASA Family Reunion
+
+date: 2024-10-13, from: NASA breaking news
+
+Growing up in Puerto Rico, Yomayra Cruz-Diaz didn’t imagine that one day she would work at NASA. Today, she serves as technical project coordinator at NASA’s Langley Research Center in Virginia, supporting its Aeronautics Research Directorate.&#160; Cruz-Diaz&#8217;s position requires her to travel in support of public engagement events and recently she supported NASA’s presence at [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/aeronautics/a-serendipitous-nasa-family-reunion/>
+
+---
+
+## Una reunión familiar de la NASA por casualidad
+
+date: 2024-10-13, from: NASA breaking news
+
+Al crecer en Puerto Rico, Yomayra Cruz-Díaz no imaginó que algún día trabajaría en la NASA. En la actualidad, se desempeña como coordinadora de proyectos técnicos en el Centro de Investigación Langley de la NASA en Virginia, apoyando a su Dirección de Investigación Aeronáutica. El puesto de Cruz-Díaz le requiere viajar para apoyar eventos de [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/langley/una-reunion-familiar-de-la-nasa/>
+
+---
+
+## Can Life Exist on an Icy Moon? NASA’s Europa Clipper Aims to Find Out
+
+date: 2024-10-13, from: NASA breaking news
+
+With a spacecraft launching soon, the mission will try to answer the question of whether there are ingredients suitable for life in the ocean below Europa’s icy crust. Deep down, in an ocean beneath its ice shell, Jupiter’s moon Europa might be temperate and nutrient-rich, an ideal environment for some form of life — what [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/>
+
+---
+
+## NASA Activates Resources to Help Assess Impacts from Hurricane Milton
+
+date: 2024-10-12, from: NASA breaking news
+
+In the wake of Hurricane Milton, NASA is deploying resources to support Federal Emergency Management Agency (FEMA) and state emergency management agencies to aid their response effort including satellite and aerial data collection. The agency’s Disasters Response Coordination System and Airborne Science Program are began conducting flights Friday to provide emergency responders with better insight [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/nasa-activates-resources-to-help-assess-impacts-from-hurricane-milton/>
+
+---
+
+## Top-secret X-37B space plane ready for daring new orbital maneuver
+
+date: 2024-10-12, updated: 2024-10-12, from: The Register (UK I.T. News)
+
+<h4>The Space Force craft will attempt aerobraking for the first time</h4> <p>After nearly a year in orbit, the US Space Force&#39;s secretive X-37B is prepped to perform some fancy new maneuvers to alter its orbit and dump its service module before carrying on with more mysterious work.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/12/x37b_space_plane/>
+
+---
+
+## Anthropic's Claude vulnerable to 'emotional manipulation'
+
+date: 2024-10-12, updated: 2024-10-12, from: The Register (UK I.T. News)
+
+<h4>AI model safety only goes so far</h4> <p>Anthropic&#39;s Claude 3.5 Sonnet, despite its reputation as one of the better behaved generative AI models, can still be convinced to emit racist hate speech and malware.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/12/anthropics_claude_vulnerable_to_emotional/>
+
+---
+
+## US and UK govts warn: Russia scanning for your unpatched vulnerabilities
+
+date: 2024-10-12, updated: 2024-10-12, from: The Register (UK I.T. News)
+
+<h4>Also, phishing&#39;s easier over the phone, and your F5 cookies might be unencrypted, and more</h4> <p><strong>in brief</strong>  If you need an excuse to improve your patching habits, a joint advisory from the US and UK governments about a massive, ongoing Russian campaign exploiting known vulnerabilities should do the trick.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/12/russia_is_targeting_you_for/>
 
 ---
 
@@ -1086,16 +1182,4 @@ To better understand machine learning algorithms, Lenka Zdeborová treats them l
 <br> 
 
 <https://www.quantamagazine.org/the-computer-scientist-who-builds-big-pictures-from-small-details-20241007/>
-
----
-
-## 2024/10/05 DART and Coordinated Robotics Take Top Spots in the DARPA Triage Challenge Event 1
-
-date: 2024-10-05, from: Darpa News
-
-<div style="float:left"><img title="dtc" alt="dtc" src="https://www.darpa.mil/DDM_Gallery/DTCPicture1_619x316_thumb.jpg" border="0"/></div>The ability to accurately and rapidly identify key physiological signatures of injury - such as hemorrhage and airway injuries - proved key to success in the DARPA Triage Challenge Event 1.  DART took the top spot in the Systems competition, while Coordinated Robotics topped the leaderboard in the Virtual competition and pulled off the win in the Data competition. DARPA-funded and self-funded teams compete side-by-side throughout the <a href="https://triagechallenge.darpa.mil/" target="_blank" class="external">DARPA Triage Challenge</a>. Only self-funded teams are eligible for prizes in the challenge events, but they must finish in the top five overall for the Systems competition and top five overall for the Virtual competition. All qualified teams are eligible for prizes in the Final Event. These self-funded teams won between $60,000 - $120,000 each for their first-place finishes. 
-
-<br> 
-
-<https://www.darpa.mil/news-events/2024-10-05>
 

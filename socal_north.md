@@ -1,20 +1,78 @@
 ---
 <<<<<<< HEAD
 title: socal north
+<<<<<<< HEAD
 updated: 2024-10-12 12:29:27
 =======
 title: socal north 2024.16
 updated: 2024-04-15 17:45:30
 >>>>>>> db8684dc7a59d46927bb2d211d4e32e9950603e7
+=======
+updated: 2024-10-13 09:42:40
+>>>>>>> b358c0cb75a02acd938111e2a7cf9d9ca0a61b7b
 ---
 
 # socal north
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 (date: 2024-10-12 12:29:27)
 =======
 (date: 2024-04-15 17:45:30)
 >>>>>>> db8684dc7a59d46927bb2d211d4e32e9950603e7
+=======
+(date: 2024-10-13 09:42:40)
+
+---
+
+## 6 facts about false noncitizen voting claims and the election
+
+date: 2024-10-13, updated: 2024-10-13, from: The LAist
+
+All the available evidence suggests that a miniscule number of noncitizens vote illegally in federal elections and not in numbers that would sway the outcome of any race. 
+
+<br> 
+
+<https://laist.com/news/politics/6-facts-about-false-noncitizen-voting-claims-and-the-election>
+
+---
+
+## Get Involved with Your City!
+
+date: 2024-10-12, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin As Santa Clarita moves farther into 2024, a year that holds significant promise and change, community engagement has never been more crucial. With important elections on the horizon, this is the perfect time for residents to get informed, involved and inspired about the future of our City. The upcoming State [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/10/12/get-involved-with-your-city/">Get Involved with Your City!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/10/12/get-involved-with-your-city/>
+
+---
+
+## Anaheim is latest OC city to dial up homelessness enforcement
+
+date: 2024-10-12, updated: 2024-10-12, from: The LAist
+
+Orange County's most populous city is banning sleeping or lying down on sidewalks and public benches. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/anaheim-new-law-sleeping-on-sidewalks-homelessness>
+
+---
+
+## To see the brightest comet since 2006, hit the beach this month
+
+date: 2024-10-12, updated: 2024-10-12, from: The LAist
+
+The West Coast is actually a prime viewing site — once you get away from all the light pollution. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/to-see-the-brightest-comet-since-2006-hit-the-beach-this-month>
+>>>>>>> b358c0cb75a02acd938111e2a7cf9d9ca0a61b7b
 
 ---
 
@@ -391,25 +449,11 @@ Los Angeles County mistakenly included two school bond measures on ballots bound
 
 ## How LA became a donut town and the man who started it all
 
-date: 2024-10-06, updated: 2024-10-06, from: The LAist
+date: 2024-10-06, updated: 2024-10-12, from: The LAist
 
 The story of Ted Ngoy and the community of Cambodian refugees behind every donut. 
 
 <br> 
 
 <https://laist.com/news/la-history/how-la-became-a-donut-town-and-the-man-who-started-it-all>
-
----
-
-## Adopt, Don’t Shop During Pet Adoption Week!
-
-date: 2024-10-05, from: City of Santa Clarita
-
-<p>By City Manager Ken Striplin According to the American Society of the Prevention of Cruelty to Animals, 6.3 million lost or stray animals enter animal care centers across the nation every year. Rather than purchasing your pet from a breeder, adopting from a care center truly saves a life. Living in Santa Clarita, we’re fortunate [&#8230;]</p>
-<p>The post <a href="https://santaclarita.gov/blog/2024/10/05/adopt-dont-shop-during-pet-adoption-week/">Adopt, Don’t Shop During Pet Adoption Week!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<br> 
-
-<https://santaclarita.gov/blog/2024/10/05/adopt-dont-shop-during-pet-adoption-week/>
 
