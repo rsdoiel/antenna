@@ -35,7 +35,7 @@ html_files = $(addsuffix .html,$(section_names))
 
 build: harvest markdown html archives index.html about.html search.html README.html CITATION.cff pagefind dump
 
-world: snapshots build
+world: build snapshots
 
 california: harvest markdown html archives index.html about.html search.html README.html CITATION.cff pagefind dump
 
@@ -237,7 +237,6 @@ refresh:
 	git pull origin $(BRANCH)
 
 publish: .FORCE
-	@if [ "$(msg)" != "" ]; then git commit -am "$(msg)"; else git commit -am "Publish Site"; fi
-	git push origin main
+	./publish.bash
 
 .FORCE:
