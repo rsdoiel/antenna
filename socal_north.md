@@ -1,11 +1,20 @@
 ---
+<<<<<<< HEAD
 title: socal north
 updated: 2024-10-12 12:29:27
+=======
+title: socal north 2024.16
+updated: 2024-04-15 17:45:30
+>>>>>>> db8684dc7a59d46927bb2d211d4e32e9950603e7
 ---
 
 # socal north
 
+<<<<<<< HEAD
 (date: 2024-10-12 12:29:27)
+=======
+(date: 2024-04-15 17:45:30)
+>>>>>>> db8684dc7a59d46927bb2d211d4e32e9950603e7
 
 ---
 
