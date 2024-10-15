@@ -99,7 +99,6 @@ pagefind: .FORCE
 	--verbose \
 	--force-language en \
 	--site .
-	git add pagefind
 
 clean: .FORCE
 	-rm ham_radio.md 2>/dev/null

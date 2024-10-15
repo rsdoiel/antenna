@@ -99,7 +99,7 @@ foreach ($section_name in $section_names) {
 	del $out_name
 }
 
-pagefind --verbose --force-language en --site .
+#pagefind --verbose --force-language en --site .
 ### git add pagefind
 
 ## dump: .FORCE

@@ -138,7 +138,6 @@ html: front_page.tmpl $(html_files)
 
 dump: .FORCE
 	./skimmer_to_sql.bash
-	git add *.sql.gz
 
 load: .FORCE
 	./sql_to_skimmer.bash
@@ -155,7 +154,6 @@ pagefind: .FORCE
 	--verbose \
 	--force-language en \
 	--site .
-	git add pagefind
 
 clean: .FORCE
 	-rm north_america.md 2>/dev/null
