@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 title: retro computing
 <<<<<<< HEAD
+<<<<<<< HEAD
 updated: 2024-10-12 12:29:36
 =======
 title: retro computing 2024.16
@@ -10,10 +11,14 @@ updated: 2024-04-15 17:45:32
 =======
 updated: 2024-10-13 09:42:47
 >>>>>>> b358c0cb75a02acd938111e2a7cf9d9ca0a61b7b
+=======
+updated: 2024-10-15 08:04:43
+>>>>>>> 02987fc0fab85ba53d2054fefa16a597b5b5c4d5
 ---
 
 # retro computing
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 (date: 2024-10-12 12:29:36)
@@ -22,6 +27,57 @@ updated: 2024-10-13 09:42:47
 >>>>>>> db8684dc7a59d46927bb2d211d4e32e9950603e7
 =======
 (date: 2024-10-13 09:42:47)
+=======
+(date: 2024-10-15 08:04:43)
+
+---
+
+## Intel's Inboard 386/PC
+
+date: 2024-10-15, from: Computer ads from the Past
+
+Welcome to the 1990s. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/intels-inboard-386pc>
+
+---
+
+## Ward Christensen dies
+
+date: 2024-10-14, from: Old Ventage Computing Research
+
+There was initially some issue verifying this, but there appears to be direct confirmation now that Ward Christensen passed away October 11 at the age of 78, co-founder of the pioneering <a href="https://en.wikipedia.org/wiki/CBBS">Computerized Bulletin Board System</a> in February 1978 with Randy Suess &mdash; now believed to be the first BBS &mdash; and developer of the XMODEM transfer protocol. Although his notional job was at IBM, where he worked for 54 years, he became better known for his prolific public domain software output which was widely used in the early 1980s and his innovations with computer-based telecommunication. He was reportedly found dead at his Illinois home after a welfare check on October 13. Ars Technica has <a href="https://arstechnica.com/gadgets/2024/10/ward-christensen-bbs-inventor-and-architect-of-our-online-age-dies-at-age-78/">a nice summation</a>. Rest in peace. 
+
+<br> 
+
+<https://oldvcr.blogspot.com/2024/10/ward-christensen-dies.html>
+
+---
+
+## New Slimbook EVO with Raw AMD Ryzen Power
+
+date: 2024-10-14, from: Linux Magazine
+
+<p>If you're looking for serious power in a 14&quot; ultrabook that is powered by Linux, Slimbook has just the thing for you.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/New-Slimbook-EVO-with-Raw-AMD-Ryzen-Power>
+
+---
+
+## It's less than 2 weeks to go until the London show...
+
+date: 2024-10-14, from: Icon Bar, RISC OS News
+
+It's now less than 2 weeks to go until the return of the London Show..... 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2113.html>
+>>>>>>> 02987fc0fab85ba53d2054fefa16a597b5b5c4d5
 
 ---
 
@@ -37,7 +93,7 @@ That machine is my first Lisp Machine and my only one actually using real Lisp M
 <p>
 For those of you unfamiliar with the general world of Lisp machines, they are, as their name implies, workstations entirely designed around the Lisp programming language. That doesn't just mean using conventional processors with a Lisp runtime either: these devices are built to run Lisp from the silicon up with specific hardware support. (Some of these systems could also run Prolog, my personal favourite AI-adjacent language. We'll play with a surprising small Prolog implementation in <a href="/search/label/prolog">a future article</a>.) They existed in highly technical environments as workhorses of the <em>first</em> wave of AI hysteria (you crazy kids today with your LLMs) for applications like natural language processing and expert systems. The genre more-or-less flourished from the end of the 1970s to the early 1990s and included some of the first systems to implement advances like bitmapped displays, networking and pointer devices. In turn, those unusual capabilities caused them to also develop distinctive user interfaces for their unique feature set, years before today's GUI and keyboard conventions we almost unconsciously take for granted were even conceived of. Working with a Lisp machine can be a remarkably different user experience from modern computing and the occasionally jarring nature of those differences isn't something present-day emulators fully capture.
 <p>
-Unfortunately, their rarity also makes them the whitest of white elephants sometimes. Besides what I had to do to get it working properly to start with, the hard drive started timing out and it randomly froze during boot or shortly afterwards. (There was also the matter of me never finishing its setup, let alone getting it networked.) I'm not letting this benighted thing die on me after all I've put into it, so it's time for a Refurb Weekend.
+Unfortunately, their rarity also makes them the whitest of white elephants sometimes. Besides what I had to do to get it working properly to start with, the hard drive started timing out and it randomly froze during boot or shortly afterwards. (There was also the matter of me never finishing its setup, let alone getting it networked.) I'm not letting this benighted thing die on me after all I've put into it &mdash; it's time for a Refurb Weekend.
 <p>
 <a name='more'></a>
 
@@ -111,7 +167,7 @@ To speed up the Mac system side, I installed a DayStar Digital PowerCache 68030 
 
 <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtA3JI01ekfYGLtJs4YOGc-vdSDsQ9wfmYLbdfG36O0py6ZHXvAFdVsYg5rGz0EjAq38TKRW4Wgks9R9hcMk7k2ZI1z_9wB2ZtzEgzjNrxuTlMcxOJT3PV7b7LTlRVDuo1-3NbglaNDWtmQ-MqbRHdUYQPaJbGsw4ErU12WEjzxIK6zajA035rqP4SiU8/s4080/PXL_20240808_041308401.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtA3JI01ekfYGLtJs4YOGc-vdSDsQ9wfmYLbdfG36O0py6ZHXvAFdVsYg5rGz0EjAq38TKRW4Wgks9R9hcMk7k2ZI1z_9wB2ZtzEgzjNrxuTlMcxOJT3PV7b7LTlRVDuo1-3NbglaNDWtmQ-MqbRHdUYQPaJbGsw4ErU12WEjzxIK6zajA035rqP4SiU8/s320/PXL_20240808_041308401.jpg"/></a></div>
 
-For the network card there are few choices because the MacIvory actually controls the network card over NuBus with its own driver (in fact, if the Mac gets control of it first the MacIvory will be unable to initialize networking, so for file exchange this machine uses LocalTalk and not EtherTalk). Other than onboard Ethernet on some systems, the typical supported option is the Apple Ethernet NB Card, part number 670-4417. This was the card originally shipped with the system and is a 10Mbit card with an AAUI port (no RJ-45, but I have plenty of AAUI transceivers around here). It carries #2 of our four on-board CPUs, its own 68000 running at 10MHz.
+For the network card there are few choices because the MacIvory actually controls the network card over NuBus with its own driver (in fact, if the Mac gets control of it first the MacIvory will be unable to initialize networking, so for file exchange this machine uses LocalTalk and not EtherTalk). Other than onboard Ethernet on some systems, the typical supported option is the Apple Ethernet NB Card, part number 670-4417. This was the card originally shipped with the system and is a 10Mbit card with an AAUI port (no RJ-45, but I have plenty of AAUI transceivers around here). It carries #2 of our four on-board CPUs, its own 68000 running at 10MHz with 512K of RAM. The sockets are for optional 70ns or faster DRAM chips such as the Toshiba TC514400 series, which can expand the card to 2.5MB of onboard memory, though any performance improvement this would yield is debatable.
 
 <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY-8skQFWlv_DbQgwo95-QPlFEHcPZBmD6gJgpmNiI_6wsyUM6lC9IdC5wQKpXURdPltXuANbznj3Z4rIRCVaErYTInfpjNQr0xoJwij8-PPyP0-40stiii8N3E5y8TK4c7YiQ9BRfMq3ggb6TKlej1CXiB3x7HJihaXHqepuBQaH07oHkfHeiXy2AjTU/s4080/PXL_20240808_041629174.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="3072" data-original-width="4080" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY-8skQFWlv_DbQgwo95-QPlFEHcPZBmD6gJgpmNiI_6wsyUM6lC9IdC5wQKpXURdPltXuANbznj3Z4rIRCVaErYTInfpjNQr0xoJwij8-PPyP0-40stiii8N3E5y8TK4c7YiQ9BRfMq3ggb6TKlej1CXiB3x7HJihaXHqepuBQaH07oHkfHeiXy2AjTU/s320/PXL_20240808_041629174.jpg"/></a></div>
 
@@ -223,7 +279,7 @@ Time to resume the Lisp business. I should note that everything here is as of Ma
 
 There are three partitions on Russell (named, naturally, after Russell Noftsker): the main 7.1 partition ("Russell"), the Lisp partition ("Russell-CDR", because it's the rest of the disk, get it?) and because the old 4GB drive was slightly larger than 4GB and it's a bad idea on 7.1 to have partitions bigger than 2GB, a third partition to soak up the unused space which to date I've yet to find a use for ("Emergen-C"). However, while Emergen-C has nothing in it but the desktop database, almost all of Russell-CDR is consumed with "0 items." Russell-CDR is in fact just an HFS wrapper around the FEP's filesystem and any Lisp Machine File System (LMFS) volumes, which are stored as massive invisible files.
 <p>
-The MacIvory support package is split up over several places as deposited by its installer. The main applications are in the MacIvory Applications folder, including Genera, which is the primary bootstrap application. Yes, that's a HyperCard stack and we'll look at it later. The poetically-named Breath of Life application is how an initial system is built after installation of the Mac components: it restores an FEP filesystem from CD or tape, creating it first if necessary, and sets up default virtual memory paging files and boot files. If you get hopelessly hosed, you can use it to pave over everything and try to start fresh. Source code in C and libraries for creating your own Ivory-powered applications are included which we might explore in a future entry.
+The MacIvory support package is split up over several places as deposited by its installer. The main applications are in the MacIvory Applications folder, including Genera, which is the primary bootstrap application. Yes, there's a HyperCard stack in the folder too and we'll look at it later. The poetically-named Breath of Life application is how an initial system is built after installation of the Mac components: it restores an FEP filesystem from CD or tape, creating it first if necessary, and sets up default virtual memory paging files and boot files. If you get hopelessly hosed, you can use it to pave over everything and try to start fresh. Source code in C and libraries for creating your own Ivory-powered applications are included which we might explore in a future entry.
 <p>
 The other major part is in the System Folder. An Ivory folder is created here containing support files and the default namespace which we'll spend some time in (the other Namespace folders are backups I made), along with the main MacIvory CDEV, which the installer oddly places in the Extensions folder but leaves an alias for in Control Panels.
 
@@ -471,9 +527,9 @@ The <tt>(the name of a host)</tt> prompt is provided for you by Genera. (The <tt
 
 <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWJ9eoM_uF9EyW1gOhR25ZAt3ZAfynusfl_nSOAjvhW3k3lxtyJYWLMBUSAaNkcOoIKyABy-FNYWAgp4ymKwN-EPU4mrkOjd7aDR8DiNuzrNnJBPbfHQ_Lm7MEVgEcv6bKCZ0CcaTvAPRDvuBpruLbjvl32q6i4pmX7LPymJ-UuPUoFCeIDyug-Ms46pU/s1728/2024-09-24-224525_1728x972_scrot.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="972" data-original-width="1728" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWJ9eoM_uF9EyW1gOhR25ZAt3ZAfynusfl_nSOAjvhW3k3lxtyJYWLMBUSAaNkcOoIKyABy-FNYWAgp4ymKwN-EPU4mrkOjd7aDR8DiNuzrNnJBPbfHQ_Lm7MEVgEcv6bKCZ0CcaTvAPRDvuBpruLbjvl32q6i4pmX7LPymJ-UuPUoFCeIDyug-Ms46pU/s320/2024-09-24-224525_1728x972_scrot.png"/></a></div>
 
-We're going to come back to this later, but for now, this should demonstrate basic remote access and TCP/IP networking is operational. Close the X window, close your Telnet connection (or use the command <tt>Halt Remote Terminal</tt>) and shut down Genera back to the Finder. Open up the Ivory folder in the System Folder (henceforth the "Ivory System Folder") and find the file <tt>SYS.translations</tt>.
+We're going to come back to this later, but for now, this should demonstrate basic remote access and TCP/IP networking is operational. Close the X window (or use the command <tt>Halt X Screen</tt>), close your Telnet connection (or use the command <tt>Halt Remote Terminal</tt>) and shut down Genera back to the Finder. Open up the Ivory folder in the System Folder (henceforth the "Ivory System Folder") and find the file <tt>SYS.translations</tt>.
 <p>
-I mentioned that Genera has a pseudodevice called <tt>SYS:</tt> where certain core components are stored. This is not the Genera world you run, which is part of the FEP's filesystem, but it does contain (or will, when we finish this task) the source code for it as well as things like fonts, optional packages, online documentation and site configurations. The filesystem mappings that compose <tt>SYS:</tt> are contained in an S-expression in <tt>SYS.translations</tt>. At this point the file looks more or less like this (with the &equiv; character representing Escape/$1E, displayed on a Telnet connection to Genera as &lt;Equivalence&gt;):
+I mentioned that Genera has a pseudodevice called <tt>SYS:</tt> where certain core components are stored. This is not the Genera world you run, which is part of the FEP's filesystem, but it does contain (or will, when we finish this task) the source code for it as well as things like fonts, optional packages, online documentation and site configurations. The filesystem mappings that compose <tt>SYS:</tt> are contained in an S-expression in <tt>SYS.translations</tt>. At this point the file looks more or less like this (with the &equiv; character representing Record Separator/$1E, displayed on a Telnet connection to Genera as &lt;Equivalence&gt;):
 <p>
 <div class="tx"><pre>
 ;;; -*- Mode: Lisp; Syntax: Common-Lisp; Package: FS; Base: 10 -*-
@@ -920,7 +976,7 @@ Instead of a hardware Lisp machine, Symbolics instead turned their waning develo
 <p>
 Sadly, Open Genera couldn't save Symbolics; even as a much cheaper emulator it was still too pricey for what was regarded as a legacy product. As a desperation effort Symbolics' assets were sold to a new company headed by none other than Russell Noftsker himself in 1995, but this next iteration quickly had cash flow problems of its own and reorganized under Chapter 11 bankruptcy in 1996. In 1998 the modestly upgraded Open Genera 2.0 was released, the last official version for the Alpha, and in 1999 the remnants of "new Symbolics" were finally bought outright by the reclusive Andrew Topping. Topping retained the rights to Symbolics hardware and software while licensing sales and maintenance contracts to David K. Schmidt. As many of these contracts wound down and were not renewed, most of the few remaining facilities were closed, and Topping himself passed away in 2005. 
 <p>
-Schmidt provided service and remaindered sales to contract customers and some end-users as (now) <a href="http://www.symbolics-dks.com/">symbolics-dks.com</a>, which is at least ostensibly still in business, and the $4500 doorstop I bought in 2015 was one of his systems. DKS, however, has no rights to the hardware or Genera itself; these were bought at Topping's 2009 estate auction by MIT CSAIL's John Mallery, who to date despite plans to open them has yet to do so. The former <tt>symbolics.com</tt> domain name, the first <tt>.com</tt> domain in 1985, was purchased separately and now is such a shadow of its former self that I refuse to link it here. Today the Lisp spirit lives on in two major ways: an <a href="https://github.com/jjachemich/linux-vlm">unofficial port of the Virtual Lisp Machine</a>, first to <tt>x86_64</tt> by changing the code generator to emit C instead of Alpha assembly, and then to PowerPC G5; and <a href="https://hachyderm.io/@gmpalter/110673998529962634">Portable Genera</a>, an official port of the VLM to Intel and ARM done under contract for existing customers. While this version isn't publicly available as of this writing, it's still actively developed.
+Schmidt provided service and remaindered sales to contract customers and some end-users as (now) <a href="http://www.symbolics-dks.com/">symbolics-dks.com</a>, which is at least ostensibly still in business, and the $4500 doorstop I bought in 2015 was one of his systems. DKS, however, has no rights to the hardware or Genera itself; these were bought at Topping's 2009 estate auction by MIT CSAIL's John Mallery, who to date despite plans to open them has yet to do so. The former <tt>symbolics.com</tt> domain name, the first <tt>.com</tt> domain in 1985, was purchased separately and now is such a shadow of its former self that I refuse to link it here. (The legal situation is far clearer for the now completely free MIT CADR machines, which have their own <a href="https://tumbleweed.nu/lm-3/">simulator and updated software</a>.) Today Genera's spirit lives on in two major ways: an <a href="https://github.com/jjachemich/linux-vlm">unofficial port of the Virtual Lisp Machine</a>, first to <tt>x86_64</tt> by changing the code generator to emit C instead of Alpha assembly, and then to PowerPC G5 (see also <a href="http://serenityconnection.com/running-opengenera-on-linuxrevised/">these instructions</a>); and <a href="https://hachyderm.io/@gmpalter/110673998529962634">Portable Genera</a>, an official port of the VLM to Intel and ARM done under contract for existing customers. While this version isn't publicly available as of this writing, it's still actively developed.
 <p>
 As a footnote, it should be mentioned that the LMI/TI and Symbolics lineages were hardly the only Lisp machine families out there, though they were available in the largest numbers and are certainly the best known. Probably the most notable of the also-rans was BBN's Jericho, based on Interlisp, which never shipped as such but strongly influenced the 1979 Xerox 1100 ("Dolphin") and its successor line of Lisp machines. These machines became more famous as the hardware basis for the Xerox Star, among others. Xerox itself had plans for its own Lisp RISC chip but it's not clear if it ever got past the design phase. Some smaller efforts occurred in Japan and Europe, including from Fujitsu, Toshiba and Racal-Norsk.
 <p>
@@ -932,136 +988,4 @@ Somewhat, anyway.
 
 <https://oldvcr.blogspot.com/2024/10/refurb-weekend-symbolics-macivory-lisp.html>
 >>>>>>> b358c0cb75a02acd938111e2a7cf9d9ca0a61b7b
-
----
-
-## The Gnome Foundation Struggling to Stay Afloat
-
-date: 2024-10-11, from: Linux Magazine
-
-<p>The foundation behind the Gnome desktop environment is having to go through some serious belt-tightening due to continued financial problems.</p> 
-
-<br> 
-
-<http://www.linux-magazine.com/Online/News/The-Gnome-Foundation-Struggling-to-Stay-Afloat>
-
----
-
-## This Week on The Analog Antiquarian
-
-date: 2024-10-11, from: Digital Antiquarian
-
-The Voyage of Magellan, Chapter 16: The Happy Thieves 
-
-<br> 
-
-<https://www.filfre.net/2024/10/this-week-on-the-analog-antiquarian/>
-
----
-
-## b.log 2024/10/10 - That's it, I'm dead, you're dead, we're all dead.
-
-date: 2024-10-10, from: Richard Murray's blog
-
-That's it, I'm dead, you're dead, we're all dead. 
-
-<br> 
-
-<https://heyrick.eu/blog/index.php?diary=20241010>
-
----
-
-## Developers’ fireside chat – 12th October
-
-date: 2024-10-10, from: RiscOS Story
-
-This coming Saturday &#8211; 12th October &#8211; is the next opportunity for anyone with an interest in RISC OS and software development to gather together in front of the virtual fire for an informal chat. These meetings, which take place more or less monthly using the Zoom video conferencing system, are a way for people with that interest to get together and discuss anything related to programming on and for RISC OS. There is no pre-set agenda for these meetings, and no speaker arranged ahead of time. Instead, their informal&#8230; 
-
-<br> 
-
-<https://www.riscository.com/2024/developers-fireside-chat-12th-october/>
-
----
-
-## b.log 2024/10/09 - My friend is fine, Hurricane Kirk, Printer Weirdness, Writers have no sense of scale.
-
-date: 2024-10-09, from: Richard Murray's blog
-
-My friend is fine, Hurricane Kirk, Printer Weirdness, Writers have no sense of scale. 
-
-<br> 
-
-<https://heyrick.eu/blog/index.php?diary=20241009>
-
----
-
-## Thousands of Linux Servers Infected with Stealth Malware Since 2021
-
-date: 2024-10-09, from: Linux Magazine
-
-<p>Perfctl is capable of remaining undetected, which makes it dangerous and hard to mitigate.</p> 
-
-<br> 
-
-<http://www.linux-magazine.com/Online/News/Thousands-of-Linux-Servers-Infected-with-Stealth-Malware-Since-2021>
-
----
-
-## October developer 'fireside' chat on saturday night
-
-date: 2024-10-09, from: Icon Bar, RISC OS News
-
-The next 'fireside' chat is on 12th October (this saturday). It starts at 7:30pm UK time and the event is on Zoom. Stay for as long or as short a time as you like. 
-
-<br> 
-
-<http://www.iconbar.com/comments/rss/news2102.html>
-
----
-
-## b.log 2024/10/07 - Hello?, Tilley?, The drain is done, ADHD and sleep, Mood adjustment basket, Writers have no sense of scale.
-
-date: 2024-10-07, from: Richard Murray's blog
-
-Hello?, Tilley?, The drain is done, ADHD and sleep, Mood adjustment basket, Writers have no sense of scale. 
-
-<br> 
-
-<https://heyrick.eu/blog/index.php?diary=20241007>
-
----
-
-## London  looms – show in just three weeks
-
-date: 2024-10-06, from: RiscOS Story
-
-Issues with the venue at which it has been hold since its inception meant that the RISC OS London Show hasn&#8217;t been held for a couple of years, and that following one brief reappearance after the hiatus caused by COVID. However, this year it&#8217;s back in a new location, and it&#8217;s time to get your travel plans sorted if you wish to attend &#8211; and why wouldn&#8217;t you? Getting the most important information out of the way first, the show is set to take place on Saturday, 26th October &#8211;&#8230; 
-
-<br> 
-
-<https://www.riscository.com/2024/london-looms-just-three-weeks/>
-
----
-
-## Hexen port updated to 1.08
-
-date: 2024-10-06, from: RiscOS Story
-
-An updated version of the Hexen port to RISC OS is now available from R-Comp. Version 1.08 of the port has been released to resolve a number of issues reported by players, and also brings the code into line with that of the updated Heretic. Players with very high resolution screens will enjoy the support for up to 8K screens, but there are also a number of fixes &#8211; such as improvements to the enhanced widescreen support that appeared in versions 1.07, which extends the view horizontally, filling in detail&#8230; 
-
-<br> 
-
-<https://www.riscository.com/2024/hexen-port-1-08/>
-
----
-
-## TimeZones hits 2.00
-
-date: 2024-10-06, from: RiscOS Story
-
-Kevin Wells has released a new version of TimeZones, his application that can be used to establish whether, if you called someone elsewhere in the world, it&#8217;ll be stupid o&#8217;clock in their time. Version 2.00 of the software marks a rewrite, which Kevin undertook due to changes to the application programmer interface (API) that the application uses (by way of Wget to communicate with a remote site &#8211; in this case WorldTimeAPI to relay the information requested by the user. In addition to supporting the revised API, when launched the&#8230; 
-
-<br> 
-
-<https://www.riscository.com/2024/timezones-hits-2-00/>
 

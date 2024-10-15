@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 title: parks
 <<<<<<< HEAD
+<<<<<<< HEAD
 updated: 2024-10-12 12:29:34
 =======
 title: parks 2024.16
@@ -10,10 +11,14 @@ updated: 2024-04-15 17:45:32
 =======
 updated: 2024-10-13 09:42:46
 >>>>>>> b358c0cb75a02acd938111e2a7cf9d9ca0a61b7b
+=======
+updated: 2024-10-15 08:04:43
+>>>>>>> 02987fc0fab85ba53d2054fefa16a597b5b5c4d5
 ---
 
 # parks
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 (date: 2024-10-12 12:29:34)
@@ -407,4 +412,7 @@ date: 2024-04-15, from: Bureau of Land Management, California
 =======
 (date: 2024-10-13 09:42:46)
 >>>>>>> b358c0cb75a02acd938111e2a7cf9d9ca0a61b7b
+=======
+(date: 2024-10-15 08:04:43)
+>>>>>>> 02987fc0fab85ba53d2054fefa16a597b5b5c4d5
 

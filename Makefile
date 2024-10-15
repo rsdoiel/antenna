@@ -33,16 +33,16 @@ md_files = $(addsuffix .md,$(section_names))
 
 html_files = $(addsuffix .html,$(section_names))
 
-build: harvest markdown html archives index.html about.html search.html README.html CITATION.cff pagefind dump
+build: harvest markdown html archives index.html about.html README.html CITATION.cff dump
 
 world: build snapshots
 
-california: harvest markdown html archives index.html about.html search.html README.html CITATION.cff pagefind dump
+california: harvest markdown html archives index.html about.html README.html CITATION.cff dump
 
 snapshots: .FORCE
 	cd snapshots && make
 
-website: markdown html archives index.html about.html search.html README.html pagefind
+website: markdown html archives index.html about.html README.html 
 
 harvest: $(section_names)
 
@@ -125,7 +125,6 @@ $(md_files): .FORCE
 		>$@
 	mkdir -p $(YEAR)
 	cp -v "$@" "archives/$(YEAR)/$(basename $@)_$(VOL_NO).md"
-	git add "archives/$(YEAR)/$(basename $@)_$(VOL_NO).md"
 
 html: front_page.tmpl $(html_files)
 
@@ -139,7 +138,6 @@ html: front_page.tmpl $(html_files)
 
 dump: .FORCE
 	./skimmer_to_sql.bash
-	git add *.sql.gz
 
 load: .FORCE
 	./sql_to_skimmer.bash
@@ -156,7 +154,6 @@ pagefind: .FORCE
 	--verbose \
 	--force-language en \
 	--site .
-	git add pagefind
 
 clean: .FORCE
 	-rm north_america.md 2>/dev/null

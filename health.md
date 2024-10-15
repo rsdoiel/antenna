@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 title: health
 <<<<<<< HEAD
+<<<<<<< HEAD
 updated: 2024-10-12 12:29:36
 =======
 title: health 2024.16
@@ -10,10 +11,14 @@ updated: 2024-04-15 17:45:32
 =======
 updated: 2024-10-13 09:42:48
 >>>>>>> b358c0cb75a02acd938111e2a7cf9d9ca0a61b7b
+=======
+updated: 2024-10-15 08:04:43
+>>>>>>> 02987fc0fab85ba53d2054fefa16a597b5b5c4d5
 ---
 
 # health
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 (date: 2024-10-12 12:29:36)
@@ -23,232 +28,139 @@ updated: 2024-10-13 09:42:48
 =======
 (date: 2024-10-13 09:42:48)
 >>>>>>> b358c0cb75a02acd938111e2a7cf9d9ca0a61b7b
+=======
+(date: 2024-10-15 08:04:43)
+>>>>>>> 02987fc0fab85ba53d2054fefa16a597b5b5c4d5
 
 ---
 
-## Priming from within: TLR2 dependent but receptor independent activation of the mammary macrophage inflammasome by Streptococcus uberis
+## ProcCluster® and procaine hydrochloride inhibit the growth of Aspergillus species and exert antimicrobial properties during coinfection with influenza A viruses and A. fumigatus in vitro
 
-date: 2024-10-11, from: Frontiers in Cellular and Infection Microbiology
+date: 2024-10-15, from: Frontiers in Cellular and Infection Microbiology
 
-IntroductionStreptococcus uberis is a member of the pyogenic cluster of Streptococcus commonly associated with intramammary infection and mastitis in dairy cattle. It is a poorly controlled globally endemic pathogen responsible for a significant cause of the disease worldwide. The ruminant mammary gland provides an atypical body niche in which immune cell surveillance occurs on both sides of the epithelial tissue. S. uberis does not cause disease in non-ruminant species and is an asymptomatic commensal in other body niches. S. uberis exploits the unusual niche of the mammary gland to initiate an innate response from bovine mammary macrophage (BMMO) present in the secretion (milk) in which it can resist the host immune responses. As a result – and unexpectedly - the host inflammatory response is a key step in the pathogenesis of S.uberis, without which colonisation is impaired. In contrast to other bacteria pathogenic to the bovine mammary gland, S. uberis does not elicit innate responses from epithelial tissues; initial recognition of infection is via macrophages within milk.MethodsWe dissected the role of the bacterial protein SUB1154 in the inflammasome pathway using ex vivo bovine mammary macrophages isolated from milk, recombinant protein expression, and a panel of inhibitors, agonists, and antagonists. We combine this with reverse-transcription quantitative real-time PCR to investigate the mechanisms underlying SUB1154-mediated priming of the immune response.ResultsHere, we show that SUB1154 is responsible for priming the NLRP3 inflammasome in macrophages found in the mammary gland. Without SUB1154, IL-1β is not produced, and we were able to restore IL-1β responses to a sub1154 deletion S. uberis mutant using recombinant SUB1154. Surprisingly, only by blocking internalisation, or the cytoplasmic TIR domain of TLR2 were we able to block SUB1154-mediated priming.DiscussionTogether, our data unifies several contrasting past studies and provides new mechanistic understanding of potential early interactions between pyogenic streptococci and the host. 
+IntroductionInfluenza-associated pulmonary aspergillosis is associated with high mortality rates and limited treatment options. The current standard practice involves treating each pathogen separately. However, the use of antifungal drugs can lead to serious side effects, and the presence of triazole-resistant Aspergillus strains can complicate antifungal therapy. In addition, drug-resistant influenza viruses are becoming an increasing concern in clinics. A drug that affects fungal and viral propagation could overcome these disadvantages. Thus, we conducted a study to examine the antifungal and antiviral properties of ProcCluster® and procaine hydrochloride (HCl), which are prodrugs derived from the local anesthetic procaine.MethodsConidia of different A. fumigatus strains, A. flavus and A. terreus were treated with the test substances in a human cell-free system and antifungal properties were analyzed either by fluorescence microscopy or absorption measurements. Changes in metabolic activity and intracellular Ca2+ distribution during treatment of A. fumigatus with ProcCluster® were observed using fluorescence microscopy. In addition, antifungal and antiviral properties of ProcCluster® and procaine HCl were investigated during in vitro coinfection of lung epithelial cells with A. fumigatus and influenza A viruses (IAV). Analysis was performed by fluorescence microscopy, standard plaque assay and Western blot assay.ResultsBoth substances inhibited the growth of the fungus, even when applied after germination or in the presence of purified IAV particles. ProcCluster® remained effective against triazole-resistant A. fumigatus strains. However, the addition of CaCl2 reversed the antifungal effect, indicating that ProcCluster® inhibited fungal growth by disrupting fungal Ca2+ homeostasis. Furthermore, in vitro studies showed that ProcCluster® and procaine HCl reduced the pathogen load of IAV and A. fumigatus during coinfection. Finally, the combination of ProcCluster® with the antiviral drug favipiravir exhibited increased antipathogenic activity, particularly against IAV replication.DiscussionThis research highlights ProcCluster® and procaine HCl as substances with anti-infective properties against various pathogens. 
 
 <br> 
 
-<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1444178>
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1445428>
 
 ---
 
-## Efficacy and safety of different drugs for the treatment of bacterial vaginosis: a systematic review and network meta-analysis
+## Non-targeted metabolomics and pseudo-targeted lipidomics combined with gut microbes reveal the protective effects of Causonis japonica (Thunb.) Raf. in ulcerative colitis mice
 
-date: 2024-10-11, from: Frontiers in Cellular and Infection Microbiology
+date: 2024-10-15, from: Frontiers in Cellular and Infection Microbiology
 
-ObjectiveBacterial vaginosis is a disease caused by vaginal microecology disorder, which seriously affects female health. At present, there are many drugs to treat BV, and this study aims to compare the efficacy and safety of multiple drugs for BV through a network meta-analysis (NMA).MethodsAll studies were sourced from PubMed and Embase databases from the establishment date to April 13, 2023. We evaluated the clinical cure success rate and adverse effects (abnormal increase in vaginal discharge, external genital irritation, and vulvar itching) and performed subgroup analyses of the clinical cure success rate for different modes of administration. All statistical analyses were performed using R and STATA 14.0 software for network meta-analysis.ResultsWe included 42 studies that met the criteria, involving a total of 8382 patients. Network meta-analysis results showed that metronidazole and secnidazole had a higher rate of adverse reactions than placebo (RR 7.06; 95%-CI 2.61-19.10, RR 4.03; 95%-CI 1.63-9.98), the adverse reaction rate of probiotics group was lower than that of metronidazole group (RR 0.44; 95%-CI 0.21-0.93). The clinical cure rate of oral ornidazole was better than clindamycin (RR 16.08; 95%-CI 1.72-150.47), Secnidazole (RR 8.17; 95%-CI 1.66-40.25) and probiotics. Direct meta-analysis results showed that ornidazole had a better clinical cure rate than Secnidazole (RR 1.22; 95%-CI 1.10-1.34), oral ornidazole had a better clinical cure rate than Secnidazole (RR 1.23; 95%-CI 1.11-1.36). The clinical cure rate of vaginal application of sucrose was better than metronidazole (RR 1.12; 95%-CI 1.03-1.21) and metronidazole had a lower clinical cure rate than probiotics (RR 0.68; 95%-CI 0.52-0.88).ConclusionsThe results of this systematic review and network meta-analysis suggest that ornidazole may be an effective alternative for the treatment of BV, and that sucrose and probiotics are potential BV treatments that need to be validated by more high-quality clinical studies in the future. 
+Ulcerative colitis (UC) is an inflammatory bowel disease characterized by recurrent inflammatory tissue damage to the intestinal mucosa and forming intestinal epithelial ulcers. It is one of the most intractable diseases in the world. To date, the mechanism is unclear. Causonis japonica (Thunb.) Raf. (Wu Lianmei in Chinese; WLM), a traditional Chinese medicine, which has a long history as an anti-inflammatory, but its effect on UC was unconfirmed yet. Therefore, we established a dextran sodium sulfate (DSS)-induced UC mice model and evaluated the therapeutic effect of WLM extract. The results indicated that WLM inhibits DSS-induced inflammatory response in colitis in vivo, decrease DSS-induced clinical manifestations, reverses colon length shortening, and reduces tissue damage. The results of ELISA kits suggested that WLM could reverse the levels of DSS-induced inflammatory factors. To explore the mechanism of WLM in treating DSS-induced UC, 1H NMR and UHPLC-Q/Orbitrap MS were used to perform non-targeted metabolomics analysis; 21 differential metabolites in colon tissues were closely related to UC. Meanwhile, the pseudo-targeted lipidomics based on UHPLC-Q/Trap MS was used to analyze lipid metabolism disorders, and 60 differential lipid compounds were screened. These differential compounds were mainly involved in glycerophospholipid, arachidonic acid, glycerolipid, citric acid, tyrosine, and ether lipid metabolisms. The analysis of gut microbial showed that WLM may improve the symptoms of UC mice by reducing the abundance of Helicobacter and Streptococcus and increasing the abundance of Limosilactobacillus and Akkermansia. Moreover, the real-time qPCR results showed that WLM extract could decrease the mRNA levels of inflammatory factors and may be associated with protecting the integrity of intestinal mucosal barrier by destroying in vivo metabolic pathways, especially by regulating energy and lipid metabolisms and reducing inflammatory reactions. It provides a beneficial reference for studying WLM to elucidate the therapeutic mechanism of UC. 
 
 <br> 
 
-<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1402346>
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1397735>
 
 ---
 
-## Fusobacterium nucleatum elicits subspecies-specific responses in human neutrophils
+## PMCNA_RS00975 activates NF-κB and ERK1/2 through TLR2 and contributes to the virulence of Pasteurella multocida
 
-date: 2024-10-10, from: Frontiers in Cellular and Infection Microbiology
+date: 2024-10-15, from: Frontiers in Cellular and Infection Microbiology
 
-Fusobacterium nucleatum as a Gram-negative anaerobe plays a key bridging role in oral biofilms. It is involved in periodontal and extraoral diseases, the most prominent being colorectal cancer. Five subspecies are recognised: animalis, fusiforme, nucleatum, polymorphum and vincentii. Subspecies interact with neutrophils constantly patrolling tissues to remove microbial intruders. Neutrophil antimicrobial activities include generation of reactive oxygen species (ROS), formation of neutrophil extracellular traps (NETs) and release of cytokines and neutrophil enzymes. Subspecies-specific differences in immunogenicity have previously been observed in a neutrophil-like cell line but were not investigated in human neutrophils. Additionally, neutrophil responses to planktonic and biofilm-grown F. nucleatum have not been studied to date. The aims of this study were to compare the immunogenicity of planktonic and biofilm-grown F. nucleatum and to investigate potential differences in human neutrophil responses when stimulated with individual F. nucleatum subspecies. Human neutrophils isolated from peripheral blood were stimulated with planktonic and biofilm-grown F. nucleatum subspecies. Generation of ROS and NET formation were quantified by luminescence and fluorescence assays, respectively. Secretion of cytokines (IL-1β, TNF-α, IL-6, IL-8), neutrophil elastase and matrix metalloproteinase-9 was quantified by enzyme-linked immunosorbent assay (ELISA). Neutrophil responses showed biofilm-grown bacteria induced a significantly higher total and intracellular ROS response, as well as shorter time to total ROS release. Biofilm-grown F. nucleatum led to significantly lower IL-1β release. We found significant differences among individual subspecies in terms of total, intracellular ROS and extracellular superoxide. Subspecies polymorphum stimulated the highest mean amount of NET release. Amounts of cytokines released differed significantly among subspecies, while no differences were found in lysosomal enzyme release. Immunogenicity of F. nucleatum in human neutrophils is highly subspecies-specific in vitro with regard to ROS release and cytokine production. Understanding subspecies-specific immunogenicity of F. nucleatum may facilitate the discovery of novel therapeutic targets in F. nucleatum-mediated diseases. 
+IntroductionPasteurella multocida is a pathogenic bacterium known to cause hemorrhagic septicemia and pneumonia in poultry. Reports have indicated that certain proteins, either directly involved in or regulating iron metabolism, are important virulence factors of P. multocida. Therefore, understanding virulent factors and analyzing the role of pro-inflammatory cytokines can help us elucidate the underlying pathogenesis.MethodsIn this study, the PMCNA_RS00975 protein, a putative encapsuling protein encoded by a gene from a specific prophage island of the pathogenic strain C48-1 of P. multocida, was investigated. To further explore the impact of the PMCNA_RS00975 protein on pathogenicity, a PMCNA_RS00975 gene mutant of P. multocida strain C48-1 was constructed using positive selection technology. Subcellular localization was performed to determine the location of the PMCNA_RS00975 protein within P. multocida. The recombinant protein PMCNA_RS00975 of P. multocida was soluble expressed, purified, and its role in pro-inflammatory cytokines was investigated.ResultsThe mutant exhibited significantly reduced pathogenicity in the mice model. Furthermore, subcellular localization indicated that the PMCNA_RS00975 protein was located at the outer membrane and expressed during infection of P. multocida. Additionally, our experiments revealed that recombinant PMCNA_RS00975 protein promotes the secretion of the IL-6 pro-inflammatory cytokines triggered by the TLR2 receptor via NF-κB and ERK1/2 signaling pathways in the macrophages.DiscussionThis study identified a novel virulence factor in the C48-1 strain, providing a basis for understanding the pathogenesis and directions for the development of attenuated vaccines against P. multocida. 
 
 <br> 
 
-<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1449539>
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1469304>
 
 ---
 
-## Duplex recombinase aided amplification-lateral flow dipstick assay for rapid distinction of Mycobacterium tuberculosis and Mycobacterium avium complex
+## Deciphering the killing mechanisms of potassium iodide in combination with antimicrobial photodynamic therapy against cross-kingdom biofilm
 
-date: 2024-10-10, from: Frontiers in Cellular and Infection Microbiology
+date: 2024-10-15, from: Frontiers in Cellular and Infection Microbiology
 
-ObjectivesThis study aims to develop a novel diagnostic approach using the recombinase aided amplification-lateral flow dipstick(RAA-LFD) assay for the distinction of Mycobacterium tuberculosis (MTB) and Mycobacterium avium complex (MAC), enabling rapid and convenient as well as accurate identification of them in clinical samplesMethodsOur study established a duplex RAA-LFD assay capable of discriminating between MTB and MAC. Based on the principles of RAA primer and probe design, specific primers and probes were developed targeting the MTB IS6110 and the MAC DT1 separately. Optimization of reaction time points and temperatures was conducted, followed by an evaluation of specificity, sensitivity, and reproducibility. The established detection method was then applied to clinical samples and compared with smear microscopy, liquid culture, LAMP, and Xpert/MTB RIF in terms of diagnostic performanceResultsThe complete workflow allows for the effective amplification of the MTB IS6110 and MAC DT1 target sequences at constant 37°C within 20min, and the amplification products can be visually observed on the LFD test strip. This method exhibits high specificity, showing no cross-reactivity with nucleic acids from M. kansassi, M. abscessus, M. gordonae, M. chelonae, M. fortuitum, M. scrofulaceum, M. malmoense, M. chimaera, M. szulgai and common respiratory pathogens. It also demonstrates high sensitivity, with a detection limit as low as 102 CFU/mL. Additionally, the method’s Coefficient of Variation (CV) is less than 5%, ensuring excellent repeatability and reliability. Furthermore, clinical performance evaluations, using Xpert/MTB RIF as the gold standard, demonstrated that the duplex RAA-LFD assay achieves a sensitivity of 92.86% and a specificity of 93.75%. It is also noteworthy that the assay exhibits considerable diagnostic efficacy in smear-negative patientsConclusionsOur study introduces a rapid, specific, and sensitive duplex RAA-LFD assay for the discriminatory diagnosis of MTB and MAC. This method represents a significant advancement in the field of infectious disease diagnostics, offering a valuable tool for rapid detection and management of MTB and MAC infections. The implementation of this approach in point-of-care settings could greatly enhance TB control and prevention efforts, especially in resource-limited environments. 
+IntroductionThe co-existence of S. mutans and C. albicans is frequently detected in root caries and early child caries and is reported to be associated with recurrent caries. The aim of this study was to investigate the effects of potassium iodide (KI) in combination with toluidine blue O-mediated antimicrobial photodynamic therapy (aPDT) on S. mutans and C. albicans mixed-species biofilm, as well as the antibiofilm mechanisms involved.MethodsMixed-species biofilm was constructed of S. mutans and C. albicans on dentin blocks. The antibiofilm efficacy, cytotoxicity and antibiofilm mechanism of KI in combination with aPDT were determined and evaluated.ResultsKI+TBO-aPDT treatment caused reduction in microorganism counts, metabolic activity, and biofilm biomass of mixed-species biofilm without inducing cytotoxicity to hDPCs (human dental pulp cells). Observations such increased ROS (reactive oxygen species) levels, impaired cell membrane function, cell apoptosis and reduced expression in several genes seem to be artifacts of reduced growth and general killing by KI+TBO-aPDT treatment.DiscussionThese data suggested that KI in combination with aPDT as an innovative approach to combat S. mutans and C. albicans biofilm, and thus as an optional treatment for caries. 
 
 <br> 
 
-<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1454096>
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1444764>
 
 ---
 
-## Characteristics of the vaginal microbiota and vaginal metabolites in women with cervical dysplasia
+## People’s CDC COVID-19 Weather Report
 
-date: 2024-10-10, from: Frontiers in Cellular and Infection Microbiology
+date: 2024-10-14, from: People's CDC
 
-IntroductionEmerging evidence suggests that the vaginal microbiota is closely associated with cervical cancer. However, little is known about the relationships among the vaginal microbiota, vaginal metabolites, and cervical lesion progression in women undergoing cervical dysplasia.MethodsIn this study, to understand vaginal microbiota signatures and vaginal metabolite changes in women with cervical lesions of different grades and cancer, individuals with normal or cervical dysplasia were recruited and divided into healthy controls (HC) group, low-grade squamous intraepithelial lesions (LSIL) group, high-grade squamous intraepithelial lesions (HSIL) group, and cervical cancer (CC) group. Vaginal secretion samples were collected for 16S rRNA gene sequencing, liquid chromatography coupled with mass spectrometry (LC–MS)-based metabolomics, and integrated analysis.ResultsThe results demonstrated that bacterial richness and diversity were greater in the CC group than the other three groups. Additionally, Lactobacillus was found to be negatively associated with bacterial diversity and bacterial metabolic functions, which increased with the degree of cervical lesions and cancer. Metabolomic analysis revealed that distinct metabolites were enriched in these metabolite pathways, including tryptophan metabolism, retinol metabolism, glutathione metabolism, alanine, aspartate, and glutamate metabolism, as well as citrate cycle (TCA cycle). Correlation analysis revealed positive associations between CC group-decreased Lactobacillus abundance and CC group-decreased metabolites. Lactobacillus iners was both negative to nadB and kynU genes, the predicted abundance of which was significantly higher in the CC group. The linear regression model showed that the combination of the vaginal microbiota and vaginal metabolites has good diagnostic performance for cervical cancer.DiscussionOur results indicated a clear difference in the vaginal microbiota and vaginal metabolites of women with cervical dysplasia. Specifically altered bacteria and metabolites were closely associated with the degree of cervical lesions and cancer, indicating the potential of the vaginal microbiota and vaginal metabolites as modifiable factors and therapeutic targets for preventing cervical cancer. 
+This is the @PeoplesCDC bi-weekly update for October 14, 2024. This Weather Report from the People’s CDC sheds light on the ongoing COVID situation in the US. 
 
 <br> 
 
-<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1457216>
+<https://peoplescdc.org/2024/10/14/peoples-cdc-covid-19-weather-report-84/>
 
 ---
 
-## A metalloprotease secreted by an environmentally acquired gut bacterium hinders Borrelia afzelii colonization in Ixodes ricinus
+## Mycobacterium tuberculosis combine with EBV infection in severe adult meningoencephalitis: a rare case reports and literature review
 
-date: 2024-10-10, from: Frontiers in Cellular and Infection Microbiology
+date: 2024-10-14, from: Frontiers in Cellular and Infection Microbiology
 
-Although the importance of the microbiome in the context of tick biology and vector competence has recently come into a broader research focus, the field is still in its infancy and the complex ecological interactions between the tick residential bacteria and pathogens are obscure. Here, we show that an environmentally acquired gut bacterium has the potential to impair Borrelia afzelii colonization within the tick vector through a secreted metalloprotease. Oral introduction of either Bacillus cereus LTG-1 isolate or its purified enhancin (BcEnhancin) protein significantly reduces B. afzelii burden in the guts of Ixodes ricinus ticks. This effect is attributed to the ability of BcEnhancin to degrade a glycan-rich peritrophic matrix (PM), which is a gut protective barrier essential for Borrelia survival. Our study highlights the importance of the gut microbiome in determining tick vector competence and provides a deeper mechanistic insight into the complex network of interactions between Borrelia, the tick, and the tick microbiome. 
+BackgroundTuberculous meningitis (TBM) with adults Epstein-Barr (EB) virus encephalitis is a very rare infectious disease, with a high mortality and disability. Metagenomic next-generation sequencing (mNGS) of cerebrospinal fluid (CSF) is highly diagnostic. We report on a case of severe meningoencephalitis caused by co-infection with mycobacterium tuberculosis and EB virus. Brain MRI indicated a parenchyma lesion in the brain. mNGS of CSF indicated Mycobacterium tuberculosis and EB virus amplification, positive serum EB virus IgG antibodies, and improved symptoms after anti-tuberculosis and antiviral treatment. A re-examination of the brain MRI revealed that the significantly absorption of the lesions.Case reportA 49-year-old male patient presented with a chief complaint of headache and fever with consciousness disturbance. The brain magnetic resonance imaging showed a lesions in the right parenchymal brain with uneven enhancement, accompanied by significantly increased intracranial pressure, elevated CSF cell count and protein levels, as well as notably decreased glucose and chloride levels. mNGS of CSF showed the coexistence of Mycobacterium tuberculosis and EBV. The patient was diagnosed as TBM with EBV encephalitis. The patient’s symptoms gradually improved with the active administration of anti-tuberculosis combined with antiviral agents, the use of hormones to reduce inflammatory reaction, dehydration to lower intracranial pressure, and intrathecal injection. Subsequent follow-up brain magnetic resonance imaging indicated significant absorption of the lesions, along with a marked decrease in CSF count and protein levels, as well as obvious increase in glucose and chloride levels.ConclusionTBM associated with adult EBV encephalitis is extremely rare. The disease’s early stages are severe and have a high fatality rate. A prompt and accurate diagnosis is particularly important. NGS of CSF is of great value for early diagnosis. 
 
 <br> 
 
-<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1476266>
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1361119>
 
 ---
 
-## Editorial: Antiviral monoclonal antibody therapies
+## The influence of perilipin 5 deficiency on gut microbiome profiles in murine metabolic dysfunction-associated fatty liver disease (MAFLD) and MAFLD-hepatocellular carcinoma
 
-date: 2024-10-10, from: Frontiers in Cellular and Infection Microbiology
+date: 2024-10-14, from: Frontiers in Cellular and Infection Microbiology
 
- 
+IntroductionMetabolic dysfunction-associated fatty liver disease (MAFLD) has emerged as the leading cause of hepatocellular carcinoma (HCC) worldwide. Over the years, Perilipin 5 (PLIN5) has been recognized as a key regulator of both MAFLD and HCC development. In our previous studies we demonstrated that deficiency in Plin5 reduces the severity of MAFLD and HCC in mice. Interestingly, it has been established that patients with MAFLD and HCC exhibit various changes in their gut microbiome profiles. The gut microbiome itself has been shown to play a role in modulating carcinogenesis and the immune response against cancer.MethodsTherefore, we conducted a study to investigate the alterations in fecal microbiome composition in wild type (WT) and Plin5-deficient (Plin5-/-) mice models of MAFLD and MAFLD-induced HCC (MAFLD-HCC). We utilized 16S rRNA gene sequencing analysis to profile the composition of gut bacteria in fecal samples.ResultsNotably, we discovered that the absence of Plin5 alone is already associated with changes in gut microbiota composition. Moreover, feeding the mice a Western diet (WD) resulted in additional microbial alterations. Interestingly, Plin5-/- animals exhibited an enrichment of the beneficial taxa Lactobacillus in both animal models.DiscussionOur findings identify Plin5 as a major regulator of gut microbiota during the development of MAFLD and MAFLD-HCC. 
 
 <br> 
 
-<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1484448>
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1443654>
 
 ---
 
-## Host-dependent C-to-U RNA editing in SARS-CoV-2 creates novel viral genes with optimized expressibility
+## Natural compound-induced downregulation of antimicrobial resistance and biofilm-linked genes in wastewater Aeromonas species
 
-date: 2024-10-09, from: Frontiers in Cellular and Infection Microbiology
+date: 2024-10-14, from: Frontiers in Cellular and Infection Microbiology
 
-Rampant C-to-U RNA editing drives the mutation and evolution of SARS-CoV-2. While much attention has been paid to missense mutations, the C-to-U events leading to AUG and thus creating novel ORFs were uninvestigated. By utilizing the public time-course mutation data from the worldwide SARS-CoV-2 population, we systematically identified the “AUG-gain mutations” caused by C-to-U RNA editing. Synonymous mutations were of special focus. A total of 58 synonymous C-to-U sites are able to create out-of-frame AUG in coding sequence (CDS). These 58 synonymous sites showed significantly higher allele frequency (AF) and increasing rate (dAF/dt) than other C-to-U synonymous sites in the SARS-CoV-2 population, suggesting that these 58 AUG-gain events conferred additional benefits to the virus and are subjected to positive selection. The 58 predicted new ORFs created by AUG-gain events showed the following advantages compared to random expectation: they have longer lengths, higher codon adaptation index (CAI), higher Kozak scores, and higher tRNA adaptation index (tAI). The 58 putatively novel ORFs have high expressibility and are very likely to be functional, providing an explanation for the positive selection on the 58 AUG-gain mutations. Our study proposed a possible mechanism of the emergence of de novo genes in SARS-CoV-2. This idea should be helpful in studying the mutation and evolution of SARS-CoV-2. 
+Addressing the global antimicrobial resistance (AMR) crisis requires a multifaceted innovative approach to mitigate impacts on public health, healthcare and economic systems. In the complex evolution of AMR, biofilms and the acquisition of antimicrobial resistance genes (ARGs) play a pivotal role. Aeromonas is a major AMR player that often forms biofilm, harbors ARGs and is frequently detected in wastewater. Existing wastewater treatment plants (WWTPs) do not have the capacity to totally eliminate antimicrobial-resistant bacteria favoring the evolution of ARGs in wastewater. Besides facilitating the emergence of AMR, biofilms contribute significantly to biofouling process within the activated sludge of WWTP bioreactors. This paper presents the inhibition of biofilm formation, the expression of biofilm-linked genes and ARGs by phytochemicals andrographolide, docosanol, lanosterol, quercetin, rutin and thymohydroquinone. Aeromonas species were isolated and purified from activated sludge samples. The ARGs were detected in the isolated Aeromonas species through PCR. Aeromonas biofilms were quantified following the application of biocompounds through the microtiter plate assay. qPCR analyses of related genes were done for confirmation. Findings showed that the natural compounds inhibited the formation of biofilms and reduced the expression of genes linked to biofilm production as well as ARGs in wastewater Aeromonas. This indicates the efficacy of these compounds in targeting and controlling both ARGs and biofilm formation, highlighting their potential as innovative solutions for combating antimicrobial resistance and biofouling. 
 
 <br> 
 
-<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1476605>
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1456700>
 
 ---
 
-## Diagnostic value of effusion adenosine deaminase, γ-interferon release assay and effusion lactatedehy drogenase/effusion adenosine deaminase for tuberculous pleural effusion in patients aged 60 years and above
+## Porphyromonas gingivalis triggers microglia activation and neurodegenerative processes through NOX4
 
-date: 2024-10-09, from: Frontiers in Cellular and Infection Microbiology
+date: 2024-10-14, from: Frontiers in Cellular and Infection Microbiology
 
-BackgroundChina is experiencing rapid growth in its population of older adults, which may lead to increased susceptibility to tuberculous pleural effusion (TPE) due to age-related changes in the immune system. This study aimed to investigate the diagnostic potential of multiple biomarkers in individuals aged 60 years and above with pleural effusion.MethodsA total of 519 adult patients from Ningbo First Hospital were included in the study, with 7 biomarkers and their ratios in serum and pleural effusion analyzed using logistic regression analysis. Effusion Adenosine Deaminase(ADA), γ-Interferon Release Assay(IGRA), and Effusion lactatedehy drogenase(LDH)/Effusion ADA were identified as valuable parameters for differentiating TPE from non-TPE, particularly in individuals aged 60 years and older.ResultsEffusion ADA, IGRA, and Effusion LDH/Effusion ADA were identified as valuable parameters for the differential diagnosis of TPE from non-TPE, showing good diagnostic performance in individuals aged 60 years and older. The combined diagnosis of these three indexes achieved the highest diagnostic accuracy for TPE in this age group, with an AUC of 0.925, sensitivity of 85.23%, and specificity of 89.57%.ConclusionsOverall, the study highlights the importance of using multiple indicators for a combined diagnosis to improve diagnostic efficacy in detecting tuberculous pleurisy in older individuals as for young patients. 
+Periodontitis and infections with periodontal bacteria have been highlighted as risk factors for dementia. In recent years, attention has been drawn to the role of microglia cells in neurodegenerative diseases. However, there is limited knowledge of the influence of periodontal bacteria on microglia cells. The aim of the present study was to investigate the interactions between the periodontal bacteria Porphyromonas gingivalis and microglia cells and to unravel whether these interactions could contribute to the pathology of Alzheimer’s disease. We found, through microarray analysis, that stimulation of microglia cells with P. gingivalis resulted in the upregulation of several Alzheimer’s disease-associated genes, including NOX4. We also showed that P. gingivalis lipopolysaccharides (LPS) mediated reactive oxygen species (ROS) production and interleukin 6 (IL-6) and interleukin 8 (IL-8) induction via NOX4 in microglia. The viability of neurons was shown to be reduced by conditioned media from microglia cells stimulated with P. gingivalis LPS and the reduction was NOX4 dependent. The levels of total and phosphorylated tau in neurons were increased by conditioned media from microglia cells stimulated with P. gingivalis or LPS. This increase was NOX4-dependent. In summary, our findings provide us with a potential mechanistic explanation of how the periodontal pathogen P. gingivalis could trigger or exacerbate AD pathogenesis. 
 
 <br> 
 
-<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1444238>
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1451683>
 
 ---
 
-## Macrophage variants in laboratory research: most are well done, but some are RAW
+## Genetic characterization of Neisseria meningitidis isolates recovered from patients with invasive meningococcal disease in Lithuania
 
-date: 2024-10-09, from: Frontiers in Cellular and Infection Microbiology
+date: 2024-10-14, from: Frontiers in Cellular and Infection Microbiology
 
-Macrophages play a pivotal role in the innate immune response. While their most characteristic function is phagocytosis, it is important not to solely characterize macrophages by this activity. Their crucial roles in body development, homeostasis, repair, and immune responses against pathogens necessitate a broader understanding. Macrophages exhibit remarkable plasticity, allowing them to modify their functional characteristics in response to the tissue microenvironment (tissue type, presence of pathogens or inflammation, and specific signals from neighboring cells) swiftly. While there is no single defined “macrophage” entity, there is a diverse array of macrophage types because macrophage ontogeny involves the differentiation of progenitor cells into tissue-resident macrophages, as well as the recruitment and differentiation of circulating monocytes in response to tissue-specific cues. In addition, macrophages continuously sense and respond to environmental cues and tissue conditions, adjusting their functional and metabolic states accordingly. Consequently, it is of paramount importance to comprehend the heterogeneous origins and functions of macrophages employed in in vitro studies, as each available in vitro macrophage model is associated with specific sets of strengths and limitations. This review centers its attention on a comprehensive comparison between immortalized mouse macrophage cell lines and primary mouse macrophages. It provides a detailed analysis of the strengths and weaknesses inherent in these in vitro models. Finally, it explores the subtle distinctions between diverse macrophage cell lines, offering insights into numerous factors beyond the model type that can profoundly influence macrophage function. 
+IntroductionNeisseria meningitidis is a gram-negative bacterium responsible for life-threatening invasive infections known as invasive meningococcal disease and is associated with high fatality rates and serious lifelong disabilities among survivors.MethodsThis study aimed to characterize N. meningitidis isolates cultured from blood and cerebrospinal fluid collected between 2009 and 2021 in Lithuania, assess their genomic relationships with European strains, and evaluate the possibility of using a cost-effective method for strain characterization, thus improving the national molecular surveillance of invasive meningococcal disease. In total, 321 N. meningitidis isolates were collected and analyzed using multilocus restriction typing (MLRT). Amplification of the penA gene and restriction fragment length polymorphism analysis were performed to identify the modified penA genes. Based on the MLRT genotyping results, we selected 10 strains for additional analysis using whole-genome sequencing. The sequenced genomes were incorporated into a dataset of publicly available N. meningitidis genomes to evaluate genomic diversity and establish phylogenetic relationships within the Lithuanian and European circulating strains.ResultsWe identified 83 different strains using MLRT genotyping. Genomic diversity of N. meningitidis genomes analysed revealed 21 different sequence types (STs) circulating in Lithuania. Among these, ST34 was the most prevalent. Notably, three isolates displayed unique combinations of seven housekeeping genes and were identified as novel STs: ST16969, ST16901, and ST16959. The analyzed strains were found to possess virulence factors not commonly found in N. meningitidis. Six distinct penA profiles were identified, each with different frequencies. In the present study, we also identified N. meningitidis strains with new penA, NEIS0123, NEIS1320, NEIS1525, NEIS1600, and NEIS1753 loci variants. In our study, using the cgMLST scheme, Minimum Spanning Tree (MST) analysis did not identify significant geographic relationships between Lithuanian N. meningitidis isolates and strains from Europe.DiscussionDiscussion: To our knowledge, this is the first study to employ whole genome sequencing (WGS) method for a comprehensive genetic characterization of invasive N. meningitidis isolates from Lithuania. This approach provides a more detailed and precise analysis of genomic relationships and diversity compared to prior studies relying on traditional molecular typing methods and antigen analysis. 
 
 <br> 
 
-<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1457323>
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1432197>
 
 ---
 
-## Identification of porcine PARP11 as a restricted factor for pseudorabies virus
+## Trypanosoma cruzi-derived exovesicles contribute to parasite infection, tissue damage, and apoptotic cell death during ex vivo infection of human placental explants
 
-date: 2024-10-09, from: Frontiers in Cellular and Infection Microbiology
+date: 2024-10-14, from: Frontiers in Cellular and Infection Microbiology
 
-IntroductionPRV infection in swine can cause devastating disease and pose a potential threat to humans. Advancing the interplay between PRV and host is essential to elucidate the pathogenic mechanism of PRV and identify novel anti-PRV targets.MethodsPARP11-KO PK-15 cells were firstly constructed by CRISPR/Cas9 technology. Next, the effect of PARP11-KO on PRV infection was determined by RT-qPCR, TCID50 assay, RNA-seq, and western blot.Results and discussionIn this study, we identified PARP11 as a host factor that can significantly affect PRV infection. Inhibition of PARP11 and knockout of PARP11 can significantly promoted PRV infection. Subsequently, we further found that PARP11 knockout upregulated the transcription of NXF1 and CRM1, resulting in enhanced transcription of viral genes. Furthermore, we also found that PARP11 knockout could activate the autophagy pathway and suppress the mTOR pathway during PRV infection. These findings could provide insight into the mechanism in which PARP11 participated during PRV infection and offer a potential target to develop anti-PRV therapies. 
-
-<br> 
-
-<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1414827>
-
----
-
-## Insights into the intestinal microbiota of Exopalaemon annandalei and Exopalaemon carinicauda in the Yangtze River estuary
-
-date: 2024-10-09, from: Frontiers in Cellular and Infection Microbiology
-
-Summary: The gut microbiota plays a crucial role in food webs, carbon cycling, and related elements. Exopalaemon annandalei and Exopalaemon carinicauda are two important forage species in the Yangtze River estuary with extremely similar living habits and morphological characteristics. Exploring the microorganisms in the guts of these two shrimp species can help us understand the survival status of forage species and gut microbiota in the Yangtze River estuary. Therefore, this study analyzed the similarities and differences in the intestinal flora of E. annandalei and E. carinicauda through high-throughput sequencing of 16S rRNA gene amplicons. The results showed that the dominant bacteria in the intestinal flora of E. annandalei and E. carinicauda at the phylum level were Proteobacteria and Firmicutes, respectively. At the genus level, the intestinal flora had higher concentrations of Psychrobacter, Bacillus, Pseudomonas, Acinetobacter, and Macrococcus. In both shrimp species, the contents of Acinetobacter and Macrococcus were higher in spring than in winter. The most important potential functions of the intestinal microbiota were amino acid metabolism and purine metabolism. Additionally, the functions of metabolism and diseases in the intestinal microbiota of E. annandalei were greatly influenced by the season. Furthermore, the experimental results indicated that a lower ratio of Firmicutes to Bacteroidetes was associated with a larger body weight in shrimp. Overall, this study provides a theoretical reference for understanding the intestinal bacterial community of shrimp in estuaries and the healthy cultivation of E. annandalei and E. carinicauda. 
+Trypanosoma cruzi, the causative agent of Chagas disease, can be congenitally transmitted by crossing the placental barrier. This study investigates the role of T. cruzi-derived exovesicles (TcEVs) in facilitating parasite infection and the consequent tissue damage and apoptotic cell death in human placental explants (HPEs). Our findings demonstrate that TcEVs significantly enhance the parasite load and induce tissue damage in HPEs, both in the presence and absence of the parasite. Through histopathological and immunohistochemical analyses, we show that TcEVs alone can disrupt the placental barrier, affecting the basal membrane and villous stroma. The induction of apoptotic cell death is evidenced by DNA fragmentation, caspase 8 and 3, and p18 fragment immunodetection. This damage is exacerbated when TcEVs are combined with T. cruzi infection. These findings suggest that TcEVs play a critical role in the pathogenesis of congenital Chagas disease by disrupting the placental barrier and facilitating parasite transmission to the fetus. This study provides new insights into the mechanisms of transplacental transmission of T. cruzi and highlights the potential of targeting TcEVs as a therapeutic strategy against congenital Chagas disease. 
 
 <br> 
 
-<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1420928>
-
----
-
-## Multidimensional analysis of the impact of Gemmatimonas, Rhodothermus, and Sutterella on drug and treatment response in colorectal cancer
-
-date: 2024-10-08, from: Frontiers in Cellular and Infection Microbiology
-
-BackgroundColorectal cancer is the third most prevalent cancer across the globe. Despite a diversity of treatment methods, the recurrence and mortality rates of the disease remain high. Recent studies have revealed a close association of the gut microbiota with the occurrence, development, treatment response, and prognosis of colorectal cancer.ObjectiveThis study aims to integrate transcriptome and microbiome data to identify colorectal cancer subtypes associated with different gut microbiota and evaluate their roles in patient survival prognosis, tumor microenvironment (TME), and drug treatment response.MethodsAn integrated analysis of microbiome data was conducted on samples of colorectal cancer from public databases. Based on this, two tumor subtypes (C1 and C2) closely associated with patient survival prognosis were identified and a risk score model was constructed. The survival status, clinical parameters, immune scores, and other features were analyzed in-depth, and the sensitivity of various potential drugs was examined.ResultsA thorough examination of microbiome information obtained from colorectal cancer patients led to the identification of two primary tumor clusters (C1 and C2), exhibiting notable variations in survival outcomes. Patients with the C1 subtype were closely associated with better prognosis, while those with the C2 subtype had higher gut microbial richness and poorer survival prognosis. A predictive model utilizing the microbiome data was developed to accurately forecast the survival outcome of patients with colorectal cancer. The TME scores provided a biological basis for risk assessment in high-risk (similar to the C2 subtype) patient cohorts. Evaluation of the sensitivity of different subtypes to various potential drugs, indicated the critical importance of personalized treatment. Further analysis showed good potential of the developed risk-scoring model in predicting immune checkpoint functions and treatment response of patients, which may be crucial in guiding the selection of immunotherapy strategies for patients with colorectal cancer.ConclusionThis study, through a comprehensive analysis of colorectal cancer microbiome, immune microenvironment, and drug sensitivity, enhances the current understanding of the multidimensional interactions of colorectal cancer and provides important clinical indications for improving future treatment strategies. The findings offer a new perspective on improving treatment response and long-term prognosis of patients with CRC through the regulation of microbiota or the utilization of biomarkers provided by it. 
-
-<br> 
-
-<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1457461>
-
----
-
-## Gut bacteria: an etiological agent in human pathological conditions
-
-date: 2024-10-08, from: Frontiers in Cellular and Infection Microbiology
-
-Through complex interactions with the host’s immune and physiological systems, gut bacteria play a critical role as etiological agents in a variety of human diseases, having an impact that extends beyond their mere presence and affects the onset, progression, and severity of the disease. Gaining a comprehensive understanding of these microbial interactions is crucial to improving our understanding of disease pathogenesis and creating tailored treatment methods. Correcting microbial imbalances may open new avenues for disease prevention and treatment approaches, according to preliminary data. The gut microbiota exerts an integral part in the pathogenesis of numerous health conditions, including metabolic, neurological, renal, cardiovascular, and gastrointestinal problems as well as COVID-19, according to recent studies. The crucial significance of the microbiome in disease pathogenesis is highlighted by this role, which is comparable to that of hereditary variables. This review investigates the etiological contributions of the gut microbiome to human diseases, its interactions with the host, and the development of prospective therapeutic approaches. To fully harness the benefits of gut microbiome dynamics for improving human health, future research should address existing methodological challenges and deepen our knowledge of microbial interactions. 
-
-<br> 
-
-<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1291148>
-
----
-
-## Evaluation of immune sensor responses to a viral small noncoding RNA
-
-date: 2024-10-08, from: Frontiers in Cellular and Infection Microbiology
-
-IntroductionGammaherpesviruses are widespread pathogens causing persistent infections linked to the development of numerous types of lymphomas in humans. During latency, most of the viral protein-coding genes are suppressed, facilitating evasion of adaptive immune recognition of protein antigens. In contrast, many noncoding RNA (ncRNA) molecules are expressed in infected cells and can regulate key cellular pathways while simultaneously evading adaptive immune recognition. To counteract this, many cells express internal pattern recognition receptors that can intrinsically sense ongoing infections and initiate cellular defenses. Murine gammaherpesvirus 68 (MHV68) is a valuable model to study in vivo aspects of gammaherpesvirus pathogenesis. The MHV68 ncRNA TMER4 (tRNA-miRNA-encoding RNA 4) promotes lymph node egress of infected B cells: in the absence of TMER4, MHV68-infected B cells accumulate in the lymph node in a manner similar to B cells activated through specific antigen encounter.MethodWe hypothesized that TMER4 may alter intrinsic immune activation. In research described here, we aimed to explore the immunomodulatory functions of TMER4 by evaluating its impact on signaling through the critical immune sensors Toll-like receptor 4 (TLR4), TLR3, TLR7, and retinoic acid-inducible gene I (RIG-I). To accomplish this, we developed a system to test noncoding RNAs using commercially available reporter cell lines. We optimized the experimental procedure to ensure ncRNA expression and to quantify immune sensory molecule induction or inhibition by the expressed ncRNA.Results and discussionExpression of TMER4 RNAs from plasmid constructs did not alter TLR or RIG-I signaling. This study provides a clear experimental framework that can be applied to test other small ncRNAs for their impact on various innate immune sensor proteins. 
-
-<br> 
-
-<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1459256>
-
----
-
-## Synergistic effects of antimicrobial components of the human-derived composite amnion-chorion membrane on bacterial growth
-
-date: 2024-10-07, from: Frontiers in Cellular and Infection Microbiology
-
-IntroductionThe human-derived amnion-chorion membrane (ACM) has endogenous antimicrobial properties, which are important for preventing the colonization and survival of oral bacteria on exposed membranes. This project aimed to decipher the underlying mechanism by identifying the components of ACM that confer antibacterial properties. In addition, the antimicrobial efficacy of these identified components on oral bacteria was assessed.MethodsFour antimicrobial proteins, histone H2A/H2B, cathelicidin LL-37, lactoferrin, and lysozyme, were identified via mass spectrometry in ACM. These proteins were then assessed for their efficacy in killing Streptococcus gordonii Challis. Log-phased bacterial cells were cultured with the commercially available proteins that were identified in ACM, either individually or in combination, at different concentrations. After incubation for 8 or 24 hours, the bacteria were stained with a live/dead viability kit and analyzed via confocal microscopy.ResultsThe combination of these proteins effectively killed S. gordonii in a dose-dependent fashion after 8 or 24 hours of incubation. When each protein was tested individually, it killed S. gordonii at a much lower efficacy relative to the combinations. The synergistic effects of the antimicrobial protein combinations were also observed in both the viable cell count recovery and minimum inhibitory concentration assays.DiscussionBy shedding light on the mechanisms in the ACM’s antimicrobial property, this study may raise more awareness of the potential benefit of utilization of a membrane with endogenous antimicrobial properties in regeneration surgeries. 
-
-<br> 
-
-<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1472737>
-
----
-
-## Antifungal susceptibility, molecular epidemiology, and clinical risk factors of Candida glabrata in intensive care unit in a Chinese Tertiary Hospital
-
-date: 2024-10-07, from: Frontiers in Cellular and Infection Microbiology
-
-BackgroundThe increasing incidence and high mortality rate of Candida glabrata infection in ICU patients is an important issue. Therefore, it is imperative to investigate the antifungal susceptibility profiles and epidemiological characteristics in local regions.MethodsHerein, antifungal susceptibility testing was conducted to determine the minimum inhibitory concentrations (MICs) of eight antifungal drugs. Multilocus sequence typing (MLST) was used to study the strain genotype, geographical distribution, and susceptibility to antifungal agents among C. glabrata isolates. The mechanism of echinocandin resistance was explored by sequencing the FKS1 and FKS2 genes (encoding 1,3-β-D-glucan synthases) of echinocandin-resistant C. glabrata strains. Moreover, we further investigated the clinical manifestations and the various risk factors of patients infected with C. glabrata in the ICU.ResultsWe selected 234 C. glabrata isolates from 234 patients in the ICU randomly for the follow-up study. Cross-resistance was found among the ICU C. glabrata isolates. Analysis using MLST showed that the genetic diversity among the C. glabrata isolates was low. Furthermore, sequence type showed no correlation with the antifungal resistance profiles, but was associated with geographical distribution. We also revealed novel mutations in FKS1 (S629P) and FKS2 (W1497stop) that mediated high-level echinocandin resistance (MIC >8 µg/mL). More than 14 days’ stay in ICU (P=0.007), Acute Physiology and Chronic Health Evaluation II (APACHE-II) score (P=0.024), prior antifungal exposure (P=0.039) and lung disease (P=0.036) were significantly associated with antifungal resistant/non-wild-type C. glabrata infection.ConclusionOur study shed light on the antifungal susceptibility, molecular epidemiology, and clinical risk factors of C. glabrata in the ICU of a Chinese Tertiary Hospital. Importantly, we revealed the molecular mechanism of echinocandin resistance. These results highlight the significance of continued surveillance in ICUs and provide data support for the treatment of C. glabrata in clinics. 
-
-<br> 
-
-<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1455145>
-
----
-
-## Bacteriophage-mediated approaches for biofilm control
-
-date: 2024-10-07, from: Frontiers in Cellular and Infection Microbiology
-
-Biofilms are complex microbial communities in which planktonic and dormant bacteria are enveloped in extracellular polymeric substances (EPS) such as exopolysaccharides, proteins, lipids, and DNA. These multicellular structures present resistance to conventional antimicrobial treatments, including antibiotics. The formation of biofilms raises considerable concern in healthcare settings, biofilms can exacerbate infections in patients and compromise the integrity of medical devices employed during treatment. Similarly, certain bacterial species contribute to bulking, foaming, and biofilm development in water environments such as wastewater treatment plants, water reservoirs, and aquaculture facilities. Additionally, food production facilities provide ideal conditions for establishing bacterial biofilms, which can serve as reservoirs for foodborne pathogens. Efforts to combat antibiotic resistance involve exploring various strategies, including bacteriophage therapy. Research has been conducted on the effects of phages and their individual proteins to assess their potential for biofilm removal. However, challenges persist, prompting the examination of refined approaches such as drug-phage combination therapies, phage cocktails, and genetically modified phages for clinical applications. This review aims to highlight the progress regarding bacteriophage-based approaches for biofilm eradication in different settings. 
-
-<br> 
-
-<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1428637>
-
----
-
-## The RNA m5C methyltransferase NSUN1 modulates human malaria gene expression during intraerythrocytic development
-
-date: 2024-10-07, from: Frontiers in Cellular and Infection Microbiology
-
-IntroductionPlasmodium falciparum is the most damaging malaria pathogen and brings a heavy burden to global health. Host switching and morphological changes in P. falciparum are dependent on an effective gene expression regulatory system. C5 methylation of cytosines is a common RNA modification in eukaryotes, and the NSUN family are essential m5C modification executors. Currently, little is known about this family in Plasmodium spp. In this study, we focus on exploring the function of PfNSUN1 protein.MethodsAn efficient CRISPR/Cas9 gene editing technique was applied to construct the PfNSUN1 knockdown strain. The knockdown efficiency was confirmed by growth curves and western blot experiments. The knockdown transcriptome data was acquired to find differentially expressed genes, and target genes of PfNSUN1 protein were identified by RNA immunoprecipitation and high-throughput sequencing experiments.ResultsThe efficiency of PfNSUN1 protein down-regulated was about 34%. RNA-seq data revealed that differentially expressed genes were mainly down-regulated. And there were 224, 278, 556 genes that were down-regulated with more than 2-fold changes and p-adj<0.05 at ring, trophozoite and schizont stages, respectively. PfNSUN1 protein was significantly enriched on 154 target genes, including 28S ribosomal RNA and pfap2-g5 transcription factor.DiscussionPfNSUN1 is a crucial RNA post-transcriptional modification protein in P. falciparum. It plays a pivotal role in regulating gene expression and parasite growth by targeting 28S ribosomal RNA and pfap2-g5 transcription factor. 
-
-<br> 
-
-<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1474229>
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1437339>
 
