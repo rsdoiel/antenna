@@ -1,11 +1,47 @@
 ---
 title: food
-updated: 2024-10-15 08:04:43
+updated: 2024-10-15 08:49:11
 ---
 
 # food
 
-(date: 2024-10-15 08:04:43)
+(date: 2024-10-15 08:49:11)
+
+---
+
+## Fair Trade USA Names Private Label Expert Clay Dockery Head of Coffee
+
+date: 2024-10-15, from: Daily Coffee News
+
+<div><img width="620" height="450" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-620x450.png" class="attachment-large size-large wp-post-image" alt="Fair-Trade-certified" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-620x450.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-300x218.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-150x109.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-768x557.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Sustainability certification group Fair Trade USA recently named private label industry veteran Clay Dockery as head of coffee. The appointment comes amidst a transitional period for the Oakland-based nonprofit, whose... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/10/15/fair-trade-usa-names-private-label-expert-clay-dockery-head-of-coffee/>
+
+---
+
+## Mad Catter Coffee Roasters is Up and Purring in Pennsylvania
+
+date: 2024-10-15, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Mad-Catter-Coffee-Roasters-Allentown-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Mad Catter Coffee Roasters Allentown 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Mad-Catter-Coffee-Roasters-Allentown-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Mad-Catter-Coffee-Roasters-Allentown-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Mad-Catter-Coffee-Roasters-Allentown-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Mad-Catter-Coffee-Roasters-Allentown-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Mad-Catter-Coffee-Roasters-Allentown-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The specialty coffee rabbit hole for Pennsylvania&#8217;s Mad Catter Coffee Roasters got exponentially deeper last month with the opening of the company&#8217;s spacious production roastery and training facility in Allentown.... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/10/15/mad-catter-coffee-roasters-is-up-and-purring-in-pennsylvania/>
+
+---
+
+## Go for the Gold (Mountain) in This New Sample Roasting Competition
+
+date: 2024-10-15, from: Daily Coffee News
+
+<div><img width="620" height="405" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/maceracion-carbonica-pacamara-620x405.jpg" class="attachment-large size-large wp-post-image" alt="maceración carbónica pacamara" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/maceracion-carbonica-pacamara-620x405.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/maceracion-carbonica-pacamara-300x196.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/maceracion-carbonica-pacamara-150x98.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/maceracion-carbonica-pacamara-768x501.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/maceracion-carbonica-pacamara.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Sample roasting, a standard practice in green coffee evaluation and purchasing, is generally considered a means to an end. Yet a new small-scale competition led by Nicaraguan green coffee specialist... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/10/15/go-for-the-gold-mountain-in-this-new-sample-roasting-competition/>
 
 ---
 
@@ -495,7 +531,7 @@ Alfajores are sandwich-like cookies made from tender, chewy cookies and a dulce 
 
 date: 2024-10-14, from: Daily Coffee News
 
-<div><img width="620" height="323" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/ROY-header-2025-620x323.jpg" class="attachment-large size-large wp-post-image" alt="ROY-header-2025" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/ROY-header-2025-620x323.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/ROY-header-2025-300x156.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/ROY-header-2025-150x78.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/ROY-header-2025-768x400.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/ROY-header-2025.jpg 1200w" sizes="(max-width: 620px) 100vw, 620px" /></div>Roast&#160;magazine is thrilled to announce the six finalists for the&#160;21st Annual Roaster of the Year awards! Roast recognizes winners from two categories: Micro Roaster (companies roasting less than 100,000 pounds... 
+<div><img width="620" height="323" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/ROY-header-2025-620x323.jpg" class="attachment-large size-large wp-post-image" alt="ROY-header-2025" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/ROY-header-2025-620x323.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/ROY-header-2025-300x156.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/ROY-header-2025-150x78.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/ROY-header-2025-768x400.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/ROY-header-2025.jpg 1200w" sizes="(max-width: 620px) 100vw, 620px" /></div>Roast&#160;magazine is thrilled to announce the six finalists for the&#160;21st Annual Roaster of the Year awards! Roast recognizes winners from two categories: Micro Roaster (companies roasting less than 100,000 pounds... 
 
 <br> 
 
@@ -523,7 +559,7 @@ date: 2024-10-14, from: Isebel Eats
 
 date: 2024-10-14, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Brooklyn-coffee-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Brooklyn coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Brooklyn-coffee-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Brooklyn-coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Brooklyn-coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Brooklyn-coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Brooklyn-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A New York City specialty coffee chain called White Noise Coffee is facing a lawsuit from the United States Department of Labor (DOL) alleging violations related to overtime pay and... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Brooklyn-coffee-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Brooklyn coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Brooklyn-coffee-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Brooklyn-coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Brooklyn-coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Brooklyn-coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Brooklyn-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A New York City specialty coffee chain called White Noise Coffee is facing a lawsuit from the United States Department of Labor (DOL) alleging violations related to overtime pay and... 
 
 <br> 
 
@@ -535,7 +571,7 @@ date: 2024-10-14, from: Daily Coffee News
 
 date: 2024-10-14, from: Daily Coffee News
 
-<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Caffewerks-1-620x349.jpg" class="attachment-large size-large wp-post-image" alt="Caffewerks 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Caffewerks-1-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Caffewerks-1-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Caffewerks-1-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Caffewerks-1-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Caffewerks-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Coffee machine parts and accessories seller Caffewerks recently rolled out a line of espresso machine components called BaristaFLO. The BaristaFlo line is designed to offer robust and affordable options for... 
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Caffewerks-1-620x349.jpg" class="attachment-large size-large wp-post-image" alt="Caffewerks 1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Caffewerks-1-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Caffewerks-1-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Caffewerks-1-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Caffewerks-1-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Caffewerks-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Coffee machine parts and accessories seller Caffewerks recently rolled out a line of espresso machine components called BaristaFLO. The BaristaFlo line is designed to offer robust and affordable options for... 
 
 <br> 
 

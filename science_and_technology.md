@@ -1,11 +1,23 @@
 ---
 title: science and technology
-updated: 2024-10-15 08:04:43
+updated: 2024-10-15 08:49:10
 ---
 
 # science and technology
 
-(date: 2024-10-15 08:04:43)
+(date: 2024-10-15 08:49:10)
+
+---
+
+## Windows 11 24H2 disk space hoarding a 'reporting error'
+
+date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
+
+<h4>Microsoft adds another item to the known issues list</h4> <p>Microsoft has confirmed that the mysterious missing storage on Windows 11 24H2 devices is due to a &#34;reporting error&#34; in the operating system&#39;s cleanup tool.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/15/windows_11_24h2_disk_space/>
 
 ---
 
@@ -18,6 +30,18 @@ date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2024/10/15/norway_datacenter_biofuel/>
+
+---
+
+## Eclipse Megamovie Coding Competition
+
+date: 2024-10-15, from: NASA breaking news
+
+Making the most of a solar eclipse demands attention to detail. Do you have what it takes? NASA’s Eclipse Megamovie project launched a new coding competition, and they need your help to organize images from the April 8, 2024 total solar eclipse. This is your chance to make a lasting contribution to solar science! The […] 
+
+<br> 
+
+<https://science.nasa.gov/get-involved/citizen-science/eclipse-megamovie-coding-competition/>
 
 ---
 
@@ -45,7 +69,7 @@ date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
 
 ---
 
-## Microsoft says governments should bear the responsibility for dealing with cybercrime
+## Microsoft says tougher punishments needed for state-sponsored cybercriminals
 
 date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
 

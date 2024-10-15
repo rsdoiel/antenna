@@ -6,14 +6,20 @@ TODAY = $(shell date +%Y-%m-%d)
 
 SKIM_FILE = news.skim
 
-build: todays_feeds
-
-news_fetch: .FORCE
-	-skimmer news.txt
-
-todays_feeds: .FORCE
-	./todays_feeds.bash
+build: skim markdown html index
 	git add today-$(TODAY).md
 	git add today-$(TODAY).html
+
+skim: .FORCE
+	./build_snapshot.bash skim
+
+markdown: .FORCE
+	./build_snapshot.bash markdown
+
+html: .FORCE
+	./build_snapshot.bash html
+
+index: .FORCE
+	./build_snapshot.bash index
 
 .FORCE:

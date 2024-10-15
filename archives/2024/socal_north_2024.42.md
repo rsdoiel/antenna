@@ -1,11 +1,23 @@
 ---
 title: socal north
-updated: 2024-10-15 08:04:42
+updated: 2024-10-15 08:49:10
 ---
 
 # socal north
 
-(date: 2024-10-15 08:04:42)
+(date: 2024-10-15 08:49:10)
+
+---
+
+## Patchy fog this morning followed by sunny skies and cool weather
+
+date: 2024-10-15, updated: 2024-10-15, from: The LAist
+
+It's finally sweater weather. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/patchy-fog-sunny-skies-cool-weather>
 
 ---
 

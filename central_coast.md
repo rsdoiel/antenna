@@ -1,11 +1,11 @@
 ---
 title: central coast
-updated: 2024-10-15 08:04:43
+updated: 2024-10-15 08:49:10
 ---
 
 # central coast
 
-(date: 2024-10-15 08:04:43)
+(date: 2024-10-15 08:49:10)
 
 ---
 

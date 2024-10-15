@@ -8,8 +8,8 @@ if [ "$WORKING_BRANCH" = "gh-pages" ]; then
 else
     echo "You're in $WORKING_BRANCH branch"
     echo "You need to pull in changes to the gh-pages branch to publish"
-    read -p "Pull into gh-pages and publish? Y/N " YES_NO
-    if [ "$YES_NO" = "Y" ] || [ "$YES_NO" = "y" ]; then
+    #read -p "Pull into gh-pages and publish? Y/N " YES_NO
+    #if [ "$YES_NO" = "Y" ] || [ "$YES_NO" = "y" ]; then
         echo "Committing and pushing to $WORKING_BRANCH"
         git commit -am "commiting to $WORKING_BANCH";
         git push origin "$WORKING_BRANCH";
@@ -26,5 +26,5 @@ else
         git push origin gh-pages
         echo "Changing back to your working branch $WORKING_BRANCH"
         git checkout "$WORKING_BRANCH"
-    fi
+    #fi
 fi

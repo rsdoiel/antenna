@@ -1,11 +1,59 @@
 ---
 title: writing
-updated: 2024-10-15 08:04:43
+updated: 2024-10-15 08:49:10
 ---
 
 # writing
 
-(date: 2024-10-15 08:04:43)
+(date: 2024-10-15 08:49:10)
+
+---
+
+## New Books, 15 October 2024
+
+date: 2024-10-15, from: Locus Magazine
+
+<p>Baxter, Stephen: <b>Fortress Sol</b>
+(Orion UK/Gollancz 9781399614610, $14.99, 480pp, formats: ebook, audio, 10/17/2024)</p>
+<p>SF novel. Rab&#8217;s mother, in order to save him from a life in the hellish mines of Mercury, cut off his hand when he was a baby. Decades later, Rab works on the Mask, the structure that hides the Solar System from aliens, when a spaceship from a long-forgotten colony approaches, threatening that security.</p>
+<p>&#160;</p>
+<p>Blake, Olivie:  <a href="https://locusmag.com/2024/10/new-books-15-october-2024/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/10/new-books-15-october-2024/>
+
+---
+
+## People & Publishing Roundup, October 2024
+
+date: 2024-10-15, from: Locus Magazine
+
+<div></div>
+<div class="catheader"><strong>MILESTONES</strong></div>
+
+<p><strong>VIDA CRUZ-BORJA </strong>is now represented by Stevie Finegan of Zeno Agency Ltd.</p>
+<p>&#160;</p>
+<div class="catheader"><strong>BOOKS SOLD</strong></div>
+
+<p><strong>SCOTT WESTERFELD </strong>&#38; <strong>JUS­TINE LARBALESTIER </strong>sold adult novel <strong>The Mortons </strong>– “<strong>The Secret History </strong>meets <strong>The Sopranos </strong>meets <strong>Saltburn</strong>,” – and a second book to Jeramie Orton at Pamela Dorman Books at auction via Jill Grinberg of Jill Grinberg Literary Management. UK rights sold to Rosa Schierenberg at Viking UK in a  <a href="https://locusmag.com/2024/10/people-publishing-roundup-october-2024/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/10/people-publishing-roundup-october-2024/>
+
+---
+
+## The Jaguar Mask by Michael J. DeLuca: Review by Niall Harrison
+
+date: 2024-10-15, from: Locus Magazine
+
+<p><strong>The Jaguar Mask</strong>, Michael J. DeLuca (Stelliform 978-1-77809-260-2, 348pp, $19.00, tp) August 2024. Cover by Julia Louise Pereira.</p>
+<p>The story of <strong>The Jaguar Mask </strong>does not start on the first page, in which the artist Cristina Ramos relives the murder of her mother in a garish vision – four tattooed mareros with machine pistols, haloed by angels of death, gunning down two government employees, a foreign lobbyist, and Eufemia  <a href="https://locusmag.com/2024/10/the-jaguar-mask-by-michael-j-deluca-review-by-niall-harrison/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/10/the-jaguar-mask-by-michael-j-deluca-review-by-niall-harrison/>
 
 ---
 

@@ -1,11 +1,43 @@
 ---
 title: going electric
-updated: 2024-10-15 08:04:43
+updated: 2024-10-15 08:49:11
 ---
 
 # going electric
 
-(date: 2024-10-15 08:04:43)
+(date: 2024-10-15 08:49:11)
+
+---
+
+## This is the 2025 VW ID. Buzz’s Electrify America charging package
+
+date: 2024-10-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/ea-idbuzz.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Volkswagen of America and Electrify America today announced a three-year charging plan for the 2025 ID. Buzz. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrify-america,volkswagen,volkswagen-id-buzz,vw,vw-id-buzz,vw-id-4" data-layer-viewtype="unknown" data-post-id="384294" href="https://electrek.co/2024/10/15/2025-vw-id-buzz-electrify-america/#more-384294" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/15/2025-vw-id-buzz-electrify-america/>
+
+---
+
+## Zero Labs unveils electric Land Rover conversion that goes 120 mph as ‘the anti-Cybertruck’
+
+date: 2024-10-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Electric-land-rover-Cybertruck.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>EV conversion specialist <a href="https://electrek.co/guides/zero-labs/">Zero Labs</a> is back with a reimagined all-electric design on the classic Land Rover Series 109. This 2025 conversion features Zero Labs’ proprietary Generation 4 EV platform and nearly 4,000 design upgrades for enhanced safety and performance. Oh, and this iconic box on wheels can go 120 mph.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-conversion,land-rover,zero-labs" data-layer-viewtype="unknown" data-post-id="384252" href="https://electrek.co/2024/10/15/zero-labs-unveils-electric-land-rover-conversion-120-mph-anti-cybertruck/#more-384252" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/15/zero-labs-unveils-electric-land-rover-conversion-120-mph-anti-cybertruck/>
 
 ---
 

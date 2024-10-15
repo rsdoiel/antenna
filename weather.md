@@ -1,11 +1,11 @@
 ---
 title: weather
-updated: 2024-10-15 08:04:43
+updated: 2024-10-15 08:49:10
 ---
 
 # weather
 
-(date: 2024-10-15 08:04:43)
+(date: 2024-10-15 08:49:10)
 
 ---
 
@@ -105,26 +105,27 @@ weak (generally less than 200 J/kg) peak MLCAPE.
 
 ---
 
-## Eastern Pacific Tropical Weather Outlook
+## Eastern North Pacific Tropical Weather Outlook
 
-date: 2024-10-15, from: Eastern Pacific Tropical Weather Outlook
+date: 2024-10-15, from: Eastern Pacific Basin Tropical Cyclones
 
- <br />
- 000<br />
- ABPZ20 KNHC 151145<br />
- TWOEP <br />
- <br />
- Tropical Weather Outlook<br />
- NWS National Hurricane Center Miami FL<br />
- 500 AM PDT Tue Oct 15 2024<br />
- <br />
- For the eastern North Pacific...east of 140 degrees west longitude:<br />
- <br />
- Tropical cyclone formation is not expected during the next 7 days.<br />
- <br />
- $$<br />
- Forecaster Berg<br />
-  
+
+<br/>
+000<br/>
+ABPZ20 KNHC 151145<br/>
+TWOEP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+500 AM PDT Tue Oct 15 2024<br/>
+<br/>
+For the eastern North Pacific...east of 140 degrees west longitude:<br/>
+<br/>
+Tropical cyclone formation is not expected during the next 7 days.<br/>
+<br/>
+$$<br/>
+Forecaster Berg<br/>
+ 
 
 <br> 
 
@@ -154,6 +155,34 @@ ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS N
 
 ---
 
+## Central North Pacific Tropical Weather Outlook
+
+date: 2024-10-15, from: Central Pacific Basin Tropical Cyclones
+
+
+<br/>
+000<br/>
+ACPN50 PHFO 151123<br/>
+TWOCP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS Central Pacific Hurricane Center Honolulu HI<br/>
+200 AM HST Tue Oct 15 2024<br/>
+<br/>
+For the central North Pacific...between 140W and 180W:<br/>
+<br/>
+No tropical cyclones are expected during the next 7 days.<br/>
+<br/>
+$$<br/>
+Forecaster Jelsema<br/>
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
 ## There are no tropical cyclones at this time.
 
 date: 2024-10-15, from: Central Pacific Basin Tropical Cyclones
@@ -163,18 +192,6 @@ No tropical cyclones as of Tue, 15 Oct 2024 14:33:16 GMT
 <br> 
 
 <https://www.nhc.noaa.gov/>
-
----
-
-## Central Pacific Tropical Weather Outlook
-
-date: 2024-10-15, from: Central Pacific Tropical Weather Outlook
-
-   
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
 
 ---
 

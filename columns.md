@@ -1,11 +1,23 @@
 ---
 title: columns
-updated: 2024-10-15 08:04:43
+updated: 2024-10-15 08:49:10
 ---
 
 # columns
 
-(date: 2024-10-15 08:04:43)
+(date: 2024-10-15 08:49:10)
+
+---
+
+##  Ward Christensen, BBS inventor and architect of our online age, dies at... 
+
+date: 2024-10-15, updated: 2024-10-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045444-ward-christensen-bbs-inve>
 
 ---
 

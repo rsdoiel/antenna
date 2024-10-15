@@ -1,11 +1,23 @@
 ---
 title: games
-updated: 2024-10-15 08:04:43
+updated: 2024-10-15 08:49:10
 ---
 
 # games
 
-(date: 2024-10-15 08:04:43)
+(date: 2024-10-15 08:49:10)
+
+---
+
+## Meet the 27-inch OLED gaming monitor that is, dare I say, budget-friendly
+
+date: 2024-10-15, updated: 2024-10-15, from: Polygon Website
+
+If you’re in the market for a 27-inch 1440p OLED gaming monitor with fast refresh rates and near-instant response time, most models out there from big name brands like LG, Samsung, and MSI sell for $600 or more. Generally speaking, they cost way less than they used to, but it’s still pricey! However, enough time [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/465794/27-inch-oled-gaming-monitor-deal-innocn>
 
 ---
 
