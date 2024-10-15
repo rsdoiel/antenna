@@ -125,7 +125,6 @@ $(md_files): .FORCE
 		>$@
 	mkdir -p $(YEAR)
 	cp -v "$@" "archives/$(YEAR)/$(basename $@)_$(VOL_NO).md"
-	git add "archives/$(YEAR)/$(basename $@)_$(VOL_NO).md"
 
 html: front_page.tmpl $(html_files)
 
