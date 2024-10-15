@@ -234,16 +234,6 @@ refresh:
 	git pull origin $(BRANCH)
 
 publish: .FORCE
-<<<<<<< HEAD
-	@if [ "$(msg)" != "" ]; then git commit -am "$(msg)"; else git commit -am "Publish Site"; fi
-	git push origin main
-	git checkout gh-pages
-	git pull origin main
-	git commit -am "merge main into gh-pages"
-	git push origin gh-pages
-	git checkout main
-=======
 	./publish.bash
->>>>>>> b358c0cb75a02acd938111e2a7cf9d9ca0a61b7b
 
 .FORCE:

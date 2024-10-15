@@ -1,35 +1,11 @@
 ---
-<<<<<<< HEAD
 title: games
-<<<<<<< HEAD
-<<<<<<< HEAD
-updated: 2024-10-12 12:29:31
-=======
-title: games 2024.16
-updated: 2024-04-15 17:45:32
->>>>>>> db8684dc7a59d46927bb2d211d4e32e9950603e7
-=======
-updated: 2024-10-13 09:42:44
->>>>>>> b358c0cb75a02acd938111e2a7cf9d9ca0a61b7b
-=======
-updated: 2024-10-15 08:04:43
->>>>>>> 02987fc0fab85ba53d2054fefa16a597b5b5c4d5
+updated: 2024-10-15 08:11:02
 ---
 
 # games
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-(date: 2024-10-12 12:29:31)
-=======
-(date: 2024-04-15 17:45:32)
->>>>>>> db8684dc7a59d46927bb2d211d4e32e9950603e7
-=======
-(date: 2024-10-13 09:42:44)
-=======
-(date: 2024-10-15 08:04:43)
->>>>>>> 02987fc0fab85ba53d2054fefa16a597b5b5c4d5
+(date: 2024-10-15 08:11:02)
 
 ---
 
@@ -125,12 +101,7 @@ Bungie’s Destiny franchise is coming to a new platform with Destiny: Rising, a
 
 <br> 
 
-<<<<<<< HEAD
-<https://www.polygon.com/gaming/465087/zelda-echoes-of-wisdom-music-rules>
->>>>>>> b358c0cb75a02acd938111e2a7cf9d9ca0a61b7b
-=======
 <https://www.polygon.com/news/465606/destiny-rising-mobile-bungie-netease>
->>>>>>> 02987fc0fab85ba53d2054fefa16a597b5b5c4d5
 
 ---
 

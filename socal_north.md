@@ -1,35 +1,11 @@
 ---
-<<<<<<< HEAD
 title: socal north
-<<<<<<< HEAD
-<<<<<<< HEAD
-updated: 2024-10-12 12:29:27
-=======
-title: socal north 2024.16
-updated: 2024-04-15 17:45:30
->>>>>>> db8684dc7a59d46927bb2d211d4e32e9950603e7
-=======
-updated: 2024-10-13 09:42:40
->>>>>>> b358c0cb75a02acd938111e2a7cf9d9ca0a61b7b
-=======
-updated: 2024-10-15 08:04:42
->>>>>>> 02987fc0fab85ba53d2054fefa16a597b5b5c4d5
+updated: 2024-10-15 08:11:01
 ---
 
 # socal north
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-(date: 2024-10-12 12:29:27)
-=======
-(date: 2024-04-15 17:45:30)
->>>>>>> db8684dc7a59d46927bb2d211d4e32e9950603e7
-=======
-(date: 2024-10-13 09:42:40)
-=======
-(date: 2024-10-15 08:04:42)
->>>>>>> 02987fc0fab85ba53d2054fefa16a597b5b5c4d5
+(date: 2024-10-15 08:11:01)
 
 ---
 
@@ -77,12 +53,7 @@ With only weeks to a divisive election it can be hard to talk politics. Polariza
 
 <br> 
 
-<<<<<<< HEAD
-<https://laist.com/news/climate-environment/to-see-the-brightest-comet-since-2006-hit-the-beach-this-month>
->>>>>>> b358c0cb75a02acd938111e2a7cf9d9ca0a61b7b
-=======
 <https://laist.com/news/politics/political-disagreements-stressing-tips-bridge-the-divide>
->>>>>>> 02987fc0fab85ba53d2054fefa16a597b5b5c4d5
 
 ---
 

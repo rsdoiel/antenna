@@ -1,34 +1,11 @@
 ---
-<<<<<<< HEAD
 title: retro computing
-<<<<<<< HEAD
-<<<<<<< HEAD
-updated: 2024-10-12 12:29:36
-=======
-title: retro computing 2024.16
-updated: 2024-04-15 17:45:32
->>>>>>> db8684dc7a59d46927bb2d211d4e32e9950603e7
-=======
-updated: 2024-10-13 09:42:47
->>>>>>> b358c0cb75a02acd938111e2a7cf9d9ca0a61b7b
-=======
-updated: 2024-10-15 08:04:43
->>>>>>> 02987fc0fab85ba53d2054fefa16a597b5b5c4d5
+updated: 2024-10-15 08:11:03
 ---
 
 # retro computing
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-(date: 2024-10-12 12:29:36)
-=======
-(date: 2024-04-15 17:45:32)
->>>>>>> db8684dc7a59d46927bb2d211d4e32e9950603e7
-=======
-(date: 2024-10-13 09:42:47)
-=======
-(date: 2024-10-15 08:04:43)
+(date: 2024-10-15 08:11:03)
 
 ---
 
@@ -77,7 +54,6 @@ It's now less than 2 weeks to go until the return of the London Show.....
 <br> 
 
 <http://www.iconbar.com/comments/rss/news2113.html>
->>>>>>> 02987fc0fab85ba53d2054fefa16a597b5b5c4d5
 
 ---
 
@@ -987,5 +963,4 @@ Somewhat, anyway.
 <br> 
 
 <https://oldvcr.blogspot.com/2024/10/refurb-weekend-symbolics-macivory-lisp.html>
->>>>>>> b358c0cb75a02acd938111e2a7cf9d9ca0a61b7b
 
