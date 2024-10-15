@@ -4,21 +4,14 @@
 
 TODAY = $(shell date +%Y-%m-%d)
 
+SKIM_FILE = news.skim
+
 build: todays_feeds
 
 news_fetch: .FORCE
 	-skimmer news.txt
 
-news_assemble: .FORCE
-	sqlite3 news.skim "DELETE FROM items WHERE LOWER(QUOTE(dc_ext)) LIKE '%sponsor%'"
-	sqlite3 news.skim "UPDATE items SET status = 'read'"
-	sqlite3 news.skim "UPDATE items SET status = 'saved' WHERE published >= '$(TODAY)' AND published <= '$(TODAY)'"
-	skim2md -title "Snaphots" \
-		-frontmatter news.skim \
-		>today-$(TODAY).md
-
-
-todays_feeds: news_fetch news_assemble .FORCE
+todays_feeds: .FORCE
 	./todays_feeds.bash
 	git add today-$(TODAY).md
 	git add today-$(TODAY).html

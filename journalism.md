@@ -1,11 +1,135 @@
 ---
 title: journalism
-updated: 2024-10-14 19:27:18
+updated: 2024-10-15 08:04:43
 ---
 
 # journalism
 
-(date: 2024-10-14 19:27:18)
+(date: 2024-10-15 08:04:43)
+
+---
+
+## The City of Santa Claria is planning for bigger and better parks in 2025
+
+date: 2024-10-15, from: The Canyon News (COC Student Newspaper)
+
+<p>The city of Santa Clarita installed a new staircase to Central Park&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/the-city-of-santa-claria-is-planning-for-bigger-and-better-parks-in-2025/">The City of Santa Claria is planning for bigger and better parks in 2025</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/the-city-of-santa-claria-is-planning-for-bigger-and-better-parks-in-2025/>
+
+---
+
+## Classifieds – October 15, 2024
+
+date: 2024-10-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/15/classifieds-october-15-2024/">Classifieds &#8211; October 15, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/15/classifieds-october-15-2024/>
+
+---
+
+## Thornton freshman honored by LA Jazz Society
+
+date: 2024-10-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Taylor Lee received the New Talent award and performed at the ceremony on Oct. 5.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/15/thornton-freshman-honored-by-la-jazz-society/">Thornton freshman honored by LA Jazz Society</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/15/thornton-freshman-honored-by-la-jazz-society/>
+
+---
+
+## Awkwardness is just main character energy
+
+date: 2024-10-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>You don’t have to be cool to feel like the protagonist: lessons from cringe comedy.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/15/cringe-comedy-showed-me-how-to-accept-my-awkwardness/">Awkwardness is just main character energy</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/15/cringe-comedy-showed-me-how-to-accept-my-awkwardness/>
+
+---
+
+## Football loses on final play, again
+
+date: 2024-10-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC lost its third game to No. 3 Penn State after it had a 14 point lead at halftime.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/15/football-loses-on-final-play-again/">Football loses on final play, again</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/15/football-loses-on-final-play-again/>
+
+---
+
+## Soccer keeps dominating Big Ten competition
+
+date: 2024-10-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans had a successful weekend with big wins over Illinois and Northwestern.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/15/soccer-keeps-dominating-big-ten-competition/">Soccer keeps dominating Big Ten competition</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/15/soccer-keeps-dominating-big-ten-competition/>
+
+---
+
+## East LA community pushes back on HSC expansion
+
+date: 2024-10-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The City Council-approved research facility has seen rallies, emails and appeals.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/15/city-council-approves-development-of-health-sciences-campus-research-hub/">East LA community pushes back on HSC expansion</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/15/city-council-approves-development-of-health-sciences-campus-research-hub/>
+
+---
+
+## Editorial Cartoon: “Stingy Sorbet”
+
+date: 2024-10-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2024/10/14/editorial-cartoon-stingy-sorbet/>
+
+---
+
+## The 21st Annual Duck Dash looked to make a splash for local familys in need
+
+date: 2024-10-15, from: The Canyon News (COC Student Newspaper)
+
+<p>In Santa Clarita&#8217;s triple-digit heat, the Samuel Dixon Family Health Center held&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/the-21st-annual-duck-dash-looked-to-make-splash-for-local-familys-in-need/">The 21st Annual Duck Dash looked to make a splash for local familys in need</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/the-21st-annual-duck-dash-looked-to-make-splash-for-local-familys-in-need/>
 
 ---
 

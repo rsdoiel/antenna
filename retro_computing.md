@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2024-10-14 19:27:18
+updated: 2024-10-15 08:04:43
 ---
 
 # retro computing
 
-(date: 2024-10-14 19:27:18)
+(date: 2024-10-15 08:04:43)
+
+---
+
+## Intel's Inboard 386/PC
+
+date: 2024-10-15, from: Computer ads from the Past
+
+Welcome to the 1990s. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/intels-inboard-386pc>
 
 ---
 

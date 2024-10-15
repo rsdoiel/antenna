@@ -1,11 +1,171 @@
 ---
 title: going electric
-updated: 2024-10-14 19:27:18
+updated: 2024-10-15 08:04:43
 ---
 
 # going electric
 
-(date: 2024-10-14 19:27:18)
+(date: 2024-10-15 08:04:43)
+
+---
+
+## 2025 Lucid Air Pure Falls Short Of EPA Range In 70 MPH Range Test
+
+date: 2024-10-15, from: Inside EVs News
+
+Lucid shrunk the Air Pure’s battery from 88 to 84 kWh, but it actually gained one extra mile of EPA range. 
+
+<br> 
+
+<https://insideevs.com/news/737469/lucid-air-pure-range-test/>
+
+---
+
+## Renault unveils its R4 E-Tech electric SUV with a ‘sub-€30K’ price tag
+
+date: 2024-10-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/7a6c5659e0855e2fe4ac1385f4aa271d-l.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>At the Paris auto show this week, Renault unveiled its latest all-electric offering, the Renault 4 E-Tech, a nod to the brand’s 1960’s Renault 4L hatchback – one of its greatest bestsellers.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="renault,stellantis" data-layer-viewtype="unknown" data-post-id="384250" href="https://electrek.co/2024/10/15/renault-unveils-its-r4-e-tech-electric-suv-with-a-sub-e30k-price-tag/#more-384250" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/15/renault-unveils-its-r4-e-tech-electric-suv-with-a-sub-e30k-price-tag/>
+
+---
+
+## Tesla needs to come clean about HW3 before the word ‘fraud’ comes out
+
+date: 2024-10-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The walls are closing on Tesla’s claim that millions of its vehicles with Hardware 3 (HW3) computers will be capable of unsupervised self-driving.  </p>
+
+
+
+<p>Tesla needs to come clean before the word “fraud” comes out.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="384081" href="https://electrek.co/2024/10/15/tesla-needs-to-come-clean-about-hw3-before-the-word-fraud-comes-out/#more-384081" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/15/tesla-needs-to-come-clean-about-hw3-before-the-word-fraud-comes-out/>
+
+---
+
+## Hyundai’s new Inster EV Cross is a bold twist on the electric city car
+
+date: 2024-10-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Hyundais-Inster-EV-Cross.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/hyundai/">Hyiundai’s</a> new Inster EV Cross isn’t just another electric car to drive around town. It’s built for more than just getting to work and back. With a rugged design, added features, and over 220 miles (360 km) of all-electric range, Hyundai’s new Inster EV Cross can tackle all your “mini-adventures.”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="384246" href="https://electrek.co/2024/10/15/hyundais-new-inster-ev-cross-bold-twist-electric-city-car/#more-384246" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/15/hyundais-new-inster-ev-cross-bold-twist-electric-city-car/>
+
+---
+
+## Tariffs Aren't Going To Stop China's EVs From Marching On Europe
+
+date: 2024-10-15, from: Inside EVs News
+
+Plus, the Cybertruck reservation list isn't so exclusive anymore, and Toyota warns that going full-EV threatens Japan's job market. 
+
+<br> 
+
+<https://insideevs.com/news/737374/byd-germany-europe-tariffs-anyway/>
+
+---
+
+## Will Most Used EVs End Up Around $25,000? New Data Says 'Maybe.'
+
+date: 2024-10-15, from: Inside EVs News
+
+The used EV market has blown up quickly and prices are falling to a certain magic number, thanks to tax credits. 
+
+<br> 
+
+<https://insideevs.com/news/737377/used-ev-sales-25k-2024/>
+
+---
+
+## Nevada is getting the world’s first lithium-sulfur battery gigafactory
+
+date: 2024-10-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Lyten-Reno-gigafactory.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Supermaterials trailblazer Lyten will invest over $1 billion to build the world’s first lithium-sulfur battery gigafactory in Reno, Nevada. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-manufacturing,ev-batteries,lithium,nevada,stellantis" data-layer-viewtype="unknown" data-post-id="384221" href="https://electrek.co/2024/10/15/nevada-is-getting-the-worlds-first-lithium-sulfur-battery-gigafactory/#more-384221" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/15/nevada-is-getting-the-worlds-first-lithium-sulfur-battery-gigafactory/>
+
+---
+
+## Ram 1500 REV Electric Pickup Heading To Europe With ‘Best-In-Class Range’
+
+date: 2024-10-15, from: Inside EVs News
+
+European buyers don’t have a lot of choice in the electric pickup segment. Stellantis, Ram’s parent company, wants to change that. 
+
+<br> 
+
+<https://insideevs.com/news/737465/ram-1500-rev-europe-2025/>
+
+---
+
+## It’s game over for EVBox – French energy giant Engie shuts it down
+
+date: 2024-10-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/10/508269-EvBox-TroniqHP_Individual_0004-1-7a0312-large-1697627823.png?w=1000" /></div><p>France’s Engie says it will liquidate the entire EVBox group, which the company says posted total losses of €800 million since Engie took over in 2017.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="evbox" data-layer-viewtype="unknown" data-post-id="384238" href="https://electrek.co/2024/10/15/french-energy-giant-engie-to-shut-down-evbox/#more-384238" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/15/french-energy-giant-engie-to-shut-down-evbox/>
+
+---
+
+## Global EV And PHEV Sales Just Reached A New Record In September
+
+date: 2024-10-15, from: Inside EVs News
+
+Sales of fully electric and plug-in hybrid vehicles went up by a whopping 30.5% last month. 
+
+<br> 
+
+<https://insideevs.com/news/737401/ev-sales-record-september/>
+
+---
+
+## Worrying signs point to potential bankruptcy at major electric motorcycle maker
+
+date: 2024-10-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/energica-experia-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Energica, Europe’s leading electric motorcycle maker and often considered ‘the Ducati of e-motorcycles’, appears to be in financial distress. New reports from local media indicate that the Italian motorcycle maker may be headed for collapse.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bankruptcy,electric-motorcycle" data-layer-viewtype="unknown" data-post-id="384228" href="https://electrek.co/2024/10/14/worrying-signs-point-to-potential-bankruptcy-at-major-electric-motorcycle-maker/#more-384228" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/14/worrying-signs-point-to-potential-bankruptcy-at-major-electric-motorcycle-maker/>
 
 ---
 

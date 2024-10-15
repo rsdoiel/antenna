@@ -1,11 +1,83 @@
 ---
 title: games
-updated: 2024-10-14 19:27:18
+updated: 2024-10-15 08:04:43
 ---
 
 # games
 
-(date: 2024-10-14 19:27:18)
+(date: 2024-10-15 08:04:43)
+
+---
+
+## Netflix just added the canceled sitcom of two of the funniest guys around
+
+date: 2024-10-15, updated: 2024-10-11, from: Polygon Website
+
+So you’ve watched all of I Think You Should Leave and you want more of Tim Robinson yelling? You’re in luck.&#160; Sure, there is, technically, nothing stopping you from looking up clips of his standup on YouTube, just as there’s no limit to rewatching I Think You Should Leave. But maybe you’re thinking to yourself, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/465361/netflix-detroiters-watch-it-best-comedians>
+
+---
+
+## Street Fighter 6 collector’s edition vinyl soundtrack is $66 at Amazon
+
+date: 2024-10-15, updated: 2024-10-15, from: Polygon Website
+
+I’m a big fan of ambient lo-fi music, but sometimes I need something to wake me up — which is especially true following a three-day weekend, as many readers are probably feeling right now. And what better way to get hyped for the day/week/month ahead than with the bombastic and eclectic grooves of the Street [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/465793/street-fighter-6-ost-vinyl-sf6>
+
+---
+
+## The Halloween Countdown: 31 days of horror to watch
+
+date: 2024-10-15, updated: 2024-10-15, from: Polygon Website
+
+Do you feel that? That chill in the air, that tingling sensation at the back of your neck? It can only mean one thing. That’s right: Halloween season is once again upon us! Here at Polygon, we love horror. We cover it all year round, whether it’s ranking the scariest new releases of the year [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream>
+
+---
+
+## Matt Mercer, Deborah Ann Woll, other professional DMs helped write the new Dungeon Master’s Guide
+
+date: 2024-10-15, updated: 2024-10-11, from: Polygon Website
+
+The revised Dungeons &#38; Dragons Dungeon Master’s Guide (2024) will begin trickling out to fans around the world soon thanks to Wizards of the Coast’s aggressively tiered digital pre-release schedule. However, the community that enjoys the world’s most popular tabletop role-playing game is in a very different place than it was just a decade ago, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dnd-dungeons-dragons/465448/matt-mercer-deborah-ann-woll-consultants-dmg-dungeon-masters-guide>
+
+---
+
+## Tim Burton’s Batman has a new sequel, driven by one fan’s burning questions
+
+date: 2024-10-15, updated: 2024-10-15, from: Polygon Website
+
+Usually, a sequel to one of the biggest movies of all time would be carefully concocted in a Hollywood boardroom to maximize four-quadrant potential. John Jackson Miller wrote his continuation of Tim Burton’s mega-hit Batman over the last year in his memorabilia-filled office in central Wisconsin. Miller has been thinking about how to follow up [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/books/465391/batman-resurrection-book-tim-burton-sequel>
+
+---
+
+## ‘Magnetic Study’ Plusle Timed Research and event guide in Pokémon Go
+
+date: 2024-10-15, updated: 2024-10-15, from: Polygon Website
+
+“Magnetic Study” is an electric-type focused event taking place in the “Max Out” season of Pokémon Go. Running Oct. 15-17, each day of the event has a unique bonus to take advantage of, as well as Timed Research focused around one of three Pokémon: Magnemite, Plusle, and Minun. These Pokémon can also be caught throughout [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/465770/magnetic-study-plusle-minun-magnemite-timed-research-event>
 
 ---
 
@@ -78,18 +150,6 @@ I’ve had a few friends ask me what I think of The Penguin, HBO’s spinoff min
 <br> 
 
 <https://www.polygon.com/tv/465170/batman-penguin-hbo-sofia-falcone-episode-hangman-murders>
-
----
-
-## The Halloween Countdown: 31 days of horror to watch
-
-date: 2024-10-14, updated: 2024-10-14, from: Polygon Website
-
-Do you feel that? That chill in the air, that tingling sensation at the back of your neck? It can only mean one thing. That’s right: Halloween season is once again upon us! Here at Polygon, we love horror. We cover it all year round, whether it’s ranking the scariest new releases of the year [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream>
 
 ---
 

@@ -1,11 +1,310 @@
 ---
 title: north america
-updated: 2024-10-14 19:27:17
+updated: 2024-10-15 08:04:42
 ---
 
 # north america
 
-(date: 2024-10-14 19:27:17)
+(date: 2024-10-15 08:04:42)
+
+---
+
+## Chinese Pandas arrive in US, headed to National Zoo in Washington
+
+date: 2024-10-15, from: VOA News USA
+
+Washington — The National Zoo's long dark panda drought is coming to an end.
+
+
+Eleven months after the zoo sent its three wildly popular pandas — Mei Xiang, Tian Tian and their cub Xiao Qi Ji — back to China, a new pair of bears arrived in the United States on Tuesday. They will be transported from Dulles International Airport in suburban Virginia to the zoo.
+
+
+A pair of three-year old giant pandas, named Bao Li and Qing Bao, have left a research facility in the southwestern Chinese city of Dujiangyan before being flown to Washington, according to a statement by the China Wildlife Conservation Association.
+
+
+"Food prepared for the trip includes corn bread, bamboo and carrots, as well as water and medicine," the statement said, adding that the partnership will "make new contributions in protecting global biodiversity and enhance the friendship of the people from the two countries."
+
+
+It's unclear exactly when the bears will arrive in Washington, but there will likely be an extended quarantine and acclimation period before they are introduced to the public. On Monday evening, the zoo's website posted an alert that the entire facility would be closed Tuesday, without giving a reason. The lead article on the site still said the pandas would be coming sometime before the end of the year.
+
+
+Bao Li (precious vigor) and Qing Bao (green treasure) arrive in Washington as part of a new 10-year agreement with Chinese authorities. The previous deal expired last year, leading to some concern among American panda-lovers that Beijing was gradually pulling its furry friendship ambassadors from American zoos amid rising diplomatic tensions.
+
+
+Breeding pairs in zoos in Memphis and San Diego had already returned to China earlier and the four pandas in the Atlanta zoo left for China last week.
+
+
+That anxiety turned to optimism last November when Chinese President Xi Jinping publicly stated a desire to continue the panda exchange programs. This year, a new pair of bears has been delivered to the San Diego Zoo, while another pair has been promised to San Francisco.
+
+
+In Washington, National Zoo officials remained conspicuously silent about negotiations for a new panda agreement, but they expressed optimism about striking a new deal and launched a multimillion-dollar renovation of its panda enclosure in anticipation. Then in late May, zoo director Brandie Smith teamed up with first lady Jill Biden to announce that Bao Li and Qing Bao would be arriving by the end of this year.
+
+
+The Chinese announcement said the National Zoo had sent "three experienced keepers and veterinary experts" to China to assist the transport and accompany the bears.
+
+
+Zoo officials on Monday declined to confirm the Chinese announcement. Zoo spokesperson Jennifer Zoon said in an email, "For the safety of animals and staff, we are not able to confirm any details at this time." But signs at the zoo and on its social media site have heralded the planned return of the pandas and panda-themed merchandise still dominates the gift shops.
+
+
+"The giant pandas are an iconic part of the Washington, D.C., story, both for locals and incoming travelers alike," said Elliott L. Ferguson, II, president and CEO of Destination DC. "The interest and excitement associated with their return directly benefits the entire city, bringing further interest and visitors to our hotels, restaurants and other attractions."
+
+
+The exact terms of the deal are still unclear; under previous 10-year agreements the Chinese government receives $1 million per year, per bear. Any cubs born in overseas zoos are typically returned to China before they reach age four.
+
+
+Pandas have become one of the unofficial symbols of the nation's capital, dating back to 1972 when the first pair — Ling Ling and Hsing Hsing — were sent as a gift from Chinese Premier Zhou Enlai following President Richard Nixon's historic diplomatic visit to China. Later, a rolling series of 10-year cooperation agreements was struck.
+
+
+Liu Pengyu, a spokesperson for the Chinese embassy in Washington, credited the decades of cooperation with advancing research into panda preservation and breeding. During the lifespan of these agreements, giant pandas have been reclassified from an endangered species to merely vulnerable.
+
+
+"The current round of cooperation will focus on prevention and treatment of major diseases, and protection of habitats and wild giant panda populations," Liu said in an email. "We hope the arrival of the pandas will inject fresh impetus into exchanges between China and the U.S., and help to stabilize the broader bilateral relationship as well." 
+
+<br> 
+
+<https://www.voanews.com/a/chinese-pandas-arrive-in-us-headed-to-national-zoo-in-washington/7822991.html>
+
+---
+
+## American couple runs across Ukraine to raise funds, help residents during war
+
+date: 2024-10-15, from: VOA News USA
+
+American couple Tyler and Nikki Chay are trying to keep the world's focus on the war in Ukraine in their own unique way … by running ... over 1,200 kilometers across Ukraine. From the Central Ukraine town of Khmelnytskyi, Tetiana Kukurika has the story, narrated by Anna Rice. (Camera: Sergiy Rybchynski ; Produced by: Vitaliy Hrychanyuk, Anna Rice) 
+
+<br> 
+
+<https://www.voanews.com/a/american-couple-runs-across-ukraine-to-raise-funds-help-residents-during-war/7822922.html>
+
+---
+
+## Microsoft: Cybercriminals increasingly help Russia, China, Iran target US, allies
+
+date: 2024-10-15, from: VOA News USA
+
+WASHINGTON — Russia, China and Iran are increasingly relying on criminal networks to lead cyberespionage and hacking operations against adversaries such as the United States, according to a report on digital threats published Tuesday by Microsoft.
+
+
+The growing collaboration between authoritarian governments and criminal hackers has alarmed national security officials and cybersecurity experts. They say it represents the increasingly blurred lines between actions directed by Beijing or the Kremlin aimed at undermining rivals and the illicit activities of groups typically more interested in financial gain.
+
+
+In one example, Microsoft's analysts found that a criminal hacking group with links to Iran infiltrated an Israeli dating site and then tried to sell or ransom the personal information it obtained. Microsoft concluded the hackers had two motives: to embarrass Israelis and make money.
+
+
+In another, investigators identified a Russian criminal network that infiltrated more than 50 electronic devices used by the Ukrainian military in June, apparently seeking access and information that could aid Russia's invasion of Ukraine. There was no obvious financial motive for the group, aside from any payment they may have received from Russia.
+
+
+Marriage of convenience
+
+
+For nations such as Russia, China, Iran and North Korea, teaming up with cybercriminals offers a marriage of convenience with benefits for both sides. Governments can boost the volume and effectiveness of cyber activities without added cost. For the criminals, it offers new avenues for profit and the promise of government protection.
+
+
+"We're seeing in each of these countries this trend toward combining nation-state and cybercriminal activities," said Tom Burt, Microsoft's vice president of customer security and trust.
+
+
+So far there is no evidence suggesting that Russia, China and Iran are sharing resources with each other or working with the same criminal networks, Burt said. But he said the growing use of private cyber "mercenaries" shows how far America's adversaries will go to weaponize the internet.
+
+
+Microsoft's report analyzed cyber threats between July 2023 and June 2024, looking at how criminals and foreign nations use hacking, spear phishing, malware and other techniques to gain access and control over a target's system. The company says its customers face more than 600 million such incidents every day.
+
+
+Russia focused much of its cyber operations on Ukraine, trying to enter military and government systems and spreading disinformation designed to undermine support for the war among its allies.
+
+
+Ukraine has responded with its own cyber efforts, including one last week that knocked some Russian state media outlets offline.
+
+
+US elections targeted
+
+
+Networks tied to Russia, China and Iran have also targeted American voters, using fake websites and social media accounts to spread false and misleading claims about the 2024 election. Analysts at Microsoft agree with the assessment of U.S. intelligence officials who say Russia is targeting the campaign of Vice President Kamala Harris, while Iran is working to oppose former President Donald Trump.
+
+
+Iran has also hacked into Trump's campaign and sought, unsuccessfully, to interest Democrats in the material. Federal officials have also accused Iran of covertly supporting American protests over the war in Gaza.
+
+
+Russia and Iran will likely accelerate the pace of their cyber operations targeting the U.S. as election day approaches, Burt said.
+
+
+China, meanwhile, has largely stayed out of the presidential race, focusing its disinformation on down-ballot races for Congress or state and local office. Microsoft found networks tied to Beijing also continue to target Taiwan and other countries in the region.
+
+
+Denials from all parties
+
+
+In response, a spokesperson for the Chinese Embassy in Washington said allegations that China partners with cybercriminals are groundless and accused the U.S. of spreading its own "disinformation about the so-called Chinese hacking threats."
+
+
+In a statement, spokesperson Liu Pengyu said that "our position is consistent and clear. China firmly opposes and combats cyberattacks and cybertheft in all forms."
+
+
+Russia and Iran have also rejected accusations that they're using cyber operations to target Americans. Messages left with representatives of those three nations and North Korea were not returned Monday.
+
+
+Efforts to disrupt foreign disinformation and cyber capabilities have escalated along with the threat, but the anonymous, porous nature of the internet sometimes undercuts the effectiveness of the response.
+
+
+Federal authorities recently announced plans to seize hundreds of website domains used by Russia to spread election disinformation and to support efforts to hack former U.S. military and intelligence figures. But investigators at the Atlantic Council's Digital Forensic Research Lab found that sites seized by the government can easily and quickly be replaced.
+
+
+Within one day of the Department of Justice seizing several domains in September, for example, researchers spotted 12 new websites created to take their place. One month later, they continue to operate. 
+
+<br> 
+
+<https://www.voanews.com/a/cybercriminals-increasingly-help-russia-china-iran-target-us-allies-/7822907.html>
+
+---
+
+## Get Ready for Another Mild Winter
+
+date: 2024-10-15, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MzgxNzExOS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc1NTAyMzA5N30.LYKj-r1nPnm3nMrH8sskWGw7w5Y9wSHogWPP-wbe22g/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>
+<em><strong>Current conditions:</strong> Severe flooding in Sri Lanka has closed schools and forced thousands from their homes • The U.K. could be warmer than Spain this week • It will be 95 degrees Fahrenheit today in Phoenix, which just marked 20 consecutive days of record heat.</em>
+</p><h2>THE TOP FIVE</h2><h3>1. AccuWeather forecasts another warm winter</h3><p>It’s looking like this winter will be another mild one. AccuWeather long-range experts are <a href="https://www.accuweather.com/en/winter-weather/winter-forecast-for-the-us-in-the-2024-25-season/1699821?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9sPbCXYi6r_wrmJCTgvm-KDtw4okqa7zHr5kWIt37_hFgaJspN3Y7SVFssKDNXRXwbfznC" rel="noopener noreferrer" target="_blank">forecasting</a> that most of the United States will see above-normal temperatures between December and February. The exception is the Northeast, which could be cooler and see more snow this year than last. Last winter, you may recall, was the warmest on record. In some southern states, temperatures this winter could run more than 3 degrees Fahrenheit above the historical average. “This will result in a noticeable reduction in heating demand, which could translate to lower heating bills for families and businesses,” AccuWeather said.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="3b58cf681748db50c7ef2bea6a7332db" data-rm-shortcode-name="rebelmouse-image" id="82bf9" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MzgxNzEyMi9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc1MzEyMjg4MH0.yKDqc-Q_KzGesCbjfAhk5V3BmI5l8DOD6fj4bOihh8Y/image.png?width=980"/>
+<small class="image-media media-photo-credit" placeholder="Add Photo Credit...">AccuWeater</small>
+</p><h3>2. Google teams up with Kairos to build new nuclear reactor plants </h3><p>
+	Google has signed an <a href="https://kairospower.com/external_updates/google-and-kairos-power-partner-to-deploy-500-mw-of-clean-electricity-generation/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9sPbCXYi6r_wrmJCTgvm-KDtw4okqa7zHr5kWIt37_hFgaJspN3Y7SVFssKDNXRXwbfznC" rel="noopener noreferrer" target="_blank">agreement</a> with Kairos Power to build and operate a fleet of advanced nuclear reactor plants that will generate 500 megawatts of clean power by 2035. Kairos will sell that electricity to Google to power its data centers. While other tech giants are also investing in nuclear to address their surging electricity needs (Amazon <a href="https://heatmap.news/technology/amazon-nuclear-talen-energy?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9sPbCXYi6r_wrmJCTgvm-KDtw4okqa7zHr5kWIt37_hFgaJspN3Y7SVFssKDNXRXwbfznC" rel="noopener" target="_self">bought</a> Talen Energy’s Cumulus data center campus; Microsoft is <a href="https://heatmap.news/economy/microsoft-three-mile-island-nuclear-constellation?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9sPbCXYi6r_wrmJCTgvm-KDtw4okqa7zHr5kWIt37_hFgaJspN3Y7SVFssKDNXRXwbfznC" rel="noopener" target="_self">backing</a> the revival of the Three Mile Island nuclear plant), Google is the first to commission new nuclear power plants for this purpose. The plan is to have the first reactor online by 2030. The <em><em>Financial Times</em></em> <a href="https://www.ft.com/content/29eaf03f-4970-40da-ae7c-c8b3283069da?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9sPbCXYi6r_wrmJCTgvm-KDtw4okqa7zHr5kWIt37_hFgaJspN3Y7SVFssKDNXRXwbfznC" rel="noopener noreferrer" target="_blank">noted</a> that the U.S. has only brought three reactors online in the last 20 years.
+</p><h3>3. Bill Gates: Climate tech has entered its ‘deployment era’</h3><p>
+	Bill Gates’ climate venture firm Breakthrough Energy is out today with its 2024 <a href="https://transition.breakthroughenergy.org/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9sPbCXYi6r_wrmJCTgvm-KDtw4okqa7zHr5kWIt37_hFgaJspN3Y7SVFssKDNXRXwbfznC" rel="noopener noreferrer" target="_blank">State of the Transition</a> report. The firm has invested $3.5 billion into more than 110 climate tech companies over the last nine years, and the report mostly discusses those projects’ progress, along with climate-tech investment strategies. Perhaps the most interesting part of the report is the letter from Gates himself, in which he says 2024 saw climate tech enter its “deployment era.” He wrote:
+</p><p>
+<em><em>“At Breakthrough Energy, we noticed a subtle, but important, perspective shift from both the investors and corporations we engage with. Major global investors … are finally getting off the sidelines and engaging in climate tech opportunities in meaningful ways. Meanwhile, corporate leaders increasingly understand that cleantech is not just about shrinking their carbon footprint. It’s also about strengthening their businesses and deploying their capital more efficiently.”</em></em>
+</p><h3>4. Report: Global South scaling renewables faster than Global North</h3><p>
+	Many of the world’s emerging economies are ramping up renewable energy deployment faster than more advanced economies, according to new <a href="https://rmi.org/insight/powering-up-the-global-south/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9sPbCXYi6r_wrmJCTgvm-KDtw4okqa7zHr5kWIt37_hFgaJspN3Y7SVFssKDNXRXwbfznC" rel="noopener noreferrer" target="_blank">analysis</a> from think tank RMI. These countries, scattered across the Global South (and excluding China, Eurasia, and the Middle East), are all showing clear trends, such as a surge in clean tech investment, exponential renewables growth, and solar and battery storage cost parity with fossil fuels. Much of this is driven by a lack of fossil fuel reserves, and a need for alternatives. In a third of developing countries, demand for fossil fuels has peaked. With enough investment, these trends could be supercharged, and the developing world could catch up with advanced economies’ energy transitions within five years. Climate coalition <a href="https://www.wemeanbusinesscoalition.org/launching-mission-2025/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9sPbCXYi6r_wrmJCTgvm-KDtw4okqa7zHr5kWIt37_hFgaJspN3Y7SVFssKDNXRXwbfznC" rel="noopener noreferrer" target="_blank">Mission 2025</a> used the report as an opportunity to reiterate its call for governments in rich countries to massively scale finance for low-income countries to reach the goal of tripling renewables by 2030.
+</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="d32c58827bdce1d72c46c8b9374b6115" data-rm-shortcode-name="rebelmouse-image" id="764e5" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MzgxNzEyNi9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTczNjc0NTc5MX0.7ZsdoO074UqPBrE3eV1OmFO5wRCFKXSuLdhSkAs5fLE/image.png?width=980"/>
+<small class="image-media media-photo-credit" placeholder="Add Photo Credit...">RMI</small>
+</p><h3>5. Research suggests Earth’s land absorbed almost no carbon last year</h3><p>
+	New preliminary <a href="https://arxiv.org/pdf/2407.12447?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9sPbCXYi6r_wrmJCTgvm-KDtw4okqa7zHr5kWIt37_hFgaJspN3Y7SVFssKDNXRXwbfznC" rel="noopener noreferrer" target="_blank">findings</a> from an international group of climate researchers found that, in 2023, the Earth’s land regions showed an “unprecedented weakening” in their ability to absorb carbon. Soil, grasslands, forests, and wetlands are some of the world’s greatest carbon sinks, helping to balance the climate. But last year, the hottest year on record, it looks as though they absorbed almost no carbon at all. The researchers say that if warming rates continue as they are, urgent action is needed “to enhance carbon sequestration and reduce greenhouse gasses emissions to net zero before reaching a dangerous level of warming at which natural CO2 sinks may no longer provide to humanity the mitigation service they have offered so far by absorbing half of human induced CO2 emissions.”
+</p><h2>THE KICKER</h2><p>
+	Tesla’s Optimus humanoid robots, which were on full display at the company’s recent Cybercab event, <a href="https://www.theverge.com/2024/10/13/24269131/tesla-optimus-robots-human-controlled-cybercab-we-robot-event?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9sPbCXYi6r_wrmJCTgvm-KDtw4okqa7zHr5kWIt37_hFgaJspN3Y7SVFssKDNXRXwbfznC" rel="noopener noreferrer" target="_blank">reportedly</a> were mostly controlled by humans.</p> 
+
+<br> 
+
+<https://heatmap.news/climate/winter-2024-weather-forecast-cold>
+
+---
+
+## Notes from a Nobel winner
+
+date: 2024-10-15, from: Marketplace Morning Report
+
+<p>On today&#8217;s program, we&#8217;re joined by Simon Johnson at MIT, who yesterday was one of several U.S. economists to win the Nobel Memorial Prize in Economic Sciences. He studied which systems and institutions contribute to prosperity and which contribute to poverty and inequality. We&#8217;ll hear Johnson&#8217;s conversation with &#8220;Marketplace Morning Report&#8221; host David Brancaccio. Also, Alphabet/Google is turning to nuclear reactors to fuel artificial intelligence systems.</p>
+ 
+
+<audio controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/15/mmr_20241015_MMR_2_64.mp3"></source>
+	<a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/15/mmr_20241015_MMR_2_64.mp3" target="_blank">audio/mpeg</a>
+</audio><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/notes-from-a-nobel-winner>
+
+---
+
+## Pakistan prepares for major international security summit
+
+date: 2024-10-15, from: Marketplace Morning Report
+
+<p><em>From the BBC World Service:</em> Leaders and officials from India, Pakistan, China and other countries in the region will meet in Islamabad during the Shanghai Cooperation Organisation summit to discuss how to boost their security, cooperation and economic ties. Then, competition from China and tariffs on Chinese-made cars take centerstage at the Paris Motor Show. And as some content becomes unavailable on streaming platforms, should we just buy more physical media?</p>
+ 
+
+<audio controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/15/mmr_20241015_MMR_1__64.mp3"></source>
+	<a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/15/mmr_20241015_MMR_1__64.mp3" target="_blank">audio/mpeg</a>
+</audio><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/pakistan-prepares-for-major-international-security-summit>
+
+---
+
+## Abundance, Not Additionality, Will Meet the Energy Demands of AI
+
+date: 2024-10-15, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MzY5NzIzNC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc1MDA0NTc5MH0.e7k6QjPpbpd1fi4NJJDJvBSpWVeobXY9PzRqIlAc76s/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">American electricity consumption is growing for the first time in generations. And though low-carbon technologies such as solar and wind have scaled impressively over the past decade, many observers are concerned that all this new demand will provide “a lifeline for more fossil fuel production,” as Senator Martin Heinrich <a href="https://www.heinrich.senate.gov/newsroom/press-releases/heinrich-welcomes-strong-treasury-guidance-on-45v-clean-hydrogen-tax-credit" rel="noopener noreferrer" target="_blank"><u>put it</u></a>.</p><p>In response, a few policy entrepreneurs have proposed novel regulations known as “additionality” requirements to handle new sources of electric load. First suggested for <a href="https://heatmap.news/economy/hydrogen-tax-credit-rules" target="_self"><u>electrolytic hydrogen</u></a>, additionality standards would require that subsidized hydrogen producers source their electricity directly from newly built low-carbon power plants; in a Heatmap piece from September, Brian Deese and Lisa Hansmann <a href="https://heatmap.news/technology/ai-additionality-framework" target="_self"><u>proposed similar requirements</u></a> for new artificial intelligence. And while AI data centers were their focus, the two argued that additionality “is a model that can be extended to address other sectors facing growing energy demand.”</p><p>There is some merit to additionality standards, particularly for commercial customers seeking to reduce their emissions profile. But we should be skeptical of writing these requirements into policy. Strict federal additionality regulations will dampen investment in new industries and electrification, reduce the efficiency of the electrical grid through the balkanization of supply and demand, and could become weapons as rotating government officials impose their views on which sources of demand or supply are eligible for the standards. The grid and the nation need a regulatory framework for energy abundance, not burdensome additionality rules.</p><p><br/></p><p class="drop-caps">After decades of end-use efficiency improvements, offshoring of manufacturing, and shifts toward <a href="https://www.newsweek.com/how-we-can-have-green-growth-increasing-human-population-prosperity-while-taking-better-care-1486342" target="_blank"><u>less material-intensive</u></a> economies, a confluence of emerging factors are pushing electricity demand back up again. For one, the nation is electrifying personal vehicles, home heating, and may do the same for industrial processes like steel production in the not-too-distant future, sparked by a combination of policy and commercial investment. Hydrogen, which has long been a marginal fuel, is attracting<a href="https://www.wsj.com/articles/hydrogen-demand-is-set-to-boom-but-growth-faces-big-hurdles-91954056" rel="noopener noreferrer" target="_blank"> <u>substantial interest</u></a>. And technological innovation is leading to whole new sources of electric load — compute-hungry artificial intelligence being<a href="https://www.wired.com/story/ai-energy-demands-water-impact-internet-hyper-consumption-era/" rel="noopener noreferrer" target="_blank"> <u>the most immediate example</u></a>, but also large-scale critical minerals refining, indoor agriculture like alternative protein cultivation and aquaculture, and so on.</p><p>In recent years, clean energy has seemed to be on an unstoppable path toward dominating the power sector. Coal-fired generation has been in terminal decline in the United States as natural gas power plants and solar and wind farms have become more competitive. Flexible gas generation, likewise, is increasingly crowded out by renewables when the wind is blowing and the sun shining. These trends persisted in the context of stable electricity load. But even as deployment accelerates, low-carbon electricity supply may not be able to keep up with the surprisingly robust growth in demand. The most obvious — though not the exclusive — way for utilities and large corporates to meet that demand is often with <a href="https://www.cnbc.com/2024/05/05/ai-could-drive-natural-gas-boom-as-utilities-face-surging-electric-demand.html" rel="noopener noreferrer" target="_blank"><u>new or existing natural gas capacity</u></a>. Even a few coal plants have delayed retirement, <a href="https://www.washingtonpost.com/business/interactive/2024/data-centers-internet-power-source-coal/" rel="noopener noreferrer" target="_blank"><u>reportedly</u></a> in response to rising demand and reliability concerns.</p><p>Given the durable competitiveness of coal and especially natural gas, some form of additionality requirement might make sense for hydrogen production in particular, since hydrogen is not just a nascent form of electric load but a novel fuel in its own right. Simply installing an electrolyzer at an existing coal or natural gas plant could produce hydrogen that, from a lifecycle perspective, would result in higher carbon emissions, even if it displaces fossil fuels like gas or oil in final consumption. Even so, many experts caution that <a href="https://www.csis.org/analysis/ai-additionality-wrong-solution-real-problem" rel="noopener noreferrer" target="_blank"><u>overly strict additionality standards</u></a> for hydrogen at this stage are overkill, and <a href="https://thebreakthrough.org/journal/no-20-spring-2024/two-pillars-not-three" rel="noopener noreferrer" target="_blank"><u>may smother the industry in its crib</u></a>.</p><p>Likewise, large corporate entities and electricity customers adopting additionality requirements for their own operations can bolster investment in so-called “clean firm” generation like nuclear, geothermal, and fossil fuels with carbon capture. In just the past month, Google <a href="https://www.wsj.com/business/energy-oil/google-nuclear-power-artificial-intelligence-87966624" rel="noopener noreferrer" target="_blank"><u>announced plans</u></a> to back the construction of new small nuclear reactors, and Microsoft <a href="https://heatmap.news/economy/microsoft-three-mile-island-nuclear-constellation" target="_self"><u>announced</u></a> plans to purchase electricity for new data centers from the shuttered Three Mile Island power plant, the plant made famous by the 1979 meltdown but which only closed down in 2019. Three Mile Island’s <a href="https://www.barrons.com/articles/microsoft-constellation-ai-stock-nuclear-power-30d0e00b" rel="noopener noreferrer" target="_blank"><u>$100-per-megawatt-hour price tag</u></a> would have been unthinkable just a few years ago but is newly attractive.</p><p>Notice the problem Microsoft is trying to solve here: a lack of abundant, reliable electricity generation. <a href="https://bipartisanpolicy.org/download/?file=/wp-content/uploads/2024/01/BPC_Nuclear-Permit-License-Reform-Issue-Brief.pdf" rel="noopener noreferrer" target="_blank"><u>Outdated technology licensing</u></a>, <a href="https://www.thecgo.org/benchmark/much-more-than-you-ever-wanted-to-know-about-nepa/" rel="noopener noreferrer" target="_blank"><u>onerous environmental permitting processes</u></a>, and <a href="https://www.employamerica.org/researchreports/hot-rocks-part-iii-barriers-to-next-gen-geothermal/" rel="noopener noreferrer" target="_blank"><u>other regulatory barriers</u></a> are obstructing the deployment of renewables, advanced nuclear energy, new enhanced geothermal technologies, and low-carbon sources. Additionality fixes none of these issues. Of course, Deese and Hansmann propose “a dedicated fast-track approval process” for verifiably additional low-carbon generation supplying new sources of AI load. Yet this should be the central effort, not the after-the-fact add-on. The back and forth over <a href="http://heatmap.news/economy/final-hydrogen-tax-credit-45v" target="_self"><u>additionality rules for the clean hydrogen tax credit</u></a> is a case in point. The rules for the tax credit will (likely) be finalized by January, but lawsuits already loom over them. Expanding this contentious additionality requirement to apply to broad use cases will be even more contentious without solving the actual shortage data center companies care about. Conversations about additionality are a distraction and misplace the energies of policymakers and staff.</p><p>Substituting one regulatory thicket for another is a recipe for stasis. Instead of adding more red tape, we should be working to cut through it, fast-tracking the energy transition and fostering abundance.</p><p>With such broad requirements, what’s to stop future administrations from expanding them to cover electric vehicle charging, electric arc furnace steelmaking, alternative protein production, or any politically disfavored source of new demand? Could a second Trump Administration use additionality to punish political enemies in the tech industry? Could a Harris Administration do the same? What if a future administration maintained additionality standards for new sources of load, but required that the electricity come from fossil fuels instead of low-carbon sources?</p><p>Zero-sum regulatory contracts between sources of electricity supply and demand are not simply at risk of becoming a tool for handing out favors on a partisan basis — they already are one. <a href="https://drive.google.com/drive/folders/1cqsBA7RdxT2PF0ac-WMFRzJjioYe3v04" rel="noopener noreferrer" target="_blank"><u>Two pieces of model legislation</u></a> proposed at the July meeting of the American Legislative Exchange Council, an organization of conservative state legislators that collaborate to write off-the-shelf legislative measures, would require public utility commissions to prioritize dispatchable generation and formally discourage intermittent renewable sources like solar and wind. One of the proposals suggests leaning on state attorneys general to extend the lifespans of coal plants threatened with retirement. </p><p>These proposals did not move forward this year, but it is unlikely that the motivating force behind them is exhausted. And whatever one thinks of the relative merits of intermittent versus firm generation, ALEC’s proposals demonstrate just how easily gamed regulations like additionality could be and the risks of relying on administrative discretion instead of universal, pragmatic rules.</p><p><br/></p><p class="drop-caps">This is not how the electric grid is supposed to work. The grid is, if not an according-to-Hoyle public good, a shared public resource, providing essential services to customers large and small. Homeowners don’t have to sign additionality contracts with suppliers when they buy an electric car or replace their gas furnace with an electric heat pump. Everyone understands that such requirements would slow the pace of electrification and investment in new industries. The same holds for corporate customers and novel sources of load.</p><p>The real problem facing the AI, hydrogen, nuclear, geothermal, and renewables industries is an inability to build. There are more than enough clean generators queueing to enter the system — 2.6 terawatts <a href="https://emp.lbl.gov/queues" rel="noopener noreferrer" target="_blank"><u>at last count</u></a>, according to the Lawrence Berkeley National Laboratory. The unfortunate reality, however, is that just one in five of these projects will make it through — and those represent just 14% of the capacity waiting to connect. Still, this totals about 360 gigawatts of new energy generation over the next few years, much more than the predicted demand from AI data centers. Obstacles to technology licensing, permitting, interconnection, and transmission are the key bottlenecks here.</p><p>Would foregoing additionality requirements and loosening regulatory strictures on technology licensing and permitting increase the commercial viability of new or existing fossil fuel capacity, as Deese and Hansmann warn? Perhaps, on some margin. But for the foreseeable future, the energy projects and infrastructure most burdened by regulatory requirements will be low-carbon ones. Batteries, solar, and wind projects make up more than 80% of the queue added in 2023. Meanwhile, oil and gas benefit from categorical exclusions under the <a href="https://ifp.org/how-nepa-will-tax-clean-energy/" rel="noopener noreferrer" target="_blank"><u>National Environmental Policy Act</u></a>, while low-carbon technologies are subject to stricter standards (although three permitting bills recently <a href="https://www.axios.com/pro/energy-policy/2024/09/25/drill-baby-drill-for-steam" rel="noopener noreferrer" target="_blank"><u>passed the House</u></a>, including one that waives these requirements for new geothermal projects).</p><p>Consider that <a href="https://www.ft.com/content/afb729b9-9641-42b2-97ca-93974c461c4c" rel="noopener noreferrer" target="_blank"><u>40% of projects</u></a> supported by the Inflation Reduction Act are caught up in delays. That is $84 billion of economic activity just waiting for the paperwork to be figured out, according to the <em><em>Financial Times</em></em>. Additionality requirements are additional boxes to check that almost necessarily imply additional delays. Permitting reform makes them redundant and unnecessary for a cleaner future.</p><p>This underscores perhaps the most essential conflict between strict additionality requirements and clean energy abundance. Ensuring that every new policy and every new source of demand allows for absolutely zero additional fossil fuel consumption or emissions will prove counterproductive to global decarbonization in the long run. Natural gas is still reducing emissions on the margin in the United States. Over the past decade, in years with higher natural gas prices, coal generation has <a href="https://www.eia.gov/energyexplained/coal/use-of-coal.php" rel="noopener noreferrer" target="_blank"><u>ticked up</u></a>, indicating that the so-called “natural gas bridge” has not yet reached its terminus. Even aggressive decarbonization scenarios now expect a <a href="https://zenodo.org/records/13345138" rel="noopener noreferrer" target="_blank"><u>substantial role for natural gas</u></a> over the coming decades. And in the long term, natural gas plants may prove wholly compatible with abundant, low-carbon electricity systems if next-generation carbon capture technologies prove scalable.</p><p>The United States is the world’s energy technology R&D and demonstration laboratory. If policies to prune marginal fossil fuel consumption here stall domestic investment and scaling of low-carbon technologies — as current permitting regulations already do, and proposed additionality requirements would do — then we will not only slow U.S. decarbonization, but also inhibit our ability to export affordable and scalable low-carbon technologies abroad.</p><p><br/></p><p class="drop-caps">Environmental progress’s surest path is in speeding up. For that to happen, we need processes that allow for rapid deployment of clean energy solutions. Expediting technology licensing, fast-tracking federal infrastructure permitting, and finding opportunities for quicker and more rational interconnections should be first and foremost.</p><p>The real solution lies in building a regulatory environment where energy abundance can flourish. Clearing the path for clean energy development, we can achieve a future where energy is affordable, reliable, and abundant—a future where the United States leads in both decarbonization and economic growth. It’s time to stop adding barriers and start speeding up progress.</p> 
+
+<br> 
+
+<https://heatmap.news/ideas/abundance-additionality-permitting-reform>
+
+---
+
+## Leaf-peepers are flocking to see New England's brilliant fall colors
+
+date: 2024-10-15, from: VOA News USA
+
+MEREDITH, N.H.  — New England leaf-watching season is in full swing, as people from as far as Florida and Berlin flock to the region for scenic drives, train rides and bus tours to soak in the splendid hues of red, orange and bronze. With quaint towns and covered bridges scattered through swaths of changing forest, the rural Northeast provides an ideal setting to view nature's annual show.
+
+
+"Leaf-peeping is one of the most accessible tourism things that you can do," said Teddy Willey, the general manager of the Frog Rock Tavern in Meredith, New Hampshire. “You don’t have to have the athleticism to be a hiker, you don’t have to have the money to own a boat.”
+
+
+You just need to be able to jump in a car and head north, he said.
+
+
+“Once you’re there, you just take it in," Willey said.
+
+
+He spoke just after his tavern was flooded with tourists from Indiana who had stepped off a sightseeing bus.
+
+
+Among them was Vicky Boesch, of Fort Wayne, who had made the trip with her sisters.
+
+
+“We came out to the Northeast to see the beautiful foliage and the colorful leaves,” she said, adding the she was impressed with Vermont.
+
+
+“The leaves were very pretty on the mountains because the sun was out yesterday, and so that makes them pop more,” she said.
+
+
+It wasn't only the fall colors that provided a contrast with Indiana, she said, but also the region's distinctive architecture, lakes and towns.
+
+
+Gordon Cochran, of Lake View, Iowa, said he was in New Hampshire to visit his daughter and had a “beautiful ride” on the slow-moving Winnipesaukee Scenic Railroad.
+
+
+Weather conditions associated with climate change have disrupted some recent leaf-peeping seasons. One problem is that global warming has brought drought that causes leaves to turn brown and wither before they can reach their colorful peak.
+
+
+Willey acknowledges that he's not a leaf guy.
+
+
+“Personally, no. I grew up here, so I think it loses its luster a little bit,” he said with a chuckle, adding that the season still has its moments.
+
+
+"I’ll be driving somewhere around the Lakes Region, and all of a sudden, you're like, ‘You know what, there’s a reason why people come here and there’s a reason I live here. It really is quite beautiful,’” he said, referring to a scenic part of eastern New Hampshire. 
+
+<br> 
+
+<https://www.voanews.com/a/leaf-peepers-are-flocking-to-see-new-england-s-brilliant-fall-colors-/7822688.html>
+
+---
+
+##  MASTER PLAN, Ep 10: The Master Planners’ Heist Of The Century 
+
+date: 2024-10-15, from: The Lever News
+
+ If you thought the master planners would be content to end their assault on democracy with Citizens United, think again.  
+
+<br> 
+
+<https://www.levernews.com/master-plan-ep-10-the-master-planners-heist-of-the-century/>
+
+---
+
+## How Republican-leaning Arizona became a swing state
+
+date: 2024-10-15, from: VOA News USA
+
+There are 50 U.S. states, but voters from seven so-called battleground states are expected to determine the outcome of the 2024 presidential election. The Southwestern state of Arizona used to reliably lean toward Republican candidates. But President Joe Biden, a Democrat, won the state in 2020. And this year, Arizona’s electoral votes are up for grabs again. 
+
+<br> 
+
+<https://www.voanews.com/a/how-republican-leaning-arizona-became-a-swing-state-/7822557.html>
 
 ---
 
@@ -62,11 +361,101 @@ date: 2024-10-15, from: Market Place, Make me Smart
 
 date: 2024-10-15, from: VOA News USA
 
- 
+U.S. Acting Labor Secretary Julie Su flew to Seattle on Monday to try to ease a Boeing machinists strike, as thousands of employees face layoffs, and a major airline reacted with alarm to the plane maker's deepening turmoil. 
+
+
+Su's first in-person intervention, reported by Reuters and confirmed by the Labor Department, comes days after Boeing — dealing with a crippling strike now in its fifth week — unveiled plans to cut 17,000 jobs and take $5 billion in charges, continuing a year of tumult for the company. 
+
+
+"Acting Secretary Su is meeting with both parties today to assess the situation and encourage both parties to move forward in the bargaining process," a spokesperson said. 
+
+
+While Su has previously spoken with Boeing and the union, it is her first time in Seattle meeting both sides in person, the spokesperson said. 
+
+
+Roughly 33,000 workers have been on strike since September 13, seeking a 40% wage increase and the restoration of a defined-benefit pension they agreed to give up in 2014.   
+
+
+The International Association of Machinists and Aerospace Workers was not immediately available for comment. Boeing and a White House spokesperson declined to comment. 
+
+
+Shares of the aerospace giant fell 1.3% to close Monday at $148.99, following the company's surprise after-hours announcement Friday, which also included a new delay to the 777X jetliner and the ending of civil 767 freighter production. 
+
+
+
+
+Boeing will hold meetings this week to lay out detailed plans, having given few specifics in Friday's announcement, industry sources said. The company also expects a quarterly cash burn of about $1.3 billion, better than anticipated, but still the third consecutive quarter it has burned through cash. 
+
+
+Boeing will next month send out 60-day notices to thousands of workers in its commercial aviation division, meaning those staff will leave the company in mid-January, one source familiar with the matter said. 
+
+
+A second phase of notices, if more redundancies are required, would be rolled out in December, the source said. 
+
+
+A spokesperson for the Society of Professional Engineering Employees in Aerospace, which represents engineers at Boeing, said the company informed the union Monday that 60-day notices to their members would be issued on November 15. 
+
+
+Boeing is expected to refrain from asking for voluntary departures to limit severance cash and avoid an exodus of skills, sources said, adding the company will rely mainly on involuntary layoffs. Rivals are scooping up scarce labor to relieve pressure on aerospace supply chains. 
+
+
+"The trick will be not losing the 10% of people you want to keep, which is even more important than usual in the post-pandemic skill shortage environment," said Agency Partners analyst Nick Cunningham. 
+
+
+Industry alarm 
+
+
+The one-year delay in 777X deliveries to 2026 was widely expected in the industry and brings the lag in delivery of the 777 mini-jumbo successor to six years amid certification and testing delays. 
+
+
+Emirates Airline President Tim Clark, whose initial order for 150 jets helped launch the world's largest twin-engine jet more than a decade ago, hinted at commercial repercussions.   
+
+
+"We will be having a serious conversation with them over the next couple of months,” he said in a statement. "I fail to see how Boeing can make any meaningful forecasts of delivery dates." 
+
+
+He also became the first senior industry figure to articulate fears, whispered privately by some industry leaders in recent weeks, over Boeing's ability to tackle its worst-ever crisis intact. 
+
+
+"Unless the company is able to raise funds through a rights issue, I see an imminent investment downgrade with Chapter 11 looming on the horizon," Clark told the Air Current aviation news service. 
+
+
+Emirates is the largest user of the 777 jet family, a long-distance workhorse whose original success has been clouded by delays to its successor and the crisis engulfing Boeing's smaller 737 cash cow over safety and quality issues. 
+
+
+Friday's package of announcements showed Boeing has just over $10 billion of gross cash, a much-touted level that analysts said would ease some near-term pressure, though the company still needs to raise money by year's end, they said. 
+
+
+Most analysts expect Boeing to be able to raise up to $15 billion through a share issue. But major airlines' perception of Boeing's financial risk remains a sensitive topic, as many have billions of dollars of deposits sitting with the plane maker — an exposure some already want to limit because of delays, industry sources say. 
+
+
+Boeing declined to comment on Clark's remarks. 
+
+
+Ratings agency S&P has warned Boeing risks losing its prized investment-grade credit rating. 
+
+
+Meanwhile, U.S. Secretary of the Army Christine Wormuth said Monday that recent layoff announcements were not expected to disrupt its programs, which include helicopters and munitions. 
 
 <br> 
 
 <https://www.voanews.com/a/acting-us-labor-secretary-intervenes-in-boeing-strike-/7822504.html>
+
+---
+
+## Bad debt prep
+
+date: 2024-10-14, from: Market Place
+
+<p>JPMorgan Chase and other major banks are setting aside extra cash in anticipation of an uptick in bad loans. Lending always comes with some risk, but right now, banks are worried about a few specific types of debt. Also in this episode: Some discouraged job seekers aren&#8217;t included in the official unemployment, OPEC downgrades its demand forecast — again, and Russian bots take over online poker games.</p>
+ 
+
+<audio controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/14/pm_20241014_PM_Podcast_64.mp3"></source>
+	<a href="https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/14/pm_20241014_PM_Podcast_64.mp3" target="_blank">audio/mpeg</a>
+</audio><br> 
+
+<https://www.marketplace.org/shows/marketplace/bad-debt-prep>
 
 ---
 
@@ -219,7 +608,22 @@ date: 2024-10-14, from: Heatmap News
 
 date: 2024-10-14, from: VOA News USA
 
- 
+The National Zoo's long dark panda drought seems to be coming to an end. 
+
+
+Eleven months after the zoo sent its three wildly popular pandas — Mei Xiang, Tian Tian and their cub Xiao Qi Ji — back to China, a new pair of bears is set to arrive. 
+
+
+A pair of 3-year-old giant pandas, named Bao Li and Qing Bao, have left a research facility in the southwestern Chinese city of Dujiangyan and will soon be flown to Washington, according to a statement by the China Wildlife Conservation Association. 
+
+
+"Food prepared for the trip includes corn bread, bamboo and carrots, as well as water and medicine," the statement said, adding that the partnership will "make new contributions in protecting global biodiversity and enhance the friendship of the people from the two countries." 
+
+
+It's unclear exactly when the bears will arrive in Washington, but there will likely be an extended quarantine and acclimation period before they are introduced to the public. 
+
+
+Bao Li (precious vigor) and Qing Bao (green treasure) arrive in Washington as part of a new 10-year exchange agreement with Chinese authorities. The previous agreement expired last year, leading to some concern among American panda lovers that Beijing was gradually pulling its iconic furry friendship ambassadors from American zoos amid rising diplomatic tensions. 
 
 <br> 
 
@@ -670,7 +1074,32 @@ Nobel honors were announced last week in medicine, physics, chemistry, literatur
 
 date: 2024-10-14, from: VOA News USA
 
- 
+As Native Americans across the U.S. come together on Monday for Indigenous Peoples Day to celebrate their history and culture and acknowledge the ongoing challenges they face, many will do so with a focus on the election.
+
+
+From a voting rally in Minneapolis featuring food, games and raffles to a public talk about the Native vote at Virginia Tech, the holiday, which comes about three weeks before Election Day, will feature a wide array of events geared toward Native voter mobilization and outreach amid a strong recognition of the power of their votes.
+
+
+In 2020, Native voters proved decisive in the presidential election. Voter turnout on tribal land in Arizona increased dramatically compared with the previous presidential election, helping Joe Biden win a state that hadn’t supported a Democratic candidate in a White House contest since 1996.
+
+
+
+
+Janeen Comenote, executive director of the National Urban Indian Family Coalition, which is involved with at least a dozen of these types of voting events across the country, said this year it’s especially important to mobilize Native voters because the country is selecting the president. But she cautioned that Native people are in no way a monolith in terms of how they vote.
+
+
+“We’re really all about just getting Native voters out to vote, not telling them how to vote. But sort of understanding that you have a voice and you’re a democracy, a democracy that we helped create,” said Comenote, a citizen of the Quinault Indian Nation.
+
+
+
+
+In Arizona, her coalition is partnering with the Phoenix Indian Center to hold a town hall Monday called “Democracy Is Indigenous: Power Of The Native Vote,” which will feature speakers and performances, along with Indigenous artwork centered on democracy.
+
+
+In Apex, North Carolina, about 14 miles (23 kilometers) southwest of Raleigh, the coalition is working with the Triangle Native American Society for an event expected to include a celebration of the 100th anniversary of the Indian Citizenship Act of 1924 and a booth with nonpartisan voter information and giveaways.
+
+
+While not a federal holiday, Indigenous Peoples Day is observed by 17 states, including Washington, South Dakota and Maine, as well as Washington, D.C., according to the Pew Research Center. It typically takes place on the second Monday in October, which is the same day as the Columbus Day federal holiday. 
 
 <br> 
 
@@ -730,7 +1159,25 @@ The report also recommended that these economies, which have large informal sect
 
 date: 2024-10-14, from: VOA News USA
 
- 
+A man arrested at a security checkpoint near Republican presidential candidate Donald Trump's California rally on Saturday faces gun charges after he was found in possession of two guns and a high-capacity magazine, authorities said on Sunday. 
+
+
+The 49-year-old man, a resident of Las Vegas, was stopped in a black SUV by deputies from the Riverside County sheriff's office on Saturday and taken into custody without incident, according to the office. 
+
+
+"The incident did not impact the safety of former President Trump or attendees of the event," the sheriff's office said in a press release. 
+
+
+Trump narrowly survived an assassination attempt in July, when a gunman's bullet grazed his ear during a campaign rally in Butler, Pennsylvania. In September, another man was charged with trying to assassinate Trump after Secret Service agents discovered him hiding with a rifle near Trump's Palm Beach golf course. He pleaded not guilty. 
+
+
+Trump's rally on Saturday took place in the Coachella Valley, an area known for its annual music and arts festival. 
+
+
+The sheriff's office said the man arrested, identified as Vem Miller, was charged with possession of a loaded firearm and possession of a high-capacity magazine. More details about the charges were not available. 
+
+
+Jail records show Miller was released on $5,000 bail on Saturday. He could not immediately be reached for comment on Sunday. 
 
 <br> 
 

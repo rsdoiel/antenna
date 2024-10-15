@@ -1,11 +1,299 @@
 ---
 title: food
-updated: 2024-10-14 19:27:19
+updated: 2024-10-15 08:04:43
 ---
 
 # food
 
-(date: 2024-10-14 19:27:19)
+(date: 2024-10-15 08:04:43)
+
+---
+
+## Bokit With Colombo-Spiced Pork
+
+date: 2024-10-15, from: Pepper Scale
+
+On its Caribbean-island home of Guadeloupe, they call it ‘bo-keet’. Fillings vary enormously, but what’s constant with bokit is the gorgeous, deep-fried bun. Ours are packed with juicy, hotly spiced, slow-roasted pork, and served with a traditional, lime-sharpened Creole dressing fired by bird’s eye chilies. ... <p class="read-more-container"><a title="Bokit With Colombo-Spiced Pork" class="read-more button" href="https://pepperscale.com/bokit-with-colombo-spiced-pork/#more-86664" aria-label="Read more about Bokit With Colombo-Spiced Pork">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/bokit-with-colombo-spiced-pork/>
+
+---
+
+## New Cafe Trends For 2024: Secrets Of The Build-Outs Revealed
+
+date: 2024-10-15, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Looking back at the 2024 Build-Outs of Coffee by the numbers. 
+
+<br> 
+
+<https://sprudge.com/new-cafe-trends-for-2024-secrets-of-the-build-outs-revealed-256481.html>
+
+---
+
+## Spicy Habanero Marinade
+
+date: 2024-10-15, from: Pepper Scale
+
+Ready to take those&#160;grilled steaks or chicken breasts to spice&#160;levels they&#8217;ve&#160;never gone before? Turn your summer barbecue into something your tongue will remember for a VERY long time. Spicy habanero marinade pairs those extra-hot chilies (100,000 to 350,000 Scoville heat units) with garlic, sherry vinegar, ... <p class="read-more-container"><a title="Spicy Habanero Marinade" class="read-more button" href="https://pepperscale.com/habanero-marinade/#more-4055" aria-label="Read more about Spicy Habanero Marinade">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/habanero-marinade/>
+
+---
+
+## Does Hot Sauce Go Bad?
+
+date: 2024-10-15, from: Pepper Scale
+
+If you&#8217;re a spicy food fan, you likely have a cupboard full of hot sauces. Some are your staples, some may be gifts, and others may be random buys. It&#8217;s those last two where the question &#8220;Does hot sauce go bad?&#8221; really comes into play. ... <p class="read-more-container"><a title="Does Hot Sauce Go Bad?" class="read-more button" href="https://pepperscale.com/does-hot-sauce-go-bad/#more-2296" aria-label="Read more about Does Hot Sauce Go Bad?">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/does-hot-sauce-go-bad/>
+
+---
+
+## Harissa Seasoning
+
+date: 2024-10-15, from: Pepper Scale
+
+If you want that delicious harissa simmering heat and exotic flavor without the paste form, then a harissa seasoning is where to turn. It&#8217;s perfect as a dry rub, but don&#8217;t overlook it as a general seasoning for many dishes. Making this spice mix is ... <p class="read-more-container"><a title="Harissa Seasoning" class="read-more button" href="https://pepperscale.com/harissa-seasoning/#more-7318" aria-label="Read more about Harissa Seasoning">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/harissa-seasoning/>
+
+---
+
+## Chipotle Shredded Beef Tacos (With Radish And Cabbage Slaw)
+
+date: 2024-10-15, from: Pepper Scale
+
+This slow cooker chipotle shredded beef tacos recipe is a nice alternative to the traditional taco meal. We pair it with a cabbage and radish slaw, providing a nice crunch. And the chipotle gives the beef a delicious smoky heat. This is much more of ... <p class="read-more-container"><a title="Chipotle Shredded Beef Tacos (With Radish And Cabbage Slaw)" class="read-more button" href="https://pepperscale.com/chipotle-shredded-beef-tacos-radish-cabbage-slaw/#more-3016" aria-label="Read more about Chipotle Shredded Beef Tacos (With Radish And Cabbage Slaw)">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/chipotle-shredded-beef-tacos-radish-cabbage-slaw/>
+
+---
+
+## Maple-and-Bacon Fall Chopped Salad
+
+date: 2024-10-15, from: Bon Appetet
+
+This seasonal chopped salad features roasted squash, bacon, walnuts, hard-boiled eggs, cheddar, apple, and kale tossed in a sweet maple vinaigrette. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/maple-and-bacon-fall-chopped-salad>
+
+---
+
+## Loaded Scalloped Potatoes
+
+date: 2024-10-15, from: Bon Appetet
+
+Plain scalloped potatoes are good but loaded like a baked potato–with scallions, sour cream, cheddar, and bacon–they’re exponentially better. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/loaded-scalloped-potatoes>
+
+---
+
+## Pasta With Beets, Sausage, and Fried Sage
+
+date: 2024-10-15, from: Bon Appetet
+
+Golden beets, hot Italian sausage, and sage come together to make a quick and comforting pasta that’s far greater than the sum of its parts. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/pasta-with-beets-sausage-and-fried-sage>
+
+---
+
+## Turkey Laksa Noodle Soup
+
+date: 2024-10-15, from: Bon Appetet
+
+Packed with shrimp, bean sprouts, and tofu puffs, this Malaysian-style laksa noodle soup is the revivifying post-holiday balm you’ll crave. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/turkey-laksa-noodle-soup>
+
+---
+
+## Miso-Glazed Carrots With Scallion Gremolata
+
+date: 2024-10-15, from: Bon Appetet
+
+Salty-sweet miso glazed carrots topped with a savory scallion gremolata makes the perfect Thanksgiving side dish. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/miso-glazed-carrots-with-scallion-gremolata>
+
+---
+
+## No-Roux Mac and Cheese
+
+date: 2024-10-15, from: Bon Appetet
+
+This easy, no-roux mac and cheese recipe is made almost entirely on the stovetop and then gets transferred to the oven to melt the cheesy topping. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/no-roux-mac-and-cheese>
+
+---
+
+## Bouillon-Baked Tofu
+
+date: 2024-10-15, from: Bon Appetet
+
+Aided by jarred bouillon paste and some spices, the flavor of this baked tofu is intriguingly complex, and good enough to eat on its own. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/bouillon-baked-tofu>
+
+---
+
+## Festive Red Cabbage and Radicchio Salad
+
+date: 2024-10-15, from: Bon Appetet
+
+This monochromatic mix of radicchio, cabbage, red onion, and cold weather citrus is bright, crunchy, and fresh—just what your holiday table requires. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/festive-red-cabbage-and-radicchio-salad>
+
+---
+
+## Tadka Turkey and Gravy
+
+date: 2024-10-15, from: Bon Appetet
+
+Thanks to its high smoke point, ghee is an ideal fat for basting your holiday turkey; pair the perfectly burnished bird with a duo of sauces for maximum flavor. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/tadka-turkey-and-gravy>
+
+---
+
+## Baked Sweet Potato Chaat
+
+date: 2024-10-15, from: Bon Appetet
+
+Forget regular baked potatoes—these tender sweets loaded with chaat-inspired toppings make for a bright and flavorful vegetarian main (or colorful side dish). 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/baked-sweet-potato-chaat>
+
+---
+
+## Cranberry-Maple Mule
+
+date: 2024-10-15, from: Bon Appetet
+
+This big-batch cocktail made with ginger beer, cranberry juice, fresh lime, and a spiced maple simple syrup makes the perfect low-alcohol holiday drink. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/cranberry-maple-mule>
+
+---
+
+## Miso-mayo Chicken Bowl
+
+date: 2024-10-15, from: Bon Appetet
+
+This sheet pan dinner taps savory miso mayo for richness and flavor—as a coating for roast chicken and a finishing drizzle. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/miso-mayo-chicken-bowl>
+
+---
+
+## Apple-Cranberry Tarte Tatin
+
+date: 2024-10-15, from: Bon Appetet
+
+This classic apple tarte Tatin gets its tart-sweet flavor and crimson hue from a handful of fresh or frozen cranberries. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/apple-cranberry-tarte-tatin>
+
+---
+
+## Garlic Bread Biscuits
+
+date: 2024-10-15, from: Bon Appetet
+
+Tall, flaky buttermilk biscuits are given the garlic bread treatment–plenty of butter, two kinds of garlic, and lots of herbs and cheese. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/garlic-bread-biscuits>
+
+---
+
+## Hazelnut Green Beans With Prosciutto and Dates
+
+date: 2024-10-15, from: Bon Appetet
+
+Rich, tangy, bright, and crunchy from olive oil roasted hazelnuts, this stovetop green bean salad is an arresting holiday side. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/hazelnut-green-beans-with-prosciutto-and-dates>
+
+---
+
+## Bourbon-Date Pecan Pie
+
+date: 2024-10-15, from: Bon Appetet
+
+Pecan pie gets a modern makeover with chopped dates, bourbon, and plenty of salt. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/bourbon-date-pecan-pie>
+
+---
+
+## 10-Minute Broccoli in Garlic Sauce
+
+date: 2024-10-15, from: Bon Appetet
+
+This easy broccoli stir-fry uses a genius two-step cooking technique of searing the veg for color, then steaming it in a concentrated broth to tenderize. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/10-minute-broccoli-in-garlic-sauce>
+
+---
+
+## Pumpkin Basque Cheesecake
+
+date: 2024-10-15, from: Bon Appetet
+
+This twist on burnt cheesecake integrates a can of pumpkin purée and a handful of warming spices—perfect for a holiday table or any chilly fall day. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/pumpkin-basque-cheesecake>
 
 ---
 

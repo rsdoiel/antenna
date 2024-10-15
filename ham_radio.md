@@ -1,11 +1,39 @@
 ---
 title: ham radio
-updated: 2024-10-14 19:27:18
+updated: 2024-10-15 08:04:43
 ---
 
 # ham radio
 
-(date: 2024-10-14 19:27:18)
+(date: 2024-10-15 08:04:43)
+
+---
+
+## Why NoC tiling matters in AI-centric SoC designs
+
+date: 2024-10-15, from: EDN Blog
+
+<img width="1639" height="1691" src="https://www.edn.com/wp-content/uploads/Fig-2-NoC-tiling-Arteris.png?fit=1639%2C1691" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-2-NoC-tiling-Arteris.png?w=1639 1639w, https://www.edn.com/wp-content/uploads/Fig-2-NoC-tiling-Arteris.png?w=291 291w, https://www.edn.com/wp-content/uploads/Fig-2-NoC-tiling-Arteris.png?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-2-NoC-tiling-Arteris.png?w=993 993w, https://www.edn.com/wp-content/uploads/Fig-2-NoC-tiling-Arteris.png?w=1489 1489w" sizes="(max-width: 1639px) 100vw, 1639px" /><p>NoC tiling allows SoC architects to create modular, scalable designs by replicating soft tiles across the chip.</p>
+<p>The post <a href="https://www.edn.com/why-noc-tiling-matters-in-ai-centric-soc-designs/" data-wpel-link="internal">Why NoC tiling matters in AI-centric SoC designs</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/why-noc-tiling-matters-in-ai-centric-soc-designs/>
+
+---
+
+## Combating noise and interference in oscilloscopes and digitizers
+
+date: 2024-10-15, from: EDN Blog
+
+<img width="1920" height="1080" src="https://www.edn.com/wp-content/uploads/Reducing-noise-Figure-4.png?fit=1920%2C1080" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Reducing-noise-Figure-4.png?w=1920 1920w, https://www.edn.com/wp-content/uploads/Reducing-noise-Figure-4.png?w=300 300w, https://www.edn.com/wp-content/uploads/Reducing-noise-Figure-4.png?w=768 768w, https://www.edn.com/wp-content/uploads/Reducing-noise-Figure-4.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Reducing-noise-Figure-4.png?w=1536 1536w, https://www.edn.com/wp-content/uploads/Reducing-noise-Figure-4.png?w=1260 1260w, https://www.edn.com/wp-content/uploads/Reducing-noise-Figure-4.png?w=800 800w" sizes="(max-width: 1920px) 100vw, 1920px" /><p>Techniques for minimizing the effects of noise in measurements with digitizing instruments such as averaging and filtering.</p>
+<p>The post <a href="https://www.edn.com/combating-noise-and-interference-in-oscilloscopes-and-digitizers/" data-wpel-link="internal">Combating noise and interference in oscilloscopes and digitizers</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/combating-noise-and-interference-in-oscilloscopes-and-digitizers/>
 
 ---
 
@@ -25,7 +53,7 @@ date: 2024-10-14, from: Amateur Radio Relay League News
 
 date: 2024-10-14, from: EDN Blog
 
-<img width="4080" height="3072" src="https://www.edn.com/wp-content/uploads/SiLabs-keynote_EWNA2024.jpg?fit=4080%2C3072" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/SiLabs-keynote_EWNA2024.jpg?w=4080 4080w, https://www.edn.com/wp-content/uploads/SiLabs-keynote_EWNA2024.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/SiLabs-keynote_EWNA2024.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/SiLabs-keynote_EWNA2024.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/SiLabs-keynote_EWNA2024.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/SiLabs-keynote_EWNA2024.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/SiLabs-keynote_EWNA2024.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/SiLabs-keynote_EWNA2024.jpg?w=2850 2850w" sizes="(max-width: 4080px) 100vw, 4080px" /><p>The Silicon Labs keynote at embedded world North America on driving innovation in terms of wireless integration, security, and AI. </p>
+<img width="4080" height="3072" src="https://www.edn.com/wp-content/uploads/SiLabs-keynote_EWNA2024.jpg?fit=4080%2C3072" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/SiLabs-keynote_EWNA2024.jpg?w=4080 4080w, https://www.edn.com/wp-content/uploads/SiLabs-keynote_EWNA2024.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/SiLabs-keynote_EWNA2024.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/SiLabs-keynote_EWNA2024.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/SiLabs-keynote_EWNA2024.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/SiLabs-keynote_EWNA2024.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/SiLabs-keynote_EWNA2024.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/SiLabs-keynote_EWNA2024.jpg?w=2850 2850w" sizes="(max-width: 4080px) 100vw, 4080px" /><p>The Silicon Labs keynote at embedded world North America on driving innovation in terms of wireless integration, security, and AI. </p>
 <p>The post <a href="https://www.edn.com/silicon-labs-on-wireless-compute-and-security/" data-wpel-link="internal">Silicon Labs on wireless, compute, and security</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

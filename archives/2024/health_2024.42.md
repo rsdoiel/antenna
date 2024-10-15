@@ -1,11 +1,59 @@
 ---
 title: health
-updated: 2024-10-14 19:27:18
+updated: 2024-10-15 08:04:43
 ---
 
 # health
 
-(date: 2024-10-14 19:27:18)
+(date: 2024-10-15 08:04:43)
+
+---
+
+## ProcCluster® and procaine hydrochloride inhibit the growth of Aspergillus species and exert antimicrobial properties during coinfection with influenza A viruses and A. fumigatus in vitro
+
+date: 2024-10-15, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionInfluenza-associated pulmonary aspergillosis is associated with high mortality rates and limited treatment options. The current standard practice involves treating each pathogen separately. However, the use of antifungal drugs can lead to serious side effects, and the presence of triazole-resistant Aspergillus strains can complicate antifungal therapy. In addition, drug-resistant influenza viruses are becoming an increasing concern in clinics. A drug that affects fungal and viral propagation could overcome these disadvantages. Thus, we conducted a study to examine the antifungal and antiviral properties of ProcCluster® and procaine hydrochloride (HCl), which are prodrugs derived from the local anesthetic procaine.MethodsConidia of different A. fumigatus strains, A. flavus and A. terreus were treated with the test substances in a human cell-free system and antifungal properties were analyzed either by fluorescence microscopy or absorption measurements. Changes in metabolic activity and intracellular Ca2+ distribution during treatment of A. fumigatus with ProcCluster® were observed using fluorescence microscopy. In addition, antifungal and antiviral properties of ProcCluster® and procaine HCl were investigated during in vitro coinfection of lung epithelial cells with A. fumigatus and influenza A viruses (IAV). Analysis was performed by fluorescence microscopy, standard plaque assay and Western blot assay.ResultsBoth substances inhibited the growth of the fungus, even when applied after germination or in the presence of purified IAV particles. ProcCluster® remained effective against triazole-resistant A. fumigatus strains. However, the addition of CaCl2 reversed the antifungal effect, indicating that ProcCluster® inhibited fungal growth by disrupting fungal Ca2+ homeostasis. Furthermore, in vitro studies showed that ProcCluster® and procaine HCl reduced the pathogen load of IAV and A. fumigatus during coinfection. Finally, the combination of ProcCluster® with the antiviral drug favipiravir exhibited increased antipathogenic activity, particularly against IAV replication.DiscussionThis research highlights ProcCluster® and procaine HCl as substances with anti-infective properties against various pathogens. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1445428>
+
+---
+
+## Non-targeted metabolomics and pseudo-targeted lipidomics combined with gut microbes reveal the protective effects of Causonis japonica (Thunb.) Raf. in ulcerative colitis mice
+
+date: 2024-10-15, from: Frontiers in Cellular and Infection Microbiology
+
+Ulcerative colitis (UC) is an inflammatory bowel disease characterized by recurrent inflammatory tissue damage to the intestinal mucosa and forming intestinal epithelial ulcers. It is one of the most intractable diseases in the world. To date, the mechanism is unclear. Causonis japonica (Thunb.) Raf. (Wu Lianmei in Chinese; WLM), a traditional Chinese medicine, which has a long history as an anti-inflammatory, but its effect on UC was unconfirmed yet. Therefore, we established a dextran sodium sulfate (DSS)-induced UC mice model and evaluated the therapeutic effect of WLM extract. The results indicated that WLM inhibits DSS-induced inflammatory response in colitis in vivo, decrease DSS-induced clinical manifestations, reverses colon length shortening, and reduces tissue damage. The results of ELISA kits suggested that WLM could reverse the levels of DSS-induced inflammatory factors. To explore the mechanism of WLM in treating DSS-induced UC, 1H NMR and UHPLC-Q/Orbitrap MS were used to perform non-targeted metabolomics analysis; 21 differential metabolites in colon tissues were closely related to UC. Meanwhile, the pseudo-targeted lipidomics based on UHPLC-Q/Trap MS was used to analyze lipid metabolism disorders, and 60 differential lipid compounds were screened. These differential compounds were mainly involved in glycerophospholipid, arachidonic acid, glycerolipid, citric acid, tyrosine, and ether lipid metabolisms. The analysis of gut microbial showed that WLM may improve the symptoms of UC mice by reducing the abundance of Helicobacter and Streptococcus and increasing the abundance of Limosilactobacillus and Akkermansia. Moreover, the real-time qPCR results showed that WLM extract could decrease the mRNA levels of inflammatory factors and may be associated with protecting the integrity of intestinal mucosal barrier by destroying in vivo metabolic pathways, especially by regulating energy and lipid metabolisms and reducing inflammatory reactions. It provides a beneficial reference for studying WLM to elucidate the therapeutic mechanism of UC. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1397735>
+
+---
+
+## PMCNA_RS00975 activates NF-κB and ERK1/2 through TLR2 and contributes to the virulence of Pasteurella multocida
+
+date: 2024-10-15, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionPasteurella multocida is a pathogenic bacterium known to cause hemorrhagic septicemia and pneumonia in poultry. Reports have indicated that certain proteins, either directly involved in or regulating iron metabolism, are important virulence factors of P. multocida. Therefore, understanding virulent factors and analyzing the role of pro-inflammatory cytokines can help us elucidate the underlying pathogenesis.MethodsIn this study, the PMCNA_RS00975 protein, a putative encapsuling protein encoded by a gene from a specific prophage island of the pathogenic strain C48-1 of P. multocida, was investigated. To further explore the impact of the PMCNA_RS00975 protein on pathogenicity, a PMCNA_RS00975 gene mutant of P. multocida strain C48-1 was constructed using positive selection technology. Subcellular localization was performed to determine the location of the PMCNA_RS00975 protein within P. multocida. The recombinant protein PMCNA_RS00975 of P. multocida was soluble expressed, purified, and its role in pro-inflammatory cytokines was investigated.ResultsThe mutant exhibited significantly reduced pathogenicity in the mice model. Furthermore, subcellular localization indicated that the PMCNA_RS00975 protein was located at the outer membrane and expressed during infection of P. multocida. Additionally, our experiments revealed that recombinant PMCNA_RS00975 protein promotes the secretion of the IL-6 pro-inflammatory cytokines triggered by the TLR2 receptor via NF-κB and ERK1/2 signaling pathways in the macrophages.DiscussionThis study identified a novel virulence factor in the C48-1 strain, providing a basis for understanding the pathogenesis and directions for the development of attenuated vaccines against P. multocida. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1469304>
+
+---
+
+## Deciphering the killing mechanisms of potassium iodide in combination with antimicrobial photodynamic therapy against cross-kingdom biofilm
+
+date: 2024-10-15, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionThe co-existence of S. mutans and C. albicans is frequently detected in root caries and early child caries and is reported to be associated with recurrent caries. The aim of this study was to investigate the effects of potassium iodide (KI) in combination with toluidine blue O-mediated antimicrobial photodynamic therapy (aPDT) on S. mutans and C. albicans mixed-species biofilm, as well as the antibiofilm mechanisms involved.MethodsMixed-species biofilm was constructed of S. mutans and C. albicans on dentin blocks. The antibiofilm efficacy, cytotoxicity and antibiofilm mechanism of KI in combination with aPDT were determined and evaluated.ResultsKI+TBO-aPDT treatment caused reduction in microorganism counts, metabolic activity, and biofilm biomass of mixed-species biofilm without inducing cytotoxicity to hDPCs (human dental pulp cells). Observations such increased ROS (reactive oxygen species) levels, impaired cell membrane function, cell apoptosis and reduced expression in several genes seem to be artifacts of reduced growth and general killing by KI+TBO-aPDT treatment.DiscussionThese data suggested that KI in combination with aPDT as an innovative approach to combat S. mutans and C. albicans biofilm, and thus as an optional treatment for caries. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1444764>
 
 ---
 

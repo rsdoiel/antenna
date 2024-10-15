@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2024-10-14 19:27:18
+updated: 2024-10-15 08:04:43
 ---
 
 # libraries
 
-(date: 2024-10-14 19:27:18)
+(date: 2024-10-15 08:04:43)
+
+---
+
+## Tracking the Licensing of Scholarly Content to LLMs
+
+date: 2024-10-15, from: Scholarly Kitchen
+
+<p>We have developed a tool to track publisher deals to license scholarly content for use as training data by LLMs</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/10/15/licensing-scholarly-content-llms/">Tracking the Licensing of Scholarly Content to LLMs</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2024/10/15/licensing-scholarly-content-llms/>
 
 ---
 

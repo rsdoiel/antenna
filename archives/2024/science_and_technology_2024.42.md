@@ -1,19 +1,175 @@
 ---
 title: science and technology
-updated: 2024-10-14 19:27:18
+updated: 2024-10-15 08:04:43
 ---
 
 # science and technology
 
-(date: 2024-10-14 19:27:18)
+(date: 2024-10-15 08:04:43)
 
 ---
 
-## China again claims Volt Typhoon hack gang was invented by the US to discredit it
+## Norway datacenter dumps diesel diet, goes veggie with biofuel backup
 
 date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
 
-<h4>Enough with the racist-sounding &#39;dragons&#39; and &#39;pandas&#39;, Beijing complains – then points the finger at koalas</h4> <p>Chinese authorities have published another set of allegations that assert the Volt Typhoon threat actor is an invention of the US and its allies, and not a crew run by Beijing.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>Operator Stack Infrastructure is committed to reducing Scope 1 emissions from its facilities</h4> <p>Datacenter operator Stack Infrastructure has joined the ranks of companies switching to biofuel for its backup power source in a bid to offset some of the greenhouse gas emissions from its operations.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/15/norway_datacenter_biofuel/>
+
+---
+
+## Revealing the Hidden Universe with Full-shell X-ray Optics at NASA MSFC
+
+date: 2024-10-15, from: NASA breaking news
+
+The study of X-ray emission from astronomical objects reveals secrets about the Universe at the largest and smallest spatial scales. Celestial X-rays are produced by black holes consuming nearby stars, emitted by the million-degree gas that traces the structure between galaxies, and can be used to predict whether stars may be able to host planets […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/science-enabling-technology/revealing-the-hidden-universe-with-full-shell-x-ray-optics-at-nasa-msfc/>
+
+---
+
+## Automotive AI player Cerence appoints ex-Intel boss Brian Krzanich as its CEO
+
+date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
+
+<h4>Public opinion is against him, as comments on LinkedIn go dark</h4> <p>Brian Krzanich&#39;s return to the CEO lounge has gone down like a lead balloon. The former Intel boss, who famously resigned after a highly publicized relationship with a subordinate, not to mention a botched 10nm chip rollout, has landed himself a new job at AI-driven automotive startup Cerence.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/15/cerence_appoints_exintel_ceo_brian_krzanich/>
+
+---
+
+## Microsoft says governments should bear the responsibility for dealing with cybercrime
+
+date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
+
+<h4>Although it also reaffirmed commitment to secure-by-design initiatives</h4> <p>Microsoft is calling for more robust deterrents to be placed on nation-states as criminals continue to run rife across online systems &#34;without any meaningful consequences.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/15/microsoft_digital_defense_report/>
+
+---
+
+## Samsung's HBM3E has been a disaster, but there's a path back
+
+date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
+
+<h4>274% profit increase belies missed deadlines, botched launches, and scrambling leadership</h4> <p><strong>Comment</strong>  Despite reporting a seemingly impressive 274 percent increase in operating profit for calendar Q3 2024, Samsung Electronics is in crisis mode. Beneath these financials lies a semiconductor strategy that is unraveling, posing serious challenges for the South Korean tech giant.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/15/samsung_hb3me/>
+
+---
+
+## Post Office seeks more Horizon support as it continues hunt for replacement
+
+date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
+
+<h4>Someone has got to keep those back end systems running</h4> <p>The beleaguered UK Post Office has begun conversations with suppliers to help support its controversial Horizon system in a set of contracts which could total £100 million ($131 million) as it works to replace the EPOS and back-end finance technology.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/15/post_office_horizon_dc_support/>
+
+---
+
+## BBS legend Ward Christensen logs off for last time at 78
+
+date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
+
+<h4>Co-creator of the Computerized Bulletin Board System heads for big forum in the sky</h4> <p><strong>Obit</strong>  Ward Christensen, co-founder of the Computerized Bulletin Board System (CBBS) and developer of the XMODEM file transfer protocol, has died aged 78.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/15/ward_christensen_obit/>
+
+---
+
+## Britain opens floodgates to US datacenter investment
+
+date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
+
+<h4>Who needs climate goals and planning permission anyway?</h4> <p>Just weeks after the British government designated datacenters as critical national infrastructure (CNI), a quartet of US tech firms have committed to the UK as the place to invest in their data facilities.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/15/uk_datacenter_investment/>
+
+---
+
+## Keir Starmer tells regulators to chill as Microsoft exec takes wheel of advisory council
+
+date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
+
+<h4>What could possibly go wrong?</h4> <p>UK prime minister Keir Starmer promised to make the nation&#39;s competition regulator more inclined toward economic growth the day after a Microsoft executive was appointed chair of the government&#39;s Industrial Strategy Advisory Council.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/15/uk_prime_minister_regulators/>
+
+---
+
+## ESA astronaut on the difference between flying in a Soyuz and piloting a Crew Dragon
+
+date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
+
+<h4>Plus: We chat about going to the Moon and keeping the ISS running for a few more years</h4> <p><strong>Interview</strong>  The first Dane to fly in space, Andreas Mogensen, thinks there&#39;s every chance the International Space Station (ISS) might last for a few more years and harbors hopes of visiting the Moon.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/15/esa_astronaut_interview/>
+
+---
+
+## Google hopes to spark chain reaction with nuclear energy investment
+
+date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
+
+<h4>Commits to molten salt small modular reactors it thinks can come online in 2035</h4> <p>Google has become the latest tech giant to seek nuclear power as a source for its datacenters and other operations.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/15/google_kairos_smr_nuclear_investment/>
+
+---
+
+## WordPress bans WP Engine from sponsoring or participating in user groups
+
+date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
+
+<h4>As Matt Mullenweg and David Heinemeier Hansson feud over FOSS, community worries about the fallout</h4> <p>WordPress has banned its user groups from accepting sponsorship from WP Engine – or even allowing its employees to attend events.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/15/wordpress_bans_wpengine_from_events/>
+
+---
+
+## AI amplifies systemic risk to financial sector, says India's Reserve Bank boss
+
+date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
+
+<h4>Who also worries misinformation on social media could threaten liquidity</h4> <p>The governor of India&#39;s Reserve Bank, Shri Shaktikanta Das, yesterday warned that AI – and the platforms that provide it – could worsen systemic risk to the nation&#39;s financial system.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/15/india_rbi_ai_risks/>
+
+---
+
+## China again claims Volt Typhoon cyber-attack crew was invented by the US to discredit it
+
+date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
+
+<h4>Enough with the racist-sounding &#39;dragons&#39; and &#39;pandas&#39;, Beijing complains – then points the finger at koalas</h4> <p>Chinese authorities have published another set of allegations that assert the Volt Typhoon cyber-crew is an invention of the US and its allies, and not a crew run by Beijing.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 
@@ -131,9 +287,9 @@ date: 2024-10-14, updated: 2024-10-14, from: The Register (UK I.T. News)
 
 ## Trump campaign arms up with 'unhackable' phones after Iranian intrusion
 
-date: 2024-10-14, updated: 2024-10-14, from: The Register (UK I.T. News)
+date: 2024-10-14, updated: 2024-10-15, from: The Register (UK I.T. News)
 
-<h4>Florida man gets his hands on &#39;the best ever&#39;</h4> <p>With less than a month to go before American voters head to the polls to choose their next president, the Trump campaign has been investing in secure tech to make sure it doesn&#39;t get hacked again.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>Florida man gets his hands on &#39;the best ever&#39;</h4> <p>With less than a month to go before American voters head to the polls to choose their next president, the Trump campaign has been investing in secure tech to make sure it doesn&#39;t get compromised again.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 
@@ -251,7 +407,7 @@ date: 2024-10-14, updated: 2024-10-14, from: The Register (UK I.T. News)
 
 ## Crypto-apocalypse soon? Chinese researchers find a potential quantum attack on classical encryption
 
-date: 2024-10-14, updated: 2024-10-14, from: The Register (UK I.T. News)
+date: 2024-10-14, updated: 2024-10-15, from: The Register (UK I.T. News)
 
 <h4>With an off-the-shelf D-Wave machine, but only against very short keys</h4> <p>Chinese researchers claim they have found a way to use D-Wave&#39;s quantum annealing systems to develop a promising attack on classical encryption.…</p> 
 

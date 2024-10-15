@@ -1,11 +1,35 @@
 ---
 title: socal north
-updated: 2024-10-14 19:27:18
+updated: 2024-10-15 08:04:42
 ---
 
 # socal north
 
-(date: 2024-10-14 19:27:18)
+(date: 2024-10-15 08:04:42)
+
+---
+
+## Who is Ysabel Jurado? Progressive candidate battles incumbent for eastside LA council seat
+
+date: 2024-10-15, updated: 2024-10-15, from: The LAist
+
+Jurado is the latest progressive seeking to unseat an incumbent on the L.A. City Council 
+
+<br> 
+
+<https://laist.com/news/politics/ysabel-jurado-battles-kevin-leon-la-council-seat-14>
+
+---
+
+## California continues progressive policies, with restraint, in divisive election year
+
+date: 2024-10-15, updated: 2024-10-15, from: The LAist
+
+This legislative cycle, Gov. Gavin Newsom signed bills affirming reproductive rights and mandating insurance coverage of in vitro fertilization, but the Democrat was reluctant to impose new regulations, frequently citing costs for vetoing bills. 
+
+<br> 
+
+<https://laist.com/news/politics/california-continues-progressive-policies-with-restraint-in-divisive-election-year>
 
 ---
 
@@ -57,9 +81,9 @@ A CalMatters analysis shows that California’s campaign finance watchdog has so
 
 ---
 
-## Ampilfy Energy to pay $5 million to Huntington Beach after 2021 oil spill
+## Amplify Energy to pay $5 million to Huntington Beach after 2021 oil spill
 
-date: 2024-10-14, updated: 2024-10-14, from: The LAist
+date: 2024-10-14, updated: 2024-10-15, from: The LAist
 
 The spill closed nearby beaches and harbors, and prompted the controversial cancellation of the city's annual airshow. 
 

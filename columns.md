@@ -1,11 +1,147 @@
 ---
 title: columns
-updated: 2024-10-14 19:27:18
+updated: 2024-10-15 08:04:43
 ---
 
 # columns
 
-(date: 2024-10-14 19:27:18)
+(date: 2024-10-15 08:04:43)
+
+---
+
+##  Ed Yong on Breaking Down and Putting Yourself Back Together 
+
+date: 2024-10-15, updated: 2024-10-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/ed-yong-on-breaking-down>
+
+---
+
+## More Details on Israel Sabotaging Hezbollah Pagers and Walkie-Talkies
+
+date: 2024-10-15, updated: 2024-10-14, from: Bruce Schneier blog
+
+<p>The <i>Washington Post</i> has a long and detailed <a href="https://www.washingtonpost.com/world/2024/10/05/israel-mossad-hezbollah-pagers-nasrallah/">story</a> about the operation that&#8217;s well worth reading (alternate version <a href="https://www.msn.com/en-us/news/other/mossad-s-pager-operation-inside-israel-s-penetration-of-hezbollah/ar-AA1rKXwe">here</a>).</p>
+<blockquote><p>The sales pitch came from a marketing official trusted by Hezbollah with links to Apollo. The marketing official, a woman whose identity and nationality officials declined to reveal, was a former Middle East sales representative for the Taiwanese firm who had established her own company and acquired a license to sell a line of pagers that bore the Apollo brand. Sometime in 2023, she offered Hezbollah a deal on one of the products her firm sold: the rugged and reliable AR924...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/10/more-details-on-israel-sabotaging-hezbollah-pagers-and-walkie-talkies.html>
+
+---
+
+## 2024-10-15 Nuclear artificial intelligence
+
+date: 2024-10-15, from: Alex Schroeder's Blog
+
+<h1 id="2024-10-15-nuclear-artificial-intelligence">2024-10-15 Nuclear artificial intelligence</h1>
+
+<p>When my wife was a kid, the Chernobyl nuclear disaster happened. The next year, she had leukaemia, spent months in a clean room, spent years with chemo and recovery.
+Nuclear energy will always be personal.</p>
+
+<p>Also, I grew up in two A zones and one C zone around nuclear reactors.</p>
+
+<blockquote>
+<p>The plant has been operating since September 1969. … Beznau 2 operated under temporary licenses until 3 December 2004, when the Swiss Federal Council removed the limitation. – <a href="https://en.wikipedia.org/wiki/Beznau_Nuclear_Power_Plant">Beznau</a></p>
+</blockquote>
+
+<p>I guess they just discovered it was suddenly safe?</p>
+
+<blockquote>
+<p>… on the Rhine and close to the border with Germany. – <a href="https://en.wikipedia.org/wiki/Leibstadt_Nuclear_Power_Plant">Leibstadt</a></p>
+</blockquote>
+
+<p>Lucky how close the borders are! Half the people at risk can’t complain because they can’t vote. Strange how this seems to be a popular nuclear power plant building strategy in densely populated, fragmented political landscapes.</p>
+
+<blockquote>
+<p>The last significant change to the KKG was the construction of a new storage facility for spent rods. – <a href="https://en.wikipedia.org/wiki/G%C3%B6sgen_Nuclear_Power_Plant">Gösgen</a></p>
+</blockquote>
+
+<p>That’s right. There is no solution for the spent rods for all Swiss nuclear power plants. Whenever they start digging the locals launch political movements to stop it. The solution was ingenious: now such protest must happen at the federal level, not at the local level. And this is how we’ll force that pesky radioactive waste repository on somebody. Genius.</p>
+
+<p>I don’t even want to talk about nuclear energy vs other types of energy. Just use less fucking energy. As long as I see energy being wasted, I don’t feel like I need to accept new power plants into my life. Let alone nuclear power plants.</p>
+
+<p>Let alone artificial intelligence.</p>
+
+<p>Nuclear energy for artificial intelligence:</p>
+
+<blockquote>
+<p>Google has become the latest tech giant to seek nuclear power as a source for its datacenters and other operations. … <a href="https://www.theregister.com/2024/10/15/google_kairos_smr_nuclear_investment/">Google hopes to spark chain reaction with nuclear energy investment</a>, by Simon Sharwood, for The Register</p>
+
+<p>Three Mile Island, the site of worst nuclear disaster in the United States, is reopening and will exclusively sell the power to Microsoft … Microsoft will purchase the carbon-free energy produced from it to power its data centers to support artificial intelligence. …  However, nuclear has drawn criticism for environmental groups for decades for its waste. The US still has no permanent repository for that waste, instead storing it at over 70 operating and shuttered plants around the nation. – <a href="https://lite.cnn.com/2024/09/20/energy/three-mile-island-microsoft-ai/index.html">Three Mile Island is reopening and selling its power to Microsoft</a>, by Jordan Valinsky, for CNN</p>
+</blockquote>
+
+<p>I can&rsquo;t wait for the next <a href="https://en.wikipedia.org/wiki/AI_winter">AI winter</a>.</p>
+
+<p><a class="tag" href="/search/?q=%23Nuclear">#Nuclear</a> <a class="tag" href="/search/?q=%23Artificial_Intelligence">#Artificial Intelligence</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2024-10-15-nuclear>
+
+---
+
+## Harris’s closing argument: whose side she’s on 
+
+date: 2024-10-15, from: Robert Reich's blog
+
+We&#8217;re living in a second Gilded Age of extreme inequality. Trump is on the side of the ultra-wealthy who are rigging the system. Harris should make it clearer she&#8217;s on the people&#8217;s side. 
+
+<br> 
+
+<https://robertreich.substack.com/p/heres-how-harris-can-dispel-any-doubt>
+
+---
+
+## October 14, 2024
+
+date: 2024-10-15, from: Heather Cox Richardson blog
+
+As the two presidential campaigns position themselves for the final sprint to the election on November 5, the difference between them is dramatic. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/october-14-2024>
+
+---
+
+## History Extra for October 13, 2024
+
+date: 2024-10-15, from: Heather Cox Richardson blog
+
+When Italian mariner Christopher Columbus and his sailors &#8220;discovered&#8221; the &#8220;New World&#8221; for Spain&#8217;s monarchs Ferdinand and Isabella in 1492, they brought with them both ideologies and germs that would decimate the peoples living in the Americas. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/history-extra-for-october-13-2024>
+
+---
+
+## Stories help us find truth, but there’s a difference between fact and fiction
+
+date: 2024-10-15, from: Tracy Durnell Blog
+
+Stories provide a scaffold for understanding When I read non-fiction, I&#8217;m less interested in learning facts than gaining understanding (though sometimes facts support the understanding). I want to build a mental scaffold to hook future facts and related concepts onto. I want to build a story. This connects to the &#8220;big questions&#8221; approach, which gives [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2024/10/14/stories-help-us-find-truth-but-theres-a-difference-between-fact-and-fiction/>
+
+---
+
+## Watched Ed Yong’s XOXO talk
+
+date: 2024-10-15, from: Tracy Durnell Blog
+
+Ed Yong is a thoughtful guy &#8212; as he says at the end, his pillars are empathy, curiosity, and kindness. After winning the Pulitzer, he made himself rules for being a public figure online. It was interesting to hear how he related to winning the prize, which seemed to be almost embarrassment at having received [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2024/10/14/watched-ed-yongs-xoxo-talk/>
 
 ---
 

@@ -8,3 +8,4 @@
 *.skim
 *.sql
 _*
+*.sql.gz

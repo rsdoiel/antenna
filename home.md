@@ -1,11 +1,86 @@
 ---
 title: home
-updated: 2024-10-14 19:27:18
+updated: 2024-10-15 08:04:43
 ---
 
 # home
 
-(date: 2024-10-14 19:27:18)
+(date: 2024-10-15 08:04:43)
+
+---
+
+## Philodendron Gloriosum Care and Growing Guide (Most Detailed)
+
+date: 2024-10-15, from: Yard Life blog
+
+<p>Philodendron gloriosum is a stunning and unique plant known for its large, heart-shaped, velvety leaves that can grow up to ... </p>
+<p class="read-more-container"><a title="Philodendron Gloriosum Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/philodendron-gloriosum-care-and-growing-guide-most-detailed/#more-20752" aria-label="Read more about Philodendron Gloriosum Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/philodendron-gloriosum-care-and-growing-guide-most-detailed/">Philodendron Gloriosum Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/philodendron-gloriosum-care-and-growing-guide-most-detailed/>
+
+---
+
+## Areca Palm Care and Growing Guide (Most Detailed)
+
+date: 2024-10-15, from: Yard Life blog
+
+<p>The Areca palm, scientifically known as Dypsis lutescens, is one of the most beloved houseplants, revered for its lush foliage ... </p>
+<p class="read-more-container"><a title="Areca Palm Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/areca-palm-care-and-growing-guide-most-detailed/#more-20738" aria-label="Read more about Areca Palm Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/areca-palm-care-and-growing-guide-most-detailed/">Areca Palm Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/areca-palm-care-and-growing-guide-most-detailed/>
+
+---
+
+## Black Olive Tree Care and Growing Guide (Most Detailed)
+
+date: 2024-10-15, from: Yard Life blog
+
+<p>The Black Olive Tree, also known as Terminalia buceras or Shady Lady Black Olive Tree, is a captivating and hardy ... </p>
+<p class="read-more-container"><a title="Black Olive Tree Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/black-olive-tree-care-and-growing-guide-most-detailed/#more-20729" aria-label="Read more about Black Olive Tree Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/black-olive-tree-care-and-growing-guide-most-detailed/">Black Olive Tree Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/black-olive-tree-care-and-growing-guide-most-detailed/>
+
+---
+
+## Ficus Lyrata Care and Growing Guide (Most Detailed)
+
+date: 2024-10-15, from: Yard Life blog
+
+<p>Ficus Lyrata, commonly known as the fiddle leaf fig, has taken the world of indoor plants by storm. Its large, ... </p>
+<p class="read-more-container"><a title="Ficus Lyrata Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/ficus-lyrata-care-and-growing-guide-most-detailed/#more-20722" aria-label="Read more about Ficus Lyrata Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/ficus-lyrata-care-and-growing-guide-most-detailed/">Ficus Lyrata Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/ficus-lyrata-care-and-growing-guide-most-detailed/>
+
+---
+
+## Kalanchoe Plant Care and Growing Guide (Most Detailed)
+
+date: 2024-10-15, from: Yard Life blog
+
+<p>Kalanchoe plants are renowned for their bright, colorful flowers and easy-to-maintain nature, making them a favorite choice for both novice ... </p>
+<p class="read-more-container"><a title="Kalanchoe Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/kalanchoe-plant-care-and-growing-guide-most-detailed/#more-20714" aria-label="Read more about Kalanchoe Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/kalanchoe-plant-care-and-growing-guide-most-detailed/">Kalanchoe Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/kalanchoe-plant-care-and-growing-guide-most-detailed/>
 
 ---
 

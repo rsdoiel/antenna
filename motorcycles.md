@@ -1,11 +1,83 @@
 ---
 title: motorcycles
-updated: 2024-10-14 19:27:18
+updated: 2024-10-15 08:04:43
 ---
 
 # motorcycles
 
-(date: 2024-10-14 19:27:18)
+(date: 2024-10-15 08:04:43)
+
+---
+
+## Electric Motorcycle Company Energica is Dead, Will Liquidate the Company
+
+date: 2024-10-15, from: Ride Apart, Electric Motorcycle News
+
+The EV world is shrinking.  
+
+<br> 
+
+<https://www.rideapart.com/news/737489/energica-declares-bankruptcy-liquidates-assets/>
+
+---
+
+## KTM Showcases 30 Years Of Hooliganism With Duke Exhibit
+
+date: 2024-10-15, from: Ride Apart, Electric Motorcycle News
+
+The KTM Duke is a bike that literally changed my life.  
+
+<br> 
+
+<https://www.rideapart.com/news/737193/ktm-30-years-of-duke-exhibit/>
+
+---
+
+## Race-Day Clashes Between MotoGP and Formula 1 Races Won't Get Better Anytime Soon
+
+date: 2024-10-15, from: Ride Apart, Electric Motorcycle News
+
+At least not yet. 
+
+<br> 
+
+<https://www.rideapart.com/news/737339/motogp-dorna-formula-1-liberty-media-schedule-clashes/>
+
+---
+
+## Would You Trust An Inflatable Bike Helmet? We're Not Sure
+
+date: 2024-10-15, from: Ride Apart, Electric Motorcycle News
+
+It claims to be even safer than a traditional bike helmet.  
+
+<br> 
+
+<https://www.rideapart.com/news/737194/ventete-ah1-inflatable-bike-helmet/>
+
+---
+
+## Former Cult Decides It Owns Colorado Public Land, Erects Barbed-wire Fencing
+
+date: 2024-10-15, from: Ride Apart, Electric Motorcycle News
+
+Locals have already taken to pulling portions of the fencing down, despite law enforcement telling them to hold off. 
+
+<br> 
+
+<https://www.rideapart.com/news/737321/colorado-cult-free-land-holders-committee-public-land/>
+
+---
+
+## This One-Off CFMoto Ibex 450 Looks Sick, Definitely Wheelies
+
+date: 2024-10-15, from: Ride Apart, Electric Motorcycle News
+
+Maybe the company should build it?  
+
+<br> 
+
+<https://www.rideapart.com/news/737220/cfmoto-roland-sands-design-vandal450/>
 
 ---
 
