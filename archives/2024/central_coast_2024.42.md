@@ -1,11 +1,151 @@
 ---
 title: central coast
-updated: 2024-10-16 09:06:12
+updated: 2024-10-16 09:46:51
 ---
 
 # central coast
 
-(date: 2024-10-16 09:06:12)
+(date: 2024-10-16 09:46:51)
+
+---
+
+## Santa Barbara County Stands Firm on Benefits of Earthquake Readiness
+
+date: 2024-10-16, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Barbara County Board of Supervisors has recognized the Great ShakeOut, slated for 10:17 a.m. Thursday, Oct. 17, as an opportunity for all community members to ensure their personal [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-county-stands-firm-on-benefits-of-earthquake-readiness/">Santa Barbara County Stands Firm on Benefits of Earthquake Readiness</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/santa-barbara-county-stands-firm-on-benefits-of-earthquake-readiness/>
+
+---
+
+## SBCC Hosts College Fair Night at Santa Barbara High School
+
+date: 2024-10-16, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara City College (SBCC) will connect local high school students with admission representatives from more than 70 postsecondary institutions, during College Fair Night, 6-8 p.m.&#160;Wednesday, Oct. 30 at the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/sbcc-hosts-college-fair-night-at-santa-barbara-high-school/">SBCC Hosts College Fair Night at Santa Barbara High School</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/sbcc-hosts-college-fair-night-at-santa-barbara-high-school/>
+
+---
+
+## City of Goleta Promotes Nina Buelna to Public Works Director
+
+date: 2024-10-16, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The city of Goleta has named Luz &#8220;Nina” Buelna as the new director of the Public Works Department. Buelna started with the city in August 2022 as the assistant Public [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/city-of-goleta-promotes-nina-buelna-to-public-works-director/">City of Goleta Promotes Nina Buelna to Public Works Director</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/city-of-goleta-promotes-nina-buelna-to-public-works-director/>
+
+---
+
+## Folk Orchestra of Santa Barbara’s Fall Harvest a Cornucopia of Music
+
+date: 2024-10-16, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Folk Orchestra of Santa Barbara will present Fall Harvest music from around the world in three concerts, Nov. 1-3. The Fall Harvest concerts will feature music from the U.S., [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/folk-orchestra-of-santa-barbaras-fall-harvest-offers-cornucopia-of-music/">Folk Orchestra of Santa Barbara&#8217;s Fall Harvest a Cornucopia of Music</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/folk-orchestra-of-santa-barbaras-fall-harvest-offers-cornucopia-of-music/>
+
+---
+
+## Santa Maria Escape Rooms Offer Spooky Challenges to Local Teens
+
+date: 2024-10-16, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Maria Recreation and Parks Department invites teens ages 12-18, in grades seven through 12, to the Spooktacular October: Escape Rooms, a series of escape room challenges designed to [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-maria-escape-rooms-offer-spooky-challenges-to-local-teens/">Santa Maria Escape Rooms Offer Spooky Challenges to Local Teens</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/santa-maria-escape-rooms-offer-spooky-challenges-to-local-teens/>
+
+---
+
+## Cox Communications Starts Digital Equity Partner Portal
+
+date: 2024-10-16, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Cox Communications has launched the Cox Partner Program, a nationwide effort dedicated to advancing digital equity through strategic partnerships with community organizations. According to Cox Communications, the Cox Partner Portal [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/cox-communications-starts-digital-equity-partner-portal/">Cox Communications Starts Digital Equity Partner Portal</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/cox-communications-starts-digital-equity-partner-portal/>
+
+---
+
+## Celebration of Life Will Remember Fire Capt. Anthony ‘Tony’ Pighetti
+
+date: 2024-10-16, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The city of Santa Barbara Fire Department is deeply saddened by the passing of retired Fire Capt. Anthony “Tony” Pighettii, a dedicated and beloved member of the department, who served [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/celebration-of-life-on-oct-20-will-remember-fire-capt-anthony-pighetti/">Celebration of Life Will Remember Fire Capt. Anthony &#8216;Tony&#8217; Pighetti</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/celebration-of-life-on-oct-20-will-remember-fire-capt-anthony-pighetti/>
+
+---
+
+## Crane Country Fair Offers Food, Fun
+
+date: 2024-10-16, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Crane Country Day School invites the community to the annual Crane Country Fair, 10 a.m.-3 p.m Sunday, Oct. 20 at 1795 San Leandro Lane, Montecito. For some 25 years, the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/crane-country-fair-offers-food-fun/">Crane Country Fair Offers Food, Fun</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/crane-country-fair-offers-food-fun/>
+
+---
+
+## Holiday Lights Designed to Turn on Shopping Spirit in Old Town Goleta
+
+date: 2024-10-16, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Shooting stars will soon light up Hollister Avenue in Old Town Goleta, and the community is invited to be there for the big reveal, 5-7 p.m. Thursday, Nov. 7. The [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/holiday-lights-designed-to-turn-on-shopping-spirit-in-old-town-goleta/">Holiday Lights Designed to Turn on Shopping Spirit in Old Town Goleta</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/holiday-lights-designed-to-turn-on-shopping-spirit-in-old-town-goleta/>
+
+---
+
+## Immerse Yourself in Dive-In Movie Night at Nelson Aquatic Center
+
+date: 2024-10-16, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Maria Recreation and Parks Department, and PLAY, Inc., invite the community to a free Dive-In Movie Night featuring the family film “Hocus Pocus,” Saturday, Oct. 19 at Paul [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/immerse-yourself-in-dive-in-movie-night-at-nelson-aquatic-center/">Immerse Yourself in Dive-In Movie Night at Nelson Aquatic Center</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/immerse-yourself-in-dive-in-movie-night-at-nelson-aquatic-center/>
 
 ---
 

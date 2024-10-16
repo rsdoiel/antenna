@@ -1,11 +1,115 @@
 ---
 title: going electric
-updated: 2024-10-16 09:06:27
+updated: 2024-10-16 09:46:53
 ---
 
 # going electric
 
-(date: 2024-10-16 09:06:27)
+(date: 2024-10-16 09:46:53)
+
+---
+
+## BYD unveils new Sealion 7 electric SUV in Europe to support rapid expansion plans
+
+date: 2024-10-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/BYD-sealion-7-Europe-front.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BYD’s new electric mid-size SUV stole the spotlight after making its European debut at the Paris Motor Show this week. <a href="https://electrek.co/guides/byd/">BYD</a> vows the Sealion 7 will extend its reach in Europe as a true challenger to top-selling EVs like Tesla’s Model Y.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="384496" href="https://electrek.co/2024/10/16/byd-unveils-new-sealion-7-electric-su-drive-europe-expansion/#more-384496" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/16/byd-unveils-new-sealion-7-electric-su-drive-europe-expansion/>
+
+---
+
+## Tesla gives an update on Powershare: Cybertruck powering your house
+
+date: 2024-10-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/Tesla-Cybertruck-Powershare-installation.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has given an update on its Powershare product, which allows Cybertrucks to power homes, as some owners have been experiencing significant delays.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="384500" href="https://electrek.co/2024/10/16/tesla-gives-an-update-on-powershare-cybertruck-powering-your-house/#more-384500" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/16/tesla-gives-an-update-on-powershare-cybertruck-powering-your-house/>
+
+---
+
+## Mercedes Teases Thinly Veiled 2026 CLA Plug-In Sedan
+
+date: 2024-10-16, from: Inside EVs News
+
+The electric version of the CLA promises outstanding efficiency thanks to its slippery body and 800-volt technology. 
+
+<br> 
+
+<https://insideevs.com/news/737648/mercedes-cla-ev-phev-teased/>
+
+---
+
+## Serve Robotics unveils Gen3 autonomous delivery robots to help scale services across the US
+
+date: 2024-10-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Delivery-robot-serve-Gen3-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Autonomous sidewalk delivery specialist <a href="https://electrek.co/guides/serve-robotics/">Serve Robotics</a> has just unveiled its third generation of robots that are faster, smarter, tougher, and a fraction of the cost to manufacture. With production now underway, Serve looks to deploy these upgraded delivery robots soon as a critical component in its plans to expand its services across the entire United States.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="autonomous-deliveries,robots,serve-robotics" data-layer-viewtype="unknown" data-post-id="384471" href="https://electrek.co/2024/10/16/serve-robotics-unveils-gen3-autonomous-delivery-robots-scale-across-us/#more-384471" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/16/serve-robotics-unveils-gen3-autonomous-delivery-robots-scale-across-us/>
+
+---
+
+## Inside Europe's Plan To Hit Back At China With Affordable EVs
+
+date: 2024-10-16, from: Inside EVs News
+
+Will it be enough? Plus, we look at the impact EVs will have on auto jobs and why U.S. battery investments are hardly slowing down. 
+
+<br> 
+
+<https://insideevs.com/news/737622/renault-europe-battery-stellantis-cm/>
+
+---
+
+## Tesla launches Supercharger network in Chile, a first entry South America
+
+date: 2024-10-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Tesla-Supercharger-Chile.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has officially launched its Supercharger network in Chile, which is the automaker’s first entry in South America.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="384472" href="https://electrek.co/2024/10/16/tesla-launches-supercharger-network-in-chile-a-first-entery-south-america/#more-384472" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/16/tesla-launches-supercharger-network-in-chile-a-first-entery-south-america/>
+
+---
+
+## Kia EV6 GT facelift finally sheds its camouflage: Here’s our first look at the updated EV
+
+date: 2024-10-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/01/Kia-EV6-GT-update-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia’s sporty <a href="https://electrek.co/guides/kia-ev6-gt/">EV6 GT</a> is getting an overhaul. With its debut around the corner, the Kia EV6 GT facelift was spotted without camouflage for the first time.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev6,kia-ev6-gt" data-layer-viewtype="unknown" data-post-id="384463" href="https://electrek.co/2024/10/16/kia-ev6-gt-facelift-sheds-camouflage-first-time-images/#more-384463" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/16/kia-ev6-gt-facelift-sheds-camouflage-first-time-images/>
 
 ---
 

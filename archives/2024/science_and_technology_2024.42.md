@@ -1,11 +1,83 @@
 ---
 title: science and technology
-updated: 2024-10-16 09:06:11
+updated: 2024-10-16 09:46:51
 ---
 
 # science and technology
 
-(date: 2024-10-16 09:06:11)
+(date: 2024-10-16 09:46:51)
+
+---
+
+## This Park Recreates Vincent van Gogh's 'The Starry Night' With a Dazzling Display of Plants, Trees and Winding Pathways
+
+date: 2024-10-16, from: Smithsonian Magazine
+
+At a new park in Bosnia and Herzegovina, two dozen gardeners have spent years replicating the Dutch artist's masterpiece using the land as their canvas 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/this-park-recreates-vincent-van-goghs-the-starry-night-with-a-dazzling-display-of-plants-trees-and-winding-pathways-180985270/>
+
+---
+
+## Viable fusion power in a decade? Tokamak Energy dares to dream
+
+date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
+
+<h4>Brit biz updates world on why tech might not be forever 30 years away</h4> <p>Brit nuclear fusion biz Tokamak Energy has detailed early progress in a US Department of Energy (DOE) project that aims to deliver commercial fusion energy in the next decade.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/16/tokamak_fusion_pilot/>
+
+---
+
+## FCC probes whether it can pop a cap in ISP data caps
+
+date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
+
+<h4>&#39;Our networks have the capacity to meet consumer demand without these restrictions,&#39; says chair</h4> <p>The US government&#39;s probe into the necessity of ISP data caps has escalated with the launch of a formal inquiry and the publication of hundreds of testimonials from those affected to drum up support for potential regulatory action.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/16/fcc_launches_formal_inquiry_into/>
+
+---
+
+## NASA to Embrace Commercial Sector, Fly Out Legacy Relay Fleet
+
+date: 2024-10-16, from: NASA breaking news
+
+NASA is one step closer on its transition to using commercially owned and operated satellite communications services to provide future near-Earth space missions with increased service coverage, availability, and accelerated science and data delivery.  &#160; &#160; As of Friday, Nov. 8, the agency’s legacy TDRS (Tracking and Data Relay Satellite) system, as part of the Near Space [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/tdrs/nasa-to-embrace-commercial-sector-fly-out-legacy-relay-fleet/>
+
+---
+
+## Sols 4334-4335: Planning with Popsicles — A Clipper Celebration!
+
+date: 2024-10-16, from: NASA breaking news
+
+Earth planning date: Monday, Oct. 14, 2024 Today was an unusually exciting day during tactical planning on the Curiosity mission because it intersected with a momentous event in space exploration: the launch of Europa Clipper from Kennedy Space Center. Even though the launch window occurred right in the middle of our morning planning meetings, at […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4334-4335-planning-with-popsicles-a-clipper-celebration/>
+
+---
+
+## IBM: Insurance industry bosses keen on AI. Customers, not so much
+
+date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
+
+<h4>Fewer than 30% of clients happy dealing with a generative AI virtual agent</h4> <p>An IBM study has found most insurance industry leaders believe generative AI is essential to keep pace with competitors. However, only a quarter of customers want anything to do with the technology.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/16/ibm_insurance_industry_bosses_keen/>
 
 ---
 
@@ -18,6 +90,18 @@ date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2024/10/16/testing_spacecraft_material_the_sandia/>
+
+---
+
+## NASA’s Hubble Sees a Stellar Volcano
+
+date: 2024-10-16, from: NASA breaking news
+
+NASA’s Hubble Space Telescope has provided a dramatic and colorful close-up look at one of the most rambunctious stars in our galaxy, weaving a huge spiral pattern among the stars. Located approximately 700 light-years away, a binary star system called R Aquarii undergoes violent eruptions that blast out huge filaments of glowing gas. The twisted […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/nasas-hubble-sees-a-stellar-volcano/>
 
 ---
 
@@ -93,7 +177,7 @@ date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
 
 ---
 
-## 'Newport would look like Dubai' if guy could dumpster dive for lost Bitcoin hard drive
+## 'Newport would look like Dubai' if guy could dumpster dive for lost Bitcoin drive
 
 date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
 

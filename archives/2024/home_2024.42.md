@@ -1,11 +1,51 @@
 ---
 title: home
-updated: 2024-10-16 09:06:19
+updated: 2024-10-16 09:46:52
 ---
 
 # home
 
-(date: 2024-10-16 09:06:19)
+(date: 2024-10-16 09:46:52)
+
+---
+
+## This Remote Orcas Island Getaway Was Constructed Without Removing a Single Tree
+
+date: 2024-10-16, from: Dwell
+
+The home's footprint is less than 100 square feet, but there's still ample space for gathering—including a bunk room that can sleep up to 10. 
+
+<br> 
+
+<https://www.dwell.com/article/this-remote-orcas-island-getaway-was-constructed-without-removing-a-single-tree-1974e5ee>
+
+---
+
+## Learn About Parasitic Beechdrops Plants
+
+date: 2024-10-16, from: The Gardener's Path
+
+<p>Beechdrops (Epifagus virginiana) are parasitic plants that grow on the roots of beech trees. They produce flowers in late summer, and far from being considered a nuisance to the woodland ecosystem, these bizarre parasites are actually an indicator of forest health. Learn more about beechdrops in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/beechdrops/">Learn About Parasitic Beechdrops Plants</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/beechdrops/>
+
+---
+
+## Maytag vs Whirlpool Washer: Which Reigns Supreme?
+
+date: 2024-10-16, from: Family Handyman Blog
+
+<p>Debating on buying a washer from Maytag vs. Whirlpool? Here's everything you need to know about these top two appliance brands.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/maytag-vs-whirlpool/">Maytag vs Whirlpool Washer: Which Reigns Supreme?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/maytag-vs-whirlpool/>
 
 ---
 
@@ -176,6 +216,18 @@ date: 2024-10-16, from: Yard Life blog
 
 ---
 
+## Sunset.com Home Page
+
+date: 2024-10-16, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
 ## Azalea Tree Care and Growing Guide for Outdoors (Most Detailed)
 
 date: 2024-10-16, from: Yard Life blog
@@ -330,18 +382,6 @@ As Hispanic Heritage Month (Sept 15-Oct 15) draws to a close, CDFA would like to
 <br> 
 
 <https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28338>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-10-15, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

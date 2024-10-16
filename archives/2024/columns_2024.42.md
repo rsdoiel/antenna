@@ -1,11 +1,35 @@
 ---
 title: columns
-updated: 2024-10-16 09:06:13
+updated: 2024-10-16 09:46:51
 ---
 
 # columns
 
-(date: 2024-10-16 09:06:13)
+(date: 2024-10-16 09:46:51)
+
+---
+
+## Minimalissimo, R.I.P.
+
+date: 2024-10-16, from: Om Malik blog
+
+I discovered Minimalissimo 15 years ago, literally on the day they started publishing. It became part of my RSS reader. It found a home in a folder called “The good stuff,” which had many such websites and blogs. These were aesthetics-oriented online destinations. Many of these sites are gone &#8212; becoming irrelevant with age. Others &#8230; 
+
+<br> 
+
+<https://om.co/2024/10/16/minimalissimo-r-i-p/>
+
+---
+
+##  Abortion: Our Bodies, Their Lies, and the Truths We Use to Win... 
+
+date: 2024-10-16, updated: 2024-10-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045454-abortion-our-bodies-their>
 
 ---
 
@@ -23,7 +47,7 @@ date: 2024-10-16, updated: 2024-10-16, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2024-10-16, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2022/09/21/mets.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://en.wikipedia.org/wiki/John_Gruber">Gruber</a> gave me an idea when he put his <a href="https://imgs.scripting.com/2024/10/16/daringFireballAndJankeesLogo.png">NYY logo</a> on his <a href="https://daringfireball.net/">blog</a>. I thought that was both interesting and weird. I don't get how anyone I know can be a fan of the Jankees. They're an American League team in a National League city. They may win the ALCS, but what does it mean? It's not going to make New York love them. But then Gruber is in Philadelphia. Why isn't he rooting for the Phillies, who btw, the Mets beat soundly in the division series, earlier this month. Hmmm. In any case, I have made the team picture of the 1969 world champion Mets as the banner image on Scripting News for now and into the forseeable future. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/10/16/philliesPhanaticMascot.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://en.wikipedia.org/wiki/John_Gruber">Gruber</a> gave me an idea when he put his <a href="https://imgs.scripting.com/2024/10/16/daringFireballAndJankeesLogo.png">NYY logo</a> on his <a href="https://daringfireball.net/">blog</a>. I thought that was both interesting and weird. I don't get how anyone I know can be a fan of the that team. An American League team in a National League city. Kind of like rooting for Staten Island. Anyway, the Yankees may win the <a href="https://www.baseball-reference.com/postseason/2024_ALCS.shtml">ALCS</a>, but what does it mean? It's not going to make New York love them. But then Gruber is in Philadelphia so why isn't he thinking about the Phillies, who btw, the Mets beat soundly in the division series, earlier this month. In any case, I have made the <a href="http://scripting.com/images/2024/10/16/mets1969TeamPicture.png">team picture</a> of the 1969 world champion Mets as the banner image on Scripting News for now and into the forseeable future. 
 
 <br> 
 
@@ -518,6 +542,18 @@ Ed Yong is a thoughtful guy &#8212; as he says at the end, his pillars are empat
 <br> 
 
 <https://tracydurnell.com/2024/10/14/watched-ed-yongs-xoxo-talk/>
+
+---
+
+## It feels like 2004 again.
+
+date: 2024-10-15, updated: 2024-10-15, from: Anil Dash blog
+
+ 
+
+<br> 
+
+<https://anildash.com/2024/10/15/its-2004-again/>
 
 ---
 

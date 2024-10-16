@@ -1,11 +1,23 @@
 ---
 title: socal north
-updated: 2024-10-16 09:06:07
+updated: 2024-10-16 09:46:51
 ---
 
 # socal north
 
-(date: 2024-10-16 09:06:07)
+(date: 2024-10-16 09:46:51)
+
+---
+
+## Patchy fog and drizzle this morning followed by partly cloudy skies
+
+date: 2024-10-16, updated: 2024-10-16, from: The LAist
+
+It's finally sweater weather. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/patchy-fog-drizzle-partly-cloudy>
 
 ---
 
@@ -35,7 +47,7 @@ Democrats in key legislative races say that abortion rights are under threat nat
 
 ## These Native American UCLA law school students learn the responsibilities of tribal lawyers
 
-date: 2024-10-15, updated: 2024-10-15, from: The LAist
+date: 2024-10-15, updated: 2024-10-16, from: The LAist
 
 A UCLA legal clinic is helping tribes rewrite constitutions, protect intellectual property, and improve domestic violence ordinances. 
 

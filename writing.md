@@ -1,11 +1,39 @@
 ---
 title: writing
-updated: 2024-10-16 09:06:16
+updated: 2024-10-16 09:46:52
 ---
 
 # writing
 
-(date: 2024-10-16 09:06:16)
+(date: 2024-10-16 09:46:52)
+
+---
+
+## How To Scare Your Reader
+
+date: 2024-10-16, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-to-scare-your-reader" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Horror%20Book.png" alt="Eerie horror creatures erupting from the pages of scary story." class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>The Horror/Thriller <a href="https://blog.finaldraft.com/what-genre-is-my-screenplay">genre</a> always thrives in the <a href="https://blog.finaldraft.com/5-ways-screenwriters-can-adapt-to-the-marketplace">screenplay marketplace</a>. This is largely because people enjoy being scared. It’s not unlike people enjoying a roller-coaster or haunted hayride. There’s a primal instinct — both exciting and cathartic in nature — that’s triggered when we’re scared, and that’s one of the reasons why people love thrillers and horror movies.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/how-to-scare-your-reader>
+
+---
+
+## Asunder by Kerstin Hall: Review by Liz Bourke
+
+date: 2024-10-16, from: Locus Magazine
+
+<p><strong>Asunder</strong>, Kerstin Hall (Tordotcom 978-1-250-62543-4, $29.99, 432pp, hc) August 2024. Cover art by Greg Ruth.</p>
+<p>Kerstin Hall writes sharp, fierce stories with precise and visceral prose, and with worldbuilding that possesses a keen sense for the weird, the haunting, the marvel­lous, and the twistedly strange. <strong>Asunder </strong>is only her fourth long-form work, her second novel (after 2021’s <strong>Star Eater </strong>and the novella duo <strong>The Border Keeper </strong>and <strong>Second Spear</strong> <a href="https://locusmag.com/2024/10/asunder-by-kerstin-hall-review-by-liz-bourke/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/10/asunder-by-kerstin-hall-review-by-liz-bourke/>
 
 ---
 

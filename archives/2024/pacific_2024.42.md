@@ -1,11 +1,59 @@
 ---
 title: pacific
-updated: 2024-10-16 09:06:08
+updated: 2024-10-16 09:46:51
 ---
 
 # pacific
 
-(date: 2024-10-16 09:06:08)
+(date: 2024-10-16 09:46:51)
+
+---
+
+## Free writing workshop this Saturday
+
+date: 2024-10-16, updated: 2024-10-16, from: Marianas Variety
+
+REMINDER that for Preptober, Marianas Writers Movement has a free, open-to-the public, writing workshop this Saturday, Oct. 19 from 10 am to 12 noon at the Joeten-Kiyu Public Library, VTC room. We will be working on novel plot and structure. Hoping to get ready for National Novel Writing Month (November)! 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/free-writing-workshop-this-saturday/article_b1b757fc-8bbb-11ef-a39d-cbe4159963a0.html>
+
+---
+
+## Suspended police officer released to custodian and placed under house arrest
+
+date: 2024-10-16, updated: 2024-10-16, from: Marianas Variety
+
+SUSPENDED Police Officer Troy Anthony Taman Manahane was released on Wednesday to a third-party custodian, his mother, and was placed under house arrest after posting 10% of the $10,000 bail set by the Superior Court. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/suspended-police-officer-released-to-custodian-and-placed-under-house-arrest/article_272c2f86-8b7f-11ef-b172-fb6e36c770e2.html>
+
+---
+
+## Court grants OAG motion for stay in Torres case
+
+date: 2024-10-16, updated: 2024-10-16, from: Marianas Variety
+
+JUDGE Pro Tempore Arthur Barcinas has granted the motion of the Office of the Attorney General for a stay of the order disqualifying Assistant Attorney General James Kingman and the OAG from prosecuting former Gov. Ralph DLG Torres due to a conflict of interest. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/court-grants-oag-motion-for-stay-in-torres-case/article_029abfd4-8b7f-11ef-975e-5f5164e0841d.html>
+
+---
+
+## Domino effect
+
+date: 2024-10-16, updated: 2024-10-16, from: Marianas Variety
+
+DEAR CNMI Community: 
+
+<br> 
+
+<https://www.mvariety.com/views/letters_to_editor/domino-effect/article_c7502e6e-8bce-11ef-b024-5be1e42a865b.html>
 
 ---
 

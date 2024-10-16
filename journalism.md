@@ -1,11 +1,23 @@
 ---
 title: journalism
-updated: 2024-10-16 09:06:17
+updated: 2024-10-16 09:46:52
 ---
 
 # journalism
 
-(date: 2024-10-16 09:06:17)
+(date: 2024-10-16 09:46:52)
+
+---
+
+## The FTC puts an end to “click to subscribe, call to cancel”
+
+date: 2024-10-16, from: Nieman Journalism Lab
+
+The days of signing up for a subscription in one click online, then spending an hour on the phone to try to cancel it, will soon be over — and newspaper (and gym, bottled water, clothing rental, you name it) cancellation horror stories will, fingers crossed, be a thing of the past. On Wednesday, after several... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/10/the-ftc-puts-an-end-to-click-to-subscribe-call-to-cancel/>
 
 ---
 

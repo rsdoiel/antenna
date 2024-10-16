@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2024-10-16 09:06:16
+updated: 2024-10-16 09:46:52
 ---
 
 # games
 
-(date: 2024-10-16 09:06:16)
+(date: 2024-10-16 09:46:52)
+
+---
+
+## Neko Atsume, but make it frogs
+
+date: 2024-10-16, updated: 2024-10-16, from: Polygon Website
+
+What if we just quit our jobs, moved back home, and started up a frog refuge with our childhood pals? That’s the premise of developer Humble Reeds’ creature collecting game Kamaeru: A Frog Refuge. And it’s a delight. If you’ve played Neko Atsume, you’ll understand the base gameplay of Kamaeru — attract frogs to your [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/466240/kamaeru-frog-refuge-neko-astume-impressions>
+
+---
+
+## This YouTuber made Brat and it’s the same but it’s on Mario Paint’s composer so it’s not
+
+date: 2024-10-16, updated: 2024-10-16, from: Polygon Website
+
+If you’ve used Mario Paint’s composer feature to create anything worth listening to, I’m in awe of you. And if you’ve used it to cover an entire album, like YouTuber fartmancomposer did with Charli xcx’s Brat, I’m even more in awe. The real album took the charts by storm all summer long, so it’s an [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/culture/466126/brat-mario-paint-composer-youtube>
+
+---
+
+## Resident Evil 4 remake is down to its lowest price ever
+
+date: 2024-10-16, updated: 2024-10-16, from: Polygon Website
+
+This is the discount that I have been personally waiting for all summer. The 2023 remake of Resident Evil 4 is on sale for $21.99 through Amazon for Xbox Series X and S, PlayStation 5, and PS4. That’s nearly half off its $39.99 list price 21% off its more typical $29.99 sales price. Amazon is [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/466113/resident-evil-4-sale-xbox-playstation>
+
+---
+
+## Let Matthew McConaughey tell you about the scariest shit in ex-BioWare devs new sci-fi RPG
+
+date: 2024-10-16, updated: 2024-10-16, from: Polygon Website
+
+It’s been a while since we’ve seen much from Wizards of the Coast and Archetype Entertainment’s Exodus, the upcoming sci-fi role-playing game from former BioWare developers. Sure, the studio has been dropping lore and concept art since revealing Exodus at last year’s The Game Awards, but a new trailer for the game released Wednesday offers [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/trailer/466017/exodus-game-archetype-trailer>
+
+---
+
+## Mothership, the tough as nails indie RPG, is back with a broadside of new projects on Backerkit
+
+date: 2024-10-16, updated: 2024-10-16, from: Polygon Website
+
+Tuesday Knight Games’ award-winning Mothership is a hit. The science fiction horror role-playing game is one of the few independently produced tabletop RPGs to go from online sensation to a real physical product available on store shelves. Co-creator Sean McCoy tells Polygon that part of that success is thanks to a dedicated community, including a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/465964/mothership-collab-funding-wages-of-sin>
+
+---
+
+## Analogue’s 4K Nintendo 64 clone slips to Q1 2025, priced at $250
+
+date: 2024-10-16, updated: 2024-10-16, from: Polygon Website
+
+Exactly one year from its announcement — in keeping with Analogue’s tradition of making major announcements on October 16 — comes news on the price, preorder and shipping dates for the Analogue 3D, the boutique clone console maker’s Nintendo 64-flavored variant. First, the bad news: while last year’s announcement committed to a 2024 release date, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/465074/analogue-64-preorder-release-date-announcement>
+
+---
+
+## Battletech Universe is the the ultimate MechWarrior primer
+
+date: 2024-10-16, updated: 2024-10-16, from: Polygon Website
+
+With a lore that spans roughly a millennium of human history, Catalyst Game Labs’ tabletop game Battletech can be very daunting to get into. Fear not, however, if you don’t have 8-plus hours to watch a deep dive into the history of the Inner Sphere. Catalyst Game Labs has published a 280-page hardcover guide to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/deals/465951/battletech-universe-mechwarrior-clan-book>
+
+---
+
+## Govee’s Sync Box 2 delivers spectacular TV lighting with fewer trade-offs
+
+date: 2024-10-16, updated: 2024-10-16, from: Polygon Website
+
+We’ve written previously about Govee’s smart TV lights, which mimic the colors from your screen and splash them behind the TV. They’re a great and somewhat affordable way to make watching movies or playing games more fun and immersive. If there’s a main downside to most of its models, it’s that they require you to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/deals/466070/govee-ai-sync-box-2-review-smart-tv-lights>
+
+---
+
+## Wallace and Gromit’s penguin nemesis returns in teaser for new Netflix short
+
+date: 2024-10-16, updated: 2024-10-16, from: Polygon Website
+
+I always breathe a sigh of relief after the announcement of a new Aardman Animation project. The studio behind some of the most imaginative stop-motion projects of the last 50 years has never been a household name or box-office titan like Walt Disney Animation, but founders Peter Lord and David Sproxton’s&#160;quirky claymation company remains just [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/24173526/wallace-and-gromit-short-penguin-vengeance-most-fowl-release-2025>
 
 ---
 

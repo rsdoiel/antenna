@@ -1,11 +1,24 @@
 ---
 title: health
-updated: 2024-10-16 09:06:26
+updated: 2024-10-16 09:46:53
 ---
 
 # health
 
-(date: 2024-10-16 09:06:26)
+(date: 2024-10-16 09:46:53)
+
+---
+
+## Demand COVID vaccine access at least twice a year for all ages! Public comment to the CDC closes Oct 18th
+
+date: 2024-10-16, from: People's CDC
+
+Vaccine public comment is due this Friday, October 18, all of us (including immunocompromised people and people age 65 and over) need access to COVID vaccines at least twice a year
+ 
+
+<br> 
+
+<https://peoplescdc.org/2024/10/16/demand-covid-vaccine-access-at-least-twice-a-year-for-all-ages-public-comment-to-the-cdc-closes-oct-18th/>
 
 ---
 
@@ -30,6 +43,42 @@ Salmonella enterica ser. Typhimurium is a common pathogen that poses a considera
 <br> 
 
 <https://www.frontiersin.org/articles/10.3389/fcimb.2024.1432111>
+
+---
+
+## Development and application of a quadruplex real-time PCR method for Torque teno sus virus 1, Porcine circovirus type 2, pseudorabies virus, and porcine parvovirus
+
+date: 2024-10-16, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionIn clinical diagnosis of porcine diseases, co-infection with multiple viruses often leads to similar clinical symptoms. Postweaning multisystemic wasting syndrome (PMWS) can be caused by infections with TTSuV or PCV2, while PCV2, PRV, and PPV can cause respiratory and reproductive disorders in pigs. The overlapping clinical and pathological features of these infections necessitate the development of a rapid and specific method for differentiating and detecting these four DNA viruses.MethodsIn this study, four pairs of primers and TaqMan probes were designed targeting the conserved sequence of TTSuV, the Rep gene of PCV2, the gE gene of PRV, and the VP2 gene of PPV. After optimizing reaction conditions, including annealing temperature, primer concentration, and probe concentration, a quadruplex real-time PCR method was developed.ResultsThis method can specifically detect TTSuV1, PCV2, PRV, and PPV simultaneously, with no cross-reactivity with ASFV, CSFV, PRRSV, PEDV, PSV, and TGEV. The minimum detection limit for each virus was 10 copies/μl, and the inter-assay and intra-assay coefficients of variation ranged from 0.33% to 1.43%. Subsequently, 150 clinical samples were tested to evaluate the practical applicability of this method. The positive rates for TTSuV1, PCV2, PRV, and PPV were 8.6% (13/150), 10.67% (16/150), 14% (21/150), and 11.33% (17/150), respectively.DiscussionThe results indicate that the established quadruplex real-time PCR method can assist in the accurate and rapid diagnosis of TTSuV1, PCV2, PRV, and PPV in clinical settings, providing robust support for the prevention and control of these infections. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1461448>
+
+---
+
+## Corrigendum: Sensor histidine kinases kdpD and aauS regulate biofilm and virulence in Pseudomonas aeruginosa PA14
+
+date: 2024-10-16, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1501233>
+
+---
+
+## Assessment of community-acquired urinary tract infections treatment in the emergency department: a retrospective study
+
+date: 2024-10-16, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionUrinary tract infection (UTI) is one of the most common medical complaints in the emergency department (ED). The aim of this study was to assess the real indication of an initial broad-spectrum treatment administered in the ED for hospitalized patients with a diagnosis of community-acquired UTI (CAUTI).Materials and methodsThis is a monocentric observational retrospective study conducted in the ED of one of the largest tertiary care centers in Lebanon, on a two-year period, including adult patients admitted to the hospital for a CAUTI. The primary outcome was to evaluate the need of downgrading empirical antibiotherapy started in the ED. Secondary outcomes included a description of CAUTIs characteristics: prevalence and risk factors for (extended spectrum beta lactamases) ESBL-related infection, complicated and uncomplicated UTIs, empirical and targeted treatment, and finally the rate of adherence to local guidelines.ResultsThe most isolated strains on urine cultures were gram negative bacilli (GNB) with 29.1% producing ESBL; 69.4% of patients received an ESBL-targeting empirical treatment in the ED, in agreement with local guidelines, 46% of which needed a downgrade. Amikacin adjunction was only indicated in 42.8% of the cases. Patients who received antibiotics in the last 6 months had a 2.36 times higher risk of developing an ESBL-related infection.ConclusionThis study showed a high adherence rate to local recommendations suggesting the use of empirical ESBL-targeting antibiotherapy even in uncomplicated UTIs. However, the frequent need of de-escalation highlights the importance of establishing an efficient multi-drug resistant (MDR) bacteria surveillance system in the community in order to elaborate a stewardship program with more solid local guidelines. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1433597>
 
 ---
 

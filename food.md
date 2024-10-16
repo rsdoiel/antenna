@@ -1,11 +1,71 @@
 ---
 title: food
-updated: 2024-10-16 09:06:29
+updated: 2024-10-16 09:46:53
 ---
 
 # food
 
-(date: 2024-10-16 09:06:29)
+(date: 2024-10-16 09:46:53)
+
+---
+
+## Pumpkin Puree
+
+date: 2024-10-16, from: Taste of Home
+
+Yes, you can learn how to make pumpkin puree at home! All you need is one small baking pumpkin, an oven and a food processor. You'll be left with 3 cups pumpkin puree to tackle your next pumpkin-filled recipe. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/pumpkin-puree/>
+
+---
+
+## Champagne Vinaigrette
+
+date: 2024-10-16, from: Taste of Home
+
+Delicate champagne vinaigrette is a lovely salad dressing that's light yet flavorful. It won't overwhelm a simple green salad and will harmonize a salad containing several different flavors and textures, such as fruit, nuts and cheese. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/champagne-vinaigrette-2/>
+
+---
+
+## How a Food Lover Navigates Life with Ulcerative Colitis
+
+date: 2024-10-16, from: Bon Appetet
+
+There are a lot of foods on her “must avoid” list, but that doesn’t mean she lives a life without flavor. 
+
+<br> 
+
+<https://www.bonappetit.com/story/real-life-diet-ulcerative-colitis>
+
+---
+
+## Salsa Borracha
+
+date: 2024-10-16, from: Taste of Home
+
+This salsa borracha recipe is one you'll come back to again and again, both because it's delicious and because it's easy to make. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/salsa-borracha/>
+
+---
+
+## Seafood Mac and Cheese
+
+date: 2024-10-16, from: Taste of Home
+
+Comfort food gets an upgrade with seafood mac and cheese. Our recipe pairs lobster and shrimp with a blend of cheeses and a little bit of heat. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/seafood-mac-and-cheese/>
 
 ---
 
@@ -61,7 +121,7 @@ date: 2024-10-16, from: The Sprudge
 
 date: 2024-10-16, from: Bon Appetet
 
-"When you’re living communally, everybody has responsibility and power.” 
+“When you’re living communally, everybody has responsibility and power.” 
 
 <br> 
 

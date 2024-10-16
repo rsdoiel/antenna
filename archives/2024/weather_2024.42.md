@@ -1,19 +1,59 @@
 ---
 title: weather
-updated: 2024-10-16 09:06:15
+updated: 2024-10-16 09:46:52
 ---
 
 # weather
 
-(date: 2024-10-16 09:06:15)
+(date: 2024-10-16 09:46:52)
 
 ---
 
-## SPC - No watches are valid as of Wed Oct 16 13:26:02 UTC 2024
+## SPC Oct 16, 2024 1630 UTC Day 1 Convective Outlook
 
 date: 2024-10-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Wed Oct 16 13:26:02 UTC 2024. 
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1107 AM CDT Wed Oct 16 2024
+
+Valid 161630Z - 171200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Organized severe thunderstorms are not expected.
+
+...Great Basin...
+A weak upper trough and pockets of residual mid-level moisture will
+result in scattered showers and thunderstorms across much of the
+Great Basin today.  Model guidance suggests a weak mid-level speed
+max moving across the Four Corners region into western CO.  Steep
+low and mid level lapse rates could aid in locally gusty winds in
+the strongest cells.  No organized severe storms are expected.
+
+Other thunderstorms will occur beneath an upper trough affecting the
+Pacific Northwest states.  Finally, a few thunderstorms are possible
+in a warm/moist air mass present across south TX and south FL.
+
+..Hart/Thornton.. 10/16/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
+
+---
+
+## SPC - No watches are valid as of Wed Oct 16 16:12:01 UTC 2024
+
+date: 2024-10-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Wed Oct 16 16:12:01 UTC 2024. 
 
 <br> 
 
@@ -21,15 +61,27 @@ No watches are valid as of Wed Oct 16 13:26:02 UTC 2024.
 
 ---
 
-## SPC - No MDs are in effect as of Wed Oct 16 13:26:02 UTC 2024
+## SPC - No MDs are in effect as of Wed Oct 16 16:12:01 UTC 2024
 
 date: 2024-10-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Wed Oct 16 13:26:02 UTC 2024. 
+No Mesoscale Discussions are in effect as of Wed Oct 16 16:12:01 UTC 2024. 
 
 <br> 
 
 <https://www.spc.noaa.gov/products/md/>
+
+---
+
+## There are no tropical cyclones at this time.
+
+date: 2024-10-16, from: Eastern Pacific Basin GIS Data
+
+No tropical cyclones as of Wed, 16 Oct 2024 14:32:04 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/>
 
 ---
 
@@ -92,18 +144,6 @@ should result.
 
 ---
 
-## There are no tropical cyclones at this time.
-
-date: 2024-10-16, from: Eastern Pacific Basin GIS Data
-
-No tropical cyclones as of Wed, 16 Oct 2024 11:49:13 GMT 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gis/>
-
----
-
 ## NHC Atlantic Outlook
 
 date: 2024-10-16, from: Graphical Tropical Weather Outlooks
@@ -126,27 +166,26 @@ ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS N
 
 ---
 
-## Central North Pacific Tropical Weather Outlook
+## Central Pacific Tropical Weather Outlook
 
-date: 2024-10-16, from: Central Pacific Basin Tropical Cyclones
+date: 2024-10-16, from: Central Pacific Tropical Weather Outlook
 
-
-<br/>
-000<br/>
-ACPN50 PHFO 161130<br/>
-TWOCP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS Central Pacific Hurricane Center Honolulu HI<br/>
-200 AM HST Wed Oct 16 2024<br/>
-<br/>
-For the central North Pacific...between 140W and 180W:<br/>
-<br/>
-No tropical cyclones are expected during the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster Bohlin<br/>
- 
+ <br />
+ 000<br />
+ ACPN50 PHFO 161130<br />
+ TWOCP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS Central Pacific Hurricane Center Honolulu HI<br />
+ 200 AM HST Wed Oct 16 2024<br />
+ <br />
+ For the central North Pacific...between 140W and 180W:<br />
+ <br />
+ No tropical cyclones are expected during the next 7 days.<br />
+ <br />
+ $$<br />
+ Forecaster Bohlin<br />
+  
 
 <br> 
 
@@ -158,7 +197,7 @@ Forecaster Bohlin<br/>
 
 date: 2024-10-16, from: Central Pacific Basin Tropical Cyclones
 
-No tropical cyclones as of Wed, 16 Oct 2024 11:49:13 GMT 
+No tropical cyclones as of Wed, 16 Oct 2024 14:32:04 GMT 
 
 <br> 
 
@@ -166,27 +205,26 @@ No tropical cyclones as of Wed, 16 Oct 2024 11:49:13 GMT
 
 ---
 
-## Eastern North Pacific Tropical Weather Outlook
+## Eastern Pacific Tropical Weather Outlook
 
-date: 2024-10-16, from: Eastern Pacific Basin Tropical Cyclones
+date: 2024-10-16, from: Eastern Pacific Tropical Weather Outlook
 
-
-<br/>
-000<br/>
-ABPZ20 KNHC 161114<br/>
-TWOEP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS National Hurricane Center Miami FL<br/>
-500 AM PDT Wed Oct 16 2024<br/>
-<br/>
-For the eastern North Pacific...east of 140 degrees west longitude:<br/>
-<br/>
-Tropical cyclone formation is not expected during the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster Cangialosi<br/>
- 
+ <br />
+ 000<br />
+ ABPZ20 KNHC 161114<br />
+ TWOEP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS National Hurricane Center Miami FL<br />
+ 500 AM PDT Wed Oct 16 2024<br />
+ <br />
+ For the eastern North Pacific...east of 140 degrees west longitude:<br />
+ <br />
+ Tropical cyclone formation is not expected during the next 7 days.<br />
+ <br />
+ $$<br />
+ Forecaster Cangialosi<br />
+  
 
 <br> 
 
