@@ -1,11 +1,227 @@
 ---
 title: going electric
-updated: 2024-10-15 08:49:11
+updated: 2024-10-15 17:51:32
 ---
 
 # going electric
 
-(date: 2024-10-15 08:49:11)
+(date: 2024-10-15 17:51:32)
+
+---
+
+## Tesla needs to come clean about HW3, 2025 GMC Sierra leaks, and big windmills
+
+date: 2024-10-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/not-a-lie.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On today’s exciting episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, we think Tesla needs to come clean about what’s happening with HW3, GMC leaks 2025 Sierra EV Denali pricing online, and charging up your Nissan and VW might have just gotten a whole lot easier.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="gmc,quick-charge,tesla-full-self-driving,wind-power" data-layer-viewtype="unknown" data-post-id="384390" href="https://electrek.co/2024/10/15/tesla-needs-to-come-clean-about-hw3-2025-gmc-sierra-leaks-and-big-windmills/#more-384390" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/15/tesla-needs-to-come-clean-about-hw3-2025-gmc-sierra-leaks-and-big-windmills/>
+
+---
+
+## Tesla moves around $600 million worth of Bitcoin, but why?
+
+date: 2024-10-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-bitcoin.jpeg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has been moving around a lot of Bitcoin to a new wallet, a first for the automaker who first cot into crypto a few years ago before getting cold feet.</p>
+
+
+
+<p>What does this mean? Probably not much.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="384387" href="https://electrek.co/2024/10/15/tesla-moves-around-600-million-worth-of-bitcoin-but-why/#more-384387" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/15/tesla-moves-around-600-million-worth-of-bitcoin-but-why/>
+
+---
+
+## Tesla Semi will be available worldwide, says Elon Musk
+
+date: 2024-10-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/01/Tesla-Semi-fleet-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Elon Musk announced that the Tesla Semi class 8 electric truck will be available worldwide, but they need to bring it to production.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-semi" data-layer-viewtype="unknown" data-post-id="384352" href="https://electrek.co/2024/10/15/tesla-semi-will-be-available-worldwide-says-elon-musk/#more-384352" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/15/tesla-semi-will-be-available-worldwide-says-elon-musk/>
+
+---
+
+## Stellantis Pushes Leapmotor Further Into Europe With B10 Crossover
+
+date: 2024-10-15, from: Inside EVs News
+
+This EV will be made in Europe and cost as little as $14,110 in its home market of China. 
+
+<br> 
+
+<https://insideevs.com/news/737525/leapmotor-paris-b10-crossover-ev/>
+
+---
+
+## Honda Prologue becomes the 5th best-selling EV in the US after Q3 sales surge
+
+date: 2024-10-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Honda-Prologue-lease-Civic.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Honda’s electric SUV was the 5th best-selling EV in the US after sales surged in the third quarter. <br>As the electric SUV rolls out to dealers nationwide, the <a href="https://electrek.co/guides/honda-prologue/">Honda Prologue</a> is winning over buyers.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="honda,honda-prologue" data-layer-viewtype="unknown" data-post-id="384367" href="https://electrek.co/2024/10/15/honda-prologue-becomes-5th-best-selling-ev-us/#more-384367" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/15/honda-prologue-becomes-5th-best-selling-ev-us/>
+
+---
+
+## Toyota, Lexus EVs Get Free Fast Charging In NYC In Boost For Ride-Hail Drivers
+
+date: 2024-10-15, from: Inside EVs News
+
+Toyota has teamed up with ride-hail start-up Revel to offer complimentary charging to bZ4x and RZ drivers. 
+
+<br> 
+
+<https://insideevs.com/news/737522/toyota-revel-free-fast-charging-new-york-city/>
+
+---
+
+## Segway Navimow debuts X3 Series robot lawn mower that covers up to 2.5 acres without perimeter wires
+
+date: 2024-10-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Lifestyle-X3.png?w=1600" /></div><p>Segway Navimow is introducing the world to its <a href="https://navimow.segway.com/fi/product/navimow-x.html">new X3 series of robot lawn mowers</a> that are designed to provide autonomous lawn care support for medium to large yards. Presentations of this new model in the United States begin today at the Equip Expo in Louisville, Kentucky through October 18, with pre-orders only open to dealers and distributors at the moment. This new premium model is a follow-up to its i110N predecessor that tosses out boundary wire needs with expanded functionality to tackle professional and homeowner needs to maintain up to 2.5 acres of land. Head below to continue learning more about this all-new entry into the autonomous lawn care market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="384368" href="https://9to5toys.com/2024/10/15/segway-navimow-debuts-x3-series-robot-lawn-mower-that-covers-up-to-2-5-acres-without-perimeter-wires/#more-384368" class="more-link">more…</a> 
+
+<br> 
+
+<https://9to5toys.com/2024/10/15/segway-navimow-debuts-x3-series-robot-lawn-mower-that-covers-up-to-2-5-acres-without-perimeter-wires/>
+
+---
+
+## Tesla Cybertruck Initial Reservation List May Now Be 'Exhausted'
+
+date: 2024-10-15, from: Inside EVs News
+
+The Cybertruck has had a strong run of sales so far in 2024. It also had years of reservations to fulfill. Now what happens? 
+
+<br> 
+
+<https://insideevs.com/news/737516/tesla-cybertruck-reservations-usa-sales/>
+
+---
+
+## Mercedes’ new entry-level CLA EV teased with a sleek design ahead of its upcoming debut
+
+date: 2024-10-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Mercedes-lower-priced-CLA-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/mercedes-benz/">Mercedes</a> is teasing its upcoming lower-priced CLA EV ahead of its official debut. The new entry-level electric car is shown with a sleek new design as it nears production.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mercedes-benz" data-layer-viewtype="unknown" data-post-id="384343" href="https://electrek.co/2024/10/15/mercedes-teases-new-lower-priced-cla-ev-sleek-design/#more-384343" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/15/mercedes-teases-new-lower-priced-cla-ev-sleek-design/>
+
+---
+
+## ENGWE L20 2.0 e-bike with free gear at $799, Jackery Explorer 2000 v2 returns to $999 low, Goal Zero torch/power bank, more
+
+date: 2024-10-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/engwe-l20-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Today’s Green Deals are led by <a href="https://9to5toys.com/2024/10/14/engwes-l20-2-0-e-bike-with-28-mph-top-speeds-and-68-miles-of-range-falls-to-799-in-autumn-sale-reg-999/">ENGWE’s Autumn Sale</a>, which has dropped its new entry-level <a href="https://9to5toys.com/2024/10/14/engwes-l20-2-0-e-bike-with-28-mph-top-speeds-and-68-miles-of-range-falls-to-799-in-autumn-sale-reg-999/">L20 2.0 e-bike to $799</a> while also giving you $268 in free gear, among many other models. We also spotted a second chance to score <a href="https://9to5toys.com/2024/10/15/second-chance-to-grab-jackerys-new-explorer-2000-v2-lifepo4-power-station-at-return-999-prime-day-low-500-off/">Jackery’s new Explorer 2000 v2 Portable Power Station</a> back at its <a href="https://9to5toys.com/2024/10/15/second-chance-to-grab-jackerys-new-explorer-2000-v2-lifepo4-power-station-at-return-999-prime-day-low-500-off/">$999 Prime Day low</a> price. <a href="https://9to5toys.com/2024/10/15/let-there-be-light-and-backup-power-with-goal-zeros-500-lumen-torch-light-and-5200mah-solar-power-bank-at-40/">Goal Zero’s 500 Lumen Torch Light</a> which also doubles as a 5,200mAh solar charging power bank is getting a nice price cut to <a href="https://9to5toys.com/2024/10/15/let-there-be-light-and-backup-power-with-goal-zeros-500-lumen-torch-light-and-5200mah-solar-power-bank-at-40/">$40</a>, while we also have two one-day-only discounts on <a href="https://9to5toys.com/2024/10/15/add-ankers-400w-solix-ps400-portable-solar-panel-to-your-setup-at-629-for-today-only-reg-899/">Anker’s 400W SOLIX PS400 Portable Power Station at $629</a> and <a href="https://9to5toys.com/2024/10/15/keep-limbs-in-shape-with-greenworks-80v-26-inch-cordless-electric-hedge-trimmer-at-175-save-75-today-only/">Greenworks’ 80V 26-inch Cordless Electric Hedge Trimmer at $175</a>. Plus, all the other hangover Green Deals in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2024/10/14/lectrics-best-selling-xp-3-0-long-range-e-bikes-get-limited-time-507-of-free-camping-gear-at-1299/">Lectric XP 3.0 Long-Range e-bike flash sale</a> that ends tomorrow or <a href="https://9to5toys.com/2024/10/14/save-800-on-bluettis-2048wh-ac200l-lifepo4-power-station-at-1199-low-in-post-prime-day-sale-more-from-199/">Bluetti’s ongoing post-Prime Day sale</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="384340" href="https://electrek.co/2024/10/15/engwe-l20-2-0-e-bike-jackery-explorer-2000-v2-goal-zero-more/#more-384340" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/15/engwe-l20-2-0-e-bike-jackery-explorer-2000-v2-goal-zero-more/>
+
+---
+
+## Volkswagen Gives The ID. Buzz 500 kWh Worth Of Free DC Fast Charging
+
+date: 2024-10-15, from: Inside EVs News
+
+It also includes a three-year membership to Electrify America's Pass+ DC fast charging plan.  
+
+<br> 
+
+<https://insideevs.com/news/737510/id-buzz-free-charging-electrify-america/>
+
+---
+
+## Rho Motion’s latest data report details record global EV sales for September, led by China
+
+date: 2024-10-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Global-EV-sales-Rho-Motion.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Leading research house Rho Motion has published its monthly global EV sales report, relaying that the industry saw a record amount of <a href="https://electrek.co/guides/ev-sales/">purchases</a> in September. It should come as little surprise that EV powerhouse China led the world in the 1.7 million EVs sold around the world last month.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-sales,rho-motion" data-layer-viewtype="unknown" data-post-id="384321" href="https://electrek.co/2024/10/15/rho-motion-data-report-record-global-ev-sales-september-led-by-china/#more-384321" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/15/rho-motion-data-report-record-global-ev-sales-september-led-by-china/>
+
+---
+
+## Nissan Ariyas are getting Tesla Supercharger access in 2024
+
+date: 2024-10-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Nissan-Ariya-lease-prices-Rogue.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Nissan Ariya drivers are getting NACS adapters this year so they can charge at compatible Tesla Superchargers – and Nissan has another big announcement, too. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrify-america,nissan,nissan-ariya,supercharger,tesla,tesla-supercharger" data-layer-viewtype="unknown" data-post-id="384315" href="https://electrek.co/2024/10/15/nissan-ariya-tesla-supercharger-access-2024/#more-384315" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/15/nissan-ariya-tesla-supercharger-access-2024/>
+
+---
+
+## Volkswagen ID.3 gains new LFP battery pack to keep up with cheaper EVs in China
+
+date: 2024-10-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/08/VW-ID.3-orders.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Volkswagen is launching a new <a href="https://electrek.co/guides/vw-id-3/">ID.3</a> model in China with an LFP battery pack as it looks to compete with lower-priced rivals. Chinese automakers like CATL and BYD dominate the LFP battery market, but VW hopes the new model can help spark sales in the world’s largest EV market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volkswagen,vw,vw-id-3" data-layer-viewtype="unknown" data-post-id="384301" href="https://electrek.co/2024/10/15/volkswagen-id-3-gains-lfp-battery-rival-cheaper-evs-china/#more-384301" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/15/volkswagen-id-3-gains-lfp-battery-rival-cheaper-evs-china/>
 
 ---
 
@@ -117,7 +333,7 @@ Plus, the Cybertruck reservation list isn't so exclusive anymore, and Toyota war
 
 ---
 
-## Will Most Used EVs End Up Around $25,000? New Data Says 'Maybe.'
+## Used EVs May Mostly End Up Around $25,000: Study
 
 date: 2024-10-15, from: Inside EVs News
 
@@ -537,18 +753,6 @@ The first-ever battery-powered Mini JCW models are here. But you probably alread
 
 ---
 
-## Lucid Air Pure Lease Rate Drops To $549 Per Month
-
-date: 2024-10-13, from: Inside EVs News
-
-The Pure is the most efficient version of the Air, too. 
-
-<br> 
-
-<https://insideevs.com/news/736717/lucid-air-pure-lease-deal/>
-
----
-
 ## Rosenbauer opens the order books on Panther 6×6 electric fire truck [video]
 
 date: 2024-10-13, from: Electrek Feed
@@ -562,30 +766,6 @@ date: 2024-10-13, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2024/10/13/rosenbauer-opens-the-order-books-on-panther-6x6-electric-fire-truck-video/>
-
----
-
-## The Lynk & Co 02 Is A Volvo EX30 Designed To Make Car Sharing Easier
-
-date: 2024-10-13, from: Inside EVs News
-
-This small crossover has a "sharing strap" that will take the driver directly to the app used to manage the carsharing program. 
-
-<br> 
-
-<https://insideevs.com/news/737128/lynk-and-co-02-sharing/>
-
----
-
-## U.S. EV Sales Hit Another Record In Q3 2024: '10% Share Within Reach'
-
-date: 2024-10-13, from: Inside EVs News
-
-General Motors has officially become America's second-best-selling EV maker behind Tesla, pushing Hyundai Motor Group into the third spot. 
-
-<br> 
-
-<https://insideevs.com/news/737158/us-ev-sales-q3-2024/>
 
 ---
 

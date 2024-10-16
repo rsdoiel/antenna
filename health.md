@@ -1,11 +1,23 @@
 ---
 title: health
-updated: 2024-10-15 08:49:11
+updated: 2024-10-15 17:51:32
 ---
 
 # health
 
-(date: 2024-10-15 08:49:11)
+(date: 2024-10-15 17:51:32)
+
+---
+
+## PMCNA_RS00975 activates NF-κB and ERK1/2 through TLR2 and contributes to the virulence of Pasteurella multocida
+
+date: 2024-10-15, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionPasteurella multocida is a pathogenic bacterium known to cause hemorrhagic septicemia and pneumonia in poultry. Reports have indicated that certain proteins, either directly involved in or regulating iron metabolism, are important virulence factors of P. multocida. Therefore, understanding virulent factors and analyzing the role of pro-inflammatory cytokines can help us elucidate the underlying pathogenesis.MethodsIn this study, the PMCNA_RS00975 protein, a putative encapsuling protein encoded by a gene from a specific prophage island of the pathogenic strain C48-1 of P. multocida, was investigated. To further explore the impact of the PMCNA_RS00975 protein on pathogenicity, a PMCNA_RS00975 gene mutant of P. multocida strain C48-1 was constructed using positive selection technology. Subcellular localization was performed to determine the location of the PMCNA_RS00975 protein within P. multocida. The recombinant protein PMCNA_RS00975 of P. multocida was soluble expressed, purified, and its role in pro-inflammatory cytokines was investigated.ResultsThe mutant exhibited significantly reduced pathogenicity in the mice model. Furthermore, subcellular localization indicated that the PMCNA_RS00975 protein was located at the outer membrane and expressed during infection of P. multocida. Additionally, our experiments revealed that recombinant PMCNA_RS00975 protein promotes the secretion of the IL-6 pro-inflammatory cytokines triggered by the TLR2 receptor via NF-κB and ERK1/2 signaling pathways in the macrophages.DiscussionThis study identified a novel virulence factor in the C48-1 strain, providing a basis for understanding the pathogenesis and directions for the development of attenuated vaccines against P. multocida. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1469304>
 
 ---
 
@@ -33,18 +45,6 @@ Ulcerative colitis (UC) is an inflammatory bowel disease characterized by recurr
 
 ---
 
-## PMCNA_RS00975 activates NF-κB and ERK1/2 through TLR2 and contributes to the virulence of Pasteurella multocida
-
-date: 2024-10-15, from: Frontiers in Cellular and Infection Microbiology
-
-IntroductionPasteurella multocida is a pathogenic bacterium known to cause hemorrhagic septicemia and pneumonia in poultry. Reports have indicated that certain proteins, either directly involved in or regulating iron metabolism, are important virulence factors of P. multocida. Therefore, understanding virulent factors and analyzing the role of pro-inflammatory cytokines can help us elucidate the underlying pathogenesis.MethodsIn this study, the PMCNA_RS00975 protein, a putative encapsuling protein encoded by a gene from a specific prophage island of the pathogenic strain C48-1 of P. multocida, was investigated. To further explore the impact of the PMCNA_RS00975 protein on pathogenicity, a PMCNA_RS00975 gene mutant of P. multocida strain C48-1 was constructed using positive selection technology. Subcellular localization was performed to determine the location of the PMCNA_RS00975 protein within P. multocida. The recombinant protein PMCNA_RS00975 of P. multocida was soluble expressed, purified, and its role in pro-inflammatory cytokines was investigated.ResultsThe mutant exhibited significantly reduced pathogenicity in the mice model. Furthermore, subcellular localization indicated that the PMCNA_RS00975 protein was located at the outer membrane and expressed during infection of P. multocida. Additionally, our experiments revealed that recombinant PMCNA_RS00975 protein promotes the secretion of the IL-6 pro-inflammatory cytokines triggered by the TLR2 receptor via NF-κB and ERK1/2 signaling pathways in the macrophages.DiscussionThis study identified a novel virulence factor in the C48-1 strain, providing a basis for understanding the pathogenesis and directions for the development of attenuated vaccines against P. multocida. 
-
-<br> 
-
-<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1469304>
-
----
-
 ## Deciphering the killing mechanisms of potassium iodide in combination with antimicrobial photodynamic therapy against cross-kingdom biofilm
 
 date: 2024-10-15, from: Frontiers in Cellular and Infection Microbiology
@@ -69,15 +69,15 @@ This is the @PeoplesCDC bi-weekly update for October 14, 2024. This Weather Repo
 
 ---
 
-## Mycobacterium tuberculosis combine with EBV infection in severe adult meningoencephalitis: a rare case reports and literature review
+## Natural compound-induced downregulation of antimicrobial resistance and biofilm-linked genes in wastewater Aeromonas species
 
 date: 2024-10-14, from: Frontiers in Cellular and Infection Microbiology
 
-BackgroundTuberculous meningitis (TBM) with adults Epstein-Barr (EB) virus encephalitis is a very rare infectious disease, with a high mortality and disability. Metagenomic next-generation sequencing (mNGS) of cerebrospinal fluid (CSF) is highly diagnostic. We report on a case of severe meningoencephalitis caused by co-infection with mycobacterium tuberculosis and EB virus. Brain MRI indicated a parenchyma lesion in the brain. mNGS of CSF indicated Mycobacterium tuberculosis and EB virus amplification, positive serum EB virus IgG antibodies, and improved symptoms after anti-tuberculosis and antiviral treatment. A re-examination of the brain MRI revealed that the significantly absorption of the lesions.Case reportA 49-year-old male patient presented with a chief complaint of headache and fever with consciousness disturbance. The brain magnetic resonance imaging showed a lesions in the right parenchymal brain with uneven enhancement, accompanied by significantly increased intracranial pressure, elevated CSF cell count and protein levels, as well as notably decreased glucose and chloride levels. mNGS of CSF showed the coexistence of Mycobacterium tuberculosis and EBV. The patient was diagnosed as TBM with EBV encephalitis. The patient’s symptoms gradually improved with the active administration of anti-tuberculosis combined with antiviral agents, the use of hormones to reduce inflammatory reaction, dehydration to lower intracranial pressure, and intrathecal injection. Subsequent follow-up brain magnetic resonance imaging indicated significant absorption of the lesions, along with a marked decrease in CSF count and protein levels, as well as obvious increase in glucose and chloride levels.ConclusionTBM associated with adult EBV encephalitis is extremely rare. The disease’s early stages are severe and have a high fatality rate. A prompt and accurate diagnosis is particularly important. NGS of CSF is of great value for early diagnosis. 
+Addressing the global antimicrobial resistance (AMR) crisis requires a multifaceted innovative approach to mitigate impacts on public health, healthcare and economic systems. In the complex evolution of AMR, biofilms and the acquisition of antimicrobial resistance genes (ARGs) play a pivotal role. Aeromonas is a major AMR player that often forms biofilm, harbors ARGs and is frequently detected in wastewater. Existing wastewater treatment plants (WWTPs) do not have the capacity to totally eliminate antimicrobial-resistant bacteria favoring the evolution of ARGs in wastewater. Besides facilitating the emergence of AMR, biofilms contribute significantly to biofouling process within the activated sludge of WWTP bioreactors. This paper presents the inhibition of biofilm formation, the expression of biofilm-linked genes and ARGs by phytochemicals andrographolide, docosanol, lanosterol, quercetin, rutin and thymohydroquinone. Aeromonas species were isolated and purified from activated sludge samples. The ARGs were detected in the isolated Aeromonas species through PCR. Aeromonas biofilms were quantified following the application of biocompounds through the microtiter plate assay. qPCR analyses of related genes were done for confirmation. Findings showed that the natural compounds inhibited the formation of biofilms and reduced the expression of genes linked to biofilm production as well as ARGs in wastewater Aeromonas. This indicates the efficacy of these compounds in targeting and controlling both ARGs and biofilm formation, highlighting their potential as innovative solutions for combating antimicrobial resistance and biofouling. 
 
 <br> 
 
-<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1361119>
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1456700>
 
 ---
 
@@ -93,27 +93,15 @@ IntroductionMetabolic dysfunction-associated fatty liver disease (MAFLD) has eme
 
 ---
 
-## Natural compound-induced downregulation of antimicrobial resistance and biofilm-linked genes in wastewater Aeromonas species
+## Trypanosoma cruzi-derived exovesicles contribute to parasite infection, tissue damage, and apoptotic cell death during ex vivo infection of human placental explants
 
 date: 2024-10-14, from: Frontiers in Cellular and Infection Microbiology
 
-Addressing the global antimicrobial resistance (AMR) crisis requires a multifaceted innovative approach to mitigate impacts on public health, healthcare and economic systems. In the complex evolution of AMR, biofilms and the acquisition of antimicrobial resistance genes (ARGs) play a pivotal role. Aeromonas is a major AMR player that often forms biofilm, harbors ARGs and is frequently detected in wastewater. Existing wastewater treatment plants (WWTPs) do not have the capacity to totally eliminate antimicrobial-resistant bacteria favoring the evolution of ARGs in wastewater. Besides facilitating the emergence of AMR, biofilms contribute significantly to biofouling process within the activated sludge of WWTP bioreactors. This paper presents the inhibition of biofilm formation, the expression of biofilm-linked genes and ARGs by phytochemicals andrographolide, docosanol, lanosterol, quercetin, rutin and thymohydroquinone. Aeromonas species were isolated and purified from activated sludge samples. The ARGs were detected in the isolated Aeromonas species through PCR. Aeromonas biofilms were quantified following the application of biocompounds through the microtiter plate assay. qPCR analyses of related genes were done for confirmation. Findings showed that the natural compounds inhibited the formation of biofilms and reduced the expression of genes linked to biofilm production as well as ARGs in wastewater Aeromonas. This indicates the efficacy of these compounds in targeting and controlling both ARGs and biofilm formation, highlighting their potential as innovative solutions for combating antimicrobial resistance and biofouling. 
+Trypanosoma cruzi, the causative agent of Chagas disease, can be congenitally transmitted by crossing the placental barrier. This study investigates the role of T. cruzi-derived exovesicles (TcEVs) in facilitating parasite infection and the consequent tissue damage and apoptotic cell death in human placental explants (HPEs). Our findings demonstrate that TcEVs significantly enhance the parasite load and induce tissue damage in HPEs, both in the presence and absence of the parasite. Through histopathological and immunohistochemical analyses, we show that TcEVs alone can disrupt the placental barrier, affecting the basal membrane and villous stroma. The induction of apoptotic cell death is evidenced by DNA fragmentation, caspase 8 and 3, and p18 fragment immunodetection. This damage is exacerbated when TcEVs are combined with T. cruzi infection. These findings suggest that TcEVs play a critical role in the pathogenesis of congenital Chagas disease by disrupting the placental barrier and facilitating parasite transmission to the fetus. This study provides new insights into the mechanisms of transplacental transmission of T. cruzi and highlights the potential of targeting TcEVs as a therapeutic strategy against congenital Chagas disease. 
 
 <br> 
 
-<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1456700>
-
----
-
-## Porphyromonas gingivalis triggers microglia activation and neurodegenerative processes through NOX4
-
-date: 2024-10-14, from: Frontiers in Cellular and Infection Microbiology
-
-Periodontitis and infections with periodontal bacteria have been highlighted as risk factors for dementia. In recent years, attention has been drawn to the role of microglia cells in neurodegenerative diseases. However, there is limited knowledge of the influence of periodontal bacteria on microglia cells. The aim of the present study was to investigate the interactions between the periodontal bacteria Porphyromonas gingivalis and microglia cells and to unravel whether these interactions could contribute to the pathology of Alzheimer’s disease. We found, through microarray analysis, that stimulation of microglia cells with P. gingivalis resulted in the upregulation of several Alzheimer’s disease-associated genes, including NOX4. We also showed that P. gingivalis lipopolysaccharides (LPS) mediated reactive oxygen species (ROS) production and interleukin 6 (IL-6) and interleukin 8 (IL-8) induction via NOX4 in microglia. The viability of neurons was shown to be reduced by conditioned media from microglia cells stimulated with P. gingivalis LPS and the reduction was NOX4 dependent. The levels of total and phosphorylated tau in neurons were increased by conditioned media from microglia cells stimulated with P. gingivalis or LPS. This increase was NOX4-dependent. In summary, our findings provide us with a potential mechanistic explanation of how the periodontal pathogen P. gingivalis could trigger or exacerbate AD pathogenesis. 
-
-<br> 
-
-<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1451683>
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1437339>
 
 ---
 
@@ -129,13 +117,25 @@ IntroductionNeisseria meningitidis is a gram-negative bacterium responsible for 
 
 ---
 
-## Trypanosoma cruzi-derived exovesicles contribute to parasite infection, tissue damage, and apoptotic cell death during ex vivo infection of human placental explants
+## Porphyromonas gingivalis triggers microglia activation and neurodegenerative processes through NOX4
 
 date: 2024-10-14, from: Frontiers in Cellular and Infection Microbiology
 
-Trypanosoma cruzi, the causative agent of Chagas disease, can be congenitally transmitted by crossing the placental barrier. This study investigates the role of T. cruzi-derived exovesicles (TcEVs) in facilitating parasite infection and the consequent tissue damage and apoptotic cell death in human placental explants (HPEs). Our findings demonstrate that TcEVs significantly enhance the parasite load and induce tissue damage in HPEs, both in the presence and absence of the parasite. Through histopathological and immunohistochemical analyses, we show that TcEVs alone can disrupt the placental barrier, affecting the basal membrane and villous stroma. The induction of apoptotic cell death is evidenced by DNA fragmentation, caspase 8 and 3, and p18 fragment immunodetection. This damage is exacerbated when TcEVs are combined with T. cruzi infection. These findings suggest that TcEVs play a critical role in the pathogenesis of congenital Chagas disease by disrupting the placental barrier and facilitating parasite transmission to the fetus. This study provides new insights into the mechanisms of transplacental transmission of T. cruzi and highlights the potential of targeting TcEVs as a therapeutic strategy against congenital Chagas disease. 
+Periodontitis and infections with periodontal bacteria have been highlighted as risk factors for dementia. In recent years, attention has been drawn to the role of microglia cells in neurodegenerative diseases. However, there is limited knowledge of the influence of periodontal bacteria on microglia cells. The aim of the present study was to investigate the interactions between the periodontal bacteria Porphyromonas gingivalis and microglia cells and to unravel whether these interactions could contribute to the pathology of Alzheimer’s disease. We found, through microarray analysis, that stimulation of microglia cells with P. gingivalis resulted in the upregulation of several Alzheimer’s disease-associated genes, including NOX4. We also showed that P. gingivalis lipopolysaccharides (LPS) mediated reactive oxygen species (ROS) production and interleukin 6 (IL-6) and interleukin 8 (IL-8) induction via NOX4 in microglia. The viability of neurons was shown to be reduced by conditioned media from microglia cells stimulated with P. gingivalis LPS and the reduction was NOX4 dependent. The levels of total and phosphorylated tau in neurons were increased by conditioned media from microglia cells stimulated with P. gingivalis or LPS. This increase was NOX4-dependent. In summary, our findings provide us with a potential mechanistic explanation of how the periodontal pathogen P. gingivalis could trigger or exacerbate AD pathogenesis. 
 
 <br> 
 
-<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1437339>
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1451683>
+
+---
+
+## Mycobacterium tuberculosis combine with EBV infection in severe adult meningoencephalitis: a rare case reports and literature review
+
+date: 2024-10-14, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundTuberculous meningitis (TBM) with adults Epstein-Barr (EB) virus encephalitis is a very rare infectious disease, with a high mortality and disability. Metagenomic next-generation sequencing (mNGS) of cerebrospinal fluid (CSF) is highly diagnostic. We report on a case of severe meningoencephalitis caused by co-infection with mycobacterium tuberculosis and EB virus. Brain MRI indicated a parenchyma lesion in the brain. mNGS of CSF indicated Mycobacterium tuberculosis and EB virus amplification, positive serum EB virus IgG antibodies, and improved symptoms after anti-tuberculosis and antiviral treatment. A re-examination of the brain MRI revealed that the significantly absorption of the lesions.Case reportA 49-year-old male patient presented with a chief complaint of headache and fever with consciousness disturbance. The brain magnetic resonance imaging showed a lesions in the right parenchymal brain with uneven enhancement, accompanied by significantly increased intracranial pressure, elevated CSF cell count and protein levels, as well as notably decreased glucose and chloride levels. mNGS of CSF showed the coexistence of Mycobacterium tuberculosis and EBV. The patient was diagnosed as TBM with EBV encephalitis. The patient’s symptoms gradually improved with the active administration of anti-tuberculosis combined with antiviral agents, the use of hormones to reduce inflammatory reaction, dehydration to lower intracranial pressure, and intrathecal injection. Subsequent follow-up brain magnetic resonance imaging indicated significant absorption of the lesions, along with a marked decrease in CSF count and protein levels, as well as obvious increase in glucose and chloride levels.ConclusionTBM associated with adult EBV encephalitis is extremely rare. The disease’s early stages are severe and have a high fatality rate. A prompt and accurate diagnosis is particularly important. NGS of CSF is of great value for early diagnosis. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1361119>
 

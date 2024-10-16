@@ -1,11 +1,62 @@
 ---
 title: writing
-updated: 2024-10-15 08:49:10
+updated: 2024-10-15 17:51:30
 ---
 
 # writing
 
-(date: 2024-10-15 08:49:10)
+(date: 2024-10-15 17:51:30)
+
+---
+
+## Seattle Worldcon Story Contest
+
+date: 2024-10-15, from: Locus Magazine
+
+<div class="wpb_text_column wpb_content_element">
+<div class="wpb_wrapper">
+<p>Seattle Worldcon 2025 has announced a short story writing contest with separate categories for adult and young adult writers.</p>
+<p>The winners in each category will be recognized at the convention, receive free memberships to the convention, and have their stories published in an upcoming anthology by Grim Oak Press. Stories must draw inspiration from our Worldcon theme: Building Yesterday’s Future – For Everyone.</p>
+</div>
+</div>
+<div class="wpb_text_column wpb_content_element">
+<div class="wpb_wrapper">
+<p>The theme &#8220;was selected to invoke nostalgia </p></div></div> <a href="https://locusmag.com/2024/10/seattle-worldcon-story-contest/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2024/10/seattle-worldcon-story-contest/>
+
+---
+
+## 5 Trends in the Screenwriting Marketplace Every Screenwriter Should Know
+
+date: 2024-10-15, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/5-trends-in-the-screenwriting-marketplace-every-screenwriter-should-know" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/New%20Trends%20-%20Lee%20Jessup.png" alt="Two wooden building blocks with 'New Trends' written across them in front of a yellow background." class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>For over two decades, Lee Jessup has been coaching the careers of both emerging and professional screenwriters with the goal of helping them take their career to the next level. You may also know that Jessup has been mentoring winners of the Final Draft Big Break Screenwriting Competition for over a decade, so she knows a thing or two about emerging writers. Given all her savvy and experience in the industry, we thought we’d check in with her to pinpoint the latest trends in the ever-evolving business of screenwriting.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/5-trends-in-the-screenwriting-marketplace-every-screenwriter-should-know>
+
+---
+
+## Screenwriting is a Poorly Defined Problem
+
+date: 2024-10-15, from: John August blog
+
+Why is screenwriting so difficult, even for the smartest people? John and Craig look at the relationship between intelligence and wisdom, the kinds of problems writers attempt to solve, and the unmeasurable skills that screenwriters need to succeed. Then it’s another round of the Three Page Challenge, where they give their honest feedback on three [&#8230;]
+The post <a href="https://johnaugust.com/2024/screenwriting-is-a-poorly-defined-problem">Screenwriting is a Poorly Defined Problem</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<audio controls="controls">
+<source type="audio/mpeg" src="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/661standard.mp3"></source>
+	<a href="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/661standard.mp3" target="_blank">audio/mpeg</a>
+</audio><br> 
+
+<https://johnaugust.com/2024/screenwriting-is-a-poorly-defined-problem>
 
 ---
 
@@ -158,33 +209,4 @@ date: 2024-10-14, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2024/10/ananda-lima-different-certainties/>
-
----
-
-## Napalm in the Heart by Pol Guasch: Review by Ian Mond
-
-date: 2024-10-14, from: Locus Magazine
-
-<p><strong>Napalm in the Heart</strong>, Pol Guasch (Faber &#38; Fa­ber UK 978-0571375257, £6.99, 256pp, hc) July 2024. (FSG Originals 978-0-37461-295-5, $18.00, 256pp, tp) August 2024.</p>
-<p>Reading Pol Guasch’s debut, <strong>Napalm in the Heart</strong>, right after Helen Phillips’ <strong>Hum </strong>is a disorientat­ing experience. Both authors present us with dystopias, but while Phillips cleaves to our reality, Guasch gives us something more symbolic and experimental, a dystopia unmoored from time and  <a href="https://locusmag.com/2024/10/napalm-in-the-heart-by-pol-guasch-review-by-ian-mond/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2024/10/napalm-in-the-heart-by-pol-guasch-review-by-ian-mond/>
-
----
-
-## The Dark, Uncanny, Apex, and Weird Horror Fall: Short Fiction Reviews by Paula Guran
-
-date: 2024-10-13, from: Locus Magazine
-
-<p>The Dark 6/24
-Uncanny 7-8/24
-Apex #145
-Weird Horror Fall ’24</p>
-<p>The Dark #109 features two originals. “<strong>The Aban­doned</strong>” by <strong>Jack Klausner </strong>is a haunting story that begins with a little girl finding a box in the schoolyard. It takes us through tragic mystery and ends in resignation. The protagonist in <strong>Beth Goder</strong>’s interesting “<strong>Labyrinth</strong>” visits the infa­mous Winchester Mystery House in a story that  <a href="https://locusmag.com/2024/10/the-dark-uncanny-apex-and-weird-horror-fall-short-fiction-reviews-by-paula-guran/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2024/10/the-dark-uncanny-apex-and-weird-horror-fall-short-fiction-reviews-by-paula-guran/>
 

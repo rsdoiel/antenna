@@ -1,11 +1,23 @@
 ---
 title: libraries
-updated: 2024-10-15 08:49:10
+updated: 2024-10-15 17:51:31
 ---
 
 # libraries
 
-(date: 2024-10-15 08:49:10)
+(date: 2024-10-15 17:51:31)
+
+---
+
+## Scarlet Sister Mary, by Julia Peterkin
+
+date: 2024-10-15, from: Standard Ebooks, new releaases
+
+A young woman struggles to choose between living as a member in good standing in the church or embracing a life of sin and pleasure. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/julia-peterkin/scarlet-sister-mary>
 
 ---
 

@@ -1,11 +1,315 @@
 ---
 title: north america
-updated: 2024-10-15 08:49:09
+updated: 2024-10-15 17:51:28
 ---
 
 # north america
 
-(date: 2024-10-15 08:49:09)
+(date: 2024-10-15 17:51:28)
+
+---
+
+## Voting rights groups seek investigation into Wisconsin text messages
+
+date: 2024-10-15, from: VOA News USA
+
+madison, wisconsin  — Voting rights advocates on Tuesday asked state and federal authorities to investigate anonymous text messages apparently targeting young Wisconsin voters, warning them not to vote in a state where they are ineligible.
+
+
+Free Speech for People, on behalf of the League of Women Voters of Wisconsin, made the request to the U.S. Department of Justice as well as the Wisconsin Department of Justice. The letter says that "thousands of young voters across Wisconsin" received the text message last week, including staff members at the League of Women Voters and students at the University of Wisconsin.
+
+
+The text in question cites Wisconsin state law prohibiting voting in more than one place and says that violating the law can result in fines of up to $10,000 and 3.5 years in prison.
+
+
+"Don't vote in a state where you're not eligible," the text said.
+
+
+Wisconsin is known for having razor-thin presidential elections. Four of the last six were decided by less than a percentage point. President Joe Biden won in 2020 by less than 21,000 votes.
+
+
+At least one person who received the text posted it on the social media platform X.
+
+
+The League of Women Voters, in its request for investigation, said that without prompt action "the sender may continue its efforts to frighten eligible young voters into not voting."
+
+
+Students attending college in Wisconsin can register to vote either at their home address or their one at school.
+
+
+"But now, many students and other young voters are fearful that they will face criminal prosecution if they register and exercise their right to vote — because of a malicious, inaccurate text sent by an anonymous party," the letter said.
+
+
+The U.S. Department of Justice declined to comment.
+
+
+Wisconsin Department of Justice spokesperson Gillian Drummond said the department takes allegations of potential violations of election law seriously. She said the agency was reviewing the information in the request for an investigation and would assess "what, if any, follow-up is appropriate based on the facts and the law."
+
+
+University of Wisconsin System spokesperson Mark Pitsch said in an email that system officials were unaware of any security breach that may have resulted in leaked student contact information. He added that nothing has been reported to system officials about the text, and there was no indication how many students may have received it.
+
+
+Riley Vetterkind, a spokesperson for the Wisconsin Elections Commission, said in an email to The Associated Press that the commission can't determine whether the text message violates state law because the commission hasn't received a formal complaint about it.
+
+
+However, he called the message "concerning" and said it certainly could leave recipients feeling intimidated. He urged recipients to contact law enforcement directly if they are worried about the message.
+
+
+"We understand that these third-party text messages can be very frustrating for voters," Vetterkind said. "We recommend voters rely upon official sources of election information, such as from state or local election officials. Voters are free to ignore these text messages since they are not sent or associated with an official source."
+
+
+The text message was sent as thousands of voters in Wisconsin are casting absentee ballots. As of Monday, nearly 240,000 absentee ballots had already been returned statewide.
+
+
+Starting October 22, voters can start casting absentee ballots in person.
+
+
+Wisconsin is one of the "blue wall" states along with Michigan and Pennsylvania that is key to winning for either Democratic Vice President Kamala Harris or Republican presidential nominee Donald Trump. 
+
+<br> 
+
+<https://www.voanews.com/a/7823623.html>
+
+---
+
+## What’s up with drugstores?
+
+date: 2024-10-15, from: Market Place
+
+<p>Walgreens plans to close about 14% of its national footprint in the next three years, making it the third major drugstore chain in the past year to signal it&#8217;s struggling. In this episode: Why have drugstores become a tricky business model, and what happens when communities lose a pharmacy? Plus: Electric vehicle adoption grows but Americans are still cautious, an inventory data point helps indicate where the economy&#8217;s headed, and some family foster agencies are scrambling after their biggest insurer in California pulls out of the market.</p>
+ 
+
+<audio controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/15/pm_20241015_PM_Podcast_64.mp3"></source>
+	<a href="https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/15/pm_20241015_PM_Podcast_64.mp3" target="_blank">audio/mpeg</a>
+</audio><br> 
+
+<https://www.marketplace.org/shows/marketplace/whats-up-with-drugstores>
+
+---
+
+## Mining and the clean energy paradox
+
+date: 2024-10-15, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p>Today we’re talking about a key piece of the global transition to renewable energy: metals. Specifically, metals like copper, lithium and cobalt that we need to build wind turbines, electric vehicles and to improve our energy grid. Vince Beiser, author of the forthcoming book &#8220;Power Metal: The Race for the Resources That Will Shape the Future,&#8221; said we&#8217;ll need hundreds of millions more tons of these metals. But mining them comes at a cost. On the show today, Beiser explains the environmental and social consequences of mining for these metals, China&#8217;s dominance over the supply chain, and ways to make the transition to renewables more fair. Plus, why mining in space is a pipe dream, at least for now.</p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>Then, we&#8217;ll get into how the U.S. dairy industry could be upended if former President Donald Trump&#8217;s plan for mass deportations took place. And, how one listener makes voting a party.</p>
+<p><!-- /wp:paragraph --></p>
+<p>Here&#8217;s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.wired.com/story/power-metal-green-economy-is-hungry-for-copper/" target="_blank" rel="noreferrer noopener">&#8220;The Green Economy Is Hungry for Copper—and People Are Stealing, Fighting, and Dying to Feed It&#8221;</a> from Wired</li>
+<li><a href="https://insideclimatenews.org/news/07062023/mining-clean-energy-human-rights/" target="_blank" rel="noreferrer noopener">&#8220;Mining Critical to Renewable Energy Tied to Hundreds of Alleged Human Rights Abuses&#8221;</a> from Inside Climate News</li>
+<li><a href="https://climate.mit.edu/ask-mit/how-does-environmental-impact-mining-clean-energy-metals-compare-mining-coal-oil-and-gas" target="_blank" rel="noreferrer noopener">&#8220;How does the environmental impact of mining for clean energy metals compare to mining for coal, oil and gas?&#8221;</a> from MIT Climate Portal</li>
+<li><a href="https://www.csis.org/analysis/indispensable-industry-minings-role-energy-transition-and-americas" target="_blank" rel="noreferrer noopener">&#8220;The Indispensable Industry: Mining’s Role in the Energy Transition and the Americas&#8221;</a> from the Center for Strategic and International Studies</li>
+<li><a href="https://www.nytimes.com/2024/10/15/magazine/milk-industry-undocumented-immigrants.html" target="_blank" rel="noreferrer noopener">&#8220;What a Crackdown on Immigration Could Mean for Cheap Milk&#8221;</a> from The New York Times</li>
+<li><a href="https://apnews.com/article/trump-inflation-tariffs-taxes-immigration-federal-reserve-a18de763fcc01557258c7f33cab375ed" target="_blank" rel="noreferrer noopener">&#8220;Trump&#8217;s economic plans would worsen inflation, experts say&#8221;</a> from AP News</li>
+<li><a href="https://www.wsj.com/business/boeing-needing-cash-moves-to-sell-new-shares-fce4c116?mod=hp_lead_pos1" target="_blank" rel="noreferrer noopener">&#8220;Boeing to Sell at Least $10 Billion in Shares to Plug Cash Drain&#8221;</a> from The Wall Street Journal</li>
+</ul>
+<p>We love to hear from you. Email your comments and questions to makemesmart@marketplace.org or leave us a voicemail at 508-U-B-SMART.</p>
+ 
+
+<audio controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-MakeMeSmart/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/15/mms_20241015_MMS_101524_128.mp3"></source>
+	<a href="https://play.podtrac.com/APM-MakeMeSmart/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/15/mms_20241015_MMS_101524_128.mp3" target="_blank">audio/mpeg</a>
+</audio><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/mining-and-the-clean-energy-paradox>
+
+---
+
+## FEMA resumes door-to-door visits in North Carolina after threats tied to disinformation
+
+date: 2024-10-15, from: VOA News USA
+
+Federal disaster personnel have resumed door-to-door visits as part of their hurricane-recovery work in North Carolina, an effort temporarily suspended amid threats that prompted officials to condemn the spread of disinformation. 
+
+
+Over the weekend, reports emerged that workers with the Federal Emergency Management Agency could be targeted by militia as the government responds to Hurricane Helene. A sheriff's office said Monday that one man was arrested during an investigation, but that the suspect acted alone. 
+
+
+FEMA made operational changes to keep personnel safe "out of an abundance of caution," agency Administrator Deanne Criswell said at a briefing Tuesday. FEMA workers were back in the field Monday, accompanied by Criswell, and she said disaster-assistance teams helping survivors apply for FEMA aid as well as state and local assistance will continue to go door-to-door. She emphasized that the agency isn't going anywhere. 
+
+
+"The federal family has been here working side by side with the state since Day One. These are people who put their lives on hold to help those who have lost everything," Criswell said. "So let me be clear: I take these threats seriously." 
+
+
+North Carolina Governor Roy Cooper said he directed the state's Department of Public Safety to coordinate law enforcement assistance for FEMA and other responders. He stressed the damage that internet rumors and falsehoods were causing and said officials may never know how many people won't apply for assistance because of bad information. 
+
+
+"There's still a persistent and dangerous flow of misinformation about recovery efforts in western North Carolina that can lead to threats and intimidation, breeds confusion and demoralizes storm survivors and response workers alike," Cooper said at the briefing. "If you're participating in spreading this stuff, stop it. Whatever your aim is, the people you are really hurting are those in western North Carolina who need help." 
+
+
+The Rutherford County Sheriff's Office said it received a call Saturday about a man with an assault rifle who made a comment "about possibly harming" FEMA employees working in the hard-hit areas of Lake Lure and Chimney Rock in the North Carolina mountains. A man was charged with "going armed to the terror of the public," a misdemeanor, and was released after posting bond. 
+
+
+The sheriff's office said it received initial reports that a "truckload of militia" was involved in the threat, but further investigation determined the man acted alone. 
+
+
+FEMA has faced rampant disinformation about its response to Helene, which hit Florida on September 26 before heading north and leaving a trail of destruction across six states. 
+
+
+Asked what might be fueling disinformation, Cooper said social media has become more extreme, but he also pointed to politics. 
+
+
+"This is happening in the middle of an election where candidates are using people's misery to sow chaos for their own political objectives — and it's wrong," he said. 
+
+
+Former President Donald Trump and his allies have seized on the storm's aftermath to spread false information about the Biden administration's response in the final weeks before the election. Their debunked claims include false statements that victims can only receive $750 in aid, that emergency response funds were diverted to immigrants, that people accepting federal relief money could see their land seized and that FEMA is halting trucks full of supplies. 
+
+
+Helene decimated remote towns throughout Appalachia, left millions without power, knocked out cellular service and killed at least 246 people. It was the deadliest hurricane to hit the U.S. mainland since Katrina in 2005. 
+
+
+Terrie Daughtry, a volunteer handling therapy dogs Tuesday at a FEMA Disaster Recovery Center in Asheville, said threats and misinformation — including the militia rumors — made her feel unsafe for the first time in several trips to volunteer at disaster sites. 
+
+
+"I'm not coming to risk my life with it all, to be shot or hurt or trampled because of lunacy," said Daughtry, who volunteers with Therapy Dogs International. She said she previously traveled to help in the aftermath of the Pulse Nightclub shooting in Orlando, Florida, floods in Virginia and tornadoes in Texas, Oklahoma and Alabama. 
+
+
+She and another volunteer have been using their therapy dogs to calm people waiting in line to make FEMA claims. They hand out candy, let people pet the dogs and talk to people about their experiences. 
+
+
+Despite the extra stress from the "absolutely ridiculous" threats and misinformation, Daughtry said she's seen some amazing moments of human spirit. At one point on Monday, someone in line started playing a guitar and singing about having no water, she said. Eventually, the whole line sang along. 
+
+
+"These are special people. They're singing in horrible adversity," she said. "It made me tear up being there, and it's making me tear up now." 
+
+<br> 
+
+<https://www.voanews.com/a/fema-resumes-door-to-door-visits-in-north-carolina-after-threats-tied-to-disinformation-/7823567.html>
+
+---
+
+## Georgia judge rules county election officials must certify election results
+
+date: 2024-10-15, from: VOA News USA
+
+ATLANTA, georgia — A Georgia judge has ruled county election officials must certify election results by the deadline set in law and cannot exclude any group of votes from certification even if they suspect error or fraud. 
+
+
+Fulton County Superior Court Judge Robert McBurney ruled that "no election superintendent (or member of a board of elections and registration) may refuse to certify or abstain from certifying election results under any circumstance."
+
+
+While they have the right to inspect the conduct of an election and to review related documents, he wrote, "any delay in receiving such information is not a basis for refusing to certify the election results or abstaining from doing so." 
+
+
+Georgia law says county election superintendents, which are multimember boards in most counties, "shall" certify election results by 5 p.m. on the Monday after an election — or the Tuesday if Monday is a holiday as it is this year. 
+
+
+The ruling comes as early voting began Tuesday in Georgia. 
+
+
+Julie Adams, a Republican member of the Fulton County election board, had asked the judge to declare that her duties as an election board member were discretionary and that she is entitled to "full access" to "election materials." 
+
+
+Long an administrative task that attracted little attention, certification of election results has become politicized since then-President Donald Trump tried to overturn his loss to Democrat Joe Biden in the 2020 general election. Republicans in several swing states, including Adams, refused to certify election results earlier this year and some have sued to keep from being forced to sign off on election results. 
+
+
+Adams' suit, backed by the Trump-aligned America First Policy Institute, argues that county election board members have the discretion to reject certification. In court earlier this month, her lawyers also argued that county election officials could certify results without including ballots that appear to have problems, allaying concerns of a board member who might otherwise vote not to certify. 
+
+
+Judge McBurney wrote that nothing in Georgia law gives county election officials the authority to determine that fraud has occurred or what should be done about it. Instead, he wrote, the law says a county election official's "concerns about fraud or systemic error are to be noted and shared with the appropriate authorities but they are not a basis for a superintendent to decline to certify." 
+
+
+Both sides in the fight over certification claimed McBurney's ruling as a victory. 
+
+
+The Democratic National Committee and Democratic Party of Georgia, with the support of Vice President Kamala Harris' presidential campaign, had joined the lawsuit as defendants and called the ruling a "major legal win." 
+
+
+Adams has said she was not given access to county election documents with enough time to consider them before the certification vote for elections earlier this year. She said in a statement that McBurney's ruling has made it clear that she and other county election board members "cannot be barred from access to elections in their counties." 
+
+<br> 
+
+<https://www.voanews.com/a/georgia-judge-rules-county-election-officials-must-certify-election-results-/7823512.html>
+
+---
+
+## DeSantis praises Milton recovery efforts as rising flood waters persist in Florida
+
+date: 2024-10-15, from: VOA News USA
+
+TALLAHASSEE, Fla.  — While there's still more work to do, Florida Gov. Ron DeSantis on Tuesday praised Hurricane Milton recovery efforts, saying power has never been restored to so many so quickly after a major storm. 
+
+
+"President (Ronald) Reagan used to say the most terrifying words in the English language are, 'I'm from the government and I'm here to help.' There's a lot of wisdom in that, but I don't think The Gipper ever saw Florida respond to a natural disaster, because we get after it and we do make a difference," DeSantis said at a news conference in front of a flooded road in Zephyrhills. 
+
+
+There were still about 170,000 customers without electricity, rivers continued to rise in some flooded areas and the state was still providing free gas to residents struggling to top of their tanks. But DeSantis pointed out that more than 4 million customers had power restored less than a week after the Category 3 storm. 
+
+
+At least 11 people died less than two weeks after Hurricane Helene inflicted major damage in Florida and other Southeastern states. The death toll from Helene is more than 240. While most gas stations were back up and running, the state still has 10 active fuel distribution centers providing free gas to residents. DeSantis said more than 2 million gallons had been distributed so far. 
+
+
+As happened two years ago during Hurricane Ian, parts of central Florida on Tuesday were flooding almost a week after Milton made landfall due to the rising St. Johns River. 
+
+
+In Seminole County, north of Orlando, crews closed roads along the shores of Lake Harney and Lake Jesup after several homes were flooded by the river. Since last Thursday, at least 15 people have been evacuated from homes in nearby Geneva and a neighborhood in Altamonte Springs located in a crook of the Little Wekiva River. 
+
+
+Water levels along the St. Johns River were expected to crest later in the week. 
+
+
+In Sumter County, home to the sprawling retirement community, The Villages, residents along the Little Withlacoochee River were being encouraged to evacuate as river levels rose. Residents who decided to evacuate were offered shelter at the Sumter County Fairgrounds. 
+
+<br> 
+
+<https://www.voanews.com/a/desantis-praises-milton-recovery-efforts-as-rising-flood-waters-persist-in-florida/7823318.html>
+
+---
+
+## US slaps sanctions on 'sham charity' fundraising for Popular Front for Liberation of Palestine
+
+date: 2024-10-15, from: VOA News USA
+
+WASHINGTON — The United States on Tuesday imposed sanctions on what it said was a key international fundraiser for the Popular Front for the Liberation of Palestine (PFLP), which Washington has designated a terrorist organization.
+
+
+The U.S. Treasury Department, in action taken with Canada, said in a statement it imposed sanctions on the Samidoun Palestinian Prisoner Solidarity Network, accusing it of being "a sham charity that serves as an international fundraiser" for the PFLP. 
+
+
+The PFLP, which has also taken part in the fight against Israel in Gaza, was designated a Foreign Terrorist Organization and a Specially Designated Global Terrorist by the U.S. in October 1997 and October 2001, respectively. 
+
+
+The Treasury said PFLP uses Samidoun to fundraise in Europe and North America. The group's activities were banned by Germany last year. 
+
+
+“Organizations like Samidoun masquerade as charitable actors that claim to provide humanitarian support to those in need, yet in reality divert funds for much-needed assistance to support terrorist groups,” Treasury's acting under secretary for terrorism and financial intelligence, Bradley Smith, said in the statement. 
+
+
+The Samidoun Palestinian Prisoner Solidarity Network did not respond immediately to a Reuters request for comment. 
+
+
+A member of the PFLP's leadership abroad was also targeted with sanctions on Tuesday. 
+
+
+Canada announced the listing of Samidoun as a terrorist entity on Tuesday. “Violent extremism, acts of terrorism or terrorist financing have no place in Canadian society or abroad," Canadian Public Safety Minister Dominic LeBlanc said in a statement announcing the listing. 
+
+
+The Treasury said the PFLP remained active in the conflict between Israel and Hamas, including participating in the Oct. 7 attack on Israel, in which 1,200 people were killed and around 250 taken hostage to Gaza, by Israeli tallies. 
+
+
+More than 42,000 Palestinians have been killed in the offensive so far, according to Gaza's health authorities. 
+
+<br> 
+
+<https://www.voanews.com/a/us-slaps-sanctions-on-sham-charity-fundraising-for-popular-front-for-liberation-of-palestine/7823098.html>
+
+---
+
+## Construction Labor Shortage Stands in the Way of Low-Cost Housing and Good Jobs
+
+date: 2024-10-15, from: Capital and Main
+
+<p>The industry says it is struggling to find new workers as some schools hope to revamp trade programs.</p>
+<p>The post <a href="https://capitalandmain.com/construction-labor-shortage-stands-in-the-way-of-low-cost-housing-and-good-jobs">Construction Labor Shortage Stands in the Way of Low-Cost Housing and Good Jobs</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/construction-labor-shortage-stands-in-the-way-of-low-cost-housing-and-good-jobs>
 
 ---
 
@@ -107,7 +411,7 @@ During the training, Thomas and the others were introduced to a range of resourc
 
 date: 2024-10-15, from: Marketplace Morning Report
 
-<p>There&#8217;s a way U.S. companies could help employees pay down student loan debt the way the boss can help you save for retirement. But will your company go for it? We’ll discuss. First, the lowest-income countries are getting poorer and more in debt, the World Bank finds. Then, we’ll hear from a 9-year-old entrepreneur, courtesy of our friends over at “Million Bazillion.”</p>
+<p>There&#8217;s a way U.S. companies could help employees pay down student loan debt the way the boss can help you save for retirement. But will your company go for it? We’ll discuss. First, the lowest-income countries are getting poorer and more in debt, the World Bank finds. Then, we’ll hear some business advice from a 9-year-old entrepreneur, courtesy of our friends over at <a href="https://www.marketplace.org/shows/million-bazillion/">“Million Bazillion.”</a></p>
  
 
 <audio controls="controls">
@@ -119,23 +423,23 @@ date: 2024-10-15, from: Marketplace Morning Report
 
 ---
 
-## Chinese Pandas arrive in US, headed to National Zoo in Washington
+## Chinese pandas arrive at Washington's National Zoo; public debut set for January
 
 date: 2024-10-15, from: VOA News USA
 
-Washington — The National Zoo's long dark panda drought is coming to an end.
+Washington — The National Zoo's long dark panda drought has come to an end.
 
 
-Eleven months after the zoo sent its three wildly popular pandas — Mei Xiang, Tian Tian and their cub Xiao Qi Ji — back to China, a new pair of bears arrived in the United States on Tuesday. They will be transported from Dulles International Airport in suburban Virginia to the zoo.
+Eleven months after the zoo sent its three wildly popular pandas — Mei Xiang, Tian Tian and their cub Xiao Qi Ji — back to China, a new pair of bears arrived late Tuesday morning.
 
 
-A pair of three-year old giant pandas, named Bao Li and Qing Bao, have left a research facility in the southwestern Chinese city of Dujiangyan before being flown to Washington, according to a statement by the China Wildlife Conservation Association.
+The three-year old giant pandas, named Bao Li and Qing Bao, were flown from China to Dulles International Airport in suburban Virginia, with a refueling stop in Alaska. They were loaded into special FedEx trucks and arrived at the zoo just before noon.
 
 
-"Food prepared for the trip includes corn bread, bamboo and carrots, as well as water and medicine," the statement said, adding that the partnership will "make new contributions in protecting global biodiversity and enhance the friendship of the people from the two countries."
+"Our team has worked tirelessly to prepare for the pandas’ arrival, and we’re thrilled to welcome Bao Li and Qing Bao to Washington, D.C., the only place you can see giant pandas for free in the nation,” said Brandie Smith, the national zoo director who travelled to China to take part in farewell ceremonies for the bears there. "As a result of our collective efforts, today we joyfully celebrate a new chapter of our 52-year-long giant panda breeding and conservation program.”
 
 
-It's unclear exactly when the bears will arrive in Washington, but there will likely be an extended quarantine and acclimation period before they are introduced to the public. On Monday evening, the zoo's website posted an alert that the entire facility would be closed Tuesday, without giving a reason. The lead article on the site still said the pandas would be coming sometime before the end of the year.
+The zoo was closed Tuesday to facilitate the arrivals. The bears will be quarantined from the public for at least 30 days. A statement from the zoo set the date for the bears' official public debut and the reopening of the renovated panda house as Jan. 24, 2025.
 
 
 Bao Li (precious vigor) and Qing Bao (green treasure) arrive in Washington as part of a new 10-year agreement with Chinese authorities. The previous deal expired last year, leading to some concern among American panda-lovers that Beijing was gradually pulling its furry friendship ambassadors from American zoos amid rising diplomatic tensions.
@@ -147,28 +451,22 @@ Breeding pairs in zoos in Memphis and San Diego had already returned to China ea
 That anxiety turned to optimism last November when Chinese President Xi Jinping publicly stated a desire to continue the panda exchange programs. This year, a new pair of bears has been delivered to the San Diego Zoo, while another pair has been promised to San Francisco.
 
 
-In Washington, National Zoo officials remained conspicuously silent about negotiations for a new panda agreement, but they expressed optimism about striking a new deal and launched a multimillion-dollar renovation of its panda enclosure in anticipation. Then in late May, zoo director Brandie Smith teamed up with first lady Jill Biden to announce that Bao Li and Qing Bao would be arriving by the end of this year.
+In Washington, National Zoo officials remained conspicuously silent about negotiations for a new panda agreement, but they expressed optimism about striking a new deal and launched a multimillion-dollar renovation of its panda enclosure in anticipation. Then in late May, Smith teamed up with first lady Jill Biden to announce that Bao Li and Qing Bao would be arriving by the end of this year.
 
 
-The Chinese announcement said the National Zoo had sent "three experienced keepers and veterinary experts" to China to assist the transport and accompany the bears.
+Pandas have become one of the unofficial symbols of the nation’s capital, dating back to 1972 when the first pair — Ling Ling and Hsing Hsing — were sent as a gift from Chinese Premier Zhou Enlai following President Richard Nixon’s historic diplomatic visit to China. Later, a rolling series of 10-year cooperation agreements was struck.
 
 
-Zoo officials on Monday declined to confirm the Chinese announcement. Zoo spokesperson Jennifer Zoon said in an email, "For the safety of animals and staff, we are not able to confirm any details at this time." But signs at the zoo and on its social media site have heralded the planned return of the pandas and panda-themed merchandise still dominates the gift shops.
-
-
-"The giant pandas are an iconic part of the Washington, D.C., story, both for locals and incoming travelers alike," said Elliott L. Ferguson, II, president and CEO of Destination DC. "The interest and excitement associated with their return directly benefits the entire city, bringing further interest and visitors to our hotels, restaurants and other attractions."
+“The giant pandas are an iconic part of the Washington, D.C., story, both for locals and incoming travelers alike,” said Elliott L. Ferguson, II, president and CEO of Destination DC. “The interest and excitement associated with their return directly benefits the entire city, bringing further interest and visitors to our hotels, restaurants and other attractions.”
 
 
 The exact terms of the deal are still unclear; under previous 10-year agreements the Chinese government receives $1 million per year, per bear. Any cubs born in overseas zoos are typically returned to China before they reach age four.
 
 
-Pandas have become one of the unofficial symbols of the nation's capital, dating back to 1972 when the first pair — Ling Ling and Hsing Hsing — were sent as a gift from Chinese Premier Zhou Enlai following President Richard Nixon's historic diplomatic visit to China. Later, a rolling series of 10-year cooperation agreements was struck.
-
-
 Liu Pengyu, a spokesperson for the Chinese embassy in Washington, credited the decades of cooperation with advancing research into panda preservation and breeding. During the lifespan of these agreements, giant pandas have been reclassified from an endangered species to merely vulnerable.
 
 
-"The current round of cooperation will focus on prevention and treatment of major diseases, and protection of habitats and wild giant panda populations," Liu said in an email. "We hope the arrival of the pandas will inject fresh impetus into exchanges between China and the U.S., and help to stabilize the broader bilateral relationship as well." 
+“The current round of cooperation will focus on prevention and treatment of major diseases, and protection of habitats and wild giant panda populations,” Liu said in an email. “We hope the arrival of the pandas will inject fresh impetus into exchanges between China and the U.S., and help to stabilize the broader bilateral relationship as well.” 
 
 <br> 
 
@@ -557,7 +855,7 @@ Meanwhile, U.S. Secretary of the Army Christine Wormuth said Monday that recent 
 
 date: 2024-10-14, from: Market Place
 
-<p>JPMorgan Chase and other major banks are setting aside extra cash in anticipation of an uptick in bad loans. Lending always comes with some risk, but right now, banks are worried about a few specific types of debt. Also in this episode: Some discouraged job seekers aren&#8217;t included in the official unemployment, OPEC downgrades its demand forecast — again, and Russian bots take over online poker games.</p>
+<p>JPMorgan Chase and other major banks are setting aside extra cash in anticipation of an uptick in bad loans. Lending always comes with some risk, but right now, banks are worried about a few specific types of debt. Also in this episode: Some discouraged job seekers aren&#8217;t included in the official unemployment tally, OPEC downgrades its demand forecast — again, and Russian bots take over online poker games.</p>
  
 
 <audio controls="controls">
@@ -1099,7 +1397,7 @@ Merritt said he and others can't imagine Ocean City without Wonderland.
 date: 2024-10-14, from: Heatmap News
 
 
-<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MzgwMzQ5Mi9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3NzE2MzUyNX0.SyIVuFIFFT1rBzM-MPuN1wuPTVo_SCqSQANZiIY22A4/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">Millions of Americans first met Washington, D.C., resident Taylor Krause when she appeared on Netflix’s dating show “Love Is Blind.” The series frames getting engaged as a type of matching problem, where contestants talk to each other, fall in love, and get engaged before they meet each other in person. </p><p>But here at Heatmap, we know Krause’s work because of a different type of matching problem: How to match clean hydrogen makers with new sources of clean electricity?</p><p>Krause works on the problem of decarbonizing heavy industry for the climate policy think tank RMI. Her team is wrapped up in <a href="https://heatmap.news/economy/green-hydrogen-tax-credit-treasury" target="_self"><u>a sprawling fight</u></a> over how to regulate the clean hydrogen industry, a fight Heatmap followed keenly. The battle could determine how the government spends up to an estimated $100 billion in tax credits to incentivize the production of green hydrogen.</p><p>Treasury recently told Heatmap those regulations will be finalized by <a href="https://heatmap.news/economy/final-hydrogen-tax-credit-45v" target="_self"><u>the end of the year</u></a>. Meanwhile, the newest salvo in that fight — this being D.C., it took the form of a policy memo — was released on Monday by RMI. <a href="https://rmi.org/a-roadmap-for-designing-hydrogen-projects-for-45v-compliance/" rel="noopener noreferrer" target="_blank"><u>The white paper</u></a>, coauthored by Krause, explains how developers could actually build clean hydrogen projects that are connected to the power grid while meeting the government’s stringent proposed standards. </p><p>It emerged in part from RMI’s collaboration with a “working group spanning developers, registries, and electricity forecasting experts,” according to the paper, and it proposes a series of ways hydrogen developers can meet the stringent “<a href="https://heatmap.news/economy/hydrogen-tax-credit-rules" target="_self"><u>three pillars</u></a>” standards the government has proposed. These rules would require that any electricity used to electrolyze water and extract hydrogen itself be produced by new zero-carbon sources during the same time period it’s used, and on the same power grid as the electrolyzer. </p><p>This three-step approach aims to keep the generous hydrogen tax credit from creating higher electricity prices across the power grid and <a href="https://heatmap.news/politics/hydrogen-rule-biden-clean-energy#:~:text=%E2%80%9CWe%E2%80%99ve%20developed%20a%20structure%20that%20will%20drive%20innovation%20and%20create%20good%2Dpaying%20jobs%20in%20this%20emerging%20industry%20while%20strengthening%20our%20energy%20security%20and%20reducing%20emissions%20in%20hard%2Dto%2Dtransition%20sectors%20of%20the%20economy%2C%E2%80%9D%20he%20said." target="_self"><u>generating more emissions</u></a> than the hydrogen produced will mitigate, but it has been criticized by some companies for being too arduous and complicated to comply with. (Some hydrogen makers, such as the industrial gas-making giant Air Products, <a href="https://www.airproducts.com/energy-transition/air-products-response-to-45v" rel="noopener noreferrer" target="_blank"><u>support</u></a> the three pillars approach.) </p><p>One of the biggest topics the new memo tackles is the problem of buying clean electricity. If America regulates the clean hydrogen industry as the Biden administration has proposed, then eventually hydrogen companies will need to buy electricity credits from a “registry” — a company that can guarantee the power the hydrogen companies bought actually complies with the rules.</p><p>Those registries don’t exist right now. Until they do, the new memo argues, hydrogen makers should go straight to the source and solve the “matching problem” by contracting directly with a newly built solar, wind, or zero-carbon power source, using a two-way deal like a power purchase agreement, <a href="https://rmi.org/people/nathan-iyer/" rel="noopener noreferrer" target="_blank"><u>Nathan Iyer</u></a>, a senior associate at RMI and co-author of the paper, told me. (Krause didn’t have time to talk.)</p><p>In other words: If you’re a clean hydrogen maker trying to buy electricity to power your electrolyzer, then love — or at least your procurement budget — should <em><em>not </em></em>be blind. Good to know. The memo ticks through a few other myths about the new standards that Krause and Iyer want to debunk. It’s a good reminder that while there might be no rules in love and war, there are <a href="https://www.federalregister.gov/documents/2023/12/26/2023-28359/section-45v-credit-for-production-of-clean-hydrogen-section-48a15-election-to-treat-clean-hydrogen#h-7" rel="noopener noreferrer" target="_blank"><u>more than 100 pages of proposed rules</u></a> for taking advantage of the Inflation Reduction Act’s clean hydrogen production tax credit.</p> 
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MzgwMzQ5Mi9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3NzE2MzUyNX0.SyIVuFIFFT1rBzM-MPuN1wuPTVo_SCqSQANZiIY22A4/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">Millions of Americans first met Washington, D.C., resident Taylor Krause when she appeared on Netflix’s dating show “Love Is Blind.” The series frames getting engaged as a type of matching problem, where contestants talk to each other, fall in love, and get engaged before they meet each other in person. </p><p>But here at Heatmap, we know Krause’s work because of a different type of matching problem: how to match clean hydrogen makers with new sources of clean electricity.</p><p>Krause works on the problem of decarbonizing heavy industry for the climate policy think tank RMI. Her team is wrapped up in <a href="https://heatmap.news/economy/green-hydrogen-tax-credit-treasury" target="_self"><u>a sprawling fight</u></a> over how to regulate the clean hydrogen industry, a fight Heatmap followed keenly. The battle could determine how the government spends up to an estimated $100 billion in tax credits to incentivize the production of green hydrogen.</p><p>Treasury recently told Heatmap those regulations will be finalized by <a href="https://heatmap.news/economy/final-hydrogen-tax-credit-45v" target="_self"><u>the end of the year</u></a>. Meanwhile, the newest salvo in that fight — this being D.C., it took the form of a policy memo — was released on Monday by RMI. <a href="https://rmi.org/a-roadmap-for-designing-hydrogen-projects-for-45v-compliance/" rel="noopener noreferrer" target="_blank"><u>The white paper</u></a>, coauthored by Krause, explains how developers could actually build clean hydrogen projects that are connected to the power grid while meeting the government’s stringent proposed standards. </p><p>It emerged in part from RMI’s collaboration with a “working group spanning developers, registries, and electricity forecasting experts,” according to the paper, and it proposes a series of ways hydrogen developers can meet the stringent “<a href="https://heatmap.news/economy/hydrogen-tax-credit-rules" target="_self"><u>three pillars</u></a>” standards the government has proposed. These rules would require that any electricity used to electrolyze water and extract hydrogen itself be produced by new zero-carbon sources during the same time period it’s used, and on the same power grid as the electrolyzer. </p><p>This three-step approach aims to keep the generous hydrogen tax credit from creating higher electricity prices across the power grid and <a href="https://heatmap.news/politics/hydrogen-rule-biden-clean-energy#:~:text=%E2%80%9CWe%E2%80%99ve%20developed%20a%20structure%20that%20will%20drive%20innovation%20and%20create%20good%2Dpaying%20jobs%20in%20this%20emerging%20industry%20while%20strengthening%20our%20energy%20security%20and%20reducing%20emissions%20in%20hard%2Dto%2Dtransition%20sectors%20of%20the%20economy%2C%E2%80%9D%20he%20said." target="_self"><u>generating more emissions</u></a> than the hydrogen produced will mitigate, but it has been criticized by some companies for being too arduous and complicated to comply with. (Some hydrogen makers, such as the industrial gas-making giant Air Products, <a href="https://www.airproducts.com/energy-transition/air-products-response-to-45v" rel="noopener noreferrer" target="_blank"><u>support</u></a> the three pillars approach.) </p><p>One of the biggest topics the new memo tackles is the problem of buying clean electricity. If America regulates the clean hydrogen industry as the Biden administration has proposed, then eventually hydrogen companies will need to buy electricity credits from a “registry” — a company that can guarantee the power the hydrogen companies bought actually complies with the rules.</p><p>Those registries don’t exist right now. Until they do, the new memo argues, hydrogen makers should go straight to the source and solve the “matching problem” by contracting directly with a newly built solar, wind, or zero-carbon power source, using a two-way deal like a power purchase agreement, <a href="https://rmi.org/people/nathan-iyer/" rel="noopener noreferrer" target="_blank"><u>Nathan Iyer</u></a>, a senior associate at RMI and co-author of the paper, told me. (Krause didn’t have time to talk.)</p><p>In other words: If you’re a clean hydrogen maker trying to buy electricity to power your electrolyzer, then love — or at least your procurement budget — should <em><em>not </em></em>be blind. Good to know. The memo ticks through a few other myths about the new standards that Krause and Iyer want to debunk. It’s a good reminder that while there might be no rules in love and war, there are <a href="https://www.federalregister.gov/documents/2023/12/26/2023-28359/section-45v-credit-for-production-of-clean-hydrogen-section-48a15-election-to-treat-clean-hydrogen#h-7" rel="noopener noreferrer" target="_blank"><u>more than 100 pages of proposed rules</u></a> for taking advantage of the Inflation Reduction Act’s clean hydrogen production tax credit.</p> 
 
 <br> 
 
@@ -1140,290 +1438,6 @@ date: 2024-10-14, from: Marketplace Morning Report
 
 ---
 
-## Nobel economics prize awarded for research into why countries succeed or fail
-
-date: 2024-10-14, from: VOA News USA
-
-STOCKHOLM  — The Nobel memorial prize in economics was awarded Monday to Daron Acemoglu, Simon Johnson and James A. Robinson for research into differences in prosperity between nations and why some countries succeed and others fail.
-
-
-The three economists "have demonstrated the importance of societal institutions for a country's prosperity," the Nobel committee of the Royal Swedish Academy of Sciences said at the announcement in Stockholm.
-
-
-"Societies with a poor rule of law and institutions that exploit the population do not generate growth or change for the better. The laureates' research helps us understand why," it added.
-
-
-Acemoglu and Johnson work at the Massachusetts Institute of Technology and Robinson conducts his research at the University of Chicago.
-
-
-"Reducing the vast differences in income between countries is one of our time's greatest challenges. The laureates have demonstrated the importance of societal institutions for achieving this," Jakob Svensson, Chair of the Committee for the Prize in Economic Sciences, said.
-
-
-He said their research has provided "a much deeper understanding of the root causes of why countries fail or succeed."
-
-
-Reached by the academy in Athens, Greece, where he is due to speak at a conference, Acemoglu said he was surprised and shocked by the award.
-
-
-"You never expect something like this," he said.
-
-
-The economics prize is formally known as the Bank of Sweden Prize in Economic Sciences in Memory of Alfred Nobel. The central bank established it in 1968 as a memorial to Nobel, the 19th-century Swedish businessman and chemist who invented dynamite and established the five Nobel Prizes.
-
-
-Though Nobel purists stress that the economics prize is technically not a Nobel Prize, it is always presented together with the others on Dec. 10, the anniversary of Nobel's death in 1896.
-
-
-Nobel honors were announced last week in medicine, physics, chemistry, literature and peace. 
-
-<br> 
-
-<https://www.voanews.com/a/nobel-economics-prize-is-awarded-for-research-into-why-countries-succeed-or-fail-/7821460.html>
-
----
-
-## Indigenous Peoples Day celebrated with an eye on election
-
-date: 2024-10-14, from: VOA News USA
-
-As Native Americans across the U.S. come together on Monday for Indigenous Peoples Day to celebrate their history and culture and acknowledge the ongoing challenges they face, many will do so with a focus on the election.
-
-
-From a voting rally in Minneapolis featuring food, games and raffles to a public talk about the Native vote at Virginia Tech, the holiday, which comes about three weeks before Election Day, will feature a wide array of events geared toward Native voter mobilization and outreach amid a strong recognition of the power of their votes.
-
-
-In 2020, Native voters proved decisive in the presidential election. Voter turnout on tribal land in Arizona increased dramatically compared with the previous presidential election, helping Joe Biden win a state that hadn’t supported a Democratic candidate in a White House contest since 1996.
-
-
-
-
-Janeen Comenote, executive director of the National Urban Indian Family Coalition, which is involved with at least a dozen of these types of voting events across the country, said this year it’s especially important to mobilize Native voters because the country is selecting the president. But she cautioned that Native people are in no way a monolith in terms of how they vote.
-
-
-“We’re really all about just getting Native voters out to vote, not telling them how to vote. But sort of understanding that you have a voice and you’re a democracy, a democracy that we helped create,” said Comenote, a citizen of the Quinault Indian Nation.
-
-
-
-
-In Arizona, her coalition is partnering with the Phoenix Indian Center to hold a town hall Monday called “Democracy Is Indigenous: Power Of The Native Vote,” which will feature speakers and performances, along with Indigenous artwork centered on democracy.
-
-
-In Apex, North Carolina, about 14 miles (23 kilometers) southwest of Raleigh, the coalition is working with the Triangle Native American Society for an event expected to include a celebration of the 100th anniversary of the Indian Citizenship Act of 1924 and a booth with nonpartisan voter information and giveaways.
-
-
-While not a federal holiday, Indigenous Peoples Day is observed by 17 states, including Washington, South Dakota and Maine, as well as Washington, D.C., according to the Pew Research Center. It typically takes place on the second Monday in October, which is the same day as the Columbus Day federal holiday. 
-
-<br> 
-
-<https://www.voanews.com/a/indigenous-peoples-day-celebrated-with-an-eye-on-election-/7821434.html>
-
----
-
-## Los Angeles celebrates Indigenous’ Peoples Day before Columbus Day
-
-date: 2024-10-14, from: VOA News USA
-
-Since 2019 the state of California officially celebrates Indigenous Peoples’ Day instead of the federally recognized Columbus Day, which falls on every second Monday in October. VOA’s Genia Dulot visited the celebration at the Getty Museum in Los Angeles, that drew around 2,000 people. 
-
-<br> 
-
-<https://www.voanews.com/a/los-angeles-celebrates-indigenous-peoples-day-before-columbus-day/7821408.html>
-
----
-
-## World Bank says 26 poorest countries in worst financial shape since 2006
-
-date: 2024-10-14, from: VOA News USA
-
-WASHINGTON — The world's 26 poorest countries, home to 40% of the most poverty-stricken people, are more in debt than at any time since 2006 and increasingly vulnerable to natural disasters and other shocks, a new World Bank report showed on Sunday.
-
-
-The report finds that these economies are poorer today on average than they were on the eve of the COVID-19 pandemic, even as the rest of the world has largely recovered from COVID and resumed its growth trajectory.
-
-
-Released a week before World Bank and International Monetary Fund annual meetings get underway in Washington, the report confirms a major setback to efforts to eradicate extreme poverty and underscores the World Bank's efforts this year to raise $100 billion to replenish its financing fund for the world's poorest countries, the International Development Association (IDA).
-
-
-The 26 poorest economies studied, which have annual per-capita incomes of less than $1,145, are increasingly reliant on IDA grants and near-zero interest rate loans as market financing has largely dried up, the World Bank said. Their average debt-to-GDP ratio of 72% is at an 18-year high and half of the group are either in debt distress or at high risk of it.
-
-
-Two-thirds of the 26 poorest countries are either in armed conflicts or have difficulty maintaining order because of institutional and social fragility, which inhibit foreign investment, and nearly all export commodities, exposing them to frequent boom-and-bust cycles, the report said.
-
-
-"At a time when much of the world simply backed away from the poorest countries, IDA has been their lifeline," World Bank chief economist Indermit Gill said in a statement. "Over the past five years, it has poured most of its financial resources into the 26 low-income economies, keeping them afloat through the historic setbacks they suffered."
-
-
-IDA normally is replenished every three years with contributions from World Bank shareholding countries. It raised a record $93 billion in 2021, and World Bank President Ajay Banga is aiming to exceed that with over $100 billion in pledges by Dec. 6.
-
-
-Natural disasters also have taken a greater toll on these countries over the past decade. Between 2011 and 2023, natural disasters were associated with average annual losses of 2% of GDP, five times the average among lower-middle-income countries, pointing up the need for much higher investment, the World Bank said.
-
-
-The report also recommended that these economies, which have large informal sectors operating outside their tax systems, do more to help themselves. This includes improving tax collections by simplifying taxpayer registration and tax administration and improving the efficiency of public spending. 
-
-<br> 
-
-<https://www.voanews.com/a/world-bank-says-26-poorest-countries-in-worst-financial-shape-since-2006/7821293.html>
-
----
-
-## Man arrested near Trump rally in California on gun charges
-
-date: 2024-10-14, from: VOA News USA
-
-A man arrested at a security checkpoint near Republican presidential candidate Donald Trump's California rally on Saturday faces gun charges after he was found in possession of two guns and a high-capacity magazine, authorities said on Sunday. 
-
-
-The 49-year-old man, a resident of Las Vegas, was stopped in a black SUV by deputies from the Riverside County sheriff's office on Saturday and taken into custody without incident, according to the office. 
-
-
-"The incident did not impact the safety of former President Trump or attendees of the event," the sheriff's office said in a press release. 
-
-
-Trump narrowly survived an assassination attempt in July, when a gunman's bullet grazed his ear during a campaign rally in Butler, Pennsylvania. In September, another man was charged with trying to assassinate Trump after Secret Service agents discovered him hiding with a rifle near Trump's Palm Beach golf course. He pleaded not guilty. 
-
-
-Trump's rally on Saturday took place in the Coachella Valley, an area known for its annual music and arts festival. 
-
-
-The sheriff's office said the man arrested, identified as Vem Miller, was charged with possession of a loaded firearm and possession of a high-capacity magazine. More details about the charges were not available. 
-
-
-Jail records show Miller was released on $5,000 bail on Saturday. He could not immediately be reached for comment on Sunday. 
-
-<br> 
-
-<https://www.voanews.com/a/man-arrested-near-trump-rally-in-california-on-gun-charges/7820997.html>
-
----
-
-## More relief for hurricane victims under way as campaigns spar over misinformation
-
-date: 2024-10-13, from: VOA News USA
-
-On Sunday, President Joe Biden visited areas affected by Hurricane Milton in Florida and announced a half-billion dollars in new funding to improve electric grid resilience. But even as relief and recovery efforts continue, officials warn that misinformation is spreading rapidly as Election Day draws near. VOA’s Veronica Balderas Iglesias has the details, with reporting from Patrick Bresnan in North Carolina. 
-
-<br> 
-
-<https://www.voanews.com/a/more-relief-for-hurricane-victims-under-way-as-misinformation-continues-to-spread/7820988.html>
-
----
-
-## Iran condemns 'illegal, unjustified' US sanctions on oil industry
-
-date: 2024-10-13, from: VOA News USA
-
-Tehran, Iran — Iran condemned Sunday what it called an "illegal and unjustified" expansion of U.S. sanctions targeting its oil industry following Tehran's missile attack on Israel earlier this month.  
-
-
-In a statement, foreign ministry spokesman Esmail Baghaei defended Iran's attack on Israel and "strongly condemned" the sanctions, saying they were "illegal and unjustified."  
-
-
-The United States on Friday slapped Iran with a spate of new sanctions on the country's oil and petrochemical industry in response to Tehran's October 1 attack against Israel.
-
-
-Baghaei defended Iran's attack on Israel as being legal and insisted on Iran's right to respond to the new sanctions.
-
-
-The U.S. Treasury Department said it targeted Iran's so-called shadow fleet of ships involved in selling Iranian oil in circumvention of existing sanctions.
-
-
-It said it had designated at least 10 companies and 17 vessels as "blocked property" over their involvement in shipments of Iranian petroleum and petrochemical products.  
-
-
-The State Department also announced it was placing sanctions on six further firms and six ships for "knowingly engaging in a significant transaction for the purchase, acquisition, sale, transport, or marketing of petroleum or petroleum products from Iran".
-
-
-Baghaei said "the policy of threats and maximum pressure" had no impact on "Iran's will to defend its sovereignty, territorial integrity, national interests and citizens against any violation and foreign aggressions."
-
-
-He said the sanctions would enable Israel "to continue killing innocents and pose a threat to the peace and unity of the region and the world".
-
-
-The new wave of sanctions comes as the world awaits Israel's promised response to Tehran's missile attack, with oil prices hitting their highest levels since August.
-
-
-Earlier this month, U.S. President Joe Biden advised Israel against targeting oil infrastructure in Iran, one of the world's 10 largest producers.
-
-
-Iran's foreign minister, Abbas Araghchi last Tuesday warned that "any attack against infrastructure in Iran will provoke an even stronger response." 
-
-<br> 
-
-<https://www.voanews.com/a/iran-condemns-illegal-unjustified-us-sanctions-on-oil-industry/7820962.html>
-
----
-
-## US to supply Israel with advanced missile defense system
-
-date: 2024-10-13, from: VOA News USA
-
- 
-
-<br> 
-
-<https://www.voanews.com/a/us-will-send-an-air-defense-battery-and-american-troops-to-israel-to-bolster-defenses-against-iran-/7820840.html>
-
----
-
-## Biden surveys Hurricane Milton damage in Florida
-
-date: 2024-10-13, from: VOA News USA
-
-ST. PETE BEACH, Fla. — U.S. President Joe Biden on Sunday surveyed the devastating damage in Florida left in the aftermath of Hurricane Milton sweeping across the state last week, where residents are still recovering from the destruction wrought by late September’s Hurricane Helene. 
-
-
-“This area is taking a real beating from back-to-back storms,” Biden said after his Marine One helicopter flew over Florida’s western coast from Tampa to St. Petersburg. The flight offered him a close look at the battered region, including the shredded roof of the Tampa Bay Rays’ baseball stadium, Tropicana Field in St. Petersburg. 
-
-
-Seventeen people were killed across the state during the storm, many from tornadoes spawned by the hurricane. 
-
-
-On the ground, Biden saw entire neighborhoods in St. Pete Beach with debris piled on street corners next to felled palm trees. Many of the pastel-painted garage doors were busted open as the smell of moldy building materials filled the air. 
-
-
-Heaps of mattresses, siding, couches, microwave ovens, pillows and ruined kitchen cabinets all lined the island's roads, some still covered in large patches of sand, as Biden walked through with emergency responders. One photo album still lay scattered in the street. 
-
-
-“Help,” one resident asked Biden in lettering on one pile of household debris.  
-
-
-Biden praised the region’s residents for helping each other recover. “That’s the resilience of west Florida,” he said, noting that even with the contentious Nov. 5 presidential election in the immediate offing, people were pitching in to restore their community, “not as Democrats and Republicans, but as Americans, Americans who need help.” 
-
-
-
-
-He said power had been restored to 2 million of the estimated 3 million people who lost electricity during the wrath of Milton as it swept eastward from the state’s western shoreline along the Gulf of Mexico across the state before moving into the Atlantic Ocean. Biden said thousands of electrical workers from 43 states and Canada had gone to Florida to help repair its grid. 
-
-
-Biden announced $612 million in new federal aid for the victims of the two hurricanes across the southeastern U.S. 
-
-
-The National Weather Service said flooding is expected to continue around Tampa Bay and the Sanford area northeast of Orlando as river waters continue to rise. 
-
-
-
-
-More fuel distribution sites were scheduled to open Sunday, according to the state's emergency operations center.     
-
-
-Sarasota Mayor Liz Alpert said recovery was expected to take a long time as officials continued to restore power more widely and extend more services to barrier islands by late Monday    
-
-
-"It's still a mess," she told ABC News' "This Week" program. "People are coming together. Neighbors are helping neighbors. It's been heartening to see all of the outpouring of support and help that people have been offering." 
-
-
-While Milton was not as destructive as officials had initially forecasted, analysts have estimated insured losses could total between $30 billion and $60 billion. 
-
-
-Some material in this report came from Reuters. 
-
-<br> 
-
-<https://www.voanews.com/a/biden-will-view-hurricane-milton-damage-in-florida-harris-plans-to-go-to-church-in-north-carolina-/7820683.html>
-
----
-
 ##  LEVER WEEKLY: Titans Of Deregulation 
 
 date: 2024-10-13, from: The Lever News
@@ -1433,93 +1447,4 @@ date: 2024-10-13, from: The Lever News
 <br> 
 
 <https://www.levernews.com/titans-of-deregulation/>
-
----
-
-## SpaceX launches its mega Starship rocket; this time, mechanical arms catches it at landing
-
-date: 2024-10-13, from: VOA News USA
-
- 
-
-<br> 
-
-<https://www.voanews.com/a/us-aviation-authority-approves-spacex-starship-5-flight-for-sunday-/7820318.html>
-
----
-
-## NASA's Europa Clipper spacecraft will scour Jupiter moon for ingredients for life
-
-date: 2024-10-13, from: VOA News USA
-
-CAPE CANAVERAL, Fla.  — A NASA spacecraft is ready to set sail for Jupiter and its moon Europa, one of the best bets for finding life beyond Earth.
-
-
-Europa Clipper will peer beneath the moon’s icy crust where an ocean is thought to be sloshing fairly close to the surface. It won’t search for life, but rather determine whether conditions there could support it. Another mission would be needed to flush out any microorganisms lurking there.
-
-
-“It’s a chance for us to explore not a world that might have been habitable billions of years ago, but a world that might be habitable today — right now,” said program scientist Curt Niebur.
-
-
-Its massive solar panels make Clipper the biggest craft built by NASA to investigate another planet. It will take 5 1/2 years to reach Jupiter and will sneak within 16 miles (25 kilometers) of Europa's surface — considerably closer than any other spacecraft.
-
-
-Liftoff is targeted for this month aboard SpaceX’s Falcon Heavy rocket from NASA’s Kennedy Space Center. Mission cost: $5.2 billion.
-
-
-Europa, the superstar among Jupiter’s many moons 
-
-
-One of Jupiter’s 95 known moons, Europa is almost the size of our own moon. It's encased in an ice sheet estimated to be 10 miles to 15 miles or more (15 kilometers to 24 kilometers) thick. Scientists believe this frozen crust hides an ocean that could be 80 miles (120 kilometers) or more deep. The Hubble Space Telescope has spotted what appear to be geysers erupting from the surface. Discovered by Galileo in 1610, Europa is one of the four so-called Galilean moons of Jupiter, along with Ganymede, Io and Callisto.
-
-
-Seeking conditions that support life 
-
-
-What type of life might Europa harbor? Besides water, organic compounds are needed for life as we know it, plus an energy source. In Europa’s case that could be thermal vents on the ocean floor. Deputy project scientist Bonnie Buratti imagines any life would be primitive like the bacterial life that originated in Earth’s deep ocean vents. “We will not know from this mission because we can’t see that deep,” she said. Unlike missions to Mars where habitability is one of many questions, Clipper’s sole job is to establish whether the moon could support life in its ocean or possibly in any pockets of water in the ice.
-
-
-Supersized spacecraft 
-
-
-When its solar wings and antennas are unfurled, Clipper is about the size of a basketball court — more than 100 feet (30 meters) end to end — and weighs nearly 13,000 pounds (6,000 kilograms). The supersized solar panels are needed because of Jupiter’s distance from the sun. The main body — about the size of a camper — is packed with nine science instruments, including radar that will penetrate the ice, cameras that will map virtually the entire moon and tools to tease out the contents of Europa’s surface and tenuous atmosphere. The name hearkens to the swift sailing ships of centuries past.
-
-
-Circling Jupiter to fly by Europa 
-
-
-
-
-The roundabout trip to Jupiter will span 1.8 billion miles (3 billion kilometers). For extra oomph, the spacecraft will swing past Mars early next year and then Earth in late 2026. It arrives at Jupiter in 2030 and begins science work the next year. While orbiting Jupiter, it will cross paths with Europa 49 times. The mission ends in 2034 with a planned crash into Ganymede — Jupiter’s biggest moon and the solar system's too.
-
-
-Europa flybys pose huge radiation risk 
-
-
-There’s more radiation around Jupiter than anywhere else in our solar system, besides the sun. Europa passes through Jupiter’s bands of radiation as it orbits the gas giant, making it especially menacing for spacecraft. That’s why Clipper’s electronics are inside a vault with dense aluminum and zinc walls. All this radiation would nix any life on Europa’s surface. But it could break down water molecules and, perhaps, release oxygen all the way down into the ocean that could possibly fuel sea life.
-
-
-Earlier this year, NASA was in a panic that the spacecraft's many transistors might not withstand the intense radiation. But after months of analysis, engineers concluded the mission could proceed as planned.
-
-
-Other visitors to Jupiter and Europa 
-
-
-NASA’s twin Pioneer spacecraft and then two Voyagers swept past Jupiter in the 1970s. The Voyagers provided the first detailed photos of Europa but from quite a distance. NASA’s Galileo spacecraft had repeated flybys of the moon during the 1990s, passing as close as 124 miles (200 kilometers). Still in action around Jupiter, NASA’s Juno spacecraft has added to Europa’s photo album. Arriving at Jupiter a year after Clipper will be the European Space Agency’s Juice spacecraft, launched last year.
-
-
-Ganymede and other possible ocean worlds 
-
-
-Like Europa, Jupiter’s jumbo moon Ganymede is thought to host an underground ocean. But its frozen shell is much thicker — possibly 100 miles (160 kilometers) thick — making it tougher to probe the environment below. Callisto’s ice sheet may be even thicker, possibly hiding an ocean. Saturn’s moon Enceladus has geysers shooting up, but it’s much farther than Jupiter. Ditto for Saturn’s moon Titan, also suspected of having a subterranean sea. While no ocean worlds have been confirmed beyond our solar system, scientists believe they’re out there — and may even be relatively common.
-
-
-Messages in a cosmic bottle 
-
-
-Like many robotic explorers before it, Clipper bears messages from Earth. Attached to the electronics vault is a triangular metal plate. On one side is a design labeled “water words” with representations of the word for water in 104 languages. On the opposite side: a poem about the moon by U.S. poet laureate Ada Limon and a silicon chip containing the names of 2.6 million people who signed up to vicariously ride along. 
-
-<br> 
-
-<https://www.voanews.com/a/nasa-s-europa-clipper-spacecraft-will-scour-jupiter-moon-for-the-ingredients-for-life-/7820650.html>
 

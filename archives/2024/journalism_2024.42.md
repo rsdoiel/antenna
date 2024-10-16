@@ -1,20 +1,182 @@
 ---
 title: journalism
-updated: 2024-10-15 08:49:10
+updated: 2024-10-15 17:51:30
 ---
 
 # journalism
 
-(date: 2024-10-15 08:49:10)
+(date: 2024-10-15 17:51:30)
 
 ---
 
-## The City of Santa Claria is planning for bigger and better parks in 2025
+## Gallery: UCLA surrenders fourth-quarter lead to Minnesota in home heartbreaker
+
+date: 2024-10-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Despite holding the lead midway through the fourth quarter, UCLA football (1-5, 0-4 Big Ten) fell 21-17 to Minnesota (4-3, 2-2) in Saturday’s Rose Bowl matchup, continuing the team’s worst start since 2019 under then-head coach Chip Kelly.&#160;
+With just 27 seconds left in the game, UCLA gave up a touchdown to the Minnesota offense and subsequently failed to convert an end-of-game Hail Mary, cementing its fifth consecutive loss. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/15/gallery-ucla-surrenders-fourth-quarter-lead-to-minnesota-in-home-heartbreaker/>
+
+---
+
+## USAC passes resolution criticizing regents’ allocation of weapons, drones to UCPD
+
+date: 2024-10-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council unanimously passed a resolution Oct. 1 condemning the UC Board of Regents’ allocation of drones and less-than-lethal weapons to UCPD.
+The resolution, primarily sponsored by General Representative Tommy Contreras, criticizes the regents’ passage of Item C1 during their Sept. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/15/usac-passes-resolution-criticizing-regents-allocation-of-weapons-drones-to-ucpd/>
+
+---
+
+## Op-ed: Bruins should participate in Great ShakeOut drill for earthquake preparation
+
+date: 2024-10-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+October is Bruin Earthquake Awareness Month, and in the case of an unexpected natural disaster, there is no question that practice and preparation can save lives. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/15/op-ed-bruins-should-participate-in-great-shakeout-drill-for-earthquake-preparation/>
+
+---
+
+## Editorial Cartoon: “Bruin Blood Donation”
+
+date: 2024-10-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2024/10/15/editorial-cartoon-bruin-blood-donation/>
+
+---
+
+## Music Mends Minds brings support, joy to older people with neurological conditions
+
+date: 2024-10-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+A global music nonprofit is building a stronger community for those affected by neurodegenerative diseases one song at a time.
+The worldwide nonprofit organization Music Mends Minds (MMM) began in 2014 and has received funding from the Herb Alpert Foundation every year since. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/15/music-mends-minds-brings-support-joy-to-older-people-with-neurological-conditions/>
+
+---
+
+## The San Fernando Valley lowrider community shows their pride at La Pachanga
+
+date: 2024-10-15, from: The Sundail (CSUN Student Newspaper)
+
+The B3 parking lot turned into a lowrider car show with a DJ playing cumbia, baile folklórico, food trucks and even a special performance of pop and lock it. Owners... 
+
+<br> 
+
+<https://sundial.csun.edu/186249/arts-entertainment/the-san-fernando-valley-lowrider-community-shows-their-pride-at-la-pachanga/>
+
+---
+
+## ‘Bringing Families and Friends Together for Happy Memories’: The Grand Opening of Happy Ice in Northridge
+
+date: 2024-10-15, from: The Sundail (CSUN Student Newspaper)
+
+“I wanted [it] to be a place where you are like, ‘I don&#8217;t know what we are doing’ or ‘I don&#8217;t really want to go do much, but I just... 
+
+<br> 
+
+<https://sundial.csun.edu/186238/news/bringing-families-and-friends-together-for-happy-memories-the-grand-opening-of-happy-ice-in-northridge/>
+
+---
+
+## Casey Harper combines legal research, entertainment in sister-brother partnership
+
+date: 2024-10-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+Casey Harper is the former Bruin behind an up and coming pop sensation.
+Harper obtained her master&#8217;s in legal studies from the UCLA School of Law but quickly took her lessons to the creative world of the music industry. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/15/casey-harper-combines-legal-research-entertainment-in-sister-brother-partnership/>
+
+---
+
+## Mind matters: AS Mental Health Fair sparks student engagement and awareness
+
+date: 2024-10-15, from: The Sundail (CSUN Student Newspaper)
+
+Associated Students hosted a Mental Health Awareness Fair at Sierra Lawn in honor of World Mental Health Day on Oct. 10, offering students resources and promoting mental well-being. According to... 
+
+<br> 
+
+<https://sundial.csun.edu/186229/arts-entertainment/mind-matters-as-mental-health-fair-sparks-student-engagement-and-awareness/>
+
+---
+
+## Hell Gate NYC doubled its subscription revenue in its second year as a worker-owned news outlet
+
+date: 2024-10-15, from: Nieman Journalism Lab
+
+New York City Mayor Eric Adams’s indictment on federal corruption charges in September has kept local news outlets busy. And for at least one, the work is paying off. In Hell Gate NYC’s second annual report, published on Friday, the worker-owned New York City news outlet said its subscription revenue increased by 8% in September,... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/10/hell-gate-nyc-doubled-its-subscription-revenue-in-its-second-year-as-a-worker-owned-news-outlet/>
+
+---
+
+## Persian Perspectives Today: Porochista Khakpour
+
+date: 2024-10-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+Listen to series host and podcasts contributor Megan Vahdat sit down with author Porochista Khakpour to discuss her experiences growing up Iranian in LA, her journey as a writer and her latest novel, &#8220;Tehrangeles.&#8221;
+
+Megan Vahdat: I&#8217;m Megan Vahdat, and this is Persian Perspectives Today, a podcast that explores the viewpoints of Iranian leaders in arts, science, education, and politics in the UCLA community and beyond. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/15/persian-perspectives-today-porochista-khakpour/>
+
+---
+
+## CSUN readout raises awareness of book bans
+
+date: 2024-10-15, from: The Sundail (CSUN Student Newspaper)
+
+CSUN’s 12th annual Banned Book Readout was held on Sept. 25 in the Jack and Florence Ferman Presentation Room at the University Library The event was hosted by the University... 
+
+<br> 
+
+<https://sundial.csun.edu/186221/news/csun-readout-raises-awareness-of-book-bans/>
+
+---
+
+## Midwestern news nonprofit The Beacon shuts down its Wichita newsroom
+
+date: 2024-10-15, from: Nieman Journalism Lab
+
+The Beacon, a prominent Midwestern news nonprofit that began publishing news coverage in Kansas City in 2020 and expanded to Wichita in 2021 with almost $4 million raised from local philanthropy and the American Journalism Project, is shutting down its Wichita newsroom three years after its launch. “Our vision hasn’t changed. We’re thinking beyond our... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/10/midwestern-news-nonprofit-the-beacon-shuts-down-its-wichita-newsroom/>
+
+---
+
+## The City of Santa Clarita is planning for bigger and better parks in 2025
 
 date: 2024-10-15, from: The Canyon News (COC Student Newspaper)
 
 <p>The city of Santa Clarita installed a new staircase to Central Park&#8230;</p>
-<p>The post <a href="https://canyonsnews.com/the-city-of-santa-claria-is-planning-for-bigger-and-better-parks-in-2025/">The City of Santa Claria is planning for bigger and better parks in 2025</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+<p>The post <a href="https://canyonsnews.com/the-city-of-santa-claria-is-planning-for-bigger-and-better-parks-in-2025/">The City of Santa Clarita is planning for bigger and better parks in 2025</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
  
 
 <br> 
@@ -158,12 +320,13 @@ College is for open and civilized debate, not threats and intimidation. In an er
 
 ---
 
-## Men’s waterpolo bounces back from previous loss to win both games this weekend
+## Men’s water polo bounces back from previous loss to win both games this weekend
 
 date: 2024-10-15, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Oct. 15 at 12:21 p.m.</em>
 After commemorating the weekend with two wins, the Bruins continue their renewed winning streak.
-No. 2 UCLA men&#8217;s water polo (16-1, 1-1 MPSF) secured two wins this weekend, first claiming an 18-12 victory against  No. 
+No. 2 UCLA men&#8217;s water polo (16-1, 1-1 MPSF) secured two wins this weekend, first claiming an 18-12 victory against No. 
 
 <br> 
 
@@ -241,7 +404,7 @@ The evening opened at Broxton Plaza: a newly pedestrianized area that was turned
 
 date: 2024-10-14, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Oct. 13 at 11:33 p.m.</em>
+<em>This post was updated Oct. 15 at 5:29 p.m.</em>
 An appeals court judge denied a request to order the UC to hire undocumented students.
 Jeffry Umaña Muñoz and Iliana Perez filed a lawsuit against the University on Oct. 
 
@@ -303,19 +466,6 @@ date: 2024-10-14, from: The Daily Bruin (UCLA Student Newspaper)
 
 ---
 
-## UCLA’s annual Westwood Block Party kickstarts school year, highlights community
-
-date: 2024-10-14, from: The Daily Bruin (UCLA Student Newspaper)
-
-UCLA hosted the annual Westwood Village Block Party with games, local food vendors and merchandise on Sept. 22.
-The block party included activities such as a ferris wheel and a bounce house, while providing students with discounted food and merchandise from both UCLA and surrounding Westwood businesses. 
-
-<br> 
-
-<https://dailybruin.com/2024/10/13/uclas-annual-westwood-block-party-kickstarts-school-year-highlights-community/>
-
----
-
 ## A conversation with Grammy-award winning jazz musician, John Beasley
 
 date: 2024-10-14, from: The Sundail (CSUN Student Newspaper)
@@ -337,103 +487,4 @@ The sounds of jazz music filled the Great Hall of the Soraya on Friday, Oct. 4 a
 <br> 
 
 <https://sundial.csun.edu/186179/arts-entertainment/jazz-music-fills-the-soraya-as-john-beasley-conducts-csun-jazz-bands-a-and-b-in-concert/>
-
----
-
-## USAC recap – Oct. 8
-
-date: 2024-10-13, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated Oct. 13 at 11:32 p.m.</em>
-The Undergraduate Students Association Council held its second meeting of October on Tuesday.
-USAC is the official student government representing the undergraduate student body at UCLA. 
-
-<br> 
-
-<https://dailybruin.com/2024/10/13/usac-recap-oct-8-2/>
-
----
-
-## UCLA alumnus arrested for illegal possession of arms near Trump rally
-
-date: 2024-10-13, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated Oct. 13 at 11:18 p.m.</em>
-A UCLA alumnus was arrested Saturday for a weapons violation outside a campaign rally for former President Donald Trump. 
-
-<br> 
-
-<https://dailybruin.com/2024/10/13/ucla-alumnus-arrested-for-illegal-possession-of-arms-near-trump-rally/>
-
----
-
-## Rising Artists: Singer-songwriter releases help listeners turn a new leaf on fall playlists
-
-date: 2024-10-13, from: The Daily Bruin (UCLA Student Newspaper)
-
-The winds of change this fall are coming with new additions to listeners&#8217; playlists.
-A collection of alt-pop stars-in-the-making have released new projects recently that are ready for fans&#8217; consumption, while other artists infuse their versions of dance music into the increasingly chilly fall evenings. 
-
-<br> 
-
-<https://dailybruin.com/2024/10/13/rising-artists-singer-songwriter-releases-help-listeners-turn-a-new-leaf-on-fall-playlists/>
-
----
-
-## Concert review: With hyper beats, Porter Robinson paints “SMILE! :D” on numerous faces
-
-date: 2024-10-13, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated Oct. 13 at 8:20 p.m.</em>
-Editor&#8217;s note: This article contains references to suicide.
-Porter Robinson delivered an energized performance with a “SMILE! 
-
-<br> 
-
-<https://dailybruin.com/2024/10/12/concert-review-with-hyper-beats-porter-robinson-paints-smile-d-on-numerous-faces/>
-
----
-
-## Golden Gophers burrow Bruins’ lead with last-minute touchdown in Rose Bowl loss
-
-date: 2024-10-13, from: The Daily Bruin (UCLA Student Newspaper)
-
-Ethan Garbers wasn’t scheduled to start an hour before Saturday’s kickoff.&#160;
-But on the Bruins’ first drive, the redshirt senior quarterback took the field.&#160;
-And on UCLA’s final drive –&#160;with 27 seconds left on the clock – Garbers was the team’s last hope.&#160;
-However, the seasoned signal-caller was depleted of his magic tricks by the fourth quarter.&#160;
-With seven seconds to play, Garbers tossed deep into the night –&#160;and right into the hands of defensive back Koi Perich –&#160;for his third interception of the game.&#160;
-As UCLA football (1-5, 0-4 Big Ten) lived and died by its veteran quarterback, Minnesota (4-3, 2-2) emerged victorious 21-17 at the Rose Bowl on Saturday night.&#160;
-“This is a tough loss, so this one’s going to sting a little bit,” said coach DeShaun Foster. 
-
-<br> 
-
-<https://dailybruin.com/2024/10/12/golden-gophers-burrow-bruins-lead-with-last-minute-touchdown-in-rose-bowl-loss/>
-
----
-
-## UCLA cross country makes strides at final competition before Big Ten Championships
-
-date: 2024-10-13, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated Oct. 13 at 10:05 p.m.</em>
-Making a season debut less than a month before the Big Ten championships is a risk.
-But graduate student Michael Mireles and senior Mia Kane don&#8217;t seem too concerned. 
-
-<br> 
-
-<https://dailybruin.com/2024/10/12/ucla-cross-country-makes-strides-at-final-competition-before-big-ten-championships/>
-
----
-
-## Women’s volleyball to take on crosstown rival USC upon return to LA
-
-date: 2024-10-13, from: The Daily Bruin (UCLA Student Newspaper)
-
-One of the first things UCLA athletes prepare for  upon stepping foot in Westwood is the crosstown rivalry.
-Freshman outside hitter Kiki Horne is one of nine Bruins gearing up for their first battle against the Trojans. 
-
-<br> 
-
-<https://dailybruin.com/2024/10/12/womens-volleyball-to-take-on-crosstown-rival-usc-upon-return-to-la/>
 

@@ -1,11 +1,359 @@
 ---
 title: science and technology
-updated: 2024-10-15 08:49:10
+updated: 2024-10-15 17:51:29
 ---
 
 # science and technology
 
-(date: 2024-10-15 08:49:10)
+(date: 2024-10-15 17:51:29)
+
+---
+
+## Uncle Sam reportedly considers capping AI chip shipments to Middle East
+
+date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
+
+<h4>Meanwhile, ASML shares plunge as China export curbs hit forecast</h4> <p>Amid fears that Middle Eastern nations are being used to funnel AI accelerators and other sensitive technologies to China, the Biden administration is reportedly considering capping shipments of the products to certain countries in the region.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/16/us_export_cap_ai_chip_middle_east/>
+
+---
+
+## What is a Coral Reef?
+
+date: 2024-10-16, from: NASA breaking news
+
+Coral reefs cover only 1% of the ocean floor, but support an estimated 25% of all marine life in the ocean, earning them the moniker ‘rainforest of the sea.’ They also play a critical role for coastal communities; preventing coastal erosion, protecting coastlines from hurricane damage, and generating $36 billion in annual income worldwide. We [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/what-is-a-coral-reef/>
+
+---
+
+## Pentagon stumped by mystery drone swarm flying over Langley Air Force Base
+
+date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
+
+<h4>Not that there&#39;s anything important there – just F-22s and stuff</h4> <p>The former commander of the the Langley Air Force Base in Hampton, Virginia, has revealed an unidentified drone swarm buzzed the facility for 17 days last December.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/15/pentagon_mystery_drone/>
+
+---
+
+## Cisco confirms 'ongoing investigation' after crims brag about selling tons of data
+
+date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
+
+<h4>IntelBroker claims the breach impacts Microsoft, SAP, AT&amp;T, Verizon, T-Mobile US, and more</h4> <p>Cisco has confirmed it is investigating claims of stealing — and now selling — data belonging to the networking giant.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/15/cisco_confirm_ongoing_investigation/>
+
+---
+
+## Station Science Top News: Oct. 11, 2024
+
+date: 2024-10-15, from: NASA breaking news
+
+Researchers verified that 3D micro-computed tomography scans can map the orientation of plant roots in space and used the method to demonstrate that carrots grown in actual and simulated microgravity both had random root orientation. These findings suggest that simulated microgravity offers a reliable and more affordable tool for studying plant adaptation to spaceflight. MULTI-TROP&#160;evaluated the role of [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-11-2024/>
+
+---
+
+## Two Lions Went on a Man-Eating Spree in 1898. Now, DNA Evidence Reveals Their Diets
+
+date: 2024-10-15, from: Smithsonian Magazine
+
+The notorious predators, nicknamed the “Man-Eaters of Tsavo,” terrorized railway workers in Kenya for roughly nine months 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/two-lions-went-on-a-man-eating-spree-in-1898-now-dna-evidence-reveals-their-diets-180985269/>
+
+---
+
+## DARPA pays $6M to see fully autonomous Black Hawk helicopters
+
+date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
+
+<h4>Resupply like Call of Duty? Not yet - only one planned for now</h4> <p>The US military is betting the Black Hawk helicopter of the future won&#39;t need pilots, and it&#39;s giving the bird&#39;s maker Sikorsky $6 million to prove it. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/15/black_hawk_autonomous_tech/>
+
+---
+
+## Famous Explorer's Remains Discovered on Mount Everest Offer Clues in a Century-Long Mystery
+
+date: 2024-10-15, from: Smithsonian Magazine
+
+In 1924, Andrew "Sandy" Irvine joined George Mallory’s expedition to the world’s highest peak. Now, Irvine’s recently found foot and boot hint at what might have happened on that ill-fated undertaking 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/famous-explorers-remains-discovered-on-mount-everest-offer-clues-in-a-century-long-mystery-180985267/>
+
+---
+
+## Digital River runs dry, hasn't paid developers for sales since July
+
+date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
+
+<h4>Vendor told El Reg the biz&#39;s law firm claims merchant debts aren’t valid obligations</h4> <p>Digital River has not paid numerous merchants since midsummer for software and digital products they sold through its MyCommerce platform.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/15/digital_river_runs_dry_hasnt/>
+
+---
+
+## Archaeologists in Petra Discover Secret Tomb Hiding Beneath a Mysterious Structure  Featured in 'Indiana Jones'
+
+date: 2024-10-15, from: Smithsonian Magazine
+
+The recent excavation beneath the Treasury has revealed 12 complete human skeletons and a trove of grave goods dating back 2,000 years 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/archaeologists-in-petra-discover-secret-tomb-hiding-beneath-a-mysterious-structure-featured-in-indiana-jones-180985275/>
+
+---
+
+## Sysadmins rage over Apple’s ‘nightmarish’ SSL/TLS cert lifespan cuts
+
+date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
+
+<h4>Maximum validity down from 398 days to 45 by 2027</h4> <p>Apple wants to shorten SSL/TLS security certificates&#39; lifespans, down from 398 days now to just 45 days by 2027, and sysadmins have some very strong feelings about this &#34;nightmarish&#34; plan. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/15/apples_security_cert_lifespan/>
+
+---
+
+## Dr. Rickey Shyne Named Crain’s Notable Black Leader
+
+date: 2024-10-15, from: NASA breaking news
+
+Dr. Rickey J. Shyne, director of Research and Engineering at NASA’s Glenn Research Center in Cleveland, has been named one of Crain’s Cleveland Business’ 2024 Notable Black Leaders.&#160;&#160; Shyne is responsible for leading a staff of approximately 1,100 engineers and scientists, and managing research and development in propulsion, communications, power, and materials and structures for extreme [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/newsletters/aerospace-frontiers/dr-rickey-shyne-named-crains-notable-black-leader/>
+
+---
+
+## $1.5 Million Awarded at Watts on the Moon Finals
+
+date: 2024-10-15, from: NASA breaking news
+
+Great Lakes Science Center, home of the visitor center for NASA’s Glenn Research Center in Cleveland, hosted the final phase of NASA’s Watts on the Moon Challenge on Sept. 20. NASA astronaut Stephen Bowen attended to help acknowledge the top winners.&#160;&#160; NASA awarded a total of $1.5 million to two U.S. teams for their novel [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/1-5-million-awarded-at-watts-on-the-moon-finals/>
+
+---
+
+## Ohio State Marching Band Performs Tribute to NASA
+
+date: 2024-10-15, from: NASA breaking news
+
+The Ohio State University (OSU) teamed up with NASA’s Glenn Research Center in Cleveland for a multi-faceted tribute to NASA on Sept 21. During a home football game against Marshall University, OSU’s Marching Band recognized the agency with a NASA-themed halftime show, in-game salute, and tribute to Glenn and two alums who play significant roles [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/ohio-state-marching-band-performs-tribute-to-nasa/>
+
+---
+
+## NASA Glenn Connects with Morehead State University
+
+date: 2024-10-15, from: NASA breaking news
+
+NASA’s Glenn Research Center Director Dr. Jimmy Kenyon met with students and faculty at Morehead State University (MSU) in Kentucky on Sept. 19. Kenyon provided the keynote address on the topic of NASA’s exploration efforts and regional economic impact during the ASTRA-Con (Appalachian Space Technology &#38; Research Advancement Conference). He also moderated a panel, which [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/newsletters/aerospace-frontiers/nasa-glenn-connects-with-morehead-state-university/>
+
+---
+
+## Visitors Explore NASA at Ingenuity Fest
+
+date: 2024-10-15, from: NASA breaking news
+
+NASA’s Glenn Research Center participated in the Cleveland Ingenuity Fest 2024: Take Flight on Sept. 27-29. Ingenuity Fest, held at the 300,000-square-foot Hamilton Collaborative, features artwork, musicians, dancers, poets, and performances of all types. It also highlights maker and innovator exhibits, fine art, and more.&#160; NASA Glenn’s staff shared opportunities for the community to engage [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/newsletters/aerospace-frontiers/visitors-explore-nasa-at-ingenuity-fest/>
+
+---
+
+## NASA Glenn’s Photographers Capture Harvest Moon
+
+date: 2024-10-15, from: NASA breaking news
+
+The Harvest Moon refers to the nearest full Moon to the autumnal equinox. The Moon appeared full for about three days last month from the evening of Monday, Sept. 16, through Thursday morning, Sept. 19. The brightest Moon was on Sept. 17.&#160; NASA’s Glenn Research Center photographers captured images of this supermoon as it shone across [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenns-photographers-capture-harvest-moon/>
+
+---
+
+## Artemis II Crew Visits NASA Glenn
+
+date: 2024-10-15, from: NASA breaking news
+
+Three of the four astronauts who will venture around the Moon on Artemis II, the first crewed flight paving the way for future lunar surface missions, visited NASA’s Glenn Research Center in Cleveland, Sept. 10-11. NASA Glenn is an integral part of the development of the Orion spacecraft and a leader in propulsion, power, and [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/artemis-ii-crew-visits-nasa-glenn/>
+
+---
+
+## Microsoft teases latest Windows 10 build despite looming end
+
+date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
+
+<h4>Rearranging the deckchairs as support iceberg approaches</h4> <p>Microsoft has released a Windows Insider build of Windows 10 despite the impending end of support for many flavors of the operating system.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/15/microsot_windows_10_insider/>
+
+---
+
+## Spooky on the Space Station
+
+date: 2024-10-15, from: NASA breaking news
+
+Science in Space: October 2024 Cultures around the world celebrate Halloween on Oct 31. In many places, in addition to people wearing costumes and eating candy, this day is associated with spooky decorating using fake blood, skeletons, flies, and spiders, some of them glow-in-the-dark. Crew members on the International Space Station have been known to [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/station/iss-research/spooky-on-the-space-station/>
+
+---
+
+## SpaceX Launches Starship Mega-Rocket and Catches Its Booster in Midair on First Try
+
+date: 2024-10-15, from: Smithsonian Magazine
+
+The success is a giant leap toward the company's goal to take humans and cargo all the way to Mars on the world's biggest and most powerful launch vehicle 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/spacex-launches-starship-mega-rocket-and-catches-its-booster-in-midair-on-first-try-180985268/>
+
+---
+
+## VMware settles securities fraud class suit with $102.5M payout
+
+date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
+
+<h4>Traded its shares between 2018 and 2020? You could cash in</h4> <p>Old accusations of securities fraud continue to dog VMware, with the virtualization juggernaut agreeing to pay $102.5 million to settle a shareholder suit over its alleged creation of an artificial sales backlog to hide slowing sales.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/15/vmware_securities_fraud_settle/>
+
+---
+
+## Intel, AMD, team with tech titans for x86 ISA overhaul
+
+date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
+
+<h4>Linus Torvalds, Broadcom, Dell, HPE, and Lenovo on the list</h4> <p>The shape of the x86 instruction set architecture (ISA) is evolving. On Tuesday, Intel and AMD announced the formation of an ecosystem advisory group intended to drive greater consistency between the brands&#39; x86 implementations.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/15/intel_amd_x86_future/>
+
+---
+
+## Nearly 40 Years After She Walked the Great Wall of China, Marina Abramović Returns to the Country With a New Exhibition
+
+date: 2024-10-15, from: Smithsonian Magazine
+
+"Transforming Energy," the artist's first museum show in China, focuses on "artworks and objects that actively engage the audience" 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/nearly-40-years-after-she-walked-the-great-wall-of-china-marina-abramovic-returns-to-the-country-with-a-new-exhibition-180985260/>
+
+---
+
+## AMD downplays risk of growing blast radius, licensing fees from manycore chips
+
+date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
+
+<h4>House of Zen says it&#39;s done the analysis, and concerns are a &#39;little bit&#39; unfounded</h4> <p>As AMD pushes to extend share of the datacenter CPU market, it&#39;s pushing CTOs to consider how many of their aging Intel systems can be condensed down to just one of its manycore chips.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/15/amd_risk_cores/>
+
+---
+
+## Microsoft says more ransomware stopped before reaching encryption
+
+date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
+
+<h4>Volume of attacks still surging though, according to Digital Defense Report</h4> <p>Microsoft says ransomware attacks are up 2.75 times compared to last year, but claims defenses are actually working better than ever.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/15/microsoft_ransomware_attacks/>
+
+---
+
+## Why Are Witches and Warlocks Going Stand-Up Paddleboarding to Celebrate Halloween?
+
+date: 2024-10-15, from: Smithsonian Magazine
+
+Across the country, revelers are dressing in costumes and gliding across bodies of water on stand-up paddleboards to ring in the spooky season 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/why-are-witches-and-warlocks-going-stand-up-paddleboarding-to-celebrate-halloween-180985244/>
+
+---
+
+## Historic New Shepard Rocket Booster and Crew Capsule Will Go on Display at the Air and Space Museum
+
+date: 2024-10-15, from: Smithsonian Magazine
+
+The two artifacts donated by Blue Origin achieved record-breaking feats and will extend the museum's story of trailblazing space travel into the present 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/historic-new-shepard-rocket-booster-and-crew-capsule-will-go-on-display-at-the-air-and-space-museum-180985265/>
+
+---
+
+## Analysts predict 85 million EVs on roads by 2025 despite industry speed bumps
+
+date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
+
+<h4>China will lead the way with North America trailing</h4> <p>Tech analysts forecast that the number of electric vehicles (EVs) in use will grow by 33 percent in 2025, and 73 percent will be battery-powered (BEVs).…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/15/85_million_evs_gartner/>
 
 ---
 
@@ -30,30 +378,6 @@ date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2024/10/15/norway_datacenter_biofuel/>
-
----
-
-## Eclipse Megamovie Coding Competition
-
-date: 2024-10-15, from: NASA breaking news
-
-Making the most of a solar eclipse demands attention to detail. Do you have what it takes? NASA’s Eclipse Megamovie project launched a new coding competition, and they need your help to organize images from the April 8, 2024 total solar eclipse. This is your chance to make a lasting contribution to solar science! The […] 
-
-<br> 
-
-<https://science.nasa.gov/get-involved/citizen-science/eclipse-megamovie-coding-competition/>
-
----
-
-## Revealing the Hidden Universe with Full-shell X-ray Optics at NASA MSFC
-
-date: 2024-10-15, from: NASA breaking news
-
-The study of X-ray emission from astronomical objects reveals secrets about the Universe at the largest and smallest spatial scales. Celestial X-rays are produced by black holes consuming nearby stars, emitted by the million-degree gas that traces the structure between galaxies, and can be used to predict whether stars may be able to host planets […] 
-
-<br> 
-
-<https://science.nasa.gov/science-research/science-enabling-technology/revealing-the-hidden-universe-with-full-shell-x-ray-optics-at-nasa-msfc/>
 
 ---
 
@@ -213,18 +537,6 @@ date: 2024-10-14, updated: 2024-10-14, from: The Register (UK I.T. News)
 
 ---
 
-## OpenET: Balancing Water Supply and Demand in the West
-
-date: 2024-10-14, from: NASA breaking news
-
-At the end of 2022, 65 percent of the Western United States was in severe drought, the result of a two decades long mega drought in the Colorado River Basin that had captured headlines around the world.&#160; However, it was flooding, not drought, that was making headlines when we began our research for this story [&#8230;] 
-
-<br> 
-
-<https://www.nasa.gov/general/openet-balancing-water-supply-and-demand-in-the-west/>
-
----
-
 ## US healthcare org admits up to 400,000 people's personal info was snatched
 
 date: 2024-10-14, updated: 2024-10-14, from: The Register (UK I.T. News)
@@ -237,15 +549,15 @@ date: 2024-10-14, updated: 2024-10-14, from: The Register (UK I.T. News)
 
 ---
 
-## What to Know About the Two Adorable Giant Pandas Now Heading to Washington, D.C. From China
+## The Smithsonian National Zoo's New Giant Pandas Will Make Their Public Debut on January 24
 
 date: 2024-10-14, from: Smithsonian Magazine
 
-A pair of 3-year-old giant pandas—a male named Bao Li and a female called Qing Bao—are officially on their way to Smithsonian's National Zoo, where they will get acclimated to their new home before making a public debut several weeks from now 
+A pair of 3-year-old giant pandas—a male named Bao Li and a female called Qing Bao—have officially arrived at the Zoo, where they will first acclimate to their new home 
 
 <br> 
 
-<https://www.smithsonianmag.com/smart-news/two-giant-pandas-are-en-route-from-china-to-washington-dc-180985263/>
+<https://www.smithsonianmag.com/smart-news/smithsonian-national-zoo-giant-panda-make-public-debut-january-24-180985263/>
 
 ---
 
@@ -270,18 +582,6 @@ date: 2024-10-14, updated: 2024-10-14, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2024/10/14/ransomware_insurance_ban/>
-
----
-
-## Liftoff! NASA’s Europa Clipper Sails Toward Ocean Moon of Jupiter
-
-date: 2024-10-14, from: NASA breaking news
-
-NASA’s Europa Clipper has embarked on its long voyage to Jupiter, where it will investigate Europa, a moon with an enormous subsurface ocean that may have conditions to support life. The spacecraft launched at 12:06 p.m. EDT Monday aboard a SpaceX Falcon Heavy rocket from Launch Pad 39A at NASA’s Kennedy Space Center in Florida. [&#8230;] 
-
-<br> 
-
-<https://www.nasa.gov/news-release/liftoff-nasas-europa-clipper-sails-toward-ocean-moon-of-jupiter/>
 
 ---
 
@@ -393,18 +693,6 @@ date: 2024-10-14, updated: 2024-10-14, from: The Register (UK I.T. News)
 
 ---
 
-## NASA Spotlight: Felipe Valdez, an Inspiring Engineer
-
-date: 2024-10-14, from: NASA breaking news
-
-Felipe Valdez is someone who took advantage of every possible opportunity at NASA, working his way from undergraduate intern to his current job as a flight controls engineer.&#160; Born in the United States but raised in Mexico, Valdez faced significant challenges growing up.&#160;&#160; “My mom worked long hours, my dad battled addiction, and eventually, school [&#8230;] 
-
-<br> 
-
-<https://www.nasa.gov/aeronautics/felipe-valdez-an-inspiring-engineer/>
-
----
-
 ## Smart homes may be a bright idea, just not for the dim bulbs who live in 'em
 
 date: 2024-10-14, updated: 2024-10-14, from: The Register (UK I.T. News)
@@ -489,42 +777,6 @@ date: 2024-10-13, updated: 2024-10-13, from: The Register (UK I.T. News)
 
 ---
 
-## Sols 4331-4333: Today’s Rover ABC – Aurora, Backwards Driving, and Chemistry, with a Side of Images
-
-date: 2024-10-13, from: NASA breaking news
-
-Earth planning date: Friday, Oct. 11, 2024 This blogger is in the United Kingdom, just north of London, where we yesterday had beautiful night skies with a red aurora that was even visible with the unaided eye, and looked stunning on photographs. That reminded me of the solar storm that made it all the way […] 
-
-<br> 
-
-<https://science.nasa.gov/blog/sols-4331-4333-todays-rover-abc-aurora-backwards-driving-and-chemistry-with-a-side-of-images/>
-
----
-
-## Journey to a Water World: NASA’s Europa Clipper Is Ready to Launch
-
-date: 2024-10-13, from: NASA breaking news
-
-Find details about the launch sequences for the orbiter, which is targeting an Oct. 14 liftoff on its mission to search for ingredients of life at Jupiter’s moon Europa. In less than 24 hours, NASA’s Europa Clipper spacecraft is slated to launch from the agency’s Kennedy Space Center in Florida aboard a Falcon Heavy rocket. [&#8230;] 
-
-<br> 
-
-<https://www.nasa.gov/missions/europa-clipper/journey-to-a-water-world-nasas-europa-clipper-is-ready-to-launch/>
-
----
-
-## NASA Welcomes Estonia as Newest Artemis Accords Signatory
-
-date: 2024-10-13, from: NASA breaking news
-
-While in Milan for international meetings, NASA Administrator Bill Nelson was among the witnesses as Estonia signed the Artemis Accords and became the 45th nation to join the United States and other signatories agreeing to the safe, transparent, and responsible exploration of the Moon, Mars, and beyond. The signing ceremony took place ahead of Italy [&#8230;] 
-
-<br> 
-
-<https://www.nasa.gov/news-release/nasa-welcomes-estonia-as-newest-artemis-accords-signatory/>
-
----
-
 ## Schools bombarded by nation-state attacks, ransomware gangs, and everyone in between
 
 date: 2024-10-13, updated: 2024-10-13, from: The Register (UK I.T. News)
@@ -534,40 +786,4 @@ date: 2024-10-13, updated: 2024-10-13, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2024/10/13/schools_nationstate_attacks_ransomware/>
-
----
-
-## A Serendipitous NASA Family Reunion
-
-date: 2024-10-13, from: NASA breaking news
-
-Lee esta historia en español aquí. Growing up in Puerto Rico, Yomayra Cruz-Diaz didn’t imagine that one day she would work at NASA. Today, she serves as technical project coordinator at NASA’s Langley Research Center in Virginia, supporting its Aeronautics Research Directorate.  Cruz-Diaz&#8217;s position requires her to travel in support of public engagement events and [&#8230;] 
-
-<br> 
-
-<https://www.nasa.gov/aeronautics/a-serendipitous-nasa-family-reunion/>
-
----
-
-## Una reunión familiar de la NASA por casualidad
-
-date: 2024-10-13, from: NASA breaking news
-
-Read this story in English here. Al crecer en Puerto Rico, Yomayra Cruz-Díaz no imaginó que algún día trabajaría en la NASA. En la actualidad, se desempeña como coordinadora de proyectos técnicos en el Centro de Investigación Langley de la NASA en Virginia, apoyando a su Dirección de Investigación Aeronáutica. El puesto de Cruz-Díaz le [&#8230;] 
-
-<br> 
-
-<https://www.nasa.gov/centers-and-facilities/langley/una-reunion-familiar-de-la-nasa/>
-
----
-
-## Can Life Exist on an Icy Moon? NASA’s Europa Clipper Aims to Find Out
-
-date: 2024-10-13, from: NASA breaking news
-
-With a spacecraft launching soon, the mission will try to answer the question of whether there are ingredients suitable for life in the ocean below Europa’s icy crust. Deep down, in an ocean beneath its ice shell, Jupiter’s moon Europa might be temperate and nutrient-rich, an ideal environment for some form of life — what [&#8230;] 
-
-<br> 
-
-<https://www.nasa.gov/missions/europa-clipper/can-life-exist-on-an-icy-moon-nasas-europa-clipper-aims-to-find-out/>
 

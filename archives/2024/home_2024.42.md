@@ -1,11 +1,178 @@
 ---
 title: home
-updated: 2024-10-15 08:49:10
+updated: 2024-10-15 17:51:31
 ---
 
 # home
 
-(date: 2024-10-15 08:49:10)
+(date: 2024-10-15 17:51:31)
+
+---
+
+## Troubleshooting a Failing Light: An Electrician’s Guide
+
+date: 2024-10-15, from: Family Handyman Blog
+
+<p>Diagnose common lighting problems yourself with these tips.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/fix-a-light/">Troubleshooting a Failing Light: An Electrician&#8217;s Guide</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/fix-a-light/>
+
+---
+
+## These Kizik Boots Sold Out in 4 Hours Last Year—They’re Back in 2024, But Not for Long
+
+date: 2024-10-15, from: Family Handyman Blog
+
+<p>Last year, these Kizik boots sold out almost immediately. They’re back in 2024, but only for a limited time (i.e. right now!).</p>
+<p>The post <a href="https://www.familyhandyman.com/article/kizik-boots/">These Kizik Boots Sold Out in 4 Hours Last Year—They&#8217;re Back in 2024, But Not for Long</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/kizik-boots/>
+
+---
+
+## The Top 10 Most Stolen Cars in the U.S. — Is Yours On the List?
+
+date: 2024-10-15, from: Family Handyman Blog
+
+<p>Wondering if you need to step up your automotive security? Find out which vehicles were the top stolen cars of 2023.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/most-stolen-cars/">The Top 10 Most Stolen Cars in the U.S. — Is Yours On the List?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/most-stolen-cars/>
+
+---
+
+## These Stinky Little Pests Are Trying to Get Into Your House Before Winter
+
+date: 2024-10-15, from: Family Handyman Blog
+
+<p>Stink bugs, known for their distinctive shield-shaped bodies and unpleasant odor, have become a common household pest. Understanding their behavior, particularly when and why they enter our homes, cLearn how to properly identify a stink bug and how to prevent them from taking residence in your home this fall.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/stink-bug-prevention/">These Stinky Little Pests Are Trying to Get Into Your House Before Winter</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/stink-bug-prevention/>
+
+---
+
+## How To Tighten a Chainsaw Chain
+
+date: 2024-10-15, from: Family Handyman Blog
+
+<p>Proper chain tension is key to optimal chainsaw cutting and safety. While it may seem intimidating at first, tightening the chain on a chainsaw is actually quite simple once you know the steps. I used to avoid using my chainsaw because I didn't feel confident tightening the chain. But after receiving some helpful advice from a neighbor, it quickly became just another maintenance task I could easily tackle.</p>
+<p><img src="https://www.familyhandyman.com/wp-content/uploads/2024/10/How-to-Tighten-a-Chainsaw-Chain_Graphic.jpg"alt="" /><figcaption>AVIRAL GUPTA/FAMILY HANDYMAN</figcaption><p>In this guide, we'll provide you with a comprehensive, step-by-step process for tightening a chainsaw chain, with expert tips from Bob Cain from Bob's Small Engine Repair and Jason Smith from Westfield Equipment Service.</p>
+<h2>How Tight Should a Chainsaw Chain Be?</h2>
+<p>A chainsaw chain should be tight but not too tight. When properly tightened, the chain should pull away from the guide about 3/16-inch. It should also move freely across the bar without falling off. "As you tighten it, stop and pull the chain. It shouldn't come down very far off the bar," Cain says.</p>
+<h2>Safety Precautions</h2>
+<p>To avoid burns, wait until the chainsaw has cooled before attempting to tighten the chain. Always engage the brake and wear gloves when tightening and check for proper tightness before using the saw.</p>
+<h2>When to Call a Pro</h2>
+<p>Smith recommends taking your chainsaw to a professional "anytime it's not cutting as it should." He says this includes if the saw is cutting sideways, smokes more than usual or produces more saw dust than wood chips. "It may be time to swap the chain, and it's best to bring it to a pro," he adds. If you're unsure of how to tighten a chainsaw chain and do not feel confident in your ability, bring it to a pro for tightening.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-tighten-a-chainsaw-chain/">How To Tighten a Chainsaw Chain</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/how-to-tighten-a-chainsaw-chain/>
+
+---
+
+## Billy Joel’s Long Island Mansion Is For Sale. Wait Until You See the Property Taxes
+
+date: 2024-10-15, from: Family Handyman Blog
+
+<p>Legendary singer-songwriter Billy Joel is selling his Long Island dream home for a cool $49.9 million. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/billy-joel-mansion-for-sale-property-taxes/">Billy Joel&#8217;s Long Island Mansion Is For Sale. Wait Until You See the Property Taxes</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/billy-joel-mansion-for-sale-property-taxes/>
+
+---
+
+## Hispanic Heritage Month spotlight — Brisa Ranch
+
+date: 2024-10-15, from: Calfifornia Dept. Aggriculture blog
+
+As Hispanic Heritage Month (Sept 15-Oct 15) draws to a close, CDFA would like to profile Brisa Ranch of Pescadero (San Mateo County) and its co-owner, Veronica Mazariegos-Anastassiou. Growing up with roots in Guatemala and Venezuela, Veronica&#8217;s journey into agriculture &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28338">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28338>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-10-15, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## Easy Roasted Pumpkin 3-Bean Chili Recipe (Vegetarian and Vegan)
+
+date: 2024-10-15, from: Homestead and Chil
+
+<p>Looking for the perfect fall-inspired, hearty, healthy, delicious freezer-friendly meal? Look no further! This pumpkin chili recipe is loaded with protein, full of antioxidants and vitamin A, and bursting with rich and savory flavors. This easy-to-make meal also happens to be vegan, though you can doll it up with cheese if you prefer. It is easy to customize to your taste buds by increasing or decreasing the amount of chili powder added! Using whole, fresh roasted pumpkins really bring this chili up a notch.</p>
+<p>The post <a href="https://homesteadandchill.com/vegan-vegetarian-pumpkin-chili-recipe/">Easy Roasted Pumpkin 3-Bean Chili Recipe (Vegetarian and Vegan)</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/vegan-vegetarian-pumpkin-chili-recipe/>
+
+---
+
+## This $2M Long Beach Midcentury Is Surrounded by Six and a Half Acres of Green Space
+
+date: 2024-10-15, from: Dwell
+
+Set in the gated enclave of Virginia Vista, the refreshed ’60s home is primed for indoor/outdoor living. 
+
+<br> 
+
+<https://www.dwell.com/article/virginia-vista-midcentury-home-renovation-long-beach-california-real-estate-a4cb44cb>
+
+---
+
+## An Airy, Colorful Home in Singapore Is  Inspired By Caves
+
+date: 2024-10-15, from: Dwell
+
+Super Assembly draws on formations found in caverns for this functional family dwelling. 
+
+<br> 
+
+<https://www.dwell.com/article/an-airy-colorful-home-in-singapore-is-inspired-by-caves-ea178be6>
+
+---
+
+## How to Grow Little Jewel Pachyveria Succulents
+
+date: 2024-10-15, from: The Gardener's Path
+
+<p>Little jewel pachyveria is a charming succulent with gorgeous, faceted leaves. Whether you grow this plant indoors on a sunny windowsill or outdoors in your water-wise xeriscape, you'll need to know how to keep this plant happy and healthy. Learn how to care for little jewel pachyverias in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/grow-little-jewel-pachyveria/">How to Grow Little Jewel Pachyveria Succulents</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/succulents/grow-little-jewel-pachyveria/>
 
 ---
 
@@ -397,19 +564,4 @@ date: 2024-10-13, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/dracaena-plant-care-and-growing-guide-most-detailed/>
-
----
-
-## Nerve Plant Care and Growing Guide (Most Detailed)
-
-date: 2024-10-13, from: Yard Life blog
-
-<p>The nerve plant (Fittonia albivenis), also known as the mosaic plant or painted net leaf, is a popular choice for ... </p>
-<p class="read-more-container"><a title="Nerve Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/nerve-plant-care-and-growing-guide-most-detailed/#more-20663" aria-label="Read more about Nerve Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/nerve-plant-care-and-growing-guide-most-detailed/">Nerve Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/nerve-plant-care-and-growing-guide-most-detailed/>
 

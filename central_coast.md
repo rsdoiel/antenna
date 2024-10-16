@@ -1,239 +1,155 @@
 ---
 title: central coast
-updated: 2024-10-15 08:49:10
+updated: 2024-10-15 17:51:29
 ---
 
 # central coast
 
-(date: 2024-10-15 08:49:10)
+(date: 2024-10-15 17:51:29)
 
 ---
 
-## License Plate Framing
+## Meet the Candidates Running For Isla Vista Recreation and Park District Board
 
 date: 2024-10-15, from: Newshawk, the freshest news in Santa Barbara County
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092924-POD-Michael-Diamant.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="License plate framing." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092924-POD-Michael-Diamant.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092924-POD-Michael-Diamant.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092924-POD-Michael-Diamant.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092924-POD-Michael-Diamant.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092924-POD-Michael-Diamant.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092924-POD-Michael-Diamant.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092924-POD-Michael-Diamant.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092924-POD-Michael-Diamant.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092924-POD-Michael-Diamant.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092924-POD-Michael-Diamant.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092924-POD-Michael-Diamant.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092924-POD-Michael-Diamant.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>The post <a href="https://www.noozhawk.com/license-plate-framing/">License Plate Framing</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+<figure><img width="1024" height="576" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101424-IV-parks-candidates-roundup-1-RC.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101424-IV-parks-candidates-roundup-1-RC.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101424-IV-parks-candidates-roundup-1-RC.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101424-IV-parks-candidates-roundup-1-RC.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101424-IV-parks-candidates-roundup-1-RC.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101424-IV-parks-candidates-roundup-1-RC.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101424-IV-parks-candidates-roundup-1-RC.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101424-IV-parks-candidates-roundup-1-RC.jpg?resize=1568%2C882&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101424-IV-parks-candidates-roundup-1-RC.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101424-IV-parks-candidates-roundup-1-RC.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>In Isla Vista, six candidates are facing off for three seats on the Isla Vista Recreation and Park District Board of Directors.&#160; The district focuses on maintaining parks and open [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/meet-the-candidates-running-for-isla-vista-recreation-and-park-district-board/">Meet the Candidates Running For Isla Vista Recreation and Park District Board</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  
 
 <br> 
 
-<https://www.noozhawk.com/license-plate-framing/>
+<https://www.noozhawk.com/meet-the-candidates-running-for-isla-vista-recreation-and-park-district-board/>
 
 ---
 
-## San Marcos Flag Football Advances to Channel League Semifinals with 14-6 Win Over Rio Mesa
+## Chumash Tribe Celebrates New Marine Sanctuary at Indigenous People’s Day Event
 
 date: 2024-10-15, from: Newshawk, the freshest news in Santa Barbara County
 
-<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-flag-football-1014.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-flag-football-1014.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-flag-football-1014.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-flag-football-1014.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-flag-football-1014.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-flag-football-1014.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-flag-football-1014.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-flag-football-1014.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-flag-football-1014.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-flag-football-1014.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>San Marcos opened the inaugural Channel League Flag Football Tournament with a 14-6 victory over Rio Mesa on Monday at Warkentin Stadium to advance to the semifinals. With the win, [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/san-marcos-flag-football-advances-to-channel-league-semifinals-with-14-6-win-over-rio-mesa/">San Marcos Flag Football Advances to Channel League Semifinals with 14-6 Win Over Rio Mesa</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+<figure><img width="1024" height="576" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101424-SLO_Indigenouspeoplesday452-5.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Violet Sage Walker, the chairwoman of the Northern Chumash Tribal Council, spoke about the years-long effort to create the Chumash Heritage National Marine Sanctuary on Oct 14, 2024. (David Middlecamp / San Luis Obispo Tribune photo)" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101424-SLO_Indigenouspeoplesday452-5.jpg?w=1140&amp;ssl=1 1140w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101424-SLO_Indigenouspeoplesday452-5.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101424-SLO_Indigenouspeoplesday452-5.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101424-SLO_Indigenouspeoplesday452-5.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101424-SLO_Indigenouspeoplesday452-5.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101424-SLO_Indigenouspeoplesday452-5.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A screen of fog lifted to reveal a bright blue stretch of the Pacific Ocean on Monday — unveiling what will soon be the Chumash Heritage National Marine Sanctuary. The [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/chumash-tribe-celebrates-new-marine-sanctuary-at-indigenous-peoples-day-event/">Chumash Tribe Celebrates New Marine Sanctuary at Indigenous People’s Day Event</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  
 
 <br> 
 
-<https://www.noozhawk.com/san-marcos-flag-football-advances-to-channel-league-semifinals-with-14-6-win-over-rio-mesa/>
+<https://www.noozhawk.com/chumash-tribe-celebrates-new-marine-sanctuary-at-indigenous-peoples-day-event/>
 
 ---
 
-## Employers, Educators Talk Strategy for Filling Manufacturing Jobs
+## Ron Fink: 2024 Election – Be Cautious, Read the Voter Guide, Then Vote
 
 date: 2024-10-15, from: Newshawk, the freshest news in Santa Barbara County
 
-<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-EconAlliance-Manufacturing-Forum1-js.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Eric Melsheimer from Melfred Borzall talks during the EconAlliance forum on the North County&#039;s manufacturing industry Wednesday in Santa Maria." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-EconAlliance-Manufacturing-Forum1-js.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-EconAlliance-Manufacturing-Forum1-js.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-EconAlliance-Manufacturing-Forum1-js.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-EconAlliance-Manufacturing-Forum1-js.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-EconAlliance-Manufacturing-Forum1-js.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-EconAlliance-Manufacturing-Forum1-js.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-EconAlliance-Manufacturing-Forum1-js.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-EconAlliance-Manufacturing-Forum1-js.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100924-EconAlliance-Manufacturing-Forum1-js.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>Students fresh out of high school often don’t realize the career opportunities and levels of salary existing in the North County manufacturing industry, several speakers said during a recent forum.&#160; [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/employers-educators-talk-strategy-for-filling-manufacturing-jobs/">Employers, Educators Talk Strategy for Filling Manufacturing Jobs</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+<p>Election Day is less than three weeks away. However, mail in ballots have already been delivered to your mailbox. There are some things you may want to consider before you [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ron-fink-2024-election-be-cautious-read-the-voter-guide-then-vote/">Ron Fink: 2024 Election &#8211; Be Cautious, Read the Voter Guide, Then Vote</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  
 
 <br> 
 
-<https://www.noozhawk.com/employers-educators-talk-strategy-for-filling-manufacturing-jobs/>
+<https://www.noozhawk.com/ron-fink-2024-election-be-cautious-read-the-voter-guide-then-vote/>
 
 ---
 
-## Channel League Flag Football Tournament: Dos Pueblos Advances, Santa Barbara Falls to Oxnard
+## Santa Barbara’s Ford Harman Finds Success on National Beach Volleyball Stage
 
 date: 2024-10-15, from: Newshawk, the freshest news in Santa Barbara County
 
-<p>Dos Pueblos girls flag football cruised to a 49-0 win over Buena in the opening round of the Channel League Tournament on Monday at Scott O’Leary Stadium. The Chargers’ win [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/channel-league-flag-football-tournament-dos-pueblos-advances-santa-barbara-falls-to-oxnard/">Channel League Flag Football Tournament: Dos Pueblos Advances, Santa Barbara Falls to Oxnard</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/ford-harman-1015.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/ford-harman-1015.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/ford-harman-1015.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/ford-harman-1015.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/ford-harman-1015.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/ford-harman-1015.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/ford-harman-1015.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/ford-harman-1015.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/ford-harman-1015.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/ford-harman-1015.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Santa Barbara High alum and Long Beach State freshman Ford Harman has made a name for himself as a professional beach volleyball player on the national stage. Harman, 19, competed [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbaras-ford-harman-finds-success-on-national-beach-volleyball-stage/">Santa Barbara&#8217;s Ford Harman Finds Success on National Beach Volleyball Stage</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  
 
 <br> 
 
-<https://www.noozhawk.com/channel-league-flag-football-tournament-dos-pueblos-advances-santa-barbara-falls-to-oxnard/>
+<https://www.noozhawk.com/santa-barbaras-ford-harman-finds-success-on-national-beach-volleyball-stage/>
 
 ---
 
-## Santa Ynez Foundation Celebrates ‘Selfless’ Champions of the Valley
+## 5692 Berkeley Road, SANTA BARBARA, CA 93117
 
 date: 2024-10-15, from: Newshawk, the freshest news in Santa Barbara County
 
-<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101324-SYV-Champions1a-js.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Jan Crosby holds up the special award presented posthumously on Sunday during the Champions of the Valley event by the Santa Ynez Valley Foundation to her late husband, David Crosby." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101324-SYV-Champions1a-js.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101324-SYV-Champions1a-js.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101324-SYV-Champions1a-js.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101324-SYV-Champions1a-js.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101324-SYV-Champions1a-js.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101324-SYV-Champions1a-js.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101324-SYV-Champions1a-js.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101324-SYV-Champions1a-js.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101324-SYV-Champions1a-js.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>The Santa Ynez Valley celebrated 11 community champions whose volunteer efforts have spanned a vast variety of groups, including spearheading food distribution programs, leading the reopening of a library, advocating [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/santa-ynez-foundation-honors-selfless-champions-of-the-valley/">Santa Ynez Foundation Celebrates &#8216;Selfless&#8217; Champions of the Valley</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/5692-Berkeley-Road.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="5692 Berkeley Road, SANTA BARBARA, CA 93117" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/5692-Berkeley-Road.jpg?w=2400&amp;ssl=1 2400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/5692-Berkeley-Road.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/5692-Berkeley-Road.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/5692-Berkeley-Road.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/5692-Berkeley-Road.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/5692-Berkeley-Road.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/5692-Berkeley-Road.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/5692-Berkeley-Road.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/5692-Berkeley-Road.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/5692-Berkeley-Road.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/5692-Berkeley-Road.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/5692-Berkeley-Road.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Offered At $2,195,000</p>
+<p>The post <a href="https://www.noozhawk.com/5692-berkeley-road-santa-barbara-ca-93117/">5692 Berkeley Road, SANTA BARBARA, CA 93117</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  
 
 <br> 
 
-<https://www.noozhawk.com/santa-ynez-foundation-honors-selfless-champions-of-the-valley/>
+<https://www.noozhawk.com/5692-berkeley-road-santa-barbara-ca-93117/>
 
 ---
 
-## Prep Girls Volleyball Roundup: Dos Pueblos, Santa Barbara End Regular Season with Victories
+## 801 W Pedregosa Street, SANTA BARBARA, CA 93101
 
 date: 2024-10-15, from: Newshawk, the freshest news in Santa Barbara County
 
-<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/dp-volley-1014.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/dp-volley-1014.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/dp-volley-1014.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/dp-volley-1014.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/dp-volley-1014.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/dp-volley-1014.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/dp-volley-1014.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/dp-volley-1014.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/dp-volley-1014.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/dp-volley-1014.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>Dos Pueblos girls volleyball celebrated Senior Night with a three-set sweep of Rio Mesa to round out the regular season on Monday at Sovine Gym, 25-18, 25-18, 25-12. “We had [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/prep-girls-volleyball-roundup-dos-pueblos-santa-barbara-end-regular-season-with-victories/">Prep Girls Volleyball Roundup: Dos Pueblos, Santa Barbara End Regular Season with Victories</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+<figure><img width="1024" height="690" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/801-W.-Pedregosa.jpg?fit=1024%2C690&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="801 W Pedregosa Street, SANTA BARBARA, CA 93101" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/801-W.-Pedregosa.jpg?w=2376&amp;ssl=1 2376w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/801-W.-Pedregosa.jpg?resize=300%2C202&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/801-W.-Pedregosa.jpg?resize=1024%2C690&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/801-W.-Pedregosa.jpg?resize=768%2C517&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/801-W.-Pedregosa.jpg?resize=1536%2C1034&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/801-W.-Pedregosa.jpg?resize=2048%2C1379&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/801-W.-Pedregosa.jpg?resize=1200%2C808&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/801-W.-Pedregosa.jpg?resize=1568%2C1056&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/801-W.-Pedregosa.jpg?resize=2000%2C1347&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/801-W.-Pedregosa.jpg?resize=400%2C269&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/801-W.-Pedregosa.jpg?fit=1024%2C690&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Offered At $1,550,000</p>
+<p>The post <a href="https://www.noozhawk.com/801-w-pedregosa-street-santa-barbara-ca-93101/">801 W Pedregosa Street, SANTA BARBARA, CA 93101</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  
 
 <br> 
 
-<https://www.noozhawk.com/prep-girls-volleyball-roundup-dos-pueblos-santa-barbara-end-regular-season-with-victories/>
+<https://www.noozhawk.com/801-w-pedregosa-street-santa-barbara-ca-93101/>
 
 ---
 
-## Santa Barbara Talks: Tony Becerra Ready to Fight for City Council Seat
+## Teaching Teens to Tackle Time: Strategies for a Busy School Year
 
-date: 2024-10-14, from: Newshawk, the freshest news in Santa Barbara County
+date: 2024-10-15, from: Newshawk, the freshest news in Santa Barbara County
 
-<p>Tony Becerra is a fighter. He has a black belt in karate and won multiple national combat championships. He hangs with former UFC champion Chuck Liddell and has trained generations [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/santa-barbara-talks-tony-becerra-ready-to-fight-for-city-council-seat/">Santa Barbara Talks: Tony Becerra Ready to Fight for City Council Seat</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/BS-time-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Teenage girl looking at her watch and talking on the phone." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/BS-time-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/BS-time-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/BS-time-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/BS-time-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/BS-time-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/BS-time-scaled.jpeg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/BS-time-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/BS-time-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/BS-time-scaled.jpeg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/BS-time-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/BS-time-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/BS-time-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Approaches to help teens develop time management skills during a busy school year, emphasizing prioritization, the use of tools, creating systems, and allowing room for learning from failure</p>
+<p>The post <a href="https://www.noozhawk.com/teaching-teens-to-tackle-time-strategies-for-a-busy-school-year/">Teaching Teens to Tackle Time: Strategies for a Busy School Year</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  
 
 <br> 
 
-<https://www.noozhawk.com/santa-barbara-talks-tony-becerra-ready-to-fight-for-city-council-seat/>
+<https://www.noozhawk.com/teaching-teens-to-tackle-time-strategies-for-a-busy-school-year/>
 
 ---
 
-## Toddler Dies After Being Hit by Vehicle in Santa Maria
+## Peter Rupert: Tourist Tax Hike a Hidden Cost to Local Economy, Jobs
 
-date: 2024-10-14, from: Newshawk, the freshest news in Santa Barbara County
+date: 2024-10-15, from: Newshawk, the freshest news in Santa Barbara County
 
-<p>A 1-year-old child was struck and killed by a vehicle on Sunday afternoon in Santa Maria.&#160; Shortly after 1 p.m., Santa Maria police officers responded to the 600 block of [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/toddler-dies-after-being-hit-by-vehicle-in-santa-maria/">Toddler Dies After Being Hit by Vehicle in Santa Maria</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+<p>On the Nov. 5 ballot, Santa Barbara County voters will be asked to decide whether to increase the transient occupancy tax to 14% from 12%. The tax, or TOT, is [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/peter-rupert-tourist-tax-hike-a-hidden-cost-to-local-economy-jobs/">Peter Rupert: Tourist Tax Hike a Hidden Cost to Local Economy, Jobs</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  
 
 <br> 
 
-<https://www.noozhawk.com/toddler-dies-after-being-hit-by-vehicle-in-santa-maria/>
+<https://www.noozhawk.com/peter-rupert-tourist-tax-hike-a-hidden-cost-to-local-economy-jobs/>
 
 ---
 
-## Authorities Release Name of Pedestrian Struck, Killed by Train in Summerland
+## Noon Concerts at Trinity Puts Music by Mozart in the Spotlight, Oct. 16
 
-date: 2024-10-14, from: Newshawk, the freshest news in Santa Barbara County
+date: 2024-10-15, from: Newshawk, the freshest news in Santa Barbara County
 
-<p>Authorities on Monday released the name of the pedestrian who was struck by a train and killed in Summerland last week. The victim was Charles Thomas Hunter, 63, of Ventura, [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/authorities-release-name-of-pedestrian-struck-killed-by-train-in-summerland/">Authorities Release Name of Pedestrian Struck, Killed by Train in Summerland</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+<p>The next Noon Concerts at Trinity program will feature Mozart&#8217;s &#8220;Quintet for Piano and Winds,&#8221; 12:15-12:45 p.m. Wednesday, Oct. 16 at Trinity Episcopal Church, 1500 State St., Santa Barbara. Performing [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/noon-concerts-at-trinity-puts-mozart-pieces-in-spotlight/">Noon Concerts at Trinity Puts Music by Mozart in the Spotlight, Oct. 16</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  
 
 <br> 
 
-<https://www.noozhawk.com/authorities-release-name-of-pedestrian-struck-killed-by-train-in-summerland/>
+<https://www.noozhawk.com/noon-concerts-at-trinity-puts-mozart-pieces-in-spotlight/>
 
 ---
 
-## SpaceX Plans Early Tuesday Rocket Launch at Vandenberg SFB
+## Health & Safety Vending Machine Now Available 24/7 in Isla Vista
 
-date: 2024-10-14, from: Newshawk, the freshest news in Santa Barbara County
+date: 2024-10-15, from: Newshawk, the freshest news in Santa Barbara County
 
-<p>Falcon 9 launches at Vandenberg Space Force Base will resume with a Starlink mission aiming for Tuesday morning. Liftoff of the two-stage rocket built by SpaceX will aim for 1:07 [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/spacex-plans-early-tuesday-rocket-launch-at-vandenberg-sfb/">SpaceX Plans Early Tuesday Rocket Launch at Vandenberg SFB</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+<p>The Isla Vista Community Services District (IVCSD) has partnered with Aegis and Pacific Pride Foundation to install the Isla Vista Health &#38; Safety Vending Machine, providing 24/7 access to essential [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/health-safety-vending-machine-now-available-24-7-in-isla-vista/">Health &amp; Safety Vending Machine Now Available 24/7 in Isla Vista</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  
 
 <br> 
 
-<https://www.noozhawk.com/spacex-plans-early-tuesday-rocket-launch-at-vandenberg-sfb/>
-
----
-
-## SBART Luncheon: Girls Volleyball Concludes Regular Season, Flag Football Enters League Tournament
-
-date: 2024-10-14, from: Newshawk, the freshest news in Santa Barbara County
-
-<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sbart-luncheon-1014.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sbart-luncheon-1014.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sbart-luncheon-1014.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sbart-luncheon-1014.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sbart-luncheon-1014.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sbart-luncheon-1014.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sbart-luncheon-1014.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sbart-luncheon-1014.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sbart-luncheon-1014.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sbart-luncheon-1014.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>With many fall sports nearing the beginning of postseason play, local high school coaches provided team updates at Monday’s Santa Barbara Athletic Round Table Press Luncheon at Harry’s Plaza Cafe. [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/sbart-luncheon-girls-volleyball-concludes-regular-season-flag-football-enters-league-tournament/">SBART Luncheon: Girls Volleyball Concludes Regular Season, Flag Football Enters League Tournament</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<br> 
-
-<https://www.noozhawk.com/sbart-luncheon-girls-volleyball-concludes-regular-season-flag-football-enters-league-tournament/>
-
----
-
-## Athletes of the Week 10/14
-
-date: 2024-10-14, from: Newshawk, the freshest news in Santa Barbara County
-
-<figure><img width="702" height="660" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Screenshot-2024-10-14-at-1.26.53-PM.png?fit=702%2C660&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Screenshot-2024-10-14-at-1.26.53-PM.png?w=702&amp;ssl=1 702w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Screenshot-2024-10-14-at-1.26.53-PM.png?resize=300%2C282&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Screenshot-2024-10-14-at-1.26.53-PM.png?resize=400%2C376&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Screenshot-2024-10-14-at-1.26.53-PM.png?fit=702%2C660&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>Click here for the full story on this week&#8217;s Athletes of the Week.</p>
-<p>The post <a href="https://www.noozhawk.com/athletes-of-the-week-10-14/">Athletes of the Week 10/14</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<br> 
-
-<https://www.noozhawk.com/athletes-of-the-week-10-14/>
-
----
-
-## Bishop Diego’s Nicole Schuetz, San Marcos’ Roman Gislimberti Named Athletes of the Week
-
-date: 2024-10-14, from: Newshawk, the freshest news in Santa Barbara County
-
-<p>Bishop Diego volleyball’s Nicole Schuetz and San Marcos football’s Roman Gislimberti excelled on the court and the field, respectively, last week to earn the Santa Barbara Athletic Round Table Athlete [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/bishop-diegos-nicole-schuetz-san-marcos-roman-gislimberti-named-athletes-of-the-week/">Bishop Diego&#8217;s Nicole Schuetz, San Marcos&#8217; Roman Gislimberti Named Athletes of the Week</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<br> 
-
-<https://www.noozhawk.com/bishop-diegos-nicole-schuetz-san-marcos-roman-gislimberti-named-athletes-of-the-week/>
-
----
-
-## State Route 193 to Reopen Oct. 23 Following Storm Damage Repairs
-
-date: 2024-10-14, from: Newshawk, the freshest news in Santa Barbara County
-
-<p>A full closure on a small section of State Route 192 between Orizaba Road and Parma Park for ongoing storm damage repair work will reopen on Wednesday, Oct. 23. Following [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/state-route-193-to-reopen-oct-23-following-storm-damage-repairs/">State Route 193 to Reopen Oct. 23 Following Storm Damage Repairs</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<br> 
-
-<https://www.noozhawk.com/state-route-193-to-reopen-oct-23-following-storm-damage-repairs/>
-
----
-
-## Vikings of Solvang Gets Historic $1.67 Million Donation
-
-date: 2024-10-14, from: Newshawk, the freshest news in Santa Barbara County
-
-<p>Vikings of Solvang has received a $1.67 million gift, the largest single donation in its 50-year history, from the estate of a long-time Santa Ynez Valley resident who passed away [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/vikings-of-solvang-gets-historic-1-67-million-donation/">Vikings of Solvang Gets Historic $1.67 Million Donation</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<br> 
-
-<https://www.noozhawk.com/vikings-of-solvang-gets-historic-1-67-million-donation/>
-
----
-
-## Mary Hunt: Your Slow Cooker Is a Great Holiday Helper
-
-date: 2024-10-14, from: Newshawk, the freshest news in Santa Barbara County
-
-<p>Got a hunk of meat that feels like it could double as a doorstop? The slow cooker says, “Challenge accepted!” Toss in that tough cut, add a splash of broth [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/mary-hunt-your-slow-cooker-is-a-great-holiday-helper/">Mary Hunt: Your Slow Cooker Is a Great Holiday Helper</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<br> 
-
-<https://www.noozhawk.com/mary-hunt-your-slow-cooker-is-a-great-holiday-helper/>
+<https://www.noozhawk.com/health-safety-vending-machine-now-available-24-7-in-isla-vista/>
 

@@ -1,11 +1,248 @@
 ---
 title: columns
-updated: 2024-10-15 08:49:10
+updated: 2024-10-15 17:51:30
 ---
 
 # columns
 
-(date: 2024-10-15 08:49:10)
+(date: 2024-10-15 17:51:30)
+
+---
+
+## Wednesday 16 October, 2024
+
+date: 2024-10-15, from: John Naughton's online diary
+
+A reformed character I was a guest at lunch in the Reform Club a couple of weeks ago, and who should I see on emerging from the Coffee Room (as the dining room is perversely called) but old Tom Macaulay &#8230; <a href="https://memex.naughtons.org/wednesday-16-october-2024/39966/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-16-october-2024/39966/>
+
+---
+
+##  Apollo 16 Lunar Rover Dash Cam 
+
+date: 2024-10-15, updated: 2024-10-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/apollo-16-lunar-rover-dash-cam-1>
+
+---
+
+##  This is Cabel Sasser&#8217;s XOXO talk. Best not to know anything going... 
+
+date: 2024-10-15, updated: 2024-10-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045449-this-is-cabel-sassers-xox>
+
+---
+
+##  POSSE (Post (on) Own Site Syndicate Elsewhere) has been my strategy for... 
+
+date: 2024-10-15, updated: 2024-10-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045453-posse-post-on-own-site>
+
+---
+
+## Identity as Root
+
+date: 2024-10-15, from: Doc Searls (at Harvard), New Old Blog
+
+This is from an email thread on the topic of digital identity, which is the twice-yearly subject of the Internet Identity Workshop, which is the most leveraged conference I know. It begins with a distinction that Devon Loffreto (who is in the thread) came up with many moons ago: Self-sovereign identity is who you are, [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2024/10/15/identity-as-root/>
+
+---
+
+##  Bookshops are cool again! Booksellers have &#8220;noticed a sharp rise in young... 
+
+date: 2024-10-15, updated: 2024-10-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045452-bookshops-are-cool-again->
+
+---
+
+##  Season Two of Silo 
+
+date: 2024-10-15, updated: 2024-10-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/season-two-of-silo>
+
+---
+
+##  From Robin Wall Kimmerer (author of Braiding Sweetgrass), a new book called... 
+
+date: 2024-10-15, updated: 2024-10-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045450-from-robin-wall-kimmerer->
+
+---
+
+## October 14, 2024
+
+date: 2024-10-15, from: Heather Cox Richardson blog
+
+ 
+
+<audio controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/150273123/856c5badbbf08cf33e59a4024ab6554e.mp3"></source>
+	<a href="https://api.substack.com/feed/podcast/150273123/856c5badbbf08cf33e59a4024ab6554e.mp3" target="_blank">audio/mpeg</a>
+</audio><br> 
+
+<https://heathercoxrichardson.substack.com/p/october-14-2024-1ac>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-15, from: Dave Winer's Scripting News)
+
+Everybody's maxing out on Wordle today. I stopped with one step left. Stumped. I may lose my streak today. A lot of people are. 
+
+<br> 
+
+<http://scripting.com/2024/10/15.html#a181002>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-10-15, from: Miguel de Icaza Mastondon feed)
+
+<p>Sublime:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113312739310774763>
+
+---
+
+## History Extra for October 14, 2024 
+
+date: 2024-10-15, from: Heather Cox Richardson blog
+
+On October 14, 1890, Dwight D. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/history-extra-for-october-14-2024>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-10-15, from: Miguel de Icaza Mastondon feed)
+
+<p>i am not a sophisticated ChatGPT user, like the rest of you:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113312650001335163>
+
+---
+
+##  There&#8217;s no guarantee that the Earth&#8217;s natural carbon sinks (ocean, plants, soil)... 
+
+date: 2024-10-15, updated: 2024-10-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045448-theres-no-guarantee-that->
+
+---
+
+## What's up with WordPress?
+
+date: 2024-10-15, from: Dave Winer's Scripting News
+
+<p>A long time ago I ran a free service <a href="http://oldweblogscomblog.scripting.com/faq">called</a> <a href="https://web.archive.org/web/20240000000000*/http://weblogs.com">weblogs.com</a>. It was the <a href="http://www.weblogs.com/">early days</a> of <a href="https://www.google.com/search?q=site%3Ascripting.com+weblogs.com">blogs</a>. <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a> didn't exist yet, so there was no way to find out which blogs had new stuff other than going through your blogroll and clicking links. </p>
+<p>So I built a simple server, running in <a href="http://frontier.userland.com">Frontier</a>, that handled pings. When you updated your blog, you'd send a message to weblogs.com saying your blog updated. It would then read the HTML of the blog and verify that it changed, and it would be added to a list of blogs that updated, in reverse chronologic order. It also published an XML version of the update list called <a href="http://oldweblogscomblog.scripting.com/changesXml">changes.xml</a>, so if you wanted to run a search engine off the list, you could do that too. </p>
+<p>There were several ways to send a ping. You could go to a web page and enter the URL of your blog. Or you could save the URL as a bookmark and click the bookmark when you updated. Or if you used blogging software like our Manila or Radio UserLand, or later EditThisPage.com or weblogs.com (which eventually hosted blogs itself), it could ping on your behalf, automatically. </p>
+<p>Aside: Here's a <a href="http://oldweblogscomblog.scripting.com/historyOfWeblogs">snapshot</a> of the weblogs.com site, preserved. </p>
+<p>A number of search sites appeared. And we were happy, until another <a href="https://en.wikipedia.org/wiki/Technorati">developer</a>, funded by venture capitalists, who expected a return on their investment, built on our open and free <a href="http://scripting.com/publicfolder/misc/changes.xml">changes.xml</a> list, started asking for and receiving pings on their own, and (key point) they didn't make their change list public. This struck me as highly un-weblike and unfair, but they could do it and we had to live with it. </p>
+<p>Based on what Matt has been saying it sounds to me like it's something like our experience. Except weblogs.com was a short term thing, and not a business, and it didn't last twenty years, and it didn't have a payroll to support. </p>
+<p>But it still felt wrong that they weren't giving back as they received. If it had persisted like WordPress has, it would have eventually been a seriously diseconomic and unsustainable problem. And I can imagine I might write about it publicly as Matt has  and maybe even get a famous lawyer like <a href="https://en.wikipedia.org/wiki/Neal_Katyal">Neal Katyal</a> to advise me. And here we are. </p>
+<p>Have we heard anything from the other side, or anyone who is familiar with what their position might be. Do they not feel obligated to support the continued development of WordPress or maybe there's another issue we haven't heard about. </p>
+<p>I can't imagine that Matt would make such a big deal out of this if it weren't actually a big deal. He probably knew in advance how disruptive this would be. And I imagine the others knew it would be too and counted on him not wanting to make a fuss. </p>
+<p>I have gotten embroiled in these kinds of things in the past, and I don't like it. I love to make software and make users happy and then make more software, round and round. Anything that involves lawyers is not me doing what I was made to do. </p>
+<p>And I do see a silver lining. As with twitter-like systems, I now see the possibilty to help WordPress serve writers better in the future. Before this, people didn't think change was possible in the WordPress world, like they didn't see the possibility of change with Twitter. But now Twitter has quite a bit of viable competition. I know that WordPress could be better tuned for writers, and the product has a very nice API that would make it possible for lots of writing tools to flourish. It is a strong platform that's debugged, scaled, documented and worked on for a long time, and they don't tend to break users. And where commercial vendors like Facebook and Twitter often have excellent technology, ultimately they are run by execs and bankers who don't believe in being open, where this is something that has been deeply ingrained in the WordPress culture from the beginning and would be hard to change and that's a good thing for users and developers. </p>
+<p>Here's the exciting part -- between WordPress and Twitter lies a product that would bring the web back to life. Imagine a twitter-like system with the writers features of WordPress. Amazingly, we are on the cusp of that being a reality.</p>
+<p>There's lots of opportunity to better serve writers here, and that's what I love to do, and honestly I think Ghost and Substack have left themselves open to a writing environment built on WordPress that doesn't try to lock users in. And at the same time, I think we can use this platform to help all the twitter-like services to support all kinds of writing, not just severely limited tweets typed into <a href="http://scripting.com/2024/01/14/031201.html">tiny little text boxes</a>. Somewhere along the line they got the wrong idea that taking features out of the web was a good thing. I want to bring these features back so we can get going again with the web as a writer's platform. </p>
+<p>Anyway, I don't need to think anyone is right or wrong here, and I don't think anyone else should either. I think this platform is very nicely open and we can do lots of interesting new stuff here. I hope to open a new thread here, focused on writers and the web. It's been too long. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2024/10/15/170749.html?title=whatsUpWithWordpress>
+
+---
+
+##  Charles Schulz on Being a Good Citizen 
+
+date: 2024-10-15, updated: 2024-10-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/charles-schulz-on-being-a-good-citizen>
+
+---
+
+## Apple Announces New iPad Mini, With A17 Pro and Pencil Pro Support
+
+date: 2024-10-15, updated: 2024-10-15, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.apple.com/newsroom/2024/10/apple-introduces-powerful-new-ipad-mini-built-for-apple-intelligence/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-10-15, from: Miguel de Icaza Mastondon feed)
+
+<p>Jet lag this past weekend in Berlin hit me hard.   Only managed 5 hours of sleep between Friday and Monday.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113312366801838308>
+
+---
+
+##  The way mainstream media covers Trump and the GOP is fatally flawed... 
+
+date: 2024-10-15, updated: 2024-10-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045446-the-way-mainstream-media->
 
 ---
 

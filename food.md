@@ -1,11 +1,259 @@
 ---
 title: food
-updated: 2024-10-15 08:49:11
+updated: 2024-10-15 17:51:32
 ---
 
 # food
 
-(date: 2024-10-15 08:49:11)
+(date: 2024-10-15 17:51:32)
+
+---
+
+## Two-Ingredient Ice Cream Pancakes
+
+date: 2024-10-15, from: Taste of Home
+
+<p>This viral 2-ingredient ice cream pancakes recipe from TikTok uses just two ingredients to create incredibly tender, fluffy pancakes.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/two-ingredient-ice-cream-pancakes/">Two-Ingredient Ice Cream Pancakes</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/two-ingredient-ice-cream-pancakes/>
+
+---
+
+## Potato Puree
+
+date: 2024-10-15, from: Taste of Home
+
+Easy to make and impressively tasty for a five-ingredient dish, this potato puree is a recipe you'll return to again and again. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/potato-puree/>
+
+---
+
+## Breyers’ $8.85 Million Vanilla Ice Cream Settlement: Are You Eligible for a Payout?
+
+date: 2024-10-15, from: Taste of Home
+
+<p>Here's the scoop on how to request a payout from Breyers.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/breyers-vanilla-ice-cream-lawsuit/">Breyers’ $8.85 Million Vanilla Ice Cream Settlement: Are You Eligible for a Payout?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/breyers-vanilla-ice-cream-lawsuit/>
+
+---
+
+## Chocolate Zucchini Muffins
+
+date: 2024-10-15, from: Taste of Home
+
+Breakfast? Snack? Dessert? All of the above! Chocolate zucchini muffins are tender, chocolaty and decadent—and no one needs to know the secret ingredient. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/chocolate-zucchini-muffins/>
+
+---
+
+## Gingerbread Blondies
+
+date: 2024-10-15, from: Taste of Home
+
+Add extra sophistication to the classic blondie with cozy baking spices. Blondies are quicker than cookies, but equally delicious. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/gingerbread-blondies/>
+
+---
+
+## Taco Bell Is Testing This Hotly Anticipated Menu Item Right Now
+
+date: 2024-10-15, from: Taste of Home
+
+<p>Taco Bell is testing a street-sized chalupa made with bold, spicy al pastor chicken.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/taco-bell-al-pastor-street-chalupas/">Taco Bell Is Testing This Hotly Anticipated Menu Item Right Now</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/taco-bell-al-pastor-street-chalupas/>
+
+---
+
+## Masa Cornbread
+
+date: 2024-10-15, from: Taste of Home
+
+This masa cornbread has a fluffy crumb and subtly sweet flavor thanks to the buttermilk and sugar folded into the batter. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/masa-cornbread/>
+
+---
+
+## Easy Roasted Green Beans
+
+date: 2024-10-15, from: Taste of Home
+
+These roasted green beans prove they have a lot to offer beyond the usual holiday casserole. Roasting them concentrates and elevates their flavor, creating a quick side dish that complements almost any meal. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/easy-roasted-green-beans/>
+
+---
+
+## Air-Fryer Hush Puppies
+
+date: 2024-10-15, from: Taste of Home
+
+Check out how to make air-fryer hush puppies, a pleasingly crunchy and light version of a classic Southern dish. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/air-fryer-hush-puppies/>
+
+---
+
+## Birthday Cheesecake
+
+date: 2024-10-15, from: Taste of Home
+
+Birthday cheesecake, with billowy whipped cream and a confetti of sprinkles, is as delicious as a layered birthday cake, but easier to make. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/birthday-cheesecake/>
+
+---
+
+## Chicken Poblano Soup
+
+date: 2024-10-15, from: Taste of Home
+
+Smoky poblano peppers and tender chicken make this hearty soup a must-try. Top it with sour cream, avocado or tortilla chips for a special touch. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/chicken-poblano-soup/>
+
+---
+
+## Smoked Baked Beans
+
+date: 2024-10-15, from: Taste of Home
+
+Your cookout just got amazing thanks to these flavor-packed smoked baked beans. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/smoked-baked-beans/>
+
+---
+
+## Vegan Pasta Salad
+
+date: 2024-10-15, from: Taste of Home
+
+Whip up this nutritious vegan pasta salad when you need an easy, cheese-less dish to bring to a summer cookout or to eat for lunch every day of the week. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/vegan-pasta-salad/>
+
+---
+
+## Stewed Kidney Beans
+
+date: 2024-10-15, from: Taste of Home
+
+These savory kidney beans come together in just 30 minutes with simple pantry ingredients. They're flavorful, hearty, and even better the next day—a delicious and easy weeknight dinner. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/stewed-kidney-beans/>
+
+---
+
+## British Baked Beans
+
+date: 2024-10-15, from: Taste of Home
+
+<span style="font-weight: 400;">Heinz clearly know a thing or two about British baked beans, but this homemade recipe comes close. In fact, you can customize the beans into something even more exciting. </span> 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/british-baked-beans/>
+
+---
+
+## Salsa Morita
+
+date: 2024-10-15, from: Taste of Home
+
+Experience the authentic flavors of Mexico with homemade salsa morita. Learn the step-by-step process of how to make this deliciously smoky condiment in less than 30 minutes. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/salsa-morita/>
+
+---
+
+## Sausage Mac and Cheese
+
+date: 2024-10-15, from: Taste of Home
+
+The beloved comfort food gets an even more comforting twist in this sausage mac and cheese, protein-dense, savory and ready for a cozy evening. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/sausage-mac-and-cheese/>
+
+---
+
+## Ninety Plus and Arizona’s Coffee Support Sign US Distribution Deal
+
+date: 2024-10-15, from: Daily Coffee News
+
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Coffee-Support-620x413.png" class="attachment-large size-large wp-post-image" alt="Coffee Support" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Coffee-Support-620x413.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Coffee-Support-300x200.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Coffee-Support-150x100.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Coffee-Support-768x512.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Coffee-Support.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>High-end coffee production company Ninety Plus announced an exclusive U.S. distribution agreement with Arizona-based business-to-business specialist Coffee Support. Coffee Support plans to release several green coffee offerings from Ninety Plus... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/10/15/ninety-plus-and-arizonas-coffee-support-sign-us-distribution-deal/>
+
+---
+
+## Raspberry Cheesecake
+
+date: 2024-10-15, from: Taste of Home
+
+Indulge in the perfect combination of sweet and tart with this raspberry cheesecake. It's hard not to go back for seconds!
+
+&nbsp; 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/raspberry-cheesecake-2/>
+
+---
+
+## Chickpea Pasta Salad
+
+date: 2024-10-15, from: Taste of Home
+
+This chickpea pasta salad turns a blend of fresh vegetables, herbs, Mediterranean spices, feta and a zesty vinaigrette into a savory, satisfying vegetarian dish that serves equally well as lunch or dinner. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/chickpea-pasta-salad/>
 
 ---
 
@@ -13,7 +261,7 @@ updated: 2024-10-15 08:49:11
 
 date: 2024-10-15, from: Daily Coffee News
 
-<div><img width="620" height="450" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-620x450.png" class="attachment-large size-large wp-post-image" alt="Fair-Trade-certified" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-620x450.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-300x218.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-150x109.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-768x557.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Sustainability certification group Fair Trade USA recently named private label industry veteran Clay Dockery as head of coffee. The appointment comes amidst a transitional period for the Oakland-based nonprofit, whose... 
+<div><img width="620" height="450" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-620x450.png" class="attachment-large size-large wp-post-image" alt="Fair-Trade-certified" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-620x450.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-300x218.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-150x109.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-768x557.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Sustainability certification group Fair Trade USA recently named private label industry veteran Clay Dockery as head of coffee. The appointment comes amidst a transitional period for the Oakland-based nonprofit, whose... 
 
 <br> 
 
@@ -37,7 +285,7 @@ date: 2024-10-15, from: Daily Coffee News
 
 date: 2024-10-15, from: Daily Coffee News
 
-<div><img width="620" height="405" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/maceracion-carbonica-pacamara-620x405.jpg" class="attachment-large size-large wp-post-image" alt="maceración carbónica pacamara" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/maceracion-carbonica-pacamara-620x405.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/maceracion-carbonica-pacamara-300x196.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/maceracion-carbonica-pacamara-150x98.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/maceracion-carbonica-pacamara-768x501.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/maceracion-carbonica-pacamara.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Sample roasting, a standard practice in green coffee evaluation and purchasing, is generally considered a means to an end. Yet a new small-scale competition led by Nicaraguan green coffee specialist... 
+<div><img width="620" height="405" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/maceracion-carbonica-pacamara-620x405.jpg" class="attachment-large size-large wp-post-image" alt="maceración carbónica pacamara" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/maceracion-carbonica-pacamara-620x405.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/maceracion-carbonica-pacamara-300x196.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/maceracion-carbonica-pacamara-150x98.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/maceracion-carbonica-pacamara-768x501.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/maceracion-carbonica-pacamara.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Sample roasting, a standard practice in green coffee evaluation and purchasing, is generally considered a means to an end. Yet a new small-scale competition led by Nicaraguan green coffee specialist... 
 
 <br> 
 
@@ -90,6 +338,18 @@ If you&#8217;re a spicy food fan, you likely have a cupboard full of hot sauces.
 <br> 
 
 <https://pepperscale.com/does-hot-sauce-go-bad/>
+
+---
+
+## In Fort Worth, The Youth Coffee Expo Offers Disadvantaged Youth A Future In Coffee
+
+date: 2024-10-15, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. The Youth Coffee Expo takes place Thursday, October 17th at the Texans Can Academy in Fort Worth, Texas. 
+
+<br> 
+
+<https://sprudge.com/in-fort-worth-the-youth-coffee-expo-offers-disadvantaged-youth-a-future-in-coffee-257006.html>
 
 ---
 
@@ -225,18 +485,6 @@ Thanks to its high smoke point, ghee is an ideal fat for basting your holiday tu
 
 ---
 
-## Baked Sweet Potato Chaat
-
-date: 2024-10-15, from: Bon Appetet
-
-Forget regular baked potatoes—these tender sweets loaded with chaat-inspired toppings make for a bright and flavorful vegetarian main (or colorful side dish). 
-
-<br> 
-
-<https://www.bonappetit.com/recipe/baked-sweet-potato-chaat>
-
----
-
 ## Cranberry-Maple Mule
 
 date: 2024-10-15, from: Bon Appetet
@@ -270,18 +518,6 @@ This classic apple tarte Tatin gets its tart-sweet flavor and crimson hue from a
 <br> 
 
 <https://www.bonappetit.com/recipe/apple-cranberry-tarte-tatin>
-
----
-
-## Garlic Bread Biscuits
-
-date: 2024-10-15, from: Bon Appetet
-
-Tall, flaky buttermilk biscuits are given the garlic bread treatment–plenty of butter, two kinds of garlic, and lots of herbs and cheese. 
-
-<br> 
-
-<https://www.bonappetit.com/recipe/garlic-bread-biscuits>
 
 ---
 
@@ -330,6 +566,30 @@ This twist on burnt cheesecake integrates a can of pumpkin purée and a handful 
 <br> 
 
 <https://www.bonappetit.com/recipe/pumpkin-basque-cheesecake>
+
+---
+
+## Garlic Bread Biscuits
+
+date: 2024-10-15, from: Bon Appetet
+
+Tall, flaky buttermilk biscuits are given the garlic bread treatment–plenty of butter, two kinds of garlic, and lots of herbs and cheese. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/garlic-bread-biscuits>
+
+---
+
+## Baked Sweet Potato Chaat
+
+date: 2024-10-15, from: Bon Appetet
+
+Forget regular baked potatoes—these tender sweets loaded with chaat-inspired toppings make for a bright and flavorful vegetarian main (or colorful side dish). 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/baked-sweet-potato-chaat>
 
 ---
 
@@ -458,18 +718,6 @@ Spiced apple chutney is simply delicious, but how about spiced spicy apple chutn
 <br> 
 
 <https://pepperscale.com/spicy-apple-chutney/>
-
----
-
-## What’s A Good Scotch Bonnet Pepper Substitute?
-
-date: 2024-10-14, from: Pepper Scale
-
-Scotch bonnet peppers, with their heat and fruity tang, are very popular in Caribbean cuisine, but they can be tough to find. They are not common in most general supermarkets, unless you live in the sub-tropics or in an urban area with a high Caribbean ... <p class="read-more-container"><a title="What&#8217;s A Good Scotch Bonnet Pepper Substitute?" class="read-more button" href="https://pepperscale.com/scotch-bonnet-pepper-substitute/#more-2924" aria-label="Read more about What&#8217;s A Good Scotch Bonnet Pepper Substitute?">Read more</a></p> 
-
-<br> 
-
-<https://pepperscale.com/scotch-bonnet-pepper-substitute/>
 
 ---
 
@@ -649,54 +897,6 @@ Ready in 40 minutes, this vegan black-eyed peas recipe transforms humble legumes
 
 ---
 
-## Homemade Sriracha Powder
-
-date: 2024-10-13, from: Pepper Scale
-
-What&#8217;s a spicy food lover&#8217;s kitchen without a bottle of Sriracha hot sauce? Its spicy and tangy flavor brings big life to many a dish. But what if you&#8217;d love that Sriracha taste but prefer to not add another liquid to a recipe or meal, ... <p class="read-more-container"><a title="Homemade Sriracha Powder" class="read-more button" href="https://pepperscale.com/homemade-sriracha-powder/#more-6494" aria-label="Read more about Homemade Sriracha Powder">Read more</a></p> 
-
-<br> 
-
-<https://pepperscale.com/homemade-sriracha-powder/>
-
----
-
-## Spicy Candied Pecans
-
-date: 2024-10-13, from: Pepper Scale
-
-You can&#8217;t eat just one. Caramelized candy pecans with cayenne? Count us in as super-fans of this easy-to-make spicy snack. Know you&#8217;ll likely be making more than one batch in a cooking session&#160;as they will go fast. The cayenne pepper powder (and the small amount ... <p class="read-more-container"><a title="Spicy Candied Pecans" class="read-more button" href="https://pepperscale.com/spicy-candied-pecans/#more-6853" aria-label="Read more about Spicy Candied Pecans">Read more</a></p> 
-
-<br> 
-
-<https://pepperscale.com/spicy-candied-pecans/>
-
----
-
-## Vindaloo Masala Powder
-
-date: 2024-10-13, from: Pepper Scale
-
-There&#8217;s a whole wide world of curry spiciness out there for Indian food. You have mild curries for the masses, moderate heat options for those that like a little sizzle in their meals, and some curries with no-doubt-mouth-fire heat. That&#8217;s where vindaloo masala powder sits. ... <p class="read-more-container"><a title="Vindaloo Masala Powder" class="read-more button" href="https://pepperscale.com/vindaloo-masala-powder/#more-32780" aria-label="Read more about Vindaloo Masala Powder">Read more</a></p> 
-
-<br> 
-
-<https://pepperscale.com/vindaloo-masala-powder/>
-
----
-
-## Jalapeño Stuffing
-
-date: 2024-10-13, from: Pepper Scale
-
-Planning a special&#160;dinner and want stuffing with something different to it?&#160;Jalapeño stuffing turns&#160;the traditional side&#160;into something a little edgier. You still get that &#8220;warm and fuzzy&#8221; homey&#160;stuffing feel, but with an added&#160;kick. The recipe calls for (of course) jalapeño peppers, which provide a very eatable ... <p class="read-more-container"><a title="Jalapeño Stuffing" class="read-more button" href="https://pepperscale.com/jalapeno-stuffing/#more-9088" aria-label="Read more about Jalapeño Stuffing">Read more</a></p> 
-
-<br> 
-
-<https://pepperscale.com/jalapeno-stuffing/>
-
----
-
 ## Ho Ho Cake
 
 date: 2024-10-13, from: Taste of Home
@@ -706,18 +906,6 @@ Imagine all the deliciousness of a Ho Ho in cake form. This Ho Ho cake recipe fe
 <br> 
 
 <https://www.tasteofhome.com/recipes/edna-s-ho-ho-cake/>
-
----
-
-## Cool Whip Cookies
-
-date: 2024-10-13, from: Taste of Home
-
-Looking for a quick and easy cookie recipe? With just four ingredients, chocolaty Cool Whip cookies may be the easiest cookie recipe of them all! 
-
-<br> 
-
-<https://www.tasteofhome.com/recipes/cool-whip-cookies-2/>
 
 ---
 

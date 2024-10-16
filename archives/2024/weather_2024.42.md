@@ -1,43 +1,19 @@
 ---
 title: weather
-updated: 2024-10-15 08:49:10
+updated: 2024-10-15 17:51:30
 ---
 
 # weather
 
-(date: 2024-10-15 08:49:10)
+(date: 2024-10-15 17:51:30)
 
 ---
 
-## There are no tropical cyclones at this time.
+## SPC - No MDs are in effect as of Wed Oct 16 00:35:01 UTC 2024
 
-date: 2024-10-15, from: Eastern Pacific Basin GIS Data
+date: 2024-10-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No tropical cyclones as of Tue, 15 Oct 2024 14:33:16 GMT 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gis/>
-
----
-
-## SPC - No watches are valid as of Tue Oct 15 13:49:02 UTC 2024
-
-date: 2024-10-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Tue Oct 15 13:49:02 UTC 2024. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Tue Oct 15 13:49:02 UTC 2024
-
-date: 2024-10-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Tue Oct 15 13:49:02 UTC 2024. 
+No Mesoscale Discussions are in effect as of Wed Oct 16 00:35:01 UTC 2024. 
 
 <br> 
 
@@ -45,91 +21,27 @@ No Mesoscale Discussions are in effect as of Tue Oct 15 13:49:02 UTC 2024.
 
 ---
 
-## SPC Oct 15, 2024 1300 UTC Day 1 Convective Outlook
+## SPC - No watches are valid as of Wed Oct 16 00:35:01 UTC 2024
 
-date: 2024-10-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-10-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0741 AM CDT Tue Oct 15 2024
-
-Valid 151300Z - 161200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Severe thunderstorms are not expected through tonight.
-
-...Synopsis/Discussion...
-A highly amplified mid/upper-level pattern will persist over the
-CONUS, characterized by an elongated cyclone over the Great Lakes
-and Northeast, with a primary center initially over the lower St.
-Lawrence River region.  The associated 500-mb low should drift
-erratically near its present location for most of today, then move
-northeastward toward the easternmost extension of QC overnight.  A
-strong, basal trough was evident in moisture-channel imagery over
-the Lower Great Lakes and southern Upper Great Lakes region,
-westward across the upper Mississippi Valley.  This trough will
-pivot southeastward through the period, then by 12Z tomorrow, extend
-from offshore of New England across VA, the western Carolinas,
-northern GA, to central MS and the Arklatex region.  Associated cold
-air aloft, steep low/middle-level lapse rates (aided by
-boundary-layer flow off the relatively warm lakes) and weak moisture
-will foster isolated thunderstorm potential south of portions of
-Lakes Erie and Michigan today. 
-
-Elsewhere, thunderstorms have persisted all night in a residual,
-quasistationary, convectively reinforced baroclinic zone draped
-across the Bahamas and southern/western Straits of FL.  This thunder
-potential should persist episodically through the period, with some
-inland development possible this afternoon across the Everglades and
-perhaps adjoining southern parts of metro South FL.  A stronger
-boundary, moving southward through northern/central FL as a cold
-front, may support isolated thunder near that part of the FL East
-Coast today, amid modest moisture/lift.  In the Four Corners region,
-isolated to widely scattered, high-based thunderstorms are expected
-this afternoon as heating/mixing reduce generally 30s F surface
-dewpoints into the 20s, but still just enough moisture to support
-weak (generally less than 200 J/kg) peak MLCAPE.
-
-..Edwards.. 10/15/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
+No watches are valid as of Wed Oct 16 00:35:01 UTC 2024. 
 
 <br> 
 
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+<https://www.spc.noaa.gov/products/watch/>
 
 ---
 
-## Eastern North Pacific Tropical Weather Outlook
+## There are no tropical cyclones at this time.
 
-date: 2024-10-15, from: Eastern Pacific Basin Tropical Cyclones
+date: 2024-10-15, from: Eastern Pacific Basin GIS Data
 
-
-<br/>
-000<br/>
-ABPZ20 KNHC 151145<br/>
-TWOEP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS National Hurricane Center Miami FL<br/>
-500 AM PDT Tue Oct 15 2024<br/>
-<br/>
-For the eastern North Pacific...east of 140 degrees west longitude:<br/>
-<br/>
-Tropical cyclone formation is not expected during the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster Berg<br/>
- 
+No tropical cyclones as of Tue, 15 Oct 2024 23:25:19 GMT 
 
 <br> 
 
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+<https://www.nhc.noaa.gov/gis/>
 
 ---
 
@@ -144,9 +56,9 @@ date: 2024-10-15, from: Graphical Tropical Weather Outlooks
 <img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
 <br /><br />
 <div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Tue Oct 15 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>1. Central Tropical Atlantic (AL94):<br>An area of low pressure located over the central tropical Atlantic <br>is producing disorganized showers and thunderstorms. This system is <br>forecast to move generally westward, and environmental conditions <br>could become more conducive for gradual development by the middle <br>to latter part of this week. A tropical depression could form as <br>the system begins moving west-northwestward and approaches or moves <br>near the Leeward Islands late this week.<br>* Formation chance through 48 hours...low...30 percent.<br>* Formation chance through 7 days...medium...60 percent.<br><br />
-2. Western Caribbean Sea:<br>A broad area of low pressure could develop over the southwestern <br>Caribbean Sea by the middle to latter portions of this week. Some <br>gradual development is possible thereafter if the system stays over <br>water while it moves slowly west-northwestward towards northern <br>Central America. Regardless of development, locally heavy rainfall <br>is possible across portions of Central America later this week.<br>* Formation chance through 48 hours...low...near 0 percent.<br>* Formation chance through 7 days...low...30 percent.<br><br />
-<br>Forecaster Bucci<br></div></div><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 PM EDT Tue Oct 15 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>1. Central Tropical Atlantic (AL94):<br>An area of low pressure located over the central tropical Atlantic <br>is producing disorganized showers and thunderstorms. This system is <br>forecast to move generally westward to west-northwestward, and <br>environmental conditions appear marginally conducive for gradual <br>development by the middle to latter part of this week. A tropical <br>depression could form as the system approaches or moves near the <br>Leeward Islands late this week.<br>* Formation chance through 48 hours...low...30 percent.<br>* Formation chance through 7 days...medium...50 percent.<br><br />
+2. Western Caribbean Sea:<br>Showers and thunderstorms in the southwestern Caribbean Sea are <br>associated with a broad area of low pressure. Some gradual <br>development is possible if the system stays over water while it <br>moves slowly northwestward towards Central America. Regardless of <br>development, locally heavy rainfall is possible across portions of <br>Central America later this week.<br>* Formation chance through 48 hours...low...10 percent.<br>* Formation chance through 7 days...low...20 percent.<br><br />
+<br>Forecaster Beven<br></div></div><br />
  
 
 <br> 
@@ -162,19 +74,19 @@ date: 2024-10-15, from: Central Pacific Basin Tropical Cyclones
 
 <br/>
 000<br/>
-ACPN50 PHFO 151123<br/>
+ACPN50 PHFO 152320<br/>
 TWOCP <br/>
 <br/>
 Tropical Weather Outlook<br/>
 NWS Central Pacific Hurricane Center Honolulu HI<br/>
-200 AM HST Tue Oct 15 2024<br/>
+200 PM HST Tue Oct 15 2024<br/>
 <br/>
 For the central North Pacific...between 140W and 180W:<br/>
 <br/>
 No tropical cyclones are expected during the next 7 days.<br/>
 <br/>
 $$<br/>
-Forecaster Jelsema<br/>
+Forecaster JVC<br/>
  
 
 <br> 
@@ -187,7 +99,7 @@ Forecaster Jelsema<br/>
 
 date: 2024-10-15, from: Central Pacific Basin Tropical Cyclones
 
-No tropical cyclones as of Tue, 15 Oct 2024 14:33:16 GMT 
+No tropical cyclones as of Tue, 15 Oct 2024 23:25:19 GMT 
 
 <br> 
 
@@ -195,19 +107,115 @@ No tropical cyclones as of Tue, 15 Oct 2024 14:33:16 GMT
 
 ---
 
+## Eastern Pacific Tropical Weather Outlook
+
+date: 2024-10-15, from: Eastern Pacific Tropical Weather Outlook
+
+ <br />
+ 130 <br />
+ ABPZ20 KNHC 152312<br />
+ TWOEP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS National Hurricane Center Miami FL<br />
+ 500 PM PDT Tue Oct 15 2024<br />
+ <br />
+ For the eastern North Pacific...east of 140 degrees west longitude:<br />
+ <br />
+ Tropical cyclone formation is not expected during the next 7 days.<br />
+ <br />
+ $$<br />
+ Forecaster Hagen<br />
+ <br />
+  
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## SPC Day 3-8 Fire Weather Outlook
+
+date: 2024-10-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 3-8 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0459 PM CDT Tue Oct 15 2024
+
+Valid 171200Z - 231200Z
+
+A large-scale trough will amplify over the western CONUS on Days
+3-4/Thursday-Friday, before evolving into a closed midlevel low over
+the Four Corners region into Day 6/Saturday. Ahead of the trough,
+strong deep-layer south-southwesterly flow will overspread the Great
+Plains on Day 3/Thursday, while the surface pressure gradient
+tightens between a deepening lee trough over the High Plains and
+expansive surface anticyclone over the eastern CONUS.
+
+...Day 3/Thursday - Northern/Central Plains...
+The tightening pressure gradient and shallow boundary-layer mixing
+into the strong deep-layer flow will favor an expansive area of
+strong/gusty southerly surface winds across the Great Plains and
+Upper/Middle MS Valley. While the degree of boundary-layer
+heating/mixing and related RH reductions are uncertain (especially
+with northward extent), confidence in at least 25-percent RH
+overlapping the strong/gusty winds is high enough to introduce a
+70-percent Critical area. 
+
+...Day 4/Friday - Northern/Central California...
+On the backside of the amplified large-scale trough, strong
+deep-layer northerly flow will develop across California on Day
+4/Friday -- where a relatively warm/dry air mass will be in place.
+This will promote elevated to locally critical fire-weather
+conditions.
+
+..Weinman.. 10/15/2024
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/exper/fire_wx/>
+
+---
+
 ## SPC Day 2 Fire Weather Outlook
 
-date: 2024-10-15, from: NOAA Weather Forecasts
+date: 2024-10-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 2 Fire Weather Outlook  
 NWS Storm Prediction Center Norman OK
-0230 AM CDT Tue Oct 15 2024
+0258 PM CDT Tue Oct 15 2024
 
 Valid 161200Z - 171200Z
 
-...CRITICAL FIRE WEATHER AREA FOR SOUTHERN SOUTH DAKOTA...MUCH OF
-CENTRAL NEBRASKA...AND INTO NORTHERN/NORTHWEST KANSAS....
+...CRITICAL FIRE WEATHER AREA FOR SOUTHERN SOUTH DAKOTA...CENTRAL
+NEBRASKA...AND INTO NORTHERN/NORTHWEST KANSAS...
+
+The Critical area in the central/northern Plains was expanded
+slightly westward, northward, and northeastward. Here, confidence in
+the overlap of 20-25 mph sustained southerly surface winds (with
+higher gusts) and around 20 percent RH over dry fuels has increased.
+
+An Elevated area was introduced over portions of the central Gulf
+Coast, where breezy post-frontal winds (sustained around 15 mph with
+higher gusts) will overlap 25-30 percent RH for a few hours during
+the afternoon. The Elevated area has been confined to areas that
+missed out on appreciable rainfall over the last month, and fuels
+should be receptive to fire spread. 
+
+Elsewhere, the previous forecast (see below) remains on track.
+
+..Weinman.. 10/15/2024
+
+.PREV DISCUSSION... /ISSUED 0230 AM CDT Tue Oct 15 2024/
 
 ...Synopsis...
 ...Central and Northern Plains...
@@ -243,8 +251,6 @@ only exception is across central Louisiana where some stronger winds
 are possible. However, relative humidity is also not forecast to be
 as dry across this region.
 
-..Bentley.. 10/15/2024
-
 ...Please see www.spc.noaa.gov/fire for graphic product...
 
 </pre>
@@ -254,100 +260,4 @@ as dry across this region.
 <br> 
 
 <https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
-
----
-
-## SPC Oct 15, 2024 0100 UTC Day 1 Convective Outlook
-
-date: 2024-10-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0748 PM CDT Mon Oct 14 2024
-
-Valid 150100Z - 151200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Severe thunderstorms are not expected tonight.
-
-...Discussion...
-Isolated thunderstorms remain possible, mainly this evening, across
-the Four Corners States ahead of a weak mid-level trough drifting
-southeast over the southern Great Basin. Lake-effect showers and
-embedded thunderstorms should remain most prevalent over Lake MI,
-but will also be possible south of Lake Huron and Erie. Steep
-mid-level lapse rates, sampled by the 00Z GRB/DTX soundings, will
-slowly slide south atop the relatively warm waters and support weak
-buoyancy for sporadic lightning flashes.
-
-..Grams.. 10/15/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html>
-
----
-
-## SPC Day 3-8 Fire Weather Outlook
-
-date: 2024-10-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 3-8 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0459 PM CDT Mon Oct 14 2024
-
-Valid 161200Z - 221200Z
-
-...Days 3/Wednesday...
-On Day 3/Wednesday, an expansive surface anticyclone will move
-eastward from the central Plains into the OH Valley. At the same
-time, a lee trough will deepen over the northern/central High Plains
--- in response to strengthening deep-layer southwesterly flow ahead
-of an amplifying large-scale trough over the West. This will result
-in a tightening pressure gradient and strong/gusty southerly surface
-winds across much of the northern/central High Plains -- aided by
-boundary-layer mixing into a strong low-level jet. Limited low-level
-moisture return will favor near-critical RH, and given very dry
-fuels, elevated to critical conditions are expected. Confidence in
-the development of critical conditions is highest over south-central
-SD and central NE, where the best overlap of strong winds and low RH
-is forecast amid the warmest surface temperatures. 
-
-Farther west, the strong southwesterly midlevel winds accompanying
-the large-scale trough will overspread a relatively dry air mass
-over the Great Basin. This will promote elevated to locally critical
-fire-weather conditions during the afternoon. 
-
-...Days 4-5/Thursday-Friday...
-A tight pressure gradient and enhanced low-level jet will continue
-to promote strong/gusty southerly surface winds over a large portion
-of the Plains into the MS Valley on Day 4/Thursday. While elevated
-to near-critical conditions are expected, confidence in critical
-conditions is slightly lower than Day 3/Wednesday owing to
-uncertainty in RH reductions. 
-
-On the backside of the large-scale trough, strong deep-layer
-northerly flow will overspread portions of central CA on Day
-5/Friday. This will favor increasing fire-weather concerns, and
-elevated to critical conditions are possible.
-
-..Weinman.. 10/14/2024
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/exper/fire_wx/>
 
