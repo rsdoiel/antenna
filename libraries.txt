@@ -32,6 +32,7 @@ https://www.santaclaritalibrary.com/feed/ "~Santa Clarita Public Library"
 #https://fis.uni-bamberg.de/feed/atom_1.0/site?locale=en "~University of Bamberg, IR publications feed" # feed no longer available, 2023-10-10
 ##https://iiif.io/news/atom.xml "~IIIF News" # Feed removed, discovered 2023-10-10
 https://www.brodrigues.co/blog/index.xml "~Bruno Rodrigues blog"
+http://feeds.feedburner.com/c4lj "~/Code4Lib Journal"
 
 #
 # organizations
