@@ -11,6 +11,7 @@ build: skim markdown html index
 	git add today-$(TODAY).html
 
 skim: .FORCE
+<<<<<<< HEAD
 	./build_snapshot.bash skim
 
 markdown: .FORCE
@@ -21,5 +22,17 @@ html: .FORCE
 
 index: .FORCE
 	./build_snapshot.bash index
+=======
+	./todays_feeds.bash skim
+
+markdown: .FORCE
+	./todays_feeds.bash markdown
+
+html: .FORCE
+	./todays_feeds.bash html
+
+index: .FORCE
+	./todays_feeds.bash index
+>>>>>>> 88530d0e8 (snapshot of fixing bad gh-pages merge)
 
 .FORCE:
