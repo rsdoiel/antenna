@@ -1,11 +1,119 @@
 ---
 title: motorcycles
-updated: 2024-10-15 17:51:31
+updated: 2024-10-16 07:22:19
 ---
 
 # motorcycles
 
-(date: 2024-10-15 17:51:31)
+(date: 2024-10-16 07:22:19)
+
+---
+
+## The Money Stop: Betting Guide for the South Point 400 at Las Vegas
+
+date: 2024-10-16, from: Kickin the Tires blog
+
+By Cole Cusumano, Staff Writer Betting is almost always better when Las Vegas is involved, but especially when the NASCAR Cup Series returns to Sin City for the playoffs. Whether&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/the-money-stop-betting-guide-for-the-south-point-400-at-las-vegas/>
+
+---
+
+## Brembo Just Bought Öhlins, Tells Us How Riders Will Reap the Rewards
+
+date: 2024-10-16, from: Ride Apart, Electric Motorcycle News
+
+We can speculate a lot about how this will turn out, but there's one glaringly obvious benefit for riders that they told us about. 
+
+<br> 
+
+<https://www.rideapart.com/news/737131/brembo-acquires-ohlins-riders-benefit/>
+
+---
+
+## Finally, FIM Superenduro World Championship Will Allow Electric Motorcycles
+
+date: 2024-10-16, from: Ride Apart, Electric Motorcycle News
+
+Will this be like watching the switch from 2-strokes to 4-strokes? 
+
+<br> 
+
+<https://www.rideapart.com/news/737130/fim-superenduro-allows-electric-motorcycles/>
+
+---
+
+## 2024 ARCA West at Roseville: Team Reactions, Analysis
+
+date: 2024-10-16, from: Kickin the Tires blog
+
+By Vincent Delforge, Special to Kickin&#8217; the Tires The NAPA Auto Parts 150 presented by Berco Redwood, the tenth race of the 2024 ARCA Menards West Series season, held at&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/2024-arca-west-at-roseville-team-reactions-analysis/>
+
+---
+
+## Hang On, The Triumph Speed 400 Gets Surprisingly Nice Brakes
+
+date: 2024-10-16, from: Ride Apart, Electric Motorcycle News
+
+Which one of these is not like the others? 
+
+<br> 
+
+<https://www.rideapart.com/news/737535/triumph-speed400-tiger660-trident660-brakes/>
+
+---
+
+## This Norton F1R Is a Rotary-Powered Sportbike You Never Knew You Wanted
+
+date: 2024-10-16, from: Ride Apart, Electric Motorcycle News
+
+The first one ever built is looking for a new home.  
+
+<br> 
+
+<https://www.rideapart.com/news/737378/norton-f1r-prototype-auction/>
+
+---
+
+## Hey, You Can Totally Get Your Bike's Rear Shock Rebuilt If You Want
+
+date: 2024-10-16, from: Ride Apart, Electric Motorcycle News
+
+In some cases, you might not want to. But in others, you might want to look into it. 
+
+<br> 
+
+<https://www.rideapart.com/news/737519/get-your-shocks-rebuilt-specialist/>
+
+---
+
+## Husqvarna’s Norden 901 Expedition Is the Perfect Zombie Apocalypse Bike, Maybe
+
+date: 2024-10-16, from: Ride Apart, Electric Motorcycle News
+
+It’s decked out to go the distance and conquer pretty much anything in its path.  
+
+<br> 
+
+<https://www.rideapart.com/news/737376/2025-husqvarna-norden-901-expedition-unveiled/>
+
+---
+
+## This UTV’s Built For Winter, So You Have No Excuses
+
+date: 2024-10-16, from: Ride Apart, Electric Motorcycle News
+
+An enclosed cabin and built-in heater keep you comfy in frigid temps.  
+
+<br> 
+
+<https://www.rideapart.com/news/737379/2025-massimo-tboss-launch-winter/>
 
 ---
 

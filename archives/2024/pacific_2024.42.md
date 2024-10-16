@@ -1,11 +1,443 @@
 ---
 title: pacific
-updated: 2024-10-15 17:51:28
+updated: 2024-10-16 07:44:30
 ---
 
 # pacific
 
-(date: 2024-10-15 17:51:28)
+(date: 2024-10-16 07:44:30)
+
+---
+
+## Saipan Chamber of Commerce to meet on Nov. 13
+
+date: 2024-10-16, updated: 2024-10-16, from: Marianas Variety
+
+(SCC) — Hafa Adai yan Tirow from the Saipan Chamber of Commerce! We are delighted to announce our upcoming November general membership meeting scheduled for Wednesday, Nov. 13, 2024  from 11:30 a.m. to 1 p.m. at Queen’s Hall, Kensington Hotel Saipan. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/saipan-chamber-of-commerce-to-meet-on-nov-13/article_368b87fa-8bc6-11ef-9494-fb47be1890f5.html>
+
+---
+
+## China Airlines to resume Taipe-Guam service 
+
+date: 2024-10-16, from: Pacific Island Times
+
+By Pacific Island Times News Staff China Airlines, one of Taiwan's largest carriers, will resume its Taipei-Guam service from Nov. 27 to... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/china-airlines-to-resume-taipe-guam-service>
+
+---
+
+## OPA: Guam Memorial Hospital's total liabilities increased to $421.7 million
+
+date: 2024-10-16, from: Pacific Island Times
+
+By Pacific Island Times News Staff Guam Memorial Hospital’s total liabilities increased from $368.8 million in fiscal 2022 to $421.7... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/opa-guam-memorial-hospital-s-total-liabilities-increased-to-421-7-million>
+
+---
+
+## Australia’s planned social media ban raises teen isolation fears
+
+date: 2024-10-16, from: Hawaii Tribune Harold
+
+
+				<p>SYDNEY &#8212; For Tereza Hussein, a 14-year-old refugee who lives in Darwin, Australia&#8217;s planned social media ban would mean losing a direct line to the most important person to her: a grandmother she has never physically met.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/16/nation-world-news/australias-planned-social-media-ban-raises-teen-isolation-fears/>
+
+---
+
+## Radio proposal draws concerns at council meeting
+
+date: 2024-10-16, from: Hawaii Tribune Harold
+
+
+				<p>A Hawaii County Council proposal to bolster the island&#8217;s emergency communications network using amateur radio operators was met with some skepticism Tuesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/16/hawaii-news/radio-proposal-draws-concerns-at-council-meeting/>
+
+---
+
+## Hawaii PUC probing utility’s role in deadly Lahaina wildfire
+
+date: 2024-10-16, from: Hawaii Tribune Harold
+
+
+				<p>The state Public Utilities Commission has issued more than 30 information requests totaling nearly 200 questions to Hawaiian Electric as part of an ongoing investigation into the Aug. 8, 2023, Lahaina wildfire, which killed 102 people and caused more than $5.5 billion in damage.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/16/hawaii-news/hawaii-puc-probing-utilitys-role-in-deadly-lahaina-wildfire/>
+
+---
+
+## A distant planet may host a moon that’s spewing a volcanic cloud
+
+date: 2024-10-16, from: Hawaii Tribune Harold
+
+
+				<p>Astronomers have identified thousands of planets orbiting distant stars using sophisticated observatories. But there&#8217;s something they have yet to spot with any certainty: moons around those worlds.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/16/nation-world-news/a-distant-planet-may-host-a-moon-thats-spewing-a-volcanic-cloud/>
+
+---
+
+## A climate resistant community passed two hurricane tests
+
+date: 2024-10-16, from: Hawaii Tribune Harold
+
+
+				<p>As Hurricane Milton rushed ashore last Wednesday, at least 2,000 Floridians found safe haven at Babcock Ranch, a community the size of Manhattan that opened in 2018 to withstand climate-driven storms.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/16/nation-world-news/a-climate-resistant-community-passed-two-hurricane-tests/>
+
+---
+
+## Trump says ‘growth’ and tariffs will pay for $15 trillion agenda
+
+date: 2024-10-16, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Former President Donald Trump has been offering up new tax cuts to nearly every group of voters that he meets in recent weeks, shaking the nerves of budget watchers and fiscal hawks who fear his expensive economic promises will explode the nation&#8217;s bulging national debt.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/16/nation-world-news/trump-says-growth-and-tariffs-will-pay-for-15-trillion-agenda/>
+
+---
+
+## Harris has raised $1 billion. Can she get donors to give more?
+
+date: 2024-10-16, from: Hawaii Tribune Harold
+
+
+				<p>PHILADELPHIA &#8212; When 300 top fundraisers for Vice President Kamala Harris filed into Philadelphia&#8217;s Academy of Fine Arts on Sunday evening for a 10-to-a-table dinner, they got to hear from Gov. Josh Shapiro of Pennsylvania and Jaime Harrison, the chair of the Democratic National Committee.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/16/nation-world-news/harris-has-raised-1-billion-can-she-get-donors-to-give-more/>
+
+---
+
+## Nation and world news in brief for October 16
+
+date: 2024-10-16, from: Hawaii Tribune Harold
+
+
+				<p>Judge rules against vacating &#0010;Texas man&#8217;s death sentence &#0010;in &#8216;shaken baby&#8217; case</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/16/nation-world-news/nation-and-world-news-in-brief-for-october-16/>
+
+---
+
+## Zonta Club awards $10K in microgrants to women
+
+date: 2024-10-16, from: Hawaii Tribune Harold
+
+
+				<p>The Zonta Club of Hilo recently presented $10,000 in microgrants for its 2024 &#8220;Pay It Forward&#8221; program.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/16/community/zonta-club-awards-10k-in-microgrants-to-women/>
+
+---
+
+## Award-winning pianist to open concert season with Honolulu quartet
+
+date: 2024-10-16, from: Hawaii Tribune Harold
+
+
+				<p>In 1973, 4-year-old Jon Nakamatsu felt he couldn&#8217;t live without a piano. He begged his Hawaiian born-and-raised parents for one, after being introduced to the instrument in his preschool in California, where they lived.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/16/entertainment/award-winning-pianist-to-open-concert-season-with-honolulu-quartet/>
+
+---
+
+## Trump sways to music for 39 minutes in awkward end to Pennsylvania campaign event
+
+date: 2024-10-16, from: Hawaii Tribune Harold
+
+
+				<p>Former President Donald Trump stood and swayed to music for 39 minutes Monday after cutting off questions from supporters in an awkward end to a town hall in suburban Philadelphia.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/16/nation-world-news/trump-sways-to-music-for-39-minutes-in-awkward-end-to-pennsylvania-campaign-event/>
+
+---
+
+## Walz runs defense for socialism shoutout
+
+date: 2024-10-16, from: Hawaii Tribune Harold
+
+
+				<p>For a former social studies teacher, Minnesota Gov. Tim Walz missed the lessons of the 2020 presidential election.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/16/opinion/walz-runs-defense-for-socialism-shoutout/>
+
+---
+
+## Is Biden really ready to stand up for Gaza’s children?
+
+date: 2024-10-16, from: Hawaii Tribune Harold
+
+
+				<p>With Israel clamping down on food shipments to the Gaza Strip, the Biden administration is finally warning Israel to ease up or risk a suspension of some military aid.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/16/opinion/is-biden-really-ready-to-stand-up-for-gazas-children/>
+
+---
+
+## Free pet microchipping event in Volcano
+
+date: 2024-10-16, from: Hawaii Tribune Harold
+
+
+				<p>The County of Hawaii Animal Control and Protection Agency is hosting its second free microchipping and licensing event in Volcano on Saturday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/16/hawaii-news/free-pet-microchipping-event-in-volcano/>
+
+---
+
+## Your Views for October 16
+
+date: 2024-10-16, from: Hawaii Tribune Harold
+
+
+				<p>Senator responds&#0010;to letter writer</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/16/opinion/your-views-for-october-16-8/>
+
+---
+
+## Could weight-loss drugs help get people back to work? The UK wants to find out.
+
+date: 2024-10-16, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; About 1 in 4 adults in Britain is obese, according to estimates from the country&#8217;s National Health Service, and the problem costs the public health care system billions every year.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/16/nation-world-news/could-weight-loss-drugs-help-get-people-back-to-work-the-uk-wants-to-find-out/>
+
+---
+
+## Harris pledges marijuana reform, defends record in Charlamagne interview
+
+date: 2024-10-16, from: Hawaii Tribune Harold
+
+
+				<p>DETROIT &#8212; U.S. Democratic presidential candidate Kamala Harris defended her record as a prosecutor, pledged to decriminalize marijuana and push for police reform as she aimed to shore up support among Black men in an interview with radio host Charlamagne tha God on Tuesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/16/nation-world-news/harris-pledges-marijuana-reform-defends-record-in-charlamagne-interview/>
+
+---
+
+## Hundreds of Boeing workers rally in Seattle as strike enters second month
+
+date: 2024-10-16, from: Hawaii Tribune Harold
+
+
+				<p>SEATTLE &#8212; Boeing factory workers held a large rally in Seattle on Tuesday to demand a better wage deal, mounting pressure on new CEO Kelly Ortberg to end a bitter strike that has plunged the planemaker further into financial crisis. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/16/nation-world-news/hundreds-of-boeing-workers-rally-in-seattle-as-strike-enters-second-month/>
+
+---
+
+## Nearly 100 people still missing in NC after Hurricane Helene
+
+date: 2024-10-16, from: Hawaii Tribune Harold
+
+
+				<p>NASHVILLE, Tenn. &#8212; About 100 people remain missing in North Carolina more than two weeks after Hurricane Helene ravaged the western stretch of the state, Gov. Roy Cooper said Tuesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/16/nation-world-news/nearly-100-people-still-missing-in-nc-after-hurricane-helene/>
+
+---
+
+## US warns Israel of military aid cut if Palestinians inGaza don’t get more supplies
+
+date: 2024-10-16, from: Hawaii Tribune Harold
+
+
+				<p>The United States has warned Israel to increase the flow of humanitarian supplies into the war-devastated Gaza Strip within the next 30 days or risk losing military aid, U.S. officials said Tuesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/16/nation-world-news/us-warns-israel-of-military-aid-cut-if-palestinians-ingaza-dont-get-more-supplies/>
+
+---
+
+## Georgia reports record turnout as early voting begins in U.S. battleground state
+
+date: 2024-10-16, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON (Reuters) &#8212; Voters in Georgia turned out in record numbers as the battleground state opened early voting for the Nov. 5 presidential election between Democrat Kamala Harris and Republican Donald Trump, state officials said on Tuesday. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/16/nation-world-news/georgia-reports-record-turnout-as-early-voting-begins-in-u-s-battleground-state/>
+
+---
+
+## 'Pacific moment:' Island nations to lead ocean protection conference in Samoa 
+
+date: 2024-10-16, from: Pacific Island Times
+
+By Ron Rocky Coloma The upcoming Commonwealth Heads of Government Meeting, or CHOGM , set to take place in Samoa from Oct. 21 to 26, is a... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/pacific-moment-island-nations-to-lead-ocean-protection-conference-in-samoa>
+
+---
+
+## Former Gov. Paul Calvo passes away
+
+date: 2024-10-16, from: Pacific Island Times
+
+By Pacific Island Times News Staff Guam mourns the passing of former governor Paul M. Calvo today. He was 90.   Calvo, served as the... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/former-gov-paul-calvo-passes-away>
+
+---
+
+## Statement on the passing of former Guam Gov. Paul Calvo
+
+date: 2024-10-16, updated: 2024-10-16, from: Marianas Variety
+
+HAGÅTÑA, Guam (Office of the Guam Governor) — Gov. Lou Leon Guerrero and Lt. Gov. Josh Tenorio issue the following statements Wednesday on the passing of former Gov. Paul Calvo: 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/statement-on-the-passing-of-former-guam-gov-paul-calvo/article_8e3f55ce-8b82-11ef-8e5c-276aa006ff06.html>
+
+---
+
+## President’s search in final stage
+
+date: 2024-10-16, from: University of Hawaiʻi News
+
+<p>The University of <span aria-label="Hawaii">Hawai&#699;i</span> Board of Regents will interview the two finalists for president of the 10-campus system during a Special Meeting on Wednesday, October 16.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/15/next-uh-president-could-be-announced-soon/">President’s search in final stage</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/15/next-uh-president-could-be-announced-soon/>
+
+---
+
+## Anime fan, tech wiz land coveted Japan scholarships
+
+date: 2024-10-16, from: University of Hawaiʻi News
+
+<p>Koy Yoshizumi and Marques Batoon, are among only four students in the country to receive the highly regarded <abbr>MEXT</abbr> scholarship</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/15/mext-scholarship/">Anime fan, tech wiz land coveted Japan scholarships</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/15/mext-scholarship/>
+
+---
+
+## USP Invention for Cyber Resilient Thermal Power Plants Granted Full Patent
+
+date: 2024-10-16, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific (USP) has received a full patent for a system...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-invention-for-cyber-resilient-thermal-power-plants-granted-full-patent/">USP Invention for Cyber Resilient Thermal Power Plants Granted Full Patent</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/usp-invention-for-cyber-resilient-thermal-power-plants-granted-full-patent/>
+
+---
+
+## Once in a lifetime: Undergraduate students conduct research in Galápagos
+
+date: 2024-10-16, from: University of Hawaiʻi News
+
+<p>During the summer, the traveling students were housed at the <abbr>CDF</abbr> research station, where they conducted their research projects focused on island invasion biology.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/15/galapagos-research-trip/">Once in a lifetime: Undergraduate students conduct research in Galápagos</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/15/galapagos-research-trip/>
+
+---
+
+## New UH program empowers Hawaiian immersion keiki
+
+date: 2024-10-16, from: University of Hawaiʻi News
+
+<p>N&#257; <span aria-label="Opio">&#699;&#332;pio</span> <span aria-label="Kaapeha">Ka&#699;apeha</span>, opens the door for haum&#257;na in grades 6&#8211;12 to explore <abbr>STEAM</abbr> pathways within higher education.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/15/new-uh-program-empowers-hawaiian-immersion-keiki/">New <abbr>UH</abbr> program empowers Hawaiian immersion keiki</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/15/new-uh-program-empowers-hawaiian-immersion-keiki/>
 
 ---
 
@@ -110,6 +542,66 @@ The post <a href="https://www.hawaii.edu/news/2024/10/15/uh-mwc-full-member/"><a
 <br> 
 
 <https://www.hawaii.edu/news/2024/10/15/uh-mwc-full-member/>
+
+---
+
+## Sean ‘Diddy’ Combs accused of sexual abuse in six new lawsuits
+
+date: 2024-10-15, updated: 2024-10-16, from: Marianas Variety
+
+(Reuters) — Sean "Diddy" Combs was confronted with six new sexual abuse lawsuits on Monday, including one accusing the rap mogul of assaulting a minor. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/sean-diddy-combs-accused-of-sexual-abuse-in-six-new-lawsuits/article_a2f99fa8-8b03-11ef-9b4e-9fc09c1e0897.html>
+
+---
+
+## MVA: September arrivals down 26%
+
+date: 2024-10-15, updated: 2024-10-16, from: Marianas Variety
+
+(MVA) — According to monthly statistics from the Marianas Visitors Authority, arrivals to Saipan, Tinian and Rota decreased 26% to 14,555 visitors in September 2024, compared to 19,566 visitors received in September 2023. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/mva-september-arrivals-down-26/article_19db05b0-8afc-11ef-ad68-b74e455d72a2.html>
+
+---
+
+## Podziewski wants negligence lawsuit remanded to local court
+
+date: 2024-10-15, updated: 2024-10-16, from: Marianas Variety
+
+KYLE Podziewski has requested the federal court to remand to the CNMI Superior Court the negligence lawsuit he filed against vessel operators Cabras Marine Corporation and Saipan Crew Boats Inc. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/podziewski-wants-negligence-lawsuit-remanded-to-local-court/article_38452a9e-8ac0-11ef-8dd6-1faac8a27c74.html>
+
+---
+
+## Man gets 7 years for burglary, illegal possession of firearm
+
+date: 2024-10-15, updated: 2024-10-16, from: Marianas Variety
+
+BRANDON Lizama Benavente will serve seven years in prison for burglary and illegal possession of firearm. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/man-gets-7-years-for-burglary-illegal-possession-of-firearm/article_e72b0b6c-8ab3-11ef-9d19-0f5acd7f2cb5.html>
+
+---
+
+## Rota’s Thomas Manglona accepted into Obama Foundation Leaders Program
+
+date: 2024-10-15, updated: 2024-10-16, from: Marianas Variety
+
+THOMAS Manglona, a son of Rota and KUAM’s chief regional correspondent, has been accepted into the Obama Foundation Leaders Program. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/rota-s-thomas-manglona-accepted-into-obama-foundation-leaders-program/article_072d9552-8aa4-11ef-ac48-4b6fd1539c86.html>
 
 ---
 
@@ -306,76 +798,6 @@ date: 2024-10-15, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2024/10/15/opinion/trumps-plans-bust-the-federal-budget/>
-
----
-
-## BIIF football: Aipia makes history; Wildcats, Cougars and Dragons dominate
-
-date: 2024-10-15, from: Hawaii Tribune Harold
-
-
-				<p>KAMUELA &#8212; Hawaii Preparatory Academy football scored its most points in a game since Sept. 2021 in Saturday&#8217;s beatdown against Ka&#8216;u at home &#8212; winning 69-0. Ka Makani executed its game plan perfectly by dominating the line of scrimmage on both sides of the ball. It was the second time HPA has shut out the Trojans in 2024.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/15/sports/biif-football-aipia-makes-history-wildcats-cougars-and-dragons-dominate/>
-
----
-
-## Carlos Rodon, Yankees roll over wild Guardians in Game 1
-
-date: 2024-10-15, from: Hawaii Tribune Harold
-
-
-				<p>NEW YORK &#8212; Carlos Rodon was a beacon of serenity, calmly walking around and off the mound after each of his nine strikeouts.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/15/sports/carlos-rodon-yankees-roll-over-wild-guardians-in-game-1/>
-
----
-
-## Mets power past Dodgers to even NLCS
-
-date: 2024-10-15, from: Hawaii Tribune Harold
-
-
-				<p>LOS ANGELES &#8212; The leadoff man who has energized the New York Mets all season delivered a much-needed jolt on Monday afternoon. This time, it sparked an effort that has the club heading home tied in the National League Championship Series.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/15/sports/mets-power-past-dodgers-to-even-nlcs/>
-
----
-
-## Late Tyler Bass field goal, Taron Johnson interception help Bills sink Jets, 23-20
-
-date: 2024-10-15, from: Hawaii Tribune Harold
-
-
-				<p>EAST RUTHERFORD, N.J. &#8212; After a tumultuous week, the Jets could not end their losing streak.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/15/sports/late-tyler-bass-field-goal-taron-johnson-interception-help-bills-sink-jets-23-20/>
-
----
-
-## Dolphins’ Tagovailoa will play again this season, team says for first time
-
-date: 2024-10-15, from: Hawaii Tribune Harold
-
-
-				<p>MIAMI &#8212; Dolphins quarterback Tua Tagovailoa received encouraging feedback from a neurologist last week and is expected to play again this season, coach Mike McDaniel said for the first time Monday. </p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/15/sports/dolphins-tagovailoa-will-play-again-this-season-team-says-for-first-time/>
 
 ---
 
@@ -819,90 +1241,6 @@ date: 2024-10-14, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2024/10/14/nation-world-news/us-to-deploy-missile-defense-system-and-about-100-troops-to-israel/>
-
----
-
-## BIIF volleyball: Vikings and Canefire win nailbiters; Wildcats, Ka Makani and Cowgirls sweep
-
-date: 2024-10-14, from: Hawaii Tribune Harold
-
-
-				<p>The Big Island Interscholastic Federation (BIIF) girls volleyball season concluded its final weekend of the regular season slate across the island. Matches will wrap up this week before playoffs begin Friday night. See the paper later this week for finalized standings and the playoff matchups. The playoffs will open with an east vs. west format.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/14/sports/biif-volleyball-vikings-and-canefire-win-nailbiters-wildcats-ka-makani-and-cowgirls-sweep/>
-
----
-
-## Lions crush Cowboys, but lose Aidan Hutchinson to injury
-
-date: 2024-10-14, from: Hawaii Tribune Harold
-
-
-				<p>Jared Goff passed for 315 yards and three touchdowns but Detroit lost top defensive player Aidan Hutchinson in a 47-9 thumping of Dallas in Arlington, Texas on Sunday.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/14/sports/lions-crush-cowboys-but-lose-aidan-hutchinson-to-injury/>
-
----
-
-## Boise State’s rush just too much for Hawaii
-
-date: 2024-10-14, from: Hawaii Tribune Harold
-
-
-				<p>Caught in a rush, the Hawaii football team could not overcome 17th-ranked Boise State&#8217;s prolific rusher and aggressive pass rush in Saturday&#8217;s 28-7 loss at the Ching Complex.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/14/sports/boise-states-rush-just-too-much-for-hawaii/>
-
----
-
-## Dodgers pound Mets to open NLCS
-
-date: 2024-10-14, from: Hawaii Tribune Harold
-
-
-				<p>LOS ANGELES &#8212; A makeshift pitching staff that was supposed to spell doom for the Los Angeles Dodgers&#8217; World Series hopes has instead made playoff history.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/14/sports/dodgers-pound-mets-to-open-nlcs/>
-
----
-
-## Steelers end 2-game skid with comfortable win vs. Raiders
-
-date: 2024-10-14, from: Hawaii Tribune Harold
-
-
-				<p>Justin Fields passed for 145 yards and rushed for 59 yards and two touchdowns, and the Pittsburgh Steelers pulled away for a 32-13 win over the host Las Vegas Raiders on Sunday afternoon.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/14/sports/steelers-end-2-game-skid-with-comfortable-win-vs-raiders/>
-
----
-
-## Breanna Stewart, Betnijah Laney-Hamilton guide Liberty past Lynx in Game 2
-
-date: 2024-10-14, from: Hawaii Tribune Harold
-
-
-				<p>For the first time since July 6, Betnijah Laney-Hamilton scored 20 points, and she did so in a game where the New York Liberty desperately needed it. </p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/14/sports/breanna-stewart-betnijah-laney-hamilton-guide-liberty-past-lynx-in-game-2/>
 
 ---
 

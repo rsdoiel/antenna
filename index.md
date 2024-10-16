@@ -18,6 +18,7 @@ Collection                                          Description of Posts        
 [Columns](columns.html)                             Frequent Pocket additions                                          [columns.txt](columns.txt)
 [Retro Computing](retro_computing.html)             Computer history and systems                                       [retro_computing.txt](retro_computing.txt)
 [Libraries](libraries.html)                         Libraries, Archives and Museums                                    [libraries.txt](libraries.txt)
+[State Parks](parks.html)                           State Parks                                                        [parks.txt](parks.txt)
 [Student Journalism](journalism.html)               Student Journalism and the 4th estate                              [journalism.txt](journalism.txt)
 [Motorcycles](motorcycles.html)                     Electric motorcycle and related                                    [motorcycles.txt](motorcycles.txt)
 [Craft](craft.html)                                 Craft and Design                                                   [craft.txt](craft.txt)

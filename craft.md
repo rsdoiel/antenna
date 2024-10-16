@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2024-10-15 17:51:32
+updated: 2024-10-16 07:22:20
 ---
 
 # craft
 
-(date: 2024-10-15 17:51:32)
+(date: 2024-10-16 07:22:20)
+
+---
+
+## Dutch Tool Chests Back in Rotation
+
+date: 2024-10-16, from: Lost Arg Press blog
+
+As I got ready to teach my Dutch tool chest class last weekend, I realized I was incredibly rusty as far as succinct instruction for this project. I checked my calendar, and I&#8217;m pretty sure the last time I taught this class in our shop was the weekend of May 6, 2022 – and the... 
+
+<br> 
+
+<https://blog.lostartpress.com/2024/10/16/dutch-chests-back-in-class-rotation/>
 
 ---
 

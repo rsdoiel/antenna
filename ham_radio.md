@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2024-10-15 17:51:29
+updated: 2024-10-16 07:22:17
 ---
 
 # ham radio
 
-(date: 2024-10-15 17:51:29)
+(date: 2024-10-16 07:22:17)
+
+---
+
+## Drone regulation and electronic augmentation
+
+date: 2024-10-16, from: EDN Blog
+
+<img width="1246" height="701" src="https://www.edn.com/wp-content/uploads/DJI-Mavic-Air.png?fit=1246%2C701" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/DJI-Mavic-Air.png?w=1246 1246w, https://www.edn.com/wp-content/uploads/DJI-Mavic-Air.png?w=300 300w, https://www.edn.com/wp-content/uploads/DJI-Mavic-Air.png?w=768 768w, https://www.edn.com/wp-content/uploads/DJI-Mavic-Air.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/DJI-Mavic-Air.png?w=800 800w" sizes="(max-width: 1246px) 100vw, 1246px" /><p>Got an older drone? You’ll need to spend a bit more coin (or restrict where you fly it) to keep it legal going forward.</p>
+<p>The post <a href="https://www.edn.com/drone-regulation-and-electronic-augmentation/" data-wpel-link="internal">Drone regulation and electronic augmentation</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/drone-regulation-and-electronic-augmentation/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2024-10-15 17:51:29
 
 date: 2024-10-15, from: EDN Blog
 
-<img width="1639" height="1691" src="https://www.edn.com/wp-content/uploads/Fig-2-NoC-tiling-Arteris.png?fit=1639%2C1691" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-2-NoC-tiling-Arteris.png?w=1639 1639w, https://www.edn.com/wp-content/uploads/Fig-2-NoC-tiling-Arteris.png?w=291 291w, https://www.edn.com/wp-content/uploads/Fig-2-NoC-tiling-Arteris.png?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-2-NoC-tiling-Arteris.png?w=993 993w, https://www.edn.com/wp-content/uploads/Fig-2-NoC-tiling-Arteris.png?w=1489 1489w" sizes="(max-width: 1639px) 100vw, 1639px" /><p>NoC tiling allows SoC architects to create modular, scalable designs by replicating soft tiles across the chip.</p>
+<img width="1639" height="1691" src="https://www.edn.com/wp-content/uploads/Fig-2-NoC-tiling-Arteris.png?fit=1639%2C1691" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Fig-2-NoC-tiling-Arteris.png?w=1639 1639w, https://www.edn.com/wp-content/uploads/Fig-2-NoC-tiling-Arteris.png?w=291 291w, https://www.edn.com/wp-content/uploads/Fig-2-NoC-tiling-Arteris.png?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-2-NoC-tiling-Arteris.png?w=993 993w, https://www.edn.com/wp-content/uploads/Fig-2-NoC-tiling-Arteris.png?w=1489 1489w" sizes="(max-width: 1639px) 100vw, 1639px" /><p>NoC tiling allows SoC architects to create modular, scalable designs by replicating soft tiles across the chip.</p>
 <p>The post <a href="https://www.edn.com/why-noc-tiling-matters-in-ai-centric-soc-designs/" data-wpel-link="internal">Why NoC tiling matters in AI-centric SoC designs</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

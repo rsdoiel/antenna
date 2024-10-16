@@ -1,11 +1,203 @@
 ---
 title: science and technology
-updated: 2024-10-15 17:51:29
+updated: 2024-10-16 07:22:17
 ---
 
 # science and technology
 
-(date: 2024-10-15 17:51:29)
+(date: 2024-10-16 07:22:17)
+
+---
+
+## Testing spacecraft material the Sandia way: Setting it on fire with mirrors
+
+date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
+
+<h4>Who said Archimedes&#39; death ray was a busted myth?</h4> <p>The future of the Mars Sample Return (MSR) mission may be uncertain, but don&#39;t tell that to boffins at Sandia National Laboratories that tested heat shield prototypes by blasting them with rays of focused sunlight so strong Archimedes would blush.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/16/testing_spacecraft_material_the_sandia/>
+
+---
+
+## ‘Quantum Memory’ Proves Exponentially Powerful
+
+date: 2024-10-16, from: Quanta Magazine
+
+Researchers are exploring new ways that quantum computers will be able to reveal the secrets of complex quantum systems.             <p>The post <a href="https://www.quantamagazine.org/quantum-memory-proves-exponentially-powerful-20241016/" target="_blank">‘Quantum Memory’ Proves Exponentially Powerful</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/quantum-memory-proves-exponentially-powerful-20241016/>
+
+---
+
+## Productivity suites, Exchange servers in path of Microsoft's end-of-support wave
+
+date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
+
+<h4>Less than a year to go – is your enterprise ready for the change?</h4> <p>Office and Exchange Server have joined Windows 10 in a march to obsolescence, with less than a year until support is cut for 2016 and 2019 versions.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/16/microsoft_end_of_support_wave_widens/>
+
+---
+
+## Christine Knudson Uses Earthly Experience to Study Martian Geology
+
+date: 2024-10-16, from: NASA breaking news
+
+Geologist Christine Knudson works with the Curiosity rover to explore Mars — from about 250 million miles away. 
+
+<br> 
+
+<https://www.nasa.gov/solar-system/christine-knudson-uses-earthly-experience-to-study-martian-geology/>
+
+---
+
+## Inexorable march of progress at SAP threatens to leave users behind
+
+date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
+
+<h4>AI hardly a hot topic with some customers calling for more innovation on-prem</h4> <p>Nearly a quarter of SAP users in its European heartlands say they cannot keep up with technological, social or economic advances.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/16/dsag_sap_innovation_survey/>
+
+---
+
+## Windows 7 finally checks out as POSReady 7 closes the till on an era
+
+date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
+
+<h4>Embedded versions live longer – including Windows 10 LTSC</h4> <p>Windows Embedded POSReady 7, the last supported version of Windows 7, has hit the end of the road nearly five years after the desktop edition.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/16/windows_7_eol/>
+
+---
+
+## Open-sourcing of WinAmp goes badly as owners delete entire repo
+
+date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
+
+<h4>As badly as the later development of WinAmp itself, really</h4> <p>The owners of WinAmp have just deleted their entire repo one month after uploading the source code to GitHub. Lots of source code, and quite possibly, not all of it theirs.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/16/opensourcing_of_winamp_goes_badly/>
+
+---
+
+## 'Newport would look like Dubai' if guy could dumpster dive for lost Bitcoin hard drive
+
+date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
+
+<h4>To Wales now, where crypto bro sues to be allowed to excavate landfill site</h4> <p>Last time we met 39-year-old James Howells from Newport, Wales, he was petitioning his local council to let him excavate a garbage dump in pursuit of a lost hard drive he believes holds the key to 7,500 Bitcoin. Now he is suing the authority to force its hand.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/16/wales_bitcoin_landfill_lawsuit/>
+
+---
+
+## NHS England warned about plans to extend Covid-era rules for patient data access
+
+date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
+
+<h4>Governance and public consultation need work before rule change goes ahead</h4> <p>A group overseeing UK health data sharing has advised the government not to expand legal rules allowing access to patient information introduced during the Covid pandemic until there has been further public consultation.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/16/nhs_england_covid_data_plans/>
+
+---
+
+## Openreach reveals latest locations facing the copper chop
+
+date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
+
+<h4>A reminder to get fiber (eventually) or get left behind</h4> <p>BT infrastructure arm Openreach has disclosed the latest exchange locations where it plans to stop selling phone and broadband services that use copper cabling as part of its ambition to get everyone on fiber.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/16/openreach_copper_stop_sell/>
+
+---
+
+## Internet Archive wobbles back online, with limited functionality
+
+date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
+
+<h4>DDoS detectives deduce Mirai used to do the deed, using home entertainment boxes in Korea, China, and Brazil</h4> <p>The Internet Archive has come back online, in slightly degraded mode, after repelling an October 9 DDoS attack and then succumbing to a raid on users&#39; data.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/16/internet_archive_recovery/>
+
+---
+
+## Google's memory safety plan includes rehab for unsafe languages
+
+date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
+
+<h4>Large C and C++ codebases will be around for the &#39;foreseeable future&#39;</h4> <p>Google has revealed that its approach to making programming code more memory safe involves both the adoption of memory safe languages and making unsafe languages more secure – to the extent that&#39;s possible.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/16/google_legacy_code/>
+
+---
+
+## IBM acquires Indian SaaS startup Prescinto to shine a light on renewable energy assets
+
+date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
+
+<h4>Also: Crypto-hub Binance helps Delhi police shut down solar power scam</h4> <p>IBM announced on Tuesday it has acquired Prescinto – a Bangalore-based provider of asset performance management software for renewable energy.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/16/ibm_aquires_prescinto/>
+
+---
+
+## WhatsApp may expose the OS you use to run it – which could expose you to crooks
+
+date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
+
+<h4>Messaging service creates persistent user IDs that have different qualities on each device</h4> <p>An analysis of Meta&#39;s WhatsApp messaging software reveals that it may expose which operating system a user is running, and their device setup information – including the number of linked devices.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/16/whatsapp_privacy_concerns/>
+
+---
+
+## AT&amp;T and Broadcom may settle VMware support case
+
+date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
+
+<h4>Fresh filing sees Broadcom admit it discounts deeply – music to the ears of all Virtzilla users coming off contract</h4> <p>AT&amp;T and Broadcom appear to be close to settling their legal dispute over the provision of support services for VMware software.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/16/att_broadcom_vmware_settlement_possible/>
+
+---
+
+## Asian tech ministers fear effective AI regulation will prove elusive
+
+date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
+
+<h4>New Zealand isn&#39;t bothering. Singapore fears harms are inevitable</h4> <p>At a conference in Singapore on Tuesday, ministers from around the world mused that they may have missed the chance to regulate AI effectively.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/16/ai_regulations_apac_ministerial_opinions/>
 
 ---
 
@@ -273,9 +465,9 @@ date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
 
 ---
 
-## Intel, AMD, team with tech titans for x86 ISA overhaul
+## Intel, AMD team with tech titans for x86 ISA overhaul
 
-date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
+date: 2024-10-15, updated: 2024-10-16, from: The Register (UK I.T. News)
 
 <h4>Linus Torvalds, Broadcom, Dell, HPE, and Lenovo on the list</h4> <p>The shape of the x86 instruction set architecture (ISA) is evolving. On Tuesday, Intel and AMD announced the formation of an ecosystem advisory group intended to drive greater consistency between the brands&#39; x86 implementations.…</p> 
 

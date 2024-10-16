@@ -1,11 +1,47 @@
 ---
 title: writing
-updated: 2024-10-15 17:51:30
+updated: 2024-10-16 07:22:18
 ---
 
 # writing
 
-(date: 2024-10-15 17:51:30)
+(date: 2024-10-16 07:22:18)
+
+---
+
+## The Oracle Mouths Off, Part 2
+
+date: 2024-10-16, from: Margaret Atwoods Substack
+
+Multiple-Choice Uproars: more blather about the U.S. Election. 
+
+<br> 
+
+<https://margaretatwood.substack.com/p/the-oracle-mouths-off-part-2>
+
+---
+
+## Who Represents You in the AI Copyright Lawsuits?
+
+date: 2024-10-16, from: Author's Union blog
+
+Sara Silverman is the author of The Bedwetter, a comedy memoir.  Richard Kadrey wrote Sandman Slim, a fantasy novel series. Christopher Golden, a supernatural thriller titled Ararat.  These authors might not seem to have much in common with an academic author who writes in history, physics, or chemistry. Or a journalist. Or a poet. Or, [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2024/10/16/who-represents-you-in-the-ai-copyright-lawsuits/>
+
+---
+
+## How to Describe Settings in Fiction
+
+date: 2024-10-16, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/how-to-describe-settings-in-fiction>
 
 ---
 

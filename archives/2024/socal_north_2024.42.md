@@ -1,11 +1,23 @@
 ---
 title: socal north
-updated: 2024-10-15 17:51:28
+updated: 2024-10-16 07:22:17
 ---
 
 # socal north
 
-(date: 2024-10-15 17:51:28)
+(date: 2024-10-16 07:22:17)
+
+---
+
+## The wife of an OC supervisor’s aide was hired for a $275,000 contract. The work was never turned in, county says
+
+date: 2024-10-16, updated: 2024-10-16, from: The LAist
+
+O.C. Supervisor Andrew Do told a mental health nonprofit based in Irvine to hire the woman, according to multiple people briefed on the contract. 
+
+<br> 
+
+<https://laist.com/news/politics/oc-supervisor-andrew-do-mind-oc-mental-health-contract>
 
 ---
 
@@ -35,7 +47,7 @@ A UCLA legal clinic is helping tribes rewrite constitutions, protect intellectua
 
 ## Measure LP: Local Public Schools Funding Authority facilities bond
 
-date: 2024-10-15, updated: 2024-10-15, from: The LAist
+date: 2024-10-15, updated: 2024-10-16, from: The LAist
 
 The Local Public Schools Funding Authority — yes, that's a real thing — is asking South Bay voters to approve an $89 million bond to support the Centinela Valley Union High School District through increased property taxes. 
 

@@ -1,11 +1,59 @@
 ---
 title: games
-updated: 2024-10-15 17:51:30
+updated: 2024-10-16 07:22:18
 ---
 
 # games
 
-(date: 2024-10-15 17:51:30)
+(date: 2024-10-16 07:22:18)
+
+---
+
+## A24 pivots from elevated horror to elevated cozy kid fantasy with Legend of Ochi
+
+date: 2024-10-16, updated: 2024-10-16, from: Polygon Website
+
+As genre enthusiasts continue to heal from the proliferation of the label “elevated horror” over the last decade, A24, which defined the made-up prestige subgenre with films like Hereditary and The Witch, is not looking back. The studio’s new movie The Legend of Ochi affirms the strategy — it’s pure fantasy, elevated only by a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/trailer/466053/a24-legend-of-ochi-trailer>
+
+---
+
+## ‘Magnetic Study’ Magnemite Timed Research and event guide in Pokémon Go
+
+date: 2024-10-16, updated: 2024-10-16, from: Polygon Website
+
+“Magnetic Study” is an electric-type focused event taking place in the “Max Out” season of Pokémon Go. Running Oct. 15-17, each day of the event has a unique bonus to take advantage of, as well as Timed Research focused around one of three Pokémon: Magnemite, Plusle, and Minun. These Pokémon can also be caught throughout [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/465770/magnetic-study-plusle-minun-magnemite-timed-research-event>
+
+---
+
+## The Halloween Countdown: 31 days of horror to watch
+
+date: 2024-10-16, updated: 2024-10-16, from: Polygon Website
+
+Do you feel that? That chill in the air, that tingling sensation at the back of your neck? It can only mean one thing. That’s right: Halloween season is once again upon us! Here at Polygon, we love horror. We cover it all year round, whether it’s ranking the scariest new releases of the year [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream>
+
+---
+
+## Call of Duty and StarCraft aren’t all that’s coming to Game Pass in the next few weeks
+
+date: 2024-10-16, updated: 2024-10-16, from: Polygon Website
+
+This is, arguably, the moment Microsoft’s $68.7 billion acquisition of Activision Blizzard finally bears fruit for Game Pass subscribers. Beyond Diablo 4, few Activision Blizzard titles have made it to the service yet, but the next few weeks will see the day-one addition of Call of Duty: Black Ops 6, plus a major jewel of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/466033/xbox-game-pass-october-games-new>
 
 ---
 

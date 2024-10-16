@@ -1,31 +1,19 @@
 ---
 title: weather
-updated: 2024-10-15 17:51:30
+updated: 2024-10-16 07:22:18
 ---
 
 # weather
 
-(date: 2024-10-15 17:51:30)
+(date: 2024-10-16 07:22:18)
 
 ---
 
-## SPC - No MDs are in effect as of Wed Oct 16 00:35:01 UTC 2024
+## SPC - No watches are valid as of Wed Oct 16 13:26:02 UTC 2024
 
 date: 2024-10-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Wed Oct 16 00:35:01 UTC 2024. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
-
----
-
-## SPC - No watches are valid as of Wed Oct 16 00:35:01 UTC 2024
-
-date: 2024-10-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Wed Oct 16 00:35:01 UTC 2024. 
+No watches are valid as of Wed Oct 16 13:26:02 UTC 2024. 
 
 <br> 
 
@@ -33,11 +21,82 @@ No watches are valid as of Wed Oct 16 00:35:01 UTC 2024.
 
 ---
 
+## SPC - No MDs are in effect as of Wed Oct 16 13:26:02 UTC 2024
+
+date: 2024-10-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Wed Oct 16 13:26:02 UTC 2024. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Oct 16, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-10-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0713 AM CDT Wed Oct 16 2024
+
+Valid 161300Z - 171200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Organized severe thunderstorms are not currently expected on
+Wednesday.
+
+...Synopsis/Discussion...
+In mid/upper levels, a highly amplified, yet still quite progressive
+pattern will persist through the period over the CONUS.  A leading
+synoptic trough was initially positioned from a low near Anticosti
+Island in the Gulf of St. Lawrence, southwestward across New
+England, the near-coastal Mid-Atlantic region, and the southern
+Appalachians, to parts of AR and eastern OK.  The southern
+Appalachian part of the trough is expected to consolidate into a
+closed cyclone as it moves eastward across the Carolinas and VA,
+with a well-defined 500-mb low expected over the Outer Banks
+vicinity by 12Z tomorrow.  However, associated surface frontal-wave
+cyclogenesis and related elevated thunder potential in the wrapping
+conveyor both should remain offshore.  The trailing cold front --
+analyzed at 11Z from central FL across the north-central Gulf to
+near CRP and across south-central TX -- will support isolated
+thunderstorm potential today over parts of south FL and deep south
+TX before moving south of both areas. 
+
+Meanwhile, a synoptic-scale trough -- with several embedded small
+shortwaves/vorticity lobes -- is apparent in moisture-channel
+imagery from the AK Panhandle south-southeastward, just offshore of
+and parallel to the CONUS Pacific Coast. As these features move
+ashore today, preceded by several other vorticity lobes, height
+falls and colder air aloft will spread inland, steepening midlevel
+lapse rates atop marginal low/middle-level moisture over parts of
+the Pacific Northwest and a broad area of the Intermountain West/
+Great Basin, with low-level warm advection and diabatic heating also
+aiding instability in the interior swath.  Isolated thunderstorms
+should result.
+
+..Edwards/Goss.. 10/16/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
 ## There are no tropical cyclones at this time.
 
-date: 2024-10-15, from: Eastern Pacific Basin GIS Data
+date: 2024-10-16, from: Eastern Pacific Basin GIS Data
 
-No tropical cyclones as of Tue, 15 Oct 2024 23:25:19 GMT 
+No tropical cyclones as of Wed, 16 Oct 2024 11:49:13 GMT 
 
 <br> 
 
@@ -47,7 +106,7 @@ No tropical cyclones as of Tue, 15 Oct 2024 23:25:19 GMT
 
 ## NHC Atlantic Outlook
 
-date: 2024-10-15, from: Graphical Tropical Weather Outlooks
+date: 2024-10-16, from: Graphical Tropical Weather Outlooks
 
 
 <br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
@@ -56,9 +115,9 @@ date: 2024-10-15, from: Graphical Tropical Weather Outlooks
 <img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
 <br /><br />
 <div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 PM EDT Tue Oct 15 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>1. Central Tropical Atlantic (AL94):<br>An area of low pressure located over the central tropical Atlantic <br>is producing disorganized showers and thunderstorms. This system is <br>forecast to move generally westward to west-northwestward, and <br>environmental conditions appear marginally conducive for gradual <br>development by the middle to latter part of this week. A tropical <br>depression could form as the system approaches or moves near the <br>Leeward Islands late this week.<br>* Formation chance through 48 hours...low...30 percent.<br>* Formation chance through 7 days...medium...50 percent.<br><br />
-2. Western Caribbean Sea:<br>Showers and thunderstorms in the southwestern Caribbean Sea are <br>associated with a broad area of low pressure. Some gradual <br>development is possible if the system stays over water while it <br>moves slowly northwestward towards Central America. Regardless of <br>development, locally heavy rainfall is possible across portions of <br>Central America later this week.<br>* Formation chance through 48 hours...low...10 percent.<br>* Formation chance through 7 days...low...20 percent.<br><br />
-<br>Forecaster Beven<br></div></div><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Wed Oct 16 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>1. Central Tropical Atlantic (AL94):<br>A broad area of low pressure located over the central tropical <br>Atlantic is producing disorganized showers and thunderstorms. This <br>system is forecast to move generally westward to west-northwestward, <br>and environmental conditions appear marginally conducive for gradual <br>development during the latter part of this week. A tropical <br>depression could form as the system moves near the Leeward and <br>Virgin Islands late this week.<br>* Formation chance through 48 hours...low...30 percent.<br>* Formation chance through 7 days...medium...40 percent.<br><br />
+2. Western Caribbean Sea:<br>Showers and thunderstorms over the southwestern Caribbean Sea are <br>associated with a broad area of low pressure. Some gradual <br>development is possible if the system stays over water while it <br>moves slowly northwestward towards Central America. Regardless of <br>development, locally heavy rainfall is possible across portions of <br>Central America later this week.<br>* Formation chance through 48 hours...low...10 percent.<br>* Formation chance through 7 days...low...20 percent.<br><br />
+<br>Forecaster Bucci/R. Zelinsky<br></div></div><br />
  
 
 <br> 
@@ -69,24 +128,24 @@ ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS N
 
 ## Central North Pacific Tropical Weather Outlook
 
-date: 2024-10-15, from: Central Pacific Basin Tropical Cyclones
+date: 2024-10-16, from: Central Pacific Basin Tropical Cyclones
 
 
 <br/>
 000<br/>
-ACPN50 PHFO 152320<br/>
+ACPN50 PHFO 161130<br/>
 TWOCP <br/>
 <br/>
 Tropical Weather Outlook<br/>
 NWS Central Pacific Hurricane Center Honolulu HI<br/>
-200 PM HST Tue Oct 15 2024<br/>
+200 AM HST Wed Oct 16 2024<br/>
 <br/>
 For the central North Pacific...between 140W and 180W:<br/>
 <br/>
 No tropical cyclones are expected during the next 7 days.<br/>
 <br/>
 $$<br/>
-Forecaster JVC<br/>
+Forecaster Bohlin<br/>
  
 
 <br> 
@@ -97,9 +156,9 @@ Forecaster JVC<br/>
 
 ## There are no tropical cyclones at this time.
 
-date: 2024-10-15, from: Central Pacific Basin Tropical Cyclones
+date: 2024-10-16, from: Central Pacific Basin Tropical Cyclones
 
-No tropical cyclones as of Tue, 15 Oct 2024 23:25:19 GMT 
+No tropical cyclones as of Wed, 16 Oct 2024 11:49:13 GMT 
 
 <br> 
 
@@ -107,27 +166,27 @@ No tropical cyclones as of Tue, 15 Oct 2024 23:25:19 GMT
 
 ---
 
-## Eastern Pacific Tropical Weather Outlook
+## Eastern North Pacific Tropical Weather Outlook
 
-date: 2024-10-15, from: Eastern Pacific Tropical Weather Outlook
+date: 2024-10-16, from: Eastern Pacific Basin Tropical Cyclones
 
- <br />
- 130 <br />
- ABPZ20 KNHC 152312<br />
- TWOEP <br />
- <br />
- Tropical Weather Outlook<br />
- NWS National Hurricane Center Miami FL<br />
- 500 PM PDT Tue Oct 15 2024<br />
- <br />
- For the eastern North Pacific...east of 140 degrees west longitude:<br />
- <br />
- Tropical cyclone formation is not expected during the next 7 days.<br />
- <br />
- $$<br />
- Forecaster Hagen<br />
- <br />
-  
+
+<br/>
+000<br/>
+ABPZ20 KNHC 161114<br/>
+TWOEP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+500 AM PDT Wed Oct 16 2024<br/>
+<br/>
+For the eastern North Pacific...east of 140 degrees west longitude:<br/>
+<br/>
+Tropical cyclone formation is not expected during the next 7 days.<br/>
+<br/>
+$$<br/>
+Forecaster Cangialosi<br/>
+ 
 
 <br> 
 

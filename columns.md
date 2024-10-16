@@ -1,11 +1,138 @@
 ---
 title: columns
-updated: 2024-10-15 17:51:30
+updated: 2024-10-16 07:22:18
 ---
 
 # columns
 
-(date: 2024-10-15 17:51:30)
+(date: 2024-10-16 07:22:18)
+
+---
+
+##  &#8220;Flat-rate train ticket reduced Germany&#8217;s transport emissions by 5% in first year.&#8221;... 
+
+date: 2024-10-16, updated: 2024-10-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045455-flat-rate-train-ticket-re>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-16, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2022/09/21/mets.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://en.wikipedia.org/wiki/John_Gruber">Gruber</a> gave me an idea when he put his <a href="https://imgs.scripting.com/2024/10/16/daringFireballAndJankeesLogo.png">NYY logo</a> on his <a href="https://daringfireball.net/">blog</a>. I thought that was both interesting and weird. I don't get how anyone I know can be a fan of the Jankees. They're an American League team in a National League city. They may win the ALCS, but what does it mean? It's not going to make New York love them. But then Gruber is in Philadelphia. Why isn't he rooting for the Phillies, who btw, the Mets beat soundly in the division series, earlier this month. Hmmm. In any case, I have made the team picture of the 1969 world champion Mets as the banner image on Scripting News for now and into the forseeable future. 
+
+<br> 
+
+<http://scripting.com/2024/10/16.html#a141037>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-16, from: Dave Winer's Scripting News)
+
+BTW, I've been too busy to keep up with the <a href="https://this.how/podcast0/">Podcast0</a> feed. Not sure when I'll be able to pick it up again. 
+
+<br> 
+
+<http://scripting.com/2024/10/16.html#a140859>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-16, from: Dave Winer's Scripting News)
+
+<a href="https://www.threads.net/@davew/post/DBL-M0cpqvl">Threads</a> just added an <a href="https://www.threads.net/@threads/post/DBJxXDvRIUX">online status</a> feature, where it'll show your icon to others with a green dot if you're online. I turned it off. I don't see this as a social network, I see it as a two-way publishing medium. Big fundamental difference. My words speak for me here and on Threads. It's a strong argument in favor of "Follows" being the default algorithm, btw. 
+
+<br> 
+
+<http://scripting.com/2024/10/16.html#a134809>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-10-16, from: Miguel de Icaza Mastondon feed)
+
+<p>Good documentary on Facebook/Meta censoring content on Palestine:</p><p><a href="https://youtu.be/12btf2Oq820" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="">youtu.be/12btf2Oq820</span><span class="invisible"></span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113317214327790990>
+
+---
+
+## The Oracle Mouths Off, Part 2
+
+date: 2024-10-16, from: Margaret Atwood's substack
+
+Multiple-Choice Uproars: more blather about the U.S. Election. 
+
+<br> 
+
+<https://margaretatwood.substack.com/p/the-oracle-mouths-off-part-2>
+
+---
+
+## Windows 7 finally checks out as POSReady 7 closes the till on an era
+
+date: 2024-10-16, updated: 2024-10-16, from: Liam Proven's articles at the Register
+
+<h4>Embedded versions live longer – including Windows 10 LTSC</h4>
+      <p>Windows Embedded POSReady 7, the last supported version of Windows 7, has hit the end of the road nearly five years after the desktop edition.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/10/16/windows_7_eol/>
+
+---
+
+## Cheating at Conkers
+
+date: 2024-10-16, updated: 2024-10-16, from: Bruce Schneier blog
+
+<p>The men&#8217;s world conkers champion is accused of <a href="https://www.theguardian.com/sport/2024/oct/14/cheating-alleged-after-mens-world-conker-champion-found-with-steel-chestnut">cheating</a> with a steel chestnut.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/10/cheating-at-conkers.html>
+
+---
+
+## Open-sourcing of WinAmp goes badly as owners delete entire repo
+
+date: 2024-10-16, updated: 2024-10-16, from: Liam Proven's articles at the Register
+
+<h4>As badly as the later development of WinAmp itself, really</h4>
+      <p>The owners of WinAmp have just deleted their entire repo one month after uploading the source code to GitHub. Lots of source code, and quite possibly, not all of it theirs.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/10/16/opensourcing_of_winamp_goes_badly/>
+
+---
+
+## October 15, 2024 
+
+date: 2024-10-16, from: Heather Cox Richardson blog
+
+After Trump&#8217;s bizarre performance last night in Oaks, Pennsylvania, when he stopped taking questions and just swayed to his self-curated playlist for 39 minutes, his campaign this morning canceled a scheduled interview with CNBC&#8217;s Squawk Box, according to co-host of the show Joe Kernen. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/october-15-2024>
+
+---
+
+## Office Hours: How optimistic are you right now?
+
+date: 2024-10-16, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-how-optimistic-are-you>
 
 ---
 
@@ -61,7 +188,7 @@ date: 2024-10-15, updated: 2024-10-15, from: Jason Kittke's blog
 
 date: 2024-10-15, from: Doc Searls (at Harvard), New Old Blog
 
-This is from an email thread on the topic of digital identity, which is the twice-yearly subject of the Internet Identity Workshop, which is the most leveraged conference I know. It begins with a distinction that Devon Loffreto (who is in the thread) came up with many moons ago: Self-sovereign identity is who you are, [&#8230;] 
+This is from an email thread on the topic of digital identity, which is the twice-yearly subject* of the Internet Identity Workshop, the most leveraged conference I know. It begins with a distinction that Devon Loffreto (who is in the thread) came up with many moons ago: Self-sovereign identity is who you are, how you [&#8230;] 
 
 <br> 
 

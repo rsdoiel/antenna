@@ -1,11 +1,35 @@
 ---
 title: health
-updated: 2024-10-15 17:51:32
+updated: 2024-10-16 07:22:19
 ---
 
 # health
 
-(date: 2024-10-15 17:51:32)
+(date: 2024-10-16 07:22:19)
+
+---
+
+## Editorial: Intraspecies variability in apicomplexan parasites: epidemiology, traits and virulence
+
+date: 2024-10-16, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1497043>
+
+---
+
+## Epigallocatechin gallate protects mice from Salmonella enterica ser. Typhimurium infection by modulating bacterial virulence through quorum sensing inhibition
+
+date: 2024-10-16, from: Frontiers in Cellular and Infection Microbiology
+
+Salmonella enterica ser. Typhimurium is a common pathogen that poses a considerable public health threat, contributing to severe gastrointestinal diseases and widespread foodborne illnesses. The virulence of S. Typhimurium is regulated by quorum sensing (QS) and the type III secretion system (T3SS). This study investigated the inhibitory effects and anti-QS activity of epigallocatechin gallate (EGCG), which is a bioactive ingredient found in green tea, on the virulence of S. Typhimurium. In vitro bacterial experiments demonstrated that EGCG inhibited the production of autoinducers, biofilm formation, and flagellar activity by downregulating the expression of AI-1, AI-2, Salmonella pathogenicity islands (SPI)-1, SPI-2, and genes related to flagella, fimbriae, and curli fibers. In a mouse model of S. Typhimurium-induced enteritis, EGCG considerably reduced intestinal colonization by S. Typhimurium and alleviated intestinal damage. In conclusion, EGCG protects the intestines of mice infected with S. Typhimurium by inhibiting QS-induced virulence gene expression, demonstrating its potential as a therapeutic agent for controlling S. Typhimurium infections. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1432111>
 
 ---
 

@@ -1,11 +1,208 @@
 ---
 title: home
-updated: 2024-10-15 17:51:31
+updated: 2024-10-16 07:22:18
 ---
 
 # home
 
-(date: 2024-10-15 17:51:31)
+(date: 2024-10-16 07:22:18)
+
+---
+
+## Digital Edition: Fall 2024
+
+date: 2024-10-16, from: Edible San Fernando Valley
+
+<p>The post <a href="https://www.ediblesfvalley.com/digital-edition/digital-edition-fall-2024/">Digital Edition: Fall 2024</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/digital-edition/digital-edition-fall-2024/?utm_source=rss&utm_medium=rss&utm_campaign=digital-edition-fall-2024>
+
+---
+
+## Grilled Polenta Cakes with Pomegranate Sauce
+
+date: 2024-10-16, from: Edible San Fernando Valley
+
+<p>Serve these savory polenta cakes with their alluringly tangy sauce as an appetizer, side dish or light meal</p>
+<p>The post <a href="https://www.ediblesfvalley.com/recipes/grilled-polenta-cakes-with-pomegranate-sauce/">Grilled Polenta Cakes with Pomegranate Sauce</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/recipes/grilled-polenta-cakes-with-pomegranate-sauce/?utm_source=rss&utm_medium=rss&utm_campaign=grilled-polenta-cakes-with-pomegranate-sauce>
+
+---
+
+## Hungry to Learn: Students thrive on Chef Trinidad Silva’s mission as they prepare for culinary careers
+
+date: 2024-10-16, from: Edible San Fernando Valley
+
+<p>Childhood memories of the kitchen can be profound.</p>
+<p>The post <a href="https://www.ediblesfvalley.com/experience/hungry-to-learn-students-thrive-on-chef-trinidad-silvas-mission-as-they-prepare-for-culinary-careers/">Hungry to Learn: Students thrive on Chef Trinidad Silva’s mission as they prepare for culinary careers</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/experience/hungry-to-learn-students-thrive-on-chef-trinidad-silvas-mission-as-they-prepare-for-culinary-careers/?utm_source=rss&utm_medium=rss&utm_campaign=hungry-to-learn-students-thrive-on-chef-trinidad-silvas-mission-as-they-prepare-for-culinary-careers>
+
+---
+
+## Across the Board: CharcuterieLA spotlights farmers’ market friends
+
+date: 2024-10-16, from: Edible San Fernando Valley
+
+<p>Svetlana (Lala) Safir-Steele is on a mission to meet and find inspiration from local farmers. </p>
+<p>The post <a href="https://www.ediblesfvalley.com/eat/across-the-board-charcuteriela-spotlights-farmers-market-friends/">Across the Board: CharcuterieLA spotlights farmers’ market friends</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/eat/across-the-board-charcuteriela-spotlights-farmers-market-friends/?utm_source=rss&utm_medium=rss&utm_campaign=across-the-board-charcuteriela-spotlights-farmers-market-friends>
+
+---
+
+## Certifiable: Make Your Urban Garden a Wildlife Sanctuary
+
+date: 2024-10-16, from: Edible San Fernando Valley
+
+<p>The number one threat to wildlife worldwide is a loss of habitat,</p>
+<p>The post <a href="https://www.ediblesfvalley.com/fall-2024/certifiable-make-your-urban-garden-a-wildlife-sanctuary/">Certifiable: Make Your Urban Garden a Wildlife Sanctuary</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/fall-2024/certifiable-make-your-urban-garden-a-wildlife-sanctuary/?utm_source=rss&utm_medium=rss&utm_campaign=certifiable-make-your-urban-garden-a-wildlife-sanctuary>
+
+---
+
+## In Issue #9: Fall 2024 – Global Community
+
+date: 2024-10-16, from: Edible San Fernando Valley
+
+<p>If you’d asked me about bees when I was a kid, I would have given you a much different answer than I would today. </p>
+<p>The post <a href="https://www.ediblesfvalley.com/explore/in-issue-9-fall-2024-global-community/">In Issue #9: Fall 2024 &#8211; Global Community</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/explore/in-issue-9-fall-2024-global-community/?utm_source=rss&utm_medium=rss&utm_campaign=in-issue-9-fall-2024-global-community>
+
+---
+
+## 21 Ways to Move More for Your Holiday Meal
+
+date: 2024-10-16, from: Edible San Fernando Valley
+
+<p>During the holidays, turkey trots aren’t the only way to put those extra calories to use. Let your holiday meal move you!</p>
+<p>The post <a href="https://www.ediblesfvalley.com/eat/21-ways-to-move-more-for-your-holiday-meal/">21 Ways to Move More for Your Holiday Meal</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/eat/21-ways-to-move-more-for-your-holiday-meal/?utm_source=rss&utm_medium=rss&utm_campaign=21-ways-to-move-more-for-your-holiday-meal>
+
+---
+
+## Edible Jewels: Pomegranates add zing to earthy flavors of fall
+
+date: 2024-10-16, from: Edible San Fernando Valley
+
+<p>It is the vibrant flavor of this amazing fruit that brings me back to pomegranates for my fall recipes, time after time. </p>
+<p>The post <a href="https://www.ediblesfvalley.com/fall-2024/edible-jewels-pomegranates-add-zing-to-earthy-flavors-of-fall/">Edible Jewels: Pomegranates add zing to earthy flavors of fall</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/fall-2024/edible-jewels-pomegranates-add-zing-to-earthy-flavors-of-fall/?utm_source=rss&utm_medium=rss&utm_campaign=edible-jewels-pomegranates-add-zing-to-earthy-flavors-of-fall>
+
+---
+
+## Chocolate Bread Pudding with Pomegranate-Orange Butter
+
+date: 2024-10-16, from: Edible San Fernando Valley
+
+<p>For me, nothing screams fall like bread pudding. </p>
+<p>The post <a href="https://www.ediblesfvalley.com/fall-2024/chocolate-bread-pudding-with-pomegranate-orange-butter/">Chocolate Bread Pudding with Pomegranate-Orange Butter</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/fall-2024/chocolate-bread-pudding-with-pomegranate-orange-butter/?utm_source=rss&utm_medium=rss&utm_campaign=chocolate-bread-pudding-with-pomegranate-orange-butter>
+
+---
+
+## Playful Fall Salad
+
+date: 2024-10-16, from: Edible San Fernando Valley
+
+<p>The post <a href="https://www.ediblesfvalley.com/fall-2024/playful-fall-salad/">Playful Fall Salad</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/fall-2024/playful-fall-salad/?utm_source=rss&utm_medium=rss&utm_campaign=playful-fall-salad>
+
+---
+
+## Toyota Recalls Over 42,000 Cars Over Brake Issue That Could Cause Crashes
+
+date: 2024-10-16, from: Family Handyman Blog
+
+<p>Toyota just announced an important recall. If you're an owner, act now to ensure your safety.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/toyota-corolla-cross-hybrid-recall/">Toyota Recalls Over 42,000 Cars Over Brake Issue That Could Cause Crashes</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/toyota-corolla-cross-hybrid-recall/>
+
+---
+
+## Ultimate Maranta Prayer Plant Care and Growth Tips
+
+date: 2024-10-16, from: Yard Life blog
+
+<p>The Maranta Prayer Plant (Maranta leuconeura), a beloved tropical houseplant, is admired for its unique foliage and fascinating habit of ... </p>
+<p class="read-more-container"><a title="Ultimate Maranta Prayer Plant Care and Growth Tips" class="read-more button" href="https://ownyardlife.com/ultimate-maranta-prayer-plant-care-and-growth-tips/#more-20783" aria-label="Read more about Ultimate Maranta Prayer Plant Care and Growth Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/ultimate-maranta-prayer-plant-care-and-growth-tips/">Ultimate Maranta Prayer Plant Care and Growth Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/ultimate-maranta-prayer-plant-care-and-growth-tips/>
+
+---
+
+## Azalea Tree Care and Growing Guide for Outdoors (Most Detailed)
+
+date: 2024-10-16, from: Yard Life blog
+
+<p>Azalea trees, known for their stunning blooms and captivating colors, are a beloved choice among gardeners. Their ability to thrive ... </p>
+<p class="read-more-container"><a title="Azalea Tree Care and Growing Guide for Outdoors (Most Detailed)" class="read-more button" href="https://ownyardlife.com/azalea-tree-care-and-growing-guide-most-detailed/#more-20771" aria-label="Read more about Azalea Tree Care and Growing Guide for Outdoors (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/azalea-tree-care-and-growing-guide-most-detailed/">Azalea Tree Care and Growing Guide for Outdoors (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/azalea-tree-care-and-growing-guide-most-detailed/>
+
+---
+
+## In-Depth Nanouk Plant Care and Cultivation Guide
+
+date: 2024-10-16, from: Yard Life blog
+
+<p>If you&#8217;re looking to add a splash of color and unique beauty to your indoor plant collection, Tradescantia &#x2018;Nanouk&#x2019; might ... </p>
+<p class="read-more-container"><a title="In-Depth Nanouk Plant Care and Cultivation Guide" class="read-more button" href="https://ownyardlife.com/in-depth-nanouk-plant-care-and-cultivation-guide/#more-20763" aria-label="Read more about In-Depth Nanouk Plant Care and Cultivation Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/in-depth-nanouk-plant-care-and-cultivation-guide/">In-Depth Nanouk Plant Care and Cultivation Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/in-depth-nanouk-plant-care-and-cultivation-guide/>
 
 ---
 
@@ -34,6 +231,18 @@ date: 2024-10-15, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/kizik-boots/>
+
+---
+
+## Interior Designers Say These TV Shows Have the Best Decor Moments
+
+date: 2024-10-15, from: Sunset Magazine - Living in the West
+
+These TV shows not only have binge-worthy plots, but they also have the most stunning interior design. Designers share their favorites. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/tv-shows-with-best-interior-design>
 
 ---
 
@@ -97,6 +306,18 @@ date: 2024-10-15, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/billy-joel-mansion-for-sale-property-taxes/>
+
+---
+
+## This Historic Hot Spring Just Got a Major Glow up and It Will Instantly Melt Away Stress
+
+date: 2024-10-15, from: Sunset Magazine - Living in the West
+
+The historic Murrieta Hot Springs resort is perfect as a home base for a visit to wine country in Temecula Valley. 
+
+<br> 
+
+<https://www.sunset.com/travel/hotels/murrieta-hot-springs-renovation>
 
 ---
 

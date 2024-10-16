@@ -1,11 +1,228 @@
 ---
 title: journalism
-updated: 2024-10-15 17:51:30
+updated: 2024-10-16 07:22:18
 ---
 
 # journalism
 
-(date: 2024-10-15 17:51:30)
+(date: 2024-10-16 07:22:18)
+
+---
+
+## COC shines a light on the subject of student suicide prevention.
+
+date: 2024-10-16, from: The Canyon News (COC Student Newspaper)
+
+<p>You see before you an endless sea of empty chairs. They represent&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/coc-shines-a-light-on-the-subject-of-student-suicide-prevention/">COC shines a light on the subject of student suicide prevention.</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/coc-shines-a-light-on-the-subject-of-student-suicide-prevention/>
+
+---
+
+## Press Forward awards $20 million to 205 small local newsrooms
+
+date: 2024-10-16, from: Nieman Journalism Lab
+
+Press Forward, the philanthropic coalition with a mission to inject at least $500 million into local news over five years, announced $20 million in grants to 205 small local newsrooms across the United States on Wednesday. These grants, which mostly provide $100,000 in general operating support over two years, were reserved for some of the... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/10/press-forward-awards-20-million-to-205-small-local-newsrooms/>
+
+---
+
+## UCLA football seeks to develop discipline, find wins as half of season remains
+
+date: 2024-10-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+A football game doesn&#8217;t come down to tucked shirts and timely attendance.
+But these mundane facets take small steps in surmounting the Bruins&#8217; larger hurdle: a lack of discipline. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/16/ucla-football-seeks-to-develop-discipline-find-wins-as-half-of-season-remains/>
+
+---
+
+## Ceramics club hit by suspected theft of student-funded art, supplies
+
+date: 2024-10-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+When UCLA Ceramics Club president Jade Wong opened the club&#8217;s ASUCLA storage locker Sept. 30, she found it empty. 
+The missing materials and equipment &#8211; all purchased with student funds &#8211; included handmade art pieces, how-to guides for workshops and glazing supplies. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/16/ceramics-club-hit-by-suspected-theft-of-student-funded-art-supplies/>
+
+---
+
+## California lawmakers reintroduce Basic Assistance for Students in College Act
+
+date: 2024-10-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Two Democratic Californian legislators reintroduced a bill designed to target the basic needs crisis among students in higher education Sept. 18. 
+The Basic Assistance for Students in College Act &#8211; which Democrats first introduced in June 2021 &#8211; would create a $1 billion grant program for higher education institutions to provide funds for research and address food, housing, health care, child care, technology and transportation needs, according to a press release from Senator Alex Padilla, one of the people who introduced the bill. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/16/california-lawmakers-reintroduce-basic-assistance-for-students-in-college-act/>
+
+---
+
+## Classifieds – October 16, 2024
+
+date: 2024-10-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/16/classifieds-october-16-2024/">Classifieds &#8211; October 16, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/16/classifieds-october-16-2024/>
+
+---
+
+## USC collaborates with Big Ten schools to donate blood
+
+date: 2024-10-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Fans, faculty and students have given enough blood to save over 12,000 lives.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/16/usc-collaborates-with-big-ten-schools-to-donate-blood/">USC collaborates with Big Ten schools to donate blood</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/16/usc-collaborates-with-big-ten-schools-to-donate-blood/>
+
+---
+
+## Bailey Thomas boasts as USC’s premier bassist
+
+date: 2024-10-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The second-year is the most sought-after supporting bassist on USC campus.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/16/bailey-thomas-boasts-as-uscs-premier-bassist/">Bailey Thomas boasts as USC’s premier bassist</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/16/bailey-thomas-boasts-as-uscs-premier-bassist/>
+
+---
+
+## USG senate reallocates funds, discusses future
+
+date: 2024-10-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Office of Student Basic Needs was granted $54,000 following the bill’s approval.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/16/usg-senate-reallocates-funds-discusses-future/">USG senate reallocates funds, discusses future</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/16/usg-senate-reallocates-funds-discusses-future/>
+
+---
+
+## VOCA cuts pose devastating impact to survivors
+
+date: 2024-10-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Unsustainable federal grant inhibits access to help for sexual violence survivors.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/16/voca-cuts-pose-devastating-impact-to-survivors/">VOCA cuts pose devastating impact to survivors</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/16/voca-cuts-pose-devastating-impact-to-survivors/>
+
+---
+
+## NASCAR needs to make some serious changes
+
+date: 2024-10-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Teams are challenging the series’ charter system in hopes of change.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/16/nascar-needs-to-make-some-serious-changes/">NASCAR needs to make some serious changes</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/16/nascar-needs-to-make-some-serious-changes/>
+
+---
+
+## Men’s water polo gears up for pivotal homestand
+
+date: 2024-10-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans will face No.  11 Princeton, No. 2 UCLA in home battes at Uytengsu.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/16/mens-water-polo-gears-up-for-pivotal-homestand/">Men’s water polo gears up for pivotal homestand</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/16/mens-water-polo-gears-up-for-pivotal-homestand/>
+
+---
+
+## You can’t separate yourself from your company
+
+date: 2024-10-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Corporate apathy breeds cognitive dissonance for its incoming professionals.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/16/you-cant-separate-yourself-from-your-company/">You can’t separate yourself from your company</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/16/you-cant-separate-yourself-from-your-company/>
+
+---
+
+## UCLA cinema, media studies program challenges classical view of science fiction
+
+date: 2024-10-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+International science fiction filmmakers, often sidelined by Hollywood, are shining brightly at UCLA.
+The UCLA Film &#38; Television Archive and the UCLA School of Theater, Film and Television&#8217;s cinema and media studies program debuted their long-awaited film series &#8220;Science Fiction Against the Margins&#8221; on Oct. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/15/ucla-cinema-media-studies-program-challenges-classical-view-of-science-fiction/>
+
+---
+
+## Researchers identify gene crucial to blood stem cell regulation, growth
+
+date: 2024-10-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA researchers have found a gene that may have implications for treating blood-related genetic diseases and cancers. 
+All types of blood cells come from blood stem cells, said J&#250;lia Aguad&#233;-Gorgori&#243;, the first author of the paper that presented the findings and a former assistant project scientist. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/15/researchers-identify-gene-crucial-to-blood-stem-cell-regulation-growth/>
+
+---
+
+## It is the beginning of a new era for Old Orchard Park
+
+date: 2024-10-16, from: The Canyon News (COC Student Newspaper)
+
+<p>Major upgrades are planned for Santa Clarita&#8217;s Old Orchard Park to update&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/it-is-the-beginning-of-a-new-era-for-old-orchard-park/">It is the beginning of a new era for Old Orchard Park</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/it-is-the-beginning-of-a-new-era-for-old-orchard-park/>
 
 ---
 
@@ -26,8 +243,8 @@ With just 27 seconds left in the game, UCLA gave up a touchdown to the Minnesota
 
 date: 2024-10-15, from: The Daily Bruin (UCLA Student Newspaper)
 
-The Undergraduate Students Association Council unanimously passed a resolution Oct. 1 condemning the UC Board of Regents’ allocation of drones and less-than-lethal weapons to UCPD.
-The resolution, primarily sponsored by General Representative Tommy Contreras, criticizes the regents’ passage of Item C1 during their Sept. 
+This post was updated Oct. 16 at 12:49 a.m.
+The Undergraduate Students Association Council unanimously passed a resolution Oct. 1 condemning the UC Board of Regents’ allocation of drones and less-than-lethal weapons to UCPD. 
 
 <br> 
 
@@ -39,6 +256,7 @@ The resolution, primarily sponsored by General Representative Tommy Contreras, c
 
 date: 2024-10-15, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Oct. 15 at 9:25 p.m.</em>
 October is Bruin Earthquake Awareness Month, and in the case of an unexpected natural disaster, there is no question that practice and preparation can save lives. 
 
 <br> 
@@ -281,12 +499,12 @@ date: 2024-10-15, from: The Daily Bruin (UCLA Student Newspaper)
 
 ---
 
-## The 21st Annual Duck Dash looked to make a splash for local familys in need
+## The 21st Annual Duck Dash looked to make a splash for local families in need
 
 date: 2024-10-15, from: The Canyon News (COC Student Newspaper)
 
 <p>In Santa Clarita&#8217;s triple-digit heat, the Samuel Dixon Family Health Center held&#8230;</p>
-<p>The post <a href="https://canyonsnews.com/the-21st-annual-duck-dash-looked-to-make-splash-for-local-familys-in-need/">The 21st Annual Duck Dash looked to make a splash for local familys in need</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+<p>The post <a href="https://canyonsnews.com/the-21st-annual-duck-dash-looked-to-make-splash-for-local-familys-in-need/">The 21st Annual Duck Dash looked to make a splash for local families in need</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
  
 
 <br> 
@@ -299,8 +517,8 @@ date: 2024-10-15, from: The Canyon News (COC Student Newspaper)
 
 date: 2024-10-15, from: The Daily Bruin (UCLA Student Newspaper)
 
-Drake Chang, UCLA&#8217;s chief information security officer, sat down with Daily Bruin contributor Catherine Wang to discuss his team&#8217;s October campaign for Cybersecurity Awareness Month.
-Chang began as a technology analyst for UCLA Humanities in 2011 and was appointed chief information security officer in January, witnessing many changes in the cybersecurity landscape at UCLA. 
+<em>This post was updated Oct. 16 at 12:17 a.m.</em>
+Drake Chang, UCLA’s chief information security officer, sat down with Daily Bruin contributor Catherine Wang to discuss his team’s October campaign for Cybersecurity Awareness Month. 
 
 <br> 
 
@@ -324,8 +542,8 @@ College is for open and civilized debate, not threats and intimidation. In an er
 
 date: 2024-10-15, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Oct. 15 at 12:21 p.m.</em>
-After commemorating the weekend with two wins, the Bruins continue their renewed winning streak.
+<em>This post was updated Oct. 16 at 12:43 a.m.</em>
+After commemorating the weekend with two wins, the Bruins renewed their winning streak.
 No. 2 UCLA men&#8217;s water polo (16-1, 1-1 MPSF) secured two wins this weekend, first claiming an 18-12 victory against No. 
 
 <br> 
@@ -334,11 +552,12 @@ No. 2 UCLA men&#8217;s water polo (16-1, 1-1 MPSF) secured two wins this weekend
 
 ---
 
-## UCLA women’s soccer leaves away double-header with six points after Illinois win
+## UCLA women’s soccer extends winning streak with victory against Illinois
 
 date: 2024-10-14, from: The Daily Bruin (UCLA Student Newspaper)
 
-The &#8220;Sunday scaries&#8221; following an away double-header can prove difficult for teams.
+<em>This post was updated Oct. 16 at 12:57 a.m.</em>
+The “Sunday scaries” of a pair of away matches can prove difficult for teams.
 But after a season filled with away matches like that of this past weekend, the Bruins were prepared to round out their last road trip of the season. 
 
 <br> 
@@ -364,8 +583,9 @@ Bruinbard&#8217;s &#8220;Julius Caesar&#8221; is set to debut with two shows Nov
 
 date: 2024-10-14, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Oct. 16 at 12:46 a.m.</em>
 The crosstown rivals teetered for control like a seesaw.
-Just as one end begins to rise, the other one lowers &#8211; ultimately, the ends seem to switch sides. 
+Just as one end begins to rise, the other one lowers – ultimately, the ends seem to switch sides. 
 
 <br> 
 
@@ -373,12 +593,12 @@ Just as one end begins to rise, the other one lowers &#8211; ultimately, the end
 
 ---
 
-## The SCV celebrates Filipino American history month with a colorful festival.
+## The SCV celebrates Filipino American history month with a colorful festival
 
 date: 2024-10-14, from: The Canyon News (COC Student Newspaper)
 
 <p>It&#8217;s a celebration of vibrant colors, rhythmic beats, and deep-rooted traditions. At&#8230;</p>
-<p>The post <a href="https://canyonsnews.com/the-scv-celebrates-filipino-american-history-month-with-a-colorful-festival/">The SCV celebrates Filipino American history month with a colorful festival.</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+<p>The post <a href="https://canyonsnews.com/the-scv-celebrates-filipino-american-history-month-with-a-colorful-festival/">The SCV celebrates Filipino American history month with a colorful festival</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
  
 
 <br> 

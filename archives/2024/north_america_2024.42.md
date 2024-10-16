@@ -1,11 +1,641 @@
 ---
 title: north america
-updated: 2024-10-15 17:51:28
+updated: 2024-10-16 07:22:16
 ---
 
 # north america
 
-(date: 2024-10-15 17:51:28)
+(date: 2024-10-16 07:22:16)
+
+---
+
+## Growing number of young women say abortion rights top election issue
+
+date: 2024-10-16, from: VOA News USA
+
+Since the U.S. Supreme Court sent the issue of abortion back to the states in 2022, Democrats have mobilized to protect abortion rights while Republicans have worked to restrict the procedure on religious and moral grounds. The issue is motivating voters to go to the polls this election year. VOA Congressional Correspondent Katherine Gypson has more from Nevada. Videographer: Mary Cieslak 
+
+<br> 
+
+<https://www.voanews.com/a/growing-number-of-young-women-say-abortion-rights-top-election-issue/7824329.html>
+
+---
+
+## Welcome to the Age of Electricity
+
+date: 2024-10-16, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MzgyMjY2OC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2ODkwNTA3OX0.s43oZVwCc1YquRNRsE0ELGXNpaTMk8nStcdM1r1M0dI/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>
+<em><strong>Current conditions:</strong> Snow is falling in the mountains of North Carolina, where many are still without power • Severe weather warnings are in effect for nearly half of Australia • A coral bleaching alert has been <a href="https://coralreefwatch.noaa.gov/product/5km/index_5km_baa-max-7d.php?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9uk4HFGH46TS8eG6EMttpYjKoW_lSGf-eEZJ1zD49a8hEuleFN0HV0KiUg6yOprhsHskkB" rel="noopener noreferrer" target="_blank">issued</a> for the eastern Caribbean, where the coral face a risk of “near complete mortality” due to high ocean temperatures.</em>
+</p><h2>THE TOP FIVE</h2><h3>
+1. IEA: The ‘Age of Electricity’ is upon us
+</h3><p>
+	The world is entering the “Age of Electricity,” with low-emission energy sources on track to generate more than half of the world’s electricity by the end of the decade, according to the International Energy Agency’s new <a href="https://www.iea.org/reports/world-energy-outlook-2024?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9uk4HFGH46TS8eG6EMttpYjKoW_lSGf-eEZJ1zD49a8hEuleFN0HV0KiUg6yOprhsHskkB" rel="noopener noreferrer" target="_blank">World Energy Outlook</a>. The report examines how the energy transition would look in three different scenarios: following current energy and climate policies, fulfilling all announced climate commitments, and achieving net zero emissions by 2050. “The energy outlook is complex, multifaceted and defies a single view on how the future might unfold,” the report says. Some facts and figures:
+</p><ul>
+<li><strong>2</strong> – percent by which global energy demand rose in 2023. Two-thirds of that was met by fossil fuels. But under current policies, the energy demand growth rate would slow by about half by 2030.</li>
+<li><strong>2 trillion</strong> – dollars being invested in clean energy projects annually, “almost double the combined amount spent on new oil, gas, and coal supply.”</li>
+<li><strong>560</strong> – gigawatts of new renewable power capacity that came online in 2023, a record high.</li>
+<li><strong>60</strong> – percent of the world’s new renewables capacity that China accounted for last year. </li>
+<li><strong>200</strong> – clean energy trade measures introduced since 2020, up from 40 in the five years prior.</li>
+<li><strong>60</strong> – cents currently spent on grids and energy storage per $1 spent on renewables. Parity is expected in the 2040s.</li>
+<li><strong>750 million</strong> – people lacking access to electricity, mostly in sub-Saharan Africa. “Lack of access to energy remains the most fundamental inequity in today’s energy system.”</li>
+<li><strong>2.4 </strong>– degrees Celsius by which the world is on track to warm by 2100 under current policies.</li>
+</ul><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="ed91fda7e488759853c5abfc071c340a" data-rm-shortcode-name="rebelmouse-image" id="3800f" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MzgyMjY3My9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc0ODE3MzQ0NX0.icgJzspAGGrwWeYdYL4kAC2cKg4W8qaqAorZ-eix5js/image.png?width=980"/>
+<small class="image-media media-caption" placeholder="Add Photo Caption...">Global energy-related CO2 emissions in different scenarios.</small><small class="image-media media-photo-credit" placeholder="Add Photo Credit...">IEA</small>
+</p><h3>2. IEA report puts data center power demand into context</h3><p>
+	The IEA’s report says the world should certainly be concerned about rising electricity demand overall, but it also conveys that perhaps we should all just calm down when it comes to data center load growth driven by the rise of generative artificial intelligence, <a href="https://heatmap.news/technology/iea-world-energy-outlook-2024?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9uk4HFGH46TS8eG6EMttpYjKoW_lSGf-eEZJ1zD49a8hEuleFN0HV0KiUg6yOprhsHskkB" rel="noopener" target="_self">wrote Heatmap’s Katie Brigham</a>. The report demonstrates that on a global scale, data centers are pretty trivial compared to, say, the uptick in electric vehicle adoption or increased demand for cooling. By 2030 in the base case scenario, the IEA projects that data centers will account for less than 10% of global electricity demand growth, which is roughly equal to demand growth from desalination technologies, which we see much less hand-wringing about. By comparison, the combination of rising temperatures and rising incomes could create over 1,200 terawatt-hours of additional cooling demand by 2035, more than the entire Middle East’s electricity use.
+</p><h3>3. Nearly 100 still missing in North Carolina</h3><p>
+	Ninety-two people are still missing in North Carolina after Hurricane Helene, Gov. Roy Cooper, <a href="https://www.nytimes.com/2024/10/15/us/hurricane-helene-north-carolina-missing-people.html?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9uk4HFGH46TS8eG6EMttpYjKoW_lSGf-eEZJ1zD49a8hEuleFN0HV0KiUg6yOprhsHskkB" rel="noopener noreferrer" target="_blank">said yesterday</a>. So far 95 storm-related deaths have been confirmed in the state, and thousands of people are still without power and other basic amenities. Nearly 600 roads are still closed, though this represents an improvement on the 1,200 that were closed immediately after the storm swept through the state three weeks ago. More than $99 million has been paid out in individual FEMA aid. Meanwhile, the U.S. Small Business Administration’s disaster loan program has been <a href="https://www.reuters.com/business/environment/us-disaster-loan-program-exhausts-funds-after-hurricane-helene-2024-10-15/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9uk4HFGH46TS8eG6EMttpYjKoW_lSGf-eEZJ1zD49a8hEuleFN0HV0KiUg6yOprhsHskkB" rel="noopener noreferrer" target="_blank">drained</a> of funds after Helene. “Until Congress appropriates additional funds, the SBA is pausing new loan offers for its direct, low-interest, long-term loans to disaster survivors,” the SBA <a href="https://www.sba.gov/article/2024/10/15/sba-exhausts-funds-new-disaster-loans?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9uk4HFGH46TS8eG6EMttpYjKoW_lSGf-eEZJ1zD49a8hEuleFN0HV0KiUg6yOprhsHskkB" rel="noopener noreferrer" target="_blank">said</a>. Congress is currently in recess, and won’t return until after the presidential election.
+</p><h3>4. U.S. power plant emissions declined in 2023 </h3><p>
+	Emissions from America’s power plants <a href="https://www.epa.gov/newsreleases/epa-releases-2023-data-collected-under-greenhouse-gas-reporting-program?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9uk4HFGH46TS8eG6EMttpYjKoW_lSGf-eEZJ1zD49a8hEuleFN0HV0KiUg6yOprhsHskkB" target="_blank">fell 7% last year</a> compared to 2022, according to the EPA’s annual <a href="https://www.epa.gov/ghgreporting/find-and-use-ghgrp-data?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9uk4HFGH46TS8eG6EMttpYjKoW_lSGf-eEZJ1zD49a8hEuleFN0HV0KiUg6yOprhsHskkB" rel="noopener noreferrer" target="_blank">Greenhouse Gas Reporting Program</a>. The analysis looks at reported emissions from more than 8,100 industrial facilities across the country. When compared to 2011 emissions from power plants, last year’s levels were 34% lower, “reflecting the long-term shifts in power sector fuel-stock from coal to natural gas.” On the flip side, emissions from oil and gas operations are rising. They were up 1.4% last year compared to 2022 and 16.4% on 2016 levels. For the <a href="https://insideclimatenews.org/news/16102024/alabama-coal-plant-top-greenhouse-gas-polluter-ninth-consecutive-year/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9uk4HFGH46TS8eG6EMttpYjKoW_lSGf-eEZJ1zD49a8hEuleFN0HV0KiUg6yOprhsHskkB" rel="noopener noreferrer" target="_blank">ninth year in a row</a>, Alabama Power’s James H. Miller Jr. Electric Generating Plant was the country’s largest single producer of greenhouse gas pollution in 2023.
+</p><h3>5. Honda Prologue sees surge in Q3 sales</h3><p>
+	Honda has surprised analysts with its remarkable Q3 EV sales. The Honda Prologue, which only entered the U.S. market this year, was the fifth best-selling EV in the country. More than 12,600 of the all-electric SUVs were sold in the last three months. “Honda has been seen as a huge EV laggard for several years,” <a href="https://cleantechnica.com/2024/10/15/honda-comes-from-nowhere-scores-big-ev-sales-in-usa/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9uk4HFGH46TS8eG6EMttpYjKoW_lSGf-eEZJ1zD49a8hEuleFN0HV0KiUg6yOprhsHskkB" rel="noopener noreferrer" target="_blank">wrote</a> Zachary Shahan at <em><em>CleanTechnica</em></em>. But its “reputation as a leader in fuel efficiency and hybrids made it an easy sell to get customers into its first serious full electric vehicle.” Patrick George at <em><em>Inside EVs</em></em> <a href="https://insideevs.com/news/737314/honda-prologue-sales-q3-2024/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9uk4HFGH46TS8eG6EMttpYjKoW_lSGf-eEZJ1zD49a8hEuleFN0HV0KiUg6yOprhsHskkB" rel="noopener noreferrer" target="_blank">agreed</a>: “This is a nice outcome for Honda's first modern EV, but perhaps it's not too surprising. American car buyers still tend to equate Honda and Toyota with being ‘green’ car companies since both were such pioneers in the hybrid arena.”
+</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="c978ffd1251a42455a894825b2e6385f" data-rm-shortcode-name="rebelmouse-image" id="884ed" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MzgyMjY3Ni9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTczMDk5NjExN30.DTzo0Cu3DOE_YJCD5qpQxQG8gLtuaOTAgMNp_dX2NzA/image.png?width=980"/>
+<small class="image-media media-photo-credit" placeholder="Add Photo Credit...">Honda</small>
+</p><h2>THE KICKER</h2><p>
+	Research <a href="https://www.cl.cam.ac.uk/~rja14/shb17/sander1.pdf?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9uk4HFGH46TS8eG6EMttpYjKoW_lSGf-eEZJ1zD49a8hEuleFN0HV0KiUg6yOprhsHskkB" rel="noopener noreferrer" target="_blank">suggests</a> that simply exposing people to climate change conspiracy theories can make them significantly less likely to believe the scientific community agrees that humans are causing climate change, and less likely to engage in pro-environmental behavior.
+</p> 
+
+<br> 
+
+<https://heatmap.news/climate/iea-world-energy-outlook-2024>
+
+---
+
+## US police urged to embrace prevention to head off mass shootings, attacks
+
+date: 2024-10-16, from: VOA News USA
+
+The U.S. agency charged with protecting the life of the president of the United States and other high-ranking officials wants state and local law enforcement to do more to stop potential threats from escalating into violence.
+
+
+And it is trying to show police agencies across the country exactly how to do it.
+
+
+The U.S. Secret Service's National Threat Assessment Center (NTAC) on Wednesday issued a new guide, encouraging law enforcement agencies to create specific units to address threatening behavior in cases where there are significant concerns, even though no laws have been broken.
+
+
+The guide specifically calls for police agencies to set up what NTAC calls behavioral threat assessment units that can assess potential dangers and then provide resources to make sure individuals get help before they resort to violence.
+
+
+"What our research has continuously found is that in many cases of mass violence or other forms of targeted violence, the attacker's behavior was witnessed by community bystanders, some of whom sought to report their concerns to public safety officials," said Lina Alathari, NTAC director, briefing reporters ahead of the guide's release.
+
+
+"Unfortunately, many communities lack the structured systems to receive, evaluate and respond to these reports in a way that would reduce the likelihood of a violent or tragic outcome," she said.
+
+
+NTAC's plea for law enforcement agencies to find ways to be more proactive is not new.
+
+
+A January 2023 report that analyzed 173 mass attacks carried out over a five-year period urged communities to make it easier for witnesses to report concerns and allow for earlier intervention from crisis counselors and social services.
+
+
+
+
+But the latest guidance comes as national security officials are bracing for potential violence.
+
+
+The Department of Homeland Security's 2025 annual threat assessment, issued last month, warned, "The terrorism threat environment in the United States over the next year will remain high.
+
+
+"The threat will continue to be characterized primarily by lone offenders or small cells motivated to violence by a combination of racial, religious, gender, or anti-government grievances; conspiracy theories; and personalized factors," it added.
+
+
+The Secret Service has itself responded to two unrelated attempts to assassinate former president and Republican presidential candidate Donald Trump, coming under criticism for its failure to prevent one of the would-be assassins from firing eight shots and injuring Trump before he was stopped. 
+
+
+
+
+Investigators in that case have said the now dead 20-year-old gunman had spent months researching assassinations and saw the former president as a "target of opportunity." 
+
+
+
+
+The new guide, issued Wednesday, aims to show police agencies how to spot warning signs more quickly and find ways to intervene.
+
+
+"We have seen historically that law enforcement in the United States may at times feel limited in what they can do when responding to reports of threats or other concerning behavior, particularly when that behavior does not involve criminal activity," said NTAC Assistant Chief Steven Driscoll.
+
+
+"This publication represents the most comprehensive guidance ever produced on how to adapt and operationalize the Secret Services Behavioral Threat Assessment model for use by state and local law enforcement agencies," he said.
+
+
+Some state law enforcement agencies have already adopted the Secret Service model.
+
+
+North Carolina's State Bureau of Investigation set up a behavioral analysis threat assessment unit following a 2018 shooting that killed 17 people in Parkland, Florida.
+
+
+
+
+The unit works with other state agencies and the state's university system to prevent potential attacks.
+
+
+The state of Hawaii has likewise created a team to intervene in cases of potential violence. And there is a similar program in Washington, the U.S. capital.
+
+
+"Behavioral threat assessment methodology has been proven effective in safeguarding community time and again," Driscoll said. "Prevention happens successfully every day, and thankfully, these are stories that we never hear about, when everybody goes home safely."
+
+
+As an example, Driscoll pointed to a 2021 NTAC study that looked at 67 incidents in which attacks on schools were averted due to students and community members reporting warning signs so authorities could intervene before anyone got hurt.
+
+
+Despite such successes, NTAC said it does not have any data on how many communities have behavioral threat assessment units. And officials worry that too many state and local law enforcement agencies lack access to programs that allow them to step in when a threat has been identified but no law has been broken.
+
+
+Some federal funding, though, is available.
+
+
+The U.S. Department of Homeland Security said it has awarded almost $90 million through its Targeted Violence and Terrorism Prevention Grant Program since 2020.
+
+
+And NTAC's Alathari said the specialized units can be effective, even when people and resources are scarce.
+
+
+"Behavioral assessment units are able to vary in size," she said in response to a question from VOA. "An agency with limited resources to establish this kind of unit could begin with just a single designated violence prevention officer who maintains the responsibility of gathering information, information to manage situations that might revolve around potential violence." 
+
+<br> 
+
+<https://www.voanews.com/a/us-police-urged-to-embrace-prevention-to-head-off-mass-shootings-attacks-/7824207.html>
+
+---
+
+## The case for (healthy) political disagreement
+
+date: 2024-10-16, from: Marketplace Morning Report
+
+<p>As part of our ongoing Office Politics series, we&#8217;ve heard the case for no political talk at work. Today, we&#8217;re joined by Michael Reszler of the Better Arguments to learn about healthier ways to disagree and to broach political discourse — in the workplace and beyond. We&#8217;ll also get a taste of the process. But first, banks are making a lot of money on investment banking. We&#8217;ll unpack.</p>
+ 
+
+<audio controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/16/mmr_20241016_MMR_2_64.mp3"></source>
+	<a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/16/mmr_20241016_MMR_2_64.mp3" target="_blank">audio/mpeg</a>
+</audio><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/the-case-for-healthy-political-disagreement>
+
+---
+
+## Italy pays Albania to take its migrants
+
+date: 2024-10-16, from: Marketplace Morning Report
+
+<p><em>From the BBC World Service:</em> An Italian naval ship carrying migrants has reached Albania, the first relocation under a new agreement between Italian Prime Minister Giorgia Meloni and Albanian Prime Minister Edi Rama. The move faces criticism from human rights groups. We&#8217;ll hear more about the deal and its financial implications. Also on the show: a look at Hong Kong&#8217;s housing size minimum and Canada&#8217;s post-pandemic tourism recovery.</p>
+ 
+
+<audio controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/16/mmr_20241016_MMR_1__64.mp3"></source>
+	<a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/16/mmr_20241016_MMR_1__64.mp3" target="_blank">audio/mpeg</a>
+</audio><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/italy-pays-albania-to-take-its-migrants>
+
+---
+
+## Chinese cyber association calls for review of Intel products sold in China
+
+date: 2024-10-16, from: VOA News USA
+
+BEIJING — Intel products sold in China should be subject to a security review, the Cybersecurity Association of China (CSAC) said on Wednesday, alleging the U.S. chipmaker has "constantly harmed" the country's national security and interests. 
+
+
+While CSAC is an industry group rather than a government body, it has close ties to the Chinese state and the raft of accusations against Intel, published in a long post on its official WeChat group, could trigger a security review from China's powerful cyberspace regulator, the Cyberspace Administration of China (CAC). 
+
+
+"It is recommended that a network security review is initiated on the products Intel sells in China, so as to effectively safeguard China's national security and the legitimate rights and interests of Chinese consumers," CSAC said. 
+
+
+Last year, the CAC barred domestic operators of key infrastructure from buying products made by U.S. memory chipmaker Micron Technology Inc after deeming the company's products had failed its network security review. 
+
+
+Intel did not immediately respond to a request for comment. The company's shares were down 2.7% in U.S. premarket trading. 
+
+<br> 
+
+<https://www.voanews.com/a/chinese-cyber-association-calls-for-review-of-intel-products-sold-in-china-/7824133.html>
+
+---
+
+## Talking Permitting Reform, Trade, and More With Biden’s Top Climate Advisor
+
+date: 2024-10-16, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MzgxMjQ1Ni9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc0Mjg4MTUyOH0.lFlZ2wtYLL0QL6JbjfLbsOp47y9nJVKoNxME8AkzERo/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">
+	What’s next for the Biden administration — and for climate policy in the United States? Should Democrats negotiate with Republicans over permitting reform, even if it means making concessions to fossil fuel interests? And how should the country’s trade policy handle the problem of carbon pollution?
+</p><p>
+	On this week’s episode of Shift Key, Rob speaks with 
+	<a href="https://x.com/alizaidi46" rel="noopener noreferrer" target="_blank"><u>Ali Zaidi</u></a>, the national climate advisor to President Joe Biden. Zaidi leads the White House Climate Policy Office, which coordinates domestic climate policy across federal agencies. Before joining the White House in 2021, Zaidi was the state of New York’s deputy secretary for energy and environment. This interview was recorded live on October 10 in New Haven, Connecticut, at the Yale Clean Energy Conference.
+</p><p>
+	Shift Key is hosted by Robinson Meyer, the founding executive editor of Heatmap, and Jesse Jenkins, a professor of energy systems engineering at Princeton University. Jesse is out this week.
+</p><p>
+<strong>Subscribe to “Shift Key” and find this episode on <a href="https://podcasts.apple.com/us/podcast/shift-key-with-robinson-meyer-and-jesse-jenkins/id1728932037" rel="noopener noreferrer" target="_blank">Apple Podcasts</a>, <a href="https://open.spotify.com/show/0war1dXXCEEZNpZ3H7kRid" rel="noopener noreferrer" target="_blank">Spotify</a>, <a href="https://music.amazon.com/podcasts/d3491bb8-f4c3-429d-b622-b5d9b1329c69/shift-key-with-robinson-meyer-and-jesse-jenkins" rel="noopener noreferrer" target="_blank">Amazon</a>, or wherever you get your podcasts.</strong>
+</p><p>
+	You can also add 
+	<a href="https://feeds.acast.com/public/shows/65bac3af03341c00164bf93b" rel="noopener noreferrer" target="_blank">the show’s RSS feed</a> to your podcast app to follow us directly.
+</p><center><iframe frameborder="0" height="190px" src="https://embed.acast.com/65bac3af03341c00164bf93b/670f1091c9fa3ffd9eba9726" width="100%"></iframe></center><p>
+	Here is an excerpt from our conversation:
+</p><blockquote>
+<strong>Ali Zaidi: </strong>The conversation in Congress right now makes it seem like transmission is a Democratic policy priority when it boosts reliability and lowers rates. I thought Republicans and Democrats both agreed we need to boost reliability and lower rates. So I don’t know why that needs to be offset by any measure.<br/>
+<br/>
+	That’s thing number one. Thing number two is …
+	<br/>
+<br/>
+<strong>Robinson Meyer: </strong>This is the challenge of talking about things, is that if Democrats say, <em><em>oh, we really value this</em></em>, then suddenly it’s a Democratic priority.<br/>
+<br/>
+<strong>Zaidi: </strong>Yeah. And then the second is, how do we accelerate the siting and permitting of things and then there is a how do we shift more power to the oil and gas industry. The conversation around leasing, happening against a backdrop where the industry itself is moving away from long-cycle investment to short-cycle investment, it’s tough. So I would hope that more of the permitting conversation were a permitting conversation.<br/>
+<br/>
+<strong>Meyer: </strong>Well, one way this sometimes gets reflected is that you’ll hear environmentalists say, any policy that makes the oil and gas industry happy or bigger, we should not take. And that makes making a compromise …<br/>
+<br/>
+<strong>Zaidi: </strong>And I reject that. Yeah, look, if ExxonMobil wants to pay for a pipeline that will help us deliver what was once solar and wind, as a fuel, to help us decarbonize a steel plant, they can be for it and I can be for it. If there is a — Blackstone, for example, has a <a href="https://tallgrass.com/newsroom/press-releases/blackstone-infrastructure-partners-enters-into-definitive-agreement-to-acquire-controlling-interest-in-tallgrass-energy" target="_blank">Project Tallgrass</a> that has converted a pipeline that used to pull hydrocarbons out of the ground. It’s now flipped the pipeline around, and is putting CO2 into the ground.<br/>
+<br/>
+	They can be for that. I can be for that — not speaking to the specific project, but conceptually. So I don’t think … It’s not the actor. It’s the question of whether this is directionally consistent with trying to chase down a 1.5 degree future or not.
+	<br/>
+<br/>
+	We are behind as a world, and we need to run faster in that direction. If it’s not directionally consistent, that’s a problem.
+	</blockquote><div class="horizontal-rule">
+</div><p>
+	This episode of Shift Key is sponsored by …
+</p><p>
+<strong>Watershed</strong>’s climate data engine helps companies measure and reduce their emissions, turning the data they already have into an audit-ready carbon footprint backed by the latest climate science. Get the sustainability data you need in weeks, not months. Learn more at <a href="https://watershed.com/" rel="noopener noreferrer" target="_blank">watershed.com</a>.
+</p><p>
+	As a global leader in PV and ESS solutions, 
+	<strong>Sungrow</strong> invests heavily in research and development, constantly pushing the boundaries of solar and battery inverter technology. Discover why Sungrow is the essential component of the clean energy transition by visiting <a href="https://en.sungrowpower.com/" rel="noopener noreferrer" target="_blank">sungrowpower.com</a>.
+</p><p>
+<strong>Intersolar & Energy Storage North America</strong> is the premier U.S.-based conference and trade show focused on solar, energy storage, and EV charging infrastructure. To learn more, visit <a href="https://www.intersolar.us/" rel="noopener noreferrer" target="_blank">intersolar.us</a>.
+</p><p>
+	Music for Shift Key is by Adam Kromelow.
+</p> 
+
+<br> 
+
+<https://heatmap.news/podcast/shift-key-s2-e10-ali-zaidi>
+
+---
+
+## Xi says China willing to be a partner, friend with the US
+
+date: 2024-10-16, from: VOA News USA
+
+BEIJING — Chinese President Xi Jinping said a successful partnership between China and the United States is an opportunity for the two countries to be enablers for each other's development rather than an obstacle, according to state media on Wednesday.
+
+
+"China is willing to be a partner and friend with the United States. This will benefit not only the two countries, but the world," Xi said in remarks from a letter to the 2024 annual awards dinner of the National Committee on U.S.-China Relations, according to a CCTV news report.
+
+
+Xi pointed out that China-U.S. relations are among the most important bilateral relations in the world, which have a bearing on the future and destiny of mankind, according to the letter.
+
+
+The two countries have been at odds over national security concerns, ongoing trade spats as well as China's actions in the South China Sea and intensified military drills around Taiwan.
+
+
+Trade relations soured over the past year and have centered around issues including restrictions on electric vehicles and advanced semiconductors.
+
+
+"China has always handled China-U.S. relations in accordance with the principles of mutual respect, peaceful coexistence and win-win cooperation, and has always believed that the success of China and the United States is an opportunity for each other," Xi said. 
+
+<br> 
+
+<https://www.voanews.com/a/xi-says-china-willing-to-be-a-partner-friend-with-the-us/7824068.html>
+
+---
+
+##  The Coming Financial Hurricane 
+
+date: 2024-10-16, from: The Lever News
+
+ How Hurricane Milton and other climate chaos could trigger the next economic crisis.  
+
+<br> 
+
+<https://www.levernews.com/the-coming-financial-hurricane/>
+
+---
+
+## The IEA Isn’t Sweating Data Center Electricity Demand
+
+date: 2024-10-16, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MzgxOTk3My9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4ODIxNjU4Mn0.81ypNBWpjIi_-b-Si6Hy_5tP3bTGD32cB1TCHr4AhdY/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">
+	Early this morning, the International Energy Agency released its annual 
+	<a href="https://www.iea.org/reports/world-energy-outlook-2024" rel="noopener noreferrer" target="_blank"><u>World Energy Outlook</u></a>. And while the Paris-based agency says the world should certainly be concerned about rising electricity demand overall, it also conveys (not quite in so many words) that perhaps we should all just calm down when it comes to data center load growth driven by the rise of generative artificial intelligence.
+</p><p>
+	The report demonstrates that on a global scale, data centers are pretty trivial compared to, say, the uptick in electric vehicle adoption or increased demand for cooling. By 2030 in the base case scenario, the IEA projects that data centers will account for less than 10% of global electricity demand growth, which is roughly equal to demand growth from desalination technologies, which we see much less hand-wringing about. By comparison, the combination of rising temperatures and rising incomes could create over 1,200 terawatt-hours of additional cooling demand by 2035, more than the entire Middle East’s electricity use.
+</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="Charts from IEA World Energy Outlook" class="rm-shortcode" data-rm-shortcode-id="9d2028434537d8deb9c74a081a713e8e" data-rm-shortcode-name="rebelmouse-image" id="67526" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MzgyMDMyNi9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2MTUxMTI5MH0.UpZvMffA1kcAByGWcAcvK-CqfX7UTRI7GmE1OYjTJC0/image.png?width=980"/>
+<small class="image-media media-photo-credit" placeholder="Add Photo Credit...">IEA</small>
+</p><p>The IEA emphasized that when it comes to data centers, “plausible high and low sensitivities do not change the outlook fundamentally,” meaning that regardless of factors such as how quickly renewables and other low-emission energy sources are able to ramp up or the rate at which computing efficiency improves, data centers are poised to be a small piece of the overall pie. </p><p>The authors even sound an optimistic note as they urge readers to consider the positive impacts that artificial intelligence could have on the energy sector at large, writing that “the potential implications of AI for energy are broader [than just their data center electricity use] and include improved systems coordination in the power sector and shorter innovation cycles.” As of now, <a href="https://www.weforum.org/agenda/2024/07/generative-ai-energy-emissions/" rel="noopener noreferrer" target="_blank"><u>folks can only guess</u></a> as to whether the net benefits of AI will be <a href="https://heatmap.news/technology/ai-climate-week-clean-energy" target="_self"><u>positive or negative</u></a> from an emissions standpoint. But the report again sounded relatively cheery as it noted that there is “a set of low-emissions options available to meet this [data center] demand,” as cleaner electricity sources are growing much faster than data center electricity use. </p><p>The unbothered tone might seem surprising, given the <a href="https://heatmap.news/climate/biden-ai-electricity-demand" target="_self"><u>general freakout</u></a> over demand growth as well as <a href="https://heatmap.news/ideas/ai-additionality-framework" target="_self"><u>dueling</u></a> <a href="https://heatmap.news/ideas/abundance-additionality-permitting-reform" target="_self"><u>perspectives</u></a> over how to meet it. But while it’s important to put these numbers in perspective, that task shouldn’t be an excuse not to act. After all, even “a small percent of the pie” still leads to some pretty big figures. For example, say data centers comprise a conservative 5% of global electricity demand growth between now and 2030. That would mean an additional 338 terawatt-hours of electricity demand by the end of the decade, an estimate the IEA says could vary by as much as 170 terawatt-hours. So on the high end, global growth in data center electricity demand could reach around 500 terawatt-hours by 2030, nearly a quarter of <a href="https://www.eia.gov/totalenergy/data/monthly/pdf/sec7_5.pdf" rel="noopener noreferrer" target="_blank"><u>total U.S. electricity generation last year</u></a>.</p><p>So while this might not level up to a crisis on a global scale, it’s still very much a problem worth mitigating — all the more so because data centers are heavily geographically concentrated, meaning local grid impacts will be felt acutely. Back in April, <a href="https://www.koomey.com/about.html" rel="noopener noreferrer" target="_blank"><u>Jonathan Koomey</u></a>, an independent researcher, lecturer, and entrepreneur who studies the energy and environmental impacts of information technology, <a href="https://heatmap.news/podcast/shift-key-episode-10-ai-data-centers" target="_self"><u>discussed this very issue</u></a> with Heatmap’s own Shift Key co-hosts, Robinson Meyer and Jesse Jenkins. As Koomey put it, “A place like Ireland that has, I think at last count 17%, 18% of its load from data centers, if that grows, that could give them real challenges. Same thing with Loudoun County in Virginia.” </p><p>The IEA also acknowledges this reality, noting that even if, globally, there’s enough clean energy to go around, local constraints on generation and grid capacity could be severe. But as Koomey told Heatmap — and as, perhaps, the IEA is trying to tell us all — “it is not a national story. It is a local story.”</p> 
+
+<br> 
+
+<https://heatmap.news/technology/iea-world-energy-outlook-2024>
+
+---
+
+## Georgia judge blocks ballot counting rule and says county officials must certify election results
+
+date: 2024-10-16, from: VOA News USA
+
+ATLANTA — A judge has blocked a new rule that requires Georgia Election Day ballots to be counted by hand after the close of voting. The ruling came a day after the same judge ruled that county election officials must certify election results by the deadline set in law.
+
+
+The State Election Board last month passed the rule requiring that three poll workers each count the paper ballots — not votes — by hand after the polls close.
+
+
+The county election board in Cobb County, in Atlanta’s suburbs, had filed a lawsuit seeking to have a judge declare that rule and five others recently passed by the state board invalid, saying they exceed the state board’s authority, weren’t adopted in compliance with the law and are unreasonable.
+
+
+In a ruling late Tuesday, Fulton County Superior Court Judge Robert McBurney wrote, that the so-called hand count rule “is too much, too late” and blocked its enforcement while he considers the merits of the case.
+
+
+McBurney on Monday had ruled in a separate case that “no election superintendent (or member of a board of elections and registration) may refuse to certify or abstain from certifying election results under any circumstance.” While they are entitled to inspect the conduct of an election and to review related documents, he wrote, “any delay in receiving such information is not a basis for refusing to certify the election results or abstaining from doing so.”
+
+
+Georgia law says county election superintendents — generally multimember boards — “shall” certify election results by 5 p.m. on the Monday after an election, or the Tuesday if Monday is a holiday as it is this year.
+
+
+The two rulings came as early in-person voting began Tuesday in Georgia.
+
+
+They are victories for Democrats, liberal voting rights groups and some legal experts who have raised concerns that Donald Trump’s allies could refuse to certify the results if the former president loses to Democratic Vice President Kamala Harris in next month’s presidential election. They have also argued that new rules enacted by the Trump-endorsed majority on the State Election Board could be used to stop or delay certification and to undermine public confidence in the results.
+
+
+In blocking the hand count rule, McBurney noted that there are no guidelines or training tools for its implementation and that the secretary of state had said the rule was passed too late for his office to provide meaningful training or support. The judge also wrote that no allowances have been made in county election budgets to provide for additional personnel or expenses associated with the rule.
+
+
+“The administrative chaos that will — not may — ensue is entirely inconsistent with the obligations of our boards of elections (and the SEB) to ensure that our elections are fair legal, and orderly,” he wrote.
+
+
+The state board may be right that the rule is smart policy, McBurney wrote, but the timing of its passage makes implementing it now “quite wrong.” He invoked the memory of the riot at the U.S. Capitol by people seeking to stop the certification of Democrat Joe Biden's presidential victory on Jan. 6, 2021, writing, “Anything that adds uncertainty and disorder to the electoral process disserves the public.”
+
+
+During a hearing earlier Tuesday, Robert Thomas, a lawyer for the State Election Board, argued that the process isn’t complicated and that estimates show that it would take extra minutes, not hours, to complete. He also said memory cards from the scanners, which are used to tally the votes, could be sent to the tabulation center while the hand count is happening so reporting of results wouldn’t be delayed.
+
+
+State and national Democratic groups that had joined the suit on the side of the Cobb election board, along with the Harris campaign, celebrated McBurney's ruling in a joint statement: “From the beginning, this rule was an effort to delay election results to sow doubt in the outcome, and our democracy is stronger thanks to this decision to block it.”
+
+
+The certification ruling stemmed from a lawsuit filed by Julie Adams, a Republican member of the election board in Fulton County, which includes most of the city of Atlanta and is a Democratic stronghold. Adams sought a declaration that her duties as an election board member were discretionary and that she is entitled to “full access” to “election materials.”
+
+
+Long an administrative task that attracted little attention, certification of election results has become politicized since Trump tried to overturn his loss to Democrat Joe Biden in the 2020 general election. Republicans in several swing states, including Adams, refused to certify results earlier this year and some have sued to keep from being forced to sign off on election results.
+
+
+Adams' suit, backed by the Trump-aligned America First Policy Institute, argued county election board members have the discretion to reject certification. In court earlier this month, her lawyers also argued county election officials could certify results without including certain ballots if they suspect problems.
+
+
+Judge McBurney wrote that nothing in Georgia law gives county election officials the authority to determine that fraud has occurred or what should be done about it. Instead, he wrote, state law says a county election official's “concerns about fraud or systemic error are to be noted and shared with the appropriate authorities but they are not a basis for a superintendent to decline to certify.”
+
+
+The Democratic National Committee and Democratic Party of Georgia had joined the lawsuit as defendants with the support of Harris' campaign. The campaign called the ruling a “major legal win.”
+
+
+Adams said in a statement that McBurney's ruling has made it clear that she and other county election officials “cannot be barred from access to elections in their counties.”
+
+
+A flurry of election rules passed by the State Election Board since August has generated a crush of lawsuits. McBurney earlier this month heard a challenge to two rules having to do with certification brought by the state and national Democratic parties. Another Fulton County judge is set to hear arguments in two challenges to rules tomorrow — one brought by the Democratic groups and another filed by a group headed by a former Republican lawmaker. And separate challenges are also pending in at least two other counties. 
+
+<br> 
+
+<https://www.voanews.com/a/georgia-judge-blocks-ballot-counting-rule-and-says-county-officials-must-certify-election-results/7824005.html>
+
+---
+
+## Troops kicked out under 'don't ask, don't tell' upgraded to honorable discharges
+
+date: 2024-10-16, from: VOA News USA
+
+WASHINGTON — The Pentagon announced Tuesday that more than 800 military personnel have seen their service records upgraded to honorable discharges after previously being kicked out of the military under its former "don't ask, don't tell" policy.
+
+
+It is the latest development over the decades to undo past discrimination against LGBTQ service members.
+
+
+The 1951 Uniform Code of Military Justice's Article 125 had criminalized consensual gay sex. In 1993, former President Bill Clinton modified the military's policy to "don't ask, don't tell," which allowed LGBTQ troops to serve in the armed forces if they did not disclose their sexual orientation.
+
+
+That policy was repealed in 2011, when Congress allowed for their open service in the military. The 1951 UCMJ code was modified in 2013 to be limited to nonconsensual gay sex.
+
+
+President Joe Biden in June announced he was issuing pardons to service members convicted under repealed military policies.
+
+
+Under "don't ask, don't tell," thousands of service members still saw their military service ended without an honorable discharge, meaning they did not receive the military benefits they would have otherwise, such as education benefits, and it also could have affected their ability to apply for jobs or loans.
+
+
+Last year, Defense Secretary Lloyd Austin ordered a review of cases of former service members who might have been affected by the policy.
+
+
+The Pentagon estimates about 13,500 service members were released from military service under "don't ask, don't tell." With the review and upgrades of the more than 800 troops announced Tuesday, the Pentagon said that about 96% of the 13,500 personnel affected by the policy had received an honorable discharge.
+
+
+Not every case of the 13,500 needed review. Some of those personnel did not serve long enough to qualify for benefits, were released with an honorable discharge at the time, already had their discharges upgraded through other means, or did not qualify for an upgrade due to other violations.
+
+
+"We will continue to honor the service and the sacrifice of all our troops — including the brave Americans who raised their hands to serve but were turned away because of whom they love. We will continue to strive to do right by every American patriot who has honorably served their country," Austin said in a statement. 
+
+<br> 
+
+<https://www.voanews.com/a/troops-kicked-out-under-don-t-ask-don-t-tell-upgraded-to-honorable-discharges/7823990.html>
+
+---
+
+## Voting rights groups seek investigation into Wisconsin text messages
+
+date: 2024-10-16, from: VOA News USA
+
+madison, wisconsin  — Voting rights advocates on Tuesday asked state and federal authorities to investigate anonymous text messages apparently targeting young Wisconsin voters, warning them not to vote in a state where they are ineligible.
+
+
+Free Speech for People, on behalf of the League of Women Voters of Wisconsin, made the request to the U.S. Department of Justice as well as the Wisconsin Department of Justice. The letter says that "thousands of young voters across Wisconsin" received the text message last week, including staff members at the League of Women Voters and students at the University of Wisconsin.
+
+
+The text in question cites Wisconsin state law prohibiting voting in more than one place and says that violating the law can result in fines of up to $10,000 and 3.5 years in prison.
+
+
+"Don't vote in a state where you're not eligible," the text said.
+
+
+Wisconsin is known for having razor-thin presidential elections. Four of the last six were decided by less than a percentage point. President Joe Biden won in 2020 by less than 21,000 votes.
+
+
+At least one person who received the text posted it on the social media platform X.
+
+
+The League of Women Voters, in its request for investigation, said that without prompt action "the sender may continue its efforts to frighten eligible young voters into not voting."
+
+
+Students attending college in Wisconsin can register to vote either at their home address or their one at school.
+
+
+"But now, many students and other young voters are fearful that they will face criminal prosecution if they register and exercise their right to vote — because of a malicious, inaccurate text sent by an anonymous party," the letter said.
+
+
+The U.S. Department of Justice declined to comment.
+
+
+Wisconsin Department of Justice spokesperson Gillian Drummond said the department takes allegations of potential violations of election law seriously. She said the agency was reviewing the information in the request for an investigation and would assess "what, if any, follow-up is appropriate based on the facts and the law."
+
+
+University of Wisconsin System spokesperson Mark Pitsch said in an email that system officials were unaware of any security breach that may have resulted in leaked student contact information. He added that nothing has been reported to system officials about the text, and there was no indication how many students may have received it.
+
+
+Riley Vetterkind, a spokesperson for the Wisconsin Elections Commission, said in an email to The Associated Press that the commission can't determine whether the text message violates state law because the commission hasn't received a formal complaint about it.
+
+
+However, he called the message "concerning" and said it certainly could leave recipients feeling intimidated. He urged recipients to contact law enforcement directly if they are worried about the message.
+
+
+"We understand that these third-party text messages can be very frustrating for voters," Vetterkind said. "We recommend voters rely upon official sources of election information, such as from state or local election officials. Voters are free to ignore these text messages since they are not sent or associated with an official source."
+
+
+The text message was sent as thousands of voters in Wisconsin are casting absentee ballots. As of Monday, nearly 240,000 absentee ballots had already been returned statewide.
+
+
+Starting October 22, voters can start casting absentee ballots in person.
+
+
+Wisconsin is one of the "blue wall" states along with Michigan and Pennsylvania that is key to winning for either Democratic Vice President Kamala Harris or Republican presidential nominee Donald Trump. 
+
+<br> 
+
+<https://www.voanews.com/a/voting-rights-groups-seek-investigation-into-wisconsin-text-messages-/7823623.html>
+
+---
+
+## Tech firms increasingly look to nuclear power for data center
+
+date: 2024-10-16, from: VOA News USA
+
+As energy-hungry computer data centers and artificial intelligence programs place ever greater demands on the U.S. power grid, tech companies are looking to a technology that just a few years ago appeared ready to be phased out: nuclear energy. 
+
+
+After several decades in which investment in new nuclear facilities in the U.S. had slowed to a crawl, tech giants Microsoft and Google have recently announced investments in the technology, aimed at securing a reliable source of emissions-free power for years into the future.  
+
+
+Earlier this year, online retailer Amazon, which has an expansive cloud computing business, announced it had reached an agreement to purchase a nuclear energy-fueled data center in Pennsylvania and that it had plans to buy more in the future. 
+
+
+However, the three companies' strategies rely on somewhat different approaches to the problem of harnessing nuclear energy, and it remains unclear which, if any, will be successful. 
+
+
+Energy demand 
+
+
+Data centers, which concentrate thousands of powerful computers in one location, consume prodigious amounts of power, both to run the computers themselves and to operate the elaborate systems put in place to dissipate the large amount of heat they generate.  
+
+
+A recent study by Goldman Sachs estimated that data centers currently consume between 1% and 2% of all available power generation. That percentage is expected to at least double by the end of the decade, even accounting for new power sources coming online. The study projected a 160% increase in data center power consumption by 2030. 
+
+
+The U.S. Department of Energy has estimated that the largest data centers can consume more than 100 megawatts of electricity, or enough to power about 80,000 homes. 
+
+
+Small, modular reactors 
+
+
+Google's plan is, in some ways, the most radical departure — both from the current structure of the energy grid and from traditional means of generating nuclear power. The internet search giant announced on Monday that it has partnered with Kairos Power to fund the construction of up to seven small-scale nuclear reactors that, across several locations, would combine to generate 500 megawatts of power. 
+
+
+The small modular reactors (SMRs) are a new, and largely untested, technology. Unlike sprawling nuclear plants, SMRs are compact, requiring much less infrastructure to keep them operational and safe. 
+
+
+"The smaller size and modular design can reduce construction timelines, allow deployment in more places, and make the final project delivery more predictable," Google and Kairos said in a press release.  
+
+
+The companies said they intend to have the first of the SMRs online by 2030, with the rest to follow by 2035. 
+
+
+Great promise 
+
+
+Sola Talabi, president of Pittsburgh Technical, a nuclear consulting firm, told VOA that SMR technology holds great promise for the future. He said that the plants' small size will eliminate many of the safety concerns that larger reactors present. 
+
+
+For example, some smaller reactors generate so much less heat than larger reactors that they can utilize "passive" cooling systems that are not susceptible to the kind of mechanical failures that caused disaster at Japan's Fukushima plant in 2011 and the Soviet Union's Chernobyl plant in 1986.  
+
+
+Talabi, who is also an adjunct faculty member in nuclear engineering at the University of Pittsburgh and University of Michigan, said that SMRs' modular nature will allow for rapid deployment and substantial cost savings as time goes on. 
+
+
+"Pretty much every reactor that has been built [so far] has been built like it's the first one," he said. "But with these reactors, because we will be able to use the same processes, the same facilities, to produce them, we actually expect that we will be able to … achieve deployment scale relatively quickly." 
+
+
+Raising doubts 
+
+
+Not all experts are convinced that SMRs are going to live up to expectations. 
+
+
+Edwin Lyman, director of nuclear power safety for the Union of Concerned Scientists, told VOA that the Kairos reactors Google is hoping to install use a new technology that has never been tested under real-world conditions.
+
+
+"At this point, it's just hope without any real basis in experimental fact to believe that this is going to be a productive and reliable solution for the need to power data centers over the medium term," he said. 
+
+
+He pointed out that the large-scale deployment of new nuclear reactors will also result in the creation of a new source of nuclear waste, which the U.S. is still struggling to find a way to dispose of at scale.  
+
+
+"I think what we're seeing is really a bubble — a nuclear bubble — which I suspect is going to be deflated once these optimistic, hopeful agreements turn out to be much harder to execute," Lyman said. 
+
+
+Three Mile Island 
+
+
+Microsoft and Amazon have plotted a more conventional path toward powering their data centers with nuclear energy. 
+
+
+In its announcement last month, Microsoft revealed that it has reached an agreement with Constellation Energy to restart a mothballed nuclear reactor at Three Mile Island in Pennsylvania and to use the power it produces for its data operations. 
+
+
+Three Mile Island is best known as the site of the worst nuclear disaster in U.S. history. In 1979, the site's Unit 2 reactor suffered a malfunction that resulted in radioactive gases and iodine being released into the local environment.  
+
+
+However, the facility's Unit 1 reactor did not fail, and it operated safely for several decades. It was shut down in 2019, after cheap shale gas drove the price of energy down so far that it made further operations economically unfeasible. 
+
+
+It is expected to cost $1.6 billion to bring the reactor back online, and Microsoft has agreed to fund that investment. It has also signed an agreement to purchase power from the facility for 20 years. The companies say they believe that they can bring the facility back online by 2028. 
+
+
+Amazon's plan, by contrast, does not require either new technology or the resurrection of an older nuclear facility. 
+
+
+The data center that the company purchased from Talen Energy is located on the same site as the fully operational Susquehanna nuclear plant in Salem, Pennsylvania, and draws power directly from it. 
+
+
+Amazon characterized the $650 million investment as part of a larger effort to reach net-zero carbon emissions by 2040. 
+
+<br> 
+
+<https://www.voanews.com/a/tech-firms-increasingly-look-to-nuclear-power-for-data-center/7823925.html>
+
+---
+
+## Millions who don't cast ballots on Nov. 5 are still voting in US election
+
+date: 2024-10-16, from: VOA News USA
+
+The 2024 U.S. election allows Americans to have their voices heard. But what if they can’t reach the polls on November 5? Luckily, there’s more than one way to vote — here are all the options. Written and produced by  Yass Monem and Tamara Davison. 
+
+<br> 
+
+<https://www.voanews.com/a/us-election-voting-methods-why-millions-won-t-cast-ballots-on-election-day-but-still-will-vote/7823959.html>
+
+---
+
+## US letter to Israel calls for more aid into Gaza in 30 days
+
+date: 2024-10-16, from: VOA News USA
+
+The United States has sent a letter to Israel demanding it facilitate an immediate surge in humanitarian assistance into Gaza. The letter, which the Pentagon said was intended to remain private, comes as a U.S. Terminal High Altitude Area Defense battery, or THAAD, has started to arrive in Israel to defend against future attacks. VOA Pentagon correspondent Carla Babb has more. 
+
+<br> 
+
+<https://www.voanews.com/a/us-letter-to-israel-calls-for-more-aid-into-gaza-in-30-days/7823934.html>
 
 ---
 
@@ -227,29 +857,29 @@ Adams has said she was not given access to county election documents with enough
 
 ---
 
-## DeSantis praises Milton recovery efforts as rising flood waters persist in Florida
+## DeSantis praises Milton recovery efforts as rising floodwaters persist in Florida
 
 date: 2024-10-15, from: VOA News USA
 
-TALLAHASSEE, Fla.  — While there's still more work to do, Florida Gov. Ron DeSantis on Tuesday praised Hurricane Milton recovery efforts, saying power has never been restored to so many so quickly after a major storm. 
+TALLAHASSEE, Florida — While there's still more work to do, Florida Governor Ron DeSantis on Tuesday praised Hurricane Milton recovery efforts, saying power has never been restored to so many so quickly after a major storm.
 
 
-"President (Ronald) Reagan used to say the most terrifying words in the English language are, 'I'm from the government and I'm here to help.' There's a lot of wisdom in that, but I don't think The Gipper ever saw Florida respond to a natural disaster, because we get after it and we do make a difference," DeSantis said at a news conference in front of a flooded road in Zephyrhills. 
+"President (Ronald) Reagan used to say the most terrifying words in the English language are, 'I'm from the government and I'm here to help.' There's a lot of wisdom in that, but I don't think The Gipper ever saw Florida respond to a natural disaster, because we get after it and we do make a difference," DeSantis said at a news conference in front of a flooded road in Zephyrhills.
 
 
-There were still about 170,000 customers without electricity, rivers continued to rise in some flooded areas and the state was still providing free gas to residents struggling to top of their tanks. But DeSantis pointed out that more than 4 million customers had power restored less than a week after the Category 3 storm. 
+There were still about 170,000 customers without electricity, rivers continued to rise in some flooded areas and the state was still providing free gas to residents struggling to top off their tanks. But DeSantis pointed out that more than 4 million customers had power restored less than a week after the Category 3 storm.
 
 
-At least 11 people died less than two weeks after Hurricane Helene inflicted major damage in Florida and other Southeastern states. The death toll from Helene is more than 240. While most gas stations were back up and running, the state still has 10 active fuel distribution centers providing free gas to residents. DeSantis said more than 2 million gallons had been distributed so far. 
+At least 11 people died less than two weeks after Hurricane Helene inflicted major damage in Florida and other Southeastern states. The death toll from Helene is more than 240. While most gas stations were back up and running, the state still has 10 active fuel distribution centers providing free gas to residents. DeSantis said more than 2 million gallons had been distributed so far.
 
 
-As happened two years ago during Hurricane Ian, parts of central Florida on Tuesday were flooding almost a week after Milton made landfall due to the rising St. Johns River. 
+As happened two years ago during Hurricane Ian, parts of central Florida on Tuesday were flooding almost a week after Milton made landfall due to the rising St. Johns River.
 
 
-In Seminole County, north of Orlando, crews closed roads along the shores of Lake Harney and Lake Jesup after several homes were flooded by the river. Since last Thursday, at least 15 people have been evacuated from homes in nearby Geneva and a neighborhood in Altamonte Springs located in a crook of the Little Wekiva River. 
+In Seminole County, north of Orlando, crews closed roads along the shores of Lake Harney and Lake Jesup after several homes were flooded by the river. Since last Thursday, at least 15 people have been evacuated from homes in nearby Geneva and a neighborhood in Altamonte Springs located in a crook of the Little Wekiva River.
 
 
-Water levels along the St. Johns River were expected to crest later in the week. 
+Water levels along the St. Johns River were expected to crest later in the week.
 
 
 In Sumter County, home to the sprawling retirement community, The Villages, residents along the Little Withlacoochee River were being encouraged to evacuate as river levels rose. Residents who decided to evacuate were offered shelter at the Sumter County Fairgrounds. 
@@ -437,6 +1067,8 @@ The three-year old giant pandas, named Bao Li and Qing Bao, were flown from Chin
 
 
 "Our team has worked tirelessly to prepare for the pandas’ arrival, and we’re thrilled to welcome Bao Li and Qing Bao to Washington, D.C., the only place you can see giant pandas for free in the nation,” said Brandie Smith, the national zoo director who travelled to China to take part in farewell ceremonies for the bears there. "As a result of our collective efforts, today we joyfully celebrate a new chapter of our 52-year-long giant panda breeding and conservation program.”
+
+
 
 
 The zoo was closed Tuesday to facilitate the arrivals. The bears will be quarantined from the public for at least 30 days. A statement from the zoo set the date for the bears' official public debut and the reopening of the renovated panda house as Jan. 24, 2025.

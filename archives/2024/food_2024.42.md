@@ -1,11 +1,175 @@
 ---
 title: food
-updated: 2024-10-15 17:51:32
+updated: 2024-10-16 07:22:19
 ---
 
 # food
 
-(date: 2024-10-15 17:51:32)
+(date: 2024-10-16 07:22:19)
+
+---
+
+## The Sprudge Guide To Coffee In Tauranga, New Zealand
+
+date: 2024-10-16, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Where to drink coffee in Tauranga, New Zealand. 
+
+<br> 
+
+<https://sprudge.com/the-sprudge-guide-to-coffee-in-tauranga-new-zealand-254474.html>
+
+---
+
+## AeroPress Gets Steeper with the Premium Model
+
+date: 2024-10-16, from: Daily Coffee News
+
+<div><img width="620" height="430" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/AeroPress-Premium-1-1-620x430.jpg" class="attachment-large size-large wp-post-image" alt="AeroPress Premium 1" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/AeroPress-Premium-1-1-620x430.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/AeroPress-Premium-1-1-300x208.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/AeroPress-Premium-1-1-150x104.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/AeroPress-Premium-1-1-768x532.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/AeroPress-Premium-1-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>AeroPress, the maker of the widely popular immersion-plus-pressure AeroPress brewer, recently launched a high-end version called the AeroPress Premium. Made entirely of glass and metal plus a silicone stopper, as... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/10/16/aeropress-gets-steeper-with-the-premium-model/>
+
+---
+
+## Caponata With Focaccia — Deliciously Sicilian
+
+date: 2024-10-16, from: Pepper Scale
+
+This comes fully loaded with Sicilian flavors. In its glossy, smoothly rich sauce, caponata is savory, sharp, sweet, salty, and sour. Serrano peppers light its fire, and a golden focaccia loaf turns it into an elegantly simple lunch or supper. Bewitching. In that lovely word’s ... <p class="read-more-container"><a title="Caponata With Focaccia — Deliciously Sicilian " class="read-more button" href="https://pepperscale.com/caponata-with-focaccia/#more-86824" aria-label="Read more about Caponata With Focaccia — Deliciously Sicilian ">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/caponata-with-focaccia/>
+
+---
+
+## Send Us Your Spooky Halloween Coffee Fiction!
+
+date: 2024-10-16, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Submissions are due by Sunday, October 20th. 
+
+<br> 
+
+<https://sprudge.com/send-us-your-spooky-halloween-coffee-fiction-257019.html>
+
+---
+
+## How Communal Living Makes Cooking Easier, Cheaper, and Better
+
+date: 2024-10-16, from: Bon Appetet
+
+"When you’re living communally, everybody has responsibility and power.” 
+
+<br> 
+
+<https://www.bonappetit.com/story/communal-living-housing-coop-kitchens>
+
+---
+
+## I Need Help Cooking for My In-Laws
+
+date: 2024-10-16, from: Bon Appetet
+
+On this episode of Dinner SOS, Chris and Kendra help caller Rachel prepare to host her parents and her in-laws. 
+
+<br> 
+
+<https://www.bonappetit.com/story/i-need-allergy-friendly-recipes>
+
+---
+
+## Hot Honey Roasted Pumpkin Recipe
+
+date: 2024-10-16, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/hot-honey-roasted-pumpkin/" title="Hot Honey Roasted Pumpkin Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Hot-Honey-Roasted-Pumpkin-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Slices of Hot Honey Roasted Pumpkin on a serving platter" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Hot-Honey-Roasted-Pumpkin-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Hot-Honey-Roasted-Pumpkin-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Hot-Honey-Roasted-Pumpkin-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Hot-Honey-Roasted-Pumpkin-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Hot-Honey-Roasted-Pumpkin-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Hot-Honey-Roasted-Pumpkin-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Hot-Honey-Roasted-Pumpkin-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This roasted pumpkin recipe is my favorite, lightly spiced, roasted until richly caramelized, then drizzled with sweet and spicy hot honey, a great side.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/hot-honey-roasted-pumpkin/">Hot Honey Roasted Pumpkin Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/hot-honey-roasted-pumpkin/>
+
+---
+
+## Jalapeño Popper Grilled Cheese Sandwich
+
+date: 2024-10-16, from: Pepper Scale
+
+Once you&#8217;ve tasted a jalapeño popper grilled cheese sandwich, it&#8217;s hard to return to plain-Jane cheddar on bread. It&#8217;s souped-up comfort food in all the right ways. And yet, this recipe is so simple to make. It&#8217;s six simple ingredients and pretty much the same ... <p class="read-more-container"><a title="Jalapeño Popper Grilled Cheese Sandwich" class="read-more button" href="https://pepperscale.com/jalapeno-popper-grilled-cheese-sandwich/#more-6178" aria-label="Read more about Jalapeño Popper Grilled Cheese Sandwich">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/jalapeno-popper-grilled-cheese-sandwich/>
+
+---
+
+## Ghost Pepper Salsa
+
+date: 2024-10-16, from: Pepper Scale
+
+So you&#8217;ve mastered the habanero, have you, and you&#8217;re ready for the next great pepper scale challenge? Or you&#8217;re simply insane for extreme eats? Either way, ghost pepper salsa will spank you six ways from Sunday. We repeat &#8211; this is not a salsa for ... <p class="read-more-container"><a title="Ghost Pepper Salsa" class="read-more button" href="https://pepperscale.com/ghost-pepper-salsa/#more-5720" aria-label="Read more about Ghost Pepper Salsa">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/ghost-pepper-salsa/>
+
+---
+
+## Homemade Piri-Piri Seasoning
+
+date: 2024-10-16, from: Pepper Scale
+
+Here&#8217;s a spicy mix, however you say it. Whether you call it piri-piri&#160;or peri-peri seasoning, the end result is all the same &#8211; it&#8217;s a delicious combo of&#160;pungent and savory spices with a healthy kick of heat. It&#8217;s perfect as a dry rub for steaks ... <p class="read-more-container"><a title="Homemade Piri-Piri Seasoning" class="read-more button" href="https://pepperscale.com/piri-piri-seasoning/#more-8885" aria-label="Read more about Homemade Piri-Piri Seasoning">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/piri-piri-seasoning/>
+
+---
+
+## Jalapeño Mac And Cheese
+
+date: 2024-10-16, from: Pepper Scale
+
+Who can resist mac and cheese? We sure can&#8217;t, especially when it&#8217;s transformed into something a whole heck of a lot spicier. For instance, this spicy jalapeño mac and cheese recipe featuring plenty of pepper jack cheese and chilies. It&#8217;s mouth-watering just reading it. Jalapeño ... <p class="read-more-container"><a title="Jalapeño Mac And Cheese" class="read-more button" href="https://pepperscale.com/jalapeno-mac-and-cheese/#more-4543" aria-label="Read more about Jalapeño Mac And Cheese">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/jalapeno-mac-and-cheese/>
+
+---
+
+## Morgan Eckroth on Fighting TikTok’s Algorithm and Celebrating Cafe Life
+
+date: 2024-10-16, from: The Fresh Cup
+
+<p>From starring in cheerful skits that depict snippets of cafe life to winning coffee championships, Morgan Eckroth is on a quest to make coffee accessible for all, one TikTok at a time.</p>
+<p>The post <a href="https://freshcup.com/morgan-eckroth-on-fighting-tiktoks-algorithm-and-celebrating-cafe-life/">Morgan Eckroth on Fighting TikTok&#8217;s Algorithm and Celebrating Cafe Life</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/morgan-eckroth-on-fighting-tiktoks-algorithm-and-celebrating-cafe-life/>
+
+---
+
+## Caldo Tlalpeño
+
+date: 2024-10-16, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/caldo-tlalpeno/"><img title="caldo-tlalpeno-small-7" src="https://www.isabeleats.com/wp-content/uploads/2024/10/caldo-tlalpeno-small-7-400x600.jpg" alt="Caldo tlalpeño in a bowl garnished with queso fresco." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	Caldo Tlalpeño is a flavorful, comforting, and healthy traditional Mexican soup with juicy shredded chicken, chickpeas, green beans, carrots, epazote, and a flavorful homemade broth with smoky chipotle flavors. It’s great for dinner and any time of year! Caldo Tlalpeño is the perfect soup when you&#8217;re feeling under the weather or just want something cozy. [&#8230;] 
+
+<br> 
+
+<https://www.isabeleats.com/caldo-tlalpeno/>
 
 ---
 
@@ -223,7 +387,7 @@ The beloved comfort food gets an even more comforting twist in this sausage mac 
 
 date: 2024-10-15, from: Daily Coffee News
 
-<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Coffee-Support-620x413.png" class="attachment-large size-large wp-post-image" alt="Coffee Support" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Coffee-Support-620x413.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Coffee-Support-300x200.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Coffee-Support-150x100.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Coffee-Support-768x512.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Coffee-Support.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>High-end coffee production company Ninety Plus announced an exclusive U.S. distribution agreement with Arizona-based business-to-business specialist Coffee Support. Coffee Support plans to release several green coffee offerings from Ninety Plus... 
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Coffee-Support-620x413.png" class="attachment-large size-large wp-post-image" alt="Coffee Support" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Coffee-Support-620x413.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Coffee-Support-300x200.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Coffee-Support-150x100.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Coffee-Support-768x512.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Coffee-Support.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>High-end coffee production company Ninety Plus announced an exclusive U.S. distribution agreement with Arizona-based business-to-business specialist Coffee Support. Coffee Support plans to release several green coffee offerings from Ninety Plus... 
 
 <br> 
 
@@ -273,7 +437,7 @@ date: 2024-10-15, from: Daily Coffee News
 
 date: 2024-10-15, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Mad-Catter-Coffee-Roasters-Allentown-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Mad Catter Coffee Roasters Allentown 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Mad-Catter-Coffee-Roasters-Allentown-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Mad-Catter-Coffee-Roasters-Allentown-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Mad-Catter-Coffee-Roasters-Allentown-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Mad-Catter-Coffee-Roasters-Allentown-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Mad-Catter-Coffee-Roasters-Allentown-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The specialty coffee rabbit hole for Pennsylvania&#8217;s Mad Catter Coffee Roasters got exponentially deeper last month with the opening of the company&#8217;s spacious production roastery and training facility in Allentown.... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Mad-Catter-Coffee-Roasters-Allentown-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Mad Catter Coffee Roasters Allentown 1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Mad-Catter-Coffee-Roasters-Allentown-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Mad-Catter-Coffee-Roasters-Allentown-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Mad-Catter-Coffee-Roasters-Allentown-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Mad-Catter-Coffee-Roasters-Allentown-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Mad-Catter-Coffee-Roasters-Allentown-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The specialty coffee rabbit hole for Pennsylvania&#8217;s Mad Catter Coffee Roasters got exponentially deeper last month with the opening of the company&#8217;s spacious production roastery and training facility in Allentown.... 
 
 <br> 
 
@@ -861,7 +1025,7 @@ date: 2024-10-14, from: Closet Cooking
 
 date: 2024-10-14, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/buffalo-chicken-sliders/" title="Buffalo Chicken Sliders Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Buffalo-Chicken-Sliders-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Hot Buffalo Chicken Sliders on a pan, ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Buffalo-Chicken-Sliders-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Buffalo-Chicken-Sliders-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Buffalo-Chicken-Sliders-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Buffalo-Chicken-Sliders-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Buffalo-Chicken-Sliders-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Buffalo-Chicken-Sliders-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Buffalo-Chicken-Sliders-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>These buffalo chicken sliders are the perfect appetizer with shredded chicken drenched in spicy buffalo sauce, topped with melty cheese, so easy to make!</p>
+<a href="https://www.chilipeppermadness.com/recipes/buffalo-chicken-sliders/" title="Buffalo Chicken Sliders Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Buffalo-Chicken-Sliders-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Hot Buffalo Chicken Sliders on a pan, ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Buffalo-Chicken-Sliders-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Buffalo-Chicken-Sliders-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Buffalo-Chicken-Sliders-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Buffalo-Chicken-Sliders-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Buffalo-Chicken-Sliders-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Buffalo-Chicken-Sliders-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/07/Buffalo-Chicken-Sliders-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>These buffalo chicken sliders are the perfect appetizer with shredded chicken drenched in spicy buffalo sauce, topped with melty cheese, so easy to make!</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/buffalo-chicken-sliders/">Buffalo Chicken Sliders Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 
@@ -918,4 +1082,20 @@ date: 2024-10-13, from: The Sprudge
 <br> 
 
 <https://sprudge.com/coffee-recommendations-you-can-trust-from-the-team-at-sprudge-256828.html>
+
+---
+
+## Magical Mushroom Recipes
+
+date: 2024-10-13, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2017/10/Magical-Mushroom-Recipes.jpg"/></div>
+<p>October the 15th is National Mushroom Day and since mushrooms are one of my favourite foods I took it as an excuse to roundup some of my tastiest mushroom recipes! Mushrooms are so versatile! You can use them in breakfasts, lunches, dinners, snacks, hey wait a minute, I wonder if they can be used in...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/mushroom-recipes/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/mushroom-recipes/">Magical Mushroom Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/mushroom-recipes/>
 

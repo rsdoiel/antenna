@@ -1,11 +1,171 @@
 ---
 title: going electric
-updated: 2024-10-15 17:51:32
+updated: 2024-10-16 07:22:19
 ---
 
 # going electric
 
-(date: 2024-10-15 17:51:32)
+(date: 2024-10-16 07:22:19)
+
+---
+
+## BYD Sealion 7 Debuts In Europe As A Serious Tesla Model Y Competitor
+
+date: 2024-10-16, from: Inside EVs News
+
+The Sealion 7 is expected to be the first BYD to be built in Europe. 
+
+<br> 
+
+<https://insideevs.com/news/737520/byd-sealion-7-debut-europe/>
+
+---
+
+## Nissan Ariya Owners Will Get Tesla Supercharger Access Later This Year
+
+date: 2024-10-16, from: Inside EVs News
+
+Until that happens, Nissan partnered with several charging operators to give Ariya owners access to 90,000 fast chargers. 
+
+<br> 
+
+<https://insideevs.com/news/737627/nissan-ariya-tesla-supercharger-later-2024/>
+
+---
+
+## MINI unveils its first all-electric  ‘performance’ EV
+
+date: 2024-10-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/P90571704_highRes_the-mini-john-cooper.jpeg?quality=82&#038;strip=all&#038;w=1500" /></div><p>MINI has unveiled its first <a href="https://www.press.bmwgroup.com/global/article/detail/T0445509EN/two-global-debuts-at-the-2024-paris-motor-show:-the-new-mini-john-cooper-works-electric-and-the-new-mini-john-cooper-works-aceman?language=en">zero-emissions MINI John Cooper Works</a> car – a sporty upgrade to the MINI Cooper – at this week’s Paris auto show.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bmw,mini,mini-electric" data-layer-viewtype="unknown" data-post-id="384454" href="https://electrek.co/2024/10/16/mini-unveils-its-first-all-electric-performance-ev/#more-384454" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/16/mini-unveils-its-first-all-electric-performance-ev/>
+
+---
+
+## Major electric motorcycle maker Energica files for bankruptcy
+
+date: 2024-10-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/energica-experia-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Italian electric motorcycle maker Energica has officially declared that it is ceasing operations and entering bankruptcy proceedings, ending speculation about the company’s <a href="https://electrek.co/2024/10/14/worrying-signs-point-to-potential-bankruptcy-at-major-electric-motorcycle-maker/">precarious financial situation.</a></p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-motorcycle" data-layer-viewtype="unknown" data-post-id="384446" href="https://electrek.co/2024/10/16/major-electric-motorcycle-maker-energica-files-for-bankruptcy/#more-384446" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/16/major-electric-motorcycle-maker-energica-files-for-bankruptcy/>
+
+---
+
+## Genesis G80 EV gets a massive $22,500 lease incentive on 2024 models
+
+date: 2024-10-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/genesis-electrified-g80.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Genesis Electrified G80 is getting an update for 2025, but the 2024 model still embodies just about everything you probably think of when hear the words “luxury sedan.” And now, Genesis is offering huge incentives to clear out its remaining 2024 models.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-deals,genesis" data-layer-viewtype="unknown" data-post-id="384416" href="https://electrek.co/2024/10/16/genesis-g80-ev-gets-a-massive-22500-lease-incentive-on-2024-models/#more-384416" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/16/genesis-g80-ev-gets-a-massive-22500-lease-incentive-on-2024-models/>
+
+---
+
+## Fisker Ocean Recall Costs Will Be Covered By The Automaker, Judge Rules
+
+date: 2024-10-16, from: Inside EVs News
+
+Previously, the bankrupt automaker said owners would have to pay for the labor costs associated with the recalls. 
+
+<br> 
+
+<https://insideevs.com/news/737614/fisker-ocean-recall-costs-judge-bankruptcy/>
+
+---
+
+## BMW head says that Europe’s ICE ban is ‘no longer realistic’
+
+date: 2024-10-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/BMW-100000-EVs.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BMW Group CEO Oliver Zipse says it’s time to pull the plug on the European Union’s plan to ban ICE vehicles in 2035. Clearly<a href="https://electrek.co/2024/02/28/automakers-say-they-wont-try-to-push-back-eus-2035-ice-ban/"> this isn’t the first time we’ve seen pushback</a>, but Zipse is now taking it up a notch, despite EV sales going fairly well for BMW and Mini. What’s going on here?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bmw,europe,ice-ban" data-layer-viewtype="unknown" data-post-id="384448" href="https://electrek.co/2024/10/16/bmw-head-says-that-europes-ice-ban-is-no-longer-realistic/#more-384448" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/16/bmw-head-says-that-europes-ice-ban-is-no-longer-realistic/>
+
+---
+
+## BMW Chief Says EU Must Cancel 2035 Gas Engine Ban
+
+date: 2024-10-16, from: Inside EVs News
+
+BMW and Mini are doing pretty well on the EV front, so why is Oliver Zipse going down this road? 
+
+<br> 
+
+<https://insideevs.com/news/737569/bmw-ceo-cancel-2035-fuel-ban-eu/>
+
+---
+
+## Royal Enfield teases its upcoming electric motorcycle launch
+
+date: 2024-10-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/royal-enfield-teaser-head.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Legacy motorcycle maker Royal Enfield has released a teaser ahead of its expected electric motorcycle launch next month at the Milan Motorcycle Show (EICMA).</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-motorcycle,india" data-layer-viewtype="unknown" data-post-id="384443" href="https://electrek.co/2024/10/16/royal-enfield-teases-its-upcoming-electric-motorcycle-launch/#more-384443" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/16/royal-enfield-teases-its-upcoming-electric-motorcycle-launch/>
+
+---
+
+## Gogoro expands consumer sales of battery-swapping electric scooters in Singapore
+
+date: 2024-10-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/03/gogoro-food-panda-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Gogoro announced today the expansion of consumer sales of three of its electric scooters in the Singapore market, marking a major expansion from the company’s commercial fleet-based entry into the market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-swap,electric-motorcycle,gogoro" data-layer-viewtype="unknown" data-post-id="384440" href="https://electrek.co/2024/10/16/gogoro-expands-consumer-sales-of-battery-swapping-electric-scooters-in-singapore/#more-384440" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/16/gogoro-expands-consumer-sales-of-battery-swapping-electric-scooters-in-singapore/>
+
+---
+
+## GM reveals Next-Gen tactical vehicle with electric Silent Drive tech
+
+date: 2024-10-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/gbs.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>GM rolled out its new “Next Gen” tactical vehicle prototype at the AUSA conference this week packing electric drive motors at the front and rear axles that enable Silent Drive and Silent Watch technologies to make the trucks harder to detect on the battlefield.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevrolet,gm,military" data-layer-viewtype="unknown" data-post-id="384400" href="https://electrek.co/2024/10/15/gm-reveals-next-gen-tactical-vehicle-with-electric-silent-drive-tech/#more-384400" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/15/gm-reveals-next-gen-tactical-vehicle-with-electric-silent-drive-tech/>
 
 ---
 

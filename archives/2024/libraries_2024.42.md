@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2024-10-15 17:51:31
+updated: 2024-10-16 07:22:18
 ---
 
 # libraries
 
-(date: 2024-10-15 17:51:31)
+(date: 2024-10-16 07:22:18)
+
+---
+
+## Guest Post: ALPSP Annual Conference and Awards 2024 — My Top Playlist out of Manchester
+
+date: 2024-10-16, from: Scholarly Kitchen
+
+<p>A look back at this year's ALPSP Conference.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/10/16/guest-post-alpsp-annual-conference-and-awards-2024-my-top-playlist-out-of-manchester/">Guest Post: ALPSP Annual Conference and Awards 2024 &#8212; My Top Playlist out of Manchester</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2024/10/16/guest-post-alpsp-annual-conference-and-awards-2024-my-top-playlist-out-of-manchester/>
 
 ---
 
