@@ -1,11 +1,11 @@
 ---
 title: writing
-updated: 2024-10-16 10:30:18
+updated: 2024-10-16 11:03:33
 ---
 
 # writing
 
-(date: 2024-10-16 10:30:18)
+(date: 2024-10-16 11:03:33)
 
 ---
 
@@ -117,8 +117,7 @@ The post <a href="https://johnaugust.com/2024/screenwriting-is-a-poorly-defined-
 
 <audio crossorigin="anonymous" controls="controls">
 <source type="audio/mpeg" src="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/661standard.mp3"></source>
-	<a href="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/661standard.mp3" target="_blank">audio/mpeg</a>
-</audio><br> 
+</audio> <a href="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/661standard.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://johnaugust.com/2024/screenwriting-is-a-poorly-defined-problem>
 

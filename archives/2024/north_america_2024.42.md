@@ -1,11 +1,11 @@
 ---
 title: north america
-updated: 2024-10-16 10:30:02
+updated: 2024-10-16 11:03:17
 ---
 
 # north america
 
-(date: 2024-10-16 10:30:02)
+(date: 2024-10-16 11:03:17)
 
 ---
 
@@ -45,8 +45,7 @@ date: 2024-10-16, from: Marketplace Morning Report
 
 <audio crossorigin="anonymous" controls="controls">
 <source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/16/mmr_20241016_MMR_3_64.mp3"></source>
-	<a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/16/mmr_20241016_MMR_3_64.mp3" target="_blank">audio/mpeg</a>
-</audio><br> 
+</audio> <a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/16/mmr_20241016_MMR_3_64.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/marketplace-morning-report/too-many-disasters-not-enough-disaster-money>
 
@@ -266,8 +265,7 @@ date: 2024-10-16, from: Marketplace Morning Report
 
 <audio crossorigin="anonymous" controls="controls">
 <source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/16/mmr_20241016_MMR_2_64.mp3"></source>
-	<a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/16/mmr_20241016_MMR_2_64.mp3" target="_blank">audio/mpeg</a>
-</audio><br> 
+</audio> <a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/16/mmr_20241016_MMR_2_64.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/marketplace-morning-report/the-case-for-healthy-political-disagreement>
 
@@ -282,8 +280,7 @@ date: 2024-10-16, from: Marketplace Morning Report
 
 <audio crossorigin="anonymous" controls="controls">
 <source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/16/mmr_20241016_MMR_1__64.mp3"></source>
-	<a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/16/mmr_20241016_MMR_1__64.mp3" target="_blank">audio/mpeg</a>
-</audio><br> 
+</audio> <a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/16/mmr_20241016_MMR_1__64.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/marketplace-morning-report/italy-pays-albania-to-take-its-migrants>
 
@@ -805,8 +802,7 @@ date: 2024-10-15, from: Market Place
 
 <audio crossorigin="anonymous" controls="controls">
 <source type="audio/mpeg" src="https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/15/pm_20241015_PM_Podcast_64.mp3"></source>
-	<a href="https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/15/pm_20241015_PM_Podcast_64.mp3" target="_blank">audio/mpeg</a>
-</audio><br> 
+</audio> <a href="https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/15/pm_20241015_PM_Podcast_64.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/marketplace/whats-up-with-drugstores>
 
@@ -836,8 +832,7 @@ date: 2024-10-15, from: Market Place, Make me Smart
 
 <audio crossorigin="anonymous" controls="controls">
 <source type="audio/mpeg" src="https://play.podtrac.com/APM-MakeMeSmart/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/15/mms_20241015_MMS_101524_128.mp3"></source>
-	<a href="https://play.podtrac.com/APM-MakeMeSmart/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/15/mms_20241015_MMS_101524_128.mp3" target="_blank">audio/mpeg</a>
-</audio><br> 
+</audio> <a href="https://play.podtrac.com/APM-MakeMeSmart/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/15/mms_20241015_MMS_101524_128.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/make-me-smart/mining-and-the-clean-energy-paradox>
 
@@ -1140,8 +1135,7 @@ date: 2024-10-15, from: Marketplace Morning Report
 
 <audio crossorigin="anonymous" controls="controls">
 <source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/15/mmr_20241015_MMR_3_64.mp3"></source>
-	<a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/15/mmr_20241015_MMR_3_64.mp3" target="_blank">audio/mpeg</a>
-</audio><br> 
+</audio> <a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/15/mmr_20241015_MMR_3_64.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/marketplace-morning-report/could-your-boss-kick-a-little-something-into-your-student-loan-payments>
 
@@ -1331,8 +1325,7 @@ date: 2024-10-15, from: Marketplace Morning Report
 
 <audio crossorigin="anonymous" controls="controls">
 <source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/15/mmr_20241015_MMR_2_64.mp3"></source>
-	<a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/15/mmr_20241015_MMR_2_64.mp3" target="_blank">audio/mpeg</a>
-</audio><br> 
+</audio> <a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/15/mmr_20241015_MMR_2_64.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/marketplace-morning-report/notes-from-a-nobel-winner>
 
@@ -1347,8 +1340,7 @@ date: 2024-10-15, from: Marketplace Morning Report
 
 <audio crossorigin="anonymous" controls="controls">
 <source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/15/mmr_20241015_MMR_1__64.mp3"></source>
-	<a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/15/mmr_20241015_MMR_1__64.mp3" target="_blank">audio/mpeg</a>
-</audio><br> 
+</audio> <a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/15/mmr_20241015_MMR_1__64.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/marketplace-morning-report/pakistan-prepares-for-major-international-security-summit>
 
@@ -1484,8 +1476,7 @@ date: 2024-10-15, from: Market Place, Make me Smart
 
 <audio crossorigin="anonymous" controls="controls">
 <source type="audio/mpeg" src="https://play.podtrac.com/APM-MakeMeSmart/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/14/mms_20241014_MMS_128.mp3"></source>
-	<a href="https://play.podtrac.com/APM-MakeMeSmart/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/14/mms_20241014_MMS_128.mp3" target="_blank">audio/mpeg</a>
-</audio><br> 
+</audio> <a href="https://play.podtrac.com/APM-MakeMeSmart/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/14/mms_20241014_MMS_128.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/make-me-smart/femas-job-is-getting-even-harder>
 
@@ -1586,8 +1577,7 @@ date: 2024-10-14, from: Market Place
 
 <audio crossorigin="anonymous" controls="controls">
 <source type="audio/mpeg" src="https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/14/pm_20241014_PM_Podcast_64.mp3"></source>
-	<a href="https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/14/pm_20241014_PM_Podcast_64.mp3" target="_blank">audio/mpeg</a>
-</audio><br> 
+</audio> <a href="https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/14/pm_20241014_PM_Podcast_64.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/marketplace/bad-debt-prep>
 
@@ -2016,8 +2006,7 @@ date: 2024-10-14, from: Marketplace Morning Report
 
 <audio crossorigin="anonymous" controls="controls">
 <source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/14/mmr_20241014_MMR_2_64.mp3"></source>
-	<a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/14/mmr_20241014_MMR_2_64.mp3" target="_blank">audio/mpeg</a>
-</audio><br> 
+</audio> <a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/14/mmr_20241014_MMR_2_64.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/marketplace-morning-report/and-the-nobel-goes-to>
 
@@ -2032,8 +2021,7 @@ date: 2024-10-14, from: Marketplace Morning Report
 
 <audio crossorigin="anonymous" controls="controls">
 <source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/14/mmr_20241014_MMR_3_64.mp3"></source>
-	<a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/14/mmr_20241014_MMR_3_64.mp3" target="_blank">audio/mpeg</a>
-</audio><br> 
+</audio> <a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/14/mmr_20241014_MMR_3_64.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/marketplace-morning-report/getting-gasoline-into-florida-post-milton>
 
@@ -2157,8 +2145,7 @@ date: 2024-10-14, from: Marketplace Morning Report
 
 <audio crossorigin="anonymous" controls="controls">
 <source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/14/mmr_20241014_MMR_1__64.mp3"></source>
-	<a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/14/mmr_20241014_MMR_1__64.mp3" target="_blank">audio/mpeg</a>
-</audio><br> 
+</audio> <a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/14/mmr_20241014_MMR_1__64.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/marketplace-morning-report/the-paris-motor-show-kicks-into-gear>
 
