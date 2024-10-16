@@ -1,11 +1,11 @@
 ---
 title: north america
-updated: 2024-10-16 09:46:51
+updated: 2024-10-16 10:30:02
 ---
 
 # north america
 
-(date: 2024-10-16 09:46:51)
+(date: 2024-10-16 10:30:02)
 
 ---
 
@@ -43,7 +43,7 @@ date: 2024-10-16, from: Marketplace Morning Report
 <p>The Small Business Administration’s disaster loan program has run dry, meaning the feds can’t make new, low-interest loans to help people rebuild after Hurricanes Helene and Milton. The SBA says it won’t be able to make any new disaster loans until Congress appropriates more money, but members of Congress aren’t scheduled to be back in session until November. And later: Canada&#8217;s tourism industry recovery and California&#8217;s gasoline reserve.</p>
  
 
-<audio controls="controls">
+<audio crossorigin="anonymous" controls="controls">
 <source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/16/mmr_20241016_MMR_3_64.mp3"></source>
 	<a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/16/mmr_20241016_MMR_3_64.mp3" target="_blank">audio/mpeg</a>
 </audio><br> 
@@ -264,7 +264,7 @@ date: 2024-10-16, from: Marketplace Morning Report
 <p>As part of our ongoing Office Politics series, we&#8217;ve heard the case for no political talk at work. Today, we&#8217;re joined by Michael Reszler of the Better Arguments to learn about healthier ways to disagree and to broach political discourse — in the workplace and beyond. We&#8217;ll also get a taste of the process. But first, banks are making a lot of money on investment banking. We&#8217;ll unpack.</p>
  
 
-<audio controls="controls">
+<audio crossorigin="anonymous" controls="controls">
 <source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/16/mmr_20241016_MMR_2_64.mp3"></source>
 	<a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/16/mmr_20241016_MMR_2_64.mp3" target="_blank">audio/mpeg</a>
 </audio><br> 
@@ -280,7 +280,7 @@ date: 2024-10-16, from: Marketplace Morning Report
 <p><em>From the BBC World Service:</em> An Italian naval ship carrying migrants has reached Albania, the first relocation under a new agreement between Italian Prime Minister Giorgia Meloni and Albanian Prime Minister Edi Rama. The move faces criticism from human rights groups. We&#8217;ll hear more about the deal and its financial implications. Also on the show: a look at Hong Kong&#8217;s housing size minimum and Canada&#8217;s post-pandemic tourism recovery.</p>
  
 
-<audio controls="controls">
+<audio crossorigin="anonymous" controls="controls">
 <source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/16/mmr_20241016_MMR_1__64.mp3"></source>
 	<a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/16/mmr_20241016_MMR_1__64.mp3" target="_blank">audio/mpeg</a>
 </audio><br> 
@@ -803,7 +803,7 @@ date: 2024-10-15, from: Market Place
 <p>Walgreens plans to close about 14% of its national footprint in the next three years, making it the third major drugstore chain in the past year to signal it&#8217;s struggling. In this episode: Why have drugstores become a tricky business model, and what happens when communities lose a pharmacy? Plus: Electric vehicle adoption grows but Americans are still cautious, an inventory data point helps indicate where the economy&#8217;s headed, and some family foster agencies are scrambling after their biggest insurer in California pulls out of the market.</p>
  
 
-<audio controls="controls">
+<audio crossorigin="anonymous" controls="controls">
 <source type="audio/mpeg" src="https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/15/pm_20241015_PM_Podcast_64.mp3"></source>
 	<a href="https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/15/pm_20241015_PM_Podcast_64.mp3" target="_blank">audio/mpeg</a>
 </audio><br> 
@@ -834,7 +834,7 @@ date: 2024-10-15, from: Market Place, Make me Smart
 <p>We love to hear from you. Email your comments and questions to makemesmart@marketplace.org or leave us a voicemail at 508-U-B-SMART.</p>
  
 
-<audio controls="controls">
+<audio crossorigin="anonymous" controls="controls">
 <source type="audio/mpeg" src="https://play.podtrac.com/APM-MakeMeSmart/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/15/mms_20241015_MMS_101524_128.mp3"></source>
 	<a href="https://play.podtrac.com/APM-MakeMeSmart/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/15/mms_20241015_MMS_101524_128.mp3" target="_blank">audio/mpeg</a>
 </audio><br> 
@@ -1138,7 +1138,7 @@ date: 2024-10-15, from: Marketplace Morning Report
 <p>There&#8217;s a way U.S. companies could help employees pay down student loan debt the way the boss can help you save for retirement. But will your company go for it? We’ll discuss. First, the lowest-income countries are getting poorer and more in debt, the World Bank finds. Then, we’ll hear some business advice from a 9-year-old entrepreneur, courtesy of our friends over at <a href="https://www.marketplace.org/shows/million-bazillion/">“Million Bazillion.”</a></p>
  
 
-<audio controls="controls">
+<audio crossorigin="anonymous" controls="controls">
 <source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/15/mmr_20241015_MMR_3_64.mp3"></source>
 	<a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/15/mmr_20241015_MMR_3_64.mp3" target="_blank">audio/mpeg</a>
 </audio><br> 
@@ -1329,7 +1329,7 @@ date: 2024-10-15, from: Marketplace Morning Report
 <p>On today&#8217;s program, we&#8217;re joined by Simon Johnson at MIT, who yesterday was one of several U.S. economists to win the Nobel Memorial Prize in Economic Sciences. He studied which systems and institutions contribute to prosperity and which contribute to poverty and inequality. We&#8217;ll hear Johnson&#8217;s conversation with &#8220;Marketplace Morning Report&#8221; host David Brancaccio. Also, Alphabet/Google is turning to nuclear reactors to fuel artificial intelligence systems.</p>
  
 
-<audio controls="controls">
+<audio crossorigin="anonymous" controls="controls">
 <source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/15/mmr_20241015_MMR_2_64.mp3"></source>
 	<a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/15/mmr_20241015_MMR_2_64.mp3" target="_blank">audio/mpeg</a>
 </audio><br> 
@@ -1345,7 +1345,7 @@ date: 2024-10-15, from: Marketplace Morning Report
 <p><em>From the BBC World Service:</em> Leaders and officials from India, Pakistan, China and other countries in the region will meet in Islamabad during the Shanghai Cooperation Organisation summit to discuss how to boost their security, cooperation and economic ties. Then, competition from China and tariffs on Chinese-made cars take centerstage at the Paris Motor Show. And as some content becomes unavailable on streaming platforms, should we just buy more physical media?</p>
  
 
-<audio controls="controls">
+<audio crossorigin="anonymous" controls="controls">
 <source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/15/mmr_20241015_MMR_1__64.mp3"></source>
 	<a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/15/mmr_20241015_MMR_1__64.mp3" target="_blank">audio/mpeg</a>
 </audio><br> 
@@ -1482,7 +1482,7 @@ date: 2024-10-15, from: Market Place, Make me Smart
 <p><!-- /wp:paragraph --></p>
  
 
-<audio controls="controls">
+<audio crossorigin="anonymous" controls="controls">
 <source type="audio/mpeg" src="https://play.podtrac.com/APM-MakeMeSmart/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/14/mms_20241014_MMS_128.mp3"></source>
 	<a href="https://play.podtrac.com/APM-MakeMeSmart/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/14/mms_20241014_MMS_128.mp3" target="_blank">audio/mpeg</a>
 </audio><br> 
@@ -1584,7 +1584,7 @@ date: 2024-10-14, from: Market Place
 <p>JPMorgan Chase and other major banks are setting aside extra cash in anticipation of an uptick in bad loans. Lending always comes with some risk, but right now, banks are worried about a few specific types of debt. Also in this episode: Some discouraged job seekers aren&#8217;t included in the official unemployment tally, OPEC downgrades its demand forecast — again, and Russian bots take over online poker games.</p>
  
 
-<audio controls="controls">
+<audio crossorigin="anonymous" controls="controls">
 <source type="audio/mpeg" src="https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/14/pm_20241014_PM_Podcast_64.mp3"></source>
 	<a href="https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/14/pm_20241014_PM_Podcast_64.mp3" target="_blank">audio/mpeg</a>
 </audio><br> 
@@ -2014,7 +2014,7 @@ date: 2024-10-14, from: Marketplace Morning Report
 <p>This morning, the Nobel committee announced the winners of the economics prize: three economists focused on how social institutions affect poverty and wealth within and among countries. The winners were Daron Acemoglu and Simon Johnson of MIT and James A. Robinson at the University of Chicago. Today, we&#8217;ll discuss some of their research findings. Plus, how can cultural intelligence help companies bridge a divided workplace in the run-up to the election?</p>
  
 
-<audio controls="controls">
+<audio crossorigin="anonymous" controls="controls">
 <source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/14/mmr_20241014_MMR_2_64.mp3"></source>
 	<a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/14/mmr_20241014_MMR_2_64.mp3" target="_blank">audio/mpeg</a>
 </audio><br> 
@@ -2030,7 +2030,7 @@ date: 2024-10-14, from: Marketplace Morning Report
 <p>More than 400,000 electricity customers are out of power across Florida this morning. After the storm, ports, transfer terminals and roads were closed, and that&#8217;s disrupted the supply of critical products, including gasoline. We&#8217;ll get into it. Then, you may be getting an inundation of fundraising texts and emails from the Trump-Vance or Harris-Walz. But do the campaigns really need your money at this point? And later, we&#8217;ll learn about hotel-to-housing conversions.</p>
  
 
-<audio controls="controls">
+<audio crossorigin="anonymous" controls="controls">
 <source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/14/mmr_20241014_MMR_3_64.mp3"></source>
 	<a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/14/mmr_20241014_MMR_3_64.mp3" target="_blank">audio/mpeg</a>
 </audio><br> 
@@ -2155,7 +2155,7 @@ date: 2024-10-14, from: Marketplace Morning Report
 <p><em>From the BBC World Service:</em> All roads lead to Paris as the City of Light hosts its major motor show, with French and ­Chinese car manufacturers dominating the event with new reveals. Then, South America has exceeded its record for wildfires this year. The Amazon rainforest is seeing its worst fires in two decades; an area bigger than Sri Lanka has burned in the Brazilian Amazon alone.</p>
  
 
-<audio controls="controls">
+<audio crossorigin="anonymous" controls="controls">
 <source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/14/mmr_20241014_MMR_1__64.mp3"></source>
 	<a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/14/mmr_20241014_MMR_1__64.mp3" target="_blank">audio/mpeg</a>
 </audio><br> 

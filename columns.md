@@ -1,11 +1,11 @@
 ---
 title: columns
-updated: 2024-10-16 09:46:51
+updated: 2024-10-16 10:30:16
 ---
 
 # columns
 
-(date: 2024-10-16 09:46:51)
+(date: 2024-10-16 10:30:16)
 
 ---
 
@@ -262,7 +262,7 @@ date: 2024-10-15, from: Heather Cox Richardson blog
 
  
 
-<audio controls="controls">
+<audio crossorigin="anonymous" controls="controls">
 <source type="audio/mpeg" src="https://api.substack.com/feed/podcast/150273123/856c5badbbf08cf33e59a4024ab6554e.mp3"></source>
 	<a href="https://api.substack.com/feed/podcast/150273123/856c5badbbf08cf33e59a4024ab6554e.mp3" target="_blank">audio/mpeg</a>
 </audio><br> 
@@ -634,7 +634,7 @@ date: 2024-10-14, from: Heather Cox Richardson blog
 
  
 
-<audio controls="controls">
+<audio crossorigin="anonymous" controls="controls">
 <source type="audio/mpeg" src="https://api.substack.com/feed/podcast/150224402/e9d281d4faa25dda3c22c8dd70c9988f.mp3"></source>
 	<a href="https://api.substack.com/feed/podcast/150224402/e9d281d4faa25dda3c22c8dd70c9988f.mp3" target="_blank">audio/mpeg</a>
 </audio><br> 

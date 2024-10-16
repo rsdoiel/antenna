@@ -1,11 +1,11 @@
 ---
 title: writing
-updated: 2024-10-16 09:46:52
+updated: 2024-10-16 10:30:18
 ---
 
 # writing
 
-(date: 2024-10-16 09:46:52)
+(date: 2024-10-16 10:30:18)
 
 ---
 
@@ -115,7 +115,7 @@ date: 2024-10-15, from: John August blog
 Why is screenwriting so difficult, even for the smartest people? John and Craig look at the relationship between intelligence and wisdom, the kinds of problems writers attempt to solve, and the unmeasurable skills that screenwriters need to succeed. Then it’s another round of the Three Page Challenge, where they give their honest feedback on three [&#8230;]
 The post <a href="https://johnaugust.com/2024/screenwriting-is-a-poorly-defined-problem">Screenwriting is a Poorly Defined Problem</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
 
-<audio controls="controls">
+<audio crossorigin="anonymous" controls="controls">
 <source type="audio/mpeg" src="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/661standard.mp3"></source>
 	<a href="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/661standard.mp3" target="_blank">audio/mpeg</a>
 </audio><br> 
