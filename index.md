@@ -14,7 +14,7 @@ Collection                                          Description of Posts        
 [Good Eats, Healthy Eats](food.html)                Healthy Eats, Good Eats                                            [food.txt](foot.txt)
 [North America](north_america.html)                 North America                                                      [north_america.txt](north_america.txt)
 [Going Electric](going_electric.html)               Going Electric                                                     [going_electric.txt](going_electric.txt)
-[Science & Technology](science_and_technolgy.html)  Science and Technology                                             [science_and_technology.txt](science_and_technology.txt)
+[Science & Technology](science_and_technology.html)  Science and Technology                                             [science_and_technology.txt](science_and_technology.txt)
 [Columns](columns.html)                             Frequent Pocket additions                                          [columns.txt](columns.txt)
 [Retro Computing](retro_computing.html)             Computer history and systems                                       [retro_computing.txt](retro_computing.txt)
 [Libraries](libraries.html)                         Libraries, Archives and Museums                                    [libraries.txt](libraries.txt)
