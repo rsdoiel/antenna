@@ -1,9 +1,5 @@
 #!/bin/bash
 
-<<<<<<< HEAD:snapshots/build_snapshot.bash
-=======
-APP_NAME="$(basename "$0")"
->>>>>>> 88530d0e8 (snapshot of fixing bad gh-pages merge):snapshots/todays_feeds.bash
 SKIM_FILE="news.skim"
 if [ ! -f "${SKIM_FILE}" ]; then
 	skimmer "${SKIM_FILE/.skim/.txt}"
@@ -17,16 +13,11 @@ END_TODAYS_NEWS="$(reldate +1 week)"
 #
 function make_skim() {
 	echo "Harvesting to ${SKIM_FILE/.skim/.txt}"
-<<<<<<< HEAD:snapshots/build_snapshot.bash
 	if skimmer "${SKIM_FILE/.skim/.txt}"; then
 		echo "Harvest completed"
 	else
 		echo "Harvest not completed"
 	fi
-=======
-	skimmer "${SKIM_FILE/.skim/.txt}"
-	exit 0
->>>>>>> 88530d0e8 (snapshot of fixing bad gh-pages merge):snapshots/todays_feeds.bash
 }
 
 function make_markdown() {
@@ -88,11 +79,7 @@ EOT
 # Main procssing
 #
 if [ "$1" != "" ]; then
-<<<<<<< HEAD:snapshots/build_snapshot.bash
 	for ARG in "$@"; do
-=======
-	for ARG in $@; do
->>>>>>> 88530d0e8 (snapshot of fixing bad gh-pages merge):snapshots/todays_feeds.bash
 		case "$ARG" in
 	  		skim)
 	  		make_skim
