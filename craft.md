@@ -1,11 +1,35 @@
 ---
 title: craft
-updated: 2024-10-16 11:03:48
+updated: 2024-10-17 07:32:22
 ---
 
 # craft
 
-(date: 2024-10-16 11:03:48)
+(date: 2024-10-17 07:32:22)
+
+---
+
+## 2025 World Tour! (It’s Only 2 Places)
+
+date: 2024-10-17, from: Lost Arg Press blog
+
+I’m teaching four stick chair classes in Germany and Australia in 2025. Yes, it’s an American teaching a Welsh/Scottish/Irish form in places that are truly exotic for this humble chair form. Here are details and links. First stop, Germany. Comb-back Stick Chair With a Steambent ArmJuly 7-11, 2025Dictum, Niederalteich facility This is the most ambitious... 
+
+<br> 
+
+<https://blog.lostartpress.com/2024/10/17/2025-world-tour-its-only-2-places/>
+
+---
+
+## A Rosewood Heist
+
+date: 2024-10-17, from: Lost Arg Press blog
+
+Yale Environment 360, an online magazine published at the Yale School of Environment, recently published a story titled “How Traffickers Got Away with the Biggest Rosewood Heist in History” by Zach St. George. This story tells how 30,000 rosewood logs were illegally harvested in Madagascar and trafficked on a cargo ship to Singapore. And why... 
+
+<br> 
+
+<https://blog.lostartpress.com/2024/10/17/a-rosewood-heist/>
 
 ---
 

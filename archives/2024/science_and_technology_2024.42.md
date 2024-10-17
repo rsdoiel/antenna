@@ -1,11 +1,455 @@
 ---
 title: science and technology
-updated: 2024-10-16 11:03:27
+updated: 2024-10-17 07:32:19
 ---
 
 # science and technology
 
-(date: 2024-10-16 11:03:27)
+(date: 2024-10-17 07:32:19)
+
+---
+
+## NASA’s SpaceX 31st Resupply Mission to Launch Experiments to Station
+
+date: 2024-10-17, from: NASA breaking news
+
+NASA and its international partners are launching scientific investigations on SpaceX’s 31st commercial resupply services mission to the International Space Station including studies of solar wind, a radiation-tolerant moss, spacecraft materials, and cold welding in space. The company’s Dragon cargo spacecraft is scheduled to launch from NASA’s Kennedy Space Center in Florida. Read more about [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/station/iss-research/nasas-spacex-31st-resupply-mission-to-launch-experiments-to-station/>
+
+---
+
+## Brazilian police claim they've cuffed serial cybercrook behind FBI and Airbus attacks
+
+date: 2024-10-17, updated: 2024-10-17, from: The Register (UK I.T. News)
+
+<h4>Early stage opsec failures lead to landmark arrest of suspected serial data thief</h4> <p>Brazilian police are being cagey with the details about the arrest of a person suspected to be responsible for various high-profile data thefts.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/17/brazil_usdod_arrest/>
+
+---
+
+## HMD delivers Android Digital Detox feature to stop you scrolling your life away
+
+date: 2024-10-17, updated: 2024-10-17, from: The Register (UK I.T. News)
+
+<h4>Update for Skyline phone brings selective distraction blocking</h4> <p>A couple of months after launch, an OS update has delivered one of the <del>Nokia</del> HMD Skyline&#39;s headline features.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/17/hmd_skyline_digital_detox/>
+
+---
+
+## TSMC revenue up 36% as world+dog demands AI and smartphone chips
+
+date: 2024-10-17, updated: 2024-10-17, from: The Register (UK I.T. News)
+
+<h4>Biggest semi contract manufacturer – and Nvidia supplier – building out capacity in US and Europe</h4> <p>Taiwan&#39;s semiconductor giant TSMC has reported a good third quarter with revenue up 36 percent over a year ago, due to strong demand from chip companies for smartphone and AI-related silicon.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/17/tsmc_q3_2024/>
+
+---
+
+## Post Office CTO had 'nagging doubts' about Horizon system despite reliability assurances
+
+date: 2024-10-17, updated: 2024-10-17, from: The Register (UK I.T. News)
+
+<h4>As &#39;heat&#39; built from campaigners, tech boss kept telling MPs everything was fine</h4> <p>The former CTO of the Post Office had &#34;nagging doubts&#34; about the Horizon system at the center of one of the most far-reaching miscarriages of justice in UK history, yet he continued to sign off statements to MPs attesting to its security and reliability.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/17/post_office_cto_inquiry/>
+
+---
+
+## Elon Musk's disaster relief promises: Should we believe the hype?
+
+date: 2024-10-17, updated: 2024-10-17, from: The Register (UK I.T. News)
+
+<h4>When you look behind the headlines, you&#39;ll find unfulfilled commitments</h4> <p><strong>Opinion</strong>  I live in Asheville, North Carolina. You may have seen my hometown in the news over the last few weeks after Hurricane Helene wrecked the place.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/17/opinion_column_elon_musk/>
+
+---
+
+## UK electronics firms want government to stop taxing trash and let them fix it instead
+
+date: 2024-10-17, updated: 2024-10-17, from: The Register (UK I.T. News)
+
+<h4>CLEAR group calls for VAT to be dropped on spare parts, repairs, labor</h4> <p>A newly formed group of UK electronics companies is advocating for the removal of VAT on electronic spare parts, repairs, and labor in the government&#39;s upcoming autumn budget, claiming this would encourage consumers to get kit repaired instead of replacing it.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/17/clear_vat_electronics_repairs/>
+
+---
+
+## WeChat devs introduced security flaws when they modded TLS, say researchers
+
+date: 2024-10-17, updated: 2024-10-17, from: The Register (UK I.T. News)
+
+<h4>No attacks possible, but enough issues to cause concern</h4> <p>Messaging giant WeChat uses a network protocol that the app&#39;s developers modified – and by doing so introduced security weaknesses, researchers claim.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/17/wechat_devs_modded_tls_introducing/>
+
+---
+
+## Anonymous Sudan isn't any more: Two alleged operators named, charged
+
+date: 2024-10-17, updated: 2024-10-17, from: The Register (UK I.T. News)
+
+<h4>Gang said to have developed its evilware on GitHub – then DDoSed GitHub</h4> <p>Hacktivist gang Anonymous Sudan appears to have lost its anonymity after the US Attorney&#39;s Office on Wednesday unsealed an indictment identifying two of its alleged operators.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/17/anonymous_sudan_arrests_charges/>
+
+---
+
+## Elon Musk's X isn't important enough to feel the full force of EU regulation
+
+date: 2024-10-17, updated: 2024-10-17, from: The Register (UK I.T. News)
+
+<h4>DMA gatekeeper status denied, meaning X can carry on without extra compliance chores</h4> <p>The EU has said it won&#39;t classify Elon Musk’s X as “gatekeeper” – the bloc’s designation for the most significant digital platforms- because it doesn’t think the social network is that big a deal.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/17/eu_x_dma_regulation/>
+
+---
+
+## Oh, what a feeling: Toyota building robots that get better with practice
+
+date: 2024-10-17, updated: 2024-10-17, from: The Register (UK I.T. News)
+
+<h4>Bots that learn to peel potatoes is a lot less scary than Black Mirror</h4> <p>Boston Dynamics and Toyota Research Institute (TRI) announced on Wednesday they&#39;re partnering to combine the former&#39;s multi-jointed athletic humanoid, Atlas, with TRI&#39;s large behavior models (LBM).…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/17/boston_dynamics_lbm/>
+
+---
+
+## China launches plan to lead the world in space exploration
+
+date: 2024-10-17, updated: 2024-10-17, from: The Register (UK I.T. News)
+
+<h4>Long-term research program includes building Moon bases, finding habitable exoplanets, and probing &#39;space-time ripples&#39;</h4> <p>China yesterday revealed its space exploration plans between now and the year 2050, and one of the nation&#39;s goals is finding habitable planets beyond our solar system.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/17/china_longterm_space_plan/>
+
+---
+
+## Wipro orders hybrid work as other tech giants make full-time pants-wearing mandatory
+
+date: 2024-10-17, updated: 2024-10-17, from: The Register (UK I.T. News)
+
+<h4>India&#39;s services giants think their consultants can serve you from wherever</h4> <p>Indian IT outsourcer Wipro bucked recent trends this week, when it announced it would allow its employees remote work.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/17/wipro_hybrid_work/>
+
+---
+
+## Datacenter CEO faked top-tier IT reliability cert to snag $10.7M SEC deal, DoJ claims
+
+date: 2024-10-17, updated: 2024-10-17, from: The Register (UK I.T. News)
+
+<h4>The Uptime Institute rates availability. The &#39;Uptime Council&#39; … apparently doesn&#39;t exist</h4> <p><strong>Updated</strong>  It&#39;s one thing to stretch the truth in your marketing material, but allegedly lying about your datacenter&#39;s qualities to lure the US Securities and Exchange Commission as a customer is a whole other matter.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/17/datacenter_ceo_fake_cert_sec/>
+
+---
+
+## US contractor pays $300K to settle accusation it didn't properly look after Medicare users' data
+
+date: 2024-10-16, updated: 2024-10-17, from: The Register (UK I.T. News)
+
+<h4>Resolves allegations it improperly stored screenshots containing PII that were later snaffled</h4> <p>A US government contractor will settle claims it violated cyber security rules prior to a breach that compromised Medicare beneficiaries&#39; personal data.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/16/us_contractor_pays_300k_in/>
+
+---
+
+## Intel lets go of 2,000 staff at Oregon R&amp;D site, offices in Texas, Arizona, California
+
+date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
+
+<h4>Layoffs follow more than 7,500 voluntary departures, early retirements</h4> <p>Intel this week handed out pink slips to more than 2,000 workers across the United States.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/16/intel_layoffs/>
+
+---
+
+## Critical default credential bug in Kubernetes Image Builder allows SSH root access
+
+date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
+
+<h4>It&#39;s called leaving the door wide open – especially in Proxmox</h4> <p>A critical bug in Kubernetes Image Builder could allow unauthorized SSH access to virtual machines (VMs) thanks to default credentials being enabled during the image build process.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/16/critical_kubernetes_image_builder_bug/>
+
+---
+
+## NASA Pilots Add Perspective to Research
+
+date: 2024-10-16, from: NASA breaking news
+
+NASA research pilots are experts on how to achieve the right flight-test conditions for experiments and the tools needed for successful missions. It is that expertise that enables pilots to help researchers learn how an aircraft can fly their technology innovations and save time and money, while increasing the innovation’s readiness for use. NASA pilots [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pilots-add-perspective-to-research/>
+
+---
+
+## Volkswagen monitoring data dump threat from 8Base ransomware crew
+
+date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
+
+<h4>The German car giant appears to be unconcerned</h4> <p>The 8Base ransomware crew claims to have stolen a huge data dump of Volkswagen files and is threatening to publish them, but the German car giant appears to be unconcerned.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/16/volkswagen_ransomware_data_loss/>
+
+---
+
+## Navigating Space and Sound: Jesse Bazley Supports Station Integration and Colleagues With Disabilities
+
+date: 2024-10-16, from: NASA breaking news
+
+A salute is widely recognized as a display of respect, but did you know it also means ‘hello’ in American Sign Language? It is one of the signs that Jesse Bazley, International Space Station/Commercial Low Earth Orbit Development Program integration team lead, subtly incorporates into his daily interactions with colleagues at NASA’s Johnson Space Center [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/navigating-space-and-sound-jesse-bazley-supports-station-integration-and-colleagues-with-disabilities/>
+
+---
+
+## Bandai Namco reportedly tries to bore staff into quitting, skirting Japan’s labor laws
+
+date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
+
+<h4>Welcome to the oidashi beya, aka expulsion rooms</h4> <p>The next time you feel dehumanized by rumors of surprise HR meetings popping up on calendars amidst layoff rumors, be glad you don&#39;t work at game studio Bandai Namco in Japan. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/16/bandai_namcos_layoff_technique_is/>
+
+---
+
+## See the First Section of the Largest-Ever Cosmic Map, Revealed in Stunning Detail by the Euclid Space Telescope
+
+date: 2024-10-16, from: Smithsonian Magazine
+
+The final 3D atlas of the sky will help scientists study dark matter and dark energy, which make up 96 percent of the universe but remain mysterious 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/see-the-first-section-of-the-largest-ever-cosmic-map-revealed-in-stunning-detail-by-the-euclid-space-telescope-180985281/>
+
+---
+
+## The View from Space Keeps Getting Better
+
+date: 2024-10-16, from: NASA breaking news
+
+After 50 years of Landsat, discovery of new commercial and scientific uses is only accelerating  
+
+<br> 
+
+<https://www.nasa.gov/technology/tech-transfer-spinoffs/the-view-from-space-keeps-getting-better/>
+
+---
+
+## New Team to Assess NASA’s Mars Sample Return Architecture Proposals
+
+date: 2024-10-16, from: NASA breaking news
+
+NASA announced Wednesday a new strategy review team will assess potential architecture adjustments for the agency’s Mars Sample Return Program, which aims to bring back scientifically selected samples from Mars, and is a key step in NASA’s quest to better understand our solar system and help answer whether we are alone in the universe. 
+
+<br> 
+
+<https://science.nasa.gov/missions/mars-sample-return/new-team-to-assess-nasas-mars-sample-return-architecture-proposals/>
+
+---
+
+## See the Vatican's Magnificent Marble Statue of the Greek God Apollo Restored to Its Former Glory
+
+date: 2024-10-16, from: Smithsonian Magazine
+
+Experts added a carbon fiber pole to help anchor the "Apollo Belvedere," which had developed cracks along the legs and knees. Now, the looming Roman sculpture is finally back on display 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/see-the-vaticans-magnificent-marble-statue-of-the-greek-god-apollo-restored-to-its-former-glory-180985283/>
+
+---
+
+## Sacrifice and Success: NASA Engineer Honors Family Roots
+
+date: 2024-10-16, from: NASA breaking news
+
+Lee esta historia en Español aquí. Born and raised in Peru, Daniel Velasquez moved to the United States when he was 10 years old. While that decision was a big transition for his family, it also created many opportunities for him. Now Velasquez is an operations engineer for NASA’s Air Mobility Pathfinders project at NASA’s [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/armstrong/sacrifice-and-success-nasa-engineer-honors-family-roots/>
+
+---
+
+## Sacrificio y Éxito: Ingeniero de la NASA honra sus orígenes familiares
+
+date: 2024-10-16, from: NASA breaking news
+
+Read this story in English here. Nacido y criado en Perú, Daniel Velásquez se estableció en los Estados Unidos cuando tenía 10 años. Aunque esa decisión fue una gran transición para su familia, también le creó muchas oportunidades. Ahora Velásquez es ingeniero de operaciones del proyecto Pathfinders de Movilidad Aérea de la NASA en el [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/armstrong/sacrificio-y-exito-ingeniero-de-la-nasa-honra-sus-origenes-familiares/>
+
+---
+
+## Critical hardcoded SolarWinds credential now exploited in the wild
+
+date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
+
+<h4>Another blow for IT software house and its customers</h4> <p>A critical, hardcoded login credential in SolarWinds&#39; Web Help Desk line has been exploited in the wild by criminals, according to the US Cybersecurity and Infrastructure Security Agency, which has added the security blunder to its Known Exploited Vulnerabilities (KEV) Catalog.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/16/solarwinds_critical_hardcoded_credential_bug/>
+
+---
+
+## The Marshall Star for October 16, 2024
+
+date: 2024-10-16, from: NASA breaking news
+
+Liftoff! NASA’s Europa Clipper Sails Toward Ocean Moon of Jupiter NASA’s Europa Clipper has embarked on its long voyage to Jupiter, where it will investigate Europa, a moon with an enormous subsurface ocean that may have conditions to support life. The spacecraft launched at 11:06 a.m. CDT on Oct. 14 aboard a SpaceX Falcon Heavy [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-october-16-2024/>
+
+---
+
+## FTC drops hammer on unwanted subscriptions with 'click to cancel' rule
+
+date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
+
+<h4>It &#39;will end these tricks and traps, saving Americans time and money&#39;</h4> <p>The US Federal Trade Commission on Wednesday announced a final &#34;click-to-cancel&#34; rule that aims to simplify the process of ending unwanted subscriptions to products and services.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/16/ftc_tames_subscriptions/>
+
+---
+
+## Mysterious Craters Discovered on the Bottom of Lake Michigan Could Hold Lessons About Early Life on Earth
+
+date: 2024-10-16, from: Smithsonian Magazine
+
+Scientists aren't sure how the circular indentations some 450 feet below the surface formed, but they hope to investigate further 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/mysterious-craters-discovered-on-the-bottom-of-lake-michigan-could-hold-lessons-about-early-life-on-earth-180985258/>
+
+---
+
+## These Iron Age Swords Were Smuggled Out of Iran and Modified to Increase Their Value on the Black Market
+
+date: 2024-10-16, from: Smithsonian Magazine
+
+Using advanced imaging techniques, researchers discovered modern glue, drill holes and even a fragment of a drill bit in the pastiches 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/these-iron-age-swords-were-smuggled-out-of-iran-and-modified-to-increase-their-value-on-the-black-market-180985266/>
+
+---
+
+## China’s infosec leads accuse Intel of NSA backdoor, cite chip security flaws
+
+date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
+
+<h4>Uncle Sam having a secret way into US tech? Say it ain&#39;t so</h4> <p>A Chinese industry group has accused Intel of backdooring its CPUs, in addition to other questionable security practices while calling for an investigation into the chipmaker, claiming its products pose &#34;serious risks to national security.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/16/china_intel_chip_security/>
+
+---
+
+## Amazon makes $500M bet on itty-bitty nuclear reactors to fuel cloud empire
+
+date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
+
+<h4>The duo eyes a target of 5 GW online in US by 2039, assuming tech comes to fruition</h4> <p>With energy scarcity threatening to derail datacenter ambitions, cloud providers are looking for salvation in the atom.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/16/amazon_nuclear_smr/>
+
+---
+
+## See the Super Hunter's Moon Tonight, the Biggest and Brightest Full Moon of the Year
+
+date: 2024-10-16, from: Smithsonian Magazine
+
+This week's supermoon is closer to Earth than any other in 2024 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/see-the-super-hunters-moon-tonight-the-biggest-and-brightest-full-moon-of-the-year-180985277/>
+
+---
+
+## Parents take school to court after student punished for using AI
+
+date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
+
+<h4>Claims their child will &#39;suffer irreparable harm&#39; if the record stays</h4> <p>The parents of a Massachusetts child are taking his school to court after the student was punished for using AI in a class project.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/16/parents_sue_student_ai/>
+
+---
+
+## NASA Seeks Innovative Ideas with Revamped Procurement Framework
+
+date: 2024-10-16, from: NASA breaking news
+
+NASA is announcing the relaunch of the NASA Acquisition Innovation Launchpad (NAIL), a framework to drive innovation and modernize acquisition processes across the agency, after piloting the program for a year. NASA spends approximately $21 billion or 85% of its budget on acquiring goods and services. Managed by NASA’s Office of Procurement, the NAIL was [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/hq/nasa-seeks-innovative-ideas-with-revamped-procurement-framework/>
 
 ---
 
@@ -165,11 +609,11 @@ date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
 
 ---
 
-## Open-sourcing of WinAmp goes badly as owners delete entire repo
+## Opening up the WinAmp source to all goes badly as owners delete entire repo
 
-date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
+date: 2024-10-16, updated: 2024-10-17, from: The Register (UK I.T. News)
 
-<h4>As badly as the later development of WinAmp itself, really</h4> <p>The owners of WinAmp have just deleted their entire repo one month after uploading the source code to GitHub. Lots of source code, and quite possibly, not all of it theirs.…</p> 
+<h4>As badly as the later development of the player itself, really</h4> <p>The owners of WinAmp have just deleted their entire repo one month after uploading the source code to GitHub. Lots of source code, and quite possibly, not all of it theirs.…</p> 
 
 <br> 
 
@@ -253,7 +697,7 @@ date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
 
 date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
 
-<h4>Messaging service creates persistent user IDs that have different qualities on each device</h4> <p>An analysis of Meta&#39;s WhatsApp messaging software reveals that it may expose which operating system a user is running, and their device setup information – including the number of linked devices.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>Meta knows messaging service creates persistent user IDs that have different qualities on each device</h4> <p><strong>Updated</strong>  An analysis of Meta&#39;s WhatsApp messaging software reveals that it may expose which operating system a user is running, and their device setup information – including the number of linked devices.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 
@@ -323,9 +767,9 @@ date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
 
 ## Cisco confirms 'ongoing investigation' after crims brag about selling tons of data
 
-date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
+date: 2024-10-15, updated: 2024-10-16, from: The Register (UK I.T. News)
 
-<h4>IntelBroker claims the breach impacts Microsoft, SAP, AT&amp;T, Verizon, T-Mobile US, and more</h4> <p>Cisco has confirmed it is investigating claims of stealing — and now selling — data belonging to the networking giant.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>Networking giant says &#39;no evidence&#39; of impact on its systems but will tell customers if their info has been stolen</h4> <p><strong>UPDATED</strong>  Cisco has confirmed it is investigating claims of stealing — and now selling — data belonging to the networking giant.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 
@@ -383,7 +827,7 @@ In 1924, Andrew "Sandy" Irvine joined George Mallory’s expedition to the world
 
 ## Digital River runs dry, hasn't paid developers for sales since July
 
-date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
+date: 2024-10-15, updated: 2024-10-17, from: The Register (UK I.T. News)
 
 <h4>Vendor told El Reg the biz&#39;s law firm claims merchant debts aren’t valid obligations</h4> <p>Digital River has not paid numerous merchants since midsummer for software and digital products they sold through its MyCommerce platform.…</p> 
 
@@ -407,9 +851,9 @@ The recent excavation beneath the Treasury has revealed 12 complete human skelet
 
 ## Sysadmins rage over Apple’s ‘nightmarish’ SSL/TLS cert lifespan cuts
 
-date: 2024-10-15, updated: 2024-10-15, from: The Register (UK I.T. News)
+date: 2024-10-15, updated: 2024-10-16, from: The Register (UK I.T. News)
 
-<h4>Maximum validity down from 398 days to 45 by 2027</h4> <p>Apple wants to shorten SSL/TLS security certificates&#39; lifespans, down from 398 days now to just 45 days by 2027, and sysadmins have some very strong feelings about this &#34;nightmarish&#34; plan. …</p> 
+<h4>Max validity down from 398 days to proposed 45 by 2027</h4> <p>Apple wants to shorten SSL/TLS security certificates&#39; lifespans, down from 398 days now to just 45 days by 2027, and sysadmins have some very strong feelings about this &#34;nightmarish&#34; plan. …</p> 
 
 <br> 
 

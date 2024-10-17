@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2024-10-16 11:03:35
+updated: 2024-10-17 07:32:20
 ---
 
 # libraries
 
-(date: 2024-10-16 11:03:35)
+(date: 2024-10-17 07:32:20)
+
+---
+
+## Guest Post: Exploring the “Hopes and Fears” About Generative Artificial Intelligence in Web Scale Discovery
+
+date: 2024-10-17, from: Scholarly Kitchen
+
+<p>A new survey seeks to better understand the risks and benefits of GenAI in the discovery ecosystem.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/10/17/guest-post-exploring-the-hopes-and-fears-about-generative-artificial-intelligence-in-web-scale-discovery/">Guest Post: Exploring the “Hopes and Fears” About Generative Artificial Intelligence in Web Scale Discovery</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2024/10/17/guest-post-exploring-the-hopes-and-fears-about-generative-artificial-intelligence-in-web-scale-discovery/>
 
 ---
 

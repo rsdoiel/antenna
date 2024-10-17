@@ -1,11 +1,36 @@
 ---
 title: writing
-updated: 2024-10-16 11:03:33
+updated: 2024-10-17 07:32:20
 ---
 
 # writing
 
-(date: 2024-10-16 11:03:33)
+(date: 2024-10-17 07:32:20)
+
+---
+
+## Russell Davis joins SFWA leadership
+
+date: 2024-10-16, from: Locus Magazine
+
+<p>The Science Fiction and Fantasy Writers Association (SFWA) sent a message to members on October 15, 2024, announcing that Russell Davis is being brought in for &#8220;a transitional leadership position.&#8221; Interim President Anthony W. Eichenlaub said</p>
+<p>Recent resignations prove to us how much we’ve come to depend on our staff while also highlighting flaws in the structure of our organization. SFWA must change as it rebuilds&#8230; [Davis] knows SFWA well,  <a href="https://locusmag.com/2024/10/russell-davis-joins-sfwa-leadership/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/10/russell-davis-joins-sfwa-leadership/>
+
+---
+
+## 👻 House-sitting for ghosts
+
+date: 2024-10-16, from: Interesting, a blog on writing
+
+Keep telling yourself it's just the house settling. 
+
+<br> 
+
+<https://inneresting.substack.com/p/house-sitting-for-ghosts>
 
 ---
 

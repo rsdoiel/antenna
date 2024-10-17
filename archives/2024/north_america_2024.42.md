@@ -1,11 +1,1267 @@
 ---
 title: north america
-updated: 2024-10-16 11:03:17
+updated: 2024-10-17 07:32:18
 ---
 
 # north america
 
-(date: 2024-10-16 11:03:17)
+(date: 2024-10-17 07:32:18)
+
+---
+
+## Hurricanes Helene, Milton might affect 2024 voting. Here's how
+
+date: 2024-10-17, from: VOA News USA
+
+The U.S. states of Florida, North Carolina and Georgia are dealing with the aftermath of two major hurricanes that killed hundreds of people and caused tens of billions of dollars in damage. With the presidential election less than a month away and the race extremely close, White House Bureau Chief Patsy Widakuswara looks at how the storms might affect voting in these states. 
+
+<br> 
+
+<https://www.voanews.com/a/hurricanes-helene-milton-might-affect-2024-voting-here-s-how/7825901.html>
+
+---
+
+## Panel looking into Trump assassination attempt says Secret Service needs 'fundamental reform'
+
+date: 2024-10-17, from: VOA News USA
+
+An independent panel investigating the attempted assassination of Donald Trump at a Pennsylvania campaign rally faulted the Secret Service for poor communications that day and failing to secure the building where the gunman took his shots. The review also found more systemic issues at the agency such as a failure to understand the unique risks facing Trump and a culture of doing "more with less." 
+
+
+The 52-page report issued Thursday took the Secret Service to task for specific problems leading up to the July 13 rally in Butler as a well as deeper one within the agency's culture. It recommended bringing in new, outside leadership and refocusing on its protective mission. 
+
+
+"The Secret Service as an agency requires fundamental reform to carry out its mission," the authors wrote Secretary Alejandro Mayorkas of the Homeland Security Department, the Secret Services' parent agency, in a letter accompanying their report. "Without that reform, the Independent Review Panel believes another Butler can and will happen again." 
+
+
+One rallygoer was killed and two others wounded when Thomas Michael Crooks climbed onto the roof of a nearby building and opened fire as Trump spoke. The former president was wounded in the ear before being rushed off the stage by Secret Service agents. That shooting, along with another incident in Florida when Trump was golfing — a gunman there never got a line of site on the president or fired a shot — has led to a crisis in confidence in the agency. 
+
+
+The report by a panel of four former law enforcement officials from national and state government follows investigations by members of Congress, the agency's own investigators and by Homeland Security's oversight body. 
+
+
+A look at the report's key findings and recommendations: 
+
+
+Poor communications, no plan for key buildings 
+
+
+The panel echoed previous reports that have zeroed in on the failure to secure the building near the rally that had a clear line of site to where Trump was speaking and the multiple communications problems that hindered the ability of the Secret Service and local and state law enforcement to talk to each other. 
+
+
+"The failure to secure a complex of buildings, portions of which were within approximately 130 yards of the protectee and containing numerous positions carrying high-angle line of sight risk, represents a critical security failure," the report said. 
+
+
+The panel faulted the planning between Secret Service and the local law enforcement, and said the Secret Service failed to ask about what was being done to secure the building: "Relying on a general understanding that 'the locals have that area covered' is simply not good enough and, in fact, at Butler this attitude contributed to the security failure." 
+
+
+The panel also cited the fact that there were two separated command posts at the Butler rally: one with various local law enforcement and another with the Secret Service: "This created, at the highest level, a structural divide in the flow of communications." 
+
+
+There were other communications problems. 
+
+
+The Secret Service had to switch radio channels because radio traffic of agents protecting first lady Jill Biden at an event in Pittsburgh was popping up on the channels of agents covering the Butler rally. 
+
+
+The panel also noted that all the law enforcement personnel on the ground were using a "chaotic mixture" of radio, cell phone, text, and e-mail throughout the day to communicate. 
+
+
+Also the panel said it was unclear who had ultimate command that day. 
+
+
+Cultural issues within the agency 
+
+
+The report delved into the agency's culture and painted a picture of an agency struggling to think critically about how it carries out its mission, especially when it comes to protecting Trump. 
+
+
+The panel said agency personnel operated under the assumption that they effectively had to "do more with less." The report said the additional security measures taken to protect Trump after the Butler shooting should have been taken before. 
+
+
+"To be clear, the Panel did not identify any nefarious or malicious intent behind this phenomenon, but rather an overreliance on assigning personnel based on categories (former, candidate, nominee) instead of an individualized assessment of risk," the panel wrote. 
+
+
+The panel also noted the "back-and-forth" between the Trump security detail and Secret Service headquarters regarding how many people were needed to protect him. 
+
+
+The panel also faulted some of the senior-level staff who were involved in the rally for what they called a "lack of ownership." In one example, the panel said a senior agent on site who was tasked with coordinating communications didn't walk around the rally site ahead of timen and did not brief the state police counterpart before the rally about how communications would be managed. 
+
+
+It cited the relative inexperience of two specific agents who played a role in security for the July 13 rally. One was the site agent from Trump's detail whose job it was to coordinate with the Pittsburgh field office on security planning for the rally. The panel said the agent graduated from the Secret Service academy in 2020, and had only been on the Trump detail since 2023. Before the Butler rally the agent had only done "minimal previous site advance work or site security planning." 
+
+
+Another agent assigned to operate a drone detection system had only used the technology at two prior events. 
+
+
+What did the panel recommend? 
+
+
+Having a unified command post at all large events where Secret Service and other law enforcement representatives are all physically in the same place; overhead surveillance for all outdoor events; security plans must include a way to mitigate line of site concerns out to 1,000 yards and who's in charge at the event; and more training on how to get protectees out of dangerous scenarios. 
+
+
+The panel said the agency also needs new, outside leadership and a renewed focus on its core protective mission while expressing skepticism that the agency should continue with the investigations it currently conducts. While the Secret Service is well known for what it does to protect presidents and other dignitaries, it also investigates financial crimes. 
+
+
+"In the Panel's opinion, it is simply unacceptable for the Service to have anything less than a paramount focus on its protective mission, particularly while that protective mission function is presently suboptimal," the report said. 
+
+
+The panel members were Mark Filip, deputy attorney general under President George W. Bush; David Mitchell, who served in numerous state and local law enforcement roles in Maryland and Delaware; Janet Napolitano, homeland security secretary under President Barack Obama; and Frances Fragos Townsend, Bush's assistant for homeland security and counterterrorism. 
+
+<br> 
+
+<https://www.voanews.com/a/panel-looking-into-trump-assassination-attempt-says-secret-service-needs-fundamental-reform-/7825865.html>
+
+---
+
+## The astronaut wears Prada
+
+date: 2024-10-17, from: Marketplace Morning Report
+
+<p><em>From the BBC World Service:</em> When NASA astronauts return to the moon for the first time in more than 50 years, they will do so in style &#8230; wearing Prada. We&#8217;ll hear more. Plus, TSMC, the Taiwanese tech giant that controls more than half the world&#8217;s output of advanced chips, posted profits of $10.1 billion in the last three months. And on Friday, China will announce growth figures. What can we expect?</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/17/mmr_20241017_MMR_1__64.mp3"></source>
+</audio> <a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/17/mmr_20241017_MMR_1__64.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/the-astronaut-wears-prada>
+
+---
+
+## The Case of the Missing Climate Money
+
+date: 2024-10-17, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MzgyODY3OS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc1NDEyNDY4M30.zgAVEDZEryEAuOkCbkxzxqWqbJeBu4-gnfQ0jRKKt0s/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>
+<em><strong>Current conditions:</strong> Parts of southwest France are flooded after heavy rains • Sydney’s Bondi Beach is closed because lumps of toxic tar are washing ashore • A winter storm warning is in effect for parts of Montana.</em>
+</p><h2>THE TOP FIVE</h2><h3>1. Report: Large chunk of World Bank climate funds unaccounted for</h3><p>
+	Nearly 40% of the climate finance funds that have been distributed by the World Bank over the last seven years are unaccounted for due to poor record keeping, according to a new <a href="https://www.oxfam.org/en/press-releases/41-billion-world-bank-climate-finance-unaccounted-oxfam-finds?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--GZn6E6sTQ2tXR-IUi6ZRbBJ8TUyTCcYl_nc0xa-t0_YkpY2GMZJWDa0ooTyTH5O7wdzYC" rel="noopener noreferrer" target="_blank">report</a> from Oxfam International. That’s up to $41 billion that is untraceable. “There is no clear public record showing where this money went or how it was used, which makes any assessment of its impacts impossible,” the report said. “It also remains unclear whether these funds were even spent on climate-related initiatives intended to help low- and middle-income countries protect people from the impacts of the climate crisis and invest in clean energy.”
+</p><p>
+	The World Bank is the largest multilateral provider of climate finance, and has a goal of directing 45% of its total financing toward climate projects by 2025. The report noted that climate finance will be a key issue at the upcoming COP29, where countries will put forward a new global climate finance goal. “The lack of traceable spending could undermine trust in global climate finance efforts at this critical juncture,” Oxfam said.
+</p><h3>2. Trump pressed on climate change during Univision town hall</h3><p>
+	During a town hall event hosted by Univision last night, Republican presidential candidate Donald Trump was <a href="https://x.com/KamalaHQ/status/1846747316633411673?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--GZn6E6sTQ2tXR-IUi6ZRbBJ8TUyTCcYl_nc0xa-t0_YkpY2GMZJWDa0ooTyTH5O7wdzYC" target="_blank">asked</a> by a veteran construction worker – who had seen first-hand “the devastating impacts of climate change” – if he still believed global warming was a “hoax.” In his response, Trump claimed to be an environmentalist, saying he’d won “many awards over the years” for the way he’d constructed his buildings, “the way I used the water, the sand, the mixing of the sand.” But, he said, “we can’t destroy our country” for the sake of saving the climate. He said the U.S. is competing against China, which “doesn’t spend anything on climate change.” <a href="https://www.iea.org/reports/world-energy-investment-2024/china?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--GZn6E6sTQ2tXR-IUi6ZRbBJ8TUyTCcYl_nc0xa-t0_YkpY2GMZJWDa0ooTyTH5O7wdzYC" rel="noopener noreferrer" target="_blank">According to</a> the International Energy Agency, last year China alone accounted for one-third of the world’s clean energy investments.
+</p><p>
+	Needless to say, Trump didn’t really answer the question about whether he thought climate change was real, but he did cast doubt on sea level rise and claimed “the real global warming we have to worry about is nuclear.”
+</p><p>
+	I’ll just take this opportunity to remind you that Heatmap’s Jeva Lange put together an <a href="https://heatmap.news/politics/trump-climate-change-fact-check?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--GZn6E6sTQ2tXR-IUi6ZRbBJ8TUyTCcYl_nc0xa-t0_YkpY2GMZJWDa0ooTyTH5O7wdzYC" target="_self">exhaustive fact-check</a> on Trump’s climate and weather claims going back to 2001.
+</p><h3>3. SCOTUS says Biden’s power plant rules can stay — for now</h3><p>
+	The Supreme Court yesterday <a href="https://heatmap.news/sparks/supreme-court-power-plant-rule?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--GZn6E6sTQ2tXR-IUi6ZRbBJ8TUyTCcYl_nc0xa-t0_YkpY2GMZJWDa0ooTyTH5O7wdzYC" target="_self">allowed</a> the Environmental Protection Agency to move forward with its rule restricting climate pollution from power plants, meaning that one of the Biden administration’s key climate policies can stay in place. For now. The high court’s decision will allow the EPA to defend the rule in a lower court over the next 10 months. Whether the Biden administration’s new attempt at regulating climate pollution will survive depends on the outcome of next month’s election. The Trump campaign has said that it will overturn the EPA’s new climate rules. Should Harris win, the rule will still have to survive the lower court challenge. That case is scheduled to be heard in front of the D.C. Circuit Court of Appeals this term.
+</p><div class="horizontal-rule"></div><p>
+<em>
+	Get Heatmap AM directly in your inbox every morning:<br/>
+</em>
+</p><p>
+<div id="mc_embed_signup"><form action="https://news.us13.list-manage.com/subscribe/post?u=eacecbac4b1d10158b5b6fbad&id=c5c20b220f&f_id=00a03fe3f0" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" target="_self"><div id="mc_embed_signup_scroll"><div class="indicates-required"><span class="asterisk">*</span> indicates required</div><div class="mc-field-group"><label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label><input class="required email" id="mce-EMAIL" name="EMAIL" placeholder="Your Email" required="" type="email" value=""/><span class="helper_text" id="mce-EMAIL-HELPERTEXT"></span><a class="policy__link" href="/privacy-statement">Our Privacy Policy & Terms Apply.</a></div>
+<li style="display:none!important;"><input checked="" id="mce-group[699211]-699211-2" name="group[699211][8]" type="checkbox" value="1"/></li>
+<input class="hidden hs-am" name="mcam" type="text" value="Yes"/>
+<input class="hidden hs-am" name="mcdaily" type="text" value="Yes"/>
+<div class="clear" id="mce-responses"><div class="response" id="mce-error-response" style="display:none"></div><div class="response" id="mce-success-response" style="display:none"></div></div><!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--><div aria-hidden="true" style="position: absolute; left: -5000px;"><input name="b_eacecbac4b1d10158b5b6fbad_c5c20b220f" tabindex="-1" type="text" value=""/></div><div class="clear"><input class="button" id="mc-embedded-subscribe" name="subscribe" type="submit" value="Sign Up"/></div></div></form></div>
+</p><div class="horizontal-rule"></div><h3>4. DOE announces loans for sustainable aviation fuel</h3><p>
+	The Department of Energy yesterday <a href="https://www.energy.gov/lpo/articles/lpo-announces-conditional-commitment-gevo-net-zero-corn-starch-sustainable-aviation?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--GZn6E6sTQ2tXR-IUi6ZRbBJ8TUyTCcYl_nc0xa-t0_YkpY2GMZJWDa0ooTyTH5O7wdzYC" rel="noopener noreferrer" target="_blank">announced</a> its first two loans for sustainable aviation fuel. The roughly $3 billion in funding will go to two companies:
+</p><ul>
+<li><strong>Montana Renewables</strong> – which makes biofuels from vegetable oils and discarded animal fats – would use the money to expand its facilities and produce 315 million gallons of biofuels per year. Canary Media <a href="https://www.canarymedia.com/articles/air-travel/doe-makes-3b-commitment-to-two-sustainable-aviation-fuel-projects?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--GZn6E6sTQ2tXR-IUi6ZRbBJ8TUyTCcYl_nc0xa-t0_YkpY2GMZJWDa0ooTyTH5O7wdzYC" rel="noopener noreferrer" target="_blank">noted</a> this is “nearly eight times the country’s total SAF production capacity” last year.</li>
+<li><strong>Gevo</strong> – which makes biofuels from corn ethanol – would put the funding toward building a new refinery called Net-Zero 1 in South Dakota. Each year the facility would produce up to 60 million galls of SAF, and Gevo plans to capture the carbon produced and transport it to storage via the yet-to-be-constructed Summit Carbon Solutions pipeline.</li>
+</ul><p>
+	“As the aviation sector aims to meet its decarbonization goals, SAF will become increasingly vital,” the DOE <a href="https://www.energy.gov/lpo/articles/lpo-announces-conditional-commitment-gevo-net-zero-corn-starch-sustainable-aviation?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--GZn6E6sTQ2tXR-IUi6ZRbBJ8TUyTCcYl_nc0xa-t0_YkpY2GMZJWDa0ooTyTH5O7wdzYC" target="_blank">said</a> in a statement. “SAF is the only viable near-term option to decarbonize the airline industry.”
+</p><h3>5. Canadian court to rule on youth climate lawsuit</h3><p>
+	A Canadian court’s ruling on a climate lawsuit today could influence similar cases in Canada and other countries. Seven young people are suing the Ontario government over its emissions targets, which they say are inadequate and violate their human rights. If the case heads to Canada’s Supreme Court, and the plaintiffs win, that would “dramatically open the door to new litigation,” constitutional law expert Emmett Macfarlane <a href="https://www.reuters.com/business/environment/canadian-climate-lawsuit-by-young-people-could-sway-global-cases-2024-10-16/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--GZn6E6sTQ2tXR-IUi6ZRbBJ8TUyTCcYl_nc0xa-t0_YkpY2GMZJWDa0ooTyTH5O7wdzYC" target="_blank">told</a> <em><em>Reuters</em></em>. “That would be explosive. It would have immediate ramifications for all governments.”
+</p><h2>THE KICKER<br/>
+</h2><p>
+	The University of California, San Diego, is the first major public university to <a href="https://scripps.ucsd.edu/news/uc-san-diego-launches-new-graduation-requirement-bolstering-climate-change-education?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--GZn6E6sTQ2tXR-IUi6ZRbBJ8TUyTCcYl_nc0xa-t0_YkpY2GMZJWDa0ooTyTH5O7wdzYC" rel="noopener noreferrer" target="_blank">require</a> all its undergraduate students to complete a climate change course.
+</p> 
+
+<br> 
+
+<https://heatmap.news/climate/world-bank-climate-finance-report>
+
+---
+
+## US prosecutors see rising threat of AI-generated child sex abuse imagery
+
+date: 2024-10-17, from: VOA News USA
+
+U.S. federal prosecutors are stepping up their pursuit of suspects who use artificial intelligence tools to manipulate or create child sex abuse images, as law enforcement fears the technology could spur a flood of illicit material.
+
+
+The U.S. Justice Department has brought two criminal cases this year against defendants accused of using generative AI systems, which create text or images in response to user prompts, to produce explicit images of children.
+
+
+"There's more to come," said James Silver, the chief of the Justice Department's Computer Crime and Intellectual Property Section, predicting further similar cases.
+
+
+"What we're concerned about is the normalization of this," Silver said in an interview. "AI makes it easier to generate these kinds of images, and the more that are out there, the more normalized this becomes. That's something that we really want to stymie and get in front of."
+
+
+The rise of generative AI has sparked concerns at the Justice Department that the rapidly advancing technology will be used to carry out cyberattacks, boost the sophistication of cryptocurrency scammers and undermine election security. 
+
+
+Child sex abuse cases mark some of the first times that prosecutors are trying to apply existing U.S. laws to alleged crimes involving AI, and even successful convictions could face appeals as courts weigh how the new technology may alter the legal landscape around child exploitation. 
+
+
+Prosecutors and child safety advocates say generative AI systems can allow offenders to morph and sexualize ordinary photos of children and warn that a proliferation of AI-produced material will make it harder for law enforcement to identify and locate real victims of abuse.
+
+
+The National Center for Missing and Exploited Children, a nonprofit group that collects tips about online child exploitation, receives an average of about 450 reports each month related to generative AI, according to Yiota Souras, the group's chief legal officer.
+
+
+That's a fraction of the average of 3 million monthly reports of overall online child exploitation the group received last year.
+
+
+Untested ground 
+
+
+Cases involving AI-generated sex abuse imagery are likely to tread new legal ground, particularly when an identifiable child is not depicted.
+
+
+Silver said in those instances, prosecutors can charge obscenity offenses when child pornography laws do not apply.
+
+
+Prosecutors indicted Steven Anderegg, a software engineer from Wisconsin, in May on charges including transferring obscene material. Anderegg is accused of using Stable Diffusion, a popular text-to-image AI model, to generate images of young children engaged in sexually explicit conduct and sharing some of those images with a 15-year-old boy, according to court documents.
+
+
+Anderegg has pleaded not guilty and is seeking to dismiss the charges by arguing that they violate his rights under the U.S. Constitution, court documents show.
+
+
+He has been released from custody while awaiting trial. His attorney was not available for comment.
+
+
+Stability AI, the maker of Stable Diffusion, said the case involved a version of the AI model that was released before the company took over the development of Stable Diffusion. The company said it has made investments to prevent "the misuse of AI for the production of harmful content."
+
+
+Federal prosecutors also charged a U.S. Army soldier with child pornography offenses in part for allegedly using AI chatbots to morph innocent photos of children he knew to generate violent sexual abuse imagery, court documents show.
+
+
+The defendant, Seth Herrera, pleaded not guilty and has been ordered held in jail to await trial. Herrera's lawyer did not respond to a request for comment.
+
+
+Legal experts said that while sexually explicit depictions of actual children are covered under child pornography laws, the landscape around obscenity and purely AI-generated imagery is less clear. 
+
+
+The U.S. Supreme Court in 2002 struck down as unconstitutional a federal law that criminalized any depiction, including computer-generated imagery, appearing to show minors engaged in sexual activity. 
+
+
+"These prosecutions will be hard if the government is relying on the moral repulsiveness alone to carry the day," said Jane Bambauer, a law professor at the University of Florida who studies AI and its impact on privacy and law enforcement.
+
+
+Federal prosecutors have secured convictions in recent years against defendants who possessed sexually explicit images of children that also qualified as obscene under the law. 
+
+
+Advocates are also focusing on preventing AI systems from generating abusive material. 
+
+
+Two nonprofit advocacy groups, Thorn and All Tech Is Human, secured commitments in April from some of the largest players in AI including Alphabet's Google, Amazon.com, Facebook and Instagram parent Meta Platforms, OpenAI and Stability AI to avoid training their models on child sex abuse imagery and to monitor their platforms to prevent its creation and spread. 
+
+
+"I don't want to paint this as a future problem, because it's not. It's happening now," said Rebecca Portnoff, Thorn's director of data science.
+
+
+"As far as whether it's a future problem that will get completely out of control, I still have hope that we can act in this window of opportunity to prevent that." 
+
+<br> 
+
+<https://www.voanews.com/a/us-prosecutors-see-rising-threat-of-ai-generated-child-sex-abuse-imagery/7825808.html>
+
+---
+
+## Helene highlights fragility of IV fluid supply chain
+
+date: 2024-10-17, from: Marketplace Morning Report
+
+<p>A shortage of IV fluid is forcing hospitals across the country to conserve and even postpone surgeries and procedures after an IV fluid production facility in North Carolina was hit by the devastating floods from Hurricane Helene. It&#8217;s vital for hospitals, and the shortage clues us in to some of the economics of health care. Also on the program: what challenges Ulta Beauty faces and where the money from the FDIC comes from.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/17/mmr_20241017_MMR_2_64.mp3"></source>
+</audio> <a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/17/mmr_20241017_MMR_2_64.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/helene-highlights-fragility-of-iv-fluid-supply-chain>
+
+---
+
+##  The Bail Bond Industry Fights To Keep You In Jail 
+
+date: 2024-10-17, from: The Lever News
+
+ Bounty hunters and Wall Street insurers are pushing legislation that would criminalize charitable efforts that help people who can’t afford bail.  
+
+<br> 
+
+<https://www.levernews.com/the-bail-bond-industry-fights-to-keep-you-in-jail/>
+
+---
+
+## LA Archdiocese agrees to pay $880 million to clergy sexual abuse victims
+
+date: 2024-10-17, from: VOA News USA
+
+LOS ANGELES — The Archdiocese of Los Angeles has agreed to pay $880 million to victims of clergy sexual abuse dating back decades, in what an attorney said was the largest single child sex abuse settlement with a Catholic archdiocese, it was announced Wednesday.
+
+
+After the announcement of the agreement in principle, Archbishop José H. Gomez said in a statement, "I am sorry for every one of these incidents, from the bottom of my heart."
+
+
+"My hope is that this settlement will provide some measure of healing for what these men and women have suffered," the archbishop added. "I believe that we have come to a resolution of these claims that will provide just compensation to the survivor-victims of these past abuses."
+
+
+Attorneys for 1,353 people who allege that they suffered horrific abuse at the hands of local Catholic priests reached the settlement after months of negotiations with the archdiocese, the Los Angeles Times reported.
+
+
+The agreement caps a quarter-century of litigation against the most populous archdiocese in the United States.
+
+
+Attorneys in the Plaintiffs' Liaison Committee said in a joint statement, "While there is no amount of money that can replace what was taken from these 1,353 brave individuals who have suffered in silence for decades, there is justice in accountability."
+
+
+Under the settlement, the plaintiffs will engage in a process— that will not involve the archdiocese — to allocate the settlement amount among the participants.
+
+
+The archdiocese has previously paid $740 million to victims in various settlements and had pledged to better protect its church members, so this settlement would put the total payout at more than $1.5 billion, the Times said.
+
+
+Attorney Morgan Stewart, who led the negotiations, said in a statement that the settlement is the largest single child sex abuse settlement with a Catholic archdiocese.
+
+
+"These survivors have suffered for decades in the aftermath of the abuse. Dozens of the survivors have died. They are aging, and many of those with knowledge of the abuse within the church are too. It was time to get this resolved," Stewart told the Times.
+
+
+The settlement will be funded by archdiocese investments, accumulated reserves, bank financing, and other assets. According to the archdiocese, certain religious orders and others named in the litigation will also cover some of the cost of the settlement, the Times said. 
+
+<br> 
+
+<https://www.voanews.com/a/la-archdiocese-agrees-to-pay-880-million-to-clergy-sexual-abuse-victims/7825560.html>
+
+---
+
+## US strikes Houthi weapons storage sites in Yemen
+
+date: 2024-10-17, from: VOA News USA
+
+U.S. forces carried out airstrikes Wednesday against Houthi militant weapons storage sites in Yemen, U.S. Defense Secretary Lloyd Austin said.
+
+
+The strikes, conducted by B-2 bombers, targeted weapons the Houthis have used in a yearlong campaign of attacks against ships in the Red Sea and the Gulf of Aden that have disrupted major sea shipping routes.
+
+
+“This was a unique demonstration of the United States’ ability to target facilities that our adversaries seek to keep out of reach, no matter how deeply buried underground, hardened, or fortified,” Austin said.
+
+
+
+
+The Iran-backed Houthis have said their campaign of using boats, missiles and drones to target vessels is being done in solidarity with the Palestinians amid the war in Gaza.
+
+
+The United States and Britain have conducted multiple strikes against the Houthis to try to protect the shipping lanes, while commercial companies have rerouted many ships to use the longer and more expensive route of going around the African continent.
+
+
+“The Houthis’ illegal attacks continue to disrupt the free flow of international commerce, threaten environmental catastrophe, and put innocent civilian lives and U.S. and partner forces’ lives at risk,” Austin said. 
+
+<br> 
+
+<https://www.voanews.com/a/us-strikes-houthi-weapons-storage-sites-in-yemen/7825553.html>
+
+---
+
+## Biden visits Germany, with Ukraine topping agenda
+
+date: 2024-10-17, from: VOA News USA
+
+US President Joe Biden heads to Germany on Thursday, a week later than planned and on a compressed timeline after Hurricane Milton grounded him last week. Both he and Germany's leader have been facing mounting pressure over their support for Ukraine — both having recently announced new security packages. VOA White House correspondent Anita Powell reports. 
+
+<br> 
+
+<https://www.voanews.com/a/biden-visits-germany-with-ukraine-topping-agenda/7825547.html>
+
+---
+
+## Mexican official sentenced to 38-plus years in US for taking cartel bribes
+
+date: 2024-10-17, from: VOA News USA
+
+NEW YORK — The man once heralded as the architect of Mexico's war on drug cartels was sentenced to more than 38 years in a U.S. prison Wednesday for taking massive bribes to aid drug traffickers.
+
+
+Genaro García Luna, Mexico's former secretary of public security, was convicted by a New York jury in 2023 of taking millions of dollars in bribes to protect the violent Sinaloa cartel that he was supposedly combating. He is the highest-level Mexican government official to be convicted in the United States.
+
+
+At his sentencing hearing before a federal judge in Brooklyn on Wednesday, García Luna continued to maintain his innocence and said the case against him was based on false information from criminals and the Mexican government.
+
+
+"I have a firm respect for the law," he said in Spanish. "I have not committed these crimes."
+
+
+García Luna, 56, led Mexico's federal police before he served in a Cabinet-level position as the top security official from 2006-12 under then-President Felipe Calderón. At the time, García Luna was hailed as an ally by the U.S. in its fight on drug trafficking.
+
+
+But U.S. prosecutors said that in return for millions of dollars, he provided intelligence about investigations against the cartel, information about rival gangs and the safe passage of massive quantities of drugs.
+
+
+Prosecutors had asked for a life sentence. García Luna's lawyers had argued that he should get no more than 20 years.
+
+
+
+
+U.S. District Judge Brian Cogan said he wasn't moved by past accolades that García Luna received for his work in the war on drugs.
+
+
+"That was your cover," Cogan said before imposing the sentence. "You are guilty of these crimes, sir. You can't parade these words and say, 'I'm police officer of the year.'"
+
+
+Besides the sentence of 38 years and four months, the judge imposed a $2 million fine.
+
+
+During the trial, photos were shown of García Luna shaking hands with former President Barack Obama and speaking with former Secretary of State Hillary Clinton and former Sen. John McCain.
+
+
+But prosecutors said García Luna secretly advanced a drug trafficking conspiracy that resulted in the deaths of thousands of American and Mexican citizens. He ensured that drug traffickers were notified in advance of raids and sabotaged legitimate police operations aimed at apprehending cartel leaders, they said.
+
+
+Drug traffickers were able to ship more than 1 million kilograms of cocaine through Mexico and into the United States using planes, trains, trucks and submarines while García Luna held his posts, prosecutors said.
+
+
+During former Sinaloa kingpin Joaquin "El Chapo" Guzmán's trial in the same court in 2018, a former cartel member testified that he personally delivered at least $6 million in payoffs to García Luna and that cartel members agreed to pool up to $50 million to pay for his protection.
+
+
+"He enabled the cartel. He protected the cartel. He was the cartel," Assistant U.S. Attorney Saritha Komatireddy told the judge Wednesday.
+
+
+García Luna enabled a corrupt system that allowed violent cartels to thrive and distribute drugs that killed multitudes of people, she added.
+
+
+"It may not have been the defendant pulling the trigger, but he has blood on his hands," Komatireddy said.
+
+
+Prosecutors also said García Luna plotted to undo last year's verdict by seeking to bribe or corruptly convince multiple inmates at the Metropolitan Detention Center in Brooklyn to support false allegations that two government witnesses communicated via contraband cellular phones in advance of the trial.
+
+
+García Luna's lawyer, Cesar de Castro, said the defense intends to appeal the sentence. He said his client is someone who "has served his country" and has now lost his money, his reputation as well as policies he championed in Mexico.
+
+
+"He has lost close to everything. All that remains is his wonderful family," de Castro said.
+
+
+In Mexico, newly inaugurated President Claudia Sheinbaum briefly commented on the case Tuesday, saying: "The big issue here is how someone who was awarded by United States agencies, who ex-President Calderón said wonderful things about his security secretary, today is prisoner in the United States because it's shown that he was tied to drug trafficking." 
+
+<br> 
+
+<https://www.voanews.com/a/mexican-official-sentenced-to-38-plus-years-in-us-for-taking-cartel-bribes/7825414.html>
+
+---
+
+## Understanding political polls: From history to interpretation
+
+date: 2024-10-17, from: VOA News USA
+
+In any election campaign, candidates and the public rely on opinion polls to comprehend the state of the race and inform their actions and choices. But polls can be confusing, contradictory, and, historically, even occasionally flat-out wrong. It’s both an art and a science — and you can easily become tripped up if you don’t know what to look for.]] 
+
+<br> 
+
+<https://www.voanews.com/a/understanding-political-polls-from-history-to-interpretation-/7825376.html>
+
+---
+
+## Billie Jean King, female athletes to honor her Women's Sports Foundation
+
+date: 2024-10-17, from: VOA News USA
+
+NEW YORK — Billie Jean King started the Women's Sports Foundation with a $5,000 check. 
+
+
+She's turned that investment into $100 million and a half century of helping girls and women achieve their dreams through travel and training grants, local sports programs, and mentorship of athletes and coaches.
+
+
+King was set to celebrate the 50th anniversary of the foundation by honoring the 1999 U.S. women's World Cup champions; Mark Walter, co-owner of the Professional Women's Hockey League and the Los Angeles Dodgers; and the Women's National Basketball Association's 2024 rookie class on Wednesday night in New York. 
+
+
+"What makes me happy is creating opportunities and dreams for others," King told The Associated Press in a recent interview. "I look back and that's what drives me." 
+
+
+Nearly 100 female athletes will attend the awards dinner to celebrate the milestone and King, a tireless advocate for equal pay and more investment in women's sports. 
+
+
+That includes awards host and soccer honoree Julie Foudy. She graduated from Stanford and played for the 1999 U.S. soccer team that won the World Cup before a record crowd of more than 90,000 at the Rose Bowl in Pasadena, California. 
+
+
+"She's remained a friend and mentor and such a catalyst for changing the trajectory of women's soccer and so many sports," said Foudy, a former president of the Women's Sports Foundation and current soccer broadcaster for Turner and TNT. 
+
+
+After the World Cup win, Foudy and the team turned to King, Donna Lopiano and Donna de Verona for advice about improving pay and starting a professional soccer league. 
+
+
+"I'll never forget, (King) said, 'What are you guys doing about it?' " said Foudy, regarding their collective leverage with the U.S. Soccer Federation. "And as players, that was the exact epiphany we needed at that moment." 
+
+
+Foudy and the '99ers eventually witnessed the successful struggle toward equity, helping lay the foundation for the current U.S. women's national team to receive the same pay and working conditions as the men's team. A players' lawsuit against the federation resulted in a landmark $24 million settlement in 2022. 
+
+
+"Billie doesn't have just one meeting. She'd check in and follow up and ask, 'What do you need?' " Foudy said. "She was at that first (WUSA professional) game in Washington, D.C. (in 2001), and was a big proponent of the importance of having a league and player pool for the longevity and growth of women's soccer." 
+
+
+The current iteration is the NWSL, which formed in 2013 and now has 14 teams. Foudy is part of the ownership group of Angel City FC. New owners Bob Iger and Willow Bay acquired a controlling stake in the team in July, with a value of $250 million. 
+
+
+King recently joined forces with Mark and Kimba Walter to create the Professional Women's Hockey League (PWHL), which will launch its second season in late November. U.S. Olympic gold medalist Kendall Coyne Schofield reached out to King to help unify the fractured pro hockey landscape into one viable league. King, who is part of the Dodgers' ownership group, collaborated with Walter to form the new six-team league. 
+
+
+The WNBA rookie class, led by No. 1 pick Caitlin Clark, will receive the Next Gen Award for "showing up, showing out and boldly carrying the torch forward." The popularity of Indiana's Clark and Chicago's Angel Reese generated unprecedented WNBA attendance, more nationally televised games and record-breaking TV ratings this summer. 
+
+
+"Caitlin Clark is fantastic," King said. "It reminds me of Chris Evert in 1971, when she changed everything at the U.S Open. Anytime a player can do well, she helps everybody." 
+
+
+The rookie class includes Cameron Brink (Stanford), Kamilla Cardoso (NCAA champion South Carolina), Rickea Jackson (Tennessee), Jacy Sheldon (Ohio State), Aaliyah Edwards (Connecticut), Reese (Louisiana State) and Alissa Pili (Utah). 
+
+
+The WNBA lags in pay equity, with Clark receiving only $76,000 in her rookie season compared with the NBA No. 1 pick, who gets $12 million. WNBA players may see an increase in salary in 2026 from a new 11-year media rights deal for approximately $200 million a year ahead of the next collective bargaining agreement. The players' union is interested in increasing the WNBA revenue share from 9.3%, while NBA players receive about 50% of the money generated from TV deals, ticket sales, merchandise and licensing. 
+
+
+King said it might take more time to close the pay gaps because women's sports is "still in its infancy." 
+
+
+"The NBA is 78 years old, the WNBA is 28 years old," King said. "(Former NBA Commissioner) David Stern made a huge difference. He was a marketing genius. We need to continue to do that for women's sports." 
+
+
+King and the “Original Nine” helped market the early women's professional tennis circuit, and she formed the Women's Tennis Association with players a week before Wimbledon in 1973. She advocated for Title IX, beat Bobby Riggs and fought for equal prize money in tennis. Along the way, she won 39 Grand Slam titles during her career. 
+
+
+The next milestone for King, 80, will be receiving the Congressional Gold Medal. It's one of the highest U.S. civilian honors for individuals whose achievements have a lasting impact on their field. 
+
+
+"The Women's Sports Foundation, nobody knew how long it would last," she said. "I look at the 50th anniversary as a continuation to create more opportunities. You can't let up." 
+
+<br> 
+
+<https://www.voanews.com/a/billie-jean-king-female-athletes-to-honor-her-women-s-sports-foundation/7825363.html>
+
+---
+
+## SCOTUS Says Biden’s Power Plant Rules Can Stay — For Now
+
+date: 2024-10-16, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MzgyNzQ0Mi9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc1MTY3NzgxOX0.iZXY4LwI6-zhd3uwBY3wVvIHzVVh_BjYytyy7zIO8GE/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>The Supreme Court allowed the Environmental Protection Agency to move forward with its rule restricting climate pollution from power plants on Wednesday, meaning that one of the Biden administration’s key climate policies can stay in place. For now. </p><p>The high court’s decision will allow the EPA to defend the rule in a lower court over the next 10 months. A group of power utilities, trade groups, and Republican-governed states are suing to block the greenhouse gas rule, arguing that it oversteps the EPA’s authority under the Clean Air Act.</p><p>The EPA’s new rules, which were <a href="https://heatmap.news/climate/epa-power-plant-rules-gas" target="_self"><u>finalized</u></a> in April, would be the government’s first successful effort to regulate climate pollution from the power sector. The electricity industry is the second most-polluting sector in the American economy. </p><p>The Obama administration previously tried to regulate greenhouse gas pollution from the power sector. The Supreme Court blocked those rules from taking effect in 2016, before striking them down completely in 2022. </p><p>This time, the agency has written the rules within a framework laid out by the Supreme Court’s conservative majority in that ruling. In <a href="https://www.oyez.org/cases/2021/20-1530" rel="noopener noreferrer" target="_blank"><u>that now landmark case</u></a>, the court ruled that the EPA could restrict greenhouse gas pollution from power plants only by requiring new technology, such as carbon capture equipment, to be installed at the plant itself. The agency couldn’t require utilities to stop burning fossil fuels and build more renewables.</p><p>In the near term, whether the Biden administration’s new attempt at regulating climate pollution will survive depends on the outcome of next month’s election. The Trump campaign has said that it will <a href="https://rollcall.com/2024/08/29/trump-vows-epa-rollbacks-as-climate-becomes-hot-campaign-issue/" rel="noopener noreferrer" target="_blank"><u>overturn</u></a> the EPA’s new climate rules. During his first term, Donald Trump <a href="https://www.nytimes.com/interactive/2020/climate/trump-environment-rollbacks-list.html" rel="noopener noreferrer" target="_blank"><u>rolled back</u></a> more than 100 environmental and climate protections.</p><p>Should Harris win, the rule will still have to survive the lower court challenge. That case is scheduled to be heard in front of the D.C. Circuit Court of Appeals this term.</p><p>“The high court made the right call,” Meredith Hankins, a senior attorney at the Natural Resources Defense Council, said in a statement. “Given its rulings in recent years undercutting environmental protections, the refusal of the majority on the Supreme Court to block this vital rule is a victory for common sense.”</p><p>Not all the news from the Supreme Court on Wednesday was good for climate advocates, though.</p><p>In the same decision that let the new rules stand, the high court’s conservative justices signaled that they might block the rules next year.</p><p>“In my view, the applicants have shown a strong likelihood of success on the merits as to at least some of their challenges” to the rule, Justice Brett Kavanaugh wrote <a href="https://www.supremecourt.gov/opinions/24pdf/24a95_n7ip.pdf" rel="noopener noreferrer" target="_blank"><u>in a short statement</u></a> attached to the stay, which was cosigned by Justice Neil Gorsuch.</p><p>But because the rules don’t require utilities to start complying until next June, there was no reason to grant an emergency stay, the two justices added. </p><p>Justice Clarence Thomas would have gone further and stepped in to block the rules immediately. Justice Samuel Alito, another reliable conservative vote, did not participate in the deliberations. </p><p>That suggests that four justices could be ready to block the rules as soon as next year. They would need only one more vote — from Chief Justice John Roberts or Justice Amy Coney Barrett — to stay the protections from taking effect.</p><p>The statement didn’t provide any hints to what Roberts or Barrett are thinking.</p> 
+
+<br> 
+
+<https://heatmap.news/sparks/supreme-court-power-plant-rule>
+
+---
+
+## Most seniors who qualify for food benefit aren’t getting it
+
+date: 2024-10-16, from: Market Place
+
+<p>An estimated 13 million older adults are eligible for the Supplemental Nutrition Assistance Program. Fewer than 4 million are registered. SNAP benefits can be a lifeline for food-insecure Americans, but they&#8217;ve got to apply. Plus, mortgage rates are up, and the European Central Bank is expected to cut rates again.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/16/pm_20241016_PM_Podcast_64.mp3"></source>
+</audio> <a href="https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/16/pm_20241016_PM_Podcast_64.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace/most-seniors-who-qualify-for-food-benefit-arent-getting-it>
+
+---
+
+## Biden, dignitaries honor RFK widow, human rights champion Ethel Kennedy
+
+date: 2024-10-16, from: VOA News USA
+
+washington  — U.S. President Joe Biden joined former Democratic presidents and others to honor longtime human rights advocate and storied political family matriarch Ethel Kennedy at a memorial service in Washington on Wednesday after her death last week at age 96.
+
+
+The widow of Robert F. Kennedy — a former U.S. attorney general and U.S. senator, who was assassinated while seeking the Democratic presidential nomination in 1968 — founded a human rights center to carry on her husband's work.
+
+
+She never remarried and went on to raise her 11 children, enduring a host of other family tragedies along the way, including separate plane crashes that killed her parents, brother and nephew, as well as the untimely deaths of several of her children, grandchildren and a great-grandchild.
+
+
+She and her husband were devastated by the assassination of his brother, President John F. Kennedy, in Dallas in 1963.
+
+
+Biden, a fellow Irish Catholic who has leaned on his faith amid his own losses, including the death of his son Beau, said the Democratic family matriarch was there for him at his time of tragedy. He said her husband had been one of his heroes.
+
+
+"Ethel was a hero in her own right," Biden said in remarks at the Cathedral of St. Matthew the Apostle in Washington, just blocks from the White House.
+
+
+Former Democratic presidents Bill Clinton and Barack Obama, as well as former House Speaker Nancy Pelosi and others, also reflected on her life.
+
+
+The son of civil rights leader Martin Luther King Jr., who was assassinated just two months before Robert Kennedy, noted the two families' shared journey and understanding of sacrifice amid their work for social justice.
+
+
+"Faith and history knitted us together. Respect and love has kept us together," Martin Luther King III told the crowd.
+
+
+
+
+The Kennedys were known for their parties and Wednesday's service was no different, with scores of relatives filling the pews and high-profile attendees remembering the infectious spirit highlighted by her children and grandchildren.
+
+
+"She was a spitfire," Obama said. "As serious as Ethel was about righting wrongs, she never seemed to take herself too seriously."
+
+
+Other Democratic attendees included California Governor Gavin Newsom and former top U.S. diplomat and presidential candidate John Kerry. Country star Kenny Chesney sang "You Are My Sunshine" while Sting surprised guests with "Fragile" and Stevie Wonder with "Isn't She Lovely."
+
+
+Over the decades, Kennedy took up many causes championed by her late husband, including fighting poverty, working for social justice and protecting the environment. Obama awarded her the Presidential Medal of Freedom in 2014. She died on October 10 from complications following a stroke, her family said.
+
+
+Her daughter Kathleen Kennedy Townsend was Maryland's lieutenant governor, while her son Joseph P. Kennedy II represented Massachusetts in the U.S. House of Representatives. Her grandson, former U.S. Representative Joseph P. Kennedy III, serves as special envoy to Northern Ireland.
+
+
+Her son Robert F. Kennedy Jr., an anti-vaccine advocate and former independent presidential candidate, broke from his family's long Democratic ties to endorse Donald Trump in November's election.
+
+
+Many members of the Kennedy clan have denounced his election politics and backed the Democratic ticket, now led by U.S. Vice President Kamala Harris after Biden stepped aside in July. Robert F. Kennedy Jr. attended Wednesday's service alongside his family but made no remarks. 
+
+<br> 
+
+<https://www.voanews.com/a/biden-dignitaries-honor-rfk-widow-human-rights-champion-ethel-kennedy/7825052.html>
+
+---
+
+## FBI, French authorities coordinate on Islamic State arrests
+
+date: 2024-10-16, from: VOA News USA
+
+washington  — Recent arrests in the United States and in Europe have law enforcement and intelligence agencies on alert, bolstering concerns about a reinvigorated Islamic State terror group bent on lashing out against the West.
+
+
+FBI officials Wednesday confirmed the bureau shared information with French authorities following last week’s arrest of 27-year-old Nasir Ahmad Tawhedi, an Afghan national in Oklahoma City, Oklahoma, on charges connected to a mass shooting plot in the name of the Islamic State group, to coincide with the U.S. election in November.
+
+
+
+
+That information led to the arrest of a 22-year-old Afghan national in the Haute-Garonne region of France, who French officials say is linked to Tawhedi.
+
+
+
+
+That arrest followed the arrests of three other men in the same region, again carried out in coordination with the U.S.
+
+French anti-terrorism prosecutors said Saturday that the suspects, all of whom are said to be followers of the Islamic State, appear to have been involved in a plan to carry out an attack on a football stadium or a shopping center.
+
+
+“The recent arrests in France and by the FBI's Oklahoma City field office demonstrate the importance of partnerships to detect and disrupt potential terrorist attacks,” the FBI said in a statement.
+
+
+“The FBI's top priority is preventing acts of terrorism, and we are committed to working with our partners both overseas and in the United States to uncover any plots and protect our communities from violence,” it said.
+
+
+The arrests follow repeated warnings from Western counterterrorism officials that the Islamic State, also known as IS or ISIS, has set its sights on launching attacks against the U.S. and Europe. And many have raised specific concerns about the group’s Afghan affiliate, known as IS-Khorasan or ISIS-K.
+
+
+IS-Khorasan "does have the intention to carry out external attacks, including external attacks inside the United States,” said U.S. Assistant Attorney General Matthew Olsen, speaking during a Washington Post webcast last month.
+
+
+“We are very concerned about the capacity of ISIS-K to potentially move operatives into the United States," he added.
+
+
+
+
+Others have warned that IS, and IS-Khorasan, have each sought to expand recruiting efforts around the globe.
+
+
+Some Western officials and regional observers have told VOA that as far back as 2021, the IS Afghan affiliate was seeking to seed Central Asian states such as Kazakhstan, Kyrgyzstan and Tajikistan with small but highly capable cells and networks that could serve as the basis for future attacks.
+
+
+Some also have warned that IS-Khorasan has since built on those efforts, increasingly trying to target Afghans and Central Asians living in the West.
+
+
+
+
+"We've seen ISIS-K make a concerted effort to recruit from diaspora communities," said Austin Doctor, the director of counterterrorism research initiatives at the National Counterterrorism Innovation, Technology and Education Center, or NCITE, speaking with VOA last week following the Oklahoma City arrest.
+
+
+“It will be another important factor to watch as more information becomes available.”
+
+
+Information from Agence France-Presse was used in this article. 
+
+<br> 
+
+<https://www.voanews.com/a/7825019.html>
+
+---
+
+## The rise of the podcaster’s political capital
+
+date: 2024-10-16, from: Market Place, Make me Smart
+
+<p>Vice President Kamala Harris has been sitting down with popular podcasts like the &#8220;The Breakfast Club,&#8221; Call Her Daddy,&#8221; and The Howard Stern Show. We&#8217;ll get into what the campaign strategy can tell us about voters, our fragmented media environment and the future of news. Plus, lower interest rates mean the end of a golden period for savers. And, the return of panda diplomacy and a new life for a beloved maple tree.</p>
+<p>Here&#8217;s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.nytimes.com/2024/10/15/us/politics/kamala-harris-charlamagne-interview-trump.html" target="_blank" rel="noreferrer noopener">&#8220;Harris Slams Trump in Interview With Charlamagne Tha God: 5 Takeaways&#8221;</a> from The New York Times</li>
+<li><a href="https://theshaderoom.com/president-barack-obama-team-clarifies-comments-black-men-kamala-harris-exclusive/" target="_blank" rel="noreferrer noopener">&#8220;Former President Barack Obama&#8217;s Team Clarifies His Recent Comments Made Toward Black Men&#8221;</a> from The Shade Room</li>
+<li><a href="https://www.wsj.com/finance/investing/savers-bid-a-sad-farewell-to-higher-yields-70e2e10b?mod=hp_lead_pos5" target="_blank" rel="noreferrer noopener">&#8220;Savers Bid a Sad Farewell to Higher Yields&#8221;</a> from The Wall Street Journal</li>
+<li><a href="https://www.gpb.org/news/2024/10/16/georgia-voters-motivated-by-harris-trump-contest-flock-polls-in-record-numbers-on" target="_blank" rel="noreferrer noopener">&#8220;Georgia voters motivated by Harris-Trump contest flock to polls in record numbers on first day&#8221;</a> from GPB News</li>
+<li><a href="https://www.washingtonpost.com/dc-md-va/2024/10/15/dc-new-giant-pandas-national-zoo/" target="_blank" rel="noreferrer noopener">&#8220;D.C.’s new giant pandas arrived at National Zoo: Meet Qing Bao and Bao Li&#8221;</a> from The Washington Post</li>
+<li><a href="https://www.nytimes.com/2024/10/16/climate/sugar-maple-tree-pennsylvania.html" target="_blank" rel="noreferrer noopener">&#8220;A Beloved Maple Tree Had to Come Down, But It Lives On&#8221;</a> from The New York Times</li>
+</ul>
+<p>We love to hear from you. Email your comments and questions to makemesmart@marketplace.org or leave us a voicemail at 508-U-B-SMART.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-MakeMeSmart/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/16/mms_20241016_MMS_128.mp3"></source>
+</audio> <a href="https://play.podtrac.com/APM-MakeMeSmart/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/16/mms_20241016_MMS_128.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/the-rise-of-the-podcasters-political-capital>
+
+---
+
+## Ex-Las Vegas-area official gets at least 28 years in prison for killing reporter
+
+date: 2024-10-16, from: VOA News USA
+
+las vegas — A former Las Vegas-area Democratic elected official was sentenced Wednesday to serve at least 28 years in Nevada state prison for killing an investigative journalist who wrote articles critical of his conduct in office two years ago and exposed an intimate relationship with a female coworker.
+
+
+A judge invoked sentencing enhancements for use of a deadly weapon and the age of the reporter to add eight years to the minimum 20-years-to-life sentence that a jury set in August after finding Robert Telles guilty of first-degree murder.
+
+
+"The judge couldn't sentence him to any more time," Clark County District Attorney Steve Wolfson said after telling reporters the sentence represented justice for the community. "She gave him the maximum."
+
+
+Telles, 47, testified in his defense at trial, denying he stabbed Las Vegas Review-Journal reporter Jeff German to death in September 2022. But evidence against him was strong — including his DNA beneath German's fingernails.
+
+
+Telles was the administrator of a county office that handles unclaimed estate and probate cases when he was arrested and jailed without bail several days after German's murder. He was stripped of his elected position weeks later.
+
+
+Standing in shackles before the judge on Wednesday, Telles offered "deepest condolences" to German's family but again denied responsibility for the reporter's death.
+
+
+"I understand the desire to seek justice and hold somebody accountable for this," he said. "But I did not kill Mr. German."
+
+
+Prosecutor Pamela Weckerly told the judge that evidence showed Telles killed German because "he didn't like what Mr. German had written about him. He felt that Mr. German had cost him an elected position."
+
+
+"This type of violence, this sort of political violence," the prosecutor said, "is unacceptable and dangerous for a community as a whole."
+
+
+Telles' defense attorney, Robert Draskovich, asked for leniency for Telles and told the judge that Telles intends to appeal his conviction. After sentence was pronounced, Draskovich withdrew as Telles' defense lawyer.
+
+
+"The sentence was not surprising," Draskovich said outside court. "We fulfilled our defense obligation. We parted on good terms. [Telles] preserved all his rights for appeal."
+
+
+German was 69. He was a respected reporter who spent 44 years covering crime, courts and corruption in Las Vegas.
+
+
+Telles lost his primary for a second term in office after German's stories in May and June 2022 described turmoil and bullying at the Clark County Public Administrator/Guardian office and a romantic relationship between Telles and a female employee. His law license was suspended following his arrest.
+
+
+Police sought public help to identify a person captured on neighborhood security video driving a maroon SUV and walking while wearing a broad straw hat that hid his face and an oversized orange long-sleeve shirt. Weckerly showed the jury footage of the person wearing orange slipping into the side yard where German was stabbed, slashed and left dead.
+
+
+At Telles' house, police found a maroon SUV and cut-up pieces of a straw hat and a gray athletic shoe that looked like those worn by the person seen on video. Authorities did not find the orange shirt or a murder weapon.
+
+
+Telles testified for several rambling hours at his trial, admitting for the first time that reports of the office romance were true. He said he was "framed" for the crime by a broad conspiracy involving a real estate company, police, DNA analysts, former co-workers and others. He told the jury he was victimized for crusading to root out corruption.
+
+
+Wolfson and prosecutors at trial dismissed those claims as unbelievable.
+
+
+Other evidence pointed to Telles, who prosecutor Christopher Hamner told the jury blamed German for destroying his career, ruining his reputation and threatening his marriage.
+
+
+Telles told the jury he took a walk and went to a gym at the time German was killed. But evidence showed Telles' wife sent text messages to him about the same time asking, "Where are you?" Prosecutors said Telles left his cellphone at home so he couldn't be tracked.
+
+
+The jury deliberated nearly 12 hours over three days before finding Telles guilty.
+
+
+Clark County District Court Judge Michelle Leavitt was able to consider sentencing enhancements adding time to Telles' sentence for using a deadly weapon in a willful, deliberate, premeditated killing and because German was older than 60 years old.
+
+
+"This defendant has shown absolutely no remorse, no acceptance of responsibility," said Wolfson, the Democratic elected regional prosecutor. "And in fact, his behavior is such that I believe he is an extreme danger to the community if he is ever released."
+
+
+German was the only journalist killed in the U.S. in 2022, according to the New York-based Committee to Protect Journalists. The nonprofit has records of 17 media workers killed in the U.S. since 1992. 
+
+<br> 
+
+<https://www.voanews.com/a/ex-las-vegas-area-official-gets-at-least-28-years-in-prison-for-killing-reporter-/7824974.html>
+
+---
+
+## The Collapse of the Northeast’s Biggest Hydrogen Plant
+
+date: 2024-10-16, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MzgyNzM0Ny9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc1ODI3NTI0M30.u7mAdj28fSlnlkcy2rkR_jL0b5Fn8CSVoLhrzcAwlVc/image.jpg?width=2160&height=1440&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">In 2021, top elected officials in New York state promised that Plug Power, a nascent company in the growing hydrogen industry, would build a large hydrogen fuel production facility in the Buffalo-Rochester area. It was supposed to make the state an industry leader. </p>
+<p>Today, the project is looking more like a warning sign about the perils of being a first-mover in the unproven hydrogen business. </p>
+<p>It wasn’t supposed to be this way. Plug Power, an American hydrogen and fuel cell producer founded in 1997, believed it would capitalize on rising demand for the liquid fuel when it broke ground at its hydrogen production facility at Genesee County’s Science, Technology and Advanced Manufacturing Park <a href="https://www.governor.ny.gov/news/governor-hochul-announces-construction-start-largest-green-hydrogen-plant-north-america" rel="noopener noreferrer" target="_blank"><u>in 2021</u></a>, a project known colloquially as STAMP. Heavy polluting industries like steel and transportation were chomping at the bit to strike supply deals for hydrogen, a liquid fuel that produces no carbon when burned. And this New York plant would on paper be particularly attractive from a climate perspective: It would be powered by hydroelectric dams <a href="https://www.thebatavian.com/press-release/gcedc-and-national-grid-announce-growth-at-stamp-site/635653" rel="noopener noreferrer" target="_blank"><u>at Niagara Falls</u></a>, offering a potential carbon reduction of an estimated 14,000 tons of CO2 per year. It would also be the largest project of its kind in the Northeast. </p>
+<p>Three years later and the project appears to be on ice, according to a phone call recording between New York county officials and a real estate developer that was obtained by Heatmap News. </p>
+<p>Construction stopped in January, per the call, as did work Plug Power promised to do on an electrical substation that will also power a neighboring semiconductor manufacturing plant. Now energy-hungry data center developers are bidding to pick up the substation work instead in exchange for a spot at STAMP and access to some of the remaining hydroelectricity, and county officials are looking at buying <a href="https://www.gcedc.com/file-library/100268/9.4.24.GCEDC.STAMP.MeetingMinutes.Draft.pdf" rel="noopener noreferrer" target="_blank"><u>Plug Power’s electrical equipment</u></a>. </p>
+<p>It is unclear whether the hydrogen production plant will ever be completed. </p>
+<p>“They’ve put things on hold and now we’re coming to pick up the pieces,” Chris Suozzi, an executive vice president at the Genessee County Economic Development Authority, told one bidder – PRP Real Estate Management – on a call last month. PRP taped the call and shared it with us after it was first reported by local <a href="https://www.investigativepost.org/2024/10/09/money-woes-at-plugpower-more-headaches-at-stamp/" rel="noopener noreferrer" target="_blank"><u>news nonprofit </u><u><em><em>InvestigativePost</em></em></u></a>. Suozzi also said on the call: “They’re not ready to go. They’re on pause. We don’t know what’s going to happen with them at this point.” </p>
+<p>The New York Plug Power plant’s problems should be familiar to anyone in the climate tech startup space but for the unfamiliar, the company’s rapid growth seems to have run headlong into struggles with cash. A year ago Plug Power said in <a href="https://d18rn0p25nwr6d.cloudfront.net/CIK-0001093691/f2d39c6a-e710-49a7-923e-4634d2de39f1.pdf" rel="noopener noreferrer" target="_blank"><u>an investor filing</u></a> there was a “substantial” concern the company may not have “sufficient funds to fund [its] operations through the next 12 months.” So problematic are Plug’s financial woes that they’ve become a political target; after the Energy Department offered a $1.6 billion conditional loan commitment to Plug for building hydrogen production plants, Republicans in Congress called for <a href="https://www.energy.senate.gov/2024/6/barrasso-requests-inspector-general-investigation-into-doe-loan-commitment-to-plug-power-inc" rel="noopener noreferrer" target="_blank"><u>an inspector general investigation</u></a> into the move. <br/><br/>But the New York production facility won’t benefit from the potential loan either. We’ve learned from two sources familiar with the matter that the project is not included in its potential loan application currently pending before DOE. </p>
+<p>Then there has been the rollout of the Inflation Reduction Act. Even though the project relies on carbon-free hydropower, it may not qualify for the IRA’s hydrogen production <a href="https://heatmap.news/economy/final-hydrogen-tax-credit-45v" target="_self"><u>tax credit</u></a> because of proposed requirements for fuel to rely on new renewable energy sources (known as “additionality”). This has been a major sticking point in implementation of the credit, and Plug Power is quoted in <em><em>InvestigativePost</em></em> last week linking the work stoppage at the production facility on waiting for the final regulation implementing the credit. This is even as the company uses the yet-to-be finalized credit in its financial analyses for other <a href="https://www.ir.plugpower.com/press-releases/news-details/2024/Plug-to-Receive-Federal-Clean-Hydrogen-Production-Tax-Credit-at-Georgia-Hydrogen-Facility/default.aspx" rel="noopener noreferrer" target="_blank"><u>hydrogen facilities in operation</u></a> today, like this <a href="https://www.ir.plugpower.com/press-releases/news-details/2024/Plug-Power-Starts-Production-of-Liquid-Green-Hydrogen-at-its-Georgia-Plant/default.aspx#:~:text=Located%20in%20Woodbine%2C%20Georgia%2C%20the,separated%20into%20hydrogen%20and%20oxygen." rel="noopener noreferrer" target="_blank"><u>one in Georgia</u></a>. </p>
+<p>Environmental justice issues have also been a drag on development. The native Tonawanda Seneca Nation is <a href="https://insideclimatenews.org/news/22112023/new-york-clean-hydrogen-indigenous-nation-sees-threat/" rel="noopener noreferrer" target="_blank"><u>opposed</u></a> to the entire industrial park because of the resulting impacts on wildlife, noise and the visual landscape. In April, the Fish and Wildlife Service <a href="https://www.investigativepost.org/2024/04/25/feds-revoke-major-permit-for-stamp-industrial-park/" rel="noopener noreferrer" target="_blank"><u>revoked a necessary permit</u></a> for a wastewater treatment pipeline that would be used by companies at the park. </p>
+<p>Earthjustice attorney Alex Page – who is working with the Nation to fight the project – told me the tribe was told last year by the Energy Department that Plug Power had withdrawn the New York site from its loan application. The Nation will continue to fight the project and DOE’s loan financing to Plug Power on the chance that money could be reprogrammed to the industrial park. Page said: “The Nation remains very, very much opposed.” </p>
+<p>We sent Plug Power multiple requests for comment as well as Suozzi. A representative for Plug Power declined to answer questions about the project. I got a text from a number listed for Suozzi asking to chat later, but I didn’t hear back before publication. </p> 
+
+<br> 
+
+<https://heatmap.news/plus/the-fight/spotlight/plug-power-hydrogen-stamp-genesee>
+
+---
+
+## US Supreme Court declines to pause EPA power plant emissions rule
+
+date: 2024-10-16, from: VOA News USA
+
+The U.S. Supreme Court declined on Wednesday to put on hold a new federal rule targeting carbon pollution from coal- and gas-fired power plants at the request of numerous states and industry groups in another major challenge to President Joe Biden's efforts to combat climate change.
+
+
+The justices denied emergency requests by West Virginia, Indiana and 25 other states — most of them Republican led — as well as power companies and industry associations, to halt the Environmental Protection Agency rule while litigation continues in a lower court. The regulation, aimed at cutting greenhouse gas emissions that drive climate change, took effect July 8.
+
+
+The rule would require existing coal and new natural gas-fired plants eventually to reduce emissions including by capturing and storing carbon dioxide.
+
+
+The EPA's new rule, issued under the landmark Clean Air Act anti-pollution law, was issued two years after a major ruling by the Supreme Court in 2022 undercut the agency's power to issue sweeping regulations to force an electricity-generation shift from coal to cleaner energy sources.
+
+
+The EPA has said efforts to address climate change and its impacts such as extreme weather and rising sea levels must include the power sector because fossil fuel-fired plants make up 25% of overall domestic greenhouse gas emissions.
+
+
+Notably, the rule mandates that coal plants operating past 2038 and certain new gas plants reduce emissions by 90% by 2032 including by using carbon capture and storage systems that extract carbon dioxide from plant exhaust and sequester it underground.
+
+
+The EPA has called the technology proven and technically feasible. The rule's challengers have said it has not been shown effective at the scale predicted by the EPA.
+
+
+The rule's requirements are "really a backdoor avenue to forcing coal plants out of existence," West Virginia, a major coal producer, and other state challengers said in a written filing.
+
+
+The Supreme Court's 2022 ruling was based on what is called the "major questions" legal doctrine embraced by its conservative justices that requires explicit congressional authorization for action on issues of broad importance and societal impact.
+
+
+The states and certain other challengers contend that the EPA's new rule likewise implicates a major question and exceeds the agency's authority.
+
+
+Numerous states and industry players filed multiple lawsuits challenging the rule in the U.S. Court of Appeals for the District of Columbia Circuit, which on July 19 denied requests to pause the regulation pending its review.
+
+
+The case did not implicate a major question because the EPA's actions setting plant limits were "well within" its statutory authority, the D.C. Circuit stated. 
+
+<br> 
+
+<https://www.voanews.com/a/us-supreme-court-declines-to-pause-epa-power-plant-emissions-rule/7824943.html>
+
+---
+
+## A Battery Ban, Burning Man, and Lots More Yelling
+
+date: 2024-10-16, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MzgyNzMyOS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc5MjA5ODE1Mn0.aAFoq3U1V8WPLHq9eVlwBJBIxAvczm8zzNtBXX0CZJs/image.jpg?width=1200&height=886&coordinates=0%2C0%2C0%2C0"/><br/><br/><p><strong>1. San Diego County, California </strong>– The battery backlash just got stronger after the city of Escondido, California, indefinitely banned permits to the entire sector in reaction to a <a href="https://www.energy-storage.news/california-sdge-battery-fire-was-well-managed-caused-minimal-impact/" target="_blank"><u>battery fire</u></a> last month. </p><ul><li>Last week, the city council enacted a 45-day moratorium on permits to construction and operation of battery energy storage systems, or BESS. The moratorium will impact AES Corporation’s Seguro storage project, as well as at least one more pending project, according to staff testimony at the city council meeting on the matter.</li><li>But for AES and anyone else who hopes this ends quickly, some bad news: Staff also testified it’ll take <em><em>much</em></em> longer than 45 days to prepare a report outlining next steps due to the outstanding government workload – and that’ll just be the idea generation phase of the city’s response. A 10-month moratorium was discussed as a potential next step.</li><li>“I don’t think any of us up here are adamantly opposed to battery energy storage systems,” the city’s Republican mayor Dane White said at the meeting. “However, it has to be done the right way.”</li></ul><p><strong>2. Waldo County, Maine</strong> – The potential first floating offshore wind assembly site in America is now one step further in the permitting process, after Maine’s Department of Transportation <a href="https://www.maine.gov/mdot/projects/searsport/windport/docs/Maine%20OSWP_Pre-Application%20Alternative%20Analysis_Draft-October%202024.pdf" target="_blank"><u>released a pre-application alternatives analysis</u></a> required for federal environmental reviews. </p><ul><li>The Maine DOT report defends the selection of Sears Island for the project. We previously scooped that this decision has serious legal risks.</li><li>Nevertheless, the state believes that it’s a better site than Mack Point, an existing energy logistics port nearby. According to the report, the Mack Point alternative would cost more and “limit any future plans for growth.”</li><li>“[It] presents problematic design features that greatly reduce its operational functionality and effectively preclude its use,” the report stated.</li><li>This effectively begins the state and federal environmental permitting process for the Sears Island port project. On its end, the state is also preparing a broader draft environmental review.</li></ul><p><strong>3. Dickinson County, Kansas </strong>– This one county may be a bellwether for future problems in Kansas, a state with many existing wind farms — and even more potential — but also a lot of opposition. </p><ul><li>Activists stormed a community meeting <a href="https://www.kwch.com/2024/10/11/proposed-wind-farm-project-prompts-massive-turnout-dickinson-county-meeting/" target="_blank"><u>late last week</u></a> on deciding whether to move forward with Enel Green Power’s 334-megawatts Hope Ridge wind farm. If county planners reject the project, it’ll potentially come with a two-year moratorium on wind. Enel has several operating wind farms in Kansas, including Diamond Vista, which is in the adjacent Marion County. (Marion’s got its own moratorium now, too).</li><li>Despite existing generation, Dickinson County is one of the riskier places in the United States for <em><em>new</em></em> renewable energy development, according to Heatmap Pro’s analytics, thanks to its demographic, economic, and geographic similarities to other opposed counties.</li><li>At the top of the meeting, Enel project developer Jon Beck laid out a laundry list of reasons to build the project including jobs and tax revenue. “This area has been really favorable for a lot of reasons, and that’s why we continue here,” Beck said.</li><li>But while some in attendance supported the development, lots of testimony opposing the project stretched the hearing beyond the five-hour mark. (Pray for me, I listened back to the tape).</li><li>There’s a follow-up meeting this week. And Enel clearly takes this development seriously, because they sent me a lengthy statement about the opposition to Hope Ridge.</li><li>“Throughout this process, we’ve worked to show the Dickinson County community that wind power has been a huge success story for Kansas, bringing billions of dollars in economic impact largely targeted to rural areas,” the statement read. “Our landowners and community partners at Diamond Vista, just down the road, have seen how our project has provided new jobs, better roads, and more local funding over the last six years.”</li><li>It continued: “We understand many people in Dickinson County have concerns, but we also have a lot of supporters in the county — including our landowners — who are counting on us to make the case for this project. We hope to earn the support of the Planning Commission this week."</li></ul><p><strong>4. Washoe County, Nevada</strong> – The company behind the Burning Man festival will be acquiring nearby geothermal energy leases, in a settlement resolving litigation that had the high-profile naturalist escape challenging access to a renewable energy resource.</p><ul><li>Burning Man will purchase the leases from power company Ormat, which will then in turn help the festival organizations turn that land into a conservation area, according to an <a href="https://journal.burningman.org/2024/10/news/global-news/ormat-agreement-gerlach/" target="_blank"><u>announcement of the settlement</u></a>.</li><li>This may effectively kill Ormat’s geothermal exploration project in the area after local officials also revoked <a href="https://nevadacurrent.com/2023/04/13/washoe-county-puts-gerlach-geothermal-project-on-ice/" target="_blank"><u>a crucial drilling permit</u></a>.</li></ul><p><span></span></p><p><em><em>Here’s what else we’re watching right now…</em></em></p><p><em><em></em></em><strong>In North Carolina</strong>, the Kerr Lake Solar project proposed by Cypress Creek Renewables is facing its own <a href="https://www.hendersondispatch.com/archives/environmental-injustice/article_66ee4383-6fe9-5cbe-9026-48bc135cd86e.html" target="_blank"><u>apparent local onslaught</u></a> at community meetings.</p><p><span></span><strong>In California,</strong> Capstone and Eurowind Energy are <a href="https://www.energy-storage.news/capstone-eurowind-jv-seeks-approval-for-3-2gwh-long-duration-bess-in-california/" target="_blank"><u>seeking permission</u></a> to build a long-duration battery storage facility in Alameda County.</p><p><span></span><strong>In New Jersey</strong>, a coalition of shore towns and opposition groups fighting the EDF-Shell Atlantic Shores offshore wind farm have issued <a href="https://www.wind-watch.org/news/2024/10/15/letter-to-shell-and-edf-regarding-offshore-wind-projects/" target="_blank"><u>a new missive</u></a> criticizing state financial benefits to the project.</p><p><span></span><strong>In New York</strong>, the town of Oyster Bay looks like it’ll be extending its moratorium on BESS for at least <a href="https://antonmediagroup.com/east-oyster-bay-residents-plead-with-town-board-to-extend-battery-moratorium/" target="_blank"><u>another six months</u></a>.</p><p><span></span><strong>In Pennsylvania</strong>, a Pivot Energy solar farm also has <a href="https://www.thetimes-tribune.com/news/proposed-solar-farm-in-ransom-twp-draws-opposition/article_3494cdc2-8a3a-11ef-a479-d35f6e31ea4f.html" target="_blank"><u>some local organizing</u></a> in the way. </p> 
+
+<br> 
+
+<https://heatmap.news/plus/the-fight/hotspots/escondido-california-battery-moratorium-aes>
+
+---
+
+## Renewable Energy’s Gloomy Election
+
+date: 2024-10-16, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MzgyNzMxMy9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2MTE0MjQ3MX0.hlWRz__QYD35gu07R7NLoZ7Rp91OG4b8rwpVEtUSKgA/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>
+<strong>IRA on the mind </strong>– The renewable energy ecosystem is starting to really sound alarm bells about the November election and the risks of what they’re calling a “clean energy plan repeal” – e.g. scrapping IRA credits and carbon pollution rules.
+</p><ul>
+<li>Yesterday, the nonprofit E2 <a href="https://e2.org/reports/survey-business-impact-of-ira-repeal/" rel="noopener noreferrer" target="_blank">released a survey</a> of industry leaders that found more than half would “lose business or revenue” from such a repeal and more than 20% would have to lay off employees. </li>
+<li>Climate Power then sent out the survey in an email blast that read in big bold letters: “ICYMI: Business Leaders Say Repealing the Clean Energy Plan Would Lead to Mass Layoffs, Major Blow to Business.” </li>
+<li>This is some classic Washington messaging prep clearly in the event of a less-than-favorable outcome in the election.</li>
+</ul><p>
+<strong>No Golden climate bill – </strong>However, if Kamala Harris and the Democrats <em><em>do </em></em>win in November, I’m bearish on the odds of another big piece of renewables stimulus passing through Congress next term.
+</p><ul>
+<li>That’s because of moderate Democrat Jared Golden of Maine, who said in a <em><em>Politico</em></em> profile yesterday that he would oppose his party moving to another piece of major climate legislation if they held power. </li>
+<li>“I don’t want to talk about a climate bill,” Golden told the <a href="https://www.politico.com/news/2024/10/14/maine-democrat-jared-golden-election-climate-environment-00183508" target="_blank"><u>Beltway media outlet</u></a>. </li>
+<li>Given the odds of a major blue wave are exceedingly low, a Democratic majority would probably be thin – so thin that Golden would easily get his way.</li>
+</ul><p>
+<strong>Data center moratoriums – </strong>Energy demand for tech may be a driver of renewables development across the country, but data centers are starting to face moratoria fights of their own.
+</p><ul>
+<li>In Indiana, the activist group Citizens Action Coalition called for a state-wide ban on new data centers for artificial intelligence, arguing they waste electricity and no longer fit the budgetary boundaries of an existing state tax exemption on data centers. </li>
+<li>The Coalition’s organizers include Ben Inskeep, who is also an analyst for energy consulting firm EQ Research. </li>
+<li>It’s unclear whether this will fly with state policymakers as data center moratoriums so far have failed to get off the ground in the U.S.. Earlier this year a grassroots effort to restrict development in <a href="https://patch.com/virginia/ashburn/no-moratorium-allowed-data-center-development-loudoun-county" rel="noopener noreferrer" target="_blank"><u>Loudon County, Virginia, flatlined</u></a>.</li>
+</ul><p>
+<em><em>Here’s what else we’re watching… </em></em>
+</p><p>
+<strong>In Illinois,</strong> the Solar Energy Industries Association and American Clean Power are <a href="https://seia.org/news/clean-energy-industries-rally-behind-bills-to-save-ratepayers-3-billion-through-grid-modernization/" target="_blank"><u>rallying behind</u></a> comprehensive decarb stimulus legislation.
+</p><p><strong>In Louisiana,</strong> voters going to the polls will decide whether to increase revenues from offshore energy – including wind – that go to <a href="https://www.wdsu.com/article/louisiana-amendment-1-coastal-restoration-funding/62559354" target="_blank"><u>coastal restoration</u></a>.</p> 
+
+<br> 
+
+<https://heatmap.news/plus/the-fight/policy-watch/renewable-energy-election-2024>
+
+---
+
+## Biden to travel to Germany this week, Angola in December for visits delayed by Hurricane Milton
+
+date: 2024-10-16, from: VOA News USA
+
+Washington — President Joe Biden is heading to Germany Thursday and will visit Angola the first week in December, rescheduling visits that were postponed so he could remain in Washington to monitor the federal response to Hurricane Milton as it struck Florida.
+
+
+The White House confirmed Biden will depart for his quick trip to Berlin on Thursday. It will offer him the opportunity to huddle with his key ally, German Chancellor Olaf Scholz, about their countries' support for Ukraine in its war with Russia as the conflict is at another critical moment.
+
+
+Biden's initial itinerary for the postponed trip included a meeting on the war in Ukraine with allied nations at an American military base in Germany before he was to continue on to Angola.
+
+
+
+
+The White House says that the gathering of representatives of the allied nations, partners in the Ukraine Defense Contact Group, will instead take place virtually next month. Still, the war in Ukraine will loom large during Biden's time in Berlin this week.
+
+
+Biden spoke by phone Wednesday with Ukrainian President Volodymyr Zelenskyy, but they will not meet while the president is in Germany.
+
+
+The two leaders discussed Zelenskyy's "victory plan," shortly after the Ukrainian leader presented it to his parliament . Zelenskyy is scheduled to present the five-point plan to the European Council on Thursday.
+
+
+Zelenskyy had previously spoken to Biden about the proposal.
+
+
+The plan includes an invitation for Ukraine to join NATO and permission to use Western-supplied longer-range missiles to strike military targets deep inside Russian territory — steps that have been met with reluctance by Kyiv's allies so far.
+
+
+The White House on Wednesday declined to comment about the plan.
+
+
+"We're going to let the Ukrainians speak to their victory plan," White House press secretary Karine Jean-Pierre told reporters. "What we're going to continue to do is show our support for the Ukrainians on the battlefield as they continue to beat back Russia."
+
+
+Zelenskyy said in a statement following the call he also spoke to Biden about the U.S. and Ukraine potentially exploring ways to produce weapons together.
+
+
+The Biden administration also announced a further $425 million in military assistance to Ukraine, bringing its total to more than $64 billion in the two and a half years since Russia's invasion. Wednesday's package includes surface-to-air missiles to protect Ukrainian infrastructure from Russian attacks and long range rockets and artillery to help its war effort.
+
+
+Biden and Scholz recently spoke by phone to discuss the need for the countries to "continue our strong collaboration on geopolitical priorities, including supporting Ukraine's defense against Russian aggression," according to the White House.
+
+
+Jean-Pierre said the trip was important to Biden, in part because of Germany's help with a complicated hostage swap with Russia.
+
+
+"The president really wanted to make sure to go to Germany to thank Chancellor Scholz directly," she said.
+
+
+Scholz in a speech before the German parliament on Wednesday said he was looking forward to Biden's visit. "I would like to say that … President Biden stands for an incredible improvement in cooperation over recent years," said Scholz, adding that he was grateful for the "good collaboration" forged with the Democratic president.
+
+
+There's a significant measure of anxiety in Europe about what next month's U.S. presidential election could mean for Ukraine.
+
+
+Vice President Kamala Harris, the Democratic nominee, has been in lockstep with Biden about the need to maintain robust economic and military support for Ukraine. Republican Donald Trump has said he would move to quickly to end the war the war with Russia should he regain the White House.
+
+
+Trump's running mate, Ohio Sen. JD Vance, has said that the plan would include establishing a "demilitarized zone" and that Ukraine would not reclaim territory that Russia occupies and would agree not to join NATO.
+
+
+Scholz has been one of Biden's closest global allies.
+
+
+In addition to his robust support for Ukraine, Scholz played a critical role in helping free Wall Street Journal reporter Evan Gershkovich, corporate security executive Paul Whelan, and others from Russian prisons in a multinational prisoner swap.
+
+
+As part of the biggest prisoner exchange in post-Soviet history, Scholz agreed to release Vadim Krasikov, a Russian who was convicted of the 2019 murder of a 40-year-old Georgian citizen who had fought Russian troops in Chechnya and later claimed asylum in Germany.
+
+
+Biden has not visited Africa since taking office in early 2021.
+
+
+Jean-Pierre said the coming visit to Luanda aims to "recognize Angola's role as a strategic partner and regional leader, and discuss increased collaboration on security, health, and economic partnerships." 
+
+<br> 
+
+<https://www.voanews.com/a/biden-to-travel-to-germany-this-week-angola-in-december-for-visits-delayed-by-hurricane-milton/7824926.html>
+
+---
+
+## US Navy fighter jet with two on board crashes during training in Washington state
+
+date: 2024-10-16, from: VOA News USA
+
+The U.S. Navy searched Wednesday through mountainous terrain for two crew members who were aboard a fighter jet that crashed in Washington state during a routine training flight.
+
+
+The EA-18G Growler jet from the Electronic Attack Squadron crashed east of Mount Rainier at about 3:23 p.m. Tuesday, according to Whidbey Island Naval Air Station. Search teams, including a U.S. Navy MH-60S helicopter, launched from NAS Whidbey Island to try to find the crew and examine the crash site.
+
+
+Navy searchers were joined by Yakima County tribal and local authorities as they pored over an area of about 48 kilometers (30 miles) west of Yakima in cloudy weather with low visibility, the Navy said. As of late Wednesday morning, they hadn't found the wreckage or crew, officials said in a news release.
+
+
+Navy officials said they didn't know if the two crew members managed to eject before the crash, which remains under investigation.
+
+
+The EA-18G Growler is similar to the F/A-18F Super Hornet and includes sophisticated electronic warfare devices. Most of the Growler squadrons are based at Whidbey Island. One squadron is based at Marine Corps Air Station Iwakuni, Japan.
+
+
+The "Zappers" were recently deployed on the USS Dwight D. Eisenhower.
+
+
+The search Wednesday was happening in rainy and cloudy weather near Mount Rainier, a towering active volcano that is blanketed in snowfields and glaciers year-round.
+
+
+The first production of the Growler was delivered to Whidbey Island in 2008. In the last 15 years, it has operated around the globe supporting major actions, the Navy said. The plane seats a pilot in front and an electronics operator behind them.
+
+
+"The EA-18G Growler aircraft we fly represents the most advanced technology in airborne Electronic Attack and stands as the Navy's first line of defense in hostile environments," the Navy said on its website. Each aircraft costs about $67 million.
+
+
+Military aircraft training exercises and travel can be dangerous and sometimes result in crashes, injuries and deaths.
+
+
+In May, an F-35 fighter jet on its way from Texas to Edwards Air Force Base near Los Angeles crashed after the pilot stopped to refuel in New Mexico. The pilot was the only person on board in that case and was taken to a hospital with serious injuries.
+
+
+Last year, eight U.S. Air Force special Operations Command service members were killed when a CV-22B Osprey aircraft they were flying in crashed off the coast of Japan. 
+
+<br> 
+
+<https://www.voanews.com/a/us-navy-fighter-jet-with-two-on-board-crashes-during-training-in-washington-state-/7824904.html>
+
+---
+
+## The Transmission Study Making the Rounds on the Hill
+
+date: 2024-10-16, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MzgyNzI5OS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4NjgzNzY5M30.jjIx8tdp15PxZxa07BgmmiWrXunh_gf5fFxO9K4Fx2Y/image.jpg?width=1200&height=600&coordinates=40%2C0%2C40%2C0"/><br/><br/><p>This week’s conversation is with Ray Long, president and CEO of the American Council on Renewable Energy, or ACORE. A representative of one of Washington’s most influential climate tech policy trade groups, Long is also a seasoned veteran of the energy sector across fossil and carbon-free power and now an industry thought leader based in Washington. I caught up with him at ACORE’s Grid Forum last week and asked him how companies are doing against NIMBYs. </p>
+<p><strong>Developers of gas infrastructure – are they spending more, less, or the same as renewable energy developers on community engagement? Who spends more on community engagement? </strong></p>
+<p>I just don’t know. I have no idea. It’s hard to gauge. And let’s talk about why – each company doesn’t disclose how much they spend on community engagement. You know, it’s not like you can go see who is registered to lobby in different areas, it’s not clear. I suppose you could go back after the fact and look at community benefit funds and those sorts of things that get put together but I’m just not sure if that’ll give you the snapshot that you’re looking for. </p>
+<p><strong>I’m curious if you feel if developers in renewable energy are spending enough of their capital on getting the consent of host communities. </strong></p>
+<p>Having worked for a renewable developer I can only speak from the perspective of the experience I had there. My sense is, across the industry, you’ve got different levels of companies that have different levels of sophistication and different levels of capabilities to do those things. And I’ll say this: even the sophisticated companies that are going in early, having the conversations and doing all the things that I would say would be a strategic way to getting it done… even they’re running into opposition. I don’t think it’s really any different than some of the fossil plants in my experience where there has been politicization. </p>
+<p><strong>Given the various degrees of sophistication and the various degrees of capacity, how would you score the renewable energy industry’s success rate at dealing with project opposition? </strong></p>
+<p>One of the places you can look at data is NEPA – the environmental impact statements. You know that NEPA impacts wind, solar, transmission, and fossil. Stanford [University] did this <a href="https://cddrl.fsi.stanford.edu/publication/nepa-litigation-over-large-energy-and-transport-infrastructure-projects" target="_blank">really interesting study</a> where they looked back 10 years and they pulled all the environmental impact statements that had been submitted and then they graphed it, and they looked at it from the standpoint of which projects had been delayed, litigated, and ultimately canceled. Going in, if you go into Democratic offices and you talk to them in Washington, the impression a lot of us had was, I’d guess fossil projects would be the first. They’d be delayed the most, litigated the most, canceled the most. But it wasn’t. It was solar, wind… fossil’s fourth. That study was fascinating. That’s one of those things making the rounds now on the Hill as Democratic offices are considering the permitting and transmission bill. </p>
+<p><strong>But so many of these projects don’t require a NEPA review. How is the industry doing when it comes to dealing with the local county clerks? </strong></p>
+<p>I think it really depends on which technology, which company is going in. What’s their approach to it. It’s really hard to give a grade to the industry as a whole. </p>
+<p><strong>What would you say to a developer on best practices for community engagement in your view? </strong></p>
+<p>Number one, go into a community as soon as you think you have a project you’re going into. Start to talk to local people there about what their interests are and understand why. You’ve got to have a sense of curiosity, and develop an understanding of what people’s motivators are. </p>
+<p>The second thing is hire local. Get some local people that you’re going to work with, who understand the community and can best advise you on it. <br/><br/>The third thing is, as you look to pull your project together and you think about your permitting structure, start to build in those things that the community cares about. Only then, when you have a line of sight on doing that, start the permitting process. </p>
+<p><strong>I certainly hope companies heed your advice.</strong></p>
+<p>Well if you look at the success record, companies that do that have a higher success record than those who don’t. </p> 
+
+<br> 
+
+<https://heatmap.news/plus/the-fight/qa/acore-ceo-ray-long>
+
+---
+
+## Defense contractor to pay $252M penalty to resolve Qatar bribery charges
+
+date: 2024-10-16, from: VOA News USA
+
+NEW YORK — RTX Corporation, the defense contractor formerly known as Raytheon, has agreed to pay the U.S. government $252 million to resolve criminal charges alleging it paid bribes to secure contracts with Qatar, federal prosecutors said Wednesday.
+
+
+The company entered into a deferred prosecution agreement on charges of violating the anti-bribery provision of the Foreign Corruption Practices Act and the Arms Export Control Act.
+
+
+It also agreed to pay a $52.5 million civil penalty to resolve a parallel Securities and Exchange Commission investigation and must forfeit at least $37 million to satisfy both probes.
+
+
+At a brief hearing in federal court in Brooklyn, lawyers for RTX waived their right to an indictment and pleaded not guilty to both counts. They did not object to any of the allegations in court documents filed in conjunction with the agreement.
+
+
+Under the agreement, the company will have to demonstrate good conduct for the next 3½ years and foster a culture of ethics and compliance with anti-corruption laws.
+
+
+Messages seeking comment were left for RTX Corporation and the Qatari Embassy in Washington.
+
+
+RTX said in a July regulatory filing that it set aside $1.24 billion to resolve pending legal and regulatory matters. The company's president and CEO, Christopher Calio, told investors that the investigations largely involved issues that predated the Raytheon-United Technologies merger that formed the current company in 2020.
+
+
+"These matters primarily arose out of legacy Raytheon Company and Rockwell Collins prior to the merger and acquisition of these companies," Calio said. "We've already taken robust corrective actions to address the legacy gaps that led to these issues."
+
+
+According to court documents, Raytheon employees and agents offered and paid bribes to a foreign official between 2012 and 2016 to gain an advantage in obtaining lucrative business deals with the Qatar Emiri Air Force and Qatar Armed Forces.
+
+
+The company then succeeded in securing four additions to an existing contract with the Gulf Cooperation Council — a regional union of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and the United Arab Emirates — and a $510 million sole-sourced contract to build a joint-operations center for the Qatari military, the court documents said.
+
+
+Raytheon made about $36.7 million in profit from the Gulf Cooperation Council contract additions and anticipated making more than $72 million on the joint operations center, but the Qatari government ultimately did not go forward with the deal, prosecutors said.
+
+
+Wednesday's penalty is just the latest legal fallout from RTX's business dealings.
+
+
+According to court and regulatory filings, the company is expected to soon enter into another deferred prosecution agreement to resolve civil and criminal investigations in Massachusetts into defective pricing claims for Raytheon contracts dating from 2011 to 2017.
+
+
+In August, the company agreed to pay $200 million to the State Department after voluntarily disclosing more than two dozen alleged violations of the Arms Export Control Act and International Traffic in Arms Regulations. Among the allegations were that the company provided classified military aircraft data to China and that employees took company-issued laptops containing information about missiles and aircraft into Iran, Lebanon and Russia. 
+
+<br> 
+
+<https://www.voanews.com/a/defense-contractor-to-pay-252m-penalty-to-resolve-qatar-bribery-charges/7824918.html>
+
+---
+
+## Listeria recall grows to 5.4 million kilograms of meat and poultry
+
+date: 2024-10-16, from: VOA News USA
+
+A nationwide recall of meat and poultry products potentially contaminated with listeria has expanded to nearly 15.4 million kilograms (12 million pounds) and now includes ready-to-eat meals sent to U.S. schools, restaurants and major retailers, federal officials said.
+
+
+The updated recall includes prepared salads, burritos and other foods sold at stores including Costco, Trader Joe's, Target, Walmart and Kroger. The meat used in those products was processed at a Durant, Oklahoma, manufacturing plant operated by BrucePac. The Woodburn, Oregon-based company sells precooked meat and poultry to industrial, foodservice and retail companies across the country.
+
+
+Routine testing found potentially dangerous listeria bacteria in samples of BrucePac chicken, officials with the U.S. Agriculture Department said. No illnesses have been confirmed in connection with the recall, USDA officials said. The U.S. Centers for Disease Control and Prevention has not launched an outbreak investigation, a spokesperson said.
+
+
+The recall, issued on October 9, includes foods produced between May 31 and October 8. The USDA has posted a 342-page list of hundreds of potentially affected foods, including chicken wraps sold at Trader Joe's, chicken burritos sold at Costco and many types of salads sold at stores such as Target and Walmart. The foods were also sent to school districts and restaurants across the country.
+
+
+The recalled foods can be identified by establishment numbers "51205 or P-51205" inside or under the USDA mark of inspection. Consumers can search on the USDA recall site to find potentially affected products. Such foods should be thrown away or returned to stores for refunds, officials said.
+
+
+Eating foods contaminated with listeria can cause potentially serious illness. About 1,600 people are infected with listeria bacteria each year in the U.S. and about 260 die, according to the U.S. Centers for Disease Control and Prevention.
+
+
+Listeria infections typically cause fever, muscle aches and tiredness and may cause stiff neck, confusion, loss of balance and convulsions. Symptoms can occur quickly or to up to 10 weeks after eating contaminated food. The infections are especially dangerous for older people, those with weakened immune systems or who are pregnant.
+
+
+The same type of bacteria is responsible for an outbreak tied to Boar's Head deli meat that has killed at least 10 people since May. 
+
+<br> 
+
+<https://www.voanews.com/a/listeria-recall-grows-to-5-4-million-kilograms-of-meat-and-poultry/7824872.html>
+
+---
+
+## Two US radio stations end Russian-backed 'propaganda' programming
+
+date: 2024-10-16, from: VOA News USA
+
+Washington — Russian-backed radio programmer Sputnik no longer broadcasts in the Washington market after years of criticism that its local radio station, WZHF, carries antisemitic content and false information about Russia’s invasion of Ukraine.
+
+
+Political cartoonist Ted Rall, who described himself as a guest on Sputnik’s programming, posted a comment Tuesday on X: “Biden/Harris say they're fighting for democracy. Yet: today Sputnik News US is being forced to shut down today due to Biden/Harris sanctions. My radio show and cartoons for them are being quashed. So are the other amazing shows. I go off the air with the station at noon.” 
+
+
+Manila Chan, a self-described indie journalist, tweeted Tuesday that she and Rall would be relaunching their show on YouTube “following sanctions that have shut down RT+Sputnik.” 
+
+
+As first reported by The Desk, a news website on the business of streaming media, Sputnik stopped programming in its Washington-based market and three stations in the Kansas City, Missouri, area this week. 
+
+
+Last month, the U.S. State Department introduced new sanctions on Russian-backed broadcasters, including television channel RT, for fundraising on behalf of the Russian military in opposition to Ukraine. The sanctions marked the first time the United States accused Russian broadcasters of providing direct and material military support. 
+
+
+“RT wants its new covert intelligence capabilities, like its longstanding propaganda disinformation efforts, to remain hidden. Our most powerful antidote to Russia’s lies is the truth. It’s shining a bright light on what the Kremlin is trying to do under the cover of darkness,” U.S. Secretary of State Antony Blinken said last month.  
+
+
+The sanctions did not specifically prohibit the content of the programming but made it more difficult for Sputnik to continue buying airtime on U.S. stations. 
+
+
+“As Foreign Missions Act-designated entities, Rossiya Segodnya, RIA Novosti, RT, TV-Novosti, Ruptly, and Sputnik will be required to notify the State Department of all personnel working in the United States. The entities will also be required to disclose all real property they hold within the United States,” said the State Department in a September 4 statement. 
+
+
+RT and RT America, the TV and digital media company founded by Russian President Vladimir Putin in 2005, directs Sputnik. Prior to this week, five U.S. radio stations carried Russian government-backed Sputnik programming. 
+
+
+Shortly after the Russian invasion of Ukraine in February 2022, the National Association of Broadcasters said in a statement, “While the First Amendment protects freedom of speech, however, it does not prevent private actors from exercising sound, moral judgment. To that end, given the unprovoked aggression exhibited by Russia against the free and sovereign people of Ukraine, NAB calls on broadcasters to cease carrying any state-sponsored programming with ties to the Russian government or its agents.”
+
+
+“While we know that airings of such programs are extremely limited, we believe that our nation must stand fully united against misinformation and for freedom and democracy across the globe,” said NAB.
+
+
+In January, Republican Representative Jack Bergman called on the Federal Communications Commission to revoke the license of Radio Sputnik Washington affiliate WZHF (1390) and its translator W288BS at 105.5 FM. In the letter, Bergman cited a steady stream of antisemitic tropes and false information about the war in Ukraine. 
+
+
+“An FCC licensee clearly has a First Amendment right to broadcast. However, that right is tempered by its obligation to broadcast programming that is in the public interest and responsive to the needs of the local community,” Bergman wrote in the letter.
+
+
+He also argued the licensees “have made no effort to ascertain the needs or interests of the local community” and that their programming decisions “are based exclusively on monetary considerations.”
+
+
+In 2018, three Democratic members of Congress asked then-FCC Chairman Ajit Pai to investigate Sputnik’s alleged efforts to meddle in the 2016 U.S. presidential election. 
+
+
+“In Washington, D.C., listeners need only tune their radios to 105.5 FM to hear the Russian government’s effort to influence U.S. policy,” the letter from Democratic Representatives Anna Eshoo, Mike Doyle and Frank Pallone said. “Disturbingly, this means the Kremlin’s propaganda messages are being broadcast over a license granted by the FCC.” 
+
+
+Pai — a Trump administration appointee — declined to investigate, saying the First Amendment prevented the FCC “from interfering with a broadcast licensee’s choice of programming, even if that programming may be objectionable to many listeners.” 
+
+
+A bipartisan group of members of Congress introduced the Identifying Propaganda on Our Airwaves Act in 2018. 
+
+
+“Foreign governments shouldn’t be able to hide behind shell companies to fund misinformation and propaganda on American airwaves,” said Democratic Senator Brian Schatz, a member of the Senate Committee on Commerce, Science, and Transportation.
+
+
+“By giving the FCC the authority to require disclosure of this foreign propaganda, our bipartisan bill will help stop this practice and improve programming transparency on TV and the radio,” he said.
+
+
+The bill did not advance in Congress. Federal regulations already prevent foreign governments from holding U.S. broadcast licenses. 
+
+<br> 
+
+<https://www.voanews.com/a/two-us-radio-stations-end-russian-backed-propaganda-programming/7824863.html>
+
+---
+
+## US Border Patrol says message is southern border is not open
+
+date: 2024-10-16, from: VOA News USA
+
+With the U.S. presidential election just weeks away, border security remains a central issue. Reporting from Arizona, VOA immigration correspondent Aline Barros spoke with the U.S. Border Patrol and a migration expert for two views on what border security means. Video editor: Henry Hernandez 
+
+<br> 
+
+<https://www.voanews.com/a/us-border-patrol-says-message-is-southern-border-is-not-open-/7824827.html>
+
+---
+
+## Former US president Jimmy Carter, 100, casts vote
+
+date: 2024-10-16, from: VOA News USA
+
+washington  — Fifteen days after turning 100, former U.S. president Jimmy Carter cast his ballot in the U.S. election on Wednesday, fulfilling an earlier declared wish to live long enough to vote for Kamala Harris.
+
+
+The former Democratic leader "voted by mail," according to the Carter Center, the nonprofit he founded after he left the White House in 1981 to pursue his vision of world diplomacy.
+
+
+The centenarian — who left office under a cloud of unpopularity, but has seen his star rise ever since — took advantage of early voting in his home state of Georgia, where he is receiving hospice care.
+
+
+Carter had told his family earlier this year that living long enough to vote for Harris and help defeat her Republican rival, Donald Trump, was more important to him than his centennial, according to the Atlanta Journal-Constitution newspaper.
+
+
+He reached both milestones.
+
+
+More than 420,000 people have cast their ballot since early voting began Tuesday in Georgia, according to Gabriel Sterling, a state election official who posted the figures at midday.
+
+
+Election Day is November 5.
+
+
+Carter, a one-term president, has been receiving end-of-life care in his hometown of Plains in Georgia since February last year.
+
+
+He is the first former U.S. president to reach the century mark, another extraordinary milestone for the one-time peanut farmer who worked his way to the White House. 
+
+<br> 
+
+<https://www.voanews.com/a/former-us-president-jimmy-carter-100-casts-vote-/7824686.html>
 
 ---
 
@@ -14,7 +1270,7 @@ updated: 2024-10-16 11:03:17
 date: 2024-10-16, from: Heatmap News
 
 
-<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MzgyMzYwMC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTczMzEwMjAxMn0.6O-y5n9QBIu7vMvrqiXFPQlUc_mOIm5IPCbuNc98xak/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">First it was Microsoft and Constellation <a href="https://heatmap.news/technology/microsoft-three-mile-island-nuclear" target="_self"><u>restarting Three Mile Island</u></a>, then it was<a href="https://kairospower.com/external_updates/google-and-kairos-power-partner-to-deploy-500-mw-of-clean-electricity-generation/" rel="noopener noreferrer" target="_blank"> </a>Google announcing it would <a href="https://kairospower.com/external_updates/google-and-kairos-power-partner-to-deploy-500-mw-of-clean-electricity-generation/" rel="noopener noreferrer" target="_blank"><u>buy power from small modular reactors built by Kairos</u></a>. Now today, <a href="https://www.aboutamazon.com/news/sustainability/amazon-nuclear-small-modular-reactor-net-carbon-zero" rel="noopener noreferrer" target="_blank"><u>Amazon has said</u></a> it’s investing in X-energy, the small modular reactor and fuel company, and supporting a joint project by X-energy and Energy Northwest, the Washington state public utility.</p><p>So what makes this deal different from all other nuclear tech deals?</p><p>“What makes this significantly different is the investment,” Brett Rampal, a senior director at Veriten, an energy advisory company, told me. Amazon is not just buying the power that a nuclear reactor will produce after it’s completed. It’s getting involved in the projects themselves.</p><p>This has not typically been how big tech companies with commitments to reduce emissions and rapidly expanding energy needs to <a href="https://heatmap.news/technology/iea-world-energy-outlook-2024" target="_self"><u>power more data centers</u></a> get involved with nuclear power.</p><p>The <a href="https://heatmap.news/economy/microsoft-three-mile-island-nuclear-constellation" target="_self"><u>Microsoft/Constellation deal to restart Three Mile Island</u></a> did not entail Microsoft taking on the financial and logistical burden of upgrading the plant so that it could be up and running again in a few years — for that, Constellation will be putting $1.6 billion of its own money into the plant. Instead, Microsoft signed a 20-year deal for the plant’s output, known as a power purchase agreement, which <a href="https://x.com/ArnabDatta321/status/1846539077056688503" target="_blank"><u>guarantees a price</u></a> for the plant’s product. These types of deals were pioneered by Google to support renewables projects by giving them a guaranteed income independent of how electricity prices might fluctuate in whatever market they were selling into.</p><p>Amazon’s deal, on the other hand, is a “direct investment in the Energy Northwest project,” an X-energy spokesperson told me. According to an Amazon spokesperson, that means a “capital commitment to fund development, licensing and construction of an SMR project with Energy Northwest in Washington State,” a spokesperson told me. The project would be sited near the existing Columbia Generating Station in Richland.</p><p>“This is Amazon saying, <em><em>We’re in, and we need this, and we’re putting skin in the game directly</em></em>,” Rampal said. By contrast, other nuclear deals like Microsoft’s and Google’s “send demand signals and are, <em><em>Hey, we’ll be there when you’re done</em></em>.”</p><p>Energy Northwest and X-energy signed a joint development agreement for the project last year. If all goes as planned, the finished facility could be as large as 960 megawatts from 12 X-energy 80-megawatt “modules.” Amazon could buy the electricity from up to four of the modules, totaling 320 megawatts. Amazon said that the project “will help meet the forecasted energy needs of the Pacific Northwest beginning in the early 2030s.” (Last year X-energy and Energy Northwest <a href="https://x-energy.com/media/news-releases/energy-northwest-x-energy-joint-development-agreement-xe-100" target="_blank"><u>said the project would be online</u></a> “by 2030.”)</p><p>“We’ve been working for years to develop this project at the urging of our members, and have found that taking this first, bold step is difficult for utilities, especially those that provide electricity to ratepayers at the cost of production,” Greg Cullen, Energy Northwest’s vice president for energy services and development, said in a release. “We applaud Amazon for being willing to use their financial strength, need for power, and know-how to lead the way to a reliable, carbon-free power future for the region.” </p><p>That “first, bold” step is difficult because nuclear development is notoriously risky even with proven technologies, let alone novel designs like X-energy’s. The only other small modular reactor deal in the United States, between NuScale (which has the only approved small modular reactor design) and a coalition of Mountain West utilities, <a href="https://heatmap.news/economy/nuscale-small-modular-reactor-nuclear-costs-inflation" target="_self"><u>fell through due to escalating costs</u></a>.</p><p>Amazon is also anchoring an equity investment in X-energy itself, alongside Citadel founder Ken Griffin and other investors. Amazon said its investment in X-energy “includes manufacturing capacity to develop the SMR equipment to support more than 5 gigawatts of new nuclear energy projects utilizing X-energy’s technology.”</p><p>The reactor design that Energy Northwest and X-energy plan to deploy, the Xe-100, is in the <a href="https://www.nrc.gov/reactors/new-reactors/advanced/who-were-working-with/licensing-activities/pre-application-activities/xe-100.html" target="_blank"><u>“pre-application” process</u></a> with the Nuclear Regulatory Commission. X-energy and the NRC have been engaging with each other since 2018, according to the docket for the project.</p><p>Amazon also announced that it had signed a memorandum of understanding with Virginia utility Dominion Energy to look into SMR projects. Earlier this year, Dominion <a href="https://news.dominionenergy.com/2024-07-10-Dominion-Energy-takes-important-step-to-determine-feasibility-of-Small-Modular-Reactor-SMR-technology-to-support-customers-needs" target="_blank"><u>put out a request for proposals for SMRs</u></a> at its existing North Anna site near Richmond, whose two reactors have a capacity of around 1,800 megawatts.</p><p>The Department of Energy has estimated that existing nuclear sites could host an additional 60 to 95 gigawatts of new nuclear power, which means the United States’ nuclear output could double without having to set up a new site for a reactor. The North Anna site has an “early site permit” from the NRC, which approves a particular site for nuclear reactors. </p> 
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MzgyMzYwMC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTczMzEwMjAxMn0.6O-y5n9QBIu7vMvrqiXFPQlUc_mOIm5IPCbuNc98xak/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">First it was Microsoft and Constellation <a href="https://heatmap.news/technology/microsoft-three-mile-island-nuclear" target="_self"><u>restarting Three Mile Island</u></a>, then it was Google announcing it would <a href="https://kairospower.com/external_updates/google-and-kairos-power-partner-to-deploy-500-mw-of-clean-electricity-generation/" rel="noopener noreferrer" target="_blank"><u>buy power from small modular reactors built by Kairos</u></a>. Now today, <a href="https://www.aboutamazon.com/news/sustainability/amazon-nuclear-small-modular-reactor-net-carbon-zero" rel="noopener noreferrer" target="_blank"><u>Amazon has said</u></a> it’s investing in X-energy, the small modular reactor and fuel company, and supporting a joint project by X-energy and Energy Northwest, the Washington state public utility.</p><p>So what makes this deal different from all other nuclear tech deals?</p><p>“What makes this significantly different is the investment,” Brett Rampal, a senior director at Veriten, an energy advisory company, told me. Amazon is not just buying the power that a nuclear reactor will produce after it’s completed. It’s getting involved in the projects themselves.</p><p>This has not typically been how big tech companies with commitments to reduce emissions and rapidly expanding energy needs to <a href="https://heatmap.news/technology/iea-world-energy-outlook-2024" target="_self"><u>power more data centers</u></a> get involved with nuclear power.</p><p>The <a href="https://heatmap.news/economy/microsoft-three-mile-island-nuclear-constellation" target="_self"><u>Microsoft/Constellation deal to restart Three Mile Island</u></a> did not entail Microsoft taking on the financial and logistical burden of upgrading the plant so that it could be up and running again in a few years — for that, Constellation will be putting $1.6 billion of its own money into the plant. Instead, Microsoft signed a 20-year deal for the plant’s output, known as a power purchase agreement, which <a href="https://x.com/ArnabDatta321/status/1846539077056688503" target="_blank"><u>guarantees a price</u></a> for the plant’s product. These types of deals were pioneered by Google to support renewables projects by giving them a guaranteed income independent of how electricity prices might fluctuate in whatever market they were selling into.</p><p>Amazon’s deal, on the other hand, is a “direct investment in the Energy Northwest project,” an X-energy spokesperson told me. According to an Amazon spokesperson, that means a “capital commitment to fund development, licensing and construction of an SMR project with Energy Northwest in Washington State,” a spokesperson told me. The project would be sited near the existing Columbia Generating Station in Richland.</p><p>“This is Amazon saying, <em><em>We’re in, and we need this, and we’re putting skin in the game directly</em></em>,” Rampal said. By contrast, other nuclear deals like Microsoft’s and Google’s “send demand signals and are, <em><em>Hey, we’ll be there when you’re done</em></em>.”</p><p>Energy Northwest and X-energy signed a joint development agreement for the project last year. If all goes as planned, the finished facility could be as large as 960 megawatts from 12 X-energy 80-megawatt “modules.” Amazon could buy the electricity from up to four of the modules, totaling 320 megawatts. Amazon said that the project “will help meet the forecasted energy needs of the Pacific Northwest beginning in the early 2030s.” (Last year X-energy and Energy Northwest <a href="https://x-energy.com/media/news-releases/energy-northwest-x-energy-joint-development-agreement-xe-100" target="_blank"><u>said the project would be online</u></a> “by 2030.”)</p><p>“We’ve been working for years to develop this project at the urging of our members, and have found that taking this first, bold step is difficult for utilities, especially those that provide electricity to ratepayers at the cost of production,” Greg Cullen, Energy Northwest’s vice president for energy services and development, said in a release. “We applaud Amazon for being willing to use their financial strength, need for power, and know-how to lead the way to a reliable, carbon-free power future for the region.” </p><p>That “first, bold” step is difficult because nuclear development is notoriously risky even with proven technologies, let alone novel designs like X-energy’s. The only other small modular reactor deal in the United States, between NuScale (which has the only approved small modular reactor design) and a coalition of Mountain West utilities, <a href="https://heatmap.news/economy/nuscale-small-modular-reactor-nuclear-costs-inflation" target="_self"><u>fell through due to escalating costs</u></a>.</p><p>Amazon is also anchoring an equity investment in X-energy itself, alongside Citadel founder Ken Griffin and other investors. Amazon said its investment in X-energy “includes manufacturing capacity to develop the SMR equipment to support more than 5 gigawatts of new nuclear energy projects utilizing X-energy’s technology.”</p><p>The reactor design that Energy Northwest and X-energy plan to deploy, the Xe-100, is in the <a href="https://www.nrc.gov/reactors/new-reactors/advanced/who-were-working-with/licensing-activities/pre-application-activities/xe-100.html" target="_blank"><u>“pre-application” process</u></a> with the Nuclear Regulatory Commission. X-energy and the NRC have been engaging with each other since 2018, according to the docket for the project.</p><p>Amazon also announced that it had signed a memorandum of understanding with Virginia utility Dominion Energy to look into SMR projects. Earlier this year, Dominion <a href="https://news.dominionenergy.com/2024-07-10-Dominion-Energy-takes-important-step-to-determine-feasibility-of-Small-Modular-Reactor-SMR-technology-to-support-customers-needs" target="_blank"><u>put out a request for proposals for SMRs</u></a> at its existing North Anna site near Richmond, whose two reactors have a capacity of around 1,800 megawatts.</p><p>The Department of Energy has estimated that existing nuclear sites could host an additional 60 to 95 gigawatts of new nuclear power, which means the United States’ nuclear output could double without having to set up a new site for a reactor. The North Anna site has an “early site permit” from the NRC, which approves a particular site for nuclear reactors. </p> 
 
 <br> 
 

@@ -1,11 +1,179 @@
 ---
 title: food
-updated: 2024-10-16 11:03:46
+updated: 2024-10-17 07:32:22
 ---
 
 # food
 
-(date: 2024-10-16 11:03:46)
+(date: 2024-10-17 07:32:22)
+
+---
+
+## The Coolest Coffee Advent Calendars For 2024
+
+date: 2024-10-17, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Tis the season to order your coffee for December. 
+
+<br> 
+
+<https://sprudge.com/the-coolest-coffee-advent-calendars-for-2024-257084.html>
+
+---
+
+## Almond Croissant Galette
+
+date: 2024-10-17, from: Bon Appetet
+
+All the flaky-nutty goodness of an almond croissant, with one-tenth of the effort. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/almond-croissant-galette>
+
+---
+
+## Mississippi Sloppy Joes
+
+date: 2024-10-17, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2024/10/Mississippi-Sloppy-Joes-1200-7226.jpg"/></div>
+<p>Sloppy joes with all of the flavours of Mississippi pot roast! Sloppy Joes are a favourite and this is a fun version based on the flavours of Mississippi pot roast. The pot roast is a simple one where you roast a piece of beef along with pepperoncini peppers and pickling juices, gravy and ranch seasoning;...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/mississippi-sloppy-joes/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/mississippi-sloppy-joes/">Mississippi Sloppy Joes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/mississippi-sloppy-joes/>
+
+---
+
+## What Is Fridgescaping?
+
+date: 2024-10-16, from: Taste of Home
+
+<p>The fridgescaping trend is on the rise over on TikTok and Instagram. What is it, and why bother?</p>
+<p>The post <a href="https://www.tasteofhome.com/article/what-is-fridgescaping/">What Is Fridgescaping?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/what-is-fridgescaping/>
+
+---
+
+## Turkey Cranberry Sliders
+
+date: 2024-10-16, from: Bon Appetet
+
+A melty layer of chopped leftover turkey and cheese centers these post-Thanksgiving sandwiches. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/turkey-cranberry-cheese-sliders>
+
+---
+
+## America, Say Your Goodbyes to Kmart
+
+date: 2024-10-16, from: Taste of Home
+
+<p>The last full-size store in the continental U.S. will close this month. What happened to Kmart?</p>
+<p>The post <a href="https://www.tasteofhome.com/article/america-say-your-goodbyes-to-kmart/">America, Say Your Goodbyes to Kmart</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/america-say-your-goodbyes-to-kmart/>
+
+---
+
+## A Holiday Porch Goose Is All I Want for Kitschmas
+
+date: 2024-10-16, from: Taste of Home
+
+<p>Welcome guests to your holiday home with a kitschy (but cute!) Christmas porch goose. Here are our favorite outfits and options. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/holiday-porch-goose/">A Holiday Porch Goose Is All I Want for Kitschmas</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/holiday-porch-goose/>
+
+---
+
+## 14 Best Meal Delivery Services 2024, Tested by Bon Appétit Editors
+
+date: 2024-10-16, from: Bon Appetet
+
+Meal kit and delivery options for every kind of cook (and those who don’t want to cook at all). 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-meal-delivery-services>
+
+---
+
+## The Best Oven Thermometer (2024) Tested, and Reviewed
+
+date: 2024-10-16, from: Bon Appetet
+
+Your oven is a liar. An oven thermometer will end the deception, once and for all. 
+
+<br> 
+
+<https://www.bonappetit.com/story/oven-thermometer>
+
+---
+
+## This New Cookout Kit Turns Your Solo Stove Fire Pit Into a Portable Grill
+
+date: 2024-10-16, from: Taste of Home
+
+<p>Hello, tailgating season! Your favorite fire pit can now double as a grill and griddle. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/solo-stove-cookout-kit/">This New Cookout Kit Turns Your Solo Stove Fire Pit Into a Portable Grill</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/solo-stove-cookout-kit/>
+
+---
+
+## How Bars Are Adapting to Gen Z, the Homebody Generation
+
+date: 2024-10-16, from: Bon Appetet
+
+For Gen Zers who turned 21 during the pandemic’s shutdowns, staying home became the default social mode. 
+
+<br> 
+
+<https://www.bonappetit.com/story/how-bars-are-adapting-to-gen-z-the-homebody-generation>
+
+---
+
+## Loneliness Isn't Just a Holiday Issue—It's a Year-Round Epidemic
+
+date: 2024-10-16, from: Bon Appetet
+
+Friendsgiving is great, but  community leaders say we need to address social isolation beyond the holiday season. 
+
+<br> 
+
+<https://www.bonappetit.com/story/loneliness-epidemic-isnt-just-a-holiday-issue>
+
+---
+
+## Map It Forward Hosting ‘Introduction to Regenerative Farming’ Workshop
+
+date: 2024-10-16, from: Daily Coffee News
+
+<div><img width="620" height="436" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/English-1-620x436.png" class="attachment-large size-large wp-post-image" alt="English" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/English-1-620x436.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/English-1-300x211.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/English-1-150x105.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/English-1-768x540.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/English-1.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Coffee events, podcasting and consulting agency Map It Forward is launching a live online workshop called &#8220;Introduction to Regenerative Coffee Farming.&#8221; The event series is scheduled to span three days,... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/10/16/map-it-forward-hosting-introduction-to-regenerative-farming-workshop/>
 
 ---
 
@@ -85,7 +253,7 @@ date: 2024-10-16, from: The Sprudge
 
 date: 2024-10-16, from: Daily Coffee News
 
-<div><img width="620" height="430" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/AeroPress-Premium-1-1-620x430.jpg" class="attachment-large size-large wp-post-image" alt="AeroPress Premium 1" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/AeroPress-Premium-1-1-620x430.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/AeroPress-Premium-1-1-300x208.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/AeroPress-Premium-1-1-150x104.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/AeroPress-Premium-1-1-768x532.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/AeroPress-Premium-1-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>AeroPress, the maker of the widely popular immersion-plus-pressure AeroPress brewer, recently launched a high-end version called the AeroPress Premium. Made entirely of glass and metal plus a silicone stopper, as... 
+<div><img width="620" height="430" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/AeroPress-Premium-1-1-620x430.jpg" class="attachment-large size-large wp-post-image" alt="AeroPress Premium 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/AeroPress-Premium-1-1-620x430.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/AeroPress-Premium-1-1-300x208.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/AeroPress-Premium-1-1-150x104.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/AeroPress-Premium-1-1-768x532.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/AeroPress-Premium-1-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>AeroPress, the maker of the widely popular immersion-plus-pressure AeroPress brewer, recently launched a high-end version called the AeroPress Premium. Made entirely of glass and metal plus a silicone stopper, as... 
 
 <br> 
 
@@ -485,7 +653,7 @@ This chickpea pasta salad turns a blend of fresh vegetables, herbs, Mediterranea
 
 date: 2024-10-15, from: Daily Coffee News
 
-<div><img width="620" height="450" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-620x450.png" class="attachment-large size-large wp-post-image" alt="Fair-Trade-certified" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-620x450.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-300x218.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-150x109.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-768x557.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Sustainability certification group Fair Trade USA recently named private label industry veteran Clay Dockery as head of coffee. The appointment comes amidst a transitional period for the Oakland-based nonprofit, whose... 
+<div><img width="620" height="450" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-620x450.png" class="attachment-large size-large wp-post-image" alt="Fair-Trade-certified" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-620x450.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-300x218.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-150x109.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified-768x557.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/Fair-Trade-certified.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Sustainability certification group Fair Trade USA recently named private label industry veteran Clay Dockery as head of coffee. The appointment comes amidst a transitional period for the Oakland-based nonprofit, whose... 
 
 <br> 
 

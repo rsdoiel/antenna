@@ -1,23 +1,451 @@
 ---
 title: pacific
-updated: 2024-10-16 11:03:24
+updated: 2024-10-17 07:32:18
 ---
 
 # pacific
 
-(date: 2024-10-16 11:03:24)
+(date: 2024-10-17 07:32:18)
+
+---
+
+## Nation and world news in brief for October 17
+
+date: 2024-10-17, from: Hawaii Tribune Harold
+
+
+				<p>One Direction &#0010;singer dies in Argentina after &#0010;fall from balcony</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/17/nation-world-news/nation-and-world-news-in-brief-for-october-17/>
+
+---
+
+## Israel allows some aid into northern Gaza after US warning
+
+date: 2024-10-17, from: Hawaii Tribune Harold
+
+
+				<p>A day after the United States said it had told Israel that a failure to allow more humanitarian aid into the Gaza Strip could prompt a cutoff of military supplies, one of the starkest U.S. warnings since the war began, there was no official response from the Israeli government.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/17/nation-world-news/israel-allows-some-aid-into-northern-gaza-after-us-warning/>
+
+---
+
+## Georgia judge blocks rule requiring hand-count of ballots
+
+date: 2024-10-17, from: Hawaii Tribune Harold
+
+
+				<p>A Georgia judge on Tuesday temporarily halted a new rule requiring poll workers to hand count ballots in November&#8217;s U.S. elections, in a defeat for Donald Trump, whose Republican allies pushed the change after he lost the battleground state in 2020. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/17/nation-world-news/georgia-judge-blocks-rule-requiring-hand-count-of-ballots/>
+
+---
+
+## JD Vance says Trump did not lose the 2020 US election
+
+date: 2024-10-17, from: Hawaii Tribune Harold
+
+
+				<p>After dodging the issue for weeks, Republican vice-presidential candidate JD Vance said unequivocally on Wednesday he believes false claims that Donald Trump did not lose the 2020 election. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/17/nation-world-news/jd-vance-says-trump-did-not-lose-the-2020-us-election/>
+
+---
+
+## Nebraska law allowing felons to vote upheld by state court
+
+date: 2024-10-17, from: Hawaii Tribune Harold
+
+
+				<p> Nebraska&#8217;s top state court on Wednesday upheld a state law allowing felons who have completed their sentences to vote, enabling thousands more people to cast ballots in the Nov. 5 U.S. presidential election. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/17/nation-world-news/nebraska-law-allowing-felons-to-vote-upheld-by-state-court/>
+
+---
+
+## Harris grilled on Fox News on immigration, Biden’s fitness for office
+
+date: 2024-10-17, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON CROSSING, Pennsylvania &#8212; Democratic Vice President Kamala Harris was grilled in a TV interview on Wednesday on the Biden administration&#8217;s efforts to tackle a surge in illegal immigration at the southern border, and laid the blame on Republicans for failing to pass a border bill. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/17/nation-world-news/harris-grilled-on-fox-news-on-immigration-bidens-fitness-for-office/>
+
+---
+
+## FTC takes on subscription traps with ‘click to cancel’ rule
+
+date: 2024-10-17, from: Hawaii Tribune Harold
+
+
+				<p>The U.S. Federal Trade Commission adopted a final rule on Wednesday requiring businesses to make it as easy to cancel subscriptions and memberships as it is to sign up, in the agency&#8217;s last major rulemaking before the Nov. 5 election. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/17/nation-world-news/ftc-takes-on-subscription-traps-with-click-to-cancel-rule/>
+
+---
+
+## Easter Island battles global vortex of plastic waste
+
+date: 2024-10-17, from: Hawaii Tribune Harold
+
+
+				<p>HANGA ROA, Easter Island (Reuters) &#8212; Easter Island, the tiny remote speck of land in the middle of the Pacific Ocean, is stuck in an oceanic vortex of plastic. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/17/nation-world-news/easter-island-battles-global-vortex-of-plastic-waste/>
+
+---
+
+## Panicked Democrats try desperate tactics to prevent a 2016 repeat
+
+date: 2024-10-17, from: Hawaii Tribune Harold
+
+
+				<p>Increasingly desperate Democrats &#8212; fearing a repeat of 2016 &#8212; are resorting to a round of last-minute tactics like demanding more debates, shaming voters, changing the rules and doctoring interviews in a sign that panic may be setting in the party.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/17/opinion/panicked-democrats-try-desperate-tactics-to-prevent-a-2016-repeat/>
+
+---
+
+## Women are making strides in politics — Why it matters
+
+date: 2024-10-17, from: Hawaii Tribune Harold
+
+
+				<p>The &#8220;Year of the Woman&#8221; label is too often thrown around when women break a barrier that should often be the norm. In 1992, it was used when five women were elected to the U.S. Senate. It was used in 2016 when Democrat Hillary Clinton became the first woman to lead a ticket for a major political party. We heard it again in 2018 during the so-called &#8220;pink wave,&#8221; when more than 100 women were elected to the U.S. House. There will likely be temptations to dub 2024 the Year of the Woman, especially if Vice President Kamala Harris wins the White House.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/17/opinion/women-are-making-strides-in-politics-why-it-matters/>
+
+---
+
+## Your Views for October 17
+
+date: 2024-10-17, from: Hawaii Tribune Harold
+
+
+				<p>Pohakuloa and the&#0010;Red Flag Warning</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/17/opinion/your-views-for-october-17-10/>
+
+---
+
+## Roadside vendors bill approved by council
+
+date: 2024-10-17, from: Hawaii Tribune Harold
+
+
+				<p>Roadside vendors could be allowed to legally operate on Hawaii County streets under a proposal approved Wednesday by the County Council.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/17/hawaii-news/roadside-vendors-bill-approved-by-council/>
+
+---
+
+## Kona Rabbi’s lawsuit against county appears headed for settlement
+
+date: 2024-10-17, from: Hawaii Tribune Harold
+
+
+				<p>Significant progress is being made toward settling a federal lawsuit filed by a Kailua-Kona rabbi and the religious organization he represents against Hawaii County and Planning Director Zendo Kern, according to court records.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/17/hawaii-news/kona-rabbis-lawsuit-against-county-appears-headed-for-settlement/>
+
+---
+
+## County wants piece of Ka‘u parcel for sewage plant
+
+date: 2024-10-17, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County could seize nearly 29 acres of Ka&#8216;u land to develop a wastewater treatment plant in Na&#8216;alehu.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/17/hawaii-news/county-wants-piece-of-kau-parcel-for-sewage-plant/>
+
+---
+
+## Dietary guidelines become mired in war over alcohol safety
+
+date: 2024-10-17, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Lawmakers and industry players are asking the Department of Health and Human Services to put a stop to a controversial study on alcohol and health that could inform the next round of U.S. nutrition recommendations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/17/nation-world-news/dietary-guidelines-become-mired-in-war-over-alcohol-safety/>
+
+---
+
+## Harris betting that Republican voters will help her win against Trump
+
+date: 2024-10-17, from: Hawaii Tribune Harold
+
+
+				<p>Kamala Harris is intensifying efforts to persuade Republicans to cross the aisle and back her campaign in a bid to expand her electoral appeal with less than three weeks to Election Day.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/17/nation-world-news/harris-betting-that-republican-voters-will-help-her-win-against-trump/>
+
+---
+
+## Laureen honored by Japan
+
+date: 2024-10-17, from: Marshal Islands Journal
+
+<p>HILARY HOSIA Laureen Joab Batol became the first Marshallese to receive the prestigious “Order of The Sacred Treasure, Silver Rays” award that is bestowed only by the Emperor of Japan. Japan Ambassador to Marshall Islands Kazunari Tanaka presented the award to Laureen during a conferring ceremony at the Japanese Embassy in Delap last Thursday. Family [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/laureen-honored-by-japan/">Laureen honored by Japan</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/laureen-honored-by-japan/>
+
+---
+
+## US agrees to pay Guam $15M; New consent decree caps CERCLA lawsuit
+
+date: 2024-10-17, from: Pacific Island Times
+
+By Mar-Vic Cagurangan The U.S. government has agreed to pay Guam another $15 million to fully settle a long-running dispute over the... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/us-agrees-to-pay-guam-15m-new-consent-decree-caps-cercla-lawsuit>
+
+---
+
+## International Court gears up for oral arguments on Vanuatu's petition for climate change advisory
+
+date: 2024-10-17, from: Pacific Island Times
+
+By Pacific Island TimesNews Staff Port-Vila  — A record-breaking 100 oral statements, to be followed by 91 written submissions, will be... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/international-court-gears-up-for-oral-arguments-on-vanuatu-s-petition-for-climate-change-advisory>
+
+---
+
+## UH-CMI partner for degree program
+
+date: 2024-10-17, from: Marshal Islands Journal
+
+<p>The College of the Marshall Islands and the University of Hawaiʻi at Mānoa, Thompson School of Social Work and Public Health signed a memorandum of understanding last week that will open opportunities for students to achieve a bachelor’s and master’s degree in social work. Theresa Kreif and Emma Reimers-Kurashige, both social workers with master’s degrees [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/uh-cmi-partner-for-degree-program/">UH-CMI partner for degree program</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/uh-cmi-partner-for-degree-program/>
+
+---
+
+## Reflections on Pacific regionalism
+
+date: 2024-10-17, from: Pacific Island Times
+
+The Pacific Islands Forum and its secretariat are a complex bureaucracy that will take any individual at least a year to understand. It... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/reflections-on-pacific-regionalism>
+
+---
+
+## †Marilyn Korntved Swift
+
+date: 2024-10-17, updated: 2024-10-17, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/obituaries/marilyn-korntved-swift/article_c88ede5c-8c22-11ef-b6a6-8f8bb1db3802.html>
+
+---
+
+## UH law school’s Ulu Lehua Scholars Program celebrates 50 years
+
+date: 2024-10-17, from: University of Hawaiʻi News
+
+<p>Since the establishment of the program, the law school has graduated 445 scholars.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/16/ulu-lehua-scholars-50-years/"><abbr>UH</abbr> law school’s Ulu Lehua Scholars Program celebrates 50 years</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/16/ulu-lehua-scholars-50-years/>
+
+---
+
+## RMI returns to HR Council
+
+date: 2024-10-16, from: Marshal Islands Journal
+
+<p>The Marshall Islands was elected to its second two-year term on the United Nations Human Rights Council during a UN General Assembly vote last week. According to the Reuters news agency, the Asia-Pacific group was the only competitive race for the Human Rights Council. There were five seats available to this group and the RMI [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/rmi-returns-to-hr-council/">RMI returns to HR Council</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/rmi-returns-to-hr-council/>
+
+---
+
+## Discovery Fair at Leeward CC: Bigger and better than ever
+
+date: 2024-10-16, from: University of Hawaiʻi News
+
+<p>The 34th annual Discovery Fair will be held on Saturday, November 2 at the <span aria-label="Puuloa">Pu&#699;uloa</span> (Pearl City) campus.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/16/discovery-fair-at-leeward-cc/">Discovery Fair at Leeward <abbr>CC</abbr>: Bigger and better than ever</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/16/discovery-fair-at-leeward-cc/>
+
+---
+
+## Red Flag Warning for issued for parts of the Big Island; Hawaiian Electric could shut off power
+
+date: 2024-10-16, from: Hawaii Tribune Harold
+
+
+				<p>The National Weather Service has issued a Red Flag Warning for West Hawaii, Ka&#8216;u and parts of Puna.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/16/hawaii-news/red-flag-warning-for-issued-for-parts-of-the-big-island/>
+
+---
+
+## Islands host 1/3 of Earth’s plant species, conservation needed
+
+date: 2024-10-16, from: University of Hawaiʻi News
+
+<p>The study also highlighted the urgent conservation needs of island plants.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/16/islands-host-one-third-earths-plants/">Islands host 1/3 of Earth’s plant species, conservation needed</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/16/islands-host-one-third-earths-plants/>
+
+---
+
+## Image of the Week: Jack the horse
+
+date: 2024-10-16, from: University of Hawaiʻi News
+
+<p>This week’s image is <abbr>UH</abbr> Hilo's Camryn Hilder.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/16/image-of-the-week-jack-the-horse/">Image of the Week: Jack the horse</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/16/image-of-the-week-jack-the-horse/>
 
 ---
 
 ## Free writing workshop this Saturday
 
-date: 2024-10-16, updated: 2024-10-16, from: Marianas Variety
+date: 2024-10-16, updated: 2024-10-17, from: Marianas Variety
 
 REMINDER that for Preptober, Marianas Writers Movement has a free, open-to-the public, writing workshop this Saturday, Oct. 19 from 10 am to 12 noon at the Joeten-Kiyu Public Library, VTC room. We will be working on novel plot and structure. Hoping to get ready for National Novel Writing Month (November)! 
 
 <br> 
 
 <https://www.mvariety.com/lifestyle/free-writing-workshop-this-saturday/article_b1b757fc-8bbb-11ef-a39d-cbe4159963a0.html>
+
+---
+
+## UOG Press seeks ‘unfit’ work for its literary journal
+
+date: 2024-10-16, updated: 2024-10-17, from: Marianas Variety
+
+THE University of Guam Press has begun accepting submissions for the 21st edition of its literary journal, “Storyboard: A Journal of Pacific Imagery.” 
+
+<br> 
+
+<https://www.mvariety.com/news/local/uog-press-seeks-unfit-work-for-its-literary-journal/article_3110cb2e-8b61-11ef-bdd3-bf4a9db697a2.html>
+
+---
+
+## Family, leaders mourn death of former Guam governor
+
+date: 2024-10-16, updated: 2024-10-17, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — Former Gov. Paul McDonald Calvo, the father of former Gov. Eddie Baza Calvo, died at his home early Wednesday surrounded by family. He was 90 years old. Paul Calvo was Guam's third elected governor and served as governor from 1979 to 1982. He was also one of the founders of the Republican Party of Guam. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/family-leaders-mourn-death-of-former-guam-governor/article_483750f4-8bc8-11ef-95e0-0b3c2fd9d6fd.html>
+
+---
+
+## Under fire, Trump contends economic policies won't boost federal debt
+
+date: 2024-10-16, updated: 2024-10-17, from: Marianas Variety
+
+(Reuters) — Republican presidential candidate Donald Trump on Tuesday defended his protectionist trade policies and other fiscal proposals, dismissing suggestions that they could drive up the federal debt, antagonize allies and harm the U.S. economy. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/under-fire-trump-contends-economic-policies-wont-boost-federal-debt/article_a10f7872-8bc9-11ef-a597-5fcaf6b830bc.html>
+
+---
+
+## SSHS, KHS cadets clean up CK cemetery
+
+date: 2024-10-16, updated: 2024-10-17, from: Marianas Variety
+
+ON Saturday, Oct. 12, 2024, the SSHS Manta-Ray Battalion teamed up with the KHS Ayuyu Battalion for the Mt. Carmel cemetery cleanup in Chalan Kanoa. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/sshs-khs-cadets-clean-up-ck-cemetery/article_83da00dc-8bcf-11ef-b230-83de50495b9c.html>
 
 ---
 
@@ -69,7 +497,7 @@ date: 2024-10-16, updated: 2024-10-16, from: Marianas Variety
 
 ---
 
-## China Airlines to resume Taipe-Guam service 
+## China Airlines to resume direct flight service between Taipei and Guam 
 
 date: 2024-10-16, from: Pacific Island Times
 
@@ -384,6 +812,34 @@ date: 2024-10-16, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2024/10/16/nation-world-news/georgia-reports-record-turnout-as-early-voting-begins-in-u-s-battleground-state/>
+
+---
+
+## Young Brothers seeks rate hikes
+
+date: 2024-10-16, from: Hawaii Tribune Harold
+
+
+				<p>The cost to ship most cargo between islands in Hawaii could jump 20% on average, and in instances up to 45%, next summer under a plan by the state&#8217;s regulated interisland tug-and-barge operator.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/16/hawaii-news/young-brothers-seeks-rate-hikes/>
+
+---
+
+## Obituaries for October 16
+
+date: 2024-10-16, from: Hawaii Tribune Harold
+
+
+				<p>Larry Brady, 71, of Kona died June 21 at Kona Community Hospital. No known survivors. Family members may contact Dodo Mortuary, Kona at (808) 322-9592. Arrangements by Dodo Mortuary.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/16/obituaries/obituaries-for-october-16-11/>
 
 ---
 

@@ -1,11 +1,286 @@
 ---
 title: columns
-updated: 2024-10-16 11:03:30
+updated: 2024-10-17 07:32:20
 ---
 
 # columns
 
-(date: 2024-10-16 11:03:30)
+(date: 2024-10-17 07:32:20)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-17, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/08/04/melo.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I keep writing on my hybrid <a href="https://mastodon.social/@daveverse.wordpress.com@daveverse.wordpress.com/113322998712983125">WordPress/Mastodon blog</a> at my kitchen table. This morning I wrote about why I don't believe in the Ya Gotta Believe, a baseball slogan coined by a 1973 Mets pitcher Tug McGraw. It's on-topic because the Mets are in a challenging series with the Dodgers for the National League championship. No matter how it turns out, this is a historic year for the Mets, and no matter how it turns out I won't love the Mets any less if they lose. I think true believers believe in that -- love -- without any expectations, win or lose, or maybe <i>even more</i> if they lose. BTW, I know the rendering of the post isn't complete on Mastodon, and there are errors. I'm working with the people at Automattic at getting this right. I'm glad to see that Mastodon has the flexibility to do that. Anyway, I believe in the things I believe in, not because I "gotta." I don't like the slogan because it doesn't reflect how I feel about the team. My philosophy is respectful (in a way) of the teams the Mets beat, because I understand that their fans don't love them any less because they lost. If anything I think the better slogan for the Mets would be this: <a href="https://www.google.com/search?q=site%3Ascripting.com+Wait+till+next+year!">Wait till next year!</a> <span class="spOldSchoolEmoji">😄</span> 
+
+<br> 
+
+<http://scripting.com/2024/10/17.html#a134443>
+
+---
+
+##  Ooh, a Color Kindle Is Finally Here 
+
+date: 2024-10-17, updated: 2024-10-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/ooh-a-color-kindle-is-finally-here>
+
+---
+
+## HMD delivers Android Digital Detox feature to stop you scrolling your life away
+
+date: 2024-10-17, updated: 2024-10-17, from: Liam Proven's articles at the Register
+
+<h4>Update for Skyline phone brings selective distraction blocking</h4>
+      <p>A couple of months after launch, an OS update has delivered one of the Nokia HMD Skyline&#39;s headline features.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/10/17/hmd_skyline_digital_detox/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-10-17, from: Miguel de Icaza Mastondon feed)
+
+<p>The United States is 100% behind the extermination and ethnic cleansing of Palestine</p><p><a href="https://www.politico.com/news/2024/10/16/biden-israel-arms-aid-00184028" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">politico.com/news/2024/10/16/b</span><span class="invisible">iden-israel-arms-aid-00184028</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113322664963942798>
+
+---
+
+## Trump’s closing argument: full-throated fascism 
+
+date: 2024-10-17, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/trumps-fascism-is-now-in-the-open>
+
+---
+
+## UndefinedBehaviorSanitizer’s unexpected  behavior
+
+date: 2024-10-17, from: Daniel Stenberg Blog
+
+The transition from Ubuntu 22 to 24 for ubuntu-latest on GitHub actions started recently with the associated version bumps of a lot of applications. As expected. One of the version bumps is for clang: it now uses clang 18 by default. clang 18 introduced some changes that turned out to be relevant for me and &#8230; <a href="https://daniel.haxx.se/blog/2024/10/17/undefinedbehaviorsanitizers-unexpected-behavior/" class="more-link">Continue reading <span class="screen-reader-text">UndefinedBehaviorSanitizer&#8217;s unexpected  behavior</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2024/10/17/undefinedbehaviorsanitizers-unexpected-behavior/>
+
+---
+
+## October 16, 2024 
+
+date: 2024-10-17, from: Heather Cox Richardson blog
+
+Two Fox News Channel interviews bracketed today: one this morning with Republican presidential candidate Donald Trump in front of an audience of hand-picked Republican women in Georgia, the other by Democratic presidential candidate Vice President Kamala Harris with host Bret Baier. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/october-16-2024>
+
+---
+
+## Two years of living with a Jeep Wrangler
+
+date: 2024-10-17, from: Matt Haughey blog
+
+<p>In 2022, for my 50th birthday I replaced my 20 year-old off road worthy Lexus GX 470 that I&apos;d been building since the start of the pandemic with a brand new Jeep Wrangler Rubicon 4xe. This is a recap of the last two years of American car ownership</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/two-years-of-living-with-a-jeep-wrangler/>
+
+---
+
+##  A Bonkers Japanese Skateboarding Show 
+
+date: 2024-10-17, updated: 2024-10-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/a-bonkers-japanese-skateboarding-show>
+
+---
+
+## The Secretive Dynasty That Controls the Boar’s Head Brand - the New York Times
+
+date: 2024-10-16, updated: 2024-10-16, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.nytimes.com/2024/10/13/business/boars-head-owners-listeria-outbreak.html>
+
+---
+
+## [Sponsor] Weather Up
+
+date: 2024-10-16, updated: 2024-10-16, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://apps.apple.com/redeem?ctx=offercodes&id=1196015787&code=GRUBER>
+
+---
+
+## It’s About Time
+
+date: 2024-10-16, from: Dan Rather's Steady
+
+The media is finally reporting on Trump&#8217;s mental decline 
+
+<br> 
+
+<https://steady.substack.com/p/its-about-time>
+
+---
+
+##  Reader favorites from 20 years of the NY Times&#8217; popular Modern Love... 
+
+date: 2024-10-16, updated: 2024-10-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045451-reader-favorites-from-20->
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-10-16, from: Miguel de Icaza Mastondon feed)
+
+<p>The annual Rust/Swift Godot interop selfie!</p><p><span class="h-card" translate="no"><a href="https://mastodon.gamedev.place/@bromeon" class="u-url mention">@<span>bromeon</span></a></span></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113319486413063560>
+
+---
+
+## Election Countdown, 20 Days to Go: Eyes Wide Open as We Near the End.
+
+date: 2024-10-16, from: James Fallows, Substack
+
+What we know, as voting begins. A note for the historical record. 
+
+<br> 
+
+<https://fallows.substack.com/p/election-countdown-20-days-to-go>
+
+---
+
+##  Abortion Bans Have Made Miscarriages More Dangerous 
+
+date: 2024-10-16, updated: 2024-10-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/abortion-bans-have-made-miscarriages-more-dangerous>
+
+---
+
+## Have Republicans Ever Actually Listened to the Lyrics of YMCA?
+
+date: 2024-10-16, updated: 2024-10-16, from: Ron Garret
+
+Yesterday we were treated to the sight of a major party nominee at what was supposed to be a town hall meeting suddenly stop taking questions and just dancing (badly) for the better part of an hour. &nbsp; A mere 20 years ago, well within living memory, less than five seconds of screaming were enough to end Howard Dean's political career.&nbsp; My, how times change.But the truly astonishing thing 
+
+<br> 
+
+<https://blog.rongarret.info/2024/10/have-republicans-ever-actually-listened.html>
+
+---
+
+##  Jimmy Carter cast his mail-in ballot for Kamala Harris today, two months... 
+
+date: 2024-10-16, updated: 2024-10-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045463-jimmy-carter-cast-his-mai>
+
+---
+
+##  Hearing Things is a new site featuring independent music journalism. It was... 
+
+date: 2024-10-16, updated: 2024-10-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045460-hearing-things-is-a-new>
+
+---
+
+##  LCD Soundsystem x Miles Davis 
+
+date: 2024-10-16, updated: 2024-10-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/lcd-soundsystem-x-miles-davis>
+
+---
+
+## Why I Lugged My 27-Pound Toddler to a Rocket Launch
+
+date: 2024-10-16, from: Wait but why blog
+
+<p>So heavy but so worth it</p>
+<p>The post <a href="https://waitbutwhy.com/2024/10/spacex-toddler.html">Why I Lugged My 27-Pound Toddler to a Rocket Launch</a> appeared first on <a href="https://waitbutwhy.com">Wait But Why</a>.</p>
+ 
+
+<br> 
+
+<https://waitbutwhy.com/2024/10/spacex-toddler.html>
+
+---
+
+## October 15, 2024
+
+date: 2024-10-16, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/150319804/698fc87f6c170324488a678855ac30c8.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/150319804/698fc87f6c170324488a678855ac30c8.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/october-15-2024-1b8>
+
+---
+
+##  Ugh, these undecided hobbits! &#8220;Both Galadriel and Sauron say the other is... 
+
+date: 2024-10-16, updated: 2024-10-16, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045458-ugh-these-undecided-hobbi>
 
 ---
 
@@ -123,11 +398,11 @@ date: 2024-10-16, updated: 2024-10-16, from: Bruce Schneier blog
 
 ---
 
-## Open-sourcing of WinAmp goes badly as owners delete entire repo
+## Opening up the WinAmp source to all goes badly as owners delete entire repo
 
 date: 2024-10-16, updated: 2024-10-16, from: Liam Proven's articles at the Register
 
-<h4>As badly as the later development of WinAmp itself, really</h4>
+<h4>As badly as the later development of the player itself, really</h4>
       <p>The owners of WinAmp have just deleted their entire repo one month after uploading the source code to GitHub. Lots of source code, and quite possibly, not all of it theirs.</p> 
 
 <br> 

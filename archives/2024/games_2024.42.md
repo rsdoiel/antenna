@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2024-10-16 11:03:33
+updated: 2024-10-17 07:32:20
 ---
 
 # games
 
-(date: 2024-10-16 11:03:33)
+(date: 2024-10-17 07:32:20)
+
+---
+
+## The Halloween Countdown: 31 days of horror to watch
+
+date: 2024-10-17, updated: 2024-10-17, from: Polygon Website
+
+Do you feel that? That chill in the air, that tingling sensation at the back of your neck? It can only mean one thing. That’s right: Halloween season is once again upon us! Here at Polygon, we love horror. We cover it all year round, whether it’s ranking the scariest new releases of the year [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream>
+
+---
+
+## Smile 2 is smarter, scarier, and much better than the first movie
+
+date: 2024-10-17, updated: 2024-10-16, from: Polygon Website
+
+The original Smile felt like a miracle when it was released in 2022: a well-crafted, decidedly solid horror movie plucked from the obscure hell of direct-to-streaming release and turned into a genuine box-office hit. But for all its commercial success, Smile could never escape the fact that it started life as an excellent short film [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/466687/smile-2-review-best-horror-movies-2024>
+
+---
+
+## Super Mario Party Jamboree ends the series’ Switch run on a high note
+
+date: 2024-10-17, updated: 2024-10-16, from: Polygon Website
+
+Mario Party tends to elicit a range of emotions. Some who have been raised on its particular brand of Star-grabbing, minigame-fueled chaos love the randomness and friction — the feeling that, at any point, a comical series of errors can send you from first to last place or vice versa. Others find it maddening. If [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/466520/super-mario-party-jamboree-review-nintendo-switch>
+
+---
+
+## ‘Magnetic Study’ Minun Timed Research and event guide in Pokémon Go
+
+date: 2024-10-17, updated: 2024-10-17, from: Polygon Website
+
+“Magnetic Study” is an electric-type focused event taking place in the “Max Out” season of Pokémon Go. Running Oct. 15-17, each day of the event has a unique bonus to take advantage of, as well as Timed Research focused around one of three Pokémon: Magnemite, Plusle, and Minun. These Pokémon can also be caught throughout [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/465770/magnetic-study-plusle-minun-magnemite-timed-research-event>
+
+---
+
+## When do Astro Bot’s speedrun DLC levels go live?
+
+date: 2024-10-17, updated: 2024-10-17, from: Polygon Website
+
+A series of free speedrun levels DLC are coming to Astro Bot across Oct. and Nov. 2024. Each week for five weeks, a new speedrun level will be added to the game, complete with online leaderboards and two additional special bots to find, adding 10 to your overall roster. This page explains the Astro Bot [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/astro-bot-guides/466172/speedrun-dlc-levels-update-time-schedule>
+
+---
+
+## Is there romance in Metaphor: ReFantazio?
+
+date: 2024-10-16, updated: 2024-10-16, from: Polygon Website
+
+Romance has become a staple in the Persona series, but Metaphor: ReFantazio takes things in a bit of a different direction. This Metaphor: ReFantazio guide covers everything you need to know about romance in the game, and why the question as to whether or not you can romance Followers is more complex than just “yes” [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/metaphor-refantazio-guides/466514/romance-eupha-how-to>
+
+---
+
+## The Crimson Diamond and other narrative gems are cheaper for a limited time at GOG
+
+date: 2024-10-16, updated: 2024-10-16, from: Polygon Website
+
+Narrative adventure titles are getting the spotlight they deserve at GOG, where you can save on both new and old entries in the genre. We love this year’s The Crimson Diamond for its modern retreading of classic titles (even if its text parser interface is occasionally awkward). If you’d like to try your hand at [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/sales-guide/466289/point-click-myst-narrative-adventure-games-deal-gog>
+
+---
+
+## What is the level cap and max Item Power in Diablo 4?
+
+date: 2024-10-16, updated: 2024-10-16, from: Polygon Website
+
+Like all great RPGs, reaching the level cap and Item Power max in Diablo 4 is the pinnacle endgame goal everyone chases. How can you make your character as strong as they can possibly be? You hit the max level, of course! While the idea of max level used to be very complex in Diablo [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/diablo-4-guides/23753834/level-cap-item-power-breakpoint>
+
+---
+
+## Where to find all ghosts in GTA Online
+
+date: 2024-10-16, updated: 2024-10-16, from: Polygon Website
+
+Ghosts have appeared around Los Santos in GTA Online with this week’s Halloween-themed update. The in-universe show, Ghosts Exposed, is back and paying for photos of the apparitions. Our GTA Online Ghosts Exposed guide will tell where — and, just as importantly, when — you can find all 10 ghosts. How to start the Ghosts [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gta-online-guides/466073/ghost-locations-where-to-find-exposed>
+
+---
+
+## Sci-fi anime cult classic Planetes is finally streaming in America
+
+date: 2024-10-16, updated: 2024-10-16, from: Polygon Website
+
+For anime fans of a certain age, Planetes is one of the holy grails of sci-fi animation. Produced in 2003 by Sunrise (Cowboy Bebop, Mobile Suit Gundam), directed by Gorō Taniguchi (Code Geass: Lelouch of the Rebellion), and based on the manga of the same name by Makoto Yukimura (Vinland Saga), the 26-episode series about [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/anime/466462/planetes-anime-crunchyroll-streaming-bluray-release-date>
 
 ---
 
@@ -126,30 +246,6 @@ As genre enthusiasts continue to heal from the proliferation of the label “ele
 <br> 
 
 <https://www.polygon.com/trailer/466053/a24-legend-of-ochi-trailer>
-
----
-
-## ‘Magnetic Study’ Magnemite Timed Research and event guide in Pokémon Go
-
-date: 2024-10-16, updated: 2024-10-16, from: Polygon Website
-
-“Magnetic Study” is an electric-type focused event taking place in the “Max Out” season of Pokémon Go. Running Oct. 15-17, each day of the event has a unique bonus to take advantage of, as well as Timed Research focused around one of three Pokémon: Magnemite, Plusle, and Minun. These Pokémon can also be caught throughout [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/pokemon-go-guide/465770/magnetic-study-plusle-minun-magnemite-timed-research-event>
-
----
-
-## The Halloween Countdown: 31 days of horror to watch
-
-date: 2024-10-16, updated: 2024-10-16, from: Polygon Website
-
-Do you feel that? That chill in the air, that tingling sensation at the back of your neck? It can only mean one thing. That’s right: Halloween season is once again upon us! Here at Polygon, we love horror. We cover it all year round, whether it’s ranking the scariest new releases of the year [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream>
 
 ---
 

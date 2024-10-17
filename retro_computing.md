@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2024-10-16 11:03:38
+updated: 2024-10-17 07:32:21
 ---
 
 # retro computing
 
-(date: 2024-10-16 11:03:38)
+(date: 2024-10-17 07:32:21)
+
+---
+
+## T/Maker: Tiny Software Company Takes on the Giants (Interview)
+
+date: 2024-10-16, from: Computer ads from the Past
+
+An interesting look at a company with less than 20 employees playing with the big boys 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/tmaker-tiny-software-company-takes>
 
 ---
 

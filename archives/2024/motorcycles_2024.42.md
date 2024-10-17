@@ -1,11 +1,59 @@
 ---
 title: motorcycles
-updated: 2024-10-16 11:03:37
+updated: 2024-10-17 07:32:21
 ---
 
 # motorcycles
 
-(date: 2024-10-16 11:03:37)
+(date: 2024-10-17 07:32:21)
+
+---
+
+## This Guy Makes A Solid Point About The Kawasaki Ninja E-1
+
+date: 2024-10-17, from: Ride Apart, Electric Motorcycle News
+
+As Kawasaki's out here celebrating the 40th anniversary of the Ninja, is this really the future? 
+
+<br> 
+
+<https://www.rideapart.com/news/737695/kawasaki-ninja-e1-video-perspective/>
+
+---
+
+## Anyone Who Buys This Stupidly Expensive Electric Scrambler Deserves What They Get
+
+date: 2024-10-17, from: Ride Apart, Electric Motorcycle News
+
+I don't know who I blame more, the company for making it or the customer for buying it. 
+
+<br> 
+
+<https://www.rideapart.com/news/737679/heritage-spirit-scrambler-price-specs/>
+
+---
+
+## Royal Enfield Teases New EV Motorcycle, To Drop On EICMA Eve
+
+date: 2024-10-17, from: Ride Apart, Electric Motorcycle News
+
+Here's what everyone thinks it is, and why. 
+
+<br> 
+
+<https://www.rideapart.com/news/737690/royal-enfield-electric-motorcycle-teaser/>
+
+---
+
+## Buy This House and Get an Insane Motocross Track, but There’s a Catch
+
+date: 2024-10-17, from: Ride Apart, Electric Motorcycle News
+
+Funny, I never realized how much I wanted to live in Oregon. 
+
+<br> 
+
+<https://www.rideapart.com/news/737697/property-sale-comes-with-motocross-track/>
 
 ---
 

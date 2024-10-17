@@ -1,11 +1,186 @@
 ---
 title: journalism
-updated: 2024-10-16 11:03:34
+updated: 2024-10-17 07:32:20
 ---
 
 # journalism
 
-(date: 2024-10-16 11:03:34)
+(date: 2024-10-17 07:32:20)
+
+---
+
+## Annual ‘Sex Week’ promotes sexual health, consent
+
+date: 2024-10-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The ‘Sexploration’ and ‘Come As You Are’ events featured interactive games. </p>
+<p>The post <a href="https://dailytrojan.com/2024/10/17/annual-sex-week-promotes-sexual-health-consent/">Annual ‘Sex Week’ promotes sexual health, consent</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/17/annual-sex-week-promotes-sexual-health-consent/>
+
+---
+
+## Classifieds – October 17, 2024
+
+date: 2024-10-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/17/classifieds-october-17-2024/">Classifieds &#8211; October 17, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/17/classifieds-october-17-2024/>
+
+---
+
+## Art exhibit preview: Fall installments focus on themes including history, society
+
+date: 2024-10-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+As the leaves begin to blanket the ground, a change of scenery presents Los Angeles in new ways.
+This fall also brings a change of setting inside LA’s museums, with fine art from avant-garde designs to reimagined portrayals of light promising to transport visitors through history and space with fresh eyes. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/17/art-exhibit-preview-fall-installments-focus-on-themes-including-history-society/>
+
+---
+
+## The looming horrors of choice for anti-war voters
+
+date: 2024-10-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>As Nov. 5 approaches, anti-war voters must confront their ongoing moral conflicts</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/17/the-looming-horrors-of-choice-for-anti-war-voters/">The looming horrors of choice for anti-war voters</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/17/the-looming-horrors-of-choice-for-anti-war-voters/>
+
+---
+
+## Student Health shares mid-term wellness advice
+
+date: 2024-10-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Self-care practices can help students manage stress during midsemester exams.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/17/student-health-shares-mid-term-wellness-advice/">Student Health shares mid-term wellness advice</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/17/student-health-shares-mid-term-wellness-advice/>
+
+---
+
+## Alum’s biographical drama qualifies for Academy Awards
+
+date: 2024-10-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Robin Wang’s short, “Neither Donkey Nor Horse,” earned a Sloan Foundation grant.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/17/neither-donkey-nor-horse/">Alum’s biographical drama qualifies for Academy Awards</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/17/neither-donkey-nor-horse/>
+
+---
+
+## Happy Hour hits hard at La Barca
+
+date: 2024-10-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Endless combinations of $5 margaritas make for a lively weekend celebration.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/17/happy-hour-hits-hard-at-la-barca/">Happy Hour hits hard at La Barca</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/17/happy-hour-hits-hard-at-la-barca/>
+
+---
+
+## USC celebrates 30 years of Leavey Library
+
+date: 2024-10-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC Students for Justice in Palestine chanted during Carol Folt’s event speech.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/17/usc-celebrates-30-years-of-leavey-library/">USC celebrates 30 years of Leavey Library</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/17/usc-celebrates-30-years-of-leavey-library/>
+
+---
+
+## The blonde vs. brunette debate is not inclusive
+
+date: 2024-10-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>People of color have suffered under constant pressure of Eurocentric beauty standards.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/17/the-blonde-vs-brunette-debate-is-not-inclusive/">The blonde vs. brunette debate is not inclusive</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/17/the-blonde-vs-brunette-debate-is-not-inclusive/>
+
+---
+
+## UPTE-CWA 9119 to vote on strike Oct. 21 after ‘insufficient’ UC bargaining
+
+date: 2024-10-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+The University Professional and Technical Employees-Communications Workers of America 9119 will conduct a strike authorization vote Oct. 21 in response to alleged unfair labor practices by the UC. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/16/upte-cwa-9119-to-vote-on-strike-oct-21-after-insufficient-uc-bargaining/>
+
+---
+
+## Opinion: Amicable relationships with dogs provide emotional, health benefits
+
+date: 2024-10-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 16 at 4:11 p.m.</em>
+Now that the dog days of summer have come to an end, I am missing my puppy more than ever. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/16/opinion-amicable-relationships-with-dogs-provide-emotional-health-benefits/>
+
+---
+
+## CSUN food options are lacking inclusivity
+
+date: 2024-10-16, from: The Sundail (CSUN Student Newspaper)
+
+Attending university can be full of opportunities: self-discovery, new friends and career paths. One thing that students would not expect to be missing is a decent meal plan. As more... 
+
+<br> 
+
+<https://sundial.csun.edu/186272/opinions/csun-food-options-are-lacking-inclusivity/>
+
+---
+
+## Sumeet Anand Pandey brings Dhrupad music, Indian traditions to UCLA
+
+date: 2024-10-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+The rich history of Dhrupad music is coming to UCLA this fall, starting with a performance this weekend.
+Traditional Dhrupad vocalist Sumeet Anand Pandey will perform at UCLA&#8217;s Lani Hall on Sunday for his first concert in the United States. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/16/sumeet-anand-pandey-brings-dhrupad-music-indian-traditions-to-ucla/>
 
 ---
 
@@ -21,12 +196,12 @@ The days of signing up for a subscription in one click online, then spending an 
 
 ---
 
-## COC shines a light on the subject of student suicide prevention.
+## COC shines a light on the subject of student suicide prevention
 
 date: 2024-10-16, from: The Canyon News (COC Student Newspaper)
 
 <p>You see before you an endless sea of empty chairs. They represent&#8230;</p>
-<p>The post <a href="https://canyonsnews.com/coc-shines-a-light-on-the-subject-of-student-suicide-prevention/">COC shines a light on the subject of student suicide prevention.</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+<p>The post <a href="https://canyonsnews.com/coc-shines-a-light-on-the-subject-of-student-suicide-prevention/">COC shines a light on the subject of student suicide prevention</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
  
 
 <br> 

@@ -1,11 +1,371 @@
 ---
 title: going electric
-updated: 2024-10-16 11:03:44
+updated: 2024-10-17 07:32:21
 ---
 
 # going electric
 
-(date: 2024-10-16 11:03:44)
+(date: 2024-10-17 07:32:21)
+
+---
+
+## Here’s why Lucid’s (LCID) stock is crashing today
+
+date: 2024-10-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Lucids-stock-offering-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><span style="margin: 0px; padding: 0px;"><a href="https://electrek.co/guides/lucid-motors/" target="_blank" rel="noopener">Lucid Motors</a> (LCID) stock was down as much as 20% during Thursday’s pre-market after the company announced plans to sell over 262 million shares. </span>The new stock offering is causing share prices to slide ahead of Lucid’s first electric SUV, the Gravity, which will launch later this year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-motors" data-layer-viewtype="unknown" data-post-id="384694" href="https://electrek.co/2024/10/17/why-lucids-lcid-stock-crashing-today/#more-384694" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/17/why-lucids-lcid-stock-crashing-today/>
+
+---
+
+## Tesla Wants To Flood The Streets With Robotaxis. A Federal 'Cap' Blocks The Way
+
+date: 2024-10-17, from: Inside EVs News
+
+Unless something changes, Tesla may only be able to produce 2,500 Robotaxis annually under current FMVSS exemption rules. 
+
+<br> 
+
+<https://insideevs.com/news/737645/tesla-robotaxi-nhtsa-2500-avs/>
+
+---
+
+## The Ferrari F80’s Hybrid System Is An Engineering Marvel
+
+date: 2024-10-17, from: Inside EVs News
+
+Ferrari’s new flagship supercar has a 48-volt electrical system–but no dedicated battery for it. 
+
+<br> 
+
+<https://insideevs.com/news/737773/ferrari-f80-hybrid-system-specs/>
+
+---
+
+## JackRabbit XG review: Testing the bigger and bolder little e-bike
+
+date: 2024-10-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Jackrabbit-XG-header.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://bit.ly/JackRabbit-Ebikes">JackRabbit XG</a> is basically the stronger, bigger brother of the famous little JackRabbit micro e-bike, and I had the chance to test one out to see how well a tiny little EV could work for the average commuter. As it turns out, little is big these days!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="383566" href="https://electrek.co/2024/10/17/jackrabbit-xg-review-testing-the-bigger-and-bolder-little-e-bike/#more-383566" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/17/jackrabbit-xg-review-testing-the-bigger-and-bolder-little-e-bike/>
+
+---
+
+## Elon Musk elevates his chief of staff who was in hot water at Tesla amid leadership shake-up
+
+date: 2024-10-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/07/Omead-Afshar-with-Elon-Musk-at-Tesla-Cyber-Rodeo.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Elon Musk has elevated Omead Afshar, who worked in his office in what many saw as a “chief of staff” position,  to a top executive role at Tesla after the young engineer was reportedly in hot water at the automaker. </p>
+
+
+
+<p>This appears to be part of a broader leadership shake-up at Tesla.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="384689" href="https://electrek.co/2024/10/17/tesla-leadership-shake-up-elon-musk-elevates-chief-of-staff-who-was-hot-water/#more-384689" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/17/tesla-leadership-shake-up-elon-musk-elevates-chief-of-staff-who-was-hot-water/>
+
+---
+
+## Are electric boats going mainstream? X Shore lands its biggest order ever
+
+date: 2024-10-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/07/x-shore-header-electric-boats-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="http://xshore.com">X Shore</a>, a leading Swedish electric boat maker, has just announced its largest single sale yet. The company is preparing to fulfill an order of 32 electric boats signed with <a href="https://www.m-yachts.com/services">M Yachts</a>, a yacht management service.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-boats,x-shore" data-layer-viewtype="unknown" data-post-id="384693" href="https://electrek.co/2024/10/17/are-electric-boats-going-mainstream-x-shore-lands-its-biggest-order-ever/#more-384693" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/17/are-electric-boats-going-mainstream-x-shore-lands-its-biggest-order-ever/>
+
+---
+
+## Stellantis Recalls 21,000 PHEVs For Brake Pedal That May Collapse During Braking
+
+date: 2024-10-17, from: Inside EVs News
+
+Globally, over 44,000 Alfa Romeo Tonale and Dodge Hornet plug-in hybrid crossovers are affected. 
+
+<br> 
+
+<https://insideevs.com/news/737760/dodge-hornet-alfa-romeo-tonale-brake-pedal-recall/>
+
+---
+
+## ChargePoint launches an affordable EV charger for fleets
+
+date: 2024-10-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/ChargePoint-affordable-fleet-charger.jpg?quality=82&#038;strip=all&#038;w=1500" /></div><p>ChargePoint (NYSE: <a href="https://www.chargepoint.com/">CHPT</a>) has just rolled out an affordable EV charging solution for fleets aiming to go electric without breaking the bank. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chargepoint,electric-car-fleet,ev-chargers,solar" data-layer-viewtype="unknown" data-post-id="384629" href="https://electrek.co/2024/10/17/chargepoint-launches-an-affordable-ev-charger-for-fleets/#more-384629" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/17/chargepoint-launches-an-affordable-ev-charger-for-fleets/>
+
+---
+
+## Gas lawn equipment is horrible for health – here’s how these cities are fixing it
+
+date: 2024-10-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Greenworks-80V-730-CFM-Cordless-Handheld-Blower-newer-FI.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>A new<a href="https://pirg.org/edfund/resources/interactive-map-of-lawn-mower-and-leaf-blower-policies/"> interactive mapping tool</a> shows how a growing number of US cities and states have passed regulations restricting the use of gas-powered lawn equipment, or incentivizing the use of electric equipment, with big clean air benefits for a comparatively small investment.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="384642" href="https://electrek.co/2024/10/17/gas-lawn-equipment-is-horrible-for-health-heres-how-these-cities-are-fixing-it/#more-384642" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/17/gas-lawn-equipment-is-horrible-for-health-heres-how-these-cities-are-fixing-it/>
+
+---
+
+## Volkswagen’s state-of-the-art EV plant is on the brink of collapse
+
+date: 2024-10-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Volkswagen-Audi-plant.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>People are angry, cars aren’t selling, and now for the first time ever Volkswagen is likely to close one of its factories in Europe – the state-of-the-art Brussels plant that makes the Audi Q8 E-Tron.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="audi,audi-e-tron,audi-q8-e-tron,europe,volkswagen" data-layer-viewtype="unknown" data-post-id="384677" href="https://electrek.co/2024/10/17/volkswagens-state-of-the-art-ev-plant-is-on-the-brink-of-collapse/#more-384677" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/17/volkswagens-state-of-the-art-ev-plant-is-on-the-brink-of-collapse/>
+
+---
+
+## This off-grid solar e-mobility delivery system makes clean water for crisis zones
+
+date: 2024-10-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Beam-Global-BeamWell-05.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>San Diego-based Beam Global’s (Nasdaq: BEEM) new solar-powered <a href="https://beamforall.com/">BeamWell</a> water desalination and e-mobility delivery system provides clean drinking water, electricity, and mobility for crisis zones. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,electric-scooter,solar,solar-power" data-layer-viewtype="unknown" data-post-id="384575" href="https://electrek.co/2024/10/17/off-grid-solar-e-mobility-delivery-system-makes-clean-water-in-crisis-zones/#more-384575" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/17/off-grid-solar-e-mobility-delivery-system-makes-clean-water-in-crisis-zones/>
+
+---
+
+## This maker of cheap TVs just launched a solid-looking EV
+
+date: 2024-10-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Skywell-‘Q-hatchback-front-3-4_osbzuf.webp?w=1260" /></div><p>A Chinese maker of inexpensive TVs you’ll find at Walmart or on Amazon is launching a new family hatchback EV designed to rival the VW ID.3, Cupra Born, and BYD Dolphin. So far, it looks like the real deal.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,europe,paris-motor-show,skywell" data-layer-viewtype="unknown" data-post-id="384659" href="https://electrek.co/2024/10/17/this-maker-of-cheap-tvs-just-launched-a-solid-looking-ev/#more-384659" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/17/this-maker-of-cheap-tvs-just-launched-a-solid-looking-ev/>
+
+---
+
+## Apple reportedly worked with China’s BYD on batteries for its car project
+
+date: 2024-10-17, from: Electrek Feed
+
+The Apple Car project was canceled before it even saw the light of day, and although Apple has never publicly... 
+
+<br> 
+
+<https://9to5mac.com/2024/10/16/apple-byd-batteries-for-its-car/>
+
+---
+
+## This Cheap TV Manufacturer Wants To Sell You A Car
+
+date: 2024-10-16, from: Inside EVs News
+
+And no, it won't cure your diabetes or high blood pressure.  
+
+<br> 
+
+<https://insideevs.com/news/737693/skyworth-q-ev-hatchback-tv-paris/>
+
+---
+
+## Ford is paying dealers up to $22,500 to sell F-150 Lightning models through a new program
+
+date: 2024-10-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Ford-UAW-Discount-2025.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Ford dealers just got a significant new incentive to move <a href="https://electrek.co/guides/ford-f-150-lightning/">F-150 Lighting</a> inventory. Through a new pilot program, Ford will pay dealers up to $22,500 for every F-150 Lightning model restocked from a Retail Replenishment Center.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford,ford-f-150-lightning,ford-f150-lightning" data-layer-viewtype="unknown" data-post-id="384591" href="https://electrek.co/2024/10/16/ford-paying-dealers-22500-unload-f-150-lightning/#more-384591" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/16/ford-paying-dealers-22500-unload-f-150-lightning/>
+
+---
+
+## London’s electric last-mile delivery provider Fin to expand to the US
+
+date: 2024-10-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Fin-electric-last-mile-deliveries.jpg?quality=82&#038;strip=all&#038;w=1300" /></div><p><a href="https://finmile.co/">Sustainable logistics and deliveries provider</a> Fin announced $7 million in seed funding and is expanding its operations to the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,electric-bikes,electric-last-mile-solutions,electric-van,last-mile-delivery-evs,new-york" data-layer-viewtype="unknown" data-post-id="384605" href="https://electrek.co/2024/10/16/london-electric-last-mile-delivery-fin-us/#more-384605" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/16/london-electric-last-mile-delivery-fin-us/>
+
+---
+
+## Ford’s reborn Capri EV now en route to first customers in Europe
+
+date: 2024-10-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Fords-new-Capri-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The legend is back for the first time in nearly four decades. Ford’s new Capri EV is headed to the first customers across Europe. Following the electric Explorer, the new Capri is <a href="https://electrek.co/guides/ford/">Ford’s</a> second EV based on Volkswagen’s MEB platform.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford" data-layer-viewtype="unknown" data-post-id="384563" href="https://electrek.co/2024/10/16/fords-new-capri-ev-now-en-route-first-customers-europe/#more-384563" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/16/fords-new-capri-ev-now-en-route-first-customers-europe/>
+
+---
+
+## GM Ventures invests $10M in Forge Nano’s game-changing EV battery technology
+
+date: 2024-10-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Forge-Nano-GM.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>GM Ventures has invested $10 million in materials science company <a href="https://www.forgenano.com/" target="_blank" rel="noreferrer noopener">Forge Nano</a>, which makes Atomic Armor, an innovative EV battery technology.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dc-fast-charging,ev-batteries,general-motors,gm,solar,lithium-ion-battery,north-carolina" data-layer-viewtype="unknown" data-post-id="384530" href="https://electrek.co/2024/10/16/gm-ventures-invests-10m-in-forge-nanos-game-changing-ev-battery-technology/#more-384530" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/16/gm-ventures-invests-10m-in-forge-nanos-game-changing-ev-battery-technology/>
+
+---
+
+## Nearly 80% Of New EVs Are Leased: Dealer Data
+
+date: 2024-10-16, from: Inside EVs News
+
+Tax credit rules heavily incentivize leasing for many models, leading to absurdly high leasing rates for EVs sold by traditional brands. 
+
+<br> 
+
+<https://insideevs.com/news/737672/ev-leasing-edmunds-popularity/>
+
+---
+
+## Hyundai’s supplier is building a new EV parts plant in Slovakia to conquer European market
+
+date: 2024-10-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Hyundai-EV-plant-Slovakia.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai Motor Group’s supplier, <a href="https://electrek.co/guides/hyundai-mobis/">Hyundai Mobis</a>, is investing around $256 million (350 billion won) in building new plants in Slovakia for EV parts. The base will include Hyundai’s first EV power systems production plant in the region, a “key bridgehead for conquering the European electrification market.”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai-mobis,hyundai-motor-group" data-layer-viewtype="unknown" data-post-id="384547" href="https://electrek.co/2024/10/16/hyundai-supplier-build-first-ev-power-systems-plant-slovakia/#more-384547" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/16/hyundai-supplier-build-first-ev-power-systems-plant-slovakia/>
+
+---
+
+## Mercedes-Benz EQE And EQS Will Come With Larger Batteries In 2025
+
+date: 2024-10-16, from: Inside EVs News
+
+The manufacturer announced changes across its U.S. lineup including to the EQE and EQS, as well as the fully electric G-Wagen. 
+
+<br> 
+
+<https://insideevs.com/news/737674/mercedes-eqe-eqs-g580-2025/>
+
+---
+
+## Velotric T1 ST Plus e-bike with $125 in free gear at $1,299, NIU fall sale takes 51% off KQi e-scooters, Anker, Greenworks, more
+
+date: 2024-10-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Velotric-T1-ST-Plus-e-bike.webp?w=1200" /></div><p>For today’s Green Deals we have two different EV sales for e-bike and e-scooter enthusiats, starting with Velotric’s latest which has dropped its <a href="https://9to5toys.com/2024/10/16/velotrics-t1-st-plus-e-bike-with-apple-find-my-drops-to-1299-and-gets-125-in-free-gear-1674-value-more/">T1 ST Plus e-bike to $1,299</a> while also throwing in $125 in free gear. Right beside it is <a href="https://9to5toys.com/2024/10/15/nius-fall-sale-of-kqi-series-e-scooters/">NIU’s fall sale</a> taking 51% off KQi-series e-scooters, with the <a href="https://9to5toys.com/2024/10/15/nius-fall-sale-of-kqi-series-e-scooters/">KQi3 Pro Electric Kick Scooter down at $599</a>. Anker’s <a href="https://9to5toys.com/2024/10/16/ankers-solix-c800-portable-power-station-provides-fall-campsite-support-at-449-reg-599-more-from-499/">SOLIX C800 and C800 Plus </a>Portable Power Stations start from <a href="https://9to5toys.com/2024/10/16/ankers-solix-c800-portable-power-station-provides-fall-campsite-support-at-449-reg-599-more-from-499/">$449</a>, with plenty of great bundle deals available too. We also have two one-day Greenworks discounts on the <a href="https://9to5toys.com/2024/10/16/greenworks-pro-tier-3000-psi-electric-pressure-washer-falls-to-298-for-today-only-save-152-with-bonus-deal/">Pro 3,000 PSI Electric Pressure Washer at $298</a>, with a bonus bundle deal available, while the <a href="https://9to5toys.com/2024/10/16/greenworks-80v-cordless-electric-snow-shovel-at-245/">80V 12-inch Cordless Electric Snow Shovel</a> is down at <a href="https://9to5toys.com/2024/10/16/greenworks-80v-cordless-electric-snow-shovel-at-245/">$245</a>. Plus, all the other hangover Green Deals in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2024/10/14/engwes-l20-2-0-e-bike-with-28-mph-top-speeds-and-68-miles-of-range-falls-to-799-in-autumn-sale-reg-999/">ENGWE e-bike sale</a> or Jackery’s new <a href="https://9to5toys.com/2024/10/15/second-chance-to-grab-jackerys-new-explorer-2000-v2-lifepo4-power-station-at-return-999-prime-day-low-500-off/">Explorer 2000 v2 Portable Power Station</a> returning to its $999 low, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="384509" href="https://electrek.co/2024/10/16/velotric-t1-st-plus-e-bike-niu-fall-sale-anker-greenworks-more/#more-384509" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/16/velotric-t1-st-plus-e-bike-niu-fall-sale-anker-greenworks-more/>
+
+---
+
+## German Automakers Are Really Being Left Behind By Chinese EVs
+
+date: 2024-10-16, from: Inside EVs News
+
+German automakers once controlled 25% of China's market. Five years later, they only have 15% market share. 
+
+<br> 
+
+<https://insideevs.com/news/737670/german-automakers-are-losing-marketshare/>
+
+---
+
+## Famed e-bike company gone bankrupt sells to mystery buyer for $1.2M
+
+date: 2024-10-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/juiced-jetcurrent-pro-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Juiced Bikes, the much-lauded Southern California electric bicycle maker, appears to have been sold at auction for around US $1,225,000. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="384535" href="https://electrek.co/2024/10/16/famed-e-bike-company-gone-bankrupt-sells-to-mystery-buyer-for-1-2m/#more-384535" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/16/famed-e-bike-company-gone-bankrupt-sells-to-mystery-buyer-for-1-2m/>
 
 ---
 
@@ -22,6 +382,22 @@ date: 2024-10-16, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2024/10/16/byd-unveils-new-sealion-7-electric-su-drive-europe-expansion/>
+
+---
+
+## BYD unveils new Sealion 7 electric SUV in Europe to drive rapid expansion plans
+
+date: 2024-10-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/BYD-sealion-7-Europe-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BYD’s new electric mid-size SUV stole the spotlight after making its European debut at the Paris Motor Show this week. <a href="https://electrek.co/guides/byd/">BYD</a> vows the Sealion 7 will extend its reach in Europe as a true challenger to top-selling EVs like Tesla’s Model Y.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="384496" href="https://electrek.co/2024/10/16/byd-unveils-new-sealion-7-electric-suv-drive-europe-expansion/#more-384496" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/16/byd-unveils-new-sealion-7-electric-suv-drive-europe-expansion/>
 
 ---
 

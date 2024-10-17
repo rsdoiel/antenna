@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2024-10-16 11:03:26
+updated: 2024-10-17 07:32:19
 ---
 
 # ham radio
 
-(date: 2024-10-16 11:03:26)
+(date: 2024-10-17 07:32:19)
+
+---
+
+## 80 MHz VFC with prescaler and preaccumulator
+
+date: 2024-10-17, from: EDN Blog
+
+<img width="915" height="582" src="https://www.edn.com/wp-content/uploads/80MHzVFC_Figure1.png?fit=915%2C582" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/80MHzVFC_Figure1.png?w=915 915w, https://www.edn.com/wp-content/uploads/80MHzVFC_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/80MHzVFC_Figure1.png?w=768 768w" sizes="(max-width: 915px) 100vw, 915px" /><p>A low-part-count “Kid Kong” VFC with take-back-half (TBH) diode charge pump and an ACMOS prescaler that can run at 80 MHz.</p>
+<p>The post <a href="https://www.edn.com/80-mhz-vfc-with-prescaler-and-preaccumulator/" data-wpel-link="internal">80 MHz VFC with prescaler and preaccumulator</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/80-mhz-vfc-with-prescaler-and-preaccumulator/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2024-10-16 11:03:26
 
 date: 2024-10-16, from: EDN Blog
 
-<img width="1246" height="701" src="https://www.edn.com/wp-content/uploads/DJI-Mavic-Air.png?fit=1246%2C701" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/DJI-Mavic-Air.png?w=1246 1246w, https://www.edn.com/wp-content/uploads/DJI-Mavic-Air.png?w=300 300w, https://www.edn.com/wp-content/uploads/DJI-Mavic-Air.png?w=768 768w, https://www.edn.com/wp-content/uploads/DJI-Mavic-Air.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/DJI-Mavic-Air.png?w=800 800w" sizes="(max-width: 1246px) 100vw, 1246px" /><p>Got an older drone? You’ll need to spend a bit more coin (or restrict where you fly it) to keep it legal going forward.</p>
+<img width="1246" height="701" src="https://www.edn.com/wp-content/uploads/DJI-Mavic-Air.png?fit=1246%2C701" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/DJI-Mavic-Air.png?w=1246 1246w, https://www.edn.com/wp-content/uploads/DJI-Mavic-Air.png?w=300 300w, https://www.edn.com/wp-content/uploads/DJI-Mavic-Air.png?w=768 768w, https://www.edn.com/wp-content/uploads/DJI-Mavic-Air.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/DJI-Mavic-Air.png?w=800 800w" sizes="(max-width: 1246px) 100vw, 1246px" /><p>Got an older drone? You’ll need to spend a bit more coin (or restrict where you fly it) to keep it legal going forward.</p>
 <p>The post <a href="https://www.edn.com/drone-regulation-and-electronic-augmentation/" data-wpel-link="internal">Drone regulation and electronic augmentation</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

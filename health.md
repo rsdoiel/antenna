@@ -1,11 +1,95 @@
 ---
 title: health
-updated: 2024-10-16 11:03:43
+updated: 2024-10-17 07:32:21
 ---
 
 # health
 
-(date: 2024-10-16 11:03:43)
+(date: 2024-10-17 07:32:21)
+
+---
+
+## Editorial: Antiviral options for emerging and reemerging viral diseases: current therapeutics, novel drug candidates and new approaches
+
+date: 2024-10-17, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1497018>
+
+---
+
+## Isolation and pathogenicity of a highly virulent group III porcine Getah virus in China
+
+date: 2024-10-17, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionGetah virus (GETV) is a multi-host virus found in pigs, horses, and blue foxes. Clinically, GETV can cause fever, diarrhea, and reproductive disorders in pigs, representing significant threats to pig breeding. At present, few studies have examined the pathogenicity of GETV in pigs of different ages.MethodsIn the present study, a new strain, named GETV-QJ, was isolated from clinically ill pigs, and whole genome sequencing analysis was performed. Besides the pathogenicity of piglets and pregnant sows of this strain was further studied.Resultsthe results illustrated that the strain belonged to group III. The strain had 93.6%–96.3% homology with other subtypes, and its homology with the same subtype strain ranged 96.5%–99%. Further studies on the pathogenicity of the virus indicated that this strain caused severe diarrhea, fever, and intestinal and lung damage in 7-day-old piglets, resulting in their death. The piglet survival rate was 0%. In pregnant sows, this strain did not cause fever, death, or abortion, but it induced viremia, which affected the farrowing performance of sows and led to reduced piglet survival.DiscussionIn this study, we isolated a highly virulent group III and comprehensively established a pathogenic model of GETV in piglets and sows, providing a reference and guidance for the prevention and control of this infection. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1494654>
+
+---
+
+## Ningxiang pigderived Enterococcus hirae regulates the inflammatory function and enhances the protection of piglets against ETEC challenge
+
+date: 2024-10-17, from: Frontiers in Cellular and Infection Microbiology
+
+This study investigated the effects of Enterococcus hirae (Eh) derived from Ningxiang pigs on growth performance, diarrhea incidence, and immune responses in ETEC-challenged piglets. The results showed that compared to the CON group, ETEC infection significantly reduced the average daily gain (ADG) and average daily feed intake (ADFI), increased rectal temperature, and resulted in a diarrhea rate of up to 24%. Additionally, ETEC infection significantly increased the spleen index and the expression of inflammatory cytokines in the spleen, serum and intestine, with decreasing serum sIgA and colonic SCFAs of piglets. Compared to the ETEC group, orally Eh significantly increased ADFI in ETEC-infected piglets, reduced the diarrhea rate to 11.53%, reduced the spleen index and the expression of inflammatory cytokines in the spleen, serum and intestine, with decreasing serum sIgA and colonic SCFAs of ETEC-infected piglets. Furthermore, correlation analysis revealed that the levels of SCFAs (particularly acetate) were significantly negatively correlated with the expression levels of inflammatory cytokines in colonic and splenic tissues, suggesting that acetate may be a key metabolite in the anti-inflammatory effects of Eh. These results indicate that Eh can enhance the protection of piglets against ETEC K88 via intestine-acetate-spleen axis, thereby alleviating diarrhea and improving growth performance in piglets. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1476564>
+
+---
+
+## Novel management of pseudomonas biofilm-like structure in a post-pneumonectomy empyema
+
+date: 2024-10-17, from: Frontiers in Cellular and Infection Microbiology
+
+We present a patient with a post-pneumonectomy empyema refractory to surgical debridement and systemic antibiotics. The patient initially presented with a bronchopleural fistula and pneumothorax secondary to tuberculosis (TB) destroyed lung, which required a pneumonectomy with Eloesser flap. Ongoing pleural infection delayed the closure of the Eloesser flap, and thoracoscopic inspection of his chest cavity revealed a green, mucous biofilm-like structure lining the postpneumonectomy pleural cavity. Cultures identified pan-susceptible Pseudomonas aeruginosa. Despite debriding this biofilm-like structure and administering systemic antibiotics, the patient continued to show persistent signs of infection and regrowth of the film. We employed a novel approach to dissolve the biofilm-like structure using intrapleural dornase alfa followed by intrapleural antibiotic washes. After 3 weeks of daily washes, repeat inspection demonstrated the biofilm-like structure had completely resolved. Resolving the pseudomonas biofilm-like structure allowed permanent closure of his chest without further need for systemic antibiotics. At follow up 3 months later, he showed no sequalae. This treatment option can be an important adjunct to improve likelihood of chest closure in patients with post-pneumonectomy empyema that resists standard treatment options due to biofilm formation. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1458652>
+
+---
+
+## Carbapenem-resistant Klebsiella oxytoca transmission linked to preoperative shaving in emergency neurosurgery, tracked by rapid detection via chromogenic medium and whole genome sequencing
+
+date: 2024-10-17, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectivesThis study describes the detection and tracking of emergency neurosurgical cross-transmission infections with carbapenem-resistant Klebsiella oxytoca (CRKO).MethodsWe conducted an epidemiological investigation and a rapid screening of 66 surveillance samples using the chromogenic selective medium. Two CRKO isolates from infected patients and three from the preoperative shaving razors had similar resistance profiles identified by the clinical laboratory.ResultsThe whole genome sequencing (WGS) results identified all isolates as Klebsiella michiganensis (a species in the K. oxytoca complex) with sequence type 29 (ST29) and carrying resistance genes blaKPC-2 and blaOXY-5, as well as IncF plasmids. The pairwise average nucleotide identity values of 5 isolates ranged from 99.993% to 99.999%. Moreover, these isolates displayed a maximum genetic difference of 3 among 5,229 targets in the core genome multilocus sequence typing scheme, and the razors were confirmed as the contamination source. After the implementation of controls and standardized shaving procedures, no new CRKO infections occurred.ConclusionContaminated razors can be sources of neurosurgical site infections with CRKO, and standard shaving procedures need to be established. Chromogenic selective medium can help rapidly identify targeted pathogens, and WGS technologies are effective mean in tracking the transmission source in an epidemic or outbreak investigation. Our findings increase the understanding of microbial transmission in surgery to improve patient care quality. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1464411>
+
+---
+
+## Editorial: The infection and immunity of sexually transmitted disease pathogens
+
+date: 2024-10-17, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1498441>
+
+---
+
+## Global research trends and hotspots on human intestinal fungi and health: a bibliometric visualization study
+
+date: 2024-10-17, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundThis article employs bibliometric methods and visual maps to delineate the research background, collaborative relationships, hotspots, and trends in the study of gut fungi in human diseases and health.MethodsPublications related to human gut fungi were retrieved from the Web of Science Core Collection. VOSviewer, CiteSpace, R software and Microsoft Excel were employed to generate visual representations illustrating the contributions made by countries/regions, authors, organizations, and journals. Employing VOSviewer and CiteSpace, we conducted a comprehensive analysis of the retrieved publications, revealing underlying tendencies, research hotspots, and intricate knowledge networks.ResultsThis study analyzed a total of 3,954 publications. The United States ranks first in the number of published papers and has the highest number of citations and h-index. Mostafa S Elshahed is the most prolific author. The University of California System is the institution that published the most papers. Frontiers In Microbiology is the journal with the largest number of publications. Three frequently co-cited references have experienced a citation burst lasting until 2024.ConclusionAdvancements in sequencing technologies have intensified research into human gut fungi and their health implications, shifting the research focus from gut fungal infections towards microbiome science. Inflammatory bowel diseases and Candida albicans have emerged as pivotal areas of interest in this endeavor. Through this study, we have gained a deeper insight into global trends and frontier hotspots within this field, thereby enhancing our understanding of the intricate relationship between gut fungi and human health. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1460570>
 
 ---
 
