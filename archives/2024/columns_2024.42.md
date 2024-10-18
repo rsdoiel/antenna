@@ -1,11 +1,118 @@
 ---
 title: columns
-updated: 2024-10-17 17:23:43
+updated: 2024-10-18 07:12:37
 ---
 
 # columns
 
-(date: 2024-10-17 17:23:43)
+(date: 2024-10-18 07:12:37)
+
+---
+
+## Justice Department Indicts Tech CEO for Falsifying Security Certifications
+
+date: 2024-10-18, updated: 2024-10-18, from: Bruce Schneier blog
+
+<p>The <i>Wall Street Journal</i> is <a href="https://www.wsj.com/articles/tech-ceo-charged-with-fraud-over-security-reliability-claims-2e77e8a7">reporting</a> that the CEO of a still unnamed company has been indicted for creating a fake auditing company to falsify security certifications in order to win government business.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/10/justice-department-indicts-tech-ceo-for-falsifying-security-certifications.html>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-10-18, from: Miguel de Icaza Mastondon feed)
+
+<p>Are swift/godot people over at Bkuesky?</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113328639640416790>
+
+---
+
+##  Loving that the FTC has adopted a click-to-cancel rule. &#8220;Under the rule,... 
+
+date: 2024-10-18, updated: 2024-10-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045474-loving-that-the-ftc-has>
+
+---
+
+## After Kamala Harris wins …
+
+date: 2024-10-18, from: Robert Reich's blog
+
+The real work begins 
+
+<br> 
+
+<https://robertreich.substack.com/p/even-after-kamala-harris-wins-even>
+
+---
+
+## October 17, 2024 
+
+date: 2024-10-18, from: Heather Cox Richardson blog
+
+In a new rule released yesterday, the Federal Trade Commission requires sellers to make it as easy to cancel a subscription to a gym or a service as it is to sign up for one. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/october-17-2024>
+
+---
+
+## The thoughts we use to think with
+
+date: 2024-10-18, from: Tracy Durnell Blog
+
+In Staying with the Trouble (another book I’ve read more than twice), Donna Haraway writes: The British sociologist Marilyn Strathern … taught me that “it matters what ideas we use to think other ideas (with).” &#8230; It matters what matters we use to think other matters with; it matters what stories we tell to tell other stories [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2024/10/17/the-thoughts-we-use-to-think-with/>
+
+---
+
+## A Comet Hunt
+
+date: 2024-10-18, from: Doc Searls (at Harvard), New Old Blog
+
+Tonight was the first completely clear sky in a while, almost perfect for hunting Comet Tsuchinshan-ATLAS, which for a few more nights will be gracing our evening sky. With a full moon high in the eastern sky, and plenty of light pollution from the town around me, the comet is hard to see. Fortunately, the [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2024/10/17/a-comet-hunt/>
+
+---
+
+## History Extra for October 16, 2024
+
+date: 2024-10-18, from: Heather Cox Richardson blog
+
+The Fox News Channel (FNC) was the brainchild of Australian-born media mogul Rupert Murdoch. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/history-extra-for-october-16-2024>
+
+---
+
+## History Extra for October 15, 2024
+
+date: 2024-10-18, from: Heather Cox Richardson blog
+
+October 15, 2008 saw the second worst percentage drop in the history of the Dow Jones Industrial Average. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/history-extra-for-october-15-2024>
 
 ---
 

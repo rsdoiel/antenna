@@ -1,11 +1,201 @@
 ---
 title: journalism
-updated: 2024-10-17 17:23:44
+updated: 2024-10-18 07:12:38
 ---
 
 # journalism
 
-(date: 2024-10-17 17:23:44)
+(date: 2024-10-18 07:12:38)
+
+---
+
+## ‘It’s not a candy’: Medical staff allege LA County CHS medication-assisted treatment practices are unsafe for patients
+
+date: 2024-10-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+A family medicine physician at Los Angeles County Correctional Health Services found himself in a difficult position last November. Dr. Yang, who asked to be referred to only by his last name out of concerns about retaliation, was troubled by a new CHS policy increasing the use of opiate medications, namely Suboxone, as a treatment for opioid use disorder.&#160;
+The new CHS policy requires that all inmates entering the reception area be screened for opioid use disorder and, if they meet the criteria for it, immediately be prescribed Suboxone. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/18/its-not-a-candy-medical-staff-allege-la-county-chs-medication-assisted-treatment-practices-are-unsafe-for-patients/>
+
+---
+
+## Classifieds – October 18, 2024
+
+date: 2024-10-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/18/classifieds-october-18-2024/">Classifieds &#8211; October 18, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/18/classifieds-october-18-2024/>
+
+---
+
+## New rules force Marshall clubs to open up membership
+
+date: 2024-10-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Students have mixed feelings about ‘general membership’ programs for Marshall clubs.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/18/new-rules-force-marshall-clubs-to-open-up-membership/">New rules force Marshall clubs to open up membership</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/18/new-rules-force-marshall-clubs-to-open-up-membership/>
+
+---
+
+## USC is what you make of it: an account of Armenian advocacy on campus
+
+date: 2024-10-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The international movement for Palestinian liberation remains steadfast.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/18/usc-is-what-you-make-of-an-account-of-armenian-advocacy-on-campus/">USC is what you make of it: an account of Armenian advocacy on campus</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/18/usc-is-what-you-make-of-an-account-of-armenian-advocacy-on-campus/>
+
+---
+
+## Fifty basis points down: what the Fed’s rate cut means
+
+date: 2024-10-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Fed cuts rates to maintain a stable economy, but the market should remain alert.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/18/219320/">Fifty basis points down: what the Fed&#8217;s rate cut means</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/18/219320/>
+
+---
+
+## Palestinian poet releases the stunning ‘Forest of Noise’
+
+date: 2024-10-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Wednesday marked the release of Mosab Abu Toha’s “Forest of Noise.”</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/18/palestinian-poet-releases-the-stunning-forest-of-noise/">Palestinian poet releases the stunning ‘Forest of Noise’</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/18/palestinian-poet-releases-the-stunning-forest-of-noise/>
+
+---
+
+## Wasia Project expands its horizons
+
+date: 2024-10-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The talented musical duo rocked the sold-out Fonda on Wednesday night.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/18/wasia-project-expands-its-horizons/">Wasia Project expands its horizons</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/18/wasia-project-expands-its-horizons/>
+
+---
+
+## Graduate student receives award for cancer advocacy
+
+date: 2024-10-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Kira Sano founded group to connect California youth cancer research advocates.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/18/graduate-student-receives-award-for-cancer-advocacy/">Graduate student receives award for cancer advocacy</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/18/graduate-student-receives-award-for-cancer-advocacy/>
+
+---
+
+## noche de cultura :p
+
+date: 2024-10-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Mariachi, salsa and lowrider cars brought Founder's Park to life Tuesday evening.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/18/noche-de-cultura-p/">noche de cultura :p</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/18/noche-de-cultura-p/>
+
+---
+
+## UCLA administration discusses Time, Place and Manner policies at town hall
+
+date: 2024-10-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+Members of the UCLA administration discussed interim Time, Place and Manner policies and answered written questions during a virtual town hall Oct. 15.
+New TPM policies went into effect on an interim basis Sept. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/17/ucla-administration-discusses-time-place-and-manner-policies-at-town-hall/>
+
+---
+
+## Doug Emhoff rallies support for Kamala Harris in LA ahead of presidential election
+
+date: 2024-10-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 18 at 12:09 a.m.</em>
+Second Gentleman of the United States Douglas Emhoff gave remarks at a Century City campaign reception Oct. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/17/doug-emhoff-rallies-support-for-kamala-harris-in-la-ahead-of-presidential-election/>
+
+---
+
+## Student leaders seek new home for Basic Needs Redistribution Center after eviction notice
+
+date: 2024-10-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 17 at 11:42 p.m.</em>
+The Basic Needs Redistribution Center, which provides free school supplies and other items to students, was slated for eviction from the basement of the Student Activities Center in August. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/17/student-leaders-seek-new-home-for-basic-needs-redistribution-center-after-eviction/>
+
+---
+
+## Concert review: Erotic, euphoric, electrifying – tour’s no ‘Sweat’ for Charli xcx, Troye Sivan
+
+date: 2024-10-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+Charli xcx and Troye Sivan’s joint tour is bringing the heat by serving up dozens of club classics.
+The co-headlining duo played a second sold-out night of their ongoing “Sweat” tour at Inglewood’s Kia Forum on Wednesday. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/17/concert-review-erotic-euphoric-electrifying-tours-no-sweat-for-charli-xcx-troye-sivan/>
+
+---
+
+## UCLA announces new Office of Inclusive Excellence to replace current EDI office
+
+date: 2024-10-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UCLA Office of Equity, Diversity and Inclusion will soon no longer exist.&#160;
+Interim Chancellor Darnell Hunt announced in a Thursday afternoon email that the university will create a new Office of Inclusive Excellence. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/17/ucla-announces-new-office-of-inclusive-excellence-to-replace-current-edi-office/>
 
 ---
 
@@ -120,7 +310,7 @@ date: 2024-10-17, from: The Round Up (Pierce College Student Newspaper)
 
 date: 2024-10-17, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Oct. 17 at 2:39 p.m.</em>
+<em>This post was updated Oct. 18 at 12:04 p.m.</em>
 A flood started at the west end of Portola Plaza near Kerckhoff Hall on Thursday morning after a water line broke. 
 
 <br> 
@@ -283,7 +473,8 @@ date: 2024-10-17, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2024-10-17, from: The Daily Bruin (UCLA Student Newspaper)
 
-The University Professional and Technical Employees-Communications Workers of America 9119 will conduct a strike authorization vote Oct. 21 in response to alleged unfair labor practices by the UC. 
+<em>This post was updated Oct 17 at 11:45 p.m.</em>
+The University Professional and Technical Employees-Communications Workers of America 9119 will conduct a strike authorization vote Oct. 
 
 <br> 
 
@@ -320,8 +511,8 @@ Attending university can be full of opportunities: self-discovery, new friends a
 
 date: 2024-10-16, from: The Daily Bruin (UCLA Student Newspaper)
 
-The rich history of Dhrupad music is coming to UCLA this fall, starting with a performance this weekend.
-Traditional Dhrupad vocalist Sumeet Anand Pandey will perform at UCLA&#8217;s Lani Hall on Sunday for his first concert in the United States. 
+<em>This post was updated Oct. 17 at 7:49 p.m.</em>
+The rich history of Dhrupad music is coming to UCLA this fall, starting with a performance this weekend. 
 
 <br> 
 

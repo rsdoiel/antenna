@@ -1,11 +1,47 @@
 ---
 title: games
-updated: 2024-10-17 17:23:43
+updated: 2024-10-18 07:12:38
 ---
 
 # games
 
-(date: 2024-10-17 17:23:43)
+(date: 2024-10-18 07:12:38)
+
+---
+
+## Kurt Vonnegut’s lost board game finally published
+
+date: 2024-10-18, updated: 2024-10-17, from: Polygon Website
+
+Fans of literature most likely know Kurt Vonnegut for the novel Slaughterhouse-Five. The staunchly anti-war book first resonated with readers during the Vietnam War era, later becoming a staple in high school curricula the world over. When Vonnegut died in 2007 at the age of 84, he was widely recognized as one of the greatest [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/board-games/467103/kurt-vonnegut-ghq-lost-board-game-publisher-interview>
+
+---
+
+## FMV horror game Tenebris Somnia is a nightmare come true
+
+date: 2024-10-18, updated: 2024-10-18, from: Polygon Website
+
+There&#8217;ve been a ton of great horror games released recently, between major titles like the Silent Hill 2 remake, the indie survival horror game Hollowbody, and horror-themed DLC like Diablo 4: Vessel of Hatred. One title fans of survival horror games should pay attention to among all these big releases is Tenebris Somnia, an upcoming [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/467031/tenebris-somnia-survival-horror-game-demo-impressions>
+
+---
+
+## Destiny 2 Iron Banner schedule dates for 2024
+
+date: 2024-10-18, updated: 2024-10-18, from: Polygon Website
+
+Iron Banner — a tentpole of Destiny 2 PvP — is an event that appears regularly throughout the year, and a useful source of Pinnacle gear for those looking to boost their Power level. In this Destiny 2 guide, we’ll tell you everything we know about the confirmed Iron Banner schedule, and what to expect [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/23971548/iron-banner-schedule-dates-when-next>
 
 ---
 

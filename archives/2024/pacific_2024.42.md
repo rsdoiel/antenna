@@ -1,11 +1,650 @@
 ---
 title: pacific
-updated: 2024-10-17 17:23:42
+updated: 2024-10-18 07:12:36
 ---
 
 # pacific
 
-(date: 2024-10-17 17:23:42)
+(date: 2024-10-18 07:12:36)
+
+---
+
+## What we know about One Direction singer Liam Payne’s last hours
+
+date: 2024-10-18, from: Hawaii Tribune Harold
+
+
+				<p>BUENOS AIRES &#8212; Singer Liam Payne, who shot to fame as a member of boy band One Direction in the early 2010s, died on Wednesday after falling from the third floor of his hotel in Buenos Aires, Argentina.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/18/nation-world-news/what-we-know-about-one-direction-singer-liam-paynes-last-hours/>
+
+---
+
+## Biden in Germany for talks on Ukraine, Middle East
+
+date: 2024-10-18, from: Hawaii Tribune Harold
+
+
+				<p>BERLIN &#8212; U.S. President Joe Biden arrived in Berlin on Thursday for a short visit to discuss Russia&#8217;s invasion of Ukraine with the leaders of Germany, France and Britain as Kyiv urges its Western allies to take immediate action to end the fighting. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/18/nation-world-news/biden-in-germany-for-talks-on-ukraine-middle-east/>
+
+---
+
+## Obituaries for October 18
+
+date: 2024-10-18, from: Hawaii Tribune Harold
+
+
+				<p>Dolores Malinao Cainglit, 88, of Hilo died Oct. 4 at home. Born in Honaunau, she was a retired waitress, cashier and hostess at Ken&#8217;s House of Pancakes, formerly worked at the Hilo Hawaiian Hotel, the former Hilo Hotel, the former Standard Drugs and the former Sky Chef, a lector at St. Joseph Catholic Church and a member of its choir. Visitation 8:30-9:30 a.m. Thursday (Oct. 24) at St. Joseph Catholic Church. Memorial Mass at 9:30 a.m. Burial to follow at Alae Cemetery. Casual attire. Survived by children, Ralph &#8220;Augie&#8221; (Joyce) Taroma of Hilo, Lolita &#8220;Lita&#8221; (Steven) Kubojiri of Hilo, Gloria (Frank) Maynard of Oxford, N.Y., Priscilla (Joseph) Schweiger of Bremerton, Wash., and Brenda (Jerry) Bidal of Olympia, Wash.; sister, Rosita Padayao of Mililani, Oahu; 10 grandchildren, 12 great-grandchildren and two great-great-grandchildren; nieces and nephews. Arrangements by Dodo Mortuary.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/18/obituaries/obituaries-for-october-18-11/>
+
+---
+
+## Global coral bleaching event expands, now the largest on record
+
+date: 2024-10-18, from: Hawaii Tribune Harold
+
+
+				<p>The mass bleaching of coral reefs around the world since February 2023 is now the most extensive on record, the National Oceanic and Atmospheric Administration (NOAA) told Reuters this week.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/18/nation-world-news/global-coral-bleaching-event-expands-now-the-largest-on-record/>
+
+---
+
+## Suspected teen school shooter and his father indicted by Georgia grand jury
+
+date: 2024-10-18, from: Hawaii Tribune Harold
+
+
+				<p>ATLANTA &#8212; A grand jury indicted a 14-year-old alleged shooter and his father who bought him the gun on Thursday in the September slaying of two students and two teachers at a Georgia high school, affirming initial charges brought by prosecutors and adding numerous other criminal counts. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/18/nation-world-news/suspected-teen-school-shooter-and-his-father-indicted-by-georgia-grand-jury/>
+
+---
+
+## Nation and world news in brief for October 18
+
+date: 2024-10-18, from: Hawaii Tribune Harold
+
+
+				<p>Mitzi Gaynor, leading lady &#0010;of movie musicals, is dead at 93</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/18/nation-world-news/nation-and-world-news-in-brief-for-october-18/>
+
+---
+
+## Dump the Electoral College — National candidates should campaign in every state for votes
+
+date: 2024-10-18, from: Hawaii Tribune Harold
+
+
+				<p>Tim Walz is right. So is Donald Trump. The Democratic vice presidential candidate wants to get rid of the antique Electoral College and the Republican ticket leader is going to campaign in dependably Democratic New York, at Madison Square Garden, which is better for democracy, even if it doesn&#8217;t help in the Electoral College math.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/18/opinion/dump-the-electoral-college-national-candidates-should-campaign-in-every-state-for-votes/>
+
+---
+
+## Youth tobacco use drops to 25-year low, CDC survey concludes
+
+date: 2024-10-18, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The rate of youth tobacco use has dropped to its lowest levels in 25 years, new data from the 2024 National Youth Tobacco Survey revealed.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/18/nation-world-news/youth-tobacco-use-drops-to-25-year-low-cdc-survey-concludes/>
+
+---
+
+## It’s getting harder to study fake news
+
+date: 2024-10-18, from: Hawaii Tribune Harold
+
+
+				<p>Researchers who study misinformation are confronting a new problem: public scorn. And it&#8217;s not just in the form of online trolling. These scientists are losing funding, watching their research centers close down, and getting barraged with subpoenas.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/18/opinion/its-getting-harder-to-study-fake-news/>
+
+---
+
+## Families of fentanyl victims ask US for China tariffs over opioid crisis
+
+date: 2024-10-18, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A group of families whose loved ones died of fentanyl overdoses filed a petition with the office of U.S. Trade Representative Katherine Tai on Thursday, requesting a probe into China&#8217;s alleged role in fueling the U.S. synthetic opioid crisis. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/18/nation-world-news/families-of-fentanyl-victims-ask-us-for-china-tariffs-over-opioid-crisis/>
+
+---
+
+## HI-PAL, rodeo association team up for event
+
+date: 2024-10-18, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Police Activities League (HI-PAL) would like to congratulate all the participants in the first Hawaii Keiki Rodeo Association event of the season.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/18/community/hi-pal-rodeo-association-team-up-for-event/>
+
+---
+
+## Luncheon to discuss ways to reduce building permit delays
+
+date: 2024-10-18, from: Hawaii Tribune Harold
+
+
+				<p>Learn about low-cost ways to speed up permitting and ease Hawaii&#8217;s housing crisis during a luncheon presentation in Hilo on Wednesday, Oct. 30, featuring public policy experts from the Grassroot Institute of Hawaii.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/18/community/luncheon-to-discuss-ways-to-reduce-building-permit-delays/>
+
+---
+
+## Po & the 4Fathers concert set for Sunday in Waimea
+
+date: 2024-10-18, from: Hawaii Tribune Harold
+
+
+				<p>WAIMEA &#8212; The Kahilu Theatre on Sunday, Oct. 20, at 2 p.m. will present Po &#38;the 4Fathers, a modern maoli music band offering a unique and powerful musical experience.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/18/community/po-the-4fathers-concert-set-for-sunday-in-waimea/>
+
+---
+
+## Ku‘ikahi recognition dinner next month
+
+date: 2024-10-18, from: Hawaii Tribune Harold
+
+
+				<p>Ku&#8216;ikahi Mediation Center of Hilo &#8212; together with the Hawaii County Bar Association (HCBA) &#8212; invites the public to its 19th Annual Recognition Dinner and Auction on Sunday, Nov. 17, at the Hilo Hawaiian Hotel&#8217;s Moku&#8216;ola Ballroom.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/18/community/kuikahi-recognition-dinner-next-month/>
+
+---
+
+## Surprise battlefield encounter led to Hamas leader’s death, Israelis say
+
+date: 2024-10-18, from: Hawaii Tribune Harold
+
+
+				<p>It was a routine patrol for a unit of Israeli soldiers in the southern Gaza Strip. Then a firefight erupted and the Israelis, backed by drones, destroyed part of a building where several militants had taken cover, Israeli officials said. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/18/nation-world-news/surprise-battlefield-encounter-led-to-hamas-leaders-death-israelis-say/>
+
+---
+
+## Forecasters predict wetter-than-average rainy season
+
+date: 2024-10-18, from: Hawaii Tribune Harold
+
+
+				<p>A wetter-than-usual rainy season is being forecast by the federal government&#8217;s weather watchers.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/18/hawaii-news/forecasters-predict-wetter-than-average-rainy-season-3/>
+
+---
+
+## A look at the ballot questions: Voters will decide fate of proposed amendments to County Charter, state Constitution
+
+date: 2024-10-18, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County voters are starting to receive their mail-in ballots for the Nov. 5 General Election.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/18/hawaii-news/a-look-at-the-ballot-questions-voters-will-decide-fate-of-proposed-amendments-to-county-charter-state-constitution/>
+
+---
+
+## Yellen warns sweeping tariffs would ignite inflation
+
+date: 2024-10-18, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Treasury Secretary Janet Yellen warned in a speech Thursday that the economic policies being proposed by former President Donald Trump would fuel inflation and harm businesses, raising alarm about the risks of blanket tariffs.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/18/nation-world-news/yellen-warns-sweeping-tariffs-would-ignite-inflation/>
+
+---
+
+## Absentee ballots available for Palau Voters as election approaches
+
+date: 2024-10-18, from: Island Times
+
+<figure><img width="1024" height="730" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Recipients-of-Australia-Direct-Grant-Program.jpg?fit=1024%2C730&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Recipients-of-Australia-Direct-Grant-Program.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Recipients-of-Australia-Direct-Grant-Program.jpg?resize=300%2C214&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Recipients-of-Australia-Direct-Grant-Program.jpg?resize=1024%2C730&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Recipients-of-Australia-Direct-Grant-Program.jpg?resize=768%2C547&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Recipients-of-Australia-Direct-Grant-Program.jpg?resize=1200%2C855&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Recipients-of-Australia-Direct-Grant-Program.jpg?resize=400%2C285&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Recipients-of-Australia-Direct-Grant-Program.jpg?resize=706%2C503&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Recipients-of-Australia-Direct-Grant-Program.jpg?fit=1024%2C730&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73273" data-permalink="https://islandtimes.org/absentee-ballots-available-for-palau-voters-as-election-approaches/recipients-of-australia-direct-grant-program/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Recipients-of-Australia-Direct-Grant-Program.jpg?fit=1249%2C890&amp;ssl=1" data-orig-size="1249,890" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.7&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1729175699&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.3&quot;,&quot;iso&quot;:&quot;200&quot;,&quot;shutter_speed&quot;:&quot;0.0083333333333333&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Recipients of Australia Direct Grant Program" data-image-description="" data-image-caption="&lt;p&gt;Recipients of Australia Direct Grant Program&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Recipients-of-Australia-Direct-Grant-Program.jpg?fit=300%2C214&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Recipients-of-Australia-Direct-Grant-Program.jpg?fit=780%2C556&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>KOROR, Palau — The Palau Election Commission (PEC) began mailing out absentee ballots after they arrived from Guam on Tuesday this week.&#160; During a press conference, PEC Executive Director Sherwin Yamaguchi announced that walk-in voting began Wednesday afternoon. He advised voters who will be traveling outside of Palau on Election Day to bring a copy [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/absentee-ballots-available-for-palau-voters-as-election-approaches/">Absentee ballots available for Palau Voters as election approaches</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/absentee-ballots-available-for-palau-voters-as-election-approaches/>
+
+---
+
+## Online Gaming Concessions in Palau:
+
+date: 2024-10-18, from: Island Times
+
+<figure><img width="600" height="800" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Tabesul-Ngirailemesang-MOF-Special-Assistant.jpg?fit=600%2C800&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Tabesul-Ngirailemesang-MOF-Special-Assistant.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Tabesul-Ngirailemesang-MOF-Special-Assistant.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Tabesul-Ngirailemesang-MOF-Special-Assistant.jpg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Tabesul-Ngirailemesang-MOF-Special-Assistant.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Tabesul-Ngirailemesang-MOF-Special-Assistant.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Tabesul-Ngirailemesang-MOF-Special-Assistant.jpg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Tabesul-Ngirailemesang-MOF-Special-Assistant.jpg?fit=600%2C800&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73269" data-permalink="https://islandtimes.org/online-gaming-concessions-in-palau/tabesul-ngirailemesang-mof-special-assistant/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Tabesul-Ngirailemesang-MOF-Special-Assistant.jpg?fit=600%2C800&amp;ssl=1" data-orig-size="600,800" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;3.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1729076547&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;18.6&quot;,&quot;iso&quot;:&quot;1600&quot;,&quot;shutter_speed&quot;:&quot;0.033333333333333&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Tabesul Ngirailemesang, MOF Special Assistant" data-image-description="" data-image-caption="&lt;p&gt;Tabesul Ngirailemesang, MOF Special Assistant&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Tabesul-Ngirailemesang-MOF-Special-Assistant.jpg?fit=225%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Tabesul-Ngirailemesang-MOF-Special-Assistant.jpg?fit=600%2C800&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>A push for transparency and economic growth Koror, Palau (October 7, 2024) — Palau’s Ministry of Finance announced the opening of applications for online gaming concessions, marking a renewed effort to diversify the country&#8217;s economy through regulated virtual gaming platforms. Special Assistant to the Minister of Finance, Tabesul Ngirailemesang, addressed the public in a statement [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/online-gaming-concessions-in-palau/">Online Gaming Concessions in Palau:</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/online-gaming-concessions-in-palau/>
+
+---
+
+## Australia boosts support for Palauan Development Projects with Direct Aid Grants
+
+date: 2024-10-18, from: Island Times
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Representatives-of-Palau-Sailing-and-Community-Regeneration-Org.-recipients-of-ADG.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Representatives-of-Palau-Sailing-and-Community-Regeneration-Org.-recipients-of-ADG.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Representatives-of-Palau-Sailing-and-Community-Regeneration-Org.-recipients-of-ADG.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Representatives-of-Palau-Sailing-and-Community-Regeneration-Org.-recipients-of-ADG.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Representatives-of-Palau-Sailing-and-Community-Regeneration-Org.-recipients-of-ADG.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Representatives-of-Palau-Sailing-and-Community-Regeneration-Org.-recipients-of-ADG.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Representatives-of-Palau-Sailing-and-Community-Regeneration-Org.-recipients-of-ADG.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Representatives-of-Palau-Sailing-and-Community-Regeneration-Org.-recipients-of-ADG.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Representatives-of-Palau-Sailing-and-Community-Regeneration-Org.-recipients-of-ADG.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Representatives-of-Palau-Sailing-and-Community-Regeneration-Org.-recipients-of-ADG.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Representatives-of-Palau-Sailing-and-Community-Regeneration-Org.-recipients-of-ADG.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Representatives-of-Palau-Sailing-and-Community-Regeneration-Org.-recipients-of-ADG.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73265" data-permalink="https://islandtimes.org/australia-boosts-support-for-palauan-development-projects-with-direct-aid-grants/representatives-of-palau-sailing-and-community-regeneration-org-recipients-of-adg/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Representatives-of-Palau-Sailing-and-Community-Regeneration-Org.-recipients-of-ADG.jpg?fit=1249%2C937&amp;ssl=1" data-orig-size="1249,937" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1729174402&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.9&quot;,&quot;iso&quot;:&quot;160&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Representatives of Palau Sailing and Community Regeneration Org. recipients of ADG" data-image-description="" data-image-caption="&lt;p&gt;Representatives of Palau Sailing and Community Regeneration Org. recipients of ADG &lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Representatives-of-Palau-Sailing-and-Community-Regeneration-Org.-recipients-of-ADG.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Representatives-of-Palau-Sailing-and-Community-Regeneration-Org.-recipients-of-ADG.jpg?fit=780%2C585&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By: L.N. Reklai Three Palauan community organizations have been awarded Australia’s Direct Grant Program, marking the 30th anniversary of the initiative. Australian Ambassador Richelle Turner announced the grants, which have been increased to $20,000 per recipient this year, a change made in response to community feedback on the program’s previous $10,000 limit. The recipients include [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/australia-boosts-support-for-palauan-development-projects-with-direct-aid-grants/">Australia boosts support for Palauan Development Projects with Direct Aid Grants</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/australia-boosts-support-for-palauan-development-projects-with-direct-aid-grants/>
+
+---
+
+## Three missing Palauans found safe in Washington State
+
+date: 2024-10-18, from: Island Times
+
+<p>BY: EUSTORIA MARIE BORJA VANCOUVER, Wash — Three Palauan nationals who went missing in separate incidents in Washington state have been found safe, bringing relief to their families and supporters who spent weeks searching for them Jack “Itosang” Ito, 18, was located first after disappearing in early October from Sammamish, Washington. Days later, Deisha Kimiko [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/three-missing-palauans-found-safe-in-washington-state/">Three missing Palauans found safe in Washington State</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/three-missing-palauans-found-safe-in-washington-state/>
+
+---
+
+## PIDC shooting highlights need for timely Public Safety updates
+
+date: 2024-10-18, from: Island Times
+
+<figure><img width="600" height="678" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/BPS-Director-Curtis-Elobt.jpg?fit=600%2C678&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/BPS-Director-Curtis-Elobt.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/BPS-Director-Curtis-Elobt.jpg?resize=265%2C300&amp;ssl=1 265w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/BPS-Director-Curtis-Elobt.jpg?resize=400%2C452&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/BPS-Director-Curtis-Elobt.jpg?fit=600%2C678&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73258" data-permalink="https://islandtimes.org/pidc-shooting-highlights-need-for-timely-public-safety-updates/bps-director-curtis-elobt/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/BPS-Director-Curtis-Elobt.jpg?fit=600%2C678&amp;ssl=1" data-orig-size="600,678" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;3.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1729073931&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;18.6&quot;,&quot;iso&quot;:&quot;1250&quot;,&quot;shutter_speed&quot;:&quot;0.033333333333333&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="BPS Director Curtis Elobt" data-image-description="" data-image-caption="&lt;p&gt;irector Curtis Elobt&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/BPS-Director-Curtis-Elobt.jpg?fit=265%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/BPS-Director-Curtis-Elobt.jpg?fit=600%2C678&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By: Eustoria Marie Borja KOROR, Palau (Oct. 17, 2024) — A recent shooting incident at the PIDC store in Topside Koror has raised concerns over public safety and highlighted challenges in obtaining timely information from the Bureau of Public Safety. The October 11 event, involving an air gun pellet that shattered the store&#8217;s glass door, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pidc-shooting-highlights-need-for-timely-public-safety-updates/">PIDC shooting highlights need for timely Public Safety updates</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/pidc-shooting-highlights-need-for-timely-public-safety-updates/>
+
+---
+
+## Palau Passes Bill protecting citizens from unauthorized image distribution
+
+date: 2024-10-18, from: Island Times
+
+<p>BY: Eustoria Marie Borja Koror, Palau – In a significant move to safeguard privacy rights, the Palau National Congress has passed House Bill No. 11-76-8S, HD1, SD2, CD1, criminalizing the unauthorized distribution of sensitive and intimate images. The legislation, which passed its third reading on October 8, 2024, in both the House of Delegates and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-passes-bill-protecting-citizens-from-unauthorized-image-distribution/">Palau Passes Bill protecting citizens from unauthorized image distribution</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-passes-bill-protecting-citizens-from-unauthorized-image-distribution/>
+
+---
+
+## Qantas takes over Palau Paradise Express, strengthening Pacific Air connectivity
+
+date: 2024-10-18, from: Island Times
+
+<figure><img width="600" height="433" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/qantas.jpg?fit=600%2C433&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/qantas.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/qantas.jpg?resize=300%2C217&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/qantas.jpg?resize=400%2C289&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/qantas.jpg?fit=600%2C433&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73251" data-permalink="https://islandtimes.org/73249-2/qantas/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/qantas.jpg?fit=600%2C433&amp;ssl=1" data-orig-size="600,433" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="qantas" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/qantas.jpg?fit=300%2C217&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/qantas.jpg?fit=600%2C433&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By Samantha Iyar KOROR, Palau – Qantas has been chosen to operate the Palau Paradise Express, a direct flight service connecting Brisbane, Australia, to Koror, Palau. This transition, announced in a joint statement by Palau President Surangel S. Whipps Jr. and Australian Foreign Minister Penny Wong, marks a significant development in Pacific air travel. The [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/73249-2/">Qantas takes over Palau Paradise Express, strengthening Pacific Air connectivity</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/73249-2/>
+
+---
+
+## 27 candidates now in Senate Race as Write-In candidate Ziske Asanuma joins Field
+
+date: 2024-10-18, from: Island Times
+
+<figure><img width="600" height="803" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Candidate-Ziske-Asanum.jpg?fit=600%2C803&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Candidate-Ziske-Asanum.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Candidate-Ziske-Asanum.jpg?resize=224%2C300&amp;ssl=1 224w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Candidate-Ziske-Asanum.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Candidate-Ziske-Asanum.jpg?resize=400%2C535&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Candidate-Ziske-Asanum.jpg?fit=600%2C803&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73247" data-permalink="https://islandtimes.org/27-candidates-now-in-senate-race-as-write-in-candidate-ziske-asanuma-joins-field/candidate-ziske-asanum/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Candidate-Ziske-Asanum.jpg?fit=600%2C803&amp;ssl=1" data-orig-size="600,803" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Candidate Ziske Asanum" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Candidate-Ziske-Asanum.jpg?fit=224%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Candidate-Ziske-Asanum.jpg?fit=600%2C803&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By: Eustoria Marie Borja and Samantha Iyar Koror, Palau – With just weeks remaining until the November 5, 2024, general election,the Senate race in Palau has intensified, now featuring 27 candidates competing for oneof the 15 available seats. The latest addition to the field is Ziske Asanuma, a write-incandidate whose community-driven platform centers on protecting [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/27-candidates-now-in-senate-race-as-write-in-candidate-ziske-asanuma-joins-field/">27 candidates now in Senate Race as Write-In candidate Ziske Asanuma joins Field</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/27-candidates-now-in-senate-race-as-write-in-candidate-ziske-asanuma-joins-field/>
+
+---
+
+## Border Security enhanced by CBM Working Group
+
+date: 2024-10-18, from: Island Times
+
+<p>By: Samantha Iyar KOROR, Palau — Executive Order 489 has reinforced efforts to improve border security and streamline agency cooperation. Signed on October 15, 2024, this order strengthens the Coordinated Border Management (CBM) working group, building upon Executive Order 475 issued in September 2022. The CBM group aims to unify agencies such as transportation, customs, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/border-security-enhanced-by-cbm-working-group/">Border Security enhanced by CBM Working Group</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/border-security-enhanced-by-cbm-working-group/>
+
+---
+
+## Palau’s Disinformation Bill faces concerns over oversight, Free Speech
+
+date: 2024-10-18, from: Island Times
+
+<p>By: Eustoria Maria Borja KOROR, Palau – The House of Delegates recently moved forward with a bill aimed at regulating disinformation on social media, sparking debate over government oversight and its potential impact on free speech. House Bill No. 11-153-16, which passed its first reading on Oct. 10, 2024, seeks to address the spread of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palaus-disinformation-bill-faces-concerns-over-oversight-free-speech/">Palau’s Disinformation Bill faces concerns over oversight, Free Speech</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palaus-disinformation-bill-faces-concerns-over-oversight-free-speech/>
+
+---
+
+## Taiwan-Palau Partnership promotes Marine Science Education, strengthening Ocean Conservation Awareness
+
+date: 2024-10-18, from: Island Times
+
+<figure><img width="1024" height="771" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Ocean-Science-002.jpg?fit=1024%2C771&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Ocean-Science-002.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Ocean-Science-002.jpg?resize=300%2C226&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Ocean-Science-002.jpg?resize=1024%2C771&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Ocean-Science-002.jpg?resize=768%2C578&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Ocean-Science-002.jpg?resize=400%2C301&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Ocean-Science-002.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Ocean-Science-002.jpg?resize=1200%2C903&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Ocean-Science-002.jpg?resize=706%2C531&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Ocean-Science-002.jpg?fit=1024%2C771&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73234" data-permalink="https://islandtimes.org/taiwan-palau-partnership-promotes-marine-science-education-strengthening-ocean-conservation-awareness/ocean-science-002/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Ocean-Science-002.jpg?fit=1249%2C940&amp;ssl=1" data-orig-size="1249,940" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Ocean Science-002" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Ocean-Science-002.jpg?fit=300%2C226&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Ocean-Science-002.jpg?fit=780%2C587&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Supported by Taiwan&#8217;s National Science and Technology Council (NSTC), the Taiwan-Palau&#160;Ocean&#160;Science Education Center successfully held a three-day marine science education workshop at Palau Community College (PCC) from October 8 to 10. The workshop attracted participants from the Ministry of Education, local elementary and&#160;high&#160;school teachers, and&#160;outreach officer&#160;from the Palau International Coral Reef Center (PICRC). The workshop [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/taiwan-palau-partnership-promotes-marine-science-education-strengthening-ocean-conservation-awareness/">Taiwan-Palau Partnership promotes Marine Science Education, strengthening Ocean Conservation Awareness</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/taiwan-palau-partnership-promotes-marine-science-education-strengthening-ocean-conservation-awareness/>
+
+---
+
+## Emmaus Bethania High School students to participate in the high school students summit
+
+date: 2024-10-18, from: Island Times
+
+<figure><img width="1024" height="946" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241016_131221.jpg?fit=1024%2C946&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241016_131221.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241016_131221.jpg?resize=300%2C277&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241016_131221.jpg?resize=1024%2C946&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241016_131221.jpg?resize=768%2C710&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241016_131221.jpg?resize=1200%2C1109&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241016_131221.jpg?resize=400%2C370&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241016_131221.jpg?resize=706%2C652&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241016_131221.jpg?fit=1024%2C946&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73230" data-permalink="https://islandtimes.org/emmaus-bethania-high-school-students-to-participate-in-the-high-school-students-summit/20241016_131221/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241016_131221.jpg?fit=1249%2C1154&amp;ssl=1" data-orig-size="1249,1154" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.2&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy A15 5G&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1729084342&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;1.4&quot;,&quot;iso&quot;:&quot;64&quot;,&quot;shutter_speed&quot;:&quot;0.0083333333333333&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20241016_131221" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241016_131221.jpg?fit=300%2C277&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241016_131221.jpg?fit=780%2C721&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>for “World Tsunami Awareness Day” in Kumamoto, Japan The Embassy of Japan is pleased to announce this year’s Youth Ambassadors from Palau to attend the High School Students Summit on “World Tsunami Awareness Day” 2024 in Kumamoto, which will be held from October 19 to 25 in Japan. Since 2016, one high school in Palau [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/emmaus-bethania-high-school-students-to-participate-in-the-high-school-students-summit/">Emmaus Bethania High School students to participate in the high school students summit</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/emmaus-bethania-high-school-students-to-participate-in-the-high-school-students-summit/>
+
+---
+
+## Lauren Piot joins PICRC as new Aquarium Researcher
+
+date: 2024-10-18, from: Island Times
+
+<figure><img width="600" height="787" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Lauren-Piot.jpeg?fit=600%2C787&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Lauren-Piot.jpeg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Lauren-Piot.jpeg?resize=229%2C300&amp;ssl=1 229w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Lauren-Piot.jpeg?resize=400%2C525&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Lauren-Piot.jpeg?fit=600%2C787&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73226" data-permalink="https://islandtimes.org/lauren-piot-joins-picrc-as-new-aquarium-researcher/lauren-piot/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Lauren-Piot.jpeg?fit=600%2C787&amp;ssl=1" data-orig-size="600,787" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Lauren Piot" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Lauren-Piot.jpeg?fit=229%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Lauren-Piot.jpeg?fit=600%2C787&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>The Palau International Coral Reef Center (PICRC) is pleased to welcome Lauren Piot, a 25-year-old French American, as a new Aquarium Researcher. Lauren holds an MSc in Environment, Politics, and Development from The School of Oriental and African Studies University of London, and an MSc in Marine Systems and Policies from the University of Edinburgh. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/lauren-piot-joins-picrc-as-new-aquarium-researcher/">Lauren Piot joins PICRC as new Aquarium Researcher</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/lauren-piot-joins-picrc-as-new-aquarium-researcher/>
+
+---
+
+## Palau Pledge partners up qith Micronesian Voyaging Society for Kids Camp
+
+date: 2024-10-18, from: Island Times
+
+<figure><img width="1024" height="899" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PALAUPLEDGE_DIVECAMP-2.jpg?fit=1024%2C899&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PALAUPLEDGE_DIVECAMP-2.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PALAUPLEDGE_DIVECAMP-2.jpg?resize=300%2C263&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PALAUPLEDGE_DIVECAMP-2.jpg?resize=1024%2C899&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PALAUPLEDGE_DIVECAMP-2.jpg?resize=768%2C674&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PALAUPLEDGE_DIVECAMP-2.jpg?resize=1200%2C1053&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PALAUPLEDGE_DIVECAMP-2.jpg?resize=400%2C351&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PALAUPLEDGE_DIVECAMP-2.jpg?resize=706%2C620&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PALAUPLEDGE_DIVECAMP-2.jpg?fit=1024%2C899&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73222" data-permalink="https://islandtimes.org/palau-pledge-partners-up-qith-micronesian-voyaging-society-for-kids-camp/20241015_dc_pr/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PALAUPLEDGE_DIVECAMP-2.jpg?fit=1249%2C1096&amp;ssl=1" data-orig-size="1249,1096" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;20241015_DC_PR&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20241015_DC_PR" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PALAUPLEDGE_DIVECAMP-2.jpg?fit=300%2C263&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PALAUPLEDGE_DIVECAMP-2.jpg?fit=780%2C685&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Koror, Palau &#8211; The FRIENDS of the Palau National Marine Sanctuary recently wrapped up its 15th Palau Pledge Camp during the 2024 Fall Intersession. The Camp, a first with the Micronesian Voyaging Society (MVS), combined the cornerstone dive certification for PADI open water and advanced open water with traditional navigation. Each camp is uniquely tailored [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-pledge-partners-up-qith-micronesian-voyaging-society-for-kids-camp/">Palau Pledge partners up qith Micronesian Voyaging Society for Kids Camp</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-pledge-partners-up-qith-micronesian-voyaging-society-for-kids-camp/>
+
+---
+
+## Reflections on Pacific regionalism
+
+date: 2024-10-18, from: Island Times
+
+<p>By Sione Tekiteki AUCKLAND (DEVPOLICY.ORG) &#8212; The Pacific Islands Forum and its secretariat is a complex bureaucracy that will take any individual at least a year to understand. It is a political organisation that continually works to balance the interests of 18 member states to strengthen regional solidarity. It operates on a mix of rules [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/reflections-on-pacific-regionalism/">Reflections on Pacific regionalism</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/reflections-on-pacific-regionalism/>
+
+---
+
+## Always a student
+
+date: 2024-10-18, from: Island Times
+
+<figure><img width="537" height="567" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?w=537&amp;ssl=1 537w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?resize=284%2C300&amp;ssl=1 284w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?resize=400%2C422&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="61696" data-permalink="https://islandtimes.org/self-compassion/womens-corner-1-6/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1" data-orig-size="537,567" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=284%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>&#8220;Think about the outcomes of your choices and listen to the advice from people who care about you! &#8220;Your decisions and actions have important and lasting consequences that can impact various aspects of your life and the lives of others. We often go about our days without truly considering how our choices result in consequences. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/always-a-student/">Always a student</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/always-a-student/>
+
+---
+
+## China Airlines to resume direct flight service between Taipei and Guam
+
+date: 2024-10-18, from: Island Times
+
+<p>HAGATNA (PACIFIC ISLAND TIMES) &#8212; China Airlines, one of Taiwan&#8217;s largest carriers, will resume its Taipei-Guam service from 27 November to 02 February 2025, with two weekly flights. According to CAL, it will use an Airbus A321neo aircraft to operate the service between the two destinations. Chia Ping Liu, director general of the Taipei Economic [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/china-airlines-to-resume-direct-flight-service-between-taipei-and-guam/">China Airlines to resume direct flight service between Taipei and Guam</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/china-airlines-to-resume-direct-flight-service-between-taipei-and-guam/>
+
+---
+
+## Taiwan tells China to back off; Pentagon confident of U.S force posture in the troubled region
+
+date: 2024-10-18, from: Island Times
+
+<p>HAGATNA (PACIFIC ISLAND TIMES) &#8212; The Pentagon has condemned China’s provocative military drills around Taiwan, calling it “irresponsible, disproportionate and destabilising,” but trumpeted its ability to respond to any eventuality. “Deterrence remains strong in the Indo-Pacific and the Department (of Defence) remains confident in its current force posture and operations in the region,” Pentagon Press [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/taiwan-tells-china-to-back-off-pentagon-confident-of-u-s-force-posture-in-the-troubled-region/">Taiwan tells China to back off; Pentagon confident of U.S force posture in the troubled region</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/taiwan-tells-china-to-back-off-pentagon-confident-of-u-s-force-posture-in-the-troubled-region/>
+
+---
+
+## Former Guam Governor Paul Calvo passes away
+
+date: 2024-10-18, from: Island Times
+
+<p>HAGATNA (PACIFIC ISLAND TIMES) &#8212; Guam mourns the passing of former governor Paul Calvo. He was 90. Calvo, served as the third governor of Guam, from 1979 to 1983, leaving a legacy that set Guam&#8217;s direction. “It is with hearts full of love that we announce the passing of our beloved father, Paul McDonald Calvo [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/former-guam-governor-paul-calvo-passes-away/">Former Guam Governor Paul Calvo passes away</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/former-guam-governor-paul-calvo-passes-away/>
+
+---
+
+## US stealth bombers launch air strikes on underground Yemen Houthi bunkers
+
+date: 2024-10-18, from: Island Times
+
+<p>In short: (ABC-Australia) US forces say they have launched air strikes on five underground weapons storage bunkers used by Yemen&#8217;s Houthi rebels. The strikes come after months of Houthi drone and missile attacks on merchant ships in the Red Sea in support of the Hamas militant group. What&#8217;s next? The rebel group continues to threaten [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/us-stealth-bombers-launch-air-strikes-on-underground-yemen-houthi-bunkers/">US stealth bombers launch air strikes on underground Yemen Houthi bunkers</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/us-stealth-bombers-launch-air-strikes-on-underground-yemen-houthi-bunkers/>
+
+---
+
+## Coach Kupono Fey among AVCA’s Thirty Under 30
+
+date: 2024-10-18, from: University of Hawaiʻi News
+
+<p>University of Hawai&#699;i at Mānoa men’s volleyball assistant coach Kupono Fey was listed among the American Volleyball Coaches Association&#8217;s 2024 Thirty Under 30 Awards program. Fey is entering his third season with the Rainbow Warriors, whom he was a four-year letterman from 2014&#8211;17. He captained the 2017 squad which recorded a then-single-season record 27 wins&#8230;</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/17/fey-avca-thirty-under-30/">Coach Kupono Fey among <abbr>AVCA</abbr>’s Thirty Under 30</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/17/fey-avca-thirty-under-30/>
+
+---
+
+## UH Mānoa ignites STEM passion in elementary school students
+
+date: 2024-10-18, from: University of Hawaiʻi News
+
+<p>Each department created their own fun activities for the students.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/17/ignite-stem-passion/"><abbr>UH</abbr> Mānoa ignites <abbr>STEM</abbr> passion in elementary school students</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/17/ignite-stem-passion/>
+
+---
+
+## UH Mānoa women’s basketball tops Big West poll
+
+date: 2024-10-18, from: University of Hawaiʻi News
+
+<p><abber>UH Mānoa women’s basketball team placed first in the 2024&#8211;25 Big West Women’s Basketball Preseason Coaches’ Poll.</abber></p>
+The post <a href="https://www.hawaii.edu/news/2024/10/17/womens-basketball-tops-big-west-poll/"><abbr>UH</abbr> Mānoa women’s basketball tops Big West poll</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/17/womens-basketball-tops-big-west-poll/>
+
+---
+
+## New UH center aims to transform agri-food systems
+
+date: 2024-10-18, from: University of Hawaiʻi News
+
+<p>Developing sustainable agri-food systems can play a crucial role in achieving socio-ecological health, equity, resilience and sustainability.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/17/center-transform-agri-food-systems/">New <abbr>UH</abbr> center aims to transform agri-food systems</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/17/center-transform-agri-food-systems/>
+
+---
+
+## Hines among 15 Players named to Jet Award Watch List
+
+date: 2024-10-18, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr>Mānoa football return specialist Tylan Hines is among 15 players&#8212;and only Mountain West player&#8212;named to the Jet Award Midseason Watch List.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/17/hines-named-to-jet-award-watch-list/">Hines among 15 Players named to Jet Award Watch List</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/17/hines-named-to-jet-award-watch-list/>
+
+---
+
+## Belyakov earns Big West Athlete of the Week honors
+
+date: 2024-10-18, from: University of Hawaiʻi News
+
+<p>Catherine Belyakov, from the <abbr>UH</abbr> Mānoa swim team, claimed Big West Athlete of the Week honors</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/17/belyakov-big-west-athlete-week/">Belyakov earns Big West Athlete of the Week honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/17/belyakov-big-west-athlete-week/>
+
+---
+
+## USP receives Early Childhood programme re-accreditation
+
+date: 2024-10-18, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific’s (USP) Certificate III in Early Childhood Care and Education...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-receives-early-childhood-programme-re-accreditation/">USP receives Early Childhood programme re-accreditation</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/usp-receives-early-childhood-programme-re-accreditation/>
 
 ---
 
@@ -34,6 +673,20 @@ date: 2024-10-17, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2024/10/17/hawaii-news/hensel-selected-as-next-uh-president/>
+
+---
+
+## Hensel selected as next UH president
+
+date: 2024-10-17, from: Hawaii Tribune Harold
+
+
+				<p>Wendy Hensel, 54, executive vice chancellor and university provost for The City University of New York, was unanimously selected Thursday by University of Hawaii regents to become the next UH president, with an annual salary of $675,000.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/17/hawaii-news/hensel-selected-as-next-uh-president-2/>
 
 ---
 
@@ -90,6 +743,18 @@ The post <a href="https://www.hawaii.edu/news/2024/10/17/gregory-moore-award/">E
 
 ---
 
+## Hamas leader Sinwar is dead, Israel says
+
+date: 2024-10-17, updated: 2024-10-17, from: Marianas Variety
+
+JERUSALEM/CAIRO (Reuters) — Hamas leader Yahya Sinwar, mastermind of the Oct. 7, 2023 attack that triggered the Gaza war, was killed on Thursday, Israeli Foreign Minister Israel Katz said. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/hamas-leader-sinwar-is-dead-israel-says/article_1aba85f2-8cad-11ef-9acd-3f62b91d6fc6.html>
+
+---
+
 ## Two Syllables
 
 date: 2024-10-17, from: Hawai'i Pacific Review (HPU Literary Magazine)
@@ -99,6 +764,114 @@ by Virginia Laurie He was lovely then. A ruffled parakeet. We were crisp as carr
 <br> 
 
 <https://hawaiipacificreview.org/2024/10/17/two-syllables/>
+
+---
+
+## Publication opportunity open for Micronesian writers
+
+date: 2024-10-17, updated: 2024-10-17, from: Marianas Variety
+
+TWO independent Chamorro artists, Roaquin Siongco and Dizia Crisostomo, are calling out to writers and creatives from across the region to contribute to a forthcoming digital publication centering on grief. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/publication-opportunity-open-for-micronesian-writers/article_7b508a26-8c51-11ef-a1bf-6b8e7a1530b2.html>
+
+---
+
+## Legislators, others subpoenaed to testify in Villanueva’s trial
+
+date: 2024-10-17, updated: 2024-10-17, from: Marianas Variety
+
+LEGISLATORS, legislative staffers, Bank of Saipan employees and other individuals, including the prosecutor, have been subpoenaed by the defense to testify in the bench trial of Shayne Villanueva on Nov. 6. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/legislators-others-subpoenaed-to-testify-in-villanueva-s-trial/article_7bc33a7a-8c43-11ef-a3f6-3f73dc8a1187.html>
+
+---
+
+## Rotary Club of Saipan to hold first dance-a-thon fundraiser to #EradicatePolio
+
+date: 2024-10-17, updated: 2024-10-17, from: Marianas Variety
+
+ROTARY Club members on Saipan are taking action in honor of World Polio Day to raise awareness, funds, and support to end polio, a vaccine-preventable disease that still threatens children in parts of the world today. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/rotary-club-of-saipan-to-hold-first-dance-a-thon-fundraiser-to-eradicatepolio/article_f8cf1682-8c8a-11ef-b7ad-1bc7cf696380.html>
+
+---
+
+## Red flags at 2 Saipan sites
+
+date: 2024-10-17, updated: 2024-10-17, from: Marianas Variety
+
+(BECQ) — The Bureau of Environmental and Coastal Quality analyzed water samples collected from Saipan's east and south recreational beaches this week. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/red-flags-at-2-saipan-sites/article_2eccb9a0-8c8c-11ef-8369-43c52b9389d5.html>
+
+---
+
+## Bill to impose penalties on judges and justices for ‘unjustified’ recusals
+
+date: 2024-10-17, updated: 2024-10-17, from: Marianas Variety
+
+THE House Committee on Judicial and Governmental Operations on Thursday amended H.B. 23-119, which would amend the law regarding the recusal of judges and justices, and provide penalties for non-compliance. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/bill-to-impose-penalties-on-judges-and-justices-for-unjustified-recusals/article_a1cf123a-8c4c-11ef-93f7-b38be16d737b.html>
+
+---
+
+## NMC alumnus Keane Palacios helps protect CNMI borders
+
+date: 2024-10-17, updated: 2024-10-17, from: Marianas Variety
+
+(NMC) — Northern Marianas College alumnus Keane T. Palacios now play a vital role in protecting the Commonwealth’s borders. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/nmc-alumnus-keane-palacios-helps-protect-cnmi-borders/article_9cf84054-8c8a-11ef-b5c1-dbb9b7f52529.html>
+
+---
+
+## Red Cross, DFEMS install over 50 smoke alarms on Saipan
+
+date: 2024-10-17, updated: 2024-10-17, from: Marianas Variety
+
+THE American Red Cross-NMI Chapter, in collaboration with the Department of Fire and Emergency Medical Services, successfully installed   over 50 smoke alarms across Saipan. This initiative aims to enhance fire safety and protect local communities. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/red-cross-dfems-install-over-50-smoke-alarms-on-saipan/article_5c0662fa-8c8b-11ef-9128-47d8b8f161a8.html>
+
+---
+
+## Avoiding CNMI & IRS tax issues: A workshop for business owners & self-employed individuals
+
+date: 2024-10-17, updated: 2024-10-17, from: Marianas Variety
+
+THE Marianas Business Network, in partnership with Azarvand Tax Law Firm, invites business owners and self-employed individuals to a practical and informative workshop on navigating CNMI and IRS tax obligations. Attendees will gain essential knowledge to help them stay compliant and avoid common tax penalties, all while enjoying a buffet lunch. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/avoiding-cnmi-irs-tax-issues-a-workshop-for-business-owners-self-employed-individuals/article_d726420c-8c8b-11ef-8292-c3b1067566e6.html>
+
+---
+
+## Castro wants inmates paid for work performed while incarcerated
+
+date: 2024-10-17, updated: 2024-10-17, from: Marianas Variety
+
+(Office of Rep. Manny Gregory Tenorio Castro) — During Thursday’s House Committee on Judicial and Governmental Operations meeting, Precinct 2 Rep. Manny Gregory Tenorio Castro offered a floor amendment for the adoption of House Bill 23-64, House Substitute 1, aimed at authorizing the CNMI Department of Corrections to pay inmates for work performed while incarcerated. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/castro-wants-inmates-paid-for-work-performed-while-incarcerated/article_77bf301e-8c89-11ef-bff9-07da1825b569.html>
 
 ---
 
@@ -340,12 +1113,12 @@ date: 2024-10-17, from: Hawaii Tribune Harold
 
 ---
 
-## One teen dead, three others seriously injured in W. Hawaii traffic crash
+## UPDATE: Teen girl killed in W. Hawaii crash identified
 
 date: 2024-10-17, from: Hawaii Tribune Harold
 
 
-				<p>Police are investigating a two-vehicle crash in Waikoloa that occurred this morning in which a 17-year-old Waikoloa female was killed and three teens were seriously injured.</p>
+				<p><strong>UPDATE 4:01 p.m.</strong></p>
 			 
 
 <br> 

@@ -1,11 +1,70 @@
 ---
 title: central coast
-updated: 2024-10-17 17:23:43
+updated: 2024-10-18 07:12:37
 ---
 
 # central coast
 
-(date: 2024-10-17 17:23:43)
+(date: 2024-10-18 07:12:37)
+
+---
+
+## Arroyo Burro Slough
+
+date: 2024-10-18, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-POD-Jeffrey-Campbell.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Arroyo Burro Slough in Santa Barbara." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-POD-Jeffrey-Campbell.jpeg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-POD-Jeffrey-Campbell.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-POD-Jeffrey-Campbell.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-POD-Jeffrey-Campbell.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-POD-Jeffrey-Campbell.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-POD-Jeffrey-Campbell.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-POD-Jeffrey-Campbell.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-POD-Jeffrey-Campbell.jpeg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-POD-Jeffrey-Campbell.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-POD-Jeffrey-Campbell.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-POD-Jeffrey-Campbell.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-POD-Jeffrey-Campbell.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/arroyo-burro-slough/">Arroyo Burro Slough</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/arroyo-burro-slough/>
+
+---
+
+## BizHawk: Men’s Clothing Store Tendrel a Fine Fit in Funk Zone
+
+date: 2024-10-18, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101724-BizHawk-Parker-Simon-Molly-Davis-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Parker Simon, Molly Davis and baby Levon have opened Tendrel, a men&#039;s clothing store, at a new spot in Santa Barbara&#039;s Funk Zone." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101724-BizHawk-Parker-Simon-Molly-Davis-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101724-BizHawk-Parker-Simon-Molly-Davis-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101724-BizHawk-Parker-Simon-Molly-Davis-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101724-BizHawk-Parker-Simon-Molly-Davis-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101724-BizHawk-Parker-Simon-Molly-Davis-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101724-BizHawk-Parker-Simon-Molly-Davis-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101724-BizHawk-Parker-Simon-Molly-Davis-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101724-BizHawk-Parker-Simon-Molly-Davis-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101724-BizHawk-Parker-Simon-Molly-Davis-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Inside Santa Barbara&#8217;s Funk Zone is a new retail store, Tendrel, a Tibetan word often translated as an auspicious coincidence or synchronicity. It&#8217;s the perfect name for seemingly the perfect [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/bizhawk-mens-clothing-store-tendrel-a-fine-fit-in-funk-zone/">BizHawk: Men&#8217;s Clothing Store Tendrel a Fine Fit in Funk Zone</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/bizhawk-mens-clothing-store-tendrel-a-fine-fit-in-funk-zone/>
+
+---
+
+## Biltmore Project Receives Preliminary OK From Montecito Commission
+
+date: 2024-10-18, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101724-Biltmore-at-MPC-1-RC.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="After being denied preliminary approval by the Montecito Board of Architecture Review, the Four Seasons Resort The Biltmore took its design and construction plans to the Montecito Planning Commission." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101724-Biltmore-at-MPC-1-RC.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101724-Biltmore-at-MPC-1-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101724-Biltmore-at-MPC-1-RC.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101724-Biltmore-at-MPC-1-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101724-Biltmore-at-MPC-1-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101724-Biltmore-at-MPC-1-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101724-Biltmore-at-MPC-1-RC.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101724-Biltmore-at-MPC-1-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101724-Biltmore-at-MPC-1-RC.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Four Seasons Resort The Biltmore in Montecito took design and construction plans to the Montecito Planning Commission and received preliminary approval Wednesday. After a lengthy discussion, the commission approved [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/biltmore-project-gets-preliminary-approval-from-montecito-planning-commission/">Biltmore Project Receives Preliminary OK From Montecito Commission</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/biltmore-project-gets-preliminary-approval-from-montecito-planning-commission/>
+
+---
+
+## CalFire Battles 80-acre Vegetation Fire in Santa Maria Riverbed
+
+date: 2024-10-18, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Santa-Maria-Fire.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A CalFire air tanker drops fire suppressant on a vegetation fire in the Santa Maria Riverbed in southern San Luis Obispo County on Thursday." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Santa-Maria-Fire.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Santa-Maria-Fire.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Santa-Maria-Fire.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Santa-Maria-Fire.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Santa-Maria-Fire.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Santa-Maria-Fire.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Santa-Maria-Fire.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Santa-Maria-Fire.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Santa-Maria-Fire.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A vegetation fire erupted in the Santa Maria Riverbed in southern San Luis Obispo County late Thursday afternoon. The fire had burned about 70 acres of grass in the riverbed [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/calfire-battles-vegetation-fire-in-santa-maria-riverbed/">CalFire Battles 80-acre Vegetation Fire in Santa Maria Riverbed</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/calfire-battles-vegetation-fire-in-santa-maria-riverbed/>
 
 ---
 

@@ -1,11 +1,263 @@
 ---
 title: science and technology
-updated: 2024-10-17 17:23:43
+updated: 2024-10-18 07:12:37
 ---
 
 # science and technology
 
-(date: 2024-10-17 17:23:43)
+(date: 2024-10-18 07:12:37)
+
+---
+
+## Spectre flaws continue to haunt Intel and AMD as researchers find fresh attack method
+
+date: 2024-10-18, updated: 2024-10-18, from: The Register (UK I.T. News)
+
+<h4>The indirect branch predictor barrier is less of a barrier than hoped</h4> <p>Six years after the Spectre transient execution processor design flaws were disclosed, efforts to patch the problem continue to fall short.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/18/spectre_problems_continue_amd_intel/>
+
+---
+
+## See the Wreck of Ernest Shackleton's 'Endurance' in Astonishing Detail With This New 3D Scan
+
+date: 2024-10-18, from: Smithsonian Magazine
+
+Created from more than 25,000 high-resolution images, the digital model shows artifacts from the ill-fated expedition, including a boot, dishes and a flare gun 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/see-the-wreck-of-ernest-shackletons-endurance-in-astonishing-detail-with-this-new-3d-scan-180985274/>
+
+---
+
+## How the Human Brain Contends With the Strangeness of Zero
+
+date: 2024-10-18, from: Quanta Magazine
+
+Zero, which was invented late in history, is special among numbers. New studies are uncovering how the brain creates something out of nothing.            <p>The post <a href="https://www.quantamagazine.org/how-the-human-brain-contends-with-the-strangeness-of-zero-20241018/" target="_blank">How the Human Brain Contends With the Strangeness of Zero</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/how-the-human-brain-contends-with-the-strangeness-of-zero-20241018/>
+
+---
+
+## Tech giants set to pay through the nose for nuclear power that's still years away
+
+date: 2024-10-18, updated: 2024-10-18, from: The Register (UK I.T. News)
+
+<h4>Google, Amazon, Microsoft dive into costly deals that aren&#39;t generating anything yet</h4> <p>Nuclear power contracts signed by hyperscalers show they&#39;re desperate for reliable &#34;clean and green&#34; energy sources to feed their ever-expanding datacenter footprints, however, investment bank Jefferies warns that these tech giants are likely to end up paying over the odds to get it.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/18/big_tech_nuclear_power/>
+
+---
+
+## Alleged Bitcoin crook faces 5 years after SEC's X account pwned
+
+date: 2024-10-18, updated: 2024-10-18, from: The Register (UK I.T. News)
+
+<h4>SIM swappers strike again, warping cryptocurrency prices</h4> <p>An Alabama man faces five years in prison for allegedly attempting to manipulate the price of Bitcoin by pwning the US Securities and Exchange Commission&#39;s X account earlier this year.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/18/sec_bitcoin_arrest/>
+
+---
+
+## Richard Branson to take balloon ride to edge of space
+
+date: 2024-10-18, updated: 2024-10-18, from: The Register (UK I.T. News)
+
+<h4>No Zero-G shenanigans, but a fully stocked bar and spectacular views</h4> <p>Richard Branson is taking to the skies again, this time hitching a ride to the top of the Earth&#39;s atmosphere in a Space Perspective balloon.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/18/branson_space_perspective_balloon/>
+
+---
+
+## Archaeologists Discover Mysterious Jade Dragon Artifact at a 5,000-Year-Old Tomb in China
+
+date: 2024-10-18, from: Smithsonian Magazine
+
+Hundreds of artifacts have been unearthed at a burial mound in the city of Chifeng, but researchers are particularly intrigued by the six-inch-long object 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/archaeologists-discover-mysterious-jade-dragon-artifact-at-a-5000-year-old-tomb-in-china-180985288/>
+
+---
+
+## ESET denies it was compromised as Israeli orgs targeted with 'ESET-branded' wipers
+
+date: 2024-10-18, updated: 2024-10-18, from: The Register (UK I.T. News)
+
+<h4>Says &#39;limited&#39; incident isolated to &#39;partner company&#39;</h4> <p>ESET denies being compromised after an infosec researcher highlighted a wiper campaign that appeared to victims as if it was launched using the Slovak security shop&#39;s infrastructure.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/18/eset_denies_israel_branch_breach/>
+
+---
+
+## Hubble Captures a New View of Galaxy M90
+
+date: 2024-10-18, from: NASA breaking news
+
+This NASA/ESA Hubble Space Telescope image features the striking spiral galaxy Messier 90 (M90, also NGC 4569), located in the constellation Virgo. In 2019, Hubble released an image of M90 created with Wide Field and Planetary Camera 2 (WFPC2) data taken in 1994, soon after its installation. That WFPC2 image has a distinctive stair-step pattern […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/>
+
+---
+
+## Someone's finally taking on £10M Hull City Council ERP deal to replace Oracle
+
+date: 2024-10-18, updated: 2024-10-18, from: The Register (UK I.T. News)
+
+<h4>Step forward Workday after mega long procurement to support system that went live 22 years ago</h4> <p>More than two and a half years after it began talking to vendors, a city council in northern England has awarded a contract to Workday for £10.7 million ($14 million) to create a finance and HR system that will replace the ageing Oracle ERP installation.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/18/workday_erp_hull_city_council/>
+
+---
+
+## HashiCorp unveils 'Terraform 2.0' while tiptoeing around Big Blue elephant in the room
+
+date: 2024-10-18, updated: 2024-10-18, from: The Register (UK I.T. News)
+
+<h4>HashiConf shindig oddly reluctant to mention impending IBM acquisition</h4> <p>HashiCorp&#39;s annual HashiConf shindig wrapped up in Boston with a Big Blue elephant in the room and a hissed instruction: &#34;Don&#39;t mention IBM!&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/18/hashicorp_hashiconf_terraform_updates/>
+
+---
+
+## Yes, your network is down – you annoyed us so much we crashed it
+
+date: 2024-10-18, updated: 2024-10-18, from: The Register (UK I.T. News)
+
+<h4>If you bluff your way out of unpaid bills, there&#39;s a chance someone could call you on it</h4> <p><strong>On Call</strong>  By the end of a working week, it can be tempting to just blow up whatever tech you&#39;ve toiled for days to tame. Which is why each Friday <i>The Register</i> offers a (hopefully) cathartic instalment of On Call, the reader-contributed column in which you share your tetchiest tech support tales.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/18/on_call/>
+
+---
+
+## What is Air Quality?
+
+date: 2024-10-18, from: NASA breaking news
+
+Clean air is essential for healthy living, but according to the World Health Organization (WHO), almost 99% of the global population breathes air exceeding their guideline limits of air pollution. “Air quality is a measure of how much stuff is in the air, which includes particulates and gaseous pollutants,” said Kristina Pistone, a research scientist [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/what-is-air-quality/>
+
+---
+
+## Server-maker Wiwynn expands $61M lawsuit against X
+
+date: 2024-10-18, updated: 2024-10-18, from: The Register (UK I.T. News)
+
+<h4>Finds two more reasons Musk should have known he was on the hook for datacenter kit</h4> <p>Taiwanese contract manufacturer Wiwynn has added two more counts to its complaint against Elon Musk&#39;s social network X, alleging hasn&#39;t paid for hardware it had contracted to buy.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/18/wiwynn_vs_x/>
+
+---
+
+## Intel hits back at China's accusations it bakes in NSA backdoors
+
+date: 2024-10-18, updated: 2024-10-18, from: The Register (UK I.T. News)
+
+<h4>Chipzilla says it obeys the law wherever it is, which is nice</h4> <p>Intel has responded to Chinese claims that its chips include security backdoors at the direction of America&#39;s NSA.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/18/intel_china_security_allegations/>
+
+---
+
+## Sols 4336-4337: Where the Streets Have No Name
+
+date: 2024-10-18, from: NASA breaking news
+
+Earth planning date: Wednesday, Oct. 16, 2024 Curiosity continues to drive along the western edge of the upper Gediz Vallis channel. After exiting the channel a few weeks ago, we turned north to image the “back side” of the deposits that we investigated on the eastern side before the channel crossing. As a member of […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4336-4337-where-the-streets-have-no-name/>
+
+---
+
+## Biz hired, and fired, a fake North Korean IT worker – then the ransom demands began
+
+date: 2024-10-18, updated: 2024-10-18, from: The Register (UK I.T. News)
+
+<h4>&#39;My webcam isn&#39;t working today&#39; is the new &#39;The dog ate my network&#39;</h4> <p>It&#39;s a pattern cropping up more and more frequently: a company fills an IT contractor post, not realizing it&#39;s mistakenly hired a North Korean operative. The phony worker almost immediately begins exfiltrating sensitive data, before being fired for poor performance. Then the six-figure ransom demands – accompanied by proof of the stolen files – start appearing.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/18/ransom_fake_it_worker_scam/>
+
+---
+
+## Someone's tried sneaking semiconductor secrets out of South Korea's patent office
+
+date: 2024-10-18, updated: 2024-10-18, from: The Register (UK I.T. News)
+
+<h4>Government hardens up infosec to stop this - as you would when Samsung and SK hynix are massive parts of your economy</h4> <p>South Korea announced new measures on Thursday to prevent future leaks of technology from its patent office, after noticing increasing incidence of leaks and worrying that it could hurt local companies when stolen IP goes overseas.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/18/korea_ip_theft/>
+
+---
+
+## Healthcare Services Group discloses 'cybersecurity incident' in SEC filing
+
+date: 2024-10-18, updated: 2024-10-18, from: The Register (UK I.T. News)
+
+<h4>Laundry and dining provider still investigating cause and scope</h4> <p>Healthcare Services Group (HSG) has disclosed &#34;unauthorized activity within some of its systems&#34; in a Securities and Exchange Commission (SEC) filing.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/18/healthcare_services_group_attack/>
+
+---
+
+## Uncle Sam puts $10M bounty on Russian troll farm Rybar
+
+date: 2024-10-18, updated: 2024-10-18, from: The Register (UK I.T. News)
+
+<h4>Propaganda op focuses on anti-West narratives to meddle with elections</h4> <p>The US has placed a $10 million bounty on Russian media network Rybar and a number of its key staffers following alleged attempts to sway the upcoming US presidential election.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/18/us_rybar_bounty/>
+
+---
+
+## Destiny Robotics settles SEC case over AI-powered human robot vaporware
+
+date: 2024-10-18, updated: 2024-10-18, from: The Register (UK I.T. News)
+
+<h4>Raised $141k+ crowdfunding, but now powered down</h4> <p>The SEC has reached a deal with defunct Destiny Robotics after investors lost all their capital when the startup failed to produce the promised product.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/18/destiny_robotics_sec_settlement/>
 
 ---
 
@@ -489,11 +741,11 @@ date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
 
 ---
 
-## Critical default credential bug in Kubernetes Image Builder allows SSH root access
+## Critical default credential in Kubernetes Image Builder allows SSH root access
 
-date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
+date: 2024-10-16, updated: 2024-10-18, from: The Register (UK I.T. News)
 
-<h4>It&#39;s called leaving the door wide open – especially in Proxmox</h4> <p>A critical bug in Kubernetes Image Builder could allow unauthorized SSH access to virtual machines (VMs) thanks to default credentials being enabled during the image build process.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>It&#39;s called leaving the door wide open – especially in Proxmox</h4> <p>A critical bug in Kubernetes Image Builder could allow unauthorized SSH access to virtual machines (VMs) thanks to default credentials being included during the image build process.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 

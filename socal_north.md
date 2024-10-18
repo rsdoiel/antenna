@@ -1,11 +1,71 @@
 ---
 title: socal north
-updated: 2024-10-17 17:23:42
+updated: 2024-10-18 07:12:36
 ---
 
 # socal north
 
-(date: 2024-10-17 17:23:42)
+(date: 2024-10-18 07:12:36)
+
+---
+
+## A federal grand jury has been investigating OC Supervisor Do’s daughter’s group, court filing says
+
+date: 2024-10-18, updated: 2024-10-18, from: The LAist
+
+Rhiannon Do faces a “threat of criminal prosecution,” as do other leaders of the nonprofit Viet America Society, according to a state court filing by a lawyer representing the group's leaders in a civil fraud lawsuit. 
+
+<br> 
+
+<https://laist.com/news/politics/federal-grand-jury-oc-supervisor-do-viet-america-society>
+
+---
+
+## Lake Forest is Orange County’s under-the-radar dining destination
+
+date: 2024-10-18, updated: 2024-10-18, from: The LAist
+
+Lake Forest, located in South Orange County, boasts many restaurants specializing in international cuisine. We've previewed some for you on your next trip down south. 
+
+<br> 
+
+<https://laist.com/news/food/lake-forest-is-orange-countys-under-the-radar-dining-destination>
+
+---
+
+## Measure J: Tustin Unified School District facilities bond
+
+date: 2024-10-18, updated: 2024-10-18, from: The LAist
+
+The Tustin Unified School District asks voters to approve a $261 million bond through increased property taxes. 
+
+<br> 
+
+<https://laist.com/news/politics/2024-election-california-general-tustin-unified-measure-j-bond-for-school-facilities>
+
+---
+
+## LA County urged to look into fears that Chiquita Canyon landfill caused cancer
+
+date: 2024-10-18, updated: 2024-10-18, from: The LAist
+
+Lawmakers say that seven people living near the landfill have developed cancer in the past six years. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/cancer-cluster-fears-chiquita-canyon-landfill>
+
+---
+
+## Measure O: La Habra City School District facilities bond
+
+date: 2024-10-18, updated: 2024-10-18, from: The LAist
+
+La Habra City School District is asking voters to approve a $73 million bond paid for through property taxes. 
+
+<br> 
+
+<https://laist.com/news/politics/2024-election-california-general-la-habra-city-measure-o-bond-for-school-facilities>
 
 ---
 
@@ -365,7 +425,7 @@ The East Whittier City School District is asking voters to approve a $97 million
 
 ## Is a college program funded by taxpayers allowed to exclude students with convictions?
 
-date: 2024-10-15, updated: 2024-10-15, from: The LAist
+date: 2024-10-15, updated: 2024-10-18, from: The LAist
 
 Advocates say barring formerly incarcerated students can keep them from securing gainful employment. 
 

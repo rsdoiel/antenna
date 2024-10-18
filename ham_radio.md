@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2024-10-17 17:23:42
+updated: 2024-10-18 07:12:36
 ---
 
 # ham radio
 
-(date: 2024-10-17 17:23:42)
+(date: 2024-10-18 07:12:36)
+
+---
+
+## Understand the hardware dependencies of IoT security
+
+date: 2024-10-18, from: EDN Blog
+
+<img width="627" height="481" src="https://www.edn.com/wp-content/uploads/Fig-1-IoT-security-PSA.png?fit=627%2C481" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-1-IoT-security-PSA.png?w=627 627w, https://www.edn.com/wp-content/uploads/Fig-1-IoT-security-PSA.png?w=300 300w" sizes="(max-width: 627px) 100vw, 627px" /><p>Developers need to be aware of the distinctions between different forms of hardware support for embedded-systems security.</p>
+<p>The post <a href="https://www.edn.com/understand-the-hardware-dependencies-of-iot-security/" data-wpel-link="internal">Understand the hardware dependencies of IoT security</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/understand-the-hardware-dependencies-of-iot-security/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2024-10-17 17:23:42
 
 date: 2024-10-17, from: EDN Blog
 
-<img width="800" height="445" src="https://www.edn.com/wp-content/uploads/Renesas-IO-Link.jpg?fit=800%2C445" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Renesas-IO-Link.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Renesas-IO-Link.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Renesas-IO-Link.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Renesas has introduced the CCE4511 four-channel IO-Link master IC and the ZSSC3286, an IO-Link-ready sensor signal conditioner IC.</p>
+<img width="800" height="445" src="https://www.edn.com/wp-content/uploads/Renesas-IO-Link.jpg?fit=800%2C445" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Renesas-IO-Link.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Renesas-IO-Link.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Renesas-IO-Link.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Renesas has introduced the CCE4511 four-channel IO-Link master IC and the ZSSC3286, an IO-Link-ready sensor signal conditioner IC.</p>
 <p>The post <a href="https://www.edn.com/ics-optimize-io-link-communications/" data-wpel-link="internal">ICs optimize IO-Link communications</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

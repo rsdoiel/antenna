@@ -1,19 +1,19 @@
 ---
 title: weather
-updated: 2024-10-17 17:23:43
+updated: 2024-10-18 07:12:37
 ---
 
 # weather
 
-(date: 2024-10-17 17:23:43)
+(date: 2024-10-18 07:12:37)
 
 ---
 
-## SPC - No watches are valid as of Fri Oct 18 00:02:02 UTC 2024
+## SPC - No watches are valid as of Fri Oct 18 13:37:02 UTC 2024
 
 date: 2024-10-18, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Fri Oct 18 00:02:02 UTC 2024. 
+No watches are valid as of Fri Oct 18 13:37:02 UTC 2024. 
 
 <br> 
 
@@ -21,11 +21,11 @@ No watches are valid as of Fri Oct 18 00:02:02 UTC 2024.
 
 ---
 
-## SPC - No MDs are in effect as of Fri Oct 18 00:02:02 UTC 2024
+## SPC - No MDs are in effect as of Fri Oct 18 13:37:02 UTC 2024
 
 date: 2024-10-18, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Fri Oct 18 00:02:02 UTC 2024. 
+No Mesoscale Discussions are in effect as of Fri Oct 18 13:37:02 UTC 2024. 
 
 <br> 
 
@@ -33,11 +33,117 @@ No Mesoscale Discussions are in effect as of Fri Oct 18 00:02:02 UTC 2024.
 
 ---
 
+## SPC Oct 18, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-10-18, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0751 AM CDT Fri Oct 18 2024
+
+Valid 181300Z - 191200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS OVER PARTS OF
+THE SOUTHERN ROCKIES AND SOUTHERN HIGH PLAINS...
+
+...SUMMARY...
+Isolated severe hail, damaging gusts and a tornado or two will be
+possible this afternoon and evening over parts of the southern
+Rockies and southern High Plains.
+
+...Synopsis...
+In mid/upper levels, a heretofore progressive and high-amplitude
+pattern will slow down temporarily, across the western half of the
+CONUS.  A strong trough is apparent in moisture-channel imagery from
+the northern Rockies south-southwestward across the Great Basin to
+near the lower Colorado River Valley.  A 500-mb low is forming along
+the trough in NV -- and will deepen through the period while
+anchoring an increasingly pronounced and slower-moving cyclone.  By
+00Z, the low should be over central AZ between FLG-PHX, then wobble
+erratically over the same area through the remainder of the period. 
+
+At 11Z, the surface analysis showed a cold front from northwestern
+MN, through a low between PIR-HON, then southwestward to another low
+near AKO and into central CO.  This front should shift slowly
+southeastward through the period, to a position from northeastern MN
+to northeastern NE to near RTN by 12Z.  There it should connect to
+another cold front now analyzed from a surface low over southeastern
+UT, southwestward across northern/southwestern AZ.  The western
+front should move east-southeastward into central NM tonight, then
+decelerate in step with the associated mid/upper cyclone.  A vast,
+continental anticyclone surrounds a high analyzed over western PA,
+and covers most of the CONUS from the Mississippi Valley eastward,
+with ridging southwestward across south TX.  The high should remain
+over the interior Mid-Atlantic region through the period, while
+ridging persists southwestward through south TX.
+
+...Southern Rockies/High Plains region...
+A band of convection -- now producing considerable lighting from
+southeastern UT into northern AZ -- should persist through much of
+the period and shift eastward-southeastward, reaching from the San
+Juan Mountains of southwestern CO across much of western NM between
+00Z-03Z this evening.  While isolated strong gusts or small hail may
+occur with this partly frontally forced activity, very limited
+buoyancy should preclude an organized severe threat.  Farther east,
+isolated to widely scattered thunderstorms should form in the warm
+sector this afternoon, over and near the ranges from the Guadalupe
+Mountains northward to the east side of the Sangre de Cristos. 
+Convection also may develop over adjoining Plains, given diurnal
+heating in a weakly capped setting that lacks an antecedent EML. 
+Some of this activity may become supercellular amidst increasing
+deep shear, with isolated damaging gusts and severe hail possible. 
+Tornado potential still appears marginal.
+
+A host of mostly offsetting factors continue in the forecast
+environment in and near the outlook area today, keeping the
+unconditional severe probabilities in the marginal range for this
+cycle.  Thermodynamically, the immobility and intensity of the
+low-level anticyclone over the East will limit favorable moisture to
+a narrow, only partially Gulf-modified return-flow corridor through
+the period.  50s F surface dewpoints -- already common at lower
+elevations in eastern NM, should mix into the 40s F where diurnal
+heating is most sustained today over the Plains.  Upper 40s to lower
+50s dewpoints may persist farther northwest under more persistently
+cloudy areas, leading to greater RH and lower LCL, but amid cooler
+surface temperatures.  However, at higher elevations, this still may
+support surface-based effective-inflow parcels.  With the coolest
+midlevel temperatures and strongest DCVA aloft lagging closer to the
+cyclone core, and mostly behind the low-level cold front, poor
+midlevel lapse rates will limit buoyancy over the region.  This, and
+lack of richer moisture, should keep MLCAPE generally in the 300-800
+J/kg range -- and highly variable depending on elevation and patchy
+heating/mixing. 
+
+Vertical shear amid southwest flow aloft will strengthen through the
+evening along/ahead of the western frontal zone as the cyclone digs
+into AZ.  Enlarging hodographs and low-level shear will accompany a
+strengthening low-level jet and greater moisture this evening and
+tonight over much of eastern NM, along/ahead of the slow-moving
+frontal convective arc.  However, this also will coincide with
+nocturnal boundary-layer stabilization and likely an increasingly
+messy convective mode.  A window of tornado potential may exist from
+late afternoon into early evening during that transition, especially
+at higher elevations of the Plains/mesa country, but still appears
+too isolated and conditional for more than marginal probabilities.
+
+..Edwards/Goss.. 10/18/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
 ## There are no tropical cyclones at this time.
 
-date: 2024-10-17, from: Eastern Pacific Basin GIS Data
+date: 2024-10-18, from: Eastern Pacific Basin GIS Data
 
-No tropical cyclones as of Thu, 17 Oct 2024 23:17:59 GMT 
+No tropical cyclones as of Fri, 18 Oct 2024 11:56:08 GMT 
 
 <br> 
 
@@ -47,7 +153,7 @@ No tropical cyclones as of Thu, 17 Oct 2024 23:17:59 GMT
 
 ## NHC Atlantic Outlook
 
-date: 2024-10-17, from: Graphical Tropical Weather Outlooks
+date: 2024-10-18, from: Graphical Tropical Weather Outlooks
 
 
 <br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
@@ -56,9 +162,9 @@ date: 2024-10-17, from: Graphical Tropical Weather Outlooks
 <img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
 <br /><br />
 <div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 PM EDT Thu Oct 17 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>1. East of the Leeward Islands (AL94):<br>A poorly-defined trough of low pressure located a couple of hundred <br>miles east of the Leeward Islands is producing some disorganized <br>showers and thunderstorms. Development, if any, of this disturbance <br>should be slow to occur while it moves quickly westward to <br>west-northwestward at around 20 mph, passing near the Virgin Islands <br>and Puerto Rico on Friday, then near Hispaniola and the southeastern <br>Bahamas on Saturday. By late this weekend, further development is <br>not expected due to strong upper-level winds.<br>* Formation chance through 48 hours...low...10 percent.<br>* Formation chance through 7 days...low...20 percent.<br><br />
-2. Western Caribbean Sea (AL95):<br>Satellite images show a broad area of low pressure over the western <br>Caribbean Sea is gradually becoming better defined, and nearby buoy <br>observations indicate surface pressures are falling. The associated <br>shower and thunderstorm activity has increased since yesterday, and <br>environmental conditions appear conducive for some additional <br>development over the next couple of days. A short-lived tropical <br>depression or storm could form before the system moves inland over <br>Belize and the Yucatan Peninsula of Mexico on Saturday. Regardless <br>of development, locally heavy rainfall is likely across portions of <br>Central America and southern Mexico through the weekend.<br>* Formation chance through 48 hours...medium...40 percent.<br>* Formation chance through 7 days...medium...40 percent.<br><br />
-<br>Forecaster Reinhart<br></div></div><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Fri Oct 18 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>1. North of Puerto Rico and the Virgin Islands (AL94):<br>A trough of low pressure is producing disorganized showers and <br>thunderstorms extending a couple hundred miles north of Puerto Rico <br>and the Virgin Islands. Development, if any, of this disturbance <br>should be slow to occur while it moves quickly westward to <br>west-northwestward at around 20 mph, continuing north of Puerto <br>Rico and the Virgin Islands today, then near Hispaniola and the <br>southeastern Bahamas this weekend. Further development is not <br>expected due to strong upper-level winds by early next week.<br>* Formation chance through 48 hours...low...10 percent.<br>* Formation chance through 7 days...low...10 percent.<br><br />
+2. Western Caribbean Sea (AL95):<br>Widespread showers and thunderstorms continue across the <br>northwestern Caribbean Sea in association with a broad area of low <br>pressure that is gradually becoming better defined to the north of <br>eastern Honduras. Environmental conditions appear conducive for some <br>additional development over the next day or so, and a short-lived <br>tropical depression or storm could form before the system moves <br>inland over Belize and the Yucatan Peninsula of Mexico on Saturday. <br>Regardless of development, locally heavy rainfall is likely across <br>portions of Central America and southern Mexico through the weekend.<br>* Formation chance through 48 hours...medium...50 percent.<br>* Formation chance through 7 days...medium...50 percent.<br><br />
+<br>Forecaster Hogsett/Cangialosi<br></div></div><br />
  
 
 <br> 
@@ -67,26 +173,38 @@ ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS N
 
 ---
 
+## Eastern Pacific
+
+date: 2024-10-18, from: Eastern Pacific Tropical Weather Outlook
+
+   
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
 ## Central North Pacific Tropical Weather Outlook
 
-date: 2024-10-17, from: Central Pacific Basin Tropical Cyclones
+date: 2024-10-18, from: Central Pacific Basin Tropical Cyclones
 
 
 <br/>
 000<br/>
-ACPN50 PHFO 172314<br/>
+ACPN50 PHFO 181102<br/>
 TWOCP <br/>
 <br/>
 Tropical Weather Outlook<br/>
 NWS Central Pacific Hurricane Center Honolulu HI<br/>
-200 PM HST Thu Oct 17 2024<br/>
+200 AM HST Fri Oct 18 2024<br/>
 <br/>
 For the central North Pacific...between 140W and 180W:<br/>
 <br/>
 No tropical cyclones are expected during the next 7 days.<br/>
 <br/>
 $$<br/>
-Forecaster JVC<br/>
+Forecaster Gibbs<br/>
  
 
 <br> 
@@ -97,9 +215,9 @@ Forecaster JVC<br/>
 
 ## There are no tropical cyclones at this time.
 
-date: 2024-10-17, from: Central Pacific Basin Tropical Cyclones
+date: 2024-10-18, from: Central Pacific Basin Tropical Cyclones
 
-No tropical cyclones as of Thu, 17 Oct 2024 23:17:59 GMT 
+No tropical cyclones as of Fri, 18 Oct 2024 11:56:08 GMT 
 
 <br> 
 
@@ -107,37 +225,47 @@ No tropical cyclones as of Thu, 17 Oct 2024 23:17:59 GMT
 
 ---
 
-## Eastern North Pacific Tropical Weather Outlook
+## SPC Day 2 Fire Weather Outlook
 
-date: 2024-10-17, from: Eastern Pacific Basin Tropical Cyclones
+date: 2024-10-18, from: NOAA Weather Forecasts
 
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0138 AM CDT Fri Oct 18 2024
 
-<br/>
-000<br/>
-ABPZ20 KNHC 172305<br/>
-TWOEP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS National Hurricane Center Miami FL<br/>
-500 PM PDT Thu Oct 17 2024<br/>
-<br/>
-For the eastern North Pacific...east of 140 degrees west longitude:<br/>
-<br/>
-South of Southwestern Mexico:<br/>
-An area of low pressure is expected to form during the middle part <br/>
-of next week well offshore of southwestern Mexico.  Thereafter, <br/>
-gradual development is possible as the system moves westward at 10 <br/>
-to 15 mph.<br/>
-* Formation chance through 48 hours...low...near 0 percent.<br/>
-* Formation chance through 7 days...low...30 percent.<br/>
-<br/>
-$$<br/>
-Forecaster Hagen<br/>
+Valid 191200Z - 201200Z
+
+...Synopsis...
+Localized elevated conditions are anticipated Saturday morning
+through early afternoon across parts of coastal southern CA and the
+northwestern Sacramento Valley. The upper-level trough currently
+deepening over the Great Basin is expected to begin occluding by
+early Saturday over the Southwest. Elevated fire weather conditions
+will likely be ongoing within the higher terrain of the southern CA
+coast at the start of the period, but will become increasingly
+localized through the day as low to mid-level winds abate with the
+weakening synoptic low. Elevated conditions may linger into the late
+afternoon between the San Gabriel and Sierra Madre ranges where gap
+winds around 15 mph should coincide with 10-20% RH values around
+peak heating. Further north, northerly down-valley winds are
+expected to persist through the northern Sacramento Valley. However,
+as with areas further south, a general weakening of the regional
+pressure gradient should yield diminishing winds through the
+afternoon, with more localized elevated fire weather conditions as a
+result.
+
+..Moore.. 10/18/2024
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
  
 
 <br> 
 
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
 
 ---
 
@@ -178,73 +306,6 @@ fire-weather risk.
 <br> 
 
 <https://www.spc.noaa.gov/products/exper/fire_wx/>
-
----
-
-## SPC Day 2 Fire Weather Outlook
-
-date: 2024-10-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0258 PM CDT Thu Oct 17 2024
-
-Valid 181200Z - 191200Z
-
-...CRITICAL FIRE WEATHER AREA FOR PORTIONS OF VENTURA...LOS
-ANGELES...SAN BERNARDINO...AND RIVERSIDE COUNTIES IN SOUTHERN
-CALIFORNIA...
-
-A Critical area was added over portions of Ventura, Los Angeles, San
-Bernardino, and Riverside Counties in southern California. The
-latest high-resolution guidance consensus lends increased confidence
-in the overlap of strong offshore winds (gusts ranging from 45 to 55
-mph) and single-digit to lower-teens RH on Friday morning/afternoon,
-and potentially again during the early morning hours on Saturday.
-The best overlap of the strong/gusty winds and low RH are expected
-over the typical wind-prone valleys/mountains (e.g., San Gabriel,
-Santa Monica, and Santa Ana Mountains and foothills). Upon
-coordination with the local forecast offices, fuels are supportive
-of large-fire spread, warranting the upgrade to Critical. 
-
-Elsewhere, the previous forecast (see below) remains on track.
-
-..Weinman.. 10/17/2024
-
-.PREV DISCUSSION... /ISSUED 0153 AM CDT Thu Oct 17 2024/
-
-...Synopsis...
-As a surface low settles into the Southwest, strong southerly flow
-will continue across the Central and Southern Plains. This low-level
-flow will advect moisture northward which will eliminate most of the
-fire weather concern across the Plains. 
-
-Very strong mid-level flow will overspread the Southwest as a
-compact upper-level cyclone slides east-southeast. Sustained winds
-of 30+ mph are likely beneath the strongest mid-level flow. Fuels
-across Arizona and New Mexico are not critically dry and therefore,
-no fire weather concerns have been highlighted at this time. 
-
-However, dry fuels are present across California where some Elevated
-fire weather conditions are likely within the Central Valley,
-Coastal Ranges of the central and northern portions of the state,
-and in terrain favored areas of southern California. In addition to
-the strong winds Friday afternoon, the Santa Ana winds will likely
-strengthen again 06-12Z Saturday. This will occur as the LAX-TPH
-gradient strengthens to near 10-12 mb as diurnal cooling, and high
-pressure in the Great Basin strengthens the pressure gradient across
-southern California.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
 
 ---
 
@@ -294,63 +355,6 @@ appears low.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html>
-
----
-
-## SPC Oct 17, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-10-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0731 AM CDT Thu Oct 17 2024
-
-Valid 171300Z - 181200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Organized severe thunderstorms are not expected through tonight.
-
-...Synopsis...
-In mid/upper levels, a highly amplified yet progressive pattern will
-persist through the period, as a strong, synoptic-scale ridge shifts
-eastward over the Great Lakes, and the Mississippi/Ohio/Tennessee
-Valleys.  Upstream, a strong trough now near the coastal Pacific
-Northwest will dig southeastward across interior parts of the West
-Coast States today into this evening, and much of the western Great
-Basin/Intermountain regions overnight.  By 12Z, a 500-mb low should
-form over eastern NV, along a trough extending from the northern
-Rockies to the lower Colorado River Valley.  As that occurs, a
-weaker, shortwave trough -- evident in moisture-channel imagery near
-the NV/UT and CA/AZ borders, should eject northeastward over the
-central Rockies and central/northern High Plains, while weakening. 
-By the end of the period, broadly cyclonic flow will cover most of
-the western CONUS.
-
-Ahead of the strengthening main (Pacific Northwest) trough, height
-falls and areas of DCVA/cooling aloft are forecast.  Those will
-overlie a southeastward-surging low-level cold front across the
-Intermountain region, and support isolated to widely scattered
-thunderstorm potential over a vast swath of the West, either side of
-the front.  Meager but sufficient low/midlevel moisture -- mostly
-with distant/indirect origins in the subtropical gulfs either side
-of northern Mexico -- will support this convection.  Strong gusts
-may accompany some of the afternoon and early evening activity
-along/ahead of the cold front across northern parts of NV/UT, amidst
-strengthening deep shear.  However, overall moisture/buoyancy appear
-too meager to outline an unconditional severe area at this time.
-
-..Edwards/Goss.. 10/17/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 
 ---
 

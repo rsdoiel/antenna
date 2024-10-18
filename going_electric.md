@@ -1,11 +1,159 @@
 ---
 title: going electric
-updated: 2024-10-17 17:23:45
+updated: 2024-10-18 07:12:39
 ---
 
 # going electric
 
-(date: 2024-10-17 17:23:45)
+(date: 2024-10-18 07:12:39)
+
+---
+
+## Mystery deaths and no cash, Northvolt may now get a rescue package
+
+date: 2024-10-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/05/Northvolt-Drei-gigafactory.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Europe’s “green dream” <a href="https://electrek.co/guides/northvolt/">Northvolt </a>is fighting to keep afloat. The Swedish-owned battery maker is now hoping a fresh injection of millions of dollars from its cofounder will generate a rescue package from other investors and keep the lights on.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="europe,northvolt" data-layer-viewtype="unknown" data-post-id="384882" href="https://electrek.co/2024/10/18/mystery-deaths-and-no-cash-northvolt-may-now-get-a-rescue-package/#more-384882" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/18/mystery-deaths-and-no-cash-northvolt-may-now-get-a-rescue-package/>
+
+---
+
+## Fatal Tesla crash with Full-Self-Driving (Supervised) triggers NHTSA investigation
+
+date: 2024-10-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>All Tesla vehicles with Full Self-Driving (Supervised) in the US are now under NHTSA investigation after a fatal crash raised doubts about the system’s handling of low-visibility situations.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="384886" href="https://electrek.co/2024/10/18/fatal-tesla-crash-with-full-self-driving-supervised-triggers-nhtsa-investigation/#more-384886" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/18/fatal-tesla-crash-with-full-self-driving-supervised-triggers-nhtsa-investigation/>
+
+---
+
+## Wheel-E Podcast: Several e-bike bankruptcies rattle the industry
+
+date: 2024-10-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time that includes several bankruptices from companies like Juiced Bikes, FUELL, and Energica, as well as some fun news like Microlino’s newest microcar and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="podcast,wheel-e-podcast" data-layer-viewtype="unknown" data-post-id="384855" href="https://electrek.co/2024/10/18/wheel-e-podcast-several-e-bike-bankruptcies-rattle-the-industry/#more-384855" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/18/wheel-e-podcast-several-e-bike-bankruptcies-rattle-the-industry/>
+
+---
+
+## New Audi A3 PHEV Has As Much Range As EVs From A Decade Ago
+
+date: 2024-10-18, from: Inside EVs News
+
+With more battery capacity over the older model, the A3 Sportback PHEV is now one of the longest-range PHEVs available today. 
+
+<br> 
+
+<https://insideevs.com/news/737908/audi-a3-phev-more-range/>
+
+---
+
+## Screaming Genesis G80 EV Lease Deal Has A Toyota Corolla-Sized Bonus
+
+date: 2024-10-18, from: Inside EVs News
+
+Compared to a Tesla Model S lease, this is nearly half the price. 
+
+<br> 
+
+<https://insideevs.com/news/737912/2024-genesis-electrified-g80-lease-deal/>
+
+---
+
+## Tesla’s Cybertruck backlog is depleted – can now be ordered without reservation
+
+date: 2024-10-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Screenshot-2024-10-18-at-3.38.47AM.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Tesla Cybertruck is now open for orders to anyone – whether or not you were one of its millions of reservation holders.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="384859" href="https://electrek.co/2024/10/18/teslas-cybertruck-backlog-is-depleted-can-now-be-ordered-without-reservation/#more-384859" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/18/teslas-cybertruck-backlog-is-depleted-can-now-be-ordered-without-reservation/>
+
+---
+
+## Here’s every electric vehicle that currently qualifies for the US federal tax credit in 2024
+
+date: 2024-10-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/11/Electric-vehicle-tax-credits-2024.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>As sales of electric vehicles continue to grow in 2024, many new and prospective customers have questions about qualifying for a <a href="https://electrek.co/guides/ev-federal-tax-credit/">federal tax credit</a> on electric vehicles. Whether your vehicle qualifies or not is a simple yes or no question, but the amount you may qualify for varies by household due to a number of different factors. Luckily, we have compiled everything you need to know about tax credits for your new or current electric vehicle into one place.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="160594" href="https://electrek.co/2024/10/18/which-electric-vehicles-qualify-us-federal-tax-credit-ev-2024/#more-160594" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/18/which-electric-vehicles-qualify-us-federal-tax-credit-ev-2024/>
+
+---
+
+## Nissan’s Best-Selling SUV Is Finally Going Hybrid
+
+date: 2024-10-18, from: Inside EVs News
+
+The Rogue will be Nissan’s first hybrid in the United States. And it can’t come soon enough. 
+
+<br> 
+
+<https://insideevs.com/news/737863/nissan-rogue-phev-2025/>
+
+---
+
+## Exclusive: FUELL goes bankrupt, offers ‘cold comfort’ to stranded e-bike customers
+
+date: 2024-10-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/fuell-bankrupt-image.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>FUELL Inc., the electric bicycle and e-motorcycle startup built largely on the name of the legendary motorcycle visionary Erik Buell, has entered into chapter 7 bankruptcy proceedings.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bankruptcy,ebikes" data-layer-viewtype="unknown" data-post-id="384846" href="https://electrek.co/2024/10/17/fuell-announces-bankruptcy-offers-cold-comfort-to-stranded-e-bike-customers/#more-384846" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/17/fuell-announces-bankruptcy-offers-cold-comfort-to-stranded-e-bike-customers/>
+
+---
+
+## EV or gas – which is right for you? A new tool from Ford Pro has answers!
+
+date: 2024-10-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/ev-gas.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On today’s educational episode of <em><a href="https://www.youtube.com/@ElectrekDaily">Quick Charge</a>,</em> Ford Pro cross vehicle brand manager Nate McDonald is here to tell us about a new fleet management tool that can help give fleets a better answer to that modern question: <strong>When is the right time to electrify</strong>?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford,ford-pro-charging,quick-charge" data-layer-viewtype="unknown" data-post-id="384830" href="https://electrek.co/2024/10/17/ev-or-gas-which-is-right-for-you-a-new-tool-from-ford-pro-could-help/#more-384830" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/17/ev-or-gas-which-is-right-for-you-a-new-tool-from-ford-pro-could-help/>
 
 ---
 

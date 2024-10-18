@@ -1,11 +1,63 @@
 ---
 title: libraries
-updated: 2024-10-17 17:23:44
+updated: 2024-10-18 07:12:38
 ---
 
 # libraries
 
-(date: 2024-10-17 17:23:44)
+(date: 2024-10-18 07:12:38)
+
+---
+
+## ARL and the California Digital Library Kick Off Machine Actionable Plans (MAP) Pilot Site Visits at Northwestern University Feinberg School of Medicine, Galter Health Sciences Library
+
+date: 2024-10-18, from: Association of Research Libraries News
+
+<p>Last Updated on October 18, 2024, 9:50 am ET   In September, the Association of Research Libraries (ARL) and the California Digital Library (CDL) conducted a site visit to the...</p>
+<p>The post <a href="https://www.arl.org/blog/arl-and-the-california-digital-library-kick-off-machine-actionable-plans-map-pilot-site-visits-at-northwestern-university-feinberg-school-of-medicine-galter-health-sciences-library/">ARL and the California Digital Library Kick Off Machine Actionable Plans (MAP) Pilot Site Visits at Northwestern University Feinberg School of Medicine, Galter Health Sciences Library</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/arl-and-the-california-digital-library-kick-off-machine-actionable-plans-map-pilot-site-visits-at-northwestern-university-feinberg-school-of-medicine-galter-health-sciences-library/>
+
+---
+
+## How to improve the metadata coverage and quality of open scholarly metadata databases?
+
+date: 2024-10-18, from: ETH Zurich Research Archives
+
+Find out and take part in the webinar on 24 October 2024. Read more<img src="https://analytics.library.ethz.ch/piwik.php?idsite=1&amp;rec=1&amp;url=https%3A%2F%2Frc-blog.ethz.ch%2Fen%2Fhow-to-improve-the-metadata-coverage-and-quality-of-open-scholarly-metadata-databases%2F&amp;action_name=How+to+improve+the+metadata+coverage+and+quality+of+open+scholarly+metadata+databases%3F&amp;urlref=https%3A%2F%2Frc-blog.ethz.ch%2Fen%2Ffeed%2F" style="border:0;width:0;height:0" width="0" height="0" alt="" /> 
+
+<br> 
+
+<https://rc-blog.ethz.ch/en/how-to-improve-the-metadata-coverage-and-quality-of-open-scholarly-metadata-databases/>
+
+---
+
+## A Celebration of Developmental Biology
+
+date: 2024-10-18, from: Scholarly Kitchen
+
+<p>In celebration of this year's Nobel Prize in Physiology or Medicine, we offer this short film on The Fascinating World of Developmental Biology.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/10/18/a-celebration-of-developmental-biology/">A Celebration of Developmental Biology</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2024/10/18/a-celebration-of-developmental-biology/>
+
+---
+
+## FAST: Fast and Accurate Security Testing of HRP UWB Chips
+
+date: 2024-10-18, from: ETH Zurich, recently added
+
+Aad, Graciana; Camurati, Giovanni; Dell’Amico, Matteo; Capkun, Srdjan 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/700680>
 
 ---
 

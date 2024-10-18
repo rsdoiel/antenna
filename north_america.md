@@ -1,11 +1,202 @@
 ---
 title: north america
-updated: 2024-10-17 17:23:42
+updated: 2024-10-18 07:12:35
 ---
 
 # north america
 
-(date: 2024-10-17 17:23:42)
+(date: 2024-10-18 07:12:35)
+
+---
+
+## Ukranian fighter finds US-made M224 mortar effective on front lines
+
+date: 2024-10-18, from: VOA News USA
+
+When it comes to military equipment being sent to Ukraine, big-ticket items like Patriot missiles and F-16 fighter jets come to mind. But for many Ukrainian soldiers, the U.S.-made 60-millimeter M224 mortars, also used by the U.S. Marine Corps, have been highly effective against Russian forces. Anna Kosstutschenko has the story. Video: Pavel Suhodolskiy 
+
+<br> 
+
+<https://www.voanews.com/a/ukranian-fighter-finds-us-made-m224-mortar-effective-on-front-lines/7827383.html>
+
+---
+
+## Wanna extend your life? Save democracy? Join a club.
+
+date: 2024-10-18, from: Marketplace Morning Report
+
+<p>For <a href="https://www.marketplace.org/collection/documentary-studies-econ-extra-credit/">this month&#8217;s Econ Extra Credit</a>, we&#8217;re watching “Join or Die: A Film About Why You Should Join a Club.” Today, we&#8217;re joined by the films co-producers to discuss the threat loneliness poses to our individual health and the health of our community, as well as the benefits of joining a club — anything from a bowling team to a pickleball league or PTA. But first, we&#8217;ll take the pulse of China&#8217;s economy.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/18/mmr_20241018_MMR_2_64.mp3"></source>
+</audio> <a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/18/mmr_20241018_MMR_2_64.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/wanna-extend-your-life-save-democracy-join-a-club>
+
+---
+
+## Wildfire Emissions Are Skyrocketing
+
+date: 2024-10-18, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MzgzMzk5NC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3Nzk2NTY0NH0.FZNTteCEXekA4tZnoKAAqSVR6oe_Mqj14f4mq1m33js/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>
+<em><strong>Current conditions:</strong> Fire weather in California has prompted intentional power cuts for more than 5,000 PG&E customers • Large parts of central and northern Italy are flooded after heavy rains • The eastern U.S. will see <a href="https://www.weather.gov/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-82XB_i-lp3XoRBXMYxxIsA4a5rvXpbSRYKOe4y_Yzo8X-0jKE8b6xNZ9dYjkboonWqIEwJ" rel="noopener noreferrer" target="_blank">“tranquil and near seasonable”</a> weather this weekend.</em>
+</p><h2>THE TOP FIVE</h2><h3>1. Forest fire CO2 emissions have skyrocketed since 2001</h3><p>
+	Carbon emissions from forest fires have risen by 60% in two decades, according to a new <a href="https://www.science.org/doi/10.1126/science.adl5889?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-82XB_i-lp3XoRBXMYxxIsA4a5rvXpbSRYKOe4y_Yzo8X-0jKE8b6xNZ9dYjkboonWqIEwJ" rel="noopener noreferrer" target="_blank">study</a> published in the journal <em>Science</em>. “We had to check the calculations because it’s such a big number,” Matthew Jones, the lead author of the report and a physical geographer at the University of East Anglia in England, <a href="https://www.nytimes.com/2024/10/17/climate/carbon-fires-forests-global-warming.html?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-82XB_i-lp3XoRBXMYxxIsA4a5rvXpbSRYKOe4y_Yzo8X-0jKE8b6xNZ9dYjkboonWqIEwJ" rel="noopener noreferrer" target="_blank">told</a> <em><em>The New York Times</em></em>. “It’s revealed something quite staggering.” The research specifically links this trend to climate change, which is creating hotter, drier conditions. Emissions from boreal forest fires in Canada and Siberia saw a particularly large increase between 2001 and 2023. In one type of boreal forest, emissions nearly tripled. The rise in emissions from forests – which normally serve as large carbon sinks – “poses a major challenge for global targets to tackle climate change,” the researchers said.
+</p><h3>2. NFL stadiums could see huge losses from climate disasters</h3><p>
+	NFL stadiums across the country could suffer $11 billion in losses by 2050 due to climate-related disasters, according to a new <a href="https://www.climate-x.com/articles/industry/report-projects-11-billion-financial-losses-for-nfl-stadiums-by-2050-due-to-climate-risks?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-82XB_i-lp3XoRBXMYxxIsA4a5rvXpbSRYKOe4y_Yzo8X-0jKE8b6xNZ9dYjkboonWqIEwJ" rel="noopener noreferrer" target="_blank">report</a> from climate risk analysis firm Climate X. The report ranks 30 stadiums based on their vulnerability to extreme weather events. MetLife Stadium in New Jersey ranks highest, with damages exceeding $5.6 billion by 2050. California’s SoFi Stadium and Arizona’s State Farm Stadium are also highly exposed. It’s worth noting that the Climate X analysis uses a “high-emissions” scenario that would see temperatures rise by 4.3 degrees Celsius by 2100. The International Energy Agency <a href="https://www.iea.org/reports/world-energy-outlook-2024?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-82XB_i-lp3XoRBXMYxxIsA4a5rvXpbSRYKOe4y_Yzo8X-0jKE8b6xNZ9dYjkboonWqIEwJ" rel="noopener noreferrer" target="_blank">estimates</a> we’re more on track to see about 2.4 degrees Celsius of warming by the end of the century.
+</p><h3>3. Biden administration approves large Fervo geothermal project</h3><p>
+	The Interior Department yesterday <a href="https://www.doi.gov/pressreleases/biden-harris-administration-takes-major-steps-accelerate-clean-energy-geothermal?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-82XB_i-lp3XoRBXMYxxIsA4a5rvXpbSRYKOe4y_Yzo8X-0jKE8b6xNZ9dYjkboonWqIEwJ" rel="noopener noreferrer" target="_blank">announced</a> the approval of Fervo’s Cape Geothermal Power Project in Utah. The project could generate up to 2 gigawatts of electricity, which would supply power to more than 2 million homes. Fervo’s <a href="https://www.energy.gov/eere/geothermal/enhanced-geothermal-systems?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-82XB_i-lp3XoRBXMYxxIsA4a5rvXpbSRYKOe4y_Yzo8X-0jKE8b6xNZ9dYjkboonWqIEwJ" rel="noopener noreferrer" target="_blank">enhanced geothermal system</a> works by injecting water into hot rock beneath Earth’s surface and using the heated water to generate electricity.
+</p><p>
+	In government funding news, the Department of Energy on Friday announced $2 billion for <a href="https://www.energy.gov/sites/default/files/2024-10/101824_Grid_Resilience_and_Innovation_Partnership_Program_Selections.pdf?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-82XB_i-lp3XoRBXMYxxIsA4a5rvXpbSRYKOe4y_Yzo8X-0jKE8b6xNZ9dYjkboonWqIEwJ" target="_blank">38 grid transmission projects</a> across 42 states. This is the the third round of awards from the Grid Resilience and Innovation Partnerships Program. The DOE estimates these projects will create 6,000 jobs and support <a href="https://www.eenews.net/articles/doe-delivers-2b-to-expand-grid-for-renewables-extreme-weather/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-82XB_i-lp3XoRBXMYxxIsA4a5rvXpbSRYKOe4y_Yzo8X-0jKE8b6xNZ9dYjkboonWqIEwJ" target="_blank">7.5 gigawatts</a> of capacity.
+</p><h3>4. Coral bleaching crisis worsens </h3><p>
+	More than three-quarters (77%) of all the coral reef areas on the planet have experienced heat stress that can trigger coral bleaching since February 2023, representing the largest mass bleaching event ever recorded, <em><em>Reuters</em></em> <a href="https://www.reuters.com/business/environment/global-coral-bleaching-event-expands-now-largest-record-2024-10-17/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-82XB_i-lp3XoRBXMYxxIsA4a5rvXpbSRYKOe4y_Yzo8X-0jKE8b6xNZ9dYjkboonWqIEwJ" target="_blank">reported</a>. “This event is still increasing in spatial extent and we’ve broken the previous record by more than 11% in about half the amount of time,” said NOAA Coral Reef Watch coordinator Derek Manzello. “This could potentially have serious ramifications for the ultimate response of these reefs to these bleaching events.” Researchers have called for an emergency session on coral bleaching to be held at the UN COP16 biodiversity summit in Colombia, which starts on October 21.
+</p><h3>5. Study finds widespread climate anxiety among young Americans</h3><p>
+	Climate change is causing “widespread distress” among America’s young people, according to a new <a href="https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(24)00229-8/fulltext?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-82XB_i-lp3XoRBXMYxxIsA4a5rvXpbSRYKOe4y_Yzo8X-0jKE8b6xNZ9dYjkboonWqIEwJ" rel="noopener noreferrer" target="_blank">study</a> published in <em><em>The Lancet</em></em> that is the first of its kind to focus on the U.S. The researchers surveyed some 15,800 people between the ages of 16 and 25 and found that:
+</p><ul>
+<li>85% of respondents reported being worried about the climate crisis.</li>
+<li>For nearly 60% of respondents, those worries were rated as extreme.</li>
+<li>More than 40% said the climate crisis was affecting their mental health.</li>
+<li>Three quarters expressed feeling afraid of the future.</li>
+<li>70% said climate change will influence where they choose to live.</li>
+<li>More than half of the respondents expressed hesitancy to have children due to climate change.</li>
+</ul><p>
+	“These effects may intensify, across the political spectrum, as exposure to climate-related severe weather events increases,” the authors said. The state-by-state breakdown of how concerned people feel is quite interesting:
+</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="e69ad6019f3f4cb75b23fb72350d57c7" data-rm-shortcode-name="rebelmouse-image" id="b55f5" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MzgzMzk5My9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc3ODYxMDg3NH0.-pYvXuUqEn_Vtw55ofcWVy7_LRH7KLyQAJrJatOBKcQ/image.png?width=980"/>
+<small class="image-media media-photo-credit" placeholder="Add Photo Credit...">The Lancet</small>
+</p><h2>THE KICKER</h2><p>
+	New York State has <a href="https://www.governor.ny.gov/news/governor-hochul-announces-new-york-state-has-achieved-major-solar-milestone-year-early?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-82XB_i-lp3XoRBXMYxxIsA4a5rvXpbSRYKOe4y_Yzo8X-0jKE8b6xNZ9dYjkboonWqIEwJ#:~:text=Governor%20Kathy%20Hochul%20today%20announced,a%20year%20ahead%20of%20schedule." rel="noopener noreferrer" target="_blank">reached</a> its goal of installing 6 gigawatts of distributed solar generation one year ahead of schedule.
+</p><p><br/></p><p><br/></p><p><em>Editor's note: An earlier version of this article inaccurately described the generating capacity of the Fervo project in item number three. It has since been corrected. We regret the error. </em></p> 
+
+<br> 
+
+<https://heatmap.news/climate/wildfire-emissions-forests-climate>
+
+---
+
+## China’s economic growth slows
+
+date: 2024-10-18, from: Marketplace Morning Report
+
+<p><em>From the BBC World Service:</em> China’s GDP grew in the third quarter at the slowest pace since early last year. Then, in Japan, the anime industry has hit a milestone: its value has topped $2 billion thanks to hit movies and the growth of streaming services. And the European Union is looking at &#8220;right to switch off&#8221; rules for employees, a legal right to ignore business emails and calls outside of working hours.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/18/mmr_20241018_MMR_1__64.mp3"></source>
+</audio> <a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/18/mmr_20241018_MMR_1__64.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/chinas-economic-growth-slows>
+
+---
+
+## Biden, Scholz to discuss antisemitism concerns during Germany meeting
+
+date: 2024-10-18, from: VOA News USA
+
+berlin — U.S. President Joe Biden and German Chancellor Olaf Scholz will discuss increased reports of antisemitic acts in both countries over the last year as war has raged in the Middle East when they meet Friday in Berlin, a Biden administration official told reporters on the eve of Biden’s state visit to Germany.
+
+
+“This is an area where the United States and Germany have worked very closely,” said the official, who was not named as a condition of the Wednesday night briefing.
+
+
+The official added that while Biden is unlikely to hold a specific event centered on antisemitism during his one-day visit, the issue is “very important to President Biden, and one that he has, that we have, discussed with the German government over the years and continue to do so.”
+
+
+The official did not give any more details on engagements or plans.
+
+
+
+
+Watchdogs have sounded the alarm in both countries: According to a German government report, antisemitic incidents rose by about 83% last year. In the United States, the Anti-Defamation League has said that U.S. antisemitic incidents “skyrocketed” in the months after Hamas militants attacked Israel last October.
+
+
+Biden has clearly tied the recent rise in anti-Jewish acts to a growing backlash over his staunch support of Israel.
+
+
+In May, he spoke at the first Holocaust Remembrance Day since the start of the war on October 7, 2023. He warned of a “ferocious” rise in antisemitic incidents and said that, at the height of university protests, “Jewish students [were] blocked, harassed, attacked, while walking to class.”
+
+
+He said protesters used “antisemitic posters, slogans calling for the annihilation of Israel, the world’s only Jewish state.”
+
+
+Earlier this month, he spoke of his belief that “without an Israel, every Jew in the world’s security is less stable.”
+
+
+He added, “It doesn’t mean that Jewish leadership doesn’t have to be more progressive than it is, but it does mean it has to exist, and that’s what worries me most about what’s going on now.”
+
+
+Germany’s World War II history makes it particularly sensitive to this type of hatred, but critics say it has taken steps that stifle legitimate criticism.
+
+
+In November, weeks into the Gaza conflict, a German museum canceled a show by a South African artist after she expressed support for the Palestinian cause. Candice Breitz, the artist, who is Jewish, called the act another example of “Germany’s increasingly entrenched habit of weaponizing false charges of antisemitism against intellectuals and cultural workers of various descriptions.”
+
+
+In March, police canceled a conference of pro-Palestinian activists because a planned speaker had previously made antisemitic remarks. They blocked him from entering Germany and cut power to the Berlin building where conference participants had gathered to watch him on a livestream.
+
+
+On the first anniversary of the war, Scholz warned against growing anti-Jewish sentiment and affirmed his support for Israel.
+
+
+“We will never accept antisemitism and blind hatred of Israel. The Jewish people here in Germany have the full solidarity of our state,” he said.
+
+
+
+
+A difficult definition
+
+
+Key to managing antisemitism is the question of whether criticism of Israel is, by definition, antisemitic.
+
+
+The Federal Association of Research and Information Centers for Antisemitism, Germany’s antisemitism watchdog, uses a working definition from the International Holocaust Remembrance Alliance, describing antisemitism as “a certain perception of Jews, which may be expressed as hatred toward Jews.” Although its definition of antisemitism does not mention Israel, many of its cited examples of antisemitism do.
+
+
+The U.S. State Department also uses that definition, but when the White House produced its first strategy on antisemitism last year, before the start of the Gaza war, the strategy was not based solely on that definition.
+
+
+One Jewish rights group that worked with the White House on the strategy said the decision to codify the definition of antisemitism “would only have made it harder to recognize and respond to antisemitic attacks in context" and "would have opened the door to infringement of First Amendment rights.”
+
+
+That group, T’ruah: The Rabbinic Call for Human Rights, also opposed a proposed bill in Congress using the group’s definition, with CEO Rabbi Jill Jacobs saying in a statement: “The profoundly misguided Antisemitism Awareness Act does nothing to keep Jews safe, while also threatening the civil liberties fundamental to this country.”
+
+
+
+
+Second gentleman Douglas Emhoff, who led the rollout of the White House strategy, said it is more important to look at what antisemitism does than what it is.
+
+
+"At its core, antisemitism divides us, erodes our trust in government, institutions and one another," he said. "It threatens our democracy while undermining our American values of freedom, community and decency. Antisemitism delivers simplistic, false and dangerous narratives that have led to extremists perpetrating deadly violence against Jews.”
+
+
+History professor Jonathan Elukin of Trinity College in Hartford, Connecticut, said the definition of antisemitism has shifted over the centuries. He focuses on antisemitism in the medieval and early modern periods — before Israel was founded.
+
+
+This iteration of antisemitism in the U.S., he told VOA, is “more associated with a kind of larger sense of an anti-Western, anti-modern kind of feeling, both on the far right and on the far left. They both seem to be converging in some ways on resentment, hatred, suspicion, anxiety about the Jews.”
+
+
+As for the sentiment on the far right, he said, “I think it's more a kind of tribal nostalgic sense that America is supposed to be or was thought to be kind of a Christian nation.”
+
+
+He said the debate over definitions obscures a problem.
+
+
+“Does it even matter whether it fits some kind of arbitrary notion of antisemitism, which in itself is a very arbitrary and time-bound definition?” he asked.
+
+
+But, he said, talking about the problem is a start.
+
+
+“In the short term, obviously it requires education, activism, political leadership to draw the line at acceptable or what's not acceptable expressions of anti-Jewish sentiment,” he said. “Both here and abroad.”
+
+
+Kim Lewis contributed to this report. 
+
+<br> 
+
+<https://www.voanews.com/a/biden-scholz-to-discuss-antisemitism-concerns-during-germany-meeting-/7827028.html>
 
 ---
 
@@ -222,6 +413,18 @@ date: 2024-10-17, from: Capital and Main
 <br> 
 
 <https://capitalandmain.com/raising-californias-minimum-wage-has-not-cost-jobs>
+
+---
+
+## Bond Ambition in Leadership's Battle for Belief
+
+date: 2024-10-17, updated: 2024-10-17, from: RAND blog
+
+In an age of information overload, leaders must build &ldquo;bond ambition&rdquo; by creating authentic connections and trust, beyond mere tactical communication. This involves meaningful narratives and consistent actions to forge lasting bonds and shared visions. 
+
+<br> 
+
+<https://www.rand.org/pubs/commentary/2024/10/bond-ambition-in-leaderships-battle-for-belief.html>
 
 ---
 

@@ -1,11 +1,83 @@
 ---
 title: motorcycles
-updated: 2024-10-17 17:23:44
+updated: 2024-10-18 07:12:38
 ---
 
 # motorcycles
 
-(date: 2024-10-17 17:23:44)
+(date: 2024-10-18 07:12:38)
+
+---
+
+## New Hampshire's Fish and Game Will Offer Free, Yes Free, Snowmobile Safety Classes
+
+date: 2024-10-18, from: Ride Apart, Electric Motorcycle News
+
+Get schooled, son.  
+
+<br> 
+
+<https://www.rideapart.com/news/737804/new-hampshire-fish-and-game-snowmobile-safety-classes/>
+
+---
+
+## You’re an Idiot if You Don’t Wear a Helmet, New Study Finds
+
+date: 2024-10-18, from: Ride Apart, Electric Motorcycle News
+
+Time to call a spade a spade. 
+
+<br> 
+
+<https://www.rideapart.com/news/737823/repealed-helmet-laws-study-deaths/>
+
+---
+
+## There’s a New World Record For Being Dragged Behind a Motorcycle, Apparently
+
+date: 2024-10-18, from: Ride Apart, Electric Motorcycle News
+
+Is there a Guinness World Record for the most pointless Guinness World Record? 
+
+<br> 
+
+<https://www.rideapart.com/news/737706/fastest-speed-dragged-behind-motorcycle-world-record/>
+
+---
+
+## French Motorcyclists Are About To Set Fire to Paris Over Lane Filtering Ban
+
+date: 2024-10-18, from: Ride Apart, Electric Motorcycle News
+
+Is that why it's called the City of Lights? Also, solidarity. 
+
+<br> 
+
+<https://www.rideapart.com/news/737824/french-bikers-protest-paris-speedlimit/>
+
+---
+
+## Public Lands Are Core to Utah's Senate Battle, Boils Over During Debate
+
+date: 2024-10-18, from: Ride Apart, Electric Motorcycle News
+
+They're our lands, not Utah's.  
+
+<br> 
+
+<https://www.rideapart.com/news/737809/public-lands-utah-senate-debate-caroline-gleich/>
+
+---
+
+## No, It’s Not OK To Dump E-Bikes In the Lake Just Because You Hate Them
+
+date: 2024-10-18, from: Ride Apart, Electric Motorcycle News
+
+Mindless stupidity has tons of not-so-mindless consequences.  
+
+<br> 
+
+<https://www.rideapart.com/news/737702/divvy-bikes-lake-michigan-problem/>
 
 ---
 

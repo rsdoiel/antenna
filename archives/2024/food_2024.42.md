@@ -1,11 +1,203 @@
 ---
 title: food
-updated: 2024-10-17 17:23:45
+updated: 2024-10-18 07:12:39
 ---
 
 # food
 
-(date: 2024-10-17 17:23:45)
+(date: 2024-10-18 07:12:39)
+
+---
+
+## Costco Is Selling a Le Creuset Set, But You Need to Win the Lottery to Afford It
+
+date: 2024-10-18, from: Taste of Home
+
+<p>This 170-piece Le Creuset set is sure to fill your kitchen and empty your wallet.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/costco-le-creuset-set/">Costco Is Selling a Le Creuset Set, But You Need to Win the Lottery to Afford It</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/costco-le-creuset-set/>
+
+---
+
+## You Might Pay More for Butter This Holiday Baking Season—Here’s Why
+
+date: 2024-10-18, from: Taste of Home
+
+<p>The price of butter will be higher throughout the Thanksgiving and Christmas holidays.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/why-are-butter-prices-so-high/">You Might Pay More for Butter This Holiday Baking Season—Here&#8217;s Why</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/why-are-butter-prices-so-high/>
+
+---
+
+## San Diego’s Torque Coffee Revs Up Operations with First Cafe
+
+date: 2024-10-18, from: Daily Coffee News
+
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Torque-Coffee-San-Diego-1-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Torque Coffee San Diego 1" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Torque-Coffee-San-Diego-1-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Torque-Coffee-San-Diego-1-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Torque-Coffee-San-Diego-1-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Torque-Coffee-San-Diego-1-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Torque-Coffee-San-Diego-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Progressive coffee roasting company Torque Coffee is proving to be a force to be reckoned with in San Diego.&#160; After launching with an unprecedented &#8220;proportional pricing&#8221; model in 2022, the... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/10/18/san-diegos-torque-coffee-revs-up-operations-with-first-cafe/>
+
+---
+
+## Weekly Coffee News: GPT-Assisted Grinder Hack + An ‘Espresso Smoker’
+
+date: 2024-10-18, from: Daily Coffee News
+
+<div><img width="620" height="433" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/coffee-grinder-commercial-620x433.jpg" class="attachment-large size-large wp-post-image" alt="coffee grinder commercial" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/coffee-grinder-commercial-620x433.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/coffee-grinder-commercial-300x210.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/coffee-grinder-commercial-150x105.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/coffee-grinder-commercial-768x537.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/coffee-grinder-commercial.jpg 1200w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Check Out This ChatGPT-Assisted Hack for Automating Anti-Static Spray... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/10/18/weekly-coffee-news-gpt-assisted-grinder-hack-an-espresso-smoker/>
+
+---
+
+## Post-Helene, Coffee Techs Are Providing Mobile Water Systems To Cafes In Need
+
+date: 2024-10-18, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. North Carolina is still reeling from the devastation brought on by Hurricane Helene at the end of September. Nearly 100 individuals died in the storm and an equal number are [&#8230;] 
+
+<br> 
+
+<https://sprudge.com/post-helene-coffee-techs-are-providing-mobile-water-systems-to-cafes-in-need-257117.html>
+
+---
+
+## Spicy Apple Butter
+
+date: 2024-10-18, from: Pepper Scale
+
+Want a little sweet and spicy heat to start your day? Try spicy apple butter on a crusty piece of bread. It&#8217;s a yummy way to wake up. Of course, breakfast isn&#8217;t the only use case. Try this spicy apple butter with pork, spread over ... <p class="read-more-container"><a title="Spicy Apple Butter" class="read-more button" href="https://pepperscale.com/spicy-apple-butter/#more-9953" aria-label="Read more about Spicy Apple Butter">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/spicy-apple-butter/>
+
+---
+
+## Homemade Rogan Josh Seasoning
+
+date: 2024-10-18, from: Pepper Scale
+
+Rogan Josh seasoning isn&#8217;t a curry blend on many radars, but it should be. With it, you can make one delicious lamb curry and a whole lot more. It has a lovely red hue and is very aromatic, featuring cardamom, cinnamon, and cloves, among a ... <p class="read-more-container"><a title="Homemade Rogan Josh Seasoning" class="read-more button" href="https://pepperscale.com/rogan-josh-seasoning/#more-77258" aria-label="Read more about Homemade Rogan Josh Seasoning">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/rogan-josh-seasoning/>
+
+---
+
+## Aztec Hot Chocolate (With Smoky Chipotle)
+
+date: 2024-10-18, from: Pepper Scale
+
+If you want the warmth of hot chocolate with a little spicy buzz, you can opt for our traditional spicy cocoa (see the recipe here &#8211; it&#8217;s simple and plenty delicious) or lean into awesome with this Aztec hot chocolate with smoky chipotle powder. There ... <p class="read-more-container"><a title="Aztec Hot Chocolate (With Smoky Chipotle)" class="read-more button" href="https://pepperscale.com/aztec-hot-chocolate/#more-18171" aria-label="Read more about Aztec Hot Chocolate (With Smoky Chipotle)">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/aztec-hot-chocolate/>
+
+---
+
+## Aloo Tikki with Date and Tamarind Chutney
+
+date: 2024-10-18, from: Pepper Scale
+
+Quick, easy, and moreish, these spicy potato fritters are a hugely popular street food in northern India and Pakistan. Our aloo tikkis are fired up with serrano chilies and served with a date and tamarind chutney that’s deliciously hot, sharp, sweet, sour, and seriously simple ... <p class="read-more-container"><a title="Aloo Tikki with Date and Tamarind Chutney" class="read-more button" href="https://pepperscale.com/aloo-tikki-with-date-and-tamarind-chutney/#more-89100" aria-label="Read more about Aloo Tikki with Date and Tamarind Chutney">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/aloo-tikki-with-date-and-tamarind-chutney/>
+
+---
+
+## Honey Sriracha Meatballs
+
+date: 2024-10-18, from: Pepper Scale
+
+Sweet and heat are always a great pairing, but few ingredients match quite as well as honey and Sriracha. These two bold flavors are on the opposite side of the flavor spectrum yet they just work. And when meatballs are the base for these two ... <p class="read-more-container"><a title="Honey Sriracha Meatballs" class="read-more button" href="https://pepperscale.com/honey-sriracha-meatballs/#more-52714" aria-label="Read more about Honey Sriracha Meatballs">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/honey-sriracha-meatballs/>
+
+---
+
+## Will It Oat? Oat Milk’s Explosive Entry Into Coffee—and How It’ll Continue to Transform the Food Industry
+
+date: 2024-10-18, from: The Fresh Cup
+
+<p>Over the last seven years, oat milk has exploded in popularity across the U.S., Europe, Asia, and Latin America, kicked off by the Swedish company Oatly’s appearance on the market in 2017. Uptake was swift: Between 2019 and 2020, the consumption of oat milk increased by 50% or more in places like the U.S., Vietnam,&#8230;</p>
+<p>The post <a href="https://freshcup.com/will-it-oat-oat-milks-explosive-entry-into-coffee-and-how-itll-continue-to-transform-the-food-industry/">Will It Oat? Oat Milk’s Explosive Entry Into Coffee—and How It’ll Continue to Transform the Food Industry</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/will-it-oat-oat-milks-explosive-entry-into-coffee-and-how-itll-continue-to-transform-the-food-industry/>
+
+---
+
+## Fall-Apart Cabbage and More Recipes We Made This Week
+
+date: 2024-10-18, from: Bon Appetet
+
+Like Swiss chard pasta and salted coconut ladoos. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-october-2024>
+
+---
+
+## The Best After-Dinner Drinks, According to Our Staff
+
+date: 2024-10-18, from: Bon Appetet
+
+From classic Italian amari to a new-school coffee liqueur, we love ending big meals with these bottles. 
+
+<br> 
+
+<https://www.bonappetit.com/story/digestifs-after-dinner-drinks-holiday-meals>
+
+---
+
+## Gelatina de Mosaico
+
+date: 2024-10-18, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/gelatina-de-mosaico/"><img title="gelatina-de-mosaico-small-6" src="https://www.isabeleats.com/wp-content/uploads/2024/10/gelatina-de-mosaico-small-6-400x600.jpg" alt="Gelatina de mosaico recipe dish on a table." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	Gelatina de mosaico is a bright and beautiful Mexican dessert that will turn heads at your next party. Three different fruity-flavored gelatin cubes are mixed with a rich and sweet milk-based gelatin that comes together to form a colorful mosaic pattern in every slice. When I first saw gelatina de mosaico as a kid at [&#8230;] 
+
+<br> 
+
+<https://www.isabeleats.com/gelatina-de-mosaico/>
+
+---
+
+## Dehydrating Peppers
+
+date: 2024-10-18, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/preserving-chili-peppers/dehydrating-peppers/" title="Dehydrating Peppers" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Dehydrating-Chili-Peppers-HERO1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A Colorful Collection of Dehydrated chili peppers, chili flakes, and chili powder on a platter" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Dehydrating-Chili-Peppers-HERO1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Dehydrating-Chili-Peppers-HERO1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Dehydrating-Chili-Peppers-HERO1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Dehydrating-Chili-Peppers-HERO1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Dehydrating-Chili-Peppers-HERO1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Dehydrating-Chili-Peppers-HERO1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Dehydrating-Chili-Peppers-HERO1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Instructions for dehydrating chili peppers in a food dehydrator so you can preserve them for later use, make crushed red pepper, or grind them into powders for your own special seasoning blends.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/preserving-chili-peppers/dehydrating-peppers/">Dehydrating Peppers</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/preserving-chili-peppers/dehydrating-peppers/>
 
 ---
 
@@ -143,7 +335,7 @@ date: 2024-10-17, from: The Sprudge
 
 date: 2024-10-17, from: Daily Coffee News
 
-<div><img width="620" height="452" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/B9E4FB2C-18BD-42FF-B4B6-2CB4CB901DA9-98577-00002FF1EC311133-620x452.jpg" class="attachment-large size-large wp-post-image" alt="Cropster" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/B9E4FB2C-18BD-42FF-B4B6-2CB4CB901DA9-98577-00002FF1EC311133-620x452.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/B9E4FB2C-18BD-42FF-B4B6-2CB4CB901DA9-98577-00002FF1EC311133-300x219.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/B9E4FB2C-18BD-42FF-B4B6-2CB4CB901DA9-98577-00002FF1EC311133-150x109.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/B9E4FB2C-18BD-42FF-B4B6-2CB4CB901DA9-98577-00002FF1EC311133-768x560.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/B9E4FB2C-18BD-42FF-B4B6-2CB4CB901DA9-98577-00002FF1EC311133.jpg 1106w" sizes="(max-width: 620px) 100vw, 620px" /></div>Tech-focused investment firm Verdane has acquired a majority stake in coffee business software provider Cropster, the companies announced today. The financial terms were not publicly disclosed. Verdane, which is based... 
+<div><img width="620" height="452" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/B9E4FB2C-18BD-42FF-B4B6-2CB4CB901DA9-98577-00002FF1EC311133-620x452.jpg" class="attachment-large size-large wp-post-image" alt="Cropster" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/B9E4FB2C-18BD-42FF-B4B6-2CB4CB901DA9-98577-00002FF1EC311133-620x452.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/B9E4FB2C-18BD-42FF-B4B6-2CB4CB901DA9-98577-00002FF1EC311133-300x219.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/B9E4FB2C-18BD-42FF-B4B6-2CB4CB901DA9-98577-00002FF1EC311133-150x109.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/B9E4FB2C-18BD-42FF-B4B6-2CB4CB901DA9-98577-00002FF1EC311133-768x560.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/B9E4FB2C-18BD-42FF-B4B6-2CB4CB901DA9-98577-00002FF1EC311133.jpg 1106w" sizes="(max-width: 620px) 100vw, 620px" /></div>Tech-focused investment firm Verdane has acquired a majority stake in coffee business software provider Cropster, the companies announced today. The financial terms were not publicly disclosed. Verdane, which is based... 
 
 <br> 
 
@@ -155,7 +347,7 @@ date: 2024-10-17, from: Daily Coffee News
 
 date: 2024-10-17, from: Daily Coffee News
 
-<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/New-Roaster-620x465.jpg" class="attachment-large size-large wp-post-image" alt="New Roaster" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/New-Roaster-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/New-Roaster-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/New-Roaster-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/New-Roaster-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/New-Roaster.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Expanding its unadulterated pursuit of quality wholesale coffee and service in and around North Carolina, Pure Intentions Coffee recently inaugurated a 16,000-square-foot production headquarters in southwest Charlotte. A brand new... 
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/New-Roaster-620x465.jpg" class="attachment-large size-large wp-post-image" alt="New Roaster" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/New-Roaster-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/New-Roaster-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/New-Roaster-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/New-Roaster-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/New-Roaster.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Expanding its unadulterated pursuit of quality wholesale coffee and service in and around North Carolina, Pure Intentions Coffee recently inaugurated a 16,000-square-foot production headquarters in southwest Charlotte. A brand new... 
 
 <br> 
 
@@ -335,7 +527,7 @@ Friendsgiving is great, but  community leaders say we need to address social iso
 
 date: 2024-10-16, from: Daily Coffee News
 
-<div><img width="620" height="436" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/English-1-620x436.png" class="attachment-large size-large wp-post-image" alt="English" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/English-1-620x436.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/English-1-300x211.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/English-1-150x105.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/English-1-768x540.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/English-1.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Coffee events, podcasting and consulting agency Map It Forward is launching a live online workshop called &#8220;Introduction to Regenerative Coffee Farming.&#8221; The event series is scheduled to span three days,... 
+<div><img width="620" height="436" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/English-1-620x436.png" class="attachment-large size-large wp-post-image" alt="English" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/English-1-620x436.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/English-1-300x211.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/English-1-150x105.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/English-1-768x540.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/English-1.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Coffee events, podcasting and consulting agency Map It Forward is launching a live online workshop called &#8220;Introduction to Regenerative Coffee Farming.&#8221; The event series is scheduled to span three days,... 
 
 <br> 
 
@@ -479,7 +671,7 @@ On this episode of Dinner SOS, Chris and Kendra help caller Rachel prepare to ho
 
 date: 2024-10-16, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/hot-honey-roasted-pumpkin/" title="Hot Honey Roasted Pumpkin Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Hot-Honey-Roasted-Pumpkin-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Slices of Hot Honey Roasted Pumpkin on a serving platter" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Hot-Honey-Roasted-Pumpkin-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Hot-Honey-Roasted-Pumpkin-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Hot-Honey-Roasted-Pumpkin-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Hot-Honey-Roasted-Pumpkin-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Hot-Honey-Roasted-Pumpkin-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Hot-Honey-Roasted-Pumpkin-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Hot-Honey-Roasted-Pumpkin-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This roasted pumpkin recipe is my favorite, lightly spiced, roasted until richly caramelized, then drizzled with sweet and spicy hot honey, a great side.</p>
+<a href="https://www.chilipeppermadness.com/recipes/hot-honey-roasted-pumpkin/" title="Hot Honey Roasted Pumpkin Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Hot-Honey-Roasted-Pumpkin-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Slices of Hot Honey Roasted Pumpkin on a serving platter" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Hot-Honey-Roasted-Pumpkin-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Hot-Honey-Roasted-Pumpkin-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Hot-Honey-Roasted-Pumpkin-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Hot-Honey-Roasted-Pumpkin-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Hot-Honey-Roasted-Pumpkin-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Hot-Honey-Roasted-Pumpkin-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Hot-Honey-Roasted-Pumpkin-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This roasted pumpkin recipe is my favorite, lightly spiced, roasted until richly caramelized, then drizzled with sweet and spicy hot honey, a great side.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/hot-honey-roasted-pumpkin/">Hot Honey Roasted Pumpkin Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

@@ -1,11 +1,53 @@
 ---
 title: home
-updated: 2024-10-17 17:23:44
+updated: 2024-10-18 07:12:38
 ---
 
 # home
 
-(date: 2024-10-17 17:23:44)
+(date: 2024-10-18 07:12:38)
+
+---
+
+## Beneficial Nematodes: All You Need to Know for Gardening
+
+date: 2024-10-18, from: Yard Life blog
+
+<p>In the world of gardening, the soil beneath our feet is often overlooked, yet it is an intricate ecosystem filled ... </p>
+<p class="read-more-container"><a title="Beneficial Nematodes: All You Need to Know for Gardening" class="read-more button" href="https://ownyardlife.com/beneficial-nematodes-all-you-need-to-know-for-gardening/#more-20902" aria-label="Read more about Beneficial Nematodes: All You Need to Know for Gardening">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/beneficial-nematodes-all-you-need-to-know-for-gardening/">Beneficial Nematodes: All You Need to Know for Gardening</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/beneficial-nematodes-all-you-need-to-know-for-gardening/>
+
+---
+
+## Cat Palm Care and Growing Guide for Indoors (Most Detailed)
+
+date: 2024-10-18, from: Yard Life blog
+
+<p>Cat palm, also known as cascade palm or cataract palm (Chamaedorea cataractarum), is a popular indoor plant thanks to its ... </p>
+<p class="read-more-container"><a title="Cat Palm Care and Growing Guide for Indoors (Most Detailed)" class="read-more button" href="https://ownyardlife.com/cat-palm-care-and-growing-guide-for-indoors-most-detailed/#more-20894" aria-label="Read more about Cat Palm Care and Growing Guide for Indoors (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/cat-palm-care-and-growing-guide-for-indoors-most-detailed/">Cat Palm Care and Growing Guide for Indoors (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/cat-palm-care-and-growing-guide-for-indoors-most-detailed/>
+
+---
+
+## You Need a Cool-Weather Garden Tool Kit. Here’s What Should Be Inside It.
+
+date: 2024-10-17, from: Sunset Magazine - Living in the West
+
+There are certain gardening tools that come in handy during the winter season. We're sharing the must-have gear for cooler months. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/winter-gardening-tools>
 
 ---
 
@@ -23,6 +65,18 @@ date: 2024-10-17, from: Family Handyman Blog
 
 ---
 
+## Your End of Summer Garden Bootcamp: 7 Things to Do Right Now
+
+date: 2024-10-17, from: Sunset Magazine - Living in the West
+
+The end of summer means it's time to clean up the garden and get it into working shape. Here's what to do to prepare it for seasons ahead. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/end-of-summer-garden-tasks>
+
+---
+
 ## How To Refinish Wood Furniture
 
 date: 2024-10-17, from: Family Handyman Blog
@@ -34,6 +88,18 @@ date: 2024-10-17, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/project/how-to-refinish-wood-furniture/>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-10-17, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -84,6 +150,30 @@ date: 2024-10-17, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/houseplants/propagate-ficus-cuttings/>
+
+---
+
+## This New Superhighway Unlocks Mexico’s Secret Beach Town
+
+date: 2024-10-17, from: Sunset Magazine - Living in the West
+
+The Barranca Larga-Ventanilla Highway is a 104-kilometer superhighway that Oaxaca City to Puerto Escondido. 
+
+<br> 
+
+<https://www.sunset.com/travel/barranca-larga-ventanilla-highway-open>
+
+---
+
+## ALDI’s Thanksgiving Meal Will Feed 10 People for Less than $47
+
+date: 2024-10-17, from: Sunset Magazine - Living in the West
+
+Hosting Thanksgiving dinner can be expensive, so ALDI is rolling out a deal for the holiday. The grocery chain's meal deal feeds 10 for $47. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/aldi-thanksgiving-basket-meal-deal>
 
 ---
 
@@ -138,18 +228,6 @@ date: 2024-10-17, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/hampton-bay-fire-pit-review/>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-10-17, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 
@@ -350,6 +428,18 @@ date: 2024-10-16, from: The Gardener's Path
 
 ---
 
+## This Is the Easiest Way to Make a Small Space Feel Bigger
+
+date: 2024-10-16, from: Sunset Magazine - Living in the West
+
+Want to make a small space seem bigger without a big renovation project? Interior designers say to add a mirror to trick the eye. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/small-space-mirror-trick>
+
+---
+
 ## Maytag vs Whirlpool Washer: Which Reigns Supreme?
 
 date: 2024-10-16, from: Family Handyman Blog
@@ -525,6 +615,18 @@ The National Weather Service forecasts a weak La Nina emerging this fall and win
 <br> 
 
 <https://www.sunset.com/lifestyle/la-nina-winter-2024>
+
+---
+
+## Turns Out, There’s a Secret Formula to Creating a Nancy Meyers-Inspired Home
+
+date: 2024-10-16, from: Sunset Magazine - Living in the West
+
+Nancy Meyers is known for her heartfelt movies, but she's also known for her impeccable design taste. Here's how to get the look. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/nancy-meyers-design-ideas>
 
 ---
 
