@@ -1,11 +1,303 @@
 ---
 title: columns
-updated: 2024-10-17 07:32:20
+updated: 2024-10-17 17:23:43
 ---
 
 # columns
 
-(date: 2024-10-17 07:32:20)
+(date: 2024-10-17 17:23:43)
+
+---
+
+## Friday 18 October, 2024
+
+date: 2024-10-17, from: John Naughton's online diary
+
+Where am I? Trying to navigate London using Google maps? Quote of the Day ”We cannot say that innovation is necessarily good simply because there is a market for it.” Simon Johnson, who shared this year’s Nobel prize for economics, &#8230; <a href="https://memex.naughtons.org/friday-18-october-2024/39980/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-18-october-2024/39980/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-17, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/11/nakedJenToday.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">One of the things that makes me want to see Automattic stick around and grow is that they have a really large codebase that has been scaled, debugged and maintained for over 20 freaking years. And the most important thing -- they don't break users. The code I wrote to run against WordPress in the 00s still runs today. To me as a developer this speaks very loudly. It means it's safe to develop here. It means there's discipline in their development organization. Most companies don't do this, but the ones who do, have earned my deep respect. For all of Microsoft's sins, they were incredibly good at this too. It's why I liked working with them, and also why we laughed at each others' jokes if you can believe that. In some ways all the open source stuff is too complicated. I understand the concept of "development org" -- so I look at it that way. I dig around their codebase, see how they do things, and figure it'll work out pretty well if I just do it that way. Because the last people they're going to break are themselves. What I see on their latest APIs is maturity and completeness. They didn't rush off to the next thing before finishing. I found that in their Calypso API, which I've been building on. Honestly this is my kind of platform, it's what Manila's API would look like today probably if we had continued developing it. I'll see if I can find the docs around here somewhere. Long time ago. ;-) 
+
+<br> 
+
+<http://scripting.com/2024/10/17.html#a223019>
+
+---
+
+## The European Union’s Interinstitutional Style Guide on Boldfacing for ‘Emphasis’
+
+date: 2024-10-17, updated: 2024-10-17, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://style-guide.europa.eu/en/content/-/isg/topic?identifier=5.8-emphasis>
+
+---
+
+##  Redbox went bankrupt and abandoned their DVD lending machines. Tinkerers have hacked... 
+
+date: 2024-10-17, updated: 2024-10-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045473-redbox-went-bankrupt-and->
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-17, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2022/10/24/rssCoffeeMug.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I made the <a href="https://github.com/scripting/reallysimple">reallySimple package</a> for Node.js because I wanted to make it as easy as possible to read feeds in Node apps. It should be as easy as reading a file. Give it the URL of a feed, get back a JavaScript object that's as simple as feeds are. It can read RSS, Atom and RDF feeds, but you get the same object regardless of what form the feed was in. I'm up for creating some example apps if you're interested. There is a very simple <a href="https://github.com/scripting/reallysimple/tree/main/example">Hello World app</a> included in the package and a set of <a href="https://github.com/scripting/reallysimple/tree/main/demos">demo apps</a>. It's MIT-licensed, so you can do whatever you want with the code. It would lovely to see it ported. The idea is to plant some seeds in the Node.js world to make it easy for developers to try out new ideas with feeds, figuring the easier it is, the more people will do it. Be creative. Blow our minds! :-) 
+
+<br> 
+
+<http://scripting.com/2024/10/17.html#a221105>
+
+---
+
+## FIDO Alliance Is Working on Making Passkeys Portable Across Platforms
+
+date: 2024-10-17, updated: 2024-10-17, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.macrumors.com/2024/10/15/fido-alliance-portable-passkeys-across-platforms/>
+
+---
+
+##  The Biden administration has cancelled $175 billion in student debt for almost... 
+
+date: 2024-10-17, updated: 2024-10-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045477-the-biden-administration->
+
+---
+
+## Apple Passwords’ Generated Strong Password Format
+
+date: 2024-10-17, updated: 2024-10-17, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/>
+
+---
+
+##  This mashup of Y.M.C.A. by the Village People and a track from... 
+
+date: 2024-10-17, updated: 2024-10-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045472-this-mashup-of-ymca-by>
+
+---
+
+## DHH Argues Against Passkeys
+
+date: 2024-10-17, updated: 2024-10-17, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://world.hey.com/dhh/passwords-have-problems-but-passkeys-have-more-95285df9>
+
+---
+
+## Things Are Not Going Well at Automattic
+
+date: 2024-10-17, updated: 2024-10-17, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.404media.co/automattic-buyout-offer-wordpress-matt-mullenweg/>
+
+---
+
+##  A Weird Form of Dark Energy Might Solve a Cosmic Conundrum. &#8220;Estimates... 
+
+date: 2024-10-17, updated: 2024-10-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045471-a-weird-form-of-dark>
+
+---
+
+##  How Cranberries Are Harvested 
+
+date: 2024-10-17, updated: 2024-10-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/how-cranberries-are-harvested-1>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-10-17, from: Miguel de Icaza Mastondon feed)
+
+<p>Working on the usability of the debugger now.   Lots of small details to fix:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113324249910004838>
+
+---
+
+## October 16, 2024
+
+date: 2024-10-17, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/150366627/628ed3830ac0cf3ed653be8f96b9d9dc.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/150366627/628ed3830ac0cf3ed653be8f96b9d9dc.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/october-16-2024-50b>
+
+---
+
+##  Supreme Court Rules 6-3 To Open Evil Tomb Of Batibat. &#8220;Contemporaneous accounts... 
+
+date: 2024-10-17, updated: 2024-10-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045469-supreme-court-rules-6-3-t>
+
+---
+
+## Qualcomm cancels Snapdragon Dev Kit, refunds all orders
+
+date: 2024-10-17, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Qualcomm cancels Snapdragon Dev Kit, refunds all orders</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/snapdragon-developer-kit-for-windows-box.jpeg" alt="Snapdragon Developer Kit for Windows"></p>
+
+<p>This afternoon I received the following email from Arrow, regarding the <a href="https://www.arrow.com/en/products/c8380-12c-mp-32g/thundercomm">Snapdragon Developer Kit for Windows</a>:</p>
+
+<blockquote>
+  <p>Dear Valued Customer,</p>
+  
+  <p>Please see this important message from Qualcomm:</p>
+  
+  <p>”At Qualcomm, we are dedicated to pioneering leading technology and delivering premium experiences to our valued customers. The launch of 30+ Snapdragon X-series powered PC's is a testament to our ability to deliver leading technology and the PC industry's desire to move to our next-generation technology. However, the Developer Kit product comprehensively has not met our usual standards of excellence and so we are reaching out to let you know that unfortunately we have made the decision to pause this product and the support of it, indefinitely.</p></blockquote></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-10-17T12:33:13-05:00" title="Thursday, October 17, 2024 - 12:33" class="datetime">October 17, 2024</time>
+</span> 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2024/qualcomm-cancels-snapdragon-dev-kit-refunds-all-orders>
+
+---
+
+##  Ok, this is a genuinely shocking thing to hear: &#8220;There is a... 
+
+date: 2024-10-17, updated: 2024-10-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045470-ok-this-is-a-genuinely>
+
+---
+
+##  The Binary Game tests you on quickly converting numbers from binary to... 
+
+date: 2024-10-17, updated: 2024-10-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045468-the-binary-game-tests-you>
+
+---
+
+##  &#8220;New research documents accelerating plant growth on the Antarctic Peninsula and nearby... 
+
+date: 2024-10-17, updated: 2024-10-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045396-new-research-documents-ac>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-10-17, from: Miguel de Icaza Mastondon feed)
+
+<p>Ta-Nehesi Coates conversation with Peter Beinart:</p><p><a href="https://podcasts.apple.com/us/podcast/the-clash-between-the-stories-we-tell-the-reality/id1442278034?i=1000673374646" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">podcasts.apple.com/us/podcast/</span><span class="invisible">the-clash-between-the-stories-we-tell-the-reality/id1442278034?i=1000673374646</span></a></p><p>If you are like me and can never do podcasts, you can read the transcript on the link above.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113323444208509521>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-17, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/01/16/rodneyDangerfield.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The question has come up in various contexts, is a Substack feed a blog? Yes, I think it can be. For some reason people thought I'd say no. In 2003, I compiled a list of <a href="https://archive.blogs.harvard.edu/whatmakesaweblogaweblog/">things that make a blog a blog</a>, and it's not about the software you use, rather it's about who's writing it, and whether they're being edited. Now it's a different question to ask if I would use it. I would not. Because it forces you to use their editor. And that's a <a href="https://www.google.com/search?q=pernicious">pernicious</a> form of lock-in. It might sound like a small thing, but it means you can't easily try out something new. You are not available to other software developers as a possible user, so no software will be designed for you. I know how well that kind of system works. And that's probably why they lock you into using their editor. If I can't switch without breaking everything, I'm not going there. 
+
+<br> 
+
+<http://scripting.com/2024/10/17.html#a151304>
+
+---
+
+##  Ravioli and Other Ravioli-Shaped Objects 
+
+date: 2024-10-17, updated: 2024-10-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/ravioli-and-other-ravioli-shaped-objects>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-17, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/04/29/gecko.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Mathew Ingram <a href="https://tormentnexus.substack.com/p/is-ai-going-to-save-us-or-kill-us">asks</a> if AI will save us or kill us. It could both save and kill us. That's what's so disturbing about evolving. We live such short lives, people aren't really designed to evolve, but because of medicine and other tech, we are often forced to do it. Evolution can come many ways. Losing a job may force you to evolve. The dissolution of a marriage. Having life-saving surgery with a long recovery saves you for sure, but it might also kill you because you can't go back to being the person you were before. There might not be a path back. One thing's for sure we <i>need</i> saving. We can't survive without radical change. We're on a path that doesn't work. Is there any way for us to change radically without a complete collapse? Well, actually kind of looks like we might have been given a path out through AI. But it means we must give up control. But here's the funny thing about that. We aren't giving up anything because no one has any control. That's a political question in the US, can one person become a mad king and thus gain complete control. But he's 78 and not in good health, and that control could only last a few years at most. We will need saving from that. If somehow we could configure AI so it did what humans can't and won't do, at least our civilization might have a way forward if not our species. Just some random thoughts. Maybe unthinkable, but they occur to me anyway, which is why I have a blog.  <span class="spOldSchoolEmoji">😄</span> 
+
+<br> 
+
+<http://scripting.com/2024/10/17.html#a145140>
 
 ---
 
@@ -114,9 +406,9 @@ date: 2024-10-17, updated: 2024-10-17, from: Jason Kittke's blog
 
 ---
 
-## The Secretive Dynasty That Controls the Boar’s Head Brand - the New York Times
+## The Secretive Dynasty That Controls the Boar’s Head Brand
 
-date: 2024-10-16, updated: 2024-10-16, from: Daring Fireball
+date: 2024-10-16, updated: 2024-10-17, from: Daring Fireball
 
  
 

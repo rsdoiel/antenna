@@ -1,11 +1,523 @@
 ---
 title: north america
-updated: 2024-10-17 07:32:18
+updated: 2024-10-17 17:23:42
 ---
 
 # north america
 
-(date: 2024-10-17 07:32:18)
+(date: 2024-10-17 17:23:42)
+
+---
+
+## Feeling meh about the economy and anxious about the election
+
+date: 2024-10-17, from: Market Place
+
+<p><span data-olk-copy-source="MessageBody">Recent surveys have found that uncertainty surrounding the presidential election is impacting consumer&#8217;s outlook on the economy. Why are people feeling this way despite strong spending numbers and the recent interest rate cut? </span>Also in this episode: Asheville businesses cope with water scarcity, oil markets are in &#8220;backwardation,&#8221; and clothing resale platforms struggle to turn a profit.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/17/pm_20241017_PM_Podcast_64.mp3"></source>
+</audio> <a href="https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/17/pm_20241017_PM_Podcast_64.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace/feeling-meh-about-the-economy-and-anxious-about-the-election>
+
+---
+
+## Trabajadores de la Industria Hotelera Tocan Millones de Puertas en Arizona en Busca del Voto Latinos Para Kamala Harris
+
+date: 2024-10-17, from: Capital and Main
+
+<p>Uno de cada cuatro votantes es latino en un estado donde Biden ganó pero en el que ahora Trump lleva ventaja.</p>
+<p>The post <a href="https://capitalandmain.com/trabajadores-de-la-industria-hotelera-tocan-millones-de-puertas-en-arizona-en-busca-del-voto-latinos-para-kamala-harris">Trabajadores de la Industria Hotelera Tocan Millones de Puertas en Arizona en Busca del Voto Latinos Para Kamala Harris</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/trabajadores-de-la-industria-hotelera-tocan-millones-de-puertas-en-arizona-en-busca-del-voto-latinos-para-kamala-harris>
+
+---
+
+## Panel urges Secret Service overhaul in response to Trump shooting
+
+date: 2024-10-17, from: VOA News USA
+
+An independent panel formed to investigate the performance of the Secret Service after an assassination attempt in July against former President Donald Trump has called for extensive changes to the agency, including the installation of new leadership from the outside.
+
+
+In a report issued Thursday morning, the panel praised the bravery of the individual agents who work to protect political figures in the United States. However, it blasted their leaders for creating an internal culture that has become "bureaucratic, complacent and static," with the result that "the Secret Service does not perform at the elite levels needed to discharge its critical mission."
+
+
+Without "fundamental reform," the panel warned, other attacks on the agency's protectees "can and will happen again."
+
+
+In a statement, Secret Service Acting Director Ronald L. Rowe Jr. said, "We respect the work of the Independent Review Panel and will carefully examine the report and recommendations released today."
+
+
+He added that the agency has started making changes as a result of the attempted assassination.
+
+
+"We have already significantly improved our readiness, operational and organizational communications and implemented enhanced protective operations for the former president and other protectees," Rowe said.
+
+
+
+
+Failure in Pennsylvania
+
+
+President Joe Biden established the panel after a July 13 episode in Butler, Pennsylvania, in which a young man with a rifle was able to get within a few hundred meters of Trump while he was delivering a campaign speech. The would-be assassin fired several shots; Trump's right ear was struck, but he was not seriously wounded. One bystander was killed, and two others were seriously wounded, before a Secret Service countersniper team killed the gunman.
+
+
+In the aftermath of the incident, it became clear that there had been multiple failures leading up to the assassination attempt. The gunman was identified as a potential danger in advance of the shooting but was not prevented from accessing the roof of a building with a clear line of sight to the stage where Trump was speaking.
+
+
+In the minutes leading up to the shooting, law enforcement officials in the crowd were made aware of the shooter's presence, but because of poor coordination of communications, the information was not relayed to the members of Trump's protective detail near the stage.
+
+
+Panel's recommendations
+
+
+The panel's findings include calls for specific changes to the way the Secret Service handles large events such as the Trump rally in Butler.
+
+
+While the Secret Service has primary responsibility for the security of such events, it relies on other law enforcement agencies, including state and local police, for assistance. The report calls for having a unified command post at events like the Butler rally that would allow better communication among various agencies.
+
+
+The report also calls for creating specific plans for dealing with all locations within 914 meters (1,000 yards) of an event that offer line-of-sight vision of the protectee, overhead surveillance of all outdoor events, improved communication systems and other changes.
+
+
+
+
+Leadership change
+
+
+In the wake of the Butler shooting, Kimberly Cheatle resigned as Secret Service director and was temporarily replaced by Rowe. However, the report issued Thursday calls for a much more extensive shakeup of the agency's higher echelons.
+
+
+Citing "an urgent need for fresh thinking informed by external experience and perspective," the panel recommended that a new director, drawn from outside the Secret Service, be put in place and "be allowed to bring in the leadership team he or she thinks most fit."
+
+
+The new leadership would be charged with addressing multiple problems identified by the investigation, including "a troubling lack of critical thinking" within the agency and "corrosive cultural attitudes regarding resourcing and 'doing more with less.' "
+
+
+The report also urged a refocusing of the agency on its protective duties, to the point of potentially "shedding certain peripheral responsibilities," including complex investigations into financial fraud and counterfeiting.
+
+
+'More with less'
+
+
+Ronald Kessler, an author and journalist who has written two books about the Secret Service, told VOA that the panel correctly identified a number of problems with the agency. In particular, he cited the "do more with less" ethos, which he said has been present in the agency since it was folded into the Department of Homeland Security more than 20 years ago.
+
+
+Kessler said it has become a point of pride in the agency that it operates on a shoestring rather than demanding more funding and resources.
+
+
+"It's a recipe for mediocrity and just the opposite of what anybody would want in any organization," he said.
+
+
+Within the agency, Kessler said, "the way to be promoted has been, 'You don't make waves, you don't ask for more money, you don't point out problems, you don't expose the fact that the technical systems that are just basic don't work.' "
+
+
+Kessler praised the decision to seek outside leadership.
+
+
+"In any organization, when it's failing, you bring in outside people, whether it's a private company or a government agency, and the people do respond," he said.
+
+
+Doubts about outside leadership
+
+
+Paul Eckloff, a 23-year veteran of the agency who served as the assistant special agent in charge of the protection details of Presidents Barack Obama and Trump, said he doubted the wisdom of seeking outside leadership for an agency as unique as the Secret Service.
+
+
+"The report is indicative of some fundamental misunderstandings of how the Secret Service operates, and these misunderstandings would be shared by any outside leader," he told VOA.
+
+
+"It would exacerbate problems within the rank and file, who believe that they are not well represented," Eckloff said. "If the complaint about Secret Service leadership was that they were detached from the operators on the ground — [a job] they ostensibly have done before — imagine a leader who never held a post. How detached would they be?"
+
+
+Eckloff also warned that requiring the agency to focus exclusively on its protective mission would be counterproductive. Serving on a protective detail is extremely intense work, he said, with agents often working weeks at a time without a day off.
+
+
+For that reason, the agency tries to limit the time agents are assigned directly to a protective detail to periods of five to eight years, after which they rotate off and move into investigative work.
+
+
+This leaves the agency with a deep pool of experienced agents who can be called upon to assist in protective details at times when the agency needs to surge its capacity, which occurs at least every four years during presidential elections.
+
+
+The panel reviewed the attack from early August through early October. Members were Mark Filip, a former federal judge and former deputy attorney general; David Mitchell, a former superintendent of the Maryland State Police; Janet Napolitano, former secretary of homeland security; and Frances Townsend, a former homeland security adviser to President George W. Bush. 
+
+<br> 
+
+<https://www.voanews.com/a/panel-urges-secret-service-overhaul-in-response-to-trump-shooting-/7826708.html>
+
+---
+
+## The risky business of corporate political spending
+
+date: 2024-10-17, from: Market Place, Make me Smart
+
+<p>Companies in the United States spend billions in political donations each election cycle with the aim of gaining more influence in government. But all that spending comes with risks. We&#8217;ll get into it. And, we’ll explain why many Americans impacted by recent hurricanes will have to wait for disaster assistance from the Small Business Administration and how former President Trump’s plans for mass deportations could send shockwaves through our nation’s food supply chain. Plus, why are tech companies like Amazon and Google investing in nuclear energy?</p>
+<p>Here&#8217;s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.marketplace.org/2024/10/02/why-companies-spend-all-that-campaign-donation-money/" target="_blank" rel="noreferrer noopener">&#8220;Why companies spend all that campaign donation money&#8221;</a> from Marketplace</li>
+<li><a href="https://www.axios.com/2024/10/16/small-business-disaster-fund-helene-miltion-biden-sba" target="_blank" rel="noreferrer noopener">&#8220;SBA disaster loan program out of money after hurricanes, Biden says&#8221;</a> from Axios</li>
+<li><a href="https://grist.org/food-and-agriculture/mass-deportation-food-trump-immigration-agricultural-workers-us-labor-supply/#:~:text=If%20farmers%20lose%20a%20large%20portion%20of%20their,could%20drive%20up%20prices%20at%20the%20grocery%20store" target="_blank" rel="noreferrer noopener">&#8220;Trump’s proposed mass deportations could ‘decimate’ the US food supply&#8221;</a> from Grist</li>
+<li><a href="https://www.nytimes.com/2024/10/16/us/politics/trump-univision-hispanic-voters.html" target="_blank" rel="noreferrer noopener">&#8220;Trump Faces Tough Questions From Hispanic Voters, but Largely Defends or Dodges&#8221;</a> from The New York Times</li>
+<li><a href="https://www.theverge.com/2024/10/5/24261405/google-microsoft-amazon-tech-data-center-nuclear-energy" target="_blank" rel="noreferrer noopener">&#8220;Big Tech has cozied up to nuclear energy&#8221;</a> from The Verge</li>
+<li><a href="https://www.cnbc.com/2024/10/16/amazon-goes-nuclear-investing-more-than-500-million-to-develop-small-module-reactors.html#:~:text=Last%20spring%2C%20AWS%20invested%20in%20a%20nuclear%20energy,data%20center%20campus%20from%20Talen%20for%20%24650%20million.?msockid=0224d72f162563bf2c55c4ac174f6295" target="_blank" rel="noreferrer noopener">&#8220;Amazon goes nuclear, to invest more than $500 million to develop small modular reactors&#8221;</a> from CNBC</li>
+</ul>
+<p>Join us tomorrow for Economics on Tap. The <a href="https://www.youtube.com/@marketplaceAPM/streams" target="_blank" rel="noreferrer noopener">YouTube livestream</a> starts at 3:30 p.m. Pacific time, 6:30 p.m. Eastern.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-MakeMeSmart/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/17/mms_20241017_MMS_128.mp3"></source>
+</audio> <a href="https://play.podtrac.com/APM-MakeMeSmart/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/17/mms_20241017_MMS_128.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/the-risky-business-of-corporate-political-spending>
+
+---
+
+## Why Climate’s Hardest Problem Might Need a Carbon Market
+
+date: 2024-10-17, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MzgzMjAwNS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTczMDYzNDU5NX0.NHr7qmzaG4ws1Otx-O0fdjWckQCt7EY1yYt20He1pWE/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">Imagine you’re a corporate sustainability exec and your company is planning to build a new data center. You’ve managed to convince the higher-ups to pay extra to use low-carbon building materials, lest the project blow up your brand’s emissions goals. But when you meet with the general contractor hired for the job, they don’t actually know of any low-carbon concrete purveyors in the area. Concrete is a hyper-local industry by necessity — you can’t hold the stuff for more than 90 minutes or so before it hardens and becomes unusable.<br/></p>
+<p>So here you are, one of the few people with the power and budget to pay a premium for zero-emissions concrete — a product that must become the standard if we are to stop climate change — and you can’t even get your hands on it.</p>
+<p>This is, more or less, the situation Microsoft has found itself in. Last year, <a href="https://blogs.microsoft.com/on-the-issues/2024/05/15/microsoft-environmental-sustainability-report-2024/" rel="noopener noreferrer" target="_blank"><u>the company’s indirect emissions rose 31%</u></a>, primarily due to the construction of new data centers. Cement, the main ingredient in concrete, is one of the most carbon-intensive materials on the planet, responsible for 6% of global emissions, according to <a href="https://rhg.com/research/the-global-cement-challenge/" rel="noopener noreferrer" target="_blank"><u>Rhodium Group’s estimate</u></a>. Low-carbon cement exists and is starting to be manufactured at a small scale, but first movers with deep pockets like Microsoft can’t necessarily access it. </p>
+<p>To solve this and help clean cement startups access a bigger pool of buyers, Microsoft is leading the development of a new market for low-carbon cement — what climate finance experts call a “book and claim” market.</p>
+<p>The tech giant has <a href="https://sublime-systems.com/microsoft-signals-intent-to-purchase-environmental-attributes-of-low-carbon-cement-developed-by-sublime-systems/" rel="noopener noreferrer" target="_blank"><u>signed a memorandum of understanding</u></a> with Sublime Systems, a Massachusetts-based cement startup, saying that it will buy “environmental attribute certificates” from Sublime’s first commercial cement plants. Microsoft will “book” the environmental attributes — the greenness, for lack of a better word — of Sublime’s cement, and “claim” those attributes in its own emissions accounting.</p>
+<p>Let’s get a collective <em><em>groan</em></em> out of the way<em><em>.</em></em> Yes, once again, the business community is proposing a sort of carbon credit system as the best way — possibly the only way — to scale climate solutions. These certificates, however, have at least one notable difference from the beleaguered carbon offsets you’ve likely heard so much about: They are tied to a physical product. Microsoft won’t be buying one ton of CO2 avoided or removed from the atmosphere and then subtracting that from its overall emissions ledger. It will be buying the rights to say that it used one ton of cement with a carbon intensity of zero (or whatever the carbon intensity of Sublime’s product ends up being). Instead of neutralizing its cement-related emissions by paying someone to plant trees, it’s doing so by enabling Sublime to sell its clean cement to local buyers at a competitive price. </p>
+<p>“It tremendously simplifies our logistics,” Leah Ellis, the CEO and founder of Sublime Systems told me, by solving the unavoidable problem that at this early point in the company’s development, it would be impossible to deliver its cement to all the early adopters willing to pay extra for it. “We end up doing death by 1,000 pilots if we have to pilot here, there, everywhere. Being able to use the cement locally and have the carbon attribute be counted against Microsoft's Scope 3 emissions is a really innovative way to unstick this whole problem.”</p>
+<p>That’s key. Scope 3 is a category of emissions that encompasses all the carbon that is related to a business but not directly produced by it. When Microsoft builds a data center, it has no direct control over the process used to make the cement that goes into the building. In theory, it does have the ability to say, “We want to use clean stuff, not dirty stuff.” But in reality, companies are struggling to effect change within their supply chains. </p>
+<p>“The thing to understand right out the gate is that basically no major consumer-facing company that uses things like steel or aluminum or cement knows where their stuff actually comes from,” Stephen Lezak, a researcher focused on carbon markets at the University of California, Berkeley, as well as at Oxford University, told me. He thinks that’s going to change, and hopes that in 15 years we all look back on this fact in horror. But in the meantime, “the urgency of the climate crisis requires using high integrity tools that aren't ideal, but still preserve fundamental integrity from a carbon accounting perspective,” he said. </p>
+<p>Microsoft, for its part, told me it sees this transaction as a near-term solution and “prioritizes buying and installing physical product first” i.e., before buying certificates, “where technical, geographical, and supply chain considerations align.”</p>
+<p>Sublime is currently building its first commercial plant in Holyoke, Massachusetts, which will use its <a href="https://heatmap.news/technology/sublime-carbon-cement-electrolyzer" target="_self"><u>unique zero-emissions process</u></a> to produce 30,000 tons of cement per year. The Department of Energy awarded the company an $87 million grant to fund the project earlier this year. Holcim and CRH, two of the largest building materials companies in the world, have also invested in Sublime and agreed to purchase most of the volume produced by the first plant. </p>
+<p>Ellis hopes the deal with Microsoft will help attract additional investment and get the company through its “awkward teenage years.” Sublime needs to show investors that “people want this material, people will pay that green premium so that we can drive up the volume so that that premium goes away,” she said. </p>
+<p>As with carbon offsets, there are still ways to game the system. Microsoft recently <a href="https://rmi.org/insight/structuring-demand-for-lower-carbon-materials-an-initial-assessment-of-book-and-claim-for-the-steel-and-concrete-sectors/" rel="noopener noreferrer" target="_blank"><u>co-authored a report</u></a> with the clean energy think tank RMI describing what a larger book and claim market for clean cement might look like and what questions need to be answered to ensure the market is credible. Until clean cement is just as cheap or cheaper than conventional cement, it’s pretty clear this kind of market will help reduce emissions. But should the environmental attributes be tied to cement, or to concrete? How should the carbon intensity be calculated? How will emissions be tracked and traced from the producer to the contractor to the building itself? </p>
+<p>Perhaps the most critical question is how to avoid double-counting. If Microsoft is buying the right to say it used clean cement, what can the company that bought the <em><em>actual cement </em></em>say? Will it be able to brag that its building is green?</p>
+<p>When I posed this question to Ellis, and Ben Skinner, a manager at RMI and one of the authors of the report, each gave me a version of the same answer: Yes and no. </p>
+<p>Ellis launched into a passionate monologue about the concrete companies and contractors and structural engineers who should be celebrated for taking the risk of using a new material. “This problem of cement emissions is so intractable,” she said. “We need to make cement more visible. We need to talk about this more. We need more people to care. And so that physical embodiment, having it stamped ‘Sublime cement,’ and having a plaque that shows the public, hey, these are the emissions reduced by this thing you see here, you want to celebrate that physical embodiment.” At the end of all this, she added, “And by no means am I saying that you should double count.”</p>
+<p>The suggestion is that it should be possible to separate carbon accounting and green marketing. If Microsoft has booked the green attributes of a delivery of cement, the contractors or building owners who used the physical stuff should not be able to claim they used clean cement on their emissions balance sheets, Skinner said. (What number they <em><em>should</em></em> use is a tricky question that will have to be solved.) But perhaps they still deserve some kind of recognition. </p>
+<p>What kind of recognition, Lezak told me, is a gray area. “There's a really difficult part of this whole conversation, where you start anchored in material science and climate science and everything is really rigorous,” he said. “And at some point, the train sort of moves on to the political economy track, and it's really tough because you look for the same sort of black and white answers to these questions and they just don't show up.”</p>
+<p>The details of the Microsoft deal and who can claim what are still being negotiated. At the same time, RMI and a new nonprofit called the Center for Green Market Activation have started work to stand up a larger book and claim market for cement. Their goal is to develop standards for how these certificates should be created, traded, and used so that companies that do not have the expertise or budget or resources that Microsoft has can access them. “We do think that it's possible to create a really high integrity system,” Skinner, told me. </p>
+<p>Whether you like this idea or hate it, get ready to hear a lot more about it. The Center for Green Market Activation, which launched in June, is <a href="https://gmacenter.org/programs/" rel="noopener noreferrer" target="_blank"><u>working to develop book and claim markets</u></a> across a range of carbon intensive industries, including aviation, trucking, maritime shipping, and chemicals. There is one clear alternative to these paper-trading schemes — regulations that <em><em>require</em></em> companies to use more green materials over time. But proponents don’t see that happening anytime soon.</p>
+<p>Lezak, though initially skeptical of these markets, has grown to support the idea. “There are people out there arguing that if you want to claim the emissions reduction in green steel, you need to make sure that the green steel actually shows up on your factory floor,” he said. “That's a beautiful idea, but you're talking about potentially pulling out the rug from billions of dollars of high integrity carbon finance.”</p> 
+
+<br> 
+
+<https://heatmap.news/climate/microsoft-sublime-cement-credit>
+
+---
+
+## Raising California’s Minimum Wage Has Not Cost Jobs
+
+date: 2024-10-17, from: Capital and Main
+
+<p>Ahead of a ballot measure to add $2 to the hourly minimum wage, studies show fast food jobs increased after the state bumped hourly pay to $20 in that sector.</p>
+<p>The post <a href="https://capitalandmain.com/raising-californias-minimum-wage-has-not-cost-jobs">Raising California’s Minimum Wage Has Not Cost Jobs</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/raising-californias-minimum-wage-has-not-cost-jobs>
+
+---
+
+## US sanctions Chinese entities for building, shipping Russian Garpiya drones used in Ukraine
+
+date: 2024-10-17, from: VOA News USA
+
+washington  — The United States on Thursday announced fresh sanctions targeting Chinese and Russian entities for their role in designing, building and shipping attack drones that have resulted in mass casualties in Ukraine.
+
+
+The sanctions target two Chinese entities, Xiamen Limbach Aircraft Engine Co., Ltd., and Redlepus Vector Industry Shenzhen Co Ltd (Redlepus), Russian entity TSK Vektor and TSK Vektor’s General Director Artem Mikhailovich Yamshchikov.
+
+
+A senior administration official told reporters Thursday that the entities were involved in developing the Russian Garpiya series long-range attack drones, producing them in China and shipping them directly to Russia.
+
+
+“The Garpiya, designed and produced in the People’s Republic of China (PRC) in collaboration with Russian defense firms, has been used to destroy critical infrastructure and has resulted in mass casualties,” the U.S. State Department said in a statement.
+
+
+“Today’s action is part of our continued effort to disrupt attempts by PRC-based and Russia-based entities and individuals to support Russia’s acquisition of advanced weapons technology and components. We will continue to impose costs on those who provide support to Russia’s military-industrial base.”
+
+
+The senior administration official said the U.S. has warned Beijing in the past about the network, contradicting Chinese statements that they are not aware of such networks.
+
+
+Two Chinese firms are directly “involved in producing and shipping things that are unmistakably part of Russia's war against Ukraine and are going unmistakably to an actor that the West has already identified and sanctioned as being part of the Russian military industrial base,” said the official.
+
+
+Since 2022, the U.S. has sanctioned close to 100 entities based in China and Hong Kong. The majority of them are part of the supply chain of dual-use items – components or goods that can be converted by Russia into military items that are then being deployed against Ukraine.
+
+
+However, Thursday’s sanctions were the first to hit Chinese entities “directly developing and producing complete weapons systems in partnership with Russian firms.”
+
+
+Also Thursday, the U.K. announced its largest package of sanctions against Russia’s “shadow fleet of oil tankers” – ships that supposedly knowingly operate in defiance of Western sanctions.
+
+
+London said 18 more shadow fleet ships will be barred from U.K. ports, bringing the total number of oil tankers sanctioned to 43.
+
+
+Sanctions working
+
+
+
+In response to VOA’s question, the official said that Western sanctions are working.
+
+
+“This is having a direct impact on their economy. It's having a direct impact on their ability to get war material. It's having a direct impact on the quality of goods that they are achieving,” the official said.
+
+
+A second senior administration official said Moscow is feeling “unprecedented external pressure” on its trade and investment projects with China. Growing trade ties between the two countries, though, indicate “they are continuing to innovate and circumvent which is why we are also moving out on sanctions and other tools.”
+
+
+China says it is not providing weapons for Russia. Beijing maintains it handles its export of dual-use items in accordance with laws and applies strict controls on drone exports.
+
+
+The sanctioned companies' transactions are “incompatible” with Beijing’s statements, the second official said. “If China is serious about that commitment, we are asking them to take action to shut down this network.”
+
+
+Beijing has said in the past it “firmly opposes unilateral sanctions and long-arm jurisdiction that have no basis in international law or authorization of the U.N. Security Council.”
+
+
+Every month, Beijing exports to Russia more than $300 million of those so-called dual-use items that have both commercial and military applications, according to an analysis of Chinese customs data by the Carnegie Endowment think tank.
+
+
+Ties have grown between Moscow and Beijing. On Wednesday, Chinese Premier Li Qiang and Russian Prime Minister Mikhail Mishustin announced plans for expanded cooperation during the Shanghai Cooperation Organization, or SCO, summit in Islamabad, Pakistan. The SCO was founded by Russia and China in 2001 to counter Western alliances.
+
+
+VOA’s Paris Huang and Henry Ridgwell contributed to this story. 
+
+<br> 
+
+<https://www.voanews.com/a/us-sanctions-chinese-entities-for-building-shipping-russian-garpiya-drones-used-in-ukraine-/7826275.html>
+
+---
+
+## FBI arrests suspect in hacking of US SEC's account on platform X
+
+date: 2024-10-17, from: VOA News USA
+
+WASHINGTON — An Alabama man was arrested on Thursday over criminal charges that he hacked the U.S. Securities and Exchange Commission's X account earlier this year, in an action that caused bitcoin's value to spike, federal prosecutors announced. 
+
+
+In January, a hacker posted false news about a widely anticipated announcement the SEC was expected to make about bitcoin, shocking the market and sending the cryptocurrency's price spiking. The post on @SECGov said the securities regulator had approved exchange-traded funds to hold bitcoin. The SEC deleted the post shortly after it appeared. 
+
+
+Eric Council Jr., 25, of Athens, Alabama, was arrested on Thursday morning in connection with the hack, the U.S. Attorney's office for the District of Columbia said in a statement on Thursday. 
+
+
+The SEC did not immediately respond to a request for comment about Thursday's arrest.  
+
+
+The agency previously said it was the victim of "SIM swapping," a technique used by fraudsters to seize control of telephone lines, when its account on the social media platform X, formerly known as Twitter, was hacked earlier in January. 
+
+<br> 
+
+<https://www.voanews.com/a/fbi-arrests-suspect-in-hacking-of-us-sec-s-account-on-platform-x/7826271.html>
+
+---
+
+## On Housing Crisis, Harris Pledges Large-Scale Investment While Trump Promises Federal Land — and Targets Immigrants
+
+date: 2024-10-17, from: Capital and Main
+
+<p>As president, Trump proposed large cuts to affordable housing programs. Harris touts her record helping homeowners after the Great Recession.</p>
+<p>The post <a href="https://capitalandmain.com/on-housing-crisis-harris-pledges-large-scale-investment-while-trump-promises-federal-land-and-targets-immigrants">On Housing Crisis, Harris Pledges Large-Scale Investment While Trump Promises Federal Land — and Targets Immigrants</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/on-housing-crisis-harris-pledges-large-scale-investment-while-trump-promises-federal-land-and-targets-immigrants>
+
+---
+
+## Near US-Mexico border, immigrants take final steps toward citizenship with community support
+
+date: 2024-10-17, from: VOA News USA
+
+Becoming a U.S. citizen is an important moment for many immigrants, giving them a voice in the nation's democratic process. In Tucson, Arizona, a city just an hour's drive from the border with Mexico, community leaders are working to help others achieve this step. VOA’s immigration reporter Aline Barros has more. Camera - Henry Hernandez. 
+
+<br> 
+
+<https://www.voanews.com/a/near-us-mexico-border-immigrants-take-final-steps-toward-citizenship-with-community-support/7826160.html>
+
+---
+
+## Battleground state starts early in-person voting while recovering from Helene
+
+date: 2024-10-17, from: VOA News USA
+
+ASHEVILLE, NORTH CAROLINA — Early in-person voting began statewide Thursday in the presidential battleground of North Carolina, including in mountainous areas where thousands of potential voters still lack power and clean running water after Hurricane Helene's epic flooding.
+
+
+More than 400 locations in all 100 counties were slated to open for the 17-day early vote period, said State Board of Elections Executive Director Karen Brinson Bell. Only four of 80 sites in the 25 western counties hardest hit by the storm weren't going to open.
+
+
+Helene's arrival three weeks ago in the U.S. Southeast decimated remote towns throughout Appalachia and killed at least 246 people, with a little over half of the storm-related deaths in North Carolina. It was the deadliest hurricane to hit the U.S. mainland since Katrina in 2005.
+
+
+At the South Buncombe Library in Asheville, a city devastated by the storm, about 60 people — most bundled up in jackets, hats and gloves for the chilly weather — lined up around the building before the polls opened at 9 a.m.
+
+
+They included 77-year-old Joyce Rich, who said Helene made early voting more urgent for her. Rich said while her house was largely spared by the storm, she and her husband still need to do some work on it. Meanwhile, family members who don't have power or water access are coming over to take showers.
+
+
+"We decided, let's just get it finished," Rich said. "You never know what's going to happen."
+
+
+Another voter at the library, 33-year-old Jarred Teague, said it was important to show up to vote early, in part because "democracy itself seems to be on the line" during this election.
+
+
+Early in-person voting, which continues through November 2, is very popular in North Carolina. More than 3.6 million ballots — 65% of all cast ballots — were cast this way in the 2020 general election. In the 2016 election, 62% of all cast ballots were cast during early in-person voting.
+
+
+Absentee voting in North Carolina began a few weeks ago, with over 67,000 completed ballots turned in so far, election officials said. People displaced by Helene are being allowed to drop off their absentee ballot at any early voting site in the state.
+
+
+The importance of early voting wasn't lost upon the presidential campaigns of Vice President Kamala Harris and former President Donald Trump.
+
+
+On Thursday, Democratic vice presidential nominee Tim Walz was expected to campaign in Winston-Salem and Durham, where he was to be joined by former President Bill Clinton.
+
+
+South Dakota Governor Kristi Noem, U.S. Senator Cindy Hyde-Smith of Mississippi and Republican National Committee Chair Michael Whatley were expected to appear on the "Team Trump Bus Tour" when it resumes Thursday in Rutherford County, which was among the hardest-hit areas.
+
+
+The North Carolina ballot also includes races for governor, attorney general and several other statewide positions. All U.S. House of Representatives and state General Assembly seats are up for reelection.
+
+
+County election boards have received flexibility to modify early voting sites, including locations and their daily hours. In Buncombe County, 10 of the 14 planned early voting sites will be open.
+
+
+In Watauga County, home to Boone and Appalachian State University, the board adjusted early voting hours to avoid evening travel for voters and poll workers. They also expanded weekend voting options.
+
+
+Watauga elections Director Matt Snyder said Wednesday having all six sites ready for Thursday was a feat his office didn't expect in Helene's immediate aftermath. But election officials have been working weekends to get prepared.
+
+
+"It's exhausting," Snyder said. "It's 16-hour days ... but everybody seems to pitch in."
+
+
+Officials in the 25 counties affected by the storm were still evaluating Election Day polling locations, with the "vast majority" expected to be available to voters, Brinson Bell said.
+
+
+This is the first presidential general election for which North Carolina voters must show photo identification. Someone who has lost their ID because of the storm can fill out an exception form. 
+
+<br> 
+
+<https://www.voanews.com/a/swing-state-north-carolina-starts-early-voting-while-recovering-from-helene/7826105.html>
+
+---
+
+## The FTC wants to make it easier to cancel subscriptions
+
+date: 2024-10-17, from: Marketplace Morning Report
+
+<p>Have you tried to cancel a subscription or membership recently and gotten the run-around? The Federal Trade Commission says it should be as easy to cancel as it is to sign up. We&#8217;ll learn about the new rule entails. Plus, incentives for German automakers to make cars stateside could be on the way. And we&#8217;ll also hear a snippet from the latest season of Marketplace&#8217;s climate solutions podcast, <a href="https://www.marketplace.org/shows/how-we-survive/">&#8220;How We Survive.&#8221;</a></p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/17/mmr_20241017_MMR_3_64.mp3"></source>
+</audio> <a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/17/mmr_20241017_MMR_3_64.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/the-ftc-wants-to-make-it-easier-to-cancel-subscriptions>
+
+---
+
+## Death of ex-One Direction member Liam Payne at 31 shocks fans around the world
+
+date: 2024-10-17, from: VOA News USA
+
+Buenos Aires, Argentina — The death of Liam Payne, who shot to stardom as a member of British boy band One Direction and grappled with intense global fame while still in his teens, sent shockwaves across the world Thursday as Argentine investigators continued their investigation at the scene.
+
+
+Fans, music-industry figures and fellow musicians paid tribute to Payne, 31, who died after falling from a hotel balcony in Argentina.
+
+
+As fans and media bombarded the Casa Sur Hotel in the trendy Palermo neighborhood of Argentina's capital, the forensics unit worked inside on Thursday collecting evidence.
+
+
+The Buenos Aires police said they found Payne's hotel room "in complete disarray," with packs of clonazepam, a central nervous system depressant, as well as energy supplements and other over-the-counter drugs strewn about and "various items broken." They added that a whiskey bottle, lighter and cellphone were retrieved from the internal hotel courtyard where Payne's body was found.
+
+
+The day before, police said that Payne "had jumped from the balcony of his room," without elaborating on how they came to that conclusion. The Associated Press could not confirm details of the incident, as the investigation is ongoing. The medical examiner's office said it was conducting an autopsy.
+
+
+
+
+Police said they had rushed to the hotel Wednesday in response to an emergency call just after 5 p.m. local time that had warned of an "aggressive man who could be under the influence of drugs or alcohol."
+
+
+A hotel manager can be heard on a 911 call recording obtained by The Associated Press saying the hotel has "a guest who is overwhelmed with drugs and alcohol ... He's destroying the entire room and, well, we need you to send someone, please." The manager's voice becomes more anxious as the call goes on, noting the room has a balcony.
+
+
+Payne was known as the tousle-headed, sensible one of the quintet that went from a TV talent show to a pop phenomenon with a huge international following of swooning fans. In recent years he had acknowledged struggling with alcoholism, saying in a YouTube video posted in July 2023 that he had been sober for six months after receiving treatment. Representatives for Payne did not immediately return emails and calls.
+
+
+Rolling Stone Ronnie Wood, who performed with One Direction in 2014, said he was "shocked and saddened."
+
+
+"God bless Liam, thinking of all his loved ones. He will be dearly missed," Wood wrote on X.
+
+
+Paris Hilton also sent condolences on X, saying the news was "so upsetting." The Backstreet Boys said in a social media post that their hearts go out to "Directioners around the world."
+
+
+Dozens of One Direction fans flocked to the Casa Sur Hotel after the news broke, forming lines that spilled into the cordoned-off street outside, where police stood sentinel. Forensic investigators were seen leaving the building, from where Payne's body was removed around three hours after the fall. Young women filming with their cellphones expressed shock and heartbreak as a makeshift memorial with rows of candles and bouquets quickly grew.
+
+
+"I didn't think he was going to die so young," 21-year-old Isabella Milesi told the AP.
+
+
+Payne was one of five members of One Direction, which formed after each auditioned for the British singing competition "The X Factor" in 2010, two years after Payne's first attempt to get on the show. Aged 16 the second time around, Payne sang Michael Bublé's version of "Cry Me a River," appearing nervous at the start but warming up with the audience's cheers and applause.
+
+
+After each singer failed to make it through the competition as a solo act, Simon Cowell and his fellow judges combined Payne, Zayn Malik, Harry Styles, Niall Horan and Louis Tomlinson into what would become one of the most successful boy bands ever — even though they lost the competition.
+
+
+Each member had his own persona, with Payne — who hailed from Wolverhampton in England's West Midlands region — known as the responsible one. The band became known for their pop sound and romantic hits including "What Makes You Beautiful," "Night Changes" and "Story of My Life."
+
+
+Payne had prominent solos on songs including "Stole My Heart" and "Change Your Ticket," co-writing several of the band's hits. One Direction had six Top 10 hits on the Billboard charts by the time they disbanded in 2016 and a highly loyal fan base, known as "Directioners," many of them teen girls.
+
+
+"I've always loved One Direction since I was little," said 18-year-old Juana Relh, another fan outside Payne's hotel. "To see that he died and that there will never be another reunion of the boys is unbelievable, it kills me."
+
+
+With his meteoric rise to fame, Payne had said that it took some time to adjust to life in the public eye.
+
+
+"I don't think you can ever deal with that. It's all a bit crazy for us to see that people get in that sort of state of mind about us and what we do," he said in a 2013 interview with the AP after recounting an experience where a fan was in a state of shock upon meeting him.
+
+
+One Direction announced an indefinite "hiatus" in 2016, and Payne — like each of his erstwhile bandmates — pursued a solo career, shifting toward EDM and hip-hop.
+
+
+While Styles became a huge solo star, the others had more modest success. Payne's 2017 single "Strip That Down," featuring Quavo, reached the Billboard Top 10, and stayed on the charts for several months. He put out an album "LP1" in 2019, and his last release — a single called "Teardrops" — was released in March.
+
+
+In 2020, to mark the 10th anniversary of One Direction, Payne shared a screenshot of a text message he sent to his father on the day he joined the group, which read: "I'm in a boyband."
+
+
+"What a journey … I had no idea what we were in for when I sent this text to my dad years ago at this exact time the band was formed," he wrote.
+
+
+Payne had a 7-year-old son, Bear Grey Payne, with his former girlfriend, the musician Cheryl, who was known as Cheryl Cole when she performed with Girls Aloud. She was an "X Factor" judge during One Direction's season, although their relationship began years later.
+
+
+Payne was previously engaged to Maya Henry, from August 2020 to early 2022. Henry released a novel earlier this year that she said was based on their relationship.
+
+
+In addition to his son, he is survived by his parents, Geoff and Karen Payne, and his two older sisters, Ruth and Nicola. 
+
+<br> 
+
+<https://www.voanews.com/a/death-of-ex-one-direction-member-liam-payne-at-31-shocks-fans-around-the-world/7825964.html>
 
 ---
 
@@ -453,7 +965,7 @@ In Mexico, newly inaugurated President Claudia Sheinbaum briefly commented on th
 
 date: 2024-10-17, from: VOA News USA
 
-In any election campaign, candidates and the public rely on opinion polls to comprehend the state of the race and inform their actions and choices. But polls can be confusing, contradictory, and, historically, even occasionally flat-out wrong. It’s both an art and a science — and you can easily become tripped up if you don’t know what to look for.]] 
+In any election campaign, candidates and the public rely on opinion polls to comprehend the state of the race and inform their actions and choices. But polls can be confusing, contradictory, and, historically, even occasionally flat-out wrong. It’s both an art and a science — and you can easily become tripped up if you don’t know what to look for. 
 
 <br> 
 
@@ -712,77 +1224,65 @@ date: 2024-10-16, from: Market Place, Make me Smart
 
 ---
 
-## Ex-Las Vegas-area official gets at least 28 years in prison for killing reporter
+## Colleagues of slain Las Vegas reporter relieved as killer gets 28-year sentence
 
 date: 2024-10-16, from: VOA News USA
 
-las vegas — A former Las Vegas-area Democratic elected official was sentenced Wednesday to serve at least 28 years in Nevada state prison for killing an investigative journalist who wrote articles critical of his conduct in office two years ago and exposed an intimate relationship with a female coworker.
+washington — Colleagues of a slain Las Vegas reporter have expressed relief about the sentencing of the onetime elected official who killed him.
 
 
-A judge invoked sentencing enhancements for use of a deadly weapon and the age of the reporter to add eight years to the minimum 20-years-to-life sentence that a jury set in August after finding Robert Telles guilty of first-degree murder.
+A district court in Clark County, Nevada, on Wednesday sentenced Robert Telles, a former county public administrator, to 28 years in prison for murdering Jeff German.
 
 
-"The judge couldn't sentence him to any more time," Clark County District Attorney Steve Wolfson said after telling reporters the sentence represented justice for the community. "She gave him the maximum."
+A jury in August convicted Telles of stabbing German to death outside the reporter's home. German, who worked for the Las Vegas Review-Journal, had covered misconduct in Telles' office and had exposed a relationship the official was having with a co-worker.
 
 
-Telles, 47, testified in his defense at trial, denying he stabbed Las Vegas Review-Journal reporter Jeff German to death in September 2022. But evidence against him was strong — including his DNA beneath German's fingernails.
+Telles denied killing German, but prosecutors presented evidence at the trial, including his DNA under the journalist's fingernails.
 
 
-Telles was the administrator of a county office that handles unclaimed estate and probate cases when he was arrested and jailed without bail several days after German's murder. He was stripped of his elected position weeks later.
+"The judge couldn't sentence him to any more time," Clark County District Attorney Steve Wolfson told reporters, adding that the sentence represented justice for the community. "She gave him the maximum." 
 
 
-Standing in shackles before the judge on Wednesday, Telles offered "deepest condolences" to German's family but again denied responsibility for the reporter's death.
+German's colleagues welcomed the sentencing.
 
 
-"I understand the desire to seek justice and hold somebody accountable for this," he said. "But I did not kill Mr. German."
+"There is relief in the Las Vegas Review-Journal's offices because Robert Telles finally is headed to prison, hopefully for the rest of his life," the paper's executive editor, Glenn Cook, said in a statement shared with VOA.
 
 
-Prosecutor Pamela Weckerly told the judge that evidence showed Telles killed German because "he didn't like what Mr. German had written about him. He felt that Mr. German had cost him an elected position."
+"His [Telles'] steadfast refusal to accept responsibility or show a hint of remorse for the barbaric murder of Jeff German should ensure he is never paroled. We'll never forget Jeff. His killing remains an immeasurable loss for his family, friends, colleagues and community, and for journalism itself,” Cook said.
 
 
-"This type of violence, this sort of political violence," the prosecutor said, "is unacceptable and dangerous for a community as a whole."
+Telles is the first former elected official in the U.S. to be convicted of the murder of an American journalist.  
 
 
-Telles' defense attorney, Robert Draskovich, asked for leniency for Telles and told the judge that Telles intends to appeal his conviction. After sentence was pronounced, Draskovich withdrew as Telles' defense lawyer.
+He had been the subject of German's coverage of misconduct in 2022 and later lost a primary election for a second term. 
 
 
-"The sentence was not surprising," Draskovich said outside court. "We fulfilled our defense obligation. We parted on good terms. [Telles] preserved all his rights for appeal."
+Prosecutor Pamela Weckerly told the judge that evidence showed Telles killed German because "he didn't like what Mr. German had written about him. He felt that Mr. German had cost him an elected position." 
 
 
-German was 69. He was a respected reporter who spent 44 years covering crime, courts and corruption in Las Vegas.
+"This type of violence, this sort of political violence," the prosecutor said, "is unacceptable and dangerous for a community as a whole." 
 
 
-Telles lost his primary for a second term in office after German's stories in May and June 2022 described turmoil and bullying at the Clark County Public Administrator/Guardian office and a romantic relationship between Telles and a female employee. His law license was suspended following his arrest.
+The National Press Club in Washington said the sentence "marks a decisive victory for press freedom and a salient reminder that violence against journalists will never go unanswered." 
 
 
-Police sought public help to identify a person captured on neighborhood security video driving a maroon SUV and walking while wearing a broad straw hat that hid his face and an oversized orange long-sleeve shirt. Weckerly showed the jury footage of the person wearing orange slipping into the side yard where German was stabbed, slashed and left dead.
+"Those who seek to silence the vital work of journalists through brutality will face swift and severe consequences. The message should be clear: If you try to silence a journalist with violence, you will be arrested, convicted and sentenced to the full extent of the law," said club president Emily Wilkins.  
 
 
-At Telles' house, police found a maroon SUV and cut-up pieces of a straw hat and a gray athletic shoe that looked like those worn by the person seen on video. Authorities did not find the orange shirt or a murder weapon.
+The Committee to Protect Journalists described the case as a "significant milestone in the quest for justice." 
 
 
-Telles testified for several rambling hours at his trial, admitting for the first time that reports of the office romance were true. He said he was "framed" for the crime by a broad conspiracy involving a real estate company, police, DNA analysts, former co-workers and others. He told the jury he was victimized for crusading to root out corruption.
+"German's murder by a county politician is a stark reminder of the dangers that journalists – especially local reporters worldwide – face simply for doing their jobs and reporting on matters of public interest," said Katherine Jacobsen, who covers the U.S. for the media watchdog.  
 
 
-Wolfson and prosecutors at trial dismissed those claims as unbelievable.
+When he appeared before the judge on Wednesday, Telles offered condolences to German's family but denied any wrongdoing.
 
 
-Other evidence pointed to Telles, who prosecutor Christopher Hamner told the jury blamed German for destroying his career, ruining his reputation and threatening his marriage.
+German, 69, had built a solid reputation as an investigative reporter in Las Vegas, where he focused on crime and corruption.  He was found stabbed outside his home on September 2, 2022. 
 
 
-Telles told the jury he took a walk and went to a gym at the time German was killed. But evidence showed Telles' wife sent text messages to him about the same time asking, "Where are you?" Prosecutors said Telles left his cellphone at home so he couldn't be tracked.
-
-
-The jury deliberated nearly 12 hours over three days before finding Telles guilty.
-
-
-Clark County District Court Judge Michelle Leavitt was able to consider sentencing enhancements adding time to Telles' sentence for using a deadly weapon in a willful, deliberate, premeditated killing and because German was older than 60 years old.
-
-
-"This defendant has shown absolutely no remorse, no acceptance of responsibility," said Wolfson, the Democratic elected regional prosecutor. "And in fact, his behavior is such that I believe he is an extreme danger to the community if he is ever released."
-
-
-German was the only journalist killed in the U.S. in 2022, according to the New York-based Committee to Protect Journalists. The nonprofit has records of 17 media workers killed in the U.S. since 1992. 
+Some information for this report came from The Associated Press. 
 
 <br> 
 

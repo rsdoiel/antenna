@@ -1,11 +1,85 @@
 ---
 title: socal north
-updated: 2024-10-17 07:32:18
+updated: 2024-10-17 17:23:42
 ---
 
 # socal north
 
-(date: 2024-10-17 07:32:18)
+(date: 2024-10-17 17:23:42)
+
+---
+
+## Measure H: Brea Olinda Unified School District
+
+date: 2024-10-18, updated: 2024-10-18, from: The LAist
+
+The Brea Olinda Unified School District is asking voters to approve a $160 million bond through increased property taxes. 
+
+<br> 
+
+<https://laist.com/news/politics/2024-election-california-general-brea-olinda-measure-h-bond-for-school-facilities>
+
+---
+
+## Measure M: Buena Park School District facilities bond
+
+date: 2024-10-18, updated: 2024-10-18, from: The LAist
+
+The Buena Park School District is asking voters to approve an $84 million bond through increased property taxes. 
+
+<br> 
+
+<https://laist.com/news/politics/2024-election-california-general-buena-park-measure-m-bond-for-school-facilities>
+
+---
+
+## Mayors, local officials from several LA-area cities announce support for Measure G
+
+date: 2024-10-17, updated: 2024-10-17, from: The LAist
+
+The measure would expand the size of the L.A. County Board of Supervisors. 
+
+<br> 
+
+<https://laist.com/news/politics/city-mayors-announce-support-measure-g>
+
+---
+
+## A political kingmaker gets an honorary street in Huntington Beach
+
+date: 2024-10-17, updated: 2024-10-17, from: The LAist
+
+Commerce Lane, a block-long street in an industrial part of the beach town is now also Honorary Laird Lane. 
+
+<br> 
+
+<https://laist.com/news/politics/ed-laird-lane-huntington-beach>
+
+---
+
+## Going for Gold at the 2024 State of the City
+
+date: 2024-10-17, from: City of Santa Clarita
+
+<p>By Mayor Cameron Smyth I am so proud to call Santa Clarita my hometown. It is where I grew up, went to school and then chose to come back and raise a family of my own. My kids attended the same great schools I went to and I currently serve in the same City Hall [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/10/17/going-for-gold-at-the-2024-state-of-the-city/">Going for Gold at the 2024 State of the City</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/10/17/going-for-gold-at-the-2024-state-of-the-city/>
+
+---
+
+## Another cloudy day with gusty winds this afternoon
+
+date: 2024-10-17, updated: 2024-10-17, from: The LAist
+
+A sunny, warmer weekend is in the forecast. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/weather-report-oct-17-2024>
 
 ---
 

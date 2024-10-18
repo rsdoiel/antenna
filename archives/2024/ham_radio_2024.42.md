@@ -1,11 +1,95 @@
 ---
 title: ham radio
-updated: 2024-10-17 07:32:19
+updated: 2024-10-17 17:23:42
 ---
 
 # ham radio
 
-(date: 2024-10-17 07:32:19)
+(date: 2024-10-17 17:23:42)
+
+---
+
+## ICs optimize IO-Link communications
+
+date: 2024-10-17, from: EDN Blog
+
+<img width="800" height="445" src="https://www.edn.com/wp-content/uploads/Renesas-IO-Link.jpg?fit=800%2C445" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Renesas-IO-Link.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Renesas-IO-Link.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Renesas-IO-Link.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Renesas has introduced the CCE4511 four-channel IO-Link master IC and the ZSSC3286, an IO-Link-ready sensor signal conditioner IC.</p>
+<p>The post <a href="https://www.edn.com/ics-optimize-io-link-communications/" data-wpel-link="internal">ICs optimize IO-Link communications</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/ics-optimize-io-link-communications/>
+
+---
+
+## SiC hybrid module drives e-mobility systems
+
+date: 2024-10-17, from: EDN Blog
+
+<img width="800" height="412" src="https://www.edn.com/wp-content/uploads/Infineon-HybridPack.jpg?fit=800%2C412" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Infineon-HybridPack.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Infineon-HybridPack.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Infineon-HybridPack.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Infineon is set to debut its HybridPack Drive G2 Fusion, a power module that combines silicon and silicon carbide (SiC), at electronica 2024.</p>
+<p>The post <a href="https://www.edn.com/sic-hybrid-module-drives-e-mobility-systems/" data-wpel-link="internal">SiC hybrid module drives e-mobility systems</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/sic-hybrid-module-drives-e-mobility-systems/>
+
+---
+
+## Clock driver DDR5 memory boosts AI computing
+
+date: 2024-10-17, from: EDN Blog
+
+<img width="800" height="490" src="https://www.edn.com/wp-content/uploads/Micron-Crucial.jpg?fit=800%2C490" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Micron-Crucial.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Micron-Crucial.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Micron-Crucial.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Marketed under the Crucial brand, Micron’s DDR5 clocked unbuffered DIMMs and clocked small-outline DIMMs run at speeds up to 6400 MT/s.</p>
+<p>The post <a href="https://www.edn.com/clock-driver-ddr5-memory-boosts-ai-computing/" data-wpel-link="internal">Clock driver DDR5 memory boosts AI computing</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/clock-driver-ddr5-memory-boosts-ai-computing/>
+
+---
+
+## Wireless power tester supports AirFuel RF
+
+date: 2024-10-17, from: EDN Blog
+
+<img width="800" height="450" src="https://www.edn.com/wp-content/uploads/RS-WPT.jpg?fit=800%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/RS-WPT.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/RS-WPT.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/RS-WPT.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>An RF wireless power tester prototype from Rohde &#038; Schwarz helps to advance AirFuel Alliance RF standardization efforts.</p>
+<p>The post <a href="https://www.edn.com/wireless-power-tester-supports-airfuel-rf/" data-wpel-link="internal">Wireless power tester supports AirFuel RF</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/wireless-power-tester-supports-airfuel-rf/>
+
+---
+
+## JEDEC unveils memory designs with DDR5 clock drivers
+
+date: 2024-10-17, from: EDN Blog
+
+<img width="800" height="339" src="https://www.edn.com/wp-content/uploads/JEDEC-raw.jpg?fit=800%2C339" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/JEDEC-raw.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/JEDEC-raw.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/JEDEC-raw.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>JEDEC announced raw card designs for memory modules, which will complement two DDR5 clock driver standards published earlier this year.</p>
+<p>The post <a href="https://www.edn.com/jedec-unveils-memory-designs-with-ddr5-clock-drivers/" data-wpel-link="internal">JEDEC unveils memory designs with DDR5 clock drivers</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/jedec-unveils-memory-designs-with-ddr5-clock-drivers/>
+
+---
+
+## An engineer’s playground: A tour of Silicon Labs’ labs
+
+date: 2024-10-17, from: EDN Blog
+
+<img width="1708" height="1832" src="https://www.edn.com/wp-content/uploads/Labtour_Figure1.jpg?fit=1708%2C1832" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Labtour_Figure1.jpg?w=1708 1708w, https://www.edn.com/wp-content/uploads/Labtour_Figure1.jpg?w=280 280w, https://www.edn.com/wp-content/uploads/Labtour_Figure1.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Labtour_Figure1.jpg?w=955 955w, https://www.edn.com/wp-content/uploads/Labtour_Figure1.jpg?w=1432 1432w" sizes="(max-width: 1708px) 100vw, 1708px" /><p>A tour of the analog and RF test benches in Silicon Labs' validation lab during embedded world North America.  </p>
+<p>The post <a href="https://www.edn.com/an-engineers-playground-a-tour-of-silicon-labs-labs/" data-wpel-link="internal">An engineer’s playground: A tour of Silicon Labs’ labs</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/an-engineers-playground-a-tour-of-silicon-labs-labs/>
 
 ---
 
@@ -13,7 +97,7 @@ updated: 2024-10-17 07:32:19
 
 date: 2024-10-17, from: EDN Blog
 
-<img width="915" height="582" src="https://www.edn.com/wp-content/uploads/80MHzVFC_Figure1.png?fit=915%2C582" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/80MHzVFC_Figure1.png?w=915 915w, https://www.edn.com/wp-content/uploads/80MHzVFC_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/80MHzVFC_Figure1.png?w=768 768w" sizes="(max-width: 915px) 100vw, 915px" /><p>A low-part-count “Kid Kong” VFC with take-back-half (TBH) diode charge pump and an ACMOS prescaler that can run at 80 MHz.</p>
+<img width="915" height="582" src="https://www.edn.com/wp-content/uploads/80MHzVFC_Figure1.png?fit=915%2C582" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/80MHzVFC_Figure1.png?w=915 915w, https://www.edn.com/wp-content/uploads/80MHzVFC_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/80MHzVFC_Figure1.png?w=768 768w" sizes="(max-width: 915px) 100vw, 915px" /><p>A low-part-count “Kid Kong” VFC with take-back-half (TBH) diode charge pump and an ACMOS prescaler that can run at 80 MHz.</p>
 <p>The post <a href="https://www.edn.com/80-mhz-vfc-with-prescaler-and-preaccumulator/" data-wpel-link="internal">80 MHz VFC with prescaler and preaccumulator</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

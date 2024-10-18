@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2024-10-17 07:32:20
+updated: 2024-10-17 17:23:43
 ---
 
 # games
 
-(date: 2024-10-17 07:32:20)
+(date: 2024-10-17 17:23:43)
+
+---
+
+## Vox Machina’s biggest season 3 change hits hard, even for the Critical Role cast
+
+date: 2024-10-17, updated: 2024-10-16, from: Polygon Website
+
+The Legend of Vox Machina is a chance for the cast of Critical Role to revamp their first campaign. Sometimes that means characters who weren’t present for certain events now get to play bigger roles. Other times that means pulling in lore and mythology of Exandria that didn’t get fleshed out till after Vox Machina [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/critical-role/466215/legend-vox-machina-percy-cast-death-episode-7>
+
+---
+
+## Essential spooky Blu-rays are 20% off at Gruv for Halloween
+
+date: 2024-10-17, updated: 2024-10-17, from: Polygon Website
+
+In the house of Polygon, Halloween lasts all of October. We’ve been summoning the spirits of the spooky season with our countdown of horror flicks you must watch, and if you’d like to expand your personal collection of essential films on disc, first-time shoppers at Gruv can currently save 20% on an array of 4K [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/sales-guide/466999/halloween-horror-movie-4k-blu-ray-gruv-deal>
+
+---
+
+## Why Twitch banned Asmongold
+
+date: 2024-10-17, updated: 2024-10-17, from: Polygon Website
+
+Zack Hoyt, who goes by Asmongold and ZackRawrr online, is once again at the center of controversy. The content creator, who gained prominence by streaming World of Warcraft, has mocked survivors of hurricane Katrina, and defended the use of certain slurs to his audience. Now, recent comments from Hoyt regarding the ongoing conflict in Gaza [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/culture/467037/asmongolds-twitch-suspension-palestine-explained>
+
+---
+
+## Learning Japanese with games and anime is easier than ever
+
+date: 2024-10-17, updated: 2024-10-17, from: Polygon Website
+
+Want to learn Japanese by playing video games and watching anime? A band of YouTubers — with the help of modern tools — has made learning one of the world’s most challenging languages into a fun hobby rather than a laborious chore.&#160;&#160; But let’s set expectations: You shouldn’t expect to play Metaphor: ReFantazio without English [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/466750/how-to-learn-japanese-with-games-anime>
+
+---
+
+## Dan Da Dan is horny and gross and frankly really intriguing
+
+date: 2024-10-17, updated: 2024-10-16, from: Polygon Website
+
+The first episode of the Dandadan anime adapts a scene that nearly put me off the manga entirely.  In it, a teenage girl is abducted by alien perverts who strip her to her underwear, strap her down with limbs spread, and promise to do sex to her with their “banana organs,” which are horrifying mechanized [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/anime/466656/dandadan-anime-horniness-puberty-banana-organs>
+
+---
+
+## Dropout’s Very Important People season 2 trailer promises even more hilarious interviews with bizarre characters
+
+date: 2024-10-17, updated: 2024-10-17, from: Polygon Website
+
+One of the funniest additions to comedy streaming service Dropout’s newly expansive portfolio has been Very Important People. Hosted by Vic Michaelis, the show is a faux news program where Michaelis interviews guests — all talented improvisers who have been given extreme makeovers and are asked to create a character on the spot. The first [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/comedy/466916/very-important-people-season-2-trailer-dropout-vic-michaelis>
+
+---
+
+## Everything announced at Microsoft’s Xbox Partner Preview
+
+date: 2024-10-17, updated: 2024-10-17, from: Polygon Website
+
+Microsoft broadcasted its Xbox Partner Preview on Thursday, featuring updates from Remedy Entertainment, Sega, and plenty more. Players got a look into Like a Dragon: Pirate Yakuza in Hawaii, Alan Wake 2’s next expansion, and Wuchang: Fallen Feathers. The event began at 1 p.m. EDT on Thursday, streamed on YouTube, Twitch, and LinkedIn. Everything featured [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/466881/everything-announced-at-microsofts-xbox-partner-preview>
+
+---
+
+## Agatha All Along’s latest MCU cameo is a callback (and probably not the Marvel villain fans hoped for)
+
+date: 2024-10-17, updated: 2024-10-17, from: Polygon Website
+
+[Ed. note: This post discusses spoilers for Agatha All Along episode 6, “Familiar by Thy Side.” Proceed down the road only if you want some witches’ spoilers.] The show is called Agatha All Along, but Agatha Harkness (Kathryn Hahn) certainly isn’t the only Marvel star showing up. As of episode 6, “Familiar by Thy Side,” [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel/466813/mcu-agatha-all-along-evan-peters-ralph-bohner-mephisto-nah>
+
+---
+
+## Subnautica 2 will include multiplayer and take place on a new planet
+
+date: 2024-10-17, updated: 2024-10-17, from: Polygon Website
+
+Subnautica 2 was announced at Thursday’s Xbox Partner Preview, and the follow-up to Subnautica will include an exciting new feature: co-op multiplayer for up to four players at once. In this new title, set to come out in 2025 through Xbox Game Preview, players will discover a new planet filled with challenges, creatures, and vehicles [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/466918/subnautica-2-announcement-multiplayer-new-planet>
+
+---
+
+## Where you can play Spycraft, the game so wild we made a documentary about it
+
+date: 2024-10-17, updated: 2024-10-17, from: Polygon Website
+
+If you watch one movie this year that features both former CIA director William Colby and Polygon co-founder Justin McElroy, make sure it&#8217;s Polygon’s documentary on Spycraft: The Great Game. A relic of the 1990s, Spycraft: The Great Game is an FMV point-and-click adventure that places you in the shoes of a CIA recruit thrust [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-buy/466800/spycraft-game-movie-where-to-buy>
 
 ---
 

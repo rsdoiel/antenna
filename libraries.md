@@ -1,11 +1,23 @@
 ---
 title: libraries
-updated: 2024-10-17 07:32:20
+updated: 2024-10-17 17:23:44
 ---
 
 # libraries
 
-(date: 2024-10-17 07:32:20)
+(date: 2024-10-17 17:23:44)
+
+---
+
+## Parent Day and Open House 2024
+
+date: 2024-10-17, from: CSUN Library Blog, Cited
+
+<div><img width="300" height="200" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2024/10/Untitled-design12-300x200.png" class="attachment-medium size-medium wp-post-image" alt="The columns of the CSUN Library building and grand staircase" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2024/10/Untitled-design12-300x200.png 300w, https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2024/10/Untitled-design12-768x512.png 768w, https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2024/10/Untitled-design12.png 900w" sizes="(max-width: 300px) 100vw, 300px" /></div>If you are a CSUN student who visits the Library on weekends for the quiet atmosphere, then this message is your friendly notice that you&#8230; 
+
+<br> 
+
+<https://library.csun.edu/blogs/cited/2024/10/17/parent-day-and-open-house-2024/>
 
 ---
 

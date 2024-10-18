@@ -1,11 +1,155 @@
 ---
 title: home
-updated: 2024-10-17 07:32:21
+updated: 2024-10-17 17:23:44
 ---
 
 # home
 
-(date: 2024-10-17 07:32:21)
+(date: 2024-10-17 17:23:44)
+
+---
+
+## Dyson’s First Wet Vacuum Just Launched, and We Can’t Wait to Get Our Hands on One
+
+date: 2024-10-17, from: Family Handyman Blog
+
+<p>The first Dyson wet vacuum was just launched. Here are all the details you need to know about the machine that picks up wet and dry debris.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/dyson-wet-vacuum/">Dyson’s First Wet Vacuum Just Launched, and We Can’t Wait to Get Our Hands on One</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/dyson-wet-vacuum/>
+
+---
+
+## How To Refinish Wood Furniture
+
+date: 2024-10-17, from: Family Handyman Blog
+
+<p>Ready to revive that worn furniture? Our guide on how to refinish wood furniture ensures beautiful, long-lasting results that you'll love.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-refinish-wood-furniture/">How To Refinish Wood Furniture</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/how-to-refinish-wood-furniture/>
+
+---
+
+## In Zurich, the Facade of an Eco-Friendly Home Extension Looks Like an Eyeball
+
+date: 2024-10-17, from: Dwell
+
+The 3D relief creates the illusion of a closed eye that gradually opens throughout the day. 
+
+<br> 
+
+<https://www.dwell.com/article/in-zurich-the-facade-of-an-eco-friendly-home-extension-looks-like-an-eyeball-1c108921>
+
+---
+
+## Enter Your Laurel Canyon Era With a Charming Cottage for $949K
+
+date: 2024-10-17, from: Dwell
+
+The revamped 1940s residence sports glass bricks, a double-height living area, and a stone-clad facade. 
+
+<br> 
+
+<https://www.dwell.com/article/laurel-canyon-cottage-renovation-los-angeles-real-estate-bce47247>
+
+---
+
+## A Tiny Cabin Atop a Pickup Truck Can Handle Snow, Hills, and Seashore
+
+date: 2024-10-17, from: Dwell
+
+What started as a marketing ploy for his Prince Edward Island vehicle tracks company resulted in the Rubishack: a very DIY adventuremobile. 
+
+<br> 
+
+<https://www.dwell.com/article/rubishack-tiny-cabin-on-pickup-truck-with-wheel-tracks-rubitracks-1faff238-0137ebed>
+
+---
+
+## How to Propagate Ficus from Stem Cuttings
+
+date: 2024-10-17, from: The Gardener's Path
+
+<p>Plants in the Ficus genus include many houseplant favorites like rubber trees and fiddle-leaf figs, as well as those landscape specimens that produce edible fruit. All of them are easy to propagate via stem cuttings, if you have access to a plant. Learn when and how to propagate figs from cuttings in this guide. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/houseplants/propagate-ficus-cuttings/">How to Propagate Ficus from Stem Cuttings</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/houseplants/propagate-ficus-cuttings/>
+
+---
+
+## Beware of This Scary Google Street View Extortion Scam
+
+date: 2024-10-17, from: Family Handyman Blog
+
+<p>Scammers are roping victims in with a clever trick using Google Street View.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/google-street-view-scam/">Beware of This Scary Google Street View Extortion Scam</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/google-street-view-scam/>
+
+---
+
+## Farm to School Month — Palm Springs schools strengthen nutritional programs through local food connections
+
+date: 2024-10-17, from: Calfifornia Dept. Aggriculture blog
+
+October is National Farm to School Month. CDFA encourages educators, school food serviceemployees, farmers and farm to school enthusiasts across California to join inthe celebration. Visit https://www.farmtoschool.org/&#160;for more information. The Palm Springs Unified School District (PSUSD) received CDFA Farm to &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28358">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28358>
+
+---
+
+## Turn a Ziplock Bag Into a Car iPad Holder for Your Kid
+
+date: 2024-10-17, from: Family Handyman Blog
+
+<p>This cheap and easy car iPad holder hack will keep your kids entertained even on long road trips. You only need two things!</p>
+<p>The post <a href="https://www.familyhandyman.com/article/car-ipad-holder-ziplock-bag/">Turn a Ziplock Bag Into a Car iPad Holder for Your Kid</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/car-ipad-holder-ziplock-bag/>
+
+---
+
+## Hampton Bay Fire Pit Review: Our Experts’ Honest Thoughts
+
+date: 2024-10-17, from: Family Handyman Blog
+
+<p>After putting this popular fire pit through a battery of tests, we have a verdict on the Hampton Bay Fire Pit's value.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/hampton-bay-fire-pit-review/">Hampton Bay Fire Pit Review: Our Experts&#8217; Honest Thoughts</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/hampton-bay-fire-pit-review/>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-10-17, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -435,18 +579,6 @@ date: 2024-10-16, from: Yard Life blog
 
 ---
 
-## Sunset.com Home Page
-
-date: 2024-10-16, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
-
----
-
 ## Azalea Tree Care and Growing Guide for Outdoors (Most Detailed)
 
 date: 2024-10-16, from: Yard Life blog
@@ -562,7 +694,7 @@ date: 2024-10-15, from: Family Handyman Blog
 date: 2024-10-15, from: Family Handyman Blog
 
 <p>Proper chain tension is key to optimal chainsaw cutting and safety. While it may seem intimidating at first, tightening the chain on a chainsaw is actually quite simple once you know the steps. I used to avoid using my chainsaw because I didn't feel confident tightening the chain. But after receiving some helpful advice from a neighbor, it quickly became just another maintenance task I could easily tackle.</p>
-<p><img src="https://www.familyhandyman.com/wp-content/uploads/2024/10/How-to-Tighten-a-Chainsaw-Chain_Graphic.jpg"alt="" /><figcaption>AVIRAL GUPTA/FAMILY HANDYMAN</figcaption><p>In this guide, we'll provide you with a comprehensive, step-by-step process for tightening a chainsaw chain, with expert tips from Bob Cain from Bob's Small Engine Repair and Jason Smith from Westfield Equipment Service.</p>
+<p>In this guide, we'll provide you with a comprehensive, step-by-step process for tightening a chainsaw chain, with expert tips from Bob Cain from Bob's Small Engine Repair and Jason Smith from Westfield Equipment Service.</p>
 <h2>How Tight Should a Chainsaw Chain Be?</h2>
 <p>A chainsaw chain should be tight but not too tight. When properly tightened, the chain should pull away from the guide about 3/16-inch. It should also move freely across the bar without falling off. "As you tighten it, stop and pull the chain. It shouldn't come down very far off the bar," Cain says.</p>
 <h2>Safety Precautions</h2>

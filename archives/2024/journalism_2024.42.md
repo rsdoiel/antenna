@@ -1,11 +1,156 @@
 ---
 title: journalism
-updated: 2024-10-17 07:32:20
+updated: 2024-10-17 17:23:44
 ---
 
 # journalism
 
-(date: 2024-10-17 07:32:20)
+(date: 2024-10-17 17:23:44)
+
+---
+
+## The Importance of Originality in Academic Writing: How Students Can Avoid Plagiarism
+
+date: 2024-10-17, from: The Sundail (CSUN Student Newspaper)
+
+Struggling to complete college assignments without plagiarizing? Learn proven techniques for thorough research, citation, paraphrasing, and using online tools to check work. 
+
+<br> 
+
+<https://sundial.csun.edu/186306/sundialbrandstudio/sundial-marketplace/the-importance-of-originality-in-academic-writing-how-students-can-avoid-plagiarism/>
+
+---
+
+## How to Prepare for Unexpected Questions During Law School Interviews
+
+date: 2024-10-17, from: The Sundail (CSUN Student Newspaper)
+
+Preparing for law school interviews can be a challenging process, especially when you don’t know what questions might be thrown your way. You’ve worked hard to get this far, and... 
+
+<br> 
+
+<https://sundial.csun.edu/186300/sundialbrandstudio/independent-legal-guide/how-to-prepare-for-unexpected-questions-during-law-school-interviews/>
+
+---
+
+## Celebrating Latino Heritage Month
+
+date: 2024-10-17, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Upbeat music and feelings of family and community filled the Pierce College Library and Learning Crossroads as students and faculty gathered to celebrate Latino Heritage</p>
+<p>The post <a href="https://theroundupnews.com/2024/10/17/celebrating-latino-heritage-month/">Celebrating Latino Heritage Month</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2024/10/17/celebrating-latino-heritage-month/?utm_source=rss&utm_medium=rss&utm_campaign=celebrating-latino-heritage-month>
+
+---
+
+## A night of music and collaboration at the Soraya
+
+date: 2024-10-17, from: The Round Up (Pierce College Student Newspaper)
+
+<p>CSUN’s music department hosted a mid-fall semester music festival with Pierce College and Los Angeles Valley College participating. The concert was held at the Soraya</p>
+<p>The post <a href="https://theroundupnews.com/2024/10/17/a-night-of-music-and-collaboration-at-the-soraya/">A night of music and collaboration at the Soraya</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2024/10/17/a-night-of-music-and-collaboration-at-the-soraya/?utm_source=rss&utm_medium=rss&utm_campaign=a-night-of-music-and-collaboration-at-the-soraya>
+
+---
+
+## Campus and local leaders break ground on new Academic East building
+
+date: 2024-10-17, from: The Round Up (Pierce College Student Newspaper)
+
+<p>People might not see the connection between math, psychology and computer science, but at Pierce College, the diversity and differences of these departments are celebrated</p>
+<p>The post <a href="https://theroundupnews.com/2024/10/17/campus-and-local-leaders-break-ground-on-new-academic-east-building/">Campus and local leaders break ground on new Academic East building</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2024/10/17/campus-and-local-leaders-break-ground-on-new-academic-east-building/?utm_source=rss&utm_medium=rss&utm_campaign=campus-and-local-leaders-break-ground-on-new-academic-east-building>
+
+---
+
+## Fall film preview: Season to bring sought-after sequels, anticipated adaptation
+
+date: 2024-10-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+Autumn&#8217;s crisp air is blowing in a fresh slate of Hollywood film releases.
+As cozy weather settles in, this rich seasonal lineup of films is filling theaters with warmth. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/17/fall-film-preview-season-to-bring-sought-after-sequels-anticipated-adaptation/>
+
+---
+
+## Nursing students deal with four-year degree costs
+
+date: 2024-10-17, from: The Round Up (Pierce College Student Newspaper)
+
+<p>For community college students pursuing a bachelor’s degree in nursing, the costs of four-year programs and the stress of applying to transfer can be prohibitive.</p>
+<p>The post <a href="https://theroundupnews.com/2024/10/17/nursing-students-deal-with-four-year-degree-costs/">Nursing students deal with four-year degree costs</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2024/10/17/nursing-students-deal-with-four-year-degree-costs/?utm_source=rss&utm_medium=rss&utm_campaign=nursing-students-deal-with-four-year-degree-costs>
+
+---
+
+## Day of Politics encourages civic engagement
+
+date: 2024-10-17, from: The Round Up (Pierce College Student Newspaper)
+
+<p>With the 2024 election around the corner, the Day of Politics at Pierce College looked to address some of the most asked questions regarding voting,</p>
+<p>The post <a href="https://theroundupnews.com/2024/10/17/day-of-politics-encourages-civic-engagement/">Day of Politics encourages civic engagement</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2024/10/17/day-of-politics-encourages-civic-engagement/?utm_source=rss&utm_medium=rss&utm_campaign=day-of-politics-encourages-civic-engagement>
+
+---
+
+## Flooding occurs in Portola Plaza, Gateway Plaza, blocking off campus routes
+
+date: 2024-10-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 17 at 2:39 p.m.</em>
+A flood started at the west end of Portola Plaza near Kerckhoff Hall on Thursday morning after a water line broke. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/17/flooding-occurs-in-portola-plaza-gateway-plaza-blocking-off-campus-routes/>
+
+---
+
+## Women, nonbinary comedians crack up patriarchy in Shenanigans’ ‘Men Aren’t Funny’
+
+date: 2024-10-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+There are no cooties at this comedy show.
+UCLA&#8217;s comedy club Shenanigans is once again hosting its &#8220;Men Aren&#8217;t Funny&#8221; show, kicking off their first performance of the year Friday. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/17/women-nonbinary-comedians-crack-up-patriarchy-in-shenanigans-men-arent-funny/>
+
+---
+
+## A year in, The Guardian’s European edition contributes 15% of the publisher’s pageviews
+
+date: 2024-10-17, from: Nieman Journalism Lab
+
+Last September, The Guardian launched a digital European edition to expand its coverage of the continent and deepen its relationship with European audiences. A year in, the effort is paying off. One-time donations from European readers increased by 45%, and The Guardian&#8217;s overall number of recurring paid supporters increased by 8%. (While The Guardian is... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/10/a-year-in-the-guardians-european-edition-contributes-15-of-the-publishers-pageviews/>
 
 ---
 
@@ -226,8 +371,8 @@ Press Forward, the philanthropic coalition with a mission to inject at least $50
 
 date: 2024-10-16, from: The Daily Bruin (UCLA Student Newspaper)
 
-When UCLA Ceramics Club president Jade Wong opened the club&#8217;s ASUCLA storage locker Sept. 30, she found it empty. 
-The missing materials and equipment &#8211; all purchased with student funds &#8211; included handmade art pieces, how-to guides for workshops and glazing supplies. 
+<em>This post was updated Oct. 17 at 1:12 p.m.</em>
+When UCLA Ceramics Club president Jade Wong opened the club’s ASUCLA storage locker Sept. 30, she found it empty. 
 
 <br> 
 
@@ -656,12 +801,12 @@ Bruinbard&#8217;s &#8220;Julius Caesar&#8221; is set to debut with two shows Nov
 
 ---
 
-## The SCV celebrates Filipino American history month with a colorful festival
+## The SCV celebrates Filipino American History Month with a colorful festival
 
 date: 2024-10-14, from: The Canyon News (COC Student Newspaper)
 
 <p>It&#8217;s a celebration of vibrant colors, rhythmic beats, and deep-rooted traditions. At&#8230;</p>
-<p>The post <a href="https://canyonsnews.com/the-scv-celebrates-filipino-american-history-month-with-a-colorful-festival/">The SCV celebrates Filipino American history month with a colorful festival</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+<p>The post <a href="https://canyonsnews.com/the-scv-celebrates-filipino-american-history-month-with-a-colorful-festival/">The SCV celebrates Filipino American History Month with a colorful festival</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
  
 
 <br> 

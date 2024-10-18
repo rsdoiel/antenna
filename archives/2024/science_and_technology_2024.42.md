@@ -1,11 +1,299 @@
 ---
 title: science and technology
-updated: 2024-10-17 07:32:19
+updated: 2024-10-17 17:23:43
 ---
 
 # science and technology
 
-(date: 2024-10-17 07:32:19)
+(date: 2024-10-17 17:23:43)
+
+---
+
+## Troubled US insurance giant hit by extortion after data leak
+
+date: 2024-10-17, updated: 2024-10-17, from: The Register (UK I.T. News)
+
+<h4>Globe Life claims blackmailers shared stolen into with short sellers</h4> <p>US insurance provider Globe Life, already grappling with legal troubles, now faces a fresh headache: an extortion attempt involving stolen customer data.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/17/us_insurance_giant_with_a/>
+
+---
+
+## FCC fines be damned, ESPN misuses emergency alert tones yet again
+
+date: 2024-10-17, updated: 2024-10-17, from: The Register (UK I.T. News)
+
+<h4>It’s the third strike, yet all they get is a slap on the wrist?</h4> <p>Sports broadcasting network ESPN faces a proposed fine for using emergency alert service (EAS) attention sounds without authorization - again, apparently.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/17/espn_fined_emergency_alert_sounds/>
+
+---
+
+## Qualcomm 'pausing' X-Elite Dev Kit, offering refunds
+
+date: 2024-10-17, updated: 2024-10-17, from: The Register (UK I.T. News)
+
+<h4>Five months in, only 200 units reached customers, Qualy tells <em>El Reg</em></h4> <p>Qualcomm has officially pulled the plug on its Snapdragon for Windows Dev Kits less than five months after the X-Elite powered mini-PCs were announced.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/17/qualcomm_kills_xelite_dev_kit/>
+
+---
+
+## Shipwreck Hunters Find Lost World War II-Era Submarine That Vanished With 64 Crew Members Onboard
+
+date: 2024-10-17, from: Smithsonian Magazine
+
+The HMS "Trooper" likely sank after hitting an underwater German mine off the coast of an island in the Aegean Sea in 1943 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/shipwreck-hunters-find-lost-world-war-ii-era-submarine-that-vanished-with-64-crew-members-onboard-180985285/>
+
+---
+
+## Experts Don't Know How This Mysterious White Fox Ended Up in Oregon, More Than 1,000 Miles Away From Home
+
+date: 2024-10-17, from: Smithsonian Magazine
+
+Identified as an Arctic fox, the animal is believed to have been kept in captivity far from its native habitat in the tundra. Now, it's receiving care from wildlife officials 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/experts-dont-know-how-this-mysterious-white-fox-ended-up-in-oregon-more-than-1000-miles-away-from-home-180985286/>
+
+---
+
+## Samsung releases 24Gb GDDR7 DRAM for testing in beefy AI systems
+
+date: 2024-10-17, updated: 2024-10-17, from: The Register (UK I.T. News)
+
+<h4>Production slated for Q1 2025, barring any hiccups</h4> <p>Samsung has finally stolen a march in the memory market with 24 Gb GDDR7 DRAM being released for validation in AI computing systems from GPU customers before production - expected early next year - kicks off.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/17/samsung_gddr7_dram_chip/>
+
+---
+
+## NASA Selects Two Teams to Advance Life Sciences Research in Space
+
+date: 2024-10-17, from: NASA breaking news
+
+NASA announced two awards Thursday to establish scientific consortia – multi-institutional coalitions to conduct ground-based studies that help address the agency’s goals of maintaining a sustained human presence in space. These consortia will focus on biological systems research in the areas of animal and human models, plants, and microbiology. When fully implemented, the awards for […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/biological-physical-sciences/nasa-selects-two-teams-to-advance-life-sciences-research-in-space/>
+
+---
+
+## I Am Artemis: Sarah Ryan
+
+date: 2024-10-17, from: NASA breaking news
+
+A passion for puzzles, problem-solving, and propulsion led Sarah Ryan – a native of Columbus, Ohio – to her current position as Raptor engine lead for NASA’s HLS (Human Landing System) insight team at NASA’s Marshall Space Flight Center in Huntsville, Alabama. The SpaceX Raptor rocket engine powers the company’s Starship and Super Heavy rocket. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/i-am-artemis-sarah-ryan/>
+
+---
+
+## NASA Goddard Hosts Former VP Al Gore to Mark 10 Years of DSCOVR Mission
+
+date: 2024-10-17, from: NASA breaking news
+
+Environmentalist and former Vice President Al Gore visited NASA’s Goddard Space Flight Center in Greenbelt, Maryland, on Oct. 16, 2024, to commemorate the upcoming 10th anniversary of the DSCOVR (Deep Space Climate Observatory) mission. “The image of our Earth from space is the single most compelling iconic image that any of us have ever seen,” [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/goddard/nasa-goddard-hosts-former-vp-al-gore-to-mark-10-years-of-dscovr-mission/>
+
+---
+
+## Microsoft crafts Rust hypervisor to power Azure workloads
+
+date: 2024-10-17, updated: 2024-10-17, from: The Register (UK I.T. News)
+
+<h4>OpenVMM touts stronger security, but not ready for prime time just yet</h4> <p>Microsoft earlier this month published code for a new hypervisor, or virtual machine monitor (VMM), written in Rust.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/17/microsoft_preps_rust_hypervisor_for/>
+
+---
+
+## NASA’s C-130 Aircraft En Route to India in Support of NISAR Mission
+
+date: 2024-10-17, from: NASA breaking news
+
+NASA’s globetrotting C-130 Hercules team is carrying out a cargo transport mission to Bengaluru, India, in support of the NASA-ISRO Synthetic Aperture Radar (NISAR) mission. The C-130 departed from NASA’s Wallops Flight Facility in Virginia, Tuesday, Oct. 15, to embark on the multi-leg, multi-day journey. The flight path will take the aircraft coast to coast [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasas-c-130-aircraft-en-route-to-india-in-support-of-nisar-mission/>
+
+---
+
+## NASA’s IXPE Helps Researchers Determine Shape of Black Hole Corona
+
+date: 2024-10-17, from: NASA breaking news
+
+New findings using data from NASA’s IXPE (Imaging X-ray Polarimetry Explorer) mission offer unprecedented insight into the shape and nature of a structure important to black holes called a corona. A corona is a shifting plasma region that is part of the flow of matter onto a black hole, about which scientists have only a [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/ixpe/nasas-ixpe-helps-researchers-determine-shape-of-black-hole-corona/>
+
+---
+
+## How to Watch the Bright and Speedy Orionid Meteor Shower
+
+date: 2024-10-17, from: Smithsonian Magazine
+
+While the Orionids, peaking early Sunday and Monday, might be hard to see because of the waning gibbous moon, these zippy meteors can produce long "trains" that last up to several minutes 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/how-to-watch-the-bright-and-speedy-orionid-meteor-shower-180985290/>
+
+---
+
+## Infrastructure giant Schneider Electric powers up with $850M liquid cooling deal
+
+date: 2024-10-17, updated: 2024-10-17, from: The Register (UK I.T. News)
+
+<h4>Snags controlling stake in Motivair Corporation, rest to come by 2028</h4> <p>Schneider Electric is taking a controlling interest in Motivair Corporation, a specialist in liquid cooling and thermal management tech for high-performance computing (HPC) systems.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/17/schneider_850m_stake_motivair/>
+
+---
+
+## Just Keep Roving
+
+date: 2024-10-17, from: NASA breaking news
+
+Throughout the past week, Perseverance has continued marching up the Jezero crater rim. This steep ascent through the Martian regolith (soil) can prove to be slow driving for the rover, as the wheels can slip on the steepest areas. 
+
+<br> 
+
+<https://science.nasa.gov/blog/just-keep-roving/>
+
+---
+
+## Old Data Yields New Secrets as NASA’s DAVINCI Preps for Venus Trip
+
+date: 2024-10-17, from: NASA breaking news
+
+How NASA’s DAVINCI mission to Venus uses old data to reveal new secrets. 
+
+<br> 
+
+<https://science.nasa.gov/missions/pioneer-venus/nasas-davinci-mission-uses-old-data-to-reveal-new-secrets-venus/>
+
+---
+
+## Cats May Be Aware of Their Body Size, Suggests Study of Their Famously 'Liquid' Behavior
+
+date: 2024-10-17, from: Smithsonian Magazine
+
+A scientist used at-home experiments to test whether cats hesitated when moving through increasingly shorter or narrower openings 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/cats-may-be-aware-of-their-body-size-suggests-study-of-their-famously-liquid-behavior-180985282/>
+
+---
+
+## Imagining the Future
+
+date: 2024-10-17, from: NASA breaking news
+
+A space shuttle lifts off high above the surrounding land in this Aug. 1, 1973, illustration. With 135 missions flown over 30 years, NASA’s shuttle fleet achieved numerous firsts and opened space up to more people than ever before. Each space shuttle consisted of three major components: the orbiter, which housed the crew, a large [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/imagining-the-future/>
+
+---
+
+## Minnesota Teacher's 2,471-Pound Gourd Triumphs in Annual Pumpkin-Weighing Competition
+
+date: 2024-10-17, from: Smithsonian Magazine
+
+Travis Gienger, who nicknamed his prize-winning pumpkin "Rudy," has been growing gourds for nearly 30 years 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/minnesota-teachers-2471-pound-gourd-triumphs-in-annual-pumpkin-weighing-competition-180985278/>
+
+---
+
+## Manifest file destiny: Declare your funding needs via JSON
+
+date: 2024-10-17, updated: 2024-10-17, from: The Register (UK I.T. News)
+
+<h4>India-based stockbroker Zerodha pledges $1M a year for open source projects</h4> <p>Zerodha, an India-based stock brokerage, has launched a fund to support open source software, to which the company attributes its existence and success.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/17/zerodha_open_source_fund/>
+
+---
+
+## Could Life Exist Below Mars Ice? NASA Study Proposes Possibilities
+
+date: 2024-10-17, from: NASA breaking news
+
+Researchers think meltwater beneath Martian ice could support microbial life. While actual evidence for life on Mars has never been found, a new NASA study proposes microbes could find a potential home beneath frozen water on the planet’s surface. Through computer modeling, the study’s authors have shown that the amount of sunlight that can shine [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/solar-system/planets/mars/could-life-exist-below-mars-ice-nasa-study-proposes-possibilities/>
+
+---
+
+## Western Digital releases firmware fix for SSDs blighted by Windows 11 24H2 BSODs
+
+date: 2024-10-17, updated: 2024-10-17, from: The Register (UK I.T. News)
+
+<h4>Microsoft tells us it is investigating the issue... Phew, that&#39;s ok then</h4> <p>Microsoft says it is looking into reports that certain Western Digital SSDs are causing trouble for users of Windows 11 24H2 on some devices.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/17/western_digital_releases_a_firmware/>
+
+---
+
+## These Frankenstein-Like Sea Creatures Can Actually Fuse Their Bodies Together
+
+date: 2024-10-17, from: Smithsonian Magazine
+
+Two comb jellies can merge their digestive and nervous systems and even sync their bodily functions, according to new research. The discovery could have implications for human medicine 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/these-frankenstein-like-sea-creatures-can-actually-fuse-their-bodies-together-180985218/>
+
+---
+
+## Scientist Profile: Jacquelyn Shuman Blazes New Trails in Fire Science
+
+date: 2024-10-17, from: NASA breaking news
+
+Jacquelyn Shuman, FireSense Project Scientist at NASA Ames Research Center, originally wanted to be a veterinarian. By the time she got to college, Shuman had switched interests to biology, which became a job teaching middle and high school science. Teaching pivoted to finance for a year, before Shuman returned to the science world to pursue [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/scientist-profile-jacquelyn-shuman-blazes-new-trails-in-fire-science/>
 
 ---
 
@@ -623,7 +911,7 @@ date: 2024-10-16, updated: 2024-10-17, from: The Register (UK I.T. News)
 
 ## 'Newport would look like Dubai' if guy could dumpster dive for lost Bitcoin drive
 
-date: 2024-10-16, updated: 2024-10-16, from: The Register (UK I.T. News)
+date: 2024-10-16, updated: 2024-10-17, from: The Register (UK I.T. News)
 
 <h4>To Wales now, where crypto bro sues to be allowed to excavate landfill site</h4> <p>Last time we met 39-year-old James Howells from Newport, Wales, he was petitioning his local council to let him excavate a garbage dump in pursuit of a lost hard drive he believes holds the key to 7,500 Bitcoin. Now he is suing the authority to force its hand.…</p> 
 

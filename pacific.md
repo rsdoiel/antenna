@@ -1,11 +1,118 @@
 ---
 title: pacific
-updated: 2024-10-17 07:32:18
+updated: 2024-10-17 17:23:42
 ---
 
 # pacific
 
-(date: 2024-10-17 07:32:18)
+(date: 2024-10-17 17:23:42)
+
+---
+
+## Home is Here Hanohano Naehu, Asato Family Shop, Candy Art Hawaii
+
+date: 2024-10-17, from: Home is Here
+
+<p>On this episode of Home is Here we are introduced to Hanohano Naehu boasts an impressive resume...</p>
+<p>The post <a href="https://www.pbshawaii.org/home-is-here-hanohano-naehu-asato-family-shop-candy-art-hawaii/">Home is Here &lt;br/&gt;Hanohano Naehu, Asato Family Shop, Candy Art Hawaii</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/home-is-here-hanohano-naehu-asato-family-shop-candy-art-hawaii/>
+
+---
+
+## Hensel selected as next UH president
+
+date: 2024-10-17, from: Hawaii Tribune Harold
+
+
+				<p>Wendy Hensel, 54, executive vice chancellor and university provost for The City University of New York, was unanimously selected today by University of Hawaii regents to become the next UH president, with an annual salary of $675,000.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/17/hawaii-news/hensel-selected-as-next-uh-president/>
+
+---
+
+## UH regents unanimously select Wendy Hensel as next UH President
+
+date: 2024-10-17, from: University of Hawaiʻi News
+
+<p>Hensel will succeed David Lassner who announced in September 2023, that he would retire at the end of 2024 after serving as president for more than 11 years.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/17/regents-select-wendy-hensel-as-next-president/"><abbr>UH</abbr> regents unanimously select Wendy Hensel as next <abbr>UH</abbr> President</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/17/regents-select-wendy-hensel-as-next-president/>
+
+---
+
+## No Nitijela, so Abba it is
+
+date: 2024-10-17, from: Marshal Islands Journal
+
+<p>Journal 10/16/1987 P13 World Council eyes health needsA five-member team representing the World Council of Churches arrived in Majuro earlier this week for meetings and consultations with the Ministry of Health and the religious community. The team, composed mostly of medical doctors with experience in primary health care in developing nations, is representing the Christian [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/no-nitijela-so-abba-it-is/">No Nitijela, so Abba it is</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/no-nitijela-so-abba-it-is/>
+
+---
+
+## UH law school earns high ranking for racial justice, student-faculty ratios
+
+date: 2024-10-17, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> law school was given an &#8220;A&#8221; rating in racial justice and ranked <abbr>No.</abbr> 11 in the U.S. for student-faculty ratio.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/17/law-school-prelaw-fall-2024-ranking/"><abbr>UH</abbr> law school earns high ranking for racial justice, student-faculty ratios</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/17/law-school-prelaw-fall-2024-ranking/>
+
+---
+
+## Emeritus professor honored with Geological Society of Japan award
+
+date: 2024-10-17, from: University of Hawaiʻi News
+
+<p>Gregory Moore was honored by the Geological Society of Japan as the first recipient of the Akiho Miyashiro Award.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/17/gregory-moore-award/">Emeritus professor honored with Geological Society of Japan award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/17/gregory-moore-award/>
+
+---
+
+## Two Syllables
+
+date: 2024-10-17, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Virginia Laurie He was lovely then. A ruffled parakeet. We were crisp as carrot sticks and spent our days sweeping peanut shells off the bar floor. In May he called me a bouquet and took me to a field &#8230; <a href="https://hawaiipacificreview.org/2024/10/17/two-syllables/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://hawaiipacificreview.org/2024/10/17/two-syllables/>
+
+---
+
+## Army team visits Jaluit
+
+date: 2024-10-17, from: Marshal Islands Journal
+
+<p>Jaluit High School recently welcomed the US Army’s Oceania Engagement Team to the Marshall Islands for a week-long vocational opportunities exchange on Jabor. Master Sergeant John Phillips delivered presentations informing students of training and career pathways in the uniformed services of the United States between visits to the JHS vocational training classes. Phillips visited the [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/army-team-visits-jaluit/">Army team visits Jaluit</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/army-team-visits-jaluit/>
 
 ---
 
@@ -230,6 +337,48 @@ date: 2024-10-17, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2024/10/17/nation-world-news/harris-betting-that-republican-voters-will-help-her-win-against-trump/>
+
+---
+
+## One teen dead, three others seriously injured in W. Hawaii traffic crash
+
+date: 2024-10-17, from: Hawaii Tribune Harold
+
+
+				<p>Police are investigating a two-vehicle crash in Waikoloa that occurred this morning in which a 17-year-old Waikoloa female was killed and three teens were seriously injured.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/17/hawaii-news/one-teen-dead-three-others-seriously-injured-in-w-hawaii-traffic-crash/>
+
+---
+
+## Supreme Court paves way, for now, for EPA rule limiting power plant emissions
+
+date: 2024-10-17, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Supreme Court temporarily cleared the way Wednesday for the Environmental Protection Agency to limit carbon emissions by power plants. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/17/nation-world-news/supreme-court-paves-way-for-now-for-epa-rule-limiting-power-plant-emissions/>
+
+---
+
+## UPDATE: Route 190 reopens following crash
+
+date: 2024-10-17, from: Hawaii Tribune Harold
+
+
+				<p><strong>UPDATE 11:20 a.m.</strong></p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/17/hawaii-news/crash-closes-portion-of-highway-190-in-south-kohala/>
 
 ---
 
@@ -1395,7 +1544,7 @@ date: 2024-10-15, from: Island Times
 
 date: 2024-10-15, from: Island Times
 
-<figure><img width="1024" height="602" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_86AFCD14-DC92-442A-AF14-62F0DC75C28C-scaled.jpg?fit=1024%2C602&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_86AFCD14-DC92-442A-AF14-62F0DC75C28C-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_86AFCD14-DC92-442A-AF14-62F0DC75C28C-scaled.jpg?resize=300%2C176&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_86AFCD14-DC92-442A-AF14-62F0DC75C28C-scaled.jpg?resize=1024%2C602&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_86AFCD14-DC92-442A-AF14-62F0DC75C28C-scaled.jpg?resize=768%2C452&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_86AFCD14-DC92-442A-AF14-62F0DC75C28C-scaled.jpg?resize=1536%2C903&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_86AFCD14-DC92-442A-AF14-62F0DC75C28C-scaled.jpg?resize=2048%2C1205&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_86AFCD14-DC92-442A-AF14-62F0DC75C28C-scaled.jpg?resize=1200%2C706&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_86AFCD14-DC92-442A-AF14-62F0DC75C28C-scaled.jpg?resize=1568%2C922&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_86AFCD14-DC92-442A-AF14-62F0DC75C28C-scaled.jpg?resize=2000%2C1176&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_86AFCD14-DC92-442A-AF14-62F0DC75C28C-scaled.jpg?resize=400%2C235&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_86AFCD14-DC92-442A-AF14-62F0DC75C28C-scaled.jpg?resize=706%2C415&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_86AFCD14-DC92-442A-AF14-62F0DC75C28C-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_86AFCD14-DC92-442A-AF14-62F0DC75C28C-scaled.jpg?fit=1024%2C602&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73159" data-permalink="https://islandtimes.org/senatorial-candidates-discuss-key-issues-at-pcc-congressional-forum/messenger_creation_86afcd14-dc92-442a-af14-62f0dc75c28c/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_86AFCD14-DC92-442A-AF14-62F0DC75C28C-scaled.jpg?fit=2560%2C1506&amp;ssl=1" data-orig-size="2560,1506" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Messenger_creation_86AFCD14-DC92-442A-AF14-62F0DC75C28C" data-image-description="" data-image-caption="&lt;p&gt;Senatorial candidates discuss keys issues in senatorial forum&lt;/p&gt;
+<figure><img width="1024" height="602" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_86AFCD14-DC92-442A-AF14-62F0DC75C28C-scaled.jpg?fit=1024%2C602&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_86AFCD14-DC92-442A-AF14-62F0DC75C28C-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_86AFCD14-DC92-442A-AF14-62F0DC75C28C-scaled.jpg?resize=300%2C176&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_86AFCD14-DC92-442A-AF14-62F0DC75C28C-scaled.jpg?resize=1024%2C602&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_86AFCD14-DC92-442A-AF14-62F0DC75C28C-scaled.jpg?resize=768%2C452&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_86AFCD14-DC92-442A-AF14-62F0DC75C28C-scaled.jpg?resize=1536%2C903&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_86AFCD14-DC92-442A-AF14-62F0DC75C28C-scaled.jpg?resize=2048%2C1205&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_86AFCD14-DC92-442A-AF14-62F0DC75C28C-scaled.jpg?resize=1200%2C706&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_86AFCD14-DC92-442A-AF14-62F0DC75C28C-scaled.jpg?resize=1568%2C922&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_86AFCD14-DC92-442A-AF14-62F0DC75C28C-scaled.jpg?resize=2000%2C1176&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_86AFCD14-DC92-442A-AF14-62F0DC75C28C-scaled.jpg?resize=400%2C235&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_86AFCD14-DC92-442A-AF14-62F0DC75C28C-scaled.jpg?resize=706%2C415&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_86AFCD14-DC92-442A-AF14-62F0DC75C28C-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_86AFCD14-DC92-442A-AF14-62F0DC75C28C-scaled.jpg?fit=1024%2C602&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73159" data-permalink="https://islandtimes.org/senatorial-candidates-discuss-key-issues-at-pcc-congressional-forum/messenger_creation_86afcd14-dc92-442a-af14-62f0dc75c28c/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_86AFCD14-DC92-442A-AF14-62F0DC75C28C-scaled.jpg?fit=2560%2C1506&amp;ssl=1" data-orig-size="2560,1506" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Messenger_creation_86AFCD14-DC92-442A-AF14-62F0DC75C28C" data-image-description="" data-image-caption="&lt;p&gt;Senatorial candidates discuss keys issues in senatorial forum&lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_86AFCD14-DC92-442A-AF14-62F0DC75C28C-scaled.jpg?fit=300%2C176&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Messenger_creation_86AFCD14-DC92-442A-AF14-62F0DC75C28C-scaled.jpg?fit=780%2C459&amp;ssl=1" tabindex="0" role="button" /></figure>
 <p>BY: Eustoria Marie Borja Koror, Palau – The first of two senatorial candidate forums for the 2024 election took place at the Palau Community College (PCC) Assembly Hall on October 14, where eight candidates engaged in lively discussions about Palau&#8217;s most pressing issues. Organized by Irene Olkeriil and Kambes Kesolei, the forum featured five incumbent [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/senatorial-candidates-discuss-key-issues-at-pcc-congressional-forum/">Senatorial Candidates Discuss key issues at PCC Congressional Forum</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
@@ -1425,7 +1574,7 @@ date: 2024-10-15, from: Island Times
 
 date: 2024-10-15, from: Island Times
 
-<figure><img width="1024" height="794" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/GGP-Signing-Photo-Ngatpang-Stat1.jpg?fit=1024%2C794&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/GGP-Signing-Photo-Ngatpang-Stat1.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/GGP-Signing-Photo-Ngatpang-Stat1.jpg?resize=300%2C233&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/GGP-Signing-Photo-Ngatpang-Stat1.jpg?resize=1024%2C794&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/GGP-Signing-Photo-Ngatpang-Stat1.jpg?resize=768%2C595&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/GGP-Signing-Photo-Ngatpang-Stat1.jpg?resize=1200%2C930&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/GGP-Signing-Photo-Ngatpang-Stat1.jpg?resize=400%2C310&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/GGP-Signing-Photo-Ngatpang-Stat1.jpg?resize=706%2C547&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/GGP-Signing-Photo-Ngatpang-Stat1.jpg?fit=1024%2C794&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73155" data-permalink="https://islandtimes.org/new-sanitary-facility-to-be-built-at-kokusai-park-in-ngatpang-signing-ceremony-of-japans-grant-assistance-for-grassroots-human-security-project/ggp-signing-photo-ngatpang-stat1/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/GGP-Signing-Photo-Ngatpang-Stat1.jpg?fit=1249%2C968&amp;ssl=1" data-orig-size="1249,968" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;EMESIOCHEL KYOKO&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="GGP Signing Photo Ngatpang Stat1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/GGP-Signing-Photo-Ngatpang-Stat1.jpg?fit=300%2C233&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/GGP-Signing-Photo-Ngatpang-Stat1.jpg?fit=780%2C605&amp;ssl=1" tabindex="0" role="button" /></figure>
+<figure><img width="1024" height="794" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/GGP-Signing-Photo-Ngatpang-Stat1.jpg?fit=1024%2C794&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/GGP-Signing-Photo-Ngatpang-Stat1.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/GGP-Signing-Photo-Ngatpang-Stat1.jpg?resize=300%2C233&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/GGP-Signing-Photo-Ngatpang-Stat1.jpg?resize=1024%2C794&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/GGP-Signing-Photo-Ngatpang-Stat1.jpg?resize=768%2C595&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/GGP-Signing-Photo-Ngatpang-Stat1.jpg?resize=1200%2C930&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/GGP-Signing-Photo-Ngatpang-Stat1.jpg?resize=400%2C310&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/GGP-Signing-Photo-Ngatpang-Stat1.jpg?resize=706%2C547&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/GGP-Signing-Photo-Ngatpang-Stat1.jpg?fit=1024%2C794&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73155" data-permalink="https://islandtimes.org/new-sanitary-facility-to-be-built-at-kokusai-park-in-ngatpang-signing-ceremony-of-japans-grant-assistance-for-grassroots-human-security-project/ggp-signing-photo-ngatpang-stat1/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/GGP-Signing-Photo-Ngatpang-Stat1.jpg?fit=1249%2C968&amp;ssl=1" data-orig-size="1249,968" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;EMESIOCHEL KYOKO&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="GGP Signing Photo Ngatpang Stat1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/GGP-Signing-Photo-Ngatpang-Stat1.jpg?fit=300%2C233&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/GGP-Signing-Photo-Ngatpang-Stat1.jpg?fit=780%2C605&amp;ssl=1" tabindex="0" role="button" /></figure>
 <p>On October 11, 2024, His Excellency ORIKASA Hiroyuki, Ambassador of Japan to the Republic of Palau, and Honorable Jersey Iyar, Governor of Ngatpang State, signed a grant contact for up to USD $92,694 for “The Project for the Construction of Sanitary Facility at Kokusai Park in Ngatpang State”. This Grant Assistance for Grassroots Human Security [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/new-sanitary-facility-to-be-built-at-kokusai-park-in-ngatpang-signing-ceremony-of-japans-grant-assistance-for-grassroots-human-security-project/">New Sanitary Facility to be Built at Kokusai Park in Ngatpang Signing Ceremony of Japan’s Grant Assistance for Grassroots Human Security Project</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -1440,7 +1589,7 @@ date: 2024-10-15, from: Island Times
 
 date: 2024-10-15, from: Island Times
 
-<figure><img width="998" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Nine-professionals-selected-for-Palauan.jpg?fit=998%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Nine-professionals-selected-for-Palauan.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Nine-professionals-selected-for-Palauan.jpg?resize=293%2C300&amp;ssl=1 293w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Nine-professionals-selected-for-Palauan.jpg?resize=998%2C1024&amp;ssl=1 998w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Nine-professionals-selected-for-Palauan.jpg?resize=768%2C788&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Nine-professionals-selected-for-Palauan.jpg?resize=1200%2C1231&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Nine-professionals-selected-for-Palauan.jpg?resize=400%2C410&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Nine-professionals-selected-for-Palauan.jpg?resize=706%2C724&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Nine-professionals-selected-for-Palauan.jpg?fit=998%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73153" data-permalink="https://islandtimes.org/nine-professionals-selected-for-palauan-voices-in-ocean-exploration-fellowship/nine-professionals-selected-for-palauan/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Nine-professionals-selected-for-Palauan.jpg?fit=1249%2C1281&amp;ssl=1" data-orig-size="1249,1281" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Nine professionals selected for Palauan" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Nine-professionals-selected-for-Palauan.jpg?fit=293%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Nine-professionals-selected-for-Palauan.jpg?fit=780%2C800&amp;ssl=1" tabindex="0" role="button" /></figure>
+<figure><img width="998" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Nine-professionals-selected-for-Palauan.jpg?fit=998%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Nine-professionals-selected-for-Palauan.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Nine-professionals-selected-for-Palauan.jpg?resize=293%2C300&amp;ssl=1 293w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Nine-professionals-selected-for-Palauan.jpg?resize=998%2C1024&amp;ssl=1 998w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Nine-professionals-selected-for-Palauan.jpg?resize=768%2C788&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Nine-professionals-selected-for-Palauan.jpg?resize=1200%2C1231&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Nine-professionals-selected-for-Palauan.jpg?resize=400%2C410&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Nine-professionals-selected-for-Palauan.jpg?resize=706%2C724&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Nine-professionals-selected-for-Palauan.jpg?fit=998%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73153" data-permalink="https://islandtimes.org/nine-professionals-selected-for-palauan-voices-in-ocean-exploration-fellowship/nine-professionals-selected-for-palauan/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Nine-professionals-selected-for-Palauan.jpg?fit=1249%2C1281&amp;ssl=1" data-orig-size="1249,1281" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Nine professionals selected for Palauan" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Nine-professionals-selected-for-Palauan.jpg?fit=293%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Nine-professionals-selected-for-Palauan.jpg?fit=780%2C800&amp;ssl=1" tabindex="0" role="button" /></figure>
 <p>(Koror, Palau –October 10, 2024) — Nine Palauan early career professionals were selected to participate in a new training fellowship for culturally grounded ocean science communication and public outreach. Congratulations to all the Palauan Voices in Ocean Exploration Fellows! Mireia Batlle Canalias — Communications and Outreach Officer, PICRC Rebecca Carey — Communications and Outreach Officer, [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/nine-professionals-selected-for-palauan-voices-in-ocean-exploration-fellowship/">Nine professionals selected for Palauan Voices in Ocean Exploration Fellowship </a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -1455,7 +1604,7 @@ date: 2024-10-15, from: Island Times
 
 date: 2024-10-15, from: Island Times
 
-<figure><img width="1024" height="747" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/SPC-Training-Bio-and-Customs-10.11.24.jpeg?fit=1024%2C747&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/SPC-Training-Bio-and-Customs-10.11.24.jpeg?w=1161&amp;ssl=1 1161w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/SPC-Training-Bio-and-Customs-10.11.24.jpeg?resize=300%2C219&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/SPC-Training-Bio-and-Customs-10.11.24.jpeg?resize=1024%2C747&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/SPC-Training-Bio-and-Customs-10.11.24.jpeg?resize=768%2C560&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/SPC-Training-Bio-and-Customs-10.11.24.jpeg?resize=400%2C292&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/SPC-Training-Bio-and-Customs-10.11.24.jpeg?resize=706%2C515&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/SPC-Training-Bio-and-Customs-10.11.24.jpeg?fit=1024%2C747&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73151" data-permalink="https://islandtimes.org/successful-biosecurity-training-conducted-to-boost-export-capacity-for-pacific-acp-states/spc-training-bio-and-customs-10-11-24/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/SPC-Training-Bio-and-Customs-10.11.24.jpeg?fit=1161%2C847&amp;ssl=1" data-orig-size="1161,847" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="SPC Training Bio and Customs (10.11.24)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/SPC-Training-Bio-and-Customs-10.11.24.jpeg?fit=300%2C219&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/SPC-Training-Bio-and-Customs-10.11.24.jpeg?fit=780%2C569&amp;ssl=1" tabindex="0" role="button" /></figure>
+<figure><img width="1024" height="747" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/SPC-Training-Bio-and-Customs-10.11.24.jpeg?fit=1024%2C747&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/SPC-Training-Bio-and-Customs-10.11.24.jpeg?w=1161&amp;ssl=1 1161w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/SPC-Training-Bio-and-Customs-10.11.24.jpeg?resize=300%2C219&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/SPC-Training-Bio-and-Customs-10.11.24.jpeg?resize=1024%2C747&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/SPC-Training-Bio-and-Customs-10.11.24.jpeg?resize=768%2C560&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/SPC-Training-Bio-and-Customs-10.11.24.jpeg?resize=400%2C292&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/SPC-Training-Bio-and-Customs-10.11.24.jpeg?resize=706%2C515&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/SPC-Training-Bio-and-Customs-10.11.24.jpeg?fit=1024%2C747&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73151" data-permalink="https://islandtimes.org/successful-biosecurity-training-conducted-to-boost-export-capacity-for-pacific-acp-states/spc-training-bio-and-customs-10-11-24/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/SPC-Training-Bio-and-Customs-10.11.24.jpeg?fit=1161%2C847&amp;ssl=1" data-orig-size="1161,847" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="SPC Training Bio and Customs (10.11.24)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/SPC-Training-Bio-and-Customs-10.11.24.jpeg?fit=300%2C219&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/SPC-Training-Bio-and-Customs-10.11.24.jpeg?fit=780%2C569&amp;ssl=1" tabindex="0" role="button" /></figure>
 <p>October 11, 2024 – &#160;As part of the capacity building work in the Pacific region, a successful Biosecurity Training was held in Palau from September 29 to October 11, 2024, in collaboration with the Pacific Community (SPC). There were a total of 19 participants, including 7 Biosecurity Officers, 6 Customs Officers, and 6 staff from [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/successful-biosecurity-training-conducted-to-boost-export-capacity-for-pacific-acp-states/">Successful Biosecurity Training Conducted to Boost Export Capacity for Pacific ACP States</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  

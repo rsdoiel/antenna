@@ -1,11 +1,99 @@
 ---
 title: central coast
-updated: 2024-10-17 07:32:19
+updated: 2024-10-17 17:23:43
 ---
 
 # central coast
 
-(date: 2024-10-17 07:32:19)
+(date: 2024-10-17 17:23:43)
+
+---
+
+## Captain’s Log: Find Way to Assist Critters Displaced by Construction
+
+date: 2024-10-17, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>I accept that we build homes, shopping areas, common areas, schools, parks, etc. on wild land. We need to manage our growth in a sensible manner, and I am heartened [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/captains-log-find-way-to-assist-critters-displaced-by-construction/">Captain’s Log: Find Way to Assist Critters Displaced by Construction </a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/captains-log-find-way-to-assist-critters-displaced-by-construction/>
+
+---
+
+## Cox Mobile Announces Phone Case Design Contest for Boys & Girls Club Teens
+
+date: 2024-10-17, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Cox-Innovation-Lab-210-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A small group of kids sitting around in a table working on their tablets" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Cox-Innovation-Lab-210-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Cox-Innovation-Lab-210-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Cox-Innovation-Lab-210-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Cox-Innovation-Lab-210-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Cox-Innovation-Lab-210-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Cox-Innovation-Lab-210-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Cox-Innovation-Lab-210-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Cox-Innovation-Lab-210-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Cox-Innovation-Lab-210-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Cox-Innovation-Lab-210-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Cox-Innovation-Lab-210-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Cox-Innovation-Lab-210-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Grand prize winner to receive a $25,000 Cox Mobile scholarship; Boys &#038; Girls Clubs of America alumni Mario Lopez and Dr. Mona Dixon to serve on the judging panel</p>
+<p>The post <a href="https://www.noozhawk.com/cox-mobile-announces-phone-case-design-contest-for-boys-girls-club-teens/">Cox Mobile Announces Phone Case Design Contest for Boys &amp; Girls Club Teens</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/cox-mobile-announces-phone-case-design-contest-for-boys-girls-club-teens/>
+
+---
+
+## All Saints-by-the-Sea Montecito Church Designated a Historic Landmark
+
+date: 2024-10-17, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101624-All-Saints-church-DG-01.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="On Tuesday, the Board of Supervisors approved the nomination of All Saints-by-the-Sea Episcopal Church to be designated a historical landmark." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101624-All-Saints-church-DG-01.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101624-All-Saints-church-DG-01.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101624-All-Saints-church-DG-01.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101624-All-Saints-church-DG-01.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101624-All-Saints-church-DG-01.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101624-All-Saints-church-DG-01.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101624-All-Saints-church-DG-01.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101624-All-Saints-church-DG-01.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101624-All-Saints-church-DG-01.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>All the saints have a reason to celebrate. On Tuesday, the Santa Barbara Board of Supervisors approved an application to designate All Saints-by-the-Sea Episcopal Church as a historic landmark. The [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/all-saints-by-the-sea-montecito-church-designated-a-historic-landmark/">All Saints-by-the-Sea Montecito Church Designated a Historic Landmark</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/all-saints-by-the-sea-montecito-church-designated-a-historic-landmark/>
+
+---
+
+## Finding the Perfect Pet Getaway: How to Choose the Right Pet Retreat
+
+date: 2024-10-17, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="969" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Pet-Retreat.png?fit=1024%2C969&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Man and Woman playing with two small dogs" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Pet-Retreat.png?w=1390&amp;ssl=1 1390w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Pet-Retreat.png?resize=300%2C284&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Pet-Retreat.png?resize=1024%2C969&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Pet-Retreat.png?resize=768%2C727&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Pet-Retreat.png?resize=1200%2C1136&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Pet-Retreat.png?resize=400%2C379&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Pet-Retreat.png?fit=1024%2C969&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Choosing the right pet retreat involves evaluating facility features, staff qualifications, wellness policies, and special amenities to ensure a safe, comfortable, and enriching experience for your pet</p>
+<p>The post <a href="https://www.noozhawk.com/finding-the-perfect-pet-getaway-how-to-choose-the-right-pet-retreat/">Finding the Perfect Pet Getaway: How to Choose the Right Pet Retreat</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/finding-the-perfect-pet-getaway-how-to-choose-the-right-pet-retreat/>
+
+---
+
+## The Power of Plants: How Small Dietary Changes Can Improve Your Health
+
+date: 2024-10-17, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/mh-diet-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A man eating a healthy breakfast" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/mh-diet-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/mh-diet-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/mh-diet-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/mh-diet-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/mh-diet-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/mh-diet-scaled.jpeg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/mh-diet-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/mh-diet-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/mh-diet-scaled.jpeg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/mh-diet-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/mh-diet-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/mh-diet-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>“plant-forward” diets that include other foods but still attempt to include more plants can have notable impacts</p>
+<p>The post <a href="https://www.noozhawk.com/the-power-of-plants-how-small-dietary-changes-can-improve-your-health/">The Power of Plants: How Small Dietary Changes Can Improve Your Health</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/the-power-of-plants-how-small-dietary-changes-can-improve-your-health/>
+
+---
+
+## Police Advise Parents to Be Proactive in Teaching Teens to Drive Safely
+
+date: 2024-10-17, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>According to the National Highway Traffic Safety Administration, there were 2,514 people killed in crashes involving a teen driver in 2022. In California, young drivers were involved in nearly 12% [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/police-advise-parents-to-be-proactive-in-teaching-teens-to-drive-safely/">Police Advise Parents to Be Proactive in Teaching Teens to Drive Safely</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/police-advise-parents-to-be-proactive-in-teaching-teens-to-drive-safely/>
 
 ---
 
@@ -13,7 +101,7 @@ updated: 2024-10-17 07:32:19
 
 date: 2024-10-17, from: Newshawk, the freshest news in Santa Barbara County
 
-<figure><img width="683" height="1024" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/DRACULA-A-COMEDY-OF-TERRORS-8-scaled.jpg?fit=683%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Adam Hagenbuch and Regina Fernandez star in the Ensemble Theatre Company production of &#039;DRACULA: A Comedy of Terrorors,&#039; directed by Jamie Torcellini, at the New Vic Theatre in Santa Barbara. (Zach Mendez photo)" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/DRACULA-A-COMEDY-OF-TERRORS-8-scaled.jpg?w=1707&amp;ssl=1 1707w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/DRACULA-A-COMEDY-OF-TERRORS-8-scaled.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/DRACULA-A-COMEDY-OF-TERRORS-8-scaled.jpg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/DRACULA-A-COMEDY-OF-TERRORS-8-scaled.jpg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/DRACULA-A-COMEDY-OF-TERRORS-8-scaled.jpg?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/DRACULA-A-COMEDY-OF-TERRORS-8-scaled.jpg?resize=1366%2C2048&amp;ssl=1 1366w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/DRACULA-A-COMEDY-OF-TERRORS-8-scaled.jpg?resize=1200%2C1799&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/DRACULA-A-COMEDY-OF-TERRORS-8-scaled.jpg?resize=1568%2C2351&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/DRACULA-A-COMEDY-OF-TERRORS-8-scaled.jpg?resize=2000%2C2999&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/DRACULA-A-COMEDY-OF-TERRORS-8-scaled.jpg?resize=400%2C600&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/DRACULA-A-COMEDY-OF-TERRORS-8-scaled.jpg?fit=683%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="683" height="1024" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/DRACULA-A-COMEDY-OF-TERRORS-8-scaled.jpg?fit=683%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Adam Hagenbuch and Regina Fernandez star in the Ensemble Theatre Company production of &#039;DRACULA: A Comedy of Terrorors,&#039; directed by Jamie Torcellini, at the New Vic Theatre in Santa Barbara. (Zach Mendez photo)" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/DRACULA-A-COMEDY-OF-TERRORS-8-scaled.jpg?w=1707&amp;ssl=1 1707w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/DRACULA-A-COMEDY-OF-TERRORS-8-scaled.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/DRACULA-A-COMEDY-OF-TERRORS-8-scaled.jpg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/DRACULA-A-COMEDY-OF-TERRORS-8-scaled.jpg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/DRACULA-A-COMEDY-OF-TERRORS-8-scaled.jpg?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/DRACULA-A-COMEDY-OF-TERRORS-8-scaled.jpg?resize=1366%2C2048&amp;ssl=1 1366w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/DRACULA-A-COMEDY-OF-TERRORS-8-scaled.jpg?resize=1200%2C1799&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/DRACULA-A-COMEDY-OF-TERRORS-8-scaled.jpg?resize=1568%2C2351&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/DRACULA-A-COMEDY-OF-TERRORS-8-scaled.jpg?resize=2000%2C2999&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/DRACULA-A-COMEDY-OF-TERRORS-8-scaled.jpg?resize=400%2C600&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/DRACULA-A-COMEDY-OF-TERRORS-8-scaled.jpg?fit=683%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>“What’s wrong, Babe? You don’t like pumpkin spice wartime election eclipse hurricane season?” My favorite quip on Instagram sums up the moment. If it sure makes sense to you, the [&#8230;]</p>
 <p>The post <a href="https://www.noozhawk.com/dracula-a-comedy-of-terrors-laughter-is-the-most-fun-medicine/">&#8216;DRACULA: A Comedy of Terrors;&#8217; Laughter is the Most Fun Medicine</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  
