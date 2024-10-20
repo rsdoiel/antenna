@@ -1,11 +1,173 @@
 ---
 title: columns
-updated: 2024-10-19 19:41:38
+updated: 2024-10-20 08:34:07
 ---
 
 # columns
 
-(date: 2024-10-19 19:41:38)
+(date: 2024-10-20 08:34:07)
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-10-20, from: Miguel de Icaza Mastondon feed)
+
+<p>Just last week my beautiful Xcode-inspired design for the debugger pad met the reality of iPad and launching an app side by side.</p><p>It is hideous, and I am fixing:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113340323996071935>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-10-20, from: Miguel de Icaza Mastondon feed)
+
+<p>The sole reason I haven’t release Godot on iPad is that I have some 100 bugs that must be fixed, and everyone using it would be pretty annoyed at things like this:</p><p>We are working around the clock, but the “must be fixed for a small preview” list as grown to about 30 bugs has we do full tutorial walkthroughs, and get to experience every bit:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113340300888539368>
+
+---
+
+## Aretha Franklin‘s ’Think‘
+
+date: 2024-10-20, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<br> 
+
+<https://steady.substack.com/p/aretha-franklins-think>
+
+---
+
+## Sunday caption contest: If his lies could speak
+
+date: 2024-10-20, from: Robert Reich's blog
+
+And last week&#8217;s winner 
+
+<br> 
+
+<https://robertreich.substack.com/p/sunday-caption-contest-if-his-lies>
+
+---
+
+## October 19, 2024 
+
+date: 2024-10-20, from: Heather Cox Richardson blog
+
+A number of people telling me we all need a night off had almost convinced me not to write tonight. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/october-19-2024>
+
+---
+
+## October 18, 2024
+
+date: 2024-10-20, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/150463635/604579f571c31584ae625198bd666574.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/150463635/604579f571c31584ae625198bd666574.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/october-18-2024-bb3>
+
+---
+
+## Election Countdown, 17 Days to Go: Ground Truths That Matter.
+
+date: 2024-10-20, from: James Fallows, Substack
+
+In the chaos of daily news, don't lose sight of: The danger of JD Vance, the naked agitprop of Fox, and the common sense of citizens. 
+
+<br> 
+
+<https://fallows.substack.com/p/election-countdown-17-days-to-go>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-19, from: Dave Winer's Scripting News)
+
+I asked ChatGPT to <a href="https://imgs.scripting.com/2024/10/19/metswin.png">illustrate</a> my post. Not bad. Very colorful! 
+
+<br> 
+
+<http://scripting.com/2024/10/19.html#a132955>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-19, from: Dave Winer's Scripting News)
+
+It's possible the Dodgers let the Mets win as I <a href="http://scripting.com/2024/10/18.html#a144749">begged</a> them to yesterday, but it's also possible the Mets just <a href="https://sports.yahoo.com/live/dodgers-vs-mets-new-york-bats-come-alive-in-game-5-sending-series-back-to-los-angeles-201027428.html">crushed</a> the Dodgers, but either way, the Mets are still in it. The series is now 3-2, and returns to Los Angeles tomorrow. So we don't have to tear down <a href="https://en.wikipedia.org/wiki/Citi_Field">Citi Field</a> after all. If the Dodgers win it'll be in their own stadium. The Mets were magnificent! Absolutely inspiring. A three-run home run by Alonso started things off. Everyone got on base. Doubles and triples. It wasn't without the concern that our wonderful and lovable Mets would do the usual Mets thing and snatch defeat from the jaws of victory, but they held out. The final score was 12-6. We're still in it. Lets go Mets! 
+
+<br> 
+
+<http://scripting.com/2024/10/19.html#a132034>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-19, from: Dave Winer's Scripting News)
+
+<a href="https://mastodon.social/@Gargron/113330804558010593">Eugen Rochko</a>, the lead developer of Mastodon: "Fediverse integration in Threads is still in a sorry state over a year since launch. They need to be able to follow us back. They need to see when we mention them. Those are such basic things." They got what they wanted, they got the users and press to relax because they’re Facebook who we know, but this is different, it’s the fediverse. And they got Eugen and others to validate them. This always works, standard tech playbook. they give up nothing, then the priority changes. I don't like being right. But they're never going to change in Silicon Valley. They do what works, and take advantage of newcomers who want to believe. 
+
+<br> 
+
+<http://scripting.com/2024/10/19.html#a131620>
+
+---
+
+## Trump is unstable, Harris is super able | The Coffee Klatch: October 19, 2024
+
+date: 2024-10-19, from: Robert Reich's blog
+
+With Heather Lofthouse and Yours Truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/150420740/fd273e48859f1d09cc4abb313aeb831e.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/150420740/fd273e48859f1d09cc4abb313aeb831e.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/trump-is-unstable-harris-is-super>
+
+---
+
+## October 18, 2024
+
+date: 2024-10-19, from: Heather Cox Richardson blog
+
+The events of January 6, 2021, overshadowed those of January 5, 2021, but that day was crucially important in a different way: Georgia voters elected two Democrats, Raphael Warnock and Jon Ossoff, to the U.S. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/october-18-2024>
+
+---
+
+## Weeknotes: Oct. 11-18, 2024
+
+date: 2024-10-19, from: Tracy Durnell Blog
+
+Win of the week: finally did a bit of writing! Looking forward to: voting &#8212; got my ballot in the mail today! 🗳️ Stuff I did: 6.5 hours consulting &#8212; multiple client meetings, which is uncommon for me 2.5 hours writing &#8212; woo! took Monday off from consulting work more pruning and dug up a volunteer [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2024/10/18/weeknotes-oct-11-18-2024/>
+
+---
+
+## History Extra for October 17, 2024
+
+date: 2024-10-19, from: Heather Cox Richardson blog
+
+&#8220;Reality TV&#8221; as its own genre arrived in the U.S. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/history-extra-for-october-17-2024>
 
 ---
 
@@ -2328,183 +2490,4 @@ Celebrated another trip around the sun this week with a day on the water.
 <br> 
 
 <https://heathercoxrichardson.substack.com/p/october-12-2024>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-10-12, from: Dave Winer's Scripting News)
-
-<img class="imgRightMargin" src="https://imgs.scripting.com/2021/12/12/zen.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I would switch to any <a href="https://en.wikipedia.org/wiki/List_of_podcast_clients">podcatcher</a> that let me edit my subscription list outside their app, because I use that list in different contexts, also because I’d like to share my list with others, and would like that to be a dynamic connection, so I could add feeds as I learn about them, or remove feeds that have stopped updating. Also because there are lots of others, aka influencers who’d like to too. You’d own the market if you did this. 
-
-<br> 
-
-<http://scripting.com/2024/10/12.html#a211940>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-10-12, from: Dave Winer's Scripting News)
-
-The common denominator between journalism, business and politics is that none of them have any respect for people. To rise in influence, money or power you have to give up imagination, and be ruled by cynicism. If you don’t believe this, show me a journalist who listens, a business that makes products for thinkers, or a politician who lets individual people lead them. 
-
-<br> 
-
-<http://scripting.com/2024/10/12.html#a211848>
-
----
-
-## Fighting climate change with financial reform
-
-date: 2024-10-12, from: Tracy Durnell Blog
-
-Notes on What&#8217;s Happening Right Now by Alex Steffen There&#8217;s no new normal; the climate is moving from something we knew to a fluctuating set of conditions; we won&#8217;t be able to predict what the world we&#8217;re building for will look like. That means we have to rebuild in ways that limit anticipated risks and [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2024/10/12/fighting-climate-change-with-financial-reform/>
-
----
-
-## October 11, 2024
-
-date: 2024-10-12, from: Heather Cox Richardson blog
-
- 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/150148181/7032ace533c01929773c562b9d347fab.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/150148181/7032ace533c01929773c562b9d347fab.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://heathercoxrichardson.substack.com/p/october-11-2024-824>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-10-12, from: Dave Winer's Scripting News)
-
-<a href="https://en.m.wikipedia.org/wiki/Cynicism_(contemporary)">Cynicism</a> isn’t always the right explanation. Sometimes people just want to share something good with you, that doesn’t necessarily mean they’re stupid, maybe they just like you. 
-
-<br> 
-
-<http://scripting.com/2024/10/12.html#a165035>
-
----
-
-## Payback time for the Dodgers
-
-date: 2024-10-12, from: Dave Winer's Scripting News
-
-<p>Well we know who the Mets are facing, starting tomorrow, in the National League championship series. </p>
-<p>Last time we played the Dodgers in the postseason we <a href="https://www.baseball-reference.com/postseason/2015_NLDS2.shtml">kicked their ass</a>. And now they have the nerve to show up again. Geez some people never learn. </p>
-<p>And we haven't forgotten how <a href="https://www.youtube.com/watch?v=BRbFJo83mlg">Chase Utley</a> broke <a href="https://en.wikipedia.org/wiki/Rub%C3%A9n_Tejada">Rubin Tejada's</a> leg, <a href="http://scripting.com/2015/10/11/baseballGotUglyLastNight.html">deliberately</a>, basically ending his major league career. We thought he should have been arrested for that, no kidding -- it was a vicious un-baseball assault. He and the Dodgers showed <a href="https://dodgers.mlblogs.com/off-day-report-mattingly-addresses-utley-tejada-a2ba255e751f">no remorse</a>. </p>
-<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/10/12/payback.png"></center>The only payback that matters is victory.</div></p>
-<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/10/12/mrMetAtBat.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Update: The Jankees are playing Cleveland in the ALCS, and while some people with limited imaginations wish for a <a href="https://en.wikipedia.org/wiki/Subway_Series">Subway Series</a> betw the the two NY teams, I do not. I have a rule, I always root for the team the Jankees are playing. Thus I hope to see a World Series between the Mets and so-called "Guardians." And of course the Mets would be heavily favored in that contest because the Cleveland team has changed their name to something impossible to pronounce, ethically. When you change your name, like <a href="http://scripting.com/2015/09/21/silverLiningMetsBook.html#aIWPAT">tearing down your stadium</a> (something that took the Mets a long time to recover from) you basically put a hex on your team making it virtually impossible for your philosophy to prevail. So Mets v Guardians, while not necessarily what I predict, rather is something I <i>hope</i> <i>for</i>, and as long as the game is played with philosophy, that's the real victory! So get em METS and never forget there's always next year. <span class="spOldSchoolEmoji">❤️</span></p>
- 
-
-<br> 
-
-<http://scripting.com/2024/10/12/150933.html?title=paybackTimeForTheDodgers>
-
----
-
-## Goldendale, Washington Car Meet
-
-date: 2024-10-12, updated: 2024-10-12, from: Russell Graves, Syonyk's Project Blog
-
- 
-
-<br> 
-
-<https://www.sevarg.net/2024/10/12/goldendale-washington/>
-
----
-
-## Why is this possible now?
-
-date: 2024-10-12, from: Dave Winer's Scripting News
-
-<p>BTW, the reason there's such a confluence of power between WordPress and Mastodon is this.</p>
-<p>WordPress has a <a href="https://github.com/Automattic/wp-calypso/tree/trunk/packages/wpcom.js">complete, debugged, deployed, scaled and frozen API</a>. It's been around since 2016 or so.</p>
-<p>In contrast Mastodon, while they're doing excellent work, is trying to wrangle an already large community into a set of consistent interfaces. It's very hard for an outsider like myself to approach, esp when you're overloaded with your own work (which we all are).</p>
-<p>Meanwhile, Automattic has a small team whose only job is to make WordPress work with Mastodon.</p>
-<p>So I can build software that works with Mastodon without venturing into the rough seas of Mastodon-land. I can stay on the cruise-liner, which is the WordPress API.</p>
-<p>I didn't even know they had this API until last summer. My jaw dropped when I first saw it. It even works with Node.js. And now that I'm on the other side, I haven't hit any insurmountable obstacles or had to wait for something to be decided.</p>
-<p>This is the proper way to build interop. Implementors make things work, not W3C committees (I say that with decades of experience with this, btw).</p>
-<p>I thought it deserved an explanation.</p>
- 
-
-<br> 
-
-<http://scripting.com/2024/10/12/145403.html?title=whyIsThisPossibleNow>
-
----
-
-## Outliner notes
-
-date: 2024-10-12, from: Liam on Linux
-
-<br />Word is a nightmare.<br /><br />&laquo;<br /><div>RT ColiegeStudent on Twitter&nbsp;</div><div>&nbsp;</div><div>using microsoft word</div><div>&nbsp;</div><div>*moves an image 1 mm to the left*</div><div>&nbsp;</div><div>all text and images shift. 4 new pages appear. in the distance, sirens.</div>&raquo;<br /><br /><p>But there's still a lot of power in that festering ball of 1980s code.</p><p>In 6 weeks in 2016, I drafted, wrote, illustrated, laid out and submitted a ~330 page technical maintenance manual for a 3D printer, solo, entirely in MS Word from start to finish. I began in Word 97 &amp; finished it in Word 2003, 95% of the time running under WINE on Linux... and 90% of the time, using it in Outline Mode, which is a *vastly* powerful writer's tool which the FOSS word has nothing even vaguely comparable to.</p><p>But as a novice... Yeah, what the tweet said. It's a timeless classic IMHO.</p>Some Emacs folks told me Org-mode is just as good as an outliner. I've tried it. This was my response.<br /><br /><p>Org mode compared to Word 2003 Outline View is roughly MS-DOS Edlin compared to Emacs. It's a tiny fragmentary partial implementation of 1% of the functionality, done badly, with a terrible *terrible* UI.</p><p>No exaggeration, no hyperbole, and there's a reason I specifically said 2003 and nothing later.<br /><br /><div class="status__action-bar">&nbsp;</div></p><div class="status__content status__content--with-action" tabindex="0"><div class="status__content__text status__content__text--visible translate" lang="en"><p>I've been building and running xNix boxes since 1988. I have often tried both Vi and Emacs over nearly 4 decades. I am unusual in terms of old Unix hands: I cordially detest both of them.</p><p>The reason I cite Word 2003 is that that's the last version with the old menu and toolbar UI. Everything later has a &quot;ribbon&quot; and I find it unusable.</p><p>Today, the web-app/Android/iOS versions of Word do not have Outline View, no. Only the rich local app versions do.</p><p>But no, org-mode is not a better richer alternative; it is vastly inferior, to the point of being almost a parody.</p></div></div><p>It's really not. I tried it, and I found it a slightly sad crippled little thing that might be OK for managing my to-do list.</p><p>Hidden behind Emacs' *awful* 1970s UI which I would personally burn in a fire rather than ever use.</p><p>So, no, I don't think it's a very useful or capable outliner from what I have seen. Logseq has a better one.</p><p>To extend my earlier comparison:</p><p>Org-mode to Word's Outline View is Edlin to Emacs.</p><p>Logseq to Outline View is MS-DOS 5 EDIT to Emacs: it's a capable full-screen text editor that I know and like and which works fine. It's not very powerful but what it does, it does fine.</p><p>Is Org-mode aimed at something else? Maybe, yes. I don't know who or what it's aimed at, so I can't really say.<br />&nbsp;</p><p>Word Outline Mode is the last surviving 1980s outliner, an entire category of app that's disappeared.</p><p><a href="http://outliners.com/default.html" target="_blank" rel="nofollow noopener noreferrer" translate="no" class="status-link unhandled-link" title="http://outliners.com/default.html"><span class="invisible">http://</span><span>outliners.com/default.html</span></a></p><p>It's a good one but it was once one among many. It is, for me, *THE* killer feature of MS Word, and the only thing I keep WINE on my computers for.</p><p>It's a prose writer's tool, for writing long-form documents in a human language.</p><p>Emacs is a programmer's editor for writing program code in programming languages.</p><p>So, no, they are not the same thing, but the superficial similarity confuses people.<br />&nbsp;</p><p>I must pick a fairly small example as I'm not very familiar with Emacs.</p><p>In Outline Mode, a paragraph's level in the hierarchy is tied with its paragraph style. Most people don't know how to use Word's style sheets, but think of HTML. Word has 9 heading levels, like H1...H9 on the Web, plus Body Text, which is always the lowest level.</p><p>As you promote or demote a paragraph, its style automatically changes to match.</p><p>(This has the side effect that you can see the level from the style. If that bothered you, in old versions you could turn off showing the formatting.)</p><p>As you move a block of hierarchical text around the outline all its levels automatically adopt the correct styles for their current location.</p><p>This means that when I wrote a manual in it, I did *no formatting by hand* at all. The text of the entire document is *automatically* formatted according to whether it's a chapter heading, or section, or subsection, or subsubsection, etc.</p><p>When you're done Word can automatically generate a table of contents, or an index, or both, that picks up all those section headings. Both assign page numbers &quot;live&quot;, so if you move, add or delete any section, the ToC and index update immediately with the new positions and page numbers.<br />&nbsp;</p><p>I say a small example as most professional writers don't deal with the formatting at all. That's the job of someone else in a different department.</p><p>Or, in technical writing, this is the job of some program. It's the sort of thing that Linux folks get very excited about LaTeX and LyX, or for which documentarians praise DocBook or DITA, but I've used both of those and they need a*vast* amount of manual labour -- and *very* complex tooling.</p><p>XML etc are also *extremely* fragile. One punctuation mark in the wrong place and 50 pages of formatting is broken or goes haywire. I've spent days troubleshooting one misplaced `:`. It's horrible.</p><p>Word can do all this automatically, and most people *don't even know the function is there.* It's like driving an articulated lorry as a personal car and never noticing that it can carry 40 tonnes of cargo! Worse still, people attach a trailer and roofrack and load them up with stuff... *because they don't know their vehicle can carry 10 cars already* as a built in feature.</p><p>I could take a sub sub section of a chapter and promote it to a chapter in its own right, and adjust the formatting of 100 pages, in about 6 or 8 keystrokes. That will also rebuild the index and redo the table of contents, automatically, for me.<br />&nbsp;</p><p>All this can be entirely keyboard driven, or entirely mouse driven, according to the user's preference. Or any mixture of both, of course. I'm a keyboard warrior myself. I can live entirely without a pointing device and it barely slows me down.</p><p>You can with a couple of clicks collapse the whole book to just chapter headings, or just those and subheadings, or just all the headings and no body text... Any of 9 levels, as you choose. You can hide all the lower levels, restructure the whole thing, and then show them again. You can adjust formatting by adjusting indents in the overview, and then expand it again to see what happened and if it's what you want.</p><p>You could go crazy... zoom out to the top level, add a few new headings, indent under the new headings, and suddenly in a few clicks, your 1 big book is now 2 or 3 or 4 smaller books, each with its own set of chapters, headings, sub headings, sub sub headings etc. Each can have its own table of contents and index, all automatically generated and updated and formatted.<br />&nbsp;</p><p>I'm an xNix guy, mainly. I try to avoid Windows as much as possible, but the early years of my career were supporting DOS and then Windows. There is good stuff there, and credit where it's due.</p><p>(MS Office on macOS also does this, but the keyboard UI is much clunkier.)</p><p>Outliners were just an everyday tool once. MS just built a good one into Word, way back in the DOS era. Word for DOS can do all this stuff too and it did it in like 200kB of RAM in 1988!</p><p>Integrating it into a word processor makes sense, but they were standalone apps.</p><p>It's not radical tech. This is really old, basic stuff. But somehow in the switch to GUIs on the PC, they got lost in the transition.</p><p>And no, LibreOffice/Abiword/CalligraWords has nothing even resembling this.<br />&nbsp;</p><p>There are 2 types of outliner: intrinsic and extrinsic, also known as 1-pane or 2-pane.</p><p><a href="https://en.wikipedia.org/wiki/Outliner#Layout" target="_blank" rel="nofollow noopener noreferrer" translate="no" class="status-link unhandled-link" title="https://en.wikipedia.org/wiki/Outliner#Layout"><span class="invisible">https://</span><span class="ellipsis">en.wikipedia.org/wiki/Outliner</span><span class="invisible">#Layout</span></a></p><p>There are multiple 2-pane outliners that are FOSS.</p><p>But they are tools for organising info, and are almost totally useless for writers. <br /> <br />There are almost no intrinsic outliners in the FOSS world. I've been looking for years. The only one I know is LoqSeq, but it is just for note-taking and it does none of the formatting/indexing/ToC stuff I mentioned. It does handle Markdown but with zero integration with the outline structure.</p><p>So it's like going from Emacs to Notepad. All the clever stuff is gone, but you can still edit plain text.<br /><br />&nbsp;</p><br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&ditemid=92883" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/> comments 
-
-<br> 
-
-<https://liam-on-linux.dreamwidth.org/92883.html>
-
----
-
-## Inferno notes
-
-date: 2024-10-12, from: Liam on Linux
-
-<div>Plan 9 is Unix but more so. You write code in C and compile it to a native binary and run it as a process. All processes are in containers all the time, and nothing is outside the containers. Everything is virtualised, even the filesystem, and everything really is a file. Windows on screen are files. Computers are files. Disks are files. Any computer on the network can load a program from any other computer on the network (subject to permissions of course), run it on another computer, and display it on a third. The whole network is one giant computer.</div><div>&nbsp;</div><div>You could use a slower workstation and farm out rendering complicated web pages to nearby faster machines, but see it on your screen.</div><div>&nbsp;</div><div>But it's Unix. A binary is still a binary. So if you have a slow Arm64 machine, like a Raspberry Pi 3 (Plan 9 runs great on Raspberry Pis), you can't run your browser on a nearby workstation PC because that's x86-64. Arm binaries can't run on x86, and x86 binaries can't run on Arm.</div><div>&nbsp;</div><div>Wasm (**W**eb **AS**se**M**bly) is a low-level bytecode that can run on any OS on any processor so long as it has a Wasm runtime. Wasm is derived from asm.js which was an earlier effort to write compilers that could target the Javascript runtime inside web browsers, while saving the time it takes to put Javscript through a just-in-time compiler.</div><div>&nbsp;</div><div>https://en.wikipedia.org/wiki/WebAssembly</div><div>&nbsp;</div><div>eBPF (extended Berkeley Packet Filters) is a language for configuring firewall rules, that's been extended into a general programming language. It runs inside the Linux kernel: you write programs that run _as part of the kernel_ (not as apps in userspace) and can change how the kernel works on the fly. The same eBPF code runs inside any Linux kernel on any architecture.&nbsp;</div><div>&nbsp;</div><div>https://en.wikipedia.org/wiki/EBPF</div><div>&nbsp;</div><div>Going back 30 years, Java runs compiled binary code on any CPU because code is compiled to JVM bytecode instead of CPU machine code... But you need a JVM on your OS to run it.</div><div>&nbsp;</div><div>https://en.wikipedia.org/wiki/List_of_Java_virtual_machines</div><div>&nbsp;</div><div>All these are bolted on to another OS, usually Linux.</div><div>&nbsp;</div><div>But the concept works better if integrated right into the OS. That's what Taos did.</div><div>&nbsp;</div><div>https://wiki.c2.com/?TaoIntentOs</div><div>&nbsp;</div><div>Programs are compiled for a virtual CPU that never existed, called VP.</div><div>&nbsp;</div><div>https://en.wikipedia.org/wiki/Virtual_Processor</div><div>&nbsp;</div><div>They are translated from that to whatever processor you're running on as they're loaded from disk into RAM. So *the same binaries*&nbsp; run natively on any CPU. X86-32, x86-64, Arm, Risc-V, doesn't matter.</div><div>&nbsp;</div><div>Very powerful. It was nearly the basis of the next-gen Amiga.</div><div>&nbsp;</div><div>http://www.amigahistory.plus.com/deplayer/august2001.html</div><div>&nbsp;</div><div>But it was a whole new OS and a quite weird OS at that. Taos 1 was very skeletal and limited. Taos 2, renamed Int**e**nt (yes, with the bold), was much more complete but didn't get far before the company went under.</div><div>&nbsp;</div><div>Inferno was a rival to Java and the JVM, around the time Java appeared.</div><div>&nbsp;</div><div>It's Plan 9, but with a virtual processor runtime built right into the kernel. All processes are written in a safer descendant of C called Limbo (it's a direct ancestor of GoLang) and compiled to bytecode that executes in the kernel's VM, which is called Dis.</div><div>&nbsp;</div><div>Any and all binaries run on all types of CPU. There is no &quot;native code&quot; any more. The same compiled program runs on x86, on Risc-V, on Arm. It no longer matters. Run all of them together on a single computer.&nbsp;</div><div>&nbsp;</div><div>Running on a RasPi, all your bookmarks and settings are there? No worries, run Firefox on the headless 32-core EPYC box in the next building, displaying on your Retina tablet, but save on the Pi. Or save on your Risc-V laptop's SSD next to your bed. So long as they're all running Inferno, it's all the same. One giant filesystem and all computers run the same binaries.</div><div>&nbsp;</div><div>By the way, it's like 1% of the size of Linux with Wasm, and simpler too.</div><div>&nbsp;</div><br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&ditemid=92655" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/> comments 
-
-<br> 
-
-<https://liam-on-linux.dreamwidth.org/92655.html>
-
----
-
-## The Musking of Trump | The Coffee Klatch | October 12, 2024
-
-date: 2024-10-12, from: Robert Reich's blog
-
-With Heather Lofthouse and Yours Truly, Robert Reich 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/150111388/426cc5ff7f8319d73a279f0303ca0360.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/150111388/426cc5ff7f8319d73a279f0303ca0360.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://robertreich.substack.com/p/the-musking-of-trump-the-coffee-klatch>
-
----
-
-## October 11, 2024
-
-date: 2024-10-12, from: Heather Cox Richardson blog
-
-A report from the Labor Department yesterday showed that inflation has dropped again, falling back to 2.4%, the same rate as it was just before the coronavirus pandemic. 
-
-<br> 
-
-<https://heathercoxrichardson.substack.com/p/october-11-2024>
-
----
-
-## Weeknotes: Oct. 5-12, 2024
-
-date: 2024-10-12, from: Tracy Durnell Blog
-
-The house next door is a short term rental and the current renter is a very diligent band &#8212; they played for six hours straight yesterday 😳 (I played wind instruments so my chops would be well shot by that point.) I keep making up their story: are they here to record an album? maybe [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2024/10/11/weeknotes-oct-5-12-2024/>
-
----
-
-## Election Countdown, 25 Days to Go: Delivering the Message, Despite the Media.
-
-date: 2024-10-12, from: James Fallows, Substack
-
-What John Boyd's 'OODA Loop' tells us about the Harris campaign. 
-
-<br> 
-
-<https://fallows.substack.com/p/election-countdown-25-days-to-go>
 

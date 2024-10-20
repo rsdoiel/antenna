@@ -1,11 +1,187 @@
 ---
 title: going electric
-updated: 2024-10-19 19:41:40
+updated: 2024-10-20 08:34:09
 ---
 
 # going electric
 
-(date: 2024-10-19 19:41:40)
+(date: 2024-10-20 08:34:09)
+
+---
+
+## Elon Musk Still Sees The Tesla Semi As A Global Product
+
+date: 2024-10-20, from: Inside EVs News
+
+The Tesla boss previously hinted that the Semi could also be manufactured in Europe. 
+
+<br> 
+
+<https://insideevs.com/news/737950/tesla-semi-truck-available-worldwide/>
+
+---
+
+## E-quipment highlight: Milwaukee M18 FUEL dual battery electric chainsaw
+
+date: 2024-10-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/milwaukee_chainsaw.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Milwaukee Tool’s new M18 FUEL dual-battery electric chainsaw makes up to 5.8 hp – that’s the equivalent of 70 cc of ICE power to deliver faster cutting, fewer stalls, and a more balanced weight distribution for better control.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,electric-power-tools" data-layer-viewtype="unknown" data-post-id="385121" href="https://electrek.co/2024/10/20/e-quipment-highlight-milwaukee-m18-fuel-dual-battery-electric-chainsaw/#more-385121" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/20/e-quipment-highlight-milwaukee-m18-fuel-dual-battery-electric-chainsaw/>
+
+---
+
+## The Peugeot 3008 Is The World's Cheapest EV With A 100 kWh battery
+
+date: 2024-10-20, from: Inside EVs News
+
+With a range of 435 miles and a price tag of $59,400, the French SUV from Stellantis beats the competition. 
+
+<br> 
+
+<https://insideevs.com/news/737676/peugeot-3008-100-kwh-battery-cheap/>
+
+---
+
+## EV owners volunteer to drive voters to the polls in 11 states (and you can too)
+
+date: 2024-10-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/f5035e_45af32781a064fa9b48656db40d0ef70mv2-1.png?w=1600" /></div><p>The US election is coming soon, with early and mail-in voting already open in several states. But for people who don’t have transportation to get to polling places, help might come in the form of a ride from an electric vehicle – and if you live in one of these 11 states, you can volunteer to help.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="384584" href="https://electrek.co/2024/10/20/ev-owners-volunteer-to-drive-voters-to-the-polls-in-11-states-and-you-can-too/#more-384584" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/20/ev-owners-volunteer-to-drive-voters-to-the-polls-in-11-states-and-you-can-too/>
+
+---
+
+## Liebherr announces pilot for world’s first large hydrogen wheel loader
+
+date: 2024-10-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/liebherr_main.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Construction and mining equipment giant Liebherr calls its hydrogen-powered wheel loader the first of its kind in the world. Now, the company says its loader will be part of a pilot project at the Kanzelstein quarry in Gratkorn, Austria.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="heavy-equipment,hydrogen,liebherr" data-layer-viewtype="unknown" data-post-id="385107" href="https://electrek.co/2024/10/20/liebherr-announces-worlds-first-large-hydrogen-wheel-loader/#more-385107" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/20/liebherr-announces-worlds-first-large-hydrogen-wheel-loader/>
+
+---
+
+## Voltera set to expand electric semi truck infrastructure with two new stations
+
+date: 2024-10-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/smart-charger-voltera.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>This week, Voltera announced it was expanding its electric vehicle charging infrastructure network with the addition of two new ZEV infrastructure development sites strategically positioned across key transit hubs in California.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-buses,electric-semi-truck,voltera" data-layer-viewtype="unknown" data-post-id="385096" href="https://electrek.co/2024/10/19/voltera-set-to-expand-electric-semi-truck-infrastructure-with-two-new-stations/#more-385096" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/19/voltera-set-to-expand-electric-semi-truck-infrastructure-with-two-new-stations/>
+
+---
+
+## EU citizens can sue over health problems caused by missed emissions targets
+
+date: 2024-10-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Air_pollution3.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>According to the latest estimates from the World Health Organization (WHO), nearly 300,000 people die each year from respiratory illness caused by poor air quality, with millions more falling ill. Now, European citizens might be able to claim compensation for health problems caused by <br>failure to comply with pollution limits.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="co2-emissions,europe" data-layer-viewtype="unknown" data-post-id="385077" href="https://electrek.co/2024/10/19/eu-citizens-can-sue-over-health-problems-caused-by-missed-emissions-targets/#more-385077" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/19/eu-citizens-can-sue-over-health-problems-caused-by-missed-emissions-targets/>
+
+---
+
+## Forget Screens. Hyundai Wants To Bring Controls To Your Windshield
+
+date: 2024-10-19, from: Inside EVs News
+
+Hyundai's high-tech parts arm and German optical company Zeiss are working on a way to move on from screens. Will it be better? 
+
+<br> 
+
+<https://insideevs.com/news/738024/hyundai-mobis-zeiss-windshield/>
+
+---
+
+## E-quipment highlight: Kubota Ze zero-turn electric lawn mowers
+
+date: 2024-10-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Kubota_ZE-481.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kubota’s Ze-421 and Ze-481 model zero-turn electric lawn mowers are the latest in the company’s Ze Electric Zero-Turn range, promising reduced maintenance, simpler operation, and higher levels of operator comfort. The big question now is: <strong>when will they be available in the US</strong>?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-mowers,kubot" data-layer-viewtype="unknown" data-post-id="385049" href="https://electrek.co/2024/10/19/e-quipment-highlight-kubota-ze-zero-turn-electric-lawn-mowers/#more-385049" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/19/e-quipment-highlight-kubota-ze-zero-turn-electric-lawn-mowers/>
+
+---
+
+## See the electric motorcycles Russian soldiers are now using
+
+date: 2024-10-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/kalashnikov-emotorcycle-head.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Russians have begun testing a locally-made electric motorcycle for combat use in their war against Ukraine. It is no secret that the nearly three-year-long invasion has led to significant Russian losses including thousands of destroyed tanks and other military vehicles. Now the Russians appear to be getting even more creative with their military vehicle selection. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="army,electric-motorcycle" data-layer-viewtype="unknown" data-post-id="385056" href="https://electrek.co/2024/10/19/see-the-electric-motorcycles-russian-soldiers-are-now-using/#more-385056" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/19/see-the-electric-motorcycles-russian-soldiers-are-now-using/>
+
+---
+
+## Watch How This 12-Bay EV Charging Station Was Installed In Just A Few Hours
+
+date: 2024-10-19, from: Inside EVs News
+
+It has a bunch of solar panels on the roof and there’s also a battery-equipped model on offer. 
+
+<br> 
+
+<https://insideevs.com/news/737918/ev-charging-station-3ti-fast-install/>
+
+---
+
+## Amazon is powering up its electric delivery vans with the power of AI
+
+date: 2024-10-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/amazon_ai.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Amazon is using a new, proprietary AI solution called Vision-Assisted Package Retrieval (VAPR) to reduce the time and effort it takes for delivery drivers to locate packages in their vans. Is it a game-changer, or more AI VAPR-ware?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="amazon,artificial-intelligence,commercial-evs" data-layer-viewtype="unknown" data-post-id="385023" href="https://electrek.co/2024/10/19/amazon-is-powering-up-its-electric-delivery-vans-with-the-power-of-ai/#more-385023" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/19/amazon-is-powering-up-its-electric-delivery-vans-with-the-power-of-ai/>
 
 ---
 
@@ -2058,36 +2234,4 @@ date: 2024-10-13, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2024/10/13/price-parity-is-here-new-stellantis-crossover-is-the-same-price-ev-or-ice/>
-
----
-
-## E-quipment highlight: Komatsu launches 400 ton electric mining excavator
-
-date: 2024-10-12, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Excavator-PC4000E-OM-220723-DSC-0188.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Komatsu says its new PC4000-11E hydraulic mining excavator can bring both the powerful digging force of high-performance diesel machines and the emission-free operation of battery power to some of <a href="https://electrek.co/2024/05/14/komatsu-launches-first-ever-electric-drilling-bolting-rigs/">the world’s toughest mining operations</a>.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="heavy-equipment,komatsu,mining" data-layer-viewtype="unknown" data-post-id="383946" href="https://electrek.co/2024/10/12/e-quipment-highlight-komatsu-launches-400-ton-electric-mining-excavator/#more-383946" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2024/10/12/e-quipment-highlight-komatsu-launches-400-ton-electric-mining-excavator/>
-
----
-
-## Kempower chargers installed using only electric construction equipment
-
-date: 2024-10-12, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/all-electric_CHARGER.jpg?quality=82&#038;strip=all&#038;w=1592" /></div><p>Nearly a year after launching the Sweden-US Green Transition Initiative (GTI), the group says it’s completed the first DC fast charging station construction project in the US using <strong>only</strong> electric construction equipment.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,kempower,volvo-construction-equipment" data-layer-viewtype="unknown" data-post-id="383927" href="https://electrek.co/2024/10/12/kempower-chargers-installed-using-only-electric-construction-equipment/#more-383927" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2024/10/12/kempower-chargers-installed-using-only-electric-construction-equipment/>
 

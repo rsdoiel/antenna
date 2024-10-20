@@ -1,11 +1,114 @@
 ---
 title: journalism
-updated: 2024-10-19 19:41:39
+updated: 2024-10-20 08:34:08
 ---
 
 # journalism
 
-(date: 2024-10-19 19:41:39)
+(date: 2024-10-20 08:34:08)
+
+---
+
+## This Week: October 18
+
+date: 2024-10-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+This Week&#8217;s episode highlights include a potential strike by university workers, UCLA women&#8217;s soccer&#8217;s continued success in the Big 10 conference, upcoming cultural events on campus, such as a Dhrupad music concert and a comedy show, the reported killing of Hamas leader Yahya Sinwar and early voting trends in the U.S. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/20/this-week-october-18/>
+
+---
+
+## Sammy Rae & The Friends create magic in LA
+
+date: 2024-10-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The band took to the Hollywood Palladium Thursday night with their album ‘Something for Everybody.’</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/20/sammy-rae-the-friends-create-magic-in-la/">Sammy Rae &#038; The Friends create magic in LA</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/20/sammy-rae-the-friends-create-magic-in-la/>
+
+---
+
+## Fire breaks out on second-floor foyer of Young Hall, area temporarily closes
+
+date: 2024-10-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+A fire broke out in Young Hall Oct. 10, causing a partial shutdown of the building&#8217;s third floor.
+The fire began on the second-floor foyer of Young Hall, according to an emailed statement from a spokesperson for UCLA. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/19/fire-breaks-out-on-second-floor-foyer-of-young-hall-area-temporarily-closes/>
+
+---
+
+## Hillel 818 opens its doors for Mega Shabbat
+
+date: 2024-10-20, from: The Sundail (CSUN Student Newspaper)
+
+Almost every seat in the main hall of Hillel 818 was filled as the Jewish organization held its annual Mega Shabbat on Friday, Oct 7, welcoming the San Fernando Valley... 
+
+<br> 
+
+<https://sundial.csun.edu/186367/arts-entertainment/hillel-818-opens-its-doors-for-mega-shabbat/>
+
+---
+
+## ACM Studio makes game design accessible to all students
+
+date: 2024-10-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+While some college students might enjoy playing video games, the ones in ACM Studio enjoy making them.
+The student-run organization specializes in game development as a subset of the UCLA chapter of the Association for Computing Machinery, said fourth-year cognitive science student Faustine Wang, a senior advisor for ACM Studio. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/19/acm-studio-makes-game-design-accessible-to-all-students/>
+
+---
+
+## UCPD searches for 3 suspects in off-campus hate crime toward students
+
+date: 2024-10-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCPD is searching for three individuals suspected of an off campus battery and hate crime on Saturday.&#160;
+According to a crime alert sent around 10:30 a.m. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/19/ucpd-searches-for-3-suspects-in-off-campus-hate-crime-toward-students/>
+
+---
+
+## Concert review: Even with only 75 minutes, Tinashe shows no fear of getting ‘Nasty’ onstage
+
+date: 2024-10-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+It turns out no one can match Tinashe&#8217;s freak when she&#8217;s on stage.
+The singer-songwriter &#8211; who was born in Kentucky but hails from Pasadena &#8211; returned to Los Angeles for the third stop of her &#8220;Match My Freak World Tour&#8221; on Thursday night at the Greek Theatre. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/18/concert-review-even-with-only-75-minutes-tinashe-shows-no-fear-of-getting-nasty-onstage/>
+
+---
+
+## USAC officers announce additional arrests, warrants related to encampment attack
+
+date: 2024-10-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+Three student government leaders announced additional arrests related to the April 30 counter-protester attack against the Palestine solidarity encampment at UCLA.&#160;
+The arrests were announced in a transparency report posted to Instagram on Friday evening by Undergraduate Students Association Council President Adam Tfayli, Internal Vice President Josh Garland and External Vice President Javier Nuñez-Verdugo. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/18/usac-officers-announce-additional-arrests-warrants-related-to-encampment-attack/>
 
 ---
 
@@ -1217,16 +1320,4 @@ The sounds of jazz music filled the Great Hall of the Soraya on Friday, Oct. 4 a
 <br> 
 
 <https://sundial.csun.edu/186179/arts-entertainment/jazz-music-fills-the-soraya-as-john-beasley-conducts-csun-jazz-bands-a-and-b-in-concert/>
-
----
-
-## CSUN English department showcases opportunities at annual Open House
-
-date: 2024-10-12, from: The Sundail (CSUN Student Newspaper)
-
-The CSUN English department hosted its annual Open House event on Sept. 26, inviting students, particularly freshmen, to explore the various offerings and opportunities available within the department. The event... 
-
-<br> 
-
-<https://sundial.csun.edu/186175/news/csun-english-department-showcases-opportunities-at-annual-open-house/>
 

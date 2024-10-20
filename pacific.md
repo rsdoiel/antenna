@@ -1,11 +1,439 @@
 ---
 title: pacific
-updated: 2024-10-19 19:41:37
+updated: 2024-10-20 08:34:06
 ---
 
 # pacific
 
-(date: 2024-10-19 19:41:37)
+(date: 2024-10-20 08:34:06)
+
+---
+
+## Boeing union says it will vote on new proposal to end strike
+
+date: 2024-10-20, from: Hawaii Tribune Harold
+
+
+				<p>Leaders of Boeing&#8217;s largest union said Saturday that they had reached a &#8220;negotiated proposal&#8221; for a new contract and would put it up for a vote to end a long and expensive strike.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/20/nation-world-news/boeing-union-says-it-will-vote-on-new-proposal-to-end-strike/>
+
+---
+
+## Your Views for October 20
+
+date: 2024-10-20, from: Hawaii Tribune Harold
+
+
+				<p>Guidance &#0010;from League of Women Voters</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/20/opinion/your-views-for-october-20-11/>
+
+---
+
+## As Harris releases records, Trump’s health an open question
+
+date: 2024-10-20, from: Hawaii Tribune Harold
+
+
+				<p>This week, at an event billed as a town hall in Pennsylvania, Donald Trump spent about 40 minutes standing on stage, mostly wordlessly swaying to music that he&#8217;d selected, confusing the press and his fans in attendance.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/20/opinion/as-harris-releases-records-trumps-health-an-open-question/>
+
+---
+
+## Trump steps up attacks on Harris; Usher, Lizzo add star power to Harris push
+
+date: 2024-10-20, from: Hawaii Tribune Harold
+
+
+				<p>ATLANTA/LATROBE, Penn. &#8212; Republican Donald Trump escalated his verbal attacks on Democrat Kamala Harris on Saturday as the vice president turned to celebrities to generate enthusiasm for her campaign, with both candidates for U.S. president courting early voters.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/20/nation-world-news/trump-steps-up-attacks-on-harris-usher-lizzo-add-star-power-to-harris-push/>
+
+---
+
+## Obituaries for October 20
+
+date: 2024-10-20, from: Hawaii Tribune Harold
+
+
+				<p>Oinah Leolani Anakalea, 83, of Hilo, died Aug. 28 at Hale Anuenue Restorative Care Center. Born in Hilo, she was a retired custodian for Haili Church and was also a member of the Haili Church and Kuhio Chapel. Visitation 9-10 a.m. Thursday (Oct. 24) at Dodo Mortuary Chapel. Funeral service at 10 a.m. Burial to follow at Homelani Memorial Park. Casual attire. Survived by son, Leonard Kauai Anakalea of Hilo; sister, Mary Dennison of Las Vegas; two grandsons. Arrangements by Dodo Mortuary.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/20/obituaries/obituaries-for-october-20-10/>
+
+---
+
+## Volcano Watch: Potential long-term outcomes of recent intrusions in Kilauea East Rift Zone
+
+date: 2024-10-20, from: Hawaii Tribune Harold
+
+
+				<p>The intense seismicity and ground deformation along the East Rift Zone of Kilauea in the past couple of months is interpreted to indicate intrusion of magma. Some of this magma can leak to the surface in eruptions, but there are less likely long-term consequences that have historical analogues.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/20/features/volcano-watch-potential-long-term-outcomes-of-recent-intrusions-in-kilauea-east-rift-zone/>
+
+---
+
+## Irwin: Some thoughts after a nerve-wracking night
+
+date: 2024-10-20, from: Hawaii Tribune Harold
+
+
+				<p>My husband was recently a patient at the Hilo Benioff Medical Center. Without getting into too much detail, it was a scary night.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/20/opinion/irwin-some-thoughts-after-a-nerve-wracking-night/>
+
+---
+
+## A fan discovers a new story by ‘Dracula’ author Bram Stoker
+
+date: 2024-10-20, from: Hawaii Tribune Harold
+
+
+				<p>Brian Cleary, a clinical pharmacist in Dublin, was trawling through the archives at the National Library of Ireland a few years ago when he stumbled across something extraordinary: a virtually unknown short story by Bram Stoker, author of the Gothic masterpiece &#8220;Dracula.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/20/nation-world-news/a-fan-discovers-a-new-story-by-dracula-author-bram-stoker/>
+
+---
+
+## Leaked U.S. intelligence suggests Israel is preparing to strike Iran
+
+date: 2024-10-20, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The leak of a pair of highly classified U.S. intelligence documents describing recent satellite images of Israeli military preparations for a potential strike on Iran offers a window into the intense American concerns about Israel&#8217;s plans. It also has U.S. officials working to understand the size of the improper disclosure.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/20/nation-world-news/leaked-u-s-intelligence-suggests-israel-is-preparing-to-strike-iran/>
+
+---
+
+## Elon Musk promises to award $1 million each day to a signer of his petition
+
+date: 2024-10-20, from: Hawaii Tribune Harold
+
+
+				<p>HARRISBURG, Pa. &#8212; Billionaire Elon Musk promised on Saturday to give away $1 million each day until November&#8217;s election to someone who signs his online petition supporting the U.S. Constitution.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/20/nation-world-news/elon-musk-promises-to-award-1-million-each-day-to-a-signer-of-his-petition/>
+
+---
+
+## Reflecting on Lahaina: Former Hawaii Island Civil Defense chief shares some lessons learned from deadly wildfires
+
+date: 2024-10-20, from: Hawaii Tribune Harold
+
+
+				<p>When the Maui Emergency Management Agency named Darryl Oliveira its interim administrator in the wake of the Aug. 8, 2023, wildfires that killed more than 100 people, they tapped the extensive experience of a career Big Island first responder and emergency manager.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/20/hawaii-news/reflecting-on-lahaina-former-hawaii-island-civil-defense-chief-shares-some-lessons-learned-from-deadly-wildfires/>
+
+---
+
+## ‘We’re open to what the community wants’: Judge rules in favor of Ka‘u resort developer
+
+date: 2024-10-20, from: Hawaii Tribune Harold
+
+
+				<p>A judge earlier this month ruled in favor of a developer who sued a homeowners association over long-stalled plans to build a resort in Ka&#8216;u.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/20/hawaii-news/were-open-to-what-the-community-wants-judge-rules-in-favor-of-kau-resort-developer/>
+
+---
+
+## Hilo sawmill proposal withdrawn by property owner after backlash
+
+date: 2024-10-20, from: Hawaii Tribune Harold
+
+
+				<p>A proposal to build a sawmill in Hilo has been withdrawn after backlash from neighbors of the project.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/20/hawaii-news/hilo-sawmill-proposal-withdrawn-by-property-owner-after-backlash/>
+
+---
+
+## Steves: A Dutch day trip to Waterland
+
+date: 2024-10-20, from: Hawaii Tribune Harold
+
+
+				<p>While Amsterdam&#8217;s popularity is well-deserved, travelers who don&#8217;t venture outside the city are missing out on some of Europe&#8217;s most charming countryside.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/20/features/steves-a-dutch-day-trip-to-waterland/>
+
+---
+
+## 'Nothing Micro About Micronesia' to premiere in Big Island, Maui this week
+
+date: 2024-10-20, from: Pacific Island Times
+
+By Pacific Island Times News Staff Hilo, Hawaii —After TeAda Productions ’ successful run on O ʻ ahu, “Nothing Micro About Micronesia”... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/nothing-micro-about-micronesia-to-premiere-in-big-island-maui-this-week>
+
+---
+
+## Guam's youngest entrepreneur launches apparel brand
+
+date: 2024-10-19, from: Pacific Island Times
+
+By Mar-Vic Cagurangan  Age is just a number. The 13-year-old Joaquin Sablan is the epitome of this aphorism and the archetype of the... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-s-youngest-entrepreneur-launches-apparel-brand>
+
+---
+
+## In case of war with China, Guam will be on the frontline 
+
+date: 2024-10-19, from: Pacific Island Times
+
+By Mar-Vic Cagurangan Guam’s proximity to China makes it a default launch pad for any counterattack in the event of a conflict in the... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/in-case-of-war-with-china-guam-will-be-on-the-frontline>
+
+---
+
+## Why Harris remains unlikely to break from Biden on Israel and Gaza
+
+date: 2024-10-19, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Last December, Vice President Kamala Harris flew to a climate conference in Dubai and quickly huddled with the leaders of three Arab nations to discuss Israel&#8217;s war against Hamas in the Gaza Strip.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/19/nation-world-news/why-harris-remains-unlikely-to-break-from-biden-on-israel-and-gaza/>
+
+---
+
+## How Los Angeles is trying to keep homeless people off the streets
+
+date: 2024-10-19, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; The day was shaping up to be another long one for Freddy Bauer.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/19/nation-world-news/how-los-angeles-is-trying-to-keep-homeless-people-off-the-streets/>
+
+---
+
+## Mudslides, misinformation and an urgency to vote in western North Carolina
+
+date: 2024-10-19, from: Hawaii Tribune Harold
+
+
+				<p>BLACK MOUNTAIN, N.C. &#8212; Carolyn Burgess, 71, drove on cracked and crooked roads in Black Mountain, North Carolina, to get to her polling place Thursday, the state&#8217;s first day of early voting. Hurricane Helene had devastated her town, and its 8,500 residents were divided on the government response.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/19/nation-world-news/mudslides-misinformation-and-an-urgency-to-vote-in-western-north-carolina/>
+
+---
+
+## ‘A new day’ at the Supreme Court? Justices decline to block an EPA rule.
+
+date: 2024-10-19, from: Hawaii Tribune Harold
+
+
+				<p>The conservative-majority Supreme Court has taken an aggressive stance against many environmental rules in recent years, but three small victories for regulators this month have left some analysts wondering whether a shift is underway.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/19/nation-world-news/a-new-day-at-the-supreme-court-justices-decline-to-block-an-epa-rule/>
+
+---
+
+## In swing districts, Republicans lean into anti-crime message to court the center
+
+date: 2024-10-19, from: Hawaii Tribune Harold
+
+
+				<p>OREGON CITY, Ore. &#8212; Thirty minutes south of Portland, as rain pattered down from gray skies, Rep. Lori Chavez-DeRemer, R-Ore., was at a wedding venue railing against Democrats in her state for decriminalizing hard drugs and accusing them of failing to support local law enforcement.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/19/nation-world-news/in-swing-districts-republicans-lean-into-anti-crime-message-to-court-the-center/>
+
+---
+
+## Striking Boeing machinists’ union in indirect talks with company, helped by US government
+
+date: 2024-10-19, from: Hawaii Tribune Harold
+
+
+				<p>A union representing striking machinists at Boeing said on Friday it is &#8220;actively engaged in indirect discussions&#8221; with the planemaker that are being facilitated by Acting U.S. Labor Secretary Julie Su.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/19/nation-world-news/striking-boeing-machinists-union-in-indirect-talks-with-company-helped-by-us-government/>
+
+---
+
+## CVS ousts CEO as sluggish growth spooks investors
+
+date: 2024-10-19, from: Hawaii Tribune Harold
+
+
+				<p>CVS Health abruptly ousted CEO Karen S. Lynch on Friday as the pharmacy and health care conglomerate struggled with sluggish growth and faced pressure from investors.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/19/nation-world-news/cvs-ousts-ceo-as-sluggish-growth-spooks-investors/>
+
+---
+
+## Power outage plunges all of Cuba into darkness
+
+date: 2024-10-19, from: Hawaii Tribune Harold
+
+
+				<p>Cuba&#8217;s power grid failed and the entire nation plunged into darkness Friday, less than a day after the government stressed the need to paralyze the economy to save electricity in the face of major gasoline shortages and large-scale, regular outages.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/19/nation-world-news/power-outage-plunges-all-of-cuba-into-darkness/>
+
+---
+
+## Sinwar’s death could shake but not topple Hamas, experts say
+
+date: 2024-10-19, from: Hawaii Tribune Harold
+
+
+				<p>ISTANBUL &#8212; He was there from the early days of Hamas, rose through the ranks to lead the organization and equipped it for the deadliest assault on Israel in its history.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/19/nation-world-news/sinwars-death-could-shake-but-not-topple-hamas-experts-say/>
+
+---
+
+## Israeli strikes kill 30 people in Jabalia, Israel sends more troops into north Gaza
+
+date: 2024-10-19, from: Hawaii Tribune Harold
+
+
+				<p>CAIRO &#8212; At least 30 people were killed and dozens wounded in Israeli strikes that hit several houses at a square on Friday in Jabalia, the largest of Gaza&#8217;s eight historic refugee camps, medics said, where residents said tanks blew up roads and houses as they thrust further into the territory.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/19/nation-world-news/israeli-strikes-kill-30-people-in-jabalia-israel-sends-more-troops-into-north-gaza/>
+
+---
+
+## Harris, Trump barnstorm Michigan, spar over who has stamina to be president
+
+date: 2024-10-19, from: Hawaii Tribune Harold
+
+
+				<p>GRAND RAPIDS/DETROIT, Michigan &#8212; Democrat Kamala Harris raised questions about Republican Donald Trump&#8217;s physical stamina to serve effectively as president as the two rivals tore through the deadlocked battleground state of Michigan on Friday, with Trump lashing back about the energy he&#8217;s shown on the campaign trail.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/19/nation-world-news/harris-trump-barnstorm-michigan-spar-over-who-has-stamina-to-be-president/>
+
+---
+
+## The panda factories
+
+date: 2024-10-19, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Two chunky pandas, a male and a female, arrived from China this week at the National Zoo in Washington. If everything goes as planned, they will eventually have cubs.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/19/features/the-panda-factories/>
+
+---
+
+## Elon Musk’s dumbest idea is to send human colonists to Mars
+
+date: 2024-10-19, from: Hawaii Tribune Harold
+
+
+				<p>The image of Elon Musk that may be dominating people&#8217;s mindspace at the moment is of his prancing about joyously &#8212; and yes, a tad weirdly &#8212; behind Donald Trump on the podium during the latter&#8217;s Oct. 5 rally in Butler, Pa.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/19/opinion/elon-musks-dumbest-idea-is-to-send-human-colonists-to-mars/>
+
+---
+
+## Line of fire: Judicial havoc is no way to run gun policy
+
+date: 2024-10-19, from: Hawaii Tribune Harold
+
+
+				<p>This week, the U.S. Supreme Court overturned a lower court ruling that had struck down a Pennsylvania law barring people under 21 from carrying firearms openly during declared states of emergency. It&#8217;s hard to really celebrate this as a victory given how basic common sense it is &#8212; that judges had found it proper to allow 18-year-olds to walk around with drawn firearms during emergencies strains understanding. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/19/opinion/line-of-fire-judicial-havoc-is-no-way-to-run-gun-policy/>
 
 ---
 
@@ -855,7 +1283,7 @@ date: 2024-10-17, updated: 2024-10-19, from: Marianas Variety
 
 ## Hamas leader Sinwar is dead, Israel says
 
-date: 2024-10-17, updated: 2024-10-17, from: Marianas Variety
+date: 2024-10-17, updated: 2024-10-20, from: Marianas Variety
 
 JERUSALEM/CAIRO (Reuters) — Hamas leader Yahya Sinwar, mastermind of the Oct. 7, 2023 attack that triggered the Gaza war, was killed on Thursday, Israeli Foreign Minister Israel Katz said. 
 
@@ -889,6 +1317,18 @@ date: 2024-10-17, updated: 2024-10-19, from: Marianas Variety
 
 ---
 
+## Legislators, others subpoenaed to testify in Villanueva’s trial
+
+date: 2024-10-17, updated: 2024-10-20, from: Marianas Variety
+
+LEGISLATORS, legislative staffers, Bank of Saipan employees and other individuals, including the prosecutor, have been subpoenaed by the defense to testify in the bench trial of Shayne Villanueva on Nov. 6. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/legislators-others-subpoenaed-to-testify-in-villanueva-s-trial/article_7bc33a7a-8c43-11ef-a3f6-3f73dc8a1187.html>
+
+---
+
 ## Publication opportunity open for Micronesian writers
 
 date: 2024-10-17, updated: 2024-10-17, from: Marianas Variety
@@ -898,18 +1338,6 @@ TWO independent Chamorro artists, Roaquin Siongco and Dizia Crisostomo, are call
 <br> 
 
 <https://www.mvariety.com/news/local/publication-opportunity-open-for-micronesian-writers/article_7b508a26-8c51-11ef-a1bf-6b8e7a1530b2.html>
-
----
-
-## Legislators, others subpoenaed to testify in Villanueva’s trial
-
-date: 2024-10-17, updated: 2024-10-17, from: Marianas Variety
-
-LEGISLATORS, legislative staffers, Bank of Saipan employees and other individuals, including the prosecutor, have been subpoenaed by the defense to testify in the bench trial of Shayne Villanueva on Nov. 6. 
-
-<br> 
-
-<https://www.mvariety.com/news/local/legislators-others-subpoenaed-to-testify-in-villanueva-s-trial/article_7bc33a7a-8c43-11ef-a3f6-3f73dc8a1187.html>
 
 ---
 

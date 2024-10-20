@@ -1,11 +1,35 @@
 ---
 title: craft
-updated: 2024-10-19 19:41:40
+updated: 2024-10-20 08:34:09
 ---
 
 # craft
 
-(date: 2024-10-19 19:41:40)
+(date: 2024-10-20 08:34:09)
+
+---
+
+## John Porritt Sermon on Stick Chairs
+
+date: 2024-10-20, from: Lost Arg Press blog
+
+by Brian Crawley On a bracing day this past Sunday – cold enough to move the event from a large unheated barn in Austerlitz, New York, to a little body-heated church – John Porritt gave a talk on his masterful stick chairs. He brought two Welsh antiques he&#8217;d found in nearby Hudson, New York, and... 
+
+<br> 
+
+<https://blog.lostartpress.com/2024/10/20/john-porritt-sermon-on-stick-chairs/>
+
+---
+
+## LAP Open Wire, Oct 18, 2024
+
+date: 2024-10-19, from: Lost Arg Press blog
+
+Update: Comments are now closed. Join us again on Nov. 16. If you have a woodworking question, today is your lucky day. Chris and I are holding Open Wire between now and 5 p.m. Eastern. How do you ask a question? Leave your question in the comments section, and we’ll do our best to answer... 
+
+<br> 
+
+<https://blog.lostartpress.com/2024/10/19/lap-open-wire-oct-18-2024/>
 
 ---
 

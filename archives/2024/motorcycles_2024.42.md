@@ -1,11 +1,35 @@
 ---
 title: motorcycles
-updated: 2024-10-19 19:41:40
+updated: 2024-10-20 08:34:09
 ---
 
 # motorcycles
 
-(date: 2024-10-19 19:41:40)
+(date: 2024-10-20 08:34:09)
+
+---
+
+## BRP Puts Marine Brand Up for Sale, Sea-Doo Stays in the Family
+
+date: 2024-10-20, from: Ride Apart, Electric Motorcycle News
+
+Tough times mean tough decisions.  
+
+<br> 
+
+<https://www.rideapart.com/news/737965/brp-marine-brand-for-sale-not-sea-doo-jet-skis/>
+
+---
+
+## This Triumph Is So Crispy, So Can It Be Rebuilt?
+
+date: 2024-10-19, from: Ride Apart, Electric Motorcycle News
+
+The Bikes and Beards vs. Orange County Choppers vs. Bearded Mechanic Build-Off fires up! 
+
+<br> 
+
+<https://www.rideapart.com/news/737993/crispy-triumph-custom-build-off-bikes-beard-occ/>
 
 ---
 
@@ -438,16 +462,4 @@ By Seth Eggert, Associate Editor CONCORD, N.C. – Winning in the NASCAR Xfinity
 <br> 
 
 <https://kickinthetires.net/nascar/kligerman-knew-battle-royale-the-roval/>
-
----
-
-## This ‘Busa-Powered Citroen Is a Wild Race Car, and It Could Be Yours
-
-date: 2024-10-12, from: Ride Apart, Electric Motorcycle News
-
-It just looks like a Citroen C2, but beneath the surface, it really isn’t.  
-
-<br> 
-
-<https://www.rideapart.com/news/736944/hayabusa-powered-citroen-c2-hillclimb-racer/>
 

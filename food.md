@@ -1,11 +1,131 @@
 ---
 title: food
-updated: 2024-10-19 19:41:40
+updated: 2024-10-20 08:34:09
 ---
 
 # food
 
-(date: 2024-10-19 19:41:40)
+(date: 2024-10-20 08:34:09)
+
+---
+
+## Chile Relleno Casserole
+
+date: 2024-10-20, from: Taste of Home
+
+You’d normally take the time to stuff the poblano peppers for authentic Mexican chile rellenos. For this chile rellenos casserole, however, we’re letting the layers speak for themselves, in particularly the creamy, fluffy egg topping. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/chile-relleno-casserole/>
+
+---
+
+## Chickpea Salad
+
+date: 2024-10-20, from: Taste of Home
+
+Channel the flavors of the Mediterranean with this healthy and protein-filled chickpea salad, ready in minutes for meals throughout the week. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/chickpea-salad/>
+
+---
+
+## Give Me Coffee Or Give Me Death: Order These Coffees Now!
+
+date: 2024-10-20, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. A selection of coffees from the Sprudge Roaster's Village. 
+
+<br> 
+
+<https://sprudge.com/give-me-coffee-or-give-me-death-order-these-coffees-now-257254.html>
+
+---
+
+## Avocado Corn Salad
+
+date: 2024-10-19, from: Taste of Home
+
+This sunny, summery avocado corn salad balances crunchy vegetables, soft avocado and the sweetest fresh corn with a bright lime vinaigrette. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/avocado-corn-salad/>
+
+---
+
+## Greek Quinoa Salad
+
+date: 2024-10-19, from: Taste of Home
+
+Make this Greek quinoa salad when you need a light yet filling vegetarian meal or when you need to feed a lot of people. Once you've cooked the quinoa and chopped the vegetables, all that's left to do is mix everything together. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/greek-quinoa-salad/>
+
+---
+
+## Instant Pot Broccoli Cheddar Soup
+
+date: 2024-10-19, from: Taste of Home
+
+We love this Instant Pot broccoli cheddar soup for how tasty it is and how quickly it comes together. Check out our recipe tips for any troubleshooting advice. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/instant-pot-broccoli-cheddar-soup/>
+
+---
+
+## Pineapple Sherbet
+
+date: 2024-10-19, from: Taste of Home
+
+When you want a refreshing frozen treat, this creamy pineapple sherbet is an easy way to satisfy that craving. Pineapple chunks, lemon juice and a little sugar and cream are all you need to make this cool and smooth sherbet. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/pineapple-sherbet-2/>
+
+---
+
+## Crescent Roll Cheesecake
+
+date: 2024-10-19, from: Taste of Home
+
+This crescent roll cheesecake recipe pairs flaky crescent rolls with a rich cream cheese filling and sweet cinnamon-sugar topping for an easy, scrumptious dessert. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/crescent-roll-cheesecake/>
+
+---
+
+## No-Bake Strawberry Cheescake
+
+date: 2024-10-19, from: Taste of Home
+
+Learn how to make no-bake strawberry cheesecake, a cloudlike, fruit-filled concoction that tastes great on a hot day. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/no-bake-strawberry-cheescake/>
+
+---
+
+## Date Caramel
+
+date: 2024-10-19, from: Taste of Home
+
+This date caramel recipe is for all caramel lovers trying to make healthier choices. Just blend four ingredients to create a jar of naturally sweet caramel that's ready for whenever you have a dessert craving. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/date-caramel/>
 
 ---
 
@@ -1890,16 +2010,4 @@ date: 2024-10-13, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/mushroom-recipes/>
-
----
-
-## 53 Easy Dinner Ideas for Simple, Satisfying Meals
-
-date: 2024-10-12, from: Bon Appetet
-
-Like a weeknight salmon rice bowl, artichoke-dip-inspired pasta, and a warming white chicken chili. 
-
-<br> 
-
-<https://www.bonappetit.com/gallery/easy-dinner-ideas>
 

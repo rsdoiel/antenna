@@ -1,11 +1,59 @@
 ---
 title: science and technology
-updated: 2024-10-19 19:41:38
+updated: 2024-10-20 08:34:07
 ---
 
 # science and technology
 
-(date: 2024-10-19 19:41:38)
+(date: 2024-10-20 08:34:07)
+
+---
+
+## WinAmp's woes will pass, but its wonders will be here forever
+
+date: 2024-10-20, updated: 2024-10-20, from: The Register (UK I.T. News)
+
+<h4>Not as clumsy or random as a streamer, an elegant player for a more civilized age</h4> <p><strong>Opinion</strong>  Yup, I called that one wrong. Twenty years ago. I bid farewell to WinAmp, the PC music player of choice. It had been made redundant by Windows Media Player getting better, WinAmp&#39;s owners getting bored, and the iPod blowing the doors off everything.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/20/opinion_column_winamp/>
+
+---
+
+## Open source LLM tool primed to sniff out Python zero-days
+
+date: 2024-10-20, updated: 2024-10-20, from: The Register (UK I.T. News)
+
+<h4>The static analyzer uses Claude AI to identify vulns and suggest exploit code</h4> <p>Researchers with Seattle-based Protect AI plan to release a free, open source tool that can find zero-day vulnerabilities in Python codebases with the help of Anthropic&#39;s Claude AI model.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/20/python_zero_day_tool/>
+
+---
+
+## California cops cuff suspect in deadly drone-assisted drug deal
+
+date: 2024-10-19, updated: 2024-10-19, from: The Register (UK I.T. News)
+
+<h4>‘Crany’ also captured with three &#39;ghost guns&#39;</h4> <p>A California man has been charged with using a DJI drone to distribute drugs, which resulted in a fatal overdose.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/19/california_drone_drug_deal/>
+
+---
+
+## Europa Clipper heads to Jupiter: Can its icy moon support life?
+
+date: 2024-10-19, updated: 2024-10-19, from: The Register (UK I.T. News)
+
+<h4>But first stop is Mars for a speed boost, then back to Earth for the final push</h4> <p>The Europa Clipper has unfurled its solar panels and is on its way to Jupiter, but it&#39;s taking a circuitous route by way of Mars.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/19/europa_clipper_juniper_support_life/>
 
 ---
 
@@ -2226,40 +2274,4 @@ date: 2024-10-13, updated: 2024-10-13, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2024/10/13/schools_nationstate_attacks_ransomware/>
-
----
-
-## Top-secret X-37B space plane ready for daring new orbital maneuver
-
-date: 2024-10-12, updated: 2024-10-12, from: The Register (UK I.T. News)
-
-<h4>The Space Force craft will attempt aerobraking for the first time</h4> <p>After nearly a year in orbit, the US Space Force&#39;s secretive X-37B is prepped to perform some fancy new maneuvers to alter its orbit and dump its service module before carrying on with more mysterious work.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2024/10/12/x37b_space_plane/>
-
----
-
-## Anthropic's Claude vulnerable to 'emotional manipulation'
-
-date: 2024-10-12, updated: 2024-10-12, from: The Register (UK I.T. News)
-
-<h4>AI model safety only goes so far</h4> <p>Anthropic&#39;s Claude 3.5 Sonnet, despite its reputation as one of the better behaved generative AI models, can still be convinced to emit racist hate speech and malware.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2024/10/12/anthropics_claude_vulnerable_to_emotional/>
-
----
-
-## US and UK govts warn: Russia scanning for your unpatched vulnerabilities
-
-date: 2024-10-12, updated: 2024-10-12, from: The Register (UK I.T. News)
-
-<h4>Also, phishing&#39;s easier over the phone, and your F5 cookies might be unencrypted, and more</h4> <p><strong>in brief</strong>  If you need an excuse to improve your patching habits, a joint advisory from the US and UK governments about a massive, ongoing Russian campaign exploiting known vulnerabilities should do the trick.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2024/10/12/russia_is_targeting_you_for/>
 

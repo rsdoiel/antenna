@@ -1,11 +1,47 @@
 ---
 title: libraries
-updated: 2024-10-19 19:41:39
+updated: 2024-10-20 08:34:08
 ---
 
 # libraries
 
-(date: 2024-10-19 19:41:39)
+(date: 2024-10-20 08:34:08)
+
+---
+
+## Novel Diagrammatic Notation for Hybrid Life-Cycle Assessment
+
+date: 2024-10-22, from: ETH Zurich, recently added
+
+Weinold, Michael 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/693922>
+
+---
+
+## Agamemnon, by Aeschylus
+
+date: 2024-10-19, from: Standard Ebooks, new releaases
+
+The titular Greek king returns home from the Trojan war to be greeted by his scheming wife, who plots vengeance. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/aeschylus/agamemnon/gilbert-murray>
+
+---
+
+## The Stainless Steel Rat, by Harry Harrison
+
+date: 2024-10-19, from: Standard Ebooks, new releaases
+
+An intergalactic thief tries life on the side of the law. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/harry-harrison/the-stainless-steel-rat>
 
 ---
 

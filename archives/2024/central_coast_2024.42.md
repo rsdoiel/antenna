@@ -1,11 +1,156 @@
 ---
 title: central coast
-updated: 2024-10-19 19:41:38
+updated: 2024-10-20 08:34:07
 ---
 
 # central coast
 
-(date: 2024-10-19 19:41:38)
+(date: 2024-10-20 08:34:07)
+
+---
+
+## Lily Pad Perch
+
+date: 2024-10-20, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Debbie-Petlow.jpeg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Lily pad perch." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Debbie-Petlow.jpeg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Debbie-Petlow.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Debbie-Petlow.jpeg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Debbie-Petlow.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Debbie-Petlow.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Debbie-Petlow.jpeg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Debbie-Petlow.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Debbie-Petlow.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Debbie-Petlow.jpeg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Debbie-Petlow.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Debbie-Petlow.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Debbie-Petlow.jpeg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/lily-pad-perch/">Lily Pad Perch</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/lily-pad-perch/>
+
+---
+
+## Dan McCaslin: Easy Sierra Hiking from Lake George in Mammoth Lakes Basin
+
+date: 2024-10-20, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100324-Crystal-Crag-across-Lake-George-eastern-Sierra-dm-.jpeg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Crystal Crag across Lake George in the Eastern Sierra." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100324-Crystal-Crag-across-Lake-George-eastern-Sierra-dm-.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100324-Crystal-Crag-across-Lake-George-eastern-Sierra-dm-.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100324-Crystal-Crag-across-Lake-George-eastern-Sierra-dm-.jpeg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100324-Crystal-Crag-across-Lake-George-eastern-Sierra-dm-.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100324-Crystal-Crag-across-Lake-George-eastern-Sierra-dm-.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100324-Crystal-Crag-across-Lake-George-eastern-Sierra-dm-.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100324-Crystal-Crag-across-Lake-George-eastern-Sierra-dm-.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100324-Crystal-Crag-across-Lake-George-eastern-Sierra-dm-.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100324-Crystal-Crag-across-Lake-George-eastern-Sierra-dm-.jpeg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Santa Barbara County chaparral shrublands form my best-loved hiking region, also called Los Padres National Forest. However, the much higher “alpine” areas also summon the soul to breathe free [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/dan-mccaslin-easy-sierra-hiking-from-lake-george-in-mammoth-lakes-basin/">Dan McCaslin: Easy Sierra Hiking from Lake George in Mammoth Lakes Basin</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/dan-mccaslin-easy-sierra-hiking-from-lake-george-in-mammoth-lakes-basin/>
+
+---
+
+## Seasoned Local Sailor to Recount Story of  Tall Ship USCGC Eagle
+
+date: 2024-10-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>USCGC Eagle, renowned as America’s Tall Ship, is set to embark on a Pacific tour in 2025, marking a pivotal chapter in maritime history. The tour that will trace the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/seasoned-local-sailor-to-recount-story-of-tall-ship-uscgc-eagle/">Seasoned Local Sailor to Recount Story of  Tall Ship USCGC Eagle</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/seasoned-local-sailor-to-recount-story-of-tall-ship-uscgc-eagle/>
+
+---
+
+## Colossal Troll by Recycling Artist Thomas Dambo Moving Into Solvang
+
+date: 2024-10-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="785" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101924-troll-2000.gif?fit=1024%2C785&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Wood figure of a giant troll seated in a wooded setting created by recycling artist Thomas Dambo. (Thomas Dambo)" decoding="async" fetchpriority="high" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The California Nature Art Museum (formerly the Wildling Museum) is commissioning Thomas Dambo, a world-renowned Danish artist who specializes in creating large, whimsical trolls made from recycled materials, to build [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/colossal-troll-by-recycling-artist-thomas-dambo-moving-into-solvang/">Colossal Troll by Recycling Artist Thomas Dambo Moving Into Solvang</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/colossal-troll-by-recycling-artist-thomas-dambo-moving-into-solvang/>
+
+---
+
+## Salute to Teachers Q&A: Laura Branch
+
+date: 2024-10-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/2500-TOY-Laura-Branch-1.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Laura Branch, a science teacher at Righetti High School in Santa Maria and the 2025 Santa Barbara County Teacher of the Year, is energized by her students. “To see them flourish from shy student the first day of class to being outgoing at the end of the year and sharing their individual stories with me is incredible,” she says." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/2500-TOY-Laura-Branch-1.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/2500-TOY-Laura-Branch-1.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/2500-TOY-Laura-Branch-1.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/2500-TOY-Laura-Branch-1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/2500-TOY-Laura-Branch-1.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/2500-TOY-Laura-Branch-1.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/2500-TOY-Laura-Branch-1.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/2500-TOY-Laura-Branch-1.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/2500-TOY-Laura-Branch-1.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/2500-TOY-Laura-Branch-1.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/2500-TOY-Laura-Branch-1.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/2500-TOY-Laura-Branch-1.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>[Noozhawk’s note: One in a series on the teachers who will be honored Nov. 2 at A Salute to Teachers, presented by Cox Communications and the Santa Barbara County Education [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/salute-to-teachers-qa-laura-branch/">Salute to Teachers Q&amp;A: Laura Branch</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/salute-to-teachers-qa-laura-branch/>
+
+---
+
+## Halloween Journey Treats Young Children to Interactive Theater
+
+date: 2024-10-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Acorn Village Forest School and the Santa Ynez Valley Botanical Garden are joining hands to create a Halloween Journey interactive experience for families with young children on two nights, 5:30-7:30 [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/halloween-journey-offers-interactive-theater-treat-for-young-children/">Halloween Journey Treats Young Children to Interactive Theater</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/halloween-journey-offers-interactive-theater-treat-for-young-children/>
+
+---
+
+## James Dulley: How Woodwork Trim Can Transform a Room
+
+date: 2024-10-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="733" height="1024" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/plo101024adAP.jpg?fit=733%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Custom molding" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/plo101024adAP.jpg?w=1289&amp;ssl=1 1289w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/plo101024adAP.jpg?resize=215%2C300&amp;ssl=1 215w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/plo101024adAP.jpg?resize=733%2C1024&amp;ssl=1 733w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/plo101024adAP.jpg?resize=768%2C1072&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/plo101024adAP.jpg?resize=1100%2C1536&amp;ssl=1 1100w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/plo101024adAP.jpg?resize=1200%2C1676&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/plo101024adAP.jpg?resize=400%2C559&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/plo101024adAP.jpg?fit=733%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Dear James: My living room needs a décor update. I’m on a limited budget and plan to do it myself. Would adding some woodwork help? I will need some installation [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/james-dulley-how-woodwork-trim-can-transform-a-room/">James Dulley: How Woodwork Trim Can Transform a Room</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/james-dulley-how-woodwork-trim-can-transform-a-room/>
+
+---
+
+## Marsha Croninger: Why, As an SBCC Trustee, I’m Opposed to Measure P
+
+date: 2024-10-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>I was first elected a Santa Barbara City College trustee in 2010 and am currently the longest-serving member of the SBCC board. I am a lifelong moderate Democrat. I ran [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/marsha-croninger-why-as-an-sbcc-trustee-im-opposed-to-measure-p/">Marsha Croninger: Why, As an SBCC Trustee, I’m Opposed to Measure P</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/marsha-croninger-why-as-an-sbcc-trustee-im-opposed-to-measure-p/>
+
+---
+
+## Chaos Hits Montecito Planning Commission Meeting Over Miramar Hotel Project
+
+date: 2024-10-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101924-Miramar-Sandy-Stahl-meeting-1-JM.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Sandy Stahl, Montecito Planning Commissioner, recused herself mid-meeting Friday after Rick Caruso&#039;s team revealed she had ex-parte communications that she didn&#039;t reveal prior to the start of the meeting. The commission was forced to end the meeting because it had too few members for a vote." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101924-Miramar-Sandy-Stahl-meeting-1-JM.jpg?w=2200&amp;ssl=1 2200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101924-Miramar-Sandy-Stahl-meeting-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101924-Miramar-Sandy-Stahl-meeting-1-JM.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101924-Miramar-Sandy-Stahl-meeting-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101924-Miramar-Sandy-Stahl-meeting-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101924-Miramar-Sandy-Stahl-meeting-1-JM.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101924-Miramar-Sandy-Stahl-meeting-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101924-Miramar-Sandy-Stahl-meeting-1-JM.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101924-Miramar-Sandy-Stahl-meeting-1-JM.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101924-Miramar-Sandy-Stahl-meeting-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101924-Miramar-Sandy-Stahl-meeting-1-JM.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Sandy Stahl checked out of the Rosewood Miramar Resort Hotel discussion early. In a stunning turn of events Friday, Montecito Planning Commissioner Stahl abruptly recused herself mid-meeting, in what was [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/chaos-hits-montecito-planning-commission-meeting-over-miramar-hotel-project/">Chaos Hits Montecito Planning Commission Meeting Over Miramar Hotel Project</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/chaos-hits-montecito-planning-commission-meeting-over-miramar-hotel-project/>
+
+---
+
+## Community Bancorp of Santa Maria Posts Third Quarter Earnings
+
+date: 2024-10-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Janet Silveria, president/CEO of Community Bancorp of Santa Maria, has released its earnings report for the period ending Sept. 30, 2024. Net loans increased 10.9%, from $228.3 million at Sept. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/community-bancorp-of-santa-maria-posts-third-quarter-earnings/">Community Bancorp of Santa Maria Posts Third Quarter Earnings</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/community-bancorp-of-santa-maria-posts-third-quarter-earnings/>
 
 ---
 

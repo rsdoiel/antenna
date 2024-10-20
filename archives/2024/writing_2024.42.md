@@ -1,11 +1,87 @@
 ---
 title: writing
-updated: 2024-10-19 19:41:38
+updated: 2024-10-20 08:34:07
 ---
 
 # writing
 
-(date: 2024-10-19 19:41:38)
+(date: 2024-10-20 08:34:07)
+
+---
+
+## Locus Bestsellers, October
+
+date: 2024-10-20, from: Locus Magazine
+
+<div style="background-color: #dae1e8; padding: 14px 0px 0px 0px; text-align: center;">
+
+<strong>The Locus Bestsellers for May include top titles: The Spellshop by Sarah Beth Durst (Bramble), Mistborn by Brandon Sanderson (Tor), </strong><strong> A Court of Thorns and Roses by Sarah J. Maas (Bloomsbury US), and A Court of Thorns and Roses by Sarah J. Maas (Bloomsbury US).</strong>
+
+</div>
+<p></p>
+<div class="postcontent">
+
+
+
+
+HARDCOVERS
+Months
+on list
+Last
+month
+
+
+1)
+<strong>The Spellshop</strong>, Sarah Beth Durst (Bramble)
+1
+&#8211;
+
+
+2)
+ <strong>Iron Flame</strong>, Rebecca Yarros (Red Tower)
+9
+</div> <a href="https://locusmag.com/2024/10/locus-bestsellers-october-4/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2024/10/locus-bestsellers-october-4/>
+
+---
+
+## The Mercy of God by James S.A. Corey: Review by Russell Letson
+
+date: 2024-10-20, from: Locus Magazine
+
+<p><strong>The Mercy of Gods</strong>, James S.A. Corey (Orbit 978-0-31652-557-2, $30.00, 423 pp, hc) August 2024.</p>
+<p>The longer I review science fiction, the more I notice how it much it depends on recycling tropes – not just repeating but extending and varying and inverting them – and, I suspect, refitting them to reflect current anxieties or hopes, conscious or not. This time the recognition lights have been set flashing by  <a href="https://locusmag.com/2024/10/the-mercy-of-god-by-james-s-a-corey-review-by-russell-letson/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/10/the-mercy-of-god-by-james-s-a-corey-review-by-russell-letson/>
+
+---
+
+## 2023 IFComp Results &amp; Survey
+
+date: 2024-10-19, from: IF Competition Blog
+
+<p>The results of the 2024 Interactive Fiction Competition are now live on the <a href="https://ifcomp.org/comp/2024">IFComp Website</a>!</p><p>If you missed the livestream, it will be available over the coming days on <a href="https://www.twitch.tv/interactivefictioncomp">Twitch</a> and will be permanently archived over on <a href="https://www.youtube.com/@IFTechFoundation">YouTube</a> shortly.</p><p>Of course, we are already planning for the ‘25 Comp. Please provide your feedback on what went well, what could have gone better, what we should do more of, and what we should consider changing or leaving behind, by filling the <a href="https://forms.gle/CmLJ8v5DVjZq4ieh6">Post-Competition Survey</a>:</p><p class="npf_link" data-npf='{"type":"link","url":"https://forms.gle/CmLJ8v5DVjZq4ieh6","display_url":"https://forms.gle/CmLJ8v5DVjZq4ieh6","title":"2024 IFComp Post-Competition Survey","description":"Hello! Thanks for taking this survey. We appreciate you.","site_name":"Google Docs","poster":[{"media_key":"1d2807ee6ddfc2606771953a17c6886e:47758b54163ce38b-f6","type":"image/png","width":1200,"height":630}]}'><a href="https://forms.gle/CmLJ8v5DVjZq4ieh6" target="_blank">2024 IFComp Post-Competition Survey</a></p><p>We are so grateful to everyone who helped make this year’s comp happen.  Thank you! </p> 
+
+<br> 
+
+<https://blog.ifcomp.org/post/764804690125996032>
+
+---
+
+## Award Ceremony Tonight!
+
+date: 2024-10-19, from: IF Competition Blog
+
+<div class="npf_row"><figure class="tmblr-full" data-orig-height="606" data-orig-width="665"><img src="https://64.media.tumblr.com/f021d3ade842e7fe68f13cbd76916483/40a95c64395ef32a-c0/s640x960/536c9d54807278c9112624643aff2b14c7d5fce9.png" data-orig-height="606" data-orig-width="665" srcset="https://64.media.tumblr.com/f021d3ade842e7fe68f13cbd76916483/40a95c64395ef32a-c0/s75x75_c1/7303a9b1439b5731d8587289268628fbad60c915.png 75w, https://64.media.tumblr.com/f021d3ade842e7fe68f13cbd76916483/40a95c64395ef32a-c0/s100x200/7bced0ebf3ab8ecb0b3a391b80129790b20954ab.png 100w, https://64.media.tumblr.com/f021d3ade842e7fe68f13cbd76916483/40a95c64395ef32a-c0/s250x400/4a509050c33446a4ffb2682a64bee188beebed59.png 250w, https://64.media.tumblr.com/f021d3ade842e7fe68f13cbd76916483/40a95c64395ef32a-c0/s400x600/83e2a79760c0af9d211cd38a7ba1a76e1d47c5a5.png 400w, https://64.media.tumblr.com/f021d3ade842e7fe68f13cbd76916483/40a95c64395ef32a-c0/s500x750/b385b2ee90a7e8a685a7eeff6c2a9ae57939e0ee.png 500w, https://64.media.tumblr.com/f021d3ade842e7fe68f13cbd76916483/40a95c64395ef32a-c0/s540x810/2b2d001895bd4b522ed46f1134669e3730d22b7a.png 540w, https://64.media.tumblr.com/f021d3ade842e7fe68f13cbd76916483/40a95c64395ef32a-c0/s640x960/536c9d54807278c9112624643aff2b14c7d5fce9.png 640w, https://64.media.tumblr.com/f021d3ade842e7fe68f13cbd76916483/40a95c64395ef32a-c0/s1280x1920/2649b524be91f0ebc9226449ee908756fbcc7e80.png 665w" sizes="(max-width: 665px) 100vw, 665px"/></figure></div><p>Greetings, Authors &amp; Judges! </p><p>The end of the 2023 Interactive Fiction Competition is nearly upon us! We will announce the top 20 results via live stream at 4:00 PM Eastern on Today! Saturday, October 19th. </p><p>The stream will be held on <a href="https://www.twitch.tv/interactivefictioncomp">Twitch</a>. To confirm what time the awards stream will be for you in your time zone, visit this <a href="https://everytimezone.com/s/d8d1dedc">website</a>.</p><p>Hope to see you there!</p> 
+
+<br> 
+
+<https://blog.ifcomp.org/post/764768765290348544>
 
 ---
 

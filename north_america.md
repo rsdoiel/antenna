@@ -1,11 +1,1135 @@
 ---
 title: north america
-updated: 2024-10-19 19:41:37
+updated: 2024-10-20 08:34:06
 ---
 
 # north america
 
-(date: 2024-10-19 19:41:37)
+(date: 2024-10-20 08:34:06)
+
+---
+
+## NYC officials envision turning Fifth Avenue into grand boulevard
+
+date: 2024-10-20, from: VOA News USA
+
+New York — Manhattan’s famed luxury store row Fifth Avenue is in line for a major makeover.
+
+
+New York City officials unveiled a plan last week to transform a central portion of the thoroughfare between Bryant Park and Central Park into a more pedestrian-centered boulevard.
+
+
+They propose doubling the size of sidewalks, reducing traffic lanes from five to three, as well as adding seating areas and hundreds of trees and planters, among other improvements.
+
+
+The vision is to emulate iconic strolling and shopping boulevards such as the Champs-Élysées in Paris.
+
+
+“As we celebrate the 200th anniversary of one of the most famous streets in the world, New Yorkers can look forward to a brand-new Fifth Avenue that will return the street to its former glory as a pedestrian boulevard,” Madelyn Wils, interim president of the Fifth Avenue Association, which runs the local business improvement district, said in a statement. “Reversing the century-old trend of putting cars first, this visionary design will transform our overcrowded avenue into a spacious and green corridor for shoppers and workers, visitors and New Yorkers, and everyone on Fifth.”
+
+
+The plan would cost more than $350 million and be paid through a mix of public and private financing, according to Mayor Eric Adams’ administration and the Future of Fifth Partnership.
+
+
+Officials said the project represents the avenue’s first major redesign and could pay for itself in less than five years through increased property and sales tax revenue.
+
+
+But some transit advocates have voiced concerns, saying the plan does not give enough consideration to the needs of the public bus system or the city’s many cyclists.
+
+
+A public meeting will be held later this month on the plan, and construction could begin in 2028.
+
+
+Officials say Fifth Avenue is roughly 100 feet wide, with just two 23-foot sidewalks, even though pedestrians make up 70% of all traffic on the corridor.
+
+
+Some 5,500 pedestrians traverse its blocks on average each hour, a number that swells to 23,000 people an hour during the holidays, officials said.
+
+
+“People across the globe identify Fifth Avenue as a premier destination for strolling and shopping,” Meera Joshi, the city’s deputy mayor for operations, said in a statement. “But its larger-than-life reputation means that its sidewalks have reached their capacity, hosting more people per hour in peak seasons than Madison Square Garden."
+
+
+The Fifth Avenue plan was among other ambitious plans for roadways city officials revealed [last] week.
+
+
+They also proposed capping stretches of the Cross Bronx Expressway, a major highway that cuts through the borough of the Bronx.
+
+
+City officials said the proposals would build parks and greenspaces atop the covered highway, helping restore urban neighborhoods hollowed out by the expansion of the national highway system and the development of suburbs.
+
+
+“This is a historic opportunity to right the wrongs of the past and reconnect communities once again,” Joshi said. 
+
+<br> 
+
+<https://www.voanews.com/a/nyc-officials-envision-turning-fifth-avenue-into-grand-boulevard/7829266.html>
+
+---
+
+##  LEVER WEEKLY: The Great Climate Recession 
+
+date: 2024-10-20, from: The Lever News
+
+ How climate chaos could take down the economy, and more from The Lever this week.  
+
+<br> 
+
+<https://www.levernews.com/the-great-climate-recession/>
+
+---
+
+## Hurricane Oscar makes landfall in the Bahamas and heads toward Cuba
+
+date: 2024-10-20, from: VOA News USA
+
+miami, florida — Hurricane Oscar made landfall early Sunday in the southeastern Bahamas and was heading toward Cuba, an island recently beleaguered by a massive power outage.  
+
+
+The National Hurricane Center in Miami said the storm's center arrived on Great Inagua island. It is expected to produce a dangerous storm surge that could produce significant coastal flooding there and in other areas of the southeastern Bahamas. Two to four inches of rainfall are expected, with isolated amounts of up to six inches.  
+
+
+Forecasters said five to 10 inches of rain, and even isolated amounts of up to 15 inches, are expected across eastern Cuba through Tuesday.  
+
+
+Oscar formed Saturday off the coast of the Bahamas and brushed past the Turks and Caicos islands to the south.  
+
+
+The National Hurricane Center earlier characterized the storm as “tiny,” but hurricane warnings were in place Sunday for southeastern Bahamas and portions of Cuba.  
+
+
+The storm’s maximum sustained winds were clocked at 80 mph (130 kph) with higher gusts. Its center was located about 150 miles (240 kilometers) east-northeast of Guantanamo, Cuba. The storm was heading west at 12 mph (19 kph) and was expected to reach Guantanamo or Holguin, Cuba, on Sunday afternoon at hurricane strength.  
+
+
+The hurricane's approach comes as Cuba tries to recover from its worst blackout in at least two years, which left millions without power for two days last week. Some electrical service was restored Saturday.  
+
+
+Philippe Papin of the National Hurricane Center said it was somewhat unexpected that Oscar became a hurricane Saturday.  
+
+
+“Unfortunately the system kind of snuck up a little bit on us,” Papin said.  
+
+
+Hours earlier Tropical Storm Nadine formed off Mexico’s southern Caribbean coast. It degenerated into a tropical depression as it moved over land. 
+
+<br> 
+
+<https://www.voanews.com/a/tiny-hurricane-forms-off-bahamas-/7828837.html>
+
+---
+
+## Whooping cough is at a decade-high level in US
+
+date: 2024-10-20, from: VOA News USA
+
+MILWAUKEE — Whooping cough is at its highest level in a decade for this time of year, U.S. health officials reported Thursday.
+
+
+There have been 18,506 cases of whooping cough reported so far, the Centers for Disease Control and Prevention said. That's the most at this point in the year since 2014, when cases topped 21,800.
+
+
+The increase is not unexpected — whooping cough peaks every three to five years, health experts said. And the numbers indicate a return to levels before the coronavirus pandemic, when whooping cough and other contagious illnesses plummeted.
+
+
+Still, the tally has some state health officials concerned, including those in Wisconsin, where there have been about 1,000 cases so far this year, compared to a total of 51 last year.
+
+
+Nationwide, CDC has reported that kindergarten vaccination rates dipped last year and vaccine exemptions are at an all-time high. Thursday, it released state figures, showing that about 86% of kindergartners in Wisconsin got the whooping cough vaccine, compared to more than 92% nationally.
+
+
+Whooping cough, also called pertussis, usually starts out like a cold, with a runny nose and other common symptoms, before turning into a prolonged cough. It is treated with antibiotics. Whooping cough used to be very common until a vaccine was introduced in the 1950s, which is now part of routine childhood vaccinations. It is in a shot along with tetanus and diphtheria vaccines. The combo shot is recommended for adults every 10 years.
+
+
+"They used to call it the 100-day cough because it literally lasts for 100 days," said Joyce Knestrick, a family nurse practitioner in Wheeling, West Virginia.
+
+
+Whooping cough is usually seen mostly in infants and young children, who can develop serious complications. That's why the vaccine is recommended during pregnancy, to pass along protection to the newborn, and for those who spend a lot of time with infants.
+
+
+But public health workers say outbreaks this year are hitting older kids and teens. In Pennsylvania, most outbreaks have been in middle school, high school and college settings, an official said. Nearly all the cases in Douglas County, Nebraska, are schoolkids and teens, said Justin Frederick, deputy director of the health department.
+
+
+That includes his own teenage daughter.
+
+
+"It's a horrible disease. She still wakes up — after being treated with her antibiotics — in a panic because she's coughing so much she can't breathe," he said.
+
+
+It's important to get tested and treated with antibiotics early, said Dr. Kris Bryant, who specializes in pediatric infectious diseases at Norton Children's in Louisville, Kentucky. People exposed to the bacteria can also take antibiotics to stop the spread.
+
+
+"Pertussis is worth preventing," Bryant said. "The good news is that we have safe and effective vaccines." 
+
+<br> 
+
+<https://www.voanews.com/a/whooping-cough-is-at-a-decade-high-level-in-us/7828392.html>
+
+---
+
+## Many schools are still closed weeks after Hurricane Helene
+
+date: 2024-10-20, from: VOA News USA
+
+Tens of thousands of students in the Southeast are dealing with school disruptions after Hurricane Helene wreaked havoc so severe — on homes, campuses and municipal power and water systems — that some districts have no idea when they will reopen.
+
+
+While virtual learning helped during the COVID-19 school closures, that has not been an option for this crisis because internet and cellphone service has remained spotty since the storm struck in late September.
+
+
+In hard-hit western North Carolina, some districts warn students will miss up to a month of school, and others say they can't yet determine a timeline for returning to classrooms.
+
+
+"I feel like a month is a lot, but it's not something that can't be overcome," said Marissa Coleman, who has sent her four children to stay with grandparents in Texas because their home in North Carolina's Buncombe County has no running water. "But if we get further into Thanksgiving and Christmas, it's like, how are they actually going to make this up?"
+
+
+In mountainous Buncombe County, Helene swept away homes, cut power and destroyed crucial parts of the water system for Asheville, a city of about 94,000 people. The storm decimated remote towns and killed at least 246 people throughout the Appalachians, where massive cleanup efforts have been complicated by washed-out bridges and roads. It was the deadliest hurricane to hit the U.S. mainland since Katrina in 2005.
+
+
+The Buncombe County School system, which serves over 22,000 students, told families Tuesday on the district's Facebook page no decision has been made "with regards to start date or length of day" because of a need to repair buildings, restore phone and security systems and redraw bus routes.
+
+
+Even when schools reopen, educators worry the disruption could have profound effects on students' learning and emotional well-being.
+
+
+Children who experience natural disasters are more prone to acute illness and symptoms of depression and anxiety, research shows. The physical and mental health impacts put them at greater risk of learning loss: Absences can undermine achievement, as can the effects of trauma on brain function.
+
+
+
+
+The challenges come amid growing concerns about the impacts of climate change on students. Wildfires have swept through communities, displacing families. Many school systems with inadequate heating or air conditioning have closed during extreme weather or forced students and educators to endure sweltering or frigid temperatures. According to the World Bank, 400 million children lost school days because of "climate-related closures" in 2022.
+
+
+Days after Helene made landfall, Hurricane Milton roared ashore last week farther south along the same Florida coast as a Category 3 storm. While about half the state's districts were closed, all of them were planning to reopen by the end of this week.
+
+
+Schools affected by Helene are trying to provide stability. The Buncombe district has suggested parents trade books with neighbors and friends for their kids. "Have them write, maybe about something they're looking forward to when school starts again," the district told parents on social media. "Turn everyday experiences into math problems."
+
+
+Cécile Wight, a mother of two in Asheville, said she has been grateful for concern shown by schools including surveys checking on families' well-being and an elementary school bus driver who took his own car to visit each child on his route.
+
+
+"That has been huge, just having the emotional support from the school system and from the people we know at the school," she said.
+
+
+But uncertainty remains. Wight said her family is able to stay at their home because they have well water, but many other families have yet to return since evacuating. Most of Buncombe's 45 schools still lacked running water as of Tuesday, meaning they're unable to meet basic safety and hygiene standards.
+
+
+Schools have begun exploring whether it would be possible to open without running water, relying on portable bathroom trailers. In a letter to families, Asheville Superintendent Maggie Furman said the district is considering drilling wells at each school so they don't have to rely on city water.
+
+
+Coleman said her kids are eager for some kind of normalcy.
+
+
+"I understand the schools are going to have to take some time to find a way to open safely, and I support that 100%. But I definitely am not in the camp of 'We need to wait until we get water back, until everything's normal again to open.' I just think that's going to be too long," Coleman said.
+
+
+The Tennessee Department of Education is still trying to determine how many schools remain closed since Hurricane Helene and how many took too much damage to reopen.
+
+
+Echoing the COVID-19 pandemic, several schools in Tennessee have postponed traditions like homecoming games, parades and dances. Many colleges are also granting extensions on application deadlines, officials say, to reduce high school seniors' stress.
+
+
+In storm-drenched areas elsewhere, some early education providers may never reopen.
+
+
+Private child care and preschool centers are particularly vulnerable in the aftermath of a natural disaster, said Militza Mezquita, senior adviser for education in emergencies at Save the Children. Many already operate on thin margins, meaning a temporary closure can easily turn permanent. As for-profit companies, they are also ineligible for many types of disaster aid. A natural disaster can wipe out 10% to 20% of providers, Mezquita said.
+
+
+"Child care recovery is very critical to the whole recovery ecosystem," Mezquita said, noting the people essential to recovery — road workers, cleanup crews, doctors and nurses — often have young children that need to be looked after. "If they are not able to adequately get their children in care, they can't go to work."
+
+
+Despite the instability, educators like Heather Smith, who was named North Carolina's Teacher of the Year in the spring, encourage families to see the lessons storms can provide. Smith brought along her two children, ages 8 and 4, to serve meals at her church.
+
+
+"Our kids are learning so much every day, whether it's about adversity, whether it's about helping a community," said Smith, who rode out the storm at her home in Waynesville.
+
+
+Similarly, Wight has been taking her children to volunteer for relief efforts at a school. She said it has helped them feel active and involved in the community.
+
+
+"If COVID taught us something, it's that we can make things work. The kids are resilient," Wight said. "They will eventually catch up on the academic side of things." 
+
+<br> 
+
+<https://www.voanews.com/a/many-schools-are-still-closed-weeks-after-hurricane-helene-/7825430.html>
+
+---
+
+## Cher, Mary J. Blige, Ozzy Osbourne among Rock Hall of Fame inductees
+
+date: 2024-10-20, from: VOA News USA
+
+NEW YORK — Cher, Mary J. Blige and Ozzy Osbourne were among this year's Rock and Roll Hall of Fame inductees, an elite group formally introduced into the music pantheon Saturday at a star-studded concert gala.
+
+
+Kool & the Gang, Dave Matthews Band, Foreigner, A Tribe Called Quest, and Peter Frampton round out the 2024 class of honorees, artists honored at the ceremony held in Cleveland, Ohio, home of the prestigious hall.
+
+
+Big Mama Thornton, Alexis Korner and John Mayall received special honors for "musical influence," as Jimmy Buffett, MC5, Dionne Warwick and Norman Whitfield received awards for "musical excellence."
+
+
+Suzanne de Passe, a trailblazer for women executives in the music business, who was big in Motown, won the night's award for nonperforming industry professionals.
+
+
+Dua Lipa kicked off the evening with a performance of Believe, with Cher joining the pop star onstage to finish her 1998 smash hit, which was credited as the first song to use auto-tune technology as an instrument.
+
+
+"I changed the sound of music forever," she said in her acceptance speech, less than a year after railing against the hall for not having yet added her to the ballot.
+
+
+"It was easier getting divorced from two men than it was getting in the Rock and Roll Hall of Fame," she quipped Saturday night.
+
+
+Performers included Kelly Clarkson, Sammy Hagar, Slash and Demi Lovato, who all appeared for Foreigner.
+
+
+A group of artists including Queen Latifah, De La Soul and Busta Rhymes also performed with the surviving members of the eclectic, pioneering hip hop group A Tribe Called Quest -- Q-Tip, Ali Shaheed Muhammad and Jarobi White. 
+
+<br> 
+
+<https://www.voanews.com/a/cher-mary-j-blige-ozzy-osbourne-among-rock-hall-of-fame-inductees/7829095.html>
+
+---
+
+## US probes unauthorized release of classified documents on Israel attack plans
+
+date: 2024-10-20, from: VOA News USA
+
+WASHINGTON — The United States is investigating an unauthorized release of classified documents that assess Israel's plans to attack Iran, three U.S. officials told The Associated Press. A fourth U.S. official said the documents appear to be legitimate.
+
+
+The documents are attributed to the U.S. Geospatial Intelligence Agency and National Security Agency and note that Israel was still moving military assets in place to conduct a military strike in response to Iran's blistering ballistic missile attack on October 1. They were sharable within the "Five Eyes," which are the U.S., Great Britain, Canada, New Zealand and Australia.
+
+
+The documents, which are marked top secret, were posted to the Telegram messaging app and first reported by CNN and Axios. The officials spoke on the condition of anonymity because they were not authorized to discuss the matter publicly.
+
+
+The investigation is also examining how the documents were obtained — including whether it was an intentional leak by a member of the U.S. intelligence community or obtained by another method, like a hack — and whether any other intelligence information was compromised, one of the officials said. As part of that investigation, officials are working to determine who had access to the documents before they were posted, the official said.
+
+
+The U.S. has urged Israel to take advantage of its elimination of Hamas leader Yahya Sinwar and press for a cease-fire in Gaza, and has likewise urgently cautioned Israel not to further expand military operations in the north in Lebanon and risk a wider regional war. However, Israel's leadership has repeatedly stressed it will not let Iran's missile attack go unanswered.
+
+
+Hamas and Hezbollah have been designated terrorist organizations by the United States, United Kingdom, European Union and others.
+
+
+In a statement, the Pentagon said it was aware of the reports of the documents but did not have further comment.
+
+
+The Hamas attack on Israel a year ago killed 1,200 people and led to the capture of about 250 hostages. Israel's counteroffensive in Gaza has killed more than 42,400 Palestinians, with more than half of them women and children, according to Gaza health officials. The Israeli military says the death toll includes thousands of Hamas fighters.
+
+
+The Israeli military did not immediately respond to a request for comment over the leak of the two documents.
+
+
+The documents first appeared online Friday via a channel on Telegram, claiming they had been leaked by someone in the U.S. intelligence community, then later the U.S. Defense Department. The information appeared entirely gathered through the use of satellite image analysis.
+
+
+One of the two documents resembled the style of other material from the U.S. National Geospatial Intelligence Agency leaked by Jack Teixeira, an Air National Guardsman who pleaded guilty in March to leaking highly classified military documents about Russia's war on Ukraine and other national security secrets.
+
+
+The Telegram channel involved in the leak identifies itself as being based in Tehran, Iran's capital. It previously published memes featuring Iran's Supreme Leader Ayatollah Ali Khamenei and material in support of Tehran's self-described "Axis of Resistance," which includes Middle East militant groups armed by the Islamic Republic. 
+
+<br> 
+
+<https://www.voanews.com/a/7829073.html>
+
+---
+
+## 7 dead after ferry dock gangway collapses on Georgia's Sapelo Island
+
+date: 2024-10-20, from: VOA News USA
+
+SAVANNAH, Georgia — At least seven people were killed Saturday after part of a ferry dock collapsed on Georgia's Sapelo Island, authorities said.
+
+
+Multiple people were taken to hospitals, and crews from the U.S. Coast Guard, the McIntosh County Fire Department, the Georgia Department of Natural Resources and others were searching the water, according to spokesperson Tyler Jones of the Georgia Department of Natural Resources, which operates the dock.
+
+
+Jones said a gangway at the dock collapsed and sent people plunging into the water. It happened as crowds gathered on the island for a celebration of its tiny Gullah-Geechee community of Black slave descendants.
+
+
+"There have been seven fatalities confirmed," Jones said. "There have been multiple people transported to area hospitals, and we are continuing to search the water for individuals."
+
+
+Jones said he did not know what caused the gangway to collapse, but officials believe there were at least 20 people on it at the time. The gangway connected an outer dock where people board the ferry to another dock onshore.
+
+
+Among the dead was a chaplain for the Georgia Department of Natural Resources, Jones said.
+
+
+Sapelo Island is about 97 kilometers south of Savannah and is reachable from the mainland by boat.
+
+
+Cultural Day is an annual fall event spotlighting the island’s tiny community of Hogg Hummock, which is home to a few dozen Black residents. The community of dirt roads and modest homes was founded by former slaves from the cotton plantation of Thomas Spalding.
+
+
+Small communities descended from enslaved island populations in the South — known as Gullah, or Geechee in Georgia — are scattered along the coast from North Carolina to Florida. Scholars say their separation from the mainland caused residents to retain much of their African heritage, from their unique dialect to skills and crafts such as cast-net fishing and weaving baskets. 
+
+<br> 
+
+<https://www.voanews.com/a/dead-after-ferry-dock-gangway-collapses-on-georgia-s-sapelo-island/7829061.html>
+
+---
+
+## USPS mail carriers reach tentative contract for raises, trucks that stay cool
+
+date: 2024-10-19, from: VOA News USA
+
+Some 200,000 mail carriers have reached a tentative contract deal with the U.S. Postal Service that includes backdated pay raises and a promise to provide workers with air-conditioned trucks. 
+
+
+The new agreement, which still needs to be ratified by union members, runs through November 2026. Letter deliverers have been working without a contract since May 2023. 
+
+
+Both the union and the Postal Service welcomed the agreement, which was announced Friday. 
+
+
+"Both sides didn't get everything they wanted. But by bargaining in good faith, we ended with an agreement that meets our goals and rewards our members," Brian Renfroe, the president of the National Association of Letter Carriers, told The Associated Press. "To make that happen, the Postal Service had to recognize the contributions of members to the Postal Service and the American people." 
+
+
+Among other improvements, the deal increases the top pay and reduces the amount of time it takes new workers to reach that level, Renfroe said. He credited Postmaster General Louis DeJoy and his deputy for bargaining in good faith throughout the arduous process. 
+
+
+The Postal Service said the agreement supported its 10-year 'Delivering for America' mission to modernize operations and adapt to changing customer needs. 
+
+
+"This is a fair and responsible agreement that serves the best interest of our employees, our customers and the future of the Postal Service," said Doug Tulino, the deputy postmaster general and chief human resources officer. 
+
+
+As part of the agreement, all city carriers will get three annual pay increases of 1.3% each by 2025, some of which will be paid retroactively from November 2023. Workers will also receive retroactive and future cost-of-living
+
+
+There is also a commitment from the Postal Service to "make every effort" to provide mail trucks with air-conditioning. 
+
+
+The Postal Service in summer began rolling out its new electric delivery vehicles, which come equipped with air-conditioning. While the trucks won't win any beauty contests, they did get rave reviews from letter carriers accustomed to older vehicles that lack modern safety features and are prone to breaking down — and even catching fire. 
+
+
+Within a few years, the new delivery fleet will have expanded to 60,000, most of them electric models, serving as the Postal Service's primary delivery truck from Maine to Hawaii. 
+
+
+Under the tentative contract agreement, the Postal Service must discuss with the union any plans to buy new mail trucks that don't have air-conditioning. 
+
+
+This is the second contract negotiated since DeJoy was appointed postmaster general in 2020. It is expected to take several weeks for union members to ratify the contract. Rural mail deliverers aren't covered by the contract because they are represented by a different union. 
+
+<br> 
+
+<https://www.voanews.com/a/mail-carriers-reach-tentative-contract-with-usps-for-pay-raises-air-conditioned-trucks-/7828853.html>
+
+---
+
+## Last US in-person vote will be cast in Alaska's Aleutian Islands
+
+date: 2024-10-19, from: VOA News USA
+
+ANCHORAGE, ALASKA — On a desolate slab of island tundra in western Alaska, a resident of Adak will again become the last American to cast an in-person ballot for president, continuing a 12-year tradition for the nation’s westernmost community.
+
+
+The honor of having the last voter in the nation fell to Adak when they did away with absentee-only voting for the 2012 election and added in-person voting.
+
+
+“People have a little bit of fun on that day because, I mean, realistically everybody knows the election’s decided way before we’re closed,” said city manager Layton Lockett. “But, you know, it’s still fun.”
+
+
+When polls close in Adak, it will be 1 a.m. on the East Coast.
+
+
+
+
+Adak Island, midway in the Aleutian Island chain and bordered by the Bering Sea to the north and the North Pacific Ocean to the south, is closer to Russia than mainland Alaska. The island best known as a former World War II military base and later naval station is 1,931 kilometers (1,200 miles) southwest of Anchorage and farther west than Hawaii, where polls close an hour earlier.
+
+
+Mary Nelson said Republican Mitt Romney was likely conceding the 2012 race to President Barack Obama on election night when she became Adak’s first last voter in a presidential election, although she didn’t know Obama had been reelected until the next morning when she turned on her computer to read election results.
+
+
+Nelson, who now lives in Washington state, recalled to The Associated Press by telephone that she was a poll worker in Adak at the time and had forgotten to vote until just before the 8 p.m. poll closing time.
+
+
+“When I opened the [voting booth's] curtain to come back out, the city manager took my picture and announced that I was the last person in Adak to vote,” she said.
+
+
+That was also the end of the celebration since they still had work to do.
+
+
+“We had votes to count, and they were waiting for us in Nome to call with our vote count,” she said.
+
+
+
+
+There are U.S. territories farther west than Alaska, but there’s no process in the Electoral College to allow residents in Guam, the northern Mariana Islands, American Samoa and the U.S. Minor Outlying Islands to vote for president, according to the National Archives.
+
+
+“I’ve been tickled pink and told people about it,” said Nelson, now 73. “I have the story I printed out about it and show some people who I think would think it’s a big deal, like my family,” she said.
+
+
+Adak Island has historical significance for its role in World War II. The U.S. built facilities on the island after Japanese forces took islands farther west in the Aleutian chain.
+
+
+Troops landed in August 1942, to begin building an Army base, and enemy planes dropped nine bombs on the island two months later, but in undeveloped areas, and riddled the landscape with machine gun fire. The Navy began building facilities in January 1943.
+
+
+In May 1943, about 27,000 combat troops gathered on Adak as a staging point to retake nearby Attu Island from the Japanese.
+
+
+Among famous Americans stationed at Adak were writers Dashiell Hammett and Gore Vidal. The island also played host to President Franklin Roosevelt, boxing champion Joe Lewis and several Hollywood stars, according to the Adak Historical Society.
+
+
+In a lighter note, the Army attempted to start a forest on Adak Island between 1943 and 1945. A sign placed by residents in the 1960s outside the area of 33 trees noted: “You are now Entering and Leaving the Adak National Forest.”
+
+
+After the war, the island was transferred to the Air Force and then the Navy in 1950. Nearly 32,000 hectares (80,000 acres) of the 73,000-hectare (180,000-acre) island were set aside for Navy use, and the rest of the island remained part of what eventually became the Alaska Maritime National Wildlife Refuge.
+
+
+The base closed in 1997. The Navy retains about 2,300 hectares (5,600 acres) with the remainder either owned by the Aleut Corporation, the Alaska Native regional corporation for the area; the city of Adak; or the refuge.
+
+
+Lockett said the city is facing tough times with a dwindling population and lack of an economic driver. The town’s fish processing plant has closed numerous times over the years.
+
+
+When the base was active, there were about 6,000 residents on Adak Island. The 2020 Census counted 171 residents. Lockett says that’s probably now down to below 50 full-time residents.
+
+
+In Alaska, a school must have 10 students to remain open. Mike Hanley, the Aleutian Region School District superintendent, said in an email that the school closed in 2023 after it started the year with six students. That shrank to one by November, and then that student left.
+
+
+Hanley said by the time he notified the state education department, “there were literally no children on the island, not even younger pre-K students.”
+
+
+When it comes to politics, Lockett said it’s pretty easy in a small town to know where your neighbors fall politically, but there seems to be one goal that unites everyone.
+
+
+Whoever is in office, are they going to try to “encourage the military to come back to Adak in some way, shape or form?” he said.
+
+
+“We’re kind of in that great midst of, what’s next for Adak, because we’re struggling,” he said.
+
+
+For now, with the presidential election coming up, the city can focus on its unique place in America.
+
+
+“I’m not sure who the last voter will be this year,” said Adak City Clerk Jana Lekanoff. “Maybe it’ll be a bit of a competition?” 
+
+<br> 
+
+<https://www.voanews.com/a/last-us-in-person-vote-will-be-cast-in-alaska-s-aleutian-islands/7828757.html>
+
+---
+
+## Judges punishing Jan. 6 rioters fear more political violence as election nears
+
+date: 2024-10-19, from: VOA News USA
+
+WASHINGTON — Over the past four years, judges at Washington’s federal courthouse have punished hundreds of rioters who stormed the U.S. Capitol in an unprecedented assault on the nation's democracy. On the cusp of the next presidential election, some of those judges fear another burst of political violence could be coming.
+
+
+Before recently sentencing a rioter to prison, U.S. District Judge Reggie Walton said he prays Americans accept the outcome of next month’s election. But the veteran judge expressed concern that Donald Trump and his allies are spreading the same sort of conspiracy theories that fueled the mob's January 6, 2021, riot.
+
+
+“That sore loser is saying the same things he said before,” Walton said earlier this month without mentioning the Republican presidential nominee by name. “He’s riling up the troops again, so if he doesn’t get what he wants, it’s not inconceivable that we will experience that same situation again. And who knows? It could be worse."
+
+
+'It scares me'
+
+
+Walton, a nominee of President George W. Bush, is not alone. Other judges have said the political climate is ripe for another attack like the one that injured more than 100 police officers at the Capitol. As Election Day nears, judges are frequently stressing the need to send a message beyond their courtrooms that political violence can't be tolerated.
+
+
+“It scares me to think about what will happen if anyone on either side is not happy with the results of the election,” Judge Jia Cobb, a nominee of President Joe Biden, said during a sentencing hearing last month for four Capitol rioters.
+
+
+
+
+Judge Rudolph Contreras lamented the potential for more politically motivated violence as he sentenced a Colorado man, Jeffrey Sabol, who helped other rioters drag a police officer into the mob. Sabol later told FBI agents that a “call to battle was announced” and that he had “answered the call because he was a patriot warrior.”
+
+
+“It doesn’t take much imagination to imagine a similar call coming out in the coming months, and the court would be concerned that Mr. Sabol would answer that call in the same way,” Contreras, a President Barack Obama nominee, said in March before sentencing Sabol to more than five years in prison.
+
+
+Trump’s distortion of the January 6 attack has been a cornerstone of his bid to reclaim the White House. The former president has denied any responsibility for the crimes of supporters who smashed windows, assaulted police officers and sent lawmakers running into hiding as they met to certify Biden's 2020 victory.
+
+
+'Patriots' and 'hostages'
+
+
+Trump has vowed to pardon rioters, whom he calls “patriots” and “hostages," if he wins in November. And he said he would accept the results of the upcoming election only if it’s “free and fair,” casting doubts reminiscent of his baseless claims in 2020.
+
+
+
+
+Judges have repeatedly used their platform on the bench to denounce those efforts to downplay the violence on January 6 and cast the rioters as political prisoners. And some have raised concerns about what such rhetoric means for the future of the country and its democracy.
+
+
+“We’re in a real difficult time in our country, and I hope we can survive it,” Walton said this month while sentencing a Tennessee nurse who used a pair of medical scissors to smash a glass door at the Capitol.
+
+
+“I’ve got a young daughter, I’ve got a young grandson, and I would like for America to be available to them and be as good to them as it has been to me," he said. "But I don’t know if we survive with the mentality that took place that day.”
+
+
+More than 1,500 people have been charged with federal crimes related to the January 6 siege, which disrupted the peaceful transfer of presidential power for the first time in the nation’s history. Over 1,000 rioters have been convicted and sentenced. Roughly 650 of them received prison time ranging from a few days to 22 years.
+
+
+Justice Department prosecutors have argued in many cases that a prison sentence is necessary to deter convicted Capitol rioters from engaging in more politically motivated violence.
+
+
+“With the 2024 presidential election approaching and many loud voices in the media and online continuing to sow discord and distrust, the potential for a repeat of January 6 looms ominously," prosecutors have repeatedly warned in court filings.
+
+
+'I'd do it all over again'
+
+
+Prosecutors argue that defendants who have shown little or no remorse for their actions on January 6 could break the law again. Some rioters even seem to be proud of their crimes.
+
+
+The first rioter to enter the Capitol texted his mother, “I’ll go again given the opportunity.”
+
+
+A man from Washington state who stormed the Capitol with fellow Proud Boys extremist group members told a judge, “You can give me 100 years, and I’d do it all over again.” A Kentucky nurse who joined the riot told a television interviewer that she would "do it again tomorrow.”
+
+
+
+
+A Colorado woman known to her social media followers as the “J6 praying grandma” avoided a prison sentence in August when a magistrate judge sentenced her for disorderly conduct and trespassing on Capitol grounds. Rebecca Lavrenz told the judge that God, not Trump, led her to Washington on January 6.
+
+
+“And she has all but promised to do it all over again,” said prosecutor Terence Parker.
+
+
+Prosecutors had sought 10 months behind bars. After her April trial conviction, Lavrenz went on a “media blitz” to defend the mob, spread misinformation, undermine confidence in the courts and boost her celebrity in a community that believes January 6 “was a good day for this country,” Parker said.
+
+
+Magistrate Zia Faruqui sentenced Lavrenz to six months of home confinement and fined her $103,000, stressing the need to “lower the volume” before the next election.
+
+
+“These outside influences, the people that are tearing our country apart, they’re not going to help you,” Faruqui told her. 
+
+<br> 
+
+<https://www.voanews.com/a/judges-punishing-jan-6-rioters-fear-more-political-violence-as-election-nears/7828752.html>
+
+---
+
+## Boeing makes new offer to union in hopes of ending strike
+
+date: 2024-10-19, from: VOA News USA
+
+Boeing and the union representing striking machinists have negotiated a new contract proposal that would provide bigger pay raises and bonuses in a bid to end a costly walkout that has crippled production of airplanes for more than a month.
+
+
+The International Association of Machinists and Aerospace Workers said early Saturday that it plans to hold a ratification vote Wednesday.
+
+
+The union said the deal would increase pay by 35% over four years, up from 30% that was offered last month. It also boosts upfront bonuses to $7,000 per worker instead of $6,000.
+
+
+The new offer would not restore a traditional pension plan — a key demand of the 33,000 striking workers — but it would increase the amount of contributions to 401(k) retirement plans that Boeing would match, the union said.
+
+
+“We look forward to our employees voting on the negotiated proposal," Boeing said in a statement.
+
+
+About 33,000 members of IAM District 751 began a strike on September 14. The strike has halted production of Boeing 737s, including the 737 Max, and 767s and 777s. Boeing is continuing to build 787 Dreamliners at a nonunion plant in South Carolina.
+
+
+The strike has led new Boeing CEO Kelly Ortberg to announce about 17,000 layoffs and take early steps toward raising up to $25 billion from new stock or debt to bolster the company's finances. 
+
+<br> 
+
+<https://www.voanews.com/a/boeing-makes-new-offer-to-union-in-hopes-of-ending-strike/7828740.html>
+
+---
+
+## Demographic changes shake up Arizona presidential politics
+
+date: 2024-10-19, from: VOA News USA
+
+People in all 50 states will vote in this year’s U.S. presidential election. But it is outcomes from seven so-called swing states that will likely determine the winner. The Southwestern state of Arizona traditionally favored Republican candidates, but Democrat Joe Biden won the state in 2020, and its electoral votes are up for grabs again in 2024. From Arizona, VOA’s Dora Mekouar has our story. Videographer: Miguel Amaya 
+
+<br> 
+
+<https://www.voanews.com/a/demographic-changes-shake-up-arizona-presidential-politics/7828699.html>
+
+---
+
+## Southeast Asia bears brunt of US trade curbs on Uyghur forced labor
+
+date: 2024-10-19, from: VOA News USA
+
+BANGKOK — Southeast Asia is bearing the mounting brunt of U.S. trade curbs aimed at stemming the forced labor of ethnic minority Uyghurs in China, with billions of dollars in blocked exports, the latest U.S. trade figures show.
+
+
+Economists and human rights experts ascribe the heavy hit the region is taking to global supply chains shifting to reroute exports from China through Southeast Asia and to China’s persistent dominance in key commodities.
+
+
+With both powerful forces at play, Southeast Asia is “caught in the middle,” Jayant Menon, a senior fellow at the ISEAS Yusof Ishak Institute in Singapore, told VOA.
+
+
+The United States has detained $3.56 billion worth of imports in all since its Uyghur Forced Labor Prevention Act, or UFLPA, took effect in mid-2022, according to recent figures from U.S. Customs and Border Protection. Some 86% of those, more than $3 billion worth, arrived from Malaysia, Thailand and Vietnam. Only $395 million arrived directly from China.
+
+
+The act forbids imports of any products made in whole or in part in China’s Xinjiang autonomous region, the Uyghurs’ historic homeland, presuming they have been made with forced labor. While many of the shipments are eventually allowed to enter the United States, the burden is on the importer to secure their release by proving the products are produced without forced labor, a process that can take months.
+
+
+
+
+The United States and other governments have accused China of genocide over its treatment of the mostly Muslim Uyghurs for subjecting them to not only forced labor but mass surveillance and detention, religious persecution and forced sterilization — all denied by Beijing.
+
+
+Xinjiang is a major source of some commodities crucial to the global supply chain, including 12% of the world’s aluminum, more than a third of the polysilicon for solar panels and 90% of the cotton produced by China, according to the Coalition to End Forced Labor in the Uyghur Region, a global network of rights groups.
+
+
+Many of those supply chains now flow through Southeast Asia for reasons beyond just the UFLPA, said Nick Marro, principal Asia economist and global trade lead analyst for the Economist Intelligence Unit.
+
+
+“For years, multinational companies — both Chinese and non-Chinese owned — have been pouring investment into Southeast Asia to construct supply chains aimed at dodging U.S. tariffs,” he told VOA.
+
+
+While far from the only reason for the influx, he said, “shifting some production chains to Vietnam or Thailand, for example, can obfuscate whether a good might originally be produced in China.”
+
+
+“This isn't necessarily a fool-proof strategy,” Marro said. “U.S. trade authorities are very sensitive to illegal transshipments and other efforts aimed at circumventing U.S. duties. But for some supply chains, cracking down on these activities can be challenging — especially for products like cotton, which is notoriously difficult to trace.”
+
+
+Evolving supply chains now require looking beyond exports arriving directly from China to catch what’s made there, said Menon, a former lead economist for trade with the Asian Development Bank.
+
+
+“Increasingly there’s production and value addition in multiple countries,” he said. “Simply looking at goods that emanate from Xinjiang to the U.S. will not capture the intended objective.”
+
+
+Of the slightly more than $3 billion worth of exports the United States has detained from Malaysia, Thailand and Vietnam because of the UFLPA, the vast majority, $2.96 billion, have been electronics, including solar panels.
+
+
+Louisa Greve, global advocacy director for the Washington-based Uyghur Human Rights Project, ascribes that to the surge of investment from Chinese solar panel makers into Southeast Asia starting more than a decade ago.
+
+
+“We don’t know of any Uyghurs working in Southeast Asia in solar, but we do know where the polysilicon has to come from. That’s the issue,” she told VOA. “It’s about the components.”
+
+
+Greve added that the Southeast Asian countries and companies involved in importing and incorporating that polysilicon into the solar panels they help make and export also risk being complicit in the state-sponsored forced labor that goes into producing it in China.
+
+
+“Thirty-five percent of the world’s polysilicon, or solar-grade polysilicon, is coming from China. It’s up to every manufacturer, like the plants that are actually making solar panels in Southeast Asia … to say, ‘We have to be responsible for the raw materials that we’re using,’” she said.
+
+
+Menon asserted the UFLPA could benefit low-wage countries less tainted by forced labor than China by driving more business their way, but he said that Southeast Asia will still struggle to wean itself off Chinese supplies.
+
+
+“China is still the hub or the center of ASEAN [Association of Southeast Asian Nations] supply chains. That hasn’t changed. There’s been some reconfiguration taking place, but by and large, China’s not going away,” he said.
+
+
+
+
+Menon said that “blunt” trade tools like the act can also hurt the countries in the middle of those supply chains by driving existing production and investment away, leaving local workers with less work or fewer jobs.
+
+
+“This [act] is quite a big move, quite a massive measure, and so I’d be surprised if it doesn’t have some impact in moving production around,” he said. “If you ban imports in this way, inevitably there will be some shifts that move production in a way that tries to circumvent those bans.”
+
+
+Marro said the same pressures that drove companies to “de-risk” by moving production from China to Southeast Asia years ago could yet prove a “double-edged sword.” While the shift has boosted Southeast Asia’s economies, the costs may mount as the United States and others start taking a harder look at countries helping China evade their trade curbs.
+
+
+Even with only 11 months of the 2024 fiscal year reported, U.S. customs figures show the UFLPA blocked more imports from Southeast Asia over the past year than the year before.
+
+
+Marro said enforcement efforts were at a “very real risk” of picking up but added that geopolitics could also intervene.
+
+
+“As much as U.S. officials want to crack down on Chinese tariff circumvention, there's an equal effort to avoid isolating Southeast Asia when it comes to the U.S.'s increasingly hawkish strategy towards China,” he said. “This balancing act will characterize the future of U.S. policy to the region.” 
+
+<br> 
+
+<https://www.voanews.com/a/southeast-asia-bears-brunt-of-us-trade-curbs-on-uyghur-forced-labor/7828673.html>
+
+---
+
+##  YOU LOVE TO SEE IT: Not So Fast, Fashion 
+
+date: 2024-10-19, from: The Lever News
+
+ The Feds make pills easier to swallow, Oregon clamps down on natural gas, rural hospitals are popping up, and fast fashion is told to slow down.  
+
+<br> 
+
+<https://www.levernews.com/not-so-fast-fashion/>
+
+---
+
+## Florida digs out of mountains of sand swept in by back-to-back hurricanes
+
+date: 2024-10-19, from: VOA News USA
+
+BRADENTON BEACH, Florida — When a hurricane sets its sights on Florida, storm-weary residents may think of catastrophic wind, hammering rain and dangerous storm surge. Mounds of sand swallowing their homes? Not so much.
+
+
+That's the reality for some after Hurricanes Helene and Milton clobbered Florida's Gulf Coast with back-to-back hits in less than two weeks. Storm surge as high as 3 meters swept mountains of sand into communities — in some areas, 1.5 meters high or higher.
+
+
+The fine, white sand helps make Florida's beaches among the best in the world. But the powerful storms have turned the precious commodity into a costly nuisance, with sand creating literal barriers to recovery as homeowners and municipalities dig their way out.
+
+
+"I've never seen sand like this," said Scott Bennett, a contractor who has worked in storm recovery since 2005's Hurricane Katrina. "Wind, rain, water, but never sand."
+
+
+The morning after Hurricane Milton crashed ashore, the roads of Bradenton Beach, about an hour's drive south of Tampa, were lined with sandbanks less than a meter high, surrounding some bungalows. The views of the Old Florida beach town were not unlike those after a blustery Midwestern blizzard.
+
+
+"The best way to describe it, it's like getting 4 to 6 feet (1.2 to 1.8 meters) of snow up north," said Jeremi Roberts, a member of the State Emergency Response Team surveying the damage that day.
+
+
+Another hour south, Ron and Jean Dyer said the storms blew about 0.9 meters of sand up against their condo building on Venice Island.
+
+
+"The beach just moved over everything," Ron Dyer said.
+
+
+It had taken dozens of volunteers armed with shovels and wheelbarrows two days to dig all the sand out of the condo's pool after Hurricane Helene, only to see Milton fill it back in, he said.
+
+
+
+
+"They just kept digging and wheeling and digging and wheeling. … They were there for two days doing that," he said. "We got to do it all over again."
+
+
+Storm recovery contractor Larry West estimates that his team will do about $300,000 worth of work just to clean up all the sand and debris left behind at one of the condo buildings he's restoring in Manasota Key, about 56 kilometers south of Sarasota. He expects many property owners, especially those who don't have flood insurance, will have to pay out of pocket for this kind of cleanup.
+
+
+"The poor homeowner who's going to have to spend $150,000 cleaning up, that's going to hurt them hard," West said.
+
+
+West said he is not sure where to take the sand, after he heard that a local park that Charlotte County officials designated as a drop-off site was filling up with the stuff. According to the county, two sites remain open for dropping off sand.
+
+
+"Right now I'm building mountains in their parking area," West said of the condo complex he's restoring. "We're just kind of waiting to find out if they're gonna have us transport it to a different location."
+
+
+
+
+Officials in hard-hit Pinellas County, home to St. Petersburg, are still crunching the numbers on just how big of a bite Helene and Milton took out of the coastline there, but county Public Works director Kelli Hammer Levy puts the current estimate at 765,000 cubic meters of sand lost.
+
+
+"A lot of volume has been lost, and that's our main concern here right now," she told the county's Tourism Development Council. "It's hard to kind of stay positive with some of this stuff. I know the pictures are not what we want to see."
+
+
+For perspective, a 2018 beach renourishment project to shore up the county's coastline with 994,000 cubic meters of sand cost more than $50 million, according to the U.S. Army Corps of Engineers.
+
+
+Levy is hopeful that much of the displaced sand can be repurposed. Pinellas officials are encouraging residents to cart their sand right back out onto the beach — as long as it's clean.
+
+
+"Again, we just need to remove debris. I've seen some piles out there with kitchen cabinets in it," Levy said. "We're going to have a problem if we have a lot of that stuff out there."
+
+
+The county has also opened a drop-off location where residents can leave sand for workers to screen and clean, or dispose of if it's contaminated, under guidance from the state's Department of Environmental Protection.
+
+
+In the meantime, Florida residents are continuing to dig out of the storm-driven sand, many of them by hand.
+
+
+"Every shovelful is heavy," said West, the construction contractor. "This is horrendous, as far as the cleanup." 
+
+<br> 
+
+<https://www.voanews.com/a/florida-digs-out-of-mountains-of-sand-swept-in-by-back-to-back-hurricanes/7828411.html>
+
+---
+
+## Rare copy of US Constitution sells for $9M at auction
+
+date: 2024-10-19, from: VOA News USA
+
+Asheville, north carolina — A rare copy of the U.S. Constitution printed 237 years ago and sent to the states to be ratified has been sold for $9 million at an auction in North Carolina. 
+
+
+Brunk Auctions sold the document, the only copy of its type thought to be privately owned, at the private auction Thursday. The name of the buyer was not immediately released. 
+
+
+Bidding took just over seven minutes, with bids coming in at $500,000 intervals, mostly over the phone. There was a pause at $8.5 million, then another after someone on the phone bid $9 million. 
+
+
+"Just another second or two. Savor it a little bit, selling here at $9 million," said auctioneer and auction house owner Andrew Brunk. 
+
+
+Brunk was thankful. The auction was originally set for September 28 but was delayed after Hurricane Helene caused catastrophic damage throughout Asheville and western North Carolina. 
+
+
+"It's a privilege to have it here. It's been quite a ride," Brunk said. 
+
+
+
+
+The copy was printed after the Constitutional Convention finished drafting the proposed framework of the nation's government in 1787 and sent it to the Congress of the ineffective first American government under the Articles of Confederation, requesting it be sent to the states to be ratified by the people. 
+
+
+It's one of about 100 copies printed by the secretary of that Congress, Charles Thomson. Just eight are known to still exist and the other seven are publicly owned. 
+
+
+Thomson likely signed two copies for each of the original 13 states, essentially certifying them. 
+
+
+What happened to the document up for auction Thursday between Thomson's signature and 2022 is not known. 
+
+
+Two years ago, a property was being cleared out in Edenton in eastern North Carolina that was once owned by Samuel Johnston. He was the governor of North Carolina from 1787 to 1789 and oversaw the state convention during his last year in office that ratified the Constitution. 
+
+
+The copy was found inside a squat, two-drawer metal filing cabinet with a can of stain on top, in a long-neglected room piled high with old chairs and a dusty book case, before the old Johnston house was preserved. The document was a broad sheet that could be folded one time like a book. 
+
+
+Along with the Constitution on the broad sheet, printed front and back, is a letter from George Washington asking for ratification. He acknowledged there would have to be compromise and that certain rights the states enjoyed would have to be given up for the nation's long-term health. 
+
+
+The Constitution copy wasn't the only seven-figure purchase Thursday. A watermarked 1776 first draft of the Articles of Confederation went for $1 million. 
+
+
+Also sold was a 1788 Journal of the Convention of North Carolina at Hillsborough, where representatives spent two weeks debating whether ratifying the Constitution would put too much power with the federal government instead of the states. The document sold for $85,000.
+
+
+Auction officials were not sure what the Constitution document would go for because there is so little to compare it to. The last time a copy of the Constitution that was sent to the states sold, it was for $400 in 1891. 
+
+
+In 2021, Sotheby's of New York sold one of only 14 remaining copies of the Constitution printed for the Continental Congress and delegates to the Constitutional Convention for $43.2 million, a record for a book or document. 
+
+<br> 
+
+<https://www.voanews.com/a/rare-copy-of-us-constitution-sells-for-9m-at-auction-/7828409.html>
+
+---
+
+## Dense breasts can make it harder to spot cancer on a mammogram
+
+date: 2024-10-19, from: VOA News USA
+
+When a woman has a mammogram, the most important finding is whether there's any sign of breast cancer.
+
+
+The second most important finding is whether her breasts are dense.
+
+
+Since early September, a new U.S. rule requires mammography centers to inform women about their breast density — information that isn't entirely new for some women because many states already had similar requirements.
+
+
+Here's what to know about why breast density is important.
+
+
+Are dense breasts bad?
+
+
+No, dense breasts are not bad. In fact, they're quite normal. About 40% of women ages 40 and older have dense breasts.
+
+
+Women of all sizes can have dense breasts. It has nothing to do with breast firmness. And it only matters in the world of breast cancer screening, said Dr. Ethan Cohen of MD Anderson Cancer Center in Houston.
+
+
+With the new rule, "there are going to be a lot of questions to a lot of doctors and there's going to be a lot of Googling, which is OK. But we want to make sure that people don't panic," Cohen said.
+
+
+How is breast density determined?
+
+
+Doctors who review mammograms have a system for classifying breast density.
+
+
+There are four categories. The least dense category means the breasts are almost all fatty tissue. The most dense category means the breasts are mostly glandular and fibrous tissue.
+
+
+Breasts are considered dense in two of the four categories: "heterogeneously dense" or "extremely dense." The other two categories are considered not dense.
+
+
+Dr. Brian Dontchos of the Seattle-based Fred Hutchinson Cancer Center said the classification can vary depending on the doctor reading the mammogram "because it's somewhat subjective."
+
+
+Why am I being told I have dense breasts?
+
+
+Two reasons: For one, dense breasts make it more difficult to see cancer on an X-ray image, which is what a mammogram is.
+
+
+"The dense tissue looks white on a mammogram and cancer also looks white on a mammogram," said Dr. Wendie Berg of the University of Pittsburgh School of Medicine and chief scientific adviser to DenseBreast-info.org. "It's like trying to see a snowball in a blizzard."
+
+
+Second, women with dense breast tissue are at a slightly higher risk of developing breast cancer because cancers are more likely to arise in glandular and fibrous tissue.
+
+
+Reassuringly, women with dense breasts are no more likely to die from breast cancer compared to other women.
+
+
+What am I supposed to do?
+
+
+If you find out you have dense breasts, talk to your doctor about your family history of breast cancer and whether you should have additional screening with ultrasound or MRI, said Dr. Georgia Spear of Endeavor Health/NorthShore University Health System in the Chicago area.
+
+
+Researchers are studying better ways to detect cancer in women with dense breasts. So far, there's not enough evidence for a broad recommendation for additional screening. The U.S. Preventive Services Task Force called for more research in this area when it updated its breast cancer screening recommendations earlier this year.
+
+
+Do I still need a mammogram?
+
+
+Yes, women with dense breasts should get regular mammograms, which is still the gold standard for finding cancer early. Age 40 is when mammograms should start for women, transgender men and nonbinary people at average risk.
+
+
+"We don't want to replace the mammogram," Spear said. "We want to add to it by adding a specific other test."
+
+
+Will insurance cover additional screening?
+
+
+For now, that depends on your insurance, although a bill has been introduced in Congress to require insurers to cover additional screening for women with dense breasts.
+
+
+Additional screening can be expensive — from $250 to $1,000 out of pocket, so that's a barrier for many women.
+
+
+"Every woman should have equal opportunity to have their cancer found early when it's easily treated," Berg said. "That's the bottom line." 
+
+<br> 
+
+<https://www.voanews.com/a/dense-breasts-can-make-it-harder-to-spot-cancer-on-a-mammogram/7825426.html>
+
+---
+
+## Drone maker DJI sues Pentagon over Chinese military listing
+
+date: 2024-10-19, from: VOA News USA
+
+WASHINGTON — China-based DJI sued the U.S. Defense Department on Friday for adding the drone maker to a list of companies allegedly working with Beijing's military, saying the designation is wrong and has caused the company significant financial harm.
+
+
+DJI, the world's largest drone manufacturer that sells more than half of all U.S. commercial drones, asked a U.S. District Judge in Washington to order its removal from the Pentagon list designating it as a "Chinese military company," saying it "is neither owned nor controlled by the Chinese military."
+
+
+Being placed on the list represents a warning to U.S. entities and companies about the national security risks of conducting business with them.
+
+
+DJI's lawsuit says because of the Defense Department's "unlawful and misguided decision" it has "lost business deals, been stigmatized as a national security threat, and been banned from contracting with multiple federal government agencies."
+
+
+The company added "U.S. and international customers have terminated existing contracts with DJI and refuse to enter into new ones."
+
+
+The Defense Department did not immediately respond to a request for comment.
+
+
+DJI said on Friday it filed the lawsuit after the Defense Department did not engage with the company over the designation for more than 16 months, saying it "had no alternative other than to seek relief in federal court."
+
+
+Amid strained ties between the world's two biggest economies, the updated list is one of numerous actions Washington has taken in recent years to highlight and restrict Chinese companies that it says may strengthen Beijing's military.
+
+
+Many major Chinese firms are on the list, including aviation company AVIC, memory chip maker YMTC, China Mobile 0941.HK, and energy company CNOOC.
+
+
+In May, lidar manufacturer Hesai Group ZN80y.F filed a suit challenging the Pentagon's Chinese military designation for the company. On Wednesday, the Pentagon removed Hesai from the list but said it will immediately relist the China-based firm on national security grounds.
+
+
+DJI is facing growing pressure in the United States.
+
+
+Earlier this week DJI told Reuters that Customs and Border Protection is stopping imports of some DJI drones from entering the United States, citing the Uyghur Forced Labor Prevention Act.
+
+
+DJI said no forced labor is involved at any stage of its manufacturing.
+
+
+U.S. lawmakers have repeatedly raised concerns that DJI drones pose data transmission, surveillance and national security risks, something the company rejects.
+
+
+Last month, the U.S. House voted to bar new drones from DJI from operating in the U.S. The bill awaits U.S. Senate action. The Commerce Department said last month it is seeking comments on whether to impose restrictions on Chinese drones that would effectively ban them in the U.S. -- similar to proposed Chinese vehicle restrictions. 
+
+<br> 
+
+<https://www.voanews.com/a/drone-maker-dji-sues-pentagon-over-chinese-military-listing/7828439.html>
+
+---
+
+## US lawmakers seek investigation of consulting firm over work in China
+
+date: 2024-10-19, from: VOA News USA
+
+washington — A group of Republican lawmakers is demanding a federal investigation into the U.S. consulting firm McKinsey over its work with the Chinese government and state-owned enterprises, even as the company reportedly is revamping its China business to reduce risks. 
+
+
+A letter — signed by Representative John Moolenaar of Michigan, Senator Marco Rubio of Florida and Senator Joni Ernst of Iowa — asks the Justice Department to investigate whether McKinsey's $480 million contracts with the Defense Department comply with federal law when the consulting firm also advised China's national and provincial governments and state-controlled businesses. The three accuse McKinsey of misrepresenting its relationship with the Chinese government. 
+
+
+"McKinsey's activities pose a serious risk to U.S. national security and may have failed to meet McKinsey's obligations under federal law," according to the letter dated Thursday. 
+
+
+McKinsey declined to comment on the letter but has in the past defended its practices in China. It has said it follows the "most rigorous and comprehensive client service policy in our industry." 
+
+
+The consultancy also has said it does not work for the ruling Chinese Communist Party or the central government but mainly with multinationals and private Chinese businesses.   
+
+
+The lawmakers' scrutiny over McKinsey's dealings with Beijing comes as the U.S. and China are becoming increasingly competitive, prompting American politicians to reexamine business ties to ensure Beijing and its military would not get stronger with U.S. help. Beijing also has grown wary of American companies.   
+
+
+The Biden administration has imposed export controls to block China's access to advanced computer chips and limited U.S. investments in China in areas such as microelectronics, quantum information technologies and artificial intelligence. Last month, a Republican congressional report raised red flags that partnerships between American and Chinese universities could aid Beijing in developing critical technology for military advances.   
+
+
+U.S. companies, which have built experience in China over the past several decades, are readjusting to the new geopolitical reality. This week, The Wall Street Journal reported that McKinsey has cut back on government-linked clients in China and reduced the workforce there by nearly 500 people, or about a third. 
+
+
+The letter by Republican lawmakers accused McKinsey of helping China "rapidly develop its military and economy" through its consulting services. It said McKinsey failed to disclose its work with the Chinese government while acquiring U.S. defense contracts, which amounted to more than $480 million since 2008 and granted McKinsey "access to classified or otherwise sensitive national security data." 
+
+
+Bob Sternfels, McKinsey's global managing partner, told the Senate Homeland Security Committee's subcommittee on investigations in February that "we've never worked for the Chinese Communist Party or the central government in China, to the best of my knowledge." 
+
+
+The letter asserted that McKinsey may have misrepresented its relationship with the Chinese government, citing public information and documents. 
+
+<br> 
+
+<https://www.voanews.com/a/us-lawmakers-seek-investigation-of-consulting-firm-over-work-in-china-/7828385.html>
+
+---
+
+## Biden in Germany for quick visit focused on Middle East, Ukraine
+
+date: 2024-10-19, from: VOA News USA
+
+US President Joe Biden met with European counterparts on Friday, in a brief trip to Germany where leaders discussed the war in Ukraine and the widening conflict in the Middle East. White House correspondent Anita Powell reports from Berlin. 
+
+<br> 
+
+<https://www.voanews.com/a/7828419.html>
+
+---
+
+## Helene Muddies the Political Waters in North Carolina Amid Misinformation and Frustration
+
+date: 2024-10-19, from: Capital and Main
+
+<p>Though many connect the intense hurricane to climate change, that may not translate into votes.</p>
+<p>The post <a href="https://capitalandmain.com/helene-muddies-the-political-waters-in-north-carolina-amid-misinformation-and-frustration">Helene Muddies the Political Waters in North Carolina Amid Misinformation and Frustration</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/helene-muddies-the-political-waters-in-north-carolina-amid-misinformation-and-frustration>
+
+---
+
+## Birkin bag buyers and the consumer-driven economy
+
+date: 2024-10-19, from: Market Place, Make me Smart
+
+<p>New research from the Federal Reserve shows that wealthier Americans are driving retail spending while lower-income Americans have been squeezed by higher prices. We&#8217;ll discuss how this disparity could help explain the United States&#8217; often unexpectedly strong consumer economy, and what the Birkin bag side of TikTok can tell us about this divide. And, Cuba is enduring a nationwide power outage. We’ll explain how a grid failure today has left millions in the dark. Plus, we&#8217;ll play a spooky season edition of This or That!</p>
+<p>Here&#8217;s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.smithsonianmag.com/smart-news/how-to-watch-the-bright-and-speedy-orionid-meteor-shower-180985290/" target="_blank" rel="noreferrer noopener">&#8220;How to Watch the Bright and Speedy Orionid Meteor Shower&#8221;</a> from Smithsonian</li>
+<li><a href="https://www.washingtonpost.com/world/2024/10/18/cuba-blackout-electricity-shutdown/" target="_blank" rel="noreferrer noopener">&#8220;Cuban electrical collapse causes island-wide blackout, paralyzes economy&#8221;</a> from The Washington Post</li>
+<li><a href="https://apnews.com/article/economy-consumers-inflation-retail-spending-growth-wealth-be68f97bba5970ed4ce4fc8b8c7333af" target="_blank" rel="noreferrer noopener">&#8220;Wealthier Americans are driving retail spending and powering US economy&#8221;</a> from AP News</li>
+<li><a href="https://www.washingtonpost.com/business/2024/10/17/halloween-candy-chocolate-cocoa/" target="_blank" rel="noreferrer noopener">&#8220;Chocolate is on its way out. Why Halloween is about gummy candy now.&#8221;</a> from The Washington Post</li>
+</ul>
+<p>Join Kai Ryssdal and Kimberly Adams for a live taping of “Make Me Smart” on Oct. 25 in Boston. In-person tickets are sold out, but you can still join us virtually. Get your tickets <a href="https://ci.ovationtix.com/35123/production/1209492?performanceId=11506951">here</a>.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-MakeMeSmart/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/18/mms_20241018_MMS_128.mp3"></source>
+</audio> <a href="https://play.podtrac.com/APM-MakeMeSmart/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/18/mms_20241018_MMS_128.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/birkin-bag-buyers-and-the-consumer-driven-economy>
 
 ---
 
@@ -4646,59 +5770,4 @@ date: 2024-10-13, from: The Lever News
 <br> 
 
 <https://www.levernews.com/titans-of-deregulation/>
-
----
-
-## Iran's Terrible, Horrible, Very Bad Year
-
-date: 2024-10-12, updated: 2024-10-12, from: RAND blog
-
-Iran was in a stronger strategic position before its proxies plunged the region into war. But it has only itself to blame. If Tehran is intent on escalating, the United States and its allies may have no other choice but to shift from punitive measures to dismantling Iran's military capabilities. 
-
-<br> 
-
-<https://www.rand.org/pubs/commentary/2024/10/irans-terrible-horrible-very-bad-year.html>
-
----
-
-##  YOU LOVE TO SEE IT: EPA’s Pipe Dream Comes True 
-
-date: 2024-10-12, from: The Lever News
-
- Regulators get the lead out, the Golden State sheds light on dark money, mercury and methane get the boot, and Google has a very bad week.  
-
-<br> 
-
-<https://www.levernews.com/epas-pipe-dream-comes-true/>
-
----
-
-## What TikTok knew of the app’s toll on teens
-
-date: 2024-10-12, from: Market Place, Make me Smart
-
-<p><!-- wp:paragraph --></p>
-<p>This week, more than a dozen states came together to sue TikTok over the social media app&#8217;s effects on young users. Now, a <a href="https://www.npr.org/2024/10/11/g-s1-27676/tiktok-redacted-documents-in-teen-safety-lawsuit-revealed">report</a> by NPR and Kentucky Public Radio shows executives at the company were well aware of the harms to teens. We&#8217;ll get into it. Plus, is the cost of rebuilding after a natural disaster becoming a luxury few can afford? And, would you wear pajama pants to school or work? That and more in a round of Half Full/Half Empty.</p>
-<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
-<p>Here&#8217;s everything we talked about today:</p>
-<ul>
-<li><a href="https://www.npr.org/2024/10/11/g-s1-27676/tiktok-redacted-documents-in-teen-safety-lawsuit-revealed" target="_blank" rel="noreferrer noopener">&#8220;TikTok executives know about app’s effect on teens, lawsuit documents</a><a href="https://www.npr.org/2024/10/11/g-s1-27676/tiktok-redacted-documents-in-teen-safety-lawsuit-revealed"> allege&#8221;</a> from NPR</li>
-<li><a href="https://slate.com/business/2024/10/hurricane-milton-florida-wealthy-homeowners-stay-climate-migration.html" target="_blank" rel="noreferrer noopener">&#8220;No Hurricane Will Make Rich People Leave Florida&#8221;</a> from Slate</li>
-<li><a href="https://www.marketplace.org/2024/10/07/the-cia-runs-a-nonprofit-venture-capital-firm-whats-it-investing-in/" target="_blank" rel="noreferrer noopener">&#8220;The CIA runs a nonprofit venture capital firm. What’s it investing in?&#8221;</a> from Marketplace</li>
-<li><a href="https://www.nbcnews.com/pop-culture/trump-apprentice-biopic-movie-2024-election-rcna174503" target="_blank" rel="noreferrer noopener">&#8220;Trump biopic &#8216;The Apprentice&#8217; hits theaters amid fury from his campaign&#8221;</a> from NBC News</li>
-<li><a href="https://www.axios.com/2024/10/06/amazon-prime-day-deals-october-2024-walmart-target" target="_blank" rel="noreferrer noopener">&#8220;Black Friday in October: Here come early holiday deals&#8221;</a> from Axios</li>
-<li><a href="https://www.nytimes.com/2024/10/09/us/politics/tim-walz-twitch-stream.html" target="_blank" rel="noreferrer noopener">&#8220;Tim Walz Rally Is Livestreamed on Twitch in Pitch to Young Voters&#8221;</a> from The New York Times</li>
-<li><a href="https://www.wsj.com/style/fashion/pajamas-fashion-dresscode-parenting-workplace-b8127bf1?mod=hp_featst_pos5" target="_blank" rel="noreferrer noopener">&#8220;Get Comfortable With It: Pajama Pants Are for Everywhere&#8221;</a> from The Wall Street Journal</li>
-</ul>
-<p><!-- /wp:paragraph --></p>
-<p><!-- /wp:list --> <!-- wp:paragraph --></p>
-<p>Join Kai Ryssdal and Kimberly Adams for a live taping of &#8220;Make Me Smart&#8221; on Oct. 25 in Boston. In-person tickets are sold out, but you can still join us virtually. Get your tickets <a href="https://ci.ovationtix.com/35123/production/1209492?performanceId=11506951">here</a>.</p>
-<p><!-- /wp:paragraph --></p>
- 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://play.podtrac.com/APM-MakeMeSmart/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/11/mms_20241011_MMS_128.mp3"></source>
-</audio> <a href="https://play.podtrac.com/APM-MakeMeSmart/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/11/mms_20241011_MMS_128.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://www.marketplace.org/shows/make-me-smart/what-tiktok-knew-of-the-apps-toll-on-teens>
 

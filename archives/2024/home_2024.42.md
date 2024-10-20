@@ -1,11 +1,166 @@
 ---
 title: home
-updated: 2024-10-19 19:41:39
+updated: 2024-10-20 08:34:08
 ---
 
 # home
 
-(date: 2024-10-19 19:41:39)
+(date: 2024-10-20 08:34:08)
+
+---
+
+## Trumpet Vine Care and Growing Guide (Most Detailed)
+
+date: 2024-10-20, from: Yard Life blog
+
+<p>The Trumpet Vine (Campsis radicans), also known as the trumpet creeper, is a vigorous perennial vine that thrives in a ... </p>
+<p class="read-more-container"><a title="Trumpet Vine Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/trumpet-vine-care-and-growing-guide-most-detailed/#more-20958" aria-label="Read more about Trumpet Vine Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/trumpet-vine-care-and-growing-guide-most-detailed/">Trumpet Vine Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/trumpet-vine-care-and-growing-guide-most-detailed/>
+
+---
+
+## Aster Flower Care and Growing Guide with Top Tips
+
+date: 2024-10-20, from: Yard Life blog
+
+<p>Aster flowers are a beloved choice for gardeners seeking vibrant, late-season blooms that bring color and life to autumn landscapes. ... </p>
+<p class="read-more-container"><a title="Aster Flower Care and Growing Guide with Top Tips" class="read-more button" href="https://ownyardlife.com/aster-flower-care-and-growing-guide-with-top-tips/#more-20950" aria-label="Read more about Aster Flower Care and Growing Guide with Top Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/aster-flower-care-and-growing-guide-with-top-tips/">Aster Flower Care and Growing Guide with Top Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/aster-flower-care-and-growing-guide-with-top-tips/>
+
+---
+
+## Cattail Plant Care and Growing Guide (Most Detailed)
+
+date: 2024-10-20, from: Yard Life blog
+
+<p>The cattail plant (Typha latifolia), also commonly known as bulrush or broadleaf cattail, is a hardy perennial aquatic plant found ... </p>
+<p class="read-more-container"><a title="Cattail Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/cattail-plant-care-and-growing-guide-most-detailed/#more-20943" aria-label="Read more about Cattail Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/cattail-plant-care-and-growing-guide-most-detailed/">Cattail Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/cattail-plant-care-and-growing-guide-most-detailed/>
+
+---
+
+## Katniss Plant Care and Growing Guide with Ultimate Tips
+
+date: 2024-10-20, from: Yard Life blog
+
+<p>Katniss (Sagittaria latifolia) is a hardy aquatic plant native to North America, renowned for its arrowhead-shaped leaves and edible tubers. ... </p>
+<p class="read-more-container"><a title="Katniss Plant Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/katniss-plant-care-and-growing-guide-with-ultimate-tips/#more-20938" aria-label="Read more about Katniss Plant Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/katniss-plant-care-and-growing-guide-with-ultimate-tips/">Katniss Plant Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/katniss-plant-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## Open House Event: This Ever-Expanding L.A. Home Was 24 Years in the Making
+
+date: 2024-10-19, from: Dwell
+
+Showcased in our L.A. home tour series, architect couple Rebecca Rudolph and Colin Thompson’s Atwater Village Home is a testament to their creativity and their family’s changing needs. 
+
+<br> 
+
+<https://www.dwell.com/article/atwater-house-rebecca-rudolph-colin-thompson-open-house-los-angeles-f2d8cc19>
+
+---
+
+## Open House Event: This Cozy L.A. Home Pairs High Design With Down-to-Earth Sustainability
+
+date: 2024-10-19, from: Dwell
+
+Featured in our L.A. home tour series, Lizz Wasserman and Isaac Resnikoff’s Highland Park dwelling has playful interiors and an ever-evolving landscape. 
+
+<br> 
+
+<https://www.dwell.com/article/abbott-hill-house-louis-wasserman-caren-connolly-project-room-open-house-los-angeles-9d21d291>
+
+---
+
+## Open House Event: They Gave Their "Grey Gardens" Craftsman a Grand Reinvention
+
+date: 2024-10-19, from: Dwell
+
+Our in-person L.A. home tour series features architect Chet Callahan’s century-old Los Feliz estate, which playfully merges old and new. 
+
+<br> 
+
+<https://www.dwell.com/article/cummings-estate-chet-architecture-craftsman-renovation-open-house-los-angeles-dbd0e3b2>
+
+---
+
+## Comprehensive Sugar Cane Plant Care and Cultivation Guide
+
+date: 2024-10-19, from: Yard Life blog
+
+<p>The sugar cane plant, scientifically known as Saccharum officinarum, is a tall perennial grass celebrated for its sweet sap-rich stems. ... </p>
+<p class="read-more-container"><a title="Comprehensive Sugar Cane Plant Care and Cultivation Guide" class="read-more button" href="https://ownyardlife.com/comprehensive-sugar-cane-plant-care-and-cultivation-guide/#more-20927" aria-label="Read more about Comprehensive Sugar Cane Plant Care and Cultivation Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/comprehensive-sugar-cane-plant-care-and-cultivation-guide/">Comprehensive Sugar Cane Plant Care and Cultivation Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/comprehensive-sugar-cane-plant-care-and-cultivation-guide/>
+
+---
+
+## Swiss Cheese Plant Care and Growing Guide with Top Tips
+
+date: 2024-10-19, from: Yard Life blog
+
+<p>The Swiss cheese plant, known scientifically as Monstera adansonii, is a popular houseplant with large, heart-shaped leaves that develop unique ... </p>
+<p class="read-more-container"><a title="Swiss Cheese Plant Care and Growing Guide with Top Tips" class="read-more button" href="https://ownyardlife.com/swiss-cheese-plant-care-and-growing-guide-with-top-tips/#more-20918" aria-label="Read more about Swiss Cheese Plant Care and Growing Guide with Top Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/swiss-cheese-plant-care-and-growing-guide-with-top-tips/">Swiss Cheese Plant Care and Growing Guide with Top Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/swiss-cheese-plant-care-and-growing-guide-with-top-tips/>
+
+---
+
+## Money Tree Plant Care and Growing Tips for Healthy Growth
+
+date: 2024-10-19, from: Yard Life blog
+
+<p>The Money Tree (Pachira aquatica), also known as the Guiana Chestnut or Malabar Chestnut, is a popular houseplant native to ... </p>
+<p class="read-more-container"><a title="Money Tree Plant Care and Growing Tips for Healthy Growth" class="read-more button" href="https://ownyardlife.com/money-tree-plant-care-and-growing-tips-for-healthy-growth/#more-20908" aria-label="Read more about Money Tree Plant Care and Growing Tips for Healthy Growth">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/money-tree-plant-care-and-growing-tips-for-healthy-growth/">Money Tree Plant Care and Growing Tips for Healthy Growth</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/money-tree-plant-care-and-growing-tips-for-healthy-growth/>
+
+---
+
+## 8 Best Sun Protection Shirts for Women for Yard Work and More, Tested and Reviewed
+
+date: 2024-10-19, from: Family Handyman Blog
+
+<p>The best sun protection shirts are comfortable, stylish and, most importantly, provide protection from UVA and UVB rays.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/best-sun-protection-shirts-for-women/">8 Best Sun Protection Shirts for Women for Yard Work and More, Tested and Reviewed</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/best-sun-protection-shirts-for-women/>
 
 ---
 

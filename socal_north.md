@@ -1,11 +1,61 @@
 ---
 title: socal north
-updated: 2024-10-19 19:41:37
+updated: 2024-10-20 08:34:06
 ---
 
 # socal north
 
-(date: 2024-10-19 19:41:37)
+(date: 2024-10-20 08:34:06)
+
+---
+
+## South LA needs more tree cover, but residents say it’s more complicated than just planting them
+
+date: 2024-10-20, updated: 2024-10-20, from: The LAist
+
+Many stakeholders in South L.A. are excited about getting more trees in the ground, but new research from USC highlights residents’ views on where and how that should happen. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/south-la-needs-more-tree-cover-but-residents-say-its-more-complicated-than-just-planting-them>
+
+---
+
+## Vote Santa Clarita
+
+date: 2024-10-19, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin &#8220;Voting is the expression of our commitment to ourselves, one another, this world and the future.&#8221; — Sharon Salzberg Voting for open Santa Clarita City Council seats will look different this year. As we prepare for the upcoming elections on Tuesday, November 5, 2024, make sure you know how redistricting [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/10/19/vote-santa-clarita/">Vote Santa Clarita</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/10/19/vote-santa-clarita/>
+
+---
+
+## Trump is promising deportations under the Alien Enemies Act of 1798. What is it?
+
+date: 2024-10-19, updated: 2024-10-20, from: The LAist
+
+Former President Donald Trump, whose bid for the White House has been dominated by his increasingly hardline anti-immigration rhetoric, is vowing to use an obscure, centuries-old law to expedite the removal of undocumented migrants from the U.S. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-is-promising-deportations-under-the-alien-enemies-act-of-1798-what-is-it>
+
+---
+
+## You're not dreaming, trees are producing more sap this summer
+
+date: 2024-10-19, updated: 2024-10-19, from: The LAist
+
+Go for it, take a wild guess on why. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/some-trees-are-more-sappy-this-summer>
 
 ---
 
@@ -614,18 +664,4 @@ Santa Ana could become the first city in California to allow non-U.S.citizens to
 <br> 
 
 <https://laist.com/news/politics/santa-ana-measure-dd-could-set-precedent-noncitizen-voting-california>
-
----
-
-## Get Involved with Your City!
-
-date: 2024-10-12, from: City of Santa Clarita
-
-<p>By City Manager Ken Striplin As Santa Clarita moves farther into 2024, a year that holds significant promise and change, community engagement has never been more crucial. With important elections on the horizon, this is the perfect time for residents to get informed, involved and inspired about the future of our City. The upcoming State [&#8230;]</p>
-<p>The post <a href="https://santaclarita.gov/blog/2024/10/12/get-involved-with-your-city/">Get Involved with Your City!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<br> 
-
-<https://santaclarita.gov/blog/2024/10/12/get-involved-with-your-city/>
 

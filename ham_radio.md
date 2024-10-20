@@ -1,11 +1,23 @@
 ---
 title: ham radio
-updated: 2024-10-19 19:41:38
+updated: 2024-10-20 08:34:07
 ---
 
 # ham radio
 
-(date: 2024-10-19 19:41:38)
+(date: 2024-10-20 08:34:07)
+
+---
+
+## Hurricane Oscar - Storm Updates
+
+date: 2024-10-19, from: Amateur Radio Relay League News
+
+<p><strong>Saturday, October 19, 2024 8:00 PM Eastern Update:</strong></p><p><em>The following information was received from The Hurricane Watch Net:</em></p><blockquote><p><span>The Hurricane Watch Net will be activated this afternoon for Hurricane Oscar at 3:00 PM EDT (1900 UTC). This storm has developed quickly over the past 12 hours and it intensifying still. H</span><span>urricane conditions could affect portions of the southeastern Bahamas, Turks and Caicos Isl...</span></p></blockquote> 
+
+<br> 
+
+<http://www.arrl.org/news/view/hurricane-oscar-storm-updates>
 
 ---
 
