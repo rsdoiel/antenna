@@ -1,11 +1,11 @@
 ---
 title: motorcycles
-updated: 2024-10-18 07:12:38
+updated: 2024-10-19 19:41:40
 ---
 
 # motorcycles
 
-(date: 2024-10-18 07:12:38)
+(date: 2024-10-19 19:41:40)
 
 ---
 
@@ -438,4 +438,16 @@ By Seth Eggert, Associate Editor CONCORD, N.C. – Winning in the NASCAR Xfinity
 <br> 
 
 <https://kickinthetires.net/nascar/kligerman-knew-battle-royale-the-roval/>
+
+---
+
+## This ‘Busa-Powered Citroen Is a Wild Race Car, and It Could Be Yours
+
+date: 2024-10-12, from: Ride Apart, Electric Motorcycle News
+
+It just looks like a Citroen C2, but beneath the surface, it really isn’t.  
+
+<br> 
+
+<https://www.rideapart.com/news/736944/hayabusa-powered-citroen-c2-hillclimb-racer/>
 

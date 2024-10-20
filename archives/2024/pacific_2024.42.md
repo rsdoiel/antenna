@@ -1,11 +1,97 @@
 ---
 title: pacific
-updated: 2024-10-18 07:12:36
+updated: 2024-10-19 19:41:37
 ---
 
 # pacific
 
-(date: 2024-10-18 07:12:36)
+(date: 2024-10-19 19:41:37)
+
+---
+
+## Math in action: Students create genki balls to help fight water pollution
+
+date: 2024-10-18, from: University of Hawaiʻi News
+
+<p>The genki balls will be released into the Ala Wai Canal following a three-week maturation period.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/18/math-in-action-students-create-genki-balls/">Math in action: Students create genki balls to help fight water pollution</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/18/math-in-action-students-create-genki-balls/>
+
+---
+
+## Morgan’s Corner world premiere at Windward CC’s Palikū Theatre
+
+date: 2024-10-18, from: University of Hawaiʻi News
+
+<p>Morgan’s Corner is an original play dealing with bias, prejudice and inequity, told in five, often radically different, perspectives.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/18/morgans-corner-at-paliku-theatre/">Morgan’s Corner world premiere at Windward <abbr>CC</abbr>’s Palikū Theatre</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/18/morgans-corner-at-paliku-theatre/>
+
+---
+
+## Napa's quiet season: Where to stay, dine and unwind this fall
+
+date: 2024-10-18, updated: 2024-10-18, from: Marianas Variety
+
+(BPT) - In the fall, California's Napa Valley transforms from lush, green vineyards and rolling hills into a stunning landscape of vibrant reds, deep oranges and rich yellows, all set against the bright, blue sky. As the leaves change color, the air becomes crisp and cool, creating a breathtaking backdrop to Napa's quiet season. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/travel/napas-quiet-season-where-to-stay-dine-and-unwind-this-fall/article_c7556029-0ea1-586a-b046-54dc62dd91b6.html>
+
+---
+
+## Mitigate wildfire risks with essential prep tips
+
+date: 2024-10-18, updated: 2024-10-18, from: Marianas Variety
+
+Sorry, but your browser does not support the video tag. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/senior_living/mitigate-wildfire-risks-with-essential-prep-tips/article_65e9c5fd-1a78-5c77-905d-9b8b3c46ccc2.html>
+
+---
+
+## 'Constantly stressed out': A woman's battle with excess cortisol
+
+date: 2024-10-18, updated: 2024-10-18, from: Marianas Variety
+
+(BPT) - For Janice, health and fitness were always priorities. Growing up in Jamaica, she’d been a sprinter for her high school track team. After moving to the U.S. in her mid-20s, she built a successful career in sales while raising two young children. Although she was busy, she maintained a healthy and active lifestyle. In fact, other than having slightly elevated blood pressure, she was the picture of good health. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/senior_living/constantly-stressed-out-a-womans-battle-with-excess-cortisol/article_038438a0-7c63-5de9-9d65-ba972464e8cc.html>
+
+---
+
+## Steve Ballmer’s USAFacts Presents Government Data on Health & Healthcare, and America by the Numbers to Educate Voters Before Nov. 5
+
+date: 2024-10-18, updated: 2024-10-18, from: Marianas Variety
+
+Sorry, but your browser does not support the video tag. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/money_and_finance/steve-ballmer-s-usafacts-presents-government-data-on-health-healthcare-and-america-by-the-numbers/article_376b75ef-a563-512c-9890-c2d7b42b4a08.html>
+
+---
+
+## Over half of Americans choose their benefits by price during open enrollment
+
+date: 2024-10-18, updated: 2024-10-18, from: Marianas Variety
+
+(BPT) - New Empower research explores the annual process and what matters most to American workers 
+
+<br> 
+
+<https://www.mvariety.com/online_features/senior_living/over-half-of-americans-choose-their-benefits-by-price-during-open-enrollment/article_91dea7ce-d4f3-55ba-9f79-e1060d743856.html>
 
 ---
 
@@ -556,6 +642,18 @@ date: 2024-10-18, from: Island Times
 
 ---
 
+## Help Marine Toys for Tots Deliver Hope to Children in Poverty
+
+date: 2024-10-18, updated: 2024-10-18, from: Marianas Variety
+
+(NewsUSA) - Approximately 40% of children in the United States live at or below the poverty line, facing daily challenges and hardships. Their parents, grappling with the relentless impact of record-high inflation, struggle to provide even the most basic necessities. They simply don’t have the financial means to provide toys, books, or games for their children. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/family_living/help-marine-toys-for-tots-deliver-hope-to-children-in-poverty/article_4b9fc1f5-5d18-5488-acbe-923980d9ac38.html>
+
+---
+
 ## Coach Kupono Fey among AVCA’s Thirty Under 30
 
 date: 2024-10-18, from: University of Hawaiʻi News
@@ -743,6 +841,18 @@ The post <a href="https://www.hawaii.edu/news/2024/10/17/gregory-moore-award/">E
 
 ---
 
+## USDA Celebrates Farm to School Month and National School Lunch Week with Major Investments in Local Food for Schools
+
+date: 2024-10-17, updated: 2024-10-19, from: Marianas Variety
+
+(BPT) - [Courtesy of the United States Department of Agriculture (USDA)] 
+
+<br> 
+
+<https://www.mvariety.com/online_features/health_and_wellness/usda-celebrates-farm-to-school-month-and-national-school-lunch-week-with-major-investments-in/article_fdf8b420-f851-5fbb-97f5-a650fc13812d.html>
+
+---
+
 ## Hamas leader Sinwar is dead, Israel says
 
 date: 2024-10-17, updated: 2024-10-17, from: Marianas Variety
@@ -764,6 +874,18 @@ by Virginia Laurie He was lovely then. A ruffled parakeet. We were crisp as carr
 <br> 
 
 <https://hawaiipacificreview.org/2024/10/17/two-syllables/>
+
+---
+
+## 5 fun eggnog recipes the whole family will love
+
+date: 2024-10-17, updated: 2024-10-19, from: Marianas Variety
+
+(BPT) - There are many things that make the holidays special, but two that tend to stand out above the rest are family and food. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/seasonal/5-fun-eggnog-recipes-the-whole-family-will-love/article_2be3904c-442f-5295-a53b-b5cb2798600b.html>
 
 ---
 

@@ -1,11 +1,120 @@
 ---
 title: journalism
-updated: 2024-10-18 07:12:38
+updated: 2024-10-19 19:41:39
 ---
 
 # journalism
 
-(date: 2024-10-18 07:12:38)
+(date: 2024-10-19 19:41:39)
+
+---
+
+## Film review: ‘Smile 2,’ despite its toothy gore, is little more than an empty smile
+
+date: 2024-10-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+“Smile 2” is a familiar, fun horror – but nothing to sink your teeth into.
+Director and writer Parker Finn’s sequel lurched into theaters Friday, inviting audiences back into the “Smile&#8221; franchise after the original film’s surprise popularity in 2022. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/18/film-review-smile-2-despite-its-toothy-gore-is-little-more-than-an-empty-smile/>
+
+---
+
+## Academic Senate discusses AI in education
+
+date: 2024-10-18, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Distance Education Coordinator Wendy Bass discussed the drawbacks of artificial intelligence use and how it impacts work on Canvas during the Academic Senate meeting on</p>
+<p>The post <a href="https://theroundupnews.com/2024/10/18/academic-senate-discusses-ai-in-education/">Academic Senate discusses AI in education</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2024/10/18/academic-senate-discusses-ai-in-education/?utm_source=rss&utm_medium=rss&utm_campaign=academic-senate-discusses-ai-in-education>
+
+---
+
+## It’s time to meet your major
+
+date: 2024-10-18, from: The Round Up (Pierce College Student Newspaper)
+
+<p>As students went from class to class or walked around the campus, Pierce hosted its Meet Your Major Fair on the Mall, where students were</p>
+<p>The post <a href="https://theroundupnews.com/2024/10/18/its-time-to-meet-your-major/">It&#8217;s time to meet your major</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2024/10/18/its-time-to-meet-your-major/?utm_source=rss&utm_medium=rss&utm_campaign=its-time-to-meet-your-major>
+
+---
+
+## A local candidate seeking re-election shares what keeps him in harmony with his values
+
+date: 2024-10-18, from: The Canyon News (COC Student Newspaper)
+
+<p>In a noisy political landscape, a local candidate seeking election shares what&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/a-local-candidate-seeking-re-election-shares-what-keeps-him-in-harmony-with-his-values/">A local candidate seeking re-election shares what keeps him in harmony with his values</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/a-local-candidate-seeking-re-election-shares-what-keeps-him-in-harmony-with-his-values/>
+
+---
+
+## Pumpkins galore this autumn
+
+date: 2024-10-18, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Some of  Pierce College’s land has been rented for a pumpkin patch, allowing families to get in the spooky mood this autumn. The pumpkin patch</p>
+<p>The post <a href="https://theroundupnews.com/2024/10/18/pumpkins-galore-this-autumn/">Pumpkins galore this autumn</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2024/10/18/pumpkins-galore-this-autumn/?utm_source=rss&utm_medium=rss&utm_campaign=pumpkins-galore-this-autumn>
+
+---
+
+## My experience studying abroad in Milan
+
+date: 2024-10-18, from: The Sundail (CSUN Student Newspaper)
+
+Over the summer of 2024, I had the experience of a lifetime studying abroad in Milan, Italy. I was immersed in Italian culture and had the chance to experience the... 
+
+<br> 
+
+<https://sundial.csun.edu/186316/opinions/my-experience-studying-abroad-in-milan/>
+
+---
+
+## A tale to have the audience scurry like mice
+
+date: 2024-10-18, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The Pierce College Theatre will debut its 2024-2025 season with a murder-mystery that coincides with the Halloween season. Agatha Christie’s “The Mousetrap,” directed by Shaheen</p>
+<p>The post <a href="https://theroundupnews.com/2024/10/18/a-tale-to-have-the-audience-scurry-like-mice/">A tale to have the audience scurry like mice</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2024/10/18/a-tale-to-have-the-audience-scurry-like-mice/?utm_source=rss&utm_medium=rss&utm_campaign=a-tale-to-have-the-audience-scurry-like-mice>
+
+---
+
+## Community remembers Oct. 7 attack
+
+date: 2024-10-18, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Marking a year since the Oct. 7 Hamas attacks in Israel, Rabbi Isser Kluwgant and professor Sheri Lehavi collaborated to host a meeting for Jewish</p>
+<p>The post <a href="https://theroundupnews.com/2024/10/18/community-remembers-oct-7-attack/">Community remembers Oct. 7 attack</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2024/10/18/community-remembers-oct-7-attack/?utm_source=rss&utm_medium=rss&utm_campaign=community-remembers-oct-7-attack>
 
 ---
 
@@ -120,12 +229,12 @@ date: 2024-10-18, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## noche de cultura :p
+## Noche de Cultura wove a vibrant tapestry of Latine heritage
 
 date: 2024-10-18, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Mariachi, salsa and lowrider cars brought Founder's Park to life Tuesday evening.</p>
-<p>The post <a href="https://dailytrojan.com/2024/10/18/noche-de-cultura-p/">noche de cultura :p</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/18/noche-de-cultura-p/">Noche de Cultura wove a vibrant tapestry of Latine heritage</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <br> 
@@ -151,7 +260,7 @@ New TPM policies went into effect on an interim basis Sept.
 
 date: 2024-10-18, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Oct. 18 at 12:09 a.m.</em>
+<em>This post was updated Oct. 18 at 9:56 a.m.</em>
 Second Gentleman of the United States Douglas Emhoff gave remarks at a Century City campaign reception Oct. 
 
 <br> 
@@ -190,6 +299,7 @@ The co-headlining duo played a second sold-out night of their ongoing “Sweat�
 
 date: 2024-10-18, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Oct. 18 at 3:38 p.m.</em>
 The UCLA Office of Equity, Diversity and Inclusion will soon no longer exist.&#160;
 Interim Chancellor Darnell Hunt announced in a Thursday afternoon email that the university will create a new Office of Inclusive Excellence. 
 
@@ -479,6 +589,20 @@ The University Professional and Technical Employees-Communications Workers of Am
 <br> 
 
 <https://dailybruin.com/2024/10/16/upte-cwa-9119-to-vote-on-strike-oct-21-after-insufficient-uc-bargaining/>
+
+---
+
+## A look at a COC program that helps students draw their own futures
+
+date: 2024-10-17, from: The Canyon News (COC Student Newspaper)
+
+<p>That was a short clip from the upcoming animated series Spenders, a&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/a-look-at-a-coc-program-that-helps-students-draw-their-own-futures/">A look at a COC program that helps students draw their own futures</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/a-look-at-a-coc-program-that-helps-students-draw-their-own-futures/>
 
 ---
 
@@ -1093,4 +1217,16 @@ The sounds of jazz music filled the Great Hall of the Soraya on Friday, Oct. 4 a
 <br> 
 
 <https://sundial.csun.edu/186179/arts-entertainment/jazz-music-fills-the-soraya-as-john-beasley-conducts-csun-jazz-bands-a-and-b-in-concert/>
+
+---
+
+## CSUN English department showcases opportunities at annual Open House
+
+date: 2024-10-12, from: The Sundail (CSUN Student Newspaper)
+
+The CSUN English department hosted its annual Open House event on Sept. 26, inviting students, particularly freshmen, to explore the various offerings and opportunities available within the department. The event... 
+
+<br> 
+
+<https://sundial.csun.edu/186175/news/csun-english-department-showcases-opportunities-at-annual-open-house/>
 

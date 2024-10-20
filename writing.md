@@ -1,11 +1,109 @@
 ---
 title: writing
-updated: 2024-10-18 07:12:37
+updated: 2024-10-19 19:41:38
 ---
 
 # writing
 
-(date: 2024-10-18 07:12:37)
+(date: 2024-10-19 19:41:38)
+
+---
+
+## 🪦 #221 - They said the house had good bones
+
+date: 2024-10-18, from: Interesting, a blog on writing
+
+It wasn't just an expression! 
+
+<br> 
+
+<https://inneresting.substack.com/p/221-they-said-the-house-had-good>
+
+---
+
+## Featured Friday: Haunted Houses
+
+date: 2024-10-18, from: John August blog
+
+Weekend Read, our app for reading scripts on your phone, features a new curated collection of screenplays each week. This week, we look at how haunted houses trap your characters inside, force them to cozy up to some terrifying spirits, and use fear as a catalyst for change. Our collection includes: American Horror Story &#8211; [&#8230;]
+The post <a href="https://johnaugust.com/2024/featured-friday-haunted-houses">Featured Friday: Haunted Houses</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2024/featured-friday-haunted-houses>
+
+---
+
+## Write On: 'Hysteria!' Creator and Showrunner Matthew Scott Kane
+
+date: 2024-10-18, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-hysteria-creator-and-showrunner-matthew-scott-kane" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Hysteria!%20Showrunner%20Matthew%20Scott%20Kane-1.jpg" alt="Write On: 'Hysteria!' Creator and Showrunner Matthew Scott Kane" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<div> 
+ <p><span style="background-color: transparent; color: #0a0a0a;">“We wanted the whole series, but specifically the pilot episode, to lure you in with the kind of comfort and coziness of the 80s nostalgia and the trappings of John Hughes movies, and all of that, while also giving it the 80s heavy metal flavor, and then start to build paranoia and change the vibe a little bit throughout. But we always knew that the series was going to hinge on this scene with Judith [Jessica Treska] where you realize that the beautiful girl next door is actually so much trouble!” says Matthew Scott Kane, creator and showrunner of Peacock’s </span><em style="background-color: transparent; color: #0a0a0a;">Hysteria!</em><span style="background-color: transparent; color: #0a0a0a;"> Starring Julie Bowen, Anna Camp and Bruce Campbell.&nbsp;</span></p> The show explores the so-called Satanic Panic that actually happened in the 1980s at a fictionalized high school in the midwest. When a varsity football player disappears under mysterious circumstances, a struggling teen heavy metal band realize they can capitalize on the town’s sudden interest in the occult by creating a fake Satanic cult – to their surprise, everyone is into it. Things quickly get out of control when the town takes the cult more seriously than the high school band members.&nbsp; 
+ <br> 
+ <br>In this episode of the Write On podcast, Kane talks about delving into the generational fear of teenagers, balancing horror with humor, and writing characters who need “to be seen” by their peers. He also shares details about his journey to becoming a professional TV writer, &nbsp;specifically the many benefits of being an assistant in Hollywood.&nbsp; 
+ <br> 
+ <br>“The biggest gift of being an assistant – which is not an easy job, it’s very difficult, it’s very time consuming, you have to be available 24/ 7 and it takes a lot out of you – but the best possible thing that you can get, and not all showrunners will do this, is to make yourself available to watch every step of the creative process. Make sure you are in the room while they are breaking story. Make sure you are reading outlines that are coming in. Make sure you’re in concept meetings, tone meetings, production meetings, all of these things that might feel like they don’t have anything to do with writing, but they have everything to do with writing,” says Kane.&nbsp; 
+ <br> 
+ <br>To hear more, listen to the podcast.&nbsp; 
+</div> 
+<div> 
+ <br> 
+ <div> 
+  <div class="hs-embed-wrapper" style="position: relative; overflow: hidden; width: 100%; height: auto; padding: 0; max-width: 880px; min-width: 256px; display: block; margin: auto;"> 
+   <div class="hs-embed-content-wrapper"> 
+    <div style="position: relative; overflow: hidden; max-width: 100%; padding-bottom: 35%; margin: 0px;">  
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</div> 
+
+<br> 
+
+<https://blog.finaldraft.com/write-on-hysteria-creator-and-showrunner-matthew-scott-kane>
+
+---
+
+## Cixin Liu Museum Opens in China
+
+date: 2024-10-18, from: Locus Magazine
+
+<p>A museum dedicated to science fiction author Cixin Liu has opened in Yangquan, China. Ceremonies were held on October 13, 2024, as part of Yangquan&#8217;s second annual Liu Cixin Hometown Science Fiction Culture Week.</p>
+<p>Liu, author of <strong>The Three-Body Problem, The Wandering Earth</strong>, and other influential works, took to the stage with local officials. In his commemorative speech (reported here), he said, &#8220;I hope that science fiction can bring  <a href="https://locusmag.com/2024/10/cixin-liu-museum-opens-in-china/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/10/cixin-liu-museum-opens-in-china/>
+
+---
+
+## The City in Glass by Nghi Vo: Review by Jake Casella Brookins
+
+date: 2024-10-18, from: Locus Magazine
+
+<p><strong>The City in Glass</strong>, Nghi Vo (Tordotcom 978-1250348272, $24.99, 224pp), October 2024.</p>
+<p>If you’ve read any of Nghi Vo’s earlier work, you already know that she’s a writer to watch – a masterful stylist with a flair for bringing together magical premises, subtle anthropological worldbuilding, and deep wells of mythic imagery and themes. If you haven’t, Vo’s newest, <strong>The City in Glass</strong>, is not at all a bad  <a href="https://locusmag.com/2024/10/the-city-in-glass-by-nghi-vo-review-by-jake-casella-brookins/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/10/the-city-in-glass-by-nghi-vo-review-by-jake-casella-brookins/>
+
+---
+
+## Annie LeBlanc Is Not Dead Yet by Molly Morris: Review by Colleen Mondor
+
+date: 2024-10-18, from: Locus Magazine
+
+<p><strong>Annie LeBlanc Is Not Dead Yet</strong>, Molly Morris (Wednesday 978-1-250-29006-9, $20.00, 336pp, hc) June 2024.</p>
+<p>The town of Lennon, California has a secret that only the residents (and a few chosen former residents) can know. The Welcome Back contest allows the townspeople to nominate someone to come back from the dead for 30 days. This year, Wilson Moss has won, and that means her friend Annie is returning, but  <a href="https://locusmag.com/2024/10/annie-leblanc-is-not-dead-yet-by-molly-morris-review-by-colleen-mondor/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/10/annie-leblanc-is-not-dead-yet-by-molly-morris-review-by-colleen-mondor/>
 
 ---
 

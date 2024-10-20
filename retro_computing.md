@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2024-10-18 07:12:39
+updated: 2024-10-19 19:41:40
 ---
 
 # retro computing
 
-(date: 2024-10-18 07:12:39)
+(date: 2024-10-19 19:41:40)
+
+---
+
+## The Truth Is Out There, Part 4: The Downside of Belief
+
+date: 2024-10-18, from: Digital Antiquarian
+
+The fifth season of The X-Files, spanning from 1997 to 1998, marked the absolute zenith of the show&#8217;s popularity, when it put up the best average ratings in its history. Everybody seemed to want a piece of its action; even William Gibson and Stephen King submitted scripts that season. As we learned in an earlier [&#8230;] 
+
+<br> 
+
+<https://www.filfre.net/2024/10/the-truth-is-out-there-part-4-the-downside-of-belief/>
 
 ---
 

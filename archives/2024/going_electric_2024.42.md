@@ -1,11 +1,271 @@
 ---
 title: going electric
-updated: 2024-10-18 07:12:39
+updated: 2024-10-19 19:41:40
 ---
 
 # going electric
 
-(date: 2024-10-18 07:12:39)
+(date: 2024-10-19 19:41:40)
+
+---
+
+## Tesla releases new mobile app update with more offline commands, power meter, more
+
+date: 2024-10-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/09/Tesla-app-for-Wall-Connector.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has released a new mobile app update that adds more offline functionalities, Powerwall power meter, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="385013" href="https://electrek.co/2024/10/18/tesla-releases-new-mobile-app-update-with-more-offline-commands-power-meter-more/#more-385013" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/18/tesla-releases-new-mobile-app-update-with-more-offline-commands-power-meter-more/>
+
+---
+
+## Tesla's Cybercab Wireless Charging Video May Tell Us A Lot
+
+date: 2024-10-18, from: Inside EVs News
+
+This video demo could give a hint of how big the Cybercab's battery is. 
+
+<br> 
+
+<https://insideevs.com/news/737986/cybercab-wireless-charging-video-tesla/>
+
+---
+
+## Hyundai’s new IONIQ 5 ‘ultra-fast’ lease offer lets you upgrade it like an iPhone
+
+date: 2024-10-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Hyundai-IONIQ-5-lease-offer-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>If you like to upgrade your car yearly as you would with an iPhone, now you can. Hyundai launched a new “ultra-fast” lease offer on the <a href="https://electrek.co/guides/hyundai-ioniq-5/">IONIQ 5</a> so you don’t miss out on the latest tech and features. To sweeten the deal, Hyundai requires $0 due at signing.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-5" data-layer-viewtype="unknown" data-post-id="384990" href="https://electrek.co/2024/10/18/hyundais-new-ioniq-5-offer-upgrade-like-iphone/#more-384990" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/18/hyundais-new-ioniq-5-offer-upgrade-like-iphone/>
+
+---
+
+## Hyundai Gave Its Smallest EV A Little More Off-Road Attitude
+
+date: 2024-10-18, from: Inside EVs News
+
+The Hyundai Inster Cross has a roof box, skid plates and special matte paint for mini off-road excursions. Why can't we have this here? 
+
+<br> 
+
+<https://insideevs.com/news/737979/inster-cross-released-pricing-premium-hyundai/>
+
+---
+
+## Podcast: Tesla’s FSD problem, Cybertruck backlog, GMC Sierra EV pickup, and more
+
+date: 2024-10-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla’s FSD problem, Cybertruck backlog disappearing, GMC’s new Sierra EV pickup, and more.</p>
+
+
+
+<p><strong><em>Today’s episode is sponsored by BLUETTI, a leading provider of portable power stations, solar generators, and energy storage systems, including its new Handsfree all-in-one portable power station backpacks. <a href="https://bit.ly/3YgmelH" target="_blank" rel="noreferrer noopener">Learn more here.</a></em></strong></p>
+
+
+
+<p><strong><a href="https://bit.ly/3BSQwSE" target="_blank" rel="noreferrer noopener">Sponsored by ALSET Auto</a>: North America’s leader in paint protection and restyling; offering colored wraps, paint protection, window tint, ceramic coatings and more, <em>exclusively</em> on EVs.</strong></p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Electrek_10-18-24.mp3"></audio></figure>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="384966" href="https://electrek.co/2024/10/18/podcast-teslas-fsd-problem-cybertruck-backlog-gmc-sierra-ev-pickup-and-more/#more-384966" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/18/podcast-teslas-fsd-problem-cybertruck-backlog-gmc-sierra-ev-pickup-and-more/>
+
+---
+
+## Why Used EV Deals Will Get Crazy On Jan. 1, 2025
+
+date: 2024-10-18, from: Inside EVs News
+
+Many more used cars will qualify for the used EV tax credit starting in January. Here's what you need to know. 
+
+<br> 
+
+<https://insideevs.com/news/737970/used-ev-deals-tax-credit/>
+
+---
+
+## Ford is replacing some NACS adapters sent to EV owners
+
+date: 2024-10-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Ford-monster-vehicles.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Ford F-150 Lightning and Mach-e drivers may have to wait a little longer to plug into Tesla’s Supercharger network. After several had already received their NACS adapters, <a href="https://electrek.co/guides/ford/">Ford</a> emailed many to say it was replacing the unit. In the meantime, the company doesn’t recommend using the current one.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford,ford-f-150-lightning,ford-f150-lightning,ford-mach-e,north-american-charging-standard-nacs" data-layer-viewtype="unknown" data-post-id="384963" href="https://electrek.co/2024/10/18/ford-replacing-some-nacs-adapters-ev-owners/#more-384963" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/18/ford-replacing-some-nacs-adapters-ev-owners/>
+
+---
+
+## Lectric XPress 750 e-bike with $257 in free gear at $1,299, Segway Navimow robot mowers $600 off, Rad Power, EcoFlow, more
+
+date: 2024-10-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Lectric-XPress-750-High-Step-e-bike.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Closing out this week’s Green Deals, we’ve spotlighted <a href="https://9to5toys.com/2024/10/18/lectrics-xpress-750-e-bike-makes-a-great-commuting-companion-for-up-to-60-miles-at-1299-with-257-in-free-gear/">Lectric’s XPress 750 e-bikes</a> that are coming along with $257 in free gear at <a href="https://9to5toys.com/2024/10/18/lectrics-xpress-750-e-bike-makes-a-great-commuting-companion-for-up-to-60-miles-at-1299-with-257-in-free-gear/">$1,299</a>. We then have the continued $600 discount on <a href="https://9to5toys.com/2024/10/18/segways-navimow-h-series-robot-mowers-starting-from-a-return-1299-low/">Segway’s Navimow H Series Robot Lawn Mowers</a> that we saw during the recent Prime Day event starting from the <a href="https://9to5toys.com/2024/10/18/segways-navimow-h-series-robot-mowers-starting-from-a-return-1299-low/">$1,299 low</a>. Rad Power has <a href="https://9to5toys.com/2024/10/17/rad-power-offers-up-to-300-in-savings-on-three-e-bikes-with-free-accessories-thrown-in-starting-from-1399/">launched another e-bike sale</a> with three models getting up to $300 in savings in the form of price cuts and free accessories, while <a href="https://9to5toys.com/2024/10/18/ecoflows-river-2-pro-768wh-lifepo4-power-station-more/">EcoFlow’s River 2 Pro Portable Power Station</a> and its bundle option return to their lowest prices starting from <a href="https://9to5toys.com/2024/10/18/ecoflows-river-2-pro-768wh-lifepo4-power-station-more/">$379</a>. And lastly, Best Buy is offering another one-day sale on the <a href="https://9to5toys.com/2024/10/18/hypers-jet-fuel-step-over-e-bike-at-new-535-low/">Hyper Jet Fuel Step-Over BMX e-bike at a new $535 low</a>. Plus, all the other hangover Green Deals in the links at the bottom of the page, like yesterday’s exclusive new low price on <a href="https://9to5toys.com/2024/10/17/get-a-9to5toys-exclusive-discount-on-ankers-latest-solix-c300-dc-90000mah-power-station-at-new-148-low/">Anker’s SOLIX C300 DC 90Ah power station</a> or the big discounts on <a href="https://9to5toys.com/2024/10/17/upgrade-and-save-with-samsungs-bespoke-all-in-one-electric-washer-ventless-dryer-from-1800-reg-up-to-3324/">Samsung’s Bespoke all-in-one electric washer &amp; ventless dryer</a>, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="384938" href="https://electrek.co/2024/10/18/lectric-xpress-750-e-bike-segway-navimow-mowers-rad-power-ecoflow-more/#more-384938" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/18/lectric-xpress-750-e-bike-segway-navimow-mowers-rad-power-ecoflow-more/>
+
+---
+
+## BYD officially launches new Seal 06 GT starting for under $20,000
+
+date: 2024-10-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/BYD-Seal-GT-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>As promised when pre-orders started this past August, <a href="https://electrek.co/guides/byd/">BYD</a> has officially launched its sporty new Seal 06 GT in China and has delivered pricing even lower than initially promised. All hail the electric hot hatch. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,byd-seal" data-layer-viewtype="unknown" data-post-id="384937" href="https://electrek.co/2024/10/18/byd-officially-launches-new-seal-06-gt-starting-for-under-20000/#more-384937" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/18/byd-officially-launches-new-seal-06-gt-starting-for-under-20000/>
+
+---
+
+## Why did you cancel your Cybertruck reservation?
+
+date: 2024-10-18, from: Electrek Feed
+
+ 
+
+<br> 
+
+<https://electrek.co/poll-post/why-did-you-cancel-your-cybertruck-reservation/>
+
+---
+
+## Rivian (RIVN) clashes with Bosch in new legal battle over EV motors
+
+date: 2024-10-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Rivian-Bosch-legal-battle.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>EV maker <a href="https://electrek.co/guides/rivian/">Rivian</a> (RIVN) is locked in a new legal battle with the world’s largest auto parts supplier, Bosch. Both sides traded lawsuits against each other as Rivian moves in its own direction.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bosch,rivian" data-layer-viewtype="unknown" data-post-id="384926" href="https://electrek.co/2024/10/18/rivian-rivn-clashes-bosch-legal-battle-over-ev-motors/#more-384926" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/18/rivian-rivn-clashes-bosch-legal-battle-over-ev-motors/>
+
+---
+
+## Ford Asks EV Customers To Stop Using Tesla NACS Adapters (Updated)
+
+date: 2024-10-18, from: Inside EVs News
+
+Ford will send out replacement units to affected owners soon, because the current units could cause slower charging speeds or port damage. 
+
+<br> 
+
+<https://insideevs.com/news/737960/ford-nacs-adapter-tesla-recall/>
+
+---
+
+## Tesla releases closer look at its upcoming wireless EV charger
+
+date: 2024-10-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Tesla-Wireless-charger-hero-2.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has released a closer look at its upcoming wireless electric vehicle charging station, which was showcased at the Robotaxi unveiling.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="384928" href="https://electrek.co/2024/10/18/tesla-releases-closer-look-at-its-upcoming-wireless-ev-charger/#more-384928" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/18/tesla-releases-closer-look-at-its-upcoming-wireless-ev-charger/>
+
+---
+
+## This Tesla Gadget Gives You Apple CarPlay, Google Maps And More
+
+date: 2024-10-18, from: Inside EVs News
+
+A Kickstarter product promises to add everything that's missing in Tesla's infotainment system. 
+
+<br> 
+
+<https://insideevs.com/news/737952/teslogic-screenmate-tesla-carplay-android/>
+
+---
+
+## Tesla Bet Big On Self-Driving. Now It Faces Another Federal Investigation
+
+date: 2024-10-18, from: Inside EVs News
+
+America's top auto safety regulator is investigating a fatal crash and multiple injuries potentially linked to Tesla's FSD system. 
+
+<br> 
+
+<https://insideevs.com/news/737947/nhtsa-tesla-investigation-cm/>
+
+---
+
+## Kia’s cheaper EV2 electric SUV spotted out in the wild for the first time
+
+date: 2024-10-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Kias-cheaper-EV2-spotted.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>An even smaller and more affordable <a href="https://electrek.co/guides/kia/">Kia</a> electric SUV is on its way. Ahead of its official debut, Kia’s cheaper EV2 was officially spotted for the first time out in the wild testing.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia" data-layer-viewtype="unknown" data-post-id="384873" href="https://electrek.co/2024/10/18/kias-cheaper-ev2-spotted-out-for-first-time/#more-384873" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/18/kias-cheaper-ev2-spotted-out-for-first-time/>
+
+---
+
+## Pony.ai, one of China’s leading autonomous driving developers, files for US IPO
+
+date: 2024-10-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Pony-ai-IPO.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Last night, Pony.ai, one of China’s most prominent names in autonomous driving and robotaxi rides, filed an IPO prospectus with the US Securities and Exchange Commission (SEC). If approved, <a href="https://electrek.co/guides/pony-ai/">the robotaxi company</a> intends to trade on the Nasdaq.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="autonomous-driving,nasdaq,pony-ai,robotaxi" data-layer-viewtype="unknown" data-post-id="384872" href="https://electrek.co/2024/10/18/pony-ai-china-leading-autonomous-driving-developer-files-for-us-ipo/#more-384872" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/18/pony-ai-china-leading-autonomous-driving-developer-files-for-us-ipo/>
 
 ---
 
@@ -46,6 +306,10 @@ date: 2024-10-18, from: Electrek Feed
 date: 2024-10-18, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time that includes several bankruptices from companies like Juiced Bikes, FUELL, and Energica, as well as some fun news like Microlino’s newest microcar and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Wheel-E_10-18-24.mp3"></audio></figure>
 
 
 
@@ -586,6 +850,22 @@ date: 2024-10-16, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2024/10/16/ford-paying-dealers-22500-unload-f-150-lightning/>
+
+---
+
+## Ford paying dealers up to $22,500 for F-150 Lightnings ordered from its new EV centers
+
+date: 2024-10-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Ford-UAW-Discount-2025.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Ford dealers just got a significant incentive to test its new pilot program. For every <a href="https://electrek.co/guides/ford-f-150-lightning/">F-150 Lighting</a> ordered from one of Ford’s new Retail Replenishment Centers, dealers can earn up to $1,500. Over the next month, Ford dealers can score up to $22,500 through the new program.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford,ford-f-150-lightning,ford-f150-lightning" data-layer-viewtype="unknown" data-post-id="384591" href="https://electrek.co/2024/10/16/ford-dealers-get-up-to-22500-f-150-lightning-orders-through-new-program/#more-384591" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/16/ford-dealers-get-up-to-22500-f-150-lightning-orders-through-new-program/>
 
 ---
 
@@ -1778,4 +2058,36 @@ date: 2024-10-13, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2024/10/13/price-parity-is-here-new-stellantis-crossover-is-the-same-price-ev-or-ice/>
+
+---
+
+## E-quipment highlight: Komatsu launches 400 ton electric mining excavator
+
+date: 2024-10-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Excavator-PC4000E-OM-220723-DSC-0188.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Komatsu says its new PC4000-11E hydraulic mining excavator can bring both the powerful digging force of high-performance diesel machines and the emission-free operation of battery power to some of <a href="https://electrek.co/2024/05/14/komatsu-launches-first-ever-electric-drilling-bolting-rigs/">the world’s toughest mining operations</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="heavy-equipment,komatsu,mining" data-layer-viewtype="unknown" data-post-id="383946" href="https://electrek.co/2024/10/12/e-quipment-highlight-komatsu-launches-400-ton-electric-mining-excavator/#more-383946" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/12/e-quipment-highlight-komatsu-launches-400-ton-electric-mining-excavator/>
+
+---
+
+## Kempower chargers installed using only electric construction equipment
+
+date: 2024-10-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/all-electric_CHARGER.jpg?quality=82&#038;strip=all&#038;w=1592" /></div><p>Nearly a year after launching the Sweden-US Green Transition Initiative (GTI), the group says it’s completed the first DC fast charging station construction project in the US using <strong>only</strong> electric construction equipment.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,kempower,volvo-construction-equipment" data-layer-viewtype="unknown" data-post-id="383927" href="https://electrek.co/2024/10/12/kempower-chargers-installed-using-only-electric-construction-equipment/#more-383927" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/12/kempower-chargers-installed-using-only-electric-construction-equipment/>
 

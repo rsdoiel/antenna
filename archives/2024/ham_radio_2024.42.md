@@ -1,11 +1,83 @@
 ---
 title: ham radio
-updated: 2024-10-18 07:12:36
+updated: 2024-10-19 19:41:38
 ---
 
 # ham radio
 
-(date: 2024-10-18 07:12:36)
+(date: 2024-10-19 19:41:38)
+
+---
+
+## ARRL Online Auction Open
+
+date: 2024-10-18, from: Amateur Radio Relay League News
+
+<p>The 19th Annual ARRL Online Auction sponsored by RT Systems Inc. opened on Friday, October 18, at 10 AM EDT. The auction continues through Thursday, October 24.</p><p><span>This year’s auction features over 200 items and includes ARRL Product Review equipment, vintage books, new donations, ARRL Lab tested donations, and the ever-popular ARRL Lab “Mystery” boxes.</span></p><p></p><p><span>Visit the </span><b><span>auction website</span></b><span>, register to bid, an...</span></p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-online-auction-open>
+
+---
+
+## Results of the 2024 USA/IARU Region 2 Radio Orienteering Championships
+
+date: 2024-10-18, from: Amateur Radio Relay League News
+
+<p>The 23rd USA and 12th IARU Region 2 Radio Orienteering Championships, held October 5 - 13, 2024, brought together more than 50 competitors from 13 U.S. states, as well as participants from Canada, Australia, Uganda, and China.</p><p>Set in the scenic parks and forests near Chelsea, Dexter, Pinckney, and Brighton, Michigan, the event was organized by the Southern Michigan Orienteering Club (SMOC), with...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/results-of-the-2024-usa-iaru-region-2-radio-orienteering-championships>
+
+---
+
+## Jamboree On The Air Brings Scouts Around the World Together
+
+date: 2024-10-18, from: Amateur Radio Relay League News
+
+<p>The big weekend for Scouts around the world is here. Jamboree On - The - Air (JOTA) and Jamboree On - The - Internet (JOTI) is the world’s largest Scouting event. The three-day event runs from October 18 - 20, 2024 using amateur radio and the internet to connect Scouts worldwide for a full weekend of on-air and online activities that promote friendship and global citizenship. In 2023, JOTA/JOTI...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/jamboree-on-the-air-brings-scouts-around-the-world-together>
+
+---
+
+## ARRL Teachers Institute on Wireless Technology Impacts 85 Educators in 2024; More Planned for 2025
+
+date: 2024-10-18, from: Amateur Radio Relay League News
+
+<p>The ARRL Teachers Institute on Wireless Technology wrapped up up its final cohort for 2024. Eight educators from across the country gathered at ARRL Headquarters in Newington, Connecticut, last week to learn how to incorporate radio technology into their lessons. Eighty-five educators have gotten hands-on with radio technology through the program in 2024.</p><p>On Thursday, October 10, as Hurricane Mi...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-teachers-institute-on-wireless-technology-impacts-85-educators-in-2024-more-planned-for-2025>
+
+---
+
+## 2024 Hiram Percy Maxim Memorial Award Recipient: Kees Van Oosbree, WØAAE
+
+date: 2024-10-18, from: Amateur Radio Relay League News
+
+<p>Kees Van Oosbree, WØAAE, received the 2024 Hiram Percy Maxim Memorial Award during the ARRL Forum at the North Star Radio Convention / ARRL Minnesota State Convention held in Brooklyn Park, Minnesota on Saturday, October 5, 2024.</p><p>Van Oosbree is an active member of the radio community in Minnesota and at Iowa State University, where he is treasurer of the university's amateur radio club. He is ac...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/2024-hiram-percy-maxim-memorial-award-recipient-kees-van-oosbree-w-aae>
+
+---
+
+## The K7RA Solar Update
+
+date: 2024-10-18, from: Amateur Radio Relay League News
+
+<p>Average daily sunspot numbers changed from 160 to 129.3 and average<br />daily solar flux from 261.3 to 194.3. Geomagnetic numbers were<br />higher, with planetary A index rising from 21.4 to 39.3.<br /><br />Seven new sunspot groups emerged this week, with two on October 10,<br />two on October 13, two more October 14 and one more on October 15.<br /><br />Predicted solar flux is 170, 160, and 165 on October 18-20, 170 on<br />October 21-22...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/the-k7ra-solar-update-850>
 
 ---
 

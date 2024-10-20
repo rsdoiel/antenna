@@ -1,11 +1,451 @@
 ---
 title: home
-updated: 2024-10-18 07:12:38
+updated: 2024-10-19 19:41:39
 ---
 
 # home
 
-(date: 2024-10-18 07:12:38)
+(date: 2024-10-19 19:41:39)
+
+---
+
+## Rare Plant of the Month: Greata’s aster
+
+date: 2024-10-18, from: California Native Plants Society
+
+<p>October's Rare Plant of the Month is Greata’s aster, a perennial herb in the daisy family with heads of pale violet flowers that lives in Southern California.</p>
+<p>The post <a href="https://www.cnps.org/rare-plants/rare-plant-of-the-month-greatas-aster-40788">Rare Plant of the Month: Greata’s aster</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/rare-plants/rare-plant-of-the-month-greatas-aster-40788>
+
+---
+
+## A Skytrak Golf Simulator Is the Only Christmas Gift the Golfer in Your Life Needs
+
+date: 2024-10-18, from: Family Handyman Blog
+
+<p>Need a stellar Christmas gift? Check out the Skytrak golf simulator or launch monitor for an immersive experience your golfer will adore. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/skytrak-golf-simulator/">A Skytrak Golf Simulator Is the Only Christmas Gift the Golfer in Your Life Needs</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/skytrak-golf-simulator/>
+
+---
+
+## New ‘Click to Cancel’ Rule Makes Canceling Subscriptions Simpler
+
+date: 2024-10-18, from: Family Handyman Blog
+
+<p>The FTC is requiring companies to make it just as easy to cancel a subscription service as it was to sign up.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/ftc-click-to-cancel-rule/">New ‘Click to Cancel’ Rule Makes Canceling Subscriptions Simpler</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/ftc-click-to-cancel-rule/>
+
+---
+
+## 89,000 Colsen Fire Pits Recalled After 19 People Suffer Burns
+
+date: 2024-10-18, from: Family Handyman Blog
+
+<p>Here's why the CPSC has asked owners of these fire pits to dispose of them immediately.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/colsen-fire-pit-recall/">89,000 Colsen Fire Pits Recalled After 19 People Suffer Burns</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/colsen-fire-pit-recall/>
+
+---
+
+## 10 Eerie Decoration Ideas That’ll Bring Your Haunted House to Life
+
+date: 2024-10-18, from: Family Handyman Blog
+
+<p>Transform your home into a haunted Halloween nightmare with these spooky, moving DIY projects.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/haunted-house-decoration-ideas/">10 Eerie Decoration Ideas That&#8217;ll Bring Your Haunted House to Life</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/haunted-house-decoration-ideas/>
+
+---
+
+## Honda Recalls 720,000 Cars Over Issue That Could Cause Fuel Leaks
+
+date: 2024-10-18, from: Family Handyman Blog
+
+<p>Attention Honda drivers: You may be impacted by this important recall.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/honda-fuel-pump-recall/">Honda Recalls 720,000 Cars Over Issue That Could Cause Fuel Leaks</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/honda-fuel-pump-recall/>
+
+---
+
+## Is that Mold Your Are Smelling in Your House?
+
+date: 2024-10-18, from: Family Handyman Blog
+
+<p>If you smell a musty odor and wonder, 'what does mold smell like?', this expert advice will help you identify unseen mold in your home.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/what-does-mold-smell-like/">Is that Mold Your Are Smelling in Your House?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/what-does-mold-smell-like/>
+
+---
+
+## Woman Loses $24,000 in Gift Card Scam — Don’t Fall for This Costly Con
+
+date: 2024-10-18, from: Family Handyman Blog
+
+<p>Gift card scams are on the rise. Here's what to look out for this holiday season.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/gift-card-scams/">Woman Loses $24,000 in Gift Card Scam — Don&#8217;t Fall for This Costly Con</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/gift-card-scams/>
+
+---
+
+## Solo Stove Just Dropped a Portable Grill Kit That Fits Over Your Fire Pit
+
+date: 2024-10-18, from: Family Handyman Blog
+
+<p>Burgers or s'mores, anyone? Turn your Bonfire 2.0 into a handy dandy grill with the all-new Solo Stove Cookout Kit.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/solo-stove-cookout-kit/">Solo Stove Just Dropped a Portable Grill Kit That Fits Over Your Fire Pit</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/solo-stove-cookout-kit/>
+
+---
+
+## Go from Halloween to Christmas Instantly with These All-New Permanent Outdoor Lights
+
+date: 2024-10-18, from: Family Handyman Blog
+
+<p>Are you tired of taking your lights down each holiday season? The all-new permanent outdoor Lumary lights just might solve this issue.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/permanent-outdoor-lights-lumary/">Go from Halloween to Christmas Instantly with These All-New Permanent Outdoor Lights</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/permanent-outdoor-lights-lumary/>
+
+---
+
+## Construction Diary: In Chile, a Much-Needed Addition Feels a Part of the Landscape
+
+date: 2024-10-18, from: Dwell
+
+For his sister, architect Ignacio Correa creates an 80-square-meter unit for her teenage children, connected to the house via a bridge that snakes through eucalyptus and pine. 
+
+<br> 
+
+<https://www.dwell.com/article/construction-diary-in-chile-a-much-needed-addition-feels-a-part-of-the-landscape-56118ec2>
+
+---
+
+## You’d Never Believe This €3M French Home Was Once an Old Hunting Lodge
+
+date: 2024-10-18, from: Dwell
+
+Built in 1890, the brick house outside Paris has been transformed from top to bottom—and it comes with a detached cottage and a heated swimming pool. 
+
+<br> 
+
+<https://www.dwell.com/article/19th-century-hunting-lodge-renovation-rueil-malmaison-paris-france-real-estate-ea7fb8fa>
+
+---
+
+## Friday Links: October 18, 2024
+
+date: 2024-10-18, from: California Native Plants Society
+
+<p>This week, Robin Wall Kimmerer encourages us to learn from the serviceberry; you probably know someone who suffers from plant blindness; get the deets on what Prop 4 is for; enjoy a restored wetland in the Bay Area, and more!</p>
+<p>The post <a href="https://www.cnps.org/friday-links/friday-links-october-18-2024-40739">Friday Links: October 18, 2024</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/friday-links/friday-links-october-18-2024-40739>
+
+---
+
+## 5 Best Air Quality Monitors to Keep a Healthy Home, Tested and Reviewed
+
+date: 2024-10-18, from: Family Handyman Blog
+
+<p>After two months of testing and consulting air quality experts, we found the best air quality monitors to detect airborne pollutants.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/best-air-quality-monitor/">5 Best Air Quality Monitors to Keep a Healthy Home, Tested and Reviewed</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/best-air-quality-monitor/>
+
+---
+
+## The Ultimate Mexican Beach Road Trip of Your Dreams, Planned by a Local Expert
+
+date: 2024-10-18, from: Sunset Magazine - Living in the West
+
+Heading to Baja California? This Baja California road trip itinerary hits all the spots, from camping to city hotels to beachy towns. 
+
+<br> 
+
+<https://www.sunset.com/travel/road-trips/baja-california-road-trip-itinerary>
+
+---
+
+## Wrap Presents Like a Pro This Holiday Season With This Foolproof Guide
+
+date: 2024-10-18, from: Family Handyman Blog
+
+<p>Never struggle with gift wrapping again as we show you how to wrap a present perfectly, complete with a festive ribbon bow.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-wrap-a-present/">Wrap Presents Like a Pro This Holiday Season With This Foolproof Guide</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/how-to-wrap-a-present/>
+
+---
+
+## How to Grow Adam’s Needle Yucca Plants
+
+date: 2024-10-18, from: The Gardener's Path
+
+<p>Adam's needle yucca is a striking succulent with dramatic foliage and long-lasting flowers. This plant is cold, heat, and drought resistant and thrives in sandy, lean soils. Handsome and hearty, it’s ideal for water-wise gardens and xeriscapes. Learn how to grow Adam’s needle yucca in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/grow-adams-needle-yucca/">How to Grow Adam’s Needle Yucca Plants</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/succulents/grow-adams-needle-yucca/>
+
+---
+
+## How To Create a Low-Maintenance Front Yard Landscaping Feature
+
+date: 2024-10-18, from: Family Handyman Blog
+
+<p>Transform your outdoor space with this easy, step-by-step guide to creating a stunning low maintenance front yard landscaping feature.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/easy-front-yard-landscaping-feature/">How To Create a Low-Maintenance Front Yard Landscaping Feature</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/easy-front-yard-landscaping-feature/>
+
+---
+
+## Avoid Doing These Things to Prevent Aging (and Live up to 7 Years Longer)
+
+date: 2024-10-18, from: Sunset Magazine - Living in the West
+
+Author Caroline Paul shares with us how the power of the outdoors can change the way you age and have an effect on your health. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/wellness/how-to-prevent-aging-getting-outdoors>
+
+---
+
+## A Guide to Enamel Paint and Where to Use It
+
+date: 2024-10-18, from: Family Handyman Blog
+
+<p>Learn all about enamel paint: its durability, best uses for home projects and tips for achieving a smooth, long-lasting finish.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/enamel-paint/">A Guide to Enamel Paint and Where to Use It</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/enamel-paint/>
+
+---
+
+## La Niña Is Forecasted to Affect Winter Weather—Here’s What to Expect
+
+date: 2024-10-18, from: Sunset Magazine - Living in the West
+
+The National Weather Service forecasts a weak La Nina emerging this fall and winter. Heres' what to expect in the West. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/la-nina-winter-2024>
+
+---
+
+## You Need a Cool-Weather Garden Tool Kit. Here’s What Should Be Inside It.
+
+date: 2024-10-18, from: Sunset Magazine - Living in the West
+
+There are certain gardening tools that come in handy during the winter season. We're sharing the must-have gear for cooler months. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/winter-gardening-tools>
+
+---
+
+## Lifestyle
+
+date: 2024-10-18, from: Sunset Magazine - Living in the West
+
+Lifestyle ideas and inspiration for every life stage, from gift guides and gear recommendations to wedding planning, living with kids and pets, and saving for home remodels. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle>
+
+---
+
+## The Idea Hub
+
+date: 2024-10-18, from: Sunset Magazine - Living in the West
+
+Innovative design and genius decorating ideas are around every corner in our Idea Hub showcase homes. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/idea-houses>
+
+---
+
+## Flowers & Plants
+
+date: 2024-10-18, from: Sunset Magazine - Living in the West
+
+The very best flowers and plants for your garden's climate zone. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/plants>
+
+---
+
+## Garden Basics
+
+date: 2024-10-18, from: Sunset Magazine - Living in the West
+
+Learn how to start your own home garden with our gardening experts&apos; tips and tutorials 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics>
+
+---
+
+## Decorating & Design
+
+date: 2024-10-18, from: Sunset Magazine - Living in the West
+
+Transform your home with our decorating tips, including ideas for small spaces, DIY projects, home design, and more. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design>
+
+---
+
+## Home Tours
+
+date: 2024-10-18, from: Sunset Magazine - Living in the West
+
+Take a peek at our favorite homes around the West, from modern cabins to mid-century ranch houses 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours>
+
+---
+
+## Home & Garden
+
+date: 2024-10-18, from: Sunset Magazine - Living in the West
+
+Great home and garden design ideas, from decorating and DIY projects to landscaping and edible gardening tips from Sunset magazine. 
+
+<br> 
+
+<https://www.sunset.com/home-garden>
+
+---
+
+## Restaurants
+
+date: 2024-10-18, from: Sunset Magazine - Living in the West
+
+ 
+
+<br> 
+
+<https://www.sunset.com/food-wine/restaurants>
+
+---
+
+## Recipes
+
+date: 2024-10-18, from: Sunset Magazine - Living in the West
+
+Search Sunset's collection of great recipes for every occasion. From quick weekday meals to indulgent holiday menus, we share the best in Western cooking. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant>
+
+---
+
+## Food and Drink
+
+date: 2024-10-18, from: Sunset Magazine - Living in the West
+
+Delicious recipes, food and wine pairings, and more ways to savor the West. 
+
+<br> 
+
+<https://www.sunset.com/food-wine>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-10-18, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## ALDI’s Thanksgiving Meal Will Feed 10 People for $47
+
+date: 2024-10-18, from: Sunset Magazine - Living in the West
+
+Hosting Thanksgiving dinner can be expensive, so ALDI is rolling out a deal for the holiday. The grocery chain's meal deal feeds 10 for $47. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/aldi-thanksgiving-basket-meal-deal>
 
 ---
 
@@ -36,18 +476,6 @@ date: 2024-10-18, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/cat-palm-care-and-growing-guide-for-indoors-most-detailed/>
-
----
-
-## You Need a Cool-Weather Garden Tool Kit. Here’s What Should Be Inside It.
-
-date: 2024-10-17, from: Sunset Magazine - Living in the West
-
-There are certain gardening tools that come in handy during the winter season. We're sharing the must-have gear for cooler months. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/garden-basics/winter-gardening-tools>
 
 ---
 
@@ -88,18 +516,6 @@ date: 2024-10-17, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/project/how-to-refinish-wood-furniture/>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-10-17, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 
@@ -162,18 +578,6 @@ The Barranca Larga-Ventanilla Highway is a 104-kilometer superhighway that Oaxac
 <br> 
 
 <https://www.sunset.com/travel/barranca-larga-ventanilla-highway-open>
-
----
-
-## ALDI’s Thanksgiving Meal Will Feed 10 People for Less than $47
-
-date: 2024-10-17, from: Sunset Magazine - Living in the West
-
-Hosting Thanksgiving dinner can be expensive, so ALDI is rolling out a deal for the holiday. The grocery chain's meal deal feeds 10 for $47. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/aldi-thanksgiving-basket-meal-deal>
 
 ---
 
@@ -361,18 +765,6 @@ The Bravo alum’s recently remodeled Bridgehampton property includes a four-bed
 <br> 
 
 <https://www.dwell.com/article/bethenny-frankel-hamptons-home-bridgehampton-new-york-real-estate-bb6f24e9>
-
----
-
-## Avoid Doing These Things to Prevent Aging (and Live up to 7 Years Longer)
-
-date: 2024-10-16, from: Sunset Magazine - Living in the West
-
-Author Caroline Paul shares with us how the power of the outdoors can change the way you age and have an effect on your health. 
-
-<br> 
-
-<https://www.sunset.com/lifestyle/wellness/how-to-prevent-aging-getting-outdoors>
 
 ---
 
@@ -603,18 +995,6 @@ date: 2024-10-16, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/toyota-corolla-cross-hybrid-recall/>
-
----
-
-## La Niña Is Forecasted to Affect Winter Weather—Here’s What to Expect
-
-date: 2024-10-16, from: Sunset Magazine - Living in the West
-
-The National Weather Service forecasts a weak La Nina emerging this fall and winter. Heres' what to expect in the West. 
-
-<br> 
-
-<https://www.sunset.com/lifestyle/la-nina-winter-2024>
 
 ---
 

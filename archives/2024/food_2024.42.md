@@ -1,11 +1,217 @@
 ---
 title: food
-updated: 2024-10-18 07:12:39
+updated: 2024-10-19 19:41:40
 ---
 
 # food
 
-(date: 2024-10-18 07:12:39)
+(date: 2024-10-19 19:41:40)
+
+---
+
+## No, Turkey Legs Are Not Made with Ham
+
+date: 2024-10-18, from: Taste of Home
+
+<p>To be fair, I have asked myself more foolish questions than this.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/are-turkey-legs-ham/">No, Turkey Legs Are Not Made with Ham</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/are-turkey-legs-ham/>
+
+---
+
+## Strawberry Crisp
+
+date: 2024-10-18, from: Taste of Home
+
+Make the most of peak strawberry season with a homemade strawberry crisp. This easy recipe will satisfy your sweet tooth with its juicy, flavorful filling and golden brown cinnamon-sugar topping. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/strawberry-crisp/>
+
+---
+
+## Greek Chicken Meatballs
+
+date: 2024-10-18, from: Taste of Home
+
+Indulge in Mediterranean flavors with our recipe for juicy Greek chicken meatballs. They're made with garlic, fresh herbs and feta cheese and served with a homemade tzatziki sauce. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/greek-chicken-meatballs/>
+
+---
+
+## Lentil Tabbouleh
+
+date: 2024-10-18, from: Taste of Home
+
+Put a new spin on a Middle Eastern tabbouleh salad with our lentil tabbouleh recipe. Fresh mint and parsley, along with cucumbers, tomatoes, olive oil, lemon juice and garlic, make this dish refreshing and delicious, any time of year. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/lentil-tabbouleh/>
+
+---
+
+## Hallmark Is Premiering 32 All-New Christmas Movies in 2024
+
+date: 2024-10-18, from: Taste of Home
+
+<p>Bring out your fuzzy blankets and hot cocoa. It's time for Hallmark Christmas movies!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/hallmark-christmas-movies-2024/">Hallmark Is Premiering 32 All-New Christmas Movies in 2024</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/hallmark-christmas-movies-2024/>
+
+---
+
+## Beef Satay with Peanut Sauce
+
+date: 2024-10-18, from: Taste of Home
+
+You can turn the most budget-friendly cuts of meat into a lavish dish by following this beef satay with peanut sauce recipe. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/beef-satay-with-peanut-sauce/>
+
+---
+
+## I Tried the Viral Protein Diet Coke, and I Have Thoughts
+
+date: 2024-10-18, from: Taste of Home
+
+<p>Is mixing Diet Coke with dairy as strange as it sounds? Here's what we thought.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/protein-diet-coke/">I Tried the Viral Protein Diet Coke, and I Have Thoughts</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/protein-diet-coke/>
+
+---
+
+## This Vosges Chocolate Advent Calendar Costs Over $300—And Yes, It’s Worth the Price
+
+date: 2024-10-18, from: Taste of Home
+
+<p>This limited-edition beauty has a tendency to sell out! Here's everything you need to know about the Vosges Chocolate Advent calendar. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/vosges-chocolate-advent-calendar/">This Vosges Chocolate Advent Calendar Costs Over $300—And Yes, It&#8217;s Worth the Price</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/vosges-chocolate-advent-calendar/>
+
+---
+
+## 7Up Shirley Temple Review: This New Flavor Is Already a Star
+
+date: 2024-10-18, from: Taste of Home
+
+<p>Raise a glass to limited edition 7Up Shirley Temple, which features pomegranate and cherry notes.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/7up-shirley-temple-review/">7Up Shirley Temple Review: This New Flavor Is Already a Star</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/7up-shirley-temple-review/>
+
+---
+
+## Pecan Butter
+
+date: 2024-10-18, from: Taste of Home
+
+Pecan butter may be unconventional but fresh pecans have a naturally sweet and rich taste that make an ideal spread. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/pecan-butter/>
+
+---
+
+## Pimiento Mac and Cheese
+
+date: 2024-10-18, from: Taste of Home
+
+Pimiento mac and cheese is the happy result of two of the South's most beloved comfort dishes colliding to transform into something new and delicious. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/pimiento-mac-and-cheese-2/>
+
+---
+
+## Food Diary: What a 53-Year-Old Medical Device Sales Rep Eats on $380K in Honolulu, Hawaii
+
+date: 2024-10-18, from: Bon Appetet
+
+She makes rice balls in the shape of pandas for her daughter’s lunch, and hot pot shabu-shabu and classic Bon Appétit recipes for family dinner. 
+
+<br> 
+
+<https://www.bonappetit.com/story/food-diary-medical-device-sales-rep-380k-year-honolulu-hawaii>
+
+---
+
+## The Best Silverware Sets (2024), Reviewed By Our Experts
+
+date: 2024-10-18, from: Bon Appetet
+
+There’s even one for people who hate big spoons. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-silverware-sets>
+
+---
+
+## Presenting the Winners from Our Holiday Cocktail Party Recipe Contest
+
+date: 2024-10-18, from: Taste of Home
+
+<p>Home cooks were invited to send in their holiday shareables and simple sweets. And what’s a cocktail party without a cocktail? These winning recipes will be the stars of your next holiday party.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/holiday-cocktail-party-contest-winners/">Presenting the Winners from Our Holiday Cocktail Party Recipe Contest</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/holiday-cocktail-party-contest-winners/>
+
+---
+
+## The Best Chocolate Advent Calendar (2024)
+
+date: 2024-10-18, from: Bon Appetet
+
+Because if you ever deserve a daily piece of chocolate (or three), it’s during the holidays. 
+
+<br> 
+
+<https://www.bonappetit.com/story/the-absolute-best-chocolate-advent-calendars>
+
+---
+
+## The All-Clad Seconds Sale Is Happening NOW—Save Over 80% on Cookware and Kitchen Gear
+
+date: 2024-10-18, from: Taste of Home
+
+<p>Act fast! This All-Clad Seconds sale ends on October 20.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/all-clad-sale-2024/">The All-Clad Seconds Sale Is Happening NOW—Save Over 80% on Cookware and Kitchen Gear</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/all-clad-sale-2024/>
 
 ---
 
@@ -1684,4 +1890,16 @@ date: 2024-10-13, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/mushroom-recipes/>
+
+---
+
+## 53 Easy Dinner Ideas for Simple, Satisfying Meals
+
+date: 2024-10-12, from: Bon Appetet
+
+Like a weeknight salmon rice bowl, artichoke-dip-inspired pasta, and a warming white chicken chili. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/easy-dinner-ideas>
 

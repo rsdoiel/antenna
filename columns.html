@@ -28,7 +28,831 @@
 Items collected from feeds in <a href="columns.txt">columns.txt</a>
 </div>
 <h1 id="columns">columns</h1>
-<p>(date: 2024-10-18 07:12:37)</p>
+<p>(date: 2024-10-19 19:41:38)</p>
+<hr />
+<h2 id="my-2024-election-video-of-the-week-trumps-tax-scam">My 2024
+Election Video of the Week: Trump’s tax scam</h2>
+<p>date: 2024-10-18, from: Robert Reich’s blog</p>
+<p>Trickle-down economics on steroids</p>
+<p><br></p>
+<p><a
+href="https://robertreich.substack.com/p/my-2024-election-video-of-the-week-c41"
+class="uri">https://robertreich.substack.com/p/my-2024-election-video-of-the-week-c41</a></p>
+<hr />
+<h2 id="friday-squid-blogging-squid-scarf">Friday Squid Blogging: Squid
+Scarf</h2>
+<p>date: 2024-10-18, updated: 2024-10-18, from: Bruce Schneier blog</p>
+<p>
+Cute
+<a href="https://bsky.app/profile/jenniferhudak.bsky.social/post/3l64ct4cjuh2x">squid
+scarf</a>.
+</p>
+<p>
+<a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog
+moderation policy.</a>
+</p>
+<p><br></p>
+<p><a
+href="https://www.schneier.com/blog/archives/2024/10/friday-squid-blogging-squid-scarf.html"
+class="uri">https://www.schneier.com/blog/archives/2024/10/friday-squid-blogging-squid-scarf.html</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Miguel">@Miguel</span> de
+Icaza Mastondon feed</strong> (date: 2024-10-18, from: Miguel de Icaza
+Mastondon feed)</p>
+<p>
+UI-Design friends, I need some guidance and the Apple HIG does not have
+much for me here (it just says do this, but not how).
+</p>
+<p>
+Godot validates that certain values on a form are acceptable before
+letting you proceed. I have replicated this behavior, but I hate the way
+that it looks.
+</p>
+<p>
+It is a blob of red text saying, this is what is wrong. What are good
+iPadOS idioms that people use?
+</p>
+<p><br></p>
+<p><a href="https://mastodon.social/@Migueldeicaza/113330314490863528"
+class="uri">https://mastodon.social/@Migueldeicaza/113330314490863528</a></p>
+<hr />
+<h2 id="october-17-2024">October 17, 2024</h2>
+<p>date: 2024-10-18, from: Heather Cox Richardson blog</p>
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/150421740/8956b08457a38df2e175bad4ea9de0db.mp3">
+</source>
+</audio>
+<p><a href="https://api.substack.com/feed/podcast/150421740/8956b08457a38df2e175bad4ea9de0db.mp3" target="_blank">download
+audio/mpeg</a><br></p>
+<p><a
+href="https://heathercoxrichardson.substack.com/p/october-17-2024-f80"
+class="uri">https://heathercoxrichardson.substack.com/p/october-17-2024-f80</a></p>
+<hr />
+<h2
+id="strolls-with-stops-use-more-energy-than-continuous-walking-scientists-show.-researchers">Strolls
+with stops use more energy than continuous walking, scientists show.
+“Researchers…</h2>
+<p>date: 2024-10-18, updated: 2024-10-18, from: Jason Kittke’s blog</p>
+<p><br></p>
+<p><a href="https://kottke.org/24/10/0045475-strolls-with-stops-use-mo"
+class="uri">https://kottke.org/24/10/0045475-strolls-with-stops-use-mo</a></p>
+<hr />
+<h2 id="firefox72">2024-10-18 Firefox/72</h2>
+<p>date: 2024-10-18, from: Alex Schroeder’s Blog</p>
+<h1 id="2024-10-18-firefox-72">
+2024-10-18 Firefox/72
+</h1>
+<blockquote>
+<p>
+I’ve now seen this shit running on systems hosted by: Amazon, Google,
+Carnegie Mellon University, NVidia, Oracle, University of Texas, San
+Diego Super Computing Center, Alibaba, University of Edinburgh, Huawei,
+Intel, Coreweave, Samsung, Hong Kong University, University of
+Washington… and dozens, or perhaps hundreds more. This shit makes
+requests from the United States, Germany, China, Australia, Hong Kong,
+Singapore, United Kingdom, Netherlands, Portugal… and so on, and so on.
+– <a href="https://imho.alex-kunz.com/2024/02/25/block-this-shit/">Block
+This Shit</a> by
+<a class="account" href="https://mas.to/@alexskunz" title="@alexskunz@mas.to"><span
+class="citation" data-cites="alexskunz">@alexskunz</span></a>
+</p>
+</blockquote>
+<p>
+I decided to see whether this bot was scraping my pages, too. Here’s how
+to use <a href="/admin/network-lookup">network-lookup</a> to see who’s
+doing it:
+</p>
+<pre><code>grep &quot;Firefox/72&quot; /var/log/apache2/access.log \
+ | tail -n 100 \
+ | bin/admin/network-lookup \
+ &gt; result.log
+</code></pre>
+<p>
+Let’s look at the organisations hosting that bot:
+</p>
+<table>
+<thead>
+<tr>
+<th align="right">
+Range
+</th>
+<th align="right">
+Hits
+</th>
+<th>
+Org
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="right">
+160.91.0.0/16
+</td>
+<td align="right">
+15
+</td>
+<td>
+Oak Ridge National Laboratory / OREN
+</td>
+</tr>
+<tr>
+<td align="right">
+20.64.0.0/10
+</td>
+<td align="right">
+12
+</td>
+<td>
+MSFT / Microsoft Corporation
+</td>
+</tr>
+<tr>
+<td align="right">
+3.36.0.0/14
+</td>
+<td align="right">
+10
+</td>
+<td>
+AMAZON-ICN / AWS Asia Pacific (Seoul) Region
+</td>
+</tr>
+<tr>
+<td align="right">
+35.222.104.0/21
+</td>
+<td align="right">
+7
+</td>
+<td>
+Google LLC / GOOGLE-CLOUD
+</td>
+</tr>
+<tr>
+<td align="right">
+34.30.0.0/16
+</td>
+<td align="right">
+6
+</td>
+<td>
+GOOGL-2 / Google LLC
+</td>
+</tr>
+<tr>
+<td align="right">
+35.239.48.0/20
+</td>
+<td align="right">
+6
+</td>
+<td>
+Google LLC / GOOGLE-CLOUD
+</td>
+</tr>
+<tr>
+<td align="right">
+34.27.0.0/16
+</td>
+<td align="right">
+4
+</td>
+<td>
+GOOGL-2 / Google LLC
+</td>
+</tr>
+<tr>
+<td align="right">
+31.13.168.0/23
+</td>
+<td align="right">
+3
+</td>
+<td>
+NET-DEM-4SITSOLUTIONS / TWK-NET-CUSTOMER1
+</td>
+</tr>
+<tr>
+<td align="right">
+117.161.0.0/16
+</td>
+<td align="right">
+3
+</td>
+<td>
+CMNET / China Mobile / ORG-CM1-AP / China Mobile communications
+corporation
+</td>
+</tr>
+<tr>
+<td align="right">
+82.156.0.0/18
+</td>
+<td align="right">
+2
+</td>
+<td>
+IPv4 address block not managed by the RIPE NCC /
+NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK
+</td>
+</tr>
+<tr>
+<td align="right">
+34.121.48.0/20
+</td>
+<td align="right">
+2
+</td>
+<td>
+GOOGL-2 / Google LLC
+</td>
+</tr>
+<tr>
+<td align="right">
+35.223.240.0/20
+</td>
+<td align="right">
+2
+</td>
+<td>
+GOOGLE-CLOUD / Google LLC
+</td>
+</tr>
+<tr>
+<td align="right">
+35.225.64.0/20
+</td>
+<td align="right">
+2
+</td>
+<td>
+GOOGLE-CLOUD / Google LLC
+</td>
+</tr>
+<tr>
+<td align="right">
+3.34.0.0/15
+</td>
+<td align="right">
+2
+</td>
+<td>
+AMAZON-ICN / AWS Asia Pacific (Seoul) Region
+</td>
+</tr>
+<tr>
+<td align="right">
+15.164.0.0/15
+</td>
+<td align="right">
+2
+</td>
+<td>
+AT-88-Z / Amazon Technologies Inc.
+</td>
+</tr>
+<tr>
+<td align="right">
+34.123.224.0/20
+</td>
+<td align="right">
+1
+</td>
+<td>
+GOOGL-2 / Google LLC
+</td>
+</tr>
+<tr>
+<td align="right">
+34.45.0.0/16
+</td>
+<td align="right">
+1
+</td>
+<td>
+GOOGL-2 / Google LLC
+</td>
+</tr>
+<tr>
+<td align="right">
+47.252.0.0/18
+</td>
+<td align="right">
+1
+</td>
+<td>
+ALIBABA CLOUD - US
+</td>
+</tr>
+<tr>
+<td align="right">
+45.38.206.0/24
+</td>
+<td align="right">
+1
+</td>
+<td>
+EGN-22 / EGIHosting
+</td>
+</tr>
+<tr>
+<td align="right">
+34.72.112.0/20
+</td>
+<td align="right">
+1
+</td>
+<td>
+Google LLC / GOOGL-2
+</td>
+</tr>
+<tr>
+<td align="right">
+121.30.0.0/16
+</td>
+<td align="right">
+1
+</td>
+<td>
+UNICOM-SX / CNC Group CHINA169 Shan1xi Province Network
+</td>
+</tr>
+<tr>
+<td align="right">
+104.198.48.0/20
+</td>
+<td align="right">
+1
+</td>
+<td>
+GOOGLE-CLOUD / Google LLC
+</td>
+</tr>
+<tr>
+<td align="right">
+34.68.176.0/20
+</td>
+<td align="right">
+1
+</td>
+<td>
+GOOGL-2 / Google LLC
+</td>
+</tr>
+<tr>
+<td align="right">
+34.68.96.0/20
+</td>
+<td align="right">
+1
+</td>
+<td>
+GOOGL-2 / Google LLC
+</td>
+</tr>
+<tr>
+<td align="right">
+34.16.0.0/17
+</td>
+<td align="right">
+1
+</td>
+<td>
+GOOGL-2 / Google LLC
+</td>
+</tr>
+<tr>
+<td align="right">
+34.122.64.0/20
+</td>
+<td align="right">
+1
+</td>
+<td>
+GOOGL-2 / Google LLC
+</td>
+</tr>
+<tr>
+<td align="right">
+35.239.16.0/20
+</td>
+<td align="right">
+1
+</td>
+<td>
+GOOGLE-CLOUD / Google LLC
+</td>
+</tr>
+<tr>
+<td align="right">
+202.120.234.0/24
+</td>
+<td align="right">
+1
+</td>
+<td>
+CERNET-CN / Beijing, 100084
+</td>
+</tr>
+<tr>
+<td align="right">
+104.154.160.0/20
+</td>
+<td align="right">
+1
+</td>
+<td>
+GOOGLE-CLOUD / Google LLC
+</td>
+</tr>
+<tr>
+<td align="right">
+34.70.112.0/20
+</td>
+<td align="right">
+1
+</td>
+<td>
+Google LLC / GOOGL-2
+</td>
+</tr>
+<tr>
+<td align="right">
+35.224.160.0/20
+</td>
+<td align="right">
+1
+</td>
+<td>
+GOOGLE-CLOUD / Google LLC
+</td>
+</tr>
+<tr>
+<td align="right">
+34.66.128.0/20
+</td>
+<td align="right">
+1
+</td>
+<td>
+GOOGL-2 / Google LLC
+</td>
+</tr>
+<tr>
+<td align="right">
+34.133.16.0/20
+</td>
+<td align="right">
+1
+</td>
+<td>
+Google LLC / GOOGL-2
+</td>
+</tr>
+<tr>
+<td align="right">
+109.171.128.0/18
+</td>
+<td align="right">
+1
+</td>
+<td>
+KAUST Section 1 / King Abdullah University of Science and Technology /
+ORG-KAUo2-RIPE / SA-KAUST-20091118
+</td>
+</tr>
+<tr>
+<td align="right">
+34.68.144.0/20
+</td>
+<td align="right">
+1
+</td>
+<td>
+Google LLC / GOOGL-2
+</td>
+</tr>
+<tr>
+<td align="right">
+8.130.0.0/16
+</td>
+<td align="right">
+1
+</td>
+<td>
+Alibaba.com Singapore E-Commerce Private Limited / ALICLOUD
+</td>
+</tr>
+<tr>
+<td align="right">
+34.122.128.0/20
+</td>
+<td align="right">
+1
+</td>
+<td>
+GOOGL-2 / Google LLC
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+To get a feel for the level of incompetence of the engineers behind it,
+check out this example:
+</p>
+<pre><code>20.64.0.0/10 | 20.112.49.107 | 18/Oct/2024:14:58:37 +0200 | GET /cw?action=download;id=MattisManzelPortrait HTTP/1.1 | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0
+20.64.0.0/10 | 20.112.49.107 | 18/Oct/2024:14:58:37 +0200 | GET /cw?action=download;id=MattisManzelPortrait HTTP/1.1 | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0
+20.64.0.0/10 | 20.112.49.107 | 18/Oct/2024:14:58:38 +0200 | GET /cw?action=download;id=MattisManzelPortrait HTTP/1.1 | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0
+20.64.0.0/10 | 20.112.49.107 | 18/Oct/2024:14:58:39 +0200 | GET /wiki?action=download;id=MattisManzelPortrait HTTP/1.1 | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0
+20.64.0.0/10 | 20.112.49.107 | 18/Oct/2024:14:58:40 +0200 | GET /cw?action=download;id=MattisManzelPortrait HTTP/1.1 | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0
+20.64.0.0/10 | 20.112.49.107 | 18/Oct/2024:14:58:40 +0200 | GET /cw?action=download;id=MattisManzelPortrait HTTP/1.1 | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0
+20.64.0.0/10 | 20.112.49.107 | 18/Oct/2024:14:58:41 +0200 | GET /cw?action=download;id=MattisManzelPortrait HTTP/1.1 | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0
+20.64.0.0/10 | 20.112.49.107 | 18/Oct/2024:14:58:41 +0200 | GET /wiki?action=download;id=MattisManzelPortrait HTTP/1.1 | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0
+20.64.0.0/10 | 20.112.49.107 | 18/Oct/2024:14:58:42 +0200 | GET /cw?action=download;id=MattisManzelPortrait HTTP/1.1 | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0
+20.64.0.0/10 | 20.112.49.107 | 18/Oct/2024:14:58:42 +0200 | GET /cw?action=download;id=MattisManzelPortrait HTTP/1.1 | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0
+20.64.0.0/10 | 20.112.49.107 | 18/Oct/2024:14:58:43 +0200 | GET /cw?action=download;id=MattisManzelPortrait HTTP/1.1 | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0
+20.64.0.0/10 | 20.112.49.107 | 18/Oct/2024:14:58:43 +0200 | GET /wiki?action=download;id=MattisManzelPortrait HTTP/1.1 | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0
+</code></pre>
+<p>
+Every fucking second‽
+</p>
+<p>
+Now, a decision needs to be made:
+</p>
+<ul>
+<li>
+I could ban all the requests this bot makes by banning the specific user
+agent string.
+</li>
+<li>
+I could ban the networks that host this bot on the premise that they’ll
+probably also host other harmful bots.
+</li>
+</ul>
+<p>
+Guess which option I’m taking?
+</p>
+<p>
+Remember: <a href="2023-10-04-search">2023-10-04 Search engines, the
+deal is off!</a>:
+</p>
+<blockquote>
+<p>
+For a while it seemed that we all benefited from search engines –
+authors and readers both. These days, you’ll find that search results
+are full of garbage sites. Big sites with the most flatulent of pages
+explaining in great detail why the thing you’re looking for is important
+and how to do it, clearly optimized for an ad company and not for a
+reader. Big sites that have a gazillion answers are preferred over small
+and individual sites. Perhaps that’s easier. Perhaps it allows them to
+diffuse responsibility for the garbage, I don’t know. The effect is, in
+any case, that there is no benefit to search engines for small site
+authors, either. I was unable to find my own pages on the search
+engines. If you you are a small site owner and you think you can find
+your own pages on Google and Bing, I suspect that’s because they track
+you. Try it on a different computer, anonymously. Perhaps you won’t find
+yourself, either.
+</p>
+<p>
+In any case, if I can’t get anything in return, both as a reader and as
+an author, I feel that the deal is off. Why let them feed on my words
+for free? Nay, at a cost, since they are keeping my website busy,
+producing CO₂ and heating the planet for no benefit at all.
+</p>
+<p>
+Better to block them all.
+</p>
+</blockquote>
+<p>
+Here we go:
+</p>
+<pre><code>grep ipset result.log|sh
+</code></pre>
+<p>
+That’s because <code>network-lookup</code> is kind enough to include the
+appropriate <code>ipset</code> instructions:
+</p>
+<pre><code>ipset add banlist 160.91.0.0/16 # Oak Ridge National Laboratory / OREN
+ipset add banlist 20.64.0.0/10 # MSFT / Microsoft Corporation
+ipset add banlist 3.36.0.0/14 # AMAZON-ICN / AWS Asia Pacific (Seoul) Region
+ipset add banlist 35.222.104.0/21 # Google LLC / GOOGLE-CLOUD
+ipset add banlist 34.30.0.0/16 # GOOGL-2 / Google LLC
+ipset add banlist 35.239.48.0/20 # Google LLC / GOOGLE-CLOUD
+ipset add banlist 34.27.0.0/16 # GOOGL-2 / Google LLC
+ipset add banlist 31.13.168.0/23 # NET-DEM-4SITSOLUTIONS / TWK-NET-CUSTOMER1
+ipset add banlist 117.161.0.0/16 # CMNET / China Mobile / ORG-CM1-AP / China Mobile communications corporation
+ipset add banlist 82.156.0.0/18 # IPv4 address block not managed by the RIPE NCC / NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK
+ipset add banlist 34.121.48.0/20 # GOOGL-2 / Google LLC
+ipset add banlist 35.223.240.0/20 # GOOGLE-CLOUD / Google LLC
+ipset add banlist 35.225.64.0/20 # GOOGLE-CLOUD / Google LLC
+ipset add banlist 3.34.0.0/15 # AMAZON-ICN / AWS Asia Pacific (Seoul) Region
+ipset add banlist 15.164.0.0/15 # AT-88-Z / Amazon Technologies Inc.
+ipset add banlist 34.123.224.0/20 # GOOGL-2 / Google LLC
+ipset add banlist 34.45.0.0/16 # GOOGL-2 / Google LLC
+ipset add banlist 47.252.0.0/18 # ALIBABA CLOUD - US
+ipset add banlist 45.38.206.0/24 # EGN-22 / EGIHosting
+ipset add banlist 34.72.112.0/20 # Google LLC / GOOGL-2
+ipset add banlist 121.30.0.0/16 # UNICOM-SX / CNC Group CHINA169 Shan1xi Province Network
+ipset add banlist 104.198.48.0/20 # GOOGLE-CLOUD / Google LLC
+ipset add banlist 34.68.176.0/20 # GOOGL-2 / Google LLC
+ipset add banlist 34.68.96.0/20 # GOOGL-2 / Google LLC
+ipset add banlist 34.16.0.0/17 # GOOGL-2 / Google LLC
+ipset add banlist 34.122.64.0/20 # GOOGL-2 / Google LLC
+ipset add banlist 35.239.16.0/20 # GOOGLE-CLOUD / Google LLC
+ipset add banlist 202.120.234.0/24 # CERNET-CN / Beijing, 100084
+ipset add banlist 104.154.160.0/20 # GOOGLE-CLOUD / Google LLC
+ipset add banlist 34.70.112.0/20 # Google LLC / GOOGL-2
+ipset add banlist 35.224.160.0/20 # GOOGLE-CLOUD / Google LLC
+ipset add banlist 34.66.128.0/20 # GOOGL-2 / Google LLC
+ipset add banlist 34.133.16.0/20 # Google LLC / GOOGL-2
+ipset add banlist 109.171.128.0/18 # KAUST Section 1 / King Abdullah University of Science and Technology / ORG-KAUo2-RIPE / SA-KAUST-20091118
+ipset add banlist 34.68.144.0/20 # Google LLC / GOOGL-2
+ipset add banlist 8.130.0.0/16 # Alibaba.com Singapore E-Commerce Private Limited / ALICLOUD
+ipset add banlist 34.122.128.0/20 # GOOGL-2 / Google LLC
+</code></pre>
+<p>
+Thanks for nothing, leeches!
+</p>
+<p>
+Oh, and of course I have an Apache config file called “blocklist.conf”
+where I added the following:
+</p>
+<pre><code># Deny the image scraper
+# https://imho.alex-kunz.com/2024/02/25/block-this-shit/
+RewriteCond &quot;%{HTTP_USER_AGENT}&quot; &quot;Firefox/72.0&quot; [nocase]
+RewriteRule ^ https://alexschroeder.ch/nobots [redirect=410,last]
+</code></pre>
+<p>
+<a class="tag" href="/search/?q=%23Administration">#Administration</a>
+<a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a>
+</p>
+<p>
+And more!
+</p>
+<pre><code>ipset add banlist 198.82.0.0/16 # Virginia Polytechnic Institute and State Univ. / VPI-BLK
+ipset add banlist 34.31.0.0/16 # Google LLC / GOOGL-2
+ipset add banlist 34.72.32.0/20 # GOOGL-2 / Google LLC
+ipset add banlist 35.238.176.0/20 # Google LLC / GOOGLE-CLOUD
+ipset add banlist 34.173.0.0/17 # Google LLC / GOOGL-2
+ipset add banlist 35.223.128.0/20 # GOOGLE-CLOUD / Google LLC
+ipset add banlist 34.172.128.0/17 # Google LLC / GOOGL-2
+ipset add banlist 35.202.224.0/20 # Google LLC / GOOGLE-CLOUD
+ipset add banlist 34.69.112.0/20 # GOOGL-2 / Google LLC
+ipset add banlist 34.136.224.0/20 # Google LLC / GOOGL-2
+ipset add banlist 72.52.64.0/18 # Hurricane Electric LLC / HURRICANE-8
+</code></pre>
+<p><br></p>
+<p><a href="https://alexschroeder.ch/view/2024-10-18-firefox-72"
+class="uri">https://alexschroeder.ch/view/2024-10-18-firefox-72</a></p>
+<hr />
+<h2
+id="polostan-volume-one-of-bomb-light-a-riveting-historical-epic-of-international">Polostan:
+Volume One of Bomb Light: A Riveting Historical Epic of
+International…</h2>
+<p>date: 2024-10-18, updated: 2024-10-18, from: Jason Kittke’s blog</p>
+<p><br></p>
+<p><a href="https://kottke.org/24/10/0045456-polostan-volume-one-of-bo"
+class="uri">https://kottke.org/24/10/0045456-polostan-volume-one-of-bo</a></p>
+<hr />
+<h2 id="well-meet-again">We’ll meet again</h2>
+<p>date: 2024-10-18, from: Dave Winer’s Scripting News</p>
+<p>
+Imagine the editorial the NYT runs the day after the election when Trump
+wins and it dawns on them that it’s really over. For good. No backsies.
+We’re going down. Sayonara. Thanks for the memories. We’ll meet again,
+don’t know where, don’t know when.
+</p>
+<p>
+<div class="divInlineImage">
+<center>
+<img class="imgInline" src="https://imgs.scripting.com/2024/10/18/slimPickins.png">
+</center>
+It was nice knowing you.
+</div>
+</p>
+<p><br></p>
+<p><a
+href="http://scripting.com/2024/10/18/165941.html?title=wellMeetAgain"
+class="uri">http://scripting.com/2024/10/18/165941.html?title=wellMeetAgain</a></p>
+<hr />
+<h2 id="oh-sweet-jesus-please-god-no">Oh Sweet Jesus, Please God,
+No</h2>
+<p>date: 2024-10-18, from: Dave Winer’s Scripting News</p>
+<p>
+Will the NYT make it through the election without running an editorial
+that says <i>clearly</i> if we elect this mad king fascist and give him
+nukes and our military, and our industrial might, and what remains of
+our virtue, then we deserve the hell that will rain down on us. If this
+were a Hollywood movie, we’d be waiting for the climax, but I have a
+feeling they will exit existence with a whimper.
+</p>
+<p>
+<div class="divInlineImage">
+<center>
+<img class="imgInline" src="https://imgs.scripting.com/2024/10/18/ohSweetJesusNo.png">
+</center>
+Are we in a loop??
+</div>
+</p>
+<p><br></p>
+<p><a
+href="http://scripting.com/2024/10/18/164631.html?title=ohSweetJesusPleaseGodNo"
+class="uri">http://scripting.com/2024/10/18/164631.html?title=ohSweetJesusPleaseGodNo</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-10-18, from: Dave Winer’s Scripting
+News)</p>
+<p>Bloggers, here’s an idea. When you write a piece you’re proud of, end
+it with a sentence like this: “And that’s why I have a blog.” It plants
+a seed, which through repetition and appearing in many places, might
+help people appreciate the purpose of a blog. We’ve had a lot of mud
+slung at us, let’s start undoing that.</p>
+<p><br></p>
+<p><a href="http://scripting.com/2024/10/18.html#a163752"
+class="uri">http://scripting.com/2024/10/18.html#a163752</a></p>
+<hr />
+<h2 id="artfully-arranged-junkyard-objects">Artfully Arranged Junkyard
+Objects</h2>
+<p>date: 2024-10-18, updated: 2024-10-18, from: Jason Kittke’s blog</p>
+<p><br></p>
+<p><a href="https://kottke.org/24/10/artfully-arranged-junkyard-objects"
+class="uri">https://kottke.org/24/10/artfully-arranged-junkyard-objects</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-10-18, from: Dave Winer’s Scripting
+News)</p>
+<p>There’s this great story in the Fargo TV series where one of the
+villains says there’s a point when an animal that has been captured,
+relaxes when it realizes that it is no longer a being and
+<a href="https://www.youtube.com/watch?v=LO1msLSfeSc&t=25s">has become
+food</a>. “At some level food it knows it’s food.” Evolution has been
+kind to us that way. At what point in last night’s game did you realize
+that the Mets were no longer a baseball team and had become food?</p>
+<p><br></p>
+<p><a href="http://scripting.com/2024/10/18.html#a145532"
+class="uri">http://scripting.com/2024/10/18.html#a145532</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-10-18, from: Dave Winer’s Scripting
+News)</p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/10/18/grimace.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The
+Dodgers
+<a href="https://www.usatoday.com/story/sports/mlb/2024/10/17/dodgers-vs-mets-score-nlcs-game-4-highlights/75724161007/">soiled</a>
+our lovable slumping Mets last night. It was a sad sight. One to forget
+as soon as possible. And don’t forget folks, there’s always next year.
+If I were the Dodgers, I’d expect the Mets to win tonight, and the
+Dodgers will probably begrudgingly go along with it. Otherwise we’d have
+to destroy Citi Field as we did when the Yankees celebrated their World
+Series victory in 2000 on the field of Shea Stadium. I was actual there
+the night that will live in infamy. Back then at first I objected to the
+destruction of our shrine to the glory of past Mets teams, but then I
+realized we could never again rise to the peak of Mets philosophy in a
+chapel so soiled by the infidels. So if you don’t mind Dodgers, we’d
+like to keep Citi Field, so we won’t object if you let our Metsies win
+tonight’s game. The song for tonight’s game is
+<a href="https://www.youtube.com/watch?v=_ObVQPBD0Uw">Ain’t Too Proud to
+Beg</a> by the Temptations.</p>
+<p><br></p>
+<p><a href="http://scripting.com/2024/10/18.html#a144749"
+class="uri">http://scripting.com/2024/10/18.html#a144749</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Miguel">@Miguel</span> de
+Icaza Mastondon feed</strong> (date: 2024-10-18, from: Miguel de Icaza
+Mastondon feed)</p>
+<p>
+The new release of Inkscape on MacOS is lovely:
+</p>
+<p>
+<a href="https://inkscape.org/news/2024/10/13/inkscape-launches-version-14-powerful-new-accessib/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span
+class="invisible">https://</span><span
+class="ellipsis">inkscape.org/news/2024/10/13/i</span><span
+class="invisible">nkscape-launches-version-14-powerful-new-accessib/</span></a>
+</p>
+<p><br></p>
+<p><a href="https://mastodon.social/@Migueldeicaza/113328942970122043"
+class="uri">https://mastodon.social/@Migueldeicaza/113328942970122043</a></p>
+<hr />
+<h2
+id="is-it-perimenopause-or-the-fascist-death-knell-of-late-stage-capitalism-is">Is
+It Perimenopause or the Fascist Death Knell of Late-Stage Capitalism?
+“Is…</h2>
+<p>date: 2024-10-18, updated: 2024-10-18, from: Jason Kittke’s blog</p>
+<p><br></p>
+<p><a href="https://kottke.org/24/10/0045476-is-it-perimenopause-or-th"
+class="uri">https://kottke.org/24/10/0045476-is-it-perimenopause-or-th</a></p>
+<hr />
+<h2 id="what-ai-will-do-to-the-internet">What AI will do to the
+Internet?</h2>
+<p>date: 2024-10-18, from: Om Malik blog</p>
+<p>A couple of months ago, I sat down with Matthew Prince, Cloudflare
+CEO, to talk about the future of internet infrastructure. We discussed
+the sudden global shift to everything online during the COVID-19 crisis.
+We also explored the balkanization of the internet and its impact on
+infrastructure, software, and services. We dug into what role …</p>
+<p><br></p>
+<p><a href="https://om.co/2024/10/18/what-ai-will-do-to-the-internet/"
+class="uri">https://om.co/2024/10/18/what-ai-will-do-to-the-internet/</a></p>
 <hr />
 <h2
 id="justice-department-indicts-tech-ceo-for-falsifying-security-certifications">Justice
@@ -72,7 +896,7 @@ class="uri">https://kottke.org/24/10/0045474-loving-that-the-ftc-has</a></p>
 href="https://robertreich.substack.com/p/even-after-kamala-harris-wins-even"
 class="uri">https://robertreich.substack.com/p/even-after-kamala-harris-wins-even</a></p>
 <hr />
-<h2 id="october-17-2024">October 17, 2024</h2>
+<h2 id="october-17-2024-1">October 17, 2024</h2>
 <p>date: 2024-10-18, from: Heather Cox Richardson blog</p>
 <p>In a new rule released yesterday, the Federal Trade Commission
 requires sellers to make it as easy to cancel a subscription to a gym or
@@ -585,8 +1409,9 @@ Secretive Dynasty That Controls the Boar’s Head Brand</h2>
 href="https://www.nytimes.com/2024/10/13/business/boars-head-owners-listeria-outbreak.html"
 class="uri">https://www.nytimes.com/2024/10/13/business/boars-head-owners-listeria-outbreak.html</a></p>
 <hr />
-<h2 id="sponsor-weather-up">[Sponsor] Weather Up</h2>
-<p>date: 2024-10-16, updated: 2024-10-16, from: Daring Fireball</p>
+<h2 id="sponsor-weather-up-at-a-glance-forecasts">[Sponsor] Weather Up:
+At-a-Glance Forecasts</h2>
+<p>date: 2024-10-16, updated: 2024-10-19, from: Daring Fireball</p>
 <p><br></p>
 <p><a
 href="https://apps.apple.com/redeem?ctx=offercodes&amp;id=1196015787&amp;code=GRUBER"
@@ -2065,6 +2890,692 @@ water.</p>
 <p><br></p>
 <p><a href="https://heathercoxrichardson.substack.com/p/october-12-2024"
 class="uri">https://heathercoxrichardson.substack.com/p/october-12-2024</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-10-12, from: Dave Winer’s Scripting
+News)</p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2021/12/12/zen.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I
+would switch to any
+<a href="https://en.wikipedia.org/wiki/List_of_podcast_clients">podcatcher</a>
+that let me edit my subscription list outside their app, because I use
+that list in different contexts, also because I’d like to share my list
+with others, and would like that to be a dynamic connection, so I could
+add feeds as I learn about them, or remove feeds that have stopped
+updating. Also because there are lots of others, aka influencers who’d
+like to too. You’d own the market if you did this.</p>
+<p><br></p>
+<p><a href="http://scripting.com/2024/10/12.html#a211940"
+class="uri">http://scripting.com/2024/10/12.html#a211940</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-10-12, from: Dave Winer’s Scripting
+News)</p>
+<p>The common denominator between journalism, business and politics is
+that none of them have any respect for people. To rise in influence,
+money or power you have to give up imagination, and be ruled by
+cynicism. If you don’t believe this, show me a journalist who listens, a
+business that makes products for thinkers, or a politician who lets
+individual people lead them.</p>
+<p><br></p>
+<p><a href="http://scripting.com/2024/10/12.html#a211848"
+class="uri">http://scripting.com/2024/10/12.html#a211848</a></p>
+<hr />
+<h2 id="fighting-climate-change-with-financial-reform">Fighting climate
+change with financial reform</h2>
+<p>date: 2024-10-12, from: Tracy Durnell Blog</p>
+<p>Notes on What’s Happening Right Now by Alex Steffen There’s no new
+normal; the climate is moving from something we knew to a fluctuating
+set of conditions; we won’t be able to predict what the world we’re
+building for will look like. That means we have to rebuild in ways that
+limit anticipated risks and […]</p>
+<p><br></p>
+<p><a
+href="https://tracydurnell.com/2024/10/12/fighting-climate-change-with-financial-reform/"
+class="uri">https://tracydurnell.com/2024/10/12/fighting-climate-change-with-financial-reform/</a></p>
+<hr />
+<h2 id="october-11-2024">October 11, 2024</h2>
+<p>date: 2024-10-12, from: Heather Cox Richardson blog</p>
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/150148181/7032ace533c01929773c562b9d347fab.mp3">
+</source>
+</audio>
+<p><a href="https://api.substack.com/feed/podcast/150148181/7032ace533c01929773c562b9d347fab.mp3" target="_blank">download
+audio/mpeg</a><br></p>
+<p><a
+href="https://heathercoxrichardson.substack.com/p/october-11-2024-824"
+class="uri">https://heathercoxrichardson.substack.com/p/october-11-2024-824</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-10-12, from: Dave Winer’s Scripting
+News)</p>
+<p><a href="https://en.m.wikipedia.org/wiki/Cynicism_(contemporary)">Cynicism</a>
+isn’t always the right explanation. Sometimes people just want to share
+something good with you, that doesn’t necessarily mean they’re stupid,
+maybe they just like you.</p>
+<p><br></p>
+<p><a href="http://scripting.com/2024/10/12.html#a165035"
+class="uri">http://scripting.com/2024/10/12.html#a165035</a></p>
+<hr />
+<h2 id="payback-time-for-the-dodgers">Payback time for the Dodgers</h2>
+<p>date: 2024-10-12, from: Dave Winer’s Scripting News</p>
+<p>
+Well we know who the Mets are facing, starting tomorrow, in the National
+League championship series.
+</p>
+<p>
+Last time we played the Dodgers in the postseason we
+<a href="https://www.baseball-reference.com/postseason/2015_NLDS2.shtml">kicked
+their ass</a>. And now they have the nerve to show up again. Geez some
+people never learn.
+</p>
+<p>
+And we haven’t forgotten how
+<a href="https://www.youtube.com/watch?v=BRbFJo83mlg">Chase Utley</a>
+broke <a href="https://en.wikipedia.org/wiki/Rub%C3%A9n_Tejada">Rubin
+Tejada’s</a> leg,
+<a href="http://scripting.com/2015/10/11/baseballGotUglyLastNight.html">deliberately</a>,
+basically ending his major league career. We thought he should have been
+arrested for that, no kidding – it was a vicious un-baseball assault. He
+and the Dodgers showed
+<a href="https://dodgers.mlblogs.com/off-day-report-mattingly-addresses-utley-tejada-a2ba255e751f">no
+remorse</a>.
+</p>
+<p>
+<div class="divInlineImage">
+<center>
+<img class="imgInline" src="https://imgs.scripting.com/2024/10/12/payback.png">
+</center>
+The only payback that matters is victory.
+</div>
+</p>
+<p>
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/10/12/mrMetAtBat.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Update:
+The Jankees are playing Cleveland in the ALCS, and while some people
+with limited imaginations wish for a
+<a href="https://en.wikipedia.org/wiki/Subway_Series">Subway Series</a>
+betw the the two NY teams, I do not. I have a rule, I always root for
+the team the Jankees are playing. Thus I hope to see a World Series
+between the Mets and so-called “Guardians.” And of course the Mets would
+be heavily favored in that contest because the Cleveland team has
+changed their name to something impossible to pronounce, ethically. When
+you change your name, like
+<a href="http://scripting.com/2015/09/21/silverLiningMetsBook.html#aIWPAT">tearing
+down your stadium</a> (something that took the Mets a long time to
+recover from) you basically put a hex on your team making it virtually
+impossible for your philosophy to prevail. So Mets v Guardians, while
+not necessarily what I predict, rather is something I <i>hope</i>
+<i>for</i>, and as long as the game is played with philosophy, that’s
+the real victory! So get em METS and never forget there’s always next
+year. <span class="spOldSchoolEmoji">❤️</span>
+</p>
+<p><br></p>
+<p><a
+href="http://scripting.com/2024/10/12/150933.html?title=paybackTimeForTheDodgers"
+class="uri">http://scripting.com/2024/10/12/150933.html?title=paybackTimeForTheDodgers</a></p>
+<hr />
+<h2 id="goldendale-washington-car-meet">Goldendale, Washington Car
+Meet</h2>
+<p>date: 2024-10-12, updated: 2024-10-12, from: Russell Graves, Syonyk’s
+Project Blog</p>
+<p><br></p>
+<p><a href="https://www.sevarg.net/2024/10/12/goldendale-washington/"
+class="uri">https://www.sevarg.net/2024/10/12/goldendale-washington/</a></p>
+<hr />
+<h2 id="why-is-this-possible-now">Why is this possible now?</h2>
+<p>date: 2024-10-12, from: Dave Winer’s Scripting News</p>
+<p>
+BTW, the reason there’s such a confluence of power between WordPress and
+Mastodon is this.
+</p>
+<p>
+WordPress has a
+<a href="https://github.com/Automattic/wp-calypso/tree/trunk/packages/wpcom.js">complete,
+debugged, deployed, scaled and frozen API</a>. It’s been around since
+2016 or so.
+</p>
+<p>
+In contrast Mastodon, while they’re doing excellent work, is trying to
+wrangle an already large community into a set of consistent interfaces.
+It’s very hard for an outsider like myself to approach, esp when you’re
+overloaded with your own work (which we all are).
+</p>
+<p>
+Meanwhile, Automattic has a small team whose only job is to make
+WordPress work with Mastodon.
+</p>
+<p>
+So I can build software that works with Mastodon without venturing into
+the rough seas of Mastodon-land. I can stay on the cruise-liner, which
+is the WordPress API.
+</p>
+<p>
+I didn’t even know they had this API until last summer. My jaw dropped
+when I first saw it. It even works with Node.js. And now that I’m on the
+other side, I haven’t hit any insurmountable obstacles or had to wait
+for something to be decided.
+</p>
+<p>
+This is the proper way to build interop. Implementors make things work,
+not W3C committees (I say that with decades of experience with this,
+btw).
+</p>
+<p>
+I thought it deserved an explanation.
+</p>
+<p><br></p>
+<p><a
+href="http://scripting.com/2024/10/12/145403.html?title=whyIsThisPossibleNow"
+class="uri">http://scripting.com/2024/10/12/145403.html?title=whyIsThisPossibleNow</a></p>
+<hr />
+<h2 id="outliner-notes">Outliner notes</h2>
+<p>date: 2024-10-12, from: Liam on Linux</p>
+<br />Word is a nightmare.<br /><br />«<br />
+<div>
+RT ColiegeStudent on Twitter 
+</div>
+<div>
+ 
+</div>
+<div>
+using microsoft word
+</div>
+<div>
+ 
+</div>
+<div>
+<em>moves an image 1 mm to the left</em>
+</div>
+<div>
+ 
+</div>
+<div>
+all text and images shift. 4 new pages appear. in the distance, sirens.
+</div>
+»<br /><br />
+<p>
+But there’s still a lot of power in that festering ball of 1980s code.
+</p>
+<p>
+In 6 weeks in 2016, I drafted, wrote, illustrated, laid out and
+submitted a ~330 page technical maintenance manual for a 3D printer,
+solo, entirely in MS Word from start to finish. I began in Word 97 &amp;
+finished it in Word 2003, 95% of the time running under WINE on Linux…
+and 90% of the time, using it in Outline Mode, which is a
+<em>vastly</em> powerful writer’s tool which the FOSS word has nothing
+even vaguely comparable to.
+</p>
+<p>
+But as a novice… Yeah, what the tweet said. It’s a timeless classic
+IMHO.
+</p>
+Some Emacs folks told me Org-mode is just as good as an outliner. I’ve
+tried it. This was my response.<br /><br />
+<p>
+Org mode compared to Word 2003 Outline View is roughly MS-DOS Edlin
+compared to Emacs. It’s a tiny fragmentary partial implementation of 1%
+of the functionality, done badly, with a terrible <em>terrible</em> UI.
+</p>
+<p>
+No exaggeration, no hyperbole, and there’s a reason I specifically said
+2003 and nothing later.<br /><br />
+<div class="status__action-bar">
+ 
+</div>
+</p>
+<div class="status__content status__content--with-action" tabindex="0">
+<div
+class="status__content__text status__content__text--visible translate"
+lang="en">
+<p>
+I’ve been building and running xNix boxes since 1988. I have often tried
+both Vi and Emacs over nearly 4 decades. I am unusual in terms of old
+Unix hands: I cordially detest both of them.
+</p>
+<p>
+The reason I cite Word 2003 is that that’s the last version with the old
+menu and toolbar UI. Everything later has a "ribbon" and I find it
+unusable.
+</p>
+<p>
+Today, the web-app/Android/iOS versions of Word do not have Outline
+View, no. Only the rich local app versions do.
+</p>
+<p>
+But no, org-mode is not a better richer alternative; it is vastly
+inferior, to the point of being almost a parody.
+</p>
+</div>
+</div>
+<p>
+It’s really not. I tried it, and I found it a slightly sad crippled
+little thing that might be OK for managing my to-do list.
+</p>
+<p>
+Hidden behind Emacs’ <em>awful</em> 1970s UI which I would personally
+burn in a fire rather than ever use.
+</p>
+<p>
+So, no, I don’t think it’s a very useful or capable outliner from what I
+have seen. Logseq has a better one.
+</p>
+<p>
+To extend my earlier comparison:
+</p>
+<p>
+Org-mode to Word’s Outline View is Edlin to Emacs.
+</p>
+<p>
+Logseq to Outline View is MS-DOS 5 EDIT to Emacs: it’s a capable
+full-screen text editor that I know and like and which works fine. It’s
+not very powerful but what it does, it does fine.
+</p>
+<p>
+Is Org-mode aimed at something else? Maybe, yes. I don’t know who or
+what it’s aimed at, so I can’t really say.<br /> 
+</p>
+<p>
+Word Outline Mode is the last surviving 1980s outliner, an entire
+category of app that’s disappeared.
+</p>
+<p>
+<a href="http://outliners.com/default.html" target="_blank" rel="nofollow noopener noreferrer" translate="no" class="status-link unhandled-link" title="http://outliners.com/default.html"><span
+class="invisible">http://</span><span>outliners.com/default.html</span></a>
+</p>
+<p>
+It’s a good one but it was once one among many. It is, for me,
+<em>THE</em> killer feature of MS Word, and the only thing I keep WINE
+on my computers for.
+</p>
+<p>
+It’s a prose writer’s tool, for writing long-form documents in a human
+language.
+</p>
+<p>
+Emacs is a programmer’s editor for writing program code in programming
+languages.
+</p>
+<p>
+So, no, they are not the same thing, but the superficial similarity
+confuses people.<br /> 
+</p>
+<p>
+I must pick a fairly small example as I’m not very familiar with Emacs.
+</p>
+<p>
+In Outline Mode, a paragraph’s level in the hierarchy is tied with its
+paragraph style. Most people don’t know how to use Word’s style sheets,
+but think of HTML. Word has 9 heading levels, like H1…H9 on the Web,
+plus Body Text, which is always the lowest level.
+</p>
+<p>
+As you promote or demote a paragraph, its style automatically changes to
+match.
+</p>
+<p>
+(This has the side effect that you can see the level from the style. If
+that bothered you, in old versions you could turn off showing the
+formatting.)
+</p>
+<p>
+As you move a block of hierarchical text around the outline all its
+levels automatically adopt the correct styles for their current
+location.
+</p>
+<p>
+This means that when I wrote a manual in it, I did <em>no formatting by
+hand</em> at all. The text of the entire document is
+<em>automatically</em> formatted according to whether it’s a chapter
+heading, or section, or subsection, or subsubsection, etc.
+</p>
+<p>
+When you’re done Word can automatically generate a table of contents, or
+an index, or both, that picks up all those section headings. Both assign
+page numbers "live", so if you move, add or delete any section, the ToC
+and index update immediately with the new positions and page
+numbers.<br /> 
+</p>
+<p>
+I say a small example as most professional writers don’t deal with the
+formatting at all. That’s the job of someone else in a different
+department.
+</p>
+<p>
+Or, in technical writing, this is the job of some program. It’s the sort
+of thing that Linux folks get very excited about LaTeX and LyX, or for
+which documentarians praise DocBook or DITA, but I’ve used both of those
+and they need a<em>vast</em> amount of manual labour – and <em>very</em>
+complex tooling.
+</p>
+<p>
+XML etc are also <em>extremely</em> fragile. One punctuation mark in the
+wrong place and 50 pages of formatting is broken or goes haywire. I’ve
+spent days troubleshooting one misplaced <code>:</code>. It’s horrible.
+</p>
+<p>
+Word can do all this automatically, and most people <em>don’t even know
+the function is there.</em> It’s like driving an articulated lorry as a
+personal car and never noticing that it can carry 40 tonnes of cargo!
+Worse still, people attach a trailer and roofrack and load them up with
+stuff… <em>because they don’t know their vehicle can carry 10 cars
+already</em> as a built in feature.
+</p>
+<p>
+I could take a sub sub section of a chapter and promote it to a chapter
+in its own right, and adjust the formatting of 100 pages, in about 6 or
+8 keystrokes. That will also rebuild the index and redo the table of
+contents, automatically, for me.<br /> 
+</p>
+<p>
+All this can be entirely keyboard driven, or entirely mouse driven,
+according to the user’s preference. Or any mixture of both, of course.
+I’m a keyboard warrior myself. I can live entirely without a pointing
+device and it barely slows me down.
+</p>
+<p>
+You can with a couple of clicks collapse the whole book to just chapter
+headings, or just those and subheadings, or just all the headings and no
+body text… Any of 9 levels, as you choose. You can hide all the lower
+levels, restructure the whole thing, and then show them again. You can
+adjust formatting by adjusting indents in the overview, and then expand
+it again to see what happened and if it’s what you want.
+</p>
+<p>
+You could go crazy… zoom out to the top level, add a few new headings,
+indent under the new headings, and suddenly in a few clicks, your 1 big
+book is now 2 or 3 or 4 smaller books, each with its own set of
+chapters, headings, sub headings, sub sub headings etc. Each can have
+its own table of contents and index, all automatically generated and
+updated and formatted.<br /> 
+</p>
+<p>
+I’m an xNix guy, mainly. I try to avoid Windows as much as possible, but
+the early years of my career were supporting DOS and then Windows. There
+is good stuff there, and credit where it’s due.
+</p>
+<p>
+(MS Office on macOS also does this, but the keyboard UI is much
+clunkier.)
+</p>
+<p>
+Outliners were just an everyday tool once. MS just built a good one into
+Word, way back in the DOS era. Word for DOS can do all this stuff too
+and it did it in like 200kB of RAM in 1988!
+</p>
+<p>
+Integrating it into a word processor makes sense, but they were
+standalone apps.
+</p>
+<p>
+It’s not radical tech. This is really old, basic stuff. But somehow in
+the switch to GUIs on the PC, they got lost in the transition.
+</p>
+<p>
+And no, LibreOffice/Abiword/CalligraWords has nothing even resembling
+this.<br /> 
+</p>
+<p>
+There are 2 types of outliner: intrinsic and extrinsic, also known as
+1-pane or 2-pane.
+</p>
+<p>
+<a href="https://en.wikipedia.org/wiki/Outliner#Layout" target="_blank" rel="nofollow noopener noreferrer" translate="no" class="status-link unhandled-link" title="https://en.wikipedia.org/wiki/Outliner#Layout"><span
+class="invisible">https://</span><span
+class="ellipsis">en.wikipedia.org/wiki/Outliner</span><span
+class="invisible">#Layout</span></a>
+</p>
+<p>
+There are multiple 2-pane outliners that are FOSS.
+</p>
+<p>
+But they are tools for organising info, and are almost totally useless
+for writers. <br /> <br />There are almost no intrinsic outliners in the
+FOSS world. I’ve been looking for years. The only one I know is LoqSeq,
+but it is just for note-taking and it does none of the
+formatting/indexing/ToC stuff I mentioned. It does handle Markdown but
+with zero integration with the outline structure.
+</p>
+<p>
+So it’s like going from Emacs to Notepad. All the clever stuff is gone,
+but you can still edit plain text.<br /><br /> 
+</p>
+<p><br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&ditemid=92883" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/>
+comments</p>
+<p><br></p>
+<p><a href="https://liam-on-linux.dreamwidth.org/92883.html"
+class="uri">https://liam-on-linux.dreamwidth.org/92883.html</a></p>
+<hr />
+<h2 id="inferno-notes">Inferno notes</h2>
+<p>date: 2024-10-12, from: Liam on Linux</p>
+<div>
+Plan 9 is Unix but more so. You write code in C and compile it to a
+native binary and run it as a process. All processes are in containers
+all the time, and nothing is outside the containers. Everything is
+virtualised, even the filesystem, and everything really is a file.
+Windows on screen are files. Computers are files. Disks are files. Any
+computer on the network can load a program from any other computer on
+the network (subject to permissions of course), run it on another
+computer, and display it on a third. The whole network is one giant
+computer.
+</div>
+<div>
+ 
+</div>
+<div>
+You could use a slower workstation and farm out rendering complicated
+web pages to nearby faster machines, but see it on your screen.
+</div>
+<div>
+ 
+</div>
+<div>
+But it’s Unix. A binary is still a binary. So if you have a slow Arm64
+machine, like a Raspberry Pi 3 (Plan 9 runs great on Raspberry Pis), you
+can’t run your browser on a nearby workstation PC because that’s x86-64.
+Arm binaries can’t run on x86, and x86 binaries can’t run on Arm.
+</div>
+<div>
+ 
+</div>
+<div>
+Wasm (<strong>W</strong>eb <strong>AS</strong>se<strong>M</strong>bly)
+is a low-level bytecode that can run on any OS on any processor so long
+as it has a Wasm runtime. Wasm is derived from asm.js which was an
+earlier effort to write compilers that could target the Javascript
+runtime inside web browsers, while saving the time it takes to put
+Javscript through a just-in-time compiler.
+</div>
+<div>
+ 
+</div>
+<div>
+https://en.wikipedia.org/wiki/WebAssembly
+</div>
+<div>
+ 
+</div>
+<div>
+eBPF (extended Berkeley Packet Filters) is a language for configuring
+firewall rules, that’s been extended into a general programming
+language. It runs inside the Linux kernel: you write programs that run
+<em>as part of the kernel</em> (not as apps in userspace) and can change
+how the kernel works on the fly. The same eBPF code runs inside any
+Linux kernel on any architecture. 
+</div>
+<div>
+ 
+</div>
+<div>
+https://en.wikipedia.org/wiki/EBPF
+</div>
+<div>
+ 
+</div>
+<div>
+Going back 30 years, Java runs compiled binary code on any CPU because
+code is compiled to JVM bytecode instead of CPU machine code… But you
+need a JVM on your OS to run it.
+</div>
+<div>
+ 
+</div>
+<div>
+https://en.wikipedia.org/wiki/List_of_Java_virtual_machines
+</div>
+<div>
+ 
+</div>
+<div>
+All these are bolted on to another OS, usually Linux.
+</div>
+<div>
+ 
+</div>
+<div>
+But the concept works better if integrated right into the OS. That’s
+what Taos did.
+</div>
+<div>
+ 
+</div>
+<div>
+https://wiki.c2.com/?TaoIntentOs
+</div>
+<div>
+ 
+</div>
+<div>
+Programs are compiled for a virtual CPU that never existed, called VP.
+</div>
+<div>
+ 
+</div>
+<div>
+https://en.wikipedia.org/wiki/Virtual_Processor
+</div>
+<div>
+ 
+</div>
+<div>
+They are translated from that to whatever processor you’re running on as
+they’re loaded from disk into RAM. So <em>the same binaries</em>  run
+natively on any CPU. X86-32, x86-64, Arm, Risc-V, doesn’t matter.
+</div>
+<div>
+ 
+</div>
+<div>
+Very powerful. It was nearly the basis of the next-gen Amiga.
+</div>
+<div>
+ 
+</div>
+<div>
+http://www.amigahistory.plus.com/deplayer/august2001.html
+</div>
+<div>
+ 
+</div>
+<div>
+But it was a whole new OS and a quite weird OS at that. Taos 1 was very
+skeletal and limited. Taos 2, renamed Int<strong>e</strong>nt (yes, with
+the bold), was much more complete but didn’t get far before the company
+went under.
+</div>
+<div>
+ 
+</div>
+<div>
+Inferno was a rival to Java and the JVM, around the time Java appeared.
+</div>
+<div>
+ 
+</div>
+<div>
+It’s Plan 9, but with a virtual processor runtime built right into the
+kernel. All processes are written in a safer descendant of C called
+Limbo (it’s a direct ancestor of GoLang) and compiled to bytecode that
+executes in the kernel’s VM, which is called Dis.
+</div>
+<div>
+ 
+</div>
+<div>
+Any and all binaries run on all types of CPU. There is no "native code"
+any more. The same compiled program runs on x86, on Risc-V, on Arm. It
+no longer matters. Run all of them together on a single computer. 
+</div>
+<div>
+ 
+</div>
+<div>
+Running on a RasPi, all your bookmarks and settings are there? No
+worries, run Firefox on the headless 32-core EPYC box in the next
+building, displaying on your Retina tablet, but save on the Pi. Or save
+on your Risc-V laptop’s SSD next to your bed. So long as they’re all
+running Inferno, it’s all the same. One giant filesystem and all
+computers run the same binaries.
+</div>
+<div>
+ 
+</div>
+<div>
+By the way, it’s like 1% of the size of Linux with Wasm, and simpler
+too.
+</div>
+<div>
+ 
+</div>
+<p><br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&ditemid=92655" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/>
+comments</p>
+<p><br></p>
+<p><a href="https://liam-on-linux.dreamwidth.org/92655.html"
+class="uri">https://liam-on-linux.dreamwidth.org/92655.html</a></p>
+<hr />
+<h2 id="the-musking-of-trump-the-coffee-klatch-october-12-2024">The
+Musking of Trump | The Coffee Klatch | October 12, 2024</h2>
+<p>date: 2024-10-12, from: Robert Reich’s blog</p>
+<p>With Heather Lofthouse and Yours Truly, Robert Reich</p>
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/150111388/426cc5ff7f8319d73a279f0303ca0360.mp3">
+</source>
+</audio>
+<p><a href="https://api.substack.com/feed/podcast/150111388/426cc5ff7f8319d73a279f0303ca0360.mp3" target="_blank">download
+audio/mpeg</a><br></p>
+<p><a
+href="https://robertreich.substack.com/p/the-musking-of-trump-the-coffee-klatch"
+class="uri">https://robertreich.substack.com/p/the-musking-of-trump-the-coffee-klatch</a></p>
+<hr />
+<h2 id="october-11-2024-1">October 11, 2024</h2>
+<p>date: 2024-10-12, from: Heather Cox Richardson blog</p>
+<p>A report from the Labor Department yesterday showed that inflation
+has dropped again, falling back to 2.4%, the same rate as it was just
+before the coronavirus pandemic.</p>
+<p><br></p>
+<p><a href="https://heathercoxrichardson.substack.com/p/october-11-2024"
+class="uri">https://heathercoxrichardson.substack.com/p/october-11-2024</a></p>
+<hr />
+<h2 id="weeknotes-oct.-5-12-2024">Weeknotes: Oct. 5-12, 2024</h2>
+<p>date: 2024-10-12, from: Tracy Durnell Blog</p>
+<p>The house next door is a short term rental and the current renter is
+a very diligent band — they played for six hours straight yesterday 😳
+(I played wind instruments so my chops would be well shot by that
+point.) I keep making up their story: are they here to record an album?
+maybe […]</p>
+<p><br></p>
+<p><a
+href="https://tracydurnell.com/2024/10/11/weeknotes-oct-5-12-2024/"
+class="uri">https://tracydurnell.com/2024/10/11/weeknotes-oct-5-12-2024/</a></p>
+<hr />
+<h2
+id="election-countdown-25-days-to-go-delivering-the-message-despite-the-media.">Election
+Countdown, 25 Days to Go: Delivering the Message, Despite the
+Media.</h2>
+<p>date: 2024-10-12, from: James Fallows, Substack</p>
+<p>What John Boyd’s ‘OODA Loop’ tells us about the Harris campaign.</p>
+<p><br></p>
+<p><a
+href="https://fallows.substack.com/p/election-countdown-25-days-to-go"
+class="uri">https://fallows.substack.com/p/election-countdown-25-days-to-go</a></p>
 </section>
 <footer>
 Antenna is a personal aggregation of items found around the web.

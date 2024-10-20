@@ -1,20 +1,32 @@
 ---
 title: libraries
-updated: 2024-10-18 07:12:38
+updated: 2024-10-19 19:41:39
 ---
 
 # libraries
 
-(date: 2024-10-18 07:12:38)
+(date: 2024-10-19 19:41:39)
 
 ---
 
-## ARL and the California Digital Library Kick Off Machine Actionable Plans (MAP) Pilot Site Visits at Northwestern University Feinberg School of Medicine, Galter Health Sciences Library
+## Library Leaders Forum: Annual Gathering Highlights a ‘Critical Moment for Libraries’
+
+date: 2024-10-18, from: Internet Archive Blog
+
+In the wake of a rapid-fire cyberattack on the Internet Archive, Brewster Kahle reassured participants at the 2024 Library Leaders Forum that the organization’s data is safe, and employees are [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2024/10/18/library-leaders-forum-annual-gathering-highlights-a-critical-moment-for-libraries/>
+
+---
+
+## ARL and California Digital Library Kick Off Machine Actionable Plans (MAP) Pilot Site Visits at Northwestern University
 
 date: 2024-10-18, from: Association of Research Libraries News
 
-<p>Last Updated on October 18, 2024, 9:50 am ET   In September, the Association of Research Libraries (ARL) and the California Digital Library (CDL) conducted a site visit to the...</p>
-<p>The post <a href="https://www.arl.org/blog/arl-and-the-california-digital-library-kick-off-machine-actionable-plans-map-pilot-site-visits-at-northwestern-university-feinberg-school-of-medicine-galter-health-sciences-library/">ARL and the California Digital Library Kick Off Machine Actionable Plans (MAP) Pilot Site Visits at Northwestern University Feinberg School of Medicine, Galter Health Sciences Library</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+<p>Last Updated on October 18, 2024, 3:14 pm ET In September, the Association of Research Libraries (ARL) and the California Digital Library (CDL) conducted a site visit to the Northwestern...</p>
+<p>The post <a href="https://www.arl.org/blog/arl-and-the-california-digital-library-kick-off-machine-actionable-plans-map-pilot-site-visits-at-northwestern-university-feinberg-school-of-medicine-galter-health-sciences-library/">ARL and California Digital Library Kick Off Machine Actionable Plans (MAP) Pilot Site Visits at Northwestern University</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
 <br> 
@@ -46,6 +58,18 @@ date: 2024-10-18, from: Scholarly Kitchen
 <br> 
 
 <https://scholarlykitchen.sspnet.org/2024/10/18/a-celebration-of-developmental-biology/>
+
+---
+
+## Internet Archive Services Update: 2024-10-17
+
+date: 2024-10-18, from: Internet Archive Blog
+
+[Washinton Post piece] Last week, along with a DDOS attack and exposure of patron email addresses and encrypted passwords, the Internet Archive’s website javascript was defaced, leading us to bring [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2024/10/18/internet-archive-services-update-2024-10-17/>
 
 ---
 

@@ -1,35 +1,11 @@
 ---
 title: weather
-updated: 2024-10-18 07:12:37
+updated: 2024-10-19 19:41:38
 ---
 
 # weather
 
-(date: 2024-10-18 07:12:37)
-
----
-
-## SPC - No watches are valid as of Fri Oct 18 13:37:02 UTC 2024
-
-date: 2024-10-18, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Fri Oct 18 13:37:02 UTC 2024. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Fri Oct 18 13:37:02 UTC 2024
-
-date: 2024-10-18, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Fri Oct 18 13:37:02 UTC 2024. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
+(date: 2024-10-19 19:41:38)
 
 ---
 
@@ -139,92 +115,6 @@ too isolated and conditional for more than marginal probabilities.
 
 ---
 
-## There are no tropical cyclones at this time.
-
-date: 2024-10-18, from: Eastern Pacific Basin GIS Data
-
-No tropical cyclones as of Fri, 18 Oct 2024 11:56:08 GMT 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gis/>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2024-10-18, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Fri Oct 18 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>1. North of Puerto Rico and the Virgin Islands (AL94):<br>A trough of low pressure is producing disorganized showers and <br>thunderstorms extending a couple hundred miles north of Puerto Rico <br>and the Virgin Islands. Development, if any, of this disturbance <br>should be slow to occur while it moves quickly westward to <br>west-northwestward at around 20 mph, continuing north of Puerto <br>Rico and the Virgin Islands today, then near Hispaniola and the <br>southeastern Bahamas this weekend. Further development is not <br>expected due to strong upper-level winds by early next week.<br>* Formation chance through 48 hours...low...10 percent.<br>* Formation chance through 7 days...low...10 percent.<br><br />
-2. Western Caribbean Sea (AL95):<br>Widespread showers and thunderstorms continue across the <br>northwestern Caribbean Sea in association with a broad area of low <br>pressure that is gradually becoming better defined to the north of <br>eastern Honduras. Environmental conditions appear conducive for some <br>additional development over the next day or so, and a short-lived <br>tropical depression or storm could form before the system moves <br>inland over Belize and the Yucatan Peninsula of Mexico on Saturday. <br>Regardless of development, locally heavy rainfall is likely across <br>portions of Central America and southern Mexico through the weekend.<br>* Formation chance through 48 hours...medium...50 percent.<br>* Formation chance through 7 days...medium...50 percent.<br><br />
-<br>Forecaster Hogsett/Cangialosi<br></div></div><br />
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
-
----
-
-## Eastern Pacific
-
-date: 2024-10-18, from: Eastern Pacific Tropical Weather Outlook
-
-   
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
-## Central North Pacific Tropical Weather Outlook
-
-date: 2024-10-18, from: Central Pacific Basin Tropical Cyclones
-
-
-<br/>
-000<br/>
-ACPN50 PHFO 181102<br/>
-TWOCP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS Central Pacific Hurricane Center Honolulu HI<br/>
-200 AM HST Fri Oct 18 2024<br/>
-<br/>
-For the central North Pacific...between 140W and 180W:<br/>
-<br/>
-No tropical cyclones are expected during the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster Gibbs<br/>
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
-## There are no tropical cyclones at this time.
-
-date: 2024-10-18, from: Central Pacific Basin Tropical Cyclones
-
-No tropical cyclones as of Fri, 18 Oct 2024 11:56:08 GMT 
-
-<br> 
-
-<https://www.nhc.noaa.gov/>
-
----
-
 ## SPC Day 2 Fire Weather Outlook
 
 date: 2024-10-18, from: NOAA Weather Forecasts
@@ -266,46 +156,6 @@ result.
 <br> 
 
 <https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
-
----
-
-## SPC Day 3-8 Fire Weather Outlook
-
-date: 2024-10-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 3-8 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0458 PM CDT Thu Oct 17 2024
-
-Valid 191200Z - 251200Z
-
-On the backside of a closed midlevel low over the Four Corners
-region, moderate deep-layer northerly flow will persist across
-southern CA early on Day 3/Saturday. This mid/upper-level support,
-combined with a tight pressure gradient, will yield a continuation
-of dry/breezy offshore flow -- favoring elevated to locally critical
-conditions into early Day 3/Saturday. Thereafter, deep-layer winds
-and the pressure gradient will both weaken across southern CA,
-though dry conditions will continue. 
-
-The closed midlevel low/trough will continue east-northeastward
-across the central Rockies into early next week, with breezy winds
-expected across the Plains. However, low-level moisture return and
-eventual precipitation will limit RH reductions and the overall
-fire-weather risk.
-
-..Weinman.. 10/17/2024
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/exper/fire_wx/>
 
 ---
 
