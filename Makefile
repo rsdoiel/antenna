@@ -117,7 +117,7 @@ science_and_technology:
 markdown: $(md_files)
 
 $(md_files): .FORCE
-	sqlite3 $(basename $@).skim "DELETE FROM items WHERE LOWER(QUOTE(dc_ext)) LIKE '%sponsor%' OR LOWER(QUOTE(tags)) LIKE '%sports%'"
+	sqlite3 $(basename $@).skim "DELETE FROM items WHERE LOWER(QUOTE(dc_ext)) LIKE '%sponsor%' OR LOWER(QUOTE(tags)) LIKE '%sports%' OR LOWER(QUOTE(tags)) LIKE '%opinion%'"
 	sqlite3 $(basename $@).skim "UPDATE items SET status = 'read'"
 	sqlite3 $(basename $@).skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
 	skim2md -title "$(shell echo $(basename $@) | sed -E 's/_/ /g')" \

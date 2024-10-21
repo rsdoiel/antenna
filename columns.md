@@ -1,11 +1,23 @@
 ---
 title: columns
-updated: 2024-10-21 07:35:54
+updated: 2024-10-21 08:01:05
 ---
 
 # columns
 
-(date: 2024-10-21 07:35:54)
+(date: 2024-10-21 08:01:05)
+
+---
+
+##  Al Green&#8217;s cover of The Beatles&#8217; I Want to Hold Your Hand.... 
+
+date: 2024-10-21, updated: 2024-10-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045481-al-greens-cover-of-the>
 
 ---
 

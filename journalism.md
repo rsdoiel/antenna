@@ -1,11 +1,11 @@
 ---
 title: journalism
-updated: 2024-10-21 07:35:54
+updated: 2024-10-21 08:01:06
 ---
 
 # journalism
 
-(date: 2024-10-21 07:35:54)
+(date: 2024-10-21 08:01:06)
 
 ---
 
@@ -88,20 +88,6 @@ date: 2024-10-21, from: The Daily Trojan (USC Student Newspaper)
 <br> 
 
 <https://dailytrojan.com/2024/10/21/event-gives-closer-look-at-k-in-k-pop-music/>
-
----
-
-## Modern SCOTUS undermines US democracy
-
-date: 2024-10-21, from: The Daily Trojan (USC Student Newspaper)
-
-<p>In our "model democracy," the Supreme Court's powers resemble totalitarianism.</p>
-<p>The post <a href="https://dailytrojan.com/2024/10/21/modern-scotus-undermines-us-democracy/">Modern SCOTUS undermines US democracy</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<br> 
-
-<https://dailytrojan.com/2024/10/21/modern-scotus-undermines-us-democracy/>
 
 ---
 
@@ -196,18 +182,6 @@ date: 2024-10-20, from: The Daily Trojan (USC Student Newspaper)
 <br> 
 
 <https://dailytrojan.com/2024/10/20/kany-garcia-le-canta-a-la-vulnerabilidad-en-los-angeles/>
-
----
-
-## Editorial: UCLA administration’s response to protests fails to repair ties with community
-
-date: 2024-10-20, from: The Daily Bruin (UCLA Student Newspaper)
-
-The right to protest is perhaps more valuable and more fundamental to the principles of our society than any other. Those appointed to lead our nation’s institutions of higher learning should know this better than anyone else. 
-
-<br> 
-
-<https://dailybruin.com/2024/10/20/editorial-ucla-administrations-response-to-protests-fail-to-repair-ties-with-community/>
 
 ---
 

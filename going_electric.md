@@ -1,11 +1,43 @@
 ---
 title: going electric
-updated: 2024-10-21 07:35:55
+updated: 2024-10-21 08:01:07
 ---
 
 # going electric
 
-(date: 2024-10-21 07:35:55)
+(date: 2024-10-21 08:01:07)
+
+---
+
+## BYD and auto tech giant Forvia team up to take on Europe
+
+date: 2024-10-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/BYD-Forvia-Europe-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>China’s largest EV maker has ambitious plans to become a true player in Europe. After expanding its partnership with auto tech giant Forvia, <a href="https://electrek.co/guides/byd/">BYD</a> expects to rapidly gain market share in the region.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="385188" href="https://electrek.co/2024/10/21/byd-auto-tech-giant-forvia-team-up-europe/#more-385188" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/21/byd-auto-tech-giant-forvia-team-up-europe/>
+
+---
+
+## ZEEKR begins mass production of its new MIX EV ahead of its official launch this week
+
+date: 2024-10-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/ZEEKR-MIX-production.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Chinese EV automaker <a href="https://electrek.co/guides/zeekr/">ZEEKR</a> has officially begun mass production of its 5th model, the MIX. The start of production in China comes mere days before ZEEKR launches the new MIX EV during a livestream event, where we will learn more about the ins and outs of this uniquely designed vehicle.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="385204" href="https://electrek.co/2024/10/21/zeekr-begins-mass-production-mix-ev-official-launch-this-week/#more-385204" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/21/zeekr-begins-mass-production-mix-ev-official-launch-this-week/>
 
 ---
 

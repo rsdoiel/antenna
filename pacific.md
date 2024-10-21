@@ -1,11 +1,11 @@
 ---
 title: pacific
-updated: 2024-10-21 07:35:53
+updated: 2024-10-21 08:01:04
 ---
 
 # pacific
 
-(date: 2024-10-21 07:35:53)
+(date: 2024-10-21 08:01:04)
 
 ---
 
@@ -163,17 +163,15 @@ date: 2024-10-21, from: Hawaii Tribune Harold
 
 ---
 
-## Harris-Biden again embolden Iran’s proxy terrorists
+## ‘Nothing Micro About Micronesia’ fall tour
 
-date: 2024-10-21, from: Hawaii Tribune Harold
+date: 2024-10-21, from: The Husk
 
-
-				<p>The White House raised the spirits of Hamas terrorists this week by publicly rebuking Israel. It&#8217;s the same tired tune from the Harris-Biden administration. </p>
-			 
+The TeAda Productions performance is coming to the Big Island and Maui (and Guam and Saipan soon) 
 
 <br> 
 
-<https://www.hawaiitribune-herald.com/2024/10/21/opinion/harris-biden-again-embolden-irans-proxy-terrorists/>
+<https://thehusk.substack.com/p/nothing-micro-about-micronesia-fall>
 
 ---
 
@@ -191,6 +189,90 @@ date: 2024-10-21, from: University of the South Pacific (Fiji)
 
 ---
 
+## Alec Baldwin returns to ‘Saturday Night Live’ to spoof Bret Baier interview with Kamala Harris
+
+date: 2024-10-20, updated: 2024-10-21, from: Marianas Variety
+
+NEW YORK (AP) — Alec Baldwin has returned to “Saturday Night Live.” 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/alec-baldwin-returns-to-saturday-night-live-to-spoof-bret-baier-interview-with-kamala-harris/article_1693d622-8efb-11ef-8c89-4fa12bef40c3.html>
+
+---
+
+## DPL: Eland to spend $220M on Mariana Resort improvements
+
+date: 2024-10-20, updated: 2024-10-21, from: Marianas Variety
+
+MARIANA Eland Corp. is proposing $220 million in improvements to the property previously occupied by Kan Pacific’s Mariana Resort &amp; Spa in Marpi. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/dpl-eland-to-spend-220m-on-mariana-resort-improvements/article_116e76ce-8ea2-11ef-837e-83e21d557220.html>
+
+---
+
+## Abraczinskas seeks release to third-party custodian
+
+date: 2024-10-20, updated: 2024-10-21, from: Marianas Variety
+
+AS he seeks to overturn his rape conviction, William Abraczinskas is also requesting that the Superior Court release him to a third-party custodian. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/abraczinskas-seeks-release-to-third-party-custodian/article_9c86c244-8e9c-11ef-bea5-5b3d07077e53.html>
+
+---
+
+## CNMI Supreme Court affirms trial court finding of due process violation by Board of Parole
+
+date: 2024-10-20, updated: 2024-10-21, from: Marianas Variety
+
+ON Oct. 18, 2024, the CNMI Supreme Court affirmed the trial court’s decision to grant, in part, a habeas petition in Appleby v. Villagomez. The trial court determined that Shawn Appleby, who had his probation revoked, is properly imprisoned but should have his parole eligibility date redetermined by the Board of Parole. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/cnmi-supreme-court-affirms-trial-court-finding-of-due-process-violation-by-board-of-parole/article_33c9eea2-8ea6-11ef-b48f-e32a7de5c16f.html>
+
+---
+
+## USDOL recovers $317K in unpaid wages, damages from Southern California home care provider
+
+date: 2024-10-20, updated: 2024-10-21, from: Marianas Variety
+
+WHITTIER, Ca. (USDOL) — The U.S. Department of Labor has recovered $158,868 in back wages and an equal amount in liquidated damages from a Southern California residential care provider that refused to pay overtime to 45 workers, some of whom worked up to 70 hours per week. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/usdol-recovers-317k-in-unpaid-wages-damages-from-southern-california-home-care-provider/article_e119ac7a-8ea9-11ef-8e0c-df038e34f7e7.html>
+
+---
+
+## BC’s Tales of the Pacific ǀ Women divers of Adara village
+
+date: 2024-10-20, updated: 2024-10-21, from: Marianas Variety
+
+AROUND one hundred people live in the village of Adara, on the backside of Atauro Island.  It is a small piece of land near East Timor.  Times used to be good on Atauro. Rainfall came in abundance, which in turn allowed farming and livestock grazing.  Many people engaged in bringing forth food from what the land provided. 
+
+<br> 
+
+<https://www.mvariety.com/views/columnists/bc-s-tales-of-the-pacific-women-divers-of-adara-village/article_6268a984-8ea0-11ef-97d5-03c5b7e56000.html>
+
+---
+
+## US budget deficit tops $1.8 trillion in fiscal 2024, third-largest on record
+
+date: 2024-10-20, updated: 2024-10-21, from: Marianas Variety
+
+WASHINGTON (Reuters) — The U.S. budget deficit grew to $1.833 trillion for fiscal 2024, the highest outside of the Covid era, as interest on the federal debt exceeded $1 trillion for the first time and spending grew for the Social Security retirement program, health care and the military, the Treasury Department said on Friday. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/us-budget-deficit-tops-1-8-trillion-in-fiscal-2024-third-largest-on-record/article_5561efe8-8efa-11ef-b4bd-1b1d526ca1d5.html>
+
+---
+
 ## Boeing union says it will vote on new proposal to end strike
 
 date: 2024-10-20, from: Hawaii Tribune Harold
@@ -202,34 +284,6 @@ date: 2024-10-20, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2024/10/20/nation-world-news/boeing-union-says-it-will-vote-on-new-proposal-to-end-strike/>
-
----
-
-## Your Views for October 20
-
-date: 2024-10-20, from: Hawaii Tribune Harold
-
-
-				<p>Guidance &#0010;from League of Women Voters</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/20/opinion/your-views-for-october-20-11/>
-
----
-
-## As Harris releases records, Trump’s health an open question
-
-date: 2024-10-20, from: Hawaii Tribune Harold
-
-
-				<p>This week, at an event billed as a town hall in Pennsylvania, Donald Trump spent about 40 minutes standing on stage, mostly wordlessly swaying to music that he&#8217;d selected, confusing the press and his fans in attendance.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/20/opinion/as-harris-releases-records-trumps-health-an-open-question/>
 
 ---
 
@@ -272,20 +326,6 @@ date: 2024-10-20, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2024/10/20/features/volcano-watch-potential-long-term-outcomes-of-recent-intrusions-in-kilauea-east-rift-zone/>
-
----
-
-## Irwin: Some thoughts after a nerve-wracking night
-
-date: 2024-10-20, from: Hawaii Tribune Harold
-
-
-				<p>My husband was recently a patient at the Hilo Benioff Medical Center. Without getting into too much detail, it was a scary night.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/20/opinion/irwin-some-thoughts-after-a-nerve-wracking-night/>
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: games
-updated: 2024-10-21 07:35:54
+updated: 2024-10-21 08:01:05
 ---
 
 # games
 
-(date: 2024-10-21 07:35:54)
+(date: 2024-10-21 08:01:05)
 
 ---
 
@@ -30,18 +30,6 @@ Nintendo’s Switch Online playtest hasn’t actually begun yet, but details hav
 <br> 
 
 <https://www.polygon.com/news/467914/nintendo-switch-online-playtest-mmo-leak>
-
----
-
-## Smile 2’s ending makes a case for a bigger stage
-
-date: 2024-10-21, updated: 2024-10-18, from: Polygon Website
-
-[Ed. note: This post gets into the end of Smile 2 to discuss the future of the franchise. Read on only if you or the Smile demon haunting you want to know what happened at the end of the movie.] It doesn’t take much to see Smile 2’s ending coming. This is not an insult; [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/movies/467678/smile-2-ending-3-future-franchise-skye>
 
 ---
 
