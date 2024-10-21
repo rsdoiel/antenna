@@ -1,11 +1,131 @@
 ---
 title: pacific
-updated: 2024-10-21 08:01:04
+updated: 2024-10-21 10:42:24
 ---
 
 # pacific
 
-(date: 2024-10-21 08:01:04)
+(date: 2024-10-21 10:42:24)
+
+---
+
+## In My Apartment Alone Avoiding Visiting My Mother Who Lives Down The Street In Her Apartment Alone
+
+date: 2024-10-21, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Deborah Schwartz I hear my fizzy head ask the outside world for quiet. Forget it. Those voices inside me are broadcasting my child labor of anger, I ask them all to please be lighter. They&#8217;re fighters. This page, for &#8230; <a href="https://hawaiipacificreview.org/2024/10/21/in-my-apartment-alone-avoiding-visiting-my-mother-who-lives-down-the-street-in-her-apartment-alone/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://hawaiipacificreview.org/2024/10/21/in-my-apartment-alone-avoiding-visiting-my-mother-who-lives-down-the-street-in-her-apartment-alone/>
+
+---
+
+## Malfeasance is not a cure Joe – Governor
+
+date: 2024-10-21, updated: 2024-10-21, from: Marianas Variety
+
+THE recent malfeasant behavior and attacks by Joe Palacios are not a cure for our Cannabis Industry and have nothing to do with our economy, just invoking that WE the People should be satisfied with losing money every year on a Cannabis Commission that WE don’t need. First you assert the “race card” when I have only referred to myself as an “outsider” when you are an outsider too Joe having come to the CNMI from Guam, duh. Next you assert that your IQ is magically 144, which I believe is a bold-face LIE and I dare you prove me wrong, as my 139 IQ was certified by the State of Tenn &amp; 2 different Phycologists. You didn’t even know anything about our Cannabis Industry when you arrived from Guam, as you only asserted “problems with the wording in the Law” that you read-up on before being first appointed. Joe, you haven’t done anything that would even hint to you being a genius and the dysfunctional state of the Cannabis Commission is PROOF you are NOT a genius, given this is you second term and NOTHING has changed. Joe, you are only preying on “nepotism,” and it seems to be working. I just pray the Governor is not going to run again if he is going to let people like YOU &amp; Clyde manipulate him against HIS People. 
+
+<br> 
+
+<https://www.mvariety.com/views/letters_to_editor/malfeasance-is-not-a-cure-joe-governor/article_5886591e-8f6a-11ef-95a0-eb706284e74f.html>
+
+---
+
+## Palau seeks to revitalize economy through regulated online gaming
+
+date: 2024-10-21, updated: 2024-10-21, from: Marianas Variety
+
+KOROR (Island Times/Pacnews) — Palau’s Ministry of Finance has announced that it is accepting applications for online gaming concessions, marking a renewed effort to diversify the island nation’s economy through regulated virtual gaming platforms. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/palau-seeks-to-revitalize-economy-through-regulated-online-gaming/article_e4a59190-8f6e-11ef-bc31-dfb100407606.html>
+
+---
+
+## ‘Exhibiting Forgiveness’ film paints a story of hope and healing
+
+date: 2024-10-21, updated: 2024-10-21, from: Marianas Variety
+
+LOS ANGELES (Reuters) — Black American contemporary painter Titus Kaphar decided to dive into the director’s chair for his film “Exhibiting Forgiveness” to help his teenage sons understand the adversities of his upbringing. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/exhibiting-forgiveness-film-paints-a-story-of-hope-and-healing/article_95a0700e-8f7f-11ef-9d49-b32a3f6685b4.html>
+
+---
+
+## Moncler holds star-studded Genius event in Shanghai
+
+date: 2024-10-21, updated: 2024-10-21, from: Marianas Variety
+
+SHANGHAI  (Reuters) — Luxury clothing maker Moncler showcased its latest celebrity collaborations in a series of pavilions built inside an old shipyard in downtown Shanghai on Saturday as it looks to shrug off the sector's global malaise. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/moncler-holds-star-studded-genius-event-in-shanghai/article_e7550eaa-8f7f-11ef-8ea9-5fd110414a50.html>
+
+---
+
+## Asia shares wobble while bitcoin and gold rally
+
+date: 2024-10-21, updated: 2024-10-21, from: Marianas Variety
+
+SINGAPORE (Reuters) — Asia shares dipped in and out of positive territory on Monday, under pressure from weakness in Hong Kong stocks, but bitcoin scaled a three-month peak as "Trump trades" continued to ramp up. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/asia-shares-wobble-while-bitcoin-and-gold-rally/article_675f16a6-8f83-11ef-b71a-370dab4d0910.html>
+
+---
+
+## Trump hands out french fries in Pennsylvania, Harris visits Georgia churches in swing-state appeals
+
+date: 2024-10-21, updated: 2024-10-21, from: Marianas Variety
+
+ATLANTA/PHILADELPHIA (Reuters) — With the U.S. presidential election just over two weeks away, Democrat Kamala Harris visited two churches on Sunday while her Republican rival, Donald Trump, visited another kind of American temple: a McDonald's, where he again accused Harris of lying about having previously worked at the fast-food chain. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-hands-out-french-fries-in-pennsylvania-harris-visits-georgia-churches-in-swing-state-appeals/article_7bcce362-8f7d-11ef-aded-43cf4a9cfce4.html>
+
+---
+
+## New civil division AAG sworn in
+
+date: 2024-10-21, updated: 2024-10-21, from: Marianas Variety
+
+KASSANDRA Knoff, the CNMI’s new civil division assistant attorney general, was sworn in by Chief Justice Alexandro Castro at the Guma’ Hustisia on Friday. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/new-civil-division-aag-sworn-in/article_aae851ac-8f89-11ef-8470-e70ccb6e41f6.html>
+
+---
+
+## SMA asks feds to investigate CPA
+
+date: 2024-10-21, updated: 2024-10-21, from: Marianas Variety
+
+STAR Marianas Air Inc. is requesting the Federal Aviation Administration to investigate the Commonwealth Ports Authority and enforce corrective measures. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/sma-asks-feds-to-investigate-cpa/article_c1706c5a-8f77-11ef-b9b5-33ca3de7cedf.html>
+
+---
+
+## Flood watch remains in effect
+
+date: 2024-10-21, updated: 2024-10-21, from: Marianas Variety
+
+(CNMI Homeland Security and Emergency Management) — Based on the information received from the National Weather Service in Tiyan, Guam, and compiled at the CNMI Emergency Operations Center State Warning Point, a southwesterly monsoon is expected to maintain wet and occasionally breezy conditions across the Marianas. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/flood-watch-remains-in-effect/article_24111232-8fab-11ef-b1c1-e7cd1ab2353b.html>
 
 ---
 

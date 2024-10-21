@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2024-10-21 08:01:06
+updated: 2024-10-21 10:42:26
 ---
 
 # retro computing
 
-(date: 2024-10-21 08:01:06)
+(date: 2024-10-21 10:42:26)
+
+---
+
+## Elesar click and collect at London Show
+
+date: 2024-10-21, from: Icon Bar, RISC OS News
+
+We are seeing a steady stream of news (along with gossip, rumours and stuff we cannot publish yet)... 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2117.html>
 
 ---
 

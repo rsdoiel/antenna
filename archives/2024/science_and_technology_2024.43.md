@@ -1,11 +1,71 @@
 ---
 title: science and technology
-updated: 2024-10-21 08:01:05
+updated: 2024-10-21 10:42:24
 ---
 
 # science and technology
 
-(date: 2024-10-21 08:01:05)
+(date: 2024-10-21 10:42:24)
+
+---
+
+## Musk's $1M election lottery raises serious legal concerns, says Pennsylvania governor
+
+date: 2024-10-21, updated: 2024-10-21, from: The Register (UK I.T. News)
+
+<h4>C&#39;mon, do you really think ol&#39; Elon’s handing out all that cash, day after day?</h4> <p>Elon Musk&#39;s plan to give $1 million each day to a random registered &#34;swing state&#34; voter who has signed his election petition could merit a look for election law violations, Pennsylvania governor Josh Shapiro said over the weekend. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/21/shocking_elon_musks_1m_election/>
+
+---
+
+## 35 Years Ago: STS-34 Sends Galileo on its Way to Jupiter
+
+date: 2024-10-21, from: NASA breaking news
+
+On Oct. 18, 1989, space shuttle Atlantis took off on its fifth flight, STS-34, from NASA’s Kennedy Space Center (KSC) in Florida. Its five-person crew of Commander Donald E. Williams, Pilot Michael J. McCulley, and Mission Specialists Shannon W. Lucid, Franklin R. Chang-Díaz, and Ellen S. Baker flew a five-day mission that deployed the Galileo [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/history/35-years-ago-sts-34-sends-galileo-on-its-way-to-jupiter/>
+
+---
+
+## SiFive launches early access for Premier P550 RISC-V developer board
+
+date: 2024-10-21, updated: 2024-10-21, from: The Register (UK I.T. News)
+
+<h4>Broader December release promises Ubuntu support and enhanced features</h4> <p>Prominent RISC-V protagonist SiFive has announced early access to its anticipated development board, built around the firm&#39;s P550 core design, with a broader release scheduled for December.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/21/sifive_premier_p550_board/>
+
+---
+
+## Scientists Have Found Microplastics in Dolphin Breath for the First Time
+
+date: 2024-10-21, from: Smithsonian Magazine
+
+Each of the 11 dolphins sampled exhaled at least one suspected particle of microplastic, which researchers say “highlights how extensive environmental microplastic pollution is” 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/scientists-have-found-microplastics-in-dolphin-breath-for-the-first-time-180985287/>
+
+---
+
+## Gary Marcus proposes generative AI boycott to push for regulation, tame Silicon Valley
+
+date: 2024-10-21, updated: 2024-10-21, from: The Register (UK I.T. News)
+
+<h4>&#39;I am deeply concerned about how creative work is essentially being stolen at scale&#39;</h4> <p><strong>Interview</strong>  Gary Marcus, professor emeritus at New York University and serial entrepreneur, is the author of several books, the latest of which takes the tech industry to task for irresponsibly developing generative AI and putting democracy at risk.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/21/gary_marcus_ai_interview/>
 
 ---
 

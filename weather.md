@@ -1,11 +1,11 @@
 ---
 title: weather
-updated: 2024-10-21 08:01:05
+updated: 2024-10-21 10:42:25
 ---
 
 # weather
 
-(date: 2024-10-21 08:01:05)
+(date: 2024-10-21 10:42:25)
 
 ---
 
@@ -13,11 +13,223 @@ updated: 2024-10-21 08:01:05
 
 date: 2024-10-21, from: Eastern Pacific Basin GIS Data
 
-No tropical cyclones as of Mon, 21 Oct 2024 14:52:48 GMT 
+No tropical cyclones as of Mon, 21 Oct 2024 17:39:20 GMT 
 
 <br> 
 
 <https://www.nhc.noaa.gov/gis/>
+
+---
+
+## Central Pacific Tropical Weather Outlook
+
+date: 2024-10-21, from: Central Pacific Tropical Weather Outlook
+
+ <br />
+ 000<br />
+ ACPN50 PHFO 211739<br />
+ TWOCP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS Central Pacific Hurricane Center Honolulu HI<br />
+ 800 AM HST Mon Oct 21 2024<br />
+ <br />
+ For the central North Pacific...between 140W and 180W:<br />
+ <br />
+ No tropical cyclones are expected during the next 7 days.<br />
+ <br />
+ $$<br />
+ Forecaster Kino<br />
+  
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## SPC - No watches are valid as of Mon Oct 21 17:24:02 UTC 2024
+
+date: 2024-10-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Mon Oct 21 17:24:02 UTC 2024. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC Oct 21, 2024 1730 UTC Day 2 Convective Outlook
+
+date: 2024-10-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1219 PM CDT Mon Oct 21 2024
+
+Valid 221200Z - 231200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+No severe thunderstorms are forecast on Tuesday.
+
+...Synopsis...
+A shortwave trough is forecast to be over western IA early Tuesday
+morning before continuing northeastward throughout the day across
+the Mid/Upper MS Valley and Upper Great Lakes and becoming absorbed
+in the stronger westerlies. Isolated to widely scattered elevated
+thunderstorms are possible Tuesday morning ahead of this wave across
+the Mid MS Valley. Buoyancy will be modest, which should temper
+updraft strength in most of these storms. However, relatively cool
+mid-level temperatures and enhanced mid-level flow could result in
+enough buoyancy and shear for a few instances of small hail.
+
+Another shortwave trough is expected to progress through the
+Canadian Prairies on Tuesday. This shortwave is expected to amplify
+considerably as it moves into far northwestern Ontario. By 12Z
+Wednesday, this shortwave is expected to extend from the Hudson Bay
+through western Ontario and the Upper Midwest. A surface low will
+precede this system, with an attendant cold front pushing
+southeastward across the Upper Midwest and Upper Great Lakes.
+Low-level moisture in the vicinity of this front will be minimal,
+but increasing mid-level moisture coupled with cold mid-level
+temperatures could still promote enough buoyancy for a few deeper
+updrafts capable of producing lightning from northern MN into far
+northern WI and western upper MI. 
+
+Lastly, a thunderstorm or two appears possible across southern
+portions of far west TX/TX Big Bend vicinity Tuesday afternoon.
+Here, some airmass destabilization appears possible amid strong
+heating, and there could be just enough low-level convergence for
+convective initiation. Overall coverage in this area is currently
+expected to be less than 10%.
+
+..Mosier.. 10/21/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
+
+---
+
+## SPC - No MDs are in effect as of Mon Oct 21 17:24:02 UTC 2024
+
+date: 2024-10-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Mon Oct 21 17:24:02 UTC 2024. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Day 1 Fire Weather Outlook
+
+date: 2024-10-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+1150 AM CDT Mon Oct 21 2024
+
+Valid 211700Z - 221200Z
+
+...NO CRITICAL AREAS...
+
+No changes are needed to the current D1 Fire Weather Outlook. See
+previous discussion below for more information.
+
+..Thornton.. 10/21/2024
+
+.PREV DISCUSSION... /ISSUED 1159 PM CDT Sun Oct 20 2024/
+
+...Synopsis...
+The overall fire weather threat will remain low Monday. A mid to
+upper-level low will traverse the central Plains during the day,
+with southerly surface winds increasing from West TX northward into
+the Upper Midwest. Precipitation chances, cloud cover, and a narrow
+corridor of increasing low-level moisture, however, will accompany
+this aforementioned low keeping RH well above critical thresholds.
+Some areas of minor concern may be from far southeastern KS and
+southwestern MO, northward into IA where slightly lower RH will
+coincide with sustained winds near 15 mph and highly receptive
+fuels. In addition, persistent dry conditions will continue across
+the West where localized elevated conditions appear possible within
+the Snake River Plain. Westerly winds may approach 15-20 mph here.
+These conditions may also extend southward into the northern Great
+Basin, but should remain too localized to warrant any Elevated areas
+at this time.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
+
+---
+
+## SPC Oct 21, 2024 1630 UTC Day 1 Convective Outlook
+
+date: 2024-10-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1105 AM CDT Mon Oct 21 2024
+
+Valid 211630Z - 221200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS LATER THIS
+AFTERNOON/EVENING FROM CENTRAL KS INTO SOUTH CENTRAL NE...
+
+...SUMMARY...
+A few severe thunderstorms with large hail are possible across
+central Kansas into south central Nebraska, mainly from mid
+afternoon to early evening.
+
+...Central Plains...
+A compact upper low over eastern CO will track eastward today into
+the central Plains.  As this occurs, an associated surface Pacific
+cold front / dryline will sweep eastward across KS/northwest OK. 
+The air mass ahead of the front will be moderately moist with
+dewpoints in the 50s to near 60 F, along with at least pockets of
+considerable daytime heating.  This will lead to a corridor of
+potential convective initiation during the peak-heating hours.  Most
+CAM solutions suggest 2-3 mesoscale zones along the boundary where
+robust storms may form.  One is near the weak surface low in
+southern NE where a few low-topped supercells capable of large hail
+and perhaps a tornado are possible.  Another is in the area of
+strongest diurnal CAPE in southern KS where hail should be the main
+concern.  The final one is much lower confidence over southwest OK,
+where only a small minority of CAMs initiate convection.  
+
+Also expanded marginal wind probabilities northeastward into eastern
+NE and northeast KS.  CAPE will be very limited in this region, but
+strong insolation will produce steep low-level lapse rates as
+convection arrives from the west around peak-heating.  This might be
+sufficient for gusty winds in the stronger cells.
+
+..Hart/Gleason.. 10/21/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
 
 ---
 
@@ -74,30 +286,6 @@ potential severe weather threat would likely be after Monday/D8.
 
 ---
 
-## SPC - No watches are valid as of Mon Oct 21 13:04:02 UTC 2024
-
-date: 2024-10-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Mon Oct 21 13:04:02 UTC 2024. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Mon Oct 21 13:04:02 UTC 2024
-
-date: 2024-10-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Mon Oct 21 13:04:02 UTC 2024. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
-
----
-
 ## SPC Oct 21, 2024 1300 UTC Day 1 Convective Outlook
 
 date: 2024-10-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -150,34 +338,6 @@ shifts east of the confined moist sector.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
-## Central Pacific Tropical Weather Outlook
-
-date: 2024-10-21, from: Central Pacific Tropical Weather Outlook
-
- <br />
- 000<br />
- ACPN50 PHFO 211134<br />
- TWOCP <br />
- <br />
- Tropical Weather Outlook<br />
- NWS Central Pacific Hurricane Center Honolulu HI<br />
- 200 AM HST Mon Oct 21 2024<br />
- <br />
- For the central North Pacific...between 140W and 180W:<br />
- <br />
- No tropical cyclones are expected during the next 7 days.<br />
- <br />
- $$<br />
- <br />
- Forecaster Gibbs<br />
-  
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
 
 ---
 

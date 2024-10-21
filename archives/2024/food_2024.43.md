@@ -1,11 +1,109 @@
 ---
 title: food
-updated: 2024-10-21 08:01:07
+updated: 2024-10-21 10:42:27
 ---
 
 # food
 
-(date: 2024-10-21 08:01:07)
+(date: 2024-10-21 10:42:27)
+
+---
+
+## Orange Sherbet
+
+date: 2024-10-21, from: Taste of Home
+
+Beat the heat with a cool and creamy orange sherbet. This homemade treat is the perfect balance of tangy and sweet. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/orange-sherbet/>
+
+---
+
+## Reuse & Compost: Introducing An Eco-Friendly New Coffee Cup
+
+date: 2024-10-21, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. The Aromacup is live on Kickstarter now. 
+
+<br> 
+
+<https://sprudge.com/reuse-compost-introducing-an-eco-friendly-new-coffee-cup-257278.html>
+
+---
+
+## Smashed Sweet Potatoes
+
+date: 2024-10-21, from: Taste of Home
+
+Savory and crispy, these smashed sweet potatoes will enliven any meal. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/smashed-sweet-potatoes/>
+
+---
+
+## Nostalgia Alert! This Affordable Target Quilt Is Exactly Like Christmas at Grandma’s
+
+date: 2024-10-21, from: Taste of Home
+
+<p>Visions of sugarplums will dance in your head when snuggled beneath this beautiful Target Christmas quilt. We can't believe it's so affordable!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/target-christmas-quilt/">Nostalgia Alert! This Affordable Target Quilt Is Exactly Like Christmas at Grandma&#8217;s</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/target-christmas-quilt/>
+
+---
+
+## Klatch Coffee Announces Three New Cafe Locations
+
+date: 2024-10-21, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Inland Empire coffee roaster continues partnership with Sprouts Farmers Market. 
+
+<br> 
+
+<https://sprudge.com/klatch-coffee-announces-three-new-cafe-locations-257259.html>
+
+---
+
+## Roast Magazine Announces 2025 Roaster of the Year Winners
+
+date: 2024-10-21, from: Daily Coffee News
+
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/2025-Roaster-of-the-Year-620x413.jpg" class="attachment-large size-large wp-post-image" alt="2025 Roaster of the Year" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/2025-Roaster-of-the-Year-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/2025-Roaster-of-the-Year-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/2025-Roaster-of-the-Year-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/2025-Roaster-of-the-Year-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/2025-Roaster-of-the-Year.jpg 1200w" sizes="(max-width: 620px) 100vw, 620px" /></div>Dear Green Coffee Roasters and Wonderstate Coffee won Roast magazine’s 21st annual Roaster of the Year award in the Micro and Macro roaster categories, respectively.&#160; The two coffee roasting companies... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/10/21/roast-magazine-announces-2025-roaster-of-the-year-winners/>
+
+---
+
+## Apple Pie Baked Beans
+
+date: 2024-10-21, from: Taste of Home
+
+Apple pie baked beans? Baked beans already balance sweet and savory flavors, so why not? This take on the dish comes together quickly, without the long, slow cooking time needed for beans from scratch. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/apple-pie-baked-beans/>
+
+---
+
+## JDE Peet’s Names Former Kraft Heinz Exec Rafa Oliveira CEO
+
+date: 2024-10-21, from: Daily Coffee News
+
+<div><img width="620" height="443" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/rafael-oliveira-1.jpg" class="attachment-large size-large wp-post-image" alt="rafael-oliveira" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/rafael-oliveira-1.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/rafael-oliveira-1-300x214.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/rafael-oliveira-1-150x107.jpg 150w" sizes="(max-width: 620px) 100vw, 620px" /></div>JDE Peet&#8217;s ended a six-month search for a permanent CEO with the appointment of recent Kraft Heinz executive Rafa Oliveira as CEO. Oliveira is scheduled to take over the position... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/10/21/jde-peets-names-former-kraft-heinz-exec-rafa-oliveira-ceo/>
 
 ---
 

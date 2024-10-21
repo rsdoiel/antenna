@@ -1,11 +1,23 @@
 ---
 title: socal north
-updated: 2024-10-21 08:01:04
+updated: 2024-10-21 10:42:24
 ---
 
 # socal north
 
-(date: 2024-10-21 08:01:04)
+(date: 2024-10-21 10:42:24)
+
+---
+
+## Sunny and warm days ahead
+
+date: 2024-10-21, updated: 2024-10-21, from: The LAist
+
+Expect a warm up this week as we head into fall. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/sunny-warm-weather-los-angeles>
 
 ---
 

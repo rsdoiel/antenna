@@ -1,11 +1,23 @@
 ---
 title: games
-updated: 2024-10-21 08:01:05
+updated: 2024-10-21 10:42:25
 ---
 
 # games
 
-(date: 2024-10-21 08:01:05)
+(date: 2024-10-21 10:42:25)
+
+---
+
+## Where to pre-order the 8BitDo 64 controller for the Analogue 3D
+
+date: 2024-10-21, updated: 2024-10-21, from: Polygon Website
+
+In anticipation of the launch of the new Analogue 3D console, 8BitDo has announced a new Bluetooth controller to be used with the modernized version of the Nintendo 64. The 8BitDo 64 controller doesn’t launch until Mar. 19, but you can currently reserve your $39.99 controller from Amazon. The 8BitDo 64 Bluetooth controller shares a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pre-order/467960/8bitdo-64-controller-analogue-3d-where-to-buy>
 
 ---
 
@@ -59,7 +71,7 @@ Do you feel that? That chill in the air, that tingling sensation at the back of 
 
 ## The strange evolution of the sponsored stream
 
-date: 2024-10-21, updated: 2024-10-18, from: Polygon Website
+date: 2024-10-21, updated: 2024-10-21, from: Polygon Website
 
 There are currently 2,679 playable (for free!) demos for upcoming games on Steam as part of Steam Next Fest — a feast for players and a horrifying statistic if you’re hoping to launch a game next year. Valve knows that’s entirely too many game demos, so they’ve posted a live scoreboard where you can see [&#8230;] 
 

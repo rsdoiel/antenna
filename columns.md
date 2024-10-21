@@ -1,11 +1,437 @@
 ---
 title: columns
-updated: 2024-10-21 08:01:05
+updated: 2024-10-21 10:42:25
 ---
 
 # columns
 
-(date: 2024-10-21 08:01:05)
+(date: 2024-10-21 10:42:25)
+
+---
+
+##  A program that pays farmers to flood their fields to create &#8220;pop-up... 
+
+date: 2024-10-21, updated: 2024-10-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045484-a-program-that-pays-farme>
+
+---
+
+##  Walt Whitman: &#8220;I am large, I contain multitudes.&#8221; Marissa Mayer: &#8220;I Am... 
+
+date: 2024-10-21, updated: 2024-10-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045480-walt-whitman-i-am-large>
+
+---
+
+## I'm sticking with WordPress
+
+date: 2024-10-21, from: Dave Winer's Scripting News
+
+<p>I'm continuing to develop on WordPress. I see the opportunity regardless of what else is going on. </p>
+<p>I could be wrong, I have been before. I kept using Twitter for identity after Musk took over, even though as time went by it was increasingly obvious that developers weren't part of his plan. I've been there before, with Apple, after Jobs came back. We had a great developer community for the web on the Mac, better than anything on Windows or Unix, and the management before Jobs, Heidi Roizen advising Gil Amelio, seemed to value our contribution, even if we weren't prospering. But there was a moment when Jobs introduced the open source equivalent of some of our products -- and that basically spelled the end of our little adventure, since Apple was putting the spotlight on them and not us.</p>
+<p>But it doesn't always go that way. I kept investing in the Mac in 1985, a very bad year for Apple, and in 1986 we had a huge hit, and because we were almost alone in sticking it out, we were rewarded with booming sales. Of course it mattered that MORE was a lovely product. But if no one looks, it doesn't matter how lovely it is! </p>
+<p>Anyway, the WordPress world is huge. Far bigger than the blogosphere in the 90s and 00s. Maybe somehow the trouble with WordPress will mean that people who see WordPress as a writing platform will all leave now, or stop considering new ways of writing. But honestly I don't think that's very likely. I have a few sites at wordpress.com that are archives, that I pay for, that I will continue to pay for. My father's memorial site, for example. Things would have to get incomprehensibly bad for me to consider moving it and where exactly would I move it?</p>
+<p>But on the other hand, there isn't anything else out there that's offering something new for the writers. I think I'm pretty much alone working in this area. And maybe people need some good news? </p>
+<p>My new product is a medium size writing tool. Less than a full word processor and more than a <a href="http://scripting.com/2024/01/14/031201.html">tiny little text box</a>. I think there are a lot of WordPress users who will like it. And I think there's a chance they might notice it. So I'm going all the way with this one. I may lose the bet, but wtf, let's give it a try.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2024/10/21/155259.html?title=imStickingWithWordpress>
+
+---
+
+## 2024-10-18 Firefox/72
+
+date: 2024-10-21, from: Alex Schroeder's Blog
+
+<h1 id="2024-10-18-firefox-72">2024-10-18 Firefox/72</h1>
+
+<blockquote>
+<p>I’ve now seen this shit running on systems hosted by: Amazon, Google, Carnegie Mellon University, NVidia, Oracle, University of Texas, San Diego Super Computing Center, Alibaba, University of Edinburgh, Huawei, Intel, Coreweave, Samsung, Hong Kong University, University of Washington… and dozens, or perhaps hundreds more. This shit makes requests from the United States, Germany, China, Australia, Hong Kong, Singapore, United Kingdom, Netherlands, Portugal… and so on, and so on. – <a href="https://imho.alex-kunz.com/2024/02/25/block-this-shit/">Block This Shit</a> by <a class="account" href="https://mas.to/@alexskunz" title="@alexskunz@mas.to">@alexskunz</a></p>
+</blockquote>
+
+<p>I decided to see whether this bot was scraping my pages, too.
+Here&rsquo;s how to use <a href="/admin/network-lookup">network-lookup</a> to see who&rsquo;s doing it:</p>
+
+<pre><code>grep &quot;Firefox/72&quot; /var/log/apache2/access.log \
+ | tail -n 100 \
+ | bin/admin/network-lookup \
+ &gt; result.log
+</code></pre>
+
+<p>What I intend to do is to get all the <code>ipset add …</code> instructions from that log file and add it to the ban hammer, <a href="/admin/ban-cidr">ban-cidr</a>.</p>
+
+<p>Let&rsquo;s look at the organisations hosting that bot:</p>
+
+<table>
+<thead>
+<tr>
+<th align="right">Range</th>
+<th align="right">Hits</th>
+<th>Org</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="right">160.91.0.0/16</td>
+<td align="right">15</td>
+<td>Oak Ridge National Laboratory / OREN</td>
+</tr>
+
+<tr>
+<td align="right">20.64.0.0/10</td>
+<td align="right">12</td>
+<td>MSFT / Microsoft Corporation</td>
+</tr>
+
+<tr>
+<td align="right">3.36.0.0/14</td>
+<td align="right">10</td>
+<td>AMAZON-ICN / AWS Asia Pacific (Seoul) Region</td>
+</tr>
+
+<tr>
+<td align="right">35.222.104.0/21</td>
+<td align="right">7</td>
+<td>Google LLC / GOOGLE-CLOUD</td>
+</tr>
+
+<tr>
+<td align="right">34.30.0.0/16</td>
+<td align="right">6</td>
+<td>GOOGL-2 / Google LLC</td>
+</tr>
+
+<tr>
+<td align="right">35.239.48.0/20</td>
+<td align="right">6</td>
+<td>Google LLC / GOOGLE-CLOUD</td>
+</tr>
+
+<tr>
+<td align="right">34.27.0.0/16</td>
+<td align="right">4</td>
+<td>GOOGL-2 / Google LLC</td>
+</tr>
+
+<tr>
+<td align="right">31.13.168.0/23</td>
+<td align="right">3</td>
+<td>NET-DEM-4SITSOLUTIONS / TWK-NET-CUSTOMER1</td>
+</tr>
+
+<tr>
+<td align="right">117.161.0.0/16</td>
+<td align="right">3</td>
+<td>CMNET / China Mobile / ORG-CM1-AP / China Mobile communications corporation</td>
+</tr>
+
+<tr>
+<td align="right">82.156.0.0/18</td>
+<td align="right">2</td>
+<td>IPv4 address block not managed by the RIPE NCC / NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK</td>
+</tr>
+
+<tr>
+<td align="right">34.121.48.0/20</td>
+<td align="right">2</td>
+<td>GOOGL-2 / Google LLC</td>
+</tr>
+
+<tr>
+<td align="right">35.223.240.0/20</td>
+<td align="right">2</td>
+<td>GOOGLE-CLOUD / Google LLC</td>
+</tr>
+
+<tr>
+<td align="right">35.225.64.0/20</td>
+<td align="right">2</td>
+<td>GOOGLE-CLOUD / Google LLC</td>
+</tr>
+
+<tr>
+<td align="right">3.34.0.0/15</td>
+<td align="right">2</td>
+<td>AMAZON-ICN / AWS Asia Pacific (Seoul) Region</td>
+</tr>
+
+<tr>
+<td align="right">15.164.0.0/15</td>
+<td align="right">2</td>
+<td>AT-88-Z / Amazon Technologies Inc.</td>
+</tr>
+
+<tr>
+<td align="right">34.123.224.0/20</td>
+<td align="right">1</td>
+<td>GOOGL-2 / Google LLC</td>
+</tr>
+
+<tr>
+<td align="right">34.45.0.0/16</td>
+<td align="right">1</td>
+<td>GOOGL-2 / Google LLC</td>
+</tr>
+
+<tr>
+<td align="right">47.252.0.0/18</td>
+<td align="right">1</td>
+<td>ALIBABA CLOUD - US</td>
+</tr>
+
+<tr>
+<td align="right">45.38.206.0/24</td>
+<td align="right">1</td>
+<td>EGN-22 / EGIHosting</td>
+</tr>
+
+<tr>
+<td align="right">34.72.112.0/20</td>
+<td align="right">1</td>
+<td>Google LLC / GOOGL-2</td>
+</tr>
+
+<tr>
+<td align="right">121.30.0.0/16</td>
+<td align="right">1</td>
+<td>UNICOM-SX / CNC Group CHINA169 Shan1xi Province Network</td>
+</tr>
+
+<tr>
+<td align="right">104.198.48.0/20</td>
+<td align="right">1</td>
+<td>GOOGLE-CLOUD / Google LLC</td>
+</tr>
+
+<tr>
+<td align="right">34.68.176.0/20</td>
+<td align="right">1</td>
+<td>GOOGL-2 / Google LLC</td>
+</tr>
+
+<tr>
+<td align="right">34.68.96.0/20</td>
+<td align="right">1</td>
+<td>GOOGL-2 / Google LLC</td>
+</tr>
+
+<tr>
+<td align="right">34.16.0.0/17</td>
+<td align="right">1</td>
+<td>GOOGL-2 / Google LLC</td>
+</tr>
+
+<tr>
+<td align="right">34.122.64.0/20</td>
+<td align="right">1</td>
+<td>GOOGL-2 / Google LLC</td>
+</tr>
+
+<tr>
+<td align="right">35.239.16.0/20</td>
+<td align="right">1</td>
+<td>GOOGLE-CLOUD / Google LLC</td>
+</tr>
+
+<tr>
+<td align="right">202.120.234.0/24</td>
+<td align="right">1</td>
+<td>CERNET-CN / Beijing, 100084</td>
+</tr>
+
+<tr>
+<td align="right">104.154.160.0/20</td>
+<td align="right">1</td>
+<td>GOOGLE-CLOUD / Google LLC</td>
+</tr>
+
+<tr>
+<td align="right">34.70.112.0/20</td>
+<td align="right">1</td>
+<td>Google LLC / GOOGL-2</td>
+</tr>
+
+<tr>
+<td align="right">35.224.160.0/20</td>
+<td align="right">1</td>
+<td>GOOGLE-CLOUD / Google LLC</td>
+</tr>
+
+<tr>
+<td align="right">34.66.128.0/20</td>
+<td align="right">1</td>
+<td>GOOGL-2 / Google LLC</td>
+</tr>
+
+<tr>
+<td align="right">34.133.16.0/20</td>
+<td align="right">1</td>
+<td>Google LLC / GOOGL-2</td>
+</tr>
+
+<tr>
+<td align="right">109.171.128.0/18</td>
+<td align="right">1</td>
+<td>KAUST Section 1 / King Abdullah University of Science and Technology / ORG-KAUo2-RIPE / SA-KAUST-20091118</td>
+</tr>
+
+<tr>
+<td align="right">34.68.144.0/20</td>
+<td align="right">1</td>
+<td>Google LLC / GOOGL-2</td>
+</tr>
+
+<tr>
+<td align="right">8.130.0.0/16</td>
+<td align="right">1</td>
+<td>Alibaba.com Singapore E-Commerce Private Limited / ALICLOUD</td>
+</tr>
+
+<tr>
+<td align="right">34.122.128.0/20</td>
+<td align="right">1</td>
+<td>GOOGL-2 / Google LLC</td>
+</tr>
+</tbody>
+</table>
+<p>To get a feel for the level of incompetence of the engineers behind it, check out this example:</p>
+
+<pre><code>20.64.0.0/10 | 20.112.49.107 | 18/Oct/2024:14:58:37 +0200 | GET /cw?action=download;id=MattisManzelPortrait HTTP/1.1 | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0
+20.64.0.0/10 | 20.112.49.107 | 18/Oct/2024:14:58:37 +0200 | GET /cw?action=download;id=MattisManzelPortrait HTTP/1.1 | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0
+20.64.0.0/10 | 20.112.49.107 | 18/Oct/2024:14:58:38 +0200 | GET /cw?action=download;id=MattisManzelPortrait HTTP/1.1 | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0
+20.64.0.0/10 | 20.112.49.107 | 18/Oct/2024:14:58:39 +0200 | GET /wiki?action=download;id=MattisManzelPortrait HTTP/1.1 | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0
+20.64.0.0/10 | 20.112.49.107 | 18/Oct/2024:14:58:40 +0200 | GET /cw?action=download;id=MattisManzelPortrait HTTP/1.1 | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0
+20.64.0.0/10 | 20.112.49.107 | 18/Oct/2024:14:58:40 +0200 | GET /cw?action=download;id=MattisManzelPortrait HTTP/1.1 | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0
+20.64.0.0/10 | 20.112.49.107 | 18/Oct/2024:14:58:41 +0200 | GET /cw?action=download;id=MattisManzelPortrait HTTP/1.1 | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0
+20.64.0.0/10 | 20.112.49.107 | 18/Oct/2024:14:58:41 +0200 | GET /wiki?action=download;id=MattisManzelPortrait HTTP/1.1 | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0
+20.64.0.0/10 | 20.112.49.107 | 18/Oct/2024:14:58:42 +0200 | GET /cw?action=download;id=MattisManzelPortrait HTTP/1.1 | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0
+20.64.0.0/10 | 20.112.49.107 | 18/Oct/2024:14:58:42 +0200 | GET /cw?action=download;id=MattisManzelPortrait HTTP/1.1 | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0
+20.64.0.0/10 | 20.112.49.107 | 18/Oct/2024:14:58:43 +0200 | GET /cw?action=download;id=MattisManzelPortrait HTTP/1.1 | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0
+20.64.0.0/10 | 20.112.49.107 | 18/Oct/2024:14:58:43 +0200 | GET /wiki?action=download;id=MattisManzelPortrait HTTP/1.1 | Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0
+</code></pre>
+
+<p>Every fucking second‽</p>
+
+<p>Now, a decision needs to be made:</p>
+
+<ul>
+<li>I could ban all the requests this bot makes by banning the specific user agent string.</li>
+<li>I could ban the networks that host this bot on the premise that they&rsquo;ll probably also host other harmful bots.</li>
+</ul>
+
+<p>Guess which option I&rsquo;m taking?</p>
+
+<p>Remember: <a href="2023-10-04-search">2023-10-04 Search engines, the deal is off!</a>:</p>
+
+<blockquote>
+<p>For a while it seemed that we all benefited from search engines – authors and readers both. These days, you’ll find that search results are full of garbage sites. Big sites with the most flatulent of pages explaining in great detail why the thing you’re looking for is important and how to do it, clearly optimized for an ad company and not for a reader. Big sites that have a gazillion answers are preferred over small and individual sites. Perhaps that’s easier. Perhaps it allows them to diffuse responsibility for the garbage, I don’t know. The effect is, in any case, that there is no benefit to search engines for small site authors, either. I was unable to find my own pages on the search engines. If you you are a small site owner and you think you can find your own pages on Google and Bing, I suspect that’s because they track you. Try it on a different computer, anonymously. Perhaps you won’t find yourself, either.</p>
+
+<p>In any case, if I can’t get anything in return, both as a reader and as an author, I feel that the deal is off. Why let them feed on my words for free? Nay, at a cost, since they are keeping my website busy, producing CO₂ and heating the planet for no benefit at all.</p>
+
+<p>Better to block them all.</p>
+</blockquote>
+
+<p>Here we go:</p>
+
+<pre><code>grep ipset result.log|sh
+</code></pre>
+
+<p>That&rsquo;s because <code>network-lookup</code> is kind enough to include the appropriate <code>ipset</code> instructions:</p>
+
+<pre><code>ipset add banlist 160.91.0.0/16 # Oak Ridge National Laboratory / OREN
+ipset add banlist 20.64.0.0/10 # MSFT / Microsoft Corporation
+ipset add banlist 3.36.0.0/14 # AMAZON-ICN / AWS Asia Pacific (Seoul) Region
+ipset add banlist 35.222.104.0/21 # Google LLC / GOOGLE-CLOUD
+ipset add banlist 34.30.0.0/16 # GOOGL-2 / Google LLC
+ipset add banlist 35.239.48.0/20 # Google LLC / GOOGLE-CLOUD
+ipset add banlist 34.27.0.0/16 # GOOGL-2 / Google LLC
+ipset add banlist 31.13.168.0/23 # NET-DEM-4SITSOLUTIONS / TWK-NET-CUSTOMER1
+ipset add banlist 117.161.0.0/16 # CMNET / China Mobile / ORG-CM1-AP / China Mobile communications corporation
+ipset add banlist 82.156.0.0/18 # IPv4 address block not managed by the RIPE NCC / NON-RIPE-NCC-MANAGED-ADDRESS-BLOCK
+ipset add banlist 34.121.48.0/20 # GOOGL-2 / Google LLC
+ipset add banlist 35.223.240.0/20 # GOOGLE-CLOUD / Google LLC
+ipset add banlist 35.225.64.0/20 # GOOGLE-CLOUD / Google LLC
+ipset add banlist 3.34.0.0/15 # AMAZON-ICN / AWS Asia Pacific (Seoul) Region
+ipset add banlist 15.164.0.0/15 # AT-88-Z / Amazon Technologies Inc.
+ipset add banlist 34.123.224.0/20 # GOOGL-2 / Google LLC
+ipset add banlist 34.45.0.0/16 # GOOGL-2 / Google LLC
+ipset add banlist 47.252.0.0/18 # ALIBABA CLOUD - US
+ipset add banlist 45.38.206.0/24 # EGN-22 / EGIHosting
+ipset add banlist 34.72.112.0/20 # Google LLC / GOOGL-2
+ipset add banlist 121.30.0.0/16 # UNICOM-SX / CNC Group CHINA169 Shan1xi Province Network
+ipset add banlist 104.198.48.0/20 # GOOGLE-CLOUD / Google LLC
+ipset add banlist 34.68.176.0/20 # GOOGL-2 / Google LLC
+ipset add banlist 34.68.96.0/20 # GOOGL-2 / Google LLC
+ipset add banlist 34.16.0.0/17 # GOOGL-2 / Google LLC
+ipset add banlist 34.122.64.0/20 # GOOGL-2 / Google LLC
+ipset add banlist 35.239.16.0/20 # GOOGLE-CLOUD / Google LLC
+ipset add banlist 202.120.234.0/24 # CERNET-CN / Beijing, 100084
+ipset add banlist 104.154.160.0/20 # GOOGLE-CLOUD / Google LLC
+ipset add banlist 34.70.112.0/20 # Google LLC / GOOGL-2
+ipset add banlist 35.224.160.0/20 # GOOGLE-CLOUD / Google LLC
+ipset add banlist 34.66.128.0/20 # GOOGL-2 / Google LLC
+ipset add banlist 34.133.16.0/20 # Google LLC / GOOGL-2
+ipset add banlist 109.171.128.0/18 # KAUST Section 1 / King Abdullah University of Science and Technology / ORG-KAUo2-RIPE / SA-KAUST-20091118
+ipset add banlist 34.68.144.0/20 # Google LLC / GOOGL-2
+ipset add banlist 8.130.0.0/16 # Alibaba.com Singapore E-Commerce Private Limited / ALICLOUD
+ipset add banlist 34.122.128.0/20 # GOOGL-2 / Google LLC
+</code></pre>
+
+<p>Thanks for nothing, leeches!</p>
+
+<p>Oh, and of course I have an Apache config file called &ldquo;blocklist.conf&rdquo; where I added the following:</p>
+
+<pre><code># Deny the image scraper
+# https://imho.alex-kunz.com/2024/02/25/block-this-shit/
+RewriteCond &quot;%{HTTP_USER_AGENT}&quot; &quot;Firefox/72.0&quot; [nocase]
+RewriteRule ^ https://alexschroeder.ch/nobots [redirect=410,last]
+</code></pre>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a></p>
+
+<p>And more!</p>
+
+<pre><code>ipset add banlist 198.82.0.0/16 # Virginia Polytechnic Institute and State Univ. / VPI-BLK
+ipset add banlist 34.31.0.0/16 # Google LLC / GOOGL-2
+ipset add banlist 34.72.32.0/20 # GOOGL-2 / Google LLC
+ipset add banlist 35.238.176.0/20 # Google LLC / GOOGLE-CLOUD
+ipset add banlist 34.173.0.0/17 # Google LLC / GOOGL-2
+ipset add banlist 35.223.128.0/20 # GOOGLE-CLOUD / Google LLC
+ipset add banlist 34.172.128.0/17 # Google LLC / GOOGL-2
+ipset add banlist 35.202.224.0/20 # Google LLC / GOOGLE-CLOUD
+ipset add banlist 34.69.112.0/20 # GOOGL-2 / Google LLC
+ipset add banlist 34.136.224.0/20 # Google LLC / GOOGL-2
+ipset add banlist 72.52.64.0/18 # Hurricane Electric LLC / HURRICANE-8
+</code></pre> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2024-10-18-firefox-72>
+
+---
+
+##  Early 90s SNL Graphic Parodies 
+
+date: 2024-10-21, updated: 2024-10-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/early-90s-snl-graphic-parodies>
 
 ---
 

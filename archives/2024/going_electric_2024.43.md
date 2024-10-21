@@ -1,11 +1,103 @@
 ---
 title: going electric
-updated: 2024-10-21 08:01:07
+updated: 2024-10-21 10:42:27
 ---
 
 # going electric
 
-(date: 2024-10-21 08:01:07)
+(date: 2024-10-21 10:42:27)
+
+---
+
+## Tesla is still unclear on the names of its new autonomous vehicles, files new trademarks
+
+date: 2024-10-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Robovan_95-e1728925469514.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla still appears unclear about the names of its new autonomous vehicles, which were unveiled earlier this month. The automaker has filed for new trademarks.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="385276" href="https://electrek.co/2024/10/21/tesla-is-still-unclear-on-the-names-of-its-new-autonomous-vehicles-files-new-trademarks/#more-385276" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/21/tesla-is-still-unclear-on-the-names-of-its-new-autonomous-vehicles-files-new-trademarks/>
+
+---
+
+## More cops on electric bicycles are pulling cars over in traffic stops
+
+date: 2024-10-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/08/laps-electric-bike-cops.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The next time you run that stop sign and hear a siren click on behind you, the blue and red lights in your rear view mirror might look a bit different. But don’t let the bicycle helmet fool you, that ticket is going to sting just the same even if it comes from a police officer riding an e-bike instead of a motorcycle or police car.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,police" data-layer-viewtype="unknown" data-post-id="384231" href="https://electrek.co/2024/10/21/more-cops-on-electric-bicycles-are-pulling-cars-over-in-traffic-stops/#more-384231" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/21/more-cops-on-electric-bicycles-are-pulling-cars-over-in-traffic-stops/>
+
+---
+
+## 2025 Mustang Mach-E drops with heatpump, smaller frunk, $36K price, more
+
+date: 2024-10-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/image_c42cac.png?w=1059" /></div><p>Ford has been busy with incremental updates to its popular Mustang Mach-E and they showed off the 2025 version to journalists this week. Here’s what we saw:</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="385201" href="https://electrek.co/2024/10/21/2025-mustang-mach-e-drops-with-heatpump-smaller-frunk-36k-price-more/#more-385201" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/21/2025-mustang-mach-e-drops-with-heatpump-smaller-frunk-36k-price-more/>
+
+---
+
+## Hyundai Casper EV undercuts gas-powered rivals with new battery lease plan
+
+date: 2024-10-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Hyundai-Casper-EV-battery.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai continues making EVs more affordable. After introducing a new Battery Care Lease plan in Korea, <a href="https://electrek.co/guides/hyundai/">Hyundai</a> said Casper EV prices rival gas-powered models in its class.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="385241" href="https://electrek.co/2024/10/21/hyundai-casper-ev-undercuts-ice-rivals-new-battery-plan/#more-385241" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/21/hyundai-casper-ev-undercuts-ice-rivals-new-battery-plan/>
+
+---
+
+## China's Auto Industry Has The World On Notice. Here, It's Already Winning
+
+date: 2024-10-21, from: Inside EVs News
+
+As Europe reckons with intensifying EV competition, China Inc. is making much bigger moves elsewhere. 
+
+<br> 
+
+<https://insideevs.com/news/738056/chinese-industry-latin-america/>
+
+---
+
+## Tesla delays Cybertruck’s range extender, reduces its range
+
+date: 2024-10-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Screenshot-2024-07-27-at-4.40.41 PM.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has further delayed production of Cybertruck’s range extender and reduced the range that it will add to the electric pickup truck.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="385208" href="https://electrek.co/2024/10/21/tesla-delays-cybertrucks-range-extender-reduces-its-range/#more-385208" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/21/tesla-delays-cybertrucks-range-extender-reduces-its-range/>
 
 ---
 
@@ -33,7 +125,7 @@ date: 2024-10-21, from: Electrek Feed
 
 
 
- <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="385204" href="https://electrek.co/2024/10/21/zeekr-begins-mass-production-mix-ev-official-launch-this-week/#more-385204" class="more-link">more…</a> 
+ <a data-layer-pagetype="post" data-layer-postcategory="zeekr,zeekr-mix" data-layer-viewtype="unknown" data-post-id="385204" href="https://electrek.co/2024/10/21/zeekr-begins-mass-production-mix-ev-official-launch-this-week/#more-385204" class="more-link">more…</a> 
 
 <br> 
 

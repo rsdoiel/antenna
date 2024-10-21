@@ -1,11 +1,76 @@
 ---
 title: writing
-updated: 2024-10-21 08:01:05
+updated: 2024-10-21 10:42:25
 ---
 
 # writing
 
-(date: 2024-10-21 08:01:05)
+(date: 2024-10-21 10:42:25)
+
+---
+
+## How long does it take to write a screenplay?
+
+date: 2024-10-21, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-long-does-it-take-to-write-a-screenplay" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/How%20Long%20Does%20It%20Take%20To%20Write%20a%20Screenplay%3F.jpg" alt="How long does it take to write a screenplay?" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span>An aspiring screenwriter might wonder: how long does it take to write a screenplay?</span></p> 
+
+<br> 
+
+<https://blog.finaldraft.com/how-long-does-it-take-to-write-a-screenplay>
+
+---
+
+## Owen Wins Endeavour
+
+date: 2024-10-21, from: Locus Magazine
+
+<p>The winner for the Endeavour Award was announced at OryCon 44, held October 18-20, 2024, in Portland OR.</p>
+<div class="mynomorebulletlist">
+<ul>
+<li>WINNER: <strong>Painted Devils</strong>, Margaret Owen (Holt)</li>
+</ul>
+<ul>
+<li><strong>Bookshops &#38; Bonedust</strong>, Travis Baldree (Tor)</li>
+<li><strong>Vampires of El Norte</strong>, Isabel Cañas (Berkley)</li>
+<li><strong>Again and Again</strong>, Jonathan Evison (Dutton)</li>
+<li><strong>Sleep No More</strong>, Seanan McGuire (DAW)</li>
+</ul>
+<p>The prize recognizes &#8220;a distinguished science fiction or fantasy book written by a Pacific Northwest author </p></div> <a href="https://locusmag.com/2024/10/owen-wins-endeavour/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2024/10/owen-wins-endeavour/>
+
+---
+
+## Spotlight on The Deadlands and Psychopomp
+
+date: 2024-10-21, from: Locus Magazine
+
+<p></p>
+<p><strong>Tell us about your magazine, The Deadlands. When was it founded, and who’s on the publish­ing team?</strong></p>
+<p>The Deadlands is spec-fic/literary zine all about death. It launched in May 2021. In late 2020 I (Sean Markey) brought the idea to E. Catherine Tobler (Elise), whom I knew from when she was the editor in chief of Shimmer, which had closed down a few years before. The publisher of Shimmer, Beth  <a href="https://locusmag.com/2024/10/spotlight-on-the-deadlands-and-psychopomp/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/10/spotlight-on-the-deadlands-and-psychopomp/>
+
+---
+
+## Asimov’s: Short Fiction Reviews by A.C. Wise
+
+date: 2024-10-21, from: Locus Magazine
+
+<p>Asimov’s 7-8/24</p>
+<p>The July/August issue of Asimov’s opens with the novella “<strong>Sisters of the Flare</strong>” by <strong>Stephen Case</strong>, set in the same world as the author’s earlier story “Daughters of the Lattice”, though in a differ­ent time period. The story focuses on Tars, who encounters a woman named Petrichora who has forsaken her vows as is now on the run. Tars and Petrichora’s story is interwoven with  <a href="https://locusmag.com/2024/10/asimovs-short-fiction-reviews-by-a-c-wise/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/10/asimovs-short-fiction-reviews-by-a-c-wise/>
 
 ---
 

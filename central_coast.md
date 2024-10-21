@@ -1,11 +1,25 @@
 ---
 title: central coast
-updated: 2024-10-21 08:01:05
+updated: 2024-10-21 10:42:25
 ---
 
 # central coast
 
-(date: 2024-10-21 08:01:05)
+(date: 2024-10-21 10:42:25)
+
+---
+
+## Colleen Magee-Sitolini to Lead Board at Hearts Aligned, Inc.
+
+date: 2024-10-21, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Hearts Aligned, Inc. has elected Colleen Magee-Sitolini as its board chairperson and Lucy Kohansamad was elected board secretary. Magee-Sitolini, who previously served as board secretary, has some 30 years of [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/colleen-magee-sitolini-to-lead-board-at-hearts-aligned-inc/">Colleen Magee-Sitolini to Lead Board at Hearts Aligned, Inc.</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/colleen-magee-sitolini-to-lead-board-at-hearts-aligned-inc/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2024-10-21 08:01:05
 
 date: 2024-10-21, from: Newshawk, the freshest news in Santa Barbara County
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Patricia-Tangney.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Pretty in pink." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Patricia-Tangney.jpeg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Patricia-Tangney.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Patricia-Tangney.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Patricia-Tangney.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Patricia-Tangney.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Patricia-Tangney.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Patricia-Tangney.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Patricia-Tangney.jpeg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Patricia-Tangney.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Patricia-Tangney.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Patricia-Tangney.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Patricia-Tangney.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Patricia-Tangney.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Pretty in pink." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Patricia-Tangney.jpeg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Patricia-Tangney.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Patricia-Tangney.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Patricia-Tangney.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Patricia-Tangney.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Patricia-Tangney.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Patricia-Tangney.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Patricia-Tangney.jpeg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Patricia-Tangney.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Patricia-Tangney.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Patricia-Tangney.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/093024-POD-Patricia-Tangney.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The post <a href="https://www.noozhawk.com/pretty-in-pink/">Pretty in Pink</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  
 

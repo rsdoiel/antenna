@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2024-10-21 08:01:06
+updated: 2024-10-21 10:42:26
 ---
 
 # libraries
 
-(date: 2024-10-21 08:01:06)
+(date: 2024-10-21 10:42:26)
 
 ---
 
@@ -18,6 +18,30 @@ Weinold, Michael
 <br> 
 
 <http://hdl.handle.net/20.500.11850/693922>
+
+---
+
+## The Mother, by Pearl S. Buck
+
+date: 2024-10-21, from: Standard Ebooks, new releaases
+
+In a remote Chinese village, a devoted mother’s fierce love for her family is tested as she struggles to keep them fed, healthy, and together in the face of grinding poverty and looming change. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/pearl-s-buck/the-mother>
+
+---
+
+## Mauprat, by George Sand
+
+date: 2024-10-21, from: Standard Ebooks, new releaases
+
+A man recounts the story of how he was saved from a life of vice and infamy. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/george-sand/mauprat/stanley-young>
 
 ---
 

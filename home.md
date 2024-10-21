@@ -1,11 +1,63 @@
 ---
 title: home
-updated: 2024-10-21 08:01:06
+updated: 2024-10-21 10:42:26
 ---
 
 # home
 
-(date: 2024-10-21 08:01:06)
+(date: 2024-10-21 10:42:26)
+
+---
+
+## Tribal Stewardship for Resilient Forest Socio-Ecosystems
+
+date: 2024-10-21, from: California Native Plants Society
+
+<p>The Yurok Tribe and partners are restoring northwest California forests using Indigenous knowledge to boost resilience to wildfires, drought, and pests while supporting vital cultural resources.</p>
+<p>The post <a href="https://www.cnps.org/artemisia-journal/tribal-stewardship-for-resilient-forest-socio-ecosystems-40747">Tribal Stewardship for Resilient Forest Socio-Ecosystems</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/artemisia-journal/tribal-stewardship-for-resilient-forest-socio-ecosystems-40747>
+
+---
+
+## This $1.1M Home in Upstate New York Is Ready for Your Next Fall Getaway
+
+date: 2024-10-21, from: Dwell
+
+Set next to an Audubon sanctuary, the remodeled ’80s residence has original wood beams, an open-plan living area, and forest views in every direction. 
+
+<br> 
+
+<https://www.dwell.com/article/contemporary-home-renovation-stanfordville-upstate-new-york-real-estate-6777eac5>
+
+---
+
+## This 260-Square-Foot Apartment Is Packed With Surprises
+
+date: 2024-10-21, from: Dwell
+
+The tiny space features integrated storage, fold-out furniture, and a Yves Klein blue kitchen. 
+
+<br> 
+
+<https://www.dwell.com/article/this-260-square-foot-apartment-is-packed-with-surprises-7a38d305>
+
+---
+
+## When and How to Fertilize Orchids
+
+date: 2024-10-21, from: The Gardener's Path
+
+<p>With their ornate blooms and glossy foliage, perennial flowering orchids resemble works of fine art and delight expert and amateur growers alike. Part of caring for these unique plants is knowing when and how to fertilize for the best floral display. Learn more about fertilizing orchids in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/fertilize-orchids/">When and How to Fertilize Orchids</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/fertilize-orchids/>
 
 ---
 
@@ -36,6 +88,18 @@ date: 2024-10-21, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/orchid-care-and-growing-guide-detailed-instructions/>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-10-21, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 

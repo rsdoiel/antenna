@@ -1,11 +1,71 @@
 ---
 title: journalism
-updated: 2024-10-21 08:01:06
+updated: 2024-10-21 10:42:25
 ---
 
 # journalism
 
-(date: 2024-10-21 08:01:06)
+(date: 2024-10-21 10:42:25)
+
+---
+
+## LIVE: Graduate Students for Justice in Palestine demonstration
+
+date: 2024-10-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Daily Bruin covers breaking news relevant to the UCLA community as it happens. This page will be updated with live coverage of the current event. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/21/live-graduate-students-for-justice-in-palestine-demonstration/>
+
+---
+
+## The Influence of Print Posters on Our Daily Lives
+
+date: 2024-10-21, from: The Sundail (CSUN Student Newspaper)
+
+Print posters have been a part of our lives for centuries. From simple advertisements to elaborate works of art, they have a way of catching our eye and leaving a... 
+
+<br> 
+
+<https://sundial.csun.edu/186415/sundialbrandstudio/sundial-marketplace/the-influence-of-print-posters-on-our-daily-lives/>
+
+---
+
+## Students swab for a cause: Alpha Epsilon Pi’s marrow registry event at CSUN
+
+date: 2024-10-21, from: The Sundail (CSUN Student Newspaper)
+
+The Chi Nu Chapter of Alpha Epsilon Pi, the Jewish Fraternity at CSUN, hosted an informational table in front of the campus bookstore during the week of Oct. 14 to... 
+
+<br> 
+
+<https://sundial.csun.edu/186409/arts-entertainment/students-swab-for-a-cause-alpha-epsilon-pis-marrow-registry-event-at-csun/>
+
+---
+
+## Papel picado event celebrates Dia de los Muertos
+
+date: 2024-10-21, from: The Sundail (CSUN Student Newspaper)
+
+Students called upon the spirits of their loved ones to honor and be present with them in creating “papel picado” after Candy Angel-Diaz, also known as the “Nepantlera Art-ivist” blessed... 
+
+<br> 
+
+<https://sundial.csun.edu/186403/arts-entertainment/papel-picado-event-celebrates-dia-de-los-muertos/>
+
+---
+
+## Art and Music Collide at the CSUN Symphony Orchestra performing ‘The Planets’
+
+date: 2024-10-21, from: The Sundail (CSUN Student Newspaper)
+
+In a collaborative effort with conductor John Roscingo, the CSUN Symphony Orchestra worked alongside various departments including choir, photography, video, art, and more, to create a performance that blended live... 
+
+<br> 
+
+<https://sundial.csun.edu/186391/arts-entertainment/art-and-music-collide-at-the-csun-symphony-orchestra-performing-the-planets/>
 
 ---
 

@@ -1,11 +1,197 @@
 ---
 title: north america
-updated: 2024-10-21 08:01:04
+updated: 2024-10-21 10:42:24
 ---
 
 # north america
 
-(date: 2024-10-21 08:01:04)
+(date: 2024-10-21 10:42:24)
+
+---
+
+## US missile deployment to Philippines 'incredibly important' for combat readiness, US general says
+
+date: 2024-10-21, from: VOA News USA
+
+MANILA, Philippines  — The U.S. Army's recent deployment of a midrange missile system to the northern Philippines was "incredibly important" and allowed American and Filipino forces to jointly train for the potential usage of such heavy weaponry in Asian archipelago conditions, a U.S. general said Monday. 
+
+
+The Biden administration has moved to strengthen an arc of military alliances in the Indo-Pacific to better counter China, including in any possible confrontation over Taiwan and other Asian flashpoints. The Philippines has also worked on shoring up its territorial defenses after its disputes with China started to escalate last year in the increasingly volatile South China Sea. 
+
+
+China has vehemently opposed the increased deployment of American combat forces to Asia. But it has been particularly alarmed by the U.S. Army's deployment in April of the Typhon missile system, a land-based weapon that can fire the Standard Missile-6 and the Tomahawk Land Attack Missile, to the northern Philippines as part of joint combat exercises in April with Philippine troops. 
+
+
+"What it does collectively, it provides us the opportunity to understand how to employ that capability — the environmental challenges here are very unique to any other place in the region," U.S. Maj. Gen. Marcus Evans, Commanding General of the Hawaii-based 25th Infantry Division, said when asked how the missile system has helped participants in joint combat training in the Philippines. 
+
+
+
+
+"Last year, we also deployed long-range fires capabilities with HIMARS and we were able to move those around with fixed-wing aircraft around the archipelago environment," Evans told The Associated Press in an interview in Manila, referring to the High Mobility Artillery Rocket Systems, the truck-mounted launchers, which fire GPS-guided missiles capable of hitting distant targets. 
+
+
+"Those are just incredibly important operations because you get to work in the environment, but most importantly, you're working alongside our partners here in the Philippines to understand how those will be integrated into their operations," Evans said without elaborating. 
+
+
+The Typhon missile system was supposed to be flown out of the Philippines last month, but three Philippine security officials told the AP recently that the longtime treaty allies had agreed to keep the missile system in the northern Philippines indefinitely to boost deterrence despite China's expressions of alarm. 
+
+
+The Philippine officials spoke on condition of anonymity because they were not authorized to discuss the sensitive U.S. missile deployment publicly. 
+
+
+Evans flew to Manila to start talks with Philippine army counterparts on holding annual military exercises by the allied forces in the Southeast Asian country next year, particularly the Salaknib drills, which aim to boost the combat-readiness of thousands of American and Filipino troops in increasingly realistic settings. 
+
+
+"Conceptually, it is scheduled to be a larger, more complex exercise," Evans said, adding that there could be joint training maneuvers from the jungles in the northern Philippines to former U.S. military bases in the region. 
+
+
+"We're also planning on bringing new equipment to train alongside our Filipino army teammates that last year we did not have," he said without providing details. 
+
+
+"Our job is to get 1% better each day alongside our Filipino army teammates in terms of readiness," he said. "Those relationships that are built, the readiness that is developed, should remove any doubt about the importance of our alliances and the work we do here with the Philippine army." 
+
+
+Evans and other U.S. Army officials attended a ceremony Sunday marking the anniversary of a historic moment in U.S.-Philippine relations when U.S. Gen. Douglas Macarthur fulfilled his promise to return to the Philippines in October 1944 by wading ashore into the coast of central Leyte province to help lead the liberation of the country from Japanese occupation forces. 
+
+
+On Monday, Evans and his men laid a wreath in an austere ceremony at the American Cemetery in metropolitan Manila, the largest such U.S. World War II cemetery and memorial in the world. 
+
+
+The Leyte Gulf ceremony reflected the long history that had bonded American and Filipino forces in war and peace, he said. 
+
+
+"That trust was built over eight decades," Evans said. 
+
+<br> 
+
+<https://www.voanews.com/a/us-missile-deployment-to-philippines-incredibly-important-for-combat-readiness-us-general-says-/7830479.html>
+
+---
+
+## 'Garbage in, garbage out': AI fails to debunk disinformation, study finds
+
+date: 2024-10-21, from: VOA News USA
+
+Washington — When it comes to combating disinformation ahead of the U.S. presidential elections, artificial intelligence and chatbots are failing, a media research group has found.
+
+
+The latest audit by the research group NewsGuard found that generative AI tools struggle to effectively respond to false narratives.
+
+
+In its latest audit of 10 leading chatbots, compiled in September, NewsGuard found that AI will repeat misinformation 18% of the time and offer a nonresponse 38.33% of the time — leading to a “fail rate” of almost 40%, according to NewsGuard.
+
+
+“These chatbots clearly struggle when it comes to handling prompt inquiries related to news and information,” said McKenzie Sadeghi, the audit’s author. “There's a lot of sources out there, and the chatbots might not be able to discern between which ones are reliable versus which ones aren't.”
+
+
+NewsGuard has a database of false news narratives that circulate, encompassing global wars and U.S. politics, Sadeghi told VOA.
+
+
+Every month, researchers feed trending false narratives into leading chatbots in three different forms: innocent user prompts, leading questions and “bad actor” prompts. From there, the researchers measure if AI repeats, fails to respond or debunks the claims.
+
+
+AI repeats false narratives mostly in response to bad actor prompts, which mirror the tactics used by foreign influence campaigns to spread disinformation. Around 70% of the instances where AI repeated falsehoods were in response to bad actor prompts, as opposed to leading prompts or innocent user prompts.
+
+
+Foreign influence campaigns are able to take advantage of such flaws, according to the Office of the Director of National Intelligence. Russia, Iran and China have used generative AI to “boost their respective U.S. election influence efforts,” according to an intelligence report released last month.
+
+
+As an example of how easily AI chatbots can be misled, Sadeghi cited a NewsGuard study in June that found AI would repeat Russian disinformation if it “masqueraded” as coming from an American local news source.
+
+
+From myths about migrants to falsehoods about FEMA, the spread of disinformation and misinformation has been a consistent theme throughout the 2024 election cycle.
+
+
+
+
+
+
+“Misinformation isn’t new, but generative AI is definitely amplifying these patterns and behaviors,” Sejin Paik, an AI researcher at Georgetown University, told VOA.
+
+
+Because the technology behind AI is constantly changing and evolving, it is often unable to detect erroneous information, Paik said. This leads to not only issues with the factuality of AI’s output, but also the consistency.
+
+
+NewsGuard also found that two-thirds of “high quality” news sites block generative AI models from using their media coverage. As a result, AI often has to learn from lower-quality, misinformation-prone news sources, according to the watchdog.
+
+
+This can be dangerous, experts say. Much of the non-paywalled media that AI trains on is either “propaganda” or “deliberate strategic communication,” media scholar Matt Jordan told VOA.
+
+
+“AI doesn't know anything: It doesn't sift through knowledge, and it can't evaluate claims,” Jordan, a media professor at Penn State, told VOA. “It just repeats based on huge numbers.”
+
+
+AI has a tendency to repeat “bogus” news because statistically, it tends to be trained on skewed and biased information, he added. He called this a “garbage in, garbage out model.”
+
+
+NewsGuard aims to set the standard for measuring accuracy and trustworthiness in the AI industry through monthly surveys, Sadeghi said.
+
+
+The sector is growing fast, even as issues around disinformation are flagged. The generative AI industry has experienced monumental growth in the past few years. OpenAI’s ChatGPT currently reports 200 million weekly users, more than double from last year, according to Reuters.
+
+
+The growth in popularity of these tools leads to another problem in their output, according to Anjana Susarla, a professor in Responsible AI at Michigan State University. Since there is such a high quantity of information going in — from users and external sources — it is hard to detect and stop the spread of misinformation.
+
+
+Many users are still willing to believe the outputs of these chatbots are true, Susarla said.
+
+
+“Sometimes, people can trust AI more than they trust human beings,” she told VOA.
+
+
+The solution to this may be bipartisan regulation, she added. She hopes that the government will encourage social media platforms to regulate malicious misinformation.
+
+
+Jordan, on the other hand, believes the solution is with media audiences.
+
+
+“The antidote to misinformation is to trust in reporters and news outlets instead of AI,” he told VOA. “People sometimes think that it's easier to trust a machine than it is to trust a person. But in this case, it's just a machine spewing out what untrustworthy people have said.” 
+
+<br> 
+
+<https://www.voanews.com/a/garbage-in-garbage-out-ai-fails-to-debunk-disinformation-study-finds/7830414.html>
+
+---
+
+## How to Practice Democracy When There Isn’t Any
+
+date: 2024-10-21, from: Capital and Main
+
+<p>Marshall Ganz says lessons from 1960s organizing can apply to returning economic and political power to citizens from the oligarchs now in control.</p>
+<p>The post <a href="https://capitalandmain.com/how-to-practice-democracy-when-there-isnt-any">How to Practice Democracy When There Isn’t Any</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/how-to-practice-democracy-when-there-isnt-any>
+
+---
+
+## Wildfire Smoke Deaths Are Spiking as the Planet Warms
+
+date: 2024-10-21, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MzgyMzcxMC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTczOTUxNjIzOX0.GH0v1xQedOvQcHu7K5HGtFRQbUpMwjrXaAkdjyeQ6pg/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">If you are one of the more than 2 billion people on Earth who have <a href="https://www.nytimes.com/2023/09/20/climate/wildfire-smoke-air-pollution.html" rel="noopener noreferrer" target="_blank"><u>inhaled wildfire smoke</u></a>, then you know firsthand that it is nasty stuff. It makes your eyes sting and your throat sore and raw; breathe in smoke for long enough, and you might get a headache or start to wheeze. Maybe you’ll have an asthma attack and end up in the emergency room. Or maybe, in the days or weeks afterward, you’ll suffer from a stroke or heart attack that <a href="https://heatmap.news/climate/how-many-people-will-this-smoke-kill" target="_self"><u>you wouldn’t have had otherwise</u></a>. </p><p>Researchers are increasingly convinced that the tiny, inhalable particulate matter in wildfire smoke, known as PM2.5, contributes to <a href="https://ysph.yale.edu/news-article/long-term-exposure-to-wildfire-smoke-associated-with-higher-risk-of-death/" rel="noopener noreferrer" target="_blank"><u>thousands of excess deaths</u></a> annually in the United States alone. But is it fair to link those deaths directly to climate change?</p><p>A <a href="https://www.nature.com/articles/s41558-024-02149-1" rel="noopener noreferrer" target="_blank"><u>new study</u></a> published Monday in <em><em>Nature Climate Change</em></em> suggests that for a growing number of cases, the answer should be yes. Chae Yeon Park, a climate risk modeling researcher at Japan’s National Institute for Environmental Studies, looked with her colleagues at three fire-vegetation models to understand how hazardous emissions changed from 1960 to 2019, compared to a hypothetical control model that excluded historical climate change data. They found that while fewer than 669 deaths in the 1960s could be attributed to climate change globally, that number ballooned to 12,566 in the 2010s — roughly a 20-fold increase. The proportion of <em><em>all</em></em> global PM2.5 deaths attributable to climate change jumped 10-fold over the same period, from 1.2% in the 1960s to 12.8% in the 2010s.</p><p>“It’s a timely and meaningful study that informs the public and the government about the dangers of wildfire smoke and how climate change is contributing to that,” Yiqun Ma, who researches the intersection of climate change, air pollution, and human health at the Yale School of Medicine, and who was not involved in the <em><em>Nature</em></em> study, told me.</p><p>The study found the highest climate change-attributable fire mortality values in South America, Australia, and Europe, where increases in heat and decreases in humidity were also the greatest. In the southern hemisphere of South America, for example, the authors wrote that fire mortalities attributable to climate change increased from a model average of 35% to 71% between the 1960s and 2010s, “coinciding with decreased relative humidity,” which dries out fire fuels. For the same reason, an increase in relative humidity lowered fire mortality in other regions, such as South Asia. North America exhibited a less dramatic leap in climate-related smoke mortalities, with climate change’s contribution around 3.6% in the 1960s, “with a notable rise in the 2010s” to 18.8%, Park told me in an email.</p><p>While that’s alarming all on its own, Ma told me there was a possibility that Park’s findings might actually be <em><em>too</em></em> conservative. “They assume PM2.5 from wildfire sources and from other sources” — like from cars or power plants — “have the same toxicity,” she explained. “But in fact, in recent studies, people have found PM2.5 from fire sources can be more toxic than those from an urban background.” Another reason Ma suspected the study’s numbers might be an underestimate was because the researchers focused on only six diseases that have known links to PM2.5 exposure: chronic obstructive pulmonary disease, lung cancer, coronary heart disease, type 2 diabetes, stroke, and lower respiratory infection. “According to <a href="https://ysph.yale.edu/news-article/long-term-exposure-to-wildfire-smoke-associated-with-higher-risk-of-death/" rel="noopener noreferrer" target="_blank"><u>our previous findings</u></a> [at the Yale School of Medicine], other diseases can also be influenced by wildfire smoke, such as mental disorders, depression, and anxiety, and they did not consider that part,” she told me.</p><p>Minghao Qiu, an assistant professor at Stony Brook University and <a href="https://mhqiu.github.io/" rel="noopener noreferrer" target="_blank"><u>one of the country’s leading researchers</u></a> on wildfire smoke exposure and climate change, generally agreed with Park’s findings, but cautioned that there is “a lot of uncertainty in the underlying numbers” in part because, intrinsically, wildfire smoke exposure is such a complicated thing to try to put firm numbers to. “It’s so difficult to model how climate influences wildfire because wildfire is such an idiosyncratic process and it’s so random, ” he told me, adding, “In general, models are not great in terms of capturing wildfire.”</p><p>Despite their few reservations, both Qiu and Ma emphasized the importance of studies like Park’s. “There are no really good solutions” to reduce wildfire PM2.5 exposure. You can’t just “put a filter on a stack” as you (sort of) can with power plant emissions, Qiu pointed out. </p><p>Even prescribed fires, often touted as an important wildfire mitigation technique, still produce smoke. Park’s team acknowledged that a whole suite of options would be needed to minimize future wildfire deaths, ranging from <a href="https://heatmap.news/climate/this-is-wildfire" target="_self"><u>fire-resilient forest and urban planning</u></a> to PM2.5 treatment advances in hospitals. And, of course, there is addressing the root cause of the increased mortality to begin with: our warming climate.</p><p>“To respond to these long-term changes,” Park told me, “it is crucial to gradually modify our system.”</p> 
+
+<br> 
+
+<https://heatmap.news/climate/wildfire-smoke-mortality>
+
+---
+
+## The World Bank, the IMF and the U.S. election
+
+date: 2024-10-21, from: Marketplace Morning Report
+
+<p>Leaders of finance from around the world gather starting today in Washington, D.C., for the annual meetings of the International Monetary Fund and the World Bank. The meetings come at a fraught time for the global economy and with U.S. elections looming in the background. We&#8217;ll hear more, including how markets are bracing for the upcoming election. Also: the frozen potato biz and a potential end to the Boeing strike.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/21/mmr_20241021_MMR_Podcast_3_64.mp3"></source>
+</audio> <a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/21/mmr_20241021_MMR_Podcast_3_64.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/the-world-bank-the-imf-and-the-u-s-election>
 
 ---
 
@@ -285,6 +471,45 @@ Some concerns have risen in recent months about the pace of Copilot adoption, wi
 <br> 
 
 <https://www.voanews.com/a/microsoft-to-allow-autonomous-ai-agent-development-starting-next-month/7829962.html>
+
+---
+
+## Pentagon chief visits Ukraine in show of US support
+
+date: 2024-10-21, from: VOA News USA
+
+U.S. Defense Secretary Lloyd Austin made an unannounced visit Monday to Ukraine in a show of support for Ukraine’s military and to meet with Ukrainian leaders.
+
+
+The Pentagon said in a statement that Austin will also “deliver a speech that will highlight how Ukraine has skillfully fought back against Putin's war of choice, U.S. commitment to ensuring Ukraine's armed forces have the battlefield capabilities they need, and why Ukraine's fight matters for U.S. security.”
+
+
+Austin’s visit comes days after the United States announced $425 million in new aid for Ukraine, including munitions for air defense systems and artillery munitions.
+
+
+Russian drone attacks injured at least one person in Ukraine’s capital, officials in Kyiv said Monday.
+
+
+Kyiv Mayor Vitali Klitschko said on Telegram falling debris from drones shot down by Ukrainian air defenses damaged several residential buildings.
+
+
+Serhii Popko, head of the Kyiv City Military Administration, said on Telegram that as many as a dozen Russian drones were involved in the attack, but that all of them were destroyed.
+
+
+Russian drones also targeted Mykolaiv, in southern Ukraine. Governor Vitalii Kim said Monday on Telegram that air defenses downed three drones overnight.
+
+
+Russia’s Defense Ministry reported Monday it destroyed 18 Ukrainian drones launched in overnight attacks.
+
+
+Eleven of the drones were shot down over the Rostov region, while another four were destroyed over Bryansk, two over Kursk and one over Oryol.
+
+
+Officials in Kursk reported there were no casualties and no damage reported from the attacks. 
+
+<br> 
+
+<https://www.voanews.com/a/russian-drone-attack-damages-kyiv-residential-buildings/7829856.html>
 
 ---
 
