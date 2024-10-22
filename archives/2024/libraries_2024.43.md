@@ -1,11 +1,39 @@
 ---
 title: libraries
-updated: 2024-10-21 10:42:26
+updated: 2024-10-22 07:38:45
 ---
 
 # libraries
 
-(date: 2024-10-21 10:42:26)
+(date: 2024-10-22 07:38:45)
+
+---
+
+## Day in Review (October 21–24)
+
+date: 2024-10-22, from: Association of Research Libraries News
+
+<p>Last Updated on October 22, 2024, 8:42 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, October 22 &#124; Wednesday, October 23 &#124; Thursday,...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-october-21-24/">Day in Review (October 21–24)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/day-in-review/day-in-review-october-21-24/>
+
+---
+
+## Guest Post:  This Open Access Week Theme Has a Distinguished History
+
+date: 2024-10-22, from: Scholarly Kitchen
+
+<p>Some thoughts on this year’s Open Access Week theme, “community over commercialization.”</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/10/22/guest-post-this-open-access-week-theme-has-a-distinguished-history/">Guest Post:  This Open Access Week Theme Has a Distinguished History</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2024/10/22/guest-post-this-open-access-week-theme-has-a-distinguished-history/>
 
 ---
 
@@ -18,6 +46,54 @@ Weinold, Michael
 <br> 
 
 <http://hdl.handle.net/20.500.11850/693922>
+
+---
+
+## Moribund Society and Anarchy, by Jean Grave
+
+date: 2024-10-21, from: Standard Ebooks, new releaases
+
+Jean Grave systemically critiques bourgeois society from an anarchist perspective. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/jean-grave/moribund-society-and-anarchy/voltairine-de-cleyre>
+
+---
+
+## Noli Me Tangere, by José Rizal
+
+date: 2024-10-21, from: Standard Ebooks, new releaases
+
+After years away studying in Europe, a man returns to his hometown in the Philippines, and plans to build a school for the improvement of the local population. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/jose-rizal/noli-me-tangere/charles-e-derbyshire>
+
+---
+
+## Internet Archive Services Update: 2024-10-21
+
+date: 2024-10-21, from: Internet Archive Blog
+
+In recovering from recent cyberattacks on October 8, the Internet Archive has resumed the Wayback Machine (starting October 13) and Archive-It (October 17), and as of today (October 21), has [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2024/10/21/internet-archive-services-update-2024-10-21/>
+
+---
+
+## Tarzan, Lord of the Jungle, by Edgar Rice Burroughs
+
+date: 2024-10-21, from: Standard Ebooks, new releaases
+
+Journeys, times, and cultures collide as two expeditions seek the riches of known and fabeled lands. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/edgar-rice-burroughs/tarzan-lord-of-the-jungle>
 
 ---
 

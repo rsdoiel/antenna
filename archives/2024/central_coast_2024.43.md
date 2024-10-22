@@ -1,11 +1,142 @@
 ---
 title: central coast
-updated: 2024-10-21 10:42:25
+updated: 2024-10-22 07:38:44
 ---
 
 # central coast
 
-(date: 2024-10-21 10:42:25)
+(date: 2024-10-22 07:38:44)
+
+---
+
+## Morning Commute
+
+date: 2024-10-22, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-POD-Claude-Dorais.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Morning commute in Discovery Bay." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-POD-Claude-Dorais.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-POD-Claude-Dorais.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-POD-Claude-Dorais.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-POD-Claude-Dorais.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-POD-Claude-Dorais.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-POD-Claude-Dorais.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-POD-Claude-Dorais.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-POD-Claude-Dorais.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-POD-Claude-Dorais.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-POD-Claude-Dorais.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-POD-Claude-Dorais.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-POD-Claude-Dorais.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/morning-commute/">Morning Commute</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/morning-commute/>
+
+---
+
+## Downtown Apartment Living Deemed an Early Success at Santa Barbara’s Soltara
+
+date: 2024-10-22, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-New-Apartments-James-Spahn-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="James Ray Spahn and his wife, Carolyn, have moved into the newly opened Soltara Apartments in downtown Santa Barbara." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-New-Apartments-James-Spahn-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-New-Apartments-James-Spahn-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-New-Apartments-James-Spahn-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-New-Apartments-James-Spahn-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-New-Apartments-James-Spahn-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-New-Apartments-James-Spahn-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-New-Apartments-James-Spahn-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-New-Apartments-James-Spahn-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-New-Apartments-James-Spahn-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>James Ray Spahn was living in a vacation rental on Santa Barbara&#8217;s upper Eastside for a year. Then, he saw a &#8220;For Lease&#8221; sign on the building. A few days [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/downtown-apartment-living-an-early-success-at-santa-barbaras-soltara/">Downtown Apartment Living Deemed an Early Success at Santa Barbara&#8217;s Soltara</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/downtown-apartment-living-an-early-success-at-santa-barbaras-soltara/>
+
+---
+
+## Spend an Evening With Lil Buck and Jon Boogz at UCSB’s Campbell Hall
+
+date: 2024-10-22, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>UCSB Arts &#38; Lectures will present An Evening With Lil Buck and Jon Boogz, 8 p.m. Thursday, Oct. 24 at UCSB’s Campbell Hall. An award-winning performing artist and advocate for [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/spend-an-evening-with-lil-buck-and-jon-boogz-at-ucsbs-campbell-hall/">Spend an Evening With Lil Buck and Jon Boogz at UCSB’s Campbell Hall</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/spend-an-evening-with-lil-buck-and-jon-boogz-at-ucsbs-campbell-hall/>
+
+---
+
+## SBCC Measure P Bond Campaigns Heat Up in Weeks Before Election
+
+date: 2024-10-22, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SBCC-campus-gm.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The campaign for Santa Barbara City College&#039;s Measure P bond is heating up in the final weeks before the Nov. 5 election. If approved by voters, SBCC could authorize up to $198 million in bonds for campus facility improvements." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SBCC-campus-gm.jpg?w=2200&amp;ssl=1 2200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SBCC-campus-gm.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SBCC-campus-gm.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SBCC-campus-gm.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SBCC-campus-gm.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SBCC-campus-gm.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SBCC-campus-gm.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SBCC-campus-gm.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SBCC-campus-gm.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SBCC-campus-gm.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SBCC-campus-gm.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The weeks before an election can feel like a dash to the finish line as candidates put forward their final pitches and attempt to reach undecided voters. As residents prepare [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/sbcc-measure-p-bond-campaigns-heat-up-in-final-weeks-before-election/">SBCC Measure P Bond Campaigns Heat Up in Weeks Before Election</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/sbcc-measure-p-bond-campaigns-heat-up-in-final-weeks-before-election/>
+
+---
+
+## Doris Victoria Holzheu of Solvang, 1929-2024
+
+date: 2024-10-22, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="768" height="1024" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Mothers-Day-May-12-2019-jpg.jpg?fit=768%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Doris Victoria Holzheu" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Mothers-Day-May-12-2019-jpg.jpg?w=1536&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Mothers-Day-May-12-2019-jpg.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Mothers-Day-May-12-2019-jpg.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Mothers-Day-May-12-2019-jpg.jpg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Mothers-Day-May-12-2019-jpg.jpg?resize=900%2C1200&amp;ssl=1 900w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Mothers-Day-May-12-2019-jpg.jpg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Mothers-Day-May-12-2019-jpg.jpg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Mothers-Day-May-12-2019-jpg.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Mothers-Day-May-12-2019-jpg.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Mothers-Day-May-12-2019-jpg.jpg?resize=1200%2C1600&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Mothers-Day-May-12-2019-jpg.jpg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Mothers-Day-May-12-2019-jpg.jpg?fit=768%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Doris Victoria Holzheu, who passed away on Oct. 14, 2024, at age 94 in her home, was a woman of many passions. From playing the Zeiharmonica (German accordion) to knitting, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/doris-victoria-holzheu-of-solvang-1929-2024/">Doris Victoria Holzheu of Solvang, 1929-2024</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/doris-victoria-holzheu-of-solvang-1929-2024/>
+
+---
+
+## Lompoc Outdoor Community Market Looking for Variety of Vendors
+
+date: 2024-10-21, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Lompoc Parks &#38; Recreation Division is seeking individuals and businesses to fill spaces at the Lompoc Outdoor Community Market. The Lompoc Outdoor Community Market takes place weekly 9 a.m.-3 [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/lompoc-outdoor-community-market-looking-for-variety-of-vendors/">Lompoc Outdoor Community Market Looking for Variety of Vendors</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/lompoc-outdoor-community-market-looking-for-variety-of-vendors/>
+
+---
+
+## Bookkeeper Pleads Guilty in Financial-Abuse Case Involving Elderly Montecito Woman
+
+date: 2024-10-21, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101624-Nancy-Coglizer-Court-jp-2000.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Nancy Coglizer" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101624-Nancy-Coglizer-Court-jp-2000.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101624-Nancy-Coglizer-Court-jp-2000.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101624-Nancy-Coglizer-Court-jp-2000.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101624-Nancy-Coglizer-Court-jp-2000.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101624-Nancy-Coglizer-Court-jp-2000.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101624-Nancy-Coglizer-Court-jp-2000.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101624-Nancy-Coglizer-Court-jp-2000.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101624-Nancy-Coglizer-Court-jp-2000.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101624-Nancy-Coglizer-Court-jp-2000.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A Santa Barbara woman faces up to nine years in state prison after pleading guilty to felony charges involving the embezzlement of hundreds of thousands of dollars from an elderly [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/bookkeeper-pleads-guilty-in-financial-abuse-case-involving-elderly-montecito-woman/">Bookkeeper Pleads Guilty in Financial-Abuse Case Involving Elderly Montecito Woman</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/bookkeeper-pleads-guilty-in-financial-abuse-case-involving-elderly-montecito-woman/>
+
+---
+
+## Doctor Offers Wake-up Call to Possible Dangers of Sleep Apnea
+
+date: 2024-10-21, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Lompoc Hospital District Foundation will host a free lecture about the diagnosis and treatment of sleep apnea 6 p.m. Wednesday, Oct. 23 at the Dick DeWees Community and Senior [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/doctor-to-offer-wake-up-call-to-possible-dangers-of-sleep-apnea/">Doctor Offers Wake-up Call to Possible Dangers of Sleep Apnea</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/doctor-to-offer-wake-up-call-to-possible-dangers-of-sleep-apnea/>
+
+---
+
+## Firefighters Stop Vegetation Fire Near Gaviota at 1 Acre
+
+date: 2024-10-21, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-Highway1-Fire-2-contributed.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A small vegetation fire on HIghway 1 near Gaviota was kept to 1 acre Monday afternoon. (Santa Barbara County Fire Department photo)" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-Highway1-Fire-2-contributed.jpg?w=2032&amp;ssl=1 2032w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-Highway1-Fire-2-contributed.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-Highway1-Fire-2-contributed.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-Highway1-Fire-2-contributed.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-Highway1-Fire-2-contributed.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-Highway1-Fire-2-contributed.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-Highway1-Fire-2-contributed.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-Highway1-Fire-2-contributed.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-Highway1-Fire-2-contributed.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-Highway1-Fire-2-contributed.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A 1-acre vegetation fire was quickly stopped Monday afternoon near Gaviota.  Just before 1 p.m., personnel from the Santa Barbara County Fire Department responded to Highway 1 near San Julian [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/firefighters-stop-vegetation-fire-near-gaviota-at-1-acre/">Firefighters Stop Vegetation Fire Near Gaviota at 1 Acre</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/firefighters-stop-vegetation-fire-near-gaviota-at-1-acre/>
 
 ---
 

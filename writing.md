@@ -1,11 +1,86 @@
 ---
 title: writing
-updated: 2024-10-21 10:42:25
+updated: 2024-10-22 07:38:45
 ---
 
 # writing
 
-(date: 2024-10-21 10:42:25)
+(date: 2024-10-22 07:38:45)
+
+---
+
+## Scriptnotes, Episode 655: Conflict and Stakes Compendium, Transcript
+
+date: 2024-10-21, from: John August blog
+
+The original post for this episode can be found here. John August: Hello and welcome. My name is John August, and you’re listening to Episode 655 of Scriptnotes. It’s a podcast about screenwriting and things that are interesting to screenwriters. Today on the show, it is a compendium episode, where we go back through the [&#8230;]
+The post <a href="https://johnaugust.com/2024/scriptnotes-episode-655-conflict-and-stakes-compendium-transcript">Scriptnotes, Episode 655: Conflict and Stakes Compendium, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2024/scriptnotes-episode-655-conflict-and-stakes-compendium-transcript>
+
+---
+
+## De Marcken Wins Le Guin Prize
+
+date: 2024-10-21, from: Locus Magazine
+
+<p><strong>It Lasts Forever and Then It’s Over </strong>by Anne de Marcken (New Directions) is the winner of the third Ursula K. Le Guin Prize for Fiction, which includes a $25,000 cash prize, given &#8220;to a writer for a single work of imaginative fiction&#8221; and presented by the Ursula K. Le Guin Literary Trust.</p>
+<p>The judges called the book</p>
+<p>a work of quietly detonative imagination. Written in the guise of a  <a href="https://locusmag.com/2024/10/de-marcken-wins-le-guin-prize/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/10/de-marcken-wins-le-guin-prize/>
+
+---
+
+## Weekly Bestsellers, 21 October 2024
+
+date: 2024-10-21, from: Locus Magazine
+
+<div style="padding: 14px 0px 0px 0px; text-align: center;">
+<p>A fantasy novel by Chloe C. Peñaranda, <b>The Stars Are Dying</b> (Bramble), first of a trilogy, debuts on three lists, ranking #2 on the fiction hardcover lists of New York Times and Publishers Weekly.</p>
+</div>
+
+
+
+
+<p></p>
+
+
+
+Title
+Debut / #wks on any list
+NYT
+10.20
+LAT
+10.20
+USAT 
+10.13
+PW 
+10.21
+Amz 
+(10.21)
+UK:
+Amz UK 
+(10.21)
+Canada:
+Amz.ca 
+(10.21)
+
+
+Items on list -x- number of lists surveyed
+
+10&#215;3
+10&#215;2
+150
+15&#215;3 <a href="https://locusmag.com/2024/10/weekly-bestsellers-21-october-2024/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2024/10/weekly-bestsellers-21-october-2024/>
 
 ---
 

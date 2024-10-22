@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2024-10-21 10:42:25
+updated: 2024-10-22 07:38:45
 ---
 
 # games
 
-(date: 2024-10-21 10:42:25)
+(date: 2024-10-22 07:38:45)
+
+---
+
+## The Halloween Countdown: 31 days of horror to watch
+
+date: 2024-10-22, updated: 2024-10-22, from: Polygon Website
+
+Do you feel that? That chill in the air, that tingling sensation at the back of your neck? It can only mean one thing. That’s right: Halloween season is once again upon us! Here at Polygon, we love horror. We cover it all year round, whether it’s ranking the scariest new releases of the year [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream>
+
+---
+
+## How the 4th Southern Reach book, Absolution, burst out of author Jeff VanderMeer
+
+date: 2024-10-22, updated: 2024-10-22, from: Polygon Website
+
+Jeff VanderMeer’s new novel&#160;Absolution works as both a prequel and a sequel to his “Southern Reach trilogy” — appropriate, considering the slippy, surreal lineage of Annihilation, Authority, and Acceptance. Only one thing is really certain: The book is a vibe. It’s been 10 years since VanderMeer dropped readers into Area X, a warped version of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/books/467953/jeff-vandermeer-author-interview-absolution-southern-reach-prequel-sequel>
+
+---
+
+## MechWarrior 5: Clans’ AI is terrible — play it with humans instead
+
+date: 2024-10-22, updated: 2024-10-21, from: Polygon Website
+
+Early last week gaming outlets all over published their reviews of MechWarrior 5: Clans, and while Polygon was not among them, it’s not for lack of trying. Over the last few months I’ve run up against some hardware difficulties thanks to my bruised and battered gaming laptop. Not unexpected, mind you, but deeply inconvenient when [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/467951/mechwarrior-5-clans-terrible-ai-multiplayer-impressions>
+
+---
+
+## Pokémon Go ‘Costume Party’ Timed Research quest steps, and is it worth buying?
+
+date: 2024-10-22, updated: 2024-10-22, from: Polygon Website
+
+“Costume Party” is a paid Timed Research quest as part of the Halloween 2024 event in Pokémon Go. Available&#160;from Tuesday, Oct. 22, through Sunday, Nov. 3, as the name suggests, it offers encounters with a variety of costumed Pokémon, including the first opportunity to catch costumed Froakie and Rowlet, and the debut of a new [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/468376/costume-party-quest-rewards-worth-buying>
+
+---
+
+## Pokémon Go ‘Morpeko Onesie’ choose a path quest steps: Full Belly mode or Hangry mode?
+
+date: 2024-10-22, updated: 2024-10-22, from: Polygon Website
+
+“Morpeko Onesie” is a paid Timed Research quest as part of the Halloween 2024 event in Pokémon Go. Available&#160;from Tuesday, Oct. 22, through Sunday, Nov. 3, it offers encounters with Morpeko and Spiritomb, the first opportunity to catch costumed Froakie and Rowlet, and a triple catch Candy bonus — a boost over the standard double [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/468364/morpeko-onesie-choose-a-path-full-belly-hangry>
+
+---
+
+## ‘Spiritomb Challenge’ 2024 quest steps and how to get Spiritomb in Pokémon Go
+
+date: 2024-10-22, updated: 2024-10-22, from: Polygon Website
+
+“Spiritomb Challenge” is the latest opportunity to get a Spiritomb in Pokémon Go. As with every Halloween event, there is new research to catch a Spiritomb — and, as always, the steps are themed around the number 108. Alongside the time-limited research, there are also other ways to catch Spiritomb this year in Pokémon Go. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/468350/spiritomb-challenge-2024-quest-steps-how-to-get-shiny>
+
+---
+
+## Pokémon Go Halloween 2024 Part 1 event guide
+
+date: 2024-10-22, updated: 2024-10-22, from: Polygon Website
+
+Halloween 2024 is a two-part event in Pokémon Go, with the first half — Part 1 — offering suitably spooky wild encounters, raid line-ups, and Field Research. Running from Tuesday, Oct. 22, through Monday, Oct. 29, at 10 a.m. local time, the headline is the debut of Morpeko — the game’s first Pokémon with the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/2023/10/19/467904/halloween-2024-part-1-event-guide-field-research>
+
+---
+
+## How to get Morpeko and change modes in Pokémon Go
+
+date: 2024-10-22, updated: 2024-10-22, from: Polygon Website
+
+Morpeko makes its debut in Pokémon Go as part of 2024’s Halloween event. The Galar region Pokémon is notable for its ability to change modes mid-battle, giving it a different Charged Attack when it changes forms. Similar to Greavard’s debut in last year’s Halloween event, Morpeko is not available in the wild in Pokémon Go [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/467909/morpeko-get-change-mode-form>
+
+---
+
+## Can Litwick be shiny in Pokémon Go?
+
+date: 2024-10-22, updated: 2024-10-16, from: Polygon Website
+
+Litwick, the candle Pokémon from Unova, can be found in the wild in Pokémon Go. Yes, Litwick can be shiny in Pokémon Go! Chandelure, Litwick’s final evolution, is a beast of a Pokémon, topping the DPS charts for both fire- and ghost-type moves. While it does, of course, get outclassed by Megas, shadows, and Legendaries, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/463725/can-litwick-be-shiny-lampent-chandelure>
+
+---
+
+## Can Duskull be shiny in Pokémon Go?
+
+date: 2024-10-22, updated: 2024-10-09, from: Polygon Website
+
+Duskull, the requiem Pokémon from Hoenn, can be found in the wild in Pokémon Go. Yes, Duskull can be shiny in Pokémon Go! No member of the Duskull family sees any use in battles, though it does have a pretty good shiny version. Note that you need a Sinnoh Stone to evolve Dusclops into Dusknoir. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/463769/can-duskull-be-shiny-dusclops-dusknoir>
 
 ---
 
@@ -54,18 +174,6 @@ A new special guest will join the The Twenty-Sided Tavern party in late November
 <br> 
 
 <https://www.polygon.com/actual-play/467410/twenty-sided-tavern-guest-travis-mcelroy>
-
----
-
-## The Halloween Countdown: 31 days of horror to watch
-
-date: 2024-10-21, updated: 2024-10-21, from: Polygon Website
-
-Do you feel that? That chill in the air, that tingling sensation at the back of your neck? It can only mean one thing. That’s right: Halloween season is once again upon us! Here at Polygon, we love horror. We cover it all year round, whether it’s ranking the scariest new releases of the year [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream>
 
 ---
 

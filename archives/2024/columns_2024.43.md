@@ -1,11 +1,262 @@
 ---
 title: columns
-updated: 2024-10-21 10:42:25
+updated: 2024-10-22 07:38:44
 ---
 
 # columns
 
-(date: 2024-10-21 10:42:25)
+(date: 2024-10-22 07:38:44)
+
+---
+
+## The Problem with Podcasts
+
+date: 2024-10-22, from: Om Malik blog
+
+Why does every podcast have a&#160;six-minute&#160;lead of proverbial throat-clearing,&#160;self-promotion, and&#160;advertising?&#160;I can understand that mega podcasts like Joe Rogan’s have to deal with this — advertisers are throwing money at people like him and Tim&#160;Ferriss.&#160; The problem is more acute&#160;with&#160;relatively smaller podcasts. I listen to&#160;many&#160;“intellectually curious” podcasts that focus on subjects such as science, history,&#160;design, and &#8230; 
+
+<br> 
+
+<https://om.co/2024/10/22/the-problem-with-podcasts/>
+
+---
+
+##  From Ryan Broderick&#8217;s comments on the state of text based social media,... 
+
+date: 2024-10-22, updated: 2024-10-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045492-from-ryan-brodericks-comm>
+
+---
+
+## Hammers
+
+date: 2024-10-22, from: Dave Rupert blog
+
+<p>I bet if you were someone who could make a hammer that would have been a good stable job for years, centuries even. Almost everyone needs a hammer at some point in their life.</p>
+<p>“Hey, where’d you get that hammer?”<br />
+“Oh, you gotta talk to Bartholomew.”</p>
+<p>Then some guy, Greg, would see how busy the hammersmith is making hammers one at-a-time and say, “I’m going to make hammers one hundred at a time!” He’d pay Bartholomew not to make him one hammer, but to make a mold that could make one hundred hammers at a time. Greg has rich parents, he can afford this sort of risky business venture. One hundred hammers for the price of ten, that’s profit.</p>
+<p>After the hammer mold, Bartholomew would still get paid. No one actually likes pouring molten iron and hammering, but Bartholomew doesn’t mind. He’s making less money per hammer, but he’s also producing more hammers with a lot less effort, so it nets out okay. The job is less interesting – making hammers and nothing else – but he didn’t like being a salesman and dealing with wayward customer requests anyways. There’s lots of money in churning out hammers this way, it’s more efficient and people like Greg love selling them and making money. Bartholomew buys himself a new ox cart.</p>
+<p>Then some other guy, Jeff, seeing all those hammers and all that money, would say “I’m going to make a machine that makes a million hammers a day.” Jeff knows a regional lord who is friends with the king and has big treasure chests. He’d hire Bartholomew and his hammersmith friends to build a giant complex machine with whistles and gauges and a furnace that makes ten hammers a second.  A million hammers a day for the price of a thousand hammers, <em>now that’s profit!</em></p>
+<p>The profit charts are going up. Hammers are about as cheap as possible to mass produce… except now Bartholomew and his hammersmith friends are starting to catch the ire of bookkeepers. They’re starting to look expensive compared to the penny hammers that sell for $10. They fire Bartholomew. He’s given three months of pay, which is nice, but in exchange he has to sign a contract saying he’ll never make another hammer machine again in his life. Hopefully Bartholomew squirreled away enough money to retire with dignity, otherwise what’s an old hammersmith do when there’s no more hammers to make?</p> 
+
+<br> 
+
+<https://daverupert.com/2024/10/hammers/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-22, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/02/23/ronaldMcDonaldWithBomb.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Yesterday I <a href="http://scripting.com/2024/10/21.html#a131028">posted a bit</a> about the "million-plus Americans who died from Covid during Trump's tenure." It wasn't worded carefully enough, I should've had a lawyer review it. Yes, a lot of them died during Biden's tenure too. But I don't think of it that way. I think of the big con-job Trump pulled, first denying there was a virus, then saying it would be done by Easter, then telling people not to wear masks, then ridiculing Biden because he was isolating during the campaign, and of course injecting bleach and all the other <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7685699/">bullshit</a>. Then the mofo got Covid, and our doctors saved his life, and he never said geez I was wrong about this, it's a killer, and btw thanks for saving my life. So yes this was yet another mess a Democrat had to clean up left by his Republican predecessor. Recall the economic collapse Bush left for Obama. And btw, I used to vote Republican, so don't tell me I'm biased. There are a lot of lawyers out there who think a turn of a word can exonerate the depravity and incompetence of Trump. Hopefully he's the worst the Repubs have to throw at us, but who knows what they will come up with. And for crying out loud, if you haven't voted yet, save us from concentration camps and <a href="https://www.pbs.org/newshour/politics/watch-where-rnc-delegates-stand-on-immigration">mass deportation</a>. One million Americans dead is far too many, let's not try to top that. Thanks. 
+
+<br> 
+
+<http://scripting.com/2024/10/22.html#a121804>
+
+---
+
+## No, The Chinese Have Not Broken Modern Encryption Systems with a Quantum Computer
+
+date: 2024-10-22, updated: 2024-10-21, from: Bruce Schneier blog
+
+<p>The headline is pretty scary: &#8220;<a href="https://www.newsweek.com/china-news-quantum-computer-scientists-crack-military-grade-encryption-1970760">China&#8217;s Quantum Computer Scientists Crack Military-Grade Encryption<a>.&#8221;</p>
+<p>No, it&#8217;s not true.</p>
+<p><a href="https://www.forbes.com/sites/craigsmith/2024/10/16/department-of-anti-hype-no-china-hasnt-broken-military-encryption-with-quantum-computers/">This debunking</a> saved me the trouble of writing one. It all seems to have come from <a href="https://www.scmp.com/news/china/science/article/3282051/chinese-scientists-hack-military-grade-encryption-quantum-computer-paper">this news article</a>, which wasn&#8217;t bad but was taken widely out of proportion.</p>
+<p>Cryptography is safe, and <a href="https://www.schneier.com/blog/archives/2022/08/nists-post-quantum-cryptography-standards.html">will be</a> for a <a href="https://www.schneier.com/essays/archives/2018/09/cryptography_after_t.html">long time</a></p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/10/no-the-chinese-have-not-broken-modern-encryption-systems-with-a-quantum-computer.html>
+
+---
+
+## Want to feel old? Excel just entered its 40th year
+
+date: 2024-10-22, updated: 2024-10-22, from: Liam Proven's articles at the Register
+
+<h4>More senior than Windows itself, and still runs the world</h4>
+      <p>Microsoft Excel, the true successor to the throne of COBOL. Version 1.0 was released on the last day of September 1985, four decades ago.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/10/22/excel_enters_its_40th_year/>
+
+---
+
+## How the hell can the race be tied?
+
+date: 2024-10-22, from: Robert Reich's blog
+
+Two weeks before an election in which America should be sending Trump home (and then to jail), he and Harris are in a statistical tie in the battleground states. 
+
+<br> 
+
+<https://robertreich.substack.com/p/how-the-hell-can-they-be-tied>
+
+---
+
+## October 21, 2024 
+
+date: 2024-10-22, from: Heather Cox Richardson blog
+
+On Saturday, September 7, Republican presidential candidate Donald Trump predicted that his plan to deport 15 to 20 million people currently living in the United States would be &#8220;bloody.&#8221; He also promised to prosecute his political opponents, including, he wrote, lawyers, political operatives, donors, illegal voters, and election officials. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/october-21-2024>
+
+---
+
+##  Mass Deportations, a Culture of Denunciation, and an Altered America 
+
+date: 2024-10-21, updated: 2024-10-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/mass-deportations-a-culture-of-denunciation-and-an-altered-america>
+
+---
+
+## EU Considers Calculating X Corp Fines by Including Revenue From Elon Musk’s Other Firms
+
+date: 2024-10-21, updated: 2024-10-21, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.bloomberg.com/news/articles/2024-10-17/musk-s-empire-risks-being-targeted-by-eu-for-potential-x-fines>
+
+---
+
+##  The Very Real Scenario Where Trump Loses and Takes Power Anyway. 100%.... 
+
+date: 2024-10-21, updated: 2024-10-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045489-the-very-real-scenario-wh>
+
+---
+
+##  Stunt City 
+
+date: 2024-10-21, updated: 2024-10-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/stunt-city>
+
+---
+
+## Advice for Staying Sane
+
+date: 2024-10-21, from: Dan Rather's Steady
+
+For starters, avoid these two at all costs 
+
+<br> 
+
+<https://steady.substack.com/p/advice-for-staying-sane>
+
+---
+
+##  My 17-year-old took this Street Survival driving skills course this weekend and... 
+
+date: 2024-10-21, updated: 2024-10-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045479-my-17-year-old-took-this->
+
+---
+
+## Yours Truly on the ‘Rad History’ Podcast to Talk About GoldenEye 007 for Nintendo 64
+
+date: 2024-10-21, updated: 2024-10-21, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.youtube.com/watch?v=pHYAp0kS8ec>
+
+---
+
+##  Free Rothko 
+
+date: 2024-10-21, updated: 2024-10-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/free-rothko>
+
+---
+
+## Yankees and Dodgers Resume the Best World Series Rivalry, Finally
+
+date: 2024-10-21, updated: 2024-10-21, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.mlb.com/news/2024-world-series-matchup-storylines>
+
+---
+
+## October 20, 2024
+
+date: 2024-10-21, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/150530309/5e17c37652ec53eec650d4407cc8981f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/150530309/5e17c37652ec53eec650d4407cc8981f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/october-20-2024-0aa>
+
+---
+
+##  A new concept album by Lin-Manuel Miranda & Eisa Davis is a... 
+
+date: 2024-10-21, updated: 2024-10-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045482-a-new-concept-album-by>
+
+---
+
+##  The Secretive Dynasty That Controls the Boar&#8217;s Head Brand. Somehow, not even... 
+
+date: 2024-10-21, updated: 2024-10-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045487-the-secretive-dynasty-tha>
 
 ---
 

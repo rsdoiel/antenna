@@ -1,11 +1,545 @@
 ---
 title: pacific
-updated: 2024-10-21 10:42:24
+updated: 2024-10-22 07:38:44
 ---
 
 # pacific
 
-(date: 2024-10-21 10:42:24)
+(date: 2024-10-22 07:38:44)
+
+---
+
+## Sheraton takes over Hyatt Saipan with upbeat outlook on the CNMI market
+
+date: 2024-10-22, from: Pacific Island Times
+
+The former Hyatt Regency Saipan, which shut down on June 30, has reemerged in the Garapan landscape as a Sheraton brand, bearing optimism fo 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/sheraton-takes-over-hyatt-saipan-with-upbeat-outlook-on-the-cnmi-market>
+
+---
+
+## Ginger Cruz launches comprehensive Platform 3.0
+
+date: 2024-10-22, from: Pacific Island Times
+
+By Jayvee Vallejera   With just 14 days left before the elections on Nov. 5,  Ginger Cruz, the Democratic nominee for Guam’s delegate to... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/ginger-cruz-launches-comprehensive-platform-3-0>
+
+---
+
+## Boaters Safe After Capsizing in Rough Waters Near Koror
+
+date: 2024-10-22, from: Island Times
+
+<p>Four people from Peleliu, two men and two women, were rescued yesterday afternoon after their boat capsized en route to Koror. The group was taken to the hospital for evaluation and later released after being cleared, according to Curtis Elobt, Director of the Bureau of Public Safety. The names of the individuals have not yet [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/boaters-safe-after-capsizing-in-rough-waters-near-koror/">Boaters Safe After Capsizing in Rough Waters Near Koror</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/boaters-safe-after-capsizing-in-rough-waters-near-koror/>
+
+---
+
+## No Penalties or Interest: Anastacio’s Attorney Clarifies $75K Tax Payment Order
+
+date: 2024-10-22, from: Island Times
+
+<p>House Speaker Sabino Anastacio has been ordered to pay $75,029 in taxes without penalties or interest, according to his attorney, who described the terms of the judgment following a report published on October 8, 2024. The original article reported that Anastacio was ordered by the court to pay $3.5 million in taxes, penalties, and interest [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/no-penalties-or-interest-anastacios-attorney-clarifies-75k-tax-payment-order/">No Penalties or Interest: Anastacio’s Attorney Clarifies $75K Tax Payment Order</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/no-penalties-or-interest-anastacios-attorney-clarifies-75k-tax-payment-order/>
+
+---
+
+## Palauans Reflect on Upcoming Elections Amid Anticipation and Concerns
+
+date: 2024-10-22, from: Island Times
+
+<figure><img width="1024" height="446" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/palauan-reflects2.jpg?fit=1024%2C446&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/palauan-reflects2.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/palauan-reflects2.jpg?resize=300%2C131&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/palauan-reflects2.jpg?resize=1024%2C446&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/palauan-reflects2.jpg?resize=768%2C335&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/palauan-reflects2.jpg?resize=1200%2C523&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/palauan-reflects2.jpg?resize=400%2C174&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/palauan-reflects2.jpg?resize=706%2C307&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/palauan-reflects2.jpg?fit=1024%2C446&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73311" data-permalink="https://islandtimes.org/palauans-reflect-on-upcoming-elections-amid-anticipation-and-concerns/palauan-reflects2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/palauan-reflects2.jpg?fit=1249%2C544&amp;ssl=1" data-orig-size="1249,544" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="palauan reflects2" data-image-description="" data-image-caption="&lt;p&gt;(Scott Weers, posing with his local products) (PHS student advisor, Lestine posing in a photo with PHS Junior students) (Dirrabrak Elicita Morei)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/palauan-reflects2.jpg?fit=300%2C131&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/palauan-reflects2.jpg?fit=780%2C340&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By Samantha Iyar KOROR, PALAU — As Palau prepares for its 12th General Election on November 5, 2024, residents are expressing a mix of excitement and concern about the political landscape. With just weeks to go, the atmosphere is charged with anticipation as candidates gear up for a closely contested race. Owner of Belau Tribe, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palauans-reflect-on-upcoming-elections-amid-anticipation-and-concerns/">Palauans Reflect on Upcoming Elections Amid Anticipation and Concerns</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palauans-reflect-on-upcoming-elections-amid-anticipation-and-concerns/>
+
+---
+
+## New cases of political violence roil U.S. ahead of contentious election
+
+date: 2024-10-22, from: Hawaii Tribune Harold
+
+
+				<p>In York, Pennsylvania, a man accosted a group of people rallying for Vice President Kamala Harris&#8217; White House campaign, punching a 74-year-old man in the head and calling another man a &#8220;n----- supporter&#8221; as he fled.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/22/nation-world-news/new-cases-of-political-violence-roil-u-s-ahead-of-contentious-election/>
+
+---
+
+## Trump took a turn at the fryer. McDonald’s workers have thoughts.
+
+date: 2024-10-22, from: Hawaii Tribune Harold
+
+
+				<p>Inside a McDonald&#8217;s in Lower Manhattan, David Ye, who has worked at the fast-food outpost for three years, knew in just a few seconds that something was off.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/22/nation-world-news/trump-took-a-turn-at-the-fryer-mcdonalds-workers-have-thoughts/>
+
+---
+
+## As Harris courts Sun Belt, housing costs stand in her way
+
+date: 2024-10-22, from: Hawaii Tribune Harold
+
+
+				<p>LAS VEGAS &#8212; The promise of the American dream has shimmered in Las Vegas for as long as the city has existed. That hope of a stable middle-class life has attracted would-be homeowners from California, sun-seekers from the East and immigrants from all over the world.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/22/nation-world-news/as-harris-courts-sun-belt-housing-costs-stand-in-her-way/>
+
+---
+
+## DOH: Recall in effect for multiple frozen waffle brands
+
+date: 2024-10-22, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Health is alerting residents about a recall issued by TreeHouse Foods Inc. for multiple brand names of frozen waffles because of potential Listeria monocytogenes contamination.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/22/hawaii-news/doh-recall-in-effect-for-multiple-frozen-waffle-brands/>
+
+---
+
+## Biden to propose that insurers cover over-the-counter birth control
+
+date: 2024-10-22, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The White House announced Monday that it would propose new rules under the Affordable Care Act that would require insurers to cover over-the-counter birth control at no cost to patients, as it seeks to expand access to contraception and cut out-of-pocket costs.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/22/nation-world-news/biden-to-propose-that-insurers-cover-over-the-counter-birth-control/>
+
+---
+
+## Researchers: Arkansas may have vast lithium reserves
+
+date: 2024-10-22, from: Hawaii Tribune Harold
+
+
+				<p>Researchers at the United States Geological Survey and the Arkansas government announced Monday that they had found a trove of lithium, a critical raw material for electric vehicle batteries, in an underground brine reservoir in Arkansas.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/22/nation-world-news/researchers-arkansas-may-have-vast-lithium-reserves/>
+
+---
+
+## Austin condemns Kremlin ‘apologists’ in pledging support for Ukraine
+
+date: 2024-10-22, from: Hawaii Tribune Harold
+
+
+				<p>KYIV, Ukraine &#8212; Defense Secretary Lloyd Austin on Monday offered full-throated support for Ukraine&#8217;s fight against Russia and delivered biting criticism of naysayers who might seek to end the conflict on Moscow&#8217;s terms.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/22/nation-world-news/austin-condemns-kremlin-apologists-in-pledging-support-for-ukraine/>
+
+---
+
+## Obituaries for October 22
+
+date: 2024-10-22, from: Hawaii Tribune Harold
+
+
+				<p>Aaron Edward Chui, 63, of Hilo, died Oct. 2 at Hilo Benioff Medical Center. Born in Honolulu, he was a high school math teacher at Kamehameha Schools Hawaii campus. Survived by daughters, Elyse Chui of Long Beach, Calif., McKenna (Kevin) Hernandez of Rancho Cucamonga, Calif., Clarice Chui of Camarillo, Calif., and Jenna Chui of Camarillo, Calif.; brother Lorne (Pauline) Chui of Lompoc, Calif.; and half-sister Aprilani Mclwraith of Waikele. Arrangements by Dodo Mortuary.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/22/obituaries/obituaries-for-october-22-11/>
+
+---
+
+## Events that led to close call on Trump’s life were preventable, committee finds
+
+date: 2024-10-22, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The House task force on the attempted assassinations of former President Donald Trump released its first preliminary report Monday, chastising the Secret Service for poor planning and a communications breakdown that resulted in a fatal shooting at Trump&#8217;s rally in Butler, Pennsylvania.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/22/nation-world-news/events-that-led-to-close-call-on-trumps-life-were-preventable-committee-finds/>
+
+---
+
+## Most of Havana back online as Cuba works to revive power grid
+
+date: 2024-10-22, from: Hawaii Tribune Harold
+
+
+				<p>HAVANA &#8212; Cuba&#8217;s power-grid operator said it had restored electricity to most of the capital Havana on Monday even as Tropical Storm Oscar lashed the island&#8217;s eastern end, downing trees and power lines. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/22/nation-world-news/most-of-havana-back-online-as-cuba-works-to-revive-power-grid/>
+
+---
+
+## Cheney, with Harris, tells anti-abortion women it’s OK to back her
+
+date: 2024-10-22, from: Hawaii Tribune Harold
+
+
+				<p>MALVERN, Pa. &#8212; Former Rep. Liz Cheney of Wyoming on Monday sought to give voters who oppose abortion rights explicit permission to support Vice President Kamala Harris, suggesting during a town-hall-style event with Harris that Republican restrictions on abortion rights had gone too far.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/22/nation-world-news/cheney-with-harris-tells-anti-abortion-women-its-ok-to-back-her/>
+
+---
+
+## U.S. envoy calls spiraling conflict in Lebanon ‘out of control’
+
+date: 2024-10-22, from: Hawaii Tribune Harold
+
+
+				<p>BEIRUT &#8212; A top U.S. official said Monday that the conflict between Israel and Hezbollah had &#8220;escalated out of control,&#8221; and called for the revival of a United Nations resolution that, if enforced fully, could pull the region back from the brink amid Israel&#8217;s widening war in Lebanon.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/22/nation-world-news/u-s-envoy-calls-spiraling-conflict-in-lebanon-out-of-control/>
+
+---
+
+## Harris sets record for biggest fundraising quarter ever
+
+date: 2024-10-22, from: Hawaii Tribune Harold
+
+
+				<p>Vice President Kamala Harris&#8217; campaign set a record for the biggest fundraising quarter ever this fall, raising $1 billion in the three-month period that ended Sept. 30.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/22/nation-world-news/harris-sets-record-for-biggest-fundraising-quarter-ever/>
+
+---
+
+## Let’s Talk Food: ‘Sam Choy’s in the Kitchen’ cookbook
+
+date: 2024-10-22, from: Hawaii Tribune Harold
+
+
+				<p>KHON2 put out a challenge to their staff to come up with a new local program to air on Sundays at 6:30 p.m. The entire station was involved with collaborating and coming up with different ideas for a new show. This prime time, family/dinner hour show was to create something unique, special, and a destination program to give Hawaii families a fun way to end their weekend and prepare for the week ahead.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/22/features/lets-talk-food-sam-choys-in-the-kitchen-cookbook/>
+
+---
+
+## Koror Commemorates its 41st Constitution Day with Unity, Culture, and Community Pride
+
+date: 2024-10-22, from: Island Times
+
+<figure><img width="1024" height="577" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/palauan-reflects.jpg?fit=1024%2C577&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/palauan-reflects.jpg?w=1600&amp;ssl=1 1600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/palauan-reflects.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/palauan-reflects.jpg?resize=1024%2C577&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/palauan-reflects.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/palauan-reflects.jpg?resize=1536%2C865&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/palauan-reflects.jpg?resize=1200%2C676&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/palauan-reflects.jpg?resize=1568%2C883&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/palauan-reflects.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/palauan-reflects.jpg?resize=706%2C398&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/palauan-reflects.jpg?fit=1024%2C577&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73309" data-permalink="https://islandtimes.org/koror-commemorates-its-41st-constitution-day-with-unity-culture-and-community-pride/palauan-reflects/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/palauan-reflects.jpg?fit=1600%2C901&amp;ssl=1" data-orig-size="1600,901" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="palauan reflects" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/palauan-reflects.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/palauan-reflects.jpg?fit=780%2C440&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Koror, Palau – On October 21, 2024, Koror State celebrated the 41st anniversary of its Constitution with a Day and Night Market at Ngermalk Long Island Park. The event, held from 2:00 PM to 8:00 PM, attracted community members and visitors alike, who gathered to honor Koror’s unique governance, rich cultural heritage, and sense of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/koror-commemorates-its-41st-constitution-day-with-unity-culture-and-community-pride/">Koror Commemorates its 41st Constitution Day with Unity, Culture, and Community Pride </a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/koror-commemorates-its-41st-constitution-day-with-unity-culture-and-community-pride/>
+
+---
+
+## Tensions Rise Between Senate and PPUC Over Energy Rate-Setting Transparency
+
+date: 2024-10-22, from: Island Times
+
+<p>Koror, Palau (October 2024) – A heated exchange between the Senate Committee on Energy, Public Utilities, and Telecommunications (EPUT) and the Palau Public Utilities Corporation (PPUC) has brought the contentious issue of the Distributed Energy Rate (DER) into the spotlight. Senator Kerai Mariur, chairman of the Senate committee, has leveled serious allegations against PPUC and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/tensions-rise-between-senate-and-ppuc-over-energy-rate-setting-transparency/">Tensions Rise Between Senate and PPUC Over Energy Rate-Setting Transparency</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/tensions-rise-between-senate-and-ppuc-over-energy-rate-setting-transparency/>
+
+---
+
+## Palau House Approves Energy Subsidy Amendments, Future of Bill Uncertain
+
+date: 2024-10-22, from: Island Times
+
+<p>Ngerulmud — As the Senate Energy, Public Utilities, and Telecommunications (EPUT) Committee debates the legality of Palau’s new tariff system, the House of Delegates passed an amendment ensuring the continuation of energy subsidy programs under the recently implemented Distributed Energy Rate (DER) system. This amendment replaces the outdated Automatic Fuel Price Adjustment Clause (AFPAC), aligning [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-house-approves-energy-subsidy-amendments-future-of-bill-uncertain/">Palau House Approves Energy Subsidy Amendments, Future of Bill Uncertain</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-house-approves-energy-subsidy-amendments-future-of-bill-uncertain/>
+
+---
+
+## Family Fun Day at Kuabes Park: A Day of Fun and Free Clothing for All Ages
+
+date: 2024-10-22, from: Island Times
+
+<p>By: Eustoria Marie Borja Ngaraard, Palau &#8211; Ngarard State is excited to host a Family Fun Day on October 26, 2024, from 10:00 AM to 2:00 PM at Kuabes Park, a beautiful setting for a day filled with activities, food, and community bonding. The event offers a chance for families to come together, enjoy various [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/family-fun-day-at-kuabes-park-a-day-of-fun-and-free-clothing-for-all-ages/">Family Fun Day at Kuabes Park: A Day of Fun and Free Clothing for All Ages</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/family-fun-day-at-kuabes-park-a-day-of-fun-and-free-clothing-for-all-ages/>
+
+---
+
+## JICA donates boat trailer to PICRC as part of joint coastal ecosystem management project
+
+date: 2024-10-22, from: Island Times
+
+<figure><img width="1024" height="869" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?fit=1024%2C869&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?resize=300%2C255&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?resize=1024%2C869&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?resize=768%2C652&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?resize=1200%2C1018&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?resize=400%2C339&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?resize=706%2C599&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?fit=1024%2C869&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73297" data-permalink="https://islandtimes.org/jica-donates-boat-trailer-to-picrc-as-part-of-joint-coastal-ecosystem-management-project/re2500_dsc_0319/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?fit=1249%2C1060&amp;ssl=1" data-orig-size="1249,1060" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="re2500_DSC_0319" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?fit=300%2C255&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?fit=780%2C662&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Last week, the Palau International Coral Reef Center (PICRC) received a generous donation from the Japanese International Cooperation Agency (JICA) &#8211; a 33-footer double axle boat trailer. This donation is part of the ongoing project ‘Enhancement of Integrated Management of Coastal Ecosystems in Palau for Strengthening their Resilience to Climate Change’, which began in February [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/jica-donates-boat-trailer-to-picrc-as-part-of-joint-coastal-ecosystem-management-project/">JICA donates boat trailer to PICRC as part of joint coastal ecosystem management project</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/jica-donates-boat-trailer-to-picrc-as-part-of-joint-coastal-ecosystem-management-project/>
+
+---
+
+## WHERE DO PAY YOUR ATTENTION TO?
+
+date: 2024-10-22, from: Island Times
+
+<p>We can easily become consumed by the things we focus our attention on. My pastor shared a saying, “Wherever your attention is, so goes your affections.” This struck a chord with me because I find it to be very true. In this life, we are often drawn to worldly matters rather than focusing on spiritual [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/where-do-pay-your-attention-to/">WHERE DO PAY YOUR ATTENTION TO?</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/where-do-pay-your-attention-to/>
+
+---
+
+## In case of war with China, Guam will be on the frontline
+
+date: 2024-10-22, from: Island Times
+
+<p>HAGATNA, 21 OCTOBER 2024 (PACIFIC ISLAND TIMES) &#8212; Guam’s proximity to China makes it a default launch pad for any counterattack in the event of a conflict in the region, a top-ranking Navy official said, vowing defence of the island amid escalating threats from the People’s Liberation Army. “American prosperity and security depend on free [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/in-case-of-war-with-china-guam-will-be-on-the-frontline/">In case of war with China, Guam will be on the frontline</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/in-case-of-war-with-china-guam-will-be-on-the-frontline/>
+
+---
+
+## Oceania has ‘the highest rate of child sexual abuse in the world’ — so what can be done?
+
+date: 2024-10-22, from: Island Times
+
+<p>By Dinah Lewis Boucher SYDNEY, 21 OCTOBER 2024 (ABC PACIFIC) &#8212; More than 370 million children — or one in eight — have experienced rape or sexual assault, according to shocking figures released by UNICEF this month. But in Oceania, it&#8217;s even worse. There, one in three women has reported suffering sexual violence before the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/oceania-has-the-highest-rate-of-child-sexual-abuse-in-the-world-so-what-can-be-done/">Oceania has &#8216;the highest rate of child sexual abuse in the world&#8217; — so what can be done?</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/oceania-has-the-highest-rate-of-child-sexual-abuse-in-the-world-so-what-can-be-done/>
+
+---
+
+## Elon Musk’s $US1 million payouts to US voters raise election legality concerns
+
+date: 2024-10-22, from: Island Times
+
+<p>In short: (ABC-Australia) Billionaire Elon Musk is handing out $US1 million cheques to people who sign an online petition in support the US Constitution. Mr Musk&#8217;s America PAC organisation uses participants&#8217; details to try and influence them into voting for Donald Trump in next month&#8217;s election. What&#8217;s next? Legal concerns have been raised about whether [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/elon-musks-us1-million-payouts-to-us-voters-raise-election-legality-concerns/">Elon Musk&#8217;s $US1 million payouts to US voters raise election legality concerns</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/elon-musks-us1-million-payouts-to-us-voters-raise-election-legality-concerns/>
+
+---
+
+## IMF, ADB set sights on damning $37m Solomon Islands aid audit
+
+date: 2024-10-22, from: Island Times
+
+<p>HONIARA, 21 OCTOBER 2024 (BENAR NEWS) &#8212; The International Monetary Fund (IMF) and Asian Development Bank are poring over a highly critical audit of a multimillion-dollar COVID-19 aid package in Solomon Islands, partly supported by the two institutions, that found widespread mismanagement and potential corruption.&#160; The report from the Solomon Islands Auditor General Office highlighted [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/imf-adb-set-sights-on-damning-37m-solomon-islands-aid-audit/">IMF, ADB set sights on damning $37m Solomon Islands aid audit</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/imf-adb-set-sights-on-damning-37m-solomon-islands-aid-audit/>
+
+---
+
+## New carrier seeks to enter Guam-CNMI market, vows to offer affordable flight rates and better service
+
+date: 2024-10-22, from: Pacific Island Times
+
+By Bryan Manabat Saipan -- Micronesian Air Connection Services or MACS has proposed to offer better rates, frequent schedules and better... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/new-carrier-seeks-to-enter-guam-cnmi-market-vows-to-offer-affordable-flight-rates-and-better-servic>
+
+---
+
+## UH Mānoa alum wins 2025 Teacher of the Year
+
+date: 2024-10-22, from: University of Hawaiʻi News
+
+<p>A <abbr>UH</abbr> Mānoa College of Education graduate wins the 2025 Teacher of the Year in <span aria-label="Hawaii">Hawai&#699;i</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/21/uh-alum-wins-2025-teacher-of-the-year/"><abbr>UH</abbr> Mānoa alum wins 2025 Teacher of the Year</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/21/uh-alum-wins-2025-teacher-of-the-year/>
+
+---
+
+## UH faculty approve new contract overwhelming majority approve early settlement
+
+date: 2024-10-22, from: University of Hawaiʻi News
+
+<p>The agreement includes a 3.5&#37; wage increase in the first year and a 3.79&#37; increase in the second year.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/21/uh-faculty-approve-new-contract/"><abbr>UH</abbr> faculty approve new contract overwhelming majority approve early settlement</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/21/uh-faculty-approve-new-contract/>
+
+---
+
+## UH Alumni: Sarah Cloes, Flora Flora Co founder
+
+date: 2024-10-22, from: University of Hawaiʻi News
+
+<p>Time at <abbr>UH</abbr> inspired the entrepreneur to develop a sustainable hair care option.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/21/uh-alumni-sarah-cloes/"><abbr>UH</abbr> Alumni: Sarah Cloes, Flora Flora Co founder</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/21/uh-alumni-sarah-cloes/>
+
+---
+
+## WHO struggling to meet health-related goals in Western Pacific
+
+date: 2024-10-22, from: Pacific Island Times
+
+By Jayvee Vallejera   The Western Pacific Region of the World Health Organization is getting healthier compared to other WHO regions and... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/who-struggling-to-meet-health-related-goals-in-western-pacific>
+
+---
+
+## Aspiring teachers explore educational options at Leeward CC
+
+date: 2024-10-22, from: University of Hawaiʻi News
+
+<p>High school students from across <span aria-label="Oahu">O&#699;ahu</span> discovered how <abbr>UH</abbr> can help them become teachers.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/21/leeward-cc-dive-into-education/">Aspiring teachers explore educational options at Leeward <abbr>CC</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/21/leeward-cc-dive-into-education/>
+
+---
+
+## Cinematic arts students, alumni shine at 44th HIFF
+
+date: 2024-10-21, from: University of Hawaiʻi News
+
+<p>School of Cinematic Arts students, faculty and alumni earned awards and nominations at the <span aria-label="Hawaii">Hawai&#699;i</span> International Film Festival.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/21/students-alumni-shine-at-hiff/">Cinematic arts students, alumni shine at 44th <abbr>HIFF</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/21/students-alumni-shine-at-hiff/>
+
+---
+
+## GovGuam posts $51.M in excess revenue; senators propose different spending plans 
+
+date: 2024-10-21, from: Pacific Island Times
+
+By Pacific Island Times News Staff The last Consolidated Revenue Expenditure Report  for fiscal year  2024 indicated that the government... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/govguam-posts-51-m-in-excess-revenue>
+
+---
+
+## Champions, Coaches, and Careers
+
+date: 2024-10-21, from: HIKI NŌ ON PBS HAWAIʻI
+
+<p>In this episode of HIKI NŌ on PBS Hawai‘i, students share stories about a talented young athlete, two inspiring parents, passions for Lego and what it’s like to be a professional social media influencer.  Students at Honouliuli Intermediate School on Oʻahu contribute a profile story about an inspiring young inline hockey player who was selected [&#8230;]</p>
+<p>The post <a href="https://www.pbshawaii.org/champions-coaches-and-careers/">Champions, Coaches, and Careers</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/champions-coaches-and-careers/>
+
+---
+
+## Drug-resistant pathogen spread studied in U.S. waterways
+
+date: 2024-10-21, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> researchers will focus on the Hanalei River, where they will examine how cesspools and animal agriculture contribute to the spread of antimicrobial resistance.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/21/drug-resistant-pathogen-spread/">Drug-resistant pathogen spread studied in U.S. waterways</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/21/drug-resistant-pathogen-spread/>
 
 ---
 
@@ -283,6 +817,20 @@ date: 2024-10-21, from: Hawaii Tribune Harold
 
 ---
 
+## Police investigate Ocean View murder
+
+date: 2024-10-21, from: Hawaii Tribune Harold
+
+
+				<p>The body of a man with &#8220;fatal injuries&#8221; was found Friday afternoon within a residence in the 92-9000 block of Tiki Lane in the Hawaii Ocean View Estates subdivision, according to police.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/21/hawaii-news/police-investigate-ocean-view-murder/>
+
+---
+
 ## ‘Nothing Micro About Micronesia’ fall tour
 
 date: 2024-10-21, from: The Husk
@@ -292,6 +840,20 @@ The TeAda Productions performance is coming to the Big Island and Maui (and Guam
 <br> 
 
 <https://thehusk.substack.com/p/nothing-micro-about-micronesia-fall>
+
+---
+
+## Pacific Human Rights Film Festival changes people’s perspectives positively
+
+date: 2024-10-21, from: University of the South Pacific (Fiji)
+
+<p>Suva, Fiji – Around 2,500 people attended the 4th Pacific Human Rights Film Festival (PHRFF)...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/pacific-human-rights-film-festival-changes-peoples-perspectives-positively/">Pacific Human Rights Film Festival changes people’s perspectives positively</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/pacific-human-rights-film-festival-changes-peoples-perspectives-positively/>
 
 ---
 
@@ -390,6 +952,18 @@ WASHINGTON (Reuters) — The U.S. budget deficit grew to $1.833 trillion for fis
 <br> 
 
 <https://www.mvariety.com/business/business_news/us-budget-deficit-tops-1-8-trillion-in-fiscal-2024-third-largest-on-record/article_5561efe8-8efa-11ef-b4bd-1b1d526ca1d5.html>
+
+---
+
+## GHURA acquires $3.5M property in Pagat area for hospital project
+
+date: 2024-10-20, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Guam Housing and Urban Renewal Authority has acquired a $3.5 million piece of property in... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/ghura-acquires-3-5m-property-in-pagat-area-for-hospital-project>
 
 ---
 

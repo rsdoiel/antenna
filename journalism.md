@@ -1,19 +1,181 @@
 ---
 title: journalism
-updated: 2024-10-21 10:42:25
+updated: 2024-10-22 07:38:45
 ---
 
 # journalism
 
-(date: 2024-10-21 10:42:25)
+(date: 2024-10-22 07:38:45)
 
 ---
 
-## LIVE: Graduate Students for Justice in Palestine demonstration
+## Classifieds – October 22, 2024
+
+date: 2024-10-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/22/classifieds-october-22-2024/">Classifieds &#8211; October 22, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/22/classifieds-october-22-2024/>
+
+---
+
+## Students hatch winner with Im’peccable Chicken
+
+date: 2024-10-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Two students came together to build a business selling ready-to-eat chicken breast.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/22/students-hatch-winner-with-impeccable-chicken/">Students hatch winner with Im’peccable Chicken</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/22/students-hatch-winner-with-impeccable-chicken/>
+
+---
+
+## We don’t need new rom-coms
+
+date: 2024-10-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>“We Live in Time” incorporates rom-com elements to further its devastating storyline. </p>
+<p>The post <a href="https://dailytrojan.com/2024/10/22/we-dont-need-new-rom-coms/">We don’t need new rom-coms</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/22/we-dont-need-new-rom-coms/>
+
+---
+
+## The world according to Leah King, multidisciplinary Roski MFA artist
+
+date: 2024-10-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Art often reflects on the past. In Leah King’s world, it reimagines the future.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/22/the-world-according-to-leah-king-multidisciplinary-roski-mfa-artist/">The world according to Leah King, multidisciplinary Roski MFA artist</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/22/the-world-according-to-leah-king-multidisciplinary-roski-mfa-artist/>
+
+---
+
+## Jewish Voice for Peace Sukkot canceled by University
+
+date: 2024-10-22, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Students relocated the event to the North Trousdale entrance.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/22/jewish-voice-for-peace-sukkot-canceled-by-university/">Jewish Voice for Peace Sukkot canceled by University</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/22/jewish-voice-for-peace-sukkot-canceled-by-university/>
+
+---
+
+## USAC recap – Oct. 15
+
+date: 2024-10-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council held its third meeting of October on Tuesday.
+USAC is the official student government representing the undergraduate student body at UCLA. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/21/usac-recap-oct-15-3/>
+
+---
+
+## How students can keep themselves, fellow Bruins healthy during flu season
+
+date: 2024-10-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+Many Bruins might find themselves with a runny nose, dry cough or burning fever as the seasons change.
+Moving into a new environment, engaging in larger social gatherings and juggling fast-changing schedules at the start of a new academic year can lead students to fall sick. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/21/how-students-can-keep-themselves-fellow-bruins-healthy-during-flu-season/>
+
+---
+
+## AS Sol Fest Preview: Music, Food and Giveaways
+
+date: 2024-10-22, from: The Sundail (CSUN Student Newspaper)
+
+Associated Students’ (AS) Sol Fest is approaching, offering numerous opportunities for students to enjoy themselves on campus. On Thursday, Oct. 24 from 2 p.m. to 6 p.m. on the Sierra... 
+
+<br> 
+
+<https://sundial.csun.edu/186429/arts-entertainment/as-sol-fest-preview-music-food-and-giveaways/>
+
+---
+
+## Gallery: Weezer voyages to the Intuit Dome as part of The Blue Album 30th anniversary tour
+
+date: 2024-10-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+The newly constructed Intuit Dome hosted Weezer along with openers Dinosaur Jr. and The Flaming Lips on Oct. 11 for the arena’s 25th concert. The alternative rock band put on an intergalactic display – complete with fictional asteroid belts and broken spaceships – for a plot-driven anniversary tour. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/21/gallery-weezer-voyages-to-the-intuit-dome-as-part-of-the-blue-album-30th-anniversary-tour/>
+
+---
+
+## From screenings to beekeeping talks, Hammer Museum buzzes with Bee Week events
+
+date: 2024-10-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Hammer Museum was abuzz with Bee Week festivities.
+During Bee Week, which lasted from Oct. 13 to Sunday, the Hammer Museum hosted honey tastings, bee talks and screened the award-winning nature documentary, &#8220;Microcosmos.&#8221; As part of this programming, the Hammer Museum hosted beekeeper Joe O&#8217;Brien from Tuesday to Sunday to talk about queen bee breeding and biodiversity. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/21/from-screenings-to-beekeeping-talks-hammer-museum-buzzes-with-bee-week-events/>
+
+---
+
+## Theater review: ‘Kimberly Akimbo’ fails to be memorable with chaotic plot, generic soundtrack
 
 date: 2024-10-21, from: The Daily Bruin (UCLA Student Newspaper)
 
-The Daily Bruin covers breaking news relevant to the UCLA community as it happens. This page will be updated with live coverage of the current event. 
+Unlike an anagram, &#8220;Kimberly Akimbo&#8221; scrambles itself to form something that fails to spell anything out.
+The five-time Tony Award-winning musical has skated its way to the Hollywood Pantages Theatre this fall. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/21/theater-review-kimberly-akimbo-fails-to-be-memorable-with-chaotic-plot-generic-soundtrack/>
+
+---
+
+## Harper for Kids uses picture book to teach children John Wooden’s philosophy
+
+date: 2024-10-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+Tim and Peanut Louie Harper are helping kids climb John Wooden&#8217;s Pyramid of Success one page at a time.
+Harper for Kids is a nonprofit organization that has been passing on the teachings of UCLA&#8217;s very own award-winning basketball coach Wooden for over a decade. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/21/harper-for-kids-uses-picture-book-to-teach-children-john-woodens-philosophy/>
+
+---
+
+## Graduate Students for Justice in Palestine demonstration
+
+date: 2024-10-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Daily Bruin covers breaking news relevant to the UCLA community as it happens. This page covered events from Oct. 21, 2024.
+
+LIVE FEED:
+10:04 p.m. 
 
 <br> 
 

@@ -1,11 +1,71 @@
 ---
 title: motorcycles
-updated: 2024-10-21 10:42:26
+updated: 2024-10-22 07:38:46
 ---
 
 # motorcycles
 
-(date: 2024-10-21 10:42:26)
+(date: 2024-10-22 07:38:46)
+
+---
+
+## This Yamaha R1-Swapped Golf Cart Is the Perfect Way To Annoy Your Neighbors
+
+date: 2024-10-22, from: Ride Apart, Electric Motorcycle News
+
+Just don’t kill yourself doing it.  
+
+<br> 
+
+<https://www.rideapart.com/news/738069/yamaha-r1-swapped-golf-cart-crazy/>
+
+---
+
+## Toyota’s Hydrogen Fuel Cells Could Change EV Game, Save ICE In the Process
+
+date: 2024-10-22, from: Ride Apart, Electric Motorcycle News
+
+Swappable fuel cells will surely make hydrogen power more accessible.  
+
+<br> 
+
+<https://www.rideapart.com/news/738086/toyota-swappable-hydrogen-fuel-cell-technology/>
+
+---
+
+## Pirelli Recalls Several Motorcycle Tires Due To Tread Separation Problems
+
+date: 2024-10-22, from: Ride Apart, Electric Motorcycle News
+
+Just because your tire doesn't have a Pirelli logo, doesn't mean it's not affected. 
+
+<br> 
+
+<https://www.rideapart.com/news/738208/pirelli-recall-tread-seperation-motorcycle-tire/>
+
+---
+
+## Surely, Ducati’s Desmo450 MX Has KTM and Husqvarna Cowering In Fear
+
+date: 2024-10-22, from: Ride Apart, Electric Motorcycle News
+
+The Italian motocrosser keeps asserting its dominance.  
+
+<br> 
+
+<https://www.rideapart.com/news/738071/ducati-desmo450mx-italian-mx-champion/>
+
+---
+
+## Denny Hamlin: Las Vegas ‘Definitely a Poorly Executed Day’
+
+date: 2024-10-21, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor A late-race fuel strategy call ultimately salvaged a day of poor execution for Denny Hamlin in the South Point 400 at Las Vegas Motor Speedway.&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/hamlin-las-vegas-poorly-executed-day/>
 
 ---
 

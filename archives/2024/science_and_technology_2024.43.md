@@ -1,23 +1,407 @@
 ---
 title: science and technology
-updated: 2024-10-21 10:42:24
+updated: 2024-10-22 07:38:44
 ---
 
 # science and technology
 
-(date: 2024-10-21 10:42:24)
+(date: 2024-10-22 07:38:44)
+
+---
+
+## It's about time Intel, AMD dropped x86 games and turned to the real threat
+
+date: 2024-10-22, updated: 2024-10-22, from: The Register (UK I.T. News)
+
+<h4>Have recent troubles finally humbled Chipzilla?</h4> <p><strong>Opinion</strong>  This week, Intel and AMD set their decades-old rivalry aside to ensure x86 remains relevant amid growing adoption of competing architectures.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/22/intel_amd_x86/>
+
+---
+
+## Gateway: Life in a Lunar Module
+
+date: 2024-10-22, from: NASA breaking news
+
+Teams at NASA, ESA (European Space Agency), and Thales Alenia Space, including astronauts Stan Love and Luca Parmitano, came together in Turin, Italy, this summer for a test run of Gateway, humanity’s first space station to orbit the Moon. The group conducted what is known as human factors testing inside a mockup of Lunar I-Hab, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/artemis/gateway/gateway-life-in-a-lunar-module/>
+
+---
+
+## AI's energy appetite has Taiwan reconsidering the nuclear option
+
+date: 2024-10-22, updated: 2024-10-22, from: The Register (UK I.T. News)
+
+<h4>Premier indicates possible shift in post-Fukushima policy</h4> <p>The global surge in AI is placing unprecedented pressure on energy resources, with chipmakers such as TSMC consuming vast amounts of electricity to meet growing demand for advanced silicon. In response, Taiwan&#39;s government is signaling a potential shift in its longstanding opposition to nuclear energy to address its mounting power needs.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/22/taiwans_ai_chip_boom_sparks/>
+
+---
+
+## Socket plugs in $40M to strengthen software supply chain
+
+date: 2024-10-22, updated: 2024-10-22, from: The Register (UK I.T. News)
+
+<h4>Biz aims to scrub unnecessary dependencies from npm packages in the name of security</h4> <p>Security-focused developer Socket announced on Tuesday it has connected with another $40 million in funding to further its efforts to safeguard the software supply chain.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/22/socket_slurps_40m_to_secure/>
+
+---
+
+## As Arm rivals cook up custom silicon, Mediatek sticks to tried-and-true Cortex recipe
+
+date: 2024-10-22, updated: 2024-10-22, from: The Register (UK I.T. News)
+
+<h4>Exec Chris Bergey tells us what the chip designer is doing to stay competitive</h4> <p><strong>Interview</strong>  Arm Holdings has long been the primary architecture for mobile chips since the advent of modern smartphones – its Cortex is quietly humming away inside almost every phone or tablet you can think of. However, with Apple and Qualcomm producing their own custom silicon designs, Arm&#39;s market dominance appears less secure.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/22/arm_custom_silicon_interview/>
+
+---
+
+## This Pup Is Going Viral for Climbing to the Top of an Egyptian Pyramid
+
+date: 2024-10-22, from: Smithsonian Magazine
+
+Paramotorists spotted the dog while soaring above one of Giza's pyramids last week 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/this-pup-is-going-viral-for-climbing-to-the-top-of-an-egyptian-pyramid-180985306/>
+
+---
+
+## Clock's ticking on PostgreSQL 12, but not everyone is ready to say goodbye
+
+date: 2024-10-22, updated: 2024-10-22, from: The Register (UK I.T. News)
+
+<h4>11% of databases still on aging version with a month of support left</h4> <p>Users of PostgreSQL 12 have less than a month to prepare for the database to enter end of life and become unsupported.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/22/postgresql_12_eol/>
+
+---
+
+## Want to feel old? Excel just entered its 40th year
+
+date: 2024-10-22, updated: 2024-10-22, from: The Register (UK I.T. News)
+
+<h4>More senior than Windows itself, and still runs the world</h4> <p>Microsoft Excel, the true successor to the throne of COBOL. Version 1.0 was released on the last day of September 1985, four decades ago.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/22/excel_enters_its_40th_year/>
+
+---
+
+## Telcos find cloud migrations, security, are a pain in the IaaS
+
+date: 2024-10-22, updated: 2024-10-22, from: The Register (UK I.T. News)
+
+<h4>Carriers consume less than half the cloud they committed to use</h4> <p>Telecom companies have consumed only 48 percent of the cloud they have committed to, yet seek to secure more, according to a report released late last week by Infosys.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/22/telcos_consume_less_than_half/>
+
+---
+
+## Major publishers sue Perplexity AI for scraping without paying
+
+date: 2024-10-22, updated: 2024-10-22, from: The Register (UK I.T. News)
+
+<h4>We sell that to OpenAI – how dare you steal it and make stuff up</h4> <p>Major US news publishers Dow Jones &amp; Co and NYP Holdings have sued AI search engine startup Perplexity for scraping their content without paying for it.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/22/publishers_sue_perplexity_ai/>
+
+---
+
+## Lab-grown human brain cells drive virtual butterfly in simulation
+
+date: 2024-10-22, updated: 2024-10-22, from: The Register (UK I.T. News)
+
+<h4>Could organoid-driven computing be the future of AI power?</h4> <p>Researchers affiliated with the neuroscience platform FinalSpark have devised a 3D simulation depicting a butterfly that&#39;s directed by human brain cells.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/22/human_brain_tissue_butterfly_simulation/>
+
+---
+
+## Pixel perfect Ghostpulse malware loader hides inside PNG image files
+
+date: 2024-10-22, updated: 2024-10-22, from: The Register (UK I.T. News)
+
+<h4>Miscreants combine it with an equally tricky piece of social engineering</h4> <p>The Ghostpulse malware strain now retrieves its main payload via a PNG image file&#39;s pixels. This development, security experts say, is &#34;one of the most significant changes&#34; made by the crooks behind it since launching in 2023.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/22/ghostpulse_malware_loader_png/>
+
+---
+
+## India, Nvidia, discuss jointly developed AI chip
+
+date: 2024-10-22, updated: 2024-10-22, from: The Register (UK I.T. News)
+
+<h4>Current capabilities mean local manufacturing is not likely – but a chip tuned to Indian needs could work</h4> <p>India&#39;s government is reportedly in talks with Nvidia to co-develop AI silicon.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/22/india_nvidia_collaboration/>
+
+---
+
+## China Telecom's next 150,000 servers will mostly use local processors
+
+date: 2024-10-22, updated: 2024-10-22, from: The Register (UK I.T. News)
+
+<h4>Intel and AMD left scrapping over about a third of the deal, and license fees</h4> <p>Most years, China Telecom posts a tender for new servers to help it run the apps it needs to serve its hundreds of millions of customers. This year, its 150,000-plus orders will mostly go to domestic manufacturers who use local tech.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/22/china_telecom_local_servers/>
+
+---
+
+## Intern allegedly messed with ByteDance's LLM training cluster
+
+date: 2024-10-22, updated: 2024-10-22, from: The Register (UK I.T. News)
+
+<h4>No losses caused – except the intern&#39;s job – says TikTok parent</h4> <p>ByteDance has terminated an intern for &#34;maliciously interfering&#34; with a large language model training project.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/22/bytedance_intern_messed_with_llm/>
+
+---
+
+## US leans on Japan to curb sales of chipmaking equipment to China
+
+date: 2024-10-22, updated: 2024-10-22, from: The Register (UK I.T. News)
+
+<h4>Tokyo between a rock and a hard place as Beijing threatens to retaliate</h4> <p>The &#34;chip wars&#34; between the US and China have taken a new turn with members of a House Select Committee threatening action against Japanese companies if the country does not do more to restrict sales of chipmaking kit to China.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/22/us_pressure_japan_china/>
+
+---
+
+## Industry Supported Battery Passivation Techniques – Request for Information
+
+date: 2024-10-22, from: NASA breaking news
+
+The National Aeronautics and Space Administration (NASA) Ames Research Center (ARC) on behalf of the Space Technology Mission Directorate’s (STMD) Small Spacecraft Technology (SST) Program and is hereby soliciting information from potential sources for inputs on industry, academia, or government adopted battery passivation techniques. As part of a continual process improvement effort and potential requirement revisions, the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/industry-supported-battery-passivation-techniques-request-for-information/>
+
+---
+
+## Drone maker DJI sues Pentagon over ‘Chinese military company’ label
+
+date: 2024-10-22, updated: 2024-10-22, from: The Register (UK I.T. News)
+
+<h4>Pending CCP drone ban could render the suit irrelevant</h4> <p>Chinese drone maker DJI has sued the US Department of Defense, alleging it was added to a list of companies affiliated with the Chinese military and denied the opportunity to protest its innocence.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/22/dji_sues_dod/>
+
+---
+
+## US moves ahead with crackdown on data brokers selling to six 'countries of concern'
+
+date: 2024-10-21, updated: 2024-10-21, from: The Register (UK I.T. News)
+
+<h4>Biden&#39;s Executive Order finally getting its day in the sun, soonish</h4> <p>The US federal government is poised to implement an Executive Order that would ban data brokers selling significant amounts of information to buyers in six countries.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/21/us_crackdown_data_brokers/>
+
+---
+
+## China’s Spamouflage cranks up trolling of US Senator Rubio as election day looms
+
+date: 2024-10-21, updated: 2024-10-21, from: The Register (UK I.T. News)
+
+<h4>Note to Xi: Marco and Ted Cruz aren&#39;t the same person</h4> <p>China&#39;s Spamouflage disinformation crew has been targeting US Senator Marco Rubio (R-Florida) with its fake news campaigns over the past couple of months, trolling the Republican lawmaker&#39;s official X account and posting negative stories about Rubio on Reddit and Medium.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/21/china_spamouflage_trolls_marc_rubio/>
+
+---
+
+## Sophos to snatch Secureworks in $859M buyout: Why fight when you can just buy?
+
+date: 2024-10-21, updated: 2024-10-21, from: The Register (UK I.T. News)
+
+<h4>Private equity giant Thoma Bravo adds another trophy to its growing collection</h4> <p>British security biz Sophos has announced a plan to gobble up competitor Secureworks in an $859 million deal that will make Dell happy.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/21/sophos_buys_secureworks_thoma_bravo/>
+
+---
+
+## A New Marine Sanctuary Off California Will Be Co-Managed by Indigenous Peoples
+
+date: 2024-10-21, from: Smithsonian Magazine
+
+NOAA designated the Chumash Heritage National Marine Sanctuary this month, following a decade of advocacy by supporters. The protected site will be finalized after a 45-day review period 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-new-marine-sanctuary-off-california-will-be-co-managed-by-indigenous-peoples-180985301/>
+
+---
+
+## The Top 25 Trending Halloween Costumes of 2024, According to Google
+
+date: 2024-10-21, from: Smithsonian Magazine
+
+This year, celebrants will likely be channeling characters from hit franchises like "Beetlejuice," "Inside Out" and "Deadpool" 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-top-25-trending-halloween-costumes-of-2024-according-to-google-180985304/>
+
+---
+
+## Microsoft says its Copilot AI agents set to tackle employee tasks in November
+
+date: 2024-10-21, updated: 2024-10-21, from: The Register (UK I.T. News)
+
+<h4>Let bots manage your supply chain? What could possibly go wrong?</h4> <p>Since announcing Copilot Studio last year, Microsoft claims it has achieved significant efficiency gains across multiple business units using its tools. Starting next month, customers will be able to put those claims to the test.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/21/microsoft_copilot_agents/>
+
+---
+
+## NASA Invites Media to Chile Artemis Accords Signing Ceremony
+
+date: 2024-10-21, from: NASA breaking news
+
+Chile will sign the Artemis Accords during a ceremony at 3 p.m. EDT on Friday, Oct. 25, at NASA’s Headquarters in Washington. NASA Administrator Bill Nelson will host Aisén Etcheverry,&#160;Chile’s minister of science, technology, knowledge and innovation, and Juan Gabriel Valdés, ambassador of Chile to the United States, along with other officials from Chile and [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-invites-media-to-chile-artemis-accords-signing-ceremony/>
+
+---
+
+## The billionaire behind Trump's 'unhackable' phone is on a mission to fight Tesla's FSD
+
+date: 2024-10-21, updated: 2024-10-22, from: The Register (UK I.T. News)
+
+<h4>Dan O&#39;Dowd tells El Reg about the OS secrets and ongoing clash with Musk</h4> <p><strong>Interview</strong>  This month, presidential hopeful Donald Trump got a tool in his arsenal: some allegedly &#34;unhackable&#34; communications kit. <i>The Register</i> has talked to the man behind the operating system, who also ran for the US Senate on a campaign to get self-driving Teslas off the road – and is on something of a crusade about the matter.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/21/odowd_tesla_trump/>
+
+---
+
+## On the Road Again…
+
+date: 2024-10-21, from: NASA breaking news
+
+In this image from Oct. 3, 2024, NASA’s mobile launcher 1 makes its way back to the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida, after undergoing upgrades and tests in preparation for the agency’s Artemis II mission. Artemis II is the first crewed mission on NASA&#8217;s path to establishing a long-term presence [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/on-the-road-again/>
+
+---
+
+## An Ice Age Infant’s 17,000-Year-Old DNA Reveals He Had Dark Skin and Blue Eyes
+
+date: 2024-10-21, from: Smithsonian Magazine
+
+The baby boy’s recovered genome suggests he’s related to a famous Ice Age population 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/an-ice-age-infants-17000-year-old-dna-has-revealed-he-had-dark-skin-and-blue-eyes-180985305/>
+
+---
+
+## Station Science Top News: Oct. 18, 2024
+
+date: 2024-10-21, from: NASA breaking news
+
+Microgravity had no immediate effect on a person’s ability to perceive the height of an object, indicating that astronauts can safely perform tasks that rely on accurate and precise height judgments soon after arrival in space. We use the height and width of objects around us to complete tasks such as reaching for objects and deciding whether [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-18-2024/>
+
+---
+
+## China ramps up semiconductor patents amid US export restrictions
+
+date: 2024-10-21, updated: 2024-10-21, from: The Register (UK I.T. News)
+
+<h4>AI innovation and geopolitical tensions push Middle Kingdom filings up 42%</h4> <p>China&#39;s semiconductor industry is speeding up in response to US export controls, according to research by a specialist in intellectual property.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/21/global_semiconductor_patents_surge/>
+
+---
+
+## See 15 Mesmerizing Photos of Hidden Scenes Only Visible Through a Microscope
+
+date: 2024-10-21, from: Smithsonian Magazine
+
+Winners of the Nikon Small World Photomicrography Competition captured insects, cancer cells, cat claws and more 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/see-mesmerizing-photos-of-hidden-scenes-only-visible-through-a-microscope-180985303/>
 
 ---
 
 ## Musk's $1M election lottery raises serious legal concerns, says Pennsylvania governor
 
-date: 2024-10-21, updated: 2024-10-21, from: The Register (UK I.T. News)
+date: 2024-10-21, updated: 2024-10-22, from: The Register (UK I.T. News)
 
 <h4>C&#39;mon, do you really think ol&#39; Elon’s handing out all that cash, day after day?</h4> <p>Elon Musk&#39;s plan to give $1 million each day to a random registered &#34;swing state&#34; voter who has signed his election petition could merit a look for election law violations, Pennsylvania governor Josh Shapiro said over the weekend. …</p> 
 
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2024/10/21/shocking_elon_musks_1m_election/>
+
+---
+
+## Explore International Space Station Research with NASA Mobile Apps
+
+date: 2024-10-21, from: NASA breaking news
+
+At any given time, crew members are conducting dozens of scientific investigations and technology demonstrations on the International Space Station. If you’re curious about this work, the Space Station Research Xplorer (SSRX) mobile application provides information on these experiments, special facilities on the station, research benefits, and published results. The app includes summaries of each [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/station/mobile-app-lets-you-explore-the-diverse-ecosystem-of-research-and-technology-on-the-international-space-station/>
 
 ---
 
@@ -167,9 +551,9 @@ date: 2024-10-21, updated: 2024-10-21, from: The Register (UK I.T. News)
 
 ## Linux admin asked savvy scientist for IT help and the boffin blew it
 
-date: 2024-10-21, updated: 2024-10-21, from: The Register (UK I.T. News)
+date: 2024-10-21, updated: 2024-10-22, from: The Register (UK I.T. News)
 
-<h4>In science, every day is about testing hypotheses. Such as: &#39;You did what to the network?&#39;</h4> <p><strong>Who, Me?</strong>  Welcome, gentle reader, to another exciting week at the coalface of tech and therefore the anticipation of five joyous productive days ahead and a fresh edition of Who, Me? – <em>The Register</em>&#39;s reader-contributed tales of tech gone awry.…</p> 
+<h4>In science, every day is about testing hypotheses. Such as: &#39;plugging this thing in here is OK, right?&#39;</h4> <p><strong>Who, Me?</strong>  Welcome, gentle reader, to another exciting week at the coalface of tech and therefore the anticipation of five joyous productive days ahead and a fresh edition of Who, Me? – <em>The Register</em>&#39;s reader-contributed tales of tech gone awry.…</p> 
 
 <br> 
 

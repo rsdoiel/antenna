@@ -1,11 +1,59 @@
 ---
 title: health
-updated: 2024-10-21 10:42:26
+updated: 2024-10-22 07:38:46
 ---
 
 # health
 
-(date: 2024-10-21 10:42:26)
+(date: 2024-10-22 07:38:46)
+
+---
+
+## Genomic epidemiology and evolutionary dynamics of the Omicron variant of SARS-CoV-2 during the fifth wave of COVID-19 in Pakistan
+
+date: 2024-10-22, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionThe coronavirus disease 2019 (COVID-19) pandemic, caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has posed extraordinary challenges to global health systems and economies. The virus’s rapid evolution has resulted in several variants of concern (VOCs), including the highly transmissible Omicron variant, characterized by extensive mutations. In this study, we investigated the genetic diversity, population differentiation, and evolutionary dynamics of the Omicron VOC during the fifth wave of COVID-19 in Pakistan.MethodsA total of 954 Omicron genomes sequenced during the fifth wave of COVID-19 in Pakistan were analyzed. A Bayesian framework was employed for phylogenetic reconstructions, molecular dating, and population dynamics analysis.ResultsUsing a population genomics approach, we analyzed Pakistani Omicron samples, revealing low within-population genetic diversity and significant structural variation in the spike (S) protein. Phylogenetic analysis showed that the Omicron variant in Pakistan originated from two distinct lineages, BA.1 and BA.2, which were introduced from South Africa, Thailand, Spain, and Belgium. Omicron-specific mutations, including those in the receptor-binding domain, were identified. The estimated molecular evolutionary rate was 2.562E-3 mutations per site per year (95% HPD interval: 8.8067E-4 to 4.1462E-3). Bayesian skyline plot analysis indicated a significant population expansion at the end of 2021, coinciding with the global Omicron outbreak. Comparative analysis with other VOCs showed Omicron as a highly divergent, monophyletic group, suggesting a unique evolutionary pathway.ConclusionsThis study provides a comprehensive overview of Omicron’s genetic diversity, genomic epidemiology, and evolutionary dynamics in Pakistan, emphasizing the need for global collaboration in monitoring variants and enhancing pandemic preparedness. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1484637>
+
+---
+
+## Novel antimicrobial coating for hernia meshes
+
+date: 2024-10-22, from: Frontiers in Cellular and Infection Microbiology
+
+PurposeAntibiotic coating for several medical devices has been carried out; however, there are only few studies about coating hernia meshes with antimicrobial substances. In this study we checked the capacity of different commercially available hernia meshes to act as drug carrier.MethodsThe meshes were coated with gentamicin palmitate, chlorhexidine palmitic acid and chlorhexidine palmitate. The coating mass and subsequent in vitro delivery rate were evaluated for gentamicin palmitate by fluorescence polarization. For Chlorhexidine coated devices the coating mass was determined by weighing. The in vitro delivery rate was determined by UV absorption (255 nm). The interaction of each mesh to the different coating substances was observed by scanning electron microscopy.Results1. Certain uniformity was observed on the quantity of chlorhexidine coating the surface of each mesh used when compared with gentamicin palmitate coating. 2.We did not detect significant difference between the amounts of gentamicin palmitate released from each mesh. 3. The release of chlorhexidine palmitate and chlorhexidine palmitic acid from UltraPro™ and Mersilene™ were significantly higher (p<0.05) in comparison with the other two meshes. 4. The coating substances covered the surface of the fibers without damaging its structure. 5. The coating substances were distributed all along the fibers in all samples.ConclusionsWe suggest the use of chlorhexidine palmitate and chlorhexidine palmitic acid, as well as gentamicin palmitate, for coating of hernia meshes aiming prevention of infections. Further investigation of the bactericidal effect of coated hernia meshes against biofilm form of S. aureus and other device-related infections is suggested. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1383680>
+
+---
+
+## Alternative splicing in the genome of HPV and its regulation
+
+date: 2024-10-22, from: Frontiers in Cellular and Infection Microbiology
+
+Persistent infection with high-risk human papillomavirus (HR-HPV) is the main cause of cervical cancer. These chronic infections are characterized by high expression of the HPV E6 and E7 oncogenes and the absence of the L1 and L2 capsid proteins. The regulation of HPV gene expression plays a crucial role in both the viral life cycle and rare oncogenic events. Alternative splicing of HPV mRNA is a key mechanism in post-transcriptional regulation. Through alternative splicing, HPV mRNA is diversified into various splice isoforms with distinct coding potentials, encoding multiple proteins and influencing the expression of HPV genes. The spliced mRNAs derived from a donor splicing site within the E6 ORF and one of the different acceptor sites located in the early mRNA contain E6 truncated mRNAs, named E6*. E6* is one of the extensively studied splicing isoforms. However, the role of E6* proteins in cancer progression remains controversial. Here, we reviewed and compared the alternative splicing events occurring in the genomes of HR-HPV and LR-HPV. Recently, new HPV alternative splicing regulatory proteins have been continuously discovered, and we have updated the regulation of HPV alternative splicing. In addition, we summarized the functions of known splice isoforms from three aspects: anti-tumorigenic, tumorigenic, and other cancer-related functions, including not only E6*, but also E6^E7, E8^E2, and so on. Comprehending their contributions to cancer development enhances insights into the carcinogenic mechanisms of HPV and explores the potential utility of alternative splicing in the diagnosis and treatment of cervical cancer. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1443868>
+
+---
+
+## Apoptosis, inflammatory and innate immune responses induced by infection with a novel goose astrovirus in goose embryonic kidney cells
+
+date: 2024-10-22, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionSince 2016, a highly lethal visceral gout induced by infection with the novel goose astrovirus (GoAstV) resulted in an ongoing outbreak in goslings in China, with a mortality rate ranging from 10% to 50%, and causing considerable economic losses in the goose industry. However, the pathogenesis of GoAstV and the molecular mechanism by which kidney lesions are induced by GoAstV infection are unclear.MethodsIn the present study, a GEK cell infection model for GoAstV was established, and the apoptosis, inflammatory and innate immune responses induced by GoAstV were investigated in GEK cells.ResultsThe results shown that the expression of proapoptotic proteins, including Bax, caspase-3, caspase-9 and cytochrome c, increased in the infection group; however, the expression of the antiapoptotic protein Bcl-2 decreased, indicating that apoptosis was induced by GoAstV infection in GEK cells. Besides, the activation of the RIG-I/MDA5 pathway and the downstream upregulation of proinflammatory cytokines, including the adapter proteins MAVS, IRF7 and NF-κB and the proinflammatory cytokines IL-6, IL-8 and TNF-α, were detected in GEK cells infected with GoAstV. In addition, GoAstV infection induces the activation of the NLPR3 pathway and further stimulates the increased production of IL-1β. In summary, the present study revealed that GoAstV infection could induce apoptosis and the activation of the RIG-I/MDA5 and NLRP3 pathways in GEK cells, as well as the massive release of proinflammatory cytokines.DiscussionThese results are helpful for elucidating the molecular mechanism of pathological lesions in the kidney in gout goslings infected with GoAstV and the interaction between GoAstV and the innate immune system of the host. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1452158>
 
 ---
 
