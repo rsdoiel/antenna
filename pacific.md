@@ -1,11 +1,102 @@
 ---
 title: pacific
-updated: 2024-10-22 07:55:14
+updated: 2024-10-22 16:12:59
 ---
 
 # pacific
 
-(date: 2024-10-22 07:55:14)
+(date: 2024-10-22 16:12:59)
+
+---
+
+## Kauaʻi’s community health response spotlighted in UH film
+
+date: 2024-10-22, from: University of Hawaiʻi News
+
+<p><abbr>CASPER</abbr> is a rapid needs assessment to provide rapid household level information, pertaining to a community’s health and resource needs.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/22/casper-kauai-film/">Kauaʻi’s community health response spotlighted in <abbr>UH</abbr> film</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/22/casper-kauai-film/>
+
+---
+
+## Alexander earns 4th Big West Offensive Player of the Week award
+
+date: 2024-10-22, from: University of Hawaiʻi News
+
+<p>Caylen Alexander posted 38 kills in the first two matches of their three-match road trip.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/22/alexander-bw-offensive-player-week/">Alexander earns 4th Big West Offensive Player of the Week award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/22/alexander-bw-offensive-player-week/>
+
+---
+
+## Yamashita named PacWest Co-Player of the Week
+
+date: 2024-10-22, from: University of Hawaiʻi News
+
+<p>Katsuhito Yamashita shot a two-under to win over <abbr>HPU</abbr> and Chaminade.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/22/yamashita-pacwest-co-player-week/">Yamashita named PacWest Co-Player of the Week</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/22/yamashita-pacwest-co-player-week/>
+
+---
+
+## Hawaiian Word of the Week: ʻŌlelo hou
+
+date: 2024-10-22, from: University of Hawaiʻi News
+
+<p>&#699;Ōlelo hou&#8212;To speak again, repeat.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/22/hawaiian-word-of-the-week-olelo-hou/">Hawaiian Word of the Week: ʻŌlelo hou</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/22/hawaiian-word-of-the-week-olelo-hou/>
+
+---
+
+## Damacion makes history with 4th Big West Freshman of the Week honor
+
+date: 2024-10-22, from: University of Hawaiʻi News
+
+<p>Nalani Damacion’s game-winning goal marks the team-leading sixth of the season.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/22/damacion-big-west-freshman-week/">Damacion makes history with 4th Big West Freshman of the Week honor</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/22/damacion-big-west-freshman-week/>
+
+---
+
+## UH research sheds light on atmospheric blocking
+
+date: 2024-10-22, from: University of Hawaiʻi News
+
+<p>Blocking events can create weather patterns that can be associated with record-breaking flooding or heat waves.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/22/atmosheric-blocking/"><abbr>UH</abbr> research sheds light on atmospheric blocking</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/22/atmosheric-blocking/>
+
+---
+
+## UH Mānoa tackles wastewater emissions with $2M grant
+
+date: 2024-10-22, from: University of Hawaiʻi News
+
+<p>The team will run pilot-scale testing at the <span aria-label="Waianae">Wai&#699;anae</span> wastewater treatment facility starting 2025.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/22/wastewater-emissions-research/"><abbr>UH</abbr> Mānoa tackles wastewater emissions with $2<abbr>M</abbr> grant</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/22/wastewater-emissions-research/>
 
 ---
 

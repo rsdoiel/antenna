@@ -1,11 +1,96 @@
 ---
 title: central coast
-updated: 2024-10-22 07:38:44
+updated: 2024-10-22 16:13:00
 ---
 
 # central coast
 
-(date: 2024-10-22 07:38:44)
+(date: 2024-10-22 16:13:00)
+
+---
+
+## Firefighters Battle Apartment Building Fire in Old Town Goleta
+
+date: 2024-10-22, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-Goleta-Apartment-Fire-rc-2000.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Firefighters responded Tuesday afternoon to a 2-alarm fire at an apartment building in Old Town Goleta." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-Goleta-Apartment-Fire-rc-2000.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-Goleta-Apartment-Fire-rc-2000.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-Goleta-Apartment-Fire-rc-2000.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-Goleta-Apartment-Fire-rc-2000.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-Goleta-Apartment-Fire-rc-2000.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-Goleta-Apartment-Fire-rc-2000.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-Goleta-Apartment-Fire-rc-2000.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-Goleta-Apartment-Fire-rc-2000.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-Goleta-Apartment-Fire-rc-2000.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Firefighters responded Tuesday afternoon to a fire at an apartment building in Old Town Goleta. The fire in the two-story structure was reported shortly after 2 p.m. on the 300 [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/firefighters-battle-apartment-building-fire-in-old-town-goleta/">Firefighters Battle Apartment Building Fire in Old Town Goleta</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/firefighters-battle-apartment-building-fire-in-old-town-goleta/>
+
+---
+
+## Laurie Jervis: Families Acquire Laetitia Vineyard in Arroyo Grande
+
+date: 2024-10-22, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Three families with local ties — including a longtime winemaker — have purchased Laetitia Vineyard &#38; Winery in Arroyo Grande from Vintage Wine Estates, which filed for Chapter 11 bankruptcy in July. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/laurie-jervis-families-acquire-laetitia-vineyard-in-arroyo-grande/">Laurie Jervis: Families Acquire Laetitia Vineyard in Arroyo Grande</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/laurie-jervis-families-acquire-laetitia-vineyard-in-arroyo-grande/>
+
+---
+
+## Police: Don’t Fall for Online Scam Targeting Santa Barbara Residents
+
+date: 2024-10-22, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Barbara Police Department has been alerted to an online scam targeting Santa Barbara residents. The scam starts with the perpetrator sending a photo of the targeted person’s house, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/police-dont-fall-for-online-scam-targeting-santa-barbara-residents/">Police: Don&#8217;t Fall for Online Scam Targeting Santa Barbara Residents</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/police-dont-fall-for-online-scam-targeting-santa-barbara-residents/>
+
+---
+
+## Goleta Library Closing Early Today
+
+date: 2024-10-22, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Goleta Valley Library will be closing at 5 p.m. today, Tuesday Oct. 22, due to a planned power outage as Southern California Edison performs routine maintenance on the electrical equipment [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/goleta-library-closing-early-today/">Goleta Library Closing Early Today</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/goleta-library-closing-early-today/>
+
+---
+
+## Downtown is the Happening Place for Halloween Trick or Treating
+
+date: 2024-10-22, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Little ghouls, goblins, witches, and superheroes are invited to head downtown with their goodie bags for the Annual Downtown Santa Barbara Halloween, 3-6 p.m. Saturday, Oct. 26. More than 100 [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/downtown-is-the-happening-place-for-halloween-trick-or-treating/">Downtown is the Happening Place for Halloween Trick or Treating</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/downtown-is-the-happening-place-for-halloween-trick-or-treating/>
+
+---
+
+## Joan Hunter Mayer: How to Help a Dog Learn to Play Nicely with Other Dogs
+
+date: 2024-10-22, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Dear Inquisitive Canine, Q: My 2½-year-old Aussie loves to play with other dogs, but she is too rude and jumps all over them, ending in fighting and me pulling her [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/joan-hunter-mayer-how-to-help-a-dog-learn-to-play-nicely-with-other-dogs/">Joan Hunter Mayer: How to Help a Dog Learn to Play Nicely with Other Dogs</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/joan-hunter-mayer-how-to-help-a-dog-learn-to-play-nicely-with-other-dogs/>
 
 ---
 
@@ -64,21 +149,6 @@ date: 2024-10-22, from: Newshawk, the freshest news in Santa Barbara County
 <br> 
 
 <https://www.noozhawk.com/sbcc-measure-p-bond-campaigns-heat-up-in-final-weeks-before-election/>
-
----
-
-## Doris Victoria Holzheu of Solvang, 1929-2024
-
-date: 2024-10-22, from: Newshawk, the freshest news in Santa Barbara County
-
-<figure><img width="768" height="1024" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Mothers-Day-May-12-2019-jpg.jpg?fit=768%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Doris Victoria Holzheu" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Mothers-Day-May-12-2019-jpg.jpg?w=1536&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Mothers-Day-May-12-2019-jpg.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Mothers-Day-May-12-2019-jpg.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Mothers-Day-May-12-2019-jpg.jpg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Mothers-Day-May-12-2019-jpg.jpg?resize=900%2C1200&amp;ssl=1 900w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Mothers-Day-May-12-2019-jpg.jpg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Mothers-Day-May-12-2019-jpg.jpg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Mothers-Day-May-12-2019-jpg.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Mothers-Day-May-12-2019-jpg.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Mothers-Day-May-12-2019-jpg.jpg?resize=1200%2C1600&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Mothers-Day-May-12-2019-jpg.jpg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/Mothers-Day-May-12-2019-jpg.jpg?fit=768%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>Doris Victoria Holzheu, who passed away on Oct. 14, 2024, at age 94 in her home, was a woman of many passions. From playing the Zeiharmonica (German accordion) to knitting, [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/doris-victoria-holzheu-of-solvang-1929-2024/">Doris Victoria Holzheu of Solvang, 1929-2024</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<br> 
-
-<https://www.noozhawk.com/doris-victoria-holzheu-of-solvang-1929-2024/>
 
 ---
 

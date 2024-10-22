@@ -1,11 +1,560 @@
 ---
 title: north america
-updated: 2024-10-22 07:38:43
+updated: 2024-10-22 16:12:59
 ---
 
 # north america
 
-(date: 2024-10-22 07:38:43)
+(date: 2024-10-22 16:12:59)
+
+---
+
+## 'Made in China’ election merchandise floods US market
+
+date: 2024-10-22, from: VOA News USA
+
+WASHINGTON — As the United States presidential election enters its final phase, more and more voters are expressing support for their favored candidate by wearing election merchandise.
+
+
+What they may not realize is that the “Make America Great Again” Trump hat or “Childless Cat Lady for Harris” T-shirt they’re wearing quite possibly was made in China.
+
+
+With the help of e-commerce platforms, Chinese traders are flooding the market for U.S. election merchandise with cheap goods. Anecdotal evidence suggests U.S. makers of these products are struggling to compete.
+
+
+“I think the amount of stuff on Amazon and Etsy that's coming from China and other countries in cargo ships and unloaded on American shores is drastically impacting American manufacturers’, like myself, ability to compete and grow our own business. I think it's dramatic,” said Ben Waxman, founder and co-owner of American Roots, an American apparel company.
+
+
+Waxman wouldn’t share production or profit figures with VOA Mandarin Service because of privacy concerns, but he did say his U.S.-made campaign T-shirts, for example, sell for about $15 each, while those on Chinese online retailer Temu can sell for as little as $3.
+
+
+"It's more expensive when you pay higher wages, living wages, and abide by environmental standards,” Waxman said, referring to long-standing criticisms of China’s manufacturing practices.
+
+
+His unionized company has been producing campaign merchandise for presidential candidates since 2016, mainly T-shirts and sweatshirts, with all raw materials and production sourced within the U.S.
+
+
+Flooding the market
+
+
+VOA Mandarin Service was unable to find total sales figures for made-in-America election merchandise versus made-in-China ones. But the massive number of Chinese-made election products for sale on e-commerce platforms, including Amazon and eBay, show they are flooding the market.
+
+
+On Temu alone, tens of thousands of election-themed items have been sold at a fraction of the price of the official campaigns’ versions.
+
+
+Among them, a “Make America Great Again” hat costs less than $4, while the official Trump campaign store website, which boasts “All Products Made in the USA,” sells them for 10 times that price at $40 each.
+
+
+Likewise, Temu’s “Kamala Harris 2024” hats can sell for less than $3 each, while the official Kamala Harris campaign store website sells “Kamala” hats for $47 each.
+
+
+The Harris campaign also vowed to only sell products made in the U.S. on its official websites.
+
+
+VOA asked both campaigns for comment but didn't receive a response by the time of publication.
+
+
+The stark contrast in prices highlights the challenges the U.S. faces in reducing its dependence on Chinese products and closing a trade loophole, known as the de minimis loophole, that allows Chinese companies to ship goods worth less than $800 to the U.S. without paying import duties.
+
+
+Kim Glas, president and CEO of the National Council of Textile Organizations, a labor union-aligned organization, said abuse of the de minimis loophole is rampant, adding that her group "lost 21 manufacturing operations over the last 18 months.”
+
+
+Glas said some of NCTO’s member manufacturers found sales of campaign products are slower this year than in any previous U.S. election cycle.
+
+
+VOA Mandarin reached out to Amazon and eBay for comments on the volume of presidential campaign merchandise imported from China on their websites and their regulations of the Chinese vendors but didn’t receive a response by the time of publication.
+
+
+Temu didn’t comment on election product sales in the U.S., but the company’s spokesperson replied in an email to VOA Mandarin, “Temu's growth isn't dependent on the de minimis policy. The primary drivers behind our rapid expansion and market acceptance are the supply-chain efficiencies and operational proficiencies we've cultivated over the years.”
+
+
+The spokesperson added, “We are open to and supportive of any policy adjustments made by legislators that align with consumer interests.”
+
+
+U.S. textile industry representatives note the irony of the two U.S. presidential candidates talking tough on trade with China while their own followers are buying China-made products to show their support for them.
+
+
+“If someone is supporting a candidate because of that candidate's economic policy and their position toward improving our economy and improving our environment and improving our labor conditions, and doing so by increasing the amount of domestic manufacturing, and then they're supporting a candidate by buying a product that's made in a country that stands for the opposite of that, they're actually doing themselves and the candidate and the economy a disservice,” said Mitch Cahn, president of Unionwear, a New York-based apparel company that has supplied more than 300,000 baseball caps to Harris’ campaign.
+
+
+'Anybody can make the product'
+
+
+Cahn notes that anyone can produce campaign products because the campaigns don't control their intellectual property. They think "it's more valuable for them to have a person wear the campaign's name on their head than it is to make money from selling the merchandise.”
+
+
+“When anybody can make the product and sell it, a lot of the products are going to end up being made in China because there's just not a lot of manufacturers here,” he told VOA Mandarin.
+
+
+The Associated Press reported on October 18 that thousands of Donald Trump's "God Bless America" Bibles were printed in China. The AP also noted that most Bibles, not just the Trump-backed one, are made in China.
+
+
+Critics note Trump’s promotion of Made in the USA products could be undermined by the revelation.
+
+
+“In past [election] years, this would've been a scandal,” says Marc Zdanow, a political consultant and CEO of Engage Voters U.S. “I think Trump voters just don't care. ... I guess the question is whether or not this rises to the top for those voters who are still undecided. This issue is certainly one that could be enough to push this group away from Trump.”
+
+
+Chris Tang, a business administration and global management professor at UCLA’s Anderson School of Management, told VOA Mandarin the impact of merchandise made in China on the U.S. economy is not simply about one-sided manufacturing job losses. Consumers also get these products at low prices.
+
+
+“While there are job losses in manufacturing, it creates opportunities for small businesses to import small quantities quickly using [online Chinese sellers like] Alibaba to find suppliers to produce election merchandise quickly and sell them online quickly.”
+
+
+Tang said the U.S. should develop a manufacturing sector that focuses on high-value products, not cheap ones such as U.S. election merchandise. 
+
+<br> 
+
+<https://www.voanews.com/a/made-in-china-election-merchandise-floods-us-market/7832970.html>
+
+---
+
+## Clean Energy Stocks Are Bracing for a Trump Victory
+
+date: 2024-10-22, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81Mzg0MTc5NC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc0MDE3MTMwNH0.uk2uYD_FNeKNf3yEIRR5jR4jEWHYIL_RVX-5mhEYq4M/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">If you look at the polls, the presidential election — now exactly two weeks away — is very close. If you listen to the prognosticators, Trump has a slight edge. And if you look at the markets, <a href="https://polymarket.com/event/presidential-election-winner-2024/will-donald-trump-win-the-2024-us-presidential-election" target="_blank">whether prediction markets</a> or <a href="https://www.foxbusiness.com/media/billionaire-investor-says-wall-street-very-convinced-trump-win-2024-election" target="_blank">Wall Street</a>, Trump’s chances are looking pretty good, with a sweep of the White House and both houses of Congress now firmly on the table.</p><p>“Politics prediction market data have tilted toward a win by former President Trump, and markets have responded in line with this development,” Morgan Stanley analyst Michael Wilson wrote in a note to clients Monday. “Such an outcome should now be taken seriously,” wrote Jefferies global head of equity strategy Christopher Wood in a separate note last week.</p><p>And seriously is exactly how the market appears to be taking it, with a range of assets now seeming to be pricing in a Trump victory. Yields on Treasury bonds are also rising, which may be because traders see fewer interest rate cuts coming in a <a href="https://www.wsj.com/economy/central-banking/interest-rates-higher-trump-president-c3010e8a" target="_blank">more inflationary Trump economy</a> fueled by tax cuts, spending, and an icing of tariffs on top. Gold and Bitcoin prices have risen in the past month as well. </p><p>But what about the clean energy  economy? Trump often speaks critically of the Inflation Reduction Act, clean energy in general, and wind energy in particular. With Republicans in control of Congress, those sentiments are more likely to be be turned into policy ... of some kind. </p><p>For investors in clean energy companies, Trump's improving odds make for nervous times. In the initial days after a Trump victory, as the reality solidifies, you’ll likely see some big price swings. Eight years ago, on Wednesday, November 9, 2016, an exchange traded fund that tracks around 100 clean energy stock called iShares Global Clean Energy, which is used as a benchmark for the industry as a whole, fell almost 5%, even as stocks overall jumped. In 2020, the fund rose more than 6.5% percent between close on election day and the following Monday, after networks had called the race for Joe Biden.</p><p>“I think stocks will trade on sentiment” following a win in either direction, Maheep Mandloi, an analyst at Mizuho, told me. “We’ll probably see that knee-jerk reaction.”</p><p>The iShares fund has been falling recently, dropping from $14.77 on September 27, when Kamala Harris peaked at 58.1% in Nate Silver’s polling models, to 47% on Monday, when Trump’s probability to win reached 52.7%.</p><p>“Renewables underperformed last week,” Mandloi wrote in a note to clients on Tuesday, with the iShares ETF down compared to the S&P 500 index. That sluggishness mostly came from solar stocks, particularly residential companies like Sunnova, Sunrun, Enphase, and Solaredge — “likely due to election, concerns” Mandloi added.</p><p>The fall has been even more dramatic for companies more exposed to Trump’s particular (dis)taste in energy, namely wind. U.S.-traded shares in Vestas, the Danish wind turbine manufacturer, have fallen over 16% since Harris peaked in the forecasts last month through Monday.</p><p>But a number of analysts are more sanguine about the fate of the IRA and the clean energy economy it has fostered. For one, the politics of repeal might not hold up in a Trumpified Washington. In August, 18 House Republicans in competitive districts <a href="https://www.politico.com/news/2024/08/25/republican-fight-inflation-reduction-act-00176223" target="_blank">wrote a letter</a> to House Speaker Mike Johnson asking him not to target the clean energy tax credits at <a href="https://www.politico.com/news/2024/08/25/republican-fight-inflation-reduction-act-00176223" target="_blank">the core of the law</a>. These same House Republicans have supported Johnson’s speakership where he’s taken flack from the body’s most conservative members, so this is hardly a constituency he can afford to ignore. <strong></strong></p><p>Even if a reconciliation bill passed next year were to scrap some or all of the IRA’s clean energy tax credits, the Internal Revenue Service could — as it has in the past when tax credits were about to expire — write rules that <a href="https://www.mcguirewoods.com/client-resources/alerts/2021/7/irs-further-extends-continuity-safe-harbor-2016-later-renewable-energy-projects/" target="_blank">allow projects to claim the credits for years</a> to come, Mandloi told me.</p><p>In any case, people in the tax credit market don’t seem to think the IRA tax credits are particularly at risk. “Political uncertainty has slowed the development of some industries,” analysts at LevelTen, a clean energy financial infrastructure company, wrote in a report last week. “It it hasn’t stopped the tax credit market from growing.” They assigned a low likelihood to a complete gutting of the IRA, noting that “there is bipartisan support for the investments catalyzed by the IRA across the nation.”</p><p>While it's possible that the bipartisan enthusiasm for investments stemming from the Inflation Reduction Act could protect much of the bill, the parts of the bill that directly support manufacturers may be the safest, namely the advanced manufacturing tax credit that has been especially popular in the solar industry. </p><p>These credits have been complemented by aggressive trade policy as well. Some of Trump’s <a href="https://www.nytimes.com/2018/01/22/business/trump-tariffs-washing-machines-solar-panels.html" target="_blank">earliest tariffs were on solar panels</a>, and the Biden administration has also tried to protect the domestic solar manufacturing industry from “overproduction” in China and Southeast Asia. First Solar <a href="https://www.cnbc.com/2023/07/27/first-solar-announces-fifth-us-factory-as-climate-deal-fuels-domestic-manufacturing.html" target="_blank">has thrown itself into domestic manufacturing</a> with the wind of the Inflation Reduction Act’s <a href="https://www.utilitydive.com/news/first-solar-45X-advanced-manufacturing-tax-credit-inflation-reduction-act-ira/703664/#:~:text=First%20Solar%20has%20agreed%20to,credits%20transferred%20from%20First%20Solar." target="_blank">manufacturing tax credits at its back</a>. Bonuses for solar developers <a href="https://www.morningstar.com/stocks/first-solar-shares-jump-following-us-treasury-guidance-domestic-content-requirements-2" target="_blank">whose systems are made up of</a> “domestic content” have helped, as well. <br/></p><p>Morningstar analyst Brett Castelli wrote to investors a note last month acknowledging the risk to solar stocks from a change in White House party control. First Solar specifically, however, “would likely benefit from proposed trade policies, such as higher tariffs, under a Republican administration.”</p><p>The company’s stock is up 14% so far this year through Monday, although it has dipped as Harris has dipped in election forecast. The Invesco Solar ETF, which tracks the broad solar industry, is down 13% on the year.</p><p><span></span>“First Solar is unique in our view in the fact that it is relatively indifferent regardless of outcome,” Castelli told me this week. It’s helped by  sheer size. “They have the largest U.S. presence for manufacturing solar panels here, domestically,” he said. “The biggest competitive threat to those factories would be cheap imports from China or Southeast Asia.”</p><p>But while the renewable energy industry is always at the risk of public policy shifts, for good and for ill, there’s another, harder to predict and harder to tame factor: interest rates.</p><p>Despite the spigot from Washington due to the IRA, many renewables companies have not been doing great in the stock market in recent years, and high interest rates are likely the reason why.</p><p>For renewables, <a href="https://heatmap.news/economy/fed-interest-rate-renewables" target="_self">most of the cost comes from simply building the thing</a>. The “fuel,” whether it be photons or wind, is free. This means that renewables projects are highly sensitive to the price of the borrowed money they need for construction. While the Federal Reserve <a href="https://heatmap.news/economy/federal-reserve-interest-rates-energy" target="_self">has finally begun to cut rates</a> and anticipates continuing doing so through the end of next year, it’s by no means something it’s mandated to do, especially if there's a major change in fiscal policy going forward. </p><p>Predicting the path of interest rates is something people get paid far, far more than journalists’ salaries to do, and they’re often wrong. That being said, it’s not hard to see a world where a sizable Trump win keeps rates elevated.</p><p>As president, he showed zero appetite for fiscal restraint, and going into round two has indicated a desire for sizable tax cuts and almost nothing specific for any large scale cuts in spending, policy preferences that may be more likely to be indulged in a Washington under unified Republican control. “Interest Rates Will Be Higher in the Future, Especially if Trump Is President,” <a href="https://www.wsj.com/economy/central-banking/interest-rates-higher-trump-president-c3010e8a" target="_blank">the <em>Wall Street Journal</em> declared earlier this month.</a></p><p>The “downside scenario” for stocks envisioned by Jonathan Golub, chief U.S. equity strategist at UBS investment bank, largely follows this scenario. “A combination of fiscal and monetary stimulus causes a reacceleration in inflation, forcing the Fed to abandon their rate cut plans,” he wrote to clients earlier this month. Clean energy could be hardest hit, no matter what happens to the IRA. </p> 
+
+<br> 
+
+<https://heatmap.news/economy/trump-election-clean-energy-market>
+
+---
+
+## VOA interview: US Army General Costanza discusses Russia's threat to West
+
+date: 2024-10-22, from: VOA News USA
+
+The war in Ukraine is reshaping the strategic landscape of Europe. While Western and Eastern European nations within the NATO alliance recognize the Russian threat, each day, NATO nations bordering Belarus and Russia feel the immediacy of the threat.
+
+
+In an exclusive interview with VOA’s Eastern Europe Bureau Chief Myroslava Gongadze, Lieutenant General Charles Costanza, commander of the U.S. Army’s V Corps (also known as the Fifth Corps) in Poland, discusses how NATO adapts to Russia’s evolving tactics while defending its members’ borders.
+
+
+This interview has been edited for brevity and clarity.
+
+
+VOA: Can you explain the different threat assessments from Eastern and Western European partners of NATO regarding Russia?
+
+
+Charles Costanza, commanding general of the U.S. Army’s V Corps: Clearly, in the eastern flank of Europe, the threat is real. They're on the border with Belarus and Russia, and so, they see that threat every day differently. You see recent open-source reporting on the Russian UAVs [unmanned aerial vehicles, or drones] coming over Romanian territory and Lithuanian territory. Those incursions have increased. You see the sabotage operations going on throughout eastern flank countries and Eastern European countries. So, Russia is increasing that, short of ... challenges and interference [that would trigger the NATO mutual defense clause].
+
+
+VOA: Do you think Russia is doing it deliberately?
+
+
+Costanza: Of course, they are. They weaponize immigration — I say “weaponize” deliberately. This weaponized immigration is happening in Poland, it's all been driven from Russia to interfere in Eastern Europe. Moldova is a near-term example with their elections. Russia is actively interfering in those elections to try and shape them in a pro-Russian way. So, all that is going on right now. So, that's part of this threat assessment piece that isn't necessarily impacting the Western European countries as much as Eastern Europe.
+
+
+VOA: How threatening is Russia’s military?
+
+
+Costanza: I think there's a view that Russia is going to take three to 10 years to reconstitute, and I think that we need to look at that a little differently. Russian armed forces, ground forces right now, are actually bigger than they were before the war with Ukraine started 2½ years ago, despite the losses of open-source reporting [of] 600,000 casualties that they've incurred during the course of the war.
+
+
+They may not be as well trained, but they're bigger. Their industrial base is on a wartime footing. Their mobilization base is on a wartime footing. They know they're fighting a Western-trained, West-equipped country with Ukraine. They're learning how to defeat those capabilities and those systems over the last 2½ years. So, they're modernizing their force based on the lessons that they're learning, and I think that's something we should be concerned about. They're modernizing their equipment. They're changing the way that they fight based on learning how to fight against Western-trained forces in Ukraine. And I think that should be a concern for all of us. It clearly is to our Eastern European allies.
+
+
+VOA: How are you preparing to defend and deter?
+
+
+Costanza: First of all, to maintain a high stance on readiness from a U.S. forces standpoint but also the NATO standpoint. At the Fifth Corps, one of the key things we do as partners with our multinational corps and multinational divisions across the eastern flank of Europe [is] just to help build their war-fighting capability as they field new capabilities. HIMARS [High Mobility Artillery Rocket System], for example. Apaches [helicopters] — with Poland just purchasing 96 Apaches from the United States. So, we help them to employ those things, those capabilities. But how you employ them at the corps level, and how you employ them at the division level, we can help, and we do.
+
+
+VOA: General Valerii Zaluzhnyi, the former commander in chief of the Ukrainian Armed Forces and now ambassador to the United Kingdom, recently gave a speech at Chatham House in London in which he talked about the technological advancements of this war, and how this is a different war than NATO was prepared to fight. How would you assess NATO’s capabilities today?
+
+
+Costanza: I think you're exactly right. And those are some of the comments that were made by our NATO partners in this event. I think that the United States is kind of setting the standard on that with a new program that our chief of staff of the Army [General Randy George] has talked about, which is transformation in contact. So, for the U.S. forces that are rotating over here to Europe, we're modernizing them with equipment that's available right now. So, instead of going through our normal four-year acquisition process to get new equipment, we're taking things that are available based on what we're watching happen in Ukraine. ... So maybe that can be a model for our partners and allies.
+
+
+VOA: We talked about NATO capabilities. Now I want to go back to Russian capabilities. How advanced do you think they are right now?
+
+
+Costanza: I think the biggest concern is what I said before: They know they're fighting Western-trained and -equipped forces. And so, as they modernize based on the lessons that they're learning — not just their equipment, but how they fight — they're really sharpening their ability to fight us in the future. And I think that's something we need to be concerned about.
+
+
+So, those things I just talked about that we're trying to rapidly introduce into our brigade to execute the transformation, contact — the UAS [Unmanned Aircraft Systems, or drones], the border, ammunition, the counter UAS, the EW [electronic warfare] capability. And how do you synchronize all of that capability so that you can really, rapidly strike and kill targets? They've learned how to do that. And so, we need to be able to do that and do it better than they do.
+
+
+VOA: Russia is gaining support from China and North Korea right now. Are we ready to face this threat?
+
+
+Costanza: The lessons that I was talking about, the reasons we should be concerned about Russia — they're sharing those lessons with China, with Iran, and vice versa, the capabilities that Iran and China are providing. And now you see the North Koreans, as well. North Korea is now providing, I think it's an initial batch [of] open-source reporting, of 4,000 North Korean soldiers. I think that could potentially just be a starting point for what they provide in terms of manpower to Russia. And I think that's a problem near-term here in Eastern Europe, because as we talked about before we started, the challenge for Ukrainians is people. It's the amount of people that they have to put into this fight. And Russia doesn't care how many losses it takes. I mean, 600,000 [casualties], and they're still throwing more manpower at it and don't even blink. Ukrainians can't afford to take those losses. I think that's going to be the limiting factor for that as we move forward, watch this war continue into this third period.
+
+
+VOA: There are different assessments of threats between, let's say, the political part of the NATO alliance and the military part of the alliance. How are you finding that common ground?
+
+
+Costanza: Yeah, I think it's just constant dialogue, right? And so, I know we do that at different levels. So, the combatant commander, the U.S. combat commander, has those discussions at the national levels with our NATO partners and allies. We all live in Eastern Europe, including myself — in Poland. We all see that threat the same way. It can be near term.
+
+
+VOA: What do you mean by the near term?
+
+
+Costanza: I think, one year, two years, three years.
+
+
+VOA: And you're trying to be ready for that?
+
+
+Costanza: U.S. forces are ready, and I can tell you, our NATO partners and allies are ready. And we're just continuing to build capabilities. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-interview-us-army-general-costanza-discusses-russia-threat-to-west/7832923.html>
+
+---
+
+## US warns ramped-up election influence efforts aim to stoke violence
+
+date: 2024-10-22, from: VOA News USA
+
+WASHINGTON — Efforts by U.S. adversaries to divide Americans and sow growing distrust in the upcoming presidential election have already begun to intensify, according to senior U.S. intelligence officials, who warn some countries appear to be leaning toward additional measures to spark election-related violence.
+
+
+The latest declassified assessment, issued Tuesday by the Office of the Director of National Intelligence, comes just two weeks before voters head to the polls November 5 to choose a new president and vote on a series of statewide and local races and initiatives.
+
+
+“Foreign actors — particularly Russia, Iran and China — remain intent on fanning divisive narratives to divide Americans and undermine Americans’ confidence in the U.S. democratic system consistent with what they perceive to be in their interests,” according to the assessment.
+
+
+But it warns U.S. intelligence agencies are “increasingly confident” that Russia is starting to engage in plans “aimed at inciting violence.”
+
+
+It further assesses Iran also “may try to incite violence.”
+
+
+Post-poll closing concerns
+
+
+Of particular concern is what appears to be a growing focus on the hours, days and weeks after the polls close, when state and local election officials begin to tally and certify the results.
+
+
+U.S. adversaries "probably will be quick to create false narratives or amplify content they think will create confusion about the election, such as posting claims of election irregularities," said a U.S. intelligence official, briefing reporters on the condition of anonymity to discuss the assessment in additional detail.
+
+
+The official said Russia, Iran and China “may perceive a window of vulnerability to push disinformation or foment or amplify protests and threats” starting with the moment polling centers close and extending to January 6, when the presidential results are certified by a joint session of Congress.
+
+
+"Foreign driven or amplified violent protests, violence or physical threats to election workers or state and local officials could challenge state and local officials' ability to conduct elements of the certification and Electoral College process,” the official said. “Particularly if they prevent necessary physical access to facilities or venues."
+
+
+
+
+U.S. intelligence officials have previously warned that Russia and Iran have been especially active, running a variety of influence operations targeting U.S. voters, with a high likelihood that these efforts would extend beyond the November 5 election.
+
+
+Russia, they said, has been working to boost the chances of former president and current Republican nominee Donald Trump, while Iran has been working to hurt Trump’s reelection bid and instead buoy the campaign of Vice President Kamala Harris, the Democratic presidential nominee.
+
+
+China, according to U.S. intelligence officials, has so far stayed out of the presidential race, focusing its efforts on congressional and state and local candidates perceived to be promoting policies detrimental to Beijing's interests, including those voicing support for Taiwan.
+
+
+
+
+Officials said Tuesday that new intelligence streams have raised concerns that Moscow, especially, will try to foment violence once the polls close.
+
+
+"We expect Russia will be more aggressive in this period if the vice president [Kamala Harris] wins the election," the intelligence official said. “Russia would prefer the former president to win, and they would seek to more aggressively undermine the presidency of the then-president-elect.”
+
+
+Russia, China and Iran have all rejected previous U.S. accusations of election meddling.
+
+
+Russia and Iran have yet to respond to requests from VOA for comment, but China on Tuesday again rejected the latest U.S. intelligence findings.
+
+
+“The presidential elections are the United States’ own affairs,” Liu Pengyu, the spokesperson for the Chinese Embassy in Washington, told VOA in an email. “China has no intention and will not interfere.”
+
+
+U.S. intelligence officials, though, point to what they describe as growing examples of malign intent, especially by Russia and Iran.
+
+
+Influence operations
+
+
+In one example, the officials said Russian-linked actors were responsible for a post on the X social media platform earlier this month that contained false allegations against Democratic vice presidential candidate Tim Walz.
+
+
+“There are several indicators of manipulation that are consistent with the influence, efforts and tactics of Russian influence actors this cycle,” the U.S. intelligence official said.
+
+
+In another case, U.S. officials said a Russian intelligence unit sought to recruit what they assess to likely be an unwitting American to organize protests.
+
+
+They also point to actions taken last month by multiple U.S. agencies to counter several Russian influence efforts, including the use of fake websites and the creation of a shell company to funnel $10 million to a U.S. media company to push pro-Russian propaganda.
+
+
+
+
+Also last month, the U.S. placed bounties and lodged criminal charges against three Iranian hackers, all accused of seeking to undermine the Trump reelection campaign.
+
+
+
+
+And there are fears that even these types of ongoing influence operations, which often seek to exploit divisive political issues, could lead to problems.
+
+
+"Even if these disinformation campaigns are not specifically calling for violence, the tactics used to undermine confidence in the democratic institutions can lead to violence, even if not deliberately called for," said a senior official with the U.S. Cybersecurity and Infrastructure Security Agency, or CISA, who, like the U.S. intelligence official, spoke on the condition of anonymity.
+
+
+‘Expect disruptions’
+
+
+And while U.S. officials express confidence that safeguards are in place to prevent U.S. adversaries from attacking or hacking systems used to record and tally votes, there is concern that they will target other U.S. infrastructure to try to induce panic or violence.
+
+
+“That is a real possibility," said the CISA official, adding the U.S. public should “expect disruptions.”
+
+
+“We're going to see a voting location lose power,” the official said. “We're going to see potentially some type of impact on a transportation system. We're going to see a potential ransomware attack against a local election office.”
+
+
+CISA officials say they have been working with state and local election officials to make sure they are prepared to handle sudden disruptions. And state officials say they are prepared.
+
+
+“All states consider their election infrastructure and IT [information technology] systems a potential target for threats,” said Steve Simon, Minnesota’s secretary of state and the president of the National Association of Secretaries of State, during a call with reporters Monday.
+
+
+“Chief elections officials throughout the United States have worked really tirelessly and consistently to mitigate risks to our election systems and processes,” said Simon. 
+
+<br> 
+
+<https://www.voanews.com/a/us-warns-ramped-up-election-influence-efforts-aim-to-stoke-violence/7832869.html>
+
+---
+
+## Biden welcomes Slovenian leader Golob to White House
+
+date: 2024-10-22, from: VOA News USA
+
+President Joe Biden on Tuesday welcomed Slovenian Prime Minister Robert Golob to the White House, where Biden spoke of the importance of European unity and recognized the small Central European nation’s outsized role in the largest prisoner exchange between the U.S. and Russia in decades.
+
+
+Biden underscored Ljubljana’s critical role in the August swap that saw the release of 24 people, including three high-profile Americans in Russian custody: Wall Street Journal reporter Evan Gerskovich, Radio Free Europe reporter Alsu Kurmasheva and Paul Whelan. Slovenia held two Russian spies in prison – and their release was a critical part of the deal.
+
+
+“You made it possible,” Biden said to Golob in the Oval Office. “Thank you. We made it clear to anyone who questions whether our allies matter. Well, just look at what you did. They matter a great deal.”
+
+
+Biden, who spoke of his role in pushing for the nation to join the North Atlantic Treaty Organization nearly two decades ago, continued his push for European unity – diplomatically and through institutions like the NATO security bloc – to counter Russian aggression in Ukraine.
+
+
+“Because I knew then what I know now: We're stronger when we stand together with good partners like you,” Biden said. “We've seen it in support for the brave people of Ukraine as they defend themselves against Russia's aggression and we see it in our work to support democracy and prosperity across the western Balkans.”
+
+
+Golob replied by calling Biden a nickname that has become popular with European leaders.
+
+
+“Dear Joe, just a couple of words,” he said, in English. “And that is with little help of true friends, nothing is impossible. And I think that's really what our joint effort with the prisoner swap demonstrated to all of the world. And let's continue to work in true friendship and with a lot of friends."
+
+
+The two also discussed a wide range of issues, the White House said, like energy security and cooperation and events in the Middle East.
+
+
+This meeting – the first Oval Office visit by a Slovenian leader in 18 years – is “a particularly important legacy of Biden's administration,” said Wojciech Przybylski, editor-in-chief of Warsaw-based think tank Visegrad Insight.
+
+
+“Slovenia is also a major stakeholder in the development of other Southeastern European countries of the Balkan region, where the U.S. is investing heavily to make Europe whole and free from wars and autocratic rule,” he told VOA via email. “From a geopolitical point of view, Russian influence and even more important Chinese influence, including Beijing's ambitions to be the dominant player in the Slovenian port of Koper, a major port on the Adriatic Sea, is an important backdrop to the discussions on the economic security of Central and Eastern Europe.”
+
+
+Analyst Donatienne Ruy of the Center for Strategic and International Studies told VOA by email that Golob’s visit is “an important recognition of the small country’s contributions to transatlantic relations, as both a NATO and an EU member.”
+
+
+
+Slovenia, she said, is using its rotating presidency of the U.N. Security Council to support Ukraine and is an “anchor for the Western Balkans region” and it could soon play a big role in helming the European Commission’s enlargement efforts, as the top diplomat in line for the job is a left-leaning Slovene.
+
+
+The nation hasn’t always held liberal stances, she said.
+
+
+“The country itself has seen ups and downs in governance in its post-Communist history, most recently under former Prime Minister Janez Jansa, who adopted an illiberal populist stance — he threatened the independence of the media and regularly attacked his opponents [rhetorically],” she said. “The current government has been a more positive actor both on governance and democracy issues and as an EU member, which the White House visit likely acknowledges.”
+
+
+VOA asked representatives from the campaign of former President Donald Trump if he planned to meet with Golob during his U.S. visit. Former first lady Melania Trump was born in the southern Slovenian city of Novo Mesto. The campaign did not reply. 
+
+<br> 
+
+<https://www.voanews.com/a/biden-welcomes-slovenian-leader-golob-to-white-house/7832878.html>
+
+---
+
+## US charges Iranian Revolutionary Guard official in plot to kill VOA host
+
+date: 2024-10-22, from: VOA News USA
+
+The United States has charged a senior Iranian official and three others linked to Tehran for their role in a failed assassination plot targeting VOA host Masih Alinejad. 
+
+
+Federal prosecutors in New York charged Ruhollah Bazghandi, a senior official in Iran's Islamic Revolutionary Guard Corps, and three other men linked to Tehran, with participating in a failed attempt to assassinate VOA Persian service journalist Alinejad in Brooklyn in 2022, according to a new indictment made public on Tuesday.  
+
+
+These charges are the first to directly accuse a high-ranking official in the Revolutionary Guard, or IRGC, with a role in the plot to kill Iranian American Alinejad, a staunch critic of Iran's repression of women.  
+
+
+"Today's indictment exposes the full extent of Iran's plot to silence an American journalist for criticizing the Iranian regime," FBI Director Christopher Wray said in a statement. "As these charges show, the FBI will work with our partners here and abroad to hold accountable those who target Americans." 
+
+
+The indictment describes Bazghandi as a brigadier general with the IRGC. The U.S. Treasury Department last year called him a counterintelligence official.  
+
+
+Alinejad said this indictment confirms the lengths the Iranian government will go to in order to silence its critics.  
+
+
+"It shows that this is in the DNA of the Revolutionary Guards," she told VOA.  
+
+
+'Now we have proof'
+
+
+When the FBI told Alinejad the news Tuesday morning, she said she felt a mix of excitement and sadness.  
+
+
+"I was so excited because now we have proof that this is a member of the Revolutionary Guards ordering a man in New York, from inside Iran, to kill a U.S. citizen," she said. "That was my reaction. Mixed feelings. Happy, but at the same time sad that the same people cannot be stopped from killing innocent women and men inside [Iran]." 
+
+
+When the Treasury Department imposed sanctions on Bazghandi, it said he had been involved with assassination plots against journalists and others considered enemies of Tehran.  
+
+
+These aren't the first charges related to the killing scheme. The failed plot to kill Alinejad led to federal murder-for-hire charges against members of an Eastern European criminal organization with connections to Iran who were hired to carry out assassination. 
+
+
+Surveillance, harassment, intimidation
+
+
+Iran is among the most prolific countries that reaches across its borders to target journalists and activists overseas in a process known as transnational repression, according to Freedom House. Common tactics include surveillance, harassment and intimidation. 
+
+
+
+
+The failed assassination plot came one year after a failed kidnapping attempt against Alinejad in 2021. The FBI has said the kidnapping attempt was part of a Tehran plot to bring Alinejad to Iran. 
+
+
+Since the kidnapping attempt, Alinejad has received U.S. government protection and moved frequently between safe houses. 
+
+
+Despite the threats, Alinejad has refused to stop her work.  
+
+
+"I don't have any guns and bullets — I don't carry weapons. But this government, they have everything, and they're really scared of me," Alinejad told VOA late last year, referring to the Iranian government. "And that gives me power — that, wow, even with my words, even with my social media, I'm more powerful than them." 
+
+
+'This is about protecting democracy'
+
+
+Iran is among the most censored countries in the world. At the end of 2023, Iran ranked among the worst jailers of journalists in the world, according to the Committee to Protect Journalists, with 17 reporters behind bars.  
+
+
+Iran's Foreign Ministry did not immediately reply to VOA's email requesting comment.  
+
+
+Alinejad said it's important for the U.S. government to hold Iran accountable for the plot and for Tehran's broader use of transnational repression.  
+
+
+"This is not a partisan issue. This is about protecting democracy. Because I don't think that they targeted me. I have no fear for my own life," Alinejad said. "The Iranian regime is challenging the U.S. government on U.S. soil, and basically this is targeting freedom of speech, and the national security and safety of America." 
+
+<br> 
+
+<https://www.voanews.com/a/us-charges-iranian-revolutionary-guard-official-in-plot-to-kill-voa-host/7832832.html>
+
+---
+
+## FBI probing release of US intel on Israel's attack plans for Iran
+
+date: 2024-10-22, from: VOA News USA
+
+WASHINGTON — The FBI is investigating the public disclosure of a pair of highly classified intelligence documents describing Israel's preparations for a retaliatory strike on Iran, the bureau said on Tuesday. 
+
+
+"The FBI is investigating the alleged leak of classified documents and working closely with our partners in the Department of Defense and Intelligence Community," it said in a statement. 
+
+
+White House national security spokesman John Kirby said on Monday that it has not been determined whether the disclosure was a hack or a leak. President Joe Biden was watching the results of the investigation closely, he added. 
+
+
+"We're not exactly sure how these documents found their way into the public domain," Kirby told reporters. 
+
+
+"The president remains deeply concerned about any leakage of classified information into the public domain. That is not supposed to happen, and it's unacceptable when it does," he said. 
+
+
+The documents appear to have been prepared by the National Geospatial-Intelligence Agency, describing U.S. interpretations of Israeli Air Force and Navy planning based on satellite imagery from Oct. 15-16. 
+
+
+They began circulating last week on the Telegram messaging app. Israel has been planning a response to a ballistic-missile barrage carried out by Iran on Oct. 1, Tehran's second direct attack on Israel in six months. Israel has intensified its offensive in Gaza and Lebanon, days after the killing of Hamas leader Yahya Sinwar. 
+
+
+U.S. House of Representatives Speaker Mike Johnson on Sunday said an investigation was under way. 
+
+<br> 
+
+<https://www.voanews.com/a/fbi-probing-release-of-us-intel-on-israel-attack-plans-for-iran/7832472.html>
+
+---
+
+## Former Abercrombie & Fitch chief arrested on sex trafficking charges
+
+date: 2024-10-22, from: VOA News USA
+
+NEW YORK — Former Abercrombie & Fitch CEO Michael Jeffries and two other men have been arrested on sex trafficking and interstate prostitution charges, a spokesperson for federal prosecutors said Tuesday.
+
+
+Details of the criminal charges weren't immediately available. They come after years of sexual misconduct allegations, made in civil lawsuits and the media, from young people who said Jeffries lured them with promises of modeling work and then pressed them into sex acts.
+
+
+A message seeking comment was left for Brian Bieber, an attorney who has represented Jeffries. Information on attorneys for the other defendants wasn't immediately available.
+
+
+Brooklyn-based U.S. Attorney Breon Peace and FBI and police officials were set to hold a news conference later Monday.
+
+
+Jeffries left New Albany, Ohio-based Abercrombie & Fitch in 2014.
+
+
+One civil lawsuit filed in New York last year accused Abercrombie of allowing Jeffries to run a sex-trafficking organization during his 22-year tenure. It said that Jeffries had modeling scouts scouring the internet for victims, and that some prospective models became sex-trafficking victims.
+
+
+Abercrombie last year said it had hired an outside law firm to conduct an independent investigation after a report on similar allegations was aired by the BBC.
+
+
+The BBC investigation included a dozen men who described being at events involving sex acts they said were staged by Jeffries and his partner, Matthew Smith, often at his home in New York and hotels in London, Paris and elsewhere.
+
+
+When the civil lawsuit was filed in New York last year, Bieber declined to comment on the allegations. 
+
+<br> 
+
+<https://www.voanews.com/a/former-abercrombie-fitch-chief-arrested-on-sex-trafficking-charges/7832411.html>
+
+---
+
+## An easier way to switch banks
+
+date: 2024-10-22, from: Marketplace Morning Report
+
+<p>The way you bank and apply for credit could fundamentally change in the next couple of years. The Consumer Financial Protection Bureau issued new rules this morning to give consumers more control over their financial data, and spur competition in financial services. Then, it appears to be a quiet period for business ahead of the election. And later, how can companies tackle worker loneliness and isolation without forced fun?</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/22/mmr_20241022_MMR_Podcast_3_64.mp3"></source>
+</audio> <a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/22/mmr_20241022_MMR_Podcast_3_64.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/an-easier-way-to-switch-banks>
+
+---
+
+## At 100, former President Carter votes for Kamala Harris
+
+date: 2024-10-22, from: VOA News USA
+
+After becoming the first U.S. president to reach the age of 100, Jimmy Carter was able to fulfill a wish that he had expressed to his family. VOA’s Kane Farabaugh has more from Georgia. Some VOA footage by Adam Greenbaum. 
+
+<br> 
+
+<https://www.voanews.com/a/at-100-former-president-carter-votes-for-kamala-harris/7832382.html>
 
 ---
 
@@ -724,7 +1273,7 @@ The State Department urged Mozambique's state institutions, political leaders, c
 
 ---
 
-## Union endorsements play an outsized role in US presidential election
+## Union endorsements play outsized role in US presidential election
 
 date: 2024-10-22, from: VOA News USA
 

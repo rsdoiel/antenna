@@ -1,11 +1,355 @@
 ---
 title: food
-updated: 2024-10-22 07:38:46
+updated: 2024-10-22 16:13:02
 ---
 
 # food
 
-(date: 2024-10-22 07:38:46)
+(date: 2024-10-22 16:13:02)
+
+---
+
+## Chicken Shawarma
+
+date: 2024-10-22, from: Taste of Home
+
+Chicken shawarma is a Middle Eastern dish packed with rich spices that makes a wonderful anchor for many meals, from pita sandwiches to a savory topping for rice. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/chicken-shawarma/>
+
+---
+
+## I Tried the Viral Ziploc Bag Hack to See If It Works
+
+date: 2024-10-22, from: Taste of Home
+
+<p>Need snack-size bags in a pinch? You'll need a zip-top bag, hot knife and a cutting board.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/ziploc-bag-hack/">I Tried the Viral Ziploc Bag Hack to See If It Works</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/ziploc-bag-hack/>
+
+---
+
+## Sopapilla Cheesecake
+
+date: 2024-10-22, from: Taste of Home
+
+This sopapilla cheesecake recipe uses only a handful of ingredients, including refrigerated crescent roll dough. It makes it easy to assemble and gives the bars a flaky texture reminiscent of classic sopapillas. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/sopapilla-cheesecake/>
+
+---
+
+## Hot Water Cornbread
+
+date: 2024-10-22, from: Taste of Home
+
+Hot water cornbread has a reputation as an affordable recipe that’s filling first and flavorful second. That doesn’t have to be the case - spice it up if you fancy - but it’s certainly a quick recipe that requires basic ingredients only. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/hot-water-cornbread/>
+
+---
+
+## Cream of Jalapeno Soup
+
+date: 2024-10-22, from: Taste of Home
+
+Here's a twist on your typical creamed veggie soup: Combine jalapeno peppers with rich cream,  bright lime juice and fresh cilantro for a cream of jalapeno soup that's luxurious and full of flavor. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/cream-of-jalapeno-soup/>
+
+---
+
+## Home for the Holidays: Thanksgiving Edition
+
+date: 2024-10-22, from: Taste of Home
+
+<p>Find tried-and-true Thanksgiving recipes that will remind you of the good ol' days and also get you excited for future holidays to come.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/home-for-the-holidays-thanksgiving-edition/">Home for the Holidays: Thanksgiving Edition</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/home-for-the-holidays-thanksgiving-edition/>
+
+---
+
+## Sourdough Cornbread
+
+date: 2024-10-22, from: Taste of Home
+
+This sourdough cornbread leans on discards to create fluffy textures and subtly sweet flavors. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/sourdough-cornbread/>
+
+---
+
+## Carrot Soup
+
+date: 2024-10-22, from: Taste of Home
+
+Cozy up with a bowl of creamy roasted carrot soup. This easy, comforting recipe brings out the natural sweetness of carrots, perfectly balanced with warm spices. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/carrot-soup-2/>
+
+---
+
+## Wendy’s Just Dropped Boo! Bags for Halloween—This Is What’s Inside
+
+date: 2024-10-22, from: Taste of Home
+
+<p>This Halloween kids meal is made for adults. No tricks here!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/wendys-boo-bags-boo-books/">Wendy&#8217;s Just Dropped Boo! Bags for Halloween—This Is What&#8217;s Inside</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/wendys-boo-bags-boo-books/>
+
+---
+
+## Little Debbie Is Serving Brand-New Snacks for Christmas
+
+date: 2024-10-22, from: Taste of Home
+
+<p>Her name might be Little Debbie, but she has some big surprises in store.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/little-debbie-christmas-snacks/">Little Debbie Is Serving Brand-New Snacks for Christmas</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/little-debbie-christmas-snacks/>
+
+---
+
+## How to Cook Frozen Shrimp
+
+date: 2024-10-22, from: Taste of Home
+
+Did you know you can cook shrimp straight from the freezer? We'll show you how to cook frozen shrimp in the oven, in an air fryer, on the stovetop and on the grill to create juicy, plump shrimp every time. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/how-to-cook-frozen-shrimp/>
+
+---
+
+## Doritos Chicken Casserole
+
+date: 2024-10-22, from: Taste of Home
+
+This crowd-pleasing Doritos chicken casserole combines tender chicken, zesty spices and layers of cheesy Doritos for a crave-worthy meal that’s bursting with flavor. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/doritos-chicken-casserole/>
+
+---
+
+## Garlic Soup
+
+date: 2024-10-22, from: Taste of Home
+
+This garlic soup is a winner, even if you're not a big-time garlic aficionado. It uses roasted garlic rather than raw, so it's rich, mellow and utterly comforting on a cold day. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/garlic-soup/>
+
+---
+
+## Curried Chickpea Salad
+
+date: 2024-10-22, from: Taste of Home
+
+You’ll be surprised how substantial and flavorsome a can of chickpeas can be once you’ve added the spices and vegetables to make this curried chickpea salad. Eat it alone or use it to fill a hearty sandwich. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/curried-chickpea-salad/>
+
+---
+
+## Lentil Meatballs
+
+date: 2024-10-22, from: Taste of Home
+
+Hearty and herb-packed, these vegetarian lentil meatballs are a delicious twist on a classic comfort food. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/lentil-meatballs/>
+
+---
+
+## Cheesecake Chimichanga
+
+date: 2024-10-22, from: Taste of Home
+
+Satisfy your sweet tooth with a taste of an innovative cheesecake chimichanga. Our simple recipe wraps tangy cheesecake-like filling in golden-fried tortillas, creating a dessert that's equal parts comforting and delicious. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/cheesecake-chimichanga/>
+
+---
+
+## Pecan Pie Cheesecake Bars
+
+date: 2024-10-22, from: Taste of Home
+
+While making pecan pie cheesecake bars takes some time, the effort is well rewarded. Cut them into big or small squares to make your perfect sweet treat. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/pecan-pie-cheesecake-bars/>
+
+---
+
+## French Onion Meatballs
+
+date: 2024-10-22, from: Taste of Home
+
+French onion meatballs are a soul-warming pan of ground beef in caramelized onion sauce with all the flavor—and melty cheese topping—of French onion soup, making for a hearty, crowd-pleasing dinner. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/french-onion-meatballs/>
+
+---
+
+## Steak Marinade
+
+date: 2024-10-22, from: Taste of Home
+
+Our best steak marinade recipe is a balanced combination of salt, acid, fat and aromatics. Once you know how to make steak marinade, you can turn even the toughest cut of beef into a moist, tender, flavorful meal. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/best-steak-marinade/>
+
+---
+
+## Pachamama Coffee Deepens Seed to Cup Connections with UC Davis
+
+date: 2024-10-22, from: Daily Coffee News
+
+<div><img width="620" height="464" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Barista-Davis-Cafe-1-620x464.jpg" class="attachment-large size-large wp-post-image" alt="Barista-Davis-Cafe" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Barista-Davis-Cafe-1-620x464.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Barista-Davis-Cafe-1-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Barista-Davis-Cafe-1-150x112.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Barista-Davis-Cafe-1-768x575.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Barista-Davis-Cafe-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Farmer-owned coffee company Pachamama Coffee recently expanded its presence stateside through multiple new partnerships with nearby UC Davis. Pachamama will now supply the coffee to two student-run coffee houses on... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/10/22/pachamama-coffee-deepens-seed-to-cup-connections-with-uc-davis/>
+
+---
+
+## Qargo Coffee Owners Charged with Rare Franchise Rule Violation
+
+date: 2024-10-22, from: Daily Coffee News
+
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Qargo-Coffee-1-620x413.jpg" class="attachment-large size-large wp-post-image" alt="Qargo Coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Qargo-Coffee-1-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Qargo-Coffee-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Qargo-Coffee-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Qargo-Coffee-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Qargo-Coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The United States Federal Trade Commission (FTC) last week accused the owners of the Miami-based coffee franchise Qargo Coffee of violating a rarely cited franchise law while racking up $1.25... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/10/22/qargo-coffee-owners-charged-with-rare-franchise-rule-violation/>
+
+---
+
+## Barley Salad
+
+date: 2024-10-22, from: Taste of Home
+
+This hearty barley salad takes less than 30 minutes to pull together, and it's filled with vibrant ingredients and Mediterranean flavors. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/barley-salad/>
+
+---
+
+## Instant Pot Beef Stew
+
+date: 2024-10-22, from: Taste of Home
+
+When the cold weather hits, Instant Pot beef stew is your friend. It's a warming, comfort-food meal, and the pressure cooker not only makes it quicker but also extracts more flavor from the beef. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/instant-pot-beef-stew/>
+
+---
+
+## Copycat Starbucks Pumpkin Spice Latte
+
+date: 2024-10-22, from: Taste of Home
+
+Craving a Starbucks PSL? We've got you covered with this copycat Starbucks pumpkin spice latte recipe. Learn how to make this seasonal favorite at home. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/copycat-starbucks-pumpkin-spice-latte/>
+
+---
+
+## Chickpea Chicken Salad
+
+date: 2024-10-22, from: Taste of Home
+
+This vegan chickpea "chicken" salad is inspired by traditional chicken salad but contains no meat. It's a protein-packed, plant-based lunch option that's flavorful enough to enjoy on its own (although it also tastes fantastic as a sandwich filling). 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/chickpea-chicken-salad/>
+
+---
+
+## Cannellini Beans
+
+date: 2024-10-22, from: Taste of Home
+
+Easy cannellini beans are inspired by their Italian roots for a protein- and flavor-rich side dish or meal. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/cannellini-beans/>
+
+---
+
+## Tomato Basil Soup
+
+date: 2024-10-22, from: Taste of Home
+
+Our homemade tomato basil soup recipe is even better than what you may find in a restaurant, thanks to roasted tomatoes, roasted garlic and plenty of fresh basil. A little half-and-half cream added towards the end of the cooking time makes the soup creamy. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/tomato-basil-soup-2/>
+
+---
+
+## The Roastino Manual Roaster is Warming Hearts
+
+date: 2024-10-22, from: Daily Coffee News
+
+<div><img width="620" height="432" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Roastino-coffee-roaster-620x432.jpg" class="attachment-large size-large wp-post-image" alt="Roastino coffee roaster" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Roastino-coffee-roaster-620x432.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Roastino-coffee-roaster-300x209.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Roastino-coffee-roaster-150x104.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Roastino-coffee-roaster-768x535.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Roastino-coffee-roaster.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>In an age of sweeping digitization and automation in coffee, the Hungarian boutique equipment company Naked Portafilter is introducing a delightfully sensorial device called the Roastino. Winner of a Best... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/10/22/the-roastino-manual-roaster-is-warming-hearts/>
 
 ---
 
@@ -335,7 +679,7 @@ date: 2024-10-21, from: The Sprudge
 
 date: 2024-10-21, from: Daily Coffee News
 
-<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/2025-Roaster-of-the-Year-620x413.jpg" class="attachment-large size-large wp-post-image" alt="2025 Roaster of the Year" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/2025-Roaster-of-the-Year-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/2025-Roaster-of-the-Year-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/2025-Roaster-of-the-Year-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/2025-Roaster-of-the-Year-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/2025-Roaster-of-the-Year.jpg 1200w" sizes="(max-width: 620px) 100vw, 620px" /></div>Dear Green Coffee Roasters and Wonderstate Coffee won Roast magazine’s 21st annual Roaster of the Year award in the Micro and Macro roaster categories, respectively.&#160; The two coffee roasting companies... 
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/2025-Roaster-of-the-Year-620x413.jpg" class="attachment-large size-large wp-post-image" alt="2025 Roaster of the Year" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/2025-Roaster-of-the-Year-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/2025-Roaster-of-the-Year-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/2025-Roaster-of-the-Year-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/2025-Roaster-of-the-Year-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/2025-Roaster-of-the-Year.jpg 1200w" sizes="(max-width: 620px) 100vw, 620px" /></div>Dear Green Coffee Roasters and Wonderstate Coffee won Roast magazine’s 21st annual Roaster of the Year award in the Micro and Macro roaster categories, respectively.&#160; The two coffee roasting companies... 
 
 <br> 
 
@@ -359,7 +703,7 @@ Apple pie baked beans? Baked beans already balance sweet and savory flavors, so 
 
 date: 2024-10-21, from: Daily Coffee News
 
-<div><img width="620" height="443" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/rafael-oliveira-1.jpg" class="attachment-large size-large wp-post-image" alt="rafael-oliveira" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/rafael-oliveira-1.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/rafael-oliveira-1-300x214.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/rafael-oliveira-1-150x107.jpg 150w" sizes="(max-width: 620px) 100vw, 620px" /></div>JDE Peet&#8217;s ended a six-month search for a permanent CEO with the appointment of recent Kraft Heinz executive Rafa Oliveira as CEO. Oliveira is scheduled to take over the position... 
+<div><img width="620" height="443" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/rafael-oliveira-1.jpg" class="attachment-large size-large wp-post-image" alt="rafael-oliveira" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/rafael-oliveira-1.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/rafael-oliveira-1-300x214.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/rafael-oliveira-1-150x107.jpg 150w" sizes="(max-width: 620px) 100vw, 620px" /></div>JDE Peet&#8217;s ended a six-month search for a permanent CEO with the appointment of recent Kraft Heinz executive Rafa Oliveira as CEO. Oliveira is scheduled to take over the position... 
 
 <br> 
 

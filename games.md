@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2024-10-22 07:38:45
+updated: 2024-10-22 16:13:00
 ---
 
 # games
 
-(date: 2024-10-22 07:38:45)
+(date: 2024-10-22 16:13:00)
+
+---
+
+## You can bone the Grim Reaper in The Sims 4 now
+
+date: 2024-10-22, updated: 2024-10-22, from: Polygon Website
+
+The Grim Reaper has long been the forbidden lover in The Sims 4, but that’s changing ahead of the game’s new Life &#38; Death expansion pack. Ahead of the expansion’s release date on Oct. 31, The Sims 4 developer Maxis published a free base game update that adds a bunch of ghostly goodies to the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/the-sims/468823/4-grim-reaper-woohoo-update-life-death>
+
+---
+
+## Arcane’s stunning season 1 collector’s edition is now available
+
+date: 2024-10-22, updated: 2024-10-22, from: Polygon Website
+
+Arcane, the Netflix animated series based on League of Legends, is now available on physical media in a variety of editions ahead of the launch of its second season. For big fans of the show, the physical collector’s edition might appeal most to you. It includes a trio of 4K Blu-ray discs containing all nine [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/24201416/arcane-collectors-edition-4k-blu-ray-box-set-pre-order>
+
+---
+
+## Science compels us to pick up this adorable Outer Wilds replica Hearthian Lander
+
+date: 2024-10-22, updated: 2024-10-22, from: Polygon Website
+
+Fangamer has just produced an incredibly detailed model of the Hearthian Lander from Outer Wilds that you can purchase for $99.99. The model itself is built to 1/58 scale, and measures about 7.9-inches tall and 10.6-inches wide when fully assembled. Just note that this detailed model arrives as a collection of decals and unpainted sprues, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/deals/468712/outer-wilds-hearthian-lander-model-where-to-buy>
+
+---
+
+## How to unlock all weapons in Hades 2
+
+date: 2024-10-22, updated: 2024-10-22, from: Polygon Website
+
+Weapons, or&#160;Nocturnal Arms, are Melinoë’s primary tools of destruction in&#160;Hades 2. Though boons,&#160;Keepsakes, and&#160;Arcana Cards&#160;can significantly change your build, weapons are the means by which you deal damage. Each weapon is vastly different from the others. Some require you to get up close and personal; others allow you to keep your distance. And you can [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/hades-2-guides/24151070/weapons-all-nocturnal-arms-list-how-to-unlock>
+
+---
+
+## League of Legends’ next champion is Mel’s mom from Arcane, and she will crush you
+
+date: 2024-10-22, updated: 2024-10-22, from: Polygon Website
+
+League of Legends fans first met Ambessa Medarda, a Noxian general, in Arcane’s first season on Netflix. Ambessa is the embodiment of her homeland’s brutality, and she’s a cunning tactician. In Arcane, she’s a disruptive influence who sees an oncoming war between the two cities and looks to gain an advantage. In League of Legends, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/468735/league-of-legends-ambessa-medarda-abilities-aram-arcane>
+
+---
+
+## Where to buy the D&#038;D 50th anniversary vinyl album
+
+date: 2024-10-22, updated: 2024-10-22, from: Polygon Website
+
+Wizards of the Coast is pulling out all stops to celebrate Dungeons &#38; Dragons’ 50th anniversary. In addition to launching to a new Player’s Handbook (the 2024 edition Dungeon Master’s Guide is coming mid-November), the company has announced a forthcoming album fit for a tabletop outing. Bardic Inspiration: A Musical Journey through the Forgotten Realms will [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pre-order/468512/bardic-inspiration-album-where-to-buy-dnd-dungeons-dragons-vinyl>
+
+---
+
+## Potionomics, a game about capitalism and kissing cuties, gets a massive update
+
+date: 2024-10-22, updated: 2024-10-22, from: Polygon Website
+
+Potionomics has remained one of my favorite small business simulators for the last couple of years thanks to its clever blend of deck-building, management simulation, witty dialogue, and fantastic character design. While the game was excellent when it received its last update nearly two years ago, developer Voracious Games has fans giddy with another free [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/468623/potionomics-update-controller-support-endless-mode>
+
+---
+
+## Smash Bros. creator has been working on his next game for 2 years
+
+date: 2024-10-22, updated: 2024-10-22, from: Polygon Website
+
+Game designer Masahiro Sakurai’s two-and-a-half-year YouTube journey is now complete. The Super Smash Bros. and Kirby creator uploaded his final video — and his 260th — to his channel Masahiro Sakurai on Creating Games. The series finale sends the series off with a look back at its creation. While it’s bittersweet and a little inside-baseball, Sakurai [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/468527/super-smash-bros-creator-new-game-masahiro-sakurai>
+
+---
+
+## Magic: The Gathering publisher names new panel to oversee troubled Commander format
+
+date: 2024-10-22, updated: 2024-10-22, from: Polygon Website
+
+Magic: The Gathering finally detailed its plans for the beloved Commander format. A lengthy blog post by principal designer Gavin Verhey announced a new 17-member Commander Format Panel (CFP) on Tuesday. The CFP takes the place of the five-member Commander Rules Committee (CRC) that resigned en masse last month. All members will be paid for [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mtg-magic-the-gathering/468627/mtg-new-commander-format-panel-rules-committee>
+
+---
+
+## Soccer Mommy wrote a love song for Stardew Valley’s Abigail for her new album
+
+date: 2024-10-22, updated: 2024-10-22, from: Polygon Website
+
+Sophie Allison, better known as indie pop artist Soccer Mommy, has a new album, Evergreen, coming out on Oct. 25. In anticipation of its release, Allison released one single early: “Abigail,” a love song written for Stardew Valley’s purple haired non-playable character. “New song ‘Abigail’ is out now,” Allison posted on X. “Abigail is an [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/468587/stardew-valley-abigail-soccer-mommy-love-song>
 
 ---
 

@@ -1,11 +1,238 @@
 ---
 title: columns
-updated: 2024-10-22 07:38:44
+updated: 2024-10-22 16:13:00
 ---
 
 # columns
 
-(date: 2024-10-22 07:38:44)
+(date: 2024-10-22 16:13:00)
+
+---
+
+##  Buster Keaton and the Art of the Gag 
+
+date: 2024-10-22, updated: 2024-10-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/buster-keaton-and-the-art-of-the-gag-1>
+
+---
+
+## 2024-10-22 Preparing Chinese tea for beginners
+
+date: 2024-10-22, from: Alex Schroeder's Blog
+
+<h1 id="2024-10-22-preparing-chinese-tea-for-beginners">2024-10-22 Preparing Chinese tea for beginners</h1>
+
+<p>This is a continuation of <a href="2021-07-12_Preparing_Japanese_green_tea_for_beginners">2021-07-12 Preparing Japanese green tea for beginners</a>. This page is about the Chinese and Taiwanese tea I often drink: loose leaf oolong tea and <a href="https://en.wikipedia.org/wiki/Pu%27er_tea">pu&rsquo;er tea</a> (fermented tea) in a brick (round disks about as big as two hands next to each other. That would be tea costing around CHF 30/50g or CHF 220/375g.</p>
+
+<p>The rule I use is simple:</p>
+
+<ol>
+<li>boil water</li>
+<li>wet the tea leaves for a few seconds and throw the water away (&ldquo;washing&rdquo; the leaves)</li>
+<li>pour more hot water onto the leaves and let it steep for 1 minute</li>
+<li>drink it</li>
+</ol>
+
+<p>Repeat as often as you feel like it.</p>
+
+<p>I usually try to do this at least three times. I often find that the fourth time around the flavour is much reduced.</p>
+
+<p>If the tea is good, it doesn&rsquo;t matter if you forget it. It doesn&rsquo;t turn into the kind of bitterness that zombifies your tongue. It&rsquo;s just bitter but still tasty.</p>
+
+<p>Sometimes I forget the empty pot or cup and repeat the steeping hours later. In this time, bacteria haven&rsquo;t eaten away the leaves. There is no mould growing on the leaves. Just pour that hot water, let it steep for a minute and keep drinking tea!</p>
+
+<p>Sometimes I know that the tea is very mild and I&rsquo;ll let it steep for 2 minutes the second time around and 3 minutes the third time around. No problem at all. Tea is flexible. Good tea remains good tea. It tastes a little different but it always tastes good.</p>
+
+<p><a class="tag" href="/search/?q=%23Tea">#Tea</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2024-10-22-chinese-tea>
+
+---
+
+## Rudy Giuliani Is Losing Everything to the Georgia Election Workers He Defamed
+
+date: 2024-10-22, updated: 2024-10-22, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.cnn.com/2024/10/22/politics/rudy-giuliani-bankruptcy-georgia-election-workers/index.html>
+
+---
+
+##  Carpenter&#8217;s Symphony 
+
+date: 2024-10-22, updated: 2024-10-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/carpenters-symphony>
+
+---
+
+##  The Onion: &#8220;The Donald Trump and Kamala Harris campaigns both debuted new... 
+
+date: 2024-10-22, updated: 2024-10-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045504-the-onion-the-donald-trum>
+
+---
+
+##  These &#8220;containment cages&#8221; used in Texas prison are inhumane — standing-room only... 
+
+date: 2024-10-22, updated: 2024-10-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045498-these-containment-cages-u>
+
+---
+
+## October 21, 2024
+
+date: 2024-10-22, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/150579133/89ae93456653e35c2ef67c2b7c7d3fd7.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/150579133/89ae93456653e35c2ef67c2b7c7d3fd7.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/october-21-2024-847>
+
+---
+
+##  Oh boy, a new book from one of my favorite designers: Kelli... 
+
+date: 2024-10-22, updated: 2024-10-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045501-oh-boy-a-new-book>
+
+---
+
+##  Until about 1885, female newborns in Sweden had a similar risk of... 
+
+date: 2024-10-22, updated: 2024-10-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045486-until-about-1885-female-n>
+
+---
+
+##  From The Pudding, more than you&#8217;ve ever wanted to know about a... 
+
+date: 2024-10-22, updated: 2024-10-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045495-from-the-pudding-more-tha>
+
+---
+
+##  Stuffies & Lovies That Have Been Loved Too Much 
+
+date: 2024-10-22, updated: 2024-10-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/stuffies-lovies-that-have-been-loved-too-much>
+
+---
+
+## What about Ghost?
+
+date: 2024-10-22, from: Dave Winer's Scripting News
+
+<p><b>Bob Sassone writes via email</b>:</p>
+<p>You said on your blog that you can't imagine moving from WordPress because "there isn't anything else out there that's offering something new for the writers." What about Ghost? </p>
+<p>Bob's site is <a href="https://www.bobsassone.com/">bobsassone.com</a>.</p>
+<p><b>My response</b>:</p>
+<p>Sorry it wasn't clear -- but as far as I know, Ghost isn't built on WordPress. It's a completely different product. </p>
+<p>My writing app runs on WordPress. So you can use it with your existing wordpress.com sites.</p>
+<p>It's a browser-based JavaScript app that hooks into WordPress via the wpidentity package I wrote.</p>
+<p>And the codebase I've built will support lots of editors built using WordPress as the backend. </p>
+<p>A <a href="https://github.com/scripting/Scripting-News/issues/312">place</a> to ask questions. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2024/10/22/161625.html?title=whatAboutGhost>
+
+---
+
+## The million-plus Americans Trump killed
+
+date: 2024-10-22, from: Dave Winer's Scripting News
+
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2020/02/23/ronaldMcDonaldWithBomb.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Yesterday I <a href="http://scripting.com/2024/10/21.html#a131028">posted a bit</a> about the "million-plus Americans who died from Covid during Trump's tenure." It wasn't worded carefully enough, I should've had a lawyer review it. Yes, a lot of them died during Biden's tenure too. But I don't think of it that way. I think of the big con-job Trump pulled, first denying there was a virus, then saying it would be done by Easter, then telling people not to wear masks, then ridiculing Biden because he was isolating during the campaign, and of course injecting bleach and all the other <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7685699/">bullshit</a>. Then the mofo got Covid, and our doctors saved his life, and he never said geez I was wrong about this, it's a killer, and btw thanks for saving my life. So yes this was yet another mess a Democrat had to clean up left by his Republican predecessor. Recall the economic collapse Bush left for Obama. And btw, I used to vote Republican, so don't tell me I'm biased. There are a lot of lawyers out there who think a turn of a word can exonerate the depravity and incompetence of Trump. Hopefully he's the worst the Repubs have to throw at us, but who knows what they will come up with. And for crying out loud, if you haven't voted yet, save us from concentration camps and <a href="https://www.pbs.org/newshour/politics/watch-where-rnc-delegates-stand-on-immigration">mass deportation</a>. One million Americans dead is far too many, let's not try to top that. Thanks.  </p>
+ 
+
+<br> 
+
+<http://scripting.com/2024/10/22/161508.html?title=theMillionplusAmericansTrumpKilled>
+
+---
+
+##  Ooh, a preview clip from season three of Star Trek: Strange New... 
+
+date: 2024-10-22, updated: 2024-10-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045494-ooh-a-preview-clip-from>
+
+---
+
+## History Extra for October 21, 2021
+
+date: 2024-10-22, from: Heather Cox Richardson blog
+
+It was President Andrew Jackson in the 1830s who first defended the so-called spoils system for political appointments. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/history-extra-for-october-21-2021>
+
+---
+
+## History Extra for October 20, 2024
+
+date: 2024-10-22, from: Heather Cox Richardson blog
+
+October 20, 1973 was the &#8220;Saturday Night Massacre.&#8221; 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/history-extra-for-october-20-2024>
 
 ---
 
@@ -147,6 +374,18 @@ date: 2024-10-21, updated: 2024-10-21, from: Jason Kittke's blog
 <br> 
 
 <https://kottke.org/24/10/0045489-the-very-real-scenario-wh>
+
+---
+
+## [Sponsor] WorkOS
+
+date: 2024-10-21, updated: 2024-10-21, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://workos.com/?utm_source=daringfireball&utm_medium=display&utm_campaign=q12024>
 
 ---
 

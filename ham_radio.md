@@ -1,11 +1,11 @@
 ---
 title: ham radio
-updated: 2024-10-22 07:38:44
+updated: 2024-10-22 16:12:59
 ---
 
 # ham radio
 
-(date: 2024-10-22 07:38:44)
+(date: 2024-10-22 16:12:59)
 
 ---
 
@@ -27,7 +27,7 @@ date: 2024-10-22, from: EDN Blog
 
 date: 2024-10-22, from: Amateur Radio Relay League News
 
-<p><span>ARRL Headquarters in Newington, Connecticut, is experiencing a power outage this morning, Tuesday, October 22, 2024. The local utility company has indicated that restoration should be soon. In the meantime, member-access to some systems may be affected, including reaching ARRL</span> by phone. </p><p></p><p><em>This story will be updated with new developments.</em></p><em><br /></em> 
+<p><strong>Updated 12:36 PM EDT, Tuesday, October 22, 2024</strong></p><p>Power has been restored. There may be minor disruptions to some services as certain systems are returned to service. We thank you for your patience. Our staff can also be reached by telephone: 860-594-0200.<br /><strong><br />Original story 9:00 AM EDT Tuesday, October 22, 2024</strong></p><p><span>ARRL Headquarters in Newington, Connecticut, is experiencing a power outage this morning, Tu...</span></p> 
 
 <br> 
 

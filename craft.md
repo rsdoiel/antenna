@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2024-10-22 07:38:46
+updated: 2024-10-22 16:13:02
 ---
 
 # craft
 
-(date: 2024-10-22 07:38:46)
+(date: 2024-10-22 16:13:02)
+
+---
+
+## Tongue & Groove Planes
+
+date: 2024-10-22, from: Lost Arg Press blog
+
+The following is an excerpt from Chris&#8217; newest book, “American Peasant.” The book is an introduction to a style of peasant furniture and decoration that is almost unheard of in the Americas. Built primarily with tongues, grooves and pegs, the furniture is frequently engraved with geometric symbols that beautify the piece and protect its owner.... 
+
+<br> 
+
+<https://blog.lostartpress.com/2024/10/22/tongue-groove-planes/>
 
 ---
 

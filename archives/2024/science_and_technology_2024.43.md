@@ -1,11 +1,263 @@
 ---
 title: science and technology
-updated: 2024-10-22 07:38:44
+updated: 2024-10-22 16:12:59
 ---
 
 # science and technology
 
-(date: 2024-10-22 07:38:44)
+(date: 2024-10-22 16:12:59)
+
+---
+
+## US lawmakers push DOJ to prosecute tax prep firms for leaking taxpayer data to big tech
+
+date: 2024-10-22, updated: 2024-10-22, from: The Register (UK I.T. News)
+
+<h4>TaxSlayer, H&amp;R Block, TaxAct, and Ramsey Solutions accused of sharing info with Meta and Google</h4> <p>A quartet of Democratic lawmakers have penned a letter to the US Department of Justice asking it to prosecute tax preparation companies for sharing customer data, including tax return information, with Meta and Google.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/22/democrats_demand_doj_prosecute_tax/>
+
+---
+
+## Fake reviewers face the wrath of Khan
+
+date: 2024-10-22, updated: 2024-10-22, from: The Register (UK I.T. News)
+
+<h4>From hell&#39;s heart I stab at thee</h4> <p>Fake review writers are officially on watch - the US is now enforcing a new rule to ban the practice and is promising a crackdown.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/22/fake_reviews_ftc/>
+
+---
+
+## NASA Awards Custodial, Refuse Collection Contract
+
+date: 2024-10-22, from: NASA breaking news
+
+NASA has selected All Native Synergies Company of Winnebego, Nebraska, to provide custodial and refuse collection services at the agency’s Marshall Space Flight Center in Huntsville, Alabama. The Custodial and Refuse Collection Services III contract is a firm-fixed-price contract with an indefinite-delivery/indefinite-quantity provision. Its maximum potential value is approximately $33.5 million. The performance period begins [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-awards-custodial-refuse-collection-contract/>
+
+---
+
+## Sorry, but the ROI on enterprise AI is abysmal
+
+date: 2024-10-22, updated: 2024-10-22, from: The Register (UK I.T. News)
+
+<h4>Appen points to, among other problems, a lack of high-quality training data labeled by humans</h4> <p>The deployment of AI projects and associated return on investment (ROI) have declined, according to a large survey of IT decision-makers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/22/genai_roi_appen/>
+
+---
+
+## Fossils Reveal the Face of an Extinct Nine-Foot-Long 'Millipede,' the Largest Arthropod to Ever Live
+
+date: 2024-10-22, from: Smithsonian Magazine
+
+Scientists in France solved the evolutionary mystery of this prehistoric monster, which resembles both the centipedes and millipedes of today 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/fossils-reveal-the-face-of-an-extinct-nine-foot-long-millipede-the-largest-arthropod-to-ever-live-180985293/>
+
+---
+
+## A Dazzling Supernova
+
+date: 2024-10-22, from: NASA breaking news
+
+This image, released on Feb. 24, 2017, shows Supernova 1987a (center) surrounded by dramatic red clouds of gas and dust within the Large Magellanic Cloud. This supernova, first discovered on Feb. 23, 1987, blazed with the power of 100 million Suns. Since that first sighting, SN 1987A has continued to fascinate astronomers with its spectacular [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/a-dazzling-supernova/>
+
+---
+
+## Walk Through a Full-Scale Replica of the Secret Annex Where Anne Frank's Family Took Shelter During the Holocaust
+
+date: 2024-10-22, from: Smithsonian Magazine
+
+Featuring more than 100 original artifacts, a new immersive exhibition in New York City will explore the young Jewish diarist's life and legacy 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/walk-through-a-full-scale-replica-of-the-secret-annex-where-anne-franks-family-took-shelter-during-the-holocaust-180985292/>
+
+---
+
+## Qualcomm unveils Snapdragon 8 Elite with custom cores for Android phones
+
+date: 2024-10-22, updated: 2024-10-22, from: The Register (UK I.T. News)
+
+<h4>New flagship SoC drops Arm and grows its own legs with Oryon</h4> <p>During day one of Qualcomm&#39;s Snapdragon Summit in Maui, Hawaii, it unveiled its latest flagship SoC, dubbed the Snapdragon 8 Elite. This marks a pivotal swing into harnessing the technical prowess of its acquired Nuvia team.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/22/qualcomm_snapdragon_8_elite/>
+
+---
+
+## NASA Wallops to Support October Sounding Rocket Launch
+
+date: 2024-10-22, from: NASA breaking news
+
+NASA’s Wallops Flight Facility in Virginia is scheduled to support the launch of a suborbital sounding rocket for the U.S. Department of Defense during a launch window that runs 5 p.m. to 11 p.m. EDT each day from Wednesday, Oct. 23 to Friday, Oct. 25. No real-time launch status updates will be available. The launch [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/wallops/nasa-wallops-to-support-october-sounding-rocket-launch/>
+
+---
+
+## Read With NASA: Books, More to Inspire Young Explorers
+
+date: 2024-10-22, from: NASA breaking news
+
+Stories open up new worlds and spark curiosity in readers of all ages – and NASA is using the power of storytelling to encourage the Artemis Generation to explore STEM (science, technology, engineering, and mathematics). Through the below list of reading resources – books, comics, and graphic novels written and illustrated by NASA experts, and [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/learning-resources/read-with-nasa/>
+
+---
+
+## Western Digital wasn't the only one - Windows 24H2 update bluescreens Asus systems
+
+date: 2024-10-22, updated: 2024-10-22, from: The Register (UK I.T. News)
+
+<h4>Microsoft blocks updates to avoid giving admins another headache</h4> <p>In yet more problems for this month&#39;s Windows 11 24H2 update, Microsoft has warned the new code will cause a Blue Screen of Death on some Asus systems due to hardware compatibility issues.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/22/windows_24h2_update_bsod/>
+
+---
+
+## I Am Artemis: Casey Wolfe
+
+date: 2024-10-22, from: NASA breaking news
+
+While precision, perseverance, and engineering are necessary skills in building a Moon rocket, Casey Wolfe knows that one of the most important aspects for the job is teamwork. “Engineering is vital, but to get this type of work done, you need to take care of the human element,” said Wolfe, the assistant branch chief of [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/i-am-artemis-casey-wolfe/>
+
+---
+
+## This Art Dealer Paved the Way for Picasso, Matisse and Modigliani. So Why Haven't You Heard of Her?
+
+date: 2024-10-22, from: Smithsonian Magazine
+
+A new exhibition in New York celebrates Berthe Weill, an often overlooked but visionary figure who jumpstarted the careers of many of modern art's giants 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/art-dealer-berthe-weill-discovered-picasso-matisse-and-more-so-why-havent-you-heard-of-her-180985261/>
+
+---
+
+## TSMC blows whistle on potential sanctions-busting shenanigans from Huawei
+
+date: 2024-10-22, updated: 2024-10-22, from: The Register (UK I.T. News)
+
+<h4>Chip giant tells Uncle Sam someone could be making orders on the sly</h4> <p>TSMC has reportedly tipped off US officials to a potential attempt by Huawei to circumvent export controls and obtain AI chips manufactured by the Taiwanese company.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/22/tsmc_huawei_sanctions_report/>
+
+---
+
+## Admire the World's Largest Collection of Fossilized Poop at the New 'Poozeum' in Arizona
+
+date: 2024-10-22, from: Smithsonian Magazine
+
+Owner George Frandsen has some 8,000 coprolites from dinosaurs, sharks and other creatures 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/admire-the-worlds-largest-collection-of-fossilized-poop-at-the-new-poozeum-in-arizona-180985309/>
+
+---
+
+## VMware fixes critical RCE, make-me-root bugs in vCenter - for the second time
+
+date: 2024-10-22, updated: 2024-10-22, from: The Register (UK I.T. News)
+
+<h4>If the first patches don&#39;t work, try, try again</h4> <p>VMware has pushed a second patch for a critical, heap-overflow bug in the vCenter Server that could allow a remote attacker to fully compromise vulnerable systems after the first software update, issued last month, didn&#39;t work.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/22/vmware_rce_vcenter_bugs/>
+
+---
+
+## Meloë Kacenelenbogen Eyes the Future of Air Quality, Climate Research
+
+date: 2024-10-22, from: NASA breaking news
+
+A mentor of research scientist Meloë Kacenelenbogen once shared a sentiment from French author André Gide: “You cannot discover new oceans unless you have the courage to lose sight of the shore.” Kacenelenbogen pushes beyond her comfort zone to explore the unknown. Name: Meloë S. KacenelenbogenFormal Job Classification: Research scientistOrganization: Climate and Radiation Laboratory, Science [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/people-of-nasa/goddard-people/meloe-kacenelenbogen-eyes-the-future-of-air-quality-climate-research/>
+
+---
+
+## Tech firms to pay millions in SEC penalties for misleading SolarWinds disclosures
+
+date: 2024-10-22, updated: 2024-10-22, from: The Register (UK I.T. News)
+
+<h4>Unisys, Avaya, Check Point, and Mimecast settled with the agency without admitting or denying wrongdoing</h4> <p>Four high-profile tech companies reached an agreement with the Securities and Exchange Commission to pay millions of dollars in penalties for misleading investors about their exposure to the 2020 SolarWinds hack.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/22/sec_fines_four_tech_firms/>
+
+---
+
+## Sols 4338-4340: Decisions, Decisions
+
+date: 2024-10-22, from: NASA breaking news
+
+Earth planning date: Friday, Oct. 18, 2024 On sol 4338, we have a science block planned as well as some arm activities. Our science activities include a ChemCam observation of “Donkey Lake.” This is a bedrock target with exposed laminations. In geology, lamination is a sequence of small-scale, embedded fine layers of sedimentary rock. Next, […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4338-4340-decisions-decisions/>
+
+---
+
+## Akira ransomware is encrypting victims again following pure extortion fling
+
+date: 2024-10-22, updated: 2024-10-22, from: The Register (UK I.T. News)
+
+<h4>Crooks revert to old ways for greater efficiency</h4> <p>Experts believe the Akira ransomware operation is up to its old tricks again, encrypting victims&#39; files after a break from the typical double extortion tactics.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/22/akira_encrypting_again/>
+
+---
+
+## NASA Reveals Prototype Telescope for Gravitational Wave Observatory
+
+date: 2024-10-22, from: NASA breaking news
+
+NASA has revealed the first look at a full-scale prototype for six telescopes that will enable, in the next decade, the space-based detection of gravitational waves — ripples in space-time caused by merging black holes and other cosmic sources. The LISA (Laser Interferometer Space Antenna) mission is led by ESA (European Space Agency) in partnership […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/lisa/nasa-reveals-prototype-telescope-for-gravitational-wave-observatory/>
 
 ---
 
@@ -599,9 +851,9 @@ date: 2024-10-21, updated: 2024-10-21, from: The Register (UK I.T. News)
 
 ## Internet Archive exposed again – this time through Zendesk
 
-date: 2024-10-21, updated: 2024-10-21, from: The Register (UK I.T. News)
+date: 2024-10-21, updated: 2024-10-22, from: The Register (UK I.T. News)
 
-<h4>Org turns its woes into a fundraising opportunity</h4> <p>Despite the Internet Archive&#39;s assurances it&#39;s back on its feet after a recent infosec incident, the org still appears to be in trouble after parties unknown claimed to hold access tokens to its Zendesk implementation and to have used them to send a mass email blast.…</p> 
+<h4>Org turns its woes into a fundraising opportunity</h4> <p>Despite the Internet Archive&#39;s assurances that it&#39;s back on its feet after a recent infosec incident, the org still appears to be in trouble after parties unknown claimed to hold access tokens to its Zendesk implementation and to have used them to send a mass email blast.…</p> 
 
 <br> 
 

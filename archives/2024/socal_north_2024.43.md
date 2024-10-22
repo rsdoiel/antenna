@@ -1,11 +1,87 @@
 ---
 title: socal north
-updated: 2024-10-22 07:38:43
+updated: 2024-10-22 16:12:59
 ---
 
 # socal north
 
-(date: 2024-10-22 07:38:43)
+(date: 2024-10-22 16:12:59)
+
+---
+
+## Annual River Rally Cleanup Welcomes Over One Thousand Volunteers
+
+date: 2024-10-22, from: City of Santa Clarita
+
+<p>The 29th annual River Rally Cleanup and Environmental Expo, hosted on Saturday, September 21, 2024, welcomed a total 1,189 participants from the community. Volunteers were trained by professional biologists to know what to expect before entering the Santa Clara riverbed, where 12,555 pounds of trash and debris was collected for proper disposal. After the cleanup, [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/10/22/annual-river-rally-cleanup-welcomes-over-one-thousand-volunteers/">Annual River Rally Cleanup Welcomes Over One Thousand Volunteers</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/10/22/annual-river-rally-cleanup-welcomes-over-one-thousand-volunteers/>
+
+---
+
+## How to decode those political mailers clogging up your mailbox
+
+date: 2024-10-22, updated: 2024-10-22, from: The LAist
+
+It's a life skill being taught in one college class in Orange County. 
+
+<br> 
+
+<https://laist.com/news/politics/decoding-campaign-ads-class>
+
+---
+
+## Construction Begins on the 39th Park in the City of Santa Clarita
+
+date: 2024-10-22, from: City of Santa Clarita
+
+<p>Get ready to travel back in time as the City of Santa Clarita, in partnership with Trammel Crow Company, breaks ground on the Pioneer Oil Refinery historical site (located on the corner of Needham Ranch Parkway and Pioneer Way) on Tuesday, October 29 at 10:00 a.m. This new park will offer residents and visitors an [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/10/22/construction-begins-on-the-39th-park-in-the-city-of-santa-clarita/">Construction Begins on the 39th Park in the City of Santa Clarita          </a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/10/22/construction-begins-on-the-39th-park-in-the-city-of-santa-clarita/>
+
+---
+
+## 'Robin Hood in reverse.' O.C. Supervisor Andrew Do resigns and will plead guilty to bribery conspiracy charge
+
+date: 2024-10-22, updated: 2024-10-22, from: The LAist
+
+Federal prosecutors say the longtime O.C. supervisor has agreed to plead guilty and resign in a conspiracy to steal millions of dollars meant to feed needy seniors, following a months-long LAist investigation and federal probe. 
+
+<br> 
+
+<https://laist.com/news/politics/orange-county-supervisor-andrew-do-bribery-guilty-plea-resigns>
+
+---
+
+## Timeline on LAist's investigation: OC Supervisor Andrew Do to plead guilty to bribery charges
+
+date: 2024-10-22, updated: 2024-10-22, from: The LAist
+
+A look back at LAist reporting that uncovered more than $13 million in public funds directed to a little-known noprofit by O.C. Supervisor Andrew Do, who did not disclose that his daughter held leadership roles with the group — which was not required by state law. 
+
+<br> 
+
+<https://laist.com/news/politics/timeline-laist-reporting-on-the-alleged-misuse-of-public-funds-in-orange-county>
+
+---
+
+## Warm days to continue into Thursday
+
+date: 2024-10-22, updated: 2024-10-22, from: The LAist
+
+warmest day will be Wednesday, followed by a cooling trend as early as Thursday 
+
+<br> 
+
+<https://laist.com/news/climate-environment/warm-today-warm-tomorrow-maybe-cooler-thursday-10-22>
 
 ---
 

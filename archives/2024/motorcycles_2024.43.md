@@ -1,11 +1,35 @@
 ---
 title: motorcycles
-updated: 2024-10-22 07:38:46
+updated: 2024-10-22 16:13:01
 ---
 
 # motorcycles
 
-(date: 2024-10-22 07:38:46)
+(date: 2024-10-22 16:13:01)
+
+---
+
+## KTM's Parent Company Is In Deep Trouble, Cuts Board and Revenue Forecasts
+
+date: 2024-10-22, from: Ride Apart, Electric Motorcycle News
+
+Rocky times ahead for those who bleed orange. 
+
+<br> 
+
+<https://www.rideapart.com/news/738332/pierer-mobility-ktm-mv-agusta-gasgas-lay-off-executive-cuts-revenue/>
+
+---
+
+## Husqvarna’s Excited For EICMA, Promises All-New Motorcycle
+
+date: 2024-10-22, from: Ride Apart, Electric Motorcycle News
+
+Pierer’s going in full force for this year’s EICMA.  
+
+<br> 
+
+<https://www.rideapart.com/news/738070/husqvarna-eicma-2024-teaser/>
 
 ---
 

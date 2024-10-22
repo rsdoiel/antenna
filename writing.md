@@ -1,11 +1,147 @@
 ---
 title: writing
-updated: 2024-10-22 07:38:45
+updated: 2024-10-22 16:13:00
 ---
 
 # writing
 
-(date: 2024-10-22 07:38:45)
+(date: 2024-10-22 16:13:00)
+
+---
+
+## New this month
+
+date: 2024-10-22, from: IF Database News
+
+The team has been hard at work on improvements to IFDB.
+
+<p><ul>
+<li><a href="https://ifdb.org/news?item=145">New Star Rating Control</a></li>
+<li><a href="https://ifdb.org/news?item=144">Performance Improvements</a></li>
+<li><a href="https://ifdb.org/news?item=143">Updated Tag List</a></li>
+<li><a href="https://ifdb.org/news?item=142">Dark Mode Improvements</a></li>
+<li><a href="https://ifdb.org/news?item=141">Tag Suggestions</a></li>
+</ul></p> 
+
+<br> 
+
+<https://ifdb.org/news?item=146>
+
+---
+
+## New Star Rating Control
+
+date: 2024-10-22, from: IF Database News
+
+<p>There's a new star rating control, designed for accessibility. We'd love to get your feedback on it <a href="https://intfiction.org/t/ifdb-has-a-new-star-rating-control/71812">on the intfiction.org forum</a>.</p>
+
+<ul>
+<li>The new star controls are designed to be bigger, easier to tap on on touchscreens.</li>
+<li>Theyre also designed to be keyboard accessible. You can use tab to focus on the star control, and then use arrow keys to select a rating. (When you do this, you have to tab over to the new Submit Rating button to submit your selection.)</li>
+<li>Under the hood, theyre secretly radio buttons, so users of screen readers will interact with them like radio buttons.</li>
+<li>Weve replaced the little star icons with new SVG icons. I think theyre nicer to look at, especially on high-resolution screens (like phones).</li>
+</ul> 
+
+<br> 
+
+<https://ifdb.org/news?item=145>
+
+---
+
+## Performance Improvements
+
+date: 2024-10-22, from: IF Database News
+
+You should see a number of performance improvements on the site. Especially note that clicking your browser's Back button now shows the previous page instantly. And on Google Chrome and Microsoft Edge, we're now downloading certain links before you click on them, especially "See full review" links on the home page and the first few results on searches, so when you click on those links, the page loads instantly. 
+
+<br> 
+
+<https://ifdb.org/news?item=144>
+
+---
+
+## Updated Tag List
+
+date: 2024-10-22, from: IF Database News
+
+The <a href="/showtags">All Game Tags</a> page now shows tags in a list, sorted by frequency. You can also sort them alphabetically and view them in a tag cloud. 
+
+<br> 
+
+<https://ifdb.org/news?item=143>
+
+---
+
+## Dark Mode Improvements
+
+date: 2024-10-22, from: IF Database News
+
+There are always more fixes to make, but we've fixed a number of spots where IFDB Dark Mode was showing bright white dialogs or low-contrast text. 
+
+<br> 
+
+<https://ifdb.org/news?item=142>
+
+---
+
+## Tag Suggestions
+
+date: 2024-10-22, from: IF Database News
+
+When adding a tag, we now provide suggestions based on what you've typed. We'll suggest any tag that's been used on at least ten games. 
+
+<br> 
+
+<https://ifdb.org/news?item=141>
+
+---
+
+## GigaNotoSaurus, Diabolical Plots, Kaleidotrope, and Small Wonders: Short Fiction Reviews by Charles Payseur
+
+date: 2024-10-22, from: Locus Magazine
+
+<p>GigaNotoSaurus 7/24
+Diabolical Plots 7/24
+Kaleidotrope Summer ’24
+Small Wonders 7/24</p>
+<p>The latest from GigaNotoSaurus is <strong>Gustavo Bon­doni</strong>’s “<strong>Sambra do Espaço</strong>”, which finds Letícia working on an orbiting solar satellite array that gives power to a lot of Earth, including a dis­proportionate number of impoverished people. And though during Carnaval she’d much rather be watching her family dance and remembering her time in Brazil, an attack by  <a href="https://locusmag.com/2024/10/giganotosaurus-diabolical-plots-kaleidotrope-and-small-wonders-short-fiction-reviews-by-charles-payseur/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/10/giganotosaurus-diabolical-plots-kaleidotrope-and-small-wonders-short-fiction-reviews-by-charles-payseur/>
+
+---
+
+## New Books, 22 October 2024
+
+date: 2024-10-22, from: Locus Magazine
+
+<p>Anderson, Kevin J.: <b>Science Fiction Stories, Volume 2</b>
+(WordFire Press 9781680577259, $18.99, 350pp, formats: trade paperback, hardcover, 10/22/2024)</p>
+<p>Second volume in Anderson&#8217;s short story series, including science fiction stories about asteroid miners, time travelers, body swappers, giant robots, space cadets, futuristic prisons, and more.</p>
+<p>&#160;</p>
+<p>Carroll, Jordan S.: <b>Speculative Whiteness: Science Fiction and the Alt-Right</b>
+(University of Minnesota Press 9781517917081, $10, 120pp, formats: trade paperback, ebook, 10/22/2024)</p>
+<p>Critical non-fiction about  <a href="https://locusmag.com/2024/10/new-books-22-october-2024/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/10/new-books-22-october-2024/>
+
+---
+
+## 20 Questions (2024 Edition)
+
+date: 2024-10-22, from: John August blog
+
+John and Craig answer twenty listener questions on craft, career, and the future of the industry. Questions include: How do you correct well wishes you haven’t earned? What kind of relationship should you have with the person who created your source material? How do you keep your reps invested? What’s going on with that Stereophonic [&#8230;]
+The post <a href="https://johnaugust.com/2024/20-questions-2024-edition">20 Questions (2024 Edition)</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/662standard.mp3"></source>
+</audio> <a href="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/662standard.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://johnaugust.com/2024/20-questions-2024-edition>
 
 ---
 

@@ -1,11 +1,267 @@
 ---
 title: going electric
-updated: 2024-10-22 07:38:46
+updated: 2024-10-22 16:13:02
 ---
 
 # going electric
 
-(date: 2024-10-22 07:38:46)
+(date: 2024-10-22 16:13:02)
+
+---
+
+## Top EVs you can lease for under $200 a month this October [Updated]
+
+date: 2024-10-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Hyundai-IONIQ-5-lease-offer-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Who said <a href="https://electrek.co/guides/electric-vehicles/">electric vehicles</a> are too expensive? With several EVs on sale for lease under $200 a month this October, the prices prove otherwise. Here are some of the best EV lease deals this month.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles" data-layer-viewtype="unknown" data-post-id="383089" href="https://electrek.co/2024/10/22/top-evs-lease-under-200-a-month-october/#more-383089" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/22/top-evs-lease-under-200-a-month-october/>
+
+---
+
+## Renewables now make up 30% of US utility-scale generating capacity
+
+date: 2024-10-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Floating-solar-Utah.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Renewables now claim a 30.1% share of total US utility-scale electrical generating capacity, according to new Federal Energy Regulatory Commission (FERC) data.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,geothermal,solar,hydropower,solar-power,wind-power" data-layer-viewtype="unknown" data-post-id="385538" href="https://electrek.co/2024/10/22/renewables-30-percent-us-utility-scale-generating-capacity/#more-385538" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/22/renewables-30-percent-us-utility-scale-generating-capacity/>
+
+---
+
+## Tesla Full Self-Driving is getting more dangerous as it get better
+
+date: 2024-10-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Full-Self-Driving-Beta-smear-campaign.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>I just came back from driving about 200 miles (350 km) using Tesla’s (Supervised) Full Self-Driving, and the system is getting better, but it’s also getting more dangerous as it gets better.</p>
+
+
+
+<p>The risk of complacency is scary.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="385264" href="https://electrek.co/2024/10/22/tesla-full-self-driving-is-getting-more-dangerous-as-it-get-better/#more-385264" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/22/tesla-full-self-driving-is-getting-more-dangerous-as-it-get-better/>
+
+---
+
+## Kia EV4 flaunts its sculpted silhouette in new sighting
+
+date: 2024-10-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/10/Kia-EV2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia’s new entry-level electric sedan, the <a href="https://electrek.co/guides/kia-ev4/">Kia EV4</a>, is coming soon. <span style="margin: 0px; padding: 0px;">It</span> was spotted showing off its unique silhouette ahead of its official debut.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev4" data-layer-viewtype="unknown" data-post-id="385529" href="https://electrek.co/2024/10/22/kia-ev4-flaunts-sculpted-silhouette-new-sighting/#more-385529" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/22/kia-ev4-flaunts-sculpted-silhouette-new-sighting/>
+
+---
+
+## Audi's Electric A2 Restomod Makes More Sense Than You Think
+
+date: 2024-10-22, from: Inside EVs News
+
+There are good reasons why the Audi A2s is an appealing candidate for an electric conversion. 
+
+<br> 
+
+<https://insideevs.com/news/738353/audi-a2-ev-etron-restomod/>
+
+---
+
+## Pedego and Electric Bike Company partner up for made-in-USA e-bikes
+
+date: 2024-10-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/asdfladfhead.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://pedegoelectricbikes.com/">Pedego</a>, one of the earliest entrants into the US electric bicycle market and home to over 200 brick-and-mortar e-bikes stores, will collaborate with Newport Beach, California-based <a href="https://electricbikecompany.com/">Electric Bike Company</a>, bringing highly customized US-made electric bikes into Pedego’s lineup.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="385521" href="https://electrek.co/2024/10/22/pedego-and-electric-bike-company-partner-up-for-made-in-usa-e-bikes/#more-385521" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/22/pedego-and-electric-bike-company-partner-up-for-made-in-usa-e-bikes/>
+
+---
+
+## First discount on Bluetti Handsfree backpack power stations from $299, Vanpowers e-bikes from $1,049, Greenworks, Worx, more
+
+date: 2024-10-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Bluetti-Handsfree-Backpack-Power-Station-1-photography.png?w=1600" /></div><p>We’ve got some travel devices and at-home tool discounts as the focus of today’s Green Deals. Front and center is <a href="https://9to5toys.com/2024/10/21/bluetti-halloween-sale-offers-first-discount-on-new-handsfree-backpack-power-stations-starting-from-299-more/">Bluetti’s Halloween Sale</a> which is not only taking 50% off a massive lineup of backup power solutions but also giving us the first official discount on the brand’s <a href="https://9to5toys.com/2024/10/21/bluetti-halloween-sale-offers-first-discount-on-new-handsfree-backpack-power-stations-starting-from-299-more/">new Handsfree 1 and Handsfree 2 Backpack Power Stations</a> that start from <a href="https://9to5toys.com/2024/10/21/bluetti-halloween-sale-offers-first-discount-on-new-handsfree-backpack-power-stations-starting-from-299-more/">$299</a>. Following right behind is four Vanpowers e-bikes seeing discounts, with the biggest savings on the <a href="https://9to5toys.com/2024/10/22/save-700-on-vanpowers-35-pound-city-vanture-e-bike-that-tackles-commutes-up-to-50-miles-at-1049-more/">City Vanture e-bike at $1,049</a>. There’s also two great tool deals, with the <a href="https://9to5toys.com/2024/10/22/get-11-feet-of-total-reach-with-greenworks-40v-8-inch-cordless-electric-polesaw-at-new-87-low-reg-180/">Greenworks 40V 8-inch Cordless Electric Polesaw</a> hitting a new <a href="https://9to5toys.com/2024/10/22/get-11-feet-of-total-reach-with-greenworks-40v-8-inch-cordless-electric-polesaw-at-new-87-low-reg-180/">$87 low</a>, while we also have two varying options to save up to $130 on <a href="https://9to5toys.com/2024/10/22/for-today-only-you-can-save-up-to-130-with-this-worx-nitro-40v-leafjet-cordless-blower-bundle-at-220-reg-350/">Worx’s Nitro 40V LEAFJET Cordless Electric Blower</a> starting from <a href="https://9to5toys.com/2024/10/22/for-today-only-you-can-save-up-to-130-with-this-worx-nitro-40v-leafjet-cordless-blower-bundle-at-220-reg-350/">$190</a>. Plus, all the other hangover Green Deals in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2024/10/21/ecoflow-halloween-sale-offers-delta-pro-power-station-with-free-gear-at-2499-4167-value-more-from-169/">EcoFlow Halloween sale coverage</a> or the return Prime Day low on <a href="https://9to5toys.com/2024/10/21/best-deal-on-ankers-powercore-reserve-60000mah-power-bank-station-returns-for-90-low-reg-150/">Anker’s PowerCore Reserve 60,000mAh Power Bank Station</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="385490" href="https://electrek.co/2024/10/22/bluetti-halloween-sale-vanpowers-e-bikes-greenworks-worx-more/#more-385490" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/22/bluetti-halloween-sale-vanpowers-e-bikes-greenworks-worx-more/>
+
+---
+
+## Tesla (TSLA) Q3 earnings preview: what damage are we looking at?
+
+date: 2024-10-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2020/11/tesla-hero-tsla-3.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla (TSLA) is about to release Q3 2024 financial results on Wednesday, October 23, after the markets close. As usual, a conference call and Q&amp;A with Tesla’s management are scheduled after the results.</p>
+
+
+
+<p>Here, we’ll look at what the street and retail investors expect for the quarterly results.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="385487" href="https://electrek.co/2024/10/22/tesla-tsla-q3-earnings-preview-what-damage-are-we-looking-at/#more-385487" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/22/tesla-tsla-q3-earnings-preview-what-damage-are-we-looking-at/>
+
+---
+
+## BYD electric SUV teardown shocks Japan: ‘How can it be produced at such a low cost?’
+
+date: 2024-10-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/BYD-EV-Japan.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Japan is wondering how Chinese EV makers, like <a href="https://electrek.co/guides/byd/">BYD</a>, build electric cars so cheaply. After tearing apart BYD’s Atto 3, an all-electric SUV, attendees at an EV seminar in Japan asked, “How can it be produced at such a low cost?”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="385478" href="https://electrek.co/2024/10/22/byd-ev-teardown-shocks-japan-how-is-it-made-so-cheaply/#more-385478" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/22/byd-ev-teardown-shocks-japan-how-is-it-made-so-cheaply/>
+
+---
+
+## Tesla Just Released Autopilot Crash Data. We Have Doubts
+
+date: 2024-10-22, from: Inside EVs News
+
+The automaker has been releasing Autopilot safety data for years. Still, it fails to answer critical questions. 
+
+<br> 
+
+<https://insideevs.com/news/738336/tesla-autopilot-safety-data-q3-2024/>
+
+---
+
+## Arkup unveils its latest solar-electric modular houseboat, complete with Starlink
+
+date: 2024-10-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/electric-houseboat-Arkup-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Arkup, a sustainable and liveable<a href="https://electrek.co/guides/solar-electric-boats/"> marine vessel developer</a>, has unveiled its latest solar-electric houseboat before it will be on display at the Fort Lauderdale International Boat Show this month. This modular solar yacht can be configured to house up to two bedrooms and baths and can sit stationary or traverse the waters, all without any emissions. Oh, and it has Starlink internet.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="arkup,electric-houseboats,electric-yachts,solar-electric-boats,starlink" data-layer-viewtype="unknown" data-post-id="385440" href="https://electrek.co/2024/10/22/arkup-unveils-latest-solar-electric-modular-houseboat-complete-with-starlink/#more-385440" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/22/arkup-unveils-latest-solar-electric-modular-houseboat-complete-with-starlink/>
+
+---
+
+## The $35,000 Chevy Equinox EV is finally here
+
+date: 2024-10-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/35000-Chevy-Equinox-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The “most affordable EV in the US with 315+ miles range” is officially here. GM confirmed the long-awaited $35,000 <a href="https://electrek.co/guides/chevy-equinox-ev/">Chevy Equinox EV</a> LT is now available to order.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevy-equinox-ev,general-motors,gm" data-layer-viewtype="unknown" data-post-id="385428" href="https://electrek.co/2024/10/22/35000-chevy-equinox-ev-finally-here/#more-385428" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/22/35000-chevy-equinox-ev-finally-here/>
+
+---
+
+## Tesla Investors Want Robotaxi Answers
+
+date: 2024-10-22, from: Inside EVs News
+
+Plus, Lucid thinks full autonomy isn't happening this decade and California cops aren't convinced Teslas make good patrol cars. 
+
+<br> 
+
+<https://insideevs.com/news/738230/tesla-investors-robotaxi-results-day/>
+
+---
+
+## These solar-roofed electric school buses are V2X
+
+date: 2024-10-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/First-Student-ConEd-electric-school-buses.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Student transport company First Student and utility Con Edison have launched a vehicle-to-everything (V2X) hub with 12 solar-roofed electric school buses in Brooklyn.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="brooklyn,con-edison,egeb,energy-brief,electric-school-buses,solar,new-york,solar-power" data-layer-viewtype="unknown" data-post-id="385429" href="https://electrek.co/2024/10/22/solar-roofed-electric-school-buses-v2x/#more-385429" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/22/solar-roofed-electric-school-buses-v2x/>
+
+---
+
+## Can Royal Enfield succeed where Can-Am and Kawasaki stumbled with electric motorcycles?
+
+date: 2024-10-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/09/kawasaki-ninja-e-1-header.webp?w=1600" /></div><p>Legacy motorcycle brands are taking bold steps into the electric future, but not all attempts have hit the mark. Can-Am and Kawasaki, both respected for their performance and unique legacies in the gasoline-powered world, have since entered the commuter e-motorcycle market with varying degrees of success, to put it kindly. But now with storied motorcycle brand Royal Enfield set to join the e-motorcycle market, can the much adored brand finally succeed where others have failed?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-motorcycle" data-layer-viewtype="unknown" data-post-id="385375" href="https://electrek.co/2024/10/22/can-royal-enfield-succeed-where-can-am-and-kawasaki-stumbled-with-electric-motorcycles/#more-385375" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/22/can-royal-enfield-succeed-where-can-am-and-kawasaki-stumbled-with-electric-motorcycles/>
+
+---
+
+## Kia shares 2025 EV9 pricing which includes minimal increases
+
+date: 2024-10-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/2025-Kia-EV9.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The 2025 Kia EV9 is entering the market as the Korean automaker’s second model year, providing an encore to a three-row SUV that was widely popular following its initial launch as a 2024 model. Why mess with a good thing? For the latest model year, <a href="https://electrek.co/guides/kia/">Kia</a> has only increased the price of one trim and now provides some new, primarily cosmetic upgrades.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev9" data-layer-viewtype="unknown" data-post-id="385421" href="https://electrek.co/2024/10/22/kia-shares-2025-ev9-pricing-which-includes-minimal-increases/#more-385421" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/22/kia-shares-2025-ev9-pricing-which-includes-minimal-increases/>
 
 ---
 
@@ -117,7 +373,7 @@ date: 2024-10-21, from: Electrek Feed
 
 
 
- <a data-layer-pagetype="post" data-layer-postcategory="coal,egeb,energy-brief,solar,solar-power" data-layer-viewtype="unknown" data-post-id="385334" href="https://electrek.co/2024/10/21/a-solar-farm-comes-online-on-a-coal-ash-landfill-site-in-west-virginia/#more-385334" class="more-link">more…</a> 
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="385334" href="https://electrek.co/2024/10/21/a-solar-farm-comes-online-on-a-coal-ash-landfill-site-in-west-virginia/#more-385334" class="more-link">more…</a> 
 
 <br> 
 

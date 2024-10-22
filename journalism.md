@@ -1,11 +1,138 @@
 ---
 title: journalism
-updated: 2024-10-22 07:38:45
+updated: 2024-10-22 16:13:00
 ---
 
 # journalism
 
-(date: 2024-10-22 07:38:45)
+(date: 2024-10-22 16:13:00)
+
+---
+
+## Gramian-Emrani Center for Iranian Music opens, fostering cultural understanding
+
+date: 2024-10-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA&#8217;s commitment to celebrating and preserving Iranian music continues to expand.
+On Sunday, the UCLA Herb Alpert School of Music held a celebratory opening for the Gramian-Emrani Center for Iranian Music. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/22/gramian-emrani-center-for-iranian-music-opens-fostering-cultural-understanding/>
+
+---
+
+## Pierce College students, former department chair say auto tech professor engaged in repeated misconduct
+
+date: 2024-10-22, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Longtime Pierce College automotive technology professor Tom Fortune is teaching four classes this fall, a load similar to previous semesters. Several of the courses he</p>
+<p>The post <a href="https://theroundupnews.com/2024/10/22/pierce-college-students-former-department-chair-say-auto-tech-professor-engaged-in-repeated-misconduct/">Pierce College students, former department chair say auto tech professor engaged in repeated misconduct</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2024/10/22/pierce-college-students-former-department-chair-say-auto-tech-professor-engaged-in-repeated-misconduct/?utm_source=rss&utm_medium=rss&utm_campaign=pierce-college-students-former-department-chair-say-auto-tech-professor-engaged-in-repeated-misconduct>
+
+---
+
+## Two-Time Emmy award-winning Journalist, Sandra O’Neill, inspires students during presentation
+
+date: 2024-10-22, from: The Sundail (CSUN Student Newspaper)
+
+In Latino culture, parents often immigrate, leaving their children with relatives in their home countries such as Mexico and El Salvador, to make the dangerous journey across the border in... 
+
+<br> 
+
+<https://sundial.csun.edu/186452/arts-entertainment/two-time-emmy-award-winning-journalist-sandra-oneill-inspires-students-during-presentation/>
+
+---
+
+## Second Take: Clothing reselling impairs fashion culture, prioritizing profit over expression
+
+date: 2024-10-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+Clothing resellers are selling identity &#8211; at a high price.
+The rise of clothing reselling has transformed the fashion landscape, particularly during the fall season, when many individuals seek to refresh their wardrobes for the new school year. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/22/second-take-clothing-reselling-impairs-fashion-culture-prioritizing-profit-over-expression/>
+
+---
+
+## UCPD detains person with spray paint cans outside Royce Hall
+
+date: 2024-10-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 22 at 3:16 p.m.</em>
+UCPD police officers detained a person with spray paint cans outside Royce Hall Tuesday afternoon.
+Around 12:35 p.m., the officers handcuffed someone wearing a red dress. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/22/ucpd-detains-person-with-spray-paint-cans-outside-royce-hall/>
+
+---
+
+## Faculty, students sue UC over violating protester rights in spring encampment
+
+date: 2024-10-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+Two students and two faculty members filed a lawsuit against the UC on Tuesday, alleging the University has unfairly repressed pro-Palestine protests.&#160;
+The lawsuit – filed by attorneys from the Southern California chapter of the American Civil Liberties Union – alleges the University violated the rights of protesters who participated in the spring Palestine Solidarity Encampment at UCLA. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/22/faculty-students-sue-uc-over-violating-protester-rights-in-spring-encampment/>
+
+---
+
+## The Lenfest Institute launches $10 million AI news program for big-city dailies with backing from OpenAI and Microsoft
+
+date: 2024-10-22, from: Nieman Journalism Lab
+
+On Tuesday, The Lenfest Institute launched a $10 million AI and local news program in partnership with OpenAI and Microsoft. The program will initially fund projects for AI adoption at five independently owned U.S. metro news organizations — The Minnesota Star Tribune, The Philadelphia Inquirer, Chicago Sun-Times owner Chicago Public Media, The Seattle Times, and... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/10/the-lenfest-institute-launches-10-million-ai-news-program-for-big-city-dailies-with-backing-from-openai-and-microsoft/>
+
+---
+
+## Israel has posted 1,200+ videos of airstrikes. This visual investigation shows the view — and the costs — on the ground in Gaza.
+
+date: 2024-10-22, from: Nieman Journalism Lab
+
+Over the last year, while the Israel Defense Forces posted footage on social media of its airstrikes claiming to target Hamas and other militant groups, Palestinians in Gaza have used platforms like Instagram and TikTok to document life under those airstrikes. An investigation published earlier this month shows how airstrike footage and on-the-ground testimonies can... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/10/israel-has-posted-1200-videos-of-air-strikes-this-visual-investigation-shows-the-view-and-the-costs-on-the-ground-in-gaza/>
+
+---
+
+## Celebrating Resilience: CSUN Concludes Undocumented Student Week of Action, Bringing ‘Undocu-Joy’ to Campus
+
+date: 2024-10-22, from: The Sundail (CSUN Student Newspaper)
+
+With the 2024 Undocumented Student Week of Action coming to a close, the DREAM Center launched its final event, Undocu-Joy. The celebration was held from 2 p.m. to 6 p.m.... 
+
+<br> 
+
+<https://sundial.csun.edu/186439/arts-entertainment/celebrating-resilience-csun-concludes-undocumented-student-week-of-action-bringing-undocu-joy-to-campus/>
+
+---
+
+## CSUN’s Game Development Club Kicked Off A Horror-Themed Game Jam
+
+date: 2024-10-22, from: The Sundail (CSUN Student Newspaper)
+
+As Halloween approaches, CSUN’s Game Development Club (GDC) organized an interscholastic horror-themed Game Jam. On Friday, Oct. 18, the CSUN GDC hosted a launch party at 1 p.m., where GDC... 
+
+<br> 
+
+<https://sundial.csun.edu/186433/arts-entertainment/csuns-game-development-club-kicked-off-a-horror-themed-game-jam/>
 
 ---
 
@@ -134,7 +261,7 @@ The newly constructed Intuit Dome hosted Weezer along with openers Dinosaur Jr. 
 date: 2024-10-22, from: The Daily Bruin (UCLA Student Newspaper)
 
 The Hammer Museum was abuzz with Bee Week festivities.
-During Bee Week, which lasted from Oct. 13 to Sunday, the Hammer Museum hosted honey tastings, bee talks and screened the award-winning nature documentary, &#8220;Microcosmos.&#8221; As part of this programming, the Hammer Museum hosted beekeeper Joe O&#8217;Brien from Tuesday to Sunday to talk about queen bee breeding and biodiversity. 
+During Bee Week, which lasted from Oct. 13 to Sunday, the Hammer Museum hosted honey tastings, bee talks and screened the award-winning nature documentary, “Microcosmos.” As part of this programming, the Hammer Museum hosted beekeeper Joe O’Brien from Tuesday to Sunday to talk about queen bee breeding and biodiversity. 
 
 <br> 
 

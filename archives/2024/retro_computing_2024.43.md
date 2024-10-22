@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2024-10-22 07:38:46
+updated: 2024-10-22 16:13:01
 ---
 
 # retro computing
 
-(date: 2024-10-22 07:38:46)
+(date: 2024-10-22 16:13:01)
+
+---
+
+## Vote for the October 2024 + Post Topic
+
+date: 2024-10-22, from: Computer ads from the Past
+
+Your options are a couple of games, an Apple clone and a memory expander 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/vote-for-the-october-2024-post-topic>
 
 ---
 
