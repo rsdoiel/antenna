@@ -1,11 +1,11 @@
 ---
 title: pacific
-updated: 2024-10-22 07:38:44
+updated: 2024-10-22 07:55:14
 ---
 
 # pacific
 
-(date: 2024-10-22 07:38:44)
+(date: 2024-10-22 07:55:14)
 
 ---
 
@@ -172,20 +172,6 @@ date: 2024-10-22, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2024/10/22/nation-world-news/austin-condemns-kremlin-apologists-in-pledging-support-for-ukraine/>
-
----
-
-## Obituaries for October 22
-
-date: 2024-10-22, from: Hawaii Tribune Harold
-
-
-				<p>Aaron Edward Chui, 63, of Hilo, died Oct. 2 at Hilo Benioff Medical Center. Born in Honolulu, he was a high school math teacher at Kamehameha Schools Hawaii campus. Survived by daughters, Elyse Chui of Long Beach, Calif., McKenna (Kevin) Hernandez of Rancho Cucamonga, Calif., Clarice Chui of Camarillo, Calif., and Jenna Chui of Camarillo, Calif.; brother Lorne (Pauline) Chui of Lompoc, Calif.; and half-sister Aprilani Mclwraith of Waikele. Arrangements by Dodo Mortuary.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/22/obituaries/obituaries-for-october-22-11/>
 
 ---
 
@@ -992,20 +978,6 @@ date: 2024-10-20, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2024/10/20/nation-world-news/trump-steps-up-attacks-on-harris-usher-lizzo-add-star-power-to-harris-push/>
-
----
-
-## Obituaries for October 20
-
-date: 2024-10-20, from: Hawaii Tribune Harold
-
-
-				<p>Oinah Leolani Anakalea, 83, of Hilo, died Aug. 28 at Hale Anuenue Restorative Care Center. Born in Hilo, she was a retired custodian for Haili Church and was also a member of the Haili Church and Kuhio Chapel. Visitation 9-10 a.m. Thursday (Oct. 24) at Dodo Mortuary Chapel. Funeral service at 10 a.m. Burial to follow at Homelani Memorial Park. Casual attire. Survived by son, Leonard Kauai Anakalea of Hilo; sister, Mary Dennison of Las Vegas; two grandsons. Arrangements by Dodo Mortuary.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/10/20/obituaries/obituaries-for-october-20-10/>
 
 ---
 
