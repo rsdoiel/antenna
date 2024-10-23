@@ -1,19 +1,259 @@
 ---
 title: science and technology
-updated: 2024-10-22 16:12:59
+updated: 2024-10-23 08:42:48
 ---
 
 # science and technology
 
-(date: 2024-10-22 16:12:59)
+(date: 2024-10-23 08:42:48)
 
 ---
 
-## US lawmakers push DOJ to prosecute tax prep firms for leaking taxpayer data to big tech
+## 41-million-digit prime crunched by datacenter GPUs
+
+date: 2024-10-23, updated: 2024-10-23, from: The Register (UK I.T. News)
+
+<h4>Former Nvidia engineer&#39;s discovery shows graphics compute can kick some serious ass</h4> <p>A former Nvidia engineer has found the largest known prime number – a whopping 41 million digits long – using an A100 GPU made by his previous workplace to do the grunt work.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/23/41_million_digit_prime/>
+
+---
+
+## NASA Begins New Deployable Solar Array Tech Demo on Pathfinder Spacecraft
+
+date: 2024-10-23, from: NASA breaking news
+
+NASA recently evaluated initial flight data and imagery from Pathfinder Technology Demonstrator-4&#160;(PTD-4), confirming proper checkout of the spacecraft’s systems including its on-board electronics as well as the payload’s support systems such as the small onboard camera. Shown above is a test image of Earth taken by the payload camera, shortly after PTD-4 reached orbit. This [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/nasa-begins-new-deployable-solar-array-tech-demo-on-pathfinder-spacecraft/>
+
+---
+
+## Rackspace is back with a seat on the OpenInfra Foundation board
+
+date: 2024-10-23, updated: 2024-10-23, from: The Register (UK I.T. News)
+
+<h4>Absence makes the cloud grow fonder</h4> <p>Rackspace, one of the original creators of OpenStack, has been welcomed back into the fold with a seat on the Board of Directors for the OpenInfra Foundation, which oversees the project after apparently losing interest for several years.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/23/rackspace_openinfra_board/>
+
+---
+
+## How Do Merging Supermassive Black Holes Pass the Final Parsec?
+
+date: 2024-10-23, from: Quanta Magazine
+
+The giant holes in galaxies’ centers shouldn’t be able to merge, yet merge they do. Scientists suggest that an unusual form of dark matter may be the solution.            <p>The post <a href="https://www.quantamagazine.org/how-do-merging-supermassive-black-holes-pass-the-final-parsec-20241023/" target="_blank">How Do Merging Supermassive Black Holes Pass the Final Parsec?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/how-do-merging-supermassive-black-holes-pass-the-final-parsec-20241023/>
+
+---
+
+## NASA Stennis Takes Key Step in Expanding its Range Operations Work
+
+date: 2024-10-23, from: NASA breaking news
+
+NASA’s Stennis Space Center near Bay St. Louis, Mississippi, has entered into an agreement with Skydweller Aero Inc. for the company to operate its solar-powered autonomous aircraft in the site’s restricted airspace, a key step towards achieving a strategic center goal. The Reimbursable Space Act agreement marks the first between NASA Stennis and a commercial [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/stennis-expanding-range-operations/>
+
+---
+
+## Boffins explore cell signals as potential GPS alternative
+
+date: 2024-10-23, updated: 2024-10-23, from: The Register (UK I.T. News)
+
+<h4>Team sends a flying cooler packed with DIY tech 15 miles up for the test</h4> <p>Faced with growing threats to aviation GPS systems, researchers at Sandia National Labs argue we&#39;re overlooking a readily available alternative that could work effectively with further research: cellular signals.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/23/terrestrial_cell_signals_gps/>
+
+---
+
+## NASA Quiet Space Fan Research to Benefit Commercial Space Stations
+
+date: 2024-10-23, from: NASA breaking news
+
+NASA researchers developed a Quiet Space Fan to reduce the noise inside crewed spacecraft, sharing the results with industry for potential use on future commercial space stations. Controlling noise inside spacecraft helps humans talk to each other, hear alarms clearer, get restful sleep, and minimizes the risk of hearing loss. It is best to control [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/nasa-quiet-space-fan-research-to-benefit-commercial-space-stations/>
+
+---
+
+## NHS would be hit by 'significant' costs if UK loses EU data status, warn Lords
+
+date: 2024-10-23, updated: 2024-10-23, from: The Register (UK I.T. News)
+
+<h4>As another government yet again seeks to reform UK GDPR, legislators say data must continue to flow</h4> <p>UK lawmakers have warned the government that if it doesn&#39;t continue to harmonize its post-Brexit data rules with the EU, the consequences could be dire.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/23/uk_eu_data_adequacy/>
+
+---
+
+## Codasip opens up SDK for CHERI protection on RISC-V chips
+
+date: 2024-10-23, updated: 2024-10-23, from: The Register (UK I.T. News)
+
+<h4>Alliance commits to Integrating the architecture into all high-tech products</h4> <p>Processor design outfit Codasip is donating an SDK it developed for the CHERI security architecture to the industry body that promotes the technology, saying this will allow its unrestricted use by anyone implementing CHERI on RISC-V.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/23/codasip_sdk_riscv_chip/>
+
+---
+
+## SuperHTML is here to rescue you from syntax errors, and it's FOSS
+
+date: 2024-10-23, updated: 2024-10-23, from: The Register (UK I.T. News)
+
+<h4>Author would like to see a switch back to plain old static HTML. Us too</h4> <p>Developer Loris Cro reckons his LSP language server for HTML is a world first, and that the absence of such tools up to now has had grave consequences for the web.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/23/superhtml_live_html_syntax_checking/>
+
+---
+
+## Feature phones all the rage as parents try to shield kids from harm
+
+date: 2024-10-23, updated: 2024-10-23, from: The Register (UK I.T. News)
+
+<h4>Dad, why does this button say ABC? It&#39;s a short term trend, says analyst</h4> <p>Sales of &#34;dumb&#34; phones are on the rise in the UK, according to telco Virgin Media O2 (VMO2), with parents choosing them instead of smartphones to try and spare their kids from the perils of social media and instant messaging.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/23/feature_phones_all_the_rage/>
+
+---
+
+## OpenAI's rapid growth loaded with 'corner case' challenges, says Fivetran CEO
+
+date: 2024-10-23, updated: 2024-10-23, from: The Register (UK I.T. News)
+
+<h4>GenAI poster child is a 100-story-tall baby with simple infrastructure but extreme demands</h4> <p><strong>Interview</strong>  When OpenAI launched GPT-4 in March last year, it was coy about the model&#39;s size and what went into making it. Nonetheless, the current focus of AI-obsessed media and investors is understood to have employed a diverse dataset of around 1 petabyte. Aside from the challenge of getting that data to provide meaningful output, the company was tasked with getting the data in the right place.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/23/fivetran_ceo_interview/>
+
+---
+
+## IPv6 may already be irrelevant – but so is moving off IPv4, argues APNIC's chief scientist
+
+date: 2024-10-23, updated: 2024-10-23, from: The Register (UK I.T. News)
+
+<h4>There was always more pressing work to do than migrate, and CDNs have changed the rules</h4> <p>The chief scientist of the Asia Pacific Network Information Center has a theory about why the world hasn&#39;t moved to IPv6.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/23/ipv6_relevance/>
+
+---
+
+## AI firms and civil society groups plead for passage of federal AI law ASAP
+
+date: 2024-10-23, updated: 2024-10-23, from: The Register (UK I.T. News)
+
+<h4>Congress urged to act before year&#39;s end to support US competitiveness</h4> <p>More than 60 commercial orgs, non-profits, and academic institutions have asked Congress to pass legislation authorizing the creation of the US AI Safety Institute within the National Institutes of Standards and Technology (NIST).…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/23/ai_firms_and_civil_society/>
+
+---
+
+## Huawei makes divorce from Android official with HarmonyOS NEXT launch
+
+date: 2024-10-23, updated: 2024-10-23, from: The Register (UK I.T. News)
+
+<h4>Another step toward tech independence for China – on the day Tim Cook came to town</h4> <p>Huawei formally launched its home-brewed operating system, HarmonyOS NEXT, on Wednesday, marking its official separation from the Android ecosystem.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/23/huaweis_harmonyos_next_launch/>
+
+---
+
+## Woman stuck upside down under rock for hours after trying to retrieve dropped phone
+
+date: 2024-10-23, updated: 2024-10-23, from: The Register (UK I.T. News)
+
+<h4>Emergency services had to move a boulder to get her out</h4> <p>If you&#39;re out and about in nature and drop your phone down a three-meter crevice between some boulders, maybe don&#39;t try to retrieve it.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/23/woman_stuck_upside_down_under/>
+
+---
+
+## Arm reportedly warns Qualcomm it will cancel its licenses
+
+date: 2024-10-23, updated: 2024-10-23, from: The Register (UK I.T. News)
+
+<h4>Qualcomm brands ploy as &#39;unfounded&#39; cash grab</h4> <p>Chip designer Arm has reportedly warned chipmaker Qualcomm it will soon cancel its license to produce processors using its IP.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/23/arm_warns_qualcomm_on_licenses/>
+
+---
+
+## Fujitsu delivers GPU optimization tech it touts as a server-saver
+
+date: 2024-10-23, updated: 2024-10-23, from: The Register (UK I.T. News)
+
+<h4>Middleware aimed at softening the shortage of AI accelerators</h4> <p>Fujitsu has started selling middleware that optimizes the use of GPUs, so that those lucky enough to own the scarce accelerators can be sure they&#39;re always well-used.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/23/fujitsu_gpu_middleware/>
+
+---
+
+## Millions of Android and iOS users at risk from hardcoded creds in popular apps
+
+date: 2024-10-23, updated: 2024-10-23, from: The Register (UK I.T. News)
+
+<h4>Azure Blob Storage, AWS, and Twilio keys all up for grabs</h4> <p>An analysis of widely used mobile apps offered on Google Play and the Apple App Store has found hardcoded and unencrypted cloud service credentials, exposing millions of users to major security problems.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/23/android_ios_security/>
+
+---
+
+## Uncle Sam extends 25% CHIPS Act tax credit to wafer, solar panel manufacturing
 
 date: 2024-10-22, updated: 2024-10-22, from: The Register (UK I.T. News)
 
-<h4>TaxSlayer, H&amp;R Block, TaxAct, and Ramsey Solutions accused of sharing info with Meta and Google</h4> <p>A quartet of Democratic lawmakers have penned a letter to the US Department of Justice asking it to prosecute tax preparation companies for sharing customer data, including tax return information, with Meta and Google.…</p> 
+<h4>Meanwhile, Infinera snags up to $93M of the dwindling subsidies</h4> <p>The lion&#39;s share of the CHIPS Act funding has already been allocated, but Uncle Sam still has tax breaks to hand out, and it&#39;s not even being that picky about which kind of chips are eligible.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/22/us_chips_credits/>
+
+---
+
+## US lawmakers push DoJ to prosecute tax prep firms for leaking taxpayer data to big tech
+
+date: 2024-10-22, updated: 2024-10-22, from: The Register (UK I.T. News)
+
+<h4>TaxSlayer, H&amp;R Block, TaxAct, and Ramsey Solutions accused of sharing info with Meta and Google</h4> <p>A quartet of lawmakers have penned a letter to the Department of Justice asking it to prosecute tax preparation companies for sharing customer data, including tax return information, with Meta and Google.…</p> 
 
 <br> 
 
@@ -23,7 +263,7 @@ date: 2024-10-22, updated: 2024-10-22, from: The Register (UK I.T. News)
 
 ## Fake reviewers face the wrath of Khan
 
-date: 2024-10-22, updated: 2024-10-22, from: The Register (UK I.T. News)
+date: 2024-10-22, updated: 2024-10-23, from: The Register (UK I.T. News)
 
 <h4>From hell&#39;s heart I stab at thee</h4> <p>Fake review writers are officially on watch - the US is now enforcing a new rule to ban the practice and is promising a crackdown.…</p> 
 

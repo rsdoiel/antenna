@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2024-10-22 16:13:01
+updated: 2024-10-23 08:42:49
 ---
 
 # libraries
 
-(date: 2024-10-22 16:13:01)
+(date: 2024-10-23 08:42:49)
+
+---
+
+## Guest Post — Upholding the Integrity of Open Science
+
+date: 2024-10-23, from: Scholarly Kitchen
+
+<p>As preprints become an increasingly integral part of scholarly communication, can automated screening tools improve their reliability and preprint servers' operational efficiency?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/10/23/guest-post-upholding-the-integrity-of-open-science/">Guest Post &#8212; Upholding the Integrity of Open Science</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2024/10/23/guest-post-upholding-the-integrity-of-open-science/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2024-10-22 16:13:01
 
 date: 2024-10-22, from: Association of Research Libraries News
 
-<p>Last Updated on October 22, 2024, 8:42 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, October 22 &#124; Wednesday, October 23 &#124; Thursday,...</p>
+<p>Last Updated on October 23, 2024, 7:45 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, October 22 &#124; Wednesday, October 23 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-october-21-24/">Day in Review (October 21–24)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

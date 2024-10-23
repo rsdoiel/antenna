@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2024-10-22 16:13:00
+updated: 2024-10-23 08:42:49
 ---
 
 # games
 
-(date: 2024-10-22 16:13:00)
+(date: 2024-10-23 08:42:49)
+
+---
+
+## Monster Hunter Wilds open beta coming soon, includes full character creation
+
+date: 2024-10-23, updated: 2024-10-23, from: Polygon Website
+
+Monster Hunter fans will get a taste of next year’s game, Monster Hunter Wilds, with an open beta test later this month, Capcom announced Wednesday. In addition to giving players a crack at one of the game’s early hunts, the Monster Hunter Wilds beta will let players knock out a crucial and time-consuming task: character [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/469052/monster-hunter-wilds-open-beta-dates>
+
+---
+
+## This Twitch stream taught Bernie Sanders what a Vtuber is
+
+date: 2024-10-23, updated: 2024-10-23, from: Polygon Website
+
+U.S. Senator Bernie Sanders (D-V.T.) participated in a Twitch livestream alongside super popular creators like Imane “Pokimane” Anys and Rachell &#8220;Valkyrae&#8221; Hofstetter on Tuesday night. The event allowed Sanders to stump for the Democratic presidential candidate Vice President Kamala Harris before the election in November. Over the course of the evening, viewers were surprised with [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/twitch/469004/bernie-sanders-twitch-stream-vtuber-sykkuno-pokimane>
+
+---
+
+## Grab this $20 Jurassic World Evolution bundle before it goes extinct tonight
+
+date: 2024-10-23, updated: 2024-10-23, from: Polygon Website
+
+Listen, if you think you can do a better job than Richard Attenborough, be my guest, but managing a theme park full of unruly guests and insubordinate ten-ton reptiles is harder than it seems. Don’t believe me? Try your hand at managing your own Jurassic Park with Humble’s $20 bundle that includes both Jurassic World [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/459587/jurassic-world-evolution-humble-bundle-sale>
+
+---
+
+## PS5 Pro games list, including all enhanced first- and third-party upgrades
+
+date: 2024-10-23, updated: 2024-10-23, from: Polygon Website
+
+Knowing which PS5 Pro games are coming to the console is a decisive factor in whether the $700 mid-generation refresh is worth buying over a base PlayStation 5 when it arrives on Nov. 7. First, know the PS5 Pro will have no exclusive games or accessories, and that everything released on PS5 will work on [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/449724/ps5-pro-games-list>
+
+---
+
+## Over 30 years later, Macross Plus still flies sky high
+
+date: 2024-10-23, updated: 2024-10-22, from: Polygon Website
+
+As a standout entry in a foundational modern sci-fi anime franchise, 1994’s Macross Plus was not only an exciting return to the series for franchise creator and famed mechanical designer Shōji Kawamori, but also the directorial debut of one Shinichirō Watanabe, known for such anime classics as Cowboy Bebop and Samurai Champloo. There’s a lot [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/anime/468057/macross-plus-ultimate-edition-anime-movie>
+
+---
+
+## The Boox Palma 2 e-reader gadget is coming soon, and it doesn’t fix what isn’t broken
+
+date: 2024-10-23, updated: 2024-10-23, from: Polygon Website
+
+The phone-sized Boox Palma was one of 2024’s most trendy tech products, and now a follow-up is coming soon. The Palma 2 improves on the original, although it’s not messing with what was already working. It’s still an Android device that aims to reduce distractions and screen time with its two-tone ePaper screen. Most people [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pre-order/469021/boox-palma-2-specs-features-price>
+
+---
+
+## Webfishing is the ultimate yapping game
+
+date: 2024-10-23, updated: 2024-10-22, from: Polygon Website
+
+This weekend, my friends and I played&#160;Webfishing, an online chatroom game where you fish as cute characters created by Lamedeveloper. While it felt pretty different from other multiplayer games we tend to play, it ended up being the perfect game to play to socialize. The concept behind Webfishing is pretty straightforward. It plops you on [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/468027/webfishing-online-chat-room-game>
+
+---
+
+## What time does Black Ops 6 release in your time zone?
+
+date: 2024-10-23, updated: 2024-10-23, from: Polygon Website
+
+Black Ops 6 is the latest entry in the very long-running Black Ops wing of Activision’s Call of Duty series. Specializing more in alternate history and spy craft than other Call of Duty games, Black Ops 6 launches with a new campaign set during the height of the Gulf War. As usual, the game will [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/black-ops-6-guides/468014/release-time-date-est-pst-bst-bo6>
+
+---
+
+## The Halloween Countdown: 31 days of horror to watch
+
+date: 2024-10-23, updated: 2024-10-23, from: Polygon Website
+
+Do you feel that? That chill in the air, that tingling sensation at the back of your neck? It can only mean one thing. That’s right: Halloween season is once again upon us! Here at Polygon, we love horror. We cover it all year round, whether it’s ranking the scariest new releases of the year [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream>
+
+---
+
+## ‘The Ballad of the Witches’ Road’ covers, ranked
+
+date: 2024-10-23, updated: 2024-10-22, from: Polygon Website
+
+Like WandaVision before it, one of the fun quirks of Agatha All Along is putting a new spin on a certain thing in each episode. In this case, instead of a TV show format, it’s the song “The Ballad of the Witches’ Road,” which, for a bit there, was giving us approximately one new cover [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/464056/witches-road-ballad-ranking-agatha-all-along>
 
 ---
 
@@ -126,18 +246,6 @@ Sophie Allison, better known as indie pop artist Soccer Mommy, has a new album, 
 <br> 
 
 <https://www.polygon.com/news/468587/stardew-valley-abigail-soccer-mommy-love-song>
-
----
-
-## The Halloween Countdown: 31 days of horror to watch
-
-date: 2024-10-22, updated: 2024-10-22, from: Polygon Website
-
-Do you feel that? That chill in the air, that tingling sensation at the back of your neck? It can only mean one thing. That’s right: Halloween season is once again upon us! Here at Polygon, we love horror. We cover it all year round, whether it’s ranking the scariest new releases of the year [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream>
 
 ---
 

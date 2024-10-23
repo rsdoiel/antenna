@@ -1,11 +1,83 @@
 ---
 title: health
-updated: 2024-10-22 16:13:01
+updated: 2024-10-23 08:42:50
 ---
 
 # health
 
-(date: 2024-10-22 16:13:01)
+(date: 2024-10-23 08:42:50)
+
+---
+
+## Non-classical monocyte levels correlate negatively with HIV-associated cerebral small vessel disease and cognitive performance
+
+date: 2024-10-23, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundDespite antiretroviral treatment (cART), aging people living with HIV (PWH) are more susceptible to neurocognitive impairment (NCI) probably due to synergistic/additive contribution of traditional cerebrovascular risk factors. Specifically, transmigration of inflammatory CD16+ monocytes through the altered blood brain barrier (BBB) may exacerbate cerebral small vessel disease (CSVD), a known cause of vascular cognitive impairment.MethodsPWH on cART (n=108) and age, sex, and Reynold’s cardiovascular risk score-matched uninfected individuals (PWoH, n=111) were enrolled. This is a longitudinal observational study but only cross-sectional data from entry visit are reported. Neuropsychological testing and brain magnetic resonance imaging (MRI) were performed. CSVD was diagnosed by Fazekas score ≥1. Flow cytometric analyses of fresh whole blood were conducted to evaluate circulating levels of monocyte subsets (classical, intermediate, and non-classical) and markers of monocyte activation (CCR2, CD40, PSGL-1, TNFR2 and tissue factor). ELISAs were used to measure sCD14, ICAM, and Osteoprotegerin. Two-way analysis of variance (ANOVA), and linear regression models were performed to study the effects of HIV status, CSVD status, and their interaction to outcome variables such as cognitive score. Two-sample t-tests and correlation analyses were performed between and within PWoH with CSVD and PWH with CSVD participants.ResultsPWH with CSVD (n=81) had significantly lower total cognitive scores, higher levels of NCMs and soluble CD14 and intracellular adhesion molecule 1 (ICAM-1) as compared to PWoH with CSVD group (n=68). sCD14 and ICAM1 were positively correlated with each other indicating that monocyte and endothelial activation are associated with each other. Cognition was negatively correlated with NCMs, especially in the PWH with CSVD group. Among other blood biomarkers measured, osteoprotegerin levels showed mild negative correlation with cognitive performance in individuals with CSVD irrespective of HIV status.ConclusionsElevated levels of NCMs may contribute to neuroinflammation, CSVD and subsequent cognitive impairment. This finding is of particular relevance in aging PWH as both HIV and aging are associated with increased levels of NCMs. NCMs may serve as a potential biomarker to address these comorbidities. Further longitudinal studies are needed to evaluate whether changes in NCM levels are associated with changes in CSVD burden and cognitive impairment. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1405431>
+
+---
+
+## Changes functional prediction of ear canal flora in chronic bacterial otitis externa
+
+date: 2024-10-23, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectiveTo investigate ear canal microflora’s structure, composition and function in patients with chronic bacterial otitis externa.MethodsA case-control study design method was used to collect the ear canal secretions from 14 patients with chronic bacterial external otitis (CB group) and 14 healthy controls (H group) treated in the Department of Otolaryngology and Head and Neck Surgery in the First Affiliated Hospital of Hainan Medical University. 16S rRNA high-throughput sequencing technology was used to sequence the ear canal microflora’s V3 ~ V4 region gene amplification products in the participating population. The α diversity of ear canal microflora in 2 groups was analyzed. Based on the weighted Unifrac distance, principal coordinate analysis was performed to compare the β diversity of ear tract microflora between the two groups. The differences in ear microflora at phylum and genus levels were analyzed. PICRUSt2 function prediction and BugBase phenotype prediction were also performed.Resultsα diversity analysis showed that the diversity and richness of auricular microflora in the CB group were significantly lower than those in the H group. β diversity analysis showed that there were some differences between the two groups. At the phylum level, the relative abundance of Bdellovibrionota, Campylobacterota, and WPS-2 in the microbiota of patients in the CB group was significantly lower than that in the H group, and the differences were statistically significant. At the genus level, the relative abundance of Pseudomonas, Acinetobacter, Pelomonas, Sphingomonas, Bradyrhizobium, Brevundimonas, Enhydrobacter, Actinomyces, Paracoccus and Chryseobacterium in the ear canal of Group H is significantly higher than that of Group CB. Functional prediction of PICRUSt2 suggests that amino acid biosynthesis and bacterial microbiota may be related. In BugBase phenotypic prediction, the contribution of aerobic phenotype in group CB was significantly lower than that in group H.ConclusionThe diversity and abundance of the ear canal flora of patients with chronic bacterial otitis externa were significantly lower than those of the healthy population, and their bacterial colony structure was significantly altered. Dysbiosis of the ear canal flora may be an important cause of chronic bacterial otitis externa. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1434754>
+
+---
+
+## Target antigen screening and development of a multi-component subunit vaccine against Mycoplasma synoviae in chickens
+
+date: 2024-10-23, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionMycoplasma synoviae (MS) is a globally important avian pathogen causing infectious synovitis and respiratory diseases in poultry, leading to significant economic losses. Despite advances in vaccine development, a commercially viable subunit vaccine against MS remains elusive.MethodsWe sequenced whole genomes of six clinical MS strains isolated from different Chinese provinces. Common genes were analyzed using Biopython software, identifying those with high copy numbers in virulent strains and shared among all strains. Vaxign2 and IEDB Antibody Epitope Prediction were used to analyze protein properties. We assessed immune protective effects of candidate proteins and developed a multivalent subunit vaccine.ResultsTen candidate vaccine proteins were initially selected. A multivalent subunit vaccine composed of MSPB, Ppht, Cfba, and EF-G displayed the best protective effect. The optimal immunization dosage was 20μg, with each protein accounting for 25%. The immune production period was determined to be 28 days post-first immunization, lasting 180 days. The immune protection rate against highly virulent strains reached 90%∼100%.DiscussionThis study provides a new approach for screening vaccine antigens and develops an effective candidate vaccine for MS prevention. The multivalent subunit vaccine shows promising results in protecting against MS infections, potentially offering a solution to reduce economic losses in the poultry industry. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1458865>
+
+---
+
+## Brucella mediates autophagy, inflammation, and apoptosis to escape host killing
+
+date: 2024-10-23, from: Frontiers in Cellular and Infection Microbiology
+
+Brucellosis is a serious zoonosis caused by Brucella spp. infection, which not only seriously jeopardizes the health of humans and mammals, but also causes huge economic losses to the livestock industry. Brucella is a Gram-negative intracellular bacterium that relies primarily on its virulence factors and a variety of evolved survival strategies to replicate and proliferate within cells. Currently, the mechanisms of autophagy, inflammation, and apoptosis in Brucella-infected hosts are not fully understood and require further research and discussion. This review focuses on the relationship between Brucella and autophagy, inflammation, and apoptosis to provide the scientific basis for revealing the pathogenesis of Brucella. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1408407>
+
+---
+
+## Risk factors for identifying pneumocystis pneumonia in pediatric patients
+
+date: 2024-10-23, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectivesThis study aimed to identify the risk factors and construct the diagnostic model associated with pneumocystis pneumonia (PCP) in pediatric patients.MethodsThis retrospective observational study analyzed 34 cases of PCP and 51 cases of other types of pneumonia treated at Children’s Hospital Affiliated to Shandong University between January 2021 and August 2023. Multivariate binary logistic regression was used to identify the risk factors associated with PCP. Receiver operating characteristic curves and calibration plots were constructed to evaluate the diagnostic model.ResultsTwenty clinical variables significantly differed between the PCP and non-PCP groups. Multivariate binary logistic regression analysis revealed that dyspnea, body temperature>36.5°C, and age<1.46 years old were risk factors for PCP. The area under the curve of the diagnostic model was 0.958, the P-value of Hosmer‐Lemeshow calibration test was 0.346, the R2 of the calibration plot for the actual and predicted probability of PCP was 0.9555 (P<0.001), and the mean Brier score was 0.069. In addition, metagenomic next-generation sequencing revealed 79.41% (27/34) and 52.93% (28/53) mixed infections in the PCP and non-PCP groups, respectively. There was significantly more co-infection with cytomegalovirus and Streptococcus pneumoniae in the PCP group than that in the non-PCP group (p<0.05).ConclusionsDyspnea, body temperature>36.5°C, and age<1.46 years old were found to be independent risk factors for PCP in pediatric patients. The probability of co-infection with cytomegalovirus and S. pneumoniae in the PCP group was significantly higher than that in the non-PCP group. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1398152>
+
+---
+
+## A rapid and visual detection assay for Senecavirus A based on recombinase-aided amplification and lateral flow dipstick
+
+date: 2024-10-23, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundSenecavirus A (SVA) is a newly pathogenic virus correlated with the acute death of piglets and vesicular lesions in pigs. The further prevalence of SVA will cause considerable economic damage to the global pig farming industry. Therefore, rapid and accurate diagnostic tools for SVA are crucial for preventing and controlling the disease.MethodsWe designed multiple primer pairs targeting the most conserved region of the SVA 3D gene and selected those with the highest specificity. Nfo-probes were subsequently developed based on the highest specificity primer pairs. Subsequently, the recombinase-assisted amplification (RAA) reaction was completed, and the reaction temperature and duration were optimized. The RAA amplicons were detected using a lateral flow device (LFD). Finally, a rapid and intuitive RAA-LFD assay was established against SVA.ResultsThe SVA RAA-LFD assay can be performed under reaction conditions of 35°C within 17 minutes, with results observable to the naked eye. We then evaluated the performance of this method. It exhibited high specificity and no cross-reaction with the other common swine pathogens. The lowest detectable limits of this method for the plasmid of pMD18-SVA-3D, DNA amplification product, and viral were 3.86×101 copies/µL, 8.76×10-7 ng/µL, and 1×100.25 TCID50/mL, respectively. A total of 44 clinical samples were then tested using the RAA-LFD, PCR, and RT-qPCR methods. The results demonstrated a consistent detection rate between the RAA-LFD and RT-qPCR assays.ConclusionThe SVA RAA-LFD assay developed in our study exhibits excellent specificity, sensitivity, and time-saving attributes, making it ideally suited for utilization in lack-instrumented laboratory and field settings. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1474676>
 
 ---
 

@@ -1,11 +1,129 @@
 ---
 title: home
-updated: 2024-10-22 16:13:01
+updated: 2024-10-23 08:42:50
 ---
 
 # home
 
-(date: 2024-10-22 16:13:01)
+(date: 2024-10-23 08:42:50)
+
+---
+
+## Jasmine Plant Care and Growing Guide with Ultimate Tips
+
+date: 2024-10-23, from: Yard Life blog
+
+<p>Jasmine, a member of the Oleaceae family, is renowned for its intoxicating fragrance and ornamental beauty. With over 200 species ... </p>
+<p class="read-more-container"><a title="Jasmine Plant Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/jasmine-plant-care-and-growing-guide-with-ultimate-tips/#more-21101" aria-label="Read more about Jasmine Plant Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/jasmine-plant-care-and-growing-guide-with-ultimate-tips/">Jasmine Plant Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/jasmine-plant-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## Cast Iron Plant Care and Growing Guide (Most Detailed)
+
+date: 2024-10-23, from: Yard Life blog
+
+<p>The cast iron plant (Aspidistra elatior) truly lives up to its name by being one of the most resilient and ... </p>
+<p class="read-more-container"><a title="Cast Iron Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/cast-iron-plant-care-and-growing-guide-most-detailed/#more-21095" aria-label="Read more about Cast Iron Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/cast-iron-plant-care-and-growing-guide-most-detailed/">Cast Iron Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/cast-iron-plant-care-and-growing-guide-most-detailed/>
+
+---
+
+## Buffalo Grass Care and Growing Guide (Most Detailed)
+
+date: 2024-10-23, from: Yard Life blog
+
+<p>Buffalo grass (Bouteloua dactyloides) is an excellent option for homeowners looking for a low-maintenance, drought-tolerant lawn. Native to North America, ... </p>
+<p class="read-more-container"><a title="Buffalo Grass Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/buffalo-grass-care-and-growing-guide-most-detailed/#more-21090" aria-label="Read more about Buffalo Grass Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/buffalo-grass-care-and-growing-guide-most-detailed/">Buffalo Grass Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/buffalo-grass-care-and-growing-guide-most-detailed/>
+
+---
+
+## Buttercup Flower Care and Growing Guide (Most Detailed)
+
+date: 2024-10-23, from: Yard Life blog
+
+<p>The buttercup flower, known for its delicate, rose-like petals and vibrant colors, is a favorite among gardeners and florists alike. ... </p>
+<p class="read-more-container"><a title="Buttercup Flower Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/buttercup-flower-care-and-growing-guide-most-detailed/#more-21082" aria-label="Read more about Buttercup Flower Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/buttercup-flower-care-and-growing-guide-most-detailed/">Buttercup Flower Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/buttercup-flower-care-and-growing-guide-most-detailed/>
+
+---
+
+## The Garrett Metal Detector is the Perfect Entry-Level Model, According to Our Product Testers
+
+date: 2024-10-23, from: Family Handyman Blog
+
+<p>The Garrett metal detector is intuitive, ergonomic and budget-friendly, making it the ideal choice for any treasure hunter.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/garrett-metal-detector-review/">The Garrett Metal Detector is the Perfect Entry-Level Model, According to Our Product Testers</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/garrett-metal-detector-review/>
+
+---
+
+## Anaheim Pepper Care and Growing Guide (Most Detailed)
+
+date: 2024-10-23, from: Yard Life blog
+
+<p>Anaheim pepper, also known as California chili or New Mexico chili, is a popular variety of mild chili pepper. It&#x2019;s ... </p>
+<p class="read-more-container"><a title="Anaheim Pepper Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/anaheim-pepper-care-and-growing-guide-most-detailed/#more-21077" aria-label="Read more about Anaheim Pepper Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/anaheim-pepper-care-and-growing-guide-most-detailed/">Anaheim Pepper Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/anaheim-pepper-care-and-growing-guide-most-detailed/>
+
+---
+
+## Strike Gold With the Nokta Metal Detector: Tested By Shopping Editors
+
+date: 2024-10-23, from: Family Handyman Blog
+
+<p>Whether you're a beginner or a seasoned pro, the Nokta metal detector is one of the best models you can buy.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/nokta-metal-detector-review/">Strike Gold With the Nokta Metal Detector: Tested By Shopping Editors</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/nokta-metal-detector-review/>
+
+---
+
+## Acacia Tree Care and Growing Guide with Ultimate Tips
+
+date: 2024-10-23, from: Yard Life blog
+
+<p>When you think of nature&#x2019;s wild and untamed beauty, the image of a sprawling, majestic acacia tree may not come ... </p>
+<p class="read-more-container"><a title="Acacia Tree Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/acacia-tree-care-and-growing-guide-with-ultimate-tips/#more-21070" aria-label="Read more about Acacia Tree Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/acacia-tree-care-and-growing-guide-with-ultimate-tips/">Acacia Tree Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/acacia-tree-care-and-growing-guide-with-ultimate-tips/>
 
 ---
 
@@ -105,6 +223,18 @@ date: 2024-10-22, from: Family Handyman Blog
 
 ---
 
+## The Deadliest National Parks in the United States, Ranked
+
+date: 2024-10-22, from: Sunset Magazine - Living in the West
+
+Getting outside can be one of the most rewarding activities. But it's also no secret that venturing into a national park comes with risks. 
+
+<br> 
+
+<https://www.sunset.com/travel/national-parks/deadliest-us-national-parks-safety>
+
+---
+
 ## This Apartment in Taipei Is a Pet Palace
 
 date: 2024-10-22, from: Dwell
@@ -152,6 +282,18 @@ Wine you probably expected. But micro-brew, olive oil, ballooning, and fine dini
 <br> 
 
 <https://www.sunset.com/travel/wine-country/guide-to-temecula-wine-country>
+
+---
+
+## My New Favorite Travel Tote Is Like the Mary Poppins Bag, but Even Better
+
+date: 2024-10-22, from: Sunset Magazine - Living in the West
+
+One editor shares her favorite travel bag, Calpak's Luka Tote. It has plenty of pockets and compartments, and attaches to your suitcase. 
+
+<br> 
+
+<https://www.sunset.com/travel/calpak-luka-tote-review>
 
 ---
 
@@ -358,6 +500,18 @@ date: 2024-10-21, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/electrical-tape-usage/>
+
+---
+
+## This Oregon Vacation Home Really Leans Into Its Natural Landscape
+
+date: 2024-10-21, from: Sunset Magazine - Living in the West
+
+A vacation home in Central Oregon had no heating or air conditioning and needed updates. Here's how it was renovated. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/black-butte-ranch-house-tour>
 
 ---
 

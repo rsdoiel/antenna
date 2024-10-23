@@ -1,11 +1,84 @@
 ---
 title: central coast
-updated: 2024-10-22 16:13:00
+updated: 2024-10-23 08:42:48
 ---
 
 # central coast
 
-(date: 2024-10-22 16:13:00)
+(date: 2024-10-23 08:42:48)
+
+---
+
+## Portland, Maine
+
+date: 2024-10-23, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The lobster fishing boat Forever Girl docked in Portland, Maine." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/portland-maine/">Portland, Maine</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/portland-maine/>
+
+---
+
+## Santa Maria-Bonita School District’s Measure K Seeks $77 Million for Facilities
+
+date: 2024-10-23, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SM-Bonita-Bond1-js.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Yes on K signs can be seen around Santa Maria as the Santa Maria-Bonita School District seeks voter approval of a $77 million bond measure in the Nov. 5 election." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SM-Bonita-Bond1-js.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SM-Bonita-Bond1-js.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SM-Bonita-Bond1-js.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SM-Bonita-Bond1-js.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SM-Bonita-Bond1-js.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SM-Bonita-Bond1-js.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SM-Bonita-Bond1-js.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SM-Bonita-Bond1-js.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SM-Bonita-Bond1-js.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>With existing campuses serving more students than planned and Santa Maria still growing, Santa Barbara County’s largest school district has asked voters to approve a new bond measure.  The Nov. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-maria-bonita-school-districts-measure-k-seeks-77-million-for-facilities/">Santa Maria-Bonita School District&#8217;s Measure K Seeks $77 Million for Facilities</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/santa-maria-bonita-school-districts-measure-k-seeks-77-million-for-facilities/>
+
+---
+
+## Jewish Students, Community Reflect On Year Since Hamas Attack, UCSB Protests
+
+date: 2024-10-23, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-Jewish-experiences-3-RC.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Josh Levine, executive director of Santa Barbara Hillel, an organization that supports Jewish students in Santa Barbara, says they’ve seen anti-semitic graffiti in the past year, posters of the hostages being torn down and Jewish students harassed online." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-Jewish-experiences-3-RC.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-Jewish-experiences-3-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-Jewish-experiences-3-RC.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-Jewish-experiences-3-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-Jewish-experiences-3-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-Jewish-experiences-3-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-Jewish-experiences-3-RC.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-Jewish-experiences-3-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-Jewish-experiences-3-RC.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Morgan Guttman was sitting in her chemistry class during spring quarter at UC Santa Barbara when someone burst into the classroom with a megaphone and called for a divestment from [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/jewish-students-reflect-on-year-since-hamas-attack-ucsb-protests/">Jewish Students, Community Reflect On Year Since Hamas Attack, UCSB Protests</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/jewish-students-reflect-on-year-since-hamas-attack-ucsb-protests/>
+
+---
+
+## Santa Maria High School District Board Candidates Tackle Campus Security
+
+date: 2024-10-23, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-SMJUHSD-Candidates-Forum2-js.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Santa Maria Joint Union High School District board incumbent Alma Hernandez and challenger Gabriel Morales participate in this month&#039;s candidate forum." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-SMJUHSD-Candidates-Forum2-js.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-SMJUHSD-Candidates-Forum2-js.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-SMJUHSD-Candidates-Forum2-js.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-SMJUHSD-Candidates-Forum2-js.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-SMJUHSD-Candidates-Forum2-js.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-SMJUHSD-Candidates-Forum2-js.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-SMJUHSD-Candidates-Forum2-js.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-SMJUHSD-Candidates-Forum2-js.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-SMJUHSD-Candidates-Forum2-js.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>An appointed board incumbent and a challenger discussed hurdles facing the Santa Maria Joint Union High School District during a forum earlier this month. Alma Hernandez, who has filled the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-maria-high-school-district-board-candidates-tackle-campus-security-issue/">Santa Maria High School District Board Candidates Tackle Campus Security</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/santa-maria-high-school-district-board-candidates-tackle-campus-security-issue/>
+
+---
+
+## Student Sent to Hospital After Knife Assault at High School in Santa Barbara
+
+date: 2024-10-23, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A student at Alta Vista Alternative High School was taken to the hospital with moderate injuries after they were allegedly assaulted with a knife by another student Tuesday afternoon, police [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/student-sent-to-hospital-after-knife-assault-at-high-school-in-santa-barbara/">Student Sent to Hospital After Knife Assault at High School in Santa Barbara</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/student-sent-to-hospital-after-knife-assault-at-high-school-in-santa-barbara/>
 
 ---
 

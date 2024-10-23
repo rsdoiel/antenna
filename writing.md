@@ -1,11 +1,51 @@
 ---
 title: writing
-updated: 2024-10-22 16:13:00
+updated: 2024-10-23 08:42:49
 ---
 
 # writing
 
-(date: 2024-10-22 16:13:00)
+(date: 2024-10-23 08:42:49)
+
+---
+
+## The Repeat Room by Jesse Ball: Review by Jake Casella Brookins
+
+date: 2024-10-23, from: Locus Magazine
+
+<p><strong>The Repeat Room</strong>, Jesse Ball (Catapult 978-1-64622-140-0, 256pp, $27.00, hc) Cover by Sara Wood. September 2024.</p>
+<p>We have such a cornucopia of dystopias right now, fictional and otherwise, that they’ve really got to do something different to catch my attention. <strong>The Repeat Room</strong>, the latest novel from the prolific Jesse Ball, captured it thoroughly: haunting, spare, and inventive, it’s a bleak tale that’s nonetheless rich with sparkling turns  <a href="https://locusmag.com/2024/10/the-repeat-room-by-jesse-ball-review-by-jake-casella-brookins/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/10/the-repeat-room-by-jesse-ball-review-by-jake-casella-brookins/>
+
+---
+
+## 4 Books on Creativity to Jump-Start Your Writing Project
+
+date: 2024-10-23, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/4-books-on-creativity-to-jump-start-your-writing-project>
+
+---
+
+## Around the Web: Interviews with Jeff VanderMeer, reviews of Absolution, and VanderMeer on Hurricanes; Le Guin, Ballard, Stephenson, Liu; review columns by Iglesias  and Tuttle
+
+date: 2024-10-23, from: Locus Magazine
+
+<p>» <strong>LA Times</strong>, 12 Oct: Lorraine Berry: What happens when humans confront a form of nature with no rational order?, reviewing <b>Absolution</b></p>
+<p>» <strong>Boing Boing</strong>, 8 Oct: Thom Dunn: Jeff VanderMeer&#8217;s &#8220;Absolution&#8221; is a dark mirror to the Southern Reach Trilogy</p>
+<p>» <strong>NY Times</strong>, 20 Oct: Interview with Jeff VanderMeer by Alexandra Alter</p>
+<p>» <strong>The Verge</strong>, 21 Oct: ‘I woke up and had the whole idea  <a href="https://locusmag.com/2024/10/around-the-web-interviews-with-jeff-vandermeer-reviews-of-absolution-and-vandermeer-on-hurricanes-le-guin-ballard-stephenson-liu-review-columns-by-iglesias-and-tuttle/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/10/around-the-web-interviews-with-jeff-vandermeer-reviews-of-absolution-and-vandermeer-on-hurricanes-le-guin-ballard-stephenson-liu-review-columns-by-iglesias-and-tuttle/>
 
 ---
 

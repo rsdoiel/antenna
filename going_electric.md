@@ -1,11 +1,211 @@
 ---
 title: going electric
-updated: 2024-10-22 16:13:02
+updated: 2024-10-23 08:42:50
 ---
 
 # going electric
 
-(date: 2024-10-22 16:13:02)
+(date: 2024-10-23 08:42:50)
+
+---
+
+## Tesla is in talk for a Robotaxi test program in Palo Alto, but the scale is underwhelming
+
+date: 2024-10-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Robotaxi_75-e1728619627481.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is in talks for a Robotaxi test program in Palo Alto, according to a local official, but the scale is a bit underwhelming.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="385666" href="https://electrek.co/2024/10/23/tesla-is-in-talk-for-a-robotaxi-test-program-in-palo-alto-but-the-scale-is-underwhelming/#more-385666" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/23/tesla-is-in-talk-for-a-robotaxi-test-program-in-palo-alto-but-the-scale-is-underwhelming/>
+
+---
+
+## ZEEKR launches MIX EV with unique double B-pillar doors and priced below $40K [Video]
+
+date: 2024-10-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/ZEEKR-MIX-EV-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Days after <a href="https://electrek.co/guides/zeekr/">ZEEKR</a> began mass production of its fifth model, the MIX, it officially launched the family-friendly EV in China and shared several of its unique and innovative features. Starting at a comparative price below $40K, the ZEEKR MIX EV showcases how creative and functional Chinese automakers are designing their latest models. Check out the features in the video below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,zeekr,zeekr-mix" data-layer-viewtype="unknown" data-post-id="385643" href="https://electrek.co/2024/10/23/zeekr-launches-mix-ev-with-unique-double-b-pillar-doors-and-priced-below-40k-video/#more-385643" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/23/zeekr-launches-mix-ev-with-unique-double-b-pillar-doors-and-priced-below-40k-video/>
+
+---
+
+## Scout Motors' Electric Rebirth Kicks Off Tomorrow. Here's What We Know
+
+date: 2024-10-23, from: Inside EVs News
+
+Plus, a new investigation into Rivian uncovers troubling labor accusations, and the U.S. is working overtime to convert car factories for EVs. 
+
+<br> 
+
+<https://insideevs.com/news/738450/plant-convert-ev-rivian-cm/>
+
+---
+
+## Volvo EX30 remains a top-seller, but the company is still slashing its growth forecast
+
+date: 2024-10-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Volvo-EX30-sales-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Volvo’s most affordable EV is already having a major impact on the brand. Despite the <a href="https://electrek.co/guides/volvo-ex30/">EX30’s</a> success, Volvo Cars is cutting its sales growth forecast for the year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volvo,volvo-cars,volvo-ex30" data-layer-viewtype="unknown" data-post-id="385625" href="https://electrek.co/2024/10/23/volvo-ex30-tops-sales-charts-but-company-cuts-growth-forecast/#more-385625" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/23/volvo-ex30-tops-sales-charts-but-company-cuts-growth-forecast/>
+
+---
+
+## Tesla unveils Oasis: a new Supercharger concept with its own solar farm and Megapacks
+
+date: 2024-10-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Tesla-Oasis-Supercharger-project-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has unveiled plans for a new Supercharger project called ‘Oasis’, which will include 168 Superchargers combined with its own solar farm and Megapack battery system.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-supercharger" data-layer-viewtype="unknown" data-post-id="385631" href="https://electrek.co/2024/10/23/tesla-unveils-oasis-supercharger-concept-solar-farm-megapacks/#more-385631" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/23/tesla-unveils-oasis-supercharger-concept-solar-farm-megapacks/>
+
+---
+
+## Selling ever more EVs, Xiaomi ramps up factory expansion
+
+date: 2024-10-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/03/Xiaomi-EV-SU7-front.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Chinese smartphone maker Xiaomi’s debut into the EV universe, the SU7, has been a hit in China and is set to <a href="https://electrek.co/2024/07/26/ev-xiaomi-completes-ramp-up-expects-to-hit-100k-production-target-early/">easily surpass production goals</a> of 100,000 units one month early. To boost that momentum, driven by ambitions to build a global EV empire, Xiaomi now expects to complete the construction of an expansion of its EV factory in mid-2025, which should ramp up its numbers even more – at least, that’s the aim.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="xiaomi,xiaomi-su7" data-layer-viewtype="unknown" data-post-id="385630" href="https://electrek.co/2024/10/23/selling-ever-more-evs-xiaomi-ramps-up-factory-expansion/#more-385630" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/23/selling-ever-more-evs-xiaomi-ramps-up-factory-expansion/>
+
+---
+
+## The Dodge Charger Daytona Is Getting Solid-State Batteries
+
+date: 2024-10-23, from: Inside EVs News
+
+Stellantis is incorporating Factorial’s solid-state cells into a demonstration fleet. 
+
+<br> 
+
+<https://insideevs.com/news/738403/dodge-charger-daytona-solid-state-battery/>
+
+---
+
+## The electric Dodge Charger will hit the road with Factorial’s solid-state EV batteries in 2026
+
+date: 2024-10-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Dodge-Charger-EV-prices-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://electrek.co/guides/electric-dodge-charger/">electric Dodge Charger</a> Daytona will be the first Stellantis EV to hit the road with Factorial’s solid-state batteries in 2026. Jeep, Dodge, and Ram’s parent company said the milestone marks a crucial step in bringing the promising new tech to market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dodge,electric-dodge-charger,stellantis" data-layer-viewtype="unknown" data-post-id="385539" href="https://electrek.co/2024/10/23/dodge-charger-ev-getting-solid-state-batteries-2026/#more-385539" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/23/dodge-charger-ev-getting-solid-state-batteries-2026/>
+
+---
+
+## Harvard develops a solid state battery that charges in minutes [update]
+
+date: 2024-10-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/01/Adden-MediaKit-Graphics-CellGenerations-2.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Researchers at Harvard University have developed a solid state battery that can be recharged in 10 minutes, and now it’s got Series A funding to scale production.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lithium-ion-battery,solid-state,solid-state-batteries,solid-state-battery" data-layer-viewtype="unknown" data-post-id="344617" href="https://electrek.co/2024/10/23/harvard-solid-state-battery-charges-in-minutes/#more-344617" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/23/harvard-solid-state-battery-charges-in-minutes/>
+
+---
+
+## Einride partners with PepsiCo to deploy its electric trucks and reduce tons of annual emissions
+
+date: 2024-10-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Pepsico-electrick-Trucks-Frito.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Commercial freight EV and autonomous driving developer <a href="https://electrek.co/guides/einride/">Einride</a> announced a new partnership with PepsiCo to deploy its electric semi trucks in Tennessee. The trucks will transport goods for the multinational food, snack, and beverage corporation, which includes Frito Lay.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,einride,pepsico" data-layer-viewtype="unknown" data-post-id="385485" href="https://electrek.co/2024/10/23/einride-partners-with-pepsico-deploy-electric-trucks-reduce-annual-emissions/#more-385485" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/23/einride-partners-with-pepsico-deploy-electric-trucks-reduce-annual-emissions/>
+
+---
+
+## Check out Tenways’ newly launched lightweight 8-speed commuter e-bike
+
+date: 2024-10-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/tenways-chain-version-cgo600-pro-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tenways, one of several popular low-cost electric bike brands that have popped up in the US and European markets over the last few years, has updated its popular lightweight commuter e-bike. Just launched today, Tenways’ new Chain Version CGO600 Pro swaps out the single-speed belt we’ve come to know and love for an 8-speed Shimano drivetrain.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="385609" href="https://electrek.co/2024/10/23/check-out-tenways-newly-launched-lightweight-8-speed-commuter-e-bike/#more-385609" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/23/check-out-tenways-newly-launched-lightweight-8-speed-commuter-e-bike/>
+
+---
+
+## Ford announces $7,500 Fleet Discount on F150 Lightning (but wait, there’s more)
+
+date: 2024-10-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/ford-f-150-lightning-pro.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Ford commercial truck customers can score a sweet deal on a new Ford F-150 Lightning Pro, thanks to a new $7,500 Fleet Order Discount offer – but that’s just the beginning: there are even more Lightning incentives out there for fleet buyers!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-trucks,fleet,ford-f150-lightning" data-layer-viewtype="unknown" data-post-id="385583" href="https://electrek.co/2024/10/22/ford-announces-7500-fleet-discount-on-f150-lightning-but-wait-theres-more/#more-385583" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/22/ford-announces-7500-fleet-discount-on-f150-lightning-but-wait-theres-more/>
+
+---
+
+## Love hurts, does Trump love hurt Tesla? Plus: EV deals and solar school buses
+
+date: 2024-10-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/love-hurts.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On today’s episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, we know love hurts – but is Elon’s love for convicted felon and sexual assaulter Donald Trump hurting Tesla’s sales? We’ve also got some exciting EV deals and a $27,500 EV with 300 miles of range … and it’s <em>not</em> a Tesla!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevrolet,donald-trump,elon-musk,ev-deals" data-layer-viewtype="unknown" data-post-id="385572" href="https://electrek.co/2024/10/22/love-hurts-does-trump-love-hurt-tesla-plus-ev-deals-and-solar-school-buses/#more-385572" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/22/love-hurts-does-trump-love-hurt-tesla-plus-ev-deals-and-solar-school-buses/>
 
 ---
 
@@ -41,7 +241,7 @@ date: 2024-10-22, from: Electrek Feed
 
 ---
 
-## Tesla Full Self-Driving is getting more dangerous as it get better
+## Tesla Full Self-Driving is getting more dangerous as it gets better
 
 date: 2024-10-22, from: Electrek Feed
 
@@ -93,7 +293,7 @@ There are good reasons why the Audi A2s is an appealing candidate for an electri
 
 date: 2024-10-22, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/asdfladfhead.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://pedegoelectricbikes.com/">Pedego</a>, one of the earliest entrants into the US electric bicycle market and home to over 200 brick-and-mortar e-bikes stores, will collaborate with Newport Beach, California-based <a href="https://electricbikecompany.com/">Electric Bike Company</a>, bringing highly customized US-made electric bikes into Pedego’s lineup.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/asdfladfhead.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://pedegoelectricbikes.com/">Pedego</a>, one of the earliest entrants into the US electric bicycle market and home to over 200 brick-and-mortar e-bikes stores, will collaborate with Newport Beach, California-based <a href="https://electricbikecompany.com/">Electric Bike Company</a>, bringing highly customized US-made electric bikes into Pedego’s lineup, according to an announcement from Electric Bike Company. </p>
 
 
 

@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2024-10-22 16:13:01
+updated: 2024-10-23 08:42:50
 ---
 
 # retro computing
 
-(date: 2024-10-22 16:13:01)
+(date: 2024-10-23 08:42:50)
+
+---
+
+## VirtualBox 7.1.4 Includes Initial Support for Linux kernel 6.12
+
+date: 2024-10-23, from: Linux Magazine
+
+<p>The latest version of VirtualBox has arrived and it not only adds initial support for kernel 6.12 but another feature that will make using the virtual machine tool much easier.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/VirtualBox-7.1.4-Includes-Initial-Support-for-Linux-kernel-6.12>
 
 ---
 

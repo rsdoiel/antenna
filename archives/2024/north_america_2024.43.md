@@ -1,11 +1,468 @@
 ---
 title: north america
-updated: 2024-10-22 16:12:59
+updated: 2024-10-23 08:42:46
 ---
 
 # north america
 
-(date: 2024-10-22 16:12:59)
+(date: 2024-10-23 08:42:46)
+
+---
+
+## Spurred to Action by ‘900 Pages of Pure Terror,’ Pennsylvania Union Members Knock on Doors to Defeat Trump
+
+date: 2024-10-23, from: Capital and Main
+
+<p>They say Project 2025, a game plan for a GOP presidency, aims to get rid of public sector unions.</p>
+<p>The post <a href="https://capitalandmain.com/spurred-to-action-by-900-pages-of-pure-terror-pennsylvania-union-members-knock-on-doors-to-defeat-trump">Spurred to Action by ‘900 Pages of Pure Terror,’ Pennsylvania Union Members Knock on Doors to Defeat Trump</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/spurred-to-action-by-900-pages-of-pure-terror-pennsylvania-union-members-knock-on-doors-to-defeat-trump>
+
+---
+
+## The gloomy headlines for Boeing just keep coming
+
+date: 2024-10-23, from: Marketplace Morning Report
+
+<p>Today&#8217;s quarterly earnings report painted a gloomy picture for the embattled aviation giant — the company reportedly lost $6 billion in the three months ending in September. A look at what this means in the context of the numerous crises the plane-maker has been facing in recent years. Plus, what a recent outbreak of E. coli linked to McDonald&#8217;s hamburgers could mean for the fast food giant. And, how a diversity program is looking to bring country music artists belonging to traditionally underrepresented groups into the music industry.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/23/mmr_20241023_MMR_Podcast_3_64.mp3"></source>
+</audio> <a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/23/mmr_20241023_MMR_Podcast_3_64.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/the-gloomy-headlines-for-boeing-just-keep-coming>
+
+---
+
+## Boeing reports $6 billion quarterly loss ahead of vote by union workers who have crippled production
+
+date: 2024-10-23, from: VOA News USA
+
+EVERETT, Wash. — Boeing reported a loss of more than $6 billion in the third quarter and immediately turned its attention to union workers who will vote Wednesday whether to accept a company contract offer or continue their crippling strike, which has dragged on for nearly six weeks.  
+
+
+New CEO Kelly Ortberg laid out his plan to turn Boeing around after years of heavy losses and damage to its reputation.  
+
+
+In remarks he planned to deliver later Wednesday to investors, Ortberg said Boeing needs “a fundamental culture change in the company.” To accomplish that, he said, company leaders need to spend more time on factory floors to know what is going on and “prevent the festering of issues and work better together to identify, fix, and understand root cause.”  
+
+
+Ortberg repeated that he wants to “reset” management’s relationship with labor “so we don’t become so disconnected in the future.” He expressed hope that machinists will vote to approve the company’s latest contract offer and end their strike.  
+
+
+“It will take time to return Boeing to its former legacy, but with the right focus and culture, we can be an iconic company and aerospace leader once again,” he said.  
+
+
+The strike is an early test for Ortberg, a Boeing outsider who became CEO in August.  
+
+
+Ortberg has already announced large-scale layoffs and a plan to raise enough cash to avoid a bankruptcy filing. He needs to convince federal regulators that Boeing is fixing its safety culture and is ready to boost production of the 737 Max — a crucial step to bring in much-needed cash.  
+
+
+Boeing can't produce any new 737s, however, until it ends the strike by 33,000 machinists that has shut down assembly plants in the Seattle area.  
+
+
+Ortberg has "got a lot on his plate, but he probably is laser-focused on getting this negotiation completed. That’s the closest alligator to the boat,” said Tony Bancroft, portfolio manager at Gabelli Funds, a Boeing investor.  
+
+
+Boeing hasn't had a profitable year since 2018, and the situation is about to get worse before it gets better.  
+
+
+Boeing said Wednesday that it lost $6.17 billion in the period ended Sept. 30, with an adjusted loss of $10.44 per share. Analysts polled by Zacks Investment Research were calling for a loss of $10.34 per share.  
+
+
+Revenue totaled $17.84 billion, matching Wall Street estimates.  
+
+
+Shares were flat before the opening bell.  
+
+
+Investors will be looking for Ortberg to project calm, determination and urgency as he presides over an earnings call for the first time since he ran Rockwell Collins, a maker of avionics and flight controls for airline and military planes, in the last decade.  
+
+
+The biggest news of the day, however, is likely to come Wednesday evening, when the International Association of Machinists and Aerospace Workers reveals whether striking workers are ready to go back to their jobs.  
+
+
+They will vote at union halls in the Seattle area and elsewhere on a Boeing offer that includes pay raises of 35% over four years, $7,000 ratification bonuses, and the retention of performance bonuses that Boeing wanted to eliminate.  
+
+
+Boeing has held firm in resisting a union demand to restore the traditional pension plan that was frozen a decade ago. However, older workers would get a slight increase in their monthly pension payouts.  
+
+
+At a picket line outside Boeing’s factory in Everett, Washington, some machinists encouraged colleagues to vote no.  
+
+
+“The pension should have been the top priority. We all said that was our top priority, along with wage,” said Larry Best, a customer-quality coordinator with 38 years at Boeing. “Now is the prime opportunity in a prime time to get our pension back, and we all need to stay out and dig our heels in."  
+
+
+Best also thinks the pay increase should be 40% over three years to offset a long stretch of stagnant wages, now combined with high inflation.  
+
+
+“You can see we got a great turnout today. I’m pretty sure that they don’t like the contract because that’s why I’m here," said another picketer, Bartley Stokes Sr., who started working at Boeing in 1978. “We’re out here in force, and we’re going to show our solidarity and stick with our union brothers and sisters and vote this thing down because they can do better.” 
+
+<br> 
+
+<https://www.voanews.com/a/boeing-reports-6-billion-quarterly-loss-ahead-of-vote-by-union-workers-who-have-crippled-production-/7835692.html>
+
+---
+
+## Mexico is bracing for potential trade impacts of the U.S. election
+
+date: 2024-10-23, from: Marketplace Morning Report
+
+<p>The U.S.-Mexico-Canada free trade agreement will come up for renewal in the second year of a Trump or Harris presidency, which comes at a time of tension in the U.S. trade relationship with China and Chinese businesses increasingly building facilities in Mexico. Marketplace&#8217;s David Brancaccio speaks with the Wall Street Journal&#8217;s Santiago Pere about potential disruptions in the two countries&#8217; trade relationship. Plus, a look at the IRS&#8217;s new inflation-adjusted tax brackets for the upcoming tax year and what that means for taxpayers.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/23/mmr_20241023_MMR_Podcast_2_64.mp3"></source>
+</audio> <a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/23/mmr_20241023_MMR_Podcast_2_64.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/mexico-is-bracing-for-potential-trade-impacts-of-the-u-s-election>
+
+---
+
+## Modi and Xi to meet at BRICS summit
+
+date: 2024-10-23, from: Marketplace Morning Report
+
+<p><em>From the BBC World Service:</em> Indian Prime Minster Modi and Chinese President Xi Jinping are set to meet on the sidelines of the BRICS summit in Russia in what President Putin is framing as a propaganda victory amid the war in Ukraine. Then, a communications satellite designed and built by the troubled aerospace giant Boeing has broken up in orbit. And, as the new NBA season gets underway, we hear about Africa’s continuing influence on the league.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/23/mmr_20241023_MMR_Podcast_1_64.mp3"></source>
+</audio> <a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/23/mmr_20241023_MMR_Podcast_1_64.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/modi-and-xi-to-meet-at-brics-summit>
+
+---
+
+## Are Democrats the Party of Nuclear Now?
+
+date: 2024-10-23, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81Mzg0MTY1NS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2MjMzOTUzMH0.yUp-TFCDPiMP3JEYybKQus9JC9utiyshzEPF2Qn85v0/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>
+	Over the past two months, the country’s biggest tech companies have announced a flurry of deals with advanced and conventional nuclear companies. At the same time, Democratic candidates running for federal office — including Kamala Harris and a handful of Senate candidates — have touted their support of building new nuclear power plants. Has nuclear’s moment finally arrived?
+</p><p>
+	On this week’s episode of Shift Key, we have 
+	<a href="https://www.thirdway.org/about/staff/josh-freed" rel="noopener noreferrer" target="_blank"><u>Josh Freed</u></a>, the senior vice president of Third Way’s climate and energy program, discussing why nuclear might be about to boom, why Democrats are embracing nuclear, and whether a Trump administration could derail the investments. This episode of Shift Key is hosted by Robinson Meyer, the founding executive editor of Heatmap, and Jillian Goodman, Heatmap’s deputy editor.
+</p><p>
+	Shift Key co-host Jesse Jenkins, a professor of energy systems engineering at Princeton University, is out this week.
+</p><p>
+<strong>Subscribe to “Shift Key” and find this episode on <a href="https://podcasts.apple.com/us/podcast/shift-key-with-robinson-meyer-and-jesse-jenkins/id1728932037" rel="noopener noreferrer" target="_blank">Apple Podcasts</a>, <a href="https://open.spotify.com/show/0war1dXXCEEZNpZ3H7kRid" rel="noopener noreferrer" target="_blank">Spotify</a>, <a href="https://music.amazon.com/podcasts/d3491bb8-f4c3-429d-b622-b5d9b1329c69/shift-key-with-robinson-meyer-and-jesse-jenkins" rel="noopener noreferrer" target="_blank">Amazon</a>, or wherever you get your podcasts.</strong>
+</p><p>
+	You can also add 
+	<a href="https://feeds.acast.com/public/shows/65bac3af03341c00164bf93b" rel="noopener noreferrer" target="_blank">the show’s RSS feed</a> to your podcast app to follow us directly.
+</p><center><iframe frameborder="0" height="190px" src="https://embed.acast.com/65bac3af03341c00164bf93b/67182c8c30187dfb6c914dd4" width="100%"></iframe></center><p>
+	Here is an excerpt from our conversation:
+</p><blockquote>
+<strong>Robinson Meyer: </strong>There’s a set of conflicting facts, or slightly contradicting pieces of analysis about this that I believe can all be accommodated together, but I’m still trying to understand how they all fit together. Which is at this point, when we look at the sources of power demand growth in the U.S., as we’ve covered on Shift Key, demand for electricity in the U. S. is rising now for the first time in 20 years. It’s a big deal.<br/>
+<br/>
+	When you look at where that demand growth is coming from, very little of it — or not a ton of it — is actually coming from data centers. It’s coming from EVs, it’s coming from new factories, it’s coming from electrification, it’s coming from air conditioning, it’s coming from all these more typical sources of demand growth in the economy — lots of places, by the way, where we want demand to grow. Because part of how we’re going to transition is that we’re going to move people from combusting fossil fuels to using electricity.
+	<br/>
+<br/>
+	The IEA also just said in a report — it’s big global wrap of energy — last week that it was not very concerned about data centers for AI driving energy scarcity because data centers ultimately are only going to use, even in a high-growth situation, they’ll only use as much electricity as desalination plants. And, yeah, these tech companies are acting as if … Microsoft is seemingly acting as if it’s ready to pay between four and five times the market cost for electricity for the next 20 years because of how much it anticipates its power needs going up.
+	<br/>
+<br/>
+	So on the one hand, data centers are not driving electricity demand growth. On the other hand, they do seem to be driving this new set of deals. How do we work that out?
+	<br/>
+<br/>
+<strong>Josh Freed: </strong>Yeah, look, I think the first thing: My approach to all of these issues is the reality — having worked in the energy and climate space since 2009 — is that it is a very humbling sector. And whatever assumptions we’re operating under today are going to be proven wildly wrong in a year or two or five years. So the simplest answer is, we just don’t know. And I think that companies like Microsoft and Google and Amazon are looking at the potential need for a significant amount of clean, firm electricity in specific parts of the grid, and saying, <em>Let’s get ahead of this and ensure that as we’re planning, we have clean electricity in the right places, built at roughly the timeframe we expect need to escalate significantly</em>, so that we have certainty for planning purposes.<br/>
+<br/>
+	And in some cases there’s, I think, also the expectation that there is enough electricity demand growth, both domestically and in other advanced or rapidly modernizing economies, that being a partner with an advanced nuclear company or another company that is going to be able to provide a lot more electricity is a win-win for them.
+</blockquote><div class="horizontal-rule">
+</div><p>
+	This episode of Shift Key is sponsored by …
+</p><p>
+<strong>Watershed</strong>’s climate data engine helps companies measure and reduce their emissions, turning the data they already have into an audit-ready carbon footprint backed by the latest climate science. Get the sustainability data you need in weeks, not months. Learn more at <a href="https://watershed.com/" rel="noopener noreferrer" target="_blank">watershed.com</a>.
+</p><p>
+	As a global leader in PV and ESS solutions, <strong>Sungrow</strong> invests heavily in research and development, constantly pushing the boundaries of solar and battery inverter technology. Discover why Sungrow is the essential component of the clean energy transition by visiting <a href="https://en.sungrowpower.com/" rel="noopener noreferrer" target="_blank">sungrowpower.com</a>.
+</p><p>
+<strong>Intersolar & Energy Storage North America</strong> is the premier U.S.-based conference and trade show focused on solar, energy storage, and EV charging infrastructure. To learn more, visit <a href="https://www.intersolar.us/" rel="noopener noreferrer" target="_blank">intersolar.us</a>.
+</p><p>
+	Music for Shift Key is by Adam Kromelow.
+</p> 
+
+<br> 
+
+<https://heatmap.news/podcast/shift-key-s2-e11-nuclear-democrats>
+
+---
+
+## LeBron, Bronny James make NBA history with father-son appearance
+
+date: 2024-10-23, from: VOA News USA
+
+Los Angeles — LeBron and Bronny James made NBA history on Tuesday, becoming the first father-and-son duo to play alongside each other in a regular season fixture as the Los Angeles Lakers opened their campaign against the Minnesota Timberwolves.
+
+
+The duo, who played together briefly in a pre-season game earlier this month, took to the court together late in the second quarter at the Crypto.com Arena with the Lakers leading 51-35.
+
+
+An enormous roar went up from the home crowd as the James duo were brought onto the court by coach J.J. Redick after the Lakers had surged into a double-digit lead.
+
+
+In a perfectly scripted moment that was pure Hollywood, the James' double-act was watched at courtside by Ken Griffey Sr. and Ken Griffey Jr, who made baseball history playing for the Seattle Mariners as father and son in 1990-1991.
+
+
+"We made history; now we get to watch history," said Griffey Jr., who joined his father to pose for photos with LeBron and Bronny James shortly before Tuesday's tip-off.
+
+
+Lakers officials had been coy before Tuesday's season-opener about where and when LeBron James and Bronny would play their first regular season fixture together.
+
+
+However, NBA superstar LeBron James, who turns 40 in December, admitted in pre-game remarks that he could scarcely contain his excitement at the prospect of realizing his long-cherished dream of sharing a court with his son.
+
+
+"Just to run out the tunnel knowing that he'll be in uniform, run out the tunnel with him, see him warm up, and be out there with the rest of my teammates," James told reporters during a morning shoot-around on Tuesday.
+
+
+"This is my 22nd time running out on opening night so I don't know how many times I'll have an opportunity, how many times I've got left to run out. I won't take it for granted."
+
+
+Anticipation about the James double-act has dominated the Lakers' preparations for the new season since Bronny James was selected by the franchise with the 55th pick in the draft in June.
+
+
+'It's been a treat' 
+
+
+Bronny James, 20, is expected to spend most of his rookie season in the developmental G-League rather than the Lakers senior squad.
+
+
+LeBron James however said Tuesday that he had relished being able to accompany his son on his first steps into professional basketball.
+
+
+"It's been a treat and just in preseason, the practices, just every day," James said. "The plane rides, the bus rides of being with him and showing him the ropes, along with his teammates and coaches. Just what this professional life is all about and how to prepare every day ... super-duper cool."
+
+
+Bronny James' ascent to the ranks of the NBA has been made all the more remarkable given that just over a year ago he suffered a cardiac arrest during a workout with his University of Southern California college team-mates.
+
+
+James Sr. said his son's swift recovery from that life-threatening episode had convinced him that he would one day play in the NBA.
+
+
+"To see him play in a college Division I game the same year he had heart surgery ... I knew that at that moment that there really was going to be nothing to stop him from anything that he wants to do," James said.
+
+
+Bronny said at the Lakers recent media day he was fueled by the words of critics who have suggested he owes his place on the Lakers roster entirely to his superstar father.
+
+
+"I'm just taking all that stuff, that criticism and backlash that people have given me and turning it into something that can fuel me," he said. 
+
+<br> 
+
+<https://www.voanews.com/a/lebron-bronny-james-make-nba-history-with-father-son-appearance/7835473.html>
+
+---
+
+## Giuliani ordered to turn over NYC apartment, 26 watches to Georgia election workers
+
+date: 2024-10-23, from: VOA News USA
+
+Rudy Giuliani must turn over sports memorabilia and other prized possessions to two Georgia election workers who won a $148 million defamation judgment against him, including his New York City apartment, more than two dozen luxury watches and a 1980 Mercedes once owned by movie star Lauren Bacall, a judge ruled Tuesday.
+
+
+But U.S. District Judge Lewis Liman in Manhattan also said Giuliani does not have to give the election workers three New York Yankees World Series rings or his Florida condominium — for now — noting those assets are tied up in other litigation.
+
+
+The property Giuliani must relinquish is expected to fetch several million dollars for Ruby Freeman and her daughter, Wandrea "Shaye" Moss. They won the $148 million judgment over Giuliani's false ballot fraud claims against them related to the 2020 presidential election. They said Giuliani pushed Donald Trump's lies about the election being stolen, which led to death threats that made them fear for their lives.
+
+
+Under Tuesday's order, Giuliani must relinquish within seven days his Manhattan apartment, estimated at more than $5 million, as well as his interest in about $2 million that he says Trump's 2020 presidential campaign owes him for his services.
+
+
+Also on the list of assets that must be given to Freeman and Moss are a 1980 Mercedes-Benz SL 500 previously owned by Bacall; a shirt and picture signed, respectively, by Yankees legends Joe DiMaggio and Reggie Jackson; a signed Yankee Stadium picture; a diamond ring; costume jewelry and 26 watches including a Rolex, five Shinolas, two Bulovas and a Tiffany & Co.
+
+
+In court documents filed earlier this year, Giuliani estimated the Mercedes was worth about $25,000, and the watches, World Series rings and costume jewelry at about $30,000. He said the value of his sports memorabilia was unknown.
+
+
+One of those watches was given to Giuliani by his grandfather and he asked that he be allowed to keep it because of its sentimental value. But Liman rejected the request, saying Giuliani could have had it exempted if he had proven it was worth less than $1,000 — but he did not do so.
+
+
+"The Court also does not doubt that certain of the items may have sentimental value to Defendant," the judge added. "But that does not entitle Defendant to continued enjoyment of the assets to the detriment of the Plaintiffs to whom he owes approximately $150 million. It is, after all, the underlying policy of these New York statutes that 'no man should be permitted to live at the same time in luxury and in debt.'"
+
+
+Liman wrote that Freeman and Moss would be allowed to sell off the property and "ensure that the liquidation of the transferred assets is accomplished quickly."
+
+
+Giuliani had asked the judge to bar Freeman and Moss from selling any of his assets until after his appeal of the judgment is completed. Liman also rejected that request, saying Giuliani could have asked the federal court in Washington, D.C., where Freeman and Moss won their case, to stay any asset sales pending his appeal, but he did not.
+
+
+Giuliani's lawyers, Kenneth Caruso and David Labkowski, said in a statement Tuesday night, "Stay tuned. When the judgment is reversed in the Court of Appeals in Washington, D.C., these Plaintiffs will be required to return all this property to Mr. Giuliani. We repeat, stay tuned."
+
+
+To date, Giuliani has not paid Freeman and Moss anything.
+
+
+"We are proud that our clients will finally begin to receive some of the compensation to which they are entitled for Giuliani's actions," Aaron Nathan, a lawyer for Freeman and Moss, said in a statement. "This outcome should send a powerful message that there is a price to pay for those who choose to intentionally spread disinformation."
+
+
+As for the World Series rings, Giuliani's son, Andrew, filed court documents earlier this month saying he actually is the rightful owner. He said his father gave him four rings — one for each of the Yankees' championships in 1996, 1998, 1999 and 2000 — as gifts in 2018. Rudy Giuliani received the rings during his tenure as mayor of New York City. The younger Giuliani's claim is pending in federal court in Manhattan.
+
+
+Freeman and Moss also asked Liman to order Rudy Giuliani to turn over his condo in Palm Beach, Florida, estimated to be worth more than $3 million. But that property is tied up in other litigation, with Giuliani claiming it should be exempt because it is his primary residence. Freeman and Moss have a lien on the Florida property.
+
+
+Liman said he would take up the Florida condo at a hearing Oct. 28, and he barred Giuliani from selling the property or taking any action that would diminish its value.
+
+
+After the $148 million verdict, Giuliani filed for bankruptcy, which froze attempts by Freeman and Moss to collect the award. But a judge in July threw out the case citing repeated "uncooperative conduct," including a failure to comply with court orders and disclose sources of income. 
+
+<br> 
+
+<https://www.voanews.com/a/giuliani-ordered-to-turn-over-nyc-apartment-26-watches-to-georgia-election-workers/7835441.html>
+
+---
+
+## E. coli outbreak tied to McDonald's Quarter Pounder kills 1, sickens dozens in US
+
+date: 2024-10-23, from: VOA News USA
+
+One person died and dozens fell ill from E. coli infections linked to McDonald's Quarter Pounder hamburgers in 10 states, led by Colorado, where 26 people were sickened, the U.S. Centers for Disease Control said on Tuesday.
+
+
+The E. coli outbreak, linked to one of McDonald's most popular menu items, has sickened 49 people and sent 10 to the hospital, officials say.
+
+
+The strain involved, E. coli O157:H7, can cause serious illness and was the source of a 1993 outbreak that killed four children who ate undercooked hamburgers at Jack in the Box restaurants.
+
+
+Shares of the world's largest fast-food chain were down about 6% in extended trading. A livestock trader said the outbreak also could pressure U.S. cattle futures on Wednesday by threatening demand for beef.
+
+
+Everyone interviewed as part of an investigation into the outbreak has reported eating at McDonald's before their illness started, and most mentioned eating a Quarter Pounder hamburger, according to the CDC.
+
+
+The specific ingredient linked to the illness has not been identified but investigators are focused on fresh, slivered onions and fresh beef patties, the CDC said.
+
+
+Most of the illnesses were reported in Colorado and Nebraska.
+
+
+"The initial findings from the investigation indicate that a subset of illnesses may be linked to slivered onions used in the Quarter Pounder and sourced by a single supplier that serves three distribution centers," McDonald's North America Chief Supply Chain Officer Cesar Piña said in a statement.
+
+
+McDonald's has proactively removed the slivered onions and beef patties used for the Quarter Pounder hamburgers from stores in the affected states while the investigation continues, the company informed the CDC.
+
+
+U.S. food safety attorney Bill Marler, who represented a victim in the Jack in the Box outbreak, said more cases of illness could surface. Onions have been linked to prior E. coli O157:H7 outbreaks, he said.
+
+
+According to Marler, a founder of Marler Clark in Seattle, beef contamination is less common due to food safety measures. "You'd have to have multiple restaurants under-cooking the meat," he said.
+
+
+McDonald's is temporarily removing the Quarter Pounder from restaurants in the impacted areas, including Colorado, Kansas, Utah and Wyoming, it said in a statement, adding it was working with suppliers to replenish supply in the coming week.
+
+
+Symptoms for E. coli include severe stomach cramps, diarrhea and vomiting. Most people who suffer an infection will start feeling sick three to four days after eating or drinking something that contains the bacteria, Colorado's public health department said. However, illnesses can start anywhere from one to 10 days after exposure, the department added.
+
+
+In 2015, burrito chain Chipotle saw its sales battered and reputation hit due to E.coli outbreaks in several states. That outbreak was linked to a different strain of E. coli that typically causes less severe illness than E. coli O157:H7.
+
+
+In addition to Colorado, the CDC said small clusters of a few people fell ill after eating a Quarter Pounder in Nebraska, Utah and Wyoming. Kansas, Missouri, Oregon, Iowa, Wisconsin and Montana had one illness apiece. 
+
+<br> 
+
+<https://www.voanews.com/a/e-coli-outbreak-tied-to-mcdonald-s-quarter-pounder-kills-1-sickens-dozens-in-us/7835436.html>
+
+---
+
+##  Musk Could Reap Huge Tax Gift From Trump Win 
+
+date: 2024-10-23, from: The Lever News
+
+ Trump’s promise to appoint Musk could make the billionaire CEO eligible for a special tax benefit available only to government officials.  
+
+<br> 
+
+<https://www.levernews.com/musk-could-reap-huge-tax-gift-from-trump-win/>
+
+---
+
+## Blinken visits Tel Aviv as Israeli forces pummel Lebanon, Gaza
+
+date: 2024-10-22, from: VOA News USA
+
+U.S. Secretary of State Antony Blinken met with Israeli leaders in Tel Aviv Tuesday, pushing to increase humanitarian access to Palestinians and to end Israel’s war in Gaza and Lebanon. Washington is calling for a cease-fire between Israel and Hamas, and the enforcement of a U.N. resolution that ended the last major war between Israel and Hezbollah. But as White House Bureau Chief Patsy Widakuswara reports, both appear elusive. 
+
+<br> 
+
+<https://www.voanews.com/a/blinken-visits-tel-aviv-as-israeli-forces-pummel-lebanon-gaza/7833094.html>
+
+---
+
+## Why GM had a great quarter
+
+date: 2024-10-22, from: Market Place
+
+<p class="p3">It&#8217;s been nearly a year since the United Auto Workers ended its strike against General Motors, and the automaker has defied expectations with strong third-quarter earnings. Why is GM doing so well when other carmakers are struggling? Plus: Quebec is using a pension fund to build a light-rail system, and &#8220;Marketplace&#8221; host Kai Ryssdal plays U.S. president in a climate war game with two Department of Defense retirees.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/22/pm_20241022_Marketplace_-_PM_64.mp3"></source>
+</audio> <a href="https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/22/pm_20241022_Marketplace_-_PM_64.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace/why-gm-had-a-great-quarter>
+
+---
+
+## Things are changing fast in the home insurance market
+
+date: 2024-10-22, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p>In the weeks after Hurricanes Helene and Milton hit the Southeast, the price to rebuild has become a topic of contention in the home insurance market. For years, home insurers have identified climate change as a threat, cut coverage and increased premiums for properties in disaster-prone areas. But now, home insurers are also using new technologies such as drone footage and artificial intelligence to identify other high-risk areas in urban and suburban neighborhoods.</p>
+<p>Then, we&#8217;ll get into what headline inflation measures leave out of the cost of housing. And, how do we prepare for the upcoming Election Day in the shadow of the Jan. 6, 2021, attack on the U.S. Capitol? Later, we&#8217;ll hear from listeners on voting from overseas and the origins of trick-or-treating.</p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>Here&#8217;s everything we talked about today:</p>
+<ul>
+<li><a href="https://kyla.substack.com/p/home-insurance-is-a-really-big-problem" target="_blank" rel="noreferrer noopener">&#8220;Home Insurance is a Really Big Problem&#8221;</a> from Kyla Scanlon on Substack</li>
+</ul>
+<p><!-- /wp:paragraph --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://www.marketplace.org/2024/03/21/rising-insurance-costs-are-making-homeownership-even-more-expensive/" target="_blank" rel="noreferrer noopener">&#8220;Rising insurance costs are making homeownership even more expensive&#8221;</a> from Marketplace</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://knowledge.wharton.upenn.edu/article/how-higher-property-insurance-premiums-mirror-climate-risk/" target="_blank" rel="noreferrer noopener">&#8220;How Higher Property Insurance Premiums Mirror Climate Risk&#8221;</a> from Knowledge at Wharton</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://www.nytimes.com/2024/07/09/climate/home-insurance-prices-climate-change.html?searchResultPosition=10" target="_blank" rel="noreferrer noopener">&#8220;How the Home Insurance Market Became So Distorted&#8221;</a> from The New York Times</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://www.nytimes.com/interactive/2024/05/13/climate/home-insurance-profit-us-states-weather.html?searchResultPosition=19">&#8220;The Home Insurance Crunch: See What’s Happening in Your State&#8221;</a> from The New York Times</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://www.bankrate.com/insurance/homeowners-insurance/florida-homeowners-insurance-crisis/?tpt=a" target="_blank" rel="noreferrer noopener">&#8220;Can lawmakers save the collapsing Florida home insurance market?&#8221;</a> from Bankrate</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://www.politico.com/news/magazine/2024/10/20/trump-overturn-2024-election-plan-00184103" target="_blank" rel="noreferrer noopener">&#8220;The Very Real Scenario Where Trump Loses and Takes Power Anyway&#8221;</a> from Politico</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://www.bloomberg.com/news/articles/2024-10-22/us-cpi-inflation-doesn-t-account-for-some-of-your-biggest-expenses?srnd=homepage-americas&amp;embedded-checkout=true" target="_blank" rel="noreferrer noopener">&#8220;America’s Most Famous Inflation Gauge Is Easing — But Some of Your Biggest Expenses Are Left Out&#8221;</a> from Bloomberg</li>
+</ul>
+<p><!-- /wp:list-item --></p>
+<p><!-- /wp:list --> <!-- wp:paragraph --></p>
+<p>Do you have an Election Day tradition? Maybe you like to mail your ballot or treat yourself to coffee after hitting the polls. Let us know what your voting routine looks like at makemesmart@marketplace.org or leave us a voicemail at 508-U-B-SMART.</p>
+<p><!-- /wp:paragraph --></p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-MakeMeSmart/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/22/mms_20241022_102224_MMS_128.mp3"></source>
+</audio> <a href="https://play.podtrac.com/APM-MakeMeSmart/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/22/mms_20241022_102224_MMS_128.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/things-are-changing-fast-in-the-home-insurance-market>
 
 ---
 
@@ -156,6 +613,8 @@ Costanza: I think there's a view that Russia is going to take three to 10 years 
 
 
 They may not be as well trained, but they're bigger. Their industrial base is on a wartime footing. Their mobilization base is on a wartime footing. They know they're fighting a Western-trained, West-equipped country with Ukraine. They're learning how to defeat those capabilities and those systems over the last 2½ years. So, they're modernizing their force based on the lessons that they're learning, and I think that's something we should be concerned about. They're modernizing their equipment. They're changing the way that they fight based on learning how to fight against Western-trained forces in Ukraine. And I think that should be a concern for all of us. It clearly is to our Eastern European allies.
+
+
 
 
 VOA: How are you preparing to defend and deter?
@@ -334,7 +793,7 @@ date: 2024-10-22, from: VOA News USA
 President Joe Biden on Tuesday welcomed Slovenian Prime Minister Robert Golob to the White House, where Biden spoke of the importance of European unity and recognized the small Central European nation’s outsized role in the largest prisoner exchange between the U.S. and Russia in decades.
 
 
-Biden underscored Ljubljana’s critical role in the August swap that saw the release of 24 people, including three high-profile Americans in Russian custody: Wall Street Journal reporter Evan Gerskovich, Radio Free Europe reporter Alsu Kurmasheva and Paul Whelan. Slovenia held two Russian spies in prison – and their release was a critical part of the deal.
+Biden underscored Ljubljana’s critical role in the August swap that saw the release of 24 people, including three high-profile Americans in Russian custody: Wall Street Journal reporter Evan Gerskovich, Radio Free Europe reporter Alsu Kurmasheva and former U.S. Marine Paul Whelan. Slovenia held two Russian spies in prison – and their release was a critical part of the deal.
 
 
 “You made it possible,” Biden said to Golob in the Oval Office. “Thank you. We made it clear to anyone who questions whether our allies matter. Well, just look at what you did. They matter a great deal.”
@@ -346,10 +805,10 @@ Biden, who spoke of his role in pushing for the nation to join the North Atlanti
 “Because I knew then what I know now: We're stronger when we stand together with good partners like you,” Biden said. “We've seen it in support for the brave people of Ukraine as they defend themselves against Russia's aggression and we see it in our work to support democracy and prosperity across the western Balkans.”
 
 
-Golob replied by calling Biden a nickname that has become popular with European leaders.
+Golob addressed Biden with “Dear Joe," a greeting that has become popular with European leaders.
 
 
-“Dear Joe, just a couple of words,” he said, in English. “And that is with little help of true friends, nothing is impossible. And I think that's really what our joint effort with the prisoner swap demonstrated to all of the world. And let's continue to work in true friendship and with a lot of friends."
+“Mr. President, dear Joe, just a couple of words,” he said, in English. “And that is with little help of true friends, nothing is impossible. And I think that's really what our joint effort with the prisoner swap demonstrated to all of the world. And let's continue to work in true friendship and with a lot of friends."
 
 
 The two also discussed a wide range of issues, the White House said, like energy security and cooperation and events in the Middle East.
@@ -358,20 +817,35 @@ The two also discussed a wide range of issues, the White House said, like energy
 This meeting – the first Oval Office visit by a Slovenian leader in 18 years – is “a particularly important legacy of Biden's administration,” said Wojciech Przybylski, editor-in-chief of Warsaw-based think tank Visegrad Insight.
 
 
-“Slovenia is also a major stakeholder in the development of other Southeastern European countries of the Balkan region, where the U.S. is investing heavily to make Europe whole and free from wars and autocratic rule,” he told VOA via email. “From a geopolitical point of view, Russian influence and even more important Chinese influence, including Beijing's ambitions to be the dominant player in the Slovenian port of Koper, a major port on the Adriatic Sea, is an important backdrop to the discussions on the economic security of Central and Eastern Europe.”
+“Slovenia is also a major stakeholder in the development of other Southeastern European countries of the Balkan region, where the U.S. is investing heavily to make Europe whole and free from wars and autocratic rule,” he told VOA via email.
 
 
-Analyst Donatienne Ruy of the Center for Strategic and International Studies told VOA by email that Golob’s visit is “an important recognition of the small country’s contributions to transatlantic relations, as both a NATO and an EU member.”
+“From a geopolitical point of view, Russian influence and even more important Chinese influence, including Beijing's ambitions to be the dominant player in the Slovenian port of Koper, a major port on the Adriatic Sea, is an important backdrop to the discussions on the economic security of Central and Eastern Europe," he said.
+
+
+Donatienne Ruy, an analyst at the Center for Strategic and International Studies, told VOA by email that Golob’s visit is “an important recognition of the small country’s contributions to transatlantic relations, as both a NATO and an EU member.”
 
 
 
-Slovenia, she said, is using its rotating presidency of the U.N. Security Council to support Ukraine and is an “anchor for the Western Balkans region” and it could soon play a big role in helming the European Commission’s enlargement efforts, as the top diplomat in line for the job is a left-leaning Slovene.
+Slovenia, she said, is using its rotating presidency of the U.N. Security Council to support Ukraine and is an “anchor for the Western Balkans region.” And the country could soon play a big role in helming the European Commission’s enlargement efforts, as the top diplomat in line for the job is a left-leaning Slovene.
 
 
-The nation hasn’t always held liberal stances, she said.
+The nation hasn’t always held liberal stances, Ruy said.
 
 
-“The country itself has seen ups and downs in governance in its post-Communist history, most recently under former Prime Minister Janez Jansa, who adopted an illiberal populist stance — he threatened the independence of the media and regularly attacked his opponents [rhetorically],” she said. “The current government has been a more positive actor both on governance and democracy issues and as an EU member, which the White House visit likely acknowledges.”
+“The country itself has seen ups and downs in governance in its post-Communist history, most recently under former Prime Minister Janez Jansa, who adopted an illiberal populist stance — he threatened the independence of the media and regularly attacked his opponents [rhetorically],” she said.
+
+
+“The current government has been a more positive actor both on governance and democracy issues and as an EU member, which the White House visit likely acknowledges.”
+
+
+Dalibor Rohac, a senior fellow at the American Enterprise Institute, was less complimentary.
+
+
+“I don't see a lot of reasons for rewarding Slovenia's PM with a visit to the Oval Office,” he wrote to VOA by email. “Slovenia has made little progress in bringing up its defense spending. It is not embarking on massive purchases of U.S.-made equipment.
+
+
+“Even in the EU context, the government has taken an extreme position against Israel. The Prime Minister himself has faced domestic controversy, including a criminal complaint for interfering with a police investigation. In short, I don't see much upside to Biden's doing this at this moment.”
 
 
 VOA asked representatives from the campaign of former President Donald Trump if he planned to meet with Golob during his U.S. visit. Former first lady Melania Trump was born in the southern Slovenian city of Novo Mesto. The campaign did not reply. 
@@ -386,72 +860,78 @@ VOA asked representatives from the campaign of former President Donald Trump if 
 
 date: 2024-10-22, from: VOA News USA
 
-The United States has charged a senior Iranian official and three others linked to Tehran for their role in a failed assassination plot targeting VOA host Masih Alinejad. 
+The United States has charged a senior Iranian official and three others linked to Tehran for their role in a failed assassination plot targeting VOA host Masih Alinejad.
 
 
-Federal prosecutors in New York charged Ruhollah Bazghandi, a senior official in Iran's Islamic Revolutionary Guard Corps, and three other men linked to Tehran, with participating in a failed attempt to assassinate VOA Persian service journalist Alinejad in Brooklyn in 2022, according to a new indictment made public on Tuesday.  
+Federal prosecutors in New York charged Ruhollah Bazghandi, a senior official in Iran's Islamic Revolutionary Guard Corps, and three other men linked to Tehran, with participating in a failed attempt to assassinate VOA Persian Service journalist Alinejad in Brooklyn in 2022, according to a new indictment made public on Tuesday.
 
 
-These charges are the first to directly accuse a high-ranking official in the Revolutionary Guard, or IRGC, with a role in the plot to kill Iranian American Alinejad, a staunch critic of Iran's repression of women.  
+These charges are the first to directly accuse a high-ranking official in the Revolutionary Guard, or IRGC, with a role in the plot to kill Iranian American Alinejad, a staunch critic of Iran's repression of women.
 
 
-"Today's indictment exposes the full extent of Iran's plot to silence an American journalist for criticizing the Iranian regime," FBI Director Christopher Wray said in a statement. "As these charges show, the FBI will work with our partners here and abroad to hold accountable those who target Americans." 
+"Today's indictment exposes the full extent of Iran's plot to silence an American journalist for criticizing the Iranian regime," FBI Director Christopher Wray said in a statement. "As these charges show, the FBI will work with our partners here and abroad to hold accountable those who target Americans."
 
 
-The indictment describes Bazghandi as a brigadier general with the IRGC. The U.S. Treasury Department last year called him a counterintelligence official.  
+The indictment describes Bazghandi as a brigadier general with the IRGC. The U.S. Treasury Department last year called him a counterintelligence official.
 
 
-Alinejad said this indictment confirms the lengths the Iranian government will go to in order to silence its critics.  
+Alinejad said this indictment confirms the lengths the Iranian government will go to in order to silence its critics.
 
 
-"It shows that this is in the DNA of the Revolutionary Guards," she told VOA.  
+"It shows that this is in the DNA of the Revolutionary Guards," she told VOA.
 
 
 'Now we have proof'
 
 
-When the FBI told Alinejad the news Tuesday morning, she said she felt a mix of excitement and sadness.  
+When the FBI told Alinejad the news Tuesday morning, she said she felt a mix of excitement and sadness.
 
 
-"I was so excited because now we have proof that this is a member of the Revolutionary Guards ordering a man in New York, from inside Iran, to kill a U.S. citizen," she said. "That was my reaction. Mixed feelings. Happy, but at the same time sad that the same people cannot be stopped from killing innocent women and men inside [Iran]." 
+"I was so excited because now we have proof that this is a member of the Revolutionary Guards ordering a man in New York, from inside Iran, to kill a U.S. citizen," she said. "That was my reaction. Mixed feelings. Happy, but at the same time sad that the same people cannot be stopped from killing innocent women and men inside [Iran]."
 
 
-When the Treasury Department imposed sanctions on Bazghandi, it said he had been involved with assassination plots against journalists and others considered enemies of Tehran.  
+When the Treasury Department imposed sanctions on Bazghandi, it said he had been involved with assassination plots against journalists and others considered enemies of Tehran.
 
 
-These aren't the first charges related to the killing scheme. The failed plot to kill Alinejad led to federal murder-for-hire charges against members of an Eastern European criminal organization with connections to Iran who were hired to carry out assassination. 
+These aren't the first charges related to the killing scheme. The failed plot to kill Alinejad led to federal murder-for-hire charges against members of an Eastern European criminal organization with connections to Iran who were hired to carry out assassination.
 
 
 Surveillance, harassment, intimidation
 
 
-Iran is among the most prolific countries that reaches across its borders to target journalists and activists overseas in a process known as transnational repression, according to Freedom House. Common tactics include surveillance, harassment and intimidation. 
+Iran is among the most prolific countries that reach across its borders to target journalists and activists overseas in a process known as transnational repression, according to Freedom House. Common tactics include surveillance, harassment and intimidation.
 
 
 
 
-The failed assassination plot came one year after a failed kidnapping attempt against Alinejad in 2021. The FBI has said the kidnapping attempt was part of a Tehran plot to bring Alinejad to Iran. 
+The failed assassination plot came one year after a failed kidnapping attempt against Alinejad in 2021. The FBI has said the kidnapping attempt was part of a Tehran plot to bring Alinejad to Iran.
 
 
-Since the kidnapping attempt, Alinejad has received U.S. government protection and moved frequently between safe houses. 
+Since the kidnapping attempt, Alinejad has received U.S. government protection and moved frequently between safe houses.
 
 
-Despite the threats, Alinejad has refused to stop her work.  
+Despite the threats, Alinejad has refused to stop her work.
 
 
-"I don't have any guns and bullets — I don't carry weapons. But this government, they have everything, and they're really scared of me," Alinejad told VOA late last year, referring to the Iranian government. "And that gives me power — that, wow, even with my words, even with my social media, I'm more powerful than them." 
+"I don't have any guns and bullets — I don't carry weapons. But this government, they have everything, and they're really scared of me," Alinejad told VOA late last year, referring to the Iranian government. "And that gives me power — that, wow, even with my words, even with my social media, I'm more powerful than them."
 
 
 'This is about protecting democracy'
 
 
-Iran is among the most censored countries in the world. At the end of 2023, Iran ranked among the worst jailers of journalists in the world, according to the Committee to Protect Journalists, with 17 reporters behind bars.  
+Iran is among the most censored countries in the world. At the end of 2023, Iran ranked among the worst jailers of journalists in the world, according to the Committee to Protect Journalists, with 17 reporters behind bars.
 
 
-Iran's Foreign Ministry did not immediately reply to VOA's email requesting comment.  
+Iran's Foreign Ministry did not immediately reply to VOA's email requesting comment.
 
 
-Alinejad said it's important for the U.S. government to hold Iran accountable for the plot and for Tehran's broader use of transnational repression.  
+While the United States is working to hold accountable perpetrators in this case, Kiran Nazish, the founder of the Coalition for Women in Journalism, told VOA that too many governments around the world aren’t taking transnational repression seriously enough.
+
+
+“We really want to learn from this moment — that it is possible to make perpetrators accountable. And it is essential for courts and police and law enforcement to really pay attention to the issue of transnational repression,” Nazish said. 
+
+
+Alinejad said it's important for the U.S. government to hold Iran accountable for the plot and for Tehran's broader use of transnational repression.
 
 
 "This is not a partisan issue. This is about protecting democracy. Because I don't think that they targeted me. I have no fear for my own life," Alinejad said. "The Iranian regime is challenging the U.S. government on U.S. soil, and basically this is targeting freedom of speech, and the national security and safety of America." 

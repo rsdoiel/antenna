@@ -1,11 +1,172 @@
 ---
 title: journalism
-updated: 2024-10-22 16:13:00
+updated: 2024-10-23 08:42:49
 ---
 
 # journalism
 
-(date: 2024-10-22 16:13:00)
+(date: 2024-10-23 08:42:49)
+
+---
+
+## Classifieds – October 23, 2024
+
+date: 2024-10-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/23/classifieds-october-23-2024/">Classifieds &#8211; October 23, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/23/classifieds-october-23-2024/>
+
+---
+
+## UCPD sweeps Gaza solidarity sukkah in Dickson Court, one protester arrested
+
+date: 2024-10-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+Pro-Palestine organizations at UCLA set up a Gaza solidarity sukkah for nearly 12 hours Monday. 
+Jewish Voice for Peace at UCLA and Graduate Students for Justice in Palestine at UCLA erected the sukkah &#8211; a temporary structure used to celebrate the weeklong Jewish harvest holiday of Sukkot &#8211; around 8:45 a.m. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/23/ucpd-sweeps-gaza-solidarity-sukkah-in-dickson-court-one-protester-arrested/>
+
+---
+
+## My one and only dance with destiny
+
+date: 2024-10-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Destiny and I are in a waltz taking turns leading, but who gets the final say?</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/23/my-one-and-only-dance-with-destiny/">My one and only dance with destiny</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/23/my-one-and-only-dance-with-destiny/>
+
+---
+
+## USG supports mandatory sustainability training
+
+date: 2024-10-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Undergraduate Student Government senate passed election rules for 2024-25.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/23/usg-supports-mandatory-sustainability-training/">USG supports mandatory sustainability training</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/23/usg-supports-mandatory-sustainability-training/>
+
+---
+
+## ‘Kimberly Akimbo’ lights up Hollywood
+
+date: 2024-10-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Tony Award-winning musical brings comedy to Los Angeles until Nov. 3.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/23/kimberly-akimbo-lights-up-hollywood/">‘Kimberly Akimbo’ lights up Hollywood</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/23/kimberly-akimbo-lights-up-hollywood/>
+
+---
+
+## Investigation exposes “walk-on” admission backdoor
+
+date: 2024-10-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The report found an 85 to 90% acceptance rate for this path from 2008-2018.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/23/investigation-exposes-walk-on-admission-backdoor/">Investigation exposes “walk-on” admission backdoor</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/23/investigation-exposes-walk-on-admission-backdoor/>
+
+---
+
+## USC alum chosen as new LAPD chief
+
+date: 2024-10-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Jim McDonnell led the Safe Communities Institute at  Price School of Public Policy.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/23/usc-alum-chosen-as-new-lapd-chief/">USC alum chosen as new LAPD chief</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/23/usc-alum-chosen-as-new-lapd-chief/>
+
+---
+
+## UCLA accused an ecologist of harassment. She’s now suing for discrimination.
+
+date: 2024-10-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+A prominent UCLA ecologist on involuntary leave filed a lawsuit against the University earlier this month, alleging wrongful suspension, harassment and racial discrimination.
+Ecology and evolutionary biology professor Priyanga Amarasekare joined UCLA in 2005, but she was suspended in July 2022 for a year with no pay by then-Chancellor Gene Block. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/22/ucla-accused-an-ecologist-of-harassment-shes-now-suing-for-discrimination/>
+
+---
+
+## UCLA Library program gives grants for worldwide digital preservation of art
+
+date: 2024-10-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA Library’s Modern Endangered Archives Program announced that they will be giving 26 new grants worth $1.47 million to expand digitization of endangered artworks.
+MEAP focuses on post-custodial collecting, a process by which UCLA manages the digital materials of physical artifacts while their original owners maintain ownership, said MEAP Director Rachel Deblinger. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/22/ucla-library-program-gives-grants-for-worldwide-digital-preservation-of-art/>
+
+---
+
+## Consumerist ploy, genuine self-growth or both? Exploring effects of ‘glowing up’
+
+date: 2024-10-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+Summer and winter breaks give Bruins extra time to pursue a number of activities, including transforming themselves.
+The term &#8220;glow-up&#8221; – slang for a positive change in appearance, behaviors or skills – was popularized in the late 2010s on social media and remains relevant today. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/22/the-quad-consumerist-ploy-genuine-self-growth-or-both-exploring-effects-of-glowing-up/>
+
+---
+
+## CSUN’s Tuesday Farmers Market, a Good Taste of the Season
+
+date: 2024-10-23, from: The Sundail (CSUN Student Newspaper)
+
+CSUN’s weekly farmers market, hosted by Associated Students (AS), takes place every Tuesday from 10 a.m. to 2 p.m. at Matador Square with stalls lined on Lindley Ave. Every week,... 
+
+<br> 
+
+<https://sundial.csun.edu/186552/arts-entertainment/csuns-tuesday-farmers-market-a-good-taste-of-the-season/>
+
+---
+
+## SWC’s Healthcoming event features goat yoga, wellness education
+
+date: 2024-10-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+Hundreds of people attended the Student Wellness Commission&#8217;s Healthcoming event, an annual fall health festival, on Wednesday. 
+The Wilson Plaza festival showcased the commission&#8217;s offerings and provided an overview of UCLA&#8217;s health and wellness resources. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/22/swcs-healthcoming-event-features-goat-yoga-wellness-education/>
 
 ---
 
@@ -65,8 +226,8 @@ The rise of clothing reselling has transformed the fashion landscape, particular
 
 date: 2024-10-22, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Oct. 22 at 3:16 p.m.</em>
-UCPD police officers detained a person with spray paint cans outside Royce Hall Tuesday afternoon.
+<em>This post was updated Oct. 23 at 12:03 a.m.</em>
+UCPD police officers detained a person with spray paint cans outside Royce Hall on Tuesday afternoon.
 Around 12:35 p.m., the officers handcuffed someone wearing a red dress. 
 
 <br> 
@@ -133,6 +294,42 @@ As Halloween approaches, CSUN’s Game Development Club (GDC) organized an inter
 <br> 
 
 <https://sundial.csun.edu/186433/arts-entertainment/csuns-game-development-club-kicked-off-a-horror-themed-game-jam/>
+
+---
+
+## Blended Worlds: Art x JPL
+
+date: 2024-10-22, from: California Tech (Caltech Student Newspaper)
+
+“Blended Worlds: Experi- ments In Interplanetary Imag- ination,” an exhibit at the Brand Library &amp; Art Center in Glendale, seeks to elucidate the universe through collaborative works by artists and NASA’s Jet Propulsion Laboratory sci- entists and engineers. 
+
+<br> 
+
+<https://tech.caltech.edu/2024/10/22/blended-worlds-jpl/>
+
+---
+
+## Caltech Hall Pond Bridge: Art or Annoyance?
+
+date: 2024-10-22, from: California Tech (Caltech Student Newspaper)
+
+For the astute eyes on cam- pus, you may have noticed something different about Caltech Hall, specifically the bridge across the pond. But for those who may not know, the bridge going across Caltech Hall Pond has been complete- ly covered in gold leaf, or so it seems. 
+
+<br> 
+
+<https://tech.caltech.edu/2024/10/22/caltech-hall-pond/>
+
+---
+
+## The Growing Legacy of Caltech's Trees: A Technological and Sustainable Environmental Revolution.
+
+date: 2024-10-22, from: California Tech (Caltech Student Newspaper)
+
+In the heart of Pasadena, nestled between the evergreen dotted hills and the sprawling cityscape, stands a campus symbolizing human ingenuity and environmental harmony: Caltech. Remarkably, what was once a patch- work of open chaparral and agricultural land has transformed into a living laboratory where science meets sustainability. 
+
+<br> 
+
+<https://tech.caltech.edu/2024/10/22/the-growing-legacy-of-caltech-trees/>
 
 ---
 

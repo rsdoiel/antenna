@@ -1,11 +1,71 @@
 ---
 title: motorcycles
-updated: 2024-10-22 16:13:01
+updated: 2024-10-23 08:42:50
 ---
 
 # motorcycles
 
-(date: 2024-10-22 16:13:01)
+(date: 2024-10-23 08:42:50)
+
+---
+
+## Motorcyclist Gets Instant Karma, Crashes After He Kicks Car Door
+
+date: 2024-10-23, from: Ride Apart, Electric Motorcycle News
+
+We all get heated, but this wasn't the time or place.  
+
+<br> 
+
+<https://www.rideapart.com/news/738358/motorcyclist-crashes-kicks-car-door-karma/>
+
+---
+
+## This DIY Hand Truck Go-Kart Is a Menace, and Bloody Inspirational
+
+date: 2024-10-23, from: Ride Apart, Electric Motorcycle News
+
+Everything about this video is feel-good. It almost makes you feel like you could do it yourself. Almost. 
+
+<br> 
+
+<https://www.rideapart.com/news/738225/diy-hand-truck-go-kart-build/>
+
+---
+
+## You Need To Read DJI's Lawsuit Against The US DoD, Grab Some Popcorn
+
+date: 2024-10-23, from: Ride Apart, Electric Motorcycle News
+
+It's a point-by-point refutation in the cattiest, pettiest legalese, and it's hilarious. 
+
+<br> 
+
+<https://www.rideapart.com/news/738375/dji-sues-department-of-defense/>
+
+---
+
+## New Triumph Speed Twin Announced, Gets More Tech and Sportier Performance
+
+date: 2024-10-23, from: Ride Apart, Electric Motorcycle News
+
+Do all these updates water down the Speed Twin 900’s retro appeal?  
+
+<br> 
+
+<https://www.rideapart.com/news/738231/2025-triumph-speed-twin-launch-specs-features/>
+
+---
+
+## Harley Is Recalling Some 2022-2024 Low Riders, Front Brake Issues
+
+date: 2024-10-23, from: Ride Apart, Electric Motorcycle News
+
+An issue during assembly has resulted in front brake lines that could split over time. 
+
+<br> 
+
+<https://www.rideapart.com/news/738226/harley-low-rider-brake-recall/>
 
 ---
 

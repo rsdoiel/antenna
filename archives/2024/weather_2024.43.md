@@ -1,19 +1,442 @@
 ---
 title: weather
-updated: 2024-10-22 16:13:00
+updated: 2024-10-23 08:42:49
 ---
 
 # weather
 
-(date: 2024-10-22 16:13:00)
+(date: 2024-10-23 08:42:49)
 
 ---
 
-## SPC - No watches are valid as of Tue Oct 22 22:14:01 UTC 2024
+## Advisory #008 Forecast Track [kmz] - Hurricane Kristy (EP2/EP122024)
 
-date: 2024-10-22, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-10-23, from: Eastern Pacific Basin GIS Data
 
-No watches are valid as of Tue Oct 22 22:14:01 UTC 2024. 
+KMZ last updated Wed, 23 Oct 2024 14:49:31 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP122024_008adv_TRACK.kmz>
+
+---
+
+## Advisory #008 Wind Field [shp] - Hurricane Kristy (EP2/EP122024)
+
+date: 2024-10-23, from: Eastern Pacific Basin GIS Data
+
+Initial and Forecast Surface Winds. Shapefile last updated Wed, 23 Oct 2024 14:49:23 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/ep122024_fcst_008.zip>
+
+---
+
+## Advisory #008 Cone of Uncertainty [kmz] - Hurricane Kristy (EP2/EP122024)
+
+date: 2024-10-23, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Wed, 23 Oct 2024 14:49:09 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP122024_008adv_CONE.kmz>
+
+---
+
+## Preliminary Best Track [shp] - Hurricane Kristy (EP2/EP122024)
+
+date: 2024-10-23, from: Eastern Pacific Basin GIS Data
+
+Track, Points, and Wind Swath. Shapefile last updated Wed, 23 Oct 2024 14:49:01 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/best_track/ep122024_best_track.zip>
+
+---
+
+## Preliminary Best Track Points [kmz] - Hurricane Kristy (EP2/EP122024)
+
+date: 2024-10-23, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Wed, 23 Oct 2024 14:49:01 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/best_track/ep122024_best_track.kmz>
+
+---
+
+## Advisory #008 Forecast [shp] - Hurricane Kristy (EP2/EP122024)
+
+date: 2024-10-23, from: Eastern Pacific Basin GIS Data
+
+Forecast Track, Cone of Uncertainty, Watches/Warnings. Shapefile last updated Wed, 23 Oct 2024 14:49:01 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/ep122024_5day_008.zip>
+
+---
+
+## Hurricane Kristy Graphics
+
+date: 2024-10-23, from: Eastern Pacific Basin Tropical Cyclones
+
+
+<a href="https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/144851.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP12/EP122024_5day_cone_with_line_and_wind_sm2.png"
+alt="Hurricane Kristy 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Wed, 23 Oct 2024 14:48:51 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/144851.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP12/EP122024_wind_probs_34_F120_sm2.png"
+alt="Hurricane Kristy 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Wed, 23 Oct 2024 15:24:18 GMT
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/refresh/graphics_ep2+shtml/144851.shtml?cone>
+
+---
+
+## CPHC Central North Pacific Outlook
+
+date: 2024-10-23, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_2d0_resize.gif" alt="Central North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_7d0_resize.gif" alt="Central North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC HFOTWOCP ALL<br>TTAA00 PHFO DDHHMM<br><br>Tropical Weather Outlook<br>NWS Central Pacific Hurricane Center Honolulu HI<br>200 AM HST Wed Oct 23 2024<br><br>For the central North Pacific...between 140W and 180W:<br><br>No tropical cyclones are expected during the next 7 days.<br><br>$$<br>Forecaster Shigesato<br>NNNN<br><br></div></div><br />
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## Hurricane Kristy Forecast Discussion Number 8
+
+date: 2024-10-23, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>
+
+000
+WTPZ42 KNHC 231442
+TCDEP2
+ 
+Hurricane Kristy Discussion Number   8
+NWS National Hurricane Center Miami FL       EP122024
+800 AM MST Wed Oct 23 2024
+ 
+The impressive rapid intensification of Kristy has continued this 
+morning. The gradually warming eye of the hurricane is surrounded by 
+a ring of very deep convection, with infrared cloud tops as cold as 
+-75 to -80 deg C. GOES-West derived motion winds indicate good 
+upper-level outflow, particularly over the southern and western 
+portions of the circulation. Subjective Dvorak classifications were 
+a consensus T5.5/102-kt from TAFB and SAB at 12 UTC. Satellite 
+trends suggest Kristy has kept strengthening since that time, and 
+the initial intensity is set at 110 kt, following the rising 
+objective estimates from UW-CIMSS.
+
+The hurricane is moving quickly westward (265/17 kt) while being 
+steered by a strong subtropical ridge to its north. This quick 
+westward motion should continue for the next 24-36 h. Then, an 
+upper-level trough between the Hawaiian Islands and the west coast 
+of the United States is forecast to erode the western extent of the 
+ridge. As a result, Kristy is expected to move toward the 
+west-northwest and northwest late this week and into the weekend. A 
+westward motion is shown by day 5, as it is anticipated that Kristy 
+will become highly sheared and decoupled, with the vertically 
+shallow vortex steered by the low-level ridge. No significant 
+changes were made to the latest NHC track forecast.
+
+Kristy is a relatively small hurricane that remains susceptible to 
+rapid intensity fluctuations in a weak shear environment over warm 
+SSTs. The latest GFS and ECMWF SHIPS output shows a 50 to 60 percent 
+chance of a 20-kt increase during the next 12 h, and the satellite 
+trends suggest continued near-term strengthening is likely. The 
+updated NHC forecast reflects these signals and lies above the 
+intensity guidance in the near term, showing Kristy peaking as a 
+category 4 hurricane on Thursday. By Friday, the aforementioned 
+trough is expected to impart increased shear on the hurricane, which 
+should induce weakening through the rest of the 5-day forecast 
+period. With SHIPS-diagnosed shear values of 40-50 kt by the 
+weekend, Kristy is forecast to quickly weaken over the weekend and 
+degenerate to a post-tropical remnant low by 120 h.   
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  23/1500Z 14.3N 113.9W  110 KT 125 MPH
+ 12H  24/0000Z 14.2N 116.4W  125 KT 145 MPH
+ 24H  24/1200Z 14.1N 119.7W  130 KT 150 MPH
+ 36H  25/0000Z 14.3N 122.5W  125 KT 145 MPH
+ 48H  25/1200Z 15.1N 125.1W  115 KT 130 MPH
+ 60H  26/0000Z 16.5N 127.3W  105 KT 120 MPH
+ 72H  26/1200Z 18.0N 129.3W   90 KT 105 MPH
+ 96H  27/1200Z 20.5N 132.5W   55 KT  65 MPH
+120H  28/1200Z 21.0N 136.5W   30 KT  35 MPH...POST-TROP/REMNT LOW
+ 
+$$
+Forecaster Reinhart
+ 
+</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCDEP2+shtml/231442.shtml>
+
+---
+
+## NHC Eastern North Pacific Outlook
+
+date: 2024-10-23, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=epac&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_pac_2d0_resize.gif" alt="Eastern North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=epac&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_pac_7d0_resize.gif" alt="Eastern North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOEP ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>500 AM PDT Wed Oct 23 2024<br><br>For the eastern North Pacific...east of 140 degrees west longitude:<br><br>Active Systems:<br>The National Hurricane Center is issuing advisories on Hurricane <br>Kristy, located several hundred miles southwest of the southwestern <br>coast of Mexico.<br><br>Tropical cyclone formation is not expected during the next 7 days.<br><br>$$<br>Forecaster Reinhart/Adams<br>NNNN<br><br></div></div><br />
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## Hurricane Kristy Wind Speed Probabilities Number 8
+
+date: 2024-10-23, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>
+
+000
+FOPZ12 KNHC 231441
+PWSEP2
+                                                                    
+HURRICANE KRISTY WIND SPEED PROBABILITIES NUMBER   8                
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP122024               
+1500 UTC WED OCT 23 2024                                            
+                                                                    
+AT 1500Z THE CENTER OF HURRICANE KRISTY WAS LOCATED NEAR LATITUDE   
+14.3 NORTH...LONGITUDE 113.9 WEST WITH MAXIMUM SUSTAINED WINDS NEAR 
+110 KTS...125 MPH...205 KM/H.                                       
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        12Z WED AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       12Z WED 00Z THU 12Z THU 00Z FRI 12Z FRI 12Z SAT 12Z SUN
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             00Z THU 12Z THU 00Z FRI 12Z FRI 12Z SAT 12Z SUN 12Z MON
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+15N 115W       34 97   X(97)   X(97)   X(97)   X(97)   X(97)   X(97)
+15N 115W       50 15   X(15)   X(15)   X(15)   X(15)   X(15)   X(15)
+15N 115W       64  1   X( 1)   X( 1)   X( 1)   X( 1)   X( 1)   X( 1)
+ 
+15N 120W       34  X  81(81)   9(90)   X(90)   X(90)   X(90)   X(90)
+15N 120W       50  X  29(29)  15(44)   X(44)   X(44)   X(44)   X(44)
+15N 120W       64  X  10(10)   9(19)   X(19)   X(19)   X(19)   X(19)
+ 
+15N 125W       34  X   X( X)  13(13)  77(90)   4(94)   X(94)   X(94)
+15N 125W       50  X   X( X)   2( 2)  61(63)  10(73)   X(73)   X(73)
+15N 125W       64  X   X( X)   X( X)  40(40)   9(49)   X(49)   X(49)
+ 
+20N 125W       34  X   X( X)   X( X)   2( 2)   7( 9)   1(10)   X(10)
+ 
+15N 130W       34  X   X( X)   X( X)   2( 2)  13(15)   3(18)   X(18)
+ 
+20N 130W       34  X   X( X)   X( X)   X( X)  38(38)  32(70)   X(70)
+20N 130W       50  X   X( X)   X( X)   X( X)  10(10)  22(32)   X(32)
+20N 130W       64  X   X( X)   X( X)   X( X)   4( 4)  11(15)   X(15)
+ 
+25N 130W       34  X   X( X)   X( X)   X( X)   X( X)   3( 3)   X( 3)
+ 
+20N 135W       34  X   X( X)   X( X)   X( X)   1( 1)  10(11)   7(18)
+20N 135W       50  X   X( X)   X( X)   X( X)   X( X)   1( 1)   2( 3)
+ 
+25N 135W       34  X   X( X)   X( X)   X( X)   X( X)   2( 2)   2( 4)
+ 
+$$                                                                  
+FORECASTER REINHART                                                 
+</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIAPWSEP2+shtml/231441.shtml>
+
+---
+
+## Summary - Hurricane Kristy (EP2/EP122024)
+
+date: 2024-10-23, from: Eastern Pacific Basin GIS Data
+
+...KRISTY RAPIDLY INTENSIFIES INTO A MAJOR HURRICANE... ...ADDITIONAL STRENGTHENING IS EXPECTED...
+ As of 8:00 AM MST Wed Oct 23
+ the center of Kristy was located near 14.3, -113.9
+ with movement W at 20 mph.
+ The minimum central pressure was 954 mb
+ with maximum sustained winds of about 125 mph. 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCPEP2+shtml/231441.shtml>
+
+---
+
+## Hurricane Kristy Forecast Advisory Number 8
+
+date: 2024-10-23, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>
+
+000
+WTPZ22 KNHC 231441
+TCMEP2
+ 
+HURRICANE KRISTY FORECAST/ADVISORY NUMBER   8
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP122024
+1500 UTC WED OCT 23 2024
+ 
+HURRICANE CENTER LOCATED NEAR 14.3N 113.9W AT 23/1500Z
+POSITION ACCURATE WITHIN  20 NM
+ 
+PRESENT MOVEMENT TOWARD THE WEST OR 265 DEGREES AT  17 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE  954 MB
+MAX SUSTAINED WINDS 110 KT WITH GUSTS TO 135 KT.
+64 KT....... 15NE  10SE  10SW  15NW.
+50 KT....... 30NE  20SE  20SW  30NW.
+34 KT....... 70NE  50SE  40SW  60NW.
+12 FT SEAS..210NE 120SE  60SW 120NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 14.3N 113.9W AT 23/1500Z
+AT 23/1200Z CENTER WAS LOCATED NEAR 14.4N 113.0W
+ 
+FORECAST VALID 24/0000Z 14.2N 116.4W
+MAX WIND 125 KT...GUSTS 150 KT.
+64 KT... 20NE  15SE  15SW  20NW.
+50 KT... 40NE  30SE  30SW  30NW.
+34 KT... 70NE  50SE  40SW  60NW.
+ 
+FORECAST VALID 24/1200Z 14.1N 119.7W
+MAX WIND 130 KT...GUSTS 160 KT.
+64 KT... 20NE  15SE  15SW  20NW.
+50 KT... 40NE  30SE  30SW  40NW.
+34 KT... 80NE  60SE  50SW  80NW.
+ 
+FORECAST VALID 25/0000Z 14.3N 122.5W
+MAX WIND 125 KT...GUSTS 150 KT.
+64 KT... 25NE  20SE  20SW  25NW.
+50 KT... 40NE  40SE  40SW  40NW.
+34 KT... 90NE  60SE  60SW  90NW.
+ 
+FORECAST VALID 25/1200Z 15.1N 125.1W
+MAX WIND 115 KT...GUSTS 140 KT.
+64 KT... 30NE  20SE  20SW  30NW.
+50 KT... 50NE  40SE  40SW  50NW.
+34 KT...100NE  70SE  70SW  90NW.
+ 
+FORECAST VALID 26/0000Z 16.5N 127.3W
+MAX WIND 105 KT...GUSTS 130 KT.
+50 KT... 50NE  40SE  40SW  50NW.
+34 KT...110NE  80SE  70SW 100NW.
+ 
+FORECAST VALID 26/1200Z 18.0N 129.3W
+MAX WIND  90 KT...GUSTS 110 KT.
+50 KT... 50NE  40SE  40SW  50NW.
+34 KT...110NE  70SE  70SW 100NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 100 NM
+ON DAY 4 AND 125 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 27/1200Z 20.5N 132.5W
+MAX WIND  55 KT...GUSTS  65 KT.
+50 KT... 30NE  10SE  10SW  30NW.
+34 KT...100NE  50SE  50SW 100NW.
+ 
+OUTLOOK VALID 28/1200Z 21.0N 136.5W...POST-TROP/REMNT LOW
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 14.3N 113.9W
+ 
+NEXT ADVISORY AT 23/2100Z
+ 
+$$
+FORECASTER REINHART
+ 
+ 
+</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCMEP2+shtml/231441.shtml>
+
+---
+
+## ATCF XML Prototype [xml] - Hurricane Kristy (EP2/EP122024)
+
+date: 2024-10-23, from: Eastern Pacific Basin GIS Data
+
+Issued at  Wed, 23 Oct 2024 14:41:20 GMT. This is only a prototype and the file format may change without notice. 
+
+<br> 
+
+<https://www.nhc.noaa.gov/storm_graphics/EP12/atcf-ep122024.xml>
+
+---
+
+## SPC - No watches are valid as of Wed Oct 23 14:00:02 UTC 2024
+
+date: 2024-10-23, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Wed Oct 23 14:00:02 UTC 2024. 
 
 <br> 
 
@@ -21,11 +444,11 @@ No watches are valid as of Tue Oct 22 22:14:01 UTC 2024.
 
 ---
 
-## SPC - No MDs are in effect as of Tue Oct 22 22:14:01 UTC 2024
+## SPC - No MDs are in effect as of Wed Oct 23 14:00:02 UTC 2024
 
-date: 2024-10-22, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-10-23, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Tue Oct 22 22:14:01 UTC 2024. 
+No Mesoscale Discussions are in effect as of Wed Oct 23 14:00:02 UTC 2024. 
 
 <br> 
 
@@ -33,11 +456,76 @@ No Mesoscale Discussions are in effect as of Tue Oct 22 22:14:01 UTC 2024.
 
 ---
 
+## SPC Oct 23, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-10-23, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0721 AM CDT Wed Oct 23 2024
+
+Valid 231300Z - 241200Z
+
+...NO THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Thunderstorms are unlikely through tonight.
+
+...Upper OH Valley into western NY this evening...
+A midlevel shortwave trough over the upper MS Valley this morning
+will progress east-southeastward to NY/PA and the Mid-Atlantic by
+the end of the period.  Ascent preceding the midlevel trough and an
+associated surface cold front could support some shallow convective
+showers late this afternoon/evening from northeast OH to western NY.
+ However, marginal low-level moisture and minimal buoyancy suggest
+that thunderstorms are unlikely.
+
+...Northern AR to central OK this afternoon...
+Boundary-layer dewpoints near 60 F and surface heating will drive
+surface-based buoyancy this afternoon along a slow-moving front from
+northern AR into central OK.  Thermodynamic profiles suggest some
+potential for deep convection, but forcing for ascent will remain
+shallow/weak at best.  Overall, thunderstorm potential appears too
+limited for an outlook area.
+
+..Thompson/Goss.. 10/23/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2024-10-23, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>800 AM EDT Wed Oct 23 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Tropical cyclone formation is not expected during the next 7 days.<br><br>$$<br>Forecaster Pasch<br>NNNN<br><br></div></div><br />
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
 ## 120h 0.5 Degree Wind Speed Probabilities [shp] - Multiple Basins
 
-date: 2024-10-22, from: Eastern Pacific Basin GIS Data
+date: 2024-10-23, from: Eastern Pacific Basin GIS Data
 
-Shapefile last updated Tue, 22 Oct 2024 21:23:20 GMT 
+Shapefile last updated Wed, 23 Oct 2024 09:24:37 GMT 
 
 <br> 
 
@@ -78,30 +566,6 @@ KMZ last updated Tue, 22 Oct 2024 20:56:13 GMT
 <br> 
 
 <https://www.nhc.noaa.gov/storm_graphics/api/EP122024_005adv_CONE.kmz>
-
----
-
-## Preliminary Best Track [shp] - Hurricane Kristy (EP2/EP122024)
-
-date: 2024-10-22, from: Eastern Pacific Basin GIS Data
-
-Track, Points, and Wind Swath. Shapefile last updated Tue, 22 Oct 2024 20:56:05 GMT 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gis/best_track/ep122024_best_track.zip>
-
----
-
-## Preliminary Best Track Points [kmz] - Hurricane Kristy (EP2/EP122024)
-
-date: 2024-10-22, from: Eastern Pacific Basin GIS Data
-
-KMZ last updated Tue, 22 Oct 2024 20:56:05 GMT 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gis/best_track/ep122024_best_track.kmz>
 
 ---
 
@@ -471,18 +935,6 @@ FORECASTER TORRES-VAZQUEZ/PAPIN=
 
 ---
 
-## ATCF XML Prototype [xml] - Hurricane Kristy (EP2/EP122024)
-
-date: 2024-10-22, from: Eastern Pacific Basin GIS Data
-
-Issued at  Tue, 22 Oct 2024 20:44:08 GMT. This is only a prototype and the file format may change without notice. 
-
-<br> 
-
-<https://www.nhc.noaa.gov/storm_graphics/EP12/atcf-ep122024.xml>
-
----
-
 ## SPC Oct 22, 2024 2000 UTC Day 1 Convective Outlook
 
 date: 2024-10-22, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -615,131 +1067,6 @@ highlights in later forecasts.
 <br> 
 
 <https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2024-10-22, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>200 PM EDT Tue Oct 22 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active Systems:<br>The National Hurricane Center has issued a special, final advisory <br>on the remnants of Oscar, located near the central and southeastern <br>Bahamas.<br><br>Tropical cyclone formation is not expected during the next 7 days.<br><br>$$<br>Forecaster Papin/Torres-Vazquez<br>NNNN<br><br></div></div><br />
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
-
----
-
-## Central North Pacific Tropical Weather Outlook
-
-date: 2024-10-22, from: Central Pacific Basin Tropical Cyclones
-
-
-<br/>
-000<br/>
-ACPN50 PHFO 221748<br/>
-TWOCP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS Central Pacific Hurricane Center Honolulu HI<br/>
-800 AM HST Tue Oct 22 2024<br/>
-<br/>
-For the central North Pacific...between 140W and 180W:<br/>
-<br/>
-No tropical cyclones are expected during the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster Kino<br/>
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
-## Eastern North Pacific Tropical Weather Outlook
-
-date: 2024-10-22, from: Eastern Pacific Basin Tropical Cyclones
-
-
-<br/>
-000<br/>
-ABPZ20 KNHC 221710<br/>
-TWOEP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS National Hurricane Center Miami FL<br/>
-1100 AM PDT Tue Oct 22 2024<br/>
-<br/>
-For the eastern North Pacific...east of 140 degrees west longitude:<br/>
-<br/>
-Active Systems:<br/>
-The National Hurricane Center is issuing advisories on Tropical <br/>
-Storm Kristy, located a few hundred miles south-southwest of the <br/>
-southwestern coast of Mexico.<br/>
-<br/>
-Tropical cyclone formation is not expected during the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster Papin/Torres-Vazquez<br/>
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
-## SPC Oct 22, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-10-22, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0626 AM CDT Tue Oct 22 2024
-
-Valid 221300Z - 231200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Severe thunderstorms are not expected today through tonight.
-
-...Synopsis...
-A midlevel shortwave trough over IA/MO will continue eastward toward
-Lower MI/IN/OH and lose amplitude, while phasing gradually with an
-upstream trough now over MT.  Isolated, elevated thunderstorms will
-be possible this morning across the middle MS Valley in the zone of
-ascent.  Weak buoyancy and ascent will come out of phase by later
-this afternoon into tonight, when the threat for thunderstorms will
-diminish.  Farther north, weak convection and isolated lightning
-flashes may occur across northeast MN in a band of ascent and
-minimal buoyancy along a cold front this afternoon/evening.
-
-Elsewhere, lingering low-level moisture, a subtle midlevel trough,
-and surface heating over higher terrain could support isolated
-thunderstorms this afternoon over the Davis Mountains in southwest
-TX.
-
-..Thompson/Goss.. 10/22/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 
 ---
 

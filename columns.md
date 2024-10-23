@@ -1,11 +1,239 @@
 ---
 title: columns
-updated: 2024-10-22 16:13:00
+updated: 2024-10-23 08:42:49
 ---
 
 # columns
 
-(date: 2024-10-22 16:13:00)
+(date: 2024-10-23 08:42:49)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-23, from: Dave Winer's Scripting News)
+
+I think it's probably too late, anyway. Journalism should have reported, constantly, that the house is on fire. And nothing else. Biden's age didn't enter into it you fools. The much bigger story was and is that Hitler wants to be president, and this time he has a plan. It was true then and it's true now. The next question is what will Biden do if Trump wins. It was tough watching Obama greet Trump at the White House in 2016. I can't see Biden doing that. I wonder what ideas they're workshopping in the actual Situation Room. 
+
+<br> 
+
+<http://scripting.com/2024/10/23.html#a152726>
+
+---
+
+##  Before Google, reference librarians answered questions via telephone. &#8220;We learned not merely... 
+
+date: 2024-10-23, updated: 2024-10-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045500-before-google-reference-l>
+
+---
+
+##  This Icelandic hotel offers a unique a valuable service: an aurora wake-up... 
+
+date: 2024-10-23, updated: 2024-10-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045496-this-icelandic-hotel-offe>
+
+---
+
+## Siri Sucks, Even By Apple’s Numbers
+
+date: 2024-10-23, from: Om Malik blog
+
+The Wall Street Journal’s technology columnist Joanna Stern interviewed Apple software chief Craig Federighi (watch the interview) ahead of the Apple Intelligence launch. It is a good chat, but one bit caught my attention: Joanna: Siri was introduced 13 years ago, which is kind of hard to believe. Is Siri gonna finally live up to &#8230; 
+
+<br> 
+
+<https://om.co/2024/10/23/siri-sucks-even-by-apples-numbers/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-23, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/09/10/kittyStamp.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Last night I was surprised to see Wolf Blitzer reporting, on CNN, on all the worst things Trump has said, with supporting video. On CNN, one of the worst <a href="https://en.wikipedia.org/wiki/Sanewashing">sanewashing</a> sources for our would-be despot. I can't imagine what happened there. Or maybe I can. Is it possible that the <a href="https://en.wikipedia.org/wiki/Warner_Bros._Discovery">owners</a> of <a href="https://en.wikipedia.org/wiki/CNN">CNN</a> who might have gotten an education and possibly studied a little history from teachers who remembered WW II, and understood that Trump's lines are straight from <a href="https://en.wikipedia.org/wiki/Mein_Kampf">Mein Kampf</a>, and maybe perhaps possibly maybe with only two weeks to go before the election started envisioning themselves and family on trains to American death camps. After all CNN ran some perceivably negative stuff about Trump, and who knows maybe President Trump won't be so discerning and might just have all media people euthanized. <a href="https://www.youtube.com/watch?v=eXygknVeLGE">It could happen</a>. Maybe visions of their own mortality caught up with them and they decided to let Blitzer do what he can to douse the flames. Oddly the same thing seems to have happened at the <a href="http://scripting.com/2024/10/18/164631.html">NY Times</a> and the Atlantic, and Trump's former <a href="https://www.nytimes.com/2024/10/22/us/politics/john-kelly-trump-fitness-character.html">Chief of Staff</a> has gone <a href="https://www.npr.org/2024/10/23/g-s1-29490/trump-john-kelly-fascist-dictator">on the record</a> now, with audio, explaining what we all know is waiting for us if the US actually goes down the path it appears we quite possibly are going down. 
+
+<br> 
+
+<http://scripting.com/2024/10/23.html#a134943>
+
+---
+
+## The American Housing Crisis: A Theft, Not a Shortage
+
+date: 2024-10-23, from: Economics from the Top-Down
+
+<p><img width="150" height="150" src="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2024/10/rent_poor_cover.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2024/10/rent_poor_cover.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2024/10/rent_poor_cover.png?resize=450%2C450&amp;ssl=1 450w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2024/10/rent_poor_cover.png?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2024/10/rent_poor_cover.png?resize=550%2C550&amp;ssl=1 550w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2024/10/rent_poor_cover.png?zoom=2&amp;resize=150%2C150&amp;ssl=1 300w" sizes="(max-width: 150px) 100vw, 150px" data-attachment-id="9520" data-permalink="https://economicsfromthetopdown.com/2024/10/23/the-american-housing-crisis-a-theft-not-a-shortage/rent_poor_cover/" data-orig-file="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2024/10/rent_poor_cover.png?fit=3000%2C2700&amp;ssl=1" data-orig-size="3000,2700" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="rent_poor_cover" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2024/10/rent_poor_cover.png?fit=300%2C270&amp;ssl=1" data-large-file="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2024/10/rent_poor_cover.png?fit=723%2C651&amp;ssl=1" tabindex="0" role="button" />I test if the US housing crisis could be solved by taking money from the rich and handing it too the poor. Spoilers ... it would work.</p>
+<p>The post <a href="https://economicsfromthetopdown.com/2024/10/23/the-american-housing-crisis-a-theft-not-a-shortage/">The American Housing Crisis: A Theft, Not a Shortage</a> appeared first on <a href="https://economicsfromthetopdown.com">Economics from the Top Down</a>.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://economicsfromthetopdown.com/wp-content/uploads/2024/10/fix_housing_crisis_20241022.mp3"></source>
+</audio> <a href="https://economicsfromthetopdown.com/wp-content/uploads/2024/10/fix_housing_crisis_20241022.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://economicsfromthetopdown.com/2024/10/23/the-american-housing-crisis-a-theft-not-a-shortage/>
+
+---
+
+## SuperHTML is here to rescue you from syntax errors, and it's FOSS
+
+date: 2024-10-23, updated: 2024-10-23, from: Liam Proven's articles at the Register
+
+<h4>Author would like to see a switch back to plain old static HTML. Us too</h4>
+      <p>Developer Loris Cro reckons his LSP language server for HTML is a world first, and that the absence of such tools up to now has had grave consequences for the web.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/10/23/superhtml_live_html_syntax_checking/>
+
+---
+
+## Office Hours: If Harris wins but it's extremely close in battleground states — what happens then? 
+
+date: 2024-10-23, from: Robert Reich's blog
+
+Four scenarios 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-if-harris-wins-but-the>
+
+---
+
+## 2024-10-22 Preparing Chinese tea for beginners
+
+date: 2024-10-23, from: Alex Schroeder's Blog
+
+<h1 id="2024-10-22-preparing-chinese-tea-for-beginners">2024-10-22 Preparing Chinese tea for beginners</h1>
+
+<p>This is a continuation of <a href="2021-07-12_Preparing_Japanese_green_tea_for_beginners">2021-07-12 Preparing Japanese green tea for beginners</a>. This page is about the Chinese and Taiwanese tea I often drink: loose leaf oolong tea and <a href="https://en.wikipedia.org/wiki/Pu%27er_tea">pu&rsquo;er tea</a> (fermented tea) in a brick (round disks about as big as two hands next to each other). That would be tea costing around CHF 30/50g or CHF 220/375g.</p>
+
+<p>The rule I use is simple:</p>
+
+<ol>
+<li>boil water</li>
+<li>wet the tea leaves for a few seconds and throw the water away (&ldquo;washing&rdquo; the leaves)</li>
+<li>pour more hot water onto the leaves and let it steep for 1 minute</li>
+<li>drink it</li>
+</ol>
+
+<p>Repeat the 1 min steep as often as you want.</p>
+
+<p>I usually try to do this at least three times. I often find that the fourth time around the flavour is much reduced and I will stop. In addition to that, by the time I have drunk three cups of tea I’m usually in a different mood and no longer into tea.</p>
+
+<p>If the tea is good, it doesn&rsquo;t matter if you forget it while it is steeping. It doesn&rsquo;t turn into the kind of bitterness that zombifies your tongue. It&rsquo;s just bitter but still tasty.</p>
+
+<p>Sometimes I forget the empty pot or cup and resume the steeping hours later. In this time, bacteria haven&rsquo;t eaten away the leaves. There is no mould growing on the leaves. Just pour that hot water, let it steep for a minute and keep drinking tea!</p>
+
+<p>Sometimes I know that the tea is very mild and I&rsquo;ll let it steep for 2 minutes the second time around and 3 minutes the third time around. No problem at all. Tea is flexible. Good tea remains good tea. It tastes a little different but it always tastes good.</p>
+
+<p><a class="tag" href="/search/?q=%23Tea">#Tea</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2024-10-22-chinese-tea>
+
+---
+
+## October 22, 2024
+
+date: 2024-10-23, from: Heather Cox Richardson blog
+
+Former president Trump&#8217;s closing economic argument for the American people is that putting a high tariff wall around the country will bring in so much foreign money that it will fund domestic programs and bring down the deficit, enabling massive tax cuts for the wealthy and corporations. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/october-22-2024>
+
+---
+
+## Intuit’s PR Team Has Seemingly Never Heard of the Streisand Effect
+
+date: 2024-10-23, updated: 2024-10-23, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/2024/10/21/24273820/intuit-ceo-sasan-goodarzi-turbotax-irs-quickbooks-ai-software-decoder-interview>
+
+---
+
+## On the Cusp of Apple Intelligence’s Launch, Joanna Stern Interviews Craig Federighi
+
+date: 2024-10-23, updated: 2024-10-23, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.wsj.com/tech/personal-tech/apple-intelligence-3833c320>
+
+---
+
+## Trump: ‘I Need the Kind of Generals That Hitler Had’
+
+date: 2024-10-23, updated: 2024-10-23, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theatlantic.com/politics/archive/2024/10/trump-military-generals-hitler/680327/?gift=aQyUJR7AIw1mJWdQ6Ed6yBO6wQP9bPO_W2YbOcCk1hs&utm_source=copy-link&utm_medium=social&utm_campaign=share>
+
+---
+
+## Former Trump Chief of Staff John Kelly Warns Trump Would Rule Like a Dictator
+
+date: 2024-10-23, updated: 2024-10-23, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.nytimes.com/2024/10/22/us/politics/john-kelly-trump-fitness-character.html?unlocked_article_code=1.UU4.DPJs.yFJntiKSquew&smid=url-share>
+
+---
+
+## Wednesday 23 October, 2024
+
+date: 2024-10-22, from: John Naughton's online diary
+
+L’Eau potable Provence, 2008. Quote of the Day ”Democracy is a system in which parties lose elections.” Adam Przeworski He should have added “and accept that they have lost” when they have. Musical alternative to the morning’s radio news Haydn &#8230; <a href="https://memex.naughtons.org/wednesday-23-october-2024/39992/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-23-october-2024/39992/>
+
+---
+
+##  &#8220;&#8216;I need the kind of generals that Hitler had,&#8217; Trump said in... 
+
+date: 2024-10-22, updated: 2024-10-22, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045507-i-need-the-kind-of>
+
+---
+
+## ★ The Sordid Tale of Rudy Giuliani’s Yankees World Series Rings
+
+date: 2024-10-22, updated: 2024-10-22, from: Daring Fireball
+
+The real story is — shocker — a scandal. An embarrassment for the Yankees, but almost certainly a crime on Giuliani’s part. 
+
+<br> 
+
+<https://daringfireball.net/2024/10/the_sordid_tale_of_rudy_giulianis_yankees_world_series_rings>
 
 ---
 
@@ -18,41 +246,6 @@ date: 2024-10-22, updated: 2024-10-22, from: Jason Kittke's blog
 <br> 
 
 <https://kottke.org/24/10/buster-keaton-and-the-art-of-the-gag-1>
-
----
-
-## 2024-10-22 Preparing Chinese tea for beginners
-
-date: 2024-10-22, from: Alex Schroeder's Blog
-
-<h1 id="2024-10-22-preparing-chinese-tea-for-beginners">2024-10-22 Preparing Chinese tea for beginners</h1>
-
-<p>This is a continuation of <a href="2021-07-12_Preparing_Japanese_green_tea_for_beginners">2021-07-12 Preparing Japanese green tea for beginners</a>. This page is about the Chinese and Taiwanese tea I often drink: loose leaf oolong tea and <a href="https://en.wikipedia.org/wiki/Pu%27er_tea">pu&rsquo;er tea</a> (fermented tea) in a brick (round disks about as big as two hands next to each other. That would be tea costing around CHF 30/50g or CHF 220/375g.</p>
-
-<p>The rule I use is simple:</p>
-
-<ol>
-<li>boil water</li>
-<li>wet the tea leaves for a few seconds and throw the water away (&ldquo;washing&rdquo; the leaves)</li>
-<li>pour more hot water onto the leaves and let it steep for 1 minute</li>
-<li>drink it</li>
-</ol>
-
-<p>Repeat as often as you feel like it.</p>
-
-<p>I usually try to do this at least three times. I often find that the fourth time around the flavour is much reduced.</p>
-
-<p>If the tea is good, it doesn&rsquo;t matter if you forget it. It doesn&rsquo;t turn into the kind of bitterness that zombifies your tongue. It&rsquo;s just bitter but still tasty.</p>
-
-<p>Sometimes I forget the empty pot or cup and repeat the steeping hours later. In this time, bacteria haven&rsquo;t eaten away the leaves. There is no mould growing on the leaves. Just pour that hot water, let it steep for a minute and keep drinking tea!</p>
-
-<p>Sometimes I know that the tea is very mild and I&rsquo;ll let it steep for 2 minutes the second time around and 3 minutes the third time around. No problem at all. Tea is flexible. Good tea remains good tea. It tastes a little different but it always tastes good.</p>
-
-<p><a class="tag" href="/search/?q=%23Tea">#Tea</a></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2024-10-22-chinese-tea>
 
 ---
 

@@ -1,11 +1,341 @@
 ---
 title: pacific
-updated: 2024-10-22 16:12:59
+updated: 2024-10-23 08:42:47
 ---
 
 # pacific
 
-(date: 2024-10-22 16:12:59)
+(date: 2024-10-23 08:42:47)
+
+---
+
+## EA for Keaukaha project contains references to startup company
+
+date: 2024-10-23, from: Hawaii Tribune Harold
+
+
+				<p>Despite appearing in a state environmental assessment, a private company&#8217;s concept for a water treatment facility in Keaukaha remains only hypothetical for now.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/23/hawaii-news/ea-for-keaukaha-project-contains-references-to-startup-company/>
+
+---
+
+## New rules to fight invasive species OK’d
+
+date: 2024-10-23, from: Hawaii Tribune Harold
+
+
+				<p>A series of new rules to manage the spread of invasive species are closer to becoming official.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/23/hawaii-news/new-rules-to-fight-invasive-species-okd/>
+
+---
+
+## Freshman enrollment appears to decline for the first time since 2020
+
+date: 2024-10-23, from: Hawaii Tribune Harold
+
+
+				<p>Freshman enrollment dropped more than 5% from last year at American colleges and universities, the largest decline since 2020 when COVID-19 and distance learning upended higher education, according to preliminary data released Wednesday by the National Student Clearinghouse Research Center, a nonprofit education group.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/23/nation-world-news/freshman-enrollment-appears-to-decline-for-the-first-time-since-2020/>
+
+---
+
+## First new national security launch awards go to SpaceX
+
+date: 2024-10-23, from: Hawaii Tribune Harold
+
+
+				<p>The U.S. Space Force on Friday announced the first two task orders under a revamped five-year program that awards national security missions. Both went to SpaceX.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/23/nation-world-news/first-new-national-security-launch-awards-go-to-spacex/>
+
+---
+
+## With Election Day 2 weeks away, 17 million voters have already cast a ballot
+
+date: 2024-10-23, from: Hawaii Tribune Harold
+
+
+				<p>With two weeks until Election Day, more than 17 million people have already cast their ballots, the clearest sign yet that voting habits were forever changed by the coronavirus pandemic and that early voting has become a permanent feature of the American democratic process. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/23/nation-world-news/with-election-day-2-weeks-away-17-million-voters-have-already-cast-a-ballot/>
+
+---
+
+## Xi, Modi hail Russia ties while meeting Putin at BRICS summit
+
+date: 2024-10-23, from: Hawaii Tribune Harold
+
+
+				<p>Chinese President Xi Jinping and Indian Prime Minister Narendra Modi both praised expanding relations with Russia at bilateral meetings with President Vladimir Putin on Tuesday. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/23/nation-world-news/xi-modi-hail-russia-ties-while-meeting-putin-at-brics-summit/>
+
+---
+
+## Capitol riot defendants face upheld trespassing charges in US court
+
+date: 2024-10-23, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A U.S. appeals court on Tuesday upheld the use of a criminal trespassing charge against nearly all of the 1,500 defendants accused of taking part in the Jan. 6, 2021, attack on the U.S. Capitol, rejecting an attempt to further restrict the charges available to prosecutors. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/23/nation-world-news/capitol-riot-defendants-face-upheld-trespassing-charges-in-us-court/>
+
+---
+
+## Abortions have increased, even for women in states with near-total bans
+
+date: 2024-10-23, from: Hawaii Tribune Harold
+
+
+				<p>In nearly every state that has banned abortion, the number of women receiving abortions increased between 2020 and the end of 2023, according to the most comprehensive account of all abortions by state since the overturning of Roe v. Wade.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/23/nation-world-news/abortions-have-increased-even-for-women-in-states-with-near-total-bans/>
+
+---
+
+## Israel confirms death of heir apparent to slain Hezbollah leader
+
+date: 2024-10-23, from: Hawaii Tribune Harold
+
+
+				<p>TEL AVIV/JERUSALEM/CAIRO &#8212; Israel on Tuesday confirmed it had killed Hashem Safieddine, the heir apparent to late Hezbollah leader Hassan Nasrallah who was killed last month in an Israeli attack targeting the Iran-backed Lebanese militant group. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/23/nation-world-news/israel-confirms-death-of-heir-apparent-to-slain-hezbollah-leader/>
+
+---
+
+## Giuliani ordered to surrender apartment, valuables to Georgia election workers
+
+date: 2024-10-23, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A U.S. judge ordered Rudy Giuliani to turn over control of a luxury New York apartment, jewelry and other valuables to the control of two Georgia election workers seeking to collect nearly $146 million from the former New York mayor in a defamation case. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/23/nation-world-news/giuliani-ordered-to-surrender-apartment-valuables-to-georgia-election-workers/>
+
+---
+
+## Nation and world news in brief for October 23
+
+date: 2024-10-23, from: Hawaii Tribune Harold
+
+
+				<p>E. coli outbreak tied to McDonald&#8217;s Quarter Pounder kills 1, sickens &#0010;dozens in US</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/23/nation-world-news/nation-and-world-news-in-brief-for-october-23/>
+
+---
+
+## County skatepark reopens after being closed during pandemic
+
+date: 2024-10-23, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii County Department of Parks and Recreation celebrated the reopening of the Volcano Skatepark on Saturday following extensive repairs &#8220;completed in collaboration with a contingent of dedicated volunteers from the Volcano and skateboarding communities,&#8221; according to a county press release.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/23/community/county-skatepark-reopens-after-being-closed-during-pandemic/>
+
+---
+
+## ‘Open banking’ rules for consumer data unveiled by US watchdog
+
+date: 2024-10-23, from: Hawaii Tribune Harold
+
+
+				<p>The top U.S. consumer finance watchdog on Tuesday unveiled long-awaited rules that would make it easier for consumers to switch between financial services providers, a move the agency said was aimed at boosting competition. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/23/nation-world-news/open-banking-rules-for-consumer-data-unveiled-by-us-watchdog/>
+
+---
+
+## Former Abercrombie & Fitch CEO Mike Jeffries charged with sex trafficking
+
+date: 2024-10-23, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Mike Jeffries, the former longtime chief executive of Abercrombie &#38;Fitch, has been criminally charged with sex trafficking and prostitution involving dozens of men. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/23/nation-world-news/former-abercrombie-fitch-ceo-mike-jeffries-charged-with-sex-trafficking/>
+
+---
+
+## AstroDay in Kailua-Kona set for Nov. 2
+
+date: 2024-10-23, from: Hawaii Tribune Harold
+
+
+				<p>KAILUA-KONA &#8212; Learners of all ages are invited to Kona Commons Shopping Center in Kailua-Kona from 10 a.m. to 3 p.m. on Saturday, Nov. 2, for AstroDay, an entertainment-filled day of astronomy, robotics and natural sciences.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/23/community/astroday-in-kailua-kona-set-for-nov-2/>
+
+---
+
+## Public invited to Group Bike Ride with lawmaker
+
+date: 2024-10-23, from: Hawaii Tribune Harold
+
+
+				<p>Join state Rep. Greggor Ilagan from 8 a.m. to 1 p.m. on Saturday, Nov. 2, for a free Group Bike Ride to advocate for a safer bike route along Highway 130 from Keaau to Pahoa.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/23/community/public-invited-to-group-bike-ride-with-lawmaker/>
+
+---
+
+## S. Kohala police officer honored
+
+date: 2024-10-23, from: Hawaii Tribune Harold
+
+
+				<p>A South Kohala district police officer recently was honored for his persistence, diligence and determination in keeping the roadways safe.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/23/community/s-kohala-police-officer-honored/>
+
+---
+
+## Charity Walk raises $500K for Big Island nonprofits
+
+date: 2024-10-23, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Lodging &#38;Tourism Association Charity Walk 2024 took place on Saturday, June 22, at Waikoloa Resort. The annual event brought together participants and supporters from across the community, with all proceeds going to local charities and nonprofits.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/23/community/charity-walk-raises-500k-for-big-island-nonprofits/>
+
+---
+
+## $1M facelift to Shidler College of Business auditorium celebrated
+
+date: 2024-10-23, from: University of Hawaiʻi News
+
+<p>The business school auditorium refresh includes new lighting, paint and carpeting.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/22/carolyn-ching-auditorium/">$1M facelift to Shidler College of Business auditorium celebrated</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/22/carolyn-ching-auditorium/>
+
+---
+
+## Kaholokula elected to the National Academy of Medicine
+
+date: 2024-10-23, from: University of Hawaiʻi News
+
+<p>Joseph <span aria-label="Keaweaimoku">Keawe&#699;aimoku</span> Kaholokula is believed to be the first Native Hawaiian to be elected to the academy.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/22/kaholokula-elected-to-nam/">Kaholokula elected to the National Academy of Medicine</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/22/kaholokula-elected-to-nam/>
+
+---
+
+## Astronaut Lacy Veach Day celebrated at IfA
+
+date: 2024-10-23, from: University of Hawaiʻi News
+
+<p>Hands-on activities including papercraft origami, building a robot claw and constructing a paper rocket highlighted the event.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/22/astronaut-lacy-veach-day/">Astronaut Lacy Veach Day celebrated at <abbr>IfA</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/22/astronaut-lacy-veach-day/>
+
+---
+
+## UH Hilo alum creates with Hawaiian, Japanese dance styles
+
+date: 2024-10-23, from: University of Hawaiʻi News
+
+<p><span aria-label="Kelii">Keli&#699;i</span> Kalaukoa Masao Grothmann merged his Native Hawaiian and Japanese ancestral traditions into a career that honors dance and language.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/22/grothmann-hawaiian-japanese-dance-styles/"><abbr>UH</abbr> Hilo alum creates with Hawaiian, Japanese dance styles</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/22/grothmann-hawaiian-japanese-dance-styles/>
+
+---
+
+## Cinematic arts professor earns international acclaim in screenwriting
+
+date: 2024-10-23, from: University of Hawaiʻi News
+
+<p>Considered the top global contest for emerging screenwriters, the Nicholl Fellowship received more than 5,500 entries this year, with Moody’s screenplay standing out as one of just 354 to advance.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/22/moody-earns-international-screenwriting-acclaim/">Cinematic arts professor earns international acclaim in screenwriting</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/22/moody-earns-international-screenwriting-acclaim/>
+
+---
+
+## Acclaimed historian to explore revolution, resisting tyranny in public events
+
+date: 2024-10-23, from: University of Hawaiʻi News
+
+<p>Marcus Rediker is the 2024 Dai Ho Chun Distinguished Chair.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/22/marcus-rediker-public-events/">Acclaimed historian to explore revolution, resisting tyranny in public events</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/22/marcus-rediker-public-events/>
 
 ---
 

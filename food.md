@@ -1,11 +1,201 @@
 ---
 title: food
-updated: 2024-10-22 16:13:02
+updated: 2024-10-23 08:42:51
 ---
 
 # food
 
-(date: 2024-10-22 16:13:02)
+(date: 2024-10-23 08:42:51)
+
+---
+
+## Lentil Salad
+
+date: 2024-10-23, from: Taste of Home
+
+This colorful lentil salad combines hearty lentils with crisp vegetables and a tangy dressing for a satisfying, nutrient-packed dish. Perfect as a main or a side, it's easy to make and ideal for meal prep. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/lentil-salad/>
+
+---
+
+## White Lasagna Soup
+
+date: 2024-10-23, from: Taste of Home
+
+Craving the flavors of lasagna but short on time? Our white lasagna soup is the answer! Itʻs a flavorful weeknight meal that brings together all the best parts of lasagna—tender noodles, savory chicken and a rich, garlicky broth—in a fraction of the time. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/white-lasagna-soup/>
+
+---
+
+## Honduras Coffee Leaders Launching the Cafexpo Trade Show in 2025
+
+date: 2024-10-23, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/atencion-620x414.jpg" class="attachment-large size-large wp-post-image" alt="atencion" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/atencion-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/atencion-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/atencion-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/atencion-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/atencion.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new national coffee trade show for Honduras called Cafexpo is scheduled to debut in San Pedro Sula in March 2025. Coordinated by the Honduran national coffee institute IHCAFE, commercial... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/10/23/honduras-coffee-leaders-launching-the-cafexpo-trade-show-in-2025/>
+
+---
+
+## I Need Recipes For My Specialized Diet
+
+date: 2024-10-23, from: Bon Appetet
+
+On this episode of Dinner SOS, Chris and Desiree Nielsen help callers find recipes that suit their diagnosed conditions. 
+
+<br> 
+
+<https://www.bonappetit.com/story/i-need-recipes-for-my-specialized-diet>
+
+---
+
+## 11th Hour Coffee Expands Time and Space in Santa Cruz
+
+date: 2024-10-23, from: Daily Coffee News
+
+<div><img width="620" height="445" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/11th-Hour-Coffee-bar-Santa-Cruz-1-620x445.jpeg" class="attachment-large size-large wp-post-image" alt="11th Hour Coffee bar Santa Cruz 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/11th-Hour-Coffee-bar-Santa-Cruz-1-620x445.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/11th-Hour-Coffee-bar-Santa-Cruz-1-300x215.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/11th-Hour-Coffee-bar-Santa-Cruz-1-150x108.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/11th-Hour-Coffee-bar-Santa-Cruz-1-768x551.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/11th-Hour-Coffee-bar-Santa-Cruz-1.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Following an extensive three-month remodel, 11th Hour Coffee&#8216;s flagship cafe in downtown Santa Cruz is now open with extended hours and more space.&#160; With a wall removed, the brighter and... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/10/23/11th-hour-coffee-expands-time-and-space-in-santa-cruz/>
+
+---
+
+## Chilaquiles: The Mexican Wave Of Breakfasts
+
+date: 2024-10-23, from: Pepper Scale
+
+For a happy weekend breakfast, chilaquiles tick all the right boxes. Coated by fiery salsa, crisped tortilla strips are topped with refried beans, tangy soured cream, salty feta, and softly poached eggs. It’s like two fab sunrises on one morning. Our chilaquiles are all about ... <p class="read-more-container"><a title="Chilaquiles: The Mexican Wave Of Breakfasts" class="read-more button" href="https://pepperscale.com/chilaquiles/#more-82745" aria-label="Read more about Chilaquiles: The Mexican Wave Of Breakfasts">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/chilaquiles/>
+
+---
+
+## Five Easy Halloween Coffee Costumes For Everyone (And One For James Hoffmann)
+
+date: 2024-10-23, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Coffee themed Halloween costume ideas. 
+
+<br> 
+
+<https://sprudge.com/five-easy-halloween-coffee-costumes-for-everyone-and-one-for-james-hoffmann-256040.html>
+
+---
+
+## Spicy Fish Cakes With Salsa And Garlicky Buttered Zucchini
+
+date: 2024-10-23, from: Pepper Scale
+
+Chances are, you’ll never eat a better fish cake. This spicy fish cakes recipe features finely diced chorizo, cilantro, a few capers, Bird’s Eye chilies, and a couple of salty anchovies — and that’s just the start. It’s a world of flavor. The next time ... <p class="read-more-container"><a title="Spicy Fish Cakes With Salsa And Garlicky Buttered Zucchini" class="read-more button" href="https://pepperscale.com/spicy-fish-cakes-salsa-garlicky-buttered-zucchini/#more-80254" aria-label="Read more about Spicy Fish Cakes With Salsa And Garlicky Buttered Zucchini">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/spicy-fish-cakes-salsa-garlicky-buttered-zucchini/>
+
+---
+
+## Pumpkin Spiced Latte
+
+date: 2024-10-23, from: Pepper Scale
+
+Smooth and creamy with just a hint of spice — that’s what makes this pumpkin spiced latte recipe a hit with anyone who tries it. It’s the kind of beverage that warms you right up and just gets you into the holiday mood. Pumpkin puree ... <p class="read-more-container"><a title="Pumpkin Spiced Latte" class="read-more button" href="https://pepperscale.com/pumpkin-spiced-latte/#more-80435" aria-label="Read more about Pumpkin Spiced Latte">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/pumpkin-spiced-latte/>
+
+---
+
+## Cherry Love Coffee Explores the Wide World of Canephora
+
+date: 2024-10-23, from: The Fresh Cup
+
+<p>Interest in robusta has been growing, but it’s just one of the varieties of the Coffea canephora species. A new tasting box hopes to expand the conversation around canephora. </p>
+<p>The post <a href="https://freshcup.com/cherry-love-coffee-explores-the-wide-world-of-canephora/">Cherry Love Coffee Explores the Wide World of Canephora</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/cherry-love-coffee-explores-the-wide-world-of-canephora/>
+
+---
+
+## Haitian Bouillon
+
+date: 2024-10-23, from: Bon Appetet
+
+Somewhere between a soup and stew, this spicy chicken bouyon is a family favorite. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/haitian-bouillon-bouyon>
+
+---
+
+## The Bouyon That Transported Me to Haiti After Childbirth
+
+date: 2024-10-23, from: Bon Appetet
+
+My daughter’s father, Atibon, loves to make this Haitian soup as a comforting pick-me-up. 
+
+<br> 
+
+<https://www.bonappetit.com/story/fourth-trimester-bouyon>
+
+---
+
+## Black Bean Soup
+
+date: 2024-10-23, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/spicy-vegetarian-black-bean-soup/"><img title="black-bean-soup-small-24-9" src="https://www.isabeleats.com/wp-content/uploads/2024/10/black-bean-soup-small-24-9-400x600.jpg" alt="Vegetarian black bean soup in a bowl topped with avocados, cilantro, and limes." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	This easy and flavorful black bean soup features everyday staple pantry ingredients like canned black beans, vegetable broth, simple seasonings, and sautéed vegetables. It’s easy to make and perfect for a quick lunch or satisfying dinner! Easy and healthy recipes that don’t require an extra trip to the grocery store? Sign me up! I love [&#8230;] 
+
+<br> 
+
+<https://www.isabeleats.com/spicy-vegetarian-black-bean-soup/>
+
+---
+
+## Cajun Shrimp Pasta Recipe
+
+date: 2024-10-23, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/cajun-shrimp-pasta/" title="Cajun Shrimp Pasta Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Cajun-Shrimp-Pasta-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Creamy Cajun Shrimp Pasta ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Cajun-Shrimp-Pasta-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Cajun-Shrimp-Pasta-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Cajun-Shrimp-Pasta-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Cajun-Shrimp-Pasta-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Cajun-Shrimp-Pasta-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Cajun-Shrimp-Pasta-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Cajun-Shrimp-Pasta-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This Cajun shrimp pasta is loaded with succulent shrimp and comforting noodles simmered in a creamy, spicy tomato sauce, perfectly spiced and easy to make!</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/cajun-shrimp-pasta/">Cajun Shrimp Pasta Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/cajun-shrimp-pasta/>
+
+---
+
+## McDonald’s Quarter Pounders Tied to Major E. Coli Outbreak
+
+date: 2024-10-22, from: Taste of Home
+
+<p>The CDC launched an investigation after one death and 49 illnesses were linked to E. coli from McDonald's Quarter Pounders.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/e-coli-mcdonalds-october-2024/">McDonald&#8217;s Quarter Pounders Tied to Major E. Coli Outbreak</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/e-coli-mcdonalds-october-2024/>
 
 ---
 
@@ -249,7 +439,7 @@ Our best steak marinade recipe is a balanced combination of salt, acid, fat and 
 
 date: 2024-10-22, from: Daily Coffee News
 
-<div><img width="620" height="464" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Barista-Davis-Cafe-1-620x464.jpg" class="attachment-large size-large wp-post-image" alt="Barista-Davis-Cafe" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Barista-Davis-Cafe-1-620x464.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Barista-Davis-Cafe-1-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Barista-Davis-Cafe-1-150x112.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Barista-Davis-Cafe-1-768x575.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Barista-Davis-Cafe-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Farmer-owned coffee company Pachamama Coffee recently expanded its presence stateside through multiple new partnerships with nearby UC Davis. Pachamama will now supply the coffee to two student-run coffee houses on... 
+<div><img width="620" height="464" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Barista-Davis-Cafe-1-620x464.jpg" class="attachment-large size-large wp-post-image" alt="Barista-Davis-Cafe" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Barista-Davis-Cafe-1-620x464.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Barista-Davis-Cafe-1-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Barista-Davis-Cafe-1-150x112.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Barista-Davis-Cafe-1-768x575.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Barista-Davis-Cafe-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Farmer-owned coffee company Pachamama Coffee recently expanded its presence stateside through multiple new partnerships with nearby UC Davis. Pachamama will now supply the coffee to two student-run coffee houses on... 
 
 <br> 
 
@@ -261,7 +451,7 @@ date: 2024-10-22, from: Daily Coffee News
 
 date: 2024-10-22, from: Daily Coffee News
 
-<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Qargo-Coffee-1-620x413.jpg" class="attachment-large size-large wp-post-image" alt="Qargo Coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Qargo-Coffee-1-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Qargo-Coffee-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Qargo-Coffee-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Qargo-Coffee-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Qargo-Coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The United States Federal Trade Commission (FTC) last week accused the owners of the Miami-based coffee franchise Qargo Coffee of violating a rarely cited franchise law while racking up $1.25... 
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Qargo-Coffee-1-620x413.jpg" class="attachment-large size-large wp-post-image" alt="Qargo Coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Qargo-Coffee-1-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Qargo-Coffee-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Qargo-Coffee-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Qargo-Coffee-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Qargo-Coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The United States Federal Trade Commission (FTC) last week accused the owners of the Miami-based coffee franchise Qargo Coffee of violating a rarely cited franchise law while racking up $1.25... 
 
 <br> 
 
@@ -345,7 +535,7 @@ Our homemade tomato basil soup recipe is even better than what you may find in a
 
 date: 2024-10-22, from: Daily Coffee News
 
-<div><img width="620" height="432" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Roastino-coffee-roaster-620x432.jpg" class="attachment-large size-large wp-post-image" alt="Roastino coffee roaster" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Roastino-coffee-roaster-620x432.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Roastino-coffee-roaster-300x209.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Roastino-coffee-roaster-150x104.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Roastino-coffee-roaster-768x535.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Roastino-coffee-roaster.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>In an age of sweeping digitization and automation in coffee, the Hungarian boutique equipment company Naked Portafilter is introducing a delightfully sensorial device called the Roastino. Winner of a Best... 
+<div><img width="620" height="432" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Roastino-coffee-roaster-620x432.jpg" class="attachment-large size-large wp-post-image" alt="Roastino coffee roaster" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Roastino-coffee-roaster-620x432.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Roastino-coffee-roaster-300x209.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Roastino-coffee-roaster-150x104.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Roastino-coffee-roaster-768x535.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Roastino-coffee-roaster.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>In an age of sweeping digitization and automation in coffee, the Hungarian boutique equipment company Naked Portafilter is introducing a delightfully sensorial device called the Roastino. Winner of a Best... 
 
 <br> 
 
@@ -821,7 +1011,7 @@ date: 2024-10-21, from: Closet Cooking
 
 date: 2024-10-21, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/green-chili-stew-with-shrimp-and-sausage/" title="Green Chili Stew with Shrimp and Sausage" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Green-Chili-Stew-with-Shrimp-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Green Chili Stew with Shrimp in a bowl" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Green-Chili-Stew-with-Shrimp-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Green-Chili-Stew-with-Shrimp-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Green-Chili-Stew-with-Shrimp-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Green-Chili-Stew-with-Shrimp-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Green-Chili-Stew-with-Shrimp-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Green-Chili-Stew-with-Shrimp-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Green-Chili-Stew-with-Shrimp-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This one-pot green chili stew is loaded with roasted green chilies, hearty potato, smoked sausage, and succulent shrimp, very comforting and delicious.</p>
+<a href="https://www.chilipeppermadness.com/recipes/green-chili-stew-with-shrimp-and-sausage/" title="Green Chili Stew with Shrimp and Sausage" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Green-Chili-Stew-with-Shrimp-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Green Chili Stew with Shrimp in a bowl" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Green-Chili-Stew-with-Shrimp-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Green-Chili-Stew-with-Shrimp-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Green-Chili-Stew-with-Shrimp-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Green-Chili-Stew-with-Shrimp-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Green-Chili-Stew-with-Shrimp-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Green-Chili-Stew-with-Shrimp-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Green-Chili-Stew-with-Shrimp-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This one-pot green chili stew is loaded with roasted green chilies, hearty potato, smoked sausage, and succulent shrimp, very comforting and delicious.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/green-chili-stew-with-shrimp-and-sausage/">Green Chili Stew with Shrimp and Sausage</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 
