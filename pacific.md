@@ -1,11 +1,119 @@
 ---
 title: pacific
-updated: 2024-10-23 08:42:47
+updated: 2024-10-23 09:33:31
 ---
 
 # pacific
 
-(date: 2024-10-23 08:42:47)
+(date: 2024-10-23 09:33:31)
+
+---
+
+## 5 more legislators subpoenaed to testify in Villanueva’s trial
+
+date: 2024-10-23, updated: 2024-10-23, from: Marianas Variety
+
+REPRESENTATIVES Vincent Aldan, Vicente Camacho, John Paul Sablan, Marissa Flores and Vice Speaker Joel Camacho have been subpoenaed by the defense to testify in the bench trial of Shayne Villanueva on Nov. 6. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/5-more-legislators-subpoenaed-to-testify-in-villanueva-s-trial/article_b0cbf5fc-910e-11ef-8516-cf477dc1163b.html>
+
+---
+
+## Hawaii judge to preside over IPI’s bankruptcy case
+
+date: 2024-10-23, updated: 2024-10-23, from: Marianas Variety
+
+ROBERT Faris, U.S. bankruptcy judge for the District of Hawaii, has been appointed to preside over Imperial Pacific International’s bankruptcy case following the recusal of Chief Judge Ramona V. Manglona of the District Court for the NMI. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/hawaii-judge-to-preside-over-ipi-s-bankruptcy-case/article_db6ddda8-90f9-11ef-953d-0b0c1bd78c28.html>
+
+---
+
+## SIS and MCS students raise over $1,500 for Red Cross
+
+date: 2024-10-23, updated: 2024-10-23, from: Marianas Variety
+
+THE presidents of two high school American Red Cross clubs on Saipan brought their schools together to raise over $1,500 in donations for the local chapter of the American Red Cross. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/sis-and-mcs-students-raise-over-1-500-for-red-cross/article_7b5d3c92-90ef-11ef-a3d9-a709345256e2.html>
+
+---
+
+## Decomposing body found in CK building
+
+date: 2024-10-23, updated: 2024-10-23, from: Marianas Variety
+
+A DECOMPOSING body was found in a room on the 2nd floor of Char’s Commercial Building in Chalan Kanoa on Tuesday evening, Oct. 22, according to the Department of Public Safety. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/decomposing-body-found-in-ck-building/article_94c8a90a-90fe-11ef-aa4f-476705138074.html>
+
+---
+
+## PSS Early Intervention Program marks 20 years of serving Tinian
+
+date: 2024-10-23, updated: 2024-10-23, from: Marianas Variety
+
+(PSS) — In expressing its gratitude to Tinian residents, the Early Intervention Program of the Public School System has reaffirmed its dedication to carry on its free early detection services to infants, toddlers, and their families, which the program has been providing in the last 20 years. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/pss-early-intervention-program-marks-20-years-of-serving-tinian/article_14c373d6-9156-11ef-9c07-f73beb058601.html>
+
+---
+
+## NMC nursing graduate Kimberly Hofschneider passes NCLEX-RN
+
+date: 2024-10-23, updated: 2024-10-23, from: Marianas Variety
+
+(NMC) — Northern Marianas College 2024 nursing graduate Kimberly Hofschneider has joined the long list of NMC students who have passed the National Council Licensure Examination for Registered Nurses or NCLEX-RN. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/nmc-nursing-graduate-kimberly-hofschneider-passes-nclex-rn/article_c2c86e5a-9156-11ef-b572-035f4d5c5a7e.html>
+
+---
+
+## OPINION ǀ Truth 66: Malfeasance & WHY Politicians WHY!
+
+date: 2024-10-23, updated: 2024-10-23, from: Marianas Variety
+
+THE Truth of the matter is malfeasant behavior still prevails in our government when WE were PROMISED by the Governor “TRUST” — for TRUE! Why this behavior continues is mind-boggling, as it seems to be acceptable in the absence of any protest. The Governor just declared MORE austerity after two years in office, as it is clear NOTHING has been done to create NEW revenue sources after two years other than the continuous dependency upon the Feds to save us. WHY do our politicians play “safe politics” their entire term and save Bills for election season is the only planning I see on the Hill — WHY!  WHY our politicians flat out REFUSE to even consider the plethora of ideas and recommendation I’ve offered, as it can only be fear of GOP reprisal, bigotry towards outsiders, and/or just don’t care as long as they are sitting, as locals say! 
+
+<br> 
+
+<https://www.mvariety.com/views/columnists/opinion-truth-66-malfeasance-why-politicians-why/article_96993e14-9155-11ef-bfd7-9316ba5b6c87.html>
+
+---
+
+## NMC to host free spring 2025 info session on Oct. 29
+
+date: 2024-10-23, updated: 2024-10-23, from: Marianas Variety
+
+(NMC) — Community members interested in pursuing higher education are invited to attend Northern Marianas College’s free information session regarding the upcoming Spring 2025 semester on Tuesday, Oct. 29, 2024. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/nmc-to-host-free-spring-2025-info-session-on-oct-29/article_1f543b18-9157-11ef-9b18-df5bbe8613d7.html>
+
+---
+
+## Azərbaycanda Qadağan Edilmiş Mərc Oyunları Kimlər Tərəfindən Himayə Edilir? » Bakunews A
+
+date: 2024-10-23, from: FSM Development Bank News
+
+Azərbaycanda Qadağan Edilmiş Mərc Oyunları Kimlər Tərəfindən Himayə Edilir? » Bakunews Az Azərbaycanın Bir Nömrəli Onlayn Kazino Məlumat Mərkəzi 2024 Content Ehtiyatla Oynamaq Üçün Məsləhətlər In Kontaktları Və Müştəri Xidmətləri Xoş Gəlmisiniz Bonusu Vavada Kazino Bonusları Və Serb Oyunları Üçün Ən Yaxşı Promosyonlar Onlayn Kazinonun Normal Işləməsi Üçün Nə Lazımdır? Azərbaycanda Onlayn Rulet Oyunçuları Haqqında 
+
+<br> 
+
+<http://www.fsmdb.fm/2024/10/23/az%c9%99rbaycanda-qadagan-edilmis-m%c9%99rc-oyunlari-kiml%c9%99r-t%c9%99r%c9%99find%c9%99n-himay%c9%99-edilir-bakunews-a/>
 
 ---
 
@@ -741,7 +849,7 @@ date: 2024-10-22, from: Island Times
 
 date: 2024-10-22, from: Island Times
 
-<figure><img width="1024" height="869" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?fit=1024%2C869&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?resize=300%2C255&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?resize=1024%2C869&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?resize=768%2C652&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?resize=1200%2C1018&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?resize=400%2C339&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?resize=706%2C599&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?fit=1024%2C869&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73297" data-permalink="https://islandtimes.org/jica-donates-boat-trailer-to-picrc-as-part-of-joint-coastal-ecosystem-management-project/re2500_dsc_0319/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?fit=1249%2C1060&amp;ssl=1" data-orig-size="1249,1060" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="re2500_DSC_0319" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?fit=300%2C255&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?fit=780%2C662&amp;ssl=1" tabindex="0" role="button" /></figure>
+<figure><img width="1024" height="869" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?fit=1024%2C869&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?resize=300%2C255&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?resize=1024%2C869&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?resize=768%2C652&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?resize=1200%2C1018&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?resize=400%2C339&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?resize=706%2C599&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?fit=1024%2C869&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73297" data-permalink="https://islandtimes.org/jica-donates-boat-trailer-to-picrc-as-part-of-joint-coastal-ecosystem-management-project/re2500_dsc_0319/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?fit=1249%2C1060&amp;ssl=1" data-orig-size="1249,1060" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="re2500_DSC_0319" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?fit=300%2C255&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/re2500_DSC_0319.jpg?fit=780%2C662&amp;ssl=1" tabindex="0" role="button" /></figure>
 <p>Last week, the Palau International Coral Reef Center (PICRC) received a generous donation from the Japanese International Cooperation Agency (JICA) &#8211; a 33-footer double axle boat trailer. This donation is part of the ongoing project ‘Enhancement of Integrated Management of Coastal Ecosystems in Palau for Strengthening their Resilience to Climate Change’, which began in February [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/jica-donates-boat-trailer-to-picrc-as-part-of-joint-coastal-ecosystem-management-project/">JICA donates boat trailer to PICRC as part of joint coastal ecosystem management project</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  

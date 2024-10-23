@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2024-10-23 08:42:50
+updated: 2024-10-23 09:33:33
 ---
 
 # motorcycles
 
-(date: 2024-10-23 08:42:50)
+(date: 2024-10-23 09:33:33)
+
+---
+
+## The New Triumph Tiger Sport 800 Wants To Be Your Favorite Middle Child
+
+date: 2024-10-23, from: Ride Apart, Electric Motorcycle News
+
+What Triumph triple-powered sport tourer sits between 660 and 900? This guy! 
+
+<br> 
+
+<https://www.rideapart.com/news/738364/triumph-tiger-sport-800-triple/>
 
 ---
 

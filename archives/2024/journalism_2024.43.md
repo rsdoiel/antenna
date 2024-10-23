@@ -1,11 +1,23 @@
 ---
 title: journalism
-updated: 2024-10-23 08:42:49
+updated: 2024-10-23 09:33:33
 ---
 
 # journalism
 
-(date: 2024-10-23 08:42:49)
+(date: 2024-10-23 09:33:33)
+
+---
+
+## Why millions of Americans avoid the news — and what it means for the election
+
+date: 2024-10-23, from: Nieman Journalism Lab
+
+Benjamin Toff is one of the leading experts on the rise of news avoidance and one of the authors of this recent book on this issue, based on survey data and interviews with people in Spain, the United Kingdom, and the United States. He was also the leader of the Reuters Institute for the Study of Journalism&#8217;s... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/10/why-millions-of-americans-avoid-the-news-and-what-it-means-for-the-election/>
 
 ---
 

@@ -1,11 +1,53 @@
 ---
 title: central coast
-updated: 2024-10-23 08:42:48
+updated: 2024-10-23 09:33:32
 ---
 
 # central coast
 
-(date: 2024-10-23 08:42:48)
+(date: 2024-10-23 09:33:32)
+
+---
+
+## Learn What Future Has in Store for Santa Maria at State of City Address
+
+date: 2024-10-23, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Maria Valley Chamber invites the community to attend the State of the City address, 7-9 p.m. Nov. 14 at the Radisson Hotel Santa Maria, 3455 Skyway Drive. The [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/learn-what-future-has-in-store-for-santa-maria-at-state-of-city-address/">Learn What Future Has in Store for Santa Maria at State of City Address</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/learn-what-future-has-in-store-for-santa-maria-at-state-of-city-address/>
+
+---
+
+## Dancing ‘Thriller’ Zombies Will be Stalking Courthouse Sunken Gardens
+
+date: 2024-10-23, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>“Thriller” dancers have been taking their zombie flash-mobs up and down the Central Coast this week as they get ready for the Thrill the World event, 2 p.m. Saturday, Oct. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/dancing-thriller-zombies-will-be-stalking-courthouse-sunken-gardens/">Dancing &#8216;Thriller&#8217; Zombies Will be Stalking Courthouse Sunken Gardens</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/dancing-thriller-zombies-will-be-stalking-courthouse-sunken-gardens/>
+
+---
+
+## Zoe Saldaña Wins Film Festival’s American Riviera Award
+
+date: 2024-10-23, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Zoe Saldaña will be honored with the American Riviera Award at the 40th annual Santa Barbara International Film Festival (SBIFF). Saldaña will receive the award Feb. 7 during an in-person [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/zoe-saldana-wins-film-festivals-american-riviera-award/">Zoe Saldaña Wins Film Festival&#8217;s American Riviera Award</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/zoe-saldana-wins-film-festivals-american-riviera-award/>
 
 ---
 
@@ -13,7 +55,7 @@ updated: 2024-10-23 08:42:48
 
 date: 2024-10-23, from: Newshawk, the freshest news in Santa Barbara County
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The lobster fishing boat Forever Girl docked in Portland, Maine." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The lobster fishing boat Forever Girl docked in Portland, Maine." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/08/082324-POD-Ross-Macfadyen.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The post <a href="https://www.noozhawk.com/portland-maine/">Portland, Maine</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  
 
@@ -27,7 +69,7 @@ date: 2024-10-23, from: Newshawk, the freshest news in Santa Barbara County
 
 date: 2024-10-23, from: Newshawk, the freshest news in Santa Barbara County
 
-<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SM-Bonita-Bond1-js.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Yes on K signs can be seen around Santa Maria as the Santa Maria-Bonita School District seeks voter approval of a $77 million bond measure in the Nov. 5 election." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SM-Bonita-Bond1-js.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SM-Bonita-Bond1-js.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SM-Bonita-Bond1-js.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SM-Bonita-Bond1-js.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SM-Bonita-Bond1-js.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SM-Bonita-Bond1-js.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SM-Bonita-Bond1-js.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SM-Bonita-Bond1-js.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SM-Bonita-Bond1-js.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SM-Bonita-Bond1-js.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Yes on K signs can be seen around Santa Maria as the Santa Maria-Bonita School District seeks voter approval of a $77 million bond measure in the Nov. 5 election." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SM-Bonita-Bond1-js.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SM-Bonita-Bond1-js.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SM-Bonita-Bond1-js.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SM-Bonita-Bond1-js.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SM-Bonita-Bond1-js.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SM-Bonita-Bond1-js.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SM-Bonita-Bond1-js.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SM-Bonita-Bond1-js.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-SM-Bonita-Bond1-js.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>With existing campuses serving more students than planned and Santa Maria still growing, Santa Barbara County’s largest school district has asked voters to approve a new bond measure.  The Nov. [&#8230;]</p>
 <p>The post <a href="https://www.noozhawk.com/santa-maria-bonita-school-districts-measure-k-seeks-77-million-for-facilities/">Santa Maria-Bonita School District&#8217;s Measure K Seeks $77 Million for Facilities</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  
@@ -42,7 +84,7 @@ date: 2024-10-23, from: Newshawk, the freshest news in Santa Barbara County
 
 date: 2024-10-23, from: Newshawk, the freshest news in Santa Barbara County
 
-<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-Jewish-experiences-3-RC.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Josh Levine, executive director of Santa Barbara Hillel, an organization that supports Jewish students in Santa Barbara, says they’ve seen anti-semitic graffiti in the past year, posters of the hostages being torn down and Jewish students harassed online." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-Jewish-experiences-3-RC.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-Jewish-experiences-3-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-Jewish-experiences-3-RC.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-Jewish-experiences-3-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-Jewish-experiences-3-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-Jewish-experiences-3-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-Jewish-experiences-3-RC.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-Jewish-experiences-3-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-Jewish-experiences-3-RC.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-Jewish-experiences-3-RC.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Josh Levine, executive director of Santa Barbara Hillel, an organization that supports Jewish students in Santa Barbara, says they’ve seen anti-semitic graffiti in the past year, posters of the hostages being torn down and Jewish students harassed online." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-Jewish-experiences-3-RC.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-Jewish-experiences-3-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-Jewish-experiences-3-RC.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-Jewish-experiences-3-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-Jewish-experiences-3-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-Jewish-experiences-3-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-Jewish-experiences-3-RC.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-Jewish-experiences-3-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-Jewish-experiences-3-RC.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Morgan Guttman was sitting in her chemistry class during spring quarter at UC Santa Barbara when someone burst into the classroom with a megaphone and called for a divestment from [&#8230;]</p>
 <p>The post <a href="https://www.noozhawk.com/jewish-students-reflect-on-year-since-hamas-attack-ucsb-protests/">Jewish Students, Community Reflect On Year Since Hamas Attack, UCSB Protests</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  

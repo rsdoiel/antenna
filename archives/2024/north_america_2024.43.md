@@ -1,11 +1,137 @@
 ---
 title: north america
-updated: 2024-10-23 08:42:46
+updated: 2024-10-23 09:33:31
 ---
 
 # north america
 
-(date: 2024-10-23 08:42:46)
+(date: 2024-10-23 09:33:31)
+
+---
+
+## Voting for Harris another milestone in former President Jimmy Carter's legacy
+
+date: 2024-10-23, from: VOA News USA
+
+Plains, Ga. — In a cavernous store filled with trinkets and knick-knacks, Philip Kurland is surrounded by politics.
+
+
+“We’re the largest political memorabilia dealer in the United States,” he tells VOA as he sorts through numerous bins that line his shop.
+
+
+If there’s a button or badge supporting a political candidate, chances are Kurland has it, as he stops and inspects one button in particular.
+
+
+“This is the number one button people request and come in for,” as he proudly shows an image of a smiling peanut shell.
+
+
+Every four years, Kurland stocks up on items featuring the candidates of the moment, and gauges support by the volume of related memorabilia he sells.
+
+
+“Our sales have always equaled to who has won,” said Kurland. “This year’s election is really hard to even say by my sales.”
+
+
+His store isn’t just any ordinary shop in the country. It’s the Plains Trading Post … as in Plains, Georgia, the hometown of former U.S. President Jimmy Carter with a population of around 600 people, where the streets are lined with dueling signs from the current election supporting both Democrat Kamala Harris and Republican Donald Trump.
+
+
+“For the first time ever, I’d say there was some tension over the upcoming election,” Kurland told VOA.
+
+
+In 2020, Democrat Joe Biden won Sumter County which encompasses Plains, and narrowly won the state of Georgia by 11,779 votes out of more than 5 million cast.
+
+
+“It’s shocking that we’re a battleground state now,” said Kurland, acknowledging that polls continue to show a close race in Georgia this election cycle where both campaigns recognize every vote counts, including a prominent one cast by mail-in ballot from the most famous resident of Plains.
+
+
+“I don’t think he’d miss any opportunity to vote,” said Kurland, “I can remember one time when they passed a new law in the state that you had to show an ID, and he went to vote and didn’t have an ID, and they said, ‘you can’t vote.’
+
+
+And he said, ‘I’m the president of the United States!’ and they said, ‘well, we’re sorry,’ and he had to go home and get an ID to vote, which I thought was hilarious.”
+
+
+“He was excited to turn 100, but he’s more excited to cast his ballot for Vice President Harris,” Jason Carter, Jimmy Carter’s grandson, explained to VOA during a recent interview.
+
+
+Jason Carter currently serves as chairman of the board of the former president’s global nonprofit Carter Center.
+
+
+“It would be an incredible story, at the end of his 100-year life, that is continuing on as we know, to have grown up in the segregated south and for one of his last political acts is to help elect a Black woman who is a president, I do think it would be important,” he said.
+
+
+“Jimmy Carter has already said it was important for him to vote for Barack Obama in 2008,” said Joe Crespino, a professor of history at Emory University.
+
+
+Crespino believes Carter’s vote this year is directly connected to his legacy, specifically his efforts to get the Equal Rights Amendment to the U.S. Constitution, or ERA — which prohibits sex discrimination — ratified by some U.S. states while he was president in the 1970s.
+
+
+“Voting for the first female candidate of color would be important for him not only because of his experiences with race over the course of his life but also his experiences in trying to advance women in public life,” he said.
+
+
+More than 40 years after Carter served in the White House, the ERA is still an unsettled issue as legal debates over its ratification continue.
+
+
+Jason Carter believes with a vote in the 2024 election, his grandfather is thinking as much about the future as he is the past.
+
+
+“I think he wants to see this country brought back together,” said Carter. “I think he wants to reduce that polarization; I think he wants us to focus on what makes us Americans first and fundamentally, and I think he thinks she [Harris] can do that.”
+
+
+Kurland said not everyone in Plains agrees with Jimmy Carter, or his candidate of choice, as he sees not just the tourists but some of the locals stopping in to pick up memorabilia.
+
+
+“Some days you can’t get eight people to say the sun is shining at the same time,” he said.
+
+
+But Kurland admits everyone in Plains honors the man who continues to draw tens of thousands of tourists to their small town each year.
+
+
+“Even though he’s come out for Kamala Harris, everyone that’s not for her would instantly forgive him and still love him,” Kurland said.
+
+
+As election day nears, Jimmy Carter continues to receive hospice care in his modest home in Plains on the edge of town, not far from the Depression-era boyhood farm where his story began 100 years ago. 
+
+<br> 
+
+<https://www.voanews.com/a/voting-for-harris-another-milestone-in-former-president-jimmy-carter-s-legacy/7835958.html>
+
+---
+
+## Taking the Methane Out of Trash
+
+date: 2024-10-23, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MzgyMjY2OC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2ODkwNTA3OX0.s43oZVwCc1YquRNRsE0ELGXNpaTMk8nStcdM1r1M0dI/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>
+<em><strong>Current conditions:</strong> <em>Cyclone Dana, currently over the Bay of Bengal, is set to touch down in eastern India tomorrow • Parts of Texas will see record-breaking or near record-breaking temperatures today and tomorrow • The state of Connecticut is under a red flag warning, with dry conditions leading to brush fires.</em></em>
+</p><h2>THE TOP FIVE</h2><h3>
+1. Simple policy changes could reduce landfill emissions by half, report says</h3><p>
+			A 
+	<a href="https://cdn.sanity.io/files/xdjws328/production/657706be7f29a20fe54692a03dbedce8809721e8.pdf?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_PFv4PbO7SrE4u9yBiLf7_3TJRuuQ-RJp14QiOj4sWfLdcwUYIPrR2It-xYykW9j7j2kpx" rel="noopener noreferrer" target="_blank">new report</a> by the environmental nonprofit Industrious Labs finds that landfill methane emissions could be reduced 56% by 2050 if the Environmental Protection Agency makes a few key changes to the existing Clean Air Act. While landfills are the third largest-source of methane emissions in the U.S., only those with a certain waste capacity are required to implement gas collections systems, which extract greenhouse gasses from the decomposing waste. The report recommends expanding the number of landfills that must install collection systems, as well as requiring landfills to install or expand these systems within one year after waste is placed in a new area. The EPA has committed to <a href="https://www.wastedive.com/news/epa-to-update-landfill-air-emissions-rules-in-2025/722244/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_PFv4PbO7SrE4u9yBiLf7_3TJRuuQ-RJp14QiOj4sWfLdcwUYIPrR2It-xYykW9j7j2kpx" rel="noopener noreferrer" target="_blank">updating these rules in 2025</a>.
+</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="Landfill emissions chart" class="rm-shortcode" data-rm-shortcode-id="58e02f5ed3e043cc17979f3da2df6193" data-rm-shortcode-name="rebelmouse-image" id="4e7da" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81Mzg1MDY5Mi9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc2ODY3MjcwMn0.JLInhX4wzmJRiufRvEb3emIsKKFjDNja_us7eP5a82A/image.png?width=980"/>
+<small class="image-media media-photo-credit" placeholder="Add Photo Credit...">Industrious Labs</small>
+</p><h3>2. Hurricane Oscar kills seven in Cuba<br/>
+</h3><p>
+	Cuba’s president, Miguel Díaz-Canel, confirmed that Hurricane Oscar has left at least seven dead in Cuba, all in the Guantánamo region. The municipalities of San Antonio and Imias have been hardest hit, with unprecedented flooding. The storm made landfall on Cuba in Sunday, and has since been downgraded to a tropical storm as it heads toward Bermuda. Díaz-Canel said that rescue operations are ongoing, and that there are still areas that remain completely inaccessible.
+</p><h3>3. Department of Energy funds clean energy manufacturing in former coal communities</h3><p>
+			The Biden administration 
+	<a href="https://www.energy.gov/articles/biden-harris-administration-announces-nearly-430-million-accelerate-domestic-clean-energy?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_PFv4PbO7SrE4u9yBiLf7_3TJRuuQ-RJp14QiOj4sWfLdcwUYIPrR2It-xYykW9j7j2kpx" target="_blank">announced</a> that it’s providing $428 million in funding for 14 clean energy manufacturing projects across 15 communities with decommissioned coal facilities. This infusion of cash is intended to address critical supply chain vulnerabilities, and is expected to attract over $500 million in private capital while creating over 1,900 jobs. The selected projects focus on five areas: grid components, batteries, low-carbon materials, clean power generation, and energy efficient products. “By leveraging the know-how and skillset of the former coal workforce, we are strengthening our national security while helping advance forward-facing technologies and revitalize communities across the nation,” Secretary of Energy Jennifer Granholm said.
+</p><h3>4. Study: Disruptive climate protests can increase support for mainstream activists</h3><p>
+	Climate activists have quite the history of taking extreme action to make a point — 
+	<a href="https://www.theguardian.com/environment/2022/nov/08/just-stop-oil-protesters-bring-parts-of-m25-to-halt-for-second-day?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_PFv4PbO7SrE4u9yBiLf7_3TJRuuQ-RJp14QiOj4sWfLdcwUYIPrR2It-xYykW9j7j2kpx" rel="noopener noreferrer" target="_blank">blocking roads</a>, <a href="https://www.bbc.com/news/articles/c243v5m0r0lo?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_PFv4PbO7SrE4u9yBiLf7_3TJRuuQ-RJp14QiOj4sWfLdcwUYIPrR2It-xYykW9j7j2kpx" rel="noopener noreferrer" target="_blank">throwing soup</a> at works of art, and <a href="https://www.greenpeace.org/international/press-release/53408/greenpeace-activists-block-russian-oil-tanker-from-offloading-oil-in-norwegian-port/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_PFv4PbO7SrE4u9yBiLf7_3TJRuuQ-RJp14QiOj4sWfLdcwUYIPrR2It-xYykW9j7j2kpx#:~:text=Activists%20in%20a%20boat%20have%20chained%20themselves,Luga%20from%20going%20to%20pier%20and%20offloading." rel="noopener noreferrer" target="_blank">chaining themselves</a> to oil tankers to name a few. While it always causes a stir, a <a href="https://www.nature.com/articles/s41893-024-01444-1?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_PFv4PbO7SrE4u9yBiLf7_3TJRuuQ-RJp14QiOj4sWfLdcwUYIPrR2It-xYykW9j7j2kpx" rel="noopener noreferrer" target="_blank">new study</a> released in <em>Nature</em> finds that these actions could actually be an effective means of increasing support for more moderate climate organizations. <br/>
+<br/>
+	The study’s authors conducted a survey of over 1,400 UK residents before and after the activist group Just Stop Oil shut down traffic on a major highway, which ultimately led to a 3.3% increase in support for the supposedly more moderate environmental group Friends of the Earth. This is likely due to the “radical flank effect,” in which a movement’s fringe boosts support for more mainstream activists by making them seem more reasonable in comparison. One of the study’s authors, Markus Ostarek, <a href="https://www.nature.com/articles/d41586-024-03431-0?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_PFv4PbO7SrE4u9yBiLf7_3TJRuuQ-RJp14QiOj4sWfLdcwUYIPrR2It-xYykW9j7j2kpx" rel="noopener noreferrer" target="_blank">said that</a> though the boost in support was modest, the study indicates that moderate groups could “use these moments of high momentum to directly negotiate with policymakers.”
+</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="Just Stop Oil protesters" class="rm-shortcode" data-rm-shortcode-id="75e4d8ee728286514588d20721027555" data-rm-shortcode-name="rebelmouse-image" id="7b209" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81Mzg1MDcwMi9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTczODc3MjU2OX0.4n9NfPLZgQ79Ul4mM77fdUskC3DHD3nlHZmTj2Ktb-s/image.jpg?width=980"/>
+<small class="image-media media-caption" placeholder="Add Photo Caption...">Protesters assembled outside the court where Just Stop Oil campaigners Phoebe Plummer and Anna Holland were given jail time after throwing tomato soup on a Van Gogh painting in 2022.</small><small class="image-media media-photo-credit" placeholder="Add Photo Credit...">Photo by Peter Nicholls/Getty Images</small>
+</p><h3>5. California county wins approval for state’s first carbon capture and storage project</h3><p>
+			Kern County, located in California’s Central Valley, <a href="https://www.latimes.com/environment/story/2024-10-22/kern-county-approves-first-carbon-capture-project-in-state?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_PFv4PbO7SrE4u9yBiLf7_3TJRuuQ-RJp14QiOj4sWfLdcwUYIPrR2It-xYykW9j7j2kpx" rel="noopener noreferrer" target="_blank">has approved</a> a major carbon capture and storage project spearheaded by California Resources Corp, the largest oil and gas producer in the state. The project aims to capture up to 48 million metric tons of carbon dioxide from the company’s gas field operations, and inject it underground ino the Elk Hills oil field. While the state’s governor, Gavin Newsom, is supportive of this tech, it faces opposition from community members and activists who are worried about leaks and prolonging reliance on fossil fuels. There are 13 other carbon storage projects pending approval in the state.
+		</p><h2>THE KICKER</h2><p>
+	Climate activists will stage a “noise demonstration” outside the office of the International Monetary Fund in Washington, D.C. today, during its annual meeting with the World Bank. They’ll use bullhorns and other noisemakers to ensure that finance ministers “cannot ignore calls for climate action.”</p> 
+
+<br> 
+
+<https://heatmap.news/climate/landfill-methane-coal-communities>
 
 ---
 

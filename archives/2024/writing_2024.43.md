@@ -1,11 +1,26 @@
 ---
 title: writing
-updated: 2024-10-23 08:42:49
+updated: 2024-10-23 09:33:32
 ---
 
 # writing
 
-(date: 2024-10-23 08:42:49)
+(date: 2024-10-23 09:33:32)
+
+---
+
+## Writing Visceral Horror: Interview with 'Daddy's Head' Creator Benjamin Barfoot
+
+date: 2024-10-23, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/writing-visceral-horror-interview-with-daddys-head-creator-benjamin-barfoot" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Daddys%20Head%20-%201.png" alt="Still from the horror film DADDY'S HEAD" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><a href="https://www.imdb.com/name/nm4193669/?ref_=tt_ov_dr_1">Benjamin Barfoot</a>, a screenwriter, director, editor, and composer, is a self-taught filmmaker and self-proclaimed jack-of-all-trades. After getting his start in shorts and animation, he’s moved on to bigger and more ambitious projects—which brings us to his second feature, the Shudder Original <span style="font-style: italic;">Daddy’s Head</span> which just premiered at Fantastic Fest.&nbsp;</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/writing-visceral-horror-interview-with-daddys-head-creator-benjamin-barfoot>
 
 ---
 

@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2024-10-23 08:42:50
+updated: 2024-10-23 09:33:34
 ---
 
 # retro computing
 
-(date: 2024-10-23 08:42:50)
+(date: 2024-10-23 09:33:34)
+
+---
+
+## System76 Unveils an Ampere-Powered Thelio Desktop
+
+date: 2024-10-23, from: Linux Magazine
+
+<p>If you're looking for a new desktop system for developing autonomous driving and software-defined vehicle solutions. System76 has you covered.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/System76-Unveils-an-Ampere-Powered-Thelio-Desktop>
 
 ---
 

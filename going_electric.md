@@ -1,11 +1,39 @@
 ---
 title: going electric
-updated: 2024-10-23 08:42:50
+updated: 2024-10-23 09:33:34
 ---
 
 # going electric
 
-(date: 2024-10-23 08:42:50)
+(date: 2024-10-23 09:33:34)
+
+---
+
+## Tesla Already in Talks With Palo Alto To Deploy Robotaxis
+
+date: 2024-10-23, from: Inside EVs News
+
+The city has confirmed that it has already held preliminary talks with the automaker. 
+
+<br> 
+
+<https://insideevs.com/news/738384/tesla-robotaxi-palo-alto-streets/>
+
+---
+
+## Rivian plant is a hellish nightmare of safety violations: report
+
+date: 2024-10-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Rivian-EDV-production-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Workers describe horror scenes over at the Rivian factory in Normal, Illinois – from cracked skulls to amputated fingers to one person vomiting “Rivian blue”-colored bile after painting R1s without proper safety gear. According to a <a href="https://www.bloomberg.com/news/features/2024-10-22/rivian-s-100k-electric-cars-made-in-plant-racking-up-safety-violations?sref=P6Q0mxvj&amp;embedded-checkout=true">scathing new report in Bloomberg</a>, the American-made EV maker has racked up more “serious” US safety violations than any other automaker since the start of 2023 – despite having only one plant. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian" data-layer-viewtype="unknown" data-post-id="385677" href="https://electrek.co/2024/10/23/rivian-plant-is-a-hellish-nightmare-of-safety-violations-report/#more-385677" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/23/rivian-plant-is-a-hellish-nightmare-of-safety-violations-report/>
 
 ---
 

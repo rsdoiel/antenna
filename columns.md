@@ -1,11 +1,23 @@
 ---
 title: columns
-updated: 2024-10-23 08:42:49
+updated: 2024-10-23 09:33:32
 ---
 
 # columns
 
-(date: 2024-10-23 08:42:49)
+(date: 2024-10-23 09:33:32)
+
+---
+
+##  On Freedom by Timothy Snyder 
+
+date: 2024-10-23, updated: 2024-10-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/on-freedom-by-timothy-snyder>
 
 ---
 

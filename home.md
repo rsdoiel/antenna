@@ -1,11 +1,37 @@
 ---
 title: home
-updated: 2024-10-23 08:42:50
+updated: 2024-10-23 09:33:33
 ---
 
 # home
 
-(date: 2024-10-23 08:42:50)
+(date: 2024-10-23 09:33:33)
+
+---
+
+## How to Overwinter Coleus Plants
+
+date: 2024-10-23, from: The Gardener's Path
+
+<p>Coleus are colorful foliage plants suitable for growing as perennials in Zones 10 to 11, and as annuals elsewhere. With a bit of preparation ahead of time, you can overwinter your plants indoors or protect outdoor specimens from temporary cold spells. Learn how to overwinter coleus plants in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/foliage/overwinter-coleus/">How to Overwinter Coleus Plants</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/foliage/overwinter-coleus/>
+
+---
+
+## FIRA USA ag robotics and automation show this week in Woodland — Secretary Ross and CA Board of Food and Agriculture help get event started
+
+date: 2024-10-23, from: Calfifornia Dept. Aggriculture blog
+
+Note: The FIRA USA event taking place in Woodland from October 22-24, is free and open to all growers. The third annual FIRA USA event in Woodland, California, held at the Yolo County Fairgrounds (October 22 to 24), is a &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28372">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28372>
 
 ---
 

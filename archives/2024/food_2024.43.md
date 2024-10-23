@@ -1,11 +1,35 @@
 ---
 title: food
-updated: 2024-10-23 08:42:51
+updated: 2024-10-23 09:33:34
 ---
 
 # food
 
-(date: 2024-10-23 08:42:51)
+(date: 2024-10-23 09:33:34)
+
+---
+
+## Ube Cheesecake
+
+date: 2024-10-23, from: Taste of Home
+
+Ube cheesecake is a recipe to pull out when you want a dessert that will wow guests with its flavor and appearance. Ube's signature purple color and its sweet, nutty flavor make it both exotic and easy to love. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/ube-cheesecake/>
+
+---
+
+## Vegan Cheesecake
+
+date: 2024-10-23, from: Taste of Home
+
+This luscious vegan cheesecake features a creamy filling, crisp graham cracker crust and fresh berry topping. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/vegan-cheesecake/>
 
 ---
 

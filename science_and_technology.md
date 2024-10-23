@@ -1,11 +1,11 @@
 ---
 title: science and technology
-updated: 2024-10-23 08:42:48
+updated: 2024-10-23 09:33:32
 ---
 
 # science and technology
 
-(date: 2024-10-23 08:42:48)
+(date: 2024-10-23 09:33:32)
 
 ---
 
@@ -165,6 +165,42 @@ date: 2024-10-23, updated: 2024-10-23, from: The Register (UK I.T. News)
 
 ---
 
+## Solving the mystery of ARM7TDMI multiply carry flag
+
+date: 2024-10-23, from: OS News
+
+The processor in the Game Boy Advance, the ARM7TDMI, has a weird characteristic where the carry flag is set to a &#8220;meaningless value&#8221; after a multiplication operation. What this means is that software cannot and should not rely on the value of the carry flag after multiplication executes. It can be set to anything. Any value. 0, 1, a horse, whatever. This has been a source of memes in the emulator development community for a few years &#8211; people would frequently joke about how the implementation of the carry flag may as well be&#160;cpu.flags.c = rand() &#38;amp; 1;. And they had a point &#8211; the carry flag seemed to defy all patterns; nobody understood why it behaves the way it does. But the one thing we did know, was that the carry flag seemed to be&#160;deterministic. That is, under the same set of inputs to a multiply instruction, the flag would be set to the same value. This was big news, because it meant that understanding the carry flag could give us key insight into how this CPU performs multiplication. And just to get this out of the way, the carry flag’s behavior after multiplication isn’t an important detail to emulate at all. Software doesn’t rely on it. And if software&#160;did&#160;rely on it, then screw the developers who wrote that software. But the carry flag is a meme, and it’s a really tough puzzle, and that was motivation enough for me to give it a go. Little did I know it’d take&#160;3 years&#160;of on and off work. ↫ bean machine Please don&#8217;t make me understand any of this. 
+
+<br> 
+
+<https://www.osnews.com/story/140979/solving-the-mystery-of-arm7tdmi-multiply-carry-flag/>
+
+---
+
+## bhyve on FreeBSD and VM live migration: quo vadis?
+
+date: 2024-10-23, from: OS News
+
+When I think about bhyve Live Migration, it’s something I encounter almost daily in my consulting calls. VMware’s struggles with Broadcom’s licensing issues have been a frequent topic, even as we approach the end of 2024. It’s surprising that many customers still feel uncertain about how to navigate this mess. While VMware has been a mainstay in enterprise environments for years, these ongoing issues make customers nervous. And they should be – it’s hard to rely on something when even the licensing situation feels volatile. Now, as much as I’m a die-hard FreeBSD fan, I have to admit that FreeBSD still falls short when it comes to virtualization – at least from an enterprise perspective. In these environments, it’s not just about running a VM; it’s about having the flexibility and capabilities to manage workloads without interruption. Years ago, open-source solutions like KVM (e.g., Proxmox) and Xen (e.g., XCP-ng) introduced features like live migration, where you can move VMs between hosts with zero downtime. Even more recently, solutions like SUSE Harvester (utilizing KubeVirt for running VMs) have shown that this is now an essential part of any virtualization ecosystem. ↫ gyptazy FreeBSD has bhyve, but the part where it falls short, according to gyptazy, is the tool&#8217;s lack of live migration. While competitors and alternatives allow for virtual machines to be migrated without downtime, bhyve users still need to shut down their VMs, interrupt all connections, and thus experience a period of downtime before everything is back up and running again. This is simply not acceptable in most enterprise environments, and as such, bhyve is not an option for most users of that type. Luckily for enterprise FreeBSD users, things are improving. Live migration of bhyve virtual machines is being worked on, and basic live migration is now supported, but with limitations. For instance, only virtual machines with a maximum of 3GB could be migrated live, but that limit has been raised in recent years to 13 to 14GB, which is a lot more palatable. There are also some issues with memory corruption, as well as some other issues. Still, it&#8217;s a massive feat to have live migration at all, and it seems to be improving every year. The linked article goes into much greater detail about where things stand, so if you&#8217;re interested in keeping up with the latest progress regarding bhyve&#8217;s live migration capabilities, it&#8217;s a great place to start. 
+
+<br> 
+
+<https://www.osnews.com/story/140977/bhyve-on-freebsd-and-vm-live-migration-quo-vadis/>
+
+---
+
+## Qualcomm announces Snapdragon 8 Elite flagship smartphone SoC
+
+date: 2024-10-23, from: OS News
+
+At the Snapdragon Summit today, Qualcomm is officially announcing the Snapdragon 8 Elite, its flagship SoC for smartphones. The Snapdragon 8 Elite is a major upgrade from its predecessor, with improvements across the board. Qualcomm is also changing its naming scheme for its flagship SoCs from Snapdragon 8 Gen X to Snapdragon X Elite. ↫ Pradeep Viswanathan at Neowin It&#8217;s wild &#8211; but not entirely unexpected &#8211; how we always seem to end up in a situation in technology where crucial components, such as the operating system or processor, are made by one, or at most two, companies. While there are a few other smartphone system-on-a-chip vendors, they&#8217;re mostly relegated to low-end devices, and can&#8217;t compete on the high end, where the money is, at all. It&#8217;s sadness. Speaking of our mobile SoC overlords, they seem to be in a bit of a pickle when it comes to their core business of, well, selling SoCs. In short, Qualcomm bought Nuvia to use its technology to build the current crop of Snapdragon X Elite and Pro laptop chips. According to ARM, Qualcomm does not have an ARM license to do so, and as such, a flurry of lawsuits between the two companies followed. ARM is now cancelling certain Qualcomm ARM licenses, arguing specifically its laptop Snapdragon X chips should be destroyed. What we&#8217;re looking at here is two industry giants engaged in very public, and very expensive, contract negotiations, using the legal system as their arbiter. This will eventually fizzle out into a new agreement between the two companies with renewed terms and conditions &#8211; and flows of money &#8211; but until that dust has settled, be prepared for an endless flurry of doomerist news items about this story. As for us normal people? We don&#8217;t have to worry one bit about this legal nonsense. It&#8217;s not like we have any choice in smartphone chips anyway. 
+
+<br> 
+
+<https://www.osnews.com/story/140975/qualcomm-announces-snapdragon-8-elite-flagship-smartphone-soc/>
+
+---
+
 ## AI firms and civil society groups plead for passage of federal AI law ASAP
 
 date: 2024-10-23, updated: 2024-10-23, from: The Register (UK I.T. News)
@@ -246,6 +282,18 @@ date: 2024-10-22, updated: 2024-10-22, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2024/10/22/us_chips_credits/>
+
+---
+
+## /tmp should not exist
+
+date: 2024-10-22, from: OS News
+
+I commented on Lobsters that&#160;/tmp&#160;is usually a bad idea, which caused some surprise. I suppose&#160;/tmp&#160;security bugs were common in the 1990s when I was learning Unix, but they are pretty rare now so I can see why less grizzled hackers might not be familiar with the problems. I guess that’s some kind of success, but sadly the fixes have left behind a lot of scar tissue because they didn’t address the underlying problem:&#160;/tmp&#160;should not exist. ↫ Tony Finch Not only is this an excellent, cohesive, and convincing argument against the existence of /tmp, it also contains some nice historical context as to why things are the way they are. Even without the arguments against /tmp, though, it just seems entirely more logical, cleaner, and sensible to have /tmp directories per user in per user locations. While I never would&#8217;ve been able to so eloquently explain the problem as Finch does, it just feels wrong to have every user resort to the exact same directory for temporary files, like a complex confluence of bad decisions you just know is going to cause problems, even if you don&#8217;t quite understand the intricate interplay. 
+
+<br> 
+
+<https://www.osnews.com/story/140968/tmp-should-not-exist/>
 
 ---
 
@@ -333,6 +381,18 @@ Featuring more than 100 original artifacts, a new immersive exhibition in New Yo
 
 ---
 
+## Apple’s AirPods Pro hearing health features are as good as they sound
+
+date: 2024-10-22, from: OS News
+
+Apple announced a trio of major new hearing health features for the AirPods Pro 2 in September, including clinical-grade hearing aid functionality, a hearing test, and more robust hearing protection. All three will roll out next week with the release of iOS 18.1, and they could mark a watershed moment for hearing health awareness. Apple is about to instantly turn the world’s most popular earbuds into an over-the-counter hearing aid. ↫ Chris Welch at The Verge Rightfully so, most of us here have a lot of issues with the major technology companies and the way they do business, but every now and then, even they accidentally stumble into doing something good for the world. AirPods are already a success story, and gaining access to hearing aid-level features at their price point is an absolute game changer for a lot of people with hearing issues &#8211; and for a lot of people who don&#8217;t even yet know they have hearing issues in the first place. If you have people in your life with hearing issues, or whom you suspect may have hearing issues, gifting them AirPods this Christmas season may just be a perfect gift. Yes, I too think hearing aids should be a thing nobody has to pay for and which should just be part of your country&#8217;s universal healthcare coverage &#8211; assuming you have such a thing &#8211; but this is not a bad option as a replacement. 
+
+<br> 
+
+<https://www.osnews.com/story/140964/apples-airpods-pro-hearing-health-features-are-as-good-as-they-sound/>
+
+---
+
 ## Qualcomm unveils Snapdragon 8 Elite with custom cores for Android phones
 
 date: 2024-10-22, updated: 2024-10-22, from: The Register (UK I.T. News)
@@ -378,6 +438,18 @@ date: 2024-10-22, updated: 2024-10-22, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2024/10/22/windows_24h2_update_bsod/>
+
+---
+
+## System76 unveils ARM Ampere Altra workstation
+
+date: 2024-10-22, from: OS News
+
+System76, purveyor of Linux computers, distributions, and now also desktop environments, has just unveiled its latest top-end workstation, but this time, it&#8217;s not an x86 machine. They&#8217;ve been working together with Ampere to build a workstation based around Ampere&#8217;s Altra ARM processors: the Thelio Astra. Phoronix, fine purveyor of Linux-focused benchmarks, were lucky enough to benchmark one, and has more information on the new workstation. System76 designed the Thelio Astra in collaboration with Ampere Computing. The System76 Thelio Astra makes use of Ampere Altra processors up to the Ampere Altra Max 128-core ARMv8 processor that in turn supports 8-channel DDR4 ECC memory. The Thelio Astra can be configured with up to 512GB of system memory, choice of Ampere Altra processors, up to NVIDIA RTX 6000 Ada Generation graphics, dual 10 Gigabit Ethernet, and up to 16TB of PCIe 4.0 NVMe SSD storage. System76 designed the Thelio Astra ARM64 workstation to be complemented by NVIDIA graphics given the pervasiveness of NVIDIA GPUs/accelerators for artificial intelligence and machine learning workloads. The Astra is contained within System76&#8217;s custom-designed, in-house-manufactured Thelio chassis. Pricing on the System76 Thelio Astra will start out at $3,299 USD with the 64-core Ampere Altra Q64-22 processor, 2 x 32GB of ECC DDR4-3200 memory, 500GB NVMe SSD, and NVIDIA A402 graphics card. ↫ Michael Larabel This pricing is actually remarkably favourable considering the hardware you&#8217;re getting. System76 and its employees have been dropping hints for a while now they were working on an ARM variant of their Thelio workstation, and knowing some of the prices others are asking, I definitely expected the base price to hit $5000, so this is a pleasant surprise. With the Altra processors getting a tiny bit long in the tooth, you do notice some oddities here, specifically the DDR4 RAM instead of the modern DDR5, as well as the lack of PCIe 5.0. The problem is that while the Altra has a successor in the AmpereOne processor, its availability is quite limited, and most of them probably end up in datacentres and expensive servers for big tech companies. This newer variant does come with DDR5 and PCIe 5.0 support, but doesn&#8217;t yet have a lower core count version, so even if it were readily available it might simply push the price too far up. Regardless, the Altra is still a ridiculously powerful processor, and at anywhere between 64 and 128 cores, it&#8217;s got power to spare. The Thelio Astra will be available come 12 November, and while I would perform a considerable number of eyebrow-raising acts to get my hands on one, it&#8217;s unlikely System76 will ship one over for a review. Edit: here&#8217;s an excellent and detailed reply to our Mastodon account from an owner of an Ampere Altra workstation, highlighting some of the challenges related to your choice of GPU. Required reading if you&#8217;re interested in a machine like this. 
+
+<br> 
+
+<https://www.osnews.com/story/140961/system76-unveils-arm-ampere-altra-workstation/>
 
 ---
 
@@ -966,6 +1038,30 @@ Born poor in colonial India and dead at 32, Ramanujan had fantastical, out-of-no
 <br> 
 
 <https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/>
+
+---
+
+## Microsoft maintains its own Windows debloat scripts on GitHub
+
+date: 2024-10-21, from: OS News
+
+It&#8217;s no secret that a default Windows installation is&#8230; Hefty. In more ways than one, Windows is a bit on the obese side of the spectrum, from taking up a lot of disk space, to requiring hefty system requirements (artificial or not), to coming with a lot of stuff preinstalled not everyone wants to have to deal with. As such, there&#8217;s a huge cottage industry of applications, scripts, modified installers, custom ISOs, and more, that try to slim Windows down to a more manageable size. As it turns out, even Microsoft itself wants in on this action. The company that develops and sells Windows also provides a Windows debloat script. Over on GitHub, Microsoft maintains a repository of scripts simplify setting up Windows as a development environment, and amid the collection of scripts we find RemoveDefaultApps.ps1, a PowerShell script to &#8220;Uninstall unnecessary applications that come with Windows out of the box&#8221;. The script is about two years old, and as such it includes a few applications no longer part of Windows, but looking through the list is a sad reminder of the kind of junk Windows comes with, most notably mobile casino games for children like Bubble Witch and March of Empires, but also other nonsense like the Mixed Reality Portal or Duolingo. It also removes something called &#8220;ActiproSoftwareLLC&#8220;, which are apparently a set of third-party, non-Microsoft UI controls for WPF? Which comes preinstalled with Windows sometimes? What is even happening over there? The entire set of scripts makes use of Chocolatey wrapped in Boxstarter, which is &#8220;a wrapper for Chocolatey and includes features like managing reboots for you&#8221;, because of course, the people at Microsoft working on Windows can&#8217;t be bothered to fix application management and required reboots themselves. Silly me, expecting Microsoft&#8217;s Windows developers to address these shortcomings internally instead of using third-party tools. The repository seems to be mostly defunct, but the fact it even exists in the first place is such a damning indictment of the state of Windows. People keep telling us Windows is fine, but if even Microsoft itself needs to resort to scripts and third-party tools to make it usable, I find it hard to take claims of Windows being fine seriously in any way, shape, or form. 
+
+<br> 
+
+<https://www.osnews.com/story/140955/microsoft-maintains-its-own-windows-debloat-scripts-on-github/>
+
+---
+
+## Booting Sun SPARC servers
+
+date: 2024-10-21, from: OS News
+
+In early 2022 I got several Sun SPARC servers for free off of a FreeCycle ad: I was recently called out for not providing any sort of update on those devices… so here we go! ↫ Sidneys1.com Some information on booting old-style SPARC machines, as well as pretty pictures. Nice palate-cleanser if you&#8217;ve had to deal with something unpleasant this weekend. This world would be a better place if we all had our own Sun machines to play with when we get sad. 
+
+<br> 
+
+<https://www.osnews.com/story/140953/booting-sun-sparc-servers/>
 
 ---
 
