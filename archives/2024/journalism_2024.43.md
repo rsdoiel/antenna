@@ -1,11 +1,268 @@
 ---
 title: journalism
-updated: 2024-10-23 09:33:33
+updated: 2024-10-24 08:40:39
 ---
 
 # journalism
 
-(date: 2024-10-23 09:33:33)
+(date: 2024-10-24 08:40:39)
+
+---
+
+## Classifieds – October 24, 2024
+
+date: 2024-10-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/24/classifieds-october-24-2024/">Classifieds &#8211; October 24, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/24/classifieds-october-24-2024/>
+
+---
+
+## Dear Sony’s Spider-Man Universe: Please stop
+
+date: 2024-10-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Ahead of “Venom: The Last Dance,” it’s time to look at the mess that has come before it. </p>
+<p>The post <a href="https://dailytrojan.com/2024/10/24/dear-sonys-spider-man-universe-please-stop/">Dear Sony’s Spider-Man Universe: Please stop</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/24/dear-sonys-spider-man-universe-please-stop/>
+
+---
+
+## ‘Scream’ at these scary screenings
+
+date: 2024-10-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Halloween is almost here, so here are a few films to prepare for the spooky season.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/24/scream-at-these-scary-screenings/">‘Scream’ at these scary screenings</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/24/scream-at-these-scary-screenings/>
+
+---
+
+## USC Democrats, Republicans face off
+
+date: 2024-10-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Topics debated included the economy, healthcare, voting rights and the 2024 Presidential election.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/24/usc-democrats-republicans-face-off/">USC Democrats, Republicans face off</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/24/usc-democrats-republicans-face-off/>
+
+---
+
+## Course provides entrepreneurship lessons for non-majors
+
+date: 2024-10-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Class gives students chance to acquire and utilize key business concepts and ideas.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/24/course-provides-entrepreneurship-lessons-for-non-majors/">Course provides entrepreneurship lessons for non-majors</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/24/course-provides-entrepreneurship-lessons-for-non-majors/>
+
+---
+
+## Emma Wu dishes out food-influenced media content within Westwood and beyond
+
+date: 2024-10-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+Emma Wu is making her journey around the world &#8211; one bite at a time.
+The second-year statistics and data science student said she would take pictures of her meals at the top-ranked student dining halls and send them to her parents during her first quarter at UCLA. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/23/emma-wu-dishes-out-food-influenced-media-content-within-westwood-and-beyond/>
+
+---
+
+## Editorial Cartoon: “Cuffing Season”
+
+date: 2024-10-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2024/10/23/editorial-cartoon-cuffing-season/>
+
+---
+
+## Medill’s 2024 State of Local News report expands what it qualifies as local news — and asks readers to point out what it missed
+
+date: 2024-10-23, from: Nieman Journalism Lab
+
+The third annual State of Local News report, released by Medill&#8217;s Local News Initiative Wednesday, chronicles declines in local news across the United States by essentially every important metric: number of newspapers; publication frequency; employment; circulation and readership. The grim numbers on those fronts are unlikely to surprise anyone, but it&#8217;s still striking that some... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/10/medills-2024-state-of-local-news-report-expands-what-it-qualifies-as-local-news-and-asks-readers-to-point-out-what-it-missed/>
+
+---
+
+## Students learn practical ways to go green at Sustainability Day
+
+date: 2024-10-23, from: The Sundail (CSUN Student Newspaper)
+
+There can be a feeling of hopelessness when learning that seemingly harmless everyday decisions may harm the environment. Campus Sustainability Day aimed to ease that feeling offering students simple ideas... 
+
+<br> 
+
+<https://sundial.csun.edu/186578/news/campus-corry-campus-sustainability-day/>
+
+---
+
+## Five protesters subject to conduct proceedings for Rage Week demonstrations
+
+date: 2024-10-23, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>At least five Occidental students who participated in Occidental Students for Justice in Palestine (Oxy SJP) and Occidental Jewish Voice for Peace’s (Oxy JVP) Rage Week are now subject to student conduct proceedings, according to Tobias Lodish (sophomore), the media spokesperson for the protests. The college administration’s response to the Oct. 7 protest outside of [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/10/23/five-protesters-subject-to-conduct-proceedings-for-rage-week-demonstrations/2913462">Five protesters subject to conduct proceedings for Rage Week demonstrations</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/news/2024/10/23/five-protesters-subject-to-conduct-proceedings-for-rage-week-demonstrations/2913462>
+
+---
+
+## Garba Night Unites CSUN community in a celebration of Indian culture
+
+date: 2024-10-23, from: The Sundail (CSUN Student Newspaper)
+
+In the entryway to Redwood Hall, pots overflowing with marigolds and strings of flowers welcomed guests, creating a festive atmosphere. The Indian Student Association (ISA) brought CSUN to life on... 
+
+<br> 
+
+<https://sundial.csun.edu/186558/arts-entertainment/gabra-night-unites-csun-community-in-a-celebration-of-indian-culture/>
+
+---
+
+## ‘The sky’s the limit:’ Occidental College celebrates inauguration of John Branca Institute for Music
+
+date: 2024-10-23, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Occidental College celebrated the establishment of its newest program with a combined concert featuring a capella, Jazz Ensemble, Glee Club, Symphony Orchestra and a faculty ensemble Oct. 18. The John Branca Institute for Music was first announced in June after partner and head of the music department at Ziffren Brittenham LLP John Branca &#8217;72 gifted the school [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/10/23/the-skys-the-limit-occidental-college-celebrates-inauguration-of-john-branca-institute-for-music/2913456">&#8216;The sky&#8217;s the limit:&#8217; Occidental College celebrates inauguration of John Branca Institute for Music</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/news/2024/10/23/the-skys-the-limit-occidental-college-celebrates-inauguration-of-john-branca-institute-for-music/2913456>
+
+---
+
+## New Dean of Students Vivian Garay Santiago supports students through college experience
+
+date: 2024-10-23, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Occidental&#8217;s former Assistant Vice President of Student Affairs Vivian Garay Santiago stepped into the role of Interim Dean of Students for the 2024–2025 academic year, following the departure of Dean of Students Rob Flot. According to Vice President and Chief Operating Officer Amos Himmelstein, when President Emeritus Harry Elam stepped down in June 2024, Elam named Santiago as [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/10/23/new-dean-of-students-vivian-garay-santiago-supports-students-through-college-experience/2913459">New Dean of Students Vivian Garay Santiago supports students through college experience</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/news/2024/10/23/new-dean-of-students-vivian-garay-santiago-supports-students-through-college-experience/2913459>
+
+---
+
+## Student census suggests student population is returning to pre-pandemic numbers
+
+date: 2024-10-23, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Occidental College completed its annual census Sept. 23, which is required of all colleges nationwide, and collects data on student enrollment, according to Registrar James Herr. The data is then sent to the federal government and organizations that report on college student body statistics. “We freeze off information about how many students we have, how many [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/10/23/student-census-suggests-student-population-is-returning-to-pre-pandemic-numbers/2913466">Student census suggests student population is returning to pre-pandemic numbers</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/news/2024/10/23/student-census-suggests-student-population-is-returning-to-pre-pandemic-numbers/2913466>
+
+---
+
+## Students and faculty weigh in on Occidental Library Fat Bear Week
+
+date: 2024-10-23, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>For its third consecutive year, the Occidental Library has hosted Fat Bear Week inspired by the National Park Service Fat Bear Week, which highlights the bears of Alaska&#8217;s Katmai National Park bulking up for hibernation. This year, 128 Grazer, an adult female known for her fearless nature, won in both the national and Occidental competitions. Arts and Humanities Librarian Erin Sulla said [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/10/23/students-and-faculty-weigh-in-on-occidental-library-fat-bear-week/2913452">Students and faculty weigh in on Occidental Library Fat Bear Week</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/news/2024/10/23/students-and-faculty-weigh-in-on-occidental-library-fat-bear-week/2913452>
+
+---
+
+## Students of all ages “Leap Off the Page” in Eagle Rock visual arts class
+
+date: 2024-10-23, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>&#8220;LEAP OFF THE PAGE! Be the Hero in Your Own Story,&#8221; held at Eagle Rock City Hall, is a free-admission visual arts class focused on photography, photo editing and creative writing. According to her Instagram, the class&#8217; teacher Mary Cheung is an artist, creator, costume designer, inventor and design consultant. Cheung said that the goal of [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/community/2024/10/23/students-of-all-ages-leap-off-the-page-in-eagle-rock-visual-arts-class/2913443">Students of all ages &#8220;Leap Off the Page&#8221; in Eagle Rock visual arts class</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/community/2024/10/23/students-of-all-ages-leap-off-the-page-in-eagle-rock-visual-arts-class/2913443>
+
+---
+
+## Artist of the Week: @animalsofoxy Instagram creates smiles among students through pet photos and campus cat sightings
+
+date: 2024-10-23, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Those missing a beloved pet and chronic scrollers alike may come across a few recurring posts on their Instagram feeds featuring dogs, cats, chickens and even a praying mantis or two that can be found around the Occidental campus. The account featuring these posts is called @animalsofoxy, where they highlight the many animals that wander [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2024/10/23/artist-of-the-week-animalsofoxy-instagram-creates-smiles-among-students-through-pet-photos-and-campus-cat-sightings/2913435">Artist of the Week: @animalsofoxy Instagram creates smiles among students through pet photos and campus cat sightings</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2024/10/23/artist-of-the-week-animalsofoxy-instagram-creates-smiles-among-students-through-pet-photos-and-campus-cat-sightings/2913435>
+
+---
+
+## Voters at CD-14 Candidate Forum voice their concerns
+
+date: 2024-10-23, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Incumbent City Councilmember Kevin de León and tenants rights attorney Ysabel Jurado participated in the CD-14 Candidate Forum to address questions residents had concerning community needs. The event was rescheduled from Oct. 5 to Oct. 9 and provided both Spanish and English translations. Attendees at the forum included residents primarily from the Boyle Heights neighborhood. The residents expressed [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/community/2024/10/23/voters-at-cd-14-candidate-forum-voice-their-concerns/2913445">Voters at CD-14 Candidate Forum voice their concerns</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/community/2024/10/23/voters-at-cd-14-candidate-forum-voice-their-concerns/2913445>
+
+---
+
+## Tiny home tenants face barriers moving into affordable housing
+
+date: 2024-10-23, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>An affordable housing development opened in 2023 at 2451 E. Colorado Blvd. According to LA Housing Department Communications Director Sharon Sandow, the development was opened to combat housing insecurity and homelessness. Jane Demian, a member of the Eagle Rock Neighborhood Council (ERNC) Housing and Homelessness Committee, said she worked with residents from the Union Station Tiny Homes, a temporary [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/community/2024/10/23/tiny-home-tenants-face-barriers-moving-into-affordable-housing/2913422">Tiny home tenants face barriers moving into affordable housing</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/community/2024/10/23/tiny-home-tenants-face-barriers-moving-into-affordable-housing/2913422>
 
 ---
 
@@ -39,8 +296,8 @@ date: 2024-10-23, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2024-10-23, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>Editor’s note: This post was updated Oct. 23 at 7:06 p.m. to clarify Betar’s offer of legal aid.</em>
 Pro-Palestine organizations at UCLA set up a Gaza solidarity sukkah for nearly 12 hours Monday. 
-Jewish Voice for Peace at UCLA and Graduate Students for Justice in Palestine at UCLA erected the sukkah &#8211; a temporary structure used to celebrate the weeklong Jewish harvest holiday of Sukkot &#8211; around 8:45 a.m. 
 
 <br> 
 
@@ -90,12 +347,12 @@ date: 2024-10-23, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## Investigation exposes “walk-on” admission backdoor
+## Investigation exposes ‘walk-on’ admission backdoor
 
 date: 2024-10-23, from: The Daily Trojan (USC Student Newspaper)
 
 <p>The report found an 85 to 90% acceptance rate for this path from 2008-2018.</p>
-<p>The post <a href="https://dailytrojan.com/2024/10/23/investigation-exposes-walk-on-admission-backdoor/">Investigation exposes “walk-on” admission backdoor</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/23/investigation-exposes-walk-on-admission-backdoor/">Investigation exposes &#8216;walk-on&#8217; admission backdoor</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <br> 
@@ -313,7 +570,7 @@ As Halloween approaches, CSUN’s Game Development Club (GDC) organized an inter
 
 date: 2024-10-22, from: California Tech (Caltech Student Newspaper)
 
-“Blended Worlds: Experi- ments In Interplanetary Imag- ination,” an exhibit at the Brand Library &amp; Art Center in Glendale, seeks to elucidate the universe through collaborative works by artists and NASA’s Jet Propulsion Laboratory sci- entists and engineers. 
+“Blended Worlds: Experiments In Interplanetary Imagination,” an exhibit at the Brand Library &amp; Art Center in Glendale, seeks to elucidate the universe through collaborative works by artists and NASA’s Jet Propulsion Laboratory scientists and engineers. 
 
 <br> 
 
@@ -325,7 +582,7 @@ date: 2024-10-22, from: California Tech (Caltech Student Newspaper)
 
 date: 2024-10-22, from: California Tech (Caltech Student Newspaper)
 
-For the astute eyes on cam- pus, you may have noticed something different about Caltech Hall, specifically the bridge across the pond. But for those who may not know, the bridge going across Caltech Hall Pond has been complete- ly covered in gold leaf, or so it seems. 
+For the astute eyes on campus, you may have noticed something different about Caltech Hall, specifically the bridge across the pond. But for those who may not know, the bridge going across Caltech Hall Pond has been completely covered in gold leaf. To put it simply, the bridge across Caltech Hall Pond will be closed essentially until the end of Fall term (December 13th), and many of us will have to wait until after the holidays until we can use it again. 
 
 <br> 
 
@@ -337,7 +594,7 @@ For the astute eyes on cam- pus, you may have noticed something different about 
 
 date: 2024-10-22, from: California Tech (Caltech Student Newspaper)
 
-In the heart of Pasadena, nestled between the evergreen dotted hills and the sprawling cityscape, stands a campus symbolizing human ingenuity and environmental harmony: Caltech. Remarkably, what was once a patch- work of open chaparral and agricultural land has transformed into a living laboratory where science meets sustainability. 
+In the heart of Pasadena, nestled between the evergreen dotted hills and the sprawling cityscape, stands a campus symbolizing human ingenuity and environmental harmony: Caltech. Remarkably, what was once a patchwork of open chaparral and agricultural land has transformed into a living laboratory where science meets sustainability. 
 
 <br> 
 

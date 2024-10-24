@@ -1,11 +1,1039 @@
 ---
 title: north america
-updated: 2024-10-23 09:33:31
+updated: 2024-10-24 08:40:37
 ---
 
 # north america
 
-(date: 2024-10-23 09:33:31)
+(date: 2024-10-24 08:40:37)
+
+---
+
+## How to navigate a Shark Tank pitch, according to one contestant
+
+date: 2024-10-24, from: Marketplace Morning Report
+
+<p>For entrepreneurs and aspiring CEOs, one of the ultimate tests of mettle is appearing on the hit show <em>Shark Tank</em>, which pits high-rolling investors against contestants looking for a deal to help take their businesses to the next level of development. We catch up with Megan Klein, founder of Little Saints, a company that has been at the forefront of the non-alcoholic cocktail industry, who recently appeared on the show and made her pitch to the sharks. And, we chat with University of Michigan Professor Erik Gordon about consumer confidence ahead of the election and which candidate voters trust more on the economy.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/24/mmr_20241024_MMR_Podcast_3_64.mp3"></source>
+</audio> <a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/24/mmr_20241024_MMR_Podcast_3_64.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/how-to-navigate-a-shark-tank-pitch-according-to-one-contestant>
+
+---
+
+## 2 Climate Removal Deals, 1 Final Tax Credit Rule
+
+date: 2024-10-24, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MzgyODY3OS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc1NDEyNDY4M30.zgAVEDZEryEAuOkCbkxzxqWqbJeBu4-gnfQ0jRKKt0s/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>
+<em><strong>Current conditions:</strong> <em>Tropical Storm Trami brought widespread flooding to the Philippines, killing at least 24 people • The Southwestern U.S. is experiencing a heatwave, with temperatures as high as <a href="https://www.usatoday.com/story/news/nation/2024/10/03/october-heat-wave-southwest-california-autumn/75489460007/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--NtDHJYmtk36t6YYYzAQHuvl6DlTczduuOWdAJEIM3XZdMNSjQt2FDDEcYknwe21B94L82" rel="noopener noreferrer" target="_blank">25 degrees Fahrenheit</a> above normal • The three NASA astronauts stuck at the International Space Station due to inclement weather are finally on their way home.</em></em>
+</p><h2>THE TOP FIVE</h2><h3>1. Climeworks 🤝 Morgan Stanley</h3><p>
+			The Swiss direct air capture company Climeworks has found a new, deep-pocketed partner in Morgan Stanley. The financial services company will pay an undisclosed amount to Climeworks to suck 40,000 tons of CO2 from the air and store the greenhouse gas underground on its behalf. This is the second largest deal Climeworks has secured to date, following an 80,000-ton sale to Boston Consulting Group, and the company says the purchase will help accelerate progress on its first project in the United States, a 
+	<a href="https://heatmap.news/economy/project-cypress-climeworks-heirloom?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--NtDHJYmtk36t6YYYzAQHuvl6DlTczduuOWdAJEIM3XZdMNSjQt2FDDEcYknwe21B94L82" target="_self">direct air capture hub in Louisiana</a> called Project Cypress.
+</p><h3>2. Microsoft goes big on ocean CDR</h3><p>
+	 Meanwhile, Microsoft is rounding out its already extensive carbon removal portfolio with its first major investment in ocean-based technology. The tech giant agreed to buy up to 350,000 tons of CO2 removal from a startup called Ebb Carbon over the next 10 years, slightly more than its <a href="https://heatmap.news/economy/heirloom-carbon-microsoft-removal?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--NtDHJYmtk36t6YYYzAQHuvl6DlTczduuOWdAJEIM3XZdMNSjQt2FDDEcYknwe21B94L82" target="_self">deal with the direct air capture company Heirloom</a>.
+</p><p>
+	Ebb uses electricity to separate seawater into acidic and basic streams, then returns the basic stream back to the ocean, where it reacts with carbon in the water and promotes faster CO2 absorption from the air. The company must achieve and verify an initial 1,300 tons of CO2 removal before Microsoft commits to buying the remainder. The company has a small pilot project up and running at the Pacific Northwest National Laboratory in Washington, and is working with federal scientists and the University of Washington to measure and model the results.
+</p><h3>3. The IRA’s X-Factor is in full effect</h3><p>
+	The Treasury Department issued final rules this morning for the Advanced Manufacturing Production Tax Credit, also known as 45X. The program is the backbone of the Inflation Reduction Act, offering incentives for domestic manufacturing of the components of solar panels, wind turbines, and batteries, subsidizing every step of the supply chain for these technologies. During a call with reporters on Wednesday, Deputy Secretary of the Treasury Wally Adeyemo said the tax credit has already driven more than $126 billion in private sector clean energy manufacturing investments.<br/>
+<br/>
+	The biggest change introduced in the final rule that the administration highlighted was allowing critical mineral extraction — separately and in addition to mineral processing — to qualify for a 10% tax credit. “The U.S. has major deposits of critical minerals like lithium and palladium. Extracting and processing them here in America, as opposed to relying on China, Russia, and other countries with weak worker and environmental protection, is an economic and national security priority for us,” Adeyemo said.
+</p><div class="horizontal-rule">
+</div><p>
+<em>
+	Get Heatmap AM directly in your inbox every morning:<br/>
+</em>
+</p><p>
+<div id="mc_embed_signup"><form action="https://news.us13.list-manage.com/subscribe/post?u=eacecbac4b1d10158b5b6fbad&id=c5c20b220f&f_id=00a03fe3f0" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" target="_self"><div id="mc_embed_signup_scroll"><div class="indicates-required"><span class="asterisk">*</span> indicates required</div><div class="mc-field-group"><label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label><input class="required email" id="mce-EMAIL" name="EMAIL" placeholder="Your Email" required="" type="email" value=""/><span class="helper_text" id="mce-EMAIL-HELPERTEXT"></span><a class="policy__link" href="/privacy-statement">Our Privacy Policy & Terms Apply.</a></div>
+<li style="display:none!important;"><input checked="" id="mce-group[699211]-699211-2" name="group[699211][8]" type="checkbox" value="1"/></li>
+<input class="hidden hs-am" name="mcam" type="text" value="Yes"/>
+<input class="hidden hs-am" name="mcdaily" type="text" value="Yes"/>
+<div class="clear" id="mce-responses"><div class="response" id="mce-error-response" style="display:none"></div><div class="response" id="mce-success-response" style="display:none"></div></div><!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--><div aria-hidden="true" style="position: absolute; left: -5000px;"><input name="b_eacecbac4b1d10158b5b6fbad_c5c20b220f" tabindex="-1" type="text" value=""/></div><div class="clear"><input class="button" id="mc-embedded-subscribe" name="subscribe" type="submit" value="Sign Up"/></div></div></form></div>
+</p><div class="horizontal-rule">
+</div><h3>4. An update on Vineyard Wind</h3><p>
+	Engineers at GE Vernova, the manufacturer of the Vineyard Wind offshore turbine blade that <a href="https://heatmap.news/climate/vineyard-wind-turbine-nantucket?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--NtDHJYmtk36t6YYYzAQHuvl6DlTczduuOWdAJEIM3XZdMNSjQt2FDDEcYknwe21B94L82" target="_self">crashed into the ocean this summer</a>, have been poring over ultrasound images of its other blades and conducting physical inspections with drones to figure out whether the fiasco was a one-off or a more widespread issue. During an earnings call on Wednesday, CEO Scott Strazik revealed that the company did, in fact, find a similar “manufacturing deviation” in “a very small proportion, low single-digit proportion” of the blades. The company now intends to “remove some blades from the Vineyard Wind farm while strengthening other blades as needed,” according to an <a href="https://www.vineyardwind.com/press-releases/2024/10/23/ge-vernova-and-vineyard-wind-provide-update-on-incident-and-response-action-plan?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--NtDHJYmtk36t6YYYzAQHuvl6DlTczduuOWdAJEIM3XZdMNSjQt2FDDEcYknwe21B94L82" target="_blank">update from Vineyard Wind</a>.
+</p><h3>5. Another (potential) nuclear revival</h3><p>
+			The 600 megawatt Duane Arnold Energy Center just outside Cedar Rapids, Iowa could be the next shuttered nuclear plant to come back from the dead. The plant’s owner, NextEra, is <a href="https://www.bloomberg.com/news/articles/2024-10-23/nextera-very-interested-in-reviving-closed-iowa-nuclear-plant?srnd=phx-green&utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--NtDHJYmtk36t6YYYzAQHuvl6DlTczduuOWdAJEIM3XZdMNSjQt2FDDEcYknwe21B94L82" target="_blank">evaluating a restart</a>, CEO John Ketchum told investors on an earnings call yesterday. “It goes without saying, there’s very strong interest from customers, data-center customers in particular, in that site,” Ketchum said. “We’re in a period of substantial power demand.”
+		</p><h2>THE KICKER<br/>
+</h2><p> Grizzly 399, the world-renowned, 400-pound bear that roamed Grand Teton National Park for nearly 30 years, died tragically on Tuesday after being hit by a Subaru on the highway. She leaves behind more than a dozen offspring, including a cub born just last year that fans have nicknamed “Spirit.”</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="8724f8324fc72a863c0ac1bd768f1cb0" data-rm-shortcode-name="rebelmouse-image" id="35b89" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81Mzg1NDU5My9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc0NjYwNzEyMH0.Np3HDdU4tL8w0GC9csCFDWKnOmIld_fL64XJqd40zkY/image.jpg?width=980"/>
+<small class="image-media media-photo-credit" placeholder="Add Photo Credit...">Jonathan Steele/Getty Images</small></p>
+ 
+
+<br> 
+
+<https://heatmap.news/climate/climeworks-microsoft-45x>
+
+---
+
+## Do people trust government to deliver prosperity? Ask this year’s Nobel laureate
+
+date: 2024-10-24, from: Marketplace Morning Report
+
+<p>Americans nowadays don&#8217;t agree on much, but most have one thing in common: disappointment in their government and the direction of the country. According to University of Chicago Professor James Robinson, who jointly won the Nobel Prize in Economics this year, a lot of this discontentment can be tied back to economic inequality and a perception that economic gains of the past few decades haven&#8217;t substantially improved normal people&#8217;s lives. Plus, an update on Boeing as striking machinists reject the company&#8217;s latest offer in ongoing labor negotiations.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/24/mmr_20241024_MMR_Podcast_2_64.mp3"></source>
+</audio> <a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/24/mmr_20241024_MMR_Podcast_2_64.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/do-people-trust-government-to-deliver-prosperity-ask-this-years-nobel-laureate>
+
+---
+
+## IMF warns about the impact of trade wars
+
+date: 2024-10-24, from: Marketplace Morning Report
+
+<p>From the BBC World Service: In an exclusive BBC interview, IMF Deputy Director Gita Gopinath said tit-for-tat tariffs cause global losses in growth equivalent in size to the economies of France and Germany. And, Canada is one of America&#8217;s largest trading partners, so how do its residents feel about the upcoming election?</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/24/mmr_20241024_MMR_Podcast_1_64.mp3"></source>
+</audio> <a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/24/mmr_20241024_MMR_Podcast_1_64.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/imf-warns-about-the-impact-of-trade-wars>
+
+---
+
+## There Is a Wrong Way to Insulate Your Home
+
+date: 2024-10-24, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MzY4ODI2NC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4OTE4NzkwNX0.lKpRi6NaHPpJRQ_9jjq_dS3iUHVOlFxQjimzaogqjGY/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">
+	When Zara Bode, a musician from Brooklyn, New York, first walked into the old seven-bedroom Victorian in downtown Brattleboro, Vermont, it just felt right. Her husband, also a traveling musician, had grown up nearby. “You walk in this house and you’re like, <em><em>oh, there’s a good vibe</em></em>,” she told me. Since the 1890s, when it was built, it had been a community health center and a food co-op, before being lovingly restored by the older woman who sold it to Bode and her husband in January of 2020. Bode hoped to make it their forever home, a place for friends and family to gather.
+</p><p>
+	Within a month of moving in, she and her husband both lost their incomes in the pandemic. Then they made a brutal discovery: the house was ruinously expensive to heat.
+</p><p>
+	They spent all their time huddled in the kitchen with their two young children in front of the wood burning cookstove and kept the thermostat at 65. Even so, they were running through a full tank of oil every nine days. Each delivery cost more than $1,000, adding up to twice their mortgage every month. They had to ask for government emergency assistance.
+</p><p>
+	Bode started asking around to other families, who told her about a state-funded program that gives out 0% weatherization loans with deferred repayment to low-income families. She got quotes from two different reputable companies, each of which proposed using polyurethane spray foam insulation in the large basement. The buzz in the community was that spray foam is a miracle product — so incredibly insulating that it would cut their heating oil needs down by two-thirds or or more. But Bode was protective of the old Victorian. “I knew it was lucky for us to get this house in the first place. We don’t have the money to make mistakes,” she says.
+</p><p>
+	Without any outside expert to turn to, desperate for relief, and grateful for Vermont’s robust social safety net, she went for it.
+</p><p>
+	She would come to regret it.
+</p><p>
+<strong><br/>
+</strong>
+</p><p class="drop-caps">
+	To hit its climate goals, the U.S. is going to have to upgrade its old housing stock. Residential energy use accounts <a href="https://www.eia.gov/consumption/residential/reports.php" rel="noopener noreferrer" target="_blank"><u>for about 20% of U.S. carbon emissions</u></a>, and the lion’s share of that energy is used to heat and cool homes. At the same time, low-income families are struggling more than ever to shoulder the financial burden of doing that. In 2023, the number of American families needing assistance <a href="https://www.nytimes.com/2023/03/11/us/new-england-heating-costs-oil.html" rel="noopener noreferrer" target="_blank"><u>jumped by 1.3 million</u></a> to over 6 million.
+</p><p>
+	The Inflation Reduction Act is aiming to tackle these twin crises, with a <a href="https://www.energy.gov/save/rebates" rel="noopener noreferrer" target="_blank"><u>tax credit</u></a> covering 30% of the cost of insulation and air-sealing materials, up to $1,200 annually per household. So far only New York has an active IRA-funded home rebate program, but more states have applied to <a href="https://heatmap.news/economy/biden-heat-pump-rebates" target="_self"><u>start handing out funds</u></a> to homeowners over the next year, which should also help shield Americans from the health effects of extreme temperatures.
+</p><p>
+	The problem is, insulating an old home is a delicate and complex process. Improper installation can lead to mold, dry rot in your home’s framing and roof, and poor indoor air quality that can make you sick.
+</p><div class="highlight-box-related">
+<h4 class="highlight-box-related-name">How to decarbonize your life</h4>
+<div class="highlight-box-row">
+<div class="related-article">
+<div class="related-article-inner">
+<a class="related-link" href="https://heatmap.news/decarbonize-your-life/energy-efficient-renovation">Why Energy Efficiency Begins at Home</a>
+<div class="highlight-author">Katie Brigham</div>
+</div>
+</div>
+<div class="related-article">
+<div class="related-article-inner">
+<a class="related-link" href="https://heatmap.news/decarbonize-your-life/energy-efficient-renovation-guide">How to Renovate Your Home to Be Energy Efficient</a>
+<div class="highlight-author">Katie Brigham</div>
+</div>
+</div>
+</div>
+</div><p>
+	“It’s potentially a huge problem,” Francis Offerman, a.k.a. Bud, an industrial hygienist who does indoor air quality testing for homeowners (and lawyers) who suspect a house or apartment is making its inhabitants ill, told me. “Especially if your mindset is, <em><em>we’re going to just spray foam the home</em></em>, and that’s it.”
+</p><p>
+	Bode reached out to me last year after she read my <a href="https://vtdigger.org/2023/05/22/i-wanted-to-cry-devastating-risks-of-spray-foam-insulation-hidden-from-vermont-homeowners/" rel="noopener noreferrer" target="_blank"><u>viral story for </u><u><em><em>VT Digger</em></em></u></a>, which raised the alarm about the risks of spray foam insulation in particular. (Though experts say any insulation done badly can cause problems.) She and her family had vacated their Victorian for a few days in early 2021 while the basement was spray foam insulated. When they moved back in, Bode was struck by the bad paint smell. That eventually went away, and oil deliveries dropped from every nine days to every three weeks.
+</p><p>
+	But then she realized the basement, which used to be bone dry, was now damp all the time. She bought two industrial dehumidifiers that run constantly, and still the smell of mildew wafts up through the floorboards. Bode has allergies to mold and mildew and worries the bad air quality could affect her kids, who also have allergies and asthma. She’s had to move all her furniture and art out of the basement lest it get damaged.
+</p><p>
+	When she saw my article, she felt a mix of emotions. On the one hand, after having her concerns dismissed by the insulation company, she finally felt validated. “That was the first time that I had heard about air exchangers and other things I can’t afford,” Bode told me about reading my article. But she wondered, “Did I ruin a house that’s been standing strong for 140 years?”
+</p><p>
+	The kind of person that could have advised Bode on how to safely insulate her historic home would be someone trained in building science — that is, someone educated in the physics of buildings, who can identify moisture issues and air leaks, recommend appropriate materials and HVAC solutions, and give you a step-by-step plan for implementing them so your home stays healthy and whole.
+</p><p>
+	Unfortunately, many insulation companies, architects, and contractors have either never heard of or are actively hostile to these concepts, which they see as expensive, unnecessary, overly complicated, and (in the case of many spray foam contractors) an impediment to making the sale.
+</p><p>
+	“In the grand scheme of things, building science is a relatively new field,” <a href="https://www.linkedin.com/in/eric-werling-48b9b1b/" rel="noopener noreferrer" target="_blank"><u>Eric Werling</u></a>, who recently retired after 30 years of directing the U.S. Department of Energy’s Building America program to run his own consulting business, told me. “People have studied structural engineering for thousands of years. But air-tightening buildings is a relatively new phenomenon.”
+</p><p>
+	Up until the 1970s, people in the U.S. didn’t think much about insulation. Then the energy crisis struck, and oil shortages caused prices to skyrocket. President Jimmy Carter told Americans to put on a sweater and turn down the thermostat. Letting all that expensive energy flow outside suddenly seemed like a waste of money.
+</p><p>
+	The Department of Energy launched its <a href="https://www.energy.gov/scep/wap/weatherization-assistance-program" rel="noopener noreferrer" target="_blank"><u>Weatherization Assistance Program</u></a> in 1976 for low-income families and created efficiency standards for commercial buildings that relied on the new, synthetic materials that had emerged after WWII. The problem was, as homes and commercial buildings were sealed, a lot of people got sick. The most high profile cases were cancer from chronic radon exposure or quiet but shocking deaths from carbon monoxide poisoning. But there also emerged the autoimmune-adjacent condition called <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2796751/" rel="noopener noreferrer" target="_blank"><u>Sick Building Syndrome</u></a>, a constellation of symptoms related to breathing in VOCs from furniture, carpeting, pesticides, and cleaning products circulating inside a tight building.
+</p><p>
+	“The Department of Energy… screwed it up a lot at the very beginning,” <a href="https://buildingscience.com/users/jlstiburek" rel="noopener noreferrer" target="_blank"><u>Joe Lstiburek</u></a>, a longtime building science consultant, told me. But the DOE started training its weatherization crews, establishing standards for proper insulation, and providing additional funding for safety measures, including mechanical ventilation. “America became a world leader at figuring out how not to rot houses and how not to kill people,” Lstiburek said.
+</p><p>
+	Today, indoor air quality in the workplace has dramatically improved. Aspects of building science have been codified in residential homes as well, with some states requiring that new builds with a tight air seal include mechanical ventilation. But nobody I talked to could point to similar requirements for an existing home that has been retrofitted with insulation. And when I asked Lstiburek if low-income renters and homeowners have access to building science information and advice, he said, “No, they do not.”
+</p><p>
+	According to Werling, there are still probably fewer than a thousand building science experts, and many are eyeing retirement. “Their teachings have impacted thousands –– probably hundreds of thousands –– of people in the construction industry.” He points to New York and Wisconsin as two states that have had robust contractor training programs for the longest. But he admits that’s still a small percentage of the millions of people involved in construction in the U.S.
+</p><p>
+	“There are just too many companies with people who don’t know enough about the issues regarding moisture doing whatever they want and leaving the homeowner with the bill,” Chris West, a <a href="https://www.youtube.com/c/HouseCallsVermont" rel="noopener noreferrer" target="_blank"><u>Vermont-based certified consultant</u></a> and trainer for Passive House, a design standard for ultra-low-energy-consumption homes, told me. “Often these companies have some kind of caveat in their contract that makes the owner responsible for any future issues.”
+</p><p>
+	To make things worse, our homes are more delicate today. New building construction has largely switched from rot- and mold-resistant materials such as hardwood and plaster to cheaper manufactured mold-prone materials like plywood and drywall.
+</p><p>
+	“Green” or “eco” home programs that advise homeowners focus solely on energy efficiency, and tightened energy codes are requiring ever more robust insulation without taking into account existing moisture problems (such as a wet basement or unventilated bathroom), which are not rare. <a href="https://irp.cdn-website.com/562d25c6/files/uploaded/NIOSH-Dampness-and-Mold-Assessment-Tool_DMAT_Documentation-and-Data-Analysis-of-Dampness-and-Mold-Related-Damage-in-Buildings-and-Its-Application_2022.pdf" rel="noopener noreferrer" target="_blank"><u>NIOSH estimates</u></a> about half of all homes have some sort of moisture or mold issue. Residential contractors, architects, and developers, meanwhile, are largely free to ignore building science concepts and go about their business doing things the way they’ve always been done. And there doesn’t seem to be a good plan in place to upskill contractors for this next weatherization push or protect consumers from shoddy workmanship.
+</p><p>
+<strong>“</strong>There isn’t an educational track that’s indoor air quality in universities or colleges,” Offerman told me. “I’m 71 now. I’m gonna retire eventually, and where are the replacements?”
+</p><p class="drop-caps">
+<br/>
+</p><p class="drop-caps">
+	I’ve talked to several homeowners who have been burned by bad insulation jobs, and every one expressed dismay that contractors aren’t required to at least share the potential risks or downsides of getting your home weatherized. For example, homeowners may have to install mechanical ventilation at an extra cost of a few thousand dollars, and spray foam, as opposed to traditional batting insulation, is permanent and all but impossible to remediate or take out.
+</p><p>
+	This information is largely hidden from consumers, even savvy ones like me. I was pitched spray foam by an energy auditor for my own old farmhouse, and I had to go out and <a href="https://vtdigger.org/2023/05/22/i-wanted-to-cry-devastating-risks-of-spray-foam-insulation-hidden-from-vermont-homeowners/" rel="noopener noreferrer" target="_blank"><u>interview a half dozen experts for an article</u></a> and pay $1,000 to West to drive two hours down to audit our house (again) and come up with an alternative plan I was comfortable with.
+</p><p>
+	Werling doesn’t want homeowners to be scared away from weatherizing their homes. “In the vast majority of cases, homeowners are better off when they insulate and air-seal their homes,” he said, “but it’s important to be aware that the house is a complicated system of parts. Hire the right contractor to help avoid potentially costly problems down the road.” He points to the <u>Home Improvement Expert</u> section of the Building America Solution Center from the U.S. Department of Energy, which has detailed checklists you can go over with your contractor to ensure the work is done properly. West suggests homeowners <a href="https://www.phius.org/find-professional?_page=1&keywords=&_limit=50&professional_type=99" rel="noopener noreferrer" target="_blank"><u>find a certified consultant at Passive House Institute US</u></a>.
+</p><p>
+	The building science experts I spoke to suggested things like an educational program for consumers so they know to ask about ventilation, third party inspections before and after weatherization projects with the results entered into the public record, pre-sale energy audits, and mandatory building science training for contractors and their crews. Offerman said weatherization programs should hold installers accountable for insulating and ventilating according to the latest building science standards as a condition of receiving funds.
+</p><p>
+	The question is how many homeowners like Zara will have their homes and health damaged before the situation is addressed. “It’s not that we don’t know that this is happening,” Listiburek says. “It’s that it’s not painful enough yet.”
+</p> 
+
+<br> 
+
+<https://heatmap.news/lifestyle/building-science>
+
+---
+
+## Boeing strike barrels on as workers reject wage deal
+
+date: 2024-10-24, from: VOA News USA
+
+SEATTLE — Boeing factory workers voted to reject a contract offer and continue a more than five-week strike on Wednesday, in a blow to new CEO Kelly Ortberg's plan to shore up the finances of the struggling planemaker.
+
+
+The vote was 64% in opposition to the deal, which offered a 35% rise in wages over four years, in a major setback for Ortberg who took the top job in August on a pledge to work more closely with factory workers than his predecessors.
+
+
+The rejection of Boeing's offer, which comes after 95% of workers voted against a first contract last month, reflects years of resentment from workers who felt cheated by the company in talks a decade ago and deepens a financial crisis.
+
+
+After the vote, union leaders said they were ready to immediately resume negotiations with Boeing on the first major negotiation since 2014, when the company used the threat of moving production of the new version of the 777 out of the region to push through a deal that ended traditional pensions.
+
+
+The union has been seeking a 40% pay rise and the return of the defined-benefit pension.
+
+
+Boeing factory workers were also venting frustration after a decade when their wages have lagged inflation and critics have complained that the planemaker spent tens of billions of dollars on share buybacks and paid out record executive bonuses.
+
+
+"This membership has gone through a lot … there are some deep wounds," the union's lead contract negotiator Jon Holden told reporters after the vote.
+
+
+"I want to get back to the table. Boeing needs to come to the table as well. Hopefully, we can have some fruitful discussions with the company, and Mr. Ortberg, to try and resolve this."
+
+
+Boeing declined comment on the vote.
+
+
+Some 33,000 machinists downed tools in Boeing's West Coast factories on Sept. 13, halting production of the best-selling 737 MAX as well as 767 and 777 wide-body programs.
+
+
+Time is running out for Boeing, historically the largest U.S. exporter, and its biggest union to reach a deal before the busy political period surrounding the presidential election on Nov. 5.
+
+
+With Boeing and IAM at a stalemate earlier this month, acting U.S. Secretary of Labor Julie Su had helped get the latest offer presented for a vote after attending in-person talks with both parties in Seattle last week.
+
+
+Holden said after the union vote that he would reach out to the White House to see if the union could get more assistance negotiating with Boeing.
+
+
+"After the first contract offer was rejected, the honeymoon was over on the labor reset. This further validates that," said Scott Hamilton, an aviation consultant.
+
+
+"It's bad news for everybody - Boeing, labor, suppliers, customers, even the national economy."
+
+
+Boeing is the largest customer for a U.S. aerospace supply chain already facing critical financial pressure.
+
+
+Fuselage supplier Spirit AeroSystems warned that if the strike continued beyond the end of November, there would be layoffs and more drastic furloughs.
+
+
+The company, which is in the process of being taken over by Boeing, has already announced a 21-day furlough for 700 workers.
+
+
+'Defining moment'
+
+
+Boeing has announced plans to cut 17,000 jobs and is closing in on a plan to raise up to $15 billion from investors to help preserve its investment grade credit rating, while some airlines have had to trim schedules due to aircraft delivery delays.
+
+
+Ortberg warned on Wednesday there was no quick fix for the ailing planemaker.
+
+
+In a quarterly earnings call, Boeing forecast it would burn cash through 2025. Jefferies analyst Sheila Kahyaoglu said after the vote that the decision to prolong the strike could worsen the expected drain on cash.
+
+
+The specter of a quality crisis from a January mid-air panel blowout hangs over Boeing.
+
+
+Richard Aboulafia, managing director of AeroDynamic Advisory, said this was now the "defining moment" of Ortberg's short tenure and he needed to get a deal across the line soon.
+
+
+"There's a feeling that he hasn't handled this as well as he might have," Aboulafia said. "They've (Boeing) got to get this done, and they're in a position of weakness."
+
+
+The rejection from workers on Wednesday was the second in a formal vote after the offer of a 25% pay rise over four years was rejected last month, leading to the strike.
+
+
+Many comments on social media and from workers outside voting stations had cast doubt on a deal.
+
+
+"We're ready to go back on strike until we get a better deal," Irina Briones, 25, said after the vote.
+
+
+"They took a bunch of numbers and moved them around to make them look like they're giving us more than they were," said Josh Hajek, 42, who has worked six years at Boeing on wing assembly.
+
+
+Voting figures showed the two sides getting closer to a deal but still a solid majority in favor of prolonging the strike.
+
+
+Before the vote, Terrin Spotwood, a 20-year-old machinist in 737 wing assembly, said he planned to approve the contract because the offer was "good, but not great." He said several coworkers planned the same because they "can't really afford to say no to this contract. They have to go back to work."
+
+
+Even so, many workers are still angry about the last deal signed a decade ago.
+
+
+"We're going to get what we want this time. We have better legs to stand on this time than Boeing," said Donovan Evans, 30, who works in the 767 jet factory outside Seattle. 
+
+<br> 
+
+<https://www.voanews.com/a/boeing-strike-barrels-on-as-workers-reject-wage-deal/7836963.html>
+
+---
+
+## New evidence China, Russia and Iran targeting US elections
+
+date: 2024-10-24, from: VOA News USA
+
+WASHINGTON — There is new evidence China, Iran and Russia are aggressively expanding their efforts to influence American voters to potentially sway the result of the upcoming U.S. elections.
+
+
+Two threat intelligence reports Wednesday, one from software giant Microsoft and the other from the cybersecurity firm Recorded Future, detail growing activity by cyber actors linked to each country — all aiming to impact U.S. public perceptions with less than two weeks before voters go to the polls.
+
+
+The biggest change, according to Microsoft, comes from Chinese-linked actors known to researchers as Spamouflage or Taizi Flood.
+
+
+“Chinese influence operations have recently taken a new turn, shifting focus to several down-ballot candidates and members of Congress,” Microsoft said, noting that starting in September, China has targeted at least four prominent Republican lawmakers, all of whom are known critics of the government in Beijing.
+
+
+Most recently, the Chinese-linked accounts targeted Texas Republican Michael McCaul, accusing the chairman of the House Foreign Affairs Committee of “abusing power for personal gain.” 
+
+
+Late last month, other Spamouflage began going after Tennessee Republican Senator Marsha Blackburn, Microsoft said. And earlier this month, the same effort began promoting Blackburn’s opponent in the November 5 election.
+
+
+Other targets include Alabama Republican Representative Barry Moore, who was subjected to content criticizing his support for Israel, and the vice chairman of the Senate Intelligence Committee, Republican Marco Rubio, who was accused of corruption.
+
+
+The Chinese Embassy in Washington rejected the allegations in the Microsoft report.
+
+
+“The presidential elections are the United States’ domestic affairs,” embassy spokesman Liu Pengyu told VOA Wednesday, echoing previous Chinese denials. 
+
+
+“Such allegations are full of malicious speculations against China, which China firmly opposes,” he added.
+
+
+U.S. lawmakers, however, said they were not surprised by the uptick in malign activity.
+
+
+“The CCP [Chinese Communist Party] cannot stand anyone who supports and gives a voice to those they oppress; their response is to sanction and attack,” McCaul said in a statement to VOA. 
+
+
+“I consider it a badge of honor when the CCP — a leading abuser of human rights, censor of free speech, and oppressor of its own people — takes issue with my work,” he said. 
+
+
+Rubio, the top Republican on the Senate Intelligence Committee, called for the Chinese influence efforts to “be taken very seriously.”
+
+
+“China is becoming increasingly more aggressive,” Rubio said in a statement to VOA. “China’s goal is to shape American opinion on critical issues and target specific candidates, especially those they view as anti-China.”
+
+
+Growing threats
+
+
+The reports from Microsoft and Recorded Future warn Beijing is not alone.
+
+
+Specifically, the reports caution the Russian-linked cyber actors, known to researchers as Storm-1679 or Operation Overload, have increased their pace of operations over the past month and a half and are showing signs that more influence operations are on the way.
+
+
+“Operation Overload is very likely to ramp up its activities,” said the Recorded Future report.
+
+
+Recorded Future said many of the Russian efforts, of late, have sought to provoke anger toward the LGBTQ+ community “using disinformation to perpetuate discriminatory beliefs around transgender individuals, perceived behavioral issues, gender transition and reassignment surgeries, and pharmaceutical treatments.”
+
+
+Other influence operations, the report said, are making use of AI-generated voiceovers to emulate the style of U.S. broadcast journalists.
+
+
+Microsoft said the Russian cyber actors also have found ways to reach additional U.S. voters by shifting much of the content from the Telegram social media platform to X.
+
+
+“Storm-1679 videos posted to X received higher levels of engagement,” Microsoft said.
+
+
+Microsoft researchers also warned there are signs Iran is also ramping up its election interference efforts.
+
+
+The Microsoft report says that in one instance, less than two weeks ago, “an online persona operated by Iran began falsely posing as an American and called on Americans to boycott the elections due to both candidates’ support for Israel’s military operations.”
+
+
+Russia and Iran, like China, have repeatedly denied any involvement in efforts to meddle with the U.S. election.
+
+
+But the new findings from Microsoft and Recorded Future align with assessments from U.S. intelligence officials.
+
+
+
+
+“Foreign actors — particularly Russia, Iran and China — remain intent on fanning divisive narratives to divide Americans and undermine Americans’ confidence in the U.S. democratic system consistent with what they perceive to be in their interests,” according to a declassified assessment issued Tuesday by the Office of the Director of National Intelligence.
+
+
+U.S. intelligence officials have previously said Russia has been working to boost the chances of former president and current Republican nominee Donald Trump, while Iran has been working to hurt Trump’s reelection bid and instead buoy the campaign of Vice President Kamala Harris, the Democratic presidential nominee.
+
+
+And while there is little evidence to suggest China has sought to affect the U.S. presidential race, intelligence officials have said Beijing has been focusing its efforts on congressional and state and local candidates perceived to be promoting policies detrimental to Beijing's interests. 
+
+<br> 
+
+<https://www.voanews.com/a/new-evidence-china-russia-and-iran-targeting-us-elections/7836957.html>
+
+---
+
+##  The Gambling Industry’s Cynical Play For Your Vote 
+
+date: 2024-10-24, from: The Lever News
+
+ The industry aims to expand its reach this election season by promising revenue windfalls and downplaying evidence their services are a bad bet.  
+
+<br> 
+
+<https://www.levernews.com/the-gambling-industrys-cynical-play-for-your-vote/>
+
+---
+
+## US Justice Department warns Musk's super PAC over $1 million giveaways
+
+date: 2024-10-24, from: VOA News USA
+
+WASHINGTON — The U.S. Justice Department has sent a letter to Elon Musk's super PAC warning that the billionaire Tesla CEO's $1 million giveaways may violate federal law, several media organizations reported on Wednesday, citing people briefed on the matter.
+
+
+A letter from the department's public integrity section, which investigates potential election-related law violations, went to the PAC.
+
+
+The Justice Department and Musk's America PAC did not immediately respond to a request for comment.
+
+
+South African-born Musk, who has thrown his support behind Republican presidential candidate Donald Trump ahead of the November 5 election, announced on Saturday while speaking before a crowd in Pennsylvania that he was giving away $1 million each day until Election Day to someone who signs his online petition supporting the U.S. Constitution.
+
+
+He handed $1 million checks to two separate people over the weekend — one to a man in Harrisburg on Saturday and another to a woman in Pittsburgh on Sunday.
+
+
+Musk, ranked by Forbes as the world's richest person, so far has supplied at least $75 million to America PAC, according to federal disclosures, making the group a crucial part of Trump's bid to regain the White House. 
+
+<br> 
+
+<https://www.voanews.com/a/us-justice-department-warns-musk-s-super-pac-over-1-million-giveaways/7836813.html>
+
+---
+
+## The Climate Crisis Is Driving Bankers to Quit Their Jobs in Disillusionment
+
+date: 2024-10-23, from: Capital and Main
+
+<p>Wells Fargo and others pledged to achieve net-zero and invest in sustainable financing. Instead, they kept funding fossil fuels.</p>
+<p>The post <a href="https://capitalandmain.com/the-climate-crisis-is-driving-bankers-to-quit-their-jobs-in-disillusionment">The Climate Crisis Is Driving Bankers to Quit Their Jobs in Disillusionment</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/the-climate-crisis-is-driving-bankers-to-quit-their-jobs-in-disillusionment>
+
+---
+
+## Pakistan's weapons programs face scrutiny after US curbs
+
+date: 2024-10-23, from: VOA News USA
+
+islamabad — The latest U.S.-imposed restrictions on entities supporting Pakistan's defense programs may hinder Islamabad's future efforts to acquire sensitive defense technologies and its collaboration with China but are unlikely to affect Pakistan’s weapons development for now, experts say.
+
+
+Sixteen Pakistani firms were among 26 international companies added this week to a U.S, “entities list,” making them ineligible to acquire U.S. items and technology without government authorization.
+
+
+Companies or individuals can be placed on the list if they are “involved or pose a significant risk of being or becoming involved in activities contrary to the national security or foreign policy interests of the United States,” according to a U.S. Commerce Department statement.
+
+
+Nine of the 16 Pakistani companies added to the blacklist this week were accused of being front companies for a previously sanctioned company, Advanced Engineering Research Organization, deemed responsible for the country's cruise missile and strategic drone programs.
+
+
+The remaining seven entities were added for contributions to Pakistan’s ballistic missile program, the Commerce Department statement said. Other companies added to the list this week were accused of procuring U.S.-made items with military applications for China, Iran, Egypt and the United Arab Emirates.
+
+
+Defense analysts told VOA that addition to the list is unlikely to slow Pakistan’s missile program, which has continued despite multiple rounds of U.S. curbs on entities supporting it.
+
+
+“It will not make a difference to Pakistan,” said Pakistani defense analyst Salman Javed, who acknowledged that the country relies on the United States for other defense technology needs. “I believe Pakistan's missile program is in an advanced stage, and U.S. restrictions will have no impact on it.”
+
+
+Former Pakistani army General Talat Masood said Pakistan has looked more to China than the United States for “the expertise and technology” needed to advance its drone program. But he said the new curbs might affect Pakistan’s future collaboration with China in the field of drones and their sale to other countries.
+
+
+Pakistan has not officially responded to the latest restrictions but objected last month when Washington blacklisted four companies, three Chinese and one Pakistani, for “knowingly” transferring prohibited equipment to Pakistan. Islamabad said the sanctions were imposed “without any evidence whatsoever.”
+
+
+Syed Irfan Ashraf, an assistant professor at the University of Peshawar in Pakistan, said the United States has long prevented arms technology sales in black markets to protect its interests. “However, the timing and scrutiny of entities supporting Pakistan right now is crucial” because of the conflicts in Ukraine and the Middle East.
+
+
+In September, the U.S. State Department acted against five entities and one individual — all but one Chinese — that were involved in the proliferation of ballistic missiles and controlled missile equipment and technology to Pakistan.
+
+
+Salman Ali, a Pakistani scholar at the School of Politics at the Quaid-e-Azam University Islamabad, said the recent wave of U.S. sanctions represents a distinct shift from the usual regulatory measures observed since Pakistan's de facto nuclearization and are aimed more at pressuring China.
+
+
+“Over the past six rounds of U.S. curbs, it's clear that the focus has been on the technical exchanges between China and Pakistan. These sanctions are not only intended to curb the rapid advancement of missile and drone programs but are also seen as a strategy to pressure China,” Ali told VOA.
+
+
+Pakistan and Iran are both members of the China-led regional alliance Shanghai Cooperation Organization (SCO), which opposed the unilateral sanctions in its recently concluded summit October 16 in Islamabad.
+
+
+This story originated in VOA’s Deewa Service. Iftikhar Hussain reported from Washington. 
+
+<br> 
+
+<https://www.voanews.com/a/pakistan-weapons-programs-face-scrutiny-after-us-curbs/7836490.html>
+
+---
+
+## Texts, emails and the deception of elderly political donors
+
+date: 2024-10-23, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p>As Election Day looms closer, the emails and texts from campaigns pleading for money continue to flood voters&#8217; inboxes. A CNN investigation found that some of these tactics have misled elderly Americans into giving away millions of dollars. We&#8217;ll get into the financial consequences of aggressive campaign fundraising strategies. Then, we&#8217;ll discuss how Republican pundits are responding to former President Donald Trump&#8217;s shocking statements about military affairs. And, we&#8217;ll talk about a payment owed from a defamation case: a luxury New York apartment.</p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>Here&#8217;s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.theatlantic.com/politics/archive/2024/10/trump-military-generals-hitler/680327/" target="_blank" rel="noreferrer noopener">&#8220;Trump: ‘I Need the Kind of Generals That Hitler Had’&#8221;</a> from The Atlantic</li>
+<li><a href="https://www.cnn.com/interactive/2024/10/politics/political-fundraising-elderly-election-invs-dg/" target="_blank" rel="noreferrer noopener">&#8220;How elderly dementia patients are unwittingly fueling political campaigns&#8221;</a> from CNN</li>
+<li><a href="https://www.marketplace.org/collection/brains-losses-aging-financial-vulnerability/" target="_blank" rel="noreferrer noopener">&#8220;Brains and Losses: Aging and Financial Vulnerability to Scams&#8221;</a> from Marketplace</li>
+<li><a href="https://www.marketplace.org/2024/10/14/presidential-race-political-donations-fundraising/" target="_blank" rel="noreferrer noopener">&#8220;Do presidential candidates really need your money at this point in the race?&#8221;</a> from Marketplace</li>
+<li><a href="https://www.reuters.com/legal/giuliani-ordered-surrender-apartment-valuables-georgia-election-workers-2024-10-22/" target="_blank" rel="noreferrer noopener">&#8220;Giuliani ordered to surrender apartment, valuables to Georgia election workers&#8221;</a> from Reuters</li>
+</ul>
+<ul class="wp-block-list">
+<li style="list-style-type: none">
+<ul class="wp-block-list"><!-- wp:list-item --></ul>
+</li>
+</ul>
+<p><!-- /wp:list-item --></p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>Join Kai Ryssdal and Kimberly Adams for a live taping of “Make Me Smart” on Oct. 25 in Boston. In-person tickets are sold out, but you can still join us virtually. <a href="https://ci.ovationtix.com/35123/production/1209492?performanceId=11506951" target="_blank" rel="noreferrer noopener">Get your tickets here.</a></p>
+<p><!-- /wp:paragraph --></p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-MakeMeSmart/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/23/mms_20241023_MMS_128.mp3"></source>
+</audio> <a href="https://play.podtrac.com/APM-MakeMeSmart/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/23/mms_20241023_MMS_128.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/texts-emails-and-the-deception-of-elderly-political-donors>
+
+---
+
+## Most young Americans are rent burdened
+
+date: 2024-10-23, from: Market Place
+
+<p>In 2022, over half of adult Gen Zers spent at least 30% of their income on rent. They&#8217;ve got it slightly better than millennials did 10 years prior, but not by much. In this episode, how being &#8220;rent burdened&#8221; could affect young people down the line. Plus: The Federal Reserve turns its attention to the job market, more stadiums introduce facial recognition software and fewer kids went straight from high school to college this year.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/23/pm_20241023_Marketplace_-_PM_64.mp3"></source>
+</audio> <a href="https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/23/pm_20241023_Marketplace_-_PM_64.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace/most-young-americans-are-rent-burdened>
+
+---
+
+## 3 Small Elections With Big Consequences for Clean Energy
+
+date: 2024-10-23, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81Mzg0NjU5NS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc0NTc4MjUxMn0.I0M6AbXbh2GQg4jFKi9SVaAYR3hYVAT4DwXOmiDpZIY/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">On November 5, voters in a handful of states will cast their ballots not just for their next president and state and local lawmakers, but also for the members of an obscure body with outsized influence on the country’s energy mix. </p>
+<p>It’s called a public utilities commission. Every state has one, usually composed of three to five officials who regulate the private companies that deliver water, power, gas, and other services to residents and businesses. Their job is to secure reliable energy at affordable rates, which means these power players also preside over how quickly utilities adopt clean energy and adapt to extreme weather, and how much companies can raise customers’ rates to do so. In most of the U.S., utility commissioners are appointed by the governor or legislature. But 10 states leave filling these roles up to the electorate. </p>
+<p>Utility commissions are famous for being ignored by the public — until there’s a rate increase. But if the U.S. is to have any chance of cutting emissions in line with its global commitments, ensuring fossil fuel communities aren’t left behind, or improving our resilience to increasing heat waves, fires, and floods, these gatekeepers have to be paid more attention — and held accountable.</p>
+<p>Charles Hua, the founder of a new nonprofit called Powerlines that aims to raise awareness about the importance of these regulators, told me his group has found that over the last decade, about one in 10 voters in states with utility commission elections skipped that part of the ballot. “In many of these elections where the margins are only a couple percent, the one in 10 that sit out are deciding the election,” he said.</p><p><span></span>Apathy or ignorance about utility commissions isn’t unique to states where commissioners are elected, but it’s not helped by the fact that many of these states are deeply red, and the races aren’t much of a competition. This year, although seats are opening up in eight states, many of them are unlikely to see a change from the status quo.
+</p><p>
+	In Alabama and Nebraska, three current commissioners are running for re-election unopposed. There’s a clear frontrunner among the three candidates vying for one open seat in Oklahoma: a former Republican state lawmaker named Brian Bingman, who is endorsed by the governor and has raised nearly $450,000, much of which was donated by energy PACs and oil and gas company executives, according to state filings. He’s up against a lesser-known Libertarian candidate who, as of the last reporting period, had raised less than $2,000, and a 90-year-old Democrat who has raised zero dollars and already run for and lost commission races three times.
+</p><p>
+	Whoever is elected to open seats in North and South Dakota will have a say in approving the permits for a contentious carbon dioxide pipeline — a project that has drawn opposition from both sides of the aisle and could have raised the stakes for the elections — but environmental advocates in those states told me they expected incumbent candidates to win.
+</p><p>
+	But there are three races that are being closely watched by climate and clean energy advocates. In Louisiana, a swing voter on the commission is stepping down, throwing into question recent momentum against business-as-usual operations in the gas-heavy state. In Arizona and Montana, the current commissions have been skeptical of, if not outright hostile to supporting the development of the two states’ big untapped solar and wind resources. In each state, however, momentum is building behind candidates who could change that paradigm.
+</p><center><iframe aria-label="Multiple Pies" data-external="1" frameborder="0" height="516" id="datawrapper-chart-kyW2B" scrolling="no" src="https://datawrapper.dwcdn.net/kyW2B/2/" style="border: none;" title="Untapped Potential" width="680">
+</iframe></center><p>
+	“If you can unlock Montana's renewable energy potential, you can help the western part of the country decarbonize,” Anne Hedges, the director of policy and legislative affairs at the Montana Environmental Information Center told me. “This is a really important race.”
+</p><p>
+	Here’s what’s at stake.
+</p><h3>Arizona</h3><p>
+	During the two years since the last election for the Arizona Corporation Commission, the confusing name of the body in Arizona that regulates utilities, its four-to-one Republican majority has been on a tear dismantling what little clean energy policy there was in the state. In February, the group voted to scrap the state’s meager Renewable Energy Standard, which was enacted in 2006 and required utilities to get 15% of their energy from renewables by 2025, as well as energy efficiency standards. According to Autumn Johnson, executive director of the Arizona Solar Energy Industries Association, the commission has been more resistant to renewable energy than the utilities. She told me that in a recent proceeding to plan for the closure of the Four Corners coal plant in 2031, the commission tried to prevent the state’s biggest utility from considering renewables paired with batteries as part of the replacement mix.
+</p><p>
+	Solar development has been obstructed at every level. The commission quashed efforts to create a market for community solar, small-scale photovoltaic installations that offer low-income customers and renters access to low-cost clean energy. It adopted a community solar policy that “had so many poison pills in it that it made it impossible for a market to actually form,” said Johnson. “We should for sure have a community solar market. I think it's kind of crazy we wouldn't do that in the sunniest state in the country.” It also gummed up the economics of rooftop solar by decreasing the amount homeowners get paid for exporting solar to the grid and burdening them with fixed fees. Johnson said the market is down 40%, and that “a whole bunch of companies are going bankrupt” because of the commission’s policies.
+</p><p>
+	Whoever lands on the commission come January will have a big opportunity to change course. The renewable energy and efficiency standards have not yet been fully repealed, and will see another vote early next year. Johnson said the new commission will vote on rules for virtual power plants, which could help get more distributed solar and batteries on the grid. As in many states, Arizona utilities are anticipating large load growth in the coming years and proposing a lot of new natural gas power plant development to meet it — but the commission has a chance to get them to consider alternatives.
+</p><p>
+	The race is competitive, with three Democrats, two Green party candidates, and three Republicans, including one incumbent, running to fill three seats. During a 
+	<a href="https://www.azcentral.com/story/money/business/energy/2024/09/03/arizona-corporation-commission-debate-how-to-watch/75019858007/" rel="noopener noreferrer" target="_blank"><u>recent debate</u></a>, the main split between the two major political parties was over support for renewables. Five of them took public funding for their campaigns through <a href="https://www.azcleanelections.gov/run-for-office/how-clean-funding-works" rel="noopener noreferrer" target="_blank"><u>the state’s Clean Elections fund</u></a>, so they're nearly all working with the same amount of capital, which means there is little to help signal who's likely to come out on top. The AFL-CIO has endorsed the three Democrats in the race, but Arizona has one of the lowest union densities in the country. The state Chamber of Commerce, meanwhile, has endorsed the Republicans running, and one of them, Rachel Waldman, has been endorsed by three current commissioners.
+</p><p>
+	Voters can choose three candidates, and the three with the most votes will be elected.
+</p><h3>Montana</h3><p>
+	Montana also has three seats opening up on its five-member Public Service Commission, but the elections there are divided by district, and all eyes are on one of the races in particular. Elena Evans, a geologist who works as the environmental health manager for Missoula County, is running as an Independent to unseat Jennifer Fielder, a Republican incumbent running for her second term. Evans has raised nearly $100,000 since she registered to run in April, while Fielder has raised less than $10,000 since January.
+</p><p>
+	The headline issue in the race is affordability. Last year, the commission approved a 28% rate increase for Northwestern Energy, the biggest utility in the state. Molly Bell, political director for Montana Conservation Voters, told me regulators have been “asleep at the wheel.” She said the commission has been “rubber stamping rate increases, not asking questions about [our utilities’] resource plans, and really not holding our energy companies accountable to making plans for the future.”
+</p><p>
+	Environmental advocates are also worried about Northwestern’s recent decision to acquire a larger stake in the Colstrip power plant, a coal-fired facility built in the 1970s and 80s. Northwestern called the plant “a dependable bridge to a cleaner energy future,” but it will require nearly $200 million in retrofits to comply with new federal air pollution regulations, a cost that Northwestern is now 
+	<a href="https://montanafreepress.org/2024/09/24/four-things-to-know-about-northwestern-energy-rate-hike-request/" rel="noopener noreferrer" target="_blank"><u>trying to recoup</u></a> from ratepayers with a new 26% rate increase.
+</p><p>
+	Hedges, of the Montana Energy Information Center, told me the rate increases aren’t just hurting customers — major manufacturers like REC Silicon are leaving the state due to rising energy costs. She wants the commission to force Northwestern to invest in building out the transmission system so that more wind energy can get onto the grid. “We have a ton of wind energy, we have developers who are just clamoring to access that, but they can't because we don't have the transmission system,” she said. “Northwestern has no desire to build out that transmission system because that means competition for them. That’s why our rates are so high.”
+</p><center><iframe aria-label="Multiple Pies" data-external="1" frameborder="0" height="302" id="datawrapper-chart-wjm61" scrolling="no" src="https://datawrapper.dwcdn.net/wjm61/5/" style="border: none;" title="Each State’s Electricity Generation by Source" width="680"></iframe></center><p>
+	Elena Evans isn’t campaigning on a platform of cutting down on fossil fuels or expanding renewables; she’s mainly telling voters she wants to bring costs down and increase transparency. But in interviews, she’s talked about the importance of ensuring utilities are prepared for climate impacts, criticized the sitting commission for being anti-technology, and expressed an interest in solutions such as 
+	<a href="https://heatmap.news/climate/clean-energy-grid-reconductoring" target="_self"><u>reconductoring transmission lines</u></a> to increase their capacity and installing batteries to make the grid more resilient against outages.
+</p><p>
+	The commission is currently fully Republican, and switching out just one of those seats will not bring change overnight. But Stephanie Chase, a researcher at the Energy and Policy Institute, said that having even one person to ask different questions and bring new information to the public record can be meaningful. “Even if they don't have the votes, they still have a platform and ability to raise issues, which I think is really important in states where climate hasn't been at the forefront.”
+</p><h3>Louisiana</h3><p>
+	Louisiana’s recent history proves the value of dissenting voices, even if they don’t have decisive influence. The state’s historically utility-friendly commission saw a big shakeup two years ago when Davante Lewis, a young progressive candidate, 
+	<a href="https://grist.org/article/in-louisiana-an-electoral-upset-could-mean-a-breakthrough-for-renewables/" rel="noopener noreferrer" target="_blank"><u>dethroned a Democratic incumbent</u></a> who had held his district’s seat for nearly two decades. Close to 80% of Louisiana’s electricity comes from natural gas, and Lewis campaigned on transitioning the state to renewables, in addition to hardening the grid against storms and lowering fees for customers. He has already made a few small inroads on clean energy, such as advancing an energy efficiency program that had been held up in negotiations with the utilities for more than a decade. The commission also recently approved the <a href="https://subscriber.politicopro.com/article/eenews/2024/05/23/louisiana-approves-largest-renewable-expansion-in-state-history-00159454" rel="noopener noreferrer" target="_blank"><u>biggest expansion of renewable energy</u></a> in state history.
+</p><p>
+	But Lewis is one of two Democrats on the commission, and has been helped by a swing voter — a moderate Republican named Craig Greene — who’s stepping down this year.
+</p><p>
+	Three candidates are vying for Greene’s spot, but one — State Senator Jean Paul Coussan — has a clear fundraising advantage. The big question around the election seems to be less about who will win, and more about what Coussan would do on the commission. In interviews with local media outlets, he has said he wants to ensure the state can keep pace with demand growth while keeping rates down. He’s expressed openness about renewables but also emphasized the importance of the state’s “abundant supply of natural gas.”
+</p><p>
+	The clean energy advocates I spoke to weren’t sure what to make of him. “You just can’t tell based on what Coussan’s saying now,” Daniel Tait, who researches Southern utilities for the Energy and Policy Institute, a consumer watchdog, told me. He said that of the two Republicans running, Coussan seemed more willing to talk about clean energy and find common ground. But it’s unclear how he will compare to the outgoing commissioner.
+</p><p>
+	Hua, of PowerLines, emphasized that whatever happens, it will have ripple effects through the region. “What Louisiana does is an indicator, in some ways, of what the rest of the Southeast can do,” he told me. “And the Southeast is a particularly important region because that's where we're seeing all this load growth, this gas build out, energy burden and environmental injustice challenges. What the Southeast does will make or break what the U.S. does in terms of the clean energy transition.”</p><p><em>Editor's note: A previous version of this article misstated the percentage of voters who skip utility commission elections. It also misidentified the party of the incumbent whom Davante Lewis defeated. Both mistakes have been fixed. We regret the errors.</em></p> 
+
+<br> 
+
+<https://heatmap.news/politics/public-utilities-arizona-montana-louisiana>
+
+---
+
+## Anatomy of a Texas NIMBY
+
+date: 2024-10-23, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81Mzg1MzA2MS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc0NzYxODk5Nn0.YmRKAYgDuKxkm2LLern0GHJ96zwDjujubksSIbNlgu8/image.png?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">An hour northwest of San Antonio, Texas, the small town of Bandera is home to fewer than 1,000 people. Complete with old-timey heritage buildings from the Old West, the town markets itself as a ranching tourism destination and the “cowboy capital of the world.”<br/></p>
+<p>And some residents <em><em>really</em></em> don’t want the solar farm coming to town: Pine Gate Renewables’ <a href="https://pinegaterenewables.com/rio-lago/" rel="noopener noreferrer" target="_blank"><u>Rio Lago solar project</u></a>, which would produce 132 megawatts of power. That’s enough renewable electricity to fuel almost 23,000 homes. </p>
+<p>When the project first appeared on homeowners’ doorsteps, citizens concerned about building anything at industrial scale in their bucolic community <a href="https://www.banderabulletin.com/article/news/school-board-unanimously-rejects-solar-farm-tax-abatement" rel="noopener noreferrer" target="_blank"><u>rejected a local tax abatement</u></a> and began speaking to local media. Eventually, roughly a dozen people living near the proposed Rio Lago site filed a lawsuit in state court seeking damages for alleged sediment runoff, along with a laundry list of other complaints. The state court judge was sympathetic to the individuals in Bandera, ordered <a href="https://www.expressnews.com/business/real-estate/article/bandera-solar-farm-pine-gate-lawsuit-order-18684108.php" rel="noopener noreferrer" target="_blank"><u>construction to stop</u></a> and <a href="https://www.expressnews.com/business/real-estate/article/bandera-solar-farm-pine-gate-judge-sanctions-19393574.php" rel="noopener noreferrer" target="_blank"><u>sanctioned Pine Gate</u></a> when <a href="https://www.ksat.com/news/ksat-investigates/2024/02/24/landowners-claim-solar-company-is-breaking-court-order-to-halt-construction-of-bandera-solar-farm/" rel="noopener noreferrer" target="_blank"><u>residents said</u></a> the company appeared to continue work on the project. The case is now pending in federal court. </p>
+<p>Taken together this outcry, lawsuit, and <a href="https://www.ksat.com/video/news/2024/01/09/bandera-landowners-push-for-court-intervention-on-solar-farm-project/" rel="noopener noreferrer" target="_blank"><u>all of</u></a> <a href="https://www.youtube.com/watch?v=NtmJCusIukI" rel="noopener noreferrer" target="_blank"><u>the resulting</u></a> <a href="https://www.youtube.com/watch?v=dQ78eQgod2Y" rel="noopener noreferrer" target="_blank"><u>local news coverage</u></a> coverage add up to a crucial test: Can a handful of people block carbon-free power to so many homes?</p>
+<p>In this circumstance, probably not. Last week, the federal judge now overseeing the case – Richard Farrer, who was appointed under Trump in 2017 – told the aggrieved homeowners and their lawyer that while the allegations of damages may still proceed to trial, there was “not sufficient evidence of imminent irreparable harm to support” an order to stop construction, according to a transcript of the hearing. </p>
+<p>But still, this case still fascinates. That’s because despite Texas’ conservative political leaning the Lone Star state is a panacea for renewables development. It produces 16% of the nation’s total renewable energy but accounts for only 2.5% of the contested projects, restrictive ordinances, and moratoriums in Heatmap Pro’s database. Part of the reason Texas is so receptive is that energy production overall is pretty welcome – when you’re so used to oil rigs, a solar farm isn’t that big of a deal. For its part, Pine Gate clearly thinks it’s a great place to build as the company claims to have forty projects at various stages in the state. </p>
+<p>The case of Bandera and the Rio Lago solar project ultimately illustrates NIMBYism – historically <a href="https://www.carolinajournal.com/opinion/nimbyism-isnt-a-conservative-or-winning-message/" rel="noopener noreferrer" target="_blank"><u>understood as</u></a> <a href="https://www.nytimes.com/2022/06/05/business/economy/california-housing-crisis-nimby.html" rel="noopener noreferrer" target="_blank"><u>more of</u></a> <a href="https://www.curbed.com/2022/06/obama-aia-conference-housing-crisis-liberal-nimby-yimby.html" rel="noopener noreferrer" target="_blank"><u>an issue</u></a> <a href="https://newrepublic.com/article/159345/new-york-temporary-housing-eviction-nimby-rhetoric" rel="noopener noreferrer" target="_blank"><u>amongst liberals</u></a> – can occur in even the most staunchly conservative parts of the country: the town is represented in Congress by Rep. Chip Roy, who has a 96% lifetime score from the <a href="https://heritageaction.com/scorecard/members/R000614" rel="noopener noreferrer" target="_blank"><u>Heritage Foundation’s political arm</u></a> and a month ago called to <a href="https://www.youtube.com/watch?v=GREcEKI5aaI" rel="noopener noreferrer" target="_blank"><u>fully defund</u></a> the Energy Department’s Office of Energy Efficiency and Renewable Energy. </p>
+<p>Ultimately, while renewable energy and decarbonization capital is <a href="https://heatmap.news/politics/republicans-ira-climate-law" target="_self"><u>pouring into culturally red areas</u></a> across the U.S., this conflict demonstrates how a backlash can really rear its ugly head. </p>
+<p>Jennifer Rosenblatt, a lawyer representing the homeowners opposed to the solar farm, told me her litigation isn’t “anti-solar” and “simply a construction issue.” But she acknowledged the residents are motivated by a simple and familiar adage: “Nobody wants it in their backyard.” </p>
+<p>“All things being equal, they don’t want it there,” Rosenblatt said. “Everybody wants to say it’s a lawsuit about ‘not in my backyard,’ but in Texas you can’t control what somebody does on their property next door. There’s no lawsuit about that.” </p>
+<p>We’ll keep you updated on the status of this lawsuit in future editions of The Fight.</p> 
+
+<br> 
+
+<https://heatmap.news/plus/the-fight/spotlight/rio-lago-solar-farm-bandera-texas-pine-gate-renewables>
+
+---
+
+## A Midwestern Shot/Chaser for Renewables
+
+date: 2024-10-23, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81Mzg1Mjc1Ni9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4OTQ0MTk1Nn0.kGPwJG5ivkut2cK3toD38nHHtrx3gQjoy47PS_xVhjw/image.jpg?width=1200&height=886&coordinates=0%2C0%2C0%2C0"/><br/><br/><p><strong>1. Madison County, Ohio</strong> – All eyes are now on the Ohio Supreme Court, after opponents of the nation’s largest agri-voltaics project – Savion’s Oak Run solar farm – yesterday formally appealed a key approval from the state Power Siting Board. </p><ul> <li>We’ve previously explored how the fight over Oak Run is a flashpoint for solar on farmland. But perhaps even more important: it could decide the threshold for rejecting renewables in Ohio towns and counties that don’t want more projects.<br/></li><li>Matt Eisenson at Columbia’s Sabin Center for Climate Law represents landowners intervening in support of the project. The big legal question in this appeal, he said, “is the extent to which public opinion and opposition by local government officials can be viewed as a proxy for the public interest.”</li><li>“[A]s a matter of law, one of the criteria for approval by the Ohio Power Siting Board is whether a project will serve the public interest, convenience, and necessity,” he explained in an email last night. “Can the Siting Board conclude, on the basis of local opposition alone, that a project does not serve the public interest?”</li><li>Eisenson said other legal challenges against other solar projects – Lightsource bp’s Birch Solar and Vesper Energy’s Kingwood Solar – could also decide this question. But crucially, Oak Run is the lone project of the three that was approved by the siting board.</li></ul><p><strong>2. Nassau County, New York </strong>– RWE and National Grid submitted the nation’s biggest offshore wind proposal to date to be built in the New York Bight with interconnection points in Brooklyn and Long Island …</p><ul> <li>…and days later, the member of Congress representing the Long Island connection point – Republican Rep. Anthony D’Esposito – came out against offshore wind.<br/></li><li>Ironically, D’Esposito is the top Republican on the congressional offshore wind caucus.</li><li>“I was just asked the other day, <em><em>why don’t you support offshore wind and certain battery storage?</em></em>” D’Esposito said at a debate last week. “I don’t really see how building offshore wind farms and giant battery storage facilities is going to stop flooding in low-lying areas.”<br/></li><li>If D’Esposito wins re-election, I expect him to become a Chris Smith-like figure in New York and take up the cause opposing offshore wind projects. It won’t matter for legislation – but as we’ve shown with other project fights, field hearings and oversight letters can be harmful to an individual project’s public perception.</li></ul><p><strong>3. Swift County, Minnesota </strong>– Rarely do we talk pro-renewables decisions here in The Fight’s Hotspots… but that changes today thanks to a rural Minnesota county <em><em>rejecting</em></em> a moratorium.</p><ul><li>County commissioners <a href="https://www.wctrib.com/news/local/for-second-time-minnesotas-swift-county-rejects-moratorium-on-wind-power" target="_blank"><u>blocked a moratorium</u></a>, proposed by a petition signed by over 400 locals, for the second time last week, according to local media outlet <em><em>West Central Tribune</em></em>. If enacted, per the <em><em>Tribune</em></em>, it would bar Apex Clean Energy from constructing at least one utility scale solar farm in the western part of the county that could generate up to 400 megawatts in carbon-free power.<br/></li><li>The commissioners have instead delegated the moratorium conversation to a renewable energy-focused committee with no clear timetable to conclude its work.</li></ul><p><strong>4. Fayette County, Pennsylvania </strong>– Another spot to watch for an anti-solar and wind ordinance is this county where developers are vying to stop restrictive property setback requirements.</p><ul> <li>If adopted, solar projects would have to be built in areas zoned for light or heavy industry and get special permits. They’d also have to be 300-600 feet from property lines and 1,200 feet from state roads.<br/></li><li>Commissioners told the public and would-be solar developer Prospect 14 last week at a hearing it would study the legal and technical details of the subject and vote on the proposal at a <a href="https://www.cbsnews.com/pittsburgh/news/proposed-fayette-county-solar-farm-legislation/" target="_blank"><u>later, unspecified date</u></a>.<br/></li><li>I’m not optimistic this county will side with the developers. The county zoning commission just rejected a Susquehanna Solar project because it was proposed <a href="https://www.heraldstandard.com/editors_pick/2024/oct/18/fayette-commissioners-hold-a-public-hearing-on-solar-farm-ordinance/" target="_blank"><u>too close to a school</u></a>. The county also swung hard for Donald Trump in 2016, which Heatmap Pro’s data finds to be a flashing danger sign for developers.</li></ul><p><strong>5. Carroll County, Maryland </strong>– Developers have released the route for the Piedmont Reliability Project, a transmission proposal that will connect to a nuclear plant in Pennsylvania and will criss-cross Maryland. Some of the power will feed to data centers in Northern Virginia.</p><ul><li>You can see <a href="https://experience.arcgis.com/experience/ead641cb808140eea82ca58900c25ecb?fbclid=IwY2xjawF_RI5leHRuA2FlbQIxMAABHTrDH5uPF5H5daHQCZKthqnQHA4yBs6Rrb9hv0KHX5VsWVAH1S3tilLnQg_aem_rCSQ_ktVGqG9oBQd7zWs8w" target="_blank"><u>a map</u></a> of the transmission line route here. The line is necessary to avoid blackouts from coal plant retirements, which is partially why we included it on Heatmap’s list of <a href="https://heatmap.news/risk-index" target="_self"><u>10 at-risk projects</u></a> in the energy transition. (I would note state officials have stated this project is not a part of their climate goals, likely because some of the energy will feed data centers.)</li><li>Piedmont’s biggest hurdles are the same rural Maryland counties opposed to solar and wind on farmland. Residents are <a href="https://www.wbaltv.com/article/residents-continue-speak-out-proposed-power-line-project/62672763" target="_blank"><u>in outcry mode</u></a>.</li><li>Public meetings on the proposal will be Nov. 12 in Baltimore County, Nov. 13 in Carroll County, and Nov. 14 in Frederick County. <em><em>Dear reader, should I go to one?</em></em></li></ul>
+<p><em><em>Here’s what else we’ve been watching…</em></em></p><p><em><em></em></em><strong>In Idaho</strong>, regulators <a href="https://www.dnews.com/local-news-northwest/idaho-approves-first-solar-permit-on-state-endowment-land17912635" target="_blank">approved a solar project</a> on state endowment land – and of course, some Republican politicians are <a href="http://v" target="_blank">grousing about it</a>.</p><p><span></span><strong>In Kentucky</strong>, only <a href="https://www.the-messenger.com/journal_enterprise/news/local/article_17d7b767-13c8-52b8-9062-5373154fb3f6.html" target="_blank">three people showed up</a> to oppose NextEra’s Weirs Creek solar project.</p><p><span></span>In Maine, state regulators <a href="https://www.wabi.tv/2024/10/22/maines-grant-application-offshore-wind-port-rejected/" target="_blank">were rejected by</a> federal officials after a request for money to fund a proposed offshore wind construction site on Sears Island.</p><p><span></span><strong>In Michigan</strong>, towns are <a href="https://www.13abc.com/2024/10/22/michigan-communities-band-together-with-lawsuit-state-zoning-battle/" target="_blank">sounding like</a> they’re going to sue over a local control law intended to speed up renewables deployment.</p><p><strong>In Virginia, </strong>county regulators are <a href="https://www.smithfieldtimes.com/2024/10/16/surry-supervisors-overturn-planners-on-sycamore-cross-solar-farm/" target="_blank"><u>battling one another</u></a> over a 2,200 acre solar farm proposed by AES Corporation in Isle of Wight county.</p><p><span></span><strong>In New York</strong>, the upstate village of Wilson <a href="https://www.lockportjournal.com/news/local_news/battery-storage-moratorium-approved-in-village-of-wilson/article_fc4d5db4-8d5c-11ef-b738-5f6d81cc929d.html" target="_blank">has enacted</a> a battery storage moratorium.</p><p><strong>Also in New York, </strong>Attentive Energy pulled out of the <a href="https://www.eenews.net/articles/offshore-wind-bidder-drops-out-in-new-york/" target="_blank">fifth offshore wind solicitation.</a></p> 
+
+<br> 
+
+<https://heatmap.news/plus/the-fight/hotspots/oak-run-savion-madison-county-ohio>
+
+---
+
+## Offshore Wind Isn’t Swinging Votes
+
+date: 2024-10-23, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81Mzg1MjY3MC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2NTU3NTU0NX0.9sNlxSY16Y4sRm0ubiak4-nuJsH8AcLbJ-dGcjCK7O0/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>
+<strong>1. Offshore wind completion </strong>– The Bureau of Ocean Energy Management <a href="https://www.boem.gov/newsroom/press-releases/boem-completes-environmental-review-wind-lease-areas-offshore-new-york-and" rel="noopener noreferrer" target="_blank">finished its environmental review</a> for more offshore wind off the coast of New York and New Jersey – an area relevant to the recently-submitted Community Offshore Wind joint venture between RWE and National Grid.
+</p><ul>
+<li>Five other projects have acreage within the lease area according to BOEM: Bluepoint Wind, Atlantic Shores, Invenergy Wind, and Vineyard Wind. BOEM's website also lists an area held by Attentive Energy; it is unclear how the company’s decision to pull out of the New York solicitation will impact those parcels. 
+	</li>
+<li>The lengthy programmatic environmental impact statement (<a href="https://www.boem.gov/renewable-energy/state-activities/new-york-bight-final-programmatic-environmental-impact-statement" target="_blank"><u>viewed here</u></a>) is a crucial step under the National Environmental Policy Act before selling leases to developers.</li>
+</ul><p>
+<strong>2. Offshore wind polling </strong>– On the heels of that decision comes a noteworthy poll of New Jersey residents finding many voters opposed to offshore wind don’t really care if politicians feel the same way.
+</p><ul>
+<li>The Stockton University <a href="https://stockton.edu/news/2024/hughes-center-wind-poll-election.html" target="_blank"><u>poll released Tuesday</u></a> found only 17% of voters said a candidate’s views on offshore wind would influence their vote “a great deal.” Among coastal voters – a group deeply opposed to offshore wind in the poll – only about 30% of voters said a candidate’s view on the matter “would impact their vote greatly.”<br/>
+</li>
+<li>“No matter which side of the issue voters land on, they seem to agree that it’s not a top priority,” said Alyssa Maurice, research director at Stockton’s William J. Hughes Center for Public Policy, in a statement. “The opposition to offshore wind is particularly vocal and well-organized in New Jersey, but the poll shows that for most voters this issue doesn’t move the needle much.”</li>
+<li>What does this mean? Well when it comes to this issue deciding elections, we’ll be holding our breath.</li>
+</ul><p>
+<strong>3. Geothermal permitting</strong> – The Bureau of Land Management has <a href="https://www.doi.gov/pressreleases/biden-harris-administration-takes-major-steps-accelerate-clean-energy-geothermal" target="_blank">dropped a new proposal</a> to streamline permitting for geothermal energy projects.
+</p><ul>
+<li>The proposed rule, which is now up for public comment, would create a new “categorical exclusion” for geothermal resource confirmation plans – a crucial step in the exploration process for potent geothermal energy. It would allow drilling wells and core drilling to avoid a lengthy review under the National Environmental Policy Act.<br/>
+</li>
+<li>BLM <a href="https://www.powermag.com/blm-approves-major-2-gw-geothermal-project-in-utah/" target="_blank"><u>also approved</u></a> the Fervo Energy project in Utah, which will generate upwards of 2 gigawatts of power.</li>
+</ul><p>
+<em><em>Here’s what else we’re watching…</em></em>
+</p><ul>
+<li><strong>The Energy Department </strong>has offered <a href="https://www.energy.gov/lpo/articles/lpo-announces-conditional-commitment-montana-renewables-significantly-expand-us" rel="noopener noreferrer" target="_blank">a conditional loan commitment</a> of up to $1.44 billion to a company producing “sustainable” aviation fuel in Montana.</li>
+<li><strong>Michigan regulators </strong>have declared an anti-renewables group <a href="https://planetdetroit.org/2024/10/michigan-campaign-finance-violationoour-home-our-voices/" target="_blank">violated campaign finance law</a>.</li>
+<li><span></span><strong>Texas regulators </strong>are <a href="https://dailyenergyinsider.com/news/45487-texas-commission-approves-plan-for-transmission-infrastructure-to-serve-permian-basin/" target="_blank">moving forward</a> with a plan to build more transmission to serve growing power needs at oil fields in the Permian Basin. </li>
+</ul> 
+
+<br> 
+
+<https://heatmap.news/plus/the-fight/policy-watch/offshore-wind-isnt-swinging-votes>
+
+---
+
+## Will Pennsylvania’s Economic Rebound Help Deliver the Crucial Swing State to Harris?
+
+date: 2024-10-23, from: Capital and Main
+
+<p>Despite a robust recovery and low unemployment, polling reveals a disconnect between economic reality and voter perception.</p>
+<p>The post <a href="https://capitalandmain.com/will-pennsylvanias-economic-rebound-help-deliver-the-crucial-swing-state-to-harris">Will Pennsylvania’s Economic Rebound Help Deliver the Crucial Swing State to Harris?</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/will-pennsylvanias-economic-rebound-help-deliver-the-crucial-swing-state-to-harris>
+
+---
+
+## Everybody Mad at Japan's New Prime Minister Needs to Relax
+
+date: 2024-10-23, updated: 2024-10-23, from: RAND blog
+
+Japan's new PM, Shigeru Ishiba, faces criticism for controversial proposals. However, as he transitions from campaign to governance, his policies may become more pragmatic. 
+
+<br> 
+
+<https://www.rand.org/pubs/commentary/2024/10/everybody-mad-at-japans-new-prime-minister-needs-to.html>
+
+---
+
+## The IRA Programs Most At Risk from a Trump Victory
+
+date: 2024-10-23, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81Mzg1MjY0Mi9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4MDM4Nzg4MH0.rlLvZEX-aAoMgtYrT7lKsttehaToVcR65pqCEj60dAg/image.jpg?width=900&height=410&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>With the election approaching, I wanted to talk to the smartest person I could find to explain how the election could affect the Inflation Reduction Act and ultimately renewable energy development. So I hit up Jason Clark, who was until recently chief strategy officer for American Clean Power during passage of the Inflation Reduction Act and the first years of IRS guidance. </p>
+<p>Clark, who has started energy policy consulting firm Power Brief, put together a risk profile for every major IRA program in the event of unified Republican control in Washington. I talked to him about the risk analysis, what programs are most at risk, and whether we should care about oil companies supporting some parts of the law. </p>
+<p><strong>Why did you do this? </strong></p>
+<p>I spent the last six months traveling the world and during that time, I was blissfully tuned out on politics. Now that I’m back in D.C., and given how consequential this election is going to be – suffice it to say, I’m tuned back in. </p>
+<p>I was close to the IRA drafting process – I’m familiar with the underlying bill and also how the government thinks about the programs. I recently started a company, Power Brief, that marries my love for clean energy policy and my old consulting habits: pretty visuals and PowerPoints. And looking at what might happen to the IRA felt like THE big thing happening in the space right now, so I wanted to dive deeper. </p>
+<p>A lot of the content has been “will they/won’t they” analysis. How much do Republicans feel strongly about this bill overall? How much passion would Trump have for pushing for a full repeal? It’s been out there. But this is so complicated and has so many moving parts. I wanted to try and capture both the political reality for some of these programs and also the very practical reality of how the government thinks about the <em><em>cost</em></em> of these programs. The fact it can all be contained in one visual is to help people who care about climate policy and want to really understand what may happen depending on how the election turns out. </p>
+<p><strong>We know Congress is going to take a stab at a new tax bill next year. I’ve written about how the </strong><a href="https://heatmap.news/politics/republicans-ira-climate-law" target="_self"><u><strong>IRA would be targeted</strong></u></a><strong> in that situation. Can you help our readers understand why these programs would be vulnerable in tax talks? </strong></p>
+<p>Classic partisan politics in D.C. By the nature of using reconciliation, the IRA was ultimately purely Democratic-led and that automatically paints it with a certain color. I think that [former] President Trump has been very unshy about criticizing the IRA, and when he doesn’t use the IRA moniker, he uses different monikers thereof. And people are going to be looking for the easiest path [to money to extend the Trump-era tax cuts]. </p>
+<p>What I don’t think is that it’ll be thrown out entirely. We’ve seen members of the House and Senate express support for parts of it– </p>
+<p><strong>Republicans? </strong></p>
+<p>Correct. There was <a href="https://thehill.com/policy/energy-environment/4815990-mike-johnson-ira-clean-energy-tax-credits/" rel="noopener noreferrer" target="_blank"><u>a letter</u></a> from 18 House Republicans to the [House] Speaker [Mike Johnson] saying we shouldn’t just throw this out, we should really look at it. And I think that there’s a lot of people who look at where the investment from the IRA is flowing – a lot of the dollars are going to Republican-controlled states and districts. Yes, that may insulate the whole bill from repeal outright but a lot of that is announced investment but hasn’t turned into steel on the ground and jobs yet. </p>
+<p><strong>So your chart singles out EV tax credits as most vulnerable to repeal. Why? </strong></p>
+<p>The universe of electric vehicle tax credits is fully at risk. We’ve seen it from Republican voters – constituents! – who feel that EVs are just some type of government mandated, <em><em>this is some car you have to buy.</em></em> But it also happens to be very, very expensive. When the Joint Committee on Taxation (JCT} crunches the numbers about what this is going to cost between now and 10 years from now, it’s one of the most expensive portions of the legislation. So when you look at it and ask how much is it going to cost to ax this and give us the most savings in the tax code? You get this. </p>
+<p><strong>The IRA didn’t create these credits though. It simply expanded them. You think the entire credit could go away in a Republican trifecta? </strong></p>
+<p>I think the entire EV tax credit. </p>
+<p><strong>Okay. So next up on the chopping block per your chart is the renewable energy investment tax credit, or ITC. Why? </strong></p>
+<p>“Both the ITC and the PTC [production tax credit] when they shift into this new tech neutral paradigm have the same risk profile. For these, I don’t think it’s necessarily going to be a full repeal. I think the data about how much money is going into Republican districts is legitimate, and I think it will materialize. But there’s many spectrums of levers that someone can pull. </p>
+<p>The tech neutral credit doesn’t end on a certain calendar year date. It ends when the U.S. sector hits a certain emissions target. The credit continues until that moment in time. One way to make the credit look less expensive on paper is to say, <em><em>no, we are going to end it at a certain point</em></em>. Take 2030 or 2032. You could codify a timeline on it, so the JCT won’t score the out-years on how expensive the credit is going to be. That is one version of it. </p>
+<p>Another version of it is that there’s a base credit and then there’s added layers, like wage requirements or low-income area benefits. And that’s another thing you could pull to say,<em><em> look, we’re not going to do that anymore. </em></em></p>
+<p><strong>What would be the impact on developers? </strong></p>
+<p>I don’t think a lot of folks appreciate just how long range some of this planning is, how long it takes to permit something, how long it takes to figure out the interconnection queue. </p>
+<p>Companies aren’t thinking <em><em>what are we going to build this year</em></em> – they’re thinking <em><em>what will be put online in 2035</em></em>. So if the government changes the stability of that, companies start to pull back and say <em><em>hey, let’s not go too crazy in the outyears</em></em>. Baseline? It means fewer clean energy projects come online. The industry has been banking on a certain level of certainty to plan against. Any shockwave against that and some companies are going to look and ask if they have the assurance to move forward with this or not. </p>
+<p><strong>Okay well, candidly, to that I say: woof. So okay, your chart labels the PTC and energy efficiency credits as vulnerable. Why are they at risk if they cost less than other programs? </strong></p>
+<p>There are going to be certain things where the dollars and cents lose out to the political policy realities. On energy efficiency, it would be easy to make that whole category a continuation over the fight on gas stoves or heat pumps and frame them as tax credits for wealthy people to do expensive stuff on their homes, costing the rest of the country. I don’t think it’s as much of a kitchen table conversation per se but it’s up there. Even if it doesn’t save them that much money, it does face the risk of being that low-hanging fruit. </p>
+<p><strong>Well, alrighty then. What about 45X? That’s pretty crucial to many manufacturers out there today. </strong></p>
+<p>I think both Democrats and Republicans can stand behind more domestic manufacturing coming to the United States. That’s something that is a bipartisan consensus and reducing that, harming that, will pose a liability for politicians. Now similarly, you could shorten the window and amounts, but at the end of the day, it’s a lot more politically resilient despite being seen as the most expensive part of what was included in the IRA. </p>
+<p><strong>You ranked about half of the IRA’s programs – hydrogen, carbon capture, sustainable aviation fuels, and more – as being both low cost and at low risk for repeal. Why? </strong></p>
+<p>What they benefit from is a greater resonance with Republican policymakers. Carbon capture and sequestration, sustainable aviation fuels and biofuels, hydrogen – all of these things get more of a shrug with Republicans when you talk to them. And that is why you see major oil and gas groups come out and say, hey, let’s not repeal the whole IRA.</p>
+<p><strong>But repealing the programs at risk while keeping these other programs… how would that outcome impact the pace of decarbonization? </strong></p>
+<p>Drastically. It would effectively remove the economic premise for all future renewable energy generation. It gets rid of a key driver of the shift toward electric vehicles. I think if you repealed everything in the red, then I think what you’ve done is you’ve gotten rid of all the reasons capital is pouring money into renewable energy projects and storage right now. In that scenario you’d see a drastic slowdown in climate ambitions in the electric power sector and also the EV transition that’s been happening. </p>
+<p><strong>So… the oil companies telling Trump to keep some of the IRA is a cold comfort, then? </strong></p>
+<p>Knowing it doesn’t go away fully is a cold comfort looking at this risk analysis.</p>
+<p><strong>What did this exercise teach you about the IRA? </strong></p>
+<p>I think that a lot of the net benefit of the decarbonization that translates to jobs and economic development is really, really close, and a lot of what is in the IRA would be lower risk if more of that had been pushed through faster. I think implementation and the natural barriers of the lack of transmission, siting and permitting challenges… There's a confluence of things that make it hard to quickly double the size of the sector but a lot of stuff is coming. But there’s capital behind it, plans behind it, and I think they’re going to build a lot more. As they do that, the sentiment is going to change behind it, but we have to get to that promised land first. </p> 
+
+<br> 
+
+<https://heatmap.news/plus/the-fight/qa/inflation-reduction-act-cuts-trump>
+
+---
+
+## Trump wanted generals like Hitler's, says ex-White House chief of staff
+
+date: 2024-10-23, from: VOA News USA
+
+Washington — Donald Trump's longest-serving chief of staff is warning that the Republican presidential nominee meets the definition of a fascist and that while in office, Trump suggested that Nazi leader Adolf Hitler "did some good things." 
+
+
+The comments from John Kelly, the retired Marine general who worked for Trump in the White House from 2017 to 2019, came in interviews published Tuesday in The New York Times and The Atlantic. They build on past warnings from former top Trump officials as the election enters its final two weeks. 
+
+
+Kelly has long been critical of Trump and previously accused him of calling veterans killed in combat "suckers" and "losers." His new warnings emerged as Trump seeks a second term vowing to dramatically expand his use of the military at home and suggesting he would use force to go after Americans he considers "enemies from within." 
+
+
+"He commented more than once that, 'You know, Hitler did some good things, too,'" Kelly recalled to the Times. Kelly said he would usually quash the conversation by saying "nothing (Hitler) did, you could argue, was good," but that Trump would occasionally bring up the topic again. 
+
+
+In his interview with the Atlantic, Kelly recalled that when Trump raised the idea of needing "German generals," Kelly would ask if he meant "Bismarck's generals," referring to Otto von Bismarck, the chancellor who oversaw the unification of Germany. "Surely you can't mean Hitler's generals," Kelly recalled asking Trump. To which the former president responded, "Yeah, yeah, Hitler's generals." 
+
+
+Trump's campaign denied the accounts Tuesday, with campaign spokesman Steven Cheung saying that Kelly had "beclowned himself with these debunked stories he has fabricated." 
+
+
+Polls show the race is tight in swing states, and both Trump and Vice President Kamala Harris are crisscrossing the country making their final pitches to the sliver of undecided voters. Harris' campaign has spent considerable time reaching out to independent voters, using the support of longtime Republicans such as former Rep. Liz Cheney and comments like Kelly's to urge past Trump voters to reject his candidacy in November. 
+
+
+Harris' campaign held a call with reporters Tuesday to elevate the voices of retired military officials who highlighted how many of the officials who worked with Trump now oppose his campaign. 
+
+
+"People that know him best are most opposed to him, his presidency," said retired Army Brig. Gen. Steve Anderson. 
+
+
+Anderson said he wished Kelly would fully back Harris over Trump, something he has yet to do. But retired Army reserve Col. Kevin Carroll, a former senior counselor to Kelly, said Wednesday that the former top Trump official would "rather chew broken glass than vote for Donald Trump." 
+
+
+Before serving as Trump's chief of staff, Kelly worked as the former president's secretary of homeland security, where he oversaw Trump's attempts to build a wall along the U.S.-Mexico border. Kelly was also at the forefront of the Trump administration's crackdown in immigration policy that led to the separation of thousands of immigrant parents and their children along the southern border. Those actions made him a villain to many on the left, including Harris. 
+
+
+Kelly is not the first former top Trump administration official to cast the former president as a threat. 
+
+
+Retired Army Gen. Mark A. Milley, who served as Trump's chairman of the Joint Chiefs of Staff, told Bob Woodward in his recent book "War" that Trump was "fascist to the core" and "the most dangerous person to this country." And retired Gen. Jim Mattis, who worked as secretary of defense under Trump, reportedly later told Woodward that he agreed with Milley's assessment. 
+
+
+Throughout Trump's political rise, the businessman-turned-politician benefited from the support of military veterans. 
+
+
+AP VoteCast found that about 6 in 10 military veterans said they voted for Trump in 2020, as did just over half of those with a veteran in the household. Among voters in this year's South Carolina Republican primary, AP VoteCast found that close to two-thirds of military veterans and people in veteran households voted for Trump over former South Carolina Gov. Nikki Haley, Trump's toughest opponent in the 2024 Republican primary. 
+
+<br> 
+
+<https://www.voanews.com/a/ex-wh-chief-of-staff-trump-wanted-generals-like-hitler-s-and-said-nazi-leader-did-some-good-things-/7836221.html>
+
+---
+
+## Border arrests fall in September, last monthly gauge before US elections
+
+date: 2024-10-23, from: VOA News USA
+
+San Diego — Arrests for illegally crossing the border from Mexico fell 7% in September to a more than four-year low, authorities said Tuesday. It was likely the last monthly gauge during a presidential campaign in which Republican nominee Donald Trump has made immigration a signature issue. 
+
+
+The Border Patrol made 53,858 arrests, down from 58,009 in August and the lowest tally since August 2020, when arrests totaled 47,283, according to U.S. Customs and Border Protection. 
+
+
+Mexicans accounted for nearly half of the arrests, becoming a greater part of the mix. In December, when arrests reached an all-time high of 250,000, Mexicans made up fewer than 1 in 4. Arrests for other major nationalities seen at the border, including Guatemalans, Hondurans, Colombians and Ecuadoreans, have plunged this year. 
+
+
+San Diego was again the busiest corridor for illegal crossings in September, followed by El Paso, Texas, and Tucson, Arizona. 
+
+
+For the government's fiscal year that ended on September 30, the Border Patrol made 1.53 million arrests after topping 2 million in each of the previous two years for the first time. 
+
+
+The White House touted the numbers as proof that severe asylum restrictions introduced in June were having the intended effect, and blamed congressional Republicans for opposing a border security bill that failed in February. Vice President Kamala Harris has used that line of attack against Trump to try to blunt criticism that the Biden administration has been weak on immigration enforcement. 
+
+
+"The Biden Harris administration has taken effective action, and Republican officials continue to do nothing," said White House spokesman Angelo Fernández Hernández. 
+
+
+The Federation for American Immigration Reform, a frequent administration critic and advocate for immigration restrictions, attributed recent declines to more enforcement by Mexican officials within their own borders, saying the White House "essentially outsourced U.S. border security to Mexico in advance of the 2024 election — policies that can be reversed at any time that the government of Mexico chooses." 
+
+
+Arrests fell sharply after Mexico increased enforcement in December, and took a steeper dive after the U.S. asylum restrictions took effect in June. U.S. officials have not been shy about highlighting Mexico's role. 
+
+
+Mexican authorities are encountering more migrants this year while deportations remain relatively low, creating a bottleneck. Panamanian authorities reported an increase in migrants walking through the notorious Darien Gap during September, though numbers are still well below last year. 
+
+
+Troy Miller, acting CBP commissioner, said last week that the administration is working with Mexico and other countries to jointly address migration. 
+
+
+"We continue to be concerned about any bottlenecks, we continue to look at those, we continue to address them with our partners," Miller said at a news conference in San Diego. 
+
+
+The Biden administration has promoted new and expanded legal pathways to enter the country in an effort to discourage illegal crossings. In September, CBP allowed more than 44,600 people to enter with appointments on an online system called CBP One, bringing the total to 852,000 since it was introduced in January 2023. 
+
+
+Another Biden policy allows up to 30,000 people from Cuba, Haiti, Nicaragua and Venezuela with financial sponsors to enter monthly through airports. More than 531,000 people from those four countries have entered that way up through September. 
+
+<br> 
+
+<https://www.voanews.com/a/7836194.html>
+
+---
+
+## Putin's Drone Strategy Shows the Cracks in Russia's War Machine
+
+date: 2024-10-23, updated: 2024-10-23, from: RAND blog
+
+Russia's efforts to boost drone production face challenges due to reliance on foreign parts, especially from China. Despite ambitions to produce 1.4 million drones, systemic issues and sanctions hinder domestic output. Moscow's dependency on China may grow as it struggles to meet targets. 
+
+<br> 
+
+<https://www.rand.org/pubs/commentary/2024/10/putins-drone-strategy-shows-the-cracks-in-russias-war.html>
+
+---
+
+## Fernando Valenzuela, Mexican-born pitcher whose feats for Dodgers fueled 'Fernandomania,' dies at 63
+
+date: 2024-10-23, from: VOA News USA
+
+LOS ANGELES — Fernando Valenzuela, the Mexican-born phenom for the Los Angeles Dodgers who inspired "Fernandomania" while winning the NL Cy Young Award and Rookie of the Year in 1981, has died. He was 63. 
+
+
+The team said he died Tuesday night at a Los Angeles hospital but did not provide the cause or other details. 
+
+
+His death comes as the Dodgers prepare to open the World Series on Friday night at home against the New York Yankees. Baseball Commissioner Rob Manfred said Valenzuela would be honored during the series at Dodger Stadium. 
+
+
+Valenzuela left his color commentator job on the Dodgers' Spanish-language television broadcast in September without explanation. He was reported to have been hospitalized earlier this month. His job kept him as a regular at Dodger Stadium, where he held court in the press box dining room before games and remained popular with fans who sought him out for photos and autographs. 
+
+
+"God bless Fernando Valenzuela!" actor and Dodgers fan Danny Trejo posted on X. 
+
+
+
+
+Valenzuela was one of the most dominant players of his era and a wildly popular figure in the 1980s, although he was never elected to the Baseball Hall of Fame. However, he is part of Cooperstown, which features several artifacts including a signed ball from his no-hitter in 1990. 
+
+
+"He is one of the most influential Dodgers ever and belongs on the Mount Rushmore of franchise heroes," Stan Kasten, team president and CEO, said in a statement. "He galvanized the fan base with the Fernandomania season of 1981 and has remained close to our hearts ever since, not only as a player but also as a broadcaster. He has left us all too soon." 
+
+
+Valenzuela's rise from humble beginnings as the youngest of 12 children in Mexico and his feats on the mound made him hugely popular and influential in Los Angeles' Latino community while helping attract new fans to Major League Baseball. Their fondness for him continued after his retirement. 
+
+
+"63 is way too young.... A piece of my childhood is gone," actor and Access Hollywood co-host Mario Lopez posted on X. "Growing up as a Mexican kid one of the main reasons I'm a Dodgers fan is because of Fernando. ... Not only a great player, but a great man to the community. What a legend." 
+
+
+Eva Torres, who is originally from Mexico City, drove from Anaheim to look at murals of Valenzuela on Sunset Boulevard near Dodgers Stadium. 
+
+
+"I wasn't a fan of baseball, but I am a fan of his," she said. "He's like me: an immigrant that came here to do great things." 
+
+
+
+
+In 1981, Valenzuela became the Dodgers' opening day starter as a rookie after Jerry Reuss was injured 24 hours before his scheduled start. He shut out the Houston Astros 2-0 and began the season 8-0 with five shutouts and an ERA of 0.50. He became the first player to win a Cy Young and Rookie of the Year in the same season. 
+
+
+His performances created the delirium known as "Fernandomania" among Dodgers fans. The ABBA hit Fernando would play as he warmed up on the mound. 
+
+
+"Fernando Valenzuela was a true icon of the Dodgers and the game," U.S. Rep. Jimmy Gomez of California posted on X. "His legacy and connection with the Latino community in LA is one of the reasons I fell in love with the Dodgers." 
+
+
+Valenzuela was 13-7 and had a 2.48 ERA in his first season, which was shortened by a players' strike. 
+
+
+He was an All-Star selection every year from 1981-86, when he recorded 97 victories, 84 complete games, 1,258 strikeouts and a 2.97 ERA. He was 5-1 with a 2.00 ERA in eight postseason starts. He earned two Silver Slugger Awards and a Gold Glove. 
+
+
+Valenzuela's no-hitter on June 29, 1990, a 6-0 victory over the St. Louis Cardinals, was an emotional career highlight. He struck out seven and walked three. 
+
+
+"If you have a sombrero, throw it to the sky!" Hall of Fame broadcaster Vin Scully exclaimed in his game call. 
+
+
+
+
+Nicknamed "El Toro" by the fans, Valenzuela had an unorthodox and memorable pitching motion that included looking skyward at the apex of each windup. His repertoire included a screwball — making him one of the few pitchers of his era who threw that pitch regularly. It was taught to him by teammate Bobby Castillo after the Dodgers felt Valenzuela, who wasn't known as a hard thrower, needed another pitch. 
+
+
+Early in his Dodgers career, Valenzuela spoke little English and had trouble communicating with his catchers. Rookie Mike Scioscia learned Spanish and became Valenzuela's personal catcher before becoming the team's full-time catcher. 
+
+
+Valenzuela was a better-than-average hitter, with 10 career home runs. 
+
+
+Eventually, his pitching was compromised by nagging shoulder problems that kept him out of the 1988 postseason, when the Dodgers won the World Series. 
+
+
+The team released Valenzuela just before the 1991 season. He also pitched for the former California Angels, Baltimore Orioles, Philadelphia Phillies, San Diego Padres and St. Louis Cardinals. 
+
+
+He retired in 1997, going 173-153 with a 3.54 ERA in 17 seasons, the all-time major league leader in wins and strikeouts (2,074) by a Mexican-born player. In 11 seasons with the Dodgers, he was 141-116 with a 3.31 ERA. 
+
+
+After retiring from MLB, Valenzuela remained active in Mexico's winter league. He played for the Aguilas de Mexicali in the Pacific League until he was 44. He retired on Dec. 20, 2006. 
+
+
+"We regret the passing of a Mexican baseball legend, his legacy will remain forever in our league and in the heart of our fans," the league said in a statement. 
+
+
+
+
+The baseball summer league as well other sports entities in Mexico, including the Mexican Soccer Federation and the National Sports Commission, also mourned his death. 
+
+
+"I think we, all Mexicans, are sad for the Valenzuela loss, and we express our solidarity with his family," new Mexican President Claudia Sheinbaum said at her daily news conference. 
+
+
+Valenzuela is not only considered Mexico's greatest baseball player, but he also is widely considered one of its top three athletes of all time, along with soccer player Hugo Sanchez and boxer Julio Cesar Chavez. 
+
+
+"It's a sad night. The news has shocked me, my soul and my spirit, it's a tremendous loss," said Sanchez, now a sports analyst for ESPN. "He was a symbol for Mexican sports during a historic moment." 
+
+
+Valenzuela's rise from his tiny hometown of Etchohuaquila in the Mexican state of Sonora to stardom in the U.S. was improbable. He was the youngest child in a large family who tagged along when his older brothers played baseball. 
+
+
+He signed his first pro contract at age 16, and soon began overpowering older players in the Mexican Central League. 
+
+
+In 1978, legendary Dodgers scout Mike Brito was in Mexico to watch a shortstop when Valenzuela entered the game as a reliever. He immediately commanded Brito's attention and at age 18, Valenzuela signed with the Dodgers in 1979. He was sent to the California League that same year. 
+
+
+In 1980, Valenzuela was called up to the Dodgers in September and soon made his big league debut as a reliever. 
+
+
+He remains the only pitcher in MLB history to win the Cy Young and Rookie of the Year awards in the same season. The left-hander was the National League's starting pitcher in the All-Star Game in 1981, the same year the Dodgers won the World Series. 
+
+
+
+
+During his career, he made the cover of Sports Illustrated and visited the White House. 
+
+
+In 2003, Valenzuela returned to the Dodgers as the Spanish-language radio color commentator for NL games. Twelve years later, he switched to the color commentator job on the team's Spanish-language TV feed. 
+
+
+"He consistently supported the growth of the game through the World Baseball Classic and at MLB events across his home country," Manfred said in a statement. "As a member of the Dodger broadcasting team for more than 20 years, Fernando helped to reach a new generation of fans and cultivate their love of the game. Fernando will always remain a beloved figure in Dodger history and a special source of pride for the millions of Latino fans he inspired." 
+
+
+He was inducted into the Mexican Professional Baseball Hall of Fame in 2014. Five years later, the Mexican League retired Valenzuela's No. 34 jersey. The Dodgers followed in 2023 after keeping his number out of circulation since he last pitched for the team in 1991. The team has a rule that requires a player to be in the Baseball Hall of Fame before the Dodgers retire his number, but they made an exception for Valenzuela. 
+
+
+The Dodgers named Valenzuela as part of the "Legends of Dodger Baseball" in 2019 and inducted him into the team's Ring of Honor in 2023. 
+
+
+He became a U.S. citizen in 2015. 
+
+
+Valenzuela served on the coaching staff for Mexico during the World Baseball Classic in 2006, 2009, 2013 and 2017. He was a part-owner of the Mexican League team Tigres de Quintana Roo, with son Fernando Jr. serving as team president and son Ricky serving as general manager. Fernando Jr. played in the San Diego Padres and Chicago White Sox organizations as a first baseman. 
+
+
+"To talk about Mexican baseball is to talk about Fernando Valenzuela. Thank you for putting Mexico's name high," Baseball's National Teams Committee said on X. "We join the Valenzuela Burgos family in their sorrow." 
+
+
+In addition to his sons, he is survived by his wife, Linda, who was a schoolteacher from Mexico whom he married in 1981, and daughters Linda and Maria as well as seven grandchildren. 
+
+<br> 
+
+<https://www.voanews.com/a/fernando-valenzuela-mexican-born-pitcher-whose-feats-for-dodgers-fueled-fernandomania-dies-at-63-/7836121.html>
 
 ---
 
@@ -2782,7 +3810,7 @@ date: 2024-10-21, from: Heatmap News
 <img alt="" class="rm-shortcode" data-rm-shortcode-id="4353f91ec6f34fa874112fa047e20734" data-rm-shortcode-name="rebelmouse-image" id="59dbf" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MzgzOTY5OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc4NTU2NzI5MX0.m_9NVx8CGYl3l2kacB94-65vj6qtnGr3WubeJuNWjwA/image.png?width=980"/>
 <small class="image-media media-caption" placeholder="Add Photo Caption...">Hurricane Oscar</small><small class="image-media media-photo-credit" placeholder="Add Photo Credit...">AccuWeather</small></p><h3>2. COP16 biodiversity summit kicks off in Colombia</h3><p>The <a href="https://www.cbd.int/conferences/2024?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_kRBQx7oss2jvHqP5dgYZ4TW2qz8500xN-zpXhUSdJBzq0sut3DTlZwp3Shrds-3ppqMYy" rel="noopener noreferrer" target="_blank">COP16 biodiversity summit</a> starts today in Cali, Colombia. Diplomats from 190 countries will try to come up with a plan to halt global biodiversity loss, aiming to protect 30% of land and sea areas and restore 30% of degraded ecosystems by 2030. Discussions will revolve around how to monitor nature degradation, hold countries accountable for their protection pledges, and pay for biodiversity efforts. There will also be a big push to get many more countries to publish national biodiversity strategies. “This COP is a test of how serious countries are about upholding their international commitments to stop the rapid loss of biodiversity,” <a href="https://www.wri.org/news/statement-un-biodiversity-summit-cop16-kicks-colombia?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_kRBQx7oss2jvHqP5dgYZ4TW2qz8500xN-zpXhUSdJBzq0sut3DTlZwp3Shrds-3ppqMYy" rel="noopener noreferrer" target="_blank">said</a> Crystal Davis, Global Director of Food, Land, and Water at the World Resources Institute. “The world has no shot at doing so without richer countries providing more financial support to developing countries — which contain most of the world’s biodiversity.”</p><h3>3. Report: U.S. oil and gas producers have roadmap for dismantling Biden climate rules</h3><p>A prominent group of oil and gas producers has developed a plan to roll back environmental rules put in place by President Biden, <em>The Washington Post </em><a href="https://www.washingtonpost.com/business/2024/10/17/oil-industry-trump-climate-lobbying/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_kRBQx7oss2jvHqP5dgYZ4TW2qz8500xN-zpXhUSdJBzq0sut3DTlZwp3Shrds-3ppqMYy" rel="noopener noreferrer" target="_blank">reported</a>. The paper got its hands on confidential documents from the American Exploration and Production Council (AXPC), which represents some 30 producers. The documents include draft executive orders promoting fossil fuel production for a newly-elected President Trump to sign if he takes the White House in November, as well as a roadmap for dismantling many policies aimed at getting oil and gas producers to disclose and curb emissions. AXPC’s members, including ExxonMobil, ConocoPhillips, and Hess, account for about half of the oil and gas produced in the U.S., the <em><em>Post</em></em> reported.</p><h3>4. UK’s heat pumps and EVs take a bite out of fossil fuel consumption</h3><p>A new <a href="https://ember-energy.org/latest-insights/uk-energy-security-clean-electrification/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_kRBQx7oss2jvHqP5dgYZ4TW2qz8500xN-zpXhUSdJBzq0sut3DTlZwp3Shrds-3ppqMYy" rel="noopener noreferrer" target="_blank">report</a> from the energy think tank Ember looks at how the uptake of electric vehicles and heat pumps in the U.K. is affecting oil and gas consumption. It found that last year the country had 1.5 million EVs on the road, and 430,000 residential heat pumps in homes, and the reduction in fossil fuel use due to the growth of these technologies was equivalent to 14 million barrels of oil, or about what the U.K. imports over a two-week span. This reduction effect will be even stronger as more and more EVs and heat pumps are powered by clean energy. The report also found that even though power demand is expected to rise, efficiency gains from electrification and decarbonization will make up for this, leading to an overall decline in energy use and fossil fuel consumption. </p><p class="shortcode-media shortcode-media-rebelmouse-image">
 <img alt="" class="rm-shortcode" data-rm-shortcode-id="1300231149260ad2a4480ebaacbbadfc" data-rm-shortcode-name="rebelmouse-image" id="2138f" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MzgzOTcwMi9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc3MzU0MzMzOX0.2UJvkD3mY_juzpWlCtXLGqxhHN-Y4nEC9IGWXjLcUpo/image.png?width=980"/>
-<small class="image-media media-photo-credit" placeholder="Add Photo Credit...">Ember</small></p><h3>5. Study: Rate of global sea level rise has more than doubled in 30 years</h3><p>The world’s sea levels are projected to rise by more than 6 inches on average over the next 30 years if current trends continue, according to a new <a href="https://www.nature.com/articles/s43247-024-01761-5?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_kRBQx7oss2jvHqP5dgYZ4TW2qz8500xN-zpXhUSdJBzq0sut3DTlZwp3Shrds-3ppqMYy" rel="noopener noreferrer" target="_blank">study</a> published in the journal <em>Nature</em>. “Such rates would represent an evolving challenge for adaptation efforts,” the authors wrote. By examining satellite data, the researchers found that sea levels have risen by about .4 inches since 1993, and that they’re rising faster now than they were then. In 1993 the seas were rising by about .08 inches per year, and last year they were rising at .17 inches per year. These are averages, of course, and some areas are seeing much more extreme changes. For example, areas around Miami, Florida, have already seen sea levels rise by <a href="https://climatecenter.fsu.edu/topics/sea-level-rise?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_kRBQx7oss2jvHqP5dgYZ4TW2qz8500xN-zpXhUSdJBzq0sut3DTlZwp3Shrds-3ppqMYy#:~:text=Satellite%20altimetry%20data%20indicate%20that,for%20each%20tide%20gauge%20varies." rel="noopener noreferrer" target="_blank">6 inches</a> over the last 31 years.</p><h2>THE KICKER</h2><p><em><em>“As the climate crisis grows more urgent, restoring faith in government will be more important than ever.”</em></em> –<a href="https://heatmap.news/politics/fema-disaster-trust?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_kRBQx7oss2jvHqP5dgYZ4TW2qz8500xN-zpXhUSdJBzq0sut3DTlZwp3Shrds-3ppqMYy" rel="noopener" target="_self">Paul Waldman writing for Heatmap</a> about the profound implications of America becoming a low-trust society.</p> 
+<small class="image-media media-photo-credit" placeholder="Add Photo Credit...">Ember</small></p><h3>5. Study: Rate of global sea level rise has more than doubled in 30 years</h3><p>The world’s sea levels are projected to rise by more than 6 inches on average over the next 30 years if current trends continue, according to a new <a href="https://www.nature.com/articles/s43247-024-01761-5?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_kRBQx7oss2jvHqP5dgYZ4TW2qz8500xN-zpXhUSdJBzq0sut3DTlZwp3Shrds-3ppqMYy" rel="noopener noreferrer" target="_blank">study</a> published in the journal <em>Nature</em>. “Such rates would represent an evolving challenge for adaptation efforts,” the authors wrote. By examining satellite data, the researchers found that sea levels have risen by more than 4 inches since 1993, and that they’re rising faster now than they were then. In 1993 the seas were rising by about .08 inches per year, and last year they were rising at .17 inches per year. These are averages, of course, and some areas are seeing much more extreme changes. For example, areas around Miami, Florida, have already seen sea levels rise by <a href="https://climatecenter.fsu.edu/topics/sea-level-rise?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_kRBQx7oss2jvHqP5dgYZ4TW2qz8500xN-zpXhUSdJBzq0sut3DTlZwp3Shrds-3ppqMYy#:~:text=Satellite%20altimetry%20data%20indicate%20that,for%20each%20tide%20gauge%20varies." rel="noopener noreferrer" target="_blank">6 inches</a> over the last 31 years.</p><h2>THE KICKER</h2><p><em><em>“As the climate crisis grows more urgent, restoring faith in government will be more important than ever.”</em></em> –<a href="https://heatmap.news/politics/fema-disaster-trust?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_kRBQx7oss2jvHqP5dgYZ4TW2qz8500xN-zpXhUSdJBzq0sut3DTlZwp3Shrds-3ppqMYy" rel="noopener" target="_self">Paul Waldman writing for Heatmap</a> about the profound implications of America becoming a low-trust society.</p> 
 
 <br> 
 

@@ -1,11 +1,620 @@
 ---
 title: pacific
-updated: 2024-10-23 09:33:31
+updated: 2024-10-24 08:40:38
 ---
 
 # pacific
 
-(date: 2024-10-23 09:33:31)
+(date: 2024-10-24 08:40:38)
+
+---
+
+## Pandanus featured in food show
+
+date: 2024-10-24, from: Marshal Islands Journal
+
+<p>HILARY HOSIA The opening of the World Food Day celebrations in Majuro kicked off at Delap Park last Friday with local-style entertainment and competitions. A parade of pandanus-themed floats prepared by several high schools kicked off the event, beginning at Rita and ending at Delap Park. Each high school showcased their unique artistry with displays [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/pandanus-featured-in-food-show/">Pandanus featured in food show</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/pandanus-featured-in-food-show/>
+
+---
+
+## Gg Wager Zakłady Na Game I Esport, Kasyno Gr
+
+date: 2024-10-24, from: FSM Development Bank News
+
+Gg Wager Zakłady Na Game I Esport, Kasyno Gry Jak Obstawiać Najlepsze Zakłady Esportowe Ggbet Content Jakie Rodzaje Zakładów Są Dostępne T Ggbet? Ggbet Oferuje Ponad 35 Dyscyplin Sportowych Bądź Na Bieżąco Z Promocjami Bukmachera Kasyno Internetowe Zakłady Na Sport Jakie Metody Obstawiania Są Dostępne W Ggbet? Ggbet: Co To? Wisła&#8221; &#8220;kraków &#8211; Kf Llapi: 
+
+<br> 
+
+<http://www.fsmdb.fm/2024/10/24/gg-wager-zaklady-na-game-i-esport-kasyno-gr/>
+
+---
+
+## Mostbet Bahisçisi: En İyi Oranlar Ve Çevrimiçi Canlı Bahis Deneyim
+
+date: 2024-10-24, from: FSM Development Bank News
+
+Mostbet Bahisçisi: En İyi Oranlar Ve Çevrimiçi Canlı Bahis Deneyimi &#8220;mostbet Turkey Resmi Sitesi Mostbet Casino 2024 Content &#8220;mostbet Türkiye Seda F – “birinci Sınıf Müşteri Desteği” Spor Bahisleri Ve Canlı Bahisler Mostbet Güvenli Una? Mostbet Promosyon Kodları Mostbet Para Çekme Yöntemleri Mostbet Bahis Sitesi Türkiye’deki Mostbet314 Bonusları Mostbet’e Şimdi Kaydolun! Türk Oyuncular Için Spor 
+
+<br> 
+
+<http://www.fsmdb.fm/2024/10/24/mostbet-bahiscisi-en-iyi-oranlar-ve-cevrimici-canli-bahis-deneyim/>
+
+---
+
+## “česká Online Kasina T Oficiální Licenc
+
+date: 2024-10-24, from: FSM Development Bank News
+
+&#8220;česká Online Kasina T Oficiální Licencí Nejlepší Seznam Online Kasin Versus Čr 2024 ️ Přehled Nejlepších Kasin Cz Content Bonus Two Hundred Kč Zabezpečení, Bezpečnost A Licencování Kasina Online V České Republice Co Je Rejstřík Vyloučených Osob Z Hraní Hazardních Her V Čr Online Casino Bonusy Bez Vkladu – Přehledné Informace Rychlý Přehled Online Kasin 
+
+<br> 
+
+<http://www.fsmdb.fm/2024/10/24/ceska-online-kasina-t-oficialni-licenc-2/>
+
+---
+
+## “česká Online Kasina T Oficiální Licenc
+
+date: 2024-10-24, from: FSM Development Bank News
+
+&#8220;česká Online Kasina T Oficiální Licencí Nejlepší Seznam Online Kasin Versus Čr 2024 ️ Přehled Nejlepších Kasin Cz Content Bonus Two Hundred Kč Zabezpečení, Bezpečnost A Licencování Kasina Online V České Republice Co Je Rejstřík Vyloučených Osob Z Hraní Hazardních Her V Čr Online Casino Bonusy Bez Vkladu – Přehledné Informace Rychlý Přehled Online Kasin 
+
+<br> 
+
+<http://www.fsmdb.fm/2024/10/24/ceska-online-kasina-t-oficialni-licenc/>
+
+---
+
+## 1win Withdrawal Methods Rules, Moment And Limits Throughout Indi
+
+date: 2024-10-24, from: FSM Development Bank News
+
+1win Withdrawal Methods Rules, Moment And Limits Throughout India Fears Of Any Nato Withdrawal Rise As Trump Seeks A Return To Power The New York Times&#8221; Content Available 1win Withdrawal Methods Can I Use Our Relative’s Credit Card To Deposit Finances Or Withdraw Profits? In Withdrawal Times In Perfect Money Depositing And Withdrawing Coming From 
+
+<br> 
+
+<http://www.fsmdb.fm/2024/10/24/1win-withdrawal-methods-rules-moment-and-limits-throughout-indi-2/>
+
+---
+
+## 1win Withdrawal Methods Rules, Moment And Limits Throughout Indi
+
+date: 2024-10-24, from: FSM Development Bank News
+
+1win Withdrawal Methods Rules, Moment And Limits Throughout India Fears Of Any Nato Withdrawal Rise As Trump Seeks A Return To Power The New York Times&#8221; Content Available 1win Withdrawal Methods Can I Use Our Relative’s Credit Card To Deposit Finances Or Withdraw Profits? In Withdrawal Times In Perfect Money Depositing And Withdrawing Coming From 
+
+<br> 
+
+<http://www.fsmdb.fm/2024/10/24/1win-withdrawal-methods-rules-moment-and-limits-throughout-indi/>
+
+---
+
+## Esports: Porównanie Kursów Bukmacherskich Watts Lipiec 202
+
+date: 2024-10-24, from: FSM Development Bank News
+
+Esports: Porównanie Kursów Bukmacherskich Watts Lipiec 2024 Ggbet Strona Oficjalna Zakłady Bukmacherskie Online Content Rejestracja Konta Użytkownika Watts Pzbuk Ggbet; Jak Wpłacić Pieniądze? Gry Stołowe Portalu Gg Wager: Ogólny Ranking Polskie Zakłady Bukmacherskie Betters Porównanie Kursów Polskich Bukmacherów Betters Pl – Oferta Mhh Zakłady Online Co To Jest Ggbet? Co Robić Po Rejestracji T Ggbet? 
+
+<br> 
+
+<http://www.fsmdb.fm/2024/10/24/esports-porownanie-kursow-bukmacherskich-watts-lipiec-202/>
+
+---
+
+## ️κριτική Leon Casino #2024: Παίξτε Με Δώρο Εγγραφής Έως 150
+
+date: 2024-10-24, from: FSM Development Bank News
+
+️κριτική Leon Casino #2024: Παίξτε Με Δώρο Εγγραφής Έως 1500 Leon Casino Μπόνους Καλωσορίσματος Καζίνο Truck!&#8221; Content Leonbet Live Casino Πώς Να Εγγραφείς Στο Leon Casino Leonbet Κριτικές Να Πραγματοποιήσετε Την Πρώτη Σας Κατάθεση Και Να Διεκδικήσετε Το Μπόνους Καλοσωρίσματος ???? Μπόνους Καλωσορίσματος Καζίνο Μπορώ Να Συναντήσω Αρνητικές Κριτικές Για Τον Leon; Αν Ναι, Ποιες; 
+
+<br> 
+
+<http://www.fsmdb.fm/2024/10/24/%ef%b8%8f%ce%ba%cf%81%ce%b9%cf%84%ce%b9%ce%ba%ce%ae-leon-casino-2024-%cf%80%ce%b1%ce%af%ce%be%cf%84%ce%b5-%ce%bc%ce%b5-%ce%b4%cf%8e%cf%81%ce%bf-%ce%b5%ce%b3%ce%b3%cf%81%ce%b1%cf%86%ce%ae%cf%82/>
+
+---
+
+## Gerçek Parayla En Iyi Position Makineleri Ve Spor Bahisler
+
+date: 2024-10-24, from: FSM Development Bank News
+
+Gerçek Parayla En Iyi Position Makineleri Ve Spor Bahisleri Betebet Güvenli Giriş Casino, Spor, Slot Oyunları Content Jackpot Oyunları Vbet Casino Promosyonları Ve Bonusları Mostbet’in Başlıca Avantajları Para Yatırmanın Veya Kazançları Çekmenin Yolları Nelerdir? Pin Up Casino&#8217;yu Mobil Cihazlarda Oynayabilir Miyim? Basaribet Casino’ya Erişim Sağlayın Canlı Casino Deneyimi Canlı Bahis Para Çekme Ile Başka Ne 
+
+<br> 
+
+<http://www.fsmdb.fm/2024/10/24/gercek-parayla-en-iyi-position-makineleri-ve-spor-bahisler/>
+
+---
+
+## Скачать Приложение 1win и Андроид%3A Бесплатно%2C официально%2C Безопасн
+
+date: 2024-10-24, from: FSM Development Bank News
+
+Скачать Приложение 1win и Андроид%3A Бесплатно%2C официально%2C Безопасно Скачать Приложение 1win и Андроид Content Лайв Казино Win Скачать только Зарегистрироваться В Программе Почему Приложение Лучше Сайта%3F Рейтинг Мобильного Приложения Партнерские Сайты Скачать Приложение 1win На Андроид О Букмекере In Скачать В не Преимущество Использования Приложения 1win%3F Похожие Приложения Внесение Депозита И Вывод расходующихся Регистрация В 
+
+<br> 
+
+<http://www.fsmdb.fm/2024/10/24/%d1%81%d0%ba%d0%b0%d1%87%d0%b0%d1%82%d1%8c-%d0%bf%d1%80%d0%b8%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d0%b5-1win-%d0%b8-%d0%b0%d0%bd%d0%b4%d1%80%d0%be%d0%b8%d0%b4%3a-%d0%b1%d0%b5%d1%81%d0%bf%d0%bb%d0%b0/>
+
+---
+
+## EU backs water work
+
+date: 2024-10-24, from: Marshal Islands Journal
+
+<p>The Marshall Islands has six million reasons to celebrate and here’s why: The Addressing Climate Vulnerability in the Water Sector project or ACWA for short, is slatted to receive six million Euros ($6.5 million) to complement its ongoing water security project throughout the RMI. This development was confirmed during the pre-agreement ceremony between visiting EU [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/eu-backs-water-work/">EU backs water work</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/eu-backs-water-work/>
+
+---
+
+## Man charged in attempted Trump assassination seeks judge’s recusal
+
+date: 2024-10-24, from: Hawaii Tribune Harold
+
+
+				<p>Defense lawyers for the Hawaii man charged with trying to assassinate former President Donald Trump at his golf course in Florida renewed their efforts Wednesday to get the Trump-appointed judge who is handling the case to step down, citing a recent news article saying she is under consideration for a top legal position if Trump wins the election.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/24/nation-world-news/man-charged-in-attempted-trump-assassination-seeks-judges-recusal/>
+
+---
+
+## Nation and world news in brief for October 24
+
+date: 2024-10-24, from: Hawaii Tribune Harold
+
+
+				<p>CDC advisers &#0010;recommend &#0010;expanding &#0010;pneumococcal &#0010;vaccine</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/24/nation-world-news/nation-and-world-news-in-brief-for-october-24/>
+
+---
+
+## Iconic bridge in Hilo park to be rebuilt
+
+date: 2024-10-24, from: Hawaii Tribune Harold
+
+
+				<p>One of the most recognizable structures in Lili&#8216;uokalani Gardens, the vermilion wooden bridge pavilion, will undergo a complete rebuild because of extensive termite damage.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/24/hawaii-news/iconic-bridge-in-hilo-park-to-be-rebuilt/>
+
+---
+
+## 13-year-old boy killed in North Kona utility vehicle crash
+
+date: 2024-10-24, from: Hawaii Tribune Harold
+
+
+				<p>A 13-year-old Kailua-Kona boy was killed Tuesday in an rugged terrain vehicle (RTV) crash in North Kona.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/24/hawaii-news/13-year-old-boy-killed-in-north-kona-utility-vehicle-crash/>
+
+---
+
+## As election looms, disinformation has ‘never been worse’
+
+date: 2024-10-24, from: Hawaii Tribune Harold
+
+
+				<p>The Democratic Party&#8217;s vice presidential nominee has been falsely accused of sexually molesting students. The claims have been spread by a former deputy sheriff from Florida, now openly working in Moscow for Russia&#8217;s propaganda apparatus, on dozens of social media platforms and fake news outlets. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/24/nation-world-news/as-election-looms-disinformation-has-never-been-worse/>
+
+---
+
+## EA details harbor plan: Document gives DOT green light to purchase five lots to expand the entrance
+
+date: 2024-10-24, from: Hawaii Tribune Harold
+
+
+				<p>The state by the end of next year could purchase a little over nine acres of land on Kalanianaole Street to expand the entrance to Hilo Harbor.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/24/hawaii-news/ea-details-harbor-plan-document-gives-dot-green-light-to-purchase-five-lots-to-expand-the-entrance/>
+
+---
+
+## In surprise move, state high court takes on appeal of Hilo doctor’s HMSA lawsuit
+
+date: 2024-10-24, from: Hawaii Tribune Harold
+
+
+				<p>A Hilo doctor&#8217;s lawsuit against Hawaii&#8217;s largest health insurer will unexpectedly go before the state Supreme Court.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/24/hawaii-news/in-surprise-move-state-high-court-takes-on-appeal-of-hilo-doctors-hmsa-lawsuit/>
+
+---
+
+## A guide to Halloween events around the island
+
+date: 2024-10-24, from: Hawaii Tribune Harold
+
+
+				<p>&#8217;Tis the season for costumes, pumpkins, tricks and treats.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/24/hawaii-news/a-guide-to-halloween-events-around-the-island/>
+
+---
+
+## US finalizes $20 billion share of $50 billion G7 loan to Ukraine
+
+date: 2024-10-24, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. on Wednesday finalized its $20 billion portion of a long-awaited $50 billion loan to Ukraine backed by frozen Russian assets, announcing plans to start making funds available by year-end for economic and military aid. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/24/nation-world-news/us-finalizes-20-billion-share-of-50-billion-g7-loan-to-ukraine/>
+
+---
+
+## Israel, Hezbollah exchange heavy fire as Blinken pushes for peace
+
+date: 2024-10-24, from: Hawaii Tribune Harold
+
+
+				<p>BEIRUT/JERUSALEM &#8212; Israeli strikes pounded Beirut&#8217;s southern suburbs on Wednesday and Hezbollah said it fired precision guided missiles for the first time at Israeli targets, as U.S. Secretary of State Antony Blinken toured the region, pushing for a halt to fighting in both Gaza and Lebanon.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/24/nation-world-news/israel-hezbollah-exchange-heavy-fire-as-blinken-pushes-for-peace/>
+
+---
+
+## Commonwealth nations to discuss slavery, climate change at Samoa summit
+
+date: 2024-10-24, from: Hawaii Tribune Harold
+
+
+				<p>APIA &#8212; The leaders of the Commonwealth group of nations will meet at a welcome banquet in Samoa in the South Pacific on Thursday, with climate change and reparations for Britain&#8217;s role in the transatlantic slave trade both likely to be on the agenda. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/24/nation-world-news/commonwealth-nations-to-discuss-slavery-climate-change-at-samoa-summit/>
+
+---
+
+## Harris calls Trump’s reported remarks on Hitler and Nazis ‘deeply troubling’
+
+date: 2024-10-24, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Vice President Kamala Harris said Wednesday that former President Donald Trump&#8217;s reported comments praising Nazi generals offered &#8220;a window into who Donald Trump really is,&#8221; calling it &#8220;deeply troubling&#8221; that her Republican rival had apparently invoked Adolf Hitler in conversations with one of his former chiefs of staff, John Kelly. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/24/nation-world-news/harris-calls-trumps-reported-remarks-on-hitler-and-nazis-deeply-troubling/>
+
+---
+
+## US says evidence shows North Korea has troops in Russia, possibly for Ukraine war
+
+date: 2024-10-24, from: Hawaii Tribune Harold
+
+
+				<p>SEOUL &#8212; The United States said for the first time on Wednesday that it had seen evidence that North Korea has sent 3,000 troops to Russia for possible deployment in Ukraine, a move that could mark a significant escalation in Russia&#8217;s war against its neighbor. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/24/nation-world-news/us-says-evidence-shows-north-korea-has-troops-in-russia-possibly-for-ukraine-war/>
+
+---
+
+## Trump ally Lindell asks court to overturn award for debunking US election claims
+
+date: 2024-10-24, from: Hawaii Tribune Harold
+
+
+				<p>Donald Trump ally Mike Lindell, the CEO of MyPillow.com, asked a U.S. appeals court on Wednesday to strike down a $5 million award to a man who successfully debunked his claims of 2020 election fraud. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/24/nation-world-news/trump-ally-lindell-asks-court-to-overturn-award-for-debunking-us-election-claims/>
+
+---
+
+## McDonald’s US head vows to improve safety after E. coli outbreak, more cases expected
+
+date: 2024-10-24, from: Hawaii Tribune Harold
+
+
+				<p>McDonald&#8217;s scrambled on Wednesday to contain the damage from an E. coli outbreak linked to Quarter Pounder burgers that has killed one person and sickened nearly 50 others, as it pulled the menu item from restaurants across a dozen states. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/24/nation-world-news/mcdonalds-us-head-vows-to-improve-safety-after-e-coli-outbreak-more-cases-expected/>
+
+---
+
+## US to fund Palau’s site study for a new hospital building
+
+date: 2024-10-24, from: Pacific Island Times
+
+By Pacific Island Times News Staff Koror – The U.S. Trade and Development Agency and the Palauan government have formed a partnership to... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/us-to-fund-palau-s-site-study-for-a-new-hospital-building>
+
+---
+
+## USP to Serve as Regional Hub for the Newly Launched King’s Commonwealth Fellowships Programme
+
+date: 2024-10-24, from: University of the South Pacific (Fiji)
+
+<p>The King’s Commonwealth Fellowship Programme (KCFP) was launched this afternoon in the presence of His...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-to-serve-as-regional-hub-for-the-newly-launched-kings-commonwealth-fellowships-programme/">USP to Serve as Regional Hub for the Newly Launched King’s Commonwealth Fellowships Programme</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/usp-to-serve-as-regional-hub-for-the-newly-launched-kings-commonwealth-fellowships-programme/>
+
+---
+
+## Juren Ae hand over
+
+date: 2024-10-24, from: Marshal Islands Journal
+
+<p>HILARY HOSIA The unveiling of the Juren Ae prototype sailing ship model took place in front of a crowd at Robert Reimers Enterprises Tuesday following the official handover ceremony of the cargo sailing vessel. Germany Charge’d Affaires Mathias Kruse joined Minister in Assistance Bremity Lakjohn in the unveiling event. The model is a gift to [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/juren-ae-hand-over/">Juren Ae hand over</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/juren-ae-hand-over/>
+
+---
+
+## Ten additional countries in the Western Pacific Region pledge to invest in WHO
+
+date: 2024-10-23, from: Pacific Island Times
+
+Manila --  Ten more countries in the Western Pacific pledged to provide an additional US$ 12.1 million to the World Health Organization ... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/ten-additional-countries-in-the-western-pacific-region-pledge-to-invest-in-who>
+
+---
+
+## Donated inverters boost renewable energy education at Hawaiʻi CC
+
+date: 2024-10-23, from: University of Hawaiʻi News
+
+<p>Electrical technology students to get hands-on instruction working on inverters.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/23/donated-inverters-boost-renewable-energy-education/">Donated inverters boost renewable energy education at <span aria-label="Hawaii">Hawaiʻi</span> <abbr>CC</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/23/donated-inverters-boost-renewable-energy-education/>
+
+---
+
+## AG Office’s newest attorney
+
+date: 2024-10-23, from: Marshal Islands Journal
+
+<p>Mulan John is the newest attorney in the Marshall Islands. She was sworn in and admitted to the Marshall Islands bar to practice law during a ceremony Tuesday this week. This follows her graduation from the University of the South Pacific’s law school in Vanuatu where she graduated with a bachelor of law and a [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/ag-offices-newest-attorney/">AG Office’s newest attorney</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/ag-offices-newest-attorney/>
+
+---
+
+## FALAH workshop integrates traditional and modern farming practices
+
+date: 2024-10-23, from: University of the South Pacific (Fiji)
+
+<p>A two-day workshop hosted by The University of the South Pacific (USP) through the Family,...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/falah-workshop-integrates-traditional-and-modern-farming-practices/">FALAH workshop integrates traditional and modern farming practices</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/falah-workshop-integrates-traditional-and-modern-farming-practices/>
+
+---
+
+## Navigating the Pacific’s future: Resilience, heritage and the enduring spirit of the UN charter
+
+date: 2024-10-23, from: Pacific Island Times
+
+Suva, Fiji – When the UN Charter was signed in 1945, it laid the foundation for a world built on peace, dignity, and collective action.... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/navigating-the-pacific-s-future-resilience-heritage-and-the-enduring-spirit-of-the-un-charter>
+
+---
+
+## King and 56 countries: Samoa rolls out red carpet for post-colonial family function
+
+date: 2024-10-23, from: Pacific Island Times
+
+The question of ‘what does the Commonwealth do?’ remains a persistent one By Tess Newton Cain (Benar News/Commentary) --When the... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/king-and-56-countries-samoa-rolls-out-red-carpet-for-post-colonial-family-function>
+
+---
+
+## 'It’s time to elect leaders who will drive real change for Guam'
+
+date: 2024-10-23, from: Pacific Island Times
+
+As we approach another election season, it’s important to reflect on the issues that directly impact our daily lives and future. From the... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/it-s-time-to-elect-leaders-who-will-drive-real-change-for-guam>
+
+---
+
+## Guam's congressional candidates' swap insults as election day nears
+
+date: 2024-10-23, from: Pacific Island Times
+
+By Jayvee Vallejera   Guam’s incumbent delegate, James Moylan of the Republican Party of Guam, and his opponent, Ginger Cruz of the... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-s-congressional-candidates-swap-insults-as-election-day-nears>
+
+---
+
+## All are welcome to Discover UH Mānoa, the annual campus open house
+
+date: 2024-10-23, from: University of Hawaiʻi News
+
+<p>Thousands are expected to attend the Discover UH Mānoa Open House that will feature hundreds of booths, tours, interactive displays and more.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/23/discover-uh-manoa-2024/">All are welcome to Discover <abbr>UH</abbr> Mānoa, the annual campus open house</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/23/discover-uh-manoa-2024/>
+
+---
+
+## Image of the Week: Showing pride
+
+date: 2024-10-23, from: University of Hawaiʻi News
+
+<p>This week’s <em><abbr>UH</abbr> News</em> Image of the Week is of the <abbr title="University of Hawaii">UH</abbr> Mānoa Department of Theatre &#38; Dance at the Honolulu Pride Parade.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/23/image-of-the-week-showing-their-pride/">Image of the Week: Showing pride</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/23/image-of-the-week-showing-their-pride/>
+
+---
+
+## Hawaii judge to preside over IPI’s bankruptcy case
+
+date: 2024-10-23, updated: 2024-10-24, from: Marianas Variety
+
+ROBERT Faris, U.S. bankruptcy judge for the District of Hawaii, has been appointed to preside over Imperial Pacific International’s bankruptcy case following the recusal of Chief Judge Ramona V. Manglona of the District Court for the NMI. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/hawaii-judge-to-preside-over-ipi-s-bankruptcy-case/article_db6ddda8-90f9-11ef-953d-0b0c1bd78c28.html>
+
+---
+
+## Decomposing body found in CK building
+
+date: 2024-10-23, updated: 2024-10-24, from: Marianas Variety
+
+A DECOMPOSING body was found in a room on the 2nd floor of Char’s Commercial Building in Chalan Kanoa on Tuesday evening, Oct. 22, according to the Department of Public Safety. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/decomposing-body-found-in-ck-building/article_94c8a90a-90fe-11ef-aa4f-476705138074.html>
+
+---
+
+## PSS Early Intervention Program marks 20 years of serving Tinian
+
+date: 2024-10-23, updated: 2024-10-24, from: Marianas Variety
+
+(PSS) — In expressing its gratitude to Tinian residents, the Early Intervention Program of the Public School System has reaffirmed its dedication to carry on its free early detection services to infants, toddlers, and their families, which the program has been providing in the last 20 years. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/pss-early-intervention-program-marks-20-years-of-serving-tinian/article_14c373d6-9156-11ef-9c07-f73beb058601.html>
+
+---
+
+## NMC nursing graduate Kimberly Hofschneider passes NCLEX-RN
+
+date: 2024-10-23, updated: 2024-10-24, from: Marianas Variety
+
+(NMC) — Northern Marianas College 2024 nursing graduate Kimberly Hofschneider has joined the long list of NMC students who have passed the National Council Licensure Examination for Registered Nurses or NCLEX-RN. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/nmc-nursing-graduate-kimberly-hofschneider-passes-nclex-rn/article_c2c86e5a-9156-11ef-b572-035f4d5c5a7e.html>
+
+---
+
+## OPINION ǀ Truth 66: Malfeasance & WHY Politicians WHY!
+
+date: 2024-10-23, updated: 2024-10-24, from: Marianas Variety
+
+THE Truth of the matter is malfeasant behavior still prevails in our government when WE were PROMISED by the Governor “TRUST” — for TRUE! Why this behavior continues is mind-boggling, as it seems to be acceptable in the absence of any protest. The Governor just declared MORE austerity after two years in office, as it is clear NOTHING has been done to create NEW revenue sources after two years other than the continuous dependency upon the Feds to save us. WHY do our politicians play “safe politics” their entire term and save Bills for election season is the only planning I see on the Hill — WHY!  WHY our politicians flat out REFUSE to even consider the plethora of ideas and recommendation I’ve offered, as it can only be fear of GOP reprisal, bigotry towards outsiders, and/or just don’t care as long as they are sitting, as locals say! 
+
+<br> 
+
+<https://www.mvariety.com/views/columnists/opinion-truth-66-malfeasance-why-politicians-why/article_96993e14-9155-11ef-bfd7-9316ba5b6c87.html>
+
+---
+
+## NMC to host free spring 2025 info session on Oct. 29
+
+date: 2024-10-23, updated: 2024-10-24, from: Marianas Variety
+
+(NMC) — Community members interested in pursuing higher education are invited to attend Northern Marianas College’s free information session regarding the upcoming Spring 2025 semester on Tuesday, Oct. 29, 2024. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/nmc-to-host-free-spring-2025-info-session-on-oct-29/article_1f543b18-9157-11ef-9b18-df5bbe8613d7.html>
+
+---
+
+## Is the killer bachelor No. 1 or No. 2? Anna Kendrick’s chilling ‘Woman of the Hour’
+
+date: 2024-10-23, updated: 2024-10-24, from: Marianas Variety
+
+(AP) — In Anna Kendrick’s “Woman of the Hour,” a chilling, based-on-a-true-story drama about when a 1970s serial killer appeared on an episode of “The Dating Game,” one of the most telling images isn’t a grisly murder scene (though there are those). It’s Pete Holmes’ face. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/is-the-killer-bachelor-no-1-or-no-2-anna-kendrick-s-chilling-woman-of/article_591963c8-9157-11ef-bae1-2758be973e8d.html>
 
 ---
 
@@ -21,18 +630,6 @@ REPRESENTATIVES Vincent Aldan, Vicente Camacho, John Paul Sablan, Marissa Flores
 
 ---
 
-## Hawaii judge to preside over IPI’s bankruptcy case
-
-date: 2024-10-23, updated: 2024-10-23, from: Marianas Variety
-
-ROBERT Faris, U.S. bankruptcy judge for the District of Hawaii, has been appointed to preside over Imperial Pacific International’s bankruptcy case following the recusal of Chief Judge Ramona V. Manglona of the District Court for the NMI. 
-
-<br> 
-
-<https://www.mvariety.com/news/local/hawaii-judge-to-preside-over-ipi-s-bankruptcy-case/article_db6ddda8-90f9-11ef-953d-0b0c1bd78c28.html>
-
----
-
 ## SIS and MCS students raise over $1,500 for Red Cross
 
 date: 2024-10-23, updated: 2024-10-23, from: Marianas Variety
@@ -42,66 +639,6 @@ THE presidents of two high school American Red Cross clubs on Saipan brought the
 <br> 
 
 <https://www.mvariety.com/news/local/sis-and-mcs-students-raise-over-1-500-for-red-cross/article_7b5d3c92-90ef-11ef-a3d9-a709345256e2.html>
-
----
-
-## Decomposing body found in CK building
-
-date: 2024-10-23, updated: 2024-10-23, from: Marianas Variety
-
-A DECOMPOSING body was found in a room on the 2nd floor of Char’s Commercial Building in Chalan Kanoa on Tuesday evening, Oct. 22, according to the Department of Public Safety. 
-
-<br> 
-
-<https://www.mvariety.com/news/local/decomposing-body-found-in-ck-building/article_94c8a90a-90fe-11ef-aa4f-476705138074.html>
-
----
-
-## PSS Early Intervention Program marks 20 years of serving Tinian
-
-date: 2024-10-23, updated: 2024-10-23, from: Marianas Variety
-
-(PSS) — In expressing its gratitude to Tinian residents, the Early Intervention Program of the Public School System has reaffirmed its dedication to carry on its free early detection services to infants, toddlers, and their families, which the program has been providing in the last 20 years. 
-
-<br> 
-
-<https://www.mvariety.com/news/community_bulletins/pss-early-intervention-program-marks-20-years-of-serving-tinian/article_14c373d6-9156-11ef-9c07-f73beb058601.html>
-
----
-
-## NMC nursing graduate Kimberly Hofschneider passes NCLEX-RN
-
-date: 2024-10-23, updated: 2024-10-23, from: Marianas Variety
-
-(NMC) — Northern Marianas College 2024 nursing graduate Kimberly Hofschneider has joined the long list of NMC students who have passed the National Council Licensure Examination for Registered Nurses or NCLEX-RN. 
-
-<br> 
-
-<https://www.mvariety.com/news/community_bulletins/nmc-nursing-graduate-kimberly-hofschneider-passes-nclex-rn/article_c2c86e5a-9156-11ef-b572-035f4d5c5a7e.html>
-
----
-
-## OPINION ǀ Truth 66: Malfeasance & WHY Politicians WHY!
-
-date: 2024-10-23, updated: 2024-10-23, from: Marianas Variety
-
-THE Truth of the matter is malfeasant behavior still prevails in our government when WE were PROMISED by the Governor “TRUST” — for TRUE! Why this behavior continues is mind-boggling, as it seems to be acceptable in the absence of any protest. The Governor just declared MORE austerity after two years in office, as it is clear NOTHING has been done to create NEW revenue sources after two years other than the continuous dependency upon the Feds to save us. WHY do our politicians play “safe politics” their entire term and save Bills for election season is the only planning I see on the Hill — WHY!  WHY our politicians flat out REFUSE to even consider the plethora of ideas and recommendation I’ve offered, as it can only be fear of GOP reprisal, bigotry towards outsiders, and/or just don’t care as long as they are sitting, as locals say! 
-
-<br> 
-
-<https://www.mvariety.com/views/columnists/opinion-truth-66-malfeasance-why-politicians-why/article_96993e14-9155-11ef-bfd7-9316ba5b6c87.html>
-
----
-
-## NMC to host free spring 2025 info session on Oct. 29
-
-date: 2024-10-23, updated: 2024-10-23, from: Marianas Variety
-
-(NMC) — Community members interested in pursuing higher education are invited to attend Northern Marianas College’s free information session regarding the upcoming Spring 2025 semester on Tuesday, Oct. 29, 2024. 
-
-<br> 
-
-<https://www.mvariety.com/news/community_bulletins/nmc-to-host-free-spring-2025-info-session-on-oct-29/article_1f543b18-9157-11ef-9b18-df5bbe8613d7.html>
 
 ---
 
@@ -366,6 +903,20 @@ date: 2024-10-23, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2024/10/23/community/charity-walk-raises-500k-for-big-island-nonprofits/>
+
+---
+
+## 13-year-old boy killed in North Kona ATV crash
+
+date: 2024-10-23, from: Hawaii Tribune Harold
+
+
+				<p>A 13-year-old Kailua-Kona boy was killed Tuesday in a utility vehicle crash in North Kona.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/23/hawaii-news/13-year-old-boy-killed-in-north-kona-atv-crash/>
 
 ---
 

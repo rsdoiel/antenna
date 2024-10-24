@@ -1,11 +1,269 @@
 ---
 title: food
-updated: 2024-10-23 09:33:34
+updated: 2024-10-24 08:40:40
 ---
 
 # food
 
-(date: 2024-10-23 09:33:34)
+(date: 2024-10-24 08:40:40)
+
+---
+
+## Kofta Kabobs
+
+date: 2024-10-24, from: Taste of Home
+
+These spiced beef and lamb kofta kabobs are packed with bold flavors. The recipe comes together in only 30 minutes, so it's perfect for grilling any night of the week. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/kofta-kabobs/>
+
+---
+
+## Greek Tuna Salad
+
+date: 2024-10-24, from: Taste of Home
+
+This Greek tuna salad is just the thing when you want a light lunch that will keep you satisfied without weighing you down. The combination of chickpeas, feta and tuna packs plenty of fiber and protein, but this is still very much a healthy dish. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/greek-tuna-salad/>
+
+---
+
+## Grilled Corn Salad
+
+date: 2024-10-24, from: Taste of Home
+
+This grilled corn salad is easy to make and packed with veggies and flavor, which means it's always welcome on the table. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/grilled-corn-salad/>
+
+---
+
+## Cafecita Shines with Solar Powered Trailer in Burbank
+
+date: 2024-10-24, from: Daily Coffee News
+
+<div><img width="620" height="448" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Cafecita-Solar-1-620x448.jpg" class="attachment-large size-large wp-post-image" alt="Cafecita Solar" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Cafecita-Solar-1-620x448.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Cafecita-Solar-1-300x217.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Cafecita-Solar-1-150x108.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Cafecita-Solar-1-768x554.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Cafecita-Solar-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Women-owned specialty coffee roasting company Cafecita is having more than fun in the California sun with the opening of a permanent coffee trailer that runs entirely on solar power.&#160; Inside... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/10/24/cafecita-shines-with-solar-powered-trailer-in-burbank/>
+
+---
+
+## Ground Control Ushers in New Era with Flagship SM Brewer and CEO
+
+date: 2024-10-24, from: Daily Coffee News
+
+<div><img width="620" height="368" src="https://dailycoffeenews.com/wp-content/uploads/2024/04/Ground-Control-Brewer-620x368.jpg" class="attachment-large size-large wp-post-image" alt="Ground Control Brewer" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/04/Ground-Control-Brewer-620x368.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/04/Ground-Control-Brewer-300x178.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/04/Ground-Control-Brewer-150x89.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/04/Ground-Control-Brewer-768x455.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/04/Ground-Control-Brewer.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Oakland, California-based coffee equipment maker Ground Control recently sent out the first shipment of its latest product, a versatile commercial brewing device called the Ground Control SM. The SM ushers... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/10/24/ground-control-ushers-in-new-era-with-flagship-sm-brewer-and-ceo/>
+
+---
+
+## Thai Seafood Curry: Hot, Sweet, And Sour
+
+date: 2024-10-24, from: Pepper Scale
+
+This multi-flavored, vibrantly colored Thai seafood curry is fired by spicy bird’s eye chilies, sweetened with papaya and palm sugar, and spiced by the sharp, citrusy tang of tamarind. It’s a terrific taste of Thailand that’s ready in just thirty minutes. In this beautiful dish, ... <p class="read-more-container"><a title="Thai Seafood Curry: Hot, Sweet, And Sour" class="read-more button" href="https://pepperscale.com/thai-seafood-curry/#more-84530" aria-label="Read more about Thai Seafood Curry: Hot, Sweet, And Sour">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/thai-seafood-curry/>
+
+---
+
+## What’s A Good Chili Flakes Substitute?
+
+date: 2024-10-24, from: Pepper Scale
+
+Chili flakes, a.k.a. red pepper flakes or crushed red pepper, are a kitchen spice rack staple. But just like any spice, you can run out at the most in-opportune time. Where do you turn when you need a chili flakes substitute in a pinch? We ... <p class="read-more-container"><a title="What&#8217;s A Good Chili Flakes Substitute?" class="read-more button" href="https://pepperscale.com/chili-flakes-substitute/#more-5080" aria-label="Read more about What&#8217;s A Good Chili Flakes Substitute?">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/chili-flakes-substitute/>
+
+---
+
+## Can You Freeze Hot Sauce?
+
+date: 2024-10-24, from: Pepper Scale
+
+Hot sauce is a common condiment, typically made from chili peppers, vinegar, and salt (and sometimes with additional ingredients.) So, the short of it: you can freeze hot sauce. Freezing hot sauce is a great way to extend its shelf life. When frozen, it will ... <p class="read-more-container"><a title="Can You Freeze Hot Sauce?" class="read-more button" href="https://pepperscale.com/can-you-freeze-hot-sauce/#more-56877" aria-label="Read more about Can You Freeze Hot Sauce?">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/can-you-freeze-hot-sauce/>
+
+---
+
+## Butternut Squash Peanut Turkey Curry
+
+date: 2024-10-24, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2024/10/Butternut-Squash-Peanut-Turkey-Curry-1200-0098.jpg"/></div>
+<p>A Thai style curry with turkey and butternut squash! I am a big fan of Thai style curries especially when they include red curry paste (link), pumpkin/squash, coconut milk, and peanut butter! What a flavour combo! This curry is inspired by those flavours and it starts with ground turkey and veggies before adding garlic, ginger,...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/butternut-squash-peanut-turkey-curry/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/butternut-squash-peanut-turkey-curry/">Butternut Squash Peanut Turkey Curry</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/butternut-squash-peanut-turkey-curry/>
+
+---
+
+## Chicken Alfredo Casserole
+
+date: 2024-10-24, from: Taste of Home
+
+If your fantasy dinner involves pasta smothered in a creamy, garlic-spiked sauce that is made in a single dish and ready in under 40 minutes, this creamy alfredo chicken casserole is for you. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/chicken-alfredo-casserole/>
+
+---
+
+## Target Is Lowering Prices on over 2,000 Products This Holiday Season
+
+date: 2024-10-23, from: Taste of Home
+
+<p>Target shoppers can look forward to savings all over the store.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/target-prices-will-be-lower-this-holiday-season/">Target Is Lowering Prices on over 2,000 Products This Holiday Season</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/target-prices-will-be-lower-this-holiday-season/>
+
+---
+
+## Tuna Mac and Cheese
+
+date: 2024-10-23, from: Taste of Home
+
+On the flavor spectrum, this tuna mac and cheese has more in common with a gooey tuna melt than a tuna noodle casserole. Even the most steadfast tuna casserole objectors will have difficulty finding fault with this cheesy, protein-rich dish! 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/tuna-mac-and-cheese/>
+
+---
+
+## Poached Eggs
+
+date: 2024-10-23, from: Taste of Home
+
+With a few tips, you can master how to poach eggs with gorgeous runny yolks. The photo-worthy poached eggs of your dreams are well within your reach! 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/poached-eggs/>
+
+---
+
+## Peach Salsa
+
+date: 2024-10-23, from: Taste of Home
+
+Peach salsa is a sweeter take on pico de gallo, except the chunky salsa is made with fresh peaches instead of tomatoes. This bright and fresh condiment can be used as a dip for chips or garnish for grilled meat, poultry and fish. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/peach-salsa/>
+
+---
+
+## Keto Taco Casserole
+
+date: 2024-10-23, from: Taste of Home
+
+<div class="yst-label yst-radio__label yst-flex yst-flex-wrap yst-items-center yst-text-slate-600">Love Tex-Mex flavors? Try our keto taco casserole recipe for a satisfying and delicious low-carb meal. Cheesy, flavorful and oh-so-good!</div> 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/keto-taco-casserole/>
+
+---
+
+## Cream of Onion Soup
+
+date: 2024-10-23, from: Taste of Home
+
+Delicate cream of onion soup brings rich, savory flavors to your table and is perfect as an elegant starter. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/cream-of-onion-soup/>
+
+---
+
+## La Marzocco Teams Up With Porsche For Two Sporty New Micra Espresso Machines
+
+date: 2024-10-23, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Only 911 will be made. 
+
+<br> 
+
+<https://sprudge.com/la-marzocco-teams-up-with-porsche-for-two-sporty-new-micra-espresso-machines-257571.html>
+
+---
+
+## Brioche French Toast Casserole
+
+date: 2024-10-23, from: Taste of Home
+
+Brioche French toast casserole is everything you love about French toast, and more. It's richer and more delicious, you can customize it all you like and best of all it just slides into the oven while you relax for 40 minutes. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/brioche-french-toast-casserole/>
+
+---
+
+## Gingerbread Loaf
+
+date: 2024-10-23, from: Taste of Home
+
+Make your home smell delicious with our gingerbread loaf recipe. Moist and flavorful, this bread is perfect for cozy gatherings and holiday brunches. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/gingerbread-loaf-2/>
+
+---
+
+## Turkey Feta Meatballs
+
+date: 2024-10-23, from: Taste of Home
+
+These turkey meatballs are healthy, packed with flavor — and fiber! They're also incredibly moist. A combination of fresh and dried herbs gives these meatballs a Mediterranean flair. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/turkey-feta-meatballs/>
+
+---
+
+## Hey Cuppers, Here’s Your Chance to Inform the Future of Q Grading
+
+date: 2024-10-23, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/CQI-620x414.jpg" class="attachment-large size-large wp-post-image" alt="CQI" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/CQI-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/CQI-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/CQI-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/CQI-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/CQI.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Coffee Quality Institute (CQI), which runs the Q grader certification program for coffee professionals, is asking all coffee cuppers to take a short skills survey. Open until Nov. 1... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/10/23/hey-cuppers-heres-your-chance-to-inform-the-future-of-q-grading/>
 
 ---
 
@@ -61,7 +319,7 @@ Craving the flavors of lasagna but short on time? Our white lasagna soup is the 
 
 date: 2024-10-23, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/atencion-620x414.jpg" class="attachment-large size-large wp-post-image" alt="atencion" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/atencion-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/atencion-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/atencion-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/atencion-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/atencion.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new national coffee trade show for Honduras called Cafexpo is scheduled to debut in San Pedro Sula in March 2025. Coordinated by the Honduran national coffee institute IHCAFE, commercial... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/atencion-620x414.jpg" class="attachment-large size-large wp-post-image" alt="atencion" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/atencion-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/atencion-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/atencion-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/atencion-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/atencion.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new national coffee trade show for Honduras called Cafexpo is scheduled to debut in San Pedro Sula in March 2025. Coordinated by the Honduran national coffee institute IHCAFE, commercial... 
 
 <br> 
 
@@ -85,7 +343,7 @@ On this episode of Dinner SOS, Chris and Desiree Nielsen help callers find recip
 
 date: 2024-10-23, from: Daily Coffee News
 
-<div><img width="620" height="445" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/11th-Hour-Coffee-bar-Santa-Cruz-1-620x445.jpeg" class="attachment-large size-large wp-post-image" alt="11th Hour Coffee bar Santa Cruz 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/11th-Hour-Coffee-bar-Santa-Cruz-1-620x445.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/11th-Hour-Coffee-bar-Santa-Cruz-1-300x215.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/11th-Hour-Coffee-bar-Santa-Cruz-1-150x108.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/11th-Hour-Coffee-bar-Santa-Cruz-1-768x551.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/11th-Hour-Coffee-bar-Santa-Cruz-1.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Following an extensive three-month remodel, 11th Hour Coffee&#8216;s flagship cafe in downtown Santa Cruz is now open with extended hours and more space.&#160; With a wall removed, the brighter and... 
+<div><img width="620" height="445" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/11th-Hour-Coffee-bar-Santa-Cruz-1-620x445.jpeg" class="attachment-large size-large wp-post-image" alt="11th Hour Coffee bar Santa Cruz 1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/11th-Hour-Coffee-bar-Santa-Cruz-1-620x445.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/11th-Hour-Coffee-bar-Santa-Cruz-1-300x215.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/11th-Hour-Coffee-bar-Santa-Cruz-1-150x108.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/11th-Hour-Coffee-bar-Santa-Cruz-1-768x551.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/11th-Hour-Coffee-bar-Santa-Cruz-1.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Following an extensive three-month remodel, 11th Hour Coffee&#8216;s flagship cafe in downtown Santa Cruz is now open with extended hours and more space.&#160; With a wall removed, the brighter and... 
 
 <br> 
 
@@ -213,7 +471,7 @@ date: 2024-10-23, from: Chili Pepper Madness
 
 date: 2024-10-22, from: Taste of Home
 
-<p>The CDC launched an investigation after one death and 49 illnesses were linked to E. coli from McDonald's Quarter Pounders.</p>
+<p>The CDC launched an investigation after 49 illnesses were linked to E. coli, most likely from McDonald's Quarter Pounders.</p>
 <p>The post <a href="https://www.tasteofhome.com/article/e-coli-mcdonalds-october-2024/">McDonald&#8217;s Quarter Pounders Tied to Major E. Coli Outbreak</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
  
 
@@ -463,7 +721,7 @@ Our best steak marinade recipe is a balanced combination of salt, acid, fat and 
 
 date: 2024-10-22, from: Daily Coffee News
 
-<div><img width="620" height="464" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Barista-Davis-Cafe-1-620x464.jpg" class="attachment-large size-large wp-post-image" alt="Barista-Davis-Cafe" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Barista-Davis-Cafe-1-620x464.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Barista-Davis-Cafe-1-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Barista-Davis-Cafe-1-150x112.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Barista-Davis-Cafe-1-768x575.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Barista-Davis-Cafe-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Farmer-owned coffee company Pachamama Coffee recently expanded its presence stateside through multiple new partnerships with nearby UC Davis. Pachamama will now supply the coffee to two student-run coffee houses on... 
+<div><img width="620" height="464" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Barista-Davis-Cafe-1-620x464.jpg" class="attachment-large size-large wp-post-image" alt="Barista-Davis-Cafe" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Barista-Davis-Cafe-1-620x464.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Barista-Davis-Cafe-1-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Barista-Davis-Cafe-1-150x112.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Barista-Davis-Cafe-1-768x575.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Barista-Davis-Cafe-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Farmer-owned coffee company Pachamama Coffee recently expanded its presence stateside through multiple new partnerships with nearby UC Davis. Pachamama will now supply the coffee to two student-run coffee houses on... 
 
 <br> 
 

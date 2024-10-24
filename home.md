@@ -1,11 +1,249 @@
 ---
 title: home
-updated: 2024-10-23 09:33:33
+updated: 2024-10-24 08:40:39
 ---
 
 # home
 
-(date: 2024-10-23 09:33:33)
+(date: 2024-10-24 08:40:39)
+
+---
+
+## Secretary Ross joins in signing of historic MOU for Northern California watershed health
+
+date: 2024-10-24, from: Calfifornia Dept. Aggriculture blog
+
+State and federal government agencies signed a historic Memorandum of Understanding (MOU) yesterday at California Natural Resources Agency headquarters, advancing long-term watershed health through floodplain restoration in the Sacramento River Basin. The agreement brings together partners from agriculture, water, flood &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28385">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28385>
+
+---
+
+## Air Plants Care and Growing Guide with Ultimate Tips
+
+date: 2024-10-24, from: Yard Life blog
+
+<p>Consider cultivating an air plant if you&#8217;re searching for a simple yet unusual houseplant. Indoor air plants are well-known for ... </p>
+<p class="read-more-container"><a title="Air Plants Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/air-plants-care-and-growing-guide-with-ultimate-tips/#more-21134" aria-label="Read more about Air Plants Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/air-plants-care-and-growing-guide-with-ultimate-tips/">Air Plants Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/air-plants-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## Pampas Grass Care and Growing Guide (Most Detailed)
+
+date: 2024-10-24, from: Yard Life blog
+
+<p>Pampas grass, scientifically known as Cortaderia selloana, is a large, stunning ornamental grass that is easily recognizable due to its ... </p>
+<p class="read-more-container"><a title="Pampas Grass Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/pampas-grass-care-and-growing-guide-most-detailed/#more-21129" aria-label="Read more about Pampas Grass Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/pampas-grass-care-and-growing-guide-most-detailed/">Pampas Grass Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/pampas-grass-care-and-growing-guide-most-detailed/>
+
+---
+
+## What Is the December Birth Flower? Uncover Its Significance
+
+date: 2024-10-24, from: Yard Life blog
+
+<p>Flowers hold a special place in our hearts, often used to convey emotions, celebrate milestones, or symbolize unique aspects of ... </p>
+<p class="read-more-container"><a title="What Is the December Birth Flower? Uncover Its Significance" class="read-more button" href="https://ownyardlife.com/what-is-the-december-birth-flower-uncover-its-significance/#more-21122" aria-label="Read more about What Is the December Birth Flower? Uncover Its Significance">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/what-is-the-december-birth-flower-uncover-its-significance/">What Is the December Birth Flower? Uncover Its Significance</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/what-is-the-december-birth-flower-uncover-its-significance/>
+
+---
+
+## Cypress Tree Care and Growing Guide (Most Detailed)
+
+date: 2024-10-24, from: Yard Life blog
+
+<p>Cypress trees are a majestic plant&#xA0;known for their elegant, conical shape and adaptability to various growing conditions. Whether you&#x2019;re looking ... </p>
+<p class="read-more-container"><a title="Cypress Tree Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/cypress-tree-care-and-growing-guide-most-detailed/#more-21115" aria-label="Read more about Cypress Tree Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/cypress-tree-care-and-growing-guide-most-detailed/">Cypress Tree Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/cypress-tree-care-and-growing-guide-most-detailed/>
+
+---
+
+## Magnolia Tree Care and Growing Guide (Most Detailed)
+
+date: 2024-10-24, from: Yard Life blog
+
+<p>Magnolia trees are among the most stunning additions to any landscape, boasting large, fragrant flowers and majestic branch structures. As ... </p>
+<p class="read-more-container"><a title="Magnolia Tree Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/magnolia-tree-care-and-growing-guide-most-detailed/#more-21108" aria-label="Read more about Magnolia Tree Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/magnolia-tree-care-and-growing-guide-most-detailed/">Magnolia Tree Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/magnolia-tree-care-and-growing-guide-most-detailed/>
+
+---
+
+## The Fall Recipes We Guarantee You’ll Be Making on Repeat This Season
+
+date: 2024-10-24, from: Sunset Magazine - Living in the West
+
+The fall season means it's time for cozy, comforting food. From soups to stews to salads, take a look at these fall recipe ideas. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/fall-recipe-ideas>
+
+---
+
+## Ring Adding 24/7 Recordings to Premium Plan
+
+date: 2024-10-23, from: Family Handyman Blog
+
+<p>Big news for Ring camera owners who want 24/7 recordings, the company is going to be adding the long-requested feature onto some plans. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/ring-24-7-recordings-premium-plan/">Ring Adding 24/7 Recordings to Premium Plan</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/ring-24-7-recordings-premium-plan/>
+
+---
+
+## The Real Reason Behind the Surge in Store Closures
+
+date: 2024-10-23, from: Family Handyman Blog
+
+<p>From Walgreens to LL Flooring, no retail giant is safe from closures in 2024.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/why-stores-are-closing/">The Real Reason Behind the Surge in Store Closures</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/why-stores-are-closing/>
+
+---
+
+## I’m Growing Wasabi!
+
+date: 2024-10-23, from: The Freckled Gardener
+
+<p>The post <a href="https://freckledcalifornian.com/2024/10/23/im-growing-wasabi/">I&#8217;m Growing Wasabi!</a> appeared first on <a href="https://freckledcalifornian.com">Freckled Californian ~ A California Gardening &amp; Seasonal Living Blog</a>.</p>
+ 
+
+<br> 
+
+<https://freckledcalifornian.com/2024/10/23/im-growing-wasabi/>
+
+---
+
+## My New Favorite Travel Tote Is Like the Mary Poppins Bag, but Even Better
+
+date: 2024-10-23, from: Sunset Magazine - Living in the West
+
+One editor shares her favorite travel bag, Calpak's Luka Tote. It has plenty of pockets and compartments, and attaches to your suitcase. 
+
+<br> 
+
+<https://www.sunset.com/travel/calpak-luka-tote-review>
+
+---
+
+## Before & After: In Ireland, an Unusual, Boxy House Gets a Bold Bauhaus Retrofit
+
+date: 2024-10-23, from: Dwell
+
+Catherine McElwain and architect Dermot Ryan celebrate their home’s gridded tile, glass bricks, and ironwork as they inject it with industrial materials and vibrant color. 
+
+<br> 
+
+<https://www.dwell.com/article/before-and-after-irish-bauhaus-renovation-dermot-ryan-midcentury-home-823f8cd9>
+
+---
+
+## Why Electric Cars Are Catching Fire in Floods
+
+date: 2024-10-23, from: Family Handyman Blog
+
+<p>Water is supposed to put fires out, not start them. Here's why electric vehicles are catching fire in floodwaters and what you can do to prevent it.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/electric-vehicles-catch-fire/">Why Electric Cars Are Catching Fire in Floods</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/electric-vehicles-catch-fire/>
+
+---
+
+## How They Pulled It Off: A Triple-Leaf Door Creates Visual Privacy
+
+date: 2024-10-23, from: Dwell
+
+A custom three-part door, cork walls, and an accessible bathroom get this California ranch ready for its residents to age-in-place. 
+
+<br> 
+
+<https://www.dwell.com/article/how-they-pulled-it-off-a-triple-leaf-door-creates-visual-privacy-f720fc46>
+
+---
+
+## After a Complete Revamp, This $218K Airstream Is Ready to Hit the Road
+
+date: 2024-10-23, from: Dwell
+
+The freshly polished camper comes fully furnished and fitted with white oak cabinetry and a waterfall countertop. 
+
+<br> 
+
+<https://www.dwell.com/article/renovated-airstream-for-sale-studio-henree-vista-california-real-estate-ceea6f90>
+
+---
+
+## 5 Cool-Season Natives That You Should Plant Right Now
+
+date: 2024-10-23, from: Sunset Magazine - Living in the West
+
+Sowing these plants by seed is an easy, budget-friendly way to add stabilization and sustainability into your landscape. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/cool-season-natives-to-plant-in-fall>
+
+---
+
+## A Trio of Tiny Homes Provide Views of Portugal's Best Stargazing
+
+date: 2024-10-23, from: Dwell
+
+Located on a regenerative farm in one of the darkest zones in Europe, each house features an observatory terrace. 
+
+<br> 
+
+<https://www.dwell.com/article/a-trio-of-tiny-homes-provide-views-of-portugals-best-stargazing-966de246>
+
+---
+
+## I Tried a Traditional Temazcal Sweat Lodge. Here’s How it Went.
+
+date: 2024-10-23, from: Sunset Magazine - Living in the West
+
+The traditional experience, which we did at Naviva, a Four Seasons Resort in Nayarit, is every bit as healing as it's purported to be. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/wellness/temazcal-sweat-lodge-experience>
 
 ---
 
@@ -32,6 +270,30 @@ Note: The FIRA USA event taking place in Woodland from October 22-24, is free an
 <br> 
 
 <https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28372>
+
+---
+
+## This Oregon Vacation Home Really Leans into Its Natural Landscape
+
+date: 2024-10-23, from: Sunset Magazine - Living in the West
+
+A vacation home in Central Oregon had no heating or air conditioning and needed updates. Here's how it was renovated. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/black-butte-ranch-house-tour>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-10-23, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -207,6 +469,18 @@ Designed by LAB+ Architects and completed this year, the monolithic residence is
 
 ---
 
+## Here’s Why You Might Find Your Next Great Garden Project on a Hike
+
+date: 2024-10-22, from: Sunset Magazine - Living in the West
+
+Take your native landscapes to the next level with naturalistic plantings inspired by Western shrublands. Here's how to plant with shrubs. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/shrub-landscaping>
+
+---
+
 ## 10 Tips For Cleaning Up After a Hurricane Or Other Natural Disaster
 
 date: 2024-10-22, from: Family Handyman Blog
@@ -308,30 +582,6 @@ Wine you probably expected. But micro-brew, olive oil, ballooning, and fine dini
 <br> 
 
 <https://www.sunset.com/travel/wine-country/guide-to-temecula-wine-country>
-
----
-
-## My New Favorite Travel Tote Is Like the Mary Poppins Bag, but Even Better
-
-date: 2024-10-22, from: Sunset Magazine - Living in the West
-
-One editor shares her favorite travel bag, Calpak's Luka Tote. It has plenty of pockets and compartments, and attaches to your suitcase. 
-
-<br> 
-
-<https://www.sunset.com/travel/calpak-luka-tote-review>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-10-22, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 
@@ -526,18 +776,6 @@ date: 2024-10-21, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/electrical-tape-usage/>
-
----
-
-## This Oregon Vacation Home Really Leans Into Its Natural Landscape
-
-date: 2024-10-21, from: Sunset Magazine - Living in the West
-
-A vacation home in Central Oregon had no heating or air conditioning and needed updates. Here's how it was renovated. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/home-tours/black-butte-ranch-house-tour>
 
 ---
 

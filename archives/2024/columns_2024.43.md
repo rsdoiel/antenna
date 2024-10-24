@@ -1,11 +1,285 @@
 ---
 title: columns
-updated: 2024-10-23 09:33:32
+updated: 2024-10-24 08:40:38
 ---
 
 # columns
 
-(date: 2024-10-23 09:33:32)
+(date: 2024-10-24 08:40:38)
+
+---
+
+##  &#8220;Things look a little different around Lumon.&#8221; The official teaser trailer for... 
+
+date: 2024-10-24, updated: 2024-10-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045512-things-look-a-little-diff>
+
+---
+
+##  &#8220;How you love, how you give, and how you suffer is just... 
+
+date: 2024-10-24, updated: 2024-10-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045511-how-you-love-how-you>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-10-24, from: Miguel de Icaza Mastondon feed)
+
+<p>From Harper’s 1941 archive: “Who goes Nazi?“</p><p><a href="https://harpers.org/archive/1941/08/who-goes-nazi/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">harpers.org/archive/1941/08/wh</span><span class="invisible">o-goes-nazi/</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113362710501802679>
+
+---
+
+## HIBI MIA Botanical
+
+date: 2024-10-24, from: mrusme blog
+
+The HIBI MIA _Botanical_ edition. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/hibi-mia-botanical/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-10-24, from: Miguel de Icaza Mastondon feed)
+
+<p>A friend came to visit me yesterday, and he was sneezing.  And I said “is that covid?” And he goes “I don’t think so, it’s just a cold”.   </p><p>Tested him on the spot.   </p><p>He had covid.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113362271952757768>
+
+---
+
+## Bitwarden's FOSS halo slips as new SDK requirement locks down freedoms
+
+date: 2024-10-24, updated: 2024-10-24, from: Liam Proven's articles at the Register
+
+<h4>Arguments continue but change suggests it&#39;s not Free Software anymore</h4>
+      <p>The Bitwarden online credentials storage service is changing its build requirements – which some commentators feel mean it&#39;s no longer FOSS.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/10/24/bitwarden_foss_doubts/>
+
+---
+
+## Political cowardice in the C-suites
+
+date: 2024-10-24, from: Robert Reich's blog
+
+Jamie Dimon, Bill Gates, and Warren Buffett have spoken out on everything else but are afraid to come out against Trump. They are relinquishing whatever claims they had to leadership in America. 
+
+<br> 
+
+<https://robertreich.substack.com/p/political-cowardice-in-the-c-suites>
+
+---
+
+## October 23, 2024
+
+date: 2024-10-24, from: Heather Cox Richardson blog
+
+The struggle over whether the U.S. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/october-23-2024>
+
+---
+
+## Humane has a plan for its AI-first Operating System
+
+date: 2024-10-24, from: Om Malik blog
+
+Humane, the San Francisco startup that made headlines (and not the right kind) with its AI Pin, is making a significant move by opening up its AI-first operating system, CosmOS, for licensing. CosmOS represents a fundamental rethinking of operating systems for the AI era. While the AI Pin faced harsh criticism at launch, it served &#8230; 
+
+<br> 
+
+<https://om.co/2024/10/23/humane-has-a-plan-for-its-ai-first-operating-system/>
+
+---
+
+## Every New Feature and Change in iOS 18.2 Beta 1
+
+date: 2024-10-24, updated: 2024-10-24, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://9to5mac.com/2024/10/23/ios-18-2-new-features-changes/>
+
+---
+
+## Today’s New iOS and MacOS Developer Betas Allow Developers Worldwide to Test EU-Specific Features
+
+date: 2024-10-24, updated: 2024-10-24, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://developer.apple.com/news/?id=qs5bol0g>
+
+---
+
+## Unfit to Serve
+
+date: 2024-10-23, from: Dan Rather's Steady
+
+Period. 
+
+<br> 
+
+<https://steady.substack.com/p/unfit-to-serve>
+
+---
+
+##  Here&#8217;s what participating in a human challenge trial for dysentery is like.... 
+
+date: 2024-10-23, updated: 2024-10-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045510-heres-what-participating->
+
+---
+
+##  On the logistics of building a space telescope powerful enough &#8220;to examine... 
+
+date: 2024-10-23, updated: 2024-10-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045499-on-the-logistics-of-build>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-23, from: Dave Winer's Scripting News)
+
+If only voters understood that government isn't a TV show. 
+
+<br> 
+
+<http://scripting.com/2024/10/23.html#a203143>
+
+---
+
+##  The Punitive and Predatory Cost of Going to Jail 
+
+date: 2024-10-23, updated: 2024-10-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/the-punitive-and-predatory-cost-of-going-to-jail>
+
+---
+
+## Stage 2 of the Apple Intelligence Rollout Begins, With Developer Betas of iOS 18.2 and MacOS 15.2 Sequoia
+
+date: 2024-10-23, updated: 2024-10-23, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.macrumors.com/2024/10/23/apple-releases-ios-18-2/>
+
+---
+
+## Dodgers Legend Fernando Valenzuela Dies at 63, on the Cusp of the First Yankees-Dodgers World Series Since His Star Turn in 1981
+
+date: 2024-10-23, updated: 2024-10-23, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.nytimes.com/athletic/5808180/2024/10/22/fernando-valenzuela-dead-mlb-dodgers/>
+
+---
+
+##  New children&#8217;s picture book from the excellent Jessica Hische: My First Book... 
+
+date: 2024-10-23, updated: 2024-10-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045508-new-childrens-picture-boo>
+
+---
+
+## Are Automatic License Plate Scanners Constitutional?
+
+date: 2024-10-23, updated: 2024-10-23, from: Bruce Schneier blog
+
+<p>An advocacy groups is <a href="https://www.404media.co/lawsuit-argues-warrantless-use-of-flock-surveillance-cameras-is-unconstitutional/">filing</a> a Fourth Amendment challenge against automatic license plate readers.</p>
+<blockquote><p>&#8220;The City of Norfolk, Virginia, has installed a network of cameras that make it functionally impossible for people to drive anywhere without having their movements tracked, photographed, and stored in an AI-assisted database that enables the warrantless surveillance of their every move. This civil rights lawsuit seeks to end this dragnet surveillance program,&#8221; the <a href="https://ij.org/wp-content/uploads/2024/10/2024.10.21-1-Complaint.pdf">lawsuit notes</a>. &#8220;In Norfolk, no one can escape the government&#8217;s 172 unblinking eyes,&#8221; it continues, referring to the 172 Flock cameras currently operational in Norfolk. The Fourth Amendment protects against unreasonable searches and seizures and has been ruled in many cases to protect against warrantless government surveillance, and the lawsuit specifically says Norfolk&#8217;s installation violates that.&#8221;...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/10/are-automatic-license-plate-scanners-constitutional.html>
+
+---
+
+## October 22, 2024
+
+date: 2024-10-23, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/150627804/515d65723309c664c9045c99d42a51e5.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/150627804/515d65723309c664c9045c99d42a51e5.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/october-22-2024-6c7>
+
+---
+
+##  Pony Boys 
+
+date: 2024-10-23, updated: 2024-10-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/pony-boys>
+
+---
+
+##  Three thought experiments that suggest &#8220;the space-time continuum we seem to inhabit... 
+
+date: 2024-10-23, updated: 2024-10-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045503-three-thought-experiments>
 
 ---
 
@@ -23,7 +297,7 @@ date: 2024-10-23, updated: 2024-10-23, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2024-10-23, from: Dave Winer's Scripting News)
 
-I think it's probably too late, anyway. Journalism should have reported, constantly, that the house is on fire. And nothing else. Biden's age didn't enter into it you fools. The much bigger story was and is that Hitler wants to be president, and this time he has a plan. It was true then and it's true now. The next question is what will Biden do if Trump wins. It was tough watching Obama greet Trump at the White House in 2016. I can't see Biden doing that. I wonder what ideas they're workshopping in the actual Situation Room. 
+I think it's probably too late, anyway. Journalism should have reported, constantly, that the house is on fire. And nothing else. Biden's age didn't enter into it you fools. The much bigger story was and is that Hitler wants to be president, and this time he has a plan. It was true then and it's true now. The next question is what will Biden do if Trump wins. It was tough watching Obama greet Trump at the White House in 2016. I can't see Biden doing that. I wonder what ideas they're workshopping in the <a href="https://en.wikipedia.org/wiki/Situation_Room">actual</a> Situation Room. 
 
 <br> 
 
@@ -106,7 +380,7 @@ date: 2024-10-23, updated: 2024-10-23, from: Liam Proven's articles at the Regis
 
 ---
 
-## Office Hours: If Harris wins but it's extremely close in battleground states — what happens then? 
+## Office Hours: If Harris wins but it’s extremely close in battleground states — what happens then? 
 
 date: 2024-10-23, from: Robert Reich's blog
 

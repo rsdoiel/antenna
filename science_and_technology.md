@@ -1,17 +1,569 @@
 ---
 title: science and technology
-updated: 2024-10-23 09:33:32
+updated: 2024-10-24 08:40:38
 ---
 
 # science and technology
 
-(date: 2024-10-23 09:33:32)
+(date: 2024-10-24 08:40:38)
+
+---
+
+## A closer look at Intel and AMD's different approaches to gluing together CPUs
+
+date: 2024-10-24, updated: 2024-10-24, from: The Register (UK I.T. News)
+
+<h4>Epycs or Xeons, more cores = more silicon, and it only gets more complex from here</h4> <p><strong>Analysis</strong>  Shortly after the launch of AMD&#39;s first-gen Epyc processors codenamed Naples in 2017, Intel quipped that its competitor had been reduced to gluing a bunch of desktop dies together in order to stay relevant.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/24/intel_amd_packaging/>
+
+---
+
+## Statement from NASA’s Janet Petro on FY23 Economic Impact Report
+
+date: 2024-10-24, from: NASA breaking news
+
+America is returning to the Moon with our sights set on Mars, and NASA is leading the way. Along with our industry and international partners, we’re advancing scientific research, inspiring the next generation of explorers, and ensuring reliable and continuous access to space for our nation. NASA’s Economic Impact Report for fiscal year (FY) 2023 [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/statement-from-nasas-janet-petro-on-fy23-economic-impact-report/>
+
+---
+
+## Boeing strike continues as union rejects contract, scuttling CEO's recovery plan
+
+date: 2024-10-24, updated: 2024-10-24, from: The Register (UK I.T. News)
+
+<h4>Kelly Ortberg&#39;s turnaround express heads back to the hangar</h4> <p>Thousands of unionized Boeing machinists will remain on strike after rejecting their employer&#39;s latest contract offer, dealing a swift blow to recovery plans CEO Kelly Ortberg outlined yesterday. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/24/boeing_strike_continues_as_union/>
+
+---
+
+## NASA Science on Health, Safety to Launch on 31st SpaceX Resupply Mission
+
+date: 2024-10-24, from: NASA breaking news
+
+New science experiments for NASA are set to launch aboard the agency’s SpaceX 31st commercial resupply services mission to the International Space Station. The six investigations aim to contribute to cutting-edge discoveries by NASA scientists and research teams. The SpaceX Dragon spacecraft will liftoff aboard the company’s Falcon 9 rocket from Launch Complex 39A at […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/biological-physical-sciences/nasa-science-on-health-safety-to-launch-on-31st-spacex-resupply-mission/>
+
+---
+
+## Nvidia CEO whines Europeans aren’t buying enough GPUs
+
+date: 2024-10-24, updated: 2024-10-24, from: The Register (UK I.T. News)
+
+<h4>EU isn’t keeping up with US and China investments, AI arms dealer says</h4> <p>European nations need to invest more in artificial intelligence if they want to close the gap between the US and China, Nvidia CEO Jensen Huang said during a visit to Copenhagen on Wednesday to inaugurate Denmark&#39;s shiny new Gefion supercomputer.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/24/nvidia_gpus_europe/>
+
+---
+
+## New Report Shows NASA’s $75.6 Billion Boost to US Economy
+
+date: 2024-10-24, from: NASA breaking news
+
+NASA&#8217;s work, including its Moon to Mars exploration approach, is advancing science and technology for the Artemis Generation, while also driving significant economic growth across the United States, the agency announced Thursday. In its third agencywide economic impact report, NASA highlighted how its Moon to Mars activities, climate change research and technology development, and other [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/new-report-shows-nasas-75-6-billion-boost-to-us-economy/>
+
+---
+
+## Top EU court overturns Intel's billion-dollar antitrust fine
+
+date: 2024-10-24, updated: 2024-10-24, from: The Register (UK I.T. News)
+
+<h4>Conditional rebates settled, but $400M matter of naked restrictions remains</h4> <p>Intel has a spot of good news for a change. The EU Court of Justice has upheld an earlier ruling that canceled a €1.06 billion ($1.1 billion) fine against the chipmaker imposed in 2009 for anti-competitive practices.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/24/intel_eu_antitrust_fine/>
+
+---
+
+## With record revenue, SK hynix brushes off suggestion of AI chip oversupply
+
+date: 2024-10-24, updated: 2024-10-24, from: The Register (UK I.T. News)
+
+<h4>How embarrassing for Samsung</h4> <p>SK hynix posted on Wednesday what it called its &#34;highest revenue since its foundation&#34; for Q3 2024 as it pledged to continue minuting more AI chips.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/24/sk_hynix_q3_24/>
+
+---
+
+## Yet another UK government seeks to reform GDPR
+
+date: 2024-10-24, updated: 2024-10-24, from: The Register (UK I.T. News)
+
+<h4>Yes, the law that needs to be harmonized with Europe for tech businesses&#39; data to flow freely</h4> <p>The UK government has begun to introduce its latest update to data protection laws it claims will boost economic growth and public sector efficiency. The government said it expects it will keep the UK in line with the EU&#39;s GDPR.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/24/uk_proposes_new_data_law/>
+
+---
+
+## Arm to Qualcomm: See you in court? Oh yes, please
+
+date: 2024-10-24, updated: 2024-10-24, from: The Register (UK I.T. News)
+
+<h4>Doesn&#39;t quite confirm eight-week license cancellation deadline, but does strap on the gloves</h4> <p>The Arm/Qualcomm spat just got a little spicier, after the UK chip designer repeated its allegation the US SoC giant has breached its licenses.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/24/arm_qualcomm_response/>
+
+---
+
+## Bitwarden's FOSS halo slips as new SDK requirement locks down freedoms
+
+date: 2024-10-24, updated: 2024-10-24, from: The Register (UK I.T. News)
+
+<h4>Arguments continue but change suggests it&#39;s not Free Software anymore</h4> <p>The Bitwarden online credentials storage service is changing its build requirements – which some commentators feel mean it&#39;s no longer FOSS.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/24/bitwarden_foss_doubts/>
+
+---
+
+## Ransomware's ripple effect felt across ERs as patient care suffers
+
+date: 2024-10-24, updated: 2024-10-24, from: The Register (UK I.T. News)
+
+<h4>389 US healthcare orgs infected this year alone</h4> <p>Ransomware infected 389 US healthcare organizations this fiscal year, putting patients&#39; lives at risk and costing facilities up to $900,000 a day in downtime alone, according to Microsoft.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/24/ransomware_ripple_effect_hospitals/>
+
+---
+
+## Here's a NIS2 compliance checklist since no one cares about deadlines anymore
+
+date: 2024-10-24, updated: 2024-10-24, from: The Register (UK I.T. News)
+
+<h4>Only two EU members have completed the transposition into domestic law</h4> <p>The European Union&#39;s NIS2 Directive came into force on January 16, 2023, and member states had until October 17, 2024, to transpose it into national law. Yet many organizations still don&#39;t meet the required standards two years after it was approved.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/24/nis2_compliance_checklist/>
+
+---
+
+## Vivaldi gives its browser a buffing, adds a dashboard
+
+date: 2024-10-24, updated: 2024-10-24, from: The Register (UK I.T. News)
+
+<h4>Everybody needs more widgets in their life, right?</h4> <p>Vivaldi has updated its eponymous browser – it now has a refreshed user interface and a dashboard packed with widgets.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/24/vivaldi_browser_refresh/>
+
+---
+
+## On-prem SaaS? ServiceNow will do it if you ask nicely, and really need it
+
+date: 2024-10-24, updated: 2024-10-24, from: The Register (UK I.T. News)
+
+<h4>Turns out its application can work with databases other than its own</h4> <p>The sales pitch for software-as-a-service is that you get powerful applications without having to worry about their underlying infrastructure. But SaaSy workflow vendor ServiceNow will, quietly, let you run its wares on-prem.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/24/on_prem_saas/>
+
+---
+
+## Voice-enabled AI agents can automate everything, even your phone scams
+
+date: 2024-10-24, updated: 2024-10-24, from: The Register (UK I.T. News)
+
+<h4>All for the low, low price of a mere dollar</h4> <p>Scammers, rejoice. OpenAI&#39;s real-time voice API can be used to build AI agents capable of conducting successful phone call scams for less than a dollar.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/24/openai_realtime_api_phone_scam/>
+
+---
+
+## IBM's mainframe bubble bursts and growth stalls
+
+date: 2024-10-24, updated: 2024-10-24, from: The Register (UK I.T. News)
+
+<h4>Red Hat still glowing, but Big Blue&#39;s been bruised by investors</h4> <p>In its last few quarterly results announcements, IBM has trumpeted unexpectedly strong growth in its mainframe business, and that&#39;s helped the technology titan to just-about deliver promised mid-single-digit revenue growth in constant currency. But in its Q3 results announcement on Wednesday, Big Blue revealed mainframe revenue fell 19 percent – and that overall growth came in at just one percent or two percent in constant currency.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/24/ibm_q3_2024/>
+
+---
+
+## China's top messaging app WeChat banned from Hong Kong government computers
+
+date: 2024-10-24, updated: 2024-10-24, from: The Register (UK I.T. News)
+
+<h4>Google and WhatsApp also binned, which is far easier to explain than canning a local hero</h4> <p>Hong Kong’s government has updated infosec guidelines to restrict the use of Chinese messaging app WeChat, alongside Meta and Google products like WhatsApp and Google Drive, on computers it operates.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/24/hong_kong_wechat_ban/>
+
+---
+
+## Anthropic's latest Claude model can interact with computers – what could go wrong?
+
+date: 2024-10-24, updated: 2024-10-24, from: The Register (UK I.T. News)
+
+<h4>For starters, it could launch a prompt injection attack on itself...</h4> <p>The latest version of AI startup Anthropic&#39;s Claude 3.5 Sonnet model can use computers – and the developer makes it sound like that&#39;s a good thing.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/24/anthropic_claude_model_can_use_computers/>
+
+---
+
+## Musk claims Cybertruck has become profitable at last
+
+date: 2024-10-24, updated: 2024-10-24, from: The Register (UK I.T. News)
+
+<h4>Third quarter results recharge Tesla&#39;s stock price</h4> <p>Tesla stock is on the up after America&#39;s most valuable automaker reported its third quarter results – including the news that the beleaguered Cybertruck &#34;achieved a positive gross margin for the first time.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/24/musk_claims_cybertruck_profitable/>
+
+---
+
+## Perfctl malware strikes again as crypto-crooks target Docker Remote API servers
+
+date: 2024-10-24, updated: 2024-10-24, from: The Register (UK I.T. News)
+
+<h4>Attacks on unprotected servers reach &#39;critical level&#39;</h4> <p>An unknown attacker is abusing exposed Docker Remote API servers to deploy perfctl cryptomining malware on victims&#39; systems, according to Trend Micro researchers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/24/perfctl_malware_strikes_again/>
+
+---
+
+## Flying taxis cleared for takeoff under new US aviation rules
+
+date: 2024-10-24, updated: 2024-10-24, from: The Register (UK I.T. News)
+
+<h4>&#39;Powered-lift&#39; becomes first new category of aircraft in nearly 80 years</h4> <p>The Federal Aviation Administration (FAA) this week released the final regulations for tiltrotors and other vertical takeoff and landing (VTOL) aircraft, including electric variants, the first time the org has established a new category of aircraft since it permitted helicopters to fly.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/24/faa_approves_flying_taxis/>
+
+---
+
+## Samsung phone users under attack, Google warns
+
+date: 2024-10-24, updated: 2024-10-24, from: The Register (UK I.T. News)
+
+<h4>Don&#39;t ignore this nasty zero day exploit says TAG</h4> <p>A nasty bug in Samsung&#39;s mobile chips is being exploited by miscreants as part of an exploit chain to escalate privileges and then remotely execute arbitrary code, according to Google security researchers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/24/samsung_phone_eop_attacks/>
+
+---
+
+## Penn State pays DoJ $1.25M to settle cybersecurity compliance case
+
+date: 2024-10-23, updated: 2024-10-23, from: The Register (UK I.T. News)
+
+<h4>Fight On, State? Not this time</h4> <p>Pennsylvania State University has agreed to pay the Justice Department $1.25 million to settle claims of misrepresenting its cybersecurity compliance to the federal government and leaving sensitive data improperly secured. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/23/penn_state_university_doj_settlement/>
+
+---
+
+## Warning! FortiManager critical vulnerability under active attack
+
+date: 2024-10-23, updated: 2024-10-23, from: The Register (UK I.T. News)
+
+<h4>Security shop and CISA urge rapid action</h4> <p>Fortinet has gone public with news of a critical flaw in its software management platform.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/23/fortimanager_critical_vulnerability/>
+
+---
+
+## Microsoft improves Windows’ update experience, and announces support for MIDI 2.0 and a new audio driver for professionals
+
+date: 2024-10-23, from: OS News
+
+Windows 11, version 24H2 represents significant improvements to the already robust update foundation of Windows. With the latest version, you get reduced installation time, restart time, and central processing unit (CPU) usage for Windows monthly updates. Additionally, enhancements to the handling of feature updates further reduce download sizes for most endpoints by extending conditional downloads to include Microsoft Edge. Let&#8217;s take a closer look at these advancements. ↫ Steve DiAcetis at the Windows IT Pro Blog Now this is the kind of stuff we want to see in new Windows releases. Updating Windows feels like a slow, archaic, and resource-intensive process, whereas on, say, my Fedora machines it&#8217;s such an effortless, lightweight process I barely even notice it&#8217;s happening. This is an area where Windows can make some huge strides that materially affect people &#8211; Windows updates are a meme &#8211; and it&#8217;s great to see Microsoft working on this instead of shoving more ads onto Windows users&#8217; desktops. In this case, Microsoft managed to reduce installation time, make reboots faster, and lower CPU and RAM usage through a variety of measures roughly falling in one of three groups: improved parallel processing, faster and optimised reading of update manifests, and more optimal use of available memory. We&#8217;re looking at some considerable improvements here, such as a 45% reduction in installation time, 15-25% less CPU usage, and more. Excellent work. On a related note, at the Qualcomm Snapdragon Summit, Microsoft also unveiled a number of audio improvements for Windows on ARM that will eventually also make their way to Windows on x86. I&#8217;m not exactly an expert on audio, but from what I understand the Windows audio stack is robust and capable, and what Microsoft announced today will improve the stack even further. For instance, support for MIDI 2.0 is coming to Windows, with backwards compatibility for MIDI 1.0 devices and APIs, and Microsoft worked together with Yamaha and Qualcomm to develop a new USB Audio Class 2 Driver. In the company&#8217;s blog post, Microsoft explains that the current USB Audio Class 2 driver in Windows is geared towards consumer audio applications, and doesn&#8217;t fulfill the needs of professional audio engineers. This current driver does not support the standard professional software has standardised on &#8211; ASIO &#8211; forcing people to download custom, third-party kernel drivers to get this functionality. That&#8217;s not great for anybody, and as such they&#8217;re working on a new driver. The new driver will support the devices that our current USB Audio Class 2 driver supports, but will increase support for high-IO-count interfaces with an option for low-latency for musician scenarios. It will have an ASIO interface so all the existing DAWs on Windows can use it, and it will support the interface being used by Windows and the DAW application at the same time, like a few ASIO drivers do today. And, of course, it will handle power management events on the new CPUs. ↫ Pete Brown at the Dev Blogs The code for this driver will be published as open source on GitHub, so that anyone still opting to make a specialised driver can use Microsoft&#8217;s code to see how things are done. That&#8217;s a great move, and one that I think we&#8217;ll be seeing more often from Microsoft. This is great news for audio professionals using Windows. 
+
+<br> 
+
+<https://www.osnews.com/story/140983/microsoft-improves-windows-update-experience-and-announces-support-for-midi-2-0-and-a-new-audio-driver-for-professionals/>
+
+---
+
+## Ex-Intel board members make an ill-conceived case for spinning off Foundry
+
+date: 2024-10-23, updated: 2024-10-23, from: The Register (UK I.T. News)
+
+<h4>Save America’s most important manufacturer? More like save our portfolio and let Uncle Sam pick up the pieces</h4> <p><strong>Comment</strong>  A gaggle of ex-Intel board directors have called on the chipmaker to spin off its floundering foundry business while glossing over the fact that a company bleeding billions each quarter is unlikely to survive on its own.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/23/intel_board_letter_foundry_spinoff/>
+
+---
+
+## Human Adaptation to Spaceflight: The Role of Food and Nutrition
+
+date: 2024-10-23, from: NASA breaking news
+
+The latest book marks our third effort to review available literature regarding the role of nutrition in astronaut health. In 2009, we reviewed the existing knowledge and history of human nutrition for spaceflight, with a key goal of identifying additional data that would be required before NASA could confidently reduce the risk of an inadequate [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/esdmd/hhp/human-adaptation-to-spaceflight-the-role-of-food-and-nutrition/>
+
+---
+
+## Linus Torvalds affirms expulsion of Russian maintainers
+
+date: 2024-10-23, updated: 2024-10-23, from: The Register (UK I.T. News)
+
+<h4>Removal of kernel maintainers linked to Russia attributed to sanctions</h4> <p>Linux creator Linus Torvalds on Wednesday affirmed the removal last week of about a dozen kernel maintainers associated with Russia.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/23/linus_torvalds_affirms_expulsion_of/>
+
+---
+
+## October Transformer of the Month: Nipa Phojanamongkolkij
+
+date: 2024-10-23, from: NASA breaking news
+
+Dr. Nipa Phojanamongkolkij does not always do things the traditional way. As a systems engineer (SE) at Langley Research Center working closely with the Aeronautics Research Mission Directorate, Nipa pushes boundaries and draws connections where few others would think to look. When she envisioned a way to use ChatGPT to help SE teams working on [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/october-transformer-of-the-month-nipa-phojanamongkolkij/>
+
+---
+
+## Amateur Mathematician Discovers the Largest Known Prime Number, With More Than 41 Million Digits
+
+date: 2024-10-23, from: Smithsonian Magazine
+
+Called M136279841, the value belongs to a rare class of prime numbers called Mersenne primes and was found using a supercomputer system spread across 17 countries 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/amateur-mathematician-discovers-the-largest-known-prime-number-with-more-than-41-million-digits-180985321/>
+
+---
+
+## 'Satanic' data thief claims to have slipped into 350M Hot Topic shoppers info
+
+date: 2024-10-23, updated: 2024-10-23, from: The Register (UK I.T. News)
+
+<h4>We know where you got your skinny jeans - big deal</h4> <p>A data thief calling themselves Satanic claims to have purloined the records of around 350 million customers of fashion retailer Hot Topic.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/23/satanic_data_thief/>
+
+---
+
+## NASA Invites Media to 2024 von Braun Space Exploration Symposium
+
+date: 2024-10-23, from: NASA breaking news
+
+Media are invited to attend the 2024 von Braun Space Exploration Symposium Monday Oct. 28 to Wednesday, Oct. 30 at the University of Alabama in Huntsville. Organized by the American Astronautical Society in collaboration with NASA’s Marshall Space Flight Center in Huntsville, the annual symposium gathers leaders from across government, industry, policy, and academia to [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-invites-media-to-2024-von-braun-space-exploration-symposium/>
+
+---
+
+## Before He Created His Vibrant Drip Paintings, Jackson Pollock Took Inspiration From Pablo Picasso
+
+date: 2024-10-23, from: Smithsonian Magazine
+
+A new exhibition in Paris demonstrates the influence that the Spanish artist had on the young American painter who would help usher in the Abstract Expressionist movement 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/before-he-created-his-vibrant-drip-paintings-jackson-pollock-took-inspiration-from-pablo-picasso-180985296/>
+
+---
+
+## The Marshall Star for October 23, 2024
+
+date: 2024-10-23, from: NASA breaking news
+
+Editor’s Note: Starting Nov. 4, the Office of Communications at NASA&#8217;s Marshall Space Flight Center will no longer publish the Marshall Star on nasa.gov. The last public issue will be Oct. 30. To continue reading Marshall news, visit nasa.gov/marshall. Habitation Systems Business Unit Spotlight: Living and Working in Space For centuries, humans have dreamed of [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-october-23-2024/>
+
+---
+
+## Four Unreleased Jimi Hendrix Demo Recordings Billed as 'Better Than the Originals' Are Going Up for Sale
+
+date: 2024-10-23, from: Smithsonian Magazine
+
+Created in London in the 1960s, the tracks are heading to auction as part of a larger collection of memorabilia connected to the famous American guitarist 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/four-unreleased-jimi-hendrix-demo-tapes-billed-as-better-than-the-originals-are-going-up-for-sale-180985291/>
+
+---
+
+## Microsoft SharePoint RCE flaw exploits in the wild – you've had 3 months to patch
+
+date: 2024-10-23, updated: 2024-10-23, from: The Register (UK I.T. News)
+
+<h4>Plus, a POC to make it extra easy for attackers</h4> <p>A Microsoft SharePoint bug that can allow an attacker to remotely inject code into vulnerable versions is under active exploitation, according to the US Cybersecurity and Infrastructure Security Agency (CISA).…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/23/microsoft_sharepoint_rce_exploited/>
+
+---
+
+## Is Scurvy Making a Comeback? Two Recent Cases Highlight How the Illness Can Appear in the Modern World
+
+date: 2024-10-23, from: Smithsonian Magazine
+
+Scurvy diagnoses in Australia and Canada suggest doctors should consider testing for vitamin C deficiency in patients experiencing poverty, food insecurity and social isolation 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/is-scurvy-making-a-comeback-two-recent-cases-highlight-how-the-illness-can-appear-in-the-modern-world-180985322/>
+
+---
+
+## Artemis II Astronauts Put Orion’s Side Hatch to the Test
+
+date: 2024-10-23, from: NASA breaking news
+
+Artemis II crew members recently traveled to Lockheed Martin Space in Littleton, Colorado, where they practiced opening and closing an Orion crew module side hatch model to help demonstrate its reliability and durability during their 10-day mission around the Moon.  
+
+<br> 
+
+<https://www.nasa.gov/image-article/artemis-ii-astronauts-put-orions-side-hatch-to-the-test/>
+
+---
+
+## The horror that is VHS revived for horror movie release
+
+date: 2024-10-23, updated: 2024-10-23, from: The Register (UK I.T. News)
+
+<h4>Cassette-bursting medium revived for latest Alien chest-burster flick</h4> <p><strong>POLL: Is VHS back?</strong>  If Alien: Romulus were a zombie movie, <i>The Register</i> could understand why 20th Century Studios has announced that it will release the film on VHS – the video cassette format that hasn&#39;t been relevant for two decades and had a crap reputation even in its heyday.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/23/alien_romulus_vhs_release/>
+
+---
+
+## NASA Ames Stars of the Month: October 2024
+
+date: 2024-10-23, from: NASA breaking news
+
+The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) America Reyes Wang, Sepideh Khajehei, Julie Nottage, and Ryan Felton. Their commitment to the NASA mission represents the talent, camaraderie, and vision needed to explore this world and beyond. Space Biosciences Star: America Reyes Wang America Reyes Wang serves as the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/nasa-ames-stars-of-the-month-october-2024/>
+
+---
+
+## In a First, Scientists Find Animals Thriving Beneath the Ocean Floor in Hidden Habitats Near Deep-Sea Vents
+
+date: 2024-10-23, from: Smithsonian Magazine
+
+The discovery of worms and snails confirms that these still-mysterious, dark hotspots of life extend beyond what’s visible above the crust 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/in-a-first-scientists-find-animals-thriving-beneath-the-ocean-floor-in-hidden-habitats-near-deep-sea-vents-180985316/>
+
+---
+
+## NASA Welcomes Republic of Cyprus as 46th Artemis Accords Signatory
+
+date: 2024-10-23, from: NASA breaking news
+
+NASA Associate Administrator Jim Free welcomed the Republic of Cyprus as the latest nation to commit to the responsible use of space for humanity on Wednesday, marking 46 signatories to date. &#8220;We&#160;applaud Cyprus’ commitment to the&#160;Artemis Accords,&#160;which will&#160;enhance the country’s engagement with&#160;NASA and the international&#160;community,” said Free, who participated virtually. “By joining 45 other country [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-welcomes-republic-of-cyprus-as-46th-artemis-accords-signatory/>
+
+---
+
+## RISC-V reaches milestone with RVA23 profile ratification
+
+date: 2024-10-23, updated: 2024-10-23, from: The Register (UK I.T. News)
+
+<h4>No longer an underdog - it now challenges Arm and x86</h4> <p><strong>Comment</strong>  The ratification of the RVA23 profile for RISC-V marks a monumental moment for the architecture, and anyone who&#39;s been following RISC-V knows that this isn&#39;t just a checkbox.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/23/rva23_profile_ratified/>
+
+---
+
+## Asheville's Biltmore Estate Will Reopen for the Holidays After Sustaining Damage From Hurricane Helene
+
+date: 2024-10-23, from: Smithsonian Magazine
+
+The sprawling estate, which is the largest privately owned home in the country, will open its doors in November after a month-long closure 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/ashevilles-biltmore-estate-will-reopen-for-the-holidays-after-sustaining-damage-from-hurricane-helene-180985311/>
+
+---
+
+## Boeing's new captain promises U-turn after Q3 nosedive
+
+date: 2024-10-23, updated: 2024-10-23, from: The Register (UK I.T. News)
+
+<h4>Earnings reported the same day striking union workers vote on a new contract</h4> <p>If Boeing&#39;s second quarter was dismal, its Q3 numbers are abysmal, giving recently ensconced CEO Kelly Ortberg the perfect opportunity to fly to the rescue with a revitalization plan.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/23/boeing_q3/>
 
 ---
 
 ## 41-million-digit prime crunched by datacenter GPUs
 
-date: 2024-10-23, updated: 2024-10-23, from: The Register (UK I.T. News)
+date: 2024-10-23, updated: 2024-10-24, from: The Register (UK I.T. News)
 
 <h4>Former Nvidia engineer&#39;s discovery shows graphics compute can kick some serious ass</h4> <p>A former Nvidia engineer has found the largest known prime number – a whopping 41 million digits long – using an A100 GPU made by his previous workplace to do the grunt work.…</p> 
 

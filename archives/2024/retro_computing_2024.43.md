@@ -1,11 +1,48 @@
 ---
 title: retro computing
-updated: 2024-10-23 09:33:34
+updated: 2024-10-24 08:40:40
 ---
 
 # retro computing
 
-(date: 2024-10-23 09:33:34)
+(date: 2024-10-24 08:40:40)
+
+---
+
+## R-Comp monitor offers for London Show
+
+date: 2024-10-24, from: Icon Bar, RISC OS News
+
+R-Comp have let us know that they will have some really nice IPS and OLED displays available to buy at the London Show (along with some drivers) 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2120.html>
+
+---
+
+## RISCOSbits at the London Show
+
+date: 2024-10-24, from: RiscOS Story
+
+It&#8217;s just two days until London 2024, which takes place on Saturday, 26th October, at the Harrow District Masonic Centre. A long and detailed announcement has arrived at the bunker from Andy Marks of RISCOSbits, so to save me time (I have to get ready for the show as well, you know!), here it is in full: RISCOSbits will be bringing a full range of RISC OS computer systems to buy and take away from the London Show, based on our open-sourced, innovative and ultrafast NVMe drivers (produced in conjunction&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2024/riscosbits-at-the-london-show/>
+
+---
+
+## London show roars again
+
+date: 2024-10-23, from: RiscOS Open
+
+<p>After a short interlude, the <a href="https://www.riscoslondonshow.co.uk/">London show</a> is back in a new venue this Saturday the 26th October from 11am. The <a href="http://rougol.jellybaby.net/">organisers</a> have lined up an impressive list of exhibitors, all bringing the latest software and hardware developments in the <span class="caps">RISC</span> OS world for you to explore.</p>
+<p><img src="/images/risc_os_open/shows/rougol2024.png" title="Show banner" alt="Show banner" /></p> 
+
+<br> 
+
+<http://www.riscosopen.org/news/articles/2024/10/23/london-show-roars-again>
 
 ---
 

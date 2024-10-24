@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2024-10-23 09:33:33
+updated: 2024-10-24 08:40:39
 ---
 
 # games
 
-(date: 2024-10-23 09:33:33)
+(date: 2024-10-24 08:40:39)
+
+---
+
+## Thursday’s Google Doodle is actually a really fun strategy game
+
+date: 2024-10-24, updated: 2024-10-24, from: Polygon Website
+
+Google’s famous doodles — the illustrations that show up in place of the Google logo nearly every day — have been known to take the form of surprisingly great games on occasion. Today’s doodle is no exception: Rise of the Half Moon is a strategy card game that celebrates the half moon point in October’s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/469741/google-doodle-rise-half-moon-lunar-cycle-strategy-game>
+
+---
+
+## Brave streamers attempt to thwart Nintendo’s playtest requests — and (unsurprisingly) get punished for it
+
+date: 2024-10-24, updated: 2024-10-24, from: Polygon Website
+
+Hours after Nintendo’s secretive Switch Online playtest went live, the massively multiplayer online game was streamed on YouTube and Twitch. Unsurprisingly, Nintendo has been quick in issuing Digital Millennium Copyright Act (DMCA) takedown notices for anything that’s put up in defiance of its terms and conditions, which request players don’t “discuss or disclose content from [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo/469694/brae>
+
+---
+
+## Save on dozens of gorgeous books during Target’s buy 1, get 1 half off sale
+
+date: 2024-10-24, updated: 2024-10-23, from: Polygon Website
+
+Target is currently hosting a buy 1, get 1 half off sale on some essential reading that you may want to check out. Through Oct. 26, Target Circle members can buy one book and save 50% on another that’s equal or lesser in value. While this deal is technically a members-only affair, joining Target Circle [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/sales-guide/469228/target-buy-one-get-half-off-deal-books>
+
+---
+
+## The 25 best games on Game Pass
+
+date: 2024-10-24, updated: 2024-10-24, from: Polygon Website
+
+Microsoft’s Game Pass subscription service is having another great year in 2024, with over 450 games now available for console players and over 400 for PC players. The service has recently been bolstered with the fruits of Microsoft’s acquisition of Activision Blizzard — including Diablo 4 and Call of Duty: Modern Warfare 3. Blockbuster titles [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox>
+
+---
+
+## Where to pre-order Star Wars: Unlimited &#8211; Twilight of the Republic
+
+date: 2024-10-24, updated: 2024-10-24, from: Polygon Website
+
+The second expansion for Star Wars: Unlimited, titled Twilight of the Republic, is currently available to pre-order ahead of its Nov. 8 launch. Following a similar format to the previous expansion, Shadows of the Galaxy, Twilight of the Republic is available to reserve either as a two-player Starter Kit, or as Booster Packs. We’ve managed [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pre-order/468407/star-wars-unlimited-twilight-of-the-republic-tcg-where-to-buy>
+
+---
+
+## Rogue Trader’s first expansion and post-launch polish are great additions to the 40K CRPG
+
+date: 2024-10-24, updated: 2024-10-24, from: Polygon Website
+
+Warhammer 40,000: Rogue Trader is an incredibly dense and narratively satisfying game — but one that launched with some balance issues, bugs, and other bumps. As the game’s first anniversary approaches, developer Owlcat Studios has continued to build the Koronus Expanse and the adventures within, shaving off the launch version’s rough edges along the way. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/469373/rogue-trader-void-shadows-post-launch-support>
+
+---
+
+## The unprecedented Pokémon hack covers decades of game secrets. Here’s what it means
+
+date: 2024-10-24, updated: 2024-10-23, from: Polygon Website
+
+Pokémon developer Game Freak confirmed it was hacked in August in a major breach that exposed more than 2,600 employees’ personal information and decades’ worth of Pokémon documents, source code, and other files. The stolen data has been uploaded to the internet during the past week as public knowledge of the scope of the leak [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon/469483/pokemon-leak-hack-explainer-game-freak>
+
+---
+
+## All the Legend of Vox Machina season 4 news we’ve heard so far
+
+date: 2024-10-24, updated: 2024-10-23, from: Polygon Website
+
+[Ed. note: This post contains spoilers for the end of season 3 of The Legend of Vox Machina, in order to talk about what season 4 might bring.] Vox Machina is more aflung than they’ve ever been by the end of season 3. They’ve been through the wringer; they’ve been to hell and back, literally; [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/critical-role/468661/legend-vox-machina-season-4-release-date-cast-news>
+
+---
+
+## How one of YouTube’s biggest ASMRtists created her shot-for-shot Shrek remake
+
+date: 2024-10-23, updated: 2024-10-23, from: Polygon Website
+
+ASMR videos started as a fringe section of YouTube, but the industry has grown exponentially in the last decade — rough estimates say there are at least 25 million ASMR videos on YouTube alone, coming from at least half a million channels dedicated to the craft. In the last five years or so, ASMR videos [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/youtube/469454/gibi-asmr-shrek-remake-youtube>
+
+---
+
+## Venom: The Last Dance is in a toxic relationship with itself
+
+date: 2024-10-23, updated: 2024-10-23, from: Polygon Website
+
+2018’s Venom is janky and often boring, but the divide between the movie’s standard superhero-brawler script and Tom Hardy’s “What if I got in the lobster tank?” improvisations in the dual lead roles as reporter Eddie Brock and his alien symbiote give the final product an undeniable appeal. Venom, in spite of itself, is weird [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/469476/venom-3-the-last-dance-tom-hardy-knull>
 
 ---
 

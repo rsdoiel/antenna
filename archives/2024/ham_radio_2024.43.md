@@ -1,11 +1,37 @@
 ---
 title: ham radio
-updated: 2024-10-23 09:33:32
+updated: 2024-10-24 08:40:38
 ---
 
 # ham radio
 
-(date: 2024-10-23 09:33:32)
+(date: 2024-10-24 08:40:38)
+
+---
+
+## UWB enables handsfree, secure car access via smartphone
+
+date: 2024-10-24, from: EDN Blog
+
+<img width="1920" height="768" src="https://www.edn.com/wp-content/uploads/uwb-car-access-NXP.jpg?fit=1920%2C768" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/uwb-car-access-NXP.jpg?w=1920 1920w, https://www.edn.com/wp-content/uploads/uwb-car-access-NXP.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/uwb-car-access-NXP.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/uwb-car-access-NXP.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/uwb-car-access-NXP.jpg?w=1536 1536w" sizes="(max-width: 1920px) 100vw, 1920px" /><p>Audi’s Q6 e-Tron will be sporting the UWB-enabled secure, handsfree car access later this year.</p>
+<p>The post <a href="https://www.edn.com/uwb-enables-handsfree-secure-car-access-via-smartphone/" data-wpel-link="internal">UWB enables handsfree, secure car access via smartphone</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/uwb-enables-handsfree-secure-car-access-via-smartphone/>
+
+---
+
+## ARRL Systems Service Disruption
+
+date: 2024-10-23, from: Amateur Radio Relay League News
+
+<p><b>Updated 10/23/2024<br /><br /></b>The ARRL DXCC® System has been returned to service, and our staff is again processing applications for credit toward DXCC awards. The queue includes nearly 3,000 award applications submitted via Logbook of The World® (LoTW®) accounts and mailed paper applications. We are processing the backlog as quickly as possible, and will provide additional progress updates.<br /><br />For now, the on...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-systems-service-disruption>
 
 ---
 
@@ -13,7 +39,7 @@ updated: 2024-10-23 09:33:32
 
 date: 2024-10-23, from: EDN Blog
 
-<img width="547" height="874" src="https://www.edn.com/wp-content/uploads/Hydrotherapy_figure1.png?fit=547%2C874" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hydrotherapy_figure1.png?w=547 547w, https://www.edn.com/wp-content/uploads/Hydrotherapy_figure1.png?w=188 188w" sizes="(max-width: 547px) 100vw, 547px" /><p>Discussing the dangers of excessively hot liquids and how a simple shower that is not regulated could pose a serious threat. </p>
+<img width="547" height="874" src="https://www.edn.com/wp-content/uploads/Hydrotherapy_figure1.png?fit=547%2C874" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hydrotherapy_figure1.png?w=547 547w, https://www.edn.com/wp-content/uploads/Hydrotherapy_figure1.png?w=188 188w" sizes="(max-width: 547px) 100vw, 547px" /><p>Discussing the dangers of excessively hot liquids and how a simple shower that is not regulated could pose a serious threat. </p>
 <p>The post <a href="https://www.edn.com/part-2-how-hot-is-too-hot-to-touch/" data-wpel-link="internal">Part 2: How hot is too hot to touch? </a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

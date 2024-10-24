@@ -1,11 +1,51 @@
 ---
 title: libraries
-updated: 2024-10-23 09:33:33
+updated: 2024-10-24 08:40:39
 ---
 
 # libraries
 
-(date: 2024-10-23 09:33:33)
+(date: 2024-10-24 08:40:39)
+
+---
+
+## Machine Actionable Plans (MAP) Pilot Team Visits Penn State University
+
+date: 2024-10-24, from: Association of Research Libraries News
+
+<p>Last Updated on October 24, 2024, 10:15 am ET With a research budget of more than $1 billion, the management of research data at Penn State University involves a diverse...</p>
+<p>The post <a href="https://www.arl.org/blog/machine-actionable-plans-map-pilot-team-visits-penn-state-university/">Machine Actionable Plans (MAP) Pilot Team Visits Penn State University</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/machine-actionable-plans-map-pilot-team-visits-penn-state-university/>
+
+---
+
+## Scholarly Publishing: The Elephant (And Other Wildlife) In The Room
+
+date: 2024-10-24, from: Scholarly Kitchen
+
+<p>Journal-based scholarly communication needs a structural change</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/10/24/scholarly-publishing-the-elephant-and-other-wildlife-in-the-room/">Scholarly Publishing: The Elephant (And Other Wildlife) In The Room</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2024/10/24/scholarly-publishing-the-elephant-and-other-wildlife-in-the-room/>
+
+---
+
+## Short Fiction, by Nella Larsen
+
+date: 2024-10-23, from: Standard Ebooks, new releaases
+
+A collection of Nella Larsen’s short fiction. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/nella-larsen/short-fiction>
 
 ---
 
@@ -27,7 +67,7 @@ date: 2024-10-23, from: Scholarly Kitchen
 
 date: 2024-10-22, from: Association of Research Libraries News
 
-<p>Last Updated on October 23, 2024, 7:45 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, October 22 &#124; Wednesday, October 23 &#124; Thursday,...</p>
+<p>Last Updated on October 24, 2024, 7:20 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, October 22 &#124; Wednesday, October 23 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-october-21-24/">Day in Review (October 21–24)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

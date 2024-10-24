@@ -1,11 +1,119 @@
 ---
 title: motorcycles
-updated: 2024-10-23 09:33:33
+updated: 2024-10-24 08:40:40
 ---
 
 # motorcycles
 
-(date: 2024-10-23 09:33:33)
+(date: 2024-10-24 08:40:40)
+
+---
+
+## Scumbag Car Thief Gets Sweet Justice, Discovers Stolen Motorcycle in the Back
+
+date: 2024-10-24, from: Ride Apart, Electric Motorcycle News
+
+If you're all about that sweet, sweet justice, then this is a two-for-one.  
+
+<br> 
+
+<https://www.rideapart.com/news/738500/car-and-motorcycle-thief-caught/>
+
+---
+
+## Watch a Dirt Biker Get Clobbered By a Jumping Deer
+
+date: 2024-10-24, from: Ride Apart, Electric Motorcycle News
+
+Can you also hear, "FATALITY" when the deer hits the rider? 
+
+<br> 
+
+<https://www.rideapart.com/news/738512/dirt-biker-gets-hit-by-jumping-deer/>
+
+---
+
+## Could Honda’s New CB300F Make Flex-Fuel a Thing Again?
+
+date: 2024-10-24, from: Ride Apart, Electric Motorcycle News
+
+The CB300F is India’s first 300cc flex-fuel motorcycle—could it spell big things for the rest of the world?  
+
+<br> 
+
+<https://www.rideapart.com/news/738386/honda-cb300f-flex-fuel-launched-india/>
+
+---
+
+## The Rawrr Wheelie Helper Proves Kids Get All the Best Stuff
+
+date: 2024-10-24, from: Ride Apart, Electric Motorcycle News
+
+I just can't understand why there aren't more models like this for adults.  
+
+<br> 
+
+<https://www.rideapart.com/news/738229/rawrr-wheelie-helper-children/>
+
+---
+
+## This Indian Motorcycle Business Looks Like It’s Ready To Take Over The World
+
+date: 2024-10-24, from: Ride Apart, Electric Motorcycle News
+
+Its sales and profit growth are enough to make any manufacturer jealous.  
+
+<br> 
+
+<https://www.rideapart.com/news/738385/bajaj-sales-profit-growth-q2-2024/>
+
+---
+
+## Ducati’s New Multistrada V4 Seems Like A Good Way To Spend Your Midlife Crisis
+
+date: 2024-10-24, from: Ride Apart, Electric Motorcycle News
+
+This thing’s probably smarter than you.  
+
+<br> 
+
+<https://www.rideapart.com/news/738404/2025-ducati-multistrada-v4-perfect-midlife-crisis-bike/>
+
+---
+
+## Honda Wants To Give Your Transalp Free Crash Protection, But There's a Catch
+
+date: 2024-10-24, from: Ride Apart, Electric Motorcycle News
+
+It's one heck of a deal if you're the adventure-seeking sort. 
+
+<br> 
+
+<https://www.rideapart.com/news/738507/honda-xl750-transalp-sp-adventure/>
+
+---
+
+## ARCA Menards West Series: 2024 Bakersfield II Race Preview
+
+date: 2024-10-24, from: Kickin the Tires blog
+
+By Vincent Delforge, Special to Kickin&#8217; the Tires The final stretch for the 2024 ARCA Menards West Series season is here, as this Saturday, October 26, the NAPA Auto Parts&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/arca-menards-west-series-2024-bakersfield-ii-race-preview/>
+
+---
+
+## Things Are Looking Bad for UTV and Snowmobile Maker Polaris
+
+date: 2024-10-23, from: Ride Apart, Electric Motorcycle News
+
+Consumers aren't buying big-ticket items right now.  
+
+<br> 
+
+<https://www.rideapart.com/news/738495/polaris-sales-plunge-snowmobile-utv-atv-third-quarter/>
 
 ---
 

@@ -1,11 +1,38 @@
 ---
 title: writing
-updated: 2024-10-23 09:33:32
+updated: 2024-10-24 08:40:39
 ---
 
 # writing
 
-(date: 2024-10-23 09:33:32)
+(date: 2024-10-24 08:40:39)
+
+---
+
+## Dakini Atoll by Nikhil Singh: Review by Nedine Moonsamy
+
+date: 2024-10-24, from: Locus Magazine
+
+<p><strong>Dakini Atoll</strong>, Nikhil Singh (Luna Press Publishing 978-1-91555-634-9, £22.99, 252pp, hc) June 2024. Cover by Elena Romenkova.</p>
+<p>Nikhil Singh has carved out a niche within African SF by bringing the full range of his artistic talents into play in his worldbuild­ing. The dystopian underworlds explored in his earlier works create the unique effect of falling into a sensorial swamp, an enticing feature that is only enhanced in Singh’s third  <a href="https://locusmag.com/2024/10/dakini-atoll-by-nikhil-singh-review-by-nedine-moonsamy/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/10/dakini-atoll-by-nikhil-singh-review-by-nedine-moonsamy/>
+
+---
+
+## Omega Sci-Fi Awards News
+
+date: 2024-10-23, from: Locus Magazine
+
+<p>Light Bringer Project and Omega Sci-Fi have announced that the Roswell and New Suns Climate Fiction awards are on indefinite hiatus.</p>
+<p>Omega Sci-Fi is celebrating their 10th anniversary this year, and will continue their two youth competitions, The Tomorrow Prize and The Green Feather Award. Submissions for both awards are open through February 14, 2025.</p>
+<p>This year&#8217;s competition will come to a close during the Celebrity Readings and Honors event  <a href="https://locusmag.com/2024/10/omega-sci-fi-awards-news/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/10/omega-sci-fi-awards-news/>
 
 ---
 

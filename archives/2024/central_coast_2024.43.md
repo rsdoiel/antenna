@@ -1,11 +1,98 @@
 ---
 title: central coast
-updated: 2024-10-23 09:33:32
+updated: 2024-10-24 08:40:38
 ---
 
 # central coast
 
-(date: 2024-10-23 09:33:32)
+(date: 2024-10-24 08:40:38)
+
+---
+
+## Misty Morning at More Mesa
+
+date: 2024-10-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092424-POD-Amanda-Scott.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Misty morning view at More Mesa near Santa Barbara." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092424-POD-Amanda-Scott.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092424-POD-Amanda-Scott.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092424-POD-Amanda-Scott.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092424-POD-Amanda-Scott.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092424-POD-Amanda-Scott.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092424-POD-Amanda-Scott.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092424-POD-Amanda-Scott.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092424-POD-Amanda-Scott.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092424-POD-Amanda-Scott.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092424-POD-Amanda-Scott.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092424-POD-Amanda-Scott.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/09/092424-POD-Amanda-Scott.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/misty-morning-at-more-mesa/">Misty Morning at More Mesa</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/misty-morning-at-more-mesa/>
+
+---
+
+## A Look at Accessory Dwelling Units and Who Lives in Them, Amid Housing Crisis
+
+date: 2024-10-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102324-ADU-Infographic-FINAL-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="ADUs in Santa Barbara." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102324-ADU-Infographic-FINAL-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102324-ADU-Infographic-FINAL-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102324-ADU-Infographic-FINAL-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102324-ADU-Infographic-FINAL-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102324-ADU-Infographic-FINAL-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102324-ADU-Infographic-FINAL-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102324-ADU-Infographic-FINAL-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102324-ADU-Infographic-FINAL-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102324-ADU-Infographic-FINAL-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The average accessory dwelling unit in South Santa Barbara County rents for $2,657 per month, but only 59% of the 738 total are used for rental housing. About 8% are [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/survey-tracks-impact-of-accessory-dwelling-units-on-countys-housing-crisis/">A Look at Accessory Dwelling Units and Who Lives in Them, Amid Housing Crisis</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/survey-tracks-impact-of-accessory-dwelling-units-on-countys-housing-crisis/>
+
+---
+
+## Salon Owner, Dancer Miye Ota Leaves Behind Lasting Legacy in Goleta
+
+date: 2024-10-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/012016-miye-ota-1-lc.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Miye Ota of Goleta, seen inside the studio that she and her husband, Ken, used for decades to teach aikido, ballroom dancing and more, died Sept. 15 at age 106." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/012016-miye-ota-1-lc.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/012016-miye-ota-1-lc.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/012016-miye-ota-1-lc.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/012016-miye-ota-1-lc.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/012016-miye-ota-1-lc.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/012016-miye-ota-1-lc.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/012016-miye-ota-1-lc.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/012016-miye-ota-1-lc.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/012016-miye-ota-1-lc.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Miye Ota was many things — a hairdresser, a ballroom dancer, a business owner and a survivor of a Japanese-American internment camp during World War II. Many in Goleta knew [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/salon-owner-dancer-miye-ota-leaves-behind-lasting-legacy-in-goleta/">Salon Owner, Dancer Miye Ota Leaves Behind Lasting Legacy in Goleta</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/salon-owner-dancer-miye-ota-leaves-behind-lasting-legacy-in-goleta/>
+
+---
+
+## 6 Candidates Seek 3 Seats on Santa Maria-Bonita School District Board
+
+date: 2024-10-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-SM-Bonita-Board-Races1a-js.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Santa Maria-Bonita School District board incumbent Linda Cordero and challenger James Rymel are seeking to represent Area 3." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-SM-Bonita-Board-Races1a-js.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-SM-Bonita-Board-Races1a-js.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-SM-Bonita-Board-Races1a-js.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-SM-Bonita-Board-Races1a-js.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-SM-Bonita-Board-Races1a-js.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-SM-Bonita-Board-Races1a-js.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-SM-Bonita-Board-Races1a-js.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-SM-Bonita-Board-Races1a-js.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-SM-Bonita-Board-Races1a-js.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Three incumbents on the Santa Maria-Bonita School District Board of Education have three newcomers challenging their re-election bids.&#160; With Santa Maria-Bonita switching to district-based elections, members are now chosen by [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/6-candidates-vie-for-3-seats-on-santa-maria-bonita-school-district-board/">6 Candidates Seek 3 Seats on Santa Maria-Bonita School District Board</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/6-candidates-vie-for-3-seats-on-santa-maria-bonita-school-district-board/>
+
+---
+
+## Roundup of School Bond Measures on Santa Barbara County Ballots
+
+date: 2024-10-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>There are six school bond measures on the Nov. 5 ballot asking voters in Santa Barbara County to approve funding for improvements to campus facilities. All of the general-obligation bonds [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/roundup-of-school-bond-measures-on-santa-barbara-county-ballots/">Roundup of School Bond Measures on Santa Barbara County Ballots</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/roundup-of-school-bond-measures-on-santa-barbara-county-ballots/>
+
+---
+
+## AAUW Lompoc-Vandenberg Branch Backs Measure M School Bond
+
+date: 2024-10-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The American Association of University Women (AAUW) Lompoc-Vandenberg Branch endorses Measure M, the Lompoc public school bond on the upcoming election ballot. The bond would be used to upgrade aging [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/aauw-lompoc-vandenberg-branch-backs-measure-m-school-bond/">AAUW Lompoc-Vandenberg Branch Backs Measure M School Bond</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/aauw-lompoc-vandenberg-branch-backs-measure-m-school-bond/>
 
 ---
 
