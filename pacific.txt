@@ -109,7 +109,7 @@ https://www.meripmicronesia.org/feed/ "~MERIP News, Marine Environment Ressearch
 #
 # FSM Feeds
 #
-http://www.fsmdb.fm/feed/ "FSM Development Bank News"
+#http://www.fsmdb.fm/feed/ "FSM Development Bank News" # Discovered vandalized content 2024-10-24, appears to be advertising casinos and things.
 
 #
 # Pacific Arts and Culture
