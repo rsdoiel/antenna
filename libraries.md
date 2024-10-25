@@ -1,11 +1,39 @@
 ---
 title: libraries
-updated: 2024-10-24 08:40:39
+updated: 2024-10-25 08:11:26
 ---
 
 # libraries
 
-(date: 2024-10-24 08:40:39)
+(date: 2024-10-25 08:11:26)
+
+---
+
+## ARL Libraries Celebrate Open Access Week 2024
+
+date: 2024-10-25, from: Association of Research Libraries News
+
+<p>Last Updated on October 25, 2024, 10:49 am ET Open Access Week is an opportunity for the academic and research community to continue to learn about the potential benefits of...</p>
+<p>The post <a href="https://www.arl.org/blog/arl-libraries-celebrate-open-access-week-2024/">ARL Libraries Celebrate Open Access Week 2024</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/arl-libraries-celebrate-open-access-week-2024/>
+
+---
+
+## Scary Times for Research Journals
+
+date: 2024-10-25, from: Scholarly Kitchen
+
+<p>A new launch suggests that the death of the research journal might not mean their end....</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/10/25/scary-times-for-research-journals/">Scary Times for Research Journals</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2024/10/25/scary-times-for-research-journals/>
 
 ---
 
@@ -67,7 +95,7 @@ date: 2024-10-23, from: Scholarly Kitchen
 
 date: 2024-10-22, from: Association of Research Libraries News
 
-<p>Last Updated on October 24, 2024, 7:20 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, October 22 &#124; Wednesday, October 23 &#124; Thursday,...</p>
+<p>Last Updated on October 24, 2024, 12:59 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, October 22 &#124; Wednesday, October 23 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-october-21-24/">Day in Review (October 21–24)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

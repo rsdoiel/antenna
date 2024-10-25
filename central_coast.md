@@ -1,11 +1,141 @@
 ---
 title: central coast
-updated: 2024-10-24 08:40:38
+updated: 2024-10-25 08:11:25
 ---
 
 # central coast
 
-(date: 2024-10-24 08:40:38)
+(date: 2024-10-25 08:11:25)
+
+---
+
+## Autumn in the Rockies
+
+date: 2024-10-25, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102524-POD-Joyce-Dudley.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Autumn in the Colorado Rocky Mountains." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102524-POD-Joyce-Dudley.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102524-POD-Joyce-Dudley.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102524-POD-Joyce-Dudley.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102524-POD-Joyce-Dudley.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102524-POD-Joyce-Dudley.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102524-POD-Joyce-Dudley.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102524-POD-Joyce-Dudley.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102524-POD-Joyce-Dudley.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102524-POD-Joyce-Dudley.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102524-POD-Joyce-Dudley.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102524-POD-Joyce-Dudley.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102524-POD-Joyce-Dudley.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/autumn-in-the-rockies/">Autumn in the Rockies</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/autumn-in-the-rockies/>
+
+---
+
+## BizHawk: Lion’s Tale Cocktail Bar at Montecito Inn Serves an Upscale Experience
+
+date: 2024-10-25, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Bizhawk-Lions-Tale-Brandon-Ristaino-Misty-Orman-2-BB.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Brandon Ristaino and Misty Orman have launched their newest cocktail bar, Lion&#039;s Tale, inside the Montecito Inn on Coast Village Road in Santa Barbara." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Bizhawk-Lions-Tale-Brandon-Ristaino-Misty-Orman-2-BB.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Bizhawk-Lions-Tale-Brandon-Ristaino-Misty-Orman-2-BB.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Bizhawk-Lions-Tale-Brandon-Ristaino-Misty-Orman-2-BB.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Bizhawk-Lions-Tale-Brandon-Ristaino-Misty-Orman-2-BB.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Bizhawk-Lions-Tale-Brandon-Ristaino-Misty-Orman-2-BB.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Bizhawk-Lions-Tale-Brandon-Ristaino-Misty-Orman-2-BB.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Bizhawk-Lions-Tale-Brandon-Ristaino-Misty-Orman-2-BB.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Bizhawk-Lions-Tale-Brandon-Ristaino-Misty-Orman-2-BB.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Bizhawk-Lions-Tale-Brandon-Ristaino-Misty-Orman-2-BB.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Lion&#8217;s Tale is ready to roar right onto Coast Village Road. Upscale and classy, Lion’s Tale is the newest concept from&#160;Good Lion Hospitality, which has six other concepts around town. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/bizhawk-lions-tale-cocktail-bar-at-montecito-inn-serves-an-upscale-experience/">BizHawk: Lion&#8217;s Tale Cocktail Bar at Montecito Inn Serves an Upscale Experience</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/bizhawk-lions-tale-cocktail-bar-at-montecito-inn-serves-an-upscale-experience/>
+
+---
+
+## Family Frustrated After Driver in Son’s Hit-Run Death Gets Probation
+
+date: 2024-10-25, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Angus-parents-RC.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Jan and Hal Angus, who lost their son this year in a fatal hit-and-run crash in Santa Barbara, share their frustrations about the criminal system." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Angus-parents-RC.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Angus-parents-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Angus-parents-RC.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Angus-parents-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Angus-parents-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Angus-parents-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Angus-parents-RC.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Angus-parents-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Angus-parents-RC.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Jan and Hal Angus lost two things this year: their eldest son, Dane Angus, and faith in the California justice system.&#160; Dane Angus, 31, was killed on Feb. 24 in [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/family-frustrated-after-driver-in-sons-hit-run-death-gets-probation/">Family Frustrated After Driver in Son&#8217;s Hit-Run Death Gets Probation</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/family-frustrated-after-driver-in-sons-hit-run-death-gets-probation/>
+
+---
+
+## Driver Injured in Rollover Crash on Highway 154 Near Painted Cave Road
+
+date: 2024-10-25, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Highway-154-Crash-sbcfd-2000.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A driver was injured Thursday afternoon in a rollover crash on Highway 154 near Painted Cave Road." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Highway-154-Crash-sbcfd-2000.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Highway-154-Crash-sbcfd-2000.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Highway-154-Crash-sbcfd-2000.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Highway-154-Crash-sbcfd-2000.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Highway-154-Crash-sbcfd-2000.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Highway-154-Crash-sbcfd-2000.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Highway-154-Crash-sbcfd-2000.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Highway-154-Crash-sbcfd-2000.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Highway-154-Crash-sbcfd-2000.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>One person was taken to the hospital Thursday afternoon following a single-vehicle, rollover crash on Highway 154, according to the Santa Barbara County Fire Department. Firefighters and other emergency personnel [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/driver-injured-in-rollover-crash-on-highway-154-near-painted-cave-road/">Driver Injured in Rollover Crash on Highway 154 Near Painted Cave Road</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/driver-injured-in-rollover-crash-on-highway-154-near-painted-cave-road/>
+
+---
+
+## Suspect Arrested in Connection with Sept. 18 Shooting in Santa Maria
+
+date: 2024-10-25, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A 21-year-old man was arrested Thursday in connection with a shooting last month that left the victim seriously wounded, according to the Santa Maria Police Department. Detectives served a warrant [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/suspect-arrested-in-connection-with-sept-18-shooting-in-santa-maria/">Suspect Arrested in Connection with Sept. 18 Shooting in Santa Maria</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/suspect-arrested-in-connection-with-sept-18-shooting-in-santa-maria/>
+
+---
+
+## Crews Battle Vegetation Fire Along Highway 246 Near Buellton
+
+date: 2024-10-25, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Highway-246-Veg-Fire-sbcfd-1800.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Firefighters responded Thursday afternoon to a 2-alarm vegetation fire burning near Buellton." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Highway-246-Veg-Fire-sbcfd-1800.jpg?w=1800&amp;ssl=1 1800w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Highway-246-Veg-Fire-sbcfd-1800.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Highway-246-Veg-Fire-sbcfd-1800.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Highway-246-Veg-Fire-sbcfd-1800.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Highway-246-Veg-Fire-sbcfd-1800.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Highway-246-Veg-Fire-sbcfd-1800.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Highway-246-Veg-Fire-sbcfd-1800.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Highway-246-Veg-Fire-sbcfd-1800.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Highway-246-Veg-Fire-sbcfd-1800.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A two-alarm vegetation fire burning near Buellton blackened approximately 64 acres on Thursday afternoon, and interrupted telephone service in the area, according to the Santa Barbara County Fire Department. Just [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/brush-fire-burning-off-highway-246-near-buellton-phone-service-affected/">Crews Battle Vegetation Fire Along Highway 246 Near Buellton</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/brush-fire-burning-off-highway-246-near-buellton-phone-service-affected/>
+
+---
+
+## Become a Cat Lady – or Man: Adopt a Shelter Feline at ASAP Cats Event
+
+date: 2024-10-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>With cats and kittens of all shapes and sizes ready to find their forever homes, ASAP Cats will hold its monthly Adoption Event and Yard Sale, 10 a.m.-3 p.m. Saturday, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/become-a-cat-lady-or-man-adopt-a-shelter-feline-at-asap-cats-event/">Become a Cat Lady &#8211; or Man: Adopt a Shelter Feline at ASAP Cats Event</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/become-a-cat-lady-or-man-adopt-a-shelter-feline-at-asap-cats-event/>
+
+---
+
+## Expect Lane Closures on Hwy. 1
+
+date: 2024-10-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A rock scaling operation on Highway 1 at El Jaro Creek Bridge will result in intermittent lane closures on northbound and southbound Hwy. 1 in Lompoc, 9 a.m.-3 p.m. Tuesday, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/expect-lane-closures-on-hwy-1/">Expect Lane Closures on Hwy. 1</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/expect-lane-closures-on-hwy-1/>
+
+---
+
+## City Posts Transient Occupancy Tax Results for September
+
+date: 2024-10-24, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The city of Santa Barbara has announced its Transient Occupancy Tax results for the month ended Sept. 30, 2024. The city of Santa Barbara collected $3.6 million in Transient Occupancy [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/city-posts-transient-occupancy-tax-results-for-september/">City Posts Transient Occupancy Tax Results for September</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/city-posts-transient-occupancy-tax-results-for-september/>
 
 ---
 

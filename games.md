@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2024-10-24 08:40:39
+updated: 2024-10-25 08:11:25
 ---
 
 # games
 
-(date: 2024-10-24 08:40:39)
+(date: 2024-10-25 08:11:25)
+
+---
+
+## How to get Double XP tokens in Black Ops 6
+
+date: 2024-10-25, updated: 2024-10-25, from: Polygon Website
+
+Double XP tokens, a Call of Duty staple to help players level up faster, are harder to source than ever in Black Ops 6. Compared to most games, where there are a variety of in-game ways to unlock tokens, Black Ops 6 mainly relies on external campaigns or giveaways for those all-important accelerated XP gains. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/black-ops-6-guides/470189/double-xp-tokens-promo-promotion-how-to-get>
+
+---
+
+## Zenless Zone Zero 1.3 livestream codes
+
+date: 2024-10-25, updated: 2024-10-25, from: Polygon Website
+
+Zenless Zone Zero just closed out its version 1.3 livestream, teasing what’s to come in the next update, which launches the evening EDT of Tuesday, Nov. 5. Alongside new characters and events, Hoyoverse uses the stream to distribute codes that reward free Polychrome and other upgrade materials. Two new characters will become available during this [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/zenless-zone-zero-guides/2024/8/3/469901/zzz-1-3-livestream-code-redeem>
+
+---
+
+## M. Night Shyamalan’s cameos ranked in order of importance
+
+date: 2024-10-25, updated: 2024-10-25, from: Polygon Website
+
+M. Night Shyamalan’s public reputation has had its ups and downs in the more than 25 years he’s been making movies. While Polygon is using the release of Trap on Max to argue that he’s always been a lot better than people give him credit for, one uncontroversial fact about the director is that his [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/469542/m-night-shyamalan-cameos-ranked-trap>
+
+---
+
+## Lady in the Water is the bridge between 2 eras of M. Night Shyamalan
+
+date: 2024-10-25, updated: 2024-10-25, from: Polygon Website
+
+After critical and commercial success with a trio of smart, entertaining, and impeccably crafted genre films, M. Night Shyamalan seemed on top of the world. The Sixth Sense, Unbreakable, and Signs thrilled audiences and critics alike, setting the director up as a major new player in Hollywood. Then prowled The Village — a box-office success, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/468835/lady-in-the-water-m-night-shyamalan-its-good-actually>
+
+---
+
+## M. Night&#8217;s always had it
+
+date: 2024-10-25, updated: 2024-10-25, from: Polygon Website
+
+After wasting a full decade reducing his greatness to memes about twist endings, the world has rightly come back around on M. Night Shyamalan. But while his critical and commercial reappraisal started in earnest in 2016 with the release of Split, the truth is that Shyamalan never really went away. With the release of Trap [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/468740/m-night-shyamalan-movies-good>
+
+---
+
+## M. Night Shyamalan has always been brilliant. It’s audiences who are finally catching up
+
+date: 2024-10-25, updated: 2024-10-24, from: Polygon Website
+
+The world has never quite known what to do with M. Night Shyamalan. He was called the next Steven Spielberg just three movies into his career, but when critics and audiences realized he didn’t fit into that box, he was relegated to a punchline for more than a decade before bursting back onto the scene [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/468716/m-night-shyamalan-has-always-been-great-essay-trap-streaming>
+
+---
+
+## M. Night Shyamalan’s Trap is a perfect Hitman movie
+
+date: 2024-10-25, updated: 2024-10-24, from: Polygon Website
+
+Something started to feel oddly familiar to me about 19 minutes into watching Trap, the latest horror thriller from director M. Night Shyamalan. The film stars Josh Hartnett as Cooper, a seemingly regular dad that happens to have a secret life as a notorious serial killer, who discovers that the pop idol concert he’s at [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/469408/trap-m-night-shyamalan-hitman-josh-hartnett>
+
+---
+
+## For Humberly González, Star Wars Outlaws wasn’t a stepping stone, it was the dream
+
+date: 2024-10-25, updated: 2024-10-25, from: Polygon Website
+
+Do or do not —&#160;there is no try when you’re an actor leading a game like Star Wars Outlaws. First, it’s Star Wars, a franchise whose most ardent fans fight daily battles over the legacy of the series, often at the expense of the talent involved. The actual work — the motion-capture, the voice work, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/awards/469886/star-wars-outlaws-kay-actor-humberly-gonzalez-interview-game-awards-goty>
+
+---
+
+## In a world without filler episodes, The Legend of Vox Machina still makes space for crucial downtime
+
+date: 2024-10-25, updated: 2024-10-24, from: Polygon Website
+
+As The Legend of Vox Machina goes on, the show tackles more and more, pulling in not just from the original Critical Role campaign but from subsequent actual play sessions and the whole world of Exandria that’s since been built out.&#160; And yet, even with the stakes at an all-time high, the creative team behind [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/critical-role/469744/legend-vox-machina-season-3-review>
+
+---
+
+## When do Astro Bot’s speedrun DLC levels go live each week?
+
+date: 2024-10-25, updated: 2024-10-25, from: Polygon Website
+
+A series of free speedrun levels DLC are coming to Astro Bot across Oct. and Nov. 2024. Each week for five weeks, a new speedrun level will be added to the game, complete with online leaderboards and two additional special bots to find, adding 10 to your overall roster. This page explains the Astro Bot [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/astro-bot-guides/466172/speedrun-dlc-levels-update-time-schedule>
 
 ---
 

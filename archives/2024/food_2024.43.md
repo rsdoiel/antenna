@@ -1,11 +1,301 @@
 ---
 title: food
-updated: 2024-10-24 08:40:40
+updated: 2024-10-25 08:11:27
 ---
 
 # food
 
-(date: 2024-10-24 08:40:40)
+(date: 2024-10-25 08:11:27)
+
+---
+
+## Moonrise Bakery Hires New Executive Pastry Chef
+
+date: 2024-10-25, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Olympia Coffee and Moonrise Bakery have hired Michele Pompei to lead their pastry program.  
+
+<br> 
+
+<https://sprudge.com/moonrise-bakery-hires-new-executive-pastry-chef-257636.html>
+
+---
+
+## What’s A Good Substitute For Taco Seasoning?
+
+date: 2024-10-25, from: Pepper Scale
+
+Taco seasoning is one of the more useful&#160;seasoning&#160;mixes for the spicy food fan. From taco nights to game day dips, its addition adds a mild simmer and earthiness to any dish it touches. But what if you&#8217;re out? Or what if you want to change ... <p class="read-more-container"><a title="What&#8217;s A Good Substitute For Taco Seasoning?" class="read-more button" href="https://pepperscale.com/substitute-for-taco-seasoning/#more-7005" aria-label="Read more about What&#8217;s A Good Substitute For Taco Seasoning?">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/substitute-for-taco-seasoning/>
+
+---
+
+## Spicy Baked Eggs In Avocado
+
+date: 2024-10-25, from: Pepper Scale
+
+This is one breakfast that&#8217;s both fast to prep and beautiful in presentation. Oh, and did we mention spicy? That&#8217;s the piece de la resistance for us. Sprinkled with both black pepper and cayenne pepper powder, there&#8217;s a kick to these baked eggs in avocado.&#160; ... <p class="read-more-container"><a title="Spicy Baked Eggs In Avocado" class="read-more button" href="https://pepperscale.com/baked-eggs-in-avocado/#more-7002" aria-label="Read more about Spicy Baked Eggs In Avocado">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/baked-eggs-in-avocado/>
+
+---
+
+## Introducing The Ground Control SM: Revolutionizing Coffee Brewing Worldwide
+
+date: 2024-10-25, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. The Ground Control SM batch brewer is the winner of the Specialty Coffee Association’s 2024 Best New Product award. 
+
+<br> 
+
+<https://sprudge.com/introducing-the-ground-control-sm-revolutionizing-coffee-brewing-worldwide-257629.html>
+
+---
+
+## Weekly Coffee News: Burundi Auction + A Cup Tasters Tag Team Event
+
+date: 2024-10-25, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Long-Miles-Coffee-Burundi-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Long Miles Coffee Burundi" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Long-Miles-Coffee-Burundi-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Long-Miles-Coffee-Burundi-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Long-Miles-Coffee-Burundi-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Long-Miles-Coffee-Burundi-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Long-Miles-Coffee-Burundi.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. 3rd Long Miles Coffee Auction to Feature High-Scoring Lots... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/10/25/weekly-coffee-news-burundi-auction-a-cup-tasters-tag-team-event/>
+
+---
+
+## What Is Schug? The Story Behind The Sauce
+
+date: 2024-10-25, from: Pepper Scale
+
+Schug (a.k.a. zhug, zhoug, or zhough) is a Middle Eastern condiment made from roasted green peppers, spices (including parsley, cilantro, and mint), and olive oil. It can be considered a hot sauce or chili paste, depending on its consistency. And schug can be used as ... <p class="read-more-container"><a title="What Is Schug? The Story Behind The Sauce" class="read-more button" href="https://pepperscale.com/what-is-schug/#more-56996" aria-label="Read more about What Is Schug? The Story Behind The Sauce">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/what-is-schug/>
+
+---
+
+## Designing for the Future: The Evolution of Coffee Shop Packaging
+
+date: 2024-10-25, from: The Fresh Cup
+
+<p>Coffee shop packaging has come a long way from the days of plain paper cups and stamped sleeves. Today, more and more cafes are using custom packaging to promote their brands and create memorable experiences.</p>
+<p>The post <a href="https://freshcup.com/designing-for-the-future-the-evolution-of-coffee-shop-packaging/">Designing for the Future: The Evolution of Coffee Shop Packaging</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/designing-for-the-future-the-evolution-of-coffee-shop-packaging/>
+
+---
+
+## Pumpkin Crumb Cake and More Recipes We Made This Week
+
+date: 2024-10-25, from: Bon Appetet
+
+Like roasted tomato sauce and cabbage stir-fry. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-october-2024>
+
+---
+
+## Carne Asada Burrito
+
+date: 2024-10-25, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/carne-asada-burrito/"><img title="carne-asada-burritos-small-10" src="https://www.isabeleats.com/wp-content/uploads/2024/10/carne-asada-burritos-small-10-400x600.jpg" alt="Carne asada burrito cut in half and stacked on a plate." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	Wrap up all your cravings in one delicious meal with this carne asada burrito made with tender steak, roasted poblano peppers, melted cheese, pico de gallo, guacamole, and refried beans for the ultimate on-the-go Mexican meal! Burritos are always on rotation in my house. They’re the perfect way to mix lots of different ingredients together [&#8230;] 
+
+<br> 
+
+<https://www.isabeleats.com/carne-asada-burrito/>
+
+---
+
+## How to Roast Peppers (4 Ways)
+
+date: 2024-10-25, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/preserving-chili-peppers/roasting-chili-peppers-how-to-roast-chili-peppers/" title="How to Roast Peppers (4 Ways)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2014/04/How-to-Roast-Peppers-HERO-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="How to Roast Peppers - Recipe/Method" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2014/04/How-to-Roast-Peppers-HERO-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2014/04/How-to-Roast-Peppers-HERO-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2014/04/How-to-Roast-Peppers-HERO-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2014/04/How-to-Roast-Peppers-HERO-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2014/04/How-to-Roast-Peppers-HERO-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2014/04/How-to-Roast-Peppers-HERO-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2014/04/How-to-Roast-Peppers-HERO.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Learn how to roast peppers 4 different ways, including roasting peppers in the oven, broiler, over direct flame, and on the grill - let's get roasting!</p>
+<p>The post <a href="https://www.chilipeppermadness.com/preserving-chili-peppers/roasting-chili-peppers-how-to-roast-chili-peppers/">How to Roast Peppers (4 Ways)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/preserving-chili-peppers/roasting-chili-peppers-how-to-roast-chili-peppers/>
+
+---
+
+## 29 Beet Recipes You Just Can’t Beat
+
+date: 2024-10-24, from: Bon Appetet
+
+Like Indian beet pudding with pistachios, charred and smashed beets with a chile vinaigrette, shawarma-spiced beets with labne, and more. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/best-beet-recipes-buying-storing>
+
+---
+
+## Twizzlers Just Revealed Its First-Ever Holiday Shape
+
+date: 2024-10-24, from: Taste of Home
+
+<p>Santa's got a brand-new bag of Twizzlers to snack on this year.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/twizzlers-first-ever-holiday-shape/">Twizzlers Just Revealed Its First-Ever Holiday Shape</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/twizzlers-first-ever-holiday-shape/>
+
+---
+
+## Goldfish Crackers Are Now ‘Chilean Sea Bass’—Here’s Why
+
+date: 2024-10-24, from: Taste of Home
+
+<p>Pepperidge Farm has changed Goldfish Crackers to Chilean Sea Bass crackers for a limited time. Here's why.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/goldfish-chilean-sea-bass/">Goldfish Crackers Are Now &#8216;Chilean Sea Bass&#8217;—Here&#8217;s Why</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/goldfish-chilean-sea-bass/>
+
+---
+
+## This Is Everything on Taco Bell’s New Decades Menu
+
+date: 2024-10-24, from: Taste of Home
+
+<p>Let's travel through time with Taco Bell.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/taco-bell-decades-menu/">This Is Everything on Taco Bell&#8217;s New Decades Menu</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/taco-bell-decades-menu/>
+
+---
+
+## Air-Fryer Pork Ribs
+
+date: 2024-10-24, from: Taste of Home
+
+Enjoy tender and juicy air fryer pork ribs with this quick recipe that's ready in just 30 minutes. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/air-fryer-pork-ribs/>
+
+---
+
+## Keto Cheeseburger Casserole
+
+date: 2024-10-24, from: Taste of Home
+
+Enjoy this keto cheeseburger casserole even if you're not on a keto diet. It's ooey, gooey and easy to love! 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/keto-cheeseburger-casserole/>
+
+---
+
+## Why Doesn’t Every Restaurant Have Bar Hooks?
+
+date: 2024-10-24, from: Bon Appetet
+
+No hook? No problem. Just kidding, it’s a huge problem—and there's an easy solution. 
+
+<br> 
+
+<https://www.bonappetit.com/story/why-doesnt-every-restaurant-have-bar-hooks>
+
+---
+
+## Cottage Cheese Mac and Cheese
+
+date: 2024-10-24, from: Taste of Home
+
+When winter weather hits, it's time to break out this recipe for high-protein cottage cheese mac and cheese. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/cottage-cheese-mac-and-cheese/>
+
+---
+
+## Roasted Chickpea Salad
+
+date: 2024-10-24, from: Taste of Home
+
+Learn how to make roasted chickpea salad. It makes for a tasty, hearty and nutritious lunch or dinner. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/roasted-chickpea-salad/>
+
+---
+
+## 43 Gifts Under $100 for People Who Love to Cook and Eat
+
+date: 2024-10-24, from: Bon Appetet
+
+The best kitchen gifts for people requiring a capital-G gift. You know the ones. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-kitchen-gifts-under-100-dollars-1>
+
+---
+
+## How Many Coffee Jobs Must Be Sacrificed To Appease The Profit Gods?
+
+date: 2024-10-24, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. We've seen this playbook before. 
+
+<br> 
+
+<https://sprudge.com/how-many-coffee-jobs-must-be-sacrificed-to-appease-the-profit-gods-257471.html>
+
+---
+
+## Buffalo Chicken Mac and Cheese
+
+date: 2024-10-24, from: Taste of Home
+
+Perk up your classic creamy mac and cheese with an upgrade: Buffalo chicken mac and cheese. Hot sauce is mixed right into the cheese, so there's some spice in every bite. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/buffalo-chicken-mac-and-cheese/>
+
+---
+
+## Gluten-Free Mac and Cheese
+
+date: 2024-10-24, from: Taste of Home
+
+Because you should be allowed to have your gluten-free mac and cheese and eat it too. (That's how the idiom goes, right?) 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/gluten-free-mac-and-cheese/>
 
 ---
 
@@ -49,7 +339,7 @@ This grilled corn salad is easy to make and packed with veggies and flavor, whic
 
 date: 2024-10-24, from: Daily Coffee News
 
-<div><img width="620" height="448" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Cafecita-Solar-1-620x448.jpg" class="attachment-large size-large wp-post-image" alt="Cafecita Solar" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Cafecita-Solar-1-620x448.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Cafecita-Solar-1-300x217.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Cafecita-Solar-1-150x108.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Cafecita-Solar-1-768x554.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Cafecita-Solar-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Women-owned specialty coffee roasting company Cafecita is having more than fun in the California sun with the opening of a permanent coffee trailer that runs entirely on solar power.&#160; Inside... 
+<div><img width="620" height="448" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Cafecita-Solar-1-620x448.jpg" class="attachment-large size-large wp-post-image" alt="Cafecita Solar" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Cafecita-Solar-1-620x448.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Cafecita-Solar-1-300x217.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Cafecita-Solar-1-150x108.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Cafecita-Solar-1-768x554.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Cafecita-Solar-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Women-owned specialty coffee roasting company Cafecita is having more than fun in the California sun with the opening of a permanent coffee trailer that runs entirely on solar power.&#160; Inside... 
 
 <br> 
 
@@ -259,7 +549,7 @@ These turkey meatballs are healthy, packed with flavor — and fiber! They're al
 
 date: 2024-10-23, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/CQI-620x414.jpg" class="attachment-large size-large wp-post-image" alt="CQI" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/CQI-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/CQI-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/CQI-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/CQI-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/CQI.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Coffee Quality Institute (CQI), which runs the Q grader certification program for coffee professionals, is asking all coffee cuppers to take a short skills survey. Open until Nov. 1... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/CQI-620x414.jpg" class="attachment-large size-large wp-post-image" alt="CQI" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/CQI-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/CQI-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/CQI-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/CQI-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/CQI.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Coffee Quality Institute (CQI), which runs the Q grader certification program for coffee professionals, is asking all coffee cuppers to take a short skills survey. Open until Nov. 1... 
 
 <br> 
 
@@ -348,6 +638,18 @@ date: 2024-10-23, from: Daily Coffee News
 <br> 
 
 <https://dailycoffeenews.com/2024/10/23/11th-hour-coffee-expands-time-and-space-in-santa-cruz/>
+
+---
+
+## Strawberry Ice Cream
+
+date: 2024-10-23, from: Taste of Home
+
+Making your own strawberry ice cream is one of the best ways to beat the summer heat and use up your farmers market haul. It's creamy, fresh and super straightforward if you have an ice cream maker. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/strawberry-ice-cream/>
 
 ---
 
@@ -457,7 +759,7 @@ date: 2024-10-23, from: Isebel Eats
 
 date: 2024-10-23, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/cajun-shrimp-pasta/" title="Cajun Shrimp Pasta Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Cajun-Shrimp-Pasta-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Creamy Cajun Shrimp Pasta ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Cajun-Shrimp-Pasta-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Cajun-Shrimp-Pasta-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Cajun-Shrimp-Pasta-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Cajun-Shrimp-Pasta-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Cajun-Shrimp-Pasta-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Cajun-Shrimp-Pasta-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Cajun-Shrimp-Pasta-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This Cajun shrimp pasta is loaded with succulent shrimp and comforting noodles simmered in a creamy, spicy tomato sauce, perfectly spiced and easy to make!</p>
+<a href="https://www.chilipeppermadness.com/recipes/cajun-shrimp-pasta/" title="Cajun Shrimp Pasta Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Cajun-Shrimp-Pasta-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Creamy Cajun Shrimp Pasta ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Cajun-Shrimp-Pasta-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Cajun-Shrimp-Pasta-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Cajun-Shrimp-Pasta-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Cajun-Shrimp-Pasta-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Cajun-Shrimp-Pasta-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Cajun-Shrimp-Pasta-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Cajun-Shrimp-Pasta-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This Cajun shrimp pasta is loaded with succulent shrimp and comforting noodles simmered in a creamy, spicy tomato sauce, perfectly spiced and easy to make!</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/cajun-shrimp-pasta/">Cajun Shrimp Pasta Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

@@ -1,11 +1,225 @@
 ---
 title: journalism
-updated: 2024-10-24 08:40:39
+updated: 2024-10-25 08:11:26
 ---
 
 # journalism
 
-(date: 2024-10-24 08:40:39)
+(date: 2024-10-25 08:11:26)
+
+---
+
+## Classifieds – October 25, 2024
+
+date: 2024-10-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/25/classifieds-october-25-2024/">Classifieds &#8211; October 25, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/25/classifieds-october-25-2024/>
+
+---
+
+## UCLA administrators discuss protest policies, counseling resources at town hall
+
+date: 2024-10-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+A member of the UCLA administration said at a Friday town hall that student government officials were given months of notice before the creation of new policies governing protests. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/25/ucla-administrators-discuss-protest-policies-counseling-resources-at-town-hall/>
+
+---
+
+## Student Health records increase in respiratory infections
+
+date: 2024-10-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Students are recommended to get vaccinated against flu before the end of October.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/25/student-health-records-increase-in-respiratory-infections/">Student Health records increase in respiratory infections</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/25/student-health-records-increase-in-respiratory-infections/>
+
+---
+
+## 901 hosts weekly Latin Nights
+
+date: 2024-10-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Thornton graduate student created the event to foster connection through culture.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/25/901-hosts-weekly-latin-nights/">901 hosts weekly Latin Nights</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/25/901-hosts-weekly-latin-nights/>
+
+---
+
+## ‘Willkommen’ to my rollercoaster of emotions
+
+date: 2024-10-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Musical theater soundtracks help me navigate my ever-changing emotions.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/25/willkommen-to-my-rollercoaster-of-emotions/">‘Willkommen’ to my rollercoaster of emotions</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/25/willkommen-to-my-rollercoaster-of-emotions/>
+
+---
+
+## The Weekly Frame: People of USC
+
+date: 2024-10-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Thousands of opportunities for connection are missed on a daily basis, so staff photographers Kayden-Harmony Greenstein, Maryam Rahimie and Zongyi Wang took a step to bring just a few of the faces of USC to the limelight in “The Weekly Frame: People of USC.”</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/25/the-weekly-frame-people-of-usc/">The Weekly Frame: People of USC</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/25/the-weekly-frame-people-of-usc/>
+
+---
+
+## New club Dead Writers Society brings creative writing community back to life
+
+date: 2024-10-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+In a quiet third-floor Rolfe Hall classroom, evening light streamed through the window shutters as students joined this school year&#8217;s first meeting of the Dead Writers Society. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/24/new-club-dead-writers-society-brings-creative-writing-community-back-to-life/>
+
+---
+
+## CSUN’s ‘A Cappella’ Group, Acasola unites voices and cultivates leaders
+
+date: 2024-10-25, from: The Sundail (CSUN Student Newspaper)
+
+Acasola, a student-run a cappella group at CSUN, has established three pillars: family, music and leadership. Club President Gianfranco Montelione says these values bring members together and shape the group’s... 
+
+<br> 
+
+<https://sundial.csun.edu/186778/arts-entertainment/csuns-a-cappella-group-acasola-unites-voices-and-cultivates-leaders/>
+
+---
+
+## Ben Shapiro talks Israel-Hamas war, condemns left-leaning campus politics at UCLA
+
+date: 2024-10-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 25 at 12:17 a.m.</em>
+Conservative commentator Ben Shapiro criticized UCLA for teaching left-wing policies and allegedly condoning antisemitism in a Monday speech. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/24/ben-shapiro-talks-israel-hamas-war-condemns-left-leaning-campus-politics-at-ucla/>
+
+---
+
+## Experts discuss details, implications of 2 health care propositions on the ballot
+
+date: 2024-10-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 24 at 11:44 p.m.</em>
+Two health care propositions will ask Californians to decide this November on how to spend revenue from Medi-Cal-related programs. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/24/experts-discuss-details-implications-of-2-health-care-propositions-on-the-ballot/>
+
+---
+
+## Measure HH seeks accountability reform, local representation in LA City Council
+
+date: 2024-10-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 24 at 11:47 p.m.</em>
+When Bruins head to the polls this November, they will vote on reforms for city accountability.
+Measure HH lets voters choose to amend the city charter to give more investigative powers to city officials. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/24/measure-hh-seeks-accountability-reform-local-representation-in-la-city-council/>
+
+---
+
+## Alumnus Juliana Simone explores genres and grief in new single ‘Never Home’
+
+date: 2024-10-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 24 at 9:04 p.m.</em>
+Juliana Simone’s songwriting is an exploration through the sounds of folk and rock.
+On Friday, alumnus Juliana Simone is set to release her first single since graduating from UCLA. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/24/alumnus-juliana-simone-explores-genres-and-grief-in-new-single-never-home/>
+
+---
+
+## Forum held for COC Board of Trustees candidates
+
+date: 2024-10-24, from: The Canyon News (COC Student Newspaper)
+
+<p>A forum was held for COC Board of Trustees candidates in the Intercultural Center at College of the Canyons.</p>
+<p>The post <a href="https://canyonsnews.com/forum-held-for-coc-board-of-trustees-candidates/">Forum held for COC Board of Trustees candidates</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/forum-held-for-coc-board-of-trustees-candidates/>
+
+---
+
+## Why do broadcast journalists look and talk the way they do? Look to the imagined audience.
+
+date: 2024-10-24, from: Nieman Journalism Lab
+
+The trick to sounding conversational, particularly when reading a script, is to imagine you’re talking to a specific audience member. That’s advice I received years ago at an audio storytelling workshop and remind myself of whenever I’m alone recording narration for a podcast. The specific listener I’m envisioning is known as the &#8220;imagined audience.&#8221; As... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/10/why-do-broadcast-journalists-look-and-talk-the-way-they-do-look-to-the-imagined-audience/>
+
+---
+
+## ‘Yellow Rose’ screening resonates with students
+
+date: 2024-10-24, from: The Round Up (Pierce College Student Newspaper)
+
+<p>For Pierce College students who have dealt with immigration issues, or are dealing with them now, the Dream Resource Center seeks to aid them in</p>
+<p>The post <a href="https://theroundupnews.com/2024/10/24/yellow-rose-screening-resonates-with-students/">‘Yellow Rose’ screening resonates with students</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2024/10/24/yellow-rose-screening-resonates-with-students/?utm_source=rss&utm_medium=rss&utm_campaign=yellow-rose-screening-resonates-with-students>
+
+---
+
+## Murder mystery charms
+
+date: 2024-10-24, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Mystery, murder and intrigue remain timeless for generations. That’s probably why Agatha Christie’s “The Mousetrap” has been running for more than 70 years in London.</p>
+<p>The post <a href="https://theroundupnews.com/2024/10/24/murder-mystery-charms/">Murder mystery charms</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2024/10/24/murder-mystery-charms/?utm_source=rss&utm_medium=rss&utm_campaign=murder-mystery-charms>
 
 ---
 
@@ -51,12 +265,12 @@ date: 2024-10-24, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## USC Democrats, Republicans face off
+## USC Democrats, Republicans face off in debate
 
 date: 2024-10-24, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Topics debated included the economy, healthcare, voting rights and the 2024 Presidential election.</p>
-<p>The post <a href="https://dailytrojan.com/2024/10/24/usc-democrats-republicans-face-off/">USC Democrats, Republicans face off</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/24/usc-democrats-republicans-face-off/">USC Democrats, Republicans face off in debate</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <br> 
@@ -154,12 +368,12 @@ In the entryway to Redwood Hall, pots overflowing with marigolds and strings of 
 
 ---
 
-## ‘The sky’s the limit:’ Occidental College celebrates inauguration of John Branca Institute for Music
+## ‘The sky’s the limit’: Occidental College celebrates inauguration of John Branca Institute for Music
 
 date: 2024-10-23, from: The Occidental News (Occidental College Student Newspaper)
 
 <p>Occidental College celebrated the establishment of its newest program with a combined concert featuring a capella, Jazz Ensemble, Glee Club, Symphony Orchestra and a faculty ensemble Oct. 18. The John Branca Institute for Music was first announced in June after partner and head of the music department at Ziffren Brittenham LLP John Branca &#8217;72 gifted the school [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/10/23/the-skys-the-limit-occidental-college-celebrates-inauguration-of-john-branca-institute-for-music/2913456">&#8216;The sky&#8217;s the limit:&#8217; Occidental College celebrates inauguration of John Branca Institute for Music</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/10/23/the-skys-the-limit-occidental-college-celebrates-inauguration-of-john-branca-institute-for-music/2913456">&#8216;The sky&#8217;s the limit&#8217;: Occidental College celebrates inauguration of John Branca Institute for Music</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
  
 
 <br> 
@@ -405,8 +619,8 @@ MEAP focuses on post-custodial collecting, a process by which UCLA manages the d
 
 date: 2024-10-23, from: The Daily Bruin (UCLA Student Newspaper)
 
-Summer and winter breaks give Bruins extra time to pursue a number of activities, including transforming themselves.
-The term &#8220;glow-up&#8221; – slang for a positive change in appearance, behaviors or skills – was popularized in the late 2010s on social media and remains relevant today. 
+<em>This post was updated Oct. 24 at 9:22 p.m.</em>
+Summer and winter breaks give Bruins extra time to pursue a number of activities, including transforming themselves. 
 
 <br> 
 

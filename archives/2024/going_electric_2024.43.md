@@ -1,11 +1,391 @@
 ---
 title: going electric
-updated: 2024-10-24 08:40:40
+updated: 2024-10-25 08:11:27
 ---
 
 # going electric
 
-(date: 2024-10-24 08:40:40)
+(date: 2024-10-25 08:11:27)
+
+---
+
+## Waymo secures $5.6 billion in new funding before expanding robotaxis to new cities in 2025
+
+date: 2024-10-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Waymo-cities-2025.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Robotaxi developer <a href="https://electrek.co/guides/waymo/">Waymo</a> has closed an oversubscribed Series C funding round totaling $5.6 billion. Alongside an expanded partnership with Uber, the funds will help the rideshare company expand its Waymo-One robotaxi service throughout current and additional cities in the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="robotaxi,waymo,waymo-one" data-layer-viewtype="unknown" data-post-id="386124" href="https://electrek.co/2024/10/25/waymo-secures-5-6-billion-funding-expanding-robotaxis-new-cities-2025/#more-386124" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/25/waymo-secures-5-6-billion-funding-expanding-robotaxis-new-cities-2025/>
+
+---
+
+## Kia will ramp up EV3 output as demand for its affordable electric model surges
+
+date: 2024-10-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Kia-EV3-output.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After charging up third-quarter sales, Kia plans to ramp up output of its new low-cost <a href="https://electrek.co/guides/kia-ev3/">EV3</a> model. The compact electric SUV helped boost Kia’s EV sales numbers in the third quarter.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev3" data-layer-viewtype="unknown" data-post-id="386120" href="https://electrek.co/2024/10/25/kia-ramp-up-ev3-output-demand-low-cost-ev-surges/#more-386120" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/25/kia-ramp-up-ev3-output-demand-low-cost-ev-surges/>
+
+---
+
+## Scout Motors' EV Gas Range Extender May Give It A Big Edge
+
+date: 2024-10-25, from: Inside EVs News
+
+Plus, the Scout EV could potentially use technology from parent company Volkswagen's new joint venture with Rivian.  
+
+<br> 
+
+<https://insideevs.com/news/738757/scout-range-extender-gas-option/>
+
+---
+
+## New Tesla Model Y vehicles with design refresh spotted in China
+
+date: 2024-10-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Tesla-Model-Y-refresh-china.jpg?quality=82&#038;strip=all&#038;w=1487" /></div><p>Several Tesla Model Y vehicles were spotted with camouflage in China – likely due to the upcoming design refresh.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-model-y" data-layer-viewtype="unknown" data-post-id="386038" href="https://electrek.co/2024/10/25/new-tesla-model-y-vehicles-with-design-refresh-spotted-in-china/#more-386038" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/25/new-tesla-model-y-vehicles-with-design-refresh-spotted-in-china/>
+
+---
+
+## In a first, US approves massive new lithium mine in Nevada
+
+date: 2024-10-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/02/Mach-e-prices-2023.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The US government has approved the construction of a massive new lithium mine on public land in Nevada as part of a strategy to break China’s dominance over the supply chain of critical minerals used in EVs. The mine will be a key supplier to Ford’s future EVs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford,lithium,president-biden" data-layer-viewtype="unknown" data-post-id="386099" href="https://electrek.co/2024/10/25/in-a-first-us-approves-massive-new-lithium-mine-in-nevada/#more-386099" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/25/in-a-first-us-approves-massive-new-lithium-mine-in-nevada/>
+
+---
+
+## Costco, Known For Gas Discounts, Cautiously Goes Into EV Fast Charging
+
+date: 2024-10-25, from: Inside EVs News
+
+The first Costco-branded DC fast chargers have built-in batteries. 
+
+<br> 
+
+<https://insideevs.com/news/738729/costco-branded-ev-dc-fast-chargers-washington/>
+
+---
+
+## Hyundai RN24 ‘Rolling Lab’ Is The Kind Of Car You Make Just For The Fun Of It
+
+date: 2024-10-25, from: Inside EVs News
+
+It packs Ioniq 5 N guts and a lot of WRC-inspired tech. It’s also more of a roll cage on wheels than a complete car. 
+
+<br> 
+
+<https://insideevs.com/news/738690/hyundai-rn24-rolling-lab-ev-ioniq-5/>
+
+---
+
+## Absolutely WILD Hyundai N RN24 concept is here to steal the show
+
+date: 2024-10-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/hyundai_MAIN.jpg?quality=82&#038;strip=all&#038;w=1428" /></div><p>New passenger-hauling SUVs? Lifestyle pickups? Promises about affordable, self-driving EVs? You won’t find any of that trash here – this cut-down, lightweight, massively powerful EV is for people who still want to <em>drive</em>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="concept-car,hyundai,motorsports" data-layer-viewtype="unknown" data-post-id="386047" href="https://electrek.co/2024/10/24/absolutely-wild-hyundai-n-rn24-concept-is-here-to-steal-the-show/#more-386047" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/24/absolutely-wild-hyundai-n-rn24-concept-is-here-to-steal-the-show/>
+
+---
+
+## Scout Is Cutting Out Dealers. That's A Big Win For Consumers
+
+date: 2024-10-24, from: Inside EVs News
+
+The Scout Traveler and Terra will be available via a direct-to-consumer factory store, akin to Tesla or Lucid.  
+
+<br> 
+
+<https://insideevs.com/news/738666/scout-direct-to-consumer-sales/>
+
+---
+
+## Scout Traveler And Terra EVs: Prices Revealed
+
+date: 2024-10-24, from: Inside EVs News
+
+The electric Scout off-roaders slot between the Rivian R1 and upcoming R2 models in terms of price. 
+
+<br> 
+
+<https://insideevs.com/news/738665/scout-traveler-terra-ev-prices/>
+
+---
+
+## Scout Traveler And Terra: Off-Road EVs That Offer Gas Generators, Too
+
+date: 2024-10-24, from: Inside EVs News
+
+Scout's first EVs will offer incredible off-road capability, direct-consumer sales and zero range anxiety. We're excited. 
+
+<br> 
+
+<https://insideevs.com/news/738669/scout-traveler-terra-revealed/>
+
+---
+
+## Scout EVs have arrived and are available for pre-order with 500+ mile range, but there’s a catch
+
+date: 2024-10-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Scout-EV-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The wait is officially over. Volkswagen Group’s revival of the Scout brand has finally unveiled production-intent concept versions of its two flagship EV models. We are in Nashville, Tennessee, where <a href="https://electrek.co/guides/scout-motors/">Scout Motors</a> shared details of its first SUV, the Traveler, and its all-electric pickup truck, the Terra. If Scout can hit its targets, these new EVs will also be quite reasonably priced. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="scout,scout-motors,scout-terra,scout-traveler,volkswagen-group" data-layer-viewtype="unknown" data-post-id="385866" href="https://electrek.co/2024/10/24/scout-ev-available-pre-order-500-mile-range/#more-385866" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/24/scout-ev-available-pre-order-500-mile-range/>
+
+---
+
+## Seriously good cold-climate heat pumps are headed to the US market
+
+date: 2024-10-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/bosch-heat-pump.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The eight manufacturers that took part in the US Department of Energy’s (DOE) Residential Cold Climate Heat Pump Challenge are now taking their new, improved products to market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="department-of-energy,egeb,energy-brief,solar" data-layer-viewtype="unknown" data-post-id="385995" href="https://electrek.co/2024/10/24/seriously-good-cold-climate-heat-pumps-are-headed-to-the-us-market/#more-385995" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/24/seriously-good-cold-climate-heat-pumps-are-headed-to-the-us-market/>
+
+---
+
+## Chevy’s new Blazer EV may have poor phone call quality: Here’s how to fix it
+
+date: 2024-10-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Chevy-2025-Blazer-EV-prices.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>If you’re having trouble talking on the phone in the new electric Blazer, it’s not just you. GM issued a memo to the National Highway Traffic Safety Administration due to poor phone call quality in the new <a href="https://electrek.co/guides/chevy-blazer-ev/">Chevy Blazer EV</a>. Here’s how you can fix it.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="blazer-ev,chevy-blazer-ev" data-layer-viewtype="unknown" data-post-id="386000" href="https://electrek.co/2024/10/24/chevy-blazer-ev-may-have-poor-phone-call-quality-how-to-fix-it/#more-386000" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/24/chevy-blazer-ev-may-have-poor-phone-call-quality-how-to-fix-it/>
+
+---
+
+## Tesla’s profits are now coming from things Elon Musk said he wouldn’t do
+
+date: 2024-10-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-service-hero.png?w=1500" /></div><p>A significant part of Tesla’s growth in gross profit last quarter came from an increase in profits from servicing Tesla’s vehicles and selling energy through its Supercharger network – things Elon Musk said Tesla wouldn’t aim to make profits from.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="385942" href="https://electrek.co/2024/10/24/teslas-profits-are-now-coming-from-things-elon-musk-said-he-wouldnt-do/#more-385942" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/24/teslas-profits-are-now-coming-from-things-elon-musk-said-he-wouldnt-do/>
+
+---
+
+## Half Of Americans Want To Test Drive An EV
+
+date: 2024-10-24, from: Inside EVs News
+
+Interest in EVs is still strong, according to a survey from Consumer Reports.  
+
+<br> 
+
+<https://insideevs.com/news/738654/ev-demand-test-drive-survey/>
+
+---
+
+## Kia is building electric vans with Korea’s largest utility company
+
+date: 2024-10-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Kia-electric-vans-Koreas-largest.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia sees an opportunity with its first electric PBV van launching next year. Although they are not even out yet, <a href="https://electrek.co/guides/kia/">Kia</a> is already finding new uses for the upcoming fit-for-purpose EV vans.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-pbv" data-layer-viewtype="unknown" data-post-id="385964" href="https://electrek.co/2024/10/24/kia-building-electric-vans-koreas-largest-utility-company/#more-385964" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/24/kia-building-electric-vans-koreas-largest-utility-company/>
+
+---
+
+## Scout Terra And Traveler Livestream Debut Replay: Watch It Here
+
+date: 2024-10-24, from: Inside EVs News
+
+An iconic American off-road brand will be resurrected today in an all-electric avatar. Join us at 5 P.M. EST for the livestream. 
+
+<br> 
+
+<https://insideevs.com/news/738652/scout-motors-livestream-debut-how-to-watch/>
+
+---
+
+## Kia’s updated 2025 EV6 spotted on US streets, and it looks like a major upgrade
+
+date: 2024-10-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Kias-updated-EV6.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia is preparing to launch the new and improved <a href="https://electrek.co/guides/kia-ev6/">EV6</a> in the US. Ahead of its official debut, Kia’s updated 2025 EV6 was spotted with sleek new design upgrades on US streets.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev6" data-layer-viewtype="unknown" data-post-id="385930" href="https://electrek.co/2024/10/24/kias-updated-2025-ev6-spotted-us-with-slick-new-design/#more-385930" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/24/kias-updated-2025-ev6-spotted-us-with-slick-new-design/>
+
+---
+
+## Rad Power e-bikes $300 off with FREE gear, Aiper solar pool skimmer at $300 low, 60% off Segway sale, more
+
+date: 2024-10-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Rad-Power-RadWagon-4-Cargo-e-bike.webp?w=1600" /></div><p>Today’s Green Deals are being led by Rad Power’s latest EV sale, with the <a href="https://9to5toys.com/2024/10/24/rad-power-radwagon-4-e-bike-1599-free-gear-more/">RadWagon 4 Cargo e-bike down at $1,599</a> and getting free gear too. We spotted a new low price on Aiper’s solar-powered <a href="https://9to5toys.com/2024/10/24/aiper-s1-solar-robot-pool-skimmer-new-300-low/">Surfer S1 Robot Pool Skimmer at $300</a> ahead of early holiday shopping. Segway also just launched its Halloween sale running into November that has dropped the popular <a href="https://9to5toys.com/2024/10/24/segways-ninebot-halloween-sale-from-120/">Ninebot MAX G30LP KickScooter to $460</a>, while a lineup Camplux electric tankless water heaters are getting 20% markdowns across the board, with its <a href="https://9to5toys.com/2024/10/24/camplux-27kw-electric-tankless-water-heater-360-more/">27kW model at $360</a>. Plus, all the other hangover Green Deals in the links at the bottom of the page, like yesterday’s $500 off launch discount on Tenways’ new 8-speed chain-drive <a href="https://9to5toys.com/2024/10/23/tenways-new-chain-drive-cgo600-pro-e-bike/">CGO600 Pro e-bike</a>, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="385941" href="https://electrek.co/2024/10/24/radwagon-4-cargo-e-bike-aiper-solar-pool-skimmer-segway-sale-more/#more-385941" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/24/radwagon-4-cargo-e-bike-aiper-solar-pool-skimmer-segway-sale-more/>
+
+---
+
+## Used Electric Car Buying Guide: Tips For Trouble-Free Ownership
+
+date: 2024-10-24, from: Inside EVs News
+
+In the market for a used electric car? Follow these tips before committing to a purchase to avoid ownership headaches afterward. 
+
+<br> 
+
+<https://insideevs.com/news/737613/used-ev-buying-guide/>
+
+---
+
+## Women Are Lagging Behind In EV Adoption: Study
+
+date: 2024-10-24, from: Inside EVs News
+
+Women tend to be less familiar with EVs, and they have worse dealership experiences.  
+
+<br> 
+
+<https://insideevs.com/news/738642/gender-gap-in-bev-adoption/>
+
+---
+
+## One of the UK’s largest solar farms is now online and can power 20,000 homes
+
+date: 2024-10-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Project-Skeeby-farm-aerial-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>One of the UK’s largest solar farms, a 55 MW project, is now officially online, providing enough power for over 20,000 homes. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,solar-power,uk" data-layer-viewtype="unknown" data-post-id="385923" href="https://electrek.co/2024/10/24/one-of-the-uk-largest-solar-farms-online-and-can-power-20000-homes/#more-385923" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/24/one-of-the-uk-largest-solar-farms-online-and-can-power-20000-homes/>
+
+---
+
+## EV sales have not fallen, cooled, slowed or slumped. Stop lying in headlines.
+
+date: 2024-10-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/02/BYD-first-cargo-ship-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>EV sales continue to rise, but the last year of headlines falsely stating otherwise would leave you thinking they haven’t. After about full year of these lies, it would be nice for journalists to stop pushing this false narrative that they could find the truth behind by simply looking up a single number for once.</p>
+
+
+
+<p><em>Update: </em>Even Tesla CEO Elon Musk – who, of all people, should know better – spread this misinformation at the very beginning of <a href="https://electrek.co/2024/10/23/tesla-tsla-releases-q3-2024-results-misses-on-revenue-but-jumps-on-margins/">Tesla’s earnings call</a> yesterday. So we saw it fit to repost this article with some updates.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles,ev-sales" data-layer-viewtype="unknown" data-post-id="379141" href="https://electrek.co/2024/10/24/ev-sales-have-not-fallen-cooled-slowed-or-slumped-stop-lying-in-headlines/#more-379141" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/24/ev-sales-have-not-fallen-cooled-slowed-or-slumped-stop-lying-in-headlines/>
+
+---
+
+## Jeep, Dodge owner has a new idea to boost EV range
+
+date: 2024-10-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Jeep-Dodge-EV-range.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Stellantis is investing millions in innovative wind tunnel technology at its Michigan center. The company believes the new tech can help increase the driving range for upcoming EV models from <a href="https://electrek.co/guides/jeep/">Jeep</a>, Dodge, and other Stellantis brands.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dodge,jeep,ram-trucks,stellantis" data-layer-viewtype="unknown" data-post-id="385908" href="https://electrek.co/2024/10/24/jeep-dodge-owner-new-idea-boost-ev-range/#more-385908" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/24/jeep-dodge-owner-new-idea-boost-ev-range/>
+
+---
+
+## CATL Developed World's First Hybrid Battery With EV-Like Range
+
+date: 2024-10-24, from: Inside EVs News
+
+The CATL Freevoy battery is claimed to be the world's first battery for EREVs and PHEVs delivering as much range as BEVs.  
+
+<br> 
+
+<https://insideevs.com/news/738624/catl-freevoy-hybrid-battery-with-400km-range/>
 
 ---
 
@@ -85,7 +465,7 @@ China is way ahead of Japan (and most of the world) when it comes to EVs, and it
 
 ---
 
-## Uber-backed Wayve to test ‘Tesla like’ self-driving software on US roads
+## Move over Waymo, here comes Wayve: a new self-driving player in California
 
 date: 2024-10-24, from: Electrek Feed
 
@@ -813,11 +1193,15 @@ There are good reasons why the Audi A2s is an appealing candidate for an electri
 
 ---
 
-## Pedego and Electric Bike Company partner up for made-in-USA e-bikes
+## Update: Pedego pulls back on partnership with Electric Bike Company
 
 date: 2024-10-22, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/asdfladfhead.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://pedegoelectricbikes.com/">Pedego</a>, one of the earliest entrants into the US electric bicycle market and home to over 200 brick-and-mortar e-bikes stores, will collaborate with Newport Beach, California-based <a href="https://electricbikecompany.com/">Electric Bike Company</a>, bringing highly customized US-made electric bikes into Pedego’s lineup, according to an announcement from Electric Bike Company. </p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/asdfladfhead.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://pedegoelectricbikes.com/">Pedego</a> is said to be collaborating with Newport Beach, California-based <a href="https://electricbikecompany.com/">Electric Bike Company</a>, bringing highly customized US-made electric bikes into Pedego’s lineup, according to an announcement from Electric Bike Company.</p>
+
+
+
+<p><em>[Update October 25, 2024: According to Electric Bike Company, who provided a press release and detailed information used in the article below, the partnership originally described in this article was approved by a portion of Pedego’s board as well as the private equity firm Verlinvest, which purchased Pedego. However, Pedego has explained in a message to its franchise shop owners that the partnership and announcement is not accurate and was not supported by Pedego in any official capacity. Instead, Pedego claimed that this particular situation was meant to be a small, discreet test on a single model (Model J) in two of their stores.]</em></p>
 
 
 

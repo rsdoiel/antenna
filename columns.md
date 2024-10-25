@@ -1,11 +1,297 @@
 ---
 title: columns
-updated: 2024-10-24 08:40:38
+updated: 2024-10-25 08:11:25
 ---
 
 # columns
 
-(date: 2024-10-24 08:40:38)
+(date: 2024-10-25 08:11:25)
+
+---
+
+##  The System of International Maritime Signal Flags 
+
+date: 2024-10-25, updated: 2024-10-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/the-system-of-international-maritime-signal-flags>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-25, from: Dave Winer's Scripting News)
+
+What a sad situation. What started with the open web in the 90s is now owned by billionaires, who, looking for new worlds to conquer have adopted a fascist buffoon as their frontman. It was never supposed to be owned by anyone. 
+
+<br> 
+
+<http://scripting.com/2024/10/25.html#a143557>
+
+---
+
+## Let's bust some new norms
+
+date: 2024-10-25, from: Dave Winer's Scripting News
+
+<p>Why hasn’t the NY Times run a story that takes Trump at face value and explains to voters what it would be like to live in that United States? It should have been updated and run every time Trump ups the ante.  </p>
+<p><a href="https://www.threads.net/@kamalahq/post/DBjMQCDsZdy">An example</a>. Trump says Americans who criticize the Supreme Court for overturning Roe v. Wade should be imprisoned:  “These people should be put in jail for the way they talk about our judges and justices.” </p>
+<p>A news story on this subject should include calls to all the <a href="https://www.supremecourt.gov/about/justices.aspx">justices</a> on the Supreme Court to ask if they agree or disagree. It's time to bust some new norms. They are above reproach, traditionally, but they decided that the president can do whatever he wants, break any law without penalty. Are they concerned that perhaps they might be imprisoned if they make a decision that Trump doesn't like? Let's learn from them, how they think American citizens should feel about this. After all they are American citizens too, aren't they? If we can be jailed, or worse, for our speech, why not them? <span class="spOldSchoolEmoji">😄</span></p>
+<p>Of course if they refuse to answer, which they probably will, that should be part of the story. No deference allowed, by the journalists. Simple factual statements. </p>
+<p>We've relied too much on the Democrats to stick their necks out, when in fact all our necks are on the line here. So if you have something to say about this, now is the time to do it. In a couple of weeks it might be too late. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2024/10/25/142159.html?title=letsBustSomeNewNorms>
+
+---
+
+## I just pulled a 2006 and uploaded my holiday photos to Flickr with a Creative Commons Licence
+
+date: 2024-10-25, from: Chris Heilmann's blog
+
+I just returned from a holiday on the gorgeous island of Corfu in Greece and spent quite some time taking photos. Instead of releasing those piecemeal on various social media channels, I thought it would be fun to go back to our ways of early social media, and put them all up on Flickr with [&#8230;] 
+
+<br> 
+
+<https://christianheilmann.com/2024/10/25/i-just-pulled-a-2006-and-uploaded-my-holiday-photos-to-flickr-with-a-creative-commons-licence/>
+
+---
+
+## Watermark for LLM-Generated Text
+
+date: 2024-10-25, updated: 2024-10-25, from: Bruce Schneier blog
+
+<p>Researchers at Google <a href="https://www.nature.com/articles/d41586-024-03462-7">have</a> <a href="https://www.nature.com/articles/s41586-024-08025-4">developed</a> a watermark for LLM-generated text. The basics are pretty obvious: the LLM chooses between tokens partly based on a cryptographic key, and someone with knowledge of the key can detect those choices. What makes this hard is (1) how much text is required for the watermark to work, and (2) how robust the watermark is to post-generation editing. Google&#8217;s version looks pretty good: it&#8217;s detectable in text as small as 200 tokens.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/10/watermark-for-llm-generated-text.html>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-10-25, from: Miguel de Icaza Mastondon feed)
+
+<p>Another day of Israel massacring children and I am wondering “is every congress person enabling this on the Israeli payroll?”</p><p><a href="https://theintercept.com/2024/10/24/aipac-spending-congress-elections-israel/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">theintercept.com/2024/10/24/ai</span><span class="invisible">pac-spending-congress-elections-israel/</span></a></p><p>Not quite, but enough.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113367979173470841>
+
+---
+
+## What Vice President Henry Wallace knew about American fascism and can tell us about Trump
+
+date: 2024-10-25, from: Robert Reich's blog
+
+His words are even more relevant today than they were in 1944. 
+
+<br> 
+
+<https://robertreich.substack.com/p/henry-wallace-and-american-fascism>
+
+---
+
+## October 24, 2024
+
+date: 2024-10-25, from: Heather Cox Richardson blog
+
+Trump&#8217;s threat to use the military on &#8220;the enemy within,&#8221; along with the recent statements of General John Kelly and other members of Trump&#8217;s administration who say he is a fascist, have fed growing concern that Trump&#8217;s reelection could spark a deadly conflict between MAGA Republicans and those they perceive as their enemies. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/october-24-2024>
+
+---
+
+## Good Ideas vs Mediocre Teams
+
+date: 2024-10-25, from: Om Malik blog
+
+&#8220;If you give a good idea to a mediocre team, they will screw it up. If you give a mediocre idea to a brilliant team, they will either fix it or throw it away and come up with something better.&#8221; Creativity Inc. Ed Catmull and Amy Wallace 
+
+<br> 
+
+<https://om.co/2024/10/24/good-ideas-vs-mediocre-teams/>
+
+---
+
+## Friday 25 October, 2024
+
+date: 2024-10-24, from: John Naughton's online diary
+
+Picture at an exhibition At the terrific Paris 1924 exhibition in the Fitzwilliam Museum in Cambridge. And Moussorgsky was nowhere to be seen. Quote of the Day &#8220;In a nutshell: companies are artificial social constructs that offload all their externalities &#8230; <a href="https://memex.naughtons.org/friday-25-october-2024/39996/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-25-october-2024/39996/>
+
+---
+
+## 2024-10-24 Executing commands via NNCP
+
+date: 2024-10-24, from: Alex Schroeder's Blog
+
+<h1 id="2024-10-24-executing-commands-via-nncp">2024-10-24 Executing commands via NNCP</h1>
+
+<p>In a network of connected nodes where you all exchanged public keys, it is possible to do file requests. For this to work, the node with the files needs to specify the directory with the files and the node wanting the files needs to use the <code>nncp-freq</code> command to do a file request.</p>
+
+<p>But what file to request? One solution is for one side create a file listing all the other files and make this filename known to friends. Then run a job to recreate the file on a regular basis.</p>
+
+<p>But you know me. It sounds like CO₂ for the CO₂ god.</p>
+
+<p>So here&rsquo;s the node that has the files, granting its neighbour melanobomus access to the files in <code>/home/alex/alexschroeder.ch/wiki</code> and offering to execute <code>ls -BR</code> for that directory and sending it back as a file called <code>files.txt</code>.</p>
+
+<pre><code>    melanobomus: {
+      exec: {
+        rsmtp:  [&quot;/usr/sbin/sendmail&quot;, &quot;-bS&quot;]
+        ls: [&quot;/bin/sh&quot;, &quot;-c&quot;, &quot;ls --ignore-backups --recursive /home/alex/alexschroeder.ch/wiki | nncp-file - $NNCP_SENDER:files.txt&quot;]
+      }
+      freq: {
+        path: &quot;/home/alex/alexschroeder.ch/wiki&quot;
+      }
+      …
+    }
+</code></pre>
+
+<p><a class="tag" href="/search/?q=%23NNCP">#NNCP</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2024-10-24-nncp-exec>
+
+---
+
+##  Gobsmacking Image of a Stellar Nursery 
+
+date: 2024-10-24, updated: 2024-10-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/gobsmacking-image-of-a-stellar-nursery>
+
+---
+
+##  Join or Die, the documentary about Robert Putnam (author of Bowling Alone... 
+
+date: 2024-10-24, updated: 2024-10-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045517-join-or-die-the-documenta>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-24, from: Dave Winer's Scripting News)
+
+Podcast: <a href="https://shownotes.scripting.com/scripting/2024/10/24/wordpressIsTooValuableToOverlook.html">WordPress is too valuable to overlook</a>. 
+
+<br> 
+
+<http://scripting.com/2024/10/24.html#a204039>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-24, from: Dave Winer's Scripting News)
+
+When your house is on fire there aren’t two sides. 
+
+<br> 
+
+<http://scripting.com/2024/10/24.html#a204037>
+
+---
+
+##  Conservative Man Proudly Frightened Of Everything. &#8220;I&#8217;m scared of books. I&#8217;m scared... 
+
+date: 2024-10-24, updated: 2024-10-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045515-conservative-man-proudly->
+
+---
+
+##  Death of a Pig by E.B. White (1948) 
+
+date: 2024-10-24, updated: 2024-10-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/death-of-a-pig-by-eb-white-1948>
+
+---
+
+## Our Unsocial Modern Times
+
+date: 2024-10-24, from: Om Malik blog
+
+We live in a time of such confusion and rancor, with a culture that puts a premium on things that don’t last: money, fame, status, likes. We chase the approval of strangers on our phones. We build all manner of walls and fences around ourselves, and then we wonder why we feel so alone. We &#8230; 
+
+<br> 
+
+<https://om.co/2024/10/24/our-unsocial-modern-times/>
+
+---
+
+## October 23, 2024
+
+date: 2024-10-24, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/150677471/37bc92618e77f59d9cedc4fab52b04dd.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/150677471/37bc92618e77f59d9cedc4fab52b04dd.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/october-23-2024-c55>
+
+---
+
+## A woman, blogging: this is a political act
+
+date: 2024-10-24, from: Tracy Durnell Blog
+
+I think it&#8217;s great for everyone who wants a blog to write one &#8212; but I also think blogging can be especially empowering for women and queer folk. In America, it could also be especially risky. The power of women blogging In Women and Power, Mary Beard traces back the long Western tradition of silencing [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2024/10/24/a-woman-blogging/>
+
+---
+
+##  Walt Disney&#8217;s Corporate Strategy Chart 
+
+date: 2024-10-24, updated: 2024-10-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/walt-disneys-corporate-strategy-chart-1>
+
+---
+
+##  The 1619 Project: A Visual Experience is an illustrated version of the... 
+
+date: 2024-10-24, updated: 2024-10-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045502-the-1619-project-a-visual>
 
 ---
 
@@ -210,7 +496,7 @@ date: 2024-10-23, updated: 2024-10-23, from: Daring Fireball
 
 ## Dodgers Legend Fernando Valenzuela Dies at 63, on the Cusp of the First Yankees-Dodgers World Series Since His Star Turn in 1981
 
-date: 2024-10-23, updated: 2024-10-23, from: Daring Fireball
+date: 2024-10-23, updated: 2024-10-24, from: Daring Fireball
 
  
 

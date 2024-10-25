@@ -1,11 +1,98 @@
 ---
 title: writing
-updated: 2024-10-24 08:40:39
+updated: 2024-10-25 08:11:25
 ---
 
 # writing
 
-(date: 2024-10-24 08:40:39)
+(date: 2024-10-25 08:11:25)
+
+---
+
+## What Are Static and Dynamic Characters in Screenwriting?
+
+date: 2024-10-25, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/what-are-static-and-dynamic-characters-in-screenwriting" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/The%20Wild%20Robot.png" alt="Still from 'The Wild Robot'" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Characters are essential to storytelling. They drive conflict, provide a point of view for the story, and become the audience’s reason to stay rooted in the experience. But what kind of character are you writing to motivate your story?</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/what-are-static-and-dynamic-characters-in-screenwriting>
+
+---
+
+## 2024 Geffen Awards Winners
+
+date: 2024-10-25, from: Locus Magazine
+
+<p>Winners for the 2024 Geffen Awards for best science fiction and fantasy published in Hebrew were announced by the Israeli Society for Science Fiction and Fantasy at Icon, held October 20-22, 2024 in Tel Aviv Israel.</p>
+<p><strong>Best Translated Fantasy Book</strong></p>
+<div class="&#34;nomorebulletlist”">
+<ul>
+<li><strong>The Hidden Legacy: Sapphire Flames, Emerald Blaze, Ruby Fever</strong>, Ilona Andrews, translated by Yael Achmon (Alma &#38; Ahavot)</li>
+</ul>
+</div>
+<p><strong>Best Translated Science Fiction Book</strong></p>
+<ul>
+<li><strong>The Fifth Season</strong>, N.K. Jemisin, </li></ul> <a href="https://locusmag.com/2024/10/2024-geffen-awards-winners/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2024/10/2024-geffen-awards-winners/>
+
+---
+
+## Video Is Up! Check Out The Locus YouTube Channel 12/22/2024 New Books Upload!
+
+date: 2024-10-24, from: Locus Magazine
+
+<p>Halloween is coming up, but until then we&#8217;ve got another video of new book releases for the week of 10/22/2024! It&#8217;s full of new releases in the fantasy, SF, and horror books! Come check the Locus YouTube channel, and, if you&#8217;re feeling generous, subscribe to the channel to support what we do! And if you&#8217;d like to purchase any of them, we have the full list up at Bookshop.org here. <a href="https://locusmag.com/2024/10/video-is-up-check-out-the-locus-youtube-channel-for-the-12-22-2024-new-books-upload/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/10/video-is-up-check-out-the-locus-youtube-channel-for-the-12-22-2024-new-books-upload/>
+
+---
+
+## Write On: Seth Sherwood Horror Masterclass
+
+date: 2024-10-24, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-seth-sherwood-horror-masterclass" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Seth%20Sherwood%20Horror%20Masterclass.jpg" alt="Write On Podcast logo with Seth Sherwood featured" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<div>
+  “Comedy and scares are so similar. I’ve found that in a lot of my scripts, it’s almost like you’re taking the peaks and valleys of humor, and the peaks and valleys of scares, and flipping them on each other. So, you have the scare that you come down from for a moment of brevity and humor, or just character work, and then you do another scare. You’ve relaxed them and then scare them again. The effect is that you’re making the audience have a good time,” says Seth Sherwood, author of 
+ <em>The Scary Movie Writer’s Guide</em>. 
+ <br> 
+ <br>In this episode, we speak with Seth Sherwood, writer of horror movies like 
+ <em>Leatherface</em> and 
+ <em>Hell Fest</em>. He was also nominated for an Emmy for writing the TV show 
+ <em>Light as a Feather</em>. I chat with him about the long process of making 
+ <em>Hell Fest</em> with producer Gale Ann Hurd, the difference between internal and external horror and his definition of grounded horror that’s so popular these days. He also gives his advice on what he thinks is the single best thing an emerging horror writer can do to help their career.&nbsp; 
+ <br> 
+ <br>“Right now, the industry is in a retraction, there’s an implosion and streaming is dying. When people ask me now how to break in, I say I don’t know, but I think you’ll never go wrong in actually trying to make stuff like short films. I know it’s a whole other path and it’s a difficult thing to do but people will always watch stuff before they read stuff if they’re not writers. And those people are the gatekeepers. I always wanted to make my own films, but my writing career took off and I’m actually in a spot where I’m going backwards, where I have done so many writing assignments in the last few years but things aren’t getting made – so, I’m going to go make a microbudget horror film on my own with my friends. The thing that I wanted to do when I was 20 years old. Because at least it’s a thing that can be seen. And that has more weight than a script right now,” he says.&nbsp; 
+ <br> 
+ <br>To hear more about horror writing from Sherwood’s perspective, listen to the podcast. 
+</div> 
+<div> 
+ <br> 
+ <div> 
+  <div class="hs-embed-wrapper" style="position: relative; overflow: hidden; width: 100%; height: auto; padding: 0; max-width: 880px; min-width: 256px; display: block; margin: auto;"> 
+   <div class="hs-embed-content-wrapper"> 
+    <div style="position: relative; overflow: hidden; max-width: 100%; padding-bottom: 35%; margin: 0px;">  
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</div> 
+
+<br> 
+
+<https://blog.finaldraft.com/write-on-seth-sherwood-horror-masterclass>
 
 ---
 
@@ -48,6 +135,19 @@ date: 2024-10-23, from: Final Draft blog
 <br> 
 
 <https://blog.finaldraft.com/writing-visceral-horror-interview-with-daddys-head-creator-benjamin-barfoot>
+
+---
+
+## 2023 (And Final) Kitschies Shortlists
+
+date: 2024-10-23, from: Locus Magazine
+
+<p>Finalists for the 2023 Kitschies, awarded for &#8220;the year’s most progressive, intelligent and entertaining fiction that contains elements of the speculative or fantastic,&#8221; have been announced.</p>
+<p>The directors of the award have announced that this, their 15th year, will &#8220;be the final year of the prize, citing the increased time-commitment required both of the prize’s administrators and its judges. They note, however, that this year’s diverse lists make the perfect  <a href="https://locusmag.com/2024/10/2023-and-final-kitschies-shortlists/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/10/2023-and-final-kitschies-shortlists/>
 
 ---
 

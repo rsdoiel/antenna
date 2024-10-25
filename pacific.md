@@ -1,11 +1,544 @@
 ---
 title: pacific
-updated: 2024-10-24 09:37:31
+updated: 2024-10-25 08:11:24
 ---
 
 # pacific
 
-(date: 2024-10-24 09:37:31)
+(date: 2024-10-25 08:11:24)
+
+---
+
+## Nation and world news in brief for October 25
+
+date: 2024-10-25, from: Hawaii Tribune Harold
+
+
+				<p>Colorado &#0010;investigates alleged attempt to intercept mail ballots</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/25/nation-world-news/nation-and-world-news-in-brief-for-october-25/>
+
+---
+
+## Ohio judge blocks ‘heartbeat’ abortion ban, criticizes Republican attorney general
+
+date: 2024-10-25, from: Hawaii Tribune Harold
+
+
+				<p>An Ohio judge permanently struck down the state&#8217;s ban on abortion after about six weeks on Thursday and criticized its Republican attorney general for attempting to circumvent the will of Ohioans who voted to enshrine abortion protections in the state constitution. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/25/nation-world-news/ohio-judge-blocks-heartbeat-abortion-ban-criticizes-republican-attorney-general/>
+
+---
+
+## Teens to Hollywood: Enough sex, already
+
+date: 2024-10-25, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; Movies and television shows about rich people are the last thing we want to watch. And skip the sex: We prefer content that focuses on platonic relationships. (There&#8217;s enough porn online as it is.) We do like fantasy as a genre, increasingly so. But please, pretty please, fix how you incorporate social media into storylines. It&#8217;s cringe. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/25/nation-world-news/teens-to-hollywood-enough-sex-already/>
+
+---
+
+## District attorney will ask court to resentence Menendez brothers
+
+date: 2024-10-25, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; The Los Angeles County district attorney said Thursday that he would request the resentencing of Lyle and Erik Menendez, who killed their parents in 1989, a step that could lead to their release from prison. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/25/nation-world-news/district-attorney-will-ask-court-to-resentence-menendez-brothers/>
+
+---
+
+## Obituaries for October 25
+
+date: 2024-10-25, from: Hawaii Tribune Harold
+
+
+				<p>Roylynn Peggy Bannister, 56, of Keaau, died Sept. 13 at Hilo Benioff Medical Center. She was an office assistant for the Department of Transportation. Service to be held Nov. 9 at 3:30 p.m. at Hawaiian Paradise Park Community Center. Survived by spouse Clinton Bannister Sr. of Keaau; sons Clinton Bannister Jr. of Keaau, Cruger-James &#8220;Hele&#8221; (Joni) Bannister of Cheysn-Keala Bannister of Keaau; stepson Bronson Amaral of Hilo; mother Charlene Tolentino of Keaau; sisters Rozel &#8220;Tudi&#8221; (Billy) Tolentino, Chelsey (Graciela) Rodrigues and Stacey Yanagihara of Keaau; brother Roy Tolentino Jr. of Keaau; 11 grandchildren and numerous nieces and nephews. Arrangements by Dodo Mortuary.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/25/hawaii-news/obituaries-for-october-25-11/>
+
+---
+
+## Biden to apologize for Indian boarding schools where hundreds of children died
+
+date: 2024-10-25, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Joe Biden will formally apologize Friday for the role of the federal government in running boarding schools where thousands of Native American children faced abuse, neglect and the erasure of their tribal identities. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/25/nation-world-news/biden-to-apologize-for-indian-boarding-schools-where-hundreds-of-children-died/>
+
+---
+
+## Cargo-ship owner to pay US $102 million over Baltimore bridge collapse, DOJ says
+
+date: 2024-10-25, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The owner and operator of the cargo ship that struck Baltimore&#8217;s Francis Scott Key Bridge in March, killing six people, have agreed to pay $102 million to the federal government, the U.S. Justice Department said on Thursday. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/25/nation-world-news/cargo-ship-owner-to-pay-us-102-million-over-baltimore-bridge-collapse-doj-says/>
+
+---
+
+## Medicaid limits access to life-saving doses of addiction care
+
+date: 2024-10-25, from: Hawaii Tribune Harold
+
+
+				<p>Consensus is growing around the idea that for some patients higher doses of a gold-standard opioid addiction treatment drug may be better than lower doses at keeping patients healthy and in treatment, especially for those who use fentanyl.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/25/nation-world-news/medicaid-limits-access-to-life-saving-doses-of-addiction-care/>
+
+---
+
+## Fast-food chains hold the onions after McDonald’s E. coli outbreak
+
+date: 2024-10-25, from: Hawaii Tribune Harold
+
+
+				<p>LONGMONT, Colorado &#8212; U.S. fast-food chains were pulling fresh onions out of their menu items on Thursday after the vegetable was named as the likely source of an E. coli outbreak at McDonald&#8217;s restaurants that has sickened 49 people and killed one. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/25/nation-world-news/fast-food-chains-hold-the-onions-after-mcdonalds-e-coli-outbreak/>
+
+---
+
+## Harris rally with Springsteen, Obama in Georgia draws 20,000 people
+
+date: 2024-10-25, from: Hawaii Tribune Harold
+
+
+				<p>CLARKSTON, Georgia &#8212; Thousands gathered to hear Democratic presidential candidate Kamala Harris in the battleground state of Georgia on Thursday for a star-studded rally with rock legend Bruce Springsteen, entertainer Tyler Perry and former President Barack Obama. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/25/nation-world-news/harris-rally-with-springsteen-obama-in-georgia-draws-20000-people/>
+
+---
+
+## Trump flirts with the ultimate tax cut: No taxes at all
+
+date: 2024-10-25, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Former President Donald Trump has spent much of the presidential campaign brainstorming new, and sometimes untested, ways to cut taxes. In the election&#8217;s final stretch, he raised the possibility of going even further: eliminating income taxes entirely.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/25/nation-world-news/trump-flirts-with-the-ultimate-tax-cut-no-taxes-at-all/>
+
+---
+
+## Projected air seat declines underscore Hawaii tourism softening
+
+date: 2024-10-25, from: Hawaii Tribune Harold
+
+
+				<p>Total trans-Pacific airline seats for Hawaii&#8217;s top U.S. market are projected to drop in November and December, with losses widening at the start of next year and remaining evident into April, according to Hawaii Visitors &#38;Convention Bureau market data.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/25/hawaii-news/projected-air-seat-declines-underscore-hawaii-tourism-softening/>
+
+---
+
+## Changing the DNA of living things to fight climate change
+
+date: 2024-10-25, from: Hawaii Tribune Harold
+
+
+				<p>HAZELWOOD, Mo. &#8212; With the push of a red button, a milky-colored liquid sprayed onto a load of corn seed at a warehouse in central Missouri. It was a hint of a revolution underway in U.S. agriculture, driven by a desire to combat climate change while still feeding and fueling the world.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/25/nation-world-news/changing-the-dna-of-living-things-to-fight-climate-change/>
+
+---
+
+## Tucker Carlson: Trump is angry dad ready to give ‘vigorous spanking’ to enemies
+
+date: 2024-10-25, from: Hawaii Tribune Harold
+
+
+				<p>Tucker Carlson says former President Donald Trump is like an angry father who needs to give &#8220;a vigorous spanking&#8221; to his enemies. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/25/nation-world-news/tucker-carlson-trump-is-angry-dad-ready-to-give-vigorous-spanking-to-enemies/>
+
+---
+
+## Koror issues Traditional BUL to Address Unrest and Ensure Peace
+
+date: 2024-10-25, from: Island Times
+
+<figure><img width="557" height="268" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/bul.jpg?fit=557%2C268&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/bul.jpg?w=557&amp;ssl=1 557w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/bul.jpg?resize=300%2C144&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/bul.jpg?resize=400%2C192&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/bul.jpg?fit=557%2C268&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73400" data-permalink="https://islandtimes.org/koror-issues-traditional-bul-to-address-unrest-and-ensure-peace/bul/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/bul.jpg?fit=557%2C268&amp;ssl=1" data-orig-size="557,268" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="bul" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/bul.jpg?fit=300%2C144&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/bul.jpg?fit=557%2C268&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By: Eustoria Marie Borja KOROR, Palau – Oct. 23, 2024 – In response to an increase in drug-related disturbances and growing community unrest, traditional leaders in Koror, in collaboration with government authorities, have enacted a &#8220;Bul,&#8221; a traditional decree issued by the chiefs to prohibit a certain act. The decree seeks to curb disrespectful behavior, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/koror-issues-traditional-bul-to-address-unrest-and-ensure-peace/">Koror issues Traditional BUL to Address Unrest and Ensure Peace</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/koror-issues-traditional-bul-to-address-unrest-and-ensure-peace/>
+
+---
+
+## Palauan Journalists get Key insights on Global and local migration efforts at UN Open House
+
+date: 2024-10-25, from: Island Times
+
+<figure><img width="900" height="662" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/a.jpg?fit=900%2C662&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/a.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/a.jpg?resize=300%2C221&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/a.jpg?resize=768%2C565&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/a.jpg?resize=400%2C294&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/a.jpg?resize=706%2C519&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/a.jpg?fit=900%2C662&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73394" data-permalink="https://islandtimes.org/palauan-journalists-get-key-insights-on-global-and-local-migration-efforts-at-un-open-house/a-10/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/a.jpg?fit=900%2C662&amp;ssl=1" data-orig-size="900,662" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1729763725&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.9&quot;,&quot;iso&quot;:&quot;125&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="a" data-image-description="" data-image-caption="&lt;p&gt;MS. JODEAN REMENGESAU, FAO PROJECT SPECIALIST &lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/a.jpg?fit=300%2C221&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/a.jpg?fit=780%2C574&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By: Samantha Iyar KOROR, Palau (October 24, 2024) — The UN Day Open House gave young Palauan journalists a closer look at the work of the International Organization for Migration (IOM) and other United Nations agencies in Palau. Yohan Senarath, Head of IOM in Palau, introduced the organization’s mission and highlighting its role in addressing [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palauan-journalists-get-key-insights-on-global-and-local-migration-efforts-at-un-open-house/">Palauan Journalists get Key insights on Global and local migration efforts at UN Open House</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palauan-journalists-get-key-insights-on-global-and-local-migration-efforts-at-un-open-house/>
+
+---
+
+## Palau Passes Law Criminalizing unauthorized distribution of intimate images
+
+date: 2024-10-25, from: Island Times
+
+<figure><img width="600" height="820" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Delegate-Timothy-Sinsak1.jpg?fit=600%2C820&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Delegate-Timothy-Sinsak1.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Delegate-Timothy-Sinsak1.jpg?resize=220%2C300&amp;ssl=1 220w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Delegate-Timothy-Sinsak1.jpg?resize=400%2C547&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Delegate-Timothy-Sinsak1.jpg?fit=600%2C820&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73390" data-permalink="https://islandtimes.org/palau-passes-law-criminalizing-unauthorized-distribution-of-intimate-images/delegate-timothy-sinsak1/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Delegate-Timothy-Sinsak1.jpg?fit=600%2C820&amp;ssl=1" data-orig-size="600,820" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Delegate Timothy Sinsak1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Delegate-Timothy-Sinsak1.jpg?fit=220%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Delegate-Timothy-Sinsak1.jpg?fit=600%2C820&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>KOROR, Palau — The Olbiil Era Kelulau (OEK), Palau’s national legislature, has passed a law aimed at curbing the unauthorized distribution of sensitive or intimate images, addressing both criminal and civil penalties for such offenses. This legislation, approved on October 22, 2024, underscores the growing threat posed by the misuse of digital technology and social [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-passes-law-criminalizing-unauthorized-distribution-of-intimate-images/">Palau Passes Law Criminalizing unauthorized distribution of intimate images</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-passes-law-criminalizing-unauthorized-distribution-of-intimate-images/>
+
+---
+
+## UN Day Open House Empowers Palau’s Young Journalists
+
+date: 2024-10-25, from: Island Times
+
+<figure><img width="1024" height="667" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241024_093639.jpg?fit=1024%2C667&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241024_093639.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241024_093639.jpg?resize=300%2C196&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241024_093639.jpg?resize=1024%2C667&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241024_093639.jpg?resize=768%2C501&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241024_093639.jpg?resize=1200%2C782&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241024_093639.jpg?resize=400%2C261&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241024_093639.jpg?resize=706%2C460&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241024_093639.jpg?fit=1024%2C667&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73381" data-permalink="https://islandtimes.org/un-day-open-house-empowers-palaus-young-journalists/20241024_093639/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241024_093639.jpg?fit=1249%2C814&amp;ssl=1" data-orig-size="1249,814" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1729762598&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.9&quot;,&quot;iso&quot;:&quot;80&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20241024_093639" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241024_093639.jpg?fit=300%2C196&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241024_093639.jpg?fit=780%2C508&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Event Highlights UN Programs, Inspires Future Changemakers By: Eustoria Marie Borja Koror, Palau — On October 24, 2024, the United Nations in Palau hosted its first-ever UN Day Open House, focusing on empowering young journalists from the Palau Media Council. The event aimed to equip them with a deeper understanding of the UN&#8217;s role in [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/un-day-open-house-empowers-palaus-young-journalists/">UN Day Open House Empowers Palau’s Young Journalists</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/un-day-open-house-empowers-palaus-young-journalists/>
+
+---
+
+## Election Day Declared National Holiday, Family Day to Precede Thanksgiving
+
+date: 2024-10-25, from: Island Times
+
+<p>By: Eoghan Olkeriil Ngirudelsang Koror, Palau — President Surangel Whipps Jr. declared November 5, Palau’s national Election Day, as a legal holiday through Executive Order No. 313, signed on October 17. The holiday, named the &#8220;National Day of Democracy,&#8221; will provide a paid day off for government employees, while essential services such as public safety [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/election-day-declared-national-holiday-family-day-to-precede-thanksgiving/">Election Day Declared National Holiday, Family Day to Precede Thanksgiving</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/election-day-declared-national-holiday-family-day-to-precede-thanksgiving/>
+
+---
+
+## Distance and high cost of living curb feds' ability to hire for jobs on Guam, CNMI and other US territories 
+
+date: 2024-10-25, from: Pacific Island Times
+
+By Pacific Island Times News Staff   Federal agencies struggle to hire and retain employees on Guam, the Northern Marianas and other U.S.... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/distance-and-high-cost-of-living-curb-feds-ability-to-hire-for-jobs-on-guam-cnmi-and-other-us-terr>
+
+---
+
+## Countdown to Palau’s National Elections:
+
+date: 2024-10-25, from: Island Times
+
+<p>A Reminder to Cast Your Vote By: Samantha Iyar As Palau prepares for the upcoming national elections, the countdown to election day is on with 11 days remaining. The much-anticipated event, set for November 5, 2024 will determine the country&#8217;s future leaders, from senators and delegates to the Office of the President. As the election [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/countdown-to-palaus-national-elections/">Countdown to Palau&#8217;s National Elections:</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/countdown-to-palaus-national-elections/>
+
+---
+
+## Journalists engage with Presidential candidate Tommy Remengesau Jr. in Third Meet the Press Event
+
+date: 2024-10-25, from: Island Times
+
+<figure><img width="900" height="652" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241024_144220.jpg?fit=900%2C652&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241024_144220.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241024_144220.jpg?resize=300%2C217&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241024_144220.jpg?resize=768%2C556&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241024_144220.jpg?resize=400%2C290&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241024_144220.jpg?resize=706%2C511&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241024_144220.jpg?fit=900%2C652&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73371" data-permalink="https://islandtimes.org/journalists-engage-with-presidential-candidate-tommy-remengesau-jr-in-third-meet-the-press-event/20241024_144220/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241024_144220.jpg?fit=900%2C652&amp;ssl=1" data-orig-size="900,652" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;3.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1729780940&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;18.6&quot;,&quot;iso&quot;:&quot;1250&quot;,&quot;shutter_speed&quot;:&quot;0.025&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20241024_144220" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241024_144220.jpg?fit=300%2C217&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241024_144220.jpg?fit=780%2C565&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>By Samantha Iyar In a bid to clarify his policies and address pressing issues, presidential candidate Tommy Remengesau Jr. met with journalists on October 24, 2024, at the Penthouse conference room, marking the third &#8220;Meet the Press&#8221; ahead of the upcoming election. In a candid exchange, Remengesau addressed concerns regarding the Palau Goods and Services [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/journalists-engage-with-presidential-candidate-tommy-remengesau-jr-in-third-meet-the-press-event/">Journalists engage with Presidential candidate Tommy Remengesau Jr. in Third Meet the Press Event</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/journalists-engage-with-presidential-candidate-tommy-remengesau-jr-in-third-meet-the-press-event/>
+
+---
+
+## Palau and USTDA Launch Feasibility Study for New National Hospital Site
+
+date: 2024-10-25, from: Island Times
+
+<figure><img width="1024" height="761" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241024_212907_Facebook.jpg?fit=1024%2C761&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241024_212907_Facebook.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241024_212907_Facebook.jpg?resize=300%2C223&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241024_212907_Facebook.jpg?resize=1024%2C761&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241024_212907_Facebook.jpg?resize=768%2C571&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241024_212907_Facebook.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241024_212907_Facebook.jpg?resize=1200%2C892&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241024_212907_Facebook.jpg?resize=400%2C297&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241024_212907_Facebook.jpg?resize=706%2C525&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241024_212907_Facebook.jpg?fit=1024%2C761&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73362" data-permalink="https://islandtimes.org/palau-and-ustda-launch-feasibility-study-for-new-national-hospital-site/screenshot_20241024_212907_facebook/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241024_212907_Facebook.jpg?fit=1249%2C928&amp;ssl=1" data-orig-size="1249,928" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Screenshot_20241024_212907_Facebook" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241024_212907_Facebook.jpg?fit=300%2C223&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241024_212907_Facebook.jpg?fit=780%2C580&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Koror, Palau – The Republic of Palau and the U.S. Embassy have signed an agreement for a $2.37 million grant from the U.S. Trade and Development Agency (USTDA) to conduct a feasibility study for a new Belau National Hospital. The study will assess potential sites for the facility, aiming to ensure patient safety and address [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-and-ustda-launch-feasibility-study-for-new-national-hospital-site/">Palau and USTDA Launch Feasibility Study for New National Hospital Site</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-and-ustda-launch-feasibility-study-for-new-national-hospital-site/>
+
+---
+
+## Palau gears up for election amid Chinese threats, U.S military buildup
+
+date: 2024-10-25, from: Island Times
+
+<p>KOROR (VOA)&#8211;Driving toward the centre of Palau’s commercial city of Koror, election yard signs for presidential, senate and house of delegates’ candidates in this tiny island nation’s November elections line the street as waves of the pristinely blue Pacific Ocean lap the shore not far away. The serenity of the surroundings belies just how high [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-gears-up-for-election-amid-chinese-threats-u-s-military-buildup/">Palau gears up for election amid Chinese threats, U.S military buildup</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-gears-up-for-election-amid-chinese-threats-u-s-military-buildup/>
+
+---
+
+## 2024 Blue Parks Small Grants Awarded to six marine conservation projects
+
+date: 2024-10-25, from: Island Times
+
+<figure><img width="1024" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PR-photo_BP-Grants.png?fit=1024%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PR-photo_BP-Grants.png?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PR-photo_BP-Grants.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PR-photo_BP-Grants.png?resize=1024%2C1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PR-photo_BP-Grants.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PR-photo_BP-Grants.png?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PR-photo_BP-Grants.png?resize=1200%2C1200&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PR-photo_BP-Grants.png?resize=800%2C800&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PR-photo_BP-Grants.png?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PR-photo_BP-Grants.png?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PR-photo_BP-Grants.png?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PR-photo_BP-Grants.png?resize=706%2C706&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PR-photo_BP-Grants.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PR-photo_BP-Grants.png?fit=1024%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73358" data-permalink="https://islandtimes.org/?attachment_id=73358" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PR-photo_BP-Grants.png?fit=1249%2C1249&amp;ssl=1" data-orig-size="1249,1249" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="PR photo_BP Grants" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PR-photo_BP-Grants.png?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PR-photo_BP-Grants.png?fit=780%2C780&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Marine Conservation Institute is excited to announce the six recipients of the 2024 Blue Parks Small Grants. These grants support projects that enhance marine protected areas (MPAs) and strengthen conservation outcomes. All recipients are members of the Blue Parks Network and are dedicated to preserving critical ocean ecosystems for future generations. The Palau National Marine [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/2024-blue-parks-small-grants-awarded-to-six-marine-conservation-projects/">2024 Blue Parks Small Grants Awarded to six marine conservation projects</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/2024-blue-parks-small-grants-awarded-to-six-marine-conservation-projects/>
+
+---
+
+## Joining hands with Taiwan to build a safer global village:
+
+date: 2024-10-25, from: Island Times
+
+<figure><img width="628" height="690" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Photo_Commissioner-Chou-Yew-Woei.jpg?fit=628%2C690&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Photo_Commissioner-Chou-Yew-Woei.jpg?w=628&amp;ssl=1 628w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Photo_Commissioner-Chou-Yew-Woei.jpg?resize=273%2C300&amp;ssl=1 273w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Photo_Commissioner-Chou-Yew-Woei.jpg?resize=400%2C439&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Photo_Commissioner-Chou-Yew-Woei.jpg?fit=628%2C690&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73354" data-permalink="https://islandtimes.org/joining-hands-with-taiwan-to-build-a-safer-global-village/olympus-digital-camera-23/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Photo_Commissioner-Chou-Yew-Woei.jpg?fit=628%2C690&amp;ssl=1" data-orig-size="628,690" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;9&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;E-1&quot;,&quot;caption&quot;:&quot;OLYMPUS DIGITAL CAMERA&quot;,&quot;created_timestamp&quot;:&quot;1565178535&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;47&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;OLYMPUS DIGITAL CAMERA&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="OLYMPUS DIGITAL CAMERA" data-image-description="" data-image-caption="&lt;p&gt;OLYMPUS DIGITAL CAMERA&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Photo_Commissioner-Chou-Yew-Woei.jpg?fit=273%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Photo_Commissioner-Chou-Yew-Woei.jpg?fit=628%2C690&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>Supporting Taiwan’s participation in INTERPOL Timely intelligence sharing is key to combating transnational crime. Taiwan enjoys strong law enforcement capabilities and cooperates with friendly partners in criminal investigations. Being able to exchange information in real time is crucial to combating transnational crime. However, due to its exclusion from INTERPOL, Taiwan can only access critical intelligence [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/joining-hands-with-taiwan-to-build-a-safer-global-village/">Joining hands with Taiwan to build a safer global village:</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/joining-hands-with-taiwan-to-build-a-safer-global-village/>
+
+---
+
+## Guam law firm lodges human rights complaint against U.S military
+
+date: 2024-10-25, from: Island Times
+
+<p>HAGATNA (PACIFIC ISLAND TIMES) &#8212;A Guam-based law firm has filed charges of human rights abuse against the U.S military, alleging violations of Chamoru people&#8217;s indigenous rights to self-determination and a clean, healthy and sustainable environment. The Blue Ocean Law filed the complaint before the Special Rapporteur on behalf of the community group Prutehi Litekyan: Save [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/guam-law-firm-lodges-human-rights-complaint-against-u-s-military-2/">Guam law firm lodges human rights complaint against U.S military</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/guam-law-firm-lodges-human-rights-complaint-against-u-s-military-2/>
+
+---
+
+## Heal First. Pause, Observe & React Less
+
+date: 2024-10-25, from: Island Times
+
+<figure><img width="600" height="567" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=600%2C567&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?resize=300%2C284&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?resize=400%2C378&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=600%2C567&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="59961" data-permalink="https://islandtimes.org/raumatic-grief/womens-corner-1-4/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=600%2C567&amp;ssl=1" data-orig-size="600,567" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=300%2C284&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=600%2C567&amp;ssl=1" tabindex="0" role="button" /></figure>
+<p>I am someone who possesses a keen eye for detail and an acute awareness of the subtleties of human behavior. I often find myself quietly observing and carefully analyzing the actions of people, often more than they may realize. I am a firm believer in the notion that actions serve as a powerful reflection of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/heal-first-pause-observe-react-less/">Heal First. Pause, Observe &amp; React Less</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/heal-first-pause-observe-react-less/>
+
+---
+
+## Gunmen kill seven with more than a dozen missing after Papua New Guinea bus shooting
+
+date: 2024-10-25, from: Island Times
+
+<p>PORT MORESBY (THE GUARDIAN) &#8212; At least seven people were killed, and more than a dozen remain missing after gunmen ambushed a public bus and shot passengers in Papua New Guinea’s Enga province. The shooting took place in Enga’s Lagaip district on Tuesday afternoon. More than 20 passengers were on the bus when men armed [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/gunmen-kill-seven-with-more-than-a-dozen-missing-after-papua-new-guinea-bus-shooting/">Gunmen kill seven with more than a dozen missing after Papua New Guinea bus shooting</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/gunmen-kill-seven-with-more-than-a-dozen-missing-after-papua-new-guinea-bus-shooting/>
+
+---
+
+## Donald Trump meets the definition of a fascist, former White House chief of staff John Kelly says
+
+date: 2024-10-25, from: Island Times
+
+<p>By Brad Ryan in Washington DC In short: (ABC-Australia) Donald Trump&#8217;s former White House chief of staff, John Kelly, says he believes the ex-president meets the definition of a fascist, and would rule as a dictator if he could. Trump&#8217;s rival in the presidential race, Kamala Harris, has described him as &#8220;increasingly unhinged and unstable&#8221;. What&#8217;s next? [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/donald-trump-meets-the-definition-of-a-fascist-former-white-house-chief-of-staff-john-kelly-says/">Donald Trump meets the definition of a fascist, former White House chief of staff John Kelly says</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/donald-trump-meets-the-definition-of-a-fascist-former-white-house-chief-of-staff-john-kelly-says/>
+
+---
+
+## US confirms 3,000 North Korean troops have been deployed to eastern Russia
+
+date: 2024-10-25, from: Island Times
+
+<p>In short: (ABC-Australia) The White House says 3,000 North Korean troops have been deployed to military training locations in eastern Russia. US Defense Secretary Lloyd Austin says if the forces join the Russian military in fighting Ukraine, they will be considered &#8216;fair game&#8217; in the war. What&#8217;s next? NATO has asked South Korean President Yoon [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/us-confirms-3000-north-korean-troops-have-been-deployed-to-eastern-russia/">US confirms 3,000 North Korean troops have been deployed to eastern Russia</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/us-confirms-3000-north-korean-troops-have-been-deployed-to-eastern-russia/>
+
+---
+
+## Guam law firm lodges human rights complaint against U.S military
+
+date: 2024-10-25, from: Island Times
+
+<p>HAGATNA (PACIFIC ISLAND TIMES) &#8212;A Guam-based law firm has filed charges of human rights abuse against the U.S military, alleging violations of Chamoru people&#8217;s indigenous rights to self-determination and a clean, healthy and sustainable environment. The Blue Ocean Law filed the complaint before the Special Rapporteur on behalf of the community group Prutehi Litekyan: Save [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/guam-law-firm-lodges-human-rights-complaint-against-u-s-military/">Guam law firm lodges human rights complaint against U.S military</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/guam-law-firm-lodges-human-rights-complaint-against-u-s-military/>
+
+---
+
+## UN experts 'alarmed' by New Caledonia deaths as Pacific fact-finding mission readies
+
+date: 2024-10-25, from: Pacific Island Times
+
+UN Human Rights Committee challenges France on security operations and its attitude to decolonization By Stefan Armbruster (Benar News) ... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/un-experts-alarmed-by-new-caledonia-deaths-as-pacific-fact-finding-mission-readies>
+
+---
+
+## Pohnpei preserves traditional knowledge
+
+date: 2024-10-25, from: The Husk
+
+Weekender #49 
+
+<br> 
+
+<https://thehusk.substack.com/p/pohnpei-preserves-traditional-knowledge>
+
+---
+
+## MDA identifies 16 sites for Guam missile defense system 
+
+date: 2024-10-25, from: Pacific Island Times
+
+Draft Environmental Statement released By Pacific Island Times News Staff The Missile Defense Agency has narrowed down the site selection... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/mda-identifies-16-sites-for-guam-missile-defense-system>
+
+---
+
+## Kapiʻolani CC HR specialist honored with emerging professional award
+
+date: 2024-10-24, from: University of Hawaiʻi News
+
+<p>The <span aria-label="Hawaii">Hawai&#699;i</span> Society for Human Resources Management recognized Hunter Kirihara for his work at <span aria-label="Kapiolani">Kapi&#699;olani</span> <abbr>CC</abbr>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/24/kirihara-emerging-professional-award/">Kapiʻolani <abbr>CC</abbr> <abbr>HR</abbr> specialist honored with emerging professional award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/24/kirihara-emerging-professional-award/>
+
+---
+
+## World class Kauaʻi-born kauila oboe returns home
+
+date: 2024-10-24, from: University of Hawaiʻi News
+
+<p>The free concert featuring the unique kauila wood oboe aims to raise environmental awareness.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/24/kauila-oboe-returns-home/">World class Kauaʻi-born kauila oboe returns home</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/24/kauila-oboe-returns-home/>
+
+---
+
+## Loss of hope for islands
+
+date: 2024-10-24, from: Marshal Islands Journal
+
+<p>Journal 10/30/1987 P1 Back to TT ‘pork barrel’ daysIs there something that legislators, magistrates and other elected officials in Micronesia see that the rest of us are missing? This may explain why many of those charged with overseeing development funds under the Compact are busily appropriating this money for seawalls, community houses, docks and other [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/loss-of-hope-for-islands/">Loss of hope for islands</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/loss-of-hope-for-islands/>
 
 ---
 

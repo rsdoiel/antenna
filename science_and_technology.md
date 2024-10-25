@@ -1,11 +1,503 @@
 ---
 title: science and technology
-updated: 2024-10-24 08:40:38
+updated: 2024-10-25 08:11:24
 ---
 
 # science and technology
 
-(date: 2024-10-24 08:40:38)
+(date: 2024-10-25 08:11:24)
+
+---
+
+## Just how private is Apple's Private Cloud Compute? You can test it to find out
+
+date: 2024-10-25, updated: 2024-10-25, from: The Register (UK I.T. News)
+
+<h4>Also updates bug bounty program with $1M payout</h4> <p>In June, Apple used its Worldwide Developer Conference to <a target="_blank" href="https://www.theregister.com/2024/06/11/apple_built_ai_cloud_servers_os/">announce</a> the creation of the Private Cloud Compute platform to run its AI Intelligence applications, and now it&#39;s asking people to stress test the system for security holes.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/25/apple_private_cloud_compute/>
+
+---
+
+## 'Consent' LinkedIn used for data processing was not freely given, says Ireland
+
+date: 2024-10-25, updated: 2024-10-25, from: The Register (UK I.T. News)
+
+<h4>Microsoft-owned social media for suits site gets €310M fine, told to get compliant</h4> <p>When LinkedIn asked its European users for their personal data, it did not receive &#34;informed&#34; nor &#34;freely given&#34; consent for the business to ship it off to third parties for generating targeted advertising, a Euro data watchdog has said.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/25/consent_linkedin_dopc_fine/>
+
+---
+
+## Event Details
+
+date: 2024-10-25, from: NASA breaking news
+
+The next private CSUG event will take place November 6 – 7 at NASA’s Goddard Space Flight Center in Greenbelt, Maryland. Throughout the CSUG, representatives from NASA’s Space Communications and Navigation program and CSP’s industry partners will share updates on commercial SATCOM capability developments and the commercial service demonstrations taking place under CSP. The CSUG [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/event-details/>
+
+---
+
+## Computer Scientists Establish the Best Way to Traverse a Graph
+
+date: 2024-10-25, from: Quanta Magazine
+
+Dijkstra’s algorithm was long thought to be the most efficient way to find a graph’s best routes. Researchers have now proved that it’s “universally optimal.”             <p>The post <a href="https://www.quantamagazine.org/computer-scientists-establish-the-best-way-to-traverse-a-graph-20241025/" target="_blank">Computer Scientists Establish the Best Way to Traverse a Graph</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/computer-scientists-establish-the-best-way-to-traverse-a-graph-20241025/>
+
+---
+
+## Archaeologists Map Two Forgotten Medieval Cities That Flourished Along the Silk Road in the Mountains of Central Asia
+
+date: 2024-10-25, from: Smithsonian Magazine
+
+The new research could change history's understanding of the sprawling trade network that connected Europe and the Middle East to East Asia 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/archaeologists-map-two-forgotten-medieval-cities-that-flourished-along-the-silk-road-in-the-mountains-of-central-asia-180985328/>
+
+---
+
+## NASA Stennis Achieves Milestone in Preparation for Future Artemis Testing
+
+date: 2024-10-25, from: NASA breaking news
+
+NASA’s Stennis Space Center near Bay St. Louis, Mississippi, achieved a key milestone this week for testing a new SLS (Space Launch System) rocket stage to fly on future Artemis missions to the Moon and beyond. Over a two-week period beginning Oct. 10, crews completed a safe lift and installation of the interstage simulator component [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/stennis-achieves-milestone-preparing-for-future-artemis-testing/>
+
+---
+
+## Mature node chip output to surge 6% in 2025
+
+date: 2024-10-25, updated: 2024-10-25, from: The Register (UK I.T. News)
+
+<h4>TrendForce reports significant capacity gains as Beijing targets reduced reliance on imported semiconductors</h4> <p>While most industry attention is focused on cutting-edge silicon, China continues to ramp up production of so-called mature nodes, leading to overall capacity increasing by 6 percent in 2025, according to TrendForce.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/25/mature_chip_output_china/>
+
+---
+
+## Say hello to the epi-bit, a new approach to DNA data storage
+
+date: 2024-10-25, updated: 2024-10-25, from: The Register (UK I.T. News)
+
+<h4>A single gram can hold 215,000 TB. Technique inspired by epigenetics might help unlock that potential</h4> <p>Scientists have developed a new approach to using DNA as a data storage medium, slashing the cost and time of writing to the biological substance.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/25/epibit_dna_storage_research/>
+
+---
+
+## Hubble Sees a Celestial Cannonball
+
+date: 2024-10-25, from: NASA breaking news
+
+The spiral galaxy in this NASA/ESA Hubble Space Telescope image is IC 3225. It looks remarkably as if it was launched from a cannon, speeding through space like a comet with a tail of gas streaming from its disk behind it. The scenes that galaxies appear in from Earth’s point of view are fascinating; many […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-sees-a-celestial-cannonball/>
+
+---
+
+## European datacenter energy consumption set to triple by end of decade
+
+date: 2024-10-25, updated: 2024-10-25, from: The Register (UK I.T. News)
+
+<h4>McKinsey warns an additional 25GW of mostly green energy will be needed</h4> <p>Datacenter power consumption across Europe could roughly triple by the end of the decade, driven by mass adoption of everyone&#39;s favorite tech trend: AI.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/25/eu_dc_power/>
+
+---
+
+## Back on Earth: NASA’s SpaceX Crew-8 Mission Splashes Down Off Florida
+
+date: 2024-10-25, from: NASA breaking news
+
+NASA’s SpaceX Crew-8 mission successfully splashed down at 3:29 a.m. EDT Friday, off Pensacola, Florida, concluding a nearly eight-month science mission and the agency’s eighth commercial crew rotation mission to the International Space Station. &#160; After launching March 3 on a SpaceX Falcon 9 rocket from NASA’s Kennedy Space Center in Florida, NASA astronauts Matthew [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/back-on-earth-nasas-spacex-crew-8-mission-splashes-down-off-florida/>
+
+---
+
+## Fujitsu claims 634-gram 14-inch Core i7 laptop is world's lightest
+
+date: 2024-10-25, updated: 2024-10-25, from: The Register (UK I.T. News)
+
+<h4>Lightweight &#39;FMV Zero&#39; is only sold online in Japan, dammit</h4> <p>Fujitsu Japan&#39;s client computing operation claims to have seized the title of world&#39;s lightest laptop, after launching the 634-gram &#34;FMV Zero.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/25/fujitsu_fmv_zero_634g_laptop/>
+
+---
+
+## Your computer's not working? Sure, I can fix that problem – which I caused
+
+date: 2024-10-25, updated: 2024-10-25, from: The Register (UK I.T. News)
+
+<h4>Not paying what you agreed for a job can prove expensive in the long run</h4> <p><strong>On Call</strong>  Welcome to another edition of On Call, the weekly reader-contributed column in which <em>Reg</em> readers share tech support tales in which they triumph over terrible and tyrannical taskmasters.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/25/on_call/>
+
+---
+
+## OpenAI loses another senior figure, disperses safety research team he led
+
+date: 2024-10-25, updated: 2024-10-25, from: The Register (UK I.T. News)
+
+<h4>Artificial General Intelligence readiness advisor Miles Brundage bails, because nobody is ready</h4> <p>OpenAI has lost another senior staffer, and on his way out the door this one warned the company – and all other AI shops – are just not ready for artificial general intelligence.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/25/open_ai_readiness_advisor_leaves/>
+
+---
+
+## Google Cloud burst by 12-hour power outage in German region
+
+date: 2024-10-25, updated: 2024-10-25, from: The Register (UK I.T. News)
+
+<h4>Loose juice led to cooling issue in one zone, but the pain was widespread</h4> <p>Google Cloud apologized on Thursday after its europe-west3 region – located in Frankfurt, Germany – experienced an outage lasting half a day.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/25/google_cloud_frankfurt_outage/>
+
+---
+
+## Polish radio station ditches DJs, journalists for AI-generated college kids
+
+date: 2024-10-25, updated: 2024-10-25, from: The Register (UK I.T. News)
+
+<h4>Station claims it&#39;s visionary, ex-employees claim it&#39;s cynical; reality appears way more fiscal</h4> <p>A Polish radio station has ditched its on-air talent for AI in what its editor-in-chief calls an experiment on the effect of AI in society, though it looks like a bid to save cash. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/25/polish_radio_station_ai_hosts/>
+
+---
+
+## Billionaire SaaS CEO loses title after week of sleaze allegations
+
+date: 2024-10-25, updated: 2024-10-25, from: The Register (UK I.T. News)
+
+<h4>Not much more than a slap on the wrist as WiseTech boss stays on in new role and keeps salary</h4> <p>The billionaire founder and CEO of Australian SaaS giant WiseTech Global, Richard White, has stepped down after a week of allegations of improper conduct.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/25/wisetech_ceo_steps_down/>
+
+---
+
+## Putin's pro-Trump trolls accuse Harris of poaching rhinos
+
+date: 2024-10-25, updated: 2024-10-25, from: The Register (UK I.T. News)
+
+<h4>Plus: Iran&#39;s IRGC probes election-related websites in swing states</h4> <p>Russian, Iranian, and Chinese trolls are all ramping up their US election disinformation efforts ahead of November 5, but – aside from undermining faith in the democratic process and confidence in the election result – with very different objectives, according to Microsoft.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/25/russia_china_iran_election_disinfo/>
+
+---
+
+## Congress to Commerce: Sanction more Chinese chip firms to stop Huawei's evasion
+
+date: 2024-10-24, updated: 2024-10-24, from: The Register (UK I.T. News)
+
+<h4>We don&#39;t really need a letter full of circumstantial evidence to prove what we already know needs doing</h4> <p>US elected officials are urging the Commerce Department to take action to prevent Huawei from building a network of &#34;clandestine semiconductor facilities used to circumvent US law.&#34; …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/24/congress_china_sanction_huawei/>
+
+---
+
+## Sinister Solar System
+
+date: 2024-10-24, from: NASA breaking news
+
+Our universe is full of mysterious sights. Explore some of our most frightful finds from past Halloweens. 
+
+<br> 
+
+<https://science.nasa.gov/solar-system/sinister-solar-system/>
+
+---
+
+## Sols 4341-4342: A Bumpy Road
+
+date: 2024-10-24, from: NASA breaking news
+
+Earth planning date: Monday, Oct. 21, 2024 After Curiosity’s busy weekend, the team is ready for another day of planning. We are able to take advantage of the Earth-Mars time offset to full plan on both sols of our plan today. For this plan, I served as Mobility Rover Planner, and planned Curiosity’s drive.  The […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4341-4342-a-bumpy-road/>
+
+---
+
+## AWS Cloud Development Kit flaw exposed accounts to full takeover
+
+date: 2024-10-24, updated: 2024-10-24, from: The Register (UK I.T. News)
+
+<h4>Remember Bucket Monopoly? Yeah, it gets worse</h4> <p>Amazon Web Services has fixed a flaw in its open source Cloud Development Kit that, under the right conditions, could allow an attacker to hijack a user&#39;s account completely.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/24/aws_cloud_development_kit_flaw/>
+
+---
+
+## Scientists demand FCC test environmental impacts of satellites
+
+date: 2024-10-24, updated: 2024-10-25, from: The Register (UK I.T. News)
+
+<h4>Boffins say it&#39;s absurd that the US comms watchdog won&#39;t consider atmospheric harms</h4> <p><strong>updated</strong>  One hundred and twenty astronomy researchers on Thursday sent a letter asking the Federal Communications Commission (FCC) to end the &#34;absurd&#34; environmental review exemption given to SpaceX&#39;s Starlink and other firms launching large constellations of satellites.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/24/scientists_fcc_tests_satellite_impact/>
+
+---
+
+## Ford CEO admits he drives a Chinese electric vehicle and doesn't want to give it up
+
+date: 2024-10-24, updated: 2024-10-24, from: The Register (UK I.T. News)
+
+<h4>Warns the Middle Kingdom is drinking Detroit&#39;s milkshake at the moment</h4> <p>Jim Farley, CEO of Ford, has made a surprising confession - he has been driving a Chinese-made electric vehicle, and he loves it.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/24/ford_china_electric_vehicle/>
+
+---
+
+## An Astonishing Trove of Coins Dating to the Norman Conquest Just Became the Most Valuable Treasure Ever Found in Britain
+
+date: 2024-10-24, from: Smithsonian Magazine
+
+The so-called Chew Valley Hoard, which just sold for a record $5.6 million, includes 2,584 coins featuring the likenesses of Harold II, William the Conqueror and Edward the Confessor 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/an-astonishing-trove-of-coins-dating-to-the-norman-conquest-just-became-the-most-valuable-treasure-ever-found-in-britain-180985313/>
+
+---
+
+## NASA Awards NOAA’s Solar Wind Plasma Sensors Contract
+
+date: 2024-10-24, from: NASA breaking news
+
+NASA has selected the University of New Hampshire in Durham to build Solar Wind Plasma Sensors for the Lagrange 1 Series project, part of the National Oceanic and Atmospheric Administration’s (NOAA) Space Weather Next Program. This cost-plus-no-fee contract is valued at approximately $24.3 million and includes the development of two sensors that will study the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-awards-noaas-solar-wind-plasma-sensors-contract/>
+
+---
+
+## Polar Bears Are Exposed to More Parasites, Viruses and Bacteria as the Arctic Heats Up
+
+date: 2024-10-24, from: Smithsonian Magazine
+
+Pathogens are more common in polar bears living in the Chukchi Sea now than they were three decades ago, a new study suggests—but it's not yet clear what that means for the mammals' health 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/polar-bears-are-exposed-to-more-parasites-viruses-and-bacteria-as-the-arctic-heats-up-180985330/>
+
+---
+
+## Hugging Face puts the squeeze on Nvidia's software ambitions
+
+date: 2024-10-24, updated: 2024-10-24, from: The Register (UK I.T. News)
+
+<h4>AI model repo promises lower costs, broader compatibility for NIMs competitor</h4> <p>Hugging Face this week announced HUGS, its answer to Nvidia&#39;s Inference Microservices (NIMs), which the AI repo claims will let customers deploy and run LLMs and models on a much wider variety of hardware.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/24/huggingface_hugs_nvidia/>
+
+---
+
+## He Escaped Slavery and Became a Civil War Hero. Now, Robert Smalls Is Getting a Statue in South Carolina
+
+date: 2024-10-24, from: Smithsonian Magazine
+
+A special committee has until January 15 to finalize the design, location and funding for a monument that will be erected on the lawn of the South Carolina State House 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/he-escaped-slavery-and-became-a-civil-war-hero-now-robert-smalls-is-getting-a-statue-in-south-carolina-180985324/>
+
+---
+
+## An Orange Blue Moon
+
+date: 2024-10-24, from: NASA breaking news
+
+Clouds curling around the full “blue” moon gives the night sky an eerie feel in this image from Aug. 19, 2024. As seen here, a blue moon is not actually blue; the third full moon in a season with four full Moons is called a “blue” moon. Another moon will be visible in the sky [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/an-orange-blue-moon/>
+
+---
+
+## NASA Chief AI Officer on the Federal Executive Forum: How Agencies Are Strategizing About AI
+
+date: 2024-10-24, from: NASA breaking news
+
+Listen to Chief AI Officer Dave Salvagnini represent NASA in a Federal Executive Forum webinar on “Artificial Intelligence Strategies in Government Progress and Best Practices 2024.” Featuring Chief AI Officers and technology experts at the IRS, Office of the National Coordinator for Health Information Technology, Red Hat, Deloitte, and Pure Storage, this discussion covers current [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/organizations/ocio/dt/ai/nasa-chief-ai-officer-on-the-federal-executive-forum-how-agencies-are-strategizing-about-ai/>
+
+---
+
+## PSI Database is Live with New Features to Improve User Experience
+
+date: 2024-10-24, from: NASA breaking news
+
+Since its ​launch​​​ in 2014, ​the ​Physical Sciences Informatics (PSI) ​system ​has served as NASA’s online repository for physical science data. ​Now​​​, the PSI system​ is​ ​live with new​​​ update​s​ to further align with NASA’s open data policy​.​  ​​With its first significant update in over five years,​​ t​he data repository has been completely redesigned, featuring […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/psi-database-is-live-with-new-features-to-improve-user-experience/>
+
+---
+
+## Emergency patch: Cisco fixes bug under exploit in brute-force attacks
+
+date: 2024-10-24, updated: 2024-10-24, from: The Register (UK I.T. News)
+
+<h4>Who doesn&#39;t love abusing buggy appliances, really?</h4> <p>Cisco has patched an already exploited security hole in its Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD) software that miscreants have been brute-forcing in attempted denial of service attacks.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/24/cisco_bug_brute_force/>
+
+---
+
+## A Massive, Mysterious 'Ghost' Fish, Feared Extinct for Nearly 20 Years, Has Been Rediscovered in Cambodia
+
+date: 2024-10-24, from: Smithsonian Magazine
+
+The giant salmon carp was formally identified in 1991, and since then, fewer than 30 individuals had been documented 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-massive-mysterious-ghost-fish-feared-extinct-for-nearly-20-years-has-been-rediscovered-in-cambodia-180985326/>
+
+---
+
+## $180 for an overpriced, dubious SSD drive? Maybe don't join the USB Club
+
+date: 2024-10-24, updated: 2024-10-24, from: The Register (UK I.T. News)
+
+<h4>No specs and few details, but the promise of access to an exclusive community is still drawing buyers</h4> <p>Imagine that your USB flash drive came with software that lets an unknown cloud platform scan its contents and upload files, inform your friends about whatever you publish, and then them download your stuff for themselves.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/24/usb_club_transport_drive/>
+
+---
+
+## The Creepy Doll Contest Is Back—and It's Time to Cast Your Vote for the Most Terrifying Toy
+
+date: 2024-10-24, from: Smithsonian Magazine
+
+Step right up and see the spooky circus dolls—from creepy clowns to frightening fortune-tellers—in a Minnesota museum's vintage toy collection 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-creepy-doll-contest-is-back-and-its-time-to-cast-your-vote-for-the-most-terrifying-toy-180985315/>
+
+---
+
+## Huawei releases data detailing serverless secrets
+
+date: 2024-10-24, updated: 2024-10-24, from: The Register (UK I.T. News)
+
+<h4>Reveals why your functions start slowly on its cloud and maybe others too</h4> <p>Huawei Cloud has released a huge trove of data describing the performance of its serverless services in the hope that other hyperscalers use it to improve their own operations.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/24/huawei_serverless_cold_start_research/>
+
+---
+
+## Salmon Make a Long-Awaited Return to the Klamath River for the First Time in 112 Years, After Largest Dam Removal in U.S.
+
+date: 2024-10-24, from: Smithsonian Magazine
+
+Chinook salmon spark excitement among local Klamath Tribes, who have advocated for decades to restore the flow of the river in California and Oregon 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/salmon-make-a-long-awaited-return-to-the-klamath-river-for-the-first-time-in-112-years-after-largest-dam-removal-in-us-180985319/>
+
+---
+
+## Why Is It So Hard to Define a Species?
+
+date: 2024-10-24, from: Quanta Magazine
+
+The idea of a species is fundamental to the way that many people understand the structure of life on Earth. But ask 10 specialists how they define the concept and you might get 10 answers. In this episode, co-host Janna Levin speaks with evolutionary biologist Kevin de Queiroz about what makes defining and delineating species such a slippery process, and why it matters to our understanding of both evolution and conservation.             <p>The post <a href="https://www.quantamagazine.org/why-is-it-so-hard-to-define-a-species-20241024/" target="_blank">Why Is It So Hard to Define a Species?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/why-is-it-so-hard-to-define-a-species-20241024/>
+
+---
+
+## Floppy discs still run a U.S. metro? Japan steps in with 'project kill floppy'
+
+date: 2024-10-24, updated: 2024-10-24, from: The Register (UK I.T. News)
+
+<h4>Hitachi Rail contract inked by SF transport board will kill the throwback</h4> <p>San Francisco&#39;s Muni Metro could be finally getting ready to wave goodbye to the antiquated and archaic floppy disk-based train control system.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/24/hitachi_rail_contract_san_francisco/>
+
+---
+
+## Amateur Historian Discovers Lost Story by 'Dracula' Author Bram Stoker Hiding in Plain Sight at a Dublin Library
+
+date: 2024-10-24, from: Smithsonian Magazine
+
+History forgot about "Gibbet Hill" for more than a century—until a fan of the Gothic horror writer stumbled upon the haunting tale at the National Library of Ireland 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/amateur-historian-discovers-lost-story-by-dracula-author-bram-stoker-hiding-in-plain-sight-at-a-dublin-library-180985320/>
 
 ---
 
@@ -297,11 +789,11 @@ date: 2024-10-23, updated: 2024-10-23, from: The Register (UK I.T. News)
 
 ---
 
-## Warning! FortiManager critical vulnerability under active attack
+## FortiManager critical vulnerability under active attack
 
-date: 2024-10-23, updated: 2024-10-23, from: The Register (UK I.T. News)
+date: 2024-10-23, updated: 2024-10-24, from: The Register (UK I.T. News)
 
-<h4>Security shop and CISA urge rapid action</h4> <p>Fortinet has gone public with news of a critical flaw in its software management platform.…</p> 
+<h4>Security shop and CISA urge rapid action</h4> <p><strong>Updated</strong>  Fortinet has gone public with news of a critical flaw in its software management platform.…</p> 
 
 <br> 
 
@@ -323,7 +815,7 @@ Windows 11, version 24H2 represents significant improvements to the already robu
 
 ## Ex-Intel board members make an ill-conceived case for spinning off Foundry
 
-date: 2024-10-23, updated: 2024-10-23, from: The Register (UK I.T. News)
+date: 2024-10-23, updated: 2024-10-25, from: The Register (UK I.T. News)
 
 <h4>Save America’s most important manufacturer? More like save our portfolio and let Uncle Sam pick up the pieces</h4> <p><strong>Comment</strong>  A gaggle of ex-Intel board directors have called on the chipmaker to spin off its floundering foundry business while glossing over the fact that a company bleeding billions each quarter is unlikely to survive on its own.…</p> 
 

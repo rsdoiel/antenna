@@ -1,11 +1,866 @@
 ---
 title: north america
-updated: 2024-10-24 08:40:37
+updated: 2024-10-25 08:11:23
 ---
 
 # north america
 
-(date: 2024-10-24 08:40:37)
+(date: 2024-10-25 08:11:23)
+
+---
+
+## Kremlin denies WSJ report of Elon Musk's contacts with Putin
+
+date: 2024-10-25, from: VOA News USA
+
+MOSCOW — The Kremlin on Friday denied a Wall Street Journal report about regular contacts between Elon Musk and President Vladimir Putin.
+
+
+"No, this is not true," Kremlin spokesman Dmitry Peskov told reporters. Peskov said that Putin had one contact with Musk — the world's richest man — and it was before 2022.
+
+
+The Journal said Musk had been in regular contact with Putin since late 2022. Peskov said the report was absolutely false. 
+
+<br> 
+
+<https://www.voanews.com/a/kremlin-denies-wsj-report-of-elon-musk-s-contacts-with-putin/7839021.html>
+
+---
+
+## Betting markets are predicting the election. Don’t put too much stock into it
+
+date: 2024-10-25, from: Marketplace Morning Report
+
+<p>Bettors think they&#8217;ve already figured out the presidential election winner, with many odds sites predicting a slim victory for former President Trump less than two weeks away from Voting Day. But according to FHN Financial&#8217;s Christopher Low, there are plenty of reasons to be skeptical of any predictions in such a tight election, including betting markets&#8217; own recent track record. Plus, we take a trip to a factory in Texas that&#8217;s giving a second life to batteries used in EVs. And, one Scottish manufacturer is reusing onion skins in their packaging to reduce plastic waste.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/25/mmr_20241025_MMR_Podcast_3_64.mp3"></source>
+</audio> <a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/25/mmr_20241025_MMR_Podcast_3_64.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/betting-markets-are-predicting-the-election-dont-put-too-much-stock-into-it>
+
+---
+
+##  Why The Working Class Could Deliver A Trump Victory 
+
+date: 2024-10-25, from: The Lever News
+
+ Unpacking the reasons why working-class Democratic stalwarts are shifting their alliance to Trump.  
+
+<br> 
+
+<https://www.levernews.com/why-the-working-class-could-deliver-a-trump-victory/>
+
+---
+
+## The World Has on Ambition Gap on Emissions, UN Says
+
+date: 2024-10-25, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MzgzMzk5NC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3Nzk2NTY0NH0.FZNTteCEXekA4tZnoKAAqSVR6oe_Mqj14f4mq1m33js/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>
+<em><strong>Current conditions:</strong> <em>Tropical Storm Dana touched down in India with 70 mile-per-hour winds, causing 600,000 people to be evacuated • Parts of the Northwestern U.S. and Canada’s British Columbia may see snow this weekend • Dallas is on track for its second-hottest October on record.</em></em>
+</p><h2>THE TOP FIVE</h2><h3>1. Global emissions policies have an ambition gap, UN finds</h3><p>
+	Only dramatic action on emissions over and above existing policy and pledges will keep warming below the targets set in the Paris Agreement, 
+	<a href="https://www.unep.org/resources/emissions-gap-report-2024?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_mRGIRo5JWUwZGTbC6PMbyHcaXi419rXd37KrLCdVB6v-sj89wBp24xGAMK7-yh_aXbSvh" rel="noopener noreferrer" target="_blank">according to this year’s United Nations Emissions Gap Report</a> released on Thursday.<br/>
+<br/>
+	“Unless global emissions in 2030 are brought below the levels implied by existing policies and current [Nationally Determined Contributions], it will become impossible to reach a pathway that would limit global warming to 1.5°C with no or limited overshoot,” <a href="https://www.unep.org/resources/emissions-gap-report-2024?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_mRGIRo5JWUwZGTbC6PMbyHcaXi419rXd37KrLCdVB6v-sj89wBp24xGAMK7-yh_aXbSvh" rel="noopener noreferrer" target="_blank">the report said</a>. Policy goals “must deliver a quantum leap in ambition in tandem with accelerated mitigation action in this decade.”<br/>
+<br/>
+	Greenhouse gas emissions rose by 1.2% in 2023, which is faster than the annual average rate of change in the 2010s. Current policies would likely deliver 2.9 degrees of warming by 2100, while warming might be limited to around 2.5 degrees if countries meet the policy commitments they’ve already made.
+</p><h3>2. Burned by politics</h3><p>
+	President Donald Trump 
+	<a href="https://www.eenews.net/articles/trump-ignored-disaster-aid-request-from-political-rival/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_mRGIRo5JWUwZGTbC6PMbyHcaXi419rXd37KrLCdVB6v-sj89wBp24xGAMK7-yh_aXbSvh" rel="noopener noreferrer" target="_blank">withheld disaster aid</a> following devastating wildfires in Washington State in 2020 due to his disagreements with Governor Jay Inslee over climate and Covid-19 policy, <a href="https://www.eenews.net/articles/trump-ignored-disaster-aid-request-from-political-rival/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_mRGIRo5JWUwZGTbC6PMbyHcaXi419rXd37KrLCdVB6v-sj89wBp24xGAMK7-yh_aXbSvh" rel="noopener noreferrer" target="_blank"><em>E&E News</em></a> reported. Trump “refused to act on Gov. Jay Inslee’s request for $37 million in federal disaster aid because of a bitter personal dispute with the Democratic governor,” reporters Thomas Frank and Scott Waldman wrote. President Biden approved the request for aid in early February, 2021. The reporters wrote <a href="https://www.eenews.net/articles/helene-isnt-the-first-time-trump-inserted-politics-into-a-natural-disaster/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_mRGIRo5JWUwZGTbC6PMbyHcaXi419rXd37KrLCdVB6v-sj89wBp24xGAMK7-yh_aXbSvh" rel="noopener noreferrer" target="_blank">earlier this month</a> that Trump had similarly waffled on disaster aid for California in 2018, only changing his mind after aides showed him how many votes he got in Orange County.
+</p><h3>3. The shale boom is getting quieter</h3><p>
+	Natural gas production from shale, the “tight” rocks that nearly always require hydraulic fracturing for gas production, has declined in the United States over the first nine months of the year, and may show its first annual decline since the Energy Information Administration started tracking shale production in 2000.
+	<br/>
+<br/>
+	Shale production fell over 1% through September, <a href="https://www.eia.gov/todayinenergy/detail.php?id=63506&utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_mRGIRo5JWUwZGTbC6PMbyHcaXi419rXd37KrLCdVB6v-sj89wBp24xGAMK7-yh_aXbSvh" rel="noopener noreferrer" target="_blank">according to EIA data</a>, to just over 81 billion cubic feet per day. The production declines are specific to geological formations in Texas and Louisiana, as well as the Appalachian Basin. They are likely driven by declining natural gas prices, <a href="https://www.eia.gov/todayinenergy/detail.php?id=62544&utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_mRGIRo5JWUwZGTbC6PMbyHcaXi419rXd37KrLCdVB6v-sj89wBp24xGAMK7-yh_aXbSvh" rel="noopener noreferrer" target="_blank">which fell to record lows earlier this year</a>.
+</p><h3>4. New research shows PFAS pervades U.S. groundwater</h3><p>
+	As many as 95 million people in the United States may rely on groundwater contaminated with PFAS, the perfluoroalkyls and polyfluoroalkyls otherwise known as “forever chemicals.”
+	<br/>
+<br/>
+	The United States Geological Survey <a href="https://www.science.org/doi/10.1126/science.ado6638?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_mRGIRo5JWUwZGTbC6PMbyHcaXi419rXd37KrLCdVB6v-sj89wBp24xGAMK7-yh_aXbSvh" rel="noopener noreferrer" target="_blank">study published in <em>Science</em></a> looked at the lower 48 states and used a predictive model to estimate how many people may have exposure to PFAS in their drinking water. The researchers first collected samples from “principal aquifers” — the large geologic formations that contain much of the nation’s groundwater — and then used those samples to predict PFAS concentrations throughout the drinking water system. The highest observed PFAS concentration was found in southern Florida.<br/>
+<br/>
+	PFAS can cause a range of negative health effects, including “<a href="https://dceg.cancer.gov/research/what-we-study/pfas?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_mRGIRo5JWUwZGTbC6PMbyHcaXi419rXd37KrLCdVB6v-sj89wBp24xGAMK7-yh_aXbSvh" rel="noopener noreferrer" target="_blank">kidney and testicular cancer</a>, <a href="https://pubmed.ncbi.nlm.nih.gov/36334833/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_mRGIRo5JWUwZGTbC6PMbyHcaXi419rXd37KrLCdVB6v-sj89wBp24xGAMK7-yh_aXbSvh#:~:text=Conclusion%3A%20Based%20on%20the%20evidence,in%20odds%20ratio%20for%20infertility." rel="noopener noreferrer" target="_blank">decreased fertility</a>, <a href="https://www.sciencedirect.com/science/article/pii/S0300483X21001682?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_mRGIRo5JWUwZGTbC6PMbyHcaXi419rXd37KrLCdVB6v-sj89wBp24xGAMK7-yh_aXbSvh#:~:text=Multiple%20epidemiological%20studies%20have%20reported,about%2010%20mg%2FdL)." rel="noopener noreferrer" target="_blank">elevated cholesterol</a>, <a href="https://www.sdu.dk/en/nyheder/forskere-finder-direkte-sammenhaeng-mellem-pfas-og-overvaegt?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_mRGIRo5JWUwZGTbC6PMbyHcaXi419rXd37KrLCdVB6v-sj89wBp24xGAMK7-yh_aXbSvh#:~:text=A%20new%20study%20finds%20that,body%20weight%20after%20weight%20loss." rel="noopener noreferrer" target="_blank">weight gain</a>, <a href="https://www.mountsinai.org/about/newsroom/2023/certain-per-and-polyfluoroalkyl-forever-chemicals-identified-as-potential-risk-factor-for-thyroid-cancer?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_mRGIRo5JWUwZGTbC6PMbyHcaXi419rXd37KrLCdVB6v-sj89wBp24xGAMK7-yh_aXbSvh#:~:text=Mount%20Sinai%20researchers%20have%20discovered,study%20published%20in%20eBioMedicine%20today." rel="noopener noreferrer" target="_blank">thyroid disease</a>, the pregnancy complication <a href="https://www.sciencedaily.com/releases/2021/11/211101190847.htm?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_mRGIRo5JWUwZGTbC6PMbyHcaXi419rXd37KrLCdVB6v-sj89wBp24xGAMK7-yh_aXbSvh" rel="noopener noreferrer" target="_blank">pre-eclampsia</a>, <a href="https://news.emory.edu/stories/2023/09/hs_PFAS_in_newborns_14-09-2023/story.html?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_mRGIRo5JWUwZGTbC6PMbyHcaXi419rXd37KrLCdVB6v-sj89wBp24xGAMK7-yh_aXbSvh" rel="noopener noreferrer" target="_blank">increased risk of preterm birth</a> and <a href="https://ehp.niehs.nih.gov/doi/10.1289/ehp10723?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_mRGIRo5JWUwZGTbC6PMbyHcaXi419rXd37KrLCdVB6v-sj89wBp24xGAMK7-yh_aXbSvh#:~:text=PFAS%20have%20been%20associated%20with,both%20animal%20and%20human%20studies.&text=Reductions%20in%20birthweight%20have%20been,and%20perfluorononanoic%20acid%20(PFNA)." rel="noopener noreferrer" target="_blank">low birth weight</a>, <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7926449/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_mRGIRo5JWUwZGTbC6PMbyHcaXi419rXd37KrLCdVB6v-sj89wBp24xGAMK7-yh_aXbSvh" rel="noopener noreferrer" target="_blank">hormone interference</a>, and <a href="https://pubmed.ncbi.nlm.nih.gov/37337047/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_mRGIRo5JWUwZGTbC6PMbyHcaXi419rXd37KrLCdVB6v-sj89wBp24xGAMK7-yh_aXbSvh#:~:text=Abstract,vaccination%20may%20modify%20such%20effects." rel="noopener noreferrer" target="_blank">reduced vaccine response in children</a>,” as my colleague Jeva Lange <a href="https://heatmap.news/lifestyle/raincoats-pfas-gore-tex-patagonia-rei?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_mRGIRo5JWUwZGTbC6PMbyHcaXi419rXd37KrLCdVB6v-sj89wBp24xGAMK7-yh_aXbSvh" target="_self">wrote earlier this year</a>. The model “indicate[s] widespread occurrence of PFAS in groundwater at depths of public and domestic drinking-water supplies,” the USGS researchers write.
+</p><h3>5. Record-breaking damages from Hurricane Helene</h3><p>
+			Damages from Hurricane Helene in North Carolina alone have added up to $53 billion, <a href="https://governor.nc.gov/news/press-releases/2024/10/24/governor-cooper-attends-north-carolina-state-fair-highlights-western-north-carolina-businesses?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_mRGIRo5JWUwZGTbC6PMbyHcaXi419rXd37KrLCdVB6v-sj89wBp24xGAMK7-yh_aXbSvh" target="_blank">the state’s governor Roy Cooper said</a>. The costs are the hurricane-prone state’s largest ever from a storm, and about three times the repairs from Hurricane Florence in 2018. Nearly 100 people were killed by the storm in North Carolina, <a href="https://www.nytimes.com/2024/10/22/us/helene-north-carolina-missing.html?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_mRGIRo5JWUwZGTbC6PMbyHcaXi419rXd37KrLCdVB6v-sj89wBp24xGAMK7-yh_aXbSvh" rel="noopener noreferrer" target="_blank">with some still missing</a>. Cooper requested almost $4 billion from the state legislature “to begin rebuilding critical infrastructure, homes, businesses, schools, and farms damaged during the storm.”</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="The aftermath of Hurricane Helene in North Carolina. " class="rm-shortcode" data-rm-shortcode-id="3b98460bd9277616757470a8cf1e601a" data-rm-shortcode-name="rebelmouse-image" id="c3190" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81Mzg4NjI4MS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2NzA0NTg5MH0.DSIKpOtWiKC_MijLn3lDkZJZ4sQdLDcnW705Z_oqIhw/image.jpg?width=980"/>
+<small class="image-media media-caption" placeholder="Add Photo Caption...">The aftermath of Hurricane Helene in North Carolina. </small><small class="image-media media-photo-credit" placeholder="Add Photo Credit...">Photo by Mario Tama/Getty Images</small></p><h2>THE KICKER</h2><p>
+<em><em>“It is also essential that we continue to cooperate on climate, technology, debt, trade. Climate change and technology are unleashing transformations to the global economy that require global response. Only by working together can we seize the opportunities and mitigate the risks of these great changes.”</em></em> — <a href="https://www.imf.org/en/News/Articles/2024/10/24/tr102424-transcript-of-gpa?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_mRGIRo5JWUwZGTbC6PMbyHcaXi419rXd37KrLCdVB6v-sj89wBp24xGAMK7-yh_aXbSvh" rel="noopener noreferrer" target="_blank">International Monetary Fund Managing Director Kristalina Georgieva</a> presenting the organization’s latest Global Policy Agenda on Thursday.</p> 
+
+<br> 
+
+<https://heatmap.news/climate/un-emissions-gap-trump-pfas>
+
+---
+
+## Union's rejection of Boeing offer threatens jobs at aerospace suppliers
+
+date: 2024-10-25, from: VOA News USA
+
+Striking workers' rejection of planemaker Boeing's BA.N latest contract offer has created a fresh threat to operations at aerospace suppliers such as family-run Independent Forge.  
+
+
+If the strike by more than 33,000 U.S. Boeing workers persists another month, the Orange County, California supplier might need to cut its operations from five to three days a week to save money and retain workers, president Andrew Flores said.  
+
+
+
+
+While Independent laid off a few employees already, letting more go is not an appealing option, he said. The 22 workers who remain are critical for the company, especially when the strike eventually ends and demand for its aluminum aircraft parts rebounds.  
+
+
+"They are the backbone of our shop," Flores said this week. "Their knowledge, I can't replace that."  
+
+
+Wednesday's vote by 64% of Boeing's West Coast factory workers against the company's latest contract offer, further idling assembly for nearly all of the planemaker's commercial jets, has created a fresh test for suppliers such as Independent, which opened in 1975.  
+
+
+Boeing's vast global network of suppliers that produce parts from sprawling modern factories or tiny garage workshops, was already stressed by the company's quality-and-safety crisis, which began in January after a mid-air panel blow-out on a new 737 MAX.   
+
+
+Demand for parts has dropped, hitting suppliers after they spent heavily to meet renewed demand for planes in the post-pandemic era.   
+
+
+How small suppliers such as Independent navigate the strike, which began on Sept. 13, is expected to affect Boeing's future ability to bring its plane production back online.   
+
+
+More job cuts?   
+
+
+Five Boeing suppliers interviewed by Reuters this week said continuation of the strike would cause them to furlough workers, freeze investment, or consider halting production.  
+
+
+Boeing declined comment.  
+
+
+Seattle-area supplier Pathfinder, which runs a project to attract young recruits to aerospace and trains them alongside its skilled workers, will likely need to lay off more employees, CEO Dave Trader said.  
+
+
+Pathfinder, which let go one-quarter of its 54 workers last month, will also need to send more of its aerospace students back to their high schools, instead of training them in the company's factories, Trader said.  
+
+
+Suppliers on a regular call on Thursday with Boeing supply-chain executives said they expect the strike will continue for weeks, one participant told Reuters.  
+
+
+About 60% of the 2.21 million Americans who work in the aerospace industry have jobs directly linked to the supply chain, according to the U.S. industry group Aerospace Industries Association.  
+
+
+Those suppliers' decisions to reduce staffing could create a vicious cycle, as they will put added strain on Boeing's efforts to restore and eventually increase 737 MAX output above a regulator-imposed cap of 38 after its factories re-open, analysts say.  
+
+
+"Once we get back, we have the task of restarting the factories and the supply chain, and it's much harder to turn this on than it is to turn it off," CEO Kelly Ortberg told an analyst call on Wednesday.  
+
+
+"The longer it goes on, the more it could trickle back into the supply chain and cause delays there," Southwest Airlines LUV.N Chief Operating Officer Andrew Watterson said of the strike on Thursday.   
+
+
+Shares of Boeing suppliers fell on Thursday. Howmet HWM.N lost 2%. Honeywell HON.O and Spirit AeroSystems SPR.N fell 5% and 3%, respectively, following weak results.  
+
+
+Spirit Aero, Boeing's key supplier, which has already announced the furlough of 700 workers on the 767 and 777 widebody programs for 21 days, has warned it would implement layoffs should the strike continue past November.  
+
+
+"It’s starting up the supply chain that is likely to be the biggest worry, especially if they have taken action to cut workers due to a lack of Boeing orders," Vertical Research Partners analyst Rob Stallard said by email.  
+
+
+A strained supply chain, Spirit Aero's challenges and increased regulatory oversight from the Federal Aviation Administration over MAX production, means it could take up to a year from the strike's end to get 737 output back to the 38-per-month rate, Stallard said. 
+
+<br> 
+
+<https://www.voanews.com/a/union-s-rejection-of-boeing-offer-threatens-jobs-at-aerospace-suppliers-/7838803.html>
+
+---
+
+## Workers want “human skills”, but are employers willing to train them?
+
+date: 2024-10-25, from: Marketplace Morning Report
+
+<p>Employees are overwhelmingly in favor of upskilling in areas we call &#8220;human skills&#8221;, which include things like leadership, communication, and adaptability, according to a recent survey. However, more than one in three workers say their jobs offer little to no opportunity to improve these skill sets. We look at what&#8217;s behind the gap. Plus, airline customers may find themselves bracing for higher ticket prices as companies report high demand for seats and less supply. And, we hear from one of the winners of this year&#8217;s Nobel Prize in Economics about why China&#8217;s economic model has succeeded thus far — and why it might face challenges in the future.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/25/mmr_20241025_MMR_Podcast_2_64.mp3"></source>
+</audio> <a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/25/mmr_20241025_MMR_Podcast_2_64.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/workers-want-human-skills-but-are-employers-willing-to-train-them>
+
+---
+
+## Japan’s election could bring more uncertainty
+
+date: 2024-10-25, from: Marketplace Morning Report
+
+<p><span class="NormalTextRun SCXW212839039 BCX8">From the BBC World </span><span class="NormalTextRun ContextualSpellingAndGrammarErrorV2Themed GrammarErrorHighlight SCXW212839039 BCX8">Service: </span>Japan&#8217;s snap election takes place on Sunday, just a month after Shigeru Ishiba took over as Prime Minister. A look at why it could bring more uncertainty. Plus, Venice has announced it will extend the city&#8217;s tourist tax as it attempts to deal with the rising number of visitors. And, we hear from a small firm in the north of Scotland that is developing eco-friendly packaging — made from onion peel.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/25/mmr_20241025_MMR_Podcast_1_64.mp3"></source>
+</audio> <a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/25/mmr_20241025_MMR_Podcast_1_64.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/japans-election-could-bring-more-uncertainty>
+
+---
+
+## Four astronauts return to Earth after being delayed by Boeing's capsule trouble, Hurricane Milton
+
+date: 2024-10-25, from: VOA News USA
+
+Four astronauts returned to Earth on Friday after a nearly eight-month space station stay extended by Boeing's capsule trouble and Hurricane Milton.
+
+
+A SpaceX capsule carrying the crew parachuted before dawn into the Gulf of Mexico just off the Florida coast after undocking from the International Space Station mid-week.
+
+
+The three Americans and one Russian should have been back two months ago. But their homecoming was stalled by problems with Boeing’s new Starliner astronaut capsule, which came back empty in September because of safety concerns. Then Hurricane Milton interfered, followed by another two weeks of high wind and rough seas.
+
+
+SpaceX launched the four — NASA's Matthew Dominick, Michael Barratt and Jeanette Epps, and Russia's Alexander Grebenkin — in March. Barratt, the only space veteran going into the mission, acknowledged the support teams back home that had “to replan, retool and kind of redo everything right along with us ... and helped us to roll with all those punches.”
+
+
+Their replacements are the two Starliner test pilots Butch Wilmore and Suni Williams, whose own mission went from eight days to eight months, and two astronauts launched by SpaceX four weeks ago. Those four will remain up there until February.
+
+
+The space station is now back to its normal crew size of seven — four Americans and three Russians — after months of overflow. 
+
+<br> 
+
+<https://www.voanews.com/a/four-astronauts-return-to-earth-after-being-delayed-by-boeing-s-capsule-trouble-hurricane-milton/7838673.html>
+
+---
+
+## India-China deal raises questions about US Indo-Pacific strategy
+
+date: 2024-10-25, from: VOA News USA
+
+NEW DELHI — This week's movement toward rapprochement between the leaders of China and India is raising questions about New Delhi's commitment to the Quad, the loose four-nation alliance widely seen as a U.S.-led bid to counter Chinese influence in the Indo-Pacific.
+
+
+India's participation in the grouping, which also includes Japan and Australia and is formally known as the Quadrilateral Security Dialogue, has been at least partly driven by a vexing border dispute that has seen repeated clashes between Chinese and Indian troops along their Himalayan border.
+
+
+Presidents Narendra Modi of India and Xi Jinping of China agreed Wednesday on the sidelines of the BRICS summit in Russia to reduce their differences and jointly work out a plan for patrolling the border. The agreement is expected to result in closer political and economic ties.
+
+
+"The thaw in India-China relations is a boon to both countries. This is particularly significant for China because India may now be less inclined to confront Beijing as part of Quad," Zhiqun Zhu, professor of political science and international affairs at Bucknell University, told VOA. "In this sense, the effectiveness of Quad would be diluted with a less enthusiastic India."
+
+
+India and China share certain common interests as the two largest developing nations. China was India's biggest trade partner last year, though there are signs that the U.S. might take its place this year.
+
+
+"This suggests that the U.S. may wish to push forward its Indo-Pacific strategy without relying too heavily on support from India," Zhu said.
+
+
+The Quad has served as an important element in the American effort to establish a network of alliances and partnerships to counter China's rising economic and military power, marked by its aggressive behavior in the Taiwan Strait and the South China Sea.
+
+
+"By remaining relatively informal, the Quad can quietly achieve many of the functions performed by NATO, up to and including military contingency planning," wrote James Jay Carafano, a security affairs expert, on the website of the Liechtenstein-based think tank Geopolitical Intelligence Services AG.
+
+
+China's state-run newspaper Global Times described the improved China-India relationship as a response to U.S. and Western European efforts to reduce their economic reliance on China, a process sometimes described as "decoupling."
+
+
+"In the context of the US 'decoupling' strategy, the strengthened cooperation between China and India takes on even greater significance," the paper said in an editorial published Thursday. "The pressures from the US 'decoupling' strategy and technological restrictions have heightened regional tensions and increased geopolitical risks for both nations."
+
+
+The editorial also said that the potential geopolitical shift has already generated market optimism. "It's based on the recognition of their complementary strengths and the vast opportunities for collaboration across diverse sectors, including manufacturing, infrastructure and sustainable development."
+
+
+Nevertheless, it is uncertain whether the border agreement will be sustained in the face of decades-old differences between the world's two most-populous countries.
+
+
+They fought a war in 1962 and were engaged in a border clash in 2020 in which 20 Indian and four Chinese soldiers died. There is some concern in India about whether China will in fact pull back troops in the disputed border areas and implement the agreement on the ground.
+
+
+India's External Affairs Minister Subrahmanyam Jaishankar said Thursday that "agreements, once reached, must be scrupulously respected" and "disputes and differences must be settled by dialogue and diplomacy." 
+
+<br> 
+
+<https://www.voanews.com/a/india-china-deal-raises-questions-about-us-indo-pacific-strategy-/7838623.html>
+
+---
+
+## Blinken shuttles around Mideast on peace quest
+
+date: 2024-10-25, from: VOA News USA
+
+U.S. Secretary of State Antony Blinken met with key negotiators Thursday to discuss a Mideast cease-fire during a stop in the negotiating hub of Qatar. The parties have spent months trying to broker an end to hostilities in Gaza and Lebanon and bring home about 100 hostages believed to still be held in Gaza. VOA White House correspondent Anita Powell has the story. 
+
+<br> 
+
+<https://www.voanews.com/a/blinken-shuttles-around-mideast-on-peace-quest/7838613.html>
+
+---
+
+## White House pushes for de-escalation in Mideast, warns North Korea for aiding Russia
+
+date: 2024-10-25, from: VOA News USA
+
+The Biden administration continues to push for a cease-fire between Israel and Hamas in Gaza and de-escalation between Israel and Hezbollah in Lebanon. In Europe, the administration has revealed intelligence that North Korean troops are being trained in Russia to help its war efforts.
+
+
+VOA White House bureau chief Patsy Widakuswara spoke with White House national security communications adviser John Kirby on the latest developments in the wars in the Middle East and Ukraine.
+
+
+This interview has been edited for clarity and brevity.
+
+
+VOA: [U.S.] Secretary [of State] Antony Blinken today warned Israel against a protracted campaign in Lebanon. He warned Israel to avoid civilian casualties, not to endanger U.N. peacekeepers and the Lebanese army. The only way Israel can do that is by operating a targeted campaign. Is it operating a targeted campaign?
+
+
+White House national security communications adviser John Kirby: We would like to see no civilian casualties and no damage to civilian infrastructure to the maximum extent possible. We have told the Israelis that we don't support near daily strikes in densely populated areas, and that's part of the message that [Blinken] delivered when he was there. We believe that there's still a diplomatic path to be found here to bring this conflict with Hezbollah and Lebanon to a close. That was one of the reasons that Secretary Blinken traveled there.
+
+
+VOA: Do you support Israeli demands for an expanded U.N. peacekeeping force to include north of the Litani River?
+
+
+Kirby: I'm not going to get into any specific proposals one way or the other. I don't think we're at that point right now. … What we support is de-escalation. What we support is minimization of civilian casualties and damage to civilian infrastructure. We also continue to support Israel's right to defend itself.
+
+
+VOA: What about Israel's efforts to dismantle Hezbollah infrastructure in Lebanon? How far can you accept the cost of that?
+
+
+Kirby: Look, they have done an extraordinary amount of work towards already dismantling Hezbollah's capability, including the killing of [Hassan Nasrallah], their leader. Hezbollah is not Hamas. They are in many ways superior in terms of military capability and resources. So, it's a different kind of a fight. It's a different kind of enemy that they face.
+
+
+And I would remind that even just in the last 24 hours, more than 100 rockets and drones [were] launched by Hezbollah towards Israeli citizens who are just trying to live their lives on that side of the Blue Line, as well. So, it remains a viable threat to the Israeli people, and we're going to continue to talk to the Israelis about how they go after that threat, because how they do that matters significantly.
+
+
+VOA: Ten days ago, the administration set a 30-day deadline for Israel to improve Palestinian access to aid. Can you update us on the progress?
+
+
+Kirby: There has been some progress, and as you heard Secretary Blinken say during his travels, more needs to be done. But there has been an increase of trucks flowing into North Gaza; specifically, the Erez Crossing is back open. We want to see more.
+
+
+VOA: Israel announced that Mossad chief David Barnea will meet with CIA Director Bill Burns and the Qatari prime minister in Doha. Is there anything about that meeting that you can tell us?
+
+
+Kirby: Without talking to the CIA director's travel or meetings, I won't do that. But you saw the prime minister already announced that there's another meeting in Doha of negotiators, and we're grateful to see this progress continue. We're grateful to see yet another meeting here, and we're hopeful that now, with Mr. Sinwar gone, Hamas might be more willing to sit down and negotiate in good faith and come up with a solution that gets a cease-fire of at least some duration, and gets those hostages home with their families where they belong, as well as to your earlier question, gives us a pause in the fighting that can help us all work towards a more dramatic increase in humanitarian assistance.
+
+
+I'm not suggesting that more can't be done now. Even while Gaza remains an active combat zone, more can be done, more should be done. But if you can end the fighting, then you can definitely make it easier to get humanitarian assistance.
+
+
+VOA: Does the administration see [Yahya Sinwar's brother] Mohamed Sinwar as somebody with influence on the negotiations?
+
+
+Kirby: I think it's unclear right now where the leadership of Hamas goes, and I would just say that we're watching this very, very closely, as you might imagine, monitoring it.
+
+
+Regardless of how Hamas tries to fill the vacuum left by Sinwar, they have an opportunity before them right now to help end this war, to get those hostages home and to do the right thing.
+
+
+VOA: Let's move on to North Korea and Russia. [Russian President] Vladimir Putin appears to have implicitly acknowledged what you laid out yesterday, that North Korean troops are in Russia to help their war efforts. How do you see this?
+
+
+Kirby: We see it the same way as we laid out yesterday. We know that there are at least several thousand North Korean soldiers in three military training bases in eastern Russia. Now, exactly what they're being trained to do, we don't know. Whether and how they'll be deployed in this war against Ukraine, we don't know that either. But it is a violation of U.N. Security Council resolutions that, I would remind you, Russia themselves signed up to. The procurement of arms and ammunition from North Korea is a violation of U.N. Security Council existing resolutions that Russia signed up to. We're going to watch this very, very closely.
+
+
+VOA: What is the geopolitical implication for Kim Jong Un now that he's willing to send his troops to die for Putin? Are you concerned that in return, Russia could help North Korea improve the reach of their ICBMs [intercontinental ballistic missiles] to hit American cities, for example?
+
+
+Kirby: That's what we're watching closely to see. We don't know exactly what Mr. Kim thinks he's getting out of this arrangement. And it's worrisome. As you heard the secretary of defense say the other day, this potential move here by the North Koreans to put soldiers on the ground, literally skin in the game when it comes to fighting Ukraine, is not only going to have implications in Ukraine and on that battlefield, but it's going to have implications in the Indo-Pacific.
+
+
+What we don't know right now is exactly what that looks like. What does Kim think he's getting out of this? It is possible that there could be some provision by Russia to enhance and improve North Korean military capabilities? Again, that would just further destabilize a very tense region.
+
+
+
+
+VOA: You said these North Korean soldiers are legitimate military targets. But would you consider taking direct military action against them as the head of the U.S. House Permanent Select Committee on Intelligence, Mike Turner, suggested?
+
+
+Kirby: The United States is not directly involved in combat operations in or around Ukraine. The president has been clear about that. We are providing Ukraine with the kinds of tools, capabilities and weapons that they need to defend themselves. And when we say they're legitimate military targets, these North Korean soldiers, we mean they would become legitimate military targets of the Ukrainian Armed Forces should they be involved in operations against Ukraine.
+
+
+VOA: China has said that they have no information on these North Korean troops. Do you believe them?
+
+
+Kirby: I'll let the Chinese speak to what they see or they don't see. What I said yesterday stands today. We're going to certainly be communicating with our PRC [People's Republic of China] counterparts about this.
+
+
+VOA: Last month you also confirmed that Iran transferred shipments of domestic missiles to Russia. Now we have these North Korean troops fighting for Russia. What is your assessment of this trilateral cooperation?
+
+
+Kirby: Number one, it certainly shows Mr. Putin's increasing desperation, and quite frankly, his weakness, that he has to reach out to the likes of Kim Jong Un and the supreme leader in Tehran for assistance to fight Ukraine. Clearly, he's under a lot of military pressure. We know he's losing 1,200 soldiers a day. He suffered more than 530,000 casualties in the time he's been fighting in Ukraine. So, he's clearly under pressure, and he's not ... being honest with the Russian people about what he's doing and what he's losing and how bloody and lethal this war has been on his own armed forces.
+
+
+Number two, I think it certainly speaks to worrisome defense relationships between these countries that are now growing and deepening. They're worrying not just because of what might be the effects in Ukraine, they're worrying because of what might be the effects in other parts of the world. You and I were just talking about what Kim Jong Un might be getting out of this. Let's talk about Iran, because Iran, certainly we know, is interested in advanced aviation capabilities, for instance, from Russia. Now, again, I don't know that we've seen it all consummated yet, but Iran being able to benefit from Russian military technology is also not good for the Middle East region. 
+
+<br> 
+
+<https://www.voanews.com/a/white-house-pushes-for-de-escalation-in-mideast-warns-north-korea-for-aiding-russia/7838604.html>
+
+---
+
+## Ship owner, manager in US bridge collapse agree to pay $102M for cleanup
+
+date: 2024-10-25, from: VOA News USA
+
+washington — The owner and manager of the cargo ship that caused the deadly Baltimore bridge collapse have agreed to pay more than $102 million in cleanup costs to settle a lawsuit brought by the Justice Department, officials said Thursday. 
+
+
+The settlement does not cover any damages for rebuilding the bridge, officials said in a news release announcing the agreement. That construction project could cost close to $2 billion. The state of Maryland has filed its own claim seeking those damages, among others. 
+
+
+The settlement comes a month after the Justice Department sued the ship's owner, Grace Ocean Private Ltd., and manager, Synergy Marine Group, both based in Singapore, seeking to recover funds from the cleanup. 
+
+
+The Justice Department alleged that the electrical and mechanical systems on the ship, the Dali, were improperly maintained, causing it to lose power and veer off course before striking a support column on the Francis Scott Key Bridge in March. The ship was leaving Baltimore for Sri Lanka when its steering failed because of the power loss. 
+
+
+Six men on a road crew, who were filling potholes during an overnight shift, fell to their deaths. Cleanup crews worked around the clock searching for bodies and removing thousands of tons of mangled steel and smashed concrete from the bottom of the Patapsco River. The Dali remained stuck amid the wreckage for almost two months, with collapsed steel trusses draped across the ship's damaged bow. 
+
+
+"This resolution ensures that the costs of the federal government's cleanup efforts in the Fort McHenry Channel are borne by Grace Ocean and Synergy and not the American taxpayer," Principal Deputy Associate Attorney General Benjamin Mizer said in a statement. 
+
+
+The collapse snarled commercial shipping traffic through the Port of Baltimore and put many local longshoremen out of work before the channel was fully opened in June. It interrupted East Coast shipping routes as the port is one of the busiest in the country, especially for cars and farm equipment. 
+
+
+Grace Ocean and Synergy filed a court petition just days after the collapse seeking to limit their legal liability in what could become the most expensive marine casualty case in history. 
+
+
+Court records show attorneys for both parties said in a joint filing Thursday that they had reached a settlement agreement and requested dismissal of the Justice Department's claim, which sought $103 million in cleanup costs. 
+
+
+The claim is one of many filed in an expansive liability case that will ultimately determine how much the ship's owner and manager will owe for their role in causing the disaster. The other claims are still unresolved. They've been filed on behalf of the victims' families, companies whose business has suffered as a result of the collapse, municipal entities and more. 
+
+<br> 
+
+<https://www.voanews.com/a/ship-owner-manager-in-us-bridge-collapse-agree-to-pay-102m-for-cleanup-/7838589.html>
+
+---
+
+## What’s better, a pension or a 401(k)?
+
+date: 2024-10-24, from: Market Place
+
+<p>Machinists who have been on strike against Boeing for over a month just rejected a second contract. A major sticking point? Pensions, which the company suspended 10 years ago, in favor of 401(k) contributions. In this episode, we weigh the pros and cons of each. Plus: Colorado&#8217;s oldest business will become a co-op, a tight housing market means fixer-uppers are cool again and recent hurricanes test the catastrophe bond market.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/24/pm_20241024_PM_Podcast_64.mp3"></source>
+</audio> <a href="https://play.podtrac.com/APM-Marketplace/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/24/pm_20241024_PM_Podcast_64.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace/whats-better-a-pension-or-a-401k>
+
+---
+
+## The Democratic Party Is Pro-Nuclear — and Ready to Talk About It
+
+date: 2024-10-24, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MzgzNjQyMi9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3ODc0NDAzMX0.JUYON_kEL13fzNRixAW69RZnXLLruY-AJd2ewn9TMKw/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">For as long as I’ve been an energy reporter, I’ve been asked a scoffing question by moderates and conservatives: If Democrats really cared about climate change, shouldn’t they embrace nuclear power?</p><p>It’s a fair question. Nuclear energy, after all, can produce vast amounts of electricity without emitting planet-warming greenhouse gas pollution. It already generates <a href="https://www.eia.gov/outlooks/steo/report/BTL/2023/02-genmix/article.php#:~:text=Electricity%20generation%20from%20coal%20falls,fall%20to%2037%25%20in%202024." rel="noopener noreferrer" target="_blank"><u>more zero-carbon electricity</u></a> in America than wind turbines and solar panels do combined; unlike renewables, it can provide power all day and night, even when the sun isn’t shining and the wind isn’t blowing. The countries that have seen the largest year-over-year drops in carbon pollution — e.g. <a href="https://ourworldindata.org/co2/country/france?country=FRA#what-are-the-country-s-annual-co2-emissions" rel="noopener noreferrer" target="_blank"><u>France</u></a> — have generally done so by building a new fleet of nuclear reactors.</p><p>It’s also a factual question. For years, even as Democrats railed against fossil fuels, they dilly-dallied on nuclear issues. The party’s leaders in statehouses and legislative chambers around the country worked to shut down aging nuclear reactors or approved nuclear-skeptical regulators. President Barack Obama cheered next-generation nuclear in speeches, but appointed extremely nuclear-skeptical regulators to oversee the industry. (One of his first appointees to the Nuclear Regulatory Commission, Gregory Jaczko, <a href="https://www.washingtonpost.com/outlook/i-oversaw-the-us-nuclear-power-industry-now-i-think-it-should-be-banned/2019/05/16/a3b8be52-71db-11e9-9eb4-0828f5389013_story.html" rel="noopener noreferrer" target="_blank"><u>has called for a global ban</u></a> on nuclear energy since leaving the government.)</p><p>Even though nuclear reactors produced most of America’s zero-carbon electricity, they remained the, well, <a href="https://en.wikipedia.org/wiki/Cherenkov_radiation" rel="noopener noreferrer" target="_blank"><u>glowing-blue-haired</u></a> step-child of America’s grid: Democrats regularly railed against fossil fuels, and they felt comfortable paying lip service to far-off atomic technologies, but they did not lavish nuclear with the unqualified support that they gave renewables. Instead, they let the nuclear industry slip into senescence. This mild toleration was punctuated by moments of extreme cognitive dissonance, such as when New York Governor Andrew Cuomo <a href="https://www.nyserda.ny.gov/About/Newsroom/2021-Announcements/2021-04-29-Governor-Cuomo-Announces-Successful-Closure-of-Indian-Point-Nuclear-Power-Plant" rel="noopener noreferrer" target="_blank"><u>shut down the Indian Point nuclear power plant</u></a> in 2021 without lining up new zero-carbon generation to replace it — <a href="https://www.theguardian.com/environment/2024/mar/20/nuclear-plant-closure-carbon-emissions-new-york" rel="noopener noreferrer" target="_blank"><u>leading the state’s carbon emissions to soar</u></a>. </p><p>Of course, Democrats didn’t have to do much to kill nuclear: At the same time, the market was doing a perfectly good job of it. As cheap natural gas flooded the American energy system in the 2010s, more and more nuclear plants became too expensive to run. From 2012 to 2022, 12 nuclear reactors <a href="https://crsreports.congress.gov/product/pdf/R/R46820/3#:~:text=Twelve%20U.S.%20nuclear%20power%20reactors,%25%20of%20U.S.%20nuclear%20capacity)." rel="noopener noreferrer" target="_blank"><u>shut down in the U.S.</u></a>, taking nearly 10,000 megawatts of low-carbon generation offline.</p><p>That was the status quo as recently as 2020 or even 2022. And it has remained the status quo in energy commentary. “What role, if any, does [Vice President Kamala Harris] see for nuclear power in her energy and climate plans?” <a href="https://www.nytimes.com/2024/09/17/opinion/kamala-harris-election.html" rel="noopener noreferrer" target="_blank"><u>asked</u></a> <em><em>The New York Times </em></em>columnist Bret Stephens last month, in a column titled “What Harris Must Do to Win Over Skeptics (Like Me).” At the vice presidential debate earlier this month, Republican nominee JD Vance even alluded to the argument amid a broader paean to fossil fuels. “If you really want to make the environment cleaner, you've got to invest in more energy production,” Vance said. “We haven't built a nuclear facility — I think one — in the past 40 years.”</p><p>In fact, Vance is wrong: The United States recently turned on <a href="https://www.eia.gov/todayinenergy/detail.php?id=57280#:~:text=The%20first%20commercial%20nuclear%20power,reactor%20came%20online%20in%202016." rel="noopener noreferrer" target="_blank"><u>two new nuclear reactors</u></a> in Georgia — the first newly built reactors in America in 30 years. But this idea — <em><em>Why aren’t we building more nuclear reactors? Why don’t Democrats do more to help nuclear? — </em></em>has been a throughline of energy punditry since well before Vance was a best-selling author. </p><p>So I want to intervene in this conversation and note that the answer has now changed. Democrats are a pro-nuclear party now — not uniformly, but then again, <a href="https://heatmap.news/technology/trump-musk-live" target="_self"><u>neither are Republicans</u></a>. Over the past several years, Democratic lawmakers and officials have adopted a slate of aggressively pro-nuclear policies and characterized the technology as pro-climate. Secretary of Energy Jennifer Granholm has called for America <a href="https://heatmap.news/technology/trump-musk-live" target="_self"><u>to build a new wave</u></a> of <em><em>conventional</em></em> nuclear reactors — going much further than Obama ever did. Sometimes working with Republicans — but sometimes working alone, too — Democrats have pushed billions of dollars of support toward conventional nuclear reactors and the nascent advanced nuclear industry.<br/></p><p>It’s worth stepping back here and going over what has actually changed.</p><p>For the past 10 years at least, both parties have been credibly committed to building up the advanced nuclear industry — the theoretical next generation of nuclear reactors that will be smaller, cleaner, and safer than the behemoths built during the Cold War. During the Trump administration, Congress <a href="https://www.energy.gov/articles/president-trump-signs-bill-boost-advanced-nuclear-america" rel="noopener noreferrer" target="_blank"><u>passed</u></a> a bipartisan bill meant to push along the advanced nuclear industry. It also <a href="https://clearpath.org/our-take/the-energy-act-of-2020-a-monumental-climate-and-clean-energy-bill/" rel="noopener noreferrer" target="_blank"><u>passed</u></a> the Energy Act of 2020, which authorized a demonstration program for advanced nuclear reactors.</p><p>The Biden administration has continued this support. The bipartisan infrastructure law created <a href="https://www.energy.gov/gdo/civil-nuclear-credit-program" rel="noopener noreferrer" target="_blank"><u>a $6 billion program</u></a> that would pay existing nuclear power plants to stay open. At least <a href="https://www.energy.gov/gdo/civil-nuclear-credit-award-cycle-1" rel="noopener noreferrer" target="_blank"><u>$1.1 billion of that money</u></a> will go to keeping Diablo Canyon, California’s only operating nuclear facility and its largest power plant, from shutting down; it was originally slated to close in 2025.</p><p>Earlier this year, Biden also <a href="https://environmentamerica.org/updates/feds-extend-nuclear-power-subsidy/" rel="noopener noreferrer" target="_blank"><u>extended</u></a> a key program that indemnifies the nuclear industry for the cost of nuclear accidents and disasters above $16.1 billion.</p><p>But perhaps the most important nuclear law passed in the past five years is the Inflation Reduction Act, the Biden administration’s signature climate package. For the first time ever, that law embraced the idea of “technology neutrality,” which means that electricity generated by nuclear reactors is now on the same footing as power from wind turbines or solar panels. If a method of electricity generation emits almost no carbon, then the government subsidizes it under the IRA.</p><p>The law is already helping restart nuclear reactors that have recently closed such as the Palisades reactor in Michigan and Three Mile Island in Pennsylvania. The utility giant NextEra is also <a href="https://www.reuters.com/business/energy/nextera-beats-third-quarter-profit-estimates-renewables-strength-2024-10-23/" rel="noopener noreferrer" target="_blank"><u>exploring plans to restart</u></a> the Duane Arnold nuclear plant in Iowa, which closed in 2020. If those go through, then it will be able to take advantage of Inflation Reduction Act funding, as well. </p><p>Lawmakers from both parties have continued to back advanced nuclear research and deployment. Under Biden, Congress passed <a href="https://www.congress.gov/bill/118th-congress/senate-bill/1111/text" rel="noopener noreferrer" target="_blank"><u>the ADVANCE Act</u></a>, containing <a href="https://heatmap.news/podcast/shift-key-episode-21-advance-act" target="_self"><u>a hodgepodge of policies</u></a> meant to help the advanced nuclear industry. Among other changes, it instructs the Nuclear Regulatory Commission to move faster when approving new reactor designs, and it changes that agency’s mission statement to more affirmatively support nuclear development.</p><p>Biden administration officials haven’t just backed that legislation, they’ve also asserted that it will “help us build new reactors at a clip that we haven’t seen since the 1970s,” as Michael Goff, who leads the Energy Department’s nuclear office, <a href="https://www.energy.gov/ne/articles/newly-signed-bill-will-boost-nuclear-reactor-deployment-united-states" rel="noopener noreferrer" target="_blank"><u>bragged</u></a> in a statement. </p><p>The irony is that nuclear plants are now doing well enough that Congress has clawed back some of the money from the bipartisan infrastructure law. The industry, seemingly, doesn’t need it any more, and no additional nuclear reactors have been scheduled to shut down. In 2024, Congress stripped up to $3.7 billion to pay for a program to produce a type of high-assay used in next-generation nuclear reactors. </p><p>Democrats have begun to brag about their nuclear policymaking efforts on the campaign trail, as well. In <a href="https://www.nytimes.com/2024/08/16/us/politics/kamala-harris-raleigh-nc-economy.html" rel="noopener noreferrer" target="_blank"><u>her speech on economic policy</u></a> earlier this month, Kamala Harris included “advanced nuclear” in a list of technologies that her administration would support. </p><p>“We will invest in biomanufacturing and aerospace; remain dominant in AI and quantum computing, blockchain and other emerging technologies; expand our lead in clean energy innovation and manufacturing,” she said, “so the next generation of breakthroughs — from advanced batteries to geothermal to advanced nuclear — are not just invented but built here in America by American workers.” </p><p>The party’s Senate candidates <a href="https://www.huffpost.com/entry/democrats-election-nuclear_n_6712ccc1e4b0e2b6e54c0e1c" rel="noopener noreferrer" target="_blank"><u>have become</u></a> even more positive about nuclear energy. Candidates in Arizona, Michigan, Florida, and Texas have all backed nuclear power, as the reporter Alexander Kaufman at <em><em>Huffpost </em></em><a href="https://www.huffpost.com/entry/democrats-election-nuclear_n_6712ccc1e4b0e2b6e54c0e1c" rel="noopener noreferrer" target="_blank"><u>has shown</u></a>. </p><p>This transformation has happened even though the big big environmental groups that have historically set the party’s energy priorities have <em><em>not </em></em>changed their mind on nuclear. Although many green groups <a href="https://www.nytimes.com/2023/11/08/us/environment-funding-nuclear-climate-change.html" rel="noopener noreferrer" target="_blank"><u>have scaled back</u></a> or defunded their anti-nuclear activism, their rhetoric remains staunchly anti-nuclear. The Sierra Club <a href="https://www.sierraclub.org/nuclear-free" rel="noopener noreferrer" target="_blank"><u>calls</u></a> nuclear power a “uniquely dangerous energy technology for humanity” and states on its website: “The Sierra Club remains unequivocally opposed to nuclear energy.” </p><p>The party’s approach to nuclear hasn’t informed all its policy yet. The Biden administration’s nominations to the Nuclear Regulatory Commission <a href="https://thebreakthrough.org/journal/no-20-spring-2024/matthew-marzano-is-exactly-who-i-said-he-was" rel="noopener noreferrer" target="_blank"><u>have been criticized</u></a> by pro-nuclear advocates for continuing the status quo or for not knowing enough about the advanced nuclear industry. </p><p>But Democrats are, by any measure, much more pro-nuclear now than they were 10 years ago — and <em><em>much </em></em>more pro-nuclear than they were a decade before that. (It’s often forgotten now that President Bill Clinton’s would-be climate policy, <a href="https://www.carbontax.org/some-history/" rel="noopener noreferrer" target="_blank"><u>the BTU tax</u></a>, also would have levied a fee on nuclear reactors.) Republicans also remain fairly pro-nuclear: Donald Trump <a href="https://nypost.com/2024/08/29/us-news/trump-vows-to-make-electricity-cheap-with-hundreds-of-new-power-plants-and-modular-nuclear-reactors/" rel="noopener noreferrer" target="_blank"><u>has promised</u></a> to approve “hundreds of new power plants,” including “new reactors,” during his presidency.</p><p>What remains unclear is whether both parties can persist in this new pro-nuclear formation. Nuclear energy is popular with a majority of the public, but only just; 56% of Americans <a href="https://www.pewresearch.org/short-reads/2024/08/05/majority-of-americans-support-more-nuclear-power-in-the-country/" rel="noopener noreferrer" target="_blank"><u>favor building more nuclear power plants</u></a>, according to the Pew Research Center. And there are signs, if you squint, of a potential coming era of GOP skepticism of nuclear power — part of <a href="https://www.nytimes.com/2024/09/20/opinion/liberal-conservative-crank-realignment.html" rel="noopener noreferrer" target="_blank"><u>the party’s broader turn</u></a> against science and high-trust institutions. </p><p>Signs like: Robert F. Kennedy, Jr., who <a href="https://www.reuters.com/world/us/trump-adds-rfk-jr-gabbard-transition-team-2024-08-27/" rel="noopener noreferrer" target="_blank"><u>has been added</u></a> to Trump’s transition team, <a href="https://www.ans.org/news/article-5111/rfk-jr-elon-musk-talk-nuclear-energy/" rel="noopener noreferrer" target="_blank"><u>believes</u></a> that nuclear power is unsafe and uneconomical. Even Trump himself, in conversation with Elon Musk, <a href="https://heatmap.news/technology/trump-musk-live" target="_self"><u>has worried</u></a> about “nuclear warming” — it’s not clear what he was talking about, but it might be nuclear war — and said that nuclear has a “branding problem.” Even if Trump continues to support the idea of building “new reactors,” his potentially illegal plan <a href="https://www.politico.com/news/2024/09/05/trump-inflation-reduction-act-00177493" rel="noopener noreferrer" target="_blank"><u>to claw back</u></a> the Inflation Reduction Act’s unspent funding may lead to pandemonium in the sector. If the nuclear industry is now planning on receiving IRA subsidies, then ending those subsidies — especially in a messy or chaotic way — could spell disaster.</p><p>There are identity-driven reasons for Republicans to turn on nuclear, too: The nuclear energy industry is <a href="https://www.energy.gov/ne/articles/5-workforce-trends-nuclear-energy#:~:text=Nuclear%20is%20more%20unionized%20than,collective%20bargaining%20agreement%20in%202023." rel="noopener noreferrer" target="_blank"><u>more unionized</u></a> than any other energy source, and it requires a highly institutionalized and educated workforce. (Yet not all the trends augur a realignment: Nuclear power <a href="https://www.vox.com/2015/5/27/8665401/nuclear-power-gender" rel="noopener noreferrer" target="_blank"><u>remains much more popular</u></a> with men than women.)</p><p>For now, though, both parties — including Democrats — support building new nuclear power plants. The economics are good for once, too. The question now is how long that will hold.</p> 
+
+<br> 
+
+<https://heatmap.news/politics/democrats-nuclear>
+
+---
+
+## Biden administration approves Nevada lithium mine
+
+date: 2024-10-24, from: VOA News USA
+
+The U.S. Interior Department on Thursday gave final approval to ioneer's Rhyolite Ridge lithium mine in Nevada, the first domestic source of the battery metal to be permitted by President Joe Biden's administration and one that will become a key supplier to Ford and other electric vehicle manufacturers. 
+
+
+Shares of the Australia-based critical minerals miner jumped more than 20% in New York trading on Thursday afternoon before easing down. 
+
+
+The approval ends a more-than six-year review process during which regulators, ioneer and conservationists tussled over the fate of a rare flower found at the mine site, a tension that exposed the sometimes competing priorities between climate change mitigation efforts and biodiversity protection. 
+
+
+The permit, which had been expected by the end of the year, comes amid a flurry of recent moves by Biden officials to support critical minerals production and offset China's market dominance.  
+
+
+It also unlocks a $700 million loan from the U.S. Department of Energy, as well as a $490 million equity investment from Sibanye Stillwater to fund the project. 
+
+
+"This is a science-based decision," Laura Daniel-Davis, the Interior Department's acting deputy secretary, told Reuters. "We're trying to send a signal that there's no topic with greater importance than addressing climate change." 
+
+
+The U.S. Bureau of Land Management, which is controlled by the Interior Department, on Thursday issued the Rhyolite Ridge project's record of decision — essentially the mine's permit — and said the project will "include significant protections for the local ecosystem" and help create hundreds of jobs in the rural region.  
+
+
+The project, roughly 362 kilometers north of Las Vegas, Nevada, contains enough lithium to power roughly 370,000 electric vehicles each year. Construction is slated to begin next year, with production commencing by 2028, a timeline that would make Rhyolite Ridge one of the largest U.S. lithium producers alongside Albemarle and Lithium Americas. 
+
+
+The U.S. Geological Survey has labeled lithium a critical mineral vital for the U.S. economy and national security.  
+
+
+"We're proud to be the first U.S. lithium mine permitted by the Biden administration," James Calaway, ioneer's chairman, told Reuters. 
+
+
+The project will extract lithium as well as boron, a chemical used to make ceramics and soaps, from a clay-like deposit. The lithium will be processed on site into two main derivatives used to make batteries, and the company said it plans to recycle half of all the water used at the site, higher than the industry average. 
+
+
+Ford and a joint venture between Toyota and Panasonic have agreed to buy lithium from the mine. 
+
+<br> 
+
+<https://www.voanews.com/a/biden-administration-approves-nevada-lithium-mine-/7838129.html>
+
+---
+
+## How We Survive: The Last Frontier
+
+date: 2024-10-24, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p>Hey Smarties! We&#8217;re on the road to Boston for a live taping of &#8220;Make Me Smart&#8221; with special guest, historian Heather Cox Richardson. So today we’re bringing you an episode from the latest season of &#8220;How We Survive,&#8221; Marketplace’s climate solutions podcast. In this episode, Kai Ryssdal and the &#8220;How We Survive&#8221; team head to the very, very top of Alaska to understand how climate change and national security are converging in the Arctic.</p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>Want to join Kai Ryssdal and Kimberly Adams for our live taping of “Make Me Smart” in Boston on Oct. 25? In-person tickets are sold out, but you can still join us virtually. <a href="https://ci.ovationtix.com/35123/production/1209492?performanceId=11506951">Get your tickets here.</a></p>
+<p><!-- /wp:paragraph --></p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://play.podtrac.com/APM-MakeMeSmart/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/24/mms_20241024_MMS_128.mp3"></source>
+</audio> <a href="https://play.podtrac.com/APM-MakeMeSmart/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/24/mms_20241024_MMS_128.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/how-we-survive-the-last-frontier>
+
+---
+
+## L.A. County’s Homelessness Initiative Is Also About Seeing Black People
+
+date: 2024-10-24, from: Capital and Main
+
+<p>One-third of the region’s unhoused are Black. Funding services could be a start to investing in the equality we all need, instead of seeing it as a luxury we can’t afford — or some don’t deserve.</p>
+<p>The post <a href="https://capitalandmain.com/l-a-countys-homelessness-initiative-is-also-about-seeing-black-people">L.A. County’s Homelessness Initiative Is Also About Seeing Black People</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/l-a-countys-homelessness-initiative-is-also-about-seeing-black-people>
+
+---
+
+## How AI Can Automate AI Research and Development
+
+date: 2024-10-24, updated: 2024-10-24, from: RAND blog
+
+Technology companies are using AI itself to accelerate research and development for next-generation AI technologies, a trend that could lead to risks from rapid, unchecked technological evolution. To prepare, policymakers and the public should be paying attention and planning for an AI-driven future. 
+
+<br> 
+
+<https://www.rand.org/pubs/commentary/2024/10/how-ai-can-automate-ai-research-and-development.html>
+
+---
+
+## What Does Elon Musk Want? SpaceX CEO May Pose a Risk to National Security
+
+date: 2024-10-24, updated: 2024-10-24, from: RAND blog
+
+Having shown they can build ingenious technologies, SpaceX and other companies have become critical government partners. If those partnerships are to remain sustainable, both industry and government need to better understand what makes partners reliable. For any organization, that means prioritizing the health, skills, and needs of its workforce. 
+
+<br> 
+
+<https://www.rand.org/pubs/commentary/2024/10/what-does-elon-musk-want-spacex-ceo-may-pose-a-risk.html>
+
+---
+
+## Washington Has Deftly Handled the Pacific Islands Region—for the Most Part
+
+date: 2024-10-24, updated: 2024-10-24, from: RAND blog
+
+Overall, Washington has done very important things in the Pacific Islands region, albeit with some notable shortcomings over the last several years. The next administration is poised to continue this engagement, no matter who wins the election. 
+
+<br> 
+
+<https://www.rand.org/pubs/commentary/2024/10/washington-has-deftly-handled-the-pacific-islands-region.html>
+
+---
+
+## Fewer Americans trust the news; the question is why
+
+date: 2024-10-24, from: VOA News USA
+
+Polls show that Americans’ trust in news reporting is at an all-time low. And while the decline has many causes, it reflects both the changing media landscape and the values of media consumers.
+
+
+Nearly 250 years since the principle was enshrined in the U.S. Constitution, a majority of Americans still agree that a free press is crucial to a democratic society, according to polling by the Pew Research Center. But how they feel about the existing press is a different matter.
+
+
+The same polls show that only one-third of Americans believes the country’s media report the news objectively. And a September Gallup poll reveals that Americans’ overall trust in mass media has declined to an all-time low of 32%.
+
+
+Much of the narrative around declining faith in media has been shaped by political partisanship. The last time that America saw such low levels of media confidence was in 2016, when Donald Trump amplified longstanding conservative complaints about liberal media bias by attacking critical coverage of his presidential campaign as “fake news.”
+
+
+Accordingly, self-identified Republicans report less trust in media, reaching a low of 11% compared with 58% for Democrats.
+
+
+However, partisan trends don’t capture the whole picture. While partisan divergence in media confidence significantly widened during the presidency of Republican George W. Bush, overall trust in media institutions has been declining for supporters of both parties as well as independents since Gallup first began tracking it in the 1970s.
+
+
+The rise of partisan cable news networks in the 1990s and digital news, along with social media in the 2000s, has reflected and exacerbated this trend. And dissatisfaction with perceived bias in coverage of conflicts such as the Iraq War or Israel's invasion of Gaza has also reduced trust in traditional news sources among left-leaning Americans, often driving them toward unreliable alternative sources.
+
+
+As Americans lose trust in traditional media, they also engage less with it. While over half of adults in the U.S. now report getting their news from social media, audiences and advertising revenue have shrunk when it comes to newspapers and TV news.
+
+
+In fact, part of the story behind declining trust in media is Americans across the political spectrum becoming less interested in news overall. Nearly two-thirds of Americans are experiencing news fatigue while 38% report that they follow the news closely, compared with 51% in 2016.
+
+
+Do Americans want independent journalism?
+
+
+The simultaneous loss of trust and interest in news media has raised questions beyond simple accusations of partisan bias. While criticism of the media often focuses on whether the core principles of independent journalism are being upheld, the principles themselves may not be popular.
+
+
+A recent study by the Media Insight Project found that common journalistic values such as amplifying marginalized voices, holding power to account or increasing public transparency do not enjoy majority support.
+
+
+In fact, such values may not be as integral to journalism as is commonly believed. As Columbia University journalism professor Michael Schudson writes, the modern idea of journalism as an independent investigative force and a check on government power has been a fairly recent development.
+
+
+And amid today’s rapid social, political and technological changes, the role that people expect journalism to play in society may once again be shifting. 
+
+<br> 
+
+<https://www.voanews.com/a/fewer-americans-trust-the-news-the-question-is-why/7837953.html>
+
+---
+
+## Locked Up and in Limbo: Immigrants Win Their Cases But Remain in ICE Custody
+
+date: 2024-10-24, from: Capital and Main
+
+<p>Facing torture if returned to their homelands, immigrants are detained for years as appeals drag on.</p>
+<p>The post <a href="https://capitalandmain.com/locked-up-and-in-limbo-immigrants-win-their-cases-but-remain-in-ice-custody">Locked Up and in Limbo: Immigrants Win Their Cases But Remain in ICE Custody</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/locked-up-and-in-limbo-immigrants-win-their-cases-but-remain-in-ice-custody>
+
+---
+
+## US military, intelligence agencies ordered to embrace AI
+
+date: 2024-10-24, from: VOA News USA
+
+washington  — The Pentagon and U.S. intelligence agencies have new marching orders — to more quickly embrace and deploy artificial intelligence as a matter of national security.
+
+
+U.S. President Joe Biden signed the directive, part of a new national security memorandum, on Thursday. The goal is to make sure the United States remains a leader in AI technology while also aiming to prevent the country from falling victim to AI tools wielded by adversaries like China.
+
+
+The memo, which calls AI “an era-defining technology,” also lays out guidelines that the White House says are designed to prevent the use of AI to harm civil liberties or human rights.
+
+
+The new rules will “ensure that our national security agencies are adopting these technologies in ways that align with our values,” a senior administration official told reporters, speaking about the memo on the condition of anonymity before its official release.
+
+
+The official added that a failure to more quickly adopt AI “could put us at risk of a strategic surprise by our rivals.”
+
+
+“Because countries like China recognize similar opportunities to modernize and revolutionize their own military and intelligence capabilities using artificial intelligence, it's particularly imperative that we accelerate our national security community's adoption and use of cutting-edge AI,” the official said.
+
+
+But some civil liberties advocates are raising concerns that the new guidelines lack sufficient safeguards.
+
+
+“Despite acknowledging the considerable risks of AI, this policy does not go nearly far enough to protect us from dangerous and unaccountable AI systems,” according to a statement from the American Civil Liberties Union’s Patrick Toomey.
+
+
+“National security agencies must not be left to police themselves as they increasingly subject people in the United States to powerful new technologies,” said Toomey, who serves as deputy director of ACLU’s National Security Project.
+
+
+The new guidelines build on an executive order issued last year that directed all U.S. government agencies to craft policies for how they intend to use AI.
+
+
+They also seek to address issues that could hamper Washington’s ability to more quickly incorporate AI into national security systems.
+
+
+Provisions outlined in the memo call for a range of actions to protect the supply chains that produce advanced computer chips critical for AI systems. It also calls for additional actions to combat economic espionage that would allow U.S. adversaries or non-U.S. companies from stealing critical innovations.
+
+
+“We have to get this right, because there is probably no other technology that will be more critical to our national security in the years ahead,” said White House National Security Adviser Jake Sullivan, addressing an audience at the National Defense University in Washington on Thursday.
+
+
+“The stakes are high,” he said. “If we don't act more intentionally to seize our advantages, if we don't deploy AI more quickly and more comprehensively to strengthen our national security, we risk squandering our hard-earned lead.
+
+
+“We could have the best team but lose because we didn't put it on the field,” he added.
+
+
+Although the memo prioritizes the implementation of AI technologies to safeguard U.S. interests, it also directs officials to work with allies and others to create a stable framework for use of AI technologies across the globe.
+
+
+“A big part of the national security memorandum is actually setting out some basic principles,” Sullivan said, citing ongoing talks with the G-7 and AI-related resolutions at the United Nations.
+
+
+“We need to ensure that people around the world are able to seize the benefits and mitigate the risks,” he said. 
+
+<br> 
+
+<https://www.voanews.com/a/us-military-intelligence-agencies-ordered-to-embrace-ai-/7837756.html>
+
+---
+
+## Blinken announces $135M in additional US aid for Palestinians
+
+date: 2024-10-24, from: VOA News USA
+
+State Department — In a latest diplomatic push to end the conflicts in the Gaza Strip and Lebanon, U.S. Secretary of State Antony Blinken said Thursday that negotiators will meet "in the coming days.” He also announced $135 million in additional U.S. aid for Palestinian civilians.
+
+
+“In referring to negotiators coming back together, that was referring specifically to negotiations on the return of hostages and a cease-fire for Gaza, and that is the entire focus of their work. Separate from that is work that we're doing, also very intensely, on Lebanon to reach a diplomatic resolution,” Blinken said during a press conference in Doha, Qatar, alongside Sheikh Mohammed bin Abdulrahman Al Thani, Qatar's prime minister and foreign minister. 
+
+
+The United States is in discussions with regional counterparts on a plan that allows Israel to withdraw from Gaza, ensures that Hamas cannot reconstitute and supports the Palestinian people in governing, securing and rebuilding Gaza.
+
+
+More humanitarian aid
+
+
+“Today, we're announcing an additional $135 million in humanitarian assistance, water, sanitation, maternal health for Palestinians in Gaza, in the West Bank, as well as in the region,” Blinken said.
+
+
+He emphasized the urgency of addressing the humanitarian crisis in Gaza, noting the extraordinary challenges faced daily by people there. “That's all the more urgent with winter approaching,” Blinken said.
+
+
+
+
+This announcement brings total U.S. humanitarian aid to more than $1.2 billion since Oct. 7 of last year.
+
+
+Meanwhile, France hosted an international conference Thursday in Paris to raise funds to help those affected by the war between Israel and Hezbollah in Lebanon.
+
+
+France announced a pledge of $108 million, while Germany said it is contributing $103 million for aid in Lebanon.
+
+
+
+
+Cease-fire talks
+
+
+It remains unclear whether Hamas is prepared to engage in the upcoming cease-fire talks after the death of its leader, Yahya Sinwar.
+
+
+"We are closely coordinated with Egypt on any kind of initiatives that will emerge on the table. Today, there [is] an ongoing discussion between Egypt and Hamas. We hope that these discussions will yield to something positive. And the discussion that will come afterward, it will be a follow-up for that," Qatar's Al Thani told reporters.
+
+
+Al Thani added that U.S. negotiators will meet soon with Israeli counterparts in Doha to attempt a breakthrough.
+
+
+Israeli Prime Minister Benjamin Netanyahu said Thursday that he welcomed Egypt's efforts in attempting to broker a deal that would bring Israeli hostages held in Gaza home.  
+
+
+
+
+Earlier this week, a report by the U.N. Conference on Trade and Development painted a grim picture of the economic impact of the Israeli military operation in Gaza from October 2023 to May 2024.
+
+
+The report said that even if the war were to end tomorrow, it could take 350 years for Gaza's devastated economy to recover to the fragile state it had been in before the Israel-Hamas war started in October 2023.
+
+
+‘General's Plan’
+
+
+On Thursday, Blinken renewed the United States' opposition to any Israeli reoccupation of post-war Gaza and "fully and fundamentally" rejected the so-called Generals’ Plan, a proposal by retired Israeli generals allegedly aimed at blocking humanitarian aid to northern Gaza to starve out Hamas terrorists.
+
+
+Blinken also said that Israeli Prime Minister Benjamin Netanyahu assured him during their meetings that this is not the policy of the Israeli government. "The government of Israel says that it is not the policy of Israel," Blinken told reporters.
+
+
+In a video message to the Paris aid conference, U.N. Secretary-General Antonio Guterres called for an immediate cease-fire and urged meaningful steps toward full implementation of Security Council Resolutions 1559 and 1701, which call for the long-term disarmament of Hezbollah and the withdrawal of Israeli forces from Lebanon.
+
+
+
+
+Guterres noted that more than 1.2 million people have been displaced or affected by fighting in Lebanon.
+
+
+“I call on Lebanon's leaders to take resolute steps toward ensuring fully functional state institutions to address the country's pressing political and security challenges,” Guterres said.
+
+
+On the battlefields
+
+
+Israel’s military said Thursday it conducted a new round of airstrikes against Hezbollah weapons production sites in Beirut’s southern suburbs.
+
+
+Lebanon’s military said three of its soldiers were killed in an Israeli strike while they were conducting a rescue operation near the village of Yater in southern Lebanon.
+
+
+Israel has said its fight is with Iran-backed Hezbollah, not Lebanon, in a conflict that has raised fears of wider regional hostilities.
+
+
+Medics in Gaza said an Israeli strike hit a school that was being used as a shelter in Nuseirat, killing at least 17 people, most of them women and children.
+
+
+
+
+On another front Thursday, Syria’s Defense Ministry said Israeli airstrikes hit Damascus, killing at least one soldier and injuring seven other people.
+
+
+Israel rarely comments on strikes against targets in Syria, but it has hit Iran-linked targets there for years as part of a campaign to halt weapons transfers to Hezbollah and disrupt Iranian proxies.
+
+
+The war in Gaza began with the Oct. 7, 2023, Hamas terror attack on southern Israel, during which the militants killed about 1,200 people and took 250 people as hostages. Hamas is still holding about 100 hostages, with a third of them believed to be dead.
+
+
+Israel’s counteroffensive in the Gaza Strip has killed more than 42,847 Palestinians, according to the Gaza Health Ministry, with Israel saying that the death toll includes several thousand Hamas militants.
+
+
+The United States, United Kingdom, European Union and others have designated Hezbollah and Hamas as terrorist organizations.
+
+
+VOA’s Ken Bredemeier, Chris Hannas and U.N. Correspondent Margaret Besheer contributed to this report. Some information came from The Associated Press, Agence France-Presse and Reuters. 
+
+<br> 
+
+<https://www.voanews.com/a/blinken-announces-135-million-in-additional-us-aid-for-palestinians/7837681.html>
+
+---
+
+## US targets Sudan weapons procurement director with sanctions
+
+date: 2024-10-24, from: VOA News USA
+
+Washington — The United States imposed sanctions on Thursday against Mirghani Idris Suleiman, a leading figure in the Sudanese Armed Forces (SAF) efforts to get weapons for the war against the Rapid Support Forces (RSF), the Treasury Department said in a statement.
+
+
+As director of Defense Industries Systems (DIS), the Sudanese army's primary weapons procurement arm, "Idris has been at the center of weapons deals that have fueled the brutality and scale of the war," the statement said.
+
+
+"Today’s action underscores the essential role that key individuals like Mirghani Idris Suleiman have played in procuring weapons, perpetuating violence, and prolonging the fighting in Sudan," said Bradley Smith, acting under secretary for terrorism and financial intelligence.
+
+
+DIS was sanctioned last year by Treasury.
+
+
+Sudan's army did not immediately respond to a request for comment.
+
+
+The RSF has seized control of large parts of Sudan in a conflict with the army that the United Nations says has caused one of the world's worst humanitarian crises.
+
+
+The war has displaced more than 10 million people, driven parts of the country to extreme hunger or famine, and drawn in foreign powers that have given both sides material support. 
+
+<br> 
+
+<https://www.voanews.com/a/us-targets-sudan-weapons-procurement-director-with-sanctions/7837682.html>
+
+---
+
+## How My Classroom Became a Laboratory for Countering Truth Decay
+
+date: 2024-10-24, updated: 2024-10-24, from: RAND blog
+
+The erosion of truth is not just about losing respect for facts, it's also about the dignity we're discarding along the way. Truth Decay isn't a problem that any one person can solve, but helping society learn how to ferret out the truth is a good place to start. 
+
+<br> 
+
+<https://www.rand.org/pubs/commentary/2024/10/how-my-classroom-became-a-laboratory-for-countering.html>
 
 ---
 
@@ -627,7 +1482,7 @@ date: 2024-10-23, from: Heatmap News
 date: 2024-10-23, from: Heatmap News
 
 
-<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81Mzg1MzA2MS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc0NzYxODk5Nn0.YmRKAYgDuKxkm2LLern0GHJ96zwDjujubksSIbNlgu8/image.png?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">An hour northwest of San Antonio, Texas, the small town of Bandera is home to fewer than 1,000 people. Complete with old-timey heritage buildings from the Old West, the town markets itself as a ranching tourism destination and the “cowboy capital of the world.”<br/></p>
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81Mzg1MzI3OS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTczNzY2NTA1MX0.KqTShFTxhIOwRjFsnOnSmEtefpe4sMVJEFCuju0JR54/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">An hour northwest of San Antonio, Texas, the small town of Bandera is home to fewer than 1,000 people. Complete with old-timey heritage buildings from the Old West, the town markets itself as a ranching tourism destination and the “cowboy capital of the world.”<br/></p>
 <p>And some residents <em><em>really</em></em> don’t want the solar farm coming to town: Pine Gate Renewables’ <a href="https://pinegaterenewables.com/rio-lago/" rel="noopener noreferrer" target="_blank"><u>Rio Lago solar project</u></a>, which would produce 132 megawatts of power. That’s enough renewable electricity to fuel almost 23,000 homes. </p>
 <p>When the project first appeared on homeowners’ doorsteps, citizens concerned about building anything at industrial scale in their bucolic community <a href="https://www.banderabulletin.com/article/news/school-board-unanimously-rejects-solar-farm-tax-abatement" rel="noopener noreferrer" target="_blank"><u>rejected a local tax abatement</u></a> and began speaking to local media. Eventually, roughly a dozen people living near the proposed Rio Lago site filed a lawsuit in state court seeking damages for alleged sediment runoff, along with a laundry list of other complaints. The state court judge was sympathetic to the individuals in Bandera, ordered <a href="https://www.expressnews.com/business/real-estate/article/bandera-solar-farm-pine-gate-lawsuit-order-18684108.php" rel="noopener noreferrer" target="_blank"><u>construction to stop</u></a> and <a href="https://www.expressnews.com/business/real-estate/article/bandera-solar-farm-pine-gate-judge-sanctions-19393574.php" rel="noopener noreferrer" target="_blank"><u>sanctioned Pine Gate</u></a> when <a href="https://www.ksat.com/news/ksat-investigates/2024/02/24/landowners-claim-solar-company-is-breaking-court-order-to-halt-construction-of-bandera-solar-farm/" rel="noopener noreferrer" target="_blank"><u>residents said</u></a> the company appeared to continue work on the project. The case is now pending in federal court. </p>
 <p>Taken together this outcry, lawsuit, and <a href="https://www.ksat.com/video/news/2024/01/09/bandera-landowners-push-for-court-intervention-on-solar-farm-project/" rel="noopener noreferrer" target="_blank"><u>all of</u></a> <a href="https://www.youtube.com/watch?v=NtmJCusIukI" rel="noopener noreferrer" target="_blank"><u>the resulting</u></a> <a href="https://www.youtube.com/watch?v=dQ78eQgod2Y" rel="noopener noreferrer" target="_blank"><u>local news coverage</u></a> coverage add up to a crucial test: Can a handful of people block carbon-free power to so many homes?</p>

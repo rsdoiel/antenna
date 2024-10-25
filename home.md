@@ -1,11 +1,302 @@
 ---
 title: home
-updated: 2024-10-24 08:40:39
+updated: 2024-10-25 08:11:26
 ---
 
 # home
 
-(date: 2024-10-24 08:40:39)
+(date: 2024-10-25 08:11:26)
+
+---
+
+## Caring for Mini Donkeys: 13 Important Things Beginners Should Know
+
+date: 2024-10-25, from: Homestead and Chil
+
+<p>Interested in raising mini donkeys? Learn everything a beginner needs to know about caring for mini donkeys, including cost, feed, grooming, hoof care, space requirements and more!</p>
+<p>The post <a href="https://homesteadandchill.com/caring-for-mini-donkeys-beginners-guide/">Caring for Mini Donkeys: 13 Important Things Beginners Should Know</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/caring-for-mini-donkeys-beginners-guide/>
+
+---
+
+## These Collectors of Black Memorabilia Want to Reframe What It Means
+
+date: 2024-10-25, from: Dwell
+
+In their debut book, the founders of BLK MKT Vintage delve into their trove of Afrocentric artifacts and champion the significance of Black ephemera. 
+
+<br> 
+
+<https://www.dwell.com/article/blk-mkt-vintage-collectors-reframe-what-black-memorabilia-means-cc870f2b>
+
+---
+
+## Swallowtail Caterpillar Care Guide for Raising Them Successfully
+
+date: 2024-10-25, from: Yard Life blog
+
+<p>Swallowtail caterpillars are captivating creatures that transform into beautiful butterflies. If you&#x2019;re interested in raising them at home, you&#x2019;re in ... </p>
+<p class="read-more-container"><a title="Swallowtail Caterpillar Care Guide for Raising Them Successfully" class="read-more button" href="https://ownyardlife.com/swallowtail-caterpillar-care-guide-for-raising-them-successfully/#more-21211" aria-label="Read more about Swallowtail Caterpillar Care Guide for Raising Them Successfully">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/swallowtail-caterpillar-care-guide-for-raising-them-successfully/">Swallowtail Caterpillar Care Guide for Raising Them Successfully</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/swallowtail-caterpillar-care-guide-for-raising-them-successfully/>
+
+---
+
+## Blue Hydrangea Care and Growing Guide with Ultimate Tips
+
+date: 2024-10-25, from: Yard Life blog
+
+<p>Blue hydrangeas are treasured for their vibrant, captivating color, which adds a soothing and sophisticated touch to any garden. However, ... </p>
+<p class="read-more-container"><a title="Blue Hydrangea Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/blue-hydrangea-care-and-growing-guide-with-ultimate-tips/#more-21205" aria-label="Read more about Blue Hydrangea Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/blue-hydrangea-care-and-growing-guide-with-ultimate-tips/">Blue Hydrangea Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/blue-hydrangea-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## Autumn Blaze Maple Care and Growing Guide (Most Detailed)
+
+date: 2024-10-25, from: Yard Life blog
+
+<p>The Autumn Blaze maple tree is a strikingly beautiful tree known for its vivid autumn foliage, fast growth, and adaptability. ... </p>
+<p class="read-more-container"><a title="Autumn Blaze Maple Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/autumn-blaze-maple-care-and-growing-guide-most-detailed/#more-21194" aria-label="Read more about Autumn Blaze Maple Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/autumn-blaze-maple-care-and-growing-guide-most-detailed/">Autumn Blaze Maple Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/autumn-blaze-maple-care-and-growing-guide-most-detailed/>
+
+---
+
+## Monstera Albo Care and Growing Guide with Ultimate Tips
+
+date: 2024-10-25, from: Yard Life blog
+
+<p>The Monstera albo (scientific name Monstera deliciosa &#8216;Albo Borsigiana&#8217;) is a rare, highly sought-after plant that has captivated plant enthusiasts ... </p>
+<p class="read-more-container"><a title="Monstera Albo Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/monstera-albo-care-and-growing-guide-with-ultimate-tips/#more-21183" aria-label="Read more about Monstera Albo Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/monstera-albo-care-and-growing-guide-with-ultimate-tips/">Monstera Albo Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/monstera-albo-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## A Professional Organizer Says This Is the Reason Your House Is Always Messy
+
+date: 2024-10-25, from: Sunset Magazine - Living in the West
+
+A professional organizer explains why your house can't stay organized even after you spend hours decluttering and tidying up. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/why-home-doesnt-stay-organized>
+
+---
+
+## Thai Constellation Monstera Care and Growing Guide with Top Tips
+
+date: 2024-10-25, from: Yard Life blog
+
+<p>The Thai Constellation Monstera is a rare, variegated variety of the popular Monstera deliciosa, admired for its creamy white and ... </p>
+<p class="read-more-container"><a title="Thai Constellation Monstera Care and Growing Guide with Top Tips" class="read-more button" href="https://ownyardlife.com/thai-constellation-monstera-care-and-growing-guide-with-top-tips/#more-21174" aria-label="Read more about Thai Constellation Monstera Care and Growing Guide with Top Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/thai-constellation-monstera-care-and-growing-guide-with-top-tips/">Thai Constellation Monstera Care and Growing Guide with Top Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/thai-constellation-monstera-care-and-growing-guide-with-top-tips/>
+
+---
+
+## Ice Plant Care and Growing Guide with Ultimate Tips
+
+date: 2024-10-25, from: Yard Life blog
+
+<p>The ice plant, a versatile and hardy succulent, is renowned for its stunningly colorful blooms and ease of care. Known ... </p>
+<p class="read-more-container"><a title="Ice Plant Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/ice-plant-care-and-growing-guide-with-ultimate-tips/#more-21165" aria-label="Read more about Ice Plant Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/ice-plant-care-and-growing-guide-with-ultimate-tips/">Ice Plant Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/ice-plant-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## Hoya Plant Care and Growing Guide (Most Detailed)
+
+date: 2024-10-25, from: Yard Life blog
+
+<p>Hoyas, commonly referred to as wax plants, are an exquisite and easy-to-care-for tropical plant native to Asia. These plants are ... </p>
+<p class="read-more-container"><a title="Hoya Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/hoya-plant-care-and-growing-guide-most-detailed/#more-21156" aria-label="Read more about Hoya Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/hoya-plant-care-and-growing-guide-most-detailed/">Hoya Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/hoya-plant-care-and-growing-guide-most-detailed/>
+
+---
+
+## Butterfly Pea Flower Care and Growing Guide (Most Detailed)
+
+date: 2024-10-25, from: Yard Life blog
+
+<p>The Butterfly Pea Flower (Clitoria ternatea) is a stunning tropical vine that is celebrated for its vivid blue, purple, and ... </p>
+<p class="read-more-container"><a title="Butterfly Pea Flower Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/butterfly-pea-flower-care-and-growing-guide-most-detailed/#more-21148" aria-label="Read more about Butterfly Pea Flower Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/butterfly-pea-flower-care-and-growing-guide-most-detailed/">Butterfly Pea Flower Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/butterfly-pea-flower-care-and-growing-guide-most-detailed/>
+
+---
+
+## Wandering Jew Plant Care and Growing Guide (Most Detailed)
+
+date: 2024-10-25, from: Yard Life blog
+
+<p>Wandering Jew plants, known for their vibrant foliage and easy care, are a favorite among houseplant enthusiasts. Though the term ... </p>
+<p class="read-more-container"><a title="Wandering Jew Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/wandering-jew-plant-care-and-growing-guide-most-detailed/#more-21141" aria-label="Read more about Wandering Jew Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/wandering-jew-plant-care-and-growing-guide-most-detailed/">Wandering Jew Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/wandering-jew-plant-care-and-growing-guide-most-detailed/>
+
+---
+
+## The Fall Recipes We Guarantee You’ll Be Making on Repeat This Season
+
+date: 2024-10-24, from: Sunset Magazine - Living in the West
+
+The fall season means it's time for cozy, comforting food. From soups to stews to salads, take a look at these fall recipe ideas. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/fall-recipe-ideas>
+
+---
+
+## California Native Plant Society Announces New Resources for Fall Planting Season
+
+date: 2024-10-24, from: California Native Plants Society
+
+<p>Explore new digital tools on Calscape.org to help design California native plant gardens, just in time for the fall planting season.</p>
+<p>The post <a href="https://www.cnps.org/news-releases/fall-native-plants-cnps-calscape-40937">California Native Plant Society Announces New Resources for Fall Planting Season</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/news-releases/fall-native-plants-cnps-calscape-40937>
+
+---
+
+## An Unsightly Apartment Gets a New Look With Stained Glass Doors and Colorful Wallpaper
+
+date: 2024-10-24, from: Dwell
+
+Sometimes the solution to awkward elements like load-bearing transoms and an incredibly long doorway is simple: decorate. 
+
+<br> 
+
+<https://www.dwell.com/article/an-unsightly-apartment-gets-a-new-look-with-stained-glass-doors-and-colorful-wallpaper-c2aa9ca9>
+
+---
+
+## This $1.1M Connecticut Midcentury Comes With Over Four Acres of Forest
+
+date: 2024-10-24, from: Dwell
+
+Originally designed by Joseph Stein, the 1950s home recently received a minimalist revamp by architect Donald Billinkoff. 
+
+<br> 
+
+<https://www.dwell.com/article/midcentury-home-joseph-stein-billinkoff-architecture-burlington-connecticut-real-estate-99cd8c5e>
+
+---
+
+## FTC Bans Fake Product Reviews In Major Online Shopping Shakeup
+
+date: 2024-10-24, from: Family Handyman Blog
+
+<p>This should, hopefully, be the end of bogus and AI-generated reviews on shopping sites and social media. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/fake-reviews-ai-online-shopping-ftc-rules/">FTC Bans Fake Product Reviews In Major Online Shopping Shakeup</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/fake-reviews-ai-online-shopping-ftc-rules/>
+
+---
+
+## Here’s How You Can Get Cheaper Gas Through Amazon Prime
+
+date: 2024-10-24, from: Family Handyman Blog
+
+<p>More savings are always a win. Your Amazon Prime membership gets you a lot, but can it really get you cheaper gas? </p>
+<p>The post <a href="https://www.familyhandyman.com/article/amazon-prime-bp-gas-discount/">Here’s How You Can Get Cheaper Gas Through Amazon Prime</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/amazon-prime-bp-gas-discount/>
+
+---
+
+## Here’s Why You Might Find Your Next Great Garden Project on a Hike
+
+date: 2024-10-24, from: Sunset Magazine - Living in the West
+
+Take your native landscapes to the next level with naturalistic plantings inspired by Western shrublands. Here's how to plant with shrubs. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/shrub-landscaping>
+
+---
+
+## Google Messages Is Cracking Down on Those Annoying USPS Scam Texts
+
+date: 2024-10-24, from: Family Handyman Blog
+
+<p>Google Messages is aiming to eliminate those annoying USPS scam texts from your phone.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/google-messages-scam-text-security-update/">Google Messages Is Cracking Down on Those Annoying USPS Scam Texts</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/google-messages-scam-text-security-update/>
+
+---
+
+## Tips for Growing Peacock Echeveria
+
+date: 2024-10-24, from: The Gardener's Path
+
+<p>Peacock echeveria is instantly recognizable with its blue, green, and pink leaves in symmetrical rosettes. It's a beautiful and petite option for anyone who needs an easy-going succulent that will politely spread around the garden. Learn how to grow and care for peacock echeveria in this comprehensive guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/grow-peacock-echeveria/">Tips for Growing Peacock Echeveria</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/succulents/grow-peacock-echeveria/>
 
 ---
 
@@ -51,6 +342,18 @@ date: 2024-10-24, from: Yard Life blog
 
 ---
 
+## Sunset.com Home Page
+
+date: 2024-10-24, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
 ## What Is the December Birth Flower? Uncover Its Significance
 
 date: 2024-10-24, from: Yard Life blog
@@ -93,18 +396,6 @@ date: 2024-10-24, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/magnolia-tree-care-and-growing-guide-most-detailed/>
-
----
-
-## The Fall Recipes We Guarantee You’ll Be Making on Repeat This Season
-
-date: 2024-10-24, from: Sunset Magazine - Living in the West
-
-The fall season means it's time for cozy, comforting food. From soups to stews to salads, take a look at these fall recipe ideas. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/kitchen-assistant/fall-recipe-ideas>
 
 ---
 
@@ -161,11 +452,11 @@ One editor shares her favorite travel bag, Calpak's Luka Tote. It has plenty of 
 
 ---
 
-## Before & After: In Ireland, an Unusual, Boxy House Gets a Bold Bauhaus Retrofit
+## Before & After: In Ireland, an Unusual, Boxy Home Gets a Bold Bauhaus Retrofit
 
 date: 2024-10-23, from: Dwell
 
-Catherine McElwain and architect Dermot Ryan celebrate their home’s gridded tile, glass bricks, and ironwork as they inject it with industrial materials and vibrant color. 
+Catherine McElwain and architect Dermot Ryan celebrate their midcentury’s gridded tile, glass bricks, and ironwork as they inject it with industrial materials and vibrant color. 
 
 <br> 
 
@@ -191,7 +482,7 @@ date: 2024-10-23, from: Family Handyman Blog
 
 date: 2024-10-23, from: Dwell
 
-A custom three-part door, cork walls, and an accessible bathroom get this California ranch ready for its residents to age-in-place. 
+A custom three-part door, cork walls, and an accessible bathroom get this California ranch ready for its residents to age-in-place down the line. 
 
 <br> 
 
@@ -282,18 +573,6 @@ A vacation home in Central Oregon had no heating or air conditioning and needed 
 <br> 
 
 <https://www.sunset.com/home-garden/home-tours/black-butte-ranch-house-tour>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-10-23, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 
@@ -466,18 +745,6 @@ Designed by LAB+ Architects and completed this year, the monolithic residence is
 <br> 
 
 <https://www.dwell.com/article/c-house-lab-plus-architects-los-feliz-oaks-los-angeles-real-estate-aad1c578>
-
----
-
-## Here’s Why You Might Find Your Next Great Garden Project on a Hike
-
-date: 2024-10-22, from: Sunset Magazine - Living in the West
-
-Take your native landscapes to the next level with naturalistic plantings inspired by Western shrublands. Here's how to plant with shrubs. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/garden-basics/shrub-landscaping>
 
 ---
 

@@ -1,11 +1,95 @@
 ---
 title: motorcycles
-updated: 2024-10-24 08:40:40
+updated: 2024-10-25 08:11:26
 ---
 
 # motorcycles
 
-(date: 2024-10-24 08:40:40)
+(date: 2024-10-25 08:11:26)
+
+---
+
+## Lane Splitting In Traffic Is Better For Everyone, Just Watch
+
+date: 2024-10-25, from: Ride Apart, Electric Motorcycle News
+
+You don't need to be an aggro goon, just look out for each other on the road. 
+
+<br> 
+
+<https://www.rideapart.com/news/738671/lane-splitting-filtering-southeast-asia/>
+
+---
+
+## Watch a Driver Intentionally Block a Lane-Splitting Motorcyclist and Get Pulled Over
+
+date: 2024-10-25, from: Ride Apart, Electric Motorcycle News
+
+Mind ya business, folks.  
+
+<br> 
+
+<https://www.rideapart.com/news/738663/car-driver-blocks-lane-splitting-motorcyclist-gets-pulled-over/>
+
+---
+
+## Volcon ePowersports Announces Big Changes To Its UTV Models
+
+date: 2024-10-25, from: Ride Apart, Electric Motorcycle News
+
+Out with the Stag and in with a new performance-oriented UTV.  
+
+<br> 
+
+<https://www.rideapart.com/news/738548/volcon-epowersports-model-updates-2025/>
+
+---
+
+## Could The New Bimota KB998 Hint At An Upcoming Production Model?
+
+date: 2024-10-25, from: Ride Apart, Electric Motorcycle News
+
+It’ll be the only bike on the WSBK grid to not have a road-going production counterpart—at least not yet.  
+
+<br> 
+
+<https://www.rideapart.com/news/738544/bimota-kb998-wsbk-race-bike-unveiled/>
+
+---
+
+## KTM's New Big Adventure Motorcycle Won't Help Its Bad Sales, Its Small One Might
+
+date: 2024-10-25, from: Ride Apart, Electric Motorcycle News
+
+KTM is focusing on the wrong market.  
+
+<br> 
+
+<https://www.rideapart.com/news/738640/ktm-1390-super-adventure-s-evo-390-adventure-sales-pierer/>
+
+---
+
+## Prominent Motorsports Attorney Alan R. Miller Passes Away at 87
+
+date: 2024-10-24, from: Kickin the Tires blog
+
+BIRMINGHAM, Mich. (Oct. 24, 2024) &#8212; On behalf of the Miller family, and the Law Offices of Alan R. Miller P.C., LEGACY MOTOR CLUB sadly shares the news that prominent motorsports&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/prominent-motorsports-attorney-alan-r-miller-passes-away-at-87/>
+
+---
+
+## Harley-Davidson's Sales Have Tanked, How Much Longer Can It Survive
+
+date: 2024-10-24, from: Ride Apart, Electric Motorcycle News
+
+It's Q3 of 2024, and sales are down yet again. We dive into the data to see what's up. 
+
+<br> 
+
+<https://www.rideapart.com/news/738656/harley-motorcycle-sales-q3-2024/>
 
 ---
 
