@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2024-10-25 08:11:27
+updated: 2024-10-26 06:11:17
 ---
 
 # retro computing
 
-(date: 2024-10-25 08:11:27)
+(date: 2024-10-26 06:11:17)
+
+---
+
+## This Week on The Analog Antiquarian
+
+date: 2024-10-25, from: Digital Antiquarian
+
+The Voyage of Magellan, Chapter 17: A Philippine Thanksgiving And a quick programming note as well: I&#8217;m afraid I won&#8217;t have an article for you on this site next week, folks. I&#8217;ll see you in two weeks instead. Thank you for your patience! 
+
+<br> 
+
+<https://www.filfre.net/2024/10/this-week-on-the-analog-antiquarian-2/>
 
 ---
 
@@ -355,4 +367,52 @@ The delayed April release of WROCC magazine has now been sent out to all members
 <br> 
 
 <http://www.iconbar.com/comments/rss/news2116.html>
+
+---
+
+## See the ‘fastest’ RISC OS machine on Chris Hall’s stand at the London Show
+
+date: 2024-10-19, from: RiscOS Story
+
+You might want to make a bee-line for the Harrow District Masonry Centre next Saturday to visit London Show, at which Chris Hall says he&#8217;ll be demonstrating what he believes is the fastest RISC OS computer. Or computers, because he explains that he considers it to be a dead heat between two, which he says are &#8220;a DeskPi Mini IO board using an M.2 1TB NVMe drive running RISC OS Developments Block Drivers (6-Oct-2024) and a Pi Foundation IO board using a 1TB ‘FAST’ SATA drive running RISC OS Bits&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2024/fastest-machine-chris-hall-london-show/>
+
+---
+
+## It’s (not) all Dutch to MACadd
+
+date: 2024-10-19, from: RiscOS Story
+
+Kevin Wells&#8217; application for looking up information about MAC addresses has been updated to version 2.04, and now includes Dutch in the range of languages that can be deployed in its user interface. This joins the recently added French and German, as well as the already present English. In case you don&#8217;t know, a MAC addresses are codes assigned to network interfaces that you&#8217;ll find in devices of all sorts that allow them to connect to and communicate with other devices locally, and often beyond &#8211; remote servers on the&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2024/dutch-added-macadd/>
+
+---
+
+## Historical data range extended in Currency
+
+date: 2024-10-19, from: RiscOS Story
+
+A new version of Currency is available from Kevin Wells. The application provides a means for checking exchange rates and perform other related tasks from the RISC OS desktop, by using Wget to relay information to and from third party websites. One of those related tasks is to look up a limited amount of historical exchange range data. This was previously four weeks worth, but in version 2.05 it has become six weeks. As well as that improvement, there was a certificate issue pertaining to fetching the historical data, which&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2024/historical-data-extended-currency/>
+
+---
+
+## How fast is Fast?
+
+date: 2024-10-19, from: Icon Bar, RISC OS News
+
+In a week's time, you will be at the London Show (you know it makes sense). Chris Hall will be exhibiting and he has kindly written us an exclusive preview on the speed comparisons he has been running and will be showing you. 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2115.html>
 

@@ -1,11 +1,24 @@
 ---
 title: pacific
-updated: 2024-10-25 08:11:24
+updated: 2024-10-26 06:11:14
 ---
 
 # pacific
 
-(date: 2024-10-25 08:11:24)
+(date: 2024-10-26 06:11:14)
+
+---
+
+## UH Athletics enters brand licensing with CLC Partnership
+
+date: 2024-10-25, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> M&#257;noa Athletics Department and <abbr>CLC</abbr>, the nation's leading collegiate trademark licensing agency, have entered into an agreement for trademark licensing services.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/25/uh-athletics-clc-brand-licensing/"><abbr>UH</abbr> Athletics enters brand licensing with <abbr>CLC</abbr> Partnership</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/25/uh-athletics-clc-brand-licensing/>
 
 ---
 
@@ -478,6 +491,30 @@ UN Human Rights Committee challenges France on security operations and its attit
 
 ---
 
+## Small craft advisory and gale warning
+
+date: 2024-10-25, updated: 2024-10-25, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/news/local/small-craft-advisory-and-gale-warning/article_a40ebdea-928f-11ef-8510-7b0b4fcdd5bd.html>
+
+---
+
+## NMTI closed due to flooding
+
+date: 2024-10-25, updated: 2024-10-25, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/news/local/nmti-closed-due-to-flooding/article_a92611c0-928a-11ef-93c9-13333d0a9b4f.html>
+
+---
+
 ## Pohnpei preserves traditional knowledge
 
 date: 2024-10-25, from: The Husk
@@ -490,11 +527,11 @@ Weekender #49
 
 ---
 
-## MDA identifies 16 sites for Guam missile defense system 
+## Project sites for Guam missile defense system narrowed down to 16; Prep work set to begin in 2025 
 
 date: 2024-10-25, from: Pacific Island Times
 
-Draft Environmental Statement released By Pacific Island Times News Staff The Missile Defense Agency has narrowed down the site selection... 
+Construction work to require 400 workers each year By Jayvee Vallejera   A plan to put up a missile defense system on Guam that will... 
 
 <br> 
 
@@ -542,6 +579,30 @@ date: 2024-10-24, from: Marshal Islands Journal
 
 ---
 
+## How indoor air quality can make your home healthier
+
+date: 2024-10-24, updated: 2024-10-24, from: Marianas Variety
+
+Sorry, but your browser does not support the video tag. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/senior_living/how-indoor-air-quality-can-make-your-home-healthier/article_bd6af274-3650-513f-ba20-5c8ea04262ba.html>
+
+---
+
+## 5 tips for healthy hearing. Hint: Pickleball can help
+
+date: 2024-10-24, updated: 2024-10-25, from: Marianas Variety
+
+(BPT) - Pickleball is the fastest-growing sport in the country, with many seniors roaring onto pickleball courts nationwide. But whether it’s a friendly game or an intramural matchup, all senses must be engaged for the best play — especially our hearing. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/senior_living/5-tips-for-healthy-hearing-hint-pickleball-can-help/article_777a44e8-3aca-560b-aa67-37efecf607ea.html>
+
+---
+
 ## Horse Girls
 
 date: 2024-10-24, from: Hawai'i Pacific Review (HPU Literary Magazine)
@@ -551,6 +612,54 @@ by Sean Eaton My short-fused mother became close with a coworker and took us to 
 <br> 
 
 <https://hawaiipacificreview.org/2024/10/24/horse-girls/>
+
+---
+
+## Strength in unity: Tinian JROTC, CHCC and NMCADSV join forces for 5K Awareness Event
+
+date: 2024-10-24, updated: 2024-10-24, from: Marianas Variety
+
+TINIAN — On Oct.19, 2024, the Tinian JROTC Stallion Battalion participated in the annual 5K Run, Walk, &amp; Wheel, a community event dedicated to raising awareness about breast cancer and domestic violence. Organized by the Northern Marianas Coalition Against Domestic &amp; Sexual Violence, the event took place at the Tinian Fiesta Grounds. The Stallion Battalion played a vital role by distributing water, cheering on participants, and helping with cleanup efforts. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/strength-in-unity-tinian-jrotc-chcc-and-nmcadsv-join-forces-for-5k-awareness-event/article_353e27ce-9227-11ef-a1cd-bf51fd063efe.html>
+
+---
+
+## Carol Lee receives degree from Georgia Tech
+
+date: 2024-10-24, updated: 2024-10-24, from: Marianas Variety
+
+ATLANTA, Ga. — Carol Lee of Saipan has earned a Bachelor of Science in Business Administration with High Honors from the Georgia Institute of Technology in Atlanta. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/carol-lee-receives-degree-from-georgia-tech/article_af316ca4-9226-11ef-892f-5773c98f838b.html>
+
+---
+
+## Tinian SBDC and CEDA empower local entrepreneurs through successful loan program training
+
+date: 2024-10-24, updated: 2024-10-24, from: Marianas Variety
+
+TINIAN (CNMI SBDC) — The Tinian Small Business Development Center at Northern Marianas College, in collaboration with the Commonwealth Economic Development Authority, successfully hosted a comprehensive training session on loan programs aimed at empowering local small businesses. Held at the NMC Tinian Center, the event brought together business owners seeking guidance on financial opportunities available through CEDA. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/tinian-sbdc-and-ceda-empower-local-entrepreneurs-through-successful-loan-program-training/article_87993656-9224-11ef-9fce-bf558b069112.html>
+
+---
+
+## 500 Sails celebrates 10 years of seafaring culture
+
+date: 2024-10-24, updated: 2024-10-24, from: Marianas Variety
+
+500 Sails proudly announces its 10th anniversary celebration with a fundraiser on Nov. 15, 2024, from 6 p.m. to 10 p.m. at the Crowne Plaza Resort Saipan. This special evening will feature raffles, entertainment, and more, promising a night of joy and unity. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/500-sails-celebrates-10-years-of-seafaring-culture/article_c1c6259c-9223-11ef-9f1f-9bd84786510b.html>
 
 ---
 
@@ -2571,4 +2680,196 @@ By Pacific Island Times News Staff Hilo, Hawaii —After TeAda Productions ’ s
 <br> 
 
 <https://www.pacificislandtimes.com/post/nothing-micro-about-micronesia-to-premiere-in-big-island-maui-this-week>
+
+---
+
+## Guam's youngest entrepreneur launches apparel brand
+
+date: 2024-10-19, from: Pacific Island Times
+
+By Mar-Vic Cagurangan  Age is just a number. The 13-year-old Joaquin Sablan is the epitome of this aphorism and the archetype of the... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-s-youngest-entrepreneur-launches-apparel-brand>
+
+---
+
+## In case of war with China, Guam will be on the frontline 
+
+date: 2024-10-19, from: Pacific Island Times
+
+By Mar-Vic Cagurangan Guam’s proximity to China makes it a default launch pad for any counterattack in the event of a conflict in the... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/in-case-of-war-with-china-guam-will-be-on-the-frontline>
+
+---
+
+## Why Harris remains unlikely to break from Biden on Israel and Gaza
+
+date: 2024-10-19, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Last December, Vice President Kamala Harris flew to a climate conference in Dubai and quickly huddled with the leaders of three Arab nations to discuss Israel&#8217;s war against Hamas in the Gaza Strip.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/19/nation-world-news/why-harris-remains-unlikely-to-break-from-biden-on-israel-and-gaza/>
+
+---
+
+## How Los Angeles is trying to keep homeless people off the streets
+
+date: 2024-10-19, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; The day was shaping up to be another long one for Freddy Bauer.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/19/nation-world-news/how-los-angeles-is-trying-to-keep-homeless-people-off-the-streets/>
+
+---
+
+## Mudslides, misinformation and an urgency to vote in western North Carolina
+
+date: 2024-10-19, from: Hawaii Tribune Harold
+
+
+				<p>BLACK MOUNTAIN, N.C. &#8212; Carolyn Burgess, 71, drove on cracked and crooked roads in Black Mountain, North Carolina, to get to her polling place Thursday, the state&#8217;s first day of early voting. Hurricane Helene had devastated her town, and its 8,500 residents were divided on the government response.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/19/nation-world-news/mudslides-misinformation-and-an-urgency-to-vote-in-western-north-carolina/>
+
+---
+
+## ‘A new day’ at the Supreme Court? Justices decline to block an EPA rule.
+
+date: 2024-10-19, from: Hawaii Tribune Harold
+
+
+				<p>The conservative-majority Supreme Court has taken an aggressive stance against many environmental rules in recent years, but three small victories for regulators this month have left some analysts wondering whether a shift is underway.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/19/nation-world-news/a-new-day-at-the-supreme-court-justices-decline-to-block-an-epa-rule/>
+
+---
+
+## In swing districts, Republicans lean into anti-crime message to court the center
+
+date: 2024-10-19, from: Hawaii Tribune Harold
+
+
+				<p>OREGON CITY, Ore. &#8212; Thirty minutes south of Portland, as rain pattered down from gray skies, Rep. Lori Chavez-DeRemer, R-Ore., was at a wedding venue railing against Democrats in her state for decriminalizing hard drugs and accusing them of failing to support local law enforcement.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/19/nation-world-news/in-swing-districts-republicans-lean-into-anti-crime-message-to-court-the-center/>
+
+---
+
+## Striking Boeing machinists’ union in indirect talks with company, helped by US government
+
+date: 2024-10-19, from: Hawaii Tribune Harold
+
+
+				<p>A union representing striking machinists at Boeing said on Friday it is &#8220;actively engaged in indirect discussions&#8221; with the planemaker that are being facilitated by Acting U.S. Labor Secretary Julie Su.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/19/nation-world-news/striking-boeing-machinists-union-in-indirect-talks-with-company-helped-by-us-government/>
+
+---
+
+## CVS ousts CEO as sluggish growth spooks investors
+
+date: 2024-10-19, from: Hawaii Tribune Harold
+
+
+				<p>CVS Health abruptly ousted CEO Karen S. Lynch on Friday as the pharmacy and health care conglomerate struggled with sluggish growth and faced pressure from investors.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/19/nation-world-news/cvs-ousts-ceo-as-sluggish-growth-spooks-investors/>
+
+---
+
+## Power outage plunges all of Cuba into darkness
+
+date: 2024-10-19, from: Hawaii Tribune Harold
+
+
+				<p>Cuba&#8217;s power grid failed and the entire nation plunged into darkness Friday, less than a day after the government stressed the need to paralyze the economy to save electricity in the face of major gasoline shortages and large-scale, regular outages.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/19/nation-world-news/power-outage-plunges-all-of-cuba-into-darkness/>
+
+---
+
+## Sinwar’s death could shake but not topple Hamas, experts say
+
+date: 2024-10-19, from: Hawaii Tribune Harold
+
+
+				<p>ISTANBUL &#8212; He was there from the early days of Hamas, rose through the ranks to lead the organization and equipped it for the deadliest assault on Israel in its history.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/19/nation-world-news/sinwars-death-could-shake-but-not-topple-hamas-experts-say/>
+
+---
+
+## Israeli strikes kill 30 people in Jabalia, Israel sends more troops into north Gaza
+
+date: 2024-10-19, from: Hawaii Tribune Harold
+
+
+				<p>CAIRO &#8212; At least 30 people were killed and dozens wounded in Israeli strikes that hit several houses at a square on Friday in Jabalia, the largest of Gaza&#8217;s eight historic refugee camps, medics said, where residents said tanks blew up roads and houses as they thrust further into the territory.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/19/nation-world-news/israeli-strikes-kill-30-people-in-jabalia-israel-sends-more-troops-into-north-gaza/>
+
+---
+
+## Harris, Trump barnstorm Michigan, spar over who has stamina to be president
+
+date: 2024-10-19, from: Hawaii Tribune Harold
+
+
+				<p>GRAND RAPIDS/DETROIT, Michigan &#8212; Democrat Kamala Harris raised questions about Republican Donald Trump&#8217;s physical stamina to serve effectively as president as the two rivals tore through the deadlocked battleground state of Michigan on Friday, with Trump lashing back about the energy he&#8217;s shown on the campaign trail.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/19/nation-world-news/harris-trump-barnstorm-michigan-spar-over-who-has-stamina-to-be-president/>
+
+---
+
+## The panda factories
+
+date: 2024-10-19, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Two chunky pandas, a male and a female, arrived from China this week at the National Zoo in Washington. If everything goes as planned, they will eventually have cubs.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/19/features/the-panda-factories/>
 

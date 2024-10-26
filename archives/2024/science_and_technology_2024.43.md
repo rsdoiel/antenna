@@ -1,11 +1,263 @@
 ---
 title: science and technology
-updated: 2024-10-25 08:11:24
+updated: 2024-10-26 06:11:15
 ---
 
 # science and technology
 
-(date: 2024-10-25 08:11:24)
+(date: 2024-10-26 06:11:15)
+
+---
+
+## Energy exec punts datacenter power options out to long term
+
+date: 2024-10-25, updated: 2024-10-25, from: The Register (UK I.T. News)
+
+<h4>Bit barns aren&#39;t going to hook up to nuclear in a rush</h4> <p>Datacenter operators worried about securing enough energy supplies should turn to on-site generation such as gas turbines in the short term, while longer-term answers may include sources like small nuclear reactors – but there is no catch-all silver bullet solution.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/25/schneider_exec_dc_power/>
+
+---
+
+## What can Windows 10 users do once support ends in October 2025?
+
+date: 2024-10-25, from: OS News
+
+There&#8217;s a date looming on the horizon for the vast majority of Windows users. While Windows 11 has been out for a long time now, most Windows users are using Windows 10 &#8211; about 63% &#8211; while Windows 11 is used by only about 33% of Windows users. In October 2025, however, support for Windows 10 will end, leaving two-thirds of Windows users without the kind of updates they need to keep their system secure and running smoothly. Considering Microsoft is in a lot of hot water over its security practices once again lately, this must be a major headache for the company. The core of the problem is that Windows 11 has a number of very strict hardware requirements that are mostly entirely arbitrary, and make it impossible for huge swaths of Windows 10 users to upgrade to Windows 11 even if they wanted to. And that is a problem in and of itself too: people don&#8217;t seem to like Windows 11 very much, and definitely prefer to stick to Windows 10 even if they can upgrade. It&#8217;s going to be quite difficult for Microsoft to convince those people to upgrade, which likely won&#8217;t happen until these people buy a new machine, which in turn in something that just isn&#8217;t necessary as often as it used to be. That first group of users &#8211; the ones who want to upgrade, but can&#8217;t &#8211; do have unofficial options, a collection of hacks to jank Windows 11 into installing on unsupported hardware. This comes with a number of warnings from Microsoft, so you may wonder how much of a valid option this really is. Ars Technica has been running Windows 11 on some unsupported machines for a while, and concludes that while it&#8217;s problem-free in day-to-day use, there&#8217;s a big caveat you won&#8217;t notice until it&#8217;s time for a feature update. These won&#8217;t install without going through the same hacks you needed to use when you first installed Windows 11 and manually downloading the update in question. This essentially means you&#8217;ll need to repeat the steps for doing a new unsupported Windows 11 install every time you want to upgrade.&#160;As we detail in our guide, that&#8217;s&#160;relatively&#160;simple if your PC has Secure Boot and a TPM but doesn&#8217;t have a supported processor. Make a simple registry tweak, download the Installation Assistant or an ISO file to run Setup from, and the Windows 11 installer will let you off with a warning and then proceed normally, leaving your files and apps in place. Without Secure Boot or a TPM, though, installing these upgrades in place is more difficult. Trying to run an upgrade install from within Windows just means the system will yell at you about the things your PC is missing. Booting from a USB drive that has been doctored to overlook the requirements will help you do a clean install, but it will delete all your existing files and apps. ↫ Andrew Cunningham at Ars Technica The only way around this that may work is yet another hack, which tricks the update into thinking it&#8217;s installing Windows Server, which seems to have less strict requirements. This way, you may be able to perform an upgrade from one Windows 11 version to the next without losing all your data and requiring a fresh installation. It&#8217;s one hell of a hack that no sane person should have to resort to, but it looks like it might be an inevitability for many. October 2025 is going to be a slaughter for Windows users, and as such, I wouldn&#8217;t be surprised to see Microsoft postponing this date considerably to give the two-thirds of Windows users more time to move to Windows 11 through their regular hardware replacements cycles. I simply can&#8217;t imagine Microsoft leaving the vast majority of its Windows users completely unprotected. Spare a thought for our Windows 10-using friends. They&#8217;re going to need it. 
+
+<br> 
+
+<https://www.osnews.com/story/140993/what-can-windows-10-users-do-once-support-ends-in-october-2025/>
+
+---
+
+## Sols 4343-4344: Late Slide, Late Changes
+
+date: 2024-10-25, from: NASA breaking news
+
+Earth planning date: Wednesday, Oct. 23, 2024 Curiosity is driving along the western edge of the Gediz Vallis channel, heading for a good vantage point before turning westward and leaving the channel behind to explore the canyons beyond. The contact science for “Chuck Pass” on sol 4341 and backwards 30-meter drive (about 98 feet) on […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4343-4344-late-slide-late-changes/>
+
+---
+
+## A deep dive into Linux’s new mseal syscall
+
+date: 2024-10-25, from: OS News
+
+If you love exploit mitigations, you may have heard of a new system call named mseal landing into the Linux kernel’s 6.10 release, providing a protection called “memory sealing.” Beyond notes from the authors, very little information about this mitigation exists. In this blog post, we’ll explain what this syscall is, including how it’s different from prior memory protection schemes and how it works in the kernel to protect virtual memory. We’ll also describe the particular exploit scenarios that mseal helps stop in Linux userspace, such as stopping malicious permissions tampering and preventing memory unmapping attacks. ↫ Alan Cao The goal of mseal is to, well, literally seal a part of memory and protect its contents from being tampered with. It makes regions of memory immutable so that while a program is running, its memory contents cannot be modified by malicious actors. This article goes into great detail about this new feature, explains how it works, and what it means for security in the Linux kernel. Excellent light reading for the weekend. 
+
+<br> 
+
+<https://www.osnews.com/story/140991/a-deep-dive-into-linuxs-new-mseal-syscall/>
+
+---
+
+## NASA Welcomes Chile as Newest Artemis Accords Signatory
+
+date: 2024-10-25, from: NASA breaking news
+
+Chile signed the Artemis Accords Friday during a ceremony hosted by NASA Administrator Bill Nelson at the agency’s headquarters in Washington, becoming the 47th nation and the seventh South American country to commit to the responsible exploration of space for all humanity. “Today we welcome Chile’s signing of the Artemis Accords and its commitment to [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-welcomes-chile-as-newest-artemis-accords-signatory/>
+
+---
+
+## Biden Issues a 'Long Overdue' Formal Apology for Native American Boarding Schools
+
+date: 2024-10-25, from: Smithsonian Magazine
+
+The president atoned for the federal government's role in forcing Native American children into boarding schools, where many were abused and more than 900 died 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/biden-issues-a-long-overdue-biden-formally-apologizes-for-native-american-boarding-schools-180985341/>
+
+---
+
+## Red Rocks with Green Spots at ‘Serpentine Rapids’
+
+date: 2024-10-25, from: NASA breaking news
+
+After discovering and sampling the “leopard spots” of “Bright Angel,” it became apparent that Perseverance’s journey of discovery in this region was not yet finished. Approximately 20 sols (Martian days) after driving south across Neretva Vallis from Bright Angel, the rover discovered the enigmatic and unique red rocks of “Serpentine Rapids.” At Serpentine Rapids, Perseverance […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/red-rocks-with-green-spots-at-serpentine-rapids/>
+
+---
+
+## These Are Americans' Biggest Fears in 2024, as the Country Is 'Becoming More Afraid'
+
+date: 2024-10-25, from: Smithsonian Magazine
+
+Government corruption, loved ones becoming ill or dying, cyberterrorism and nuclear weapons topped the list of Chapman University's annual survey 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/these-are-americans-biggest-fears-in-2024-as-the-country-is-becoming-more-afraid-180985339/>
+
+---
+
+## Perplexity AI decries News Corp's 'simply false' data scraping claims
+
+date: 2024-10-25, updated: 2024-10-25, from: The Register (UK I.T. News)
+
+<h4>&#39;They prefer to live in a world where publicly reported facts are owned by corporations&#39;</h4> <p>Artificial intelligence startup Perplexity AI has hit back at a lawsuit claiming that it&#39;s unfairly harvesting data from Dow Jones &amp; Co and the New York Post to feed its AI engine, as well as stealing and mangling content.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/25/perplexity_news_corp_data/>
+
+---
+
+## Contractors training Amazon, Meta and Microsoft’s AI systems left without pay after Appen moves to new platform
+
+date: 2024-10-25, from: OS News
+
+One-third of payments to&#160;contractors training AI systems used by companies such as Amazon, Meta and Microsoft have not been paid on time after the Australian company Appen moved to a new worker management platform. Appen employs 1 million contractors who speak more than 500 languages and are based in 200 countries. They work to label photographs, text, audio and other data to improve AI systems used by the large tech companies and have been referred to as “ghost workers” – the unseen human labour involved in training systems people use every day. ↫ Josh Taylor at The Guardian It&#8217;s crazy that if you peel back the layers on top of a lot of tools and features sold to us as &#8220;artificial intelligence&#8221;, you&#8217;ll quite often find underpaid workers doing the labour technology companies are telling us are done by computers running machine learning algorithms. The fact that so many of them are either deeply underpaid or, as in this case, not even paid at all, while companies like Google, Apple, Microsoft, and OpenAI are raking in ungodly amounts of profits, is deeply disturbing. It&#8217;s deeply immoral on so many levels, and just adds to the uncomfortable feeling people have with &#8220;AI&#8221;. Again I&#8217;d like to reiterate I&#8217;m not intrinsically opposed to the current crop of artificial intelligence tools &#8211; I just want these mega corporations to respect the rights of artists, and not use their works without permission to earn immense amounts of money. On top of that, I don&#8217;t think it should be legal for them to lie about how their tools really work under the hood, and the workers who really do the work claimed to be done by &#8220;AI&#8221; to be properly paid. Is any of that really too much to ask? Fix these issues, and I&#8217;ll stop putting quotation marks around &#8220;AI&#8221;. 
+
+<br> 
+
+<https://www.osnews.com/story/140987/contractors-training-amazon-meta-and-microsofts-ai-systems-left-without-pay-after-appen-moves-to-new-platform/>
+
+---
+
+## Destacado de la NASA: Felipe Valdez, un ingeniero inspirador
+
+date: 2024-10-25, from: NASA breaking news
+
+Read this story in English here. Felipe Valdez es una persona que aprovechó todas las oportunidades posibles en la NASA, trabajando desde que inicio como pasante universitario hasta su trabajo actual como ingeniero de controles de vuelo.&#160; Nacido en los Estados Unidos pero criado en México, Valdez enfrentó grandes desafíos&#160;mientras crecía.&#160;&#160;&#160;&#160; “Mi madre&#160;trabajaba por largas&#160;horas, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/es/destacado-de-la-nasa-felipe-valdez-un-ingeniero-inspirador/>
+
+---
+
+## These Tiny Doodles May Be William Blake's Earliest Engravings, Overlooked for Nearly 250 Years
+
+date: 2024-10-25, from: Smithsonian Magazine
+
+Using high-res scans, a researcher uncovered scribbled etchings likely made by the British poet and artist while working as a teenage apprentice engraver in the 1770s 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/these-tiny-doodles-may-be-william-blakes-earliest-engravings-overlooked-for-nearly-250-years-180985331/>
+
+---
+
+## A Giant Meteorite Ripped Up the Seafloor and Boiled Earth's Oceans 3.26 Billion Years Ago. Then, Life Blossomed in Its Wake
+
+date: 2024-10-25, from: Smithsonian Magazine
+
+Geologists suggest the catastrophic impact of "S2" delivered key nutrients to the oceans, prompting microorganisms to thrive 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-giant-meteorite-boiled-earths-oceans-and-ripped-up-the-seafloor-326-billion-years-ago-then-life-blossomed-in-its-wake-180985336/>
+
+---
+
+## Hubble Sees a Celestial Cannonball
+
+date: 2024-10-25, from: NASA breaking news
+
+The spiral galaxy in this NASA/ESA&#160;Hubble Space Telescope&#160;image is IC 3225. It looks remarkably as if it was launched from a cannon, speeding through space like a comet with a tail of gas streaming from its disk behind it. The scenes that galaxies appear in from Earth’s point of view are fascinating; many seem to&#160;hang [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/hubble-sees-a-celestial-cannonball/>
+
+---
+
+## New 'Portal' Opens in Philadelphia, Connecting Residents to Cities Around the World With Identical Installations
+
+date: 2024-10-25, from: Smithsonian Magazine
+
+The looming sculpture features a small camera above an eight-foot-tall screen, which displays live video from Lithuania, Poland and Ireland 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/new-portal-opens-in-philadelphia-connecting-residents-to-cities-around-the-world-with-identical-installations-180985335/>
+
+---
+
+## The open secret of open washing – why companies pretend to be open source
+
+date: 2024-10-25, updated: 2024-10-25, from: The Register (UK I.T. News)
+
+<h4>Allowing pretenders to co-opt the term is bad for everyone</h4> <p><strong>Opinion</strong>  If you believe Mark Zuckerberg, Meta&#39;s AI large language model (LLM) Llama 3 is open source.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/25/opinion_open_washing/>
+
+---
+
+## Autumn Leaves – Call for Volunteers
+
+date: 2024-10-25, from: NASA breaking news
+
+The Global Learning and Observations to Benefit the Environment (GLOBE) Program is calling on volunteers of all ages to help students and citizen scientists document seasonal change through leaf color and land cover. The data collection event will support students across North America, Latin America, Central America, and Europe, who are working together to document […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/earth-science/autumn-leaves-call-for-volunteers/>
+
+---
+
+## Kites in the Classroom: Training Teachers to Conduct Remote Sensing Missions
+
+date: 2024-10-25, from: NASA breaking news
+
+The NASA Science Activation program’s AEROKATS and ROVER Education Network (AREN), led by Wayne Regional Educational Service Agency (RESA) in Wayne County, MI, provides learners with hands-on opportunities to engage with science instruments &#038; NASA technologies and practices in authentic, experiential learning environments. On July 25, 2024, the AREN team held a four-day virtual workshop: […] 
+
+<br> 
+
+<https://science.nasa.gov/learning-resources/science-activation/kites-in-the-classroom-training-teachers-to-conduct-remote-sensing-missions/>
+
+---
+
+## San Francisco billboards call out tech firms for not paying for open source
+
+date: 2024-10-25, updated: 2024-10-25, from: The Register (UK I.T. News)
+
+<h4>Puts Chief Tightwad Officers on notice</h4> <p>Drivers passing through San Francisco have a new roadside distraction to consider: billboards calling out businesses that don&#39;t cough up for the open source code that they use.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/25/open_source_funding_ads/>
+
+---
+
+## People Born Without a Sense of Smell Have Different Breathing Patterns, Study Finds
+
+date: 2024-10-25, from: Smithsonian Magazine
+
+Study participants with lifelong anosmia sniffed less than those with a normal sense of smell. Future research could shed light on whether this has negative implications for their health 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/people-born-without-a-sense-of-smell-have-different-breathing-patterns-study-finds-180985327/>
+
+---
+
+## High-Altitude ER-2 Flights Get Down-to-Earth Data
+
+date: 2024-10-25, from: NASA breaking news
+
+Operating at altitudes above 99% of the Earth’s atmosphere, NASA’s ER-2 aircraft is the agency&#8217;s highest-flying airborne science platform. With its unique ability to observe from as high as 65,000 feet, the ER-2 aircraft is often a platform for Earth science that facilitates new and crucial information about our planet, especially when the plane is [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/armstrong/high-altitude-er-2-flights-get-down-to-earth-data/>
 
 ---
 
@@ -37,7 +289,7 @@ date: 2024-10-25, updated: 2024-10-25, from: The Register (UK I.T. News)
 
 date: 2024-10-25, from: NASA breaking news
 
-The next private CSUG event will take place November 6 – 7 at NASA’s Goddard Space Flight Center in Greenbelt, Maryland. Throughout the CSUG, representatives from NASA’s Space Communications and Navigation program and CSP’s industry partners will share updates on commercial SATCOM capability developments and the commercial service demonstrations taking place under CSP. The CSUG [&#8230;] 
+The next CSUG event will take place November 6 – 7 at NASA’s Goddard Space Flight Center in Greenbelt, Maryland. Throughout the CSUG, representatives from NASA’s Space Communications and Navigation program and CSP’s industry partners will share updates on commercial SATCOM capability developments and the commercial service demonstrations taking place under CSP. NASA attendees must [&#8230;] 
 
 <br> 
 
@@ -2274,4 +2526,40 @@ date: 2024-10-20, updated: 2024-10-20, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2024/10/20/python_zero_day_tool/>
+
+---
+
+## California cops cuff suspect in deadly drone-assisted drug deal
+
+date: 2024-10-19, updated: 2024-10-19, from: The Register (UK I.T. News)
+
+<h4>‘Crany’ also captured with three &#39;ghost guns&#39;</h4> <p>A California man has been charged with using a DJI drone to distribute drugs, which resulted in a fatal overdose.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/19/california_drone_drug_deal/>
+
+---
+
+## Chromium’s influence on Chromium alternatives
+
+date: 2024-10-19, from: OS News
+
+I don’t think most people realize how Firefox and Safari depend on Google for more than “just” revenue from default search engine deals and prototyping new web platform features. Off the top of my head, Safari and Firefox use the following Chromium libraries: libwebrtc, libbrotli, libvpx, libwebp, some color management libraries, libjxl (Chromium may eventually contribute a Rust JPEG-XL implementation to Firefox; it’s a hard image format to implement!), much of Safari’s cryptography (from BoringSSL), Firefox’s 2D renderer (Skia)…the list goes on. Much of Firefox’s security overhaul in recent years (process isolation, site isolation, user namespace sandboxes, effort on building with ControlFlowIntegrity) is directly inspired by Chromium’s architecture. ↫ Rohan “Seirdy” Kumar Definitely an interesting angle on the browser debate I hadn&#8217;t really stopped to think about before. The argument is that while Chromium&#8217;s dominance is not exactly great, the other side of the coin is that non-Chromium browsers also make use of a lot of Chromium code all of us benefit from, and without Google doing that work, Mozilla would have to do it by themselves, and let&#8217;s face it, it&#8217;s not like they&#8217;re in a great position to do so. I&#8217;m not saying I buy the argument, but it&#8217;s an argument nonetheless. I honestly wouldn&#8217;t mind a slower development pace for the web, since I feel a lot of energy and development goes into things making the web worse, not better. Redirecting some of that development into things users of the web would benefit from seems like a win to me, and with the dominant web engine Chromium being run by an advertising company, we all know where their focus lies, and it ain&#8217;t on us as users. I&#8217;m still firmly on the side of less Chromium, please. 
+
+<br> 
+
+<https://www.osnews.com/story/140949/chromiums-influence-on-chromium-alternatives/>
+
+---
+
+## Europa Clipper heads to Jupiter: Can its icy moon support life?
+
+date: 2024-10-19, updated: 2024-10-19, from: The Register (UK I.T. News)
+
+<h4>But first stop is Mars for a speed boost, then back to Earth for the final push</h4> <p>The Europa Clipper has unfurled its solar panels and is on its way to Jupiter, but it&#39;s taking a circuitous route by way of Mars.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/19/europa_clipper_juniper_support_life/>
 

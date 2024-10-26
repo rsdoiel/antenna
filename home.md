@@ -1,11 +1,359 @@
 ---
 title: home
-updated: 2024-10-25 08:11:26
+updated: 2024-10-26 06:11:17
 ---
 
 # home
 
-(date: 2024-10-25 08:11:26)
+(date: 2024-10-26 06:11:17)
+
+---
+
+## Ranunculus bulbs – A guide from A to Z
+
+date: 2024-10-25, from: San Diego Seed Compan
+
+<p>Many gardeners admire the stunning flowers of ranunculus without realizing how easy they are to grow. Here in Zones 9 and 10, growing ranunculus from bulbs is simple—and every gardener should give it a try! How to Buy Ranunculus Bulbs ... <a href="https://sandiegoseedcompany.com/fall-garden/ranunculus-bulbs-a-guide-from-a-to-z/" class="more-link">Read More</a></p>
+<p>The post <a href="https://sandiegoseedcompany.com/fall-garden/ranunculus-bulbs-a-guide-from-a-to-z/">Ranunculus bulbs &#8211; A guide from A to Z</a> appeared first on <a href="https://sandiegoseedcompany.com">San Diego Seed Company</a>.</p>
+ 
+
+<br> 
+
+<https://sandiegoseedcompany.com/fall-garden/ranunculus-bulbs-a-guide-from-a-to-z/>
+
+---
+
+## Planting Freesia Bulbs
+
+date: 2024-10-25, from: San Diego Seed Compan
+
+<p>Planting Freesia Bulbs in Zone 9 and 10 Freesias are magically fragrant flowers often found in small pots at big-box stores or in spring flower arrangements. Did you know Freesia bulbs are very easy to grow in Zones 9 and ... <a href="https://sandiegoseedcompany.com/planting/planting-freesia-bulbs/" class="more-link">Read More</a></p>
+<p>The post <a href="https://sandiegoseedcompany.com/planting/planting-freesia-bulbs/">Planting Freesia Bulbs</a> appeared first on <a href="https://sandiegoseedcompany.com">San Diego Seed Company</a>.</p>
+ 
+
+<br> 
+
+<https://sandiegoseedcompany.com/planting/planting-freesia-bulbs/>
+
+---
+
+## Outdoor Adventure
+
+date: 2024-10-25, from: Sunset Magazine - Living in the West
+
+Plan an outdoor adventure in the West with our insider tips on national parks, the best campgrounds, amazing hikes, and bike trips. 
+
+<br> 
+
+<https://www.sunset.com/travel/outdoor-adventure>
+
+---
+
+## Hotels, Inns, and More
+
+date: 2024-10-25, from: Sunset Magazine - Living in the West
+
+Staying in the right hotels can make or break a vacation. Get our recommendations for great bargains, most unique sleeps, coastal stays, and more Western accommodations. 
+
+<br> 
+
+<https://www.sunset.com/travel/hotels>
+
+---
+
+## National Parks
+
+date: 2024-10-25, from: Sunset Magazine - Living in the West
+
+Whether you're a first-time visitor or a national parks veteran, you'll find everything you need here to plan the perfect adventure. 
+
+<br> 
+
+<https://www.sunset.com/travel/national-parks>
+
+---
+
+## Road Trips
+
+date: 2024-10-25, from: Sunset Magazine - Living in the West
+
+Satisfy your wanderlust with a Western classic??a great road trip. Get ideas for the best routes and where to eat along the way. 
+
+<br> 
+
+<https://www.sunset.com/travel/road-trips>
+
+---
+
+## Wine Country
+
+date: 2024-10-25, from: Sunset Magazine - Living in the West
+
+The West is home to the country's best wine regions. Explore them all and taste their best offerings, from the cult cabs of Napa to the Pinots of Willamette Valley. 
+
+<br> 
+
+<https://www.sunset.com/travel/wine-country>
+
+---
+
+## WildLands
+
+date: 2024-10-25, from: Sunset Magazine - Living in the West
+
+The adventures and reporting of J.D. Simkins as he roams the remaining "wild lands" of the West. 
+
+<br> 
+
+<https://www.sunset.com/travel/wildlands>
+
+---
+
+## Insider Guides: Places We Love
+
+date: 2024-10-25, from: Sunset Magazine - Living in the West
+
+Use our Insider Guides to browse the hidden gems we love, as featured in Sunset magazine, plus exclusive recommendations from our editors. 
+
+<br> 
+
+<https://www.sunset.com/travel/insider-guides>
+
+---
+
+## Ranking America’s Most Rat-Infested Cities. Did Yours Make the List?
+
+date: 2024-10-25, from: Family Handyman Blog
+
+<p>Is your city overrun with rodents? </p>
+<p>The post <a href="https://www.familyhandyman.com/article/rats-cities-ranked/">Ranking America&#8217;s Most Rat-Infested Cities. Did Yours Make the List?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/rats-cities-ranked/>
+
+---
+
+## An Evolving Chico Garden
+
+date: 2024-10-25, from: California Native Plants Society
+
+<p>After she relocated from the California coast in 2017, Deborah Halfpenny worked to design a cool, shady oasis in an entirely new climate.</p>
+<p>The post <a href="https://www.cnps.org/flora-magazine/native-garden-chico-deborah-halfpenny-40931">An Evolving Chico Garden</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/flora-magazine/native-garden-chico-deborah-halfpenny-40931>
+
+---
+
+## Travel the West
+
+date: 2024-10-25, from: Sunset Magazine - Living in the West
+
+The West is cities and small towns, national parks and wine country, natural wonders and manmade amusements. We have all the tips, guides, ideas, and road-trip routes you need to plan an adventure! 
+
+<br> 
+
+<https://www.sunset.com/travel>
+
+---
+
+## Friday Links: October 25, 2024
+
+date: 2024-10-25, from: California Native Plants Society
+
+<p>Come for the biodiversity (COP16, urban ecology, pop-up wetlands), stay for some seasonal Halloween spookiness!</p>
+<p>The post <a href="https://www.cnps.org/friday-links/friday-links-october-25-2024-40930">Friday Links: October 25, 2024</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/friday-links/friday-links-october-25-2024-40930>
+
+---
+
+## Wellness
+
+date: 2024-10-25, from: Sunset Magazine - Living in the West
+
+Everyday inspiration for balanced, healthy living. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/wellness>
+
+---
+
+## Gifts & Shopping
+
+date: 2024-10-25, from: Sunset Magazine - Living in the West
+
+One-of-a-kind gifts to spread holiday cheer, including picks for everyone on your list, from gardeners and travelers to parents and pets. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping>
+
+---
+
+## Lifestyle
+
+date: 2024-10-25, from: Sunset Magazine - Living in the West
+
+Lifestyle ideas and inspiration for every life stage, from gift guides and gear recommendations to wedding planning, living with kids and pets, and saving for home remodels. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle>
+
+---
+
+## The Idea Hub
+
+date: 2024-10-25, from: Sunset Magazine - Living in the West
+
+Innovative design and genius decorating ideas are around every corner in our Idea Hub showcase homes. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/idea-houses>
+
+---
+
+## Flowers & Plants
+
+date: 2024-10-25, from: Sunset Magazine - Living in the West
+
+The very best flowers and plants for your garden's climate zone. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/plants>
+
+---
+
+## Landscaping
+
+date: 2024-10-25, from: Sunset Magazine - Living in the West
+
+Get landscaping ideas and inspiration from our gardening experts to design your own backyard or garden oasis. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/landscaping>
+
+---
+
+## Garden Basics
+
+date: 2024-10-25, from: Sunset Magazine - Living in the West
+
+Learn how to start your own home garden with our gardening experts&apos; tips and tutorials 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics>
+
+---
+
+## Decorating & Design
+
+date: 2024-10-25, from: Sunset Magazine - Living in the West
+
+Transform your home with our decorating tips, including ideas for small spaces, DIY projects, home design, and more. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design>
+
+---
+
+## Home Tours
+
+date: 2024-10-25, from: Sunset Magazine - Living in the West
+
+Take a peek at our favorite homes around the West, from modern cabins to mid-century ranch houses 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours>
+
+---
+
+## Home & Garden
+
+date: 2024-10-25, from: Sunset Magazine - Living in the West
+
+Great home and garden design ideas, from decorating and DIY projects to landscaping and edible gardening tips from Sunset magazine. 
+
+<br> 
+
+<https://www.sunset.com/home-garden>
+
+---
+
+## Recipes
+
+date: 2024-10-25, from: Sunset Magazine - Living in the West
+
+Search Sunset's collection of great recipes for every occasion. From quick weekday meals to indulgent holiday menus, we share the best in Western cooking. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant>
+
+---
+
+## Food and Drink
+
+date: 2024-10-25, from: Sunset Magazine - Living in the West
+
+Delicious recipes, food and wine pairings, and more ways to savor the West. 
+
+<br> 
+
+<https://www.sunset.com/food-wine>
+
+---
+
+## Budget Breakdown: For $213K, a Creative Couple Remodel a Cozy California Cabin—Without Drywall
+
+date: 2024-10-25, from: Dwell
+
+Color and vintage furnishings make this 1977 gem "feel like a hug." 
+
+<br> 
+
+<https://www.dwell.com/article/budget-breakdown-for-dollar213k-a-creative-couple-remodel-a-cozy-california-cabinwithout-drywall-301df9e2>
+
+---
+
+## How to Overwinter Amaryllis Bulbs
+
+date: 2024-10-25, from: The Gardener's Path
+
+<p>Amaryllis (Hippeastrum spp.) are showy tropical bulbs often forced to bloom indoors in the winter months. But they can also be grown outdoors as annuals and stored for winter, or as perennials in warmer Zones with some cold weather protection. Learn how to overwinter amaryllis bulbs in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/overwinter-amaryllis/">How to Overwinter Amaryllis Bulbs</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/overwinter-amaryllis/>
+
+---
+
+## This $899K Home by the "Father of the Ranch House" Is Walking Distance to Disneyland
+
+date: 2024-10-25, from: Dwell
+
+If you love midcenturies and tropical landscaping, the three-bedroom Cliff May dwelling might just be the happiest place on earth. 
+
+<br> 
+
+<https://www.dwell.com/article/renovated-midcentury-home-cliff-may-anaheim-california-real-estate-03eeb4a7>
 
 ---
 
@@ -1310,4 +1658,99 @@ date: 2024-10-20, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/katniss-plant-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## Open House Event: This Ever-Expanding L.A. Home Was 24 Years in the Making
+
+date: 2024-10-19, from: Dwell
+
+Showcased in our L.A. home tour series, architect couple Rebecca Rudolph and Colin Thompson’s Atwater Village Home is a testament to their creativity and their family’s changing needs. 
+
+<br> 
+
+<https://www.dwell.com/article/atwater-house-rebecca-rudolph-colin-thompson-open-house-los-angeles-f2d8cc19>
+
+---
+
+## Open House Event: This Cozy L.A. Home Pairs High Design With Down-to-Earth Sustainability
+
+date: 2024-10-19, from: Dwell
+
+Featured in our L.A. home tour series, Lizz Wasserman and Isaac Resnikoff’s Highland Park dwelling has playful interiors and an ever-evolving landscape. 
+
+<br> 
+
+<https://www.dwell.com/article/abbott-hill-house-louis-wasserman-caren-connolly-project-room-open-house-los-angeles-9d21d291>
+
+---
+
+## Open House Event: They Gave Their "Grey Gardens" Craftsman a Grand Reinvention
+
+date: 2024-10-19, from: Dwell
+
+Our in-person L.A. home tour series features architect Chet Callahan’s century-old Los Feliz estate, which playfully merges old and new. 
+
+<br> 
+
+<https://www.dwell.com/article/cummings-estate-chet-architecture-craftsman-renovation-open-house-los-angeles-dbd0e3b2>
+
+---
+
+## Comprehensive Sugar Cane Plant Care and Cultivation Guide
+
+date: 2024-10-19, from: Yard Life blog
+
+<p>The sugar cane plant, scientifically known as Saccharum officinarum, is a tall perennial grass celebrated for its sweet sap-rich stems. ... </p>
+<p class="read-more-container"><a title="Comprehensive Sugar Cane Plant Care and Cultivation Guide" class="read-more button" href="https://ownyardlife.com/comprehensive-sugar-cane-plant-care-and-cultivation-guide/#more-20927" aria-label="Read more about Comprehensive Sugar Cane Plant Care and Cultivation Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/comprehensive-sugar-cane-plant-care-and-cultivation-guide/">Comprehensive Sugar Cane Plant Care and Cultivation Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/comprehensive-sugar-cane-plant-care-and-cultivation-guide/>
+
+---
+
+## Swiss Cheese Plant Care and Growing Guide with Top Tips
+
+date: 2024-10-19, from: Yard Life blog
+
+<p>The Swiss cheese plant, known scientifically as Monstera adansonii, is a popular houseplant with large, heart-shaped leaves that develop unique ... </p>
+<p class="read-more-container"><a title="Swiss Cheese Plant Care and Growing Guide with Top Tips" class="read-more button" href="https://ownyardlife.com/swiss-cheese-plant-care-and-growing-guide-with-top-tips/#more-20918" aria-label="Read more about Swiss Cheese Plant Care and Growing Guide with Top Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/swiss-cheese-plant-care-and-growing-guide-with-top-tips/">Swiss Cheese Plant Care and Growing Guide with Top Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/swiss-cheese-plant-care-and-growing-guide-with-top-tips/>
+
+---
+
+## Money Tree Plant Care and Growing Tips for Healthy Growth
+
+date: 2024-10-19, from: Yard Life blog
+
+<p>The Money Tree (Pachira aquatica), also known as the Guiana Chestnut or Malabar Chestnut, is a popular houseplant native to ... </p>
+<p class="read-more-container"><a title="Money Tree Plant Care and Growing Tips for Healthy Growth" class="read-more button" href="https://ownyardlife.com/money-tree-plant-care-and-growing-tips-for-healthy-growth/#more-20908" aria-label="Read more about Money Tree Plant Care and Growing Tips for Healthy Growth">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/money-tree-plant-care-and-growing-tips-for-healthy-growth/">Money Tree Plant Care and Growing Tips for Healthy Growth</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/money-tree-plant-care-and-growing-tips-for-healthy-growth/>
+
+---
+
+## 8 Best Sun Protection Shirts for Women for Yard Work and More, Tested and Reviewed
+
+date: 2024-10-19, from: Family Handyman Blog
+
+<p>The best sun protection shirts are comfortable, stylish and, most importantly, provide protection from UVA and UVB rays.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/best-sun-protection-shirts-for-women/">8 Best Sun Protection Shirts for Women for Yard Work and More, Tested and Reviewed</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/best-sun-protection-shirts-for-women/>
 

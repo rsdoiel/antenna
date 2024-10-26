@@ -1,11 +1,265 @@
 ---
 title: columns
-updated: 2024-10-25 08:11:25
+updated: 2024-10-26 06:11:15
 ---
 
 # columns
 
-(date: 2024-10-25 08:11:25)
+(date: 2024-10-26 06:11:15)
+
+---
+
+## Journalism dies in darkness
+
+date: 2024-10-25, from: Dave Winer's Scripting News
+
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/09/12/hippieHarrisSign.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The Washington Post <a href="https://www.npr.org/2024/10/25/nx-s1-5165353/washington-post-presidential-endorsement-trump-harris">announcing</a> it wouldn’t endorse a candidate for president is the first glimpse we’ve had of how news publishing in the US has been devastated by fear of fascism. This must go back at least as far as the 2016 election and <a href="https://en.wikipedia.org/wiki/Hillary_Clinton_email_controversy">Hillary’s emails</a>. The editorial people broke the wall, deciding to give the readers <a href="https://www.washingtonpost.com/style/media/2024/10/25/washington-post-endorsement-president/">the first glimpse</a> we’ve gotten into the inner conflicts of one two most influential news orgs in the country.
+</p>
+<p>Until now this was the one story they would never report on. Truly a milestone. And now that the window is open, open it further. Report on how a major news org holds back stories that would be of intense interest to the people, if only the news orgs did their jobs. This is where the "public editors" never went, and should have gone.
+</p>
+ 
+
+<br> 
+
+<http://scripting.com/2024/10/25/235617.html?title=journalismDiesInDarkness>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-25, from: Dave Winer's Scripting News)
+
+Tonight's song: <a href="https://www.youtube.com/watch?v=T5FN06LFfHk">Unbroken Chain</a>. 
+
+<br> 
+
+<http://scripting.com/2024/10/25.html#a235452>
+
+---
+
+## Cowardice and intimidation at The Washington Post and L.A. Times 
+
+date: 2024-10-25, from: Robert Reich's blog
+
+Their billionaire owners are Trump enablers 
+
+<br> 
+
+<https://robertreich.substack.com/p/cowardice-and-intimidation-at-the>
+
+---
+
+## 2024 Election Video of the week
+
+date: 2024-10-25, from: Robert Reich's blog
+
+#8 
+
+<br> 
+
+<https://robertreich.substack.com/p/2024-election-video-of-the-week>
+
+---
+
+## Friday Squid Blogging: Giant Squid Found on Spanish Beach
+
+date: 2024-10-25, updated: 2024-10-25, from: Bruce Schneier blog
+
+<p>A giant squid has <a href="https://www.newsweek.com/rarely-seen-giant-squid-washes-beach-1969848">washed up</a> on a beach in Northern Spain.</p>
+<p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/10/friday-squid-blogging-giant-squid-found-on-spanish-beach.html>
+
+---
+
+##  New book from John Green: Everything Is Tuberculosis, the story of &#8220;the... 
+
+date: 2024-10-25, updated: 2024-10-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045525-new-book-from-john-green>
+
+---
+
+##  Dua Lipa&#8217;s (Proper) Tiny Desk Concert 
+
+date: 2024-10-25, updated: 2024-10-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/dua-lipas-proper-tiny-desk-concert>
+
+---
+
+##  The NY Times Editorial Board: &#8220;Donald Trump says he will prosecute his... 
+
+date: 2024-10-25, updated: 2024-10-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045526-the-ny-times-editorial-bo>
+
+---
+
+## Life in Links 59
+
+date: 2024-10-25, from: John's World Wide Wall Display
+
+<div><img width="620" height="175" src="https://johnjohnston.info/blog/wp-content/uploads/2024/10/13-Oct-2024links-montage-620x175.png" class="attachment-medium size-medium u-featured wp-post-image" alt="A montage of screenshots: OSXPhotos - osxphotos 0.68.6 documentation Forever ✱ Notes - A free framework for Apple Notes About | bcattools WordPress Block Themes Simplified: A Must-Watch Guide for Beginners! - YouTube Tax Facts – free resources for teachers and parents - GOV.UK The secret power of a blog – Tracy Durnell’s Mind Garden Bonus Content - Danny Nics Science Fix Digital Citizenship UK_Year 1-13 Progression 2023 - Google Docs" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://johnjohnston.info/blog/wp-content/uploads/2024/10/13-Oct-2024links-montage-620x175.png 620w, https://johnjohnston.info/blog/wp-content/uploads/2024/10/13-Oct-2024links-montage-1024x288.png 1024w, https://johnjohnston.info/blog/wp-content/uploads/2024/10/13-Oct-2024links-montage-768x216.png 768w, https://johnjohnston.info/blog/wp-content/uploads/2024/10/13-Oct-2024links-montage-668x188.png 668w, https://johnjohnston.info/blog/wp-content/uploads/2024/10/13-Oct-2024links-montage.png 1200w" sizes="(max-width: 620px) 100vw, 620px" data-attachment-id="19808" data-permalink="https://johnjohnston.info/blog/life-in-links-59/13-oct-2024links-montage/" data-orig-file="https://johnjohnston.info/blog/wp-content/uploads/2024/10/13-Oct-2024links-montage.png" data-orig-size="1200,338" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="13 Oct 2024links-montage" data-image-description="" data-image-caption="" data-medium-file="https://johnjohnston.info/blog/wp-content/uploads/2024/10/13-Oct-2024links-montage-620x175.png" data-large-file="https://johnjohnston.info/blog/wp-content/uploads/2024/10/13-Oct-2024links-montage-1024x288.png" tabindex="0" role="button" /></div>Tech OSXPhotos What is OSXPhotos?OSXPhotos provides both the ability to interact with and query Apple’s Photos.app library on macOS directly from your python code as well as a very flexible command line interface (CLI) app for exporting photos. You can query the Photos library database – for example, file name, file path, and metadata such [&#8230;] 
+
+<br> 
+
+<https://johnjohnston.info/blog/life-in-links-59/>
+
+---
+
+## October 24, 2024
+
+date: 2024-10-25, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/150728515/0b3150394c1047608d3a637038924eab.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/150728515/0b3150394c1047608d3a637038924eab.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/october-24-2024-4cb>
+
+---
+
+##  Above 
+
+date: 2024-10-25, updated: 2024-10-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/above>
+
+---
+
+## Online ordering hours
+
+date: 2024-10-25, from: Tracy Durnell Blog
+
+It doesn&#8217;t happen often, but whenever I come across an online business that doesn&#8217;t take orders 24/7/365, it gives them a bump up in my opinion. Resisting the demands of constant growth and &#8216;convenience?&#8217; Giving your employees a break? I love it. (Prompted by landing on B&#38;H Photo&#8216;s website and seeing they&#8217;re closed for Shabbat. [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2024/10/25/online-ordering-hours/>
+
+---
+
+##  Overturning Roe v. Wade resulted in more infant deaths. &#8220;Hundreds more babies... 
+
+date: 2024-10-25, updated: 2024-10-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045524-overturning-roe-v-wade-re>
+
+---
+
+## Personal Agentic AI
+
+date: 2024-10-25, from: Doc Searls (at Harvard), New Old Blog
+
+&#8220;Agentic&#8221; is hot: As an adjective, it is typically used as a modifier for AI: Not surprisingly, Gartner puts it atop its Top 10 Strategic Technology Trends for 2025: Here is one explanation, among many: Theme No. 1: AI imperatives and risks drive organizations to protect themselves Trend 1: Agentic AI: Autonomous AI can plan and take [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2024/10/25/personal-agentic-ai/>
+
+---
+
+## Surgeons Are Wearing Vision Pro to Perform Laparoscopic Procedures
+
+date: 2024-10-25, updated: 2024-10-26, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://time.com/7093536/surgeons-apple-vision-pro/>
+
+---
+
+##  If Adam Picked the Apple 
+
+date: 2024-10-25, updated: 2024-10-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/if-adam-picked-the-apple>
+
+---
+
+## What Claude and ChatGPT can see on your screen
+
+date: 2024-10-25, from: Jonudell blog
+
+&#8220;If you work with these cloud platforms every day, you have doubtless forgotten that you ever had questions like these. But every newcomer does. And on a continuing basis, we are all newcomers to various aspects of applications and services. In so many ways, the experience boils down to: I am here, what do I &#8230; <a href="https://blog.jonudell.net/2024/10/25/what-claude-and-chatgpt-can-see-on-your-screen/" class="more-link">Continue reading <span class="screen-reader-text">What Claude and ChatGPT can see on your screen</span></a> 
+
+<br> 
+
+<https://blog.jonudell.net/2024/10/25/what-claude-and-chatgpt-can-see-on-your-screen/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-25, from: Dave Winer's Scripting News)
+
+Maybe political parties should have strongmen, that might have prevented us from having one as the head of the government. 
+
+<br> 
+
+<http://scripting.com/2024/10/25.html#a163249>
+
+---
+
+##  Here&#8217;s how foods that were a part of WWII soldiers&#8217; rations (like... 
+
+date: 2024-10-25, updated: 2024-10-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045521-heres-how-foods-that-were>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-25, from: Dave Winer's Scripting News)
+
+I just changed the header graphic for my blog from the <a href="http://scripting.com/images/2024/10/16/mets1969TeamPicture.png">1969 Mets</a>, to the <a href="http://scripting.com/images/2024/10/25/supremeCourt.png">2024 Supreme Court</a>. They're Americans too, and I have a feeling they're going to be on the train to Aurora or Springfield before too long, if the worst happens. 
+
+<br> 
+
+<http://scripting.com/2024/10/25.html#a160348>
+
+---
+
+##  &#8220;Polls are not votes. The candidates are not deadlocked. There is no... 
+
+date: 2024-10-25, updated: 2024-10-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045519-polls-are-not-votes-the>
 
 ---
 
@@ -402,7 +656,7 @@ Humane, the San Francisco startup that made headlines (and not the right kind) w
 
 ## Every New Feature and Change in iOS 18.2 Beta 1
 
-date: 2024-10-24, updated: 2024-10-24, from: Daring Fireball
+date: 2024-10-24, updated: 2024-10-26, from: Daring Fireball
 
  
 
@@ -739,7 +993,7 @@ date: 2024-10-23, updated: 2024-10-23, from: Daring Fireball
 
 ## On the Cusp of Apple Intelligence’s Launch, Joanna Stern Interviews Craig Federighi
 
-date: 2024-10-23, updated: 2024-10-23, from: Daring Fireball
+date: 2024-10-23, updated: 2024-10-26, from: Daring Fireball
 
  
 
@@ -2067,4 +2321,84 @@ In the chaos of daily news, don't lose sight of: The danger of JD Vance, the nak
 <br> 
 
 <https://fallows.substack.com/p/election-countdown-17-days-to-go>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-19, from: Dave Winer's Scripting News)
+
+I asked ChatGPT to <a href="https://imgs.scripting.com/2024/10/19/metswin.png">illustrate</a> my post. Not bad. Very colorful! 
+
+<br> 
+
+<http://scripting.com/2024/10/19.html#a132955>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-19, from: Dave Winer's Scripting News)
+
+It's possible the Dodgers let the Mets win as I <a href="http://scripting.com/2024/10/18.html#a144749">begged</a> them to yesterday, but it's also possible the Mets just <a href="https://sports.yahoo.com/live/dodgers-vs-mets-new-york-bats-come-alive-in-game-5-sending-series-back-to-los-angeles-201027428.html">crushed</a> the Dodgers, but either way, the Mets are still in it. The series is now 3-2, and returns to Los Angeles tomorrow. So we don't have to tear down <a href="https://en.wikipedia.org/wiki/Citi_Field">Citi Field</a> after all. If the Dodgers win it'll be in their own stadium. The Mets were magnificent! Absolutely inspiring. A three-run home run by Alonso started things off. Everyone got on base. Doubles and triples. It wasn't without the concern that our wonderful and lovable Mets would do the usual Mets thing and snatch defeat from the jaws of victory, but they held out. The final score was 12-6. We're still in it. Lets go Mets! 
+
+<br> 
+
+<http://scripting.com/2024/10/19.html#a132034>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-19, from: Dave Winer's Scripting News)
+
+<a href="https://mastodon.social/@Gargron/113330804558010593">Eugen Rochko</a>, the lead developer of Mastodon: "Fediverse integration in Threads is still in a sorry state over a year since launch. They need to be able to follow us back. They need to see when we mention them. Those are such basic things." They got what they wanted, they got the users and press to relax because they’re Facebook who we know, but this is different, it’s the fediverse. And they got Eugen and others to validate them. This always works, standard tech playbook. they give up nothing, then the priority changes. I don't like being right. But they're never going to change in Silicon Valley. They do what works, and take advantage of newcomers who want to believe. 
+
+<br> 
+
+<http://scripting.com/2024/10/19.html#a131620>
+
+---
+
+## Trump is unstable, Harris is super able | The Coffee Klatch: October 19, 2024
+
+date: 2024-10-19, from: Robert Reich's blog
+
+With Heather Lofthouse and Yours Truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/150420740/fd273e48859f1d09cc4abb313aeb831e.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/150420740/fd273e48859f1d09cc4abb313aeb831e.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/trump-is-unstable-harris-is-super>
+
+---
+
+## October 18, 2024
+
+date: 2024-10-19, from: Heather Cox Richardson blog
+
+The events of January 6, 2021, overshadowed those of January 5, 2021, but that day was crucially important in a different way: Georgia voters elected two Democrats, Raphael Warnock and Jon Ossoff, to the U.S. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/october-18-2024>
+
+---
+
+## Weeknotes: Oct. 11-18, 2024
+
+date: 2024-10-19, from: Tracy Durnell Blog
+
+Win of the week: finally did a bit of writing! Looking forward to: voting &#8212; got my ballot in the mail today! 🗳️ Stuff I did: 6.5 hours consulting &#8212; multiple client meetings, which is uncommon for me 2.5 hours writing &#8212; woo! took Monday off from consulting work more pruning and dug up a volunteer [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2024/10/18/weeknotes-oct-11-18-2024/>
+
+---
+
+## History Extra for October 17, 2024
+
+date: 2024-10-19, from: Heather Cox Richardson blog
+
+&#8220;Reality TV&#8221; as its own genre arrived in the U.S. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/history-extra-for-october-17-2024>
 

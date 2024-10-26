@@ -1,11 +1,71 @@
 ---
 title: games
-updated: 2024-10-25 08:11:25
+updated: 2024-10-26 06:11:16
 ---
 
 # games
 
-(date: 2024-10-25 08:11:25)
+(date: 2024-10-26 06:11:16)
+
+---
+
+## Where to pre-order Magic: The Gathering &#8211; Innistrad Remastered
+
+date: 2024-10-25, updated: 2024-10-25, from: Polygon Website
+
+Wizards of the Coast recently revealed its product lineup for Magic: The Gathering in 2025. While collaborations featuring Final Fantasy and Marvel franchises are some of the biggest takeaways, Wizards also quietly announced a new, limited edition set called Innistrad Remastered, which arrives Jan. 25, 2025. Just like MTG’s recently announced Foundations set, Innistrad Remastered [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pre-order/470420/magic-the-gathering-innistrad-remastered-where-to-buy>
+
+---
+
+## Magic: The Gathering’s Final Fantasy reveal arrives with big changes for the beloved TCG
+
+date: 2024-10-25, updated: 2024-10-25, from: Polygon Website
+
+Wizards of the Coast has lifted the curtain on its 2025 Magic: The Gathering release calendar, including a preview of art from a highly anticipated crossover with Final Fantasy. But the publisher also revealed some big changes coming to the trading card game. A cascade of announcements, made live at the MagicCon Las Vegas fan [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mtg-magic-the-gathering/470491/final-fantasy-art-reveal-universes-beyond-standard-legal-announcement>
+
+---
+
+## Transformers One, Trap, Netflix’s Don’t Move, and every movie new to streaming this week
+
+date: 2024-10-25, updated: 2024-10-25, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. This week, Transformers One, the animated sci-fi adventure movie starring Chris Hemsworth (Furiosa: A Mad Max Saga) and Brian Tyree Henry (Atlanta), rolls out onto VOD [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/467855/new-movies-watch-streaming-transformers-one-trap-netflix-dont-move>
+
+---
+
+## Twitch’s changing guidelines could have a real economic impact on Vtubers
+
+date: 2024-10-25, updated: 2024-10-25, from: Polygon Website
+
+Vtubers might appear on the screen as digital avatars, but now these streamers are bumping up against the same rules real-life ones do. Earlier this month, Twitch added “Enforcement Notes” to its terms of service that say the anime characters must abide by the platform’s clothing and dress guidelines —&#160;and it’s causing a lot of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/culture/470293/twitch-vtuber-tos-attire-guidelines-chastity-belt>
+
+---
+
+## How to solve all safehouse puzzles in Black Ops 6
+
+date: 2024-10-25, updated: 2024-10-25, from: Polygon Website
+
+There are a number of puzzles in the Black Ops 6 safehouse, your base of operations for the campaign. The safehouse plays all the classics: from the piano-opens-a-secret-door gag to alphanumeric codes and hidden blacklight messages. If you want some free money to kickstart your upgrades, plus a unique knife blueprint, here’s how to solve [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/black-ops-6-guides/470505/safehouse-puzzles-all-solutions-how-to-solve>
 
 ---
 
@@ -690,4 +750,52 @@ The Electric State, the Netflix film starring Millie Bobby Brown and Chris Pratt
 <br> 
 
 <https://www.polygon.com/deals/467179/electric-state-ttrpg-where-to-buy-simon-stalenhag>
+
+---
+
+## The art of gore: Timo Tjahjanto on why keeping movie action bloody is a matter of ‘respect’
+
+date: 2024-10-19, updated: 2024-10-18, from: Polygon Website
+
+With his blood-soaked tales of violence and vengeance like The Night Comes for Us and Headshot, Timo Tjahjanto earned a reputation as one of the world’s goriest action directors. But he doesn’t see himself that way. Tjahjanto began his filmmaking career making slasher movies as half of the Mo brothers, teaming up with his longtime [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/action/465088/timo-tjahjanto-gore-action-violence-interview-shadow-strays-netflix>
+
+---
+
+## Miss what Stranger Things used to be? Watch Hysteria! on Peacock
+
+date: 2024-10-19, updated: 2024-10-18, from: Polygon Website
+
+It’s hard to remember what watching the first season of Stranger Things was like. Years later, with a final season pending (and pending, and pending—), the show has become a cultural juggernaut; the way it brought D&#38;D terms to the foreground of culture seems like but a glint in the eye of a thoroughly merchandised [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/467606/hysteria-peacock-new-show-review-stranger-things>
+
+---
+
+## Keep Driving turns a long-haul road trip into a turn-based RPG
+
+date: 2024-10-19, updated: 2024-10-18, from: Polygon Website
+
+I love driving. I love the physical act of it — controlling this big, sophisticated machine like it’s an extension of me. But I also love the poetry and adventure of long-distance drives — the freedom, the self-reliance, the gradually changing landscape, the sense of limitless possibilities. Video games are fantastic at capturing the first [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/467287/keep-driving-demo-rpg>
+
+---
+
+## The best sci-fi movies to watch on Netflix this October
+
+date: 2024-10-19, updated: 2024-10-18, from: Polygon Website
+
+We’re midway through October now, which means that spooky season is almost over. If you’re looking for a handful of great sci-fi films to watch to break up your yearly horror movie marathon, you’ve come to the right place! As always, we’ve sifted through Netflix’s streaming library to bring you the very best sci-fi movies [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/466140/best-sci-fi-movies-watch-netflix-october-2024>
 

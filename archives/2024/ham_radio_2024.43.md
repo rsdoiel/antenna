@@ -1,11 +1,61 @@
 ---
 title: ham radio
-updated: 2024-10-25 08:11:24
+updated: 2024-10-26 06:11:15
 ---
 
 # ham radio
 
-(date: 2024-10-25 08:11:24)
+(date: 2024-10-26 06:11:15)
+
+---
+
+## High rupture capacity fuses: same idea, different reality
+
+date: 2024-10-25, from: EDN Blog
+
+<img width="1428" height="384" src="https://www.edn.com/wp-content/uploads/Power-Points-Blog164_Hi-rupture-fuses_Fig2.png?fit=1428%2C384" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Power-Points-Blog164_Hi-rupture-fuses_Fig2.png?w=1428 1428w, https://www.edn.com/wp-content/uploads/Power-Points-Blog164_Hi-rupture-fuses_Fig2.png?w=300 300w, https://www.edn.com/wp-content/uploads/Power-Points-Blog164_Hi-rupture-fuses_Fig2.png?w=768 768w, https://www.edn.com/wp-content/uploads/Power-Points-Blog164_Hi-rupture-fuses_Fig2.png?w=1024 1024w" sizes="(max-width: 1428px) 100vw, 1428px" /><p>Melting-element fuses rated for thousands of amps need a special addition to prevent an arc from continuing once the fuse element melts.</p>
+<p>The post <a href="https://www.edn.com/high-rupture-capacity-fuses-same-idea-different-reality/" data-wpel-link="internal">High rupture capacity fuses: same idea, different reality</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/high-rupture-capacity-fuses-same-idea-different-reality/>
+
+---
+
+## Dream Rig Contest Underway
+
+date: 2024-10-25, from: Amateur Radio Relay League News
+
+<p>The 5th annual Youth "Dream Rig" Essay Contest has begun to accept submissions.</p><p>The contest is sponsored by The Intrepid-DX Group, a U.S.-based 501 (c) (3) nonprofit organization that promotes amateur radio activities around the world and recognizes the importance of including youth in the amateur radio hobby.</p><p>Contestants must be USA or Canadian amateur radio license holders aged 19 or younger. A...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/dream-rig-contest-underway>
+
+---
+
+## Handbook 101: A New Generation of Amateur Radio
+
+date: 2024-10-25, from: Amateur Radio Relay League News
+
+ 
+
+<br> 
+
+<http://www.arrl.org/news/view/handbook-101-a-new-generation-of-amateur-radio>
+
+---
+
+## The K7RA Solar Update
+
+date: 2024-10-25, from: Amateur Radio Relay League News
+
+<p>Key solar indicators were lower this week, with average daily solar<br />flux down from 194.3 to 170.5 and average daily sunspot numbers<br />declining from 129.3 to 127.7.<br /><br />On October 22, Spaceweather.com reported:<br /><br />"THE SUN IS TAKING A QUICK BREAK: Solar Max is hard work. Just ask<br />the Sun. After flaring almost without pause for the past 10 months,<br />the Sun is taking a quick break. Solar activity has been low fo...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/the-k7ra-solar-update-851>
 
 ---
 
@@ -13,7 +63,7 @@ updated: 2024-10-25 08:11:24
 
 date: 2024-10-24, from: EDN Blog
 
-<img width="800" height="439" src="https://www.edn.com/wp-content/uploads/Microchip-RTG4.jpg?fit=800%2C439" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Microchip-RTG4.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Microchip-RTG4.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Microchip-RTG4.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Microchip’s RTG4 FPGAs with lead-free flip-chip bumps have achieved QML Class V qualification, the highest level for space components.</p>
+<img width="800" height="439" src="https://www.edn.com/wp-content/uploads/Microchip-RTG4.jpg?fit=800%2C439" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Microchip-RTG4.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Microchip-RTG4.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Microchip-RTG4.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Microchip’s RTG4 FPGAs with lead-free flip-chip bumps have achieved QML Class V qualification, the highest level for space components.</p>
 <p>The post <a href="https://www.edn.com/rad-tolerant-fpgas-earn-qml-class-v-status/" data-wpel-link="internal">Rad-tolerant FPGAs earn QML Class V status</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
@@ -224,4 +274,16 @@ date: 2024-10-21, from: EDN Blog
 <br> 
 
 <https://www.edn.com/integration-of-flexible-batteries-in-wearable-and-foldable-electronics/>
+
+---
+
+## Hurricane Oscar - Storm Updates
+
+date: 2024-10-19, from: Amateur Radio Relay League News
+
+<p><strong>Saturday, October 19, 2024 8:00 PM Eastern Update:</strong></p><p><em>The following information was received from The Hurricane Watch Net:</em></p><blockquote><p><span>The Hurricane Watch Net will be activated this afternoon for Hurricane Oscar at 3:00 PM EDT (1900 UTC). This storm has developed quickly over the past 12 hours and it intensifying still. H</span><span>urricane conditions could affect portions of the southeastern Bahamas, Turks and Caicos Isl...</span></p></blockquote> 
+
+<br> 
+
+<http://www.arrl.org/news/view/hurricane-oscar-storm-updates>
 

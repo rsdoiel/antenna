@@ -1,11 +1,61 @@
 ---
 title: journalism
-updated: 2024-10-25 08:11:26
+updated: 2024-10-26 06:11:16
 ---
 
 # journalism
 
-(date: 2024-10-25 08:11:26)
+(date: 2024-10-26 06:11:16)
+
+---
+
+## Album review: Halsey’s “The Great Impersonator” beautifully blends inspirations, personal story
+
+date: 2024-10-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+Even when its impersonations of other artists grow loose, Halsey&#8217;s latest album still delivers intensely personal music.
+The singer-songwriter released her fifth studio album &#8220;The Great Impersonator&#8221; on Friday. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/25/album-review-halseys-the-great-impersonator-beautifully-blends-inspirations-personal-story/>
+
+---
+
+## Movie review: ‘Venom: The Last Dance’ delivers a touching finale, blending action with nostalgia
+
+date: 2024-10-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#8220;Venom: The Last Dance&#8221; is a shockingly beautiful curtain call.
+Director Kelly Marcel delivered a timeless comic book love story with &#8220;Venom: The Last Dance,&#8221; which released in theaters Friday. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/25/movie-review-venom-the-last-dance-delivers-a-touching-finale-blending-action-with-nostalgia/>
+
+---
+
+## The Badge Project Highlights Resources for Transfer Students
+
+date: 2024-10-25, from: The Sundail (CSUN Student Newspaper)
+
+National Transfer Student Week, held the week of Oct. 21, celebrates students who have completed college credits at another college or university before finishing their degree at CSUN. On Oct.... 
+
+<br> 
+
+<https://sundial.csun.edu/186815/arts-entertainment/the-badge-project-highlights-resources-for-transfer-students/>
+
+---
+
+## CSUN students dance towards a degree
+
+date: 2024-10-25, from: The Sundail (CSUN Student Newspaper)
+
+This fall, CSUN introduced a Bachelor of Arts degree in Dance, providing students with a formal pathway in dance education. Kinesiology professor Paula Thomson led the effort to establish the... 
+
+<br> 
+
+<https://sundial.csun.edu/186807/news/csun-students-dance-towards-a-degree/>
 
 ---
 
@@ -1275,4 +1325,59 @@ Almost every seat in the main hall of Hillel 818 was filled as the Jewish organi
 <br> 
 
 <https://sundial.csun.edu/186367/arts-entertainment/hillel-818-opens-its-doors-for-mega-shabbat/>
+
+---
+
+## ACM Studio makes game design accessible to all students
+
+date: 2024-10-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+While some college students might enjoy playing video games, the ones in ACM Studio enjoy making them.
+The student-run organization specializes in game development as a subset of the UCLA chapter of the Association for Computing Machinery, said fourth-year cognitive science student Faustine Wang, a senior advisor for ACM Studio. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/19/acm-studio-makes-game-design-accessible-to-all-students/>
+
+---
+
+## UCPD searches for 3 suspects in off-campus hate crime toward students
+
+date: 2024-10-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 20 at 11:52 p.m.</em>
+UCPD is searching for three individuals suspected of an off-campus battery and hate crime Saturday.&#160;
+According to a crime alert sent around 10:30 a.m. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/19/ucpd-searches-for-3-suspects-in-off-campus-hate-crime-toward-students/>
+
+---
+
+## Concert review: Even with only 75 minutes, Tinashe shows no fear of getting ‘Nasty’ onstage
+
+date: 2024-10-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 20 at 8:51 p.m.</em>
+It turns out no one can match Tinashe’s freak when she&#8217;s on stage.
+The singer-songwriter – who was born in Kentucky but hails from Pasadena – returned to Los Angeles for the third stop of her “Match My Freak World Tour” on Thursday night at the Greek Theatre. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/18/concert-review-even-with-only-75-minutes-tinashe-shows-no-fear-of-getting-nasty-onstage/>
+
+---
+
+## USAC officers announce additional arrests, warrants related to encampment attack
+
+date: 2024-10-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 20 at 5:59 p.m.</em>
+Three student government leaders announced additional arrests related to the April 30 counter-protester attack against the Palestine solidarity encampment at UCLA.&#160;
+The arrests were announced in a transparency report posted to Instagram on Friday evening by Undergraduate Students Association Council President Adam Tfayli, Internal Vice President Josh Garland and External Vice President Javier Nuñez-Verdugo. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/18/usac-officers-announce-additional-arrests-warrants-related-to-encampment-attack/>
 

@@ -1,11 +1,23 @@
 ---
 title: libraries
-updated: 2024-10-25 08:11:26
+updated: 2024-10-26 06:11:16
 ---
 
 # libraries
 
-(date: 2024-10-25 08:11:26)
+(date: 2024-10-26 06:11:16)
+
+---
+
+## Open Access Week – Community Over Commercialization
+
+date: 2024-10-25, from: CSUN Library Blog, Cited
+
+Thank you to Librarian Andrew Weiss for this Cited at the Library contribution! Open access week 2024: Community over commercialization through open access journal publishing  Overview:  &#8230; 
+
+<br> 
+
+<https://library.csun.edu/blogs/cited/2024/10/25/open-access-week-2024/>
 
 ---
 
@@ -13,7 +25,7 @@ updated: 2024-10-25 08:11:26
 
 date: 2024-10-25, from: Association of Research Libraries News
 
-<p>Last Updated on October 25, 2024, 10:49 am ET Open Access Week is an opportunity for the academic and research community to continue to learn about the potential benefits of...</p>
+<p>Last Updated on October 25, 2024, 12:22 pm ET Open Access Week is an opportunity for the academic and research community to continue to learn about the potential benefits of...</p>
 <p>The post <a href="https://www.arl.org/blog/arl-libraries-celebrate-open-access-week-2024/">ARL Libraries Celebrate Open Access Week 2024</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
@@ -214,4 +226,28 @@ date: 2024-10-21, from: Scholarly Kitchen
 <br> 
 
 <https://scholarlykitchen.sspnet.org/2024/10/21/leveraging-transformative-agreements-for-research-integrity/>
+
+---
+
+## Agamemnon, by Aeschylus
+
+date: 2024-10-19, from: Standard Ebooks, new releaases
+
+The titular Greek king returns home from the Trojan war to be greeted by his scheming wife, who plots vengeance. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/aeschylus/agamemnon/gilbert-murray>
+
+---
+
+## The Stainless Steel Rat, by Harry Harrison
+
+date: 2024-10-19, from: Standard Ebooks, new releaases
+
+An intergalactic thief tries life on the side of the law. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/harry-harrison/the-stainless-steel-rat>
 

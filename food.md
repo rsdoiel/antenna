@@ -1,11 +1,281 @@
 ---
 title: food
-updated: 2024-10-25 08:11:27
+updated: 2024-10-26 06:11:18
 ---
 
 # food
 
-(date: 2024-10-25 08:11:27)
+(date: 2024-10-26 06:11:18)
+
+---
+
+## There’s a New Holiday Stanley Cup Collection Coming—And We’re Sure It Won’t Last Long
+
+date: 2024-10-25, from: Taste of Home
+
+<p>Good tidings, indeed! Here's everything you need to know about the holiday Stanley collection.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/holiday-stanley-2024/">There&#8217;s a New Holiday Stanley Cup Collection Coming—And We&#8217;re Sure It Won&#8217;t Last Long</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/holiday-stanley-2024/>
+
+---
+
+## Lunchly Facing Rumors of a Recall Just Weeks After Its Debut
+
+date: 2024-10-25, from: Taste of Home
+
+<p>Lunchly was supposed to be the newer, better Lunchables—but consumers allege finding mold in the product.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/lunchly-facing-rumors-of-a-recall/">Lunchly Facing Rumors of a Recall Just Weeks After Its Debut</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/lunchly-facing-rumors-of-a-recall/>
+
+---
+
+## Four-Cheese Mac and Cheese
+
+date: 2024-10-25, from: Taste of Home
+
+Addictive and irresistible, our four-cheese mac and cheese takes this classic dish to new heights. Experience the heavenly blend of sharp cheddar, Gruyere, fontina and Parmesan cheese in a rich, cheesy casserole. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/four-cheese-mac-and-cheese/>
+
+---
+
+## Green Chile Chicken Soup
+
+date: 2024-10-25, from: Taste of Home
+
+Appeal to those cozy-food cravings with a bowl of green chile chicken soup. It can be spiced up or down, depending on your preference. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/green-chile-chicken-soup/>
+
+---
+
+## Oreo Cheesecake Cookies
+
+date: 2024-10-25, from: Taste of Home
+
+Delight in the chocolatey sweet flavors of these Oreo cheesecake cookies, featuring a soft and chewy cookie base filled with a creamy cheesecake center, for an irresistible treat that'll satisfy your sweet tooth. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/oreo-cheesecake-cookies/>
+
+---
+
+## Instant Pot Butternut Squash Soup
+
+date: 2024-10-25, from: Taste of Home
+
+Using your instant pot makes light work of a fall butternut squash. In less than half an hour you can have a thick, creamy and flavor-packed soup. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/instant-pot-butternut-squash-soup/>
+
+---
+
+## Pistachio Pudding Dessert
+
+date: 2024-10-25, from: Taste of Home
+
+This pistachio pudding dessert straddles the line between being pudding and a torte. The good news is that it makes no difference what you call it because it will be gone within minutes. Layered with pistachio pudding, sweet cream cheese, whipped topping and a pistachio crust, this elegantly tiered dessert seems far too decadent to be so easy to make. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/pistachio-pudding-dessert/>
+
+---
+
+## Smoked Salsa
+
+date: 2024-10-25, from: Taste of Home
+
+Smoky, vibrant and packed with fresh flavors, this salsa adds a bold twist to any meal or snack. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/smoked-salsa/>
+
+---
+
+## Sweet Potato Soup
+
+date: 2024-10-25, from: Taste of Home
+
+Don't let the rich taste fool you—this sweet potato soup is surprisingly simple to make, transforming humble pantry ingredients into a nourishing and deeply satisfying meal in a bowl. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/sweet-potato-soup-2/>
+
+---
+
+## Loaded Cauliflower Casserole
+
+date: 2024-10-25, from: Taste of Home
+
+Savor the goodness of loaded cauliflower casserole with crispy bacon, melted cheddar and grated Parmesan cheese—the perfect side dish! 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/loaded-cauliflower-casserole/>
+
+---
+
+## Wendy’s Just Leaked a Brand-New Frosty Flavor
+
+date: 2024-10-25, from: Taste of Home
+
+<p>'Tis the season for a sensational Frosty.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/wendys-salted-caramel-frosty/">Wendy&#8217;s Just Leaked a Brand-New Frosty Flavor</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/wendys-salted-caramel-frosty/>
+
+---
+
+## Easy Roasted Vegetable Soup
+
+date: 2024-10-25, from: Taste of Home
+
+Roasted vegetable soup is packed with nutritious sweet potatoes, carrots and red peppers. Roasting the vegetables brings out rich, caramelized flavors for a hearty, comforting soup that's easy to make and fantastic for meal prep. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/easy-roasted-vegetable-soup/>
+
+---
+
+## Cream of Vegetable Soup
+
+date: 2024-10-25, from: Taste of Home
+
+It's easy to get in your five-a-day when you have a cream of vegetable soup recipe that's as straightforward as this: saute, blend and enjoy! You can also easily adapt the recipe with your veggies of choice. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/cream-of-vegetable-soup-2/>
+
+---
+
+## Imagine A Scenario Of Peril. There’s An Instant Coffee For That
+
+date: 2024-10-25, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. There are some situations so dire that only instant coffee can save it. 
+
+<br> 
+
+<https://sprudge.com/imagine-a-scenario-of-peril-theres-an-instant-coffee-for-that-257398.html>
+
+---
+
+## The Best Espresso Machines (2024), Reviewed by Our Experts
+
+date: 2024-10-25, from: Bon Appetet
+
+A good espresso machine is an investment. But how much do you spend at the coffee shop every year? 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-espresso-machines>
+
+---
+
+## Buffalo Chicken Casserole
+
+date: 2024-10-25, from: Taste of Home
+
+Indulge in the ultimate comfort food with this spicy Buffalo chicken casserole. It's bursting with bold flavors, tender chicken and a bubbling cheesy topping—all the key players in a meal that will soon be a family favorite. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/buffalo-chicken-casserole/>
+
+---
+
+## Cheesecake Cupcakes
+
+date: 2024-10-25, from: Taste of Home
+
+These cheesecake cupcakes come together quickly using just seven ingredients. They are a wonderful treat for any occasion. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/cheesecake-cupcakes/>
+
+---
+
+## Cowboy Stew
+
+date: 2024-10-25, from: Taste of Home
+
+Cowboy stew is a hearty one-pot meal packed with smoky bacon, seasoned beef and tender potatoes. It’s easy to make and perfect for busy weeknights or casual gatherings. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/cowboy-stew-2/>
+
+---
+
+## Biscoff Cheesecake
+
+date: 2024-10-25, from: Taste of Home
+
+Biscoff cheesecake puts the warm and spicy flavors of Biscoff cookies into cheesecake form. Including both Biscoff cookies and Biscoff cookie spread, this cheesecake will have cookie fans making it on repeat. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/biscoff-cheesecake/>
+
+---
+
+## Biscoff Cake
+
+date: 2024-10-25, from: Taste of Home
+
+Biscoff cake, a decadent layer cake loaded with spiced cookie flavor and creamy frosting, will wow everyone who sees and tastes it. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/biscoff-cake/>
+
+---
+
+## Italian Green Beans
+
+date: 2024-10-25, from: Taste of Home
+
+Make these Italian green beans when you want an easy side dish that's crispy and savory. It's made on the stovetop in just a few minutes and leftovers store well. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/italian-green-beans-2/>
+
+---
+
+## Maple Fudge
+
+date: 2024-10-25, from: Taste of Home
+
+Treat yourself to the sweet, smooth taste of homemade maple fudge. With just a handful of ingredients, you can create a rich, delicious treat that's perfect for sharing or savoring all on your own. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/maple-fudge/>
 
 ---
 
@@ -1742,4 +2012,88 @@ date: 2024-10-20, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/50-fabulous-fall-recipes/>
+
+---
+
+## Avocado Corn Salad
+
+date: 2024-10-19, from: Taste of Home
+
+This sunny, summery avocado corn salad balances crunchy vegetables, soft avocado and the sweetest fresh corn with a bright lime vinaigrette. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/avocado-corn-salad/>
+
+---
+
+## Greek Quinoa Salad
+
+date: 2024-10-19, from: Taste of Home
+
+Make this Greek quinoa salad when you need a light yet filling vegetarian meal or when you need to feed a lot of people. Once you've cooked the quinoa and chopped the vegetables, all that's left to do is mix everything together. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/greek-quinoa-salad/>
+
+---
+
+## Instant Pot Broccoli Cheddar Soup
+
+date: 2024-10-19, from: Taste of Home
+
+We love this Instant Pot broccoli cheddar soup for how tasty it is and how quickly it comes together. Check out our recipe tips for any troubleshooting advice. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/instant-pot-broccoli-cheddar-soup/>
+
+---
+
+## Pineapple Sherbet
+
+date: 2024-10-19, from: Taste of Home
+
+When you want a refreshing frozen treat, this creamy pineapple sherbet is an easy way to satisfy that craving. Pineapple chunks, lemon juice and a little sugar and cream are all you need to make this cool and smooth sherbet. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/pineapple-sherbet-2/>
+
+---
+
+## Crescent Roll Cheesecake
+
+date: 2024-10-19, from: Taste of Home
+
+This crescent roll cheesecake recipe pairs flaky crescent rolls with a rich cream cheese filling and sweet cinnamon-sugar topping for an easy, scrumptious dessert. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/crescent-roll-cheesecake/>
+
+---
+
+## No-Bake Strawberry Cheescake
+
+date: 2024-10-19, from: Taste of Home
+
+Learn how to make no-bake strawberry cheesecake, a cloudlike, fruit-filled concoction that tastes great on a hot day. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/no-bake-strawberry-cheescake/>
+
+---
+
+## Date Caramel
+
+date: 2024-10-19, from: Taste of Home
+
+This date caramel recipe is for all caramel lovers trying to make healthier choices. Just blend four ingredients to create a jar of naturally sweet caramel that's ready for whenever you have a dessert craving. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/date-caramel/>
 

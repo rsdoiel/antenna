@@ -1,11 +1,11 @@
 ---
 title: motorcycles
-updated: 2024-10-25 08:11:26
+updated: 2024-10-26 06:11:17
 ---
 
 # motorcycles
 
-(date: 2024-10-25 08:11:26)
+(date: 2024-10-26 06:11:17)
 
 ---
 
@@ -462,4 +462,16 @@ Tough times mean tough decisions.
 <br> 
 
 <https://www.rideapart.com/news/737965/brp-marine-brand-for-sale-not-sea-doo-jet-skis/>
+
+---
+
+## This Triumph Is So Crispy, So Can It Be Rebuilt?
+
+date: 2024-10-19, from: Ride Apart, Electric Motorcycle News
+
+The Bikes and Beards vs. Orange County Choppers vs. Bearded Mechanic Build-Off fires up! 
+
+<br> 
+
+<https://www.rideapart.com/news/737993/crispy-triumph-custom-build-off-bikes-beard-occ/>
 

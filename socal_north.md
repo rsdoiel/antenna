@@ -1,11 +1,145 @@
 ---
 title: socal north
-updated: 2024-10-25 08:11:24
+updated: 2024-10-26 06:11:14
 ---
 
 # socal north
 
-(date: 2024-10-25 08:11:24)
+(date: 2024-10-26 06:11:14)
+
+---
+
+## Heading to World Series games in NY? Here's your guide to Brooklyn Dodgers history and sites
+
+date: 2024-10-25, updated: 2024-10-26, from: The LAist
+
+The Dodgers were Brooklyn’s darlings until 1958, when they moved to Los Angeles. 
+
+<br> 
+
+<https://laist.com/news/la-history/world-series-guide-to-brooklyn-dodgers-history-in-nyc>
+
+---
+
+## California’s plan  to overhaul a key climate program — raising the cost of gas — ignites debate
+
+date: 2024-10-25, updated: 2024-10-25, from: The LAist
+
+The state air board will vote on changes to its landmark clean fuel program that would cut more greenhouse gases but could raise the cost of gas and diesel. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/california-low-carbon-fuel-standard>
+
+---
+
+## The LAist guide to LA and OC's many voting guides
+
+date: 2024-10-25, updated: 2024-10-25, from: The LAist
+
+As the Nov. 5 primary draws closer, many of us have yet to vote and are looking for some help. We hope you start with our Voter Game Plan. Since we don't do endorsements, we've also put together a list of other popular voting guides across the political spectrum. 
+
+<br> 
+
+<https://laist.com/news/politics/2024-election-california-general-los-angeles-laist-guide-to-la-voting-guides>
+
+---
+
+## Prop 4: A Social Justice Response to Climate Change in California?
+
+date: 2024-10-25, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>This November, California voters will decide the fate of 10 ballot propositions and select the next president. One of those is Proposition 4, a bond measure that would authorize $10 [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/10/25/prop-4-a-social-justice-response-to-climate-change-in-california/">Prop 4: A Social Justice Response to Climate Change in California?</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/10/25/prop-4-a-social-justice-response-to-climate-change-in-california/>
+
+---
+
+## O.C.’s Vietnamese community reacts to former Supervisor Andrew Do's resignation and plan to plead guilty to conspiracy
+
+date: 2024-10-25, updated: 2024-10-25, from: The LAist
+
+Former Orange County Supervisor Andrew Do was one of the state’s highest elected Vietnamese American politicians. He resigned on Tuesday. 
+
+<br> 
+
+<https://laist.com/news/politics/oc-vietnamese-community-reacts-to-andrew-do-conspiracy-charge>
+
+---
+
+## How Do I Register To Vote In California?
+
+date: 2024-10-25, updated: 2024-10-25, from: The LAist
+
+The deadline to register to vote in California for the Nov. 5 general election is Oct. 21. 
+
+<br> 
+
+<https://laist.com/news/politics/2024-election-california-general-register-to-vote-es-como-inscribo-votar>
+
+---
+
+## Catalina Half Marathon returns Nov. 9
+
+date: 2024-10-25, from: Catalina Islander
+
+The Catalina Island Half-Marathon and 10K event returns to the island on Nov. 9, with the two main races, as well as a Kids Run. The half-marathon offers challenging climbs to the peaks of Catalina, but offers a stunning view Catalina and the other channel islands, on a clear day. For signup information or more [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/catalina-half-marathon-returns-nov-9/>
+
+---
+
+## Catalina community welcomes fall with annual carnival
+
+date: 2024-10-25, from: Catalina Islander
+
+The first official day of fall was in September, but with the weather starting to cool down, the feeling of fall doesn’t set in until closer to the end October. The city of Avalon and the community joined together on Friday to welcome in the fall season, with food, music, entertainment and friendship. Families gathered [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/catalina-community-welcomes-fall-with-annual-carnival/>
+
+---
+
+## Power will be restored for some homes on the Palos Verdes Peninsula
+
+date: 2024-10-25, updated: 2024-10-25, from: The LAist
+
+Over 200 homes have been without power for weeks now because of accelerated land movement. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/power-will-be-restored-for-some-homes-on-the-palos-verdes-peninsula>
+
+---
+
+## Sheriff’s Log: Oct. 17 to Oct. 23, 2024
+
+date: 2024-10-25, from: Catalina Islander
+
+The following is the Avalon’s Sheriff’s Stations significant incidents report for the period of Oct. 17 to Oct. 23, 2024. All suspects are presumed innocent until proven guilty in a court of law. Many people who are arrested do not get prosecuted in the first place and many who are prosecuted do not get convicted. [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/sheriffs-log-oct-17-to-oct-23-2024/>
+
+---
+
+## City awards Five Corners contract
+
+date: 2024-10-25, from: Catalina Islander
+
+The council on this week voted unanimously to authorize the city manager to execute a contract with Jordahl Construction to complete the Five Corners Pedestrian Improvement Project. The project would be for a maximum sum of $4,737,805. City Manager David Maistros would also be authorized to amend the contract once the scope of work is [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/city-awards-five-corners-contract/>
 
 ---
 
@@ -18,6 +152,18 @@ More dense fog along the coast this morning.
 <br> 
 
 <https://laist.com/news/climate-environment/cooler-weekend-with-gusty-winds-and-chance-of-light-drizzle-on-sunday>
+
+---
+
+## Attention fair-weather Dodgers' fans: This emergency guide will get you sounding like a diehard
+
+date: 2024-10-25, updated: 2024-10-26, from: The LAist
+
+The Dodgers and the New York Yankees square off for all the marbles! Gear up with our guide to the players, storylines, and team history you need to know. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/dodgers-yankees-world-series-guide>
 
 ---
 
@@ -37,7 +183,7 @@ A collaboration devised as part of Getty's PST ART taught students about environ
 
 date: 2024-10-25, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="597" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?fit=1024%2C597&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?w=2041&amp;ssl=1 2041w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?resize=300%2C175&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?resize=1024%2C597&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?resize=768%2C448&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?resize=1536%2C896&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?resize=400%2C233&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?resize=706%2C412&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?resize=1200%2C700&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?resize=1568%2C914&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?resize=2000%2C1166&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?fit=1024%2C597&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="597" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?fit=1024%2C597&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?w=2041&amp;ssl=1 2041w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?resize=300%2C175&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?resize=1024%2C597&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?resize=768%2C448&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?resize=1536%2C896&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?resize=400%2C233&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?resize=706%2C412&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?resize=1200%2C700&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?resize=1568%2C914&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?resize=2000%2C1166&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Menendez-brothers-e1728075078908.jpg?fit=1024%2C597&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>LOS ANGELES (CNS) &#8211; Los Angeles County District Attorney George Gascón said today his office will recommend that a judge re-sentence Erik and Lyle Menendez, who are serving life prison [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/10/24/da-to-seek-resentencing-of-menendez-brothers-for-parents-killings/">DA to Seek Resentencing of Menendez Brothers for Parents&#8217; Killings</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -71,6 +217,18 @@ date: 2024-10-24, from: City of Santa Clarita
 <br> 
 
 <https://santaclarita.gov/blog/2024/10/24/ready-to-hike-a-marathon/>
+
+---
+
+## Hey, Yankees fans: Here's your quick guide to Dodger Stadium. Cos we classy like that
+
+date: 2024-10-24, updated: 2024-10-24, from: The LAist
+
+How to beat traffic and make sense of those gondola billboards. We got you, out-of-towners. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/la-and-dodger-stadium-guide-for-yankees-fan>
 
 ---
 
@@ -626,4 +784,42 @@ Many stakeholders in South L.A. are excited about getting more trees in the grou
 <br> 
 
 <https://laist.com/news/climate-environment/south-la-needs-more-tree-cover-but-residents-say-its-more-complicated-than-just-planting-them>
+
+---
+
+## Vote Santa Clarita
+
+date: 2024-10-19, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin &#8220;Voting is the expression of our commitment to ourselves, one another, this world and the future.&#8221; — Sharon Salzberg Voting for open Santa Clarita City Council seats will look different this year. As we prepare for the upcoming elections on Tuesday, November 5, 2024, make sure you know how redistricting [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/10/19/vote-santa-clarita/">Vote Santa Clarita</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/10/19/vote-santa-clarita/>
+
+---
+
+## Trump is promising deportations under the Alien Enemies Act of 1798. What is it?
+
+date: 2024-10-19, updated: 2024-10-20, from: The LAist
+
+Former President Donald Trump, whose bid for the White House has been dominated by his increasingly hardline anti-immigration rhetoric, is vowing to use an obscure, centuries-old law to expedite the removal of undocumented migrants from the U.S. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-is-promising-deportations-under-the-alien-enemies-act-of-1798-what-is-it>
+
+---
+
+## You're not dreaming, trees are producing more sap this summer
+
+date: 2024-10-19, updated: 2024-10-19, from: The LAist
+
+Go for it, take a wild guess on why. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/some-trees-are-more-sappy-this-summer>
 

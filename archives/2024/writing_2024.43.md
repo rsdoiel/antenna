@@ -1,11 +1,63 @@
 ---
 title: writing
-updated: 2024-10-25 08:11:25
+updated: 2024-10-26 06:11:16
 ---
 
 # writing
 
-(date: 2024-10-25 08:11:25)
+(date: 2024-10-26 06:11:16)
+
+---
+
+## Text Data Mining Research DMCA Exemption Renewed and Expanded
+
+date: 2024-10-25, from: Author's Union blog
+
+Earlier today, the Library of Congress, following recommendations from the U.S. Copyright Office, released its final rule adopting exemptions to the Digital Millenium Copyright Act’s prohibition on circumvention of technological protection measures (e.g.,  DRM).   As many of you know, we’ve been working closely with members of the text and data-mining community as well as our [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2024/10/25/text-data-mining-research-dmca-exemption-renewed-and-expanded/>
+
+---
+
+## Featured Friday: Monster Movies
+
+date: 2024-10-25, from: John August blog
+
+Weekend Read, our app for reading scripts on your phone, features a new curated collection of screenplays each week. This week, we look at how monster movies use their creatures to express and exploit our deepest fears. Our collection includes: A Quiet Place by Scott Beck &#38; Bryan Woods Aliens by James Cameron An American [&#8230;]
+The post <a href="https://johnaugust.com/2024/featured-friday-monster-movies">Featured Friday: Monster Movies</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2024/featured-friday-monster-movies>
+
+---
+
+## New & Notable
+
+date: 2024-10-25, from: Locus Magazine
+
+<p>&#160;</p>
+<p>Sarah Rees Brennan, <strong>Long Live Evil </strong>(Orbit US 8/24). A dying woman makes a magical bargain to become the villainess in her favorite fantasy series in this first volume in the Time of Iron series, an entertaining look at women’s roles and options in fantasy and ‘‘a wholehearted embrace of, and a commentary on the high-fantasy high-angst high-romance end of the fantasy genre&#8230; It’s very entertaining.’’ [Liz Bourke]</p>
+<p>&#160; <a href="https://locusmag.com/2024/10/new-notable-3/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/10/new-notable-3/>
+
+---
+
+## The Great When by Alan Moore: Review by Gary K. Wolfe
+
+date: 2024-10-25, from: Locus Magazine
+
+<p><strong>The Great When</strong>, Alan Moore (Bloomsbury 978-1-63557-884-3, $29.99, 336pp, hc) October 2024.</p>
+<p>By now there are so many mystical-magical ‘‘hidden London’’ novels that it’s getting hard to keep up – though admittedly there’s something delicious about the notion that in any great city, you’re only being shown what they want you to see, with the real city available only at certain access points for certain chosen adventurers. In his  <a href="https://locusmag.com/2024/10/the-great-when-by-alan-moore-review-by-gary-k-wolfe/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/10/the-great-when-by-alan-moore-review-by-gary-k-wolfe/>
 
 ---
 
@@ -537,4 +589,28 @@ date: 2024-10-20, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2024/10/2024-world-fantasy-awards-winners/>
+
+---
+
+## 2023 IFComp Results &amp; Survey
+
+date: 2024-10-19, from: IF Competition Blog
+
+<p>The results of the 2024 Interactive Fiction Competition are now live on the <a href="https://ifcomp.org/comp/2024">IFComp Website</a>!</p><p>If you missed the livestream, it will be available over the coming days on <a href="https://www.twitch.tv/interactivefictioncomp">Twitch</a> and will be permanently archived over on <a href="https://www.youtube.com/@IFTechFoundation">YouTube</a> shortly.</p><p>Of course, we are already planning for the ‘25 Comp. Please provide your feedback on what went well, what could have gone better, what we should do more of, and what we should consider changing or leaving behind, by filling the <a href="https://forms.gle/CmLJ8v5DVjZq4ieh6">Post-Competition Survey</a>:</p><p class="npf_link" data-npf='{"type":"link","url":"https://forms.gle/CmLJ8v5DVjZq4ieh6","display_url":"https://forms.gle/CmLJ8v5DVjZq4ieh6","title":"2024 IFComp Post-Competition Survey","description":"Hello! Thanks for taking this survey. We appreciate you.","site_name":"Google Docs","poster":[{"media_key":"1d2807ee6ddfc2606771953a17c6886e:47758b54163ce38b-f6","type":"image/png","width":1200,"height":630}]}'><a href="https://forms.gle/CmLJ8v5DVjZq4ieh6" target="_blank">2024 IFComp Post-Competition Survey</a></p><p>We are so grateful to everyone who helped make this year’s comp happen.  Thank you! </p> 
+
+<br> 
+
+<https://blog.ifcomp.org/post/764804690125996032>
+
+---
+
+## Award Ceremony Tonight!
+
+date: 2024-10-19, from: IF Competition Blog
+
+<div class="npf_row"><figure class="tmblr-full" data-orig-height="606" data-orig-width="665"><img src="https://64.media.tumblr.com/f021d3ade842e7fe68f13cbd76916483/40a95c64395ef32a-c0/s640x960/536c9d54807278c9112624643aff2b14c7d5fce9.png" data-orig-height="606" data-orig-width="665" srcset="https://64.media.tumblr.com/f021d3ade842e7fe68f13cbd76916483/40a95c64395ef32a-c0/s75x75_c1/7303a9b1439b5731d8587289268628fbad60c915.png 75w, https://64.media.tumblr.com/f021d3ade842e7fe68f13cbd76916483/40a95c64395ef32a-c0/s100x200/7bced0ebf3ab8ecb0b3a391b80129790b20954ab.png 100w, https://64.media.tumblr.com/f021d3ade842e7fe68f13cbd76916483/40a95c64395ef32a-c0/s250x400/4a509050c33446a4ffb2682a64bee188beebed59.png 250w, https://64.media.tumblr.com/f021d3ade842e7fe68f13cbd76916483/40a95c64395ef32a-c0/s400x600/83e2a79760c0af9d211cd38a7ba1a76e1d47c5a5.png 400w, https://64.media.tumblr.com/f021d3ade842e7fe68f13cbd76916483/40a95c64395ef32a-c0/s500x750/b385b2ee90a7e8a685a7eeff6c2a9ae57939e0ee.png 500w, https://64.media.tumblr.com/f021d3ade842e7fe68f13cbd76916483/40a95c64395ef32a-c0/s540x810/2b2d001895bd4b522ed46f1134669e3730d22b7a.png 540w, https://64.media.tumblr.com/f021d3ade842e7fe68f13cbd76916483/40a95c64395ef32a-c0/s640x960/536c9d54807278c9112624643aff2b14c7d5fce9.png 640w, https://64.media.tumblr.com/f021d3ade842e7fe68f13cbd76916483/40a95c64395ef32a-c0/s1280x1920/2649b524be91f0ebc9226449ee908756fbcc7e80.png 665w" sizes="(max-width: 665px) 100vw, 665px"/></figure></div><p>Greetings, Authors &amp; Judges! </p><p>The end of the 2023 Interactive Fiction Competition is nearly upon us! We will announce the top 20 results via live stream at 4:00 PM Eastern on Today! Saturday, October 19th. </p><p>The stream will be held on <a href="https://www.twitch.tv/interactivefictioncomp">Twitch</a>. To confirm what time the awards stream will be for you in your time zone, visit this <a href="https://everytimezone.com/s/d8d1dedc">website</a>.</p><p>Hope to see you there!</p> 
+
+<br> 
+
+<https://blog.ifcomp.org/post/764768765290348544>
 

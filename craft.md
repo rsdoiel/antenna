@@ -1,11 +1,11 @@
 ---
 title: craft
-updated: 2024-10-25 08:11:27
+updated: 2024-10-26 06:11:18
 ---
 
 # craft
 
-(date: 2024-10-25 08:11:27)
+(date: 2024-10-26 06:11:18)
 
 ---
 
@@ -42,4 +42,16 @@ by Brian Crawley On a bracing day this past Sunday – cold enough to move the e
 <br> 
 
 <https://blog.lostartpress.com/2024/10/20/john-porritt-sermon-on-stick-chairs/>
+
+---
+
+## LAP Open Wire, Oct 18, 2024
+
+date: 2024-10-19, from: Lost Arg Press blog
+
+Update: Comments are now closed. Join us again on Nov. 16. If you have a woodworking question, today is your lucky day. Chris and I are holding Open Wire between now and 5 p.m. Eastern. How do you ask a question? Leave your question in the comments section, and we’ll do our best to answer... 
+
+<br> 
+
+<https://blog.lostartpress.com/2024/10/19/lap-open-wire-oct-18-2024/>
 
