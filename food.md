@@ -1,11 +1,243 @@
 ---
 title: food
-updated: 2024-10-28 06:46:48
+updated: 2024-10-29 08:22:44
 ---
 
 # food
 
-(date: 2024-10-28 06:46:48)
+(date: 2024-10-29 08:22:44)
+
+---
+
+## Kamala Harris’s Passion for Food Goes Beyond Politics
+
+date: 2024-10-29, from: Bon Appetet
+
+Eating is always a part of the likability test for politicians. But for Kamala Harris, it goes beyond optics—her passion for food runs deep. 
+
+<br> 
+
+<https://www.bonappetit.com/story/kamala-harris-food-politics>
+
+---
+
+## Cream of Celery Soup
+
+date: 2024-10-29, from: Taste of Home
+
+Cozy, comforting cream of celery soup elevates the humble vegetable into something truly special. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/cream-of-celery-soup-2/>
+
+---
+
+## Sweet Potato Puree
+
+date: 2024-10-29, from: Taste of Home
+
+This sweet potato puree is easy to make and is packed with flavor and nutrients. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/sweet-potato-puree/>
+
+---
+
+## Experience Air-Motion Roasters’ First Virtual, Global Live Coffee Roasting Event
+
+date: 2024-10-29, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. On November 16, Air-Motion Roasters USA invites coffee-roasting professionals and enthusiasts from around the globe to join its first-ever live virtual roast event. 
+
+<br> 
+
+<https://sprudge.com/experience-air-motion-roasters-first-virtual-global-live-coffee-roasting-event-257823.html>
+
+---
+
+## New Day, New Coffee
+
+date: 2024-10-29, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. One Coffee Per Day For Best Experience. 
+
+<br> 
+
+<https://sprudge.com/new-day-new-coffee-257502.html>
+
+---
+
+## New CEO for New York-Based Coffee Chain Bluestone Lane
+
+date: 2024-10-29, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Bluestone-Lane-leadership-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Bluestone Lane Coffee" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Bluestone-Lane-leadership-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Bluestone-Lane-leadership-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Bluestone-Lane-leadership-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Bluestone-Lane-leadership-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Bluestone-Lane-leadership.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>New York City-based coffee chain Bluestone Lane is getting a new CEO at the end of this month, as longtime hospitality executive Edie Ames takes over for founder Nicholas Stone.... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/10/29/new-ceo-for-new-york-based-coffee-chain-bluestone-lane/>
+
+---
+
+## Thank U, NECCST: A New Manual Grinder Now On Kickstarter
+
+date: 2024-10-29, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. The NECCST countertop grinder. 
+
+<br> 
+
+<https://sprudge.com/thank-u-neccst-a-new-manual-grinder-now-on-kickstarter-257808.html>
+
+---
+
+## Instant Pot Meatballs
+
+date: 2024-10-28, from: Taste of Home
+
+Easy to make and packed with flavor, these Instant Pot meatballs will always be welcome on the table. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/instant-pot-meatballs/>
+
+---
+
+## Pop-Tarts Just Snuck a Brand-New Flavor into Stores
+
+date: 2024-10-28, from: Taste of Home
+
+<p>I plan to stay toasty this winter.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/pop-tarts-brand-new-flavor/">Pop-Tarts Just Snuck a Brand-New Flavor into Stores</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/pop-tarts-brand-new-flavor/>
+
+---
+
+## How Much Turkey Per Person Is Ideal for Thanksgiving?
+
+date: 2024-10-28, from: Bon Appetet
+
+Ensure everyone gets their fill with these tips for securing the right size bird for your holiday gathering. 
+
+<br> 
+
+<https://www.bonappetit.com/story/how-much-turkey-per-person>
+
+---
+
+## Here’s Where to Buy a Harry Potter Christmas Village
+
+date: 2024-10-28, from: Taste of Home
+
+<p>Happy Christmas, Harry! Capture holiday magic with a Harry Potter Christmas village. You can find miniatures of all your favorite locations and characters.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/harry-potter-christmas-village/">Here’s Where to Buy a Harry Potter Christmas Village</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/harry-potter-christmas-village/>
+
+---
+
+## Stuffed Mushrooms with Crabmeat
+
+date: 2024-10-28, from: Taste of Home
+
+<span style="font-weight: 400;">You can make a tub of sweet and delicate crabmeat go even further with this recipe for stuffed mushrooms. Just slide them into the oven and the flavors come together, the mushrooms turn tender and you’ve got a creamy seafood filling to savor.  </span> 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/crab-cake-stuffed-mushrooms/>
+
+---
+
+## Eggnog Latte
+
+date: 2024-10-28, from: Taste of Home
+
+Celebrate the holiday season with this creamy, dreamy eggnog latte. Simmering the eggnog with milk creates a foamy, frothy topping that can be spooned over the latte before serving. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/eggnog-latte/>
+
+---
+
+## Roasted Cauliflower Soup
+
+date: 2024-10-28, from: Taste of Home
+
+Light, flavorful and easy to make, this garlicky roasted cauliflower soup is the perfect low-calorie dish to enjoy during fall's cool, crisp days. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/roasted-cauliflower-soup/>
+
+---
+
+## Portuguese Bean Soup
+
+date: 2024-10-28, from: Taste of Home
+
+This Portuguese bean soup recipe features Portuguese sausage along with kidney beans, potatoes, tomatoes, chicken broth, onions, garlic and celery, plus a lovely smoky flavor thanks to a ham hock. It's a deliciously hearty dish that's wonderful on a chilly day. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/portuguese-bean-soup/>
+
+---
+
+## Eggplant Meatballs
+
+date: 2024-10-28, from: Taste of Home
+
+These vegetarian eggplant meatballs transform the humble eggplant into savory, Italian-inspired bites packed with herbs and cheese. Simmer them in marinara sauce for a satisfying meatless meal. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/eggplant-meatballs/>
+
+---
+
+## Snickerdoodle Cheesecake Bars
+
+date: 2024-10-28, from: Taste of Home
+
+These snickerdoodle cheesecake bars can be sliced into any size portion—perfect for a trat when you don't want to commit to a whole slice of cheesecake. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/snickerdoodle-cheesecake-bars/>
+
+---
+
+## San Diego Coffee Legend Returns with Chuck’s Roast and Patton Consulting
+
+date: 2024-10-28, from: Daily Coffee News
+
+<div><img width="620" height="459" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Chuck-Patton-roaster-San-Diego-1-620x459.jpg" class="attachment-large size-large wp-post-image" alt="Chuck Patton roaster San Diego" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Chuck-Patton-roaster-San-Diego-1-620x459.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Chuck-Patton-roaster-San-Diego-1-300x222.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Chuck-Patton-roaster-San-Diego-1-150x111.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Chuck-Patton-roaster-San-Diego-1-768x568.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Chuck-Patton-roaster-San-Diego-1.jpg 1029w" sizes="(max-width: 620px) 100vw, 620px" /></div>A pioneering figure in the San Diego coffee scene in the early 2000s and 2010s recently re-emerged with a new roasting business and a dual focus on small-batch, high-quality coffees... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/10/28/san-diego-coffee-legend-returns-with-chucks-roast-and-patton-consulting/>
+
+---
+
+## Kei Coffee House Promises a World of Asian Coffee Styles in Southern California
+
+date: 2024-10-28, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/KEI-Coffee-House-inside-620x414.jpg" class="attachment-large size-large wp-post-image" alt="KEI Coffee House inside" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/KEI-Coffee-House-inside-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/KEI-Coffee-House-inside-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/KEI-Coffee-House-inside-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/KEI-Coffee-House-inside-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/KEI-Coffee-House-inside.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Kei Concepts, the Southern California hospitality group behind numerous restaurant brands, has opened its first coffee-focused concept, Kei Coffee House. The coffee program inside the spacious standalone coffee shop in... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/10/28/kei-coffee-house-promises-a-world-of-asian-coffee-styles-in-southern-california/>
 
 ---
 
@@ -21,11 +253,23 @@ date: 2024-10-28, from: The Sprudge
 
 ---
 
+## Stumptown Coffee Celebrates 25 Years With A Party In Portland
+
+date: 2024-10-28, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. The 25th anniversary party takes place November 2nd at the original SE Division cafe location. 
+
+<br> 
+
+<https://sprudge.com/stumptown-coffee-celebrates-25-years-with-a-party-in-portland-257801.html>
+
+---
+
 ## Cafes Seeking Variable Speed Can Tune In to FM Grinders
 
 date: 2024-10-28, from: Daily Coffee News
 
-<div><img width="620" height="410" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/FM-Grinder-pair-1-620x410.jpeg" class="attachment-large size-large wp-post-image" alt="FM Grinder pair" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/FM-Grinder-pair-1-620x410.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/FM-Grinder-pair-1-300x198.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/FM-Grinder-pair-1-150x99.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/FM-Grinder-pair-1-768x508.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/FM-Grinder-pair-1.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A variable-speed grinder with vertical flat burrs for commercial coffee settings called the FM Grinder (Instagram) is finding traction in Southeast Asia, while its makers have eyes on the United... 
+<div><img width="620" height="410" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/FM-Grinder-pair-1-620x410.jpeg" class="attachment-large size-large wp-post-image" alt="FM Grinder pair" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/FM-Grinder-pair-1-620x410.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/FM-Grinder-pair-1-300x198.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/FM-Grinder-pair-1-150x99.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/FM-Grinder-pair-1-768x508.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/FM-Grinder-pair-1.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A variable-speed grinder with vertical flat burrs for commercial coffee settings called the FM Grinder (Instagram) is finding traction in Southeast Asia, while its makers have eyes on the United... 
 
 <br> 
 
@@ -154,4 +398,16 @@ date: 2024-10-27, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/20-apple-icious-recipes/>
+
+---
+
+## Chicken Tortelloni Alfredo from Olive Garden
+
+date: 2024-10-27, from: Taste of Home
+
+When you need some creamy comfort, try this. Our five-ingredient copycat recipe recreates the fan-favorite chicken tortelloni Alfredo from Olive Garden. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/chicken-tortelloni-alfredo-from-olive-garden/>
 

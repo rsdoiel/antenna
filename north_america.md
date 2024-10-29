@@ -1,11 +1,672 @@
 ---
 title: north america
-updated: 2024-10-28 06:46:45
+updated: 2024-10-29 08:22:39
 ---
 
 # north america
 
-(date: 2024-10-28 06:46:45)
+(date: 2024-10-29 08:22:39)
+
+---
+
+## A novel investing tool or outright gambling?
+
+date: 2024-10-29, from: Marketplace Morning Report
+
+<p>The online trading platform Robinhood has started allowing its customers to bet on who will the the election. While its not the first to do so, it is among the first in the U.S. to jump into a new kind of financial instrument called “event contracts.” But it&#8217;s not without controversy. We&#8217;ll explain. Plus, home price increases appear to be slowing, and companies aim to make some green off of matcha&#8217;s popularity.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/29/mmr_20241029_MMR_Podcast_3_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/a-novel-investing-tool-or-outright-gambling&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report"></source>
+</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/29/mmr_20241029_MMR_Podcast_3_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/a-novel-investing-tool-or-outright-gambling&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/a-novel-investing-tool-or-outright-gambling>
+
+---
+
+## Trump ally Steve Bannon released after serving 4 months in prison for contempt of Congress
+
+date: 2024-10-29, from: VOA News USA
+
+DANBURY, Conn.  — Longtime Donald Trump ally Steve Bannon was released from prison early Tuesday, after serving a four-month sentence for defying a subpoena in the congressional investigation into the U.S. Capitol attack on Jan. 6, 2021.
+
+
+Bannon left the Federal Correctional Institution in Danbury, Connecticut, according to Kristie Breshears, a spokesperson for the federal Bureau of Prisons. He planned to hold a news conference later in the day in Manhattan, his representatives said. He's also expected to resume his podcast Tuesday.
+
+
+Bannon, 70, reported to the prison July 1 after the Supreme Court rejected his bid to delay the prison sentence while he appeals his conviction.
+
+
+
+
+A jury found Bannon guilty in 2022 of two counts of contempt of Congress: one for refusing to sit for a deposition with the Jan. 6 House Committee and a second for refusing to provide documents related to his involvement Trump's efforts to overturn his loss to Joe Biden in the 2020 presidential race.
+
+
+When he began serving his sentence in July, Bannon called himself a "political prisoner."
+
+
+"I am proud of going to prison," he said at the time, adding that he was standing up Attorney General Merrick Garland and a "corrupt" Justice Department.
+
+
+Trump, a Republican, is seeking to regain the presidency in next week's election against Democratic Vice President Kamala Harris.
+
+
+A federal appeals court panel upheld Bannon's convictions in May. Bannon is now asking the full appeals court to hear his case. His legal team had argued that the congressional subpoena was invalid because Trump had asserted executive privilege. Prosecutors, though, say Bannon had left the White House years before and Trump had never invoked executive privilege in front of the committee.
+
+
+Bannon faces additional criminal charges in New York state court, alleging he duped donors who gave money to build a wall along the U.S.-Mexico border. Bannon has pleaded not guilty to money laundering, conspiracy, fraud and other charges. A trial in that case is scheduled to begin in December. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-ally-steve-bannon-is-released-after-serving-4-months-in-prison-for-contempt-of-congress-/7843149.html>
+
+---
+
+## If you like stock trading, perhaps you’d like more hours of it
+
+date: 2024-10-29, from: Marketplace Morning Report
+
+<p>The New York Stock Exchange has announced plans to extend after-hours trading. Pending regulators’ approval, its electronic platform could be accessible 22 hours a day Monday through Friday, as it looks to compete with online trading platforms like Robinhood. Then: some profanity-laden remarks from JPMorgan Chase CEO Jamie Dimon over federal regulation. Plus, data shows the U.S. economy is king of the hill, top of the heap, a No. 1. Why doesn&#8217;t it always feel that way?</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/29/mmr_20241029_MMR_Podcast_2_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/if-you-like-stock-trading-perhaps-youd-like-more-hours-of-it&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report"></source>
+</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/29/mmr_20241029_MMR_Podcast_2_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/if-you-like-stock-trading-perhaps-youd-like-more-hours-of-it&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/if-you-like-stock-trading-perhaps-youd-like-more-hours-of-it>
+
+---
+
+## Protestors flood Tbilisi over election-rigging claims
+
+date: 2024-10-29, from: Marketplace Morning Report
+
+<p><em>From the BBC World Service:</em> In the Eastern European country of Georgia, thousands of people have been protesting outside of parliament in Tbilisi, saying the ruling Georgian Dream party stole the country&#8217;s election over the weekend. Now, there will be a partial recount. We&#8217;ll also unpack some major restructuring at HSBC. Plus, as mega-corporations cash in on matcha&#8217;s popularity, are some green tea sellers putting quantity before quality?</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/29/mmr_20241029_MMR_Podcast_1_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/protestors-flood-tbilisi-over-election-rigging-claims&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report"></source>
+</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/29/mmr_20241029_MMR_Podcast_1_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/protestors-flood-tbilisi-over-election-rigging-claims&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/protestors-flood-tbilisi-over-election-rigging-claims>
+
+---
+
+## Adidas reaches out-of-court settlement with rapper Ye
+
+date: 2024-10-29, from: VOA News USA
+
+London — Adidas has reached an out-of-court settlement with rapper Ye to end all legal proceedings between them, the sportswear brand said on Tuesday, adding that no money changed hands in the agreement.
+
+
+Adidas and Ye had been embroiled in multiple lawsuits for the past two years, since the German company ended a partnership with the rapper previously known as Kanye West over antisemitic comments he made.
+
+
+
+
+"There isn't any more open issues, and there is no... money going either way, and we both move on," CEO Bjorn Gulden told reporters on a conference call, declining to give further details of the deal.
+
+
+"There were tensions on many issues, and... when you put the claims on the right side and you put the claims on the left side, both parties said we don't need to fight anymore and withdrew all the claims," Gulden added. 
+
+<br> 
+
+<https://www.voanews.com/a/adidas-reaches-out-of-court-settlement-with-rapper-ye-/7843091.html>
+
+---
+
+## The Energy Transition Is Slowing Down
+
+date: 2024-10-29, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDAxNjgxMi9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2OTA3MjgwNX0.xi3xVDIVqP-_2mjWfBgE3bMvGBp81KJs0zS3KPJ3Isw/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">The Paris Agreement goal of holding warming to well less than 2 degrees Celsius over pre-industrial levels is not just increasingly appearing to be out of reach. The energy transition as a whole is slowing down. </p><p>This was the stark warning from Wood Mackenzie’s Energy Transition Outlook, the energy consultancy’s annual assessment of global progress toward decarbonizing the economy. “Progress toward a low-carbon energy system is stumbling on multiple fronts, leaving the world dependent on fossil fuels for longer,” the outlook’s authors write.</p><p>Alongside the International Energy Agency’s Global Energy Outlook, which found <a href="https://www.nytimes.com/2024/10/16/climate/global-demand-electricity-rising.html" rel="noopener noreferrer" target="_blank"><u>faster than expected global electricity demand imperiling Paris goals</u></a>, and the United Nations Environment Programme’s Emissions Gap Report, which warned that unless emissions were soon wrenched down “it will become impossible” to limit warming to 1.5 degrees Celsius, the report completes a grim picture. The question now is less “Can the world meet the Paris Agreement goals?” and more “How will we manage once we’ve missed them?”</p><p><span></span>Wood Mackenzie takes 2.5 degrees of warming as its “base case,” consistent with other estimates, <a href="https://www.iea.org/reports/world-energy-outlook-2024/executive-summary" target="_blank"><u>including the IEA’s</u></a>. The report’s authors have little optimism left about the prospect of reaching net zero emissions by 2050 and limiting warming to 1.5 degrees. Instead, they used to the report to “highlight the potential of a delayed transition,” in which warming rises to 3 degrees, said Jonathan Sultoon,  Wood Mackenzie’s head of markets and transitions, on a call with reporters Monday.</p><p>“We’re in the middle of the 2020s, the decade that’s pivotal to accelerate the energy transition” Sultoon said, “and no major countries — and very few companies — are on track to meet their 2030 climate goals.”</p><p>To meet even the 2.5 degree warming scenario — one that many scientists warn could result in difficult to predict and possibly irreversible climate impacts — would still require that global emissions peak by 2027. Emissions, instead, are rising — by some 1.3% in 2023, according to the United Nations.</p><p>The likelihood of slipping from 2.5 degrees to 3 will be determined by politics, Wood Mackenzie’s analysts argue, whether it’s the war in Ukraine and unstable Middle East leading countries to reinvest in fossil fuels for energy security or protectionist policies that block imports of world-leading low-priced Chinese renewable technology.<br/></p><p>“China’s the lower-cost producer in clean tech,” Sultoon said. “Either the rest of the world needs to rely on Chinese manufacturing to speed the transition,” or “the West will pay a higher cost — or, in fact, delay the transition. And it looks far more likely to be that latter situation than the former.”</p><p>Policymakers in the rest of the high-emitting world, especially the United States, are perfectly aware of China’s dominance of much of the low-carbon technology stack, ranging from solar panels to lithium refining. But <a href="https://heatmap.news/politics/biden-climate-policy" target="_blank">they’re seeking to nurture their own industries</a>, seeking both to secure energy supplies in case of global conflict and to protect native workers and industries. <strong><em></em></strong></p><p><strong><em></em></strong>The political or security logic of these movies might be clear enough, but the Wood Mackenzie analysts are skeptical of this approach, at least when it comes to advancing decarbonization. “These dual goals — of decarbonisation and reducing dependence on metals supply from China — are at odds,” they write. “It will take years, if not decades, to shift away from China because it controls up to 70% of global supply chains across several commodities. It is also the lowest-cost producer. The rest of the world may need to rely on Chinese manufacturing or be prepared to either pay a higher cost or delay the transition.”</p><p>And then there’s the growth in electricity demand, which the IEA <a href="https://heatmap.news/technology/iea-world-energy-outlook-2024" target="_blank">also highlighted</a>. While any scenario that brings down emissions globally to levels consistent with even 2.5 degrees of warming, let alone 1.5, will involve a high degree of electrification of processes currently reliant on the combustion of fossil fuels, new demand for electricity can have ambiguous effects on overall emissions depending on the ability of non-carbon-emitting generation to meet that demand.</p><p>“The quick expansion of electricity supply is often constrained by transmission infrastructure which takes time to develop,” the report says. This means new demand could be met by fossil fuels, that the energy transition could become more expensive than it would be under a lower demand scenario, or that some crucial amount of electrification just simply does not happen.</p><p>“What happens if geopolitical crises, expanded trade restrictions, or protectionist policies becomes the norm, rather than the exception on a long-term basis? And where you see slower cost declines for alternative energy?” asked David Brown, director of Wood Mackenzie’s energy transition practice. If things continue as they are, that's a question we’ll all have to answer. <strong></strong></p> 
+
+<br> 
+
+<https://heatmap.news/climate/energy-transition-outlook-2024>
+
+---
+
+##  MASTER PLAN, Ep 11: Are We Doomed To A Master-Planned Future? 
+
+date: 2024-10-29, from: The Lever News
+
+ We all live in the master planners’ world now. So what can we do to resist?  
+
+<br> 
+
+<https://www.levernews.com/master-plan-ep-11-are-we-doomed-to-a-master-planned-future/>
+
+---
+
+## China's Xi pressed Biden to alter language on Taiwan, sources say
+
+date: 2024-10-29, from: VOA News USA
+
+WASHINGTON/BEIJING/TAIPEI — Chinese President Xi Jinping asked U.S. President Joe Biden last year to change the language the United States uses when discussing its position on Taiwanese independence, according to two U.S. officials familiar with the private conversation.
+
+
+During last November's Biden-Xi meeting near San Francisco, Xi and his aides asked Biden and his team to tweak the language in U.S. official statements.
+
+
+China wanted the U.S. to say "we oppose Taiwan independence," rather than the current version, which is that the United States "does not support" independence for Taiwan, said the people, who requested anonymity to speak about private diplomatic exchanges they participated in or were briefed on.
+
+
+Xi's aides have repeatedly followed up and made the requests in the months since, according to two U.S. officials and another person familiar with the exchanges.
+
+
+The U.S. has declined to make the change.
+
+
+The White House responded to a request for comment with a statement that repeated the line that Washington does not support Taiwan independence. "The Biden-Harris administration has been consistent on our long-standing One China policy," the statement read.
+
+
+China's foreign ministry said: "You should ask this question to the U.S. government. China's position on the Taiwan issue is clear and consistent."
+
+
+Taiwan's foreign ministry declined comment.
+
+
+The defeated Republic of China government fled to Taiwan in 1949 after losing a civil war with Mao Zedong's communists.
+
+
+The Republic of China remains Taiwan's formal name and the government says it has no plans to change that given they are already a sovereign, independent state and Beijing has no right to claim Taiwan as its own.
+
+
+Sensitive issue
+
+
+For several years, Chinese diplomats have pushed the United States to make changes to how it refers to Taiwan's status, which remains the most sensitive area in U.S.-China relations. The unusually direct and renewed push at the leader level has not been reported previously.
+
+
+The United States severed official relations with the government in Taipei in 1979 but is bound by law to provide democratically governed Taiwan with the means to defend itself. China claims Taiwan as its own territory and has never renounced the use of force to bring the island under its control.
+
+
+It was not clear why Xi chose to raise the issue with Biden, but he has made opposition to Taiwan independence a focus of his time in office and China's military has significantly ramped up its activities around the island in recent years.
+
+
+The Biden administration regards the proposed language change as a non-starter.
+
+
+Taiwan was briefed on the recent overtures at a high level by Washington, said one of the sources.
+
+
+Leaders in Beijing "would love it if Joe Biden said very different things about Taiwan than he says, no doubt," said one senior Biden administration official, adding that Biden would stick with the standard U.S. formulation for talking about Taiwan independence.
+
+
+During his time in office, Biden has upset the Chinese government with comments that appeared to suggest the United States would defend the island if it were attacked, a deviation from a long-held U.S. position of "strategic ambiguity."
+
+
+Change would reverberate
+
+
+A change by the U.S. to say that it opposes Taiwanese independence would reverberate through the trade-rich Asia Pacific and with U.S. partners, competitors and adversaries alike.
+
+
+Officials from two governments in the region told Reuters they would interpret any such change in wording as a change in U.S. policy toward less support for Taipei's defense and diplomatic aspirations at a time when Beijing has ramped up military pressure.
+
+
+China has over the past five years staged almost daily military activities around Taiwan. Earlier this month, Beijing held a day of war games using what Taiwan said was a record 153 military aircraft as part of drills simulating blockading ports and assaulting maritime and ground targets.
+
+
+Any switch in language could also be seen signaling a shift in U.S. policy from supporting the resolution of Taiwan's future through peaceful talks to one suggesting the United States stands against Taiwanese aspirations regardless of the circumstances at play.
+
+
+Opinion polls in Taiwan show most people support maintaining the status quo, neither seeking to join with China nor establishing a new state.
+
+
+In 2022, the State Department changed its website on Taiwan, removing wording both on not supporting Taiwan independence and on acknowledging Beijing's position that Taiwan is part of China, which angered the Chinese. It later restored the language on not supporting independence for the island.
+
+
+The two leaders are expected to speak again before Biden's term in office ends in January, talks that may come by phone or on the sidelines of next month's G20 summit in Brazil or APEC summit in Peru. APEC is one of few international forums where both Taiwan and China take part.
+
+
+The Democratic president will hand over the tense Taiwan issue to his successor, Democratic Vice President Kamala Harris or Republican former President Donald Trump, following the Nov. 5 election. 
+
+<br> 
+
+<https://www.voanews.com/a/china-s-xi-pressed-biden-to-alter-language-on-taiwan-sources-say/7843008.html>
+
+---
+
+## Biden, allies call for Mideast cease-fire after weekend strikes
+
+date: 2024-10-29, from: VOA News USA
+
+President Joe Biden on Monday urged an end to the grueling Mideast conflict after Israel struck Iran early Saturday in what Washington said was justified retaliation for a strike on Israel earlier this month. Biden also threw his weight behind a new Egyptian proposal for a two-day cease-fire. VOA White House correspondent Anita Powell reports from Washington 
+
+<br> 
+
+<https://www.voanews.com/a/biden-allies-call-for-mideast-cease-fire-after-weekend-strikes/7842984.html>
+
+---
+
+## Beyond the Beltway, Here Are the 8 Most Important Climate Elections in the Nation
+
+date: 2024-10-29, from: Capital and Main
+
+<p>From utility commissioner in Montana to governor in North Carolina, these contests will have an impact on climate change and the transition to a clean-energy future.</p>
+<p>The post <a href="https://capitalandmain.com/beyond-the-beltway-here-are-the-8-most-important-climate-elections-in-the-nation">Beyond the Beltway, Here Are the 8 Most Important Climate Elections in the Nation</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/beyond-the-beltway-here-are-the-8-most-important-climate-elections-in-the-nation>
+
+---
+
+## Washington Post's Bezos defends decision to end presidential endorsements
+
+date: 2024-10-29, from: VOA News USA
+
+Washington Post owner Jeff Bezos on Monday defended the newspaper's decision not to endorse a U.S. presidential candidate after a report that more than 200,000 people had canceled their digital subscriptions following the move.
+
+
+The decision blocked an endorsement of Democrat Vice President Kamala Harris, the National Public Radio report said, and many people in messages on the newspaper's website criticized Bezos, the billionaire founder of Amazon.com and rocket company Blue Origin.
+
+
+Bezos, in an opinion piece late on Monday, said "most people believe the media is biased" and the Washington Post and other newspapers needed to boost their credibility.
+
+
+No candidate was informed or consulted about the decision and that there was "no quid pro quo," Bezos said, adding that there was no connection between the decision and a meeting between Republican presidential candidate Donald Trump and Blue Origin's CEO on the same day.
+
+
+"Presidential endorsements do nothing to tip the scales of an election," Bezos wrote. "What presidential endorsements actually do is create a perception of bias. A perception of non-independence. Ending them is a principled decision, and it’s the right one."
+
+
+The subscription cancellations as of midday represented about 8% of the paper's paid circulation of 2.5 million subscribers, which includes print as well, reported NPR, which said a series of columnists had resigned their positions in protest.
+
+
+The Washington Post declined to comment on the report when contacted by Reuters.
+
+
+In a post on Friday, William Lewis, The Washington Post's publisher and CEO, said the newspaper would not be making an endorsement of a presidential candidate in the Nov. 5 election, nor in any future presidential election.
+
+
+"We are returning to our roots of not endorsing presidential candidates," Lewis wrote.
+
+
+"The Washington Post's decision not to make an endorsement in the presidential campaign is a terrible mistake," wrote 20 columnists in an opinion piece on the Post's website, adding that it "represents an abandonment of the fundamental editorial convictions of the newspaper that we love." 
+
+<br> 
+
+<https://www.voanews.com/a/washington-post-s-bezos-defends-decision-to-end-presidential-endorsements/7842916.html>
+
+---
+
+## US, South Korea to confer on North Korean troop deployment to Russia
+
+date: 2024-10-29, from: VOA News USA
+
+state department — Top diplomatic and military officials from the United States and South Korea are set to convene in Washington this Thursday as the two allies closely monitor and express concerns about North Korea's deployment of about 10,000 troops to Russia.
+
+
+Meanwhile, U.S. officials and analysts say that China could be displeased by Russia's growing influence over North Korea, and that if Beijing chose, it could restrict exports of materials that Pyongyang might use for munitions production.
+
+
+U.S. Secretary of State Antony Blinken and Secretary of Defense Lloyd Austin will co-host South Korean Minister of Foreign Affairs Cho Tae-yul and Minister of Defense Kim Yong-hyun to coordinate on pressing security threats facing the alliance.
+
+
+State Department spokesperson Matthew Miller told VOA during Monday’s briefing that high on the agenda would be discussion of “North Korea's expanding relationship with Russia,” which includes the deployment of North Korean troops to Russia;  various other provocative actions by North Korea in recent months; and the U.S. commitment to security in the Indo-Pacific region.
+
+
+The consultation between Washington and Seoul will come two weeks after establishment of the Multilateral Sanctions Monitoring Team, a group formed by the United States, South Korea, Japan and other allies to better coordinate enforcement of sanctions against North Korea.
+
+
+The group said that while “the path to dialogue” with North Korea remained open, it was committed to “safeguard the global nonproliferation regime and address the threat arising from the Democratic People’s Republic of Korea’s [DPRK, North Korea’s official name] weapons of mass destruction and ballistic missile programs, which are in violation of U.N. Security Council resolutions.”
+
+
+Some analysts suggest that by sending troops to support Russia’s war on Ukraine, North Korea may gain an opportunity to test the effectiveness of its ballistic missiles and munitions.
+
+
+“We have communicated with the PRC about this matter to make clear that we are concerned about it, and that they ought to be concerned about this destabilizing action by two of its neighbors, Russia and North Korea,” Miller added. He was referring to People’s Republic of China.
+
+
+Victor Cha, Korea chair at the Washington-based Center for Strategic and International Studies, noted that while China has been supportive of Russia’s war in Ukraine, North Korea’s involvement introduces an unsettling dynamic.
+
+
+“For one,” Cha said, “China does not like Russia to have so much influence over North Korea.”
+
+
+Cha added that Beijing could take specific actions, such as curbing exports of petroleum coke to North Korea, which can be used in munitions production.
+
+
+“According to recent public reports, imports of this good [used for steel production] have dramatically increased while overall trade has only slowly started to return to normal,” he said.
+
+
+Defense Department spokeswoman Sabrina Singh said Austin would also meet with his South Korean counterpart Wednesday, when he will host Kim at the Pentagon for the 56th U.S.-ROK Security Consultative Meeting. ROK refers to South Korea’s official name, the Republic of Korea.
+
+
+VOA Pentagon Correspondent Carla Babb contributed to this report. 
+
+<br> 
+
+<https://www.voanews.com/a/us-south-korea-to-confer-on-north-korean-troop-deployment-to-russia-/7842600.html>
+
+---
+
+## Biden hosts White House Diwali reception
+
+date: 2024-10-29, from: VOA News USA
+
+U.S. President Joe Biden on Monday hailed the start of the five-day festival of Diwali — the celebration that symbolizes the victory of light over darkness and is marked by Hindus, Jains and Sikhs around the world, especially in India. 
+
+
+Biden began the White House festivities by lighting a small prayer lamp known as a diya. Several hundred guests — including South Asian administration officials, elected officials, prominent community members and others — wore silks and embroidered finery and thronged the White House’s massive and heavily chandeliered East Room for the occasion. 
+
+
+But Biden used the occasion to shine a light on someone who was not in the crowd: Vice President Kamala Harris, the most prominent South Asian American, who was busy on the campaign trail as the election swiftly approaches. Her late mother immigrated to the United States from what was then the Indian city of Madras, now called Chennai. 
+
+
+“One of the things we bonded over was the role each of our mothers played in our lives,” Biden said. “They come from different places, different generations, different lives, but they shared a basic belief about America: Only in America is anything possible. Only in America.”
+
+
+And, he said, after hundreds of years of struggle, South Asian Americans have made the U.S. their home. 
+
+
+“Diwali is celebrated openly and proudly here in the White House,” he said. “And by the way, this is not my house. This is your house.”
+
+
+The festival starts on the darkest night of the year, per the Hindu lunar calendar — October 31, according to the Indian government. The day is a national holiday.
+
+
+Surgeon General Vivek Murthy, who was visibly moved by the occasion, spoke of how his parents’ faith illuminated their path after they immigrated to the U.S. from India. 
+
+
+“That is the message of Diwali,” he said. ”Choose light always, whatever the future may bring. Whatever the future may bring, it is our light and our fierce commitment to one another that will see us through to a better day.”
+
+
+And joining the festivities from afar was International Space Station commander Sunita Williams. Her father immigrated to the U.S. from India; her mother, from Slovenia. She spoke to the White House crowd via a recorded message from 420 kilometers (260 miles) above the Earth. 
+
+
+“On this day, I specifically think about my father, who immigrated to the U.S. from India,” she said. “He kept and shared his cultural roots by teaching us about Diwali and other Indian festivals. Diwali is a time of joy, as goodness in the world prevails. I am so thankful to have grown up in a multicultural household where our parents encouraged us to seek opportunities and reach for the stars.”
+
+
+Monday’s reception marks the latest in a line of presidential celebrations of Diwali that date to President George W. Bush's time in office. Presidents Barack Obama and Donald Trump also held Diwali celebrations. 
+
+ 
+
+The festival marks the return of the mythical Lord Ram, named in Sanskrit scripture as a reincarnation of the god Vishnu, from exile after 14 years. The people of his kingdom, Ayodhya, lit lamps to illuminate his path home — a tradition that merrymakers continue today with lamps and pyrotechnics. Indian Americans are the largest non-mixed Asian group in the United States, according to the U.S. Census Bureau, with nearly 4.4 million people identifying as 100% Indian in origin. 
+
+
+Today, celebrants around the world honor the occasion with new clothes, extravagant decorations and massive quantities of sugar-laden confections.
+
+
+This year, Indian Prime Minister Narendra Modi, who is the top proponent of a Hindu-nationalist movement known as Hindutva, saw a sweet named in his honor. The so-called “Modi Laddu” — the Modi Ball — is made of saffron, clarified butter, pistachios, almonds and rose water.
+
+
+But there is also a vein of bitterness in India’s observance of this holiday.
+
+
+Modi was the driving force behind the rebuilding of a Hindu temple in Ayodhya, on what was thought to be Ram’s birthplace. In 1992, a Hindu mob demolished a mosque on that site, prompting deadly religious riots that were the worst since India’s independence, leaving more than 2,000 people dead. Modi spent years raising funds to erect a massive Hindu temple on the ruins. He opened it earlier this year, saying, “Today, our Ram has come.” 
+
+<br> 
+
+<https://www.voanews.com/a/biden-hosts-white-house-diwali-reception-/7842893.html>
+
+---
+
+## Why Fed independence is crucial
+
+date: 2024-10-28, from: Market Place
+
+<p>If Donald Trump is reelected president, the Federal Reserve&#8217;s political independence would go &#8220;right out the window,&#8221; Alan Blinder, a former Fed vice chairman, told us. In this special episode, economists weigh in on the importance of Fed autonomy in policymaking, and what political interference — something Trump is threatening — could mean for the global economy.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/28/pm_20241028_PM_Podcast_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace/why-fed-independence-is-crucial&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace"></source>
+</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/28/pm_20241028_PM_Podcast_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace/why-fed-independence-is-crucial&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace/why-fed-independence-is-crucial>
+
+---
+
+## Ex-US Marine sentenced to 7 years for white supremacist plot
+
+date: 2024-10-28, from: VOA News USA
+
+Washington — A former U.S. Marine was sentenced to seven years in prison Monday for his role in a white supremacist plot to destroy power facilities. 
+
+
+Jordan Duncan, 29, pleaded guilty in North Carolina in June to aiding in the manufacture of a firearm. 
+
+
+Duncan and four other men, including two other ex-Marines, were arrested in 2020 in connection with what authorities described as a neo-Nazi plot to sow chaos by targeting the power grid. 
+
+
+"We have now brought to justice all five of the defendants involved in a self-described 'modern day SS,' who conspired, prepared, and trained to attack America's power grid in the name of violent white supremacist ideology," Attorney General Merrick Garland said in a statement. 
+
+
+FBI Director Christopher Wray said the group was "inspired by racially motivated violent extremism." 
+
+
+"If the defendants had been able to carry out an attack it could have caused suffering to thousands of American citizens," Wray said. 
+
+
+The other four defendants were previously sentenced to prison terms between 21 months and 10 years. 
+
+
+According to court documents, two members of the group were active on "Iron March," a neo-Nazi online forum, until it was closed in 2017. They also recruited the other three people involved. 
+
+
+The group accumulated firearms and produced a video of live-fire training in the desert near Boise, Idaho, that ended with the phrase "Come home white man" as the final frame. 
+
+
+Components of the power grid in the northwestern United States were listed as potential targets in handwritten notes found in the possession of one of the conspirators. 
+
+<br> 
+
+<https://www.voanews.com/a/ex-us-marine-sentenced-to-7-years-for-white-supremacist-plot/7842572.html>
+
+---
+
+## One person dead in Iowa from Lassa fever, state health department says
+
+date: 2024-10-28, from: VOA News USA
+
+The Iowa Department of Health and Human Services on Monday confirmed the death of a middle-aged eastern Iowa resident from Lassa fever.
+
+
+The individual had recently returned from travel to West Africa, where it is believed the person contracted the virus, the state health department said.
+
+
+The U.S. Centers for Disease Control and Prevention is working to confirm the diagnosis of Lassa fever, the state health department said. The CDC said it assesses the risk to the general public to be extremely low.
+
+
+Lassa fever is a viral disease common in West Africa, but rarely seen in the United States.
+
+
+There have been eight travel-associated cases of Lassa fever in the United States in the past 55 years, according to the Iowa health department.
+
+
+In West Africa, the Lassa virus is carried by rodents and spread to humans through contact with urine or droppings of infected rodents.
+
+
+About 100,000 to 300,000 cases of Lassa fever and 5,000 related deaths occur in West Africa each year, according to the CDC. 
+
+<br> 
+
+<https://www.voanews.com/a/one-person-dead-in-iowa-from-lassa-fever-state-health-department-says-/7842584.html>
+
+---
+
+## Keeping calm in the eye of the election storm
+
+date: 2024-10-28, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p>News outlets aren&#8217;t mincing words about the offensive and racist remarks featured at former President Donald Trump&#8217;s rally in New York&#8217;s Madison Square Garden on Sunday. We&#8217;ll talk about the media backlash to the event, which was intended to be a part of Trump&#8217;s closing argument against Vice President Kamala Harris. Then, we discuss reports of ballot drop boxes on fire and give tips on how to ride out the last few days before Election Day. Plus, a story that has us waltzing through our emotions.</p>
+<p>Here&#8217;s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.bloomberg.com/news/articles/2024-10-28/hundreds-of-ballots-damaged-in-drop-box-fire-in-washington-state?srnd=homepage-americas&amp;embedded-checkout=true" target="_blank" rel="noreferrer noopener">&#8220;Hundreds of Ballots Damaged in Drop-Box Fire in Washington State&#8221;</a> from Bloomberg</li>
+</ul>
+<p><!-- /wp:paragraph --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://www.readtpa.com/p/no-more-euphemisms-media-gets-real" target="_blank" rel="noreferrer noopener">&#8220;No More Euphemisms: Media Gets Real on Trump’s MSG Hate Rally&#8221;</a> from Parker Molloy on Substack</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://x.com/benjaminhaddad/status/1849364237161787705" target="_blank" rel="noreferrer noopener">Post about the 2024 U.S. presidential election&#8217;s impact on Europe</a> from Benjamin Haddad on X</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://www.nytimes.com/2024/10/27/arts/music/chopin-waltz-discovery.html" target="_blank" rel="noreferrer noopener">&#8220;Hear a Chopin Waltz Unearthed After Nearly 200 Years&#8221;</a> from The New York Times</li>
+</ul>
+<p><!-- /wp:list-item --></p>
+<p><!-- /wp:list --> <!-- wp:paragraph --></p>
+<p>We can’t do this show without you. Send us your questions, comments or wild suggestions at makemesmart@marketplace.org or leave a voicemail at 508-U-B-SMART!</p>
+<p><!-- /wp:paragraph --></p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/28/mms_20241028_Make_Me_Smart_128.mp3?awEpisodeId=https://www.marketplace.org/shows/make-me-smart/keeping-calm-in-the-eye-of-the-election-storm&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/make-me-smart"></source>
+</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/28/mms_20241028_Make_Me_Smart_128.mp3?awEpisodeId=https://www.marketplace.org/shows/make-me-smart/keeping-calm-in-the-eye-of-the-election-storm&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/make-me-smart" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/keeping-calm-in-the-eye-of-the-election-storm>
+
+---
+
+## Turkey watches US presidential race closely
+
+date: 2024-10-28, from: VOA News USA
+
+Ankara is watching the U.S. elections closely. Analysts say Turkey’s President Recep Tayyip Erdogan stands to benefit from either a Donald Trump or Kamala Harris victory, but both scenarios come with risks for the Turkish leader and his aspirations. Dorian Jones reports from Istanbul. 
+
+<br> 
+
+<https://www.voanews.com/a/turkey-watches-us-presidential-race-closely/7842439.html>
+
+---
+
+## Can Community Pharmacies Help Address the NHS's Growing Challenges?
+
+date: 2024-10-28, updated: 2024-10-28, from: RAND blog
+
+Community pharmacies are seen as vital to easing NHS pressure, with expanded roles like prescribing. However, challenges such as funding cuts and lack of integration persist. Greater cooperation, improved data sharing, and public awareness are needed. 
+
+<br> 
+
+<https://www.rand.org/pubs/commentary/2024/10/can-community-pharmacies-help-address-the-nhss-growing.html>
+
+---
+
+## There’s No Easy Way to Fill Climate Tech’s ‘Missing Middle’
+
+date: 2024-10-28, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81Mzg4ODk3Ny9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc1NjYwODg0N30.3dgQqSCEV-aV12c3mQOS3V9Go5t77BxdLdOluYXq1tw/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">Sometimes it’s called the “missing middle,” sometimes, more ominously, the “valley of death.” Whatever the terminology, it’s undeniable that a chasm lies between a climate company’s early funding rounds and its eventual commercial scale-up, one that’s getting harder and harder to bridge. From the first half of last year to the first half of this one, total Series B funding declined by nearly a quarter; beyond Series C rounds — what the market intelligence platform <a href="https://www.ctvc.co/a-weak-11-3bn-start-to-2024-climate-tech/?ref=ctvc-by-sightline-climate-newsletter" rel="noopener noreferrer" target="_blank"><u>CTVC</u></a> calls “growth funding” — it declined by a third.</p><p>“The capital needs of these businesses have just outgrown their early stage backers,” Frank O’Sullivan, a managing director for S2G Ventures’ energy investments, told me. “But the infrastructure investors have absolutely no appetite whatsoever for taking on an unproven technology and scaling.” S2G makes both early stage and growth stage investments, and O’Sullivan co-authored a <a href="https://www.s2gventures.com/2023-capital-imbalances-energy-transition" rel="noopener noreferrer" target="_blank"><u>white paper</u></a> last year on the problem of the “missing middle.” The paper found that of the $270 billion in private capital for clean energy raised between 2017 and 2022, just 20% was allocated to late-stage and growth-focused investments, while 43% went to earlier rounds and 37% toward deploying established tech.</p><p>Of course, some of climate tech’s funding gap can be attributed to broader trends in the venture market and economic landscape. Covid-related disruptions and low interest rates led investors to throw money at promising startups, only to see their valuations drop as inflation (with rising interest rates to match) and geopolitical uncertainty cooled down the overheated market. Other companies went directly onto the public market via special purpose acquisition companies, only to underperform expectations. “There is capital to be deployed,” O’Sullivan told me. “But a lot of the companies that need that capital are struggling, really, to swallow hard and take significant restructuring of their previous valuations.”</p><p>With clean tech in particular, there’s also frequently a mismatch between the abilities of venture firms, which often make their biggest returns on software startups, and the demands of climate tech. The latter tends to require huge investments in physical infrastructure and support for first-of-a-kind projects, and generally has a longer timeline to profitability than, say, an app. “Venture funding, in some sense, was built for scaling software companies,” Laura Pierpoint, managing director of the <a href="https://www.businesswire.com/news/home/20240418137137/en/Prime-Coalition-Announces-Trellis-Climate-to-Accelerate-Deployment-of-First-of-a-Kind-Climate-Projects-Through-Catalytic-Capital" rel="noopener noreferrer" target="_blank"><u>new catalytic capital program</u></a> Trellis Climate, told me. “You’re talking about a capital light business that generally is creating something that enters a white space, and for which there’s huge amounts of market potential.” </p><p>It’s much more difficult to build expensive infrastructure that aims to displace fossil fuel facilities and the entire economy that relies on the cheap, reliable power they provide. So while VCs may be enthusiastic about taking a relatively small financial bet on a high-potential early-stage company, that may be all they’re able to do.</p><p>Trellis, on the other hand, is a part of the climate nonprofit Prime Coalition and funds first-of-a-kind climate projects with philanthropic capital. The nonprofit structure and philanthropy-focused funding model mean that Trellis can take a different tack on missing middle financing than traditional venture or equity investors. For example, Pierpoint told me it can choose whether to invest in a company or just a specific project. Trellis can also help de-risk projects by providing an “insurance backstop” — basically backup capital in case primary project funding falls short. “We’re looking at expanding the kinds of resources and dollars we can bring to the table in general for the ecosystem, because we think that venture can’t do this alone,” Pierpoint told me.</p><p>As with all nonprofits, generating big returns isn’t the focus for Trellis. But for traditional investors, that’s the primary goal. And while growth investments in more technically mature solutions are likely to generate consistent returns, O’Sullivan told me they don’t often provide the rarer but more alluring 10x returns that make early-stage venture capital particularly enticing. “So it’s a more balanced portfolio, typically, in that growth equity category. It’s just that you don’t see the high highs,” he said, explaining that a two to 3x return on investments is more realistic. </p><p>Brook Porter, a partner and co-founder at the growth-stage firm G2 Venture Partners, told me that focusing on the missing middle <em><em>can</em></em> be extremely profitable, though, and that the key to making real money is correctly identifying a company’s “inflection point” — that is, when it’s poised for significant growth and impact. That is, of course, every investor’s dream. But G2’s whole strategy revolves around identifying exactly when this critical juncture will be, tracking more than 2,000 companies per year to identify the ones best poised for breakout scale-up.</p><p>The firm spun off in 2016 from Kleiner Perkins’ Green Growth Fund, where Porter and his three co-founders previously worked as senior partners. This is where they honed their theory of inflection point investing, <a href="https://g2vp.com/portfolio/" rel="noopener noreferrer" target="_blank"><u>funding companies</u></a> such as Uber, drone-maker DJI, and Enphase Energy. Porter told me that helping startups move from proof-of-concept to building “that machine of a business” requires a lot of hand-holding, and that “there aren’t as many investors with that skill set,” so it could take a while for this approach to scale. </p><p>On the other end of the funding spectrum, large institutional investors like banks, hedge funds, and asset management firms certainly have the money to help bridge the missing middle, but O’Sullivan and Pierpoint told me they’re generally more interested in fulfilling their internal climate mandates by building out more wind and solar, which generates near-guaranteed returns. These investment giants then look at their remaining cash and think, “Well, we should do something more avant garde. Let’s put money into early-stage venture,” O’Sullivan explained. That’s how many seed and Series A-focused funds raise money. </p><p>As O’Sullivan sees it, what’s happening now is “a flaw of the structure of capital allocation at the very highest level.” He thinks we could start by reorienting incentives such that large investors such as banks, asset managers, and pension funds get paid in part for helping bring new climate solutions to market, as opposed to just funding the same old, same old. That would allow them to write “right-sized checks” on the order of $50 million to $100 million to ready-to-scale companies — larger than what a VC firm would write, but smaller than what the big infrastructure investors are used to.</p><p>How would those alternate funding models actually work? Well, that’s the real question. Pierpoint said she’s often asked whether a new kind of investor or asset class will be necessary to fill the gap, and while she doesn’t have an answer, what she does know is that the group of climate tech companies that’s ready to commercialize “can’t wait 15 years until we have the exact right form of capital.” </p><p>“There needs to be urgency on the part of philanthropists, on the part of infrastructure equity investors, on the part of venture capitalists, to really start showing that we can do this,” Pierpoint told me, “and that we can bring together the right capital stacks to make this happen.” </p> 
+
+<br> 
+
+<https://heatmap.news/technology/missing-middle>
+
+---
+
+## Protecting Your Sleep During the Election Season
+
+date: 2024-10-28, updated: 2024-10-28, from: RAND blog
+
+Election stress can impact sleep as news and social media fuel anxiety. Limiting media before bed, engaging in civic activities, and maintaining a sleep routine can improve well-being and resilience during tense times. 
+
+<br> 
+
+<https://www.rand.org/pubs/commentary/2024/10/protecting-your-sleep-during-the-election-season.html>
+
+---
+
+##  After The Storms, The Toxic Secrets Left Behind 
+
+date: 2024-10-28, from: The Lever News
+
+ Regulatory holes and lobbying pressure are obscuring the industrial toxins left behind by disasters like Hurricane Helene — and a Trump victory could make matters worse.  
+
+<br> 
+
+<https://www.levernews.com/after-the-storms-the-toxic-secrets-left-behind/>
+
+---
+
+## In Purple Pennsylvania, Older Climate Activists Tell Would-Be Voters, ‘We Caused It. We Can Solve It.’
+
+date: 2024-10-28, from: Capital and Main
+
+<p>Under the watch of environmental warrior Bill McKibben, the 'Silver Wave Tour' is mobilizing fed-up senior citizens to canvas for climate votes in swing states. </p>
+<p>The post <a href="https://capitalandmain.com/in-purple-pennsylvania-older-climate-activists-tell-would-be-voters-we-caused-it-we-can-solve-it">In Purple Pennsylvania, Older Climate Activists Tell Would-Be Voters, &#8216;We Caused It. We Can Solve It.&#8217;</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/in-purple-pennsylvania-older-climate-activists-tell-would-be-voters-we-caused-it-we-can-solve-it>
+
+---
+
+## The Climate Politics Hiding in Plain Sight
+
+date: 2024-10-28, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81Mzg4ODQ3MS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc1MzkzMDk5Nn0.ODGV_pmFOD9E0K4RX4fe4dfhEueLQXhL0u2HmLvZcgc/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">For some reason, people keep moving to Phoenix. The population of Maricopa County, which includes the city and its suburbs, was over 4.4 million in the 2020 <a href="https://www.census.gov/quickfacts/fact/table/maricopacountyarizona/PST045223" rel="noopener noreferrer" target="_blank"><u>Census</u></a>, double what it had been 30 years before. This is despite the fact that you run the risk of bursting into flames simply by walking down the street there; this summer, temperatures <a href="http://phoenicians" rel="noopener noreferrer" target="_blank"><u>exceeded</u></a> 100 degrees Fahrenheit in Phoenix for a stunning 113 straight days, and in July <a href="https://www.azcentral.com/story/news/local/arizona-weather/2024/08/16/phoenix-heat-breaks-over-a-dozen-all-time-records-what-are-they/74831426007/" rel="noopener noreferrer" target="_blank"><u>the temperature reached</u></a> a balmy 118.</p><p>Climate hasn’t been as hot an issue in Arizona this year as immigration, though the candidates for an open Senate seat have <a href="https://www.eenews.net/articles/shes-in-denial-gallego-lake-clash-on-climate-water/" rel="noopener noreferrer" target="_blank"><u>disagreed</u></a> over the reality of climate change and how to deal with extreme heat. (Democrat Ruben Gallego advocates emissions reductions and more nuclear power; Republican Kari Lake says if we “Drill baby drill” then everyone can keep running their air conditioners.) There is genuine uncertainty about how long the state will <a href="https://www.nytimes.com/2023/06/01/climate/arizona-phoenix-permits-housing-water.html" rel="noopener noreferrer" target="_blank"><u>have enough water</u></a> to supply its growing population, but when the election is over it will be difficult to tell exactly how many votes were moved by rising temperatures. Joe Biden was the first Democratic presidential candidate to win Maricopa since Harry Truman, and the slowly baking county is the most important battleground in that battleground state. </p><p>While climate may have seemed like a minor consideration amid all the talk of fascism, abortion bans, and fictional pet-eating this election cycle, in some of the states where the election will be decided, it’s still a vital issue. Particularly when a few thousand votes can determine who wins — as will probably be the case in multiple states — it could be far more important than most people realize. </p><p>In fact, in most of the battlegrounds, one can identify a climate issue that is profoundly affecting lives and the economy — and might or might not nudge the election results one way or another. The most obvious case may be North Carolina, where the western part of the state was ravaged by Hurricane Helene. In the aftermath, it became clear that Asheville was not the <a href="https://www.fastcompany.com/91200111/asheville-has-been-called-a-climate-haven-theres-no-such-thing" rel="noopener noreferrer" target="_blank"><u>climate refuge</u></a> some had believed it to be. </p><p>Buncombe County, where Asheville is located, is a blue island in a red sea. And while officials scramble to make sure voting sites are operable, Republicans in the state seem to think the hurricane has given them an advantage, since they’ve used it to convince people (often with false claims and conspiracy theories) that the federal government has abandoned them. The county Democratic chair <a href="https://www.reuters.com/world/us/harris-trump-teams-scramble-votes-north-carolinas-hurricane-damaged-west-2024-10-24/" rel="noopener noreferrer" target="_blank"><u>told Reuters</u></a> they’ve stopped knocking on Republican voters’ doors because “we just don't know about how volatile they might be.” No one is sure how many people have lost access to voting sites due to the storm, though one Republican congressman from Maryland <a href="https://www.politico.com/news/2024/10/25/trump-freedom-caucus-north-carolina-electors-00185520" rel="noopener noreferrer" target="_blank"><u>suggested</u></a> that since many of the affected areas lean red, the state legislature should just award its electoral votes to Trump.</p><p>Pennsylvania is another state where Republicans think the climate debate will work in their favor. Both Trump and Senate candidate David McCormick have put much of their emphasis on promoting fracking and accusing their opponents of wanting to ban it, on the presumption that the issue is a guaranteed winner. But the truth is that Pennsylvanians are <a href="https://e2.org/wp-content/uploads/2023/12/E2-Clean-Jobs-Pennsylvania-2023_final.pdf" rel="noopener noreferrer" target="_blank"><u>much more ambivalent</u></a> about fracking than you might imagine, and there are now more <a href="https://e2.org/wp-content/uploads/2023/12/E2-Clean-Jobs-Pennsylvania-2023_final.pdf" rel="noopener noreferrer" target="_blank"><u>clean energy jobs</u></a> in the state than fracking jobs. The counties <a href="https://experience.arcgis.com/experience/5d08b5d1dd7f4cbba594b193debf75dd#data_s=id%3AdataSource_1-19083a7c8ba-layer-13%3A8" rel="noopener noreferrer" target="_blank"><u>most dependent</u></a> on fossil fuel production — including McKean, Warren, Venango (where Oil City is the largest town) and others — are small to mid-sized, though heavily Republican; their votes are swamped by those in Philadelphia and Pittsburgh and their surrounding suburbs. It wouldn’t be a stretch to think that if Harris wins, the frack attack could fade in the same way coal has <a href="https://heatmap.news/politics/coal-2024-election-trump-biden" target="_self"><u>ceased</u></a> to be a major campaign issue. </p><p>There are also places where climate politics are even more subtle. Consider Bryan County, Georgia, a rapidly growing county not far from Savannah. It has long been a Republican stronghold — Donald Trump got two-thirds of the vote there in 2020 — but it’s also one of the jewels in Georgia’s recent <a href="https://www.businessinsider.com/how-georgia-became-green-manufacturing-capital-2024-3?op=1" rel="noopener noreferrer" target="_blank"><u>reinvention</u></a> as a center of green manufacturing. Production <a href="https://www.msn.com/en-us/news/us/hyundia-metaplant-has-started-production-ahead-of-schedule/ar-AA1rIAKb" rel="noopener noreferrer" target="_blank"><u>just began</u></a> at the local Hyundai “Metaplant” in the county, where 1,400 workers are building electric vehicles. </p><p>Will people in a place where the local economy increasingly revolves around green manufacturing vote again for a candidate who wants to rescind the subsidies that allow consumers to buy the very vehicles they and their neighbors are making? It’s difficult to predict. But the Republicans who run the state, especially Gov. Brian Kemp, have worked hard to promote Georgia as a green tech hub while tiptoeing around any talk of climate change, in a way that hasn’t seemed to damage either their political or economic fortunes. </p><p>The politics in these very different places show that economic transitions can be fodder for arguments on both sides, progress can produce backlash, and disaster can be exploited by almost anyone cynical enough to do so. While advocates of climate action might hope that the candidates who support their favored policies will inevitably have an advantage as the effects of climate change grow in magnitude, that won’t always be true.</p><p>It may be inevitable that over time, climate will become more central to campaigns. But the ways it is playing out in this election, low-key though they might be, could be a preview of things to come. The urgency of the climate crisis won’t make the politics any simpler.</p> 
+
+<br> 
+
+<https://heatmap.news/politics/swing-state>
+
+---
+
+## Recent Hurricanes and Geoengineering
+
+date: 2024-10-28, updated: 2024-10-28, from: RAND blog
+
+Recent hurricanes sparked false conspiracy theories about government-created disasters via geoengineering. These unfounded theories highlight geoengineering risks,  which remain with limited international regulation.  
+
+<br> 
+
+<https://www.rand.org/pubs/commentary/2024/10/recent-hurricanes-and-geoengineering.html>
+
+---
+
+## Drill, Baby, Drill? Former Big Oil Exec Says That’s Exactly What the Industry Doesn’t Need.
+
+date: 2024-10-28, from: Capital and Main
+
+<p>Former ConocoPhillips economist Marianne Kah on the election: Whether it's Harris or Trump, the outcome likely won't affect oil production.</p>
+<p>The post <a href="https://capitalandmain.com/drill-baby-drill-former-big-oil-exec-says-thats-exactly-what-the-industry-doesnt-need">Drill, Baby, Drill? Former Big Oil Exec Says That&#8217;s Exactly What the Industry Doesn&#8217;t Need.</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/drill-baby-drill-former-big-oil-exec-says-thats-exactly-what-the-industry-doesnt-need>
+
+---
+
+## Trump Fought a Union Drive at His Vegas Hotel. Now This Housekeeper Is Working to Keep Him From a Second Term as President.
+
+date: 2024-10-28, from: Capital and Main
+
+<p>Marisela Olvera, who faced a union-busting campaign at Trump International Hotel a decade ago, wants to help elect the first woman president.</p>
+<p>The post <a href="https://capitalandmain.com/trump-fought-a-union-drive-at-his-vegas-hotel-now-this-housekeeper-is-working-to-keep-him-from-a-second-term-as-president">Trump Fought a Union Drive at His Vegas Hotel. Now This Housekeeper Is Working to Keep Him From a Second Term as President.</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/trump-fought-a-union-drive-at-his-vegas-hotel-now-this-housekeeper-is-working-to-keep-him-from-a-second-term-as-president>
+
+---
+
+## How healthy is the job market on the eve of the election?
+
+date: 2024-10-28, from: Marketplace Morning Report
+
+<p>With election day just about a week away, the economy and its overall health are on the ballot in all but name. We check in with Julia Coronado, founder of MacroPolicy Perspectives, about how the labor market is looking amid shocks like hurricanes that have wracked the South. Plus, a glimpse at why childcare costs are so high across the country. And, the BBC&#8217;s Lisa Louis reports on a massive project that promises to link the Baltic countries of Lithuania, Latvia, and Estonia by rail.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/28/mmr_20241028_MMR_Podcast_3_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/how-healthy-is-the-job-market-on-the-eve-of-the-election&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report"></source>
+</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/28/mmr_20241028_MMR_Podcast_3_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/how-healthy-is-the-job-market-on-the-eve-of-the-election&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/how-healthy-is-the-job-market-on-the-eve-of-the-election>
 
 ---
 
@@ -69,8 +730,8 @@ date: 2024-10-28, from: Marketplace Morning Report
  
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/28/mmr_20241028_MMR_Podcast_2_64.mp3"></source>
-</audio> <a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/28/mmr_20241028_MMR_Podcast_2_64.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/28/mmr_20241028_MMR_Podcast_2_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/california-tries-to-woo-back-movie-studios&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report"></source>
+</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/28/mmr_20241028_MMR_Podcast_2_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/california-tries-to-woo-back-movie-studios&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/marketplace-morning-report/california-tries-to-woo-back-movie-studios>
 
@@ -84,8 +745,8 @@ date: 2024-10-28, from: Marketplace Morning Report
  
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/28/mmr_20241028_MMR_Podcast_1_64.mp3"></source>
-</audio> <a href="https://play.podtrac.com/APM-MarketplaceMorningReport/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/28/mmr_20241028_MMR_Podcast_1_64.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/28/mmr_20241028_MMR_Podcast_1_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/yen-tumbles-over-shock-election-results-in-japan&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report"></source>
+</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/28/mmr_20241028_MMR_Podcast_1_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/yen-tumbles-over-shock-election-results-in-japan&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/marketplace-morning-report/yen-tumbles-over-shock-election-results-in-japan>
 

@@ -1,11 +1,487 @@
 ---
 title: going electric
-updated: 2024-10-28 06:46:48
+updated: 2024-10-29 08:22:43
 ---
 
 # going electric
 
-(date: 2024-10-28 06:46:48)
+(date: 2024-10-29 08:22:43)
+
+---
+
+## Ford Is Now Waging A War On Two Fronts
+
+date: 2024-10-29, from: Inside EVs News
+
+Plus, Xiaomi just clobbered Porsche and Tesla at the Nurburgring, and Mexico issues warning to the U.S. over Chinese software ban, 
+
+<br> 
+
+<https://insideevs.com/news/739052/ford-ev-headache-continues-criticalmaterials/>
+
+---
+
+## Used Chevrolet Bolt EVs Are Somehow Even Cheaper Than You Think
+
+date: 2024-10-29, from: Inside EVs News
+
+Chevy's everyperson EV has always been a bargain. These days, you might even be able to score one for under $20,000. 
+
+<br> 
+
+<https://insideevs.com/news/739127/used-chevy-bolt-hertz-buying/>
+
+---
+
+## Audi introduces cheaper version of its upcoming A6 electric sedan
+
+date: 2024-10-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Audi-A6-sedan-avant.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Audi is expanding the line-up of its upcoming A6 electric sedan by introducing new entry-level versions.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="audi,audi-a6-e-tron" data-layer-viewtype="unknown" data-post-id="386615" href="https://electrek.co/2024/10/29/audi-introduces-cheaper-version-of-its-upcoming-a6-electric-sedan/#more-386615" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/29/audi-introduces-cheaper-version-of-its-upcoming-a6-electric-sedan/>
+
+---
+
+## Here’s our first look at the Cadillac Lyriq-V electric SUV, arriving early 2025
+
+date: 2024-10-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Cadillac-Lyriq-V-electric-SUV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>GM’s luxury brand is launching a new performance electric SUV early next year. The Cadillac Lyriq-V will be the first all-electric SUV to wear the V-Series badge, <a href="https://electrek.co/guides/gm/">GM’s</a> benchmark for performance and innovation.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="cadillac,gm" data-layer-viewtype="unknown" data-post-id="386609" href="https://electrek.co/2024/10/29/first-look-cadillac-lyriq-v-electric-suv/#more-386609" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/29/first-look-cadillac-lyriq-v-electric-suv/>
+
+---
+
+## The world’s first ever electric hydrofoil ferry begins operations
+
+date: 2024-10-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/candela-p-12-debut-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>As Candela’s P-12 gracefully flew over the waterways in Stockholm this morning, the event marked the first-ever commercial operation of a hydrofoil electric ferry.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-boats,electric-hydrofoil" data-layer-viewtype="unknown" data-post-id="386611" href="https://electrek.co/2024/10/29/the-worlds-first-ever-electric-hydrofoil-ferry-begins-operations/#more-386611" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/29/the-worlds-first-ever-electric-hydrofoil-ferry-begins-operations/>
+
+---
+
+## Volvo, Polestar Owners Get Tesla Supercharger Access
+
+date: 2024-10-29, from: Inside EVs News
+
+Great news for fans of Swedish EVs: more than 17,800 Tesla Supercharger stations in the U.S. and Canada open up for Volvo and Polestar. 
+
+<br> 
+
+<https://insideevs.com/news/739114/tesla-volvo-polestar-nacs-supercharger/>
+
+---
+
+## Fairway wants to replace golf carts with this funky electric bike
+
+date: 2024-10-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/fairway-bikes-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Who needs a golf cart when you’ve got a… golf bike? That’s the thought behind Fairway Bikes’ new three-wheeled electric bike designed for golfers, helping kick the lazy golf cart for a more interactive alternative.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,golf-carts" data-layer-viewtype="unknown" data-post-id="386597" href="https://electrek.co/2024/10/29/fairway-wants-to-replace-golf-carts-with-this-funky-electric-bike/#more-386597" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/29/fairway-wants-to-replace-golf-carts-with-this-funky-electric-bike/>
+
+---
+
+## Polestar EVs are now able to use the Tesla Supercharger network
+
+date: 2024-10-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Polestar-3-Tesla-Supercharger.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Polestar announced that its electric vehicles are now being officially onboarded into the Tesla Supercharger network.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="polestar,tesla" data-layer-viewtype="unknown" data-post-id="386593" href="https://electrek.co/2024/10/29/polestar-evs-are-now-able-to-use-the-tesla-supercharger-network/#more-386593" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/29/polestar-evs-are-now-able-to-use-the-tesla-supercharger-network/>
+
+---
+
+## 2025 Lucid Gravity: Here's How Much It Will Cost
+
+date: 2024-10-29, from: Inside EVs News
+
+Orders open next week, so get ready to open your checkbook. 
+
+<br> 
+
+<https://insideevs.com/news/739037/lucid-gravity-price-release-date/>
+
+---
+
+## Lucid Gravity orders set to begin next week with two trims, one priced below $80,000
+
+date: 2024-10-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Lucid-Gravity-orders-rear.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/lucid-motors/">Lucid Motors</a> has finally set a date to begin taking orders for its flagship SUV, Gravity. We’ve learned that Lucid has maintained the initial pricing of Gravity below $80,000, which was announced when it launched. That said, another trim that’s a bit more expensive is going on the market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-gravity,lucid-motors" data-layer-viewtype="unknown" data-post-id="386524" href="https://electrek.co/2024/10/29/lucid-gravity-orders-to-begin-next-week-two-trims-one-priced-below-80000/#more-386524" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/29/lucid-gravity-orders-to-begin-next-week-two-trims-one-priced-below-80000/>
+
+---
+
+## 2026 Cadillac Lyriq-V: This Is It
+
+date: 2024-10-29, from: Inside EVs News
+
+Cadillac's award-winning crossover is about to put the "V" in "EV," and we're all better for it. The performance variant debuts next year. 
+
+<br> 
+
+<https://insideevs.com/news/739100/2026-cadillac-lyriq-v/>
+
+---
+
+## Xiaomi SU7 Ultra breaks track speed records
+
+date: 2024-10-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/xiaomi-su7-ultra-prototype-00004.jpg?quality=82&#038;strip=all&#038;w=1338" /></div><p>Xiaomi’s prototype high-performance SU7 has set a record lap time at Germany’s Nürburgring track, according to the company. The SU7 Ultra completed the grueling circuit in just six minutes and 46.874 seconds, which takes the title of the fastest four-door car on the famous track.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="386582" href="https://electrek.co/2024/10/29/xiaomi-suv-7-ultra-breaks-track-speed-records/#more-386582" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/29/xiaomi-suv-7-ultra-breaks-track-speed-records/>
+
+---
+
+## Louisville goes electric, Waymo gets $5B, Ford brings production to Michigan
+
+date: 2024-10-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/notthatone.jpg?quality=82&#038;strip=all&#038;w=1120" /></div><p>Today’s episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em> is a story of, “Thanks, Joe Biden!” as Ford and LG ink a deal to bring EV battery manufacturing back to Michigan, the city of Louisville gets the nation’s first all-electric garbage truck fleet, and Waymo gets a <em>massive</em> $5.6 billion cash injection.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-garbage-truck,ford,quick-charge,waymo" data-layer-viewtype="unknown" data-post-id="386562" href="https://electrek.co/2024/10/28/louisville-goes-electric-waymo-gets-5b-ford-brings-production-to-michigan/#more-386562" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/28/louisville-goes-electric-waymo-gets-5b-ford-brings-production-to-michigan/>
+
+---
+
+## Ford CEO says new mid-size electric pickup will match the cost of Chinese EVs like BYD
+
+date: 2024-10-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Ford-UAW-Discount-2025.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>With new low-cost Chinese flooding global markets, <a href="https://electrek.co/guides/ford/">Ford</a> CEO Jim Farley vows its new mid-size electric pickup is a “game changer.” Ford’s leader took a jab at BYD, vowing the company’s new electric pickup will match the costs of Chinese automakers building in Mexico.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford" data-layer-viewtype="unknown" data-post-id="386551" href="https://electrek.co/2024/10/28/fords-new-electric-pickup-rival-chinese-evs-costs/#more-386551" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/28/fords-new-electric-pickup-rival-chinese-evs-costs/>
+
+---
+
+## How BYD's Product Offensive Pushed It To The Top
+
+date: 2024-10-28, from: Inside EVs News
+
+The automaker's focus on both BEVs and PHEVs led to huge growth over a short period of time. 
+
+<br> 
+
+<https://insideevs.com/news/738969/byd-sales-growth-explained/>
+
+---
+
+## Ford tops Q3 earnings expectations, but EV losses take a toll on profits
+
+date: 2024-10-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Ford-EV-costs.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/ford/">Ford</a> reported Q3 earnings after the market closed on Monday, beating Wall St revenue and EPS expectations. However, the company is still losing billions on its EVs. Here’s a closer look at Ford’s third-quarter 2024 earnings report.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford" data-layer-viewtype="unknown" data-post-id="386519" href="https://electrek.co/2024/10/28/ford-tops-q3-earnings-but-ev-losses-weigh-profits/#more-386519" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/28/ford-tops-q3-earnings-but-ev-losses-weigh-profits/>
+
+---
+
+## Ford Mustang Mach-E Battery Production Is Moving To America
+
+date: 2024-10-28, from: Inside EVs News
+
+Ford and LGES have agreed to move Mach-E battery production from Poland to Michigan. 
+
+<br> 
+
+<https://insideevs.com/news/739034/ford-lges-battery-plant-michigan/>
+
+---
+
+## These 3 Tesla insiders, including Elon’s own brother, are preparing to sell $300 million in TSLA stock
+
+date: 2024-10-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/02/Kimbal-Musk-self-driving-Tesla.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Three Tesla insiders, including Elon Musk’s own brother, are preparing to sell about $300 million worth of Tesla (TSLA) stocks.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="386510" href="https://electrek.co/2024/10/28/these-3-tesla-insiders-including-elons-own-brother-are-preparing-to-sell-300-million-in-tsla-stock/#more-386510" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/28/these-3-tesla-insiders-including-elons-own-brother-are-preparing-to-sell-300-million-in-tsla-stock/>
+
+---
+
+## This YouTuber’s Tesla Model S Plaid Lost Him $100,000
+
+date: 2024-10-28, from: Inside EVs News
+
+A Tesla Model S Plaid purchased by Kyle Conner in 2022 has depreciated by nearly six figures in just two years of ownership. 
+
+<br> 
+
+<https://insideevs.com/news/739013/tesla-model-s-plaid-depreciation/>
+
+---
+
+## Chevy Equinox EV, Honda Prologue push US EV share to new record in October
+
+date: 2024-10-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/35000-Chevy-Equinox-EV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>With new models rolling out across the US, like the <a href="https://electrek.co/guides/chevy-equinox-ev/">Chevy Equinox EV</a> and Honda Prologue, EVs are expected to hit record market share in October. As the next wave of EVs hit the market, like Jeep’s Wagoneer S and the Volkswagen ID.Buzz, EV sales are expected to pick up into the end of the year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevy-equinox-ev,honda-prologue" data-layer-viewtype="unknown" data-post-id="386501" href="https://electrek.co/2024/10/28/chevy-equinox-honda-prologue-drive-record-ev-share-october/#more-386501" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/28/chevy-equinox-honda-prologue-drive-record-ev-share-october/>
+
+---
+
+## Porsche Is Reconsidering Its Electric-Only Strategy
+
+date: 2024-10-28, from: Inside EVs News
+
+The manufacturer recently hinted that it would shift part of its focus back to combustion engines. 
+
+<br> 
+
+<https://insideevs.com/news/739010/porsche-bringing-back-combustion-engines/>
+
+---
+
+## Ride1Up Roadster V3 review: Now THIS is how you build an electric bike!
+
+date: 2024-10-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/ride1up-roadster-V3-header-e-bike.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>North American e-bike regulations allow a higher power limit of 750W, which has resulted in an amazingly diverse field of super powerful e-bikes. However, that also means there’s a push towards the extra heavy end of the spectrum. But as a nice break from the race to more power, now that I’ve been testing the lightweight Ride1Up Roadster V3 for several weeks, I’m glad to finally be back on a lighter and more efficient ride that reminds me of the simpler times.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,review" data-layer-viewtype="unknown" data-post-id="385624" href="https://electrek.co/2024/10/28/ride1up-roadster-v3-review-now-this-is-how-you-build-an-electric-bike/#more-385624" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/28/ride1up-roadster-v3-review-now-this-is-how-you-build-an-electric-bike/>
+
+---
+
+## Bosch’s IDS Ultra Cold Climate Heat Pump just hit the market
+
+date: 2024-10-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/IDS-Ultra-_Winter.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Bosch is now the first manufacturer to bring a cold-climate heat pump to market as part of the US Department of Energy’s (DOE) Residential Cold Climate Heat Pump Challenge. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bosch,department-of-energy,egeb,energy-brief,solar,united-states-department-of-energy" data-layer-viewtype="unknown" data-post-id="386465" href="https://electrek.co/2024/10/28/bosch-ids-ultra-cold-climate-heat-pump-just-hit-the-market/#more-386465" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/28/bosch-ids-ultra-cold-climate-heat-pump-just-hit-the-market/>
+
+---
+
+## Lectric XPedition e-bikes with $455 in free gear, GE smart washer & ventless dryer $700 off, Worx Landroid mowers, Anker, more
+
+date: 2024-10-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Lectric-XPedition-Limited-Edition-Cargo-e-bikes.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>We’re kicking off this week’s Green Deals with a focus on <a href="https://9to5toys.com/2024/10/28/lectrics-xpedition-dual-battery-e-bike-1699-455-gear/">Lectric’s XPedition</a> Dual-Battery Cargo e-bike, including the limited-edition pink colorway, which is getting $455 in free gear at <a href="https://9to5toys.com/2024/10/28/lectrics-xpedition-dual-battery-e-bike-1699-455-gear/">$1,699</a>. We also spotted the <a href="https://9to5toys.com/2024/10/25/ge-smart-electric-2-in-1-washer-ventless-dryer-at-2200/">GE Profile Smart Combo</a> Electric Washer &amp; Ventless Heat Pump Dryer that is back down in price at <a href="https://9to5toys.com/2024/10/25/ge-smart-electric-2-in-1-washer-ventless-dryer-at-2200/">$2,200</a>. We also have some of the lowest prices on <a href="https://9to5toys.com/2024/10/28/worxs-landroid-robotic-lawn-mowers-from-560/">Worx’s Landroid Robotic Lawn Mowers</a> that are starting from <a href="https://9to5toys.com/2024/10/28/worxs-landroid-robotic-lawn-mowers-from-560/">$560</a>, as well as Anker’s Halloween sale that has dropped its <a href="https://9to5toys.com/2024/10/28/ankers-solix-c800-power-stations-from-399/">SOLIX C800 and C800 Plus</a> Portable Power Stations back to their lowest prices starting from $399. Plus, all the best hangover Green Deals from last week are in the links at the bottom of the page, collected together in our <a href="https://9to5toys.com/2024/10/26/electrified-weekly-tenways-cgo600-pro-e-bike-jackery-more/">Electrified Weekly roundup</a> coverage.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="386463" href="https://electrek.co/2024/10/28/lectric-xpedition-e-bikes-ge-smart-washer-dryer-worx-landroid-more/#more-386463" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/28/lectric-xpedition-e-bikes-ge-smart-washer-dryer-worx-landroid-more/>
+
+---
+
+## Hyundai’s larger IONIQ 9 SUV spotted with big body and spacious interior [Images]
+
+date: 2024-10-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Hyundai-IONIQ-9-camo-side.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The three-row electric SUV we’ve been waiting for is almost here. Ahead of its debut next month, the <a href="https://electrek.co/guides/hyundai/">Hyundai</a> IONIQ 9 was spotted parked in Korea, giving us a closer look at its impressive size and spacious interior.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="386461" href="https://electrek.co/2024/10/28/hyundai-ioniq-9-spotted-big-body-spacious-interior-images/#more-386461" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/28/hyundai-ioniq-9-spotted-big-body-spacious-interior-images/>
+
+---
+
+## Scout Motors Reservations Are Overwhelmingly For The 'Harvester' EREV
+
+date: 2024-10-28, from: Inside EVs News
+
+The Scout Traveler EREV has the attention of Ford Bronco and Jeep Wrangler owners.   
+
+<br> 
+
+<https://insideevs.com/news/738993/scout-motors-reservations-harvester-erev/>
+
+---
+
+## Tesla releases rare blog post and it’s an interesting one: Standardizing Auto Connectivity
+
+date: 2024-10-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/1677709507954-e1730131988573.webp?w=1600" /></div><p>Tesla has released a rare new blog post, and it’s an interesting one: Tesla is trying to standardize automotive connectivity and popularize a 48-volt architecture.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="386448" href="https://electrek.co/2024/10/28/tesla-standardizing-auto-connectivity/#more-386448" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/28/tesla-standardizing-auto-connectivity/>
+
+---
+
+## Volkswagen warns mass layoffs, historic plant closures are coming
+
+date: 2024-10-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/09/Volkswagen-EV-jobs-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>For the first time ever, <a href="https://electrek.co/guides/volkswagen/">Volkswagen</a> plans to shut the doors to a facility on its home turf. The company plans to close not one but at least three plants in Germany as it faces mounting pressure from China. Volkswagen also warned mass layoffs and pay cuts are coming as it looks to cut costs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volkswagen,vw" data-layer-viewtype="unknown" data-post-id="386434" href="https://electrek.co/2024/10/28/volkswagen-warns-mass-layoffs-historic-plant-closures-coming/#more-386434" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/28/volkswagen-warns-mass-layoffs-historic-plant-closures-coming/>
+
+---
+
+## XPeng AeroHT breaks ground on ‘flying car’ production facility ahead of 2026 market launch
+
+date: 2024-10-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/AeroHT-production-flying-car.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>AeroHT, the eVTOL and “flying car” business arm of XPeng, moved one step closer to full-fledged production, breaking ground on a new facility in China capable of assembling 10,000 units annually. <br>When complete, the facility will build the <a href="https://electrek.co/guides/aeroht/">AeroHT’s</a> flagship commercial product – an eVTOL/vehicle combo called the “Land Aircraft Carrier.”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="aeroht,evtol,flying-car,xpeng" data-layer-viewtype="unknown" data-post-id="386425" href="https://electrek.co/2024/10/28/xpeng-aeroht-breaks-ground-flying-car-production-facility-2026-market-launch/#more-386425" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/28/xpeng-aeroht-breaks-ground-flying-car-production-facility-2026-market-launch/>
+
+---
+
+## Tesla extends 0% loans in China as it tries for record quarter
+
+date: 2024-10-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Tesla-China-interest-rates.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has extended its 0% loan incentive in China through another month as it tries to achieve a record quarter.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="386390" href="https://electrek.co/2024/10/28/tesla-extends-0-loans-in-china-as-it-tries-for-record-quarter/#more-386390" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/28/tesla-extends-0-loans-in-china-as-it-tries-for-record-quarter/>
+
+---
+
+## Ford F-150 Lightning and Mustang Mach-E drivers just gained Google Maps EV routing
+
+date: 2024-10-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Ford-monster-vehicles.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/ford/">Ford</a> just made it easier for F-150 Lightning and Mustang Mach-E drivers to charge with new EV routing features. Drivers can now see new routing info, including available Tesla Superchargers along their route for easy trip planning.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford,ford-f-150-lightning,ford-mach-e" data-layer-viewtype="unknown" data-post-id="386387" href="https://electrek.co/2024/10/28/ford-launches-new-ev-routing-features-f-150-lightning-mach-e/#more-386387" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/28/ford-launches-new-ev-routing-features-f-150-lightning-mach-e/>
+
+---
+
+## Navier delivers N30 electric hydrofoiling boat with ‘world’s longest range’ to first customer
+
+date: 2024-10-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Navier-boat-delivery.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Maritime electrification startup Navier has hit a significant milestone today by reaching commercial production of its flagship electric hydrofoiling boat and delivering the first model to a customer. Better still, <a href="https://electrek.co/guides/navier/">the young company</a> has done so in an impressively short time.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-boat,electric-boats,electric-hydrofoil,navier" data-layer-viewtype="unknown" data-post-id="386385" href="https://electrek.co/2024/10/28/navier-delivers-electric-hydrofoiling-boat-worlds-longest-range-first-customer/#more-386385" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/28/navier-delivers-electric-hydrofoiling-boat-worlds-longest-range-first-customer/>
 
 ---
 

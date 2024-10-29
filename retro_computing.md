@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2024-10-28 06:46:48
+updated: 2024-10-29 08:22:43
 ---
 
 # retro computing
 
-(date: 2024-10-28 06:46:48)
+(date: 2024-10-29 08:22:43)
+
+---
+
+## ViaGrafix Computer Training Videos
+
+date: 2024-10-28, from: Computer ads from the Past
+
+Learn...by Simply Watching TV 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/viagrafix-computer-training-videos>
 
 ---
 

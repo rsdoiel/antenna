@@ -1,11 +1,703 @@
 ---
 title: columns
-updated: 2024-10-28 06:46:46
+updated: 2024-10-29 08:22:41
 ---
 
 # columns
 
-(date: 2024-10-28 06:46:46)
+(date: 2024-10-29 08:22:41)
+
+---
+
+## 1.5C Here We Come
+
+date: 2024-10-29, from: David Rosenthal's blog
+
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3Pd1dJTe5ZHLKgXrPUJ8LPlJ6Qz6o8wmgNy9bJ5u6JpYOqvNxhhOUFUMcPFx9gYacQrbz_wmHnQaqkQ8-i8JGlAnatA7ASOxUs44RZWpPKDIZXo1mtup-jBLh8g9gcbIDZWKR6xkanL2POBn3kez5paivIWykHgT36rBrjWvink4l1h5qZucP9Sd8d3S_/s842/EGR%202024%20Cover-thumbnail.png" style="clear: right; display: block; margin-left: auto; margin-right: auto; padding: 1em 0px; text-align: center;"><img alt="" border="0" data-original-height="842" data-original-width="595" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3Pd1dJTe5ZHLKgXrPUJ8LPlJ6Qz6o8wmgNy9bJ5u6JpYOqvNxhhOUFUMcPFx9gYacQrbz_wmHnQaqkQ8-i8JGlAnatA7ASOxUs44RZWpPKDIZXo1mtup-jBLh8g9gcbIDZWKR6xkanL2POBn3kez5paivIWykHgT36rBrjWvink4l1h5qZucP9Sd8d3S_/s200/EGR%202024%20Cover-thumbnail.png" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.unep.org/resources/emissions-gap-report-2024">Source</a></td></tr></tbody></table>
+John Timmer's <a href="https://arstechnica.com/science/2024/10/with-four-more-years-like-2023-carbon-emissions-will-blow-past-1-5-limit/"><i>With four more years like 2023, carbon emissions will blow past 1.5° limit</i></a> is based on the United Nations' Environmental Programme's report <a href="https://www.carbonbrief.org/unep-new-climate-pledges-need-quantum-leap-in-ambition-to-deliver-paris-goals/"><i>Emissions Gap Report 2024</i></a>. The <a href="https://arstechnica.com/science/2024/10/with-four-more-years-like-2023-carbon-emissions-will-blow-past-1-5-limit/">"emissions gap" is</a>:<br />
+<blockquote>
+the difference between where we're heading and where we'd need to be to achieve the goals set out in the Paris Agreement. It makes for some pretty grim reading. Given last year's greenhouse gas emissions, we can afford fewer than four similar years before we would exceed the total emissions compatible with limiting the planet's warming to 1.5° C above pre-industrial conditions.<br />
+...<br />
+The report ascribes this situation to two distinct emissions gaps: between the goals of the Paris Agreement and what countries have pledged to do and between their pledges and the policies they've actually put in place.
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1DeKlJ3M0uqxbSQUpaJeNfJbP9Ub8-RpFufYQ7YSCAww-EKBZRcTfHjp7WSkdCYhT50g9Iep7xTot5vmTix-aXhTp4e-qdLbjYmwANnVqFVnUlDMrq4R1VWFsy7To2ORI8Eg1ZYRkqZ1a/s884/CBECI-111220.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="596" data-original-width="884" height="135" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1DeKlJ3M0uqxbSQUpaJeNfJbP9Ub8-RpFufYQ7YSCAww-EKBZRcTfHjp7WSkdCYhT50g9Iep7xTot5vmTix-aXhTp4e-qdLbjYmwANnVqFVnUlDMrq4R1VWFsy7To2ORI8Eg1ZYRkqZ1a/w200-h135/CBECI-111220.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">Source</td></tr></tbody></table>
+Back in 2021 in my <a href="https://blog.dshr.org/2021/12/talk-at-ttivanguard-conference.html">TTI/Vanguard talk</a> I examined one of these gaps, the one between the crypto-bros' energy consumption:<br />
+<blockquote>
+The leading source for estimating Bitcoin's electricity consumption is the <a href="https://cbeci.org/index/">Cambridge Bitcoin Energy Consumption Index</a>, whose current central estimate is 117TWh/year.<br />
+<br />
+Adjusting <a href="http://ceepr.mit.edu/files/papers/2018-018.pdf">Christian Stoll et al's 2018 estimate</a> of Bitcoin's carbon footprint to the current CBECI estimate gives a range of about 50.4 to 125.7 MtCO2/yr for Bitcoin's opex emissions, or between <a href="https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions">Portugal and Myanmar</a>.
+</blockquote>
+and their <a href="https://blog.dshr.org/2022/02/ee380-talk.html">rhetoric</a>:<br />
+<blockquote>
+Cryptocurrencies assume that society is committed to this waste of energy and hardware <i>forever</i>. Their response is frantic greenwashing, such as claiming that because Bitcoin mining allows an obsolete, uncompetitive coal-burning plant near St. Louis to <i>continue burning coal</i> it is somehow <a href="https://arstechnica.com/tech-policy/2021/09/old-coal-plant-is-now-mining-bitcoin-for-a-utility-company/">good for the environment</a>.<br />
+<br />
+But, they argue, mining can use renewable energy. First, at present it doesn't. For example, Luxxfolio implemented their commitment to 100% renewable energy by buying 15 megawatts of coal-fired power from the Navajo Nation!.<br />
+<br />
+Second, even if it were true that cryptocurrencies ran on renewable power, the idea that it is OK for speculation to waste vast amounts of renewable power assumes that doing so doesn't compete with more socially valuable uses for renewables, or indeed for power in general.
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFXcV86c0wnOESJFgdPo0PfyYgauiEMfq3pFuJTke2OY6J-5PLWxaMgcGEfYgvjGH-9ZUyaFNDNmhMBbRbjkNz5NxFTmvXcUYdTzApYHzwAaNSiUUBt4v64oI9DMit0e0wxuk0SLi6BoPxLIwdjTYHHq-8ExccCJx8kYmECxK7L9NrvwHA1UFwXabqYH_z/s855/BitcoinEnergy102524.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="538" data-original-width="855" height="126" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFXcV86c0wnOESJFgdPo0PfyYgauiEMfq3pFuJTke2OY6J-5PLWxaMgcGEfYgvjGH-9ZUyaFNDNmhMBbRbjkNz5NxFTmvXcUYdTzApYHzwAaNSiUUBt4v64oI9DMit0e0wxuk0SLi6BoPxLIwdjTYHHq-8ExccCJx8kYmECxK7L9NrvwHA1UFwXabqYH_z/w200-h126/BitcoinEnergy102524.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">Source</td></tr></tbody></table>
+Note that the <a href="https://cbeci.org/index/">current CBECI estimate</a> shows that Bitcoin's energy consumption has increased 43% since 2021, a 12.7%/yr increase.<br />
+<br />
+Follow me below the fold for more details of the frantic greenwashing, not just from the crypto-bros but from the giants of the tech industry that <a href="https://www.carbonbrief.org/unep-new-climate-pledges-need-quantum-leap-in-ambition-to-deliver-paris-goals/">aims to ensure that</a>:<br />
+<blockquote>
+Following existing policies out to the turn of the century would leave us facing over 3° C of warming.
+</blockquote>
+<span><a name='more'></a></span>
+Luxxfolio wasn't an exception. The latest example of Bitcoin greenwashing comes from <a href="https://hntrbrk.com/terawulf/">Hunterbrook Media</a>:<br />
+<blockquote>
+<ul>
+<li>TeraWulf Inc. (NASDAQ: $WULF) brands itself as a “zero-carbon Bitcoin miner” — and claims its commitment to renewable energy will help it land AI data center contracts. But the New York Power Authority, which supplies 45% of the facility’s energy, told Hunterbrook Media: “None of the power that NYPA provides the firm can be claimed as renewable power.”</li>
+<li>The rest of TeraWulf’s power is sourced from the New York grid, which is less than half zero-carbon, according to the New York Independent System Operator, the organization responsible for managing the state’s wholesale electric marketplace.</li>
+<li>The only way TeraWulf can legally substantiate its zero-carbon claims is by purchasing renewable energy credits (RECs), according to New York and federal regulators, but a TeraWulf spokesperson confirmed that the company has not done so. “Without the REC, there is no legal claim to the renewable attributes of electricity,” a spokesperson for the New York State Energy Research and Development Authority confirmed in an email to Hunterbrook.</li>
+</ul>
+</blockquote>
+These lies were just the start, Hunterbrook documents <a href="https://blog.dshr.org/2024/08/greenwashing.html">lies about most aspects</a> of their business. Note TeraWulf's <a href="https://pivot-to-ai.com/">pivot to AI</a>.  In <a href="https://www.bloomberg.com/news/articles/2024-10-19/bitcoin-miners-pivoting-to-ai-outperform-hodlers-six-months-after-halving"><i>Bitcoin Miners Take Divergent Paths Six Months After Revenue ‘Halving’</i></a>, David Pan explains that TeraWulf is part of a trend:<br />
+<blockquote>
+Six months after rewards for validating transactions on the Bitcoin network were reduced by half, crypto mining companies are choosing between two divergent paths to remain viable.<br />
+<br />
+Public miners including MARA Holdings, Riot Platforms and CleanSpark are keeping the Bitcoin they produce with the expectation that the digital asset will rise in value. At the same time, an increasing number of companies are spending more on developing data centers that power artificial intelligence applications.
+</blockquote>
+It isn't just the crypto-bros who are apperently lying about using renewables. Back in July Adele Peters revealed that <a href="https://www.fastcompany.com/91153918/amazon-says-it-now-runs-on-100-clean-power-employees-say-its-more-like-22"><i>Amazon says it hit a goal of 100% clean power. Employees say it’s more like 22%</i></a>:<br />
+<blockquote>
+Today, Amazon announced that it hit its 100% renewable electricity goal seven years early. But a group of Amazon employees argues that the company’s math is misleading.<br />
+<br />
+A <a href="https://static1.squarespace.com/static/65681f099d7c3d48feb86a5f/t/668ebf702516716ca72bbf98/1720631157044/unsustainability-report.pdf">report</a> from the group, <a href="https://www.amazonclimatejustice.org/">Amazon Employees for Climate Justice</a>, argues that only 22% of the company’s data centers in the U.S. actually run on clean power. The employees looked at where each data center was located and the mix of power on the regional grids—how much was coming from coal, gas, or oil versus solar or wind.<br />
+<br />
+Amazon, like many other companies, buys renewable energy credits (RECs) for a certain amount of clean power that’s produced by a solar plant or wind farm. In theory, RECs are supposed to push new renewable energy to get built. In reality, that doesn’t always happen. The employee research found that 68% of Amazon’s RECs are unbundled, meaning that they didn’t fund new renewable infrastructure, but gave credit for renewables that already existed or were already going to be built.
+</blockquote>
+And in August Amy Castor and David Gerard posted <a href="https://pivot-to-ai.com/2024/08/17/how-to-fix-ais-ghastly-power-consumption-fake-the-numbers/"><i>How to fix AI’s ghastly power consumption? Fake the numbers!</i></a>:<br />
+<blockquote>
+Big tech uses a stupendous amount of power, so it generates a stupendous amount of CO2. The numbers are not looking so great, especially with the ever-increasing power use of AI.<br />
+<br />
+So the large techs want to fiddle how the numbers are calculated!<br />
+<br />
+Companies already have a vast gap between “market-calculated” CO2 and actual real-world CO2 production. The scam works a lot like carbon credits. Companies cancel out power used on the coal/gas-heavy grid in northern Virginia by buying renewable energy credits for solar energy in Nevada.<br />
+<br />
+So in 2023, Facebook listed just 273 tonnes of “net” CO2 and claimed it had hit “net zero” — but it actually generated 3.9 million tonnes.<br />
+<br />
+In practice, RECs don’t drive new clean energy or any drop in emissions — they only exist for greenwashing.<br />
+<br />
+It gets worse. Large techs are already the largest buyers of RECs. So they’re lobbying the Greenhouse Gas Protocol organization to let them report even more ludicrously unrealistic numbers.<br />
+<br />
+RECs currently have to be on the same continent at the same time of day. Amazon and Facebook propose a completely free system with no geographical constraints. They could offset coal power in Virginia with wind power from Norway or India.<br />
+<br />
+This will make RECs work even more like the carbon credit market — where companies can claim hypothetical “avoided” CO2 against actual, real-world CO2.
+</blockquote>
+Because the tech giants are funnelling vast amounts of cash to Nvidia for hardware to train AIs to, for example, tell people to eat at <a href="https://arstechnica.com/gadgets/2024/10/fake-restaurant-tips-on-reddit-a-reminder-of-google-ai-overviews-inherent-flaws/">Angus Steakhouse</a>, or <a href="https://www.theverge.com/2024/6/11/24176490/mm-delicious-glue">put glue on pizza</a>, convince them that <a href="https://arstechnica.com/ai/2024/10/google-microsoft-and-perplexity-promote-scientific-racism-in-ai-search-results/">black people's IQ is inferior to whites</a>, <a href="https://apnews.com/article/ai-artificial-intelligence-health-business-90020cdf5fa16c79ca2e5b6c4c9bbb14">hallucinate patient's responses to doctors</a>, persuade teens to <a href="https://www.theguardian.com/technology/2024/oct/23/character-ai-chatbot-sewell-setzer-death">commit suicide</a>, and so on they will need lots of power. The smart miners have figured out that their access to lots of power is worth more to the AI bubble than the Bitcoin it could mine. Especially since the <a href="https://blog.dshr.org/2024/07/more-on-halvening.html">halvening</a>. The market has <a href="https://www.bloomberg.com/news/articles/2024-10-19/bitcoin-miners-pivoting-to-ai-outperform-hodlers-six-months-after-halving">figured this out too</a>:<br />
+<blockquote>
+while the shares of the majority of the companies have underperformed Bitcoin’s more than 60% rally this year with future mining revenue constrained, traders appear to be voting which strategy will succeed, with those embracing AI posing the largest gains.<br />
+<br />
+MARA and Riot, two of the largest publicly traded Bitcoin miners and both “hodlers,” have seen their shares slump 20% and 36%, respectively, this year.
+</blockquote>
+On the <a href="https://www.bloomberg.com/news/articles/2024-10-21/tether-backed-northern-data-plans-sale-of-crypto-mining-unit">other hand</a>:<br />
+<blockquote>
+Northern Data AG is examining a possible sale of its crypto mining business to free up funds for expanding its artificial-intelligence operations.<br />
+<br />
+The Frankfurt-listed company, whose main shareholder is stablecoin issuer Tether Holdings Ltd., would use proceeds from the sale of Peak Mining to focus on its AI solutions unit, it said in a statement Monday. Shares of Northern Data jumped as much as 12% on the news, and were up 9.8% as of 12:06 p.m. in Frankfurt.
+</blockquote>
+The big tech companies are desperate for power:<br />
+<ul>
+  <li>They are continuing to burn coal at plants that were due to shut down in <a href="https://hntrbrk.com/terawulf/">Montana</a>, <a href="https://pivot-to-ai.com/2024/10/14/ai-really-is-the-new-bitcoin-google-and-facebook-extend-coal-burning-in-omaha/">Omaha (Google &amp; Facebook)</a>, <a href="https://www.washingtonpost.com/business/2024/06/21/artificial-intelligence-nuclear-fusion-climate/">Utah, Georgia and Wisconsin</a>:<br />
+<blockquote>
+“This is very quickly becoming an issue of, don’t get left behind locking down the power you need, and you can figure out the climate issues later,” said Aaron Zubaty, CEO of California-based Eolian, a major developer of clean energy projects. “Ability to find power right now will determine the winners and losers in the AI arms race. It has left us with a map bleeding with places where the retirement of fossil plants are being delayed.”
+</blockquote></li>
+<li><a href="https://www.theregister.com/2024/09/06/datacenters_set_to_emit_3x/">Morgan Stanley estimates</a> that:<br />
+<blockquote>
+The datacenter industry is set to emit 2.5 billion tonnes of greenhouse gas (GHG) emissions worldwide between now and the end of the decade, three times more than if generative AI had not been developed.
+</blockquote></li>
+<li><a href="https://www.theregister.com/2024/05/31/datacenter_power_crunch/">S&amp;P Global Commodity Insights</a>:<br />
+<blockquote>
+<a href="https://www.ft.com/content/ddaac44b-e245-4c8a-bf68-c773cc8f4e63">noted</a> that only 54 gigawatts of the US coal industry is projected to be powered off by 2030 – down 40 percent from a prediction made in July last year. The total number of coal plants retired by 2050 is still expected to be roughly the same, but the pace of retirement from now to the end of the decade will be significantly slower compared to last year's estimates.<br />
+...<br />
+Coal plants can credit their new lease on life to the datacenter industry, which is expanding and upgrading existing bit barns as well as building new facilities. The age of AI requires lots of energy – <a href="https://www.theregister.com/2024/01/24/iea_report/">Google search powered by AI</a> alone is expected to use ten times the power of a more traditional information request, according to the International Energy Agency's (IEA) January report.
+</blockquote></li>
+  <li>Microsoft signed a 20-year contract to restart <a href="https://pivot-to-ai.com/2024/09/21/three-mile-island-nuclear-plant-is-restarting-to-power-ai-for-microsoft/">Three Mile Island</a>:<br />
+<blockquote>
+Constellation Energy shut down the Unit 1 reactor in 2019 — not the one that melted down in 1979, the other one — because it wasn’t economical. Inflation Reduction Act tax breaks made it viable again, so Constellation went looking for a customer. Microsoft has signed up for 835 megawatts for the next 20 years.<br />
+...<br />
+Other mothballed nuclear reactors want to restart for data centers, including Palisades in Michigan and Duane Arnold in Iowa. These both shut down because renewables and natural gas were cheaper — but the data centers need feeding.<br />
+<br />
+TMI Unit 1 should be back online in 2028, going into the strained local grid — so when the AI bubble pops, the clean-ish power will still be there.
+</blockquote></li>
+  <li>Google and Amazon have signed deals for <a href="https://pivot-to-ai.com/2024/10/17/google-amazon-buy-nonexistent-mini-nuclear-reactors-for-ai-data-centers/">Small Modular Reactors (SMRs)</a>, and so has <a href="https://www.theregister.com/2024/10/14/ai_datacenters_coal/">Oracle</a>, but:<br />
+<blockquote>
+Google has signed a deal with California startup Kairos Power for six or seven small modular reactors. The first is due in 2030 and the rest by 2035, for a total of 500 megawatts.<br />
+<br />
+Amazon has also done three deals to fund SMR development.<br />
+...<br />
+Only three experimental SMRs exist in the entire world — in Russia, China, and Japan. The Russian and Chinese reactors claim to be in “commercial operation” — though with their intermittent and occasional hours and disconcertingly low load factors, they certainly look experimental.<br />
+<br />
+Like general AI, SMRs are a technology that exists in the fabulous future. SMR advocates will talk all day about the potential of SMRs and gloss over the issues — particularly that SMRs are not yet economically viable.<br />
+<br />
+Kairos doesn’t have an SMR. They have permission to start a non-powered tech demo site in 2027. Will they have an approved and economically viable design by 2030?
+</blockquote></li>
+</ul>
+Of course, the nuclear options won't add CO2 to the atmosphere, but <i>they won't come on line until after we've breached 1.5C</i>. The result is the rapidly increasing "emssions gap" of the large tech companies.  But the problem is even worse than it appears. In my <a href="https://blog.dshr.org/2022/02/ee380-talk.html">EE380 talk</a> I discussed the carbon emmissions from Bitcoin's hardware:<br />
+<blockquote>
+<a href="https://doi.org/10.1016/j.resconrec.2021.105901"><i>Bitcoin's growing e-waste problem</i></a> by Alex de Vries and Christian Stoll concludes that:<br />
+<blockquote>
+Bitcoin's annual e-waste generation adds up to 30.7 metric kilotons as of May 2021. This level is comparable to the small IT equipment waste produced by a country such as the Netherlands. 
+</blockquote>
+That's an average of one whole MacBook Air of e-waste <i>per "economically meaningful" transaction</i>.
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNWVq57jQ0zfUyZMspJH1geYhRGXctAjulzgQPFpCRhdgc2wTIW4aHd4vBur9SyRt38P5z7ij2-m4tuk4jE_h8qisrQtfG9adfQbIKb16AnFtN0eb8zaBsSajpi5c97MyTpQ3-AGvMHX0T/s767/FacebookGoogleFootprint.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="762" data-original-width="767" height="199" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNWVq57jQ0zfUyZMspJH1geYhRGXctAjulzgQPFpCRhdgc2wTIW4aHd4vBur9SyRt38P5z7ij2-m4tuk4jE_h8qisrQtfG9adfQbIKb16AnFtN0eb8zaBsSajpi5c97MyTpQ3-AGvMHX0T/w200-h199/FacebookGoogleFootprint.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://arxiv.org/pdf/2011.02839.pdf">Source</a></td></tr></tbody></table>
+Why does Bitcoin generate <a href="https://blog.dshr.org/2022/02/ee380-talk.html">so much e-waste</a>?:<br />
+<blockquote>
+The reason for this extraordinary waste is that the profitability of mining depends on the energy consumed per hash, and the rapid development of mining ASICs means that they rapidly become uncompetitive. de Vries and Stoll estimate that the average service life is less than 16 months. This mountain of e-waste contains embedded carbon emissions from its manufacture, transport and disposal. These graphs show that for Facebook and Google data centers, capex emissions are <a href="https://blog.dshr.org/2021/10/cryptocurrencys-carbon-footprint.html">at least as great as the opex emissions</a>.
+</blockquote>
+Lindsay Clark's <a href="https://www.theregister.com/2024/10/28/genai_dirty_secret/"><i>GenAI's dirty secret: It's set to create a mountainous increase in e-waste</i></a> points out that AI has the same problem:<br />
+<blockquote>
+Computational boffins' research claims GenAI is set to create nearly 1,000 times more e-waste than exists currently by 2030, unless the tech industry employs mitigating strategies.<br />
+<br />
+The study, which looks at the rate AI servers are being introduced to datacenters, claims that a realistic scenario indicates potential for rapid growth of e-waste from 2.6 kilotons each year in 2023 to between 400 kilotons and 2.5 million tons each year in 2030, when no waste reduction measures are considered.
+</blockquote>
+Assuming that the tech giants eventually succeed in generating profits from their massive investments in AI data centers, it is likely that the economic life of Nvidia's hardware is longer than that of Bitmain's mining rigs. But the investment is much bigger, so it is likely that the capex emissions from AI data centers add greatly to the overall climate impact of AI. Even if they never make profits, the capex emissions from the current build-out will still be in the atmosphere.<br />
+<br />
+Interestingly, the mainstream media has started to pay attention. Back in June
+the <i>Washington Post</i>'s Evan Halper and Caroline O'Donovan's <a href="https://www.washingtonpost.com/business/2024/06/21/artificial-intelligence-nuclear-fusion-climate/"><i>AI is exhausting the power grid. Tech firms are seeking a miracle solution</i></a> reported on the latest shiny object:<br />
+<blockquote>
+So near the river’s banks in central Washington, Microsoft is betting on an effort to generate power from atomic fusion — the collision of atoms that powers the sun — a breakthrough that has eluded scientists for the past century. Physicists predict it will elude Microsoft, too.<br />
+<br />
+The tech giant and its partners say they expect to harness fusion by 2028, an audacious claim that bolsters their promises to transition to green energy but distracts from current reality.
+</blockquote>
+Even if they could "harness fusion by 2028", it would be too late to avoid 1.5C. But no-one has yet built a fusion reactor with a positive power output, so the 2028 claim is obvious BS. Pay attention to their <a href="https://www.washingtonpost.com/business/2024/06/21/artificial-intelligence-nuclear-fusion-climate/">actions not words</a>:<br />
+<blockquote>
+In fact, the voracious electricity consumption of artificial intelligence is driving an expansion of fossil fuel use — including delaying the retirement of some coal-fired plants.<br />
+...<br />
+The data-center-driven resurgence in fossil fuel power contrasts starkly with the sustainability commitments of tech giants Microsoft, Google, Amazon and Meta, all of which say they will erase their emissions entirely as soon as 2030. The companies are the most prominent players in a constellation of <a href="https://www.datacentermap.com/usa/i">more than 2,700 data centers</a> nationwide, many of them run by more obscure firms that rent out computing power to the tech giants.<br />
+<br />
+“They are starting to think like cement and chemical plants. The ones who have approached us are agnostic as to where the power is coming from,” said Ganesh Sakshi, chief financial officer of Mountain V Oil &amp; Gas, which provides natural gas to industrial customers in Eastern states.
+</blockquote>
+And this month the <i>New York Times</i>' David Gelles' <a href="https://www.nytimes.com/2024/10/22/climate/ai-big-tech-emissions.html"><i>The A.I. Power Grab</i></a> reported that Nvidia was also pushing the "AI will solve the climate" fantasy:<br />
+<blockquote>
+Nvidia’s chips are incredibly power-hungry. As the company rolls out new products, analysts have taken to measuring the amount of electricity needed to power them in terms of <a href="https://www.tomshardware.com/tech-industry/nvidias-h100-gpus-will-consume-more-power-than-some-countries-each-gpu-consumes-700w-of-power-35-million-are-expected-to-be-sold-in-the-coming-year">cities, or even countries</a>.<br />
+<br />
+There are already more than 5,000 data centers in the U.S., and the industry is expected to grow nearly 10 percent annually. Goldman Sachs estimates that A.I. will <a href="https://www.goldmansachs.com/insights/articles/AI-poised-to-drive-160-increase-in-power-demand">drive a 160 percent increase</a> in data center power demand by 2030.<br />
+<br />
+Dion Harris, Nvidia’s head of data center product marketing, acknowledged that A.I. was creating a huge spike in power usage. But he said that over time, that demand would be offset as A.I. made other industries more efficient.<br />
+<br />
+“There is sort of a myopic view on the data center,” he said, “but not really an understanding that a lot of those technologies are going to be the main way that we’re going to innovate our way to a net-zero future.”
+</blockquote>
+Apart from continuing to burn fossil fuels as fast as they can and signing deals that won't make a difference until after the world has committed to 1.5C, what are the tech giants doing? Just like the crypto-bros, they are <a href="https://blog.dshr.org/2024/08/greenwashing.html">greenwashing</a>, and spinning ludicrous futures to prevent current action. Here, for example, is <a href="https://www.nytimes.com/2024/10/22/climate/ai-big-tech-emissions.html">Eric Schmidt</a>:<br />
+<blockquote>
+Eric Schmidt, the former chief executive of Google, recently said that the artificial intelligence boom was too powerful, and had too much potential, to let concerns about climate change get in the way.<br />
+<br />
+Schmidt, somewhat fatalistically, <a href="https://disconnect.blog/silicon-valley-is-sacrificing-the-climate-for-ai/">said that</a> “we’re not going to hit the climate goals anyway,” and argued that rather than focus on reducing emissions, “I’d rather bet on A.I. solving the problem.”
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUNi5yvRm24M7XXajo_rSdvGtRbl1OVAm2KRFOOUrs5-_v7bH46jYrzB_tp2VpJK5GOFGEFy53YPZb-6tawPSyTGQNreBxpKSDjeK79U8UCC9_VdEwNNlYUWnqQagcx-Xv_kdcEfs1Y2d5/s1711/TimesTrib.jpeg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1655" data-original-width="1711" height="194" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUNi5yvRm24M7XXajo_rSdvGtRbl1OVAm2KRFOOUrs5-_v7bH46jYrzB_tp2VpJK5GOFGEFy53YPZb-6tawPSyTGQNreBxpKSDjeK79U8UCC9_VdEwNNlYUWnqQagcx-Xv_kdcEfs1Y2d5/w200-h194/TimesTrib.jpeg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">Schmidt at Sun<br /></td></tr></tbody></table>
+Full disclosure: I reported to Schmidt at Sun Microsystems, and my opinion of him is less negative than most of my then peer engineers. But I would not expect him to sacrifice immediate profits for the health of the planet. He is right that “we’re not going to hit the climate goals anyway", but that is partly his fault. Even assuming that he's right and AI is capable of magically "solving the problem", the magic solution <i>won't be in place until long after 2027</i>, which is when at the current rate we will pass 1.5C. And everything that the tech giants are doing <i>right now</i> is moving the 1.5C date closer.<br />
+<br /> 
+
+<br> 
+
+<https://blog.dshr.org/2024/10/15c-here-we-come.html>
+
+---
+
+##  What It&#8217;s Like Being a Billionaire&#8217;s Personal Assistant. &#8220;You have to have... 
+
+date: 2024-10-29, updated: 2024-10-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045535-what-its-like-being-a>
+
+---
+
+##  &#8220;A Vote for Donald Trump Is a Vote for School Shootings and Measles&#8221; 
+
+date: 2024-10-29, updated: 2024-10-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/a-vote-for-donald-trump-is-a-vote-for-school-shootings-and-measles>
+
+---
+
+## 2024-10-29 On our watch
+
+date: 2024-10-29, from: Alex Schroeder's Blog
+
+<h1 id="2024-10-29-on-our-watch">2024-10-29 On our watch</h1>
+
+<p>Terrible things are happening on our watch.
+I&rsquo;m a bit over fifty years old and when I was a lot younger I felt that those over fifty had let us down.
+And now I&rsquo;m seeing how easy this came to me.
+I don&rsquo;t feel strong enough to turn the tide.
+I can write. I can post. I can vote. 🗳️</p>
+
+<p>I guess the frustration just builds up until one day a mob forms on the streets outside, no matter how small, and suddenly a lot of people will discover that where as they can&rsquo;t start a riot, they&rsquo;ll happily join one.</p>
+
+<p>Russia is still invading Ukraine.</p>
+
+<p>Russian trolls and Russian money has driven a stake into one divisive issue after another, turning us against each other, unable to get our act together. It was bad in Poland. It&rsquo;s bad in Hungary. It&rsquo;s getting worse in Italy. And we&rsquo;re barely holding on in Germany, France and Austria.</p>
+
+<p>Israel is still killing tens of thousands.</p>
+
+<p>Either it&rsquo;s their land and it&rsquo;s a massacre of the locals or it&rsquo;s an invasion of Palestine.
+Before we can talk about ownership of the land, about the terrible history of this corner of our planet, let me point at the Universal Declaration of Human Rights. Don&rsquo;t take people&rsquo;s land. Don&rsquo;t subjugate people. Don&rsquo;t humiliate people. It&rsquo;s not hard to make progress. It&rsquo;s only hard if you keep your eyes on the horizon and are willing to trample everything underfoot.</p>
+
+<p>The climate is not only flying past the 1.5°C limit, we&rsquo;re now aiming at 3.1°C.</p>
+
+<p>Here in Switzerland we can vote on many things. We decided against a strong CO₂ tax. We voted a federal councillor into office who wants to widen the autobahn we have to six lanes, who wants to bring back nuclear energy. We voted down a biodiversity initiative. All the while trying to lower taxes and appease the rich. Cars are getting bigger. The price of driving a car goes down; the price of taking the train goes up.</p>
+
+<p>I&rsquo;m letting terrible things happen on my watch.</p>
+
+<p><a class="tag" href="/search/?q=%23USA">#USA</a> <a class="tag" href="/search/?q=%23Russia">#Russia</a> <a class="tag" href="/search/?q=%23Israel">#Israel</a> <a class="tag" href="/search/?q=%23Climate">#Climate</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2024-10-29-on-our-watch>
+
+---
+
+## Bezos blinked
+
+date: 2024-10-29, from: Dave Winer's Scripting News
+
+<p>My op-ed for the Washington Post, if there was such a thing..</p>
+<p>I didn't imagine that Bezos cared what subscribers to the Washington Post thought about his decision to cancel their endorsement of VP Harris in the election one week from today. </p>
+<p>But <a href="https://www.npr.org/2024/10/28/nx-s1-5168416/washington-post-bezos-endorsement-president-cancellations-resignations">200K people unsubscribed</a>, and I guess that message got through to him, so he <a href="https://www.washingtonpost.com/opinions/2024/10/28/jeff-bezos-washington-post-trust/">wrote an op-ed</a> that ran in the Post yesterday, explaining that this was a <a href="https://www.google.com/search?q=define+principled">principled</a> thing. </p>
+<p>If it was really a matter of principle, they wouldn't have chosen this election, and one where his own personal interest was so involved. It doesn't look principled, and when you're trying to do something principled, it pretty much has to look that way or you have to conclude that it's bullshit, which it obviously is. </p>
+<p>It's surprising that he cares. The Post was worth $250M when he <a href="https://www.washingtonpost.com/national/washington-post-to-be-sold-to-jeff-bezos/2013/08/05/ca537c9e-fe0c-11e2-9711-3708310f6f4d_story.html">bought</a> it in 2013, maybe it's worth more than that now, but it's a very small part of his current $205B net worth. If owning the Post would interfere with his other businesses in a negative way, and if the problem could be solved by dropping it, I don't doubt that he would do that. Then why this op-ed? It could be that someone in his family objected, sometimes people react to that in ways that could cost money. It's possible. It's also possible the he's not sure that Trump will win, and being a calculating person, he realizes now that he's created a similar problem for himself if the Democrats win. The Trumps won't care if he lies about the reason, so lying about the reason was the obvious path for him. </p>
+<p>I think what we're really seeing is that owning a high profile news org like the Post isn't something for Mr Bezos. He would probably be better off selling the Post, so he doesn't have to make these kinds of principled bullshit choices, when clearly the only principled thing to do is not abandon American democracy in its hour of greatest need.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2024/10/29/130948.html?title=bezosBlinked>
+
+---
+
+## Law Enforcement Deanonymizes Tor Users
+
+date: 2024-10-29, updated: 2024-10-29, from: Bruce Schneier blog
+
+<p>The German police have <a href="https://marx.wtf/2024/10/10/law-enforcement-undermines-tor/">successfully deanonymized</a> at least four Tor users. It appears they watch known Tor relays and known suspects, and use timing analysis to figure out who is using what relay.</p>
+<p>Tor has <a>written</a> <a href="https://blog.torproject.org/tor-is-still-safe/">about</a> this.</p>
+<p>Hacker News <a href="https://news.ycombinator.com/item?id=41942978">thread</a>.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/10/law-enforcement-deanonymizes-tor-users.html>
+
+---
+
+## 2024-10-29 NNCP benefits and doubts
+
+date: 2024-10-29, from: Alex Schroeder's Blog
+
+<h1 id="2024-10-29-nncp-benefits-and-doubts">2024-10-29 NNCP benefits and doubts</h1>
+
+<p>So, what are the benefits of Node to Node copy (NNCP)? What are my doubts?
+I have many doubts, now that I&rsquo;ve been experimenting with NNCP for a while.</p>
+
+<p>NNCP is a way to securely store-and-forward files, mail and other commands.
+As such, it can replace Unix to Unix copy (UUCP). Since almost nobody uses
+UUCP these days, the question remains: what for?</p>
+
+<p>NNCP is based on the exchange of public keys, so you can’t reach strangers this way.
+Email, for example, allows you to reach strangers. A positive take would be
+that NNCP is allow-list based. If you send mail via NNCP, the nodes have to both
+agree to it before data can be exchanged.</p>
+
+<p>Since NNCP is based on public key cryptography, intermediaries cannot decrypt
+the data. They can still discover who sends data to whom. Of course it isn&rsquo;t
+trivial to do, but it is possible. My laptop sends encrypted data to my server;
+you call my server and pick up the encrypted data; so if the server is under
+surveillance, the two nodes communicating with each other are identified. That
+doesn&rsquo;t give away your home address, but regular logs can reveal the IP numbers
+used, so you need to cover your tracks at a lower level, too, if you want to
+escape surveillance. Alternatively, you can raise the stakes by using multiple
+hops to servers in different jurisdictions, with no liabilities by the service
+providers. Don&rsquo;t pick two servers in different countries where the hosting
+providers are all in the same country. When you do have a chain of independent
+nodes, this will make it harder to identify the two nodes communicating with
+each other, but that&rsquo;s it. It just raises the bar.</p>
+
+<p>Sending encrypted mail is similar to a one-hop setup. On the mail server,
+the data is encrypted. Sender and recipient are known. Of course an email
+address looks much easier to understand than a node identifier, but for a
+computer, surely the two are very similar.</p>
+
+<p>Perhaps you&rsquo;d think that the ability to have the NNCP network work offline via
+the sneakernet is what sets it apart. But take a USB stick, have a directory
+per recipient, store encrypted files in these directories, carry it over to
+your friends, same thing, no? It&rsquo;s a bit more obvious, but it&rsquo;s not much more
+secure.</p>
+
+<p>The only benefit, then, is tooling. Even if using the sneakernet, carrying
+around data on USB sticks, the existing tools still work. End users can use
+regular mail; end users can send files and request files and NNCP integration
+makes sure that nobody has to learn how <code>gpg</code> works.</p>
+
+<p>But make no mistake: <code>gpg</code> has public keys and private keys in key rings and
+a command line tool to manage it all, whereas NNCP just as the <code>nncp.hjson</code>
+file per node with a private key and the public keys of its neighbouring nodes
+and no command line tool to manage it.</p>
+
+<p>Now I&rsquo;m wondering about the reasons for picking NNCP.</p>
+
+<p>If you&rsquo;re using <code>mail</code> on the command line to send and receive mail, having
+your email server hooked up for NNCP makes it comfortable to send and receive
+encrypted mail. If you have a mail client like Delta Chat with <code>gpg</code> automatic
+cryptography integration, however, that works just as well. Regular mail
+servers impose size limits on mails send, however, so that makes sending large
+files with automatic splitting and collating more challenging.</p>
+
+<p>If you&rsquo;re carrying or sending USB sticks around, using NNCP for file transfers
+and remote executions is slightly more interesting than using <code>gpg</code> to encrypt
+files because there are no limits imposed on the remote executions. You could
+run a BBS, run a news server, or try something new and NNCP doesn&rsquo;t care as long
+as the nodes at the end of the line know how to handle it. In theory you could
+just use emails for this and that&rsquo;s what the old Play by E-Mail (PBEM) games
+would do: parse emails received and send reports back. If a player uses a special
+tool that tool needs to emit properly formatted emails. MIME messages can
+indicate the type of data they contain, so it can all be made to work.</p>
+
+<p>There are currently the only two benefits I can think of:</p>
+
+<ul>
+<li>easy encrypted email on the command line, implicitly allow-list based;</li>
+<li>easy transfer of large files that don&rsquo;t fit the usual email limits;</li>
+<li>remote executions in order to avoid having to use emails as input and output;</li>
+<li>store-and-forward makes the sneakernet viable and useful for air-gapped computers, too.</li>
+</ul>
+
+<p>All of this to avoid the size limits of email, the parsing and emitting of special
+email formats, the operation of <code>gpg</code>, and so on.</p>
+
+<p>If you can think of unique benefits for NNCP, let me know.</p>
+
+<p><a class="tag" href="/search/?q=%23NNCP">#NNCP</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2024-10-29-nncp-doubts>
+
+---
+
+## Why Elon Musk thinks he’ll be f*cked if Trump loses
+
+date: 2024-10-29, from: Robert Reich's blog
+
+And he may be. 
+
+<br> 
+
+<https://robertreich.substack.com/p/why-musk-thinks-hell-be-fcked-if>
+
+---
+
+## October 28, 2024 
+
+date: 2024-10-29, from: Heather Cox Richardson blog
+
+On Monday, October 28, 1929, New York&#8217;s Metropolitan Opera Company opened its forty-fifth season. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/october-28-2024>
+
+---
+
+## [Sponsor] Nomorobo
+
+date: 2024-10-29, updated: 2024-10-29, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://go.nomorobo.com/daringfireball>
+
+---
+
+## ★ In Defense, I Swear, of the Magic Mouse’s Charging Port Placement
+
+date: 2024-10-29, updated: 2024-10-29, from: Daring Fireball
+
+The Magic Mouse charging port placement is an opinionated design, not an absurd design. 
+
+<br> 
+
+<https://daringfireball.net/2024/10/in_defense_i_swear_of_the_magic_mouses_charging_port_placement>
+
+---
+
+## Jeff Bezos: ‘The Hard Truth: Americans Don’t Trust the News Media’
+
+date: 2024-10-29, updated: 2024-10-29, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.washingtonpost.com/opinions/2024/10/28/jeff-bezos-washington-post-trust/>
+
+---
+
+## What a Difference a Bey Makes
+
+date: 2024-10-28, from: Dan Rather's Steady
+
+In closing, Trump goes low, Harris goes high 
+
+<br> 
+
+<https://steady.substack.com/p/what-a-difference-a-bey-makes>
+
+---
+
+## The Washington Post Has Lost Over 200,000 Subscribers (and Counting) After Trump Bootlicker Jeff Bezos Blocked Endorsement of Kamala Harris
+
+date: 2024-10-28, updated: 2024-10-29, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.npr.org/2024/10/28/nx-s1-5168416/washington-post-bezos-endorsement-president-cancellations-resignations>
+
+---
+
+##  Chris Ware on Richard Scarry 
+
+date: 2024-10-28, updated: 2024-10-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/chris-ware-on-richard-scarry>
+
+---
+
+## Apple Introduces M4 iMacs, With Updated Colors, a Nano-Texture Display Option, and USB-C Input Peripherals
+
+date: 2024-10-28, updated: 2024-10-28, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.apple.com/newsroom/2024/10/apple-introduces-new-imac-supercharged-by-m4-and-apple-intelligence/>
+
+---
+
+##  A list of the 20 best art museums in America, including the... 
+
+date: 2024-10-28, updated: 2024-10-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045540-a-list-of-the-20>
+
+---
+
+##  The Last of Us Season Two Trailer 
+
+date: 2024-10-28, updated: 2024-10-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/the-last-of-us-season-two-trailer>
+
+---
+
+##  Five ways a Trump presidency would be disastrous for the climate. He... 
+
+date: 2024-10-28, updated: 2024-10-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045539-five-ways-a-trump-preside>
+
+---
+
+## October 27, 2024
+
+date: 2024-10-28, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/150856777/48d19912ae32a94dfaac3d27d148451c.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/150856777/48d19912ae32a94dfaac3d27d148451c.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/october-27-2024-d14>
+
+---
+
+##  Oxfam analysis: &#8220;Investment emissions are the most significant part of a billionaire&#8217;s... 
+
+date: 2024-10-28, updated: 2024-10-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045534-oxfam-analysis-investment>
+
+---
+
+##  Some speculative analysis about how the ever-decreasing projections of global population (now... 
+
+date: 2024-10-28, updated: 2024-10-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045531-some-speculative-analysis>
+
+---
+
+## Apple Intelligence Is Available Today, With the Release of iOS 18.1 and MacOS 15.1
+
+date: 2024-10-28, updated: 2024-10-29, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.apple.com/newsroom/2024/10/apple-intelligence-is-available-today-on-iphone-ipad-and-mac/>
+
+---
+
+##  The Nirvana Concert &#8220;Sabotaged&#8221; by Kurt Cobain to Spite an Angry Crowd 
+
+date: 2024-10-28, updated: 2024-10-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/the-nirvana-concert-sabotaged-by-kurt-cobain-to-spite-an-angry-crowd>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-28, from: Dave Winer's Scripting News)
+
+The people who are alive right now are the first to create knowledge that we know in advance will be part of LLM databases. So far we've heard from the resisters, the ones who don't want any part of this. But what about people who want to create knowledge in the maximally useful form? Are there any howto's for this? A busy writer's guide to creating human knowledge? 
+
+<br> 
+
+<http://scripting.com/2024/10/28.html#a163401>
+
+---
+
+## Finding a server's BMC / IPMI IP address with ipmitool
+
+date: 2024-10-28, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Finding a server's BMC / IPMI IP address with ipmitool</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>I test servers on a temporary basis a lot, and many enterprise servers don't have as user-friendly external port indications, or little OLED displays to provide useful information. They're no-frills because they don't need frills, you just deploy them and they run for years.</p>
+
+<p>I often need to gain access to the server's IPMI/BMC interface to manage the server remotely, and it's not always obvious what IP address is assigned if you don't manually assign one via your router and a MAC address.</p>
+
+<p>I could scan my network for the IP address, but assuming I have the server booted and it's a modern Supermicro or other standard system, I can use <code>ipmitool</code> to grab the BMC IP:</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-10-28T11:17:02-05:00" title="Monday, October 28, 2024 - 11:17" class="datetime">October 28, 2024</time>
+</span> 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2024/finding-servers-bmc-ipmi-ip-address-ipmitool>
+
+---
+
+## Criminals Are Blowing up ATMs in Germany
+
+date: 2024-10-28, updated: 2024-10-28, from: Bruce Schneier blog
+
+<p>It&#8217;s <a href="https://www.cnn.com/2024/10/27/europe/criminals-atm-robberies-europe-intl/index.html">low tech</a>, but effective.</p>
+<p>Why Germany? It has more ATMs than other European countries, and&#8212;if I read the article right&#8212;they have more money in them.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/10/criminals-are-blowing-up-atms-in-germany.html>
+
+---
+
+##  WHAT?! &#8220;In Sverris Saga, the Old Norse saga of King Sverre Sigurdsson,... 
+
+date: 2024-10-28, updated: 2024-10-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045532-what-in-sverris-saga-the>
+
+---
+
+##  Hear a Chopin Waltz Unearthed After Nearly 200 Years. A leading Chopin... 
+
+date: 2024-10-28, updated: 2024-10-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045530-hear-a-chopin-waltz-unear>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-28, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/10/10/ronaldMcGrimace.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I started to read Ben Thompson's email newsletter <a href="https://stratechery.com/2024/trump-on-rogan-the-voters-decide-the-podcast-election/">Stratechery this morning</a>, it was about Trump on Joe Rogan's podcast, which I didn't want to listen to, because I am overdosing on Trump, again. I was surprised to see it begins with the story of podcasting, which has my name in it, which was gratifying. A lot of people will read that. I'm including a <a href="https://imgs.scripting.com/2024/10/28/stratechery.png">screen shot</a> of the beginning because his newsletter is not something you can read without a subscription. 
+
+<br> 
+
+<http://scripting.com/2024/10/28.html#a144724>
+
+---
+
+##  A Recent Seismic Map of the World 
+
+date: 2024-10-28, updated: 2024-10-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/a-recent-seismic-map-of-the-world>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-10-28, from: Miguel de Icaza Mastondon feed)
+
+<p>First steps in Godot on VisionPro.</p><p>Everything from the iPad seems to work, now the UI needs to be Vision-ified</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113385514795943185>
+
+---
+
+##  &#8220;Timothée Chalamet makes surprise appearance at NYC lookalike contest just as cops... 
+
+date: 2024-10-28, updated: 2024-10-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045529-timothee-chalamet-makes-s>
 
 ---
 

@@ -1,11 +1,563 @@
 ---
 title: science and technology
-updated: 2024-10-28 06:46:46
+updated: 2024-10-29 08:22:40
 ---
 
 # science and technology
 
-(date: 2024-10-28 06:46:46)
+(date: 2024-10-29 08:22:40)
+
+---
+
+## NASA Group Amplifies Voices of Employees with Disabilities
+
+date: 2024-10-29, from: NASA breaking news
+
+Kathy Clark started her career at NASA’s Glenn Research Center in Cleveland straight out of high school, and when offered either a job as an accountant or a job in training, the choice was crystal clear. “I started in training, I’ve stayed in training, and I’ll probably retire in training,” said Clark, now a human [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/nasa-group-amplifies-voices-of-employees-with-disabilities/>
+
+---
+
+## NASA Relaunches Mentor-Protégé Program to Fill Supply Chain Gaps
+
+date: 2024-10-29, from: NASA breaking news
+
+In an effort to grow new commercial markets that support the future of space exploration, scientific discovery, and aeronautics research, NASA is preparing to relaunch its Mentor-Protégé Program for contractors on Friday, Nov. 1. The program originally was launched to encourage NASA prime contractors, or mentors, to enter into agreements with eligible small businesses, or [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/organizations/osbp/nasa-relaunches-mentor-protege-program-to-fill-supply-chain-gaps/>
+
+---
+
+## Admins better Spring into action over latest critical open source vuln
+
+date: 2024-10-29, updated: 2024-10-29, from: The Register (UK I.T. News)
+
+<h4>Patch up: The Spring framework dominates the Java ecosystem</h4> <p>If you&#39;re running an application built using the Spring development framework, now is a good time to check it&#39;s fully updated – a new, critical-severity vulnerability has just been disclosed.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/29/admins_spring_into_action_over/>
+
+---
+
+## New NASA Instrument for Studying Snowpack Completes Airborne Testing
+
+date: 2024-10-29, from: NASA breaking news
+
+Summer heat has significant effects in the mountainous regions of the western United States. Melted snow washes from snowy peaks into the rivers, reservoirs, and streams that supply millions of Americans with freshwater—as much as 75% of the annual freshwater supply for some states. But as climate change brings winter temperatures to new highs, these […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/science-enabling-technology/new-nasa-instrument-for-studying-snowpack-completes-airborne-testing/>
+
+---
+
+## Chinese chips, quantum and AI now on US investment blacklist
+
+date: 2024-10-29, updated: 2024-10-29, from: The Register (UK I.T. News)
+
+<h4>Wouldn’t want to inadvertently fund the PLA</h4> <p>The US treasury department finalized a rule on Monday that limits domestic entities&#39; investment in Chinese semiconductors and microelectronics, quantum information technologies, and AI.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/29/us_china_investment_ban/>
+
+---
+
+## Gateway: Centering Science
+
+date: 2024-10-29, from: NASA breaking news
+
+Gateway is set to advance science in deep space, bringing groundbreaking research opportunities to lunar orbit.  
+
+<br> 
+
+<https://www.nasa.gov/missions/artemis/gateway/gateway-centering-science/>
+
+---
+
+## Datacenter developer says power issues holding up new builds
+
+date: 2024-10-29, updated: 2024-10-29, from: The Register (UK I.T. News)
+
+<h4>&#39;The single biggest constraint is access,&#39; says exec looking to invest &#39;hundreds of millions&#39;</h4> <p>One of the UK&#39;s major commercial property developers says it would be pumping investment into new datacenters if it could just secure the energy supply needed for those facilities, reflecting a growing problem worldwide.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/29/datacenter_developer_says_power_issues/>
+
+---
+
+## FCC chair: Mobile dead spots will end when space-based and ground comms merge
+
+date: 2024-10-29, updated: 2024-10-29, from: The Register (UK I.T. News)
+
+<h4>Jessica Rosenworcel looks at policy challenges for the next decade</h4> <p>The chair of America&#39;s Federal Communications Commission (FCC) foresees a single network future where space-based comms will be integrated with terrestrial networks to ensure connectivity anywhere.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/29/fcc_chair_gives_a_taste/>
+
+---
+
+## Merde! Macron's bodyguards reveal his location by sharing Strava data
+
+date: 2024-10-29, updated: 2024-10-29, from: The Register (UK I.T. News)
+
+<h4>It&#39;s not just the French president, Biden and Putin also reportedly trackable</h4> <p>The French equivalent of the US Secret Service may have been letting their guard down, as an investigation showed they are easily trackable via the fitness app Strava.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/29/macron_location_strava/>
+
+---
+
+## UK immigration seeks tech support, development partner for border crossing systems
+
+date: 2024-10-29, updated: 2024-10-29, from: The Register (UK I.T. News)
+
+<h4>After years of delay, new systems with &#39;diverse tech stacks&#39; need a hand in £195M deal</h4> <p>The UK&#39;s Home Office has launched a procurement for tech support and services to oversee border control and immigration via a contract estimated to be worth up to £195 million ($253 million).…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/29/home_office_seeks_border_crossing_tech_help/>
+
+---
+
+## Five Eyes nations tell tech startups to take infosec seriously. Again
+
+date: 2024-10-29, updated: 2024-10-29, from: The Register (UK I.T. News)
+
+<h4>Only took &#39;em a year to dish up some scary travel advice, and a Secure Innovation … Placemat?</h4> <p>Cyber security agencies from the Five Eyes nations have delivered on a promise to offer tech startups more guidance on how to stay secure.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/29/five_eyes_secure_innovation_campaign/>
+
+---
+
+## Microsoft accuses Google of creating a lobbying front called 'Open Cloud Coalition'
+
+date: 2024-10-29, updated: 2024-10-29, from: The Register (UK I.T. News)
+
+<h4>Seemingly dissatisfied with CISPE settlement, new UK-centric cloudy industry group calls for end to &#39;restrictive licensing&#39;</h4> <p>Microsoft has alleged that a new group of cloud providers and users is a front for Google – a notion the ads and search giant rejects.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/29/open_cloud_coalition_microsoft_google/>
+
+---
+
+## Wanted. Top infosec pros willing to defend Britain on shabby salaries
+
+date: 2024-10-29, updated: 2024-10-29, from: The Register (UK I.T. News)
+
+<h4>GCHQ job ads seek top talent with bottom-end pay packets</h4> <p>While the wages paid by governments seldom match those available in the private sector, it appears that the UK&#39;s intelligence, security and cyber agency is a long way short of being competitive in its quest for talent.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/29/gchq_needs_advanced_cybersecurity_professionals/>
+
+---
+
+## NASA narrows Artemis III landing target list to nine
+
+date: 2024-10-29, updated: 2024-10-29, from: The Register (UK I.T. News)
+
+<h4>The Mons Mouton Plateau looks nice this time of year. Or maybe you prefer Slater Plain?</h4> <p>NASA has released an updated list of nine potential landing spots near the lunar south pole for Artemis III – the mission that will hopefully see the first humans set foot on the Moon in over 50 years.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/29/nasa_narrows_artemis_iii_landing/>
+
+---
+
+## Chinese engineers wire Raspberry Pi into 600-meter railway tunnel to find any holes
+
+date: 2024-10-29, updated: 2024-10-29, from: The Register (UK I.T. News)
+
+<h4>The GPIO turns out to be a handy tool if you want to measure the conductivity of concrete</h4> <p>Chinese scientists have found a novel use for the Raspberry Pi: detecting voids in the linings of railway tunnels that could lead to structural damage, or even collapse.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/29/china_raspberry_pi_tunnel_testing/>
+
+---
+
+## Tardigrade genes may hold secret to radiation treatments for humans
+
+date: 2024-10-29, updated: 2024-10-29, from: The Register (UK I.T. News)
+
+<h4>Microscopic &#39;water bears&#39; can survive blasts that would kill humans</h4> <p>Drugs that prevent or reverse the effects of ionizing radiation have long been a sci-fi pipedream, but the gene sequencing of a newly discovered species of tardigrade could change all that.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/29/tardigrade_genetics_radiation/>
+
+---
+
+## Sols 4345-4347: Contact Science is Back on the Table
+
+date: 2024-10-29, from: NASA breaking news
+
+Earth planning date: Friday, Oct. 25, 2024 The changes to the plan Wednesday, moving the drive a sol earlier, meant that we started off planning this morning about 18 meters (about 59 feet) farther along the western edge of Gediz Vallis and with all the data we needed for planning. This included the knowledge that […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4345-4347-contact-science-is-back-on-the-table/>
+
+---
+
+## iFixit to the rescue: McDonald's workers can rescue their own ice cream machines
+
+date: 2024-10-29, updated: 2024-10-29, from: The Register (UK I.T. News)
+
+<h4>Burger me! Partial success in chipping away at insane DMCA rules</h4> <p>The US Copyright Office has published a new list of exemptions from the Digital Millennium Copyright Act (DMCA), including one for retail food machines that was requested to deal with the perennial problem of broken ice cream makers at McDonald&#39;s.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/29/copyright_office_mcdonalds/>
+
+---
+
+## Bluesky capitalizes on X woes with funding and user growth
+
+date: 2024-10-28, updated: 2024-10-28, from: The Register (UK I.T. News)
+
+<h4>The decentralized social network hints at sustainability with talk of subscriptions</h4> <p>Bluesky says it has hauled in more than 13 million users, up from about three million when it opened to the public in February 2024.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/28/bluesky_capitalizes_on_x_woes/>
+
+---
+
+## TSMC reportedly cuts off RISC-V chip designer linked to Huawei accelerators
+
+date: 2024-10-28, updated: 2024-10-28, from: The Register (UK I.T. News)
+
+<h4>You know what they say, where there&#39;s a will there&#39;s a Huawei</h4> <p>Taiwan Semiconductor Manufacturing Co. has allegedly cut off shipments to Chinese chip designer Sophgo over allegations it was attempting to supply components to Huawei in violation of US sanctions.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/28/tsmc_sophgo_huawei/>
+
+---
+
+## Archaeologists Unearth 'Astonishing' Wooden Spade, Preserved in an English Trench for 3,500 Years
+
+date: 2024-10-28, from: Smithsonian Magazine
+
+While most wooden artifacts disintegrate after thousands of years, the newly unearthed oak tool has remained in remarkable condition 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/archaeologist-unearth-astonishing-wooden-spade-preserved-in-an-english-trench-for-3500-years-180985332/>
+
+---
+
+## JPMorgan Chase sues scammers following viral 'infinite money glitch'
+
+date: 2024-10-28, updated: 2024-10-28, from: The Register (UK I.T. News)
+
+<h4>ATMs paid customers thousands ... and now the bank wants its money back</h4> <p>JPMorgan Chase has begun suing fraudsters who allegedly stole thousands of dollars from the bank&#39;s ATMs after a check fraud glitch went viral on social media.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/28/jpmorgan_chase_sues_scammers/>
+
+---
+
+## Feds investigate China's Salt Typhoon amid campaign phone hacks
+
+date: 2024-10-28, updated: 2024-10-28, from: The Register (UK I.T. News)
+
+<h4>&#39;They&#39;re taunting us,&#39; investigator says and it looks like it&#39;s working</h4> <p>The feds are investigating Chinese government-linked cyberspies breaking into the infrastructure of US telecom companies, as reports suggest Salt Typhoon - the same crew believed to be behind those hacks - has also been targeting phones belonging to people affiliated with US Democratic presidential candidate Kamala Harris, along with Republican candidate Donald Trump and his running mate, JD Vance.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/28/feds_investigate_chinas_salt_typhoon/>
+
+---
+
+## The 'World's Most Famous Grizzly' Was Killed by a Car. Was Her Death Preventable?
+
+date: 2024-10-28, from: Smithsonian Magazine
+
+Grizzly 399 became a celebrity of Grand Teton National Park in her lifetime. Now, her death has drawn attention to wildlife-vehicle collisions and how they might be reduced 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-worlds-most-famous-grizzly-was-killed-by-a-car-was-her-death-preventable-180985344/>
+
+---
+
+## Google reportedly developing an AI agent that can control your browser
+
+date: 2024-10-28, updated: 2024-10-28, from: The Register (UK I.T. News)
+
+<h4>Project Jarvis will apparently conduct research, purchase products, and even book a flight on your behalf</h4> <p>Google is reportedly looking to sidestep the complexity of AI-driven automation by letting its multimodal large language models (LLMs) take control of your browser.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/28/google_ai_web_agent/>
+
+---
+
+## The OSNews 2024 fundraiser: support OSNews to keep it alive
+
+date: 2024-10-28, from: OS News
+
+Do you want OSNews to continue to exist? Do you like the selection of news items I manage to scrounge up almost every day? Do you want OSNews free from corporate influence, &#8220;AI&#8221;-generated nonsense, and the kind of SEO-optimised blogspam we all despise? Consider supporting OSNews financially, so I can keep running the site as an independent entity, free from the forces that make the web shittier every day. There are several ways you can support OSNews. First, you can become a Patreon. Being an OSNews Patreon means no more ads on OSNews, access to the OSNews Matrix room, and some fancy flair on your comments. The goal is to eventually have enough Patreons supporting us to make us independent even from regular ads, which means we&#8217;ll need to hit at least €1500-€2000 a month. Once we achieve that, we will turn off ads for everyone. OSNews is my job, and thus my only source of income, so we can only turn off ads once community support is high enough to do so. This is obviously a long-term goal. To help us all get there, I&#8217;ve added a brand new, even higher Patreon tier. If being a Platinum Patreon isn&#8217;t enough for you, you can now move on up and become an Antimatter Patreon for €50/month. You&#8217;ll get all the same benefits as the Platinum tier, but on top of that, you can opt to have your name permanently displayed on the frontpage in our sidebar. This tier is really specifically designed for the most hardcore supporters of OSNews, and can even be used as a bit of a marketing tool for yourself. By the way, I do not know where to go after antimatter. What&#8217;s rarer and more expensive than antimatter? Second, you can make an individual donation to OSNews through Ko-Fi. Recently, my wife, two kids, and I were all hit with, in order, bronchitis, flu, and then a minor cold. With all of us down and out, unable to work, our finances obviously took a bit of a hit. My wife works in home care for the elderly, which isn&#8217;t exactly a job with a fair wage, so any time we can&#8217;t work it hits us hard. Individual Ko-Fi donations have proven to be lifesavers. As such, I&#8217;ve set up a Ko-Fo donation target of €2500, so my wife, kids, and I can build up a bit of a buffer for emergencies. Creating such a buffer will be a huge load off our backs. Third, we have official OSNews merch! Our merch store is filled with a ton of fun products for the operating system connoisseurs among us, from the basic OSNews T-shirt and mug, to the old-school ASCII-art OSNews T-shirt and sweatshirt, and finally three unique terminal T-shirts showing the terminal of MS-DOS, BeOS, and Mac OS X. Each of the terminal shirts sport the correct colour schemes, text, and fonts. The pricing has been set up in such a way that for each product sold, we receive about $8. OSNews has always been a passion project for everyone involved, and I&#8217;d like to continue that. By making sure we&#8217;re independent, free from the forces that are destroying websites left, right, and centre, OSNews can keep doing what it&#8217;s always done: report on things nobody else covers, without the pressure to post 45 items about every new iPhone, stupid SEO blogspam nonsense about how to plug in a USB cable or whatever, or &#8220;AI&#8221;-generated drudgery. The people making that possible are all of our Patreons, Ko-Fi donors, and merch customers. You have no idea how thankful I am for each and every one of you. 
+
+<br> 
+
+<https://www.osnews.com/story/141012/the-osnews-2024-fundraiser-support-osnews-to-keep-it-alive/>
+
+---
+
+## Maurizio Cattelan's Perishable Sculpture Drove Some Critics Bananas. Now, It Could Sell for $1.5 Million
+
+date: 2024-10-28, from: Smithsonian Magazine
+
+The banana duct-taped to a wall was created to be a "reflection on what we value." An upcoming auction may deliver an answer 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/maurizio-cattelan-perishable-sculpture-drove-some-critics-bananas-now-it-could-sell-for-1-5-million-180985338/>
+
+---
+
+## Planets Beware: NASA Unburies Danger Zones of Star Cluster
+
+date: 2024-10-28, from: NASA breaking news
+
+Most stars form in collections, called clusters or associations, that include very massive stars. These giant stars send out large amounts of high-energy radiation, which can disrupt relatively fragile disks of dust and gas that are in the process of coalescing to form new planets. A team of astronomers used NASA’s Chandra X-ray Observatory, in [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/planets-beware-nasa-unburies-danger-zones-of-star-cluster/>
+
+---
+
+## Skyscraper-high sewage plume erupts in Moscow
+
+date: 2024-10-28, updated: 2024-10-28, from: The Register (UK I.T. News)
+
+<h4>Ukrainian hackers again, or just 50+ year old infrastructure showing its age? Either way, it&#39;s a mess</h4> <p>There&#39;s a literal shitshow erupting in Moscow, where a skyscraper-high plume of sewage has erupted in the Russian capital, just months after Ukrainian hackers hit related systems.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/28/moscow_sewage_plume/>
+
+---
+
+## ParTec expands supercomputer patent fight from Microsoft to Nvidia
+
+date: 2024-10-28, updated: 2024-10-28, from: The Register (UK I.T. News)
+
+<h4>Wants injunction on GPUs that use what it alleges is its own IP</h4> <p>German HPC vendor ParTec is taking legal action against Nvidia for alleged patent infringement, seeking an injunction to stop its GPUs being sold in 18 countries that are participants in the Europe-wide unitary patent system.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/28/partec_expands_supercomputer_patent_fight/>
+
+---
+
+## Watch How Students Help NASA Grow Plants in Space: Growing Beyond Earth
+
+date: 2024-10-28, from: NASA breaking news
+
+Since 2015, students from across the USA have been partnering with scientists at NASA to advance research on growing plants in space, ultimately to feed astronauts on long-distance space missions, as part of Fairchild Tropical Botanic Garden’s Growing Beyond Earth project, which is now in its 9th year. This classroom-based citizen science project for 6th-12th […] 
+
+<br> 
+
+<https://science.nasa.gov/learning-resources/science-activation/watch-how-students-help-nasa-grow-plants-in-space-growing-beyond-earth/>
+
+---
+
+## America's Oldest Living Person, Elizabeth Francis, Dies at 115. She Was a Supercentenarian and 'Houstonian Icon'
+
+date: 2024-10-28, from: Smithsonian Magazine
+
+Since her birth in 1909, Francis lived through two world wars, segregation, the fall of the Soviet Union, multiple pandemics and the invention of the cellphone 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/americas-oldest-living-person-elizabeth-francis-dies-at-115-she-was-a-supercentenarian-and-houstonian-icon-180985340/>
+
+---
+
+## Apple quietly admits 8GB isn't enough in 2024, M4 iMac to ship with 16GB as standard
+
+date: 2024-10-28, updated: 2024-10-28, from: The Register (UK I.T. News)
+
+<h4>The silicon no longer limited to Cupertino&#39;s priciest iPads</h4> <p>In a surprise announcement on Monday, Apple unveiled a rainbow of new iMacs powered by its M4 processor with 16 GB of memory as standard, a 12 MP webcam, and no shortage of AI gimmicks… er… features.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/28/apple_imac_m4/>
+
+---
+
+## An Opportunity to Study Water
+
+date: 2024-10-28, from: NASA breaking news
+
+NASA astronaut Don Pettit fills a sphere of water with food coloring in this image from Oct. 20, 2024. Pettit calls experiments like these “science of opportunity” – moments of scientific exploration that spontaneously come to mind because of the unique experience of being on the International Space Station.&#160;During his previous missions, Pettit has contributed [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/an-opportunity-to-study-water/>
+
+---
+
+## Intel to expand Chengdu facility, despite US China tension
+
+date: 2024-10-28, updated: 2024-10-28, from: The Register (UK I.T. News)
+
+<h4>Chipzilla unlikely to give in when it comes to its biggest sales market</h4> <p>Intel is expanding its packaging and testing base in Chengdu, a move that signals its intent to remain firmly rooted in the Chinese market, despite geopolitical pressures.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/28/intel_to_expand_chengdu_facility/>
+
+---
+
+## NASA’s Perseverance Rover Looks Back While Climbing Slippery Slope
+
+date: 2024-10-28, from: NASA breaking news
+
+On its way up the side of Jezero Crater, the agency’s latest Red Planet off-roader peers all the way back to its landing site and scopes the path ahead. &#160; NASA’s Perseverance Mars rover is negotiating a steeply sloping route up Jezero Crater’s western wall with the aim of cresting the rim in early December. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-looks-back-while-climbing-slippery-slope/>
+
+---
+
+## NASA Announces STEM Engagement Lead, Chief Economist Retirements
+
+date: 2024-10-28, from: NASA breaking news
+
+NASA Administrator Bill Nelson announced Monday Mike Kincaid, associate administrator, Office of STEM Engagement (OSTEM), and Alexander MacDonald, chief economist, will retire from the agency. Following Kincaid’s departure on Nov. 30, Kris Brown, deputy associate administrator for strategy and integration in OSTEM, will serve as acting associate administrator for that office beginning Dec. 1, and [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-announces-stem-engagement-lead-chief-economist-retirements/>
+
+---
+
+## Archaeologists Discover Breathtaking Wall Paintings Frozen in Time Inside a Modest Home in Ancient Pompeii
+
+date: 2024-10-28, from: Smithsonian Magazine
+
+Despite its unusually small size, the newly unearthed House of Phaedra is covered in elaborate frescos depicting mythological scenes 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/archaeologists-discover-breathtaking-wall-paintings-frozen-in-time-inside-a-modest-home-in-ancient-pompeii-180985337/>
+
+---
+
+## GenAI's dirty secret: It's set to create a mountainous increase in e-waste
+
+date: 2024-10-28, updated: 2024-10-28, from: The Register (UK I.T. News)
+
+<h4>New modelling shows tech could massively increase current volumes of electronic landfill by 2030</h4> <p>Computational boffins&#39; research claims GenAI is set to create nearly 1,000 times more e-waste than exists currently by 2030, unless the tech industry employs mitigating strategies.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/28/genai_dirty_secret/>
+
+---
+
+## A 110-Year-Old Pickled Thylacine Head Helped Build the Most Complete Ancient Genome to Date, Says 'De-Extinction' Company
+
+date: 2024-10-28, from: Smithsonian Magazine
+
+Colossal Biosciences reports it extracted DNA and RNA from the Tasmanian tiger specimen, a key step forward in its effort to create a modern proxy of the extinct species. Other scientists are calling for data to back up the claim 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-110-year-old-pickled-thylacine-head-helped-build-the-most-complete-ancient-genome-to-date-says-de-extinction-company-180985308/>
+
+---
+
+## Brazen crims selling stolen credit cards on Meta's Threads
+
+date: 2024-10-28, updated: 2024-10-28, from: The Register (UK I.T. News)
+
+<h4>The platform &#39;continues to take action&#39; against illegal posts, we&#39;re told</h4> <p><strong>Exclusive</strong>  Brazen crooks are selling people&#39;s pilfered financial information on Meta&#39;s Threads, in some cases posting full credit card details, plus stolen credentials, alongside images of the cards themselves.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/28/crims_selling_credit_cards_threads/>
+
+---
+
+## Meet the Eukaryote, the First Cell to Get Organized
+
+date: 2024-10-28, from: Quanta Magazine
+
+All modern multicellular life — all life that any of us regularly see — is made of cells with a knack for compartmentalization. Recent discoveries are revealing how the first eukaryote got its start.            <p>The post <a href="https://www.quantamagazine.org/meet-the-eukaryote-the-first-cell-to-get-organized-20241028/" target="_blank">Meet the Eukaryote, the First Cell to Get Organized</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/meet-the-eukaryote-the-first-cell-to-get-organized-20241028/>
+
+---
+
+## TDE R14.1.3 released, and KDE developers hold impromptu TDE installfest at Akademy 2024
+
+date: 2024-10-28, from: OS News
+
+The Trinity Desktop Environment, a fork of the last release in the KDE 3.x series, has just released their latest version, R14.1.3. Despite its rather small version number change, it contains some very welcome new features. TDE started the process of integrating the XDG Desktop Portal API, which will bring a lot of welcome integration with applications from the wider ecosystem. There&#8217;s also a brand new touchpad settings module, which was something I was sorely missing when I tried out TDE a few months ago. Furthermore, there&#8217;s of course a ton of bugfixes and improvements, but also things like support for tiling windows, some new theme and colour scheme options, and a lot more. Not too long ago, when KDE&#8217;s Akademy 2024 took place, a really fun impromptu event happened. A number of KDE developers got together &#8211; I think in a restaurant or coffee place &#8211; and ended up organising an unplanned TDE installation party. Several photos floated around Mastodon of KDE developers using TDE, and after a few fun interactions between KDE and TDE developers on Mastodon, TDE developers ended up being invited to next year&#8217;s Akademy. We&#8217;ll have to wait and see if the schedules line up, but if any of this can lead to both projects benefiting from some jolly cooperation, it can only be seen as a good thing. Regardless, TDE is an excellent project with a very clear goal, and they&#8217;re making steady progress all the time. It&#8217;s not a fast-paced environment chasing the latest and greatest technologies, but instead builds upon a solid foundation, bringing it into modern world where it makes sense. If you like KDE 3.x, TDE is going to be perfect for you. 
+
+<br> 
+
+<https://www.osnews.com/story/141004/tde-r14-1-3-released-and-kde-developers-hold-impromptu-tde-installfest-at-akademy-2024/>
+
+---
+
+## Boeing launches funding round to stave off credit downgrade
+
+date: 2024-10-28, updated: 2024-10-28, from: The Register (UK I.T. News)
+
+<h4>108-year-old aerospace giant acting like a struggling startup as debts and losses soar</h4> <p><strong>updated</strong>  Beleaguered Boeing is hoping millions of new shares and billions of dollars in convertible securities can stave off a credit downgrade as it leaks cash during an ongoing strike.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/28/boeing_launches_funding_round_to/>
+
+---
+
+## World’s first Haiku ransomware/malware
+
+date: 2024-10-28, from: OS News
+
+There&#8217;s many ways to judge if an operating system has made it to the big leagues, and one of the more unpleasant ones is the availability of malware. Haiku, the increasingly capable and daily-driveable successor to BeOS, is now officially a mainstream operating system, as it just had its first piece of malware. HaikuRansomware is an experimental ransomware project designed for educational and investigative purposes. Inspired by the art of poetry and the challenge of cryptography, this malware encrypts files with a custom extension and provides a ransom note with a poetic touch. This is a proof of concept aimed to push the boundaries of how creative ransomware can be designed. ↫ HaikuRansomware&#8217;s GitHub page Now this is obviously a bit of a tongue-in-cheek, experimental kind of thing, but it&#8217;s still something quite unique to happen to Haiku. I&#8217;m not entirely sure how the ransomware is supposed to spread, but my guess would be through social engineering. With Haiku being a relatively small project, and one wherein every user runs as root &#8211; baron, in BeOS parlance &#8211; I&#8217;m sure anything run through social engineering can do some serious damage without many guardrails in place. Don&#8217;t quote me on that, though, as Haiku may have more advanced guardrails and mitigations in place than classic BeOS did. This proof-of-concept has no ill intent, and is more intended as an art project to highlight what you can do with encryption and ransomware on Haiku today, and I definitely like the art-focused approach of the author. 
+
+<br> 
+
+<https://www.osnews.com/story/141002/worlds-first-haiku-ransomware-malware/>
+
+---
+
+## Delta officially launches lawyers at $500M CrowdStrike problem
+
+date: 2024-10-28, updated: 2024-10-28, from: The Register (UK I.T. News)
+
+<h4>Legal action comes months after alleging negligence by Falcon vendor</h4> <p>Delta Air Lines is suing CrowdStrike in a bid to recover the circa $500 million in estimated lost revenue months after the cybersecurity company &#34;caused&#34; an infamous global IT outage.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/28/delta_airlines_crowdstrike_lawsuit/>
 
 ---
 
