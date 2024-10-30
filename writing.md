@@ -1,11 +1,94 @@
 ---
 title: writing
-updated: 2024-10-29 08:22:42
+updated: 2024-10-30 07:57:46
 ---
 
 # writing
 
-(date: 2024-10-29 08:22:42)
+(date: 2024-10-30 07:57:46)
+
+---
+
+## How to Establish a Regular Writing Routine
+
+date: 2024-10-30, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/how-to-establish-a-regular-writing-routine>
+
+---
+
+## SFWA Special Election Results
+
+date: 2024-10-29, from: Locus Magazine
+
+<p>The Science Fiction and Fantasy Writers Association (SFWA) has announced the results of its special election.</p>
+<p><strong>President: </strong>Kate Ristau (126 votes)</p>
+<div class="mynomorebulletlist">
+<ul>
+<li>Christine Taylor-Butler (93 votes)</li>
+<li>Jennifer Brozek (62 votes)</li>
+</ul>
+<p><strong>Secretary: </strong> Steven D. Brewer (85 votes)</p>
+<ul>
+<li>Matthew Reardon (5 votes)</li>
+<li>Kate Ristau (4 votes)</li>
+<li>Christine Taylor-Butler (3 votes)</li>
+<li>Curtis C. Chen (3 votes)</li>
+<li>Jennifer Brozek (3 votes)</li>
+</ul>
+</div>
+<p>There were also multiple write-in candidates who received two votes or fewer. The announcement  <a href="https://locusmag.com/2024/10/sfwa-special-election-results/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/10/sfwa-special-election-results/>
+
+---
+
+## How to Write a True Crime Drama like ‘Monsters’
+
+date: 2024-10-29, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-to-write-a-true-crime-drama-like-monsters" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Monsters.png" alt="Nicholas Alexander Chavez and Cooper Koch in 'Monster's' (2022)" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span style="font-weight: bold;">Warning - spoilers ahead for </span><a href="https://www.imdb.com/title/tt13207736/?ref_=nv_sr_srsg_1_tt_7_nm_0_in_0_q_monsters" style="font-weight: bold;"><em>Monsters</em></a><span style="font-weight: bold;"> and </span><a href="https://www.imdb.com/title/tt7737800/?ref_=nv_sr_srsg_0_tt_4_nm_4_in_0_q_woman%2520of%2520the%2520hour" style="font-weight: bold;"><em>Woman of the Hour</em></a><span style="font-weight: bold;">.</span></p> 
+
+<br> 
+
+<https://blog.finaldraft.com/how-to-write-a-true-crime-drama-like-monsters>
+
+---
+
+## The City in Glass by Nghi Vo: Review by Gary K. Wolfe
+
+date: 2024-10-29, from: Locus Magazine
+
+<p><strong>The City in Glass</strong>, Nghi Vo (Tordotcom 978-1250348272, $24.99, 224pp), October 2024.</p>
+<p>Nghi Vo is full of surprises. I suppose one could argue that her first novel, the Gatsbyesque <strong>The Chosen and the Beautiful</strong>, and her second, the very different Hollywood fantasy historical <strong>The Siren Queen</strong>, had a few things in common – like early 20th-century American settings and the classic themes of the need for acceptance  <a href="https://locusmag.com/2024/10/the-city-in-glass-by-nghi-vo-review-by-gary-k-wolfe/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/10/the-city-in-glass-by-nghi-vo-review-by-gary-k-wolfe/>
+
+---
+
+## Live in Austin 2024
+
+date: 2024-10-29, from: John August blog
+
+John and Craig make their triumphant return to the Austin Film Festival for a wild night full of Emmy winning writers. They welcome Shōgun co-creators Rachel Kondo &#38; Justin Marks to look at their process for structuring a series-long adaptation, keeping translations eloquent and accurate, and writing together as a married couple. We then welcome [&#8230;]
+The post <a href="https://johnaugust.com/2024/live-in-austin-2024">Live in Austin 2024</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/663standard.mp3"></source>
+</audio> <a href="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/663standard.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://johnaugust.com/2024/live-in-austin-2024>
 
 ---
 
@@ -61,6 +144,21 @@ date: 2024-10-28, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2024/10/sfwa-removes-ekpeki/>
+
+---
+
+## Ekpeki Allegations
+
+date: 2024-10-28, from: Locus Magazine
+
+<p>Updated 10/29/24 to add ASFS statement.</p>
+<p>The Science Fiction and Fantasy Writers Association (SFWA) made the following announcement on October 28, 2024, regarding the removal of Oghenechovwe Donald Ekpeki from the board of directors.</p>
+<p></p>
+<p>On 10/27/2024, the Board met to discuss multiple ethics complaints regarding Director-at-Large Oghenechovwe Donald Ekpeki after hearing statements from various parties involved. Mr. Ekpeki was also given a chance to speak to the Board regarding these  <a href="https://locusmag.com/2024/10/ekpeki-allegations/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/10/ekpeki-allegations/>
 
 ---
 

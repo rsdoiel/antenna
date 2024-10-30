@@ -1,11 +1,291 @@
 ---
 title: going electric
-updated: 2024-10-29 08:22:43
+updated: 2024-10-30 07:57:48
 ---
 
 # going electric
 
-(date: 2024-10-29 08:22:43)
+(date: 2024-10-30 07:57:48)
+
+---
+
+## Hyundai’s first three-row electric SUV is almost here as new IONIQ 9 teaser drops
+
+date: 2024-10-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Hyundais-first-three-row-electric-SUV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai’s first three-row electric SUV is almost here. Ahead of its official debut in November, <a href="https://electrek.co/guides/hyundai/">Hyundai</a> released a new teaser of the larger IONIQ 9, giving us a sneak peek at the highly anticipated SUV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="386851" href="https://electrek.co/2024/10/30/hyundai-teases-first-three-row-electric-suv-debut-nears-photos/#more-386851" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/30/hyundai-teases-first-three-row-electric-suv-debut-nears-photos/>
+
+---
+
+## 'Volkswagen Is Not Earning The Money It Needs'
+
+date: 2024-10-30, from: Inside EVs News
+
+Volkswagen and Audi both have grim news for Q3, but the EU is fighting back hard against imports from China. 
+
+<br> 
+
+<https://insideevs.com/news/739268/vw-audi-q3-closure-cm/>
+
+---
+
+## Tesla launches new Powerwall 3 expansion units that slash installation times
+
+date: 2024-10-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Tesla-Powerwall-3-DC-expansion-unit.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has launched its new Powerwall 3 expansion units that can slash installation times by roughly half.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-powerwall" data-layer-viewtype="unknown" data-post-id="386852" href="https://electrek.co/2024/10/30/tesla-launches-new-powerwall-3-expansion-units-that-slash-installation-times/#more-386852" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/30/tesla-launches-new-powerwall-3-expansion-units-that-slash-installation-times/>
+
+---
+
+## The Hyundai Ioniq 9 Should Look Like That Wild Concept
+
+date: 2024-10-30, from: Inside EVs News
+
+The model previously known as the Ioniq 7 will be fully revealed in November. 
+
+<br> 
+
+<https://insideevs.com/news/739255/hyundai-ioniq9-electric-suv-teasers/>
+
+---
+
+## Volkswagen to shut EV factory in Brussels
+
+date: 2024-10-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Volkswagen-Audi-plant.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Days after Volkswagen announced it was closing three factories in Germany – a first for the company – the carmaker will now officially close its Audi plant in Brussels where it makes the Audi Q8 E-Tron in a few months.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="386848" href="https://electrek.co/2024/10/30/volkswagen-to-shut-ev-factory-in-brussels/#more-386848" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/30/volkswagen-to-shut-ev-factory-in-brussels/>
+
+---
+
+## Here’s what to know about Europe’s new vote on Chinese tariffs
+
+date: 2024-10-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/02/BYD-first-cargo-ship-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>It’s official: The European Union is moving ahead with increased tariffs on Chinese-made EVs to as much as 45.3% – in an effort to save its auto industry from total demise. Question is, will it even matter to a powerhouse like BYD?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="386842" href="https://electrek.co/2024/10/30/heres-what-to-know-about-europes-new-vote-on-chinese-tariffs/#more-386842" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/30/heres-what-to-know-about-europes-new-vote-on-chinese-tariffs/>
+
+---
+
+## Lucid Gravity arrives, Xiaomi sets records, and a Supercharged Polestar
+
+date: 2024-10-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/record_MAIN.jpg?quality=82&#038;strip=all&#038;w=1500" /></div><p>On today’s exciting episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, Lucid proves than an EV company <em>can</em> keep its promises while Xiaomi teams up with Chevrolet and Honda to prove – at least conceptually – that records are made to be broken.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid-motors,polestar,tesla-supercharger,xiaomi" data-layer-viewtype="unknown" data-post-id="386828" href="https://electrek.co/2024/10/29/lucid-gravity-arrives-xiaomi-sets-records-and-a-supercharged-polestar/#more-386828" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/29/lucid-gravity-arrives-xiaomi-sets-records-and-a-supercharged-polestar/>
+
+---
+
+## 2025 Chevy Silverado EV LT finally arriving at dealerships as orders open
+
+date: 2024-10-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Chevys-Silverado-EV-LT-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://electrek.co/guides/chevy-silverado-ev/">2025 Chevy Silverado EV LT</a> is finally arriving at dealerships nationwide as orders open online. Although already impressive, Chevy “set the bar even higher” with the 2025MY electric pickup, giving it more range, lower prices, and new trim options.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevrolet-silverado-electric-pickup,chevy-silverado-electric,chevy-silverado-ev" data-layer-viewtype="unknown" data-post-id="386762" href="https://electrek.co/2024/10/29/2025-chevy-silverado-ev-lt-arriving-dealerships-orders-open/#more-386762" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/29/2025-chevy-silverado-ev-lt-arriving-dealerships-orders-open/>
+
+---
+
+## Tesla plans to deliver an extra ~500,000 electric cars next year, here’s how
+
+date: 2024-10-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/01/TEsla-TSLA-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla disclosed that it is planning to return to growth in vehicle deliveries next year with an extra ~500,000 electric cars.</p>
+
+
+
+<p>Here’s how it plans to do it.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="386183" href="https://electrek.co/2024/10/29/tesla-plans-to-deliver-an-extra-500000-electric-cars-next-year-heres-how/#more-386183" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/29/tesla-plans-to-deliver-an-extra-500000-electric-cars-next-year-heres-how/>
+
+---
+
+## An all-electric Plymouth? Stellantis teases new EV conversion kit and more
+
+date: 2024-10-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/electric-Plymouth.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Is Plymouth due for an electric revival? Not exactly. But you may have the opportunity to convert one for yourself soon. <a href="https://electrek.co/guides/stellantis/">Stellantis</a> gave us a sneak peek with the 1967 Plymouth GTX Electromod concept.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="stellantis" data-layer-viewtype="unknown" data-post-id="386713" href="https://electrek.co/2024/10/29/electric-plymouth-stellantis-teases-ev-conversions-more/#more-386713" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/29/electric-plymouth-stellantis-teases-ev-conversions-more/>
+
+---
+
+## The US’s first Atlantic floating offshore wind lease sale raises $21.9 million
+
+date: 2024-10-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/03/Kitty-Hawk-offshore-wind-avangrid.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>The Atlantic coast’s first floating offshore wind lease sale in the <a href="https://www.doi.gov/pressreleases/biden-harris-administration-holds-first-offshore-wind-lease-sale-gulf-maine" target="_blank" rel="noreferrer noopener">Gulf of Maine</a> resulted in two provisional winners and $21.9 million in winning bids, with four lease areas awarded.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,maine,offshore-wind-power,president-biden" data-layer-viewtype="unknown" data-post-id="386699" href="https://electrek.co/2024/10/29/the-uss-first-atlantic-floating-offshore-wind-lease-sale-raises-21-9-million/#more-386699" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/29/the-uss-first-atlantic-floating-offshore-wind-lease-sale-raises-21-9-million/>
+
+---
+
+## Velotric 2024 Discover 1 Plus e-bike $1,199 with bonus savings, ALLPOWERS solar power bank $75, Worx, Goal Zero, more
+
+date: 2024-10-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/velotric-discover-1-plus-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Leading today’s Green Deals is <a href="https://9to5toys.com/2024/10/29/velotric-2024-discover-1-plus-e-bike-1199/">Velotric’s 2024 Discover 1 Plus e-bike at $1,199</a>, which also has some bundle savings options for either add-on gear or buying two e-bikes together. Next, ALLPOWERS’ Halloween sale takes 41% off power banks, stations, and solar generator bundles, like the <a href="https://9to5toys.com/2024/10/29/allpowers-pb100-bank-bundle-75-low-more/">PB100 24,000mAh Power Bank</a> that comes with a 21W solar panel for a new <a href="https://9to5toys.com/2024/10/29/allpowers-pb100-bank-bundle-75-low-more/">$75 low</a>. There’s a bunch of great <a href="https://9to5toys.com/2024/10/28/worx-12a-electric-lawn-edger-trencher-new-90-2024-low/">Worx lawn care and garden care</a> equipment seeing some major savings at the moment, and also <a href="https://9to5toys.com/2024/10/28/goal-zero-yeti-1000x-489/">Goal Zero’s Yeti 1000X</a> Portable Power Station hitting a new <a href="https://9to5toys.com/2024/10/28/goal-zero-yeti-1000x-489/">$489 low</a>. Bringing up the rear is the one-day flash sale on <a href="https://9to5toys.com/2024/10/29/ecoflow-wave-2-ac-heater-899-low-flash/">EcoFlow’s WAVE 2 Portable AC/Heater</a> that has dropped costs to its <a href="https://9to5toys.com/2024/10/29/ecoflow-wave-2-ac-heater-899-low-flash/">$899 low</a>. Plus, all the other hangover Green Deals in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2024/10/28/lectrics-xpedition-dual-battery-e-bike-1699-455-gear/">Lectric XPedition e-bike</a> savings, <a href="https://9to5toys.com/2024/10/25/ge-smart-electric-2-in-1-washer-ventless-dryer-at-2200/">GE’s smart combo</a> washer/dryer, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="386701" href="https://electrek.co/2024/10/29/velotric-2024-discover-1-plus-e-bike-1199-with-bonus-savings-allpowers-solar-power-bank-75-worx-goal-zero-more/#more-386701" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/29/velotric-2024-discover-1-plus-e-bike-1199-with-bonus-savings-allpowers-solar-power-bank-75-worx-goal-zero-more/>
+
+---
+
+## Ford's Goal For 'Game-Changer' Electric Truck: Match China's EVs
+
+date: 2024-10-29, from: Inside EVs News
+
+CEO Jim Farley says Ford's midsize electric truck will be able to match the Chinese automakers at the most elusive challenge yet: cost.  
+
+<br> 
+
+<https://insideevs.com/news/739153/ford-ceo-simplification-evs/>
+
+---
+
+## Kia’s Tasman unveil offers a glimpse at what an all-electric pickup may look like
+
+date: 2024-10-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Kia-pickup-Tasman-Hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia has officially unveiled its first pickup truck, the Tasman before it hits global markets. Due to its worldwide availability, <a href="https://electrek.co/guides/kia/">Kia</a> will offer the Tasman in several powertrain configurations, including a diesel model. However, the Korean automaker is also developing two new all-electric pickups that will be sold in the US. Today’s images offer a look at what a BEV Kia pickup may look like.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-tasman" data-layer-viewtype="unknown" data-post-id="386668" href="https://electrek.co/2024/10/29/kia-tasman-pickup-offers-glimpse-what-all-electric-version-may-look-like/#more-386668" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/29/kia-tasman-pickup-offers-glimpse-what-all-electric-version-may-look-like/>
+
+---
+
+## Dodge’s electric Charger Daytona EV will arrive with up to $8,500 in lease discounts
+
+date: 2024-10-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Dodge-Charger-EV-discounts-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Dodge is giving drivers a new incentive to drive its first electric muscle car. The <a href="https://electrek.co/guides/electric-dodge-charger/">Dodge Charger Daytona EV</a> is already earning significant discounts ahead of its arrival. With a new loyalty incentive, Dodge is offering up to $8,500 on the all-electric Charger.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dodge,electric-dodge-charger" data-layer-viewtype="unknown" data-post-id="386662" href="https://electrek.co/2024/10/29/dodge-charger-ev-arrive-8500-lease-discounts/#more-386662" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/29/dodge-charger-ev-arrive-8500-lease-discounts/>
+
+---
+
+## Tesla is doubling the size of Gigafactory Texas
+
+date: 2024-10-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/07/Tesla-Gigafactory-Texas-July-2022.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has applied for permits to double the size of Gigafactory Texas in Austin as it adds new vehicle production.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="386651" href="https://electrek.co/2024/10/29/tesla-is-doubling-the-size-of-gigafactory-texas/#more-386651" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/29/tesla-is-doubling-the-size-of-gigafactory-texas/>
+
+---
+
+## BYD to launch its smallest EV in Australia, hinting at low-cost Seagull arrival
+
+date: 2024-10-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/03/BYDs-new-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Is BYD bringing its cheapest EV to another overseas market? <a href="https://electrek.co/guides/byd/">BYD</a> will officially launch an electric car even smaller than the Dolphin in Australia, hinting it could be the low-cost Seagull EV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="386647" href="https://electrek.co/2024/10/29/byd-hints-launching-cheapest-seagull-ev-australia/#more-386647" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/29/byd-hints-launching-cheapest-seagull-ev-australia/>
+
+---
+
+## Stripped-Out Xiaomi SU7 Ultra Takes Nurburgring Four-Door Record
+
+date: 2024-10-29, from: Inside EVs News
+
+The most extreme SU7 is quicker than a Porsche Taycan Turbo GT, but the latter attacked the Ring with no modifications. 
+
+<br> 
+
+<https://insideevs.com/news/739119/xiaomi-su7-ultra-nurburgring-record/>
 
 ---
 
@@ -13,7 +293,7 @@ updated: 2024-10-29 08:22:43
 
 date: 2024-10-29, from: Inside EVs News
 
-Plus, Xiaomi just clobbered Porsche and Tesla at the Nurburgring, and Mexico issues warning to the U.S. over Chinese software ban, 
+Plus, Xiaomi just clobbered Porsche and Tesla at the Nurburgring, and Mexico issues a warning to the U.S. over the Chinese software ban.  
 
 <br> 
 

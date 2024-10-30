@@ -1,11 +1,420 @@
 ---
 title: columns
-updated: 2024-10-29 08:22:41
+updated: 2024-10-30 07:57:45
 ---
 
 # columns
 
-(date: 2024-10-29 08:22:41)
+(date: 2024-10-30 07:57:45)
+
+---
+
+## Simpson Garfinkel on Spooky Cryptographic Action at a Distance
+
+date: 2024-10-30, updated: 2024-10-30, from: Bruce Schneier blog
+
+<p>Excellent <a href="https://www.linkedin.com/pulse/spooky-data-distance-simson-garfinkel-nrt9e/ ">read</a>. One example:</p>
+<blockquote><p>Consider the case of basic public key cryptography, in which a person’s public and private key are created together in a single operation. These two keys are entangled, not with quantum physics, but with math.</p>
+<p>When I create a virtual machine server in the Amazon cloud, I am prompted for an RSA public key that will be used to control access to the machine. Typically, I create the public and private keypair on my laptop and upload the public key to Amazon, which bakes my public key into the server’s administrator account. My laptop and that remove server are thus entangled, in that the only way to log into the server is using the key on my laptop. And because that administrator account can do anything to that server­read the sensitivity data, hack the web server to install malware on people who visit its web pages, or anything else I might care to do­the private key on my laptop represents a security risk for that server...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/10/simpson-garfinkel-on-spooky-cryptographic-action-at-a-distance.html>
+
+---
+
+## 2024-10-27 Upgrading GoToSocial from 16.0 to 17.1
+
+date: 2024-10-30, from: Alex Schroeder's Blog
+
+<h1 id="2024-10-27-upgrading-gotosocial-from-16-0-to-17-1">2024-10-27 Upgrading GoToSocial from 16.0 to 17.1</h1>
+
+<p>Here&rsquo;s something to watch out for, if you&rsquo;re like me: Disable all the infrastructure that watches over your processes. In my case, the problem was Monit. It checks the website every five minutes and if it fails to connect for three times in a row it restarts the server, breaking the migration. 😭</p>
+
+<pre><code>systemctl stop gotosocial
+# prevent systemctl from restarting it
+systemctl disable gotosocial
+# prevent monit from interrupting the migration with a restart!
+monit unmonitor gotosocial
+# backup!
+mkdir backup
+cp sqlite.db backup/
+</code></pre>
+
+<p>Now you&rsquo;re ready to extract the new version over the old one, compare your config file with the example provided, and start it again.</p>
+
+<pre><code>systemctl enable gotosocial
+systemctl start gotosocial
+journalctl --unit gotosocial --follow
+</code></pre>
+
+<p>Don&rsquo;t be like me and start Monit because my Monit config checks the URL every five minutes and restarts GoToSocial if the site is not up. Which is a big problem if migration takes more than a handful of minutes.</p>
+
+<p>I ended up with a borked migration restart loop and ended up stopping it all again, overwriting the borked database file with the backup, and redoing it.</p>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23GoToSocial">#GoToSocial</a></p>
+
+<p><strong>2024-10-28</strong>. Another thing to note for the GoToSocial upgrade is that I ran 16.0 using a systemd MemoryMax of 200M; today the upgraded instance with 17.1 ran fine for a while and then locked up. A restart didn&rsquo;t bring it back. It remained stuck after a log message saying &ldquo;compiling WebAssembly&rdquo;. I increased MemoryMax to 300M, no change. I increased it to 500M and the instance came up. Just in case you&rsquo;re as memory-stingy as I am&hellip;</p>
+
+<p>In order to avoid future compilation, <a class="account" href="https://gts.superseriousbusiness.org/@dumpsterqueer" title="@dumpsterqueer@superseriousbusiness.org">@dumpsterqueer</a> pointed me at this:</p>
+
+<blockquote>
+<p>You can instruct GoToSocial on where to store the Wazero artifacts by setting the environment variable <code>GTS_WAZERO_COMPILATION_CACHE</code> to a directory, which will be used by GtS to store two smallish artifacts of ~50MiB or so each (~100MiB total). – <a href="https://docs.gotosocial.org/en/latest/configuration/#gts_wazero_compilation_cache">Configuration Overview</a></p>
+</blockquote>
+
+<p>I&rsquo;ll try that.</p>
+
+<p>It looks like a side-effect of GoToSocial implementing the direct messages API is that the Toot! App I&rsquo;m using is showing me all my former direct messages using it&rsquo;s special user interface (those bubbles on the right hand side). I have to open every single one of them to dismiss it. 🤨</p>
+
+<p><strong>2024-10-29</strong>. Today I read that the botsin.space instance was shutting down.
+I figured I might start thinking about creating a second account for my blog on my own instance.
+I tried to run <code>./gotosocial admin account create</code> a few times, forgetting this or that parameter.
+And then I noticed that the replies I saw scrolling by always ended in an error message.
+In fact, there were more such error messages in my log files: &ldquo;database disk image is malformed&rdquo; 😱</p>
+
+<p>The <code>.recover</code> command didn&rsquo;t work when I tried it:</p>
+
+<pre><code># sqlite3 sqlite.db &quot;.recover&quot; | sqlite3 new.db
+sql error: SQL logic error (1)
+</code></pre>
+
+<p>So then I tried the following:</p>
+
+<pre><code>monit unmonitor gotosocial
+systemctl stop gotosocial
+sqlite3 sqlite.db &quot;.dump&quot; &gt; db.sql
+mkdir backup
+mv sqlite.db backup/
+sudo -u gotosocial sqlite3 sqlite.db &lt; db.sql
+gzip backup/sqlite.db
+gzip db.sql
+</code></pre>
+
+<p>Some errors that I saw:</p>
+
+<p>A few lines about accounts with no account_uri even though that was a NOT NULL column.</p>
+
+<p>Many, many such lines:</p>
+
+<pre><code>no such table: sqlite_stat4
+</code></pre>
+
+<p>Then this one:</p>
+
+<pre><code>NOT NULL constraint failed: conversations.thread_id (19)
+</code></pre>
+
+<p>I started to feel bad about the whole thing.</p>
+
+<p>I aborted the operation. The gzip command hadn&rsquo;t finished, yet.
+I restored the old database file.</p>
+
+<pre><code>mv backup/sqlite.db .
+systemctl start gotosocial
+</code></pre>
+
+<p>As it turns out, now my GoToSocial instance seems to be unreachable.
+The service starts, <code>htop</code> shows processes churning.
+The log shows i/o timeouts and &ldquo;No Content: wrote 0B&rdquo; log messages scrolling by.
+Oof!
+😓</p>
+
+<p>Looking at the timestamps again, it seems that the recovery command left a <code>sqlite.db-shm</code> and a <code>sqlite.db-wal</code> file in place.</p>
+
+<pre><code>-rw-r--r--     1 gotosocial gotosocial 10445488128 29. Okt 22:47 sqlite.db
+-rw-r--r--     1 gotosocial gotosocial       32768 29. Okt 23:19 sqlite.db-shm
+-rw-r--r--     1 gotosocial gotosocial      341992 29. Okt 23:19 sqlite.db-wal
+</code></pre>
+
+<p>That can&rsquo;t be right. So I&rsquo;m going to stop <code>gotosocial</code>, move these two files away, and start it again.</p>
+
+<p>Sadly, no luck.</p>
+
+<p>Perhaps there is a database recovery going on? I can&rsquo;t tell. This time around I see the typical startup messages, something about &ldquo;recovered queued tasks&rdquo;, about 12 requests that look like regular requests, and then nothing.</p>
+
+<p>I&rsquo;ll let it run for a bit.</p>
+
+<p>I restarted it again. It seems to work?</p>
+
+<p><strong>2024-10-30</strong>. The database is still corrupt in some way. There are a lot of errors. Here are two examples:</p>
+
+<blockquote>
+<p>error dereferencing remote status … : enrichStatus: failed to dereference status author … : enrichAccount: error putting in database: sqlite3: database disk image is malformed (code=11 extended=11)</p>
+
+<p>0xc0091c61e0: error processing: CreateAnnounce: error dereferencing announce: EnrichAnnounce: error fetching boost target … : enrichStatus: failed to dereference status author … : enrichAccount: error putting in database: sqlite3: database disk image is malformed (code=11 extended=11)</p>
+</blockquote>
+
+<p>There&rsquo;s something about these authors that&rsquo;s not working.</p>
+
+<p>The code in <code>account.go</code>:</p>
+
+<pre><code>// This is new, put it in the database.
+err := d.state.DB.PutAccount(ctx, latestAcc)
+if err != nil {
+	return nil, nil, gtserror.Newf(&quot;error putting in database: %w&quot;, err)
+}
+</code></pre>
+
+<p>I feel that this is where things are going wrong. Something about the accounts table.</p>
+
+<p>I&rsquo;m going to make an offline copy of the <code>sqlite.db</code> file. Sadly the <code>.recover</code> doesn&rsquo;t work on my laptop, either.</p>
+
+<pre><code>$ sqlite3 sqlite.db &quot;.recover&quot; &gt; data.sql
+sql error: SQL logic error (1)
+</code></pre>
+
+<p>Not looking good! I&rsquo;m going to try the dump.</p>
+
+<pre><code>sqlite3 sqlite.db &quot;.dump&quot; &gt; data.sql
+sqlite3 recovery.db &lt; data.sql 2&gt;&amp;1 |tee recovery.log
+</code></pre>
+
+<p>Let&rsquo;s look at the log file and list the errors!</p>
+
+<table>
+<thead>
+<tr>
+<th align="left">Occurences</th>
+<th>Type</th>
+<th>Error</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="left">454</td>
+<td>Runtime error</td>
+<td>UNIQUE constraint failed: media_attachments.id</td>
+</tr>
+
+<tr>
+<td align="left">69</td>
+<td>Runtime error</td>
+<td>NOT NULL constraint failed: accounts.uri</td>
+</tr>
+
+<tr>
+<td align="left">2111</td>
+<td>Parse error</td>
+<td>no such table: sqlite_stat4</td>
+</tr>
+
+<tr>
+<td align="left">1</td>
+<td>Runtime error</td>
+<td>NOT NULL constraint failed: conversations.thread_id</td>
+</tr>
+</tbody>
+</table>
+<p>I ended up filing <a href="https://github.com/superseriousbusiness/gotosocial/issues/3499">an issue</a>.</p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2024-10-27-upgrade-gotosocial>
+
+---
+
+## October 29, 2024
+
+date: 2024-10-30, from: Heather Cox Richardson blog
+
+Republican presidential nominee former president Donald Trump offered Americans his closing argument in the 2024 presidential race on Sunday, October 27, at Madison Square Garden. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/october-29-2024>
+
+---
+
+## Office Hours: How are you coping? 
+
+date: 2024-10-30, from: Robert Reich's blog
+
+The upcoming election may be the most stressful in your lifetime so far. How are you managing the stress? 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-how-are-you-coping>
+
+---
+
+## Eighteen years of ABI stability
+
+date: 2024-10-30, from: Daniel Stenberg Blog
+
+It has been eighteen years of libcurl ABI stability. 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2024/10/30/eighteen-years-of-abi-stability/>
+
+---
+
+## Wednesday 30 October, 2024
+
+date: 2024-10-30, from: John Naughton's online diary
+
+Autumn bouquet What an imaginative gardener can rustle up in a few minutes, just before dinner guests arrive. Quote of the Day ”Democracy is not a spectator sport. It’s not what governments do. Democracy is what people do.” Robert Reich &#8230; <a href="https://memex.naughtons.org/wednesday-30-october-2024/40013/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-30-october-2024/40013/>
+
+---
+
+## Cancelling Your Amazon Prime Membership to Protest Bezos’s Bootlicking at the Washington Post Is Like Pissing in the Ocean
+
+date: 2024-10-29, updated: 2024-10-30, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theatlantic.com/culture/archive/2024/10/washington-post-bezos-amazon-prime-cancel/680421/>
+
+---
+
+## Ron Prognosticates: Trump is Going to Win
+
+date: 2024-10-29, updated: 2024-10-29, from: Ron Garret
+
+&nbsp;I'm too depressed to elaborate much on this, but I just wanted to go on the record with this prediction before the election.&nbsp; Why do I think Trump is going to win?&nbsp; Because DJT stock is up and has been rising steadily since it hit an all-time low in late September.&nbsp; It didn't even go down today after yesterday's disastrous MSG rally.&nbsp; The polls have been static since 
+
+<br> 
+
+<https://blog.rongarret.info/2024/10/ron-prognosticates-trump-is-going-to-win.html>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-29, from: Dave Winer's Scripting News)
+
+"When your house is on fire there aren’t two sides." A few people misunderstood. In this <a href="http://scripting.com/2024/10/24.html#a204037">analogy</a> there are no arsonists. There is the house and there is fire. If you were reporting on this situation, you don't need to find out what motivates the fire, the only important thing is that if not checked it will destroy the house. 
+
+<br> 
+
+<http://scripting.com/2024/10/29.html#a211715>
+
+---
+
+##  Hyperlinks, the Open Web, and a Membership Appeal 
+
+date: 2024-10-29, updated: 2024-10-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/hyperlinks-the-open-web-and-a-membership-appeal>
+
+---
+
+## Apple Unveils Mac Minis With M4 and M4 Pro Chips
+
+date: 2024-10-29, updated: 2024-10-29, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.apple.com/newsroom/2024/10/apples-new-mac-mini-is-more-mighty-more-mini-and-built-for-apple-intelligence/>
+
+---
+
+##  Household Surrealism: Clothesline Animals 
+
+date: 2024-10-29, updated: 2024-10-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/household-surrealism-clothesline-animals>
+
+---
+
+##  From 2017: I Don&#8217;t Know How To Explain To You That You... 
+
+date: 2024-10-29, updated: 2024-10-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045550-from-2017-i-dont-know>
+
+---
+
+##  As a middle-aged man, I would&#8217;ve saved loads on therapy if I&#8217;d... 
+
+date: 2024-10-29, updated: 2024-10-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045541-as-a-middle-aged-man-i>
+
+---
+
+## MacRumors: ‘M1 vs. M3 vs. M4 iMac Buyer’s Guide’
+
+date: 2024-10-29, updated: 2024-10-29, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.macrumors.com/guide/m1-vs-m3-vs-m4-imac/>
+
+---
+
+##  Retro 80s Versions of Tech Company Logos 
+
+date: 2024-10-29, updated: 2024-10-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/retro-80s-versions-of-tech-company-logos>
+
+---
+
+##  If you are thinking of protesting by not voting, Bernie Sanders answers... 
+
+date: 2024-10-29, updated: 2024-10-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045546-bernie-sanders-answers-th>
+
+---
+
+## October 28, 2024
+
+date: 2024-10-29, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/150897500/01954623c4ca898e6828708f4b7e674c.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/150897500/01954623c4ca898e6828708f4b7e674c.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/october-28-2024-013>
+
+---
+
+##  Delimar Vera was kidnapped when she was 10 days old and presumed... 
+
+date: 2024-10-29, updated: 2024-10-29, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045542-delimar-vera-was-kidnappe>
 
 ---
 
@@ -262,8 +671,8 @@ date: 2024-10-29, from: Dave Winer's Scripting News
 <p>My op-ed for the Washington Post, if there was such a thing..</p>
 <p>I didn't imagine that Bezos cared what subscribers to the Washington Post thought about his decision to cancel their endorsement of VP Harris in the election one week from today. </p>
 <p>But <a href="https://www.npr.org/2024/10/28/nx-s1-5168416/washington-post-bezos-endorsement-president-cancellations-resignations">200K people unsubscribed</a>, and I guess that message got through to him, so he <a href="https://www.washingtonpost.com/opinions/2024/10/28/jeff-bezos-washington-post-trust/">wrote an op-ed</a> that ran in the Post yesterday, explaining that this was a <a href="https://www.google.com/search?q=define+principled">principled</a> thing. </p>
-<p>If it was really a matter of principle, they wouldn't have chosen this election, and one where his own personal interest was so involved. It doesn't look principled, and when you're trying to do something principled, it pretty much has to look that way or you have to conclude that it's bullshit, which it obviously is. </p>
-<p>It's surprising that he cares. The Post was worth $250M when he <a href="https://www.washingtonpost.com/national/washington-post-to-be-sold-to-jeff-bezos/2013/08/05/ca537c9e-fe0c-11e2-9711-3708310f6f4d_story.html">bought</a> it in 2013, maybe it's worth more than that now, but it's a very small part of his current $205B net worth. If owning the Post would interfere with his other businesses in a negative way, and if the problem could be solved by dropping it, I don't doubt that he would do that. Then why this op-ed? It could be that someone in his family objected, sometimes people react to that in ways that could cost money. It's possible. It's also possible the he's not sure that Trump will win, and being a calculating person, he realizes now that he's created a similar problem for himself if the Democrats win. The Trumps won't care if he lies about the reason, so lying about the reason was the obvious path for him. </p>
+<p>If it was really a matter of principle, they wouldn't have chosen this election, and one where his own personal interest was so involved. It doesn't <i>look</i> principled, and when you're trying to do something principled, it pretty much has to look that way or you have to conclude that it's bullshit, which it obviously is. </p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/08/17/dewey.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">It's surprising that he cares. The Post was worth $250M when he <a href="https://www.washingtonpost.com/national/washington-post-to-be-sold-to-jeff-bezos/2013/08/05/ca537c9e-fe0c-11e2-9711-3708310f6f4d_story.html">bought</a> it in 2013, maybe it's worth more than that now, but it's a very small part of his current $205B net worth. If owning the Post would interfere with his other businesses in a negative way, and if the problem could be solved by dropping it, I don't doubt that he would do that. Then why this op-ed? It could be that someone in his family objected, sometimes people react to that in ways that could cost money. It's possible. It's also possible that he's not sure that Trump will win, and being a calculating person, he realizes now that he's created a similar problem for himself if the Democrats win. The Trumps won't care if he lies about the reason, so lying about the reason was the obvious path for him. </p>
 <p>I think what we're really seeing is that owning a high profile news org like the Post isn't something for Mr Bezos. He would probably be better off selling the Post, so he doesn't have to make these kinds of principled bullshit choices, when clearly the only principled thing to do is not abandon American democracy in its hour of greatest need.</p>
  
 
@@ -698,55 +1107,6 @@ date: 2024-10-28, updated: 2024-10-28, from: Jason Kittke's blog
 <br> 
 
 <https://kottke.org/24/10/0045529-timothee-chalamet-makes-s>
-
----
-
-## 2024-10-27 Upgrading GoToSocial from 16.0 to 17.1
-
-date: 2024-10-28, from: Alex Schroeder's Blog
-
-<h1 id="2024-10-27-upgrading-gotosocial-from-16-0-to-17-1">2024-10-27 Upgrading GoToSocial from 16.0 to 17.1</h1>
-
-<p>Here&rsquo;s something to watch out for, if you&rsquo;re like me: Disable all the infrastructure that watches over your processes. In my case, the problem was Monit. It checks the website every five minutes and if it fails to connect for three times in a row it restarts the server, breaking the migration. 😭</p>
-
-<pre><code>systemctl stop gotosocial
-# prevent systemctl from restarting it
-systemctl disable gotosocial
-# prevent monit from interrupting the migration with a restart!
-monit unmonitor gotosocial
-# backup!
-mkdir backup
-cp sqlite.db backup/
-</code></pre>
-
-<p>Now you&rsquo;re ready to extract the new version over the old one, compare your config file with the example provided, and start it again.</p>
-
-<pre><code>systemctl enable gotosocial
-systemctl start gotosocial
-journalctl --unit gotosocial --follow
-</code></pre>
-
-<p>Don&rsquo;t be like me and start Monit because my Monit config checks the URL every five minutes and restarts GoToSocial if the site is not up. Which is a big problem if migration takes more than a handful of minutes.</p>
-
-<p>I ended up with a borked migration restart loop and ended up stopping it all again, overwriting the borked database file with the backup, and redoing it.</p>
-
-<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23GoToSocial">#GoToSocial</a></p>
-
-<p><strong>2024-10-28</strong>. Another thing to note for the GoToSocial upgrade is that I ran 16.0 using a ssystemd MemoryMax of 200M; today the upgraded instance with 17.1 ran fine for a while and then locked up. A restart didn&rsquo;t bring it back. It remained stuck after a log message saying &ldquo;compiling WebAssembly&rdquo;. I increased MemoryMax to 300M, no change. I increased it to 500M and the instance came up. Just in case you&rsquo;re as memory-stingy as I am&hellip;</p>
-
-<p>In order to avoid future compilation, <a class="account" href="https://gts.superseriousbusiness.org/@dumpsterqueer" title="@dumpsterqueer@superseriousbusiness.org">@dumpsterqueer</a> pointed me at this:</p>
-
-<blockquote>
-<p>You can instruct GoToSocial on where to store the Wazero artifacts by setting the environment variable <code>GTS_WAZERO_COMPILATION_CACHE</code> to a directory, which will be used by GtS to store two smallish artifacts of ~50MiB or so each (~100MiB total). – <a href="https://docs.gotosocial.org/en/latest/configuration/#gts_wazero_compilation_cache">Configuration Overview</a></p>
-</blockquote>
-
-<p>I&rsquo;ll try that.</p>
-
-<p>It looks like a side-effect of GoToSocial implementing the direct messages API is that the Toot! App I&rsquo;m using is showing me all my former direct messages using it&rsquo;s special user interface (those bubbles on the right hand side). I have to open every single one of them to dismiss it. 🤨</p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2024-10-27-upgrade-gotosocial>
 
 ---
 

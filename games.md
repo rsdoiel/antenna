@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2024-10-29 08:22:42
+updated: 2024-10-30 07:57:46
 ---
 
 # games
 
-(date: 2024-10-29 08:22:42)
+(date: 2024-10-30 07:57:46)
+
+---
+
+## Every Marvel movie and TV release set for 2024 and beyond
+
+date: 2024-10-30, updated: 2024-10-30, from: Polygon Website
+
+The Marvel Cinematic Universe did not end with Avengers: Endgame or the Phase 3 wrap-up feature Spider-Man: No From Home, but it did take a break for a few years before Phases 4 and 5, and that return has been increasingly shaky. Phase 4 saw Marvel taking its first big steps into the multiverse with [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/21452835/new-marvel-movies-come-out-release-schedule>
+
+---
+
+## Marvel drops first looks at Daredevil, Wonder Man, and new Spider-Man in big 2025 TV trailer
+
+date: 2024-10-30, updated: 2024-10-30, from: Polygon Website
+
+Marvel’s new trailer is a rapid-fire compilation of a bunch of new Disney Plus releases on the horizon: Ironheart, Daredevil Born Again, What If…? season 3, Wonder Man, and more — oh my!&#160; It’s a mix of live action shows and animated ones, and a blend of new characters and titles (Wonder Man???) and returning [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/472163/marvel-studios-2025-trailer-daredevil-spider-man>
+
+---
+
+## Deadpool &#038; Wolverine hits Disney Plus in two weeks
+
+date: 2024-10-30, updated: 2024-10-30, from: Polygon Website
+
+Marvel’s Deadpool &#38; Wolverine, a collision of the Fox X-Men universe and MCU proper, is the biggest hit of the year so far. In fact, 14 weeks after its premiere, it’s still in 300 theaters, scraping a few thousand bucks here and there to brings its grand box-office total to $636.5 million — and that’s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel/472153/deadpool-wolverine-disney-plus-streaming-release-date>
+
+---
+
+## The Halloween Countdown: 31 days of horror to watch
+
+date: 2024-10-30, updated: 2024-10-30, from: Polygon Website
+
+Do you feel that? That chill in the air, that tingling sensation at the back of your neck? It can only mean one thing. That’s right: Halloween season is once again upon us! Here at Polygon, we love horror. We cover it all year round, whether it’s ranking the scariest new releases of the year [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream>
+
+---
+
+## The best anime of 2024 so far
+
+date: 2024-10-30, updated: 2024-10-30, from: Polygon Website
+
+2023 was an exceptional year for anime. And if the early months of 2024 are any indication, audiences can likely expect another great year of terrific shows. From new seasons of returning favorites like My Hero Academia, Demon Slayer: Kimetsu no Yaiba, Sound! Euphonium, and Mushoku Tensei: Jobless Reincarnation to exciting new premieres like Delicious [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/24074811/best-anime-2024>
+
+---
+
+## The Vatican has a new mascot: an anime girl named Luce
+
+date: 2024-10-29, updated: 2024-10-29, from: Polygon Website
+
+The Vatican has found itself a new star — and no, it’s not the “gamer saint.” The Vatican announced the official mascot for Jubilee 2025 on Monday and it’s an anime character named Luce. While it’s been roughly a day since Luce was revealed, she’s already become unbelievably popular online — people are flocking to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/culture/471610/vatican-anime-mascot-luce>
+
+---
+
+## This $18 Dragon Age comic bundle contains the perfect primer for The Veilguard
+
+date: 2024-10-29, updated: 2024-10-29, from: Polygon Website
+
+Been a while since you last stepped into the realm of Thedas? You’re not alone. One way to gear up for the launch of Dragon Age: The Veilguard on Oct. 31 is to grab this bundle of comics over at Humble. It’s offering an $18 bundle of 18 volumes based on the worlds of Dragon [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/471861/dragon-age-the-veilguard-mass-effect-comic-humble-bundle-dark-horse>
+
+---
+
+## The best Steam Deck accessories
+
+date: 2024-10-29, updated: 2024-10-29, from: Polygon Website
+
+Valve’s Steam Deck LCD and Steam Deck OLED are major players in the console space. While they’re technically handheld Linux PCs, they are accessible and affordable enough to be the preferred option for many gamers, especially those who want more power and a larger game library than the Nintendo Switch can provide. Not to mention, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-buy/23627961/best-steam-deck-accessories>
+
+---
+
+## Sony shuts down Concord developer Firewalk, permanently cancels game
+
+date: 2024-10-29, updated: 2024-10-29, from: Polygon Website
+
+Concord developer Firewalk Studios has been closed by Sony Interactive Entertainment, according to an internal email from CEO Hermen Hulst. The failed shooter has been permanently sunset, Hulst confirmed, and will not return. “After much thought, we have determined the best path forward is to permanently sunset the game and close the studio,” Hulst said [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/450065/concord-canceled-firewalk-studios-closed-sony>
+
+---
+
+## Disney Dreamlight Valley expansion, Storybook Vale, adds Hades and Maleficent
+
+date: 2024-10-29, updated: 2024-10-29, from: Polygon Website
+
+Disney Dreamlight Valley’s next expansion, called Storybook Vale, will be released on Nov. 20, developer Gameloft announced Tuesday. The expansion costs $29.99 on its own and $59.99 for the base game and Storybook Vale, which will be released in two parts. The first part, called “Welcome to the Vale,” adds a new storyline; three new [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/471843/disney-dreamlight-valley-storybook-vale-expansion-announcement>
 
 ---
 
@@ -174,18 +294,6 @@ Anyone trying to market a movie these days is facing an uphill battle. The 2020 
 <br> 
 
 <https://www.polygon.com/what-to-watch/470739/barbarian-leaving-streaming-best-horror-2024>
-
----
-
-## The Halloween Countdown: 31 days of horror to watch
-
-date: 2024-10-27, updated: 2024-10-28, from: Polygon Website
-
-Do you feel that? That chill in the air, that tingling sensation at the back of your neck? It can only mean one thing. That’s right: Halloween season is once again upon us! Here at Polygon, we love horror. We cover it all year round, whether it’s ranking the scariest new releases of the year [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream>
 
 ---
 

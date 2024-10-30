@@ -1,15 +1,419 @@
 ---
 title: food
-updated: 2024-10-29 08:22:44
+updated: 2024-10-30 07:57:48
 ---
 
 # food
 
-(date: 2024-10-29 08:22:44)
+(date: 2024-10-30 07:57:48)
 
 ---
 
-## Kamala Harris’s Passion for Food Goes Beyond Politics
+## I Need New Pork Recipes
+
+date: 2024-10-30, from: Bon Appetet
+
+On this episode of Dinner SOS, Chris and Inés help Jen find exciting new ways to cook pork. 
+
+<br> 
+
+<https://www.bonappetit.com/story/i-need-new-pork-recipes>
+
+---
+
+## The Death Of The Barista
+
+date: 2024-10-30, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Hello, Judges. 
+
+<br> 
+
+<https://sprudge.com/the-death-of-the-barista-257265.html>
+
+---
+
+## Sputnik Coffee Goes Supernova with Huge New Roastery Cafe in Chicago
+
+date: 2024-10-30, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Sputnik-Coffee-IMF-roaster-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Sputnik Coffee IMF roaster" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Sputnik-Coffee-IMF-roaster-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Sputnik-Coffee-IMF-roaster-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Sputnik-Coffee-IMF-roaster-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Sputnik-Coffee-IMF-roaster-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Sputnik-Coffee-IMF-roaster.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Chicago-based Sputnik Coffee Company opened a spacious second cafe earlier this month with views into an enormous new color-coordinated roasting facility. Less than half a mile from Sputnik&#8217;s original roastery... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/10/30/sputnik-coffee-goes-supernova-with-huge-new-roastery-cafe-in-chicago/>
+
+---
+
+## Spiced Pork Wellington With Buttery Garlic Spinach
+
+date: 2024-10-30, from: Pepper Scale
+
+Pork, chili peppers, and pastry join chorizo, mushrooms, and onions to produce this show-stopping delight. Our pork Wellington matches its elegant, aristocratic good looks with an understated wealth of subtle flavors. And, to top it all, it’s surprisingly easy to make. Pork loin is rightly ... <p class="read-more-container"><a title="Spiced Pork Wellington With Buttery Garlic Spinach" class="read-more button" href="https://pepperscale.com/pork-wellington-with-buttery-garlic-spinach/#more-84274" aria-label="Read more about Spiced Pork Wellington With Buttery Garlic Spinach">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/pork-wellington-with-buttery-garlic-spinach/>
+
+---
+
+## What’s A Good Chipotle Pepper Substitute?
+
+date: 2024-10-30, from: Pepper Scale
+
+With that&#160;smoky heat, chipotle peppers bring a unique earthy flavor to dishes that use them. So how do you match that if you don&#8217;t have any chipotle chilies available in your kitchen. What&#8217;s a proper chipotle pepper substitute that will save the day, both in ... <p class="read-more-container"><a title="What&#8217;s A Good Chipotle Pepper Substitute?" class="read-more button" href="https://pepperscale.com/chipotle-pepper-substitute/#more-5557" aria-label="Read more about What&#8217;s A Good Chipotle Pepper Substitute?">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/chipotle-pepper-substitute/>
+
+---
+
+## FairWave Specialty Coffee Collective Acquires Ceremony Coffee Roasters
+
+date: 2024-10-30, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. FairWave has expanded eastward. 
+
+<br> 
+
+<https://sprudge.com/fairwave-specialty-coffee-collective-acquires-ceremony-coffee-roasters-257859.html>
+
+---
+
+## Behind the Headlines: Whole-Bean Coffee Sales Are Up—But Why?
+
+date: 2024-10-30, from: The Fresh Cup
+
+<p>New reports suggest whole-bean coffee sales are on the rise. But what’s fueling that growth? We ask roasters what they think. </p>
+<p>The post <a href="https://freshcup.com/behind-the-headlines-whole-bean-coffee-sales-are-up-but-why/">Behind the Headlines: Whole-Bean Coffee Sales Are Up—But Why?</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/behind-the-headlines-whole-bean-coffee-sales-are-up-but-why/>
+
+---
+
+## Taste of Home December 2024 Bakeable Drawing (#322) Official Rules
+
+date: 2024-10-30, from: Taste of Home
+
+<p>NO PURCHASE OR PAYMENT OF ANY KIND IS NECESSARY TO ENTER OR WIN. PURCHASE WILL NOT IMPROVE AN ENTRY’S CHANCE</p>
+<p>The post <a href="https://www.tasteofhome.com/taste-of-home-december-2024-bakeable-drawing-322-official-rules/">Taste of Home December 2024 Bakeable Drawing (#322) Official Rules</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/taste-of-home-december-2024-bakeable-drawing-322-official-rules/>
+
+---
+
+## Taste of Home November 2024 Bakeable Drawing (#321) Official Rules
+
+date: 2024-10-30, from: Taste of Home
+
+<p>NO PURCHASE OR PAYMENT OF ANY KIND IS NECESSARY TO ENTER OR WIN. PURCHASE WILL NOT IMPROVE AN ENTRY’S CHANCE</p>
+<p>The post <a href="https://www.tasteofhome.com/taste-of-home-november-2024-bakeable-drawing-321-official-rules/">Taste of Home November 2024 Bakeable Drawing (#321) Official Rules</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/taste-of-home-november-2024-bakeable-drawing-321-official-rules/>
+
+---
+
+## Chicken Carnitas
+
+date: 2024-10-30, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/mexican-slow-cooker-chicken-carnitas-tacos/"><img title="chicken-carnitas-small-24-8" src="https://www.isabeleats.com/wp-content/uploads/2024/10/chicken-carnitas-small-24-8-400x600.jpg" alt="Chicken carnitas on a sheet pan with caramelized crispy edges and garnished with cilantro and fresh lime juice." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	Dig into these easy chicken carnitas for dinner tonight. This lighter take on traditional pork carnitas is just as juicy and packed with flavor from citrus juices and Mexican seasonings like cumin, chili powder, and oregano. Includes slow cooker and Instant Pot instructions for an easy, no-fuss dinner! One of the most popular recipes on [&#8230;] 
+
+<br> 
+
+<https://www.isabeleats.com/mexican-slow-cooker-chicken-carnitas-tacos/>
+
+---
+
+## White Chicken Chili Recipe
+
+date: 2024-10-30, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/chili-pepper-recipes/chili/white-bean-chicken-chili-recipe/" title="White Chicken Chili Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/White-Chicken-Chili-Recipe-BOWL1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A large bowl of White Chicken Chili, ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/White-Chicken-Chili-Recipe-BOWL1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/White-Chicken-Chili-Recipe-BOWL1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/White-Chicken-Chili-Recipe-BOWL1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/White-Chicken-Chili-Recipe-BOWL1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/White-Chicken-Chili-Recipe-BOWL1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/White-Chicken-Chili-Recipe-BOWL1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/White-Chicken-Chili-Recipe-BOWL1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This one-pot white chicken chili is the ultimate comfort food with plenty of chicken, white beans and simple spices, easy to make any night, always a hit!</p>
+<p>The post <a href="https://www.chilipeppermadness.com/chili-pepper-recipes/chili/white-bean-chicken-chili-recipe/">White Chicken Chili Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/chili-pepper-recipes/chili/white-bean-chicken-chili-recipe/>
+
+---
+
+## 31 Make-Ahead Breakfast Ideas for Busy Mornings
+
+date: 2024-10-29, from: Bon Appetet
+
+Rise and shine, angels. Breakfast has already been made—by you. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/make-ahead-breakfast-ideas>
+
+---
+
+## I Tried the Jimmy John’s Picklewich—Here’s My Honest Review
+
+date: 2024-10-29, from: Taste of Home
+
+<p>Jimmy John's Picklewich swaps its usual French bread for a whole dill pickle. Is this the best thing since sliced pickles? Or is every bite a dill-emma?</p>
+<p>The post <a href="https://www.tasteofhome.com/article/jimmy-johns-picklewich-review/">I Tried the Jimmy John&#8217;s Picklewich—Here&#8217;s My Honest Review</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/jimmy-johns-picklewich-review/>
+
+---
+
+## New Pepsi Wild Cherry & Cream Flavor Will Drop in January 2025
+
+date: 2024-10-29, from: Taste of Home
+
+<p>It's time to go wild about a brand-new Pepsi flavor.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/new-pepsi-wild-cherry-cream/">New Pepsi Wild Cherry &amp; Cream Flavor Will Drop in January 2025</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/new-pepsi-wild-cherry-cream/>
+
+---
+
+## McDonald’s Can Now Repair Its Own McFlurry Machines
+
+date: 2024-10-29, from: Taste of Home
+
+<p>Say goodbye to the perpetually broken soft serve machine at your McDonald's.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/mcdonalds-can-now-repair-its-own-mcflurry-machines/">McDonald&#8217;s Can Now Repair Its Own McFlurry Machines</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/mcdonalds-can-now-repair-its-own-mcflurry-machines/>
+
+---
+
+## Target’s Thanksgiving Meal Is Cheaper Than Last Year—Here’s How
+
+date: 2024-10-29, from: Taste of Home
+
+<p>This is how the Target Thanksgiving bundle compares to ingredients at Walmart and Aldi.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/target-cost-of-thanksgiving-2024/">Target&#8217;s Thanksgiving Meal Is Cheaper Than Last Year—Here&#8217;s How</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/target-cost-of-thanksgiving-2024/>
+
+---
+
+## Royal Coffee Offering Free Shipping To Canada On All Crown Jewel & Royal Gem Boxes
+
+date: 2024-10-29, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. The offer lasts from October 29th to November 12th. 
+
+<br> 
+
+<https://sprudge.com/royal-coffee-offering-free-shipping-to-canada-on-all-crown-jewel-royal-gem-boxes-257870.html>
+
+---
+
+## Gluten-Free Meatballs
+
+date: 2024-10-29, from: Taste of Home
+
+With these gluten-free meatballs the motto is "No bread crumbs? No problem!" Instead of bread crumbs they call for gluten-free oats, which work just as well and bring extra nutrition to the party too. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/gluten-free-meatballs/>
+
+---
+
+## Ricotta Meatballs
+
+date: 2024-10-29, from: Taste of Home
+
+Ricotta meatballs are more tender than your average meatball recipe, so definitely brown them before simmering them in the sauce. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/ricotta-meatballs/>
+
+---
+
+## Korean Meatballs
+
+date: 2024-10-29, from: Taste of Home
+
+These tender Korean meatballs take under an hour to make and will probably be devoured in less than half that time. Serve them over rice or noodles for a new savory dinner option or with mini bamboo skewers for impressive finger food. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/korean-meatballs/>
+
+---
+
+## Report: China’s Largest Coffee Chain Luckin Prepping US Launch
+
+date: 2024-10-29, from: Daily Coffee News
+
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Luckin-Coffee-China-620x413.jpg" class="attachment-large size-large wp-post-image" alt="Luckin Coffee China" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Luckin-Coffee-China-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Luckin-Coffee-China-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Luckin-Coffee-China-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Luckin-Coffee-China-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Luckin-Coffee-China.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Chinese coffee giant Luckin Coffee is planning a small-scale launch in the United States, less than four years after the company agreed to a $180 million settlement with the Securities... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/10/29/report-chinas-largest-coffee-chain-luckin-prepping-us-launch/>
+
+---
+
+## Gluten-Free Green Bean Casserole
+
+date: 2024-10-29, from: Taste of Home
+
+This Test Kitchen-approved gluten-free green bean casserole transforms the classic holiday side into an allergy-friendly dish without sacrificing on flavor and taste. Topped with crispy gluten-free fried onions, it's a comforting recipe that works well for everything from Thanksgiving dinner to weeknight meals. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/gluten-free-green-bean-casserole/>
+
+---
+
+## Hamburger Rice Casserole
+
+date: 2024-10-29, from: Taste of Home
+
+A mash-up of rice with gravy and a cheeseburger, hamburger rice casserole is a delicious and satisfying meal that’s perfect for busy weeknights or casual gatherings with friends. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/hamburger-rice-casserole/>
+
+---
+
+## Chicken Florentine Soup
+
+date: 2024-10-29, from: Taste of Home
+
+Chicken Florentine soup is just as comforting as a cream soup, but tastes (and is!) much lighter. Filled with lean chicken breast and baby spinach, it's as good for you as it is for your taste buds. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/chicken-florentine-soup/>
+
+---
+
+## White Bean and Kale Soup
+
+date: 2024-10-29, from: Taste of Home
+
+White bean and kale soup uses simple ingredients to make a filling, savory soup that freezes well. It's good as a side or main dish, and it's a delicious, nutritious addition to your recipe repertoire. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/white-bean-and-kale-soup/>
+
+---
+
+## Chicken Lentil Soup
+
+date: 2024-10-29, from: Taste of Home
+
+Cubed chicken breast keeps this chicken lentil soup recipe lean, but feel free to swap in chicken thighs for more flavor. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/chicken-lentil-soup/>
+
+---
+
+## Maryland’s Ceremony Coffee Now Part of FairWave Collective
+
+date: 2024-10-29, from: Daily Coffee News
+
+<div><img width="620" height="418" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/ceremony-coffee-baltimore-620x418.jpg" class="attachment-large size-large wp-post-image" alt="ceremony coffee baltimore" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/ceremony-coffee-baltimore-620x418.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/ceremony-coffee-baltimore-300x202.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/ceremony-coffee-baltimore-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/ceremony-coffee-baltimore-768x518.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/ceremony-coffee-baltimore.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Maryland-based Ceremony Coffee Roasters is now part of the FairWave Specialty Coffee Collective, a conglomerate of specialty coffee brands that launched in 2020 and now comprises more than 30 cafes... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/10/29/marylands-ceremony-coffee-now-part-of-fairwave-collective/>
+
+---
+
+## Mushroom Barley Soup
+
+date: 2024-10-29, from: Taste of Home
+
+This mushroom barley soup is chock-full of veggies and grains. It's brimming with flavor! 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/mushroom-barley-soup-2/>
+
+---
+
+## Poblano Soup
+
+date: 2024-10-29, from: Taste of Home
+
+Roasting the poblano peppers really releases the smoky flavor for this warming poblano soup. The creaminess balances the subtle heat nicely. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/poblano-soup/>
+
+---
+
+## I Finally Found My Forever Flatware
+
+date: 2024-10-29, from: Bon Appetet
+
+This DTC silverware set is simple, sturdy, and timeless. 
+
+<br> 
+
+<https://www.bonappetit.com/story/made-in-flatware-highly-recommend>
+
+---
+
+## Caramel Syrup
+
+date: 2024-10-29, from: Taste of Home
+
+Discover the secret to making delicious caramel syrup at home, then drizzle it over pancakes and ice cream, or use it as a sweetener in your coffee. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/caramel-syrup/>
+
+---
+
+## Pumpkin Soup
+
+date: 2024-10-29, from: Taste of Home
+
+This spice-infused pumpkin soup with a velvety coconut milk base is the ultimate autumnal make-ahead meal. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/pumpkin-soup-2/>
+
+---
+
+## Kamala Harris's Passion for Food Goes Beyond Politics
 
 date: 2024-10-29, from: Bon Appetet
 
@@ -73,7 +477,7 @@ date: 2024-10-29, from: The Sprudge
 
 date: 2024-10-29, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Bluestone-Lane-leadership-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Bluestone Lane Coffee" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Bluestone-Lane-leadership-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Bluestone-Lane-leadership-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Bluestone-Lane-leadership-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Bluestone-Lane-leadership-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Bluestone-Lane-leadership.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>New York City-based coffee chain Bluestone Lane is getting a new CEO at the end of this month, as longtime hospitality executive Edie Ames takes over for founder Nicholas Stone.... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Bluestone-Lane-leadership-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Bluestone Lane Coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Bluestone-Lane-leadership-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Bluestone-Lane-leadership-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Bluestone-Lane-leadership-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Bluestone-Lane-leadership-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Bluestone-Lane-leadership.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>New York City-based coffee chain Bluestone Lane is getting a new CEO at the end of this month, as longtime hospitality executive Edie Ames takes over for founder Nicholas Stone.... 
 
 <br> 
 
@@ -181,6 +585,18 @@ Light, flavorful and easy to make, this garlicky roasted cauliflower soup is the
 
 ---
 
+## Cranberry Jalapeno Dip
+
+date: 2024-10-28, from: Taste of Home
+
+This elegant cranberry jalapeno dip expertly balances sweet, tart, spicy and creamy flavors, making it an ideal addition to any festive spread. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/cranberry-jalapeno-dip/>
+
+---
+
 ## Portuguese Bean Soup
 
 date: 2024-10-28, from: Taste of Home
@@ -221,7 +637,7 @@ These snickerdoodle cheesecake bars can be sliced into any size portion—perfec
 
 date: 2024-10-28, from: Daily Coffee News
 
-<div><img width="620" height="459" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Chuck-Patton-roaster-San-Diego-1-620x459.jpg" class="attachment-large size-large wp-post-image" alt="Chuck Patton roaster San Diego" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Chuck-Patton-roaster-San-Diego-1-620x459.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Chuck-Patton-roaster-San-Diego-1-300x222.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Chuck-Patton-roaster-San-Diego-1-150x111.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Chuck-Patton-roaster-San-Diego-1-768x568.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Chuck-Patton-roaster-San-Diego-1.jpg 1029w" sizes="(max-width: 620px) 100vw, 620px" /></div>A pioneering figure in the San Diego coffee scene in the early 2000s and 2010s recently re-emerged with a new roasting business and a dual focus on small-batch, high-quality coffees... 
+<div><img width="620" height="459" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Chuck-Patton-roaster-San-Diego-1-620x459.jpg" class="attachment-large size-large wp-post-image" alt="Chuck Patton roaster San Diego" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Chuck-Patton-roaster-San-Diego-1-620x459.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Chuck-Patton-roaster-San-Diego-1-300x222.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Chuck-Patton-roaster-San-Diego-1-150x111.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Chuck-Patton-roaster-San-Diego-1-768x568.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Chuck-Patton-roaster-San-Diego-1.jpg 1029w" sizes="(max-width: 620px) 100vw, 620px" /></div>A pioneering figure in the San Diego coffee scene in the early 2000s and 2010s recently re-emerged with a new roasting business and a dual focus on small-batch, high-quality coffees... 
 
 <br> 
 
@@ -233,7 +649,7 @@ date: 2024-10-28, from: Daily Coffee News
 
 date: 2024-10-28, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/KEI-Coffee-House-inside-620x414.jpg" class="attachment-large size-large wp-post-image" alt="KEI Coffee House inside" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/KEI-Coffee-House-inside-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/KEI-Coffee-House-inside-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/KEI-Coffee-House-inside-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/KEI-Coffee-House-inside-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/KEI-Coffee-House-inside.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Kei Concepts, the Southern California hospitality group behind numerous restaurant brands, has opened its first coffee-focused concept, Kei Coffee House. The coffee program inside the spacious standalone coffee shop in... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/KEI-Coffee-House-inside-620x414.jpg" class="attachment-large size-large wp-post-image" alt="KEI Coffee House inside" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/KEI-Coffee-House-inside-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/KEI-Coffee-House-inside-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/KEI-Coffee-House-inside-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/KEI-Coffee-House-inside-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/KEI-Coffee-House-inside.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Kei Concepts, the Southern California hospitality group behind numerous restaurant brands, has opened its first coffee-focused concept, Kei Coffee House. The coffee program inside the spacious standalone coffee shop in... 
 
 <br> 
 
@@ -363,7 +779,7 @@ date: 2024-10-28, from: Isebel Eats
 
 date: 2024-10-28, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/chili-pepper-recipes/beef/ropa-vieja-cuban-shredded-beef/" title="Ropa Vieja Recipe (Cuban Shredded Beef)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Ropa-Vieja-Recipe2-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Ropa Vieja (Cuban Shredded Beef) in a bowl with rice and black beans" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Ropa-Vieja-Recipe2-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Ropa-Vieja-Recipe2-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Ropa-Vieja-Recipe2-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Ropa-Vieja-Recipe2-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Ropa-Vieja-Recipe2-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Ropa-Vieja-Recipe2-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Ropa-Vieja-Recipe2.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Ropa Vieja is national Cuban dish of tender beef slowly braised then shredded to resemble "old clothes", hence the name, easy to make at home and delicious!</p>
+<a href="https://www.chilipeppermadness.com/chili-pepper-recipes/beef/ropa-vieja-cuban-shredded-beef/" title="Ropa Vieja Recipe (Cuban Shredded Beef)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Ropa-Vieja-Recipe2-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Ropa Vieja (Cuban Shredded Beef) in a bowl with rice and black beans" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Ropa-Vieja-Recipe2-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Ropa-Vieja-Recipe2-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Ropa-Vieja-Recipe2-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Ropa-Vieja-Recipe2-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Ropa-Vieja-Recipe2-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Ropa-Vieja-Recipe2-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Ropa-Vieja-Recipe2.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Ropa Vieja is national Cuban dish of tender beef slowly braised then shredded to resemble "old clothes", hence the name, easy to make at home and delicious!</p>
 <p>The post <a href="https://www.chilipeppermadness.com/chili-pepper-recipes/beef/ropa-vieja-cuban-shredded-beef/">Ropa Vieja Recipe (Cuban Shredded Beef)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

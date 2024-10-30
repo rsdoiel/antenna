@@ -1,11 +1,298 @@
 ---
 title: home
-updated: 2024-10-29 08:22:43
+updated: 2024-10-30 07:57:47
 ---
 
 # home
 
-(date: 2024-10-29 08:22:43)
+(date: 2024-10-30 07:57:47)
+
+---
+
+## Bring The Outdoors In with Artificial Turf
+
+date: 2024-10-30, from: Family Handyman Blog
+
+<p>From play rooms to indoor putting greens, find out how to use artificial turf inside your home.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/bring-the-outdoors-in-with-artificial-turf/">Bring The Outdoors In with Artificial Turf</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/bring-the-outdoors-in-with-artificial-turf/>
+
+---
+
+## Staghorn Fern Care and Growing Guide with Ultimate Tips
+
+date: 2024-10-30, from: Yard Life blog
+
+<p>The staghorn fern, also known by its botanical name Platycerium bifurcatum, is a unique and visually striking plant native to ... </p>
+<p class="read-more-container"><a title="Staghorn Fern Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/staghorn-fern-care-and-growing-guide-with-ultimate-tips/#more-21400" aria-label="Read more about Staghorn Fern Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/staghorn-fern-care-and-growing-guide-with-ultimate-tips/">Staghorn Fern Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/staghorn-fern-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## Snapdragons Care and Growing Guide with Ultimate Tips
+
+date: 2024-10-30, from: Yard Life blog
+
+<p>Snapdragons are popular for their beautiful, dragon-shaped blooms and vibrant colors, making them a go-to for spring and fall gardens. ... </p>
+<p class="read-more-container"><a title="Snapdragons Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/snapdragons-care-and-growing-guide-with-ultimate-tips/#more-21393" aria-label="Read more about Snapdragons Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/snapdragons-care-and-growing-guide-with-ultimate-tips/">Snapdragons Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/snapdragons-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## Ranunculus Flower Care and Growing Guide (Most Detailed)
+
+date: 2024-10-30, from: Yard Life blog
+
+<p>Ranunculus flowers, often prized for their charming, rose-like appearance, have become a favorite among florists and gardeners. Their vibrant colors&#x2014;from ... </p>
+<p class="read-more-container"><a title="Ranunculus Flower Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/ranunculus-flower-care-and-growing-guide-most-detailed/#more-21390" aria-label="Read more about Ranunculus Flower Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/ranunculus-flower-care-and-growing-guide-most-detailed/">Ranunculus Flower Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/ranunculus-flower-care-and-growing-guide-most-detailed/>
+
+---
+
+## Pistachio Tree Care and Growing Guide with Ultimate Tips
+
+date: 2024-10-30, from: Yard Life blog
+
+<p>The pistachio tree is a unique and hardy plant that offers not only visual appeal but also the joy of ... </p>
+<p class="read-more-container"><a title="Pistachio Tree Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/pistachio-tree-care-and-growing-guide-with-ultimate-tips/#more-21383" aria-label="Read more about Pistachio Tree Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/pistachio-tree-care-and-growing-guide-with-ultimate-tips/">Pistachio Tree Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/pistachio-tree-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## Polka Dot Plant Care and Growing Guide with Ultimate Tips
+
+date: 2024-10-30, from: Yard Life blog
+
+<p>The Polka Dot Plant (Hypoestes phyllostachya), also known as the Freckle Face Plant, is a favorite among plant enthusiasts for ... </p>
+<p class="read-more-container"><a title="Polka Dot Plant Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/polka-dot-plant-care-and-growing-guide-with-ultimate-tips/#more-21373" aria-label="Read more about Polka Dot Plant Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/polka-dot-plant-care-and-growing-guide-with-ultimate-tips/">Polka Dot Plant Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/polka-dot-plant-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## The Holidays Can Be Overwhelming—Our Newsletter Will Help
+
+date: 2024-10-30, from: Sunset Magazine - Living in the West
+
+Don't let the holidays stress you out. Sign up for our Holiday Survival Guide newsletter where we'll be sharing tips and tricks every week. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/holiday-survival-guide-newsletter>
+
+---
+
+## Chrysler Issues Recall of Over 150,000 Jeeps Due to Fire Risk
+
+date: 2024-10-29, from: Family Handyman Blog
+
+<p>Wondering if your car is included in Chrysler's recent recall? Get all the details here.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/jeep-recall-battery-fire-risk/">Chrysler Issues Recall of Over 150,000 Jeeps Due to Fire Risk</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/jeep-recall-battery-fire-risk/>
+
+---
+
+## Should You Cover Your Air Conditioner Condenser In the Winter?
+
+date: 2024-10-29, from: Family Handyman Blog
+
+<p>You don't use your AC unit in the winter, so should you keep it covered, and if so, how? Experts from around the country weigh in.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/cover-ac-for-winter/">Should You Cover Your Air Conditioner Condenser In the Winter?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/cover-ac-for-winter/>
+
+---
+
+## Your Biggest Thanksgiving Disasters, Shared
+
+date: 2024-10-29, from: Sunset Magazine - Living in the West
+
+We put out a call on Facebook for our followers' biggest Turkey Day fiascos. Here are some of our favorite humorous tales of Thanksgivings past. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/holidays/thanksgiving-humor>
+
+---
+
+## This Cocoon-Like Cabin in England Has a Prefab Shell
+
+date: 2024-10-29, from: Dwell
+
+The retreat’s outer provides all the structural support, allowing for a surprisingly roomy interior. 
+
+<br> 
+
+<https://www.dwell.com/article/monocoque-cabin-markos-design-workshop-prefab-home-36863905>
+
+---
+
+## Ninesky Dehumidifier Review: Here’s What We REALLY Think
+
+date: 2024-10-29, from: Family Handyman Blog
+
+<p>A North Carolinian homeowner tested the Ninesky Dehumidifier to see if it was the best choice for removing excess moisture from the air.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/ninesky-dehumidifier-review/">Ninesky Dehumidifier Review: Here&#8217;s What We REALLY Think</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/ninesky-dehumidifier-review/>
+
+---
+
+## Can Halloween Decor Ever Be Chic? An Interior Designer Shares How to Do It Right
+
+date: 2024-10-29, from: Sunset Magazine - Living in the West
+
+One designer shares his tricks (and treats) to perfecting the balance between spooky and stylish for Halloween decor. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/how-to-make-halloween-decor-chic>
+
+---
+
+## Birch Natural Mattress Review: We Tried It for a Month, and Here’s What Happened
+
+date: 2024-10-29, from: Family Handyman Blog
+
+<p>Birch by Helix is relatively new to the mattress scene. Here’s our unfiltered Birch Natural Mattress Review after a month of testing.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/birch-natural-mattress-review/">Birch Natural Mattress Review: We Tried It for a Month, and Here&#8217;s What Happened</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/birch-natural-mattress-review/>
+
+---
+
+## A Cheap Bidet Could Change Your Life — and Help the Environment
+
+date: 2024-10-29, from: Family Handyman Blog
+
+<p>Bidets have come a long way in the past few years. They now offer a cheap, hygienic, eco-friendly alternative to toilet paper.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/bidet-toilet/">A Cheap Bidet Could Change Your Life — and Help the Environment</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/bidet-toilet/>
+
+---
+
+## Olivia Wilde’s Former Los Angeles Home Lists for $4.8M
+
+date: 2024-10-29, from: Dwell
+
+Perched in the hills of Los Feliz, the 1920s Spanish-style property is packed with custom tile, curved archways, and exposed beams. 
+
+<br> 
+
+<https://www.dwell.com/article/olivia-wilde-spanish-style-1920s-home-los-feliz-los-angeles-real-estate-f69b842d>
+
+---
+
+## Tips to Install Cabinets Like a Pro
+
+date: 2024-10-29, from: Family Handyman Blog
+
+<p>Learn the ins and outs of installing kitchen wall cabinets and island cabinets with these pro tips that we've rounded up for you.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/tips-to-install-cabinets-like-a-pro/">Tips to Install Cabinets Like a Pro</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/tips-to-install-cabinets-like-a-pro/>
+
+---
+
+## Why Home Depot Is Making Corporate Employees Work Retail Four Times a Year
+
+date: 2024-10-29, from: Family Handyman Blog
+
+<p>Home Depot's corporate staff will be working in conjunction with retail workers, thanks to a policy the company is implementing. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/why-home-depot-is-making-corporate-employees-work-retail-four-times-a-year/">Why Home Depot Is Making Corporate Employees Work Retail Four Times a Year</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/why-home-depot-is-making-corporate-employees-work-retail-four-times-a-year/>
+
+---
+
+## Do Architectural Design Competitions Make a Difference?
+
+date: 2024-10-29, from: Dwell
+
+Come Home Chicago claimed it could "leverage design as a tool for building local wealth and improving quality of life." One year later, winners are uncertain if any residential housing will actually come of it. 
+
+<br> 
+
+<https://www.dwell.com/article/do-architectural-design-competitions-make-a-difference-ba27782b>
+
+---
+
+## Tips for Growing Lemon Verbena Indoors
+
+date: 2024-10-29, from: The Gardener's Path
+
+<p>Lemon verbena, Aloysia citrodora, is a herb with a woody, shrublike growth habit. Native to South America, it is perennial in USDA Hardiness Zones 8 to 11 and a summer annual or houseplant elsewhere. Learn how to grow lemon verbena indoors for a handy year-round supply of citrus-flavored leaves in this guide. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/herbs/lemon-verbena-indoors/">Tips for Growing Lemon Verbena Indoors</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/herbs/lemon-verbena-indoors/>
+
+---
+
+## Why Toyota Is Recalling 100,000 Trucks and Replacing Engines for Free
+
+date: 2024-10-29, from: Family Handyman Blog
+
+<p>There's been an update in some of the recent Toyota recalls. If you have a truck impacted by the news, there's now a fix. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/why-toyota-is-recalling-100000-trucks-and-replacing-engines-for-free/">Why Toyota Is Recalling 100,000 Trucks and Replacing Engines for Free</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/why-toyota-is-recalling-100000-trucks-and-replacing-engines-for-free/>
 
 ---
 
@@ -35,6 +322,18 @@ date: 2024-10-29, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/are-orchids-poisonous-to-cats-all-you-need-to-know/>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-10-29, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -149,6 +448,18 @@ You don't have to be a celeb to have the red carpet rolled out at hotels. We tal
 <br> 
 
 <https://www.sunset.com/travel/hotels/how-to-get-vip-treatment-at-hotels>
+
+---
+
+## This Newly Remodeled California Property Was Featured in ‘Psycho’
+
+date: 2024-10-28, from: Sunset Magazine - Living in the West
+
+This property outside of Los Angeles has ties to the iconic horror film Psycho. Designer Tanya Stone transformed it into a sanctuary. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/gorman-road-psycho-house>
 
 ---
 
@@ -322,18 +633,6 @@ date: 2024-10-28, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/peppermint-plant-care-and-growing-guide-with-ultimate-tips/>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-10-28, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

@@ -1,11 +1,503 @@
 ---
 title: pacific
-updated: 2024-10-29 08:22:39
+updated: 2024-10-30 07:57:43
 ---
 
 # pacific
 
-(date: 2024-10-29 08:22:39)
+(date: 2024-10-30 07:57:43)
+
+---
+
+## Harris’ closing argument: Turn the page on Trump, and avert chaos
+
+date: 2024-10-30, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; On Jan. 6, 2021, President Donald Trump stood onstage at the Ellipse, a park just south of the White House, and encouraged thousands of his supporters to fight to overturn an election he falsely claimed had been stolen.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/30/nation-world-news/harris-closing-argument-turn-the-page-on-trump-and-avert-chaos/>
+
+---
+
+## New vehicles, face paint and a 1,200-foot fall: The US Army prepares for war with China
+
+date: 2024-10-30, from: Hawaii Tribune Harold
+
+
+				<p>MAUNA LOA, Hawaii &#8212; Early one morning this month, 864 Army paratroopers bundled into C-17 transport planes at a base in Alaska and took off for a Great Power War exercise between three volcanic mountains on the Big Island.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/30/nation-world-news/new-vehicles-face-paint-and-a-1200-foot-fall-the-us-army-prepares-for-war-with-china/>
+
+---
+
+## US job openings hit more than 3-1/2-year low; consumer confidence rebounds
+
+date: 2024-10-30, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. job openings dropped to more than a 3-1/2-year low in September, but nearly all the decline in vacancies was in the South, suggesting that Hurricanes Helene and Milton had temporarily weighed on demand for labor. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/30/nation-world-news/us-job-openings-hit-more-than-3-1-2-year-low-consumer-confidence-rebounds/>
+
+---
+
+## AARP hosts free ‘Positive Approach to Dementia’ workshops on Saturday
+
+date: 2024-10-30, from: Hawaii Tribune Harold
+
+
+				<p>AARP Hawaii is offering free &#8220;Positive Approach to Dementia Care&#8221; workshops on the Big Island in November, National Family Caregivers Month.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/30/community/aarp-hosts-free-positive-approach-to-dementia-workshops-on-saturday/>
+
+---
+
+## Trump ally Steve Bannon ‘far from broken’ after release from prison
+
+date: 2024-10-30, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Steve Bannon, a long-time ally of former U.S. President Donald Trump, was released on Tuesday from prison, where he had been serving a four-month sentence for contempt of Congress. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/30/nation-world-news/trump-ally-steve-bannon-far-from-broken-after-release-from-prison/>
+
+---
+
+## Hezbollah names Naim Qassem as new leader, Israel says he won’t last long
+
+date: 2024-10-30, from: Hawaii Tribune Harold
+
+
+				<p>BEIRUT (Reuters) &#8212; Lebanese armed group Hezbollah named Naim Qassem as its new leader on Tuesday but Israel said his tenure would be &#8220;temporary&#8221;, an apparent threat after it killed his predecessor Hassan Nasrallah in Beirut over a month ago. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/30/nation-world-news/hezbollah-names-naim-qassem-as-new-leader-israel-says-he-wont-last-long/>
+
+---
+
+## Trump calls Madison Square Garden rally a ‘love fest,’ won’t apologize for racist joke about Puerto Rico
+
+date: 2024-10-30, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Former President Donald Trump refused to apologize on Tuesday for racist remarks about Puerto Rico made by a speaker at his Madison Square Garden campaign rally even as outcry continued to grow.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/30/nation-world-news/trump-calls-madison-square-garden-rally-a-love-fest-wont-apologize-for-racist-joke-about-puerto-rico/>
+
+---
+
+## Donations sought for Saturday’s Kaumana school rummage sale
+
+date: 2024-10-30, from: Hawaii Tribune Harold
+
+
+				<p>Do you have stuff just gathering dust in your closets or garage? Donations are welcomed for the annual Kaumana Elementary School PTA Rummage Sale.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/30/community/donations-sought-for-saturdays-kaumana-school-rummage-sale/>
+
+---
+
+## Nation and world news in brief for October 30
+
+date: 2024-10-30, from: Hawaii Tribune Harold
+
+
+				<p>Republican suit targeting &#0010;Pennsylvania overseas &#0010;ballots dismissed</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/30/nation-world-news/nation-and-world-news-in-brief-for-october-30/>
+
+---
+
+## Arbor Day celebration set for Kona
+
+date: 2024-10-30, from: Hawaii Tribune Harold
+
+
+				<p>Arbor Day in Hawaii is this Saturday, Nov. 2.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/30/community/arbor-day-celebration-set-for-kona/>
+
+---
+
+## Concert offers fusion of Navajo melodies, jazz, funk
+
+date: 2024-10-30, from: Hawaii Tribune Harold
+
+
+				<p>Kahilu Theatre in Waimea will host a one-of-a-kind concert featuring the Delbert Anderson Quartet at 7 p.m. on Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/30/community/concert-offers-fusion-of-navajo-melodies-jazz-funk/>
+
+---
+
+## County seeks applicants for boards, commissions
+
+date: 2024-10-30, from: Hawaii Tribune Harold
+
+
+				<p>Mayor Mitch Roth encourages residents to apply for open positions on several of the county&#8217;s boards and commissions.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/30/community/county-seeks-applicants-for-boards-commissions-3/>
+
+---
+
+## CNN bans pro-Trump commentator after offensive ‘beeper’ remark
+
+date: 2024-10-30, from: Hawaii Tribune Harold
+
+
+				<p>CNN banned a right-wing commentator who aimed an offensive comment at another guest that referenced an attack on Hezbollah on Monday&#8217;s edition of &#8220;NewsNight with Abby Phillip.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/30/nation-world-news/cnn-bans-pro-trump-commentator-after-offensive-beeper-remark/>
+
+---
+
+## Countries launch nature coalition at UN COP16 talks, warn of human extinction
+
+date: 2024-10-30, from: Hawaii Tribune Harold
+
+
+				<p>CALI, Colombia &#8212; Colombia at the U.N. COP16 biodiversity talks on Tuesday launched a coalition with 20 other countries seeking to make &#8220;peace with nature,&#8221; as leaders warned that the rapid destruction of the environment risks humanity&#8217;s own extinction. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/30/nation-world-news/countries-launch-nature-coalition-at-un-cop16-talks-warn-of-human-extinction/>
+
+---
+
+## Man who attacked Paul Pelosi is sentenced to life in prison
+
+date: 2024-10-30, from: Hawaii Tribune Harold
+
+
+				<p>David DePape, the intruder who broke into the home of Nancy Pelosi two years ago and bludgeoned her husband with a hammer, was sentenced Tuesday to life in prison without the possibility of parole.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/30/nation-world-news/man-who-attacked-paul-pelosi-is-sentenced-to-life-in-prison/>
+
+---
+
+## Teri Garr, comic actress in offbeat roles, is dead at 79
+
+date: 2024-10-30, from: Hawaii Tribune Harold
+
+
+				<p>Teri Garr, the alternately shy and sassy blond actress whose little-girl voice, deadpan comic timing, expressive eyes and cinematic bravery in the face of seemingly crazy male characters made her a star of 1970s and &#8217;80s movies and earned her an Oscar nomination for her role in &#8220;Tootsie,&#8221; died Tuesday at her home in Los Angeles. She was 79.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/30/nation-world-news/teri-garr-comic-actress-in-offbeat-roles-is-dead-at-79/>
+
+---
+
+## Hawaiian Word of the Week: Hōʻea
+
+date: 2024-10-30, from: University of Hawaiʻi News
+
+<p><span aria-label="Hoea">H&#333;&#699;ea</span>&#8212;To arrive.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/29/hawaiian-word-of-the-week-hoea/">Hawaiian Word of the Week: Hōʻea</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/29/hawaiian-word-of-the-week-hoea/>
+
+---
+
+## Marshall Islands President, UH alumna, honored with Women of Impact Award
+
+date: 2024-10-30, from: University of Hawaiʻi News
+
+<p>The first woman to lead an independent Pacific Island nation in modern times, Hilda Heine has become a symbol of gender equality and women’s empowerment.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/29/marshall-islands-president-uh-alumna-honored-with-women-of-impact-award/">Marshall Islands President, <abbr>UH</abbr> alumna, honored with Women of Impact Award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/29/marshall-islands-president-uh-alumna-honored-with-women-of-impact-award/>
+
+---
+
+## GovGuam reports more revenue surplus 
+
+date: 2024-10-30, from: Pacific Island Times
+
+By Pacific Island Times News Staff The governor's office has reported a surplus of $28.9 million from total revenues of $934 million for... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/govguam-reports-more-revenue-surplus>
+
+---
+
+## USP showcases programmes at HOTEC Tradeshow 2024
+
+date: 2024-10-30, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific (USP), led by the Pacific TAFE, participated in the...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-showcases-programmes-at-hotec-tradeshow-2024/">USP showcases programmes at HOTEC Tradeshow 2024</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/usp-showcases-programmes-at-hotec-tradeshow-2024/>
+
+---
+
+## From UH Hilo softball outfielder to microbiologist
+
+date: 2024-10-30, from: University of Hawaiʻi News
+
+<p>Maria Steadmon has charted an inspiring path from student-athlete to microbiologist in <span aria-label="Hawaii">Hawai&#699;i</span>’s public health sector.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/29/uh-hilo-softball-microbiologist/">From <abbr>UH</abbr> Hilo softball outfielder to microbiologist</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/29/uh-hilo-softball-microbiologist/>
+
+---
+
+## Free online anatomy textbook wins WOW award
+
+date: 2024-10-30, from: University of Hawaiʻi News
+
+<p>The free textbook has the potential to save students hundreds of thousands of dollars.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/29/wow-award/">Free online anatomy textbook wins <abbr>WOW</abbr> award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/29/wow-award/>
+
+---
+
+## Cape-IT&#38;E partnership sets up strategic connectivity in the Pacific
+
+date: 2024-10-30, from: Pacific Island Times
+
+By Pacific Island Times News Staff Arlington, Virginia  – Privacy-first mobile carrier Cape   this week unveiled progress on its work to... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/cape-it-e-partnership-sets-up-strategic-connectivity-in-the-pacific>
+
+---
+
+## Alexander, Lang lead women’s volleyball, earn top honors
+
+date: 2024-10-30, from: University of Hawaiʻi News
+
+<p>Caylen Alexander and Kate Lang have reached career landmarks while helping the Rainbow Wahine.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/29/alexander-lang-earn-top-honors/">Alexander, Lang lead women’s volleyball, earn top honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/29/alexander-lang-earn-top-honors/>
+
+---
+
+## Tori Hiro shines as featured chef at ‘A Taste of Hilo’
+
+date: 2024-10-30, from: University of Hawaiʻi News
+
+<p>Culinary fundraiser showcases <span aria-label="Hawaii">Hawai&#699;i</span> <abbr>CC</abbr>’s farm-to-table emphasis.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/29/tori-hiro-shines-taste-of-hilo/">Tori Hiro shines as featured chef at ‘A Taste of Hilo’</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/29/tori-hiro-shines-taste-of-hilo/>
+
+---
+
+## Geography professor inspires rural development champions in Bangladesh
+
+date: 2024-10-30, from: University of Hawaiʻi News
+
+<p>Professor Brian Szuster hosted a training session in Bangladesh to empower a new generation of rural development professionals.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/29/rural-development-champions-bangladesh/">Geography professor inspires rural development champions in Bangladesh</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/29/rural-development-champions-bangladesh/>
+
+---
+
+## Free statewide college planning events support local students
+
+date: 2024-10-30, from: University of Hawaiʻi News
+
+<p>All events are free and open to all high school students.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/29/free-statewide-college-planning-events/">Free statewide college planning events support local students</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/29/free-statewide-college-planning-events/>
+
+---
+
+## UH expert to lead diversity, inclusion in national project to tackle climate change
+
+date: 2024-10-30, from: University of Hawaiʻi News
+
+<p>Barnett is implementing accountability measures to ensure the center maintains its commitment to diversity throughout the project’s duration.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/29/barnett-erc-earth/"><abbr>UH</abbr> expert to lead diversity, inclusion in national project to tackle climate change</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/29/barnett-erc-earth/>
+
+---
+
+## $10K Soroptimist awards fund groundbreaking women’s research studies
+
+date: 2024-10-30, from: University of Hawaiʻi News
+
+<p>This is the 13th consecutive year that doctoral candidates from <abbr>UH</abbr> Mānoa received these fellowships.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/29/soroptimist-fellowship-2024-awardees/">$10<abbr>K</abbr> Soroptimist awards fund groundbreaking women’s research studies</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/29/soroptimist-fellowship-2024-awardees/>
+
+---
+
+## Palauan found dead, homicide suspected as investigation unfolds
+
+date: 2024-10-29, from: Island Times
+
+<figure><img width="600" height="338" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/dog.jpg?fit=600%2C338&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/dog.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/dog.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/dog.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/dog.jpg?fit=600%2C338&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73470" data-permalink="https://islandtimes.org/palauan-found-dead-homicide-suspected-as-investigation-unfolds/dog-4/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/dog.jpg?fit=600%2C338&amp;ssl=1" data-orig-size="600,338" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.2&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-G988B&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1730211849&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;2.22&quot;,&quot;iso&quot;:&quot;64&quot;,&quot;shutter_speed&quot;:&quot;0.00078864353312303&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="dog" data-image-description="" data-image-caption="&lt;p&gt;Koror State Animal Shelter&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/dog.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/dog.jpg?fit=600%2C338&amp;ssl=1" /></figure>
+<p>A 51-year-old Palauan man, identified as Tellames Johannes, was found dead early Tuesday, October 29, at the Koror State Animal Center in Malakal, where he worked as a security guard. Koror State Rangers discovered his body, and police suspect homicide, though they state the investigation is ongoing. At a press conference held by Vice President [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palauan-found-dead-homicide-suspected-as-investigation-unfolds/">Palauan found dead, homicide suspected as investigation unfolds</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palauan-found-dead-homicide-suspected-as-investigation-unfolds/>
+
+---
+
+## Near drowning incident
+
+date: 2024-10-29, updated: 2024-10-30, from: Marianas Variety
+
+ON Sunday, Oct. 27, 2024, at 2:56 p.m., a near drowning incident was reported at the Kensington Hotel in San Roque. Upon arrival of  police officers, medics from the Department of Fire and Emergency Medical Services were already at the scene rendering life-saving aid to the victim. Officers learned from witnesses that the child was pulled from the water after being found unconscious by friends. Life guards initiated cardio pulmonary resuscitation until the victim regained breathing but remained unconscious. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/near-drowning-incident/article_dea0e70c-9600-11ef-bee0-93153a661d7e.html>
+
+---
+
+## Smoke and dye testing for Oleai on Oct. 31, 2024
+
+date: 2024-10-29, updated: 2024-10-30, from: Marianas Variety
+
+(Commonwealth Utilities Corp.) — Dye and smoke tests will be conducted in Oleai on Thursday, Oct. 31, 2024, from 9 a.m.  to 2 p.m. The purpose of these tests is to locate leaks, breaks, and other connections in CUC’s sewer system. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/smoke-and-dye-testing-for-oleai-on-oct-31-2024/article_24215bf4-9601-11ef-a12e-2fac7d997f91.html>
+
+---
+
+## ‘Let your voices be heard’
+
+date: 2024-10-29, updated: 2024-10-30, from: Marianas Variety
+
+DOZENS of voters lined up to cast their ballots at the Governor Pedro P. Tenorio Multi-Purpose Center in Susupe on Tuesday morning, the first day of the early voting period on Rota, Tinian and Saipan. It will end on Nov. 4. Election Day is on Tuesday, Nov. 5. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/let-your-voices-be-heard/article_99b5fa30-95c2-11ef-8e35-db9fd665940f.html>
+
+---
+
+## Margaret Atwood, unworried by AI, continues prolific writing career
+
+date: 2024-10-29, updated: 2024-10-30, from: Marianas Variety
+
+COPENHAGEN (Reuters) — Renowned Canadian author Margaret Atwood, who is currently writing her memoir, said in an interview that she is too old to be worried about the rise of artificial intelligence and described herself as still having a "good time" writing. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/margaret-atwood-unworried-by-ai-continues-prolific-writing-career/article_b3178882-9607-11ef-8601-c366ae288f57.html>
+
+---
+
+## Curfew aims to ease overtourism in Seoul’s historic Hanok Village
+
+date: 2024-10-29, updated: 2024-10-30, from: Marianas Variety
+
+SEOUL (Reuters) — Kwon Young-doo, owner of a private art gallery in Seoul's historic Bukchon Hanok Village, is concerned about an impending curfew policy aimed at mitigating overtourism in the area. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/curfew-aims-to-ease-overtourism-in-seoul-s-historic-hanok-village/article_8f089890-9608-11ef-8d95-1359bccd23e1.html>
+
+---
+
+## Christopher Reeve's children want to honor his honesty in ‘Super/Man’ film
+
+date: 2024-10-29, updated: 2024-10-30, from: Marianas Variety
+
+LONDON (Reuters) — What makes a hero? "Super/Man: The Christopher Reeve Story" seeks to address that question by looking at the life of the late actor who once played the Man of Steel but was paralyzed following a horse riding accident. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/christopher-reeves-children-want-to-honor-his-honesty-in-super-man-film/article_e92a31d4-9609-11ef-a353-7b2fc4000564.html>
+
+---
+
+## MVA joins Asia Dive Expo Japan in Tokyo
+
+date: 2024-10-29, updated: 2024-10-30, from: Marianas Variety
+
+THE Marianas joined diving destinations from around the globe in promoting its world-class diving and other attractions at Asia Diving Expo Japan held Friday, Oct. 25, through Sunday, Oct. 27, in Tokyo. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/mva-joins-asia-dive-expo-japan-in-tokyo/article_9948275a-9606-11ef-9078-2b194ca0fe36.html>
 
 ---
 
@@ -217,12 +709,40 @@ date: 2024-10-29, from: Hawaii Tribune Harold
 
 ---
 
+## Hawaii campaign aims to prevent aquarium dumping in ocean
+
+date: 2024-10-29, from: Hawaii Tribune Harold
+
+
+				<p>State officials Monday launched a new campaign to prevent the illegal dumping and spread of non-native marine aquarium species in Hawaii waters.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/29/hawaii-news/hawaii-campaign-aims-to-prevent-aquarium-dumping-in-ocean/>
+
+---
+
+## Green ranks sixth nationally in governor approval ratings
+
+date: 2024-10-29, from: Hawaii Tribune Harold
+
+
+				<p>Gov. Josh Green ranks in the top 10 in approval ratings compared with the rest of America&#8217;s governors, according to separate surveys reported this month.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/29/hawaii-news/green-ranks-sixth-nationally-in-governor-approval-ratings/>
+
+---
+
 ## US-Palau Partnership Targets Illegal Fishing Threats in Palauan Exclusive Economic Zone
 
 date: 2024-10-29, from: Island Times
 
-<figure><img width="768" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?fit=768%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?resize=1536%2C2048&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?resize=900%2C1200&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?resize=1200%2C1600&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?resize=1568%2C2091&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?resize=2000%2C2667&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?resize=706%2C941&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?fit=768%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73452" data-permalink="https://islandtimes.org/us-palau-partnership-targets-illegal-fishing-threats-in-palauan-exclusive-economic-zone/20241028_122535/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?fit=1920%2C2560&amp;ssl=1" data-orig-size="1920,2560" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;3.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1730118336&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;18.6&quot;,&quot;iso&quot;:&quot;125&quot;,&quot;shutter_speed&quot;:&quot;0.066666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20241028_122535" data-image-description="" data-image-caption="&lt;p&gt;Captain Jessica Worst, US Coast Guard Forces Micronesia/Sector Guam&lt;/p&gt;
-" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?fit=225%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?fit=768%2C1024&amp;ssl=1" tabindex="0" role="button" /></figure>
+<figure><img width="768" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?fit=768%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?resize=1536%2C2048&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?resize=900%2C1200&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?resize=1200%2C1600&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?resize=1568%2C2091&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?resize=2000%2C2667&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?resize=706%2C941&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?fit=768%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73452" data-permalink="https://islandtimes.org/us-palau-partnership-targets-illegal-fishing-threats-in-palauan-exclusive-economic-zone/20241028_122535/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?fit=1920%2C2560&amp;ssl=1" data-orig-size="1920,2560" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;3.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1730118336&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;18.6&quot;,&quot;iso&quot;:&quot;125&quot;,&quot;shutter_speed&quot;:&quot;0.066666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20241028_122535" data-image-description="" data-image-caption="&lt;p&gt;Captain Jessica Worst, US Coast Guard Forces Micronesia/Sector Guam&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?fit=225%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_122535-scaled.jpg?fit=768%2C1024&amp;ssl=1" /></figure>
 <p>Koror, Palau – In a joint press conference yesterday, President Surangel Whipps Jr. and U.S. Coast Guard officials detailed the challenges Palau faces in protecting its Exclusive Economic Zone (EEZ) from illegal, unregulated, and unreported (IUU) fishing, and announced collaborative efforts to safeguard Palau’s resources. Present were U.S. Ambassador Joel Ehrendreich, Captain Jessica Worst of [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/us-palau-partnership-targets-illegal-fishing-threats-in-palauan-exclusive-economic-zone/">US-Palau Partnership Targets Illegal Fishing Threats in Palauan Exclusive Economic Zone</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -265,7 +785,7 @@ date: 2024-10-29, from: Island Times
 
 date: 2024-10-29, from: Island Times
 
-<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73448" data-permalink="https://islandtimes.org/palau-celebrates-international-day-for-universal-access-to-information/20241028_094836/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?fit=2560%2C1920&amp;ssl=1" data-orig-size="2560,1920" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.7&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1730108917&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.3&quot;,&quot;iso&quot;:&quot;125&quot;,&quot;shutter_speed&quot;:&quot;0.025&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20241028_094836" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?fit=780%2C585&amp;ssl=1" tabindex="0" role="button" /></figure>
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73448" data-permalink="https://islandtimes.org/palau-celebrates-international-day-for-universal-access-to-information/20241028_094836/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?fit=2560%2C1920&amp;ssl=1" data-orig-size="2560,1920" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.7&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1730108917&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.3&quot;,&quot;iso&quot;:&quot;125&quot;,&quot;shutter_speed&quot;:&quot;0.025&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20241028_094836" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/20241028_094836-scaled.jpg?fit=780%2C585&amp;ssl=1" /></figure>
 <p>KOROR, Palau — Palau celebrated the International Day for Universal Access to Information (IDUAI) for the first time yesterday, highlighting the essential role access to information plays in advancing human rights, development, and democracy. Although the official date for IDUAI is September 28, the celebration was postponed due to the busy schedule leading up to [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/palau-celebrates-international-day-for-universal-access-to-information/">Palau Celebrates International Day for Universal Access to Information</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -281,7 +801,7 @@ date: 2024-10-29, from: Island Times
 date: 2024-10-29, from: Island Times
 
 <figure><img width="1024" height="1015" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Ibedul-Alexander-Merep.jpg?fit=1024%2C1015&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Ibedul-Alexander-Merep.jpg?w=1372&amp;ssl=1 1372w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Ibedul-Alexander-Merep.jpg?resize=300%2C297&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Ibedul-Alexander-Merep.jpg?resize=1024%2C1015&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Ibedul-Alexander-Merep.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Ibedul-Alexander-Merep.jpg?resize=768%2C761&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Ibedul-Alexander-Merep.jpg?resize=1200%2C1190&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Ibedul-Alexander-Merep.jpg?resize=400%2C397&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Ibedul-Alexander-Merep.jpg?resize=706%2C700&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Ibedul-Alexander-Merep.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Ibedul-Alexander-Merep.jpg?fit=1024%2C1015&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73443" data-permalink="https://islandtimes.org/korors-bul-promotes-peace-and-respect-while-supporting-local-businesses-operating-hours/ibedul-alexander-merep/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Ibedul-Alexander-Merep.jpg?fit=1372%2C1360&amp;ssl=1" data-orig-size="1372,1360" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.2&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-G988B&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1730127458&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;2.22&quot;,&quot;iso&quot;:&quot;320&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Ibedul Alexander Merep" data-image-description="" data-image-caption="&lt;p&gt;Ibedul Alexander Merep&lt;/p&gt;
-" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Ibedul-Alexander-Merep.jpg?fit=300%2C297&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Ibedul-Alexander-Merep.jpg?fit=780%2C773&amp;ssl=1" tabindex="0" role="button" /></figure>
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Ibedul-Alexander-Merep.jpg?fit=300%2C297&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Ibedul-Alexander-Merep.jpg?fit=780%2C773&amp;ssl=1" /></figure>
 <p>By: Eustoria Marie Borja KOROR, Palau – October 29, 2024 — Following last week’s issuance of a traditional Bul to curb disturbances and restore peace within Koror’s communities, the House of Traditional Leaders (HOTL) confirmed that the decree does not conflict with Palau’s national laws or affect local businesses’ operating hours. The Bul, effective November [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/korors-bul-promotes-peace-and-respect-while-supporting-local-businesses-operating-hours/">Koror’s Bul Promotes Peace and Respect While Supporting Local Businesses’ Operating Hours</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -324,7 +844,7 @@ date: 2024-10-29, from: Island Times
 
 date: 2024-10-29, from: Island Times
 
-<figure><img width="1024" height="587" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot-2024-10-28-at-4.14.jpg?fit=1024%2C587&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot-2024-10-28-at-4.14.jpg?w=2268&amp;ssl=1 2268w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot-2024-10-28-at-4.14.jpg?resize=300%2C172&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot-2024-10-28-at-4.14.jpg?resize=1024%2C587&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot-2024-10-28-at-4.14.jpg?resize=768%2C440&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot-2024-10-28-at-4.14.jpg?resize=1536%2C880&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot-2024-10-28-at-4.14.jpg?resize=2048%2C1174&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot-2024-10-28-at-4.14.jpg?resize=1200%2C688&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot-2024-10-28-at-4.14.jpg?resize=1568%2C899&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot-2024-10-28-at-4.14.jpg?resize=2000%2C1146&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot-2024-10-28-at-4.14.jpg?resize=400%2C229&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot-2024-10-28-at-4.14.jpg?resize=706%2C405&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot-2024-10-28-at-4.14.jpg?fit=1024%2C587&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73438" data-permalink="https://islandtimes.org/palau-reports-unauthorized-entry-of-chinese-research-vessel-for-fourth-consecutive-year/screenshot-2024-10-28-at-4-14/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot-2024-10-28-at-4.14.jpg?fit=2268%2C1300&amp;ssl=1" data-orig-size="2268,1300" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Screenshot 2024-10-28 at 4.14" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot-2024-10-28-at-4.14.jpg?fit=300%2C172&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot-2024-10-28-at-4.14.jpg?fit=780%2C447&amp;ssl=1" tabindex="0" role="button" /></figure>
+<figure><img width="1024" height="587" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot-2024-10-28-at-4.14.jpg?fit=1024%2C587&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot-2024-10-28-at-4.14.jpg?w=2268&amp;ssl=1 2268w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot-2024-10-28-at-4.14.jpg?resize=300%2C172&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot-2024-10-28-at-4.14.jpg?resize=1024%2C587&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot-2024-10-28-at-4.14.jpg?resize=768%2C440&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot-2024-10-28-at-4.14.jpg?resize=1536%2C880&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot-2024-10-28-at-4.14.jpg?resize=2048%2C1174&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot-2024-10-28-at-4.14.jpg?resize=1200%2C688&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot-2024-10-28-at-4.14.jpg?resize=1568%2C899&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot-2024-10-28-at-4.14.jpg?resize=2000%2C1146&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot-2024-10-28-at-4.14.jpg?resize=400%2C229&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot-2024-10-28-at-4.14.jpg?resize=706%2C405&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot-2024-10-28-at-4.14.jpg?fit=1024%2C587&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73438" data-permalink="https://islandtimes.org/palau-reports-unauthorized-entry-of-chinese-research-vessel-for-fourth-consecutive-year/screenshot-2024-10-28-at-4-14/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot-2024-10-28-at-4.14.jpg?fit=2268%2C1300&amp;ssl=1" data-orig-size="2268,1300" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Screenshot 2024-10-28 at 4.14" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot-2024-10-28-at-4.14.jpg?fit=300%2C172&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot-2024-10-28-at-4.14.jpg?fit=780%2C447&amp;ssl=1" /></figure>
 <p>The Office of Palau’s National Security Coordinator (NSC) reported that a Chinese research vessel, Song Hang, entered Palau’s Exclusive Economic Zone (EEZ) without authorization in late August. This marks the fourth consecutive year that Chinese research vessels have entered Palauan waters without permission. The Song Hang, identified as a “research and survey” vessel belonging to [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/palau-reports-unauthorized-entry-of-chinese-research-vessel-for-fourth-consecutive-year/">Palau Reports Unauthorized Entry of Chinese Research Vessel for Fourth Consecutive Year</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -339,7 +859,7 @@ date: 2024-10-29, from: Island Times
 
 date: 2024-10-29, from: Island Times
 
-<figure><img width="363" height="182" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/lebuu-kick-off-meeting.jpg?fit=363%2C182&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/lebuu-kick-off-meeting.jpg?w=363&amp;ssl=1 363w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/lebuu-kick-off-meeting.jpg?resize=300%2C150&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/lebuu-kick-off-meeting.jpg?fit=363%2C182&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/lebuu-kick-off-meeting.jpg?fit=363%2C182&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73436" data-permalink="https://islandtimes.org/lebuus-voyage-kicks-off-a-new-era-of-exploration-in-palaus-marine-sanctuary/lebuu-kick-off-meeting/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/lebuu-kick-off-meeting.jpg?fit=363%2C182&amp;ssl=1" data-orig-size="363,182" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="lebuu kick-off meeting" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/lebuu-kick-off-meeting.jpg?fit=300%2C150&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/lebuu-kick-off-meeting.jpg?fit=363%2C182&amp;ssl=1" tabindex="0" role="button" /></figure>
+<figure><img width="363" height="182" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/lebuu-kick-off-meeting.jpg?fit=363%2C182&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/lebuu-kick-off-meeting.jpg?w=363&amp;ssl=1 363w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/lebuu-kick-off-meeting.jpg?resize=300%2C150&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/lebuu-kick-off-meeting.jpg?fit=363%2C182&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/lebuu-kick-off-meeting.jpg?fit=363%2C182&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73436" data-permalink="https://islandtimes.org/lebuus-voyage-kicks-off-a-new-era-of-exploration-in-palaus-marine-sanctuary/lebuu-kick-off-meeting/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/lebuu-kick-off-meeting.jpg?fit=363%2C182&amp;ssl=1" data-orig-size="363,182" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="lebuu kick-off meeting" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/lebuu-kick-off-meeting.jpg?fit=300%2C150&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/lebuu-kick-off-meeting.jpg?fit=363%2C182&amp;ssl=1" /></figure>
 <p>By Samantha Iyar Koror, Palau – October 29, 2024 – The kickoff meeting for Lebuu&#8217;s Voyage, a significant scientific expedition into the Palau National Marine Sanctuary (PNMS), was held on October 28 at Palasia’s Ming Hall. His Excellency President Surangel Whipps Jr., Senator Umiich Sengebau, and Minister of Agriculture, Fisheries and Environment Steven Victor were [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/lebuus-voyage-kicks-off-a-new-era-of-exploration-in-palaus-marine-sanctuary/">Lebuu&#8217;s Voyage Kicks Off: A New Era of Exploration in Palau&#8217;s Marine Sanctuary</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -354,7 +874,7 @@ date: 2024-10-29, from: Island Times
 
 date: 2024-10-29, from: Island Times
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PNCC-Scholarship-Recipient-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PNCC-Scholarship-Recipient-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PNCC-Scholarship-Recipient-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PNCC-Scholarship-Recipient-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PNCC-Scholarship-Recipient-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PNCC-Scholarship-Recipient-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PNCC-Scholarship-Recipient-scaled.jpeg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PNCC-Scholarship-Recipient-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PNCC-Scholarship-Recipient-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PNCC-Scholarship-Recipient-scaled.jpeg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PNCC-Scholarship-Recipient-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PNCC-Scholarship-Recipient-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PNCC-Scholarship-Recipient-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PNCC-Scholarship-Recipient-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73428" data-permalink="https://islandtimes.org/pncc-scholarship-equips-palauan-students-with-skills-and-career-opportunities/pncc-scholarship-recipient/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PNCC-Scholarship-Recipient-scaled.jpeg?fit=2560%2C1707&amp;ssl=1" data-orig-size="2560,1707" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PNCC Scholarship Recipient" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PNCC-Scholarship-Recipient-scaled.jpeg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PNCC-Scholarship-Recipient-scaled.jpeg?fit=780%2C520&amp;ssl=1" tabindex="0" role="button" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PNCC-Scholarship-Recipient-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PNCC-Scholarship-Recipient-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PNCC-Scholarship-Recipient-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PNCC-Scholarship-Recipient-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PNCC-Scholarship-Recipient-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PNCC-Scholarship-Recipient-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PNCC-Scholarship-Recipient-scaled.jpeg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PNCC-Scholarship-Recipient-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PNCC-Scholarship-Recipient-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PNCC-Scholarship-Recipient-scaled.jpeg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PNCC-Scholarship-Recipient-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PNCC-Scholarship-Recipient-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PNCC-Scholarship-Recipient-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PNCC-Scholarship-Recipient-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73428" data-permalink="https://islandtimes.org/pncc-scholarship-equips-palauan-students-with-skills-and-career-opportunities/pncc-scholarship-recipient/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PNCC-Scholarship-Recipient-scaled.jpeg?fit=2560%2C1707&amp;ssl=1" data-orig-size="2560,1707" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PNCC Scholarship Recipient" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PNCC-Scholarship-Recipient-scaled.jpeg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/PNCC-Scholarship-Recipient-scaled.jpeg?fit=780%2C520&amp;ssl=1" /></figure>
 <p>By: Summer Kennard KOROR, Palau — The Palau National Communications Corporation (PNCC) continues to support young Palauan students’ career ambitions through its scholarship program for Palau Community College (PCC) students, launched in 2020. At an event on Friday, October 25, 2024, at PCC’s Assembly Hall, PNCC highlighted the scholarship’s impact on students entering the workforce [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/pncc-scholarship-equips-palauan-students-with-skills-and-career-opportunities/">PNCC Scholarship Equips Palauan Students with Skills and Career Opportunities</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -383,7 +903,7 @@ date: 2024-10-29, from: Island Times
 
 date: 2024-10-29, from: Island Times
 
-<figure><img width="1024" height="473" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241028_231009_Drive2.jpg?fit=1024%2C473&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241028_231009_Drive2.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241028_231009_Drive2.jpg?resize=300%2C138&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241028_231009_Drive2.jpg?resize=1024%2C473&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241028_231009_Drive2.jpg?resize=768%2C354&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241028_231009_Drive2.jpg?resize=1536%2C709&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241028_231009_Drive2.jpg?resize=2048%2C945&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241028_231009_Drive2.jpg?resize=1200%2C554&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241028_231009_Drive2.jpg?resize=1568%2C724&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241028_231009_Drive2.jpg?resize=2000%2C923&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241028_231009_Drive2.jpg?resize=400%2C185&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241028_231009_Drive2.jpg?resize=706%2C326&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241028_231009_Drive2.jpg?fit=1024%2C473&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73425" data-permalink="https://islandtimes.org/ancient-terraces-of-palau-unveiling-a-monumental-heritage-through-new-video-series/screenshot_20241028_231009_drive2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241028_231009_Drive2.jpg?fit=2340%2C1080&amp;ssl=1" data-orig-size="2340,1080" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Screenshot_20241028_231009_Drive2" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241028_231009_Drive2.jpg?fit=300%2C138&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241028_231009_Drive2.jpg?fit=780%2C360&amp;ssl=1" tabindex="0" role="button" /></figure>
+<figure><img width="1024" height="473" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241028_231009_Drive2.jpg?fit=1024%2C473&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241028_231009_Drive2.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241028_231009_Drive2.jpg?resize=300%2C138&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241028_231009_Drive2.jpg?resize=1024%2C473&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241028_231009_Drive2.jpg?resize=768%2C354&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241028_231009_Drive2.jpg?resize=1536%2C709&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241028_231009_Drive2.jpg?resize=2048%2C945&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241028_231009_Drive2.jpg?resize=1200%2C554&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241028_231009_Drive2.jpg?resize=1568%2C724&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241028_231009_Drive2.jpg?resize=2000%2C923&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241028_231009_Drive2.jpg?resize=400%2C185&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241028_231009_Drive2.jpg?resize=706%2C326&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241028_231009_Drive2.jpg?fit=1024%2C473&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73425" data-permalink="https://islandtimes.org/ancient-terraces-of-palau-unveiling-a-monumental-heritage-through-new-video-series/screenshot_20241028_231009_drive2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241028_231009_Drive2.jpg?fit=2340%2C1080&amp;ssl=1" data-orig-size="2340,1080" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Screenshot_20241028_231009_Drive2" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241028_231009_Drive2.jpg?fit=300%2C138&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/Screenshot_20241028_231009_Drive2.jpg?fit=780%2C360&amp;ssl=1" /></figure>
 <p>A new video series spotlighting Palau&#8217;s unique cultural heritage is set to launch with Palau’s Ancient Earthworks: Monumentality, the first of three planned releases. The video delves into the significance of Palau’s expansive terraces, which highlight an ancient society that was powerful, wealthy, and adept in engineering, architecture, soil mechanics, and hydrology. Palauan terraces, dating [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/ancient-terraces-of-palau-unveiling-a-monumental-heritage-through-new-video-series/">Ancient Terraces of Palau: Unveiling a Monumental Heritage through New Video Series</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -398,7 +918,7 @@ date: 2024-10-29, from: Island Times
 
 date: 2024-10-29, from: Island Times
 
-<figure><img width="900" height="900" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/unnamed.jpg?fit=900%2C900&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/unnamed.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/unnamed.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/unnamed.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/unnamed.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/unnamed.jpg?resize=800%2C800&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/unnamed.jpg?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/unnamed.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/unnamed.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/unnamed.jpg?resize=706%2C706&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/unnamed.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/unnamed.jpg?fit=900%2C900&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73423" data-permalink="https://islandtimes.org/the-renovation-of-the-inner-castle-dont-waste-your-pain/unnamed-25/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/unnamed.jpg?fit=900%2C900&amp;ssl=1" data-orig-size="900,900" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="unnamed" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/unnamed.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/unnamed.jpg?fit=780%2C780&amp;ssl=1" tabindex="0" role="button" /></figure>
+<figure><img width="900" height="900" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/unnamed.jpg?fit=900%2C900&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/unnamed.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/unnamed.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/unnamed.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/unnamed.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/unnamed.jpg?resize=800%2C800&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/unnamed.jpg?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/unnamed.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/unnamed.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/unnamed.jpg?resize=706%2C706&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/unnamed.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/unnamed.jpg?fit=900%2C900&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73423" data-permalink="https://islandtimes.org/the-renovation-of-the-inner-castle-dont-waste-your-pain/unnamed-25/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/unnamed.jpg?fit=900%2C900&amp;ssl=1" data-orig-size="900,900" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="unnamed" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/unnamed.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/10/unnamed.jpg?fit=780%2C780&amp;ssl=1" /></figure>
 <p>I was not abused physically as a child.&#160; However, I was emotionally neglected. I survived by either ignoring the abusers or&#160; responding with fire. I was misunderstood. My behaviors brought chaos and labeling and&#160; name-calling. My family needed a scapegoat in order to survive and I became one.&#160; Looking back it led me to my [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/the-renovation-of-the-inner-castle-dont-waste-your-pain/">The Renovation of the Inner Castle (Don&#8217;t waste your pain)</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -836,6 +1356,20 @@ By Pacific Island Times News Staff The Guam Women’s Chamber of Commerce has id
 <br> 
 
 <https://www.pacificislandtimes.com/post/guam-women-s-chamber-of-commerce-releases-legislative-impact-report-gives-nod-to-6-business-and-hea>
+
+---
+
+## N-POC workshop highlights significance of publishing research in academic journals
+
+date: 2024-10-28, from: University of the South Pacific (Fiji)
+
+<p>The Norway-Pacific Ocean-Climate Scholarship Programme (N-POC) team at The University of the South Pacific (USP)...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/n-poc-workshop-highlights-significance-of-publishing-research-in-academic-journals/">N-POC workshop highlights significance of publishing research in academic journals</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/n-poc-workshop-highlights-significance-of-publishing-research-in-academic-journals/>
 
 ---
 

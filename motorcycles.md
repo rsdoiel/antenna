@@ -1,11 +1,72 @@
 ---
 title: motorcycles
-updated: 2024-10-29 08:22:43
+updated: 2024-10-30 07:57:47
 ---
 
 # motorcycles
 
-(date: 2024-10-29 08:22:43)
+(date: 2024-10-30 07:57:47)
+
+---
+
+## Polaris' New RZR Pro R "Race Replica" Can't Race, But It's Still Cool
+
+date: 2024-10-30, from: Ride Apart, Electric Motorcycle News
+
+This isn't the patent we discovered a while back, unfortunately.  
+
+<br> 
+
+<https://www.rideapart.com/news/739162/polaris-rzr-pro-r-race-replica-limited-edition-utv/>
+
+---
+
+## Yamaha Heard You Like Lights, So The New Tracer 9 GT+ Gets Lights for Days
+
+date: 2024-10-30, from: Ride Apart, Electric Motorcycle News
+
+That's just one of several rider experience-focused updates, and Y-AMT is also an option now. 
+
+<br> 
+
+<https://www.rideapart.com/news/739159/2025-yamaha-tracer-9-europe/>
+
+---
+
+## Suzuki’s GSX-8S Team Suzuki Edition Is My Kind Of Track-Ready Naked Bike
+
+date: 2024-10-30, from: Ride Apart, Electric Motorcycle News
+
+Tape up the headlight, whack off the mirrors, and get some hot laps in. 
+
+<br> 
+
+<https://www.rideapart.com/news/739058/suzuki-gsx8s-team-suzuki-edition-italy-only/>
+
+---
+
+## Motorcyclist Gets Trapped Under Bike, Two Elk Hunters Find and Save Him
+
+date: 2024-10-30, from: Ride Apart, Electric Motorcycle News
+
+The kindness of others cannot be discounted. As well as onX Hunt.  
+
+<br> 
+
+<https://www.rideapart.com/news/739155/motorcyclist-trapped-hunters-save-rescue-onx-hunt/>
+
+---
+
+## I Wish the Kawasaki Elektrode Was Around When I Was a Kid
+
+date: 2024-10-30, from: Ride Apart, Electric Motorcycle News
+
+Tomorrow’s riders will definitely be better than ever before. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/739053/2025-kawasaki-elektrode-20-kids-electric-bike/>
 
 ---
 
@@ -131,7 +192,7 @@ All three participants get a sub-$3K challenge, and TBM's is American. Any guess
 
 ---
 
-## North Idaho Snowmobiling Thrown into Disarry After Last-Minute Wrench
+## North Idaho Snowmobiling Thrown into Disarray After Last-Minute Wrench
 
 date: 2024-10-28, from: Ride Apart, Electric Motorcycle News
 

@@ -1,11 +1,878 @@
 ---
 title: north america
-updated: 2024-10-29 08:22:39
+updated: 2024-10-30 07:57:42
 ---
 
 # north america
 
-(date: 2024-10-29 08:22:39)
+(date: 2024-10-30 07:57:42)
+
+---
+
+## US economy grew at a solid 2.8% pace last quarter on strength of consumer spending
+
+date: 2024-10-30, from: VOA News USA
+
+Washington — The U.S. economy grew at a healthy 2.8% annual rate from July through September, with consumers helping drive growth despite the weight of still-high interest rates. 
+
+
+Wednesday's report from the Commerce Department said the gross domestic product — the economy's total output of goods and services — did slow slightly from its 3% growth rate in the April-June quarter. But the latest figures still reflect surprising durability just as Americans assess the state of the economy in the final stretch of the presidential race. 
+
+
+Consumer spending, which accounts for about 70% of U.S. economic activity, accelerated to a 3.7% annual pace last quarter, up from 2.8% in the April-June period. Exports also contributed to the third quarter's growth, increasing at an 8.9% rate. 
+
+
+On the other hand, growth in business investment slowed sharply on a drop in investment in housing and in nonresidential buildings such as offices and warehouses. But spending on equipment surged. 
+
+
+The report is the first of three estimates the government will make of GDP growth for the third quarter of the year. The U.S. economy has continued to expand in the face of the much higher borrowing rates the Federal Reserve imposed in 2022 and 2023 in its drive to curb inflation. Despite widespread predictions that the economy would succumb to a recession, it has kept growing, with employers still hiring and consumers still spending. 
+
+
+In a sign that the nation's households, whose purchases drive most of the economy, will continue spending, the Conference Board said Tuesday that its consumer confidence index posted its biggest monthly gain since March 2021. The proportion of consumers who expect a recession in the next 12 months dropped to its lowest point since the board first posed that question in July 2022. 
+
+
+
+
+At the same time, the nation's once-sizzling job market has lost some momentum. On Tuesday, the government reported that the number of job openings in the United States fell in September to its lowest level since January 2021. And employers have added an average of 200,000 jobs a month so far this year — a healthy number but down from a record 604,000 in 2021 as the economy rebounded from the pandemic recession, 377,000 in 2022 and 251,000 in 2023. 
+
+
+On Friday, the Labor Department is expected to report that the economy added 120,000 jobs in October. That gain, though, will probably have been significantly held down by the effects of Hurricanes Helene and Milton and by a strike at Boeing, the aviation giant, all of which temporarily knocked thousands of people off payrolls. 
+
+
+
+
+Wednesday's report contained some encouraging news on inflation. The Fed's favored inflation gauge — called the personal consumption expenditures index, or PCE — rose at just a 1.5% annual pace last quarter, down from 2.5% in the second quarter and the lowest figure in more than four years. Excluding volatile food and energy prices, so-called core PCE inflation was 2.2%, down from 2.8% in the April-June quarter. 
+
+
+Despite the continued progress on inflation, average prices still far exceed their pre-pandemic levels, which has exasperated many Americans and posed a challenge to Vice President Kamala Harris' prospects in her race against former President Donald Trump. Most mainstream economists have suggested, though, that Trump's policy proposals, unlike Harris', would worsen inflation. 
+
+
+
+
+At its most recent meeting last month, the Fed was satisfied enough with its progress against inflation — and concerned enough by the slowing job market — to slash its benchmark rate by a hefty half percentage point, its first and largest rate cut in more than four years. When it meets next week, the Fed is expected to announce another rate cut, this one by a more typical quarter-point. 
+
+
+The central bank's policymakers have also signaled that they expect to cut their key rate again at their final two meetings this year, in November and December. And they envision four more rate cuts in 2025 and two in 2026. The cumulative result of the Fed's rate cuts, over time, will likely be lower borrowing rates for consumers and businesses. 
+
+<br> 
+
+<https://www.voanews.com/a/7844694.html>
+
+---
+
+## New York media outlet connects immigrants with news and resources
+
+date: 2024-10-30, from: VOA News USA
+
+New York — On a drizzly day in New York's Chinatown, journalist April Xu suggested stopping at a bakery for a snack. 
+
+
+"But not Fay Da," she said, referring to a bakery on the nearby corner. 
+
+
+Xu doesn't go to Fay Da Bakery anymore. Not since she reported on how New York's largest Chinese bakery chain had allegedly stolen hundreds of thousands of dollars in wages from its employees. 
+
+
+Many people feel connected to the famous bakery, Xu told VOA. "When they saw the news, they were shocked," she said. 
+
+
+In April, the bakery agreed to a $940,000 settlement to resolve claims by former and current employees.
+
+
+It was a big story — the kind that the nonprofit media outlet Documented, where she works, likes to tell. Under-covered stories on issues such as wage theft and housing are the focus of this immigrant-focused news outlet.
+
+
+With immigration a polarizing issue in the U.S. presidential election, the news outlet finds itself balancing its typical coverage with debunking false claims. As racist, anti-immigrant rhetoric is pushed by the far-right, Documented's team sees their local coverage of immigration as crucial.
+
+
+The inspiration for Documented came from dissatisfaction with how mainstream media often covered immigration, said co-founder Mazin Sidahmed.
+
+
+ 
+
+
+
+
+Born in Sudan, Sidahmed worked for The Guardian in New York and other media before helping set up his own outlet in 2018.
+
+
+"No one was really covering how those big federal policy shifts were playing out at the local level in big cities like New York, where most immigrants actually live," Sidahmed told VOA at the outlet's office in the Financial District. 
+
+
+"There was a real hole and a need for a site that was covering how federal immigration policy was playing out locally," he said.
+
+
+A commitment to meeting the audience's needs has been central to Documented's success, Sidahmed said. 
+
+
+Early on, the outlet launched a needs assessment focused on Spanish-speaking audiences. It was hugely successful in figuring out how to best serve that community, according to Sidahmed.
+
+
+They found that respondents felt that they were typically portrayed in the media as either criminals or victims, and they wanted news that would help them navigate government resources. 
+
+
+When Documented learned that the community got most of its news from WhatsApp groups, it started a Spanish-language news service on the app.
+
+
+"Over the past five years, it has really grown into an engine that's driving a lot of our most powerful journalism," Sidahmed said. "But getting it to that point was incredibly hard and challenging, and it involved building a lot of trust." 
+
+
+In addition to English and Spanish, Documented publishes in Mandarin and Haitian Creole. To better serve the Chinese community, Documented operates a news account on WeChat. For the Caribbean community, it uses the platform NextDoor. 
+
+
+"We feel that we can't ask people to go to our website to consume news every day. We should deliver the news to them," Xu said.
+
+
+Platforms like WhatsApp and WeChat are two-way streets. Documented delivers news, and audiences can directly contact reporters with story tips or questions. 
+
+
+That way, said Sidahmed, Documented can produce content that is in service of their needs.
+
+
+It also publishes content that helps audiences navigate government bureaucracy or access resources. 
+
+
+"I don't think there's any mainstream news outlet that is really working with immigrants directly in that way, to serve them, as opposed to just covering them," said Fisayo Okare. Originally from Nigeria, she writes the outlet's newsletter.
+
+
+In 2022, New York City was home to about 3.1 million immigrants — accounting for 38% of the city's total population — according to a report from the mayor's office. 
+
+
+Many of Documented's staffers count themselves among that population. Okare thinks their work is enhanced by the team's background.
+
+
+"As an immigrant myself, I tend to understand what other immigrants are going through," she said. "We pride ourselves on not just writing about immigrants but writing for them." 
+
+
+More recently, that has included correcting baseless claims about illegal immigration, including conspiracy theories that candidate Donald Trump repeated about Haitians in Ohio.
+
+
+"Our role during this time has been to put out the right information whenever just completely wrong or inaccurate information is shared," Okare said. 
+
+
+Documented has also bucked trends in the U.S., where the local news industry has been struggling for years.
+
+
+Over the past two decades, the U.S. has lost more than one-third of its newspapers, according to a 2024 report by Northwestern University's Local News Initiative. Almost 55 million people across the country have limited to no access to local news, the report found. 
+
+
+"When a city loses a local news institution, it has all of these other catastrophic effects on the city. People start to see their local issues in this nationalized lens and don't feel as tethered and connected to their communities," Sidahmed said.
+
+
+The journalist is optimistic about the future. Documented is aiming to become the leading news source for the communities it is covering in New York, he said. 
+
+
+"We see an opportunity to rebuild local news and rewrite that contract between local news outlets and the communities that have typically had bad relationships with local news," he said. 
+
+<br> 
+
+<https://www.voanews.com/a/new-york-media-outlet-connects-immigrants-with-news-and-resources/7844618.html>
+
+---
+
+## Climate Change Is Bad for Your Health
+
+date: 2024-10-30, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MzgyMjY2OC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2ODkwNTA3OX0.s43oZVwCc1YquRNRsE0ELGXNpaTMk8nStcdM1r1M0dI/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>
+<em><strong>Current conditions:</strong> <em> <em>At least 51 people were killed by flash floods in Spain yesterday • Rapidly intensifying Super Typhoon Kong-rey is barreling toward Taiwan • Mount Fuji has yet to see snow this year, marking the latest date the mountain has been bare in 130 years.</em></em></em>
+</p><h2>THE TOP FIVE</h2><h3>
+1. ‘Lancet’ Countdown shows new records for climate change’s impact on human health</h3><p>
+			British medical journal 
+	<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01822-1/fulltext?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9d4LqY4Ee8lpGR2QMtrlwAqIin_dTs64VemvyGiEH0RdjikEmPk3RFwofWZhYZi9FVIBPZ#sec-1" rel="noopener noreferrer" target="_blank"><em>The Lancet</em>’s annual report</a> tracking climate change and public health paints a stark picture of worsening heat-related deaths, food insecurity, and exposure to life-threatening diseases. The authors find that 10 of their 15 indicators for climate change-related health hazards “reached concerning new records.” These impacts are, of course, not hitting everyone equally. Heat-related deaths among people over 65 were 167% higher last year than in the 1990s. The global population also lost 6% more sleep due to heat than the average between 1986 and 2005, with the worst impacts seen in the Middle East and sub-Saharan Africa. <br/>
+<br/>
+	The authors warn that that oil and gas companies are reinforcing global dependence on their product. “The relentless expansion of fossil fuels and record-breaking greenhouse gas emissions compounds these dangerous health impacts, and is threatening to reverse the limited progress made so far and put a healthy future further out of reach,” Marina Romanello, executive director of the Lancet Countdown 
+	<a href="https://www.theguardian.com/environment/2024/oct/30/record-levels-of-heat-related-deaths-in-2023-due-to-climate-crisis-report-finds?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9d4LqY4Ee8lpGR2QMtrlwAqIin_dTs64VemvyGiEH0RdjikEmPk3RFwofWZhYZi9FVIBPZ" rel="noopener noreferrer" target="_blank">told <em>The Guardian</em></a>.
+</p><h3>2. First East Coast floating wind projects get leases<br/>
+</h3><p>
+	An offshore wind lease sale in the Gulf of Maine yesterday ended with two bidders offering a combined $22 million for the rights to develop projects on four ocean tracts. While that’s only half of the leases that were up for sale, the results were 
+	<a href="https://heatmap.news/climate/maine-offshore-wind-auction?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9d4LqY4Ee8lpGR2QMtrlwAqIin_dTs64VemvyGiEH0RdjikEmPk3RFwofWZhYZi9FVIBPZ" target="_self">better than many local advocates had hoped for</a> considering the uncertainty for the industry related to the upcoming election. <a href="https://heatmap.news/climate/what-trump-could-do-to-offshore-wind?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9d4LqY4Ee8lpGR2QMtrlwAqIin_dTs64VemvyGiEH0RdjikEmPk3RFwofWZhYZi9FVIBPZ" target="_self">As Heatmap’s Matthew Zeitlin has written</a>, “Trump has special contempt for wind energy in all its forms — to him, all wind turbines are bird murderers, but offshore turbines are especially deadly.” Trump has promised to shut down the industry on “day one.”
+</p><p>
+	If fully developed, the leases could generate 6.8 gigawatts of electricity, or enough to power about 2.3 million homes, according to the Bureau of Ocean Energy Management. But that part of the ocean is deep, and the projects will need to utilize still-nascent floating offshore wind technology.
+</p><h3>3. Biden awards $3 billion to clean up ports</h3><p>
+			The Biden administration announced the 
+	<a href="https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/29/fact-sheet-president-joe-biden-announces-3-billion-to-strengthen-port-infrastructure-create-good-paying-and-union-jobs-bring-cleaner-air-to-communities/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9d4LqY4Ee8lpGR2QMtrlwAqIin_dTs64VemvyGiEH0RdjikEmPk3RFwofWZhYZi9FVIBPZ" target="_blank">winners of the Clean Ports program</a> on Tuesday, a $3 billion grant program created by the Inflation Reduction Act to reduce toxic air pollution and carbon emissions at the nation’s shipping hubs. The 55 grants across 27 states and territories will support the electrification of cargo handling equipment, drayage trucks, trains, and ferries, as well as solar power projects and EV charging infrastructure. The projects are expected to cut more than 3 million metric tons of CO2 over the first 10 years of implementation. For context, the three largest U.S. ports emitted more than 2.5 million tons of CO2 in 2019.
+</p><h3>4. Satellites can help fight air pollution</h3><p>
+			A 
+	<a href="https://www.lung.org/media/press-releases/fy25-something-in-the-air-release?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9d4LqY4Ee8lpGR2QMtrlwAqIin_dTs64VemvyGiEH0RdjikEmPk3RFwofWZhYZi9FVIBPZ" rel="noopener noreferrer" target="_blank">report</a> from the American Lung Association published this morning highlights the potential for satellites to improve our understanding of air quality. New methods for translating measurements of various gases and particles into estimates of ground-level pollution can help fill data gaps in communities that don’t have local air quality monitoring systems. Nearly two-thirds of U.S. counties lack monitoring stations, the report says, whether due to cost constraints, low population density, or rapid land use change. The authors identified 300 counties with incomplete or no monitoring data that likely had unhealthy levels of air pollution in 2020, 2021, and 2022.
+</p><h3>5. A sneak(i)er carbon offset scandal</h3><p>
+			The indefatigable Ben Elgin at <em>Bloomberg</em> has <a href="https://www.bloomberg.com/news/features/2024-10-29/vintage-nike-air-shoes-expose-flaw-in-700-million-carbon-market?srnd=phx-green&utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9d4LqY4Ee8lpGR2QMtrlwAqIin_dTs64VemvyGiEH0RdjikEmPk3RFwofWZhYZi9FVIBPZ" rel="noopener noreferrer" target="_blank">uncovered</a> yet another problem in the carbon market. Twenty years ago, Nike created millions of carbon credits tied to the sneaker brand’s efforts to stop using sulfur hexafluoride, a powerful greenhouse gas that was previously pumped into its soles. Now, ACR, formerly known as the American Carbon Registry, has disclosed that more than a million of those credits are in its “buffer pool,” which is supposed to provide insurance for buyers. If a forestry project in the registry burns, for example, credits set aside in the buffer pool can be cancelled to make up for the loss.<br/>
+<br/>
+			But Nike’s credits were basically meaningless to begin with — the decision to change the shoes had nothing to do with the carbon market, Nike confirmed to <em>Bloomberg</em> — and they’re even more meaningless 20 years later. “It was a somewhat notorious project for those of us in the North American carbon market 15 years ago,” Derik Broekhoff, a senior scientist at the Stockholm Environment Institute, told Elgin.
+		</p><h2>THE KICKER</h2><p>
+	Driverless Waymo vehicles now complete <a href="https://x.com/Waymo/status/1851365483972538407?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9d4LqY4Ee8lpGR2QMtrlwAqIin_dTs64VemvyGiEH0RdjikEmPk3RFwofWZhYZi9FVIBPZ" rel="noopener noreferrer" target="_blank">more than 150,000</a> passenger trips per week. “If ‘driverless Waymo car’ were a transit system, it would be the nation’s 11th most used, between Miami Metrorail and the Staten Island Railway,” <a href="https://bsky.app/profile/arpitrage.bsky.social/post/3l7oklgpsnp2h?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9d4LqY4Ee8lpGR2QMtrlwAqIin_dTs64VemvyGiEH0RdjikEmPk3RFwofWZhYZi9FVIBPZ" rel="noopener noreferrer" target="_blank">according to NYU Stern professor Arpit Gupta</a>.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="A self-driving Waymo on the streets of Los Angeles. " class="rm-shortcode" data-rm-shortcode-id="05f93f63acb688f92f9b5c3239d8e6b0" data-rm-shortcode-name="rebelmouse-image" id="ae87e" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDA4Njk2MC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc0MTExNTMzOH0.YU_dVdhScX5g04ScWdJeZkFN3TL9rUSSipqfmoyGB10/image.jpg?width=980"/>
+<small class="image-media media-caption" placeholder="Add Photo Caption...">A self-driving Waymo on the streets of Los Angeles. </small><small class="image-media media-photo-credit" placeholder="Add Photo Credit...">Mario Tama/Getty Images</small></p> 
+
+<br> 
+
+<https://heatmap.news/climate/lancet-countdown-waymo-nike>
+
+---
+
+## The legal gray area of an Elon Musk giveaway
+
+date: 2024-10-30, from: Marketplace Morning Report
+
+<p>Philadelphia’s district attorney sued billionaire Elon Musk earlier this week over a controversial $1 million-a-day giveaway to registered voters, alleging that it is an “unlawful lottery.” Musk is conducting this through his pro-Donald Trump political action committee, called America PAC. On today&#8217;s program: a look at where Elon Musk and his super PAC’s “sweepstakes” fit into campaign finance rules. But first, what are experts anticipating from September&#8217;s PCE inflation report?</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/30/mmr_20241030_MMR_Podcast_2_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/the-legal-gray-area-of-an-elon-musk-giveaway&awCollectionId=mkp-MMR&awGenre=%5B"Talk","News","Business"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report"></source>
+</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/30/mmr_20241030_MMR_Podcast_2_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/the-legal-gray-area-of-an-elon-musk-giveaway&awCollectionId=mkp-MMR&awGenre=%5B\"Talk\",\"News\",\"Business\"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/the-legal-gray-area-of-an-elon-musk-giveaway>
+
+---
+
+## A tale of two European economies
+
+date: 2024-10-30, from: Marketplace Morning Report
+
+<p><em>From the BBC World Service</em>: First, it&#8217;s the &#8220;worst of times&#8221; camp. While Germany&#8217;s economy grew unexpectedly, German-based car company Volkswagen announced major layoffs and plant closures. We&#8217;ll discuss some of the reasons and the fallout. Then, it&#8217;s the &#8220;best of times&#8221; for Spain&#8217;s economy, which exceeded expectations with 0.8% growth. We&#8217;ll walk through the reasons why, and hear why these macroeconomic gains might not be felt by everyday Spaniards.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/30/mmr_20241030_MMR_Podcast_1_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/a-tale-of-two-european-economies&awCollectionId=mkp-MMR&awGenre=%5B"Talk","News","Business"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report"></source>
+</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/30/mmr_20241030_MMR_Podcast_1_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/a-tale-of-two-european-economies&awCollectionId=mkp-MMR&awGenre=%5B\"Talk\",\"News\",\"Business\"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/a-tale-of-two-european-economies>
+
+---
+
+## Redoxblox Raises $40.7 Million for ‘Thermochemical’ Energy Storage
+
+date: 2024-10-30, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDAyMDU3MS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTczNDkwNjA2N30.jRsiODySV8DqRt_SPUQ2cFRae8Ruydv6XLvfLGiNLgM/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">Decarbonizing industrial processes such as paper and pulp production, chemical manufacturing, or food processing is a tough sell. As it so often goes, that’s largely due to the efficacy and low cost of natural gas, which can cheaply and efficiently provide the high heat required for these industries. But a number of <a href="https://heatmap.news/technology/antora-rondo-energy-thermal-batteries" target="_self">innovative battery companies</a> are looking to shake up that dynamic, and the latest, Redoxblox, just gained a big vote of confidence. </p><p>Today, the San Diego-based startup announced the close of its $40.7 million Series A round, which it raised in two tranches. The first <a href="https://www.sec.gov/Archives/edgar/data/1939750/000193975022000001/xslFormDX01/primary_doc.xml" rel="noopener noreferrer" target="_blank"><u>$9.4 million tranche, </u></a> back in 2022, was <a href="https://www.businesswire.com/news/home/20240111260321/en/RedoxBlox-Receives-25M-to-Demonstrate-Its-Pioneering-Long-Duration-Thermochemical-Energy-Storage-Technology#:~:text=In%20addition%20to%20Khosla%20Ventures%2C%20RedoxBlox%20is%20backed%20by%20top%20climate%20technology%20firms%2C%20including%20Breakthrough%20Energy%20Ventures%20(BEV).%20BEV%20led%20the%20company%E2%80%99s%20Seed%20round%20and%20participated%20in%20its%20Series%20A%20fundraise." rel="noopener noreferrer" target="_blank"><u>led by Khosla Ventures,</u></a> with participation from  Breakthrough Energy Ventures. The latest $31.3 million raise, announced today, was led by the climate tech investor Prelude Ventures, with participation from Imperative Ventures and New System Ventures, alongside BEV and Khosla. While Redoxblox didn’t respond to an inquiry about why it raised these two tranches so far apart, an SEC filing reveals that the company initially aimed to raise $22.4 million in 2022, indicating that it fell far short of its original goal. </p><p>Now though, the company looks poised for growth, and has announced the appointment of a new CEO, Pasquale Romano, formerly the CEO of ChargePoint, which operates a network of EV charging stations. </p><p>Redoxblox’s technology is known as “thermochemical energy storage,” as the system stores energy both chemically and as heat. “What the founders have discovered is a real scientific breakthrough,” Scott McNally, the company’s vice president of development, told me. He said that Redoxblox is mistakenly lumped in with thermal storage startups such as <a href="https://heatmap.news/sparks/rondo-battery-deal" target="_self"><u>Rondo</u></a> or Antora all the time. But the company’s thermochemical solution is a new class of energy storage entirely. “Yes, we store energy as heat, but we also store energy in chemical bonds. That's why fossil fuels are so widely adopted, is because the amount of energy contained in a chemical bond is enormous,” McNally explained. This allows Redoxblox to achieve both very high energy density and very high temperatures. </p><p>The system uses grid electricity to charge when prices are low or when there’s excess renewable generation. As electricity passes through the company’s proprietary metal oxide storage pellets, they’re resistively heated (like a toaster!) up to 1,500 degrees Celsius. When they hit a certain temperature, this drives a “redox reaction,” which is a kind of reaction in which electrons are transferred between two substances. In Redoxblox’s case, the pellets release pure oxygen gas and absorb heat, which is stored as chemical energy. To discharge that heat, a pump blows air across the hot pellets; as the air heats up and the pellets absorb oxygen from it, that oxygen-depleted air can then be delivered as heat to power various industrial processes or to gas turbines to generate electricity. </p><p>The redox reaction the company relies upon has been understood since the 1800s — what’s exciting is the proprietary metal oxide the company’s founders discovered, which can cycle through this reaction again and again. “The problem with fossil fuels is you can't take a lump of ash from burning coal, run electricity through it, and make coal again. But with this, you actually can,” McNally told me. “We've cycled our material through that more than 1,000 times with no loss of energy density, no degradation.”</p><p>Redoxblox’s Series A funding comes in addition to about $17 million in non-dilutive capital that the company has already received from an ARPA-E grant, as well as <a href="https://www.businesswire.com/news/home/20240111260321/en/RedoxBlox-Receives-25M-to-Demonstrate-Its-Pioneering-Long-Duration-Thermochemical-Energy-Storage-Technology" rel="noopener noreferrer" target="_blank"><u>more recent grants</u></a> from the Department of Energy and the California Energy Commission, which will go towards building the company's first industrial demonstration projects. <a href="https://www.energy.gov/nepa/articles/cx-031193-decarbonization-steam-generation-chemical-process-heating-through" rel="noopener noreferrer" target="_blank"><u>The $6.7 million DOE grant</u></a> supports RedoxBlox’s partnership with Dow Chemicals, in which the startup will retrofit a gas-fired steam boiler with its thermochemical battery at Dow’s manufacturing plant in Charleston, West Virginia. And the CEC grant will support the buildout of a 3 megawatt-hour long-duration energy storage system for UC San Diego’s medical campus, which will provide 24 hours of electricity in the case of a power outage. </p><p>Romano told me that Redoxblox also has partnerships with a paper mill and a dairy production operation in Europe, where natural gas is magnitudes more expensive, and thus the startup’s technology is much more economically competitive. Ultimately of course, Redoxblox wants to be cheaper than natural gas in the U.S., which Romano said currently sits at about 3.6 cents per kilowatt-hour. </p><p>However, this technology is not yet likely to make much of a dent in the highest temperature industrial heating applications, such as steel and cement manufacturing or certain chemical production processes. While Redoxblox’s tech would theoretically work for these industries, the energy demands would be astronomical.</p><p>The company is targeting its first commercialized product in 2026, which will fit inside a shipping container and store up to 20 megawatt-hours of energy at 95% efficiency. Multiple units can be combined to meet the needs of larger facilities, and McNally told me that they’re not necessarily targeting any one specific industry at the moment. As he put it, “We're just targeting anybody that uses natural gas that wants to decarbonize at, in many cases, a lower cost than fossil fuels.”</p> 
+
+<br> 
+
+<https://heatmap.news/technology/redoxblox-series-a>
+
+---
+
+## Climate-o-Rama: EVs, Oil, Trump, and More
+
+date: 2024-10-30, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDAyMDQyNy9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4MDM0NTk0Mn0.-ud63pFQIO6HHAKYN-TjWxaUQEl7bMZpXJVjEtMwLXg/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">
+	It’s all happening. The presidential election is a week away, and our cohost Jesse Jenkins is back from vacation. There is so much to talk about in the world of decarbonization and energy. So we tried to catch up on all of it. Are EV sales starting to rebound in the U.S.? What’s up with the Cybertruck? And what about Senator Joe Manchin’s permitting reform bill?
+</p><p>
+On this week’s episode of Shift Key, Jesse and Rob attempt to discuss all those questions and more. Peak oil demand — the IRA’s focus on manufacturing — the emerging political economy of decarbonization — we hit it all. Or we try to, at least. Shift Key is hosted by Robinson Meyer, the founding executive editor of Heatmap, and Jesse Jenkins, a professor of energy systems engineering at Princeton University.
+</p><p>
+<strong>Subscribe to “Shift Key” and find this episode on <a href="https://podcasts.apple.com/us/podcast/shift-key-with-robinson-meyer-and-jesse-jenkins/id1728932037" target="_blank">Apple Podcasts</a>, <a href="https://open.spotify.com/show/0war1dXXCEEZNpZ3H7kRid" rel="noopener noreferrer" target="_blank">Spotify</a>, <a href="https://music.amazon.com/podcasts/d3491bb8-f4c3-429d-b622-b5d9b1329c69/shift-key-with-robinson-meyer-and-jesse-jenkins" rel="noopener noreferrer" target="_blank">Amazon</a>, or wherever you get your podcasts.</strong>
+</p><p>
+<span></span>You can also add <a href="https://feeds.acast.com/public/shows/65bac3af03341c00164bf93b" target="_blank">the show’s RSS feed</a> to your podcast app to follow us directly.
+</p><center><iframe frameborder="0" height="190px" src="https://embed.acast.com/65bac3af03341c00164bf93b/6721616ab4c51fd569695d97" width="100%"></iframe></center><p>
+<span></span>Here is an excerpt from our conversation:
+</p><blockquote>
+<strong>Robinson Meyer: </strong>I want to do a branching pass here for a second. If Trump wins and Republicans want to pass [the Manchin-Barrasso permitting] bill, I think Democrats should take them up on it. Because all the changes to the oil and gas regime — almost all the changes to the oil and gas permitting regime that are contemplated by the bill will be done by a Trump administration. They could be done through executive action, or through a helpful Congress in a Trump administration. But the transmission stuff can’t be. So you might as well take the transmission tailwind and then just do the stuff that a Trump administration can do anyway.<br/>
+<br/>
+To be clear here, when you talk to the modelers — not Jesse, other modelers — they say that the expansion oil and gas that happened during Trump would dwarf any sense of the changes contemplated by the bill. If Harris wins, then I think we have the real conversation about whether this bill makes sense for Democrats. But if Trump wins, I think, number one, Republicans aren’t going to be interested in passing the bill. But if they are interested, Democrats should take them up on it.
+	<br/>
+<br/>
+<strong>Jesse Jenkins: </strong>Yeah, so you have kind of a narrow range of circumstances where this bill might be considered seriously in a lame duck, right? I think you’re right that if Trump wins somehow they’re going to offer it, Republicans are going to offer it, that’s an interesting deal for Democrats. I just don’t think that’s too likely.<br/>
+<br/>
+I think the most likely scenario where this bill is taken seriously is if Harris wins and if the House and Senate are split. Whether they flip sides or whatever the control looks like, going forward, if the Democrats have the House and the Republicans have the Senate, or vice versa, this could be the type of bipartisan bill that is sort of the best deal on the table that, that might be able to get through regular order — that’s, this bill would require 60 votes to get past the filibuster in the Senate.
+	<br/>
+<br/>
+So you know, it by nature has to be bipartisan. And by definition, at this stage, a bipartisan bill is going to have some things that climate advocates really don’t like. And if it has enough that outweighs that, that’ll be the serious question.
+</blockquote><div class="horizontal-rule">
+</div><p>
+	This episode of Shift Key is sponsored by …
+</p><p>
+<strong>Watershed</strong>’s climate data engine helps companies measure and reduce their emissions, turning the data they already have into an audit-ready carbon footprint backed by the latest climate science. Get the sustainability data you need in weeks, not months. Learn more at <a href="https://watershed.com/" rel="noopener noreferrer" target="_blank">watershed.com</a>.
+</p><p>
+	As a global leader in PV and ESS solutions, 
+	<strong>Sungrow</strong> invests heavily in research and development, constantly pushing the boundaries of solar and battery inverter technology. Discover why Sungrow is the essential component of the clean energy transition by visiting <a href="https://en.sungrowpower.com/" rel="noopener noreferrer" target="_blank">sungrowpower.com</a>.
+</p><p>
+<strong>Intersolar & Energy Storage North America</strong> is the premier U.S.-based conference and trade show focused on solar, energy storage, and EV charging infrastructure. To learn more, visit <a href="https://www.intersolar.us/" rel="noopener noreferrer" target="_blank">intersolar.us</a>.
+</p><p>
+	Music for Shift Key is by Adam Kromelow.
+</p> 
+
+<br> 
+
+<https://heatmap.news/podcast/shift-key-s2-e12-election-power-hour>
+
+---
+
+## US forest managers finalize land exchange with Native American tribe in Arizona
+
+date: 2024-10-30, from: VOA News USA
+
+CAMP VERDE, Ariz. — U.S. forest managers have finalized a land exchange with the Yavapai-Apache Nation that has been decades in the making and will significantly expand the size of the tribe's reservation in Arizona's Verde Valley, tribal leaders announced Tuesday.
+
+
+As part of the arrangement, six parcels of private land acquired over the years by the tribe will be traded to the U.S. Forest Service in exchange for the tribe gaining ownership of 12.95 square kilometers of national forest land that is part of the tribe’s ancestral homelands. The tribe will host a signing ceremony next week to celebrate the exchange, which was first proposed in 1996.
+
+
+“This is a critical step in our history and vital to the nation’s cultural and economic recovery and future prosperity,” Yavapai-Apache Chairwoman Tanya Lewis said in a post on the tribe's website.
+
+
+Prescott National Forest Supervisor Sarah Clawson said in a statement that there had been many delays and changes to the proposal over the years, but the tribe and the Forest Service never lost sight of developing an agreement that would benefit both public and tribal lands.
+
+
+The federal government has made strides over recent years to protect more lands held sacred by Native American tribes, to develop more arrangements for incorporating Indigenous knowledge into management of public lands and to streamline regulations for putting land into trust for tribes.
+
+
+The Yavapai-Apache Nation is made up of two distinct groups of people — the Wipuhk’a’bah and the Dil’zhe’e. Their homelands spanned more than 41,440 square kilometers of what is now central Arizona. After the discovery of gold in the 1860s near Prescott, the federal government carved out only a fraction to establish a reservation. The inhabitants eventually were forced from the land, and it wasn't until the early 1900s that they were able to resettle a tiny portion of the area.
+
+
+In the Verde Valley, the Yavapai-Apache Nation's reservation lands are currently comprised of less than 7.77 square kilometers near Camp Verde. The small land base hasn't been enough to develop economic opportunities or to meet housing needs, Lewis said, pointing to dozens of families who are on a waiting list for new homes.
+
+
+Lewis said that in acknowledgment of the past removal of the Yavapai-Apache people from their homelands, the preamble to the tribal constitution recognizes that land acquisition is among the Yavapai-Apache Nation's responsibilities.
+
+
+Aside from growing the reservation, the exchange will bolster efforts by federal land managers to protect the headwaters of the Verde River and ensure the historic Yavapai Ranch is not sold for development. The agreement also will improve recreational access to portions of four national forests in Arizona. 
+
+<br> 
+
+<https://www.voanews.com/a/us-forest-managers-finalize-land-exchange-with-native-american-tribe-in-arizona-/7844408.html>
+
+---
+
+## Presidential candidates: Final pitches before US election
+
+date: 2024-10-30, from: VOA News USA
+
+The two candidates for U.S. president are making what they call their "closing arguments" to voters in this final week before the election. VOA’s Senior Washington Correspondent Carolyn Presutti brings us the sights and sounds from two rallies. 
+
+<br> 
+
+<https://www.voanews.com/a/presidential-candidates-final-pitches-before-us-election/7844368.html>
+
+---
+
+## Prosecutor tells jury of 9/11-style plot thwarted in the Philippines
+
+date: 2024-10-30, from: VOA News USA
+
+NEW YORK  — A Kenyan man who plotted a 9/11-style attack on a U.S. building was training as a commercial pilot in the Philippines when his plans were interrupted, a federal prosecutor told a New York jury Tuesday.
+
+
+Assistant U.S. Attorney Jon Bodansky told a federal jury in Manhattan that Cholo Abdi Abdullah plotted an attack for four years that he hoped to carry out on behalf of the terrorist organization al-Shabab.
+
+
+He said Abdullah was almost finished with his two-year pilot training when he was arrested in July 2019 in the Philippines on local charges. He was transferred in December 2020 to U.S. law enforcement authorities, who charged him with terrorism-related crimes.
+
+
+Abdullah underwent training in explosives and how to operate in secret and avoid detection before moving to the Philippines in 2017 to begin intensive training for a commercial pilot's license, the prosecutor said.
+
+
+Abdullah posed as an aspiring commercial pilot even though his true intention was to locate a building in the United States where he could carry out a suicide attack from the cockpit by slamming his plane into a building, Bodansky told the jury.
+
+
+He said Abdullah was "planning for four years a 9/11-style attack" only to have it thwarted with his arrest.
+
+
+The defendant, operating from a Nairobi hotel, used the internet to research how to breach a cockpit door and looked up a 2019 terrorist attack that killed some 21 people, Bodansky said. Among those killed in that attack was an American businessman who survived the World Trade Center on Sept. 11, 2001.
+
+
+Prosecutors have said Abdullah also researched information "about the tallest building in a major U.S. city" before he was caught.
+
+
+Abdullah, who is representing himself and once pleaded not guilty, declined to give an opening statement and did not actively participate in questioning witnesses Tuesday.
+
+
+In court papers filed before the trial, prosecutors told the judge that they understood "through standby counsel that the defendant maintains his position that he 'wants to merely sit passively during the trial, not oppose the prosecution and whatever the outcome, he would accept the outcome because he does not believe that this is a legitimate system.'"
+
+
+The State Department in 2008 designated al-Shabab, which means "the youth" in Arabic, as a foreign terrorist organization. The militant group is an al-Qaida affiliate that has fought to establish an Islamic state in Somalia based on Shariah law.
+
+
+If convicted, Abdullah faces a mandatory minimum of 20 years in prison. His trial is expected to last three weeks. 
+
+<br> 
+
+<https://www.voanews.com/a/prosecutor-tells-jury-of-9-11-style-plot-thwarted-in-the-philippines/7844307.html>
+
+---
+
+## For expats in Ukraine, election back in US hits home
+
+date: 2024-10-30, from: VOA News USA
+
+The outcome of the U.S. election and the possible changes in Washington’s foreign policy are of special significance to the 3 million American expatriates eligible to vote in next week’s U.S. presidential elections. In few places is that outcome more tangible than in Ukraine, where a few thousand Americans have, for various reasons, chosen to live after Russia’s 2022 full-scale invasion. Lesia Bakalets speaks to several expatriates in Ukraine and sends this report from Kyiv. 
+
+<br> 
+
+<https://www.voanews.com/a/for-expats-in-ukraine-election-back-in-us-hits-home/7844275.html>
+
+---
+
+## Russian activists abroad keep the memory of Soviet purges victims alive
+
+date: 2024-10-30, from: VOA News USA
+
+Every October, events are held worldwide to mark a Day of Remembrance for the victims of purges in the former Soviet Union. With growing restrictions on memorial ceremonies in Russia, opposition activists see events abroad as more crucial than ever. Natasha Mozgovaya has the story from Seattle. 
+
+<br> 
+
+<https://www.voanews.com/a/russian-activists-abroad-keep-the-memory-of-soviet-purges-victims-alive/7844276.html>
+
+---
+
+## Reluctant at First, Michigan Criminal Justice Advocates Rally Behind Kamala Harris
+
+date: 2024-10-30, from: Capital and Main
+
+<p>After hesitation over her past as a prosecutor, grassroots reform group Michigan Liberation ultimately supports the vice president.</p>
+<p>The post <a href="https://capitalandmain.com/reluctant-at-first-michigan-criminal-justice-advocates-rally-behind-kamala-harris">Reluctant at First, Michigan Criminal Justice Advocates Rally Behind Kamala Harris</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/reluctant-at-first-michigan-criminal-justice-advocates-rally-behind-kamala-harris>
+
+---
+
+## It’s Not Just Trump’s New York Rally — As President, He Appointed More Than a Dozen People With Ties to Racist Groups or Ideologies
+
+date: 2024-10-30, from: Capital and Main
+
+<p>Trump’s Madison Square Garden event has focused public attention on racism and hate within the former chief executive’s campaign. During his administration, figures connected to white supremacy had prominent roles.</p>
+<p>The post <a href="https://capitalandmain.com/its-not-just-trumps-new-york-rally-as-president-he-appointed-more-than-a-dozen-people-with-ties-to-racist-groups-or-ideologies">It’s Not Just Trump’s New York Rally &#8212; As President, He Appointed More Than a Dozen People With Ties to Racist Groups or Ideologies</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/its-not-just-trumps-new-york-rally-as-president-he-appointed-more-than-a-dozen-people-with-ties-to-racist-groups-or-ideologies>
+
+---
+
+## In a first since 1938, Des Moines, Iowa, kids will trick-or-treat on Halloween
+
+date: 2024-10-30, from: VOA News USA
+
+DES MOINES, Iowa  — For the first time since 1938, children in Des Moines, Iowa, will go trick-or-treating on Halloween.
+
+
+Going door-to-door for candy on All Hallows' Eve has long been commonplace throughout the country. But not in Des Moines, where Iowa's capital city took a different approach more than seven decades ago in hopes of tamping down on hooliganism.
+
+
+Instead, Des Moines children don their costumes on Beggars' Night, typically the day before Halloween. And besides screaming, "Trick-or-Treat," children are expected to tell a joke before receiving a treat.
+
+
+This year, Beggars' Night was set for Wednesday, but because of expected heavy rain and thunderstorms, officials delayed trick-or-treating until Thursday, which to the rest of the country is the normal Halloween.
+
+
+"To my knowledge, it has never been moved or canceled since it was established after Halloween in 1938," Assistant City Manager Jen Schulte said. "However, the safety of our residents, families and children is always our top priority and led to the change in this year's scheduled Beggars' Night."
+
+
+The city began its unusual custom at the suggestion of a former city parks director as a way to reduce vandalism and promote more wholesome fun for kids. Initially, children were encouraged to sing a song, recite poetry and offer some other kind of entertainment, but over time a joke became the most common offering.
+
+
+Beggar's Night also has limited hours, typically running from 6 to 8 p.m.
+
+
+Many of Des Moines' suburbs also adopted the Beggars' Night tradition and chose to shift the celebration to Halloween this year.
+
+
+"I didn't realize we were that much of an anomaly because for us, this is normal," said Debbie Westphal Swander, who owns a costume shop in West Des Moines. "We're going to be in sync at least for this year with the way the event is celebrated everywhere else.
+
+
+"The big picture for me is, it's absolutely about the kids. That's the most important thing." 
+
+<br> 
+
+<https://www.voanews.com/a/in-a-first-since-1938-des-moines-iowa-kids-will-trick-or-treat-on-halloween/7844271.html>
+
+---
+
+## US finalizes rule restricting investment in Chinese tech firms
+
+date: 2024-10-30, from: VOA News USA
+
+The Treasury Department on Monday finalized a new rule meant to prevent U.S.-based people and companies from investing in the development of a range of advanced technologies in China, thereby preventing Beijing from accessing cutting-edge expertise and equipment.
+
+
+The rule, which implements an executive order signed by President Joe Biden in 2023, focuses particularly on advanced semiconductors and microelectronics and the equipment used to make them, technology used in quantum computing, and artificial intelligence systems.
+
+
+When it takes effect on January 2, the rule will prohibit certain transactions in semiconductors, microelectronics and artificial intelligence. It also establishes mandatory reporting requirements for transactions that are not banned outright.
+
+
+In the field of quantum computing, the rule is more far-reaching, banning all transactions “related to the development of quantum computers or production of any critical components required to produce a quantum computer,” as well as the development of other quantum systems. Unlike the fields of AI and semiconductors, the rule does not allow for transactions that can be completed so long as they are reported to the government.
+
+
+The rule also announced the creation of the Office of Global Transactions within Treasury’s Office of Investment Security, which will administer the Outbound Investment Security Program.
+
+
+Justification and opposition
+
+
+“Artificial intelligence, semiconductors, and quantum technologies are fundamental to the development of the next generation of military, surveillance, intelligence and certain cybersecurity applications like cutting-edge code-breaking computer systems or next generation fighter jets,” Paul Rosen, assistant secretary for investment security, said in a statement.
+
+
+“This Final Rule takes targeted and concrete measures to ensure that U.S. investment is not exploited to advance the development of key technologies by those who may use them to threaten our national security,” Rosen said.
+
+
+Beijing has repeatedly complained about U.S. technology policy, arguing that the U.S. is dedicated to preventing China’s rise as a global power. In a press conference on Tuesday, Chinese Foreign Ministry spokesperson Lin Jian reiterated China’s longstanding objections to U.S. efforts to withhold advanced technology from Chinese companies.
+
+
+“China deplores and rejects the U.S.’s Final Rule to curb investment in China,” Lin said. “China has protested to the U.S. and will take all measures necessary to firmly defend its lawful rights and interests.”
+
+
+Not just equipment
+
+
+The language of the rule frequently notes that it applies to transactions with “countries of concern,” but the specific language in the text makes it plain that the targets of the rule are companies and individuals doing business in mainland China as well as the “special administrative districts” of Hong Kong and Macao.
+
+
+The Final Rule’s ban on transactions is not limited to the physical transfer of finished goods and machinery in the specified fields. Explanatory documents released on Monday make it clear that several intangible benefits are also covered.
+
+
+Countries of concern “are exploiting or have the ability to exploit certain United States outbound investments, including certain intangible benefits that often accompany United States investments and that help companies succeed,” an informational statement accompanying the rule said. “These intangible benefits include enhanced standing and prominence, managerial assistance, investment and talent networks, market access, and enhanced access to additional financing.”
+
+
+Signaling to US companies
+
+
+The onus will be on U.S. companies to comply with the new rule, Stephen Ezell, vice president for global innovation policy at the Information Technology & Innovation Foundation, told VOA.
+
+
+“This is the U.S. government signaling to U.S. entities and investors that they need to think twice about making investments on the prohibited transaction side of the equation that would advance China's capabilities in these areas,” Ezell said.
+
+
+He added that the impact of the rule on investment in Chinese technology companies would have effects far beyond any reduction in funding.
+
+
+“It's not just the dollars,” he said. “A key target here is getting at the intangible benefits that come with those investments, such as managerial capability, talent networks.” He described that loss as “very significant.”
+
+
+Closing loopholes
+
+
+In an email exchange with VOA, Daniel Gonzales, a senior scientist at the RAND Corporation, explained that the purpose of the rule was, in part, to prevent U.S. investment firms from supporting Chinese firms in the development of certain kinds of technology.
+
+
+“These rules were put in place after many episodes where U.S. [venture capital] companies helped to transfer or nurture advanced technologies that have relevant military capabilities,” Gonzales wrote. “One particular case was that of TikTok and its AI algorithms, which were developed with the help of Sequoia Capital of California.”
+
+
+Sequoia did not break any laws in assisting TikTok, Gonzales said. But “it has since become known to U.S. authorities that TikTok does possess an AI algorithm that has a variety of applications, some of which have military implications. This new rule is intended to close this loophole.”
+
+
+Gonzales said the U.S. government’s concern with quantum computing is also born of worries about Chinese offensive capabilities.
+
+
+“Chinese researchers are working on developing quantum computer algorithms that can break encryption codes used by the U.S. government and the U.S. financial sector to protect private and confidential information,” he wrote. “China has several startup companies working to develop more powerful quantum computers. This new rule is intended to prevent the leakage of U.S. quantum technology to China through U.S. VCs.” 
+
+<br> 
+
+<https://www.voanews.com/a/us-finalizes-rule-restricting-investment-in-chinese-tech-firms/7844263.html>
+
+---
+
+## US court declines RFK Jr's request to order 2 states to drop him from ballot
+
+date: 2024-10-29, from: VOA News USA
+
+The U.S. Supreme Court denied a bid Tuesday by former independent presidential candidate Robert F. Kennedy Jr. to be removed from the ballot in Wisconsin and Michigan for the Nov. 5 election. Kennedy has said he wants voters who would have backed him to cast ballots for the Republican nominee, former President Donald Trump. 
+
+
+The court declined Kennedy's emergency requests to order the Wisconsin Elections Commission and Michigan Secretary of State Jocelyn Benson to take him off the ballot in those states. Michigan and Wisconsin are among a handful of closely contested states expected to decide the outcome of the race between Trump and Democrat Kamala Harris.  
+
+
+Conservative Justice Neil Gorsuch dissented from the decision concerning the Michigan ballot only. No other justice publicly dissented. 
+
+
+Kennedy, an environmental lawyer and anti-vaccine activist known by his initials RFK Jr., has sought the Supreme Court's intervention in his attempts to stay on the ballot in some states while dropping off others. In September, the Supreme Court rejected his bid to be restored to the ballot in New York. 
+
+
+Kennedy suspended his campaign in August and endorsed the former president's candidacy. Kennedy has urged his supporters everywhere to back Trump and has withdrawn from the ballot in a number of Republican-leaning states. 
+
+<br> 
+
+<https://www.voanews.com/a/us-supreme-court-declines-to-let-rfk-jr-drop-off-ballot-in-wisconsin-michigan-/7843953.html>
+
+---
+
+## Live from Boston, Part 2: Heather Cox Richardson
+
+date: 2024-10-29, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Today we’re sharing an excerpt from our live show at WBUR CitySpace in Boston featuring our special guest, historian Heather Cox Richardson. (Check out the first part of our live show <a href="https://www.marketplace.org/shows/make-me-smart/make-me-smart-live-in-boston/">here</a>.) Richardson, a professor at Boston College, talked with us about the high stakes of this year&#8217;s election, how the economy is woven into political narratives, and what we can do to protect the health of our democracy. Plus, she shares what she had wrong about hummingbirds.</p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>Where should &#8220;Make Me Smart&#8221; go next? Let us know at makemesmart@marketplace.org or leave us a voicemail at 508-U-B-SMART.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/29/mms_20241029_Make_Me_Smart__128.mp3?awEpisodeId=https://www.marketplace.org/shows/make-me-smart/live-from-boston-part-2-heather-cox-richardson&awCollectionId=mkp-MMsmrt&awGenre=%5B"Talk","News","Business"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/make-me-smart"></source>
+</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/29/mms_20241029_Make_Me_Smart__128.mp3?awEpisodeId=https://www.marketplace.org/shows/make-me-smart/live-from-boston-part-2-heather-cox-richardson&awCollectionId=mkp-MMsmrt&awGenre=%5B\"Talk\",\"News\",\"Business\"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/make-me-smart" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/live-from-boston-part-2-heather-cox-richardson>
+
+---
+
+## Judge dismisses Republican lawsuit targeting Pennsylvania overseas ballots
+
+date: 2024-10-29, from: VOA News USA
+
+A U.S. judge on Tuesday dismissed a Republican lawsuit seeking to force election battleground state Pennsylvania to strengthen its procedures for verifying ballots submitted by military and overseas voters. 
+
+
+Six Republican members of the U.S. House of Representatives seeking reelection on November 5 had sued Pennsylvania's top election officials on September 30. The Republicans had argued that the state was improperly exempting overseas voters from a requirement that their identity documents be verified, creating a vulnerability for fraudulent votes to be submitted. 
+
+
+Pennsylvania is one of a handful of closely contested states that are expected to decide the outcome of the U.S. presidential race pitting Republican Donald Trump against Democratic Vice President Kamala Harris. 
+
+
+U.S. District Judge Christopher Conner dismissed the case in Harrisburg, Pennsylvania, deciding that the plaintiffs had waited too long to file their complaint given that Pennsylvania's procedures had been in place for years.
+
+
+The suit was one of dozens around the country in which Republicans have challenged voting procedures or sought to purge voter rolls in what they call a push to ensure that people do not vote illegally. That legal blitz has been faltering. In the past three weeks, Trump allies have been dealt at least 11 court losses. 
+
+
+Conner also said Erick Kaardal, a lawyer for the plaintiffs, had not provided evidence that there had been foreign influence over Pennsylvania's overseas ballots. The judge wrote that when he pressed Kaardal for such evidence during an October 18 hearing, the lawyer "effectively conceded that all he had was 'concerns.'" 
+
+
+"Plaintiffs cannot rely on phantom fears of foreign malfeasance to excuse their lack of diligence," Conner wrote. 
+
+
+"We don't want votes from Iran or Russia or invalid votes counting," Kaardal had told the hearing in Harrisburg federal court over a motion to dismiss the case filed by the Democratic National Committee and Pennsylvania's top elections official. 
+
+
+The Election Research Institute, a conservative group whose lawyer Karen DiSalvo brought the case alongside Kaardal, said the plaintiffs were disappointed by the dismissal and were considering options for appeal. 
+
+
+Judges in the election battleground states of Michigan and North Carolina this month also rejected lawsuits filed by the Republican National Committee seeking to block votes from some Americans living overseas. 
+
+
+In those cases, the Republicans argued the states improperly allowed U.S. citizens living abroad who had never lived in those states to vote there. 
+
+<br> 
+
+<https://www.voanews.com/a/judge-dismisses-republican-lawsuit-targeting-pennsylvania-overseas-ballots-/7843920.html>
+
+---
+
+## Why American solar manufacturers are divided on tariffs
+
+date: 2024-10-29, from: Market Place
+
+<p>Solar panels are key in the transition to cleaner energy. But despite oodles of federal investment, there are still obstacles in the way of the U.S. manufacturing industry. Also in this episode: Home price increases slow, &#8220;The Diplomat&#8221; showrunner aims for authenticity, and the Fed&#8217;s next move.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/29/pm_20241029_PM_Podcast_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace/why-american-solar-manufacturers-are-divided-on-tariffs&awCollectionId=mkp-MKP-PM&awGenre=%5B"Talk","News","Business"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace"></source>
+</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/29/pm_20241029_PM_Podcast_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace/why-american-solar-manufacturers-are-divided-on-tariffs&awCollectionId=mkp-MKP-PM&awGenre=%5B\"Talk\",\"News\",\"Business\"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace/why-american-solar-manufacturers-are-divided-on-tariffs>
+
+---
+
+## Two Offshore Wind Developers Wade Into the Gulf of Maine
+
+date: 2024-10-29, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDAxNjg3MC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTczMjA2NDk5OX0.EP572QLZcb9dedWYqLqszZJr0_-0d0cXGPKJ97dXjYM/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">Just days before what is sure to be a close presidential election in which one of the candidates has promised to shut down the offshore wind industry “on day one,” an auction for the rights to develop wind energy projects in the Gulf of Maine on Tuesday was a surprise success.</p><p>Two developers, Avangrid and Invenergy, purchased four of the eight leases that were up for sale. If turned into wind farms, they have the potential to generate about 6.8 gigawatts, or enough electricity to power about 2.3 million homes, according to the Bureau of Ocean Energy Management.</p><p>Compared with the optimism on display just two years ago, when more than a dozen companies competed in a <a href="https://grist.org/energy/a-record-breaking-offshore-wind-lease-sale-signals-a-new-era-for-development/" rel="noopener noreferrer" target="_blank"><u>three-day bidding war</u></a> for the right to develop six areas off the coast of New York and New Jersey, Tuesday’s sale was a flop. Just two companies participated. The bidding closed after one round. The leases sold for a flat $50 per acre, compared to an average of nearly $9,000 per acre in the New York sale. </p><p>But put in context of how things are going in 2024, it’s a miracle anyone showed up at all. The offshore wind industry has been <a href="https://heatmap.news/climate/offshore-wind-2024-outlook" target="_self"><u>struggling</u></a> with supply chain issues and inflation, not to mention increasing opposition from coastal communities. Just a month ago, an offshore wind lease sale off the coast of Oregon was <a href="https://www.opb.org/article/2024/09/27/oregon-offshore-wind-auction-cancellation/" rel="noopener noreferrer" target="_blank"><u>canceled</u></a> after the Bureau of Ocean Energy Management learned that there was only one interested party. The agency also canceled an auction for the Gulf of Mexico earlier this year citing a lack of interest. </p><p>“It’ll be a win if anything gets leased,” Francis Eanes, executive director of the Maine Labor Climate Council, told me Tuesday morning before the results came in. “And honestly, it won’t be surprising if it doesn’t.”</p><p>Outside of the existential threat of a Trump presidency, developing wind projects in the Gulf of Maine was already a challenging prospect. The water is upwards of 200 meters deep — too deep to affix the foundation of a wind turbine to the seafloor. Instead, developers will need to build floating structures that are moored to the seabed with giant cables. Floating offshore wind is a proven technology — there are a handful of projects already operating around the world. But it is more expensive to build, and there are none yet operating in the U.S. The National Renewable Energy Laboratory <a href="https://www.nrel.gov/docs/fy24osti/88988.pdf" rel="noopener noreferrer" target="_blank"><u>estimates</u></a> that floating offshore wind farms will have a levelized cost of energy that’s at least 40% higher than fixed-bottom projects.</p><p>On top of that, just days ago, the U.S. Department of Energy rejected Maine’s application for a $456 million grant to build a <a href="https://heatmap.news/plus/the-fight/spotlight/maine-floating-wind-sears-island" target="_self"><u>floating offshore wind assembly port on Sears Island</u></a>, a protected area in Penobscot Bay about the size of New York City’s Central Park. A new port is a necessary prerequisite for developing projects in the Gulf of Maine, as floating offshore wind assembly requires different infrastructure than fixed-bottom projects.</p><p>Nonetheless, Tyler Hansen, a research associate studying offshore wind at Dartmouth College, told me he thought the results of the auction “make sense” when weighing the prospects for the technology against the political risks. He expects the cost of floating offshore wind to come down as governments around the world invest in research and development. The Department of Energy has a “<a href="https://www.energy.gov/eere/wind/floating-offshore-wind-shot-progress-and-priorities" rel="noopener noreferrer" target="_blank"><u>Floating Offshore Wind Shot</u></a>,” a program aimed at reducing the cost of floating technology 70% by 2030.</p><p>The winds that blow over the Gulf of Maine are especially strong and steady, making them one of the best potential renewable energy resources in the United States. The northeast is also “particularly blessed” with available substations where projects could connect to the grid, Eric Hines, a civil and environmental engineering professor at Tufts University told me. Several recent coal plant closures on the Massachusetts coast have created “an enormous amount of coastal transmission capacity that are prime locations for plugging in offshore wind,” he said. </p><p>The area also boasts favorable policy paired with relatively strong grassroots support. States in the Northeast are counting on floating offshore wind to hit their climate goals. Maine has set a goal of achieving 100% clean electricity by 2040, with at least 3 gigawatts of power prescribed to come from the Gulf. Massachusetts, too, anticipates needing some 23 gigawatts from offshore wind by 2050, with at least 10 coming from the Gulf of Maine. </p><p>Environmental groups in Maine have spent the past two years building political coalitions with fishermen, tribes, and labor unions in support of developing an offshore wind industry. Those efforts culminated in a major victory last summer when the state passed a bill that set strong labor standards for offshore wind development, created a requirement for tribal engagement in project development, and enshrined a policy of avoiding development in a key fishery known as Lobster Management Area One. Later, the Bureau of Ocean Energy Management amended its map of lease areas in the Gulf of Maine to exclude that management area.</p><p>“That was a huge win,” Eanes said, and never would have happened without the environmental and labor movement’s proactive efforts to build consensus around where offshore wind <em><em>should</em></em> happen, if it were going to happen. As a result, they’ve been able to cultivate a different attitude toward offshore wind in Maine than you will find right now in New Jersey, for example. </p><p>“To be clear, if you go to a coastal community in Maine, especially one that lands a lot of lobsters, you’re not going to find support for offshore wind,” he said. “But the level of organized opposition has not been as pitched as it would have been had we seen lease areas in Lobster Management Area One.”</p><p>In a press release, Avangrid touted the Gulf of Maine’s strong wind speeds and access to interconnection, as well as the fact that it was “largely deconflicted from other ocean users following a rigorous federal public engagement process.” The company is already developing more than 5 gigawatts of offshore wind along the East Coast, including Vineyard Wind, which is currently under construction. This will be its first project to utilize floating technologies, however it is also owned by Iberdrola, a Spanish company with a pipeline of floating offshore wind projects in Europe.</p><p>Maine officials celebrated the results of the auction on Tuesday.</p><p>“The federal lease sale represents a significant milestone for Maine and the region as we advance offshore wind in a responsible manner to help us reduce our reliance on expensive, harmful fossil fuels, diversify our sources of energy, grow our economy, and fight climate change,”<strong> </strong>said Dan Burgess, Director of the Maine Governor’s Energy Office, in an emailed statement.</p><p>The Maine Department of Transportation, the agency leading the development of the would-be port, emphasized that it's undeterred despite losing out on the federal grant. “Maine has a once-in-a-lifetime opportunity to develop a port facility to create good-paying jobs while serving the entire region as we harness abundant clean wind energy in the Gulf of Maine,” Bruce Van Note, the transportation commissioner, said in a statement last week. “Our work will continue as we examine other opportunities to secure funding to advance this critical port infrastructure.” </p><p>The agency <a href="https://www.maine.gov/mdot/projects/searsport/windport/docs/Maine%20OSWP_Pre-Application%20Alternative%20Analysis_Draft-October%202024.pdf" rel="noopener noreferrer" target="_blank"><u>anticipates</u></a> filing federal permit applications for the project in the next few months, kicking off a process anticipated to take two years, and securing additional funding for it by the end of 2025. But that timeline may depend on the results of the presidential election next week.</p><p>While it’s not always the best advice to take Donald Trump at his word, the former president promised supporters at a rally in New Jersey in May that he would “end” offshore wind development. “You won’t have to worry about Governor Murphy’s 157 windmills,” he said. “I’m going to write it out in an executive order. It’s going to end on day one.”</p><p>In its most recent <a href="https://oceantic.org/2024-q3-u-s-offshore-wind-quarterly-market-report/" rel="noopener noreferrer" target="_blank"><u>quarterly market report</u></a>, the industry association Oceantic Network noted that private investment and activity in the offshore wind sector “are decelerating … due largely to the uncertainty around the presidential election.”</p><p>At the same time, developers are used to long time horizons. Offshore wind projects can take a decade to permit and build, and as long as state support doesn’t slide, a slowdown of four years isn’t make-or-break. Even with a supportive administration, it will likely be impossible for Avangrid or Invenergy to begin construction in the Gulf of Maine before 2030, as that’s the absolute soonest Maine expects to get its port built. </p><p>The fact that two developers took the leap now rather than waiting for 2028 — which is when the next lease sale in the Gulf of Maine is <a href="https://www.doi.gov/pressreleases/secretary-haaland-announces-new-five-year-offshore-wind-leasing-schedule" rel="noopener noreferrer" target="_blank"><u>scheduled</u></a> — shows some level of confidence in the long-term prospects for the industry.</p><p>“These leases don’t come up for auction very often,” Hines told me. “And if you don’t have a lease, you can’t build a project.”</p> 
+
+<br> 
+
+<https://heatmap.news/climate/maine-offshore-wind-auction>
+
+---
+
+## This Once-Undecided Pennsylvania Union Leader Is Backing Harris. Here’s What Made Up His Mind.
+
+date: 2024-10-29, from: Capital and Main
+
+<p>After watching Harris on Fox News and learning about her pro-union positions, the formerly hesitant sheet metal worker found the confidence to commit.</p>
+<p>The post <a href="https://capitalandmain.com/this-once-undecided-pennsylvania-union-leader-is-backing-harris-heres-what-made-up-his-mind">This Once-Undecided Pennsylvania Union Leader Is Backing Harris. Here’s What Made Up His Mind.  </a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/this-once-undecided-pennsylvania-union-leader-is-backing-harris-heres-what-made-up-his-mind>
+
+---
+
+## Teri Garr, comic actor of 'Young Frankenstein' and 'Tootsie,' has died
+
+date: 2024-10-29, from: VOA News USA
+
+LOS ANGELES — Teri Garr, the quirky comedy actor who rose from background dancer in Elvis Presley movies to co-star of such favorites as Young Frankenstein and Tootsie, has died. She was 79. 
+
+
+Garr died Tuesday of multiple sclerosis "surrounded by family and friends," publicist Heidi Schaeffer said. Garr battled other health problems in recent years and underwent an operation in January 2007 to repair an aneurysm. 
+
+
+Admirers took to social media in her honor, with writer-director Paul Feig calling her "truly one of my comedy heroes. I couldn't have loved her more" and screenwriter Cinco Paul saying: "Never the star, but always shining. She made everything she was in better." 
+
+
+The actor, who was sometimes credited as Terri, Terry or Terry Ann during her long career, seemed destined for show business from her childhood. 
+
+
+Her father was Eddie Garr, a well-known vaudeville comedian; her mother was Phyllis Lind, one of the original high-kicking Rockettes at New York's Radio City Music Hall. Their daughter began dance lessons at 6 and by 14 was dancing with the San Francisco and Los Angeles ballet companies. 
+
+
+
+
+She was 16 when she joined the road company of West Side Story in Los Angeles, and as early as 1963 she began appearing in bit parts in films. 
+
+
+She recalled in a 1988 interview how she won the West Side Story role. After being dropped from her first audition, she returned a day later in different clothes and was accepted. 
+
+
+From there, the blonde, statuesque Garr found steady work dancing in movies, and she appeared in the chorus of nine Presley films, including Viva Las Vegas, Roustabout and Clambake. 
+
+
+She also appeared on numerous television shows, including Star Trek, Dr. Kildare and Batman, and was a featured dancer on the rock 'n' roll music show Shindig, the rock concert performance T.A.M.I. and a cast member of The Sonny and Cher Comedy Hour. 
+
+
+Her big film break came as Gene Hackman's girlfriend in 1974's Francis Ford Coppola thriller The Conversation. That led to an interview with Mel Brooks, who said he would hire her for the role of Gene Wilder's German lab assistant in 1974's Young Frankenstein — if she could speak with a German accent. 
+
+
+
+
+"Cher had this German woman, Renata, making wigs, so I got the accent from her," Garr once recalled. 
+
+
+The film established her as a talented comedy performer, with New Yorker film critic Pauline Kael proclaiming her "the funniest neurotic dizzy dame on the screen." 
+
+
+Her big smile and off-center appeal helped land her roles in Oh God! opposite George Burns and John Denver, Mr. Mom (as Michael Keaton's wife) and Tootsie in which she played the girlfriend who loses Dustin Hoffman to Jessica Lange. 
+
+
+Although best known for comedy, Garr showed in such films as Close Encounters of the Third Kind, The Black Stallion and The Escape Artist that she could handle drama equally well. 
+
+
+She had a flair for spontaneous humor, often playing David Letterman's foil during guest appearances on NBC's Late Night With David Letterman early in its run. 
+
+
+Her appearances became so frequent, and the pair's good-natured bickering so convincing, that for a time rumors cropped up that they were romantically involved. Years later, Letterman credited those early appearances with helping make the show a hit. 
+
+
+It was also during those years that Garr began to feel something in her right leg. It began in 1983 and eventually spread to her right arm. By 1999 the symptoms had become so severe that she consulted a doctor. The diagnosis: multiple sclerosis. 
+
+
+
+
+For three years Garr didn't reveal her illness. 
+
+
+"I was afraid that I wouldn't get work," she explained in a 2003 interview. "People hear MS and think, 'Oh, my God, the person has two days to live.'" 
+
+
+After going public, she became a spokeswoman for the National Multiple Sclerosis Society, making humorous speeches to gatherings in the U.S. and Canada. 
+
+
+"You have to find your center and roll with the punches because that's a hard thing to do: to have people pity you," she said in 2005. "Just trying to explain to people that I'm OK is tiresome." 
+
+
+She also continued to act, appearing on Law & Order: Special Victims Unit, Greetings From Tucson, Life With Bonnie and other TV shows. She also had a brief recurring role on Friends in the 1990s as Lisa Kudrow's mother. After several failed romances, Garr married contractor John O'Neill in 1993. They adopted a daughter, Molly, before divorcing in 1996. 
+
+<br> 
+
+<https://www.voanews.com/a/teri-garr-comic-actor-of-young-frankenstein-and-tootsie-has-died-/7843751.html>
+
+---
+
+## US reiterates 'one China' policy amid reports of Xi's request on Taiwan
+
+date: 2024-10-29, from: VOA News USA
+
+Washington — Resisting pressure from Beijing to publicly reject independence for Taiwan, the Biden administration underscores there is no change in its “one China” policy which takes no stand on the issue.
+
+
+“We do not support Taiwan independence. We expect cross-Strait differences to be resolved by peaceful means, free from coercion,” a senior administration official told VOA Tuesday, underscoring long-standing U.S. policy on the thorny issue. “We oppose unilateral changes to the status quo by either side.”
+
+
+The confirmation followed reports that during their last in-person meeting, Chinese President Xi Jinping asked U.S. President Joe Biden to change the language the administration uses when discussing its position on Taiwan independence.
+
+
+
+
+On the sidelines of the APEC meeting near San Francisco last November, Xi reportedly told Biden he wants the U.S. to use language stating it “opposes” instead of “does not support” independence for Taiwan, the current phrase used in U.S. official statements.
+
+
+The administration has been “consistent on our long-standing one China policy,” the official said. Under the policy, the U.S. acknowledges but does not endorse Beijing’s view that it has sovereignty over Taiwan. It considers Taiwan's status as unsettled.
+
+
+The Chinese Embassy in Washington did not respond to VOA’s request for comment.
+
+
+Beijing’s push for stronger language is not new. Ahead of the Biden-Xi meeting last year, VOA reported that Foreign Minister Wang Yi also made the request in his meetings with U.S. counterparts.
+
+
+The Chinese have been asking for this shift, and in some instances falsely asserting that the U.S. position is to oppose Taiwanese independence, said Zack Cooper, senior fellow at the American Enterprise Institute.
+
+
+“I find it unlikely that the United States will take this advice without some substantial concession from China on its own position about Taiwan,” Cooper told VOA. “I doubt this will get any traction in Washington unless it is part of a longer-term conversation about de-escalating tensions across the Taiwan Strait.”
+
+
+
+
+Biden and Xi likely to meet again in person next month in South America, where both are expected to attend an APEC meeting in Lima, Peru, and a G-20 summit in Rio de Janeiro, Brazil. It will likely be Biden’s last meeting with the Chinese leader before leaving office in January.
+
+
+“It will probably be an opportunity for the two leaders to say goodbye and for their teams to wrap up a couple of loose ends, perhaps including an announcement or two on people-to-people issues,” said Cooper.
+
+
+Beijing is no doubt gearing up for a change in U.S. administration ahead of the election between former President Donald Trump and Vice President Kamala Harris. Both have vowed to be tough on China, with Trump saying he would impose “150% to 200%” tariffs on China if it sought to blockade Taiwan.
+
+
+Flared tensions
+
+
+Cross-strait tensions have flared many times in recent years. On Sunday, Taiwan's defense ministry said Chinese warplanes and warships carried out another “combat patrol” near the island, following Beijing’s threat to respond with countermeasures to a $2 billion arms sale by the United States.
+
+
+
+
+The administration announced it approved the package last week, which includes its first delivery of three National Advanced Surface-to-Air Missile Systems, advanced weapons that have been battle-tested in Ukraine.
+
+
+Despite the lack of formal diplomatic ties, the U.S. is Taiwan’s strongest unofficial ally and Washington is legally bound by the Taiwan Relations Act to provide Taipei with the means to defend itself.
+
+
+China “strongly condemns” the sale. “We will take resolute countermeasures and take all measures necessary to firmly defend national sovereignty, security and territorial integrity,” said a Chinese Foreign Ministry spokesperson. 
+
+
+VOA's Nike Ching contributed to this story. 
+
+<br> 
+
+<https://www.voanews.com/a/us-reiterates-one-china-policy-amid-reports-of-xi-s-request-on-taiwan/7843735.html>
+
+---
+
+##  Dark Money’s Plan To Keep States In The Dark 
+
+date: 2024-10-29, from: The Lever News
+
+ Corporate interests are trying to kill one of the country’s strongest dark money transparency laws in a major swing state.  
+
+<br> 
+
+<https://www.levernews.com/dark-moneys-plan-to-keep-states-in-the-dark/>
+
+---
+
+## With Kaiser Mental Health Workers on Strike, California Officials Say They Are Watching to Ensure Care
+
+date: 2024-10-29, from: Capital and Main
+
+<p>The health care provider canceled patient appointments during a 2022 strike. State regulators say they are making sure the company does not break the law during the current strike in Southern California.</p>
+<p>The post <a href="https://capitalandmain.com/with-kaiser-mental-health-workers-on-strike-california-officials-say-they-are-watching-to-ensure-care">With Kaiser Mental Health Workers on Strike, California Officials Say They Are Watching to Ensure Care</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/with-kaiser-mental-health-workers-on-strike-california-officials-say-they-are-watching-to-ensure-care>
 
 ---
 
@@ -17,8 +884,8 @@ date: 2024-10-29, from: Marketplace Morning Report
  
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/29/mmr_20241029_MMR_Podcast_3_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/a-novel-investing-tool-or-outright-gambling&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report"></source>
-</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/29/mmr_20241029_MMR_Podcast_3_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/a-novel-investing-tool-or-outright-gambling&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/29/mmr_20241029_MMR_Podcast_3_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/a-novel-investing-tool-or-outright-gambling&awCollectionId=mkp-MMR&awGenre=%5B"Talk","News","Business"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report"></source>
+</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/29/mmr_20241029_MMR_Podcast_3_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/a-novel-investing-tool-or-outright-gambling&awCollectionId=mkp-MMR&awGenre=%5B\"Talk\",\"News\",\"Business\"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/marketplace-morning-report/a-novel-investing-tool-or-outright-gambling>
 
@@ -70,8 +937,8 @@ date: 2024-10-29, from: Marketplace Morning Report
  
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/29/mmr_20241029_MMR_Podcast_2_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/if-you-like-stock-trading-perhaps-youd-like-more-hours-of-it&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report"></source>
-</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/29/mmr_20241029_MMR_Podcast_2_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/if-you-like-stock-trading-perhaps-youd-like-more-hours-of-it&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/29/mmr_20241029_MMR_Podcast_2_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/if-you-like-stock-trading-perhaps-youd-like-more-hours-of-it&awCollectionId=mkp-MMR&awGenre=%5B"Talk","News","Business"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report"></source>
+</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/29/mmr_20241029_MMR_Podcast_2_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/if-you-like-stock-trading-perhaps-youd-like-more-hours-of-it&awCollectionId=mkp-MMR&awGenre=%5B\"Talk\",\"News\",\"Business\"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/marketplace-morning-report/if-you-like-stock-trading-perhaps-youd-like-more-hours-of-it>
 
@@ -85,8 +952,8 @@ date: 2024-10-29, from: Marketplace Morning Report
  
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/29/mmr_20241029_MMR_Podcast_1_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/protestors-flood-tbilisi-over-election-rigging-claims&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report"></source>
-</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/29/mmr_20241029_MMR_Podcast_1_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/protestors-flood-tbilisi-over-election-rigging-claims&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/29/mmr_20241029_MMR_Podcast_1_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/protestors-flood-tbilisi-over-election-rigging-claims&awCollectionId=mkp-MMR&awGenre=%5B"Talk","News","Business"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report"></source>
+</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/29/mmr_20241029_MMR_Podcast_1_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/protestors-flood-tbilisi-over-election-rigging-claims&awCollectionId=mkp-MMR&awGenre=%5B\"Talk\",\"News\",\"Business\"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/marketplace-morning-report/protestors-flood-tbilisi-over-election-rigging-claims>
 
@@ -415,8 +1282,8 @@ date: 2024-10-28, from: Market Place
  
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/28/pm_20241028_PM_Podcast_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace/why-fed-independence-is-crucial&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace"></source>
-</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/28/pm_20241028_PM_Podcast_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace/why-fed-independence-is-crucial&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/28/pm_20241028_PM_Podcast_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace/why-fed-independence-is-crucial&awCollectionId=mkp-MKP-PM&awGenre=%5B"Talk","News","Business"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace"></source>
+</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/28/pm_20241028_PM_Podcast_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace/why-fed-independence-is-crucial&awCollectionId=mkp-MKP-PM&awGenre=%5B\"Talk\",\"News\",\"Business\"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/marketplace/why-fed-independence-is-crucial>
 
@@ -520,8 +1387,8 @@ date: 2024-10-28, from: Market Place, Make me Smart
  
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/28/mms_20241028_Make_Me_Smart_128.mp3?awEpisodeId=https://www.marketplace.org/shows/make-me-smart/keeping-calm-in-the-eye-of-the-election-storm&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/make-me-smart"></source>
-</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/28/mms_20241028_Make_Me_Smart_128.mp3?awEpisodeId=https://www.marketplace.org/shows/make-me-smart/keeping-calm-in-the-eye-of-the-election-storm&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/make-me-smart" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/28/mms_20241028_Make_Me_Smart_128.mp3?awEpisodeId=https://www.marketplace.org/shows/make-me-smart/keeping-calm-in-the-eye-of-the-election-storm&awCollectionId=mkp-MMsmrt&awGenre=%5B"Talk","News","Business"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/make-me-smart"></source>
+</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/28/mms_20241028_Make_Me_Smart_128.mp3?awEpisodeId=https://www.marketplace.org/shows/make-me-smart/keeping-calm-in-the-eye-of-the-election-storm&awCollectionId=mkp-MMsmrt&awGenre=%5B\"Talk\",\"News\",\"Business\"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/make-me-smart" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/make-me-smart/keeping-calm-in-the-eye-of-the-election-storm>
 
@@ -556,7 +1423,7 @@ Community pharmacies are seen as vital to easing NHS pressure, with expanded rol
 date: 2024-10-28, from: Heatmap News
 
 
-<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81Mzg4ODk3Ny9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc1NjYwODg0N30.3dgQqSCEV-aV12c3mQOS3V9Go5t77BxdLdOluYXq1tw/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">Sometimes it’s called the “missing middle,” sometimes, more ominously, the “valley of death.” Whatever the terminology, it’s undeniable that a chasm lies between a climate company’s early funding rounds and its eventual commercial scale-up, one that’s getting harder and harder to bridge. From the first half of last year to the first half of this one, total Series B funding declined by nearly a quarter; beyond Series C rounds — what the market intelligence platform <a href="https://www.ctvc.co/a-weak-11-3bn-start-to-2024-climate-tech/?ref=ctvc-by-sightline-climate-newsletter" rel="noopener noreferrer" target="_blank"><u>CTVC</u></a> calls “growth funding” — it declined by a third.</p><p>“The capital needs of these businesses have just outgrown their early stage backers,” Frank O’Sullivan, a managing director for S2G Ventures’ energy investments, told me. “But the infrastructure investors have absolutely no appetite whatsoever for taking on an unproven technology and scaling.” S2G makes both early stage and growth stage investments, and O’Sullivan co-authored a <a href="https://www.s2gventures.com/2023-capital-imbalances-energy-transition" rel="noopener noreferrer" target="_blank"><u>white paper</u></a> last year on the problem of the “missing middle.” The paper found that of the $270 billion in private capital for clean energy raised between 2017 and 2022, just 20% was allocated to late-stage and growth-focused investments, while 43% went to earlier rounds and 37% toward deploying established tech.</p><p>Of course, some of climate tech’s funding gap can be attributed to broader trends in the venture market and economic landscape. Covid-related disruptions and low interest rates led investors to throw money at promising startups, only to see their valuations drop as inflation (with rising interest rates to match) and geopolitical uncertainty cooled down the overheated market. Other companies went directly onto the public market via special purpose acquisition companies, only to underperform expectations. “There is capital to be deployed,” O’Sullivan told me. “But a lot of the companies that need that capital are struggling, really, to swallow hard and take significant restructuring of their previous valuations.”</p><p>With clean tech in particular, there’s also frequently a mismatch between the abilities of venture firms, which often make their biggest returns on software startups, and the demands of climate tech. The latter tends to require huge investments in physical infrastructure and support for first-of-a-kind projects, and generally has a longer timeline to profitability than, say, an app. “Venture funding, in some sense, was built for scaling software companies,” Laura Pierpoint, managing director of the <a href="https://www.businesswire.com/news/home/20240418137137/en/Prime-Coalition-Announces-Trellis-Climate-to-Accelerate-Deployment-of-First-of-a-Kind-Climate-Projects-Through-Catalytic-Capital" rel="noopener noreferrer" target="_blank"><u>new catalytic capital program</u></a> Trellis Climate, told me. “You’re talking about a capital light business that generally is creating something that enters a white space, and for which there’s huge amounts of market potential.” </p><p>It’s much more difficult to build expensive infrastructure that aims to displace fossil fuel facilities and the entire economy that relies on the cheap, reliable power they provide. So while VCs may be enthusiastic about taking a relatively small financial bet on a high-potential early-stage company, that may be all they’re able to do.</p><p>Trellis, on the other hand, is a part of the climate nonprofit Prime Coalition and funds first-of-a-kind climate projects with philanthropic capital. The nonprofit structure and philanthropy-focused funding model mean that Trellis can take a different tack on missing middle financing than traditional venture or equity investors. For example, Pierpoint told me it can choose whether to invest in a company or just a specific project. Trellis can also help de-risk projects by providing an “insurance backstop” — basically backup capital in case primary project funding falls short. “We’re looking at expanding the kinds of resources and dollars we can bring to the table in general for the ecosystem, because we think that venture can’t do this alone,” Pierpoint told me.</p><p>As with all nonprofits, generating big returns isn’t the focus for Trellis. But for traditional investors, that’s the primary goal. And while growth investments in more technically mature solutions are likely to generate consistent returns, O’Sullivan told me they don’t often provide the rarer but more alluring 10x returns that make early-stage venture capital particularly enticing. “So it’s a more balanced portfolio, typically, in that growth equity category. It’s just that you don’t see the high highs,” he said, explaining that a two to 3x return on investments is more realistic. </p><p>Brook Porter, a partner and co-founder at the growth-stage firm G2 Venture Partners, told me that focusing on the missing middle <em><em>can</em></em> be extremely profitable, though, and that the key to making real money is correctly identifying a company’s “inflection point” — that is, when it’s poised for significant growth and impact. That is, of course, every investor’s dream. But G2’s whole strategy revolves around identifying exactly when this critical juncture will be, tracking more than 2,000 companies per year to identify the ones best poised for breakout scale-up.</p><p>The firm spun off in 2016 from Kleiner Perkins’ Green Growth Fund, where Porter and his three co-founders previously worked as senior partners. This is where they honed their theory of inflection point investing, <a href="https://g2vp.com/portfolio/" rel="noopener noreferrer" target="_blank"><u>funding companies</u></a> such as Uber, drone-maker DJI, and Enphase Energy. Porter told me that helping startups move from proof-of-concept to building “that machine of a business” requires a lot of hand-holding, and that “there aren’t as many investors with that skill set,” so it could take a while for this approach to scale. </p><p>On the other end of the funding spectrum, large institutional investors like banks, hedge funds, and asset management firms certainly have the money to help bridge the missing middle, but O’Sullivan and Pierpoint told me they’re generally more interested in fulfilling their internal climate mandates by building out more wind and solar, which generates near-guaranteed returns. These investment giants then look at their remaining cash and think, “Well, we should do something more avant garde. Let’s put money into early-stage venture,” O’Sullivan explained. That’s how many seed and Series A-focused funds raise money. </p><p>As O’Sullivan sees it, what’s happening now is “a flaw of the structure of capital allocation at the very highest level.” He thinks we could start by reorienting incentives such that large investors such as banks, asset managers, and pension funds get paid in part for helping bring new climate solutions to market, as opposed to just funding the same old, same old. That would allow them to write “right-sized checks” on the order of $50 million to $100 million to ready-to-scale companies — larger than what a VC firm would write, but smaller than what the big infrastructure investors are used to.</p><p>How would those alternate funding models actually work? Well, that’s the real question. Pierpoint said she’s often asked whether a new kind of investor or asset class will be necessary to fill the gap, and while she doesn’t have an answer, what she does know is that the group of climate tech companies that’s ready to commercialize “can’t wait 15 years until we have the exact right form of capital.” </p><p>“There needs to be urgency on the part of philanthropists, on the part of infrastructure equity investors, on the part of venture capitalists, to really start showing that we can do this,” Pierpoint told me, “and that we can bring together the right capital stacks to make this happen.” </p> 
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81Mzg4ODk3Ny9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc1NjYwODg0N30.3dgQqSCEV-aV12c3mQOS3V9Go5t77BxdLdOluYXq1tw/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">Sometimes it’s called the “missing middle,” sometimes, more ominously, the “valley of death.” Whatever the terminology, it’s undeniable that a chasm lies between a climate company’s early funding rounds and its eventual commercial scale-up, one that’s getting harder and harder to bridge. From the first half of last year to the first half of this one, total Series B funding declined by nearly a quarter; beyond Series C rounds — what the market intelligence platform <a href="https://www.ctvc.co/a-weak-11-3bn-start-to-2024-climate-tech/?ref=ctvc-by-sightline-climate-newsletter" rel="noopener noreferrer" target="_blank"><u>CTVC</u></a> calls “growth funding” — it declined by a third.</p><p>“The capital needs of these businesses have just outgrown their early stage backers,” Frank O’Sullivan, a managing director for S2G Ventures’ energy investments, told me. “But the infrastructure investors have absolutely no appetite whatsoever for taking on an unproven technology and scaling.” S2G makes both early stage and growth stage investments, and O’Sullivan co-authored a <a href="https://www.s2gventures.com/2023-capital-imbalances-energy-transition" rel="noopener noreferrer" target="_blank"><u>white paper</u></a> last year on the problem of the “missing middle.” The paper found that of the $270 billion in private capital for clean energy raised between 2017 and 2022, just 20% was allocated to late-stage and growth-focused investments, while 43% went to earlier rounds and 37% toward deploying established tech.</p><p>Of course, some of climate tech’s funding gap can be attributed to broader trends in the venture market and economic landscape. Covid-related disruptions and low interest rates led investors to throw money at promising startups, only to see their valuations drop as inflation (with rising interest rates to match) and geopolitical uncertainty cooled down the overheated market. Other companies went directly onto the public market via special purpose acquisition companies, only to underperform expectations. “There is capital to be deployed,” O’Sullivan told me. “But a lot of the companies that need that capital are struggling, really, to swallow hard and take significant restructuring of their previous valuations.”</p><p>With clean tech in particular, there’s also frequently a mismatch between the abilities of venture firms, which often make their biggest returns on software startups, and the demands of climate tech. The latter tends to require huge investments in physical infrastructure and support for first-of-a-kind projects, and generally has a longer timeline to profitability than, say, an app. “Venture funding, in some sense, was built for scaling software companies,” Lara Pierpoint, managing director of the <a href="https://www.businesswire.com/news/home/20240418137137/en/Prime-Coalition-Announces-Trellis-Climate-to-Accelerate-Deployment-of-First-of-a-Kind-Climate-Projects-Through-Catalytic-Capital" rel="noopener noreferrer" target="_blank"><u>new catalytic capital program</u></a> Trellis Climate, told me. “You’re talking about a capital light business that generally is creating something that enters a white space, and for which there’s huge amounts of market potential.” </p><p>It’s much more difficult to build expensive infrastructure that aims to displace fossil fuel facilities and the entire economy that relies on the cheap, reliable power they provide. So while VCs may be enthusiastic about taking a relatively small financial bet on a high-potential early-stage company, that may be all they’re able to do.</p><p>Trellis, on the other hand, is a part of the climate nonprofit Prime Coalition and funds first-of-a-kind climate projects with philanthropic capital. The nonprofit structure and philanthropy-focused funding model mean that Trellis can take a different tack on missing middle financing than traditional venture or equity investors. For example, Pierpoint told me it can choose whether to invest in a company or just a specific project. Trellis can also help de-risk projects by providing an “insurance backstop” — basically backup capital in case primary project funding falls short. “We’re looking at expanding the kinds of resources and dollars we can bring to the table in general for the ecosystem, because we think that venture can’t do this alone,” Pierpoint told me.</p><p>As with all nonprofits, generating big returns isn’t the focus for Trellis. But for traditional investors, that’s the primary goal. And while growth investments in more technically mature solutions are likely to generate consistent returns, O’Sullivan told me they don’t often provide the rarer but more alluring 10x returns that make early-stage venture capital particularly enticing. “So it’s a more balanced portfolio, typically, in that growth equity category. It’s just that you don’t see the high highs,” he said, explaining that a two to 3x return on investments is more realistic. </p><p>Brook Porter, a partner and co-founder at the growth-stage firm G2 Venture Partners, told me that focusing on the missing middle <em><em>can</em></em> be extremely profitable, though, and that the key to making real money is correctly identifying a company’s “inflection point” — that is, when it’s poised for significant growth and impact. That is, of course, every investor’s dream. But G2’s whole strategy revolves around identifying exactly when this critical juncture will be, tracking more than 2,000 companies per year to identify the ones best poised for breakout scale-up.</p><p>The firm spun off in 2016 from Kleiner Perkins’ Green Growth Fund, where Porter and his three co-founders previously worked as senior partners. This is where they honed their theory of inflection point investing, <a href="https://g2vp.com/portfolio/" rel="noopener noreferrer" target="_blank"><u>funding companies</u></a> such as Uber, drone-maker DJI, and Enphase Energy. Porter told me that helping startups move from proof-of-concept to building “that machine of a business” requires a lot of hand-holding, and that “there aren’t as many investors with that skill set,” so it could take a while for this approach to scale. </p><p>On the other end of the funding spectrum, large institutional investors like banks, hedge funds, and asset management firms certainly have the money to help bridge the missing middle, but O’Sullivan and Pierpoint told me they’re generally more interested in fulfilling their internal climate mandates by building out more wind and solar, which generates near-guaranteed returns. These investment giants then look at their remaining cash and think, “Well, we should do something more avant garde. Let’s put money into early-stage venture,” O’Sullivan explained. That’s how many seed and Series A-focused funds raise money. </p><p>As O’Sullivan sees it, what’s happening now is “a flaw of the structure of capital allocation at the very highest level.” He thinks we could start by reorienting incentives such that large investors such as banks, asset managers, and pension funds get paid in part for helping bring new climate solutions to market, as opposed to just funding the same old, same old. That would allow them to write “right-sized checks” on the order of $50 million to $100 million to ready-to-scale companies — larger than what a VC firm would write, but smaller than what the big infrastructure investors are used to.</p><p>How would those alternate funding models actually work? Well, that’s the real question. Pierpoint said she’s often asked whether a new kind of investor or asset class will be necessary to fill the gap, and while she doesn’t have an answer, what she does know is that the group of climate tech companies that’s ready to commercialize “can’t wait 15 years until we have the exact right form of capital.” </p><p>“There needs to be urgency on the part of philanthropists, on the part of infrastructure equity investors, on the part of venture capitalists, to really start showing that we can do this,” Pierpoint told me, “and that we can bring together the right capital stacks to make this happen.” </p> 
 
 <br> 
 
@@ -663,8 +1530,8 @@ date: 2024-10-28, from: Marketplace Morning Report
  
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/28/mmr_20241028_MMR_Podcast_3_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/how-healthy-is-the-job-market-on-the-eve-of-the-election&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report"></source>
-</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/28/mmr_20241028_MMR_Podcast_3_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/how-healthy-is-the-job-market-on-the-eve-of-the-election&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/28/mmr_20241028_MMR_Podcast_3_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/how-healthy-is-the-job-market-on-the-eve-of-the-election&awCollectionId=mkp-MMR&awGenre=%5B"Talk","News","Business"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report"></source>
+</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/28/mmr_20241028_MMR_Podcast_3_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/how-healthy-is-the-job-market-on-the-eve-of-the-election&awCollectionId=mkp-MMR&awGenre=%5B\"Talk\",\"News\",\"Business\"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/marketplace-morning-report/how-healthy-is-the-job-market-on-the-eve-of-the-election>
 
@@ -730,8 +1597,8 @@ date: 2024-10-28, from: Marketplace Morning Report
  
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/28/mmr_20241028_MMR_Podcast_2_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/california-tries-to-woo-back-movie-studios&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report"></source>
-</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/28/mmr_20241028_MMR_Podcast_2_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/california-tries-to-woo-back-movie-studios&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/28/mmr_20241028_MMR_Podcast_2_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/california-tries-to-woo-back-movie-studios&awCollectionId=mkp-MMR&awGenre=%5B"Talk","News","Business"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report"></source>
+</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/28/mmr_20241028_MMR_Podcast_2_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/california-tries-to-woo-back-movie-studios&awCollectionId=mkp-MMR&awGenre=%5B\"Talk\",\"News\",\"Business\"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/marketplace-morning-report/california-tries-to-woo-back-movie-studios>
 
@@ -745,8 +1612,8 @@ date: 2024-10-28, from: Marketplace Morning Report
  
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/28/mmr_20241028_MMR_Podcast_1_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/yen-tumbles-over-shock-election-results-in-japan&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report"></source>
-</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/28/mmr_20241028_MMR_Podcast_1_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/yen-tumbles-over-shock-election-results-in-japan&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/28/mmr_20241028_MMR_Podcast_1_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/yen-tumbles-over-shock-election-results-in-japan&awCollectionId=mkp-MMR&awGenre=%5B"Talk","News","Business"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report"></source>
+</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/28/mmr_20241028_MMR_Podcast_1_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/yen-tumbles-over-shock-election-results-in-japan&awCollectionId=mkp-MMR&awGenre=%5B\"Talk\",\"News\",\"Business\"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/marketplace-morning-report/yen-tumbles-over-shock-election-results-in-japan>
 
@@ -1247,7 +2114,7 @@ Estimated ticket sales for Friday through Sunday at U.S. and Canadian theaters, 
 
 date: 2024-10-27, from: The Lever News
 
- The press often pretends that billionaires don&#39;t influence the newsrooms they own - but it&#39;s now undeniable.  
+ The press often pretends that billionaires don&#39;t influence the newsrooms they own — but it&#39;s now undeniable.  
 
 <br> 
 

@@ -1,11 +1,256 @@
 ---
 title: journalism
-updated: 2024-10-29 08:22:42
+updated: 2024-10-30 07:57:46
 ---
 
 # journalism
 
-(date: 2024-10-29 08:22:42)
+(date: 2024-10-30 07:57:46)
+
+---
+
+## Classifieds – October 30, 2024
+
+date: 2024-10-30, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/30/classifieds-october-30-2024/">Classifieds &#8211; October 30, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/30/classifieds-october-30-2024/>
+
+---
+
+## Major security flaw allows for impersonation of USC emails
+
+date: 2024-10-30, from: The Daily Trojan (USC Student Newspaper)
+
+<p>External sender warning messages appears on many e-mail communications.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/30/major-security-flaw-allows-for-impersonation-of-usc-emails/">Major security flaw allows for impersonation of USC emails</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/30/major-security-flaw-allows-for-impersonation-of-usc-emails/>
+
+---
+
+## House of Harmony creates space for underrepresented artists
+
+date: 2024-10-30, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The original performance event will take place on Nov. 22 at the TCC Ballroom.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/30/house-of-harmony-creates-space-for-underrepresented-artists/">House of Harmony creates space for underrepresented artists</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/30/house-of-harmony-creates-space-for-underrepresented-artists/>
+
+---
+
+## USG passes bylaw amendment on second try
+
+date: 2024-10-30, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The senate meeting Tuesday started with a new Land &#038; Labor acknowledgment.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/30/usg-passes-bylaw-amendment-on-second-try/">USG passes bylaw amendment on second try</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/30/usg-passes-bylaw-amendment-on-second-try/>
+
+---
+
+**@The Daily Trojan (USC Student Newspaper)** (date: 2024-10-30, from: The Daily Trojan (USC Student Newspaper))
+
+<p>The original performance event will take place on Nov. 22 in the TCC Ballroom.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/30/220305/"></a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/30/220305/>
+
+---
+
+## SCA screens new ‘Wallace & Gromit’ epic
+
+date: 2024-10-30, from: The Daily Trojan (USC Student Newspaper)
+
+<p>An epic theatrical screening and Q&#038;A brought laughter and nostalgia to audiences.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/30/sca-screens-new-wallace-gromit-epic/">SCA screens new ‘Wallace &#038; Gromit’ epic</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/30/sca-screens-new-wallace-gromit-epic/>
+
+---
+
+## Measure G proposes expanding board of supervisors, increasing accountability
+
+date: 2024-10-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+Los Angeles County residents will vote this November on whether to change the way the county is governed.
+Measure G, authored by County Supervisors Lindsey Horvath and Janice Hahn, proposes to alter the LA County Charter to expand the LA County Board of Supervisors from five to nine members and create an elected county executive. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/29/measure-g-proposes-expanding-board-of-supervisors-increasing-accountability/>
+
+---
+
+## ‘Black mold, leaky roofs’: Proposition 2 puts $10B for school repairs on ballot
+
+date: 2024-10-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+California voters will decide next Tuesday whether to approve a $10 billion bond for school renovations.
+If passed, Proposition 2 will allow the state to sell $8.5 billion in bonds to repair K-12 schools and $1.5 billion in bonds to improve community college campuses, said Steven Brint, a distinguished professor of public policy and sociology at UC Riverside. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/29/black-mold-leaky-roofs-proposition-2-puts-10b-for-school-repairs-on-ballot/>
+
+---
+
+## Uniqlo founder gives $31M to UCLA to fund study of Japanese humanities
+
+date: 2024-10-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+Japan&#8217;s richest man donated $31 million to the study of Japanese humanities at UCLA on Oct. 3. 
+Tadashi Yanai, the president of Japanese retail company Fast Retailing &#8211; the parent company of clothing company Uniqlo &#8211; committed the donation to the Yanai Initiative for Globalizing Japanese Humanities. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/29/uniqlo-founder-gives-31m-to-ucla-to-fund-study-of-japanese-humanities/>
+
+---
+
+## Persian Perspectives Today: Shahab Paranj
+
+date: 2024-10-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+Listen to series host and podcast contributor Megan Vahdat sit down with the director of UCLA&#8217;s Iranian music program, Dr. Shahab Paranj, to discuss the importance of sharing traditional Iranian music with new generations. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/29/persian-perspectives-today-shahab-paranj/>
+
+---
+
+## Voices of change: CSUN Hosts panel on race, justice and the legal system
+
+date: 2024-10-30, from: The Sundail (CSUN Student Newspaper)
+
+“Critical Race Theory, Ethnic Studies, and the Criminal Legal System: A Conversation on Justice with Black Public Defenders” is a panel that aims to expose students to issues of mass... 
+
+<br> 
+
+<https://sundial.csun.edu/186995/news/voices-of-change-csun-hosts-panel-on-race-justice-and-the-legal-system/>
+
+---
+
+## Album review: Tyler, The Creator’s ‘CHROMAKOPIA’ solidifies legacy, cultural impact
+
+date: 2024-10-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 29 at 8:17 p.m.</em>
+With “CHROMAKOPIA,” Tyler, The Creator paints his most vibrant and daring masterpiece yet.
+Released Monday, Tyler, The Creator’s seventh studio album follows his critically acclaimed albums, “CALL ME IF YOU GET LOST,” “IGOR” and “Flower Boy.” The project blends elements of psychedelic soul, industrial rock and classic hip-hop, creating a captivating and diverse listening experience that blends the strategic qualities of his previous work and reflects his artistic growth. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/29/album-review-tyler-the-creators-chromakopia-solidifies-legacy-cultural-impact/>
+
+---
+
+## Horrors of UCLA: Enrollment fright
+
+date: 2024-10-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2024/10/29/horrors-of-ucla-enrollment-fright/>
+
+---
+
+## October 2024 – Volume 65 Issue 3
+
+date: 2024-10-29, from: The Sundail (CSUN Student Newspaper)
+
+Letter from the Editor: Issue 3 Volume 65 CSUN&#8217;s Land Acknowledgment CSUN&#8217;s POWWOW Preview Costum or Culture  Education Not Eradicate Native Artist Carrying Tradition  Indigenous Solidarity Media Querencia Matador Marquee... 
+
+<br> 
+
+<https://sundial.csun.edu/186922/print-editions/october-2024-volume-65-issue-3/>
+
+---
+
+## ‘Girl Meets World’ alumnus August Maturo takes on love of education at UCLA
+
+date: 2024-10-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+This autumn, August Maturo is penning a new chapter.
+The young actor has just transferred to UCLA at the age of 17. A third-year English student, Maturo said he previously attended Moorpark College with a mix of in-person and asynchronous classes to better accommodate his schedule as a working actor. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/29/girl-meets-world-alumnus-august-maturo-takes-on-love-of-education-at-ucla/>
+
+---
+
+## In a saturated true crime landscape, some content creators try to focus on victims and survivors
+
+date: 2024-10-29, from: Nieman Journalism Lab
+
+When 27-year-old Jackie Flores tells people she’s a full-time content creator, they incorrectly assume her content blends her two main interests: true crime and beauty. “I’ve seen pages where people do their makeup while talking about true crime,” said Flores, who posts researched true crime retellings as @truecrimejackie. “I feel like, we&#8217;re speaking about something... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/10/in-a-saturated-true-crime-landscape-some-content-creators-try-to-focus-on-victims-and-survivors/>
+
+---
+
+## AS Sol Fest revived after multiple year hiatus
+
+date: 2024-10-29, from: The Sundail (CSUN Student Newspaper)
+
+“It’s kind of like a mini Coachella, a mini music fest,” said Nicole Burgess, an event producer for Associated Students (AS). Sol Fest, an AS event that began three or... 
+
+<br> 
+
+<https://sundial.csun.edu/186891/arts-entertainment/as-sol-fest-revived-after-multiple-year-hiatus/>
+
+---
+
+## Your Rose Bowl Survivor Guide
+
+date: 2024-10-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2024/10/29/your-rose-bowl-survivor-guide/>
+
+---
+
+## Measure ll plans to clarify existing administration policies, cut outdated rules
+
+date: 2024-10-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+Voters will get to vote on changes to city administration in November.
+If passed, Measure II will make adjustments to the Los Angeles City Charter to codify administration policies set by the city, including the powers of airport commissioners to set fees and for city-owned venues to sell merchandise. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/29/measure-ll-plans-to-clarify-existing-administration-policies-cut-outdated-rules/>
 
 ---
 
@@ -95,8 +340,9 @@ date: 2024-10-29, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2024-10-29, from: The Daily Bruin (UCLA Student Newspaper)
 
-At &#8220;Encuentro,&#8221; artists are becoming the architects of their futures.
-The Latino Theater Company&#8217;s annual &#8220;Encuentro&#8221; theater festival is currently underway at The Los Angeles Theatre Center. 
+This post was updated Oct. 29 at 8:01 p.m.
+At “Encuentro,” artists are becoming the architects of their futures.
+The Latino Theater Company’s annual “Encuentro” theater festival is currently underway at The Los Angeles Theatre Center. 
 
 <br> 
 

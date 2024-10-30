@@ -1,11 +1,383 @@
 ---
 title: science and technology
-updated: 2024-10-29 08:22:40
+updated: 2024-10-30 07:57:44
 ---
 
 # science and technology
 
-(date: 2024-10-29 08:22:40)
+(date: 2024-10-30 07:57:44)
+
+---
+
+## New Raspberry Pi OS switches everyone over to Wayland
+
+date: 2024-10-30, from: OS News
+
+The slow rise of Wayland hasn&#8217;t really been slow anymore for years now, and today another major part of the Linux ecosystem is making the jump from X to Wayland. So we made the decision to switch. For most of this year, we have been working on porting labwc to the Raspberry Pi Desktop. This has very much been a collaborative process with the developers of both labwc and wlroots: both have helped us immensely with their support as we contribute features and optimisations needed for our desktop. After much optimisation for our hardware, we have reached the point where labwc desktops run just as fast as X on older Raspberry Pi models. Today, we make the switch with our latest desktop image: Raspberry Pi Desktop now runs Wayland by default across all models. ↫ Simon Long Raspberry Pi Desktop already used Wayland on some of the newer models, through the use of Wayfire. However, it turned out Wayfire wasn&#8217;t a good fit for the older Pi models, and Wayfire&#8217;x development direction would move it even further away from that goal, which is obviously important to the Raspberry Pi Foundation. They eventually settled on using labwc instead, which can also be used on older Pi models. As such, all Pi models will now switch to using Wayland with the latest update to the operating system. This new update also brings vastly improved touchscreen support, a rewritten panel application that won&#8217;t keep removed plugins in memory, a new display configuration utility, and more. 
+
+<br> 
+
+<https://www.osnews.com/story/141020/new-raspberry-pi-os-switches-everyone-over-to-wayland/>
+
+---
+
+## Russian spies use remote desktop protocol files in unusual mass phishing drive
+
+date: 2024-10-30, updated: 2024-10-30, from: The Register (UK I.T. News)
+
+<h4>The prolific Midnight Blizzard crew cast a much wider net in search of scrummy intel</h4> <p>Microsoft says a mass phishing campaign by Russia&#39;s foreign intelligence services (SVR) is now in its second week, and the spies are using a novel info-gathering technique.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/30/russia_wrangles_rdp_files_in/>
+
+---
+
+## Musk, Bezos need just 90 minutes to match your lifetime carbon footprint, says Oxfam
+
+date: 2024-10-30, updated: 2024-10-30, from: The Register (UK I.T. News)
+
+<h4>Between jets, yachts and investments in destructive companies, billionaires are speed running the apocalypse</h4> <p>Despite their self-professed environmental bona fides, tech billionaires like Elon Musk, Jeff Bezos, and the their ilk are responsible for so much carbon emissions that the average person would need a lifetime to match the amount one of them spews in 90 minutes.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/30/tech_billionaires_carbon_footprint/>
+
+---
+
+## Brit Apple semi supplier IQE's CEO departs amid reshuffle
+
+date: 2024-10-30, updated: 2024-10-30, from: The Register (UK I.T. News)
+
+<h4>Big personnel changes happening as semiconductor materials seller looks set to list Taiwan biz in 2025</h4> <p>In an unexpected personnel shake-up, IQE chief Americo Lemos has left the listed British semiconductor materials supplier effective immediately after less than three years at the helm.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/30/iqe_ceo_americo_lemos_departs/>
+
+---
+
+## Beijing claims it's found 'underwater lighthouses' that its foes use for espionage
+
+date: 2024-10-30, updated: 2024-10-30, from: The Register (UK I.T. News)
+
+<h4>Release the Kraken!</h4> <p>China has accused unnamed foreign entities of using devices hidden in the seabed and bobbing on the waves to learn its maritime secrets.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/30/china_seabed_surveillance_device_claims/>
+
+---
+
+## OpenAI reportedly asks Broadcom for help with custom inferencing silicon
+
+date: 2024-10-30, updated: 2024-10-30, from: The Register (UK I.T. News)
+
+<h4>Fabbed by TSMC, needed for … it&#39;s a secret</h4> <p>OpenAI is reportedly in talks with Broadcom to build a custom inferencing chip.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/30/openai_broadcom_tsmc_custom_silicon/>
+
+---
+
+## No-Nvidias networking club convenes in search of open GPU interconnect
+
+date: 2024-10-30, updated: 2024-10-30, from: The Register (UK I.T. News)
+
+<h4>Ultra Accelerator Link consortium promises 200 gigabits per second per lane spec will debut in Q1 2025</h4> <p>The Ultra Accelerator Link Consortium – an alliance of enterprise tech vendors that pointedly excludes Nvidia because it wants a shared standard for accelerator-to-accelerator links – has opened its doors and promised to deliver a spec in the first quarter of 2025.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/30/ualink_consortium_incorporated/>
+
+---
+
+## China refreshes crew of its 'Celestial Palace' space station
+
+date: 2024-10-30, updated: 2024-10-30, from: The Register (UK I.T. News)
+
+<h4>Incoming trio includes first female engineer, a returning taikonaut, and one newbie</h4> <p>Three taikonauts have successfully launched from the Jiuquan Satellite Launch Center and are on their way to the Tiangong space station.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/30/china_tiangong_crew_refresh/>
+
+---
+
+## AMD teases its GPU biz 'approaching the scale' of CPU operations
+
+date: 2024-10-30, updated: 2024-10-30, from: The Register (UK I.T. News)
+
+<h4>Q3 profits jump 191 percent from last quarter on revenues of $6.2 billion, helped by accelerated interest in Instinct</h4> <p>AMD continued to ride a wave of demand for its Instinct MI300X AI accelerators – its answer to Nvidia&#39;s venerable H100 – in its third quarter, revealing that the part is expected to drive $5 billion in revenues during the chip designer&#39;s 2024 fiscal year.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/30/amd_q3_2024/>
+
+---
+
+## Alphabet posts big revenue and profit growth, just 1,100 job losses
+
+date: 2024-10-30, updated: 2024-10-30, from: The Register (UK I.T. News)
+
+<h4>Google Cloud grows fast thanks to AI, which now writes a quarter of all G-code</h4> <p>Alphabet CEO Sundar Pichai has warned that the Department of Justice&#39;s proposed remedies for Google&#39;s monopolistic behaviour could impact US leadership of the global tech market – after announcing enormous growth in the megalithic firm&#39;s ad business.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/30/alphabet_q3_2024/>
+
+---
+
+## Uncle Sam outs a Russian accused of developing Redline infostealing malware
+
+date: 2024-10-29, updated: 2024-10-29, from: The Register (UK I.T. News)
+
+<h4>Or: why using the same iCloud account for malware development and gaming is a bad idea</h4> <p>The US government has named and charged a Russian national, Maxim Rudometov, with allegedly developing and administering the notorious Redline infostealer. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/29/russian_redline_malware/>
+
+---
+
+## Cast a hex on ChatGPT to trick the AI into writing exploit code
+
+date: 2024-10-29, updated: 2024-10-29, from: The Register (UK I.T. News)
+
+<h4>&#39;It was like watching a robot going rogue&#39; says researcher</h4> <p>OpenAI&#39;s language model GPT-4o can be tricked into writing exploit code by encoding the malicious instructions in hexadecimal, which allows an attacker to jump the model&#39;s built-in security guardrails and abuse the AI for evil purposes, according to 0Din researcher Marco Figueroa.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/29/chatgpt_hex_encoded_jailbreak/>
+
+---
+
+## Russian court fines Google $20,000,000,000,000,000,000,000,000,000,000,000
+
+date: 2024-10-29, updated: 2024-10-30, from: The Register (UK I.T. News)
+
+<h4>Don&#39;t hold your breath Putin</h4> <p>A Russian court has ruled that Google owes Russian media stations around $20 decillion in fines for blocking their content, and the fines could get bigger.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/29/russian_court_fines_google/>
+
+---
+
+## Softbank CEO says 'super AI' will arrive in 2035 and cost $9T
+
+date: 2024-10-29, updated: 2024-10-29, from: The Register (UK I.T. News)
+
+<h4>Oh, and it&#39;ll need the total current US power output</h4> <p><strong>Video</strong>  Masayoshi Son, the Japanese billionaire behind Softbank, has predicted that an artificial superintelligence 10,000 times smarter than a human brain will be created within about a decade - but at quite a cost.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/29/softbank_super_ai/>
+
+---
+
+## Ken Iliff: Engineering 40 Years of Success
+
+date: 2024-10-29, from: NASA breaking news
+
+Editor’s note: This article was published May 23, 2003, in NASA Armstrong’s X-Press newsletter. NASA’s Dryden Flight Research Center in Edwards, California, was redesignated Armstrong Flight Research Center on March 1, 2014. Ken Iliff was inducted into the National Hall of Fame for Persons with Disabilities in 1987. He died Jan. 4, 2016. As an [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/armstrong/ken-iliff-engineering-40-years-of-success/>
+
+---
+
+## You Can Buy the Recording Console the Beatles Used to Make Their Iconic Album 'Abbey Road'
+
+date: 2024-10-29, from: Smithsonian Magazine
+
+After a years-long restoration, the unique device that recorded hits like "Come Together" and "Here Comes the Sun" is now fully functional 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/you-can-buy-the-recording-console-the-beatles-used-to-make-their-iconic-album-abbey-road-180985346/>
+
+---
+
+## xAI picked Ethernet over InfiniBand for its H100 Colossus training cluster
+
+date: 2024-10-29, updated: 2024-10-29, from: The Register (UK I.T. News)
+
+<h4>Work already underway to expand system to 200,000 Nvidia Hopper chips</h4> <p>Unlike most AI training clusters, xAI&#39;s Colossus with its 100,000 Nvidia Hopper GPUs doesn&#39;t use InfiniBand. Instead, the massive system, which Nvidia bills as the &#34;world&#39;s largest AI supercomputer,&#34; was built using the GPU giant&#39;s Spectrum-X Ethernet fabric.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/29/xai_colossus_networking/>
+
+---
+
+## More Than One in Three Tree Species Around the Globe Are at Risk of Disappearing, New Report Finds
+
+date: 2024-10-29, from: Smithsonian Magazine
+
+An assessment from the International Union for Conservation of Nature paints a grim picture of the extinction risk of the world's trees 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/more-than-one-in-three-tree-species-around-the-globe-are-at-risk-of-disappearing-new-report-finds-180985355/>
+
+---
+
+## A Particular Lenticular Cloud
+
+date: 2024-10-29, from: NASA breaking news
+
+Landsat 8’s Operational Land Imager acquired this image of an elongated lenticular cloud, locally nicknamed the “Taieri Pet,” above New Zealand’s South Island on Sept. 7, 2024. Lenticular clouds form when prevailing winds encounter a topographic barrier, such as a mountain range. Wind that is forced to flow up and over the mountains creates a [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/a-particular-lenticular-cloud/>
+
+---
+
+## Station Science Top News: Oct. 25, 2024
+
+date: 2024-10-29, from: NASA breaking news
+
+Better Monitoring of the Air Astronauts Breathe Ten weeks of operations showed that a second version of the Spacecraft Atmosphere Monitor is sensitive enough to determine variations in the composition of cabin air inside the International Space Station. Volatile organic compounds and particulates in cabin air could pose a health risk for crew members, and this device [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-oct-25-2024/>
+
+---
+
+## Linus Torvalds: 90% of AI marketing is hype
+
+date: 2024-10-29, updated: 2024-10-29, from: The Register (UK I.T. News)
+
+<h4>Linux kernel creator says let&#39;s see which workloads use GenAI in five years</h4> <p>Linus Torvalds, creator of the Linux kernel, thinks the majority of marketing circulated by the industry on Generative AI is simply fluff with no real substance - and it may take many years before the tech is proven.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/29/linus_torvalds_ai_hype/>
+
+---
+
+## Carissa Arillo: Testing Spacecraft, Penning the Owner’s Manuals
+
+date: 2024-10-29, from: NASA breaking news
+
+Flight operations engineer Carissa Arillo helped ensure one of the instruments on NASA’s PACE mission made it successfully through its prelaunch testing. She and her group also documented the work rigorously, to ensure the flight team had a comprehensive manual to keep this Earth-observing satellite in good health for the duration of its mission. Name: [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/goddard/carissa-arillo-testing-spacecraft-penning-the-owners-manuals/>
+
+---
+
+## 'Found' Dataset Reveals Lost Maya City Full of Pyramids and Plazas, Hiding in Plain Sight Beneath a Mexican Forest
+
+date: 2024-10-29, from: Smithsonian Magazine
+
+By analyzing an old lidar survey, researchers found evidence of more than 6,500 ancient structures in a previously unexplored area of Campeche 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/found-dataset-reveals-lost-maya-city-hiding-in-plain-sight-beneath-a-mexican-forest-180985354/>
+
+---
+
+## NASA Sets Coverage for its SpaceX Crew-9 Dragon Station Relocation
+
+date: 2024-10-29, from: NASA breaking news
+
+In preparation for the arrival of NASA’s SpaceX 31st commercial resupply services mission, four crew members aboard the International Space Station will relocate the agency’s SpaceX Crew-9 Dragon spacecraft to a different docking port Sunday, Nov. 3. Live coverage begins at 6:15 a.m. EST on NASA+ and will end shortly after docking. Learn how to watch [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-sets-coverage-for-its-spacex-crew-9-dragon-station-relocation/>
+
+---
+
+## US Army turns to 'Scylla' AI to protect depot
+
+date: 2024-10-29, updated: 2024-10-29, from: The Register (UK I.T. News)
+
+<h4>Ominously-named bot can spot trouble from a mile away, distinguish threats from false alarms, says DoD</h4> <p>The US Army is testing a new AI product that it says can identify threats from a mile away, and all without the need for any new hardware. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/29/us_army_scylla_ai/>
+
+---
+
+## New 'Paleo-Robots' Could Shed Light on Animal Evolution, Revealing How Some Fish Evolved to 'Walk' on Land
+
+date: 2024-10-29, from: Smithsonian Magazine
+
+A team of roboticists, paleontologists and biologists are building robots to simulate crucial evolutionary developments that can’t be tested with static fossils 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/new-paleo-robots-could-shed-light-on-animal-evolution-revealing-how-some-fish-evolved-to-walk-on-land-180985342/>
+
+---
+
+## Belgian cops cuff 2 suspected cybercrooks in Redline, Meta infostealer sting
+
+date: 2024-10-29, updated: 2024-10-29, from: The Register (UK I.T. News)
+
+<h4>US also charges an alleged Redline dev, no mention of an arrest</h4> <p>International law enforcement officials have arrested two individuals and charged another in connection with the use and distribution of the Redline and Meta infostealer malware strains.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/29/belgian_cops_arrest_two_suspected/>
+
+---
+
+## How NASA’s Lunar Trailblazer Could Decipher the Moon’s Icy Secrets
+
+date: 2024-10-29, from: NASA breaking news
+
+There’s water on the Moon, but scientists only have a general idea of where it is and what form it is in. A trailblazing NASA mission will get some answers. When NASA’s Lunar Trailblazer begins orbiting the Moon next year, it will help resolve an enduring mystery: Where is the Moon’s water? Scientists have seen [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/small-satellite-missions/lunar-trailblazer/how-nasas-lunar-trailblazer-could-decipher-the-moons-icy-secrets/>
+
+---
+
+## Scientists Think a Skeleton Found in a Well Is the Same Man Described in an 800-Year-Old Norse Text
+
+date: 2024-10-29, from: Smithsonian Magazine
+
+The remains were discovered during excavations in 1938. Now, researchers have learned new information about his identity by analyzing DNA from his tooth 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/scientists-think-a-skeleton-found-in-a-well-is-the-same-man-described-in-an-800-year-old-norse-text-180985343/>
+
+---
+
+## The troublesome economics of CPU-only AI
+
+date: 2024-10-29, updated: 2024-10-30, from: The Register (UK I.T. News)
+
+<h4>At the end of the day, it all boils down to tokens per dollar</h4> <p><strong>Analysis</strong>  Today, most GenAI models are trained and run on GPUs or some other specialized accelerator, but that doesn&#39;t mean they have to be. In fact, several chipmakers have suggested that CPUs are more than adequate for many enterprise AI use cases.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/29/cpu_gen_ai_gpu/>
+
+---
+
+## NASA Helps Find Thawing Permafrost Adds to Near-Term Global Warming
+
+date: 2024-10-29, from: NASA breaking news
+
+Earth’s far northern reaches have locked carbon underground for millennia. New research paints a picture of a landscape in change. A new study, co-authored by NASA scientists, details where and how greenhouse gases are escaping from the Earth’s vast northern permafrost region as the Arctic warms. The frozen soils encircling the Arctic from Alaska to [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/earth/nasa-helps-find-thawing-permafrost-adds-to-near-term-global-warming/>
 
 ---
 

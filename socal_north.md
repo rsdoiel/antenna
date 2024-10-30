@@ -1,11 +1,97 @@
 ---
 title: socal north
-updated: 2024-10-29 08:22:39
+updated: 2024-10-30 07:57:43
 ---
 
 # socal north
 
-(date: 2024-10-29 08:22:39)
+(date: 2024-10-30 07:57:43)
+
+---
+
+## Republican strategist on the rise of the third generation Latino voter and their impact on the U.S. presidential election
+
+date: 2024-10-30, updated: 2024-10-30, from: The LAist
+
+Mike Madrid says Democrats and Republicans have failed to unlock the Latino vote, which increasingly is U.S. born and growing rapidly. 
+
+<br> 
+
+<https://laist.com/news/politics/latino-voter-u-s-presidential-election>
+
+---
+
+## These cities could see big changes in rent control if Prop. 33 passes
+
+date: 2024-10-29, updated: 2024-10-29, from: The LAist
+
+As voters weigh whether to allow local governments to expand rent control, elected officials in San Francisco and Los Angeles have already shown interest in doing so. 
+
+<br> 
+
+<https://laist.com/news/politics/these-cities-could-see-big-changes-in-rent-control-if-prop-33-passes>
+
+---
+
+## ¿Qué es un bono? ¿Por qué siempre me piden que vote por uno?
+
+date: 2024-10-29, updated: 2024-10-29, from: The LAist
+
+Decenas de distritos escolares en los condados de Los Ángeles y Orange están pidiendo a los votantes que aprueben $17 mil millones en fondos para mantener y reemplazar las instalaciones escolares. 
+
+<br> 
+
+<https://laist.com/news/politics/2024-election-california-general-bond-explainer-los-angeles-orange-county-es-bono-votantes>
+
+---
+
+## The Huntington Beach City Clerk's race is hot — because of voter ID
+
+date: 2024-10-29, updated: 2024-10-29, from: The LAist
+
+The seat has often gone uncontested, but not this year. 
+
+<br> 
+
+<https://laist.com/news/politics/huntington-beach-city-clerks-race-voter-id>
+
+---
+
+## Port of Hueneme “Goes Electric!” Over $42 Million EPA Clean Ports Grant Award
+
+date: 2024-10-29, from: Port Hueneme
+
+<p>Charging Forward, One More Step Toward Zero Emissions Download Press Release Contact: Giles Pettifor Director of Environment and Sustainability gpettifor@portofh.org &#160; [PORT HUENEME, CA] – Port of Hueneme “Goes Electric”&#8230;</p>
+<p>The post <a href="https://www.portofhueneme.org/42-million-epa-clean-ports-grant-award/">Port of Hueneme “Goes Electric!” Over $42 Million EPA Clean Ports Grant Award</a> appeared first on <a href="https://www.portofhueneme.org">The Port of Hueneme</a>.</p>
+ 
+
+<br> 
+
+<https://www.portofhueneme.org/42-million-epa-clean-ports-grant-award/>
+
+---
+
+## The history of the Grapevine and its predecessor — the Old Ridge Road
+
+date: 2024-10-29, updated: 2024-10-29, from: The LAist
+
+Before there was the Grapevine, there was the Old Ridge Route, a 697-curve pass through the mountains connecting SoCal to NorCal. 
+
+<br> 
+
+<https://laist.com/news/la-history/grapevine-old-ridge-road-history>
+
+---
+
+## Fall temperatures takeover SoCal
+
+date: 2024-10-29, updated: 2024-10-29, from: The LAist
+
+Partially cloudy tomorrow with a slight chance of rain this weekend. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/fall-temperatures-socal-10-29-24>
 
 ---
 
@@ -114,7 +200,7 @@ These counties will help tell the story of how either former President Donald Tr
 
 ## Marilyn Monroe. Rudolph Valentino. The celebrity ghosts you might see in Hollywood during spooky season
 
-date: 2024-10-28, updated: 2024-10-28, from: The LAist
+date: 2024-10-28, updated: 2024-10-29, from: The LAist
 
 Welcome to Spooky L.A., a series where we explore the eerie, dark history of the city during the week of Halloween. 
 

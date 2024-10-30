@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2024-10-29 08:22:42
+updated: 2024-10-30 07:57:47
 ---
 
 # libraries
 
-(date: 2024-10-29 08:22:42)
+(date: 2024-10-30 07:57:47)
 
 ---
 
@@ -69,6 +69,92 @@ Cristofolini, Eber A.; Escribano, Facundo A.; Otamendi, Juan E.; Morosini, Augus
 
 ---
 
+## Vanishing Culture: A Report on Our Fragile Cultural Record
+
+date: 2024-10-30, from: Internet Archive Blog
+
+Download Vanishing Culture: A Report on Our Fragile Cultural Record In today’s digital landscape, corporate interests, shifting distribution models, and malicious cyber attacks are threatening public access to our shared [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2024/10/30/vanishing-culture-a-report-on-our-fragile-cultural-record/>
+
+---
+
+## Guest Post — How Generative AI Could Transform Scholarly Publishing: Themes and Reflections from Interviews with Industry Leaders
+
+date: 2024-10-30, from: Scholarly Kitchen
+
+<p>A new study from Ithaka S+R explores: How will generative AI transform scholarly communication and where will change be most rapid and revolutionary?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/10/30/gen-ai-transform-scholarly-publishing/">Guest Post &#8212; How Generative AI Could Transform Scholarly Publishing: Themes and Reflections from Interviews with Industry Leaders</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2024/10/30/gen-ai-transform-scholarly-publishing/>
+
+---
+
+## Data repository: Spin-orbit coupling in MoS2/bilayer graphene heterostructures
+
+date: 2024-10-30, from: ETH Zurich, recently added
+
+Masseroni, Michele; Gull, Mario; Panigrahi, Archisman; Niels, Jacobsen; Felix, Fischer; Duprez, Hadrien; Tong, Chuyao; Gerber, Jonas; Niese, Markus; Taniguchi, Takashi; Watanabe, Kenji; Levitov, Leonid S.; Ihn, Thomas Markus; Ensslin, Klaus 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/662935>
+
+---
+
+## Supporters Stand Strong with Internet Archive at Annual Celebration
+
+date: 2024-10-29, from: Internet Archive Blog
+
+The Internet Archive held its annual celebration on October 23, with leaders showing resilience—and finding support—to carry out their work, despite recent attacks. Brewster Kahle, Internet Archive’s founder and digital [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2024/10/29/supporters-stand-strong-with-internet-archive-at-annual-celebration/>
+
+---
+
+## History of the Peloponnesian War, by Thucydides
+
+date: 2024-10-29, from: Standard Ebooks, new releaases
+
+A contemporary history of the ancient Greek war between Athens and Sparta and their allies. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/thucydides/history-of-the-peloponnesian-war/richard-crawley>
+
+---
+
+## Evelina, by Fanny Burney
+
+date: 2024-10-29, from: Standard Ebooks, new releaases
+
+A young woman navigates the absurdities of 18th-century English society, fends off various suitors, and attempts to establish her true parentage. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/fanny-burney/evelina>
+
+---
+
+## Appreciation for Preservation at Physical Archive Event
+
+date: 2024-10-29, from: Internet Archive Blog
+
+“Welcome to the Physical Archive!” On a tour October 22, Brewster Kahle, founder of the Internet Archive, shared his enthusiasm for the industrial building in Richmond, California, that serves as [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2024/10/29/appreciation-for-preservation-at-physical-archive-event/>
+
+---
+
 ## The 2025 Annual SSP Meeting: What We’re Looking Forward To and Why to Submit Before it’s Too Late!
 
 date: 2024-10-29, from: Scholarly Kitchen
@@ -111,7 +197,7 @@ A young man’s visions disrupt the peace of his community.
 
 date: 2024-10-28, from: Association of Research Libraries News
 
-<p>Last Updated on October 28, 2024, 4:23 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, October 29 &#124; Wednesday, October 30 &#124; Thursday,...</p>
+<p>Last Updated on October 29, 2024, 2:19 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, October 29 &#124; Wednesday, October 30 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/uncategorized/day-in-review-october-28-31/">Day in Review (October 28–31)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
