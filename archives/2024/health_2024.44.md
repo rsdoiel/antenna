@@ -1,0 +1,117 @@
+---
+title: health
+updated: 2024-10-30 13:52:08
+---
+
+# health
+
+(date: 2024-10-30 13:52:08)
+
+---
+
+## Multiple Brucella melitensis lineages are driving the human brucellosis epidemic in Shaanxi Province, China: evidence from whole genome sequencing-based analysis
+
+date: 2024-10-30, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionHuman brucellosis is a severe public concern in Shaanxi Province, China, and investigating the epidemiological relationship and transmission pattern of B. melitensis is necessary to devise control strategies.MethodsIn this study, a conventional bio-typing approach and whole genome sequencing of single-nucleotide polymorphisms (SNPs) were employed to identify 189 strains.ResultsBased on the conventional bio-typing, 189 Brucella strains were identified as B. melitensis, of which 14 were in bv. 1, 145 were in bv. 3, and 30 were variant, and the Brucella strains were distributed in all ten cities in Shaanxi Province. SNP analysis was used to identify genetic variation in 189 B. melitensis genomes, and maximum-likelihood was used to generate a phylogeny that identified two clades (A and B) and 19 sequence types (STs). The two clades were highly diverse and exclusively of Eastern Mediterranean origin. Clade B contained 18 STs (2-19), with most isolates originating from a broad swath, implying that multiple B. melitensis lineages circulated in Shaanxi. The 19 STs were composed of 3 to 46 strains isolated from different counties and years, suggesting that multiple cross-county brucellosis outbreak events are driven by multiple B. melitensis lineages. Global phylogenetic analysis revealed that clade A was close to GTIIb, and clade B was placed in the GTIIh lineage, expanding the known diversity of B. melitensis from China.ConclusionThe human brucellosis epidemic in Shaanxi is driven by multiple indigenous circulating B. melitensis lineages, the knowledge of which will contribute to devising a control strategy and providing the foundation for a comprehensive regional phylogeny of this important zoonotic pathogen. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1452143>
+
+---
+
+## People’s CDC COVID-19 Weather Report
+
+date: 2024-10-29, from: People's CDC
+
+This is the People's CDC bi-weekly update for October 28, 2024! This Weather Report from the People’s CDC sheds light on the ongoing COVID situation in the US. 
+
+<br> 
+
+<https://peoplescdc.org/2024/10/28/peoples-cdc-covid-19-weather-report-85/>
+
+---
+
+## Chemokine profile in the serum of patients with leptospirosis
+
+date: 2024-10-29, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionLeptospirosis is a global zoonosis that affects more than one million people per year, with a lethality rate of approximately 15%. Chemokines are crucial in the immune response against Leptospira, recruiting leukocytes to the site of infection and regulating immune activity. In previous studies, we have shown that CCL2, CXCL5, and CCL8 are involved in the leptospirosis process, although the mechanisms are not understood. MethodsIn this study, we present the frequency of Leptospira serovars in human samples. We then evaluated the profile of various chemokines in sera from patients diagnosed with leptospirosis, assessing the possible correlation between them. Moreover, we evaluated the changes in the chemokine profile on different days after the first symptoms. The frequency of the Leptospira serovars in human samples is presented. Results and discussionThe main findings were that CCL5, CXCL5, and CXCL9 are highly expressed during leptospirosis, indicating a special role of these molecules in the immunity and pathogenesis of the disease. The correlation analysis of detected chemokines CXCL11, CXCL9, CCL3, and CCL2 helps to clarify the role of each cytokine in leptospirosis. The possible use of CCL5 as a biomarker for complementary diagnosis of the disease is suggested. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1484291>
+
+---
+
+## Bronchoalveolar lavage fluid and lung biopsy tissue metagenomic next-generation sequencing in the diagnosis of pulmonary cryptococcosis
+
+date: 2024-10-29, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectiveTo evaluate the diagnostic value of metagenomic next-generation sequencing (mNGS) in pulmonary cryptococcosis (PC) using bronchoalveolar lavage fluid (BALF) and lung biopsy tissue specimens.MethodsIn this retrospective study, 321 patients diagnosed with lower respiratory tract diseases who underwent mNGS using BALF and LBT samples, between January 2021 and December 2023 were included. Individuals were classified into PC and non-PC groups according to the diagnostic criteria for PC, and conventional fungal cultures were performed. A serum/BALF cryptococcal antigen (CrAg) test was performed in some patients with PC. The diagnostic efficiencies of three methods for PC (mNGS, conventional culture, and CrAg) were compared. Additionally, two mNGS methods were used in this study: original mNGS (OmNGS, testing time from January 2021 to December 2022) and modified mNGS (MmNGS, testing time from January to December 2023). The diagnostic efficiency of the two mNGS methods on PC was simultaneously compared.ResultsAmong the 321 patients, 23 (7.2%) had PC and 298 (92.8%) did not. Compared with the composite reference standard for PC diagnosis, the sensitivity, specificity, and accuracy of mNGS for PC were 78.3% (95% confidence interval [CI], 55.8%–91.7%), 98.7% (95% CI, 96.4%–99.6%), and 97.2% (95% CI, 94.7%–98.7%), respectively. The sensitivity of mNGS was similar to that of CrAg (80.0%, 12/15) (P > 0.05). The diagnostic sensitivity of both mNGS and CrAg was higher than that of conventional culture (35.0%, 7/20) (P = 0.006, P = 0.016), and the combined detection of mNGS and CrAg further improved the diagnostic sensitivity of PC (93.3%, 14/15). The area under the receiver operating characteristic curve of mNGS was superior to that of conventional culture (0.885 vs. 0.675). In addition, the diagnostic sensitivity of PC was higher than that of OmNGS (P = 0.046).ConclusionThe sensitivity of mNGS is better than that of conventional culture. The combination of mNGS and CrAg improves the testing sensitivity of Cryptococcus. MmNGS could further improve the detection of Cryptococcus. Conventional PC detection methods are indispensable and mNGS can be used as a rapid and accurate auxiliary diagnostic method for PC. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1446814>
+
+---
+
+## Development and preliminary assessment of the iFIND TBR: all-in- one molecular diagnostic assay for rapid detection of Mycobacterium tuberculosis and rifampicin resistance
+
+date: 2024-10-29, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionEarly and accurate diagnosis of tuberculosis (TB) is crucial for initiating timely treatment and preventing new infections. In this study, we introduced the iFIND TBR assay, an automated all-in-one tuberculosis detection approach that simultaneously detect Mycobacterium tuberculosis (MTB) and rifampicin (RIF) resistance.MethodsThe limits of detection (LOD), sensitivity, specificity, and RIF-R rpoB mutation detection of the iFIND TBR were tested on Mycobacterium tuberculosis DNA or sputum samples spiked with known numbers of M.tuberculosis H37Rv. Frozen clinical samples from patients suspected of having TB were also tested.ResultsThe LOD of the iFIND TBR for MTB detection were 13.34 CFU/ml (95% CI, 11.71-16.47), and for RIF resistance was 109.79CFU/mL (95% CI, 95-138.19). The iFIND TBR assay accurately distinguish MTB strains from non-tuberculous mycobacteria (NTM) without any cross reactivity. Testing on 157 clinical sputum samples, compared with the bacteriologically TB standard, the overall sensitivity and specificity of the iFIND TBR was 100% (95%CI, 94.64, 100) and 85.29% (95% CI, 74.61, 92.72), respectively. When assessing RIF susceptibility, the iFIND TBR achieved a sensitivity of 98.15% (95% CI, 90.11–99.95) and a specificity of 85.71% (95% CI, 67.33–95.97), compared with phenotypic drug susceptibility testing. Discordant RIF susceptibility results were more frequently observed in samples exhibiting heteroresistance.DiscussionThese findings demonstrate that iFIND TBR assay performs well in detecting TB and RIF resistance, and shows promise as a point-of-care tool in resource-limited areas. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1439099>
+
+---
+
+## Scalable solutions for global health: the SalivaDirect model
+
+date: 2024-10-29, from: Frontiers in Cellular and Infection Microbiology
+
+The COVID-19 pandemic caught the world unprepared. Large-scale testing efforts were urgently needed, and diagnostic strategies had to rapidly evolve in response to unprecedented worldwide demand. However, the rollout of diagnostic testing and screening for SARS-CoV-2 was often impeded by logistical challenges, including regulatory delays, workforce shortages, laboratory bottlenecks, and supply chain disruptions. Recognizing these hurdles early on, we developed a testing approach that supported frequent, repeat testing, particularly as communities reopened. We hypothesized and experimentally demonstrated that saliva was a suitable specimen for the detection of SARS-CoV-2. This finding was advanced into the development of open-source, extraction-free reverse transcription polymerase chain reaction protocols using readily available, “off-the-shelf” reagents and equipment for the direct detection of SARS-CoV-2 in saliva (“SalivaDirect’’). Working with the US Food and Drug Administration (FDA), we established a novel regulatory framework wherein the FDA granted Emergency Use Authorization to Yale University to offer the SalivaDirect test protocol to high-complexity diagnostic laboratories (as designated by the Clinical Laboratory Improvement Amendments) with quality oversight provided by Yale. This grew into a network of more than 200 labs across the United States that, as of May 2024, resulted in over 6.5 million SARS-CoV-2 tests. By making the protocol flexible and open-source, laboratories were able to rapidly and economically scale testing using a simple, self-collected saliva specimen. Additionally, fostering a national network of laboratories enabled real-time exchanges, problem solving, and the development of community best practices. Preparing for the next pandemic, or simply the next seasonal epidemic, the SalivaDirect model of deploying a readily available, expandable solution and accompanying network provides a proven method for the successful implementation of pathogen testing in the United States and globally. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1446514>
+
+---
+
+## Nitric oxide-producing monocyte-myeloid suppressor cells expand and accumulate in the spleen and mesenteric lymph nodes of Yersinia enterocolitica-infected mice
+
+date: 2024-10-28, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionYersinia enterocolitica (Ye) is a Gram-negative bacterium that causes gastrointestinal infections. The myeloid-derived suppressor cells (MDSCs) constitute a cellular population with the capacity of inducing the specific suppression of T cells. Although there is evidence supporting the role of MDSCs in controlling the immune responses in several bacterial infections, its role during Ye infection has not yet been reported. Therefore, the purpose of the present work was to analyze MDSCs after oral Ye infection.MethodsC57BL/6 wild-type mice were infected with Ye WAP-314 serotype O:8. The proliferation of splenocytes and mesenteric lymph nodes (MLN) cells was measured as well as the levels of cytokines and nitric oxide (NO) in culture supernatants. The frequency and subsets of MDSCs were analyzed in the intestinal mucosa and spleen by flow cytometry. Furthermore, monocytic-MDSCs (Mo-MDSCs) and polymorphonuclear-MDSCs (PMN-MDSCs) were purified from the spleen of infected mice and their suppressor activity was evaluated in co-cultures with purified T cells.Resultswe observed a marked expansion of CD11b+Gr-1+ cells, a phenotype consistent with MDSCs, in the spleen and intestinal mucosa of Ye-infected mice. Interestingly, a robust proliferation of splenocytes and MLN cells was observed only when the MDSCs were depleted or the NO production was blocked. In addition, we determined that only Mo-MDSCs had the ability to suppress T-cell proliferation.ConclusionOur results highlight a mechanism by which Ye may induce suppression of the immune responses. We suggest that NO-producing Mo-MDSCs expand and accumulate in MLN and spleen of Ye-infected mice. These cells can then suppress the T-cell function without interfering with the anti-bacterial effector response. Instead, these immature myeloid cells may perform an important function in regulating the inflammatory response and protecting affected tissues. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1440514>
+
+---
+
+## Co-frequency or contrary? The effects of Qiwei Baizhu Powder and its bioactive compounds on mucosa-associated microbiota of mice with antibiotic-associated diarrhea
+
+date: 2024-10-28, from: Frontiers in Cellular and Infection Microbiology
+
+Qiwei Baizhu Powder (QWBZP) has been proven effective in treating antibiotic-associated diarrhea (AAD), and the mechanism is associated with regulating the gut microbiota. However, the role of the bioactive compounds of QWBZP in regulating the gut microbiota is still unclear. In this study, 24 mice were divided into a normal control group (N), a model group (R), a QWBZP decoction group (TW), and a QWBZP-TG group (TG). AAD mouse models were established by mixed antibiotic administration. After modeling, mice in the TW group and TG group were treated with QWBZP decoction and QWBZP-TG, respectively. Mice in the N group and R group were gavaged with sterile water. 16S rRNA gene sequencing was used to investigate the changes of mucosa-associated microbiota (MAM) in the small intestine of mice. Moreover, the levels of diamine oxidase (DAO), D-Lactate, secretory immunoglobulin A (sIgA), interleukin 6 (IL-6), IL-10, and tumor necrosis factor-α (TNF-α) were detected using enzyme-linked immunosorbent assay (ELISA) kits. The results showed that QWBZP-TG significantly altered the diversity, structure, and abundance of MAM in the AAD mice. QWBZP-TG exerted a stronger suppression effect on Escherichia and Clostridium compared with QWBZP decoction. Meanwhile, QWBZP-TG downregulated the abundance of Lactobacillus, which elicited an opposite effect to QWBZP decoction. Prevotella was the signature bacteria that responded to the QWBZP-TG intervention. Furthermore, both QWBZP decoction and QWBZP-TG decreased the levels of DAO, D-Lactate, sIgA, IL-6, and TNF-α in the AAD mice. The role of glycosides is to help QWBZP ameliorate diarrhea symptoms by inhibiting the proliferation of diarrhea-associated bacteria, reducing inflammation and regulating immunity. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1483048>
+
+---
+
+## IFN-treated macrophage-derived exosomes prevents HBV-HCC migration and invasion via regulating miR-106b-3p/PCGF3/PI3K/AKT signaling axis
+
+date: 2024-10-28, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundStudies revealed that exosomes from IFN-α-treated liver non-parenchymal cells (IFN-exo) mediate antiviral activity. MiR-106b-3p has been shown to play a paradoxical role in disease progressing from different studies. However, its specific role in HBV-related hepatocellular carcinoma (HBV-HCC) and the underlying mechanism remains unclear.MethodHuh7 cells transient transfected with plasmids of HBV-C2 and B3 were co-cultured with IFN-exo. Cell supernatants were collected to detect miR-106b-3p, HBsAg, HBeAg and HBV DNA levels. Cell proliferation, apoptosis, migration and invasion were analyzed. The putative targets of miR-106b-3p were identified by a dual-luciferase reporter system. The expression of PCGF3, migratory proteins(MMP2/9), and the PI3K/AKT signaling pathway-related proteins were assessed by western blot. The expression of PCGF3 mRNA was quantitative analyzed by using 52 pairs of paraffin-embedded tissues from HCC patients. siRNAs-PCGF3 were used to knocked-down PCGF3 expression.ResultsThe expression of miR-106b-3p was significantly higher in THP-1 cells and supernatants treated with IFN-exo than those untreated. Significantly increased expression of miR-106b-3p and decreased expression of HBsAg and HBV DNA were observed in Huh7-C2/B3 cells treated with IFN-exo. In addition, miR-106b-3p was directly target to PCGF3. Scratch healing assay and transwell assay showed that either IFN-exo or miRNA-106-3p over-expression, or siRNAs-PCGF3 inhibited migration and invasion of Huh7-C2/B3 cells, and subsequently resulted in suppression of p-AKT/AKT and p-PI3K/PI3K. Notably, the expression level of PCGF3 was significantly lower in HBeAg (+)-HCC tumor tissues than HBeAg (-)-HCC tumor.ConclusionIFN-α-induced macrophage-derived miR-106b-3p inhibits HBV replication, HBV- Huh7 cells migration and invasion via regulating PCGF3/PI3K/AKT signaling axis. miR-106b-3p and PCGF3 were potential biomarkers in the prevention and treatment of HBV-HCC. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1421195>
+
