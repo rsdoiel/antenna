@@ -1,11 +1,38 @@
 ---
 title: writing
-updated: 2024-10-30 07:57:46
+updated: 2024-10-30 13:52:06
 ---
 
 # writing
 
-(date: 2024-10-30 07:57:46)
+(date: 2024-10-30 13:52:06)
+
+---
+
+## Copyright Management Information, 1202(b), and AI
+
+date: 2024-10-30, from: Author's Union blog
+
+This post is by Maria Crusey, a third-year law student at Washington University in St. Louis. Maria has been working with Authors Alliance this semester on a project exploring legal claims in the now 30+ pending copyright AI lawsuits.  In the recent spate of copyright infringement lawsuits against AI developers, many plaintiffs allege violations of [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2024/10/30/copyright-management-information-1202b-and-ai/>
+
+---
+
+## Five Lessons in Horror Writing from 'Smile 2' Filmmaker Parker Finn
+
+date: 2024-10-30, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/five-lessons-in-horror-writing-from-smile-2-filmmaker-parker-finn" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Smile%202-1.png" alt="Five Lessons in Horror Writing from 'Smile 2' Filmmaker Parker Finn" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Writer/director <a href="https://www.imdb.com/name/nm6475689/">Parker Finn</a> has mastered a specific brand of horror with 2022’s <span style="font-style: italic;">Smile</span> and this year’s Halloween hit, <span style="font-style: italic;">Smile 2</span>. It’s dour, it’s high-concept, it’s ghastly and gory and great. The story might lead viewers to ask certain questions. How does he come up with such unique scares, and write them visually on the page? How does a focus on character influence the tension? Also, is he okay? (Just kidding.)&nbsp;<br><br>Finn has tapped into something that is resonating with <a href="https://blog.finaldraft.com/why-horror-never-dies">horror</a> fans and everyday moviegoers alike, and is doing so with original storytelling and deft direction that has landed him in the nation’s number-one box office spot.&nbsp;<br><br>In this film, his smiley contagion lands on Skye Riley (Naomi Scott), one of the world’s biggest pop stars on the cusp of a comeback. The year before, she suffered a deadly accident and heavy substance abuse.&nbsp;<br><br>As she preps for her tour, she visits old friend Lewis (Lukas Gage), who has just had the curse transferred to him. After he dies in front of her, Skye finds herself rehearsing and handling appearances as everything crumbles around her. She grows increasingly manic, not sure what’s real and who she can trust.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/five-lessons-in-horror-writing-from-smile-2-filmmaker-parker-finn>
 
 ---
 
@@ -26,22 +53,19 @@ date: 2024-10-30, from: Literature & a Latte blog
 date: 2024-10-29, from: Locus Magazine
 
 <p>The Science Fiction and Fantasy Writers Association (SFWA) has announced the results of its special election.</p>
-<p><strong>President: </strong>Kate Ristau (126 votes)</p>
+<p><strong>President: </strong>Kate Ristau
+</p>
 <div class="mynomorebulletlist">
-<ul>
-<li>Christine Taylor-Butler (93 votes)</li>
-<li>Jennifer Brozek (62 votes)</li>
-</ul>
-<p><strong>Secretary: </strong> Steven D. Brewer (85 votes)</p>
-<ul>
-<li>Matthew Reardon (5 votes)</li>
-<li>Kate Ristau (4 votes)</li>
-<li>Christine Taylor-Butler (3 votes)</li>
-<li>Curtis C. Chen (3 votes)</li>
-<li>Jennifer Brozek (3 votes)</li>
-</ul>
+<p><strong>Secretary: </strong> Steven D. Brewer</p>
 </div>
-<p>There were also multiple write-in candidates who received two votes or fewer. The announcement  <a href="https://locusmag.com/2024/10/sfwa-special-election-results/" class="read-more">...Read More </a></p> 
+<p>The newly elected officers and directors-at-large will serve on the SFWA Board from November 1st, 2024, through June 30th, 2025.</p>
+<p>Kate Ristau – President
+Anthony Eichenlaub – Vice President
+Jonathan Brazee – CFO
+Steven D. Brewer – Secretary
+Christine Taylor-Butler – Director-at-Large
+Phoebe Barton – Director-at-Large
+Noah  <a href="https://locusmag.com/2024/10/sfwa-special-election-results/" class="read-more">...Read More </a></p> 
 
 <br> 
 

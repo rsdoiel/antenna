@@ -1,11 +1,37 @@
 ---
 title: motorcycles
-updated: 2024-10-30 07:57:47
+updated: 2024-10-30 13:52:07
 ---
 
 # motorcycles
 
-(date: 2024-10-30 07:57:47)
+(date: 2024-10-30 13:52:07)
+
+---
+
+## New KTMs to Get Android Automotive Displays, Here's the Good and the Bad
+
+date: 2024-10-30, from: Ride Apart, Electric Motorcycle News
+
+It’s a whole different thing from Android Auto, but there might just be a problem. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/738898/ktm-andorid-automotive-displays-2025/>
+
+---
+
+## India’s Ultraviolette F77 Now Has European Certification, But There’s a Problem
+
+date: 2024-10-30, from: Ride Apart, Electric Motorcycle News
+
+Its price tag shot up to nearly thrice that of its local market.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/739054/ultraviolette-f77-unece-certification-europe/>
 
 ---
 

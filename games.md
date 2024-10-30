@@ -1,11 +1,95 @@
 ---
 title: games
-updated: 2024-10-30 07:57:46
+updated: 2024-10-30 13:52:06
 ---
 
 # games
 
-(date: 2024-10-30 07:57:46)
+(date: 2024-10-30 13:52:06)
+
+---
+
+## The best Asus ROG Ally accessories
+
+date: 2024-10-30, updated: 2024-10-30, from: Polygon Website
+
+The Asus ROG Ally X is currently one of the most powerful handheld PCs currently available (the standard ROG Ally is no slouch, either). Compared to the Steam Deck, Asus’ handhelds are a better fit for gamers who want Windows OS on their handheld for superb game compatibility —&#160;especially those who like using non-Steam launchers [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-buy/23844769/best-asus-rog-ally-accessories>
+
+---
+
+## Save on a bunch of Nintendo Switch titles at Woot
+
+date: 2024-10-30, updated: 2024-10-30, from: Polygon Website
+
+New games for the Nintendo Switch usually cost $59.99, but Woot is discounting a substantial collection of must-haves through Oct. 31. Many of these titles match their lowest prices ever, which we expect to see during Black Friday, not in October. Included in this sale are discounts on essential titles like The Legend of Zelda: [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/sales-guide/471089/nintendo-switch-woot-game-zelda-mario-pokemon-deal>
+
+---
+
+## Pokémon Go ‘Halloween 2024 Part 2’ event guide
+
+date: 2024-10-30, updated: 2024-10-30, from: Polygon Website
+
+Pokémon Go’s 2024 Halloween event continues with Halloween 2024 Part 2, running from Oct. 28 until Nov. 3. The event brings back a ton of costumed Pokémon, as well as introduces two new costumed creatures: Froakie and Rowlet. The event also features some pretty good candy bonuses: doubled candy for catching Pokémon and an increased [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/439865/halloween-2024-part-2-event-guide-field-research>
+
+---
+
+## Here are some of the best horror board games you can buy right now
+
+date: 2024-10-30, updated: 2024-10-30, from: Polygon Website
+
+Whether you want jump scares or that level of persistent terror that comes with a thriller, there’s nothing like playing a horror game. Even better if it’s a horror board game, so you can sit around a table with friends or family and bond over being scared together. If you want to get really into [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gift-guide/471994/best-horror-board-games-2024>
+
+---
+
+## The best horror movies of the year so far, ranked by scariness
+
+date: 2024-10-30, updated: 2024-10-30, from: Polygon Website
+
+The year got off to a rather slow start when it comes to horror movies, but now that the release calendar has ramped up, there are quite a few new horror movies worth watching. While we’re still only a little more than halfway through 2024, it’s hard not to feel like this year’s horror theme [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/24090384/best-horror-movies-2024-how-scary>
+
+---
+
+## Game of the Year: The frontrunners, dark horses, and challengers to come
+
+date: 2024-10-30, updated: 2024-10-30, from: Polygon Website
+
+This year marks the 10th anniversary of The Game Awards, and in that time Geoff Keighley’s annual event has established itself quite firmly as the leading awards ceremony for the game industry — the Oscars of gaming. It remains promotionally overstuffed to the point that it’s still arguably better known for trailers than awards, but [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/awards/450195/game-of-the-year-game-awards-frontrunners>
+
+---
+
+## PlayStation Plus subscribers get Ghostwire: Tokyo, new Death Note game in November
+
+date: 2024-10-30, updated: 2024-10-30, from: Polygon Website
+
+PlayStation Plus subscribers’ free Essential games for November 2024 are Hot Wheels Unleashed 2, Ghostwire: Tokyo, and Death Note Killer Within, Sony Interactive Entertainment announced Wednesday. Players can download the trio of games beginning Nov. 5. Hot Wheels Unleashed 2 offers more arcade-style racing with Hot Wheels cars, trucks, motorbikes, and ATVs, all with upgradeable skill trees. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/472264/playstation-plus-november-2024-games-list-free>
 
 ---
 

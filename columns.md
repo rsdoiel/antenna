@@ -1,11 +1,154 @@
 ---
 title: columns
-updated: 2024-10-30 07:57:45
+updated: 2024-10-30 13:52:06
 ---
 
 # columns
 
-(date: 2024-10-30 07:57:45)
+(date: 2024-10-30 13:52:06)
+
+---
+
+## Sidenote of the Week: All MacBook Air Models Now Start With 16 GB RAM
+
+date: 2024-10-30, updated: 2024-10-30, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.macrumors.com/2024/10/30/macbook-air-now-starts-with-16gb-ram/>
+
+---
+
+##  In 2002, the US military lost a $250 million war game in... 
+
+date: 2024-10-30, updated: 2024-10-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045557-in-2002-the-us-military>
+
+---
+
+##  Lidar drone mapping has revealed previously unknown cities in the mountains of... 
+
+date: 2024-10-30, updated: 2024-10-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045553-lidar-drone-mapping-has-r>
+
+---
+
+## October 29, 2024
+
+date: 2024-10-30, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/150951924/04af79b59f27b7e8d6950c289c754ad8.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/150951924/04af79b59f27b7e8d6950c289c754ad8.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/october-29-2024-96a>
+
+---
+
+##  Digital Divinity is a fascinating series on how tech is transforming religion,... 
+
+date: 2024-10-30, updated: 2024-10-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045554-digital-divinity-is-a-fas>
+
+---
+
+##  Mermaids of North America 
+
+date: 2024-10-30, updated: 2024-10-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/mermaids-of-north-america>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-30, from: Dave Winer's Scripting News)
+
+YouTube TV when it starts up, the station it automatically opens is Fox News. I posted this on various social webs and heard from people this is not their experience.
+ 
+
+<br> 
+
+<http://scripting.com/2024/10/30.html#a170135>
+
+---
+
+## Watched First Peoples – Americas
+
+date: 2024-10-30, from: Tracy Durnell Blog
+
+Some interesting stuff in this but I strongly disagreed with the language used to describe First Peoples as &#8220;conquering&#8221; and &#8220;colonizing&#8221; the Americas &#8212; language they used repeatedly throughout the episode. I feel those are wholly inappropriate ways to describe the spread of first peoples in the Americas; colonization is technically the term we use [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2024/10/30/watched-first-peoples-americas/>
+
+---
+
+##  Bidenomics Is Starting to Transform America. &#8220;Objectively, and improbably, he has passed... 
+
+date: 2024-10-30, updated: 2024-10-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045555-bidenomics-is-starting-to>
+
+---
+
+## 2024-10-30 Attention economy? ✋ Spoon economy? 👈
+
+date: 2024-10-30, from: Alex Schroeder's Blog
+
+<h1 id="2024-10-30-attention-economy-spoon-economy">2024-10-30 Attention economy? ✋ Spoon economy? 👈</h1>
+
+<p>People have been talking about the <a href="https://en.wikipedia.org/wiki/Attention_economy">attention economy</a>, trying to argue that we are building systems that never forget, that keep accumulating, because we can, because it is our instinct. And as a result, we&rsquo;re building our own panopticon, where the archives of our deeds are there for everybody to see, to ingest, to transform and to barf forth as AI slop. <a href="2017-04-27_Record_Keeping">The records we keep</a> only ever benefit our enemies, never ourselves. That&rsquo;s why I like automatic expiration of everything on social media.</p>
+
+<p>Sometimes, archives are worth it. My blog is better curated than this feed you&rsquo;re following. I rarely delete blog posts. Maybe I should… If you&rsquo;re an organisation, you might want to keep archives. If you hold public office, official acts should certainly be archived. So there are some instances where archiving is OK. But for you and me, for most of us? Maybe not. And the hard-core record keepers can always run their own instances. Then again, I run my own instance and it can&rsquo;t automatically expire all posts, which is a bummer! That day will come, however.</p>
+
+<p>As I&rsquo;m thinking of this and as I&rsquo;m talking to people, however, I&rsquo;m starting to realize that perhaps the term attention economy is no longer true. I am living in the spoon economy.</p>
+
+<p>I just don&rsquo;t have the time and energy for so many things. We are, collectively, mostly, out of spoons.</p>
+
+<p><a class="tag" href="/search/?q=%23Forgetting">#Forgetting</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2024-10-30-spoons>
+
+---
+
+##  Kelli Anderson details how the clever A-to-Z 7-segment display mechanism works on... 
+
+date: 2024-10-30, updated: 2024-10-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045549-kelli-anderson-details-ho>
 
 ---
 
@@ -15,7 +158,7 @@ date: 2024-10-30, updated: 2024-10-30, from: Bruce Schneier blog
 
 <p>Excellent <a href="https://www.linkedin.com/pulse/spooky-data-distance-simson-garfinkel-nrt9e/ ">read</a>. One example:</p>
 <blockquote><p>Consider the case of basic public key cryptography, in which a person’s public and private key are created together in a single operation. These two keys are entangled, not with quantum physics, but with math.</p>
-<p>When I create a virtual machine server in the Amazon cloud, I am prompted for an RSA public key that will be used to control access to the machine. Typically, I create the public and private keypair on my laptop and upload the public key to Amazon, which bakes my public key into the server’s administrator account. My laptop and that remove server are thus entangled, in that the only way to log into the server is using the key on my laptop. And because that administrator account can do anything to that server­read the sensitivity data, hack the web server to install malware on people who visit its web pages, or anything else I might care to do­the private key on my laptop represents a security risk for that server...</p></blockquote> 
+<p>When I create a virtual machine server in the Amazon cloud, I am prompted for an RSA public key that will be used to control access to the machine. Typically, I create the public and private keypair on my laptop and upload the public key to Amazon, which bakes my public key into the server’s administrator account. My laptop and that remove server are thus entangled, in that the only way to log into the server is using the key on my laptop. And because that administrator account can do anything to that server­&#8212;read the sensitivity data, hack the web server to install malware on people who visit its web pages, or anything else I might care to do­&#8212;the private key on my laptop represents a security risk for that server...</p></blockquote> 
 
 <br> 
 

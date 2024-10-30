@@ -1,11 +1,477 @@
 ---
 title: north america
-updated: 2024-10-30 07:57:42
+updated: 2024-10-30 13:52:04
 ---
 
 # north america
 
-(date: 2024-10-30 07:57:42)
+(date: 2024-10-30 13:52:04)
+
+---
+
+##  Will The Cheneys Win Or Lose The Election For Dems? 
+
+date: 2024-10-30, from: The Lever News
+
+ In this bonus episode of Lever Time, David Sirota and Arjun Singh talk to Vice writer/director Adam McKay about Kamala Harris’ alliance with Dick and Liz Cheney.  
+
+<br> 
+
+<https://www.levernews.com/will-the-cheneys-win-or-lose-the-election-for-dems/>
+
+---
+
+## US detects H5N1 bird flu in pig for first time
+
+date: 2024-10-30, from: VOA News USA
+
+CHICAGO, ILLINOIS — H5N1 bird flu had been confirmed in a pig in a backyard farm in Oregon, the first detection of the virus in swine in the country, the U.S. Department of Agriculture said on Wednesday.
+
+
+Pigs represent a particular concern for the spread of bird flu because they can become co-infected with bird and human viruses, which could swap genes to form a new, more dangerous virus that can more easily infect humans.
+
+
+The USDA said there is no risk to the nation's pork supply from the Oregon case and that the risk to the public from bird flu remains low.
+
+
+Pigs were the source of the H1N1 flu pandemic in 2009-2010, and have been implicated as the source of others, said Richard Webby, a St. Jude Children's Research Hospital virologist who studies flu in animals and birds for the World Health Organization.
+
+
+The finding of the virus in a small farm makes the pig infection less of a concern than if it had been detected in a commercial pig farm, he said.
+
+
+"I think it probably doesn't increase the risk much, but surely, if this virus starts transmitting in pigs, that absolutely increases the risk," he said.
+
+
+The Oregon farm has been quarantined, and other animals there, including sheep and goats, are under surveillance, the USDA said.
+
+
+Pigs and poultry on the farm were culled to prevent the spread of the virus and enable additional testing of the swine, the USDA said. Tests are still pending for two of the pigs, the agency said.
+
+
+The swine case originated with wild birds and not from a poultry or dairy farm, a USDA spokesperson said. Wild bird migration has carried bird flu to poultry flocks and cattle herds.
+
+
+The case was one factor that prompted the USDA to broaden its bird flu surveillance to include nationwide bulk milk testing, which the agency announced on Wednesday, Agriculture Secretary Tom Vilsack told Reuters in an interview.
+
+
+"While it’s a different variation of the virus and it is tied to wild birds, it is a factor to make sure that we understand and appreciate exactly where the virus is in dairy and in bovine," he said.
+
+
+The pigs on the Oregon farm were not intended for the commercial food supply, the USDA said.
+
+
+The agency said that poultry and swine on the backyard farm shared water sources, housing and equipment, which have all served as pathways for transmitting the virus between animals in other states.
+
+
+The detection is a warning for pig farmers to be on the lookout for further infections, said Marie Culhane, a professor of veterinary population medicine at the University of Minnesota who has researched flu viruses in swine.
+
+
+"People need to start increasing their plans to deal with it if it should happen in another herd and another herd," Culhane said. "Pigs are just really good at picking up influenza viruses."
+
+
+This year, 36 people have tested positive for bird flu as the virus has spread to nearly 400 dairy herds. All but one of the people were farm workers who had known contact with infected animals.
+
+
+Since 2022, the virus has wiped out more than 100 million poultry birds in the nation's worst-ever bird flu outbreak. 
+
+<br> 
+
+<https://www.voanews.com/a/us-detects-h5n1-bird-flu-in-pig-for-first-time/7845250.html>
+
+---
+
+## Concerns about Elon Musk, Russia's Putin not fading yet
+
+date: 2024-10-30, from: VOA News USA
+
+WASHINGTON — Reports that billionaire Elon Musk has been talking on a consistent basis with Russian President Vladimir Putin are still reverberating among current and former U.S. officials, almost a week after news of the conversations first surfaced.
+
+
+Musk, who owns electric car maker Tesla and the X social media platform, also owns SpaceX, a commercial spaceflight company that has numerous contracts with the U.S. government, doing work for the Department of Defense and U.S. space agency NASA.
+
+
+Some of that work is so sensitive that the United States has given Musk high-level security clearances due to his knowledge of the programs, raising concerns among some that top secret U.S. information and capabilities could be at risk.
+
+
+According to current and former U.S., European and Russian officials who spoke to The Wall Street Journal, such concerns may be warranted.
+
+
+During one conversation, those officials said, Putin allegedly asked Musk not to activate Starlink, a SpaceX subsidiary that provides satellite internet services, over Taiwan as a favor to China.
+
+
+“I think it should be investigated,” NASA administrator Bill Nelson told the Semafor World Economy Summit on Friday, a day after The Journal published its report.
+
+
+“I don’t know that that story is true,” Nelson said, adding, if it is, “I think that would be concerning, particularly for NASA, for the Department of Defense, for some of the intelligence agencies.”
+
+
+Russia and Musk deny frequent calls
+
+
+Musk has previously denied frequent calls with Putin. In 2022, Musk said he had spoken to the Russian leader just once, but The Journal said there have been repeated conversations since then.
+
+
+Musk has not commented or responded to the Journal article on X. Russia has also denied there have been frequent conversations between Putin and Musk.
+
+
+The Pentagon has so far declined to refute or confirm the allegations.
+
+
+“We have seen the reporting from The Wall Street Journal but cannot corroborate the veracity of those reports,” Defense Department spokesperson Sue Gough told VOA in an email late Friday.
+
+
+“[We] would refer you to Mr. Musk to speak to his private communications,” Gough said, adding that, by law, the department does not comment on the details or status of anyone’s security clearance.
+
+
+“We expect everyone who has been granted a security clearance, including contractors, to follow the prescribed procedures for reporting foreign contacts,” she said.
+
+
+Former U.S. intelligence officials who spoke to VOA said the reported conversations, since confirmed by other U.S. news organizations citing their own confidential sources, raise significant questions.
+
+
+“There is no doubt that Russia is cultivating many possible channels of influence in the United States and other Western countries,” said Paul Pillar, a former senior CIA officer who now teaches at Georgetown University.
+
+
+“Russia would regard a wealthy and influential business mogul such as Musk as potentially a highly useful channel and thus a relationship worth nurturing,” he said.
+
+
+Larry Pfeiffer, a former CIA chief of staff and former senior director of the White House Situation Room, is also wary.
+
+
+“It does get the spider-sense tingling,” he told VOA.
+
+
+“If the reports of Musk’s repeated conversations with Vladimir Putin are true, I would definitely have some concerns,” Pfeiffer said. “Russia under Putin will cultivate support wherever it can be bought, cajoled or coerced.
+
+
+“Putin has equal opportunity security services that will take advantage of any opportunity to get foreign business leaders to influence their governments to align with Russian interests,” he said.
+
+
+Concerns don't equal wrongdoing
+
+
+Former officials like Pillar and Pfeiffer, though, caution there is a difference between concerns and actual wrongdoing.
+
+
+Other former officials note that even if Musk engaged in conversations that could make some in government uncomfortable, just having those conversations is not necessarily illegal.
+
+
+“Americans are allowed to talk to essentially whomever they want,” said a former national security prosecutor, who spoke to VOA on the condition of anonymity. “There's no inherent limitation.”
+
+
+And in the case of a high-profile individual who oversees companies with global reach, conversations with foreign officials could be unavoidable.
+
+
+“For a businessman, there may be commercially legitimate reasons to have those communications,” the former prosecutor said. “It's when a businessman is having those communications, perhaps for political reasons or even proto-diplomatic reasons, that it gets probably more concerning from a counterintelligence perspective.”
+
+
+There also may not be any legal issues with a potential failure by someone like Musk to voluntarily disclose conversations with foreign leaders. Hiding such conversations when asked about them, however, could wade into criminal territory.
+
+
+Still, given the value the U.S. gets from Musk’s companies, U.S. officials may feel like they have little recourse.
+
+
+“It is one of those unfair things in life that if the government has a unique need for you, you can get away with more and still get a security clearance,” the former prosecutor said. “Someone who has unique value is going to get more accommodation.” 
+
+<br> 
+
+<https://www.voanews.com/a/concerns-about-musk-putin-conversations-still-cause-concern/7845082.html>
+
+---
+
+## Rival campaign merchandise sellers try lowering political temperature
+
+date: 2024-10-30, from: VOA News USA
+
+In the U.S. presidential campaign, there is little to agree on between supporters of Kamala Harris and supporters of Donald Trump. From California, Genia Dulot brings us the story of two people selling rival campaign merchandise who are trying to lower the political temperature of their customers. 
+
+<br> 
+
+<https://www.voanews.com/a/rival-campaign-merchandise-sellers-try-lowering-political-temperature/7845052.html>
+
+---
+
+## Biden Delivered on Infrastructure and Jobs. Will Voters in Purple States Like Pennsylvania Keep This Progress Going?
+
+date: 2024-10-30, from: Capital and Main
+
+<p>Harris cast the deciding vote to make the Inflation Reduction Act law. Trump has vowed to claw back as much of that money as he can.</p>
+<p>The post <a href="https://capitalandmain.com/biden-delivered-on-infrastructure-and-jobs-will-voters-in-purple-states-like-pennsylvania-keep-this-progress-going">Biden Delivered on Infrastructure and Jobs. Will Voters in Purple States Like Pennsylvania Keep This Progress Going?</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/biden-delivered-on-infrastructure-and-jobs-will-voters-in-purple-states-like-pennsylvania-keep-this-progress-going>
+
+---
+
+## What Does Elon Musk Want From Trump?
+
+date: 2024-10-30, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDAyMDM1My9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3OTg5NTQ3M30.mn6AuMrnDTSAzue88hJwX1CxxNYetXO28OoHRDQw_gM/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">At a recent rally for Donald Trump, Tesla CEO Elon Musk and Howard Lutnick, the head of Wall Street firm Cantor Fitzgerald, took the stage together and <a href="https://qz.com/elon-musk-donald-trump-government-spending-budget-biden-1851682623" rel="noopener noreferrer" target="_blank"><u>contemplated</u></a> the federal budget. “How much do you think we can rip out of this wasted $6.5 trillion Harris-Biden budget?” Lutnick asked. “I think we could do at least $2 trillion,” Musk said, to the cheers of the crowd. “Your money is being wasted, and the Department of Government Efficiency is going to fix that.”</p><p>This idea — that there is $2 trillion of “waste” in the yearly federal budget that could be eliminated if only someone like Musk were given the power to do it — exemplifies his orientation toward government. It’s brash, shockingly ambitious, contemptuous of what most Americans need, and fed by Musk’s combination of arrogance and ignorance. And it will never happen — not because the deep state will prevent it, but because Musk, while brilliant in some ways, is not smart enough to know what he doesn’t know. </p><p>Tempting as it is to take seriously Trump’s proposal for Musk to head up a new cabinet department or a commission on government efficiency (it has been described both ways) if Trump becomes president, the idea that Musk will spend his days in a government building in Washington poring over budget details is laughable. Plus, we already have a department of efficiency; it’s called the <a href="https://www.gao.gov/" rel="noopener noreferrer" target="_blank"><u>Government Accountability Office</u></a>, and it does excellent work. But Musk does stand to have extraordinary influence in a Trump administration. So when it comes to policy, what does he actually want?</p><p>To start, let’s do some math. Without going too deep into it, if you add up Social Security, Medicare, military spending, veterans’ benefits, and interest on debt in <a href="https://fiscal.treasury.gov/files/reports-statements/mts/mts0924.pdf" rel="noopener noreferrer" target="_blank"><u>the fiscal 2024 budget</u></a> — none of which will be cut — you get $4.4 trillion. That leaves $2.25 trillion, of which Musk thinks he could cut $2 trillion. That, in turn, would mean eliminating almost everything the federal government does, from controlling the border to issuing passports to running national parks to medical research to federal prisons to food inspections to … you get the idea. </p><p>Also in that $2.25 trillion is, of course, the money the federal government spends on the energy transition, something Musk doesn’t seem to have much enthusiasm for. It isn’t that he has embraced Trump’s climate denialism, but he also doesn’t talk much about <em><em>government’s</em></em> role in reducing emissions. </p><p>This represents a shift: When Joe Biden took office, Musk <a href="https://fortune.com/2021/01/25/exclusive-elon-musk-tells-fortune-hes-super-fired-up-about-biden/" rel="noopener noreferrer" target="_blank"><u>said</u></a>, “I’m super fired up that the new administration is focused on climate.” Biden followed through on his pledges in both regulation and legislation, but Musk was less enthusiastic as time went on, and eventually embraced Trump wholeheartedly, despite the latter’s promise to undo essentially everything Biden has accomplished on climate change. </p><p>Tesla has been <a href="https://www.reuters.com/world/us/musk-embraces-trump-scorns-subsidies-tesla-still-lobbies-us-benefits-2024-08-12/" rel="noopener noreferrer" target="_blank"><u>quietly lobbying</u></a> to maintain subsidies for electric vehicles and in favor of regulations that could phase out the production of internal combustion cars, even as the candidate for whom Musk is spending tens of millions of dollars promises to eliminate those policies. But he’s not trying to change Trump’s mind, at least not publicly. On an earnings call with shareholders earlier this year, <a href="https://www.politico.com/news/2024/08/12/musk-trump-advice-climate-change-00173411" rel="noopener noreferrer" target="_blank"><u>Musk said</u></a> that if Trump keeps his promise to repeal the Inflation Reduction Act, it would hurt Tesla “slightly,” but “long term, it probably actually helps,” since it would be “devastating for our competitors.”</p><p>In other words, Musk may want to address climate change, but that goal will always take a back seat to what’s good for Elon Musk — and what’s good for Musk just happens to be good policy, or so he seems to think. This is an occupational hazard for billionaires, who are inevitably surrounded by sycophants eager to tell them that any brain fart that comes tumbling out of their mouths is the height of wisdom. </p><p>This tendency shows up in Musk’s views on just about everything else, too. Like many a dilettante — albeit one with his own social media platform and 200 million followers there — Musk occasionally dips his thinking-emoji into policy issues without bothering to learn about what they actually entail, like <a href="https://theintercept.com/2023/04/09/elon-musk-social-security-cuts/" rel="noopener noreferrer" target="_blank"><u>his warning</u></a> that Social Security is all but doomed. He worries a great deal about underpopulation, which few experts think is <a href="https://www.cnn.com/2022/08/30/health/elon-musk-population-collapse-wellness/index.html" rel="noopener noreferrer" target="_blank"><u>really a problem</u></a>; his solution seems to be to <a href="https://www.yahoo.com/entertainment/elon-musk-reportedly-offered-sperm-163849936.html" rel="noopener noreferrer" target="_blank"><u>distribute his own sperm</u></a> as widely as possible. </p><p>But the most likely places where Musk will exercise influence in a second Trump presidency are not his grand notions of a remade American society, but rather in his own relationship with government. That largely means two things: He would like government to give him more money, and he would also like it to get out of his way. </p><p>On the first point, Musk is already a significant beneficiary of federal contracts. As <em><em>The New York Times</em></em> recently <a href="https://www.nytimes.com/2024/10/20/us/politics/elon-musk-federal-agencies-contracts.html?" rel="noopener noreferrer" target="_blank"><u>documented</u></a>, Musk’s “companies were promised $3 billion across nearly 100 different contracts last year with 17 federal agencies.” How handy it would be if he were in charge of rejiggering federal spending! But on the flip side, “His companies have been targeted in at least 20 recent investigations or reviews, including over the safety of his Tesla cars and the environmental damage caused by his rockets.” In a second Trump term — especially one in which the architects of Project 2025 will no doubt be busily reconfiguring the government to place nearly absolute power in the hands of the president — Trump could easily repay the nine figures Musk has spent to get him elected by making all those investigations disappear. </p><p>Musk is also counting on the courts to make it easier for him to treat his workers however he likes. He has repeatedly <a href="https://www.reuters.com/business/spacex-forced-workers-sign-illegal-severance-agreements-us-agency-claims-2024-03-21/" rel="noopener noreferrer" target="_blank"><u>clashed</u></a> with the National Labor Relations Board, and SpaceX is <a href="https://www.reuters.com/legal/government/column-new-spacex-opinion-nlrb-case-has-ominous-hints-federal-agencies-2024-07-24/" rel="noopener noreferrer" target="_blank"><u>suing</u></a> to effectively have the entire NLRB declared unconstitutional. (Other anti-union companies including Amazon and Starbucks are <a href="https://finance.yahoo.com/news/spacex-trader-joe-amazon-law-205755137.html" rel="noopener noreferrer" target="_blank"><u>seeking</u></a> the same outcome.) Trump has publicly <a href="https://www.nbcnews.com/politics/donald-trump/uaw-hits-trump-musk-federal-labor-charges-union-busting-comments-rcna166403" rel="noopener noreferrer" target="_blank"><u>praised</u></a> Musk for firing striking workers, which is illegal; and while it appears Trump was referring to Musk <a href="https://www.cnn.com/2023/04/12/tech/elon-musk-bbc-interview-twitter-intl-hnk/index.html" rel="noopener noreferrer" target="_blank"><u>firing</u></a> most of the staff of Twitter, who were not actually on strike, their shared <a href="https://www.cnn.com/2023/10/12/business/tesla-union-uaw-strike/index.html" rel="noopener noreferrer" target="_blank"><u>contempt</u></a> for collective bargaining and worker rights is amply clear. </p><p>That Musk is an egomaniac is barely disputable, so it’s not surprising that he believes government will either be a tool in his hands or the destroyer of worlds, with no in-between. “While I have many concerns about a potential Kamala regime,” he recently <a href="https://x.com/elonmusk/status/1837908705683059166" rel="noopener noreferrer" target="_blank"><u>tweeted</u></a>, “the bureaucracy currently choking America to death is guaranteed to grow under a Democratic Party administration. This would destroy the Mars program and doom humanity.” Apparently, only by giving Musk whatever he wants can we avoid extinction. </p><p>The truth is that if Harris wins, Elon Musk will be just fine, and so will humanity. The big difference will be that Musk won’t be able to pick up the phone and tell the president what to do. But I’m sure he will react to that with all the maturity and thoughtfulness we’ve come to expect from him. </p> 
+
+<br> 
+
+<https://heatmap.news/politics/elon-musk-trump>
+
+---
+
+## US airstrikes target multiple sites in Syria, killing up to 35 Islamic State militants
+
+date: 2024-10-30, from: VOA News USA
+
+The U.S. military has struck a number of Islamic State group camps in Syria this week, killing as many as 35 militants, U.S. Central Command said Wednesday. 
+
+
+The airstrikes in the desert of central Syria were done Monday evening and targeted multiple locations and senior leaders of the group. The attacks came on the heels of a number of joint operations with Iraqi forces that targeted IS militants in Iraq. 
+
+
+Pentagon officials have said that the Islamic State group remains a threat in the region, but it is no longer as powerful as it was 10 years ago when the militants swept across Iraq and Syria, taking control of large swaths of the two countries. 
+
+
+U.S. Central Command said the latest strikes in Syria will disrupt the group's ability to plan, organize and conduct attacks against civilians and U.S. and allied forces in the region. It said there were no indications of civilian casualties in the strikes. 
+
+<br> 
+
+<https://www.voanews.com/a/us-airstrikes-target-multiple-sites-in-syria-killing-up-to-35-islamic-state-militants/7844913.html>
+
+---
+
+## Harris promises to 'represent all Americans' after Biden 'garbage' remark
+
+date: 2024-10-30, from: VOA News USA
+
+WASHINGTON — Kamala Harris said she disagrees "with any criticism of people based on who they vote for," reacting after U.S. President Joe Biden's reference to Donald Trump's supporters and "garbage."
+
+
+"I will represent all Americans, including those who don't vote for me," the vice president said.
+
+
+Harris, the Democratic nominee for president, made the comment to reporters as she prepared to campaign in three states. Her words were an attempt to blunt the controversy over Biden's rhetoric with less than a week until the end of the campaign.
+
+
+The tumult began Tuesday night around the time that Harris was delivering a unifying message in a speech near the White House. Inside the building, Biden was criticizing Trump's recent Madison Square Garden rally, where a comedian described Puerto Rico as an "island of garbage."
+
+
+"The only garbage I see floating out there is his supporters. His demonization of Latinos is unconscionable, and it's un-American," Biden said in a campaign call organized by the Hispanic advocacy group Voto Latino. "It's totally contrary to everything we've done, everything we've been."
+
+
+Biden and the White House rushed to explain that the president was talking about the rhetoric on stage, not Trump's supporters themselves. But Republicans seized on Biden's comments, claiming they were an echo of the time when Hillary Clinton, as the Democratic nominee against Trump in 2016, said half of Trump's supporters belong to a "basket of deplorables."
+
+
+In attacking Biden, and by extension, Harris, Republicans are glossing over Trump's own history of insulting and demonizing rhetoric, such as calling the United States a "garbage can for the world" or describing political opponents as "the enemy within." Trump has also described Harris as a "stupid person" and "lazy as hell," and he's questioned whether she was on drugs.
+
+
+Trump has also refused demands to apologize for the comment about Puerto Rico at his rally, acknowledging "somebody said some bad things" but "I can't imagine it's a big deal."
+
+
+Political attack lines have a history of occasionally boomeranging back on people who use them. For example, Ohio Senantor JD Vance, now Trump's running mate, once described Democrats as beholden to "a bunch of childless cat ladies who are miserable at their own lives and the choices that they've made."
+
+
+Vance's three-year-old comments were resurfaced once he became the vice presidential nominee, energizing Harris supporters who repurposed the label as a point of pride on shirts and bumper stickers — much like Trump's supporters once cheerfully branded themselves as "deplorables."
+
+
+On Wednesday morning, Harris' running mate, Minnesota Governor Tim Walz, downplayed Biden's comments in television interviews.
+
+
+He told "CBS Mornings" that Biden "was very clear that he's speaking about the rhetoric we heard," not the supporters themselves.
+
+
+Walz made a similar comment on ABC's "Good Morning America," where he emphasized that Democrats' inclusive message.
+
+
+"Let's be very clear, the vice president and I have made it absolutely clear that we want everyone as a part of this," he said. "Donald Trump's divisive rhetoric is what needs to end." 
+
+<br> 
+
+<https://www.voanews.com/a/harris-promises-to-represent-all-americans-after-biden-garbage-remark/7844875.html>
+
+---
+
+## Some of the most bizarre moments from US political history
+
+date: 2024-10-30, from: VOA News USA
+
+The run-up to the 2024 U.S. election has been full of twists and turns but, believe it or not, stranger things have happened in U.S. election history. From incarcerated candidates to electoral mayhem, America has seen it all. 
+
+<br> 
+
+<https://www.voanews.com/a/some-of-the-most-bizarre-moments-from-us-political-history/7844844.html>
+
+---
+
+## How the Culture Wars Tore Apart a Bay Area Town — And Fueled a Resistance
+
+date: 2024-10-30, from: Capital and Main
+
+<p>A growing coalition of parents, students and teachers comes together to halt the chaos roiling school boards and communities.</p>
+<p>The post <a href="https://capitalandmain.com/how-the-culture-wars-tore-apart-a-bay-area-town-and-fueled-a-resistance">How the Culture Wars Tore Apart a Bay Area Town — And Fueled a Resistance</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/how-the-culture-wars-tore-apart-a-bay-area-town-and-fueled-a-resistance>
+
+---
+
+## US cracks down on Russia’s sanctions evasion in fresh action
+
+date: 2024-10-30, from: VOA News USA
+
+WASHINGTON — The United States on Wednesday imposed curbs on hundreds of targets in fresh action against Russia, taking aim at sanctions circumvention in a signal that the U.S. is committed to countering evasion.
+
+
+The action, taken by the U.S. Treasury and State departments, imposed sanctions on nearly 400 entities and people from over a dozen countries, according to statements from the Treasury and State departments.
+
+
+The action was the most concerted push so far against third-country evasion, a State Department official told Reuters. It included sanctions on dozens of Chinese, Hong Kong and Indian companies, the most from those countries to be hit in one package so far, according to the official.
+
+
+Also hit with sanctions were targets in Russia, the United Arab Emirates, Turkey, Thailand, Malaysia, Switzerland and elsewhere.
+
+
+The action comes as Washington has sought to curb Russia's evasion of the sanctions imposed after its 2022 invasion of Ukraine, which has killed or wounded thousands and reduced cities to rubble.
+
+
+The U.S. has repeatedly warned against supplying Russia with Common High Priority Items — advanced components that include microelectronics deemed by the U.S. and European Union as likely to be used for Russia's war in Ukraine.
+
+
+"This should send a serious message to both the governments and the private sectors of these countries that the U.S. government is committed to countering the evasion of our sanctions against Russia and to continue putting pressure on Russia to end its war in Ukraine," the official, speaking on condition of anonymity, said.
+
+
+The Treasury Department imposed sanctions on 274 targets, while the State Department designated more than 120. The U.S. Commerce Department added 40 companies and research institutions to a trade restriction list over their alleged support of the Russian military.
+
+
+"The United States and our allies will continue to take decisive action across the globe to stop the flow of critical tools and technologies that Russia needs to wage its illegal and immoral war against Ukraine," Deputy Treasury Secretary Wally Adeyemo said in the statement.
+
+
+A senior administration official said Wednesday's action was designed to signal the U.S. would act against Indian companies if progress were not made through communication.
+
+
+“With India, we have been very direct and blunt with them about the concerns we have about what we see as sort of emerging trends in that country that we want to stop before they get too far down the road,” the official, speaking on condition of anonymity, said.
+
+
+India-based Futrevo was among the companies targeted by the State Department, which accused it of being involved in the supply of high-priority items to the Russia-based manufacturer of Orlan drones.
+
+
+The Treasury also targeted Shreya Life Sciences Private Limited, which it said since 2023 has sent hundreds of shipments of U.S.-trademarked technology to Russia, totaling tens of millions of dollars.
+
+
+A second senior State Department official told Reuters on Tuesday that more than 70% of the high-priority goods getting to Russia was from China, more than an estimated $22 billion worth since the start of the war.
+
+
+"That's over 13 times the next largest supplier," the official said, which as of the end of 2023 was Turkey.
+
+
+Among those targeted Wednesday were Hong Kong and China-based companies involved in the shipment of tens of millions of dollars’ worth of high-priority items to Russia-based companies or end-users, the State and Treasury departments said.
+
+
+The U.S. also took actions on a variety of entities supporting Russia's Arctic project, which is 60% owned by Russia's Novatek and was to become Russia's largest liquefied natural gas plant.
+
+
+Novatek has been forced to scale back Arctic, which had been planned to reach an eventual output of 19.8 million metric tons per year, following a raft of U.S. sanctions starting in 2023 with additional measures in August and September.
+
+
+But the U.S. held back from using an executive order signed by President Joe Biden last year that threatened penalties for financial institutions that help Russia circumvent sanctions. The senior administration official said banking sectors had taken notice of the authority and sort of moved into compliance. 
+
+<br> 
+
+<https://www.voanews.com/a/us-cracks-down-on-russia-s-sanctions-evasion-in-fresh-action/7844808.html>
+
+---
+
+## A delightful surprise for those in the labor market
+
+date: 2024-10-30, from: Marketplace Morning Report
+
+<p>The private payroll company ADP reported that a lot more people than expected were added to its payrolls this month. True, the more closely watched data on hiring and unemployment is not due from the government until Friday. But this is new evidence that the American jobs machine is still putting people to work. We dig in. Plus, a look at Google&#8217;s strong earnings and the continually daunting car market.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/30/mmr_20241030_MMR_Podcast_3_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/a-delightful-surprise-for-those-in-the-labor-market&awCollectionId=mkp-MMR&awGenre=%5B"Talk","News","Business"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report"></source>
+</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/30/mmr_20241030_MMR_Podcast_3_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/a-delightful-surprise-for-those-in-the-labor-market&awCollectionId=mkp-MMR&awGenre=%5B\"Talk\",\"News\",\"Business\"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/a-delightful-surprise-for-those-in-the-labor-market>
+
+---
+
+## 5 Takeaways From an Actually Pretty Solid Quarter for EV Sales
+
+date: 2024-10-30, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81Mzg4ODYzMi9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc0NjcxMjEyN30.2WRSzLnV0-itcjDfJEWYFsgALKNdf2s33l1c5CbDFZ4/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">Stop me if you’ve heard this one already, but the supposed EV sales slump isn’t real. The overall growth rate has slowed somewhat, crushing any fantasy that America would accelerate to mostly electric driving in just a few years. But electric vehicles sales have been steadily rising amid a negative narrative, and they <a href="https://www.coxautoinc.com/market-insights/q3-2024-ev-sales/" rel="noopener noreferrer" target="_blank"><u>rose</u></a> yet again in the third quarter of 2024. </p>
+<p>Carmakers sold 346,309 of them from July to September, a 5% increase over the second quarter of this year and an 11% jump year-over-year. EVs reached 8.9% of all vehicles sold in America in the third quarter, prompting Cox Automotive (which owns Kelley Blue Book) to opine that 10% looks well within reach.</p>
+<p>A look inside the numbers behind the news tells us a few important things about the state of EVs.</p>
+<h3>1. Somebody out there loves the Cybertruck</h3>
+<p>A lightning rod on wheels, the Cybertruck became a focal point for the anger and contempt lots of very online people feel toward Elon Musk and his support for Donald Trump. But as I <a href="https://heatmap.news/electric-vehicles/tesla-cybertruck-pickup-gmc-hummer" target="_self"><u>noted</u></a> a year ago for Heatmap, plenty of people want this car — either out of genuine affection for what it is and what it can do, or for the political statement they can make by owning one.</p>
+<p>The numbers don’t lie. Despite a slow start, Tesla sold 16,692 Cybertrucks during the third quarter. That made it the number three EV in America behind Tesla’s Model Y and Model 3. The Cybertruck’s emergence, combined with better sales by a refreshed Model 3, helped to stop a slide at Tesla earlier this year caused by falling sales of the aging Models S, X, and Y. </p>
+<p>As Tesla goes, so goes today’s EV market. Its slump in 2024 had hampered the growth of the industry at large; a rumored update to the industry-leading Model Y would be a shot in the arm for everybody. Yet even with Tesla stabilizing, Elon Musk’s dominance isn’t what it once was. The company’s market share, which hovered in the 70% range in 2019 and 2020, has fallen below 50%. With a growing slate of competitors, it may never cross above that threshold again.</p>
+<h3>2. Trending up: GM</h3><p>Korean brands Hyundai and Kia had been the non-Tesla <a href="https://heatmap.news/electric-vehicles/hyundai-motor-group-kia-motors-ioniq-5-ev-6" target="_self"><u>success story</u></a> of the past year-plus, with American EV shoppers falling in love with the quirky Hyundai Ioniq 5 in particular. But General Motors seized second place in Q3 as some of its plans finally came to fruition. Chevy sold nearly 8,000 Blazer EVs and almost 10,000 Equinox EVs last quarter. That latter figure is particularly impressive given that the $35,000 base-level Equinox, which could fall below $30,000 after incentives, didn’t hit the market until October. The Cadillac Lyric found a niche. Even the preposterous GMC Hummer EV saw a big sales bump.</p>
+<p>GM’s solid numbers don’t include the remarkable success of its partnership with Honda, who borrowed GM’s Ultium platform to build its first American EV, the Prologue. That vehicle sold 12,644 in the third quarter, outpacing GM’s own EV crossovers. (Perhaps the legion of loyal Honda buyers in America were just waiting for the brand to sell them an electric car.) </p>
+<p>Chevy and Honda’s success came at the expense of some brands whose electric crossovers aren’t quite so new and exciting anymore. The Ioniq 5 dropped a tiny bit compared to the third quarter of 2023, just 0.5%. However, Ford’s Mustang Mach-E dropped by nearly 10% year over year, while the Volkswagen ID.4 tumbled by 57.8%.</p>
+<h3>3. Treading water: Ford</h3><p>Speaking of Ford, it wasn’t all bad news for GM’s rival. Ford’s EV division did <a href="https://electrek.co/2024/10/28/ford-tops-q3-earnings-but-ev-losses-weigh-profits/" rel="noopener noreferrer" target="_blank"><u>better</u></a> than Wall Street expected. Overall sales actually rose, with gains from the E-transit van and F-150 Lightning pickup truck balancing out falling numbers from the Mustang Mach-E. Even so, Ford is losing billions of dollars on its electric vehicles. The blue oval brand faces a double challenge: It needs to get a new EV on sale to juice sales while figuring out how to dramatically cut manufacturing costs.</p>
+<h3>4. Incentives matter</h3><p>Watch any car commercial and you’ll be reminded that incentives aren’t the sole domain of EVs. Brands and dealerships offer all kinds of rebates and discounts to move gasoline cars off the lot. Yet because of the size of the federal and state tax credits and rebates for buying electric, those incentives retain an outsized impact on sales. Cox points out that incentives made up 12% of the average price of an EV sold in the third quarter of this year, compared to just above 7% for other kinds of cars.</p>
+<p>What’s especially dramatic, though, is the incentive-driven rise of the leased EV. Overall, Americans lease just over 20% of their new cars, not far from where the figure stood two years ago. At the end of 2022, less than 10% of Americans who got a new EV leased it. But in December of that year, the federal government announced many EVs that weren’t ineligible for tax credits when purchased outright <em><em>would</em></em> be eligible for those incentives if people leased them. Cox’s <a href="https://www.coxautoinc.com/wp-content/uploads/2024/10/Screenshot-2024-10-10-at-4.06.25%E2%80%AFPM.png" rel="noopener noreferrer" target="_blank"><u>chart</u></a> paints a stark picture, showing leases rocketing from about 9% to 43% of EV sales.</p>
+<h3>5. Luxury brands are leading the way</h3>
+<p>In their own EV makeup, that is. There are six car brands that have 10% of their U.S. sales or more from EVs: Mercedes-Benz, BMW, Jaguar, Audi, and Cadillac — luxury brands all — are five of them. (The other is Mini.) </p>
+<p>This makes perfect sense, of course. Luxury brands sell fewer vehicles overall, so it’s easier for EVs to make a big dent in sales. They sell expensive cars, which makes it easier for buyers to swallow the higher cost of EVs. Their drivers have always been more likely to lease cars, even before leasing EVs in particular became so appealing.</p>
+<p>In sum, it means that the luxury car brands — while selling fewer overall EVs than Chevy and Honda will eventually sell — will be the first to experience what it’s like for a legacy car brand when the scales tip to more EVs than not.</p> 
+
+<br> 
+
+<https://heatmap.news/electric-vehicles/ev-sales-q3-2024>
+
+---
+
+## Supreme Court allows Virginia to resume purge of voter registrations
+
+date: 2024-10-30, from: VOA News USA
+
+WASHINGTON — The U.S. Supreme Court on Wednesday allowed Virginia to resume its purge of voter registrations that the state says is aimed at stopping people who are not U.S. citizens from voting. 
+
+
+The justices, over the dissents of the three liberal justices, granted an emergency appeal from Virginia's Republican administration led by Gov. Glenn Youngkin. The court provided no rationale for its action, which is typical in emergency appeals. 
+
+
+The justices acted on Virginia's appeal after a federal judge found that the state illegally purged more than 1,600 voter registrations in the past two months. A federal appeals court had previously allowed the judge's order to remain in effect. 
+
+
+Such voting is rare in American elections, but the specter of immigrants voting illegally has been a main part of the political messaging this year from former President Donald Trump and other Republicans. 
+
+
+Trump had criticized the earlier ruling, calling it "a totally unacceptable travesty" on social media. 
+
+
+"Only U.S. Citizens should be allowed to vote," Trump wrote. 
+
+
+The Justice Department and a coalition of private groups sued the state earlier in October, arguing that Virginia election officials, acting on an executive order issued in August by Youngkin were striking names from voter rolls in violation of federal election law. 
+
+
+The National Voter Registration Act requires a 90-day "quiet period" ahead of elections for the maintenance of voter rolls so that legitimate voters are not removed from the rolls by bureaucratic errors or last-minute mistakes that cannot be quickly corrected. 
+
+
+Youngkin issued his order on Aug. 7, the 90th day before the election. It required daily checks of data from the state Department of Motor Vehicles against voter rolls to identify people who are not U.S. citizens. 
+
+
+U.S. District Judge Patricia Giles said elections officials still could remove names on an individualized basis, but not through a systematic purge. Court records indicated that at least some of those whose registrations were removed are U.S. citizens. 
+
+
+Giles had ordered the state to notify affected voters and local registrars by Wednesday that the registrations have been restored. 
+
+
+Nearly 6 million Virginians are registered to vote. 
+
+
+In a similar lawsuit in Alabama, a federal judge this month ordered the state to restore eligibility for more than 3,200 voters who had been deemed ineligible noncitizens. Testimony from state officials in that case showed that roughly 2,000 of the 3,251 voters who were made inactive were actually legally registered citizens. 
+
+<br> 
+
+<https://www.voanews.com/a/supreme-court-allows-virginia-to-resume-purge-of-voter-registrations-/7844785.html>
 
 ---
 
@@ -987,7 +1453,7 @@ Adidas and Ye had been embroiled in multiple lawsuits for the past two years, si
 date: 2024-10-29, from: Heatmap News
 
 
-<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDAxNjgxMi9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2OTA3MjgwNX0.xi3xVDIVqP-_2mjWfBgE3bMvGBp81KJs0zS3KPJ3Isw/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">The Paris Agreement goal of holding warming to well less than 2 degrees Celsius over pre-industrial levels is not just increasingly appearing to be out of reach. The energy transition as a whole is slowing down. </p><p>This was the stark warning from Wood Mackenzie’s Energy Transition Outlook, the energy consultancy’s annual assessment of global progress toward decarbonizing the economy. “Progress toward a low-carbon energy system is stumbling on multiple fronts, leaving the world dependent on fossil fuels for longer,” the outlook’s authors write.</p><p>Alongside the International Energy Agency’s Global Energy Outlook, which found <a href="https://www.nytimes.com/2024/10/16/climate/global-demand-electricity-rising.html" rel="noopener noreferrer" target="_blank"><u>faster than expected global electricity demand imperiling Paris goals</u></a>, and the United Nations Environment Programme’s Emissions Gap Report, which warned that unless emissions were soon wrenched down “it will become impossible” to limit warming to 1.5 degrees Celsius, the report completes a grim picture. The question now is less “Can the world meet the Paris Agreement goals?” and more “How will we manage once we’ve missed them?”</p><p><span></span>Wood Mackenzie takes 2.5 degrees of warming as its “base case,” consistent with other estimates, <a href="https://www.iea.org/reports/world-energy-outlook-2024/executive-summary" target="_blank"><u>including the IEA’s</u></a>. The report’s authors have little optimism left about the prospect of reaching net zero emissions by 2050 and limiting warming to 1.5 degrees. Instead, they used to the report to “highlight the potential of a delayed transition,” in which warming rises to 3 degrees, said Jonathan Sultoon,  Wood Mackenzie’s head of markets and transitions, on a call with reporters Monday.</p><p>“We’re in the middle of the 2020s, the decade that’s pivotal to accelerate the energy transition” Sultoon said, “and no major countries — and very few companies — are on track to meet their 2030 climate goals.”</p><p>To meet even the 2.5 degree warming scenario — one that many scientists warn could result in difficult to predict and possibly irreversible climate impacts — would still require that global emissions peak by 2027. Emissions, instead, are rising — by some 1.3% in 2023, according to the United Nations.</p><p>The likelihood of slipping from 2.5 degrees to 3 will be determined by politics, Wood Mackenzie’s analysts argue, whether it’s the war in Ukraine and unstable Middle East leading countries to reinvest in fossil fuels for energy security or protectionist policies that block imports of world-leading low-priced Chinese renewable technology.<br/></p><p>“China’s the lower-cost producer in clean tech,” Sultoon said. “Either the rest of the world needs to rely on Chinese manufacturing to speed the transition,” or “the West will pay a higher cost — or, in fact, delay the transition. And it looks far more likely to be that latter situation than the former.”</p><p>Policymakers in the rest of the high-emitting world, especially the United States, are perfectly aware of China’s dominance of much of the low-carbon technology stack, ranging from solar panels to lithium refining. But <a href="https://heatmap.news/politics/biden-climate-policy" target="_blank">they’re seeking to nurture their own industries</a>, seeking both to secure energy supplies in case of global conflict and to protect native workers and industries. <strong><em></em></strong></p><p><strong><em></em></strong>The political or security logic of these movies might be clear enough, but the Wood Mackenzie analysts are skeptical of this approach, at least when it comes to advancing decarbonization. “These dual goals — of decarbonisation and reducing dependence on metals supply from China — are at odds,” they write. “It will take years, if not decades, to shift away from China because it controls up to 70% of global supply chains across several commodities. It is also the lowest-cost producer. The rest of the world may need to rely on Chinese manufacturing or be prepared to either pay a higher cost or delay the transition.”</p><p>And then there’s the growth in electricity demand, which the IEA <a href="https://heatmap.news/technology/iea-world-energy-outlook-2024" target="_blank">also highlighted</a>. While any scenario that brings down emissions globally to levels consistent with even 2.5 degrees of warming, let alone 1.5, will involve a high degree of electrification of processes currently reliant on the combustion of fossil fuels, new demand for electricity can have ambiguous effects on overall emissions depending on the ability of non-carbon-emitting generation to meet that demand.</p><p>“The quick expansion of electricity supply is often constrained by transmission infrastructure which takes time to develop,” the report says. This means new demand could be met by fossil fuels, that the energy transition could become more expensive than it would be under a lower demand scenario, or that some crucial amount of electrification just simply does not happen.</p><p>“What happens if geopolitical crises, expanded trade restrictions, or protectionist policies becomes the norm, rather than the exception on a long-term basis? And where you see slower cost declines for alternative energy?” asked David Brown, director of Wood Mackenzie’s energy transition practice. If things continue as they are, that's a question we’ll all have to answer. <strong></strong></p> 
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDAxNjgxMi9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2OTA3MjgwNX0.xi3xVDIVqP-_2mjWfBgE3bMvGBp81KJs0zS3KPJ3Isw/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">The Paris Agreement goal of holding warming to well less than 2 degrees Celsius over pre-industrial levels is not just increasingly appearing to be out of reach. The energy transition as a whole is slowing down. </p><p>This was the stark warning from Wood Mackenzie’s <a href="https://www.woodmac.com/market-insights/topics/energy-transition-outlook/" target="_blank">Energy Transition Outlook</a>, the energy consultancy’s annual assessment of global progress toward decarbonizing the economy. “Progress toward a low-carbon energy system is stumbling on multiple fronts, leaving the world dependent on fossil fuels for longer,” the outlook’s authors write.</p><p>Alongside the International Energy Agency’s Global Energy Outlook, which found <a href="https://www.nytimes.com/2024/10/16/climate/global-demand-electricity-rising.html" rel="noopener noreferrer" target="_blank"><u>faster than expected global electricity demand imperiling Paris goals</u></a>, and the United Nations Environment Programme’s Emissions Gap Report, which warned that unless emissions were soon wrenched down “it will become impossible” to limit warming to 1.5 degrees Celsius, the report completes a grim picture. The question now is less “Can the world meet the Paris Agreement goals?” and more “How will we manage once we’ve missed them?”</p><p><span></span>Wood Mackenzie takes 2.5 degrees of warming as its “base case,” consistent with other estimates, <a href="https://www.iea.org/reports/world-energy-outlook-2024/executive-summary" target="_blank"><u>including the IEA’s</u></a>. The report’s authors have little optimism left about the prospect of reaching net zero emissions by 2050 and limiting warming to 1.5 degrees. Instead, they used to the report to “highlight the potential of a delayed transition,” in which warming rises to 3 degrees, said Jonathan Sultoon,  Wood Mackenzie’s head of markets and transitions, on a call with reporters Monday.</p><p>“We’re in the middle of the 2020s, the decade that’s pivotal to accelerate the energy transition” Sultoon said, “and no major countries — and very few companies — are on track to meet their 2030 climate goals.”</p><p>To meet even the 2.5 degree warming scenario — one that many scientists warn could result in difficult to predict and possibly irreversible climate impacts — would still require that global emissions peak by 2027. Emissions, instead, are rising — by some 1.3% in 2023, according to the United Nations.</p><p>The likelihood of slipping from 2.5 degrees to 3 will be determined by politics, Wood Mackenzie’s analysts argue, whether it’s the war in Ukraine and unstable Middle East leading countries to reinvest in fossil fuels for energy security or protectionist policies that block imports of world-leading low-priced Chinese renewable technology.<br/></p><p>“China’s the lower-cost producer in clean tech,” Sultoon said. “Either the rest of the world needs to rely on Chinese manufacturing to speed the transition,” or “the West will pay a higher cost — or, in fact, delay the transition. And it looks far more likely to be that latter situation than the former.”</p><p>Policymakers in the rest of the high-emitting world, especially the United States, are perfectly aware of China’s dominance of much of the low-carbon technology stack, ranging from solar panels to lithium refining. But <a href="https://heatmap.news/politics/biden-climate-policy" target="_blank">they’re seeking to nurture their own industries</a>, seeking both to secure energy supplies in case of global conflict and to protect native workers and industries. <strong><em></em></strong></p><p><strong><em></em></strong>The political or security logic of these movies might be clear enough, but the Wood Mackenzie analysts are skeptical of this approach, at least when it comes to advancing decarbonization. “These dual goals — of decarbonisation and reducing dependence on metals supply from China — are at odds,” they write. “It will take years, if not decades, to shift away from China because it controls up to 70% of global supply chains across several commodities. It is also the lowest-cost producer. The rest of the world may need to rely on Chinese manufacturing or be prepared to either pay a higher cost or delay the transition.”</p><p>And then there’s the growth in electricity demand, which the IEA <a href="https://heatmap.news/technology/iea-world-energy-outlook-2024" target="_blank">also highlighted</a>. While any scenario that brings down emissions globally to levels consistent with even 2.5 degrees of warming, let alone 1.5, will involve a high degree of electrification of processes currently reliant on the combustion of fossil fuels, new demand for electricity can have ambiguous effects on overall emissions depending on the ability of non-carbon-emitting generation to meet that demand.</p><p>“The quick expansion of electricity supply is often constrained by transmission infrastructure which takes time to develop,” the report says. This means new demand could be met by fossil fuels, that the energy transition could become more expensive than it would be under a lower demand scenario, or that some crucial amount of electrification just simply does not happen.</p><p>“What happens if geopolitical crises, expanded trade restrictions, or protectionist policies becomes the norm, rather than the exception on a long-term basis? And where you see slower cost declines for alternative energy?” asked David Brown, director of Wood Mackenzie’s energy transition practice. If things continue as they are, that's a question we’ll all have to answer. <strong></strong></p> 
 
 <br> 
 

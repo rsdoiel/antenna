@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2024-10-30 07:57:47
+updated: 2024-10-30 13:52:07
 ---
 
 # libraries
 
-(date: 2024-10-30 07:57:47)
+(date: 2024-10-30 13:52:07)
 
 ---
 
@@ -66,6 +66,32 @@ Cristofolini, Eber A.; Escribano, Facundo A.; Otamendi, Juan E.; Morosini, Augus
 <br> 
 
 <http://hdl.handle.net/20.500.11850/701998>
+
+---
+
+## The transport infrastructure planning process in Canton Zürich
+
+date: 2024-10-31, from: ETH Zurich, recently added
+
+Elvarsson, Arnor B.; Adey, Bryan T. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/702760>
+
+---
+
+## Day in Review (October 28–31)
+
+date: 2024-10-30, from: Association of Research Libraries News
+
+<p>Last Updated on October 30, 2024, 4:22 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, October 29 &#124; Wednesday, October 30 &#124; Thursday,...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-october-28-31-2/">Day in Review (October 28–31)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/day-in-review/day-in-review-october-28-31-2/>
 
 ---
 

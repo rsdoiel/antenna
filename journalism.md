@@ -1,11 +1,133 @@
 ---
 title: journalism
-updated: 2024-10-30 07:57:46
+updated: 2024-10-30 13:52:06
 ---
 
 # journalism
 
-(date: 2024-10-30 07:57:46)
+(date: 2024-10-30 13:52:06)
+
+---
+
+## Is the crime news people crave the crime news they need?
+
+date: 2024-10-30, from: Nieman Journalism Lab
+
+Here’s a tricky contradiction about local crime news: Most Americans consume it, yet few say it’s easy to stay informed about key questions that news should, theoretically, cover. More Americans follow news and information about crime than any other local topic except the weather. And 85% express interest in what local officials are doing to... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/10/is-the-crime-news-people-crave-the-crime-news-they-need/>
+
+---
+
+## The Washington Post’s non-endorsement led to record-breaking weeks at other news orgs
+
+date: 2024-10-30, from: Nieman Journalism Lab
+
+You may have heard that an eye-watering 250,000 subscribers have left The Washington Post following the paper&#8217;s decision to not endorse a presidential candidate. The figure represents about 10% of the Post&#8217;s digital subscribers. Readers were particularly upset at the timing — less than two weeks from a close and consequential election — and weren&#8217;t... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/10/the-washington-posts-non-endorsement-led-to-record-breaking-weeks-at-other-news-orgs/>
+
+---
+
+## ‘A very nuanced issue’: Chinese adoptees reflect on the end of international adoptions
+
+date: 2024-10-30, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>The Chinese Ministry of Foreign Affairs announced in a press briefing Sept. 5 that China was terminating its international adoption program, halting all future adoptions including those with already pending applications. The statement lasted no more than a few sentences but marked a monumental shift in China&#8217;s history of adoption. This sparked many Chinese adoptees, including those from [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2024/10/30/a-very-nuanced-issue-chinese-adoptees-reflect-on-the-end-of-international-adoptions/2913563">&#8216;A very nuanced issue&#8217;: Chinese adoptees reflect on the end of international adoptions</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2024/10/30/a-very-nuanced-issue-chinese-adoptees-reflect-on-the-end-of-international-adoptions/2913563>
+
+---
+
+## LA River restoration connects us back to ‘the life force of our city’
+
+date: 2024-10-30, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>For thousands of years before Spanish colonization began in 1769, dozens of tribal villages inhabited and cultivated the LA Basin. Among these tribes were the Tongva, whose land is partially occupied by Occidental College. According to LAist, the LA River begins in the western San Fernando Valley, flows through Burbank and Glendale, along Griffith Park and Elysian Park, through [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/features/2024/10/30/la-river-restoration-connects-us-back-to-the-life-force-of-our-city/2913534">LA River restoration connects us back to &#8216;the life force of our city&#8217;</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/features/2024/10/30/la-river-restoration-connects-us-back-to-the-life-force-of-our-city/2913534>
+
+---
+
+## Student body comes together for DJ performances at FallFest
+
+date: 2024-10-30, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Roughly 600 Occidental students flooded the upper soccer field Oct. 19 for FallFest, an annual concert that brings musicians to campus, according to KOXY station manager Jaishri Vidyarthi (senior). The event featured DJ sets by Kreayshawn, Alex Chapman and DJ Mandy, a live performance by Ve&#8217;ondre and a drag segment by Sweet Tea. Although FallFest is an Occidental tradition, last year, the school held [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2024/10/30/student-body-comes-together-for-dj-performances-at-fallfest/2913568">Student body comes together for DJ performances at FallFest</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2024/10/30/student-body-comes-together-for-dj-performances-at-fallfest/2913568>
+
+---
+
+## Eagle Rock community jumps into Halloween with Octoberfest flea market
+
+date: 2024-10-30, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>The Eagle Rock Flea Market&#8217;s Octoberfest featured local vendors and musicians who wanted to give back to their community, according to event coordinator Denise Lorenz. Lorenz said that she and Michelle Fierro organized the Oct. 25 festival alongside Brian Maneja, who represented American Legion, a veteran’s association that sponsored the event. From vintage clothes and [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/community/2024/10/30/eagle-rock-community-jumps-into-halloween-with-octoberfest-flea-market/2913579">Eagle Rock community jumps into Halloween with Octoberfest flea market</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/community/2024/10/30/eagle-rock-community-jumps-into-halloween-with-octoberfest-flea-market/2913579>
+
+---
+
+## Local bookstores keep pace with the changing seasons
+
+date: 2024-10-30, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>As fall settles in, local bookstores near Occidental College reflect seasonal changes in the community&#8217;s relationship with books. Horror and literary winters at the North Figueroa Bookshop North Figueroa Bookshop is catering to an uptick in interest in horror this Halloween, shop manager Amadeus Fuzz said. According to Fuzz, their publisher Unnamed Press is embracing [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/community/2024/10/30/local-bookstores-keep-pace-with-the-changing-seasons/2913577">Local bookstores keep pace with the changing seasons</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/community/2024/10/30/local-bookstores-keep-pace-with-the-changing-seasons/2913577>
+
+---
+
+## Herrick labyrinth provides students with a space of reflection and spiritual respite
+
+date: 2024-10-30, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>For almost two decades, the canvas labyrinth in Herrick Interfaith Center has been a space for Occidental students to meditate, pray and focus on their spirituality. Every Wednesday, the labyrinth is rolled out in upper Herrick, and students are invited to walk along its path at their own pace while engaging in prayer, meditation or mindfulness. Director [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2024/10/30/herrick-labyrinth-provides-students-with-a-space-of-reflection-and-spiritual-respite/2913570">Herrick labyrinth provides students with a space of reflection and spiritual respite</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2024/10/30/herrick-labyrinth-provides-students-with-a-space-of-reflection-and-spiritual-respite/2913570>
+
+---
+
+## Project SAFE reached all over the Occidental community for Empowerment Week 2024
+
+date: 2024-10-30, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>The quad was busy from 11 a.m. to 1 p.m. Oct. 23 with over a dozen tables featuring information about sexual health and domestic violence, and a purple tie-dying event held by Project SAFE. This was the Empowerment Fair, a part of Project SAFE&#8217;s Empowerment Week. Empowerment Week is held annually in October at Occidental in [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2024/10/30/project-safe-reached-all-over-the-occidental-community-for-empowerment-week-2024/2913566">Project SAFE reached all over the Occidental community for Empowerment Week 2024</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2024/10/30/project-safe-reached-all-over-the-occidental-community-for-empowerment-week-2024/2913566>
 
 ---
 

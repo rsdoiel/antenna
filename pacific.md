@@ -1,11 +1,133 @@
 ---
 title: pacific
-updated: 2024-10-30 07:57:43
+updated: 2024-10-30 13:52:05
 ---
 
 # pacific
 
-(date: 2024-10-30 07:57:43)
+(date: 2024-10-30 13:52:05)
+
+---
+
+## UH Mānoa college adds ‘resilience’ to its name to reflect vision, mission
+
+date: 2024-10-30, from: University of Hawaiʻi News
+
+<p>The College of Tropical Agriculture and Human Resources has officially changed its name to the College of Tropical Agriculture and Human Resilience.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/30/ctahr-renaming/"><abbr>UH</abbr> Mānoa college adds ‘resilience’ to its name to reflect vision, mission</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/30/ctahr-renaming/>
+
+---
+
+## Image of the Week: Snow on the summit
+
+date: 2024-10-30, from: University of Hawaiʻi News
+
+<p>This week’s image is from the <abbr title="University of Hawaii">UH</abbr> Maunakea Stewardship Instagram.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/30/image-of-the-week-snow-on-the-summit/">Image of the Week: Snow on the summit</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/30/image-of-the-week-snow-on-the-summit/>
+
+---
+
+## Sobriety checkpoints
+
+date: 2024-10-30, updated: 2024-10-30, from: Marianas Variety
+
+(Department of Public Safety) — In collaboration with the National Highway Traffic Safety Administration’s “Buzzed Driving is Drunk Driving” and “If You Feel Different, You Drive Different” Halloween Campaign, DPS Highway Patrol Section will be conducting sobriety checkpoints today, Thursday, Oct. 31, 2024. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/sobriety-checkpoints/article_10b2cab2-96ba-11ef-bc7f-336c0eaaf81d.html>
+
+---
+
+## Man arrested for selling meth on Tinian
+
+date: 2024-10-30, updated: 2024-10-30, from: Marianas Variety
+
+DEAN Evangelista was arrested for selling methamphetamine on three occasions on Tinian, according to court documents. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/man-arrested-for-selling-meth-on-tinian/article_add19f8a-9697-11ef-ab0f-a3e5bc4d8151.html>
+
+---
+
+## Classes resume at NMTech on Nov. 6
+
+date: 2024-10-30, updated: 2024-10-30, from: Marianas Variety
+
+NORTHERN Marianas Technical Institute Chief Executive Officer Jodina Attao said the trade school will resume classes and business operations on Wednesday, Nov. 6. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/classes-resume-at-nmtech-on-nov-6/article_b96f4708-968c-11ef-a332-bba8545b52e8.html>
+
+---
+
+## Philippine police to investigate Duterte's ‘death squad’ claims
+
+date: 2024-10-30, updated: 2024-10-30, from: Marianas Variety
+
+MANILA (Reuters) — The Philippine National Police said on Wednesday they will investigate revelations made by former President Rodrigo Duterte that he assembled a "death squad" to control crime when he was mayor of the southern city of Davao. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/philippine-police-to-investigate-dutertes-death-squad-claims/article_361d02e0-96c4-11ef-a1b7-bf6d7280cbda.html>
+
+---
+
+## Biden rushes to clarify ‘garbage’ comment Trump says was aimed at his supporters
+
+date: 2024-10-30, updated: 2024-10-30, from: Marianas Variety
+
+(Reuters) — President Joe Biden's supposed attempt to call out racist remarks by a speaker at a campaign rally for Donald Trump backfired as Trump and other Republicans accused him of calling their supporters "garbage." 
+
+<br> 
+
+<https://www.mvariety.com/news/national/biden-rushes-to-clarify-garbage-comment-trump-says-was-aimed-at-his-supporters/article_1a040652-96c5-11ef-b823-777eda47e60f.html>
+
+---
+
+## MTEC school presentations kick off in Rota
+
+date: 2024-10-30, updated: 2024-10-30, from: Marianas Variety
+
+THE Marianas Tourism Education Council kicked off its annual school outreach on Friday, Oct. 25, at Rota public schools with a sponsorship offer for students who sign up to join the January 2025 Rota Marathon organized by the Marianas Visitors Authority. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/mtec-school-presentations-kick-off-in-rota/article_8581d11a-96c6-11ef-92cd-cfdd5e2d370f.html>
+
+---
+
+## 5th Grade Kindness Crew at SIS wraps up successful ‘Buy One Lollipop, Save One Dog’ initiative
+
+date: 2024-10-30, updated: 2024-10-30, from: Marianas Variety
+
+THE 5th Grade Kindness Crew, led by teacher Doris Rioux-Materne at Saipan International School has successfully concluded their heartwarming initiative, "Buy One Lollipop, Save One Dog," which aimed to support local animals in need. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/5th-grade-kindness-crew-at-sis-wraps-up-successful-buy-one-lollipop-save-one-dog/article_ceae724e-96c6-11ef-8f35-7b65f477729b.html>
+
+---
+
+## ‘A Real Pain’ film presents the parallels of generational struggle
+
+date: 2024-10-30, updated: 2024-10-30, from: Marianas Variety
+
+LOS ANGELES (Reuters) — Jesse Eisenberg created the film “A Real Pain” to depict the emotional distress between two Jewish American cousins touring modern-day Poland as they learn more about the trauma of the Holocaust. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/a-real-pain-film-presents-the-parallels-of-generational-struggle/article_b0743b2c-96c8-11ef-a09e-73dce846a59e.html>
 
 ---
 

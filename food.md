@@ -1,11 +1,329 @@
 ---
 title: food
-updated: 2024-10-30 07:57:48
+updated: 2024-10-30 13:52:08
 ---
 
 # food
 
-(date: 2024-10-30 07:57:48)
+(date: 2024-10-30 13:52:08)
+
+---
+
+## Copycat Starbucks Brown Sugar Shaken Espresso
+
+date: 2024-10-30, from: Taste of Home
+
+You'll actually look forward to mornings with this Starbucks brown sugar shaken espresso in hand. Skip the drive-thru and head straight to your kitchen to shake up this coffee drink. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/copycat-starbucks-brown-sugar-shaken-espresso/>
+
+---
+
+## Air-Fryer Smashed Potatoes
+
+date: 2024-10-30, from: Taste of Home
+
+These crispy air-fryer smashed potatoes are a simple and flavorful side dish that’s perfect for weeknight dinners or entertaining. Customize them with your favorite seasonings for a delicious twist! 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/air-fryer-smashed-potatoes/>
+
+---
+
+## Copycat McDonald’s Peanut Butter Crunch McFlurry
+
+date: 2024-10-30, from: Taste of Home
+
+The Peanut Butter Crunch McFlurry was only available at McDonald's for a short time, and we miss it! Fortunately, this McFlurry copycat let's you make the treat at home in just 10 minutes. Now all you need is an extra-thick straw. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/copycat-mcdonalds-peanut-butter-crunch-mcflurry/>
+
+---
+
+## Sauteed Collard Greens
+
+date: 2024-10-30, from: Taste of Home
+
+Everything's better with bacon, but in this case, bacon is better with sauteed collard greens. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/sauteed-collard-greens/>
+
+---
+
+## Vegetable Beef Shepherd’s Pie
+
+date: 2024-10-30, from: Taste of Home
+
+Shepard's pie has been a family favorite for as long as I can remember. It bakes in just 30 minutes and is packed with veggies like carrots, zucchini, onion and green pepper. —Julie Merriman, Seattle, Washington 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/vegetable-beef-shepherds-pie/>
+
+---
+
+## Sweet & Spicy Party Meatballs
+
+date: 2024-10-30, from: Taste of Home
+
+A friend served this at a party years ago and I modified the recipe. With apple, peach and apricot preserves these meatballs are sweet and fruity. The addition of Sriracha chili sauce and red pepper flakes adds a spicy heat that makes them irresistible. —Joan Hallford, North Richland Hills, Texas 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/sweet-spicy-party-meatballs/>
+
+---
+
+## Strawberry & Basil Galettes
+
+date: 2024-10-30, from: Taste of Home
+
+Shaped to resemble strawberries with pointed tips and pleated edges, these galettes are delicious and charmingly rustic, making them perfect for picnics and farmers' markets. Their individual portions make them easy to enjoy on the go. —Niv Menon-Saberi, Port Elgin, Ontario 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/strawberry-basil-galettes/>
+
+---
+
+## Lemon Hawaiian Sweet Rolls
+
+date: 2024-10-30, from: Taste of Home
+
+These Sweet Hawaiian rolls filled with a citrusy lemon filling can be served for breakfast, brunch or dessert. They are drizzled with a confectioners' sugar, lemon juice and milk frosting. —Darlene Brenden, Salem, Oregon 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/lemon-hawaiian-sweet-rolls/>
+
+---
+
+## Moist Lemon Coconut Cake
+
+date: 2024-10-30, from: Taste of Home
+
+I am a devout from scratch baker, but I make an exception when it comes to this perfectly moist and lemony cake. I dressed up cake mixes with my own touches and ended up with delightfully flavored cake squares that are perfect for a party. —Trisha Kruse, Eagle, Idaho 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/moist-lemon-coconut-cake/>
+
+---
+
+## Gremolata Pasta Salad
+
+date: 2024-10-30, from: Taste of Home
+
+Straying from heavier, mayonnaise-based pasta salads, I created this lighter olive oil-based salad. Lemon juice, feta cheese, garlic and tomatoes brighten up this colorful and bright dish. —Laurie Sisco, Kingsley, Michigan 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/gremolata-pasta-salad/>
+
+---
+
+## Chicken Alfredo Twice Baked Potatoes
+
+date: 2024-10-30, from: Taste of Home
+
+I developed this recipe in response to a challenge from my boss and friend, Sue Stetzel. The challenge was to make an original potato-based dish. I had fettuccine Alfredo on the brain at the time, and from that, this creation was born. —Cyndy Gerken, Naples, Florida 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/chicken-alfredo-twice-baked-potatoes/>
+
+---
+
+## Banana Cream Shortcake
+
+date: 2024-10-30, from: Taste of Home
+
+Similar to banana pudding, this banana cream dessert lays on a few extra fixings. It's sweet, creamy and riddled with chocolate chips! —Jen Pahl, West Allis, Wisconsin 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/banana-cream-shortcake/>
+
+---
+
+## Pulled Pork Sandwiches with White Barbecue Sauce
+
+date: 2024-10-30, from: Taste of Home
+
+This is my favorite summer recipe to make for a barbecue. You can set it and forget it, until it's time to shred it! My son hates traditional barbecue sauce, so I've made this white sauce with mayonnaise for many years. —Linsey Bruce-Lefkowitz, Palm Beach Gardens, Florida 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/pulled-pork-sandwiches-with-white-barbecue-sauce/>
+
+---
+
+## Chocolate Caramel Crunch Bark
+
+date: 2024-10-30, from: Taste of Home
+
+I made these decadent chocolate caramel crunch bars and took them to a reunion with my sorority sisters last fall. We all gathered in a cabin in the woods and shared desserts around the fire. These were the perfect easy-to-eat bars. —Theresa Ravencraft, Marysville, Ohio 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/chocolate-caramel-crunch-bark/>
+
+---
+
+## Chicken & Green Chile Stuffed Shells
+
+date: 2024-10-30, from: Taste of Home
+
+For a family potluck, I was told to bring a pasta casserole. For these events, I usually make a lasagna. To switch things up, I modified my family's favorite chicken chile lasagna into a stuffed shells dish. The creamy, cheesy recipe is now the new favorite! —Donna Gribbins, Shelbyville, Kentucky 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/chicken-green-chile-stuffed-shells/>
+
+---
+
+## Curry Chicken Salad Sandwiches
+
+date: 2024-10-30, from: Taste of Home
+
+These creamy sandwiches are a step up from your usual chicken salad. The sweet, savory and spicy dish is made with mango chutney, honey and curry powder. —Francine Lizotte, Langley, British Columbia 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/curry-chicken-salad-sandwiches/>
+
+---
+
+## Clif Bar Just Reached a $12 Million Settlement: Are You Eligible for a Payout?
+
+date: 2024-10-30, from: Taste of Home
+
+<p>It's easy to make a claim, but hurry—the deadline is coming up soon.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/clif-bar-settlement-2024/">Clif Bar Just Reached a $12 Million Settlement: Are You Eligible for a Payout?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/clif-bar-settlement-2024/>
+
+---
+
+## Can You Eat Sweet Potato Skin?
+
+date: 2024-10-30, from: Taste of Home
+
+<p>The skin is safe to eat and full of healthy nutrients. Just remember to scrub the sweet potatoes first!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/can-you-eat-sweet-potato-skin/">Can You Eat Sweet Potato Skin?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/can-you-eat-sweet-potato-skin/>
+
+---
+
+## Stanley Tucci’s New Lasagna Pan Makes Me Want to Try Making Lasagna
+
+date: 2024-10-30, from: Bon Appetet
+
+Plus Wicked-inspired candles, a coquette MacKenzie-Childs tea pot, a new portable coffee brewer, and more. 
+
+<br> 
+
+<https://www.bonappetit.com/story/stanley-tucci-lasagna-pan>
+
+---
+
+## Grilled Broccoli
+
+date: 2024-10-30, from: Taste of Home
+
+Coating broccoli in a lemon juice marinade and a layer of Parmesan, then hitting it with a smoky char, makes for a showstopper of a grilled broccoli side dish. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/grilled-broccoli/>
+
+---
+
+## The Best Nonstick Pans (2024) Reviewed by Our Experts
+
+date: 2024-10-30, from: Bon Appetet
+
+Here’s what the pros use at work and at home. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-nonstick-pans>
+
+---
+
+## The New Cropster Cafe Inventory Insight Feature Revolutionizes Inventory Tracking For Coffee Chains
+
+date: 2024-10-30, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Introducing the Cafe Inventory Insight Feature from Cropster. 
+
+<br> 
+
+<https://sprudge.com/the-new-cropster-cafe-inventory-insight-feature-revolutionizes-inventory-tracking-for-coffee-chains-257935.html>
+
+---
+
+## The 20 Best Gifts for Bakers (2024)
+
+date: 2024-10-30, from: Bon Appetet
+
+Play your cards right and you’ll be repaid in brownies. 
+
+<br> 
+
+<https://www.bonappetit.com/story/baking-gift-guide>
+
+---
+
+## Balsam Hill Ornament Storage Review: The Safest Way To Store Your Baubles
+
+date: 2024-10-30, from: Taste of Home
+
+<p>If you're an avid ornament collector, you know how fragile baubles and bulbs can be. Protect them with the Rolls Royce of storage: the Balsam Hill rolling ornament chest. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/balsam-hill-ornament-storage/">Balsam Hill Ornament Storage Review: The Safest Way To Store Your Baubles</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/balsam-hill-ornament-storage/>
+
+---
+
+## Design Details: The Dynamic Coffee Installation at Beanroom in Taipei
+
+date: 2024-10-30, from: Daily Coffee News
+
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/15.packaging-display-620x465.jpg" class="attachment-large size-large wp-post-image" alt="15.packaging display" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/15.packaging-display-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/15.packaging-display-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/15.packaging-display-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/15.packaging-display-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/15.packaging-display.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/10/30/design-details-the-dynamic-coffee-installation-at-beanroom-in-taipei/>
+
+---
+
+## Spella Caffè Spreads La Dolce Vita with Cafe on Portland’s East Side
+
+date: 2024-10-30, from: Daily Coffee News
+
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Spella-Caffe-at-Woodblock-5-620x465.jpeg" class="attachment-large size-large wp-post-image" alt="Spella Caffe at Woodblock 5" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Spella-Caffe-at-Woodblock-5-620x465.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Spella-Caffe-at-Woodblock-5-300x225.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Spella-Caffe-at-Woodblock-5-150x113.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Spella-Caffe-at-Woodblock-5-768x576.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Spella-Caffe-at-Woodblock-5.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>One year after opening a shop that reclaimed its downtown Portland, Oregon roots, Italian-style coffee stalwart Spella Caffè is opening a second location across the Willamette River, in Northeast Portland.... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/10/30/spella-caffe-spreads-la-dolce-vita-with-cafe-on-portlands-east-side/>
 
 ---
 
@@ -37,11 +355,23 @@ date: 2024-10-30, from: The Sprudge
 
 date: 2024-10-30, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Sputnik-Coffee-IMF-roaster-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Sputnik Coffee IMF roaster" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Sputnik-Coffee-IMF-roaster-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Sputnik-Coffee-IMF-roaster-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Sputnik-Coffee-IMF-roaster-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Sputnik-Coffee-IMF-roaster-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Sputnik-Coffee-IMF-roaster.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Chicago-based Sputnik Coffee Company opened a spacious second cafe earlier this month with views into an enormous new color-coordinated roasting facility. Less than half a mile from Sputnik&#8217;s original roastery... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Sputnik-Coffee-IMF-roaster-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Sputnik Coffee IMF roaster" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Sputnik-Coffee-IMF-roaster-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Sputnik-Coffee-IMF-roaster-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Sputnik-Coffee-IMF-roaster-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Sputnik-Coffee-IMF-roaster-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Sputnik-Coffee-IMF-roaster.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Chicago-based Sputnik Coffee Company opened a spacious second cafe earlier this month with views into an enormous new color-coordinated roasting facility. Less than half a mile from Sputnik&#8217;s original roastery... 
 
 <br> 
 
 <https://dailycoffeenews.com/2024/10/30/sputnik-coffee-goes-supernova-with-huge-new-roastery-cafe-in-chicago/>
+
+---
+
+## Peach Caprese Salad
+
+date: 2024-10-30, from: Taste of Home
+
+When you have fresh, juicy summer produce, you want to let it shine. This refreshing peach Caprese salad made with beautiful peaches, tomatoes, mozzarella and basil is the ultimate seasonal side. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/peach-caprese-salad-2/>
 
 ---
 
@@ -136,6 +466,18 @@ date: 2024-10-30, from: Isebel Eats
 <br> 
 
 <https://www.isabeleats.com/mexican-slow-cooker-chicken-carnitas-tacos/>
+
+---
+
+## Cranberry Moscow Mule
+
+date: 2024-10-30, from: Taste of Home
+
+Looking for the ultimate holiday sip? This cranberry Moscow mule brings serious cheer with its fizzy ginger beer, tart cranberry and vibrant lime, making it the season's perfect party drink. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/cranberry-moscow-mule/>
 
 ---
 
@@ -273,7 +615,7 @@ These tender Korean meatballs take under an hour to make and will probably be de
 
 date: 2024-10-29, from: Daily Coffee News
 
-<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Luckin-Coffee-China-620x413.jpg" class="attachment-large size-large wp-post-image" alt="Luckin Coffee China" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Luckin-Coffee-China-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Luckin-Coffee-China-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Luckin-Coffee-China-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Luckin-Coffee-China-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Luckin-Coffee-China.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Chinese coffee giant Luckin Coffee is planning a small-scale launch in the United States, less than four years after the company agreed to a $180 million settlement with the Securities... 
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Luckin-Coffee-China-620x413.jpg" class="attachment-large size-large wp-post-image" alt="Luckin Coffee China" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Luckin-Coffee-China-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Luckin-Coffee-China-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Luckin-Coffee-China-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Luckin-Coffee-China-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Luckin-Coffee-China.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Chinese coffee giant Luckin Coffee is planning a small-scale launch in the United States, less than four years after the company agreed to a $180 million settlement with the Securities... 
 
 <br> 
 
@@ -345,7 +687,7 @@ Cubed chicken breast keeps this chicken lentil soup recipe lean, but feel free t
 
 date: 2024-10-29, from: Daily Coffee News
 
-<div><img width="620" height="418" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/ceremony-coffee-baltimore-620x418.jpg" class="attachment-large size-large wp-post-image" alt="ceremony coffee baltimore" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/ceremony-coffee-baltimore-620x418.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/ceremony-coffee-baltimore-300x202.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/ceremony-coffee-baltimore-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/ceremony-coffee-baltimore-768x518.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/ceremony-coffee-baltimore.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Maryland-based Ceremony Coffee Roasters is now part of the FairWave Specialty Coffee Collective, a conglomerate of specialty coffee brands that launched in 2020 and now comprises more than 30 cafes... 
+<div><img width="620" height="418" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/ceremony-coffee-baltimore-620x418.jpg" class="attachment-large size-large wp-post-image" alt="ceremony coffee baltimore" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/ceremony-coffee-baltimore-620x418.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/ceremony-coffee-baltimore-300x202.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/ceremony-coffee-baltimore-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/ceremony-coffee-baltimore-768x518.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/ceremony-coffee-baltimore.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Maryland-based Ceremony Coffee Roasters is now part of the FairWave Specialty Coffee Collective, a conglomerate of specialty coffee brands that launched in 2020 and now comprises more than 30 cafes... 
 
 <br> 
 

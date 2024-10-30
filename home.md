@@ -1,11 +1,155 @@
 ---
 title: home
-updated: 2024-10-30 07:57:47
+updated: 2024-10-30 13:52:07
 ---
 
 # home
 
-(date: 2024-10-30 07:57:47)
+(date: 2024-10-30 13:52:07)
+
+---
+
+## How To Make a Wooden Crate With Vinyl Record Display
+
+date: 2024-10-30, from: Family Handyman Blog
+
+<p>Learn how to make a wooden crate with a unique twist ideal for music enthusiasts - a built-in vinyl record display! </p>
+<p>The post <a href="https://www.familyhandyman.com/project/wooden-crate-vinyl-record-display/">How To Make a Wooden Crate With Vinyl Record Display</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/wooden-crate-vinyl-record-display/>
+
+---
+
+## The Most Common National Electric Code Violations DIYers Run Into
+
+date: 2024-10-30, from: Family Handyman Blog
+
+<p>Don't make these mistakes, DIYers.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/electrical-code-violations/">The Most Common National Electric Code Violations DIYers Run Into</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/electrical-code-violations/>
+
+---
+
+## How They Pulled It Off: a Custom Conversation Pit in a Lakefront A-Frame
+
+date: 2024-10-30, from: Dwell
+
+With clever use of space and a little imagination, one couple’s dreams of a’70s-style living room comes to life. 
+
+<br> 
+
+<https://www.dwell.com/article/how-they-pulled-it-off-a-custom-conversation-pit-in-a-lakefront-a-frame-7cde2907>
+
+---
+
+## Cut Perfect Circles Every Time With This Easy DIY Router Circle Jig
+
+date: 2024-10-30, from: Family Handyman Blog
+
+<p>Ready to take your woodworking game to the next level?</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-make-router-circle-jig/">Cut Perfect Circles Every Time With This Easy DIY Router Circle Jig</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/how-to-make-router-circle-jig/>
+
+---
+
+## It’s Hard to Believe This Sinuous Staircase Is Made of Wood
+
+date: 2024-10-30, from: Dwell
+
+In an otherworldly Melbourne home, the stair looks like rock shaped by water over millennia. 
+
+<br> 
+
+<https://www.dwell.com/article/northcote-house-llds-curving-wood-staircase-6dc98ef0>
+
+---
+
+## Budget Breakdown: Inside a $117K Extreme Off-Grid Cabin in the Patagonian Forest
+
+date: 2024-10-30, from: Dwell
+
+The solar-powered refuge is made from glass, wool, and steel—and it teaches people to "live like animals," according to designer Felipe Lüer. 
+
+<br> 
+
+<https://www.dwell.com/article/budget-breakdown-alerce-oculto-zerocabin-off-grid-cabin-patagonia-chile-5a61bdc1>
+
+---
+
+## CDFA Farm to School regional staff help expand network, connect farmers to schools
+
+date: 2024-10-30, from: Calfifornia Dept. Aggriculture blog
+
+October is National Farm to School Month. CDFA encourages educators, school food service employees, farmers and farm to school enthusiasts across California to join in the celebration. Visit https://www.farmtoschool.org/ for more information. Did you know CDFA’s Farm to School Program has regional &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28395">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28395>
+
+---
+
+## This $2.9M Pioneertown Home Comes With a Boulder-Topped Mountain
+
+date: 2024-10-30, from: Dwell
+
+The revamped 1971 residence is set on 13 acres of desert, and it has a stone-clad shower designed by local legend Claude "Pappy" Allen of Pappy & Harriet’s. 
+
+<br> 
+
+<https://www.dwell.com/article/desert-home-renovation-pappy-and-harriets-pioneertown-real-estate-57a02628>
+
+---
+
+## Chasing Paper’s New Cottage Edit Has Peel-and-Stick Wallpaper Prints of Our Dreams
+
+date: 2024-10-30, from: Family Handyman Blog
+
+<p>Turn your home into a Nancy Meyers movie with Chasing Paper wallpaper. The new 'Cottage Edit' has a homey, natural feel.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/chasing-paper-wallpaper/">Chasing Paper’s New Cottage Edit Has Peel-and-Stick Wallpaper Prints of Our Dreams</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/chasing-paper-wallpaper/>
+
+---
+
+## The Noah Kahan x L.L. Bean ‘Northern Altitude Collection’ is a Love Letter to New England
+
+date: 2024-10-30, from: Family Handyman Blog
+
+<p>Noah Kahan and L.L. Bean have teamed up for an all-new collaboration that's ideal for chilly New England weather (and 'Stick Season' fans).</p>
+<p>The post <a href="https://www.familyhandyman.com/article/noah-kahan-ll-bean-collection/">The Noah Kahan x L.L. Bean &#8216;Northern Altitude Collection&#8217; is a Love Letter to New England</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/noah-kahan-ll-bean-collection/>
+
+---
+
+## How to Identify and Control 11 Common Houseplant Pests
+
+date: 2024-10-30, from: The Gardener's Path
+
+<p>In the same way that garden plants can be damaged or even killed by troublesome pests, so too can houseplants. From familiar aphids to less common springtails, there are many tiny creatures that can cause major problems. Learn how to identify and control 11 common houseplant pests in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/houseplants/pests/">How to Identify and Control 11 Common Houseplant Pests</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/houseplants/pests/>
 
 ---
 
@@ -68,6 +212,90 @@ date: 2024-10-30, from: Yard Life blog
 
 ---
 
+## These Are the Only 5 Travel Hacks You Need This Holiday Season
+
+date: 2024-10-30, from: Sunset Magazine - Living in the West
+
+From precisely when to book flights to how to stay healthy during peak season, these are the tips you need to have the most seamless holiday. 
+
+<br> 
+
+<https://www.sunset.com/travel/travel-tips/holiday-travel-hacks>
+
+---
+
+## After Years of Searching for the Perfect Luggage, I Finally Found It
+
+date: 2024-10-30, from: Sunset Magazine - Living in the West
+
+After years of traveling, I finally found the perfect luggage in a 45-liter backpack by Mystery Ranch. 
+
+<br> 
+
+<https://www.sunset.com/travel/travel-tips/best-luggage-backpack>
+
+---
+
+## From Montecito to Monterey, This Is the Ultimate Coastal Wine Country Road Trip
+
+date: 2024-10-30, from: Sunset Magazine - Living in the West
+
+We hit the road to explore wine country up the California coast. The result is the perfect wine country road trip itinerary. 
+
+<br> 
+
+<https://www.sunset.com/travel/wine-country/wine-country-road-trip-itinerary>
+
+---
+
+## 4 Myths Winemakers Want You to Stop Believing About Blends
+
+date: 2024-10-30, from: Sunset Magazine - Living in the West
+
+It’s easy to think that wine blends are like leftovers. Winemakers share what you need to know about wine blends and how to choose one. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/wine-blends-what-to-know>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-10-30, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## Hotel Concierges Share the Secret to Getting VIP Treatment Every Single Time—Without Spending a Penny
+
+date: 2024-10-30, from: Sunset Magazine - Living in the West
+
+You don't have to be a celeb to have the red carpet rolled out at hotels. We talk to top concierges to get tips on receiving VIP treatment. 
+
+<br> 
+
+<https://www.sunset.com/travel/hotels/how-to-get-vip-treatment-at-hotels>
+
+---
+
+## Our All-Time Favorite Christmas Morning Recipes
+
+date: 2024-10-30, from: Sunset Magazine - Living in the West
+
+With a full agenda of gathering around the tree to unwrap gifts, you'll want to add these easy, hearty, and warming dishes to your Christmas brunch menu. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/holidays-occasions/christmas-brunch-menu>
+
+---
+
 ## Pistachio Tree Care and Growing Guide with Ultimate Tips
 
 date: 2024-10-30, from: Yard Life blog
@@ -95,6 +323,18 @@ date: 2024-10-30, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/polka-dot-plant-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## Hot Cocoa, But Make It Charcuterie: How to Create a DIY Holiday Board at Home
+
+date: 2024-10-30, from: Sunset Magazine - Living in the West
+
+Create a hot chocolate charcuterie board that will leave guests with customized mugs of cocoa. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/hot-chocolate-charcuterie-board>
 
 ---
 
@@ -216,7 +456,7 @@ date: 2024-10-29, from: Family Handyman Blog
 
 ---
 
-## Olivia Wilde’s Former Los Angeles Home Lists for $4.8M
+## Olivia Wilde’s Former Los Angeles Home Lists for $4.5M
 
 date: 2024-10-29, from: Dwell
 
@@ -325,18 +565,6 @@ date: 2024-10-29, from: Yard Life blog
 
 ---
 
-## Sunset.com Home Page
-
-date: 2024-10-29, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
-
----
-
 ## Purple Potatoes Care and Growing Guide with Ultimate Tips
 
 date: 2024-10-29, from: Yard Life blog
@@ -436,18 +664,6 @@ date: 2024-10-28, from: California Native Plants Society
 <br> 
 
 <https://www.cnps.org/artemisia-journal/caring-for-culturally-significant-plants-in-the-midst-of-record-setting-droughts-40869>
-
----
-
-## Hotel Concierges Share the Secret to Getting VIP Treatment Every Single Time—without Spending a Penny
-
-date: 2024-10-28, from: Sunset Magazine - Living in the West
-
-You don't have to be a celeb to have the red carpet rolled out at hotels. We talk to top concierges to get tips on receiving VIP treatment. 
-
-<br> 
-
-<https://www.sunset.com/travel/hotels/how-to-get-vip-treatment-at-hotels>
 
 ---
 

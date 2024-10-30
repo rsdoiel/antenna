@@ -1,11 +1,123 @@
 ---
 title: central coast
-updated: 2024-10-30 07:57:44
+updated: 2024-10-30 13:52:05
 ---
 
 # central coast
 
-(date: 2024-10-30 07:57:44)
+(date: 2024-10-30 13:52:05)
+
+---
+
+## Miramar Resort Strikes Deal with All Saints by-the-Sea Over Housing, Retail Project
+
+date: 2024-10-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Rosewood Miramar Beach hotel has reached a deal with the All Saints by-the-Sea church over its new housing and retail project in Montecito. The Miramar has reduced the size [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/miramar-resort-strikes-deal-with-all-saints-by-the-sea-over-housing-retail-project/">Miramar Resort Strikes Deal with All Saints by-the-Sea Over Housing, Retail Project</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/miramar-resort-strikes-deal-with-all-saints-by-the-sea-over-housing-retail-project/>
+
+---
+
+## Dear Annie: Thoughts for Autumn
+
+date: 2024-10-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Dear Readers: Hope you are all having a lovely fall. Please see below some poems that help embrace the season. “The Wild Swans at Coole” “The trees are in their [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/dear-annie-thoughts-for-autumn/">Dear Annie: Thoughts for Autumn</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/dear-annie-thoughts-for-autumn/>
+
+---
+
+## Applications Sought for Block Grant, Human Services Program Funding
+
+date: 2024-10-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The city of Santa Barbara is soliciting proposals from eligible applicants for its Fiscal Years 2026 and 2027 Human Services Grant Funding and Fiscal Year 2026 Community Development Block Grant [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/applications-sought-for-block-grant-human-services-program-funding/">Applications Sought for Block Grant, Human Services Program Funding</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/applications-sought-for-block-grant-human-services-program-funding/>
+
+---
+
+## Carpinteria Lions Club to Display Decorated Holiday Trees
+
+date: 2024-10-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Carpinteria Lions Club&#8217;s 15th Annual Festival of Trees will transform the Lynda Fairly Carpinteria Art Center into a winter wonderland filled with uniquely decorated trees and festive cheer, Nov. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/carpinteria-lions-club-to-display-decorated-holiday-trees/">Carpinteria Lions Club to Display Decorated Holiday Trees</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/carpinteria-lions-club-to-display-decorated-holiday-trees/>
+
+---
+
+## SBCC’s College Transfer Fair Opens Up World of Higher Education
+
+date: 2024-10-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara City College (SBCC) will host more than 70 colleges and universities on its West Campus Great Meadow at the annual College Transfer Fair, 11 a.m.-2 p.m. Wednesday, Oct. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/sbccs-college-transfer-fair-opens-up-world-of-higher-education/">SBCC&#8217;s College Transfer Fair Opens Up World of Higher Education</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/sbccs-college-transfer-fair-opens-up-world-of-higher-education/>
+
+---
+
+## Santa Maria Reports Cleanup of Riverbed Encampments a Success
+
+date: 2024-10-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Significant progress was achieved to resolve homelessness encampments in the Santa Maria Riverbed during a multi-month collaborative project that recently concluded, providing about 100 people with case management and housing [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-maria-reports-cleanup-of-riverbed-encampments-a-success/">Santa Maria Reports Cleanup of Riverbed Encampments a Success</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/santa-maria-reports-cleanup-of-riverbed-encampments-a-success/>
+
+---
+
+## Grant to Help Organic Soup Kitchen Widen its Delivery Scope
+
+date: 2024-10-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Local nonprofit Organic Soup Kitchen is partnering with DoorDash’s Project DASH to broaden food access in the Santa Barbara community by leveraging the delivery of charitable food. Organic Soup Kitchen, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/grant-to-help-organic-soup-kitchen-widen-its-delivery-scope/">Grant to Help Organic Soup Kitchen Widen its Delivery Scope</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/grant-to-help-organic-soup-kitchen-widen-its-delivery-scope/>
+
+---
+
+## ‘Threepenny Opera’ at UCSB Takes Dark Look at Inequities of Society
+
+date: 2024-10-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Department of Theater and Dance at the UC Santa Barbara will present Bertolt Brecht and Kurt Weill’s musical “The Threepenny Opera” running Nov. 15,-23 in UCSB’s Performing Arts Theater. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/threepenny-opera-at-ucsb-takes-dark-look-at-inequities-of-society/">‘Threepenny Opera’ at UCSB Takes Dark Look at Inequities of Society</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/threepenny-opera-at-ucsb-takes-dark-look-at-inequities-of-society/>
 
 ---
 

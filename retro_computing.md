@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2024-10-30 07:57:47
+updated: 2024-10-30 13:52:07
 ---
 
 # retro computing
 
-(date: 2024-10-30 07:57:47)
+(date: 2024-10-30 13:52:07)
+
+---
+
+## b.log 2024/10/30 - Pumpkin.
+
+date: 2024-10-30, from: Richard Murray's blog
+
+Pumpkin. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20241030>
+
+---
+
+## Plus Post: Collins International Trading Corp's Orange+
+
+date: 2024-10-30, from: Computer ads from the Past
+
+"The Inflation Fighter is Here" 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/plus-post-collins-international-trading>
 
 ---
 

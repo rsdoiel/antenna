@@ -1,11 +1,85 @@
 ---
 title: socal north
-updated: 2024-10-30 07:57:43
+updated: 2024-10-30 13:52:05
 ---
 
 # socal north
 
-(date: 2024-10-30 07:57:43)
+(date: 2024-10-30 13:52:05)
+
+---
+
+## She fights for affordable housing in the Inland Empire. Now she’s fighting to keep a roof over her head
+
+date: 2024-10-30, updated: 2024-10-30, from: The LAist
+
+For years Laurel LaMont has fought for better options for what she calls the “missing middle,” often referred to as workforce housing. Now she's being evicted. 
+
+<br> 
+
+<https://laist.com/news/she-fights-for-affordable-housing-in-the-inland-empire-now-shes-fighting-to-keep-a-roof-over-her-head>
+
+---
+
+## Cal State posts uneven graduation progress as initiative finish line approaches
+
+date: 2024-10-30, updated: 2024-10-30, from: The LAist
+
+Officials say CSU's rates compare well nationally, but still "not good enough." 
+
+<br> 
+
+<https://laist.com/news/education/cal-state-posts-uneven-graduation-progress-as-initiative-finish-line-approaches>
+
+---
+
+## How Al Madrigal is helping Latino voters spot misinformation
+
+date: 2024-10-30, updated: 2024-10-30, from: The LAist
+
+Using humor, the awareness campaign is targeting Latinos of all ages in both English and Spanish. 
+
+<br> 
+
+<https://laist.com/news/how-al-madrigal-is-helping-latino-voters-spot-misinformation>
+
+---
+
+## Authorities Urge Southlanders to Follow Safety Guidelines for Halloween
+
+date: 2024-10-30, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>LOS ANGELES (CNS) &#8211; Authorities today urged Southlanders to follow safety guidelines on Halloween &#8212; not only for children who go out Trick-or-Treating, but also for adults who go out [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/10/30/authorities-urge-southlanders-to-follow-safety-guidelines-for-halloween/">Authorities Urge Southlanders to Follow Safety Guidelines for Halloween</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/10/30/authorities-urge-southlanders-to-follow-safety-guidelines-for-halloween/>
+
+---
+
+## Millions of people celebrate Diwali this week. Here is what you should know
+
+date: 2024-10-30, updated: 2024-10-30, from: The LAist
+
+Known as the “Festival of Lights,” Diwali is one of the most widely celebrated holidays in India and across the Indian diaspora, including in the U.S. 
+
+<br> 
+
+<https://laist.com/news/millions-of-people-celebrate-diwali-this-week-here-is-what-you-should-know>
+
+---
+
+## Partial clouds to accompany fall temperatures
+
+date: 2024-10-30, updated: 2024-10-30, from: The LAist
+
+It'll be a cool and dry day with partial clouds all over the Southland. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/fall-temperatures-hold-partly-cloudy-10-30-2024>
 
 ---
 
@@ -21,6 +95,18 @@ Mike Madrid says Democrats and Republicans have failed to unlock the Latino vote
 
 ---
 
+## Apartment remodeling can lead to LA renters losing their homes. The City Council just voted to stop these ‘renovictions’
+
+date: 2024-10-29, updated: 2024-10-29, from: The LAist
+
+The decision means getting a new kitchen or bathroom will no longer mean tenants are also evicted. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/eviction-remodel-renoviction-los-angeles-city-council-vote-housing-tenant-renter-landlord>
+
+---
+
 ## These cities could see big changes in rent control if Prop. 33 passes
 
 date: 2024-10-29, updated: 2024-10-29, from: The LAist
@@ -30,6 +116,18 @@ As voters weigh whether to allow local governments to expand rent control, elect
 <br> 
 
 <https://laist.com/news/politics/these-cities-could-see-big-changes-in-rent-control-if-prop-33-passes>
+
+---
+
+## College application deadlines are near. What you need to know
+
+date: 2024-10-29, updated: 2024-10-29, from: The LAist
+
+College applications are open for the fall 2025 term, and deadlines are looming. 
+
+<br> 
+
+<https://laist.com/news/education/college-application-deadlines-are-near-what-you-need-to-know>
 
 ---
 
@@ -71,6 +169,18 @@ date: 2024-10-29, from: Port Hueneme
 
 ---
 
+## Teri Garr, actor, comedian and multiple sclerosis ambassador, dies at 79
+
+date: 2024-10-29, updated: 2024-10-29, from: The LAist
+
+Garr's breakout role was as sexy Inga in Young Frankenstein. She earned an Oscar nomination for her role in the 1982 film Tootsie, and played Phoebe's mom on the sitcom Friends. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/teri-garr-actor-comedian-and-multiple-sclerosis-ambassador-dies-at-79>
+
+---
+
 ## The history of the Grapevine and its predecessor — the Old Ridge Road
 
 date: 2024-10-29, updated: 2024-10-29, from: The LAist
@@ -92,6 +202,30 @@ Partially cloudy tomorrow with a slight chance of rain this weekend.
 <br> 
 
 <https://laist.com/news/climate-environment/fall-temperatures-socal-10-29-24>
+
+---
+
+## Rancho Palos Verdes announces buyout program for homes affected by land movement
+
+date: 2024-10-29, updated: 2024-10-29, from: The LAist
+
+Home prices will be determined by pre-disaster appraisals. 
+
+<br> 
+
+<https://laist.com/news/rancho-palos-verdes-announces-buyout-program-for-homes-affected-by-land-movement>
+
+---
+
+## UCLA is welcome back on the baseball fields at West LA VA campus — for now
+
+date: 2024-10-29, updated: 2024-10-29, from: The LAist
+
+A federal judge ordered the Bruins limited and interim access until next summer. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/ucla-is-welcome-back-on-the-baseball-fields-at-west-la-va-campus-for-now>
 
 ---
 
@@ -123,7 +257,7 @@ Do entered a not guilty plea, which he is expected to change on Thursday.
 
 date: 2024-10-28, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="771" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_181157292.MP_-scaled.jpg?fit=771%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_181157292.MP_-scaled.jpg?w=1928&amp;ssl=1 1928w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_181157292.MP_-scaled.jpg?resize=226%2C300&amp;ssl=1 226w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_181157292.MP_-scaled.jpg?resize=771%2C1024&amp;ssl=1 771w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_181157292.MP_-scaled.jpg?resize=768%2C1020&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_181157292.MP_-scaled.jpg?resize=1157%2C1536&amp;ssl=1 1157w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_181157292.MP_-scaled.jpg?resize=1542%2C2048&amp;ssl=1 1542w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_181157292.MP_-scaled.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_181157292.MP_-scaled.jpg?resize=1200%2C1594&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_181157292.MP_-scaled.jpg?resize=1568%2C2083&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_181157292.MP_-scaled.jpg?resize=2000%2C2656&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_181157292.MP_-scaled.jpg?resize=400%2C531&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_181157292.MP_-scaled.jpg?resize=706%2C938&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_181157292.MP_-scaled.jpg?fit=771%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="771" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_181157292.MP_-scaled.jpg?fit=771%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_181157292.MP_-scaled.jpg?w=1928&amp;ssl=1 1928w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_181157292.MP_-scaled.jpg?resize=226%2C300&amp;ssl=1 226w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_181157292.MP_-scaled.jpg?resize=771%2C1024&amp;ssl=1 771w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_181157292.MP_-scaled.jpg?resize=768%2C1020&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_181157292.MP_-scaled.jpg?resize=1157%2C1536&amp;ssl=1 1157w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_181157292.MP_-scaled.jpg?resize=1542%2C2048&amp;ssl=1 1542w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_181157292.MP_-scaled.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_181157292.MP_-scaled.jpg?resize=1200%2C1594&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_181157292.MP_-scaled.jpg?resize=1568%2C2083&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_181157292.MP_-scaled.jpg?resize=2000%2C2656&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_181157292.MP_-scaled.jpg?resize=400%2C531&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_181157292.MP_-scaled.jpg?resize=706%2C938&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_181157292.MP_-scaled.jpg?fit=771%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>San Fernando High School (SFHS) students and faculty are currently finishing up their prep work for their third annual Día de los Muertos celebration that will be held on its [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/10/28/san-fernando-high-staff-and-students-prepare-for-their-third-day-of-the-dead-celebration/">San Fernando High Staff and Students Prepare for Their Third Day of the Dead Celebration</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -219,6 +353,18 @@ Wind advisories have been issued for mountains and deserts across the Southland.
 <br> 
 
 <https://laist.com/news/climate-environment/cool-down-for-the-week-chance-light-rain>
+
+---
+
+## Best things to do this week in LA and SoCal: October 28 - 31
+
+date: 2024-10-28, updated: 2024-10-28, from: The LAist
+
+A Halloween roundup with fun events for adults and kids, SIAMÉS plays the Echoplex and more. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-this-week-los-angeles-southern-california-october-28-31>
 
 ---
 

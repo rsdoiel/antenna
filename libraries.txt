@@ -24,7 +24,7 @@ https://www.research-collection.ethz.ch/feed/rss_2.0/site "~ETH Zurich, recently
 #
 # Library, Archives and Museums
 #
-https://blog.openlibrary.org/feed/ "~Open Library Blog"
+#https://blog.openlibrary.org/feed/ "~Open Library Blog" # offline since attach of the internet archive ...
 https://libcal.caltech.edu/rss.php?m=month&iid=3271&cid=3754 "~Caltech Library Events"
 https://library.csun.edu/blogs/cited/feed/ "~CSUN Library Blog, Cited"
 https://www.santaclaritalibrary.com/feed/ "~Santa Clarita Public Library"

@@ -1,11 +1,211 @@
 ---
 title: going electric
-updated: 2024-10-30 07:57:48
+updated: 2024-10-30 13:52:08
 ---
 
 # going electric
 
-(date: 2024-10-30 07:57:48)
+(date: 2024-10-30 13:52:08)
+
+---
+
+## Biden-Harris administration awards $3 billion in Clean Ports grants
+
+date: 2024-10-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/01/joe-biden-desk.webp?w=1600" /></div><p>President Joe Biden takes a trip to Baltimore to announce $147 million in EPA awards to the city’s Ports, which will support electrification efforts, clean up carbon emissions, and support some 2,000 union jobs at the Port — but that’s just a small part of the larger, $3 billion announcement.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="inflation-reduction-act,president-biden,white-house" data-layer-viewtype="unknown" data-post-id="386951" href="https://electrek.co/2024/10/30/biden-harris-administration-awards-3-billion-in-clean-ports-grants/#more-386951" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/30/biden-harris-administration-awards-3-billion-in-clean-ports-grants/>
+
+---
+
+## Jeep Recon EV looks a lot like the Ford Bronco as the camo comes off
+
+date: 2024-10-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/03/Jeep-Recon-EV-images-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Jeep’s new Wrangler-inspired electric SUV is almost ready for its big debut. The new <a href="https://electrek.co/guides/jeep/">Jeep</a> Recon EV was spotted with hardly any camouflage, revealing a new Ford Bronco lookalike.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="jeep" data-layer-viewtype="unknown" data-post-id="386949" href="https://electrek.co/2024/10/30/jeep-recon-ev-looks-like-ford-bronco-camo-comes-off/#more-386949" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/30/jeep-recon-ev-looks-like-ford-bronco-camo-comes-off/>
+
+---
+
+## Tesla Roadster Replacement Battery Cuts Weight, Improves Performance
+
+date: 2024-10-30, from: Inside EVs News
+
+This new Roadster replacement battery from Re/Cell cuts up to 400 pounds of weight, making the car’s impressive handling even better. 
+
+<br> 
+
+<https://insideevs.com/news/739269/tesla-roadster-replacement-battery-performance/>
+
+---
+
+## Traton Group and Plus launch Level 4 autonomous truck operations in the US and Europe
+
+date: 2024-10-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Autonomous-trucks-Plus-Traton-Group.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Following news of a long-term partnership with several commercial fleet developers under the Traton Group, including initial Level 4 autonomous truck testing on public roads, <a href="https://electrek.co/guides/plus/">Plus</a> has deployed its self-driving commercial fleet technology in the US and Europe.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="man-truck-bus,plus,scania,traton-group" data-layer-viewtype="unknown" data-post-id="386715" href="https://electrek.co/2024/10/30/traton-group-plus-launch-level-4-autonomous-trucks-in-us-europe/#more-386715" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/30/traton-group-plus-launch-level-4-autonomous-trucks-in-us-europe/>
+
+---
+
+## Toyota’s production falls for the first time in 4 years as slow EV shift proves costly
+
+date: 2024-10-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Toyota-sales-BYDs-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Japan’s largest automaker is struggling as low-priced Chinese EV makers, like BYD, continue gaining an edge. <a href="https://electrek.co/guides/toyota/">Toyota’s</a> global output fell for the first time in four years in the first half of 2024. Is the company’s slow shift to EVs to blame?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="386909" href="https://electrek.co/2024/10/30/toyotas-output-falls-first-time-4-years-amid-slow-ev-shift/#more-386909" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/30/toyotas-output-falls-first-time-4-years-amid-slow-ev-shift/>
+
+---
+
+## ChargePoint just made EV charging more affordable for small businesses and apartments
+
+date: 2024-10-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/ChargePoint-semipublic-charging.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p><a href="https://electrek.co/guides/chargepoint/" target="_blank" rel="noreferrer noopener">ChargePoint</a> just made it easier for small businesses and multifamily housing to offer EV charging. The company introduced the ChargePoint Essential cloud plan that eliminates traditional software subscription fees by using driver payments to cover costs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chargepoint,electric-car-fleet,ev-chargers,solar" data-layer-viewtype="unknown" data-post-id="386904" href="https://electrek.co/2024/10/30/chargepoint-just-made-ev-charging-more-affordable-for-small-businesses-and-apartments/#more-386904" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/30/chargepoint-just-made-ev-charging-more-affordable-for-small-businesses-and-apartments/>
+
+---
+
+## ENGWE E26 all-terrain e-bike $500 off with free gear, Exclusive $499 Bluetti AC180P low, Segway, Rexing, Anker, more
+
+date: 2024-10-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/ENGWE-E26-Dual-Suspension-All-Terrain-e-bike.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Today’s Green Deals are being led by <a href="https://9to5toys.com/2024/10/30/engwes-e26-e-bike-899-more/">ENGWE’s E26 Dual-Suspension All-Terrain e-bike</a> that is coming along with some free gear at <a href="https://9to5toys.com/2024/10/30/engwes-e26-e-bike-899-more/">$899</a>, alongside other models for the next two days. We’ve also got an exclusive low price on <a href="https://9to5toys.com/2024/10/29/exclusive-bluetti-ac180p-499-low/">Bluetti’s AC180P</a> Portable Power Station for <a href="https://9to5toys.com/2024/10/29/exclusive-bluetti-ac180p-499-low/">$499</a>, as well as <a href="https://9to5toys.com/2024/10/30/segway-ninebot-s-max-scooter-500-low/">Segway’s Ninebot S MAX</a> Self-Balancing Scooter down at a <a href="https://9to5toys.com/2024/10/30/segway-ninebot-s-max-scooter-500-low/">$500 low</a>, with other affordable commuters. Coming from Best Buy, we have two one-day only sales on Rexing’s J1772 to Tesla <a href="https://9to5toys.com/2024/10/30/rexings-j1772-to-tesla-ev-adapter-45-low/">EV charging adapter at its $45</a> all-time low for the second time in 2024, while <a href="https://9to5toys.com/2024/10/30/anker-53l-everfrost-cooler-619/">Anker’s EverFrost 50</a> Dual-Zone Portable Electric Cooler is down at <a href="https://9to5toys.com/2024/10/30/anker-53l-everfrost-cooler-619/">$619</a>. Plus, all the other hangover Green Deals in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2024/10/29/velotric-2024-discover-1-plus-e-bike-1199/">Velotric Discover 1 Plus</a> discount, ALLPOWERS’ <a href="https://9to5toys.com/2024/10/29/allpowers-pb100-bank-bundle-75-low-more/">24,000mAh power bank</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="386911" href="https://electrek.co/2024/10/30/engwe-e26-e-bike-exclusive-bluetti-ac180p-more/#more-386911" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/30/engwe-e26-e-bike-exclusive-bluetti-ac180p-more/>
+
+---
+
+## These Red And Purple States Are EV Epicenters. What If Trump Wins?
+
+date: 2024-10-30, from: Inside EVs News
+
+North and South Carolina are seeing an EV jobs boom. But politics could change that soon—and who really wins then? 
+
+<br> 
+
+<https://insideevs.com/news/739308/ev-carolinas-election-politics/>
+
+---
+
+## VW Dealers Call Scout Plans 'Salt In The Wound'
+
+date: 2024-10-30, from: Inside EVs News
+
+Volkswagen dealers aren't happy about Scout's direct-to-consumer retail plan. They're gearing up for a big fight. 
+
+<br> 
+
+<https://insideevs.com/news/739302/vw-dealers-scout/>
+
+---
+
+## California reaches 22% BEV market share, Tesla is down but not doing half bad
+
+date: 2024-10-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/05/Tesla-Guide-Model-3-Hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>California has reached a record of 22% market share for battery-electric vehicles (BEV) and over 40% if you account for PHEVs and HEVs.</p>
+
+
+
+<p>Tesla has been responsible for much of California’s EV leadership, but the automaker is now down in the important EV market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="386878" href="https://electrek.co/2024/10/30/california-reaches-22-bev-market-share-tesla-is-down-but-not-doing-half-bad/#more-386878" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/30/california-reaches-22-bev-market-share-tesla-is-down-but-not-doing-half-bad/>
+
+---
+
+## BYD just had a record-breaking third quarter as EV sales continued surging
+
+date: 2024-10-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/BYD-record-breaking-Q3.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>With some of the most affordable EVs on the market, BYD’s sales are surging. With record-breaking vehicle sales in Q3, <a href="https://electrek.co/guides/byd/">BYD</a> outpaced Tesla for the first time in quarterly revenue.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="386876" href="https://electrek.co/2024/10/30/byd-record-breaking-q3-ev-sales-continue-surging/#more-386876" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/30/byd-record-breaking-q3-ev-sales-continue-surging/>
+
+---
+
+## Could McLaren go all-electric? UAE fund agrees to purchase 100% of the auto business to accelerate its growth
+
+date: 2024-10-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Electric-McLaren-GT.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>An Abu Dhabi-based investment firm has entered a non-binding agreement to buy 100% of McLaren’s automotive business, including a stake in the <a href="https://electrek.co/guides/mclaren/">McLaren Group</a>. The purchase goal is to bring additional capital to McLaren to accelerate its growth in vehicle development, particularly in electric vehicle technologies. If approved, could McLaren become the next supercar developer to go all-electric?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-mclaren,mclaren,uae,united-arab-emirates" data-layer-viewtype="unknown" data-post-id="386877" href="https://electrek.co/2024/10/30/mclaren-electric-uae-fund-agrees-to-purchase-auto-business-accelerate-growth/#more-386877" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/30/mclaren-electric-uae-fund-agrees-to-purchase-auto-business-accelerate-growth/>
+
+---
+
+## U.S EV And PHEV Buyers Prefer Small SUVs: Midsize Electric Cars Popular Too
+
+date: 2024-10-30, from: Inside EVs News
+
+The small SUV category had the highest sales but standard size EV and PHEV SUVs sold well, too. 
+
+<br> 
+
+<https://insideevs.com/news/739144/ev-phev-buyers-suv/>
 
 ---
 

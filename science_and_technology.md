@@ -1,11 +1,276 @@
 ---
 title: science and technology
-updated: 2024-10-30 07:57:44
+updated: 2024-10-30 13:52:05
 ---
 
 # science and technology
 
-(date: 2024-10-30 07:57:44)
+(date: 2024-10-30 13:52:05)
+
+---
+
+## Reddit CEO thanks AI for helping the site finally turn a profit
+
+date: 2024-10-30, updated: 2024-10-30, from: The Register (UK I.T. News)
+
+<h4>After 19 years of losses, all it took was a machine translation of its posts to get out of the red</h4> <p>After months of uncertainty, it looks like going public was a good thing for Reddit&#39;s bottom line, as the online forum just posted a profit for the first time in its 19-year history.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/30/reddit_ceo_profit_ai/>
+
+---
+
+## Hello Earth? Space Calling
+
+date: 2024-10-30, from: NASA breaking news
+
+How it started versus how it’s going for astronaut Nick Hague with ISS Ham Radio on the space station. Since November 2000, crew members like Hague have used ham radio to communicate with people on Earth through this educational program, also known as Amateur Radio on the International Space Station or ARISS. So far, there [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/hello-earth-space-calling/>
+
+---
+
+## These Giant, Vest-Wearing Sniffer Rats Could Help Combat the Illegal Wildlife Trade, Scientists Say
+
+date: 2024-10-30, from: Smithsonian Magazine
+
+Researchers trained African giant pouched rats to detect commonly smuggled items, including rhino horns and elephant tusks 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/these-giant-vest-wearing-sniffer-rats-could-help-combat-the-illegal-wildlife-trade-scientists-say-180985364/>
+
+---
+
+## The Marshall Star for October 30, 2024
+
+date: 2024-10-30, from: NASA breaking news
+
+Editor’s Note:&#160;Starting Nov. 4, the Office of Communications at NASA’s Marshall Space Flight Center will no longer publish the Marshall Star on nasa.gov. The last public issue will be Oct. 30. To continue reading Marshall news, visit&#160;nasa.gov/marshall. Marshall Team Members View Progress Toward Future Artemis Flights Blake Stewart, lead of the Thrust Vector Control Test [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/the-marshall-star-for-october-30-2024/>
+
+---
+
+## Sketchy financials send Supermicro auditors running for the hills
+
+date: 2024-10-30, updated: 2024-10-30, from: The Register (UK I.T. News)
+
+<h4>If SMCI is the AI Enron, Ernst &amp; Young wants nothing to do with them</h4> <p>Supermicro shares took a nose dive on Wednesday, sliding more than 30 percent after the accounting firm hired to review its reporting practices resigned after determining they were just a bit too sketchy to warrant the risk.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/30/supermicro_audit_ey_quit/>
+
+---
+
+## Buckle Up: NASA-Funded Study Explores Turbulence in Molecular Clouds
+
+date: 2024-10-30, from: NASA breaking news
+
+On an airplane, motions of the air on both small and large scales contribute to turbulence, which may result in a bumpy flight. Turbulence on a much larger scale is important to how stars form in giant molecular clouds that permeate the Milky Way. In a new NASA-funded study in the journal Science Advances, scientists […] 
+
+<br> 
+
+<https://science.nasa.gov/universe/stars/nasa-funded-study-explores-turbulence-in-molecular-clouds/>
+
+---
+
+## A Small Business Success Story: Mentor-Protégé Agreements Drive Growth in Aerospace Sector
+
+date: 2024-10-30, from: NASA breaking news
+
+In the ever-evolving aerospace industry, collaboration and mentorship are vital for fostering innovation and growth. Recent achievements highlight the positive impact of Mentor-Protégé Agreements (MPA) facilitated by Jacobs Engineering Group, now known as Amentum Space Exploration Group. Two standout partnerships have demonstrated remarkable success and expansion, underscoring the value of such initiatives. CODEplus and Amentum [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/organizations/osbp/a-small-business-success-story-mentor-protege-agreements-drive-growth-in-aerospace-sector/>
+
+---
+
+## Paleontologists Discover Dinosaur Fossils in Hong Kong for the First Time
+
+date: 2024-10-30, from: Smithsonian Magazine
+
+The metropolis is an important center for paleontological research, but until now, fossils of plants and fish were the only remains of dinosaur-era life found there 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/paleontologists-discover-dinosaur-fossils-in-hong-kong-for-the-first-time-180985352/>
+
+---
+
+## Surrealism Is Turning 100. See the Dreamlike Paintings That Made the Movement So Revolutionary
+
+date: 2024-10-30, from: Smithsonian Magazine
+
+A blockbuster exhibition in Paris is showcasing 500 artifacts and artworks in honor of the Surrealist Manifesto, which sparked a new artistic style that spread around the world 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/surrealism-is-turning-100-see-the-dreamlike-paintings-that-made-the-movement-so-revolutionary-180985350/>
+
+---
+
+## 60 Years Ago: Lunar Landing Research Vehicle Takes Flight
+
+date: 2024-10-30, from: NASA breaking news
+
+NASA pilot Joe Walker sits in the pilot’s platform of the Lunar Landing Research Vehicle (LLRV) number 1 on Oct. 30, 1964. The LLRV and its successor the Lunar Landing Training Vehicle (LLTV) provided the training tool to simulate the final 200 feet of the descent to the Moon’s surface. The LLRVs, humorously referred to as flying bedsteads, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/60-years-ago-lunar-landing-research-vehicle-takes-flight/>
+
+---
+
+## Combustion engines grind Linus Torvalds' gears
+
+date: 2024-10-30, updated: 2024-10-30, from: The Register (UK I.T. News)
+
+<h4>Just like his once famous temper, Linux kernel creator also ditched classic engines ... in favor of EVs</h4> <p>Mark Zuckerberg sits behind the wheel of a Cadillac CT5-V Blackwing, Open AI’s Sam Altman gets from A to B in a Koenigsegg Regera, and for many of us, Elon Musk drives us mad. But what about Linux kingpin Linus Torvalds?…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/30/linus_torvalds_ev/>
+
+---
+
+## NASA’s Perseverance Captures ‘Googly Eye’ During Solar Eclipse
+
+date: 2024-10-30, from: NASA breaking news
+
+The tiny, potato-shaped moon Phobos, one of two Martian moons, cast a silhouette as it passed in front of the Sun, creating an eye in Mars’ sky. From its perch on the western wall of Mars’ Jezero Crater, NASA’s Perseverance rover recently spied a “googly eye” peering down from space. The pupil in this celestial [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-captures-googly-eye-during-solar-eclipse/>
+
+---
+
+## A Portrait of Alan Turing Made by an A.I.-Powered Robot Could Sell for Up to $180,000
+
+date: 2024-10-30, from: Smithsonian Magazine
+
+Ai-Da creates art using A.I. algorithms, cameras and robotic arms. Her abstract painting will be the first-ever artwork made by a humanoid robot to be sold at Sotheby's 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-portrait-of-alan-turing-made-by-an-ai-powered-robot-could-sell-for-up-to-180000-180985356/>
+
+---
+
+## NASA to Launch Innovative Solar Coronagraph to Space Station
+
+date: 2024-10-30, from: NASA breaking news
+
+NASA’s Coronal Diagnostic Experiment (CODEX) is ready to launch to the International Space Station to reveal new details about the solar wind including its origin and its evolution. Launching in November 2024 aboard SpaceX’s 31st commercial resupply services mission, CODEX will be robotically installed on the exterior of the space station. As a solar coronagraph, […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/heliophysics/nasa-to-launch-innovative-solar-coronagraph-to-space-station/>
+
+---
+
+## NASA Brings Drone and Space Rover to Air Show
+
+date: 2024-10-30, from: NASA breaking news
+
+Lee esta historia en Español aquí. In September, the three NASA centers in California came together to share aerospace innovations with thousands of guests at the Miramar Air Show in San Diego, California. Agency experts talked about the exciting work NASA does while exploring the secrets of the universe for the benefit of all. Under a [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/armstrong/nasa-brings-drone-and-space-rover-to-air-show/>
+
+---
+
+## La NASA lleva un dron y un rover espacial a un espectáculo aéreo
+
+date: 2024-10-30, from: NASA breaking news
+
+Read this story in English here. En septiembre, los tres centros de la NASA en California se reunieron para compartir innovaciones aeroespaciales con miles de asistentes en el Espectáculo Aéreo de Miramar, en San Diego, California. Expertos de la agencia hablaron del apasionante trabajo que realiza la NASA mientras explora los secretos del universo en [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/armstrong/la-nasa-lleva-un-dron-y-un-rover-espacial-a-un-espectaculo-aereo/>
+
+---
+
+## NASA Sets Coverage for SpaceX 31st Station Resupply Launch, Arrival
+
+date: 2024-10-30, from: NASA breaking news
+
+NASA and SpaceX are targeting 9:29 p.m. EST, Monday, Nov. 4, for the next launch to deliver science investigations, supplies, and equipment to the International Space Station. This is the 31st SpaceX commercial resupply services mission to the orbital laboratory for the agency. Filled with nearly 6,000 pounds of supplies, a SpaceX Dragon spacecraft on [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-31st-station-resupply-launch-arrival/>
+
+---
+
+## Cloud repatriation officially a trend... for specific workloads
+
+date: 2024-10-30, updated: 2024-10-30, from: The Register (UK I.T. News)
+
+<h4>It&#39;s not a mass exodus, say analysts, but biz bods are bringing things down to earth</h4> <p>The reality of the cloud market is that many organizations find it doesn&#39;t live up to their expectations, leading to a growing trend of workloads being repatriated back on-premises or to private cloud environments.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/30/cloud_repatriation_about_specific_workloads/>
+
+---
+
+## Improving Xwayland window resizing
+
+date: 2024-10-30, from: OS News
+
+Speaking of Wayland, one of the most important parts of the transition is Xwayland, which makes sure legacy X applications not yet capable of running under a modern graphics stack can continue to function. Xwayland applications have had this weird visual glitch during resize operations, however, where the opposite side of the window would expand and contract while resizing. KDE developer Vlad Zahorodnii wanted to fix this, and he wrote a very detailed article explaining why, exactly, this bug happens, which takes you deep into the weeds of X and Wayland. Window resizing in X would be a glitchy mess, if it wasn&#8217;t for the X11 protocol to synchronize window repaints during interactive resize, which ensures that the window resize and the application repainting its window contents remain synchronised. This protocol is supported by Kwin and GNOME&#8217;s Mutter, so what&#8217;s the problem here? Shouldn&#8217;t everything just work? KWin supports the basic frame synchronization protocol, so there should be no visual glitches when resizing X11 windows in the Plasma Wayland session, right? At quick glance, yes, but we forget about the most important detail: Wayland compositors don’t use XCompositeNameWindowPixmap() or xcb_composite_name_window_pixmap() to grab the contents of X11 windows, instead they rely on Xwayland attaching graphics buffers to wl_surface objects, so there is no strict order between the Wayland compositor receiving an XSync request acknowledgement and graphics buffers for the new window size. ↫ Vlad Zahorodnii Basically, the goal of the fix is to make sure these steps are also synchronised when using Xwayland, and that&#8217;s exactly what Zahorodnii has achieved. This makes the resizing X windows under Xwayland look normal and without weird visual glitches, which is a massive improvement to the overall experience of using a Wayland desktop with a few stray X applications. Thanks to this fix, which was made possible with help from Wayland developers, Kwin is now one of the few compositors that correctly synchronises X windows running under Wayland. KDE has been doing an amazing job moving from X to Wayland, and I don&#8217;t think there&#8217;s anyone else who has managed to make the transition quite as painless. Not only do KDE developers focus on difficult bugs like this one that many others would just shrug off as acceptable jank, they also made things like the Wayland to X11 Video Bridge, a desktop-agnostic tool to allow things like screen sharing in Teams, Discord, Slack, etc. to work properly on Wayland. 
+
+<br> 
+
+<https://www.osnews.com/story/141022/improving-xwayland-window-resizing/>
+
+---
+
+## Two High Schoolers Found an 'Impossible' Proof for a 2,000-Year-Old Math Rule—Then, They Discovered Nine More
+
+date: 2024-10-30, from: Smithsonian Magazine
+
+Ne’Kiya Jackson and Calcea Johnson of Louisiana published a new study proving the Pythagorean theorem using trigonometry, a feat mathematicians long thought could not be done 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/two-high-schoolers-found-an-impossible-proof-for-a-2000-year-old-math-rule-then-they-discovered-nine-more-180985357/>
+
+---
+
+## Fired Disney staffer accused of hacking menu to add profanity, wingdings, removes allergen info
+
+date: 2024-10-30, updated: 2024-10-30, from: The Register (UK I.T. News)
+
+<h4>If you&#39;re gonna come at the mouse, you need to be better at hiding your tracks</h4> <p>A disgruntled ex-Disney employee has been arrested and charged with hacking his former employer&#39;s systems to alter restaurant menus with potentially deadly consequences. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/30/fired_disney_employee_hacks_menu/>
+
+---
+
+## It Might Be Possible to Detect Gravitons After All
+
+date: 2024-10-30, from: Quanta Magazine
+
+A new experimental proposal suggests detecting a particle of gravity is far easier than anyone imagined. Now physicists are debating what it would really prove.
+            <p>The post <a href="https://www.quantamagazine.org/it-might-be-possible-to-detect-gravitons-after-all-20241030/" target="_blank">It Might Be Possible to Detect Gravitons After All</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/it-might-be-possible-to-detect-gravitons-after-all-20241030/>
 
 ---
 
