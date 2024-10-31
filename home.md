@@ -1,20 +1,150 @@
 ---
 title: home
-updated: 2024-10-30 13:52:07
+updated: 2024-10-31 06:26:59
 ---
 
 # home
 
-(date: 2024-10-30 13:52:07)
+(date: 2024-10-31 06:26:59)
 
 ---
 
-## How To Make a Wooden Crate With Vinyl Record Display
+## Bearded Iris Care and Growing Guide with Ultimate Tips
+
+date: 2024-10-31, from: Yard Life blog
+
+<p>Bearded iris, scientifically known as Iris germanica, is a showstopper in any garden, beloved for its large, fragrant flowers and ... </p>
+<p class="read-more-container"><a title="Bearded Iris Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/bearded-iris-care-and-growing-guide-with-ultimate-tips/#more-21467" aria-label="Read more about Bearded Iris Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/bearded-iris-care-and-growing-guide-with-ultimate-tips/">Bearded Iris Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/bearded-iris-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## Asiatic Lily Care and Growing Guide with Ultimate Tips
+
+date: 2024-10-31, from: Yard Life blog
+
+<p>Asiatic lilies are among the most stunning and vibrant flowers you can add to your garden. Known for their diverse ... </p>
+<p class="read-more-container"><a title="Asiatic Lily Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/asiatic-lily-care-and-growing-guide-with-ultimate-tips/#more-21459" aria-label="Read more about Asiatic Lily Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/asiatic-lily-care-and-growing-guide-with-ultimate-tips/">Asiatic Lily Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/asiatic-lily-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## Banana Plant Care and Growing Guide with Ultimate Tips
+
+date: 2024-10-31, from: Yard Life blog
+
+<p>Banana plants are one of the most rewarding plants to grow, adding lush, tropical beauty to any garden and producing ... </p>
+<p class="read-more-container"><a title="Banana Plant Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/banana-plant-care-and-growing-guide-with-ultimate-tips/#more-21445" aria-label="Read more about Banana Plant Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/banana-plant-care-and-growing-guide-with-ultimate-tips/">Banana Plant Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/banana-plant-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## 15 Stunning Anemone Flower Species with Pictures and Names
+
+date: 2024-10-31, from: Yard Life blog
+
+<p>Anemone flowers, also known as windflowers, captivate with their graceful charm and diverse colors. These blooms can bring elegance and ... </p>
+<p class="read-more-container"><a title="15 Stunning Anemone Flower Species with Pictures and Names" class="read-more button" href="https://ownyardlife.com/15-stunning-anemone-flower-species-with-pictures-and-names/#more-21424" aria-label="Read more about 15 Stunning Anemone Flower Species with Pictures and Names">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/15-stunning-anemone-flower-species-with-pictures-and-names/">15 Stunning Anemone Flower Species with Pictures and Names</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/15-stunning-anemone-flower-species-with-pictures-and-names/>
+
+---
+
+## Anemone Flower Care and Growing Guide with Ultimate Tips
+
+date: 2024-10-31, from: Yard Life blog
+
+<p>The anemone flower, often called windflower, is a beautiful, versatile plant perfect for gardeners looking to add vibrant color and ... </p>
+<p class="read-more-container"><a title="Anemone Flower Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/anemone-flower-care-and-growing-guide-with-ultimate-tips/#more-21415" aria-label="Read more about Anemone Flower Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/anemone-flower-care-and-growing-guide-with-ultimate-tips/">Anemone Flower Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/anemone-flower-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## Star Jasmine Care and Growing Guide with Ultimate Tips
+
+date: 2024-10-31, from: Yard Life blog
+
+<p>Star Jasmine (Trachelospermum jasminoides) is a beloved plant for gardeners due to its delightful fragrance, elegant appearance, and versatile growth ... </p>
+<p class="read-more-container"><a title="Star Jasmine Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/star-jasmine-care-and-growing-guide-with-ultimate-tips/#more-21406" aria-label="Read more about Star Jasmine Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/star-jasmine-care-and-growing-guide-with-ultimate-tips/">Star Jasmine Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/star-jasmine-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## Are Luxury Tiny Homes Legit? All Your Questions Answered
+
+date: 2024-10-30, from: Family Handyman Blog
+
+<p>It's tempting to click that "buy" button, but is it worth it? Here's how to tell if what arrives will be your tiny dream home or a jumbo nightmare.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/luxury-tiny-homes/">Are Luxury Tiny Homes Legit? All Your Questions Answered</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/luxury-tiny-homes/>
+
+---
+
+## Molting Chickens 101: When, Why, and Special Care
+
+date: 2024-10-30, from: Homestead and Chil
+
+<p>Are your chickens losing feathers? Read along to learn about the molting process, including frequently asked questions and how to best care for your molting chickens to keep them. as healthy and comfortable as possible. </p>
+<p>The post <a href="https://homesteadandchill.com/care-for-molting-chickens/">Molting Chickens 101: When, Why, and Special Care</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/care-for-molting-chickens/>
+
+---
+
+## This Newly Remodeled California Property Was Featured in ‘Psycho’
+
+date: 2024-10-30, from: Sunset Magazine - Living in the West
+
+This property outside of Los Angeles has ties to the iconic horror film 'Psycho.' Designer Tanya Stone transformed it into a sanctuary. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/gorman-road-psycho-house>
+
+---
+
+## Show Off Your Records with This DIY Wooden Crate Display
 
 date: 2024-10-30, from: Family Handyman Blog
 
 <p>Learn how to make a wooden crate with a unique twist ideal for music enthusiasts - a built-in vinyl record display! </p>
-<p>The post <a href="https://www.familyhandyman.com/project/wooden-crate-vinyl-record-display/">How To Make a Wooden Crate With Vinyl Record Display</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/wooden-crate-vinyl-record-display/">Show Off Your Records with This DIY Wooden Crate Display</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
  
 
 <br> 
@@ -150,6 +280,18 @@ date: 2024-10-30, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/houseplants/pests/>
+
+---
+
+## Can Halloween Decor Ever Be Chic? An Interior Designer Shares How to Do It Right
+
+date: 2024-10-30, from: Sunset Magazine - Living in the West
+
+One designer shares his tricks (and treats) to perfecting the balance between spooky and stylish for Halloween decor. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/how-to-make-halloween-decor-chic>
 
 ---
 
@@ -364,6 +506,18 @@ date: 2024-10-29, from: Family Handyman Blog
 
 ---
 
+## Convinced Your House Is Haunted? We Asked Actual Ghosthunters What to Do
+
+date: 2024-10-29, from: Sunset Magazine - Living in the West
+
+Think. youhouse is haunted? 
+
+<br> 
+
+<https://www.sunset.com/home-garden/what-to-do-if-house-is-haunted>
+
+---
+
 ## Should You Cover Your Air Conditioner Condenser In the Winter?
 
 date: 2024-10-29, from: Family Handyman Blog
@@ -413,18 +567,6 @@ date: 2024-10-29, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/ninesky-dehumidifier-review/>
-
----
-
-## Can Halloween Decor Ever Be Chic? An Interior Designer Shares How to Do It Right
-
-date: 2024-10-29, from: Sunset Magazine - Living in the West
-
-One designer shares his tricks (and treats) to perfecting the balance between spooky and stylish for Halloween decor. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design/how-to-make-halloween-decor-chic>
 
 ---
 
@@ -667,18 +809,6 @@ date: 2024-10-28, from: California Native Plants Society
 
 ---
 
-## This Newly Remodeled California Property Was Featured in ‘Psycho’
-
-date: 2024-10-28, from: Sunset Magazine - Living in the West
-
-This property outside of Los Angeles has ties to the iconic horror film Psycho. Designer Tanya Stone transformed it into a sanctuary. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/home-tours/gorman-road-psycho-house>
-
----
-
 ## No Trees Were Harmed In the Making of This Art Studio Addition
 
 date: 2024-10-28, from: Dwell
@@ -879,6 +1009,18 @@ date: 2024-10-28, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/rising-sun-redbud-care-and-growing-guide-most-detailed/>
+
+---
+
+## 5 Things You Should Do to Control Erosion in Your Garden Before the Rainy Season Starts
+
+date: 2024-10-28, from: Sunset Magazine - Living in the West
+
+As the rainy season approaches, safeguarding your garden and landscape from erosion is key to maintaining its beauty and function. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/landscaping/erosion-control-tips>
 
 ---
 

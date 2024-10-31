@@ -1,11 +1,67 @@
 ---
 title: writing
-updated: 2024-10-30 13:52:06
+updated: 2024-10-31 06:26:58
 ---
 
 # writing
 
-(date: 2024-10-30 13:52:06)
+(date: 2024-10-31 06:26:58)
+
+---
+
+## 2024 Scotland’s National Book Award Shortlist
+
+date: 2024-10-30, from: Locus Magazine
+
+<p>The Saltire Society announced the 2024 Scotland&#8217;s National Book Award shortlist during a livestreamed event in Edinburgh&#8217;s Old Town on October 30, 2024. Titles of genre interest follow.</p>
+<p><strong>Fiction Book of the Year</strong></p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>Lost People</strong>, Margaret Elphinstone (Wild Stone)</li>
+<li><strong>Hazardous Spirits, </strong>Anbara Salam (Baskerville)</li>
+</ul>
+<p><strong>Fiction Book First Book of the Year</strong></p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>Fragile Animals</strong>, Genevieve Jagger (404 Ink)</li>
+</ul>
+</div>
+<p>For more information, including the full shortlists, see the Saltire Society&#8217;s </p></div> <a href="https://locusmag.com/2024/10/2024-scotlands-national-book-award-shortlist/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2024/10/2024-scotlands-national-book-award-shortlist/>
+
+---
+
+## Reactor‘s Most Iconic SF of the Century
+
+date: 2024-10-30, from: Locus Magazine
+
+<p>Reactor compiled a list of &#8220;The Most Iconic Speculative Fiction Books of the 21st Century&#8221; in various categories.</p>
+<div class="mynomorebulletlist">
+<p><strong>Works in Translation</strong></p>
+<ul>
+<li><strong>Tender Is the Flesh</strong>, Agustina Bazterrica, translated by Sarah Moses (Scribner)</li>
+<li><strong>I’m Waiting For You and Other Stories</strong>, Kim Bo-Young, translated by Sophie Bowman and Sung Ryu (Harper Voyager)</li>
+<li><strong>Cursed Bunny: Stories</strong>, Bora Chung, translated by Anton Hur (Algonquin)</li>
+<li><strong>Our Share of Night</strong>, Mariana Enriquez, </li></ul></div> <a href="https://locusmag.com/2024/10/reactors-most-iconic-sf-of-the-century/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2024/10/reactors-most-iconic-sf-of-the-century/>
+
+---
+
+## 🔪 #222 - Sometimes they come back
+
+date: 2024-10-30, from: Interesting, a blog on writing
+
+Slashers, sequels, and avoiding diminishing returns. 
+
+<br> 
+
+<https://inneresting.substack.com/p/222-sometimes-they-come-back>
 
 ---
 

@@ -1,11 +1,119 @@
 ---
 title: going electric
-updated: 2024-10-30 13:52:08
+updated: 2024-10-31 06:27:00
 ---
 
 # going electric
 
-(date: 2024-10-30 13:52:08)
+(date: 2024-10-31 06:27:00)
+
+---
+
+## Hyundai Initium Hydrogen Concept Shows Where Design Is Headed Next
+
+date: 2024-10-31, from: Inside EVs News
+
+It’s powered by a hydrogen fuel cell that provides a maximum range of 404 miles. And it can power your home. 
+
+<br> 
+
+<https://insideevs.com/news/739422/hyundai-initium-concept-design-language/>
+
+---
+
+## Aptera completes low-speed drive in its first production-intent solar electric vehicle [Video]
+
+date: 2024-10-31, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Aptera-production-vehicle-PI2.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Spoiler Alert: The low-speed function test is short and sweet but a milestone nonetheless. Solar EV startup <a href="https://electrek.co/guides/aptera/">Aptera Motors</a> has finally given the public a look at its “PI-2” production-intent vehicle, which will now be used for real-world validation and testing en route to production… hopefully.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="aptera,solar-electric-vehicles" data-layer-viewtype="unknown" data-post-id="387022" href="https://electrek.co/2024/10/31/aptera-completes-drive-first-production-intent-solar-electric-vehicle-video/#more-387022" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/31/aptera-completes-drive-first-production-intent-solar-electric-vehicle-video/>
+
+---
+
+## Startup plans to solve the ‘many battery standards’ problem with new battery standard
+
+date: 2024-10-31, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/bingo-battery-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>There are thousands of models of electric mobility vehicles driving around the world’s cities today, ranging from e-bikes to e-motorcycles and electric microcars. But a major frustration in the industry is that those thousands of different models still use hundreds of unique battery standards. Now a fresh mobility startup, <a href="https://www.bingotech.io/">Bingo</a>, says they have the solution: a new battery standard.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-swap" data-layer-viewtype="unknown" data-post-id="387021" href="https://electrek.co/2024/10/31/startup-plans-to-solve-the-many-battery-standards-problem-with-new-battery-standard/#more-387021" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/31/startup-plans-to-solve-the-many-battery-standards-problem-with-new-battery-standard/>
+
+---
+
+## Denver’s newest police cars are now police e-bikes
+
+date: 2024-10-31, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/policebikeAIhead.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Denver is joining the ranks of several other cities around the US by adding a fleet of electric bikes to its police department’s patrol vehicles.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="387017" href="https://electrek.co/2024/10/30/denvers-newest-police-cars-are-now-police-e-bikes/#more-387017" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/30/denvers-newest-police-cars-are-now-police-e-bikes/>
+
+---
+
+## Georgia Tech and Smart Wires to upgrade Georgia’s grid with grid-enhancing tech
+
+date: 2024-10-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/pexels-photo-230518.jpeg?quality=82&#038;strip=all&#038;w=1333" /></div><p>Georgia utility Southern Company is teaming up with Georgia Tech and Smart Wires to roll out a US Department of Energy (DOE)-backed project aimed at boosting Georgia’s electric grid. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="distributed-energy-resources,egeb,energy-brief,electrical-grid,georgia,solar,grid" data-layer-viewtype="unknown" data-post-id="386998" href="https://electrek.co/2024/10/30/georgia-tech-and-smart-wires-to-upgrade-georgias-grid-with-grid-enhancing-tech/#more-386998" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/30/georgia-tech-and-smart-wires-to-upgrade-georgias-grid-with-grid-enhancing-tech/>
+
+---
+
+## Toyota is getting a new electic SUV from Suzuki next year: Here’s what to expect
+
+date: 2024-10-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Toyotas-electric-SUV-Suzuki.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Toyota and Suzuki are teaming up to catch up in the global EV race. Next year, Suzuki will supply <a href="https://electrek.co/guides/toyota/">Toyota</a> with its first electric SUV, which is set to roll out worldwide. Here’s what to expect from Toyota’s new electric SUV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="suzuki,toyota" data-layer-viewtype="unknown" data-post-id="386975" href="https://electrek.co/2024/10/30/what-to-expect-toyotas-new-electric-suv-suzuki/#more-386975" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/30/what-to-expect-toyotas-new-electric-suv-suzuki/>
+
+---
+
+## China tells automakers to pause investment in tariff-supporting countries
+
+date: 2024-10-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/China-EU-tariffs.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>China has reportedly already told its major automakers to hold off investments in EU countries that supported <a href="https://electrek.co/2024/10/30/heres-what-to-know-about-europes-new-vote-on-chinese-tariffs/">Europe’s new EV tariffs</a>, according to <a href="https://www.reuters.com/business/autos-transportation/china-tells-carmakers-pause-investment-eu-countries-backing-ev-tariffs-sources-2024-10-30/">Reuters</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,europe,tariffs" data-layer-viewtype="unknown" data-post-id="386964" href="https://electrek.co/2024/10/30/china-tells-automakers-to-pause-investment-in-tariff-supporting-countries/#more-386964" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/30/china-tells-automakers-to-pause-investment-in-tariff-supporting-countries/>
 
 ---
 
@@ -13,7 +121,7 @@ updated: 2024-10-30 13:52:08
 
 date: 2024-10-30, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/01/joe-biden-desk.webp?w=1600" /></div><p>President Joe Biden takes a trip to Baltimore to announce $147 million in EPA awards to the city’s Ports, which will support electrification efforts, clean up carbon emissions, and support some 2,000 union jobs at the Port — but that’s just a small part of the larger, $3 billion announcement.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/thanks-biden.jpg?quality=82&#038;strip=all&#038;w=1536" /></div><p>On today’s awarding episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, President Joe Biden takes a trip to Baltimore to announce $147 million in EPA awards to the city’s Ports, which will support electrification efforts, clean up carbon emissions, and support some 2,000 union jobs at the Port — but that’s just a small part of the larger, $3 billion announcement.</p>
 
 
 

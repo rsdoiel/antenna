@@ -1,11 +1,60 @@
 ---
 title: motorcycles
-updated: 2024-10-30 13:52:07
+updated: 2024-10-31 06:26:59
 ---
 
 # motorcycles
 
-(date: 2024-10-30 13:52:07)
+(date: 2024-10-31 06:26:59)
+
+---
+
+## Kawasaki's Ninja H2R-Powered Unmanned Drone Could Make Sea Deliveries
+
+date: 2024-10-31, from: Ride Apart, Electric Motorcycle News
+
+Testing, demonstrations, and development are ongoing. 
+
+<br> 
+
+<https://www.rideapart.com/news/739326/kawasaki-ninja-h2r-kracer-x2/>
+
+---
+
+## CFMoto CForce Owners Should Check Your Quads, They Might Be Part Of This Recall
+
+date: 2024-10-31, from: Ride Apart, Electric Motorcycle News
+
+A stuck throttle sounds like the total opposite of a good time. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/739195/cfmoto-cforce-800-1000-atv-recall/>
+
+---
+
+## Floods Wreak Havoc In Valencia, Spain Ahead Of MotoGP Season Finale
+
+date: 2024-10-31, from: Ride Apart, Electric Motorcycle News
+
+At least 70 people so far have died, with numbers expected to rise as rescue and recovery efforts continue. 
+
+<br> 
+
+<https://www.rideapart.com/news/739314/spain-flooding-october-2024-motogp/>
+
+---
+
+## Did Road Construction and Bad Signage Just Lead to This Rider's Death?
+
+date: 2024-10-31, from: Ride Apart, Electric Motorcycle News
+
+If you haven't run into surprise, poorly marked road construction during a ride, are you even on public roads? 
+
+<br> 
+
+<https://www.rideapart.com/news/739180/road-construction-death-virginia-rider/>
 
 ---
 
@@ -215,6 +264,18 @@ All three participants get a sub-$3K challenge, and TBM's is American. Any guess
 <br> 
 
 <https://www.rideapart.com/news/738807/bearded-mechanic-bike-buildoff-begins/>
+
+---
+
+## ARCA Menards Series West: 2024 Bakersfield II Race Review
+
+date: 2024-10-28, from: Kickin the Tires blog
+
+By Vincent Delforge, Special to Kickin&#8217; the Tires Sean Hingorani&#8217;s return behind the wheel of a Venturini Motorsports car quickly turned into a fairy tale. Indeed, the 2023 champion won&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/arca-menards-series-west-2024-bakersfield-ii-race-review/>
 
 ---
 

@@ -1,11 +1,180 @@
 ---
 title: journalism
-updated: 2024-10-30 13:52:06
+updated: 2024-10-31 06:26:58
 ---
 
 # journalism
 
-(date: 2024-10-30 13:52:06)
+(date: 2024-10-31 06:26:58)
+
+---
+
+## Classifieds – October 31, 2024
+
+date: 2024-10-31, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/31/classifieds-october-31-2024/">Classifieds &#8211; October 31, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/31/classifieds-october-31-2024/>
+
+---
+
+## Unite and Sing: The Veterans Resource Center Connects Students and Veterans During ‘Karaoke Like in Oki’
+
+date: 2024-10-31, from: The Sundail (CSUN Student Newspaper)
+
+The Veterans Resource Center (VRC) in the University Student Union was decorated from the entrance to the deepest corners with fake spiderwebs, candles and plastic skulls. Students and staff were... 
+
+<br> 
+
+<https://sundial.csun.edu/187026/arts-entertainment/unite-and-sing-the-veterans-resource-center-connects-students-and-veterans-during-karaoke-like-in-oki/>
+
+---
+
+## LA street food leaves me begging for more
+
+date: 2024-10-31, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Here’s a partial guide to taco stands and food stalls around South Central.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/31/la-street-food-leaves-me-begging-for-more/">LA street food leaves me begging for more</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/31/la-street-food-leaves-me-begging-for-more/>
+
+---
+
+## Widney statue set to come back alongside three new statues
+
+date: 2024-10-31, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Plans are in the works to create statues of USC three other founding land donors. </p>
+<p>The post <a href="https://dailytrojan.com/2024/10/31/widney-statue-set-to-come-back-alongside-three-new-statues/">Widney statue set to come back alongside three new statues</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/31/widney-statue-set-to-come-back-alongside-three-new-statues/>
+
+---
+
+## Demonstrations have broadened in scope, purpose
+
+date: 2024-10-31, from: The Daily Trojan (USC Student Newspaper)
+
+<p> Past USC protests featured marches, conversations, sit-ins, walk-outs and chants.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/31/demonstrations-have-broadened-in-scope-purpose/">Demonstrations have broadened in scope, purpose</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/31/demonstrations-have-broadened-in-scope-purpose/>
+
+---
+
+## ‘CHROMAKOPIA’ bears dread in face of the future
+
+date: 2024-10-31, from: The Daily Trojan (USC Student Newspaper)
+
+<p> Tyler, the Creator released his long-denied album Oct. 28.</p>
+<p>The post <a href="https://dailytrojan.com/2024/10/31/chromakopia-bears-dread-in-face-of-the-future/">‘CHROMAKOPIA’ bears dread in face of the future</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/10/31/chromakopia-bears-dread-in-face-of-the-future/>
+
+---
+
+## “Lost Sols” align during spooky-themed Acasola performance
+
+date: 2024-10-31, from: The Sundail (CSUN Student Newspaper)
+
+Acasola, CSUN’s student-run a cappella group, hosted the Halloween-themed concert, “Lost Sols,” featuring spooky renditions of popular songs and showcasing both seasoned and new members in a haunting event. The... 
+
+<br> 
+
+<https://sundial.csun.edu/187018/arts-entertainment/lost-sols-align-during-spooky-themed-acasola-performance/>
+
+---
+
+## Diwali 2024: How CSUN Students Can Celebrate The Festival of Lights
+
+date: 2024-10-31, from: The Sundail (CSUN Student Newspaper)
+
+Diwali is one of the largest and most important festivals in India. Billions of people from different faiths celebrate the holiday around the world. The Festival of Lights is not... 
+
+<br> 
+
+<https://sundial.csun.edu/187013/arts-entertainment/diwali-2024-how-csun-students-can-celebrate-the-festival-of-lights/>
+
+---
+
+## Miccaihuitl: A night of altars, music and ancestral honor at CSUN
+
+date: 2024-10-31, from: The Sundail (CSUN Student Newspaper)
+
+M.E.Ch.A de CSUN, Colita de Rana, and the Chicana/o/x Studies Department are teaming up to host Miccaihuitl, a Día de los Muertos celebration, on the Chicanx House lawn from 3... 
+
+<br> 
+
+<https://sundial.csun.edu/187010/news/miccaihuitl-a-night-of-altars-music-and-ancestral-honor-at-csun/>
+
+---
+
+## UCLA Horrors: caffeine fever
+
+date: 2024-10-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2024/10/30/ucla-horrors-caffeine-fever/>
+
+---
+
+## Proposition 3 aims to guarantee right to same-sex marriage in state constitution
+
+date: 2024-10-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+California voters will vote on guaranteeing the right to same-sex marriage in the state constitution this November.
+If passed, Proposition 3 would effectively repeal Proposition 8 &#8211; which defined marriage as between a man and a woman in the California Constitution when it was passed in 2008. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/30/proposition-3-aims-to-guarantee-right-to-same-sex-marriage-in-state-constitution/>
+
+---
+
+## Forrest Gander reads “Mojave Ghost” at Hammer Museum, talks about life in desert
+
+date: 2024-10-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+The crowd was anything but barren when listening to Forrest Gander read his work about life in a desert.
+Gander, an author and an emeritus chancellor for the Academy of American Poets, read excerpts from his latest book &#8220;Mojave Ghost&#8221; at the Hammer Museum on Tuesday. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/30/forrest-gander-reads-mojave-ghost-at-hammer-museum-talks-about-life-in-desert/>
+
+---
+
+## USAC recap – Oct. 22
+
+date: 2024-10-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council held its fourth October meeting Oct. 22.
+USAC is the official student government representing the undergraduate student body at UCLA. Council meetings are open to all students and usually take place in person at the Bruin Viewpoint Room and on Zoom every Tuesday at 7 p.m. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/30/usac-recap-oct-22-2/>
 
 ---
 

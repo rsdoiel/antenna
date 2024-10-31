@@ -1,11 +1,65 @@
 ---
 title: food
-updated: 2024-10-30 13:52:08
+updated: 2024-10-31 06:27:00
 ---
 
 # food
 
-(date: 2024-10-30 13:52:08)
+(date: 2024-10-31 06:27:00)
+
+---
+
+## Hot And Sour Chickpeas
+
+date: 2024-10-31, from: Pepper Scale
+
+Hot and sour chickpeas is one of those dishes you didn’t know was missing from your life. And then you have them once, and you’ll crave them again and again. It’s a delicious and healthy quick lunch with a nice little punch of spiciness — ... <p class="read-more-container"><a title="Hot And Sour Chickpeas" class="read-more button" href="https://pepperscale.com/hot-and-sour-chickpeas/#more-83968" aria-label="Read more about Hot And Sour Chickpeas">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/hot-and-sour-chickpeas/>
+
+---
+
+## Arrivaderci, Oleato
+
+date: 2024-10-31, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. So long and thanks for all the poos. 
+
+<br> 
+
+<https://sprudge.com/arrivaderci-oleato-257949.html>
+
+---
+
+## Apple and Cheddar Chicken Chili
+
+date: 2024-10-31, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2024/10/Apple-and-Cheddar-Chicken-Chili-1200-0635.jpg"/></div>
+<p>A creamy fall chicken chili with apples, cheddar cheese and bacon! In the fall I enjoy using apples in savoury dishes; they go amazingly well with cheddar cheese and bacon, so this apple and cheddar chicken chili with bacon is a must make! This is a pretty basic chicken chili recipe with chicken, onions, garlic,...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/apple-and-cheddar-chicken-chili/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/apple-and-cheddar-chicken-chili/">Apple and Cheddar Chicken Chili</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/apple-and-cheddar-chicken-chili/>
+
+---
+
+## Starbucks Just Announced Plans to Stop Charging Extra for Nondairy Milk
+
+date: 2024-10-30, from: Taste of Home
+
+<p>You'll soon be able to order a latte with any nondairy milk at no extra cost.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/starbucks-nondairy-cost-change/">Starbucks Just Announced Plans to Stop Charging Extra for Nondairy Milk</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/starbucks-nondairy-cost-change/>
 
 ---
 

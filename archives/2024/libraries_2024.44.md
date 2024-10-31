@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2024-10-30 13:52:07
+updated: 2024-10-31 06:26:59
 ---
 
 # libraries
 
-(date: 2024-10-30 13:52:07)
+(date: 2024-10-31 06:26:59)
 
 ---
 
@@ -66,6 +66,32 @@ Cristofolini, Eber A.; Escribano, Facundo A.; Otamendi, Juan E.; Morosini, Augus
 <br> 
 
 <http://hdl.handle.net/20.500.11850/701998>
+
+---
+
+## Vanishing Culture: Preserving Papiamento—Safeguarding Aruba’s Language and Cultural Heritage
+
+date: 2024-10-31, from: Internet Archive Blog
+
+The following guest post from digital librarian Peter Scholing is part of our Vanishing Culture series, highlighting the power and importance of preservation in our digital age. Read more essays online or [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2024/10/31/vanishing-culture-preserving-papiamento-safeguarding-arubas-language-and-cultural-heritage/>
+
+---
+
+## Wiley Leans into AI. The Community Should Lean with Them.
+
+date: 2024-10-31, from: Scholarly Kitchen
+
+<p>An interview with Wiley SVP Josh Jarrett about their work improving publishing processes with AI and licensing content for AI applications.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/10/31/wileys-josh-jarret-interview-about-impact-of-ai/">Wiley Leans into AI. The Community Should Lean with Them.</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2024/10/31/wileys-josh-jarret-interview-about-impact-of-ai/>
 
 ---
 

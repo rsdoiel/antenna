@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2024-10-30 13:59:46
+updated: 2024-10-31 06:26:59
 ---
 
 # retro computing
 
-(date: 2024-10-30 13:59:46)
+(date: 2024-10-31 06:26:59)
+
+---
+
+## Latest hardware upgrade from RISCOSbits
+
+date: 2024-10-31, from: Icon Bar, RISC OS News
+
+The RISCOSbits FAST systems are very slick (and fast), but they are (dare I say it) a little boring... 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2127.html>
 
 ---
 

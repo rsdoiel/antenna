@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2024-10-30 13:52:05
+updated: 2024-10-31 06:26:57
 ---
 
 # ham radio
 
-(date: 2024-10-30 13:52:05)
+(date: 2024-10-31 06:26:57)
+
+---
+
+## PUF security IPs bolstered by test suite, PSA certification
+
+date: 2024-10-31, from: EDN Blog
+
+<img width="760" height="518" src="https://www.edn.com/wp-content/uploads/Hero-image-PUFsecurity.png?fit=760%2C518" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-PUFsecurity.png?w=760 760w, https://www.edn.com/wp-content/uploads/Hero-image-PUFsecurity.png?w=300 300w" sizes="(max-width: 760px) 100vw, 760px" /><p>Two design case studies showcase how PUF security IPs are gaining traction in IoT and embedded system designs.</p>
+<p>The post <a href="https://www.edn.com/puf-security-ips-bolstered-by-test-suite-psa-certification/" data-wpel-link="internal">PUF security IPs bolstered by test suite, PSA certification</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/puf-security-ips-bolstered-by-test-suite-psa-certification/>
 
 ---
 
@@ -37,7 +51,7 @@ date: 2024-10-30, from: Amateur Radio Relay League News
 
 date: 2024-10-30, from: EDN Blog
 
-<img width="613" height="759" src="https://www.edn.com/wp-content/uploads/Create-an-extra-ADC_Figure1.png?fit=613%2C759" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Create-an-extra-ADC_Figure1.png?w=613 613w, https://www.edn.com/wp-content/uploads/Create-an-extra-ADC_Figure1.png?w=242 242w" sizes="(max-width: 613px) 100vw, 613px" /><p>If you’re short an ADC give this a try, the cost is negligible, PCB space is very minimal, and the code is negligible and easy to understand.</p>
+<img width="613" height="759" src="https://www.edn.com/wp-content/uploads/Create-an-extra-ADC_Figure1.png?fit=613%2C759" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Create-an-extra-ADC_Figure1.png?w=613 613w, https://www.edn.com/wp-content/uploads/Create-an-extra-ADC_Figure1.png?w=242 242w" sizes="(max-width: 613px) 100vw, 613px" /><p>If you’re short an ADC give this a try, the cost is negligible, PCB space is very minimal, and the code is negligible and easy to understand.</p>
 <p>The post <a href="https://www.edn.com/need-an-extra-adc-add-one-for-a-few-cents/" data-wpel-link="internal">Need an extra ADC? Add one for a few cents</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

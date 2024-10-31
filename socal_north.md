@@ -1,11 +1,327 @@
 ---
 title: socal north
-updated: 2024-10-30 13:52:05
+updated: 2024-10-31 06:26:57
 ---
 
 # socal north
 
-(date: 2024-10-30 13:52:05)
+(date: 2024-10-31 06:26:57)
+
+---
+
+## Police unions, real estate interests spend big to support Hochman, oust Gascón in DA race
+
+date: 2024-10-31, updated: 2024-10-31, from: The LAist
+
+The money spent to back challenger Nathan Hochman continues to dwarf the amount of spending on George Gascón’s behalf. 
+
+<br> 
+
+<https://laist.com/news/politics/gascon-hochman-campaign-funding>
+
+---
+
+## Sharp cuts at California State University, but one Southern California campus is feeling it more
+
+date: 2024-10-31, updated: 2024-10-31, from: The LAist
+
+California State University, Los Angeles has laid off many lecturers, while neighboring campuses appear to be hiring. 
+
+<br> 
+
+<https://laist.com/news/education/california-state-university-csu-los-angeles-budget-cuts>
+
+---
+
+## Former OC Supervisor Do to plead guilty to felony bribery in court today
+
+date: 2024-10-31, updated: 2024-10-31, from: The LAist
+
+As part of the deal, his daughter Rhiannon Do, will be on probation for three years. 
+
+<br> 
+
+<https://laist.com/news/politics/former-oc-supervisor-andrew-do-to-plead-guilty-to-felony-bribery-in-court-today>
+
+---
+
+## Jason Blum on the surge of horror and the genre's future
+
+date: 2024-10-31, updated: 2024-10-31, from: The LAist
+
+Blumhouse CEO says the audience is showing up to sequels about 80% or 90% versus 10% or 20% for originals. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/jason-blum-on-the-surge-of-horror-trends>
+
+---
+
+## Amazon in hot pursuit of YA and action-based material for Prime Video
+
+date: 2024-10-31, updated: 2024-10-31, from: The LAist
+
+In particular, the streamer wants YA from “in-the-zeitgeist IP” as it searches for the next The Summer I Turned Pretty. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/amazon-in-hot-pursuit-of-ya-and-action-based-material-for-prime-video>
+
+---
+
+## Los Votantes del Noreste del Valle Comparten su Punto de Vista Días Antes del Día de las Elecciones
+
+date: 2024-10-31, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Falta menos de una semana para el día de las elecciones, y alrededor del 21% de todos los votantes registrados en California ya han emitido su voto hasta el martes [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/10/30/los-votantes-del-noreste-del-valle-comparten-su-punto-de-vista-dias-antes-del-dia-de-las-elecciones/">Los Votantes del Noreste del Valle Comparten su Punto de Vista Días Antes del Día de las Elecciones</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/10/30/los-votantes-del-noreste-del-valle-comparten-su-punto-de-vista-dias-antes-del-dia-de-las-elecciones/>
+
+---
+
+## Propuesta 4: ¿Una Respuesta de Justicia Social al Cambio Climático en California?
+
+date: 2024-10-31, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Klamath-River_SN_03-1.jpeg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Klamath-River_SN_03-1.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Klamath-River_SN_03-1.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Klamath-River_SN_03-1.jpeg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Klamath-River_SN_03-1.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Klamath-River_SN_03-1.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Klamath-River_SN_03-1.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Klamath-River_SN_03-1.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Klamath-River_SN_03-1.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Klamath-River_SN_03-1.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Klamath-River_SN_03-1.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Klamath-River_SN_03-1.jpeg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Los votantes de California decidirán el destino de 10 propuestas electorales y seleccionarán al próximo presidente el día de las elecciones, el martes 5 de noviembre. En la boleta electoral [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/10/30/propuesta-4-una-respuesta-de-justicia-social-al-cambio-climatico-en-california/">Propuesta 4: ¿Una Respuesta de Justicia Social al Cambio Climático en California?</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/10/30/propuesta-4-una-respuesta-de-justicia-social-al-cambio-climatico-en-california/>
+
+---
+
+## El Evento Anual del Día de los Muertos de Pacoima es una Celebración de la Comunidad
+
+date: 2024-10-31, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/IMG_4500.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/IMG_4500.jpg?w=2100&amp;ssl=1 2100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/IMG_4500.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/IMG_4500.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/IMG_4500.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/IMG_4500.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/IMG_4500.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/IMG_4500.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/IMG_4500.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/IMG_4500.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/IMG_4500.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/IMG_4500.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/IMG_4500.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/IMG_4500.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/IMG_4500.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/IMG_4500.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>El Día de los Muertos en Pacoima se destaca por su pompa con impresionantes obras de arte e instalaciones de gran tamaño, pero lo que se destaca especialmente es su [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/10/30/el-evento-anual-del-dia-de-los-muertos-de-pacoima-es-una-celebracion-de-la-comunidad/">El Evento Anual del Día de los Muertos de Pacoima es una Celebración de la Comunidad</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/10/30/el-evento-anual-del-dia-de-los-muertos-de-pacoima-es-una-celebracion-de-la-comunidad/>
+
+---
+
+## La Comunidad Honra a sus Seres Queridos con Altares del Día de los Muertos en el Parque Recreativo de San Fernando
+
+date: 2024-10-31, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="771" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241026_223619376-1-scaled.jpg?fit=771%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241026_223619376-1-scaled.jpg?w=1928&amp;ssl=1 1928w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241026_223619376-1-scaled.jpg?resize=226%2C300&amp;ssl=1 226w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241026_223619376-1-scaled.jpg?resize=771%2C1024&amp;ssl=1 771w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241026_223619376-1-scaled.jpg?resize=768%2C1020&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241026_223619376-1-scaled.jpg?resize=1157%2C1536&amp;ssl=1 1157w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241026_223619376-1-scaled.jpg?resize=1542%2C2048&amp;ssl=1 1542w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241026_223619376-1-scaled.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241026_223619376-1-scaled.jpg?resize=1200%2C1594&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241026_223619376-1-scaled.jpg?resize=1568%2C2083&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241026_223619376-1-scaled.jpg?resize=2000%2C2656&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241026_223619376-1-scaled.jpg?resize=400%2C531&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241026_223619376-1-scaled.jpg?resize=706%2C938&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241026_223619376-1-scaled.jpg?fit=771%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Con elaboradas ofrendas dedicadas a la memoria de los seres queridos perdidos y figuras notables de la comunidad latina, los lugareños acudieron al Parque Recreativo de San Fernando para la [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/10/30/la-comunidad-honra-a-sus-seres-queridos-con-altares-del-dia-de-los-muertos-en-el-parque-recreativo-de-san-fernando/">La Comunidad Honra a sus Seres Queridos con Altares del Día de los Muertos en el Parque Recreativo de San Fernando</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/10/30/la-comunidad-honra-a-sus-seres-queridos-con-altares-del-dia-de-los-muertos-en-el-parque-recreativo-de-san-fernando/>
+
+---
+
+## Horóscopo
+
+date: 2024-10-31, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Holiday Mathis (Creators.com) ARIES (21 de mar &#8211; 19 de abr) Tranquilo. De lo contrario, para cuando note los proverbiales baches en la carretera, puede ser demasiado tarde para [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/10/30/horoscopo-187/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/10/30/horoscopo-187/>
+
+---
+
+## EVENTOS Locales – Semana de 31 de octubre, 2024
+
+date: 2024-10-31, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Viernes, Noviembre 1 Día de los Muertos de Tia Chucha: Pequeños Lectores Hora del Cuento y Taller Tia Chucha’s Centro Cultural 12677 Glenoaks Blvd. Sylmar 12 p.m. – 1:30 p.m. [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/10/30/eventos-locales-semana-de-31-de-octubre-2024/">EVENTOS Locales &#8211; Semana de 31 de octubre, 2024 </a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/10/30/eventos-locales-semana-de-31-de-octubre-2024/>
+
+---
+
+## La Cumbre de Futuros Líderes Verdes Presenta a los Estudiantes de Secundaria del Valle de San Fernando las Carreras STEAM
+
+date: 2024-10-31, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Future-Green-Leaders_SN_31-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Future-Green-Leaders_SN_31-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Future-Green-Leaders_SN_31-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Future-Green-Leaders_SN_31-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Future-Green-Leaders_SN_31-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Future-Green-Leaders_SN_31-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Future-Green-Leaders_SN_31-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Future-Green-Leaders_SN_31-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Future-Green-Leaders_SN_31-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Future-Green-Leaders_SN_31-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Future-Green-Leaders_SN_31-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Future-Green-Leaders_SN_31-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Future-Green-Leaders_SN_31-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Future-Green-Leaders_SN_31-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Future-Green-Leaders_SN_31-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Se alentó a los estudiantes de comunidades desfavorecidas de todo el Valle de San Fernando a imaginarse a sí mismos contribuyendo a un futuro más sostenible para el planeta. Más [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/10/30/la-cumbre-de-futuros-lideres-verdes-presenta-a-los-estudiantes-de-secundaria-del-valle-de-san-fernando-las-carreras-steam/">La Cumbre de Futuros Líderes Verdes Presenta a los Estudiantes de Secundaria del Valle de San Fernando las Carreras STEAM</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/10/30/la-cumbre-de-futuros-lideres-verdes-presenta-a-los-estudiantes-de-secundaria-del-valle-de-san-fernando-las-carreras-steam/>
+
+---
+
+## 2000+ LAUSD y Estudiantes Locales Asisten a los Días de Carreras de Aviación en LAX y el Aeropuerto de Van Nuys
+
+date: 2024-10-31, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="612" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/IMG_3607.jpg?fit=1024%2C612&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/IMG_3607.jpg?w=2100&amp;ssl=1 2100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/IMG_3607.jpg?resize=300%2C179&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/IMG_3607.jpg?resize=1024%2C612&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/IMG_3607.jpg?resize=768%2C459&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/IMG_3607.jpg?resize=1536%2C919&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/IMG_3607.jpg?resize=2048%2C1225&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/IMG_3607.jpg?resize=1200%2C718&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/IMG_3607.jpg?resize=1568%2C938&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/IMG_3607.jpg?resize=2000%2C1196&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/IMG_3607.jpg?resize=400%2C239&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/IMG_3607.jpg?resize=706%2C422&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/IMG_3607.jpg?fit=1024%2C612&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Los Angeles World Airports (LAWA) celebraron recientemente dos Días de Carreras de Aviación en el Aeropuerto Internacional de Los Ángeles (LAX) y el Aeropuerto de Van Nuys (VNY), en asociación [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/10/30/2000-lausd-y-estudiantes-locales-asisten-a-los-dias-de-carreras-de-aviacion-en-lax-y-el-aeropuerto-de-van-nuys/">2000+ LAUSD y Estudiantes Locales Asisten a los Días de Carreras de Aviación en LAX y el Aeropuerto de Van Nuys</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/10/30/2000-lausd-y-estudiantes-locales-asisten-a-los-dias-de-carreras-de-aviacion-en-lax-y-el-aeropuerto-de-van-nuys/>
+
+---
+
+## Revelan Puente Peatonal Sobre el Arroyo Pacoima en Cindy Montañez Natural Park
+
+date: 2024-10-31, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="771" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_171847295-scaled.jpg?fit=1024%2C771&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_171847295-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_171847295-scaled.jpg?resize=300%2C226&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_171847295-scaled.jpg?resize=1024%2C771&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_171847295-scaled.jpg?resize=768%2C578&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_171847295-scaled.jpg?resize=1536%2C1157&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_171847295-scaled.jpg?resize=2048%2C1542&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_171847295-scaled.jpg?resize=400%2C301&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_171847295-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_171847295-scaled.jpg?resize=1200%2C904&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_171847295-scaled.jpg?resize=1568%2C1181&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_171847295-scaled.jpg?resize=2000%2C1506&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_171847295-scaled.jpg?resize=706%2C532&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_171847295-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241025_171847295-scaled.jpg?fit=1024%2C771&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Después de más de 20 años y múltiples rondas de financiamiento, se inauguró oficialmente el Puente Peatonal Pacoima Wash en el Parque Cindy Montañez Natural Park, con la presencia de [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/10/30/revelan-puente-peatonal-sobre-el-arroyo-pacoima-en-cindy-montanez-natural-park/">Revelan Puente Peatonal Sobre el Arroyo Pacoima en Cindy Montañez Natural Park</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/10/30/revelan-puente-peatonal-sobre-el-arroyo-pacoima-en-cindy-montanez-natural-park/>
+
+---
+
+## El Programa de Caminos Universitarios y Profesionales Ofrece un Camino Diferente para los Jóvenes Involucrados en la Justicia
+
+date: 2024-10-31, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/CCPP_SN_02-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/CCPP_SN_02-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/CCPP_SN_02-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/CCPP_SN_02-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/CCPP_SN_02-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/CCPP_SN_02-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/CCPP_SN_02-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/CCPP_SN_02-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/CCPP_SN_02-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/CCPP_SN_02-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/CCPP_SN_02-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/CCPP_SN_02-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/CCPP_SN_02-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/CCPP_SN_02-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/CCPP_SN_02-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A los jóvenes acusados de delitos se les ofrece la opción de buscar oportunidades educativas y profesionales en lugar de tener antecedentes penales. El nuevo Programa de Trayectoria Universitaria y [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/10/30/el-programa-de-caminos-universitarios-y-profesionales-ofrece-un-camino-diferente-para-los-jovenes-involucrados-en-la-justicia/">El Programa de Caminos Universitarios y Profesionales Ofrece un Camino Diferente para los Jóvenes Involucrados en la Justicia</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/10/30/el-programa-de-caminos-universitarios-y-profesionales-ofrece-un-camino-diferente-para-los-jovenes-involucrados-en-la-justicia/>
+
+---
+
+## Dodgers beat Yankees to become 8-time World Series champs. How it all came together
+
+date: 2024-10-31, updated: 2024-10-31, from: The LAist
+
+The Boys in Blue beat the Bronx Bombers 7-6 in Game 5 to capture their eighth championship Wednesday night. 
+
+<br> 
+
+<https://laist.com/news/dodgers-yankees-win-world-series>
+
+---
+
+## New study raises questions about heavy metals in fire retardants
+
+date: 2024-10-30, updated: 2024-10-30, from: The LAist
+
+Roughly 67 million gallons of fire retardant have been dropped on California since 2014. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/new-study-raises-questions-heavy-metals-fire-retardants>
+
+---
+
+## Do you smell that? What’s behind the stench along LA's coast
+
+date: 2024-10-30, updated: 2024-10-30, from: The LAist
+
+People have been complaining about a rotten egg, sewage like smell near the ocean. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/cause-of-the-unpleasant-odor-along-the-coast>
+
+---
+
+## There's free childcare for Angelenos who want to vote on Election Day
+
+date: 2024-10-30, updated: 2024-10-30, from: The LAist
+
+Some Los Angeles childcare organizations are paying to help parents go out to vote. 
+
+<br> 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/free-childcare-los-angeles-election-day>
+
+---
+
+## Gascón vs. Hochman: opiniones muy diferentes sobre lo que debería hacer el Fiscal de Los Ángeles
+
+date: 2024-10-30, updated: 2024-10-30, from: The LAist
+
+El actual fiscal de distrito George Gascón y su rival Nathan Hochman ofrecen sus filosofías sobre el sistema de justicia penal. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/gascon-vs-hochman-very-different-takes-on-what-las-district-attorney-should-do-es-opiniones-diferentes-fiscal-distrito-los-angeles>
+
+---
+
+## George Gascón habla sobre su historial y arrepentimientos como Fiscal del Distrito de Los Ángeles
+
+date: 2024-10-30, updated: 2024-10-30, from: The LAist
+
+En el episodio 3 de Imperfect Paradise: District Attorney Gascón, el fiscal de distrito del condado de Los Ángeles habla sobre su historial y los familiares de las víctimas del delito ofrecen sus propios puntos de vista. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/george-gascon-los-angeles-district-attorney-record-regrets-es-historial-arrepentimientos-fiscal-distrito>
+
+---
+
+## Cómo George Gascón pasó de policía a uno de los fiscales del distrito más progresistas del país
+
+date: 2024-10-30, updated: 2024-10-30, from: The LAist
+
+En el episodio dos de Imperfect Paradise: District Attorney Gascón escuchamos al fiscal del distrito sobre su transformación a fiscal progresista y de uno de sus abogados sobre sus preocupaciones. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/how-george-gascon-went-from-cop-to-one-of-the-most-progressive-das-in-the-country-es-policia-fiscales-distrito-mas-progresistas-pais>
+
+---
+
+## ¿Cómo debería ser la justicia? Su voto para el Fiscal del Condado de Los Ángeles es una elección entre dos visiones
+
+date: 2024-10-30, updated: 2024-10-30, from: The LAist
+
+El actual fiscal de distrito de Los Ángeles, George Gascón, busca un segundo mandato de cuatro años y enfrenta un duro desafío por parte del abogado defensor penal Nathan Hochman. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/what-should-justice-look-like-your-vote-for-la-county-da-is-a-choice-between-two-visions-es-justicia-fiscal-condado-eleccion>
+
+---
+
+## Metro is testing out an AI weapons scanner that faced criticism in NYC
+
+date: 2024-10-30, updated: 2024-10-30, from: The LAist
+
+A pilot program uses equipment that one New York law firm called "objectively a failure." 
+
+<br> 
+
+<https://laist.com/news/transportation/metro-is-testing-out-an-ai-weapons-scanner-that-faced-criticism-in-nyc>
 
 ---
 
@@ -23,7 +339,7 @@ For years Laurel LaMont has fought for better options for what she calls the “
 
 ## Cal State posts uneven graduation progress as initiative finish line approaches
 
-date: 2024-10-30, updated: 2024-10-30, from: The LAist
+date: 2024-10-30, updated: 2024-10-31, from: The LAist
 
 Officials say CSU's rates compare well nationally, but still "not good enough." 
 

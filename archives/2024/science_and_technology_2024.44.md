@@ -1,11 +1,191 @@
 ---
 title: science and technology
-updated: 2024-10-30 13:52:05
+updated: 2024-10-31 06:26:57
 ---
 
 # science and technology
 
-(date: 2024-10-30 13:52:05)
+(date: 2024-10-31 06:26:57)
+
+---
+
+## You Can Listen to a Lost Chopin Waltz That Hasn't Been Heard for Nearly Two Centuries
+
+date: 2024-10-31, from: Smithsonian Magazine
+
+The one-minute composition, which dates to the 1830s, was found on a piece of paper about the size of an index card at a museum in New York City 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/you-can-listen-to-a-lost-chopin-waltz-that-hasnt-been-heard-for-nearly-two-centuries-180985363/>
+
+---
+
+## LottieFiles supply chain attack exposes users to malicious crypto wallet drainer
+
+date: 2024-10-31, updated: 2024-10-31, from: The Register (UK I.T. News)
+
+<h4>A scary few Halloween hours for team behind hugely popular web plugin</h4> <p>LottieFiles is overcoming something of a Halloween fright after battling to regain control of a compromised developer account that was used to exploit users&#39; crypto wallets.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/31/lottiefiles_supply_chain_attack/>
+
+---
+
+## UK gov report to propose special zones for datacenters, 'AI visas'
+
+date: 2024-10-31, updated: 2024-10-31, from: The Register (UK I.T. News)
+
+<h4>Vendors not keen on &#39;lengthy bureaucracy,&#39; and cost when they try to hire skilled foreigners</h4> <p>UK government is to recommend streamlining the visa process for those with AI skills and the creation of special zones where it will be easier to build datacenters and any infrastructure they depend on.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/31/uk_gov_datacenter_zone/>
+
+---
+
+## Tower PC case used as 'creative cavity' by drug importer
+
+date: 2024-10-31, updated: 2024-10-31, from: The Register (UK I.T. News)
+
+<h4>Motherboard missing, leaving space for a million hits of meth</h4> <p>Australian police have arrested a man after finding he imported what appear to be tower PC cases that were full of illicit drugs.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/31/australia_pc_drug_arrest/>
+
+---
+
+## Microsoft turning away AI training workloads – inferencing makes better money
+
+date: 2024-10-31, updated: 2024-10-31, from: The Register (UK I.T. News)
+
+<h4>Azure&#39;s acceleration continues, but so do costs</h4> <p>Microsoft has explained that its method of funding the tens of billions it&#39;s spending on new datacenters and AI infrastructure is to shun customers who want to rent GPUs to train new AI models.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/31/microsoft_q1_fy_2025/>
+
+---
+
+## Apple throws shade on pokey AI PCs, claims its maxed out M4 chips are 4x faster
+
+date: 2024-10-31, updated: 2024-10-31, from: The Register (UK I.T. News)
+
+<h4>Busy week for Cupertino sees shrunken Mac minis, updated lappies, and new SoCs</h4> <p>With the arrival of its M4 silicon on the Mac this week, Apple wants the world to know that the silicon powering AI PCs is no match for its chips.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/31/apple_m4_ai_chip/>
+
+---
+
+## Chinese attackers accessed Canadian government networks – for five years
+
+date: 2024-10-31, updated: 2024-10-31, from: The Register (UK I.T. News)
+
+<h4>India makes it onto list of likely threats for the first time</h4> <p>A report by Canada&#39;s Communications Security Establishment (CSE) revealed that state-backed actors have collected valuable information from government networks for five years.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/31/canada_cybersec_threats/>
+
+---
+
+## Meta spruiks benefits of open sourcing Llama models – to its own bottom line
+
+date: 2024-10-31, updated: 2024-10-31, from: The Register (UK I.T. News)
+
+<h4>It&#39;s not like Zuck needs the coin despite increased infrastructure spend, headcount, losses on VR</h4> <p>Meta boss Mark Zuckerberg has told investors that open sourcing its Llama AI models is not entirely altruistic – he thinks it will also save his social media conglomerate money.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/31/meta_q3_2024/>
+
+---
+
+## Equinix to pad Thai coffers with $500 million investment
+
+date: 2024-10-31, updated: 2024-10-31, from: The Register (UK I.T. News)
+
+<h4>Another Asian country declares ambition to be a tech hub</h4> <p>Thailand has won a pair of high profile investments that boost its ambition to become a hub for datacenters and semiconductor manufacturing.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/31/thailand_tech_hub/>
+
+---
+
+## Australia/Lord_Howe is the weirdest timezone
+
+date: 2024-10-30, from: OS News
+
+The standard trope when talking about timezones is to rattle off falsehoods programmers believe about them. These lists are only somewhat enlightening – it’s really hard to figure out what truth is just from the contours of falsehood. So here’s an alternative approach. I’m gonna show you some weird timezones. In fact, the&#160;weirdest&#160;timezones. They’re each about as weird as timezones are allowed to get in some way. ↫ Ulysse Carion The reason why timezones are often weird is not only things like the shape of countries dictating where the actual timezones begin and end, but also because of politics. A lot of politics. The entirety of China runs on Beijing time, even though it covers five geographical timezones. Several islands in the Pacific were forced by their colonisers to run on insanely offset timezones because it made exploiting them easier. Time in Europe is political, too &#8211; countries like The Netherlands, Belgium, France, and Spain should really be in the same time zone as the UK, but adopted UTC+1 because it aligns better with the rest of mainland Europe. Although anything is better than whatever the hell Dutch Time was. Then there is, of course, daylight savings, which is a whole pointless nightmare in and of itself that should be abolished. Daylight savings rules and exceptions alone cover a ton of the oddities and difficulties with timezones, which is reason enough to get rid of it, aside from all the other possible issues, but a proposal to abolish it in the EU has sadly stalled. 
+
+<br> 
+
+<https://www.osnews.com/story/141023/australia-lord_howe-is-the-weirdest-timezone/>
+
+---
+
+## Sols 4348-4349: Smoke on the Water
+
+date: 2024-10-30, from: NASA breaking news
+
+Earth planning date: Monday, Oct. 28, 2024 Before the science team starts planning, we first look at the latest Navcam image downlinked from Curiosity to see where the rover is located. It can be all too easy to get lost in the scenery of the Navcam and find new places in the distance we want […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4348-4349-smoke-on-the-water/>
+
+---
+
+## US Army should ditch tanks for AI drones, says Eric Schmidt
+
+date: 2024-10-30, updated: 2024-10-31, from: The Register (UK I.T. News)
+
+<h4>And what do you know, Google&#39;s former CEO just so happens to have a commercial solution</h4> <p>Former Google chief Eric Schmidt thinks the US Army should expunge &#34;useless&#34; tanks and replace them with AI-powered drones instead.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/30/google_ceo_tank_ai_drones/>
+
+---
+
+## Windows Themes zero-day bug exposes users to NTLM credential theft
+
+date: 2024-10-30, updated: 2024-10-30, from: The Register (UK I.T. News)
+
+<h4>Plus a free micropatch until Redmond fixes the flaw</h4> <p>There&#39;s a Windows Themes spoofing zero-day bug on the loose that allows attackers to steal people&#39;s NTLM credentials.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/30/zeroday_windows_themes/>
+
+---
+
+## Japan's Mount Fuji Has Now Remained Snowless for the Longest Time in Its 130-Year Record
+
+date: 2024-10-30, from: Smithsonian Magazine
+
+After a summer that tied for the country's hottest, meteorologists say an unusually warm autumn is delaying snowfall 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/japans-mount-fuji-has-now-remained-snowless-for-the-longest-time-in-its-130-year-record-180985366/>
+
+---
+
+## Three Sisters in Ohio Just Sold a Rare 1975 Dime With a Missing 'S' Mint Mark for $500,000
+
+date: 2024-10-30, from: Smithsonian Magazine
+
+The owners inherited the valuable coin from their brother, who kept it locked in a bank vault for decades. He purchased it with his mother in 1978 to provide financial security for the family farm 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/three-sisters-in-ohio-just-sold-a-rare-1975-dime-with-a-missing-s-mint-mark-for-500000-180985365/>
 
 ---
 

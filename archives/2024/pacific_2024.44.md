@@ -1,11 +1,275 @@
 ---
 title: pacific
-updated: 2024-10-30 13:52:05
+updated: 2024-10-31 06:26:57
 ---
 
 # pacific
 
-(date: 2024-10-30 13:52:05)
+(date: 2024-10-31 06:26:57)
+
+---
+
+## Nation and world news in brief for October 31
+
+date: 2024-10-31, from: Hawaii Tribune Harold
+
+
+				<p>US detects H5N1 bird flu in a pig &#0010;for the first time</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/31/nation-world-news/nation-and-world-news-in-brief-for-october-31/>
+
+---
+
+## Ukrainians tell of brutal Russian repression in occupied territories
+
+date: 2024-10-31, from: Hawaii Tribune Harold
+
+
+				<p>SUMY, Ukraine &#8212; For months after the Russian military occupied his hometown in southern Ukraine, Yevheny made plans to leave. But each time, the 48-year-old lawyer said, he was thwarted, by warnings of gunfire on the roads and, once, when a hired driver disappeared.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/31/nation-world-news/ukrainians-tell-of-brutal-russian-repression-in-occupied-territories/>
+
+---
+
+## Johnson’s ‘No Obamacare’ remark draws attention to unpopular stance
+
+date: 2024-10-31, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; House Speaker Mike Johnson said Tuesday that Republicans would embark on a &#8220;massive reform&#8221; of the Affordable Care Act if former President Donald Trump is elected again, putting an unpopular policy position back in the spotlight just days before the election.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/31/nation-world-news/johnsons-no-obamacare-remark-draws-attention-to-unpopular-stance/>
+
+---
+
+## Supreme Court halts order for Virginia to restore voter registrations
+
+date: 2024-10-31, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Supreme Court won&#8217;t require Virginia to restore 1,600 names the commonwealth removed from its voting rolls in advance of next week&#8217;s election, stopping lower-court rulings that found Virginia had violated federal law by removing voter registrations within 90 days of the election.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/31/nation-world-news/supreme-court-halts-order-for-virginia-to-restore-voter-registrations/>
+
+---
+
+## Lebanon, Israel could agree to ceasefire within days, Lebanese prime minister says
+
+date: 2024-10-31, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM/BEIRUT &#8212; Lebanon&#8217;s prime minister expressed hope on Wednesday that a ceasefire deal with Israel would be announced within days as Israel&#8217;s public broadcaster published what it said was a draft agreement providing for an initial 60-day truce. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/31/nation-world-news/lebanon-israel-could-agree-to-ceasefire-within-days-lebanese-prime-minister-says/>
+
+---
+
+## Clean energy is booming in the US. The election could change that
+
+date: 2024-10-31, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Over the last two years, a surge in clean energy manufacturing has helped push U.S. factory construction to the highest level in half a century. Solar power installations and electric car sales are breaking records. Even Republican-led states like Montana and Utah are writing climate plans to secure federal cash.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/31/nation-world-news/clean-energy-is-booming-in-the-us-the-election-could-change-that/>
+
+---
+
+## Harris, Trump accuse each other of fomenting division in campaign’s final stretch
+
+date: 2024-10-31, from: Hawaii Tribune Harold
+
+
+				<p>GREEN BAY, Wisconsin &#8212; Republican presidential candidate Donald Trump and his Democratic rival Kamala Harris accused each other of deepening the discord of a deeply polarized nation as the U.S. presidential campaign entered its final week on Wednesday. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/31/nation-world-news/harris-trump-accuse-each-other-of-fomenting-division-in-campaigns-final-stretch/>
+
+---
+
+## Spanish floods kill 95 as year of rain falls in a day in Valencia
+
+date: 2024-10-31, from: Hawaii Tribune Harold
+
+
+				<p>LA ALCUDIA, Spain &#8212; At least 95 people have been killed in possibly the deadliest flooding to hit Spain in its modern history after torrential rain battered the eastern region of Valencia, sweeping away bridges and buildings, local authorities said on Wednesday. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/31/nation-world-news/spanish-floods-kill-95-as-year-of-rain-falls-in-a-day-in-valencia/>
+
+---
+
+## In US swing states, officials brace for conspiracy theories and violence
+
+date: 2024-10-31, from: Hawaii Tribune Harold
+
+
+				<p>DETROIT &#8212; With the U.S. election days just away, officials in the most competitive battleground states are bracing for misinformation, conspiracy theories, threats and possible violence.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/31/nation-world-news/in-us-swing-states-officials-brace-for-conspiracy-theories-and-violence/>
+
+---
+
+## Russia asks at UN: If West aids Ukraine, why can’t North Korea help us?
+
+date: 2024-10-31, from: Hawaii Tribune Harold
+
+
+				<p>UNITED NATIONS &#8212; Russia&#8217;s envoy to the United Nations on Wednesday questioned why its allies like North Korea could not help Moscow in its war against Ukraine given Western countries claim the right to help Kyiv. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/31/nation-world-news/russia-asks-at-un-if-west-aids-ukraine-why-cant-north-korea-help-us/>
+
+---
+
+## Judge orders Elon Musk to court over $1 million giveaway in US election
+
+date: 2024-10-31, from: Hawaii Tribune Harold
+
+
+				<p>A judge ordered all parties, including Elon Musk, to attend a court hearing in Philadelphia on Thursday in a lawsuit seeking to stop a political action committee controlled by the billionaire from awarding $1 million to registered U.S. voters in battleground states ahead of the Nov. 5 U.S. election. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/31/nation-world-news/judge-orders-elon-musk-to-court-over-1-million-giveaway-in-us-election/>
+
+---
+
+## Controversial do-over fills special seat on state water commission
+
+date: 2024-10-31, from: Hawaii Tribune Harold
+
+
+				<p>A former State Historic Preservation Division branch chief is filling a seat on Hawaii&#8217;s water commission reserved for a traditional Native Hawaiian water management expert after a controversial selection process.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/31/hawaii-news/controversial-do-over-fills-special-seat-on-state-water-commission/>
+
+---
+
+## US voters use trackers, cameras to deter political theft
+
+date: 2024-10-31, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Tired of her Kamala Harris signs disappearing from her Springfield, Missouri, front yard, Laura McCaskill taped a tracking device to one to see where it might end up. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/31/nation-world-news/us-voters-use-trackers-cameras-to-deter-political-theft/>
+
+---
+
+## Number of students at UH Hilo down 4% while most other UH campuses see gains
+
+date: 2024-10-31, from: Hawaii Tribune Harold
+
+
+				<p>Although enrollment at nearly all of the campuses in the University of Hawaii system increased this fall semester compared to last year, UH Hilo is lagging behind.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/31/hawaii-news/number-of-students-at-uh-hilo-down-4-while-most-other-uh-campuses-see-gains/>
+
+---
+
+## Does Trump really want to compare now to four years ago?
+
+date: 2024-10-31, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Republican presidential candidate and former President Donald Trump&#8217;s end-of-campaign arguments to voters choosing between him and Democrat Kamala Harris have focused on an old standby in U.S. politics: Asking voters whether they are better off now than they were four years ago. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/31/nation-world-news/does-trump-really-want-to-compare-now-to-four-years-ago/>
+
+---
+
+## UH swimmers sweep Big West Athlete of the Week honors
+
+date: 2024-10-31, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa swimmers Catherine Belyakov and Milan Bukovics swept this week’s Big West Athlete of the Week awards.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/30/uh-swimmers-sweep-big-west-week-honors/"><abbr>UH</abbr> swimmers sweep Big West Athlete of the Week honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/30/uh-swimmers-sweep-big-west-week-honors/>
+
+---
+
+## Rainbow Wahine basketball team ranked 19th in Mid Major Poll
+
+date: 2024-10-31, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa women’s basketball team enters the 2024-25 campaign at No. 19 in the Collegeinsider.com Women’s Preseason Mid Major Top 25.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/30/rainbow-wahine-basketball-19th-mid-major-poll/">Rainbow Wahine basketball team ranked 19th in Mid Major Poll</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/30/rainbow-wahine-basketball-19th-mid-major-poll/>
+
+---
+
+## Pacific Academy of Sciences to foster regional collaboration
+
+date: 2024-10-30, from: University of the South Pacific (Fiji)
+
+<p>The Pacific region is rich in biodiversity and cultural heritage, yet many of our islands...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/pacific-academy-of-sciences-to-foster-regional-collaboration/">Pacific Academy of Sciences to foster regional collaboration</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/pacific-academy-of-sciences-to-foster-regional-collaboration/>
+
+---
+
+## USP hosts high-level media delegation to strengthen ties
+
+date: 2024-10-30, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific&#8217;s (USP) Deputy Head of the School of Pacific Arts,...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-hosts-high-level-delegation-to-strengthen-china-fiji-ties/">USP hosts high-level media delegation to strengthen ties</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/usp-hosts-high-level-delegation-to-strengthen-china-fiji-ties/>
 
 ---
 

@@ -1,11 +1,83 @@
 ---
 title: games
-updated: 2024-10-30 13:52:06
+updated: 2024-10-31 06:26:58
 ---
 
 # games
 
-(date: 2024-10-30 13:52:06)
+(date: 2024-10-31 06:26:58)
+
+---
+
+## The Halloween Countdown: 31 days of horror to watch
+
+date: 2024-10-31, updated: 2024-10-31, from: Polygon Website
+
+Do you feel that? That chill in the air, that tingling sensation at the back of your neck? It can only mean one thing. That’s right: Halloween season is once again upon us! Here at Polygon, we love horror. We cover it all year round, whether it’s ranking the scariest new releases of the year [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream>
+
+---
+
+## A Baldur’s Gate 3 player’s guide to Dragon Age lore
+
+date: 2024-10-31, updated: 2024-10-30, from: Polygon Website
+
+There’s a new Dragon Age game out, and for fans who’ve been tapped into the series for 15 years, it’s an incredibly exciting time (especially since 10 of those years involved simply… waiting for this game). But 15 years and three games means a lot of lore for new fans, especially if you’re a new [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/explained/472291/dragon-age-veilguard-lore-explained-beginners-guide>
+
+---
+
+## Change is coming to Magic: The Gathering — here&#8217;s why longtime fans are worried
+
+date: 2024-10-31, updated: 2024-10-30, from: Polygon Website
+
+By the end of next year, Marvel’s Spider-Man and Final Fantasy’s Cloud Strife will finally meet on the battlefield. No, this isn’t a teaser from a Super Smash Bros. trailer or a breaking deal on a pair of Fortnite skins. Rather, this is what a competitive Magic: The Gathering tournament will look like in the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mtg-magic-the-gathering/472487/universes-beyond-controversy-standard-legal-magic-multiverse>
+
+---
+
+## What time does Fortnite’s live event ‘Remix: The Prelude’ start?
+
+date: 2024-10-30, updated: 2024-10-30, from: Polygon Website
+
+“Remix: The Prelude” is a Fortnite live event being teased for Friday, November 1. It will kick off Fortnite’s return to the Chapter 2 island with some “splashes of content from the earliest seasons,” according to developer Epic Games. The event will likely mark the end of Fortnite Chapter 5 Season 4 and kick off [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/472158/remix-the-prelude-live-event-start-time-release-time-zone>
+
+---
+
+## How to get more Hourglasses in Pokémon TCG Pocket
+
+date: 2024-10-30, updated: 2024-10-30, from: Polygon Website
+
+Hourglasses are special items in Pokémon TCG Pocket that allow you to open packs and roll a wonder pick sooner. While usually you can only open a pack every 12 hours, you can use a Pack Hourglass to reduce this timer by one hour. You can also use Wonder Hourglasses to reduce the wonder pick [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-tcg-pocket-guides/471854/hourglasses-get-pack-wonder-more>
+
+---
+
+## World of Warcraft’s next patch is on Siren Isle, full of mystery and loot
+
+date: 2024-10-30, updated: 2024-10-30, from: Polygon Website
+
+World of Warcraft’s 10th expansion, The War Within, is well under way, and players are already concluding some of its early story arcs. We know this is just an early stage in a grander story that will play out across the next three expansions in the Worldsoul Saga. As a smaller step in that grand [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/world-of-warcraft/472726/war-within-patch-wow-siren-isle>
 
 ---
 
@@ -126,18 +198,6 @@ Marvel’s Deadpool &#38; Wolverine, a collision of the Fox X-Men universe and M
 <br> 
 
 <https://www.polygon.com/marvel/472153/deadpool-wolverine-disney-plus-streaming-release-date>
-
----
-
-## The Halloween Countdown: 31 days of horror to watch
-
-date: 2024-10-30, updated: 2024-10-30, from: Polygon Website
-
-Do you feel that? That chill in the air, that tingling sensation at the back of your neck? It can only mean one thing. That’s right: Halloween season is once again upon us! Here at Polygon, we love horror. We cover it all year round, whether it’s ranking the scariest new releases of the year [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/what-to-watch/452010/best-halloween-horror-movies-tv-watch-stream>
 
 ---
 
