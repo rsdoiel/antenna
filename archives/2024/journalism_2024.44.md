@@ -1,11 +1,381 @@
 ---
 title: journalism
-updated: 2024-10-31 06:26:58
+updated: 2024-11-01 10:26:13
 ---
 
 # journalism
 
-(date: 2024-10-31 06:26:58)
+(date: 2024-11-01 10:26:13)
+
+---
+
+## Santa Clarita Valley Sheriff Deputies transformed their jail into a house of horror for the 33rd annual Haunted Jailhouse event
+
+date: 2024-11-01, from: The Canyon News (COC Student Newspaper)
+
+<p>Costumes and candy at the sheriff&#8217;s station mean The Haunted Jailhouse is&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/haunted-jailhouse/">Santa Clarita Valley Sheriff Deputies transformed their jail into a house of horror for the 33rd annual Haunted Jailhouse event</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/haunted-jailhouse/>
+
+---
+
+## Abortion is the next front on the crime beat
+
+date: 2024-11-01, from: Nieman Journalism Lab
+
+The headline: &#8220;A Woman Died After Being Told It Would Be a &#8216;Crime&#8217; to Intervene in Her Miscarriage at a Texas Hospital.&#8221; Nieman Lab spent the last week reporting on crime news now. Of course, we could not cover the entire landscape of news about crime, but we delved into podcasts, TikTok creators, digital news... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/11/abortion-is-the-next-front-on-the-crime-beat/>
+
+---
+
+## 10 years after Serial: Nieman Lab looks at crime news now
+
+date: 2024-11-01, from: Nieman Journalism Lab
+
+&#8220;For the last year, I&#8217;ve spent every working day trying to figure out where a high school kid was for an hour after school one day in 1999.&#8221; On October 3, 2014, the first episode of a new podcast dropped. Serial quickly generated a tsunami of interest in true crime, and in podcasts as a... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/11/10-years-after-serial-nieman-lab-looks-at-crime-news-now/>
+
+---
+
+## Classifieds – November 1, 2024
+
+date: 2024-11-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/01/classifieds-november-1-2024/">Classifieds &#8211; November 1, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/01/classifieds-november-1-2024/>
+
+---
+
+## CD-14 candidate Ysabel Jurado could make history
+
+date: 2024-11-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Ysabel Jurado is running for Kevin de León's seat in an L.A. City Council election.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/01/candidate-ysabel-jurado/">CD-14 candidate Ysabel Jurado could make history</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/01/candidate-ysabel-jurado/>
+
+---
+
+## Drag Me to Hell brings the heat at the Fisher
+
+date: 2024-11-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2024/11/01/drag-me-to-hell-brings-the-heat-at-the-fisher/">Drag Me to Hell brings the heat at the Fisher</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/01/drag-me-to-hell-brings-the-heat-at-the-fisher/>
+
+---
+
+## Harm Reduction
+
+date: 2024-11-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2024/11/01/cartoon-harm-reduction/">Harm Reduction</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/01/cartoon-harm-reduction/>
+
+---
+
+## Social media engages voters, shapes 2024 election
+
+date: 2024-11-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>This election has high levels of media engagement — and with it, disinformation.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/01/social-media-voters/">Social media engages voters, shapes 2024 election</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/01/social-media-voters/>
+
+---
+
+## The Weekly Frame II: Spooky
+
+date: 2024-11-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>From frat row to Parkside Restaurant, you never know what will jump out at you. In the spooky spirit of this time of year, if you look out at campus with a sinister eye, you might just spot all that is lurking in the shadows.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/01/the-weekly-frame-ii-spooky/">The Weekly Frame II: Spooky</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/01/the-weekly-frame-ii-spooky/>
+
+---
+
+## ‘Agatha All Along’ is a witchy, magical masterpiece
+
+date: 2024-11-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Marvel’s “Wandavision” spinoff takes viewers on a spooky journey “down the witches’ road.”</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/01/agatha-all-along-is-a-witchy-masterpiece/">‘Agatha All Along’ is a witchy, magical masterpiece</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/01/agatha-all-along-is-a-witchy-masterpiece/>
+
+---
+
+## Expert voices shed light on impacts of election outcomes
+
+date: 2024-11-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Professors share insight on education, healthcare, and environmental reform.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/01/experts-on-election/">Expert voices shed light on impacts of election outcomes</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/01/experts-on-election/>
+
+---
+
+## It’s time for Gen Z to tackle the vote
+
+date: 2024-11-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>First-time voters consider their feelings and positions on the presidential election.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/01/first-time-voters/">It’s time for Gen Z to tackle the vote</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/01/first-time-voters/>
+
+---
+
+## Getting haunted by the ‘Spirits at Troy’
+
+date: 2024-11-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Attendees played carnival games, trick-or-treated and were able to pet puppies.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/01/getting-haunted-by-the-spirits-at-troy/">Getting haunted by the ‘Spirits at Troy’</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/01/getting-haunted-by-the-spirits-at-troy/>
+
+---
+
+## Get to know congressional, city council candidates
+
+date: 2024-11-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The districts representing USC’s campuses will elect new candidates this year.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/01/congressional-city-council-candidates/">Get to know congressional, city council candidates</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/01/congressional-city-council-candidates/>
+
+---
+
+## Fresh Out
+
+date: 2024-11-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2024/11/01/cartoon-fresh-out/">Fresh Out</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/01/cartoon-fresh-out/>
+
+---
+
+## DataRes offers opportunity to build data science skills, find supportive community
+
+date: 2024-11-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+DataRes, UCLA’s largest student data science organization, facilitates professional project experience while nurturing a caring community.
+Upon joining DataRes, members are organized into five data-related branches, which run workshops, blogs, research, consulting and teaching at local schools, according to the DataRes website. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/31/datares-offers-opportunity-to-build-data-science-skills-find-supportive-community/>
+
+---
+
+## Measures US, LL propose funding, redistrict changes for LA Unified School District
+
+date: 2024-11-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+Westwood residents will vote on two referenda impacting the Los Angeles Unified School Board in November&#8217;s election.
+One of the initiatives &#8211; Measure US &#8211; would authorize a $9 billion bond to fund technology, repair and construction projects, with the bond being repaid by a tax on homeowners. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/31/measures-us-ll-propose-funding-redistrict-changes-for-la-unified-school-district/>
+
+---
+
+## New communication Fiat Lux course examines voting amid ongoing election
+
+date: 2024-11-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+As the 2024 presidential election nears, a small group of students gathers in Royce Hall to examine voter turnout.
+Communication 19: &#8220;Voter Participation and Engagement in 2024 Election&#8221; &#8211; a discussion-based Fiat Lux class offered for the first time this quarter &#8211; covers factors influencing voter registration, citizen engagement and polarization in the United States, said Georgia Kernell, the class&#8217;s instructor and a former member of the ASUCLA Communications Board, which publishes the Daily Bruin. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/31/new-communication-fiat-lux-course-examines-voting-amid-ongoing-election/>
+
+---
+
+## ‘Bar Harbor Scares’ the SCV with haunted, family-friendly fun
+
+date: 2024-11-01, from: The Canyon News (COC Student Newspaper)
+
+<p>Halloween is today, and while most people decorate their houses in the&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/bar-harbor-scares/">&#8216;Bar Harbor Scares&#8217; the SCV with haunted, family-friendly fun</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/bar-harbor-scares/>
+
+---
+
+## UCLA film series reflects on cultural impact of Giant Robot magazine 30 years on
+
+date: 2024-11-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 31 at 8:09 p.m.</em>
+With punk rock, Japanese candy and underground filmmakers, Giant Robot changed the world one zine at a time. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/31/ucla-film-series-reflects-on-cultural-impact-of-giant-robot-magazine-30-years-on/>
+
+---
+
+## Editorial Cartoon: “When You Go to Class to Lock In”
+
+date: 2024-10-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2024/10/31/editorial-cartoon-when-you-go-to-class-to-lock-in/>
+
+---
+
+## Editorial Cartoon: “Trick or Treating in the Dining Halls”
+
+date: 2024-10-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2024/10/31/editorial-cartoon-trick-or-treating-in-the-dining-halls/>
+
+---
+
+## Alumnus’s dance company probes surveillance through choreographing the unseen
+
+date: 2024-10-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 31 at 8:23 p.m.</em>
+This fall, an alumnus’s dance company is exploring what remains unseen.
+Heidi Duckler Dance will hold its performance of “What Remains Un/Seen” at the Wende Museum on Saturday, with the free showcase inspired by the museum’s ongoing “Counter/Surveillance: Control, Privacy, Agency” exhibition. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/31/alumnuss-dance-company-probes-surveillance-through-choreographing-the-unseen/>
+
+---
+
+## UC service, patient care workers under AFSCME Local 2399 vote to authorize strike
+
+date: 2024-10-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 31 at 10:31 p.m.</em>
+The American Federation of State, County and Municipal Employees Local 3299 announced Thursday that members voted to authorize a strike. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/31/uc-service-patient-care-workers-under-afscme-local-2399-vote-to-authorize-strike/>
+
+---
+
+## Happy Halloween! Quick facts and tips for all CSUN boils and ghouls
+
+date: 2024-10-31, from: The Sundail (CSUN Student Newspaper)
+
+Candy, costumes, haunted houses, ghosts and monsters are a few things associated with Halloween, but when did all that begin? According to History, Halloween originated with the ancient Celtic festival... 
+
+<br> 
+
+<https://sundial.csun.edu/187041/arts-entertainment/happy-halloween-quick-facts-and-tips-for-all-csun-boils-and-ghouls/>
+
+---
+
+## CSUN launches disability studies minor with a keynote address by Lydia X.Z. Brown
+
+date: 2024-10-31, from: The Sundail (CSUN Student Newspaper)
+
+CSUN’s College of Humanities celebrated the launch of its new Disability Studies minor by hosting attorney, disability rights activist, and Autistic People of Color Fund founder Xinzhen Zh&#462;ngsun (Lydia X.... 
+
+<br> 
+
+<https://sundial.csun.edu/187034/news/csun-launches-disability-studies-minor-with-a-keynote-address-by-lydia-x-z-brown/>
+
+---
+
+## Why criminal courts are still a black box for data journalists
+
+date: 2024-10-31, from: Nieman Journalism Lab
+
+Testify, The Marshall Project’s investigation into Cuyahoga County criminal courts, started with a tip. Back in 2021, a data set pulled from the county’s records system landed on the desk of reporters at The Washington Post. The source had collected years’ worth of criminal dockets for Cleveland, Ohio. “It was a little too local for... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/10/why-criminal-courts-are-still-a-black-box-for-data-journalists/>
+
+---
+
+## A deeper look into why low-income student housing was halted
+
+date: 2024-10-31, from: The Canyon News (COC Student Newspaper)
+
+<p>COC&#8217;s Student Housing project meant to help low-income students in Lot 6,&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/a-deeper-look-into-why-low-income-student-housing-was-halted/">A deeper look into why low-income student housing was halted</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/a-deeper-look-into-why-low-income-student-housing-was-halted/>
 
 ---
 
@@ -143,8 +513,8 @@ date: 2024-10-31, from: The Daily Bruin (UCLA Student Newspaper)
 
 date: 2024-10-31, from: The Daily Bruin (UCLA Student Newspaper)
 
-California voters will vote on guaranteeing the right to same-sex marriage in the state constitution this November.
-If passed, Proposition 3 would effectively repeal Proposition 8 &#8211; which defined marriage as between a man and a woman in the California Constitution when it was passed in 2008. 
+<em>This post was updated Oct. 31 at 10:40 p.m.</em>
+California voters will vote on guaranteeing the right to same-sex marriage in the state constitution this November. 
 
 <br> 
 
@@ -156,8 +526,8 @@ If passed, Proposition 3 would effectively repeal Proposition 8 &#8211; which de
 
 date: 2024-10-31, from: The Daily Bruin (UCLA Student Newspaper)
 
-The crowd was anything but barren when listening to Forrest Gander read his work about life in a desert.
-Gander, an author and an emeritus chancellor for the Academy of American Poets, read excerpts from his latest book &#8220;Mojave Ghost&#8221; at the Hammer Museum on Tuesday. 
+<em>This post was updated Oct. 31 at 8:19 p.m.</em>
+The crowd was anything but barren when listening to Forrest Gander read his work about life in a desert. 
 
 <br> 
 
@@ -437,7 +807,7 @@ Listen to series host and podcast contributor Megan Vahdat sit down with the dir
 
 date: 2024-10-30, from: The Sundail (CSUN Student Newspaper)
 
-“Critical Race Theory, Ethnic Studies, and the Criminal Legal System: A Conversation on Justice with Black Public Defenders” is a panel that aims to expose students to issues of mass... 
+With the election nearing, public defenders Ericka J. Wiley and George A. Turner Jr. led a panel discussion at CSUN on Oct. 21, addressing issues of race in the criminal... 
 
 <br> 
 

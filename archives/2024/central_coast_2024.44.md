@@ -1,11 +1,184 @@
 ---
 title: central coast
-updated: 2024-10-31 06:26:57
+updated: 2024-11-01 10:26:12
 ---
 
 # central coast
 
-(date: 2024-10-31 06:26:57)
+(date: 2024-11-01 10:26:12)
+
+---
+
+## Chumash Car Show Works to End Violence Against Indigenous Women
+
+date: 2024-11-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Ynez Band of Chumash Indians will host the first Wheels and Wansaqs Car Show, 9 a.m.-3 p.m., Saturday, Nov. 2 in the Tribal Hall parking lot on the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/chumash-car-show-works-to-end-violence-against-indigenous-women/">Chumash Car Show Works to End Violence Against Indigenous Women</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/chumash-car-show-works-to-end-violence-against-indigenous-women/>
+
+---
+
+## Santa Maria Philharmonic Goes Baroque for the Holidays
+
+date: 2024-11-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Maria Philharmonic Orchestra and Maestro Michael Nowak welcome the community to a seasonal celebration of the Baroque eras’ greatest composers in Baroque Elegance, 7:30 p.m. Friday, Dec. 6 [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-maria-philharmonic-goes-baroque-for-the-holidays/">Santa Maria Philharmonic Goes Baroque for the Holidays</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/santa-maria-philharmonic-goes-baroque-for-the-holidays/>
+
+---
+
+## Benefit Art Festival Takes in $145,000 for Unite to Light
+
+date: 2024-11-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Unite to Light’s third annual Unite to Light the Night art festival and fundraiser brought in more than $145,000 to further the organization’s mission of providing solar light and power [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/benefit-art-festival-takes-in-145000-for-unite-to-light/">Benefit Art Festival Takes in $145,000 for Unite to Light</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/benefit-art-festival-takes-in-145000-for-unite-to-light/>
+
+---
+
+## Bill Macfadyen: In Street Food Fight, Local Restaurants Say Illegal Vendors Are Cooking Up Trouble
+
+date: 2024-11-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1-102524-food-vendor-city-of-sb-courtesy-1-topaz-enhance-2.5x-scaled-1.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Why are these things proliferating like they’re street-legal?" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1-102524-food-vendor-city-of-sb-courtesy-1-topaz-enhance-2.5x-scaled-1.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1-102524-food-vendor-city-of-sb-courtesy-1-topaz-enhance-2.5x-scaled-1.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1-102524-food-vendor-city-of-sb-courtesy-1-topaz-enhance-2.5x-scaled-1.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1-102524-food-vendor-city-of-sb-courtesy-1-topaz-enhance-2.5x-scaled-1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1-102524-food-vendor-city-of-sb-courtesy-1-topaz-enhance-2.5x-scaled-1.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1-102524-food-vendor-city-of-sb-courtesy-1-topaz-enhance-2.5x-scaled-1.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1-102524-food-vendor-city-of-sb-courtesy-1-topaz-enhance-2.5x-scaled-1.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1-102524-food-vendor-city-of-sb-courtesy-1-topaz-enhance-2.5x-scaled-1.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1-102524-food-vendor-city-of-sb-courtesy-1-topaz-enhance-2.5x-scaled-1.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1-102524-food-vendor-city-of-sb-courtesy-1-topaz-enhance-2.5x-scaled-1.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1-102524-food-vendor-city-of-sb-courtesy-1-topaz-enhance-2.5x-scaled-1.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1-102524-food-vendor-city-of-sb-courtesy-1-topaz-enhance-2.5x-scaled-1.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>I’m still basking in the euphoria of the Los Angeles Dodgers’ WORLD CHAMPIONSHIP, and I’m not gonna lie: It’ll last for a long while. In spite of my previously mentioned [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/bill-macfadyen-in-street-food-fight-local-restaurants-say-illegal-vendors-are-cooking-up-trouble/">Bill Macfadyen: In Street Food Fight, Local Restaurants Say Illegal Vendors Are Cooking Up Trouble</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/bill-macfadyen-in-street-food-fight-local-restaurants-say-illegal-vendors-are-cooking-up-trouble/>
+
+---
+
+## Sun Valley Visitor
+
+date: 2024-11-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101224-POD-Linda-Stirling.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Fall visitor in Sun Valley, Idaho." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101224-POD-Linda-Stirling.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101224-POD-Linda-Stirling.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101224-POD-Linda-Stirling.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101224-POD-Linda-Stirling.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101224-POD-Linda-Stirling.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101224-POD-Linda-Stirling.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101224-POD-Linda-Stirling.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101224-POD-Linda-Stirling.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101224-POD-Linda-Stirling.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101224-POD-Linda-Stirling.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101224-POD-Linda-Stirling.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101224-POD-Linda-Stirling.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/sun-valley-visitor/">Sun Valley Visitor</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/sun-valley-visitor/>
+
+---
+
+## BizHawk: La Cantina Brings Mexican Cuisine to Santa Barbara’s Turnpike Center
+
+date: 2024-11-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/103124-BizHawk-La-Cantina-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="La Cantina has opened in the Turnpike Shopping Center. It&#039;s the latest restaurant from Chris Chiarappa." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/103124-BizHawk-La-Cantina-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/103124-BizHawk-La-Cantina-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/103124-BizHawk-La-Cantina-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/103124-BizHawk-La-Cantina-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/103124-BizHawk-La-Cantina-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/103124-BizHawk-La-Cantina-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/103124-BizHawk-La-Cantina-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/103124-BizHawk-La-Cantina-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/103124-BizHawk-La-Cantina-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Turnpike Shopping Center in Santa Barbara is home to yet another new business — this time, La Cantina. It&#8217;s the latest business endeavor from Chris Chiarappa, who opened the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/bizhawk-la-cantina-mexican-eatery-opens-in-turnpike-shopping-center/">BizHawk: La Cantina Brings Mexican Cuisine to Santa Barbara&#8217;s Turnpike Center</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/bizhawk-la-cantina-mexican-eatery-opens-in-turnpike-shopping-center/>
+
+---
+
+## Montecito Review Board Postpones Final Approval of Biltmore Resort Project
+
+date: 2024-11-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/103124-biltmore-1-RC.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A planned residential and retail project at the Four Seasons Resort The Biltmore Santa Barbara is scheduled to go back before the Montecito Board of Architectural Review for final approval on Nov. 14." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/103124-biltmore-1-RC.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/103124-biltmore-1-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/103124-biltmore-1-RC.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/103124-biltmore-1-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/103124-biltmore-1-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/103124-biltmore-1-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/103124-biltmore-1-RC.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/103124-biltmore-1-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/103124-biltmore-1-RC.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A Montecito review board delayed final approval of the Four Seasons Resort The Biltmore Santa Barbara project Thursday, asking for more information before making a decision. After receiving preliminary design [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/montecito-review-board-postpones-final-approval-of-biltmore-project/">Montecito Review Board Postpones Final Approval of Biltmore Resort Project</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/montecito-review-board-postpones-final-approval-of-biltmore-project/>
+
+---
+
+## Setting Screen Time Boundaries: A Guide to Healthier Digital Habits for Kids
+
+date: 2024-10-31, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/BS-screen-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Student doing work on a laptop" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/BS-screen-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/BS-screen-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/BS-screen-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/BS-screen-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/BS-screen-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/BS-screen-scaled.jpeg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/BS-screen-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/BS-screen-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/BS-screen-scaled.jpeg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/BS-screen-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/BS-screen-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/BS-screen-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Mayo Clinic says there are numerous benefits to reducing screen time, including improved physical health, decreased obesity and more time for kids to play and explore the world around them</p>
+<p>The post <a href="https://www.noozhawk.com/setting-screen-time-boundaries-a-guide-to-healthier-digital-habits-for-kids/">Setting Screen Time Boundaries: A Guide to Healthier Digital Habits for Kids</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/setting-screen-time-boundaries-a-guide-to-healthier-digital-habits-for-kids/>
+
+---
+
+## Eating Well at Every Age: A Guide to Women’s Nutritional Needs
+
+date: 2024-10-31, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="751" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/food-scaled.jpeg?fit=1024%2C751&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Woman with fitball eating a healthy meal" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/food-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/food-scaled.jpeg?resize=300%2C220&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/food-scaled.jpeg?resize=1024%2C751&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/food-scaled.jpeg?resize=768%2C563&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/food-scaled.jpeg?resize=1536%2C1127&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/food-scaled.jpeg?resize=2048%2C1502&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/food-scaled.jpeg?resize=1200%2C880&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/food-scaled.jpeg?resize=1568%2C1150&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/food-scaled.jpeg?resize=2000%2C1467&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/food-scaled.jpeg?resize=400%2C293&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/food-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/food-scaled.jpeg?fit=1024%2C751&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Proper nutrition is essential for women’s health at every stage of life</p>
+<p>The post <a href="https://www.noozhawk.com/eating-well-at-every-age-a-guide-to-womens-nutritional-needs/">Eating Well at Every Age: A Guide to Women’s Nutritional Needs</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/eating-well-at-every-age-a-guide-to-womens-nutritional-needs/>
+
+---
+
+## Erika Endrijonas: Set Sail With SBCC and a Yes for Measure P
+
+date: 2024-10-31, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>It has been 15 months since I started at Santa Barbara City College (SBCC), and as any leader does in their first year, I took stock of the campus that [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/erika-endrijonas-set-sail-with-sbcc-and-a-yes-for-measure-p/">Erika Endrijonas: Set Sail With SBCC and a Yes for Measure P</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/erika-endrijonas-set-sail-with-sbcc-and-a-yes-for-measure-p/>
+
+---
+
+## United Way Launches Brighter Futures Childcare Fund
+
+date: 2024-10-31, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>United Way of Santa Barbara County has initiated the Brighter Futures Childcare Fund, a centralized fund for parents and caregivers, local employers, and childcare providers to access financial resources to [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/united-way-launches-brighter-futures-childcare-fund/">United Way Launches Brighter Futures Childcare Fund</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/united-way-launches-brighter-futures-childcare-fund/>
+
+---
+
+## Author to Discuss Her Debut Novel Set in 1970s Nigeria
+
+date: 2024-10-31, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Chaucer&#8217;s will host Afabwaje Kurian for an in-store book talk and signing of her new release “Before the Mango Ripens,” 6 p.m. Nov. 18 at the bookstore. Joining the author in [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/author-to-discuss-her-debut-novel-set-in-1970s-nigeria/">Author to Discuss Her Debut Novel Set in 1970s Nigeria</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/author-to-discuss-her-debut-novel-set-in-1970s-nigeria/>
 
 ---
 
@@ -13,7 +186,7 @@ updated: 2024-10-31 06:26:57
 
 date: 2024-10-31, from: Newshawk, the freshest news in Santa Barbara County
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-POD-Lisa-Werner.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Shadows while trick or treating in Santa Barbara’s Funk Zone." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-POD-Lisa-Werner.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-POD-Lisa-Werner.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-POD-Lisa-Werner.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-POD-Lisa-Werner.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-POD-Lisa-Werner.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-POD-Lisa-Werner.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-POD-Lisa-Werner.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-POD-Lisa-Werner.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-POD-Lisa-Werner.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-POD-Lisa-Werner.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-POD-Lisa-Werner.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-POD-Lisa-Werner.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-POD-Lisa-Werner.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Shadows while trick or treating in Santa Barbara’s Funk Zone." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-POD-Lisa-Werner.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-POD-Lisa-Werner.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-POD-Lisa-Werner.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-POD-Lisa-Werner.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-POD-Lisa-Werner.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-POD-Lisa-Werner.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-POD-Lisa-Werner.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-POD-Lisa-Werner.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-POD-Lisa-Werner.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-POD-Lisa-Werner.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-POD-Lisa-Werner.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102224-POD-Lisa-Werner.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The post <a href="https://www.noozhawk.com/trick-or-treating-silhouettes/">Trick or Treating Silhouettes</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
  
 

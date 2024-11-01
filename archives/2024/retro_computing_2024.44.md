@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2024-10-31 06:26:59
+updated: 2024-11-01 10:26:14
 ---
 
 # retro computing
 
-(date: 2024-10-31 06:26:59)
+(date: 2024-11-01 10:26:14)
+
+---
+
+## Expanding the MC6847: Deciphering Fonts
+
+date: 2024-11-01, from: Retro Innovations blog
+
+Searching for Information As I was trying to decipher how to leverage an external character font ROM with the MC6847, I searched for existing project/products in this space. My web searches first found Ed Snider&#8217;s (Zippster of ZippsterZone) reproduction of the Green Mountain Micro (GMM) &#8220;lowerkit&#8221; product from &#8220;back in the day&#8221;. Ed shared a &#8230; <a href="https://www.go4retro.com/2024/10/31/expanding-the-mc6847-deciphering-fonts/" class="more-link">Continue reading <span class="screen-reader-text">Expanding the MC6847: Deciphering Fonts</span></a> 
+
+<br> 
+
+<https://www.go4retro.com/2024/10/31/expanding-the-mc6847-deciphering-fonts/>
+
+---
+
+## Dipco's Easy Reader
+
+date: 2024-11-01, from: Computer ads from the Past
+
+"Sight for Sore Eyes" 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/dipcos-easy-reader>
 
 ---
 
@@ -49,7 +73,7 @@ date: 2024-10-30, from: Computer ads from the Past
 
 date: 2024-10-30, from: Retro Innovations blog
 
-Understanding lowercase functionality on the Motorola MC6847 Video Display Generator (VDG) I&#8217;ll be honest, I rarely use lowercase characters on any of the classic computers I use. Back in the day, of course, I needed them when writing posts on BBS systems, composing school papers, and writing general correspondence (my handwriting was never great). Still, &#8230; <a href="https://www.go4retro.com/2024/10/29/how-low-can-you-go-2/" class="more-link">Continue reading <span class="screen-reader-text">How Low Can You Go?</span></a> 
+Understanding external character ROM functionality on the Motorola MC6847 Video Display Generator (VDG) I&#8217;ll be honest, I rarely use lowercase characters on any of the classic computers I use. Back in the day, of course, I needed them when writing posts on BBS systems, composing school papers, and writing general correspondence (my handwriting was never &#8230; <a href="https://www.go4retro.com/2024/10/29/how-low-can-you-go-2/" class="more-link">Continue reading <span class="screen-reader-text">How Low Can You Go?</span></a> 
 
 <br> 
 

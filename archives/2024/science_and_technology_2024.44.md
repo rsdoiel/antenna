@@ -1,11 +1,527 @@
 ---
 title: science and technology
-updated: 2024-10-31 06:26:57
+updated: 2024-11-01 10:26:12
 ---
 
 # science and technology
 
-(date: 2024-10-31 06:26:57)
+(date: 2024-11-01 10:26:12)
+
+---
+
+## GCC 15 to keep Itanium support for now, after all
+
+date: 2024-11-01, updated: 2024-11-01, from: The Register (UK I.T. News)
+
+<h4>Now, can someone come up with an emulator for the things, please?</h4> <p>Good news, everyone – well, everyone who&#39;s still onboard the Itanic, anyway. GCC 15 will de-deprecate Linux support for Intel&#39;s original 64-bit chip.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/01/gcc_15_keep_itanium_support/>
+
+---
+
+## This Ancient Paw Print on a Pottery Fragment in Jerusalem Is the Oldest Known Evidence of a Cat Kneading
+
+date: 2024-11-01, from: Smithsonian Magazine
+
+The deep penetrations suggest that the feline was pressing its claws into the clay, a behavior sometimes known as "making biscuits" 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/this-ancient-paw-print-on-a-pottery-fragment-in-jerusalem-is-the-oldest-known-evidence-of-a-cat-kneading-180985360/>
+
+---
+
+## NASA Ames Recognizes Representative Eshoo for Her 32 Years of Service
+
+date: 2024-11-01, from: NASA breaking news
+
+On Oct. 29, NASA’s Ames Research Center in California’s Silicon Valley hosted a gathering to recognize Representative Anna G. Eshoo for her 32 years of distinguished public service and her enduring support for the agency. During the event, Dr. Eugene Tu, center director at Ames, presented the Congresswoman with the Pioneer plaque, a replica of [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasa-ames-recognizes-representative-eshoo-for-her-32-years-of-service/>
+
+---
+
+## I am Artemis: Lane Polak
+
+date: 2024-11-01, from: NASA breaking news
+
+Growing up, Lane Polak didn’t have much interest in space. Instead, he was busy writing stories, doodling, or riding his skateboard. He later dreamed of becoming an author but also considered stepping into the arena as an American Gladiator. After earning a degree in communications with a minor in English from the University of Alabama [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/i-am-artemis-lane-polak/>
+
+---
+
+## What’s Up: November 2024 Skywatching Tips from NASA
+
+date: 2024-11-01, from: NASA breaking news
+
+Planets visible in November: Saturn shines in the south most of the night, Jupiter rises in the early evening, while Mars is visible in the early morning sky. 
+
+<br> 
+
+<https://science.nasa.gov/solar-system/skywatching/whats-up-november-2024-skywatching-tips-from-nasa/>
+
+---
+
+## If Trump gets elected, get your tech buying done asap
+
+date: 2024-11-01, updated: 2024-11-01, from: The Register (UK I.T. News)
+
+<h4>60% tariffs on all Chinese goods are going to slam the IT sector</h4> <p>Tariffs have become a major issue in the current US election, with former president Donald Trump claiming his plans to put a 10-20 percent tax on imports, rising to 60 percent with China, would fill government coffers for tax cuts and make American manufacturing great again. His rival Kamala Harris called the plans a ‘sales tax on the American people.&#39;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/01/us_trump_tariff/>
+
+---
+
+## NASA’s SpaceX Crew-8 Astronauts to Discuss Science Mission
+
+date: 2024-11-01, from: NASA breaking news
+
+After spending 235 days in space, NASA’s SpaceX Crew-8 astronauts will discuss their science mission aboard the International Space Station during a post-flight news conference at 3:15 p.m. EST Friday, Nov. 8, from the agency’s Johnson Space Center in Houston. NASA astronauts Michael Barratt, Matthew Dominick, and Jeanette Epps will answer questions about their mission. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasas-spacex-crew-8-astronauts-to-discuss-science-mission/>
+
+---
+
+## Amazon to cough $75B on capex in 2024, more next year
+
+date: 2024-11-01, updated: 2024-11-01, from: The Register (UK I.T. News)
+
+<h4>Despite extending server lifespans, AI&#39;s power demands drive more datacenter builds</h4> <p>Amazon expects to spend $75 billion on capital expenditure in 2024 and even more in 2025 – mostly on its cloud computing business – due to rising demand for generative AI and as more customers ditch their on-premises workloads.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/01/amazon_75b_capex/>
+
+---
+
+## Math’s ‘Bunkbed Conjecture’ Has Been Debunked
+
+date: 2024-11-01, from: Quanta Magazine
+
+It was intuitive, even obvious. It was also wrong.             <p>The post <a href="https://www.quantamagazine.org/maths-bunkbed-conjecture-has-been-debunked-20241101/" target="_blank">Math’s ‘Bunkbed Conjecture’ Has Been Debunked</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/maths-bunkbed-conjecture-has-been-debunked-20241101/>
+
+---
+
+## NASA’s Hubble, Webb Probe Surprisingly Smooth Disk Around Vega
+
+date: 2024-11-01, from: NASA breaking news
+
+In the 1997 movie “Contact,” adapted from Carl Sagan’s 1985 novel, the lead character scientist Ellie Arroway (played by actor Jodi Foster) takes a space-alien-built wormhole ride to the star Vega. She emerges inside a snowstorm of debris encircling the star — but no obvious planets are visible. It looks like the filmmakers got it […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/nasas-hubble-webb-probe-surprisingly-smooth-disk-around-vega/>
+
+---
+
+## Contract Specialist Miranda Meyer
+
+date: 2024-11-01, from: NASA breaking news
+
+“Discipline is one of the things that they instill within you [in the military.] All the way starting in boot camp, [the goal] is doing the right thing when no one is looking. Integrity. &#8220;Whenever you&#8217;re in boot camp, they always say, ‘it&#8217;s too easy.’ It&#8217;s just too easy to follow the rules, read the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/contract-specialist-miranda-meyer/>
+
+---
+
+## NASA Offers Virtual Activities for 31st SpaceX Resupply Mission
+
+date: 2024-11-01, from: NASA breaking news
+
+NASA invites the public to participate in virtual activities ahead of the launch of SpaceX’s 31st commercial resupply services mission for the agency. NASA and SpaceX are targeting 9:29 p.m. EST Monday, Nov. 4, for the SpaceX Dragon spacecraft to launch on the company’s Falcon 9 rocket from Launch Complex 39A at NASA’s Kennedy Space [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/get-involved/virtual-guest-program/nasa-offers-virtual-activities-for-31st-spacex-resupply-mission/>
+
+---
+
+## Reaction Engines' hypersonic hopes stall as funding fizzles out
+
+date: 2024-11-01, updated: 2024-11-01, from: The Register (UK I.T. News)
+
+<h4>173 jobs gone after air-breathing rocket project loses lift</h4> <p><strong>Updated</strong>  Aerospace specialist Reaction Engines has gone into administration, potentially taking with it the dreams of hypersonic aircraft powered by its hybrid air-breathing rocket engine tech.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/01/reaction_engines_administration/>
+
+---
+
+## Pesto, Australia's Enormous, Beloved Baby Penguin, Is Growing Up and Losing His Downy Feathers
+
+date: 2024-11-01, from: Smithsonian Magazine
+
+The viral king penguin chick at Sea Life Melbourne Aquarium is beginning to molt, a process that will give him his distinctive adult plumage 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/pesto-australias-enormous-beloved-baby-penguin-is-growing-up-and-losing-his-downy-feathers-180985373/>
+
+---
+
+## UK councils bat away DDoS barrage from pro-Russia keyboard warriors
+
+date: 2024-11-01, updated: 2024-11-01, from: The Register (UK I.T. News)
+
+<h4>Local authority websites downed in response to renewed support for Ukraine</h4> <p>Multiple UK councils had their websites either knocked offline or were inaccessible to residents this week after pro-Russia cyber nuisances added them to a daily target list.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/01/uk_councils_russia_ddos/>
+
+---
+
+## November’s Night Sky Notes: Snowballs from Space
+
+date: 2024-11-01, from: NASA breaking news
+
+by Kat Troche of the Astronomical Society of the Pacific If you spotted comet C/2023 A3 (Tsuchinshan-ATLAS) in person, or seen photos online this October, you might have been inspired to learn more about these visitors from the outer Solar System. Get ready for the next comet and find out how comets are connected to […] 
+
+<br> 
+
+<https://science.nasa.gov/solar-system/comets/nov2024-night-sky-notes/>
+
+---
+
+## An awful lot of FOSS should thank the Academy
+
+date: 2024-11-01, updated: 2024-11-01, from: The Register (UK I.T. News)
+
+<h4>ASWF is the open source foundation run by the folks who give out Oscars, and you&#39;ve probably seen the results</h4> <p><strong>Ubuntu Summit 2024</strong>  One of the things we didn&#39;t expect to see at this year&#39;s Ubuntu get-together was a chart showing Rocky Linux&#39;s dominance. Another was demos of whizz-bang special movie effects with open source componentry at their heart.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/01/aswf_foss_oscars/>
+
+---
+
+## Microsoft just delayed Recall again
+
+date: 2024-11-01, from: OS News
+
+Another day, another Windows Recall problem. Microsoft is delaying the feature yet again, this time from October to December. “We are committed to delivering a secure and trusted experience with Recall. To ensure we deliver on these important updates, we’re taking additional time to refine the experience before previewing it with Windows Insiders,” says Brandon LeBlanc, senior product manager of Windows, in a statement to The Verge. &#8220;Originally planned for October, Recall will now be available for preview with Windows Insiders on Copilot Plus PCs by December.” ↫ Tom Warren at The Verge Making Recall secure, opt-in, and uninstallable is apparently taking more time than the company originally planned. When security, opt-in, and uninstallable are not keywords during your design and implementation process for new features, this is the ungodly mess that you end up with. This could&#8217;ve all been prevented if Microsoft wasn&#8217;t high on its own &#8220;AI&#8221; supply. 
+
+<br> 
+
+<https://www.osnews.com/story/141038/microsoft-just-delayed-recall-again/>
+
+---
+
+## Torvalds thinks “AI” is 90% marketing, and Google claims 25% of its code is “AI”-generated
+
+date: 2024-11-01, from: OS News
+
+Torvalds said that the current state of AI technology is 90 percent marketing and 10 percent factual reality. The developer, who won Finland&#8217;s Millennium Technology Prize for the creation of the Linux kernel, was interviewed during the Open Source Summit held in Vienna, where he had the chance to talk about both the open-source world and the latest technology trends. ↫ Alfonso Maruccia at Techspot Well, he&#8217;s not wrong. &#8220;AI&#8221; definitely feels like a bubble at the moment, and while there&#8217;s probably eventually going to be useful implementations people might actually want to actively use to produce quality content, most &#8220;AI&#8221; features today produce a stream of obviously fake diarrhea full of malformed hands, lies, and misinformation. Maybe we&#8217;ll eventually work out these serious kinks, but for now, it&#8217;s mostly just a gimmick providing us with an endless source of memes. Which is fun, but not exactly what we&#8217;re being sold, and not something worth destroying the planet for even faster. Meanwhile, Google is going utterly bananas with its use of &#8220;AI&#8221; inside the company, with Sundar Pichai claiming 25% of code inside Google is now &#8220;AI&#8221;-generated. ↫ Sundar Pichai We&#8217;re also using AI internally to improve our coding processes, which is boosting productivity and efficiency. Today, more than a quarter of all new code at Google is generated by AI, then reviewed and accepted by engineers. This helps our engineers do more and move faster. So much here feels wrong. First, who wants to bet those engineers care a whole lot less about the generated code than they do about code they write themselves? Second, who wants to bet that generated code is entirely undocumented? Third, who wants to bet what the additional costs will be a few years from now when the next batch of engineers tries to make sense of that undocumented generated code? Sure, Google might save a bit on engineers&#8217; salaries now, but how much extra will they have to spend to unspaghettify that diarrhea code in the future? It will be very interesting to keep an eye on this, and check back in, say, five years, and hear from the Google engineers of the future how much of their time is spent fixing undocumented &#8220;AI&#8221;-generated code. I can&#8217;t wait. 
+
+<br> 
+
+<https://www.osnews.com/story/141036/torvalds-thinks-ai-is-90-marketing-and-google-claims-25-of-its-code-is-ai-generated/>
+
+---
+
+## Hack Nintendo's alarm clock to show cat pics? Let's-a-go!
+
+date: 2024-11-01, updated: 2024-11-01, from: The Register (UK I.T. News)
+
+<h4>How &#39;Gary&#39; <s>defeated Bowser</s> broke into the interactive alarm clock</h4> <p>A hacker who uses the handle GaryOderNichts has found a way to break into Nintendo&#39;s recently launched Alarmo clock, and run code on the device.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/01/hack_nintendos_alarmo/>
+
+---
+
+## Hide the keyboard – it's the only way to keep this software running
+
+date: 2024-11-01, updated: 2024-11-01, from: The Register (UK I.T. News)
+
+<h4>Lunch can be surprisingly dangerous. So can tea</h4> <p><strong>On Call</strong>  By the time Friday rolls around, <i>The Register</i> understands readers might just want to toss the rest of the working week away without a care for the consequences. That sense of ennui is why we ease you into the last day of the working week with a new instalment of On Call, the reader-contributed column that celebrates the sometimes-silly side of working in tech support.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/01/on_call/>
+
+---
+
+## Apple beats expectations, but drops in China
+
+date: 2024-11-01, updated: 2024-11-01, from: The Register (UK I.T. News)
+
+<h4>India saw an all-time revenue record and is poised for four more physical stores</h4> <p>Apple released its fourth quarter results for FY 2024 on Thursday, revealing that its sales in China were starting to slide and hinting at market saturation in the face of competition from domestic players like Huawei and Xiaomi.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/01/apple_q4_24_apac/>
+
+---
+
+## Sols 4350-4351: A Whole Team Effort
+
+date: 2024-11-01, from: NASA breaking news
+
+Earth planning date: Wednesday, Oct. 30, 2024 Just like you and me, the Curiosity rover has a few idiosyncratic tendencies — special ways that the rover behaves that we, the team on Earth, have come to understand to be harmless but still throw a curveball to our planning.  Unfortunately, the set of activities that were […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4350-4351-a-whole-team-effort/>
+
+---
+
+## Japan's space agency to build a digital twin of its ISS module – right before it retires
+
+date: 2024-11-01, updated: 2024-11-01, from: The Register (UK I.T. News)
+
+<h4>It&#39;s the space economy, stupid</h4> <p>Japan&#39;s space agency announced on Thursday it is making an open source digital copy of its International Space Station (ISS) module, in what it is calling the world&#39;s first &#34;Space Digital Twin.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/01/jaxa_iss_digital_twin/>
+
+---
+
+## Intel losses hit $16.6B in Q3 and Wall Street is … loving it?
+
+date: 2024-11-01, updated: 2024-11-01, from: The Register (UK I.T. News)
+
+<h4>Improving revenue outlook has Chipzilla&#39;s shares back on a positive trajectory – for the moment anyway.</h4> <p>Intel posted a $16.6 billion loss in the third quarter – the largest in the silicon veteran&#39;s history – as it booked more than $18 billion in restructuring and impairment related charges.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/01/intel_q3_2024/>
+
+---
+
+## Gang gobbles 15K credentials from cloud and email providers' garbage Git configs
+
+date: 2024-10-31, updated: 2024-11-01, from: The Register (UK I.T. News)
+
+<h4>Emeraldwhale looked sharp – until it made a common S3 bucket mistake</h4> <p>A criminal operation dubbed Emeraldwhale has been discovered after it dumped more than 15,000 credentials belonging to cloud service and email providers in an open AWS S3 bucket, according to security researchers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/31/emeraldwhale_credential_theft/>
+
+---
+
+## Dropbox to shed another 500 staff, CEO takes 'full responsibility'
+
+date: 2024-10-31, updated: 2024-10-31, from: The Register (UK I.T. News)
+
+<h4>Cloudy concern has also spent over $500M buying back its own shares amid multiple rounds of layoffs</h4> <p>Cloudy file-shifter Dropbox has axed about 20 percent of its staff, its second round of layoffs in less than two years.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/31/dropbox_layoffs/>
+
+---
+
+## International SWOT Satellite Spots Planet-Rumbling Greenland Tsunami
+
+date: 2024-10-31, from: NASA breaking news
+
+Data from space shows water tilting up toward the north side of the Dickson Fjord as it sloshed from south to north and back every 90 seconds for nine days after a 2023 rockslide. The international Surface Water and Ocean Topography (SWOT) satellite mission, a collaboration between NASA and France’s CNES (Centre National d’Études Spatiales), [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/swot/international-swot-satellite-spots-planet-rumbling-greenland-tsunami/>
+
+---
+
+## Windows 10 given an extra year of supported life, for $30
+
+date: 2024-10-31, updated: 2024-11-01, from: The Register (UK I.T. News)
+
+<h4>MIcrosoft extends its Extended Security Updates club to consumers, at last</h4> <p>Microsoft has thrown a lifeline to Windows 10 users ahead of the OS going end-of-life, by offering an extra year of patches for $30.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/31/microsoft_windows_10_support/>
+
+---
+
+## GNOME and KDE working on end user-focused “official” Linux distributions, not entirely without risks
+
+date: 2024-10-31, from: OS News
+
+It seems the GNOME team is getting quite serious about turning GNOME OS into an end-user focused Linux distribution, similar to a project KDE is working on. GNOME OS is GNOME’s development, testing, and QA distribution. It’s not designed to be useful as a general-purpose system, and so it hasn’t been the center of attention. However, that makes it a convenient place to experiment, and ultimately through sheer coincidence the GNOME OS team ended up developing something that follows my vision using the same technology that I was. The only&#160;real&#160;difference was intent: carbonOS was intended for mass adoption, and GNOME OS was not. In essentially every other aspect, the projects had the same roadmap: following Lennart Poettering’s&#160;“Fitting Everything Together”&#160;proposal, providing a stock GNOME experience, and even using the same build system (BuildStream). ↫ Adrian Vovk The goal with GNOME OS is to showcase the best GNOME has to offer, built on top of an immutable base system, using Flatpak as the means to install applications. Basically, we&#8217;re looking at something very similar to the immutable Fedora GNOME variant, but probably with even less modifications to stock GNOME, and perhaps with few more newer things as default, like perhaps systemd-boot over GRUB. KDE also happens to be working on a very similar project, with many of the same design choices and constraints. I think this is an excellent idea, for both GNOME and KDE. This allows them to offer users a very focused, simple, and resilient way of showcasing the latest and greatest the two desktop environments have to offer, without having to rely on third-party distributions to not make silly choices or mess things up &#8211; for which GNOME and KDE developers then tend to take the heat. Systems like these will, of course, also be a great way for developers to quickly spin up the latest stock versions of GNOME and KDE to test their applications. Still, there&#8217;s also a downside to having official GNOME and KDE distributions. If users find bugs or issues in these desktop environment when running other distributions, like Fedora or Ubuntu, GNOME and KDE developers may be tempted to just shrug them off and point them to the official GNOME and KDE distributions. It works there, so obviously the cause of the bug lies with the unofficial distribution, right? This may be a tempting conclusion, but may not be accurate at all, as the real cause could still lie with GNOME and KDE. Once such &#8220;official&#8221; GNOME and KDE Linux distributions exist, the projects run a real risk of only really caring about how well GNOME and KDE work there, while not caring as much, or even at all, how well they run everywhere else. I&#8217;m not sure how they intend to prevent this from happening, but from here, I can already see the drama erupting. I hope this is something they take into consideration. Immutable distributions are not for me, since I prefer the control regular Fedora and RPM gives me, and I don&#8217;t want to give that up. It also doesn&#8217;t help I really, really don&#8217;t like Flatpak as it exists today, which is another major barrier to entry for someone like me, and I assume most OSNews readers. However, there are countless Linux users out there who just want to get stuff done with whatever defaults come with their operating system, and for them, this newly proposed GNOME OS and its KDE counterpart are a great choice. There&#8217;s a reason Valve opted for an Arch-based immutable KDE distribution for the Steam Deck, after all. 
+
+<br> 
+
+<https://www.osnews.com/story/141031/gnome-and-kde-working-on-end-user-focused-official-linux-distributions-not-entirely-without-risks/>
+
+---
+
+## Scientists Reveal Rare 450-Million-Year-Old Arthropod Fossil Preserved in Glittering Fool’s Gold
+
+date: 2024-10-31, from: Smithsonian Magazine
+
+The critter found in New York represents a new, extinct species of arthropod that could shed light on the evolution of today's insects, crustaceans and spiders 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/scientists-reveal-rare-450-million-year-old-arthropod-fossil-preserved-in-glittering-fools-gold-180985369/>
+
+---
+
+## Microsoft accused of 'greenwashing' as AI used in fossil fuel exploration
+
+date: 2024-10-31, updated: 2024-10-31, from: The Register (UK I.T. News)
+
+<h4>Activists press Redmond to come clean on ‘material reputational, legal, and operational risks’</h4> <p>Microsoft shareholders may be exposed to the &#34;material financial risks&#34; from its links with the fossil fuel industry, which the megacorp identified as the top growth target for its AI and cloud computing services.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/31/microsoft_greenwashing_ai/>
+
+---
+
+## The Nation's Oldest Schoolhouse for Black Children Will Open to the Public Next Year
+
+date: 2024-10-31, from: Smithsonian Magazine
+
+Work is underway to restore the Bray School, which will be dedicated in a ceremony on Friday. The historic building in Colonial Williamsburg will open its doors in the spring of 2025 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-nations-oldest-schoolhouse-for-black-children-will-open-to-the-public-next-year-180985368/>
+
+---
+
+## Scientists Unearth the Oldest Tadpole Fossil Ever Found, and It's a 161-Million-Year-Old 'Giant'
+
+date: 2024-10-31, from: Smithsonian Magazine
+
+Found in a rock in Argentina, the six-inch-long tadpole sheds light on the history of frog metamorphosis 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/scientists-unearth-the-oldest-tadpole-fossil-ever-found-and-its-a-161-million-year-old-giant-180985371/>
+
+---
+
+## Amazon adds MFA to its enterprise email service ... eight years after launch
+
+date: 2024-10-31, updated: 2024-10-31, from: The Register (UK I.T. News)
+
+<h4>No rush, guys</h4> <p>Amazon&#39;s cloud-hosted email service for enterprises now offers multifactor authentication, which is great, except that the service launched nearly a decade ago. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/31/amazon_mfa_workmail/>
+
+---
+
+## The 'Super Bowl of Wildlife Art' Is All About Ducks, and It Has Protected America's Wetlands for 90 Years
+
+date: 2024-10-31, from: Smithsonian Magazine
+
+Introduced in 1934, the federal duck stamp contest has raised more than $1.2 billion and protected at least 6.5 million acres across the nation. Now, an art exhibition at Connecticut’s Bruce Museum honors the competition’s history 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-super-bowl-of-wildlife-art-is-all-about-ducks-and-it-has-protected-americas-wetlands-for-90-years-180985345/>
+
+---
+
+## Uncle Sam lays out plans for $825M EUV R&amp;D site in New York
+
+date: 2024-10-31, updated: 2024-10-31, from: The Register (UK I.T. News)
+
+<h4>Given the cost of EUV litho machines, the Netherlands&#39; ASML might be the real winner here</h4> <p>The Biden administration on Thursday announced plans to invest $825 million in US CHIPS and Science Act funding to establish a semiconductor research and development center in Albany, New York.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/31/uncle_sam_lays_out_plans/>
+
+---
+
+## Divers Recover 300-Year-Old Glass Onion Bottles From a Shipwreck Off the Coast of Florida
+
+date: 2024-10-31, from: Smithsonian Magazine
+
+The fragile 18th-century containers, which likely held alcoholic beverages that were shared among passengers and crew members, survived for centuries at the bottom of the Atlantic Ocean 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/divers-recover-300-year-old-glass-onion-bottles-from-a-shipwreck-off-the-coast-of-florida-180985358/>
+
+---
+
+## Samsung blames 'one-off costs' as Q3 chip profits plummet 40%
+
+date: 2024-10-31, updated: 2024-10-31, from: The Register (UK I.T. News)
+
+<h4>Unexpected expenses in semiconductor division overshadow revenue gains</h4> <p>Samsung Electronics is blaming a quarter-on-quarter plunge in operating profits in its chips division on costs incurred, and says it intends to focus on &#34;high value-added products&#34; for the rest of 2024.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/31/samsung_q3_2024/>
+
+---
+
+## Geologists Finally Explain New Jersey's Strange Earthquake That Rocked the Northeast in April
+
+date: 2024-10-31, from: Smithsonian Magazine
+
+A new study suggests the seismic energy traveled outward from a previously unmapped fault, emanating from the hypocenter in bouncing waves that shook distant areas 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/geologists-finally-explain-new-jerseys-strange-earthquake-that-rocked-the-northeast-in-april-180985361/>
+
+---
+
+## VMware by Broadcom lifts storage allowances and prices for vSphere Foundation
+
+date: 2024-10-31, updated: 2024-10-31, from: The Register (UK I.T. News)
+
+<h4>This will both ease and exacerbate price concerns and competitive sniping</h4> <p>VMware by Broadcom has upped the storage capacity allowed under licenses for its vSphere Foundation bundle – a move that addresses competitors&#39; attacks, but may also give them new impetus.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/31/vmware_vsphere_foundation_standard_changes/>
+
+---
+
+## We know what Musk will probably dress up as this year: A victim
+
+date: 2024-10-31, updated: 2024-10-31, from: The Register (UK I.T. News)
+
+<h4>Mr X ordered to show at Halloween hearing over election lottery as his lawyers file docs to dodge it</h4> <p><strong>Updated</strong>  Elon Musk has been ordered to attend a Halloween hearing on the legality of his election petition lottery, but a last-minute removal request may have given the billionaire a reprieve to spend the day enjoying quality holiday time with his family or more relentless campaigning to help elect Donald Trump.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/31/musk_election_lottery_hearing/>
+
+---
+
+## Microsoft isn’t secretly installing Recall on your Windows PC
+
+date: 2024-10-31, from: OS News
+
+There&#8217;s been more controversy regarding Microsoft&#8217;s Recall feature for Windows, with people supposedly discovering Recall was being secretly installed on Windows 11 24H2. Furthermore, trying to remove this secretly installed Recall would break Explorer, as it seemed Explorer had a dependency on Recall. Unsurprisingly, this spread like wildfire all across the web, but I didn&#8217;t report on it because something about it felt off &#8211; reports were sporadic and vague, and there didn&#8217;t seem to be any consistency in the various stories. Well, it turns out that it is a big misunderstanding arising from Microsoft&#8217;s usual incompetence. “Ever since the Recall security fiasco in summer, all insider and production builds lack Recall completely,” explains Windows watcher Albacore, in messages to The Verge. Albacore created the Amperage tool that allowed Recall to run on older Snapdragon chips. The references we’re seeing in current installs of 24H2 are related to Microsoft making it easier for system admins to remove Recall or disable it. “Ironically, Microsoft going out of its way to make  removal easier is being flipped into AI / spying / whatever hoaxes,” says Albacore.  “Microsoft has an ungodly complex and long winded system for integrating development changes into a mainline build, parts of the optional-izing work were most likely not merged at once, and thus produce crash loops in very specific scenarios that slipped testing,” explains Albacore. ↫ Tom Warren at The Verge What this story really highlights is just how little trust Microsoft has left with its very own users. Microsoft has a history of silently and secretely re-enabling features users turned off, re-installing Edge without any user interaction or consent, lots of disabled telemetry features suddenly being turned on again after an update, and so on. Over the years, this has clearly eroded any form of trust users have in Microsoft, so when a story like this hits, users just assume it&#8217;s Microsoft doing shady stuff again. Can you blame them? All of this is made worse by the absolutely dreadfully bad messaging and handling of the Recall feature. The shoddy implementation, the complete lack of security, the severe inability to read the room about the privacy implications of a feature like Recall, combined with the lack of trust mentioned above, and you have a very potent cocktail of misinformation entirely of Microsoft&#8217;s own making. I&#8217;m not trying to excuse Microsoft here &#8211; they themselves are the only ones to blame for stories like these. I have a feeling we&#8217;re going to see a lot more Recall problems. 
+
+<br> 
+
+<https://www.osnews.com/story/141028/microsoft-isnt-secretly-installing-recall-on-your-windows-pc/>
 
 ---
 
@@ -239,7 +755,7 @@ Editor’s Note:&#160;Starting Nov. 4, the Office of Communications at NASA’s 
 
 ## Sketchy financials send Supermicro auditors running for the hills
 
-date: 2024-10-30, updated: 2024-10-30, from: The Register (UK I.T. News)
+date: 2024-10-30, updated: 2024-10-31, from: The Register (UK I.T. News)
 
 <h4>If SMCI is the AI Enron, Ernst &amp; Young wants nothing to do with them</h4> <p>Supermicro shares took a nose dive on Wednesday, sliding more than 30 percent after the accounting firm hired to review its reporting practices resigned after determining they were just a bit too sketchy to warrant the risk.…</p> 
 

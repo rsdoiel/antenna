@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2024-10-31 06:26:58
+updated: 2024-11-01 10:26:13
 ---
 
 # games
 
-(date: 2024-10-31 06:26:58)
+(date: 2024-11-01 10:26:13)
+
+---
+
+## Papers, Please creator just released a new free LCD-style Halloween game
+
+date: 2024-11-01, updated: 2024-11-01, from: Polygon Website
+
+Lucas Pope, designer of Papers, Please and Return of the Obra Dinn, just released a free game on Halloween via his itch.io page. It’s called Moida Mansion, and you can play it in a browser as many times as you wish — and you might have to play it several times if you want to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/473808/lucas-pope-moida-mansion-papers-please-lcd-game>
+
+---
+
+## The 40 best movies on Netflix right now
+
+date: 2024-11-01, updated: 2024-11-01, from: Polygon Website
+
+What’s the best movie I can watch on Netflix? We’ve all asked ourselves this question, only to spend the next 15 minutes scrolling through the streaming service’s oddly specific genre menus and getting overwhelmed by the constantly shifting trend menus. Netflix’s huge catalog of movies continues to expand day by day, week by week, month [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/21266801/best-movies-on-netflix>
+
+---
+
+## Pre-order Monster Hunter Wilds on PC and save 18%
+
+date: 2024-11-01, updated: 2024-11-01, from: Polygon Website
+
+Monster Hunter Wilds, the next flagship game in Capcom’s seminal and self-descriptive series, isn’t due out for another four months — Feb. 28, 2025, to be exact. That said, you might already know that you’ll be picking up the game agnostic of the reviews. Perhaps the calling to hunt monsters and hang out with Palicos [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pre-order/457978/monster-hunter-wilds-deal-fanatical>
+
+---
+
+## How to change your appearance in Dragon Age: The Veilguard
+
+date: 2024-11-01, updated: 2024-11-01, from: Polygon Website
+
+You can change your appearance (for free) in Dragon Age: The Veilguard as often as you like. During character creation, the game says you can change your appearance later, but it doesn’t tell you when or where. Our Dragon Age: The Veilguard guide to changing your appearance will tell you where to go to get [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dragon-age-veilguard-guides/470468/change-appearance-how-to-mirror-of-transformation>
+
+---
+
+## The best board games of 2024 so far
+
+date: 2024-11-01, updated: 2024-11-01, from: Polygon Website
+
+Back in May I remarked how board game releases in 2024 had gotten off to a slow start. That was before the summer and fall convention season, which brought with it a deluge of promising new titles. We are in full swing now, and there is an astounding quantity of exceptional new board games.&#160; Some [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-play/24144632/best-board-games-2024-new>
+
+---
+
+## What time does Fortnite’s live event ‘Remix: The Prelude’ start?
+
+date: 2024-11-01, updated: 2024-11-01, from: Polygon Website
+
+“Remix: The Prelude” is Fortnite’s next live event on Friday, November 1. It will kick off Fortnite’s return to the Chapter 2 island with some “splashes of content from the earliest seasons,” according to developer Epic Games. The event will likely mark the end of Fortnite Chapter 5 Season 4 and kick off the next [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/472158/remix-the-prelude-live-event-start-time-release-time-zone>
+
+---
+
+## Pokémon Go Spotlight Hour schedule for November 2024
+
+date: 2024-11-01, updated: 2024-11-01, from: Polygon Website
+
+Pokémon Go hosts a Spotlight Hour every Tuesday. This special event sees spawn rates for one Pokémon boosted greatly. There’s also usually some kind of doubled up bonus, like doubled candy or XP, during this time, giving you an additional reason to check in. During November 2024, with the way the dates line up, we [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/23661763/spotlight-hour-schedule>
+
+---
+
+## Pokémon Go raid schedule for November 2024’s Legendary and Mega Pokémon
+
+date: 2024-11-01, updated: 2024-11-01, from: Polygon Website
+
+Using a raid schedule helps you work out which creatures to save your raid passes (remote or otherwise) for in Pokémon Go. The raid targets swap out every 10 days approximately, so you’ll definitely want to keep track on who is coming next. If you’re unfamiliar with raids, they spawn in gyms from 10 a.m. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/24168766/raid-schedule-legendary-mega-shadow-five-star>
+
+---
+
+## FFXIV housing lottery schedule for November 2024
+
+date: 2024-11-01, updated: 2024-11-01, from: Polygon Website
+
+If you’re trying to get a house in Final Fantasy 14, you’ll need to play the lottery system. The FFXIV lottery system consists of five “entry period” days, followed by four “results period” days. You’ll need to place your bid during the entry period days and if you win, finalize your purchase during the results [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24115693/housing-lottery-schedule-entry-results-period>
+
+---
+
+## Honkai: Star Rail codes for November 2024
+
+date: 2024-11-01, updated: 2024-11-01, from: Polygon Website
+
+Honkai: Star Rail is Hoyoverse’s latest title added to their mobile (and PC) game lineup, which means that yes, the game has codes that you can redeem for premium currency. In this case, Honkai: Star Rail codes reward Stellar Jade and the usual other goodies — money, EXP, and the like. Below we list out [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade>
 
 ---
 
@@ -42,18 +162,6 @@ By the end of next year, Marvel’s Spider-Man and Final Fantasy’s Cloud Strif
 <br> 
 
 <https://www.polygon.com/mtg-magic-the-gathering/472487/universes-beyond-controversy-standard-legal-magic-multiverse>
-
----
-
-## What time does Fortnite’s live event ‘Remix: The Prelude’ start?
-
-date: 2024-10-30, updated: 2024-10-30, from: Polygon Website
-
-“Remix: The Prelude” is a Fortnite live event being teased for Friday, November 1. It will kick off Fortnite’s return to the Chapter 2 island with some “splashes of content from the earliest seasons,” according to developer Epic Games. The event will likely mark the end of Fortnite Chapter 5 Season 4 and kick off [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/fortnite-guide/472158/remix-the-prelude-live-event-start-time-release-time-zone>
 
 ---
 

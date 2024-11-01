@@ -1,11 +1,160 @@
 ---
 title: motorcycles
-updated: 2024-10-31 06:26:59
+updated: 2024-11-01 10:26:14
 ---
 
 # motorcycles
 
-(date: 2024-10-31 06:26:59)
+(date: 2024-11-01 10:26:14)
+
+---
+
+## The New Honda Rebel 1100 Wants To Attract a Different Breed Of Cruiser Riders
+
+date: 2024-11-01, from: Ride Apart, Electric Motorcycle News
+
+Out with rugged rawness, in with refinement and tech. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/739347/2025-honda-rebel-1100-specs-features-price/>
+
+---
+
+## Is This The Sketchiest, Most Out Of Control DIY Electric Minibike?
+
+date: 2024-11-01, from: Ride Apart, Electric Motorcycle News
+
+Zip ties and duct tape working overtime on this one. 
+
+<br> 
+
+<https://www.rideapart.com/news/739498/diy-minibike-electric-motor-gofast/>
+
+---
+
+## BMW's New M 1000 RR Is Faster Than Nearly All of Its Owners, Makes More Downforce
+
+date: 2024-11-01, from: Ride Apart, Electric Motorcycle News
+
+Popping wheelies on the highway doesn't count as skill.  
+
+<br> 
+
+<https://www.rideapart.com/news/739489/bmw-2025-m-1000-rr-superbike-horsepower-specs-euro-5-plus/>
+
+---
+
+## Oh, Here's Polaris' Electric ATV Way Before You're Supposed to See It
+
+date: 2024-11-01, from: Ride Apart, Electric Motorcycle News
+
+This'll make hunting way quieter.  
+
+<br> 
+
+<https://www.rideapart.com/news/739475/polaris-ev-atv-electric-patent-leak/>
+
+---
+
+## PWC Jackass Knocks Fisherman Off His Boat, Immediately Gets Arrested
+
+date: 2024-11-01, from: Ride Apart, Electric Motorcycle News
+
+Uhm, that’s actually illegal and constitutes a felony. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/739343/pwc-jackass-knocks-fisherman-off-kayak/>
+
+---
+
+## Did Porsche Just Save Internal Combustion With Its 6-Stroke Engine?
+
+date: 2024-11-01, from: Ride Apart, Electric Motorcycle News
+
+In theory, this technology could make its way into motorcycles and powersports vehicles, too. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/739346/porsche-six-stroke-ice-powersports-applications/>
+
+---
+
+## Politically Motivated: NASCAR’s Speed PAC Has Given Cash To Political Candidates For 10 Years
+
+date: 2024-11-01, from: Kickin the Tires blog
+
+By Jerry Jordan, Editor As millions of NASCAR fans prepare to vote for the president and other elected offices around the country in just a few days, many are likely&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/other/politically-motivated-nascars-speed-pac-has-given-cash-to-political-candidates-for-10-years/>
+
+---
+
+## 2024 ARCA West at Bakersfield II: Team Reactions, Analysis
+
+date: 2024-10-31, from: Kickin the Tires blog
+
+By Vincent Delforge, Special to Kickin&#8217; the Tires The NAPA Auto Parts 150 presented by West Coast Stock Car Motorsports Hall of Fame, the eleventh race of the 2024 ARCA&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/2024-arca-west-at-bakersfield-ii-team-reactions-analysis/>
+
+---
+
+## Oregon's DOT Abruptly Says "No Snowmobiling" on Scenic Highway This Year
+
+date: 2024-10-31, from: Ride Apart, Electric Motorcycle News
+
+And everyone's been left scratching their heads, including the US Forest Service.  
+
+<br> 
+
+<https://www.rideapart.com/news/739324/oregon-odot-dot-snowmobile-mckenzie-pass/>
+
+---
+
+## Another EV Motorcycle Company Is Dead, Joins Countless Others
+
+date: 2024-10-31, from: Ride Apart, Electric Motorcycle News
+
+It won’t be delivering bikes to pre-order customers, and it won’t be issuing refunds, either. At least for now.  
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/739344/fuell-emobility-startup-files-bankruptcy-erik-buell/>
+
+---
+
+## Bike-Branded Tech Is Dumb, But Manufacturers Keep Doing It Anyway
+
+date: 2024-10-31, from: Ride Apart, Electric Motorcycle News
+
+Take SENA and Royal Enfield teaming up for a comms system, for example.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/739191/royal-enfield-sena-50s-special-edition/>
+
+---
+
+## After Mysteriously Leaving Kove, Its Founder Has a New Motorcycle Business
+
+date: 2024-10-31, from: Ride Apart, Electric Motorcycle News
+
+Definitely not sus. Nope. 
+
+<br> 
+
+<https://www.rideapart.com/news/739322/kove-former-ceo-founder-zhang-xue/>
 
 ---
 

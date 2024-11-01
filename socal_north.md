@@ -1,23 +1,232 @@
 ---
 title: socal north
-updated: 2024-10-31 06:26:57
+updated: 2024-11-01 10:26:11
 ---
 
 # socal north
 
-(date: 2024-10-31 06:26:57)
+(date: 2024-11-01 10:26:11)
 
 ---
 
-## Police unions, real estate interests spend big to support Hochman, oust Gascón in DA race
+## Sunny and clear start to November
 
-date: 2024-10-31, updated: 2024-10-31, from: The LAist
+date: 2024-11-01, updated: 2024-11-01, from: The LAist
 
-The money spent to back challenger Nathan Hochman continues to dwarf the amount of spending on George Gascón’s behalf. 
+Some rain possible this weekend, though. 
 
 <br> 
 
-<https://laist.com/news/politics/gascon-hochman-campaign-funding>
+<https://laist.com/news/climate-environment/sunny-and-clear-start-november-possible-rain-11-1-24>
+
+---
+
+## 5 takeaways from former OC Supervisor Andrew Do's guilty plea
+
+date: 2024-11-01, updated: 2024-11-01, from: The LAist
+
+Former Orange County Supervisor Andrew Do has experienced an astonishing fall from grace: After years of being a powerbroker, he pleaded guilty and admitted to to conspiracy to steal taxpayer funds. Here's a look at what happens next. 
+
+<br> 
+
+<https://laist.com/news/politics/5-takeaways-from-former-oc-supervisor-andrew-do-guilty-plea>
+
+---
+
+## Yes, New Haven has its own style of pizza. And now it’s in LA
+
+date: 2024-11-01, updated: 2024-11-01, from: The LAist
+
+Maybe you have heard of it. But if not, you're missing out. 
+
+<br> 
+
+<https://laist.com/news/food/new-haven-pizza-now-in-la>
+
+---
+
+## As an OC supervisor, Michelle Steel awarded a $1.2M pandemic meals contract to her campaign mail printer
+
+date: 2024-11-01, updated: 2024-11-01, from: The LAist
+
+The contract Steel directed to her campaign mail vendor in 2020 charged taxpayers about $24 per meal, three times as much as vendors charged in two other Orange County supervisor districts, according to an LAist review of contracts. 
+
+<br> 
+
+<https://laist.com/news/politics/michelle-steel-pandemic-meals-campaign-mail-printer-supervisor>
+
+---
+
+## 12 one-of-a-kind gifts, handcrafted by LA and SoCal artisans
+
+date: 2024-11-01, updated: 2024-11-01, from: The LAist
+
+These gift support the creativity, craftsmanship and ambition of local artists — and their small businesses and studios. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/laist-holiday-gift-guide-2024-handcrafted-artisanal-gifts>
+
+---
+
+## You can't show up empty handed! Here are 12 gifts for the host
+
+date: 2024-11-01, updated: 2024-11-01, from: The LAist
+
+We’ve rounded up a short list of ideas and inspiration designed to delight the most entertaining of friends. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/laist-holiday-gift-guide-2024-gifts-for-the-party-host>
+
+---
+
+## 12 amazing LA and SoCal experiences to give (and get!)
+
+date: 2024-11-01, updated: 2024-11-01, from: The LAist
+
+We asked Laura Hertzfeld, who writes LAist's Best Things To Do column, to craft the best experiences to give and receive this holiday season, and at a variety of price points. We think you'll agree the columnist delivered on all fronts. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/laist-holiday-gift-guide-2024-experiences>
+
+---
+
+## LA County home cooks can start serving meals. What you should know for food safety
+
+date: 2024-11-01, updated: 2024-11-01, from: The LAist
+
+As health permitting starts, we break down what you can expect before you walk into a stranger’s home for a bite to eat. 
+
+<br> 
+
+<https://laist.com/news/health/la-county-home-cook-kitchen-chef-food-safety-mehko>
+
+---
+
+## Curry of every kind can be found in LA. Here's our guide for spice-lovers
+
+date: 2024-11-01, updated: 2024-11-01, from: The LAist
+
+Thai, Indian, Vietnamese, Burmese — when it comes to curry you can choose your adventure. 
+
+<br> 
+
+<https://laist.com/news/food/curry-of-every-kind-can-be-found-in-la-heres-our-guide-for-spice-lovers>
+
+---
+
+## At this Boyle Heights shop, a little bit of community is baked into every pan de muerto
+
+date: 2024-11-01, updated: 2024-11-01, from: The LAist
+
+Instead of the traditional orange flavor, La Sureñita Bakery uses guava and cinnamon, from a recipe offered by a long-time resident. 
+
+<br> 
+
+<https://laist.com/news/food/at-this-boyle-heights-shop-a-little-bit-of-community-is-baked-into-every-pan-de-muerto>
+
+---
+
+## Gas Shut Off Causes Two City of San Fernando Businesses to Temporarily Close
+
+date: 2024-10-31, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="771" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?fit=771%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?w=1928&amp;ssl=1 1928w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?resize=226%2C300&amp;ssl=1 226w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?resize=771%2C1024&amp;ssl=1 771w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?resize=768%2C1020&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?resize=1157%2C1536&amp;ssl=1 1157w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?resize=1542%2C2048&amp;ssl=1 1542w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?resize=1200%2C1594&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?resize=1568%2C2083&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?resize=2000%2C2656&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?resize=400%2C531&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?resize=706%2C938&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?fit=771%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>SoCalGas shut off service to its customers due to a disruption to natural gas service in Sylmar, affecting not only homes in the area but businesses in the City of [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/10/31/gas-shut-off-causes-two-city-of-san-fernando-businesses-to-temporarily-close/">Gas Shut Off Causes Two City of San Fernando Businesses to Temporarily Close</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/10/31/gas-shut-off-causes-two-city-of-san-fernando-businesses-to-temporarily-close/>
+
+---
+
+## Her murder hasn't been solved for nearly 80 years. Why the Black Dahlia case will never die
+
+date: 2024-10-31, updated: 2024-10-31, from: The LAist
+
+Revisiting the L.A. cold case of the Black Dahlia. 
+
+<br> 
+
+<https://laist.com/news/la-history/why-the-black-dahlia-case-will-never-die>
+
+---
+
+## HB remains defiant after losing latest legal round in state housing battle
+
+date: 2024-10-31, updated: 2024-10-31, from: The LAist
+
+Huntington Beach's city attorney says the beach city is autonomous. 
+
+<br> 
+
+<https://laist.com/news/politics/huntington-beach-state-housing-mandates>
+
+---
+
+## Dodgers World Series celebration: Everything you need to know about the traffic and tickets
+
+date: 2024-10-31, updated: 2024-10-31, from: The LAist
+
+A parade will run through downtown L.A. and a special ticketed event is heading to Dodger Stadium. 
+
+<br> 
+
+<https://laist.com/news/dodgers-world-series-celebration-guide>
+
+---
+
+## Have a Spook-taculary Safe Halloween!
+
+date: 2024-10-31, from: City of Santa Clarita
+
+<p>By Councilwoman Marsha McLean Tonight is Halloween, and I can already feel the hullabaloo as children prepare to put on their costumes and head out for a fun evening of trick-or-treating. While it&#8217;s a night filled with costumes, candy and community spirit, it also brings a few risks, especially with so many pedestrians out and [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/10/31/have-a-spook-taculary-safe-halloween/">Have a Spook-taculary Safe Halloween!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/10/31/have-a-spook-taculary-safe-halloween/>
+
+---
+
+## Sunny and clear skies for Halloween
+
+date: 2024-10-31, updated: 2024-10-31, from: The LAist
+
+The spookiest day of the year will be crisp, clear an sunny. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/sunny-and-clear-skies-for-halloween-10-31-2024>
+
+---
+
+## Best things to do this weekend in LA and SoCal: November 1 - 3
+
+date: 2024-10-31, updated: 2024-10-31, from: The LAist
+
+A Diwali festival, Day of the Dead crafts at the Fowler, 'The Piano Lesson' at A Noise Within and more. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-this-weekend-los-angeles-southern-california-november-1-3>
+
+---
+
+## Former OC Supervisor Do pleads guilty to felony bribery
+
+date: 2024-10-31, updated: 2024-10-31, from: The LAist
+
+As part of the deal, his daughter Rhiannon Do, will be on probation for three years. 
+
+<br> 
+
+<https://laist.com/news/politics/former-oc-supervisor-andrew-do-to-plead-guilty-to-felony-bribery-in-court-today>
 
 ---
 
@@ -33,15 +242,15 @@ California State University, Los Angeles has laid off many lecturers, while neig
 
 ---
 
-## Former OC Supervisor Do to plead guilty to felony bribery in court today
+## Police unions, real estate interests spend big to support Hochman, oust Gascón in DA race
 
 date: 2024-10-31, updated: 2024-10-31, from: The LAist
 
-As part of the deal, his daughter Rhiannon Do, will be on probation for three years. 
+The money spent to back challenger Nathan Hochman continues to dwarf the amount of spending on George Gascón’s behalf. 
 
 <br> 
 
-<https://laist.com/news/politics/former-oc-supervisor-andrew-do-to-plead-guilty-to-felony-bribery-in-court-today>
+<https://laist.com/news/politics/gascon-hochman-campaign-funding>
 
 ---
 
@@ -73,7 +282,7 @@ In particular, the streamer wants YA from “in-the-zeitgeist IP” as it search
 
 date: 2024-10-31, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/Voting-Center_SN_02-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Falta menos de una semana para el día de las elecciones, y alrededor del 21% de todos los votantes registrados en California ya han emitido su voto hasta el martes [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/10/30/los-votantes-del-noreste-del-valle-comparten-su-punto-de-vista-dias-antes-del-dia-de-las-elecciones/">Los Votantes del Noreste del Valle Comparten su Punto de Vista Días Antes del Día de las Elecciones</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  

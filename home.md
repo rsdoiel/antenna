@@ -1,11 +1,311 @@
 ---
 title: home
-updated: 2024-10-31 06:26:59
+updated: 2024-11-01 10:26:13
 ---
 
 # home
 
-(date: 2024-10-31 06:26:59)
+(date: 2024-11-01 10:26:13)
+
+---
+
+## How to Encourage Branching in Rubber Tree Plants
+
+date: 2024-11-01, from: The Gardener's Path
+
+<p>Is your rubber tree (Ficus elastica) growing taller and taller and looking a bit leggy? Do you wish it would branch out a bit to produce a more dense, pleasing shape? Learn about why this kind of leggy, upright growth happens, and the steps you can take to encourage your rubber fig to branch in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/houseplants/rubber-tree-branching/">How to Encourage Branching in Rubber Tree Plants</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/houseplants/rubber-tree-branching/>
+
+---
+
+## Spotlight on Pixca Farm – Day of the Dead: Culture, Community and Marigolds
+
+date: 2024-11-01, from: Calfifornia Dept. Aggriculture blog
+
+In recognition of the cultural tradition of Day of the Dead (Día de los Muertos), November 1 and 2, Pixca Farm is proud of celebrating through its sustainable agricultural practices. Erik Rodriguez’s journey into farming began in Rosarito, where he &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28400">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28400>
+
+---
+
+## Brown Turkey Fig Tree Care and Growing Guide with Ultimate Tips
+
+date: 2024-11-01, from: Yard Life blog
+
+<p>If you&#8217;re looking to cultivate a Brown Turkey fig tree, you&#8217;ve made a fantastic choice. Known for its delicious, sweet ... </p>
+<p class="read-more-container"><a title="Brown Turkey Fig Tree Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/brown-turkey-fig-tree-care-and-growing-guide-with-ultimate-tips/#more-21509" aria-label="Read more about Brown Turkey Fig Tree Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/brown-turkey-fig-tree-care-and-growing-guide-with-ultimate-tips/">Brown Turkey Fig Tree Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/brown-turkey-fig-tree-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## A Bunker-Esque Home in Western Australia Is a Fortress Against Whipping Winds
+
+date: 2024-11-01, from: Dwell
+
+The concrete, brick, and wood residence figures in a protected patio and a surprising series of intimate, moody spaces. 
+
+<br> 
+
+<https://www.dwell.com/article/the-myrtle-dalecki-design-concrete-courtyard-home-dfe46444>
+
+---
+
+## African Violets Care and Growing Guide with Ultimate Tips
+
+date: 2024-11-01, from: Yard Life blog
+
+<p>African violets are among the most popular houseplants worldwide, known for their vibrant, frequent blooms and lush, compact growth. With ... </p>
+<p class="read-more-container"><a title="African Violets Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/african-violets-care-and-growing-guide-with-ultimate-tips/#more-21494" aria-label="Read more about African Violets Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/african-violets-care-and-growing-guide-with-ultimate-tips/">African Violets Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/african-violets-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-11-01, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## Boston Fern Care and Growing Guide with Ultimate Tips
+
+date: 2024-11-01, from: Yard Life blog
+
+<p>Boston fern (Nephrolepis exaltata), commonly known as sword fern, is a versatile and attractive houseplant known for its arching fronds ... </p>
+<p class="read-more-container"><a title="Boston Fern Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/boston-fern-care-and-growing-guide-with-ultimate-tips/#more-21486" aria-label="Read more about Boston Fern Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/boston-fern-care-and-growing-guide-with-ultimate-tips/">Boston Fern Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/boston-fern-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## The Recipes You Should Be Cooking This November
+
+date: 2024-11-01, from: Sunset Magazine - Living in the West
+
+What are the recipes you should be cooking in November? From miso-glazed eggplant to creamy squash soup, these will lead you into winter. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/recipes-to-cook-in-november>
+
+---
+
+## What Do Smoke Alarms Have To Do With The Time Change?
+
+date: 2024-10-31, from: Family Handyman Blog
+
+<p>How did smoke detectors get linked with the annual spring-forward and fall-back time changes?</p>
+<p>The post <a href="https://www.familyhandyman.com/article/change-smoke-alarm-batteries/">What Do Smoke Alarms Have To Do With The Time Change?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/change-smoke-alarm-batteries/>
+
+---
+
+## One Night in an Off-Grid, Brutalist-Style Hotel in Coastal Oaxaca’s Design Enclave
+
+date: 2024-10-31, from: Dwell
+
+In the decade since Casa Wabi put a stretch near Puerto Escondido on the architectural map, a slew of local hotels have followed its visual tradition. I stayed at one of the newcomers. 
+
+<br> 
+
+<https://www.dwell.com/article/one-night-in-terrestre-an-off-grid-brutalist-style-hotel-in-coastal-oaxacas-design-enclave-527e63a8-b7310ee5>
+
+---
+
+## How to Find a Good—Not Great, Not Awful—Rug
+
+date: 2024-10-31, from: Dwell
+
+Floor coverings are either dirt cheap or wildly expensive, but there is an in-between. Let us help you find quality without spending a fortune. 
+
+<br> 
+
+<https://www.dwell.com/article/how-to-find-a-good-rug-d417b3d8>
+
+---
+
+## Light Is the Main Character at This Crisp White New Zealand Home
+
+date: 2024-10-31, from: Dwell
+
+The louver-wrapped veranda tempers the sun, while clerestories let in a play of shadows cast by surrounding trees. 
+
+<br> 
+
+<https://www.dwell.com/article/crinkle-cut-pac-studio-clerestories-veranda-louvers-b92c5a37>
+
+---
+
+## ‘Yellowstone’ is Returning for its Final Season—Here’s How to Get the Look (without Looking Cheesy)
+
+date: 2024-10-31, from: Sunset Magazine - Living in the West
+
+With the final season of Yellowstone airing on November 10, Western wear experts share their tips on how to get the look. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/yellowstone-fashion-get-the-look>
+
+---
+
+## This Trending Cooking Oil Is Made with Algae—and It Might Just Replace Your Olive Oil
+
+date: 2024-10-31, from: Sunset Magazine - Living in the West
+
+Chefs and home cooks are using sustainable and trendy algae oil, which has a high smoke point and a neutral flavor. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/algae-cooking-oil-trend>
+
+---
+
+## Friday Links: November 1, 2024
+
+date: 2024-10-31, from: California Native Plants Society
+
+<p>How does change happen? With strong and continual support—whether it's in the care of a native plant garden or the vision to return salmon to the Klamath.</p>
+<p>The post <a href="https://www.cnps.org/friday-links/friday-links-november-1-2024-41007">Friday Links: November 1, 2024</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/friday-links/friday-links-november-1-2024-41007>
+
+---
+
+## 6 Ways Your Phone Can Help You Pack Lighter on Your Next Trip
+
+date: 2024-10-31, from: Sunset Magazine - Living in the West
+
+Apple Wallet can help you travel lighter. You cans add your car key, credit card, boarding pass, driver's license, and more to your Wallet. 
+
+<br> 
+
+<https://www.sunset.com/travel/apple-wallet-tips>
+
+---
+
+## This $2.8M Triangular Home in Austin Has Sharp Angles and a Point of View
+
+date: 2024-10-31, from: Dwell
+
+The three-level, wood-clad residence comes with polished concrete floors, a tiled plunge pool, and a rooftop deck overlooking the skyline. 
+
+<br> 
+
+<https://www.dwell.com/article/triangular-home-new-build-austin-texas-real-estate-7311aa66>
+
+---
+
+## Over 125,000 Volvo Trucks Recalled for Potential Brake Malfunction
+
+date: 2024-10-31, from: Family Handyman Blog
+
+<p>Many Volvo trucks are being recalled over an issue that could impact braking. Read on to find out if your car is one of them and how to remedy the issue.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/volvo-electronic-control-unit-recall/">Over 125,000 Volvo Trucks Recalled for Potential Brake Malfunction</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/volvo-electronic-control-unit-recall/>
+
+---
+
+## If You’re a Pumpkin Spice-Hater, These New Food Items Just Might Change Your Mind
+
+date: 2024-10-31, from: Sunset Magazine - Living in the West
+
+Fall is pumpkin spice-flavored everything season. The newest products out there might make even the naysayers think twice. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/new-pumpkin-spice-products-2024>
+
+---
+
+## The 15 Types of Trim You Need to Know for Your Next Remodel Project
+
+date: 2024-10-31, from: Family Handyman Blog
+
+<p>Finding the right kind of trim is essential to completing any kind of remodeling project around the house. Familiarize yourself with all the available trim options.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/trim-types/">The 15 Types of Trim You Need to Know for Your Next Remodel Project</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/trim-types/>
+
+---
+
+## How to Winterize Bergenia
+
+date: 2024-10-31, from: The Gardener's Path
+
+<p>Bergenia are easy-care evergreens with pretty spring flowers and glossy leaves that provide year-round interest. These perennials have excellent cold hardiness, but freezing winds and wide temperature swings can damage the colorful foliage. Learn how to care for bergenia in winter in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/winterize-bergenia/">How to Winterize Bergenia</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/winterize-bergenia/>
+
+---
+
+## Camellia Flower Care and Growing Guide with Ultimate Tips
+
+date: 2024-10-31, from: Yard Life blog
+
+<p>Camellias are elegant flowering evergreen shrubs that add a splash of color to gardens from fall through early spring. Known ... </p>
+<p class="read-more-container"><a title="Camellia Flower Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/camellia-flower-care-and-growing-guide-with-ultimate-tips/#more-21476" aria-label="Read more about Camellia Flower Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/camellia-flower-care-and-growing-guide-with-ultimate-tips/">Camellia Flower Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/camellia-flower-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## 5 Things You Should Do to Control Erosion in Your Garden Before the Rainy Season Starts
+
+date: 2024-10-31, from: Sunset Magazine - Living in the West
+
+As the rainy season approaches, safeguarding your garden and landscape from erosion is key to maintaining its beauty and function. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/landscaping/erosion-control-tips>
 
 ---
 
@@ -36,6 +336,18 @@ date: 2024-10-31, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/asiatic-lily-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## Make Your Own LaCroix and Practice Other Kitchen Magic with These Cool Tools
+
+date: 2024-10-31, from: Sunset Magazine - Living in the West
+
+These appliances do so much more than cooking—they're great kitchen tools for gardeners. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/edible-gardening/kitchen-gadgets-for-gardeners>
 
 ---
 
@@ -190,6 +502,18 @@ date: 2024-10-30, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/project/how-to-make-router-circle-jig/>
+
+---
+
+## Why Haunted Modernist Homes Are Used to Critique Societal Issues
+
+date: 2024-10-30, from: Dwell
+
+From "Candyman" to "Tár," modernism in pop culture provides the perfect framework to discuss issues like public housing, gentrification, and abuse. 
+
+<br> 
+
+<https://www.dwell.com/article/why-haunted-modernist-homes-are-used-to-critique-societal-issues-c8c472e0>
 
 ---
 
@@ -399,18 +723,6 @@ It’s easy to think that wine blends are like leftovers. Winemakers share what 
 <br> 
 
 <https://www.sunset.com/food-wine/wine-pairings/wine-blends-what-to-know>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-10-30, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 
@@ -1009,18 +1321,6 @@ date: 2024-10-28, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/rising-sun-redbud-care-and-growing-guide-most-detailed/>
-
----
-
-## 5 Things You Should Do to Control Erosion in Your Garden Before the Rainy Season Starts
-
-date: 2024-10-28, from: Sunset Magazine - Living in the West
-
-As the rainy season approaches, safeguarding your garden and landscape from erosion is key to maintaining its beauty and function. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/landscaping/erosion-control-tips>
 
 ---
 

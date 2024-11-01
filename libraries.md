@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2024-10-31 06:26:59
+updated: 2024-11-01 10:26:13
 ---
 
 # libraries
 
-(date: 2024-10-31 06:26:59)
+(date: 2024-11-01 10:26:13)
+
+---
+
+## Halloween Over, Still Scary Times — Please Vote!
+
+date: 2024-11-01, from: Scholarly Kitchen
+
+<p>Halloween has concluded, but things are still looking scary in the US for public health.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/11/01/halloween-over-still-scary-times-please-vote/">Halloween Over, Still Scary Times &#8212; Please Vote!</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2024/11/01/halloween-over-still-scary-times-please-vote/>
 
 ---
 
@@ -69,6 +83,18 @@ Cristofolini, Eber A.; Escribano, Facundo A.; Otamendi, Juan E.; Morosini, Augus
 
 ---
 
+## Synapsis dynamics in A. arenosa (III) SIM in HYB-4X
+
+date: 2024-11-01, from: ETH Zurich, recently added
+
+Gonzalo, Adrián 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/696850>
+
+---
+
 ## Vanishing Culture: Preserving Papiamento—Safeguarding Aruba’s Language and Cultural Heritage
 
 date: 2024-10-31, from: Internet Archive Blog
@@ -111,7 +137,7 @@ Elvarsson, Arnor B.; Adey, Bryan T.
 
 date: 2024-10-30, from: Association of Research Libraries News
 
-<p>Last Updated on October 30, 2024, 4:22 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, October 29 &#124; Wednesday, October 30 &#124; Thursday,...</p>
+<p>Last Updated on October 31, 2024, 3:35 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, October 29 &#124; Wednesday, October 30 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-october-28-31-2/">Day in Review (October 28–31)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
@@ -263,7 +289,7 @@ date: 2024-10-28, from: Association of Research Libraries News
 
 date: 2024-10-28, from: Internet Archive Blog
 
-Last updated: October 28, 2024 Services Online: Wayback Machine-Save Page Now coming soonopenlibrary.orgarchive-it.orgVaultscholar.archive.orgarchive.org services available:-publicly available texts-tv news search and borrow-audio-moving images-institutional uploads-institutional web archiving-access via API More services &#38; [&#8230;] 
+Last updated: October 31, 2024 Services Online: Wayback Machine-Save Page Now coming soonopenlibrary.orgarchive-it.orgVaultscholar.archive.orgInterlibrary loan via RapidILLarchive.org services available:-publicly available texts-tv news search and borrow-audio-moving images-institutional uploads-institutional web archiving-access via API [&#8230;] 
 
 <br> 
 

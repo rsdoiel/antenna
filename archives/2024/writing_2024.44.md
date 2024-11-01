@@ -1,11 +1,77 @@
 ---
 title: writing
-updated: 2024-10-31 06:26:58
+updated: 2024-11-01 10:26:13
 ---
 
 # writing
 
-(date: 2024-10-31 06:26:58)
+(date: 2024-11-01 10:26:13)
+
+---
+
+## Featured Friday: Politics and Elections
+
+date: 2024-11-01, from: John August blog
+
+Weekend Read, our app for reading scripts on your phone, features a new curated collection of screenplays each week. This week, we look at how elections and politics can be used across genres to test a character’s true convictions, and how their choices affect the citizens they serve. Our collection includes: All The President’s Men [&#8230;]
+The post <a href="https://johnaugust.com/2024/featured-friday-politics-and-elections">Featured Friday: Politics and Elections</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2024/featured-friday-politics-and-elections>
+
+---
+
+## Wish I Was Here by M. John Harrison: Review by Niall Harrison
+
+date: 2024-11-01, from: Locus Magazine
+
+<p><strong>Wish I Was Here</strong>, M. John Harrison (Serpent’s Tail 978-1-80081-297-0, £16.99, 224pp, hc) May 2023. (Saga Press 978-1-66806-304-0, 224pp, $26.99, hc). September 2024.</p>
+<p>It’s hard to know where to start writing about a book that knows exactly what it is and knows that knowledge doesn’t help much. “When [a piece of writing] has been assembled like this one,” writes M. John Harrison, “from so many layers of your life&#8230;  <a href="https://locusmag.com/2024/11/wish-i-was-here-by-m-john-harrison-review-by-niall-harrison/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/11/wish-i-was-here-by-m-john-harrison-review-by-niall-harrison/>
+
+---
+
+## Issue 766 Table of Contents, November 2024
+
+date: 2024-11-01, from: Locus Magazine
+
+<p>The November 2024 issue of Locus magazine has interviews with R.S.A. Garcia and Suzan Palumbo and a spotlight on artist Virginia Lee. News covers the 2024 World Fantasy Awards, Han Kang&#8217;s Nobel Prize win, Margaret Owen&#8217;s Endeavour win, the Cixin Liu Museum in Yangquan, the British Fantasy, SFPA, and Ditmar awards winners, and more. International reports look at SF in India and SF in Japan. Cory Doctorow&#8217;s column is entitled  <a href="https://locusmag.com/2024/11/issue-766-table-of-contents-november-2024/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/11/issue-766-table-of-contents-november-2024/>
+
+---
+
+## Weekly YouTube Video For 10/29/2024 Is Up!
+
+date: 2024-10-31, from: Locus Magazine
+
+<p>We&#8217;ve got one last video for October for you to watch while prepping for Halloween! We&#8217;re excited to tell you about the best SF, Fantasy, and Horror new releases of the week of 10/29/2024! If you&#8217;re feeling generous, why not come by out YouTube channel and Subscribe to show your support for what we do! From everyone at Locus, we hope you&#8217;re all having an especially spooky Halloween!</p>
+<div class="jetpack-video-wrapper"></div> <a href="https://locusmag.com/2024/10/weekly-youtube-video-for-10-29-2024-is-up/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2024/10/weekly-youtube-video-for-10-29-2024-is-up/>
+
+---
+
+## ‘The Wild Robot’ Screenwriter Chris Sanders Tells How to Write for Animation
+
+date: 2024-10-31, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/the-wild-robot-screenwriter-chris-sanders-tells-how-to-write-for-animation" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/The%20Wild%20Robot%20-%201.png" alt="‘The Wild Robot’ Screenwriter Chris Sanders Tells How to Write for Animation" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>If you want to learn how to write for animated films, there is probably no better person to learn from than <a href="https://www.imdb.com/name/nm0761498/">Chris Sanders</a>.&nbsp;<br><br>He’s a veritable titan in the industry, with story credits on Disney classics like <span style="font-style: italic;">Beauty and the Beast, Aladdin,</span> and <span style="font-style: italic;">The Lion King</span>—yes, those classics—along with screenwriting credits on <span style="font-style: italic;">Mulan</span> and <span style="font-style: italic;">Lilo &amp; Stitch,</span> not to mention modern hits like <span style="font-style: italic;">How to Train Your Dragon</span> and <span style="font-style: italic;">The</span> <span style="font-style: italic;">Croods</span>.&nbsp;<br><br>His stories swell with emotion and feature conflict that’s at times surprising in its thorniness and complicated, grown-up themes; perhaps why his movies resonate across ages. The lonely protagonist who needs to find their place and gain their strength is a favorite in his repertoire, and his latest film, <span style="font-style: italic;">The Wild Robot</span>, is a new take on this character. &nbsp;<br><br>Adapted from the book by Peter Brown, <span style="font-style: italic;">The Wild Robot</span> is “Roz” (Lupita Nyong’o), who crash-lands on an island inhabited only by woodland creatures. When she stumbles upon an orphaned gosling, she and the fox Fink (Pedro Pascal) have to get him ready to fly south for his winter migration.&nbsp;<br><br>When we got the chance to speak with Sanders about his experience as a writer on this and other films, we of course jumped at the chance. We asked him what was different about writing for animation, handling thematic material for kids, and more.&nbsp;<br><br><span style="font-style: italic;">The Wild Robot</span> is now available to watch at home digitally from Universal Pictures Home Entertainment.&nbsp;<br><br><span style="font-style: italic;">Editor’s note: The following conversation has been edited for length and clarity. Spoilers for The Wild Robot below.</span></p> 
+
+<br> 
+
+<https://blog.finaldraft.com/the-wild-robot-screenwriter-chris-sanders-tells-how-to-write-for-animation>
 
 ---
 

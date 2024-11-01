@@ -1,11 +1,385 @@
 ---
 title: food
-updated: 2024-10-31 06:27:00
+updated: 2024-11-01 10:26:14
 ---
 
 # food
 
-(date: 2024-10-31 06:27:00)
+(date: 2024-11-01 10:26:14)
+
+---
+
+## Green Curry Coconut Cod
+
+date: 2024-11-01, from: Bon Appetet
+
+Curry paste, coconut milk, and fresh spinach yield a vibrant sauce for tender fish. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/green-curry-coconut-cod>
+
+---
+
+## The Green Curry Cod I Make for a Fast, Protein-Rich Meal
+
+date: 2024-11-01, from: Bon Appetet
+
+November’s Feel-Good Food Plan is here (with no mention of turkey in sight). 
+
+<br> 
+
+<https://www.bonappetit.com/story/feel-good-food-plan-november-2024>
+
+---
+
+## Atlanta’s Opo Coffee Opens Nominations for Training Scholarships
+
+date: 2024-11-01, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Opo-Coffee-Atlanta-620x414.jpg" class="attachment-large size-large wp-post-image" alt="OPO" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Opo-Coffee-Atlanta-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Opo-Coffee-Atlanta-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Opo-Coffee-Atlanta-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Opo-Coffee-Atlanta-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Opo-Coffee-Atlanta.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Starting today, Nov. 1, Atlanta-area specialty coffee company Opo Coffee is accepting nominations for a new coffee education and mentorship program for people who might not otherwise have access to... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/11/01/atlantas-opo-coffee-opens-nominations-for-training-scholarships/>
+
+---
+
+## 55 Reasons to Love Thanksgiving
+
+date: 2024-11-01, from: Bon Appetet
+
+How to make the very most of the holiday this year. 
+
+<br> 
+
+<https://www.bonappetit.com/story/55-reasons-to-love-thanksgiving>
+
+---
+
+## Roast Summit Chicago Served a Deep Dish of Roasting Education
+
+date: 2024-11-01, from: Daily Coffee News
+
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Roast-Summit-Chicago-2024-roast-profile-620x413.jpg" class="attachment-large size-large wp-post-image" alt="Roast Summit Chicago 2024 roast profile" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Roast-Summit-Chicago-2024-roast-profile-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Roast-Summit-Chicago-2024-roast-profile-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Roast-Summit-Chicago-2024-roast-profile-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Roast-Summit-Chicago-2024-roast-profile-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Roast-Summit-Chicago-2024-roast-profile.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Roasters from throughout the United States recently convened at the first Roast Summit Chicago, presented by Roast Magazine, sponsored by Diedrich Roasters and hosted by Firedancer Coffee Consultants. While Roast... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/11/01/roast-summit-chicago-served-a-deep-dish-of-roasting-education/>
+
+---
+
+## Opo Coffee Launches Upside Scholar Program
+
+date: 2024-11-01, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Opo Coffee announces the launch of the Opo Upside Scholar Program. 
+
+<br> 
+
+<https://sprudge.com/opo-coffee-launches-upside-scholar-program-258065.html>
+
+---
+
+## Weekly Coffee News: Air Roasting Demo + From Atlanta, With Love
+
+date: 2024-11-01, from: Daily Coffee News
+
+<div><img width="620" height="491" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/AMR-Live-Event-Pict.2.jpg" class="attachment-large size-large wp-post-image" alt="AMR-Live-Event-Pict.2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/AMR-Live-Event-Pict.2.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/AMR-Live-Event-Pict.2-300x238.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/AMR-Live-Event-Pict.2-150x119.jpg 150w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Air-Motion Roasters USA Hosting Live Roaster Demo Texas-based Air-Motion... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/11/01/weekly-coffee-news-air-roasting-demo-from-atlanta-with-love/>
+
+---
+
+## Feisty Internet Legend Moo Deng Is Now Latte Art
+
+date: 2024-11-01, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. It's Moo Deng's world and we're just living in it. 
+
+<br> 
+
+<https://sprudge.com/feisty-internet-legend-moo-deng-is-now-latte-art-257920.html>
+
+---
+
+## Join the BA Bake Club
+
+date: 2024-11-01, from: Bon Appetet
+
+Test kitchen baking experts Jesse Szewczyk and Shilpa Uskokovic share must-make recipes and answer your burning questions. 
+
+<br> 
+
+<https://www.bonappetit.com/story/bake-club>
+
+---
+
+## Caramel Apple Monkey Bread
+
+date: 2024-11-01, from: Bon Appetet
+
+This irresistible fall treat is studded with spiced apples and draped in cider caramel. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/caramel-apple-monkey-bread>
+
+---
+
+## ‘Do What’s Right and Create Beauty’: Insights From the 2024 Austin Coffee Festival
+
+date: 2024-11-01, from: The Fresh Cup
+
+<p>As part of this year’s Austin Coffee Festival, three longtime Austin coffee pros reflected on the changing industry—and shared their advice for keeping the coffee passion alive.</p>
+<p>The post <a href="https://freshcup.com/do-whats-right-and-create-beauty-insights-from-the-2024-austin-coffee-festival/">‘Do What’s Right and Create Beauty’: Insights From the 2024 Austin Coffee Festival</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/do-whats-right-and-create-beauty-insights-from-the-2024-austin-coffee-festival/>
+
+---
+
+## Lemon-Tomato Chicken and More Recipes We Made This Week
+
+date: 2024-11-01, from: Bon Appetet
+
+Like scallion-oil tofu and butterscotch budino. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-november-2024>
+
+---
+
+## Enchiladas Verdes
+
+date: 2024-11-01, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/salsa-verde-chicken-enchiladas/"><img title="enchiladas-verdes-small-24-5" src="https://www.isabeleats.com/wp-content/uploads/2024/10/enchiladas-verdes-small-24-5-400x600.jpg" alt="Enchiladas Verdes in a baking dish topped with cilantro, red onion, and Mexican crema or sour cream." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	If you’re looking for an easy weeknight dinner, enchiladas verdes are the answer! These flavorful green enchiladas are filled with tender chicken, smothered in a roasted tomatillo salsa verde, and topped with lots of cheese. Enchiladas are one of my favorite Mexican recipes. I grew up eating cheese enchiladas (my Mom’s specialty) and chicken enchiladas, [&#8230;] 
+
+<br> 
+
+<https://www.isabeleats.com/salsa-verde-chicken-enchiladas/>
+
+---
+
+## Sambal Oelek Recipe
+
+date: 2024-11-01, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/chili-pepper-recipes/sauces/sambal-oelek-recipe/" title="Sambal Oelek Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Sambal-Oelek-Recipe1-10-24-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Sambal Oelek in a bowl, ready to use" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Sambal-Oelek-Recipe1-10-24-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Sambal-Oelek-Recipe1-10-24-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Sambal-Oelek-Recipe1-10-24-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Sambal-Oelek-Recipe1-10-24-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Sambal-Oelek-Recipe1-10-24-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Sambal-Oelek-Recipe1-10-24-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Sambal-Oelek-Recipe1-10-24.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>A recipe for homemade Sambal Oelek, the classic chili paste made with chili peppers, vinegar and salt, ideal for seasoning noodle dishes and so much more.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/chili-pepper-recipes/sauces/sambal-oelek-recipe/">Sambal Oelek Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/chili-pepper-recipes/sauces/sambal-oelek-recipe/>
+
+---
+
+## Party in a Pinch Recipe Contest Announcement
+
+date: 2024-11-01, from: Taste of Home
+
+<p>Show off your quickest party recipes for the chance to win $500!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/party-in-a-pinch-contest/">Party in a Pinch Recipe Contest Announcement</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/party-in-a-pinch-contest/>
+
+---
+
+## 5 ‘Thanksgiving’-Flavored Foods, Ranked
+
+date: 2024-10-31, from: Taste of Home
+
+<p>We tasted Thansgiving-themed seasonal snack foods to determine the best-tasting treats.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/thanksgiving-flavored/">5 &#8216;Thanksgiving&#8217;-Flavored Foods, Ranked</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/thanksgiving-flavored/>
+
+---
+
+## Easy Vegetarian Ramen
+
+date: 2024-10-31, from: Bon Appetet
+
+This comforting noodle soup mimics the umami of tonkotsu with none of the meat. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/vegetarian-ramen>
+
+---
+
+## Pandan Cake
+
+date: 2024-10-31, from: Taste of Home
+
+This light-as-air pandan cake features the fragrant, vanilla-like essence of pandan for an uncommonly delicious dessert. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/pandan-cake/>
+
+---
+
+## 12 Types of Cinnamon Powder with Dangerously High Levels of Lead
+
+date: 2024-10-31, from: Taste of Home
+
+<p>Lead in cinnamon can lead to serious health hazards. Check your pantry for these products before holiday baking season begins.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/lead-in-cinnamon-powder/">12 Types of Cinnamon Powder with Dangerously High Levels of Lead</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/lead-in-cinnamon-powder/>
+
+---
+
+## Corn Ice Cream
+
+date: 2024-10-31, from: Taste of Home
+
+Try this corn ice cream recipe when you want something cool, rich and creamy with bursts of corn flavor among a vanilla base. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/corn-ice-cream-2/>
+
+---
+
+## Maple-Glazed Pork Chops
+
+date: 2024-10-31, from: Taste of Home
+
+The best foods are sometimes the simplest. Our maple-glazed pork chops, with a sweet, tangy glaze of maple syrup and cider vinegar, come together quickly, and they're so delicious you'll be thinking about making them again before you finish eating. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/maple-glazed-pork-chops/>
+
+---
+
+## Fellow Aiden Drip Coffee Maker Review: As Close to Pour-Over as It Gets
+
+date: 2024-10-31, from: Bon Appetet
+
+It could make me actually give up my pour-over habit. 
+
+<br> 
+
+<https://www.bonappetit.com/story/fellow-aiden-coffee-maker>
+
+---
+
+## The Buzziest Food Gifts of 2024
+
+date: 2024-10-31, from: Bon Appetet
+
+Give the gift of that thing you’ve seen everywhere and secretly want to buy for yourself. 
+
+<br> 
+
+<https://www.bonappetit.com/story/the-buzziest-food-gifts-of-2024>
+
+---
+
+## 6 Kitchen Tools You Should Refresh Before Thanksgiving
+
+date: 2024-10-31, from: Bon Appetet
+
+Because you don’t want your cousin to lose a fingertip peeling potatoes with a dull paring knife. 
+
+<br> 
+
+<https://www.bonappetit.com/story/kitchen-tools-you-should-refresh-before-thanksgiving>
+
+---
+
+## Brussels Sprout Casserole
+
+date: 2024-10-31, from: Taste of Home
+
+This Brussels sprout casserole is a comforting dish that delivers a delightful blend of flavors and textures that'll leave everyone at the table wanting more. It features a rich, creamy cheese sauce and a crispy topping, making it a fantastic side dish for a holiday feast. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/brussels-sprout-casserole/>
+
+---
+
+## Introducing The Dwell Dripper by Verve Coffee Roasters
+
+date: 2024-10-31, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. It's the brand's first-ever brewing device. 
+
+<br> 
+
+<https://sprudge.com/introducing-the-dwell-dripper-by-verve-coffee-roasters-257940.html>
+
+---
+
+## Best Water Bottle (2024) for Hardcore Hydration
+
+date: 2024-10-31, from: Bon Appetet
+
+Because drinking from a cup just doesn’t cut it. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-water-bottles>
+
+---
+
+## Three Questions with Coffee and Bakery Consultant Erica Escalante
+
+date: 2024-10-31, from: Daily Coffee News
+
+<div><img width="620" height="490" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Erica-Escalante-coffee-consultant-2-1-620x490.jpg" class="attachment-large size-large wp-post-image" alt="Processed with VSCO with j1 preset" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Erica-Escalante-coffee-consultant-2-1-620x490.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Erica-Escalante-coffee-consultant-2-1-300x237.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Erica-Escalante-coffee-consultant-2-1-150x119.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Erica-Escalante-coffee-consultant-2-1-768x607.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Erica-Escalante-coffee-consultant-2-1.jpg 1186w" sizes="(max-width: 620px) 100vw, 620px" /></div>Erica Escalante has always been motivated by curiosity, a desire to know why things work the way they do.&#160; She started in coffee at Starbucks in 2008, leaving two years... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/10/31/three-questions-with-coffee-and-bakery-consultant-erica-escalante/>
+
+---
+
+## Crying Brew Murder
+
+date: 2024-10-31, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. That’s a tasty looking neck. 
+
+<br> 
+
+<https://sprudge.com/crying-brew-murder-257506.html>
+
+---
+
+## Asip Coffee Focused on Flavor at The Sensory Lab in Merced, CA
+
+date: 2024-10-31, from: Daily Coffee News
+
+<div><img width="620" height="436" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/SIP-Coffee-Lab-Merced-2-1-620x436.jpg" class="attachment-large size-large wp-post-image" alt="SIP Coffee Lab Merced 2" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/SIP-Coffee-Lab-Merced-2-1-620x436.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/SIP-Coffee-Lab-Merced-2-1-300x211.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/SIP-Coffee-Lab-Merced-2-1-150x105.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/SIP-Coffee-Lab-Merced-2-1-768x540.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/SIP-Coffee-Lab-Merced-2-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>In California&#8217;s Central Valley city of Merced, roasting company Asip Coffee is encouraging sips galore with a second cafe location called The Sensory Lab. Asip Coffee Founder Justin Shen, a... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/10/31/asip-coffee-focused-on-flavor-at-the-sensory-lab-in-merced-ca/>
 
 ---
 
@@ -361,7 +735,7 @@ date: 2024-10-30, from: Taste of Home
 
 date: 2024-10-30, from: Daily Coffee News
 
-<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/15.packaging-display-620x465.jpg" class="attachment-large size-large wp-post-image" alt="15.packaging display" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/15.packaging-display-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/15.packaging-display-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/15.packaging-display-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/15.packaging-display-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/15.packaging-display.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/15.packaging-display-620x465.jpg" class="attachment-large size-large wp-post-image" alt="15.packaging display" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/15.packaging-display-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/15.packaging-display-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/15.packaging-display-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/15.packaging-display-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/15.packaging-display.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
 
 <br> 
 
@@ -373,7 +747,7 @@ date: 2024-10-30, from: Daily Coffee News
 
 date: 2024-10-30, from: Daily Coffee News
 
-<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Spella-Caffe-at-Woodblock-5-620x465.jpeg" class="attachment-large size-large wp-post-image" alt="Spella Caffe at Woodblock 5" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Spella-Caffe-at-Woodblock-5-620x465.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Spella-Caffe-at-Woodblock-5-300x225.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Spella-Caffe-at-Woodblock-5-150x113.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Spella-Caffe-at-Woodblock-5-768x576.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Spella-Caffe-at-Woodblock-5.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>One year after opening a shop that reclaimed its downtown Portland, Oregon roots, Italian-style coffee stalwart Spella Caffè is opening a second location across the Willamette River, in Northeast Portland.... 
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Spella-Caffe-at-Woodblock-5-620x465.jpeg" class="attachment-large size-large wp-post-image" alt="Spella Caffe at Woodblock 5" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Spella-Caffe-at-Woodblock-5-620x465.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Spella-Caffe-at-Woodblock-5-300x225.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Spella-Caffe-at-Woodblock-5-150x113.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Spella-Caffe-at-Woodblock-5-768x576.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Spella-Caffe-at-Woodblock-5.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>One year after opening a shop that reclaimed its downtown Portland, Oregon roots, Italian-style coffee stalwart Spella Caffè is opening a second location across the Willamette River, in Northeast Portland.... 
 
 <br> 
 
@@ -409,7 +783,7 @@ date: 2024-10-30, from: The Sprudge
 
 date: 2024-10-30, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Sputnik-Coffee-IMF-roaster-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Sputnik Coffee IMF roaster" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Sputnik-Coffee-IMF-roaster-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Sputnik-Coffee-IMF-roaster-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Sputnik-Coffee-IMF-roaster-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Sputnik-Coffee-IMF-roaster-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Sputnik-Coffee-IMF-roaster.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Chicago-based Sputnik Coffee Company opened a spacious second cafe earlier this month with views into an enormous new color-coordinated roasting facility. Less than half a mile from Sputnik&#8217;s original roastery... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Sputnik-Coffee-IMF-roaster-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Sputnik Coffee IMF roaster" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Sputnik-Coffee-IMF-roaster-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Sputnik-Coffee-IMF-roaster-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Sputnik-Coffee-IMF-roaster-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Sputnik-Coffee-IMF-roaster-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Sputnik-Coffee-IMF-roaster.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Chicago-based Sputnik Coffee Company opened a spacious second cafe earlier this month with views into an enormous new color-coordinated roasting facility. Less than half a mile from Sputnik&#8217;s original roastery... 
 
 <br> 
 
@@ -539,7 +913,7 @@ Looking for the ultimate holiday sip? This cranberry Moscow mule brings serious 
 
 date: 2024-10-30, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/chili-pepper-recipes/chili/white-bean-chicken-chili-recipe/" title="White Chicken Chili Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/White-Chicken-Chili-Recipe-BOWL1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A large bowl of White Chicken Chili, ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/White-Chicken-Chili-Recipe-BOWL1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/White-Chicken-Chili-Recipe-BOWL1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/White-Chicken-Chili-Recipe-BOWL1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/White-Chicken-Chili-Recipe-BOWL1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/White-Chicken-Chili-Recipe-BOWL1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/White-Chicken-Chili-Recipe-BOWL1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/White-Chicken-Chili-Recipe-BOWL1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This one-pot white chicken chili is the ultimate comfort food with plenty of chicken, white beans and simple spices, easy to make any night, always a hit!</p>
+<a href="https://www.chilipeppermadness.com/chili-pepper-recipes/chili/white-bean-chicken-chili-recipe/" title="White Chicken Chili Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/White-Chicken-Chili-Recipe-BOWL1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A large bowl of White Chicken Chili, ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/White-Chicken-Chili-Recipe-BOWL1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/White-Chicken-Chili-Recipe-BOWL1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/White-Chicken-Chili-Recipe-BOWL1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/White-Chicken-Chili-Recipe-BOWL1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/White-Chicken-Chili-Recipe-BOWL1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/White-Chicken-Chili-Recipe-BOWL1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/White-Chicken-Chili-Recipe-BOWL1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This one-pot white chicken chili is the ultimate comfort food with plenty of chicken, white beans and simple spices, easy to make any night, always a hit!</p>
 <p>The post <a href="https://www.chilipeppermadness.com/chili-pepper-recipes/chili/white-bean-chicken-chili-recipe/">White Chicken Chili Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

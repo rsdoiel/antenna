@@ -1,11 +1,730 @@
 ---
 title: columns
-updated: 2024-10-31 06:26:58
+updated: 2024-11-01 10:26:12
 ---
 
 # columns
 
-(date: 2024-10-31 06:26:58)
+(date: 2024-11-01 10:26:12)
+
+---
+
+##  The newest book from Atlas Obscura: Wild Life: An Explorer&#8217;s Guide to... 
+
+date: 2024-11-01, updated: 2024-11-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045544-the-newest-book-from-atla>
+
+---
+
+## Pixelmator Acquired by Apple; Future of Their Apps Uncertain
+
+date: 2024-11-01, updated: 2024-11-01, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.pixelmator.com/blog/2024/11/01/a-new-home-for-pixelmator/>
+
+---
+
+##  A New Visualization of the Atomic Nucleus 
+
+date: 2024-11-01, updated: 2024-11-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/a-new-visualization-of-the-atomic-nucleus>
+
+---
+
+## Tucker Carlson Claims He Was Mauled by a Demon While He Slept
+
+date: 2024-11-01, updated: 2024-11-01, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.mediaite.com/news/tucker-carlson-says-he-woke-up-bleeding-in-his-bed-after-demon-attack-that-left-claw-mark-scars/>
+
+---
+
+##  Crows hold grudges. &#8220;When a murder of crows singles out a person... 
+
+date: 2024-11-01, updated: 2024-11-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045567-crows-hold-grudges-when-a>
+
+---
+
+## Exif by magic – the forgotten extra information in JPEG and TIFF files
+
+date: 2024-11-01, from: Chris Heilmann's blog
+
+I just shot a ton of pictures on vacation and was amazed to see just how much extra data our mobile phones store in images. This exif data in JPG and TIFF files can be a privacy issue, which I pointed out in my TEDx talk some time ago and even created a tool to [&#8230;] 
+
+<br> 
+
+<https://christianheilmann.com/2024/11/01/exif-by-magic-the-forgotten-extra-information-in-jpeg-and-tiff-files/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-01, from: Dave Winer's Scripting News)
+
+Meanwhile, it's amazing that both CNN and MSNBC have gotten serious about covering the reality of Trump 2.0 after being very unserious for the last year. It's as if after rejecting Joe Biden, months later they realized they rejected the wrong guy. 
+
+<br> 
+
+<http://scripting.com/2024/11/01.html#a134607>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-01, from: Dave Winer's Scripting News)
+
+Unfortunately the only place you can read this <a href="https://www.facebook.com/dan.conover.714/posts/pfbid0VqEwJyLQQ7Qyhu9Zoz6ivz35APRfvLMKp7wBZvR2pDRTVdLwf1QR8Xh646faRJ1Zl">Dan Conover piece</a> is on Facebook about the failure of the NY Times and Washington Post to adequately defend democracy. He says something I had not seen elsewhere. "We're not talking about HuffPo or Salon here. We're talking about the last two 'unique nationals' standing in American print journalism. Instiututions with long and storied histories. Both took the same test at the same time, and both failed it." I'd add that all other journalism usually follows their lead, but that may be finally changing. 
+
+<br> 
+
+<http://scripting.com/2024/11/01.html#a134358>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-01, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/04/17/asGoodAsItGets.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">We now understand that the Republicans derive their power through division, setting groups against each other. We think the Democrats are the opposite, they are inclusive, everyone is welcome there. But that's not true. This <a href="https://www.npr.org/2024/11/01/nx-s1-5154873/what-explains-the-big-gender-gap-between-supporters-of-trump-and-harris">NPR piece</a> touches on it, gingerly, because it's the third rail in non-Republican politics. Because it's one of the divisions that's maintained by people who are mostly Democrats. If you want to know if you're part of the problem, measure your own feelings when you find out what it's about. And then listen, carefully to the words. It might be hard to hear because I think most people who do this don't think they do, or they're justified in doing it. They don't want to look here. But the pragmatic reason to focus on this is that in future elections, assuming we have them, if we can make an effort to not do this, we could get enough Republican votes to switch to make real change possible. They might even become our most vocal supporters. Winning in politics is done by focusing on common interests over division. 
+
+<br> 
+
+<http://scripting.com/2024/11/01.html#a132202>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-01, from: Dave Winer's Scripting News)
+
+The monthly archive <a href="https://github.com/scripting/Scripting-News/blob/master/blog/opml/2024/10.opml">for October</a> has been saved. By the end of this month we'll know a lot more than we know now. 
+
+<br> 
+
+<http://scripting.com/2024/11/01.html#a131836>
+
+---
+
+## 2024-11-01 Gzip them all!
+
+date: 2024-11-01, from: Alex Schroeder's Blog
+
+<h1 id="2024-11-01-gzip-them-all">2024-11-01 Gzip them all!</h1>
+
+<p>I keep <a href="https://campaignwiki.org/1pdc">an archive</a> of the <a href="https://campaignwiki.org/one">One Page Dungeon Contest</a>.
+It&rsquo;s pretty big.</p>
+
+<table>
+<thead>
+<tr>
+<th align="right">Size</th>
+<th>Year</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="right">48M</td>
+<td>2009</td>
+</tr>
+
+<tr>
+<td align="right">193M</td>
+<td>2010</td>
+</tr>
+
+<tr>
+<td align="right">121M</td>
+<td>2011</td>
+</tr>
+
+<tr>
+<td align="right">199M</td>
+<td>2012</td>
+</tr>
+
+<tr>
+<td align="right">149M</td>
+<td>2013</td>
+</tr>
+
+<tr>
+<td align="right">278M</td>
+<td>2014</td>
+</tr>
+
+<tr>
+<td align="right">364M</td>
+<td>2015</td>
+</tr>
+
+<tr>
+<td align="right">233M</td>
+<td>2016</td>
+</tr>
+
+<tr>
+<td align="right">250M</td>
+<td>2017</td>
+</tr>
+
+<tr>
+<td align="right">493M</td>
+<td>2018</td>
+</tr>
+
+<tr>
+<td align="right">345M</td>
+<td>2019</td>
+</tr>
+
+<tr>
+<td align="right">472M</td>
+<td>2020</td>
+</tr>
+
+<tr>
+<td align="right">217M</td>
+<td>2021</td>
+</tr>
+
+<tr>
+<td align="right">353M</td>
+<td>2022</td>
+</tr>
+
+<tr>
+<td align="right">492M</td>
+<td>2023</td>
+</tr>
+
+<tr>
+<td align="right">486M</td>
+<td>2024</td>
+</tr>
+</tbody>
+</table>
+<p>So I decided I wanted to gzip the PDF files (&ldquo;pre-compress&rdquo;) them.
+I found the answer I was looking for in <a href="https://feeding.cloud.geek.nz/posts/serving-pre-compressed-files-using/">Serving pre-compressed files using Apache</a> by François Marier.
+Sometimes searching for stuff is hard just because you don&rsquo;t know what it&rsquo;s called. 😅</p>
+
+<pre><code>AddEncoding gzip gz
+Options +Multiviews
+SetEnv force-no-vary
+Header set Cache-Control &quot;private&quot;
+&lt;FilesMatch &quot;\.pdf\.gz$&quot;&gt;
+ForceType application/pdf
+&lt;/FilesMatch&gt;
+</code></pre>
+
+<p>OK, time to gzip them all!</p>
+
+<pre><code>for d in 2*; cd /home/alex/campaignwiki.org/1pdc/$d; echo $d; gzip *.pdf; end
+</code></pre>
+
+<p>Aaaaand … the gains are abysmal! 😓</p>
+
+<table>
+<thead>
+<tr>
+<th align="right">Size</th>
+<th>Year</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="right">46M</td>
+<td>2009</td>
+</tr>
+
+<tr>
+<td align="right">173M</td>
+<td>2010</td>
+</tr>
+
+<tr>
+<td align="right">110M</td>
+<td>2011</td>
+</tr>
+
+<tr>
+<td align="right">190M</td>
+<td>2012</td>
+</tr>
+
+<tr>
+<td align="right">126M</td>
+<td>2013</td>
+</tr>
+
+<tr>
+<td align="right">261M</td>
+<td>2014</td>
+</tr>
+
+<tr>
+<td align="right">351M</td>
+<td>2015</td>
+</tr>
+
+<tr>
+<td align="right">226M</td>
+<td>2016</td>
+</tr>
+
+<tr>
+<td align="right">225M</td>
+<td>2017</td>
+</tr>
+
+<tr>
+<td align="right">471M</td>
+<td>2018</td>
+</tr>
+
+<tr>
+<td align="right">325M</td>
+<td>2019</td>
+</tr>
+
+<tr>
+<td align="right">448M</td>
+<td>2020</td>
+</tr>
+
+<tr>
+<td align="right">206M</td>
+<td>2021</td>
+</tr>
+
+<tr>
+<td align="right">339M</td>
+<td>2022</td>
+</tr>
+
+<tr>
+<td align="right">472M</td>
+<td>2023</td>
+</tr>
+
+<tr>
+<td align="right">471M</td>
+<td>2024</td>
+</tr>
+</tbody>
+</table>
+<p>The PDFs really are that big! 🤨</p>
+
+<p>Somebody should put a size limit on submissions!</p>
+
+<p>The whole collection is still 4.4G. 😞</p>
+
+<p><a class="tag" href="/search/?q=%23RPG">#RPG</a> <a class="tag" href="/search/?q=%231PDC">#1PDC</a> <a class="tag" href="/search/?q=%23Administration">#Administration</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2024-11-01-gzip>
+
+---
+
+## An awful lot of FOSS should thank the Academy
+
+date: 2024-11-01, updated: 2024-11-01, from: Liam Proven's articles at the Register
+
+<h4><span class="label">Ubuntu Summit 2024</span> ASWF is the open source foundation run by the folks who give out Oscars, and you&#39;ve probably seen the results</h4>
+      <p>One of the things we didn&#39;t expect to see at this year&#39;s Ubuntu get-together was a chart showing Rocky Linux&#39;s dominance. Another was demos of whizz-bang special movie effects with open source componentry at their heart.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/11/01/aswf_foss_oscars/>
+
+---
+
+## October 31, 2024 
+
+date: 2024-11-01, from: Heather Cox Richardson blog
+
+House speaker Mike Johnson (R-LA) has responded to news stories about his plan to get rid of the Affordable Care Act (or Obamacare) by claiming his comments at the closed-door campaign event on Monday were taken out of context. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/october-31-2024>
+
+---
+
+## The 101 worst things about Trump’s shambolic presidency 
+
+date: 2024-11-01, from: Robert Reich's blog
+
+No one should forget 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-101-worst-things-about-trumps>
+
+---
+
+## History Extra for October 30, 2024
+
+date: 2024-11-01, from: Heather Cox Richardson blog
+
+On February 1, 1968, Memphis, Tennessee sanitation workers Echol Cole and Robert Walker died when they took shelter from a torrential rainstorm in the back of the dilapidated city garbage truck they were operating and the compactor malfunctioned, crushing them to death. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/history-extra-for-october-30-2024>
+
+---
+
+## The Talk Show: ‘His Most Pro Shirt’
+
+date: 2024-11-01, updated: 2024-11-01, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://daringfireball.net/thetalkshow/2024/10/31/ep-412>
+
+---
+
+## Anthropic’s Claude AI Chatbot Now Has a Mac App, But It’s an Electron Turd
+
+date: 2024-11-01, updated: 2024-11-01, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/2024/10/31/24284742/claude-ai-macos-windows-desktop-app>
+
+---
+
+## Friday 1 November, 2024
+
+date: 2024-11-01, from: John Naughton's online diary
+
+Listening to the Universe A radio telescope of the astronomy lab at Lord’s Bridge near Cambridge. Quote of the Day ”A writer who adopts political, social, or literary positions must act only with the means that are his own &#8212; &#8230; <a href="https://memex.naughtons.org/friday-1-november-2024/40020/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-1-november-2024/40020/>
+
+---
+
+## The Exception That Proves the Rule: the Walmart M1 MacBook Air Still Has Just 8 GB RAM
+
+date: 2024-10-31, updated: 2024-11-01, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://pxlnv.com/linklog/16-gb-ram-mac/>
+
+---
+
+## Portland Japanese Garden 2024 Fall color
+
+date: 2024-10-31, from: Matt Haughey blog
+
+<p>Every year I (ab)use my annual pass to the <a href="https://japanesegarden.org/?ref=a.wholelottanothing.org" rel="noreferrer">Portland Japanese Gardens</a> by visiting every 4-5 days from September through October, until peak color hits and that time is this very week. Here are some photos from today on a cloudy and rainy not-so-crowded Thursday.</p><figure class="kg-card kg-image-card kg-width-wide"><img src="https://a.wholelottanothing.org/content/images/2024/10/IMG_8679.JPG" class="kg-image" alt loading="lazy" width="2000" height="2667" srcset="https://a.wholelottanothing.org/content/images/size/w600/2024/10/IMG_8679.JPG 600w, https://a.wholelottanothing.org/content/images/size/w1000/2024/10/IMG_8679.JPG 1000w, https://a.wholelottanothing.org/content/images/size/w1600/2024/10/IMG_8679.JPG 1600w, https://a.wholelottanothing.org/content/images/size/w2400/2024/10/IMG_8679.JPG 2400w" sizes="(min-width: 1200px) 1200px"></figure><figure class="kg-card kg-image-card kg-width-wide"><img src="https://a.wholelottanothing.org/content/images/2024/10/IMG_8714.JPG" class="kg-image" alt loading="lazy" width="2000" height="1732" srcset="https://a.wholelottanothing.org/content/images/size/w600/2024/10/IMG_8714.JPG 600w, https://a.wholelottanothing.org/content/images/size/w1000/2024/10/IMG_8714.JPG 1000w, https://a.wholelottanothing.org/content/images/size/w1600/2024/10/IMG_8714.JPG 1600w, https://a.wholelottanothing.org/content/images/size/w2400/2024/10/IMG_8714.JPG 2400w" sizes="(min-width: 1200px) 1200px"></figure><figure class="kg-card kg-image-card kg-width-wide"><img src="https://a.wholelottanothing.org/content/images/2024/10/IMG_8724.JPG" class="kg-image" alt loading="lazy" width="2000" height="1585" srcset="https://a.wholelottanothing.org/content/images/size/w600/2024/10/IMG_8724.JPG 600w, https://a.wholelottanothing.org/content/images/size/w1000/2024/10/IMG_8724.JPG 1000w, https://a.wholelottanothing.org/content/images/size/w1600/2024/10/IMG_8724.JPG 1600w, https://a.wholelottanothing.org/content/images/size/w2400/2024/10/IMG_8724.JPG 2400w" sizes="(min-width: 1200px) 1200px"></figure><figure class="kg-card kg-image-card kg-width-wide"><img src="https://a.wholelottanothing.org/content/images/2024/10/IMG_8733.JPG" class="kg-image" alt loading="lazy" width="2000" height="1500" srcset="https://a.wholelottanothing.org/content/images/size/w600/2024/10/IMG_8733.JPG 600w, https://a.wholelottanothing.org/content/images/size/w1000/2024/10/IMG_8733.JPG 1000w, https://a.wholelottanothing.org/content/images/size/w1600/2024/10/IMG_8733.JPG 1600w, https://a.wholelottanothing.org/content/images/size/w2400/2024/10/IMG_8733.JPG 2400w" sizes="(min-width: 1200px) 1200px"></figure><figure class="kg-card kg-image-card kg-width-wide"><img src="https://a.wholelottanothing.org/content/images/2024/10/IMG_8734.JPG" class="kg-image" alt loading="lazy" width="2000" height="1500" srcset="https://a.wholelottanothing.org/content/images/size/w600/2024/10/IMG_8734.JPG 600w, https://a.wholelottanothing.org/content/images/size/w1000/2024/10/IMG_8734.JPG 1000w, https://a.wholelottanothing.org/content/images/size/w1600/2024/10/IMG_8734.JPG 1600w, https://a.wholelottanothing.org/content/images/size/w2400/2024/10/IMG_8734.JPG 2400w" sizes="(min-width: 1200px) 1200px"></figure><figure class="kg-card kg-image-card kg-width-wide"><img src="https://a.wholelottanothing.org/content/images/2024/10/IMG_8737.JPG" class="kg-image" alt loading="lazy" width="2000" height="2667" srcset="https://a.wholelottanothing.org/content/images/size/w600/2024/10/IMG_8737.JPG 600w, https://a.wholelottanothing.org/content/images/size/w1000/2024/10/IMG_8737.JPG 1000w, https://a.wholelottanothing.org/content/images/size/w1600/2024/10/IMG_8737.JPG 1600w, https://a.wholelottanothing.org/content/images/size/w2400/2024/10/IMG_8737.JPG 2400w" sizes="(min-width: 1200px) 1200px"></figure><figure class="kg-card kg-image-card kg-width-wide"><img src="https://a.wholelottanothing.org/content/images/2024/10/IMG_8743.JPG" class="kg-image" alt loading="lazy" width="2000" height="1500" srcset="https://a.wholelottanothing.org/content/images/size/w600/2024/10/IMG_8743.JPG 600w, https://a.wholelottanothing.org/content/images/size/w1000/2024/10/IMG_8743.JPG 1000w, https://a.wholelottanothing.org/content/images/size/w1600/2024/10/IMG_8743.JPG 1600w, https://a.wholelottanothing.org/content/images/size/w2400/2024/10/IMG_8743.JPG 2400w" sizes="(min-width: 1200px) 1200px"></figure><figure class="kg-card kg-image-card kg-width-wide"><img src="https://a.wholelottanothing.org/content/images/2024/10/IMG_8748.JPG" class="kg-image" alt loading="lazy" width="2000" height="1390" srcset="https://a.wholelottanothing.org/content/images/size/w600/2024/10/IMG_8748.JPG 600w, https://a.wholelottanothing.org/content/images/size/w1000/2024/10/IMG_8748.JPG 1000w, https://a.wholelottanothing.org/content/images/size/w1600/2024/10/IMG_8748.JPG 1600w, https://a.wholelottanothing.org/content/images/size/w2400/2024/10/IMG_8748.JPG 2400w" sizes="(min-width: 1200px) 1200px"></figure><figure class="kg-card kg-image-card kg-width-wide"><img src="https://a.wholelottanothing.org/content/images/2024/10/IMG_8752.JPG" class="kg-image" alt loading="lazy" width="2000" height="1500" srcset="https://a.wholelottanothing.org/content/images/size/w600/2024/10/IMG_8752.JPG 600w, https://a.wholelottanothing.org/content/images/size/w1000/2024/10/IMG_8752.JPG 1000w, https://a.wholelottanothing.org/content/images/size/w1600/2024/10/IMG_8752.JPG 1600w, https://a.wholelottanothing.org/content/images/size/w2400/2024/10/IMG_8752.JPG 2400w" sizes="(min-width: 1200px) 1200px"></figure><figure class="kg-card kg-image-card kg-width-wide"><img src="https://a.wholelottanothing.org/content/images/2024/10/IMG_8755.JPG" class="kg-image" alt loading="lazy" width="2000" height="2667" srcset="https://a.wholelottanothing.org/content/images/size/w600/2024/10/IMG_8755.JPG 600w, https://a.wholelottanothing.org/content/images/size/w1000/2024/10/IMG_8755.JPG 1000w, https://a.wholelottanothing.org/content/images/size/w1600/2024/10/IMG_8755.JPG 1600w, https://a.wholelottanothing.org/content/images/size/w2400/2024/10/IMG_8755.JPG 2400w" sizes="(min-width: 1200px) 1200px"></figure><figure class="kg-card kg-image-card kg-width-wide"><img src="https://a.wholelottanothing.org/content/images/2024/10/IMG_8763.JPG" class="kg-image" alt loading="lazy" width="2000" height="1500" srcset="https://a.wholelottanothing.org/content/images/size/w600/2024/10/IMG_8763.JPG 600w, https://a.wholelottanothing.org/content/images/size/w1000/2024/10/IMG_8763.JPG 1000w, https://a.wholelottanothing.org/content/images/size/w1600/2024/10/IMG_8763.JPG 1600w, https://a.wholelottanothing.org/content/images/size/w2400/2024/10/IMG_8763.JPG 2400w" sizes="(min-width: 1200px) 1200px"></figure> 
+
+<br> 
+
+<https://a.wholelottanothing.org/portland-japanese-garden-2024-fall-color/>
+
+---
+
+## The Kids Take Over
+
+date: 2024-10-31, from: Doc Searls (at Harvard), New Old Blog
+
+While I am extremely pleased and grateful that 26 years of writing on Linux Journal survive online without being 404&#8217;d, I also realize that this condition probably won&#8217;t last forever. Also, some pieces are now missing their images and other graces. This is one of them. It is also one of my best, I think, Or [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2024/10/31/the-kids-take-over/>
+
+---
+
+## Apple Q3 FY2024 Results
+
+date: 2024-10-31, updated: 2024-10-31, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.apple.com/newsroom/2024/10/apple-reports-fourth-quarter-results/>
+
+---
+
+##  Nintendo Music, an iOS app for &#8220;enjoying music from Nintendo games&#8221;. The... 
+
+date: 2024-10-31, updated: 2024-10-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045566-nintendo-music-an-ios-app>
+
+---
+
+##  Game recommendation from Dan Sinker: UFO 50. &#8220;I&#8217;m doing a disservice in... 
+
+date: 2024-10-31, updated: 2024-10-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045563-game-recommendation-from->
+
+---
+
+##  An oral history of HotWired, Wired&#8217;s original website. &#8220;We had a meeting... 
+
+date: 2024-10-31, updated: 2024-10-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045564-an-oral-history-of-hotwir>
+
+---
+
+##  TIL that the dunk tank has extremely racist origins. Unbelievable but also... 
+
+date: 2024-10-31, updated: 2024-10-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045565-til-that-the-dunk-tank>
+
+---
+
+## James Ledbetter, R.I.P.
+
+date: 2024-10-31, from: Om Malik blog
+
+James Ledbetter, one of my contemporaries from the world of business journalism, has died at age 60. Inc. magazine reported he died of a heart attack. Ledbetter had worked for most major media publications and was deeply connected in the media world. I never met Ledbetter, who was the New York bureau chief of The &#8230; 
+
+<br> 
+
+<https://om.co/2024/10/31/james-ledbetter-r-i-p/>
+
+---
+
+## 2024-10-27 Traveller Subsector Mapper
+
+date: 2024-10-31, from: Alex Schroeder's Blog
+
+<h1 id="2024-10-27-traveller-subsector-mapper">2024-10-27 Traveller Subsector Mapper</h1>
+
+<p>The <a href="https://campaignwiki.org/traveller">Traveller Subsector Mapper</a>
+is now no longer running under Hypnotoad but under Systemd.</p>
+
+<p>The main reason I&rsquo;m doing this is so that systemd can limit the memory available to the app.
+I&rsquo;m hoping that this will force Perl to garbage-collect more often and that will show me if I do in fact have memory leaks in the code.
+I suspect I do, to be honest.</p>
+
+<p>This is what I&rsquo;m talking about: The web app uses up to 300MiB of RAM.
+Sure, no problem, there&rsquo;s no need to garbage collect if nobody needs the memory.
+I still don&rsquo;t like it, though.
+Probably irrational.</p>
+
+<p><img loading="lazy" src="2024-10-27-traveller-1.jpg" alt="" /></p>
+
+<p>Let&rsquo;s hope this works.</p>
+
+<p>The systemd unit:</p>
+
+<pre><code>[Unit]
+Description=Traveller
+After=network.target
+[Install]
+WantedBy=multi-user.target
+[Service]
+Type=simple
+WorkingDirectory=/home/alex/farm
+Restart=always
+DynamicUser=yes
+MemoryMax=100M
+MemoryHigh=80M
+Environment=&quot;PERL5LIB=/home/alex/perl5/perlbrew/perls/perl-5.40.0/lib&quot;
+ExecStart=/home/alex/perl5/perlbrew/perls/perl-5.40.0/bin/perl \
+ /home/alex/farm/traveller.pl \
+ daemon --mode production -l http://localhost:4011
+</code></pre>
+
+<p>I&rsquo;m using Perlbrew as my user (alex) so this is the tricky part.
+This unit guarantees that I&rsquo;m running the app itself using Perl 5.40.0.
+In the app, I rely on this:</p>
+
+<pre><code>use Mojolicious::Lite -signatures;
+use File::Basename;
+
+my $dirname  = dirname($^X);
+
+plugin Mount =&gt; {'/traveller' =&gt; &quot;$dirname/traveller&quot;};
+
+app-&gt;start;
+</code></pre>
+
+<p>It assumes that <a href="https://metacpan.org/dist/App-traveller">App:traveller</a> was installed.
+It finds the <code>traveller</code> script next to the Perl interpreter.
+If I need to change the Perl version again, I only need to change it in the systemd unit.</p>
+
+<p>The Monit config file no longer needs to know about the Perl version:</p>
+
+<pre><code>check process traveller matching traveller
+    start program = &quot;/usr/bin/systemctl start traveller&quot;
+    stop program = &quot;/usr/bin/systemctl stop traveller&quot;
+    if failed host campaignwiki.org port 443 type tcpssl protocol http
+      and request &quot;/traveller&quot; for 5 cycles then restart
+    if totalmem &gt; 100 MB for 5 cycles then restart
+</code></pre>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23Web">#Web</a> <a class="tag" href="/search/?q=%23Perl">#Perl</a> <a class="tag" href="/search/?q=%23Programming">#Programming</a></p>
+
+<p><strong>2024-10-31</strong>. Did the same thing for <a href="https://campaignwiki.org/hex-describe">Hex Describe</a>!</p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2024-10-27-traveller>
+
+---
+
+##  Who Are the People in the Neighborhood? Part Two. 
+
+date: 2024-10-31, updated: 2024-10-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/who-are-the-people-in-the-neighborhood-part-two>
+
+---
+
+##  &#8220;If you were to modify the flash cooling process so that the... 
+
+date: 2024-10-31, updated: 2024-10-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045533-if-you-were-to-modify>
+
+---
+
+## October 30, 2024
+
+date: 2024-10-31, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/150989817/d81a58a844b786caa09bd473a27e6cde.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/150989817/d81a58a844b786caa09bd473a27e6cde.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/october-30-2024-b69>
+
+---
+
+## Roger Grimes on Prioritizing Cybersecurity Advice
+
+date: 2024-10-31, updated: 2024-10-31, from: Bruce Schneier blog
+
+<p>This is a <a href="https://www.linkedin.com/pulse/every-cybersecurity-list-should-risk-ranked-roger-grimes-ippze">good point</a>:</p>
+<blockquote><p>Part of the problem is that we are constantly handed lists&#8230;list of required controls&#8230;list of things we are being asked to fix or improve&#8230;lists of new projects&#8230;lists of threats, and so on, that are not ranked for risks. For example, we are often given a cybersecurity guideline (e.g., PCI-DSS, HIPAA, SOX, NIST, etc.) with hundreds of recommendations. They are all great recommendations, which if followed, will reduce risk in your environment.</p>
+<p>What they do not tell you is which of the recommended things will have the most impact on best reducing risk in your environment. They do not tell you that one, two or three of these things…among the hundreds that have been given to you, will reduce more risk than all the others...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/10/roger-grimes-on-prioritizing-cybersecurity-advice.html>
+
+---
+
+##  The Time Travel Movie That Doesn&#8217;t Go Anywhere 
+
+date: 2024-10-31, updated: 2024-10-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/the-time-travel-movie-that-doesnt-go-anywhere>
+
+---
+
+## Tracking World Leaders Using Strava
+
+date: 2024-10-31, updated: 2024-10-31, from: Bruce Schneier blog
+
+<p>Way back in 2018, people noticed that you could <a href="https://www.theguardian.com/lifeandstyle/2024/oct/29/strava-problem-fitness-app-locate-worlds-most-powerful-people">find secret military bases</a> using data published by the Strava fitness app. Soldiers and other military personal were using them to track their runs, and you could look at the public data and find places where there should be no people running.</p>
+<p>Six years later, the problem remains. <i>Le Monde</i> <a href="https://www.lemonde.fr/en/france/article/2024/10/27/how-emmanuel-macron-can-be-tracked-watch-the-first-episode-of-stravaleaks_6730708_7.html">has</a> <a href="https://www.lemonde.fr/en/united-states/article/2024/10/28/biden-and-trump-put-in-danger-by-secret-service-agents-watch-the-second-episode-of-stravaleaks_6730825_133.html">reported</a> <a href="https://www.lemonde.fr/en/international/article/2024/10/29/putin-s-bodyguards-go-on-runs-near-palace-he-denies-owning-stravaleaks-episode-3_6730915_4.html">that</a> the same Strava data can be used to track the movements of world leaders. They don&#8217;t wear the tracking device, but many of their bodyguards do.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/10/tracking-world-leaders-using-strava.html>
+
+---
+
+##  In a unique settlement agreement, Parkland shooting survivor Anthony Borges now owns... 
+
+date: 2024-10-31, updated: 2024-10-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/0045538-in-a-unique-settlement-ag>
+
+---
+
+## LTT's Precision Screwdriver - better than iFixit?
+
+date: 2024-10-31, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">LTT's Precision Screwdriver - better than iFixit?</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/ltt-precision-screwdriver.jpeg" alt="LTT Precision Screwdriver held by Jeff"></p>
+
+<p>Two years ago, Linus Sebastian released a general purpose ratcheting screwdriver tailored towards PC building and IT needs. I <a href="https://www.jeffgeerling.com/blog/2022/youtuber-built-tool-beat-snap-on">reviewed the LTT Screwdriver</a>, and found it to be a good tool that <em>did</em> improve a couple things where it counted: the ratchet mechanism was useful for a broad range of lighter tasks, and the in-handle bit storage was a creative improvement over the patented MegaPro Automotive design the LTT Screwdriver was based on.</p>
+
+<p>The price of the LTT Screwdriver was about $15-20 more than I think it's worth, but it's still a good enough driver you can justify paying extra. I bought three LTT Screwdrivers and have one on each of my workbenches at home and at the studio!</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-10-31T09:01:03-05:00" title="Thursday, October 31, 2024 - 09:01" class="datetime">October 31, 2024</time>
+</span> 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2024/ltts-precision-screwdriver-better-ifixit>
 
 ---
 
@@ -248,6 +967,18 @@ It&#8217;s all about dominance in space
 
 ---
 
+## ASCII control characters in my terminal
+
+date: 2024-10-31, updated: 2024-10-31, from: Julia Evans blog
+
+ 
+
+<br> 
+
+<https://jvns.ca/blog/2024/10/31/ascii-control-characters/>
+
+---
+
 ## ‘Dodgers Capture World Series by Storming Back in Game 5 to Upend Yankees’
 
 date: 2024-10-31, updated: 2024-10-31, from: Daring Fireball
@@ -376,6 +1107,18 @@ date: 2024-10-30, updated: 2024-10-30, from: Jason Kittke's blog
 
 ---
 
+##  Collection of 2000+ Free Science Images from the NIH 
+
+date: 2024-10-30, updated: 2024-10-30, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/10/collection-of-2000-free-science-images-from-the-nih>
+
+---
+
 **@Miguel de Icaza Mastondon feed** (date: 2024-10-30, from: Miguel de Icaza Mastondon feed)
 
 <p>Between the M4 Max and Qualcomm losing their ARM manufacturing license it is a pretty grim day for Windows users around the globe.</p><p>It is a bloodbath.</p><p>On the positive side, MacOS is still as fun and welcoming as it ever has been.</p> 
@@ -388,7 +1131,7 @@ date: 2024-10-30, updated: 2024-10-30, from: Jason Kittke's blog
 
 ## Sidenote of the Week: All MacBook Air Models Now Start With 16 GB RAM
 
-date: 2024-10-30, updated: 2024-10-30, from: Daring Fireball
+date: 2024-10-30, updated: 2024-11-01, from: Daring Fireball
 
  
 
@@ -619,7 +1362,7 @@ date: 2024-10-29, updated: 2024-10-30, from: Daring Fireball
 
 ## Ron Prognosticates: Trump is Going to Win
 
-date: 2024-10-29, updated: 2024-10-29, from: Ron Garret
+date: 2024-10-29, updated: 2024-11-01, from: Ron Garret
 
 &nbsp;I'm too depressed to elaborate much on this, but I just wanted to go on the record with this prediction before the election.&nbsp; Why do I think Trump is going to win?&nbsp; Because DJT stock is up and has been rising steadily since it hit an all-time low in late September.&nbsp; It didn't even go down today after yesterday's disastrous MSG rally.&nbsp; The polls have been static since 
 

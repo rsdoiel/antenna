@@ -1,11 +1,1200 @@
 ---
 title: north america
-updated: 2024-10-31 06:26:56
+updated: 2024-11-01 10:26:11
 ---
 
 # north america
 
-(date: 2024-10-31 06:26:56)
+(date: 2024-11-01 10:26:11)
+
+---
+
+## Before US sanctions violations arrest, Russian businessman faced charges in Hong Kong
+
+date: 2024-11-01, from: VOA News USA
+
+When the U.S. Department of Treasury imposed sanctions on three companies belonging to Denis Postovoy on Wednesday, it was yet another move to break up what U.S. authorities say was an international scheme to violate sanctions.
+
+
+A month earlier, on September 16, law enforcement officials arrested the 44-year-old Russian national in Sarasota, Florida.
+
+
+He was charged with conspiring to violate sanctions on Russia, commit smuggling, commit money laundering and defraud the United States.
+
+
+According to the indictment, Postovoy used an international network of companies to export dual-use microelectronic components from the United States to Russia –– potentially spare parts for military drones used in the Kremlin’s war against Ukraine.
+
+
+
+
+Postovoy is not the first Russian charged with violating U.S. export controls. But he is one of the few who allegedly did it from inside the United States.
+
+
+Using court documents and open-source information, VOA pieced together Postovoy’s history, revealing a story involving international trade, criminal charges in two countries, a U.S. startup and Florida real estate.
+
+
+Postovoy pleaded not guilty to all the charges. If convicted, he could face decades in prison.
+
+
+Postovoy is in pretrial detention and could not be reached for comment. His lawyer did not respond to a VOA request for comment. When VOA reached Postovoy’s wife by phone, she hung up. She did not respond to questions sent to her on the WhatsApp messenger app.
+
+
+According to the latest court filings, Postovoy’s case was transferred to the U.S. District Court in Washington.
+
+
+American charges
+
+
+After Moscow launched its full-scale invasion of Ukraine on Feb. 24, 2022, the U.S. significantly expanded restrictions on the export of microelectronics to Russia.
+
+
+The Department of Justice has accused Postovoy and several unnamed co-conspirators of using a network of companies under their control in Hong Kong, Switzerland and Russia to violate those sanctions.
+
+
+It claims Postovoy misrepresented the buyers and destinations of the goods, routing them through Hong Kong, Switzerland, Turkey and Estonia.
+
+
+“As alleged, he lied about the final destination for the technology he was shipping and used intermediary destinations to mask this illegal activity,” U.S. Attorney Matthew M. Graves stated in a press release. “Fortunately, our skilled law enforcement partners at HSI [Homeland Security Investigations] and our dedicated attorneys unraveled the plot.”
+
+
+The prosecution states that Postovoy’s clients included the Russian company Streloi Ekommerts and other unnamed firms. According to the indictment, the contract with Streloi was completed before the company was added to the U.S. sanctions list in December 2023.
+
+
+An investigation by Radio Free Europe/Radio Liberty found that Streloi actively helps Russia circumvent Western export restrictions.
+
+
+Another recipient of the microelectronics, according to an invoice included in the case materials, was the Russian technology company Radius Avtomatika.
+
+
+Neither company responded to emailed questions from VOA.
+
+
+It is unclear whether the microelectronics Postovoy allegedly exported were ultimately used in drones, but one court document states that the people he contacted were members of Russia’s military-industrial complex.
+
+
+Hong Kong story
+
+
+Originally from Novosibirsk, Russia, Postovoy had lived in Hong Kong since at least 2010 with his wife — a Ukrainian citizen from Crimea — and their three children.
+
+
+Shipping records indicate his companies were involved in exporting goods from Hong Kong, a special administrative region of China, to Russia. Prosecutors allege that after the U.S. expanded its sanctions, some of this activity became illegal.
+
+
+When the DOJ announced Postovoy’s arrest, it also listed the names of his companies that it said were involved in the alleged scheme. Aside from the Russian-registered firm Vektor Group, all the others were in Hong Kong: Jove HK Limited, JST Group Hong Kong and WowCube HK Limited.
+
+
+All are now under U.S. sanctions, except for WowCube HK Limited.
+
+
+Its appearance in the indictment provoked a rapid response from Cubios, another company previously associated with Postovoy. It produces the WOWCube gaming console, wich looks like a Rubik’s cube with multiple screens.
+
+
+
+
+Just a day after Postovoy's arrest was announced, Cubios publicly denied any connection to WowCube HK Limited.
+
+
+"Neither Cubios nor any of its officers, directors, managers or employees ... have any connection to the HK Entity whatsoever. We do not own, operate or are in any way affiliated with the HK Entity,” the company said in a statement on its website.
+
+
+The startup also said that Postovoy "falsely listed himself as a VP of the Company” on LinkedIn.
+
+
+In fact, Postovoy was previously Cubios’ vice president for production, according to archived versions of its website.
+
+
+
+
+Ilya Osipov, CEO of Cubios, told VOA that a mutual friend introduced him to Postovoy.
+
+
+"I was looking for someone who could help with production in China — they gave me Denis," he wrote in a message to VOA.
+
+
+According to Osipov, Postovoy became a business partner and made important contributions to prototypes and test batches of the WOWCube. Later the company decreased cooperation with him.
+
+
+Although Postovoy did not have an official position, Cubios allowed him to call himself the vice president of production "for business purposes," Osipov told VOA.
+
+
+He claimed that Postovoy founded the Hong Kong firm without Cubios’ permission. It was planned to become a distributor of the consoles in Asia, but that never happened, Osipov said.
+
+
+Coming to America
+
+
+In 2022, Postovoy and his family moved to Sarasota, Florida, where Cubios' headquarters is.
+
+
+According to Osipov, Postovoy said the move was motivated by a desire to raise children in a Western country and concerns about increasingly strict Chinese control of Hong Kong.
+
+
+American prosecutors see a different motivation.
+
+
+In a response to U.S. federal investigators included in the case materials, Hong Kong police said Postovoy was charged on March 1, 2022, with money laundering — a crime punishable by up to 14 years in prison and a fine of up to $643,000.
+
+
+According to the email, Postovoy was scheduled to appear in court on March 4 but left Hong Kong the day before.
+
+
+Hong Kong police did not respond to VOA’s request for comment.
+
+
+By June 2022, Postovoy's wife purchased a house in southeastern Sarasota.
+
+
+Sarasota County property records indicate the house was valued at around $980,000. A mortgage covered $680,000 of the cost.
+
+
+In August 2023, Postovoy bought another house, in the new Rivo Lakes gated community in Sarasota. According to purchase documents, it cost $1.13 million. In September, he transferred it to a trust controlled by his wife.
+
+
+On the same day, his wife transferred the house to another trust and later sold the property.
+
+
+According to a U.S. magistrate judge, Postovoy's decision to transfer the second house into a trust was likely an attempt to conceal his ownership.
+
+
+He “did not list his home — which is valued at nearly a million dollars and held in the name of a trust controlled by his wife — on his financial affidavit submitted to this Court,” the judge wrote in a decision not to grant Postovoy bail.
+
+
+This may not be the only attempted cover-up in the case: Russian company records indicate that, in December 2023, a man named Dmitry Smirnov replaced Postovoy as owner of his Vektor Group company.
+
+
+VOA’s Cantonese Service contributed research to this story. 
+
+<br> 
+
+<https://www.voanews.com/a/before-us-sanctions-violations-arrest-russian-businessman-faced-charges-in-hong-kong/7847881.html>
+
+---
+
+## US border arrests remained lower in October amid Biden asylum restrictions
+
+date: 2024-11-01, from: VOA News USA
+
+U.S. border authorities apprehended some 54,000 migrants illegally crossing the U.S.-Mexico border in October, according to preliminary figures obtained by Reuters, showing a marginal rise from September but continuing the broader downward trend since June when new restrictions were imposed under President Joe Biden. 
+
+
+Vice President Kamala Harris, the Democratic presidential candidate, has called for even tougher border restrictions in the face of criticism by Republican candidate Donald Trump over illegal immigration as the two compete in a tight race. 
+
+
+Immigration is a top issue for voters heading into Tuesday's election, particularly among Republicans, and Trump has intensified his language. 
+
+
+The roughly 54,000 migrant arrests from October 1 through October 30 were far less than the U.S. Border Patrol's monthly arrest average of 160,000 through the first eight months of fiscal year 2024, before the Biden restrictions were imposed. The preliminary data reviewed by Reuters did not include the final day of October. 
+
+
+In fiscal year 2023, border agents apprehended an average of 170,000 migrants per month. 
+
+
+In fiscal year 2019, before the pandemic and during Trump's presidency, the monthly average was about 71,000.  
+
+
+"We feel very confident in the strategy that we're employing to manage this," a senior U.S. Customs and Border Protection official said, requesting anonymity to discuss unpublished statistics. The official said the reduced crossings had allowed more agents to move to the field and target trafficking of people and drugs. 
+
+
+Biden's restrictions blocked most people crossing illegally from claiming asylum. At the same time, Mexico stepped up its immigration enforcement following U.S. pressure. 
+
+
+Trump cracked down on both legal and illegal immigration during his 2017-2021 presidency and has promised historic levels of deportations if reelected. Harris blames Trump for helping kill bipartisan legislation earlier this year that aimed to increase border security. 
+
+
+The Biden administration has also launched programs that have allowed hundreds of thousands of migrants to enter legally through emergency "parole," which Biden officials say has reduced illegal crossings. Republicans argue the Biden programs exceed the bounds of the law and serve as a workaround to allow migrants to enter the U.S. 
+
+<br> 
+
+<https://www.voanews.com/a/us-border-arrests-remained-lower-in-october-amid-biden-asylum-restrictions/7847826.html>
+
+---
+
+## US employers add 12,000 jobs last month as hurricanes, strikes reduce payrolls
+
+date: 2024-11-01, from: VOA News USA
+
+WASHINGTON — America’s employers added 12,000 jobs in October, a total that economists say was held down by the effects of strikes and hurricanes that left many workers temporarily off payrolls. The report provided a somewhat blurry view of the job market at the end of a presidential race that has pivoted heavily on voters’ feelings about the economy.
+
+
+Last month’s hiring gain was down significantly from the 223,000 jobs that were added in September. But economists have estimated that hurricanes Helene and Milton, combined with strikes at Boeing and elsewhere, had the effect of pushing down net job growth by tens of thousands of jobs in October.
+
+
+Friday’s report from the Labor Department also showed that the unemployment rate remained at 4.1% last month. The low jobless rate suggests that the labor market is still fundamentally healthy, if not as robust as it was early this year. Combined with an inflation rate that has tumbled from its 2022 peak to near prepandemic levels, the overall economy appears to be on solid footing on the eve of Election Day.
+
+
+The government did not estimate how many jobs were likely removed temporarily from payrolls last month. But economists have said they think the storms and strikes caused up to 100,000 jobs to be dropped. Reflecting the impact of the strikes, factories shed 46,000 positions in October.
+
+
+Health care companies added 52,000 jobs in October, and state and local governments tacked on 39,000.
+
+
+The employment report for October also revised down the government's estimate of the job gains in August and September by a combined 112,000, indicating that the labor market wasn't quite as robust then as initially thought.
+
+
+“The big one-off shocks that struck the economy in October make it impossible to know whether the job market was changing direction in the month,’’ Bill Adams, chief economist at Comerica Bank, wrote in a commentary. “But the downward revisions to job growth through September show it was cooling before these shocks struck.’’
+
+
+Still, economists have noted that the United States has the strongest of the world’s most advanced economies, one that has proved surprisingly durable despite the pressure of high interest rates. This week, for example, the government estimated that the economy expanded at a healthy 2.8% annual rate last quarter, with consumer spending — the heart of the economy — helping drive growth.
+
+
+Yet as voters choose between former President Donald Trump and Vice President Kamala Harris, large numbers of Americans have said they are unhappy with the state of the economy. Despite the plummeting of inflation, many people are exasperated by high prices, which surged during the recovery from the pandemic recession and remain about 20% higher on average than they were before inflation began accelerating in early 2021.
+
+
+With inflation having significantly cooled, the Fed is set to cut its benchmark interest rate next week for a second time and likely again in December. The Fed’s 11 rate hikes in 2022 and 2023 managed to help slow inflation without tipping the economy into a recession. A series of Fed rate cuts should lead, over time, to lower borrowing rates for consumers and businesses.
+
+
+In the meantime, there have been signs of a slowdown in the job market. This week, the Labor Department reported that employers posted 7.4 million job openings in September. Although that is still more than employers posted on the eve of the 2020 pandemic, it amounted to the fewest openings since January 2021.
+
+
+And 3.1 million Americans quit their jobs in September, the fewest in more than four years. A drop in quits tends to indicate that more workers are losing confidence in their ability to land a better job elsewhere. 
+
+<br> 
+
+<https://www.voanews.com/a/us-employers-add-12-000-jobs-last-month-as-hurricanes-strikes-reduce-payrolls/7847691.html>
+
+---
+
+## A jobs report that doesn’t say much about the labor market
+
+date: 2024-11-01, from: Marketplace Morning Report
+
+<p>Today&#8217;s jobs report featured a shockingly small number of new hires with just around 12,000 jobs added. However, as FHN Financial&#8217;s Christopher Low explains, these dismal figures have more to do with recent extreme weather events and the ongoing strike at Boeing. Plus, we look at why a tax provision expanding the amount of money very rich people are allowed to pass on after death is expiring — and why most people shouldn&#8217;t be concerned about it. And, the BBC&#8217;s Mariko Oi highlights the global success of Hello Kitty on the beloved character&#8217;s 50th anniversary.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/01/mmr_20241101_MMR_Podcast_3_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/a-jobs-report-that-doesnt-say-much-about-the-labor-market&awCollectionId=mkp-MMR&awGenre=%5B"Talk","News","Business"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report"></source>
+</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/01/mmr_20241101_MMR_Podcast_3_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/a-jobs-report-that-doesnt-say-much-about-the-labor-market&awCollectionId=mkp-MMR&awGenre=%5B\"Talk\",\"News\",\"Business\"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/a-jobs-report-that-doesnt-say-much-about-the-labor-market>
+
+---
+
+## US envoy sees some 'concerning signals' in Russia-China military cooperation in Arctic
+
+date: 2024-11-01, from: VOA News USA
+
+The United States is watching growing cooperation between Russia and China in the Arctic closely and some of their recent military collaboration in the region sends "concerning signals", the U.S. Arctic ambassador said.  
+
+
+Russia and China have stepped up military cooperation in the Arctic while deepening overall ties in recent years that include China supplying Moscow with dual-use goods despite Western sanctions on Russia over the war in Ukraine. 
+
+
+Russia and the United States are among eight countries with territory in the resource-rich Arctic. China calls itself a "near-Arctic" state and wants to create a "Polar Silk Road" in the Arctic, a new shipping route as the polar ice sheet recedes with rising temperatures.  
+
+
+Michael Sfraga, the United States' first ambassador-at-large for Arctic affairs, said the "frequency and the complexity" of recent military cooperation between Moscow and Beijing in the region sent "concerning signals". 
+
+
+"The fact that they are working together in the Arctic has our attention," Sfraga, who was sworn in last month, told Reuters in a telephone interview from Alaska. "We are being both vigilant and diligent about this. We're watching very closely this evolution of their activity." 
+
+
+"It raises our radar, literally and figuratively," he added.
+
+
+
+
+Sfraga cited a joint run by Russian and Chinese bomber planes off the coast of Alaska in July, and Chinese and Russian coast guard ships sailing together through the Bering Strait in October.  
+
+
+He said these activities had been conducted in international waters, in line with international law, but the fact that the bombers flew off the coast of Alaska had raised concerns for U.S. security. 
+
+
+"We do need to think about security, heighten our own alliances, our own mutual defences," Sfraga said. "Alaska, the North American Arctic, is NATO's western flank and so we need to think about the Arctic that way." 
+
+
+The activity was also a concern for U.S. allies as the Bering Strait and the Bering Sea give access to the North Pacific and South Pacific, he said. 
+
+
+The Pentagon said in a report released in July that the growing alignment between Russia and China in the Arctic was "a concern".  
+
+
+China and Russia are trying to develop Arctic shipping routes as Moscow seeks to deliver more oil and gas to China amid Western sanctions. Beijing is seeking an alternative shipping route to reduce its dependence on the Strait of Malacca. 
+
+
+The Arctic also holds fossil fuels and minerals beneath the land and the seabed that could become more accessible with global warming. 
+
+<br> 
+
+<https://www.voanews.com/a/us-envoy-sees-some-concerning-signals-in-russia-china-military-cooperation-in-arctic/7847586.html>
+
+---
+
+## Ford Pump the Brakes on the F-150 Lightning
+
+date: 2024-11-01, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MzgzMzk5NC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3Nzk2NTY0NH0.FZNTteCEXekA4tZnoKAAqSVR6oe_Mqj14f4mq1m33js/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>
+<em><strong>Current conditions:</strong> <em>New York City, Long Island, and the Lower Hudson Valley, along with much of the Northeast Corridor, are under red flag warnings for fire after a month of dry weather • Typhoon Kong-rey made landfill in Taiwan with winds over 125 miles per hour, injuring more than 500 and killing two • The first snow of the year showed up in Iowa and, yes, <a href="https://apnews.com/article/hawaii-snow-mauna-kea-weather-825eff0aeb26919f2fce410ae20e13d1?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_xtIMyo3oVun0TVoO7z6l8I4GLgQ0UffpcKyjm1v29wHMudmjWk8YGRD-Kw97q9HVyTanP" rel="noopener noreferrer" target="_blank">Hawaii</a>.</em></em>
+</p><h2>THE TOP FIVE</h2><h3>1. Ford hits pause on the F-150 Lightning factory</h3><p>
+	Ford is planning a temporary shutdown of the plant that produces its fully electric truck, the F-150 Lightning. The shutdown will last seven weeks, 
+	<em>Bloomberg</em> reported. Earlier this week, <a href="https://www.bloomberg.com/news/articles/2024-10-31/ford-to-halt-f-150-lightning-production-as-ev-demand-wanes?srnd=phx-green&utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_xtIMyo3oVun0TVoO7z6l8I4GLgQ0UffpcKyjm1v29wHMudmjWk8YGRD-Kw97q9HVyTanP" rel="noopener noreferrer" target="_blank">Ford told investors</a> that its profits had fallen in part due to a $1 billion charge it had taken after <a href="https://heatmap.news/electric-vehicles/ford-ev-suv-canceled?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_xtIMyo3oVun0TVoO7z6l8I4GLgQ0UffpcKyjm1v29wHMudmjWk8YGRD-Kw97q9HVyTanP" target="_self">overhauling its electric vehicle strategy earlier this year</a>. Ford sold just over 7,000 Lightnings in the third quarter of this year, more than double its sales in the third quarter of last year, but just about 3.5% of its total F-150 sales. Overall, <a href="https://heatmap.news/electric-vehicles/ev-sales-q3-2024?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_xtIMyo3oVun0TVoO7z6l8I4GLgQ0UffpcKyjm1v29wHMudmjWk8YGRD-Kw97q9HVyTanP" target="_self">electric vehicle sales rose in the third quarter</a>, but when it came to trucks, consumers preferred the Tesla Cybertruck to the Lightning.
+</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="Ford F-150 LIghtning" class="rm-shortcode" data-rm-shortcode-id="c972774a7a71749c56765e1274bb7c11" data-rm-shortcode-name="rebelmouse-image" id="3bdb0" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDEyMjM2Mi9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc1OTMxNTEzOH0.rvxU8bB4tBMoKh6X00SJFF8oR2QdGxxVjB_DPr4MjWA/image.jpg?width=980"/>
+<small class="image-media media-photo-credit" placeholder="Add Photo Credit...">Scott Olson/Getty Images</small>
+</p><h3>2. New support for battery recycling</h3><p>
+	The Department of Energy 
+	<a href="https://www.energy.gov/articles/biden-harris-administration-announces-nearly-45-million-slash-electric-vehicle-battery?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_xtIMyo3oVun0TVoO7z6l8I4GLgQ0UffpcKyjm1v29wHMudmjWk8YGRD-Kw97q9HVyTanP" rel="noopener noreferrer" target="_blank">announced Thursday</a> that it would award $45 million in funding for eight electric vehicle battery recycling programs. The projects “will advance research, development, and demonstration of recycling and second-life applications for batteries once used to power EVs,” the DOE said. The programs include money for diagnostics, automatic sorting for used batteries, and automated battery dissembling. The projects being funded are in Southern California, Michigan, Illinois, New York, New Jersey, and Tennessee.
+</p><h3>3. Microsoft tries to reduce its data centers’ climate impact</h3><p>
+			Microsoft will use wood to build two data centers in Northern Virginia, the company announced Tuesday. Use of “cross-laminated timber” will reduce the carbon footprint of the data centers’ construction by about a third compared to steel and almost two-thirds compared to concert, <a href="https://news.microsoft.com/source/features/sustainability/microsoft-builds-first-datacenters-with-wood-to-slash-carbon-emissions/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_xtIMyo3oVun0TVoO7z6l8I4GLgQ0UffpcKyjm1v29wHMudmjWk8YGRD-Kw97q9HVyTanP" target="_blank">the company said</a>. This is just the latest move by Microsoft to try to reduce emissions associated with construction — the company is also <a href="https://heatmap.news/climate/microsoft-sublime-cement-credit?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_xtIMyo3oVun0TVoO7z6l8I4GLgQ0UffpcKyjm1v29wHMudmjWk8YGRD-Kw97q9HVyTanP" target="_self">working on developing a market</a> for buying environmental attributes of low-carbon cement, Heatmap reported earlier this month. Microsoft’s “indirect” emissions of greenhouse gases rose by <a href="https://blogs.microsoft.com/on-the-issues/2024/05/15/microsoft-environmental-sustainability-report-2024/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_xtIMyo3oVun0TVoO7z6l8I4GLgQ0UffpcKyjm1v29wHMudmjWk8YGRD-Kw97q9HVyTanP" rel="noopener noreferrer" target="_blank">over 30% last year</a>, largely thanks to the massive data center building binge it’s been on, along with the rest of Big Tech.
+		</p><h3>4. New York, at least, will be able to meet its energy needs, report says</h3><p>
+	While plans to build data centers are creating electricity demand anxiety all over the country, the boom may not disrupt or strain New York’s grid, at least for a while, <a href="https://nysfocus.com/2024/11/01/artificial-intelligence-crash-new-york-electric-grid?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_xtIMyo3oVun0TVoO7z6l8I4GLgQ0UffpcKyjm1v29wHMudmjWk8YGRD-Kw97q9HVyTanP" rel="noopener noreferrer" target="_blank"><em>New York Focus</em> reports</a>. “Despite mounting pressures due to the state’s climate law and a burst in new manufacturing and tech facilities, New York has enough power plants operating or planned to meet statewide demand over the next decade,” the news nonprofit reported, citing an analysis by NYISO, which operates New York’s electricity market.<br/><br/>This finding is important because it means that not every carbon-emitting power plant has to stay open to meet new demand, which may let New York get closer to achieving its emissions targets. The reason for the more optimistic forecast is that some of the largest loads in the state like crypto mining or hydrogen told NYISO they can shut down during times of high demand on the grid.</p><h3>5. Europe’s emissions fall</h3><p>European Union greenhouse gas emissions fell 8.3% in 2023, according <a href="https://climate.ec.europa.eu/document/download/d0671350-37f2-4bc4-88e8-088d0508fb03_en?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_xtIMyo3oVun0TVoO7z6l8I4GLgQ0UffpcKyjm1v29wHMudmjWk8YGRD-Kw97q9HVyTanP" target="_blank">to the European Commission’s annual climate report</a>. It was the largest fall in emissions “in several decades,” not counting 2020, when economic activity plummeted due to Covid-19. Annual emissions have fallen by more than a third since 1990, while economic activity has increased by two-thirds since then. The report attributed much of the drop to the continent’s energy sector, whose emissions dropped 18%.</p><p>
+			“This drop was due to a substantial increase in renewable electricity production (primarily wind and solar), at the expense of both coal and gas and, to a lesser extent, a decrease in both electricity and heat supply compared with 2022, and to the recovery of hydro and nuclear power.” The drop in EU emissions stands in contrast to rising emissions globally in 2023, <a href="https://d2qwfv04.na1.hubspotlinks.com/Ctc/X+113/d2QWfV04/MVst-rnKpt0W3Cnmc596Vk9XW4HyYrL5mBbRCN1WCR_C3qn9gW7Y8-PT6lZ3pGW6VBFh12k6h0yW6BRPQB1P6PLLW93ZDmw9fdDQBW3DczjK7R1Df5MtgSb-qSWg8W6StnNL3k-qjJW2YQXWY6_Y4BjW85NDmK6dPZ_VW72YGXL7yjr1HW6DPRjX6Rg6RbM4PRkMw30G4N5txk-blNj-LW1bQYb64V-_W6W8YcgTM9hVRp8W1fSzMm1yr3hKW2xndk72VcYzVW1d6qKd8Z34kqW7BwjWS3rxdQSW68mM811rZd2NV3WYtJ8c-BV2W4ttPBk3KpNQcW5rxTWR9gDZwtW2QyLkB5rXvWqW1Y5Twf1QxckxW7_nb8S526CYKW9k4fWQ3BXD_Df3V839z04?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_xtIMyo3oVun0TVoO7z6l8I4GLgQ0UffpcKyjm1v29wHMudmjWk8YGRD-Kw97q9HVyTanP" target="_blank">according to the United Nations</a>.</p><h2>THE KICKER</h2><p>To the delight of energy nerds, the Energy Information Administration <a href="https://bsky.app/profile/jfdecarolis.bsky.social/post/3l7o53yldgu2g?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_xtIMyo3oVun0TVoO7z6l8I4GLgQ0UffpcKyjm1v29wHMudmjWk8YGRD-Kw97q9HVyTanP" rel="noopener noreferrer" target="_blank">has published</a> a new <a href="https://www.eia.gov/totalenergy/data/monthly/pdf/flow/total_energy_sankey_2023.pdf?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_xtIMyo3oVun0TVoO7z6l8I4GLgQ0UffpcKyjm1v29wHMudmjWk8YGRD-Kw97q9HVyTanP" rel="noopener noreferrer" target="_blank">Sankey diagram</a> showing how energy gets used in the U.S. economy.
+</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="54af666265cb28871de6c65f6d5ee575" data-rm-shortcode-name="rebelmouse-image" id="34370" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDEyMjYwNy9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4MzQ1OTE3MH0.4yOo6Xijy2tQzitzCZ2yiS10kn4bbTZhb6cDcButK-o/image.jpg?width=980"/>
+</p> 
+
+<br> 
+
+<https://heatmap.news/electric-vehicles/f-150-lightning-pause>
+
+---
+
+## What’s behind the uncertainty in the housing market?
+
+date: 2024-11-01, from: Marketplace Morning Report
+
+<p>It hasn&#8217;t been a normal housing market for years now, but it&#8217;s been especially uncertain in the past few months. We delve into how interest rate cuts, mortgage rate fluctuations, and the election are all making conditions for buying a home a bit hard to read for most people. Plus, a preview of today&#8217;s highly anticipated jobs report which might reflect recent headlines more than it does the overall health of the economy. And, why prices at the pump are poised to dip below $3 on average nationwide despite global trends that would suggest otherwise.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/01/mmr_20241101_MMR_Podcast_2_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/whats-behind-the-uncertainty-in-the-housing-market&awCollectionId=mkp-MMR&awGenre=%5B"Talk","News","Business"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report"></source>
+</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/01/mmr_20241101_MMR_Podcast_2_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/whats-behind-the-uncertainty-in-the-housing-market&awCollectionId=mkp-MMR&awGenre=%5B\"Talk\",\"News\",\"Business\"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/whats-behind-the-uncertainty-in-the-housing-market>
+
+---
+
+## Indonesia bans the sale of Google Pixel phones
+
+date: 2024-11-01, from: Marketplace Morning Report
+
+<p>From the BBC World Service: A ban on Google&#8217;s flagship Pixel smartphone in Indonesia comes because the company failed to meet requirements for certain smartphones sold domestically to contain at least 40% of parts manufactured locally. Plus, Hello Kitty turns 50, and the landmark birthday also marks an uptick in the fortunes of Sanrio, the company behind the character.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/01/mmr_20241101_MMR_Podcast_1_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/indonesia-bans-the-sale-of-google-pixel-phones&awCollectionId=mkp-MMR&awGenre=%5B"Talk","News","Business"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report"></source>
+</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/01/mmr_20241101_MMR_Podcast_1_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/indonesia-bans-the-sale-of-google-pixel-phones&awCollectionId=mkp-MMR&awGenre=%5B\"Talk\",\"News\",\"Business\"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/indonesia-bans-the-sale-of-google-pixel-phones>
+
+---
+
+## Kurdish immigrants running for local office in Minnesota
+
+date: 2024-11-01, from: VOA News USA
+
+Moorhead, Minnesota, is home to more than 3,000 Kurds, some of whom have been there since the mid-1970s. They are the town’s largest minority group and hope this election might bring them representation in local government. Dakhil Shammo of VOA’s Kurdish service went to Minnesota and met with two local candidates in this story narrated by Amy Katz. 
+
+<br> 
+
+<https://www.voanews.com/a/kurdish-immigrants-running-for-local-office-in-minnesota-/7847432.html>
+
+---
+
+##  The New Movie Trump Doesn’t Want You To See 
+
+date: 2024-11-01, from: The Lever News
+
+ The Apprentice screenwriter calls out Hollywood for cowering to Donald Trump.  
+
+<br> 
+
+<https://www.levernews.com/the-new-movie-trump-doesnt-want-you-to-see/>
+
+---
+
+## Russia gives former US Consulate employee nearly 5-year jail term
+
+date: 2024-11-01, from: VOA News USA
+
+moscow — A Russian former employee of the U.S. Consulate in Russia's Far Eastern city of Vladivostok has been sentenced to four years and 10 months in prison for "secret collaboration with a foreign state," Russian agencies said Friday.
+
+
+Robert Shonov worked for more than 25 years for the U.S. Consulate until 2021, when Moscow imposed restrictions on local staff working for foreign missions.
+
+
+Afterward, he worked as a private contractor compiling news accounts from publicly accessible Russian media, according to the U.S. State Department.
+
+
+He was arrested this year on suspicion of passing secret information about Russia's war in Ukraine to the United States in exchange for money.
+
+
+According to the judgment published on the website of Valdivostok's Primorye court, $4,343 and an electronic device linked to the commission of the offense were seized.
+
+
+In September 2023, Russia also expelled two U.S. diplomats it accused of acting as liaison agents for Shonov.
+
+
+According to Washington, Shonov had only been hired by the U.S. Consulate to carry out routine monitoring of freely accessible Russian media.
+
+
+In recent years, several U.S. citizens have been arrested and sentenced to long jail terms in Russia. Others are being held pending trial.
+
+
+Washington, which supports Ukraine militarily and financially against Russia's invasion, accuses Moscow of wanting to exchange them for Russians held in the United States.
+
+
+The United States and Russia exchanged prisoners including The Wall Street Journal reporter Evan Gershkovich in a landmark swap in August, but several U.S. nationals and dual nationals remain in detention in Russia. 
+
+<br> 
+
+<https://www.voanews.com/a/russia-gives-former-us-consulate-employee-nearly-5-year-jail-term/7847354.html>
+
+---
+
+## Exclusive: US says it is looking into case of American jailed in Iran
+
+date: 2024-11-01, from: VOA News USA
+
+The Biden administration says it is looking into Iran's apparent recent detention of an Iranian American dual national who is the only U.S. citizen publicly reported to have been jailed by the Islamic republic since a rare U.S.-Iran prisoner swap in September 2023.
+
+
+Responding to a VOA inquiry last week the State Department said in a statement that it was "aware of reports that a dual U.S.-Iranian citizen has been arrested in Iran."
+
+
+The reports refer to Reza Valizadeh, a former journalist for VOA sister network Radio Farda who had left the Persian-language network in 2022. He flew to Tehran in February to visit his family after living in the West for 14 years, according to his last post on the X platform in August.
+
+
+Iran views Radio Farda and other Western-based Persian media as hostile entities because they draw attention to public dissent and protests against the nation's authoritarian Islamist rulers.
+
+
+"We are working with our Swiss partners who serve as the protecting power for the United States in Iran to gather more information about this case," a State Department spokesperson said.
+
+
+"Iran routinely imprisons U.S. citizens and other countries' citizens unjustly for political purposes. This practice is cruel and contrary to international law," the spokesperson added.
+
+
+An informed source inside Iran told VOA's Persian Service that Valizadeh was arrested in Iran in late September on charges of collaborating with overseas-based Persian media. The source requested anonymity due to Iran's repeated harassment of individuals who provide comments publicly to Western media.
+
+
+The Iran-based human rights group Human Rights Activists in Iran (HRAI) and the U.S.-based media rights group Committee to Protect Journalists reported in mid-October that Valizadeh had been held in Tehran's Evin prison without access to a lawyer since his arrest. The reports cited two sources: one close to Valizadeh's family, and one who previously worked with Valizadeh.
+
+
+Iran's U.N. mission in New York acknowledged receiving a VOA request for comment about Valizadeh's case last week but provided no response.
+
+
+
+
+Skylar Thompson, HRAI's Washington-based deputy director, said in a message to VOA that the State Department "must utilize all available diplomatic channels to investigate Valizadeh's detention and ensure his immediate, unhindered access to legal counsel."
+
+
+In his last X post in August, Valizadeh wrote that he had returned to Iran in February after having only "half-completed" a negotiation with the intelligence arm of Iran's top military force, the Islamic Revolutionary Guard Corps. He said he decided to return voluntarily, even without having received a prior written or verbal commitment that the IRGC would not impede his visit.
+
+
+In Valizadeh's previous X post, published in February upon arrival in Iran, he said Iranian intelligence agents had summoned and pressured his family members to persuade him to return.
+
+
+Iranian President Masoud Pezeshkian has tried to persuade Iranians living abroad that they have nothing to fear by returning.
+
+
+"We must assure them that if they return to Iran, we will not file a case against them. We will not harass them, and we will not prevent them from leaving," Pezeshkian said in an August interview with state news agency ISNA.
+
+
+Jason Brodsky, policy director of U.S. advocacy group United Against Nuclear Iran, told VOA that Valizadeh's arrest should be a warning to Iranians with dual nationalities that Tehran's assurances cannot be trusted.
+
+
+"There have been cases over the years in which Iranians abroad will get authorization from one governmental entity in Iran to enter, and then a competing agency will scoop up this person and take him hostage," Brodsky said.
+
+
+Valizadeh was slated to go on trial before Revolutionary Court judge Abolghassem Salavati, according to sources cited by HRAI and Iranian freelance journalist Nejat Bahrami, who first reported Valizadeh's arrest in a social media post on October 13. Salavati has been sanctioned by the U.S. government for harshly punishing Iranian citizens and dual nationals for exercising their freedoms of expression or assembly.
+
+
+"It seems as though Valizadeh is wrongfully detained," said Kylie Moore-Gilbert, an Australian political scientist who herself was detained in Iran from 2018 to 2020 on what Western nations said were bogus security charges.
+
+
+In an email to VOA, Moore-Gilbert wrote that Valizadeh's journalism "would certainly make him a person of interest to the IRGC."
+
+
+"The fact that he has been referred to the Revolutionary Court of Salavati is also telling, as this judge is favored by the IRGC for dealing with political cases including the wrongful detention of foreign and dual nationals," she wrote.
+
+
+Granting a wrongful detention designation to a U.S. national means U.S. Special Envoy for Hostage Affairs Roger Carstens is authorized to work with a coalition of government and private sector organizations to secure the detainee's freedom.
+
+
+
+
+Designations are granted if a review by the secretary of state concludes that the U.S. national's case meets criteria defined in the Levinson Act of 2020.
+
+
+Any of Valizadeh's family members residing abroad or legal representatives should "immediately apply" to the U.S. secretary of state for a wrongful detention designation, Moore-Gilbert said. Valizadeh's recent work as a journalist should make the process "relatively straightforward" in contrast to other cases, she added.
+
+
+The State Department spokesperson who sent the statement to VOA said the agency "continuously monitors the circumstances surrounding the detentions of U.S. citizens overseas for indicators that the detentions may be wrongful."
+
+
+The Biden administration secured the release of five Iranian Americans whom it deemed wrongfully detained in Iran in a September 2023 deal in which five Iranians in the U.S. also won reprieves from detention and prosecution.
+
+
+That deal is the only U.S.-Iran prisoner exchange of Biden's term so far. It also involved the U.S. allowing $6 billion in Iranian funds frozen under U.S. sanctions in South Korean banks to be transferred to Qatar for Iran to use for humanitarian purchases. A U.S. Treasury Department spokesperson told U.S. media last month that the funds remain "immobilized" following Iran's backing of the October 2023 Hamas terror attack on Israel.
+
+
+"Valizadeh's detention raises questions as to whether the Iranians are holding him hostage for an exchange involving the movement of those assets in Qatar or something even greater," Brodsky said.
+
+
+"Every time we do a deal like that, it emboldens the Iranians to take more hostages," he added. "So we need a comprehensive strategy, working with our allies and partners, to employ common hostage-taking penalties against Iran involving sanctions and diplomatic isolation."
+
+
+This report was produced in collaboration with VOA's Persian service. 
+
+<br> 
+
+<https://www.voanews.com/a/exclusive-us-says-it-is-looking-into-case-of-american-jailed-in-iran/7847217.html>
+
+---
+
+## NYC hosts world’s largest Halloween parade
+
+date: 2024-11-01, from: VOA News USA
+
+New York City recently hosted the world’s largest Halloween parade, bringing together the city's spookiest and most spectacular characters. Here’s Aron Ranen with the story.
+Camera: Aron Ranen 
+
+<br> 
+
+<https://www.voanews.com/a/nyc-hosts-world-s-largest-halloween-parade/7847353.html>
+
+---
+
+## Kurdish immigrants run for local office in Minnesota
+
+date: 2024-11-01, from: VOA News USA
+
+Moorhead, Minnesota, is home to more than 3,000 Kurds, some of whom have been there since the mid-1970s. They are the town’s largest minority group and hope this election might bring them representation in local government. Dakhil Shammo of VOA’s Kurdish service went to Minnesota and met with two local candidates in this story narrated by Amy Katz. 
+Camera: Kawar Farok 
+
+<br> 
+
+<https://www.voanews.com/a/kurdish-immigrants-run-for-local-office-in-minnesota/7847308.html>
+
+---
+
+## College athletes push for voter turnout while largely avoiding controversy as election nears
+
+date: 2024-11-01, from: VOA News USA
+
+Lily Meskers faced an unexpected choice in the lead-up to the first major election she can vote in.
+
+
+The 19-year-old University of Montana sprinter was among college athletes in the state who received an inquiry from Montana Together asking if she was interested in a name, image and likeness deal to support Sen. Jon Tester, a three-term Democrat seeking re-election. The group, which is not affiliated with the Tester campaign, offered from $400 to $2,400 to athletes willing to produce video endorsements.
+
+
+Meskers, who is from Colorado but registered to vote in Montana, decided against the deal because she disagrees with Tester's votes on legislation involving transgender athletes in sports.
+
+
+"I was like, OK, I believe that this is a political move to try to gain back some voters that he might have lost," Meskers said. "And me being a female student-athlete myself, I was not going to give my endorsement to someone who I felt didn't have the same support for me."
+
+
+Professional athletes such as LeBron James, Colin Kaepernick and Stephen Curry have taken high-profile stances on hot-button topics and political campaigns in recent years, but college athletes are far less outspoken — even if money is available, according to experts in the NIL field. Being outwardly political can reflect on their school or endanger potential endorsement deals from brands that don't want controversy. It can certainly establish a public image for an athlete — for better or for worse — or lead to tensions with teammates and coaches who might not feel the same way.
+
+
+There are examples of political activism by college athletes: A Texas Tech kicker revealed his support for former President Donald Trump on a shirt under his uniform at a game last week and a handful of Nebraska athletes a few days ago teamed up in a campaign ad against an abortion measure on the Tuesday's ballot.
+
+
+Still, such steps are considered rare.
+
+
+"It can be viewed as risky and there may be people telling them just don't even take that chance because they haven't made it yet," said Lauren Walsh, who started a sports branding agency 15 years ago. She said there is often too much to lose for themselves, their handlers and in some cases, their families.
+
+
+"And these individuals still have to figure out what they're going to do with the rest of their lives, even those that do end up getting drafted," she added.
+
+
+College coaches are not always as reticent. Auburn men's basketball coach Bruce Pearl has used social media to make it clear he does not support Kamala Harris, Trump's Democratic opponent in next week's presidential election. Oklahoma State football coach Mike Gundy once caused a stir with a star player for wearing a shirt promoting a far-right news outlet.
+
+
+Blake Lawrence, co-founder of the NIL platform Opendorse, noted that this is the first presidential election in the NIL era, which began in July 2021. He said athletes are flocking to opportunities to help increase voter turnout in the 18-to-24 age demographic, adding that one of his company's partners has had 86 athletes post social media messages encouraging turnout through the first half of the week. 
+
+
+He said athletes are shying away from endorsing specific candidates or causes that are considered partisan.
+
+
+"Student-athletes are, for the most part, still developing their confidence in endorsing any type of product or service," he said. "So if they are hesitant to put their weight behind supporting a local restaurant or an e-commerce product, then they are certainly going to be hesitant to use their social channels in a political way."
+
+
+Giving athletes a voice
+
+
+Many college athletes have opted to focus on drumming up turnout in a non-partisan manner or simply using their platforms to take stands that are not directly political in nature. Some of those efforts can be found in battleground states.
+
+
+
+
+A progressive group called NextGen America said it had signed players in Arizona, Michigan, Nevada, New Hampshire, Pennsylvania and Virginia to encourage voting among young people. Another organization, The Team, said it prepped 27 college athletes in Pennsylvania, North Carolina, Arizona and Michigan to lead volunteer voter participation opportunities for students. The organization also said it got more than 625 coaches to sign a nonpartisan pledge to get their athletes registered to vote.
+
+
+The Team's executive director is Joe Kennedy, a former coach who coordinated championship visits and other sporting events at the White House during President Barack Obama's administration. In early October, it hosted a Zoom event during which panelists such as NCAA President Charlie Baker and WNBA players Nneka Ogwumike and Natasha Cloud gave college athletes advice about using their platforms on campus.
+
+
+In its early days, The Team seized upon momentum from the record turnout seen in the 2020 election. The NCAA that year said Division I athletes could have Election Day off from practice and play to vote. Lisa Kay Solomon, founder of the All Vote No Play campaign, said even if the athletes don't immediately take stands on controversial issues, it's important for them to learn how.
+
+
+"It is a lot to ask our young people to feel capable and confident on skills they've never had a chance to practice," Solomon said. "We have to model what it means to practice taking risks, practice standing up for yourself, practice pausing to think about what are the values that you care about — not what social media is feeding into your brain, but what do you care about and how do you express that? And how do you do it in a way that honors the kind of future that you want to be a part of?"
+
+
+Shut up and play?
+
+
+Two years ago, Tennessee-Martin quarterback Dresser Winn said he would support a candidate in a local district attorney general race in what experts said was very likely the first political NIL deal by a college athlete.
+
+
+There have been very few since.
+
+
+The public criticism and fallout for athletes who speak out on politics or social issue can be sharp. Kaepernick, the Super Bowl-winning quarterback of the San Francisco 49ers, hasn't played in an NFL game since January 2017, not long after he began kneeling during the national anthem at games.
+
+
+Meskers, the Montana sprinter, said political endorsements through NIL deals could create problems for athletes and their schools.
+
+
+"I just think that NIL is going to run into a lot of trouble and a lot of struggles if they continue to let athletes do political endorsements," she said. "I just think it's messy. But I stand by NIL as a whole. I think it's really hard as a student athlete to create a financial income and support yourself."
+
+
+Walsh said it's easier for wealthy and veteran stars like James and Ogwumike to take stands. James, the Los Angeles Lakers star, started More Than a Vote — an organization with a mission to "educate, energize and protect Black voters" — in 2020. He has passed the leadership to Ogwumike, who just finished her 13th year in the WNBA and also is the president of the Women's National Basketball Players Association. More than a Vote is focused on women's rights and reproductive freedom this year.
+
+
+"They have very established brands," Walsh said. "They know who they are and they know what their political stance is. They know that they have a really strong following that -- there's always going to be haters, but they're also always going to have that strong following of people who listen to everything that they have to say."
+
+
+Andra Gillespie, an associate professor at Emory University who teaches African American politics, also said it is rare that a college athlete would make a significant impact with a political stand simply because they tend to have a more regional platform than national. Even celebrities like Taylor Swift and Eminem are better at increasing turnout than championing candidates.
+
+
+"They are certainly very beneficial in helping to drive up turnout among their fans," Gillespie said. "The data is less conclusive about whether or not they're persuasive – are they the ones who are going to persuade you to vote for a particular candidate?"
+
+
+Athletes as influencers
+
+
+Still, campaigns know young voters are critical this election cycle, and athletes offer an effective and familiar voice to reach them.
+
+
+Political and social topics are not often broached, but this week six Nebraska athletes — five softball players and a volleyball player — appeared in an ad paid for by the group Protect Women and Children involving two initiatives about abortion laws on Tuesday's ballot.
+
+
+The female athletes backed Initiative 434, which would amend the state constitution to prohibit abortions after the first trimester, with exceptions. Star softball player Jordy Bahl said on social media that the athletes were not paid.
+
+
+A University of Montana spokesperson said two athletes initially agreed to take part in the NIL deal backing Tester. The school said one withdrew and the other declined to be interviewed.
+
+
+For Meskers, deciding against the offer boiled down to Tester twice voting against proposals to bar federal funds from going to schools that allow transgender athletes to play women's sports, a prominent GOP campaign topic. Tester's campaign said the proposals were amendments to government spending packages, and he didn't want to play a role in derailing them as government shutdowns loomed.
+
+
+"As a former public school teacher and school board member, Jon Tester believes these decisions should be made at the local level," a Tester spokesperson said. "He has never voted to allow men to compete against women."
+
+
+Meskers said she believes using influence as college athletes is good and she is in favor of NIL. She just doesn't think the two should mix specifically for supporting candidates.
+
+
+"I think especially as student athletes, we do have such a big voice and we do have a platform to use," she said. "So I think if you're encouraging people to do their civic duties and get up and go (vote), I think that's a great thing." 
+
+<br> 
+
+<https://www.voanews.com/a/college-athletes-push-for-voter-turnout-while-largely-avoiding-controversy-as-election-nears/7847277.html>
+
+---
+
+## Bird flu infects 3 more people; number of human cases in US grows to 39
+
+date: 2024-11-01, from: VOA News USA
+
+Bird flu has infected three more people from Washington state after they were exposed to poultry that tested positive for the virus, according to health authorities in Washington and in Oregon, where the human cases were identified. 
+
+
+A total of 39 people have tested positive for bird flu in the U.S. this year, including nine from Washington, as the virus has infected poultry flocks and spread to more than 400 dairy herds, federal data show. All of the cases were farm workers who had known contact with infected animals, except for one person in Missouri. 
+
+
+The people from Washington cleaned facilities at an infected chicken farm after birds were culled to contain the virus, the Washington State Department of Health said in an email on Thursday. 
+
+
+Officials tested workers who had symptoms, including red eyes and respiratory issues, and those with potential exposure to the birds, the department said. People with symptoms were told to isolate and given antiviral treatment, it added. 
+
+
+Oregon identified the three new cases after the people traveled to the state from Washington while infected, the Oregon Health Authority said in a Thursday statement. They have since returned to Washington, where public health staff are monitoring them, according to the statement. 
+
+
+There have been no infections among people living in Oregon and there is no evidence of human-to-human transmission, the Oregon Health Authority said. It said the risk for infection to the general public remains low. 
+
+
+Since 2022, the virus has wiped out more than 100 million poultry birds in the nation's worst-ever bird flu outbreak. 
+
+
+H5N1 bird flu was confirmed in a pig on a backyard farm in Oregon, the first detection of the virus in swine in the country, the U.S. Department of Agriculture said on Wednesday. 
+
+<br> 
+
+<https://www.voanews.com/a/bird-flu-infects-3-more-people-number-of-human-cases-in-us-grows-to-39/7847242.html>
+
+---
+
+## US military veterans split on presidential pick as election nears
+
+date: 2024-11-01, from: VOA News USA
+
+Roughly 6% of eligible U.S. voters this election have served in the military. A recent Pew survey finds that this election year the majority of veterans favor Republican candidate Donald Trump over Democratic presidential candidate Kamala Harris in a 60-40 split. VOA Pentagon correspondent Carla Babb has more. 
+
+<br> 
+
+<https://www.voanews.com/a/us-military-veterans-split-on-presidential-pick-as-election-nears/7847256.html>
+
+---
+
+## Trump sues US television network for $10 billion over Harris interview
+
+date: 2024-11-01, from: VOA News USA
+
+washington — Republican presidential nominee Donald Trump sued CBS News on Thursday over an interview of Vice President Kamala Harris that aired on the network's "60 Minutes" news program this month.
+
+
+The lawsuit, filed in federal court in the Northern District of Texas, alleged that the network aired two different responses from Harris responding to a question about the Israel-Hamas war.
+
+
+The version that aired during the "60 Minutes" program on October 6 did not include what the lawsuit referred to as a "word salad" response from Harris about the Biden administration's influence on Israel's conduct of the war.
+
+
+The lawsuit follows Trump's threats to revoke CBS's broadcasting license if elected.
+
+
+Trump's campaign and office did not immediately reply to VOA's email requesting comment.
+
+
+The suit called for a jury trial and about $10 billion in damages, the filing showed. It alleges violations of a Texas law that prohibits deceptive acts in the conduct of business.
+
+
+A CBS News spokesperson told VOA that "Trump's repeated claims against 60 Minutes are false" and that the interview was not doctored.
+
+
+"60 MINUTES fairly presented" the interview "to inform the viewing audience, and not to mislead it," the spokesperson said in an email. "The lawsuit Trump has brought today against CBS is completely without merit and we will vigorously defend against it."
+
+
+In a statement earlier this month, CBS said "60 Minutes" gave an excerpt of the Harris interview to "Face the Nation" that used a longer section of her answer than what was aired on "60 Minutes."
+
+
+"Same question. Same answer. But a different portion of the response," the statement said. "The portion of her answer on '60 Minutes' was more succinct, which allows time for other subjects in a wide-ranging, 21-minute-long segment."
+
+
+And in a letter to Trump's legal counsel earlier this month, CBS said Trump has no legal basis to sue over the interview, CNN reported.
+
+
+Trump had also agreed to give an interview to "60 Minutes" before ultimately backing out.
+
+
+Clayton Weimers, the head of the U.S. office of Reporters Without Borders, dismissed the lawsuit as a publicity stunt.
+
+
+"The lawsuit itself looks like a publicity stunt, but it reinforces the very real threats that Trump has issued to use the U.S. government to punish media outlets he doesn't like should he regain the White House," Weimers told VOA.
+
+
+Some information for this report came from Reuters. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-sues-us-television-network-for-10-billion-over-harris-interview-/7847189.html>
+
+---
+
+## Chinese student convicted in US returned to China
+
+date: 2024-11-01, from: VOA News USA
+
+washington  — Xiaolei Wu, a Chinese student who had been serving a nine-month prison sentence for threatening pro-democracy activists in Boston, received an early release on September 16 and returned to China, according to federal documents obtained by VOA’s Mandarin Service.
+
+
+U.S. and Chinese officials have not commented publicly on Wu and whether he may have been part of a prisoner swap, but his return to China came about the time that American pastor David Lin was released and returned to the United States after serving 18 years in prison.
+
+
+Documents from the U.S. District Court of Massachusetts and the U.S. Justice Department confirm Wu's release and that President Joe Biden signed a clemency document on September 12, reducing Wu's total sentence to time served, saying that it was in the "national interest" of the United States for him not to serve his full sentence.
+
+
+The pardon document states that Wu began serving his sentence on June 7. The conditions for the commutation said Wu must leave the United States and never again set foot on U.S. soil and territories, and that he must not commit any crimes against the U.S. or violate U.S. laws again.
+
+
+Wu, a former student of Berklee College of Music, was found guilty in January of stalking and threatening a pro-democracy activist in Boston in fall 2022. On April 24, Wu was sentenced to nine months in prison and three years of supervised release.
+
+
+Prosecutors said Wu, 26, threatened to chop off the hands of a Chinese pro-democracy activist known as "Zooey," a pseudonym that the Berklee student has used to avoid retaliation. Wu threatened to report Zooey’s family to Chinese police and asked others to find out where she lived. He also published Zooey’s email address.
+
+
+Two of Zooey's friends told VOA Mandarin on Wednesday that Zooey learned from prosecutors in September that Wu had been released and reciprocally exchanged for Lin.
+
+
+The two friends, who requested anonymity, citing security concerns, said Zooey was shocked and puzzled by this and worried about her safety.
+
+
+One of Zooey's friends said he received a threatening message from Wu on Instagram a few days ago.
+
+
+The message said: "Do you really think that I won't be able to find you if you wear a mask and change your voice on Voice of America?"
+
+
+Another friend said that Wu recently posted a video of himself playing guitar on WeChat, China’s biggest social media platform. The location indicated it was published in Beijing.
+
+
+Zhou Fengsuo, a former student leader during the 1989 Tiananmen Square pro-democracy movement in China and co-founder of the NGO Humanitarian China, told VOA Mandarin in a phone interview that while Wu had gotten off easy, his case may serve as a deterrent against future similar cases.
+
+
+“This is a very important case. We have observed that the Chinese pro-CCP nationalists have been restrained a lot on American campuses,” Zhou said.
+
+
+“I have participated in activities in many American universities this year and have not encountered any of these people. I believe this has a lot to do with Wu’s conviction. Of course, his early release is not the result we want to see."
+
+
+Zhou also said that if Wu's release is indeed part of an exchange for David Lin, it could mean that Wu has certain connections in China.
+
+
+He also told VOA Mandarin the swap is still beneficial.
+
+
+"Pastor David Lin was detained in China for a very long time, so it is still very precious to exchange for his return," Zhou said.
+
+
+VOA was unable to independently confirm whether Wu's early release was directly related to the release of Lin.
+
+
+VOA contacted the U.S. State Department and the Massachusetts U.S. Attorney's Office in charge of Wu's case but has yet to receive a response. The White House declined to comment to VOA. 
+
+<br> 
+
+<https://www.voanews.com/a/chinese-student-convicted-in-us-returned-to-china-/7846888.html>
+
+---
+
+## Hurricane damage, arson attacks add complexity to US elections
+
+date: 2024-10-31, from: VOA News USA
+
+With voting underway in a tightly contested presidential race, election officials in the U.S. are facing additional challenges in the state of North Carolina, where a hurricane ravaged communities, and in the states of Washington and Oregon, where there have been arson attacks on ballot boxes. With Deborah Bloom and Rafael Saakov, Natasha Mozgovaya has the story. Camera: Deborah Bloom and Alexander Bergan. 
+
+<br> 
+
+<https://www.voanews.com/a/hurricane-damage-arson-attacks-add-complexity-to-us-elections/7846879.html>
+
+---
+
+## What happens if Trump brings back Schedule F?
+
+date: 2024-10-31, from: Market Place
+
+<p>An estimated 50,000 civil service jobs were slated to become political appointments under a Trump-era executive order. If Donald Trump returns to the White House, there&#8217;s a chance he&#8217;ll reinstate it, leading to the biggest federal workforce shakeup in nearly 150 years. Also in this episode: A new resource for farmers market pricing and the key to sustainable wage growth.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/31/pm_20241031_PM_Podcast_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace/what-happens-if-trump-brings-back-schedule-f&awCollectionId=mkp-MKP-PM&awGenre=%5B"Talk","News","Business"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace"></source>
+</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/10/31/pm_20241031_PM_Podcast_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace/what-happens-if-trump-brings-back-schedule-f&awCollectionId=mkp-MKP-PM&awGenre=%5B\"Talk\",\"News\",\"Business\"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace/what-happens-if-trump-brings-back-schedule-f>
+
+---
+
+## Russia fines Google $20,000,000,000,000,000,000,000,000,000,000,000
+
+date: 2024-10-31, from: VOA News USA
+
+Russia has fined Google an amount larger than the entire world's gross domestic product over restricting Russian propaganda channels on YouTube.
+
+
+Russian business newspaper RBC reported this week that legal claims brought by 17 Russian TV channels against Google in Russian courts, which have imposed compound fines on Google, had reached $20 decillion — an incomprehensible sum with 34 zeros.
+
+
+By comparison, the International Monetary Fund estimates the world's total gross domestic product to be $110 trillion. Google's parent company Alphabet, meanwhile, has a market value of around $2 trillion.
+
+
+On Thursday, Kremlin spokesperson Dmitry Peskov admitted to reporters that he "can't even pronounce this figure right." But he said the fine was "filled with symbolism."
+
+
+"Google should not restrict the activities of our broadcasters, and Google is doing this," he said.
+
+
+The Russian state-run outlet Tass reported this week that a Russian court had previously ordered Google to restore the blocked YouTube channels or face rising charges. The fine has grown so high because it doubles every week.
+
+
+Earlier this year, Russia experienced a mass YouTube outage in August. The platform is considered one of the few remaining sites where audiences can access independent information in Russia, where Moscow blocks independent news sites and press freedom has all but disappeared.
+
+
+Google did not immediately reply to VOA's email requesting comment.
+
+
+Some information in this report came from Reuters. 
+
+<br> 
+
+<https://www.voanews.com/a/russia-fines-google-20-000-000-000-000-000-000-000-000-000-000-000/7846846.html>
+
+---
+
+## Arizona’s Deadly Heat Is Exhibit A as Activists Mount Final Push for Climate and Harris
+
+date: 2024-10-31, from: Capital and Main
+
+<p>The state has voted for a Democratic presidential candidate just twice in more than 70 years. Armies of canvassers hope climate will change that.</p>
+<p>The post <a href="https://capitalandmain.com/arizonas-deadly-heat-is-exhibit-a-as-activists-mount-final-push-for-climate-and-harris">Arizona&#8217;s Deadly Heat Is Exhibit A as Activists Mount Final Push for Climate and Harris</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/arizonas-deadly-heat-is-exhibit-a-as-activists-mount-final-push-for-climate-and-harris>
+
+---
+
+## Some not-so-scary news for the Fed
+
+date: 2024-10-31, from: Market Place, Make me Smart
+
+<p>This Halloween, we&#8217;re looking at some new inflation data that’s got the Federal Reserve in good spirits. Its preferred inflation measure shows inflation fell to <a href="https://www.bea.gov/data/personal-consumption-expenditures-price-index">2.1%</a> last month, moving ever-so-closer to the Fed’s 2% target. We&#8217;ll get into why core inflation complicates the Fed&#8217;s good news. And, we&#8217;ll unpack why some Meta investors were spooked when CEO Mark Zuckerberg said the company will amp up its artificial intelligence spending. Plus, Starbucks is getting a brand makeover, and the Los Angeles Dodgers pulled off a World Series win.</p>
+<p>Here&#8217;s everything we talked about today:</p>
+<ul>
+<li><a href="https://finance.yahoo.com/news/meta-posts-q3-earnings-beat-but-stock-falls-on-heavy-spending-plans-201725492.html" target="_blank" rel="noreferrer noopener">&#8220;Meta posts Q3 earnings beat, but stock falls on heavy spending plans&#8221;</a> from Yahoo Finance</li>
+<li><a href="https://www.youtube.com/watch?v=bcaSJdLdwBk&amp;t=54s" target="_blank" rel="noreferrer noopener">&#8220;What Today&#8217;s Inflation Data Will Mean for Next Week&#8217;s Fed Meeting&#8221;</a> from CNBC</li>
+<li><a href="https://www.nytimes.com/2024/10/31/business/economy/pce-inflation-fed-september.html" target="_blank" rel="noreferrer noopener">&#8220;Inflation Cooled Further in September, PCE Index Shows&#8221;</a> from The New York Times</li>
+<li><a href="https://www.nbcchicago.com/news/business/money-report/7-ways-that-starbucks-ceo-brian-niccol-plans-to-change-the-coffee-chain/3588641/" target="_blank" rel="noreferrer noopener">&#8220;7 ways Starbucks CEO Brian Niccol plans to change the coffee chain&#8221;</a> from NBC Chicago</li>
+<li><a href="https://www.nbcnews.com/sports/mlb/live-blog/world-series-dodgers-yankees-live-updates-rcna177985" target="_blank" rel="noreferrer noopener">&#8220;Los Angeles Dodgers defeat New York Yankees in five games to win World Series&#8221;</a> from NBC News</li>
+</ul>
+<p>Join us tomorrow for Economics on Tap. The <a href="https://www.youtube.com/@marketplaceAPM/streams" target="_blank" rel="noreferrer noopener">YouTube livestream</a> starts at 3:30 p.m. Pacific time, 6:30 p.m. Eastern.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/31/mms_20241031_MMS_128.mp3?awEpisodeId=https://www.marketplace.org/shows/make-me-smart/some-not-so-scary-news-for-the-fed&awCollectionId=mkp-MMsmrt&awGenre=%5B"Talk","News","Business"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/make-me-smart"></source>
+</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/31/mms_20241031_MMS_128.mp3?awEpisodeId=https://www.marketplace.org/shows/make-me-smart/some-not-so-scary-news-for-the-fed&awCollectionId=mkp-MMsmrt&awGenre=%5B\"Talk\",\"News\",\"Business\"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/make-me-smart" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/some-not-so-scary-news-for-the-fed>
+
+---
+
+## UN warns global hunger hot spots growing
+
+date: 2024-10-31, from: VOA News USA
+
+new york — A new U.N. report warned Thursday that conflict, climate and economic stress are driving severe hunger and in some cases famine conditions, in 22 countries and territories, with no likelihood for improvement in the next six months.
+
+
+“So, you have conflict impacts, climate impacts in the same countries, as well as both the combination of the two turns into economic devastation for people,” Arif Husain, chief economist of the World Food Program, said of the main drivers of the hunger crises to reporters in a video briefing.
+
+
+The situation is most severe in the Gaza Strip, Sudan, South Sudan, Haiti and Mali, where millions of people are in the highest levels of food insecurity, meaning famine, risk of famine or starvation are happening.
+
+
+In Gaza, U.N. food agencies have been warning about the critical situation for months. It is fueled by the nearly 13-month war between Israel and Hamas, which has made it dangerous and difficult for humanitarians to get food and other assistance to about 2 million Palestinians trapped in the crossfire.
+
+
+WFP’s Husain said 91% of Gazans are at crisis levels or worse for hunger, with about 345,000 of them in faminelike conditions.
+
+
+“And the report says basically that there is a risk — there's a persistent risk — of famine for the entire Gaza Strip,” Husain said.
+
+
+The situation in Sudan is even worse because the numbers of people are dramatically higher.
+
+
+
+
+“Time is running out to save lives,” Rein Paulsen, director of the Food and Agriculture Organization (FAO) Office of Emergencies and Resilience, told reporters of Sudan.
+
+
+“People are facing total collapse of livelihoods and starvation in areas where conflict is hitting the hardest across the country, including in Darfur, in Jazira, in Khartoum and in Kordofan,” he said.
+
+
+Paulsen noted that famine levels of food insecurity were reported two months ago in the Zamzam camp in North Darfur, where several hundred thousand internally displaced people are sheltering. Fighting has escalated in recent months in that region between the army and a rival paramilitary group.
+
+
+“And those famine conditions are likely — highly likely — to persist unless something changes,” he said.
+
+
+In the Western Hemisphere, Haiti is in the grip of a serious hunger crisis because of the rampant violence from armed gangs whose kidnappings, killings, rapes and looting have left Haitians in the capital and some outlying areas afraid to leave their homes.
+
+
+Two million people do not have enough to eat, and about 6,000 of them are experiencing famine levels of food insecurity, Paulsen said.
+
+
+“Immediate action is imperative to save lives, to prevent starvation, and to help vulnerable populations restore their livelihoods amidst unprecedented violence and displacement,” he added.
+
+
+In Africa, Mali and South Sudan are also at the top of the list of hunger hot spots.
+
+
+WFP’s Husain said about 2,500 people are at catastrophic or famine levels of hunger in Mali and another 121,000 are right behind them.
+
+
+In South Sudan, affected by the war in Sudan and severe flooding, the number of people facing starvation and death was projected in the report to nearly double between April and July to 2.3 million, compared with the same period in 2023. Hunger is expected to worsen when the next lean season begins in May.
+
+
+A step behind these most affected countries are those of “very high concern” for humanitarians, including Chad, Lebanon, Myanmar, Mozambique, Nigeria, Syria and Yemen.
+
+
+“These are classified and categorized in this context where we have a high number of people facing particular acute food insecurity, and where we also see drivers that are expected to further intensify life-threatening conditions in the coming months,” Paulsen said.
+
+
+Kenya, Lesotho, Namibia and Niger are new to the list of hunger hot spots this year, joining Burkina Faso, Ethiopia, Malawi, Somalia, Zambia and Zimbabwe to round out the list.
+
+
+WFP’s Husain said humanitarians need both resources and safe access to assist the millions of people in need to bring the high rates of hunger and malnutrition down. 
+
+<br> 
+
+<https://www.voanews.com/a/un-warns-global-hunger-hot-spots-growing/7846797.html>
+
+---
+
+## Harris, Trump trade barbs over treatment of women
+
+date: 2024-10-31, from: VOA News USA
+
+U.S. Vice President Kamala Harris and former President Donald Trump sparred over how women should be treated in society as they looked for votes Thursday in Arizona and Nevada, two Southwest political battleground states.
+
+
+Polling shows Harris, the Democratic candidate, and Trump, the Republican candidate, are virtually tied in the two states. Arizona and Nevada are among seven closely contested states across the 50-state country that are likely to determine the national outcome in next Tuesday’s election.
+
+
+In the other 43, polling shows Trump or Harris with either decisive or comfortable leads.
+
+
+Appeals to Latino voters are central to the campaigns in both Arizona and Nevada. Trump won Arizona in his successful 2016 campaign for the presidency but lost it to President Joe Biden in 2020. Democrats won Nevada in both elections.
+
+
+Migrants crossing from Mexico into the United States across the border in Arizona are at the center of the political debate in the state. Trump has pledged to finish the border wall he started during his 2017-2021 White House tenure. He has also vowed to round up and deport undocumented migrants living in the U.S., while accusing Harris of being weak on controlling the influx of migrants.
+
+
+Harris has said she will look to enact legislation calling for tougher asylum rules at U.S. entry points to curb the tens of thousands of migrants crossing into the U.S. She supports an immigration bill drafted by a bipartisan group of U.S. senators that Trump leaned on Republican lawmakers to kill earlier this year.
+
+
+Pop icon Jennifer Lopez is to join Harris on stage Thursday night at a rally in Las Vegas, the U.S. gambling mecca.
+
+
+Trump has scheduled an interview in Arizona with ex-Fox News host Tucker Carlson and a rally in neighboring Nevada.
+
+
+Harris and Trump met only once face to face in a debate, but trade insults and taunts every day from rally stages, in campaign ads and over the airwaves.
+
+
+Their latest dispute is over the treatment of women.
+
+
+Trump said at a rally on Wednesday in the Midwest state of Wisconsin that he would protect American women “whether the women like it or not.”
+
+
+He cast the remark as paternal, but it served to remind his critics of his history of misogynistic statements and a civil court case that found him liable for sexual abuse of a New York writer in the 1990s.
+
+
+Trump told supporters that his advisers had urged him to stop proclaiming his desire to protect women, saying they had called it “inappropriate.”
+
+
+But he told rally-goers, “I said, ‘Well, I’m going to do it whether the women like it or not. I am going to protect them.’”
+
+
+Polls show Harris with a wide lead among female voters; Trump substantially leads with men.
+
+
+Harris quickly jumped on Trump’s remark, writing on X, “Donald Trump thinks he should get to make decisions about what you do with your body. Whether you like it or not.” On Thursday, she said that Trump’s views on women showed that he does not understand “their rights and their ability to make decisions about their own lives.”
+
+
+Nearly 62 million people have already voted at polling stations or by mail. More than 155 million voted in the 2020 election, about two-thirds of them early or by mail and a third of them on the official Election Day.
+
+
+The importance of battleground states like Arizona, Nevada and the five others cannot be overstated.
+
+
+U.S. presidential elections are not decided by the national popular vote but through the Electoral College, which turns the election into 50 state-by-state contests, with 48 of the states awarding all their electoral votes to the winner in that state. Nebraska and Maine allocate theirs by both statewide and congressional district vote counts.
+
+
+The number of electoral votes in each state is based on population, so the biggest states hold the most sway in determining the overall national outcome, with the winner needing 270 of the 538 electoral votes to claim the presidency.
+
+
+Polls show either Harris or Trump with substantial or comfortable leads in 43 of the states, enough for each to get to 200 electoral votes or more. Barring an upset in one of those states, the winner will be decided in the remaining seven states, where both Harris and Trump have staged frequent rallies, all but ignoring the rest of the country for campaign stops.
+
+
+Polling in the seven states is easily within the margins of statistical error, leaving the outcome in doubt in all seven. 
+
+<br> 
+
+<https://www.voanews.com/a/harris-trump-trade-barbs-over-the-treatment-of-women-/7846803.html>
+
+---
+
+## Kamala Harris: From immigrant roots to historic presidential nomination
+
+date: 2024-10-31, from: VOA News USA
+
+In this episode of “The Candidates,” VOA's series on the 2024 presidential election, we look at Vice President Kamala Harris. Emerging from one of the most diverse, liberal regions of the U.S., the Democratic nominee for president has navigated a course between tough enforcer of the law and forward-thinking reformer. VOA's Matt Dibble has this profile from Oakland, California. 
+
+<br> 
+
+<https://www.voanews.com/a/kamala-harris-from-immigrant-roots-to-historic-presidential-nomination/7846765.html>
+
+---
+
+##  JPMorgan Chase CEO Vows “Knife Fight” To Keep Consumers Trapped 
+
+date: 2024-10-31, from: The Lever News
+
+ A top financial executive and potential Treasury secretary declares war on federal consumer watchdogs to ensure consumers can’t easily switch banks for better options.  
+
+<br> 
+
+<https://www.levernews.com/bankers-are-battling-to-keep-you-trapped/>
+
+---
+
+## Can the United Kingdom and France Team Up in the Third Nuclear Age?
+
+date: 2024-10-31, updated: 2024-10-31, from: RAND blog
+
+France and the United Kingdom, Europe's nuclear powers, have a history of cooperation in nuclear deterrence. Despite political challenges, they can deepen ties by focusing on research, regional strategies, and security cooperation, enhancing Europe's global strategic role. 
+
+<br> 
+
+<https://www.rand.org/pubs/commentary/2024/10/can-the-united-kingdom-and-france-team-up-in-the-third.html>
+
+---
+
+## By immigrants, for immigrants: 'Documented' covers immigration through a personal lens
+
+date: 2024-10-31, from: VOA News USA
+
+In New York City, a media outlet run by immigrants for immigrants uses messaging apps to engage with communities on elections, crime and local issues. Liam Scott and Cristina Caicedo Smit have the story, narrated by Caicedo Smit. Tina Trinh contributed. 
+
+<br> 
+
+<https://www.voanews.com/a/by-immigrants-for-immigrants-documented-covers-immigration-through-a-personal-lens/7846495.html>
+
+---
+
+## The 76 Dangerous Days Between the Election and the Inauguration
+
+date: 2024-10-31, updated: 2024-10-31, from: RAND blog
+
+The most dangerous period America faces in terms of election violence isn't before Election Day, but the 76 days after. Rising threats and domestic violence may intensify post-election, fueled by disinformation, claims of fraud, and potential foreign interference. 
+
+<br> 
+
+<https://www.rand.org/pubs/commentary/2024/10/the-76-dangerous-days-between-the-election-and-the.html>
+
+---
+
+## The President Won’t Be the Problem for the U.S. at COP
+
+date: 2024-10-31, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81Mzg4ODg0OC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3MjQ0ODY0Nn0.tdkkp8JYgos6xzOWGRJUtZxNs8G3Pzec8oJV45yErFU/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">Less than a week after election night in the U.S., the United Nations’ annual climate conference begins in Azerbaijan. COP29, as this year’s conference is called, has climate finance and carbon markets on the agenda. It’s no secret that the outcome of the U.S. presidential election could shift the tenor of negotiations significantly on both topics. Everyone knows there’s one candidate who’s better for the climate and one who will be <a href="https://heatmap.news/politics/republicans-ira-climate-law" target="_self"><u>much</u></a>, <a href="https://heatmap.news/politics/trump-climate-change-project-2025" target="_self"><u>much</u></a> worse. </p><p>Even if Harris wins, however, the United States may well continue to shirk its global climate finance obligations. If the U.S. can’t deliver on what it promises at COP29, it may not matter what actually happens there.</p><p>Negotiators at COP29 are tasked with setting what’s called the <a href="https://heatmap.news/economy/cop29-bonn-climate-finance" target="_self"><u>New Collective Quantified Goal</u></a> on climate finance, a goalpost for the amount of cash governments must put up to meet global climate investment needs. Global South countries excluding China have suggested that they require <a href="https://www.cseindia.org/a-cse-position-paper-show-us-the-money-12434" rel="noopener noreferrer" target="_blank"><u>more than $1 trillion per year in external finance</u></a> to meet their climate targets. An agreed-upon NCQG will also help all countries flesh out the latest iteration of their national climate plans, also known as Nationally Determined Contributions, as required by the Paris climate agreement. </p><p>And yet preliminary discussions over the summer were <a href="https://www.cseindia.org/a-cse-position-paper-show-us-the-money-12434" rel="noopener noreferrer" target="_blank"><u>inconclusive</u></a>, not just on the NCQG target itself but also on which countries are expected to contribute and what kinds of financing (e.g. public, private, loans, grants) will count toward it. More <a href="https://www.amnesty.org/en/latest/news/2024/04/global-un-special-rapporteur-is-right-to-raise-human-rights-concerns-about-carbon-markets/" rel="noopener noreferrer" target="_blank"><u>controversially</u></a> to some climate activists and civil society groups, negotiators are also using COP29 to finalize a framework for the implementation of Article 6 of the Paris Agreement, which calls for the creation of a global carbon credit market, which countries could use to trade emissions reductions and contribute to each others’ NDCs.</p><p>To put it simply: If Donald Trump wins, not much of this will matter. President Biden’s negotiators can still endorse ambitious NCQG and Article 6 targets, but there’s no evidence a second Trump administration will commit to delivering on them. Should Trump win, the U.S. will almost certainly cut itself out of the global climate finance architecture <a href="https://2017-2021.state.gov/on-the-u-s-withdrawal-from-the-paris-agreement/" rel="noopener noreferrer" target="_blank"><u>a second time</u></a>. The Heritage Foundation’s Project 2025 plan, authored largely by <a href="https://www.nytimes.com/interactive/2024/10/22/us/politics/project-2025-trump-heritage-foundation.html" rel="noopener noreferrer" target="_blank"><u>Trump associates</u></a>, not only <a href="https://www.americanprogress.org/article/project-2025-would-jeopardize-global-climate-action/" rel="noopener noreferrer" target="_blank"><u>calls</u></a> for the U.S. to slash global climate and development funding (as Trump <a href="https://www.npr.org/sections/thetwo-way/2017/03/16/520399205/trumps-budget-slashes-climate-change-funding" rel="noopener noreferrer" target="_blank"><u>already called for</u></a> in his first term) but also to withdraw from global negotiating fora entirely. In the breach, Trump administration diplomats will likely stress the importance of gas and non-renewable energy technologies (such as carbon capture) with an emphasis on ensuring domestic energy security and affordability, even as they prepare to gut most if not all of the Inflation Reduction Act and the Bipartisan Infrastructure Law.</p><p>A Kamala Harris victory next week will assuredly be much better for both global emissions reductions and the climate diplomacy landscape. While she has outlined no specific proposals for global climate policy in particular, there is also no evidence that she will renege on any U.S. global commitments made in the past four years or attempt to repeal any climate laws. </p><p>As president, she will likely preserve President Biden’s key global climate and development policy initiatives, including the Just Energy Transition Partnerships and the Partnership for Global Infrastructure and Investment. She will also likely support the Biden administration’s push to see the multilateral development banks <a href="https://www.nrdc.org/bio/joe-thwaites/getting-here-there-scaling-climate-finance-ncqg" rel="noopener noreferrer" target="_blank"><u>support more investments</u></a> in climate and development, particularly through mobilizing the private sector. The current World Bank President, Ajay Banga, was nominated by the United States in early 2023 after serving as co-chair of the <a href="https://www.centampartnership.org/" rel="noopener noreferrer" target="_blank"><u>Partnership for Central America</u></a>, a private sector-backed economic development initiative launched by Vice President Harris herself as part of her broader <a href="https://www.nbcnews.com/investigations/kamala-harris-border-policy-rcna163317" rel="noopener noreferrer" target="_blank"><u>engagement</u></a> with the region. Their <a href="https://www.whitehouse.gov/briefing-room/statements-releases/2023/02/23/statement-from-vice-president-harris-on-u-s-nomination-of-ajay-banga-to-lead-world-bank/" rel="noopener noreferrer" target="_blank"><u>shared history</u></a> suggests that they will continue collaborating on good terms if Harris is elected. </p><p>While none of this is directly connected to COP29 (and putting <a href="https://www.break-down.org/post/downward-mobilisation" rel="noopener noreferrer" target="_blank"><u>doubts</u></a> about the <a href="https://heatmap.news/economy/cop29-bonn-climate-finance" target="_self"><u>efficacy</u></a> of these programs aside), it speaks to the Biden-Harris administration’s commitment to, at the very least, platforming global climate and development issues. But will Harris actually deliver on the U.S.’s commitments to the NCQG or otherwise meaningfully increase the amount of public spending devoted to global climate and development goals? Probably not ― although in that case, Congress will be the more likely culprit, not her. </p><p>Attempts to appropriate additional funds for global climate programs are cursed with a severe case of legislative inertia. Congress <a href="https://www.wri.org/insights/2020-budget-shows-progress-climate-finance-us-continues-fall-behind-peers" rel="noopener noreferrer" target="_blank"><u>did not</u></a> significantly slash funding for global climate priorities during the first Trump presidency, but it also <a href="https://www.nrdc.org/bio/joe-thwaites/how-us-can-still-meet-its-global-climate-finance-pledges" rel="noopener noreferrer" target="_blank"><u>did not</u></a> raise it much during the Biden presidency. Last year’s bipartisan debt limit negotiations <a href="https://heatmap.news/politics/the-real-climate-defeat-in-the-debt-ceiling-deal" target="_self"><u>didn’t help</u></a>, of course. But even in the early Biden presidency, when Democrats had their narrow trifecta, Congress massively <a href="https://www.nrdc.org/bio/joe-thwaites/how-us-can-still-meet-its-global-climate-finance-pledges" rel="noopener noreferrer" target="_blank"><u>undershot</u></a> Biden’s budget requests for global climate-related priorities. In fiscal year 2022, Congress passed less than half of what Biden requested; since then, presidential requests for global climate spending have ballooned in size, while appropriations have stayed flat. </p><p>This divergence reflects a stable short-term equilibrium: The Biden administration can showcase the full range of its commitments and bona fides and blame Congress for its failure to deliver on any of them, while Congress can coast on the spending cap deals it made to avoid government shutdowns. But it also ignores the planet-sized elephant in the room — that there’s been no new spending on mitigating climate change. Regardless of who is president, there’s only so much discretionary funding they can ever reallocate toward priority programs absent additional appropriations.</p><p>(Here it seems pertinent to remind everyone that the U.S. has never endorsed the global consensus framework of “common but differentiated responsibilities,” which would mean acknowledging a quasi-legal obligation to provide climate finance to Global South countries, on account of the fact that Congress has never been enthusiastic about this. The chances that anyone changes their tone are slim.)</p><p>In summary, even if Harris comes out on top on Tuesday, the U.S. will still be stuck in a holding pattern with respect to its global climate priorities. This puts the Biden administration’s COP29 negotiators in a vise: Pushing for a low NCQG gives other countries ground to criticize the U.S.’s inadequate ambition and care for the Global South relative to its ability to contribute, but pushing for an ambitious NCQG also gives other countries greater reason to criticize the U.S. if it fails to deliver. Ambition was never the problem; it has always been the delivery.</p><p>Optimistically, a Harris victory at least prevents the U.S. from being a roadblock to other countries’ climate action. But at a time when <a href="https://www.devex.com/news/money-matters-what-next-for-the-shrinking-german-aid-budget-108120" rel="noopener noreferrer" target="_blank"><u>major</u></a> Global North donor countries are <a href="https://www.devex.com/news/france-slashes-1b-more-from-aid-budget-108393" rel="noopener noreferrer" target="_blank"><u>cutting their aid budgets</u></a>, American unwillingness to finance solutions to global climate and development challenges makes the rest of the world more <a href="https://www.break-down.org/post/downward-mobilisation" rel="noopener noreferrer" target="_blank"><u>dependent</u></a> on private capital and, in turn, more vulnerable to market downturns, interest rate hikes, and <a href="https://www.nb.com/en/global/insights/cio-weekly-perspectives-re-emerging-markets" rel="noopener noreferrer" target="_blank"><u>capital outflows</u></a>. (Alternatively, it makes Global South countries more dependent on <a href="https://www.reuters.com/world/africa/kenya-talks-15-bln-commercial-loan-with-uae-finance-minister-says-2024-10-16/" rel="noopener noreferrer" target="_blank"><u>petrostate wealth</u></a> and <a href="https://www.ft.com/content/69e4cb33-3615-4424-996d-5aee9d1afe19" rel="noopener noreferrer" target="_blank"><u>Chinese imports</u></a> for macroeconomic stability, although they may be <a href="https://www.phenomenalworld.org/analysis/marshall-plans/" rel="noopener noreferrer" target="_blank"><u>less able</u></a> to count on large Chinese capital inflows from here on out.) As <a href="https://www.lse.ac.uk/granthaminstitute/wp-content/uploads/2022/11/IHLEG-Finance-for-Climate-Action-1.pdf" rel="noopener noreferrer" target="_blank"><u>expert report</u></a> after <a href="https://www.cgdev.org/publication/strengthening-multilateral-development-banks-triple-agenda" rel="noopener noreferrer" target="_blank"><u>expert report</u></a> has detailed, climate change mitigation or adaptation simply will not happen at scale across the Global South without substantial new external financing.</p><p>Still, in lieu of new financing, a Harris administration could stress that efforts to catalyze private investment in the Global South (including through <a href="https://www.ft.com/content/b07edf26-1eae-425a-b284-5d48bcbee7e8" rel="noopener noreferrer" target="_blank"><u>voluntary carbon markets</u></a>) and reform global taxation also contribute to global decarbonization. And it could continue to argue that the U.S. is doing its part to decarbonize if it manages to pass more landmark climate and green industrialization laws like the Inflation Reduction Act. But it would be false to argue ― as <a href="https://www.whitehouse.gov/briefing-room/speeches-remarks/2022/11/11/remarks-by-president-biden-at-the-27th-conference-of-the-parties-to-the-framework-convention-on-climate-change-cop27-sharm-el-sheikh-egypt/" rel="noopener noreferrer" target="_blank"><u>President Biden</u></a> and Treasury <a href="https://in.usembassy.gov/remarks-by-secretary-of-the-treasury-janet-l-yellen-at-microsoft-in-new-delhi-india/" rel="noopener noreferrer" target="_blank"><u>Secretary Janet Yellen</u></a> have done at times, particularly in 2022 ― that the Inflation Reduction Act helps lower the cost of clean tech uptake across the Global South. This is not true — the <a href="https://www.reuters.com/markets/commodities/china-discounts-its-way-record-solar-module-exports-2024-08-01/" rel="noopener noreferrer" target="_blank"><u>credit</u></a> for making clean technology, particularly solar energy, cheaper and more accessible for the Global South goes <a href="https://www.bloomberg.com/news/articles/2024-04-30/china-s-ev-and-solar-exports-are-powering-ahead-as-prices-slide" rel="noopener noreferrer" target="_blank"><u>decisively</u></a> to China. The U.S. is nowhere close to becoming a major clean technology exporter or a bona fide partner in green industrial transformation for any Global South country, policymakers’ pretensions to the contrary.</p><p>One prominent member of Harris’s advisory team, President Biden’s former National Economic Council Director Brian Deese, is <a href="https://ceepr.mit.edu/wp-content/uploads/2024/06/MIT-CEEPR-RC-2024-04.pdf" rel="noopener noreferrer" target="_blank"><u>trying</u></a> to change that, advancing ideas like a “<a href="https://www.foreignaffairs.com/united-states/case-clean-energy-marshall-plan-deese" rel="noopener noreferrer" target="_blank"><u>Clean Energy Marshall Plan</u></a>” as an opportunity to deliver on both domestic industrial policy priorities and demands for global leadership vis-a-vis China; his writing exemplifies how American climate diplomacy is being <a href="https://foreignpolicy.com/2024/10/21/us-china-competition-battery-production-ev-minerals-solid-state/" rel="noopener noreferrer" target="_blank"><u>subsumed</u></a> into national security <a href="https://carnegieendowment.org/research/2024/09/energy-innovation-us-industrial-stature?lang=en" rel="noopener noreferrer" target="_blank"><u>planning</u></a>. (Deese is also a <a href="https://heatmap.news/u/briandeese" target="_blank">Heatmap contributor</a>.) Tactically, this might work in the near-term: The <a href="https://www.cgdev.org/blog/race-reauthorization-what-new-house-bill-would-mean-dfc" rel="noopener noreferrer" target="_blank"><u>bill to reauthorize the Development Finance Corporation</u></a>, which would boost the U.S.’s ability to invest in decarbonization-related priorities across the Global South and particularly critical minerals supply chains, cleared the House Foreign Affairs Committee with bipartisan support over the summer. But this is <a href="https://www.phenomenalworld.org/analysis/marshall-plans/" rel="noopener noreferrer" target="_blank"><u>not</u></a> a strategy that on its own centers the climate and development needs of Global South countries.</p><p>So while a Democratic victory next week would certainly be a step toward continued climate action, and while what the Biden administration negotiates at COP29 will at least set a floor for future U.S. commitments (even if that floor is performative), we won’t see a major departure from the status quo unless a Harris administration can convince legislators that American leadership requires a lot more American money. </p><p>“We are not going back” ― this much is true. But it would be nice to go forward, too.</p> 
+
+<br> 
+
+<https://heatmap.news/climate/cop29-election>
+
+---
+
+## The last reading on inflation before the election
+
+date: 2024-10-31, from: Marketplace Morning Report
+
+<p>This morning, the central bank&#8217;s preferred measure of inflation — the personal consumption expenditures price index, or PCE — came out and clocked in at 2.1% annually in September. With fuel and energy prices stripped out, the index was up 2.7%. What should we make of these figures? Then, if former President Donald Trump is re-elected, he&#8217;s promising steep tariffs on goods entering the U.S. We&#8217;ll explore the knock-on effects.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/31/mmr_20241031_MMR_Podcast_3_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/the-last-reading-on-inflation-before-the-election&awCollectionId=mkp-MMR&awGenre=%5B"Talk","News","Business"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report"></source>
+</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/10/31/mmr_20241031_MMR_Podcast_3_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/the-last-reading-on-inflation-before-the-election&awCollectionId=mkp-MMR&awGenre=%5B\"Talk\",\"News\",\"Business\"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace-morning-report" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/the-last-reading-on-inflation-before-the-election>
 
 ---
 
@@ -537,9 +1726,7 @@ date: 2024-10-30, from: Heatmap News
 date: 2024-10-30, from: Heatmap News
 
 
-<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDA4OTYzNC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTczOTkzNTY5M30.TFRVJAruFoeRTUz91VdySK5XaMFwzejpXmnEj0o4VUY/image.jpg?width=1200&height=886&coordinates=0%2C0%2C0%2C0"/><br/><br/><p><strong>1. Douglas County, Kansas </strong>– A legal headache is consuming Kansas Sky Energy Center, a 159-megawatt solar project proposed by Savion and Invenergy… and showcasing how “agri-voltaics” may not be the community engagement panacea some in industry are praying for, according to legal filings reviewed by Heatmap.</p><ul><li>The Douglas <a href="https://www.dgcoks.gov/county-commission" target="_blank"><u>Board of County Commissioners</u></a> approved the project earlier this year <a href="https://flatlandkc.org/news-issues/douglas-county-commission-approves-massive-solar-project/" target="_blank"><u>unanimously</u></a> in spite of a petition from nearly property owners to oppose the project. After that, landowners and the small neighboring community of Grant Township sued the county commissioners to invalidate the approval.<br/></li><li>The litigation accuses the Board Chair Karen Willey of essentially orchestrating the approval and the solar project’s agri-voltaics plans without meaningful local consultation, per the most recent amended complaint filed by the aggrieved community members.</li><li>The complaint gets ugly real fast, citing texts and emails to allege some sort of conspiracy between Willey, Savion employees, and The Nature Conservancy, the environmental nonprofit, which was brought in to assist with the agri-voltaics plans.</li><li>“Commissioner Karen Willey, a well-known opponent of production farming and a critic of the accepted farming principles that enable Kansas farmers to feed the world,” states the complaint filed in August, “orchestrated the request and approval process to fulfill her pre-set personal agenda.”</li><li>Willey and the rest of the board have denied all of the wrongdoing alleged in the suit and are fighting it vigorously.</li><li>Irrespective of the merits, this one’s a headache, and must be eating up lots of time and money for developers and the local government. Yesterday a federal judge sent the case to state court after a prolonged fight over jurisdiction.</li><li>This can be a fraught place to develop solar, as NextEra Energy has experienced with its <a href="https://lawrencekstimes.com/2022/09/14/giant-solar-farm-joco-dgco/" target="_blank"><u>West Gardner solar project</u></a>.</li></ul><p><strong>2. Worcester County, Maryland</strong> – We finally get to see the contours of the legal strategy against the Maryland Offshore Wind Project, after Ocean City and surrounding local business and government officials filed their lawsuit last week. </p><ul> <li>In their complaint, opponents primarily cite environmental protection laws and issues like “segmenting” environmental impacts that are “cumulative” under NEPA (i.e. looking at them separately instead of together).<br/></li><li>The lawsuit also argues the government failed to properly consider the impacts of climate change on the wind project.</li><li>Ocean City and its allies are represented in the case by locally-based attorney Bruce Bight of the D.C. law firm Marzulla, which is also <a href="https://marzulla.com/blog/when-harms-are-all-over-the-map-massachusetts-wind-farms-threaten-marine-life-and-livelihoods-on-and-off-shore/" target="_blank"><u>representing fishermen</u></a> fighting offshore wind in New England.</li></ul><p><strong>3. Barnstable County, Massachusetts </strong>– Another blow to offshore wind came Friday in the coastal town of Barnstable where leaders voted to oppose cable landings for Avangrid’s New England Wind 2 project.</p><ul><li>The town’s non-binding resolution opposing the cable landings came after a citizens group waged a pressure campaign – <a href="https://www.capecodtimes.com/story/news/environment/2024/08/16/barnstable-speaks-town-council-save-greater-dowses-beach-superior-court-avangrid-new-england-wind-1/74797910007/" target="_blank"><u>including litigation</u></a> – to make the town ditch a <a href="https://tobweb.town.barnstable.ma.us/ParkCityWindDocuments/Side%20Agreement%20Relating%20to%20HCA%20(Executed%206.25.2024%20).pdf" target="_blank"><u>host community agreement</u></a> with Avangrid.<br/></li><li>Avangrid did not immediately respond to a request for comment.</li></ul><p><strong>3. Somewhere near Houston, Texas </strong>– The small city of Katy rejected a 500-megawatt battery storage project proposed by Ochoa Energy despite the community struggling with regular blackouts. </p><ul><li>During the city council’s meeting <a href="https://katytx.new.swagit.com/videos/317576" target="_blank"><u>last week</u></a> on the project, city councilors discussed crafting their own anti-storage moratorium and cited other communities with new restrictions, including <a href="https://heatmap.news/plus/the-fight/hotspots/escondido-california-battery-moratorium-aes" target="_self"><u>specifically Escondido, California.<br/></u></a></li><li>The rejection was at least partially based on fear. Katy City Councilor Gina Hicks said she personally supported construction but local opposition made it impossible for her to support the project as an elected representative.</li><li>The vote against Ochoa’s proposal came after an uproar at another recent public meeting on the project, per Hicks, who predicted “brownouts” and “blackouts” without the project.</li><li>“Just know that we as a community chose this and I will represent what the community wants versus what I feel is personally best for this decision,” she said.</li></ul>
-<p><em><em>Here’s what else I’m keeping tabs on…</em></em></p>
-<p><strong>In Iowa,</strong> a county fighting the Worthwhile Wind farm proposed by Invenergy <a href="https://kchanews.com/2024/10/29/des-moines-attorney-suggests-floyd-county-table-wind-ordinance/" rel="noopener noreferrer" target="_blank">is asking</a> outside legal counsel for help after a federal judge ruled the project <a href="https://www.charlescitypress.com/front/2024/10/10/court-rules-in-favor-of-wind-energy-company-in-worth-county-dispute/" target="_blank">could resume construction</a>.</p><p><strong>In Kentucky, </strong>the mayor of Lexington city Linda Gorton <a href="https://www.weku.org/lexington-richmond/2024-10-29/public-service-commission-holds-public-hearing-on-potential-fayette-county-solar-farm" rel="noopener noreferrer" target="_blank">testified against</a> construction of a 40-megawatt solar farm proposed by the East Kentucky Power Cooperative.</p><p><strong>In Massachusetts, </strong>a private non-profit that operates historic sites in Nantucket has <a href="https://www.masslive.com/capecod/2024/10/nantuckets-maria-mitchell-association-exits-vineyard-wind-agreement.html" target="_blank">withdrawn</a> from the Vineyard Wind good neighbor agreement.</p><p><strong>In Michigan, </strong>the tiny town of Groveland Township is <a href="https://www.detroitnews.com/story/news/local/oakland-county/2024/10/22/proposed-battery-project-site-raises-hackles-in-oakland-county/75783210007/" rel="noopener noreferrer" target="_blank">trying to get</a> a restrictive battery storage ordinance in place before a new state law curbing local control comes into effect. (Sorry you’re dealing with this one, Vesper Energy.)</p><strong>In Virginia, </strong>Dominion Energy has sold a non-controlling 50% stake in Coastal Virginia Offshore Wind as public comments resume on the proposed project (which haven’t <a href="https://virginiamercury.com/2024/10/29/menhaden-fishing-company-requests-increased-buffer-for-future-offshore-wind-projects/" target="_blank"><u>always been favorable</u></a>). 
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDA4OTYzNC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTczOTkzNTY5M30.TFRVJAruFoeRTUz91VdySK5XaMFwzejpXmnEj0o4VUY/image.jpg?width=1200&height=886&coordinates=0%2C0%2C0%2C0"/><br/><br/><p><strong>1. Douglas County, Kansas </strong>– A legal headache is consuming Kansas Sky Energy Center, a 159-megawatt solar project proposed by Savion and Evergy … and showcasing how “agri-voltaics” may not be the community engagement panacea some in industry are praying for, according to legal filings reviewed by Heatmap.</p><ul><li>The Douglas <a href="https://www.dgcoks.gov/county-commission" target="_blank"><u>Board of County Commissioners</u></a> approved the project earlier this year <a href="https://flatlandkc.org/news-issues/douglas-county-commission-approves-massive-solar-project/" target="_blank"><u>unanimously</u></a> in spite of a petition from nearly property owners to oppose the project. After that, landowners and the small neighboring community of Grant Township sued the county commissioners to invalidate the approval.</li><li>The litigation accuses the Board Chair Karen Willey of essentially orchestrating the approval and the solar project’s agri-voltaics plans without meaningful local consultation, per the most recent amended complaint filed by the aggrieved community members.</li><li>The complaint gets ugly real fast, citing texts and emails to allege some sort of conspiracy between Willey, Savion employees, and The Nature Conservancy, the environmental nonprofit, which was brought in to assist with the agri-voltaics plans.</li><li>“Commissioner Karen Willey, a well-known opponent of production farming and a critic of the accepted farming principles that enable Kansas farmers to feed the world,” states the complaint filed in August, “orchestrated the request and approval process to fulfill her pre-set personal agenda.”</li><li>Willey and the rest of the board have denied all of the wrongdoing alleged in the suit and are fighting it vigorously.</li><li>Irrespective of the merits, this one’s a headache, and must be eating up lots of time and money for developers and the local government. Yesterday a federal judge sent the case to state court after a prolonged fight over jurisdiction.</li><li>This can be a fraught place to develop solar, as NextEra Energy has experienced with its <a href="https://lawrencekstimes.com/2022/09/14/giant-solar-farm-joco-dgco/" target="_blank"><u>West Gardner solar project</u></a>.</li></ul><p><strong>2. Worcester County, Maryland</strong> – We finally get to see the contours of the legal strategy against the Maryland Offshore Wind Project, after Ocean City and surrounding local business and government officials filed their lawsuit last week. </p><ul> <li>In their complaint, opponents primarily cite environmental protection laws and issues like “segmenting” environmental impacts that are “cumulative” under NEPA (i.e. looking at them separately instead of together).</li><li>The lawsuit also argues the government failed to properly consider the impacts of climate change on the wind project.</li><li>Ocean City and its allies are represented in the case by locally-based attorney Bruce Bight of the D.C. law firm Marzulla, which is also <a href="https://marzulla.com/blog/when-harms-are-all-over-the-map-massachusetts-wind-farms-threaten-marine-life-and-livelihoods-on-and-off-shore/" target="_blank"><u>representing fishermen</u></a> fighting offshore wind in New England.</li></ul><p><strong>3. Barnstable County, Massachusetts </strong>– Another blow to offshore wind came Friday in the coastal town of Barnstable where leaders voted to oppose cable landings for Avangrid’s New England Wind 2 project.</p><ul><li>The town’s non-binding resolution opposing the cable landings came after a citizens group waged a pressure campaign – <a href="https://www.capecodtimes.com/story/news/environment/2024/08/16/barnstable-speaks-town-council-save-greater-dowses-beach-superior-court-avangrid-new-england-wind-1/74797910007/" target="_blank"><u>including litigation</u></a> – to make the town ditch a <a href="https://tobweb.town.barnstable.ma.us/ParkCityWindDocuments/Side%20Agreement%20Relating%20to%20HCA%20(Executed%206.25.2024%20).pdf" target="_blank"><u>host community agreement</u></a> with Avangrid.</li><li>Avangrid did not immediately respond to a request for comment.</li></ul><p><strong>4. Somewhere near Houston, Texas </strong>– The small city of Katy rejected a 500-megawatt battery storage project proposed by Ochoa Energy despite the community struggling with regular blackouts. </p><ul><li>During the city council’s meeting <a href="https://katytx.new.swagit.com/videos/317576" target="_blank"><u>last week</u></a> on the project, city councilors discussed crafting their own anti-storage moratorium and cited other communities with new restrictions, including <a href="https://heatmap.news/plus/the-fight/hotspots/escondido-california-battery-moratorium-aes" target="_self"><u>specifically Escondido, California.<br/></u></a></li><li>The rejection was at least partially based on fear. Katy City Councilor Gina Hicks said she personally supported construction but local opposition made it impossible for her to support the project as an elected representative.</li><li>The vote against Ochoa’s proposal came after an uproar at another recent public meeting on the project, per Hicks, who predicted “brownouts” and “blackouts” without the project.</li><li>“Just know that we as a community chose this and I will represent what the community wants versus what I feel is personally best for this decision,” she said.</li></ul><p><em><em>Here’s what else I’m keeping tabs on…</em></em></p><p><strong>In Iowa,</strong> a county fighting the Worthwhile Wind farm proposed by Invenergy <a href="https://kchanews.com/2024/10/29/des-moines-attorney-suggests-floyd-county-table-wind-ordinance/" rel="noopener noreferrer" target="_blank">is asking</a> outside legal counsel for help after a federal judge ruled the project <a href="https://www.charlescitypress.com/front/2024/10/10/court-rules-in-favor-of-wind-energy-company-in-worth-county-dispute/" target="_blank">could resume construction</a>.</p><p><strong>In Kentucky, </strong>the mayor of Lexington city Linda Gorton <a href="https://www.weku.org/lexington-richmond/2024-10-29/public-service-commission-holds-public-hearing-on-potential-fayette-county-solar-farm" rel="noopener noreferrer" target="_blank">testified against</a> construction of a 40-megawatt solar farm proposed by the East Kentucky Power Cooperative.</p><p><strong>In Massachusetts, </strong>a private non-profit that operates historic sites in Nantucket has <a href="https://www.masslive.com/capecod/2024/10/nantuckets-maria-mitchell-association-exits-vineyard-wind-agreement.html" target="_blank">withdrawn</a> from the Vineyard Wind good neighbor agreement.</p><p><strong>In Michigan, </strong>the tiny town of Groveland Township is <a href="https://www.detroitnews.com/story/news/local/oakland-county/2024/10/22/proposed-battery-project-site-raises-hackles-in-oakland-county/75783210007/" rel="noopener noreferrer" target="_blank">trying to get</a> a restrictive battery storage ordinance in place before a new state law curbing local control comes into effect. (Sorry you’re dealing with this one, Vesper Energy.)</p><strong>In Virginia, </strong>Dominion Energy has sold a non-controlling 50% stake in Coastal Virginia Offshore Wind as public comments resume on the proposed project (which haven’t <a href="https://virginiamercury.com/2024/10/29/menhaden-fishing-company-requests-increased-buffer-for-future-offshore-wind-projects/" target="_blank"><u>always been favorable</u></a>).<p><br/></p><p><em>Editor's note: A previous version of this article misidentified one of the companies behind the Kansas Sky Energy Center. It has been corrected. We regret the error.</em></p> 
 
 <br> 
 
