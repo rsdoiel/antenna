@@ -1,11 +1,23 @@
 ---
 title: libraries
-updated: 2024-11-01 10:26:13
+updated: 2024-11-02 08:50:57
 ---
 
 # libraries
 
-(date: 2024-11-01 10:26:13)
+(date: 2024-11-02 08:50:57)
+
+---
+
+## Internet Archive Puts Out Welcome Mat for Community Gatherings
+
+date: 2024-11-01, from: Internet Archive Blog
+
+Libraries are a cornerstone for civic engagement. The Internet Archive is carrying on that tradition by hosting in-person gatherings at its Funston Avenue headquarters in San Francisco, including candidate forums [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2024/11/01/internet-archive-puts-out-welcome-mat-for-community-gatherings/>
 
 ---
 
@@ -394,4 +406,16 @@ alt="Annual fee schedules comparisons between Crossref and CORE, DOAJ, Dryad, OA
 <br> 
 
 <https://www.crossref.org/blog/update-rcfs/>
+
+---
+
+## Real-time processing of information by signature inspired machine learning
+
+date: 2024-10-26, from: ETH Zurich, recently added
+
+Zhou, Syang 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/701973>
 

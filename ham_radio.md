@@ -1,11 +1,35 @@
 ---
 title: ham radio
-updated: 2024-11-01 10:26:11
+updated: 2024-11-02 08:50:55
 ---
 
 # ham radio
 
-(date: 2024-11-01 10:26:11)
+(date: 2024-11-02 08:50:55)
+
+---
+
+## ARRL Members Raise $47,000 for STEM Education in Online Auction
+
+date: 2024-11-01, from: Amateur Radio Relay League News
+
+<p>ARRL® The National Association for Amateur Radio® is pleased to announce that the 19th annual ARRL Online Auction, sponsored by RT Systems Inc, raised $47,000 for amateur radio STEM education. </p><p>The event was held from October 18- 24, 2024. In addition to hundreds of views, the auction saw 329 individual bidders vying for equipment, vintage books, “mystery junk boxes” from the ARRL Lab, and more....</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-members-raise-47-000-for-stem-education-in-online-auction>
+
+---
+
+## The K7RA Solar Update
+
+date: 2024-11-01, from: Amateur Radio Relay League News
+
+<p>Solar activity increased this week. Average daily sunspot number<br />went from 127.7 to 197.4 and average solar flux from 170.5 to 240.2.<br /><br />Predicted solar flux is 270 on November 1-2, 265 and 260 on November<br />3-4, 250 on November 5-7, 214, 195 and 182 on November 8-10, 172,<br />168, 174 and 165 on November 11-14, and 162 on November 15-16.<br /><br />Predicted planetary A index is 5, 8, 15, and 10 on November 1-4, 5<br />on N...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/the-k7ra-solar-update-852>
 
 ---
 

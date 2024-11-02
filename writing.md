@@ -1,11 +1,69 @@
 ---
 title: writing
-updated: 2024-11-01 10:26:13
+updated: 2024-11-02 08:50:57
 ---
 
 # writing
 
-(date: 2024-11-01 10:26:13)
+(date: 2024-11-02 08:50:57)
+
+---
+
+## 🗳️ #223 - The Race is On
+
+date: 2024-11-01, from: Interesting, a blog on writing
+
+Okay, so we're doing this... 
+
+<br> 
+
+<https://inneresting.substack.com/p/223-the-race-is-on>
+
+---
+
+## Play AlphaBirds with us
+
+date: 2024-11-01, from: John August blog
+
+AlphaBirds &#8212; the fun, fast word game we make &#8212; is having its first-ever live event this month. We&#8217;re holding it at Village Well in Culver City, November 22nd at 6:30pm. Come have a drink and learn to play our game. Space is limited, so do get a ticket in advance. Not in the LA [&#8230;]
+The post <a href="https://johnaugust.com/2024/play-alphabirds-with-us">Play AlphaBirds with us</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2024/play-alphabirds-with-us>
+
+---
+
+## Magazines Received – October
+
+date: 2024-11-01, from: Locus Magazine
+
+<div class="blockquote">This list covers new SF/F/H print, online, and electronic periodicals (including regularly updated websites) seen by Locus magazine, focusing on those that publish fiction or reviews and criticism. To submit titles for listing on these pages, please send to Locus Publications, 655 13th St. #100, Oakland CA 94612 or email locus@locusmag.com.</div>
+<div>
+<div class="mynomorebulletlist">
+
+<p>Heartlines Spec</p>
+<ul>
+<li>Rebecca Bennett, ed.</li>
+<li>Issue No. 5, Summer 2024, $6.00 print, triannually, 110pp, 15½ x 23 cm.</li>
+<li>Canadian </li></ul></div></div> <a href="https://locusmag.com/2024/11/magazines-received-october-2/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2024/11/magazines-received-october-2/>
+
+---
+
+## B&N Book of the Year Nominees
+
+date: 2024-11-01, from: Locus Magazine
+
+<p>The 13 finalists for the Barnes and Noble Book of the Year 2024 have been announced, and include historical novel <strong>The Women </strong>by Kristin Hannah (St. Martin&#8217;s), who sometimes writes fantasy; <strong>Huckleberry Finn</strong> reimagining <strong>James </strong>by Percival Everett (Knopf), who also writes SF; and fantasy novel <strong>Impossible Creatures </strong>by Katherine Rundell (Random House Children&#8217;s Books).</p>
+<p>Shortlisted titles are nominated by Barnes and Noble booksellers. The winner will be announced on  <a href="https://locusmag.com/2024/11/bn-book-of-the-year-nominees/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/11/bn-book-of-the-year-nominees/>
 
 ---
 
@@ -419,4 +477,30 @@ date: 2024-10-27, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2024/10/ultra-85-by-logic-review-by-ian-mond/>
+
+---
+
+## Nether Station by Kevin J. Anderson: Review by Paul Di Filippo
+
+date: 2024-10-26, from: Locus Magazine
+
+<p><strong>Nether Station</strong>, Kevin J. Anderson (Blackstone 979-8200688449, hardcover, 316pp, $27.99) October 2024</p>
+<p>The crew of a small survey spaceship voyages out to investigate a spacetime anomaly, and encounters deadly supernatural (?) entities. Am I about to take a second pass at reviewing Adam Roberts’s recent <b>Lake of Darkness</b>? Not at all! But by phrasing the plot of that novel generically, I can point out that although certain adjacent  <a href="https://locusmag.com/2024/10/paul-di-filippo-reviews-nether-station-by-kevin-j-anderson/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/10/paul-di-filippo-reviews-nether-station-by-kevin-j-anderson/>
+
+---
+
+## Alien Clay by Adrian Tchaikovsky: Review by Niall Harrison
+
+date: 2024-10-26, from: Locus Magazine
+
+<p><strong>Alien Clay</strong>, Adrian Tchaikovsky (Tor UK 978-1035013746, 400pp, £16.99, hc) March 2024. (Orbit US 978-0316578974 , $19.999, 432pp, tp) September 2024. Cover by Lauren Panepinto.</p>
+<p>Sometimes the way into a story is through another story. Probably the most familiar route is through a genealogical relationship, in which a new story attempts to extend or argue with an old one: All those works unpicking the cold equations or at­tempting to  <a href="https://locusmag.com/2024/10/alien-clay-by-adrian-tchaikovsky-review-by-niall-harrison/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/10/alien-clay-by-adrian-tchaikovsky-review-by-niall-harrison/>
 

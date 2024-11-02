@@ -1,11 +1,11 @@
 ---
 title: central coast
-updated: 2024-11-01 10:26:12
+updated: 2024-11-02 08:50:56
 ---
 
 # central coast
 
-(date: 2024-11-01 10:26:12)
+(date: 2024-11-02 08:50:56)
 
 ---
 
@@ -769,4 +769,48 @@ date: 2024-10-27, from: Newshawk, the freshest news in Santa Barbara County
 <br> 
 
 <https://www.noozhawk.com/west-african-pop-star-habib-koite-playing-at-campbell-hall/>
+
+---
+
+## Comet Sighting
+
+date: 2024-10-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-POD-Matt-Udkow.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Comet C/2023A3 Tsuchinshan-ATLAS , a rare comet visible once every 80,000 years, “disappears” into a fog bank in a view from Solvang." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-POD-Matt-Udkow.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-POD-Matt-Udkow.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-POD-Matt-Udkow.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-POD-Matt-Udkow.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-POD-Matt-Udkow.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-POD-Matt-Udkow.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-POD-Matt-Udkow.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-POD-Matt-Udkow.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-POD-Matt-Udkow.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-POD-Matt-Udkow.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-POD-Matt-Udkow.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-POD-Matt-Udkow.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/comet-sighting-2/">Comet Sighting</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/comet-sighting-2/>
+
+---
+
+## Candidates Share Their Goals If Elected to Santa Barbara School Board
+
+date: 2024-10-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102524-School-District-Candidates-1-JM-copy.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Santa Barbara school board candidates." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102524-School-District-Candidates-1-JM-copy.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102524-School-District-Candidates-1-JM-copy.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102524-School-District-Candidates-1-JM-copy.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102524-School-District-Candidates-1-JM-copy.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102524-School-District-Candidates-1-JM-copy.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102524-School-District-Candidates-1-JM-copy.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102524-School-District-Candidates-1-JM-copy.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102524-School-District-Candidates-1-JM-copy.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102524-School-District-Candidates-1-JM-copy.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>After nearly two years of turmoil over teacher pay, the Santa Barbara Unified School District is looking at entering a new era. Superintendent Hilda Maldonado appears to have weathered the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/candidates-share-their-goals-for-santa-barbara-school-board/">Candidates Share Their Goals If Elected to Santa Barbara School Board</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/candidates-share-their-goals-for-santa-barbara-school-board/>
+
+---
+
+## Natalia Alarcon, Adriana Gonzalez-Smith Vie for Carpinteria Council Seat
+
+date: 2024-10-26, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Carpinteria-race-1-courtesy.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Carpinteria Councilwoman Natalia Alarcon, left, is running for her second term in District 2 and faces a challenge from newcomer Adriana Gonzalez-Smith." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Carpinteria-race-1-courtesy.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Carpinteria-race-1-courtesy.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Carpinteria-race-1-courtesy.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Carpinteria-race-1-courtesy.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Carpinteria-race-1-courtesy.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Carpinteria-race-1-courtesy.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Carpinteria-race-1-courtesy.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Carpinteria-race-1-courtesy.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-Carpinteria-race-1-courtesy.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Three City Council seats are up for grabs in Carpinteria. Councilwoman Natalia Alarcon is running for her second term in District 2 against newcomer Adriana Gonzalez-Smith, and two other seats [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/natalia-alarcon-adriana-gonzalez-smith-vie-for-carpinterias-district-2-council-seat/">Natalia Alarcon, Adriana Gonzalez-Smith Vie for Carpinteria Council Seat</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/natalia-alarcon-adriana-gonzalez-smith-vie-for-carpinterias-district-2-council-seat/>
 

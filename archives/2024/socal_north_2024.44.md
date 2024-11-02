@@ -1,11 +1,155 @@
 ---
 title: socal north
-updated: 2024-11-01 10:26:11
+updated: 2024-11-02 08:50:55
 ---
 
 # socal north
 
-(date: 2024-11-01 10:26:11)
+(date: 2024-11-02 08:50:55)
+
+---
+
+## More than $10 billion has been spent on ads in the 2024 election
+
+date: 2024-11-01, updated: 2024-11-01, from: The LAist
+
+Spending on campaign ads is up $1 billion from four years ago, according to data from AdImpact, analyzed by NPR. 
+
+<br> 
+
+<https://laist.com/news/politics/more-than-10-billion-has-been-spent-on-ads-in-the-2024-election>
+
+---
+
+## Here’s where Trump and Harris stand on 5 issues affecting workers
+
+date: 2024-11-01, updated: 2024-11-01, from: The LAist
+
+Vice President Kamala Harris and former President Donald Trump have both appealed to workers in this year's election. But the candidates’ stances on many issues affecting workers remain far apart. 
+
+<br> 
+
+<https://laist.com/news/heres-where-trump-and-harris-stand-on-5-issues-affecting-workers>
+
+---
+
+## It’s hard to vote in California when you’re homeless. Why it matters when their voices are silenced
+
+date: 2024-11-01, updated: 2024-11-01, from: The LAist
+
+Homeless Californians face many barriers to casting a ballot, even in elections that affect their lives. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/its-hard-to-vote-in-california-when-youre-homeless-why-it-matters-when-their-voices-are-silenced>
+
+---
+
+## ‘Immediate threat’: Mussel invades California’s Delta, first time in North America
+
+date: 2024-11-01, updated: 2024-11-01, from: The LAist
+
+The golden mussel’s appearance in the Sacramento-San Joaquin Delta is its first confirmed detection in North America — and it has the potential to clog major water supply pumps. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/mussel-invades-californias-delta-first-time-in-north-america>
+
+---
+
+## Voting for a write-in candidate? Here’s the full list of qualified names for LA County voters
+
+date: 2024-11-01, updated: 2024-11-01, from: The LAist
+
+Your write-in vote only counts for candidates who have qualified. Here’s everything you need to know to fill out your ballot correctly and make sure it’s counted. 
+
+<br> 
+
+<https://laist.com/news/politics/write-in-candidate-california-la-county-vote>
+
+---
+
+## Avalon City Council approves Stage zero of Cabrillo Mole rehab
+
+date: 2024-11-01, from: Catalina Islander
+
+The Avalon City Council last week unanimously approved stage 0 of the 10-stage $20-million Cabrillo Mole Rehabilitation Project. Once the staff presentation was over, the motion to approve the request was given and seconded. Avalon CIP Director Bob Greenlaw said they were finally making progress on the Cabrillo Mole Rehabilitation Project at the Oct. 22 [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/avalon-city-council-approves-stage-zero-of-cabrillo-mole-rehab/>
+
+---
+
+## Día de los Muertos at Museum
+
+date: 2024-11-01, from: Catalina Islander
+
+Catalina Museum for Art &#38; History is set to host its 6th Annual Día de Muertos Family Festival as part of its popular First Fridays at the Museum series, on Nov. 1, from 6 to 9 p.m. Families and friends of all ages are invited to celebrate this colorful Mexican tradition, which honors life and [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/dia-de-los-muertos-at-museum/>
+
+---
+
+## Proposición 35 de California: Ampliación de un impuesto para financiar la atención sanitaria
+
+date: 2024-11-01, updated: 2024-11-01, from: The LAist
+
+La medida estatal haría permanente un impuesto a los proveedores médicos y garantizaría la financiación de algunos servicios de Medi-Cal. 
+
+<br> 
+
+<https://laist.com/news/politics/2024-election-california-general-proposition-35-es-proposicion-35-ampliacion-impuesto-financiar-medicos-medical>
+
+---
+
+## Proposición 36 de California: Aumento de las penas por determinados delitos de drogas y robo
+
+date: 2024-11-01, updated: 2024-11-01, from: The LAist
+
+La medida se propone como respuesta al aumento de los robos con violencia de alto perfil y a la crisis del fentanilo. 
+
+<br> 
+
+<https://laist.com/news/politics/2024-election-california-general-proposition-36-es-proposicion-penas-determinados-delitos>
+
+---
+
+## Orange County Board of Supervisors, District 1: Who's running on Nov. 5 and why it matters
+
+date: 2024-11-01, updated: 2024-11-01, from: The LAist
+
+El ganador del Distrito 1 se unirá a una junta de cinco miembros que supervisa un condado de alrededor de 3 millones de habitantes con un presupuesto anual de casi $9 mil millones. 
+
+<br> 
+
+<https://laist.com/news/politics/2024-election-california-general-orange-county-supervisors-district-1-es-junta-supervisores-condado-distrito>
+
+---
+
+## Sheriff’s Log: Oct. 24 to Oct. 30, 2024
+
+date: 2024-11-01, from: Catalina Islander
+
+The following is the Avalon’s Sheriff’s Stations significant incidents report for the period of Oct. 24 to Oct. 30, 2024. All suspects are presumed innocent until proven guilty in a court of law. Many people who are arrested do not get prosecuted in the first place and many who are prosecuted do not get convicted. [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/sheriffs-log-oct-24-to-oct-30-2024/>
+
+---
+
+## Dodgers victory parade! This is how fans celebrated L.A.'s World Series win
+
+date: 2024-11-01, updated: 2024-11-01, from: The LAist
+
+"I mean, this is something that means so much to so many people around the world and just, we're, we're lucky to have this." 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/dodgers-world-series-win-parade>
 
 ---
 
@@ -18,6 +162,18 @@ Some rain possible this weekend, though.
 <br> 
 
 <https://laist.com/news/climate-environment/sunny-and-clear-start-november-possible-rain-11-1-24>
+
+---
+
+## As an OC supervisor, Michelle Steel awarded a $1.2M pandemic meals contract to her campaign mail printer
+
+date: 2024-11-01, updated: 2024-11-01, from: The LAist
+
+The contract Steel directed to her campaign mail vendor in 2020 charged taxpayers about $24 per meal, three times as much as vendors charged in two other Orange County supervisor districts, according to an LAist review of contracts. 
+
+<br> 
+
+<https://laist.com/news/politics/michelle-steel-pandemic-meals-campaign-mail-printer-supervisor>
 
 ---
 
@@ -42,18 +198,6 @@ Maybe you have heard of it. But if not, you're missing out.
 <br> 
 
 <https://laist.com/news/food/new-haven-pizza-now-in-la>
-
----
-
-## As an OC supervisor, Michelle Steel awarded a $1.2M pandemic meals contract to her campaign mail printer
-
-date: 2024-11-01, updated: 2024-11-01, from: The LAist
-
-The contract Steel directed to her campaign mail vendor in 2020 charged taxpayers about $24 per meal, three times as much as vendors charged in two other Orange County supervisor districts, according to an LAist review of contracts. 
-
-<br> 
-
-<https://laist.com/news/politics/michelle-steel-pandemic-meals-campaign-mail-printer-supervisor>
 
 ---
 
@@ -133,7 +277,7 @@ Instead of the traditional orange flavor, La Sureñita Bakery uses guava and cin
 
 date: 2024-10-31, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="771" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?fit=771%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?w=1928&amp;ssl=1 1928w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?resize=226%2C300&amp;ssl=1 226w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?resize=771%2C1024&amp;ssl=1 771w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?resize=768%2C1020&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?resize=1157%2C1536&amp;ssl=1 1157w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?resize=1542%2C2048&amp;ssl=1 1542w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?resize=1200%2C1594&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?resize=1568%2C2083&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?resize=2000%2C2656&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?resize=400%2C531&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?resize=706%2C938&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?fit=771%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="771" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?fit=771%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?w=1928&amp;ssl=1 1928w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?resize=226%2C300&amp;ssl=1 226w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?resize=771%2C1024&amp;ssl=1 771w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?resize=768%2C1020&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?resize=1157%2C1536&amp;ssl=1 1157w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?resize=1542%2C2048&amp;ssl=1 1542w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?resize=1200%2C1594&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?resize=1568%2C2083&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?resize=2000%2C2656&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?resize=400%2C531&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?resize=706%2C938&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/10/PXL_20241031_210326571-scaled.jpg?fit=771%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>SoCalGas shut off service to its customers due to a disruption to natural gas service in Sylmar, affecting not only homes in the area but businesses in the City of [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/10/31/gas-shut-off-causes-two-city-of-san-fernando-businesses-to-temporarily-close/">Gas Shut Off Causes Two City of San Fernando Businesses to Temporarily Close</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -950,4 +1094,66 @@ One UFO researcher called Big Tujunga Canyon a “window area” for paranormal 
 <br> 
 
 <https://laist.com/news/la-history/alien-abduction-case-ufo-hotbed-big-tujunga-canyon>
+
+---
+
+## All Aboard the Holiday Express!
+
+date: 2024-10-26, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin With the holidays just a few weeks away, my favorite time of year is officially upon us! Whether its spending time with family and friends, flipping the switch for our annual Light Up Main Street event in Old Town Newhall or enjoying the cooler weather – there’s so much community [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/10/26/all-aboard-the-holiday-express/">All Aboard the Holiday Express!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/10/26/all-aboard-the-holiday-express/>
+
+---
+
+## Mischievous, monosyllabic skeleton kids star in new illustrated adventure
+
+date: 2024-10-26, updated: 2024-10-27, from: The LAist
+
+Los Angeles author and artist Rhode Montijo’s newest picture book takes readers on another (mis)adventure through the Día de los Muertos-inspired land of Skeletown. 
+
+<br> 
+
+<https://laist.com/news/education/picture-book-dia-de-los-muertos-halloween-2024-rhode-montijo-skeletown-mas-menos>
+
+---
+
+## How a film about Vietnamese New Wavers in SoCal became a journey of healing
+
+date: 2024-10-26, updated: 2024-10-27, from: The LAist
+
+The documentary “New Wave” opens a window into a music subculture that thrived in Little Saigon. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/new-wave-vietnamese-eurodisco-documentary-elizabeth-ai>
+
+---
+
+## How a film about Vietnamese New Wavers in SoCal became a journey of healing
+
+date: 2024-10-26, updated: 2024-10-26, from: The LAist
+
+The documentary “New Wave” opens a window into a music subculture that thrived in Little Saigon. 
+
+<br> 
+
+<https://laist.com/news/new-wave-vietnamese-eurodisco-documentary-elizabeth-ai>
+
+---
+
+## Dodgers win nail-biting Game 1 of World Series on Freddie Freeman’s grand slam
+
+date: 2024-10-26, updated: 2024-10-26, from: The LAist
+
+Freddie Freeman crushed it over the right field fence Friday night to help the Dodgers win an extra inning 6-3 thriller over the New York Yankees. 
+
+<br> 
+
+<https://laist.com/news/dodgers-yankees-world-series-game-1>
 

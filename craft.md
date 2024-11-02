@@ -1,11 +1,11 @@
 ---
 title: craft
-updated: 2024-11-01 10:26:15
+updated: 2024-11-02 08:50:59
 ---
 
 # craft
 
-(date: 2024-11-01 10:26:15)
+(date: 2024-11-02 08:50:59)
 
 ---
 
@@ -32,4 +32,16 @@ date: 2024-10-28, from: Luthier on Luthier with Michael Bashkin
 </audio> <a href="https://traffic.libsyn.com/secure/luthieronluthier/LOL95.mp3?dest-id=480616" target="_blank">download audio/mpeg</a><br> 
 
 <https://luthieronluthier.libsyn.com/95-mark-stutman-folkway-music>
+
+---
+
+## John Porritt: Details of His Work
+
+date: 2024-10-26, from: Lost Arg Press blog
+
+by Brian Crawley John Porritt recently gave a stick chair talk in Austerlitz, New York (click here to read about it). With so many of his chairs gathered in one place, I was able to take some quick photos of John’s different approaches to armbows. The joints are all based on those he has seen... 
+
+<br> 
+
+<https://blog.lostartpress.com/2024/10/26/john-porritt-details-of-his-work/>
 

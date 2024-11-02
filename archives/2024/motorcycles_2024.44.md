@@ -1,11 +1,11 @@
 ---
 title: motorcycles
-updated: 2024-11-01 10:26:14
+updated: 2024-11-02 08:50:58
 ---
 
 # motorcycles
 
-(date: 2024-11-01 10:26:14)
+(date: 2024-11-02 08:50:58)
 
 ---
 
@@ -463,4 +463,16 @@ Say goodbye to bulky, heavy frames.
 <br> 
 
 <https://www.rideapart.com/news/738699/biomega-ber-stealthy-electric-bicycle/>
+
+---
+
+## No, Woke Policies and DEI Didn't Kill Harley's Sales
+
+date: 2024-10-26, from: Ride Apart, Electric Motorcycle News
+
+Harley did this to themselves.  
+
+<br> 
+
+<https://www.rideapart.com/news/738774/harley-davidson-woke-dei-policies-bad-poor-sales/>
 

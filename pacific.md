@@ -1,11 +1,63 @@
 ---
 title: pacific
-updated: 2024-11-01 10:26:11
+updated: 2024-11-02 08:50:55
 ---
 
 # pacific
 
-(date: 2024-11-01 10:26:11)
+(date: 2024-11-02 08:50:55)
+
+---
+
+## Hawaiʻi Sea Grant annual sci-art exhibit opens merging science, art
+
+date: 2024-11-01, from: University of Hawaiʻi News
+
+<p>Local artists shine a spotlight on the profound impact of marine debris on <span aria-label="Hawaii’s">Hawai&#699;i’s</span> coastlines and ecosystems from November 1&#8211;23.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/01/sci-art-exhibit-2024/">Hawaiʻi Sea Grant annual sci-art exhibit opens merging science, art</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/01/sci-art-exhibit-2024/>
+
+---
+
+## Experiments find coral reefs can survive some climate change, with help
+
+date: 2024-11-01, from: University of Hawaiʻi News
+
+<p>These findings suggest that coral conservation in a changing world is possible&#8212;but urgent action is essential.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/01/coral-reefs-publication/">Experiments find coral reefs can survive some climate change, with help</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/01/coral-reefs-publication/>
+
+---
+
+## Senior night shutout caps regular season, No. 1 seed in Big West tournament
+
+date: 2024-11-01, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> will host the Big West Championships starting on November 7.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/01/soccer-wins-on-senior-night/">Senior night shutout caps regular season, <abbr>No</abbr>. 1 seed in Big West tournament</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/01/soccer-wins-on-senior-night/>
+
+---
+
+## November 2024 anniversaries
+
+date: 2024-11-01, from: University of Hawaiʻi News
+
+<p>The University of <span aria-label="Hawaii">Hawai&#699;i</span> celebrates November 2024 faculty and staff anniversaries.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/01/november-2024-anniversaries/">November 2024 anniversaries</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/01/november-2024-anniversaries/>
 
 ---
 
@@ -228,6 +280,34 @@ date: 2024-11-01, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2024/11/01/nation-world-news/judge-declines-to-block-elon-musk-1-million-voter-giveaway-as-billionaire-seeks-to-move-case/>
+
+---
+
+## Visitor arrivals still recovering from the pandemic, Maui wildfires
+
+date: 2024-11-01, from: Hawaii Tribune Harold
+
+
+				<p>Visitor arrivals in September recovered to 96% of Sept&#0173;ember 2019&#8217;s pre-&#0173;pandemic level &#8212; the best recovery rate since the devastating Maui wildfires in August 2023 interrupted tourism&#8217;s recovery.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/01/hawaii-news/visitor-arrivals-still-recovering-from-the-pandemic-maui-wildfires/>
+
+---
+
+## Alaska’s first financial report since Hawaiian acquisition shows combined strengths
+
+date: 2024-11-01, from: Hawaii Tribune Harold
+
+
+				<p>Leaders at Alaska Air Group were bullish Thursday on their merger with Hawaiian Airlines in their first quarterly report filed since the move, indicating Hawaiian could almost break even by the fourth quarter.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/01/hawaii-news/alaskas-first-financial-report-since-hawaiian-acquisition-shows-combined-strengths/>
 
 ---
 
@@ -2725,4 +2805,236 @@ date: 2024-10-27, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2024/10/27/features/steves-taking-in-the-splendor-of-granada/>
+
+---
+
+## Hawaiian Airlines begins merger-related layoffs
+
+date: 2024-10-26, from: Hawaii Tribune Harold
+
+
+				<p>Hawaiian Airlines plans to eliminate 73 people from its 1,400 noncontract workforce in Hawaii and on the mainland in the wake of its recent merger with Alaska Air Group Inc.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/26/hawaii-news/hawaiian-airlines-begins-merger-related-layoffs/>
+
+---
+
+## Election officials face torrent of threats as Nov. 5 looms
+
+date: 2024-10-26, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; With less than two weeks until Election Day, law enforcement officials are confronting a rising wave of threats to election workers and political activists in a presidential contest hurtling toward a bitterly contentious coda and a potentially unsettled aftermath.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/26/nation-world-news/election-officials-face-torrent-of-threats-as-nov-5-looms/>
+
+---
+
+## Chinese hackers are said to have targeted phones used by Trump and Vance
+
+date: 2024-10-26, from: Hawaii Tribune Harold
+
+
+				<p>Chinese hackers targeted data from phones used by former President Donald Trump and his running mate, Sen. JD Vance of Ohio, as part of what appears to be a wide-ranging intelligence-collection effort, people familiar with the matter said on Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/26/nation-world-news/chinese-hackers-are-said-to-have-targeted-phones-used-by-trump-and-vance/>
+
+---
+
+## Harris has been a voice on race and gender. She doesn’t broadcast it.
+
+date: 2024-10-26, from: Hawaii Tribune Harold
+
+
+				<p>Paging through intelligence reports just weeks after she was sworn in as vice president, Kamala Harris was struck by the way two female foreign leaders were described. The reports used adjectives that, in her view, were rarely used to describe male leaders.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/26/nation-world-news/harris-has-been-a-voice-on-race-and-gender-she-doesnt-broadcast-it/>
+
+---
+
+## NASA astronaut hospitalized after return from space station
+
+date: 2024-10-26, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A NASA astronaut was flown to a hospital with an unspecified medical issue on Friday shortly after returning to Earth from a nearly eight-month mission on the International Space Station, the U.S. space agency said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/26/nation-world-news/nasa-astronaut-hospitalized-after-return-from-space-station/>
+
+---
+
+## McDonald’s E. coli crisis reveals why vegetable contamination is harder problem than beef
+
+date: 2024-10-26, from: Hawaii Tribune Harold
+
+
+				<p>Moves by major U.S. fast-food chains to temporarily pull fresh onions off their menus on Thursday, after the vegetable was named as the likely source of an E. coli outbreak at McDonald&#8217;s, laid bare the recurring nightmare for restaurants: Produce is a bigger problem for restaurants to keep free of contamination than beef.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/26/nation-world-news/mcdonalds-e-coli-crisis-reveals-why-vegetable-contamination-is-harder-problem-than-beef/>
+
+---
+
+## Biden administration floats student loan relief for borrowers facing hardship
+
+date: 2024-10-26, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Biden administration has proposed another student debt relief plan for 8 million people who cannot repay their loans because of &#8220;financially devastating hardships,&#8221; Education Secretary Miguel Cardona said Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/26/nation-world-news/biden-administration-floats-student-loan-relief-for-borrowers-facing-hardship/>
+
+---
+
+## Israel bombards Iran with airstrikes, retaliating for Oct. 1 attack
+
+date: 2024-10-26, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; Israel launched a series of airstrikes against Iran on Saturday, fulfilling its vow to retaliate for an earlier Iranian attack and raising fears that the intertwined conflicts in the Middle East could escalate into an all-out war between the region&#8217;s two most powerful militaries.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/26/nation-world-news/israel-bombards-iran-with-airstrikes-retaliating-for-oct-1-attack/>
+
+---
+
+## Nvidia overtakes Apple as world’s most valuable company
+
+date: 2024-10-26, from: Hawaii Tribune Harold
+
+
+				<p>Nvidia dethroned Apple as the world&#8217;s most valuable company on Friday following a record-setting rally in the stock, powered by insatiable demand for its specialized artificial intelligence chips.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/26/nation-world-news/nvidia-overtakes-apple-as-worlds-most-valuable-company/>
+
+---
+
+## King Charles and Queen Camilla leave Samoa’s Commonwealth summit
+
+date: 2024-10-26, from: Hawaii Tribune Harold
+
+
+				<p>APIA (Reuters) &#8212; Britain&#8217;s King Charles and Queen Camilla flew out of Samoa on Saturday, after a visit in which the monarch acknowledged the Commonwealth&#8217;s &#8220;painful&#8221; history, amid a push for former colonial powers to pay reparations for their role in transatlantic slavery. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/26/nation-world-news/king-charles-and-queen-camilla-leave-samoas-commonwealth-summit/>
+
+---
+
+## Phil Lesh, bassist who anchored the Grateful Dead, dies at 84
+
+date: 2024-10-26, from: Hawaii Tribune Harold
+
+
+				<p>Phil Lesh, whose expansive approach to the bass as a charter member of the Grateful Dead made him one of the first performers on that instrument in a rock band to play a lead role rather than a supporting one, died Friday. He was 84.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/26/nation-world-news/phil-lesh-bassist-who-anchored-the-grateful-dead-dies-at-84/>
+
+---
+
+## Seeking ‘warmth and personality’ in the world of high-priced pens
+
+date: 2024-10-26, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; When was the last time you wrote a letter to someone by hand? As we entrust our laptops and phones with more and more of our lives, the once-ubiquitous art of handwriting is seemingly in danger of going extinct. But at a London hotel on a recent Sunday morning, thousands of people turned up to demonstrate that the humble pen may be far from meeting the fate of the dinosaurs.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/26/features/seeking-warmth-and-personality-in-the-world-of-high-priced-pens/>
+
+---
+
+## How 7 friends testing a metal detector made Britain’s most valuable treasure find
+
+date: 2024-10-26, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; The group huddled together in the farmer&#8217;s field, staring at the dozen or so medieval silver coins. They had found one, then two, and a third &#8212; Adam Staples knew, then, this was something special.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/10/26/features/how-7-friends-testing-a-metal-detector-made-britains-most-valuable-treasure-find/>
+
+---
+
+## Residents urged to exercise caution as gusty winds, rain, and flooding persist
+
+date: 2024-10-26, updated: 2024-10-26, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/news/local/residents-urged-to-exercise-caution-as-gusty-winds-rain-and-flooding-persist/article_15c8cd90-9367-11ef-a450-5bcdbf916596.html>
+
+---
+
+## Israel strikes Iran military targets, blasts reported around Tehran
+
+date: 2024-10-26, updated: 2024-10-26, from: Marianas Variety
+
+DUBAI/JERUSALEM (Reuters) — Israel hit back at Iran early on Saturday, saying its military was conducting strikes against military targets, as Iranian media reported multiple explosions in the capital Tehran and at nearby bases. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/israel-strikes-iran-military-targets-blasts-reported-around-tehran/article_7b283a1a-933d-11ef-8139-0f67a70de3d8.html>
+
+---
+
+## Kaʻana Manaʻo: Meet UH Maui College’s new professor representing the UH Pamantasan Initiative
+
+date: 2024-10-26, from: University of Hawaiʻi News
+
+<p>Column by <abbr>UH</abbr> Maui College Chancellor Lui Hokoana was published by <em>The Maui News</em> on October 24, 2024.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/25/kaana-manao-meet-uh-pamantasan-initiative-professor/">Kaʻana Manaʻo: Meet <abbr>UH</abbr> Maui College’s new professor representing the <abbr>UH</abbr> Pamantasan Initiative</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/25/kaana-manao-meet-uh-pamantasan-initiative-professor/>
+
+---
+
+## UH Alumni: Lisa Strand, from volleyball star to entrepreneur
+
+date: 2024-10-26, from: University of Hawaiʻi News
+
+<p>Former <abbr>UH</abbr> Wahine volleyball player Lisa Strand now runs a successful small business.</p>
+The post <a href="https://www.hawaii.edu/news/2024/10/25/uh-alumni-lisa-strand/"><abbr>UH</abbr> Alumni: Lisa Strand, from volleyball star to entrepreneur</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/10/25/uh-alumni-lisa-strand/>
 

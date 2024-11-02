@@ -1,11 +1,79 @@
 ---
 title: home
-updated: 2024-11-01 10:26:13
+updated: 2024-11-02 08:50:57
 ---
 
 # home
 
-(date: 2024-11-01 10:26:13)
+(date: 2024-11-02 08:50:57)
+
+---
+
+## Remove Yellow Toilet Stains Without Destroying All Your Rags and Sponges
+
+date: 2024-11-01, from: Family Handyman Blog
+
+<p>One product you probably already have lying around the house will help you tackle tough toilet stains.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/magic-eraser-yellow-toilet-stains/">Remove Yellow Toilet Stains Without Destroying All Your Rags and Sponges</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/magic-eraser-yellow-toilet-stains/>
+
+---
+
+## Self-Driving Tesla Hits Deer Without Braking—Is Pedestrian Safety at Risk?
+
+date: 2024-11-01, from: Family Handyman Blog
+
+<p>Auto companies want a future full of self-driving cars... but is the technology safe enough?</p>
+<p>The post <a href="https://www.familyhandyman.com/article/tesla-self-driving-car-hits-deer/">Self-Driving Tesla Hits Deer Without Braking—Is Pedestrian Safety at Risk?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/tesla-self-driving-car-hits-deer/>
+
+---
+
+## Tushy Just Dropped a New Bidet, and It’s the Bathroom Upgrade You’ve Been Waiting For
+
+date: 2024-11-01, from: Family Handyman Blog
+
+<p>Tushy’s latest non-electric bidet seat dropped this week—and it’s the perfect early Christmas gift for yourself.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/tushy-wave/">Tushy Just Dropped a New Bidet, and It’s the Bathroom Upgrade You’ve Been Waiting For</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/tushy-wave/>
+
+---
+
+## If You Love Second Acts, Here’s a Dramatic Barn Reno in Tasmania for $822K
+
+date: 2024-11-01, from: Dwell
+
+Built in 1820, the converted stable pairs 19th-century patina with contemporary interventions—and it comes turnkey and completely furnished. 
+
+<br> 
+
+<https://www.dwell.com/article/renovated-1820s-barn-so-architecture-hobart-tasmania-real-estate-1348b8e0>
+
+---
+
+## Teddy Bear Insulation? Man Uncovers Unusual Wall Stuffing During Reno
+
+date: 2024-11-01, from: Family Handyman Blog
+
+<p>Stuffed animals as insulation?? Now we've really seen it all. But that's what a TikToker found while doing a renovation!</p>
+<p>The post <a href="https://www.familyhandyman.com/article/stuffed-animals-as-insulation/">Teddy Bear Insulation? Man Uncovers Unusual Wall Stuffing During Reno</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/stuffed-animals-as-insulation/>
 
 ---
 
@@ -62,6 +130,18 @@ The concrete, brick, and wood residence figures in a protected patio and a surpr
 
 ---
 
+## 6 Ways Your Phone Can Help You Pack Lighter on Your Next Trip
+
+date: 2024-11-01, from: Sunset Magazine - Living in the West
+
+Apple Wallet can help you travel lighter. You cans add your car key, credit card, boarding pass, driver's license, and more to your Wallet. 
+
+<br> 
+
+<https://www.sunset.com/travel/apple-wallet-tips>
+
+---
+
 ## African Violets Care and Growing Guide with Ultimate Tips
 
 date: 2024-11-01, from: Yard Life blog
@@ -74,6 +154,42 @@ date: 2024-11-01, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/african-violets-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## Would You Ever Stay in a Haunted Hotel? Why Some Properties are Embracing Their Ghostly Past
+
+date: 2024-11-01, from: Sunset Magazine - Living in the West
+
+Instead of hiding it, most hotels are embracing their haunted and eerie histories. See how hotels are getting in the Halloween spirit. 
+
+<br> 
+
+<https://www.sunset.com/travel/hotels/haunted-hotels-experiences>
+
+---
+
+## Convinced Your House Is Haunted? We Asked Actual Ghosthunters What to Do
+
+date: 2024-11-01, from: Sunset Magazine - Living in the West
+
+Think. youhouse is haunted? 
+
+<br> 
+
+<https://www.sunset.com/home-garden/what-to-do-if-house-is-haunted>
+
+---
+
+## This Trending Cooking Oil Is Made with Algae—and It Might Just Replace Your Olive Oil
+
+date: 2024-11-01, from: Sunset Magazine - Living in the West
+
+Chefs and home cooks are using sustainable and trendy algae oil, which has a high smoke point and a neutral flavor. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/algae-cooking-oil-trend>
 
 ---
 
@@ -178,18 +294,6 @@ With the final season of Yellowstone airing on November 10, Western wear experts
 
 ---
 
-## This Trending Cooking Oil Is Made with Algae—and It Might Just Replace Your Olive Oil
-
-date: 2024-10-31, from: Sunset Magazine - Living in the West
-
-Chefs and home cooks are using sustainable and trendy algae oil, which has a high smoke point and a neutral flavor. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/algae-cooking-oil-trend>
-
----
-
 ## Friday Links: November 1, 2024
 
 date: 2024-10-31, from: California Native Plants Society
@@ -201,18 +305,6 @@ date: 2024-10-31, from: California Native Plants Society
 <br> 
 
 <https://www.cnps.org/friday-links/friday-links-november-1-2024-41007>
-
----
-
-## 6 Ways Your Phone Can Help You Pack Lighter on Your Next Trip
-
-date: 2024-10-31, from: Sunset Magazine - Living in the West
-
-Apple Wallet can help you travel lighter. You cans add your car key, credit card, boarding pass, driver's license, and more to your Wallet. 
-
-<br> 
-
-<https://www.sunset.com/travel/apple-wallet-tips>
 
 ---
 
@@ -815,18 +907,6 @@ date: 2024-10-29, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/jeep-recall-battery-fire-risk/>
-
----
-
-## Convinced Your House Is Haunted? We Asked Actual Ghosthunters What to Do
-
-date: 2024-10-29, from: Sunset Magazine - Living in the West
-
-Think. youhouse is haunted? 
-
-<br> 
-
-<https://www.sunset.com/home-garden/what-to-do-if-house-is-haunted>
 
 ---
 
@@ -1440,4 +1520,153 @@ date: 2024-10-27, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/goldenrod-plant-care-and-growing-guide-most-detailed/>
+
+---
+
+## Foxtail Fern Care and Growing Guide with Top Tips
+
+date: 2024-10-26, from: Yard Life blog
+
+<p>The Foxtail Fern (Asparagus densiflorus) is a captivating, low-maintenance plant known for its fluffy, plume-like foliage. Despite its name, it&#x2019;s ... </p>
+<p class="read-more-container"><a title="Foxtail Fern Care and Growing Guide with Top Tips" class="read-more button" href="https://ownyardlife.com/foxtail-fern-care-and-growing-guide-with-top-tips/#more-21284" aria-label="Read more about Foxtail Fern Care and Growing Guide with Top Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/foxtail-fern-care-and-growing-guide-with-top-tips/">Foxtail Fern Care and Growing Guide with Top Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/foxtail-fern-care-and-growing-guide-with-top-tips/>
+
+---
+
+## Edelweiss Flower Care and Growing Guide with Ultimate Tips
+
+date: 2024-10-26, from: Yard Life blog
+
+<p>The Edelweiss flower (Leontopodium alpinum) is a legendary symbol of alpine beauty and resilience, recognized for its woolly, lance-shaped leaves ... </p>
+<p class="read-more-container"><a title="Edelweiss Flower Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/edelweiss-flower-care-and-growing-guide-with-ultimate-tips/#more-21274" aria-label="Read more about Edelweiss Flower Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/edelweiss-flower-care-and-growing-guide-with-ultimate-tips/">Edelweiss Flower Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/edelweiss-flower-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## Triple Crown Blackberry Care and Growing Guide (Most Detailed)
+
+date: 2024-10-26, from: Yard Life blog
+
+<p>The Triple Crown Blackberry is a gardener&#x2019;s favorite for its high-yielding and easy-to-grow characteristics. Known for its thornless canes, sweet ... </p>
+<p class="read-more-container"><a title="Triple Crown Blackberry Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/triple-crown-blackberry-care-and-growing-guide-most-detailed/#more-21264" aria-label="Read more about Triple Crown Blackberry Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/triple-crown-blackberry-care-and-growing-guide-most-detailed/">Triple Crown Blackberry Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/triple-crown-blackberry-care-and-growing-guide-most-detailed/>
+
+---
+
+## Modern Furniture Materials and Open Floor Plans Are Making House Fires Worse
+
+date: 2024-10-26, from: Family Handyman Blog
+
+<p>From drapes to couch cushions, synthetic materials are fueling hotter fires that burn much faster. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/fire-safety-furniture-synthetic-materials/">Modern Furniture Materials and Open Floor Plans Are Making House Fires Worse</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/fire-safety-furniture-synthetic-materials/>
+
+---
+
+## Prickly Pear Cactus Care and Growing Guide with Top Tips
+
+date: 2024-10-26, from: Yard Life blog
+
+<p>The Prickly Pear Cactus (Opuntia humifusa), also known as the Eastern prickly pear or Devil&#x2019;s tongue, brings the allure of ... </p>
+<p class="read-more-container"><a title="Prickly Pear Cactus Care and Growing Guide with Top Tips" class="read-more button" href="https://ownyardlife.com/prickly-pear-cactus-care-and-growing-guide-with-top-tips/#more-21257" aria-label="Read more about Prickly Pear Cactus Care and Growing Guide with Top Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/prickly-pear-cactus-care-and-growing-guide-with-top-tips/">Prickly Pear Cactus Care and Growing Guide with Top Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/prickly-pear-cactus-care-and-growing-guide-with-top-tips/>
+
+---
+
+## Dracaena Marginata Care and Growing Guide with Ultimate Tips
+
+date: 2024-10-26, from: Yard Life blog
+
+<p>Dracaena marginata, commonly known as the Dragon Tree, is an elegant and resilient indoor plant that has captivated the hearts ... </p>
+<p class="read-more-container"><a title="Dracaena Marginata Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/dracaena-marginata-care-and-growing-guide-with-ultimate-tips/#more-21250" aria-label="Read more about Dracaena Marginata Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/dracaena-marginata-care-and-growing-guide-with-ultimate-tips/">Dracaena Marginata Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/dracaena-marginata-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## Dipladenia Care and Growing Guide with Ultimate Tips
+
+date: 2024-10-26, from: Yard Life blog
+
+<p>If you&#x2019;re looking to add a touch of vibrant color to your garden or patio, the Dipladenia plant (often referred ... </p>
+<p class="read-more-container"><a title="Dipladenia Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/dipladenia-care-and-growing-guide-with-ultimate-tips/#more-21243" aria-label="Read more about Dipladenia Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/dipladenia-care-and-growing-guide-with-ultimate-tips/">Dipladenia Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/dipladenia-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## Pink Princess Philodendron Care and Growing Guide with Top Tips
+
+date: 2024-10-26, from: Yard Life blog
+
+<p>The Pink Princess Philodendron (Philodendron erubescens &#x2018;Pink Princess&#x2019;) has taken the plant world by storm, becoming a prized possession for ... </p>
+<p class="read-more-container"><a title="Pink Princess Philodendron Care and Growing Guide with Top Tips" class="read-more button" href="https://ownyardlife.com/pink-princess-philodendron-care-and-growing-guide-with-top-tips/#more-21236" aria-label="Read more about Pink Princess Philodendron Care and Growing Guide with Top Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/pink-princess-philodendron-care-and-growing-guide-with-top-tips/">Pink Princess Philodendron Care and Growing Guide with Top Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/pink-princess-philodendron-care-and-growing-guide-with-top-tips/>
+
+---
+
+## Black Dahlia Flower Care and Growing Guide with Ultimate Tips
+
+date: 2024-10-26, from: Yard Life blog
+
+<p>Black Dahlia flowers, with their deep, intense colors ranging from maroon to almost black, bring a touch of mystery and ... </p>
+<p class="read-more-container"><a title="Black Dahlia Flower Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/black-dahlia-flower-care-and-growing-guide-with-ultimate-tips/#more-21229" aria-label="Read more about Black Dahlia Flower Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/black-dahlia-flower-care-and-growing-guide-with-ultimate-tips/">Black Dahlia Flower Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/black-dahlia-flower-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## What Do Crickets Eat? A Complete Guide to Their Natural Diet
+
+date: 2024-10-26, from: Yard Life blog
+
+<p>Crickets are fascinating creatures known for their adaptability and diverse diet. Understanding What Do Crickets Eat can help ensure that ... </p>
+<p class="read-more-container"><a title="What Do Crickets Eat? A Complete Guide to Their Natural Diet" class="read-more button" href="https://ownyardlife.com/what-do-crickets-eat-a-complete-guide-to-their-natural-diet/#more-21220" aria-label="Read more about What Do Crickets Eat? A Complete Guide to Their Natural Diet">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/what-do-crickets-eat-a-complete-guide-to-their-natural-diet/">What Do Crickets Eat? A Complete Guide to Their Natural Diet</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/what-do-crickets-eat-a-complete-guide-to-their-natural-diet/>
 

@@ -1,11 +1,160 @@
 ---
 title: columns
-updated: 2024-11-01 10:26:12
+updated: 2024-11-02 08:50:56
 ---
 
 # columns
 
-(date: 2024-11-01 10:26:12)
+(date: 2024-11-02 08:50:56)
+
+---
+
+## Is This Trump’s Worst Idea Ever?
+
+date: 2024-11-01, from: Dan Rather's Steady
+
+We know, it&#8217;s a long list 
+
+<br> 
+
+<https://steady.substack.com/p/is-this-trumps-worst-idea-ever>
+
+---
+
+## Fantastical for Windows — A Glass of Ice Water for Calendar Users in Hell
+
+date: 2024-11-01, updated: 2024-11-01, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://flexibits.com/blog/2024/10/fantastical-for-windows-is-finally-here/>
+
+---
+
+## I Voted!
+
+date: 2024-11-01, from: Om Malik blog
+
+Democracy isn’t just a bunch of abstract principles and dusty laws in some book somewhere. It’s the values we live by. It’s the way we treat each other, including those who don’t look like us or pray like us or see the world exactly like we do.  President Barack Obama. 
+
+<br> 
+
+<https://om.co/2024/11/01/i-voted/>
+
+---
+
+## Why Musk predicts Lina Khan will be “fired soon” 
+
+date: 2024-11-01, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/why-musk-predicts-lina-kahn-will>
+
+---
+
+## Recommended things in my home that are total game changers
+
+date: 2024-11-01, from: Matt Haughey blog
+
+<p>The other day I tried to convince a friend to buy something I loved when I realized I should probably roll up that mini-review with other things in my house I&apos;ve recommended to others over the years and make it into a post. </p><p>All these things punch way</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/recommended-things-in-my-home-that-are-total-game-changers/>
+
+---
+
+## Friday Squid Blogging: Squid Sculpture in Massachusetts Building
+
+date: 2024-11-01, updated: 2024-11-01, from: Bruce Schneier blog
+
+<p>Great blow-up <a href="https://www.newburyportnews.com/multimedia/photos/giant-squid-attacks-port-dental-office/image_954e78c8-97b6-11ef-8250-7b6de72ce320.html">sculpture</a>.</p>
+<p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/11/friday-squid-blogging-squid-sculpture-in-massachusetts-building.html>
+
+---
+
+##  Type Revival for Film & TV. &#8220;Type revival involves recreating period lettering... 
+
+date: 2024-11-01, updated: 2024-11-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045571-type-revival-for-film>
+
+---
+
+##  Letter of Recommendation: DRM-free Audiobooks From Libro.fm 
+
+date: 2024-11-01, updated: 2024-11-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/letter-of-recommendation-drm-free-audiobooks-from-librofm>
+
+---
+
+## October 31, 2024
+
+date: 2024-11-01, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/151039837/d7c4e73335ab44a6ea4044b2955b9e15.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/151039837/d7c4e73335ab44a6ea4044b2955b9e15.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/october-31-2024-1e8>
+
+---
+
+##  Iceland embraced a shorter work week. Here&#8217;s how it turned out. &#8220;Iceland&#8217;s... 
+
+date: 2024-11-01, updated: 2024-11-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045537-iceland-embraced-a-shorte>
+
+---
+
+##  No Fate But What We Make 
+
+date: 2024-11-01, updated: 2024-11-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/no-fate-but-what-we-make>
+
+---
+
+## GCC 15 to keep Itanium support for now, after all
+
+date: 2024-11-01, updated: 2024-11-01, from: Liam Proven's articles at the Register
+
+<h4>Now, can someone come up with an emulator for the things, please?</h4>
+      <p>Good news, everyone – well, everyone who&#39;s still onboard the Itanic, anyway. GCC 15 will de-deprecate Linux support for Intel&#39;s original 64-bit chip.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/11/01/gcc_15_keep_itanium_support/>
 
 ---
 
@@ -93,7 +242,7 @@ Meanwhile, it's amazing that both CNN and MSNBC have gotten serious about coveri
 
 **@Dave Winer's Scripting News** (date: 2024-11-01, from: Dave Winer's Scripting News)
 
-Unfortunately the only place you can read this <a href="https://www.facebook.com/dan.conover.714/posts/pfbid0VqEwJyLQQ7Qyhu9Zoz6ivz35APRfvLMKp7wBZvR2pDRTVdLwf1QR8Xh646faRJ1Zl">Dan Conover piece</a> is on Facebook about the failure of the NY Times and Washington Post to adequately defend democracy. He says something I had not seen elsewhere. "We're not talking about HuffPo or Salon here. We're talking about the last two 'unique nationals' standing in American print journalism. Instiututions with long and storied histories. Both took the same test at the same time, and both failed it." I'd add that all other journalism usually follows their lead, but that may be finally changing. 
+Unfortunately the only place you can read this <a href="https://www.facebook.com/dan.conover.714/posts/pfbid0VqEwJyLQQ7Qyhu9Zoz6ivz35APRfvLMKp7wBZvR2pDRTVdLwf1QR8Xh646faRJ1Zl">Dan Conover piece</a> is on Facebook about the failure of the NY Times and Washington Post to adequately defend democracy. He says something I had not seen elsewhere. "We're not talking about HuffPo or Salon here. We're talking about the last two 'unique nationals' standing in American print journalism. Institutions with long and storied histories. Both took the same test at the same time, and both failed it." I'd add that all other journalism usually follows their lead, but that may be finally changing. 
 
 <br> 
 
@@ -4287,4 +4436,223 @@ date: 2024-10-27, updated: 2024-10-27, from: Alex Russel's blog
 <br> 
 
 <https://infrequently.org/2024/10/platforms-are-competitions/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-10-26, from: Miguel de Icaza Mastondon feed)
+
+<p>Every day, I have to resist the urge of &quot;Let me just rewrite this additional piece of UI in Godot in SwiftUI&#39;.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113375746202097034>
+
+---
+
+## Jury Finds Masimo Smartwatches Infringed Apple Patents, Awards Apple Just Enough to Buy One Apple Watch SE
+
+date: 2024-10-26, updated: 2024-10-27, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.reuters.com/legal/masimo-smartwatches-infringe-apple-patents-us-jury-says-2024-10-25/>
+
+---
+
+## You can't hurt Bezos
+
+date: 2024-10-26, from: Dave Winer's Scripting News
+
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/10/26/loganRoySmall.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">It probably does no good to cancel your Washington Post subscription. It's hard to imagine Bezos would lose any money from a complete <a href="https://www.investopedia.com/ask/answers/070715/what-difference-between-writeoff-and-writedown.asp#:~:text=A%20write%2Ddown%20is%20a,removed%20from%20the%20books%20altogether.">writedown</a>. Any loss would offset gains he would receive from selling a tiny bit of Amazon stock, it would wash out on his balance sheet.</p>
+<p>You can't hurt him with money. In fact I'm pretty sure we can't hurt him in any way. So why not keep the reporters employed, for once the seem to be doing the right thing and keeping us in the loop on why they're doing the awful thing they're doing. Usually we're kept in the dark. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2024/10/26/202058.html?title=youCantHurtBezos>
+
+---
+
+## 2024-10-24 Executing commands via NNCP
+
+date: 2024-10-26, from: Alex Schroeder's Blog
+
+<h1 id="2024-10-24-executing-commands-via-nncp">2024-10-24 Executing commands via NNCP</h1>
+
+<p>In a network of connected nodes where you all exchanged public keys, it is possible to do file requests. For this to work, the node with the files needs to specify the directory with the files and the node wanting the files needs to use the <code>nncp-freq</code> command to do a file request.</p>
+
+<p>But what file to request? One solution is for one side to create a file listing all the other files and make this filename known to friends. Then run a job to recreate the file on a regular basis.</p>
+
+<p>But you know me. It sounds like CO₂ for the CO₂ god.</p>
+
+<p>So here&rsquo;s the node that has the files, granting its neighbour melanobombus access to the files in <code>/home/alex/alexschroeder.ch/wiki</code> and offering to execute <code>ls -BR</code> for that directory and sending it back as a file called <code>files.txt</code>.</p>
+
+<pre><code>    melanobomus: {
+      exec: {
+        rsmtp:  [&quot;/usr/sbin/sendmail&quot;, &quot;-bS&quot;]
+        ls: [&quot;/bin/sh&quot;, &quot;-c&quot;, &quot;ls --ignore-backups --recursive /home/alex/alexschroeder.ch/wiki | nncp-file - $NNCP_SENDER:files.txt&quot;]
+      }
+      freq: {
+        path: &quot;/home/alex/alexschroeder.ch/wiki&quot;
+      }
+      …
+    }
+</code></pre>
+
+<p><a class="tag" href="/search/?q=%23NNCP">#NNCP</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2024-10-24-nncp-exec>
+
+---
+
+## AlmaLinux shows off its new Kitten
+
+date: 2024-10-26, updated: 2024-10-26, from: Liam Proven's articles at the Register
+
+<h4>Also there&#39;s a beta of 9.5 – which is more than there is of RHEL</h4>
+      <p>The AlmaLinux team unveiled a new distribution, but don&#39;t get too excited. It&#39;s not meant to be a new flavor or intended for production use.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/10/26/almalinux_kitten/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-26, from: Dave Winer's Scripting News)
+
+So when the Dodger hit the <a href="https://www.mlb.com/dodgers/video/freddie-freeman-hits-a-grand-slam-1-to-right-field-chris-taylor-scores-to">walk-off grand slam</a> last night, half of me was ecstatic because the Yankees were beaten, but oops, but I hate it even more that the freaking Dodgers won. This World Series is unique in that I desperately want both teams to lose. What do you do with that?? 
+
+<br> 
+
+<http://scripting.com/2024/10/26.html#a150700>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-26, from: Dave Winer's Scripting News)
+
+BTW if you're thinking why don't we just go for the Nets. As I've said here many times, there aren't actually any Nets fans to speak of in NY. That was the huge self-parody <a href="https://www.barstoolsports.com/blog/1365086/kevin-durants-reasoning-for-choosing-the-nets-is-the-biggest-crock-of-shit-youve-ever-heard">Kevin Durant</a> did when he claimed there was some kind of rivalry between the Nets and the Knicks. Really unfortunate unforced error he could have just asked a few people where are all the Nets fans. 
+
+<br> 
+
+<http://scripting.com/2024/10/26.html#a150315>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-26, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2017/12/10/thisIsNextYear.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Lots of Yankees fans at the Garden yesterday to see the great Knicks team of last year show up for the first time. The game in Boston on Tuesday was disheartening. It's a new team with the core of last year's team. And when the fans started roaring when there was nothing happening on the court, last night at the (NY) Garden, it was because the Yankees had scored in the World Series game <a href="https://www.google.com/maps/dir/Madison+Square+Garden,+New+York,+NY+10001/Dodger+Stadium,+1000+Vin+Scully+Ave,+Los+Angeles,+CA+90012/@35.9504718,-117.3686049,9288091m/data=!3m2!1e3!4b1!4m16!4m15!1m5!1m1!1s0x89c25a21fb011c85:0x33df10e49762f8e4!2m2!1d-73.9934387!2d40.7505045!1m5!1m1!1s0x80c2c6f954005675:0x9e94554f839c09df!2m2!1d-118.2399583!2d34.073851!2m1!2b1!3e0?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D">2794</a> miles away in Los Angeles. This is the <i>inconvenience</i> of being a Knicks fan who hates the freaking Yankees. We have to share an NBA team. The Knicks are much more like the Mets than that other team. That's why it's so incredible to see the 2024 Knicks be able to manage both ends of the court, and completely shut down a team that last year beat them in playoffs, the Pacers, just like last year, but better. A validation of everything. Now the team has to stay healthy. But, even if they don't fly the Nazi flag at Trump's rally tomorrow, you know that they want to, and some of them probably brought them. It's a funny time for the Garden. The owner of the Garden btw is <a href="https://en.wikipedia.org/wiki/James_L._Dolan">James Dolan</a>. We try to overlook that he owns the Knicks and he seems to be cooperating by staying out of the our faces. But he is known as a <a href="https://jipel.law.nyu.edu/the-power-of-exclusion-madison-square-garden-uses-facial-recognition-technology-to-ban-the-owners-enemies/">vile man</a> to the people of New York. 
+
+<br> 
+
+<http://scripting.com/2024/10/26.html#a145243>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-26, from: Dave Winer's Scripting News)
+
+Will there be Nazi flags at Trump's <a href="https://apnews.com/article/trump-madison-square-garden-political-events-04c6f2d4e090c94cfdb1e949db82c532">Madison Square Garden</a> rally? 
+
+<br> 
+
+<http://scripting.com/2024/10/26.html#a144837>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-10-26, from: Dave Winer's Scripting News)
+
+I bet Bezos wishes he owned Twitter instead of Musk. 
+
+<br> 
+
+<http://scripting.com/2024/10/26.html#a144810>
+
+---
+
+## JetKVM: tiny IP KVM that's not an Apple Watch
+
+date: 2024-10-26, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">JetKVM: tiny IP KVM that's not an Apple Watch</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/jetkvm-running.jpeg" alt="JetKVM running"></p>
+
+<p>Despite what it looks like, this <em>isn't</em> a hot-rod Apple Watch. This is an IP KVM. What does that mean? It's basically a remote control rocket pack for any computer, from a giant tower PC, to a little mini PC you might run in your homelab.</p>
+
+<p>It's called <a href="https://jetkvm.com">JetKVM</a>, and the team behind it sent me two to test out.</p>
+
+<blockquote>
+  <p><strong>BIG SCARY DISCLAIMER</strong>: The JetKVM is <a href="https://www.kickstarter.com/projects/jetkvm/jetkvm">currently on Kickstarter</a>. If you decide to back it, and they don't deliver, that's... actually pretty common. I <em>did</em> back their Kickstarter, and I <em>think</em> they'll deliver, but there are no guarantees.</p>
+  
+  <p>BuildJet did <em>not</em> pay for this post, and I am <em>not</em> sharing in any profit, or even using an affiliate link. I just saw this tiny KVM come across my feed, thought it looked amazing, and asked if I could test it out.</p></blockquote></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-10-26T09:09:53-05:00" title="Saturday, October 26, 2024 - 09:09" class="datetime">October 26, 2024</time>
+</span> 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2024/jetkvm-tiny-ip-kvm-thats-not-apple-watch>
+
+---
+
+## October 25, 2024 
+
+date: 2024-10-26, from: Heather Cox Richardson blog
+
+A bombshell story last night from the Wall Street Journal reported that billionaire Elon Musk, one of the richest men in the world, who is backing the election of Republican presidential candidate Donald Trump with a daily million-dollar sweepstakes giveaway and gifts of tens of millions to the campaign, has been in regular contact with Russian president Vladimir Putin since late 2022. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/october-25-2024>
+
+---
+
+## How to survive the next 9 days? The Saturday Coffee Klatch | October 26, 2024
+
+date: 2024-10-26, from: Robert Reich's blog
+
+With Heather Lofthouse and Yours Truly, Robert Reich 
+
+<br> 
+
+<https://robertreich.substack.com/p/how-to-survive-the-next-9-days-the>
+
+---
+
+## Weeknotes: Oct. 19-25, 2024
+
+date: 2024-10-26, from: Tracy Durnell Blog
+
+Win of the week: voted!!! Looking forward to: getting all the reservations made for my trip Stuff I did: 8.75 hours consulting 1.75 hours writing DH brought me my favorite sandwich and a big snickerdoodle for lunch on my birthday &#8211; now in the final year of my thirties! trip planning, trip planning, trip planning! Our [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2024/10/26/weeknotes-oct-19-25-2024/>
+
+---
+
+## ★ Vision Pro Bites Dog
+
+date: 2024-10-26, updated: 2024-10-26, from: Daring Fireball
+
+It’s almost as though — hear me out — Apple launched Vision Pro in 2023 for long-term strategic reasons, not with short-term sales in mind. 
+
+<br> 
+
+<https://daringfireball.net/2024/10/vision_pro_bites_dog>
+
+---
+
+## Election Countdown, 11 Days to Go: Reasons to be Brave.
+
+date: 2024-10-26, from: James Fallows, Substack
+
+&#8216;Clear eyes. Full heart. Can't lose.&#8217; 
+
+<br> 
+
+<https://fallows.substack.com/p/election-countdown-11-days-to-go>
 

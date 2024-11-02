@@ -1,11 +1,143 @@
 ---
 title: science and technology
-updated: 2024-11-01 10:26:12
+updated: 2024-11-02 08:50:56
 ---
 
 # science and technology
 
-(date: 2024-11-01 10:26:12)
+(date: 2024-11-02 08:50:56)
+
+---
+
+## See Picasso's Lesser-Known Print Works, Which He Continued Experimenting With Into His 80s
+
+date: 2024-11-01, from: Smithsonian Magazine
+
+A new exhibition spotlights the Spanish artist's printmaking talents, which he began honing in his 20s. In the decades that followed, he produced thousands of breathtaking creations 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/see-picassos-lesser-known-print-works-which-he-continued-experimenting-with-into-his-80s-180985323/>
+
+---
+
+## NASA Awards Contract for Refuse and Recycling Services
+
+date: 2024-11-01, from: NASA breaking news
+
+NASA has awarded the Custodial and Refuse/Recycle Services contract to Ahtna Integrated Services LLC  of Anchorage, Alaska, to provide trash, waste, and recycling services at the agency’s Ames Research Center in California’s Silicon Valley. This is a hybrid contract that includes a firm-fixed-price and an indefinite-delivery/indefinite-quantity portion. The period of performance begins Friday, Nov. 1, with [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/nasa-awards-contract-for-refuse-and-recycling-services/>
+
+---
+
+## Archaeologists Stumble Upon 900-Year-Old Door Guardian Statues in Cambodia
+
+date: 2024-11-01, from: Smithsonian Magazine
+
+The team was analyzing the structure of a royal palace’s gate when they discovered 12 statues made out of sandstone 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/archaeologists-stumble-upon-900-year-old-door-guardian-statues-in-cambodia-180985378/>
+
+---
+
+## Fujitsu, AMD lay groundwork to pair Monaka CPUs with Instinct GPUs
+
+date: 2024-11-01, updated: 2024-11-01, from: The Register (UK I.T. News)
+
+<h4>Before you get too excited, Fujitsu&#39;s next-gen chips won&#39;t ship till 2027</h4> <p>Fujitsu and AMD announced plans on Friday to develop a new, more energy-efficient AI and HPC compute platform that will pair the Japanese tech vendor&#39;s next-gen CPUs with the House of Zen&#39;s Instinct accelerators.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/01/amd_fujitsu_monaka_instinct/>
+
+---
+
+## NASA’s New Edition of Graphic Novel Features Europa Clipper
+
+date: 2024-11-01, from: NASA breaking news
+
+NASA has released a new edition of Issue 4 of the Astrobiology Graphic History series. The issue now includes NASA’s Europa Clipper mission. 
+
+<br> 
+
+<https://science.nasa.gov/science-research/planetary-science/astrobiology/nasas-new-edition-of-graphic-novel-features-europa-clipper/>
+
+---
+
+## From Mars Rovers to Factory Assembly Lines
+
+date: 2024-11-01, from: NASA breaking news
+
+NASA-funded AI technology enabling autonomous rovers and drones now keeps an eye on conveyor belts 
+
+<br> 
+
+<https://www.nasa.gov/technology/tech-transfer-spinoffs/from-mars-rovers-to-factory-assembly-lines/>
+
+---
+
+## Jill Biden Unveils a Reimagined White House Tour, Which Invites Visitors to 'Touch, Hear and See' History
+
+date: 2024-11-01, from: Smithsonian Magazine
+
+The public tours of the historic residence hadn't been overhauled in decades. For two years, the first lady's office has been working to make them more interactive and educational 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/jill-biden-unveils-a-reimagined-white-house-tour-which-invites-visitors-to-touch-hear-and-see-history-180985375/>
+
+---
+
+## A Simple Chemical Shift Explains Why Parrots Are So Colorful, Study Suggests
+
+date: 2024-11-01, from: Smithsonian Magazine
+
+Unlike other birds, which get pigments from their diets, parrots produce their own—but scientists never fully understood the underlying mechanisms, until now 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-simple-chemical-shift-explains-why-parrots-are-so-colorful-study-suggests-180985380/>
+
+---
+
+## Microsoft tries out wooden bit barns to cut construction emissions
+
+date: 2024-11-01, updated: 2024-11-01, from: The Register (UK I.T. News)
+
+<h4>The two hybrid datacenters promise 35% less embodied carbon than steel builds, 65% less than concrete</h4> <p>Microsoft is experimenting with datacenters made out of wood in a bid to cut the growing greenhouse gas (GHG) emissions that result from constructing its expanding network of bit barns.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/01/microsoft_wooden_datacenters/>
+
+---
+
+## 30 Years On, NASA’s Wind Is a Windfall for Studying our Neighborhood in Space
+
+date: 2024-11-01, from: NASA breaking news
+
+Picture it: 1994. The first World Wide Web conference took place in Geneva, the first Chunnel train traveled under the English Channel, and just three years after the end of the Cold War, the first Russian instrument on a U.S. spacecraft launched into deep space from Cape Canaveral. The mission to study the solar wind, […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/heliophysics/30-years-on-nasas-wind-is-a-windfall-for-studying-our-neighborhood-in-space/>
+
+---
+
+## Station Nation: Meet Carlos Fontanot, the Imagery Manager Leaving a Legacy of Visual Storytelling
+
+date: 2024-11-01, from: NASA breaking news
+
+Born and raised in Mexico City, Carlos Fontanot has dedicated 34 years to NASA. He supports the International Space Station Mission Integration and Operations Office, ensuring that high-quality imagery enhances mission objectives and operations.   Fontanot is known for conceiving and leading the High Definition Earth Viewing (HDEV) project, which has brought stunning live visuals of [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/station-nation-meet-carlos-fontanot-the-imagery-manager-leaving-a-legacy-of-visual-storytelling/>
 
 ---
 
@@ -323,7 +455,7 @@ date: 2024-10-31, updated: 2024-11-01, from: The Register (UK I.T. News)
 
 ## Dropbox to shed another 500 staff, CEO takes 'full responsibility'
 
-date: 2024-10-31, updated: 2024-10-31, from: The Register (UK I.T. News)
+date: 2024-10-31, updated: 2024-11-01, from: The Register (UK I.T. News)
 
 <h4>Cloudy concern has also spent over $500M buying back its own shares amid multiple rounds of layoffs</h4> <p>Cloudy file-shifter Dropbox has axed about 20 percent of its staff, its second round of layoffs in less than two years.…</p> 
 
@@ -2107,4 +2239,40 @@ date: 2024-10-27, updated: 2024-10-27, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2024/10/27/abolish_daylight_saving_time/>
+
+---
+
+## AlmaLinux shows off its new Kitten
+
+date: 2024-10-26, updated: 2024-10-26, from: The Register (UK I.T. News)
+
+<h4>Also there&#39;s a beta of 9.5 – which is more than there is of RHEL</h4> <p>The AlmaLinux team unveiled a new distribution, but don&#39;t get too excited. It&#39;s not meant to be a new flavor or intended for production use.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/26/almalinux_kitten/>
+
+---
+
+## Worker surveillance must comply with credit reporting rules
+
+date: 2024-10-26, updated: 2024-10-26, from: The Register (UK I.T. News)
+
+<h4>US Consumer Financial Protection Bureau demands transparency, accountability from sellers of employee metrics</h4> <p>The US Consumer Financial Protection Bureau on Thursday published guidance advising businesses that third-party reports about workers must comply with the consent and transparency requirements set forth in the Fair Credit Reporting Act.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/26/worker_surveillance_credit_reporting_privacy_requirement/>
+
+---
+
+## Biz Daemon is too cool to respond to fans of his big screen work
+
+date: 2024-10-26, updated: 2024-10-26, from: The Register (UK I.T. News)
+
+<h4>If only all Android apps were so effortlessly stylish</h4> <p><strong>BORK!BORK!BORK!</strong>  As large and cheap LCD displays become ever more common, techies on the move can see there is no rest for the IoT signage silage – but this does not seem to be the case if your name is Mr Biz Daemon.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/10/26/biz_daemon_app_error/>
 

@@ -1,11 +1,759 @@
 ---
 title: north america
-updated: 2024-11-01 10:26:11
+updated: 2024-11-02 08:50:55
 ---
 
 # north america
 
-(date: 2024-11-01 10:26:11)
+(date: 2024-11-02 08:50:55)
+
+---
+
+## Big Tech trust-busting
+
+date: 2024-11-01, from: Market Place
+
+<p>The federal government is seeking a legal remedy for Google&#8217;s monopoly on internet search, as adjudicated by a federal judge. That remedy could include a breakup of its parent company, Alphabet. But when similar accusations were leveled against Microsoft a couple of decades ago, the software titan emerged from its trial intact. Also in this episode, Shohei Ohtani is a star in the baseball card market and California&#8217;s battle with planet-clogging plastic bags enters a new phase.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/11/01/pm_20241101_Marketplace_-_PM_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace/big-tech-trust-busting&awCollectionId=mkp-MKP-PM&awGenre=%5B"Talk","News","Business"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace"></source>
+</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/11/01/pm_20241101_Marketplace_-_PM_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace/big-tech-trust-busting&awCollectionId=mkp-MKP-PM&awGenre=%5B\"Talk\",\"News\",\"Business\"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/marketplace" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace/big-tech-trust-busting>
+
+---
+
+## Pentagon sends bomber aircraft, warships to Middle East
+
+date: 2024-11-01, from: VOA News USA
+
+washington — Defense Secretary Lloyd Austin is sending additional bomber aircraft and Navy warships to the Middle East to bolster the U.S. presence in the region as an aircraft carrier and its warships are preparing to leave, U.S. officials said Friday. 
+
+
+Austin ordered several B-52 Stratofortress bomber aircraft, tanker aircraft and Navy destroyers to deploy to the Middle East, according to four U.S. and military officials who spoke on the condition of anonymity to discuss troop movements. 
+
+
+
+
+The military moves come as Israel's wars with Hamas in Gaza and Hezbollah in Lebanon rage, including a retaliatory strike on Iran a week ago that likely damaged a base that builds ballistic missiles and launches rockets as part of Tehran's space program. 
+
+
+The U.S. is pressing for cease-fires, while repeatedly saying it will defend Israel and continue to protect the American and allied presence in the region, including from Yemen-based Houthi attacks against ships in the Red Sea. 
+
+
+The long-range nuclear-capable B-52 bomber has been repeatedly deployed to the Middle East in pointed warnings to Iran and it is the second time this month that strategic U.S. bombers will be used to bolster U.S. defenses in the region. 
+
+
+In October, B-2 stealth bombers were used to strike underground Houthi targets in Yemen. 
+
+
+Officials did not provide the number of aircraft and ships that will move into the region. The shifts are likely to result in an overall decrease in the total number of U.S. service members in the region, largely because an aircraft carrier contains as many as 5,000 sailors. 
+
+
+But the addition of bomber aircraft beefs up U.S. combat strength. There have been as many as 43,000 U.S. forces in the region recently. 
+
+
+According to a U.S. official, the USS Abraham Lincoln aircraft carrier and the three Navy destroyers in its strike group are scheduled to leave the Middle East by midmonth and return to their home port in San Diego. 
+
+
+When it departs, there will be no aircraft carrier in the Middle East for a period of time, the official said. Officials declined to say how long that gap would last. 
+
+
+Military commanders have long argued that the presence of an aircraft carrier strike group, with its array of fighter jets, surveillance aircraft and heavily armed warships, is a significant deterrent, including against Iran. 
+
+
+To make up for that gap, Austin is ordering the deployment of other Navy destroyers to the region. Those destroyers, which are capable of shooting down ballistic missiles, would come either from the Indo-Pacific region or Europe, the official said. 
+
+
+Eventually, it is expected that the USS Harry S. Truman aircraft carrier and its three warships will move to the Mediterranean Sea, but they won't get there before the Lincoln departs. The Truman strike group has been in the North Sea, participating in a NATO military exercise. 
+
+
+The Lincoln and two of its destroyers are now in the Gulf of Oman, and its third destroyer is with two other warships in the Red Sea. 
+
+
+There are also two destroyers and the Marine amphibious ready group — which includes three ships — in the Mediterranean Sea. 
+
+<br> 
+
+<https://www.voanews.com/a/pentagon-sends-bomber-aircraft-warships-to-middle-east/7848373.html>
+
+---
+
+## New York subway chokehold death trial begins
+
+date: 2024-11-01, from: VOA News USA
+
+A New York prosecutor told jurors on Friday that the way veteran Daniel Penny defused an uncomfortable situation on the subway by using a chokehold "went way too far."
+
+
+Prosecutor Dafna Yoran said Penny, a white Marine veteran, continued to hold his arm around the neck of Jordan Neely, a homeless Black man who had been acting erratically, after Neely's body went limp.
+
+
+When the train stopped at a station, one rider told Penny, "If you don't let him go now, you're going to kill him," Yoran told the jury in her opening statement Friday. Penny has been charged with manslaughter and criminally negligent homicide. He has pleaded not guilty, saying he was acting in self-defense.
+
+
+"Deadly physical force is permitted only when it's absolutely necessary and only for as long as it's absolutely necessary," Yoran said. Penny "went quite literally for the jugular," she added.
+
+
+The deadly encounter happened more than one year ago and received wide news coverage at the time, with some people casting Penny as a hero and others casting Neely as a victim of a vigilante.
+
+
+Neely, whom Yoran said was homeless and suffering with mental illness, entered the subway train on May 1, 2023, threw his coat to the ground and told the riders he was hungry, thirsty and wanted to return to jail. His erratic behavior is something that New Yorkers can witness daily.
+
+
+"His voice was loud and his words were threatening," Yoran said, but Neely was also unarmed and did not physically threaten any of the riders.
+
+
+Thirty seconds after Neely entered the train, the prosecutor said, Penny placed Neely in a chokehold. Yoran said Penny held Neely in the chokehold for about six minutes.
+
+
+
+
+Video of the incident, Yoran said, would show "how unnecessary this deadly chokehold was." There is cellphone video of the incident, recorded from the subway platform.
+
+
+The prosecutor also said that Penny, who has first aid training, did not try to revive Neeley.
+
+
+Penny later told police, "I put him out" and said that he was trying to "de-escalate" the scene on the subway.
+
+
+According to The Associated Press, Neeley was a Michael Jackson impersonator who sometimes performed his act for subway riders. His mental illness and drug abuse, AP said, was likely triggered by his mother's murder when he was a teenager.
+
+
+Some information for this story was provided by The Associated Press and Reuters. 
+
+<br> 
+
+<https://www.voanews.com/a/new-york-subway-chokehold-death-trial-begins/7848310.html>
+
+---
+
+## COVID-19 shots banned at public health district in Idaho, likely first in US
+
+date: 2024-11-01, from: VOA News USA
+
+A regional public health department in Idaho is no longer providing COVID-19 vaccinations to residents in six counties after a narrow decision by its board.
+
+
+Southwest District Health appears to be the first in the nation to be restricted from giving COVID-19 shots. Vaccinations are an essential function of a public health department.
+
+
+While policymakers in Texas banned health departments from promoting COVID-19 vaccines and Florida's surgeon general bucked medical consensus to recommend against the vaccine, governmental bodies across the country haven't blocked the vaccines outright.
+
+
+"I'm not aware of anything else like this," said Adriane Casalotti, chief of government and public affairs for the National Association of County and City Health Officials. She said health departments have stopped offering the vaccine because of cost or low demand, but not based on "a judgment of the medical product itself."
+
+
+The six-county district along the Idaho-Oregon border includes three counties in the Boise metropolitan area. Demand for COVID-19 vaccines in the health district has declined — with 1,601 given in 2021 to 64 so far in 2024. The same is true for other vaccines: Idaho has the highest childhood vaccination exemption rate in the nation, and last year, the Southwest District Health Department rushed to contain a rare measles outbreak that sickened 10.
+
+
+On Oct. 22, the health department's board voted 4-3 in favor of the ban — despite Southwest's medical director testifying to the vaccine's necessity.
+
+
+"Our request of the board is that we would be able to carry and offer those [vaccines], recognizing that we always have these discussions of risks and benefits," Dr. Perry Jansen said at the meeting. "This is not a blind, everybody-gets-a-shot approach. This is a thoughtful approach."
+
+
+Opposite Jansen's plea were more than 290 public comments, many of which called for an end to vaccine mandates or taxpayer funding of the vaccines, neither of which are happening in the district. At the meeting, many people who spoke are nationally known for making the rounds to testify against COVID-19 vaccines, including Dr. Peter McCullough, a Texas cardiologist who sells "contagion emergency kits" that include ivermectin and hydroxychloroquine — drugs that have not been approved to treat COVID-19 and can have dangerous side effects.
+
+
+Board Chairman Kelly Aberasturi was familiar with many of the voices who wanted the ban, especially from earlier local protests of pandemic measures.
+
+
+Aberasturi, who told The Associated Press that he's skeptical of COVID-19 vaccines and national public health leaders, said in the meeting and in an interview with the AP that he was supportive of but "disappointed" in the board's decision.
+
+
+He said the board had overstepped the relationship between patients and their doctors — and possibly opened a door to blocking other vaccines or treatments.
+
+
+Board members in favor of the decision argued people can get vaccinated elsewhere, and that providing the shots was equivalent to signing off on their safety. (Some people may be reluctant to get vaccinated or boosted because of misinformation about the shots despite evidence that they're safe and have saved millions of lives.)
+
+
+The people getting vaccinated at the health department — including people without housing, people who are homebound and those in long-term care facilities or in the immigration process — had no other options, Jansen and Aberasturi said.
+
+
+"I've been homeless in my lifetime, so I understand how difficult it can be when you're ... trying to get by and get ahead," Aberasturi said. "This is where we should be stepping in and helping.
+
+
+"But we have some board members who have never been there, so they don't understand what it's like."
+
+
+State health officials have said that they "recommend that people consider the COVID-19 vaccine." Idaho health department spokesperson AJ McWhorter declined to comment on "public health district business," but noted that COVID-19 vaccines are still available at community health centers for people who are uninsured.
+
+
+Aberasturi said he plans to ask at the next board meeting if the health department can at least be allowed to vaccinate older patients and residents of long-term care facilities, adding that the board is supposed to be caring for the "health and well-being" of the district's residents. "But I believe the way we went about this thing is we didn't do that due diligence." 
+
+<br> 
+
+<https://www.voanews.com/a/covid-19-shots-banned-at-public-health-district-in-idaho-likely-first-in-us-/7848342.html>
+
+---
+
+## Before US sanctions violations arrest, Russian businessman faced charge in Hong Kong
+
+date: 2024-11-01, from: VOA News USA
+
+When the U.S. Department of Treasury imposed sanctions on three companies belonging to Denis Postovoy on Wednesday, it was yet another move to break up what U.S. authorities say was an international scheme to violate sanctions.
+
+
+A month earlier, on September 16, law enforcement officials arrested the 44-year-old Russian national in Sarasota, Florida.
+
+
+He was charged with conspiring to violate sanctions on Russia, commit smuggling, commit money laundering and defraud the United States.
+
+
+According to the indictment, Postovoy used an international network of companies to export dual-use microelectronic components from the United States to Russia –– potentially spare parts for military drones used in the Kremlin’s war against Ukraine.
+
+
+
+
+Postovoy is not the first Russian charged with violating U.S. export controls. But he is one of the few who allegedly did it from inside the United States.
+
+
+Using court documents and open-source information, VOA pieced together Postovoy’s history, revealing a story involving international trade, criminal charges in two countries, a U.S. startup and Florida real estate.
+
+
+Postovoy pleaded not guilty to all the charges. If convicted, he could face decades in prison.
+
+
+Postovoy is in pretrial detention and could not be reached for comment. His lawyer did not respond to a VOA request for comment. When VOA reached Postovoy’s wife by phone, she hung up. She did not respond to questions sent to her on the WhatsApp messenger app.
+
+
+According to the latest court filings, Postovoy’s case was transferred to the U.S. District Court in Washington.
+
+
+American charges
+
+
+After Moscow launched its full-scale invasion of Ukraine on Feb. 24, 2022, the U.S. significantly expanded restrictions on the export of microelectronics to Russia.
+
+
+
+
+The Department of Justice has accused Postovoy and several unnamed co-conspirators of using a network of companies under their control in Hong Kong, Switzerland and Russia to violate those sanctions.
+
+
+It claims Postovoy misrepresented the buyers and destinations of the goods, routing them through Hong Kong, Switzerland, Turkey and Estonia.
+
+
+“As alleged, he lied about the final destination for the technology he was shipping and used intermediary destinations to mask this illegal activity,” U.S. Attorney Matthew M. Graves stated in a press release. “Fortunately, our skilled law enforcement partners at HSI [Homeland Security Investigations] and our dedicated attorneys unraveled the plot.”
+
+
+The prosecution states that Postovoy’s clients included the Russian company Streloi Ekommerts and other unnamed firms. According to the indictment, the contract with Streloi was completed before the company was added to the U.S. sanctions list in December 2023.
+
+
+An investigation by Radio Free Europe/Radio Liberty found that Streloi actively helps Russia circumvent Western export restrictions.
+
+
+Another recipient of the microelectronics, according to an invoice included in the case materials, was the Russian technology company Radius Avtomatika.
+
+
+Neither company responded to emailed questions from VOA.
+
+
+It is unclear whether the microelectronics Postovoy allegedly exported were ultimately used in drones, but one court document states that the people he contacted were members of Russia’s military-industrial complex.
+
+
+Hong Kong story
+
+
+Originally from Novosibirsk, Russia, Postovoy had lived in Hong Kong since at least 2010 with his wife — a Ukrainian citizen from Crimea — and their three children.
+
+
+Shipping records indicate his companies were involved in exporting goods from Hong Kong, a special administrative region of China, to Russia. Prosecutors allege that after the U.S. expanded its sanctions, some of this activity became illegal.
+
+
+When the DOJ announced Postovoy’s arrest, it also listed the names of his companies that it said were involved in the alleged scheme. Aside from the Russian-registered firm Vektor Group, all the others were in Hong Kong: Jove HK Limited, JST Group Hong Kong and WowCube HK Limited.
+
+
+All are now under U.S. sanctions, except for WowCube HK Limited.
+
+
+Its appearance in the indictment provoked a rapid response from Cubios, another company previously associated with Postovoy. It produces the WOWCube gaming console, wich looks like a Rubik’s cube with multiple screens.
+
+
+
+
+Just a day after Postovoy's arrest was announced, Cubios publicly denied any connection to WowCube HK Limited.
+
+
+"Neither Cubios nor any of its officers, directors, managers or employees ... have any connection to the HK Entity whatsoever. We do not own, operate or are in any way affiliated with the HK Entity,” the company said in a statement on its website.
+
+
+The startup also said that Postovoy "falsely listed himself as a VP of the Company” on LinkedIn.
+
+
+In fact, Postovoy was previously Cubios’ vice president for production, according to archived versions of its website.
+
+
+
+
+Ilya Osipov, CEO of Cubios, told VOA that a mutual friend introduced him to Postovoy.
+
+
+"I was looking for someone who could help with production in China — they gave me Denis," he wrote in a message to VOA.
+
+
+According to Osipov, Postovoy became a business partner and made important contributions to prototypes and test batches of the WOWCube. Later the company decreased cooperation with him.
+
+
+Although Postovoy did not have an official position, Cubios allowed him to call himself the vice president of production "for business purposes," Osipov told VOA.
+
+
+He claimed that Postovoy founded the Hong Kong firm without Cubios’ permission. It was planned to become a distributor of the consoles in Asia, but that never happened, Osipov said.
+
+
+Coming to America
+
+
+In 2022, Postovoy and his family moved to Sarasota, Florida, where Cubios' headquarters is.
+
+
+According to Osipov, Postovoy said the move was motivated by a desire to raise children in a Western country and concerns about increasingly strict Chinese control of Hong Kong.
+
+
+American prosecutors see a different motivation.
+
+
+In a response to U.S. federal investigators included in the case materials, Hong Kong police said Postovoy was charged on March 1, 2022, with money laundering — a crime punishable by up to 14 years in prison and a fine of up to $643,000.
+
+
+According to the email, Postovoy was scheduled to appear in court on March 4 but left Hong Kong the day before.
+
+
+Hong Kong police did not respond to VOA’s request for comment.
+
+
+By June 2022, Postovoy's wife purchased a house in southeastern Sarasota.
+
+
+Sarasota County property records indicate the house was valued at around $980,000. A mortgage covered $680,000 of the cost.
+
+
+In August 2023, Postovoy bought another house, in the new Rivo Lakes gated community in Sarasota. According to purchase documents, it cost $1.13 million. In September, he transferred it to a trust controlled by his wife.
+
+
+On the same day, his wife transferred the house to another trust and later sold the property.
+
+
+According to a U.S. magistrate judge, Postovoy's decision to transfer the second house into a trust was likely an attempt to conceal his ownership.
+
+
+He “did not list his home — which is valued at nearly a million dollars and held in the name of a trust controlled by his wife — on his financial affidavit submitted to this Court,” the judge wrote in a decision not to grant Postovoy bail.
+
+
+This may not be the only attempted cover-up in the case: Russian company records indicate that, in December 2023, a man named Dmitry Smirnov replaced Postovoy as owner of his Vektor Group company.
+
+
+VOA’s Cantonese Service contributed research to this story. 
+
+<br> 
+
+<https://www.voanews.com/a/before-us-sanctions-violations-arrest-russian-businessman-faced-charges-in-hong-kong-china-corner/7847881.html>
+
+---
+
+## The State—and Fate—of America's Indo-Pacific Alliances
+
+date: 2024-11-01, updated: 2024-11-01, from: RAND blog
+
+The popular notion that the November 5 election represents an inflection point for U.S. foreign policy is vastly overstated, at least in the Indo-Pacific. Rather, U.S. foreign policy in this region is likely to remain consistent. 
+
+<br> 
+
+<https://www.rand.org/pubs/commentary/2024/11/the-state-and-fate-of-americas-indo-pacific-alliances.html>
+
+---
+
+## Recent US strikes spotlight growing Islamic State threat in Syria
+
+date: 2024-11-01, from: VOA News USA
+
+WASHINGTON — Airstrikes carried out by the U.S. military this week against several Islamic State targets in Syria highlight concerns about the terror group's growing presence in the war-torn country, experts say.
+
+
+U.S. Central Command, or CENTCOM, said Wednesday that its forces had conducted strikes on Monday targeting multiple camps belonging to IS, or ISIS, in the Syrian desert. Nearly 35 IS operatives, including senior leaders, were killed in the airstrikes, the U.S. military said.
+
+
+
+
+Despite its territorial defeat in 2019, IS has been carrying out attacks through sleeper cells across Iraq and Syria. In recent months, militants affiliated with the group have increasingly become active in areas controlled by forces loyal to the government of Syrian President Bashar Assad and their Iranian and Russian allies.
+
+
+The Syrian Desert, also known as the Badia, where the U.S. forces struck IS positions this week, has seen a significant surge in violence by IS militants in recent months.
+
+
+IS had maintained training camps in the Syrian desert for many years, according to Gregory Waters, a research analyst at the Counter Extremism Project who closely follows IS activities in central Syria.
+
+
+"These are the places where it trains the next generation of fighters — often children it recruits from northeast Syria — and where adult fighters can return to in between their operations," Waters told VOA. "While the central Syrian desert is under Russian and Syrian regime control, ISIS does not abide by these arbitrary lines."
+
+
+He added that IS cells in the central desert support the cells operating in northeast Syria, which is largely under the control of U.S.-backed and Kurdish-led Syrian Democratic Forces, or SDF.
+
+
+The United States has about 900 troops in northeast Syria as part of a global coalition against IS.
+
+
+"Oftentimes the fighters will cross from one region to the other to either conduct attacks or to escape from counter-ISIS operations," Waters said.
+
+
+Colin Clarke, director of research at The Soufan Group, said the U.S. strikes demonstrate that the terror group remains a significant threat in Syria.
+
+
+"Moreover, the Assad regime lacks either the will or the capability to counter ISIS, so the United States has remained vigilant in its efforts to keep the group on the defensive," he told VOA.
+
+
+"Any time you have a terrorist group with the legacy of the Islamic State, with a proven track record of being able to recruit, plan and conduct attacks, including external operations in the West, it is never a good idea to become complacent," Clarke said. "The strikes are necessary to keep ISIS from regrouping, whether in Syria or the hinterlands of Afghanistan."
+
+
+Abdul Wahab Assi, a researcher at the Istanbul-based Jusoor Center for Studies, said the U.S. strikes in the Syrian Desert carried a political message, as well.
+
+
+"It sent a message to Russia, which ostensibly operates against IS in that particular area, that it's not doing enough" to counter IS activities in Syria, he told Syria TV, a news channel affiliated with the Syrian opposition.
+
+
+Last week, Iraqi Prime Minister Mohammed Shia al-Sudani announced the killing of the IS leader in Iraq and eight other senior IS commanders in a joint operation by U.S. and Iraqi forces.
+
+
+CENTCOM said in its Wednesday statement that alongside its allies and partners in the region, it "will continue to aggressively degrade ISIS operational capabilities to ensure its enduring defeat."
+
+
+This story originated in VOA's Kurdish Service. 
+
+<br> 
+
+<https://www.voanews.com/a/recent-us-strikes-spotlight-growing-islamic-state-threat-in-syria/7848255.html>
+
+---
+
+## The White House's Big Vision of AI Safety: Building a Responsive Research Agenda Aligned with NSM AI
+
+date: 2024-11-01, updated: 2024-11-01, from: RAND blog
+
+The White House released the first-ever National Security Memorandum on Artificial Intelligence. It covers a diverse set of issues, providing a comprehensive strategy for governing AI use in national security systems. A five-part research agenda can support its implementation. 
+
+<br> 
+
+<https://www.rand.org/pubs/commentary/2024/11/the-white-houses-big-vision-of-ai-safety-building-a.html>
+
+---
+
+## Elon Musk loses bid to move $1 million voter prizes case
+
+date: 2024-11-01, from: VOA News USA
+
+A U.S. judge on Friday denied Elon Musk's bid to move a Pennsylvania lawsuit over his $1 million voter prizes to federal court, moving the case back to state court.
+
+
+It was not immediately clear if the decision would affect the billionaire's plan to keep awarding money until the U.S. presidential election Tuesday.
+
+
+The decision was issued by U.S. District Judge Gerald Pappert in Philadelphia federal court.
+
+
+Musk has been giving $1 million checks to randomly selected registered voters who sign a petition supporting free speech and gun rights.
+
+
+Musk's America PAC had awarded $1 million prizes to 14 people as of Friday and said the final prize will be given out Tuesday.
+
+
+Democratic Philadelphia District Attorney Lawrence Krasner sued Musk and his political action committee, which backs Republican former President Donald Trump, on Monday in a state court to try to block the giveaway. Krasner called the program an illegal lottery.
+
+
+Two days later, Tesla CEO Musk and his America PAC sought to move the case to federal court, arguing Krasner's lawsuit raised questions about free-speech rights and election interference that belong in federal court. That prompted the state judge who had been overseeing the case to put it on hold.
+
+
+In arguing that the case belonged in state court, Krasner called Musk's maneuver an attempt to "run the clock until Election Day." Krasner did not allege the giveaway violates federal law.
+
+
+Philadelphia is the largest city in Pennsylvania, one of seven battleground states likely to determine the outcome of the race between Trump and his Democratic opponent, Vice President Kamala Harris.
+
+
+Musk's offer is limited to registered voters in the seven states expected to decide the election — Arizona, Georgia, Michigan, Nevada, North Carolina, Pennsylvania and Wisconsin.
+
+
+Musk gave away the first $1 million at an October 19 America PAC rally in Harrisburg, Pennsylvania's state capital.
+
+
+The giveaway falls in a gray area of election law, and legal experts are divided on whether Musk could be violating federal laws against paying people to register to vote.
+
+
+The U.S. Department of Justice warned America PAC the giveaway could violate federal law, according to media reports, but federal prosecutors have not taken any public action.
+
+
+Musk has so far given nearly $120 million to America PAC, according to federal disclosures. 
+
+<br> 
+
+<https://www.voanews.com/a/elon-musk-loses-bid-to-move-1-million-voter-prizes-case/7848193.html>
+
+---
+
+## Hacer América Odiar Otra Vez: Restringir el derecho de voto de los estadounidenses.
+
+date: 2024-11-01, from: Capital and Main
+
+<p>A medida que se acercan las elecciones de 2024, millones de estadounidenses se enfrentarán a nuevos obstáculos para votar. En 31 estados existen restricciones al voto que harán que votar sea más difícil que nunca.</p>
+<p>The post <a href="https://capitalandmain.com/hacer-america-odiar-otra-vez-restringir-el-derecho-de-voto-de-los-estadounidenses">Hacer América Odiar Otra Vez: Restringir el derecho de voto de los estadounidenses.</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/hacer-america-odiar-otra-vez-restringir-el-derecho-de-voto-de-los-estadounidenses>
+
+---
+
+## Hacer América Odiar Otra Vez: El ascenso de la supremacía blanca en la era Trump.
+
+date: 2024-11-01, from: Capital and Main
+
+<p>La administración de Donald Trump marcó un punto de inflexión. Su retórica y sus políticas animaron a los grupos de extrema derecha y, según el Southern Poverty Law Center, dieron lugar a nuevos niveles de influencia de la supremacía blanca en el gobierno y la política estadounidenses.</p>
+<p>The post <a href="https://capitalandmain.com/hacer-america-odiar-otra-vez-el-ascenso-de-la-supremacia-blanca-en-la-era-trump">Hacer América Odiar Otra Vez: El ascenso de la supremacía blanca en la era Trump.</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/hacer-america-odiar-otra-vez-el-ascenso-de-la-supremacia-blanca-en-la-era-trump>
+
+---
+
+## What US election results could mean for Africa
+
+date: 2024-11-01, from: VOA News USA
+
+JOHANNESBURG — Whoever U.S. voters choose as their next president — former President Donald Trump or Vice President Kamala Harris — the election has global implications, with the probability it will affect other economies, foreign conflicts and personal freedoms, analysts told VOA.
+
+
+South African independent political analyst Asanda Ngoasheng said the winner could usher in policies that affect ordinary people in Africa.
+
+
+“I hope that as Americans vote, they’re aware that whatever decision they make, it’s going to determine the future of not only America but the rest of the world,” she said.
+
+
+“How we engage with issues of termination of pregnancy, how we engage with issues of LGBT rights, how we engage with issues of race and racism will be determined by this election, not just for America but for everyone else and everywhere else in the world,” Ngoasheng continued.
+
+
+The abortion issue is a particularly divisive topic for U.S. Republicans and Democrats.
+
+
+While the United States is the largest funder of global reproductive health programs, Trump slashed that funding during his presidency by extending a policy that barred U.S. aid from going to any organization that supported abortion.
+
+
+Experts said they believe that a second Trump presidency would likely do that again and could negatively affect PEPFAR, the U.S.’s key HIV/AIDS program.
+
+
+Trade is another key area in which analysts think Harris and Trump would differ, given Trump’s “America first” policy.
+
+
+African governments hope that next year the U.S. will renew the African Growth and Opportunity Act, a Clinton-era policy that gives countries duty-free access to the U.S. market.
+
+
+Ray Hartley, research director of South African Brenthurst Foundation think tank, does not have high hopes for a second Trump presidency.
+
+
+“I think that a Trump presidency would reinforce America’s isolationist approach in international affairs, and that might not be good for trade,” he said.
+
+
+Other analysts said they believe general U.S. policy toward Africa won’t differ radically regardless of who wins.
+
+
+They said that while Africa was often neglected in terms of U.S. foreign policy, that has shifted in recent years amid renewed competition with Russia and China on the resource-rich continent.
+
+
+Moscow has strengthened military ties with many African governments, while U.S. troops have been kicked out of Niger and Chad. Beijing, meanwhile, is Africa’s largest trade partner and has been building infrastructure throughout the continent.
+
+
+
+
+Ebenezer Obadare, senior fellow for Africa studies at U.S. research organization  Council on Foreign Relations, said, “Insofar as the United States is intent on competing with those powers in Africa, keeping its old alliances and building new ones, I don’t think one administration is likely to differ much from another, strictly in terms of their Africa policy.”
+
+
+As vice president, Harris traveled to the continent, where she pushed President Joe Biden’s line that the U.S. was “all in on Africa.” The Biden administration also started holding an annual U.S.-African leaders’ summit.
+
+
+And, as it increases competition with China, the current administration has also undertaken funding the biggest U.S. infrastructure project in Africa in generations: the Lobito corridor, a railway connecting Angola and the Democratic Republic of Congo that will be used to transport critical minerals.
+
+
+Biden was forced to reschedule a promised visit to Africa and is now expected in Angola in December. The choice of country has been criticized by some for what they say is Angola's shoddy human rights record.
+
+
+Trump's signature initiative involving the continent was creating Prosper Africa, a U.S. agency designed to assist American companies doing business in Africa.
+
+
+However, he also offended many Africans during his first term, using a derogatory term to refer to countries on the continent and mispronouncing Namibia’s name. More recently he raised ire by comparing himself to South African icon Nelson Mandela.
+
+
+Analysts said that while Harris and Trump have generally ignored Africa over the course of their campaigns, whoever becomes America's next president would do well to keep up engagement with the continent, which boasts the world's youngest population. 
+
+<br> 
+
+<https://www.voanews.com/a/what-us-election-results-could-mean-for-africa/7848065.html>
+
+---
+
+## Trump’s Inaction on Teamsters’ Pensions Fuels Frustration Over Failure to Endorse Harris
+
+date: 2024-11-01, from: Capital and Main
+
+<p>Union members say the non-endorsement ignores Harris’ role in securing Teamsters’ retirement benefits and Biden’s pro-union NLRB, which has bolstered organizing efforts at Amazon.</p>
+<p>The post <a href="https://capitalandmain.com/trumps-inaction-on-teamsters-pensions-fuels-frustration-over-failure-to-endorse-harris">Trump’s Inaction on Teamsters’ Pensions Fuels Frustration Over Failure to Endorse Harris</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/trumps-inaction-on-teamsters-pensions-fuels-frustration-over-failure-to-endorse-harris>
+
+---
+
+## Trump visits Dearborn, Michigan, 'capital' of Arab America
+
+date: 2024-11-01, from: VOA News USA
+
+WASHINGTON — In the run-up to the presidential election, U.S. Vice President Kamala Harris’ campaign has increased its outreach to Arab and Muslim Americans, particularly in battleground state Michigan. But it is her Republican opponent, former President Donald Trump, who has made surprising gains with this group that makes up a significant portion of voters angry about President Joe Biden's policies on the Israel-Hamas war in Gaza.
+
+
+On Friday, Trump visited a cafe in Dearborn, Michigan, a city dubbed the Arab capital of America, in a state home to almost 400,000 Arab Americans. Many of them have expressed determination to punish Harris over the Biden administration’s support for Israel.
+
+
+"We have a great feeling for Lebanon, and I know so many people from Lebanon, the Lebanese people," Trump said in response to a reporter asking him for the reason of his visit. "The Muslim population, they're liking Trump, and I've had a good relationship with them. This is it. This is where they are, Dearborn. But we want their votes, and we're looking for their votes, and I think we'll get their votes."
+
+
+Trump's visit is a continuation of his outreach to the Arab and Muslim community that has resulted in endorsements from leaders of two nearby Michigan cities that, while tiny, carry symbolic importance. Bill Bazzi, the first Muslim and Arab American mayor of Dearborn Heights, and Amer Ghalib, the Yemeni American mayor of Hamtramck, the only U.S. city with an all-Muslim city council, have both endorsed the Republican candidate.
+
+
+“My meeting with President Trump was positive, and we hope that he can change the current situation,” Ghalib told VOA. “He said he doesn't want wars, and he will listen to our concerns.”
+
+
+Three of the six members of the Hamtramck City Council followed Ghalib’s endorsement and the rest endorsed Harris — a split that reflects the community’s polarized views of the candidates.
+
+
+“Harris has answered this question many times that she is going to work with Gaza. She’s going to be fair with people of Gaza,” council member Mohammed Alsomiri told VOA. “Trump, I don't believe him, and I don't trust him.”
+
+
+Imam endorses Trump
+
+
+The former president has been courting the group intensively. At a rally last week in the Detroit suburb of Novi, about a half hour drive from Dearborn, he said Muslim and Arab voters "want a stop to the endless wars and a return to peace in the Middle East. That's all they want."
+
+
+Trump was joined onstage by what his campaign described as “prominent leaders of Michigan’s Muslim community,” including Imam Belal Alzuhairi of the Great Mosque of Hamtramck.
+
+
+“We, as Muslims, stand with President Trump because he promises peace, not war!” said Alzuhairi.
+
+
+This despite Trump suggesting that he would give Israel’s military offensives against Hamas and Hezbollah more leeway, telling Prime Minister Benjamin Netanyahu in a recent call to “do what you have to do.” He often boasts he will end the wars in the Middle East “in 24 hours,” without explaining how.
+
+
+As president, Trump in 2017 called for a “total and complete shutdown” on Muslims, banning individuals from six Muslim-majority countries from entering, a policy that activists said was “cruel, inhumane, and violated international law.”
+
+
+The Trump campaign has not responded to VOA’s queries on outreach to the community.
+
+
+Harris' outreach
+
+
+On the anniversary of Hamas’ October 7, 2023, attack on Israel, 25 Muslim leaders released an open letter telling Muslim voters that backing Harris “far outweighs the harms of the other options.”
+
+
+The Harris campaign says it has been "working hard" to engage the community. The vice president met with a small group of leaders in Detroit, Michigan, in August, shortly after she became the Democratic nominee, and with leaders in Flint, Michigan, in early October. She has had one other meeting since then with Black imams and community leaders in Philadelphia, Pennsylvania, another key swing state.
+
+
+The Harris campaign said it is “working hard” to engage the community. The vice president met twice with a small group of leaders in Michigan, in Detroit in August shortly after she became the Democratic nominee and in Flint in early October. She has had one other meeting since then, with Black imams and community leaders in Philadelphia, Pennsylvania, another key swing state.
+
+
+Afghan American Nasrina Bargzie and Egyptian American Brenda Abdelal, two lawyers spearheading Muslim and Arab outreach for the Harris campaign, have met with groups in Michigan, Wisconsin, Georgia, North Carolina, Pennsylvania, Texas, Minnesota, Arizona and Nevada, the Harris campaign told VOA. Phil Gordon, Harris' national security adviser, met virtually in early October with leaders across the country, the campaign said.
+
+
+But many of these meetings have been with friendlier groups, suggesting that they were not aimed at changing hearts and minds. Gordon’s meeting excluded major Muslim and Arab organizations as well as pro-Palestinian activist groups and was more of a “check the box” engagement, according to James Zogby, president of the Arab American Institute, who participated in the eight-person meeting.
+
+
+Governor Tim Walz, Harris’ vice presidential pick, has had one engagement with Arab and Muslim Americans, an October virtual meeting with Emgage Action, the political arm of an 18-year-old Muslim American advocacy group, which already endorsed the Democratic presidential candidate in September.
+
+
+Third-party candidates
+
+
+While polls suggest Arab Americans' and Muslim Americans' support for Trump is unlikely to surpass their support of Harris'— they also show that third-party candidates could pull a significant portion of votes from her. In Michigan, Green Party candidate Jill Stein has been campaigning on a platform to "end the genocide."
+
+
+A poll released Friday by the Council on American-Islamic Relations, or CAIR, the nation’s largest Muslim advocacy organization, showed that 29.4% of American Muslims plan to vote for Harris, 29.1% for Stein, and 11.2% for Trump. More than 16% remain undecided.
+
+
+The numbers suggest an improvement for Harris and Trump among the group. Before Biden’s withdrawal, CAIR’s poll showed Biden received 7.3% support and Trump 4.9%.
+
+
+Compared to Biden, Harris has been more vocal in expressing sympathy for Palestinians and calling out Israel to “follow humanitarian law.” She has also addressed the suffering in Lebanon and announced $157 million in assistance from the administration.
+
+
+
+
+At a Harris rally in Ann Arbor, Michigan, this week, Assad Turfe, an Arab American official from nearby Wayne County, said that Harris is a leader “who will give voice to our pain.”
+
+
+But in that rally, Harris was heckled by pro-Palestinian protesters, as she has been in other campaign events.
+
+
+"Hey, guys, I hear you," she said. "We all want this war to end as soon as possible."
+
+
+A candidate must secure a minimum of 270 out of 538 Electoral College votes to win. With 16 Electoral College votes, Michigan could tip the balance in what is expected to be a close election. Biden won the state in 2020 by 154,000 votes. In 2016, Trump won the state over Hillary Clinton by just under 11,000 votes.
+
+
+The Israel-Hamas war in Gaza has been a divisive issue among the community. At a Dearborn news conference announcing Arab American leaders’ endorsement for Harris earlier this week, a group of anti-Harris Arab Americans confronted them, calling them traitors.
+
+
+Ronald Stockton, a professor emeritus at the University of Michigan-Dearborn who has studied the community for decades, said he had never seen such polarization.
+
+
+"There will be permanent scars left behind," Stockton told VOA. "Like battlefield scars that remain decades after the war ends."
+
+
+VOA's Iram Abbasi contributed to this report. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-to-visit-dearborn-michigan-capital-of-arab-america/7847953.html>
+
+---
+
+## Wargaming the Future of Climate Change
+
+date: 2024-11-01, updated: 2024-11-01, from: RAND blog
+
+The U.S. Department of Defense describes climate change as a critical national security issue and a “threat multiplier.” A new card game can help military leaders think through how climate change might affect people, infrastructure, and military operations. 
+
+<br> 
+
+<https://www.rand.org/pubs/articles/2024/wargaming-the-future-of-climate-change.html>
+
+---
+
+## Russia's Imperial Ambitions Are a Clear Threat to NATO
+
+date: 2024-11-01, updated: 2024-11-01, from: RAND blog
+
+As long as Moscow uses force to pursue imperial ambition, Russia's neighbors and NATO members will be under threat. Multiple factors could affect this, including the outcome of the war in Ukraine, Russia's capacity to rebuild military power while repressing domestic opposition, and Western resolve. 
+
+<br> 
+
+<https://www.rand.org/pubs/commentary/2024/11/russias-imperial-ambitions-are-a-clear-threat-to-nato.html>
+
+---
+
+## Pennsylvanians Aren’t Just Voting for President
+
+date: 2024-11-01, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDA5NDQxMC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc1NDc4MDEwNX0.wCzu1kODZD2oIqT9pO3f4IMrWdSF8x8Kprb7fqJe1F4/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">In four days, Pennsylvania will become just about the most important place on Earth.</p><p>It is unlikely that either Kamala Harris or Donald Trump can reach the White House without carrying the Keystone State; winning Pennsylvania bumps either’s odds of prevailing in the whole election to <a href="https://x.com/NateSilver538/status/1819457285535703160" rel="noopener noreferrer" target="_blank"><u>over 90%</u></a>, according to polling analyst Nate Silver’s models. The state will also play <a href="https://www.wesa.fm/politics-government/2024-10-27/pennsylvania-congressional-races-house-control" rel="noopener noreferrer" target="_blank"><u>a deciding role</u></a> in control of the U.S. House and Senate, which in turn will help or hamper <a href="https://heatmap.news/politics/climate-policy-harris-walz" target="_self"><u>the next president’s agenda</u></a>. America’s <a href="https://www.nytimes.com/2024/10/22/us/politics/john-kelly-trump-fitness-character.html" rel="noopener noreferrer" target="_blank"><u>domestic trajectory</u></a>, its <a href="https://www.vox.com/world-politics/380060/trump-world-risks-war" rel="noopener noreferrer" target="_blank"><u>foreign policy decisions</u></a>, and even its <a href="https://www.npr.org/2024/02/11/1230658309/trump-would-encourage-russia-to-attack-nato-allies-who-dont-pay-bills" rel="noopener noreferrer" target="_blank"><u>allies and enemies</u></a> could all come down to the whims of the state’s 8.9 million registered voters.</p><p>But Pennsylvanians have other important choices to make on their ballots, too. “Pennsylvania is a major energy state, and its decisions — regardless of what type of energy it is — have a huge impact on America’s energy portfolio,” John Qua, the campaign manager of Lead Locally, which is supporting <a href="https://leadlocally.org/candidates/" rel="noopener noreferrer" target="_blank"><u>17 down-ballot candidates</u></a> in the state, told me.</p><p>As the nation’s second-biggest gas producer after Texas and third-biggest <a href="https://heatmap.news/politics/coal-2024-election-trump-biden" target="_self"><u>coal</u></a> producer after Wyoming and West Virginia, Pennsylvania also holds the distinction of being the fifth-largest greenhouse gas-emitting state in the nation. Its state legislature hasn’t passed new climate legislation since 2008, in large part because of the influence of the fossil fuel industry over local politics. The American Petroleum Institute donates <a href="https://penncapital-star.com/energy-environment/u-s-oil-and-gas-production-is-booming-so-are-the-industrys-donations-to-its-gop-allies/" rel="noopener noreferrer" target="_blank"><u>more to Pennsylvania lawmakers</u></a> than those in any other state, and while fracking <a href="https://whyy.org/articles/fracking-pennsylvania-shale-gas-workforce-health-environmental-damage/" rel="noopener noreferrer" target="_blank"><u>isn’t the decisive local issue</u></a> it’s made out to be in the popular consciousness, it still <a href="https://www.post-gazette.com/news/election-2024/2024/10/08/politics-fracking-natural-gas-industry-climate-economy-jobs/stories/202410040075" rel="noopener noreferrer" target="_blank"><u>employs around 100,000 people</u></a> — more than made the difference in deciding the 2020 election in the state. (Harris notably reneged on her 2019 pledge <a href="https://heatmap.news/politics/harris-campaign-pennsylvania-fracking" target="_self"><u>to ban fracking</u></a> if elected in an apparent overture to Pennsylvanians, although the state’s imperiled Democratic senator, Bob Casey, <a href="https://insideclimatenews.org/news/11082024/pennsylvania-senate-race-dave-mccormick-bob-casey/" rel="noopener noreferrer" target="_blank"><u>has been hammered</u></a> by his Republican challenger over her prior position.) </p><p>Pennsylvania has a Democratic governor, Josh Shapiro, until at least 2026, and Democrats hold slim control over the state House of Representatives by a margin of 102 to 101. The ambition this cycle is to keep the state House <em><em>and</em></em> flip the Republican-held state Senate. Picking up three seats there would earn Democrats a governing trifecta, with a tie-breaking vote going to Democratic Lt. Gov Austin Davis. Flip four seats, and they’d have the majority.</p><p>But “if you asked me to bet you $10 that the Democrats would win, I wouldn’t take the bet,” David Masur, the executive director of PennEnvironment, a green research and advocacy group that works in the state, told me. “I think it’s just a long shot.”</p><p>The path to winning the state Senate and achieving a governing trifecta clearly runs through three districts. The first and easiest pickup is in SD-15, around the state capital in Harrisburg, where the “map is much friendlier to Democrats,” according to Masur. The party would then need to win a competitive seat in SD-37, in the Pittsburgh suburbs, which has tilted blue recently and also seems theoretically within reach. But things get trickier in SD-49, Democrats’ “<a href="https://www.spotlightpa.org/news/2024/02/pennsylvania-state-senate-elections-2024-democratic-majority-flip-republican/" rel="noopener noreferrer" target="_blank"><u>white whale</u></a>” district in Erie County, which President Biden won by 2 points but where Republican senator Dan Laughlin remains well-liked. To wrest back the chamber, in other words, the Democrats would “have to run the table,” Masur said. “I don’t even think there’s another race where you could go, ‘Oh, they could get the majority by winning this other seat.’ There’s nowhere else to go. They have to win those three.”</p><p>Because of recent redistricting, the climate groups working in the state are cautious about getting their hopes up too high. “Flipping the [state] Senate, which is currently held by Republicans, might be a two-cycle endeavor with these new maps,” Lead Locally’s Qua said. This doesn’t necessarily mean all is lost: Even maintaining control of two of the three levers of government in Pennsylvania would be a victory, and Democrats this summer managed to garner enough bipartisan support to <a href="https://www.pahouse.com/Fiedler/InTheNews/NewsRelease/?id=134824" rel="noopener noreferrer" target="_blank"><u>pass legislation</u></a> to bring solar panels to state schools. </p><p>But the stakes — and promises — of a trifecta feel crucial and tantalizingly close. According to <a href="https://insideclimatenews.org/news/25102024/pennsylvania-renewable-energy-report" rel="noopener noreferrer" target="_blank"><u>a recent analysis</u></a> by PennEnvironment, Pennsylvania is 48th in the nation for the percentage growth of total solar, wind, and geothermal in the past decade, and 46th in the nation for the percentage of growth in total solar over the past five years, generating less than its neighbors New Jersey, Maryland, and Ohio. “The fossil fuel industry is extremely moneyed and extremely influential, and it’s created a political reality where it’s very difficult to move good climate and clean energy policy forward in Harrisburg,” Flora Cardoni, PennEnvironment’s deputy director, told me. Climate obstructionists in the state Senate often refuse to call up good environmental policies for votes, leaving the state with “no laws on the books that require utility companies in Pennsylvania to increase the amount of clean renewable energy that they provide to their customers” which is “a huge impediment to progress.”</p><p>It’s not as if Democrats aren’t ready to go — they are. Shapiro is sitting on a two-bill plan for tackling climate change in the state. One would boost renewable energy to 35% of Pennsylvania’s total generation by 2035, which Cardoni described as “a huge step in the right direction, although we need to do much more.” The second bill would make polluters pay for their carbon emissions and spend the resulting money on clean air, water, and energy efficiency projects — essentially, a <a href="https://apnews.com/article/climate-change-pennsylvania-shapiro-renewable-energy-electricity-bdb66ee44ccf3fe0113064da698aa657" rel="noopener noreferrer" target="_blank"><u>backup</u></a> plan for if the state’s attempt to join <a href="https://foleyhoag.com/news-and-insights/blogs/law-and-the-environment/2024/march/update-on-rggi-in-pennsylvania/" rel="noopener noreferrer" target="_blank"><u>the Regional Greenhouse Gas Initiative</u></a> fails. (Owing to a question of constitutionality, RGGI is in limbo with the state’s Supreme Court.) </p><p>So, in a sense, you <em><em>have</em></em> to go for it. “Yeah, they’re really hard races,” admitted Caroline Spears, the executive director of Climate Cabinet, which is <a href="https://climatecabinet.org/candidates" rel="noopener noreferrer" target="_blank"><u>supporting 26 candidates</u></a> in the state. “But if you win,” she added, “you win the fifth-largest greenhouse gas emitter in the country.” While she was loath to “compare our states against each other,” Spears pointed out that Pennsylvania’s emissions are about two and a half times those of <a href="https://heatmap.news/politics/arizona-climate-elections" target="_self"><u>Arizona</u></a>, which makes it a much bigger opportunity for reductions.</p><p>Perhaps the most important point: No one really <em><em>knows</em></em> what’s going to happen. Not only are organizers working with new maps in the state <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/pennsylvania/" rel="noopener noreferrer" target="_blank"><u>due to 2022 redistricting</u></a>, but state-level races also rarely attract substantial enough polling to make reliably predictive guesses, especially when there are so many toss-ups and razor-thin margins. Adding to the trickiness, Pennsylvania is one of the few states where residents still appear willing to split their tickets; in 2020, ticket-splitting between the president and the state Legislature was up to 15 points in places, which is part of why Climate Cabinet has targeted races in the state with margins of up to 10 points that other groups wouldn’t touch. “Folks have been like, ‘the Pennsylvania Senate’s not doable.’ That’s the word on the street,” Spears told me. “But I think people are forgetting a little bit that that was also the word on the street about the Minnesota Senate and the Michigan legislature,” which flipped during the 2022 midterms.</p><p>What’s encouraging is that Pennsylvania voters — contrary to their image of being fracking obsessives — have been <a href="https://www.canarymedia.com/articles/clean-energy-manufacturing/can-energy-rich-pennsylvania-chart-a-path-towards-decarbonization" rel="noopener noreferrer" target="_blank"><u>curious or even enthusiastic</u></a> about pivoting to clean energy when organizers have spoken with them. Following <a href="https://penncapital-star.com/uncategorized/a-year-after-devastating-winter-storm-power-plant-problems-still-likely-in-extreme-weather/" rel="noopener noreferrer" target="_blank"><u>Winter Storm Elliott in 2022</u></a>, which caused outages across the state, many residents now “recognize that the grid is outdated,” Julia Kortrey, the deputy state policy director at Evergreen Action, a national climate advocacy group, told me. There’s an acknowledgment among many that “the status quo is not working.”</p><p>As in many parts of the country this year, local races in Pennsylvania are mainly focused on battles over education, abortion access, immigration, and crime, not necessarily clean energy. But often, climate-related issues are bubbling just under the surface. “I’m not going to go up to someone’s door and ask ‘What issue is on your mind today?’ and have them say, ‘I’m really worried about the PM2.5 concentration or the Mauna Loa CO2 readings,’” Spears told me. “But if they’re like, ‘The cost of living is too high,’ I’m going to have a conversation about home insurance.” </p><p>A particularly good example of this is playing out in one of Pennsylvania’s U.S. House races, which will help determine the ultimate makeup of Congress. In the Lehigh Valley, Democratic Representative Susan Wild is attempting to hold off her Republican challenger, state Representative Ryan Mackenzie, who voted against the school solar bill and the state’s clean water act. Wild had been particularly instrumental in helping to replace lead pipes in the area, and she’s made her leadership on the issue prominent in her campaigning. “The Bipartisan Infrastructure Law and lead pipe removal can seem very — I don’t want to say <em><em>national</em></em>, but it can be hard to visualize,” Nate Fowler, the regional campaigns director of the League of Conservation Voters, told me. “But for voters in this part of the Commonwealth, it’s easy for them to understand why this is so important.”</p><p>It won’t be until after the dust from Tuesday settles — when Pennsylvania’s 19 electoral college votes have been allocated, and its U.S. House and Senate races decided — that national attention will turn to the consequences of the state’s down-ballot races, if it ever does. But whether Democrats run the table or Republicans eat into their opponents’ grip on the legislature, Pennsylvania’s elections will be pivotal to the nation’s greater evolving energy story.</p><p>“So much of what we can accomplish in Pennsylvania will lay the groundwork for what is accomplished across the country,” Kortrey, of Evergreen Action, said. “I tell folks, ‘If we can do it in Pennsylvania, we can do it anywhere.’”</p> 
+
+<br> 
+
+<https://heatmap.news/politics/pennsylvania-swing-state>
 
 ---
 
@@ -1645,7 +2393,7 @@ date: 2024-10-30, from: Market Place
 
 date: 2024-10-30, from: The Lever News
 
- Join us for a special live virtual event to discuss the upcoming election.  
+ Watch a video recap of our special live virtual event to discuss the upcoming 2024 election.  
 
 <br> 
 
@@ -2672,7 +3420,7 @@ Every October, events are held worldwide to mark a Day of Remembrance for the vi
 
 date: 2024-10-30, from: Capital and Main
 
-<p>After hesitation over her past as a prosecutor, grassroots reform group Michigan Liberation ultimately supports the vice president.</p>
+<p>After hesitation over her past as a prosecutor, grassroots reform group Michigan Liberation Action Fund ultimately supports the vice president.</p>
 <p>The post <a href="https://capitalandmain.com/reluctant-at-first-michigan-criminal-justice-advocates-rally-behind-kamala-harris">Reluctant at First, Michigan Criminal Justice Advocates Rally Behind Kamala Harris</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
  
 
@@ -4503,4 +5251,564 @@ Three were subsequently released, while one remained at the hospital "under obse
 <br> 
 
 <https://www.voanews.com/a/nasa-astronaut-released-from-hospital-after-return-from-space-station/7840469.html>
+
+---
+
+## War affects more than 600 million women and girls, UN says
+
+date: 2024-10-26, from: VOA News USA
+
+united nations — More than 600 million women and girls are now affected by war, a 50% increase from a decade ago, and they fear the world has forgotten them amid an escalating backlash against women's rights and gender equality, top United Nations officials say. 
+
+
+U.N. Secretary-General Antonio Guterres said in a new report that amid record levels of armed conflict and violence, progress over the decades for women is vanishing and "generational gains in women's rights hang in the balance around the world." 
+
+
+The U.N. chief was assessing the state of a Security Council resolution adopted on Oct. 31, 2000, that demanded equal participation for women in peace negotiations, a goal that remains as distant as gender equality. 
+
+
+Guterres said current data and findings show that "the transformative potential of women's leadership and inclusion in the pursuit of peace" is being undercut — with power and decision-making on peace and security matters overwhelmingly in the hands of men. 
+
+
+"As long as oppressive patriarchal social structures and gender biases hold back half our societies, peace will remain elusive," he warned. 
+
+
+
+
+The report says the proportion of women killed in armed conflicts doubled in 2023 compared with a year earlier; U.N.-verified cases of conflict-related sexual violence were 50% higher; and the number of girls affected by grave violations in conflicts increased by 35%. 
+
+
+At a two-day U.N. Security Council meeting on the topic that ended Friday, Sima Bahous, head of the U.N. agency promoting gender equality known as UN Women, also pointed to a lack of attention to women's voices in the search for peace. 
+
+
+She cited the fears of millions of women and girls in Afghanistan deprived of an education and a future; of displaced women in Gaza "waiting for death"; of women in Sudan who are victims of sexual violence; and of the vanishing hopes of women in Myanmar, Haiti, Congo, the Sahel region of Africa, South Sudan, Syria, Ukraine, Yemen and elsewhere. 
+
+
+Bahous said the 612 million women and girls affected by war "wonder if the world has already forgotten them, if they have fallen from the agenda of an international community overwhelmed by crises of ever deeper frequency, severity and urgency." 
+
+
+The world needs to answer their fears with hope, she said, but the reality is grim: "One in two women and girls in conflict-affected settings are facing moderate to severe food insecurity, 61% of all maternal mortality is concentrated in 35 conflict-affected countries." 
+
+
+As for women's participation in decision-making and politics in countries in conflict, Bahous said it's stalled. 
+
+
+"The percentage of women in peace negotiations has not improved over the last decade: under 10% on average in all processes, and under 20% in processes led or supported by the United Nations," she said. 
+
+
+U.N. Deputy Secretary-General Amina Mohammed announced the launch of a "Common Pledge on Women's Participation in Peace Processes," and urged governments, regional organizations and others involved in mediation to join the U.N. in taking concrete steps toward that end. The commitments include appointing women as lead mediators and team members, promoting direct and meaningful participation of women in peace processes, consulting women leaders at all stages and embedding women with expertise "to foster gender-responsive peace processes and agreements," she said. 
+
+
+Many U.N. ambassadors who spoke at the council meeting focused on the lack of "political will" to promote women in the peace process. 
+
+
+"We've seen how the lack of political will continues to stand in the way of the full implementation of the commitments entered into by member states," Panama's U.N. Ambassador Eloy Alfaro de Alba said Friday. 
+
+<br> 
+
+<https://www.voanews.com/a/war-affects-more-than-600-million-women-and-girls-un-says-/7840423.html>
+
+---
+
+## Vietnamese Americans in California turn to politics to address local, national concerns
+
+date: 2024-10-26, from: VOA News USA
+
+The Little Saigon district in California's Orange County is home to a large concentration of Vietnamese people. In hopes of engaging these voters, candidates for public office are putting up signs and holding events. VOA’s Long Nguyen reports, Elizabeth Cherneff narrates. Camera: Vu Nguyen. 
+
+<br> 
+
+<https://www.voanews.com/a/vietnamese-americans-in-california-turn-to-politics-to-address-local-national-concerns/7840384.html>
+
+---
+
+## Major Vatican meeting sidelines talks of women priests, deacons
+
+date: 2024-10-26, from: VOA News USA
+
+Rome — A major Vatican meeting gathering clerics and laity across the globe to discuss the future of the Catholic Church closes this weekend, thwarting discussion of women becoming priests or deacons in the world’s largest Christian denomination.
+
+
+But that didn’t stop a half-dozen Catholic women from “ordination” in a secret ceremony in Rome that was not authorized by the Vatican.
+
+
+Jesuit Father Allan Deck, a professor at the Los Angeles-based Loyola Marymount University, told VOA that the Catholic Church under Pope Francis’ leadership recognizes the need for adaptability to realize its spiritual mission in the world at this time of significant change.
+
+
+“Not the first time that the church in its 2,000-year history has experienced very significant shifts,” he said. “The church, in order to accomplish its mission, has to engage people, circumstances and times. And it has to be capable of development, while at the same time remaining faithful to its mission and to the revelation that has been communicated to it. This is hard. This is what’s happening.”
+
+
+While Catholic women participated over the past month in what many consider the most significant Catholic gathering since the 1960s — called the “synod on synodality” — many of their number were let down by a Vatican decision to sideline talk of the ordination of female priests or deacons, instead referring the matter to a future study group.
+
+
+Bridget Mary Meehan, an American co-founder of the Association of Roman Catholic Women Priests, told VOA that her organization has performed 270 ordinations of women in 14 countries since its creation in 2002.
+
+
+“We wanted to share with Pope Francis that it is time to build a bridge between the international women priests’ movement and the Vatican,” she said. “We are on the same page as he is about a synodal church. We believe all are called, all are equal and all are co-responsible for the mission of the church — to be the face of Christ in the world in loving and compassionate service. One of these ways is ordained ministry.”
+
+
+Advocates say women play a huge role in daily Catholic ministries — also called the diakonia — in education, pastoral care and hospitals worldwide. In some places, women are especially active because there are no priests, such as in the Amazon. But often their leadership is not recognized.
+
+
+Meehan “ordained” six Catholic women from France, Spain and the United States on a barge on Rome’s Tiber River earlier this month to acknowledge their central role in ministry around the world.
+
+
+“We did it because we felt that it’s time for us, after 22 years of serving the church in the diakonia ministry, to really share the good news that women are being ordained by Catholic communities who want to call them forward to ministry among them,” Meehan said.
+
+
+“It’s like a renewal of ministry that is already in the midst of the Catholic Church. It’s already occurring,” she said.
+
+
+Although Pope Francis has appointed more women to top jobs at the Vatican than any of his predecessors, he has ruled out female priests or deacons ministering in the Catholic Church. 
+
+<br> 
+
+<https://www.voanews.com/a/major-vatican-meeting-sidelines-talks-of-women-priests-deacons/7840263.html>
+
+---
+
+##  LEVER TIME PREMIUM: Did Elon Musk Just Buy The Presidency? 
+
+date: 2024-10-26, from: The Lever News
+
+ David Sirota and Arjun Singh speak with journalist Jacob Silverman about how the world’s richest person is buying the 2024 election.  
+
+<br> 
+
+<https://www.levernews.com/lever-time-premium-did-elon-musk-just-buy-the-presidency/>
+
+---
+
+##  YOU LOVE TO SEE IT: Clicking Cancel On Deceptive Businesses 
+
+date: 2024-10-26, from: The Lever News
+
+ Canceling your subscriptions just got easier, a carbon emission rule gets approved for takeoff, Biden wants to make birth control free, and pipeline plans get punctured.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-clicking-cancel-on-deceptive-businesses/>
+
+---
+
+## Kiribati president secures 3rd term as China, US vie for Pacific leverage
+
+date: 2024-10-26, from: VOA News USA
+
+TAIPEI, TAIWAN — Kiribati President Taneti Maamau, who has led the Pacific Island nation to build closer ties with China in recent years, secured his third term in office on Saturday. He defeated two other candidates in an election closely monitored by countries around the world.
+
+
+Maamau won about 55% of the vote, while his nearest challenger, Kaotitaaake Kokoria, won 42% of the vote, New Zealand’s High Commissioner in Kiribati said. Kiribati’s chief justice, Tetiro Semilota, declared Maamau the winner and congratulated him.
+
+
+New Zealand Prime Minister Christopher Luxon became the first international leader to congratulate Maamau for his victory on Saturday. “We look forward to working with the Government of Kiribati to deliver on our shared priorities,” he wrote in a post on social media platform X.
+
+
+Kiribati is one of the countries that relies heavily on foreign aid. The cost of living, rising sea level and relations with China were the main issues leading up to Friday’s presidential election.
+
+
+Saturday’s outcome is viewed as the Kiribati voters’ endorsement of policies Maamau’s government has implemented over the last four years, including deepening the Pacific Island nation’s ties with China.
+
+
+During the parliamentary election in August, the ruling Tobwaan Kiribati Party, or TKP, secured 33 out of 44 seats in the new parliament, and Maamau won his seat by winning close to 83% of the votes in his district.
+
+
+
+
+“The TKP has a very healthy majority [in the parliament], and it sort of shows that the people of Kiribati want to see more of what has been happening [over the last few years],” said Henryk Szadziewski, an expert on Pacific-China relations at the University of Hawaii at Manoa.
+
+
+Since switching diplomatic recognition from Taiwan to China in 2019, Kiribati has deepened its engagement with Beijing. The Maamau administration’s efforts to elevate security ties with the Chinese government have prompted concerns from partners such as Australia and the United States.
+
+
+In 2021, China helped Kiribati revamp a World War II-era airstrip on the island of Kanton, which is less than 3,000 kilometers from Hawaii and Kwajalein Atoll in the Marshall Islands, where major U.S. military bases are located.
+
+
+In February, Kiribati’s acting police commissioner, Eeri Aritiera, revealed that Chinese police would help Kiribati’s community policing program and IT department, raising concerns from the U.S. that the cooperation could negatively impact Kiribati’s sovereignty.
+
+
+
+
+Some analysts say since China has ambitions to deepen its economic and security reach in the Pacific region, Australia and the United States are very concerned about any advancement in security relations between Beijing and Pacific Island countries.
+
+
+“It’s unclear how the policing arrangement with Kiribati will evolve in Maamou’s next term, but it’s unlikely that Chinese engagement will cease or decrease,” said Meg Keen, a senior fellow at Lowy Institute in Australia.
+
+
+Despite these concerns, Szadziewski said Kiribati’s efforts to build closer ties with China shouldn’t be viewed through a pure zero-sum lens. “The Kiribati economy is heavily reliant on tourism and fishing, and China has stepped up with infrastructure projects in that respect,” he told VOA by phone.
+
+
+But China’s engagement with Kiribati hasn’t been “all benevolence,” Szadziewski said. “Kiribati has opened up its maritime domain for increased Chinese fishing, so there is something in it for China that’s economic,” he said.
+
+
+During a reception celebrating the fifth anniversary of the restoration of diplomatic ties between China and Kiribati, the Chinese ambassador to Kiribati, Zhou Limin, said the relationship has further consolidated and vowed to strengthen synergy between the two countries in the future.
+
+
+Under Maamau’s third term, Keen in Australia said, Kiribati will likely maintain its close relationship with China while also trying to seek assistance from other countries, such as Australia, to help improve the country’s infrastructure and climate resilience.
+
+
+“There’s no indication that the relationship with China will change under another term for Maamau, and he will be seeking a strong legacy in his final term by working with any development partner that can assist with his ambitious development goals,” Keen told VOA in a written response.
+
+
+She added that most Pacific leaders don’t view maintaining relations with China or other democratic countries such as Australia as “an either/or choice.”
+
+
+In response to China’s elevated relations with Kiribati, Australia and the United States have also stepped up efforts to deepen ties with the Pacific Islands nation.
+
+
+In 2023, Australian Foreign Minister Penny Wong announced that Canberra would “rapidly scale up” security and development with Kiribati during her visit to the country. In February, the U.S. Coast Guard conducted joint patrols with Kiribati in the country’s exclusive economic zone.
+
+
+Despite these efforts, Szadziewski at the University of Hawaii said it’s important for democratic countries to understand the priorities of Pacific Island countries and try to engage with them on “equal footing.”
+
+
+“Pacific Island states have heightened sensitivity about sovereignty, so they prefer to see exchanges with other states on an equal footing,” he told VOA, adding that democratic countries should ensure the priority of their engagement with Pacific Island countries is not solely about geopolitics.
+
+
+“If China is your main concern and why you are in the region, that’s not going to be something of interest to the Pacific Island leaders,” Szadziewski said.
+
+
+In addition to the presidential election in Kiribati, Palau is going to hold a general election on November 5, with the current president, Surangel Whipps Jr., running against former president Tommy Remengesau Jr. in a race that analysts say Beijing will be closely following.
+
+
+
+
+Experts say competition for geopolitical influence between China and the U.S. as well as its allies will intensify as countries try to engage with winners emerging from these important elections in the Pacific region.
+
+
+“Election periods will always heighten activities, and competition [between these countries] is only going to get more intense over the next couple of years,” Blake Johnson, a senior analyst at the Australian Strategic Policy Institute, told VOA by phone. 
+
+<br> 
+
+<https://www.voanews.com/a/kiribati-president-secures-3rd-term-as-china-us-vie-for-pacific-leverage/7840112.html>
+
+---
+
+## US Navy will apologize for 1882 obliteration of Tlingit village in Alaska
+
+date: 2024-10-26, from: VOA News USA
+
+Shells fell on the Alaska Native village as winter approached, and then sailors landed and burned what was left of homes, food caches and canoes. Conditions grew so dire in the following months that elders sacrificed their own lives to spare food for surviving children.
+
+
+It was Oct. 26, 1882, in Angoon, a Tlingit village of about 420 people in the southeastern Alaska panhandle. Now, 142 years later, the perpetrator of the bombardment — the U.S. Navy — is set to say it is sorry.
+
+
+Rear Adm. Mark Sucato, the commander of the Navy's northwest region, will issue the apology during a ceremony on Saturday, the anniversary of the atrocity. While the rebuilt Angoon received $90,000 in a settlement with the Department of Interior in 1973, village leaders have for decades sought an apology as well, beginning each yearly remembrance by asking three times, "Is there anyone here from the Navy to apologize?"
+
+
+"You can imagine the generations of people that have died since 1882 that have wondered what had happened, why it happened, and wanted an apology of some sort, because in our minds, we didn't do anything wrong," said Daniel Johnson Jr., a tribal head in Angoon.
+
+
+The attack was one of a series of conflicts between the American military and Alaska Natives in the years after the U.S. bought the territory from Russia in 1867. The U.S. Navy issued an apology last month for destroying the nearby village of Kake in 1869, and the Army has indicated that it plans to apologize for shelling Wrangell, also in southeast Alaska, that year, though no date has been set.
+
+
+The Navy acknowledges the actions it undertook or ordered in Angoon and Kake caused deaths, a loss of resources and multigenerational trauma, Navy civilian spokesperson Julianne Leinenveber said in an email.
+
+
+"An apology is not only warranted, but long overdue," she said.
+
+
+Today, Angoon remains a quaint village of about 420 people, with colorful old homes and totem poles clustered on the west side of Admiralty Island, accessible by ferry or float plane, in the Tongass National Forest, the nation's largest. The residents are vastly outnumbered by brown bears, and the village in recent years has strived to foster its ecotourism industry. Bald eagles and humpback whales abound, and the salmon and halibut fishing is excellent.
+
+
+Accounts vary as to what prompted its destruction, but they generally begin with the accidental death of a Tlingit shaman, Tith Klane. Klane was killed when a harpoon gun exploded on a whaling ship owned by his employer, the North West Trading Co.
+
+
+The Navy's version says tribal members forced the vessel to shore, possibly took hostages and, in accordance with their customs, demanded 200 blankets in compensation.
+
+
+The company declined to provide the blankets and ordered the Tlingits to return to work. Instead, in sorrow, they painted their faces with coal tar and tallow — something the company's employees took as a precursor to an insurrection. The company's superintendent then sought help from Naval Cmdr. E.C. Merriman, the top U.S. official in Alaska, saying a Tlingit uprising threatened the lives and property of white residents.
+
+
+The Tlingit version contends the boat's crew, which included Tlingit members, likely remained with the vessel out of respect, planning to attend the funeral, and that no hostages were taken. Johnson said the tribe never would have demanded compensation so soon after the death.
+
+
+Merriman arrived on Oct. 25 and insisted the tribe provide 400 blankets by noon the next day as punishment for disobedience. When the Tlingits turned over just 81, Merriman attacked, destroying 12 clan houses, smaller homes, canoes and the village's food stores.
+
+
+Six children died in the attack, and "there's untold numbers of elderly and infants who died that winter of both cold, exposure and hunger," Johnson said.
+
+
+Billy Jones, Tith Klane's nephew, was 13 when Angoon was destroyed. Around 1950, he recorded two interviews, and his account was later included in a booklet prepared for the 100th anniversary of the bombing in 1982.
+
+
+"They left us homeless on the beach," Jones said.
+
+
+Rosita Worl, the president of Sealaska Heritage Institute in Juneau, described how some elders that winter "walked into the forest" — meaning they died, sacrificing themselves so the younger people would have more food.
+
+
+Even though the Navy's written history conflicts with the Tlingit oral tradition, the Navy defers to the tribe's account "out of respect for the long-lasting impacts these tragic incidents had on the affected clans," said Leinenveber, the Navy spokesperson.
+
+
+Tlingit leaders were so stunned when Navy officials told them, during a Zoom call in May, that the apology would finally be forthcoming that no one spoke for five minutes, Johnson said.
+
+
+Eunice James, of Juneau, a descendant of Tith Klane, said she hopes the apology helps her family and the entire community heal. She expects his presence at the ceremony.
+
+
+"Not only his spirit will be there, but the spirit of many of our ancestors, because we've lost so many," she said. 
+
+<br> 
+
+<https://www.voanews.com/a/us-navy-will-apologize-for-the-1882-obliteration-of-a-tlingit-village-in-alaska/7840082.html>
+
+---
+
+## In suburban Miami, Kmart's last 'Blue Light Specials' flicker
+
+date: 2024-10-26, from: VOA News USA
+
+MIAMI, FLORIDA — The last Kmart on the U.S. mainland sits at the west end of a busy suburban Miami shopping center, quiet and largely ignored.
+
+
+All around it are thriving chain stores attracting steady streams of customers in sectors where the former box-store chain was once a major player: Marshalls, Hobby Lobby, PetSmart and Dollar Tree.
+
+
+But at this all-but-last outpost of a company once famed for its “Blue Light Specials," only an occasional shopper pops in, mostly out of curiosity or nostalgia, then leaves after buying little or nothing.
+
+
+"I hadn’t seen Kmart in so long,” said Juan de la Madriz, who came to the shopping center on a recent weekday to buy dog food at PetSmart. The architect spotted the Kmart and wondered if he could find a gift for his newborn grandson. He exited 10 minutes later having spent $23 on a stuffed dog and a wooden toy workbench.
+
+
+“It will be sad if it closes,” he said about the store, “but everything now is on computers.”
+
+
+
+
+The last full-size Kmart in the 50 states closed Sunday in Long Island, New York, making the Miami store — now a fraction of its former size — the last operating in the continental United States. At its peak 30 years ago, Kmart operated about 2,500 locations. Today, four others remain: three in the U.S. Virgin Islands and one in Guam. There is also a website.
+
+
+Transformco, the Illinois-based holding company that owns Kmart and what’s left of another former retail behemoth, Sears, did not respond to email requests for comment or allow the store manager to speak. The company's plans for the Miami location are unknown — but there is no indication it will close soon.
+
+
+The last outpost
+
+
+If the Miami Kmart were a brand-new mom-and-pop retailer, a shopper might think it could eventually thrive with advertising and a little luck. Kmart long had a reputation for clutter and mess, but this store is immaculate, and the merchandise is precisely stacked and displayed.
+
+
+The size of a CVS or Walgreens drug store, the branch occupies what was its garden section during its big-box days. A couple years ago, an At Home department store took over the rest of the space.
+
+
+“Get it all! Must Haves. Wish Fors. Friendly Faces,” the sign next to the door reads.
+
+
+Halloween and Christmas decorations line the entryway, next to the 30 shopping carts that no one is using. A robotic voice says “Welcome,” as does a cheery employee, one of three spotted in the store. A lone customer checks out the Halloween candy.
+
+
+Straight ahead are a few dishwashers, refrigerators, washing machines and dryers: the appliance department. In the store’s main room, there is a large section of toiletries and diapers, a few hardware essentials and some cleaning and pet supplies. The toy department comprises a couple rows of dolls, action figures, games and squirt guns. Sun dresses, summer tops and sweatshirts make up the small clothing section. Oh, and there are snacks.
+
+
+Also still present: a recorded voice intoning a once-familiar message over a loudspeaker.
+
+
+“Attention Kmart shoppers,” it says, announcing that almost all items are on sale.
+
+
+If there were only customers to hear it, like there used to be.
+
+
+A fast rise and a slow death
+
+
+Kmart was founded by the retailer S.S. Kresge Company in Michigan in 1962 and grew quickly, reaching 2,000 stores in 20 years. The company sold almost everything, from clothing to jewelry, TVs to dog food, appliances to toys to sporting goods. By the mid-1980s, it was the nation's second-largest retailer behind Sears, and there were stores in Canada, Australia and New Zealand.
+
+
+
+
+The roots of Kmart's decline were laid during that decade when management bought Waldenbooks, Borders Books, Builders Square, Sports Authority and a stake in OfficeMax, thinking the company needed diversification. They were wrong. By the late 1990s, the company had sold those retailers yet still needed $5 billion in refinancing — the equivalent of $9 billion today.
+
+
+In 2002, Kmart declared bankruptcy as Walmart and Target devoured its market share. Its website never took off, allowing Amazon to beat it in the e-commerce space. There were executive pay scandals, a purchase by a hedge fund manager who stripped it bare and a disastrous 2005 acquisition of Sears.
+
+
+Mark Cohen, a former Sears Canada CEO and former director of retail studies at Columbia University’s graduate school of business, said Kmart would have thrived if not for the top executives who ran it into the ground. It could have been Walmart.
+
+
+“It sold in its heyday things that people continue to buy in large quantities today,” Cohen said. “Kmart went down the drain because it was led by incompetent managers.”
+
+
+Transformco bought Kmart and Sears out of another bankruptcy in 2019 for $5 billion — its critics say mostly for the stores' real estate. There were 202 Kmarts remaining.
+
+
+Over the past five years, the firm has kept closing Kmarts until all that's left in the states is Miami Store #3074.
+
+
+Nostalgia does not translate into sales
+
+
+On the day that de la Madriz dropped in to buy his grandson's gift, only a few customers trickled in and out of the store every hour.
+
+
+
+
+College students Joey Fernandez and Wilfredo Huayhua spent five minutes inside before leaving empty-handed. They knew about the chain’s near-demise, spotted the store while in the shopping center and went in to reminisce. It seemed small, they said, compared to the Kmarts they remembered.
+
+
+“We were bummed out — I spent a lot of my childhood at Kmart,” said Fernandez, 18. Still, he might be back — the store has good prices on the facial cleanser he uses.
+
+
+Teacher Oliver Sequin had been entering Marshalls when he spotted the Kmart. That, too, triggered nostalgia but also reminded him he needed Band-Aids for his 5-year-old son. That was all he purchased.
+
+
+“I remember when Kmarts were bigger,” Sequin said. “But, to be honest, I like this one better. It is clean and organized, not like they were.” 
+
+<br> 
+
+<https://www.voanews.com/a/in-suburban-miami-kmart-s-last-blue-light-specials-flicker/7838991.html>
+
+---
+
+## US missile agency scales back Guam defense plans
+
+date: 2024-10-26, from: VOA News USA
+
+A proposed multibillion-dollar missile defense system for Guam has been reduced to 16 sites on the island from the original 22, the U.S. Missile Defense Agency said in a draft environmental impact statement on Friday.
+
+
+The project is designed to create "360 degree" protection for the U.S. Pacific territory from missile and air attacks of all kinds, the agency said. Plans include integrating Raytheon's SM-6, SM-3 Block IIA, Lockheed Martin's  THAAD, and the Patriot PAC-3, which uses components from both companies, over about 10 years.
+
+
+The environmental impact study, which began last year and included a public comment period this year, proposes "deploying and operating and maintaining a combination of integrated components for air and missile defense positioned on 16 sites" on the island. The report does not say why the number of sites was reduced.
+
+
+All of the remaining 16 sites are on U.S. military property.
+
+
+The project is crucial to the U.S. and its Indo-Pacific allies because it provides a logistical hub far from U.S. shores - Guam is closer to China than it is to Hawaii.
+
+
+China's massive conventional ballistic missile inventory includes the DF-26, with an estimated range of about 4,000 km (2,500 miles), which can also carry anti-ship and nuclear warheads. Newer weapons in development, such as the hypersonic glide vehicle DF-27, are drawing increased attention from U.S. military planners.
+
+
+"It’s a forward operating base for long-range bombers, and a port for ships, so that navy ships can sally forth from there," said Peter Layton, a defense and aviation expert at the Griffith Asia Institute in Australia. "Certainly places in Japan and the Philippines are a lot closer (to China)... but a lot more exposed."
+
+
+There will be public meetings in Guam next month to discuss Friday's report, the agency statement said. 
+
+<br> 
+
+<https://www.voanews.com/a/us-missile-agency-scales-back-guam-defense-plans/7840058.html>
+
+---
+
+## Make Me Smart: Live in Boston
+
+date: 2024-10-26, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p>Kai and Kimberly host our weekly happy hour episode, &#8220;Economics on Tap,&#8221; live from the stage of WBUR CitySpace in Boston. We&#8217;ll dive into the biggest headlines making waves this week while sipping on our favorite drinks. Plus, Drew joins the stage to host a round of our favorite game, Half Full/Half Empty!</p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>Here&#8217;s everything we talked about today:</p>
+<p><!-- /wp:paragraph --></p>
+<ul>
+<li><a href="https://www.npr.org/2024/10/25/nx-s1-5165353/washington-post-presidential-endorsement-trump-harris" target="_blank" rel="noreferrer noopener">&#8220;&#8216;Washington Post&#8217; won&#8217;t endorse in White House race for first time since 1980s&#8221;</a> from NPR</li>
+<li><a href="https://www.reuters.com/world/europe/europe-seeks-underpin-russia-sanctions-fearing-trump-overhaul-2024-10-25/" target="_blank" rel="noreferrer noopener">&#8220;Exclusive: Europe seeks to underpin Russia sanctions, fearing Trump overhaul&#8221;</a> from Reuters</li>
+<li><a href="https://www.cnbc.com/2024/10/25/german-finance-minister-warns-of-retaliation-if-us-kicks-off-trade-war.html" target="_blank" rel="noreferrer noopener">&#8220;German finance minister warns of retaliation if U.S. kicks off trade war&#8221;</a> from CNBC</li>
+<li><a href="https://www.nytimes.com/2024/10/23/business/american-airlines-line-cutters.html?campaign_id=4&amp;emc=edit_dk_20241024&amp;instance_id=137694&amp;nl=dealbook&amp;regi_id=97141204&amp;segment_id=181254&amp;user_id=c40c185416d07dcc0854c69c920ca4a1" target="_blank" rel="noreferrer noopener">&#8220;American Airlines Cracks Down on ‘Gate Lice’ With New Boarding System&#8221;</a> from The New York Times</li>
+<li><a href="https://www.axiomspace.com/release/prada-axiom-suit" target="_blank" rel="noreferrer noopener">&#8220;Axiom Space, Prada Unveil Spacesuit Design for Moon Return&#8221;</a> from Axiom Space</li>
+<li><a href="https://www.cnn.com/2024/10/25/sport/dodgers-yankees-world-series-history-chart-dg/index.html" target="_blank" rel="noreferrer noopener">&#8220;Every Yankees vs. Dodgers World Series matchup in two charts&#8221;</a> from CNN</li>
+<li><a href="https://www.wbur.org/news/2024/10/25/salem-massachusetts-halloween-tourism-visitors" target="_blank" rel="noreferrer noopener">&#8220;Salem Mayor predicts another record-breaking year of Halloween tourism&#8221;</a> from WBUR News</li>
+<li><a href="https://x.com/badgerstew/status/1849607185245811070?s=10" target="_blank" rel="noreferrer noopener">Tweet</a> from Tyler Perry at a Harris campaign rally</li>
+<li><a href="https://www.wbur.org/radioboston/2024/10/23/boston-halloween-costume-ideas-pommel-horse-mbta-cool-dog-silhouette" target="_blank" rel="noreferrer noopener">&#8220;Last-minute Boston-themed Halloween costumes&#8221;</a> from WBUR</li>
+</ul>
+<p>We can&#8217;t do this show without you. Send us your questions, comments or wild suggestions at makemesmart@marketplace.org or leave a voicemail at 508-U-B-SMART!</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/25/mms_20241025_MMS_Live_Boston_128.mp3?awEpisodeId=https://www.marketplace.org/shows/make-me-smart/make-me-smart-live-in-boston&awCollectionId=mkp-MMsmrt&awGenre=%5B"Talk","News","Business"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/make-me-smart"></source>
+</audio> <a href="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/10/25/mms_20241025_MMS_Live_Boston_128.mp3?awEpisodeId=https://www.marketplace.org/shows/make-me-smart/make-me-smart-live-in-boston&awCollectionId=mkp-MMsmrt&awGenre=%5B\"Talk\",\"News\",\"Business\"%5D&aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/make-me-smart" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/make-me-smart-live-in-boston>
+
+---
+
+## US election key to Latin American economies, says credit rating agency
+
+date: 2024-10-26, from: VOA News USA
+
+Mexico city — The fate of Latin American economies, deeply reliant on remittances from the United States, hangs in the balance with the upcoming U.S. presidential elections, Fitch Ratings said on Friday.
+
+
+Why it's important
+
+
+The potential disparity in immigration policies between the Republican and Democratic administrations could significantly affect Central American nations, which are heavily dependent on remittances from the U.S.
+
+
+Key comment
+
+
+"Central America is highly vulnerable to U.S. immigration policies, as remittances fund a large component of their economic activity," said Fitch, a U.S.-based credit rating agency.
+
+
+In countries like El Salvador and Nicaragua, remittances currently account for more than 30% of their gross domestic product, the ratings agency said, adding that Mexico is also one of the largest recipients of remittances globally, where inflows have steadily increased over the past decade to close to 3.5% of GDP, from 2%.
+
+
+By the numbers
+
+
+Remittances to Nicaragua have tripled in the past five years, while those to other countries, specifically El Salvador and Jamaica, have considerably slowed.
+
+
+A study based on data from the U.S. Current Population Survey showed that a 1% increase in the country's household earnings results in a 0.2% to 0.3% increase in remittances sent abroad.
+
+
+Context
+
+
+The U.S. elections could usher in changes in immigration policies, with Donald Trump's campaign showing a willingness to restrict border crossings and increase deportations, while the potential Kamala Harris administration would aim to pass a bipartisan law to reform the asylum process and limit immigration parole.
+
+
+Policy changes could significantly affect migrants and the Central American economies that are heavily dependent on the money they send back home from the United States. 
+
+<br> 
+
+<https://www.voanews.com/a/us-election-key-to-latin-american-economies-says-credit-rating-agency/7839694.html>
+
+---
+
+## NASA astronaut hospitalized upon return from extended stay in space
+
+date: 2024-10-26, from: VOA News USA
+
+CAPE CANAVERAL, Florida — A NASA astronaut was taken to the hospital for an undisclosed medical issue after returning from a nearly eight-month space station stay extended by Boeing's capsule trouble and Hurricane Milton, the space agency said Friday.
+
+
+A SpaceX capsule carrying three Americans and one Russian parachuted before dawn into the Gulf of Mexico just off the Florida coast after undocking from the International Space Station at midweek. The capsule was hoisted onto the recovery ship where the four astronauts had routine medical checks.
+
+
+Soon after splashdown, a NASA astronaut had a "medical issue" and the crew was flown to a hospital in Pensacola, Florida, for additional evaluation "out of an abundance of caution," the space agency said in a statement.
+
+
+The astronaut, who was not identified, was in stable condition and remained at the hospital as a "precautionary measure," NASA said.
+
+
+The space agency said it would not share details about the astronaut's condition, citing patient privacy.
+
+
+The other three astronauts were discharged and returned to NASA's Johnson Space Center in Houston.
+
+
+
+
+It can take days or even weeks for astronauts to readjust to gravity after living in weightlessness for several months.
+
+
+The astronauts should have been back two months ago. But their homecoming was stalled by problems with Boeing's new Starliner astronaut capsule, which came back empty in September because of safety concerns. Then Hurricane Milton interfered, followed by another two weeks of high wind and rough seas.
+
+
+SpaceX launched the four — NASA's Matthew Dominick, Michael Barratt and Jeanette Epps, and Russia's Alexander Grebenkin — in March. Barratt, the only space veteran going into the mission, acknowledged the support teams back home that had "to replan, retool and kind of redo everything right along with us ... and helped us to roll with all those punches."
+
+
+Their replacements are the two Starliner test pilots Butch Wilmore and Suni Williams, whose own mission went from eight days to eight months, and two astronauts launched by SpaceX four weeks ago. Those four will remain up there until February.
+
+
+The space station is now back to its normal crew size of seven — four Americans and three Russians — after months of overflow. 
+
+<br> 
+
+<https://www.voanews.com/a/nasa-astronaut-remains-in-the-hospital-after-returning-from-an-extended-stay-in-space/7839720.html>
 

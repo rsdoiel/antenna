@@ -1,11 +1,75 @@
 ---
 title: journalism
-updated: 2024-11-01 10:26:13
+updated: 2024-11-02 08:50:57
 ---
 
 # journalism
 
-(date: 2024-11-01 10:26:13)
+(date: 2024-11-02 08:50:57)
+
+---
+
+## Election 2024: Young voters might have big impacts
+
+date: 2024-11-01, from: The Round Up (Pierce College Student Newspaper)
+
+<p>As election season enters the final stretch, presidential candidates are courting the youth vote, which could have a major impact on the outcome of the</p>
+<p>The post <a href="https://theroundupnews.com/2024/11/01/election-2024-young-voters-might-have-big-impacts/">Election 2024: Young voters might have big impacts</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2024/11/01/election-2024-young-voters-might-have-big-impacts/?utm_source=rss&utm_medium=rss&utm_campaign=election-2024-young-voters-might-have-big-impacts>
+
+---
+
+## Getting political on the Pierce campus
+
+date: 2024-11-01, from: The Round Up (Pierce College Student Newspaper)
+
+<p>With election day looming, some Pierce College professors and students talk politics in class — while others say it’s best to keep political discussions out</p>
+<p>The post <a href="https://theroundupnews.com/2024/11/01/getting-political-on-the-pierce-campus/">Getting political on the Pierce campus</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2024/11/01/getting-political-on-the-pierce-campus/?utm_source=rss&utm_medium=rss&utm_campaign=getting-political-on-the-pierce-campus>
+
+---
+
+## BSU holds candlelight vigil for Marcellus Williams
+
+date: 2024-11-01, from: The Sundail (CSUN Student Newspaper)
+
+Despite the sun starting to set earlier in the evening and the weather growing colder, CSUN’s Black Student Union (BSU) set up a Candlelight Ceremony for Marcellus Williams with enough... 
+
+<br> 
+
+<https://sundial.csun.edu/187137/arts-entertainment/bsu-holds-candlelight-vigil-for-marcellus-williams/>
+
+---
+
+## This Week: November 1
+
+date: 2024-11-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+In this episode of “This Week”, podcast contributor Izzy Greig and correspondents cover local elections and ballot measures, as well as UCLA’s men’s basketball, men’s and women’s soccer, and men’s water polo. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/01/this-week-november-1/>
+
+---
+
+## UCLA Horrors: Fear of being perceived
+
+date: 2024-11-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2024/11/01/ucla-horrors-fear-of-being-perceived/>
 
 ---
 
@@ -168,6 +232,20 @@ date: 2024-11-01, from: The Daily Trojan (USC Student Newspaper)
 <br> 
 
 <https://dailytrojan.com/2024/11/01/first-time-voters/>
+
+---
+
+## Election Cybersecurity Initiative trains civic leaders to safeguard voting
+
+date: 2024-11-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The initiative based at USC focuses on disinformation and emergency planning.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/01/election-cybersecurity-initiative/">Election Cybersecurity Initiative trains civic leaders to safeguard voting</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/01/election-cybersecurity-initiative/>
 
 ---
 
@@ -1248,4 +1326,40 @@ Proposition 4 would authorize the state to fund $10 billion in bonds for &#8220;
 <br> 
 
 <https://dailybruin.com/2024/10/27/proposition-4-offers-10-billion-in-bonds-for-fire-water-land-protections/>
+
+---
+
+## Faculty senate resolution condemns “overly restrictive” Interim Time, Place, and Manner Policy
+
+date: 2024-10-26, from: The Sundail (CSUN Student Newspaper)
+
+The details of the TPM—including masking bans, curfews for being present on campus, and other matters of assembly that are normally left up to the discretion of the campus administration—are... 
+
+<br> 
+
+<https://sundial.csun.edu/186837/news/faculty-senate-resolution-condemns-overly-restrictive-interim-time-place-and-manner-policy/>
+
+---
+
+## LA4Real series showcases local stories at CSUN
+
+date: 2024-10-26, from: The Sundail (CSUN Student Newspaper)
+
+CSUN’s Cinematheque presents LA4Real, a documentary series showcasing authentic stories from Los Angeles, with weekly screenings from Sept. 15 to Dec. 4. Held Wednesdays at 7 p.m. in the Armer... 
+
+<br> 
+
+<https://sundial.csun.edu/186832/news/la4real-series-showcases-local-stories-at-csun/>
+
+---
+
+## This Week: October 25
+
+date: 2024-10-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+On this episode of This Week, host Jackson Wooton and correspondents cover major campus events, including the Palestine Solidarity sukkah protest, UCLA football&#8217;s first Big 10 win and the opening of the Gramian-Emrani Center for Iranian Music. 
+
+<br> 
+
+<https://dailybruin.com/2024/10/26/this-week-october-25/>
 

@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2024-11-01 10:26:14
+updated: 2024-11-02 08:50:58
 ---
 
 # retro computing
 
-(date: 2024-11-01 10:26:14)
+(date: 2024-11-02 08:50:58)
+
+---
+
+## b.log 2024/11/01 - Toussaint service, Companies are useless, Marte's final days.
+
+date: 2024-11-01, from: Richard Murray's blog
+
+Toussaint service, Companies are useless, Marte's final days. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20241101>
+
+---
+
+## Fedora 41 Released with New Features
+
+date: 2024-11-01, from: Linux Magazine
+
+<p>If you're a Fedora fan or just looking for a Linux distribution to help you migrate from Windows, Fedora 41 might be just the ticket.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Fedora-41-Released-with-New-Features>
 
 ---
 
@@ -310,4 +334,52 @@ The portable Pasopia was the obvious Mini replacement: as powerful as the T100, 
 <br> 
 
 <https://oldvcr.blogspot.com/2024/10/the-unreleased-commodore-hhc-4s-secret.html>
+
+---
+
+## RISC OS London Show Report 2024
+
+date: 2024-10-26, from: Icon Bar, RISC OS News
+
+After a 'bit of a break' , the London Show was back in person at a brand new venue. Doors opened at 11am and there was the usual stands and talks. You can also see all the stands in our pictures and notes on the talks. 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2125.html>
+
+---
+
+## RISC OS London Show 2024 - Notes from the talks
+
+date: 2024-10-26, from: Icon Bar, RISC OS News
+
+Here are my notes from the talks. Any mistakes or omissions are mine. 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2124.html>
+
+---
+
+## RISC OS London Show 2024 - pictures
+
+date: 2024-10-26, from: Icon Bar, RISC OS News
+
+Here is a selection of pictures to show you what the event (and new venue) was like..... 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2123.html>
+
+---
+
+## Free entry into the London Show thanks to RISCOSbits?
+
+date: 2024-10-26, from: RiscOS Story
+
+Well, sort of… A last minute (where last minute means it came last night, but I only saw it this morning. What? I was in the pub!) email has come in from RISCOSbits with more show news: Don’t panic, ROUGOL, we’re not sneaking people in through the back door! To celebrate the first London outing of our FreeNVMe genuinely open source drivers, RISCOSbits are offering to refund customers’ entrance fees, by way of an extra discount on all purchases of NVMe-enabled systems over £99 (excluding the DIY.NVMe kits, which are&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2024/free-entry-london-show-riscosbits/>
 

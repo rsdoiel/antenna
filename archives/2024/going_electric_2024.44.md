@@ -1,11 +1,159 @@
 ---
 title: going electric
-updated: 2024-11-01 10:26:14
+updated: 2024-11-02 08:50:58
 ---
 
 # going electric
 
-(date: 2024-11-01 10:26:14)
+(date: 2024-11-02 08:50:58)
+
+---
+
+## Toyota to buy clean power from a $1.1 billion solar farm in Texas
+
+date: 2024-11-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/solar-panels-unsplash.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Enbridge, a Canadian energy company, just announced it’s moving forward with an 815-megawatt (MW) solar project called Sequoia in Texas. When it’s done, it’ll be one of the largest solar farms in North America. The project’s price tag is a hefty $1.1 billion.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,solar-power,texas,toyota" data-layer-viewtype="unknown" data-post-id="387288" href="https://electrek.co/2024/11/01/toyota-solar-farm-texas/#more-387288" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/01/toyota-solar-farm-texas/>
+
+---
+
+## NIO’s EV sales top 20,000 for the sixth straight month as new low-cost SUV shows promise
+
+date: 2024-11-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/NIOs-Model-Y-electric-SUV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>With its new electric SUV rolling out, <a href="https://electrek.co/guides/nio/">NIO’s</a> (NIO) sales topped the 20,000 mark again in Oct, its sixth straight month hitting the milestone.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nio,nio-onvo" data-layer-viewtype="unknown" data-post-id="387264" href="https://electrek.co/2024/11/01/nios-new-low-cost-suv-pushes-sales-over-20000-again-oct/#more-387264" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/01/nios-new-low-cost-suv-pushes-sales-over-20000-again-oct/>
+
+---
+
+## The US’s largest offshore wind farm is on budget and on time
+
+date: 2024-11-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/10/2048px-Coastal_Virginia_Offshore_Wind_11.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Dominion Energy has hit a major milestone in the construction of its Coastal Virginia Offshore Wind (<a href="https://coastalvawind.com/" target="_blank" rel="noreferrer noopener">CVOW</a>) project. The company has put in place 78 monopile foundations and four offshore substation foundations during the first installation season, surpassing its initial target of 70 monopiles. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,offshore-wind-power,virginia" data-layer-viewtype="unknown" data-post-id="387265" href="https://electrek.co/2024/11/01/us-largest-offshore-wind-farm-is-on-budget-and-on-time/#more-387265" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/01/us-largest-offshore-wind-farm-is-on-budget-and-on-time/>
+
+---
+
+## The Polestar 3 Has Arrived
+
+date: 2024-11-01, from: Inside EVs News
+
+America's first Polestar 3 deliveries are underway. Despite being built in the U.S., it doesn't qualify for the federal tax credit. 
+
+<br> 
+
+<https://insideevs.com/news/739561/polestar-3-deliveries-begin-us/>
+
+---
+
+## Podcast: Tesla self-driving roadmap, Lucid Gravity, F150 Lightning production pause, and more
+
+date: 2024-11-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss an update to Tesla’s self-driving roadmap, Lucid Gravity orders, F150 Lightning production pause, and more</p>
+
+
+
+<p><strong><a href="https://bit.ly/3BSQwSE" target="_blank" rel="noreferrer noopener">Sponsored by ALSET Auto</a>: North America’s leader in paint protection and restyling; offering colored wraps, paint protection, window tint, ceramic coatings and more, <em>exclusively</em> on EVs.</strong></p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Electrek_11-1-24.mp3"></audio></figure>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="387237" href="https://electrek.co/2024/11/01/podcast-tesla-self-driving-roadmap-lucid-gravity-f150-lightning-production-pause-and-more/#more-387237" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/01/podcast-tesla-self-driving-roadmap-lucid-gravity-f150-lightning-production-pause-and-more/>
+
+---
+
+## More Costco members are requesting EVs so it is offering deals on 10 models through the new year
+
+date: 2024-11-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Costco-EV-deals-November.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Despite what many media outlets are saying, EV sales are not down, nor is demand. The <a href="https://electrek.co/guides/costco/">Costco Auto Program</a> has shared similar insights, saying that more and more members are requesting EV models. To support this demand, Costco has significantly expanded its Q4 EV deals from two models to ten, with up to $2,000 in savings through early January, 2025.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="costco" data-layer-viewtype="unknown" data-post-id="387239" href="https://electrek.co/2024/11/01/costco-members-requesting-evs-it-is-offering-deals-through-new-year/#more-387239" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/01/costco-members-requesting-evs-it-is-offering-deals-through-new-year/>
+
+---
+
+## Rivian Declares War On Physical Buttons
+
+date: 2024-11-01, from: Inside EVs News
+
+Rivian sees your future car controlled with your voice, not your fingers. 
+
+<br> 
+
+<https://insideevs.com/news/739537/rivian-software-physical-buttons-anomaly/>
+
+---
+
+## Hyundai IONIQ 5 continues to defy expectations as upgraded 2025 model nears release
+
+date: 2024-11-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Hyundai-IONIQ-5-expectations.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai’s all-electric <a href="https://electrek.co/guides/hyundai-ioniq-5/">IONIQ 5</a> SUV set a new sales record in the US last month, driving the brand to its best-ever October performance. With the upgraded 2025 model just around the corner, Hyundai’s IONIQ 5 continues to exceed expectations.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-5" data-layer-viewtype="unknown" data-post-id="387238" href="https://electrek.co/2024/11/01/hyundai-ioniq-5-defies-expectations-ahead-updated-2025-model/#more-387238" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/01/hyundai-ioniq-5-defies-expectations-ahead-updated-2025-model/>
+
+---
+
+## Black Friday e-bike sales from Lectric, MOD, and Aventon begin – up to $1,300 in savings with bonus deals, more
+
+date: 2024-11-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/main_0cc19470-355d-4476-a175-2337616a8db4.png?w=1200" /></div><p>It’s finally November and you know what that means – more and more Black Friday events! We’ve got three big e-bike brands all dropping savings this morning, led by <a href="https://9to5toys.com/2024/11/01/lectric-black-friday-sale-begins/">Lectric’s Black Friday event</a> that is taking up to $781 off its e-bike bundles, and also giving folks plenty of varying options at extra savings – 25% off accessories, discounted extra battery bundles, and even periodic Deals of the Day too – all starting from <a href="https://9to5toys.com/2024/11/01/lectric-black-friday-sale-begins/">$999</a>. The biggest news though, is <a href="https://9to5toys.com/2024/11/01/mod-black-friday-price-drops/">MOD’s month-long event</a> that has permanently dropped the prices across its e-bike lineup to provide affordable accessibility on top of the Black Friday discounts, with up to $1,300 in total savings starting from <a href="https://9to5toys.com/2024/11/01/mod-black-friday-price-drops/">$1,799</a>. Bringing up the rear is <a href="https://9to5toys.com/2024/11/01/aventon-early-black-friday-pace-500-3-700-savings/">Aventon’s early savings event</a> that offers the Pace 500.3 Cruiser e-bikes with free extra batteries for 120-mile travel at <a href="https://9to5toys.com/2024/11/01/aventon-early-black-friday-pace-500-3-700-savings/">$1,599</a>, among other models. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2024/10/31/tenways-black-friday-sale/">Tenways Black Friday sale</a> and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="387230" href="https://electrek.co/2024/11/01/black-friday-e-bike-sales-begin/#more-387230" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/01/black-friday-e-bike-sales-begin/>
 
 ---
 
@@ -150,6 +298,10 @@ date: 2024-11-01, from: Electrek Feed
 date: 2024-11-01, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time that includes a new e-bike designed to replace golf carts, a five person cargo e-bike from Decathlon, Tenway’s new CGO 600Pro Chain Version, police-edition electric bikes, Bingo wants to take on Gogoro’s battery swap system, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Wheel-E_11-1-24.mp3"></audio></figure>
 
 
 
@@ -1558,4 +1710,60 @@ First-time EV owners face an immediate concern: how, when and where to charge th
 <br> 
 
 <https://insideevs.com/news/738765/locate-ev-charger-charging-station/>
+
+---
+
+## Ford, LG set to move EV battery production from Poland to Michigan
+
+date: 2024-10-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/2024-Ford-Mustang-Mach-E_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Under a new agreement inked between Ford and LG, the companies will move production of EV batteries for the Ford Mustang Mach-E from Poland to its Michigan facility in 2025. This (of course) has <em>everything</em> to do with the IRA and tax credits.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-batteries,ford,lg-energy-solutions" data-layer-viewtype="unknown" data-post-id="386292" href="https://electrek.co/2024/10/26/ford-lg-set-to-move-ev-battery-production-from-poland-to-michigan/#more-386292" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/26/ford-lg-set-to-move-ev-battery-production-from-poland-to-michigan/>
+
+---
+
+## Charge once, refuel for a week with Mercedes-Benz eEconic SAF tanker
+
+date: 2024-10-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/cms-4.jpeg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The new Mercedes-Benz eEconic is a first of its kind all-electric tanker truck helping to reduce emissions at Airbus’ Donauwörth facility by pumping sustainable aviation fuel (SAF) into new Airbus Helicopters.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="airports,commercial-evs,electric-trucks" data-layer-viewtype="unknown" data-post-id="386270" href="https://electrek.co/2024/10/26/charge-once-refuel-for-a-week-with-mercedes-benz-eeconic-saf-tanker/#more-386270" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/10/26/charge-once-refuel-for-a-week-with-mercedes-benz-eeconic-saf-tanker/>
+
+---
+
+## This Rivian R1T Accessory Is A Slide-Out Toolbox For The Gear Tunnel
+
+date: 2024-10-26, from: Inside EVs News
+
+Alternatively, it can be configured as a plain old storage box or a double-drawer setup. 
+
+<br> 
+
+<https://insideevs.com/news/738483/rivian-r1t-slide-out-toolbox-gear-tunnel/>
+
+---
+
+## Would you rather get a Scout EV with or without range-extender?
+
+date: 2024-10-26, from: Electrek Feed
+
+ 
+
+<br> 
+
+<https://electrek.co/poll-post/would-you-rather-get-a-scout-ev-with-or-without-range-extender/>
 

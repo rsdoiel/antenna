@@ -1,11 +1,83 @@
 ---
 title: games
-updated: 2024-11-01 10:26:13
+updated: 2024-11-02 08:50:57
 ---
 
 # games
 
-(date: 2024-11-01 10:26:13)
+(date: 2024-11-02 08:50:57)
+
+---
+
+## The Substance, Joker: Folie à Deux, Netflix’s Time Cut, and every movie new to streaming this week
+
+date: 2024-11-01, updated: 2024-11-01, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. This week, The Substance, the new body-horror thriller from director Coralie Fargeat (Revenge) starring Demi Moore and Margaret Qualley, is available to stream on Mubi U.S. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/469923/new-movies-watch-streaming-the-substance-joker-2-netflix-time-cut>
+
+---
+
+## Sony&#8217;s first OLED gaming monitor is fast, but not the right fit for most gamers
+
+date: 2024-11-01, updated: 2024-11-01, from: Polygon Website
+
+Update: Sony clarified that its one-year warranty covers burn-in. Just as 27-inch 1440p OLED gaming monitors are catching on with more PC gamers thanks to a steady reduction in price, Sony is throwing a curveball with its first OLED monitor, the $1,099.99 InZone M10S. The M10S retains the unparalleled contrast and stellar picture quality that [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/469727/sony-inzone-m10s-oled-pc-ps5-gaming-monitor>
+
+---
+
+## Some awesome games are buy 1, get 1 half-off at Best Buy
+
+date: 2024-11-01, updated: 2024-11-01, from: Polygon Website
+
+Best Buy has just kicked off a buy 1, get 1 half-off sale through Nov. 7 that includes new launches for Xbox, PlayStation, and the Nintendo Switch, including GOTY challengers Warhammer 40,000: Space Marine 2 and Metaphor: ReFantazio. Unlike similar sales that recently wrapped up at Target, you don’t need to be a member of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/sales-guide/472315/best-buy-one-get-half-off-deal-games-metaphor-space-marine>
+
+---
+
+## All Black Ops 6 maps for multiplayer and Zombies
+
+date: 2024-11-01, updated: 2024-11-01, from: Polygon Website
+
+A new Call of Duty game means new multiplayer maps, and Black Ops 6 offers 16 at launch. All entirely new to the franchise, the line-up is a mix of small to medium arenas, which developer Treyarch says are designed to cater to a range of playstyles — from long-range sniping to up-close-and-personal attacks. Elsewhere, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/black-ops-6-guides/470222/maps-list-multiplayer-zombies-all>
+
+---
+
+## How to get Double XP tokens in Black Ops 6
+
+date: 2024-11-01, updated: 2024-11-01, from: Polygon Website
+
+Double XP tokens, a Call of Duty staple to help players level up faster, are harder to source than ever in Black Ops 6. Compared to most games, where there are a variety of in-game ways to unlock tokens, Black Ops 6 mainly relies on external campaigns or giveaways for those all-important accelerated XP gains. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/black-ops-6-guides/470189/double-xp-tokens-promo-promotion-how-to-get>
+
+---
+
+## All companions in Dragon Age: The Veilguard and how to recruit them
+
+date: 2024-11-01, updated: 2024-11-01, from: Polygon Website
+
+Companions are the heart and soul of Dragon Age: The Veilguard. Recruiting these fascinating to your party happens automatically, but maintaining your relationships with each companion takes time and effort. The most important part of that process is completing each companion’s personal quest and spending enough time with them to max out their respective bond [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dragon-age-veilguard-guides/472083/companions-all-list-companion-quests-party-members>
 
 ---
 
@@ -582,4 +654,64 @@ Monster Hunter Wilds’s open beta gives you a chance to play the next major ent
 <br> 
 
 <https://www.polygon.com/monster-hunter-wilds-guide/2023/9/7/469655/open-beta-release-time-access-ps5-xbox-pc>
+
+---
+
+## The Critical Role cast explores big wins and hard decisions on Vox Machina season 3
+
+date: 2024-10-26, updated: 2024-10-26, from: Polygon Website
+
+The third season of the animated series The Legend of Vox Machina is now streaming in full, and the Critical Role role-playing team is ready to talk about it —&#160;without digging into spoilers just yet. At the annual Fantastic Fest film festival in Austin, Texas, Polygon sat down at the table with Legend of Vox [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/critical-role/468625/vox-machina-season-3-recap-cast-interview>
+
+---
+
+## How to get Dynamax Pokémon from Max Battles in Pokémon Go
+
+date: 2024-10-26, updated: 2024-10-26, from: Polygon Website
+
+Dynamax Pokémon are a unique form of Pokémon which dramatically increase their size, allowing them to enter a unique type of encounter: a Max Battle. Debuting in the main games first with Pokémon Sword and Shield’s Galar region, things work a little differently in Pokémon Go, with Dynamax requiring the use of two specific features, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/449273/dynamax-pokemon-get-catch-max-battles>
+
+---
+
+## The best movies leaving Netflix, Prime Video, and Hulu at the end of October 2024
+
+date: 2024-10-26, updated: 2024-10-25, from: Polygon Website
+
+Another month has come and gone, and that means there are quite a few movies that are vanishing from streaming platforms. To make sure you don’t miss any of the excellent movies leaving streaming services this month, we’ve selected a few of our favorites, including some horror movies in honor of Halloween. This month’s selections [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/469609/best-movies-netflix-amazon-hulu-leaving-october-2024>
+
+---
+
+## How to get Gigantamax Pokémon in Pokémon Go
+
+date: 2024-10-26, updated: 2024-10-26, from: Polygon Website
+
+Gigantamax Pokémon are massive, powerful forms of Pokemon in Pokémon Go. Similar to Dynamax Pokémon, which also debuted in the main games as part of Pokémon Sword and Shield’s Galar region, Gigantamax Pokémon are encountered in Max Battles. But while Dynamax forms only increase a Pokémon&#8217;s size, the more powerful Gigantamax transformation also changes their [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/467353/gigantamax-pokemon-get-catch>
+
+---
+
+## Best XM4 loadout and class build setup in Black Ops 6
+
+date: 2024-10-26, updated: 2024-10-26, from: Polygon Website
+
+Putting together the best XM4 loadout in Black Ops 6 should be your first port of call if you want a weapon to dominate with while you rank up through the early levels. As is the case with practically every Call of Duty multiplayer, the jack-of-all-trades assault rifle is one of the first guns you [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/black-ops-6-guides/470831/best-xm4-loadout-class-build-setup-bo6>
 
