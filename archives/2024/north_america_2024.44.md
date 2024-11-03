@@ -1,11 +1,11 @@
 ---
 title: north america
-updated: 2024-11-02 08:50:55
+updated: 2024-11-02 18:00:57
 ---
 
 # north america
 
-(date: 2024-11-02 08:50:55)
+(date: 2024-11-02 18:00:57)
 
 ---
 

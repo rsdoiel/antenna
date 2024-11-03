@@ -1,11 +1,11 @@
 ---
 title: columns
-updated: 2024-11-02 08:50:56
+updated: 2024-11-02 18:00:58
 ---
 
 # columns
 
-(date: 2024-11-02 08:50:56)
+(date: 2024-11-02 18:00:58)
 
 ---
 
@@ -4616,7 +4616,9 @@ date: 2024-10-26, from: Robert Reich's blog
 
 With Heather Lofthouse and Yours Truly, Robert Reich 
 
-<br> 
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/150736355/855a22bb33a118526984ca6ceb11539e.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/150736355/855a22bb33a118526984ca6ceb11539e.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://robertreich.substack.com/p/how-to-survive-the-next-9-days-the>
 

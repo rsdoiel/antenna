@@ -1,11 +1,11 @@
 ---
 title: home
-updated: 2024-11-02 08:50:57
+updated: 2024-11-02 18:01:00
 ---
 
 # home
 
-(date: 2024-11-02 08:50:57)
+(date: 2024-11-02 18:01:00)
 
 ---
 
@@ -130,18 +130,6 @@ The concrete, brick, and wood residence figures in a protected patio and a surpr
 
 ---
 
-## 6 Ways Your Phone Can Help You Pack Lighter on Your Next Trip
-
-date: 2024-11-01, from: Sunset Magazine - Living in the West
-
-Apple Wallet can help you travel lighter. You cans add your car key, credit card, boarding pass, driver's license, and more to your Wallet. 
-
-<br> 
-
-<https://www.sunset.com/travel/apple-wallet-tips>
-
----
-
 ## African Violets Care and Growing Guide with Ultimate Tips
 
 date: 2024-11-01, from: Yard Life blog
@@ -217,18 +205,6 @@ date: 2024-11-01, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/boston-fern-care-and-growing-guide-with-ultimate-tips/>
-
----
-
-## The Recipes You Should Be Cooking This November
-
-date: 2024-11-01, from: Sunset Magazine - Living in the West
-
-What are the recipes you should be cooking in November? From miso-glazed eggplant to creamy squash soup, these will lead you into winter. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/kitchen-assistant/recipes-to-cook-in-november>
 
 ---
 

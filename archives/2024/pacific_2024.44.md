@@ -1,11 +1,11 @@
 ---
 title: pacific
-updated: 2024-11-02 08:50:55
+updated: 2024-11-02 18:00:57
 ---
 
 # pacific
 
-(date: 2024-11-02 08:50:55)
+(date: 2024-11-02 18:00:57)
 
 ---
 
@@ -19,6 +19,18 @@ The post <a href="https://www.hawaii.edu/news/2024/11/01/sci-art-exhibit-2024/">
 <br> 
 
 <https://www.hawaii.edu/news/2024/11/01/sci-art-exhibit-2024/>
+
+---
+
+## 5 Must-Have DJ Products to Tune Up Any Party
+
+date: 2024-11-01, updated: 2024-11-01, from: Marianas Variety
+
+(BPT) - Pioneer DJ and AlphaTheta are no strangers to innovation in the DJ world. Crafting DJ players, turntables, controllers, all-in-one systems, headphones, speakers and other essentials, this brand is always ensuring new and professional DJs have the best technology in the game. Below are five of Pioneer DJ's newest products to help DJs of any level keep the party going! 
+
+<br> 
+
+<https://www.mvariety.com/online_features/tech_talk_and_innovation/5-must-have-dj-products-to-tune-up-any-party/article_3ac2e6b4-ba5d-5db8-a017-ffbce3ffcf99.html>
 
 ---
 
@@ -61,6 +73,54 @@ The post <a href="https://www.hawaii.edu/news/2024/11/01/november-2024-anniversa
 
 ---
 
+## Embrace the magic of the holidays this year with a festive family vacation
+
+date: 2024-11-01, updated: 2024-11-01, from: Marianas Variety
+
+(BPT) - While the holidays are known as the most wonderful time of the year, they can also bring more family responsibilities. Between finding the perfect gift and establishing lasting family traditions, to booking an unforgettable family vacation, the season can cause stress for all. In fact, according to a recent survey, about 78% of parents with children under the age of 18 who make holiday travel arrangements say the process is at least somewhat stressful. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/travel/embrace-the-magic-of-the-holidays-this-year-with-a-festive-family-vacation/article_75c17fc5-ea5f-5f45-804f-a0eabe2b541b.html>
+
+---
+
+## Desmintiendo mitos y desinformación durante la temporada de gripe
+
+date: 2024-11-01, updated: 2024-11-01, from: Marianas Variety
+
+(BPT) - Ya comenzó oficialmente la temporada de enfermedades respiratorias. En la medida que se acercan las fiestas de fin de año, cuando muchas personas pasan más tiempo bajo techo con sus seres queridos, aumentará el riesgo de contraer enfermedades respiratorias comunes como la gripe o influenza, el COVID-19, la neumonía y el VRS. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/espanol/desmintiendo-mitos-y-desinformaci-n-durante-la-temporada-de-gripe/article_14f5a82a-5bd1-5888-88a2-9ba196258c8c.html>
+
+---
+
+## Take Charge of Tomorrow:  Preventing Diabetes Health Problems
+
+date: 2024-11-01, updated: 2024-11-01, from: Marianas Variety
+
+(NAPSI)—November is National Diabetes Month, when communities across the country spread awareness about diabetes. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/health_and_wellness/take-charge-of-tomorrow-preventing-diabetes-health-problems/article_8229591c-e3ce-5aa6-b359-8d74a792bd1e.html>
+
+---
+
+## Effortless Holiday Hosting:  Simple Tips to Keep Your Home Sparkling
+
+date: 2024-11-01, updated: 2024-11-01, from: Marianas Variety
+
+(NAPS)—During the holiday season, as homes filled with laughter, joy, and loved ones, hosting a happy gathering can be a great way to catch up with friends and family—and it doesn’t have to feel overwhelming. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/food_recipes_entertaining/effortless-holiday-hosting-simple-tips-to-keep-your-home-sparkling/article_26ea4201-937f-5008-bda3-98abbf05b0bd.html>
+
+---
+
 ## AP sources: White House altered record of Biden’s ‘garbage’ remarks despite stenographer concerns
 
 date: 2024-11-01, updated: 2024-11-01, from: Marianas Variety
@@ -70,6 +130,42 @@ WASHINGTON (AP) — White House press officials altered the official transcript 
 <br> 
 
 <https://www.mvariety.com/news/national/ap-sources-white-house-altered-record-of-biden-s-garbage-remarks-despite-stenographer-concerns/article_13b12314-985c-11ef-9437-13a256d90166.html>
+
+---
+
+## Big nutrients for little taste buds: What parents should look for in children's vitamins
+
+date: 2024-11-01, updated: 2024-11-01, from: Marianas Variety
+
+(BPT) - Have you ever taken a close look at the ingredients in children's vitamins? You may want to check out the label, because most supplements for children include ingredients you might not want to give your kids. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/health_and_wellness/big-nutrients-for-little-taste-buds-what-parents-should-look-for-in-childrens-vitamins/article_68b00683-a756-592d-abdd-d8d91804c7ad.html>
+
+---
+
+## What Every Parent Needs to Know About Premature Infant Nutrition
+
+date: 2024-11-01, updated: 2024-11-01, from: Marianas Variety
+
+(BPT) - Bringing a child into the world can be among life’s most joyous and exciting events. But for the parents of very low birth weight (VLBW) preterm babies, the magic of childbirth can be clouded by questions, anxiety, and despair. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/family_living/what-every-parent-needs-to-know-about-premature-infant-nutrition/article_210888e6-831e-5478-9169-1674d5f958ef.html>
+
+---
+
+## Survey unveils surge in entrepreneurial optimism among young Americans
+
+date: 2024-11-01, updated: 2024-11-01, from: Marianas Variety
+
+(BPT) - A fresh wave of innovation and optimism is reshaping the American economy, as revealed by a new survey commissioned by Herbalife and conducted by Talker Research. The 2024 Entrepreneurial Index reveals that one-third of Americans view themselves as entrepreneurs. The survey shows that 36% of Gen Z and 39% of millennials identify as entrepreneurs, compared to 29% of Gen X respondents and just 25% of baby boomers. Simply put, younger generations are embracing the entrepreneurial spirit. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/money_and_finance/survey-unveils-surge-in-entrepreneurial-optimism-among-young-americans/article_17cbcab1-abbd-5275-942d-7b21dee058f9.html>
 
 ---
 
@@ -524,6 +620,18 @@ date: 2024-11-01, from: Island Times
 <br> 
 
 <https://islandtimes.org/north-carolina-is-a-swing-state-in-this-us-election/>
+
+---
+
+## Por qué es tan importante el diagnóstico precoz de la HAP
+
+date: 2024-11-01, updated: 2024-11-01, from: Marianas Variety
+
+(StatePoint) Cada año, entre 500 y 1,000 personas en los Estados Unidos son diagnosticadas con hipertensión arterial pulmonar (HAP). Debido a que este trastorno crónico progresivo es raro, a menudo no se detecta, lo que provoca un diagnóstico tardío con un impacto potencialmente significativo en las personas que viven con la enfermedad. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/espanol/por-qu-es-tan-importante-el-diagn-stico-precoz-de-la-hap/article_3bad764d-58de-57ff-8e5e-ac9c81166e71.html>
 
 ---
 
