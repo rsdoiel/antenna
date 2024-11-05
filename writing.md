@@ -1,11 +1,11 @@
 ---
 title: writing
-updated: 2024-11-05 09:28:50
+updated: 2024-11-05 15:50:04
 ---
 
 # writing
 
-(date: 2024-11-05 09:28:50)
+(date: 2024-11-05 15:50:04)
 
 ---
 
@@ -33,7 +33,9 @@ date: 2024-11-05, from: John August blog
 John and Craig look at how writers (and other humans) handle the anxiety of uncertainty, from election nights to green lights. We’ll talk through strategies for navigating situations where your circle of concern doesn’t match your circle of control. Then we travel back to the 1980s and 90s, when many studios were run by ambitious [&#8230;]
 The post <a href="https://johnaugust.com/2024/hollywood-got-old">Hollywood Got Old</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
 
-<br> 
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/664standard.mp3"></source>
+</audio> <a href="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/664standard.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://johnaugust.com/2024/hollywood-got-old>
 

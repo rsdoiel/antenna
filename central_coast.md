@@ -1,11 +1,112 @@
 ---
 title: central coast
-updated: 2024-11-05 09:28:49
+updated: 2024-11-05 15:50:03
 ---
 
 # central coast
 
-(date: 2024-11-05 09:28:49)
+(date: 2024-11-05 15:50:03)
+
+---
+
+## 1319 Plaza Pacifica, SANTA BARBARA, CA 93108
+
+date: 2024-11-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1319-Plaza-Pacifica.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="1319 Plaza Pacifica, SANTA BARBARA, CA 93108" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1319-Plaza-Pacifica.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1319-Plaza-Pacifica.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1319-Plaza-Pacifica.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1319-Plaza-Pacifica.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1319-Plaza-Pacifica.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1319-Plaza-Pacifica.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1319-Plaza-Pacifica.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1319-Plaza-Pacifica.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1319-Plaza-Pacifica.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/1319-Plaza-Pacifica.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Offered At $6,600,000</p>
+<p>The post <a href="https://www.noozhawk.com/1319-plaza-pacifica-santa-barbara-ca-93108/">1319 Plaza Pacifica, SANTA BARBARA, CA 93108</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/1319-plaza-pacifica-santa-barbara-ca-93108/>
+
+---
+
+## Bring Gently Worn Outer Wear to Santa Maria Library Coat Exchange
+
+date: 2024-11-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Maria Public Library will hold its first Coat Exchange, 10:30 a.m.-12:30 p.m. Saturday, Nov. 9 in the Library’s Shepard Hall, 421 S. McClelland St. The event aims to [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/bring-gently-worn-outer-wear-to-santa-maria-library-coat-exchange/">Bring Gently Worn Outer Wear to Santa Maria Library Coat Exchange</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/bring-gently-worn-outer-wear-to-santa-maria-library-coat-exchange/>
+
+---
+
+## 4910 Baseline Avenue, SANTA YNEZ, CA 93460
+
+date: 2024-11-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="767" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4010-Baseline-Ave.jpg?fit=1024%2C767&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="4910 Baseline Avenue, SANTA YNEZ, CA 93460" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4010-Baseline-Ave.jpg?w=2136&amp;ssl=1 2136w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4010-Baseline-Ave.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4010-Baseline-Ave.jpg?resize=1024%2C767&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4010-Baseline-Ave.jpg?resize=768%2C575&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4010-Baseline-Ave.jpg?resize=1536%2C1151&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4010-Baseline-Ave.jpg?resize=2048%2C1534&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4010-Baseline-Ave.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4010-Baseline-Ave.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4010-Baseline-Ave.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4010-Baseline-Ave.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4010-Baseline-Ave.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4010-Baseline-Ave.jpg?resize=1568%2C1175&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4010-Baseline-Ave.jpg?resize=2000%2C1498&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4010-Baseline-Ave.jpg?fit=1024%2C767&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Offered At $6,950,000</p>
+<p>The post <a href="https://www.noozhawk.com/4910-baseline-avenue-santa-ynez-ca-93460/">4910 Baseline Avenue, SANTA YNEZ, CA 93460</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/4910-baseline-avenue-santa-ynez-ca-93460/>
+
+---
+
+## Take Walk on Wild Side at Botanic Garden’s New Tipton Trail
+
+date: 2024-11-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Tipton Trail, a new trail at Santa Barbara Botanic Garden officially opens Sunday, Nov. 17, coinciding with the celebration of National Hiking Day. Tipton Trail, which is free to [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/take-walk-on-wild-side-at-botanic-gardens-new-tipton-trail/">Take Walk on Wild Side at Botanic Garden&#8217;s New Tipton Trail</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/take-walk-on-wild-side-at-botanic-gardens-new-tipton-trail/>
+
+---
+
+## David Baskett Pleads Not Guilty in Fatal Santa Maria Crash Involving Forklift
+
+date: 2024-11-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The driver of a heavy-duty forklift involved in a fatal crash pleaded not guilty to a misdemeanor criminal charge in Santa Barbara County Superior Court on Tuesday after having a [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/david-basket-pleads-not-guilty-in-fatal-santa-maria-crash-involving-forklift/">David Baskett Pleads Not Guilty in Fatal Santa Maria Crash Involving Forklift</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/david-basket-pleads-not-guilty-in-fatal-santa-maria-crash-involving-forklift/>
+
+---
+
+## Tracy Beckerman: Ravioli Sample Serves Up a Taste of Regret
+
+date: 2024-11-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>“Hi! Would you like to try a delicious, gluten-free, dairy-free ravioli?” asked a woman standing behind a small table in the pasta section of the grocery store. The table was [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/tracy-beckerman-ravioli-sample-delivers-a-taste-of-regret/">Tracy Beckerman: Ravioli Sample Serves Up a Taste of Regret</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/tracy-beckerman-ravioli-sample-delivers-a-taste-of-regret/>
+
+---
+
+## Inspiring Innovation: Santa Barbara Charter School’s Hands-on Science Program Ignites Curiosity and Creativity
+
+date: 2024-11-05, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="713" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/0.png?fit=1024%2C713&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/0.png?w=1072&amp;ssl=1 1072w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/0.png?resize=300%2C209&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/0.png?resize=1024%2C713&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/0.png?resize=768%2C534&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/0.png?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/0.png?fit=1024%2C713&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The school has served the community since 1993 and, in addition to teaching arts and other academic subjects, its science-focused programs help students cultivate a love for the subject</p>
+<p>The post <a href="https://www.noozhawk.com/inspiring-innovation-santa-barbara-charter-schools-hands-on-science-program-ignites-curiosity-and-creativity/">Inspiring Innovation: Santa Barbara Charter School’s Hands-on Science Program Ignites Curiosity and Creativity</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/inspiring-innovation-santa-barbara-charter-schools-hands-on-science-program-ignites-curiosity-and-creativity/>
 
 ---
 

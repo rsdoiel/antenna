@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2024-11-05 09:28:51
+updated: 2024-11-05 15:50:05
 ---
 
 # retro computing
 
-(date: 2024-11-05 09:28:51)
+(date: 2024-11-05 15:50:05)
+
+---
+
+## Vote for the November 2024 + Post Topic
+
+date: 2024-11-05, from: Computer ads from the Past
+
+Your options are a programming language, a multimedia program, and a printer. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/vote-for-the-november-2024-post-topic>
+
+---
+
+## b.log 2024/11/05 - November 5th, ESP32Cam woes, My Sunday Project #1, My Sunday Project #2.
+
+date: 2024-11-05, from: Richard Murray's blog
+
+November 5th, ESP32Cam woes, My Sunday Project #1, My Sunday Project #2. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20241105>
 
 ---
 

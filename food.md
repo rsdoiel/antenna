@@ -1,11 +1,63 @@
 ---
 title: food
-updated: 2024-11-05 09:28:52
+updated: 2024-11-05 15:50:06
 ---
 
 # food
 
-(date: 2024-11-05 09:28:52)
+(date: 2024-11-05 15:50:06)
+
+---
+
+## Starbucks Just Revealed Its Holiday Cup Designs for 2024
+
+date: 2024-11-05, from: Taste of Home
+
+<p>It's beginning to look a latte like Christmas, thanks to the new Starbucks holiday cups.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/starbucks-holiday-cup-designs-2024/">Starbucks Just Revealed Its Holiday Cup Designs for 2024</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/starbucks-holiday-cup-designs-2024/>
+
+---
+
+## The Best King of Christmas Trees, Tested by Holiday Experts
+
+date: 2024-11-05, from: Taste of Home
+
+<p>Curious how King of Christmas trees compare? We tested the top options so you can buy an artificial Christmas tree with confidence.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/king-of-christmas-trees/">The Best King of Christmas Trees, Tested by Holiday Experts</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/king-of-christmas-trees/>
+
+---
+
+## Making Memories While Entertaining This Thanksgiving
+
+date: 2024-11-05, from: Bon Appetet
+
+In her November 2024 letter, editor in chief Jamila Robinson reflects on how to make the holiday meaningful. 
+
+<br> 
+
+<https://www.bonappetit.com/story/jamila-letter-nov-2024>
+
+---
+
+## SCA Officially Adopts New Cupping Forms and Standards
+
+date: 2024-11-05, from: Daily Coffee News
+
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-cupping-620x413.jpg" class="attachment-large size-large wp-post-image" alt="coffee cupping" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-cupping-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-cupping-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-cupping-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-cupping-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-cupping.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>After years of development, feedback and marketing, the Specialty Coffee Association has officially adopted its three new standards for professional coffee evaluation. The move effectively replaces the SCA&#8217;s coffee cupping... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/11/05/sca-officially-adopts-new-cupping-forms-and-standards/>
 
 ---
 
@@ -13,7 +65,7 @@ updated: 2024-11-05 09:28:52
 
 date: 2024-11-05, from: Daily Coffee News
 
-<div><img width="620" height="449" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Brew-Peddler-Coffee-Spokane-1-1-620x449.jpg" class="attachment-large size-large wp-post-image" alt="Brew Peddler Coffee Spokane 1" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Brew-Peddler-Coffee-Spokane-1-1-620x449.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Brew-Peddler-Coffee-Spokane-1-1-300x217.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Brew-Peddler-Coffee-Spokane-1-1-150x109.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Brew-Peddler-Coffee-Spokane-1-1-768x556.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Brew-Peddler-Coffee-Spokane-1-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>After two years of hawking high-quality beans and beverages with mobile setups around Spokane, Washington, Brew Peddler recently squeezed its brakes and opened its first brick and mortar cafe. The... 
+<div><img width="620" height="449" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Brew-Peddler-Coffee-Spokane-1-1-620x449.jpg" class="attachment-large size-large wp-post-image" alt="Brew Peddler Coffee Spokane 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Brew-Peddler-Coffee-Spokane-1-1-620x449.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Brew-Peddler-Coffee-Spokane-1-1-300x217.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Brew-Peddler-Coffee-Spokane-1-1-150x109.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Brew-Peddler-Coffee-Spokane-1-1-768x556.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Brew-Peddler-Coffee-Spokane-1-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>After two years of hawking high-quality beans and beverages with mobile setups around Spokane, Washington, Brew Peddler recently squeezed its brakes and opened its first brick and mortar cafe. The... 
 
 <br> 
 
@@ -121,7 +173,7 @@ date: 2024-11-04, from: The Sprudge
 
 date: 2024-11-04, from: Daily Coffee News
 
-<div><img width="620" height="466" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/DWELL_20281-1-1-620x466.jpg" class="attachment-large size-large wp-post-image" alt="DWELL_20281 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/DWELL_20281-1-1-620x466.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/DWELL_20281-1-1-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/DWELL_20281-1-1-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/DWELL_20281-1-1-768x577.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/DWELL_20281-1-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>It&#8217;s rare for a coffee roasting company to get into equipment development, yet Colby Barr and a team at California&#8217;s Verve Coffee Roasters kept ruminating on the concept that a... 
+<div><img width="620" height="466" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/DWELL_20281-1-1-620x466.jpg" class="attachment-large size-large wp-post-image" alt="DWELL_20281 1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/DWELL_20281-1-1-620x466.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/DWELL_20281-1-1-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/DWELL_20281-1-1-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/DWELL_20281-1-1-768x577.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/DWELL_20281-1-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>It&#8217;s rare for a coffee roasting company to get into equipment development, yet Colby Barr and a team at California&#8217;s Verve Coffee Roasters kept ruminating on the concept that a... 
 
 <br> 
 

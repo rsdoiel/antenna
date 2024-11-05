@@ -1,11 +1,167 @@
 ---
 title: science and technology
-updated: 2024-11-05 09:28:49
+updated: 2024-11-05 15:50:03
 ---
 
 # science and technology
 
-(date: 2024-11-05 09:28:49)
+(date: 2024-11-05 15:50:03)
+
+---
+
+## Your air fryer might be snitching on you to China
+
+date: 2024-11-05, updated: 2024-11-05, from: The Register (UK I.T. News)
+
+<h4>Report shines light on unexpected ways your devices sell you out</h4> <p>UK consumer champion Which? wants you to know that your air fryer might be spying on you and sharing your data with third parties for marketing purposes.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/05/air_fryer_spying/>
+
+---
+
+## Schneider Electric ransomware crew demands $125k paid in baguettes
+
+date: 2024-11-05, updated: 2024-11-05, from: The Register (UK I.T. News)
+
+<h4>Hellcat crew claimed to have gained access via the company&#39;s Atlassian Jira system</h4> <p>Schneider Electric confirmed that it is investigating a breach as a ransomware group Hellcat claims to have stolen more than 40 GB of compressed data — and demanded the French multinational energy management company pay $125,000 in baguettes or else see its sensitive customer and operational information leaked.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/05/schneider_electric_cybersecurity_incident/>
+
+---
+
+## Beyond the Console: Kenneth Attocknie’s Mission to Bridge Cultures at NASA
+
+date: 2024-11-05, from: NASA breaking news
+
+From the Mission Control Center to community celebrations, Kenneth Attocknie blends safety expertise with a commitment to cultural connection.  For the past 25 years at NASA, Attocknie has dedicated his career to safeguarding the International Space Station and supporting real-time mission operations at Johnson Space Center in Houston.   As a principal safety engineer in the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/beyond-the-console-kenneth-attocknies-mission-to-bridge-cultures-at-nasa/>
+
+---
+
+## A Prominent Italian Dealer Has Been Charged With Trafficking Thousands of Looted Artifacts
+
+date: 2024-11-05, from: Smithsonian Magazine
+
+The Manhattan district attorney's office has obtained an arrest warrant for Edoardo Almagià, who has been accused of working with looters and dealing stolen artifacts for years 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-prominent-italian-dealer-has-been-charged-with-trafficking-thousands-of-looted-artifacts-180985392/>
+
+---
+
+## How Sugar Rationing During World War II Fended Off Diabetes and High Blood Pressure Later in Life
+
+date: 2024-11-05, from: Smithsonian Magazine
+
+Babies who were conceived and born during the period of rationing in the United Kingdom were less likely to develop certain diseases as adults, a new study finds 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/how-sugar-rationing-during-world-war-ii-fended-off-diabetes-and-high-blood-pressure-later-in-life-180985404/>
+
+---
+
+## A Kansas pig butchering: CEO who defrauded bank, church, friends gets 24 years
+
+date: 2024-11-05, updated: 2024-11-05, from: The Register (UK I.T. News)
+
+<h4>FBI recovers just $8M after scam crashes Heartland Tri-State Bank</h4> <p>The FBI has recovered $8 million in funds from a cryptocurrency scam that netted $47 million and devastated the Kansas city of Elkhart.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/05/fbi_pig_kansas_cryptocurrency/>
+
+---
+
+## Bundling the Best of Heliophysics Education: DigiKits for Physics and Astronomy Teachers
+
+date: 2024-11-05, from: NASA breaking news
+
+For nearly a decade, the American Association of Physics Teachers (AAPT) has been working to bring together resources through its DigiKits–multimedia collections of vetted high-quality resources for teachers and their students. These resources are toolkits, allowing teachers to pick and choose interesting content to support their instruction. As a partner with the NASA Heliophysics Education […] 
+
+<br> 
+
+<https://science.nasa.gov/learning-resources/science-activation/bundling-the-best-of-heliophysics-education-digikits-for-physics-and-astronomy-teachers/>
+
+---
+
+## U.S. Navy Fleet Training Launch to be Conducted at NASA Wallops
+
+date: 2024-11-05, from: NASA breaking news
+
+A rocket-propelled target is scheduled to launch from NASA’s Wallops&#160;Flight Facility in Virginia during a window Thursday, Nov. 7 to Friday, Nov. 8 between 9:30 a.m. and 2:30 p.m. EST both days as part of a U.S. Navy Fleet Training exercise. No real-time launch status updates will be available. The launch will not be livestreamed [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/wallops/us-navy-fleet-training-launch-to-be-conducted-at-nasa-wallops/>
+
+---
+
+## See How René Magritte’s Dreamlike Paintings Evolved Over Four Decades at a New Exhibition in Australia
+
+date: 2024-11-05, from: Smithsonian Magazine
+
+The Art Gallery of New South Wales is showcasing works full of the Surrealist artist's signature motifs—such as apples, pipes and bowler hats—in addition to lesser-known pieces 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/see-how-rene-magrittes-dreamlike-paintings-evolved-over-four-decades-at-a-new-exhibition-in-australia-180985372/>
+
+---
+
+## Don't have MFA on a Google Cloud account? You'll have to from Jan
+
+date: 2024-11-05, updated: 2024-11-05, from: The Register (UK I.T. News)
+
+<h4>Lock it up. Lock it up</h4> <p>Google Cloud is the latest to take the decision away from customers and enforce the use of multi-factor authentication (MFA) for all users to improve the security of the minority that don&#39;t already have it enabled.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/05/google_cloud_says_all_customers/>
+
+---
+
+## A Rare Triassic Fossil Found in Brazil Could Shed Light on the Origin of Dinosaurs
+
+date: 2024-11-05, from: Smithsonian Magazine
+
+The 237-million-year-old remains are among the oldest silesaurid fossils ever found, adding to paleontologists' understanding of this still-mysterious group of prehistoric reptiles 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-rare-triassic-fossil-found-in-brazil-could-shed-light-on-the-origin-of-dinosaurs-180985312/>
+
+---
+
+## Criminals open DocuSign's Envelope API to make BEC special delivery
+
+date: 2024-11-05, updated: 2024-11-05, from: The Register (UK I.T. News)
+
+<h4>Why? Because that&#39;s where the money is</h4> <p>Business email compromise scammers are trying to up their success rate by using a DocuSign API.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/05/docusigns_envelope_bec/>
+
+---
+
+## New Jersey man admits shipping sanctions-busting tech to Russia
+
+date: 2024-11-05, updated: 2024-11-05, from: The Register (UK I.T. News)
+
+<h4>Smuggler busted on the border carrying naughty items</h4> <p>Vadim Yermolenko, 43, a dual US-Russian national and resident of New Jersey, has pleaded guilty to multiple charges related to his role in sanctions busting as part of a gang that operated in the US and Europe for nearly eight years.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/05/russia_sanctions_busting/>
 
 ---
 
@@ -93,6 +249,18 @@ date: 2024-11-05, updated: 2024-11-05, from: The Register (UK I.T. News)
 
 ---
 
+## From Campus to Cosmos: NASA Grants Boost Student, University Innovation
+
+date: 2024-11-05, from: NASA breaking news
+
+Human exploration on the lunar surface is no small feat. It requires technologists and innovators from all walks of life to tackle many challenges, including feet.&#160; From designing astronaut boots, addressing hazardous Moon dust, and researching new ways to land on Mars, NASA is funding valuable research through M-STAR (Minority University Research and Education Project’s [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/from-campus-to-cosmos-nasa-grants-boost-student-university-innovation/>
+
+---
+
 ## Jensen Huang asked SK hynix to give Nvidia 12-layer HBM4 chips earlier
 
 date: 2024-11-05, updated: 2024-11-05, from: The Register (UK I.T. News)
@@ -157,7 +325,7 @@ date: 2024-11-05, updated: 2024-11-05, from: The Register (UK I.T. News)
 
 date: 2024-11-05, updated: 2024-11-05, from: The Register (UK I.T. News)
 
-<h4>User group members offered more generous discounts and licenses we&#39;re sure nobody would abuse</h4> <p><strong>Explore</strong>  VMware by Broadcom is continuing its pre-acquisition tradition of using its European conference to make public a handful of product updates.…</p> 
+<h4>User group members offered more generous discounts and licenses we&#39;re sure nobody would abuse</h4> <p><strong>VMware Explore</strong>  VMware by Broadcom is continuing its pre-acquisition tradition of using its European conference to make public a handful of product updates.…</p> 
 
 <br> 
 
@@ -165,11 +333,11 @@ date: 2024-11-05, updated: 2024-11-05, from: The Register (UK I.T. News)
 
 ---
 
-## French finance committee explores amendment to nationalize Atos assets
+## French govt finance panel mulls nationalizing Atos
 
 date: 2024-11-05, updated: 2024-11-05, from: The Register (UK I.T. News)
 
-<h4>Protecting IT projects for the French military and other bits of the public sector</h4> <p>France&#39;s Finance committee is looking at a legal amendment to a 2025 finance bill currently making its way through the country&#39;s parliament that would nationalize Atos with €70 million in the pot to explore the deal.…</p> 
+<h4>Protecting IT projects for military and other bits of the public sector</h4> <p>A French government finance committee is looking at a legal amendment to a 2025 finance bill currently making its way through the country&#39;s parliament that would nationalize Atos with €70 million in the pot to explore the deal.…</p> 
 
 <br> 
 
@@ -695,9 +863,9 @@ It&#8217;s been less than a week, and late Friday night we reached the fundraise
 
 ## Six IT contractors accused of swindling Uncle Sam out of millions
 
-date: 2024-11-03, updated: 2024-11-04, from: The Register (UK I.T. News)
+date: 2024-11-03, updated: 2024-11-05, from: The Register (UK I.T. News)
 
-<h4>Also, ecommerce fraud ring disrupted, another Operation Power Off victory, Sino SOHO botnet spotted, and more</h4> <p><strong>Security in brief</strong>  The US Department of Justice has charged six people with two separate schemes to defraud Uncle Sam out of millions of dollars connected to IT product and services contracts. …</p> 
+<h4>Also, ecommerce fraud ring disrupted, another Operation Power Off victory, Sino SOHO botnet spotted, and more</h4> <p><strong>Infosec in brief</strong>  The US Department of Justice has charged six people with two separate schemes to defraud Uncle Sam out of millions of dollars connected to IT product and services contracts. …</p> 
 
 <br> 
 

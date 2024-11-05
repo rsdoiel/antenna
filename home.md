@@ -1,11 +1,89 @@
 ---
 title: home
-updated: 2024-11-05 09:28:51
+updated: 2024-11-05 15:50:05
 ---
 
 # home
 
-(date: 2024-11-05 09:28:51)
+(date: 2024-11-05 15:50:05)
+
+---
+
+## Listed for $1.9M, This Darling Pasadena Tudor Comes With a Carriage House
+
+date: 2024-11-05, from: Dwell
+
+The brick home conjures up the charm of an English cottage with its ivy-wrapped facade, refreshed interiors, and leafy patio. 
+
+<br> 
+
+<https://www.dwell.com/article/english-tudor-home-renovation-pasadena-los-angeles-real-estate-03cceeac>
+
+---
+
+## More Than 24,000 Ford Trucks Recalled Over Backup Camera Issue
+
+date: 2024-11-05, from: Family Handyman Blog
+
+<p>Thousands of Ford trucks are being recalled over a rear-view camera issue. Find out if your truck is affected and how to get it fixed.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/ford-trucks-super-duty-recall/">More Than 24,000 Ford Trucks Recalled Over Backup Camera Issue</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/ford-trucks-super-duty-recall/>
+
+---
+
+## Across the Hudson River, a Carriage House Renovation  Hits the Market for $4.1M
+
+date: 2024-11-05, from: Dwell
+
+The home is immersed in nature—and has a history of famous house guests. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-gilmans-carriage-house-palisades-real-estate-a84b4021>
+
+---
+
+## Casa Nido in Queretaro, Mexico, Is a Celebration of Natural Materials
+
+date: 2024-11-05, from: Dwell
+
+This luxe condo—on the market for $2.5M—is immersed in fruit trees and foliage with a central garden and outdoor kitchen. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-casa-nido-queretaro-real-estate-3877d35b>
+
+---
+
+## If Your Walls Feel Naked After the Holidays, Try This Easy Joanna Gaines Hack
+
+date: 2024-11-05, from: Family Handyman Blog
+
+<p>If you struggle to figure out how to decorate after the holidays, but don't want to leave your walls blank, Joanna Gaines has a hack for you. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/joanna-gaines-post-holiday-decor-hack/">If Your Walls Feel Naked After the Holidays, Try This Easy Joanna Gaines Hack</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/joanna-gaines-post-holiday-decor-hack/>
+
+---
+
+## Chrysler Issues Another Recall for Ram 1500 Trucks
+
+date: 2024-11-05, from: Family Handyman Blog
+
+<p>Chrysler’s latest recall impacts over 33,000 trucks due to a potential stability control issue. Find out if your vehicle is affected and what steps to take for a free repair.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/chrysler-ram-1500-recall/">Chrysler Issues Another Recall for Ram 1500 Trucks</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/chrysler-ram-1500-recall/>
 
 ---
 
@@ -77,6 +155,18 @@ date: 2024-11-05, from: Family Handyman Blog
 
 ---
 
+## These Entertaining Finds Will Get You Through the Whole Holiday Season
+
+date: 2024-11-05, from: Sunset Magazine - Living in the West
+
+For an stress-free holiday hosting season, it helps to have the right essentials. These are the holiday entertaining finds to shop. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/holiday-entertaining-finds>
+
+---
+
 ## Goldfish Plant Care and Growing Guide with Ultimate Tips
 
 date: 2024-11-05, from: Yard Life blog
@@ -104,18 +194,15 @@ Pro tip: you don’t need to live in a French chateau to make your place smell l
 
 ---
 
-## Gladiolus Flower Care and Growing Guide with Ultimate Tips
+## This Oregon Vacation Home Really Leans into Its Natural Landscape
 
-date: 2024-11-05, from: Yard Life blog
+date: 2024-11-05, from: Sunset Magazine - Living in the West
 
-<p>The Gladiolus flower, known scientifically as Gladiolus palustris, is a stunning addition to any garden. As a member of the ... </p>
-<p class="read-more-container"><a title="Gladiolus Flower Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/gladiolus-flower-care-and-growing-guide-with-ultimate-tips/#more-21624" aria-label="Read more about Gladiolus Flower Care and Growing Guide with Ultimate Tips">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/gladiolus-flower-care-and-growing-guide-with-ultimate-tips/">Gladiolus Flower Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
+A vacation home in Central Oregon had no heating or air conditioning and needed updates. Here's how it was renovated. 
 
 <br> 
 
-<https://ownyardlife.com/gladiolus-flower-care-and-growing-guide-with-ultimate-tips/>
+<https://www.sunset.com/home-garden/home-tours/black-butte-ranch-house-tour>
 
 ---
 
@@ -128,6 +215,69 @@ Give the gift of the Sunset Wine Club, featuring the best bottles in the West, p
 <br> 
 
 <https://www.sunset.com/food-wine/wine-pairings/wine-club-pairings-holiday-issue-2024>
+
+---
+
+## I Tried a Traditional Temazcal Sweat Lodge. Here’s How It Went.
+
+date: 2024-11-05, from: Sunset Magazine - Living in the West
+
+The traditional experience, which we did at Naviva, a Four Seasons Resort in Nayarit, is every bit as healing as it's purported to be. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/wellness/temazcal-sweat-lodge-experience>
+
+---
+
+## 4 Myths Winemakers Want You to Stop Believing About Blends
+
+date: 2024-11-05, from: Sunset Magazine - Living in the West
+
+It’s easy to think that wine blends are like leftovers. Winemakers share what you need to know about wine blends and how to choose one. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/wine-blends-what-to-know>
+
+---
+
+## This Trending Cooking Oil Is Made with Algae—and It Might Just Replace Your Olive Oil
+
+date: 2024-11-05, from: Sunset Magazine - Living in the West
+
+Chefs and home cooks are using sustainable and trendy algae oil, which has a high smoke point and a neutral flavor. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/algae-cooking-oil-trend>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-11-05, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## Gladiolus Flower Care and Growing Guide with Ultimate Tips
+
+date: 2024-11-05, from: Yard Life blog
+
+<p>The Gladiolus flower, known scientifically as Gladiolus palustris, is a stunning addition to any garden. As a member of the ... </p>
+<p class="read-more-container"><a title="Gladiolus Flower Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/gladiolus-flower-care-and-growing-guide-with-ultimate-tips/#more-21624" aria-label="Read more about Gladiolus Flower Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/gladiolus-flower-care-and-growing-guide-with-ultimate-tips/">Gladiolus Flower Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/gladiolus-flower-care-and-growing-guide-with-ultimate-tips/>
 
 ---
 
@@ -343,18 +493,6 @@ date: 2024-11-04, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/eucalyptus-plant-care-and-growing-guide-with-ultimate-tips/>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-11-04, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

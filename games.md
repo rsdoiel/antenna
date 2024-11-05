@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2024-11-05 09:28:50
+updated: 2024-11-05 15:50:04
 ---
 
 # games
 
-(date: 2024-11-05 09:28:50)
+(date: 2024-11-05 15:50:04)
+
+---
+
+## Sweet Lands by Uchibacoya brings a feudal anime twist to Candy Land
+
+date: 2024-11-05, updated: 2024-11-05, from: Polygon Website
+
+King Sugar Syrup, ruler of the Sweet Lands, is on his deathbed. Without him, the kingdom will fall to ruin. In his final days, he has called for a contest to find his successor: The one who can turn their designated land into a prosperous nation shall be given the throne. You, noble candy denizen, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/474968/sweet-lands-uchibacoya-board-game-kickstarter>
+
+---
+
+## Pick up over 80 pieces of Shadowrun fiction for just $30
+
+date: 2024-11-05, updated: 2024-11-05, from: Polygon Website
+
+Humble is currently offering a stack of 81 short stories and novellas set in the cyberpunk-meets-fantasy world of Shadowrun for just $30. Breaking down what you’ll get, it comes with 39 anthologies published by Catalyst Game Labs alongside the sixth edition of the TTRPG. You’ll also receive a comprehensive collection of Shadowrun Legends fiction that’s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/474793/shadowrun-fiction-books-humble-bundle-sale>
+
+---
+
+## All Fen’Harel Altar locations and solutions in Dragon Age: The Veilguard
+
+date: 2024-11-05, updated: 2024-11-05, from: Polygon Website
+
+Fen’Harel Altars are those wolf statue puzzles you might have seen in Dragon Age: The Veilguard. Though fully optional, it’s worth tracking down as many Fen’Harel Altars as you can: You’ll get an extra skill point for every statue you find. Thing is, each Fen’Harel Altar requires you to solve a little puzzle before getting [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dragon-age-veilguard-guides/474740/fenharel-altars-all-locations-where-to-find-statues-solutions>
+
+---
+
+## How to open the Warden Vault in Dragon Age: The Veilguard
+
+date: 2024-11-05, updated: 2024-11-05, from: Polygon Website
+
+You’ll find the “The Warden Vault” side quest in Dragon Age: The Veilguard as you explore deeper into the Rivain Coast. Far over on the east side of the map, you’ll come across a ruined Grey Wardens castle. Inside said castle is a vault with a lot of loot — and three locks associated with [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dragon-age-veilguard-guides/471185/warden-vault-quest-walkthrough-how-to-open-locks>
+
+---
+
+## Stardew Valley broken? Try removing your pets’ hats
+
+date: 2024-11-05, updated: 2024-11-05, from: Polygon Website
+
+Some Stardew Valley players on console or mobile are having performance issues after the 1.6 patch dropped on Monday. Eric “ConcernedApe” Barone is advising players to remove all hats from all pets to potentially fix the issue. “PSA: if you are experiencing performance issues in Stardew Valley 1.6, remove all hats from pets,” Barone wrote [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/474852/stardew-valley-no-hats-on-pets-1-6-update>
+
+---
+
+## How to unlock mastery in Stardew Valley
+
+date: 2024-11-05, updated: 2024-11-05, from: Polygon Website
+
+After maxing out all your skills in Stardew Valley, you’ll unlock skill mastery via the Mastery Cave in the Cindersap Forest. You’ll be able to improve your skills (farming, mining, foraging, fishing, and combat) even further with upgrades and item recipes that’ll help any end-game Stardew player out a ton. Below, we explain how to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/474719/stardew-valley-mastery-cave-skills-best>
+
+---
+
+## M. Night Shyamalan’s Trap isn’t about the twist — it’s about what women get from true crime stories
+
+date: 2024-11-05, updated: 2024-11-05, from: Polygon Website
+
+True crime is in the middle of a sustained cultural moment. The simmer began back in 2014, when Serial burst onto the scene — the first podcast to reach 5 million downloads. It rose to a new boil in 2020 and 2021, when viewers stuck in COVID quarantine at home found an escape in trying [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/474770/m-night-shyamalan-trap-ending-explained-analysis>
+
+---
+
+## When crack ships crack the superhero mainstream
+
+date: 2024-11-05, updated: 2024-11-05, from: Polygon Website
+
+Once upon a time, there was a teenage girl, the bastion of innocence, who became enamored with a centuries-old bad boy with an eternal curse. Amid a tumultuous love triangle, quasi-real breakup, and a chapters-long fight over their surprise baby, they battled for their happily-ever-after and captured the hearts of millions of invested fans. This [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/culture/471037/crack-ships-fanfiction>
+
+---
+
+## Pokémon TCG Pocket&#8217;s second in-game event is all about Lapras
+
+date: 2024-11-05, updated: 2024-11-05, from: Polygon Website
+
+Pokémon Trading Card Game Pocket was released on Oct. 30, and already the game’s second in-game event is live. The event — which appeared on the author’s app around 1 a.m. EST Tuesday and which runs through Nov. 17 — allows collectors to add a powerful Lapras ex and a handful of other new cards [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/474735/pokemon-tcg-pocket-battle-event-lapras>
+
+---
+
+## ‘Secret’ multiplayer mode added to Stardew Valley on mobile
+
+date: 2024-11-05, updated: 2024-11-05, from: Polygon Website
+
+Eric “ConcernedApe” Barone announced Tuesday that he secretly added an “experimental mobile multiplayer feature” to Stardew Valley on mobile. Why is it secret? Barone wrote in a post on the Stardew Valley website that it may have “some bugs or issues,” and that the “nature of the mobile platform could make a multiplayer session frustrating, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/474732/stardew-valley-1-6-multiplayer-mode-mobile-ios-android>
 
 ---
 

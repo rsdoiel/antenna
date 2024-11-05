@@ -1,11 +1,109 @@
 ---
 title: columns
-updated: 2024-11-05 09:28:50
+updated: 2024-11-05 15:50:04
 ---
 
 # columns
 
-(date: 2024-11-05 09:28:50)
+(date: 2024-11-05 15:50:04)
+
+---
+
+## Apple News Offers an Election Day Live Activity
+
+date: 2024-11-05, updated: 2024-11-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://techcrunch.com/2024/11/05/apples-new-widget-puts-election-day-updates-on-your-lock-screen-and-home-screen/>
+
+---
+
+##  If you need some last minute cajoling to not sit out this... 
+
+date: 2024-11-05, updated: 2024-11-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045588-if-you-need-some-last>
+
+---
+
+## [Sponsor] 1Password: The Infinite Loop of Security
+
+date: 2024-11-05, updated: 2024-11-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://1password.com/daringfireball>
+
+---
+
+##  Sometimes a post title just reaches right into your introverted soul: The... 
+
+date: 2024-11-05, updated: 2024-11-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045586-sometimes-a-post-title-ju>
+
+---
+
+##  How ill-advised guidelines created a peanut allergy epidemic in the US. &#8220;The... 
+
+date: 2024-11-05, updated: 2024-11-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045577-how-ill-advised-guideline>
+
+---
+
+## November 4, 2024
+
+date: 2024-11-05, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/151233476/570969453a068ba26d52405851859551.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/151233476/570969453a068ba26d52405851859551.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/november-4-2024-df8>
+
+---
+
+##  Tony Hawk posted a photo from the 70s of a girl skateboarding... 
+
+date: 2024-11-05, updated: 2024-11-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045585-tony-hawk-posted-a-photo>
+
+---
+
+##  Danny MacAskill Rides the Adidas HQ 
+
+date: 2024-11-05, updated: 2024-11-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/danny-macaskill-rides-the-adidas-hq>
 
 ---
 
@@ -551,6 +649,18 @@ date: 2024-11-05, updated: 2024-11-05, from: Jason Kittke's blog
 <br> 
 
 <https://kottke.org/24/11/0045575-i-did-go-touch-that>
+
+---
+
+## Wednesday 6 November, 2024
+
+date: 2024-11-05, from: John Naughton's online diary
+
+Presidential doodles Dwight Eisenhower (34th President of the US) seems to have been quite a good artist, as the nice detail in this doodle suggests. (From Presidential Doodles: Two Centuries of Scribbles, Scratches, Squiggles and Scrawls from the Oval Office.) &#8230; <a href="https://memex.naughtons.org/wednesday-6-november-2024/40036/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-6-november-2024/40036/>
 
 ---
 

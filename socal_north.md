@@ -1,11 +1,99 @@
 ---
 title: socal north
-updated: 2024-11-05 09:28:49
+updated: 2024-11-05 15:50:03
 ---
 
 # socal north
 
-(date: 2024-11-05 09:28:49)
+(date: 2024-11-05 15:50:03)
+
+---
+
+## NPR's final pre-election poll reiterates how tight this race is
+
+date: 2024-11-05, updated: 2024-11-05, from: The LAist
+
+Among registered voters, the NPR poll was a dead heat, 49% - 49%. 
+
+<br> 
+
+<https://laist.com/news/politics/npr-final-pre-election-poll-reiterates-how-tight-this-race-is>
+
+---
+
+## Stressed at work over the election? 3 ways to minimize political tension on the job
+
+date: 2024-11-05, updated: 2024-11-05, from: The LAist
+
+Political disagreements have sent workplace incivility to an all-time high this year, costing employers some $2 billion per day in lost productivity. Here’s how to cut down on watercooler fights over today’s election — and its aftermath. 
+
+<br> 
+
+<https://laist.com/news/stressed-at-work-over-the-election-3-ways-to-minimize-political-tension-on-the-job>
+
+---
+
+## This Orange County House race is the most expensive in the US
+
+date: 2024-11-05, updated: 2024-11-05, from: The LAist
+
+California's 45th Congressional district, which includes Orange County’s Little Saigon, has attracted more than $46 million in spending. 
+
+<br> 
+
+<https://laist.com/news/politics/most-expensive-house-race-45-steel-tran-congressional>
+
+---
+
+## Coming soon — Live results: US Representatives
+
+date: 2024-11-05, updated: 2024-11-05, from: The LAist
+
+Both parties are looking to flip seats in the U.S. House of Representatives. 
+
+<br> 
+
+<https://laist.com/news/politics/2024-election-california-general-us-representatives-los-angeles-county-orange-county-live-results>
+
+---
+
+## Here's how LAist and NPR will report the 2024 election results
+
+date: 2024-11-05, updated: 2024-11-05, from: The LAist
+
+We rely on results and race calls from The Associated Press for presidential races, other federal elections and statewide contests. 
+
+<br> 
+
+<https://laist.com/news/politics/heres-how-laist-and-npr-will-report-the-2024-election-results>
+
+---
+
+## Presenting Disney’s Frozen Ice Holiday at The Cube
+
+date: 2024-11-05, from: City of Santa Clarita
+
+<p>4TH Annual Holiday Ice Skating Show Returns The cold never bothered us anyway, especially at The Cube – Ice and Entertainment Center &#124; Powered by FivePoint Valencia. Join Elsa, Anna, Olaf and other Frozen favorites at the 4th annual Holiday Skate Show! Enjoy an ice adaption of the beloved Disney movie, Frozen, on Friday, December [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/11/05/presenting-disneys-frozen-ice-holiday-at-the-cube/">Presenting Disney&#8217;s Frozen Ice Holiday at The Cube</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/11/05/presenting-disneys-frozen-ice-holiday-at-the-cube/>
+
+---
+
+## HOPE Theatre Arts to Present “Yellow Face” at The MAIN
+
+date: 2024-11-05, from: City of Santa Clarita
+
+<p>From the mind of Obi and Tony Award-winning playwright David Henry Hwang, “Yellow Face” is a bold, sharp-witted exploration of identity, culture and the fine line between art and authenticity. This November, HOPE Theatre Arts takes on a story of what happens when the truth is blurred by masks, missteps and misunderstandings with a bit [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/11/05/hope-theatre-arts-to-present-yellow-face-at-the-main/">HOPE Theatre Arts to Present &#8220;Yellow Face&#8221; at The MAIN</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/11/05/hope-theatre-arts-to-present-yellow-face-at-the-main/>
 
 ---
 
@@ -45,6 +133,18 @@ From candidate swaps to assassination attempts, the final months of the campaign
 
 ---
 
+## Live results US President
+
+date: 2024-11-05, updated: 2024-11-05, from: The LAist
+
+The next U.S. president is expected to come down to the vote in a relatively few competitive states. 
+
+<br> 
+
+<https://laist.com/news/politics/2024-election-california-general-united-states-president-harris-trump-live-results>
+
+---
+
 ## Understanding why declaring winners in California may take a minute
 
 date: 2024-11-05, updated: 2024-11-05, from: The LAist
@@ -66,6 +166,42 @@ Many Americans are feeling stressed about the elections and that anxiety can tra
 <br> 
 
 <https://laist.com/news/education/early-childhood-education-pre-k/americans-are-stressed-about-the-elections-how-to-talk-to-your-kids-about-it>
+
+---
+
+## Coming soon — Live results: Orange County Board of Supervisors, District 1
+
+date: 2024-11-05, updated: 2024-11-05, from: The LAist
+
+The winner of District 1 will join a five-member board that oversees a county of about 3 million residents with an annual budget of about $9 billion. 
+
+<br> 
+
+<https://laist.com/news/politics/2024-election-california-general-orange-county-supervisors-district-1-live-results>
+
+---
+
+## Coming soon — Live results: LA City Council District 2
+
+date: 2024-11-05, updated: 2024-11-05, from: The LAist
+
+Current Councilmember Paul Krekorian can’t run again because of term limits. Candidates Jillian Burgos and Adrin Nazarian are facing off for the seat. 
+
+<br> 
+
+<https://laist.com/news/politics/2024-election-california-general-los-angeles-city-council-district-2-live-results>
+
+---
+
+## Coming soon — Live results: LA City Council District 14
+
+date: 2024-11-05, updated: 2024-11-05, from: The LAist
+
+Kevin de León ran for a second term, despite previous calls for his resignation. He faced Ysabel J. Jurado on the ballot. 
+
+<br> 
+
+<https://laist.com/news/politics/2024-election-california-general-los-angeles-city-council-district-14-live-results>
 
 ---
 

@@ -1,23 +1,215 @@
 ---
 title: journalism
-updated: 2024-11-05 09:28:50
+updated: 2024-11-05 15:50:04
 ---
 
 # journalism
 
-(date: 2024-11-05 09:28:50)
+(date: 2024-11-05 15:50:04)
 
 ---
 
-## Student journalists, filling local news gaps, step up to cover the 2024 election
+## USC men’s basketball is back and brand new
 
-date: 2024-11-05, from: Nieman Journalism Lab
+date: 2024-11-05, from: The Daily Trojan (USC Student Newspaper)
 
-The 2024 election is all-hands-on-deck for American newsrooms. And student reporters are helping supply critical local news to communities across the country. The Center for Community News at the University of Vermont is leading what it calls “the first nationally coordinated effort to strengthen university-led election coverage.” Around 145 colleges across 46 states are participants... 
+<p>Hosts Matthew Suh and Charlie Kayne discuss recent performances, changes and expectations for the 2024-35 USC men's basketball team.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/05/usc-mens-basketball-is-back-and-brand-new/">USC men&#8217;s basketball is back and brand new</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
 
 <br> 
 
-<https://www.niemanlab.org/2024/11/student-journalists-filling-local-news-gaps-step-up-to-cover-the-2024-election/>
+<https://dailytrojan.com/2024/11/05/usc-mens-basketball-is-back-and-brand-new/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-05, from: The Daily Bruin (UCLA Student Newspaper))
+
+ILLINOIS – Olivia Bleckman, 21, cast her first-ever vote in a presidential election for Harris. Bleckman, a student at Fordham University who cast her ballot in Los Angeles, said despite feeling mixed emotions of excitement and nervousness about the race, she was proud to exercise her right to vote. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/05/472536/>
+
+---
+
+## Q&A: Zach Templar talks upcoming US tour debut preparation, future artistic direction
+
+date: 2024-11-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Zach Templar is bringing his blend of alternative and R&#38;B music to Los Angeles for the first time.
+The 18-year-old artist will perform at Echoplex on Nov. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/05/qa-zach-templar-talks-upcoming-us-tour-debut-preparation-future-artistic-direction/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-05, from: The Daily Bruin (UCLA Student Newspaper))
+
+IOWA – Lenore Kahne, 73, said she felt it was time for a woman to take a seat in the Oval Office. Kamala Harris would be the first female president in United States history should she receive the 270 electoral college votes required to win the election in November. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/05/472529/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-05, from: The Daily Bruin (UCLA Student Newspaper))
+
+A line neatly wraps in the Hammer Museum courtyard with people waiting to vote. Voters exiting the Susan Bay Nimoy and Leonard Nimoy Studio – where polling is located – are wearing “I Voted” stickers, in addition to special red, white and blue buttons adorned with the museum’s typeface logo. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/05/472526/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-05, from: The Daily Bruin (UCLA Student Newspaper))
+
+The line to vote at Ackerman Union has grown significantly since lunchtime, now spilling over into the Ackerman Grand Ballroom. Same-day voter registration and mail-in ballots have proven to be popular methods of voting at the Ackerman polling station: Roughly half of the people waiting in line to vote currently are doing so in the same-day registration line or mail-in ballot line. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/05/472524/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-05, from: The Daily Bruin (UCLA Student Newspaper))
+
+KANSAS – Christopher Borrok, a project manager from New York City who voted for Kamala Harris, pointed to the prevalence of social media in engaging voters over the past two election cycles. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/05/472518/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-05, from: The Daily Bruin (UCLA Student Newspaper))
+
+NEW MEXICO – Despite voting for Kamala Harris, Amber Morales, 32, considers herself a moderate and encouraged voters to keep an open mind when evaluating all presidential candidates. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/05/472516/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-05, from: The Daily Bruin (UCLA Student Newspaper))
+
+The Daily Bruin covers breaking news relevant to the UCLA community as it happens. This page covers election day and the night following it, tracking results as they come in from locations across Los Angeles County. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/05/472505/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-05, from: The Daily Bruin (UCLA Student Newspaper))
+
+THE HILL – While many at the Ackerman Union are first-time voters, for some, political and civic participation has spanned years. Ike Orafor, who identifies as a political independent, said he has been voting in elections since 2014. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/05/472499/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-05, from: The Daily Bruin (UCLA Student Newspaper))
+
+ARIZONA – Jaylene Birch, 22, a military spouse from Irvine, said although she isn’t informed about many campaign issues and hasn’t voted in the presidential election yet, she leans blue. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/05/472492/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-05, from: The Daily Bruin (UCLA Student Newspaper))
+
+ARIZONA – Vivienne Fleischer, 60, expressed concerns about the medical fallout for women after the reversal of Roe v. Wade – citing the future of abortion rights as one of the campaign issues that influenced her to vote for Vice President Kamala Harris. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/05/472490/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-05, from: The Daily Bruin (UCLA Student Newspaper))
+
+THE HILL – Though the presidential race is at the top of the ticket, some are also conscious of the 10 state-level propositions on California ballots today. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/05/472488/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-05, from: The Daily Bruin (UCLA Student Newspaper))
+
+Ryan Landayan, a third-year applied math and atmospheric and oceanic sciences student, said rights are at stake in this election.
+&#8220;I am a gay man, and I am afraid that my rights are on the line,&#8221; he said. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/05/472485/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-05, from: The Daily Bruin (UCLA Student Newspaper))
+
+Gary Cabingao, a fourth-year psychology student and poll worker at the Ackerman Union voting station, said student voters have been appreciative of volunteer work. He added that he appreciates the students who thank him for volunteering to help with Election Day. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/05/472483/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-05, from: The Daily Bruin (UCLA Student Newspaper))
+
+THE HILL – Polling began several hours ago at De Neve Plaza, with lines to vote currently minimal. Three poll watchers have arrived to ensure the integrity and transparency of the voting process. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/05/472475/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-05, from: The Daily Bruin (UCLA Student Newspaper))
+
+Polls opened at 7 a.m., with Westwood voters able to vote at the Ackerman Union, De Neve Plaza and the Hammer Museum. Voters wishing to mail their ballot must ensure it is postmarked by the end of Election Day. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/05/472463/>
+
+---
+
+## The Unconventional Conventionalists brings the ‘Rocky Horror Picture Show’ to the Santa Clarita Valley
+
+date: 2024-11-05, from: The Canyon News (COC Student Newspaper)
+
+<p>The Rocky Horror Picture Show is a cult classic loved by many&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/the-rocky-horror-picture-show/">The Unconventional Conventionalists brings the &#8216;Rocky Horror Picture Show&#8217; to the Santa Clarita Valley</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/the-rocky-horror-picture-show/>
+
+---
+
+## When the winner’s name isn’t enough: How the AP is leaning into explanatory journalism to call races
+
+date: 2024-11-05, from: Nieman Journalism Lab
+
+Ten years ago, when the Associated Press declared the winners of the 2014 midterm elections, the alerts it sent out were little more than headlines: So-and-so won such-and-such election in this or that state. The updates were short and to the point — no more than 120 characters, usually — and the AP didn’t see... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/11/when-the-winners-name-isnt-enough-how-the-ap-is-leaning-into-explanatory-journalism-to-call-races/>
 
 ---
 
@@ -30,6 +222,18 @@ date: 2024-11-05, from: Nieman Journalism Lab
 <br> 
 
 <https://www.niemanlab.org/2024/11/votebeat-assembles-nearly-100-election-experts-to-answer-reporters-questions-now-and-in-the-weeks-ahead/>
+
+---
+
+## Student journalists, filling local news gaps, step up to cover the 2024 election
+
+date: 2024-11-05, from: Nieman Journalism Lab
+
+The 2024 election is all hands on deck for American newsrooms. And student reporters are helping supply critical local news to communities across the country. The Center for Community News at the University of Vermont is leading what it calls “the first nationally coordinated effort to strengthen university-led election coverage.” Around 145 colleges across 46... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/11/student-journalists-filling-local-news-gaps-step-up-to-cover-the-2024-election/>
 
 ---
 
