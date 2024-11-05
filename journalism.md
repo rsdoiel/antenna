@@ -1,11 +1,322 @@
 ---
 title: journalism
-updated: 2024-11-04 07:12:07
+updated: 2024-11-05 09:28:50
 ---
 
 # journalism
 
-(date: 2024-11-04 07:12:07)
+(date: 2024-11-05 09:28:50)
+
+---
+
+## Student journalists, filling local news gaps, step up to cover the 2024 election
+
+date: 2024-11-05, from: Nieman Journalism Lab
+
+The 2024 election is all-hands-on-deck for American newsrooms. And student reporters are helping supply critical local news to communities across the country. The Center for Community News at the University of Vermont is leading what it calls “the first nationally coordinated effort to strengthen university-led election coverage.” Around 145 colleges across 46 states are participants... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/11/student-journalists-filling-local-news-gaps-step-up-to-cover-the-2024-election/>
+
+---
+
+## Votebeat assembles nearly 100 election experts to answer reporters’ questions (now, and in the weeks ahead)
+
+date: 2024-11-05, from: Nieman Journalism Lab
+
+&#8220;Is wearing Taylor Swift merch or a trash bag considering electioneering in Kansas? What if you dress your kid up as Donald Trump or Kamala Harris?&#8221; &#8220;A used car dealership owner in Texas told his employees he&#8217;d reimburse anyone who votes $20 worth of food at one of several local restaurants. Is that illegal?&#8221; &#8220;Should... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/11/votebeat-assembles-nearly-100-election-experts-to-answer-reporters-questions-now-and-in-the-weeks-ahead/>
+
+---
+
+## Classifieds – November 5, 2024
+
+date: 2024-11-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/05/classifieds-november-5-2024/">Classifieds &#8211; November 5, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/05/classifieds-november-5-2024/>
+
+---
+
+## Campus political groups host final election events
+
+date: 2024-11-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Voter outreach programs mobilize students a week before the General Election.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/05/campus-political-groups-host-final-election-events/">Campus political groups host final election events</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/05/campus-political-groups-host-final-election-events/>
+
+---
+
+## New club gives Jewish students an alternative space for learning
+
+date: 2024-11-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Chavurah USC organizes educational and political events via informal methods.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/05/new-club-gives-jewish-students-an-alternative-space-for-learning/">New club gives Jewish students an alternative space for learning</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/05/new-club-gives-jewish-students-an-alternative-space-for-learning/>
+
+---
+
+## Cartoon of the Month: November
+
+date: 2024-11-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>When life gets overwhelming, maybe all you need is a cuddle at high noon.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/05/cartoon-of-the-month-november/">Cartoon of the Month: November</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/05/cartoon-of-the-month-november/>
+
+---
+
+## ‘Romeo and Juliet’ debuts in glittering, stunning fashion
+
+date: 2024-11-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Los Angeles Opera reimagines Shakespeare's timeless tale of romance and tragedy.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/05/romeo-and-juliet-debuts-in-glittering-stunning-fashion/">&#8216;Romeo and Juliet&#8217; debuts in glittering, stunning fashion</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/05/romeo-and-juliet-debuts-in-glittering-stunning-fashion/>
+
+---
+
+## USAC recap – Oct. 29
+
+date: 2024-11-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council held its fifth meeting of October on Tuesday.
+USAC is the official student government representing the undergraduate student body at UCLA. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/04/usac-recap-oct-29-2/>
+
+---
+
+## Bruin to Bruin: William Cooper
+
+date: 2024-11-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+On this episode of Bruin to Bruin, contributor Jace Dominguez interviews UCLA alumnus William Cooper, who shares his journey from being an unremarkable student to successful business law attorney and published author. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/04/bruin-to-bruin-william-cooper/>
+
+---
+
+## UCLA Law School, Berlin scholars hold panel on voter outreach and election
+
+date: 2024-11-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Scholars from UCLA and Berlin, Germany, discussed strategies for voter outreach at a Oct. 22 UCLA Law School panel.
+The discussion, titled &#8220;What Moves an Electorate? 
+
+<br> 
+
+<https://dailybruin.com/2024/11/04/ucla-law-school-berlin-scholars-hold-panel-on-voter-outreach-and-election/>
+
+---
+
+## Review: Silent Hill 2’s Remake Revives the Franchise with a Stellar Reimagining
+
+date: 2024-11-05, from: The Sundail (CSUN Student Newspaper)
+
+“In my restless dreams, I see that town. Silent Hill.” &#8211; Mary Shepard-Sunderland. The remake 2024 of Silent Hill 2 by Polish developer Bloober Team, has surpassed expectations and created... 
+
+<br> 
+
+<https://sundial.csun.edu/187185/arts-entertainment/review-silent-hill-2s-remake-revives-the-franchise-with-a-stellar-reimagining/>
+
+---
+
+## Daily Bruin wins 46 awards at 2024 Fall National College Media Convention
+
+date: 2024-11-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+NEW ORLEANS – The Daily Bruin took home 46 awards at the Fall National College Media Convention, including several recognizing coverage of campus pro-Palestine demonstrations.
+The Associated College Press and the College Media Association honored student journalists and student media advisors at the convention, which took place from Wednesday to Saturday in New Orleans. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/04/daily-bruin-wins-46-awards-at-2024-fall-national-college-media-convention/>
+
+---
+
+## LIVE: Coverage of the Christopher Rodriguez trial
+
+date: 2024-11-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/category/breaking/christopher-rodriguez-trial>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-05, from: The Daily Bruin (UCLA Student Newspaper))
+
+Jury selection for the trial begins Tuesday, and opening statements commence Nov. 12, followed by witness testimony. Rodriguez&#8217;s attorney said the charges filed against his client are classified as misdemeanors after District Attorney George Gascón declined to file felony charges. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/04/472425/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-05, from: The Daily Bruin (UCLA Student Newspaper))
+
+Los Angeles Superior Court Judge Liliana Gonzalez approved a motion to allow child witnesses for the trial to testify in a separate room from defendant Christopher Rodriguez using closed-circuit video. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/04/472423/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-05, from: The Daily Bruin (UCLA Student Newspaper))
+
+The Daily Bruin covers breaking news relevant to the UCLA community as it happens. This page covers the 2024 trial of Christopher Rodriguez, who worked at UCLA Early Care and Education for nearly 25 years. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/04/472418/>
+
+---
+
+## Candidates vie for LACCD Board seats
+
+date: 2024-11-05, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Article compiled by Ryan Kassebaum, Matthew Stewart, Violet Garcia and Tim Lewis. Twelve candidates are competing for four open seats on the Los Angeles Community</p>
+<p>The post <a href="https://theroundupnews.com/2024/11/04/candidates-vie-for-laccd-board-seats/">Candidates vie for LACCD Board seats</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2024/11/04/candidates-vie-for-laccd-board-seats/?utm_source=rss&utm_medium=rss&utm_campaign=candidates-vie-for-laccd-board-seats>
+
+---
+
+## How are celebrity endorsements shaping the 2024 Presidential Election?
+
+date: 2024-11-05, from: The Sundail (CSUN Student Newspaper)
+
+As the results of the 2024 Presidential Election are expected this week, there is significant anticipation on which bills may be passed and more importantly which one of the presidential... 
+
+<br> 
+
+<https://sundial.csun.edu/187178/arts-entertainment/how-are-celebrity-endorsements-shaping-the-2024-presidential-election/>
+
+---
+
+## Coconut tree, campaign tactic: How social media became essential in the 2024 race
+
+date: 2024-11-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+As Vice President Kamala Harris and former President Donald Trump ramp up their presidential campaigns, so have their social media directors.
+Social media has changed the landscape of elections, with over half of Americans at least sometimes getting their news from social media, according to the Pew Research Center. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/04/coconut-tree-campaign-tactic-how-social-media-became-essential-in-the-2024-race/>
+
+---
+
+## Know Your Voter Rights
+
+date: 2024-11-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2024/11/04/know-your-voter-rights/>
+
+---
+
+## UCLA screens Oscar-qualified alumni films ‘Picture Day,’ ‘In the Garden of Tulips’
+
+date: 2024-11-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA School of Theater, Film and Television screened alumni&#8217;s Oscar-qualified short films in honor of their success.
+The short films &#8220;Picture Day&#8221; and &#8220;In the Garden of Tulips&#8221; were displayed in the James Bridges Theater on Oct. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/04/ucla-screens-oscar-qualified-alumni-films-picture-day-in-the-garden-of-tulips/>
+
+---
+
+## The Washington Post isn’t alone: Roughly 3/4 of major American newspapers aren’t endorsing anyone for president this year
+
+date: 2024-11-04, from: Nieman Journalism Lab
+
+I can&#8217;t remember the last time I was as shocked by a news-industry number as I was by 200,000. Specifically, the 200,000 Washington Post subscribers who NPR&#8217;s David Folkenflik reported cancelled their subscriptions in the days after the paper announced it wouldn&#8217;t be endorsing in the 2024 presidential race. (Not long after, the number grew... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/11/the-washington-post-isnt-alone-roughly-3-4-of-major-american-newspapers-arent-endorsing-anyone-for-president-this-year/>
+
+---
+
+## Strategies for Improving Memorization
+
+date: 2024-11-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2024/11/04/strategies-for-improving-memorization/>
+
+---
+
+## Halloween By The Numbers
+
+date: 2024-11-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2024/11/04/halloween-by-the-numbers/>
+
+---
+
+## A Fan’s Guide to the Big 10
+
+date: 2024-11-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2024/11/04/a-fans-guide-to-the-big-10/>
 
 ---
 
@@ -195,12 +506,12 @@ date: 2024-11-04, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## King Gizzard and The Lizard Wizard Overthrows Kia Forum
+## King Gizzard and The Lizard Wizard overthrows Kia Forum
 
 date: 2024-11-04, from: The Daily Trojan (USC Student Newspaper)
 
 <p>The Aussie rockers kicked off the second leg of their tour with a 3-hour marathon set.</p>
-<p>The post <a href="https://dailytrojan.com/2024/11/04/king-gizzard-and-the-lizard-wizard-overthrows-kia-forum/">King Gizzard and The Lizard Wizard Overthrows Kia Forum</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/04/king-gizzard-and-the-lizard-wizard-overthrows-kia-forum/">King Gizzard and The Lizard Wizard overthrows Kia Forum</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <br> 
@@ -289,12 +600,12 @@ Student theater group Act III Theatre Ensemble produces a free stage adaptation 
 
 ---
 
-## Streets Are For Everyone hosted their Annual ‘Finish the Ride And Finsh the Run’event to promote road saftey
+## Streets Are For Everyone hosted their Annual ‘Finish the Ride And Finsh the Run’ event to promote road saftey
 
 date: 2024-11-04, from: The Canyon News (COC Student Newspaper)
 
 <p>California has one of the highest rates of pedestrian-vehicle accidents in the&#8230;</p>
-<p>The post <a href="https://canyonsnews.com/finsh-he-ride/">Streets Are For Everyone hosted their Annual &#8216;Finish the Ride And Finsh the Run&#8217;event to promote road saftey</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+<p>The post <a href="https://canyonsnews.com/finsh-he-ride/">Streets Are For Everyone hosted their Annual &#8216;Finish the Ride And Finsh the Run&#8217; event to promote road saftey</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
  
 
 <br> 

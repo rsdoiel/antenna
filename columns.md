@@ -1,77 +1,150 @@
 ---
 title: columns
-updated: 2024-11-04 07:12:06
+updated: 2024-11-05 09:28:50
 ---
 
 # columns
 
-(date: 2024-11-04 07:12:06)
+(date: 2024-11-05 09:28:50)
 
 ---
 
-**@Miguel de Icaza Mastondon feed** (date: 2024-11-04, from: Miguel de Icaza Mastondon feed)
+##  Fleabag in Lego. &#8220;I look like a pencil!&#8221;... 
 
-<p>As seen on Twitter:</p> 
+date: 2024-11-05, updated: 2024-11-05, from: Jason Kittke's blog
 
-<br> 
-
-<https://mastodon.social/@Migueldeicaza/113425244064705157>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-11-04, from: Dave Winer's Scripting News)
-
-<img class="imgRightMargin" src="https://imgs.scripting.com/2021/06/14/strongman.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://lists.opml.org/">lists.opml.org</a>: The other day I asked a famous blogger who uses RSS if he would be willing to share his list of feeds, so others could subscribe to them. He declined, for good reason, there was private stuff in the list he couldn't share. I certainly understand that. Then I realized, as often is the case, that I could do myself what I had been asking others to do. And in fact I already was sharing my OPML subscription lists, but people who didn't use <a href="https://feedland.com/">FeedLand</a> wouldn't know <a href="https://imgs.scripting.com/2024/11/04/whereTheOpmlLinkIsInFeedland.png">how to find</a> them. So I decided to make it easier. On <a href="https://lists.opml.org/">lists.opml.org</a> I've got a link to the <a href="http://scripting.com/publicfolder/feedland/subscriptionLists/podcasts.opml">lists of podcasts</a> I'm subscribed to. That list should update every hour for any additions or removals from this list. I don't update the list very often, fwiw. And I make no warranties about the quality of the podcasts, or when the feeds in the list update. And maybe this will give other people an idea that they might want to do this as well. Let me know if you do, I'd love to see what you do. 
-
-<br> 
-
-<http://scripting.com/2024/11/04.html#a143253>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-11-04, from: Dave Winer's Scripting News)
-
-<img class="imgRightMargin" src="https://imgs.scripting.com/2022/03/14/blueMonday.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Tomorrow if you are an American, and haven't voted yet and are thinking of sitting it out -- get off your butt and get out there and do your civic duty. We need great turnout this year, record-setting turnout, as a show of love for our country and our Constitution. Vote now, because later you might not have any power to change direction. Tomorrow, you do have power. And remember that voting is not you expressing yourself, it's not free speech, it's you and I governing. This is our moment of greatest power. Use it or lose it. 
-
-<br> 
-
-<http://scripting.com/2024/11/04.html#a134017>
-
----
-
-## Rebooting the news
-
-date: 2024-11-04, from: Dave Winer's Scripting News
-
-<p>My opinion: At this point it doesn’t matter what the NYT says. Either way they jumped the shark for the last time in this election.</p>
-<p>After the election if we still have freedom of speech, we should reboot news around the simple idea of news written by experts. They must know the basic rules of journalism, imho that's much easier than the know-nothing journalist posing as everyman with a <a href="https://pressthink.org/2010/11/the-view-from-nowhere-questions-and-answers/">view from nowhere</a>, trying to understand what they're writing about. They don't have any basis to judge, we give them far too much power. That system is rooted in a time when publishing was expensive but that hasn't been true for thirty years. the old system has run its course. This election, either way, is a lesson in how that system, if it ever worked, doesn't work today. The next news system will be sources going direct to interested readers. </p>
-<p><a href="https://en.wikipedia.org/wiki/Jay_Rosen">Jay Rosen</a> and I did a <a href="https://rebootnews.wordpress.com/">series of podcasts</a> in the early teens called Rebooting the News. This was the basic premise. I believe more than ever that this is the best path for news going forward. </p>
-<p>They did this at Wired for a while. I was invited to be a columnist when my main qualification was that I was an accomplished software developer. I think that's the way to go. Experts sharing their perspectives on current events. </p>
-<p>Before Twitter existed, in 2002, I proposed to the NYT that they offer a blog to anyone who is quoted in a NYT article. If they had done this, the NYT would be what Twitter became, and it wouldn't now be owned by Elon Musk, for the benefit of humanity. I wish they had done it. It would have been a real moneymaker. And good for the flow of knowledge.</p>
  
 
 <br> 
 
-<http://scripting.com/2024/11/04/132817.html?title=rebootingTheNews>
+<https://kottke.org/24/11/0045582-fleabag-in-lego-i-look>
 
 ---
 
-## Sophos Versus the Chinese Hackers
+**@Miguel de Icaza Mastondon feed** (date: 2024-11-05, from: Miguel de Icaza Mastondon feed)
 
-date: 2024-11-04, updated: 2024-11-04, from: Bruce Schneier blog
+<p>Every M-based computer has been a vast improvement over the equivalent PC offering.<br /><a href="https://mastodon.social/@iryantldr/113431366744282667" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@iryantldr/113</span><span class="invisible">431366744282667</span></a></p> 
 
-<p>Really interesting <a href="https://www.wired.com/story/sophos-chengdu-china-five-year-hacker-war/">story</a> of Sophos&#8217;s five-year war against Chinese hackers.</p>
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113431413514330906>
+
+---
+
+##  A Scottish children&#8217;s hospital has a gamer-in-residence who plays w/ patients. &#8220;He... 
+
+date: 2024-11-05, updated: 2024-11-05, from: Jason Kittke's blog
+
  
 
 <br> 
 
-<https://www.schneier.com/blog/archives/2024/11/sophos-versus-the-chinese-hackers.html>
+<https://kottke.org/24/11/0045583-a-scottish-childrens-hosp>
+
+---
+
+## Why Carnegie’s Rules Are Evergreen
+
+date: 2024-11-05, from: Om Malik blog
+
+A few weeks ago, I went on a road trip to Montana with Rod Clark, a photographer friend. On the way back, we stopped in Wells, NV, to get food at Sher-E-Panjab Dhaba, a converted truck stop diner that serves good old-fashioned Punjabi food. When paying for our lunch, I got into a conversation with the guy behind &#8230; 
+
+<br> 
+
+<https://om.co/2024/11/05/why-carnegies-rules-are-evergreen/>
+
+---
+
+## 2024-11-05 Gomphotherium helps you forget
+
+date: 2024-11-05, from: Alex Schroeder's Blog
+
+<h1 id="2024-11-05-gomphotherium-helps-you-forget">2024-11-05 Gomphotherium helps you forget</h1>
+
+<p>If you use GoToSocial, like I do, then your posts do not expire.
+Mastodon, on the other hand, has that feature.</p>
+
+<p>Now, you could use <a href="Mastodon_Archive">Mastodon Archive</a>.
+But that makes you archive your toots before expiring them.</p>
+
+<p>No good!</p>
+
+<p>I want them gone. So here&rsquo;s a tiny Python script, built on the shoulders of the Mastodon.py library.
+It deletes and unboosts ten posts older than eight weeks that you haven&rsquo;t pinned.</p>
+
+<p>The idea is to run it from a cron job every hour, deleting up to 240 toots per day.
+The reason is that the deletion rate limits are super strict.
+So you have to be slow about it.</p>
+
+<p>Now, I could not be arsed to write yet another oAuth workflow. So here&rsquo;s the deal:
+Use <code>toot</code> to login.
+It&rsquo;s a great client for the command line and it comes with a separate text-based user-interface.</p>
+
+<p>Gomphotherium uses the <code>toot</code> config file to log in. 😬</p>
+
+<p>It&rsquo;s probably full of bugs. At least it&rsquo;s short.</p>
+
+<ul>
+<li><a href="https://src.alexschroeder.ch/gompotherium.git">Source</a></li>
+</ul>
+
+<p><a class="tag" href="/search/?q=%23GoToSocial">#GoToSocial</a> <a class="tag" href="/search/?q=%23Mastodon_Archive">#Mastodon Archive</a> <a class="tag" href="/search/?q=%23Gomphotherium">#Gomphotherium</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2024-11-05-gomphotherium>
+
+---
+
+## Today. Holding each other's hands. 
+
+date: 2024-11-05, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/today-holding-each-others-hands>
+
+---
+
+##  TIL about argonaut octopuses. &#8220;Although most octopuses live near the ocean floor... 
+
+date: 2024-11-05, updated: 2024-11-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045581-til-about-argonaut-octopu>
+
+---
+
+## Join us tonight for an Election Night Live
+
+date: 2024-11-05, from: Robert Reich's blog
+
+at 9:00pm PT/10 pm MT/11 pm CT/12:00am ET 
+
+<br> 
+
+<https://robertreich.substack.com/p/join-us-tonight-for-an-election-night>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-05, from: Dave Winer's Scripting News)
+
+<div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/11/05/votingForUs.png"></center>It's Election Day in the US. Your vote is your power. </div> 
+
+<br> 
+
+<http://scripting.com/2024/11/05.html#a130139>
 
 ---
 
 ## 2024-11-01 Gzip them all!
 
-date: 2024-11-04, from: Alex Schroeder's Blog
+date: 2024-11-05, from: Alex Schroeder's Blog
 
 <h1 id="2024-11-01-gzip-them-all">2024-11-01 Gzip them all!</h1>
 
@@ -287,7 +360,7 @@ ForceType application/pdf
 <p><a class="tag" href="/search/?q=%23RPG">#RPG</a> <a class="tag" href="/search/?q=%231PDC">#1PDC</a> <a class="tag" href="/search/?q=%23Administration">#Administration</a></p>
 
 <p><strong>2024-11-04</strong>. I started looking at Ghostscript to reduce filesize.
-The result using <code>-dPDFSETTINGS=/ebook</code> is disappointing. The first PDF I opened had text in the original turned to a badly pixelated image.</p>
+The result of using <code>-dPDFSETTINGS=/ebook</code> is disappointing. The first PDF I opened had text in the original turned to a badly pixelated image.</p>
 
 <p>I started reading <a href="https://ghostscript.com/blog/optimizing-pdfs.html">Optimizing PDFs</a> on the Ghostscript blog and my head started smoking.</p>
 
@@ -335,6 +408,345 @@ The result using <code>-dPDFSETTINGS=/ebook</code> is disappointing. The first P
 
 ---
 
+## AIs Discovering Vulnerabilities
+
+date: 2024-11-05, updated: 2024-11-05, from: Bruce Schneier blog
+
+<p>I&#8217;ve been <a href="https://www.schneier.com/essays/archives/2018/03/artificial_intellige.html">writing about</a> the possibility of AIs automatically discovering code vulnerabilities since at least 2018. This is an ongoing area of research: AIs doing source code scanning, AIs finding zero-days in the wild, and everything in between. The AIs aren&#8217;t very good at it yet, but they&#8217;re getting better.</p>
+<p>Here&#8217;s some <a href="https://zeropath.com/blog/0day-discoveries">anecdotal data</a> from this summer:</p>
+<blockquote><p>Since July 2024, ZeroPath is taking a novel approach combining deep program analysis with adversarial AI agents for validation. Our methodology has uncovered numerous critical vulnerabilities in production systems, including several that traditional Static Application Security Testing (SAST) tools were ill-equipped to find. This post provides a technical deep-dive into our research methodology and a living summary of the bugs found in popular open-source tools...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/11/ais-discovering-vulnerabilities.html>
+
+---
+
+## curl -v google.com
+
+date: 2024-11-05, from: Daniel Stenberg Blog
+
+The little men in your computer do this every time you open google.com I found this video so hilarious and awesome that I simply had to also mention it here. 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2024/11/05/curl-v-google-com/>
+
+---
+
+## Be prepared for the “red mirage” tonight!
+
+date: 2024-11-05, from: Robert Reich's blog
+
+It&#8217;s a dirty trick Trump used in 2020 and will probably try to use tonight, but it won&#8217;t work if you know it&#8217;s coming. Please spread the word. 
+
+<br> 
+
+<https://robertreich.substack.com/p/be-prepared-for-the-red-mirage-on>
+
+---
+
+## November 4, 2024
+
+date: 2024-11-05, from: Heather Cox Richardson blog
+
+Today, the Office of the Director of National Intelligence (ODNI), the Federal Bureau of Investigation (FBI), and the Cybersecurity and Infrastructure Security Agency (CISA) warned that foreign adversaries, especially Russia, are working &#8220;to undermine public confidence in the integrity of U.S. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/november-4-2024>
+
+---
+
+##  Wow, more than 40 people have undergone a CAR-T-cell therapy for lupus,... 
+
+date: 2024-11-05, updated: 2024-11-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045579-wow-more-than-40-people>
+
+---
+
+## ‘Vote to End the Trump Era’
+
+date: 2024-11-05, updated: 2024-11-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.nytimes.com/interactive/2024/11/02/opinion/vote-harris-2024-election.html>
+
+---
+
+## Harrison Ford Endorses Kamala Harris
+
+date: 2024-11-05, updated: 2024-11-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.threads.net/@kamalahq/post/DB4aHh4uP8l>
+
+---
+
+## Nilay Patel: ‘A Vote for Donald Trump Is a Vote for School Shootings and Measles’
+
+date: 2024-11-05, updated: 2024-11-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/24282022/kamala-harris-endorsement-presidential-election-2024>
+
+---
+
+## The Message That Works: the Republicans Who Know Trump Best Refuse to Endorse Him
+
+date: 2024-11-05, updated: 2024-11-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.thebulwark.com/p/reich-track-wrong-track>
+
+---
+
+## Skate to where the puck is going to be, not where it has been
+
+date: 2024-11-05, from: Matt Haughey blog
+
+<p>Here&apos;s a thing I can&apos;t stop noticing in new cars: when the iPad came out in early 2010, it took the world by storm and subsequently, when the Tesla Model S debuted in 2012, it had what seemed like a very forward-thinking futuristic dashboard that was</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/skate-to-where-the-puck-is-going-to-be-not-where-it-has-been/>
+
+---
+
+## Apple Intelligence’s Transcriptions Are Very Good
+
+date: 2024-11-05, from: Om Malik blog
+
+I have been using MacWhisper for recording and transcribing my conference calls and interviews for quite a while now. I have also tried&#160;FlowVoice.AI&#160;for using voice to respond to emails, text&#160;messages&#160;and do short dictations. Now that I have upgraded to&#160;the&#160;latest version of&#160;the&#160;Mac operating system,&#160;today,&#160;I decided to put the new Apple Intelligence voice transcription to&#160;the&#160;test.&#160; I dropped &#8230; 
+
+<br> 
+
+<https://om.co/2024/11/04/apple-intelligences-transcriptions-are-very-good/>
+
+---
+
+##  &#8220;I did go touch that rock. I didn&#8217;t tell anyone&#8230;&#8221; I live... 
+
+date: 2024-11-05, updated: 2024-11-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045575-i-did-go-touch-that>
+
+---
+
+## Staying Steady and Sane
+
+date: 2024-11-04, from: Dan Rather's Steady
+
+The Dan Rather Election Guide 
+
+<br> 
+
+<https://steady.substack.com/p/staying-steady-and-sane>
+
+---
+
+##  Some profiles of first-time voters who were formerly incarcerated. &#8220;I&#8217;m carrying all... 
+
+date: 2024-11-04, updated: 2024-11-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045576-some-profiles-of-first-ti>
+
+---
+
+##  I am *very* excited about this: Christian Marclay&#8217;s The Clock is going... 
+
+date: 2024-11-04, updated: 2024-11-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045578-i-am-very-excited-about>
+
+---
+
+##  The Powerful Density of Hypertextual Writing 
+
+date: 2024-11-04, updated: 2024-11-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/the-powerful-density-of-hypertextual-writing>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-11-04, from: Miguel de Icaza Mastondon feed)
+
+<p>I could preview Godot for iPad today, but there is a UIKit bug that crashes it after you run the game.</p><p>So either I have to rewrite the NavigationShell/Sidebar/Inspector, or I have to cross my fingers for Apple to fix the bug.</p><p><a href="https://github.com/feedback-assistant/reports/issues/550" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/feedback-assistant/</span><span class="invisible">reports/issues/550</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113426593220723330>
+
+---
+
+## November 3, 2024
+
+date: 2024-11-04, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/151175432/1b06acd55c93ee2a6ed459aff8ff17fb.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/151175432/1b06acd55c93ee2a6ed459aff8ff17fb.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/november-3-2024-fd7>
+
+---
+
+## History Extra for November 3, 2024
+
+date: 2024-11-04, from: Heather Cox Richardson blog
+
+After Congress passed the Kansas-Nebraska Act and President Franklin Pierce signed it into law, Illinois lawyer Abraham Lincoln applied the logic of mathematics to the American system of human slavery. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/history-extra-for-november-3-2024>
+
+---
+
+##  Based on Our Election Forecast, We Are 100 Percent Sure Anything Could... 
+
+date: 2024-11-04, updated: 2024-11-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045573-based-on-our-election-for>
+
+---
+
+##  How Are You Doing? 
+
+date: 2024-11-04, updated: 2024-11-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/how-are-you-doing-1>
+
+---
+
+## Watched Toxicity Halloween Light and Fire Show
+
+date: 2024-11-04, from: Tracy Durnell Blog
+
+ 
+
+<br> 
+
+<https://tracydurnell.com/2024/11/04/watched-toxicity-halloween-light-and-fire-show/>
+
+---
+
+## Bitwarden switches password manager and SDK to GPL3 after FOSS-iness drama
+
+date: 2024-11-04, updated: 2024-11-04, from: Liam Proven's articles at the Register
+
+<h4>Open source tool chooses to become more open than ever</h4>
+      <p>Fear not, FOSS fans. Bitwarden isn&#39;t going proprietary after all. The company has changed its license terms once again – but this time, it has switched the license of its software development kit from its own homegrown one to version three of the GPL instead.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/11/04/bitwarden_gpls_password_manager/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-11-04, from: Miguel de Icaza Mastondon feed)
+
+<p>As seen on Twitter:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113425244064705157>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-04, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2021/06/14/strongman.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://lists.opml.org/">lists.opml.org</a>: The other day I asked a famous blogger who uses RSS if he would be willing to share his list of feeds, so others could subscribe to them. He declined, for good reason, there was private stuff in the list he couldn't share. I certainly understand that. Then I realized, as often is the case, that I could do myself what I had been asking others to do. And in fact I already was sharing my OPML subscription lists, but people who didn't use <a href="https://feedland.com/">FeedLand</a> wouldn't know <a href="https://imgs.scripting.com/2024/11/04/whereTheOpmlLinkIsInFeedland.png">how to find</a> them. So I decided to make it easier. On <a href="https://lists.opml.org/">lists.opml.org</a> I've got a link to the <a href="http://scripting.com/publicfolder/feedland/subscriptionLists/podcasts.opml">lists of podcasts</a> I'm subscribed to. That list should update every hour for any additions or removals from this list. I don't update the list very often, fwiw. And I make no warranties about the quality of the podcasts, or when the feeds in the list update. And maybe this will give other people an idea that they might want to do this as well. Let me know if you do, I'd love to see what you do. 
+
+<br> 
+
+<http://scripting.com/2024/11/04.html#a143253>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-04, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2022/03/14/blueMonday.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Tomorrow if you are an American, and haven't voted yet and are thinking of sitting it out -- get off your butt and get out there and do your civic duty. We need great turnout this year, record-setting turnout, as a show of love for our country and our Constitution. Vote now, because later you might not have any power to change direction. Tomorrow, you do have power. <b>And remember that voting is not you expressing yourself, it's not free speech, it's you and I governing. </b>This is our moment of greatest power. Use it or lose it. 
+
+<br> 
+
+<http://scripting.com/2024/11/04.html#a134017>
+
+---
+
+## Rebooting the news
+
+date: 2024-11-04, from: Dave Winer's Scripting News
+
+<p>My opinion: At this point it doesn’t matter what the NYT says. Either way they jumped the shark for the last time in this election.</p>
+<p>After the election if we still have freedom of speech, we should reboot news around the simple idea of news written by experts. They must know the basic rules of journalism, imho that's much easier than the know-nothing journalist posing as everyman with a <a href="https://pressthink.org/2010/11/the-view-from-nowhere-questions-and-answers/">view from nowhere</a>, trying to understand what they're writing about. They don't have any basis to judge, we give them far too much power. That system is rooted in a time when publishing was expensive but that hasn't been true for thirty years. the old system has run its course. This election, either way, is a lesson in how that system, if it ever worked, doesn't work today. The next news system will be sources going direct to interested readers. </p>
+<p><a href="https://en.wikipedia.org/wiki/Jay_Rosen">Jay Rosen</a> and I did a <a href="https://rebootnews.wordpress.com/">series of podcasts</a> in the early teens called Rebooting the News. This was the basic premise. I believe more than ever that this is the best path for news going forward. </p>
+<p>They did this at Wired for a while. I was invited to be a columnist when my main qualification was that I was an accomplished software developer. I think that's the way to go. Experts sharing their perspectives on current events. </p>
+<p>Before Twitter existed, in 2002, I proposed to the NYT that they offer a blog to anyone who is quoted in a NYT article. If they had done this, the NYT would be what Twitter became, and it wouldn't now be owned by Elon Musk, for the benefit of humanity. I wish they had done it. It would have been a real moneymaker. And good for the flow of knowledge.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2024/11/04/132817.html?title=rebootingTheNews>
+
+---
+
+## Sophos Versus the Chinese Hackers
+
+date: 2024-11-04, updated: 2024-11-04, from: Bruce Schneier blog
+
+<p>Really interesting <a href="https://www.wired.com/story/sophos-chengdu-china-five-year-hacker-war/">story</a> of Sophos&#8217;s five-year war against Chinese hackers.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/11/sophos-versus-the-chinese-hackers.html>
+
+---
+
 ## We the People will succeed
 
 date: 2024-11-04, from: Robert Reich's blog
@@ -361,7 +773,7 @@ I&#8217;m home tonight to stay for a bit, after being on the road for thirteen m
 
 ## Iowa Poll From ‘Best Pollster In Politics’: Kamala Harris Ahead 47-44
 
-date: 2024-11-04, updated: 2024-11-04, from: Daring Fireball
+date: 2024-11-04, updated: 2024-11-05, from: Daring Fireball
 
  
 

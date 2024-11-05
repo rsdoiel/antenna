@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2024-11-04 07:12:07
+updated: 2024-11-05 09:28:51
 ---
 
 # libraries
 
-(date: 2024-11-04 07:12:07)
+(date: 2024-11-05 09:28:51)
 
 ---
 
@@ -18,6 +18,32 @@ Reisach, Dominik
 <br> 
 
 <http://hdl.handle.net/20.500.11850/703142>
+
+---
+
+## The Top Ten Challenges, Needs, and Goals of Publishers – and How AI Can Help in Digital Transformation and the Open Science Movement
+
+date: 2024-11-05, from: Scholarly Kitchen
+
+<p>As artificial intelligence begins to play an ever-bigger role in the scholarly publishing landscape, how might it help solve some of the biggest challenges facing publishers?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/11/05/the-top-ten-challenges-needs-and-goals-of-publishers-and-how-ai-can-help-in-digital-transformation-and-the-open-science-movement/">The Top Ten Challenges, Needs, and Goals of Publishers – and How AI Can Help in Digital Transformation and the Open Science Movement</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2024/11/05/the-top-ten-challenges-needs-and-goals-of-publishers-and-how-ai-can-help-in-digital-transformation-and-the-open-science-movement/>
+
+---
+
+## Là-Bas, by J.-K. Huysmans
+
+date: 2024-11-04, from: Standard Ebooks, new releaases
+
+An author struggles to complete his book without having any practical experience of Satanism. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/j-k-huysmans/la-bas/keene-wallace>
 
 ---
 

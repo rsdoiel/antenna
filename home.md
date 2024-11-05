@@ -1,11 +1,333 @@
 ---
 title: home
-updated: 2024-11-04 07:12:07
+updated: 2024-11-05 09:28:51
 ---
 
 # home
 
-(date: 2024-11-04 07:12:07)
+(date: 2024-11-05 09:28:51)
+
+---
+
+## A Family’s London Renovation Makes Space for Everyone—Including the Cat
+
+date: 2024-11-05, from: Dwell
+
+The redesigned rear extension incorporates reclaimed bricks, a planted roof, and a concrete kitty door. 
+
+<br> 
+
+<https://www.dwell.com/article/house-in-stoke-newington-vatraa-extension-renovation-cat-door-25821aa2>
+
+---
+
+## Happsy Mattress Review: This Organic Mattress Changed the Way I Sleep
+
+date: 2024-11-05, from: Family Handyman Blog
+
+<p>Handcrafted in the United States, the Happsy is made with certified organic materials and is one of the most budget-friendly organic mattresses.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/happsy-mattress-review/">Happsy Mattress Review: This Organic Mattress Changed the Way I Sleep</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/happsy-mattress-review/>
+
+---
+
+## When and How to Repot Christmas Cactus
+
+date: 2024-11-05, from: The Gardener's Path
+
+<p>Holiday cacti are epiphytic succulents that bloom with bright colorful flowers during the winter months. These plants are generally low-maintenance and don't require repotting very often. If your Christmas cactus is outgrowing its current container, learn when and how to repot it in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/repot-christmas-cactus/">When and How to Repot Christmas Cactus</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/succulents/repot-christmas-cactus/>
+
+---
+
+## Could This Hack Make Bagging Leaves Easier?
+
+date: 2024-11-05, from: Family Handyman Blog
+
+<p>Leaf cleanup can be a daunting task in the fall, but with a few clever hacks, it can become much easier and even enjoyable.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/bagging-leaves-hack/">Could This Hack Make Bagging Leaves Easier?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/bagging-leaves-hack/>
+
+---
+
+## 9 Christmas Tree Hacks That Will Make the Holidays a Breeze
+
+date: 2024-11-05, from: Family Handyman Blog
+
+<p>From storing to caring for Christmas trees, we've got all the hacks and tips you need to know to keep your Christmas tree healthy.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/christmas-tree-hacks-to-make-the-holidays-a-breeze/">9 Christmas Tree Hacks That Will Make the Holidays a Breeze</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/christmas-tree-hacks-to-make-the-holidays-a-breeze/>
+
+---
+
+## Goldfish Plant Care and Growing Guide with Ultimate Tips
+
+date: 2024-11-05, from: Yard Life blog
+
+<p>The goldfish plant (Columnea, Nematanthus gregarious) is a stunning tropical houseplant known for its eye-catching, red-orange blooms that resemble tiny ... </p>
+<p class="read-more-container"><a title="Goldfish Plant Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/goldfish-plant-care-and-growing-guide-with-ultimate-tips/#more-21630" aria-label="Read more about Goldfish Plant Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/goldfish-plant-care-and-growing-guide-with-ultimate-tips/">Goldfish Plant Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/goldfish-plant-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## 11 Home Scents That Will Transform Your Space
+
+date: 2024-11-05, from: Dwell
+
+Pro tip: you don’t need to live in a French chateau to make your place smell like one. 
+
+<br> 
+
+<https://www.dwell.com/article/home-scent-gift-guide-0e802189>
+
+---
+
+## Gladiolus Flower Care and Growing Guide with Ultimate Tips
+
+date: 2024-11-05, from: Yard Life blog
+
+<p>The Gladiolus flower, known scientifically as Gladiolus palustris, is a stunning addition to any garden. As a member of the ... </p>
+<p class="read-more-container"><a title="Gladiolus Flower Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/gladiolus-flower-care-and-growing-guide-with-ultimate-tips/#more-21624" aria-label="Read more about Gladiolus Flower Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/gladiolus-flower-care-and-growing-guide-with-ultimate-tips/">Gladiolus Flower Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/gladiolus-flower-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## These Are the Wines to Pair with Your Holiday Meal
+
+date: 2024-11-05, from: Sunset Magazine - Living in the West
+
+Give the gift of the Sunset Wine Club, featuring the best bottles in the West, perfectly paired with recipes in the magazine. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/wine-club-pairings-holiday-issue-2024>
+
+---
+
+## Stewardship Pathways: Advancing Tribal Stewardship of All Ancestral Lands
+
+date: 2024-11-04, from: California Native Plants Society
+
+<p>Outlining a specific approach to build climate and community resilience, this article serves as an example of how to center Indigenous perspectives in climate science.</p>
+<p>The post <a href="https://www.cnps.org/artemisia-journal/tribal-stewardship-pathways-native-lands-41049">Stewardship Pathways: Advancing Tribal Stewardship of All Ancestral Lands</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/artemisia-journal/tribal-stewardship-pathways-native-lands-41049>
+
+---
+
+## Stream “Masters of Flip” Now, Exclusively on At Home With Family Handyman
+
+date: 2024-11-04, from: Family Handyman Blog
+
+<p>"Masters of Flip" will be available exclusively on At Home with Family Handyman and on the Family Handyman app, starting November 7! Get ready to watch your favorite episodes any time you please.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/masters-of-flip-at-home-with-family-handyman/">Stream &#8220;Masters of Flip&#8221; Now, Exclusively on At Home With Family Handyman</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/masters-of-flip-at-home-with-family-handyman/>
+
+---
+
+## Rental Revamp: Textile Designer Josie Ford Adds Layers of History to Her 1920s L.A. Apartment
+
+date: 2024-11-04, from: Dwell
+
+Smitten with the Art Deco details of the Hollywood Hills flat, Josie introduced a mixture of vintage and contemporary pieces to kit out the interiors for herself and her Great Dane, Atticus. 
+
+<br> 
+
+<https://www.dwell.com/article/rental-revamp-studio-ford-apartment-villa-bonita-los-angeles-5278f6b3>
+
+---
+
+## 7 Reasons Your Water Pressure Is Low
+
+date: 2024-11-04, from: Family Handyman Blog
+
+<p>Low water pressure got you down? Learn about possible causes and some fixes you can do yourself.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/why-is-my-water-pressure-low/">7 Reasons Your Water Pressure Is Low</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/why-is-my-water-pressure-low/>
+
+---
+
+## The Only Holiday Decor Worth Shopping This Year, According to Designers
+
+date: 2024-11-04, from: Sunset Magazine - Living in the West
+
+We asked the pros what they're buying for the most wonderful time of the year. They shared with us their holiday decor must-haves. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/holiday-decor-shopping-picks>
+
+---
+
+## The Top 10 Most Pup-ular Dog Names of 2024
+
+date: 2024-11-04, from: Family Handyman Blog
+
+<p>Whether you’re naming a new best friend or just curious if your dog’s name made the list, these popular picks are sure to inspire.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/most-popular-dog-names-2024/">The Top 10 Most Pup-ular Dog Names of 2024</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/most-popular-dog-names-2024/>
+
+---
+
+## 11 Vinegar Cleaning Hacks That Will Save You Time and Money
+
+date: 2024-11-04, from: Family Handyman Blog
+
+<p>Vinegar is a natural cleaning solution that yields numerous benefits in and around your home — and it's so cheap!</p>
+<p>The post <a href="https://www.familyhandyman.com/list/vinegar-cleaning-hacks-that-will-save-you-time-and-money/">11 Vinegar Cleaning Hacks That Will Save You Time and Money</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/vinegar-cleaning-hacks-that-will-save-you-time-and-money/>
+
+---
+
+## This Hack Will Help You Tackle Your Procrastination Clutter
+
+date: 2024-11-04, from: Family Handyman Blog
+
+<p>Are you holding on to old items for the wrong reasons? Try this hack to help declutter your home.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/deferred-decision-clutter/">This Hack Will Help You Tackle Your Procrastination Clutter</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/deferred-decision-clutter/>
+
+---
+
+## 17 Back-Saving Tips For Carrying Heavy Loads
+
+date: 2024-11-04, from: Family Handyman Blog
+
+<p>Save your back, and some time, with these genius tips for hauling heavy items.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/back-saving-tips-for-carrying-heavy-loads/">17 Back-Saving Tips For Carrying Heavy Loads</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/back-saving-tips-for-carrying-heavy-loads/>
+
+---
+
+## Here’s What the Grab Handles On Your Car Are Actually For
+
+date: 2024-11-04, from: Family Handyman Blog
+
+<p>Our reflexes often have us reaching out for them, but surprisingly, one of their most common uses is not what they're designed for.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/heres-what-the-grab-handles-on-your-car-are-actually-for/">Here&#8217;s What the Grab Handles On Your Car Are Actually For</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/heres-what-the-grab-handles-on-your-car-are-actually-for/>
+
+---
+
+## Asking £460K, This Little London Flat Comes With a Charming Garden
+
+date: 2024-11-04, from: Dwell
+
+Set on the ground floor of a Victorian, the 659-square-foot apartment has original bay windows and a refreshed kitchen and bath. 
+
+<br> 
+
+<https://www.dwell.com/article/renovated-apartment-st-johns-wood-london-real-estate-47270d16>
+
+---
+
+## This Severe Four-Story London Renovation Goes All In on Aluminum
+
+date: 2024-11-04, from: Dwell
+
+The steely home replaces a teardown cottage with elements that match a Norman Foster–designed extension from the ’60s. 
+
+<br> 
+
+<https://www.dwell.com/article/reciprocal-house-gianni-botsford-architects-aluminum-construction-foster-partners-601eef09>
+
+---
+
+## When and How to Water Cactus Houseplants
+
+date: 2024-11-04, from: The Gardener's Path
+
+<p>Cacti are succulents suited to outdoor cultivation in USDA Hardiness Zones 9 to 11 and popular as houseplants in cooler regions. These water-wise, desert plants are drought-tolerant and overwatering can be fatal – but they do need appropriate hydration. Learn when and how to water potted cactus plants in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/water-cactus/">When and How to Water Cactus Houseplants</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/succulents/water-cactus/>
+
+---
+
+## 14,000 Kia Vehicles Recalled Over Failing Instrument Panels
+
+date: 2024-11-04, from: Family Handyman Blog
+
+<p>Many Kia vehicles are being recalled due to an issue with the instrument panel screen. We've got the important details for you. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/kia-ev9-instrument-panel-recall/">14,000 Kia Vehicles Recalled Over Failing Instrument Panels</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/kia-ev9-instrument-panel-recall/>
+
+---
+
+## Find Your Seasonal Joy With Our Gift Guides For Every Scenario
+
+date: 2024-11-04, from: Dwell
+
+Even the pickiest aesthete in your life will be happy with a gift from our carefully-curated lists. 
+
+<br> 
+
+<https://www.dwell.com/article/dwell-gift-guides-2024-59bdbe76>
 
 ---
 
@@ -21,6 +343,18 @@ date: 2024-11-04, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/eucalyptus-plant-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-11-04, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 

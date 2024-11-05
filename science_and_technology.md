@@ -1,11 +1,539 @@
 ---
 title: science and technology
-updated: 2024-11-04 07:12:06
+updated: 2024-11-05 09:28:49
 ---
 
 # science and technology
 
-(date: 2024-11-04 07:12:06)
+(date: 2024-11-05 09:28:49)
+
+---
+
+## Judge decides not to block Musk's $1M election giveaway
+
+date: 2024-11-05, updated: 2024-11-05, from: The Register (UK I.T. News)
+
+<h4>America PAC tells judge winners were preselected, raising a whole new set of legal questions</h4> <p>It&#39;s a bit of a moot point given the US presidential election is today, but a Pennsylvania judge has declined to stop Elon Musk&#39;s $1M election lottery despite the billionaire&#39;s America PAC seemingly admitting the whole thing was rigged from the start. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/05/judge_musks_1m_election_giveaway/>
+
+---
+
+## Ongoing typosquatting campaign impersonates hundreds of popular npm packages
+
+date: 2024-11-05, updated: 2024-11-05, from: The Register (UK I.T. News)
+
+<h4>Puppeteer or Pupeter? One of them will snoop around on your machine and steal your credentials</h4> <p>An ongoing typosquatting campaign is targeting developers via hundreds of popular JavaScript libraries, whose weekly downloads number in the tens of millions, to infect systems with info-stealing and snooping malware.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/05/typosquatting_npm_campaign/>
+
+---
+
+## Archaeologists Discover Engraved Gold Offering to Jupiter Dolichenu, a War God Revered by Roman Soldiers
+
+date: 2024-11-05, from: Smithsonian Magazine
+
+The votive plaque was found amid the ruins of an ancient Roman fortress. Researchers think a temple dedicated to the mysterious deity may have stood nearby 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/archaeologists-discover-engraved-gold-offering-to-jupiter-dolichenu-a-war-god-revered-by-roman-soldiers-180985387/>
+
+---
+
+## Japan's wooden cube-shaped satellite rockets to space
+
+date: 2024-11-05, updated: 2024-11-05, from: The Register (UK I.T. News)
+
+<h4>Wooden datacenters? Japan can build spacecraft out of the stuff</h4> <p>Japan&#39;s wooden satellite has been launched into space aboard a SpaceX Falcon 9 rocket with a mission to prove that wood can be a viable material for use in space.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/05/japan_wooden_satellite/>
+
+---
+
+## Windows Server IoT 2025 released
+
+date: 2024-11-05, from: OS News
+
+Today, Microsoft announced the general availability of Windows Server IoT 2025. This new release includes several improvements, including advanced multilayer security, hybrid cloud agility, AI, performance enhancements, and more. Microsoft claims that Windows Server IoT 2025 will be able to handle the most demanding workloads, including AI and machine learning. It now has built-in support for GPU partitioning and the ability to process large datasets across distributed environments. With Live Migration and High Availability, it also offers a high-performance platform for both traditional applications and advanced AI workloads. ↫ Pradeep Viswanathan at Neowin Windows Server IoT 2025 brings the same benefits, new features, and improvements as the just-released regular Windows Server 2025. I must admit I&#8217;m a little unclear as to what Windows Server IoT has to offer over the regular edition, and reading the various Microsoft marketing materials and documents don&#8217;t really make it any clearer for me either, since I&#8217;m not particularly well-versed in all that enterprise networking lingo. 
+
+<br> 
+
+<https://www.osnews.com/story/141081/windows-server-iot-2025-released/>
+
+---
+
+## Washington courts grapple with statewide outage after 'unauthorized activity'
+
+date: 2024-11-05, updated: 2024-11-05, from: The Register (UK I.T. News)
+
+<h4>Justice still being served, but many systems are down</h4> <p>A statewide IT outage attributed to &#34;unauthorized activity&#34; is affecting the availability of services provided by all courts in Washington.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/05/washington_courts_outage/>
+
+---
+
+## Classic Outlook explodes when opening more than 60 emails
+
+date: 2024-11-05, updated: 2024-11-05, from: The Register (UK I.T. News)
+
+<h4>Don&#39;t do that, or risk a memory error</h4> <p>Microsoft has confirmed that opening too many emails at once in Classic Outlook could result in the application displaying an error before crashing. But don&#39;t worry; there&#39;s a registry change to fix it.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/05/outlook_60_emails_error/>
+
+---
+
+## Jensen Huang asked SK hynix to give Nvidia 12-layer HBM4 chips earlier
+
+date: 2024-11-05, updated: 2024-11-05, from: The Register (UK I.T. News)
+
+<h4>12-layer HBM3E hardly off the manufacturing line</h4> <p>Nvidia CEO Jensen Huang asked Korean chipmaker SK hynix to pull forward delivery of 12-layer HBM4 chips by half a year, according to the company&#39;s group chairman Chey Tae-won.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/05/sk_hynix_ai_summit/>
+
+---
+
+## UK watchdog hints Voda-Three merger will likely pass
+
+date: 2024-11-05, updated: 2024-11-05, from: The Register (UK I.T. News)
+
+<h4>Game of Phones settles into its final chapter</h4> <p>Britain&#39;s competition regulator says it is minded to approve the merger of telcos Vodafone and Three UK, if the pair commit to network upgrades and short-term customer safeguards against higher bills.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/05/uk_regulator_hints_vodathree_merger/>
+
+---
+
+## Users struggle with recipe when moving enterprise apps to the cloud
+
+date: 2024-11-05, updated: 2024-11-05, from: The Register (UK I.T. News)
+
+<h4>From meatballs and spaghetti to lasagna – same ingredients, different structure, says analyst</h4> <p>For the world&#39;s two dominant ERP vendors, the cloud is their future infrastructure. For customers of Oracle and SAP, getting there can mean technology and business process upheaval, but the commercial relationship with the vendor is also transformed.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/05/cloud_migration_sap_oracle/>
+
+---
+
+## Former Facebook lobbyist joins UK comms regulator as non-exec director
+
+date: 2024-11-05, updated: 2024-11-05, from: The Register (UK I.T. News)
+
+<h4>Who better to watch the watchmen?</h4> <p><strong>Updated</strong>  A former Vice President of Public Policy for Facebook is among the new faces to join the board at Britain&#39;s telecoms regulator, Ofcom.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/05/facebook_lobbyist_ofcom/>
+
+---
+
+## Broadcom juices VeloCloud SD-WAN for AI networking
+
+date: 2024-11-05, updated: 2024-11-05, from: The Register (UK I.T. News)
+
+<h4>VeloRAIN architecture improves service for fat workloads on the edge</h4> <p><strong>VMware Explore</strong>  Amid all the drama regarding Broadcom&#39;s acquisition of VMware, it&#39;s been easy to forget that the virtualization giant&#39;s SD-WAN outfit, VeloCloud, is now an independent business unit. Broadcom today put it back in the spotlight by revealing it&#39;s developed tech to improve networking for AI workloads on the edge.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/05/vmware_velocloud_ai_rain/>
+
+---
+
+## VMware by Broadcom finds friends to advance its private cloud and AI visions
+
+date: 2024-11-05, updated: 2024-11-05, from: The Register (UK I.T. News)
+
+<h4>User group members offered more generous discounts and licenses we&#39;re sure nobody would abuse</h4> <p><strong>Explore</strong>  VMware by Broadcom is continuing its pre-acquisition tradition of using its European conference to make public a handful of product updates.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/05/vmware_explore_europe/>
+
+---
+
+## French finance committee explores amendment to nationalize Atos assets
+
+date: 2024-11-05, updated: 2024-11-05, from: The Register (UK I.T. News)
+
+<h4>Protecting IT projects for the French military and other bits of the public sector</h4> <p>France&#39;s Finance committee is looking at a legal amendment to a 2025 finance bill currently making its way through the country&#39;s parliament that would nationalize Atos with €70 million in the pot to explore the deal.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/05/french_government_atos/>
+
+---
+
+## Google claims Big Sleep 'first' AI to spot freshly committed security bug that fuzzing missed
+
+date: 2024-11-05, updated: 2024-11-05, from: The Register (UK I.T. News)
+
+<h4>You snooze, you lose, er, win</h4> <p>Google claims one of its AI models is the first of its kind to spot a memory safety vulnerability in the wild – specifically an exploitable stack buffer underflow in SQLite – which was then fixed before the buggy code&#39;s official release.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/05/google_ai_vulnerability_hunting/>
+
+---
+
+## Apple 'broke law' by pushing out labor-organizing dev
+
+date: 2024-11-05, updated: 2024-11-05, from: The Register (UK I.T. News)
+
+<h4>Violation of labor rights? By the iTitan? Surely not!</h4> <p>The hot water in which the National Labor Relations Board has been boiling Apple is getting deeper, as the US workers&#39; rights body has issued yet another unfair labor practice complaint alleging the constructive termination of developer and labor activist Cher Scarlett in 2021. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/05/apple_labor_law_nlrb/>
+
+---
+
+## NASA Science, Cargo Launch on 31st SpaceX Resupply Mission to Station
+
+date: 2024-11-05, from: NASA breaking news
+
+Following a successful launch of NASA’s SpaceX 31st commercial resupply mission, new scientific experiments and cargo for the agency are bound for the International Space Station. The SpaceX Dragon spacecraft, carrying more than 6,000 pounds of supplies to the orbiting laboratory, lifted off at 9:29 p.m. EST Monday, on the company’s Falcon 9 rocket from [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-31st-spacex-resupply-mission-to-station/>
+
+---
+
+## Python dethrones JavaScript as the most-used language on GitHub
+
+date: 2024-11-05, updated: 2024-11-05, from: The Register (UK I.T. News)
+
+<h4>Yearly report finds explosion of GenAI projects, new users from outside the coding community responsible for boost</h4> <p>There&#39;s been an upset in the Octoverse, as Python has unseated JavaScript as the most-used programming language on GitHub.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/05/python_dethrones_javascript_github/>
+
+---
+
+## Grindr used RTO to screw union, labor watchdog claims
+
+date: 2024-11-05, updated: 2024-11-05, from: The Register (UK I.T. News)
+
+<h4>Back-to-office order forced dating app staff to swipe left</h4> <p>The US National Labor Relations Board (NLRB) on Friday issued a complaint against California-based LGBTQ dating app Grindr alleging the biz&#39;s return-to-office order for staff amounted to unfair labor practises.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/05/labor_watchdog_says_grindr_used/>
+
+---
+
+## Toyota and Joby complete Japan's first air taxi flight test
+
+date: 2024-11-05, updated: 2024-11-05, from: The Register (UK I.T. News)
+
+<h4>Automaker bets big on startup while other promising eVTOL companies scrape around for funding</h4> <p>Joby Aviation – backed by Japanese automotive giant Toyota – conducted Japan&#39;s first electric vertical takeoff and landing aircraft (eVTOL) flight test over the weekend, edging closer to the reality of flying taxis.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/05/joby_toyota_air_taxi_flight/>
+
+---
+
+## Sols 4352-4354: Halloween Fright Night on Mars
+
+date: 2024-11-05, from: NASA breaking news
+
+Earth planning date: Friday, Nov. 1, 2024 Yesterday evening (Thursday) was Halloween for many of us here on Earth. My neighborhood in eastern Canada was full of small (and not so small!) children, running around in the dark collecting sweets and candy but also getting scared by the ghostly decorations hung at each house. Little […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4352-4354-halloween-fright-night-on-mars/>
+
+---
+
+## NetBSD: the portable, lightweight, and robust UNIX-like operating system
+
+date: 2024-11-04, from: OS News
+
+NetBSD is an open-source, Unix-like operating system known for its portability, lightweight design, and robustness across a wide array of hardware platforms. Initially released in 1993, NetBSD was one of the first open-source operating systems based on the Berkeley Software Distribution (BSD) lineage, alongside FreeBSD and OpenBSD. NetBSD’s development has been led by a collaborative community and is particularly recognized for its “clean” and well-documented codebase, a factor that has made it a popular choice among users interested in systems programming and cross-platform compatibility. ↫ André Machado I&#8217;m not really sure what to make of this article, since it mostly reads like an advertisement for NetBSD, but considering NetBSD is one of the lesser-talked about variants of an operating system family that already sadly plays second fiddle to the Linux behemoth, I don&#8217;t think giving it some additional attention is really hurting anybody. The article is still gives a solid overview of the history and strengths of NetBSD, which makes it a good introduction. I have personally never tried NetBSD, but it&#8217;s on my list of systems to try out on my PA-RISC workstation since from what I&#8217;ve heard it&#8217;s the only BSD which can possibly load up X11 on the Visualize FX10pro graphics card it has (OpenBSD can only boot to a console on this GPU). While I could probably coax some cobbled-together Linux installation into booting X11 on it, where&#8217;s the fun in that? Do any of you lovely readers use NetBSD for anything? FreeBSD and even OpenBSD are quite well represented as general purpose operating systems in the kinds of circles we all frequent, but I rarely hear about people using NetBSD other than explicitly because it supports some outdated, arcane architecture in 2024. 
+
+<br> 
+
+<https://www.osnews.com/story/141078/netbsd-the-portable-lightweight-and-robust-unix-like-operating-system/>
+
+---
+
+## Redox runs on RISC-V, boots to GUI login on Raspberry Pi 4
+
+date: 2024-11-04, from: OS News
+
+Another month lies behind us, so another monthly update from Redox is upon us. The biggest piece of news this time is undoubtedly that Redox now runs on RISC-V &#8211; a major achievement. Andrey Turkin has done extensive work on RISC-V support in the kernel, toolchain and elsewhere. Thanks very much Andrey for the excellent work! Jeremy Soller has incorporated RISC-V support into the toolchain and build process, has begun some refactoring of the kernel and device drivers to better handle all the supported architectures, and has gotten the Orbital Desktop working when running in QEMU. ↫ Ribbon and Ron Williams That&#8217;s not all, though. Redox on the Raspberry Pi 4 boots to the GUI login screen, but needs more work on especially USB support to become a fully usable target. The application store from the COSMIC desktop environment has been ported, and as part of this effort, Redox also adopted FreeDesktop standards to make package installation easier &#8211; and it just makes sense to do so, with more and more of COSMIC making its way to Redox. Of course, there&#8217;s also a slew of smaller improvements to the kernel, various drivers including the ACPI driver, RedoxFS, Relibc, and a lot more. The progress Redox is making is astounding, and while that&#8217;s partly because it&#8217;s easier to make progress when there&#8217;s a lot of low-hanging fruit as there inevitably will be in a relatively new operating system, it&#8217;s still quite an achievement. I feel very positive about the future of Redox, and I can&#8217;t wait until it reaches a point where more general purpose use becomes viable. 
+
+<br> 
+
+<https://www.osnews.com/story/141076/redox-runs-on-risc-v-boots-to-gui-login-on-raspberry-pi-4/>
+
+---
+
+## Meta's plan for nuclear datacenter reportedly undone by bees
+
+date: 2024-11-04, updated: 2024-11-04, from: The Register (UK I.T. News)
+
+<h4>Environmental and regulatory obstacles led to the cancellation of an AI bit farm, report claims</h4> <p>Meta&#39;s plan to build a nuclear-powered datacenter for AI workloads has been undone by bugs, specifically bees.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/04/meta_ai_datacenter_bee/>
+
+---
+
+## Coal Recovered From the Titanic and Thousands of Other Historic Shipwreck Artifacts Are Going to Auction
+
+date: 2024-11-04, from: Smithsonian Magazine
+
+The Shipwreck Treasure Museum in Cornwall, England, is selling its collection, which includes items connected to nearly 150 shipwrecks 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/coal-recovered-from-the-titanic-and-thousands-of-other-historic-shipwreck-artifacts-are-going-to-auction-180985384/>
+
+---
+
+## Lagniappe for November 2024
+
+date: 2024-11-04, from: NASA breaking news
+
+Explore Lagniappe for November 2024 featuring: Gator Speaks The month of October is known for becoming cooler in these parts, and there sure were plenty of recent cool moments for NASA Stennis that set the tone for the future. Last month, the center marked a milestone for testing a new SLS (Space Launch System) rocket [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-november-2024/>
+
+---
+
+## From Logistics to Legacy: NASA Employee is a Part of Something Great
+
+date: 2024-11-04, from: NASA breaking news
+
+Every task at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, is not simply work for Tessa Keating – it is a meaningful step toward a part of something great. “It has been a dream career. I count it an honor to share the NASA story and humbled to know our team witnesses a [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/tessa-keating-is-a-part-of-something-great/>
+
+---
+
+## NASA Stennis Plants Artemis Moon Tree
+
+date: 2024-11-04, from: NASA breaking news
+
+A tree-planting ceremony at NASA’s Stennis Space Center on Oct. 29 celebrated NASA’s successful Artemis I mission as the agency prepares for a return around the Moon with astronauts on Artemis II. “We already have a thriving Moon Tree from the Apollo years onsite,” NASA Stennis Director John Bailey said. “It is exciting to add [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/stennis-plants-artemis-moon-tree/>
+
+---
+
+## Station Science Top News: Nov. 1, 2024
+
+date: 2024-11-04, from: NASA breaking news
+
+Bioprinted patches could help wounds heal Researchers successfully demonstrated the function of a handheld bioprinter that could provide a simple and effective way to treat wounds in space using human skin cells. Crews could use this technology to treat their own injuries and protect crew health and mission success in the future. Spaceflight can affect [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-1-2024/>
+
+---
+
+## Still Kickin’ Since the ’70s: NASA’s Voyager Mission Keeps Exploring
+
+date: 2024-11-04, from: NASA breaking news
+
+NASA’s Voyager mission launched in the 1970s. Today, it’s making history as it conducts new science. But how are two spacecraft from the ’70s not just surviving, but thriving farther out in space than any other spacecraft has been before? A Little Mission Background Voyager is a NASA mission made up of two different spacecraft, […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/voyager-program/still-kickin-since-the-70s-nasas-voyager-mission-keeps-exploring/>
+
+---
+
+## NASA, Bhutan Conclude Five Years of Teamwork on STEM, Sustainability
+
+date: 2024-11-04, from: NASA breaking news
+
+NASA and the Kingdom of Bhutan have been actively learning from each other and growing together since 2019. The seeds planted over those years have ripened into improved environmental conservation, community-based natural resource management, and new remote sensing tools. Known for its governing philosophy of “gross national happiness,” [Bhutan] has a constitutional mandate to maintain [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/servir/nasa-bhutan-conclude-five-years-of-teamwork-on-stem-sustainability/>
+
+---
+
+## See the Breathtaking 14th-Century Sienese Artworks That Helped Set the Italian Renaissance in Motion
+
+date: 2024-11-04, from: Smithsonian Magazine
+
+This brief chapter of art history is often overlooked. Now, an exhibition in New York City makes a strong argument for the integral role played by four artists in the city of Siena 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/see-the-breathtaking-14th-century-sienese-artworks-that-helped-set-the-italian-renaissance-in-motion-180985381/>
+
+---
+
+## CHIPS Act funding in question as House Speaker waffles on plan to repeal bill
+
+date: 2024-11-04, updated: 2024-11-04, from: The Register (UK I.T. News)
+
+<h4>Breaking with Trump, Mike Johnson now suggests streamlining regulation out of funding bill</h4> <p><strong>UPDATED</strong>  The US CHIPS and Science Act&#39;s future may depend on the outcome of Tuesday&#39;s Presidential Election after House Speaker Mike Johnson suggested the GOP would likely move to repeal the $280 billion funding bill if the party wins a majority in Congress.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/04/chips_act_repeal/>
+
+---
+
+## At the Age of 50, an Elderly Female Elephant Dies at the Smithsonian's National Zoo
+
+date: 2024-11-04, from: Smithsonian Magazine
+
+The pachyderm, named Kamala, was suffering from osteoarthritis when zoo staff chose to euthanize her 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/elderly-female-elephant-dies-at-the-smithsonian-zoo-180985389/>
+
+---
+
+## Invasive Mussels Recently Spotted in California Mark a First for North America
+
+date: 2024-11-04, from: Smithsonian Magazine
+
+The species may have been carried to the Sacramento–San Joaquin Delta in ballast water on ships 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/invasive-golden-mussels-recently-spotted-in-california-mark-the-first-for-north-america-180985388/>
+
+---
+
+## After Months of Rehab, Moira the Cold-Stunned Sea Turtle Has Been Returned to the Wild
+
+date: 2024-11-04, from: Smithsonian Magazine
+
+When fishermen found the endangered loggerhead sea turtle off Vancouver Island in February, she was listlessly floating in a bed of kelp 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/after-months-of-rehab-moira-the-cold-stunned-sea-turtle-has-been-returned-to-the-wild-180985391/>
+
+---
+
+## Atlantis Begins 13th Space Trip
+
+date: 2024-11-04, from: NASA breaking news
+
+Space shuttle Atlantis lifts off in this Nov. 3, 1994, image, with NASA astronauts Donald R. McMonagle, Curtis L. Brown, Jr., Ellen S. Ochoa, Scott E. Parazynski, and Joseph R. Tanner, and ESA (European Space Agency) astronaut Jean-Francois-Clervoy aboard. During the 11-day mission, the crew studied Earth’s atmosphere, gathering data on the Sun’s energy output, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/atlantis-begins-13th-space-trip/>
+
+---
+
+## ¿Cómo se investiga en gravedad cero? Preguntamos a una científica de la NASA
+
+date: 2024-11-04, from: NASA breaking news
+
+Realizar experimentos científicos en la Tierra puede ser complicado pero en el espacio es aún más difícil debido a las condiciones de gravedad cero y microgravedad. La gerente de investigaciones comerciales de la Estación Espacial Internacional, Yuri Guinart-Ramírez, te explica cómo en la estación se llevan a cabo cientos de investigaciones científicas en condiciones de [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/station/como-se-investiga-en-gravedad-cero-preguntamos-a-una-cientifica-de-la-nasa/>
+
+---
+
+## Black screens still plague Windows 10 Azure Virtual Desktop users
+
+date: 2024-11-04, updated: 2024-11-04, from: The Register (UK I.T. News)
+
+<h4>Meanwhile, even Task Manager is no match for the broken patch</h4> <p>Even though Windows 10 has less than a year of support remaining, Microsoft has once again demonstrated its ability to break things with a seemingly innocuous update.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/04/black_screens_windows/>
+
+---
+
+## Columbus, Ohio, confirms 500K people affected by Rhysida ransomware attack
+
+date: 2024-11-04, updated: 2024-11-04, from: The Register (UK I.T. News)
+
+<h4>Victims were placed in serious danger following highly sensitive data dump</h4> <p>The City of Columbus, Ohio, has confirmed half a million people&#39;s data was accessed and potentially stolen when Rhysida&#39;s ransomware raided its systems over the summer.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/04/columbus_rhysida_ransomware/>
+
+---
+
+## Tour Guide at Medieval Manor House Discovers Mysterious Etchings Meant to Repel Evil, Trap Demons and Curse Enemies
+
+date: 2024-11-04, from: Smithsonian Magazine
+
+A "staggering array" of markings have been hiding in plain sight carved into the walls of Gainsborough Old Hall, a 500-year-old home in Lincolnshire, England 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/tour-guide-at-medieval-manor-house-discovers-mysterious-etchings-meant-to-repel-evil-trap-demons-and-curse-enemies-180985377/>
+
+---
+
+## Microsoft has reached $1M giveaway levels of desperation to attract users to Bing
+
+date: 2024-11-04, updated: 2024-11-04, from: The Register (UK I.T. News)
+
+<h4>Stuffing it full of AI hasn&#39;t helped, so let&#39;s try financial incentives</h4> <p>We&#39;re not saying Microsoft is desperate for people to use Bing, but a $1 million sweepstakes that grants entries to users of the search engine sure quacks like a duck.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/04/microsoft_bing_1m_giveaway/>
+
+---
+
+## He’s Gleaning the Design Rules of Life to Re-Create It
+
+date: 2024-11-04, from: Quanta Magazine
+
+Yizhi “Patrick” Cai is coordinating a global effort to write a complete synthetic yeast genome. If he succeeds, the resulting cell will be the artificial life most closely related to humans to date.            <p>The post <a href="https://www.quantamagazine.org/hes-gleaning-the-design-rules-of-life-to-re-create-it-20241104/" target="_blank">He’s Gleaning the Design Rules of Life to Re-Create It</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/hes-gleaning-the-design-rules-of-life-to-re-create-it-20241104/>
+
+---
+
+## Bitwarden switches password manager and SDK to GPL3 after FOSS-iness drama
+
+date: 2024-11-04, updated: 2024-11-04, from: The Register (UK I.T. News)
+
+<h4>Open source tool chooses to become more open than ever</h4> <p>Fear not, FOSS fans. Bitwarden isn&#39;t going proprietary after all. The company has changed its license terms once again – but this time, it has switched the license of its software development kit from its own homegrown one to version three of the GPL instead.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/04/bitwarden_gpls_password_manager/>
 
 ---
 
@@ -21,7 +549,7 @@ Microsoft has confirmed the general availability of Windows Server 2025, which, 
 
 ---
 
-## Buckle up admins – Windows Server 2025 officially hits GA
+## Buckle up, admins – Windows Server 2025 officially hits GA
 
 date: 2024-11-04, updated: 2024-11-04, from: The Register (UK I.T. News)
 
@@ -57,7 +585,7 @@ It&#8217;s the start of the work week, so for the IT administrators among us, I 
 
 ---
 
-## Amazon's nuclear datacenter dreams stall as regulators reject power deal
+## Amazon's nuclear datacenter dreams stall as watchdog rejects power deal
 
 date: 2024-11-04, updated: 2024-11-04, from: The Register (UK I.T. News)
 
@@ -117,11 +645,11 @@ date: 2024-11-04, updated: 2024-11-04, from: The Register (UK I.T. News)
 
 ---
 
-## GlobalFoundries fined $500,000 for violating US sanctions
+## GlobalFoundries fined $500K for violating US sanctions
 
-date: 2024-11-04, updated: 2024-11-04, from: The Register (UK I.T. News)
+date: 2024-11-04, updated: 2024-11-05, from: The Register (UK I.T. News)
 
-<h4>Company fessed up, got off light, says US Commerce Department</h4> <p>The US Department of Commerce is issuing a half a million dollar penalty against US-based semiconductor wafer manufacturer GlobalFoundries for violating sanctions and sending chips to SJ Semiconductor (SJS), an affiliate of a blocklisted Chinese chipmaker.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>Chip slinger fessed up, got off light, says Uncle Sam</h4> <p><strong>Updated</strong>  The US Department of Commerce is issuing a half a million dollar penalty against US-based semiconductor wafer manufacturer GlobalFoundries for violating sanctions and sending chips to SJ Semiconductor (SJS), an affiliate of a blocklisted Chinese chipmaker.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 
@@ -165,11 +693,11 @@ It&#8217;s been less than a week, and late Friday night we reached the fundraise
 
 ---
 
-## 6 IT contractors arrested for defrauding Uncle Sam out of millions
+## Six IT contractors accused of swindling Uncle Sam out of millions
 
 date: 2024-11-03, updated: 2024-11-04, from: The Register (UK I.T. News)
 
-<h4>Also, ecommerce fraud ring disrupted, another Operation Power Off victory, Sino SOHO botnet spotted, and more</h4> <p><strong>in brief</strong>  The US Department of Justice has charged six people with two separate schemes to defraud Uncle Sam out of millions of dollars connected to IT product and services contracts. …</p> 
+<h4>Also, ecommerce fraud ring disrupted, another Operation Power Off victory, Sino SOHO botnet spotted, and more</h4> <p><strong>Security in brief</strong>  The US Department of Justice has charged six people with two separate schemes to defraud Uncle Sam out of millions of dollars connected to IT product and services contracts. …</p> 
 
 <br> 
 

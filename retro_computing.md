@@ -1,11 +1,59 @@
 ---
 title: retro computing
-updated: 2024-11-04 07:12:08
+updated: 2024-11-05 09:28:51
 ---
 
 # retro computing
 
-(date: 2024-11-04 07:12:08)
+(date: 2024-11-05 09:28:51)
+
+---
+
+## RNB VAK-1 photos
+
+date: 2024-11-05, from: Hans Otten's Retro blog
+
+Thanks to Eric Dennison I can show photos of the RNB Enterprises VAK-1 motherboard. The large motherboard and the huge case with homebuilt 16K static RAM memory card are representative for the KIM-1 systems then! See also:Focal-65 V3D for TIM and KIM-1Focal on the 6502, a page on this small language, originating for Digital Equipment. [&#8230;] 
+
+<br> 
+
+<http://retro.hansotten.nl/rnb-vak-1-photos/>
+
+---
+
+## Gnome OS Transitioning Toward a General-Purpose Distro
+
+date: 2024-11-04, from: Linux Magazine
+
+<p>If you're looking for the perfectly vanilla take on the Gnome desktop, Gnome OS might be for you.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Gnome-OS-Transitioning-Toward-a-General-Purpose-Distro>
+
+---
+
+## RISC OS Developments comes to WROCC – 6th November
+
+date: 2024-11-04, from: RiscOS Story
+
+In the run up to the recent London Show, RISC OS Developments released an updated version of RISC OS Direct, their customised and more user-enticing distribution of RISC OS &#8211; and it was a very important update, because it also marked the first public release of their web browser, Iris, which is now bundled in the distro. Andrew Rawnsley from RISC OS Developments will be joining the Wakefield RISC OS Computer Club (WROCC) as their guest speaker for their next meeting to talk about RISC OS Direct 5.31 &#8211; dubbed&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2024/risc-os-developments-wrocc-6th-november/>
+
+---
+
+## Kclock’s version number ticks over for the first time
+
+date: 2024-11-04, from: RiscOS Story
+
+Released over twenty years ago, Kclock is a simple clock application by Keven Wells that displays the time and date in a window &#8211; and it has now received its first ever update, making it version 1.01. The main functional change is that for systems running RISC OS 3.50 or later, a button can be pressed to invoke the system date and time configuration. Behind the scenes, another change is that it now uses the latest version of the Dr Wimp BASIC library. If you find any of Kevin&#8217;s software,&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2024/kclock-1-01/>
 
 ---
 

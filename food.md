@@ -1,11 +1,107 @@
 ---
 title: food
-updated: 2024-11-04 07:12:08
+updated: 2024-11-05 09:28:52
 ---
 
 # food
 
-(date: 2024-11-04 07:12:08)
+(date: 2024-11-05 09:28:52)
+
+---
+
+## Brew Peddler Dealing in Quality Coffee and Baked Goods in Spokane
+
+date: 2024-11-05, from: Daily Coffee News
+
+<div><img width="620" height="449" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Brew-Peddler-Coffee-Spokane-1-1-620x449.jpg" class="attachment-large size-large wp-post-image" alt="Brew Peddler Coffee Spokane 1" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Brew-Peddler-Coffee-Spokane-1-1-620x449.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Brew-Peddler-Coffee-Spokane-1-1-300x217.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Brew-Peddler-Coffee-Spokane-1-1-150x109.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Brew-Peddler-Coffee-Spokane-1-1-768x556.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Brew-Peddler-Coffee-Spokane-1-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>After two years of hawking high-quality beans and beverages with mobile setups around Spokane, Washington, Brew Peddler recently squeezed its brakes and opened its first brick and mortar cafe. The... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/11/05/brew-peddler-dealing-in-quality-coffee-and-baked-goods-in-spokane/>
+
+---
+
+## WCR and Cornell University Leading $5 Million Coffee Breeding Project
+
+date: 2024-11-05, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-breeding-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee breeding" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-breeding-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-breeding-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-breeding-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-breeding-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-breeding.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>With $5 million from the United States Agency for International Development (USAID), World Coffee Research (WCR) and Cornell University are embarking on a project focused on coffee breeding. Called The... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/11/05/wcr-and-cornell-university-leading-5-million-coffee-breeding-project/>
+
+---
+
+## What Are Scoville Heat Units?
+
+date: 2024-11-05, from: Pepper Scale
+
+There are some mighty big numbers on the Scoville scale. It ranges from zero to the millions. Each number is known as a Scoville heat unit, but what does that mean? What are Scoville heat units exactly, and why can some of the hottest hot peppers ... <p class="read-more-container"><a title="What Are Scoville Heat Units?" class="read-more button" href="https://pepperscale.com/scoville-heat-units/#more-3372" aria-label="Read more about What Are Scoville Heat Units?">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/scoville-heat-units/>
+
+---
+
+## Reindeer Pancakes
+
+date: 2024-11-04, from: Taste of Home
+
+Bring the magic of the holidays to your breakfast table with these fun and festive reindeer pancakes. Easy to prepare and perfect for family gatherings, these adorable pancakes are a treat for the taste buds and a feast for the eyes. Get ready to flip some holiday magic! 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/reindeer-pancakes/>
+
+---
+
+## Chef Sherry Pocknett Preserves Indigenous Seafood Traditions
+
+date: 2024-11-04, from: Bon Appetet
+
+At Sly Fox Den Too, her restaurant in Rhode Island, chef Sherry Pocknett carries on the culinary practices of the Mashpee Wampanoag tribe. 
+
+<br> 
+
+<https://www.bonappetit.com/story/rhode-island-sherry-pocknett>
+
+---
+
+## 27 Best KitchenAid Black Friday Deals of 2024 to Mix It Up
+
+date: 2024-11-04, from: Bon Appetet
+
+The best early deals on the best stand mixers from Amazon, Walmart, and Best Buy. 
+
+<br> 
+
+<https://www.bonappetit.com/story/kitchenaid-mixer-cyber-monday-11-4-2024>
+
+---
+
+## 23 Early Black Friday Kitchen Deals BA Editors Are Shopping (2024)
+
+date: 2024-11-04, from: Bon Appetet
+
+Up to 40% off on Staub Dutch ovens, cookware sets, air fryers, and more 
+
+<br> 
+
+<https://www.bonappetit.com/story/black-friday-kitchen-deals-11-4-2024>
+
+---
+
+## 20 Best Amazon Food Gifts for Every Type of Food Lover in Your Life
+
+date: 2024-11-04, from: Bon Appetet
+
+Actually-great gifts from the massive retailer, in case you need to take advantage of those quick shipping times. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-amazon-food-gifts-for-every-type-of-food-lover>
 
 ---
 
@@ -25,7 +121,7 @@ date: 2024-11-04, from: The Sprudge
 
 date: 2024-11-04, from: Daily Coffee News
 
-<div><img width="620" height="466" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/DWELL_20281-1-1-620x466.jpg" class="attachment-large size-large wp-post-image" alt="DWELL_20281 1" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/DWELL_20281-1-1-620x466.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/DWELL_20281-1-1-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/DWELL_20281-1-1-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/DWELL_20281-1-1-768x577.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/DWELL_20281-1-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>It&#8217;s rare for a coffee roasting company to get into equipment development, yet Colby Barr and a team at California&#8217;s Verve Coffee Roasters kept ruminating on the concept that a... 
+<div><img width="620" height="466" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/DWELL_20281-1-1-620x466.jpg" class="attachment-large size-large wp-post-image" alt="DWELL_20281 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/DWELL_20281-1-1-620x466.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/DWELL_20281-1-1-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/DWELL_20281-1-1-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/DWELL_20281-1-1-768x577.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/DWELL_20281-1-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>It&#8217;s rare for a coffee roasting company to get into equipment development, yet Colby Barr and a team at California&#8217;s Verve Coffee Roasters kept ruminating on the concept that a... 
 
 <br> 
 
