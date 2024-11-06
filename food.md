@@ -1,11 +1,107 @@
 ---
 title: food
-updated: 2024-11-05 15:50:06
+updated: 2024-11-06 06:52:09
 ---
 
 # food
 
-(date: 2024-11-05 15:50:06)
+(date: 2024-11-06 06:52:09)
+
+---
+
+## You Can Save $170 on a KitchenAid Stand Mixer—If You Act Fast!
+
+date: 2024-11-06, from: Taste of Home
+
+<p>Black Friday came early!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/kitchenaid-stand-mixer-sale-2024/">You Can Save $170 on a KitchenAid Stand Mixer—If You Act Fast!</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/kitchenaid-stand-mixer-sale-2024/>
+
+---
+
+## Spicy Cream Of Onion Soup
+
+date: 2024-11-06, from: Pepper Scale
+
+This spicy cream of onion soup is full of classic taste, but there&#8217;s an undercurrent of spiciness that just adds the perfect amount of &#8220;extra&#8221; to make it more memorable. This soup recipe is an excellent appetizer to both meat and meaty fish, providing hints ... <p class="read-more-container"><a title="Spicy Cream Of Onion Soup" class="read-more button" href="https://pepperscale.com/spicy-cream-of-onion-soup/#more-86197" aria-label="Read more about Spicy Cream Of Onion Soup">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/spicy-cream-of-onion-soup/>
+
+---
+
+## Spicy Guacamole
+
+date: 2024-11-06, from: Pepper Scale
+
+Guacamole is tasty as-is, but for us spicy food lovers, anything tastes better with a little more heat. So why not spice up that guacamole with a little serrano pepper? That&#8217;s what powers this simple spicy guacamole. If serrano chilies (10,000 to 23,000 Scoville heat ... <p class="read-more-container"><a title="Spicy Guacamole" class="read-more button" href="https://pepperscale.com/spicy-guacamole/#more-4432" aria-label="Read more about Spicy Guacamole">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/spicy-guacamole/>
+
+---
+
+## Behind the Headlines: Starbucks Cut Back on Discounts, But Were Discounts Ever Worth It?
+
+date: 2024-11-06, from: The Fresh Cup
+
+<p>Following Starbucks’ recent decision to cut back on drink promotions, we asked coffee shops if offering discounts is ever really worth it—and how they find success through thoughtful, targeted promotions.</p>
+<p>The post <a href="https://freshcup.com/behind-the-headlines-starbucks-cut-back-on-discounts-but-were-discounts-ever-worth-it/">Behind the Headlines: Starbucks Cut Back on Discounts, But Were Discounts Ever Worth It? </a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/behind-the-headlines-starbucks-cut-back-on-discounts-but-were-discounts-ever-worth-it/>
+
+---
+
+## Mexican Lentil Soup (Lentejas)
+
+date: 2024-11-06, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/lentejas/" title="Mexican Lentil Soup (Lentejas)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Lentejas-Recipe-BOWL1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Mexican Lentil Soup (Lentejas) in a bowl" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Lentejas-Recipe-BOWL1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Lentejas-Recipe-BOWL1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Lentejas-Recipe-BOWL1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Lentejas-Recipe-BOWL1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Lentejas-Recipe-BOWL1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Lentejas-Recipe-BOWL1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Lentejas-Recipe-BOWL1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Lentejas is a delicious Mexican lentil soup made with lots of vegetables, herbs, and hearty lentils for a quick and satisfying meal, easy to make.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/lentejas/">Mexican Lentil Soup (Lentejas)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/lentejas/>
+
+---
+
+## Birria Ramen
+
+date: 2024-11-06, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/birria-ramen/"><img title="birria-ramen-small-3" src="https://www.isabeleats.com/wp-content/uploads/2024/10/birria-ramen-small-3-400x600.jpg" alt="Birra ramen in a bowl topped with cilantro, onion, and radishes and served with a soft boiled egg." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	Birria ramen is a fun Mexican and Japanese fusion dish that features rich and flavorful birria broth and ultra-tender shredded birria meat paired with warm, slurp-worthy noodles and topped with all the toppings like onion, cilantro, radishes, sesame seeds, and a soft-boiled egg. This viral recipe is definitely worth all the hype! Birria took the [&#8230;] 
+
+<br> 
+
+<https://www.isabeleats.com/birria-ramen/>
+
+---
+
+## Cheese Sold at Aldi, Other Stores Recalled Over Listeria Risk
+
+date: 2024-11-06, from: Taste of Home
+
+<p>Here's what you need to know about potentially contaminated Brie and Camembert.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/brie-cheese-recall-november-2024/">Cheese Sold at Aldi, Other Stores Recalled Over Listeria Risk</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/brie-cheese-recall-november-2024/>
 
 ---
 
@@ -255,7 +351,7 @@ date: 2024-11-04, from: Isebel Eats
 
 date: 2024-11-04, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/cajun-remoulade-sauce/" title="Remoulade Sauce Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Remoulade-Sauce-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A bowl of Remoulade Sauce, ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Remoulade-Sauce-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Remoulade-Sauce-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Remoulade-Sauce-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Remoulade-Sauce-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Remoulade-Sauce-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Remoulade-Sauce-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Remoulade-Sauce-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This Louisiana style remoulade sauce is a creamy, spicy, easy to make mayo-based sauce, great for shrimp po boys, fried oysters, crab cakes, or as a dipper.</p>
+<a href="https://www.chilipeppermadness.com/recipes/cajun-remoulade-sauce/" title="Remoulade Sauce Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Remoulade-Sauce-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A bowl of Remoulade Sauce, ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Remoulade-Sauce-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Remoulade-Sauce-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Remoulade-Sauce-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Remoulade-Sauce-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Remoulade-Sauce-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Remoulade-Sauce-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Remoulade-Sauce-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This Louisiana style remoulade sauce is a creamy, spicy, easy to make mayo-based sauce, great for shrimp po boys, fried oysters, crab cakes, or as a dipper.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/cajun-remoulade-sauce/">Remoulade Sauce Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

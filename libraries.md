@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2024-11-05 15:50:05
+updated: 2024-11-06 06:52:07
 ---
 
 # libraries
 
-(date: 2024-11-05 15:50:05)
+(date: 2024-11-06 06:52:07)
+
+---
+
+## First-Hand Publishing Experiences: Researcher Panel at SSP’s New Directions Seminar
+
+date: 2024-11-06, from: Scholarly Kitchen
+
+<p>A diverse panel of researchers shared their first-hand publishing experiences at the 2024New Directions seminar.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/11/06/a-diverse-panel-of-researchers-shared-their-first-hand-publishing-experiences-at-the-2024-new-directions-seminar/">First-Hand Publishing Experiences: Researcher Panel at SSP’s New Directions Seminar</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2024/11/06/a-diverse-panel-of-researchers-shared-their-first-hand-publishing-experiences-at-the-2024-new-directions-seminar/>
 
 ---
 

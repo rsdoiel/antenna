@@ -1,11 +1,703 @@
 ---
 title: north america
-updated: 2024-11-05 15:50:02
+updated: 2024-11-06 06:52:05
 ---
 
 # north america
 
-(date: 2024-11-05 15:50:02)
+(date: 2024-11-06 06:52:05)
+
+---
+
+## Can bees and dogs sniff out cancer better than machines?
+
+date: 2024-11-06, from: VOA News USA
+
+In labs across the United States, scientists are working on innovative tests using animals and insects to detect cancer earlier. As VOA’s Dora Mekouar reports, recent research suggests bees and dogs can sniff out the disease sooner than machines can. 
+
+<br> 
+
+<https://www.voanews.com/a/can-bees-and-dogs-sniff-out-cancer-better-than-machines-/7853673.html>
+
+---
+
+## Climate Groups React to Trump’s Election Win
+
+date: 2024-11-06, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDIzODM4Ni9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3OTc1NDUxMH0.e1LwTjWkHDgxD7f3rwW8hwKXsA57qO8OFXWSV8Fmj18/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>
+<em><strong>Current conditions: </strong>Power outages are likely to spread across windswept California today as PG&E tries to prevent fires • A snowstorm is brewing in Colorado • It is 80 degrees Farenheit and raining in West Palm Beach, where Donald Trump delivered his 2024 presidential victory speech early this morning.</em>
+</p><h2>THE TOP FIVE</h2><h3>1. Donald Trump wins 2024 presidential election</h3><p>
+	Donald Trump has won the 2024 presidential election. Votes are still being tallied, but he has so far taken the swing states of Pennsylvania, Georgia, North Carolina, and Wisconsin. At the time of publishing, he had secured 277 electoral college votes to Vice President Kamala Harris’ 224. Republicans also took control of the Senate, but the status of the House of Representatives remains unclear.
+</p><p>
+	The energy and environmental implications of a Trump victory are profound, <a href="https://heatmap.news/politics/donald-trump-2024-climate-energy?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--Sdk-WuSHEUY5gFJRtmkHCwsxsLovgLnEhbJR1TCUAgWxAhfN8cRrgo6AV5Y6DMGXb92cz" rel="noopener" target="_self">writes Heatmap’s Robinson Meyer</a>. He is likely to pull the United States out of the Paris Agreement, approve a new tranche of liquified natural gas export terminals, and block and then begin to roll back the Environmental Protection Agency’s climate rules for power plants, cars, and light-duty trucks. “Not all of these rollbacks will make themselves felt at first,” Meyer writes. “The current set of EPA clean car rules, for instance, apply to vehicles sold through model year 2026. That is close enough to the present that automakers have already begun to make the necessary investments to meet those standards. But vehicles sold in the latter half of this decade will likely face much weaker rules or none at all.” He may also try to repeal or otherwise hinder the Inflation Reduction Act, which would set the country and world back in the fight against climate change. But it would also significantly raise taxes on energy companies (and automakers) while hurting Trump’s own voters, as the IRA’s hundreds of billions in investments, which are largely tax credits, have overwhelmingly flowed to Republican districts.
+</p><p>
+	“For every step back that Trump takes on climate policy, China will step forward and take more of a global leadership role,” Meyer writes. “As Trump’s White House steers American climate policy for the rest of the 2020s, they will not just be deciding what direction the U.S. will go in — they will be acting with, or against, the rest of the world.”
+</p><h3>2. Environmental groups react to Trump win</h3><p>
+	Reactions to Trump’s victory are trickling in from climate organizations and analysts. Here are a few:
+</p><ul>
+<li>“There is no denying that another Trump presidency will stall national efforts to tackle the climate crisis and protect the environment, but most U.S. state, local, and private sector leaders are fully committed to charging ahead. And you can count on a chorus of world leaders confirming that they won’t turn their back on climate and nature goals.” –<a href="https://www.wri.org/news/statement-climate-action-faces-setback-trumps-second-term-momentum-clean-energy-transition?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--Sdk-WuSHEUY5gFJRtmkHCwsxsLovgLnEhbJR1TCUAgWxAhfN8cRrgo6AV5Y6DMGXb92cz" target="_blank">Dan Lashof, U.S. Director of the World Resources Institute</a>. </li>
+<li>“This is a dark day, but despite this election result, momentum is on our side. The transition away from dirty fossil fuels to affordable clean energy is already underway. Trump can’t change the reality that an overwhelming majority of Americans want more clean energy, not more fossil fuels. Through investments in the Inflation Reduction Act we are creating millions of new clean energy jobs. Clean energy is already cheaper in most cases than dirty fossil fuels, and wind and solar now generate more power in the U.S. than coal.” –<a href="https://www.sierraclub.org/press-releases/2024/11/sierra-club-statement-we-will-be-force-nature-defending-our-communities-and?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--Sdk-WuSHEUY5gFJRtmkHCwsxsLovgLnEhbJR1TCUAgWxAhfN8cRrgo6AV5Y6DMGXb92cz" rel="noopener noreferrer" target="_blank">Sierra Club Executive Director Ben Jealous</a>.</li>
+<li>“The jobs and the economic benefits [of the IRA] have been so heavy in red states, it's hard to see an administration come in that says we don't like this.” –<a href="https://www.reuters.com/business/energy/trump-return-will-slow-not-stop-us-clean-energy-boom-2024-11-06/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--Sdk-WuSHEUY5gFJRtmkHCwsxsLovgLnEhbJR1TCUAgWxAhfN8cRrgo6AV5Y6DMGXb92cz" rel="noopener noreferrer" target="_blank">Carl Fleming, partner at law firm McDermott Will & Emery</a>, and renewable energy policy adviser for the Biden White House. </li>
+<li>“Movements for change have won important victories under the toughest conditions. It would take more than a Trump presidency to change that. Every pipeline, every fossil fuel export terminal, and every fracking well we can stop matters. Together we will keep fighting for climate justice, for social justice, and to protect our communities.” –<a href="https://www.oilchange.org/news/oil-change-international-responds-to-election-of-donald-trump/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--Sdk-WuSHEUY5gFJRtmkHCwsxsLovgLnEhbJR1TCUAgWxAhfN8cRrgo6AV5Y6DMGXb92cz" rel="noopener noreferrer" target="_blank">Elizabeth Bast, Executive Director at Oil Change International.</a></li>
+</ul><h3>3. How key climate elections are playing out</h3><p>
+	Heatmap has been <a href="https://heatmap.news/politics/election-results?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--Sdk-WuSHEUY5gFJRtmkHCwsxsLovgLnEhbJR1TCUAgWxAhfN8cRrgo6AV5Y6DMGXb92cz" rel="noopener" target="_self">keeping tabs on</a> 36 of the most important climate elections, from seats in the House and Senate down to local ballot measures and attorneys general. Here’s where some of those stand so far:
+</p><ul>
+<li><strong>Republican Rep. Jen Kiggans</strong> won re-election in Virginia’s 2nd Congressional District. Kiggans, the vice chair of the Conservative Climate Caucus and a Trump ally, backed the Default on America Act to repeal clean energy tax credits and has flip-flopped on her support of offshore wind.</li>
+<li><strong>Democrat Attorney General Josh Stein</strong> won the election for governor in North Carolina. He had proposed a path to reach carbon neutrality in the state by 2050 and has a history of taking on polluters and Big Oil price gougers. His Republican opponent had called climate change “junk science” and said he’d attempt to block history and science from being taught in the first through fifth grades.</li>
+<li><strong>In Ohio’s Senate race</strong>, MAGA Republican Bernie Moreno has flipped the seat of three-term Democratic Sen. Sherrod Brown. Moreno has stressed that “we need natural gas, we need oil” rather than “this move toward windmills, solar panels.”</li>
+<li><strong>The race for Pennsylvania’s Senate seat remains a toss-up</strong> between Democratic incumbent Bob Casey, Jr. and Republican David McCormick. Few Senate races this year have touched on climate and energy issues as much as this one, in the country’s second-largest natural gas-producing state.</li>
+<li><strong>In New Mexico, Democrat Rep. Vasquez managed to fend off a challenge from Republican Yvette Herrell</strong> to hold on to the state’s 2nd congressional district. The district includes a large swath of the oil-rich Permian Basin, and Vasquez had walked the line between promoting wind and solar manufacturing as part of the IRA while also “looking out for those fossil fuel communities.”</li>
+<li><strong>Republican Austin Knudsen will remain Montana’s attorney general</strong>, beating Democratic challenger Ben Alke. Knudsen leads the state’s case against the 16 young plaintiffs in <em>Held v. Montana</em>, who are suing lawmakers for allegedly violating their right to a “clean and healthful environment” as enshrined in the state’s constitution.</li>
+</ul><p>
+	In addition, the Republican-backed effort to repeal Washington state’s new cap and invest program failed; voters in Berkeley rejected a ballot measure that would have functionally reinstated the city’s first-in-the-nation prohibition against gas hookups in new buildings; and California looks likely to pass Proposition 4, which authorizes $10 billion in bonds for water quality, coastal resilience projects, wildfire prevention, and climate-risk protections.
+</p><h3>4. Trump victory puts Elon Musk in the spotlight</h3><p>
+	Donald Trump has ascended to the White House with the assistance of a strange coalition, which includes Tesla CEO Elon Musk, who is supposedly going to oversee a new Department of Government Efficiency. In his victory speech, Trump <a href="https://heatmap.news/sparks/elon-musk-tweets?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--Sdk-WuSHEUY5gFJRtmkHCwsxsLovgLnEhbJR1TCUAgWxAhfN8cRrgo6AV5Y6DMGXb92cz" target="_self">devoted</a> a verse to Musk. “A star is born: Elon,” Trump said, praising Musk’s efforts on the campaign trail, his “beautiful” rockets, and Starlink. “The future is gonna be fantastic,” Musk <a href="https://x.com/elonmusk/status/1854048115206078507?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--Sdk-WuSHEUY5gFJRtmkHCwsxsLovgLnEhbJR1TCUAgWxAhfN8cRrgo6AV5Y6DMGXb92cz" rel="noopener noreferrer" target="_blank">said</a> on X. As Heatmap’s Meyer <a href="https://heatmap.news/politics/donald-trump-2024-climate-energy?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--Sdk-WuSHEUY5gFJRtmkHCwsxsLovgLnEhbJR1TCUAgWxAhfN8cRrgo6AV5Y6DMGXb92cz" rel="noopener" target="_self">noted</a>: “Musk has said that repealing the IRA could benefit Tesla by kneecapping its competitors. Yet much of Tesla’s profit comes from selling regulatory credits created by California and the federal government’s climate policies. If Trump repeals those policies, what will happen to Tesla’s profitability?”
+</p><h3>5. Election Day broke heat records</h3><p>
+	Across the United States, millions of voters cast their ballots in <a href="https://heatmap.news/sparks/election-day-2024-heat-records?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--Sdk-WuSHEUY5gFJRtmkHCwsxsLovgLnEhbJR1TCUAgWxAhfN8cRrgo6AV5Y6DMGXb92cz" target="_self">record or near-record daily heat</a>, including in Rochester, New York, where it hit a sweltering 81 degrees Fahrenheit (it was also the city’s hottest November day on record). It also hit a record 81 degrees in Pittsburgh, Pennsylvania, which has not seen rain since October 6, and a record 78 degrees in Columbus, Ohio. In Hartford, Connecticut, the mercury likewise reached 78 degrees, tying the previous Nov. 5 record set in 2022. New York City and Washington, D.C., meanwhile, experienced their warmest Election Days since President Franklin D. Roosevelt defeated the Republican governor of Kansas, Alf Landon. It was the hottest Election Day in a century in Cleveland, Ohio, the hottest Election Day since 2003 in Fort Wayne, Indiana, and the hottest November 5th on record in Jackson, Kentucky.
+</p><h2>THE KICKER</h2><p>
+<em>“There is an antidote to doom and despair. It’s action on the ground, and it’s happening in all corners of the Earth.”</em> –Christiana Figueres, the former UNFCCC executive secretary who helped secure the landmark Paris Agreement, <a href="https://x.com/CFigueres/status/1854125513083957707?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--Sdk-WuSHEUY5gFJRtmkHCwsxsLovgLnEhbJR1TCUAgWxAhfN8cRrgo6AV5Y6DMGXb92cz" target="_blank">reacts to the election results</a>.
+</p> 
+
+<br> 
+
+<https://heatmap.news/politics/trump-win-climate-change-reaction>
+
+---
+
+## Money movements and another Trump presidency
+
+date: 2024-11-06, from: Marketplace Morning Report
+
+<p>Donald Trump has won the race for the White House. What does that mean for financial markets? With Ben Kumar, head of equity strategy at Seven Investment Management, we&#8217;ll delve into stock movements, the market volatility and the potential impact of tariffs. We&#8217;ll also unpack the economic ripple effects of a Republican-controlled Senate and learn about the backgrounds of two potential economic leaders under Trump: investor John Paulson and billionaire Elon Musk.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/06/mmr_20241106_MMR_Podcast_2_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/money-movements-and-another-trump-presidency&awCollectionId=mkp-MMR"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/06/mmr_20241106_MMR_Podcast_2_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/money-movements-and-another-trump-presidency&awCollectionId=mkp-MMR" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/money-movements-and-another-trump-presidency>
+
+---
+
+## Concern grows over weight loss drug dupes
+
+date: 2024-11-06, from: Marketplace Morning Report
+
+<p><em>From the BBC World Service:</em> The diabetes drug giant Novo Nordisk is reassuring investors with big sales numbers for its popular weight loss drug, Wegovy. But there are concerns over the production of unofficial copies of its drugs, which have been linked to hospitalizations and deaths. And in Nigeria, millions have been without electricity for more than a week following technical problems with the country&#8217;s power grid. We hear about the impact from businesses.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/06/mmr_20241106_MMR_Podcast_1_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/concern-grows-over-weight-loss-drug-dupes&awCollectionId=mkp-MMR"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/06/mmr_20241106_MMR_Podcast_1_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/concern-grows-over-weight-loss-drug-dupes&awCollectionId=mkp-MMR" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/concern-grows-over-weight-loss-drug-dupes>
+
+---
+
+## Donald Trump projected winner in US presidential race
+
+date: 2024-11-06, from: VOA News USA
+
+ 
+
+<br> 
+
+<https://www.voanews.com/a/donald-trump-projected-winner-in-us-presidential-race-/7853565.html>
+
+---
+
+## Abortion rights advocates win in 7 states and clear way to overturn Missouri ban but lose in 3
+
+date: 2024-11-06, from: VOA News USA
+
+Washington — Voters in Missouri cleared the way to undo one of the nation's most restrictive abortion bans in one of seven victories for abortion rights advocates, while Florida, Nebraska and South Dakota defeated similar constitutional amendments, leaving bans in place. 
+
+
+Abortion rights amendments also passed in Arizona, Colorado, Maryland and Montana. Nevada voters also approved an amendment, but they'll need to pass it again it 2026 for it to take effect. Another that bans discrimination on the basis of "pregnancy outcomes" prevailed in New York. 
+
+
+The results include firsts for the abortion landscape, which underwent a seismic shift in 2022 when the U.S. Supreme Court overturned Roe v. Wade, a ruling that ended a nationwide right to abortion and cleared the way for bans to take effect in most Republican-controlled states. 
+
+
+They also came in the same election that Republican Donald Trump won the presidency. Among his inconsistent positions on abortion has been an insistence that it's an issue best left to the states. Still, the president can have a major impact on abortion policy through executive action. 
+
+
+In the meantime, Missouri is positioned to be the first state where a vote will undo a ban on abortion at all stages of pregnancy, with an amendment that would allow lawmakers to restrict abortions only past the point of a fetus' viability — usually considered after 21 weeks, although there's no exact defined time frame. 
+
+
+But the ban, and other restrictive laws, are not automatically repealed. Advocates now have to ask courts to overturn laws to square with the new amendment. 
+
+
+"Today, Missourians made history and sent a clear message: decisions around pregnancy, including abortion, birth control, and miscarriage care are personal and private and should be left up to patients and their families, not politicians," Rachel Sweet, campaign manager of Missourians for Constitutional Freedom, said in a statement. 
+
+
+Roughly half of Missouri's voters said abortion should be legal in all or most cases, according to AP VoteCast, a survey of more than 2,200 of the state's voters. But only about 1 in 10 said abortion should be illegal in all cases; nearly 4 in 10 said abortion should be illegal in most cases. 
+
+
+Bans remain in place in three states after votes 
+
+
+Florida, Nebraska and South Dakota became the first states since Roe was overturned where abortion opponents prevailed on a ballot measure. Most voters supported the Florida measure, but it fell short of the required 60% to pass constitutional amendments in the state. Most states require a simple majority. 
+
+
+The result was a political win for Gov. Ron DeSantis, a Republican with a national profile, who had steered state GOP funds to the cause. His administration has weighed in, too, with a campaign against the measure, investigators questioning people who signed petitions to add it to the ballot and threats to TV stations that aired one commercial supporting it. 
+
+
+Marjorie Dannenfelser, president of the national anti-abortion group SBA Pro-Life America, said in a statement that the result is "a momentous victory for life in Florida and for our entire country," praising DeSantis for leading the charge against the measure. 
+
+
+The defeat makes permanent a shift in the Southern abortion landscape that began when the state's six-week ban took effect in May. That removed Florida as a destination for abortion for many women from nearby states with deeper bans and also led to far more women from the state traveling to obtain abortion. The nearest states with looser restrictions are North Carolina and Virginia — hundreds of miles away. 
+
+
+"The reality is because of Florida's constitution a minority of Florida voters have decided Amendment 4 will not be adopted," said Lauren Brenzel, campaign director for the Yes on 4 Campaign said while wiping away tears. "The reality is a majority of Floridians just voted to end Florida's abortion ban." 
+
+
+In South Dakota, another state with a ban on abortion throughout pregnancy with some exceptions, the defeat of an abortion measure was more decisive. It would have allowed some regulations related to the health of the woman after 12 weeks. Because of that wrinkle, most national abortion-rights groups did not support it. 
+
+
+Voters in Nebraska adopted a measure that allows more abortion restrictions and enshrines the state's current 12-week ban and rejected a competing measure that would have ensured abortion rights. 
+
+
+Other states guaranteed abortion rights 
+
+
+Arizona's amendment will mean replacing the current law that bans abortion after the first 15 weeks of pregnancy. The new measure ensures abortion access until viability. A ballot measure there gained momentum after a state Supreme Court ruling in April found that the state could enforce a strict abortion ban adopted in 1864. Some GOP lawmakers joined with Democrats to repeal the law before it could be enforced. 
+
+
+In Maryland, the abortion rights amendment is a legal change that won't make an immediate difference to abortion access in a state that already allows it. 
+
+
+It's a similar situation in Missouri, where abortion is already legal until viability. 
+
+
+The Colorado measure exceeded the 55% of support required to pass. Besides enshrining access, it also undoes an earlier amendment that barred using state and local government funding for abortion, opening the possibility of state Medicaid and government employee insurance plans covering care. 
+
+
+A New York equal rights law that abortion rights group say will bolster abortion rights also passed. It doesn't contain the word "abortion" but rather bans discrimination on the basis of "pregnancy outcomes, and reproductive healthcare and autonomy." Sasha Ahuja, campaign director of New Yorkers for Equal Rights, called the result "a monumental victory for all New Yorkers" and a vote against opponents who she says used misleading parental rights and anti-trans messages to thwart the measure. 
+
+
+The results end a win streak for abortion-rights advocates 
+
+
+Until Tuesday, abortion rights advocates had prevailed on all seven measures that have appeared on statewide ballots since the fall of Roe. 
+
+
+The abortion rights campaigns have a big fundraising advantage this year. Their opponents' efforts are focused on portraying the amendments as too extreme rather than abortion as immoral. 
+
+
+Currently, 13 states are enforcing bans at all stages of pregnancy, with some exceptions. Four more bar abortion in most cases after about six weeks of pregnancy — before women often realize they're pregnant. Despite the bans, the number of monthly abortions in the U.S. has risen slightly, because of the growing use of abortion pills and organized efforts to help women travel for abortion. Still, advocates say the bans have reduced access, especially for lower-income and minority residents of the states with bans. 
+
+
+The issue is resonating with voters. About one-fourth said abortion policy was the single most important factor for their vote, according to AP VoteCast, a sweeping survey of more than 110,000 voters nationwide. Close to half said it was an important factor, but not the most important. Just over 1 in 10 said it was a minor factor. 
+
+
+The outcomes of ballot initiatives that sought to overturn strict abortion bans in Florida and Missouri were very important to a majority of voters in the states. More than half of Florida voters identified the result of the amendment as very important, while roughly 6 in 10 of Missouri's voters said the same, the survey found. 
+
+<br> 
+
+<https://www.voanews.com/a/abortion-rights-advocates-win-in-7-states-and-clear-way-to-overturn-missouri-ban-but-lose-in-3/7853556.html>
+
+---
+
+## Trump wins US presidential election
+
+date: 2024-11-06, from: VOA News USA
+
+Former U.S. President Donald Trump defeated Vice President Kamala Harris to earn a new four-year term as the country’s leader.
+
+
+In a tightly contested race, Trump secured at least 277 of the 538 available electoral votes in Tuesday’s election, giving him the necessary majority to become the first U.S. leader to win non-consecutive terms since the 1890s.
+
+
+Harris, the Democratic candidate who joined the race late after President Joe Biden dropped out in July, was trying to become the first woman elected to the U.S. presidency.
+
+
+Trump claimed victory early Wednesday as he thanked his supporters at a rally in Florida.
+
+
+
+
+"This was a movement like nobody's ever seen before, and, frankly, this was, I believe, the greatest political movement of all time," Trump said.
+
+
+He pledged to "fix our borders" and "fix everything in our country."
+
+
+Trump also said he would work to deliver a "strong, safe and prosperous America."
+
+
+
+
+A Harris campaign official told a crowd of her supporters in Washington that she would not address the gathering overnight but would speak later Wednesday.
+
+
+In the U.S. system, where the presidential election is tallied in a series of state-by-state contests, both Harris and Trump were quickly declared winners in states where their parties enjoy clear majority support, while the nation focused on roughly seven so-called battleground states that were expected to tip the balance in the direction of the winner.
+
+
+Ultimately it was Trump’s victories in Pennsylvania, Georgia, North Carolina and Wisconsin that gave him the advantage.
+
+
+Republican success Tuesday extended to Congress, where the party won back a majority in the Senate with at least 51 of 100 seats. Control of the House of Representatives, which is currently held by Republicans, was not yet decided early Wednesday.
+
+
+Trump served from 2017-2021 but left office after losing to Biden in an election that Trump continued to falsely assert that he won. That denial helped fuel the January 6, 2021, attack on the U.S. Capitol by a mob of his supporters who disrupted the official tallying of the 2020 election results.
+
+
+Trump and his allies also launched numerous legal challenges after the 2020 vote, with state and federal judges eventually dismissing more than 50 lawsuits.
+
+
+Since leaving office, Trump was convicted of 34 charges linked to hush money payments he made to an adult film actress in the lead-up to the 2016 election. Sentencing in that case is scheduled for November 26. Trump was also indicted in three other cases, including two accusing him of trying to illegally overturn the 2020 election and another alleging he took hundreds of highly secret national security documents to his Florida home.
+
+
+Trump is scheduled to be inaugurated for a new term on January 20.
+
+
+
+
+A key foreign policy focus in a new Trump administration will be relations between the United States and China, including subjects such as trade, Taiwan and China’s actions in the South China Sea.
+
+
+Trump instituted a series of tariffs against Chinese imports amid a trade war with China during his previous administration.
+
+
+Vincent Wang, dean of the college of arts and sciences at Adelphi University, told VOA Mandarin that China would be less likely to take an aggressive stance than it would have been if Harris won.
+
+
+“If Trump is elected, I think China may not dare, because he doesn't go through drafts, he has already said harsh words. If he wakes up today, he might say he's going to raise tariffs by 200 percent. If he wakes up tomorrow, he might want to bomb Beijing. So I think this so-called this Trump-type deterrent, on the contrary, will make them a little bit more restrained,” Wang said Tuesday. 
+
+<br> 
+
+<https://www.voanews.com/a/harris-trump-wait-as-key-states-count-presidential-election-vote/7853394.html>
+
+---
+
+## World leaders congratulate Trump on election win
+
+date: 2024-11-06, from: VOA News USA
+
+SEOUL, SOUTH KOREA — World leaders offered congratulations to Donald Trump after news media projections showed he secured a decisive victory in the 2024 U.S. presidential election.
+
+
+Trump defeated his Democratic rival Kamala Harris, marking a historical political comeback for the former Republican president following four years out of office.
+
+
+Early Wednesday, many world leaders took to the social media website X to congratulate Trump, whose unpredictable “America First” foreign policy approach complicated relations with many U.S. allies and foes alike during his first term in office.
+
+
+Israeli Prime Minister Benjamin Netanyahu was one of the first U.S. allies to send a message of support, praising Trump’s “historic return,” which he said offers a “powerful recommitment to the great alliance between Israel and America.”
+
+
+
+
+Ukrainian President Volodymyr Zelenskyy, who has called for more U.S. and Western support to fight off Russia’s invasion, spoke positively of what he said was Trump’s commitment to ‘peace through strength’ in world affairs.
+
+
+"This is exactly the principle that can practically bring just peace in Ukraine closer. I am hopeful that we will put it into action together,” said Zelenskyy.
+
+
+The head of NATO — the Western military alliance that Trump has long criticized for not doing enough to take care of Europe’s defense — made similar comments in his congratulatory message for Trump.
+
+
+“His leadership will again be key to keeping our Alliance strong. I look forward to working with him again to advance peace through strength through #NATO,” said Mark Rutte, the NATO Secretary General.
+
+
+French President Emmanuel Macron also quickly offered congratulations, saying he is “ready to work together as we did for four years…with your conviction and mine.”
+
+
+British Prime Minister Keir Starmer said his government stands “shoulder to shoulder” in defense of shared values of freedom, democracy and enterprise.
+
+
+“From growth and security to innovation and tech, I know that the UK-US special relationship will continue to prosper on both sides of the Atlantic for years to come,” Starmer said.
+
+
+Ursula von der Leyen, the president of the EU Commission, said she "warmly congratulate[s]" Trump and praised the "true partnership" between the European Union and the United States.
+
+
+During Trump's first term, friction erupted between the EU and the U.S., partly over Trump's imposition of tariffs on European exports.
+
+
+Hungarian Prime Minister Victor Orban, a conservative Trump ally, called Trump's victory the "biggest comeback in US political history" and said it was a "much needed victory" for the world.  
+
+
+Russian President Vladimir Putin has not commented on the U.S. election results. But on X, former Russian President Dmitry Medvedev relished the apparent defeat of Harris, saying "Kamala is finished...let her keep cackling infectiously."
+
+
+Asian leaders also began sending congratulatory messages.
+
+
+Australian Prime Minister Anthony Albanese said, “Australians and Americans are great friends and true allies.”
+
+
+Indian Prime Minister Narendra Modi offered the “heartiest congratulations” to Trump, who he called his friend.
+
+
+“As you build on your successes of the previous term, I look forward to reviewing our collaboration to further strengthen” the U.S.-India relationship, Modi said.
+
+
+In a statement, Philippines President Ferdinand Marcos Jr. expressed hope that the "unshakeable alliance" between Washington and Manila, "will be a force of good that will blaze a path of prosperity and amity, in the region, and in both sides of the Pacific." 
+
+<br> 
+
+<https://www.voanews.com/a/world-leaders-congratulate-trump-on-expected-election-win/7853474.html>
+
+---
+
+## Trump speaks to supporters in Florida
+
+date: 2024-11-06, from: VOA News USA
+
+Republican presidential nominee former President Donald Trump speaks to his supporters at an election night watch party early Nov. 6, 2024, in West Palm Beach, Fla. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-speaks-to-supporters-in-florida/7853452.html>
+
+---
+
+## Elon Musk Had a Pretty Great Night
+
+date: 2024-11-06, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDIzMTMwMy9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTczNTA2NzkzMn0.idTIqwWOgn1ds2JlXVrgPSFHv0NdnRaT5CPBjhCwuew/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>
+	As the election odds swung sharply towards Republican Donald Trump as Tuesday evening slid into Wednesday morning, climate-conscious investors, academics, strategists, and other internet personalities were mostly mute. It was a night to stare blankly at the TV, watch the needle slowly tilt to the right, and vaguely wonder about the future of the climate.
+</p><p>
+	That is, unless you were 
+	<a href="https://heatmap.news/politics/elon-musk-trump" target="_blank">Elon Musk</a>, Trump’s latest, closest campaign confidant, in which case fist-pumping posts abounded. Well before any polls had closed, Musk posted on X about supposedly “record numbers” of men turning out to vote for Trump. While we can’t confirm that’s true, it set a vibe for the evening to come.
+</p><center><div class="twitter-tweet twitter-tweet-rendered" style="display: flex; max-width: 550px; width: 100%; margin-top: 10px; margin-bottom: 10px;">
+<iframe allowfullscreen="true" allowtransparency="true" class="" data-tweet-id="1853847172309209357" frameborder="0" id="twitter-widget-0" scrolling="no" src="https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-0&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=1853847172309209357&lang=en&origin=https%3A%2F%2Fheatmap.news%2Fr%2Fentryeditor%2F2669618765%23publish&sessionId=caffd3824bce6058859f43e615d648f412f082b6&theme=light&widgetsVersion=2615f7e52b7e0%3A1702314776716&width=550px" style="position: static; visibility: visible; width: 550px; height: 321px; display: block; flex-grow: 1;" title="X Post">
+</iframe>
+</div><script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></center><p>
+	For Musk, no display of patriotism is complete without a plug for one of his companies. Exhibit A:
+</p><center><div class="twitter-tweet twitter-tweet-rendered" style="display: flex; max-width: 550px; width: 100%; margin-top: 10px; margin-bottom: 10px;">
+<iframe allowfullscreen="true" allowtransparency="true" class="" data-tweet-id="1853853769152548945" frameborder="0" id="twitter-widget-2" scrolling="no" src="https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-2&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=1853853769152548945&lang=en&origin=https%3A%2F%2Fheatmap.news%2Fr%2Fentryeditor%2F2669618765%23publish&sessionId=caffd3824bce6058859f43e615d648f412f082b6&theme=light&widgetsVersion=2615f7e52b7e0%3A1702314776716&width=550px" style="position: static; visibility: visible; width: 550px; height: 694px; display: block; flex-grow: 1;" title="X Post">
+</iframe>
+</div><script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></center><p>
+	Exhibit B:
+</p><center><div class="twitter-tweet twitter-tweet-rendered" style="display: flex; max-width: 550px; width: 100%; margin-top: 10px; margin-bottom: 10px;">
+<iframe allowfullscreen="true" allowtransparency="true" class="" data-tweet-id="1853860311335334392" frameborder="0" id="twitter-widget-3" scrolling="no" src="https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-3&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=1853860311335334392&lang=en&origin=https%3A%2F%2Fheatmap.news%2Fr%2Fentryeditor%2F2669618765%23publish&sessionId=caffd3824bce6058859f43e615d648f412f082b6&theme=light&widgetsVersion=2615f7e52b7e0%3A1702314776716&width=550px" style="position: static; visibility: visible; width: 550px; height: 801px; display: block; flex-grow: 1;" title="X Post">
+</iframe>
+</div><script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></center><p>
+	He spent the rest of the day 
+	<a href="https://x.com/elonmusk/status/1853890783730163935" rel="noopener noreferrer" target="_blank"><u>casting doubt on election security</u></a> in Pennsylvania and imploring his followers to vote because no less than “the future of the world” was at stake.
+</p><center><div class="twitter-tweet twitter-tweet-rendered" style="display: flex; max-width: 550px; width: 100%; margin-top: 10px; margin-bottom: 10px;">
+<iframe allowfullscreen="true" allowtransparency="true" class="" data-tweet-id="1853909084627783742" frameborder="0" id="twitter-widget-4" scrolling="no" src="https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-4&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=1853909084627783742&lang=en&origin=https%3A%2F%2Fheatmap.news%2Fr%2Fentryeditor%2F2669618765%23publish&sessionId=caffd3824bce6058859f43e615d648f412f082b6&theme=light&widgetsVersion=2615f7e52b7e0%3A1702314776716&width=550px" style="position: static; visibility: visible; width: 550px; height: 356px; display: block; flex-grow: 1;" title="X Post">
+</iframe>
+</div><script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></center><p>
+Of course, that’s similar to the rhetoric those in climate world use to describe the prospect of a second Trump presidency. As the final polls were closing, University of California, Santa Barbara climate historian Leah Stokes no doubt summed up the feelings of many when she tweeted,
+</p><center><div class="twitter-tweet twitter-tweet-rendered" style="display: flex; max-width: 550px; width: 100%; margin-top: 10px; margin-bottom: 10px;">
+<iframe allowfullscreen="true" allowtransparency="true" class="" data-tweet-id="1854011260142248112" frameborder="0" id="twitter-widget-5" scrolling="no" src="https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-5&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=1854011260142248112&lang=en&origin=https%3A%2F%2Fheatmap.news%2Fr%2Fentryeditor%2F2669618765%23publish&sessionId=caffd3824bce6058859f43e615d648f412f082b6&theme=light&widgetsVersion=2615f7e52b7e0%3A1702314776716&width=550px" style="position: static; visibility: visible; width: 550px; height: 225px; display: block; flex-grow: 1;" title="X Post">
+</iframe>
+</div><script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></center><p>
+	But there was also room for humor. As the electoral map filled in, <em>The Atlantic</em> CEO Nicholas Thompson had some theories on what caused the pro-MAGA, pro-Mars Tesla CEO to lean so hard into Trump’s campaign.
+</p><center><div class="twitter-tweet twitter-tweet-rendered" style="display: flex; max-width: 550px; width: 100%; margin-top: 10px; margin-bottom: 10px;">
+<iframe allowfullscreen="true" allowtransparency="true" class="" data-tweet-id="1854008314478072129" frameborder="0" id="twitter-widget-6" scrolling="no" src="https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-6&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=1854008314478072129&lang=en&origin=https%3A%2F%2Fheatmap.news%2Fr%2Fentryeditor%2F2669618765%23publish&sessionId=caffd3824bce6058859f43e615d648f412f082b6&theme=light&widgetsVersion=2615f7e52b7e0%3A1702314776716&width=550px" style="position: static; visibility: visible; width: 550px; height: 273px; display: block; flex-grow: 1;" title="X Post">
+</iframe>
+</div><script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></center><p>
+Duncan Campbell, the vice president of Scale Microgrid Solutions and host of the energy podcast DER Task Force, entered the chat with an even more niche joke.
+</p><center><div class="twitter-tweet twitter-tweet-rendered" style="display: flex; max-width: 550px; width: 100%; margin-top: 10px; margin-bottom: 10px;">
+<iframe allowfullscreen="true" allowtransparency="true" class="" data-tweet-id="1854009083591823615" frameborder="0" id="twitter-widget-7" scrolling="no" src="https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-7&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=1854009083591823615&lang=en&origin=https%3A%2F%2Fheatmap.news%2Fr%2Fentryeditor%2F2669618765%23publish&sessionId=caffd3824bce6058859f43e615d648f412f082b6&theme=light&widgetsVersion=2615f7e52b7e0%3A1702314776716&width=550px" style="position: static; visibility: visible; width: 550px; height: 297px; display: block; flex-grow: 1;" title="X Post">
+</iframe>
+</div><script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></center><p>
+	But no one could beat Musk for sheer weirdness. With results beginning to stack up, he shared a tribute to the “Dark MAGA” facet of the Trump coalition set to that Europe classic, “The Final Countdown.”
+</p><center><div class="twitter-tweet twitter-tweet-rendered" style="display: flex; max-width: 550px; width: 100%; margin-top: 10px; margin-bottom: 10px;">
+<iframe allowfullscreen="true" allowtransparency="true" class="" data-tweet-id="1853948745521439079" frameborder="0" id="twitter-widget-8" scrolling="no" src="https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-8&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=1853948745521439079&lang=en&origin=https%3A%2F%2Fheatmap.news%2Fr%2Fentryeditor%2F2669618765%23publish&sessionId=caffd3824bce6058859f43e615d648f412f082b6&theme=light&widgetsVersion=2615f7e52b7e0%3A1702314776716&width=550px" style="position: static; visibility: visible; width: 550px; height: 528px; display: block; flex-grow: 1;" title="X Post">
+</iframe>
+</div><script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></center><p>
+And as the night’s endgame began to come into focus, he shared a snap from Trump’s watch party at Mar-a-Lago.
+</p><center><div class="twitter-tweet twitter-tweet-rendered" style="display: flex; max-width: 550px; width: 100%; margin-top: 10px; margin-bottom: 10px;">
+<iframe allowfullscreen="true" allowtransparency="true" class="" data-tweet-id="1854026234339938528" frameborder="0" id="twitter-widget-9" scrolling="no" src="https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-9&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=1854026234339938528&lang=en&origin=https%3A%2F%2Fheatmap.news%2Fr%2Fentryeditor%2F2669618765%23publish&sessionId=caffd3824bce6058859f43e615d648f412f082b6&theme=light&widgetsVersion=2615f7e52b7e0%3A1702314776716&width=550px" style="position: static; visibility: visible; width: 550px; height: 753px; display: block; flex-grow: 1;" title="X Post">
+</iframe>
+</div><script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></center><p>
+	Around 2:30 a.m. ET, Trump took the stage at the convention in West Palm Beach where his supporters had gathered and declared victory in the race. By then 
+	<a href="https://www.reuters.com/world/us/trump-vs-harris-us-voters-head-polls-turbulent-campaign-concludes-2024-11-05/" target="_blank">some</a>, though certainly not all networks had called the election in Trump’s favor. He devoted a verse of his rambling, genial speech to Musk. “A star is born: Elon,” Trump said in his victory speech, praising Musk’s efforts on the campaign trail, his “beautiful” rockets, and Starlink, which Trump apparently hadn’t heard of before Hurricane Helene.
+</p><p>
+	Musk, for his part, seems psyched about the prospect of playing a role in the Trump administration. “The future is gonna be fantastic,” he 
+	<a href="https://x.com/elonmusk/status/1854048115206078507" target="_blank">said</a>, as the electoral votes crept closer to 270. Though climate tech investor Kristin Ellis of Lowercarbon Capital did have one extra bit of perspective to add:
+</p><center><div class="twitter-tweet twitter-tweet-rendered" style="display: flex; max-width: 550px; width: 100%; margin-top: 10px; margin-bottom: 10px;">
+<iframe allowfullscreen="true" allowtransparency="true" class="" data-tweet-id="1854037458654261431" frameborder="0" id="twitter-widget-0" scrolling="no" src="https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-0&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideCard=false&hideThread=false&id=1854037458654261431&lang=en&origin=https%3A%2F%2Fheatmap.news%2Fr%2Fentryeditor%2F2669618765%23publish&sessionId=895d38299aba3981edbec5eef2f75df39cae5301&theme=light&widgetsVersion=2615f7e52b7e0%3A1702314776716&width=550px" style="position: static; visibility: visible; width: 550px; height: 321px; display: block; flex-grow: 1;" title="X Post">
+</iframe>
+</div><script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></center> 
+
+<br> 
+
+<https://heatmap.news/sparks/elon-musk-tweets>
+
+---
+
+## Trump’s Return Puts the Climate Economy on Defense
+
+date: 2024-11-06, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDIzMTI3Mi9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTczNTU3MzU5N30.uxB61jSj4XA2vt-uxJjj0jw4N3eN82idAq54pcvvgPk/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">As of early Wednesday morning, Donald Trump seems likely to be re-elected president of the United States, becoming the first commander in chief since Grover Cleveland to serve non-consecutive terms. </p>
+<p>Trump’s probable victory has profound implications for America’s economy, security, and leadership in the world. But it will also impact the country’s energy and environmental policy. </p>
+<p>During his first term, Trump made his antipathy for climate policy into a centerpiece of his politics, turning the United States into a global pariah on environmental issues. His second term will play out in a different context — one in which the United States has a real climate law on its books, but also where China has seized a commanding lead in many of the most important zero-carbon technologies. That means Trump’s climate decisions will matter to the country’s economic policy in a way that they never did before. </p>
+<p>But what will a Trump administration look like? To begin with: Trump’s victory will put climate advocates — and the broader clean energy economy — on defense for the next four years and beyond. </p>
+<p>The first few steps taken by the Trump administration are easy to predict. He will pull the United States out of the Paris Agreement, just like he did during the first term; he will approve a new tranche of liquified natural gas export terminals; and he will block and then begin to roll back the Environmental Protection Agency’s climate rules for power plants, cars, and light-duty trucks. </p>
+<p>Not all of these rollbacks will make themselves felt at first. The current set of EPA clean car rules, for instance, apply to vehicles sold through model year 2026. That is close enough to the present that automakers have already begun to make the necessary investments to meet those standards. But vehicles sold in the latter half of this decade will likely face much weaker rules or none at all. </p>
+<p>Then the bigger climate policy questions will come. First up is whether Trump tries to repeal or otherwise hinder the Inflation Reduction Act, the landmark climate incentives law passed by President Joe Biden. Trump has said that he wants to <a href="https://www.axios.com/2024/10/28/trump-climate-law-ira-pullback" rel="noopener noreferrer" target="_blank"><u>“terminate”</u></a> IRA spending, telling the Economic Club of New York that he seeks to “rescind all unspent funds” under the law. </p>
+<p>That would — as Trump hopes — set the country and world back in the fight against climate change. But it would also significantly raise taxes on energy companies (and automakers) while hurting Trump’s own voters. The IRA’s hundreds of billions in investments, which are largely tax credits, have overwhelmingly flowed to Republican districts. According to <a href="https://www.washingtonpost.com/climate-environment/interactive/2024/climate-bill-biden-clean-energy/" rel="noopener noreferrer" target="_blank"><u>a </u><u><em><em>Washington Post</em></em></u><u> analysis</u></a>, districts that backed Trump in 2020 have received three times as much IRA funding as those that supported Biden. New factories making EVs, batteries, and solar panels have popped up across purple and red America, including in Georgia, Arizona, and the Sun Belt. That’s why 18 House Republicans have <a href="https://thehill.com/policy/energy-environment/4815990-mike-johnson-ira-clean-energy-tax-credits/" rel="noopener noreferrer" target="_blank"><u>asked</u></a> Mike Johnson directly not to repeal the law. If Democrats ultimately win the House of Representatives — we will probably not know for some weeks — then Trump will lack the votes to repeal the law outright. </p>
+<p>That’s the theory behind the IRA, at least. The climate law, like the Affordable Care Act before it, is meant to protect itself from repeal by tying itself to local economies across the country. Will that theory hold? Will the climate law survive Trump’s first 100 days? Now we will find out.</p>
+<p>Even if the law itself stands, Trump may seek other ways to tamper with it. By saying that he might “rescind the [IRA’s] unspent funds,” he is raising the specter of impoundment, the name for when the president delays or refuses to spend funding that Congress has authorized. Impoundment is <a href="https://constitution.congress.gov/browse/essay/artII-S3-3-7/ALDE_00013376/" rel="noopener noreferrer" target="_blank"><u>of dubious legality</u></a>, and it is regulated by <a href="https://democrats-budget.house.gov/resources/reports/impoundment-control-act-1974-what-it-why-does-it-matter" rel="noopener noreferrer" target="_blank"><u>a 1974 law</u></a> first passed to rein in Richard Nixon, but Trump might nonetheless try to pause some IRA payments for a time. The first impeachment case against him in 2019 concerned his impoundment of defense funding for Ukraine.</p>
+<p>Beyond the IRA, though, there are a number of lurking fissures in a second Trump administration’s climate and environmental policy. Trump has ascended to the White House with the assistance of a strange coalition. It includes Elon Musk, an EV and defense contracting billionaire, and Robert F. Kennedy, Jr., an environmental lawyer turned anti-vaccine crusader and <a href="https://www.npr.org/2024/08/05/nx-s1-5063939/rfk-jr-central-park-bear-bicycle" rel="noopener noreferrer" target="_blank"><u>roadkill enthusiast</u></a>. Trump has promised to put Kennedy in charge of public health policy, and Musk is supposedly going to oversee a new Department of Government Efficiency. </p>
+<p>These men agree on some policies. But they do not agree on everything, including in the realm of energy policy. Even during his victory speech, Trump jokingly warned Kennedy to "stay away from the liquid gold," referencing domestic oil production. </p>
+<p>Kennedy is also a lifelong opponent of nuclear energy, and one of his greatest career victories is shutting down New York’s nuclear reactor Indian Point. Musk <a href="https://www.ans.org/news/article-3812/elon-musk-shutting-down-nuclear-plants-is-total-madness/" rel="noopener noreferrer" target="_blank"><u>champions</u></a> nuclear energy and has said shuttering reactors is “total madness.” The likely next vice president, JD Vance, also<a href="https://www.huffpost.com/entry/jd-vance-joe-rogan_n_6723e7f7e4b0871068fea5de" rel="noopener noreferrer" target="_blank"><u> tacitly supports</u></a> nuclear. But Trump, who <a href="https://nypost.com/2024/08/29/us-news/trump-vows-to-make-electricity-cheap-with-hundreds-of-new-power-plants-and-modular-nuclear-reactors/" rel="noopener noreferrer" target="_blank"><u>has officially called</u></a> for the U.S. to build more nuclear reactors, <a href="https://www.eenews.net/articles/trump-cites-cost-and-risks-of-building-more-nuclear-plants/" rel="noopener noreferrer" target="_blank"><u>has sounded more skeptical</u></a> of nuclear energy lately. </p>
+<p>Other fault lines risk dividing this cohort. Kennedy has <a href="https://www.axios.com/2023/07/05/pollution-vaccine-theory-trans-people-mainstream" rel="noopener noreferrer" target="_blank"><u>campaigned</u></a> against the chemical industry. Will he back the buildout of refineries and chemical plants that Trump has promised? Elon Musk has said that <a href="https://www.eenews.net/articles/elon-musk-climate-law-repeal-could-help-tesla/" rel="noopener noreferrer" target="_blank"><u>repealing the IRA</u></a> could benefit Tesla by kneecapping its competitors. Yet much of Tesla’s profit <a href="https://www.barrons.com/articles/tesla-ev-sales-credits-growing-c362771f" rel="noopener noreferrer" target="_blank"><u>comes from selling regulatory credits</u></a> created by California and the federal government’s climate policies. If Trump repeals those policies, what will happen to Tesla’s profitability? (Will Musk care?)</p>
+<p>The backdrop to these disagreements will be the now forever altered geopolitics for climate policy. Eight years ago, when Trump first took office, climate policy was seen as fundamentally limited to the environment — and clean energy was an important but up-and-coming, almost wholesome niche pursuit that Democrats doted upon. Now the stuff of clean energy — renewables, batteries, and EVs — are central to modern economic development and to geopolitics.</p>
+<p>China shows why that is. For every step back that Trump takes on climate policy, China will step forward and take more of a global leadership role. Indeed, <a href="https://www.brookings.edu/articles/chinas-perspective-on-the-us-withdrawal-from-the-paris-agreement/" rel="noopener noreferrer" target="_blank"><u>partly because of Trump’s own policies</u></a>, China has taken a commanding lead in zero-carbon technologies over the past decade. In particular it now <a href="https://heatmap.news/electric-vehicles/ford-gm-stellantis-byd" target="_self"><u>dominates</u></a> electric vehicle production, producing cheaper and technologically superior models to anything available elsewhere in the world. If America ends its support for EVs, then China will happily take what global market share remains from U.S. automakers — in fact, <a href="https://www.spglobal.com/commodityinsights/en/market-insights/latest-news/metals/101424-chinas-ev-sales-output-hit-fresh-record-in-sep" rel="noopener noreferrer" target="_blank"><u>it is already doing so</u></a>. As Trump’s White House steers American climate policy for the rest of the 2020s, they will not just be deciding what direction the U.S. will go in — they will be acting with, or against, the rest of the world. </p> 
+
+<br> 
+
+<https://heatmap.news/politics/donald-trump-2024-climate-energy>
+
+---
+
+## US Navy contractor behind one of the military's biggest scandals sentenced to 15 years
+
+date: 2024-11-06, from: VOA News USA
+
+SAN DIEGO — Former military defense contractor Leonard "Fat Leonard" Francis was sentenced Tuesday to 15 years in prison for masterminding a decade-long bribery scheme that swept up dozens of U.S. Navy officers, federal prosecutors said.
+
+
+U.S. District Judge Janis L. Sammartino also ordered Francis to pay $20 million in restitution to the Navy and a $150,000 fine, according to a statement from the U.S. Attorney's Office. He was also ordered to forfeit $35 million in "ill-gotten proceeds from his crimes," the statement said.
+
+
+Prosecutors said the sentence resulted from Francis' first guilty plea in 2015 concerning bribery and fraud, his extensive cooperation with the government since then and another guilty plea Tuesday for failing to appear for his original sentencing hearing in 2022.
+
+
+Shortly before he was due to be sentenced in September 2022, Francis cut off a GPS monitor he was wearing while under house arrest and fled the country. He was later arrested in Venezuela and brought back to the U.S. in December 2023.
+
+
+Sammartino sentenced him to more than 13 1/2 years for the bribery and fraud charges, plus 16 months for failing to appear. The sentences are to be served consecutively.
+
+
+"Leonard Francis lined his pockets with taxpayer dollars while undermining the integrity of U.S. Naval forces," U.S. Attorney Tara McGrath said in Tuesday’s statement. "The impact of his deceit and manipulation will be long felt, but justice has been served today."
+
+
+
+
+Email and phone messages seeking comment were left Tuesday for William Douglas Sprague, an attorney for Francis.
+
+
+Sprague, who sought a sentence of just under nine years, argued that his client’s cooperation should warrant a lesser sentence, 10 News San Diego reported.
+
+
+Sprague also said Francis' company provided the Navy with exemplary services for many years.
+
+
+"Unfortunately, as Leonard acknowledged in his early guilty plea and immediate cooperation, his greed drove him to commit bribery and to commit fraud," Sprague said.
+
+
+Prosecutors said Francis’ actions led to one of the biggest bribery investigations in U.S. military history, which resulted in the conviction and sentencing of nearly two dozen Navy officials, defense contractors and others on various fraud and corruption charges.
+
+
+An enigmatic figure who was 6-foot-3 and weighed 350 pounds at one time, Francis owned and operated his family’s ship-servicing business, Singapore-based Glenn Defense Marine Asia Ltd. or GDMA, which supplied food, water and fuel to vessels. The Malaysian defense contractor was a key contact for U.S. Navy ships at ports across Asia for more than two decades. During that time, Francis wooed naval officers with Kobe beef, expensive cigars, concert tickets and wild sex parties at luxury hotels from Thailand to the Philippines.
+
+
+In exchange, officers, including the first active-duty admiral to be convicted of a federal crime, concealed the scheme in which Francis would overcharge for supplying ships or charge for fake services at ports he controlled in Southeast Asia. The officers passed him classified information and even went so far as redirecting military vessels to ports that were lucrative for his Singapore-based ship servicing company.
+
+
+In a federal sting, Francis was lured to San Diego on false pretenses and arrested at a hotel in September 2013. He pleaded guilty in 2015, admitting that he had offered more than $500,000 in cash bribes to Navy officials, defense contractors and others. Prosecutors say he bilked the Navy out of at least $35 million. As part of his plea deal, he cooperated with the investigation leading to the Navy convictions. He faced up to 25 years in prison.
+
+
+While awaiting sentencing, Francis was hospitalized and treated for renal cancer and other medical issues. After leaving the hospital, he was allowed to stay out of jail at a rental home, on house arrest with a GPS ankle monitor and security guards.
+
+
+But three weeks before his scheduled sentencing in September 2022, he snipped off his monitor and made a brazen escape, setting off an international search. Officials said he fled to Mexico, made his way to Cuba and eventually got to Venezuela.
+
+
+He was arrested more than two weeks after his disappearance — caught before he boarded a flight at the Simon Bolivar International Airport outside Caracas. Venezuelan officials said he intended to reach Russia.
+
+
+The cases were handled by the U.S. Attorney’s Office in an effort to be independent of the military justice system. But they have came under scrutiny.
+
+
+The felony convictions of four former Navy officers were vacated following allegations of prosecutorial misconduct. Sammartino agreed to allow them to plead guilty to a misdemeanor and pay a $100 fine each.
+
+
+Last year, Sammartino ruled that the lead federal prosecutor in the officers' case committed "flagrant misconduct" by withholding information from defense lawyers, but that it was not enough to dismiss the case. 
+
+<br> 
+
+<https://www.voanews.com/a/us-navy-contractor-behind-one-of-the-military-s-biggest-scandals-sentenced-to-15-years-/7853359.html>
+
+---
+
+## How Votes Are Counted in US Elections
+
+date: 2024-11-06, from: VOA News USA
+
+ 
+
+<br> 
+
+<https://www.voanews.com/a/7853336.html>
+
+---
+
+## Election Day Breaks Heat Records
+
+date: 2024-11-06, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDIzMTAyNS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc5MDE4NDgxMn0.hsUnBP7UtMat5gd70Ruw5Q5hrWzcpHZwHDgAJpm2Exk/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>If you’re sweating bullets in line, <em><em>stay in line! </em></em></p><p>Across the United States, millions of voters cast their ballots in record or near-record daily heat, including in Rochester, New York, where it hit a sweltering 81 degrees Fahrenheit (it was also the city’s <a href="https://13wham.com/news/local/historically-warm-november-day-in-rochester" rel="noopener noreferrer" target="_blank"><u>hottest November day on record</u></a>). It also hit a <a href="https://triblive.com/local/regional/will-this-be-the-warmest-election-day-ever/" rel="noopener noreferrer" target="_blank"><u>record</u></a> 81 degrees in Pittsburgh, Pennsylvania, which has not seen rain since October 6, and <a href="https://www.dispatch.com/story/news/local/2024/11/05/columbus-forecast-setting-record-temperatures-november-heatewave-fall-warm/76064832007/" rel="noopener noreferrer" target="_blank"><u>a record 78 degrees</u></a> in Columbus, Ohio. In Hartford, Connecticut, the mercury likewise <a href="https://www.ctinsider.com/weather/article/ct-weather-tuesday-temperature-forecast-brush-fire-19887391.php" rel="noopener noreferrer" target="_blank"><u>reached 78 degrees</u></a>, tying the previous Nov. 5 record set in 2022. New York City and Washington, D.C., meanwhile, experienced their <a href="https://www.nydailynews.com/2024/11/05/election-day-temperatures-record-high/" rel="noopener noreferrer" target="_blank"><u>warmest Election Days</u></a> since President Franklin D. Roosevelt defeated the Republican governor of Kansas, Alf Landon.</p><p>That wasn’t all, either. It was <a href="https://www.cleveland.com/metro/2024/11/cleveland-hits-record-high-temperature-for-a-presidential-election-day.html" rel="noopener noreferrer" target="_blank"><u>the hottest Election Day in a century</u></a> in Cleveland, Ohio, the hottest Election Day since 2003 <a href="https://x.com/BeverlyPerryWx/status/1853951682356404293" rel="noopener noreferrer" target="_blank"><u>in Fort Wayne, Indiana</u></a>, and <a href="https://x.com/nwsjacksonky/status/1853851043861303691" rel="noopener noreferrer" target="_blank"><u>the hottest November 5th</u></a> on record in Jackson, Kentucky. The <a href="https://www.nola.com/news/weather/louisiana-weather-record-rain-tropical-storm-rafael-heat/article_6743839c-9b8f-11ef-af87-3342bc8fcdce.html" rel="noopener noreferrer" target="_blank"><u>overnight </u><u><em><em>low</em></em></u></a> in New Orleans, Louisiana, was 75 degrees, a full degree warmer than the average <em><em>high</em></em> this time of the year. And in many parts of the U.S., <a href="https://www.washingtonpost.com/weather/2024/11/05/dc-area-forecast-record-warmth-wednesday/" rel="noopener noreferrer" target="_blank"><u>tomorrow is supposed to be even warmer</u></a>.</p><p>While it’s far too soon to attribute the unseasonal warmth directly to global warming, as Clair Barnes, a research associate with the World Weather Attribution, <a href="https://heatmap.news/guides/is-extreme-weather-climate-change" target="_self"><u>once told me</u></a>, “When you’re looking at heat extremes, there is almost always a climate change signal.”</p> 
+
+<br> 
+
+<https://heatmap.news/sparks/election-day-2024-heat-records>
+
+---
+
+## The rise of election betting
+
+date: 2024-11-06, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p>Today we’re talking about a breakout story of this election cycle: the rise of prediction markets and betting on elections. For the first time in a century, Americans can legally place bets on election outcomes using a platform called Kalshi. But the Commodity Futures Trading Commission warns that these markets could warp the public&#8217;s understanding of our elections if they&#8217;re treated like polls. On this Election Day episode, Cantrell Dumas of Better Markets, a financial reform advocacy group, explains how Americans are dabbling in election betting, the legal questions surrounding these prediction markets, and why he believes manipulation of these markets has the potential to sway elections.</p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>Then, we&#8217;ll dig into the history of the &#8220;I Voted&#8221; sticker and hear a perfect poem for Election Day. Plus, a listener shares what moving abroad taught them about the U.S. voting system.</p>
+<p><!-- /wp:paragraph --></p>
+<p>Here&#8217;s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.nbcnews.com/politics/2024-election/election-betting-newly-legal-risks-getting-confused-polls-rcna177880" target="_blank" rel="noreferrer noopener">&#8220;Election betting is newly legal — and risks getting confused with polls&#8221;</a> from NBC News</li>
+<li><a href="https://fortune.com/crypto/2024/10/30/polymarket-trump-election-crypto-wash-trading-researchers/" target="_blank" rel="noreferrer noopener">&#8220;Exclusive: Election betting site Polymarket gives Trump a 67% chance of winning but is rife with fake ‘wash’ trading, researchers say&#8221;</a> from Fortune Crypto</li>
+<li><a href="https://www.reuters.com/markets/currencies/cryptoverse-us-election-punters-play-prediction-markets-2024-11-04/" target="_blank" rel="noreferrer noopener">&#8220;Cryptoverse: U.S. election speculators play the prediction markets&#8221;</a> from Reuters</li>
+<li><a href="https://www.politico.com/news/2024/05/10/cftc-election-betting-ban-00157304" target="_blank" rel="noreferrer noopener">&#8220;Wall Street regulator moves to ban election betting, escalating fight over new market&#8221;</a> from Politico</li>
+<li><a href="https://www.cato.org/commentary/case-legalizing-political-betting" target="_blank" rel="noreferrer noopener">&#8220;The Case for Legalizing Political Betting&#8221;</a> from the Cato Institute</li>
+<li><a href="https://www.businessinsider.com/i-voted-stickers-history-election-day-2024-11" target="_blank" rel="noreferrer noopener">&#8220;How &#8216;I Voted&#8217; Stickers Became an Election Day Staple&#8221;</a> from Business Insider</li>
+</ul>
+<p>We want to hear your answer to the Make Me Smart question. Leave us a voicemail at 508-U-B-SMART or email us at makemesmart@marketplace.org.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/11/05/mms_20241105_MMS_110524_128.mp3?awEpisodeId=https://www.marketplace.org/shows/make-me-smart/the-rise-of-election-betting&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/11/05/mms_20241105_MMS_110524_128.mp3?awEpisodeId=https://www.marketplace.org/shows/make-me-smart/the-rise-of-election-betting&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/the-rise-of-election-betting>
+
+---
+
+## VOA talks with US presidential 3rd party candidates
+
+date: 2024-11-06, from: VOA News USA
+
+Vice President Kamala Harris and former President Donald Trump have spent the past few months battling for the White House, and experts say that votes for third party candidates could be a deciding factor for who will become the next president of the United States.  
+
+
+With the latest polls showing Harris and Trump in a dead heat in battleground states around the country, ballots cast for third-party candidates Jill Stein of the Green Party, independent Cornel West and Libertarian Chase Oliver could be enough to tip the scales.  
+
+
+VOA Persian spoke with all three of them. Their responses have been edited for length and clarity.  
+
+
+Green Party candidate Jill Stein 
+
+
+VOA: During one of his final campaign rallies in Pittsburgh, Pennsylvania, former President Donald Trump praised you, saying he loved the Green Party and that you might be one of his favorite politicians. What do you make of this?  
+
+
+Jill Stein: I make of that about as much as I make of Donald Trump's assessment of climate change, which is that he sort of believes the opposite of reality. I am in this race to provide an alternative to the two parties that are bought and paid for, that are serving Wall Street and the war contractors and definitely not the American people. So I don't have a lot of high regard for Donald Trump's political strategies or his values.  
+
+
+VOA: How much support do you expect to receive in battleground states like Michigan? There were some polls that suggested you have support of over 40% of the Arab American population there.  
+
+
+Stein: Exactly what the numbers will turn out to be, it depends how many people are turning out to vote. It depends how strong the vote of the, not only the Muslim population, but also many African Americans and Hispanics and young people who feel like they do not have a future under Kamala Harris, and they do not have a future under Donald Trump. At this point, it's too soon to say. We ourselves do not strictly work based on polls. We're really in this based on principle and for the long haul. We would be delighted if we make the 5% cut in the national poll in the national results, but it's very hard to say at this point.  
+
+
+VOA: What would be your position regarding the government of Iran?  
+
+
+Stein: I think we need to open the door to negotiations with Iran. Iran has elected a new president who is said to be moderate and interested in improving relations with the West, and we need to explore that. I think the most critical thing in the Middle East right now is resolving this expanding war and the intention of Bibi [Prime Minister Benjamin] Netanyahu to create a wider war and drag the U.S. into it. I think that is the greatest threat to peace in the Middle East right now and has the potential to grow into a conflict that's even bigger than the Middle East. 
+
+
+Independent candidate Cornel West 
+
+
+VOA: How many states allowed you to have your name on the ballot and why did others not?    
+
+
+Cornel West: We've got 16 states where we have direct ballot access. We have 24 states where we have write-in access, and that did require petitions and signatures. So that required a lot of work on behalf of magnificent volunteers. But it was very difficult. There's been a tremendous struggle, but we come up swinging.  
+
+
+
+
+VOA: How different will your policy be compared to what we hear from Vice President Kamala Harris and former President Donald Trump?  
+
+
+West: Martin Luther King [Jr.] said, militarism, racism, poverty and materialism are the four forces that are sucking the democratic energy out of the American social experiment. I take very seriously his critique of militarism. I see that as a criticism of American foreign policies in which we are so eager to create these lethal armed forces rather than engage in wise diplomatic processes. And so there would be no genocide. I would have had an embargo on any kind of military or financial support of Israel as it was very clear that they were laying bare this kind of massive massacre on innocent people, especially innocent children and women and men.  
+
+
+The same would be true in terms of being able to bring an end to the war in Ukraine. Same would be true in terms of trying to be more diplomatic with China. I see Kamala Harris as a militarist, Black woman. That is to say she's willing to not just provoke, but to push [Russian President Vladimir] Putin. And I think Putin himself is still very much a gangster and a war criminal in his own way, but he has a right — Russia has a right to security. And the same is true with China. There's too much provocation, and I think that moves us toward World War III in the same way that Trump moves us towards Civil War II at home. And that was one reason why I wanted to provide some kind of alternative to Trump and [U.S. President Joe] Biden.
+
+
+And then when Biden had his LBJ moment [referring to Biden's poor debate performance] something that we talked about many, many months ago, we just predicted that Harris now is following through on the same militarism in Gaza. And of course, genocide, the crime of genocide, is a litmus test of morality of any nation, any country, and if you deny it, if you enable it, it's a sign that you don't have a moral fiber in your military policy.  
+
+
+VOA: Many people in the occupied West Bank are disturbed by Tehran's support for militants in Gaza. How do you see this considering the moral aspects of your vision, your doctrine and your policy?    
+
+
+West: Malcolm X used to say, I'm for truth, no matter who's for it, and justice, no matter who supports it. People can actually support just movements for motivations that themselves are highly suspicious. When the French supported the American revolutionaries, when Lafayette came to the United States, it was partly because the French were over against the British in Europe, they didn't have a whole lot of solidarity with these colonists responding against the British Empire. ... The Soviet Union supported the freedom struggles in Africa. It wasn't always because they just love Africans so much. It was anti-United States. They had a Cold War going on, and their policies were strategic and tactical in that way. The same would be true for Iran vis-a-vis Palestinians.
+
+
+So I think we have to be very truthful about the ways in which the motives might not always be attractive, but when you're a people like Palestinians this moment, whose backs are against the wall, they need help from anybody, and it's very important that people highlight their plight so that their babies are not crushed. But that doesn't mean that those who are supporting them always have the right motives, and therefore we can still be critical of what those motives are.  
+
+
+Libertarian Party candidate Chase Oliver 
+
+
+VOA: In your platform, you mentioned that Libertarians seek the United States at peace with the world. How different will your foreign policy be?
+
+
+Chase Oliver: It would be a drastic difference than what the status quo has been, certainly since I've been an adult. Since I've been an adult, let's just call it the post-9/11 War on Terror kind of foreign policy mindset that we've had, which I think is rooted in ideas that are very black and white. You're either with us or you're with the terrorists.
+
+
+
+
+The best way to solve a problem is through a preemptive war or through increasing our military presence in the region, to flex our muscle. And what I think that has done is actually created further instability, particularly in the Middle East, which I don't think has been a success despite the trillions of dollars we've spent in both Iraq and Afghanistan. I don't think you can say either of those nations are particularly bastions of democracy, or that the region itself is now more stable than it was.
+
+
+And so for me, I would say let's remove our military footprint and start flexing our diplomatic muscle. Let's start meeting with world leaders directly, one on one. Let's start forming coalitions around peaceful ideas and free trade and voluntary exchange to tear down barriers between our nations so that we can have cultural exchanges with one another. I think these are the ideas that we really need to be pushing, and not a militarized foreign policy that's ruined the idea that the United States must be the world's enforcer.   
+
+
+VOA: So you don't see America as the leader of the free world with its responsibilities?    
+
+
+Oliver: I absolutely see America as a leader in terms of the markets of the world, the economic engine of the world, the diplomatic arm of the world. But it doesn't need to be coming, using the military might of the world. Teddy Roosevelt said, "Speak softly and carry a big stick." We have a very powerful military that can defend ourselves, and ultimately, if there were a need and if Congress declared a war, fight a war anywhere in the world with absolute certainty that we could dominate our opponent. But you don't flex your muscle like that around the world. That's not a position of strength. When you use that military might to push your agenda, that's actually a position of weakness, because good ideas should not require force, and you should be able to diplomatically work throughout the world.
+
+
+And I recognize the world is not perfect. The world does not lack violence. The world is not lacking for bad people, particularly governments around the world who represent good people. And Iran is no different. The government of Iran is abhorrent. They're abusive to their people. They curtail their rights. But the people of Iran are good, innocent people who don't deserve to have things like airstrikes and missiles raining down upon them because of the evils of their government. And I hope that ultimately, we can liberalize the world more towards more liberalized things like free speech, freedom of movement and freedom of religion. But that's not going to come just from us beating people down. 
+
+
+VOA: How difficult is it to run as a third-party candidate?    
+
+
+Oliver: Running as an alternative party candidate has a lot of challenges because the two mainstream parties have a lot of built-in incumbency power, both in the number of elected officials they have as well as things like taxpayer-funded primaries. So they basically take taxes out of my wallet to fund primaries that help promote the candidates that are Republicans and Democrats.
+
+
+And as a Libertarian, we're kind of left in the lurch there. So there's a lot of challenges, especially around things like ballot access. There's a lot of solutions. And actually a big part of my platform is a thing called the voter bill of rights that will open up this process, not just for Libertarians like myself, but all sorts of other alternative parties that really need to have their voices heard. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-talks-with-us-presidential-3rd-party-candidates-/7852852.html>
+
+---
+
+## Who insures the insurers?
+
+date: 2024-11-05, from: Market Place
+
+<p>Back-to-back Hurricanes Helene and Milton caused billions in damage. How are insurers going to pay for it all? Turns out, insurance companies have their own insurance. But as disasters get more severe and more frequent, &#8220;reinsurance&#8221; isn&#8217;t covering what it used to. Also in this episode: Boeing has major catch-up to do, an abandoned oil field could become a lithium extraction hotspot, and small businesses seem hesitant to cut health benefits.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/11/05/pm_20241105_PM_Podcast_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace/who-insures-the-insurers&awCollectionId=mkp-MKP-PM"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/11/05/pm_20241105_PM_Podcast_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace/who-insures-the-insurers&awCollectionId=mkp-MKP-PM" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace/who-insures-the-insurers>
 
 ---
 
@@ -143,12 +835,323 @@ Without the ability to choose which company to work with, "families have fewer w
 
 ---
 
-## The Most Important Climate Elections of 2024: The Results
+## The Most Important Climate Elections of 2024: The Morning After
 
 date: 2024-11-05, from: Heatmap News
 
 
-<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDE0NjAyNi9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc1NzE4NTM5OX0.qpPex06rIQc1lzomMhi343gyAv1b-vsgSFaAIUSExm4/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">Yes, the race for the White House is extremely important for the future of climate policy in the U.S. and, frankly, around the world. But it’s not the only race that matters.</p><p>Starting at 6 p.m. ET on Election Night, Heatmap will be tracking 36 of the most important climate elections in the country — from seats in the House and Senate down to local ballot measures and attorneys general. Though this is far from an exhaustive list of races that will touch the climate this year, we hope it’ll help you piece together how and where the renewables transition, energy prices, and environmental issues are resonating with voters around the country. </p><p>A few notes on how this list is organized:</p><ul><li>We’ve listed races by state according to when polls close, and within each state, from the highest-level offices to the lowest, including local referenda.</li><li>All incumbents are identified with an *. </li><li>Race status comes from <a href="https://www.cookpolitical.com/" rel="noopener noreferrer" target="_blank"><u>The Cook Political Report</u></a>, unless a source is otherwise linked. </li><li>We’ll be updating this list throughout the night and days ahead as ballots are counted, using data from state Boards of Elections and national trackers like <em><em>The Associated Press</em></em> and <em><em>The New York Times </em></em>to verify the winner in each race.</li></ul><h3>Polls close at 7 p.m. ET</h3><h2 class="rm-anchors" id="virginia">Virginia</h2><p><em><strong><em>Virginia’s 2nd</em></strong></em> <em><strong><em>Congressional District</em></strong></em></p><p><em><em>Republican Rep. Jen Kiggans* vs. Democrat Missy Cotter Smasal </em></em></p><p><em><em>Status: Leans Republican</em></em></p><p>Democrats are looking for a pick-up opportunity in Virginia’s 2nd Congressional District, which comprises all of Northampton County, Hampton Roads, and Virginia Beach and includes <a href="https://www.washingtonpost.com/dc-md-va/2024/10/30/virginia-kiggans-smasal-election-trump/" rel="noopener noreferrer" target="_blank"><u>a diverse electorate</u></a> of young voters, a robust LGBTQ community, and many military families. The district is represented by Kiggans, the vice chair of the Conservative Climate Caucus and <a href="https://x.com/JenKiggans/status/1806872276207358007" rel="noopener noreferrer" target="_blank"><u>a Trump ally</u></a>, who backed the Default on America Act to repeal clean energy tax credits and has <a href="https://www.eenews.net/articles/republicans-struggle-with-messaging-on-biden-climate-law/" rel="noopener noreferrer" target="_blank"><u>flip-flopped on her support</u></a> of offshore wind. (Kiggans says she <a href="https://rollcall.com/2024/10/28/vulnerable-candidates-get-creative-as-they-vie-for-climate-votes/#:~:text=pointed%20to%20her%20support%20for%20offshore%20wind" rel="noopener noreferrer" target="_blank"><u>supports it</u></a>, despite voting to slash IRA incentives for the project.) Her opponent, Cotter Smasal, has called climate change a crisis in need of “urgent action” and bipartisan solutions.</p><h3>Polls close at 7:30 p.m. ET</h3><h2 class="rm-anchors" id="north-carolina">North Carolina</h2><p><em><strong><em>Governor</em></strong></em></p><p><em><em>Republican Mark Robinson vs. Democrat Attorney General Josh Stein </em></em></p><p><em><em>Status: </em></em><a href="https://www.starnewsonline.com/story/news/politics/elections/2024/10/30/what-do-the-polls-say-about-the-north-carolina-governors-race/75914876007/" rel="noopener noreferrer" target="_blank"><u><em><em>Likely Democrat</em></em></u></a></p><p>North Carolina suffered one of the costliest storms in U.S. history earlier this year due to the flooding from Hurricane Helene, which has drawn attention to the divide between the two candidates running for the state’s highest office. Republican Mark Robinson has called climate change “junk science” and said he’d <a href="https://www.witn.com/2022/08/23/memoir-lt-gov-mark-robinson-calls-taking-science-history-out-elementary-schools/" rel="noopener noreferrer" target="_blank"><u>attempt to block</u></a> history and science from being taught in the first through fifth grades. He’s said not pursuing the development of fossil fuels is <a href="https://www.youtube.com/watch?v=tH_PnvvNYoU&t=3208s&ab_channel=Winkler%27sGroveBaptistChurch" rel="noopener noreferrer" target="_blank"><u>an affront to God</u></a>, and that he’d <a href="https://www.youtube.com/watch?v=LV9lwnBAorA&ab_channel=HarnettGOP" rel="noopener noreferrer" target="_blank"><u>attempt</u></a> to keep the “climate change cabal” in “chains.” <a href="https://climatepower.us/research-polling/north-carolina-governor-race-backgrounder/" rel="noopener noreferrer" target="_blank"><u>By contrast</u></a>, North Carolina Attorney General Stein has proposed a path to reach carbon neutrality in the state by 2050 and has a history of taking on polluters and Big Oil price gougers in his state.</p><p><em><strong><em>Commissioner of Insurance</em></strong></em></p><p><em><em>Republican Mike Causey* vs. Democrat Natasha Marcus </em></em></p><p><em><em>Status: Toss-up</em></em></p><p>Insurance commissioner isn’t the sexiest race, even on the down-ballot. But Nationwide’s decision not to renew thousands of homeowner policies in eastern North Carolina in 2023 due to climate change, followed by the devastating flooding from Hurricane Helene, shows how high-value the elections can be. Climate Cabinet <a href="https://climatecabinet.org/candidates/natasha-marcus" rel="noopener noreferrer" target="_blank"><u>has backed</u></a> state Senator Marcus, a Democrat who is taking on incumbent Republican Commissioner Causey on the grounds that her opponent has approved too many rate increases and is too cozy with the companies he’s in charge of regulating. She has also pushed for greater investment in home hardening and <a href="https://www.nytimes.com/2024/10/09/us/insurance-commissioner-hurricane-north-carolina.html" rel="noopener noreferrer" target="_blank"><u>outraised Causey nearly twice-over</u></a>.</p><h2 class="rm-anchors" id="ohio">Ohio</h2><p><em><strong><em>U.S. Senate</em></strong></em></p><p><em><em>Democrat Rep. Sherrod Brown* vs. Republican Bernie Moreno</em></em></p><p><em><em>Status: Toss-up</em></em></p><p>Climate and energy have not played <a href="https://www.thetimes.com/world/us-world/article/ohio-senate-election-2024-democrat-republican-polls-dwxvzl720" rel="noopener noreferrer" target="_blank"><u>a significant role</u></a> in the race between three-term Senator Brown and his MAGA challenger Moreno. However Brown, who once voiced support for a Green New Deal, has <a href="https://www.eenews.net/articles/a-new-sherrod-brown-democrat-runs-from-climate-agenda/" rel="noopener noreferrer" target="_blank"><u>in recent months</u></a> broken with his Democratic colleagues on the IRA’s tax credit for EVs (which he says does not do enough to crack down on imported materials from China and Indonesia), backed overturning the Environmental Protection Agency’s new <a href="https://heatmap.news/climate/epa-power-plant-rules-gas" target="_self"><u>power plant regulations</u></a> and <a href="https://heatmap.news/electric-vehicles/epa-auto-emissions-rule" target="_self"><u>tailpipe rules</u></a> (which are “unrealistic” and a strain on the grid, he said), and joined Democratic Senator Joe Manchin in criticizing the Biden administration’s clean hydrogen tax credit. Moreno, meanwhile, <a href="https://www.theatlantic.com/ideas/archive/2022/02/bernie-moreno-republican-ohio-senate-race/621490/" rel="noopener noreferrer" target="_blank"><u>tried to out-MAGA JD Vance</u></a> in the 2022 Senate primary and <a href="https://www.lcvvictoryfund.org/candidate/bernardo-moreno/" rel="noopener noreferrer" target="_blank"><u>has stressed</u></a> that “we need natural gas, we need oil” rather than “this move toward windmills, solar panels.”</p><p><em><strong><em>Ohio’s 9th</em></strong></em> <em><strong><em>Congressional District</em></strong></em></p><p><em><em>Democrat Rep. Marcy Kaptur* vs. Republican state Rep. Derek Merrin</em></em></p><p><em><em>Status: Leans Democrat</em></em></p><p>The race in Ohio’s 9th Congressional District, which includes Toledo and the shores of Lake Erie, is about many things, but <a href="https://www.lcvvictoryfund.org/house/oh-09/" rel="noopener noreferrer" target="_blank"><u>it’s also about algae</u></a>. Kaptur sits on the House Appropriations Committee, where she has supported clean energy-related spending, and she’s also the ranking member of the Energy and Water Development appropriations subcommittee, where she fought for a $1.5 million federal project to combat warming-induced algal blooms in the Great Lakes. Her opponent, Merrin, voted against that bill as a state representative <a href="https://www.spglobal.com/commodityinsights/en/market-insights/latest-news/natural-gas/103024-us-elections-congress-states-to-define-post-election-energy-climate-paths" rel="noopener noreferrer" target="_blank"><u>and for</u></a> laws that would label methane as green energy. She claimed Kaptur and other Democrats’ clean energy pursuits threaten affordability and reliability.</p><h3>Polls close at 8 p.m. ET</h3><h2 class="rm-anchors" id="pennsylvania">Pennsylvania</h2><p><em><strong><em>U.S. Senate</em></strong></em></p><p><em><em>Democrat Sen. Bob Casey, Jr.* vs. Republican David McCormick</em></em></p><p><em><em>Status: Toss-up</em></em></p><p>Few Senate races this year have touched on climate and energy issues as much as the one in Pennsylvania, the country’s second-largest natural gas-producing state. McCormick has tried to paint Casey as an enemy of fracking by tying him to Kamala Harris’ <a href="https://heatmap.news/politics/trump-harris-energy-debate" target="_self"><u>prior opposition</u></a> to the industry. Casey, however, has <a href="https://insideclimatenews.org/news/04102024/fact-checking-pennsylvania-senate-debate-energy-claims/" rel="noopener noreferrer" target="_blank"><u>always supported</u></a> what he calls “<a href="https://insideclimatenews.org/news/01102024/debate-questions-for-pennsylvania-senate-candidates/" rel="noopener noreferrer" target="_blank"><u>responsible fracking</u></a>,” including the proposed hydrogen hubs in the state (one of which would use fracked gas). McCormick, whose wife sits on the board of Exxon, has said renewable energy is making the U.S. more reliant on materials from China and that we “need to get back to the energy policies under President Trump,” <a href="https://www.lcvvictoryfund.org/candidate/dave-mccormick/" rel="noopener noreferrer" target="_blank"><u>including by repealing</u></a> the Bipartisan Infrastructure Law and gutting the Inflation Reduction Act.</p><p><em><strong><em>Pennsylvania’s 7th</em></strong></em> <em><strong><em>Congressional District</em></strong></em></p><p><em><em>Democrat Rep. Susan Wild* vs. Republican state Rep. Ryan Mackenzie</em></em></p><p><em><em>Status: </em></em><a href="https://www.cookpolitical.com/ratings/house-race-ratings" rel="noopener noreferrer" target="_blank"><u><em><em>Toss-up</em></em></u></a></p><p>Pennsylvania’s 7th Congressional District, which includes Carbon, Lehigh, and Northampton Counties, is considered <a href="https://centerforpolitics.org/crystalball/districts-of-change-part-two-looking-beyond-the-straight-party-districts/" rel="noopener noreferrer" target="_blank"><u>a presidential bellwether</u></a>. It’s also the site of a tight race that could help shape the outcome of the House, with Wild defending her seat against Mackenzie, who has <a href="https://x.com/Ryan_Mackenzie/status/1721197353783169460" rel="noopener noreferrer" target="_blank"><u>slammed</u></a> her <a href="https://www.mackenzieforcongress.com/record" rel="noopener noreferrer" target="_blank"><u>repeatedly</u></a> for voting for the “failed” IRA. As a state representative, Mackenzie has <a href="https://www.lcvvictoryfund.org/house/pa-07/" rel="noopener noreferrer" target="_blank"><u>also</u></a> voted against environmental and clean energy measures, including rooftop solar panels for schools.</p><p><em><strong><em>Attorney General</em></strong></em></p><p><em><em>Democrat Eugene DePasquale vs. Republican Dave Sunday</em></em></p><p><em><em>Status: </em></em><a href="https://www.eenews.net/articles/10-state-ag-races-to-watch-on-climate-and-energy/" rel="noopener noreferrer" target="_blank"><u><em><em>Competitive</em></em></u></a></p><p>The Attorney General of Pennsylvania will have an opportunity to pursue climate liability litigation during their term, with Bucks County suing the fossil fuel industry for misleading the public about the dangers of burning oil and gas,<em> </em><a href="https://www.eenews.net/articles/10-state-ag-races-to-watch-on-climate-and-energy/" rel="noopener noreferrer" target="_blank"><u><em><em>E&E News</em></em></u><u> reports</u></a>. DePasquale has said he considers environmental justice a top priority and has proven willing to scrutinize the local shale industry as an auditor. Sunday, his opponent, has not spoken about climate-related issues and didn’t respond to a request for comment on the matter <a href="https://thephiladelphiacitizen.org/where-do-pas-candidates-stand-on-climate-change/" rel="noopener noreferrer" target="_blank"><u>from </u><u><em><em>The Philadelphia Citizen</em></em></u></a>.</p><h2 class="rm-anchors" id="south-dakota">South Dakota</h2><p><em><strong><em>Referred Law 21</em></strong></em></p><p><em><em>Opportunity: </em></em><em><em>To take a stance on carbon pipelines</em></em></p><p><em><em>Status: </em></em><a href="https://www.keloland.com/keloland-com-original/keloland-the-hill-poll-5-statewide-ballot-questions-face-uphill-battle/" rel="noopener noreferrer" target="_blank"><u><em><em>Competitive</em></em></u></a></p><p>Last year, the South Dakota Legislature and Governor Kristi Norm passed a law touted as a “<a href="https://www.keloland.com/keloland-com-original/referred-law-21-voters-to-weigh-in-co2-pipeline-debate/" rel="noopener noreferrer" target="_blank"><u>landowner bill of rights</u></a>,” which imposed a number of regulations on potential CO2 pipelines, including a modest $1-per-foot surcharge and requirements about minimum depth. Opponents <a href="https://www.npr.org/2024/10/26/nx-s1-5163262/south-dakotas-vote-on-regulating-pipelines-could-set-a-precedent-for-other-states" rel="noopener noreferrer" target="_blank"><u>wary of the carbon capture technology</u></a> quickly gathered enough signatures to force a November ballot measure on the law. According to these critics, Referred Law 21 is a <a href="https://southdakotasearchlight.com/ballot-measures/referred-law-21-pipeline-regulations/" rel="noopener noreferrer" target="_blank"><u>giveaway</u></a> to pipeline companies since it gives the state’s Public Utilities Commissioners the ability to override local ordinances and zoning laws meant to block the pipeline. If Referred Law 21 is rejected, it will have major implications for the $8 billion Summit Carbon Solutions Pipeline, which would collect CO2 from regional ethanol plants and deliver it to an injection well in North Dakota as a means of dealing with planet-warming emissions. The uncertainty around whether or not Referred Law 21 will pass is part of why the project is <a href="https://heatmap.news/risk-index" target="_self"><u>one of Heatmap’s most at-risk energy transition proposals</u></a>. </p><h3>Polls close at 9 p.m. ET</h3><h2 class="rm-anchors" id="arizona">Arizona</h2><p><em><strong><em>U.S. Senate</em></strong></em></p><p><em><em>Democrat Rep. Ruben Gallego vs. Republican Kari Lake</em></em></p><p><em><em>Status: Leans Democrat</em></em></p><p>Democrats will need a win in the Grand Canyon State if they have any chance of holding the Senate. While <a href="https://heatmap.news/politics/arizona-climate-elections" target="_self"><u>the pitch</u></a> to undecided voters in Arizona has centered on reproductive and LGBTQ rights, Gallego helped to pass the Inflation Reduction Act in the House and has posited himself as a defender of <a href="https://gallegoforarizona.com/issue/environment-climate-change/" rel="noopener noreferrer" target="_blank"><u>Arizona’s public lands</u></a>, water, and energy transition. Lake, a close ally of Trump’s, has boosted falsehoods about wind turbines killing an outsized number of birds and whales, and blamed the state’s heat deaths <a href="https://azmirror.com/briefs/fact-check-kari-lakes-fentanyl-death-claims-are-false/" rel="noopener noreferrer" target="_blank"><u>on drug overdoses</u></a>. She has called climate change “fake science” and told voters that she’s “<a href="https://cronkitenews.azpbs.org/2024/07/15/arizona-republicans-skeptical-climate-change-despite-evidence/" rel="noopener noreferrer" target="_blank"><u>not going to be afraid of the weather</u></a>.”</p><p><em><strong><em>Arizona’s 1st Congressional District</em></strong></em></p><p><em><em>Republican Rep. David Schweikert* vs. Democrat Amish Shah </em></em></p><p><em><em>Status: Toss-up</em></em></p><p>Arizona’s 1st congressional district, covering northeastern Phoenix and Scottsdale, was considered “<a href="https://www.axios.com/local/phoenix/2024/10/21/shah-schweikert-house-arizona-first-district" rel="noopener noreferrer" target="_blank"><u>reliably Republican</u></a>” for Schweikert’s first seven terms, but he’s facing a formidable challenge from Shah, a former ER doctor, in the recently redrawn district. Schweikert has taken <a href="https://heatmap.news/politics/rnc-energy-all-of-the-above" target="_self"><u>a more moderate position</u></a> on the energy transition than other Republicans in the state, <a href="https://schweikert.house.gov/issues/energy-environment/" rel="noopener noreferrer" target="_blank"><u>arguing</u></a> that “the government must stop picking winners and losers in the industry” but “we also should continue to expand into renewable energy resources such as wind, solar, hydrogen, nuclear, and geothermal.” Shah, who green groups like the Sierra Club endorse, has pushed for a “<a href="https://x.com/DrAmishShah/status/1839009557416218758" rel="noopener noreferrer" target="_blank"><u>healthier Arizona</u></a>” by standing up to polluters and protecting Arizona’s public lands. This race is one of several that could decide control of the U.S. House.</p><p><em><strong><em>Arizona’s 6th Congressional District</em></strong></em></p><p><em><em>Republican Rep. Juan Ciscomani* vs. Democrat Kirsten Engel </em></em></p><p><em><em>Status: Toss-up</em></em></p><p>Another close race that could decide control of the House is in the Tucson suburbs. Ciscomani is a Trump-endorsed moderate who voted against the IRA but has been friendlier on issues like residential solar projects. Engel’s team has positioned itself as <a href="https://heatmap.news/politics/arizona-climate-elections#:~:text=a%20groundwater%20scandal" target="_self"><u>better on water issues</u></a> than Ciscomani and willing to stand up to foreign mining companies interested in <a href="https://heatmap.news/economy/resolution-copper-mine" target="_self"><u>the state’s copper resources</u></a>. </p><p><em><strong><em>The Arizona Corporation Commission</em></strong></em></p><p><em><em>Opportunity: Flip three seats from Republicans</em></em></p><p><em><em>Status: Competitive</em></em></p><p>The commission regulates utilities in the state, and in recent years it has actively dismantled clean energy policy and standards with particular aggression toward community solar. <a href="https://heatmap.news/politics/public-utilities-arizona-montana-louisiana" target="_self"><u>Arizona voters have an opportunity</u></a> to elect representatives who will vote on rules for virtual power plants and can block the repeal of the state’s renewable energy and efficiency standards. There are three Democrats, two Green Party candidates, and three Republicans running for three of the commission’s five total seats.</p><h2 class="rm-anchors" id="colorado">Colorado</h2><p><em><strong><em>Colorado’s 8th Congressional District</em></strong></em></p><p><em><em>Democratic Rep. Yadira Caraveo* vs. Republican Gabe Evans</em></em></p><p><em><em>Status: Toss-up</em></em></p><p>Though the race in Colorado’s 8th congressional district has focused on the fentanyl and border crises, it encompasses the northern suburbs of Denver, including parts of the oil-and-gas-rich Front Range, where the fossil fuel industry has <a href="https://www.ksut.org/government-politics/2024-05-06/colorados-front-range-gets-abysmal-air-quality-rating-as-lawmakers-strike-a-deal-with-the-oil-and-gas-industry" rel="noopener noreferrer" target="_blank"><u>degraded local air quality</u></a> for decades. Caraveo’s challenger Evans has dismissed “climate alarmism” and has <a href="http://scorecard.conservationco.org/2024/house/evans/" rel="noopener noreferrer" target="_blank"><u>a 0% score</u></a> from Conservation Colorado for his “no” votes on everything from regulating toxic “forever chemicals” to transportation infrastructure development to holding gas companies accountable for their environmental impacts. Caraveo, a former pediatrician, has cited air pollution's impact on her patients as <a href="https://coloradosun.com/2024/10/26/climate-change-colorado-2024-election-voter-voices/" rel="noopener noreferrer" target="_blank"><u>one of her motivations for running for office</u></a>.</p><h2 class="rm-anchors" id="iowa">Iowa</h2><p><em><strong><em>Iowa’s 1st Congressional District</em></strong></em></p><p><em><em>Republican Rep. Mariannette Miller-Meeks* vs. Democrat Christina Bohannan</em></em></p><p><em><em>Status: Toss-up</em></em></p><p>Miller-Meeks, who represents the southeasternmost part of the state, also chairs the Conservative Climate Caucus and is a more moderate “<a href="https://heatmap.news/politics/rnc-energy-all-of-the-above" target="_self"><u>all of the above</u></a>” energy supporter. Democrats, however, see the race as an opportunity to flip a seat in the House via Bohannan and have out-raised the Republican renewable energy advocate by a 2-to-1 margin, <a href="https://www.eenews.net/articles/conservative-climate-caucus-chair-in-danger-of-losing-race/" rel="noopener noreferrer" target="_blank"><u><em><em>E&E News</em></em></u><u> reports</u></a>. Bohannan has attacked Miller-Meeks for slow-walking action on addressing climate change through her soft hand with the oil and gas industry.</p><p><em><strong><em>Iowa’s 3rd Congressional District</em></strong></em></p><p><em><em>Republican Rep. Zach Nunn* vs. Democrat Lanon Baccam</em></em></p><p><em><em>Status: Toss-up</em></em></p><p>The other potential pick-up opportunity for Democrats in Iowa comes in its swingy 3rd congressional district, which includes parts of Des Moines and the Missouri border. Nunn has made <a href="https://www.iowapublicradio.org/political-news/2022-08-14/zach-nunn-calls-for-more-federal-tax-cuts-for-middle-class-iowans" rel="noopener noreferrer" target="_blank"><u>tax cuts</u></a> a central component of his re-election bid. However, he’s also voted to repeal tax credits for clean energy <a href="https://www.lcvvictoryfund.org/house/ia-03/" rel="noopener noreferrer" target="_blank"><u>three times</u></a> and bashed the IRA as “telling Iowans you should spend less, you should tighten your belt, but we're gonna go ahead and print off more money and spend more your tax dollars on projects.” </p><h2 class="rm-anchors" id="louisiana">Louisiana</h2><p><em><strong><em>The Outer Continental Shelf Revenues for Coastal Protection and Restoration Fund Amendment </em></strong></em></p><p><em><em>Opportunity: Requiring that federal reserves received by the state for alternative and renewable energy production off its coast go toward protecting the state’s oceanfronts</em></em></p><p><em><em>Status: Unknown</em></em></p><p>Louisiana voters will decide whether or not to require that federal reserve revenue raised from renewable energy production in federal waters off its coast go into a fund that supports <a href="https://www.axios.com/local/new-orleans/2024/10/15/louisiana-election-constitutional-amendment-explainer" rel="noopener noreferrer" target="_blank"><u>coastal restoration projects</u></a>, including the construction of levees and protection of barrier islands. (Federal revenues received by oil and gas in the state already support this fund.) The Coastal Protection and Restoration Fund has been around since Hurricane Katrina and Rita in 2005, but most of its money came from damages paid after the Deepwater Horizon oil spill, and those funds will be exhausted <a href="https://parlouisiana.org/wp-content/uploads/2024/10/PAR-Guide-to-the-2024-Constitutional-Amendments.pdf" rel="noopener noreferrer" target="_blank"><u>by the end of 2031</u></a>. Proponents say the amendment is necessary to protect Louisiana’s coasts from worsening storms and rising sea levels; opponents say it’s more important to keep the funds flexible for any legislative priorities that may arise.</p><h2 class="rm-anchors" id="michigan">Michigan</h2><p><em><strong><em>U.S. Senate</em></strong></em></p><p><em><em>Democrat Rep. Elissa Slotkin* vs. Republican Mike Rogers </em></em></p><p><em><em>Status: Toss-up</em></em></p><p>Democrats must hold onto their Senate seat in Michigan if they want to control the chamber. But the Wolverine State’s Senate election has also become a <a href="https://www.eenews.net/articles/3-ways-the-ev-is-dominating-michigans-elections/" rel="noopener noreferrer" target="_blank"><u>referendum</u></a> on the state’s electric vehicle manufacturing industry, where Rogers has alleged Slotskin and other Democrats support a (<a href="https://heatmap.news/politics/trump-electric-vehicles-fact-check#:~:text=20%2C%202023%5D-,Fact%20check%3A,-It%E2%80%99s%20not%20wrong" target="_self"><u>nonexistent</u></a>) “EV mandate” that destroys jobs (<a href="https://heatmap.news/electric-vehicles/evs-trump-uaw-jobs-evidence" target="_self"><u>it doesn’t</u></a>). However, the arguments have put Slotkin on her back foot: She’s run ads telling voters <a href="https://www.eenews.net/articles/3-ways-the-ev-is-dominating-michigans-elections/" rel="noopener noreferrer" target="_blank"><u>she doesn’t own an electric car</u></a>.</p><p><em><strong><em>Michigan’s 8th Congressional District</em></strong></em></p><p><em><em>Republican Paul Junge vs. Democrat state Sen.</em></em><em> </em><em><em>Kristen McDonald Rivet </em></em></p><p><em><em>Status:</em></em> <em><em>Toss-up</em></em></p><p>Green groups like the LCV Victory Fund and Climate Power have poured money and volunteer hours into picking up Michigan’s 8th Congressional District for the House Democrats. McDonald Rivet has <a href="https://climatepower.us/research-polling/mi-08-race-backgrounder/" rel="noopener noreferrer" target="_blank"><u>an impressive climate record</u></a>, which includes helping to pass Governor Gretchen Whitmer’s 100% renewable energy bill while serving as a state senator. She has also fought for flood reduction infrastructure and lead pipe replacement funding in a district that includes Flint. Meanwhile, Junge has dismissed solar and wind energy as <a href="https://heatmap.news/politics/trump-wind-solar-fact-check" target="_self"><u>not being “dependable,”</u></a> talking up “clean coal” and expanding oil and gas leasing on public lands, <a href="https://www.detroitnews.com/story/news/politics/michigan/2022/10/18/dan-kildee-paul-junge-tight-race-flint-tri-cities-congress/69561432007/" rel="noopener noreferrer" target="_blank"><u>resuming construction</u></a> on the Keystone Pipeline, and maintaining the <a href="https://www.sierraclub.org/wisconsin/line-5" rel="noopener noreferrer" target="_blank"><u>controversial Line 5</u></a> crude oil pipeline.</p><h2 class="rm-anchors" id="nebraska">Nebraska</h2><p><em><strong><em>Nebraska’s 2nd Congressional District</em></strong></em></p><p><em><em>Republican Rep. Don Bacon* vs. Democrat state Sen. Tony Vargas</em></em></p><p><em><em>Status: Toss-up</em></em></p><p>State Senator Tony Vargas is challenging the incumbent legislator in a district that includes Nebraska’s “blue dot” of Omaha. Though the race has <a href="https://www.nytimes.com/2024/10/20/us/politics/nebraska-walz-tony-vargas.html" rel="noopener noreferrer" target="_blank"><u>centered mainly</u></a> on issues like abortion, tax cuts, and immigration, Vargas is a former Earth sciences teacher who <a href="https://www.lcv.org/media-center/tony-vargas-earns-lcv-action-fund-endorsement-for-nebraskas-2nd-congressional-district/" rel="noopener noreferrer" target="_blank"><u>openly talks about</u></a> combatting climate change and investing in clean energy (he even cosponsored a bill arguing the state Legislature has a “moral obligation” to do something about the issue). While in office, Bacon voted to repeal tax credits for wind and solar energy, and he’s chalked up extreme weather as having “<a href="https://heatmap.news/culture/old-farmers-almanac-climate-change" target="_self"><u>cyclical impacts</u></a>.”</p><h2 class="rm-anchors" id="new-mexico">New Mexico</h2><p><em><strong><em>New Mexico’s 2nd Congressional District</em></strong></em></p><p><em><em>Democrat Rep. Gabe Vasquez* vs. Republican Yvette Herrell</em></em></p><p><em><em>Status: Toss-up</em></em></p><p>Serving the southern half of New Mexico (including parts of western Albuquerque), the state’s super swingy 2nd congressional district will see Vasquez attempting to fend off Herrell, whose seat he flipped two years ago. The district includes a large swath of the oil-rich Permian Basin, and Vasquez has <a href="https://www.politico.com/news/2024/10/30/new-mexico-clean-energy-fossil-fuel-second-district-00185865" rel="noopener noreferrer" target="_blank"><u>walked the line</u></a> between promoting wind and solar manufacturing as part of the IRA while also “looking out for those fossil fuel communities.” Herrell has said that renewable subsidies create “unfair” competition for oil and gas businesses, and she has <a href="https://www.lcvvictoryfund.org/candidate/yvette-herrell/" rel="noopener noreferrer" target="_blank"><u>a 0% lifetime score</u></a> from LCV for such positions as voting in favor of rolling back access to public land.</p><h2 class="rm-anchors" id="new-york">New York</h2><p><em><strong><em>New York’s 4th Congressional District</em></strong></em></p><p><em><em>Republican Rep. Anthony D’Esposito* vs. Democrat Laura Gillen</em></em></p><p><em><em>Status: Toss-up</em></em></p><p>New York’s 4th Congressional District, representing the southern part of Nassau County, is the second-wealthiest in the state and pulled for Joe Biden by more than 14 points in 2020. But it’s currently being represented by <a href="https://punchbowl.news/article/election-2024/ny-gop-embraces-trump-msg-rally-stirs-outage/" rel="noopener noreferrer" target="_blank"><u>Trump ally</u></a> Anthony D’Esposito, who’s opposed local offshore wind projects as being “<a href="https://desposito.house.gov/media/press-releases/rep-despositos-statement-equinors-proposed-offshore-wind-project-3-18-23" rel="noopener noreferrer" target="_blank"><u>landscape-altering</u></a>” while at the same time <a href="https://thehill.com/policy/energy-environment/3925794-house-passes-gop-led-energy-package-touted-as-partys-top-priority/" rel="noopener noreferrer" target="_blank"><u>helping to expand</u></a> offshore drilling. Gillen previously lost to D’Esposito in 2022, but this time, she’s <a href="https://nylcv.org/candidate/laura-gillen/" rel="noopener noreferrer" target="_blank"><u>played up her experience</u></a> helping Hempstead recover from Hurricane Sandy and pushed for the protection of the district’s coastlines. </p><p><em><strong><em>New York’s 17th Congressional District</em></strong></em></p><p><em><em>Republican Rep. Mike Lawler* vs. Democrat Mondaire Jones</em></em></p><p><em><em>Status: Leans Republican</em></em></p><p>Located just north of the liberal bastion of New York City, New York’s 17th Congressional District was safely controlled by Democrats until 2020’s <a href="https://nymag.com/intelligencer/2022/05/new-york-democrats-gerrymandered-a-fiasco.html" rel="noopener noreferrer" target="_blank"><u>infamous redistricting</u></a>. Though the map was again redrawn for the 2024 election, NY-17 went virtually untouched in <a href="https://nymag.com/intelligencer/article/the-new-york-congressional-map-drama-just-wont-end.html" rel="noopener noreferrer" target="_blank"><u>a “win” for Lawler</u></a>. The race is still competitive — Jones represented a former iteration of the district — enough so that <a href="https://heatmap.news/sparks/trump-ev-pivot-elon-musk" target="_self"><u>Elon Musk’s PAC</u></a> has <a href="https://www.cityandstateny.com/politics/2024/09/elon-musk-spends-big-back-hudson-valley-republicans/399909/" rel="noopener noreferrer" target="_blank"><u>dumped money</u></a> into the race to <a href="https://heatmap.news/politics/elon-musk-trump" target="_self"><u>help Lawler win</u></a>. Besides being a critical race for House control, Lawler was also a co-sponsor of the Energy Choice Act, which <a href="https://www.foodandwateraction.org/democracy/mike-lawler-climate-environment/" rel="noopener noreferrer" target="_blank"><u>aimed to protect natural gas</u></a>. Jones supports <a href="https://heatmap.news/economy/kathy-hochul-nyc-congestion-pricing" target="_self"><u>congestion pricing</u></a> (except for Lower Hudson Valley residents, of course) and the build-out of renewables. The candidates <a href="https://www.cbsnews.com/newyork/news/mondaire-jones-mike-lawler-ny-district-17-debate/" rel="noopener noreferrer" target="_blank"><u>diverge</u></a> on their opinion of the closure of the Indian Point nuclear power plant, which Lawler called “foolish;” Jones, <a href="https://heatmap.news/politics/democrats-nuclear" target="_self"><u>somewhat out of step with his party</u></a>, opposes nuclear power.</p><h2 class="rm-anchors" id="wisconsin">Wisconsin</h2><p><em><strong><em>Wisconsin’s 3rd</em></strong></em> <em><strong><em>Congressional District</em></strong></em></p><p><em><em>Republican Rep. Derrick Van Orden* vs. Democrat Rebecca Cooke</em></em></p><p><em><em>Status: Leans Republican</em></em></p><p>The Republican incumbent in Wisconsin’s 3rd Congressional District — which covers the exurbs of the Twin Cities and much of the southwestern part of the state — has made gas and energy prices <a href="https://vanorden.house.gov/issues/energy" rel="noopener noreferrer" target="_blank"><u>a staple of his campaign</u></a>. In addition to promoting increased domestic energy production, Van Orden is a member of the Congressional Biofuels Caucus and has pushed for renewable ethanol and sustainable aviation fuel, while at the same time stressing that tax dollars should not go toward “subsidizing the purchase of electric vehicles.” He was also <a href="https://www.thedailybeast.com/gop-candidate-bankrolled-jan-6-riot-trip-with-campaign-cash/?via=twitter_page" rel="noopener noreferrer" target="_blank"><u>present</u></a> in Washington, D.C. on January 6, 2021 to attend the Stop the Steal rally that turned into an assault on the U.S. Capitol. His opponent, Cooke, <a href="https://cookeforwisconsin.com/en/priorities/" rel="noopener noreferrer" target="_blank"><u>has said</u></a> she’d prioritize investment in clean energy infrastructure and new high-speed rail in Wisconsin and addressing PFAS in water.</p><h3>Polls close at 10 p.m. ET</h3><h2 class="rm-anchors" id="montana">Montana</h2><p><em><strong><em>U.S. Senate</em></strong></em></p><p><em><em>Democrat Sen. Jon Tester* vs. Republican Tim Sheehy</em></em></p><p><em><em>Status: Leans Republican</em></em></p><p>Control of the Senate and the <a href="https://heatmap.news/politics/climate-policy-harris-walz" target="_self"><u>future president’s legislative agenda</u></a> will likely depend on whether or not Tester can hold onto his seat in Montana. But there are other stakes for the state, too: the LCV Victory Fund named Sheehy as one of its <a href="https://www.lcvvictoryfund.org/candidate/tim-sheehy/" rel="noopener noreferrer" target="_blank"><u>“dirty dozen” priority targets</u></a> due to his advocacy for privatizing public lands and calling climate change the belief of a leftist cult. Tester has been <a href="https://www.washingtonpost.com/politics/2022/03/24/senate-only-farmer-is-an-unlikely-champion-climate-action/" rel="noopener noreferrer" target="_blank"><u>described as a “hero” of green groups</u></a> due to his support of renewable tax credits and stated dreams of owning an electric tractor.</p><p><em><strong><em>Attorney General</em></strong></em></p><p><em><em>Republican Attorney General Austin Knudsen* vs. Democrat Ben Alke</em></em></p><p><em><em>Status: </em></em><a href="https://www.eenews.net/articles/10-state-ag-races-to-watch-on-climate-and-energy/" rel="noopener noreferrer" target="_blank"><u><em><em>Likely Republican</em></em></u></a></p><p>Republican Attorney General Knudsen leads <a href="https://heatmap.news/politics/held-v-montana-climate-kids" target="_self"><u>the state’s case against the 16 young plaintiffs in </u><u><em><em>Held v. Montana</em></em></u></a>, who are suing lawmakers for allegedly violating their right to a “clean and healthful environment” as enshrined in the state’s constitution. Alke, the Democratic challenger, has the <a href="https://mtvoters.org/endorsement-guide/" rel="noopener noreferrer" target="_blank"><u>support</u></a> of Montana Conservation Voters for his prior work in environmental law, including attempts to make public lands less accessible. While Knudsen still has the upper hand in the red state’s election, a state panel recently recommended that he be suspended from practicing law for 90 days due to ethics violations, <a href="https://www.eenews.net/articles/10-state-ag-races-to-watch-on-climate-and-energy/" rel="noopener noreferrer" target="_blank"><u><em><em>E&E News</em></em></u><u> reports</u></a>, potentially making this race more competitive than it’d otherwise be.</p><p><em><strong><em>The Montana Public Service Commission</em></strong></em></p><p><em><em>Opportunity: Electing Independent Elena Evans to the commission</em></em></p><p><em><em>Status: Competitive</em></em></p><p>There are three open seats on Montana’s PSC, but unlike in Arizona, most attention is on flipping incumbent Republican Jennifer Fielder’s seat for Elena Evans, a geologist and political Independent. The race focuses <a href="https://heatmap.news/politics/public-utilities-arizona-montana-louisiana" target="_self"><u>on energy affordability</u></a>, especially after the Republican commission okayed a 28% rate increase for Northwestern Energy, the biggest utility in the state, last year. Evans has said she’d look closer at building climate resiliency into the state’s grid; Fielder <a href="https://montanafreepress.org/2024/10/01/independent-candidate-challenges-incumbent-republican-for-montana-utility-board-seat/" rel="noopener noreferrer" target="_blank"><u>has said</u></a> it isn’t her place to weigh in on climate as a utility regulator.</p><h2 class="rm-anchors" id="nevada">Nevada</h2><p><em><strong><em>U.S. Senate</em></strong></em></p><p><em><em>Democrat Rep. Jacky Rosen vs. Republican Sam Brown</em></em></p><p><em><em>Status: Leans Democrat</em></em></p><p>Nevada’s junior senator, Jacky Rosen, is a clean energy enthusiast who helped pass the IRA and attempted to expand solar and geothermal energy within the Silver State. Brown has said he would not have supported the IRA and <a href="https://insideclimatenews.org/news/11092024/nevada-senate-race-clean-energy/" rel="noopener noreferrer" target="_blank"><u>stood disagrees within the way</u></a> of solar development in the state as a TK IN WHAT ROLE DID HE DO THIS?, while calling for expanding investment in fossil fuels. Brown also said he <a href="https://nevadacurrent.com/2024/05/17/brown-said-he-wants-to-ax-multiple-federal-departments-promised-spending-cuts-will-be-painful/" rel="noopener noreferrer" target="_blank"><u>wants to cut</u></a> the Department of Energy and any “environmental departments and agencies.”</p><h2 class="rm-anchors" id="oregon">Oregon</h2><p><em><strong><em>Portland City Council</em></strong></em></p><p><em><em>Opportunity: Portland voters are electing an entirely new city council and have the chance to choose representatives who will support the Portland Clean Energy Fund </em></em></p><p><em><em>Status: </em></em><a href="https://x.com/LeadLocally/status/1851312431894548609" rel="noopener noreferrer" target="_blank"><u><em><em>Likely wins for at least some green candidates</em></em></u></a></p><p>Portland has a new voting system for all new city council districts, meaning voters in Oregon’s biggest city will elect an entirely new set of representatives this fall. Lead Locally is backing five candidates in the race, including the executive director of an environmental justice group (Candace Avalos) and an energy economist for Bonneville Power Administration (Mitch Green). The next city council will make decisions about the fate of the Portland Clean Energy Fund, which allocates money for clean energy projects, and will weigh whether or not to transition away from fossil fuel infrastructure — namely, the Zenith Energy crude oil shipment facility and rail line in northwest Portland, which is <a href="https://www.opb.org/article/2024/04/16/zenith-energy-portland-oregon-environment-pollution-land-use-terminal/" rel="noopener noreferrer" target="_blank"><u>an earthquake risk</u></a> and contributes to the area’s <a href="https://www.oregonlive.com/environment/2024/10/controversial-air-permit-for-zenith-energy-will-undergo-oregon-review-process.html" rel="noopener noreferrer" target="_blank"><u>poor air quality</u></a>.</p><p><a href="https://www.dataforprogress.org/blog/2024/10/29/portland-voters-are-ready-to-vote-climate-leaders-into-office-this-november" rel="noopener noreferrer" target="_blank"><u>At stake</u></a> is the continued progress of the Portland Clean Energy Fund, which allocates money for clean energy projects, as well as the potential closure of the Zenith Energy crude oil shipment facility in northwest Portland.</p><p><em><strong><em>Measure 6-219 (Coos County) and Measure 8-116 (Curry County)</em></strong></em></p><p><em><em>Opportunity: To directly express community support for offshore wind</em></em></p><p><em><em>Status: Unknown</em></em></p><p>Voters in two counties on the southern Oregon Coast will have a chance to let their commissioners know how they feel about offshore wind development in their region. The November ballots in Coos and Curry counties include a non-binding question intended to take the community’s temperature on potential offshore wind projects. </p><h3>Polls close at 11 p.m. ET</h3><h2 class="rm-anchors" id="california">California</h2><p><em><strong><em>Proposition 4</em></strong></em></p><p><em><em>Opportunity: Authorizes $10 billion in bonds for water quality, coastal resilience projects, wildfire prevention, and climate-risk protections</em></em></p><p><em><em>Status: </em></em><a href="https://www.csda.net/blogs/vanessa-gonzales/2024/10/29/latest-october-poll-shows-strong-support-for-clima" rel="noopener noreferrer" target="_blank"><u><em><em>Likely to pass</em></em></u></a></p><p>Californians are voting on whether or not to issue $10 billion in bonds, which will largely go toward infrastructure projects aimed at mitigating and adapting to climate change, with at least 40% of the funds earmarked for disadvantaged communities. The bill is backed by organizations like CALFIRE and the National Wildlife Federation and opposed by Republicans for <a href="https://calmatters.org/commentary/2024/09/climate-bond-prop-4-debt/" rel="noopener noreferrer" target="_blank"><u>being unfocused</u></a> and adding to the state deficit.</p><p><em><strong><em>Measure GG (Berkeley)</em></strong></em></p><p><em><em>Opportunity: Adopting a tax on natural gas use in most buildings over 15,000 square feet</em></em></p><p><em><em>Status: Competitive</em></em></p><p>Berkeley became the first city in the country to prohibit gas hookups in new buildings in 2019 — an ordinance struck down by a federal appeals court last spring. In the interim, a group of climate and labor activists raised the signatures necessary to put a revised version of the measure on the ballot. Supporters of Measure GG had raised almost $72,000 by the end of September, and its backers include labor and green groups. The no campaign, which had raised $131,000 at the end of September, is supported by real estate groups that say the tax is prohibitively expensive for small businesses, nonprofits, schools, and grocery stores.</p><h2 class="rm-anchors" id="washington">Washington</h2><p><em><strong><em>Initiative 2117</em></strong></em></p><p><em><em>Opportunity: </em></em><em><em>To vote against repealing the state’s cap and invest program </em></em></p><p><em><em>Status: Likely no vote</em></em></p><p>A wealthy hedge fund manager gathered enough signatures this year to put an initiative to <a href="https://heatmap.news/politics/lets-go-washington" target="_self"><u>repeal Washington state’s new cap and invest program</u></a> on the ballot. Both the “no” and “yes” campaigns have poured money into their respective sides, making the issue the <a href="https://komonews.com/news/local/initiative-2117-washington-state-boing-field-2021-climate-commitment-act-governor-jay-inslee-no-campaign-greenhouse-gases-northwest-progressive-institute-energy-efficiency-wildfire-season" rel="noopener noreferrer" target="_blank"><u>most expensive ballot measure campaign of this election cycle</u></a>. If I-2117 passes, it will leave a gaping hole in the state’s revenue for transit projects, decarbonization initiatives, and clean air and water programs, hamstringing Olympia’s ability to reduce statewide emissions.</p><p><em><strong><em>Initiative 2066</em></strong></em></p><p><em><em>Opportunity: To support Washington’s transition away from natural gas</em></em></p><p><em><em>Status: Competitive</em></em></p><p>Washingtonians will also vote on I-2066, which would prevent the state from incentivizing a transition from natural gas. The initiative would also jeopardize opportunities to <a href="https://www.sightline.org/2024/03/21/washingtonians-will-soon-enjoy-cleaner-heating-and-cooling-options/" rel="noopener noreferrer" target="_blank"><u>promote thermal energy networks</u></a> as a gas alternative and bar cities and towns, as well as Washington’s energy code, from “prohibiting, penalizing, or discouraging” gas appliances in buildings, imperiling programs like Seattle’s 2050 net-zero emissions target.</p><h3>Polls close midnight ET or later</h3><h2 class="rm-anchors" id="alaska">Alaska</h2><p><em><strong><em>U.S. House Alaska At-Large District</em></strong></em></p><p><em><em>Democrat Rep. Mary Peltola* vs. Republican Nick Begich III</em></em></p><p><em><em>Status: Toss-up</em></em></p><p>Peltola has played nice with <a href="https://www.eenews.net/articles/mary-peltolas-delicate-balance-on-energy-climate/" rel="noopener noreferrer" target="_blank"><u>the fossil fuel industry</u></a> — defending the Biden administration’s reversal on <a href="https://heatmap.news/economy/climate-president-bomb-biden-willow" target="_self"><u>the Willow Project</u></a> and supporting the construction of a trans-Alaska natural gas pipeline — but she also boasts an <a href="https://archive.ph/o/4O8pg/https://scorecard.lcv.org/moc/mary-peltola" rel="noopener noreferrer" target="_blank"><u>88% score from the League of Conservation Voters</u></a> due to her otherwise environmentally friendly voting record, has advocated for more tribal involvement in the environmental review process, and she sits on the influential House Natural Resource Committee. Begich has pitched himself to voters as the better candidate for Alaska’s oil and gas industry, which he claims is <a href="https://alaskabeacon.com/2024/08/28/u-s-house-candidates-seek-alaska-oil-and-gas-industry-support-in-forum/" rel="noopener noreferrer" target="_blank"><u>besieged</u></a> by Democrats like Peltola. This race is one of several that could decide control of the U.S. House.</p><h2 class="rm-anchors" id="hawaii">Hawaii</h2><p><em><strong><em>Question 1 (Honolulu)</em></strong></em></p><p><em><em>Opportunity: Would designate 0.5% of property taxes to a Climate Resiliency Fund</em></em></p><p><em><em>Status: Competitive</em></em></p><p>Honolulu residents <a href="https://www.hawaiipublicradio.org/local-news/2024-10-01/honolulu-charter-amendment-ballot-questions" rel="noopener noreferrer" target="_blank"><u>are being asked</u></a> whether they want to create a Climate Resiliency Fund with money raised by half a percent of the city’s property taxes. Advocates argue that the waterfront city needs to prioritize climate the same way it prioritizes affordable housing and the environment, both of which also have funds that receive a half percent of property taxes. <a href="https://www.civilbeat.org/2024/10/honolulu-voters-to-decide-if-climate-change-fund-needed/" rel="noopener noreferrer" target="_blank"><u>Opponents say</u></a> the creation of an exclusive climate fund will make the revenue less flexible in the case of an unforeseen crisis like rising homelessness or COVID-19, while others worry any shortfalls in the city budget caused by the creation of the fund will result in a rise in property taxes.</p><p><em>Editor’s note: This story has been updated to reflect the correct site of the injection well for the Summit carbon pipeline.</em><br/></p> 
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDE0NjAyNi9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc1NzE4NTM5OX0.qpPex06rIQc1lzomMhi343gyAv1b-vsgSFaAIUSExm4/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">By the time the sun rose on Wednesday morning, Donald Trump had secured more than the 270 electoral votes needed to clinch the White House, making him the next president of the United States — again. The decision will have <a href="https://heatmap.news/politics/donald-trump-2024-climate-energy">monumental consequences</a> for the renewables transition, energy prices, and environmental issues. But it was not the only race of the night.</p><p>Heatmap has been keeping tabs on 36 of the most important climate elections, from seats in the House and Senate down to local ballot measures and attorneys general. Though this is far from an exhaustive list of races that will touch the climate this year, we hope it’ll help you piece together how and where climate-related issues are resonating with voters around the country.
+</p><p>
+	A few notes on how this list is organized:
+</p><ul>
+<li>We’ve listed races by state according to when polls close, and within each state, from the highest-level offices to the lowest, including local referenda.</li>
+<li>All incumbents are identified with an *. </li>
+<li>Race status comes from state Boards of Elections and national trackers like <em><em>The Associated Press</em></em> and <em><em>The New York Times </em></em>to verify the winner in each race.</li></ul><div>Many key races remained undecided as of Wednesday morning. While Republicans took control of the Senate, the House is still up for grabs.</div><h3>Polls close at 7 p.m. ET</h3><h2 class="rm-anchors" id="virginia">Virginia</h2><p>
+<em><strong><em>Virginia’s 2nd</em></strong></em> <em><strong><em>Congressional District</em></strong></em>
+</p><p>
+<em><em>Republican Rep. Jen Kiggans* vs. Democrat Missy Cotter Smasal </em></em>
+</p><p>
+<em><em>Status: Pending</em></em></p><p>
+	Democrats are looking for a pick-up opportunity in Virginia’s 2nd Congressional District, which comprises all of Northampton County, Hampton Roads, and Virginia Beach and includes 
+	<a href="https://www.washingtonpost.com/dc-md-va/2024/10/30/virginia-kiggans-smasal-election-trump/" rel="noopener noreferrer" target="_blank"><u>a diverse electorate</u></a> of young voters, a robust LGBTQ community, and many military families. The district is represented by Kiggans, the vice chair of the Conservative Climate Caucus and <a href="https://x.com/JenKiggans/status/1806872276207358007" rel="noopener noreferrer" target="_blank"><u>a Trump ally</u></a>, who backed the Default on America Act to repeal clean energy tax credits and has <a href="https://www.eenews.net/articles/republicans-struggle-with-messaging-on-biden-climate-law/" rel="noopener noreferrer" target="_blank"><u>flip-flopped on her support</u></a> of offshore wind. (Kiggans says she <a href="https://rollcall.com/2024/10/28/vulnerable-candidates-get-creative-as-they-vie-for-climate-votes/#:~:text=pointed%20to%20her%20support%20for%20offshore%20wind" rel="noopener noreferrer" target="_blank"><u>supports it</u></a>, despite voting to slash IRA incentives for the project.) Her opponent, Cotter Smasal, has called climate change a crisis in need of “urgent action” and bipartisan solutions.
+</p><h3>Polls close at 7:30 p.m. ET</h3><h2 class="rm-anchors" id="north-carolina">North Carolina</h2><p>
+<em><strong><em>Governor</em></strong></em>
+</p><p>
+<em><em>Republican Mark Robinson vs. Democrat Attorney General Josh Stein </em></em>
+</p><p>
+<em>Status: </em>🔵<em> Democrat Attorney General Josh Stein wins</em>
+</p><p>
+		North Carolina Attorney General Stein has won the election for governor. The state suffered one of the costliest storms in U.S. history earlier this year due to the flooding from Hurricane Helene, which drew attention to the divide between the two candidates who’d been running for the state’s highest office. Republican Mark Robinson called climate change “junk science” and said he’d 
+	<a href="https://www.witn.com/2022/08/23/memoir-lt-gov-mark-robinson-calls-taking-science-history-out-elementary-schools/" rel="noopener noreferrer" target="_blank">attempt to block</a> history and science from being taught in the first through fifth grades. He’d also said not pursuing the development of fossil fuels is <a href="https://www.youtube.com/watch?v=tH_PnvvNYoU&t=3208s&ab_channel=Winkler%27sGroveBaptistChurch" rel="noopener noreferrer" target="_blank">an affront to God</a>, and that he’d <a href="https://www.youtube.com/watch?v=LV9lwnBAorA&ab_channel=HarnettGOP" rel="noopener noreferrer" target="_blank">attempt</a> to keep the “climate change cabal” in “chains.” <a href="https://climatepower.us/research-polling/north-carolina-governor-race-backgrounder/" rel="noopener noreferrer" target="_blank">By contrast</a>, Stein had proposed a path to reach carbon neutrality in the state by 2050 and has a history of taking on polluters and Big Oil price gougers.
+</p><p>
+<em><strong><em>Commissioner of Insurance</em></strong></em>
+</p><p>
+<em><em>Republican Mike Causey* vs. Democrat Natasha Marcus </em></em>
+</p><p>
+<em>Status: </em>🔴<em> Republican Mike Causey wins</em>
+</p><p>
+	Incumbent Republican Insurance Commissioner Causey has successfully fended off a challenge from the Climate Cabinet-
+	<a href="https://climatecabinet.org/candidates/natasha-marcus" rel="noopener noreferrer" target="_blank">backed</a> state Senator Marcus, who took on Causey on the grounds that he’d approved too many rate increases and was too cozy with the companies he was in charge of regulating. Marcus had pushed for greater investment in home hardening and <a href="https://www.nytimes.com/2024/10/09/us/insurance-commissioner-hurricane-north-carolina.html" rel="noopener noreferrer" target="_blank">outraised Causey nearly twice over</a>. While insurance commissioner isn’t the sexiest race, the election drew outsized attention in part because of Nationwide’s decision not to renew thousands of homeowner policies in eastern North Carolina in 2023 due to climate change, and the devastating flooding earlier this year from Hurricane Helene.
+</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="b4114f64066dc3db3b12cd70db6024aa" data-rm-shortcode-name="rebelmouse-image" id="523a1" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDIzMDk3Ni9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3NDk1ODg4N30.6MQEYip6I4IKjic_qcZqXBifElTb4Oqu_EUwSKc2-4w/image.jpg?width=980"/>
+</p><h2 class="rm-anchors" id="ohio">Ohio</h2><p>
+<em><strong><em>U.S. Senate</em></strong></em>
+</p><p>
+<em><em>Democrat Rep. Sherrod Brown* vs. Republican Bernie Moreno</em></em>
+</p><p>
+<em>Status: </em>🔴<em> </em><em><em>Republican Bernie Moreno wins</em></em>
+</p><p>
+	MAGA Republican Bernie Moreno has flipped the seat of three-term Democratic Senator Sherrod Brown. Combined with Republican Jim Justice winning outgoing Democratic Senator Joe Manchin’s seat earlier in the night, Brown’s loss makes it unlikely that Democrats retain control of the Senate. Climate and energy had not played 
+	<a href="https://www.thetimes.com/world/us-world/article/ohio-senate-election-2024-democrat-republican-polls-dwxvzl720" rel="noopener noreferrer" target="_blank">a significant role</a> in the race between Brown and Moreno, though Brown, who once voiced support for a Green New Deal, had broken <a href="https://www.eenews.net/articles/a-new-sherrod-brown-democrat-runs-from-climate-agenda/" rel="noopener noreferrer" target="_blank">in recent months</a> with his Democratic colleagues on the IRA’s tax credit for EVs (which he says does not do enough to crack down on imported materials from China and Indonesia), backed overturning the Environmental Protection Agency’s new <a href="https://heatmap.news/climate/epa-power-plant-rules-gas" rel="noopener noreferrer" target="_self">power plant regulations</a> and <a href="https://heatmap.news/electric-vehicles/epa-auto-emissions-rule" rel="noopener noreferrer" target="_self">tailpipe rules</a> (which are “unrealistic” and a strain on the grid, he said), and joined Manchin in criticizing the Biden administration’s clean hydrogen tax credit. Moreno <a href="https://www.lcvvictoryfund.org/candidate/bernardo-moreno/" rel="noopener noreferrer" target="_blank">has stressed</a> that “we need natural gas, we need oil” rather than “this move toward windmills, solar panels.”
+</p><p>
+<em><strong><em>Ohio’s 9th</em></strong></em> <em><strong><em>Congressional District</em></strong></em>
+</p><p>
+<em><em>Democrat Rep. Marcy Kaptur* vs. Republican state Rep. Derek Merrin</em></em>
+</p><p>
+<em><em>Status: Pending</em></em></p><p>
+	The race in Ohio’s 9th Congressional District, which includes Toledo and the shores of Lake Erie, is about many things, but 
+	<a href="https://www.lcvvictoryfund.org/house/oh-09/" rel="noopener noreferrer" target="_blank"><u>it’s also about algae</u></a>. Kaptur sits on the House Appropriations Committee, where she has supported clean energy-related spending, and she’s also the ranking member of the Energy and Water Development appropriations subcommittee, where she fought for a $1.5 million federal project to combat warming-induced algal blooms in the Great Lakes. Her opponent, Merrin, voted against that bill as a state representative <a href="https://www.spglobal.com/commodityinsights/en/market-insights/latest-news/natural-gas/103024-us-elections-congress-states-to-define-post-election-energy-climate-paths" rel="noopener noreferrer" target="_blank"><u>and for</u></a> laws that would label methane as green energy. She claimed Kaptur and other Democrats’ clean energy pursuits threaten affordability and reliability.
+</p><h3>Polls close at 8 p.m. ET</h3><h2 class="rm-anchors" id="pennsylvania">Pennsylvania</h2><p>
+<em><strong><em>U.S. Senate</em></strong></em>
+</p><p>
+<em><em>Democrat Sen. Bob Casey, Jr.* vs. Republican David McCormick</em></em>
+</p><p>
+<em><em>Status: Pending</em></em></p><p>
+	Few Senate races this year have touched on climate and energy issues as much as the one in Pennsylvania, the country’s second-largest natural gas-producing state. McCormick has tried to paint Casey as an enemy of fracking by tying him to Kamala Harris’ 
+	<a href="https://heatmap.news/politics/trump-harris-energy-debate" target="_self"><u>prior opposition</u></a> to the industry. Casey, however, has <a href="https://insideclimatenews.org/news/04102024/fact-checking-pennsylvania-senate-debate-energy-claims/" rel="noopener noreferrer" target="_blank"><u>always supported</u></a> what he calls “<a href="https://insideclimatenews.org/news/01102024/debate-questions-for-pennsylvania-senate-candidates/" rel="noopener noreferrer" target="_blank"><u>responsible fracking</u></a>,” including the proposed hydrogen hubs in the state (one of which would use fracked gas). McCormick, whose wife sits on the board of Exxon, has said renewable energy is making the U.S. more reliant on materials from China and that we “need to get back to the energy policies under President Trump,” <a href="https://www.lcvvictoryfund.org/candidate/dave-mccormick/" rel="noopener noreferrer" target="_blank"><u>including by repealing</u></a> the Bipartisan Infrastructure Law and gutting the Inflation Reduction Act.
+</p><p>
+<em><strong><em>Pennsylvania’s 7th</em></strong></em> <em><strong><em>Congressional District</em></strong></em>
+</p><p>
+<em><em>Democrat Rep. Susan Wild* vs. Republican state Rep. Ryan Mackenzie</em></em>
+</p><p>
+<em><em>Status: Pending</em></em></p><p>
+	Pennsylvania’s 7th Congressional District, which includes Carbon, Lehigh, and Northampton Counties, is considered 
+	<a href="https://centerforpolitics.org/crystalball/districts-of-change-part-two-looking-beyond-the-straight-party-districts/" rel="noopener noreferrer" target="_blank"><u>a presidential bellwether</u></a>. It’s also the site of a tight race that could help shape the outcome of the House, with Wild defending her seat against Mackenzie, who has <a href="https://x.com/Ryan_Mackenzie/status/1721197353783169460" rel="noopener noreferrer" target="_blank"><u>slammed</u></a> her <a href="https://www.mackenzieforcongress.com/record" rel="noopener noreferrer" target="_blank"><u>repeatedly</u></a> for voting for the “failed” IRA. As a state representative, Mackenzie has <a href="https://www.lcvvictoryfund.org/house/pa-07/" rel="noopener noreferrer" target="_blank"><u>also</u></a> voted against environmental and clean energy measures, including rooftop solar panels for schools.
+</p><p>
+<em><strong><em>Attorney General</em></strong></em>
+</p><p>
+<em><em>Democrat Eugene DePasquale vs. Republican Dave Sunday</em></em>
+</p><p>
+<em>Status: </em>🔴<em> </em><em><em><em>Republican Dave Sunday wins</em></em></em>
+</p><p>
+	Sunday had not spoken about climate-related issues during the campaign and didn’t respond to a request for comment on the matter <a href="https://thephiladelphiacitizen.org/where-do-pas-candidates-stand-on-climate-change/" rel="noopener noreferrer" target="_blank">from <em>T</em><em>he Philadelphia Citizen</em></a>. However the next attorney general of Pennsylvania has an opportunity to pursue climate liability litigation during their term, with Bucks County suing the fossil fuel industry for misleading the public about the dangers of burning oil and gas, <a href="https://www.eenews.net/articles/10-state-ag-races-to-watch-on-climate-and-energy/" rel="noopener noreferrer" target="_blank"><em>E&E News</em> reports</a>. DePasquale, who lost the race, had said he considers environmental justice a top priority.
+</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="e8e9bf34f8d9c82699f9d64ae8a2655a" data-rm-shortcode-name="rebelmouse-image" id="b4f88" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDIzMDk3OC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3OTI0NTYyNX0.OA-7iJuuUO5X8vpZgc4Xt_zgg8_x0KXn_NUmuFzScHA/image.jpg?width=980"/>
+</p><h2 class="rm-anchors" id="south-dakota">South Dakota</h2><p>
+<em><strong><em>Referred Law 21</em></strong></em>
+</p><p>
+<em><em>Opportunity: </em></em><em><em>To take a stance on carbon pipelines</em></em>
+</p><p>
+<em><em>Status: Pending</em></em><a href="https://www.keloland.com/keloland-com-original/keloland-the-hill-poll-5-statewide-ballot-questions-face-uphill-battle/" rel="noopener noreferrer" target="_blank"><u><em><em></em></em></u></a></p><p>
+	Last year, the South Dakota Legislature and Governor Kristi Norm passed a law touted as a “
+	<a href="https://www.keloland.com/keloland-com-original/referred-law-21-voters-to-weigh-in-co2-pipeline-debate/" rel="noopener noreferrer" target="_blank"><u>landowner bill of rights</u></a>,” which imposed a number of regulations on potential CO2 pipelines, including a modest $1-per-foot surcharge and requirements about minimum depth. Opponents <a href="https://www.npr.org/2024/10/26/nx-s1-5163262/south-dakotas-vote-on-regulating-pipelines-could-set-a-precedent-for-other-states" rel="noopener noreferrer" target="_blank"><u>wary of the carbon capture technology</u></a> quickly gathered enough signatures to force a November ballot measure on the law. According to these critics, Referred Law 21 is a <a href="https://southdakotasearchlight.com/ballot-measures/referred-law-21-pipeline-regulations/" rel="noopener noreferrer" target="_blank"><u>giveaway</u></a> to pipeline companies since it gives the state’s Public Utilities Commissioners the ability to override local ordinances and zoning laws meant to block the pipeline. If Referred Law 21 is rejected, it will have major implications for the $8 billion Summit Carbon Solutions Pipeline, which would collect CO2 from regional ethanol plants and deliver it to an injection well in North Dakota as a means of dealing with planet-warming emissions. The uncertainty around whether or not Referred Law 21 will pass is part of why the project is <a href="https://heatmap.news/risk-index" target="_self"><u>one of Heatmap’s most at-risk energy transition proposals</u></a>.
+</p><h3>Polls close at 9 p.m. ET</h3><h2 class="rm-anchors" id="arizona">Arizona</h2><p>
+<em><strong><em>U.S. Senate</em></strong></em>
+</p><p>
+<em><em>Democrat Rep. Ruben Gallego vs. Republican Kari Lake</em></em>
+</p><p>
+<em><em>Status: Pending</em></em></p><p>
+	Democrats will need a win in the Grand Canyon State if they have any chance of holding the Senate. While 
+	<a href="https://heatmap.news/politics/arizona-climate-elections" target="_self"><u>the pitch</u></a> to undecided voters in Arizona has centered on reproductive and LGBTQ rights, Gallego helped to pass the Inflation Reduction Act in the House and has posited himself as a defender of <a href="https://gallegoforarizona.com/issue/environment-climate-change/" rel="noopener noreferrer" target="_blank"><u>Arizona’s public lands</u></a>, water, and energy transition. Lake, a close ally of Trump’s, has boosted falsehoods about wind turbines killing an outsized number of birds and whales, and blamed the state’s heat deaths <a href="https://azmirror.com/briefs/fact-check-kari-lakes-fentanyl-death-claims-are-false/" rel="noopener noreferrer" target="_blank"><u>on drug overdoses</u></a>. She has called climate change “fake science” and told voters that she’s “<a href="https://cronkitenews.azpbs.org/2024/07/15/arizona-republicans-skeptical-climate-change-despite-evidence/" rel="noopener noreferrer" target="_blank"><u>not going to be afraid of the weather</u></a>.”
+</p><p>
+<em><strong><em>Arizona’s 1st Congressional District</em></strong></em>
+</p><p>
+<em><em>Republican Rep. David Schweikert* vs. Democrat Amish Shah </em></em>
+</p><p>
+<em><em>Status: Pending</em></em></p><p>
+	Arizona’s 1st congressional district, covering northeastern Phoenix and Scottsdale, was considered “
+	<a href="https://www.axios.com/local/phoenix/2024/10/21/shah-schweikert-house-arizona-first-district" rel="noopener noreferrer" target="_blank"><u>reliably Republican</u></a>” for Schweikert’s first seven terms, but he’s facing a formidable challenge from Shah, a former ER doctor, in the recently redrawn district. Schweikert has taken <a href="https://heatmap.news/politics/rnc-energy-all-of-the-above" target="_self"><u>a more moderate position</u></a> on the energy transition than other Republicans in the state, <a href="https://schweikert.house.gov/issues/energy-environment/" rel="noopener noreferrer" target="_blank"><u>arguing</u></a> that “the government must stop picking winners and losers in the industry” but “we also should continue to expand into renewable energy resources such as wind, solar, hydrogen, nuclear, and geothermal.” Shah, who green groups like the Sierra Club endorse, has pushed for a “<a href="https://x.com/DrAmishShah/status/1839009557416218758" rel="noopener noreferrer" target="_blank"><u>healthier Arizona</u></a>” by standing up to polluters and protecting Arizona’s public lands. This race is one of several that could decide control of the U.S. House.
+</p><p>
+<em><strong><em>Arizona’s 6th Congressional District</em></strong></em>
+</p><p>
+<em><em>Republican Rep. Juan Ciscomani* vs. Democrat Kirsten Engel </em></em>
+</p><p>
+<em><em>Status: Pending</em></em></p><p>
+	Another close race that could decide control of the House is in the Tucson suburbs. Ciscomani is a Trump-endorsed moderate who voted against the IRA but has been friendlier on issues like residential solar projects. Engel’s team has positioned itself as 
+	<a href="https://heatmap.news/politics/arizona-climate-elections#:~:text=a%20groundwater%20scandal" target="_self"><u>better on water issues</u></a> than Ciscomani and willing to stand up to foreign mining companies interested in <a href="https://heatmap.news/economy/resolution-copper-mine" target="_self"><u>the state’s copper resources</u></a>.
+</p><p>
+<em><strong><em>The Arizona Corporation Commission</em></strong></em>
+</p><p>
+<em><em>Opportunity: Flip three seats from Republicans</em></em>
+</p><p>
+<em><em>Status: Pending</em></em></p><p>
+	The commission regulates utilities in the state, and in recent years it has actively dismantled clean energy policy and standards with particular aggression toward community solar. 
+	<a href="https://heatmap.news/politics/public-utilities-arizona-montana-louisiana" target="_self"><u>Arizona voters have an opportunity</u></a> to elect representatives who will vote on rules for virtual power plants and can block the repeal of the state’s renewable energy and efficiency standards. There are three Democrats, two Green Party candidates, and three Republicans running for three of the commission’s five total seats.
+</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="2dff377851faa6a5d8b13a3c741e7912" data-rm-shortcode-name="rebelmouse-image" id="bab00" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDIzMDk4MS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTczNjQ3NjgyOX0.paQzUh7b2NaTDVGeCHBdu1XCzj6IpXH60jUC_PsVTkY/image.jpg?width=980"/>
+</p><h2 class="rm-anchors" id="colorado">Colorado</h2><p>
+<em><strong><em>Colorado’s 8th Congressional District</em></strong></em>
+</p><p>
+<em><em>Democratic Rep. Yadira Caraveo* vs. Republican Gabe Evans</em></em>
+</p><p>
+<em><em>Status: Pending</em></em></p><p>
+	Though the race in Colorado’s 8th congressional district has focused on the fentanyl and border crises, it encompasses the northern suburbs of Denver, including parts of the oil-and-gas-rich Front Range, where the fossil fuel industry has 
+	<a href="https://www.ksut.org/government-politics/2024-05-06/colorados-front-range-gets-abysmal-air-quality-rating-as-lawmakers-strike-a-deal-with-the-oil-and-gas-industry" rel="noopener noreferrer" target="_blank"><u>degraded local air quality</u></a> for decades. Caraveo’s challenger Evans has dismissed “climate alarmism” and has <a href="http://scorecard.conservationco.org/2024/house/evans/" rel="noopener noreferrer" target="_blank"><u>a 0% score</u></a> from Conservation Colorado for his “no” votes on everything from regulating toxic “forever chemicals” to transportation infrastructure development to holding gas companies accountable for their environmental impacts. Caraveo, a former pediatrician, has cited air pollution's impact on her patients as <a href="https://coloradosun.com/2024/10/26/climate-change-colorado-2024-election-voter-voices/" rel="noopener noreferrer" target="_blank"><u>one of her motivations for running for office</u></a>.
+</p><h2 class="rm-anchors" id="iowa">Iowa</h2><p>
+<em><strong><em>Iowa’s 1st Congressional District</em></strong></em>
+</p><p>
+<em><em>Republican Rep. Mariannette Miller-Meeks* vs. Democrat Christina Bohannan</em></em>
+</p><p>
+<em><em>Status: Pending</em></em></p><p>
+	Miller-Meeks, who represents the southeasternmost part of the state, also chairs the Conservative Climate Caucus and is a more moderate “
+	<a href="https://heatmap.news/politics/rnc-energy-all-of-the-above" target="_self"><u>all of the above</u></a>” energy supporter. Democrats, however, see the race as an opportunity to flip a seat in the House via Bohannan and have out-raised the Republican renewable energy advocate by a 2-to-1 margin, <a href="https://www.eenews.net/articles/conservative-climate-caucus-chair-in-danger-of-losing-race/" rel="noopener noreferrer" target="_blank"><u><em><em>E&E News</em></em></u><u> reports</u></a>. Bohannan has attacked Miller-Meeks for slow-walking action on addressing climate change through her soft hand with the oil and gas industry.
+</p><p>
+<em><strong><em>Iowa’s 3rd Congressional District</em></strong></em>
+</p><p>
+<em><em>Republican Rep. Zach Nunn* vs. Democrat Lanon Baccam</em></em>
+</p><p>
+<em>Status: </em>🔴<em> </em><em><em>Republican Rep. Zach Nunn wins</em></em></p><p>Democrats in Iowa were hoping for another potential pick-up in the swingy 3rd Congressional District, which includes parts of Des Moines and the Missouri border. Nunn  made 
+	<a href="https://www.iowapublicradio.org/political-news/2022-08-14/zach-nunn-calls-for-more-federal-tax-cuts-for-middle-class-iowans" rel="noopener noreferrer" target="_blank"><u>tax cuts</u></a> a central component of his re-election bid, and he also voted to repeal tax credits for clean energy <a href="https://www.lcvvictoryfund.org/house/ia-03/" rel="noopener noreferrer" target="_blank"><u>three times</u></a> and bashed the IRA as “telling Iowans you should spend less, you should tighten your belt, but we're gonna go ahead and print off more money and spend more your tax dollars on projects.”
+</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="58d4b70e7c4629a5c6ccf8181038ca4b" data-rm-shortcode-name="rebelmouse-image" id="ddb13" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDIzMDk4My9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2MTA5OTI2Nn0.5s8z5etSeXDRgxX_jx_r1kftPXZXt6k530bxuOelRHw/image.jpg?width=980"/>
+</p><h2 class="rm-anchors" id="louisiana">Louisiana</h2><p>
+<em><strong><em>The Outer Continental Shelf Revenues for Coastal Protection and Restoration Fund Amendment </em></strong></em>
+</p><p>
+<em><em>Opportunity: Requiring that federal reserves received by the state for alternative and renewable energy production off its coast go toward protecting the state’s oceanfronts</em></em>
+</p><p>
+<em>Status: </em>🟡<em> Succeeds</em></p><p>
+	Louisiana voters opted to require that federal reserve revenue raised from renewable energy production in federal waters off its coast go into a fund that supports 
+	<a href="https://www.axios.com/local/new-orleans/2024/10/15/louisiana-election-constitutional-amendment-explainer" rel="noopener noreferrer" target="_blank"><u>coastal restoration projects</u></a>, including the construction of levees and protection of barrier islands. (Federal revenues received by oil and gas in the state already support this fund.) The Coastal Protection and Restoration Fund has been around since Hurricane Katrina and Rita in 2005, but most of its money came from damages paid after the Deepwater Horizon oil spill, and those funds will be exhausted <a href="https://parlouisiana.org/wp-content/uploads/2024/10/PAR-Guide-to-the-2024-Constitutional-Amendments.pdf" rel="noopener noreferrer" target="_blank"><u>by the end of 2031</u></a>. Proponents argued the amendment is necessary to protect Louisiana’s coasts from worsening storms and rising sea levels, though opponents said it’s more important to keep the funds flexible for any legislative priorities that may arise.
+</p><h2 class="rm-anchors" id="michigan">Michigan</h2><p>
+<em><strong><em>U.S. Senate</em></strong></em>
+</p><p>
+<em><em>Democrat Rep. Elissa Slotkin* vs. Republican Mike Rogers </em></em>
+</p><p>
+<em><em>Status: Pending</em></em></p><p>
+	Democrats must hold onto their Senate seat in Michigan if they want to control the chamber. But the Wolverine State’s Senate election has also become a 
+	<a href="https://www.eenews.net/articles/3-ways-the-ev-is-dominating-michigans-elections/" rel="noopener noreferrer" target="_blank"><u>referendum</u></a> on the state’s electric vehicle manufacturing industry, where Rogers has alleged Slotskin and other Democrats support a (<a href="https://heatmap.news/politics/trump-electric-vehicles-fact-check#:~:text=20%2C%202023%5D-,Fact%20check%3A,-It%E2%80%99s%20not%20wrong" target="_self"><u>nonexistent</u></a>) “EV mandate” that destroys jobs (<a href="https://heatmap.news/electric-vehicles/evs-trump-uaw-jobs-evidence" target="_self"><u>it doesn’t</u></a>). However, the arguments have put Slotkin on her back foot: She’s run ads telling voters <a href="https://www.eenews.net/articles/3-ways-the-ev-is-dominating-michigans-elections/" rel="noopener noreferrer" target="_blank"><u>she doesn’t own an electric car</u></a>.
+</p><p>
+<em><strong><em>Michigan’s 8th Congressional District</em></strong></em>
+</p><p>
+<em><em>Republican Paul Junge vs. Democrat state Sen.</em></em><em> </em><em><em>Kristen McDonald Rivet </em></em>
+</p><p>
+<em><em>Status:</em></em> 🔵<em> </em><em><em>Democrat state Sen.</em></em><em> </em><em><em>Kristen McDonald Rivet wins</em></em></p><p>
+	Green groups like the LCV Victory Fund and Climate Power poured money and volunteer hours into picking up Michigan’s 8th Congressional District for Democrats, and on Tuesday their work paid off. McDonald Rivet has 
+	<a href="https://climatepower.us/research-polling/mi-08-race-backgrounder/" rel="noopener noreferrer" target="_blank"><u>an impressive climate record</u></a>, which includes helping to pass Governor Gretchen Whitmer’s 100% renewable energy bill while serving as a state senator. She has also fought for flood reduction infrastructure and lead pipe replacement funding in a district that includes Flint. Meanwhile, Junge dismissed solar and wind energy as <a href="https://heatmap.news/politics/trump-wind-solar-fact-check" target="_self"><u>not being “dependable,”</u></a> talked up “clean coal” and expanding oil and gas leasing on public lands, and advocated for <a href="https://www.detroitnews.com/story/news/politics/michigan/2022/10/18/dan-kildee-paul-junge-tight-race-flint-tri-cities-congress/69561432007/" rel="noopener noreferrer" target="_blank"><u>resuming construction</u></a> on the Keystone Pipeline and maintaining the <a href="https://www.sierraclub.org/wisconsin/line-5" rel="noopener noreferrer" target="_blank"><u>controversial Line 5</u></a> crude oil pipeline.
+</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="ca66aee41014784e53b1436b076247b8" data-rm-shortcode-name="rebelmouse-image" id="cf08a" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDIzMDk4NC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4ODY3MjY1M30.4ZGvpTdpAcknUH0Ne7Bm3xpip_k2-Pgic4Tf3XNMiVw/image.jpg?width=980"/>
+</p><h2 class="rm-anchors" id="nebraska">Nebraska</h2><p>
+<em><strong><em>Nebraska’s 2nd Congressional District</em></strong></em>
+</p><p>
+<em><em>Republican Rep. Don Bacon* vs. Democrat state Sen. Tony Vargas</em></em>
+</p><p>
+<em><em>Status: Pending</em></em></p><p>
+	State Senator Tony Vargas is challenging the incumbent legislator in a district that includes Nebraska’s “blue dot” of Omaha. Though the race has 
+	<a href="https://www.nytimes.com/2024/10/20/us/politics/nebraska-walz-tony-vargas.html" rel="noopener noreferrer" target="_blank"><u>centered mainly</u></a> on issues like abortion, tax cuts, and immigration, Vargas is a former Earth sciences teacher who <a href="https://www.lcv.org/media-center/tony-vargas-earns-lcv-action-fund-endorsement-for-nebraskas-2nd-congressional-district/" rel="noopener noreferrer" target="_blank"><u>openly talks about</u></a> combatting climate change and investing in clean energy (he even cosponsored a bill arguing the state Legislature has a “moral obligation” to do something about the issue). While in office, Bacon voted to repeal tax credits for wind and solar energy, and he’s chalked up extreme weather as having “<a href="https://heatmap.news/culture/old-farmers-almanac-climate-change" target="_self"><u>cyclical impacts</u></a>.”
+</p><h2 class="rm-anchors" id="new-mexico">New Mexico</h2><p>
+<em><strong><em>New Mexico’s 2nd Congressional District</em></strong></em>
+</p><p>
+<em><em>Democrat Rep. Gabe Vasquez* vs. Republican Yvette Herrell</em></em>
+</p><p>
+<em>Status: </em>🔵 
+	<em>Democrat Rep. Gabe Vasquez wins</em>
+</p><p>
+	Democrat Rep. Vasquez managed to fend off a challenge from Republican Herrell, whose seat he flipped in the super swingy 2nd congressional district of New Mexico two years ago. The district includes a large swath of the oil-rich Permian Basin, and Vasquez had 
+	<a href="https://www.politico.com/news/2024/10/30/new-mexico-clean-energy-fossil-fuel-second-district-00185865" rel="noopener noreferrer" target="_blank">walked the line</a> between promoting wind and solar manufacturing as part of the IRA while also “looking out for those fossil fuel communities.” Herrell had said that renewable subsidies create “unfair” competition for oil and gas businesses, and she has <a href="https://www.lcvvictoryfund.org/candidate/yvette-herrell/" rel="noopener noreferrer" target="_blank">a 0% lifetime score</a> from LCV for such positions as voting in favor of rolling back access to public land.
+</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="64bfb202041e3966fc3ee513f47620cf" data-rm-shortcode-name="rebelmouse-image" id="fc07c" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDIzMDk4Ny9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc0NDcyOTQ2OX0.bNoV2FGkcbngFkhSMNh9igjM4E20y1sOEO1vFysFnhM/image.jpg?width=980"/>
+</p><h2 class="rm-anchors" id="new-york">New York</h2><p>
+<em><strong><em>New York’s 4th Congressional District</em></strong></em>
+</p><p>
+<em><em>Republican Rep. Anthony D’Esposito* vs. Democrat Laura Gillen</em></em>
+</p><p>
+<em><em>Status: Pending</em></em></p><p>
+	New York’s 4th Congressional District, representing the southern part of Nassau County, is the second-wealthiest in the state and pulled for Joe Biden by more than 14 points in 2020. But it’s currently being represented by 
+	<a href="https://punchbowl.news/article/election-2024/ny-gop-embraces-trump-msg-rally-stirs-outage/" rel="noopener noreferrer" target="_blank"><u>Trump ally</u></a> Anthony D’Esposito, who’s opposed local offshore wind projects as being “<a href="https://desposito.house.gov/media/press-releases/rep-despositos-statement-equinors-proposed-offshore-wind-project-3-18-23" rel="noopener noreferrer" target="_blank"><u>landscape-altering</u></a>” while at the same time <a href="https://thehill.com/policy/energy-environment/3925794-house-passes-gop-led-energy-package-touted-as-partys-top-priority/" rel="noopener noreferrer" target="_blank"><u>helping to expand</u></a> offshore drilling. Gillen previously lost to D’Esposito in 2022, but this time, she’s <a href="https://nylcv.org/candidate/laura-gillen/" rel="noopener noreferrer" target="_blank"><u>played up her experience</u></a> helping Hempstead recover from Hurricane Sandy and pushed for the protection of the district’s coastlines.
+</p><p>
+<em><strong><em>New York’s 17th Congressional District</em></strong></em>
+</p><p>
+<em><em>Republican Rep. Mike Lawler* vs. Democrat Mondaire Jones</em></em>
+</p><p>
+<em>Status: </em>🔴<em> </em><em><em>Rep. Mike Lawler wins</em></em></p><p><a href="https://heatmap.news/sparks/trump-ev-pivot-elon-musk" target="_self"><u>Elon Musk’s PAC</u></a> <a href="https://www.cityandstateny.com/politics/2024/09/elon-musk-spends-big-back-hudson-valley-republicans/399909/" rel="noopener noreferrer" target="_blank"><u>dumped money</u></a> into the race to <a href="https://heatmap.news/politics/elon-musk-trump" target="_self"><u>help Lawler win</u></a> New York’s 17th Congressional District. Located just north of the liberal bastion of New York City, New York’s 17th Congressional District was safely controlled by Democrats until 2020’s 
+	<a href="https://nymag.com/intelligencer/2022/05/new-york-democrats-gerrymandered-a-fiasco.html" rel="noopener noreferrer" target="_blank"><u>infamous redistricting</u></a>. Though the map was again redrawn for the 2024 election, NY-17 went virtually untouched in <a href="https://nymag.com/intelligencer/article/the-new-york-congressional-map-drama-just-wont-end.html" target="_blank"><u>a “win” for Lawler</u></a>. Besides being a critical race for control of the House, NY-17 also pitted Lawler, a co-sponsor of the Energy Choice Act  <a href="https://www.foodandwateraction.org/democracy/mike-lawler-climate-environment/" target="_blank"><u>aiming to protect natural gas</u></a>, against Jones, who represented a former iteration of the district and supported <a href="https://heatmap.news/economy/kathy-hochul-nyc-congestion-pricing" target="_self"><u>congestion pricing</u></a> (except for Lower Hudson Valley residents, of course) and the build-out of renewables. The candidates <a href="https://www.cbsnews.com/newyork/news/mondaire-jones-mike-lawler-ny-district-17-debate/" target="_blank"><u>diverge</u></a> on their opinion of the closure of the Indian Point nuclear power plant, which Lawler called “foolish;” Jones, <a href="https://heatmap.news/politics/democrats-nuclear" target="_self"><u>somewhat out of step with his party</u></a>, opposes nuclear power.</p><h2 class="rm-anchors" id="wisconsin">Wisconsin</h2><p>
+<em><strong><em>Wisconsin’s 3rd</em></strong></em> <em><strong><em>Congressional District</em></strong></em>
+</p><p>
+<em><em>Republican Rep. Derrick Van Orden* vs. Democrat Rebecca Cooke</em></em>
+</p><p>
+<em><em>Status: Pending</em></em></p><p>
+	The Republican incumbent in Wisconsin’s 3rd Congressional District — which covers the exurbs of the Twin Cities and much of the southwestern part of the state — has made gas and energy prices 
+	<a href="https://vanorden.house.gov/issues/energy" rel="noopener noreferrer" target="_blank"><u>a staple of his campaign</u></a>. In addition to promoting increased domestic energy production, Van Orden is a member of the Congressional Biofuels Caucus and has pushed for renewable ethanol and sustainable aviation fuel, while at the same time stressing that tax dollars should not go toward “subsidizing the purchase of electric vehicles.” He was also <a href="https://www.thedailybeast.com/gop-candidate-bankrolled-jan-6-riot-trip-with-campaign-cash/?via=twitter_page" rel="noopener noreferrer" target="_blank"><u>present</u></a> in Washington, D.C. on January 6, 2021 to attend the Stop the Steal rally that turned into an assault on the U.S. Capitol. His opponent, Cooke, <a href="https://cookeforwisconsin.com/en/priorities/" rel="noopener noreferrer" target="_blank"><u>has said</u></a> she’d prioritize investment in clean energy infrastructure and new high-speed rail in Wisconsin and addressing PFAS in water.
+</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="bd85be8034d296b59752948191efa129" data-rm-shortcode-name="rebelmouse-image" id="2ddc3" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDIzMDk5MC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2NDM1NTQ0N30.ScxZ300UJbHdkHDpZ2dI68uAZrI8plwiZDP_LOzbPjI/image.jpg?width=980"/>
+</p><h3>Polls close at 10 p.m. ET</h3><h2 class="rm-anchors" id="montana">Montana</h2><p>
+<em><strong><em>U.S. Senate</em></strong></em>
+</p><p>
+<em><em>Democrat Sen. Jon Tester* vs. Republican Tim Sheehy</em></em>
+</p><p>
+<em>Status: </em>🔴<em> </em><em><em>Republican Tim Sheehy</em></em></p><p>The LCV Victory Fund named Sheehy as one of its <a href="https://www.lcvvictoryfund.org/candidate/tim-sheehy/" rel="noopener noreferrer" target="_blank"><u>“dirty dozen” priority targets</u></a> due to his advocacy for privatizing public lands and calling climate change the belief of a leftist cult. Tester, meanwhile, has been <a href="https://www.washingtonpost.com/politics/2022/03/24/senate-only-farmer-is-an-unlikely-champion-climate-action/" rel="noopener noreferrer" target="_blank"><u>described as a “hero” of green groups</u></a> due to his support of renewable tax credits and stated dreams of owning an electric tractor. Though it had already become apparent that Democrats would lose control of the Senate by the time the race was called, Tester’s defeat is nevertheless a stinging blow to climate advocates who hoped to maintain an advantage there.</p><p>
+<em><strong><em>Attorney General</em></strong></em>
+</p><p>
+<em><em>Republican Attorney General Austin Knudsen* vs. Democrat Ben Alke</em></em>
+</p><p>
+<em>Status: </em>🔴<em> </em><em><em>Republican Attorney General Austin Knudsen wins</em></em></p><p>Knudsen leads 
+	<a href="https://heatmap.news/politics/held-v-montana-climate-kids" target="_self"><u>the state’s case against the 16 young plaintiffs in </u><u><em><em>Held v. Montana</em></em></u></a>, who are suing lawmakers for allegedly violating their right to a “clean and healthful environment” as enshrined in the state’s constitution. Alke, the Democratic challenger, had the <a href="https://mtvoters.org/endorsement-guide/" rel="noopener noreferrer" target="_blank"><u>support</u></a> of Montana Conservation Voters for his prior work in environmental law, including attempts to make public lands less accessible. Though a state panel recently recommended that he be suspended from practicing law for 90 days due to ethics violations, <a href="https://www.eenews.net/articles/10-state-ag-races-to-watch-on-climate-and-energy/" rel="noopener noreferrer" target="_blank"><u><em><em>E&E News</em></em></u><u> reported</u></a>, in the end he carried the race by <a href="https://www.nytimes.com/interactive/2024/11/05/us/elections/results-montana-attorney-general.html" target="_blank">nearly 20 points</a>.
+</p><p>
+<em><strong><em>The Montana Public Service Commission</em></strong></em>
+</p><p>
+<em><em>Opportunity: Electing Independent Elena Evans to the commission</em></em>
+</p><p>
+<em><em>Status: Pending</em></em></p><p>
+	There are three open seats on Montana’s PSC, but unlike in Arizona, most attention is on flipping incumbent Republican Jennifer Fielder’s seat for Elena Evans, a geologist and political Independent. The race focuses 
+	<a href="https://heatmap.news/politics/public-utilities-arizona-montana-louisiana" target="_self"><u>on energy affordability</u></a>, especially after the Republican commission okayed a 28% rate increase for Northwestern Energy, the biggest utility in the state, last year. Evans has said she’d look closer at building climate resiliency into the state’s grid; Fielder <a href="https://montanafreepress.org/2024/10/01/independent-candidate-challenges-incumbent-republican-for-montana-utility-board-seat/" rel="noopener noreferrer" target="_blank"><u>has said</u></a> it isn’t her place to weigh in on climate as a utility regulator.
+</p><h2 class="rm-anchors" id="nevada">Nevada</h2><p>
+<em><strong><em>U.S. Senate</em></strong></em>
+</p><p>
+<em><em>Democrat Rep. Jacky Rosen vs. Republican Sam Brown</em></em>
+</p><p>
+<em><em>Status: Pending</em></em></p><p>
+	Nevada’s junior senator, Jacky Rosen, is a clean energy enthusiast who helped pass the IRA and attempted to expand solar and geothermal energy within the Silver State. Brown has said he would not have supported the IRA and 
+	<a href="https://insideclimatenews.org/news/11092024/nevada-senate-race-clean-energy/" rel="noopener noreferrer" target="_blank"><u>stood disagrees within the way</u></a> of solar development in the state as a TK IN WHAT ROLE DID HE DO THIS?, while calling for expanding investment in fossil fuels. Brown also said he <a href="https://nevadacurrent.com/2024/05/17/brown-said-he-wants-to-ax-multiple-federal-departments-promised-spending-cuts-will-be-painful/" rel="noopener noreferrer" target="_blank"><u>wants to cut</u></a> the Department of Energy and any “environmental departments and agencies.”
+</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="26cc2ace9ef65fa81af059c638969072" data-rm-shortcode-name="rebelmouse-image" id="96381" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDIzMDk5My9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3OTEwNjQzOX0.t2H10quVVBLoBAKliNH04t5gs27B7YEU6pXlIpapX-M/image.jpg?width=980"/>
+</p><h2 class="rm-anchors" id="oregon">Oregon</h2><p>
+<em><strong><em>Portland City Council</em></strong></em>
+</p><p>
+<em><em>Opportunity: Portland voters are electing an entirely new city council and have the chance to choose representatives who will support the Portland Clean Energy Fund </em></em>
+</p><p>
+<em><em>Status: Pending</em></em></p><p>
+	Portland has a new voting system for all new city council districts, meaning voters in Oregon’s biggest city will elect an entirely new set of representatives this fall. Lead Locally is backing five candidates in the race, including the executive director of an environmental justice group (Candace Avalos) and an energy economist for Bonneville Power Administration (Mitch Green). The next city council will make decisions about the fate of the Portland Clean Energy Fund, which allocates money for clean energy projects, and will weigh whether or not to transition away from fossil fuel infrastructure — namely, the Zenith Energy crude oil shipment facility and rail line in northwest Portland, which is 
+	<a href="https://www.opb.org/article/2024/04/16/zenith-energy-portland-oregon-environment-pollution-land-use-terminal/" rel="noopener noreferrer" target="_blank"><u>an earthquake risk</u></a> and contributes to the area’s <a href="https://www.oregonlive.com/environment/2024/10/controversial-air-permit-for-zenith-energy-will-undergo-oregon-review-process.html" rel="noopener noreferrer" target="_blank"><u>poor air quality</u></a>.
+</p><p>
+<a href="https://www.dataforprogress.org/blog/2024/10/29/portland-voters-are-ready-to-vote-climate-leaders-into-office-this-november" rel="noopener noreferrer" target="_blank"><u>At stake</u></a> is the continued progress of the Portland Clean Energy Fund, which allocates money for clean energy projects, as well as the potential closure of the Zenith Energy crude oil shipment facility in northwest Portland.
+</p><p>
+<em><strong><em>Measure 6-219 (Coos County) and Measure 8-116 (Curry County)</em></strong></em>
+</p><p>
+<em><em>Opportunity: To directly express community opposition to offshore wind</em></em>
+</p><p>
+<em>Status: </em>🟡<em> Succeeded</em></p><p>
+	Voters in two counties on the <a href="https://heatmap.news/plus/the-fight/hotspots/offshore-wind-oregon" target="_blank">southern Oregon Coast</a> expressed overwhelming opposition to offshore wind development in their region. The November ballots in Coos and Curry counties included a non-binding question intended to take the community’s temperature on potential offshore wind projects. More than 60% of Coos County voters registered their feelings against the development of offshore wind projects, while nearly 80% of Curry County voters objected specifically to floating offshore wind.</p><h3>Polls close at 11 p.m. ET</h3><h2 class="rm-anchors" id="california">California</h2><p>
+<em><strong><em>Proposition 4</em></strong></em>
+</p><p>
+<em><em>Opportunity: Authorizes $10 billion in bonds for water quality, coastal resilience projects, wildfire prevention, and climate-risk protections</em></em>
+</p><p>
+<em><em>Status: Pending</em></em><a href="https://www.csda.net/blogs/vanessa-gonzales/2024/10/29/latest-october-poll-shows-strong-support-for-clima" rel="noopener noreferrer" target="_blank"><u><em><em></em></em></u></a></p><p>
+	Californians are voting on whether or not to issue $10 billion in bonds, which will largely go toward infrastructure projects aimed at mitigating and adapting to climate change, with at least 40% of the funds earmarked for disadvantaged communities. The bill is backed by organizations like CALFIRE and the National Wildlife Federation and opposed by Republicans for 
+	<a href="https://calmatters.org/commentary/2024/09/climate-bond-prop-4-debt/" rel="noopener noreferrer" target="_blank"><u>being unfocused</u></a> and adding to the state deficit.
+</p><p>
+<em><strong><em>Measure GG (Berkeley)</em></strong></em>
+</p><p>
+<em><em>Opportunity: Adopting a tax on natural gas use in most buildings over 15,000 square feet</em></em>
+</p><p>
+<em>Status: </em>🟡<em> Failed</em>
+</p><p>
+<a href="https://alamedacountyca.gov/rovresults/252/" rel="noopener noreferrer" target="_blank">Over two-thirds</a> of voters in Berkeley rejected a ballot measure backed by climate and labor groups that would have authorized a tax of $2.9647 per therm of natural gas in large buildings, with the funds going toward decarbonization programs. The ballot measure had been an attempt to functionally reinstate the city’s first-in-the-nation prohibition against gas hookups in new buildings, which a federal appeals court struck down last spring. Supporters of Measure GG had raised almost $72,000 by the end of September, while the no campaign — backed by real estate groups that said the tax was prohibitively expensive for small businesses, nonprofits, schools, and grocery stores — had raised $131,000 at the end of September.
+</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="1d5620a092af015744708964896409d9" data-rm-shortcode-name="rebelmouse-image" id="efdb6" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDIzMDk5NC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc1MjAxODY5Nn0.xc7WbEbd8Thlg_Mx0FnE_mTGbW_SnApJViORP_3TfAM/image.jpg?width=980"/>
+</p><h2 class="rm-anchors" id="washington">Washington</h2><p>
+<em><strong><em>Initiative 2117</em></strong></em>
+</p><p>
+<em><em>Opportunity: </em></em><em><em>To vote against repealing the state’s cap and invest program </em></em>
+</p><p>
+<em>Status: </em>🟡<em> Failed</em>
+</p><p>
+	The Republican-backed effort to 
+	<a href="https://heatmap.news/politics/lets-go-washington" rel="noopener noreferrer" target="_self">repeal Washington state’s new cap and invest program</a> has failed. Both the “no” and “yes” campaigns poured money into their respective sides, making the issue the <a href="https://komonews.com/news/local/initiative-2117-washington-state-boing-field-2021-climate-commitment-act-governor-jay-inslee-no-campaign-greenhouse-gases-northwest-progressive-institute-energy-efficiency-wildfire-season" rel="noopener noreferrer" target="_blank">most expensive ballot measure campaign of this election cycle</a>. If I-2117 had passed, it would have left a gaping hole in the state’s revenue for transit projects, decarbonization initiatives, and clean air and water programs.
+</p><p>
+<em><strong><em>Initiative 2066</em></strong></em>
+</p><p>
+<em><em>Opportunity: To support Washington’s transition away from natural gas</em></em>
+</p><p>
+<em><em>Status: Pending</em></em></p><p>
+	Washingtonians will also vote on I-2066, which would prevent the state from incentivizing a transition from natural gas. The initiative would also jeopardize opportunities to 
+	<a href="https://www.sightline.org/2024/03/21/washingtonians-will-soon-enjoy-cleaner-heating-and-cooling-options/" rel="noopener noreferrer" target="_blank"><u>promote thermal energy networks</u></a> as a gas alternative and bar cities and towns, as well as Washington’s energy code, from “prohibiting, penalizing, or discouraging” gas appliances in buildings, imperiling programs like Seattle’s 2050 net-zero emissions target.
+</p><h3>Polls close midnight ET or later</h3><h2 class="rm-anchors" id="alaska">Alaska</h2><p>
+<em><strong><em>U.S. House Alaska At-Large District</em></strong></em>
+</p><p>
+<em><em>Democrat Rep. Mary Peltola* vs. Republican Nick Begich III</em></em>
+</p><p>
+<em><em>Status: Pending</em></em></p><p>
+	Peltola has played nice with 
+	<a href="https://www.eenews.net/articles/mary-peltolas-delicate-balance-on-energy-climate/" rel="noopener noreferrer" target="_blank"><u>the fossil fuel industry</u></a> — defending the Biden administration’s reversal on <a href="https://heatmap.news/economy/climate-president-bomb-biden-willow" target="_self"><u>the Willow Project</u></a> and supporting the construction of a trans-Alaska natural gas pipeline — but she also boasts an <a href="https://archive.ph/o/4O8pg/https://scorecard.lcv.org/moc/mary-peltola" rel="noopener noreferrer" target="_blank"><u>88% score from the League of Conservation Voters</u></a> due to her otherwise environmentally friendly voting record, has advocated for more tribal involvement in the environmental review process, and she sits on the influential House Natural Resource Committee. Begich has pitched himself to voters as the better candidate for Alaska’s oil and gas industry, which he claims is <a href="https://alaskabeacon.com/2024/08/28/u-s-house-candidates-seek-alaska-oil-and-gas-industry-support-in-forum/" rel="noopener noreferrer" target="_blank"><u>besieged</u></a> by Democrats like Peltola. This race is one of several that could decide control of the U.S. House.
+</p><h2 class="rm-anchors" id="hawaii">Hawaii</h2><p>
+<em><strong><em>Question 1 (Honolulu)</em></strong></em>
+</p><p>
+<em><em>Opportunity: Would designate 0.5% of property taxes to a Climate Resiliency Fund</em></em>
+</p><p>
+<em>Status: </em>🟡<em> Passed</em></p><p>
+	Honolulu residents <a href="https://www.hawaiipublicradio.org/local-news/2024-10-01/honolulu-charter-amendment-ballot-questions" rel="noopener noreferrer" target="_blank"><u>were asked</u></a> whether they want to create a Climate Resiliency Fund with money raised by half a percent of the city’s property taxes. Advocates argued that the waterfront city needs to prioritize climate the same way it prioritizes affordable housing and the environment, both of which also have funds that receive a half percent of property taxes. <a href="https://www.civilbeat.org/2024/10/honolulu-voters-to-decide-if-climate-change-fund-needed/" rel="noopener noreferrer" target="_blank"><u>Opponents said</u></a> the creation of an exclusive climate fund will make the revenue less flexible in the case of an unforeseen crisis like rising homelessness or COVID-19, while others worried any shortfalls in the city budget caused by the creation of the fund will result in a rise in property taxes. Honolulu residents approved the measure by a <a href="https://www.staradvertiser.com/2024/11/06/breaking-news/hawaii-voters-pass-state-city-constitutional-amendments/" target="_blank">wide margin</a>, with 58% voting in favor, according to the <em>Honolulu Star-Advertiser</em>.</p><p>
+<em>Editor’s note: This story has been updated to reflect the correct site of the injection well for the Summit carbon pipeline.</em><br/>
+</p> 
 
 <br> 
 
@@ -165,6 +1168,18 @@ date: 2024-11-05, from: The Lever News
 <br> 
 
 <https://www.levernews.com/postelection-live-event-11-6-now-what/>
+
+---
+
+## Kim Jong-un's Risky Business in Russia
+
+date: 2024-11-05, updated: 2024-11-05, from: RAND blog
+
+North Korea is sending 12,000 troops to Russia to aid in its fight against Ukraine. This deployment reveals Kim Jong-un’s desperation for cash but presents significant risks for his regime. 
+
+<br> 
+
+<https://www.rand.org/pubs/commentary/2024/11/kim-jong-uns-risky-business-in-russia.html>
 
 ---
 
@@ -330,14 +1345,17 @@ CEO Kelly Ortberg, an outsider who started at Boeing only in August, has announc
 
 ---
 
-## Millions of US voters choosing new president between Harris and Trump
+## US voters choose between Kamala Harris and Donald Trump
 
 date: 2024-11-05, from: VOA News USA
 
-Millions of Americans are voting Tuesday to pick a new U.S. president, deciding whether to elevate Vice President Kamala Harris to become the country's first female leader or return former President Donald Trump to the White House that he lost in the 2020 election.  
+Poll results began pouring in late Tuesday in the tight presidential contest between Vice President Kamala Harris and former President Donald Trump, with both notching early wins in their respective strongholds in a historic poll that could see the U.S. elect its first female president.
 
 
-Polls show that Harris, the Democratic candidate, and Trump, her Republican challenger, are locked in one of the closest contests in decades, with the winner to begin a four-year presidential term in January. 
+Trump, who is seeking to return to the White House after his 2020 loss, grabbed his home state of Florida, swinging the early tally into his column with that state's 30 electoral college votes. Harris, as expected, locked down several smaller states on the East Coast. The winning candidate needs 270 electoral college votes, out of 538, to win, and some states were not expected to finish counting before Wednesday. The winner will begin a four-year presidential term in January.
+
+
+Political analysts predicted that the race would come down to just seven political battleground states, where surveys show the two candidates are within 2 percentage points of each other — making them too close to call.
 
 
 Watch related report by Kane Farabaugh:
@@ -345,101 +1363,73 @@ Watch related report by Kane Farabaugh:
 
 
 
-Political analysts say the national outcome is likely to be determined by the vote in seven political battleground states spanning the country, where surveys show the two candidates are within 2 percentage points of each other, what pollsters describe as a tossup. 
+Jim Kessler, vice president of policy at think tank Third Way, told VOA late Tuesday that Harris offers something new to a particular demographic of voters.
 
 
-Depending on how close the vote is, and how fast the vote counting is in key states, a likely winner could emerge by late Tuesday or early Wednesday, but maybe not for several days, as occurred four years ago. 
+"I think part of it is that she's a woman, and a woman of color," he said of Harris, who is of mixed Black and South Asian heritage. "And I think many women are excited about that."
 
 
-Both Harris and Trump have assembled a vast roster of experienced election lawyers to contest any irregularities they believe might affect the outcome to their candidate's disadvantage. 
 
 
+Another point in her favor, he said, is the Supreme Court's 2022 decision to overturn federally protected abortion access. Harris has campaigned on a platform of codifying those protections into law.
 
 
-Polls opened early Tuesday across the country's eastern states, with people streaming in to vote at government centers, fire stations, schools, churches and elsewhere. Other polling stations opened later across the country's six time zones and by early afternoon polls were open in all 50 states.   
+"Literally, since that decision, Democrats have overperformed the public opinion polls, in part because women are showing up at the polls in higher numbers than men, especially compared to previous elections," he said.
 
 
-Trump, 78, spent the early hours of Election Day in the political battleground state of Michigan. He wrapped up his campaign with a late-night rally in Grand Rapids, a Republican stronghold where he also ended his 2016 and 2020 runs for the presidency.  
 
 
-"We're in very good shape. I have to tell you, we're way up in terms of the vote," Trump declared in a post-midnight speech. He claimed that Harris and the Democrats could only win if they cheat. 
+Trump, who voted in Florida Tuesday, said he was confident in his performance.
 
 
-"They have to cheat, and they do, and they do it very well," Trump contended. He blamed Harris, as he has throughout the campaign, for high consumer prices and the influx of undocumented migrants across the Mexican border into the United States. 
+He told reporters, "If it's a fair election, I'd be the first one to acknowledge" the results, though it was not clear what might meet that definition. Democratic critics say they expect Trump to challenge the outcome unless he wins.
 
 
+Both Harris and Trump have assembled a vast roster of experienced election lawyers to contest any irregularities they believe might affect the outcome to their candidate's disadvantage.
 
 
-Trump, who cast his ballot in person Tuesday, is spending the day at his Mar-a-Lago estate in Florida. He is scheduled to hold an election result watch party in West Palm Beach on Tuesday night. 
 
 
-Harris, 60, ended her campaign at a star-studded rally in the eastern city of Philadelphia on Monday night, with pop star Lady Gaga, musical groups and former talk show host Oprah Winfrey lending their support. 
+More than 83 million Americans cast early votes before Tuesday, either in person at polling stations or by mail.
 
 
-Harris did not mention Trump in her remarks, telling the crowd, estimated at 30,000, that "tonight, we finish as we started, with optimism, with energy, with joy, knowing that we the people have the power to shape our future." 
+The total is more than half the 158 million who voted in the 2020 election, when President Joe Biden defeated Trump. It was a Democratic victory that to this day Trump says he was cheated out of by fraudulent voting rules and vote counts.
 
 
-Harris plans to attend an election night party at Howard University in Washington, a historically Black university where she graduated with a degree in economics and political science in 1986. Harris said Sunday that she had "just filled out" her mail-in ballot and it was "on its way to California," her home state.  
+Biden remained at the White House throughout the day and made no public appearances.
 
 
+A Trump victory would make him only the second president to serve two non-consecutive terms, after Grover Cleveland in the 1880s. He would also be the first felon to serve as president as he awaits sentencing later in November after being convicted of 34 charges linked to his hush money payment to a porn film star ahead of his successful 2016 run for the presidency.
 
 
-Both candidates made stops Monday in Pennsylvania, with 19 electoral votes, the biggest prize among the seven battleground states. They held a series of rallies, with both showing up in Pittsburgh, in the heart of the U.S. steel-making region. Both Harris and Trump expressed optimism.   
 
 
-"The momentum is on our side," Harris told her supporters gathered at a historic steel facility. "Our campaign has tapped into the ambitions, the aspirations and the dreams of the American people. And we know it is time for a new generation of leadership in America."    
+Harris for weeks has claimed she is the underdog in the campaign but lately expressed more optimism and now says she expects to become the country's 47th president.
 
 
-"We must finish strong," Harris added. "Make no mistake, we will win."   
+U.S. presidential elections are not decided by the national popular vote but through the Electoral College, which turns the election into 50 state-by-state contests, with 48 states awarding all their electoral votes to the winner in those states. Nebraska and Maine allocate theirs by both statewide and congressional district vote counts.
 
 
-Trump, addressing his supporters at a sports arena, said another presidential term with him at the helm would "launch the most extraordinary economic boom the world has ever seen."   
 
 
-"If you vote for Kamala, you will have four more years of misery, failure and disaster," Trump claimed. "Our country may never recover. Vote for me and I will deliver rising wages, soaring income, and a colossal surge of jobs, wealth and opportunity for Americans of every race, religion, color and creed. Every one of them."
+The number of electoral votes in each state is based on population, so the biggest states hold the most sway in determining the overall national outcome. Aside from the 19 electoral votes at stake in Pennsylvania, two other battleground states, Georgia and North Carolina, have 16 apiece, and Michigan has 15.
 
 
-Ahead of Tuesday's Election Day, more than 83 million Americans cast early votes, either in person at polling stations or by mail. 
+Voters near the nation's capital told VOA that their exercise in democracy was a pleasant one.
 
 
+Voting was "just a smooth process," said Arlington, Virginia, voter Neil Puri. "Civility. Having people respect each other again and vote with love rather than party lines."
 
 
-The total is more than half the 158 million who voted in the 2020 election, when President Joe Biden defeated Trump. It was a Democratic victory that to this day Trump says he was cheated out of by fraudulent voting rules and vote counts.   
 
 
-Dozens of court decisions, often rendered by Trump-appointed judges, went against him as he attempted to challenge the 2020 results. On Sunday, he told a Pennsylvania rally he "shouldn't have left" the White House in 2021 when Biden assumed office. 
+And in Alabama — a state Trump claimed early in the evening — Pastor Robby Boyd told VOA's Lao Service that he had faith in a smooth outcome.
 
 
-After he voted, Trump told reporters, "If it's a fair election, I'd be the first one to acknowledge" the results, though it was not clear what might meet that definition. Democratic critics say they expect Trump to challenge the outcome unless he wins.  
+"My biggest concern is that there are questions that linger no matter who wins, that there are questions or charges of fraud," he said. "We don't want that to happen. I just pray that it's so obvious whoever the winner is, that we can move on as a country."
 
 
-A Trump victory would make him only the second president to serve two non-consecutive terms, after Grover Cleveland in the 1880s. He would also be the first felon to serve as president as he awaits sentencing later in November after being convicted of 34 charges linked to his hush money payment to a porn film star ahead of his successful 2016 run for the presidency. 
-
-
-Harris for weeks has claimed she is the underdog in the campaign but lately expressed more optimism and now says she expects to become the country's 47th president. If elected, she would be the first woman to be the American leader, its first of South Asian descent and its second Black president after Barack Obama.    
-
-
-Pollsters say the country's voters are deeply divided between the two candidates. It is an assessment reflected in how major media outlets look at the possible outcome. 
-
-
-
-
-Last-minute polling shows the Harris-Trump race all but tied in the battleground states.  
-
-
-The importance of the battleground states cannot be overstated. 
-
-
-U.S. presidential elections are not decided by the national popular vote but through the Electoral College, which turns the election into 50 state-by-state contests, with 48 states awarding all their electoral votes to the winner in those states. Nebraska and Maine allocate theirs by both statewide and congressional district vote counts. 
-
-
-The number of electoral votes in each state is based on population, so the biggest states hold the most sway in determining the overall national outcome, with the winner needing 270 of the 538 electoral votes to claim the presidency 
-
-
-Aside from the 19 electoral votes at stake in Pennsylvania, two other battleground states, Georgia and North Carolina, have 16 apiece, and Michigan has 15. 
-
-
-Polls show either Harris or Trump with substantial or somewhat comfortable leads in 43 of the states, enough for each to get to 200 electoral votes or more. Barring an upset in one of those states, the winner will be decided in the seven remaining battleground states. 
+VOA's Kim Lewis contributed to this report. 
 
 <br> 
 

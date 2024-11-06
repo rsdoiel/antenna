@@ -1,11 +1,340 @@
 ---
 title: journalism
-updated: 2024-11-05 15:50:04
+updated: 2024-11-06 06:52:07
 ---
 
 # journalism
 
-(date: 2024-11-05 15:50:04)
+(date: 2024-11-06 06:52:07)
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-06, from: The Daily Bruin (UCLA Student Newspaper))
+
+Former President Donald Trump will retake the Oval Office, according to the Associated Press.
+Trump’s victory over Democratic nominee Vice President Kamala Harris comes after a tumultuous election cycle, including a Manhattan, New York, jury convicting Trump on 34 felony counts of fraud in May and President Joe Biden exiting the race in July. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/06/473066/>
+
+---
+
+## Donald Trump defeats Kamala Harris to win 2024 presidential election
+
+date: 2024-11-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>Editor&#8217;s note: This article contains a description of a miscarriage.</em>
+
+
+
+
+
+
+
+
+
+
+
+Former President Donald Trump will retake the Oval Office, according to the Associated Press.
+Trump’s victory over Democratic nominee Vice President Kamala Harris comes after a tumultuous election cycle, including a Manhattan, New York, jury convicting Trump of 34 felony counts of fraud in May and President Joe Biden exiting the race in July. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/06/donald-trump-defeats-kamala-harris-to-win-2024-presidential-election/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-06, from: The Daily Bruin (UCLA Student Newspaper))
+
+Eight of the nine measures on Los Angeles ballots are projected to have passed.
+<strong>[Related: All LA County, City ballot measures except for Measure G projected to pass]</strong> 
+
+<br> 
+
+<https://dailybruin.com/2024/11/06/473062/>
+
+---
+
+## Groups hold vigil on election night for Palestine, Lebanon
+
+date: 2024-11-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Organizers said candidates were ‘two sides of the same coin’ about war in Gaza.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/06/groups-hold-vigil-on-election-night-for-palestine-lebanon/">Groups hold vigil on election night for Palestine, Lebanon</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/06/groups-hold-vigil-on-election-night-for-palestine-lebanon/>
+
+---
+
+## All LA County, City ballot measures except for Measure G projected to pass
+
+date: 2024-11-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Eight of the nine measures on Los Angeles ballots are projected to have passed.
+LA County voters passed Measure A, the LA Times projected. Measure A will repeal the existing Measure H – which implemented a 0.25% sales tax in LA County in 2017 – and raise it to a $0.50 sales tax. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/06/all-la-county-city-ballot-measures-except-for-measure-g-projected-to-pass/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-06, from: The Daily Bruin (UCLA Student Newspaper))
+
+Democrat Rick Chavez Zbur was reelected to the California State Assembly on Tuesday for District 51, which encompasses Westwood.
+<strong>[Related: Democrat Rick Chavez Zbur wins reelection to California State Assembly]</strong> 
+
+<br> 
+
+<https://dailybruin.com/2024/11/06/473056/>
+
+---
+
+## Democrat Rick Chavez Zbur wins reelection to California State Assembly
+
+date: 2024-11-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Rick Chavez Zbur was reelected to the California State Assembly District 51 seat Tuesday.&#160;
+The incumbent Democrat defeated Republican Stephan Hohil by a landslide in California State Assembly District 51, according to the Los Angeles Times. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/06/democrat-rick-chavez-zbur-wins-reelection-to-california-state-assembly/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-06, from: The Daily Bruin (UCLA Student Newspaper))
+
+Nathan Hochman is set to win the race for Los Angeles District Attorney, unseating incumbent George Gascón.&#160;
+Hochman, a former federal prosecutor and United States Assistant Attorney General, was leading the race by over 400,000 votes as of early Wednesday morning. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/06/473039/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-06, from: The Daily Bruin (UCLA Student Newspaper))
+
+For the first time since 2021, Republicans will control the United States Senate.
+At 9:06 p.m., the Associated Press projected Sen. Deb Fischer, R-Neb., would win reelection – giving the Republican party 51 seats. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/06/473036/>
+
+---
+
+## Nathan Hochman defeats incumbent George Gascón for LA District Attorney
+
+date: 2024-11-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Nov 6. at 2:28 a.m.</em>
+Nathan Hochman has won the race for Los Angeles District Attorney, unseating incumbent George Gascón.&#160;
+Hochman, a former federal prosecutor and United States Assistant Attorney General, led the race by almost 500,000 votes when the LA Times called the race early Wednesday morning. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/06/nathan-hochman-defeats-incumbent-george-gascon-for-la-district-attorney/>
+
+---
+
+## Students react with nerves to election results
+
+date: 2024-11-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Annenberg event included election result analysis and discussion of implications.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/06/students-react-with-nerves-to-election-results/">Students react with nerves to election results</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/06/students-react-with-nerves-to-election-results/>
+
+---
+
+## Republicans projected to assume control of United States Senate
+
+date: 2024-11-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+For the first time since 2021, Republicans will control the United States Senate.
+At 9:06 p.m., the Associated Press projected Sen. Deb Fischer, R-Neb., would win reelection – giving the Republican party 51 seats. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/06/republicans-projected-to-assume-control-of-united-states-senate/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-06, from: The Daily Bruin (UCLA Student Newspaper))
+
+While Trump – who is three electoral votes away from claiming the presidency, according to AP projections – has not been consistent on his stance on abortion, several state-level Constitutional changes were on the ballot this year, said Cathren Cohen, a staff attorney at the Center on Reproductive Health, Law and Policy at UCLA Law. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/06/473023/>
+
+---
+
+## Classifieds – November 6, 2024
+
+date: 2024-11-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/06/classifieds-november-6-2024/">Classifieds &#8211; November 6, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/06/classifieds-november-6-2024/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-06, from: The Daily Bruin (UCLA Student Newspaper))
+
+THE HILL – Peter Dachtler, first-year economics and environmental studies student, said he felt the levels of disagreement between Democratics and Republicans have been historic, focusing more on rights issues than traditional economic disagreements. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/06/473021/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-06, from: The Daily Bruin (UCLA Student Newspaper))
+
+THE HILL – Next to a food truck outside Rieber Terrace, Liam Findley, a first-year global studies student, said he felt people are dejected as the crowd murmurs about Trump’s projected win. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/06/473018/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-06, from: The Daily Bruin (UCLA Student Newspaper))
+
+DOWNTOWN LOS ANGELES – As Trump&#8217;s speech ends, the Continental Club watch party is clearing out, with only a few committed partygoers still watching CNN&#8217;s analysis. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/06/473016/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-06, from: The Daily Bruin (UCLA Student Newspaper))
+
+SANTA MONICA – Jon Katz, president of the Santa Monica Democratic Club, spoke about his own community when asked about how to keep energy levels towards voting high. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/06/473014/>
+
+---
+
+## In the United States House of Representatives, the Associated Press projects that Democrats have won 170 seats and Republicans have won 192 seats, as of midnight. Neither party has reached the 218-seat threshold necessary for a majority in the chamber.
+
+date: 2024-11-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2024/11/06/in-the-united-states-house-of-representatives-the-associated-press-projects-that-democrats-have-won-170-seats-and-republicans-have-won-192-seats-as-of-midnight-neither-party-has-reached-the-218-sea/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-06, from: The Daily Bruin (UCLA Student Newspaper))
+
+NEW YORK – As the crowd in Times Square disperses for the night after Trump’s victory speech comes to a close, Phil Weiss said he feels at ease thinking Republicans have secured their chosen representative in the White House. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/06/473003/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-06, from: The Daily Bruin (UCLA Student Newspaper))
+
+Measure G, which among other things proposed an expansion of the Los Angeles County Board of Supervisors from five to nine members and the creation of a county executive position, has around 8,000 more votes rejecting it than approving it, said Zev Yaroslavsky, a former member of the board. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/06/473002/>
+
+---
+
+## ‘As You Like It’ begs the question ‘who likes what?’
+
+date: 2024-11-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The ‘As You Like It’ musical adaptation doesn't know what it wants to be.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/06/as-you-like-it-begs-the-question-who-likes-what/">‘As You Like It’ begs the question ‘who likes what?’</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/06/as-you-like-it-begs-the-question-who-likes-what/>
+
+---
+
+## A battle of the obscure
+
+date: 2024-11-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>This Halloween felt different, to say the least.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/06/a-battle-of-the-obscure/">A battle of the obscure</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/06/a-battle-of-the-obscure/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-06, from: The Daily Bruin (UCLA Student Newspaper))
+
+DOWNTOWN LOS ANGELES – When Trump name-dropped Elon Musk in his election night speech, the partygoers at the Continental Club watch party reacted with a mixture of whooping cheers and audible groans. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/05/472998/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-06, from: The Daily Bruin (UCLA Student Newspaper))
+
+SANTA MONICA – Gabriela Gutierrez, an attendee of the Westside Democratic HQ’s watch party who identifies as a Democrat, said she is surprised by how people her age, born from 1995 to 2000, decided not to vote or to remain distant from politics. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/05/472994/>
+
+---
+
+## Big Party, big impact: Students mobilize for Presidential Election Day
+
+date: 2024-11-06, from: The Sundail (CSUN Student Newspaper)
+
+On the eve of the 2024 presidential election CSUN Associated Student Lobby Corps hosted a Big Party (Political Awareness Registration Turnout Youthquake) event on the Library Lawn from 10 a.m.... 
+
+<br> 
+
+<https://sundial.csun.edu/187294/news/big-party-big-impact-students-mobilize-for-presidential-election-day/>
+
+---
+
+## LIVE: ELECTION 2024
+
+date: 2024-11-06, from: The Sundail (CSUN Student Newspaper)
+
+This post was updated Nov. 5 at 10:30 p.m. 10:30 PM Presidential Race Donald Trump wins Georgia, a state the former president lost to Biden in the 2020 election. Trump... 
+
+<br> 
+
+<https://sundial.csun.edu/187264/news/187264/>
 
 ---
 

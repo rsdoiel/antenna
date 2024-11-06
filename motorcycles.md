@@ -1,11 +1,85 @@
 ---
 title: motorcycles
-updated: 2024-11-05 15:50:05
+updated: 2024-11-06 06:52:08
 ---
 
 # motorcycles
 
-(date: 2024-11-05 15:50:05)
+(date: 2024-11-06 06:52:08)
+
+---
+
+## The Kawasaki Z900 Is Everything the Z1000 Could’ve Been, Thankfully
+
+date: 2024-11-06, from: Ride Apart, Electric Motorcycle News
+
+It gets upgrades that make it more fun to ride, all while making it a capable daily rider.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/739812/2025-kawasaki-launch-specs-details-price/>
+
+---
+
+## Does Krämer Even Know What Its GP2-890 XX Track-Only Bike Is For?
+
+date: 2024-11-06, from: Ride Apart, Electric Motorcycle News
+
+A riddle wrapped in a mystery inside an enigma comes to mind. 
+
+<br> 
+
+<https://www.rideapart.com/news/739933/kramer-gp2-890-xx-track-only-specs/>
+
+---
+
+## The Wait Is Over, the Aprilia Tuareg Rally Production Bike Is Here
+
+date: 2024-11-06, from: Ride Apart, Electric Motorcycle News
+
+Not quite the competition bike, but still gets some sweet upgrades over the regular Tuareg 660. 
+
+<br> 
+
+<https://www.rideapart.com/news/739948/aprilia-tuareg-rally-production-bike/>
+
+---
+
+## Honda GB350S Finally Lands In Europe, and It's About Time
+
+date: 2024-11-06, from: Ride Apart, Electric Motorcycle News
+
+The only question here is, what took them so long? 
+
+<br> 
+
+<https://www.rideapart.com/news/739934/honda-gb350s-europe-release-2025/>
+
+---
+
+## Honda Unveils Wild V3 Engine, Even Comes With an Electric Turbocharger
+
+date: 2024-11-06, from: Ride Apart, Electric Motorcycle News
+
+It's not that I think Honda is boring, but this certainly isn't the brand's traditional safe play. 
+
+<br> 
+
+<https://www.rideapart.com/news/739937/honda-v3-engine-electrical-compressor/>
+
+---
+
+## Yamaha's Tenere Off-Road Motorcycle Is More Rally-Ready Than Ever Before
+
+date: 2024-11-06, from: Ride Apart, Electric Motorcycle News
+
+Yamaha has made its already off-road capable ADV even more off-road capable. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/739811/2025-yamaha-tenere-700-details-specs-features/>
 
 ---
 
@@ -58,7 +132,7 @@ Do you think an apology is enough?
 
 ---
 
-## Harley Owner Waited a Year For ECU, Even Emailed the Company's CEO
+## Harley Owner Waited a Year For a Single Part, Couldn't Ride At All
 
 date: 2024-11-05, from: Ride Apart, Electric Motorcycle News
 

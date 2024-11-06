@@ -1,11 +1,53 @@
 ---
 title: home
-updated: 2024-11-05 15:50:05
+updated: 2024-11-06 06:52:08
 ---
 
 # home
 
-(date: 2024-11-05 15:50:05)
+(date: 2024-11-06 06:52:08)
+
+---
+
+## He Renovated His Own House, and Lived to Regret It
+
+date: 2024-11-06, from: Dwell
+
+Larry Yung took on a decade-long renovation by himself, and he has a word of warning: "Be ready for a challenge." 
+
+<br> 
+
+<https://www.dwell.com/article/larry-yung-diy-renovation-57b4cb62>
+
+---
+
+## Palmetto Tree Care and Growing Guide with Ultimate Tips
+
+date: 2024-11-06, from: Yard Life blog
+
+<p>Palmetto palms, also known as palmetto trees, are versatile, low-maintenance palms popular in landscaping, especially in warmer regions. These resilient ... </p>
+<p class="read-more-container"><a title="Palmetto Tree Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/palmetto-tree-care-and-growing-guide-with-ultimate-tips/#more-21648" aria-label="Read more about Palmetto Tree Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/palmetto-tree-care-and-growing-guide-with-ultimate-tips/">Palmetto Tree Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/palmetto-tree-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## Lilac Tree Care and Growing Guide with Ultimate Tips
+
+date: 2024-11-06, from: Yard Life blog
+
+<p>The lilac tree is beloved by gardeners around the world for its fragrant blooms and vibrant colors. With proper care, ... </p>
+<p class="read-more-container"><a title="Lilac Tree Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/lilac-tree-care-and-growing-guide-with-ultimate-tips/#more-21638" aria-label="Read more about Lilac Tree Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/lilac-tree-care-and-growing-guide-with-ultimate-tips/">Lilac Tree Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/lilac-tree-care-and-growing-guide-with-ultimate-tips/>
 
 ---
 
@@ -127,6 +169,18 @@ date: 2024-11-05, from: The Gardener's Path
 
 ---
 
+## This Travel Tuesday Is Going to Be the Biggest in History—Here’s How to Score the Best Deals
+
+date: 2024-11-05, from: Sunset Magazine - Living in the West
+
+The desire for experiences over things has made Travel Tuesday more popular than ever. Here's how to find the best deals. 
+
+<br> 
+
+<https://www.sunset.com/travel/travel-tuesday-tips>
+
+---
+
 ## Could This Hack Make Bagging Leaves Easier?
 
 date: 2024-11-05, from: Family Handyman Blog
@@ -164,6 +218,18 @@ For an stress-free holiday hosting season, it helps to have the right essentials
 <br> 
 
 <https://www.sunset.com/home-garden/design/holiday-entertaining-finds>
+
+---
+
+## This Mid-Century Modern Seattle Home Makes You Feel Like You’re in a Treehouse
+
+date: 2024-11-05, from: Sunset Magazine - Living in the West
+
+This mid-century modern house in Seattle was an empty shell when the clients bought it, but the designer filled it with vintage finds. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/vintage-filled-mid-century-modern-house>
 
 ---
 

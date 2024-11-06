@@ -1,11 +1,110 @@
 ---
 title: socal north
-updated: 2024-11-05 15:50:03
+updated: 2024-11-06 06:52:05
 ---
 
 # socal north
 
-(date: 2024-11-05 15:50:03)
+(date: 2024-11-06 06:52:05)
+
+---
+
+## Live local results: Here's how to track the 2024 election results
+
+date: 2024-11-06, updated: 2024-11-06, from: The LAist
+
+From O.C. to L.A. county races, statewide elections, and the battle for the White House, here's how you can stay connected and track the results. 
+
+<br> 
+
+<https://laist.com/news/politics/tracking-2024-election-results>
+
+---
+
+## Donald Trump has won the presidential election and will return to the White House
+
+date: 2024-11-06, updated: 2024-11-06, from: The LAist
+
+Becoming just the second president to be defeated and then reelected to a subsequent term, former President Donald Trump defeated Vice President Harris and will be the 47th president. 
+
+<br> 
+
+<https://laist.com/news/politics/donald-trump-has-won-the-presidential-election-and-will-return-to-the-white-house>
+
+---
+
+## Nazarian takes early lead in race for open LA city council seat in the San Fernando Valley
+
+date: 2024-11-06, updated: 2024-11-06, from: The LAist
+
+Former state Assemblymember Adrin Nazarian was far ahead of progressive Jillian Burgos in early election results. 
+
+<br> 
+
+<https://laist.com/news/politics/2024-election-california-general-los-angeles-city-council-district-2-results-analysis>
+
+---
+
+## Hochman holds substantial lead over Gascón in LA district attorney race
+
+date: 2024-11-06, updated: 2024-11-06, from: The LAist
+
+The race to run the largest prosecutors' office in the country has been a contentious one. 
+
+<br> 
+
+<https://laist.com/news/politics/hochman-holds-substantial-lead-over-gascon-in-la-district-attorney-race>
+
+---
+
+## Adam Schiff easily wins US Senate seat in deep-blue California
+
+date: 2024-11-06, updated: 2024-11-06, from: The LAist
+
+The Burbank Democrat will take the U.S. Senate seat held by Dianne Feinstein for 30 years. No Republican has won statewide in California since 2006, and Steve Garvey didn’t break that losing streak. 
+
+<br> 
+
+<https://laist.com/news/politics/adam-schiff-easily-wins-us-senate-seat-in-deep-blue-california>
+
+---
+
+## Live results in 6 key California House races that could swing power in Congress
+
+date: 2024-11-06, updated: 2024-11-06, from: The LAist
+
+Four of these heated races are in Southern California and they're among the most expensive in the nation. 
+
+<br> 
+
+<https://laist.com/news/politics/2024-election-california-general-us-representative-california-key-races>
+
+---
+
+## Here's a look at the people who hit the polls in SoCal on Tuesday
+
+date: 2024-11-06, updated: 2024-11-06, from: The LAist
+
+From the presidential race and possibility of the first U.S. woman president, to more down ballot issues, voters had a lot on their minds as they lined up to vote. 
+
+<br> 
+
+<https://laist.com/news/politics/a-look-at-socal-people-who-hit-the-polls-election-2024>
+
+---
+
+## San Fernando High’s Night of the Dead Continues to Grow Year After Year
+
+date: 2024-11-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="771" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/PXL_20241102_011127185.MP_-scaled.jpg?fit=771%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/PXL_20241102_011127185.MP_-scaled.jpg?w=1928&amp;ssl=1 1928w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/PXL_20241102_011127185.MP_-scaled.jpg?resize=226%2C300&amp;ssl=1 226w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/PXL_20241102_011127185.MP_-scaled.jpg?resize=771%2C1024&amp;ssl=1 771w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/PXL_20241102_011127185.MP_-scaled.jpg?resize=768%2C1020&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/PXL_20241102_011127185.MP_-scaled.jpg?resize=1157%2C1536&amp;ssl=1 1157w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/PXL_20241102_011127185.MP_-scaled.jpg?resize=1542%2C2048&amp;ssl=1 1542w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/PXL_20241102_011127185.MP_-scaled.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/PXL_20241102_011127185.MP_-scaled.jpg?resize=1200%2C1594&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/PXL_20241102_011127185.MP_-scaled.jpg?resize=1568%2C2083&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/PXL_20241102_011127185.MP_-scaled.jpg?resize=2000%2C2656&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/PXL_20241102_011127185.MP_-scaled.jpg?resize=400%2C531&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/PXL_20241102_011127185.MP_-scaled.jpg?resize=706%2C938&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/PXL_20241102_011127185.MP_-scaled.jpg?fit=771%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>San Fernando High School’s (SFHS) Day of the Dead event – called Noche de los Muertos, or Night of the Dead – has grown over the years since it began [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/11/05/san-fernando-highs-night-of-the-dead-continues-to-grow-year-after-year/">San Fernando High’s Night of the Dead Continues to Grow Year After Year</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/11/05/san-fernando-highs-night-of-the-dead-continues-to-grow-year-after-year/>
 
 ---
 
@@ -45,9 +144,9 @@ California's 45th Congressional district, which includes Orange County’s Littl
 
 ---
 
-## Coming soon — Live results: US Representatives
+## Live results: US Representatives
 
-date: 2024-11-05, updated: 2024-11-05, from: The LAist
+date: 2024-11-05, updated: 2024-11-06, from: The LAist
 
 Both parties are looking to flip seats in the U.S. House of Representatives. 
 
@@ -133,6 +232,54 @@ From candidate swaps to assassination attempts, the final months of the campaign
 
 ---
 
+## Live results: LA City Council District 14
+
+date: 2024-11-05, updated: 2024-11-06, from: The LAist
+
+Kevin de León ran for a second term, despite previous calls for his resignation. He faced Ysabel J. Jurado on the ballot. 
+
+<br> 
+
+<https://laist.com/news/politics/2024-election-california-general-los-angeles-city-council-district-14-live-results>
+
+---
+
+## Live results: Measure G
+
+date: 2024-11-05, updated: 2024-11-06, from: The LAist
+
+The initiative calls for an overhaul of L.A. County's power structure. 
+
+<br> 
+
+<https://laist.com/news/politics/2024-election-california-general-measure-g-los-angeles-county-board-of-supervisors-live-results>
+
+---
+
+## Live results: Proposition 33
+
+date: 2024-11-05, updated: 2024-11-06, from: The LAist
+
+Similar measures have already appeared on the ballot twice. Both times, California voters rejected them by wide margins. 
+
+<br> 
+
+<https://laist.com/news/politics/2024-election-california-general-proposition-33-rent-control-live-results>
+
+---
+
+## Live results: Irvine Mayor
+
+date: 2024-11-05, updated: 2024-11-06, from: The LAist
+
+Seven candidates were vying to be Irvine's next mayor. 
+
+<br> 
+
+<https://laist.com/news/politics/2024-election-california-general-irvine-mayor-live-results>
+
+---
+
 ## Live results US President
 
 date: 2024-11-05, updated: 2024-11-05, from: The LAist
@@ -193,18 +340,6 @@ Current Councilmember Paul Krekorian can’t run again because of term limits. C
 
 ---
 
-## Coming soon — Live results: LA City Council District 14
-
-date: 2024-11-05, updated: 2024-11-05, from: The LAist
-
-Kevin de León ran for a second term, despite previous calls for his resignation. He faced Ysabel J. Jurado on the ballot. 
-
-<br> 
-
-<https://laist.com/news/politics/2024-election-california-general-los-angeles-city-council-district-14-live-results>
-
----
-
 ## Coming soon — Live results Santa Ana Measure DD
 
 date: 2024-11-05, updated: 2024-11-05, from: The LAist
@@ -226,18 +361,6 @@ California Proposition 34: Controls spending of certain prescription drug revenu
 <br> 
 
 <https://laist.com/news/politics/2024-election-california-general-proposition-34-prescription-drug-spending-live-results>
-
----
-
-## Coming soon — Live results: Measure G, expanding the Los Angeles County Board of Supervisors
-
-date: 2024-11-05, updated: 2024-11-05, from: The LAist
-
-The initiative calls for an overhaul of L.A. County's power structure. 
-
-<br> 
-
-<https://laist.com/news/politics/2024-election-california-general-measure-g-los-angeles-county-board-of-supervisors-live-results>
 
 ---
 
@@ -286,30 +409,6 @@ Judges can wield significant power. So who’s making those decisions becomes ve
 <br> 
 
 <https://laist.com/news/politics/2024-election-california-general-los-angeles-county-superior-court-judge-live-results>
-
----
-
-## Coming soon — Live results: Proposition 33
-
-date: 2024-11-05, updated: 2024-11-05, from: The LAist
-
-California Proposition 33: Letting California cities pass stronger rent controls 
-
-<br> 
-
-<https://laist.com/news/politics/2024-election-california-general-proposition-33-rent-control-live-results>
-
----
-
-## Coming soon — Live results: Irvine Mayor
-
-date: 2024-11-05, updated: 2024-11-05, from: The LAist
-
-Seven candidates were vying to be Irvine's next mayor. 
-
-<br> 
-
-<https://laist.com/news/politics/2024-election-california-general-irvine-mayor-live-results>
 
 ---
 
@@ -365,7 +464,7 @@ From kittens, birds, and manatees — we’ve got you covered.
 
 date: 2024-11-04, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="628" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Metrobus.jpg?fit=1024%2C628&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Metrobus.jpg?w=1252&amp;ssl=1 1252w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Metrobus.jpg?resize=300%2C184&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Metrobus.jpg?resize=1024%2C628&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Metrobus.jpg?resize=768%2C471&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Metrobus.jpg?resize=1200%2C736&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Metrobus.jpg?resize=400%2C245&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Metrobus.jpg?resize=706%2C433&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Metrobus.jpg?fit=1024%2C628&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="628" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Metrobus.jpg?fit=1024%2C628&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Metrobus.jpg?w=1252&amp;ssl=1 1252w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Metrobus.jpg?resize=300%2C184&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Metrobus.jpg?resize=1024%2C628&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Metrobus.jpg?resize=768%2C471&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Metrobus.jpg?resize=1200%2C736&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Metrobus.jpg?resize=400%2C245&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Metrobus.jpg?resize=706%2C433&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Metrobus.jpg?fit=1024%2C628&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>LOS ANGELES (CNS) &#8211; Metro will offer free rides across its system tomorrow to help voters reach vote centers or drop off mail-in ballots on Election Day. The transit agency [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/11/04/la-metro-to-offer-free-rides-on-election-day/">LA Metro to Offer Free Rides on Election Day</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  

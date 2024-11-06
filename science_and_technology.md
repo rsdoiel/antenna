@@ -1,11 +1,179 @@
 ---
 title: science and technology
-updated: 2024-11-05 15:50:03
+updated: 2024-11-06 06:52:06
 ---
 
 # science and technology
 
-(date: 2024-11-05 15:50:03)
+(date: 2024-11-06 06:52:06)
+
+---
+
+## Sysadmin shock as Windows Server 2025 installs itself after update labeling error
+
+date: 2024-11-06, updated: 2024-11-06, from: The Register (UK I.T. News)
+
+<h4>Screens sprayed with coffee after techies find Microsoft&#39;s latest OS in unexpected places</h4> <p>Administrators are reporting unexpected appearances of Windows Server 2025 after what was published as a security update turned out to be a complete operating system upgrade.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/06/windows_server_2025_surprise/>
+
+---
+
+## AT&amp;T settles claims it misappropriated subsidies, with partial admission of guilt
+
+date: 2024-11-06, updated: 2024-11-06, from: The Register (UK I.T. News)
+
+<h4>Changes at the telco giant called for to prevent future abuse</h4> <p>AT&amp;T settled with the FCC over claims it submitted false information to obtain funding from US broadband subsidy programs for low-income customers. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/06/att_acp_settlement/>
+
+---
+
+## UK orders Chinese biz to sell majority stake in Scottish chipmaker
+
+date: 2024-11-06, updated: 2024-11-06, from: The Register (UK I.T. News)
+
+<h4>Government invokes National Security and Investment Act</h4> <p>The British government has ordered a China-owned entity to sell its stake in a Scottish chip company under the authority of the National Security and Investment Act 2021.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/06/china_ftdi_stake/>
+
+---
+
+## Cyberattackers stole Microlise staff data following DHL, Serco disruption
+
+date: 2024-11-06, updated: 2024-11-06, from: The Register (UK I.T. News)
+
+<h4>Experts say incident has &#39;all the hallmarks of ransomware&#39;</h4> <p>Telematics tech biz Microlise says an attack that hit its network likely did not expose customer data, although staff aren&#39;t so lucky.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/06/microlise_cyberattack/>
+
+---
+
+## Want advice from UK government website about tax 'n' stuff? Talk to the chatbot
+
+date: 2024-11-06, updated: 2024-11-06, from: The Register (UK I.T. News)
+
+<h4>Need to know how to set up a business? There&#39;s an (experimental) AI for that</h4> <p>From the department of &#34;this will go well&#34; comes confirmation UK government is trialling an experimental chatbot with 15,000 business users, who can use it to ask questions about tax and available support.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/06/uk_government_website_chatbot/>
+
+---
+
+## Why we're still waiting for Canonical's immutable Ubuntu Core Desktop
+
+date: 2024-11-06, updated: 2024-11-06, from: The Register (UK I.T. News)
+
+<h4>&#39;First impressions matter&#39; but a KDE flavor is in the making – and more publicly at that</h4> <p><strong>Ubuntu Summit 2024</strong>  At this year&#39;s <a target="_blank" href="https://events.canonical.com/event/51/overview" rel="nofollow">Ubuntu Summit</a> in The Hague, we were really hoping to hear some news about Canonical&#39;s new immutable desktop distro.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/06/ubuntu_core_desktop_waiting/>
+
+---
+
+## Sols 4355-4356: Weekend Success Brings Monday Best
+
+date: 2024-11-06, from: NASA breaking news
+
+Earth planning date: Monday, Nov. 4, 2024 After a spooky week last week, it’s great to see all our weekend plans succeed as planned! We don’t take success for granted as a rover going on 13 years. With all of the science at our fingertips and all the battery power we could need, the team […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4355-4356-weekend-success-brings-monday-best/>
+
+---
+
+## Dow swaps Intel for Nvidia leaving no index free from wild AI volatility
+
+date: 2024-11-06, updated: 2024-11-06, from: The Register (UK I.T. News)
+
+<h4>Won&#39;t make a difference for institutional investors, but retail traders be warned, analyst tells <em>El Reg</em></h4> <p>On Friday, Nvidia will supplant Intel after 25 years as the semiconductor sector&#39;s representative on the Dow Jones Industrial Average.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/06/dow_jones_intel_nvidia/>
+
+---
+
+## Meta gives nod to weaponizing Llama – but only for the good guys
+
+date: 2024-11-06, updated: 2024-11-06, from: The Register (UK I.T. News)
+
+<h4>Change of mind follows discovery China was playing with it uninvited?</h4> <p>Meta has historically restricted its LLMs from uses that could cause harm – but that has apparently changed. The Facebook giant has announced it will allow the US government to use its Llama model family for, among other things, defense and national security applications. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/06/meta_weaponizing_llama_us/>
+
+---
+
+## A new city springs from the rainforest to become Indonesia's tech hub
+
+date: 2024-11-06, updated: 2024-11-06, from: The Register (UK I.T. News)
+
+<h4>Jakarta who? Indonesia&#39;s new capital, Nusantara, is packed with tech</h4> <p>If an entire major city was designed from scratch today, what technologies would be built into its fabric? We&#39;re discovering as we watch Indonesia erect a new capital with tech at its heart.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/06/indonesias_new_capital_nusantara/>
+
+---
+
+## China's Volt Typhoon reportedly breached Singtel in 'test-run' for US telecom attacks
+
+date: 2024-11-06, updated: 2024-11-06, from: The Register (UK I.T. News)
+
+<h4>Alleged intrusion spotted in June</h4> <p>Chinese government cyberspies Volt Typhoon reportedly breached Singapore Telecommunications over the summer as part of their ongoing attacks against critical infrastructure operators.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/06/chinas_volt_typhoon_breached_singtel/>
+
+---
+
+## Mozilla Foundation crumbles as third of staff cast off
+
+date: 2024-11-06, updated: 2024-11-06, from: The Register (UK I.T. News)
+
+<h4>Firefox overlord to &#39;revisit&#39; advocacy mission</h4> <p>The Mozilla Foundation is laying off about a third of its staff. The non-profit org, which oversees the corporation that develops the Firefox web browser, insists it will continue its advocacy mission, though its approach may change.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/06/mozilla_foundation_layoffs/>
+
+---
+
+## Staff can't code? No prob. Singapore superapp's LLM whips up apps for them
+
+date: 2024-11-06, updated: 2024-11-06, from: The Register (UK I.T. News)
+
+<h4>NP-hard to NP at all</h4> <p>Southeast Asia&#39;s Uber-esque superapp, Grab, has developed a tool that allows its employees to build large language model (LLM) apps without coding.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/06/grab_coding_llm/>
+
+---
+
+## Scumbag puts 'stolen' Nokia source code, SSH and RSA keys, more up for sale
+
+date: 2024-11-06, updated: 2024-11-06, from: The Register (UK I.T. News)
+
+<h4>Data pinched from pwned outside supplier, thief claims</h4> <p>IntelBroker, a notorious peddler of stolen data, claims to have pilfered source code, private keys, and other sensitive materials belonging to Nokia.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/06/nokia_data_theft/>
 
 ---
 
@@ -755,9 +923,9 @@ It&#8217;s the start of the work week, so for the IT administrators among us, I 
 
 ## Amazon's nuclear datacenter dreams stall as watchdog rejects power deal
 
-date: 2024-11-04, updated: 2024-11-04, from: The Register (UK I.T. News)
+date: 2024-11-04, updated: 2024-11-06, from: The Register (UK I.T. News)
 
-<h4>Federal Energy Regulatory Commission cites grid stability concerns</h4> <p>Amazon has hit a roadblock in its plans for nuclear-powered US datacenters. Federal regulators rejected a deal that would let it draw more power from a Susquehanna plant to supply new bit barns next to the site, on the grounds this would set a precedent which may affect grid reliability and increase energy costs.…</p> 
+<h4>Federal Energy Regulatory Commission cites grid stability concerns</h4> <p><strong>Updated</strong>  Amazon has hit a roadblock in its plans for nuclear-powered US datacenters. Federal regulators rejected a deal that would let it draw more power from a Susquehanna plant to supply new bit barns next to the site, on the grounds this would set a precedent which may affect grid reliability and increase energy costs.…</p> 
 
 <br> 
 

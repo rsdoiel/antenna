@@ -1,11 +1,138 @@
 ---
 title: central coast
-updated: 2024-11-05 15:50:03
+updated: 2024-11-06 06:52:06
 ---
 
 # central coast
 
-(date: 2024-11-05 15:50:03)
+(date: 2024-11-06 06:52:06)
+
+---
+
+## Winners and Losers in Special District Elections
+
+date: 2024-11-06, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>While most voters have been closely following state and federal elections, special districts for parks, water and fire boards also held elections this week.&#160; Tuesday&#8217;s ballot had contested races for [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/winners-and-loser-in-special-district-elections/">Winners and Losers in Special District Elections</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/winners-and-loser-in-special-district-elections/>
+
+---
+
+## Who Dat?
+
+date: 2024-11-06, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-POD-Ruth-Lane.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Who dat?" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-POD-Ruth-Lane.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-POD-Ruth-Lane.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-POD-Ruth-Lane.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-POD-Ruth-Lane.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-POD-Ruth-Lane.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-POD-Ruth-Lane.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-POD-Ruth-Lane.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-POD-Ruth-Lane.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-POD-Ruth-Lane.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-POD-Ruth-Lane.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-POD-Ruth-Lane.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/101524-POD-Ruth-Lane.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/who-dat/">Who Dat?</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/who-dat/>
+
+---
+
+## Gusty Conditions Lead to Public Safety Power Shutoff in Santa Barbara County
+
+date: 2024-11-06, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A Public Safety Power Shutoff was implemented Tuesday night for some customers in the San Marcos Pass area. Southern California Edison Co. said 551 customers were affected by the shutoff, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/gusty-conditions-lead-to-public-safety-power-shutoffs-in-santa-barbara-county/">Gusty Conditions Lead to Public Safety Power Shutoff in Santa Barbara County</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/gusty-conditions-lead-to-public-safety-power-shutoffs-in-santa-barbara-county/>
+
+---
+
+## Kyle Richards, Jett Black-Maertz, Dave Morris Ahead in SBCC Trustee Races
+
+date: 2024-11-06, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="831" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-sbcc-board-candidate-grid-2.jpg?fit=1024%2C831&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Candidates running for the SBCC Board of Trustees. For Area 2, Kyle Richards and Lisa Sloan, top left and bottom left. For Area 3, Sebastian Aldana Jr. and Jett Black-Maertz, top middle and bottom middle. For Area 4, Aruni Boteju and David Morris, top right and bottom right." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-sbcc-board-candidate-grid-2.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-sbcc-board-candidate-grid-2.jpg?resize=300%2C244&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-sbcc-board-candidate-grid-2.jpg?resize=1024%2C831&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-sbcc-board-candidate-grid-2.jpg?resize=768%2C623&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-sbcc-board-candidate-grid-2.jpg?resize=400%2C325&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100124-sbcc-board-candidate-grid-2.jpg?fit=1024%2C831&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Kyle Richards, Jett Black-Maertz and Dave Morris appeared headed to seats on the Santa Barbara City College Board of Trustees in Tuesday&#8217;s election. Area 2 In the Area 2 race, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/richards-black-maertz-morris-well-ahead-in-sbcc-trustee-races/">Kyle Richards, Jett Black-Maertz, Dave Morris Ahead in SBCC Trustee Races</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/richards-black-maertz-morris-well-ahead-in-sbcc-trustee-races/>
+
+---
+
+## Beall, Banning, Kafri Lead in Santa Barbara School Board Races
+
+date: 2024-11-06, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Sunita Beall, Bill Banning and Celeste Kafri were well ahead Tuesday night in their quest for seats on the Santa Barbara Unified School District board. In the District 2 contest, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/beall-banning-and-kafri-leading-in-santa-barbara-school-board-race/">Beall, Banning, Kafri Lead in Santa Barbara School Board Races</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/beall-banning-and-kafri-leading-in-santa-barbara-school-board-race/>
+
+---
+
+## Mixed Results for Bond Measures for K-12 School Districts
+
+date: 2024-11-06, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Five Santa Barbara County K-12 school districts asked their voters to approve bond measures, and Tuesday night election results revealed a mix of outcomes.  Each bond measure needs more than [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/mixed-results-for-bond-measures-for-k-12-school-district-projects/">Mixed Results for Bond Measures for K-12 School Districts</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/mixed-results-for-bond-measures-for-k-12-school-district-projects/>
+
+---
+
+## Natalia Alarcon Seems Headed to Re-Election to Carpinteria Council
+
+date: 2024-11-06, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>In Carpinteria’s only contested City Council race, Tuesday night results showed Councilwoman Natalia Alarcon well ahead of music teacher Adriana Gonzalez-Smith for the District 2 seat. Alarcon received 57.7% of [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/alarcon-appears-headed-for-re-election-to-carpinteria-city-council/">Natalia Alarcon Seems Headed to Re-Election to Carpinteria Council</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/alarcon-appears-headed-for-re-election-to-carpinteria-city-council/>
+
+---
+
+## Voters Supporting Transient Occupancy Tax Increases Across the County
+
+date: 2024-11-06, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>All four of the local ballot measures to increase transient occupancy tax rates were passing in election night results, according to the Santa Barbara County Elections Office. Visitors staying in [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/transient-occupancy-tax-increases-election-night-results/">Voters Supporting Transient Occupancy Tax Increases Across the County</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/transient-occupancy-tax-increases-election-night-results/>
+
+---
+
+## David Brown Takes Dominant Lead in Solvang Mayoral Race
+
+date: 2024-11-06, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Solvang City Councilman David Brown emerged as a clear leader in the city&#8217;s mayoral race based on early election results Tuesday night. The election for mayor included three candidates: Brown, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/david-brown-clear-leader-in-solvang-mayoral-race/">David Brown Takes Dominant Lead in Solvang Mayoral Race</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/david-brown-clear-leader-in-solvang-mayoral-race/>
 
 ---
 

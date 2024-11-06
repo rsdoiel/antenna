@@ -1,11 +1,23 @@
 ---
 title: writing
-updated: 2024-11-05 15:50:04
+updated: 2024-11-06 06:52:07
 ---
 
 # writing
 
-(date: 2024-11-05 15:50:04)
+(date: 2024-11-06 06:52:07)
+
+---
+
+## Write Now with Scrivener, Episode no. 44: Holly Seddon, Thriller Author
+
+date: 2024-11-06, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/write-now-with-scrivener-episode-no-44-holly-seddon-thriller-author>
 
 ---
 

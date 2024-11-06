@@ -1,11 +1,251 @@
 ---
 title: pacific
-updated: 2024-11-05 15:50:03
+updated: 2024-11-06 06:52:06
 ---
 
 # pacific
 
-(date: 2024-11-05 15:50:03)
+(date: 2024-11-06 06:52:06)
+
+---
+
+## Alameda to become Hawaii County mayor
+
+date: 2024-11-06, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County has elected a new mayor.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/06/hawaii-news/alameda-to-become-hawaii-county-mayor/>
+
+---
+
+## Despite bomb threats and disinformation, a fairly smooth election
+
+date: 2024-11-06, from: Hawaii Tribune Harold
+
+
+				<p>Americans navigated a fraught voting landscape on Election Day as a largely smooth voting process early in the day went on to be buffeted by bomb threats, widespread disinformation and unabated anxiety over the election system.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/06/nation-world-news/despite-bomb-threats-and-disinformation-a-fairly-smooth-election/>
+
+---
+
+## Trump claims ‘powerful mandate’ after Fox News projects he has won US presidency
+
+date: 2024-11-06, from: Hawaii Tribune Harold
+
+
+				<p>PALM BEACH, Fla. &#8212; Republican Donald Trump claimed victory in the 2024 presidential contest after Fox News projected that he had defeated Democrat Kamala Harris, which would cap a stunning political comeback four years after he left the White House.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/06/nation-world-news/trump-claims-powerful-mandate-after-fox-news-projects-he-has-won-us-presidency/>
+
+---
+
+## Japan’s favorite snowy mountain finally has some snow
+
+date: 2024-11-06, from: Hawaii Tribune Harold
+
+
+				<p>Mount Fuji looms large as Japan&#8217;s tallest mountain and one of its most enduring national symbols. Its snowy peak has inspired countless paintings and poems over the centuries, and more recently been featured on travel brochures and merchandise.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/06/nation-world-news/japans-favorite-snowy-mountain-finally-has-some-snow/>
+
+---
+
+## Republicans clinch control of the Senate
+
+date: 2024-11-06, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Republicans seized control of the Senate in Tuesday&#8217;s voting, picking up at least two Democratic seats and protecting their own embattled lawmakers to end four years of Democratic control.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/06/nation-world-news/republicans-clinch-control-of-the-senate/>
+
+---
+
+## Growing food instead of lawns in California front yards
+
+date: 2024-11-06, from: Hawaii Tribune Harold
+
+
+				<p>On a corner lot in Leimert Park in dusty South Los Angeles, not far from Obama and Crenshaw boulevards, sits a curiosity that&#8217;s wildly different from all the neighboring grassy yards. Abundant and lush, it looks like a mash-up between a country idyll and something dreamed up by Dr. Seuss.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/06/nation-world-news/growing-food-instead-of-lawns-in-california-front-yards/>
+
+---
+
+## Boeing’s strike is over. Its problems are not.
+
+date: 2024-11-06, from: Hawaii Tribune Harold
+
+
+				<p>After nearly two months on strike, some 33,000 Boeing employees will return to work over the next week. But getting the troubled manufacturer back on track will take a lot longer.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/06/nation-world-news/boeings-strike-is-over-its-problems-are-not/>
+
+---
+
+## Israeli strikes target Syria for second day in a row
+
+date: 2024-11-06, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; The Israeli military on Tuesday said its air force had struck targets in Syria for the second day in a row, attacks it said were aimed at cutting off the flow of weapons and intelligence between Hezbollah, the armed Lebanese group, and its sponsor, Iran.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/06/nation-world-news/israeli-strikes-target-syria-for-second-day-in-a-row/>
+
+---
+
+## Facing outrage, Nigeria drops capital charges against minors
+
+date: 2024-11-06, from: Hawaii Tribune Harold
+
+
+				<p>Dozens of teenagers, some as young as 14, had been held for nearly three months in a squalid detention center that houses murder suspects. They faced treason charges and possible death sentences for alleged participation in protests against Nigeria&#8217;s government.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/06/nation-world-news/facing-outrage-nigeria-drops-capital-charges-against-minors/>
+
+---
+
+## Search for the missing in Spain grows desperate amid mud and confusion
+
+date: 2024-11-06, from: Hawaii Tribune Harold
+
+
+				<p>MADRID &#8212; Some families in Spain were planning funerals Tuesday, days after their relatives&#8217; bodies were found in the aftermath of floods that killed at least 217 people. Others were still waiting for news, caught between grief and the hope that a missing relative could still be alive somewhere in the muck.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/06/nation-world-news/search-for-the-missing-in-spain-grows-desperate-amid-mud-and-confusion/>
+
+---
+
+## Nation and world news in brief for November 6
+
+date: 2024-11-06, from: Hawaii Tribune Harold
+
+
+				<p>G7 countries and others condemn N. Korean cooperation with Russia</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/06/nation-world-news/nation-and-world-news-in-brief-for-november-6/>
+
+---
+
+## Walmart, other US retailers import fewer Christmas goods ahead of tepid holiday season
+
+date: 2024-11-06, from: Hawaii Tribune Harold
+
+
+				<p>Santa Claus is not delivering as many Christmas trees, toys and decorations to the United States this year as in recent years, import data shows, with retailers including Walmart bringing in less holiday product ahead of what is expected to be a so-so holiday season. Walmart, the world&#8217;s biggest retailer, has slashed Christmas imports deeply, shipping at least 340,000 kilos of products described as &#8220;Christmas&#8221; goods into the U.S. in the 12 months ending Sept. 30, according to U.S. import data provided exclusively to Reuters by ImportYeti. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/06/nation-world-news/walmart-other-us-retailers-import-fewer-christmas-goods-ahead-of-tepid-holiday-season/>
+
+---
+
+## Moylan: Cruz made this year's election 'exciting'
+
+date: 2024-11-06, from: Pacific Island Times
+
+Guam Del. James Moylan, who won his reelection bid on Tuesday, prepares for his second term in Congress, where he is all set to resume some  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/moylan-cruz-made-this-year-s-election-exciting>
+
+---
+
+## Fox News projects Trump wins presidency
+
+date: 2024-11-06, updated: 2024-11-06, from: Marianas Variety
+
+PHILADELPHIA (Reuters) — Fox News projected that Republican Donald Trump has won the U.S. presidency, defeating Democrat Kamala Harris and capping a stunning political comeback four years after he left the White House. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/fox-news-projects-trump-wins-presidency/article_50c40abc-9c0f-11ef-83e3-834d5e856898.html>
+
+---
+
+## 'Empowering and poignant:' When islanders from US territories stand on equal footing with stateside Americans 
+
+date: 2024-11-06, from: Pacific Island Times
+
+By Ron Rocky Coloma   Residents from U.S. territories like Guam and Saipan who have moved to the mainland now find themselves with an... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/empowering-and-poignant-when-islanders-from-us-territories-stand-on-equal-footing-with-stateside>
+
+---
+
+##  Hedged in diplomatic complexity
+
+date: 2024-11-06, from: Pacific Island Times
+
+Guam governor recognizes Taiwan as a country “Taiwan is a great ‘country,’” Gov. Lou Leon Guerrero said during the Taiwan National Day... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/hedged-in-diplomatic-complexity>
+
+---
+
+## Whipps leads Palau's presidential race
+
+date: 2024-11-06, from: Pacific Island Times
+
+By Pacific Island Times News Staff Koror —Unofficial and preliminary results of Palau’s election on Tuesday showed President Surangel... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/whipps-leads-palau-s-presidential-race>
+
+---
+
+## King-Hinds wins five-way race for CNMI delegate seat
+
+date: 2024-11-06, from: Pacific Island Times
+
+By Bryan Manabat Saipan --Republican Kimberlyn King-Hinds won the five-way race for the CNMI delegate seat at Tuesday's midterm... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/king-hinds-wins-5-way-race-for-cnmi-delegate-seat>
 
 ---
 
@@ -36,7 +276,7 @@ The post <a href="https://www.hawaii.edu/news/2024/11/05/hawaiian-word-of-the-we
 
 ## Election 2024 Unofficial Results
 
-date: 2024-11-05, updated: 2024-11-05, from: Marianas Variety
+date: 2024-11-05, updated: 2024-11-06, from: Marianas Variety
 
  
 
@@ -46,33 +286,9 @@ date: 2024-11-05, updated: 2024-11-05, from: Marianas Variety
 
 ---
 
-## ‘Emilia Perez’ movie melds Mexican culture with musical melodies
-
-date: 2024-11-05, updated: 2024-11-05, from: Marianas Variety
-
-LOS ANGELES (Reuters) — For Zoe Saldana, whose parents were Spanish-speaking immigrants to the U.S., getting the opportunity to finally play a Spanish-speaking Latina role makes her latest movie, "Emilia Perez," rather special. 
-
-<br> 
-
-<https://www.mvariety.com/lifestyle/emilia-perez-movie-melds-mexican-culture-with-musical-melodies/article_5ed9779a-9bb0-11ef-b2f4-4345fd09b7d4.html>
-
----
-
-## ‘Heretic’ is a fascinating mix of high discourse, gore and a shifty Hugh Grant
-
-date: 2024-11-05, updated: 2024-11-05, from: Marianas Variety
-
-(AP) — “Heretic” opens with an unusual table setter: Two young missionaries from The Church of Jesus Christ of Latter-day Saints are discussing condoms and why some are labeled as large even though they’re all pretty much a standard size. “What else do we believe because of marketing?” one asks the other. 
-
-<br> 
-
-<https://www.mvariety.com/lifestyle/heretic-is-a-fascinating-mix-of-high-discourse-gore-and-a-shifty-hugh-grant/article_119a5170-9bb0-11ef-967b-e70e55478d2b.html>
-
----
-
 ## Friend of Quincy Jones recalls electricity of all-night jam sessions
 
-date: 2024-11-05, updated: 2024-11-05, from: Marianas Variety
+date: 2024-11-05, updated: 2024-11-06, from: Marianas Variety
 
 CAUX, Switzerland (Reuters) —  A friend of Quincy Jones, the titan of music whose death was announced on Monday, recalled how the all-night jam sessions they used to have during the Montreux Jazz Festival crackled with the electricity between the musicians present. 
 
@@ -82,15 +298,51 @@ CAUX, Switzerland (Reuters) —  A friend of Quincy Jones, the titan of music w
 
 ---
 
+## ‘Heretic’ is a fascinating mix of high discourse, gore and a shifty Hugh Grant
+
+date: 2024-11-05, updated: 2024-11-06, from: Marianas Variety
+
+(AP) — “Heretic” opens with an unusual table setter: Two young missionaries from The Church of Jesus Christ of Latter-day Saints are discussing condoms and why some are labeled as large even though they’re all pretty much a standard size. “What else do we believe because of marketing?” one asks the other. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/heretic-is-a-fascinating-mix-of-high-discourse-gore-and-a-shifty-hugh-grant/article_119a5170-9bb0-11ef-967b-e70e55478d2b.html>
+
+---
+
+## ‘Emilia Perez’ movie melds Mexican culture with musical melodies
+
+date: 2024-11-05, updated: 2024-11-06, from: Marianas Variety
+
+LOS ANGELES (Reuters) — For Zoe Saldana, whose parents were Spanish-speaking immigrants to the U.S., getting the opportunity to finally play a Spanish-speaking Latina role makes her latest movie, "Emilia Perez," rather special. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/emilia-perez-movie-melds-mexican-culture-with-musical-melodies/article_5ed9779a-9bb0-11ef-b2f4-4345fd09b7d4.html>
+
+---
+
 ## Stocks, dollar on tenterhooks with all eyes on US Election Day
 
-date: 2024-11-05, updated: 2024-11-05, from: Marianas Variety
+date: 2024-11-05, updated: 2024-11-06, from: Marianas Variety
 
 SINGAPORE (Reuters) — Stock markets moved sideways and an uneasy calm settled over currencies and bonds as investors waited for the United States to choose a new leader with polls showing the contest on a knife edge. 
 
 <br> 
 
 <https://www.mvariety.com/business/business_news/stocks-dollar-on-tenterhooks-with-all-eyes-on-us-election-day/article_5b8362f0-9baf-11ef-a13a-33482e0083fc.html>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2024-11-05, updated: 2024-11-06, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
 
 ---
 
@@ -596,7 +848,7 @@ The post <a href="https://www.hawaii.edu/news/2024/11/04/womens-soccer-big-west-
 
 date: 2024-11-05, from: University of the South Pacific (Fiji)
 
-<p>As part of the Global Centre for Healthy Agriculture and Food (GCFaH) project, the research...</p>
+<p>As part of the Global Community Food for Planetary Health (GCFPH) project, the research team...</p>
 <p>The post <a href="https://www.usp.ac.fj/news/understanding-the-context-for-community-food-production-cfp/">Understanding the Context for Community Food Production (CFP)</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
  
 

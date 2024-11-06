@@ -1,11 +1,115 @@
 ---
 title: going electric
-updated: 2024-11-05 15:50:06
+updated: 2024-11-06 06:52:08
 ---
 
 # going electric
 
-(date: 2024-11-05 15:50:06)
+(date: 2024-11-06 06:52:08)
+
+---
+
+## Toyota will hold off on EV investment decisions until ‘the very last moment’ as profits slip
+
+date: 2024-11-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Toyota-delaying-electric-SUVs.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Toyota is tightening the reins after seeing its first quarterly profit drop in two years. <span style="margin: 0px; padding: 0px;">To maintain profits, <a href="https://electrek.co/guides/toyota/" target="_blank" rel="noopener">Toyota</a> plans to “hold off on investment decisions until the very last moment,” including EV an</span>d hybrid investments.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="387889" href="https://electrek.co/2024/11/06/toyota-will-hold-off-ev-investments-until-very-last-moment/#more-387889" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/06/toyota-will-hold-off-ev-investments-until-very-last-moment/>
+
+---
+
+## Trump wins, automakers worry, but BMW says it’ll be OK
+
+date: 2024-11-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/BMW-milestone-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Donald Trump wins a second presidential term, and <a href="https://electrek.co/2024/10/16/bmw-head-says-that-europes-ice-ban-is-no-longer-realistic/">BMW’s CEO Oliver Zipse</a> came out with some quick remarks – amid what is likely panic among European automakers – that BMW will be fine because of its “very, very large footprint in the US.” Meanwhile, BMW’s profit margins hit a four-year low.  </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bmw,donald-trump,europe" data-layer-viewtype="unknown" data-post-id="387884" href="https://electrek.co/2024/11/06/trump-wins-automakers-worry-but-bmw-says-itll-be-ok/#more-387884" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/06/trump-wins-automakers-worry-but-bmw-says-itll-be-ok/>
+
+---
+
+## This Brand-New Nissan Leaf Has Been Bricked For Months. Now, Nissan Is Buying It Back
+
+date: 2024-11-06, from: Inside EVs News
+
+Nissan stepped up and did the right thing. 
+
+<br> 
+
+<https://insideevs.com/news/740026/nissan-leaf-bricked-buyback/>
+
+---
+
+## KYMCO RevoNEX electric motorcycle to be built on LiveWire’s platform
+
+date: 2024-11-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/revonex-header-image.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>KYMCO, a leading Taiwanese scooter maker, has just announced the next step in its growing partnership with US-based electric motorcycle company LiveWire. The long-awaited KYMCO RevoNEX electric motorcycle will now be built on the Arrow S2 platform developed by LiveWire.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-motorcycle" data-layer-viewtype="unknown" data-post-id="387875" href="https://electrek.co/2024/11/06/kymco-revonex-electric-motorcycle-to-be-built-on-livewires-platform/#more-387875" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/06/kymco-revonex-electric-motorcycle-to-be-built-on-livewires-platform/>
+
+---
+
+## Suzuki Boss Says Making The Jimny An EV Would “Ruin” It. But Would It?
+
+date: 2024-11-06, from: Inside EVs News
+
+A light, fun, cheap all-electric Jimny would make a lot of sense, albeit a short-range one. 
+
+<br> 
+
+<https://insideevs.com/news/739973/suzuki-jimny-ev-not-happening/>
+
+---
+
+## LiveWire unveils powerful electric maxi-scooter built on its motorcycle platform
+
+date: 2024-11-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/livewire-maxi-scooter-concepts-head-1.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>LiveWire, the electric motorcycle company spun out of Harley-Davidson, is flexing the versatility of the company’s S2 Arrow powertrain with the unveiling of an electric maxi scooter.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-motorcycle,livewire" data-layer-viewtype="unknown" data-post-id="387868" href="https://electrek.co/2024/11/05/livewire-unveils-powerful-electric-maxi-scooter-built-on-its-motorcycle-platform/#more-387868" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/05/livewire-unveils-powerful-electric-maxi-scooter-built-on-its-motorcycle-platform/>
+
+---
+
+## Cybertruck dually, overland Kia concepts, and electric Mopars at SEMA
+
+date: 2024-11-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/dually.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On today’s episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, we find out what a one-ton Tesla Cybertruck looks like, check out some clever, off-road Kia overland EVs, witness the electric rebirth of Plymouth with a plugin street rod, and more!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,quick-charge,sema,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="387855" href="https://electrek.co/2024/11/05/cybertruck-dually-overland-kia-concepts-and-electric-mopars-at-sema/#more-387855" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/05/cybertruck-dually-overland-kia-concepts-and-electric-mopars-at-sema/>
 
 ---
 

@@ -1,11 +1,152 @@
 ---
 title: columns
-updated: 2024-11-05 15:50:04
+updated: 2024-11-06 06:52:06
 ---
 
 # columns
 
-(date: 2024-11-05 15:50:04)
+(date: 2024-11-06 06:52:06)
+
+---
+
+## IoT Devices in Password-Spraying Botnet
+
+date: 2024-11-06, updated: 2024-11-06, from: Bruce Schneier blog
+
+<p>Microsoft is <a href="https://arstechnica.com/information-technology/2024/11/microsoft-warns-of-8000-strong-botnet-used-in-password-spraying-attacks/">warning</a> Azure cloud users that a Chinese controlled botnet is engaging in &#8220;highly evasive&#8221; password spraying. Not sure about the &#8220;highly evasive&#8221; part; the techniques seem basically what you get in a distributed password-guessing attack:</p>
+<blockquote><p>&#8220;Any threat actor using the CovertNetwork-1658 infrastructure could conduct password spraying campaigns at a larger scale and greatly increase the likelihood of successful credential compromise and initial access to multiple organizations in a short amount of time,&#8221; Microsoft officials wrote. &#8220;This scale, combined with quick operational turnover of compromised credentials between CovertNetwork-1658 and Chinese threat actors, allows for the potential of account compromises across multiple sectors and geographic regions.&#8221;...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/11/iot-devices-in-password-spraying-botnet.html>
+
+---
+
+## 2024-11-06 What a nightmare
+
+date: 2024-11-06, from: Alex Schroeder's Blog
+
+<h1 id="2024-11-06-what-a-nightmare">2024-11-06 What a nightmare</h1>
+
+<p>I really hoped that I wouldn&rsquo;t have to extend the link list on Trump I started <a href="2016-11-14_Trump">back in 2016</a> because I didn&rsquo;t understand how he could win.</p>
+
+<p>Then again, I also didn&rsquo;t understand why Bush got re-elected.
+I just read a 20 year old blog post of mine: <a href="2004-11-09_USA">2004-11-09 USA</a> where I was grappling with it.</p>
+
+<p>Trump is truly a setback for my <a href="priorities">priorities</a>.</p>
+
+<p>Fuck this timeline.</p>
+
+<p><a class="account" href="https://mstdn.social/@mattwilcox" title="@mattwilcox@mstdn.social">@mattwilcox</a> said it best:</p>
+
+<blockquote>
+<p>Fascism is the inevitable result of a society with large imbalances of personal security. Which in a capitalist society means large imbalances of wealth.</p>
+
+<p>If your society allows some people to be mega secure and untouchable, while also allowing large portions of it to feel very insecure&hellip; you will become a fascist society, eventually.</p>
+
+<p>Do not allow this. Do not allow excessive wealth stratification. It. will. Destroy. Your. Civilisation.</p>
+</blockquote> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2024-11-06-nightmare>
+
+---
+
+## Why we're still waiting for Canonical's immutable Ubuntu Core Desktop
+
+date: 2024-11-06, updated: 2024-11-06, from: Liam Proven's articles at the Register
+
+<h4><span class="label">Ubuntu Summit 2024</span> &#39;First impressions matter&#39; but a KDE flavor is in the making – and more publicly at that</h4>
+      <p>At this year&#39;s Ubuntu Summit in The Hague, we were really hoping to hear some news about Canonical&#39;s new immutable desktop distro.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/11/06/ubuntu_core_desktop_waiting/>
+
+---
+
+## Office Hours: What if Trump wins it all?
+
+date: 2024-11-06, from: Robert Reich's blog
+
+What should we do? 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-what-will-happen-to>
+
+---
+
+## curl 8.11.0
+
+date: 2024-11-06, from: Daniel Stenberg Blog
+
+curl 8.11.0 is released, featuring one security fix, five changes and 265 bugfixes. 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2024/11/06/curl-8-11-0/>
+
+---
+
+## Now What?
+
+date: 2024-11-06, from: Doc Searls (at Harvard), New Old Blog
+
+It used to be When. But that was yesterday: election day in the U.S. In California, where I voted (by mail), it&#8217;s still 10:30 PM., and the Blue folk are especially blue, because the whole thing is over. Trump hasn&#8217;t won yet, but he will. I correctly predicted a Trump win in 2016, a loss [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2024/11/05/now-what/>
+
+---
+
+## Overnight Status Check
+
+date: 2024-11-06, updated: 2024-11-06, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://talkingpointsmemo.com/edblog/status-check-before-midnight>
+
+---
+
+## The election is just the first step for democracy
+
+date: 2024-11-06, from: Tracy Durnell Blog
+
+Editor&#8217;s note: I am going news-free tonight and haven&#8217;t looked at any results &#8212; pls don&#8217;t tell me! I&#8217;m not doing the doomer thing (and you shouldn&#8217;t either). 🎶 Post soundtrack 🎶 During this election, people have rallied behind the idea of saving democracy &#8212; let&#8217;s use this collective energy and frustration to push for [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2024/11/05/the-election-is-just-the-first-step-for-democracy/>
+
+---
+
+## November 5, 2024
+
+date: 2024-11-06, from: Heather Cox Richardson blog
+
+Today is Election Day, 2024. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/november-5-2024>
+
+---
+
+## ★ Kottke on the Art and Power of Hypertextual Writing
+
+date: 2024-11-05, updated: 2024-11-06, from: Daring Fireball
+
+Italic and bold emphasis are information-density additives. But as Kottke observes, used deftly, hypertext links are an information-density *multiplier*. 
+
+<br> 
+
+<https://daringfireball.net/2024/11/kottke_on_the_art_and_power_of_hypertextual_writing>
 
 ---
 

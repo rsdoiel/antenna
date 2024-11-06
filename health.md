@@ -1,11 +1,35 @@
 ---
 title: health
-updated: 2024-11-05 15:50:05
+updated: 2024-11-06 06:52:08
 ---
 
 # health
 
-(date: 2024-11-05 15:50:05)
+(date: 2024-11-06 06:52:08)
+
+---
+
+## Proteomics of circulating extracellular vesicles reveals diverse clinical presentations of COVID-19 but fails to identify viral peptides
+
+date: 2024-11-06, from: Frontiers in Cellular and Infection Microbiology
+
+Extracellular vesicles (EVs) released by virus-infected cells have the potential to encapsulate viral peptides, a characteristic that could facilitate vaccine development. Furthermore, plasma-derived EVs may elucidate pathological changes occurring in distal tissues during viral infections. We hypothesized that molecular characterization of EVs isolated from COVID-19 patients would reveal peptides suitable for vaccine development. Blood samples were collected from three cohorts: severe COVID-19 patients (G1), mild/asymptomatic cases (G2), and SARS-CoV-2-negative healthcare workers (G3). Samples were obtained at two time points: during the initial phase of the pandemic in early 2020 (m0) and eight months later (m8). Clinical data analysis revealed elevated inflammatory markers in G1. Notably, non-vaccinated individuals in G1 exhibited increased levels of neutralizing antibodies at m8, suggesting prolonged exposure to viral antigens. Proteomic profiling of EVs was performed using three distinct methods: immunocapture (targeting CD9), ganglioside-capture (utilizing Siglec-1) and size-exclusion chromatography (SEC). Contrary to our hypothesis, this analysis failed to identify viral peptides. These findings were subsequently validated through Western blot analysis targeting the RBD of the SARS-CoV-2 Spike protein’s and comparative studies using samples from experimentally infected Syrian hamsters. Furthermore, analysis of the EV cargo revealed a diverse molecular profile, including components involved in the regulation of viral replication, systemic inflammation, antigen presentation, and stress responses. These findings underscore the potential significance of EVs in the pathogenesis and progression of COVID-19. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1442743>
+
+---
+
+## Strain-level genomic analysis of serotype, genotype and virulence gene composition of group B streptococcus
+
+date: 2024-11-06, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionGBS (group B streptococcus) is an opportunistic pathogen that can colonize healthy individuals but presents significant challenges in clinical obstetrics and gynecology, as it can cause miscarriage, preterm birth, and invasive infections in newborns. To develop specific and personalized preventative strategies, a better understanding of the epidemiological characteristics and pathogenic features of GBS is essential.MethodsWe conducted a comprehensive strain-level genomic analysis of GBS, examining serotype and genotype distributions, as well as the composition and correlations of virulence genes using the blastn-short mode of the BLAST program(v2.10.0+), mlstsoftware (https://github.com/tseemann/mlst), Snippy (v4.6.0), FastTree (v2.1.11) and iTOL. The coding sequence region of virulence factors was annotated by Prodigal (v2.6.3) and Glimmer(v3.02b). We further identified host protein interacting with Srr2 by mass spectrometry analysis.ResultsWhile certain genotypes showed strong serotype consistency, there was no significant association between overall serotypes and genotypes. However, the composition of virulence genes was more closely related to the phylogeny of GBS, among which simultaneous presence of Srr2 and HygA exhibit significant association with hypervirulence. Tubulin emerged as the most distinct and abundant hit. The specific interaction of Tubulin with Srr2-BR, rather than Srr1-BR, was further confirmed by immunoblotting.DiscussionConsidering the impact of cytoskeleton rearrangement on GBS pathogenesis, this observation offers a plausible explanation for the hypervirulence triggered by Srr2. Collectively, our findings indicate that in the future clinical practice, virulence gene detection should be given more attention to achieve precise GBS surveillance and disease prevention. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1396762>
 
 ---
 

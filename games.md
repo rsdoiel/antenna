@@ -1,11 +1,59 @@
 ---
 title: games
-updated: 2024-11-05 15:50:04
+updated: 2024-11-06 06:52:07
 ---
 
 # games
 
-(date: 2024-11-05 15:50:04)
+(date: 2024-11-06 06:52:07)
+
+---
+
+## The modders trying to turn Marvel vs. Capcom: Infinite into something beautiful
+
+date: 2024-11-06, updated: 2024-11-06, from: Polygon Website
+
+For more than 25 years, the heroes and villains of the Marvel universe have been trading blows with Capcom’s iconic characters from Street Fighter, Resident Evil, and Mega Man. But we haven’t seen a new entry in the crossover fighting game franchise since 2017, when Capcom released the divisive Marvel vs. Capcom: Infinite. Infinite was [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/474516/marvel-vs-capcom-infinite-beyond-mod-interview>
+
+---
+
+## Everything we know about ‘Switch 2,’ Nintendo’s next-gen console
+
+date: 2024-11-06, updated: 2024-11-06, from: Polygon Website
+
+Nintendo, notoriously secretive, has so far said very little on the record about its next game console. As the Nintendo Switch celebrated its seventh birthday in March 2024, questions about how much longer it will last are natural: Seven years is a typical lifespan for a console generation, Switch sales are falling fast, and the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo/23899504/nintendo-switch-2-release-date-power-name-games>
+
+---
+
+## PS5 Pro review: 2025’s games will make or break it
+
+date: 2024-11-06, updated: 2024-11-05, from: Polygon Website
+
+The PlayStation 5 may be getting older, but don’t count it out just yet. At 4 years old, it’s in much better shape than the PS4 was in when the PS4 Pro stepped in. Notably, 2024 games like Astro Bot and The Last of Us Part 2 Remastered prove how good it still is at [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/474382/ps5-pro-review-sony-playstation-pssr-gpu-games>
+
+---
+
+## Nintendo Switch 2 will be backward-compatible with Switch games
+
+date: 2024-11-06, updated: 2024-11-06, from: Polygon Website
+
+Nintendo announced Tuesday that Nintendo Switch software “will also be playable on the successor to Nintendo Switch,” according to a post from Nintendo’s corporate X account. The post, attributed to Shuntaro Furukawa, president of Nintendo, also confirmed that Nintendo Switch Online will be offered on the new console. No mention was made of compatibility with [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo/449313/switch-2-backward-compatible-games-accessories>
 
 ---
 
