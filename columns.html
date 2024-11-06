@@ -28,35 +28,17 @@
 Items collected from feeds in <a href="columns.txt">columns.txt</a>
 </div>
 <h1 id="columns">columns</h1>
-<p>(date: 2024-11-06 06:52:06)</p>
+<p>(date: 2024-11-06 09:39:25)</p>
 <hr />
-<h2 id="iot-devices-in-password-spraying-botnet">IoT Devices in
-Password-Spraying Botnet</h2>
-<p>date: 2024-11-06, updated: 2024-11-06, from: Bruce Schneier blog</p>
-<p>
-Microsoft is
-<a href="https://arstechnica.com/information-technology/2024/11/microsoft-warns-of-8000-strong-botnet-used-in-password-spraying-attacks/">warning</a>
-Azure cloud users that a Chinese controlled botnet is engaging in
-“highly evasive” password spraying. Not sure about the “highly evasive”
-part; the techniques seem basically what you get in a distributed
-password-guessing attack:
-</p>
-<blockquote>
-<p>
-“Any threat actor using the CovertNetwork-1658 infrastructure could
-conduct password spraying campaigns at a larger scale and greatly
-increase the likelihood of successful credential compromise and initial
-access to multiple organizations in a short amount of time,” Microsoft
-officials wrote. “This scale, combined with quick operational turnover
-of compromised credentials between CovertNetwork-1658 and Chinese threat
-actors, allows for the potential of account compromises across multiple
-sectors and geographic regions.”…
-</p>
-</blockquote>
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-11-06, from: Dave Winer’s Scripting
+News)</p>
+<p>PS: I bet
+<a href="https://www.geekwire.com/2024/jeff-bezos-congratulates-trump-on-extraordinary-comeback-wishes-him-success-in-uniting-america/">Bezos</a>
+wishes he had bought Twitter.</p>
 <p><br></p>
-<p><a
-href="https://www.schneier.com/blog/archives/2024/11/iot-devices-in-password-spraying-botnet.html"
-class="uri">https://www.schneier.com/blog/archives/2024/11/iot-devices-in-password-spraying-botnet.html</a></p>
+<p><a href="http://scripting.com/2024/11/06.html#a173106"
+class="uri">http://scripting.com/2024/11/06.html#a173106</a></p>
 <hr />
 <h2 id="what-a-nightmare">2024-11-06 What a nightmare</h2>
 <p>date: 2024-11-06, from: Alex Schroeder’s Blog</p>
@@ -101,9 +83,595 @@ Do not allow this. Do not allow excessive wealth stratification. It.
 will. Destroy. Your. Civilisation.
 </p>
 </blockquote>
+<p>
+The best defence against many divisive issues is to solve them. To leave
+festering wounds invites further prodding by the troll armies. Start
+small but start early, because soon the prodders are in power, prodding
+ever harder until it all falls apart.
+</p>
+<p>
+Remember that these days, all dictators are voted in. The elections may
+be a farce, but it’s always a legal farce. The people in power may be
+the most corrupt criminals but ever and always they are the ones
+fighting corruption. It’s just that the corruption of their enemies is
+always uncovered and punished whereas their own is hidden in plain
+sight, know to all.
+</p>
+<p>
+Look around at the countries around you. Erdoğan is still in power.
+Putin is still in power. Dictatorships may end eventually, but they take
+a fucking long time to fall. If it takes forty years, I won’t be around
+to see it. It’s hard to wait them out.
+</p>
+<p>
+If you meet somebody thinking about a civil war with armed militia doing
+this or that, I’d say forget about all of that. In the real world,
+revolts that are not decisive inevitably lead to warlordism. Organised
+armed forces will shoot all the wanna-be resistance to bits. The police
+will beat the unarmed resistances into submission.
+</p>
+<p>
+I take solace in the fact that when Stalin was dying and calling for
+help in his office, the attendants just didn’t listen. They didn’t open
+the door and the fucker died alone.
+</p>
+<p>
+<a class="tag" href="/search/?q=%23USA">#USA</a>
+<a class="tag" href="/search/?q=%23Politics">#Politics</a>
+<a class="tag" href="/search/?q=%23Trump">#Trump</a>
+</p>
 <p><br></p>
 <p><a href="https://alexschroeder.ch/view/2024-11-06-nightmare"
 class="uri">https://alexschroeder.ch/view/2024-11-06-nightmare</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-11-06, from: Dave Winer’s Scripting
+News)</p>
+<p>Final note (I think). The pain you feel at first may abate. It did
+for me. I had pushed down memories of 2020 and 2021. It was a horror
+show, and Trump was the main character. So the first thing I had to deal
+with is that I don’t want to remember that. Too painful. But once I
+realized that’s not where we are right now, it’s a totally different
+situation, that’s when the creative impulse rose as the pain receded. We
+have one short term thing to do – keep the campaign running, and long
+term we have to recognize division we add, and counteract it. We are the
+party that welcomes everyone regardless or race, religion, country of
+origin, age or gender. <i>All</i> of them. No exceptions. The election
+result represents big change. And it’s a
+<a href="http://scripting.com/stories/2009/10/21/bruceSterlingAtReboot.html">good
+time</a> to make more changes.</p>
+<p><br></p>
+<p><a href="http://scripting.com/2024/11/06.html#a165446"
+class="uri">http://scripting.com/2024/11/06.html#a165446</a></p>
+<hr />
+<h2 id="upgrading-gotosocial-from-16.0-to-17.1">2024-10-27 Upgrading
+GoToSocial from 16.0 to 17.1</h2>
+<p>date: 2024-11-06, from: Alex Schroeder’s Blog</p>
+<h1 id="2024-10-27-upgrading-gotosocial-from-16-0-to-17-1">
+2024-10-27 Upgrading GoToSocial from 16.0 to 17.1
+</h1>
+<p>
+Here’s something to watch out for, if you’re like me: Disable all the
+infrastructure that watches over your processes. In my case, the problem
+was Monit. It checks the website every five minutes and if it fails to
+connect for three times in a row it restarts the server, breaking the
+migration. 😭
+</p>
+<pre><code>systemctl stop gotosocial
+# prevent systemctl from restarting it
+systemctl disable gotosocial
+# prevent monit from interrupting the migration with a restart!
+monit unmonitor gotosocial
+# backup!
+mkdir backup
+cp sqlite.db backup/
+</code></pre>
+<p>
+Now you’re ready to extract the new version over the old one, compare
+your config file with the example provided, and start it again.
+</p>
+<pre><code>systemctl enable gotosocial
+systemctl start gotosocial
+journalctl --unit gotosocial --follow
+</code></pre>
+<p>
+Don’t be like me and start Monit because my Monit config checks the URL
+every five minutes and restarts GoToSocial if the site is not up. Which
+is a big problem if migration takes more than a handful of minutes.
+</p>
+<p>
+I ended up with a borked migration restart loop and ended up stopping it
+all again, overwriting the borked database file with the backup, and
+redoing it.
+</p>
+<p>
+<a class="tag" href="/search/?q=%23Administration">#Administration</a>
+<a class="tag" href="/search/?q=%23GoToSocial">#GoToSocial</a>
+</p>
+<p>
+<strong>2024-10-28</strong>. Another thing to note for the GoToSocial
+upgrade is that I ran 16.0 using a systemd MemoryMax of 200M; today the
+upgraded instance with 17.1 ran fine for a while and then locked up. A
+restart didn’t bring it back. It remained stuck after a log message
+saying “compiling WebAssembly”. I increased MemoryMax to 300M, no
+change. I increased it to 500M and the instance came up. Just in case
+you’re as memory-stingy as I am…
+</p>
+<p>
+In order to avoid future compilation,
+<a class="account" href="https://gts.superseriousbusiness.org/@dumpsterqueer" title="@dumpsterqueer@superseriousbusiness.org"><span
+class="citation" data-cites="dumpsterqueer">@dumpsterqueer</span></a>
+pointed me at this:
+</p>
+<blockquote>
+<p>
+You can instruct GoToSocial on where to store the Wazero artifacts by
+setting the environment variable
+<code>GTS_WAZERO_COMPILATION_CACHE</code> to a directory, which will be
+used by GtS to store two smallish artifacts of ~50MiB or so each
+(~100MiB total). –
+<a href="https://docs.gotosocial.org/en/latest/configuration/#gts_wazero_compilation_cache">Configuration
+Overview</a>
+</p>
+</blockquote>
+<p>
+I’ll try that.
+</p>
+<p>
+It looks like a side-effect of GoToSocial implementing the direct
+messages API is that the Toot! App I’m using is showing me all my former
+direct messages using it’s special user interface (those bubbles on the
+right hand side). I have to open every single one of them to dismiss it.
+🤨
+</p>
+<p>
+<strong>2024-10-29</strong>. Today I read that the botsin.space instance
+was shutting down. I figured I might start thinking about creating a
+second account for my blog on my own instance. I tried to run
+<code>./gotosocial admin account create</code> a few times, forgetting
+this or that parameter. And then I noticed that the replies I saw
+scrolling by always ended in an error message. In fact, there were more
+such error messages in my log files: “database disk image is malformed”
+😱
+</p>
+<p>
+The <code>.recover</code> command didn’t work when I tried it:
+</p>
+<pre><code># sqlite3 sqlite.db &quot;.recover&quot; | sqlite3 new.db
+sql error: SQL logic error (1)
+</code></pre>
+<p>
+So then I tried the following:
+</p>
+<pre><code>monit unmonitor gotosocial
+systemctl stop gotosocial
+sqlite3 sqlite.db &quot;.dump&quot; &gt; db.sql
+mkdir backup
+mv sqlite.db backup/
+sudo -u gotosocial sqlite3 sqlite.db &lt; db.sql
+gzip backup/sqlite.db
+gzip db.sql
+</code></pre>
+<p>
+Some errors that I saw:
+</p>
+<p>
+A few lines about accounts with no account_uri even though that was a
+NOT NULL column.
+</p>
+<p>
+Many, many such lines:
+</p>
+<pre><code>no such table: sqlite_stat4
+</code></pre>
+<p>
+Then this one:
+</p>
+<pre><code>NOT NULL constraint failed: conversations.thread_id (19)
+</code></pre>
+<p>
+I started to feel bad about the whole thing.
+</p>
+<p>
+I aborted the operation. The gzip command hadn’t finished, yet. I
+restored the old database file.
+</p>
+<pre><code>mv backup/sqlite.db .
+systemctl start gotosocial
+</code></pre>
+<p>
+As it turns out, now my GoToSocial instance seems to be unreachable. The
+service starts, <code>htop</code> shows processes churning. The log
+shows i/o timeouts and “No Content: wrote 0B” log messages scrolling by.
+Oof! 😓
+</p>
+<p>
+Looking at the timestamps again, it seems that the recovery command left
+a <code>sqlite.db-shm</code> and a <code>sqlite.db-wal</code> file in
+place.
+</p>
+<pre><code>-rw-r--r--     1 gotosocial gotosocial 10445488128 29. Okt 22:47 sqlite.db
+-rw-r--r--     1 gotosocial gotosocial       32768 29. Okt 23:19 sqlite.db-shm
+-rw-r--r--     1 gotosocial gotosocial      341992 29. Okt 23:19 sqlite.db-wal
+</code></pre>
+<p>
+That can’t be right. So I’m going to stop <code>gotosocial</code>, move
+these two files away, and start it again.
+</p>
+<p>
+Sadly, no luck.
+</p>
+<p>
+Perhaps there is a database recovery going on? I can’t tell. This time
+around I see the typical startup messages, something about “recovered
+queued tasks”, about 12 requests that look like regular requests, and
+then nothing.
+</p>
+<p>
+I’ll let it run for a bit.
+</p>
+<p>
+I restarted it again. It seems to work?
+</p>
+<p>
+<strong>2024-10-30</strong>. The database is still corrupt in some way.
+There are a lot of errors. Here are two examples:
+</p>
+<blockquote>
+<p>
+error dereferencing remote status … : enrichStatus: failed to
+dereference status author … : enrichAccount: error putting in database:
+sqlite3: database disk image is malformed (code=11 extended=11)
+</p>
+<p>
+0xc0091c61e0: error processing: CreateAnnounce: error dereferencing
+announce: EnrichAnnounce: error fetching boost target … : enrichStatus:
+failed to dereference status author … : enrichAccount: error putting in
+database: sqlite3: database disk image is malformed (code=11
+extended=11)
+</p>
+</blockquote>
+<p>
+There’s something about these authors that’s not working.
+</p>
+<p>
+The code in <code>account.go</code>:
+</p>
+<pre><code>// This is new, put it in the database.
+err := d.state.DB.PutAccount(ctx, latestAcc)
+if err != nil {
+    return nil, nil, gtserror.Newf(&quot;error putting in database: %w&quot;, err)
+}
+</code></pre>
+<p>
+I feel that this is where things are going wrong. Something about the
+accounts table.
+</p>
+<p>
+I’m going to make an offline copy of the <code>sqlite.db</code> file.
+Sadly the <code>.recover</code> doesn’t work on my laptop, either.
+</p>
+<pre><code>$ sqlite3 sqlite.db &quot;.recover&quot; &gt; data.sql
+sql error: SQL logic error (1)
+</code></pre>
+<p>
+Not looking good! I’m going to try the dump.
+</p>
+<pre><code>sqlite3 sqlite.db &quot;.dump&quot; &gt; data.sql
+sqlite3 recovery.db &lt; data.sql 2&gt;&amp;1 |tee recovery.log
+</code></pre>
+<p>
+Let’s look at the log file and list the errors!
+</p>
+<table>
+<thead>
+<tr>
+<th align="left">
+Occurences
+</th>
+<th>
+Type
+</th>
+<th>
+Error
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">
+454
+</td>
+<td>
+Runtime error
+</td>
+<td>
+UNIQUE constraint failed: media_attachments.id
+</td>
+</tr>
+<tr>
+<td align="left">
+69
+</td>
+<td>
+Runtime error
+</td>
+<td>
+NOT NULL constraint failed: accounts.uri
+</td>
+</tr>
+<tr>
+<td align="left">
+2111
+</td>
+<td>
+Parse error
+</td>
+<td>
+no such table: sqlite_stat4
+</td>
+</tr>
+<tr>
+<td align="left">
+1
+</td>
+<td>
+Runtime error
+</td>
+<td>
+NOT NULL constraint failed: conversations.thread_id
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+I ended up filing
+<a href="https://github.com/superseriousbusiness/gotosocial/issues/3499">an
+issue</a>.
+</p>
+<p>
+And then, later that day, I used <code>.dump</code>. This time around,
+there was a <code>COMMIT</code> at the end of the dump, so no change was
+required.
+</p>
+<pre><code>sqlite3 sqlite.db &quot;.dump&quot; &gt; data.sql
+tail data.sql  # verify that there is a COMMIT at the end
+sqlite3 recovery.db &lt; data.sql 2&gt;&amp;1 |tee recovery.log
+rsync --archive --itemize-changes recovery.db &quot;sibirocobombus.root:/home/gotosocial/sqlite.db&quot;
+</code></pre>
+<p>
+The recovery log showed all the errors mentioned above, and I used the
+new database anyway.
+</p>
+<p>
+<strong>2024-10-31</strong>. Currently the instance is locking up every
+few minutes, as far as I can tell. 😰
+</p>
+<p>
+<strong>2024-11-06</strong>. The instance has been stable these days!
+</p>
+<p><br></p>
+<p><a href="https://alexschroeder.ch/view/2024-10-27-upgrade-gotosocial"
+class="uri">https://alexschroeder.ch/view/2024-10-27-upgrade-gotosocial</a></p>
+<hr />
+<h2 id="the-day-after-field-notes">(The Day After) Field Notes</h2>
+<p>date: 2024-11-06, from: Om Malik blog</p>
+<p>The chatbots-as-search paradigm encourages us to just accept answers
+as given, especially when they are stated in terms that are both
+friendly and authoritative. The chatbot interface invites you to just
+sit back and take the appealing-looking AI slop as if it were
+“information.” Emily Bender, Prof, Linguistics, UW By The Numbers Worth
+Reading  R.I.P  …</p>
+<p><br></p>
+<p><a href="https://om.co/2024/11/06/the-day-after-field-notes/"
+class="uri">https://om.co/2024/11/06/the-day-after-field-notes/</a></p>
+<hr />
+<h2 id="the-resistance-starts-now">The Resistance Starts Now</h2>
+<p>date: 2024-11-06, from: Robert Reich’s blog</p>
+<p>I still have faith in America, but we must mobilize to protect those
+at risk if Trump achieves his worst impulses.</p>
+<p><br></p>
+<p><a
+href="https://robertreich.substack.com/p/the-resistance-starts-now"
+class="uri">https://robertreich.substack.com/p/the-resistance-starts-now</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-11-06, from: Dave Winer’s Scripting
+News)</p>
+<p>“Richest man in the world” doesn’t begin to cover Musk’s ambition. He
+wants “all the money in the world.”</p>
+<p><br></p>
+<p><a href="http://scripting.com/2024/11/06.html#a155539"
+class="uri">http://scripting.com/2024/11/06.html#a155539</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-11-06, from: Dave Winer’s Scripting
+News)</p>
+<p>Also to the Twitter founders, amassing that much power and
+centralizing it as Twitter did, had a cost that we’re paying now. But
+it’s very hard to stop when the juggernaut is rolling. I understand, but
+in the future we have to think about this more clearly. <b>When a medium
+becomes too big and centralized, there’s trouble ahead</b>. It was
+accidental that Trump was the one to take advantage of this to route
+around journalism and go direct, but it was not accidential that Musk
+did.</p>
+<p><br></p>
+<p><a href="http://scripting.com/2024/11/06.html#a152508"
+class="uri">http://scripting.com/2024/11/06.html#a152508</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-11-06, from: Dave Winer’s Scripting
+News)</p>
+<p>My longtime friend, Mike Arrington
+<a href="https://x.com/arrington/status/1854134938120994912">said</a>
+next time have a primary. He has a point. Would Harris have been the
+nominee if the Dems had had a normal primary process? Who knows. Maybe
+the voters could have told us then that what happened yesterday was
+coming.</p>
+<p><br></p>
+<p><a href="http://scripting.com/2024/11/06.html#a152050"
+class="uri">http://scripting.com/2024/11/06.html#a152050</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-11-06, from: Dave Winer’s Scripting
+News)</p>
+<p>Speaking of Musk, maybe he will temper Trump’s desire for
+retribution. It may be a vain hope, but I’ll cling to it anyway. Doing
+business in a world of retribution might not be too conducive to the
+creativity needed to run innovative tech businesses. A climate of fear
+doesn’t inspire great software. I know the quality of products Musk
+makes, I own and love my Tesla Model Y. Best car I’ve ever owned or
+driven.</p>
+<p><br></p>
+<p><a href="http://scripting.com/2024/11/06.html#a151847"
+class="uri">http://scripting.com/2024/11/06.html#a151847</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-11-06, from: Dave Winer’s Scripting
+News)</p>
+<p>Ben Thompson wrote in his
+<a href="https://stratechery.com/">Stratechery</a> newsletter: “What is
+fascinating is how this fundamentally transforms any attempt to evaluate
+the Twitter acquisition. From a business perspective it’s a massive
+failure, and might always be: Musk paid too much for Twitter as it was,
+and in the intervening years the flight of advertisers from the platform
+has made it worth even less. From a Musk Inc. perspective, however, X
+played a pivotal role in ensuring that the incoming administration will
+do whatever Musk needs at the exact moment that SpaceX is gaining the
+capabilities to actually make a trip to Mars, if only the FAA in
+particular will give him the freedom to do so. That alone is almost
+certainly worth $44 billion to Musk!” I wrote in 2017, that
+<a href="http://scripting.com/2017/01/14/whatIfTwtrIsBoughtByARepub.html">some
+Repub would buy Twitter</a>, and it would merge and thus transform
+politics and tech. This was obvious, but for some reason I was the only
+one who saw it. We could have headed this off, if people would just
+listen. I beg you to listen to people you don’t usually listen to. The
+NYT will never hire someone like me to write on their op-ed page, so if
+you only accept your input from people with legit credentials, you’ll
+miss insights like this. We’re paying a heavy price for this now. When I
+begged people to listen they came back with the balance sheet valuation
+of Twitter, but they were leaving the most important asset off the
+balance sheet, the dollar value of being able to elect a president. Musk
+<a href="http://scripting.com/2024/10/31.html#a140612">didn’t</a> miss
+this.</p>
+<p><br></p>
+<p><a href="http://scripting.com/2024/11/06.html#a151335"
+class="uri">http://scripting.com/2024/11/06.html#a151335</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-11-06, from: Dave Winer’s Scripting
+News)</p>
+<p>Speaking of Carville,
+<a href="https://podcasts.apple.com/us/podcast/election-day-special-edition-feat-james-carville/id1523896927?i=1000675748922">yesterday’s
+Trippi podcast</a> with Carville as the only guest was the <b>best
+podcast</b> I’ve ever heard. I recommended it yesterday as
+inspirational. Now that we know the outcome of the election, it’s a
+marker of where we were before the results were known. A world that no
+longer exists. But like stories written in 2016, the markers are useful
+to see where we once were and how we got here, and what we can learn
+from what happened between. I wish it had turned out the way these two
+great friends thought it should have. But it didn’t. But there was a
+hint that they knew what wouldn’t work this time. No spoilers.</p>
+<p><br></p>
+<p><a href="http://scripting.com/2024/11/06.html#a151138"
+class="uri">http://scripting.com/2024/11/06.html#a151138</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-11-06, from: Dave Winer’s Scripting
+News)</p>
+<p>Be generous with all classes of people, by gender, age, race,
+religion, whatever is used to divide us. Stop
+<a href="https://www.google.com/search?q=vilifying">vilifying</a> men.
+<a href="https://www.cnn.com/videos/politics/2021/11/05/don-lemon-james-carville-democrats-stupid-wokeness-newday-vpx.cnn">Carville
+was right</a>. There’s no reason to make one whole gender the scapegoat
+for all our problems. It’s no accident that the Repubs own the men. We
+could probably have had ten percent or more of their voters if we
+stopped doing this. Key point, when you blame a whole gender, you hurt
+people who have no power to stop it.</p>
+<p><br></p>
+<p><a href="http://scripting.com/2024/11/06.html#a150124"
+class="uri">http://scripting.com/2024/11/06.html#a150124</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-11-06, from: Dave Winer’s Scripting
+News)</p>
+<p>Blame is pointless. It may be emotionally satisfying at some level,
+but it is division, and that’s why we keep losing elections. We don’t
+see it but we create our own divisions. This must stop.</p>
+<p><br></p>
+<p><a href="http://scripting.com/2024/11/06.html#a150114"
+class="uri">http://scripting.com/2024/11/06.html#a150114</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-11-06, from: Dave Winer’s Scripting
+News)</p>
+<p>First thing – <b>Don’t shut down the campaign</b>. We must keep
+communicating with the electorate, independent of what they get from the
+news orgs. The Harris campaign did an exemplary job. Why shut it down.
+Keep setting the agenda. Help keep us organized. Preserve the
+perspective and expectation of democracy in the US. Change the message
+from raising money, to keeping us all in touch with the opposition (ie
+us). This is the mistake we made in every election since we had the web
+to organize. The Repubs, almost by accident, never stopped organizing.
+And now that Musk, who will be part of the new administration, owns
+Twitter, you can be sure they will stay and get more organized. We can
+do it too! We have to stop making this mistake of going back to zero
+after election, whether we win or lost.</p>
+<p><br></p>
+<p><a href="http://scripting.com/2024/11/06.html#a145605"
+class="uri">http://scripting.com/2024/11/06.html#a145605</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-11-06, from: Dave Winer’s Scripting
+News)</p>
+<p>In 2016, on the night of Election Day, when it was obvious Trump
+would win, before taking a Xanax and going to sleep, I wrote a
+<a href="http://scripting.com/2016/11/09/whyTrump.html">piece</a>, that
+my friend Chuck Shotton
+<a href="https://bsky.app/profile/mrwheat.bsky.social/post/3labvjcfh2j2k">says</a>
+I should run again. Rather than doing that, I’ll quote the important
+part. “I don’t think it’s about economics, I think it’s about change
+happening too fast. And the Trump voters had the power to bring it to a
+screeching halt, they saw the chance and took it.”</p>
+<p><br></p>
+<p><a href="http://scripting.com/2024/11/06.html#a145357"
+class="uri">http://scripting.com/2024/11/06.html#a145357</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2024-11-06, from: Dave Winer’s Scripting
+News)</p>
+<p>I prayed. I really did. But I got the wrong answer.</p>
+<p><br></p>
+<p><a href="http://scripting.com/2024/11/06.html#a145303"
+class="uri">http://scripting.com/2024/11/06.html#a145303</a></p>
+<hr />
+<h2 id="iot-devices-in-password-spraying-botnet">IoT Devices in
+Password-Spraying Botnet</h2>
+<p>date: 2024-11-06, updated: 2024-11-06, from: Bruce Schneier blog</p>
+<p>
+Microsoft is
+<a href="https://arstechnica.com/information-technology/2024/11/microsoft-warns-of-8000-strong-botnet-used-in-password-spraying-attacks/">warning</a>
+Azure cloud users that a Chinese controlled botnet is engaging in
+“highly evasive” password spraying. Not sure about the “highly evasive”
+part; the techniques seem basically what you get in a distributed
+password-guessing attack:
+</p>
+<blockquote>
+<p>
+“Any threat actor using the CovertNetwork-1658 infrastructure could
+conduct password spraying campaigns at a larger scale and greatly
+increase the likelihood of successful credential compromise and initial
+access to multiple organizations in a short amount of time,” Microsoft
+officials wrote. “This scale, combined with quick operational turnover
+of compromised credentials between CovertNetwork-1658 and Chinese threat
+actors, allows for the potential of account compromises across multiple
+sectors and geographic regions.”…
+</p>
+</blockquote>
+<p><br></p>
+<p><a
+href="https://www.schneier.com/blog/archives/2024/11/iot-devices-in-password-spraying-botnet.html"
+class="uri">https://www.schneier.com/blog/archives/2024/11/iot-devices-in-password-spraying-botnet.html</a></p>
 <hr />
 <h2
 id="why-were-still-waiting-for-canonicals-immutable-ubuntu-core-desktop">Why
