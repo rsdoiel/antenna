@@ -1,11 +1,380 @@
 ---
 title: socal north
-updated: 2024-11-06 09:39:23
+updated: 2024-11-07 08:17:50
 ---
 
 # socal north
 
-(date: 2024-11-06 09:39:23)
+(date: 2024-11-07 08:17:50)
+
+---
+
+## Best things to do this weekend in Los Angeles and Southern California: November 8 - 10
+
+date: 2024-11-07, updated: 2024-11-07, from: The LAist
+
+Kick off your holiday cheer Mariah Carey-style, see works in the NOW Festival at REDCAT, Ice at Santa Monica opens for skating, explore the Inglewood Open Studios Art Walk and more. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-this-weekend-los-angeles-southern-california-november-8-10>
+
+---
+
+## 'Particularly dangerous' wildfire conditions with Santa Ana wind gusts reaching up to 80 mph
+
+date: 2024-11-07, updated: 2024-11-07, from: The LAist
+
+We're monitoring wildfires as Santa Ana winds get stronger and create dangerous situations. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/wildfire-conditions-worsen-with-santa-ana-winds-gusts-reaching-up-to-80-mph>
+
+---
+
+## Donald Trump Has Sweeping Plans for a Second Administration. Here’s What He’s Proposed
+
+date: 2024-11-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>By Bill Barrow Associated Press WASHINGTON (AP) — Donald Trump has promised sweeping action in a second administration. The former president and now president-elect often skipped over details but through more [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/11/07/donald-trump-has-sweeping-plans-for-a-second-administration-heres-what-hes-proposed/">Donald Trump Has Sweeping Plans for a Second Administration. Here’s What He’s Proposed</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/11/07/donald-trump-has-sweeping-plans-for-a-second-administration-heres-what-hes-proposed/>
+
+---
+
+## 3 ‘unique and unexpected’ museums that will help you explore LA
+
+date: 2024-11-07, updated: 2024-11-07, from: The LAist
+
+A new book features 64 museums that will help you understand history and culture. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/also-on-view-museums-todd-lerew-los-angeles>
+
+---
+
+## Using old school analog tech to teach kids about the digital world
+
+date: 2024-11-07, updated: 2024-11-07, from: The LAist
+
+Reducing the digital divide in South East L.A. one soldering iron at a time. 
+
+<br> 
+
+<https://laist.com/news/using-old-school-analog-tech-to-teach-kids-about-the-digital-world>
+
+---
+
+## Grupos Defensores de los Derechos de los Inmigrantes se Preparan para Otra Presidencia de Trump
+
+date: 2024-11-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311472658704_elsol.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311472658704_elsol.jpg?w=2410&amp;ssl=1 2410w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311472658704_elsol.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311472658704_elsol.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311472658704_elsol.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311472658704_elsol.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311472658704_elsol.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311472658704_elsol.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311472658704_elsol.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311472658704_elsol.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311472658704_elsol.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311472658704_elsol.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311472658704_elsol.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311472658704_elsol.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311472658704_elsol.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Los inmigrantes, especialmente los de América Latina, han sido un foco central de la campaña electoral del presidente electo Donald Trump, y los grupos de derechos de los inmigrantes se [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/11/06/grupos-defensores-de-los-derechos-de-los-inmigrantes-se-preparan-para-otra-presidencia-de-trump/">Grupos Defensores de los Derechos de los Inmigrantes se Preparan para Otra Presidencia de Trump</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/11/06/grupos-defensores-de-los-derechos-de-los-inmigrantes-se-preparan-para-otra-presidencia-de-trump/>
+
+---
+
+## Se Espera que la Medida A Impulse los Servicios para Ayudar a Combatir y Prevenir la Falta de Vivienda
+
+date: 2024-11-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?w=2100&amp;ssl=1 2100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Jayohn Carlton recuerda vívidamente cómo era experimentar la falta de vivienda cuando era niño. Durante más de dos años, Carlton y su madre vivieron principalmente en el coche de ella, [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/11/06/se-espera-que-la-medida-a-impulse-los-servicios-para-ayudar-a-combatir-y-prevenir-la-falta-de-vivienda/">Se Espera que la Medida A Impulse los Servicios para Ayudar a Combatir y Prevenir la Falta de Vivienda</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/11/06/se-espera-que-la-medida-a-impulse-los-servicios-para-ayudar-a-combatir-y-prevenir-la-falta-de-vivienda/>
+
+---
+
+## Horóscopo
+
+date: 2024-11-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Holiday Mathis (Creators.com) ARIES (21 de mar &#8211; 19 de abr) Tu mente volará hacia una oportunidad, una relación o un esfuerzo que no lograste llevar a cabo. La [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/11/06/horoscopo-188/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/11/06/horoscopo-188/>
+
+---
+
+## EVENTOS Locales – Semana de 7 de noviembre, 2024
+
+date: 2024-11-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Viernes, Noviembre 8 Dinero en Efectivo para Cámaras en Woodland Hills Camera 5348 California 27 Woodland Hills 9 a.m. – 12 p.m. Ven a Woodland Hills Camera por dinero en [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/11/06/eventos-locales-semana-de-7-de-noviembre-2024/">EVENTOS Locales &#8211; Semana de 7 de noviembre, 2024</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/11/06/eventos-locales-semana-de-7-de-noviembre-2024/>
+
+---
+
+## Ponte al Día Rápidamente: Esto es lo Que Sucedió con los Resultados de las Elecciones de California Mientras Dormías
+
+date: 2024-11-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Por Ryan Sabalow y Sameea KamalCalMatters Mientras que los republicanos celebraron una ola roja a nivel nacional, los votantes de California afirmaron la sólida política azul del estado, y los [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/11/06/ponte-al-dia-rapidamente-esto-es-lo-que-sucedio-con-los-resultados-de-las-elecciones-de-california-mientras-dormias/">Ponte al Día Rápidamente: Esto es lo Que Sucedió con los Resultados de las Elecciones de California Mientras Dormías</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/11/06/ponte-al-dia-rapidamente-esto-es-lo-que-sucedio-con-los-resultados-de-las-elecciones-de-california-mientras-dormias/>
+
+---
+
+## Victoria García y Patty López Lideran la Carrera por el Concejo Municipal de San Fernando
+
+date: 2024-11-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="904" height="520" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?fit=904%2C520&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?w=904&amp;ssl=1 904w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?resize=300%2C173&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?resize=768%2C442&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?resize=400%2C230&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?resize=706%2C406&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?fit=904%2C520&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>La titular del Concejo Municipal de San Fernando, Victoria García, y la ex asambleísta del estado de California, Patty López, lideran actualmente entre los cinco candidatos que compiten por dos [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/11/06/victoria-garcia-y-patty-lopez-lideran-la-carrera-por-el-concejo-municipal-de-san-fernando/">Victoria García y Patty López Lideran la Carrera por el Concejo Municipal de San Fernando</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/11/06/victoria-garcia-y-patty-lopez-lideran-la-carrera-por-el-concejo-municipal-de-san-fernando/>
+
+---
+
+## Aún hay que contar los votos finales para la Medida G
+
+date: 2024-11-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Los resultados de las semifinales de las elecciones del martes mostraron que los votantes estaban divididos casi en partes iguales sobre la Medida G, con los votos a favor liderando [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/11/06/aun-hay-que-contar-los-votos-finales-para-la-medida-g/">Aún hay que contar los votos finales para la Medida G</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/11/06/aun-hay-que-contar-los-votos-finales-para-la-medida-g/>
+
+---
+
+## Hochman Derrota a Gascón en la Carrera por el Cargo de Fiscal de Distrito del Condado de Los Ángeles
+
+date: 2024-11-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>LOS ÁNGELES (CNS) &#8211; El condado de Los Ángeles tendrá un nuevo fiscal de distrito, con el ex fiscal federal Nathan Hochman derrotando fácilmente al titular George Gascón, cuyas políticas [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/11/06/hochman-derrota-a-gascon-en-la-carrera-por-el-cargo-de-fiscal-de-distrito-del-condado-de-los-angeles/">Hochman Derrota a Gascón en la Carrera por el Cargo de Fiscal de Distrito del Condado de Los Ángeles</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/11/06/hochman-derrota-a-gascon-en-la-carrera-por-el-cargo-de-fiscal-de-distrito-del-condado-de-los-angeles/>
+
+---
+
+## ‘Encuentro 2024: Estamos Aqui – Presente!’
+
+date: 2024-11-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?w=2100&amp;ssl=1 2100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?resize=1200%2C801&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Diecinueve compañías de teatro y 165 artistas de todo Estados Unidos., Puerto Rico y México han estado en Los Ángeles para el Encuentro 2024: Estamos Aquí &#8211; ¡Presente!, en The [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/11/06/encuentro-2024-estamos-aqui-presente/">‘Encuentro 2024: Estamos Aqui &#8211; Presente!’</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/11/06/encuentro-2024-estamos-aqui-presente/>
+
+---
+
+## HB's Measure U would give voters more say over housing — and it's heading to victory
+
+date: 2024-11-07, updated: 2024-11-07, from: The LAist
+
+Huntington Beach may be back on a collision course with Sacramento. 
+
+<br> 
+
+<https://laist.com/news/politics/huntington-beach-measure-u-live-results>
+
+---
+
+## Southern California races for several seats in Congress still too close to call
+
+date: 2024-11-07, updated: 2024-11-07, from: The LAist
+
+Ballots are still being counted, but Republican incumbents have early leads in the vote count. 
+
+<br> 
+
+<https://laist.com/news/politics/2024-election-california-general-congressional-races-results-analysis>
+
+---
+
+## LA County supervisors approve lower annual rent hikes
+
+date: 2024-11-07, updated: 2024-11-07, from: The LAist
+
+It’ll apply to many tenants in the county’s unincorporated areas. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/la-county-supervisors-approve-lower-annual-rent-hikes>
+
+---
+
+## City of Santa Clarita Named 2024 Most Business-Friendly City Finalist
+
+date: 2024-11-06, from: City of Santa Clarita
+
+<p>The Los Angeles County Economic Development Corporation (LAEDC) has once again recognized the City of Santa Clarita as a finalist for the prestigious 2024 &#8220;Most Business-Friendly City&#8221; award in the category of large cities (population over 60,000). The winner will be announced TONIGHT (November 6) at the 29th Annual Eddy Awards ceremony, which will take [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/11/06/city-of-santa-clarita-named-2024-most-business-friendly-city-finalist/">City of Santa Clarita Named 2024 Most Business-Friendly City Finalist</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/11/06/city-of-santa-clarita-named-2024-most-business-friendly-city-finalist/>
+
+---
+
+## Community Development Block Grant Funding
+
+date: 2024-11-06, from: City of Santa Clarita
+
+<p>Santa Clarita Non-Profits Invited to Apply for 2025-2026 Funding Cycle The City of Santa Clarita (City) is pleased to announce the release of the 2025-2026 Notice of Funding Availability (NOFA) and has scheduled informational meetings for organizations interested in applying for 2025-2026 Community Development Block Grant (CDBG) funding. The City invites non-profit organizations that serve low [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/11/06/community-development-block-grant-funding/">Community Development Block Grant Funding</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/11/06/community-development-block-grant-funding/>
+
+---
+
+## **Traffic Advisory Update** Upcoming Lane Closures on McBean Parkway and Newhall Ranch Road
+
+date: 2024-11-06, from: City of Santa Clarita
+
+<p>Median Modifications to Begin on November 13 Beginning Wednesday, November 13, crews will begin the construction of median modifications, paving, grinding and overlay operations along portions of McBean Parkway at Newhall Ranch Road that will add a left turn lane on northbound McBean Parkway, enhancing traffic circulation. &#160; The following closures will be in place [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/11/06/traffic-advisory-update-upcoming-lane-closures-on-mcbean-parkway-and-newhall-ranch-road/">**Traffic Advisory Update** Upcoming Lane Closures on McBean Parkway and Newhall Ranch Road</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/11/06/traffic-advisory-update-upcoming-lane-closures-on-mcbean-parkway-and-newhall-ranch-road/>
+
+---
+
+## How has the Electoral College survived, despite being perennially unpopular?
+
+date: 2024-11-06, updated: 2024-11-07, from: The LAist
+
+Despite its substantial-sounding name, the Electoral College isn’t a permanent body: It’s more of a process. For decades, a majority of Americans have wanted it to be changed. 
+
+<br> 
+
+<https://laist.com/news/politics/how-has-the-electoral-college-survived-despite-being-perennially-unpopular>
+
+---
+
+## Voters support school funding measures, union-backed candidates lead LAUSD board races
+
+date: 2024-11-06, updated: 2024-11-07, from: The LAist
+
+With a majority of votes counted in L.A. County, candidates in two of the three open seats on the LAUSD school board appear to have solid leads. 
+
+<br> 
+
+<https://laist.com/news/politics/los-angeles-unified-lausd-election-results-measure-us-proposition-2-2024>
+
+---
+
+## LA County voters split evenly on proposal to expand Board of Supervisors
+
+date: 2024-11-06, updated: 2024-11-06, from: The LAist
+
+Measure G, if passed, would changesa county governance structure that has mostly stayed the same since 1912 when L.A. County had a population of about 500,000 people. 
+
+<br> 
+
+<https://laist.com/news/politics/2024-election-california-general-los-angeles-measure-g-results-analysis>
+
+---
+
+## Campaign to raise LA County sales taxes for homelessness efforts claims victory
+
+date: 2024-11-06, updated: 2024-11-07, from: The LAist
+
+Measure A asked voters to continue a tax that funds homeless services, and increase it for new housing development efforts. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/2024-election-california-general-los-angeles-measure-a-results-analysis>
+
+---
+
+## Early results show Santa Ana voters rejecting measure that would allow non US-citizens to vote
+
+date: 2024-11-06, updated: 2024-11-06, from: The LAist
+
+The Orange County city was poised to become the first city in California to allow non-US citizens to vote if Measure DD passed. 
+
+<br> 
+
+<https://laist.com/news/politics/2024-election-california-general-orange-santa-ana-noncitizens-voting-analysis>
+
+---
+
+## Still at 0% containment, Mountain Fire in Ventura continues charge toward ocean
+
+date: 2024-11-06, updated: 2024-11-07, from: The LAist
+
+A fast-burning fire in the mountains is being pushed by exceptionally strong and dry Santa Ana winds, burning thousands of acres, destroying homes and forcing evacuations 
+
+<br> 
+
+<https://laist.com/news/climate-environment/broad-fire-mountain-fire-santa-ana-winds>
+
+---
+
+## What we know so far about LA and OC voter turnout in the 2024 general election
+
+date: 2024-11-06, updated: 2024-11-07, from: The LAist
+
+A look at how many showed up to vote in the Nov. 5 presidential election, either in person or by mail, and how it compares to previous elections. 
+
+<br> 
+
+<https://laist.com/news/politics/voter-turnout-2024-general-la-orange-county>
+
+---
+
+## Fernando Valenzuela funeral: Fans, loved ones mourn Dodger great
+
+date: 2024-11-06, updated: 2024-11-06, from: The LAist
+
+The pitching star was one of the most popular Dodgers of all-time and a transformative figure in Major League Baseball. 
+
+<br> 
+
+<https://laist.com/news/fernando-valenzuela-funeral>
 
 ---
 

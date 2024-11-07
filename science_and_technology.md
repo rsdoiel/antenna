@@ -1,11 +1,323 @@
 ---
 title: science and technology
-updated: 2024-11-06 09:39:24
+updated: 2024-11-07 08:17:51
 ---
 
 # science and technology
 
-(date: 2024-11-06 09:39:24)
+(date: 2024-11-07 08:17:51)
+
+---
+
+## Arm's royalty revenues boom, execs talk up hopes for AI bonanza
+
+date: 2024-11-07, updated: 2024-11-07, from: The Register (UK I.T. News)
+
+<h4>Q2 climbs 23% on Armv9 adoption, but licensing dips</h4> <p>Smartphone chip champ Arm is crowing over expanding royalty revenues, driven by uptake of Armv9 technology, yet execs can&#39;t stop talking up AI as its future money spinner.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/07/arm_q2_2025/>
+
+---
+
+## Nolanverse Batmobile leaps barrier between film and reality – but it'll cost you
+
+date: 2024-11-07, updated: 2024-11-07, from: The Register (UK I.T. News)
+
+<h4>Got a spare $2.9 million lying around? Asking for a friend ...</h4> <p>If you fancy yourself a Batman aficionado – and you have Bruce Wayne levels of spending money sitting around – you could be one of the lucky few to score a working, licensed reproduction of The Tumbler from Christopher Nolan&#39;s Dark Knight trilogy. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/07/the_batmobile_is_real_and_expensive/>
+
+---
+
+## Attention Students: NASA Launches Power Systems Student Essay Contest
+
+date: 2024-11-07, from: NASA breaking news
+
+NASA’s fourth annual Power to Explore Student Challenge kicked off November 7, 2024. The science, engineering, technology, and mathematics (STEM) writing challenge invites kindergarten through 12th grade students in the United States to learn about radioisotope power systems, a type of nuclear battery integral to many of NASA’s far-reaching space missions. Students are invited to [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/attention-students-nasa-launches-power-systems-student-essay-contest/>
+
+---
+
+## The Register takes AMD's Ryzen 9800X3D for a spin
+
+date: 2024-11-07, updated: 2024-11-07, from: The Register (UK I.T. News)
+
+<h4>Zen 5 3D V-cache is here at last, and priced at $479 – one for the gamers or multi-purpose desktop chip for all?</h4> <p><strong>Review</strong>  AMD is officially launching its hotly anticipated next-gen X3D desktop processors based on the Zen 5 architecture today, which means <em>The Register</em> can let you know about the 8-core Ryzen 9800X3D we&#39;ve personally taken for a spin.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/07/amd_ryzen_9800x3d_review/>
+
+---
+
+## SpaceX plans next Starship flight just days from now
+
+date: 2024-11-07, updated: 2024-11-07, from: The Register (UK I.T. News)
+
+<h4>Hands up who wants to see the &#39;chopsticks&#39; catch the Super Heavy again?</h4> <p>SpaceX will make its next Starship launch attempt on November 18, if all goes to plan – and may also try another catch of the Super Heavy Booster, depending on conditions.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/07/spacex_plans_next_starship_flight/>
+
+---
+
+## Killer app for AI is still years away, says industry analyst
+
+date: 2024-11-07, updated: 2024-11-07, from: The Register (UK I.T. News)
+
+<h4>IT spend set to rise nonetheless and it&#39;s not all about wundertech</h4> <p>Three is the magic number, or more specifically the amount of time in years before a killer app emerges that helps businesses more usefully use generative AI to drive meaingful producitivty gains.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/07/it_spend_europe_2025/>
+
+---
+
+## Cisco scores a perfect CVSS 10 with critical flaw in its wireless system
+
+date: 2024-11-07, updated: 2024-11-07, from: The Register (UK I.T. News)
+
+<h4>Ultra-Reliable Wireless Backhaul doesn&#39;t live up to its name</h4> <p>Cisco is issuing a critical alert notice about a flaw that makes its so-called Ultra-Reliable Wireless Backhaul systems easy to subvert.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/07/cisco_uiws_flaw/>
+
+---
+
+## Euro execs extend net zero timescales amid energy cost and supply crunch
+
+date: 2024-11-07, updated: 2024-11-07, from: The Register (UK I.T. News)
+
+<h4>Environmental, social, and governance? Cutting money spent on power is CEOs&#39; priority</h4> <p>Chief execs in key European countries are pushing back on net zero commitments to focus on their core business, in the face of a volatile energy market with rising costs and supply issues.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/07/euro_execs_lengthen_net_zero/>
+
+---
+
+## Another official four-day week pilot kicks off in the UK
+
+date: 2024-11-07, updated: 2024-11-07, from: The Register (UK I.T. News)
+
+<h4>Nation&#39;s favorite cloud-slinger, AWS, unlikely to be taking part</h4> <p>A fresh pilot of a four-day working week is currently taking place in the UK, despite several tech giants recently mandating five days a week in the office for their staff.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/07/uk_4_day_workweek/>
+
+---
+
+## Officials warn of Russia's tech-for-troops deal with North Korea amid Ukraine conflict
+
+date: 2024-11-07, updated: 2024-11-07, from: The Register (UK I.T. News)
+
+<h4>10,000 of Kim Jong Un&#39;s soldiers believed to be headed for front line</h4> <p>The EU has joined US and South Korean officials in expressing concern over a Russian transfer of technology to North Korea in return for military assistance against Ukraine.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/07/russia_tech_transfer_north_korea/>
+
+---
+
+## AI chip startup Tenstorrent to train Japan's engineers in $50M government deal
+
+date: 2024-11-07, updated: 2024-11-07, from: The Register (UK I.T. News)
+
+<h4>Government wants to make semiconductors big on home turf again</h4> <p>Japan has asked AI chip startup Tenstorrent to train up to 200 chip designers from the country at its US offices over the course of five years to help inject new blood into Japan’s semiconductor industry.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/07/tenstorrent_japan_training/>
+
+---
+
+## iPod fans evade Apple’s DRM to preserve 54 lost clickwheel-era games
+
+date: 2024-11-06, from: OS News
+
+Old-school Apple fans probably remember a time, just before the iPhone became a massive gaming platform in its own right, when Apple released a wide range of games designed for late-model clickwheel iPods. While those clickwheel-controlled titles didn&#8217;t exactly set the gaming world on fire, they represent an important historical stepping stone in Apple&#8217;s long journey through the game industry. Today, though, these clickwheel iPod games are on the verge of becoming lost media—impossible to buy or redownload from iTunes and protected on existing devices by incredibly strong Apple DRM. Now, the classic iPod community is engaged in a quest to preserve these games in a way that will let enthusiasts enjoy these titles on real hardware for years to come. ↫ Kyle Orland at Ars Technica A nice effort, of course, and I&#8217;m glad someone is putting time and energy into preserving these games and making them accessible to a wider audience. As is usual with Apple, these small games were heavily encumbered with DRM, being locked to both the the original iTunes account that bought them, but also to the specific hardware identifier of the iPod they were initially synchronised to using iTunes. A clever way around this DRM exists, and it involves collectors and enthusiasts creating reauthorising their iTunes accounts to the same iTunes installation, and thus adding their respective iPod games to that single iTunes installation. Any other iPods can then be synced to that master account. The iPod Clickwheel Games Preservation Project takes this approach to the next level, by setting up a Windows virtual machine with iTunes installed in it, which can then be shared freely around the web for people to the games to their collection. This is a rather remarkably clever method of ensuring these games remain accessible, but obviously does require knowledge of setting up Qemu and USB passthrough. I personally never owned an iPod &#8211; I was a MiniDisc fanatic until my Android phone took over the role of music player &#8211; so I also had no clue these games even existed. I assume most of them weren&#8217;t exactly great to control with the limited input method of the iPod, but that doesn&#8217;t mean there won&#8217;t be huge numbers of people who have fond memories of playing these games when they were younger &#8211; and thus, they are worth preserving. We can only hope that one day, someone will create a virtual machine that can run the actual iPod operating system, called Pixo OS. 
+
+<br> 
+
+<https://www.osnews.com/story/141085/ipod-fans-evade-apples-drm-to-preserve-54-lost-clickwheel-era-games/>
+
+---
+
+## Cybercrooks are targeting Bengal cat lovers in Australia for some reason
+
+date: 2024-11-06, updated: 2024-11-06, from: The Register (UK I.T. News)
+
+<h4>In case today’s news cycle wasn’t shocking enough, here’s a gem from Sophos</h4> <p>Fresh from a series of serious reports detailing its five-year battle with Chinese cyberattackers, Sophos has dropped a curious story about users of a popular infostealer-cum-RAT targeting a niche group of victims.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/06/bengal_cat_australia/>
+
+---
+
+## Notepad gets “AI”
+
+date: 2024-11-06, from: OS News
+
+Nothing is sacred. With this update, we are introducing the ability to rewrite content in Notepad with the help of generative AI. You can rephrase sentences, adjust the tone, and modify the length of your content based on your preferences to refine your text. ↫ Dave Grochocki at the Windows Insider Blog This is the reason everything is going to shit. 
+
+<br> 
+
+<https://www.osnews.com/story/141083/notepad-gets-ai/>
+
+---
+
+## A Cloned Ferret Has Given Birth for the First Time in History, Marking a Win for Her Endangered Species
+
+date: 2024-11-06, from: Smithsonian Magazine
+
+Antonia, a cloned black-footed ferret at the Smithsonian's National Zoo and Conservation Biology Institute, has produced two healthy offspring that will help build genetic diversity in their recovering population 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-cloned-ferret-has-given-birth-for-the-first-time-in-history-marking-a-win-for-her-endangered-species-180985411/>
+
+---
+
+## Integrating Relevant Science Investigations into Migrant Children Education
+
+date: 2024-11-06, from: NASA breaking news
+
+For three weeks in August, over 100 migrant children (ages 3-15) got to engage in hands-on activities involving blueberries, pollinators, and eDNA as part of their time with The Blueberry Harvest School (BHS). BHS is a summer school program for migrant children whose families work in Washington County, Maine during the wild blueberry harvest season. […] 
+
+<br> 
+
+<https://science.nasa.gov/learning-resources/science-activation/integrating-relevant-science-investigations-into-migrant-children-education/>
+
+---
+
+## A Nazi-Looted Painting Recovered by the Monuments Men During World War II Is Going on Sale
+
+date: 2024-11-06, from: Smithsonian Magazine
+
+When the war ended, Allied soldiers tracked down Nicolas de Largillierre's "Portrait de femme à mi-corps" with the help of a savvy French curator who had been working for the resistance 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-nazi-looted-painting-recovered-by-the-monuments-men-during-world-war-ii-is-going-on-sale-180985398/>
+
+---
+
+## Mars 2020 Perseverance Joins NASA’s Here to Observe Program
+
+date: 2024-11-06, from: NASA breaking news
+
+The Mars 2020 Perseverance mission has recently joined the NASA Here to Observe (H2O) program, where NASA planetary missions are partnered with universities to encourage undergraduate students from historically marginalized groups to pursue a career in STEM. 
+
+<br> 
+
+<https://science.nasa.gov/blog/mars-2020-perseverance-joins-nasas-here-to-observe-program/>
+
+---
+
+## X-59’s Engine Started for Testing
+
+date: 2024-11-06, from: NASA breaking news
+
+NASA’s X-59 quiet supersonic research aircraft sits in its run stall at Lockheed Martin’s Skunk Works facility in Palmdale, California, in this image from Oct. 30, 2024. The engine-run tests, which began Oct. 30, allow the X-59 team to verify the aircraft’s systems are working together while powered by its own engine. In previous tests, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/x-59s-engine-started-for-testing/>
+
+---
+
+## Intel sued over Raptor Lake voltage instability
+
+date: 2024-11-06, updated: 2024-11-06, from: The Register (UK I.T. News)
+
+<h4>Failure to warn customers about chip flaw leads to fraud claim</h4> <p>Intel was sued in a federal court in San Jose, California, on Tuesday, based on claims that the chipmaker&#39;s 13th and 14th generation desktop processors from 2022 and 2023 are defective.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/06/intel_sued_over_raptor_lake_chips/>
+
+---
+
+## What Makes the Dark, Whimsical World of Tim Burton So Compelling?
+
+date: 2024-11-06, from: Smithsonian Magazine
+
+An exhibition in London is showcasing more than 600 artworks and artifacts—including costumes, props and sketches—from the famous filmmaker’s career 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/what-makes-the-dark-whimsical-world-of-tim-burton-so-compelling-180985370/>
+
+---
+
+## Meet Haggis, the Latest Baby Pygmy Hippo to Win Over the Internet
+
+date: 2024-11-06, from: Smithsonian Magazine
+
+Born October 30 to parents Gloria and Otto at the Edinburgh Zoo in Scotland, the hippo is already gaining popularity, following in the footsteps of viral sensation Moo Deng 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/meet-haggis-the-latest-baby-pygmy-hippo-to-win-over-the-internet-180985413/>
+
+---
+
+## Arecibo telescope might have failed because of weak sockets
+
+date: 2024-11-06, updated: 2024-11-06, from: The Register (UK I.T. News)
+
+<h4>Electromagnetic radiation contributed to that zincing feeling: analysts</h4> <p>The collapse of the 305-meter telescope at Arecibo Observatory in 2020 is being attributed to zinc creep – slow deformation due to stress – in the telescope&#39;s cable spelter sockets, according to a committee report from the National Academies of Sciences, Engineering, and Medicine.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/06/arecibo_telescope_failure_analysis/>
+
+---
+
+## El X-59 enciende su motor por primera vez rumbo al despegue
+
+date: 2024-11-06, from: NASA breaking news
+
+Read this story in English here. La misión Quesst de la NASA ha alcanzado un hito importante con el inicio de las pruebas de motor que propulsará el silencioso avión supersónico experimental X-59. Estas pruebas de arranque del motor, que comenzaron el 30 de octubre, permiten al equipo del X-59 verificar el funcionamiento conjunto de [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/es/el-x-59-enciende-su-motor-por-primera-vez-rumbo-al-despegue/>
+
+---
+
+## The World's Earliest Writing System May Have Been Influenced by Older Symbols Found on Stone 'Cylinder Seals'
+
+date: 2024-11-06, from: Smithsonian Magazine
+
+Thousands of years ago, our ancestors used symbols to track the sale of textile and agricultural products. New research suggests that these markings informed the development of writing 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-worlds-earliest-writing-system-may-have-been-influenced-by-older-symbols-found-on-stone-cylinder-seals-180985406/>
+
+---
+
+## Voyager 1 Breaks Its Silence With NASA via a Radio Transmitter Not Used Since 1981
+
+date: 2024-11-06, from: Smithsonian Magazine
+
+The farthest spacecraft in the universe went momentarily rogue, but scientists breathed a sigh of relief when it reconnected at an unexpected radio frequency 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/voyager-1-breaks-its-silence-with-nasa-via-a-radio-transmitter-not-used-since-1981-180985399/>
 
 ---
 
@@ -18,6 +330,30 @@ date: 2024-11-06, updated: 2024-11-06, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2024/11/06/torvalds_patch_linux_performance/>
+
+---
+
+## X-59 Fires Up its Engine for First Time on its Way to Takeoff
+
+date: 2024-11-06, from: NASA breaking news
+
+Lee esta historia en español aquí. NASA’s Quesst mission marked a major milestone with the start of tests on the engine that will power the quiet supersonic X-59 experimental aircraft. These engine-run tests, which began Oct. 30, allow the X-59 team to verify the aircraft’s systems are working together while powered by its own engine. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/aeronautics/x-59-fires-up-its-engine-for-first-time-on-its-way-to-takeoff/>
+
+---
+
+## NASA Knows – How Can I Get Involved With NASA Research?
+
+date: 2024-11-06, from: NASA breaking news
+
+NASA provides a variety of pathways for those outside the agency to contribute to authentic and meaningful research. Whether you’re a student pursuing a degree in STEM (science, technology, engineering, or mathematics), an educator looking for new ways to engage your classroom, or a citizen scientist enthusiastic about sharing your observations, there’s a wide array [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/learning-resources/get-involved-with-nasa-research/>
 
 ---
 

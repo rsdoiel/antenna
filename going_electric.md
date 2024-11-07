@@ -1,11 +1,351 @@
 ---
 title: going electric
-updated: 2024-11-06 09:39:27
+updated: 2024-11-07 08:17:53
 ---
 
 # going electric
 
-(date: 2024-11-06 09:39:27)
+(date: 2024-11-07 08:17:53)
+
+---
+
+## Nissan cuts 9,000 jobs and goes into ’emergency’ mode
+
+date: 2024-11-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Nissan-LEAF-sales.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Nissan is in full-throttle emergency mode to save itself: the automaker is cutting 9,000 jobs, slashing production capacity, and selling off its stake in Mitsubishi Motors. The CEO is also reducing his own salary by half.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nissan,nissan-ariya,nissan-leaf" data-layer-viewtype="unknown" data-post-id="388169" href="https://electrek.co/2024/11/07/nissan-cuts-9000-jobs-and-goes-into-emergency-mode/#more-388169" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/07/nissan-cuts-9000-jobs-and-goes-into-emergency-mode/>
+
+---
+
+## Kia’s 2025 Niro EV remains one of the most affordable electric vehicles at under $40,000
+
+date: 2024-11-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/2025-Kia-Niro-EV-prices.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/kia/">Kia</a> revealed prices for the all-electric 2025 Niro EV crossover SUV on Thursday. Starting at under $40,000, the 2025 Kia Niro remains among the most affordable electric vehicles  — even cheaper than most gas-powered cars.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-niro-ev" data-layer-viewtype="unknown" data-post-id="388137" href="https://electrek.co/2024/11/07/2025-kia-niro-ev-one-of-most-affordable-evs-under-40k/#more-388137" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/07/2025-kia-niro-ev-one-of-most-affordable-evs-under-40k/>
+
+---
+
+## EV Startup Canoo Is In Trouble
+
+date: 2024-11-07, from: Inside EVs News
+
+Canoo's furloughing of nearly a quarter of its workers feels more like moving the chairs around on the deck of the Titanic than a fix. 
+
+<br> 
+
+<https://insideevs.com/news/740072/canoo-lays-off-staff-trouble/>
+
+---
+
+## Mexico wants to know if Tesla still plans to build its Gigafactory there after Trump’s win
+
+date: 2024-11-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/03/Tesla-Gigafactory-Mexico.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Mexico wants to ask Elon Musk if Tesla still plans to build its ‘Gigafactory Mexico’ now that Trump has won the elections.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-gigafactory-mexico" data-layer-viewtype="unknown" data-post-id="388144" href="https://electrek.co/2024/11/07/mexico-wants-to-know-if-tesla-still-plans-to-build-its-gigafactory-there-after-trumps-win/#more-388144" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/07/mexico-wants-to-know-if-tesla-still-plans-to-build-its-gigafactory-there-after-trumps-win/>
+
+---
+
+## BYD puts the brakes on its Canada launch – for now
+
+date: 2024-11-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/BYD-new-Seal-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BYD has decided to stall its plans to enter Canada, deterred by the country’s 100% federal tariffs on EVs imported from China. But here’s how BYD will likely make the move to enter the US or Canada anyway.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="388140" href="https://electrek.co/2024/11/07/byd-puts-the-brakes-on-its-canada-launch-for-now/#more-388140" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/07/byd-puts-the-brakes-on-its-canada-launch-for-now/>
+
+---
+
+## Nissan Enters 'Emergency Recovery Mode'
+
+date: 2024-11-07, from: Inside EVs News
+
+Plus, Rivian pooh-poohs full self-driving dreams and the "re-buttoning" is on the horizon. 
+
+<br> 
+
+<https://insideevs.com/news/740101/nissan-enters-emergency-recovery-mode/>
+
+---
+
+## Mercedes-AMG is building its first super electric SUV from scratch: Here’s a sneak peek
+
+date: 2024-11-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Mercedes-AMG-super-electric-SUV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A new full-size off-road luxury electric SUV is poised to shake up the market. <a href="https://electrek.co/guides/mercedes-amg/">Mercedes-AMG</a> just previewed its first standalone super electric SUV, which will take its first test drive this summer.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mercedes,mercedes-amg" data-layer-viewtype="unknown" data-post-id="388125" href="https://electrek.co/2024/11/07/mercedes-amg-teases-first-super-electric-suv-built-from-scratch/#more-388125" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/07/mercedes-amg-teases-first-super-electric-suv-built-from-scratch/>
+
+---
+
+## Archer Aviation signs a joint venture with Soracle to bring eVTOL air taxi services to Japan
+
+date: 2024-11-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Air-taxi-Japan-Soracle-Archer.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Japan is quickly becoming a hub for eVTOL and air taxi technology. This morning, <a href="https://electrek.co/guides/archer-aviation/">Archer Aviation</a> announced it is the latest sustainable aviation developer to sign a deal in the region and implement aerial taxi transportation, beginning with Soracle Corporation’s purchase of up to 100 Midnight eVTOL aircraft.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="air-taxi,archer-aviation,evtol,japan,soracle" data-layer-viewtype="unknown" data-post-id="387992" href="https://electrek.co/2024/11/07/archer-aviation-signs-a-joint-venture-with-soracle-to-bring-evtol-air-taxi-services-to-japan/#more-387992" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/07/archer-aviation-signs-a-joint-venture-with-soracle-to-bring-evtol-air-taxi-services-to-japan/>
+
+---
+
+## Rivian and Lucid shares take a dive while Tesla soars
+
+date: 2024-11-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Rivians-legal-battle-Tesla.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>What’s the Trump effect on the EV market? Depends: Smaller players like Rivian and Lucid are potentially at risk, while Tesla has the scale, profitability, and Trump connection to make it work, despite major shifts that are sure to come. Here’s the scoop on how a second Trump term may play out among automakers:</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid-motors,rivian,tesla" data-layer-viewtype="unknown" data-post-id="388117" href="https://electrek.co/2024/11/07/rivian-and-lucid-shares-take-a-dive-while-tesla-soars/#more-388117" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/07/rivian-and-lucid-shares-take-a-dive-while-tesla-soars/>
+
+---
+
+## New Mercedes-AMG SUV Will Be An 'AMG First, All-Electric Second'
+
+date: 2024-11-07, from: Inside EVs News
+
+It will be a high-riding alternative to the upcoming AMG GT four-door EV. 
+
+<br> 
+
+<https://insideevs.com/news/740168/mercedes-amg-electric-suv-teaser/>
+
+---
+
+## The Carmaker Behind The Shelby Cobra Is Building A Brand-New Retro-Flavored EV
+
+date: 2024-11-07, from: Inside EVs News
+
+It’s called the AC Ace Classic Electric and it’s beautiful. It’s also very light, despite packing a 72-kWh battery. 
+
+<br> 
+
+<https://insideevs.com/news/740140/ac-ace-classic-ev-roadster-tremec/>
+
+---
+
+## Tesla Model S Plaid Gets The Police Cruiser Treatment
+
+date: 2024-11-07, from: Inside EVs News
+
+It’s one of the fastest police vehicles in the world and the first unit will go to the Los Angeles County Sheriff’s Department. 
+
+<br> 
+
+<https://insideevs.com/news/740114/tesla-model-s-plaid-police-cruiser-sheriff/>
+
+---
+
+## Tesla police cruiser, Trump voters love solar, and at least the mines will be nice
+
+date: 2024-11-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/live-in-fear.png?w=1600" /></div><p>On today’s episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, I, for one, welcome our new insect overlords. I’d like to remind them that, as a trusted media personality, I can be helpful in rounding up others to toil in their underground <s>sugar caves</s> cobalt mines.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="donald-trump,quick-charge,solar-power,tesla" data-layer-viewtype="unknown" data-post-id="388096" href="https://electrek.co/2024/11/06/tesla-police-cruiser-trump-voters-love-solar-and-at-least-the-mines-will-be-nice/#more-388096" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/06/tesla-police-cruiser-trump-voters-love-solar-and-at-least-the-mines-will-be-nice/>
+
+---
+
+## 78% of Trump voters support Biden’s clean energy incentives
+
+date: 2024-11-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/sunrun-solar_panels_1500x900_v1.jpg?quality=82&#038;strip=all&#038;w=1500" /></div><p>Support for Biden’s federal clean energy incentives cuts across party lines – 78% of 2020 Trump voters support them. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,donald-trump,egeb,energy-brief,solar,president-biden,solar-power,wind-power" data-layer-viewtype="unknown" data-post-id="379284" href="https://electrek.co/2024/11/06/78-percent-trump-voters-support-biden-clean-energy-incentives/#more-379284" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/06/78-percent-trump-voters-support-biden-clean-energy-incentives/>
+
+---
+
+## Tesla and Mercedes-Benz recognized for their ‘human rights diligence’ in making EVs
+
+date: 2024-11-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Screenshot-2024-11-06-at-4.09.32 PM.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Amnesty International recognized Tesla and Mercedes-Benz for their “human rights diligence” in manufacturing their electric vehicles.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mercedes-benz,tesla" data-layer-viewtype="unknown" data-post-id="388073" href="https://electrek.co/2024/11/06/tesla-and-mercedes-benz-recognized-for-their-human-rights-diligence-in-making-evs/#more-388073" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/06/tesla-and-mercedes-benz-recognized-for-their-human-rights-diligence-in-making-evs/>
+
+---
+
+## Rivian (RIVN) faces critical Q3 2024 earnings: Here’s what to watch for
+
+date: 2024-11-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Rivians-Q3-2024-earnings-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/rivian/">Rivian</a> (RIVN) will report its third-quarter earnings on Thursday after market close. After a supply shortage hampered production, investors are wondering if the EV maker will see its first revenue drop since becoming a public company. Here’s what to watch for in Rivian’s Q3 2024 earnings report.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian" data-layer-viewtype="unknown" data-post-id="388065" href="https://electrek.co/2024/11/06/rivians-rivn-critical-q3-2024-earnings-what-to-watch-for/#more-388065" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/06/rivians-rivn-critical-q3-2024-earnings-what-to-watch-for/>
+
+---
+
+## Trump won – what now for US clean energy?
+
+date: 2024-11-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/10/2048px-Coastal_Virginia_Offshore_Wind_11.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Donald Trump will push fossil fuels and undo renewable energy policies, but it ultimately won’t stop clean energy’s momentum.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="donald-trump,egeb,energy-brief,solar,offshore-wind-power,solar-power,wind-power" data-layer-viewtype="unknown" data-post-id="388031" href="https://electrek.co/2024/11/06/trump-won-what-now-for-us-clean-energy/#more-388031" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/06/trump-won-what-now-for-us-clean-energy/>
+
+---
+
+## The Volvo EX30 Is Finally Coming To America At $44,900
+
+date: 2024-11-06, from: Inside EVs News
+
+After getting spiked by tariffs earlier this year, the still-China-built EX30 will arrive in dual-motor form soon. 
+
+<br> 
+
+<https://insideevs.com/news/740089/volvo-ex30-us-debut-price/>
+
+---
+
+## CATL pushes forward with all-solid-state EV batteries
+
+date: 2024-11-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/CATL-all-solid-state-EV-batteries-3.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The world’s largest EV battery maker is advancing a new type of battery, promising higher energy density. According to a new local report, <a href="https://electrek.co/guides/catl/">CATL</a> is investing heavily while ramping up its workforce to bring all-solid-state EV batteries to market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="catl,solid-state-batteries" data-layer-viewtype="unknown" data-post-id="388029" href="https://electrek.co/2024/11/06/catl-pushes-forward-all-solid-state-ev-batteries/#more-388029" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/06/catl-pushes-forward-all-solid-state-ev-batteries/>
+
+---
+
+## Tesla Up, Germans Down: Trump Reelection Already Shifts The Market
+
+date: 2024-11-06, from: Inside EVs News
+
+The U.S. market has traditionally been one of the biggest for German automakers, but the threat of new import tariffs has sent stocks down. 
+
+<br> 
+
+<https://insideevs.com/news/740076/german-car-stocks-down/>
+
+---
+
+## Black Friday sales take 55% off Bluetti power stations and new releases, Special sales on EVs from Electric Bike Co., NIU, more
+
+date: 2024-11-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Banner-PC_5120x1600_ea3bb681-d356-497f-9656-c2b8ebecfe49.jpeg?quality=82&#038;strip=all&#038;w=1600" /></div><p>It’s another day of amazing seasonal savings in our Green Deals today, with <a href="https://9to5toys.com/2024/11/06/bluettis-early-access-black-friday-sale/">Bluetti’s early access Black Friday sale</a> taking up 50% off its backup power units – including new releases – with tons of bonus savings like member pricing, an additional sitewide 5% off promo code, and more. Next we have an early bird <a href="https://9to5toys.com/2024/11/05/electric-bike-co-black-friday-special-chopper/">Black Friday special from Electric Bike Company</a> that can score you up to $897 in savings across its e-bike lineup, as well as <a href="https://9to5toys.com/2024/11/05/nius-kqi2-pro-at-380-flash-sale/">NIU’s pre-Black Friday sale</a> that is taking up to 64% off the brand’s KQi series of e-scooters. Lastly, we’re getting the first of EcoFlow’s Black Friday flash sales that is offering up to $1,347 off <a href="https://9to5toys.com/2024/11/06/ecoflow-black-friday-flash-sale-delta-bundles/">DELTA Pro and DELTA 2 Max bundles</a> starting from <a href="https://9to5toys.com/2024/11/06/ecoflow-black-friday-flash-sale-delta-bundles/">$1,139</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s Black Friday savings from <a href="https://9to5toys.com/2024/11/04/ecoflow-black-friday-sale-delta-pro-3-2789-more/">EcoFlow</a>, <a href="https://9to5toys.com/2024/11/04/engwes-l20-2-0-e-bike-699-black-friday-sale/">ENGWE</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="388030" href="https://electrek.co/2024/11/06/black-friday-sales-take-55-off-bluetti-power-stations-and-new-releases-special-sales-on-evs-from-electric-bike-co-niu-more/#more-388030" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/06/black-friday-sales-take-55-off-bluetti-power-stations-and-new-releases-special-sales-on-evs-from-electric-bike-co-niu-more/>
+
+---
+
+## Lyft aligns with Mobileye to bring large scale fleets of autonomous vehicles to rideshare services
+
+date: 2024-11-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Lyft-Autonomous-Mobileye.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Rideshare network Lyft has enlisted the help of self-driving and ADAS technology provider <a href="https://electrek.co/guides/mobileye/">Mobileye </a>to establish the widespread commercialization of autonomous vehicles to large fleet operators.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="autonomous-vehicle,lyft,mobileye,ridesharing,robotaxi" data-layer-viewtype="unknown" data-post-id="387994" href="https://electrek.co/2024/11/06/lyft-mobileye-large-scale-fleets-autonomous-vehicles-rideshare-services/#more-387994" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/06/lyft-mobileye-large-scale-fleets-autonomous-vehicles-rideshare-services/>
+
+---
+
+## Now Is The Best Time To Buy An Electric Car
+
+date: 2024-11-06, from: Inside EVs News
+
+Federal incentives for EVs may disappear with a policy shift. You may want to benefit from them while they last. 
+
+<br> 
+
+<https://insideevs.com/news/740070/now-is-the-best-time-to-buy-an-electric-car/>
 
 ---
 

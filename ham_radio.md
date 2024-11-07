@@ -1,11 +1,39 @@
 ---
 title: ham radio
-updated: 2024-11-06 09:39:24
+updated: 2024-11-07 08:17:50
 ---
 
 # ham radio
 
-(date: 2024-11-06 09:39:24)
+(date: 2024-11-07 08:17:50)
+
+---
+
+## Investigating a vape device
+
+date: 2024-11-07, from: EDN Blog
+
+<img width="1400" height="826" src="https://www.edn.com/wp-content/uploads/still-works4.jpg?fit=1400%2C826" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/still-works4.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/still-works4.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/still-works4.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/still-works4.jpg?w=1024 1024w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>Rechargeable lithium batteries and inexpensive displays and ICs combine to create a device for assuaging nicotine cravings.</p>
+<p>The post <a href="https://www.edn.com/investigating-a-vape-device/" data-wpel-link="internal">Investigating a vape device</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/investigating-a-vape-device/>
+
+---
+
+## Test solutions to confront silent data corruption in ICs
+
+date: 2024-11-07, from: EDN Blog
+
+<img width="1280" height="720" src="https://www.edn.com/wp-content/uploads/Fig-2-tessent-in-system-test-Siemens.jpg?fit=1280%2C720" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Fig-2-tessent-in-system-test-Siemens.jpg?w=1280 1280w, https://www.edn.com/wp-content/uploads/Fig-2-tessent-in-system-test-Siemens.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-2-tessent-in-system-test-Siemens.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-2-tessent-in-system-test-Siemens.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Fig-2-tessent-in-system-test-Siemens.jpg?w=1260 1260w, https://www.edn.com/wp-content/uploads/Fig-2-tessent-in-system-test-Siemens.jpg?w=800 800w" sizes="(max-width: 1280px) 100vw, 1280px" /><p>One such solution applies embedded deterministic test patterns in-system via industry-standard APB or AXI bus interfaces.</p>
+<p>The post <a href="https://www.edn.com/test-solutions-to-confront-silent-data-corruption-in-ics/" data-wpel-link="internal">Test solutions to confront silent data corruption in ICs</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/test-solutions-to-confront-silent-data-corruption-in-ics/>
 
 ---
 
@@ -13,7 +41,7 @@ updated: 2024-11-06 09:39:24
 
 date: 2024-11-06, from: EDN Blog
 
-<img width="1309" height="691" src="https://www.edn.com/wp-content/uploads/FlyiingCaps_Figure1.png?fit=1309%2C691" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/FlyiingCaps_Figure1.png?w=1309 1309w, https://www.edn.com/wp-content/uploads/FlyiingCaps_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/FlyiingCaps_Figure1.png?w=768 768w, https://www.edn.com/wp-content/uploads/FlyiingCaps_Figure1.png?w=1024 1024w" sizes="(max-width: 1309px) 100vw, 1309px" /><p>A analog front-end that combines the functions of the INA, DPG, and S&#038;H in a single topology controlled by the timing from a PWM logic signal.</p>
+<img width="1309" height="691" src="https://www.edn.com/wp-content/uploads/FlyiingCaps_Figure1.png?fit=1309%2C691" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/FlyiingCaps_Figure1.png?w=1309 1309w, https://www.edn.com/wp-content/uploads/FlyiingCaps_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/FlyiingCaps_Figure1.png?w=768 768w, https://www.edn.com/wp-content/uploads/FlyiingCaps_Figure1.png?w=1024 1024w" sizes="(max-width: 1309px) 100vw, 1309px" /><p>A analog front-end that combines the functions of the INA, DPG, and S&#038;H in a single topology controlled by the timing from a PWM logic signal.</p>
 <p>The post <a href="https://www.edn.com/negative-time-constant-and-pwm-program-a-versatile-adc-front-end/" data-wpel-link="internal">Negative time-constant and PWM program a versatile ADC front end</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2024-11-06 09:39:25
+updated: 2024-11-07 08:17:51
 ---
 
 # games
 
-(date: 2024-11-06 09:39:25)
+(date: 2024-11-07 08:17:51)
+
+---
+
+## Pokémon has always inspired urban legends — so of course Pokémon TCG Pocket would have its own
+
+date: 2024-11-07, updated: 2024-11-07, from: Polygon Website
+
+One of Pokémon’s most well-known urban legends is that there’s a rare Pokémon — Mew — hidden under a truck in Pokémon Red and Pokémon Blue. Where did this come from? No one really knows. When Pokémon Red and Blue were released, the internet wasn’t ubiquitous; you couldn’t even Google things yet. And yet, the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon/475706/pokemon-tcg-pocket-urban-legends>
+
+---
+
+## Where to buy the PS5 Pro
+
+date: 2024-11-07, updated: 2024-11-07, from: Polygon Website
+
+Sony’s powerful $699.99 PlayStation 5 Pro is now available at a wide variety of retailers, including Amazon, Best Buy, Walmart, GameStop, and Target. Polygon recently published its in-depth review of the PS5 Pro, with analysis of its improved graphical features. I recommend you read it if you’re on the fence. But, in short, it delivers [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pre-order/449691/ps5-pro-ps-direct-amazon-best-buy>
+
+---
+
+## One of SteelSeries’ best wireless headsets is half off at Best Buy
+
+date: 2024-11-07, updated: 2024-11-07, from: Polygon Website
+
+If you want the best that SteelSeries has to offer in the PC/PlayStation headset space, but understandably don’t want to pay over $300 for its Arctis Nova Pro Wireless, then you’re in luck. The next best thing is the Arctis Pro Wireless, and it’s $139.99 at Best Buy (was $279.99). This model isn’t like most [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/475705/steelseries-arctis-pro-wireless-sale-gaming-headset>
+
+---
+
+## Stephanie Williams’ memes changed superhero stories, on and off the page
+
+date: 2024-11-07, updated: 2024-11-07, from: Polygon Website
+
+The comic that propelled Stephanie Williams into the comics business looked nothing like a comic. Five years ago, while killing time at home, the writer turned a funny story, inspired by her son’s passion for his “dinosaur chicken” restaurant, into a Twitter thread. To explain the hilarity of trying to buy fictional food from a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/473655/stephanie-williams-marvel-dc-comics-memes>
+
+---
+
+## Death Stranding gets surprise Xbox release from Kojima Productions
+
+date: 2024-11-07, updated: 2024-11-07, from: Polygon Website
+
+Five years after it launched as a PlayStation 4 exclusive, Kojima Productions’ Death Stranding is now available on Xbox. The game studio helmed by Hideo Kojima shadow-dropped Death Stranding: Director’s Cut for Xbox Series X on Thursday, alongside a new cloud-streaming version for Amazon’s Luna platform. The Xbox Series X version of Death Stranding arrives [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/475655/death-stranding-xbox-release-kojima-productions>
+
+---
+
+## Fortnite Remix season schedule dates: When are Ice Spice and Juice WRLD coming to Fortnite?
+
+date: 2024-11-07, updated: 2024-11-07, from: Polygon Website
+
+Understanding the Fortnite Chapter 2 Remix season schedule will let you know when your favorite Chapter 2 map will return to Fortnite and what musical icon will be featured that week. Starting with Seasons 1 and 2, the map will be updated each week to the next season (or two) in order, before concluding with [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/473857/remix-season-schedule-dates-when-does-it-end>
+
+---
+
+## The original Halo trilogy OSTs are returning to vinyl in early 2025
+
+date: 2024-11-07, updated: 2024-11-07, from: Polygon Website
+
+Did you know that listening to the Halo 2 soundtrack is a great way to recover from the U.S. election? It’s true. If you’re a true fan of the Halo series — especially of the original trilogy — Laced Records has arranged an awesome LP box set that’s currently available to pre-order. It’s been over [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pre-order/474941/halo-ce-2-3-vinyl-lp-ost-soundtrack-where-to-buy>
+
+---
+
+## Where is Eminem and Spaghetti Grotto in Fortnite Remix?
+
+date: 2024-11-07, updated: 2024-11-07, from: Polygon Website
+
+Eminem and Spaghetti Grotto are the Week 2 additions to Nov. 2024’s Fortnite Remix. The remixed version of Chapter 2 is highlighting a different musician each week, with The Grotto becoming home to Slim Shady himself. Here’s where you can find Eminem and his POI (point of interest) Spaghetti Grotto in Fortnite. Where is Eminem [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/475622/eminem-spaghetti-grotto-location>
+
+---
+
+## Kerbal Space Program publisher Private Division has been sold to a mystery buyer
+
+date: 2024-11-07, updated: 2024-11-07, from: Polygon Website
+
+Take-Two Interactive, the parent company of Rockstar and 2K Games, has sold its boutique publishing label Private Division to an undisclosed buyer for an undisclosed sum. The buyer has bought the rights to “substantially all” of Private Division’s live and unreleased titles. The sale was revealed in Take-Two’s latest financial report. The news comes a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/475635/private-division-sold>
 
 ---
 

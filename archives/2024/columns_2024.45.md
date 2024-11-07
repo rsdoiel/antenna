@@ -1,11 +1,191 @@
 ---
 title: columns
-updated: 2024-11-06 09:39:25
+updated: 2024-11-07 08:17:51
 ---
 
 # columns
 
-(date: 2024-11-06 09:39:25)
+(date: 2024-11-07 08:17:51)
+
+---
+
+## Prompt Injection Defenses Against LLM Cyberattacks
+
+date: 2024-11-07, updated: 2024-11-07, from: Bruce Schneier blog
+
+<p>Interesting research: &#8220;<a href="https://arxiv.org/abs/2410.20911">Hacking Back the AI-Hacker: Prompt Injection as a Defense Against LLM-driven Cyberattacks</a>&#8220;:</p>
+<blockquote><p>Large language models (LLMs) are increasingly being harnessed to automate cyberattacks, making sophisticated exploits more accessible and scalable. In response, we propose a new defense strategy tailored to counter LLM-driven cyberattacks. We introduce Mantis, a defensive framework that exploits LLMs&#8217; susceptibility to adversarial inputs to undermine malicious operations. Upon detecting an automated cyberattack, Mantis plants carefully crafted inputs into system responses, leading the attacker&#8217;s LLM to disrupt their own operations (passive defense) or even compromise the attacker&#8217;s machine (active defense). By deploying purposefully vulnerable decoy services to attract the attacker and using dynamic prompt injections for the attacker&#8217;s LLM, Mantis can autonomously hack back the attacker. In our experiments, Mantis consistently achieved over 95% effectiveness against automated LLM-driven attacks. To foster further research and collaboration, Mantis is available as an open-source tool: ...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/11/prompt-injection-defenses-against-llm-cyberattacks.html>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-11-07, from: Miguel de Icaza Mastondon feed)
+
+<p>Dan offered to kindly answer questions on Bluesky architecture, and I was wondering, could it be hijacked by a billionaire?</p><p>His fascinating answer is here (see the post this was in reply to for a bunch of other great insights):</p><p><a href="https://bsky.app/profile/migueldeicaza.bsky.social/post/3la3gfn7wi22p" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">bsky.app/profile/migueldeicaza</span><span class="invisible">.bsky.social/post/3la3gfn7wi22p</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113442195274060149>
+
+---
+
+## Subverting LLM Coders
+
+date: 2024-11-07, updated: 2024-11-06, from: Bruce Schneier blog
+
+<p>Really interesting research: &#8220;<a href="https://www.usenix.org/system/files/usenixsecurity24-yan.pdf">An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection<a>&#8220;:</p>
+<blockquote><p><b>Abstract</b>: Large Language Models (LLMs) have transformed code com-<br />
+pletion tasks, providing context-based suggestions to boost developer productivity in software engineering. As users often fine-tune these models for specific applications, poisoning and backdoor attacks can covertly alter the model outputs. To address this critical security challenge, we introduce CODEBREAKER, a pioneering LLM-assisted backdoor attack framework on code completion models. Unlike recent attacks that embed malicious payloads in detectable or irrelevant sections of the code (e.g., comments), CODEBREAKER leverages LLMs (e.g., GPT-4) for sophisticated payload transformation (without affecting functionalities), ensuring that both the poisoned data for fine-tuning and generated code can evade strong vulnerability detection. CODEBREAKER stands out with its comprehensive coverage of vulnerabilities, making it the first to provide such an extensive set for evaluation. Our extensive experimental evaluations and user studies underline the strong attack performance of CODEBREAKER across various settings, validating its superiority over existing approaches. By integrating malicious payloads directly into the source code with minimal transformation, CODEBREAKER challenges current security measures, underscoring the critical need for more robust defenses for code completion...</p></blockquote></a></a> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/11/subverting-llm-coders.html>
+
+---
+
+## Who are we? 
+
+date: 2024-11-07, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/who-are-we-anyway>
+
+---
+
+## Rock-solid curl
+
+date: 2024-11-07, from: Daniel Stenberg Blog
+
+I am thrilled to announce: Rock-Solid curl: long term supported curl releases Basics We make long term support releases of curl that we call Rock-solid curl. We support each release branch for at least five years. We only merge security fixes and important stability bugfixes into these branches for updates. No new features. No surprises. &#8230; <a href="https://daniel.haxx.se/blog/2024/11/07/rock-solid-curl/" class="more-link">Continue reading <span class="screen-reader-text">Rock-solid curl</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2024/11/07/rock-solid-curl/>
+
+---
+
+## The Brutal Clarity of This Result
+
+date: 2024-11-07, updated: 2024-11-07, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://politicalwire.com/2024/11/06/the-election-provided-some-clarity/>
+
+---
+
+## November 6, 2024
+
+date: 2024-11-07, from: Heather Cox Richardson blog
+
+Yesterday, November 5, 2024, Americans reelected former president Donald Trump, a Republican, to the presidency over Democratic candidate Vice President Kamala Harris. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/november-6-2024>
+
+---
+
+## How I Followed the Election Results
+
+date: 2024-11-06, from: Om Malik blog
+
+In the past, I typically followed election news and results on television networks like CNN and websites such as The New York Times. This time, I opted for Apple News’ Election Center coverage instead. It turned out to be good choice. This approach significantly reduced the anxiety I experienced when watching live feeds on television &#8230; 
+
+<br> 
+
+<https://om.co/2024/11/06/how-i-followed-the-election-results/>
+
+---
+
+## ‘In Defeat: Defiance’
+
+date: 2024-11-06, updated: 2024-11-06, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.thebulwark.com/p/what-will-trumps-win-mean>
+
+---
+
+## ‘Trump Has Won, but Democracy Is Not Over’
+
+date: 2024-11-06, updated: 2024-11-06, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theatlantic.com/newsletters/archive/2024/11/trump-victory-democracy/680549/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-11-06, from: Miguel de Icaza Mastondon feed)
+
+<p>Godot on iPad status:<br />- Limited Preview: 6 open bugs (120 closed)<br />- Public testflight: 50 open bugs (61 closed)<br />- Public launch/appstore: 42 (but closed 40)</p><p>23 bugs closed since the update six days ago.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113438040452648616>
+
+---
+
+## Now What?
+
+date: 2024-11-06, from: Dan Rather's Steady
+
+Navigating the uncertain road ahead 
+
+<br> 
+
+<https://steady.substack.com/p/now-what>
+
+---
+
+## The Bright Side of the Election Results
+
+date: 2024-11-06, updated: 2024-11-06, from: Ron Garret
+
+I'm writing this at 9AM Pacific standard time on November 6, the morning after the election.&nbsp; Not all the dust has quite settled yet, but two things are clear: Donald Trump has won, and the Republicans have taken control of the Senate.&nbsp; The House is still a toss-up, and it's still unclear whether Trump will win the popular vote, but the last time I looked at the numbers he had a pretty 
+
+<br> 
+
+<https://blog.rongarret.info/2024/11/the-bright-side-of-election-results.html>
+
+---
+
+## Election Countdown: The Day After.
+
+date: 2024-11-06, from: James Fallows, Substack
+
+&#8220;The end of all our exploring / Will be to arrive where we started / And know the place for the first time.&#8221; TS Eliot, from 1942, with words for our moment. 
+
+<br> 
+
+<https://fallows.substack.com/p/election-countdown-the-day-after>
+
+---
+
+## Thanks Linus. Torvalds patch improves Linux performance by 2.6%
+
+date: 2024-11-06, updated: 2024-11-06, from: Liam Proven's articles at the Register
+
+<h4>21 lines that show the big man still has what it takes</h4>
+      <p>A relatively tiny code change by penguin premier Linus Torvalds is making a measurable improvement to Linux&#39;s multithreaded performance.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/11/06/torvalds_patch_linux_performance/>
 
 ---
 
@@ -604,8 +784,8 @@ date: 2024-11-05, from: Heather Cox Richardson blog
  
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/151233476/570969453a068ba26d52405851859551.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/151233476/570969453a068ba26d52405851859551.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/151233476/7d9d03764c39814bce28905e4f8e75d5.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/151233476/7d9d03764c39814bce28905e4f8e75d5.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://heathercoxrichardson.substack.com/p/november-4-2024-df8>
 
@@ -1257,8 +1437,8 @@ date: 2024-11-04, from: Heather Cox Richardson blog
  
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/151175432/1b06acd55c93ee2a6ed459aff8ff17fb.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/151175432/1b06acd55c93ee2a6ed459aff8ff17fb.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/151175432/dfd4ac3d4c0072006c499a27b976faf7.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/151175432/dfd4ac3d4c0072006c499a27b976faf7.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://heathercoxrichardson.substack.com/p/november-3-2024-fd7>
 
@@ -1488,8 +1668,8 @@ date: 2024-11-03, from: Heather Cox Richardson blog
  
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/151143711/00a2e5f3619d1a22ab5553af3a8144d1.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/151143711/00a2e5f3619d1a22ab5553af3a8144d1.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/151143711/b26c688121756bbb5ee19699627183c7.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/151143711/b26c688121756bbb5ee19699627183c7.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://heathercoxrichardson.substack.com/p/november-2-2024-9e4>
 

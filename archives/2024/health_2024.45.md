@@ -1,11 +1,59 @@
 ---
 title: health
-updated: 2024-11-06 09:39:27
+updated: 2024-11-07 08:17:53
 ---
 
 # health
 
-(date: 2024-11-06 09:39:27)
+(date: 2024-11-07 08:17:53)
+
+---
+
+## Systematic evaluation of therapeutic effectiveness of Azvudine in treating COVID-19 hospitalized patients: a retrospective cohort study
+
+date: 2024-11-07, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundAzvudine, a repurposed oral small molecule antiviral drug, has potential effects in combating the SARS-CoV-2 virus. However, studies on its clinical efficacy in patients with COVID-19 are still limited and controversial, and further research and validation are necessary.MethodsA retrospective cohort study was conducted on COVID-19 patients who were hospitalized in the General Hospital of Central Theater Command from 1 December 2022 to 31 January 2023. We included 132 patients treated with Azvudine and 132 controls after screening and propensity score matching. The primary outcomes including all-cause mortality and a composite outcome of disease progression such as non-invasive respiratory support, invasive respiratory support, admission to intensive care unit (ICU), and death were compared.ResultsAzvudine recipients had a much lower incidence rate of composite disease progression outcome than controls (13.9075/1000 person-days versus 25.7731/1000 person-days, P<0.05). Azvudine recipients also possessed a lower all-cause mortality rate than controls (2.6797/1000 person-days versus 8.5910/1000 person-days, P<0.01). Azvudine treatment significantly reduced the risk of composite disease progression (HR: 0.37, 95% CI: 0.16-0.84, P=0.017) and all-cause death (HR: 0.25, 95% CI: 0.08-0.81, P=0.021) after adjusting potential confounding factors such as age, sex, severity of COVID-19, complications, concomitant therapy, time from symptoms to treatment, and important laboratory indicators. The subgroup analyses of composite disease progression outcome and all-cause death indicated robustness of Azvudine’s in treating COVID-19 patients in general.ConclusionOur study demonstrates that Azvudine has a significant positive impact on the clinical recovery of hospitalized patients with COVID-19. These findings provide important support for the use of Azvudine as a therapeutic option for COVID-19, given the current divergent views on its therapeutic efficacy and its importance in public health and medical care. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1453234>
+
+---
+
+## Epitope-based therapeutic targets in HCV genotype 1 non-structural proteins: a novel strategy to combat emerging drug resistance
+
+date: 2024-11-07, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionThe hepatitis C virus (HCV) poses a major global health challenge, with its non-structural proteins being essential for viral replication and pathogenesis. Mutations in these proteins significantly contribute to drug resistance, necessitating innovative therapeutic strategies. This study aims to identify epitope-based therapeutic targets in the non-structural proteins of HCV genotype 1, employing in-depth in silico tools to counteract emerging drug resistance.MethodsWe retrieved approximately 250 sequences of each non-structural protein from the NCBI database, capturing a broad spectrum of variability and sequence alignments, variability analysis and physicochemical property analysis were conducted. We utilized the TEPITOOL server by IEDB to predict cytotoxic T lymphocyte (CTL) epitopes. Following this, we assessed the efficiency of TAP transport and proteasomal cleavage using IEDB’s combined predictor tool. The epitopes were selected based on conservancy analysis, immunogenicity, allergenicity, and presence in non-glycosylated regions, ensuring high predictive scores and suitability as vaccine candidates. Epitopes were docked with the HLA-A*02:01 allele and Toll-like receptor-3 using the ClusPro server. The immune response potential of the epitopes was evaluated through in-silico immune stimulation.ResultsThe study identified 27 potential CTL epitopes from the non-structural proteins, including NS3, NS4a, NS4b, NS5a, and NS5b. Out of these, three lead epitopes demonstrated high conservation (>90%), strong binding affinities to HLA-A*02:01 and TLR-3, and robust immune response potential. These epitopes also showed favorable characteristics such as being non-allergenic and non-glycosylated.ConclusionThis comprehensive in-silico analysis provides a promising foundation for developing an epitope-based vaccine targeting HCV non-structural proteins, offering a novel approach to overcoming drug resistance in HCV treatment. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1480987>
+
+---
+
+## Candida spp. colonization: a genotype source found in blood cultures that can become widespread
+
+date: 2024-11-07, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectiveOur previous genotyping studies suggest that some anatomical locations act as reservoirs of genotypes that may cause further candidemia, since we found identical genotypes in gastrointestinal tract or catheter tip isolates and blood cultures, in contrast, we did not find blood culture genotypes in vagina samples. We observed that some genotypes can be found in blood cultures more frequently than others, some of them being called widespread genotypes because have been found in unrelated patients admitted to different hospitals. The presence of widespread genotypes may be more frequently found because of their predisposition to cause candidemia. It is unclear whether genotypes colonizing other anatomical sites different from the gastrointestinal tract can also be detected in this way; we studied C. albicans, C. parapsilosis, and C. tropicalis colonizing genotypes to assess what proportion could be found in blood cultures and the proportion of widespread genotypes.MethodsThe isolates (n= 640 Candida isolates from 323 patients) studied herein were obtained from samples processed at the Clinical Microbiology and Infectious Diseases Department of the Gregorio Marañón Hospital (Madrid, Spain) from July 1, 2016, to June 30, 2019. C. albicans (n=486), C. parapsilosis (n=94), and C. tropicalis (n=60) isolates were genotyped using species-specific microsatellite markers and sourced from blood (n=120) and colonized anatomical sites (n=520; catheter [n=50], lower respiratory tract [n=227], skin/mucosa [n=132], and urinary tract [n=111]). Isolates with identical genotypes were those presenting the same alleles for all markers or with only differences at one locus of a given marker. Identical genotypes were further classified as a match (identical genotype found in different groups of samples from a given patient) or as a cluster (identical genotype found in ≥2 patients). Finally, singletons were genotypes detected once. The genotypes found were then compared with our in-house database containing 587 blood genotypes from patients admitted to the Gregorio Marañón Hospital (2007-2023) to assess the proportion of genotypes found in colonized samples that were also found in blood cultures. Moreover, since some of our in-house database genotypes had been tagged as widespread genotypes, we compared the proportions of widespread genotypes as well as the proportions of matches, clusters, and patients involved in clusters found among exclusively colonizing genotypes, exclusively blood culture genotypes, and both colonizing and blood culture genotypes using a standard binomial method.ResultsIntra-patient analysis was conducted exclusively on those patients (n=225; 69.7%) who had ≥2 isolates from a given species; the proportion of patients with matches was lower in exclusively colonized patients than in patients with candidemia and colonizing genotypes (87.3% vs. 94.1%; p = 0.126). Inter-patient analysis was conducted considering all patients (n=323) and isolates from groups 1, 2, and 3 (n=640). Overall, we detected 341 genotypes, of which 320 were singletons and 21 were clusters (6.16%). Clusters involving blood cultures and colonizing isolates sourced from catheter tips (14.6%), skin and mucosa (7.5%), urine (7.4%), and lower respiratory tract (4.6%). Cluster-involved patients had not been admitted to the same ward at the same time. Of the 290 colonizing genotypes, 91 (31.1%) were also found in blood cultures, the highest proportion being C. parapsilosis (p < 0.05); proportions of identical genotypes found in blood cultures and catheter tips were higher than those found in blood cultures and other colonized samples (79.2% vs. 26.7%; p < 0.001). Widespread genotype ratios were significantly higher among genotypes found in both blood and colonized samples than among genotypes found exclusively in either blood culture or other colonizing genotypes (31.9% vs. 7.1% vs. 3.7%, respectively; p < 0.001).ConclusionWe observed that 94% of patients with candidemia were colonized by a genotype causing the infection; likewise, a total of 31% of colonizing genotypes were detectable in blood cultures. Finally, identical genotypes found in both colonized samples and blood cultures had a higher probability of being widespread. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1468692>
+
+---
+
+## Iron transport pathways in the human malaria parasite Plasmodium falciparum revealed by RNA-sequencing
+
+date: 2024-11-07, from: Frontiers in Cellular and Infection Microbiology
+
+Host iron deficiency is protective against severe malaria as the human malaria parasite Plasmodium falciparum depends on bioavailable iron from its host to proliferate. The essential pathways of iron acquisition, storage, export, and detoxification in the parasite differ from those in humans, as orthologs of the mammalian transferrin receptor, ferritin, or ferroportin, and a functional heme oxygenase are absent in P. falciparum. Thus, the proteins involved in these processes may be excellent targets for therapeutic development, yet remain largely unknown. Here, we show that parasites cultured in erythrocytes from an iron-deficient donor displayed significantly reduced growth rates compared to those grown in red blood cells from healthy controls. Sequencing of parasite RNA revealed diminished expression of genes involved in overall metabolism, hemoglobin digestion, and metabolite transport under low-iron versus control conditions. Supplementation with hepcidin, a specific ferroportin inhibitor, resulted in increased labile iron levels in erythrocytes, enhanced parasite replication, and transcriptional upregulation of genes responsible for merozoite motility and host cell invasion. Through endogenous GFP tagging of differentially expressed putative transporter genes followed by confocal live-cell imaging, proliferation assays with knockout and knockdown lines, and protein structure predictions, we identified six proteins that are likely required for ferrous iron transport in P. falciparum. Of these, we localized PfVIT and PfZIPCO to cytoplasmic vesicles, PfMRS3 to the mitochondrion, and the novel putative iron transporter PfE140 to the plasma membrane for the first time in P. falciparum. PfNRAMP/PfDMT1 and PfCRT were previously reported to efflux Fe2+ from the digestive vacuole. Our data support a new model for parasite iron homeostasis, in which PfE140 is involved in iron uptake across the plasma membrane, PfMRS3 ensures non-redundant Fe2+ supply to the mitochondrion as the main site of iron utilization, PfVIT transports excess iron into cytoplasmic vesicles, and PfZIPCO exports Fe2+ from these organelles in case of iron scarcity. These results provide new insights into the parasite’s response to differential iron availability in its environment and into the mechanisms of iron transport in P. falciparum as promising candidate targets for future antimalarial drugs. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1480076>
 
 ---
 

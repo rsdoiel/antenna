@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2024-11-06 09:39:26
+updated: 2024-11-07 08:17:53
 ---
 
 # retro computing
 
-(date: 2024-11-06 09:39:26)
+(date: 2024-11-07 08:17:53)
+
+---
+
+## Drag'n'Drop 14i1 edition reviewed
+
+date: 2024-11-07, from: Icon Bar, RISC OS News
+
+The Autumn edition of Drag'n'Drop magazine has now been sent out to subscribers, and we are now into Volume 14! This edition is 27 pages of news, reviews, tools and lots of code (on yellow pages no less)! As it is a PDF you can read it on just about any system. 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2131.html>
+
+---
+
+## b.log 2024/11/06 - What the actual fuuuuuuuuuu....?, Polishing a turd.
+
+date: 2024-11-06, from: Richard Murray's blog
+
+What the actual fuuuuuuuuuu....?, Polishing a turd. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20241106>
 
 ---
 

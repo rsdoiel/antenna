@@ -1,11 +1,51 @@
 ---
 title: craft
-updated: 2024-11-06 09:39:27
+updated: 2024-11-07 08:17:53
 ---
 
 # craft
 
-(date: 2024-11-06 09:39:27)
+(date: 2024-11-07 08:17:53)
+
+---
+
+## New Collection of Pashmina Shawls  — From Ladakh
+
+date: 2024-11-07, updated: 2024-11-07, from: Maiwa blog (weaving and textiles)
+
+ 
+
+<br> 
+
+<https://maiwahandprints.blogspot.com/2024/11/new-collection-of-pashmina-shawls-from.html>
+
+---
+
+## Luthiers Let your art shine
+
+date: 2024-11-06, from: Discover the world of Luthiers
+
+<p>Luthiers Let your art shine &#160; Luthiers Let your art shine Dear craftsmen and professionals in the world of lutherie, I come back to you today with renewed and amplified enthusiasm to share a vision that has been driving me for 5 years now: to make Luthiers.com the benchmark platform, the one that gives voice [&#8230;]</p>
+<p>The post <a href="https://luthiers.com/luthiers-let-your-art-shine/">Luthiers Let your art shine</a> appeared first on <a href="https://luthiers.com">Luthiers</a>.</p>
+ 
+
+<br> 
+
+<https://luthiers.com/luthiers-let-your-art-shine/?utm_source=rss&utm_medium=rss&utm_campaign=luthiers-let-your-art-shine>
+
+---
+
+## Luthiers Faites briller votre art
+
+date: 2024-11-06, from: Discover the world of Luthiers
+
+<p>Luthiers Faites briller votre art &#160; Luthiers Faites briller votre art Chers artisans et professionnels de la lutherie, Je reviens vers vous aujourd’hui avec un enthousiasme renouvelé et amplifié pour partager une vision qui m’anime depuis maintenant 5 ans : faire de Luthiers.com la plateforme de référence, celle qui donne voix et visibilité à tous [&#8230;]</p>
+<p>The post <a href="https://luthiers.com/luthiers-faites-briller-votre-art/">Luthiers Faites briller votre art</a> appeared first on <a href="https://luthiers.com">Luthiers</a>.</p>
+ 
+
+<br> 
+
+<https://luthiers.com/luthiers-faites-briller-votre-art/?utm_source=rss&utm_medium=rss&utm_campaign=luthiers-faites-briller-votre-art>
 
 ---
 

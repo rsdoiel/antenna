@@ -1,11 +1,392 @@
 ---
 title: pacific
-updated: 2024-11-06 09:39:24
+updated: 2024-11-07 08:17:50
 ---
 
 # pacific
 
-(date: 2024-11-06 09:39:24)
+(date: 2024-11-07 08:17:50)
+
+---
+
+## Re: A silver lining...
+
+date: 2024-11-07, updated: 2024-11-07, from: Marianas Variety
+
+DEAR Friends, 
+
+<br> 
+
+<https://www.mvariety.com/views/letters_to_editor/re-a-silver-lining/article_b2e62934-9d0c-11ef-a516-6b4df0c5eefc.html>
+
+---
+
+## Organized labor in the CNMI
+
+date: 2024-11-07, updated: 2024-11-07, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/views/letters_to_editor/organized-labor-in-the-cnmi/article_01c39d9a-9d0b-11ef-ba79-0b2572a61b38.html>
+
+---
+
+## Atkins Kroll announces opening date for new Toyota and Lexus Dealership and Service Center in Puerto Rico
+
+date: 2024-11-07, updated: 2024-11-07, from: Marianas Variety
+
+ATKINS Kroll, an Inchcape company, announces that the new Toyota and Lexus Dealership and Service Center in Puerto Rico will open for business on Monday, Nov. 18, 2024, at 8 a.m. After months of construction, the well anticipated state of the art facility will soon open its doors to serve the community. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/atkins-kroll-announces-opening-date-for-new-toyota-and-lexus-dealership-and-service-center-in/article_e2e6114c-9d0e-11ef-90b5-a7f72137f231.html>
+
+---
+
+## Court orders Finance to issue declaratory ruling
+
+date: 2024-11-07, updated: 2024-11-07, from: Marianas Variety
+
+JUDGE Pro Tempore Arthur Barcinas has ordered the Department of Finance to issue a declaratory order on the validity of an employment contract between the Office of the Attorney General and Assistant Attorney General James Kingman. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/court-orders-finance-to-issue-declaratory-ruling/article_952df8d0-9cd1-11ef-ad36-677e3c630f1b.html>
+
+---
+
+## MACS’ $8.2M investment hinges on tax exemption
+
+date: 2024-11-07, updated: 2024-11-07, from: Marianas Variety
+
+AT a public hearing in the Marianas High School cafeteria on Wednesday, Nov. 6, Micronesian Air Connection Services or MACS outlined their plan to bring interisland transportation services to the CNMI.  They also spoke about their application for a qualifying certificate with the Commonwealth Economic Development Authority. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/macs-8-2m-investment-hinges-on-tax-exemption/article_047beffe-9ce5-11ef-b023-dfaed345e93b.html>
+
+---
+
+## An open letter to Gov. Arnold I. Palacios
+
+date: 2024-11-07, updated: 2024-11-07, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/views/letters_to_editor/an-open-letter-to-gov-arnold-i-palacios/article_0ab2c5da-9d0a-11ef-bc82-e713d7c67080.html>
+
+---
+
+## A voice not an echo
+
+date: 2024-11-07, updated: 2024-11-07, from: Marianas Variety
+
+Nothing else but the economy 
+
+<br> 
+
+<https://www.mvariety.com/views/editorials/a-voice-not-an-echo/article_727d0ca4-9d0d-11ef-ae40-ab57c56de090.html>
+
+---
+
+## US test-launches unarmed nuclear missile over Marshall Islands
+
+date: 2024-11-07, from: Pacific Island Times
+
+By Pacific Island Times News Staff   The U.S. military this week launched an intercontinental ballistic missile test, which was fired... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/us-test-launches-unarmed-nuclear-missile-over-marshall-islands>
+
+---
+
+## Four out of five ballot questions pass
+
+date: 2024-11-07, from: Hawaii Tribune Harold
+
+
+				<p>The voters of Hawaii voiced their strong support for same-sex marriages in Tuesday&#8217;s General Election.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/07/hawaii-news/four-out-of-five-ballot-questions-pass/>
+
+---
+
+## Harris says she concedes the election, but not her fight
+
+date: 2024-11-07, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Vice President Kamala Harris formally acknowledged her loss to President-elect Donald Trump on Wednesday in a defiant and emotional speech, defending her campaign as a fight for democracy that she would continue, even if not from the Oval Office. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/07/nation-world-news/harris-says-she-concedes-the-election-but-not-her-fight/>
+
+---
+
+## Changing of the guard: Alameda, Roth discuss outcome of the mayoral race
+
+date: 2024-11-07, from: Hawaii Tribune Harold
+
+
+				<p>&#8220;I&#8217;m looking for a team that&#8217;s got my kind of energy, that&#8217;s connected to the community.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/07/hawaii-news/changing-of-the-guard-alameda-roth-discuss-outcome-of-the-mayoral-race/>
+
+---
+
+## Rapidly moving brush fire in California burns homes and prompts evacuations
+
+date: 2024-11-07, from: Hawaii Tribune Harold
+
+
+				<p>A rapidly burning brush fire in a Southern California community swept across more than 10,000 acres in a matter of hours Wednesday, burning homes and prompting residents to flee as firefighters battled fierce winds that could further fuel the blazes.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/07/nation-world-news/rapidly-moving-brush-fire-in-california-burns-homes-and-prompts-evacuations/>
+
+---
+
+## Hustace, Kaneali‘i-Kleinfelder look ahead
+
+date: 2024-11-07, from: Hawaii Tribune Harold
+
+
+				<p>An incoming County Council member in West Hawaii hopes to increase support to Kohala after one of the Big Island&#8217;s sole election shakeups Tuesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/07/hawaii-news/hustace-kanealii-kleinfelder-look-ahead/>
+
+---
+
+## DOJ set to drop federal cases against Trump before inauguration
+
+date: 2024-11-07, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The special counsel overseeing the federal criminal cases against Donald Trump is preparing to drop the prosecutions of the president-elect before he is sworn in, according to a Justice Department official.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/07/nation-world-news/doj-set-to-drop-federal-cases-against-trump-before-inauguration/>
+
+---
+
+## 7 of 10 states backed abortion rights. But little to change yet
+
+date: 2024-11-07, from: Hawaii Tribune Harold
+
+
+				<p>Voters backed abortion rights in seven of the 10 states where the issue appeared on ballots Tuesday &#8212; at first glance, seemingly reshaping the nation&#8217;s patchwork of abortion rules.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/07/nation-world-news/7-of-10-states-backed-abortion-rights-but-little-to-change-yet/>
+
+---
+
+## Israeli government celebrates Trump’s election triumph
+
+date: 2024-11-07, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; Israeli Prime Minister Benjamin Netanyahu and his supporters celebrated Donald Trump&#8217;s election as president, hailing what a leader of the Israeli settler movement called an ally who would support them &#8220;unconditionally&#8221;. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/07/nation-world-news/israeli-government-celebrates-trumps-election-triumph/>
+
+---
+
+## Germany faces snap election as Scholz’s coalition crumbles
+
+date: 2024-11-07, from: Hawaii Tribune Harold
+
+
+				<p>BERLIN &#8212; Germany&#8217;s ruling coalition collapsed on Wednesday as Chancellor Olaf Scholz sacked his finance minister and paved the way for a snap election, triggering political chaos in Europe&#8217;s largest economy hours after Donald Trump won the U.S. presidential election. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/07/nation-world-news/germany-faces-snap-election-as-scholzs-coalition-crumbles/>
+
+---
+
+## Stocks set records and dollar soars after Trump election win
+
+date: 2024-11-07, from: Hawaii Tribune Harold
+
+
+				<p>Stocks surged to record highs, the dollar strengthened around the world, and government bond yields soared Wednesday, after a conclusive win by President-elect Donald Trump.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/07/nation-world-news/stocks-set-records-and-dollar-soars-after-trump-election-win/>
+
+---
+
+## Four more years of unpredictability? The world prepares for Trump’s return
+
+date: 2024-11-07, from: Hawaii Tribune Harold
+
+
+				<p>With Donald Trump&#8217;s sweeping election victory Tuesday, the world is now preparing for another four years of unpredictability and &#8220;America First&#8221; protectionism that could reset the ground rules of the global economy, empower autocrats and erase U.S. protection for democratic partners.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/07/nation-world-news/four-more-years-of-unpredictability-the-world-prepares-for-trumps-return/>
+
+---
+
+## Nation and world news in brief for November 7
+
+date: 2024-11-07, from: Hawaii Tribune Harold
+
+
+				<p>San Diego man &#0010;sentenced to two years for sexually abusing teenager aboard flight</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/07/nation-world-news/nation-and-world-news-in-brief-for-november-7/>
+
+---
+
+## Rafael becomes major hurricane ahead of Cuba landfall on way to Gulf of Mexico
+
+date: 2024-11-07, from: Hawaii Tribune Harold
+
+
+				<p>The National Hurricane Center said Hurricane Rafael grew into a major Category 3 storm Wednesday and made landfall in Cuba on its way into the Gulf of Mexico, while the Florida Keys remained under a tropical storm warning.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/07/nation-world-news/rafael-becomes-major-hurricane-ahead-of-cuba-landfall-on-way-to-gulf-of-mexico/>
+
+---
+
+## UH, Health Dept. aim to prevent suicide in high-risk groups
+
+date: 2024-11-07, from: University of Hawaiʻi News
+
+<p>Health officials hope a new project will help prevent suicides in <span aria-label="Hawaii,">Hawai&#699;i,</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/06/suicide-prevent-project/"><abbr>UH</abbr>, Health <abbr>Dept.</abbr> aim to prevent suicide in high-risk groups</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/06/suicide-prevent-project/>
+
+---
+
+## Hundreds of high school freshmen explore careers at UH West Oʻahu
+
+date: 2024-11-07, from: University of Hawaiʻi News
+
+<p>Students engaged with leaders across healthcare, energy, agriculture, trades and more.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/06/high-school-freshmen-explore-careers-uh-west-oahu/">Hundreds of high school freshmen explore careers at <abbr>UH</abbr> West Oʻahu</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/06/high-school-freshmen-explore-careers-uh-west-oahu/>
+
+---
+
+## A royal mess? King Charles III’s Pacific trip opens colonial wounds
+
+date: 2024-11-07, from: Pacific Island Times
+
+Although Australians and Samoans were generally happy to see King Charles III, several controversies dogged the trip.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/a-royal-mess-king-charles-iii-s-pacific-trip-opens-colonial-wounds>
+
+---
+
+## Pacific leaders congratulate Trump, pledge to strengthen US-Pacific ties
+
+date: 2024-11-07, from: Pacific Island Times
+
+By Pacific Island Times News Staff/PacNews Guam Gov. Lou Leon Guerrero has joined other Pacific island leaders in congratulating... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/pacific-leaders-congratulate-trump-pledge-to-strengthen-us-pacific-ties>
+
+---
+
+## Engineering students at USP showcase industry-defined projects
+
+date: 2024-11-06, from: University of the South Pacific (Fiji)
+
+<p>Hundreds of final-year Engineering students of The University of the South Pacific (USP) showcased their...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/engineering-students-at-usp-showcase-industry-defined-projects/">Engineering students at USP showcase industry-defined projects</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/engineering-students-at-usp-showcase-industry-defined-projects/>
+
+---
+
+## UH President: After the election, let’s commit to aloha
+
+date: 2024-11-06, from: University of Hawaiʻi News
+
+<p>&#8220;Most of all, please take care of yourselves and those around you.&#8221;</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/06/after-the-election-lets-commit-to-aloha/"><abbr>UH</abbr> President: After the election, let’s commit to aloha</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/06/after-the-election-lets-commit-to-aloha/>
+
+---
+
+## Mānoa alum helps revive ʻōlelo, one keiki at a time
+
+date: 2024-11-06, from: University of Hawaiʻi News
+
+<p><span aria-label="Kealii">Keali&#699;i</span> Rasmussen, a <abbr>UH</abbr> Mānoa Hawaiian language alumnus, perpetuates <span aria-label="olelo">&#699;&#333;lelo</span> <span aria-label="Hawaii">Hawai&#699;i</span> as the director of P&#363;nana Leo o <span aria-label="Waianae">Wai&#699;anae</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/06/manoa-alum-helps-revive-olelo/">Mānoa alum helps revive ʻōlelo, one keiki at a time</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/06/manoa-alum-helps-revive-olelo/>
+
+---
+
+## Image of the Week: Sunrise on the bow
+
+date: 2024-11-06, from: University of Hawaiʻi News
+
+<p>This week’s image is from the Papahānaumokuākea National Monument Instagram.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/06/image-of-the-week-sunrise-on-the-bow/">Image of the Week: Sunrise on the bow</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/06/image-of-the-week-sunrise-on-the-bow/>
 
 ---
 
@@ -174,6 +555,20 @@ date: 2024-11-06, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2024/11/06/nation-world-news/walmart-other-us-retailers-import-fewer-christmas-goods-ahead-of-tepid-holiday-season/>
+
+---
+
+## Big Island incumbents all retain seats in Legislature
+
+date: 2024-11-06, from: Hawaii Tribune Harold
+
+
+				<p>The Big Island&#8217;s delegates in the state Legislature kept their seats Tuesday after cruising to easy victories.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/06/hawaii-news/big-island-incumbents-all-retain-seats-in-legislature/>
 
 ---
 

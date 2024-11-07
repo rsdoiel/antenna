@@ -1,11 +1,160 @@
 ---
 title: home
-updated: 2024-11-06 09:39:26
+updated: 2024-11-07 08:17:52
 ---
 
 # home
 
-(date: 2024-11-06 09:39:26)
+(date: 2024-11-07 08:17:52)
+
+---
+
+## Never-Before-Seen Photos Capture Dwindling Remnants of Soviet Modernism
+
+date: 2024-11-07, from: Dwell
+
+A new book explores the legacy of an often-overlooked architectural style born in Tashkent, Uzbekistan’s capital. 
+
+<br> 
+
+<https://www.dwell.com/article/dwindling-remnants-tashkent-modernism-soviet-architecture-uzbekistan-8c7f05a7>
+
+---
+
+## How They Pulled It Off: A Mirrored Portal Between Two Rooms
+
+date: 2024-11-07, from: Dwell
+
+Aurora Arquitectos designed a clever solution to make a client’s small apartment feel larger—an interior window that adds a touch of whimsy. 
+
+<br> 
+
+<https://www.dwell.com/article/how-they-pulled-it-off-a-mirrored-portal-between-two-rooms-6061ad18>
+
+---
+
+## The Only Holiday Decor Worth Shopping This Year, According to Designers
+
+date: 2024-11-07, from: Sunset Magazine - Living in the West
+
+We asked the pros what they're buying for the most wonderful time of the year. They shared with us their holiday decor must-haves. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/holiday-decor-shopping-picks>
+
+---
+
+## Sponsored – Nativo
+
+date: 2024-11-07, from: Sunset Magazine - Living in the West
+
+ 
+
+<br> 
+
+<https://www.sunset.com/sponsored>
+
+---
+
+## Planting Zones by Zip Code: Detailed Climate Zone Table
+
+date: 2024-11-07, from: Yard Life blog
+
+<p>If you&#x2019;re an avid gardener or just getting started, understanding your planting zone is a key step to successful planting. ... </p>
+<p class="read-more-container"><a title="Planting Zones by Zip Code: Detailed Climate Zone Table" class="read-more button" href="https://ownyardlife.com/planting-zones-by-zip-code-detailed-climate-zone-table/#more-21654" aria-label="Read more about Planting Zones by Zip Code: Detailed Climate Zone Table">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/planting-zones-by-zip-code-detailed-climate-zone-table/">Planting Zones by Zip Code: Detailed Climate Zone Table</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/planting-zones-by-zip-code-detailed-climate-zone-table/>
+
+---
+
+## The Tools You Need to Cook the Perfect Steak at Home
+
+date: 2024-11-06, from: Sunset Magazine - Living in the West
+
+It's easy to cook the perfect steak at home with the right gear. Professional chefs share the best tools for cooking steak. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/tools-for-cooking-steak>
+
+---
+
+## This Is the Biggest Holiday Travel Mistake You Can Possibly Make
+
+date: 2024-11-06, from: Sunset Magazine - Living in the West
+
+Travel Expert and Two-Time Emmy Award-Winning TV Host Samantha Brown shares her tips on how to navigate your holiday travels. 
+
+<br> 
+
+<https://www.sunset.com/travel/holiday-travel-tips>
+
+---
+
+## Dwell Open House: 300 Readers Tour Some of L.A.’s Most Exciting Residential Projects
+
+date: 2024-11-06, from: Dwell
+
+To kick off our celebration of Dwell’s 25th anniversary, tour-goers got the chance to check out three private homes on the city’s east side. 
+
+<br> 
+
+<https://www.dwell.com/article/dwell-open-house-300-readers-tour-some-of-las-most-exciting-residential-projects-741bd385>
+
+---
+
+## This Mid-Century Modern Seattle Home Makes You Feel Like You’re in a Treehouse
+
+date: 2024-11-06, from: Sunset Magazine - Living in the West
+
+This mid-century modern house in Seattle was an empty shell when the clients bought it, but the designer filled it with vintage finds. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/vintage-filled-mid-century-modern-house>
+
+---
+
+## Budget Breakdown: A Canadian Couple Test Their DIY Mettle With a $112K Off-Grid Cabin
+
+date: 2024-11-06, from: Dwell
+
+The 310-square-foot tiny house keeps their family of three cozy as they build their main home in the Ontario wilderness. 
+
+<br> 
+
+<https://www.dwell.com/article/budget-breakdown-baldie-hill-bunkie-off-grid-tiny-cabin-daymark-design-ontario-d6f2e7b0>
+
+---
+
+## Charles Gwathmey’s Radically Reinvented Connecticut Barn Lists for $4.8M
+
+date: 2024-11-06, from: Dwell
+
+The celebrated architect transformed the property into his home in 1978, and the current owners expanded it with glass bricks, corrugated metal cladding, and a silo-encased staircase. 
+
+<br> 
+
+<https://www.dwell.com/article/renovated-barn-home-charles-gwathmey-greenwich-connecticut-real-estate-b20a0289>
+
+---
+
+## Fact or Fiction: Will Tin Foil Behind the Radiator Warm Up Your Space?
+
+date: 2024-11-06, from: Family Handyman Blog
+
+<p>A viral home hack suggests tin foil could help boost your radiator heat. But does it actually work?</p>
+<p>The post <a href="https://www.familyhandyman.com/article/tin-foil-behind-radiator-heating-hack/">Fact or Fiction: Will Tin Foil Behind the Radiator Warm Up Your Space?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/tin-foil-behind-radiator-heating-hack/>
 
 ---
 
@@ -51,6 +200,44 @@ date: 2024-11-06, from: Family Handyman Blog
 
 ---
 
+## 13 of the Best Grow Lights for Indoor Plants and Seedlings
+
+date: 2024-11-06, from: The Gardener's Path
+
+<p>For vigorous indoor gardens, grow lights can provide what plants need – a reliable energy source to mimic the spectrum of colors found in natural sunshine. An economical solution to cultivate greens, herbs, houseplants, and seedlings, here’s our list of 13 of the best grow lights for strong and healthy indoor plants.</p>
+<p>The post <a href="https://gardenerspath.com/gear/best-grow-lights/">13 of the Best Grow Lights for Indoor Plants and Seedlings</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/gear/best-grow-lights/>
+
+---
+
+## 13 Ways You Can Make Your Next Dinner Party the Best One Yet
+
+date: 2024-11-06, from: Sunset Magazine - Living in the West
+
+Putting together a dinner party can be a time-consuming and stressful task. Prop stylist Kate Martindale and lifestyle Amy Neunsinger share their tips. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/entertaining/dinner-party-planning-tips>
+
+---
+
+## 16 Delicious Thanksgiving Appetizers
+
+date: 2024-11-06, from: Sunset Magazine - Living in the West
+
+As friends and family gather for the big event, offer these tasty nibbles that just so happen to be excellent make-ahead recipes. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/holidays-occasions/thanksgiving-appetizers>
+
+---
+
 ## He Renovated His Own House, and Lived to Regret It
 
 date: 2024-11-06, from: Dwell
@@ -60,6 +247,18 @@ Larry Yung took on a decade-long renovation by himself, and he has a word of war
 <br> 
 
 <https://www.dwell.com/article/larry-yung-diy-renovation-57b4cb62>
+
+---
+
+## 20 Great Thanksgiving Vegetable Dishes That Don’t Have Marshmallows
+
+date: 2024-11-06, from: Sunset Magazine - Living in the West
+
+Round out your best dinner yet with these fresh Thanksgiving side dish vegetable recipes. Your guests will be filling up their plates with these. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/holidays-occasions/thanksgiving-side-dish-vegetable-recipes>
 
 ---
 
@@ -75,6 +274,78 @@ date: 2024-11-06, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/palmetto-tree-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## These Holiday Hosting Hacks Are Guaranteed to Lower Your Stress Levels
+
+date: 2024-11-06, from: Sunset Magazine - Living in the West
+
+Hosting holiday gatherings can be stressful. We asked professional chefs for their holiday hosting hacks to make things easier for you. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/holiday-hosting-hacks>
+
+---
+
+## Freshen up Your Holiday Table with a DIY Spread That’s Stylish and Sustainable
+
+date: 2024-11-06, from: Sunset Magazine - Living in the West
+
+Atelier Saucier rescue and repurpose fabrics, then transform them into charming napkins, table runners, and more for DIY holiday table settings that are stylish and sustainable. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/diy-holiday-table-setting-atelier-saucier>
+
+---
+
+## DIY This Gorgeous, Edible Centerpiece with a Bag Full of Groceries from Trader Joe’s
+
+date: 2024-11-06, from: Sunset Magazine - Living in the West
+
+Check out this simple step-by-step tutorial for an edible holiday centerpiece, made with $100 worth of goodies from Trader Joe's, by L.A.'s favorite party snack maker, Kori Jones. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/diy-holiday-centerpiece-trader-joes>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-11-06, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## Party Planners Share Their Go-to Holiday Hosting Essentials
+
+date: 2024-11-06, from: Sunset Magazine - Living in the West
+
+When hosting, you need to be prepared. Professional party planners share their holiday entertaining essentials. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/holiday-entertaining-essentials>
+
+---
+
+## These Entertaining Finds Will Get You Through the Whole Holiday Season
+
+date: 2024-11-06, from: Sunset Magazine - Living in the West
+
+For an stress-free holiday hosting season, it helps to have the right essentials. These are the holiday entertaining finds to shop. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/holiday-entertaining-finds>
 
 ---
 
@@ -287,27 +558,15 @@ date: 2024-11-05, from: Family Handyman Blog
 
 ---
 
-## These Entertaining Finds Will Get You Through the Whole Holiday Season
+## 5 Ways to Create a Wildlife-Friendly Garden with Fall Plantings
 
 date: 2024-11-05, from: Sunset Magazine - Living in the West
 
-For an stress-free holiday hosting season, it helps to have the right essentials. These are the holiday entertaining finds to shop. 
+Want to attract more birds, wildlife, and pollinators to your garden? These are the things to do this fall for a wildlife-friendly garden. 
 
 <br> 
 
-<https://www.sunset.com/home-garden/design/holiday-entertaining-finds>
-
----
-
-## This Mid-Century Modern Seattle Home Makes You Feel Like You’re in a Treehouse
-
-date: 2024-11-05, from: Sunset Magazine - Living in the West
-
-This mid-century modern house in Seattle was an empty shell when the clients bought it, but the designer filled it with vintage finds. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/home-tours/vintage-filled-mid-century-modern-house>
+<https://www.sunset.com/home-garden/garden-basics/how-to-create-wildlife-friendly-garden>
 
 ---
 
@@ -398,18 +657,6 @@ Chefs and home cooks are using sustainable and trendy algae oil, which has a hig
 
 ---
 
-## Sunset.com Home Page
-
-date: 2024-11-05, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
-
----
-
 ## Gladiolus Flower Care and Growing Guide with Ultimate Tips
 
 date: 2024-11-05, from: Yard Life blog
@@ -476,18 +723,6 @@ date: 2024-11-04, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/why-is-my-water-pressure-low/>
-
----
-
-## The Only Holiday Decor Worth Shopping This Year, According to Designers
-
-date: 2024-11-04, from: Sunset Magazine - Living in the West
-
-We asked the pros what they're buying for the most wonderful time of the year. They shared with us their holiday decor must-haves. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design/holiday-decor-shopping-picks>
 
 ---
 

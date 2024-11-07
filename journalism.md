@@ -1,11 +1,239 @@
 ---
 title: journalism
-updated: 2024-11-06 09:39:25
+updated: 2024-11-07 08:17:52
 ---
 
 # journalism
 
-(date: 2024-11-06 09:39:25)
+(date: 2024-11-07 08:17:52)
+
+---
+
+## Classifieds – November 7, 2024
+
+date: 2024-11-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/07/classifieds-november-7-2024/">Classifieds &#8211; November 7, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/07/classifieds-november-7-2024/>
+
+---
+
+## USC reacts to Trump’s election victory
+
+date: 2024-11-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Students shared feelings of disappointment, fear and hope for America’s future.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/07/usc-reacts-to-trumps-election-victory/">USC reacts to Trump’s election victory</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/07/usc-reacts-to-trumps-election-victory/>
+
+---
+
+## Eruta Nature: from clothing to cart to coffee popup
+
+date: 2024-11-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Senior Justin Solomon has made a deal with Rock &#038; Reilly’s promoting his coffee.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/07/eruta-nature-from-clothing-to-cart-to-coffee-popup/">Eruta Nature: from clothing to cart to coffee popup</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/07/eruta-nature-from-clothing-to-cart-to-coffee-popup/>
+
+---
+
+## Terra Mia Pizzeria offers cheap alternatives, lacks consistency
+
+date: 2024-11-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The newest restaurant in USC Village is good for the most part and isn’t too expensive.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/07/terra-mia-pizzeria-offers-cheap-alternatives-lacks-consistency/">Terra Mia Pizzeria offers cheap alternatives, lacks consistency</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/07/terra-mia-pizzeria-offers-cheap-alternatives-lacks-consistency/>
+
+---
+
+## You should know about Seven Bucks Productions
+
+date: 2024-11-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Ahead of “Red One,” let’s learn how movie stars control content more than ever before.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/07/you-should-know-about-seven-bucks-productions/">You should know about Seven Bucks Productions</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/07/you-should-know-about-seven-bucks-productions/>
+
+---
+
+## Medieval Texts Reading Group travels through time with literature
+
+date: 2024-11-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+With elves, giants and magic, the Medieval Texts Reading Group builds community one whimsical text at a time.
+Revived this quarter after a hiatus due to the COVID-19 pandemic, the Medieval Texts Reading Group is a collaboration between UCLA CMRS Center for Early Global Studies and the Department of English. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/06/medieval-texts-reading-group-travels-through-time-with-literature/>
+
+---
+
+## Technical Difficulties: Viewers deserve policy, not parasocial relationships, from podcasting politicians
+
+date: 2024-11-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+America’s biggest politicians are branching out into new forms of media – and Americans are tuning in.
+The presidential debate between President-elect Donald Trump and Vice President Kamala Harris reached 67 million viewers live. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/06/technical-difficulties-viewers-deserve-policy-not-parasocial-relationships-from-podcasting-politicians/>
+
+---
+
+## All Books and Cheese club serves readers a taste of literature, community
+
+date: 2024-11-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+Led by three co-presidents, Kate Osmundson, a fourth-year biology student, Emmy Quagliani, a fourth-year pyschobiology student, and Paige Paulsen, a fourth-year English student, the All Books and Cheese club serves as an inviting community for students to discuss books and eat cheese. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/06/all-books-and-cheese-club-serves-readers-a-taste-of-literature-community/>
+
+---
+
+## A new type of life: Type 1
+
+date: 2024-11-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Living with Type 1 diabetes is a new normal.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/06/a-new-type-of-life-type-1/">A new type of life: Type 1</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/06/a-new-type-of-life-type-1/>
+
+---
+
+## Gallery: Los Angeles Dodgers parade downtown following 8th World Series victory
+
+date: 2024-11-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+Hundreds of thousands of Los Angeles Dodgers fans gathered in downtown LA on Friday morning to celebrate the Dodgers’ eighth World Series victory. Fans sang, danced and cheered for the team as the players waved from double-decker buses rolling through the streets of downtown. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/06/gallery-los-angeles-dodgers-parade-downtown-following-8th-world-series-victory/>
+
+---
+
+## Turning a new leaf: Freshman plant trees on Manzanita Lawn
+
+date: 2024-11-06, from: The Sundail (CSUN Student Newspaper)
+
+Freshman gathered together in Manzanita Lawn as part of a community based learning in partnership with CSUN Sustainability to plant 10 new trees, facing 37 mph winds at 10 a.m.... 
+
+<br> 
+
+<https://sundial.csun.edu/187364/news/turning-a-new-leaf-freshman-plant-trees-on-manzanita-lawn/>
+
+---
+
+## Hillel 818 Associate Director dies after six year battle with cancer
+
+date: 2024-11-06, from: The Sundail (CSUN Student Newspaper)
+
+Evan Taksar Levental, who served as the associate director for advancement at Hillel 818 since 2018, has died according to a statement on Hillel 818’s Instagram account. Taksar Levental was... 
+
+<br> 
+
+<https://sundial.csun.edu/187358/news/hillel-818-associate-director-dies-after-six-year-battle-with-cancer/>
+
+---
+
+## Rosa’s Registration and Old York Vintage share a roof and customers
+
+date: 2024-11-06, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Rosa’s Registration and Old York Vintage occupy the same building on York Boulevard, offering customers a vehicle registration service and a place to shop curated vintage styles from various eras in time. Current owner Elizabeth Throckmorton said that her mother first started the car registration business 19 years ago, when Throckmorton was 13 years old. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/community/2024/11/06/rosas-registration-and-old-york-vintage-share-a-roof-and-customers/2913700">Rosa&#8217;s Registration and Old York Vintage share a roof and customers</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/community/2024/11/06/rosas-registration-and-old-york-vintage-share-a-roof-and-customers/2913700>
+
+---
+
+## Gen Z rabbi Alex Weisz leads generational change at Temple Beth Israel
+
+date: 2024-11-06, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Rabbi Alex Weisz, senior rabbi at Temple Beth Israel in Highland Park, is the first Gen Z rabbi to lead a synagogue in the US according to Beth Israel’s website. Weisz, who is 28 years old and was raised in Pasadena, said that he knew since his childhood that he wanted to become a rabbi. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/community/2024/11/06/gen-z-rabbi-alex-weisz-leads-generational-change-at-temple-beth-israel/2913697">Gen Z rabbi Alex Weisz leads generational change at Temple Beth Israel</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/community/2024/11/06/gen-z-rabbi-alex-weisz-leads-generational-change-at-temple-beth-israel/2913697>
+
+---
+
+## Latine Student Union hosts Día de los Muertos events
+
+date: 2024-11-06, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Following the end of Latine Heritage Month last week, Occidental&#8217;s Latine Student Union (LSU) organized a week of events in collaboration with the Latino/a and Latin American Studies (LLAS) department. The events included a Fall Fiesta Oct. 25, a Día de los Muertos celebration Oct. 28 and a Día de los Muertos workshop and dinner Oct. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2024/11/06/latine-student-union-hosts-dia-de-los-muertos-events/2913691">Latine Student Union hosts Día de los Muertos events</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2024/11/06/latine-student-union-hosts-dia-de-los-muertos-events/2913691>
+
+---
+
+## The Haunted Library tour brings Halloween spirit to campus
+
+date: 2024-11-06, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>The scent of lavender drew library-goers into the mysterious Braun Room on the evening of Oct. 29. When students walked into the dimly lit room with the stacks of books decorating the walls, their eyes were drawn to the portrait of Mary Norton Clapp found on the first floor of the library. Next to it was Clapp [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2024/11/06/the-haunted-library-tour-brings-halloween-spirit-to-campus/2913682">The Haunted Library tour brings Halloween spirit to campus</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2024/11/06/the-haunted-library-tour-brings-halloween-spirit-to-campus/2913682>
+
+---
+
+## After performing at The Hotel Cafe, Artist of the Week August James enters ‘next chapter’ of his music career
+
+date: 2024-11-06, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>August James (senior) is a musician at Occidental who currently has just under 25,000 monthly listeners on Spotify and most recently performed at The Hotel Cafe in Hollywood Oct. 29. According to James, while the songs he makes now are mainly of the indie pop and indie folk genres, music first caught his attention in middle school when he discovered [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2024/11/06/after-performing-at-the-hotel-cafe-artist-of-the-week-august-james-enters-next-chapter-of-his-music-career/2913680">After performing at The Hotel Cafe, Artist of the Week August James enters &#8216;next chapter&#8217; of his music career</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2024/11/06/after-performing-at-the-hotel-cafe-artist-of-the-week-august-james-enters-next-chapter-of-his-music-career/2913680>
 
 ---
 

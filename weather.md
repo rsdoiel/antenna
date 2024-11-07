@@ -1,11 +1,693 @@
 ---
 title: weather
-updated: 2024-11-06 09:39:25
+updated: 2024-11-07 08:17:51
 ---
 
 # weather
 
-(date: 2024-11-06 09:39:25)
+(date: 2024-11-07 08:17:51)
+
+---
+
+## SPC Day 1 Fire Weather Outlook
+
+date: 2024-11-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+1001 AM CST Thu Nov 07 2024
+
+Valid 071700Z - 081200Z
+
+...CRITICAL FIRE WEATHER AREA FOR PORTIONS OF VENTURA AND LOS
+ANGELES COUNTIES IN SOUTHERN CALIFORNIA...
+
+The previous forecast remains on track, with current surface
+observations depicting continued dry offshore flow over southern
+California. RH should drop well below 15 percent by afternoon peak
+heating, with offshore surface winds sustaining over 20 mph in
+terrain-favoring areas, particularly in and near the Ventura Valley,
+warranting the continuation of Critical highlights. Elevated
+conditions should persist from just east of the Ventura Valley
+toward the Laguna Mountains through at least this evening.
+
+..Squitieri.. 11/07/2024
+
+.PREV DISCUSSION... /ISSUED 1247 AM CST Thu Nov 07 2024/
+
+...Synopsis...
+A highly amplified large-scale ridge will remain in place across the
+West Coast, while a deep midlevel low moves slowly eastward over the
+Southwest. Between these two features, a belt of strong deep-layer
+northerly flow will continue to overspread the Lower CO River Valley
+and southern CA. This large-scale pattern will maintain surface
+ridging over the Intermountain West/Great Basin, and an associated
+tight offshore pressure gradient across southern CA. 
+
+...Southern California...
+From Thursday morning through the afternoon, the LAX-DAG gradient
+should remain around -4 to -5 mb -- indicating moderate to strong
+Santa Ana winds across southern CA. This offshore pressure gradient,
+combined with the northerly upper-level wind support, will favor
+sustained northeasterly surface winds of 20+ mph (with higher gusts)
+amid lower teens to single-digit RH across portions of southern CA.
+Over the wind-prone corridor of northern Los Angeles into southern
+Ventura Counties, several hours of 40-50-mph gusts and single-digit
+RH will lead to critical fire-weather conditions -- further
+exacerbating a large ongoing wildfire incident in Ventura County. 
+
+The pressure gradient will gradually weaken into the evening hours,
+with a corresponding decrease in surface winds. However, dry
+boundary-layer conditions/poor overnight recoveries are expected
+into Day 2/Friday.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
+
+---
+
+## SPC - No watches are valid as of Thu Nov  7 16:03:02 UTC 2024
+
+date: 2024-11-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Thu Nov  7 16:03:02 UTC 2024. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC MD 2215
+
+date: 2024-11-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md2215.html"><img src="https://www.spc.noaa.gov/products/md/mcd2215.png" border="1" alt="MD 2215 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 2215
+NWS Storm Prediction Center Norman OK
+0706 AM CST Thu Nov 07 2024
+
+Areas affected...Northeast NM...Extreme Northwest TX Panhandle...Far
+Western OK Panhandle...Southeast CO
+
+Concerning...Heavy snow 
+
+Valid 071306Z - 071700Z
+
+SUMMARY...Moderate to occasionally heavy snowfall (i.e. rates
+exceeding 1"/hr.) are expected to persist across northeastern NM and
+eastern CO, and into adjacent portions of western KS and the western
+TX/OK Panhandle through the morning.
+
+DISCUSSION...Recent satellite imagery shows a notable baroclinic
+leaf across northeast NM and eastern CO, downstream of a deep upper
+low centered over AZ. This synoptic pattern is favoring strong
+mid-level warm-air advection across the warm sector of this cyclone,
+contributing to a broad area of precipitation across much of
+central/eastern NM and eastern CO, and into adjacent portions of
+western KS and the western TX/OK Panhandles. Thermodynamic profiles
+from east-central NM northward are cold enough for snow, and recent
+observations suggest moderate to occasionally heavy snow is ongoing
+across the region. The upper low is expected to drift slowly
+eastward throughout the day. With the slow motion of will keep much
+of this region in a favorable location for continued moderate to
+heavy snow, with snowfall rates occasionally topping 1" per hour
+across the lower elevations. The mid-level warm-air advection is
+currently maximized across northeast NM, suggesting the heaviest
+snowfall is most likely across southeast CO for the next few hours.
+
+..Mosier.. 11/07/2024
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...GLD...AMA...PUB...BOU...ABQ...
+
+LAT...LON   37950413 39090394 39290264 38250206 36540236 35730337
+            35760453 37950413 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md2215.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/md2215.html>
+
+---
+
+## 120h 0.5 Degree Wind Speed Probabilities [shp] - Multiple Basins
+
+date: 2024-11-07, from: Eastern Pacific Basin GIS Data
+
+Shapefile last updated Thu, 07 Nov 2024 15:23:31 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/wsp_120hrhalfDeg_latest.zip>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2024-11-07, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>700 AM EST Thu Nov 7 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active Systems:<br>The National Hurricane Center is issuing advisories on Hurricane <br>Rafael, located over the southeastern Gulf of Mexico.<br><br>1. Near the Leeward Islands:<br>A trough of low pressure over the northern Leeward Islands continues <br>to produce disorganized showers and thunderstorms. Some gradual <br>development of this system is possible during the next couple of <br>days while it moves westward near the Greater Antilles. Regardless <br>of development, locally heavy rains are possible across the northern <br>Leeward Islands, the Virgin Islands, Puerto Rico, Hispaniola, and <br>the southeastern Bahamas through Saturday.<br>* Formation chance through 48 hours...low...20 percent.<br>* Formation chance through 7 days...low...20 percent.<br><br />
+<br>Forecaster Bucci<br></div></div><br />
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## Advisory #005 Forecast Track [kmz] - Tropical Depression Fourteen-E (EP4/EP142024)
+
+date: 2024-11-07, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Thu, 07 Nov 2024 14:51:42 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP142024_005adv_TRACK.kmz>
+
+---
+
+## Advisory #005 Wind Field [shp] - Tropical Depression Fourteen-E (EP4/EP142024)
+
+date: 2024-11-07, from: Eastern Pacific Basin GIS Data
+
+Initial and Forecast Surface Winds. Shapefile last updated Thu, 07 Nov 2024 14:51:16 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/ep142024_fcst_005.zip>
+
+---
+
+## Preliminary Best Track [shp] - Tropical Depression Fourteen-E (EP4/EP142024)
+
+date: 2024-11-07, from: Eastern Pacific Basin GIS Data
+
+Track, Points, and Wind Swath. Shapefile last updated Thu, 07 Nov 2024 14:51:07 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/best_track/ep142024_best_track.zip>
+
+---
+
+## Preliminary Best Track Points [kmz] - Tropical Depression Fourteen-E (EP4/EP142024)
+
+date: 2024-11-07, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Thu, 07 Nov 2024 14:51:07 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/best_track/ep142024_best_track.kmz>
+
+---
+
+## Advisory #005 Cone of Uncertainty [kmz] - Tropical Depression Fourteen-E (EP4/EP142024)
+
+date: 2024-11-07, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Thu, 07 Nov 2024 14:51:06 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP142024_005adv_CONE.kmz>
+
+---
+
+## Advisory #005 Forecast [shp] - Tropical Depression Fourteen-E (EP4/EP142024)
+
+date: 2024-11-07, from: Eastern Pacific Basin GIS Data
+
+Forecast Track, Cone of Uncertainty, Watches/Warnings. Shapefile last updated Thu, 07 Nov 2024 14:50:58 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/ep142024_5day_005.zip>
+
+---
+
+## Tropical Depression Fourteen-E Graphics
+
+date: 2024-11-07, from: Eastern Pacific Basin Tropical Cyclones
+
+
+<a href="https://www.nhc.noaa.gov/refresh/graphics_ep4+shtml/145032.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP14/EP142024_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Depression Fourteen-E 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Thu, 07 Nov 2024 14:50:32 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_ep4+shtml/145032.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP14/EP142024_wind_probs_34_F120_sm2.png"
+alt="Tropical Depression Fourteen-E 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Thu, 07 Nov 2024 15:28:57 GMT
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/refresh/graphics_ep4+shtml/145032.shtml?cone>
+
+---
+
+## Tropical Depression Fourteen-E Forecast Discussion Number 5
+
+date: 2024-11-07, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>
+
+000
+WTPZ44 KNHC 071449
+TCDEP4
+ 
+Tropical Depression Fourteen-E Discussion Number   5
+NWS National Hurricane Center Miami FL       EP142024
+900 AM CST Thu Nov 07 2024
+ 
+The depression is once again struggling to produce deep organized 
+convection.  Thunderstorms from the diurnal maximum overnight have 
+dissipated, and the low-level center is nearing an area of 
+convection not associated with the depression.  Furthermore, the 
+outflow boundaries from the adjacent thunderstorms seem to be 
+disrupting the low-level circulation.  The TAFB Dvorak Final-T has 
+also trended downward to T1.5, reflecting the decaying convective 
+organization. The initial intensity is held at a possibly generous 
+25 kt for this advisory.
+ 
+Environmental conditions should remain marginal to hostile and
+prevent further strengthening.  Global models continue to predict
+that the depression should open into a trough within a day, though
+it is possible this has already occurred.  The latest official
+intensity forecast still shows dissipation occurring by Friday.
+ 
+The depression is moving at an uncertain 110/4 kt.  The low-level
+flow is expected to turn the depression to the southeast soon.  The
+NHC track position is near the corrected consensus aid, HCCA.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  07/1500Z 13.2N 104.4W   25 KT  30 MPH
+ 12H  08/0000Z 12.3N 103.7W   25 KT  30 MPH
+ 24H  08/1200Z...DISSIPATED
+ 
+$$
+Forecaster Bucci
+ 
+</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCDEP4+shtml/071449.shtml>
+
+---
+
+## Tropical Depression Fourteen-E Public Advisory Number 5
+
+date: 2024-11-07, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>
+
+000
+WTPZ34 KNHC 071448
+TCPEP4
+ 
+BULLETIN
+Tropical Depression Fourteen-E Advisory Number   5
+NWS National Hurricane Center Miami FL       EP142024
+900 AM CST Thu Nov 07 2024
+ 
+...DEPRESSION UNRAVELING...
+ 
+ 
+SUMMARY OF 900 AM CST...1500 UTC...INFORMATION
+----------------------------------------------
+LOCATION...13.2N 104.4W
+ABOUT 395 MI...635 KM SW OF ACAPULCO MEXICO
+MAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H
+PRESENT MOVEMENT...ESE OR 110 DEGREES AT 5 MPH...7 KM/H
+MINIMUM CENTRAL PRESSURE...1007 MB...29.74 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 900 AM CST (1500 UTC), the center of Tropical Depression
+Fourteen-E was located near latitude 13.2 North, longitude 104.4
+West. The depression is moving toward the east-southeast near 5 mph
+(7 km/h). A slightly faster southeastward motion is expected later 
+today.
+ 
+Maximum sustained winds are near 30 mph (45 km/h) with higher gusts.
+The depression is forecast to dissipate on Friday, although that
+could occur sooner.
+ 
+The estimated minimum central pressure is 1007 mb (29.74 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 300 PM CST.
+ 
+$$
+Forecaster Bucci
+ 
+</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCPEP4+shtml/071448.shtml>
+
+---
+
+## Tropical Depression Fourteen-E Wind Speed Probabilities Number 5
+
+date: 2024-11-07, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>
+
+000
+FOPZ14 KNHC 071448
+PWSEP4
+                                                                    
+TROPICAL DEPRESSION FOURTEEN-E WIND SPEED PROBABILITIES NUMBER   5  
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP142024               
+1500 UTC THU NOV 07 2024                                            
+                                                                    
+AT 1500Z THE CENTER OF TROPICAL DEPRESSION FOURTEEN-E WAS LOCATED   
+NEAR LATITUDE 13.2 NORTH...LONGITUDE 104.4 WEST WITH MAXIMUM        
+SUSTAINED WINDS NEAR 25 KTS...30 MPH...45 KM/H.                     
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  STANDARD TIME (PST)...SUBTRACT 8 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        12Z THU AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       12Z THU 00Z FRI 12Z FRI 00Z SAT 12Z SAT 12Z SUN 12Z MON
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             00Z FRI 12Z FRI 00Z SAT 12Z SAT 12Z SUN 12Z MON 12Z TUE
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+$$                                                                  
+FORECASTER BUCCI                                                    
+</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIAPWSEP4+shtml/071448.shtml>
+
+---
+
+## Tropical Depression Fourteen-E Forecast Advisory Number 5
+
+date: 2024-11-07, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>
+
+000
+WTPZ24 KNHC 071448
+TCMEP4
+ 
+TROPICAL DEPRESSION FOURTEEN-E FORECAST/ADVISORY NUMBER   5
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP142024
+1500 UTC THU NOV 07 2024
+ 
+TROPICAL DEPRESSION CENTER LOCATED NEAR 13.2N 104.4W AT 07/1500Z
+POSITION ACCURATE WITHIN  20 NM
+ 
+PRESENT MOVEMENT TOWARD THE EAST-SOUTHEAST OR 110 DEGREES AT   4 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE 1007 MB
+MAX SUSTAINED WINDS  25 KT WITH GUSTS TO  35 KT.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 13.2N 104.4W AT 07/1500Z
+AT 07/1200Z CENTER WAS LOCATED NEAR 13.4N 104.6W
+ 
+FORECAST VALID 08/0000Z 12.3N 103.7W
+MAX WIND  25 KT...GUSTS  35 KT.
+ 
+FORECAST VALID 08/1200Z...DISSIPATED
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 13.2N 104.4W
+ 
+NEXT ADVISORY AT 07/2100Z
+ 
+$$
+FORECASTER BUCCI
+ 
+ 
+</pre> 
+
+<br> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCMEP4+shtml/071448.shtml>
+
+---
+
+## ATCF XML Prototype [xml] - Tropical Depression Fourteen-E (EP4/EP142024)
+
+date: 2024-11-07, from: Eastern Pacific Basin GIS Data
+
+Issued at  Thu, 07 Nov 2024 14:48:16 GMT. This is only a prototype and the file format may change without notice. 
+
+<br> 
+
+<https://www.nhc.noaa.gov/storm_graphics/EP14/atcf-ep142024.xml>
+
+---
+
+## SPC Nov 7, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-11-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0648 AM CST Thu Nov 07 2024
+
+Valid 071300Z - 081200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+WEST TEXAS...
+
+...SUMMARY...
+Large hail, isolated severe thunderstorm gusts, and a tornado or two
+are possible this evening and tonight across parts of west Texas.
+
+...Synopsis...
+A closed and temporarily cut-off, mid/upper-level cyclone was
+drifting eastward to southeastward over the Desert Southwest and
+Four Corners regions, and centered near INW.  A large, well-
+developed, baroclinic-leaf formation was apparent in IR and
+moisture-channel imagery in its eastern semicircle, across much of
+NM and CO, and extending across the central High Plains.  The 500-mb
+low is forecast to move slowly to central NM through the period,
+while a shortwave trough now north of the low pivots around the
+southern/southeaster side of the cyclone tonight.  Associated height
+falls and large-scale ascent will gradually overspread west TX and
+the southern High Plains, both in the form of DCVA nearer to the
+cyclone core, and warm advection over much of the southern Plains to
+its east. 
+
+Meanwhile, per latest NHC forecasts, Hurricane Rafael will continue
+to move westward away from the Keys and Cuba, toward the central/
+south-central Gulf.  This will occur south of an arc of mid/upper
+ridging extending from the subtropical Atlantic across FL and the
+north-central to southwestern Gulf. 
+
+At the surface, the key feature for today's forecast will be a cold
+front -- drawn at 11Z from the Ohio Valley across central AR, to
+near a TXK-ERV line and becoming stationary to warm westward to a
+low near the Rio Grande, south of 6R6.  Another low was drawn
+between MAF-FST, and warm frontogenesis apparent to its east-
+southeast likely will persist and result in effective northward
+displacement of the western segment of the main frontal zone with
+time today.  As the aforementioned shortwave trough pivots toward
+the region, surface cyclogenesis is expected over the lower Pecos
+Valley/Permian Basin region of west TX, consolidating the previously
+elongated, multi-centered low-pressure area.  The low should move
+northward or north-northeastward tonight, toward the Caprock region
+of northwest TX, with a cold front to its south extending to the Big
+Bend region.  Meanwhile, the warm-frontal segment should advance
+northward over west-central TX, though considerable mesoscale
+uncertainty remains as to how far, given:
+1.  The strength of the ambient continental/polar airmass to its
+north and 
+2.  Probable reinforcement by convection/precip on the cool side
+much of today.  
+
+...West and central TX...
+Predominantly elevated thunderstorms are expected to develop today
+and gradually increase in coverage while moving northward over
+central and northwest TX, in a weakly capped plume of strengthening
+warm advection, moisture transport and ascent to LFC.  Isolated
+severe hail is possible with this activity, though lack of
+substantial buoyancy should limit overall severe potential to
+marginal in coverage and intensity. 
+
+As that process continues, a diurnally heated slot of return-flow
+boundary-layer air, containing increasingly unstable, surface-based
+parcels, will spread from south-central TX, the Rio Grande Valley
+and the southern Hill Country northwestward toward the frontal and
+cyclogenetic regimes.  Diurnal heating and moist advection are
+expected to yield favorable warm-sector destabilization.  Surface
+dewpoints increasing into the low 60s F in northern areas and upper
+60s to near 70 F over southern parts of the outlook will yield
+peak/preconvective MLCAPE in the 1500-2000 J/kg range ahead of the
+cold front and south of about I-20, with sharp reductions across the
+front toward the upper cyclone, and northward into the ambient
+rain-cooled airmass.  
+
+Meanwhile, large-scale ascent will continue to increase gradually on
+both sides of the front, peaking late overnight.  These processes
+will support isolated to scattered thunderstorm development from
+late afternoon into tonight, along the front and over higher terrain
+in the Big Bend region.  Some of this activity may be supercellular
+for a few hours, with all severe hazards possible.  Forecast
+hodographs indicate some tornado potential, especially near the low
+and if a discrete storm can interact with a favorably aligned
+segment of the front while maintaining warm-sector surface inflow. 
+Aforementioned mesoscale uncertainties preclude a more-focused,
+unconditional 5% tornado area at this time.  The delay in the
+strongest forcing for ascent after the peak buoyancy and the
+potential for evolution to extensively messy modes also renders
+tornado potential quite conditional.  Convective coverage overall
+should increase to scattered/numerous, expand to both sides of the
+front as cooling aloft overspreads the region, and render much
+messier convective mode.  Large hail will be possible on either side
+of the front, especially with relatively sustained/discrete cells,
+and damaging gusts will be most probable with convection moving
+into/through the warm sector.
+
+..Edwards/Mosier.. 11/07/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## CPHC Central North Pacific Outlook
+
+date: 2024-11-07, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_2d0_resize.gif" alt="Central North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_7d0_resize.gif" alt="Central North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC HFOTWOCP ALL<br>TTAA00 PHFO DDHHMM<br><br>Tropical Weather Outlook<br>NWS Central Pacific Hurricane Center Honolulu HI<br>200 AM HST Thu Nov 7 2024<br><br>For the central North Pacific...between 140W and 180W:<br><br>No tropical cyclones are expected during the next 7 days.<br><br>$$<br>Forecaster Jelsema<br>NNNN<br><br></div></div><br />
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## Eastern North Pacific Tropical Weather Outlook
+
+date: 2024-11-07, from: Eastern Pacific Basin Tropical Cyclones
+
+
+<br/>
+332 <br/>
+ABPZ20 KNHC 071136<br/>
+TWOEP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+400 AM PST Thu Nov 7 2024<br/>
+<br/>
+For the eastern North Pacific...east of 140 degrees west longitude:<br/>
+<br/>
+Active Systems: <br/>
+The National Hurricane Center is issuing advisories on Tropical <br/>
+Depression Fourteen-E, located several hundred miles southwest of <br/>
+southwestern Mexico.<br/>
+<br/>
+Tropical cyclone formation is not expected during the next 7 days.<br/>
+<br/>
+&&<br/>
+Public Advisories on Tropical Depression Fourteen-E are issued under <br/>
+WMO header WTPZ34 KNHC and under AWIPS header MIATCPEP4.<br/>
+Forecast/Advisories on Tropical Depression Fourteen-E are issued <br/>
+under WMO header WTPZ24 KNHC and under AWIPS header MIATCMEP4.<br/>
+<br/>
+$$<br/>
+Forecaster Bucci<br/>
+<br/>
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
 
 ---
 
@@ -82,18 +764,6 @@ probabilities at this time.
 
 ---
 
-## SPC - No watches are valid as of Wed Nov  6 17:31:01 UTC 2024
-
-date: 2024-11-06, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Wed Nov  6 17:31:01 UTC 2024. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
 ## SPC - No MDs are in effect as of Wed Nov  6 17:31:01 UTC 2024
 
 date: 2024-11-06, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -103,84 +773,6 @@ No Mesoscale Discussions are in effect as of Wed Nov  6 17:31:01 UTC 2024.
 <br> 
 
 <https://www.spc.noaa.gov/products/md/>
-
----
-
-## SPC Day 1 Fire Weather Outlook
-
-date: 2024-11-06, from: NOAA Weather Forecasts
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-1037 AM CST Wed Nov 06 2024
-
-Valid 061700Z - 071200Z
-
-...EXTREMELY CRITICAL FIRE WEATHER AREA FOR PORTIONS OF VENTURA AND
-LOS ANGELES COUNTIES...
-...CRITICAL FIRE WEATHER AREA FOR PORTIONS OF SOUTHERN CALIFORNIA...
-
-Current observations show strong offshore flow across
-terrain-favoring areas surrounding the Los Angeles metropolitan
-area, with sustained 30+ mph winds (and gusts well exceeding 60 mph)
-amid RH near 15 percent in the Ventura Valley region. These
-conditions should persist through much of the afternoon,
-necessitating the maintenance of Extremely Critical highlights.
-Observations in higher-terrain areas around Los Angeles toward the
-Laguna Mountains show solidly Critical conditions ongoing, with 20+
-mph sustained winds and gusts exceeding 45 mph coinciding with 15-20
-percent RH. These conditions should continue to the end of the
-period. Finally, guidance consensus continues to show Elevated
-conditions across the northern California Valley region, where
-downslope flow will encourage 15-20 mph sustained northerly winds
-amid 15-20 percent RH through the period.
-
-..Squitieri.. 11/06/2024
-
-.PREV DISCUSSION... /ISSUED 0200 AM CST Wed Nov 06 2024/
-
-...Synopsis...
-Between a highly amplified large-scale ridge over the West Coast,
-and a deep midlevel trough extending from the northern Plains into
-the Four Corners, a belt of strong deep-layer northerly flow will
-overspread the Great Basin into southern CA. In response, an
-expansive surface anticyclone will be reinforced over the
-Intermountain West. These factors will yield a strong offshore
-pressure gradient and ample upper-level support across southern CA,
-leading to a strong Santa Ana wind event.
-
-...Southern California...
-From Wednesday morning into Wednesday night, the tightening offshore
-pressure gradient (LAX-DAG peaking around -7 to -8 mb), coupled with
-the strong deep-layer north-northeasterly flow directed toward the
-coast, will favor sustained northeasterly surface winds of 30+ mph
-and gusts upwards of 60 mph across much of southern CA. Higher gusts
-(70+ mph) are expected over the wind-prone mountains and slopes.
-These strong/gusty winds will combine with lower teens/single-digit
-RH, leading to dangerous fire-weather conditions. The most volatile
-and long-duration combination of strong winds and low RH over
-receptive fuels is expected over the wind-prone Santa Ana corridor
-of southern Ventura and northern Los Angeles Counties -- where
-Extremely Critical fire-weather conditions are expected.
-
-...Northern/Central California...
-The tight pressure gradient peripheral to the strong surface
-anticyclone and enhanced deep-layer northerly flow will also favor
-strong northerly surface winds amid low RH over the western
-Sacramento Valley to the coast. Given modestly receptive fuels
-across this region, elevated to locally critical fire-weather
-conditions are expected from Wednesday morning into Wednesday night.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
 
 ---
 
@@ -223,18 +815,6 @@ and evening.  However, the overall risk appears to be lessening.
 
 ---
 
-## 120h 0.5 Degree Wind Speed Probabilities [shp] - Multiple Basins
-
-date: 2024-11-06, from: Eastern Pacific Basin GIS Data
-
-Shapefile last updated Wed, 06 Nov 2024 15:23:57 GMT 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gis/forecast/archive/wsp_120hrhalfDeg_latest.zip>
-
----
-
 ## Advisory #001 Forecast Track [kmz] - Tropical Depression Fourteen-E (EP4/EP142024)
 
 date: 2024-11-06, from: Eastern Pacific Basin GIS Data
@@ -256,30 +836,6 @@ Initial and Forecast Surface Winds. Shapefile last updated Wed, 06 Nov 2024 14:5
 <br> 
 
 <https://www.nhc.noaa.gov/gis/forecast/archive/ep142024_fcst_001.zip>
-
----
-
-## Preliminary Best Track [shp] - Tropical Depression Fourteen-E (EP4/EP142024)
-
-date: 2024-11-06, from: Eastern Pacific Basin GIS Data
-
-Track, Points, and Wind Swath. Shapefile last updated Wed, 06 Nov 2024 14:58:17 GMT 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gis/best_track/ep142024_best_track.zip>
-
----
-
-## Preliminary Best Track Points [kmz] - Tropical Depression Fourteen-E (EP4/EP142024)
-
-date: 2024-11-06, from: Eastern Pacific Basin GIS Data
-
-KMZ last updated Wed, 06 Nov 2024 14:58:17 GMT 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gis/best_track/ep142024_best_track.kmz>
 
 ---
 
@@ -393,27 +949,6 @@ Forecaster Bucci
 <br> 
 
 <https://www.nhc.noaa.gov/text/refresh/MIATCDEP4+shtml/061453.shtml>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2024-11-06, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>700 AM EST Wed Nov 6 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active Systems:<br>The National Hurricane Center is issuing advisories on Hurricane <br>Rafael, located over the northwest Caribbean Sea.<br><br>1. Southwestern Atlantic:<br>A trough of low pressure is producing an area of disorganized <br>showers and thunderstorms several hundred miles east-northeast of <br>the Leeward Islands.  This system is expected to move generally <br>westward during the next few days, and an area of low pressure could <br>form near the northern Leeward Islands tonight or Thursday.  <br>Afterward, some gradual development of this system is possible <br>toward the end of the week and into the early part of the weekend <br>while it moves near or to the north of the Virgin Islands and  <br>Puerto Rico, and approaches the Southeast Bahamas.<br>* Formation chance through 48 hours...low...20 percent.<br>* Formation chance through 7 days...low...30 percent.<br><br />
-<br>Forecaster Bucci<br></div></div><br />
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
 
 ---
 
@@ -569,89 +1104,6 @@ FORECASTER BUCCI
 
 ---
 
-## ATCF XML Prototype [xml] - Tropical Depression Fourteen-E (EP4/EP142024)
-
-date: 2024-11-06, from: Eastern Pacific Basin GIS Data
-
-Issued at  Wed, 06 Nov 2024 14:52:13 GMT. This is only a prototype and the file format may change without notice. 
-
-<br> 
-
-<https://www.nhc.noaa.gov/storm_graphics/EP14/atcf-ep142024.xml>
-
----
-
-## SPC Nov 6, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-11-06, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0648 AM CST Wed Nov 06 2024
-
-Valid 061300Z - 071200Z
-
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS IN THE LOWER
-FLORIDA KEYS...
-
-...SUMMARY...
-A couple of brief tornadoes will be possible within outermost
-fringes of the circulation of Hurricane Rafael, from late morning
-into the evening, across the Keys and the far southwestern Florida
-Peninsula.
-
-...Synopsis...
-In mid/upper levels, mean troughing will remain over the Rocky
-Mountain States as a strong subsynoptic trough -- now evident in
-moisture-channel imagery over the Four Corners region -- strengthens
-to a closed cyclone.  The associate 500-mb low is expected to become
-better-developed throughout the period as it closes off and
-retrogrades south-southwestward across AZ.  In response to these
-developments, height rises are forecast across the southern Plains
-and Gulf Coast region, while ridging also builds westward from the
-Bermuda high.  In turn, this should shift Hurricane Rafael westward
-toward the central Gulf, following today's crossing of western Cuba,
-per NHC forecast. 
-
-At the surface, 11Z analysis showed a frontal-wave low over ON north
-of Lake Huron, with cold front across Lower MI, IN, western parts of
-KY/TN/MS, central LA, and the shelf waters off the TX Gulf Coast. 
-Under height rises and weakening/largely parallel flow aloft, the
-frontal segment south of about I-40 should become quasistationary
-through the remainder of the period.  Given those factors, weak
-midlevel lapse rates, and negligible mid/upper support, associated
-thunderstorms should have an unconditional severe potential below 5%
-for gusts and less than 2% for tornado, with no large-hail threat. 
-
-...FL Keys and vicinity...
-Although Rafael will be pivoting more westward away from the region
-than previous forecast cycles suggested, and is a relatively small
-hurricane, the influence of ambient shear imparts a northeastward
-tilt to the overall convective pattern.  This will lead to the
-passage of peripheral cells and perhaps (over the Lower Keys)
-banding features.  The track forecast also should result in the
-largest low-level shear remaining west and south of EYW, but
-still-favorable hodographs passing across the outlook area from this
-afternoon into tonight.  As such, the outlook lines are shifted
-slightly westward, in keeping with NHC track-forecast trends, but
-still kept at 5% "slight" levels over the Lower Keys for this cycle.
-
-See latest NHC advisories for forecast track/intensity of Rafael,
-and tropical-related watches/warnings.
-
-..Edwards/Mosier.. 11/06/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
 ## There are no tropical cyclones at this time.
 
 date: 2024-11-06, from: Eastern Pacific Basin GIS Data
@@ -661,70 +1113,6 @@ No tropical cyclones as of Wed, 06 Nov 2024 12:03:58 GMT
 <br> 
 
 <https://www.nhc.noaa.gov/gis/>
-
----
-
-## Central Pacific Tropical Weather Outlook
-
-date: 2024-11-06, from: Central Pacific Tropical Weather Outlook
-
- <br />
- 000<br />
- ACPN50 PHFO 061144<br />
- TWOCP <br />
- <br />
- Tropical Weather Outlook<br />
- NWS Central Pacific Hurricane Center Honolulu HI<br />
- 200 AM HST Wed Nov 6 2024<br />
- <br />
- For the central North Pacific...between 140W and 180W:<br />
- <br />
- No tropical cyclones are expected during the next 7 days.<br />
- <br />
- $$<br />
- Forecaster Jelsema<br />
-  
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
-## Eastern Pacific Tropical Weather Outlook
-
-date: 2024-11-06, from: Eastern Pacific Tropical Weather Outlook
-
- <br />
- 000<br />
- ABPZ20 KNHC 061139<br />
- TWOEP <br />
- <br />
- Tropical Weather Outlook<br />
- NWS National Hurricane Center Miami FL<br />
- 400 AM PST Wed Nov 6 2024<br />
- <br />
- For the eastern North Pacific...east of 140 degrees west longitude:<br />
- <br />
- Southwest of Southwestern Mexico (EP93):<br />
- Showers and thunderstorms continue in association with an area of <br />
- low pressure located several hundred miles southwest of the coast of <br />
- southwestern Mexico.  Environmental conditions appear marginally <br />
- conducive for development during the next day or so, and a tropical <br />
- depression could form while the system moves generally <br />
- east-northeastward at 5 to 10 mph.  By the latter part of the week, <br />
- environmental conditions are forecast to become unfavorable for any <br />
- further development. <br />
- * Formation chance through 48 hours...medium...60 percent.<br />
- * Formation chance through 7 days...medium...60 percent.<br />
- <br />
- $$<br />
- Forecaster Bucci<br />
-  
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
 
 ---
 

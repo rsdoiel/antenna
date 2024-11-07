@@ -1,11 +1,109 @@
 ---
 title: motorcycles
-updated: 2024-11-06 09:39:26
+updated: 2024-11-07 08:17:52
 ---
 
 # motorcycles
 
-(date: 2024-11-06 09:39:26)
+(date: 2024-11-07 08:17:52)
+
+---
+
+## ARCA Menards West Series: 2024 Phoenix II Race Preview
+
+date: 2024-11-07, from: Kickin the Tires blog
+
+By Vincent Delforge, Special to Kickin&#8217; the Tires Here we are, it is the twelfth and final race of the 2024 ARCA Menards West Series season and it is the&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/arca-menards-west-series-2024-phoenix-ii-race-preview/>
+
+---
+
+## Honda Sorta Updated the Transalp Off-Roader, But I Wish They'd Have Gone Harder
+
+date: 2024-11-07, from: Ride Apart, Electric Motorcycle News
+
+While good out of the box, it could be better.  
+
+<br> 
+
+<https://www.rideapart.com/news/740081/honda-transalp-xl750-adventure-rally-opinion/>
+
+---
+
+## This Hayabusa-Swapped UTV is Absolutely Bonkers
+
+date: 2024-11-07, from: Ride Apart, Electric Motorcycle News
+
+I can’t wait to see this thing in action
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/739954/hayabusa-swapped-mini-trophy-truck-bonkers-utv/>
+
+---
+
+## Finally, Ducati’s Streetfighter V2 and V2S Don’t Make You Feel Bad
+
+date: 2024-11-07, from: Ride Apart, Electric Motorcycle News
+
+I can't be the only one that was caught in this maze.  
+
+<br> 
+
+<https://www.rideapart.com/news/740086/ducati-streetfighter-v2-v2s-specs/>
+
+---
+
+## Will LiveWire's Partnership with Kymco Finally Put It On The Right Path?
+
+date: 2024-11-07, from: Ride Apart, Electric Motorcycle News
+
+Maybe, but at least we're finally getting the Kymco RevoNEX out of the deal. 
+
+<br> 
+
+<https://www.rideapart.com/news/740080/kymco-livewire-ev-partnership-deepens/>
+
+---
+
+## Bajaj’s Freedom Motorcycle Is Proof That the World Wants Affordable Bikes
+
+date: 2024-11-07, from: Ride Apart, Electric Motorcycle News
+
+It’s proving to be a sales success mere months after launch.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/739958/bajaj-freedom-125-cng-sales-success-india/>
+
+---
+
+## How I build things
+
+date: 2024-11-07, from: Herman Bear Blog
+
+My process for starting new projects 
+
+<br> 
+
+<https://herman.bearblog.dev/how-i-build-things/>
+
+---
+
+## CFMoto Debuts First-Ever V4 Engine, Doesn't Tell Us a Single Thing About It
+
+date: 2024-11-06, from: Ride Apart, Electric Motorcycle News
+
+Maybe it's like the friends we made along the way? 
+
+<br> 
+
+<https://www.rideapart.com/news/740073/cfmoto-v4-engine-eicma-debut/>
 
 ---
 
