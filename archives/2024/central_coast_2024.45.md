@@ -1,11 +1,127 @@
 ---
 title: central coast
-updated: 2024-11-07 08:17:51
+updated: 2024-11-08 07:49:52
 ---
 
 # central coast
 
-(date: 2024-11-07 08:17:51)
+(date: 2024-11-08 07:49:52)
+
+---
+
+## Delta Dawn
+
+date: 2024-11-08, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100724-POD-Lynda-Nahra.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Spectacular Delta dawn in Discovery Bay." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100724-POD-Lynda-Nahra.jpg?w=2400&amp;ssl=1 2400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100724-POD-Lynda-Nahra.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100724-POD-Lynda-Nahra.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100724-POD-Lynda-Nahra.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100724-POD-Lynda-Nahra.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100724-POD-Lynda-Nahra.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100724-POD-Lynda-Nahra.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100724-POD-Lynda-Nahra.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100724-POD-Lynda-Nahra.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100724-POD-Lynda-Nahra.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100724-POD-Lynda-Nahra.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100724-POD-Lynda-Nahra.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/delta-dawn/">Delta Dawn</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/delta-dawn/>
+
+---
+
+## BizHawk: Bar Lou Brings Flavors of French Riviera to Montecito
+
+date: 2024-11-08, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110724-BizHawk-Bar-Lou1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Bar Lou has opened at 1198 Coast Village Road in Montecito." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110724-BizHawk-Bar-Lou1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110724-BizHawk-Bar-Lou1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110724-BizHawk-Bar-Lou1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110724-BizHawk-Bar-Lou1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110724-BizHawk-Bar-Lou1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110724-BizHawk-Bar-Lou1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110724-BizHawk-Bar-Lou1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110724-BizHawk-Bar-Lou1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110724-BizHawk-Bar-Lou1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>French Riviera-inspired Bar Lou has opened at the home of the former Oliver&#8217;s on Coast Village Road in Montecito. Brandon Boudet and Warner Ebbink, owners of Little Dom’s Seafood&#160;in&#160;Carpinteria and&#160;Little [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/bizhawk-bar-lou-brings-flavors-of-french-riviera-to-montecito/">BizHawk: Bar Lou Brings Flavors of French Riviera to Montecito</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/bizhawk-bar-lou-brings-flavors-of-french-riviera-to-montecito/>
+
+---
+
+## Robitaille’s Fine Candies in Carpinteria Closing After 36 Years
+
+date: 2024-11-08, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110724-Robitailles-Candy-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Tami and John Robitaille say they are looking forward to spending time with family after they close Robitaille&#039;s Fine Candies in Carpinteria on Dec. 1." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110724-Robitailles-Candy-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110724-Robitailles-Candy-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110724-Robitailles-Candy-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110724-Robitailles-Candy-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110724-Robitailles-Candy-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110724-Robitailles-Candy-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110724-Robitailles-Candy-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110724-Robitailles-Candy-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110724-Robitailles-Candy-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>All good things must come to an end. And this ending is bittersweet. Robitaille&#8217;s Fine Candies, a downtown treasure as synonymous with Carpinteria as its safe beaches, is closing Dec. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/after-36-years-robitailles-fine-candies-in-carpinteria-announces-closure/">Robitaille&#8217;s Fine Candies in Carpinteria Closing After 36 Years</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/after-36-years-robitailles-fine-candies-in-carpinteria-announces-closure/>
+
+---
+
+## Santa Barbara Voters Share Mixed Reactions to Trump Election Victory
+
+date: 2024-11-08, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110624-Election-Reaction-Anhao-DG-01.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="UCSB student Dana Mae Anhao says she couldn&#039;t support Donald Trump or Kamala Harris for president." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110624-Election-Reaction-Anhao-DG-01.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110624-Election-Reaction-Anhao-DG-01.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110624-Election-Reaction-Anhao-DG-01.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110624-Election-Reaction-Anhao-DG-01.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110624-Election-Reaction-Anhao-DG-01.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110624-Election-Reaction-Anhao-DG-01.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110624-Election-Reaction-Anhao-DG-01.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110624-Election-Reaction-Anhao-DG-01.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110624-Election-Reaction-Anhao-DG-01.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Tuesday&#8217;s presidential election results, securing a second term for Donald Trump, sent shock waves through local politics. Liberals who expected a strong showing, and possibly a landslide, were left crushed [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-voters-share-mixed-reacts-to-trump-election-victory/">Santa Barbara Voters Share Mixed Reactions to Trump Election Victory</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/santa-barbara-voters-share-mixed-reacts-to-trump-election-victory/>
+
+---
+
+## Laurie Jervis: Santa Barbara Vintners’ Push for Wine Preserve Takes Step Forward
+
+date: 2024-11-08, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Santa Barbara County recently approved the Santa Barbara Vintners’ petition document and management district plan for a Wine Preserve, or Business Improvement District (BID), moving the vintners organization a step [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/laurie-jervis-santa-barbara-vintners-push-for-wine-preserve-takes-step-forward/">Laurie Jervis: Santa Barbara Vintners&#8217; Push for Wine Preserve Takes Step Forward</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/laurie-jervis-santa-barbara-vintners-push-for-wine-preserve-takes-step-forward/>
+
+---
+
+## A Dynamic Look at Growth, Innovation, and the Future Shared at the 2024 “State of the Port”
+
+date: 2024-11-08, from: Port Hueneme
+
+<p>West Ventura County Business Alliance Hosts Annual Port Update Download Press Release Contact: Letitia Austin Public &#38; Government Relations Manager laustin@portofh.org &#160; &#160; [PORT HUENEME, CA] – The Residence Inn&#8230;</p>
+<p>The post <a href="https://www.portofhueneme.org/a-dynamic-look-at-growth-innovation-and-the-future-shared-at-the-2024-state-of-the-port/">A Dynamic Look at Growth, Innovation, and the Future Shared at the 2024 “State of the Port”</a> appeared first on <a href="https://www.portofhueneme.org">The Port of Hueneme</a>.</p>
+ 
+
+<br> 
+
+<https://www.portofhueneme.org/a-dynamic-look-at-growth-innovation-and-the-future-shared-at-the-2024-state-of-the-port/>
+
+---
+
+## Elections Office Reports Updated Results, 50K Unprocessed Ballots
+
+date: 2024-11-08, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-county-elections-agilis-machine-1-gm.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Angela Richey watches the Agilis machine sort ballots at the Santa Barbara County Elections Office." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-county-elections-agilis-machine-1-gm.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-county-elections-agilis-machine-1-gm.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-county-elections-agilis-machine-1-gm.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-county-elections-agilis-machine-1-gm.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-county-elections-agilis-machine-1-gm.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-county-elections-agilis-machine-1-gm.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-county-elections-agilis-machine-1-gm.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-county-elections-agilis-machine-1-gm.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102424-county-elections-agilis-machine-1-gm.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The Elections Office’s updated count Thursday afternoon showed no major changes to the semi-official results. The same candidates were ahead in every race, and the outlook for ballot measures was [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/elections-office-reports-updated-results-50k-unprocessed-ballots/">Elections Office Reports Updated Results, 50K Unprocessed Ballots</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/elections-office-reports-updated-results-50k-unprocessed-ballots/>
+
+---
+
+## Interfaith Thanksgiving Service: Transforming Trauma Into Hope
+
+date: 2024-11-08, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The annual Community Interfaith Thanksgiving Service is scheduled for 7 p.m. Tuesday, Nov. 26 at the First United Methodist Church, 305 E. Anapamu St. in downtown Santa Barbara. The theme [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/interfaith-thanksgiving-service-transforming-trauma-into-hope/">Interfaith Thanksgiving Service: Transforming Trauma Into Hope</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/interfaith-thanksgiving-service-transforming-trauma-into-hope/>
 
 ---
 

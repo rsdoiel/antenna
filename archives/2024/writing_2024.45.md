@@ -1,11 +1,61 @@
 ---
 title: writing
-updated: 2024-11-07 08:17:51
+updated: 2024-11-08 07:49:52
 ---
 
 # writing
 
-(date: 2024-11-07 08:17:51)
+(date: 2024-11-08 07:49:52)
+
+---
+
+## The DMCA 1201 Rulemaking: Summary, Key Takeaways, and Other Items of Interest
+
+date: 2024-11-08, from: Author's Union blog
+
+Last month, we blogged about the key takeaways from the 2024 TDM exemptions recently put in place by the Librarian of Congress, including how the 2024 exemptions (1) expand researchers’ access to existing corpora, (2) definitively allow the viewing and annotation of copyrighted materials for TDM research purposes, and (3) create new obligations for researchers [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2024/11/08/the-dmca-1201-rulemaking-summary-key-takeaways-and-other-items-of-interest/>
+
+---
+
+## New Book Releases For The Week Of November 5th, 2024!
+
+date: 2024-11-07, from: Locus Magazine
+
+<p>Welcome back for the first video of November, the month has just begun and we&#8217;ve got a fantastic collection of new SF, Fantasy, and Horror new releases for the week of 11/05/2024! Come check us out on the Locus YouTube channel! Don&#8217;t forget to subscribe to support what we do and stay up-to-date on all the new books hitting shelves every week!</p>
+<div class="jetpack-video-wrapper"></div> <a href="https://locusmag.com/2024/11/new-book-releases-for-the-week-of-november-5th-2024/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2024/11/new-book-releases-for-the-week-of-november-5th-2024/>
+
+---
+
+## Clarkesworld: Short Fiction Reviews by A.C. Wise
+
+date: 2024-11-07, from: Locus Magazine
+
+<p>Clarkesworld 7/24, 8/24</p>
+<p>“<strong>Every Hopeless Thing</strong>” by <strong>Tia Tashiro </strong>in the July issue of Clarkesworld is a sweet story about a spacefaring pilot, Elodie, who while scavenging on a supposedly abandoned Earth discovers a whole population living underground. The story carries emotional weight and paints a lovely pic­ture of finding hope in seemingly hopeless times. “<strong>The Best Version of You</strong>” by <strong>Grant Collier </strong>is another story  <a href="https://locusmag.com/2024/11/clarkesworld-short-fiction-reviews-by-a-c-wise-2/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/11/clarkesworld-short-fiction-reviews-by-a-c-wise-2/>
+
+---
+
+## Shelfies Newsletter
+
+date: 2024-11-07, from: Locus Magazine
+
+<p>In September 2024, Lavie Tidhar and Jared Shurin launched a free new weekly newsletter called Shelfies. Each week they feature a photo of a bookshelf from an author, artist, collector, or book lover, along with a brief essay &#8220;discussing some of their most treasured or interesting books.&#8221; Contributors so far include Jeffrey Alan Love, Cheryl S. Ntumy, George E. Osborn, Kieron Smith, and Kaaron Warren. For more, or to sign  <a href="https://locusmag.com/2024/11/shelfies-newsletter/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/11/shelfies-newsletter/>
 
 ---
 

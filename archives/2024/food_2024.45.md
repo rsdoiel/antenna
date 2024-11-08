@@ -1,11 +1,231 @@
 ---
 title: food
-updated: 2024-11-07 08:17:53
+updated: 2024-11-08 07:49:54
 ---
 
 # food
 
-(date: 2024-11-07 08:17:53)
+(date: 2024-11-08 07:49:54)
+
+---
+
+## Find Coffee Industry Jobs On Sprudge Jobs
+
+date: 2024-11-08, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. The coffee industry's leading jobs resource page. 
+
+<br> 
+
+<https://sprudge.com/find-coffee-industry-jobs-on-sprudge-jobs-258454.html>
+
+---
+
+## The Healthy Snacks BA Editors Are Obsessed With (2024)
+
+date: 2024-11-08, from: Bon Appetet
+
+To-go hummus cups, jammy nut butter bites, and your new favorite chips. 
+
+<br> 
+
+<https://www.bonappetit.com/story/the-best-healthy-snacks>
+
+---
+
+## Good Grief! Onyx Coffee Lab & The Peanuts Is The Holiday Themed Collab You Need In Your Life
+
+date: 2024-11-08, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. I can't stand it! The collab is too good. 
+
+<br> 
+
+<https://sprudge.com/good-grief-onyx-coffee-lab-the-peanuts-is-the-holiday-themed-collab-you-need-in-your-life-258468.html>
+
+---
+
+## Crystal Extra-Hot Sauce Review
+
+date: 2024-11-08, from: Pepper Scale
+
+Love Crystal Hot Sauce but want more oomph? Enter Crystal Extra-Hot. This hot sauce has more of that cayenne kick that you’re craving. But does that extra spiciness come at the cost of flavor? Can you still use it nearly anywhere, like you would the ... <p class="read-more-container"><a title="Crystal Extra-Hot Sauce Review" class="read-more button" href="https://pepperscale.com/crystal-extra-hot-sauce/#more-99040" aria-label="Read more about Crystal Extra-Hot Sauce Review">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/crystal-extra-hot-sauce/>
+
+---
+
+## The Modern Coffee Shop Tech Stack
+
+date: 2024-11-08, from: The Fresh Cup
+
+<p>Coffee shops are more connected than ever before, and building a robust technology stack is essential—here are the tech and tools industry leaders use to make their shops run smoothly. </p>
+<p>The post <a href="https://freshcup.com/the-modern-coffee-shop-tech-stack/">The Modern Coffee Shop Tech Stack</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/the-modern-coffee-shop-tech-stack/>
+
+---
+
+## Creamy Chili Crisp Pasta and More Recipes We Made This Week
+
+date: 2024-11-08, from: Bon Appetet
+
+Like lemony mushroom pilaf and butternut squash soup. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-november-2024>
+
+---
+
+## Chicken Poblano Soup
+
+date: 2024-11-08, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/chicken-poblano-soup/"><img title="chicken-poblano-soup-small-5" src="https://www.isabeleats.com/wp-content/uploads/2024/10/chicken-poblano-soup-small-5-400x600.jpg" alt="Creamy chicken poblano soup in a bowl served with fresh lime wedges, tortilla chips, and cilantro." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	This creamy and comforting chicken poblano soup is the perfect easy and delicious meal for any night of the week. Juicy shredded chicken, sweet corn, and sautéed poblano peppers come together in a rich and creamy broth in under an hour! Soups are one of my favorite recipes to make. From easy and comforting soups [&#8230;] 
+
+<br> 
+
+<https://www.isabeleats.com/chicken-poblano-soup/>
+
+---
+
+## Arroz con Dulce Recipe
+
+date: 2024-11-08, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/arroz-con-dulce/" title="Arroz con Dulce Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Arroz-con-Dulce-Recipe3-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="2 glasses of creamy Arroz con Dulce (Coconut Rice Pudding)" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Arroz-con-Dulce-Recipe3-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Arroz-con-Dulce-Recipe3-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Arroz-con-Dulce-Recipe3-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Arroz-con-Dulce-Recipe3-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Arroz-con-Dulce-Recipe3-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Arroz-con-Dulce-Recipe3-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Arroz-con-Dulce-Recipe3.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Arroz con Dulce is a delicious Puerto Rican rice pudding that combines creamy rice with the rich flavors of coconut, clove, cinnamon, and ginger, making it the perfect easy dessert!</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/arroz-con-dulce/">Arroz con Dulce Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/arroz-con-dulce/>
+
+---
+
+## I Tried Everything on Taco Bell’s Decades Menu
+
+date: 2024-11-07, from: Taste of Home
+
+<p>I ordered each throwback item on Taco Bell's Decade Menu to see if the classics are as good as I remember.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/i-tried-everything-on-taco-bells-decades-menu/">I Tried Everything on Taco Bell&#8217;s Decades Menu</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/i-tried-everything-on-taco-bells-decades-menu/>
+
+---
+
+## Get a Head Start on the Holidays! We Found the Best Early Black Friday Deals of 2024
+
+date: 2024-11-07, from: Taste of Home
+
+<p>Don't sleep on these early Black Friday deals! We found major markdowns on top gear for the home and kitchen.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/black-friday-2024/">Get a Head Start on the Holidays! We Found the Best Early Black Friday Deals of 2024</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/black-friday-2024/>
+
+---
+
+## The Best Prepared Meal Delivery Service for When You Need Dinner Now
+
+date: 2024-11-07, from: Bon Appetet
+
+We love to cook, but sometimes a prepared meal kit really comes in handy. We’ve tried all of the services available nationwide and find that these four are the best. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/the-best-prepared-meal-delivery-services-for-when-you-need-dinner-now>
+
+---
+
+## 9 Best Early Vitamix Black Friday Deals 2024 for Creamy Soups and Sauces
+
+date: 2024-11-07, from: Bon Appetet
+
+The best blender you can possibly buy—already on sale in the lead up to Black Friday. 
+
+<br> 
+
+<https://www.bonappetit.com/story/vitamix-black-friday-11-7-2024>
+
+---
+
+## People Are Obsessed with This Cranberry Soda—Here’s Why
+
+date: 2024-11-07, from: Taste of Home
+
+<p>Is Poppi Cranberry Fizz worth the hype? Our senior shopping editor tested this viral soda to find out.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/poppi-cranberry-fizz/">People Are Obsessed with This Cranberry Soda—Here&#8217;s Why</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/poppi-cranberry-fizz/>
+
+---
+
+## 10 Famous Goldbelly Cakes You Can Order Right Now
+
+date: 2024-11-07, from: Taste of Home
+
+<p>The most cherished bakeries make it easy to try their world-famous confections from anywhere with a Goldbelly cakes delivery.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/goldbelly-cakes/">10 Famous Goldbelly Cakes You Can Order Right Now</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/goldbelly-cakes/>
+
+---
+
+## The 13 Best Gifts for Tea Lovers
+
+date: 2024-11-07, from: Bon Appetet
+
+Beautifully blooming loose leaf teas, display-worthy kettles, and self-warming mugs to keep your favorite tea drinker cozy this year. 
+
+<br> 
+
+<https://www.bonappetit.com/story/gifts-for-tea-lovers>
+
+---
+
+## Column: Prices and Weather in Colombia Create Tension Between Conventional and Specialty
+
+date: 2024-11-07, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Colombia-coffee-harvest-picking-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Colombia coffee harvest picking" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Colombia-coffee-harvest-picking-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Colombia-coffee-harvest-picking-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Colombia-coffee-harvest-picking-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Colombia-coffee-harvest-picking-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Colombia-coffee-harvest-picking.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Colombian coffee industry is currently in the middle of its main annual harvest. As the third largest coffee producing nation in the world, achieving a successful harvest for producers... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/11/07/column-prices-and-weather-in-colombia-create-tension-between-conventional-and-specialty/>
+
+---
+
+## Coffee’s Voyage from Honduras to New Hampshire Culminates at Odysea
+
+date: 2024-11-07, from: Daily Coffee News
+
+<div><img width="620" height="432" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/Odysea-Coffee-NH-bar-1-620x432.jpg" class="attachment-large size-large wp-post-image" alt="Odysea Coffee NH bar" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/Odysea-Coffee-NH-bar-1-620x432.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Odysea-Coffee-NH-bar-1-300x209.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Odysea-Coffee-NH-bar-1-150x104.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Odysea-Coffee-NH-bar-1-768x535.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Odysea-Coffee-NH-bar-1.jpg 1179w" sizes="(max-width: 620px) 100vw, 620px" /></div>With its first cafe now open in Bristol, New Hampshire, Odysea Coffee Roasters is connecting one of its founder&#8217;s roots in Honduras to another founder&#8217;s roots in New England. Occupying... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/11/07/coffees-voyage-from-honduras-to-new-hampshire-culminates-at-odysea/>
 
 ---
 
@@ -179,7 +399,7 @@ Instead of roasting, toss your brassicas in a skillet for a quick side dish.
 
 date: 2024-11-06, from: Daily Coffee News
 
-<div><img width="620" height="497" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-brew-1-620x497.jpg" class="attachment-large size-large wp-post-image" alt="coffee brew" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-brew-1-620x497.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-brew-1-300x240.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-brew-1-150x120.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-brew-1-768x616.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-brew-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Moderate coffee and tea consumption may help protect people with high blood pressure from developing dementia, according to a major new study. Published Sept. 10 in Nature&#8217;s Scientific Reports, the... 
+<div><img width="620" height="497" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-brew-1-620x497.jpg" class="attachment-large size-large wp-post-image" alt="coffee brew" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-brew-1-620x497.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-brew-1-300x240.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-brew-1-150x120.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-brew-1-768x616.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-brew-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Moderate coffee and tea consumption may help protect people with high blood pressure from developing dementia, according to a major new study. Published Sept. 10 in Nature&#8217;s Scientific Reports, the... 
 
 <br> 
 
@@ -191,7 +411,7 @@ date: 2024-11-06, from: Daily Coffee News
 
 date: 2024-11-06, from: Daily Coffee News
 
-<div><img width="620" height="468" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/Typhoon-10kg-roasters-620x468.jpeg" class="attachment-large size-large wp-post-image" alt="Typhoon 10kg roasters" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/Typhoon-10kg-roasters-620x468.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Typhoon-10kg-roasters-300x226.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Typhoon-10kg-roasters-150x113.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Typhoon-10kg-roasters-768x580.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Typhoon-10kg-roasters.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Czech coffee roaster manufacturer Typhoon Roasters relaunched a 10-kilo-capacity roaster within its existing roaster lineup, focusing more on lighter commercial roasting with a smaller footprint and updated controls.&#160; &#8220;Originally intended... 
+<div><img width="620" height="468" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/Typhoon-10kg-roasters-620x468.jpeg" class="attachment-large size-large wp-post-image" alt="Typhoon 10kg roasters" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/Typhoon-10kg-roasters-620x468.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Typhoon-10kg-roasters-300x226.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Typhoon-10kg-roasters-150x113.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Typhoon-10kg-roasters-768x580.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Typhoon-10kg-roasters.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Czech coffee roaster manufacturer Typhoon Roasters relaunched a 10-kilo-capacity roaster within its existing roaster lineup, focusing more on lighter commercial roasting with a smaller footprint and updated controls.&#160; &#8220;Originally intended... 
 
 <br> 
 
@@ -217,7 +437,7 @@ date: 2024-11-06, from: Taste of Home
 
 date: 2024-11-06, from: Daily Coffee News
 
-<div><img width="620" height="403" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/evok-1-620x403.jpg" class="attachment-large size-large wp-post-image" alt="evok-1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/evok-1-620x403.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/evok-1-300x195.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/evok-1-150x97.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/evok-1-768x499.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/evok-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>As of Nov. 1, VEA Group officially formed in Italy through the merger of coffee equipment companies Carimali, Elektra, Heylo and Bellezza. VEA initially launched as a holding company in... 
+<div><img width="620" height="403" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/evok-1-620x403.jpg" class="attachment-large size-large wp-post-image" alt="evok-1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/evok-1-620x403.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/evok-1-300x195.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/evok-1-150x97.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/evok-1-768x499.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/evok-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>As of Nov. 1, VEA Group officially formed in Italy through the merger of coffee equipment companies Carimali, Elektra, Heylo and Bellezza. VEA initially launched as a holding company in... 
 
 <br> 
 
@@ -267,7 +487,7 @@ date: 2024-11-06, from: The Fresh Cup
 
 date: 2024-11-06, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/lentejas/" title="Mexican Lentil Soup (Lentejas)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Lentejas-Recipe-BOWL1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Mexican Lentil Soup (Lentejas) in a bowl" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Lentejas-Recipe-BOWL1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Lentejas-Recipe-BOWL1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Lentejas-Recipe-BOWL1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Lentejas-Recipe-BOWL1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Lentejas-Recipe-BOWL1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Lentejas-Recipe-BOWL1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Lentejas-Recipe-BOWL1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Lentejas is a delicious Mexican lentil soup made with lots of vegetables, herbs, and hearty lentils for a quick and satisfying meal, easy to make.</p>
+<a href="https://www.chilipeppermadness.com/recipes/lentejas/" title="Mexican Lentil Soup (Lentejas)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Lentejas-Recipe-BOWL1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Mexican Lentil Soup (Lentejas) in a bowl" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Lentejas-Recipe-BOWL1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Lentejas-Recipe-BOWL1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Lentejas-Recipe-BOWL1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Lentejas-Recipe-BOWL1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Lentejas-Recipe-BOWL1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Lentejas-Recipe-BOWL1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/09/Lentejas-Recipe-BOWL1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Lentejas is a delicious Mexican lentil soup made with lots of vegetables, herbs, and hearty lentils for a quick and satisfying meal, easy to make.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/lentejas/">Mexican Lentil Soup (Lentejas)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 
@@ -368,6 +588,18 @@ date: 2024-11-05, from: Daily Coffee News
 <br> 
 
 <https://dailycoffeenews.com/2024/11/05/brew-peddler-dealing-in-quality-coffee-and-baked-goods-in-spokane/>
+
+---
+
+## Christmas Fettuccine
+
+date: 2024-11-05, from: Taste of Home
+
+Celebrate the season just as the characters in <em>The Holiday</em> did, with a bowl of Christmas fettuccine! 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/christmas-fettuccine-recipe/>
 
 ---
 

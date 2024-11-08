@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2024-11-07 08:17:53
+updated: 2024-11-08 07:49:53
 ---
 
 # retro computing
 
-(date: 2024-11-07 08:17:53)
+(date: 2024-11-08 07:49:53)
+
+---
+
+## New Steam Client Ups the Ante for Linux
+
+date: 2024-11-08, from: Linux Magazine
+
+<p>The latest release from Steam has some pretty cool tricks up its sleeve.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/New-Steam-Client-Ups-the-Ante-for-Linux>
 
 ---
 

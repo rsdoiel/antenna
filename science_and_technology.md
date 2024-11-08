@@ -1,11 +1,515 @@
 ---
 title: science and technology
-updated: 2024-11-07 08:17:51
+updated: 2024-11-08 07:49:51
 ---
 
 # science and technology
 
-(date: 2024-11-07 08:17:51)
+(date: 2024-11-08 07:49:51)
+
+---
+
+## Scattered Spider, BlackCat claw their way back from criminal underground
+
+date: 2024-11-08, updated: 2024-11-08, from: The Register (UK I.T. News)
+
+<h4>We all know by now that monsters never die, right?</h4> <p>Two high-profile criminal gangs, Scattered Spider and BlackCat/ALPHV, seemed to disappear into the darkness like their namesakes following a series of splashy digital heists last year, after which there were arrests and website seizures.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/08/scattered_spider_blackcat_return/>
+
+---
+
+## 40 Years Ago: STS-51A – “The Ace Repo Company”
+
+date: 2024-11-08, from: NASA breaking news
+
+Successfully deployed from the space shuttle Challenger during the February 1984 STS-41B mission, the Westar 6 and Palapa B2 communications satellites ended up in incorrect orbits due to failures of their upper stage rockets. During STS-51A in November 1984, Discovery’s second trip into space, the crew of Commander Frederick H. “Rick” Hauck, Pilot David M. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/history/40-years-ago-sts-51a-the-ace-repo-company/>
+
+---
+
+## Debate May Help AI Models Converge on Truth
+
+date: 2024-11-08, from: Quanta Magazine
+
+How do we know if a large language model is lying? Letting AI systems argue with each other may help expose the truth.             <p>The post <a href="https://www.quantamagazine.org/debate-may-help-ai-models-converge-on-truth-20241108/" target="_blank">Debate May Help AI Models Converge on Truth</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/debate-may-help-ai-models-converge-on-truth-20241108/>
+
+---
+
+## When Art Thieves Stole Four Andy Warhol Prints, They Didn't Realize Only Two Would Fit in the Getaway Car
+
+date: 2024-11-08, from: Smithsonian Magazine
+
+The robbers only made away with two of the screen prints, which they swiped from a gallery in the Netherlands. They abandoned the other artworks on the street 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/when-art-thieves-stole-four-andy-warhol-prints-they-didnt-realize-only-two-would-fit-in-the-getaway-car-180985402/>
+
+---
+
+## Hubble Captures a Galaxy with Many Lights
+
+date: 2024-11-08, from: NASA breaking news
+
+This NASA/ESA Hubble Space Telescope image features NGC 1672, a barred spiral galaxy located 49 million light-years from Earth in the constellation Dorado. This galaxy is a multi-talented light show, showing off an impressive array of different celestial lights. Like any spiral galaxy, shining stars fill its disk, giving the galaxy a beautiful glow. Along […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-captures-a-galaxy-with-many-lights/>
+
+---
+
+## Former SK hynix chip engineer gets 1.5 years in prison for alleged IP theft
+
+date: 2024-11-08, updated: 2024-11-08, from: The Register (UK I.T. News)
+
+<h4>Printed around 4,000 pages of tech before leaving for a job at Huawei, claims court</h4> <p>A Chinese national was sentenced to 18 months in prison and fined ₩20 million ($14,400) for allegedly stealing semiconductor manufacturing technology from SK hynix, according to a South Korean court ruling.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/08/sk_hynix_jailtime/>
+
+---
+
+## Europe's largest local authority slammed for 'poorest' ERP rollout ever
+
+date: 2024-11-08, updated: 2024-11-08, from: The Register (UK I.T. News)
+
+<h4>Government-appointed commissioners say Birmingham severely lacked Oracle skills during disastrous implementation</h4> <p>UK government-appointed commissioners have labeled Birmingham City Council&#39;s Oracle Fusion rollout as &#34;the poorest ERP deployment&#34; they have seen.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/08/birmingham_oracle_erp_rollout/>
+
+---
+
+## CISPE framework aids EU Data Act compliance, cloud switching
+
+date: 2024-11-08, updated: 2024-11-08, from: The Register (UK I.T. News)
+
+<h4>&#39;It helps Euro organizations to avoid lock-in and design the cloud strategy they want&#39;</h4> <p>European cloud consortium CISPE has unveiled a framework to help members and their customers automate compliance with the EU Data Act&#39;s obligations around data portability and switching.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/08/cispe_eu_data_act/>
+
+---
+
+## Watchdog finds AI tools can be used unlawfully to filter candidates by race, gender
+
+date: 2024-11-08, updated: 2024-11-08, from: The Register (UK I.T. News)
+
+<h4>UK data regulator says some devs and providers are operating without a &#39;lawful basis&#39;</h4> <p>The UK&#39;s data protection watchdog finds that AI recruitment technologies can filter candidates according to protected characteristics including race, gender, and sexual orientation.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/08/ico_finds_ai_tools_can/>
+
+---
+
+## Tech support world record? 8.5 seconds from seeing to fixing
+
+date: 2024-11-08, updated: 2024-11-08, from: The Register (UK I.T. News)
+
+<h4>Your very fastest resolution, delivered in a flash – even in The Time Before Google</h4> <p><strong>On Call</strong>  The working week can be a trek. And so can a holiday, which the On Call author has taken this week – but not before preparing a new installment of <i>The Register</i>’s Friday column that recounts tech support tales kindly contributed by readers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/08/on_call/>
+
+---
+
+## NHS to launch 'real-time surveillance system' to prevent future pandemics
+
+date: 2024-11-08, updated: 2024-11-08, from: The Register (UK I.T. News)
+
+<h4>Nanopore DNA screening technology may identify novel pathogens, propose treatments in as little as six hours</h4> <p>A public-private partnership in the UK is constructing what the government said is &#34;the world&#39;s first real-time surveillance system&#34; to track and prevent future pandemics. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/08/nhs_realtime_surveillance_pandemic/>
+
+---
+
+## NASA fires up super-quiet supersonic X-59 aircraft
+
+date: 2024-11-08, updated: 2024-11-08, from: The Register (UK I.T. News)
+
+<h4>A try called Quesst</h4> <p><strong>Vid</strong>  The aircraft NASA hopes will usher in a new generation of transport that&#39;s supersonic but also relatively quiet has fired up its engines for the first time as a test.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/08/nasa_fires_up_x_59/>
+
+---
+
+## Canada closes TikTok's offices but leaves using the app a matter of 'personal choice'
+
+date: 2024-11-08, updated: 2024-11-08, from: The Register (UK I.T. News)
+
+<h4>Govt order destroys &#39;hundreds of well-paying local jobs&#39;, eh</h4> <p>Canada has ordered the dissolution of TikTok&#39;s Canadian business – without banning the app itself – citing national security risks associated with ByteDance&#39;s operations in the country.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/08/canada_closes_tiktok_offices/>
+
+---
+
+## Winos4.0 abuses gaming apps to infect, control Windows machines
+
+date: 2024-11-08, updated: 2024-11-08, from: The Register (UK I.T. News)
+
+<h4>&#39;Multiple&#39; malware samples likely targeting education orgs</h4> <p>Criminals are using game-related applications to infect Windows systems with a malicious software framework called Winos4.0 that gives the attackers full control over compromised machines.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/08/winos40_targets_windows/>
+
+---
+
+## IBM sued again in storm over Weather Channel data sharing
+
+date: 2024-11-08, updated: 2024-11-08, from: The Register (UK I.T. News)
+
+<h4>Privacy lawsuit blows this way alleging disclosure of names, email addresses, geo info, video titles without permission</h4> <p>IBM has been sued again for allegedly allowing third-party ad partners to collect personal data without consent via videos on its Weather Channel website.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/08/ibm_weather_channel_privacy/>
+
+---
+
+## Robots crush career opportunities for low-skilled workers
+
+date: 2024-11-08, updated: 2024-11-08, from: The Register (UK I.T. News)
+
+<h4>They also boost support for populist politicians, study finds</h4> <p>Robots are devaluing and derailing workers&#39; careers in both manufacturing and other jobs tied to regional economics, according to a recent study.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/08/robots_crush_career_low_skill/>
+
+---
+
+## LXQt 2.1.0 released with optional Wayland session
+
+date: 2024-11-07, from: OS News
+
+LXQt, the desktop environment that is to KDE what Xfce is to GNOME, has released version 2.1.0, and while the version number change seems average, it&#8217;s got a big ace up its sleeve: you can now run LXQt in a Wayland session, and they claim it works quite well, too, and it supports a wide variety of compositors. Through its new component&#160;lxqt-wayland-session, LXQt 2.1.0 supports 7 Wayland sessions (with Labwc, KWin, Wayfire, Hyprland, Sway, River and Niri), has two Wayland back-ends in&#160;lxqt-panel&#160;(one for&#160;kwin_wayland&#160;and the other general), and will add more later. All LXQt components that are not limited to X11 — i.e., most components — work fine on Wayland. The sessions are available in the new section&#160;Wayland Settings&#160;inside LXQt Session Settings. At least one supported Wayland compositor should be installed in addition to&#160;lxqt-wayland-session&#160;for it to be used. There is still hard work to do, but all of the current LXQt Wayland sessions are quite usable; their differences are about what the supported Wayland compositors provide. ↫ LXQt 2.1.0 release announcement This is great news for LXQt, as it ensures the desktop environment is ready to keep up with what modern Linux distributions provide. Crucially and in line with what we&#8217;ve come to expect from LXQt, X11 support is a core part of the project, and they even go so far as to say &#8220;the X11 session will be supported indefinitely&#8221;, which should set people preferring to stay on X11 at ease. I personally may have gleefully left X11 in the dustbin of history, but many among us haven&#8217;t, and it&#8217;s welcome to see LXQt&#8217;s clear promise here. Many of the other improvements in this release are tied to Wayland, making sure the various components work and Wayland settings can be adjusted. On top of that, there&#8217;s the usual list of bug fixes and smaller changes, too. 
+
+<br> 
+
+<https://www.osnews.com/story/141094/lxqt-2-1-0-released-with-optional-wayland-session/>
+
+---
+
+## Microsoft improves its Prism x86-on-ARM emulator
+
+date: 2024-11-07, from: OS News
+
+The current version of Windows on ARM contains Prism, Microsoft&#8217;s emulator that allows x86-64 code to run on ARM processors. While it was already relatively decent on the recent Snapdragon X platform, it could still be very hit-or-miss with what applications it would run, and especially games seemed to be problematic. As such, Microsoft has pushed out a major update to Prism that adds support for a whole bunch of extensions to the x86 architecture. This new support in Prism is already in limited use today in the retail version of Windows 11, version 24H2, where it enables the ability to run&#160;Adobe Premiere Pro 25&#160;on Arm. Starting with Build 27744, the support is being opened to any x64 application under emulation. You may find some games or creative apps that were blocked due to CPU requirements before will be able to run using Prism on this build of Windows. At a technical level, the virtual CPU used by x64 emulated applications through Prism will now have support for additional extensions to the x86 instruction set architecture. These extensions include AVX and AVX2, as well as BMI, FMA, F16C, and others, that are not required to run Windows but have become sufficiently commonplace that some apps expect them to be present. You can see some of the new features in the output of a tool like&#160;Coreinfo64.exe. ↫ Amanda Langowski and Brandon LeBlanc on the Windows Blog Hopefully this makes running existing x86 applications that don&#8217;t yet have an ARM version a more reliable affair for Windows on ARM users. 
+
+<br> 
+
+<https://www.osnews.com/story/141092/microsoft-improves-its-prism-x86-on-arm-emulator/>
+
+---
+
+## Flanked by Palantir and AWS, Anthropic's Claude marches into US defense intelligence
+
+date: 2024-11-07, updated: 2024-11-07, from: The Register (UK I.T. News)
+
+<h4>An emotionally-manipulable AI in the hands of the Pentagon and CIA? This&#39;ll surely end well</h4> <p>Palantir has announced a partnership with Anthropic and Amazon Web Services to build a cloudy Claude platform suitable for the most secure of the US government&#39;s defense and intelligence use cases.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/07/anthropic_palantir_aws_claude/>
+
+---
+
+## Oral History with Stephen G. Jurczyk, 1962 – 2023
+
+date: 2024-11-07, from: NASA breaking news
+
+Steve Jurczyk’s NASA career began in 1988 at Langley Research Center as an engineer in the Electronic Systems Branch. During his time at Langley, he served in other roles, including director of engineering and director of research and technology.&#160; Jurczyk was named as director of Langley in 2014, then in 2015 he left Langley to [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/oral-history-with-stephen-g-jurczyk-1962-2023/>
+
+---
+
+## Astroboffins tune into the wild origins of fast radio bursts
+
+date: 2024-11-07, updated: 2024-11-07, from: The Register (UK I.T. News)
+
+<h4>Enigmatic cosmic signals from outside this galaxy could come from collapsed binary stars</h4> <p>Scientists have discovered more clues about the birth of fast radio bursts (FRBs) emitted from distant galaxies whose origins remain a mystery.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/07/fast_radio_burst_research/>
+
+---
+
+## Oral History with Mary L. Cleave, 1947 – 2023
+
+date: 2024-11-07, from: NASA breaking news
+
+A veteran of two space flights, Dr. Cleave served as a mission specialist on STS-61B and STS-30.&#160; She went on to join NASA&#8217;s Goddard Space Flight Center and worked in the Laboratory for Hydrospheric Processes as the Project Manager for SeaWiFS, an ocean color sensor which is monitoring vegetation globally.&#160; Dr. Cleave next served as [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/oral-history-with-mary-l-cleave-1947-2023/>
+
+---
+
+## Don't open that 'copyright infringement' email attachment – it's an infostealer
+
+date: 2024-11-07, updated: 2024-11-07, from: The Register (UK I.T. News)
+
+<h4>Curiosity gives crims access to wallets and passwords</h4> <p>Organizations should be on the lookout for bogus copyright infringement emails as they might be the latest ploy by cybercriminals to steal their data.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/07/fake_copyright_email_malware/>
+
+---
+
+## QNX becomes free for non-commercial use, releases Raspberry Pi 4 image
+
+date: 2024-11-07, from: OS News
+
+A long, long time ago, back when running BeOS as my main operating system had finally become impossible, I had a short stint running QNX as my one and only operating system. In 2004, before I joined OSNews and became its managing editor, I also wrote and published an article about QNX on OSNews, which is cringe-inducing to read over two decades later (although I was only 20 when I wrote that &#8211; I should be kind to my young self). Sadly, the included screenshots have not survived the several transitions OSNews has gone through since 2004. Anyway, back in those days, it was entirely possible to use QNX as a general purpose desktop operating system, mostly because of two things. First, the incredible Photon MicroGUI, an excellent and unique graphical environment that was a joy to use, and two, because of a small but dedicated community of enthousiasts, some of which QNX employees, who ported a ton of open source applications, from basic open source tools to behemoths like Thunderbird, the Mozilla Suite, and Firefox, to QNX. It even came with an easy-to-use package manager and associated GUI to install all of these applications without much hassle. Using QNX like this was a joy. It really felt like a tightly controlled, carefully crafted user experience, despite desktop use being so low on the priority list for the company that it might as well have not been on there at all. Not long after, I think a few of the people inside QNX involved with the QNX desktop community left the company, and the entire thing just fizzled out afterwards when the company was acquired by Harman Kardon. Not long after, it became clear the company lost all interest, a feeling only solidified once Blackberry acquired the company. Somewhere in between the company released some of its code under some not-quite-open-source license, accompanied by a rather lacklustre push to get the community interested again. This, too, fizzled out. Well, it seems the company is trying to reverse course, and has started courting the enthusiast community once again. This time, it&#8217;s called QNX Everywhere, and it involves making QNX available for non-commercial use for anyone who wants it. No, it&#8217;s not open source, and yes, it requires some hoops to jump through still, but it&#8217;s better than nothing. In addition, QNX also put a bunch of open source demos, applications, frameworks, and libraries on GitLab. One of the most welcome new efforts is a bootable QNX image for the Raspberry Pi 4 (and only the 4, sadly, which I don&#8217;t own). It comes with a basic set of demo application you can run from the command line, including a graphical web browser, but sadly, it does not seem to come with Photon microGUI or any modern equivalent. I&#8217;m guessing Photon hasn&#8217;t seen a ton of work since its golden days two decades ago, which might explain why it&#8217;s not here. There&#8217;s also a list of current open source ports, which includes chunks of toolkits like GTK and Qt, and a whole bunch of other stuff. Honestly, as cool as this is, it seems it&#8217;s mostly aimed at embedded developers instead of weird people who want to use QNX as a general purpose operating system, which makes total sense from QNX&#8217; perspective. I hope Photon microGUI will make a return at some point, and it would be awesome &#8211; but I expect unlikely &#8211; if QNX could be released as open source, so that it would be more likely a community of enthusiasts could spring up around it. For now, without much for a non-developer like me to do with it, it&#8217;s not making me run out to buy a Raspberry Pi 4 just yet. 
+
+<br> 
+
+<https://www.osnews.com/story/141089/qnx-becomes-free-for-non-commercial-use-releases-raspberry-pi-4-image/>
+
+---
+
+## To See a Spellbinding Contemporary Art Exhibition, Head to the Ancient Egyptian Pyramids
+
+date: 2024-11-07, from: Smithsonian Magazine
+
+The 4,500-year-old pyramids of Giza are the backdrop for "Forever Is Now," which features sculptures, installations and immersive artworks that explore the relationship between the past and present 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/to-see-a-spellbinding-contemporary-art-exhibition-head-to-the-ancient-egyptian-pyramids-180985420/>
+
+---
+
+## Single-platform approach may fall short for AI data management
+
+date: 2024-11-07, updated: 2024-11-07, from: The Register (UK I.T. News)
+
+<h4>Data platform vendors can&#39;t meet all your needs, warns Gartner</h4> <p>Users should beware of the single platform approach when preparing for the demands of AI and machine learning on their data management systems, Gartner is warning.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/07/data_platform_vendors_ai/>
+
+---
+
+## The Cast and Crew of “Ain’t Too Proud” Visit NASA Langley
+
+date: 2024-11-07, from: NASA breaking news
+
+Get Ready! Members of the cast and crew of the Broadway national touring production of “Ain’t Too Proud – The Life and Times of The Temptations,” visited NASA’s Langley Research Center in Hampton, Virginia on Nov. 6, where they learned more about the center’s work in air, space, and science. The show was in the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/the-cast-and-crew-of-aint-too-proud-visit-nasa-langley/>
+
+---
+
+## NASA Shares Space Food Insight with Commercial Food Industry
+
+date: 2024-11-07, from: NASA breaking news
+
+NASA recently welcomed more than 50 commercial food and commercial space companies to learn about the evolving space food system supporting NASA missions, including unique requirements for spaceflight, menu development, and food provisioning – essential elements for human spaceflight and sustainable living in space. The event, held at the agency’s Johnson Space Center in Houston, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-shares-space-food-insight-with-commercial-food-industry/>
+
+---
+
+## Oral History with Jon A. McBride, 1943 – 2024
+
+date: 2024-11-07, from: NASA breaking news
+
+Selected as an astronaut in 1978, Jon A. McBride served as the pilot for STS 41-G, launched October 5, 1984, the first shuttle mission to carry a full crew of seven. His other NASA assignments included lead chase pilot for the maiden voyage of Columbia and CAPCOM for three early shuttle flights. Read more about [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/history/oral-history-with-jon-a-mcbride-1943-2024/>
+
+---
+
+## After the Death of Cassius, the World's Largest Captive Crocodile, Scientists Are Trying to Solve the Mystery of His Age
+
+date: 2024-11-07, from: Smithsonian Magazine
+
+The beloved reptile in Australia died last weekend and was thought to be up to 120 years old, though that age is only an estimate. Research on his bones might reveal a more exact number 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/after-the-death-of-cassius-the-worlds-largest-captive-crocodile-scientists-are-trying-to-solve-the-mystery-of-his-age-180985422/>
+
+---
+
+## Top 10 billionaires make nearly $64B in post-Trump election stock surge
+
+date: 2024-11-07, updated: 2024-11-07, from: The Register (UK I.T. News)
+
+<h4>9 out of 10 are techies, but Zuckerberg lost money</h4> <p>Yesterday&#39;s stock market bounce after the election of Donald Trump has added billions to the pockets of the tech elite, although apparently Mark Zuckerberg failed to cash in.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/07/top_10_billionaires/>
+
+---
+
+## Archaeologists Discover Ancient Egyptian Family Tomb Full of Necklaces, Bracelets and Rings
+
+date: 2024-11-07, from: Smithsonian Magazine
+
+The 3,800-year-old site near the city of Luxor holds the remains of 11 individuals, who may have been members of the same family. Researchers think the tomb was used for several generations 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/archaologists-discover-ancient-egyptian-family-tomb-full-of-necklaces-bracelets-and-rings-180985412/>
+
+---
+
+## Check Out the Stunning New Images of Jupiter From NASA's Juno Spacecraft
+
+date: 2024-11-07, from: Smithsonian Magazine
+
+On its 66th flyby of the king of planets, Juno has captured spectacular views of the stormy atmosphere, processed by citizen scientists 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/check-out-the-stunning-new-images-of-jupiter-from-nasas-juno-spacecraft-180985417/>
+
+---
+
+## Qualcomm triples Windows on Arm OEM design wins since May
+
+date: 2024-11-07, updated: 2024-11-07, from: The Register (UK I.T. News)
+
+<h4>Snapdragon X Plus 8-core platform gains traction with 58 laptop designs ... but will Windows users care?</h4> <p>Qualcomm is flexing its Arm muscle in the x86 market, highlighting the push into the Windows laptop market during its Q4 2024 earnings call.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/07/qualcomm_triples_windows_on_arm/>
+
+---
+
+## Earth Below
+
+date: 2024-11-07, from: NASA breaking news
+
+Earth’s city lights streak by in this long-exposure photo taken by NASA astronaut Don Pettit on Oct. 24, 2024. The green glow of Earth’s atmosphere is also visible on the horizon. Since the station became operational in November 2000, crew members have produced hundreds of thousands of images like this one through Crew Earth Observations. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/earth-below/>
+
+---
+
+## Hurricane Helene’s Gravity Waves Revealed by NASA’s AWE
+
+date: 2024-11-07, from: NASA breaking news
+
+On Sept. 26, 2024, Hurricane Helene slammed into the Gulf Coast of Florida, inducing storm surges and widespread impacts on communities in its path. At the same time, NASA’s Atmospheric Waves Experiment, or AWE, recorded enormous swells in the atmosphere that the hurricane produced roughly 55 miles above the ground. Such information helps us better […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/heliophysics/hurricane-helenes-gravity-waves-revealed-by-nasas-awe/>
+
+---
+
+## TSMC prioritizing high-NA EUV scanners for R&amp;D
+
+date: 2024-11-07, updated: 2024-11-07, from: The Register (UK I.T. News)
+
+<h4>May not see full use until 2030 – even if it arrives this year</h4> <p>Taiwan Semiconductor Manufacturing Company is prioritizing, among its manufacturing tools, the acquisition of high numerical aperture extreme ultraviolet scanners for research and development.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/07/tsmc_highna_euv/>
+
+---
+
+## NASA to Transform In-Space Manufacturing with Laser Beam Welding Collaboration
+
+date: 2024-11-07, from: NASA breaking news
+
+By Wayne Smith As NASA plans for humans to return to the Moon and eventually explore Mars, a laser beam welding collaboration between NASA&#8217;s Marshall Space Flight Center in Huntsville, Alabama, and The Ohio State University in Columbus aims to stimulate in-space manufacturing. The multi-year effort seeks to understand the physical processes of welding on [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/nasa-to-transform-in-space-manufacturing-with-laser-beam-welding-collaboration/>
+
+---
+
+## Microsoft rolls out AI-enabled Notepad to Windows Insiders
+
+date: 2024-11-07, updated: 2024-11-07, from: The Register (UK I.T. News)
+
+<h4>Rewrite &#39;please leave my text editor alone&#39;</h4> <p>Windows Insiders will soon get firsthand experience of Microsoft&#39;s AI ambitions for Paint and Notepad: the image editor is getting Generative Fill and Erase and the text editor is getting a Rewrite function.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/07/microsoft_ai_notepad_paint/>
+
+---
+
+## Banksy's Former Manager Sells His Trove of Artworks and Other Objects Connected to the Anonymous Street Artist
+
+date: 2024-11-07, from: Smithsonian Magazine
+
+Steve Lazarides' personal collection of prints, original works, handwritten press releases and burner phones sold at auction for around $1.4 million 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/banksys-former-manager-sells-his-trove-of-artworks-and-other-objects-connected-to-the-anonymous-street-artist-180985407/>
+
+---
+
+## Watch Vampire Bats Run on a Tiny Treadmill to Shed Light on Their Blood-Fueled Metabolism
+
+date: 2024-11-07, from: Smithsonian Magazine
+
+In a rare technique among mammals, the bats burn proteins from blood, rather than carbs or fat, to power their pursuits of prey, according to a new study 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/watch-vampire-bats-run-on-a-tiny-treadmill-to-shed-light-on-their-blood-fueled-metabolism-180985414/>
+
+---
+
+## How Is AI Changing the Science of Prediction?
+
+date: 2024-11-07, from: Quanta Magazine
+
+With lots of data, a strong model and statistical thinking, scientists can make predictions about all sorts of complex phenomena. Today, this practice is evolving to harness the power of machine learning and massive datasets. In this episode, co-host Steven Strogatz speaks with statistician Emmanuel Candès about black boxes, uncertainty and the power of inductive reasoning.             <p>The post <a href="https://www.quantamagazine.org/how-is-ai-changing-the-science-of-prediction-20241107/" target="_blank">How Is AI Changing the Science of Prediction?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/how-is-ai-changing-the-science-of-prediction-20241107/>
 
 ---
 
@@ -321,9 +825,9 @@ The farthest spacecraft in the universe went momentarily rogue, but scientists b
 
 ---
 
-## Thanks Linus. Torvalds patch improves Linux performance by 2.6%
+## Thanks, Linus. Torvalds patch improves Linux performance by 2.6%
 
-date: 2024-11-06, updated: 2024-11-06, from: The Register (UK I.T. News)
+date: 2024-11-06, updated: 2024-11-07, from: The Register (UK I.T. News)
 
 <h4>21 lines that show the big man still has what it takes</h4> <p>A relatively tiny code change by penguin premier Linus Torvalds is making a measurable improvement to Linux&#39;s multithreaded performance.…</p> 
 

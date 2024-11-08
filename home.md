@@ -1,11 +1,192 @@
 ---
 title: home
-updated: 2024-11-07 08:17:52
+updated: 2024-11-08 07:49:53
 ---
 
 # home
 
-(date: 2024-11-07 08:17:52)
+(date: 2024-11-08 07:49:53)
+
+---
+
+## Poinsettia Care and Growing Guide with Ultimate Tips
+
+date: 2024-11-08, from: Yard Life blog
+
+<p>Poinsettia (Euphorbia pulcherrima), also known as the Mexican flameleaf or Christmas star, is a stunning shrub native to Mexico. Widely ... </p>
+<p class="read-more-container"><a title="Poinsettia Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/poinsettia-care-and-growing-guide-with-ultimate-tips/#more-21697" aria-label="Read more about Poinsettia Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/poinsettia-care-and-growing-guide-with-ultimate-tips/">Poinsettia Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/poinsettia-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## Pear Tree Care and Growing Guide with Ultimate Tips
+
+date: 2024-11-08, from: Yard Life blog
+
+<p>Pear trees are a delightful addition to any garden. Known for their beautiful blossoms in the spring and delicious fruit ... </p>
+<p class="read-more-container"><a title="Pear Tree Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/pear-tree-care-and-growing-guide-with-ultimate-tips/#more-21689" aria-label="Read more about Pear Tree Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/pear-tree-care-and-growing-guide-with-ultimate-tips/">Pear Tree Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/pear-tree-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## Peanut Plant Care and Growing Guide with Ultimate Tips
+
+date: 2024-11-08, from: Yard Life blog
+
+<p>Peanut plants (Arachis hypogaea), also known as goobers, are fascinating members of the Fabaceae family, related to beans and peas. ... </p>
+<p class="read-more-container"><a title="Peanut Plant Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/peanut-plant-care-and-growing-guide-with-ultimate-tips/#more-21681" aria-label="Read more about Peanut Plant Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/peanut-plant-care-and-growing-guide-with-ultimate-tips/">Peanut Plant Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/peanut-plant-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## These Early Black Friday 2024 Deals Are Live Now (Plus, What’s Upcoming)
+
+date: 2024-11-07, from: Family Handyman Blog
+
+<p>It's not too early! These Black Friday 2024 deals are live now, so don't wait to start shopping. Plus, we've got a list of what's coming.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/black-friday-2024/">These Early Black Friday 2024 Deals Are Live Now (Plus, What&#8217;s Upcoming)</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/black-friday-2024/>
+
+---
+
+## 5 Best Mattress Toppers for Back Pain, Tested by People with Chronic Back Pain
+
+date: 2024-11-07, from: Family Handyman Blog
+
+<p>We tested the best mattress toppers for back pain. Here are our top five according to months of testing by sleepers who suffer from chronic back pain.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/best-mattress-toppers-for-back-pain/">5 Best Mattress Toppers for Back Pain, Tested by People with Chronic Back Pain</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/best-mattress-toppers-for-back-pain/>
+
+---
+
+## Want to Strike Gold? Here’s Why You Need the Minelab Equinox 900 Metal Detector
+
+date: 2024-11-07, from: Family Handyman Blog
+
+<p>The Minelab Equinox 900 is one of the best metal detectors you can buy, according to our editors and a pro detectorist.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/minelab-equinox-900-metal-detector-review/">Want to Strike Gold? Here&#8217;s Why You Need the Minelab Equinox 900 Metal Detector</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/minelab-equinox-900-metal-detector-review/>
+
+---
+
+## The Status of Housing Ballot Measures Across the Country
+
+date: 2024-11-07, from: Dwell
+
+This election cycle, voters got the chance to address the housing crisis directly. Here’s a rundown of what happened in state and local elections. 
+
+<br> 
+
+<https://www.dwell.com/article/the-status-of-housing-ballot-measures-across-the-country-97a052d0>
+
+---
+
+## The Bounty Hunter Metal Detector is the Best Starter Unit, According to Experts
+
+date: 2024-11-07, from: Family Handyman Blog
+
+<p>Find out why the Bounty Hunter metal detector is a favorite among metal detector enthusiasts and our expert product testers.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/bounty-hunter-metal-detector-review/">The Bounty Hunter Metal Detector is the Best Starter Unit, According to Experts</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/bounty-hunter-metal-detector-review/>
+
+---
+
+## 20 Tips and Hacks To Organize Your Garage
+
+date: 2024-11-07, from: Family Handyman Blog
+
+<p>You get a lot done in your garage, but these tricks will help keep you even more organized.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/garage-organization-tips/">20 Tips and Hacks To Organize Your Garage</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/garage-organization-tips/>
+
+---
+
+## Walls of Glass Frame Bay Views in This $1.8M Oakland Hills Midcentury
+
+date: 2024-11-07, from: Dwell
+
+Designed by Roger Lee, the lightly updated 1957 home still has its original wood paneling, exposed beams, and open-hearth fireplace. 
+
+<br> 
+
+<https://www.dwell.com/article/midcentury-home-roger-lee-oakland-hills-real-estate-07ac4c2b>
+
+---
+
+## Here’s What the Shark Fin On Cars Is For
+
+date: 2024-11-07, from: Family Handyman Blog
+
+<p>Many cars have what looks like a shark fin on top. If you've ever stopped to wonder what that thing is, here's the deal.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/what-is-shark-fin-on-cars/">Here&#8217;s What the Shark Fin On Cars Is For</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/what-is-shark-fin-on-cars/>
+
+---
+
+## How to Make a Dried Orange Garland (Oven or Dehydrator)
+
+date: 2024-11-07, from: Homestead and Chil
+
+<p>Come learn how to make a beautiful DIY dried orange garland using the oven or a dehydrator, plus tips how to hang and store them. This is one of my favorite easy and sustainable natural holiday crafts!</p>
+<p>The post <a href="https://homesteadandchill.com/how-to-make-a-dried-orange-garland/">How to Make a Dried Orange Garland (Oven or Dehydrator)</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/how-to-make-a-dried-orange-garland/>
+
+---
+
+## How to Identify and Treat 11 Houseplant Diseases
+
+date: 2024-11-07, from: The Gardener's Path
+
+<p>There are many pathogens like bacteria and fungi that can attack houseplants, causing nasty infections. From common issues like root rot to lesser-known viruses, indoor plants can suffer from a variety of different problems just like garden specimens. Learn about 11 common houseplant diseases in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/houseplants/diseases/">How to Identify and Treat 11 Houseplant Diseases</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/houseplants/diseases/>
 
 ---
 
@@ -45,6 +226,18 @@ We asked the pros what they're buying for the most wonderful time of the year. T
 
 ---
 
+## Sunset.com Home Page
+
+date: 2024-11-07, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
 ## Sponsored – Nativo
 
 date: 2024-11-07, from: Sunset Magazine - Living in the West
@@ -81,6 +274,18 @@ It's easy to cook the perfect steak at home with the right gear. Professional ch
 <br> 
 
 <https://www.sunset.com/food-wine/kitchen-assistant/tools-for-cooking-steak>
+
+---
+
+## 8 Things You Need to Know Before Going to Disneyland with a Baby
+
+date: 2024-11-06, from: Sunset Magazine - Living in the West
+
+Traveling with a baby can be tough, but it helps to have a strategy, especially when you're going to Disneyland. These tricks will help 
+
+<br> 
+
+<https://www.sunset.com/travel/how-to-visit-disneyland-with-a-baby>
 
 ---
 
@@ -313,18 +518,6 @@ Check out this simple step-by-step tutorial for an edible holiday centerpiece, m
 
 ---
 
-## Sunset.com Home Page
-
-date: 2024-11-06, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
-
----
-
 ## Party Planners Share Their Go-to Holiday Hosting Essentials
 
 date: 2024-11-06, from: Sunset Magazine - Living in the West
@@ -388,6 +581,18 @@ Candles are so 2023.
 
 ---
 
+## This Secret Mexican Surf Town Is the Best Winter Getaway
+
+date: 2024-11-05, from: Sunset Magazine - Living in the West
+
+Mexico's Riviera Nayarit is the coastal jungle escape worth booking this winter. These are the best things to do and see. 
+
+<br> 
+
+<https://www.sunset.com/travel/riviera-nayarit-travel-guide>
+
+---
+
 ## Listed for $1.9M, This Darling Pasadena Tudor Comes With a Carriage House
 
 date: 2024-11-05, from: Dwell
@@ -397,6 +602,30 @@ The brick home conjures up the charm of an English cottage with its ivy-wrapped 
 <br> 
 
 <https://www.dwell.com/article/english-tudor-home-renovation-pasadena-los-angeles-real-estate-03cceeac>
+
+---
+
+## Walk to the Beach From This Soothing Santa Monica Home Seeking $3.4M
+
+date: 2024-11-05, from: Dwell
+
+This sleek, coastal space lives larger than your typical townhome. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-minimalist-santa-monica-real-estate-e8e868b9>
+
+---
+
+## Enjoy Lush Mountain Views From This Contemporary Chalet in the North Georgia Mountains for $4.2M
+
+date: 2024-11-05, from: Dwell
+
+The steel nest-like home is filled with amenities, including two kitchens, a Himalayan salt crystal sauna, and theater room. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-mountain-estate-cherry-log-real-estate-6b824aa4>
 
 ---
 

@@ -1,11 +1,195 @@
 ---
 title: socal north
-updated: 2024-11-07 08:17:50
+updated: 2024-11-08 07:49:51
 ---
 
 # socal north
 
-(date: 2024-11-07 08:17:50)
+(date: 2024-11-08 07:49:51)
+
+---
+
+## Red flag warnings to be lifted today, but another Santa Ana wind event could return next week
+
+date: 2024-11-08, updated: 2024-11-08, from: The LAist
+
+We're monitoring wildfires as Santa Ana winds get stronger and create dangerous situations. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/red-flag-warnings-to-be-lifted-today-but-another-santa-ana-wind-event-could-return-next-week>
+
+---
+
+## LA voters care about housing. Why did they approve some measures, but shoot down others?
+
+date: 2024-11-08, updated: 2024-11-08, from: The LAist
+
+Polls show housing and homelessness are top concerns for L.A. voters. This election gave them a chance to weigh in on those issues. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-election-2024-housing-homelessness-measure-a-prop-33-5-results>
+
+---
+
+## 8 picture books for all the kids on your holiday gift list
+
+date: 2024-11-08, updated: 2024-11-08, from: The LAist
+
+These books all offer a window onto lives that are different from our own, but no less interesting, important or special. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/laist-holiday-gift-guide-2024-picture-books-for-kids>
+
+---
+
+## Here’s what a second Trump presidency could mean for Los Angeles
+
+date: 2024-11-08, updated: 2024-11-08, from: The LAist
+
+L.A. politicians tried to resist President-elect Donald Trump’s policies during his last term. What can they do to fight this time? 
+
+<br> 
+
+<https://laist.com/news/politics/trump-election-what-it-means-for-la-california-housing-border-environment-healthcare>
+
+---
+
+## LA wines are having a moment
+
+date: 2024-11-08, updated: 2024-11-08, from: The LAist
+
+Once a vibrant wine-making region, L.A. is back to reclaim its crown. 
+
+<br> 
+
+<https://laist.com/news/food/la-wines-are-having-a-moment>
+
+---
+
+## These Mexicali-style, aluminum foil-wrapped burritos are for ‘lonches', not influencers
+
+date: 2024-11-08, updated: 2024-11-08, from: The LAist
+
+These burritos, sold out of a cooler, are popular in the borderlands that stretch from Juarez to Mexicalii. They're satisfying in the simplest way possible. 
+
+<br> 
+
+<https://laist.com/news/food/these-mexicali-style-aluminum-foil-wrapped-burritos-are-for-lonches-not-influencers>
+
+---
+
+## Taco crawl? How about a sandwich crawl? Come with us to Highland Park
+
+date: 2024-11-08, updated: 2024-11-08, from: The LAist
+
+So many sandwiches, so little time. From a vegan Milanesa to lox bagels with crisp salmon skin and beet cream cheese to a perfectly restrained Italian sandwich, Highland Park hits the spot. 
+
+<br> 
+
+<https://laist.com/news/food/taco-crawl-how-about-a-sandwich-crawl-come-with-us-to-highland-park>
+
+---
+
+## A Dynamic Look at Growth, Innovation, and the Future Shared at the 2024 “State of the Port”
+
+date: 2024-11-08, from: Port Hueneme
+
+<p>West Ventura County Business Alliance Hosts Annual Port Update Download Press Release Contact: Letitia Austin Public &#38; Government Relations Manager laustin@portofh.org &#160; &#160; [PORT HUENEME, CA] – The Residence Inn&#8230;</p>
+<p>The post <a href="https://www.portofhueneme.org/a-dynamic-look-at-growth-innovation-and-the-future-shared-at-the-2024-state-of-the-port/">A Dynamic Look at Growth, Innovation, and the Future Shared at the 2024 “State of the Port”</a> appeared first on <a href="https://www.portofhueneme.org">The Port of Hueneme</a>.</p>
+ 
+
+<br> 
+
+<https://www.portofhueneme.org/a-dynamic-look-at-growth-innovation-and-the-future-shared-at-the-2024-state-of-the-port/>
+
+---
+
+## How California’s public colleges plan to protect immigrant students under a second Trump presidency
+
+date: 2024-11-08, updated: 2024-11-08, from: The LAist
+
+The president-elect has pledged to carry out mass deportations. 
+
+<br> 
+
+<https://laist.com/news/education/california-community-colleges-csu-uc-undocumented-immigrant-students-second-trump-presidency>
+
+---
+
+## Get Your Passport at the Santa Clarita Public Library
+
+date: 2024-11-08, from: City of Santa Clarita
+
+<p>By Councilmember Jason Gibbs&#160; “The world is a book, and those who do not travel read only one page.” — Saint Augustine Did you know that our local Santa Clarita Public Library offers passport acceptance services? Whether you&#8217;re planning a vacation, studying abroad or reconnecting with family, the Santa Clarita Public Library is here to [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/11/07/get-your-passport-at-the-santa-clarita-public-library-2/">Get Your Passport at the Santa Clarita Public Library</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/11/07/get-your-passport-at-the-santa-clarita-public-library-2/>
+
+---
+
+## Frenchman Fire breaks out in Angeles National Forest
+
+date: 2024-11-07, updated: 2024-11-08, from: The LAist
+
+The fire was at 20% containment Thursday, but winds and weather are still a big concern. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/frenchman-fire-angeles-national-forest>
+
+---
+
+## Deadline looms for Rancho Palos Verdes buyout program
+
+date: 2024-11-07, updated: 2024-11-07, from: The LAist
+
+There could be similar buyout programs in the future if federal funding is available. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/deadline-looms-for-rancho-palos-verdes-buyout-program>
+
+---
+
+## Newsom calls special session to ‘Trump-proof’ California
+
+date: 2024-11-07, updated: 2024-11-08, from: The LAist
+
+Newsom wants the new Legislature to ‘protect’ California from Donald Trump on civil rights, reproductive freedom, climate action, and immigrant families. The session will start Dec. 2. 
+
+<br> 
+
+<https://laist.com/news/politics/newsom-calls-special-session-to-trump-proof-california>
+
+---
+
+## Trump won. Here are 3 Biden priorities under scrutiny
+
+date: 2024-11-07, updated: 2024-11-07, from: The LAist
+
+Trump has promised to cut taxes and government regulations, slap tariffs on imports and order large deportations of immigrants. Here's how that could impact the economy. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-won-here-are-3-biden-priorities-under-scrutiny>
+
+---
+
+## One year after the Tustin hangar fire, cleanup continues
+
+date: 2024-11-07, updated: 2024-11-08, from: The LAist
+
+The U.S. Navy is four months into a year-long plan to dismantle the hangar remains and haul away toxic debris. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/tustin-hangar-fire-cleanup-continues-one-year-later>
 
 ---
 
@@ -91,7 +275,7 @@ date: 2024-11-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-11-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?w=2100&amp;ssl=1 2100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?w=2100&amp;ssl=1 2100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Jayohn Carlton recuerda vívidamente cómo era experimentar la falta de vivienda cuando era niño. Durante más de dos años, Carlton y su madre vivieron principalmente en el coche de ella, [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/11/06/se-espera-que-la-medida-a-impulse-los-servicios-para-ayudar-a-combatir-y-prevenir-la-falta-de-vivienda/">Se Espera que la Medida A Impulse los Servicios para Ayudar a Combatir y Prevenir la Falta de Vivienda</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -134,7 +318,7 @@ date: 2024-11-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-11-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Por Ryan Sabalow y Sameea KamalCalMatters Mientras que los republicanos celebraron una ola roja a nivel nacional, los votantes de California afirmaron la sólida política azul del estado, y los [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/11/06/ponte-al-dia-rapidamente-esto-es-lo-que-sucedio-con-los-resultados-de-las-elecciones-de-california-mientras-dormias/">Ponte al Día Rápidamente: Esto es lo Que Sucedió con los Resultados de las Elecciones de California Mientras Dormías</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -149,7 +333,7 @@ date: 2024-11-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-11-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="904" height="520" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?fit=904%2C520&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?w=904&amp;ssl=1 904w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?resize=300%2C173&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?resize=768%2C442&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?resize=400%2C230&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?resize=706%2C406&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?fit=904%2C520&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="904" height="520" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?fit=904%2C520&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?w=904&amp;ssl=1 904w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?resize=300%2C173&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?resize=768%2C442&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?resize=400%2C230&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?resize=706%2C406&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?fit=904%2C520&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>La titular del Concejo Municipal de San Fernando, Victoria García, y la ex asambleísta del estado de California, Patty López, lideran actualmente entre los cinco candidatos que compiten por dos [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/11/06/victoria-garcia-y-patty-lopez-lideran-la-carrera-por-el-concejo-municipal-de-san-fernando/">Victoria García y Patty López Lideran la Carrera por el Concejo Municipal de San Fernando</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -164,7 +348,7 @@ date: 2024-11-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-11-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Los resultados de las semifinales de las elecciones del martes mostraron que los votantes estaban divididos casi en partes iguales sobre la Medida G, con los votos a favor liderando [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/11/06/aun-hay-que-contar-los-votos-finales-para-la-medida-g/">Aún hay que contar los votos finales para la Medida G</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -193,7 +377,7 @@ date: 2024-11-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-11-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?w=2100&amp;ssl=1 2100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?resize=1200%2C801&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?w=2100&amp;ssl=1 2100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?resize=1200%2C801&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/A-Girl-Grows-Wings_-Photo-by-Erika-Gomez_el-sol.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Diecinueve compañías de teatro y 165 artistas de todo Estados Unidos., Puerto Rico y México han estado en Los Ángeles para el Encuentro 2024: Estamos Aquí &#8211; ¡Presente!, en The [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/11/06/encuentro-2024-estamos-aqui-presente/">‘Encuentro 2024: Estamos Aqui &#8211; Presente!’</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -332,7 +516,7 @@ Measure A asked voters to continue a tax that funds homeless services, and incre
 
 ## Early results show Santa Ana voters rejecting measure that would allow non US-citizens to vote
 
-date: 2024-11-06, updated: 2024-11-06, from: The LAist
+date: 2024-11-06, updated: 2024-11-07, from: The LAist
 
 The Orange County city was poised to become the first city in California to allow non-US citizens to vote if Measure DD passed. 
 
@@ -356,7 +540,7 @@ A fast-burning fire in the mountains is being pushed by exceptionally strong and
 
 ## What we know so far about LA and OC voter turnout in the 2024 general election
 
-date: 2024-11-06, updated: 2024-11-07, from: The LAist
+date: 2024-11-06, updated: 2024-11-08, from: The LAist
 
 A look at how many showed up to vote in the Nov. 5 presidential election, either in person or by mail, and how it compares to previous elections. 
 

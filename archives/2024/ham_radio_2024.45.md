@@ -1,11 +1,107 @@
 ---
 title: ham radio
-updated: 2024-11-07 08:17:50
+updated: 2024-11-08 07:49:51
 ---
 
 # ham radio
 
-(date: 2024-11-07 08:17:50)
+(date: 2024-11-08 07:49:51)
+
+---
+
+## Online tool programs smart sensors for AIoT
+
+date: 2024-11-08, from: EDN Blog
+
+<img width="800" height="442" src="https://www.edn.com/wp-content/uploads/STMicro-AIoT-Craft.png?fit=800%2C442" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/STMicro-AIoT-Craft.png?w=800 800w, https://www.edn.com/wp-content/uploads/STMicro-AIoT-Craft.png?w=300 300w, https://www.edn.com/wp-content/uploads/STMicro-AIoT-Craft.png?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>ST’s web-based tool, AIoT Craft, streamlines node-to-cloud AIoT projects that use the machine-learning core (MLC) of ST’s smart MEMS sensors.</p>
+<p>The post <a href="https://www.edn.com/online-tool-programs-smart-sensors-for-aiot/" data-wpel-link="internal">Online tool programs smart sensors for AIoT</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/online-tool-programs-smart-sensors-for-aiot/>
+
+---
+
+## Cortex-M85 MCUs empower cost-sensitive designs
+
+date: 2024-11-08, from: EDN Blog
+
+<img width="800" height="453" src="https://www.edn.com/wp-content/uploads/Renesas-RA8E1.jpg?fit=800%2C453" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Renesas-RA8E1.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Renesas-RA8E1.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Renesas-RA8E1.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Renesas has added devices to its RA8 series of MCUs, combining the same Arm Cortex-M85 core with a streamlined feature set to reduce costs.</p>
+<p>The post <a href="https://www.edn.com/cortex-m85-mcus-empower-cost-sensitive-designs/" data-wpel-link="internal">Cortex-M85 MCUs empower cost-sensitive designs</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/cortex-m85-mcus-empower-cost-sensitive-designs/>
+
+---
+
+## GaN flyback switcher handles 1700 V
+
+date: 2024-11-08, from: EDN Blog
+
+<img width="800" height="437" src="https://www.edn.com/wp-content/uploads/Power-Int-InnoMux-2-1700.jpg?fit=800%2C437" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Power-Int-InnoMux-2-1700.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Power-Int-InnoMux-2-1700.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Power-Int-InnoMux-2-1700.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>With a breakdown voltage of 1700 V, Power Integrations’ IMX2353F GaN switcher easily supports a nominal input voltage of 1000 VDC. </p>
+<p>The post <a href="https://www.edn.com/gan-flyback-switcher-handles-1700-v/" data-wpel-link="internal">GaN flyback switcher handles 1700 V</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/gan-flyback-switcher-handles-1700-v/>
+
+---
+
+## Data center power supply delivers 8.5 kW
+
+date: 2024-11-08, from: EDN Blog
+
+<img width="800" height="445" src="https://www.edn.com/wp-content/uploads/Navitas-8.5W-PSU.jpg?fit=800%2C445" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Navitas-8.5W-PSU.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Navitas-8.5W-PSU.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Navitas-8.5W-PSU.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Navitas has developed a power supply unit (PSU) that is capable of producing 8.5 kW of output power with 98% efficiency.</p>
+<p>The post <a href="https://www.edn.com/data-center-power-supply-delivers-8-5-kw/" data-wpel-link="internal">Data center power supply delivers 8.5 kW</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/data-center-power-supply-delivers-8-5-kw/>
+
+---
+
+## Sensor powers AI detection in slim devices
+
+date: 2024-11-08, from: EDN Blog
+
+<img width="800" height="450" src="https://www.edn.com/wp-content/uploads/OmniVision-OV0TA1B.jpg?fit=800%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/OmniVision-OV0TA1B.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/OmniVision-OV0TA1B.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/OmniVision-OV0TA1B.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>The OV0TA1B CMOS image sensor from Omnivision fits 3-mm-high modules, ultrathin-bezel notebooks, webcams, and IoT devices.</p>
+<p>The post <a href="https://www.edn.com/sensor-powers-ai-detection-in-slim-devices/" data-wpel-link="internal">Sensor powers AI detection in slim devices</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/sensor-powers-ai-detection-in-slim-devices/>
+
+---
+
+## Laser party lights
+
+date: 2024-11-08, from: EDN Blog
+
+<img width="579" height="865" src="https://www.edn.com/wp-content/uploads/Laser-Lit-1.png?fit=579%2C865" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Laser-Lit-1.png?w=579 579w, https://www.edn.com/wp-content/uploads/Laser-Lit-1.png?w=201 201w" sizes="(max-width: 579px) 100vw, 579px" /><p>Went to a party with festive lights and left feeling uncomfortable with the potential safety hazard of the lighting equipment.</p>
+<p>The post <a href="https://www.edn.com/laser-party-lights/" data-wpel-link="internal">Laser party lights</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/laser-party-lights/>
+
+---
+
+## ARRL Opening Late on Friday, Nov. 8 and Closed on Veterans Day, Nov. 11
+
+date: 2024-11-07, from: Amateur Radio Relay League News
+
+<p> ARRL<span>® The National Association for Amateur Radio® has two closures coming up for our headquarters in Newington, Connecticut:</span></p><p><b>ARRL will be closed on Friday morning, November 8, 2024, for an employee meeting. </b>During the short closure, members are encouraged to use the ARRL website, www.arrl.org, for membership renewals, publication purchases, and to access most benefits, services, and programs. T...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-opening-late-on-friday-nov-8-and-closed-on-veterans-day-nov-11>
 
 ---
 
@@ -13,7 +109,7 @@ updated: 2024-11-07 08:17:50
 
 date: 2024-11-07, from: EDN Blog
 
-<img width="1400" height="826" src="https://www.edn.com/wp-content/uploads/still-works4.jpg?fit=1400%2C826" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/still-works4.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/still-works4.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/still-works4.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/still-works4.jpg?w=1024 1024w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>Rechargeable lithium batteries and inexpensive displays and ICs combine to create a device for assuaging nicotine cravings.</p>
+<img width="1400" height="826" src="https://www.edn.com/wp-content/uploads/still-works4.jpg?fit=1400%2C826" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/still-works4.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/still-works4.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/still-works4.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/still-works4.jpg?w=1024 1024w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>Rechargeable lithium batteries and inexpensive displays and ICs combine to create a device for assuaging nicotine cravings.</p>
 <p>The post <a href="https://www.edn.com/investigating-a-vape-device/" data-wpel-link="internal">Investigating a vape device</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

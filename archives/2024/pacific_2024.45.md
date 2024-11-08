@@ -1,11 +1,600 @@
 ---
 title: pacific
-updated: 2024-11-07 08:17:50
+updated: 2024-11-08 07:49:51
 ---
 
 # pacific
 
-(date: 2024-11-07 08:17:50)
+(date: 2024-11-08 07:49:51)
+
+---
+
+## Puna man accused of stealing trailer from school
+
+date: 2024-11-08, from: Hawaii Tribune Harold
+
+
+				<p>A 28-year-old Puna man who appeared in Hilo District Court for allegedly stealing a trailer owned by a Pahoa public charter school was served a warrant moving his case upstairs to Hilo Circuit Court.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/08/hawaii-news/puna-man-accused-of-stealing-trailer-from-school/>
+
+---
+
+## Police arrest 16 for DUI
+
+date: 2024-11-08, from: Hawaii Tribune Harold
+
+
+				<p>During the week of Oct. 28 to Nov. 3, Hawaii Island police arrested 16 motorists for DUI. Nine of the drivers were involved in a traffic accident. Two of the drivers were under the age of 21.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/08/hawaii-news/police-arrest-16-for-dui-19/>
+
+---
+
+## Support urged for housing project
+
+date: 2024-11-08, from: Hawaii Tribune Harold
+
+
+				<p>More than 200 new units could be added to an affordable housing development in Hilo under a proposal by the Hawaii Public Housing Authority.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/08/hawaii-news/support-urged-for-housing-project/>
+
+---
+
+## Devastated Democrats play the blame game, and stare at a dark future
+
+date: 2024-11-08, from: Hawaii Tribune Harold
+
+
+				<p>MADISON, Wis. &#8212; A depressed and demoralized Democratic Party is beginning the painful slog into a largely powerless future, as its leaders grapple with how deeply they underestimated Donald Trump&#8217;s resurgent hold on the nation. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/08/nation-world-news/devastated-democrats-play-the-blame-game-and-stare-at-a-dark-future/>
+
+---
+
+## The Fed cuts rates, but the path ahead is less clear
+
+date: 2024-11-08, from: Hawaii Tribune Harold
+
+
+				<p>Federal Reserve officials cut interest rates Thursday, their second reduction of 2024 and the latest sign that policymakers believe that inflation is finally coming under control. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/08/nation-world-news/the-fed-cuts-rates-but-the-path-ahead-is-less-clear/>
+
+---
+
+## Honor military veterans on Saturday: Annual parade in downtown Hilo begins at 10 a.m.
+
+date: 2024-11-08, from: Hawaii Tribune Harold
+
+
+				<p>The Big Island community will unite on Saturday to celebrate and honor service in all its forms at the 17th Annual Hawaii Island Veterans Day Parade.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/08/community/honor-military-veterans-on-saturday-annual-parade-in-downtown-hilo-begins-at-10-a-m/>
+
+---
+
+## Law enforcement personnel complete CIT training
+
+date: 2024-11-08, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Police Department has announced the addition of 10 new officers to its Crisis Intervention Team, or CIT.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/08/community/law-enforcement-personnel-complete-cit-training/>
+
+---
+
+## Meet the growers, get expert advice at free Plant People Road Show
+
+date: 2024-11-08, from: Hawaii Tribune Harold
+
+
+				<p>KAILUA-KONA &#8212; Featuring five Big Isle mom-and-pop nurseries, the Plant People Road Show returns to Kona with new operating hours. Time is 10 a.m. to 3 p.m. Saturday, Nov. 23, at the Makaeo Pavilion at Old Kona Airport State Recreation Area. Admission is free.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/08/community/meet-the-growers-get-expert-advice-at-free-plant-people-road-show/>
+
+---
+
+## Learn how to recognize your triggers at Ku‘ikahi talk
+
+date: 2024-11-08, from: Hawaii Tribune Harold
+
+
+				<p>The nonprofit Ku&#8216;ikahi Mediation Center of Hilo will host a free talk on Nov. 21 as part of its &#8220;Finding Solutions, Growing Peace&#8221; Brown Bag Lunch Series.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/08/community/learn-how-to-recognize-your-triggers-at-kuikahi-talk/>
+
+---
+
+## Thousands under evacuation near Los Angeles as wildfire torches homes
+
+date: 2024-11-08, from: Hawaii Tribune Harold
+
+
+				<p>SANTA PAULA, California &#8212; Over ten thousand people were ordered to evacuate communities northwest of Los Angeles as fierce seasonal winds drove a wildfire down tinder-dry hillsides into ranches and homes, authorities said. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/08/nation-world-news/thousands-under-evacuation-near-los-angeles-as-wildfire-torches-homes/>
+
+---
+
+## Meeting in shadow of Trump win, Europeans vow stronger defence
+
+date: 2024-11-08, from: Hawaii Tribune Harold
+
+
+				<p>BUDAPEST &#8212; European leaders gathered on Thursday in the shadow of Donald Trump&#8217;s election victory and said they agreed on the need to take more responsibility for their security and rely less on the United States. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/08/nation-world-news/meeting-in-shadow-of-trump-win-europeans-vow-stronger-defence/>
+
+---
+
+## Cuba slowly restores power after hurricane, Havana still dark
+
+date: 2024-11-08, from: Hawaii Tribune Harold
+
+
+				<p>ARTEMISA, Cuba &#8212; Cuban authorities said they had begun restoring power to the eastern half of the island on Thursday, a day after Hurricane Rafael knocked out the country&#8217;s electrical grid, leaving 10 million people in the dark. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/08/nation-world-news/cuba-slowly-restores-power-after-hurricane-havana-still-dark/>
+
+---
+
+## Putin praises Trump, says Russia is ready for dialogue
+
+date: 2024-11-08, from: Hawaii Tribune Harold
+
+
+				<p>SOCHI, Russia &#8212; Russian President Vladimir Putin on Thursday congratulated Donald Trump on winning the U.S. election, praised him for showing courage when a gunman tried to assassinate him, and said Moscow was ready for dialogue with the Republican president-elect. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/08/nation-world-news/putin-praises-trump-says-russia-is-ready-for-dialogue/>
+
+---
+
+## Nation and world news in brief for November 8
+
+date: 2024-11-08, from: Hawaii Tribune Harold
+
+
+				<p>Snowcap on Japan&#8217;s Mt Fuji this year is latest spotted &#0010;in 130 years</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/08/nation-world-news/nation-and-world-news-in-brief-for-november-8/>
+
+---
+
+## US military ready to carry out lawful orders of next Trump administration, avoid politics, Pentagon chief says
+
+date: 2024-11-08, from: Hawaii Tribune Harold
+
+
+				<p>MIAMI &#8212; U.S. Defense Secretary Lloyd Austin told troops in a memo released on Thursday that the Pentagon was committed to an orderly transition to the incoming administration of Donald Trump, and that the military would not get involved in politics and was ready to carry out &#8220;all lawful orders.&#8221; </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/08/nation-world-news/us-military-ready-to-carry-out-lawful-orders-of-next-trump-administration-avoid-politics-pentagon-chief-says/>
+
+---
+
+## Hawaiʻi’s Self-Defense Law
+
+date: 2024-11-08, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>During the program, you can phone in a question or leave us a comment on our Youtube.  INSIGHTS on PBS HAWAIʻI also streams live on pbshawaii.org. Panelists are: Steve Alm, Honolulu City Prosecutor Chris Marvin, Everytown Veteran Advisory Council Rep. Darius Kila (D), Nānākuli-Māʻili Kevin O’Grady, Hawaiʻi Attorney &#160; &#160; &#160;</p>
+<p>The post <a href="https://www.pbshawaii.org/hawai%ca%bbis-self-defense-law/">Hawaiʻi&#8217;s Self-Defense Law</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/hawai%ca%bbis-self-defense-law/>
+
+---
+
+## UH-mazing holiday recipes: Charlie Casserole
+
+date: 2024-11-08, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa College of Education <abbr>EdD</abbr> candidate Charlie Clausner shared his family's corn casserole recipe.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/07/uh-mazing-holiday-recipes-charlie-casserole/"><abbr>UH</abbr>-mazing holiday recipes: Charlie Casserole</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/07/uh-mazing-holiday-recipes-charlie-casserole/>
+
+---
+
+## Resisting China’s relentless pressure: Taiwan girds itself for 2025 Pacific Islands Forum meeting
+
+date: 2024-11-08, from: Pacific Island Times
+
+This early, Taiwan is readying itself to fight for the right to be at the next Leaders’ Meeting of the Pacific Islands Forum in the Solomon  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/resisting-china-s-relentless-pressure-taiwan-girds-itself-for-2025-pacific-islands-forum-meeting>
+
+---
+
+## President Whipps, Oilouch hold strong leads in Palau’s 12th general election
+
+date: 2024-11-08, from: Island Times
+
+<figure><img width="900" height="689" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/nov08issue-2.jpg?fit=900%2C689&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/nov08issue-2.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/nov08issue-2.jpg?resize=300%2C230&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/nov08issue-2.jpg?resize=768%2C588&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/nov08issue-2.jpg?resize=400%2C306&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/nov08issue-2.jpg?resize=706%2C540&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/nov08issue-2.jpg?fit=900%2C689&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73714" data-permalink="https://islandtimes.org/president-whipps-oilouch-hold-strong-leads-in-palaus-12th-general-election/nov08issue-indd-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/nov08issue-2.jpg?fit=900%2C689&amp;ssl=1" data-orig-size="900,689" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;nov08issue.indd&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="nov08issue.indd" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/nov08issue-2.jpg?fit=300%2C230&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/nov08issue-2.jpg?fit=780%2C597&amp;ssl=1" /></figure>
+<p>KOROR, Palau – Early vote counts from Palau’s 12th General Election indicate that President Surangel Whipps Jr. is on track for another four-year term, securing 57.6% of votes cast in the initial tally. Raynold “Arnold” Oilouch, who ran for Vice President, holds a commanding 69.7% of the vote. Election analysts anticipate minimal shifts in these [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/president-whipps-oilouch-hold-strong-leads-in-palaus-12th-general-election/">President Whipps, Oilouch hold strong leads in Palau&#8217;s 12th general election</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/president-whipps-oilouch-hold-strong-leads-in-palaus-12th-general-election/>
+
+---
+
+## Remengesau and Senior concedes
+
+date: 2024-11-08, from: Island Times
+
+<figure><img width="900" height="670" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/nov08issue-1.jpg?fit=900%2C670&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/nov08issue-1.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/nov08issue-1.jpg?resize=300%2C223&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/nov08issue-1.jpg?resize=768%2C572&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/nov08issue-1.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/nov08issue-1.jpg?resize=400%2C298&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/nov08issue-1.jpg?resize=706%2C526&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/nov08issue-1.jpg?fit=900%2C670&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73710" data-permalink="https://islandtimes.org/remengesau-and-senior-concedes/nov08issue-indd/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/nov08issue-1.jpg?fit=900%2C670&amp;ssl=1" data-orig-size="900,670" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;nov08issue.indd&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="nov08issue.indd" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/nov08issue-1.jpg?fit=300%2C223&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/nov08issue-1.jpg?fit=780%2C581&amp;ssl=1" /></figure>
+<p>Koror, Palau – Following the wrap up of votes’ tabulation on Wednesday night, Presidential candidate Tommy E. Remengesau Jr. and Vice President and candidate Uduch Sengebau Senior had both offered their concessions. Delivering his statement which was aired through the radio and shared on many social media platforms, Remengesau said “The election is finished. The [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/remengesau-and-senior-concedes/">Remengesau and Senior concedes</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/remengesau-and-senior-concedes/>
+
+---
+
+## Aggressive stray dogs cause concern in Malakal, animal shelter urges responsibility
+
+date: 2024-11-08, from: Island Times
+
+<p>By: Eustoria Marie Borja MALAKAL, PALAU — Early on May 2, 2024, a local woman endured a frightening ordeal when she was attacked by a pack of stray dogs near the main road in Malakal. The dogs, estimated to be four or five in number, appeared from the shadows and bit her, leaving her shaken. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/aggressive-stray-dogs-cause-concern-in-malakal-animal-shelter-urges-responsibility/">Aggressive stray dogs cause concern in Malakal, animal shelter urges responsibility</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/aggressive-stray-dogs-cause-concern-in-malakal-animal-shelter-urges-responsibility/>
+
+---
+
+## New Bureau of Customs and Border Protection Website centralizes Immigration and Trade Information
+
+date: 2024-11-08, from: Island Times
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/new-bureau-of-customs.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/new-bureau-of-customs.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/new-bureau-of-customs.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/new-bureau-of-customs.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/new-bureau-of-customs.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/new-bureau-of-customs.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/new-bureau-of-customs.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/new-bureau-of-customs.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/new-bureau-of-customs.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/new-bureau-of-customs.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/new-bureau-of-customs.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/new-bureau-of-customs.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73703" data-permalink="https://islandtimes.org/new-bureau-of-customs-and-border-protection-website-centralizes-immigration-and-trade-information/new-bureau-of-customs/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/new-bureau-of-customs.jpg?fit=1249%2C937&amp;ssl=1" data-orig-size="1249,937" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1729765865&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.9&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="new bureau of customs" data-image-description="" data-image-caption="&lt;p&gt;Mr. Mohammed Rizwan Khan with UNCTAD supporting BCBM presenting to local journalists on the ASYCUDA program with Bureau of Customs &#038; Border Protection&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/new-bureau-of-customs.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/new-bureau-of-customs.jpg?fit=780%2C585&amp;ssl=1" /></figure>
+<p>The Bureau of Customs and Border Protection (BCBP) has launched an official website aimed at streamlining access to information on immigration, customs, and tax-related services for the public. The website, available at https://bcbp.pw, consolidates essential resources, including permit applications, regulatory guidelines, and required forms, all in one location. The site’s stated mission is “to protect [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/new-bureau-of-customs-and-border-protection-website-centralizes-immigration-and-trade-information/">New Bureau of Customs and Border Protection Website centralizes Immigration and Trade Information</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/new-bureau-of-customs-and-border-protection-website-centralizes-immigration-and-trade-information/>
+
+---
+
+## Whipps says Pacific will continue to raise climate crisis issues with Trump government
+
+date: 2024-11-08, from: Island Times
+
+<p>By: Bernadette Carreon President Surangel Whipps Jr. said that Donald Trump’s win will not deter Pacific leaders from advocating for global climate action. In an interview with ABC News Australia, Whipps, who has just been re-elected after defeating former President Tommy Remengesau Jr., said that the climate crisis will remain a key issue for the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/whipps-says-pacific-will-continue-to-raise-climate-crisis-issues-with-trump-government/">Whipps says Pacific will continue to raise climate crisis issues with Trump government</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/whipps-says-pacific-will-continue-to-raise-climate-crisis-issues-with-trump-government/>
+
+---
+
+## Angaur State 22nd General Election unofficial results
+
+date: 2024-11-08, from: Island Times
+
+<p>By: Eustoria Marie Borja Republic of Palau – Unofficial results from Angaur State’s 22nd General Election, held on November 5, 2024, show a close race for the Office of the Governor. Natus Misech leads with 76 votes, narrowly ahead of incumbent Governor Steven R. Salii, who received 70 votes. Warren Fukuichi emerged as a write-in [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/angaur-state-22nd-general-election-unofficial-results/">Angaur State 22nd General Election unofficial results</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/angaur-state-22nd-general-election-unofficial-results/>
+
+---
+
+## U.S Airborne rangers parachute in to seize a Pacific airbase, preparing for war with China
+
+date: 2024-11-08, from: Island Times
+
+<p>KOROR (THE TELEGRAPH) &#8212; Airfields are few and far between across the vast reaches of the western Pacific Ocean.  Every strip of concrete capable of launching and landing military aircraft is precious. And that’s why, in October, the U.S Army practiced seizing a Pacific airfield. During, say, a war with China over Taiwan, the Army [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/u-s-airborne-rangers-parachute-in-to-seize-a-pacific-airbase-preparing-for-war-with-china-2/">U.S Airborne rangers parachute in to seize a Pacific airbase, preparing for war with China</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/u-s-airborne-rangers-parachute-in-to-seize-a-pacific-airbase-preparing-for-war-with-china-2/>
+
+---
+
+## Donald Trump can’t stop global climate action. If we stick together, it’s the U.S that will lose out
+
+date: 2024-11-08, from: Island Times
+
+<p>By Bill Hare WASHINGTON (THE GUARDIAN) &#8212; Donald Trump’s re-election to the White House is a major setback for climate action but ultimately, it’s the US that could end up losing out, as the rest of the world will move forward without it. The U.S is the world’s biggest economy and its second biggest emitter. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/donald-trump-cant-stop-global-climate-action-if-we-stick-together-its-the-u-s-that-will-lose-out/">Donald Trump can’t stop global climate action. If we stick together, it’s the U.S that will lose out</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/donald-trump-cant-stop-global-climate-action-if-we-stick-together-its-the-u-s-that-will-lose-out/>
+
+---
+
+## November 7th
+
+date: 2024-11-08, from: Island Times
+
+<figure><img width="600" height="567" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=600%2C567&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?resize=300%2C284&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?resize=400%2C378&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=600%2C567&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="59961" data-permalink="https://islandtimes.org/raumatic-grief/womens-corner-1-4/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=600%2C567&amp;ssl=1" data-orig-size="600,567" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=300%2C284&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/12/Womens-Corner-1.jpg?fit=600%2C567&amp;ssl=1" /></figure>
+<p>In loving memory of my grandmother, a true cornerstone of warmth, kindness, and unwavering faith. Her love was as tangible as the scent of fresh-baked bread wafting through her kitchen, a reminder of her steadfast belief that God’s love was meant to be shared. She didn’t just bake; she crafted moments, memories, and connections in [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/november-7th/">November 7th</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/november-7th/>
+
+---
+
+## Another Successful MantaFest Hosted on Yap
+
+date: 2024-11-08, from: Island Times
+
+<figure><img width="1020" height="720" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/mantafest.jpg?fit=1020%2C720&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/mantafest.jpg?w=1020&amp;ssl=1 1020w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/mantafest.jpg?resize=300%2C212&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/mantafest.jpg?resize=768%2C542&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/mantafest.jpg?resize=400%2C282&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/mantafest.jpg?resize=706%2C498&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/mantafest.jpg?fit=1020%2C720&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73681" data-permalink="https://islandtimes.org/another-successful-mantafest-hosted-on-yap/mantafest/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/mantafest.jpg?fit=1020%2C720&amp;ssl=1" data-orig-size="1020,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="mantafest" data-image-description="" data-image-caption="&lt;p&gt;“Sharks Over-Under (Spit Shot)” photo entry by Ken Sutherland, winner of Best of MantaFest 2024&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/mantafest.jpg?fit=300%2C212&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/mantafest.jpg?fit=780%2C551&amp;ssl=1" /></figure>
+<p>The Pacific’s Premier Dive Photography Event Set to Return in 2025   (November 6, 2024 – Yap Visitors Bureau, Yap, FSM): The 17th annual MantaFest, hosted by the Manta Ray Bay Resort &#38; Yap Divers, has once again captivated underwater photographers, divers, and ocean enthusiasts from around the world. The event saw several returning participants, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/another-successful-mantafest-hosted-on-yap/">Another Successful MantaFest Hosted on Yap</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/another-successful-mantafest-hosted-on-yap/>
+
+---
+
+## Nauru Airlines to boost AU-Pacific flights for 12 months
+
+date: 2024-11-08, from: Island Times
+
+<p>CANBERRA/YAREN, (NAURU AIRLINE) &#8212; The Australian Government has extended its support to Nauru Airlines until October 2025 as the carrier builds its Australia-North Pacific Connector route.  However, the weekly Brisbane-Palau direct route will cease this month, following the conclusion of the airline’s contract to establish the service. Nauru Airlines commenced regular island-hopper services more than [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/nauru-airlines-to-boost-au-pacific-flights-for-12-months/">Nauru Airlines to boost AU-Pacific flights for 12 months</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/nauru-airlines-to-boost-au-pacific-flights-for-12-months/>
+
+---
+
+## U.S Airborne rangers parachute in to seize a Pacific airbase, preparing for war with China
+
+date: 2024-11-08, from: Island Times
+
+<p>KOROR (THE TELEGRAPH) &#8212; Airfields are few and far between across the vast reaches of the western Pacific Ocean.  Every strip of concrete capable of launching and landing military aircraft is precious. And that’s why, in October, the U.S Army practiced seizing a Pacific airfield. During, say, a war with China over Taiwan, the Army [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/u-s-airborne-rangers-parachute-in-to-seize-a-pacific-airbase-preparing-for-war-with-china/">U.S Airborne rangers parachute in to seize a Pacific airbase, preparing for war with China</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/u-s-airborne-rangers-parachute-in-to-seize-a-pacific-airbase-preparing-for-war-with-china/>
+
+---
+
+## Pacific leaders congratulate President-elect Trump, pledge to strengthen U.S-Pacific ties
+
+date: 2024-11-08, from: Island Times
+
+<p>SUVA (PACNEWS) &#8212; Pacific leaders have extended congratulations to President-elect Donald Trump on his electoral victory, signaling their commitment to enhancing ties with the U.S and addressing shared goals in the Indo-Pacific region. Fiji’s Prime Minister Sitiveni Rabuka conveyed his well wishes, highlighting hopes for a peaceful and prosperous tenure under Trump’s leadership.&#160; “It is [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pacific-leaders-congratulate-president-elect-trump-pledge-to-strengthen-u-s-pacific-ties/">Pacific leaders congratulate President-elect Trump, pledge to strengthen U.S-Pacific ties</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/pacific-leaders-congratulate-president-elect-trump-pledge-to-strengthen-u-s-pacific-ties/>
+
+---
+
+## Kamala Harris concedes election to Trump but vows to fight on
+
+date: 2024-11-08, from: Island Times
+
+<p>WASHINGTON (REUTERS) &#8212; U.S Vice President Kamala Harris delivered a concession speech to the nation on Wednesday after a whirlwind campaign that failed to stop Republican Donald Trump&#8217;s return to the White House. “While I concede this election, I do not concede the fight that fueled this campaign,” she told supporters, many of them in [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/kamala-harris-concedes-election-to-trump-but-vows-to-fight-on/">Kamala Harris concedes election to Trump but vows to fight on</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/kamala-harris-concedes-election-to-trump-but-vows-to-fight-on/>
+
+---
+
+## United Nations to study impact of nuclear war for first time since 1989 amid ‘elevated risk’
+
+date: 2024-11-08, from: Island Times
+
+<p>By Lachlan Bennett In short: (ABC-Australia) The United Nations will set up an expert panel to investigate how nuclear war would impact all facets of society. It&#8217;s the first study of its kind since 1989 and has been prompted by concerns about geopolitical tensions. What&#8217;s next? The panel will deliver its final report in 2027 [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/united-nations-to-study-impact-of-nuclear-war-for-first-time-since-1989-amid-elevated-risk/">United Nations to study impact of nuclear war for first time since 1989 amid &#8216;elevated risk&#8217;</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/united-nations-to-study-impact-of-nuclear-war-for-first-time-since-1989-amid-elevated-risk/>
+
+---
+
+## Whipps likely to win unless there’s a ‘miracle’: Palau Election Commission
+
+date: 2024-11-08, updated: 2024-11-08, from: Marianas Variety
+
+KOROR (RNZ Pacific/Pacnews) — A Palau Election Commission spokesperson says it's highly unlikely President Surangel Whipps Jr. will lose the election. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/whipps-likely-to-win-unless-there-s-a-miracle-palau-election-commission/article_efe27d80-9d82-11ef-acc2-db072b0188dd.html>
+
+---
+
+## Cashing in on Guam military buildup 
+
+date: 2024-11-08, from: Pacific Island Times
+
+Industry forum to offer project updates and networking opportunities for companies eyeing defense contracts By Frank Whitman Businesses... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/cashing-in-on-guam-military-buildup>
+
+---
+
+## Micronesian American actor debuts on Broadway
+
+date: 2024-11-08, from: The Husk
+
+Kai Edgar stars in &#8216;Elf The Musical&#8217; at the Marquis Theatre 
+
+<br> 
+
+<https://thehusk.substack.com/p/micronesian-american-actor-debuts>
+
+---
+
+## UH faculty, students lead discussions at international environmental conference
+
+date: 2024-11-08, from: University of Hawaiʻi News
+
+<p>The three-day conference focused on climate change, marine pollution, fisheries and economics as well as the intersection between law and science including recent court decisions.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/07/pjc-environmental-conference/"><abbr>UH</abbr> faculty, students lead discussions at international environmental conference</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/07/pjc-environmental-conference/>
+
+---
+
+## Is kindness important in the workplace?
+
+date: 2024-11-08, from: University of Hawaiʻi News
+
+<p>Kanoho Hosoda’s research highlights the power of kindness in combating burnout in academia.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/07/kindness-in-higher-ed-study/">Is kindness important in the workplace?</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/07/kindness-in-higher-ed-study/>
+
+---
+
+## President Lassner awarded honorary degree from University of the Ryukyus
+
+date: 2024-11-08, from: University of Hawaiʻi News
+
+<p>Lassner was honored on November 6 during an international symposium in Okinawa.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/07/lassner-honorary-degree-okinawa/">President Lassner awarded honorary degree from University of the Ryukyus</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/07/lassner-honorary-degree-okinawa/>
+
+---
+
+## Brief Chat with Mary Okada: Gearing up for Guam's emerging 3-D industry 
+
+date: 2024-11-07, from: Pacific Island Times
+
+By Mar-Vic Cagurangan    In three years, 3D printing, also known as additive manufacturing, is expected to be fully operational on Guam.... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/brief-chat-mary-okada-gearing-up-for-guam-s-emerging-3-d-industry>
+
+---
+
+## Blas: Incoming Guam legislature leaning toward conservative spending policy 
+
+date: 2024-11-07, from: Pacific Island Times
+
+The 38th Guam Legislature’s policy direction will be guided by fiscal conservatism and community-centric thrust, said Sen. Frank Blas Jr., t 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/blas-will-be-the-speaker-of-the-38th-guam-legislature>
+
+---
+
+## Chinese language and foreign troops in the homeland
+
+date: 2024-11-07, from: Pacific Island Times
+
+ In the conversation over the military build-up in Guahan, critics are sometimes assaulted with what some people think is a knockout blow. D 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/chinese-language-and-foreign-troops-in-the-homeland>
+
+---
+
+## Covet
+
+date: 2024-11-07, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Emily Schulten I lied when I said that it all went back to normal.  It’s like the knife is pulled from my belly every time I see a friend’s belly grow round, see her gentle palm rest on the &#8230; <a href="https://hawaiipacificreview.org/2024/11/07/covet/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://hawaiipacificreview.org/2024/11/07/covet/>
 
 ---
 
@@ -90,6 +679,90 @@ Nothing else but the economy
 <br> 
 
 <https://www.mvariety.com/views/editorials/a-voice-not-an-echo/article_727d0ca4-9d0d-11ef-ae40-ab57c56de090.html>
+
+---
+
+## Finance: 4th quarter revenue exceeds forecast
+
+date: 2024-11-07, updated: 2024-11-07, from: Marianas Variety
+
+THE CNMI government’s revenue collection in the fourth quarter of fiscal year 2024 exceeded the forecast, according to a report submitted by Finance Secretary Tracy B. Norita to the Legislature last week. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/finance-4th-quarter-revenue-exceeds-forecast/article_8081cfac-9cd0-11ef-9686-afe6afd4d5d1.html>
+
+---
+
+## Tinian leaders seek partnership with DoD
+
+date: 2024-11-07, updated: 2024-11-07, from: Marianas Variety
+
+TINIAN Mayor Edwin P. Aldan, the Tinian Legislative Delegation and the Tinian Municipal Council want the U.S. military to establish “partnerships” with key local government agencies to build local capacity that can support the Defense Department’s mission. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/tinian-leaders-seek-partnership-with-dod/article_ba95eb9c-9cd5-11ef-a85c-27a9d1094c91.html>
+
+---
+
+## Borja, Orsini elected BOE chair, secretary-treasurer; new student representative sworn in
+
+date: 2024-11-07, updated: 2024-11-07, from: Marianas Variety
+
+THE Board of Education on Thursday elected outgoing member Gregory Pat Borja of Saipan to be the new chair of the governing and policymaking body of the Public School System. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/borja-orsini-elected-boe-chair-secretary-treasurer-new-student-representative-sworn-in/article_351d995a-9d17-11ef-baa8-f77f14dafca7.html>
+
+---
+
+## HANMI occupancy: No growth in September
+
+date: 2024-11-07, updated: 2024-11-07, from: Marianas Variety
+
+THE Hotel Association of the Northern Mariana Islands reported 43.0% average occupancy rate among 11 member hotels for September 2024, nearly even with 43.29% average occupancy among 11 hotels in September 2023. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/hanmi-occupancy-no-growth-in-september/article_d2ddb61c-9d16-11ef-8661-8beacb1ea10e.html>
+
+---
+
+## Red flags at 4 Saipan sites, 1 Rota site
+
+date: 2024-11-07, updated: 2024-11-07, from: Marianas Variety
+
+THE Bureau of Environmental and Coastal Quality analyzed water samples collected from Saipan’s west coast recreational beaches and storm drainages as well as from Rota's recreational beaches and storm drainages this week. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/red-flags-at-4-saipan-sites-1-rota-site/article_b4c298ae-9d17-11ef-9d34-ffe01a7d8e94.html>
+
+---
+
+## Unofficial results: Guam GOP will take majority in 38th Legislature
+
+date: 2024-11-07, updated: 2024-11-07, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — The unofficial results for the 2024 general election are in, and it appears that Republicans will have the majority in the next Guam Legislature. Fifteen lawmakers constitute the Legislature, and nine Republican senatorial candidates managed to earn spots among the top 15 vote-getters this election. In addition, Republican Guam Delegate James Moylan managed to retain his seat against his Democratic opponent Ginger Cruz. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/unofficial-results-guam-gop-will-take-majority-in-38th-legislature/article_07884606-9d18-11ef-9d34-9ffd9ab882c4.html>
+
+---
+
+## With Trump win, Democrats ask anxious questions about their neighbors, country, party leadership
+
+date: 2024-11-07, updated: 2024-11-07, from: Marianas Variety
+
+MILWAUKEE (Reuters) — In anxious conversations across the U.S. on Wednesday, many Democrats were struggling to understand what led their neighbors to vote Republican Donald Trump back into the White House. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/with-trump-win-democrats-ask-anxious-questions-about-their-neighbors-country-party-leadership/article_0957be0c-9d19-11ef-b2fa-6fb36e48be18.html>
 
 ---
 
@@ -999,7 +1672,7 @@ By Pacific Island Times News Staff Sen.  Joanne Brown has taken a firm stand 
 
 date: 2024-11-05, from: Island Times
 
-<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73607" data-permalink="https://islandtimes.org/ppuc-subsidies-and-new-referral-house-in-hawaii-approved-under-new-law/20241104_160049/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?fit=2560%2C1920&amp;ssl=1" data-orig-size="2560,1920" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.7&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1730736049&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.3&quot;,&quot;iso&quot;:&quot;125&quot;,&quot;shutter_speed&quot;:&quot;0.0055555555555556&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20241104_160049" data-image-description="" data-image-caption="&lt;p&gt;Election volunteer working with the tabulation machines preparing election today.&lt;/p&gt;
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73607" data-permalink="https://islandtimes.org/ppuc-subsidies-and-new-referral-house-in-hawaii-approved-under-new-law/20241104_160049/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?fit=2560%2C1920&amp;ssl=1" data-orig-size="2560,1920" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.7&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1730736049&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.3&quot;,&quot;iso&quot;:&quot;125&quot;,&quot;shutter_speed&quot;:&quot;0.0055555555555556&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20241104_160049" data-image-description="" data-image-caption="&lt;p&gt;Election volunteer working with the tabulation machines preparing election today.&lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241104_160049-scaled.jpg?fit=780%2C585&amp;ssl=1" /></figure>
 <p>By: L.N. Reklai Election ballot tabulation in Palau will rely on upgraded tabulating machines, with oversight by the tabulation committee, said Palau Election Commission (PEC) Managing Director Sherwin Yamanguchi. “Like last election, the machines will count ballots, tally votes, and align results with tabulators to ensure accuracy,” Yamanguchi stated. The PEC’s technical team expects the [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/73610-2/">Election Results to Stream Live with Enhanced Tabulation Technology in Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>

@@ -1,11 +1,289 @@
 ---
 title: columns
-updated: 2024-11-07 08:17:51
+updated: 2024-11-08 07:49:52
 ---
 
 # columns
 
-(date: 2024-11-07 08:17:51)
+(date: 2024-11-08 07:49:52)
+
+---
+
+##  I missed this back in May: the Boy Scouts of America is... 
+
+date: 2024-11-08, updated: 2024-11-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045600-i-missed-this-back-in>
+
+---
+
+## Home Assistant and CarPlay with the Pi Touch Display 2
+
+date: 2024-11-08, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Home Assistant and CarPlay with the Pi Touch Display 2</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>After a decade, Raspberry Pi <a href="https://www.raspberrypi.com/news/raspberry-pi-touch-display-2-on-sale-now-at-60/">finally upgraded their official Touch Display</a> from 480p to 720p, while keeping the price and overall aesthetic the same.</p>
+
+<p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/pi-touch-display-2-home-assistant-dashboard.jpeg" alt="Raspberry Pi Touch Display 2 - Home Assistant Dashboard"></p>
+
+<p>I've had early access to the Touch Display 2, and have been testing it in a variety of scenarios. Generally, Linux touchscreen support isn't wonderful. And Pi OS, being a fairly customized UI focused on simple use cases, is not quite to a usable state if you go touchscreen-only, considering I had trouble getting the onscreen keyboard to work in Chromium half the time, and it would overlay things I was typing even in fully-supported apps like Terminal.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-11-08T09:01:32-06:00" title="Friday, November 8, 2024 - 09:01" class="datetime">November 8, 2024</time>
+</span> 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2024/home-assistant-and-carplay-pi-touch-display-2>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-11-08, from: Miguel de Icaza Mastondon feed)
+
+<p>Joseph filed a bug against the SpriteFrames editor in Godot/iPad and also pointed out that it was a bit clunky to use on device.</p><p>And while I could fix the bug, and maybe blow up some icons, I could not resist the urge of rewriting it in SwiftUI.   </p><p>This is not very responsible of me, but it was hard to resist the urge.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113447789825273900>
+
+---
+
+##  In the three years since its launch, the JW Space Telescope has... 
+
+date: 2024-11-08, updated: 2024-11-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045596-in-the-three-years-since>
+
+---
+
+## AI Industry is Trying to Subvert the Definition of “Open Source AI”
+
+date: 2024-11-08, updated: 2024-11-07, from: Bruce Schneier blog
+
+<p>The Open Source Initiative has <a href="https://opensource.org/ai/open-source-ai-definition">published</a> (news article <a href="https://techcrunch.com/2024/10/28/we-finally-have-an-official-definition-for-open-source-ai/">here</a>) its definition of &#8220;open source AI,&#8221; and it&#8217;s <a href="https://news.slashdot.org/story/24/11/03/0257241/new-open-source-ai-definition-criticized-for-not-opening-training-data">terrible</a>. It allows for secret training data and mechanisms. It allows for development to be done in secret. Since for a neural network, the training data <i>is</i> the source code&#8212;it&#8217;s how the model gets programmed&#8212;the definition makes no sense.</p>
+<p>And it&#8217;s confusing; most &#8220;open source&#8221; AI models&#8212;like LLAMA&#8212;are open source <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4543807">in name only</a>. But the OSI seems to have been co-opted by industry players that want both corporate secrecy and the &#8220;open source&#8221; label. (Here&#8217;s one ...</p> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/11/ai-industry-is-trying-to-subvert-the-definition-of-open-source-ai.html>
+
+---
+
+## The Lesson
+
+date: 2024-11-08, from: Robert Reich's blog
+
+The real lesson we should draw from what occurred Tuesday 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-lesson>
+
+---
+
+## November 7, 2024 
+
+date: 2024-11-08, from: Heather Cox Richardson blog
+
+Today the Trump family posed for a post-election photo. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/november-7-2024>
+
+---
+
+## Friday 8 November, 2024
+
+date: 2024-11-08, from: John Naughton's online diary
+
+Wheels within Wheels Quote of the Day ”The truth does not change according to our ability to stomach it.” Flannery O’Connor Musical alternative to the morning’s radio news Vaughan Williams &#124; How cold the wind doth blow &#124; Ellen Leslie, &#8230; <a href="https://memex.naughtons.org/friday-8-november-2024/40046/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-8-november-2024/40046/>
+
+---
+
+##  An interview with Ridley Scott about Gladiator II, the challenges of working... 
+
+date: 2024-11-07, updated: 2024-11-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045597-a-fun-interview-with-ridl>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-07, from: Dave Winer's Scripting News)
+
+Not much time to write today and tomorrow. 
+
+<br> 
+
+<http://scripting.com/2024/11/07.html#a230056>
+
+---
+
+##  &#8220;A Soft Murmur is an online background noise generator designed to help... 
+
+date: 2024-11-07, updated: 2024-11-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045599-a-soft-murmur-is-an>
+
+---
+
+##  I think I might take some time today to read Pema Chodron&#8217;s... 
+
+date: 2024-11-07, updated: 2024-11-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045593-i-think-i-might-take>
+
+---
+
+##  If you can&#8217;t wait until Nov 15, Apple TV+ has uploaded the... 
+
+date: 2024-11-07, updated: 2024-11-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045592-if-you-cant-wait-until>
+
+---
+
+##  Election Grief Is Real. Here&#8217;s How to Cope. &#8220;You need to be... 
+
+date: 2024-11-07, updated: 2024-11-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045598-election-grief-is-real-he>
+
+---
+
+## November 6, 2024
+
+date: 2024-11-07, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/151340585/3168e5b184fd893aa7a34990f96c1c7a.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/151340585/3168e5b184fd893aa7a34990f96c1c7a.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/november-6-2024-cd6>
+
+---
+
+##  Ran across a song with &#8220;741 Hz&#8221; in the title and there&#8217;s... 
+
+date: 2024-11-07, updated: 2024-11-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045591-ran-across-a-song-with>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-11-07, from: Miguel de Icaza Mastondon feed)
+
+<p>So just one crasher left to open the preview to Godot on iPad, but I am scared that I will be flooded with bug reports and things I missed.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113442963391614887>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-11-07, from: Miguel de Icaza Mastondon feed)
+
+<p>The genocide continues at full speed:</p><p>“After Northern Gaza has been disconnected from life, Israeli military now orders under gun threat the main neighborhoods in north Gaza City (incl Shati RC and Nasser) to leave or face death.”</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113442958615900931>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-11-07, from: Miguel de Icaza Mastondon feed)
+
+<p>At least Bibi and his children are safe now.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113442949351841869>
+
+---
+
+##  A Time of Earnestness 
+
+date: 2024-11-07, updated: 2024-11-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/a-time-of-earnestness>
+
+---
+
+## ★ I Wonder
+
+date: 2024-11-07, updated: 2024-11-07, from: Daring Fireball
+
+Singsong congratulations from the leaders of America’s biggest companies. 
+
+<br> 
+
+<https://daringfireball.net/2024/11/i_wonder>
+
+---
+
+##  For the last 18 years, Adam Smith has spoken to every Nobel... 
+
+date: 2024-11-07, updated: 2024-11-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045580-for-the-last-18-years>
+
+---
+
+##  Here We Go Again 
+
+date: 2024-11-07, updated: 2024-11-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/here-we-go-again>
 
 ---
 
@@ -784,8 +1062,8 @@ date: 2024-11-05, from: Heather Cox Richardson blog
  
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/151233476/7d9d03764c39814bce28905e4f8e75d5.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/151233476/7d9d03764c39814bce28905e4f8e75d5.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/151233476/570969453a068ba26d52405851859551.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/151233476/570969453a068ba26d52405851859551.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://heathercoxrichardson.substack.com/p/november-4-2024-df8>
 
@@ -902,7 +1180,7 @@ It&rsquo;s a great client for the command line and it comes with a separate text
 
 ---
 
-## Today. Holding each other's hands. 
+## Today. Holding each other’s hands. 
 
 date: 2024-11-05, from: Robert Reich's blog
 
@@ -1437,8 +1715,8 @@ date: 2024-11-04, from: Heather Cox Richardson blog
  
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/151175432/dfd4ac3d4c0072006c499a27b976faf7.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/151175432/dfd4ac3d4c0072006c499a27b976faf7.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/151175432/1b06acd55c93ee2a6ed459aff8ff17fb.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/151175432/1b06acd55c93ee2a6ed459aff8ff17fb.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://heathercoxrichardson.substack.com/p/november-3-2024-fd7>
 
@@ -1668,8 +1946,8 @@ date: 2024-11-03, from: Heather Cox Richardson blog
  
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/151143711/b26c688121756bbb5ee19699627183c7.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/151143711/b26c688121756bbb5ee19699627183c7.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/151143711/00a2e5f3619d1a22ab5553af3a8144d1.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/151143711/00a2e5f3619d1a22ab5553af3a8144d1.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://heathercoxrichardson.substack.com/p/november-2-2024-9e4>
 

@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2024-11-07 08:17:51
+updated: 2024-11-08 07:49:52
 ---
 
 # games
 
-(date: 2024-11-07 08:17:51)
+(date: 2024-11-08 07:49:52)
+
+---
+
+## Nintendo is definitely suing Palworld developer over throwing Poké Balls
+
+date: 2024-11-08, updated: 2024-11-08, from: Polygon Website
+
+The Pokémon Company and Nintendo are suing Palworld developer Pocketpair for 10 million yen, which is roughly the equivalent of $65,600, and late payment damages, according to a statement released by Pocketpair on Friday. The lawsuit targets three patents that cover gameplay where players ride Pokémon and throw Poké Balls. The Pokémon Company and Nintendo [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/476177/palworld-developer-nintendo-pokemon-lawsuit>
+
+---
+
+## Star Wars: Unlimited’s take on the Clone Wars rips
+
+date: 2024-11-08, updated: 2024-11-07, from: Polygon Website
+
+When Star Wars: Unlimited launched in March — soon after competitor Disney Lorcana, and among some of Magic: The Gathering’s most influential modern sets — it easily stood out from the crowd. Critics and fans alike admired it for its aggressive ramp-up of power and complexity, and its commitment at launch to the lore of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/475801/star-wars-unlimited-third-set-twilight-republic-ahsoka-grievous-review>
+
+---
+
+## Pokémon Trading Card Game Pocket won’t rock your world, and that’s OK
+
+date: 2024-11-08, updated: 2024-11-07, from: Polygon Website
+
+I’m not really looking for another hobby or living game in my life right now. Between day-to-day commitments and juggling games like Fortnite and Honkai: Star Rail, it’s hard to fit more games into my schedule. However, Pokémon Trading Card Game Pocket has shimmied its way into the ever-shrinking window of time I have to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/475875/pokemon-trading-card-game-pocket-tcg-review>
+
+---
+
+## Lottacoins Island number block puzzle solutions and codes in Mario &#038; Luigi: Brothership
+
+date: 2024-11-07, updated: 2024-11-07, from: Polygon Website
+
+In Mario &#38; Luigi: Brothership, the Mario Bros. journey to a location known as Lottacoins Island, a metropolitan destination where the business of Concordia gets done. The office buildings of Lottacoins Island are home to two security locks in the form of number block puzzles you’ll need to get past on Lottacoins Island. This Mario [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/476044/mario-luigi-brothership-lottacoins-island-gate-codes-puzzle-solutions-number-blocks>
+
+---
+
+## Red Dead Redemption fan turns every horse into a missile with a speed mod
+
+date: 2024-11-07, updated: 2024-11-07, from: Polygon Website
+
+Some of my favorite moments with Rockstar’s Red Dead Redemption 2 involved striking out on the dusty plains, with nothing but a friendly horse to carry me and a package full of goods. I’d listen to the gentle clip clop of my horse’s hooves and simply enjoy the atmosphere. Those quiet moments are lovely, but [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/476010/red-dead-redemption-rdr-horse-carriage-speed-mod>
+
+---
+
+## All Battle Plugs in Mario &#038; Luigi: Brothership and how to get them
+
+date: 2024-11-07, updated: 2024-11-07, from: Polygon Website
+
+Mario &#38; Luigi: Brothership adds a new layer to the series’ turn-based combat with Battle Plugs, special gear that gives the bros extra abilities in the game’s battles when equipped. Battle Plugs can be earned throughout the game, by crafting plugs using Lumenade gathered from Sprite Bulbs. Some Battle Plugs are given to Mario and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/475537/mario-luigi-brothership-battle-plugs-all-list-combos>
+
+---
+
+## Pokémon TCG Pocket PSA: We should be ‘liking’ each other’s showcases
+
+date: 2024-11-07, updated: 2024-11-07, from: Polygon Website
+
+In addition to shredding open your daily Pokémon TCG Pocket packs and maybe doing a Lapras battle, there’s one other daily you should be doing to help out your friends: liking their showcases. Each time your showcase is liked, you’ll get one shop ticket — up until you get five per day. Once you have [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon/475890/tcg-pocket-shop-tickets-showcases>
+
+---
+
+## Brush up on your insult swordfighting skills, someone is making an unofficial Monkey Island game
+
+date: 2024-11-07, updated: 2024-11-07, from: Polygon Website
+
+A new, unofficial entry in the Monkey Island saga is currently in development from indie studio BeanAdventureAgency. Designed as a love letter to the classic point-and-click franchise, The Booze of Monkey Island is available as a free, early-access download and nails the atmosphere and wit of the earlier adventure titles. The most recent official series [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/475854/booze-of-monkey-island-adventure-game-tribute>
+
+---
+
+## Pokémon Go ‘Harvest Festival 2024’ event guide
+
+date: 2024-11-07, updated: 2024-11-07, from: Polygon Website
+
+Pokémon Go is hosting a “Harvest Festival” event from Nov. 7-12, featuring autumn-vibes Pokémon to usher in the (hopefully) cool weather. The event features a double candy bonus for catching Pokémon, an increased rate to find shiny Pumpkaboo, and Mossy Lure Modules will bring in different Pokémon, like Alolan Exeggutor, Snorlax, Pumpkaboo, and Smoliv. Smoliv [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/475844/harvest-festival-2024-smoliv-timed-research>
+
+---
+
+## Dragon Age: The Veilguard celebrates N7 Day with Mass Effect cosmetics
+
+date: 2024-11-07, updated: 2024-11-07, from: Polygon Website
+
+Without a new Mass Effect since 2017’s Andromeda, responsibility for N7 Day — the fake holiday celebrated by developer BioWare every November 7, in reference to the special forces rank held by several of the franchise’s protagonists — falls to the studio’s fantasy series by way of the latest installment, Dragon Age: The Veilguard (via [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/475870/dragon-age-veilguard-mass-effect-n7-day-armor>
 
 ---
 

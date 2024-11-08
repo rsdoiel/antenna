@@ -1,30 +1,879 @@
 ---
 title: north america
-updated: 2024-11-07 08:17:50
+updated: 2024-11-08 07:49:50
 ---
 
 # north america
 
-(date: 2024-11-07 08:17:50)
+(date: 2024-11-08 07:49:50)
 
 ---
 
-## The Senate Energy and Climate Committees Poised for Big Shake Ups
+## Trump’s victory: Ukraine braces for policy shifts amid war
+
+date: 2024-11-08, from: VOA News USA
+
+With former President Donald Trump returning to the White House, Ukrainians are bracing for potential shifts in U.S. policy that could reshape its fight for survival against Russian aggression. Trump’s agenda could take a sharp turn from the Biden administration's unwavering support, raising fears that vital U.S. aid might be at risk. Myroslava Gongadze reports from Europe. Camera: Vladyslav Smilianets 
+
+<br> 
+
+<https://www.voanews.com/a/trump-s-victory-ukraine-braces-for-policy-shifts-amid-war-/7857027.html>
+
+---
+
+## India optimistic about Trump presidency, worried about trade, tariffs
+
+date: 2024-11-08, from: VOA News USA
+
+NEW DELHI — As India looks ahead to President-elect Donald Trump taking charge in Washington, there is optimism the strategic relationship built by the two countries in recent years will strengthen. India also hopes to benefit if Trump takes a less confrontational approach to Russia, say analysts.
+
+
+New Delhi also is bracing for turbulence in trade ties, though, which could be affected by Trump’s “America first” agenda.
+
+
+In his congratulatory message posted on social media platform X, Indian Prime Minister Narendra Modi called Trump “my friend” and said, “I look forward to renewing our collaboration to further strengthen the India-U.S. Comprehensive Global and Strategic Partnership.”
+
+
+Modi shared photos of the two leaders hugging and Trump’s visit to India during his first term in 2020 — a time when Trump shared warm relations with Modi.
+
+
+Analysts in New Delhi expect that India will remain a key partner for Washington.
+
+
+“Compared to most other countries, particularly some of the USA’s closest partners, perhaps India is better placed because of its centrality in the Indo-Pacific and the role it plays in counterbalancing China,” said Harsh Pant, vice president for studies and foreign policy at the Observer Research Foundation in New Delhi.
+
+
+“Given that Trump had invested in this partnership in his earlier term, there is hope it will continue the same trajectory,” he said.
+
+
+The Quad group — a partnership among the United States, Japan, Australia and India, which had been dormant earlier — was revived under the previous Trump administration with an eye on China.
+
+
+However, a sense of uncertainty lingers in the corridors of power in New Delhi. “The relationship may face hiccups, which we cannot anticipate at the moment given Trump’s leadership style and unpredictability,” said Pant.
+
+
+India also hopes that confrontation between the U.S. and Russia will lessen under the Trump administration. During the campaign, Trump had said he would end the Russia-Ukraine war without elaborating. In the past he has spoken of having a good relationship with Russian President Vladimir Putin.
+
+
+“If U.S. hostility to Russia lessens under Trump, we believe that it would reduce the extreme and overwhelming Russian dependence on China, which is good from India’s perspective,” according to Sreeram Chaulia, dean at the Jindal School of International Affairs at O.P. Jindal Global University.
+
+
+
+
+Despite a recent thaw in ties with China, India remains wary of Beijing.
+
+
+Others point out that maintaining India’s time-tested ties with Russia could become easier under a Trump presidency. India refused to join Western sanctions against Russia or condemn the war in Ukraine, positions that became an irritant in Washington.
+
+
+“Trump appears to have a less strident approach to Russia, and that will help India by making it simpler to balance relations between Washington and Russia,” said Anand Kumar, associate fellow at the Manohar Parrikar Institute for Defense Studies and Analyses in New Delhi.
+
+
+"Tariff king"
+
+
+While security ties will likely stay on track, there are worries over whether trade relations will take a hit under Trump, who has said he will follow an “America first” agenda and impose tariffs on countries that have trade surpluses with Washington.
+
+
+The U.S. is India’s largest trading partner — two-way trade last year totaled almost $120 billion, with a surplus of $30 billion in India’s favor.
+
+
+During his previous term, Trump called India a “tariff king,” criticized high duties that New Delhi imposed on American products such as Harley-Davidson motorcycles, and terminated India’s designation as a developing nation that had allowed businesses to export hundreds of products duty-free to the United States. India retaliated by raising duties on some American products.
+
+
+Such tensions could be exacerbated because Trump is likely to push New Delhi to lower import duties for American companies. “This will be a slippery slope for India; he could demand market concessions,” said Chaulia.
+
+
+Indian officials, however, have sounded an optimistic note.
+
+
+"There was already a reordering of the supply chains taking place. It is very likely that in view of the [U.S.] election results, this would accelerate. Some of it will be disruptive, but we in India see it as an opportunity," Indian Foreign Minister Jaishankar Subrahmanyan told business leaders in Australia on Thursday.
+
+
+He was referring to the trend of companies such as Apple setting up manufacturing bases in India as they looked to diversify production from China.
+
+
+But analysts say Trump could take a diametrically different approach.
+
+
+“He has this philosophy of onshoring, that is bringing manufacturing back to the U.S. rather than friendshoring which Biden used to talk about — that is encouraging businesses to move to friendly countries. So, the overall idea that U.S. businesses that are leaving China would think of India as an alternative — that model Trump may not encourage,” said Chaulia.
+
+
+Defense and technology
+
+
+There also are questions about how the defense and technology cooperation between India and the U.S. that gained momentum under the Biden administration will move forward. India has pushed for co-production of defense technology rather than relying solely on direct purchases of military equipment; sustaining that under Trump may pose a challenge, according to analysts.
+
+
+“The U.S. has operated under the assumption that boosting India’s capabilities is in America’s self-interest, especially in balancing China. But Trump is likely to demand some Indian ‘pro’ for American ‘quid,’” analyst C. Raja Mohan wrote in the Indian Express newspaper on Thursday.
+
+
+“India may find itself on a steep learning curve as it figures out there may be no ‘free lunch’ under Trump’s second term,” Mohan wrote.
+
+
+Still, as India prepares to navigate a Trump presidency, there is an overall sense of confidence.
+
+
+“I don’t think India is as worried as some other world capitals. New Delhi understands that if Trump’s obsession with China continues, that gives India greater space to maneuver,” said Pant. 
+
+<br> 
+
+<https://www.voanews.com/a/india-optimistic-about-trump-presidency-worried-about-trade-tariffs/7856987.html>
+
+---
+
+## Though voters are sour on the economy, the central bank isn’t
+
+date: 2024-11-08, from: Marketplace Morning Report
+
+<p>The Federal Reserve cut its short-term interest rate by a quarter of a percentage point yesterday. At his briefing, Fed Chair Jerome Powell stayed away from politics, despite the freshness of the news of Donald Trump&#8217;s decisive victory. But many of Trump’s proposals could affect the central bank&#8217;s interest rate policy. We dig in. Plus, a look at Trump appointments and a view on how European investors are moving money.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/08/mmr_20241108_MMR_Podcast_2_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/though-voters-are-sour-on-the-economy-the-central-bank-isnt&awCollectionId=mkp-MMR"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/08/mmr_20241108_MMR_Podcast_2_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/though-voters-are-sour-on-the-economy-the-central-bank-isnt&awCollectionId=mkp-MMR" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/though-voters-are-sour-on-the-economy-the-central-bank-isnt>
+
+---
+
+## This Is the Year the World Breaches 1.5 Degrees
+
+date: 2024-11-08, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDQxNTA3OC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4Njg2MjIzM30.GE0qB_wqFCbDKwVNTb2-mWbXzGvnmSprfscKgGSMJ_w/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p><em><strong>Current conditions: </strong>Colorado’s major snow storm will continue well into the weekend • More than 900 people in Pakistan were hospitalized in a single day due to extreme air pollution • Devastating flooding continues in Spain.</em></p><h2>THE TOP FIVE</h2><h3>1. Guterres warns of tipping points and 1.5C breach ahead of COP29</h3><p>The world continues to underestimate climate risks, and irreversible tipping points are near, UN Secretary General António Guterres <a href="https://www.theguardian.com/environment/2024/nov/08/antonio-guterres-cop29-climate-breakdown-tipping-points-fossil-fuels-finance-aoe?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_vUEiVmcQrxDPhDFiIv_i18TR2GwFSHNsnSkBAJCPGR7ZNkk7__72hJdaQ7Rf-OBQDj2d3" rel="noopener noreferrer" target="_blank">told</a> <em>The Guardian</em>. “It is absolutely essential to act now,” he said. “It’s absolutely essential to reduce emissions drastically now.” His warning comes before the COP29 summit kicks off Monday in Azerbaijan, where negotiators are set to agree on a new global finance target to help developing countries with climate adaptation. Guterres said that if the U.S. leaves the Paris Agreement again under a Trump presidency, the landmark goal to limit global warming to 1.5 degrees Celsius would be “crippled.” <a href="https://www.theclimatebrink.com/p/2024-will-be-the-first-year-above?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_vUEiVmcQrxDPhDFiIv_i18TR2GwFSHNsnSkBAJCPGR7ZNkk7__72hJdaQ7Rf-OBQDj2d3" rel="noopener noreferrer" target="_blank">Experts say</a> 2024 is now expected to be the first full calendar year in which global temperatures exceed the 1.5 degrees target.</p><h3>2. What a Trump presidency means for U.S. emissions</h3><p>With climate-skeptic Donald Trump set to retake the White House in January, many are wondering what his policies will mean for U.S. greenhouse gas emissions. He’s likely to walk back pollution rules on cars and power plants, repeal some parts of the Inflation Reduction Act, boost oil and gas drilling, and pull out of the Paris Agreement. Jesse Jenkins, who leads the Princeton ZERO Lab and is co-host of Heatmap’s Shift Key podcast, <a href="https://x.com/JesseJenkins/status/1854598348763783548?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_vUEiVmcQrxDPhDFiIv_i18TR2GwFSHNsnSkBAJCPGR7ZNkk7__72hJdaQ7Rf-OBQDj2d3" rel="noopener noreferrer" target="_blank">said</a> projected emissions will indeed be <strong>higher than they would under current policies</strong>, but “since Trump cannot repeal grants already awarded or tax credits already provided to date, and it is unlikely that every provision in IRA will be repealed,” they probably will remain <strong>lower than Jenkins’ so-called Frozen Policies scenario</strong>, which assumes no new climate policies since January 2021.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="9d69b820ded7c08b58d6cc044cea051f" data-rm-shortcode-name="rebelmouse-image" id="f7e6d" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDQxNTA4Ny9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc3NDU1ODExNn0.fsQAXAYgvKp6X4bTLEfzOh9Gx-XIfFK4jij1nYbt36s/image.png?width=980"/>
+<small class="image-media media-photo-credit" placeholder="Add Photo Credit...">Jesse Jenkins/REPEAT Project</small></p><p>Varun Sivaram, senior fellow for energy and climate at the Council on Foreign Relations, <a href="https://x.com/vsiv/status/1854707764792119360?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_vUEiVmcQrxDPhDFiIv_i18TR2GwFSHNsnSkBAJCPGR7ZNkk7__72hJdaQ7Rf-OBQDj2d3" rel="noopener noreferrer" target="_blank">added</a> some global context: “Even with sharp Trump domestic climate policy rollbacks, the change in U.S. emissions is trivial on a global scale and far less meaningful than expected emerging economy emissions growth,” he said.</p><h3>3. BP scraps 18 hydrogen projects</h3><p>In case you missed it (we did!): Oil giant BP said in its most recent <a href="https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/investors/bp-third-quarter-2024-results-presentation-slides.pdf?ref=ctvc.co&utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_vUEiVmcQrxDPhDFiIv_i18TR2GwFSHNsnSkBAJCPGR7ZNkk7__72hJdaQ7Rf-OBQDj2d3" rel="noopener noreferrer" target="_blank">earnings report</a> that it has abandoned 18 early-stage hydrogen projects. It still plans to back between five and 10 projects, but that’s down from the “more than 10” it had planned for. The move will save BP some $200 million, and “could have a chilling effect on the nascent hydrogen industry,” <a href="https://techcrunch.com/2024/11/05/oil-giant-bp-is-killing-18-hydrogen-projects-chilling-the-nascent-industry/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_vUEiVmcQrxDPhDFiIv_i18TR2GwFSHNsnSkBAJCPGR7ZNkk7__72hJdaQ7Rf-OBQDj2d3" rel="noopener noreferrer" target="_blank">wrote</a> Tim De Chant at <em>TechCrunch</em>.</p><h3>4. Rivian reports Q3 earnings</h3><p>Rivian <a href="https://www.reuters.com/business/autos-transportation/rivians-quarterly-revenue-slumps-first-time-since-ipo-2024-11-07/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_vUEiVmcQrxDPhDFiIv_i18TR2GwFSHNsnSkBAJCPGR7ZNkk7__72hJdaQ7Rf-OBQDj2d3" rel="noopener noreferrer" target="_blank">reported</a> Q3 earnings yesterday. Here are some key <a href="https://electrek.co/2024/11/07/rivian-rivn-hits-road-bump-q3-but-things-are-looking-up/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_vUEiVmcQrxDPhDFiIv_i18TR2GwFSHNsnSkBAJCPGR7ZNkk7__72hJdaQ7Rf-OBQDj2d3" rel="noopener noreferrer" target="_blank">takeaways</a>:</p><ul> <li>Revenue was $874 million, down from $1.37 billion in the same quarter last year.</li><li>Losses per vehicle were up year-over-year, now sitting at $39,130 compared to $30,500 in Q3 2023.</li><li>Net losses hit $1.1 billion for the quarter, down from $1.34 billion yoy.</li><li>As of September, the company had built 36,749 vehicles this year. Due to a parts shortage, it revised its expected annual output from 57,000 vehicles down to between 47,000 and 49,000.</li><li>The company still expects to deliver more vehicles this year than last – barely.</li><li>It says it’s still on track to turn a gross profit by the end of the year.</li></ul><h3>5. Study: Private jet emissions on the rise</h3><p>A new <a href="https://www.nature.com/articles/s43247-024-01775-z?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_vUEiVmcQrxDPhDFiIv_i18TR2GwFSHNsnSkBAJCPGR7ZNkk7__72hJdaQ7Rf-OBQDj2d3" target="_blank">study</a> published in the journal <em>Communications Earth & Environment</em> found that carbon dioxide emissions from private jets have risen by 50% over the last four years. The research analyzed data from about 19 million private flights (half of which were shorter than 300 miles) made by more than 25,000 private aircraft between 2019 and 2023. In 2023 alone, private flights resulted in about 15.6 million metric tons of CO2 emissions. Most private flights are taking place in the United States: The researchers say that while the U.S. is home to 4% of the global population, nearly 70% of all private aircraft are registered there. The 2022 FIFA World Cup was one of the most carbon-intensive events for private aircraft. Also on the list? The Davos conference and – uh oh – COP28.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="6889477deb98347971c6560439baa1e7" data-rm-shortcode-name="rebelmouse-image" id="e6008" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDQxNTA5My9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc0NjIwMzk5OH0.yWhdiqzuH7zrALhIABFwBMWacmuWZz8feCPUUz9hzcA/image.png?width=980"/>
+<small class="image-media media-caption" placeholder="Add Photo Caption...">Most private flights occur in the U.S. </small><small class="image-media media-photo-credit" placeholder="Add Photo Credit...">Communications Earth & Environment</small></p><h2>THE KICKER</h2><p>Donald Trump’s election victory this week resulted in a <a href="https://www.ft.com/content/3af7966d-6729-433e-9864-3346e039c3ef?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-_vUEiVmcQrxDPhDFiIv_i18TR2GwFSHNsnSkBAJCPGR7ZNkk7__72hJdaQ7Rf-OBQDj2d3" rel="noopener noreferrer" target="_blank">$1.2 billion windfall</a> for investors who bet against renewable energy stocks.</p> 
+
+<br> 
+
+<https://heatmap.news/climate/paris-agreement-celsius-breach-2024>
+
+---
+
+## China announces huge debt relief package
+
+date: 2024-11-08, from: Marketplace Morning Report
+
+<p><em>From the BBC World Service:</em> China has unveiled measures worth $1.4 trillion to tackle a mountain of local government debt, as Beijing steps up plans to support its slowing economy. Then, an increasing number of people in France are opting for a mixed lifestyle — part city job and part farming. Plus, the COP29 climate conference in Azerbaijan gets underway on Monday but has been overshadowed by a scandal over fossil fuel deals.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/08/mmr_20241108_MMR_Podcast_1_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/china-announces-huge-debt-relief-package&awCollectionId=mkp-MMR"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/08/mmr_20241108_MMR_Podcast_1_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/china-announces-huge-debt-relief-package&awCollectionId=mkp-MMR" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/china-announces-huge-debt-relief-package>
+
+---
+
+## Ready or not? How China scrambled to counter the second Trump shock
+
+date: 2024-11-08, from: VOA News USA
+
+BEIJING/HONG KONG — After Donald Trump first stormed the White House eight years ago, rattled Chinese leaders responded to his tariffs and fiery rhetoric with force, resulting in a trade war that plunged ties between the globe's largest economies to multiyear lows.
+
+
+This time around, Beijing has been preparing for Trump's return by deepening ties with allies, boosting self-reliance in tech, and setting aside money to prop up the economy that is now more vulnerable to fresh tariffs already threatened by Trump.
+
+
+
+
+While some retaliation to those moves might be unavoidable, China will focus on exploiting rifts between the U.S. and its allies, experts say, and aim to lower the temperature to help strike an early deal to cushion the blow from trade friction.
+
+
+Zhao Minghao, international relations expert at Shanghai's Fudan University said China probably wouldn't replay the playbook from the first Trump presidency when Beijing had a very strong reaction to Trump's moves on tariffs.
+
+
+He pointed out Chinese President Xi Jinping's message to Trump from Thursday, in which Xi called for "cooperation" and not "confrontation," emphasizing "stable, sound and sustainable" relations between the two superpowers.
+
+
+"Trump is not a stranger to Beijing at this time," Zhao told Reuters. "Beijing would respond in a measured way and make efforts to communicate with the Trump team."
+
+
+While Chinese tech giants are now far less reliant on U.S. imports, the economy — hit by a massive property crisis and saddled with unsustainable debt — is in a weaker position than in 2016, struggling to eke out 5% growth compared to 6.7% then.
+
+
+To make things worse, Trump has pledged to end China's most-favored-nation trading status and slap tariffs on Chinese imports in excess of 60% - much higher than those imposed during his first term.
+
+
+Fudan's Zhao said Beijing has this scenario gamed out but expects tariffs to come in below the level pledged on the campaign trail because "that would significantly push up the inflation in the U.S."
+
+
+Still, that threat alone has unnerved producers in the world's largest exporter because China sells goods worth more than $400 billion a year to the U.S. and hundreds of billions more in parts for products Americans buy elsewhere.
+
+
+Li Mingjiang, a scholar at the Rajaratnam School of International Studies in Singapore, said that as a result, the Chinese economy might require even more stimulus than the $1.4 trillion expected on Friday.
+
+
+"It'll be a very serious blow to China's international trade that will affect jobs and government revenues," said Li. "China will probably have to come up with a much bigger stimulus package domestically."
+
+
+Charm offensive 
+
+
+To boost global trade, China has been on a diplomatic blitz, shoring up alliances, mending fences with foes, and continuing difficult talks with the European Union, even after the bloc imposed stiff tariffs on Chinese electric vehicles.
+
+
+
+
+Last month China ended a four-year military stand-off with India on their disputed border; in August, it resolved a two-year spat with Japan over the discharge of radioactive water from the Fukushima nuclear plant; and Premier Li Qiang in June visited Australia — the first such trip in seven years.
+
+
+Also last month, both Xi and Li attended separate summits of BRICS — which now accounts for 35% of the global economy — and the 10-state Shanghai Cooperation Organization, as China deepens ties with the Global South.
+
+
+"The first Trump administration did not show a lot of interest in robust engagement in Africa, Latin America, and Southeast Asia, which provided the Chinese a lot of latitude to operate in these markets largely uncontested," said Eric Olander, editor-in-chief of the China-Global South Project.
+
+
+In Europe, trade tensions with China could be counterbalanced by worries over Trump's potentially reduced role in the Ukraine war and his economic policies, creating an opening for Beijing, say some experts.
+
+
+"China will carry on reaching out to Europeans, the British, the Australians and even the Japanese, not only to try to drive a wedge between the U.S. and the countries of the north," said Jean-Pierre Cabestan, an expert at Hong Kong's Baptist University.
+
+
+"But also as part of its mission to rebalance its foreign trade in favor of the Global South," he said.
+
+
+Tech punchline 
+
+
+During the first trade war, Trump banned high-tech exports to China and sanctioned companies including China's largest chipmaker SMIC, prompting its tech sector to become domestic-focused and self-sufficient.
+
+
+Winston Ma, a former managing director for the China Investment Corporation (CIC), China's sovereign wealth fund, said a major trigger for this shift was Trump's ban on the sale of components to Chinese telecommunications firm ZTE in 2018.
+
+
+That was "really scary from a China perspective, so they began to prepare. It was the start of that sort of defensive thinking," added Ma.
+
+
+Soon after, Xi urged the nation to boost self-reliance in science and tech, pushing China to build-up crucial industries including AI and space.
+
+
+The result: Eight years ago, China had only four government procurement projects worth over $1.4 million, replacing foreign hardware and software with domestic alternatives. That number has exploded to 169 such projects this year, data show.
+
+
+Despite these strides, chipmakers "definitely feel the tightening — these Chinese companies couldn't supply to global clients and can't have access to the latest chips," said Ma.
+
+
+Nazak Nikakhtar, a Commerce Department official under Trump who knows his advisers, said she expected Trump to be "much more aggressive about export control policies towards China."
+
+
+She anticipated "a significant expansion of the entity list," that restricts exports to those on it to capture affiliates and business partners of listed companies.
+
+
+Ma, the ex-CIC executive, said the restrictions will have an impact for some time as the U.S. expands the sanctions regime to overseas suppliers.
+
+
+"I think the punchline is that the coming years are the most critical for this U.S.-China tech rivalry." 
+
+<br> 
+
+<https://www.voanews.com/a/ready-or-not-how-china-scrambled-to-counter-the-second-trump-shock-/7856403.html>
+
+---
+
+## In Israeli settlement named after Trump, residents see opportunity after the election
+
+date: 2024-11-08, from: VOA News USA
+
+RAMAT TRUMP, Golan Heights  — Israeli residents of "Trump Heights" are welcoming the election of their namesake, hoping Donald Trump's return to the U.S. presidency will breathe new life into this tiny, remote settlement in the central Golan Heights.
+
+
+During his first term, Trump became the first and only foreign leader to recognize Israel's control of the Golan, which it seized from Syria in the 1967 Mideast war. Israel thanked him by rebranding this outpost after him.
+
+
+But a large-scale influx of new residents never materialized after that 2019 ceremony, and just a couple dozen families live in Trump Heights, or "Ramat Trump" in Hebrew. Job opportunities are limited, and Israel's more-than-yearlong war against Hezbollah militants in nearby Lebanon has added to the sense of isolation.
+
+
+Trump's election has inspired hope in the community that it will attract more members and also more funding for security improvements.
+
+
+"Maybe it can raise more awareness and maybe some support to help here and help our kids here," said Yarden Freimann, Trump Heights' community manager.
+
+
+Ori Kallner, head of the Golan's regional council, showed off dozens of plots of land, replete with new asphalt roads, lampposts and utility lines, that residents have prepared for future housing developments.
+
+
+"President Trump's return to the White House definitely puts the town in the headlines," he said.
+
+
+Hanging on while war rages nearby
+
+
+Kallner stood next to a metal statue of an eagle and a menorah, symbolizing the United States and Israel, as Israeli warplanes flew overhead. Two explosions from rockets fired from Lebanon punched the hills nearby, and just across the border in Lebanon, plumes of smoke rose into the air from Israeli airstrikes.
+
+
+An enormous sign with the settlement's name in Hebrew and English gleamed in the sun, while two large sunbaked metal flags of Israel and the United States were faded almost beyond recognition.
+
+
+Surrounded by ashen ruins of villages fled by Syrians in the 1967 war, the town is perched above the Hula Valley, where Israel has amassed tanks, artillery and troops for its fight in Lebanon. Most towns in the valley have been evacuated. Trump Heights sends its kids to a makeshift daycare in a nearby settlement after the government shuttered all schools in the region in the wake of the October 1 invasion of Lebanon.
+
+
+
+
+"We find ourselves hanging by our fingernails to be in our own community, not be evacuated, and on the other hand, we cannot work, we cannot send our kids to any kind of an education system," said Freimann.
+
+
+Trump Heights is only about 12 kilometers from Lebanon and Syria. Alerts for incoming fire gives residents about 30 seconds' head start to get to a bomb shelter.
+
+
+Trump broke with other leaders on the Golan Heights
+
+
+Israel annexed the Golan, a strategic plateau overlooking northern Israel, in 1981 in a move that is not internationally recognized.
+
+
+That changed in March 2019 when Trump, without notice, tweeted that the U.S. would "fully recognize" Israel's control of the territory. His announcement drew widespread condemnation from the international community, which considers the Golan to be occupied Syrian territory and Israel's settlements to be illegal. The Biden administration left the decision intact, but the U.S. remains the lone country to recognize the Israeli annexation.
+
+
+Kallner said he hopes Trump will now persuade European countries to recognize Israeli sovereignty there.
+
+
+According to Israeli figures, the Golan is home to about 50,000 people — roughly half of them Jewish Israelis and the other half Arab Druze, many of whom still consider themselves Syrians under occupation.
+
+
+Israel has encouraged and promoted settlements in the Golan, and the Druze residents operate farms and a tourism and restaurant sector popular with Israelis. But the area has struggled to develop because of its remoteness, several hours from Israel's economic center in Tel Aviv.
+
+
+That economic hardship has only worsened during the war as the hospitality sector cratered. On July 28, a rocket killed 12 Druze children on a soccer field in the city of Majdal Shams, about 20 kilometers away. Israel invaded Lebanon months later.
+
+
+In June 2019, Prime Minister Benjamin Netanyahu led an inauguration ceremony for Trump Heights. The U.S. ambassador at the time, David Friedman, noted that the ceremony came days after Trump's birthday and said: "I can't think of a more appropriate and a more beautiful birthday present."
+
+
+As president, Trump was close with Netanyahu
+
+
+The Golan recognition was among a series of diplomatic gifts that Trump delivered to Israel during his first term. They included recognizing Jerusalem as Israel's capital and moving the American embassy to the contested city, and a series of diplomatic agreements with Arab countries known as the Abraham Accords.
+
+
+He has vowed to bring peace to the tumultuous region during his second term, but has not said how.
+
+
+Netanyahu enjoyed a close relationship with Trump during his first term but ran afoul of the former president when he congratulated Joe Biden on his 2020 victory. The Israeli prime minister announced Tuesday that he was one of the first foreign leaders to call the president-elect and congratulate him on his victory. An official in his office, speaking on condition of anonymity to discuss internal communications, said aides were upbeat and giddy.
+
+
+"Congratulations on history's greatest comeback!" the Israeli leader said in a statement. "Your historic return to the White House offers a new beginning for America and a powerful recommitment to the great alliance between Israel and America."
+
+
+At Trump Heights, Kallner was optimistic too: "The Golan community is strong and resilient, and people that want to come and live here are from the same material. I believe we will overcome these challenging times and won't stop growing." 
+
+<br> 
+
+<https://www.voanews.com/a/in-israeli-settlement-named-after-trump-residents-see-opportunity-after-the-election/7856308.html>
+
+---
+
+## US judge rules against Biden legalization program for immigrant spouses
+
+date: 2024-11-08, from: VOA News USA
+
+WASHINGTON — A U.S. judge in Texas on Thursday ruled against President Joe Biden's program offering a path to citizenship for certain immigrant spouses of U.S. citizens, a blow that could keep the program blocked through Biden's final months in office.
+
+
+U.S. District Judge J. Campbell Barker found the program exceeded Biden's executive authority. The program offers a path to citizenship to about 500,000 immigrants who entered the U.S. illegally if they are married to U.S. citizens.
+
+
+The initiative, known as Keeping Families Together, launched in August but was blocked days later by Barker, who left it frozen while he considered a legal challenge brought by Texas and a coalition of U.S. states with Republican attorneys general.
+
+
+Biden, a Democrat, announced the program in June before dropping out of the presidential race and paving the way for Vice President Kamala Harris to face Republican Donald Trump, an immigration hard-liner.
+
+
+Trump defeated Harris in Tuesday's election and is expected to launch a wide-ranging immigration crackdown that would likely include rolling back Biden's initiative for immigrant spouses, which the Trump campaign called a "mass amnesty" that would encourage illegal immigration.
+
+
+Americans see immigration as the most pressing issue for Trump to address when he takes office in January, and a large majority believe he will order mass deportations of people living in the U.S. illegally, a Reuters/Ipsos poll that closed on Thursday found.
+
+
+The Biden administration could appeal Thursday's court ruling. The White House did not immediately respond to a request for comment. 
+
+<br> 
+
+<https://www.voanews.com/a/us-judge-rules-against-biden-legalization-program-for-immigrant-spouses/7856229.html>
+
+---
+
+## Giuliani facing contempt charge in election workers case
+
+date: 2024-11-08, from: VOA News USA
+
+A federal judge on Thursday threatened to hold former New York City Mayor Rudy Giuliani in civil contempt if he failed to hand over his property to two former Georgia election workers who won a $148 million defamation judgment against him.
+
+
+The valuables include a $5 million Manhattan condominium, a 1980 Mercedes-Benz once owned by actress Lauren Bacall, a jersey signed by baseball legend Joe DiMaggio and some cash accounts.
+
+
+The women said that they received death threats and that their reputations were destroyed after Giuliani falsely accused them of ballot fraud during Donald Trump's 2020 presidential campaign.
+
+
+U.S. District Judge Lewis Liman had ordered Giuliani to surrender the property by October 29 to Ruby Freeman and her daughter Wandrea "Shaye" Moss. However, when representatives of the women went to the former mayor's apartment last week, they found that most of its contents, including art and sports memorabilia, had been cleared out four weeks earlier, and that some items had been placed in storage on Long Island.
+
+
+Liman warned Giuliani in court on Thursday that he expected the women to ask that the former mayor be held in contempt if he continued to refuse to relinquish his possessions.
+
+
+"He's not going to be in contempt if he's made efforts and it's impossible to comply with the order. But that's the standard that he's going to be held to," Liman said.
+
+
+Giuliani filed for bankruptcy after the multimillion-dollar judgment, but his case was dismissed when a federal judge found that Giuliani had not provided a clear depiction of his finances. The judge's dismissal opened the doors for Giuliani's creditors, including the election workers, to file against him.
+
+
+Aaron Nathan, a lawyer for the women, said in court Thursday that attempts to take possession of Giuliani's items have been met with "delay and then evasion" tactics. The lawyer said Giuliani was apparently moving around his assets and had opened new bank accounts.
+
+
+Giuliani said in court that he had been "treated rudely" by the people trying to take his assets.
+
+
+Giuliani's lawyers have unsuccessfully argued that their client should not be required to turn over his possessions while he appeals the judgment.
+
+
+"Every bit of property that they want is available if they are entitled to it," Giuliani told reporters Thursday. "Now, the law says they're not entitled to a lot of them. For example, they want my grandfather's watch, which is 150 years old. That's a bit of an heirloom. Usually, you don't get those unless you're involved in a political persecution. In fact, having me here today is like a political persecution."
+
+
+Giuliani, 80, who once enjoyed widespread popularity, has now been disbarred in New York and Washington. 
+
+<br> 
+
+<https://www.voanews.com/a/giuliani-facing-contempt-charge-in-election-workers-case-/7856219.html>
+
+---
+
+## Import rush
+
+date: 2024-11-07, from: Market Place
+
+<p>If President-elect Donald Trump gets his way, importers are about to pay a ton more in tariffs. Some businesses are scrambling to bring as much stuff as possible into the country before his inauguration — and that&#8217;s not exactly easy. Also in this episode: Streaming platforms gain more international subscribers, hybrid workers Lyft to the office and the Fed cuts its key interest rate.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/11/07/pm_20241107_PM_Podcast_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace/import-rush&awCollectionId=mkp-MKP-PM"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/11/07/pm_20241107_PM_Podcast_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace/import-rush&awCollectionId=mkp-MKP-PM" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace/import-rush>
+
+---
+
+## Your post-election thoughts and feelings
+
+date: 2024-11-07, from: Market Place, Make me Smart
+
+<p>Today we&#8217;re handing the microphone over to our listeners to tell us how they&#8217;re reacting to the outcome of this week&#8217;s presidential election. We&#8217;ll hear their concerns about the future of transgender health care, the long-term economic impact of a second Trump presidency and why — even though it can be daunting <em>—</em> we can all make change if we start in our local communities. Plus, is this our Brexit moment?</p>
+<p>Here&#8217;s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.marketplace.org/shows/make-me-smart/want-to-protect-our-democracy-start-here/" target="_blank" rel="noreferrer noopener">&#8220;Want to protect our democracy? Start here!&#8221;</a> from our episode with lawyer and author Emily Amick</li>
+<li><a href="https://19thnews.org/2024/10/trans-people-federal-programs-election/" target="_blank" rel="noreferrer noopener">&#8220;For trans people reliant on federal programs, this election could change everything&#8221;</a> from 19th News</li>
+<li><a href="https://www.vox.com/even-better/23351674/hold-elected-officials-lawmakers-accountable-political-engagement" target="_blank" rel="noreferrer noopener">&#8220;How to get your elected officials to listen to you&#8221;</a> from Vox</li>
+<li><a href="https://www.cbsnews.com/news/trump-election-impact-on-economy-taxes-inflation-your-money/" target="_blank" rel="noreferrer noopener">&#8220;5 ways Trump&#8217;s next presidency could affect the U.S. economy — and your money&#8221;</a> from CBS News</li>
+</ul>
+<p>Got a question for the hosts about the election, Trump&#8217;s next presidency and the U.S. economy? Email us at makemesmart@marketplace.org or leave us a voicemail at 508-U-B-SMART.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/11/07/mms_20241107_Make_Me_Smart_128.mp3?awEpisodeId=https://www.marketplace.org/shows/make-me-smart/your-post-election-thoughts-and-feelings&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/11/07/mms_20241107_Make_Me_Smart_128.mp3?awEpisodeId=https://www.marketplace.org/shows/make-me-smart/your-post-election-thoughts-and-feelings&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/your-post-election-thoughts-and-feelings>
+
+---
+
+## What does Trump's election victory mean for NATO, Europe?
+
+date: 2024-11-07, from: VOA News USA
+
+LONDON — America's allies in Europe are debating what Donald Trump's win in Tuesday's U.S. presidential election could mean for their security and prosperity amid concerns that the next four years may once again be characterized by a turbulent transatlantic alliance.
+
+
+European interests
+
+
+About 50 European leaders met in Budapest on Thursday for a summit of the European Political Community, which was set up in 2022 in the wake of Russia's invasion of Ukraine.
+
+
+French President Emmanuel Macron said Europe must stand up for itself as it prepares for the next Trump presidency in the United States.
+
+
+"There is a geopolitical situation where it is clear that we have two blocs: the United States of America on one side and China on the other, which above all seek their own interests," Macron told the other European leaders.
+
+
+"I think that our role here in the European Union is not to comment on the election of Donald Trump, to wonder if it is good or not. He was elected by the American people, and he is going to defend the interests of American people and that is legitimate and that is a good thing,” he said.
+
+
+"The question is, are we ready to defend the interests of Europeans? That is the only question that we should ask ourselves. And for me, I think that is our priority," he said.
+
+
+NATO
+
+
+The NATO alliance remains the bedrock of Europe's security.
+
+
+"The first implication for the alliance is how to continue support for Ukraine if there's an expected drawdown of military assistance from the U.S.," said Ed Arnold, senior research fellow for European security at Britain's Royal United Services Institute.
+
+
+
+
+"That can either be delivered through NATO — and there were some steps taken in this summer to sort of formalize those structures — but still significantly less than where it needs to be. It can also be done through the EU as well, which might increase slightly but probably not enough. Or it can be done bilaterally," Arnold told VOA.
+
+
+"I think actually the mechanisms are probably largely irrelevant. It's more about the cost to individual nations, and that's going to have to ramp up pretty quickly if they're going to be able to have that impact," he said.
+
+
+Shortfall
+
+
+Does Europe have the capacity to make up any shortfall from a U.S. withdrawal of support for Kyiv?
+
+
+"Yes, but it would take a lot more effort than Europe is making now," according to analyst Ian Bond of the Center for European Reform. "And I think there will be some, perhaps in Germany, perhaps elsewhere, who will say the Ukrainians are just going to have to put up with losing some of their territory.
+
+
+"I think for the Baltic states, for the Nordic states, Poland — they will look at this and they will say, 'Russia is going to be an existential threat to us if it is allowed to control Ukraine. And therefore we must step up our efforts,'" Bond said.
+
+
+On the campaign trail, Trump said he would end the Russia-Ukraine war on day one, although he didn't elaborate on how that would be achieved. In the past he has boasted of a good relationship with Russian President Vladimir Putin.
+
+
+ 
+
+
+
+
+Peace deal?
+
+
+Ukraine fears being forced into an unfavorable peace deal — and Europeans might change their calculations, said analyst Arnold of RUSI.
+
+
+"There might be a bit of a worry where there's some within Europe who say, "Why would we ramp up aid now if there's going to be a negotiated settlement fairly soon? And I think the real risk for Europe as a whole — the EU but also NATO — is that actually the U.S. and Russia might start to do these negotiations without them," Arnold said.
+
+
+
+
+Leverage
+
+
+There are deeper concerns that the U.S. might withdraw wider support for European security. Former government officials say Trump considered pulling the U.S. out of NATO altogether in his first term.
+
+
+"One of the very few consistent beliefs that Trump has held to since he entered politics has been the idea that the United States is being taken advantage of by its allies," said Jonathan Monten, a U.S. foreign policy analyst at University College London.
+
+
+"At times, Trump threatened to withdraw from the alliance altogether but was ultimately held back. So the million-dollar question … is whether or not he will actually act on that threat," Monten told VOA.
+
+
+"I think he likes the idea that he's keeping foreign allies as well as adversaries guessing as to his ultimate intentions. I think he sees that as a source of leverage, as a source of power," he said.
+
+
+NATO's secretary general, Mark Rutte, who took over the role October 1, has struck a more upbeat tone, praising Trump for getting allies to spend more on defense.
+
+
+"When he was president, he was the one in NATO who stimulated us to move over the 2% [of GDP spending target]," Rutte told reporters in Budapest on Thursday.
+
+
+Tariffs
+
+
+It's not only security fears that are haunting European capitals. America's allies could also face economic turbulence when Trump enters the White House.
+
+
+"The [Trump] claims of putting about 60% or more tariffs on all imports from China will have to have a major disruptive impact on world trade, and there will be repercussions on the EU, on Europe, on the U.K. and elsewhere. We can expect also tariffs on imports from the EU as well," said Garret Martin, co-director of the Transatlantic Policy Center at American University in Washington.
+
+
+"One element that I think is going to be absolutely critical for Europe, for the EU, is to work on protecting its unity and its unanimity. Trump, I think, is likely to try to adopt a divide and rule approach," Martin said.
+
+
+Unpredictability
+
+
+Trump's unpredictability means there is little Europe’s leaders can do to prepare, said Monten.
+
+
+"They can try flattery,” he said. “They can try to offer him deals that benefit him personally, but it's unclear what exactly they would have to offer. They can offer him the kind of stature or respect that comes along with a big grand summit or trade deal. He seems to crave that kind of respect.
+
+
+"But when it comes to actual tangible concrete results, it is unclear what levers they have either to threaten him with or to cajole him with," Monten told VOA. 
+
+<br> 
+
+<https://www.voanews.com/a/what-does-trump-s-election-victory-mean-for-nato-europe/7855683.html>
+
+---
+
+## What does Trump’s election victory mean for NATO, Europe?
+
+date: 2024-11-07, from: VOA News USA
+
+Allies in Europe are debating what Donald Trump’s win in the U.S. presidential election could mean for their security and economy. Trump’s first term in office was characterized by often turbulent relations with EU and NATO partners. As Henry Ridgwell reports, Russia’s invasion of Ukraine has amplified Europe’s concerns over the transatlantic alliance. 
+
+<br> 
+
+<https://www.voanews.com/a/what-does-trump-s-election-victory-mean-for-nato-europe-/7855742.html>
+
+---
+
+## Southern California wildfire destroys 132 structures
+
+date: 2024-11-07, from: VOA News USA
+
+CAMARILLO, California  — A Southern California wildfire has destroyed 132 structures in less than two days, fire officials said Thursday. 
+
+
+The fire started Wednesday morning in Ventura County and has grown to nearly 80 square kilometers. 
+
+
+About 10,000 people remained under evacuation orders Thursday as the Mountain Fire continued to threaten about 3,500 structures in suburban neighborhoods, ranches and agricultural areas around Camarillo in Ventura County. 
+
+
+The fire's cause has not been determined. 
+
+
+County fire officials said crews working in steep terrain with support from water-dropping helicopters were focusing on protecting homes on hillsides along the fire's northeast edge near the city of Santa Paula, home to more than 30,000 people. 
+
+
+Kelly Barton watched as firefighters sifted through the charred rubble of her parents' ranch home of 20 years in the hills of Camarillo with a view of the Pacific Ocean. 
+
+
+"This was their forever retirement home," Barton said Thursday. "Now in their 70s, they have to start over." 
+
+
+Her father returned to the house an hour after evacuating Wednesday to find it destroyed. He was able to move four of their vintage cars to safety but two — including a Chevy Nova he'd had since he was 18 — burned to "toast," Barton said. 
+
+
+The National Weather Service said a red flag warning, which indicates conditions for high fire danger, would remain in effect until 6 p.m. Winds were expected to decrease significantly but humidity levels will remain critically low, forecasters said. 
+
+
+Officials in several Southern California counties urged residents to watch for fast-spreading blazes, power outages and downed trees during the latest round of notorious Santa Ana winds. 
+
+
+Santa Anas are dry, warm and gusty northeast winds that blow from the interior of Southern California toward the coast and offshore, moving in the opposite direction of the normal onshore flow that carries moist air from the Pacific. They typically occur during the fall months and continue through winter and into early spring. 
+
+
+The Mountain Fire was burning in a region that has seen some of California's most destructive fires over the years. The fire swiftly grew from about 1.2 square kilometers to more than 41 square kilometers in little more than five hours on Wednesday. By Thursday afternoon it was mapped at nearly 80 square kilometers and Governor Gavin Newsom had proclaimed a state of emergency in the county. 
+
+
+Across the country in New Jersey, firefighters were battling blazes in the parched New Jersey Pinelands on Thursday, where they say conditions are the driest they have been in at least 120 years. 
+
+
+A forest fire in the Philadelphia suburb of Evesham forced the evacuation of a dozen homes on Thursday and was threatening dozens of other residences. The blaze was discovered Thursday morning and had burned completely uncontained across less than 2 square kilometers by early afternoon, the New Jersey Forest Fire Service said. 
+
+
+Crews were battling another forest fire Thursday about an hour away in Jackson Township that was discovered a day earlier. 
+
+
+And late Thursday afternoon, a third, smaller blaze broke out in Glassboro, another Philadelphia suburb. Few details were immediately available on that fire. 
+
+
+No injuries or property damage have been reported in any of the fires. 
+
+<br> 
+
+<https://www.voanews.com/a/wildfire-northwest-of-los-angeles-burns-out-of-control/7855757.html>
+
+---
+
+## US Federal Reserve cuts key interest rate by quarter-point
+
+date: 2024-11-07, from: VOA News USA
+
+washington  — The Federal Reserve cut its key interest rate on Thursday by a quarter-point in response to the steady decline in the once-high inflation that had angered Americans and helped drive Donald Trump's presidential election victory this week.
+
+
+The rate cut follows a larger half-point reduction in September, and it reflects the Fed's renewed focus on supporting the job market as well as fighting inflation, which now barely exceeds the central bank's 2% target.
+
+
+Thursday's move reduces the Fed's benchmark rate to about 4.6%, down from a four-decade high of 5.3% before September's meeting. The Fed had kept its rate that high for more than a year to fight the worst inflation streak in four decades. Annual inflation has since fallen from a 9.1% peak in mid-2022 to a 3½-year low of 2.4% in September.
+
+
+In a statement after its latest meeting ended, the Fed said the "unemployment rate has moved up but remains low," while inflation has fallen closer to the central bank's target but "remains somewhat elevated."
+
+
+After their rate cut in September — their first such move in more than four years — the Fed's policymakers had projected that they would make further quarter-point cuts in November and December and four more next year.
+
+
+But with the economy now mostly solid and Wall Street anticipating faster growth, larger budget deficits and higher inflation under a Trump presidency, further rate cuts may have become less likely.
+
+
+The economy is clouding the picture by flashing conflicting signals, with growth solid but hiring weakening. Consumer spending, though, has been healthy, fueling concerns that there is no need for the Fed to reduce borrowing costs and that doing so might overstimulate the economy and even re-accelerate inflation.
+
+
+Financial markets are throwing yet another curve at the Fed: Investors have sharply pushed up Treasury yields since the central bank cut rates in September. The result has been higher borrowing costs throughout the economy, thereby diminishing the benefit to consumers of the Fed's half-point cut in its benchmark rate, which it announced after its September meeting.
+
+
+Broader interest rates have risen because investors are anticipating higher inflation, larger federal budget deficits, and faster economic growth under a President Trump. Trump's plan to impose at least a 10% tariff on all imports, as well as significantly higher taxes on Chinese goods, and to carry out a mass deportation of undocumented immigrants would almost certainly boost inflation. This would make it less likely that the Fed would continue cutting its key rate. Annual inflation as measured by the central bank's preferred gauge fell to 2.1% in September.
+
+
+Economists at Goldman Sachs estimate that Trump's proposed 10% tariff, as well as his proposed taxes on Chinese imports and autos from Mexico, could send inflation back up to about 2.75% to 3% by mid-2026.
+
+
+Rate cuts by the Fed typically lead to lower borrowing costs for consumers and businesses over time. Yet this time, mortgage rates fell in anticipation of rate cuts but have since bounced back up as the economy has grown briskly, fueled by consumer spending. High borrowing costs not only for mortgages but also for car loans and other major purchases, even as the Fed is reducing its benchmark rate, has set up a potential challenge for the central bank: Its effort to support the economy by lowering borrowing costs may not bear fruit if investors are acting to boost longer-term borrowing rates.
+
+
+The economy grew at a solid annual rate just below 3% over the past six months, while consumer spending — fueled by higher-income shoppers — rose strongly in the July-September quarter.
+
+
+But companies have scaled back hiring, with many people who are out of work struggling to find jobs. Powell has suggested that the Fed is reducing its key rate in part to bolster the job market. If economic growth continues at a healthy clip and inflation climbs again, though, the central bank will come under growing pressure to slow or stop its rate cuts. 
+
+<br> 
+
+<https://www.voanews.com/a/us-federal-reserve-cuts-key-interest-rate-by-quarter-point/7855635.html>
+
+---
+
+## US health officials call for expanded bird flu testing for farm workers
+
+date: 2024-11-07, from: VOA News USA
+
+Federal health officials on Thursday called for more testing of employees on farms with bird flu after a new study showed that some dairy workers had signs of infection, even when they didn't report feeling sick. 
+
+
+Farmworkers in close contact with infected animals should be tested and offered treatment even if they show no symptoms, said Dr. Nirav Shah, principal director of the U.S. Centers for Disease Control and Prevention. 
+
+
+The new guidance comes after blood tests for 115 farmworkers in Michigan and Colorado showed that eight workers — or 7% — had antibodies that indicated previous infection with the virus known as Type A H5N1 influenza. 
+
+
+"The purpose of these actions is to keep workers safe, to limit the transmission of H5 to humans and to reduce the possibility of the virus changing," Shah told reporters. 
+
+
+The CDC study provides the largest window to date into how the bird virus first detected in March in dairy cows may be spreading to people. It suggests that the virus has infected more humans than the 46 farmworkers identified in the U.S. as of Thursday. Nearly all were in contact with infected dairy cows or infected poultry. 
+
+
+Outside experts said it's notable that the study prompted the CDC to take new action. Previous recommendations called for testing and treating workers only when they had symptoms. 
+
+
+"This is a significant move towards the assessment that these H5N1 viruses are a greater risk than the CDC estimated before," said Dr. Gregory Gray, an infectious disease researcher at the University of Texas Medical Branch in Galveston. 
+
+
+Every additional infection in animals or humans gives the virus the chance to change in potentially dangerous ways, said Angela Rasmussen, a virus expert at the University of Saskatchewan in Canada. 
+
+
+"It shows yet again that we are not responding effectively to the H5N1 cattle outbreak in humans or animals and if we continue to let this virus spread and jump from species to species, our luck will eventually run out," Rasmussen said in an email. 
+
+
+The CDC study included 45 workers in Michigan and 70 in Colorado tested between June and August. Of the eight workers with positive blood tests, four reported no symptoms. All eight cleaned milking parlors and none used respiratory protection such as face masks. Three said they used eye protection. 
+
+
+High levels of the virus have been found in the milk of infected cows, increasing the risk of exposure and infection, researchers said. 
+
+
+Researchers said that efforts to monitor dairy workers for illness have been hindered by several barriers including the reluctance of farm owners and farmworkers to allow testing. 
+
+
+The virus has been confirmed in at least 446 cattle herds in 15 states. Last week, the Agriculture Department said a pig at an Oregon farm was confirmed to have bird flu, the first time the virus was detected in U.S. swine. 
+
+<br> 
+
+<https://www.voanews.com/a/us-health-regulator-calls-for-expanded-bird-flu-testing-for-farm-workers/7855601.html>
+
+---
+
+## Turkish leader sees opportunity in Trump’s election
+
+date: 2024-11-07, from: VOA News USA
+
+Turkish President Recep Tayyip Erdogan is sometimes at odds with Western leaders but has made no secret of what he says were his warm dealings with President-elect Donald Trump during the U.S. leader’s first term. Observers say he is now looking to those warm ties as an opportunity to end regional conflicts, but also to ask for greater U.S. cooperation against Kurdish separatists, as Dorian Jones reports from Istanbul. 
+
+<br> 
+
+<https://www.voanews.com/a/turkish-leader-sees-opportunity-in-trump-s-election/7855588.html>
+
+---
+
+## Elon Musk’s Plan to Make Tesla the Last EV-Maker Standing
 
 date: 2024-11-07, from: Heatmap News
 
 
-<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDI4OTYxMy9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc0NDI0Mjg5NH0.9Y_Aaq8UUHAbZJQEtSZikDwzqMILwcQxOmgZ8UaRd-8/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">When Republicans flipped the Senate, they took the keys to three critical energy and climate-focused committees.</p>
-<p>These are among the most powerful institutions for crafting climate policy on Earth. The Senate plays the role of gatekeeper for important legislation, as it requires a supermajority to overcome the filibuster. Hence, it’s both where many promising climate bills from the House go to die, as well as where key administrators such as the heads of the Department of Energy and the Environmental Protection Agency are vetted and confirmed. </p>
-<p>We’ll have to wait a bit for the Senate’s new committee chairs to be officially confirmed. But Jeff Navin, co-founder at the climate change-focused government affairs firm Boundary Stone Partners, told me that since selections are usually based on seniority, in many cases it’s already clear which Republicans are poised to lead under Trump and which Democrats will assume second-in-command (known as the ranking member). Here’s what we know so far.</p><p><strong>1. Senate Committee on Energy and Natural Resources</strong></p>
-<p>This committee has been famously led by Joe Manchin, the former Democrat, now Independent senator from West Virginia, who will retire at the end of this legislative session. Energy and Natural Resources has a history of bipartisan collaboration and was integral in developing many of the key provisions in the Inflation Reduction Act —- and could thus play a key role in dismantling them. Overall, the committee oversees the DOE, the Department of the Interior, the U.S. Forest Service, and the Federal Energy Regulatory Commission, so it’s no small deal that its next chairman will likely be Mike Lee, the ultra-conservative Republican from Utah. That’s assuming that the committee's current ranking member, John Barrasso of Wyoming, wins his bid for Republican Senate whip, which seems very likely. </p>
-<p>Lee opposes federal ownership of public lands, setting himself up to butt heads with Martin Heinrich, the Democrat from New Mexico and likely the committee’s next ranking member. Lee has also said that solving climate change is simply a <a href="https://www.cnn.com/2019/03/26/politics/mike-lee-green-new-deal/index.html" rel="noopener noreferrer" target="_blank"><u>matter of having more babies</u></a>, as “problems of human imagination are not solved by more laws, they’re solved by more humans.” As Navin told me, “We've had this kind of safe space where so-called quiet climate policy could get done in the margins. And it’s not clear that that's going to continue to exist with the new leadership.”</p>
-<p><strong>2. Senate Environment and Public Works Committee</strong></p>
-<p>This committee is currently chaired by Democrat Tom Carper of Delaware, who is retiring after this term. Poised to take over is the Republican’s current ranking member, Shelley Moore Capito of West Virginia. She’s been <a href="https://www.capito.senate.gov/news/press-releases/capito-to-lead-effort-overturning-bidens-illegal-attempt-to-close-american-power-plants" target="_blank"><u>a strong advocate</u></a> for continued reliance on coal and natural gas power plants, while also carving out areas of bipartisan consensus on issues such as <a href="https://www.whitehouse.senate.gov/news/release/carper-capito-whitehouse-applaud-senate-passage-of-nuclear-energy-bill-the-advance-act/" target="_blank"><u>nuclear energy</u></a>, <a href="https://www.epw.senate.gov/public/index.cfm/2023/6/capito-sinema-murkowski-whitehouse-introduce-bipartisan-carbon-capture-legislation" target="_blank"><u>carbon capture</u></a>, and <a href="https://www.capito.senate.gov/news/press-releases/capito-attends-white-house-bill-signing-of-infrastructure-investment-and-jobs-act" target="_blank"><u>infrastructure projects</u></a> during her tenure on the committee. The job of the Environment and Public Works committee is in the name: It oversees the EPA<strong>, </strong>writes key pieces of environmental legislation such as the Clean Air Act and Clean Water Act, and supervises public infrastructure projects such as highways, bridges, and dams.</p>
-<p>Navin told me that many believe the new Democratic ranking member will be Sheldon Whitehouse of Rhode Island, although to do so, he would have to step down from his perch at the Senate Budget Committee, where he is currently chair. A <a href="https://www.nytimes.com/2023/03/07/climate/sheldon-whitehouse-climate-senator.html" rel="noopener noreferrer" target="_blank"><u>tireless advocate</u></a> of the climate cause, Whitehouse has worked on the Environment and Public Works committee for over 15 years, and lately seems to have had a relatively productive working relationship with Capito. </p>
-<p><strong>3. Senate Appropriations Subcommittee on Energy and Water Development</strong></p>
-<p>This subcommittee falls under the broader Senate Appropriations Committee and is responsible for allocating funding for the DOE, various water development projects, and various other agencies such as the Nuclear Regulatory Commission. </p>
-<p>California’s Dianne Feinstein used to chair this subcommittee until her death last year, when Democrat Patty Murray of Washington took over. Navin told me that the subcommittee’s next leader will depend on how the game of “musical chairs” in the larger Appropriations Committee shakes out. Depending on their subcommittee preferences, the chair could end up being John Kennedy of Louisiana, outgoing Senate Minority Leader Mitch McConnell of Kentucky, or Lisa Murkowski of Alaska. It’s likewise hard to say who the top Democrat will be.</p> 
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDI4NTM5My9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2NTI3OTc4Nn0.GfH-rPtfZr-T3mf0YlU0Gd6D-rdreC2WQpfnmm8vR18/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">It was a curious alliance from the start. On the one hand, Donald Trump, who made antipathy toward electric vehicles a core part of his meandering rants. On the other hand, Elon Musk, the man behind the world’s largest EV company, who nonetheless put all his weight, his millions of dollars, and the power of his social network behind the Trump campaign.</p><p>With Musk standing by his side on Election Day, Trump has once again secured the presidency. His reascendance sent shock waves through the automotive world, where companies that had been lurching toward electrification with varying levels of enthusiasm were left to wonder what happens now — and what benefits Tesla may reap from having hitched itself to the winning horse.</p><p>Certainly the federal government’s stated target of 50% of U.S. new car sales being electric by 2030 is toast, and many of the actions it took in pursuit of that goal are endangered. Although Trump has <a href="https://heatmap.news/sparks/trump-ev-pivot-elon-musk" target="_blank">softened</a> his rhetoric against EVs since becoming buddies with Musk, it’s hard to imagine a Trump administration with <em><em>any</em></em> kind of ambitious electrification goal.</p><p>During his first go-round as president, Trump attacked the state of California’s ability to set its own ambitious climate-focused rules for cars. No surprise there: Because of the size of the California car market, its regulations helped to drag the entire industry toward lower-emitting vehicles and, almost inevitably, EVs. If Trump changes course and <em><em>doesn’t</em></em> do the same thing this time, it’ll be because his new friend at Tesla <a href="https://www.politico.com/news/2024/10/30/musks-tesla-california-ev-trump-00186320" rel="noopener noreferrer" target="_blank"><u>supports</u></a> those rules.</p><p>The biggest question hanging over electric vehicles, however, is the fate of the Biden administration’s signature achievements in climate and EV policy, particularly the Inflation Reduction Act’s $7,500 federal consumer tax credit for electric vehicles. A Trump administration looks poised to tear down whatever it can of its predecessor’s policy. Some analysts <a href="https://www.cnbc.com/2024/11/06/trump-reelection-what-it-means-for-evs.html" rel="noopener noreferrer" target="_blank"><u>predict</u></a> it’s unlikely the entire IRA will disappear, but concede Trump would try to kill off the incentives for electric vehicles however he can.</p><p>There’s no sugar-coating it: Without the federal incentives, the state of EVs looks somewhat bleak. Knocking $7,500 off the starting price is essential to negate the cost of manufacturing expensive lithium-ion batteries and making EVs cost-competitive with ordinary combustion cars. Consider a crucial model like the new Chevy Equinox EV: Counting the federal incentive, the most basic $35,000 model could come in under the starting price of a gasoline crossover like the Toyota RAV4. Without that benefit, buyers who want to go electric will have to pay a premium to do so — the thing that’s been holding back mass electrification all along.</p><p>Musk, during his honeymoon with Trump, <a href="https://www.cnn.com/2024/11/06/business/elon-musk-election-bet/index.html" rel="noopener noreferrer" target="_blank"><u>boasted</u></a> that Tesla doesn’t need the tax credits, as if daring the president-elect to kill off the incentives. On the one hand, this is obviously false. Visit Tesla’s <a href="https://www.tesla.com/model3/design#overview" rel="noopener noreferrer" target="_blank"><u>website</u></a> and you’ll see the simplest Model 3 listed for $29,990, but this is a mirage. Take away the $7,500 in incentives and $5,000 in claimed savings versus buying gasoline, and the car actually starts at about $43,000, much further out of reach for non-wealthy buyers.</p><p>What Musk really means is that his company doesn’t need the incentives<em><em> nearly as bad as other automakers do</em></em>. Ford is hemorrhaging billions of dollars as it struggles to make EVs profitably. GM’s big plan to go entirely electric depended heavily on federal support. As <em><em>InsideEVs</em></em> <a href="https://insideevs.com/news/740030/evs-trump-election-cm/" rel="noopener noreferrer" target="_blank"><u>notes</u></a>, the likely outcome of a Trump offensive against EVs is that the legacy car brands, faced with an unpredictable electrification roadmap as America oscillates between presidents, scale back their plans and lean back into the easy profitably of big, gas-guzzling SUVs and trucks. Such an about-face could hand Tesla the kind of EV market dominance it enjoyed four or five years ago when it sold around 75% of all electric vehicles in America.</p><p>That’s tough news for the climate-conscious Americans who want an electric vehicle built by someone not named Elon Musk. Hundreds of thousands of people, myself included, bought a Tesla during the past five or six years because it was the most practical EV for their lifestyle, only to see the company’s figurehead shift his public persona from goofy troll to Trump acolyte. It’s not uncommon now, as <a href="https://finance.yahoo.com/news/few-democrats-willing-to-buy-a-tesla-after-elon-musk-backs-trump-investor-warns-170050119.html" rel="noopener noreferrer" target="_blank"><u>Democrats distance themselves from Tesla</u></a>, to see Model 3s adorned with bumper stickers like the “Anti-Elon Tesla Club,” as one on a car I followed last month proclaimed. Musk’s newest vehicle, the Cybertruck, is a rolling embodiment of the man’s brand, a vehicle purpose-built to repel anyone not part of his cult of personality.</p><p>In a world where this version of Tesla retakes control of the electric car market, it becomes harder to ditch gasoline without indirectly supporting Donald Trump, by either buying a Tesla or topping off at its Superchargers. Blue voters will have some options outside of Tesla — the industry has come too far to simply evaporate because of one election. But it’s also easy to see dispirited progressives throwing up their hands and buying another <a href="https://heatmap.news/electric-vehicles/subaru-rivian-r3-suv" target="_self"><u>carbon-spewing Subaru</u></a>.</p> 
+
+<br> 
+
+<https://heatmap.news/electric-vehicles/musk-trump-tesla-tax-credits>
+
+---
+
+## Donald Trump's transition starts now. Here's how it will work
+
+date: 2024-11-07, from: VOA News USA
+
+Washington — Donald Trump 's impending return to the White House means he'll want to stand up an entirely new administration from the one that served under President Joe Biden. His team is also pledging that the second won't look much like the first one Trump established after his 2016 victory.
+
+
+The president-elect now has a 75-day transition period to build out his team before Inauguration Day arrives on Jan. 20. One top item on the to-do list: filling around 4,000 government positions with political appointees, people who are specifically tapped for their jobs by Trump's team.
+
+
+That includes everyone from the secretary of state and other heads of Cabinet departments to those selected to serve part time on boards and commissions. Around 1,200 of those presidential appointments require Senate confirmation, which should be easier with the Senate now shifting to Republican control.
+
+
+Here's what to expect:
+
+
+What will the transition look like?
+
+
+Though the turnover in the new administration will be total, Trump will be familiar with what he needs to accomplish. He built an entirely new administration for his first term and has definite ideas on what to do differently this time.
+
+
+He's already floated some names.
+
+
+Trump said at his victory party early Wednesday that former presidential hopeful and anti-vaccination activist Robert Kennedy Jr. will be tapped to "help make America healthy again," adding that "we're going to let him go to it." Ahead of the election, Trump didn't reject Kennedy's calls to end fluoridated water. Trump has also pledged to make South African-born Elon Musk, a vocal supporter of the Trump campaign, a secretary of federal "cost-cutting," and the Tesla CEO has suggested he can find trillions of dollars in government spending to wipe out.
+
+
+The transition is not just about filling jobs. Most presidents-elect also receive daily or near-daily intelligence briefings during the transition.
+
+
+In 2008, outgoing President George W. Bush personally briefed President-elect Barack Obama on U.S. covert operations. When Trump was preparing to take office in 2016, Obama's national security adviser, Susan Rice, briefed Michael Flynn, her designated successor in the new administration. In 2020, Trump's legal challenges of the election's results delayed the start of the transition process for weeks, though, and presidential briefings with Biden didn't begin until Nov. 30.
+
+
+Who is helping Trump through the process?
+
+
+Trump's transition is being led primarily by friends and family, including Kennedy Jr. and former Democratic presidential candidate Tulsi Gabbard, as well as the president-elect's adult sons, Donald Trump Jr. and Eric Trump, and his running mate, JD Vance. Transition co-chairs are Cantor Fitzgerald CEO Howard Lutnick and Linda McMahon, the former wrestling executive who previously led the Small Business Administration during Trump's first term.
+
+
+Lutnick said this year's operation is "about as different as possible" from the 2016 effort, which was first led by Chris Christie. After he won eight years ago, Trump fired Christie, tossed out plans the former New Jersey governor had made and gave the job of running the transition to then-Vice President-elect Mike Pence.
+
+
+At the start of his first term, Trump assembled an original Cabinet that featured some more mainstream Republicans and business leaders who ultimately disappointed, or broke publicly with him, or both. This time, Trump has promised to value loyalty as much as possible — a philosophy that may ensure he makes picks that are more closely aligned to his ideological beliefs and bombastic professional style.
+
+
+Unlike the campaign of Democratic Vice President Kamala Harris, Trump's team didn't sign any pre-Election Day transition agreements with the General Services Administration, which essentially acts as the federal government's landlord. He has therefore already missed deadlines to agree with GSA on logistical matters like office space and tech support and with the White House on access to agencies, including documents, employees and facilities.
+
+
+New transition rules
+
+
+In 2020, Trump argued that widespread voter fraud — which hadn't actually occurred — cost him the election, delaying the start of the transition from his outgoing administration to Biden's incoming one for weeks.
+
+
+Four years ago, the Trump-appointed head of the GSA, Emily Murphy, determined that she had no legal standing to determine a winner in the presidential race because Trump was still challenging the results in court. That held up funding and cooperation for the transition.
+
+
+It wasn't until Trump's efforts to subvert election results had collapsed across key states that Murphy agreed to formally " ascertain a president-elect " and begin the transition process. Trump eventually posted on social media that his administration would cooperate.
+
+
+To prevent that kind of holdup in future transitions, the Presidential Transition Improvement Act of 2022 mandates that the transition process begin five days after the election — even if the winner is still in dispute. That is designed to avoid long delays and means that "an 'affirmative ascertainment' by the GSA is no longer a prerequisite for gaining transition support services," according to agency guidelines on the new rules.
+
+
+The uncertainty stretched even longer after the 2000 election, when five weeks elapsed before the Supreme Court settled the contested election between Republican George W. Bush and Democrat Al Gore. That left Bush with about half the usual amount of time to manage transitioning the government from the outgoing Clinton administration. That ultimately led to questions about national security gaps that may have contributed to the U.S. being underprepared for the Sept. 11 attacks the following year. 
+
+<br> 
+
+<https://www.voanews.com/a/donald-trump-s-transition-starts-now-here-s-how-it-will-work/7855323.html>
+
+---
+
+## The Senate Energy and Climate Committees Poised for Big Shake-Ups
+
+date: 2024-11-07, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDI5MDQxNy9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc0ODY1Mjc3MH0.Vrm90l791K9biavW4ytWzYu-ODIp7JTpYuRQpq-gLPM/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">When Republicans flipped the Senate, they took the keys to three critical energy and climate-focused committees.</p><p>These are among the most powerful institutions for crafting climate policy on Earth. The Senate plays the role of gatekeeper for important legislation, as it requires a supermajority to overcome the filibuster. Hence, it’s both where many promising climate bills from the House go to die, as well as where key administrators such as the heads of the Department of Energy and the Environmental Protection Agency are vetted and confirmed. </p><p>We’ll have to wait a bit for the Senate’s new committee chairs to be officially confirmed. But Jeff Navin, co-founder at the climate change-focused government affairs firm Boundary Stone Partners, told me that since selections are usually based on seniority, in many cases it’s already clear which Republicans are poised to lead under Trump and which Democrats will assume second-in-command (known as the ranking member). Here’s what we know so far.</p><h3>1. Senate Committee on Energy and Natural Resources</h3><p>This committee has been famously led by Joe Manchin, the former Democrat, now Independent senator from West Virginia, who will retire at the end of this legislative session. Energy and Natural Resources has a history of bipartisan collaboration and was integral in developing many of the key provisions in the Inflation Reduction Act — and could thus play a key role in dismantling them. Overall, the committee oversees the DOE, the Department of the Interior, the U.S. Forest Service, and the Federal Energy Regulatory Commission, so it’s no small deal that its next chairman will likely be <strong>Mike Lee</strong>, the ultra-conservative Republican from Utah. That’s assuming that the committee's current ranking member, <strong>John Barrasso</strong> of Wyoming, wins his bid for Republican Senate whip, which seems very likely. </p><p>Lee opposes federal ownership of public lands, setting himself up to butt heads with <strong>Martin Heinrich</strong>, the Democrat from New Mexico and likely the committee’s next ranking member. Lee has also said that solving climate change is simply a <a href="https://www.cnn.com/2019/03/26/politics/mike-lee-green-new-deal/index.html" rel="noopener noreferrer" target="_blank"><u>matter of having more babies</u></a>, as “problems of human imagination are not solved by more laws, they’re solved by more humans.” As Navin told me, “We've had this kind of safe space where so-called quiet climate policy could get done in the margins. And it’s not clear that that's going to continue to exist with the new leadership.”</p><h3>2. Senate Environment and Public Works Committee</h3><p>This committee is currently chaired by Democrat Tom Carper of Delaware, who is retiring after this term. Poised to take over is the Republican’s current ranking member, <strong>Shelley Moore Capito</strong> of West Virginia. She’s been <a href="https://www.capito.senate.gov/news/press-releases/capito-to-lead-effort-overturning-bidens-illegal-attempt-to-close-american-power-plants" target="_blank"><u>a strong advocate</u></a> for continued reliance on coal and natural gas power plants, while also carving out areas of bipartisan consensus on issues such as <a href="https://www.whitehouse.senate.gov/news/release/carper-capito-whitehouse-applaud-senate-passage-of-nuclear-energy-bill-the-advance-act/" target="_blank"><u>nuclear energy</u></a>, <a href="https://www.epw.senate.gov/public/index.cfm/2023/6/capito-sinema-murkowski-whitehouse-introduce-bipartisan-carbon-capture-legislation" target="_blank"><u>carbon capture</u></a>, and <a href="https://www.capito.senate.gov/news/press-releases/capito-attends-white-house-bill-signing-of-infrastructure-investment-and-jobs-act" target="_blank"><u>infrastructure projects</u></a> during her tenure on the committee. The job of the Environment and Public Works committee is in the name: It oversees the EPA<strong>, </strong>writes key pieces of environmental legislation such as the Clean Air Act and Clean Water Act, and supervises public infrastructure projects such as highways, bridges, and dams.</p><p>Navin told me that many believe the new Democratic ranking member will be <strong>Sheldon Whitehouse</strong> of Rhode Island, although to do so, he would have to step down from his perch at the Senate Budget Committee, where he is currently chair. A <a href="https://www.nytimes.com/2023/03/07/climate/sheldon-whitehouse-climate-senator.html" rel="noopener noreferrer" target="_blank"><u>tireless advocate</u></a> of the climate cause, Whitehouse has worked on the Environment and Public Works committee for over 15 years, and lately seems to have had a relatively productive working relationship with Capito. </p><h3>3. Senate Appropriations Subcommittee on Energy and Water Development</h3><p>This subcommittee falls under the broader Senate Appropriations Committee and is responsible for allocating funding for the DOE, various water development projects, and various other agencies such as the Nuclear Regulatory Commission. </p><p>California’s Dianne Feinstein used to chair this subcommittee until her death last year, when Democrat Patty Murray of Washington took over. Navin told me that the subcommittee’s next leader will depend on how the game of “musical chairs” in the larger Appropriations Committee shakes out. Depending on their subcommittee preferences, the chair could end up being <strong>John Kennedy</strong> of Louisiana, outgoing Senate Minority Leader <strong>Mitch McConnell</strong> of Kentucky, or <strong>Lisa Murkowski</strong> of Alaska. It’s likewise hard to say who the top Democrat will be.</p> 
 
 <br> 
 
@@ -47,56 +896,79 @@ date: 2024-11-07, from: Marketplace Morning Report
 
 ---
 
-## Trump moving quickly to consider key appointments
+## Biden calls Trump victory 'fair' and 'transparent'
 
 date: 2024-11-07, from: VOA News USA
 
-U.S. President-elect Donald Trump is moving quickly to consider appointments to key positions in his new White House administration and could name some choices within days.
+U.S. President Joe Biden, long a political adversary of President-elect Donald Trump, declared Thursday that Trump’s election this week to a second nonconsecutive four-year term in the White House was “fair” and “transparent,” and that there would be a peaceful transfer of power on January 20.
 
 
-Trump, fresh off his decisive victory over Vice President Kamala Harris in Tuesday's presidential election, has been huddling with aides at his oceanside Mar-a-Lago retreat in Florida to mull over his options.
+Biden, speaking to dozens of his White House aides in the Rose Garden, said he accepted that Trump had defeated his vice president, Kamala Harris.
 
 
-Even before the election, transition chiefs Howard Lutnick and Linda McMahon met with some potential candidates for top-notch jobs, either in the White House or to head the government's Cabinet-level departments and an array of other agencies.
+“The will of the people always prevail,” Biden said, “As I’ve said many times, you can’t love your country only when you win. And you can’t love your neighbor only when you agree.”
 
 
-Trump aides also have prepared a long list of possible executive orders and regulation reversals for him to sign on his first day in office on January 20, to end policies that have been adopted by President Joe Biden over the last four years.
 
 
-Biden, who defeated Trump in the 2020 election and was running for reelection until a disastrous debate performance against Trump in June forced him from the contest, has promised a peaceful transition back to Trump.
+But Biden, a Democratic political figure for five decades, lamented what might have been — for the vice president he picked to run alongside him in 2020 to succeed him. He praised her campaign as “inspiring” and said she “gave her whole heart and effort.”
 
 
-Biden has invited the president-elect for a White House visit in the coming days and called him Wednesday to congratulate him. Biden is speaking on the election from the White House Rose Garden on Thursday morning.
+“We lost this battle,” Biden said. “Setbacks are unavoidable, but giving up is unforgivable. We’re going to be okay, but we need to stay engaged. We need to keep going. And above all, we need to keep the faith.”
 
 
-Biden on Wednesday praised Harris for her campaign, saying, "She's been a tremendous partner and public servant full of integrity, courage, and character."
+Biden described his single term as the U.S. leader as “an historic presidency” that will be “changing people’s lives” for years to come, especially infrastructure improvements throughout that the country that he pushed to congressional approval during the first two years of his presidency.
 
 
-"Under extraordinary circumstances, she stepped up and led a historic campaign that embodied what's possible when guided by a strong moral compass and a clear vision for a nation that is more free, more just, and full of more opportunities for all Americans," Biden said.
+Biden, who ousted Trump from power in the 2020 election, said in a seven-minute address that he is leaving his Republican political rival and now his successor “the strongest economy in the world.”
 
 
-U.S. President-elect Donald Trump is moving quickly to consider appointments to key positions in his new White House administration and could name some choices within days.
+While economic numerical standards support that assessment, voter exit polling showed to a significant degree that Trump supporters disapproved of Biden and Harris’ handling of the American economy, the world’s largest, because rising consumer prices throughout their time in office sharply squeezed household budgets.
 
 
-Trump, fresh off his decisive victory over Vice President Kamala Harris in Tuesday's presidential election, has been huddling with aides at his oceanside Mar-a-Lago retreat in Florida to mull over his options.
+Trump vowed during his campaign, without saying how, that he would bring down inflation. He has proposed new tax cuts during his upcoming administration, which would put more money in the pockets of consumers, particularly the wealthiest, and corporate coffers, but could also balloon the country’s long-term national debt that already totals nearly $36 trillion.
 
 
-Even before the election, transition chiefs Howard Lutnick and Linda McMahon met with some potential candidates for top-notch jobs, either in the White House or to head the government's Cabinet-level departments and an array of other agencies.
+Biden called Trump on Wednesday to congratulate him and invited him to the White House soon to discuss their handover of power.
 
 
-Trump aides also have prepared a long list of possible executive orders and regulation reversals for him to sign on his first day in office on January 20, to end policies that have been adopted by President Joe Biden over the last four years.
+The Office of the Director of National Intelligence said Thursday that if Trump wants U.S. intelligence briefings, he will get them. An ODNI spokesperson said the agency "is acting consistent with the tradition, in place since 1952, of providing intelligence briefings to the president-elect," although it was not known whether Trump has made such a request.
 
 
-Biden, who defeated Trump in the 2020 election and was running for reelection until a disastrous debate performance against Trump in June forced him from the contest, has promised a peaceful transition back to Trump.
+Key appointments
 
 
-Biden has invited the president-elect for a White House visit in the coming days and called him Wednesday to congratulate him. Biden is speaking on the election from the White House Rose Garden on Thursday morning.
+Meanwhile, Trump is moving quickly to consider appointments to key positions in his new White House administration and could name some choices within days.
 
 
-Biden on Wednesday praised Harris for her campaign, saying, "She's been a tremendous partner and public servant full of integrity, courage, and character."
+He has been huddling with aides at his oceanside Mar-a-Lago retreat in Florida to mull over his options.
 
 
-"Under extraordinary circumstances, she stepped up and led a historic campaign that embodied what's possible when guided by a strong moral compass and a clear vision for a nation that is more free, more just, and full of more opportunities for all Americans," Biden said. 
+Even before the election, transition chiefs Howard Lutnick and Linda McMahon met with some potential candidates for top jobs, either in the White House or to head the government’s Cabinet-level departments and an array of other agencies.
+
+
+Trump could name the world’s richest man, Tesla chief executive Elon Musk, a staunch advocate and campaign donor for Trump, to a new position to find government inefficiencies and curb spending excesses.
+
+
+Another major Trump political supporter, Robert F. Kennedy Jr., a scion of a U.S. Democratic Party dynasty, could be named to oversee health issues, even though he has rebuffed COVID vaccinations as unneeded.
+
+
+Several Wall Street financiers are under consideration for top-level economic positions, and Trump aides say that some Republican senators may be tapped to head Cabinet-level agencies.
+
+
+Trump aides also have prepared a long list of possible executive orders and regulation reversals for him to sign on his first day in office, to end policies that have been adopted by Biden over the last four years.
+
+
+Biden was running for reelection against Trump until his disastrous debate performance against Trump in June and falling poll numbers forced him from the contest. Biden quickly endorsed Harris.
+
+
+In a statement Wednesday, Biden praised Harris for her campaign, saying, “She’s been a tremendous partner and public servant full of integrity, courage and character.
+
+
+“Under extraordinary circumstances, she stepped up and led a historic campaign that embodied what’s possible when guided by a strong moral compass and a clear vision for a nation that is more free, more just and full of more opportunities for all Americans,” Biden said.
+
+
+VOA National Security Correspondent Jeff Seldin contributed to this report. 
 
 <br> 
 
@@ -150,7 +1022,7 @@ date: 2024-11-07, from: Heatmap News
 date: 2024-11-07, from: Heatmap News
 
 
-<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDI4OTQ3NS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc5MDY2MTcyNn0.jh2unXtriigWCnIsles-h-xJ-3Nfsc9r6_NvKZME4n4/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p><strong>1. It’s the election, stupid </strong>– We don’t need to retread who won the presidential election this week (or what it means for the <a href="https://heatmap.news/politics/republicans-ira-climate-law" target="_self">Inflation Reduction Act</a>). But there were also big local control votes worth watching closely. </p><ul><li>South Dakotans at the ballot box successfully defeated a law intended to expedite approvals and construction of the Summit Carbon Solutions CO2 pipeline, my colleague <a href="https://heatmap.news/sparks/south-dakota-carbon-pipeline" target="_self"><u>Emily Pontecorvo writes</u></a>.<br/></li><li>In Morro Bay, California, almost 60% of voters <a href="https://www.sanluisobispo.com/news/politics-government/election/article294804609.html" target="_blank"><u>weighed in to support</u></a> stopping a battery energy storage facility. Developer Vistra <a href="https://www.sanluisobispo.com/news/local/environment/article294713364.html" target="_blank"><u>announced plans</u></a> for an alternative permitting pathway a day before voting commenced.<br/></li><li>In Oregon, voters in two coastal counties <a href="https://www.kezi.com/news/2024-general-election-ballot-measure-results/article_ddac3292-9589-11ef-a82f-3382c03fb498.html" target="_blank"><u>overwhelmingly voted</u></a> to reject offshore wind in a non-binding resolution.<br/></li><li>In Maine, the small town of Harpswell might’ve gone for vice president Kamala Harris – but it also rejected <a href="https://harpswellanchor.org/2024/11/harpswell-voters-approve-bond-for-boat-launch-reject-solar-farm-back-democrats/" target="_blank"><u>opening land to a small solar farm</u></a>.<br/></li><li>Heatmap did a full accounting of climate and energy races across the country. Take <a href="https://heatmap.news/politics/election-results" target="_self"><u>a gander</u></a>!</li></ul><p><strong>2. Michigan lawsuit watch </strong>– Michigan has a serious lawsuit brewing over its law taking some control of renewable energy siting decisions away from municipalities. </p><ul><li>The law firm Foster Smith last month announced it would file a lawsuit on behalf of Michigan towns challenging implementation of PA 233, a law that gave the Michigan Public Service Commission authority over some siting decisions.<br/></li><li>Foster Smith <a href="https://www.dropbox.com/scl/fi/eo590113y8989f5kfk52i/Foster-Swift-PA-233-lawsuit.jpg?rlkey=2t388shv05mlcf52vlt01d9eo&dl=0" target="_blank"><u>requested municipalities</u></a> join their efforts before a legal deadline to file suit on November 8. Some <a href="https://www.thedailynews.cc/articles/montcalm-twp-joins-lawsuit-over-wind-solar/" target="_blank"><u>townships have</u></a> publicly announced their involvement. We’re on the lookout to see when this case is ultimately filed to state court</li></ul> 
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDI4OTQ3NS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc5MDY2MTcyNn0.jh2unXtriigWCnIsles-h-xJ-3Nfsc9r6_NvKZME4n4/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p><strong>1. It’s the election, stupid </strong>– We don’t need to retread who won the presidential election this week (or what it means for the <a href="https://heatmap.news/politics/republicans-ira-climate-law" target="_self">Inflation Reduction Act</a>). But there were also big local control votes worth watching closely. </p><ul><li>South Dakotans at the ballot box successfully defeated a law intended to expedite approvals and construction of the Summit Carbon Solutions CO2 pipeline, my colleague <a href="https://heatmap.news/sparks/south-dakota-carbon-pipeline" target="_self"><u>Emily Pontecorvo writes</u></a>.</li><li>In Morro Bay, California, almost 60% of voters <a href="https://www.sanluisobispo.com/news/politics-government/election/article294804609.html" target="_blank"><u>weighed in to support</u></a> stopping a battery energy storage facility. Developer Vistra <a href="https://www.sanluisobispo.com/news/local/environment/article294713364.html" target="_blank"><u>announced plans</u></a> for an alternative permitting pathway a day before voting commenced.</li><li>In Oregon, voters in two coastal counties <a href="https://www.kezi.com/news/2024-general-election-ballot-measure-results/article_ddac3292-9589-11ef-a82f-3382c03fb498.html" target="_blank"><u>overwhelmingly voted</u></a> to reject offshore wind in a non-binding resolution.</li><li>In Maine, the small town of Harpswell might’ve gone for vice president Kamala Harris – but it also rejected <a href="https://harpswellanchor.org/2024/11/harpswell-voters-approve-bond-for-boat-launch-reject-solar-farm-back-democrats/" target="_blank"><u>opening land to a small solar farm</u></a>.</li><li>Heatmap did a full accounting of climate and energy races across the country. Take <a href="https://heatmap.news/politics/election-results" target="_self"><u>a gander</u></a>!</li></ul><p><strong>2. Michigan lawsuit watch </strong>– Michigan has a serious lawsuit brewing over its law taking some control of renewable energy siting decisions away from municipalities. </p><ul><li>The law firm Foster Swift last month announced it would file a lawsuit on behalf of Michigan towns challenging implementation of PA 233, a law that gave the Michigan Public Service Commission authority over some siting decisions.</li><li>Foster Swift <a href="https://www.dropbox.com/scl/fi/eo590113y8989f5kfk52i/Foster-Swift-PA-233-lawsuit.jpg?rlkey=2t388shv05mlcf52vlt01d9eo&dl=0" target="_blank"><u>requested municipalities</u></a> join their efforts before a legal deadline to file suit on November 8. Some <a href="https://www.thedailynews.cc/articles/montcalm-twp-joins-lawsuit-over-wind-solar/" target="_blank"><u>townships have</u></a> publicly announced their involvement. We’re on the lookout to see when this case is ultimately filed to state court.</li></ul> 
 
 <br> 
 
@@ -287,94 +1159,124 @@ date: 2024-11-07, from: Heatmap News
 
 date: 2024-11-07, from: VOA News USA
 
-In a historic shift, Muslim and Arab Americans broke with two decades of Democratic loyalty, splitting most of their votes between President-elect Donald Trump and third-party candidates in Tuesday's presidential election
+In a historic shift, Muslim and Arab Americans broke with two decades of Democratic loyalty, splitting most of their votes between President-elect Donald Trump and third-party candidates in Tuesday’s presidential election, according to preliminary findings of two prominent advocacy groups.
 
 
-The exodus, fueled by anger over the Biden administration's handling of the war in Gaza, helped Trump win key battleground states as he defeated Vice President Kamala Harris in the race for the White House.
+The exodus, fueled by anger over the Biden administration’s handling of the war in Gaza, helped Trump win key battleground states, especially Michigan, as he defeated Vice President Kamala Harris to win a second term in the White House.
 
 
-Less than half of the Muslim voters who voted backed Harris, according to an exit poll of more than 1,000 voters by the Council on American Islamic Relations. Most voted for either a third-party candidate or Trump, said Robert McCaw, CAIR's director of government affairs.
+A nationwide exit poll of more than 1,300 voters by the Council on American Islamic Relations (CAIR) found that significantly less than 50% of Muslim voters backed Harris. That compares with an estimated 65% to 70% that reportedly voted for President Joe Biden in 2020.
 
 
-"This is the first time in the past in more than 20 years that the Muslim community has been split between three candidates," McCaw said in an interview, with VOA.
+The lion’s share of the Muslim vote went to Jill Stein, the Green Party candidate who advocated for ending U.S. military support for Israel, or Trump, who received the backing of several Arab and Muslim community leaders and elected officials in Michigan.
 
 
-CAIR's exit poll findings are set for release on Thursday.
 
 
-The shift in the Muslim vote echoed among Arab American voters, who had backed Democratic presidential candidates 2-to-1 for more than two decades, said James Zogby, president of the Arab American Institute.
+A full picture of the Muslim vote is yet to emerge. The CAIR survey was at odds with the Associated Press’s Votecast survey, which found the vice president captured 63% of Muslim votes overall.
 
 
-"And then you come to this election where Gaza took a toll and caused a great deal of dissatisfaction among demographic groups in the community that I wouldn't have expected it to have that degree of impact," Zogby told VOA. "What they saw happening in Gaza impacted them quite profoundly."
+But voting patterns found by the CAIR poll marked a sharp departure from the last 20 years during which Muslim Americans had overwhelmingly supported the Democratic ticket, according to Robert McCaw, CAIR’s director of government affairs.
 
 
-There are an estimated 3.7 million Arab Americans, most of them Christian, and a similar number of Muslim Americans.
+“This is the first time in more than 20 years that the Muslim community has been split between three candidates,” McCaw said in an interview with VOA.
 
 
-The voter revolt was strongest in Michigan's Arab strongholds of Dearborn, Dearborn Heights, and Hamtramck.
+The shift in the Muslim vote echoed among Arab American voters, who had backed Democratic presidential nominees over Republican candidates 2-to-1 for more than two decades, said James Zogby, president of the Arab American Institute.
 
 
-In Dearborn, where more than 55% of the residents are of Middle Eastern descent, Trump won more than 42% of the vote, up from 30% four years ago. Harris received just 36% from a community that gave President Joe Biden nearly 70% of its vote.
+The group did not do an exit poll. But going into the election, its polling indicated that the Arab vote would be split 42% to 41% between Trump and Harris, and Zogby said the election result likely reflected that chasm.
 
 
-In nearby Hamtramck, the first majority-Muslim city in the U.S., Trump picked up 43% of the vote, up from just 13% in 2020. Harris secured 46%, down from the 85% that Biden notched four years ago.
+“Gaza took a toll and caused a great deal of dissatisfaction among demographic groups in the community that I wouldn't have expected to have that degree of impact,” Zogby told VOA. “What they saw happening in Gaza impacted them quite profoundly.”
 
 
-Green Party candidate Jill Stein, a staunch critic of Israel's war in Gaza, pulled less than 20% of the vote in the two towns.
+An estimated 3.7 million Americans trace their heritage to Arab countries, and a similar number is classified as Muslim Americans. Both groups are exceedingly diverse, and not every Arab and Muslim American, whether conservative or progressive, fits neatly into a category.
 
 
-Samraa Luqman, a Dearborn-based realtor and political activist, said the shift was "absolutely astounding."
+Strong revolt seen in Michigan
 
 
-"It's really, really, wow," said Luqman, who campaigned for Biden last fall before switching sides over Gaza.
+But the voter revolt among Arab and Muslim Americans in Michigan was unmistakable, especially in the areas of Dearborn, Dearborn Heights, and Hamtramck.
 
 
-The last time Muslim Americans overwhelmingly voted for a Republican was in 2000 when George W. Bush received the community's support.
+In Dearborn, where more than 55% of the residents are of Middle Eastern descent, Trump won more than 42% of the vote, up from 30% four years ago. Harris received just 36% from a community that gave Biden nearly 70% of its vote.
 
 
-That changed after the attacks of 9/11. In recent years, however, some conservative Muslims started to drift back to the Republican Party over cultural issues.
+In nearby Hamtramck, the first majority-Muslim city in the U.S., Trump picked up 43% of the vote, up from just 13% in 2020. Harris secured just 46%, down from the 85% that Biden notched four years ago.
 
 
-Anger over Gaza solidified the rightward shift, Luqman said.
+Stein received 9% and 18% in Hamtramck and Dearborn respectively.
 
 
-"It really put the nail in the coffin for the Democrats for this election," she said.
+The lost Muslim and Arab votes hurt Harris’s bid to win Michigan and its 15 electoral votes. The Muslim voting rights group Emgage estimates there are more than 200,000 registered Muslim voters in Michigan; Trump won the state by a margin of about 84,000 votes according to the latest results Thursday.
 
 
-Yet some experts urge caution in interpreting Harris' lackluster performance among Muslim voters. AP VoteCast showed the vice president captured 63% of Muslim votes overall, just slightly below Biden's 2020 showing, said Youssef Chouhoud, a professor at Christopher Newport University.
 
 
-"While Dearborn is a unique case, I do think we need to wait and see what the larger trends are for Muslim voters nationwide," added Saher Selod, director of research at the Institute for Social Policy and Understanding (ISPU).
+To Samraa Luqman, a Dearborn-based real estate agent and political activist, the shift was not a surprise.
 
 
-Still, Trump made noticeable inroads. After winning 35% of the Muslim vote in 2020, he actively courted Muslim and Arab voters this year, promising to end the Gaza conflict. Last week, he visited Hamtramck, whose Muslim mayor had endorsed him.
+Luqman, who describes herself as a left-leaning Democrat, said she campaigned for Biden’s reelection last fall but switched sides after his administration failed to secure a cease-fire in Gaza.
 
 
-"His outreach didn't go unnoticed," said Asm "Kamal" Rahman, a Bangladeshi American who ran for mayor in 2021, and voted for Trump.
+“I [voted for Trump] primarily to exact accountability for the genocide, but also in hopes that it will be immediately stopped when he enters office,” Luqman said in an interview with VOA.
 
 
-Luqman said Trump's message of peace resonated with many voters.
+In her own Yemeni-American family, the vote was split between Trump and Stein, she said.
 
 
-"This year, he stated several times, and it became kind of like a model, that he wanted to stop the war, stop the war, stop the war," Luqman said.
+“The No. 1 reason was to make sure Harris loses the election,” Luqman said.
 
 
-While Gaza was the No. 1 issue among Muslim Americans, kitchen table issues also pushed many away from Harris, according to several activists and voters.
+Until 2000, Arab and Muslim Americans leaned Republican, voting for George W. Bush in that year’s close election.
 
 
-"I want people in office that are going to focus on solving the problems of Americans here at home, first and foremost," said Nagi Almudhegi, a data analyst in Dearborn.
+That changed after the attacks of 9/11 triggered the Bush administration’s war on terror and unleashed a wave of Islamophobia.
 
 
-An ISPU survey over the summer found that the economy was the No. 3 issue for most Muslim voters, after the Gaza conflict and ending foreign wars.
+In recent years, however, some Muslims, driven by a belief that the Democratic Party did not represent their values, started to drift back to the Republican Party.
 
 
-"They're feeling the pinch as much as anyone else, and so I think that's a major issue as far as just very specific sort of interests and concerns of the Muslim community," said Chad Haines, co-director of the Center of Muslim Experience in the U.S. at Arizona State University.
+The war in Gaza gave this segment an added incentive to vote Republican or third party, Luqman said.
 
 
-Haines, a Muslim convert who voted for Harris, said the election divided the Muslim American community between those who wanted to send Democrats a message over Gaza, and others who feared a Trump return.
+“It really put the nail in the coffin for the Democrats for this election,” she said.
 
 
-"So ... one camp is happy that ... the Democrats have taken, in a sense, a hit, and another is deeply concerned about the next four years," Haines in an interview. 
+Gaza wasn’t the only pressing concern for Arab and Muslim voters. Kitchen table issues such as jobs and inflation influenced many votes.
+
+
+“I think everybody that lives here, they look at the issues that affect them here: the economy, the education system affecting the families,” said Asm Kamal Rahman, a Bangladeshi-American community activist in Hamtramck.
+
+
+Rahman, a Democrat, said he voted for Trump, his first Republican vote, mainly because of Trump’s economic plan. But like many voters interviewed for this article, he said his family was split, with his daughter voting for Stein.
+
+
+Concern over illegal immigration, another top voter issue this election, resonated with some Muslim and Arab voters.
+
+
+“I'm sick and tired of the career politicians promoting all of the policies that really hurt the average American, whether it be open borders, for example, that bring in all of the drugs,” said Nagi Almudhegi, a Dearborn data analyst, who said he voted straight Republican.
+
+
+
+
+In the final days of the campaign, Trump courted Michigan’s Arab and Muslim voters, promising to end the Gaza conflict and other foreign wars, a message that resonated with many. Last week, he traveled to Hamtramck where Mayor Amer Ghalib, who is of Yemeni descent, had endorsed him, sparking dissent from some city council members.
+
+
+“His outreach didn’t go unnoticed,” said Rahman, the Bangladeshi American activist.
+
+
+Though Harris backed a cease-fire in Gaza and met with some community activists early during her short campaign, she was criticized by some for not doing enough outreach to win over Arab and Muslim voters.
+
+
+“I think it gave an open field to Donald Trump to actually walk into Michigan, see them directly, shake their hands and say, ‘I want you to vote for me,’” said Zogby, a longtime member of the Democratic National Committee.
+
+
+Chad Haines, co-director of the Center of Muslim Experience in the U.S. at Arizona State University, said the election divided the Muslim American community between those who wanted to send Democrats a message over Gaza, and others who feared a Trump return.
+
+
+“So ... one camp is happy that ... the Democrats have taken, in a sense, a hit, and another is deeply concerned about the next four years,” Haines, a Muslim convert who voted for Harris, said in an interview. 
 
 <br> 
 
@@ -398,7 +1300,7 @@ U.S. allies in Asia are congratulating Donald Trump on his decisive victory in T
 
 date: 2024-11-07, from: Marketplace Morning Report
 
-<p>Among the many promises President-elect Donald Trump laid out on the campaign trail: clawing back unspent money from the Inflation Reduction Act, which has poured billions into the clean energy sector. But much of those funds is destined for red states and red counties, and the politics of stopping the money will be tough. Also on the program: how economic inequality explains a lot of this week&#8217;s Donald Trump votes.</p>
+<p>Among the many promises President-elect Donald Trump laid out on the campaign trail: clawing back unspent money from the Inflation Reduction Act, which has poured billions into the clean energy sector. But much of those funds is destined for red states and red counties, and the politics of stopping the money will be tough. Also on the program: a look at how the economy factored into voting decisions with Karen Petrou.</p>
  
 
 <audio crossorigin="anonymous" controls="controls">
@@ -1142,7 +2044,7 @@ With Donald Trump’s projected victory in the 2024 U.S. presidential election, 
 
 date: 2024-11-06, updated: 2024-11-06, from: RAND blog
 
-Women face invisible barriers to leadership, with biases affecting their advancement. Black women encounter dual biases of race and gender, leading to higher turnover and fewer promotions. Overcoming these requires recognizing and addressing these systemic challenges for genuine inclusivity. 
+Women face invisible barriers to leadership, with biases affecting their advancement. Black women encounter dual biases of race and gender, leading to higher turnover and fewer promotions. Overcoming these barriers requires recognizing and addressing the systemic challenges to genuine inclusivity. 
 
 <br> 
 
@@ -2096,7 +2998,8 @@ Without the ability to choose which company to work with, "families have fewer w
 date: 2024-11-05, from: Heatmap News
 
 
-<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDE0NjAyNi9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc1NzE4NTM5OX0.qpPex06rIQc1lzomMhi343gyAv1b-vsgSFaAIUSExm4/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">American voters have chosen Donald Trump as their next president — again. The decision will have 
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDE0NjAyNi9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc1NzE4NTM5OX0.qpPex06rIQc1lzomMhi343gyAv1b-vsgSFaAIUSExm4/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">
+	American voters have chosen Donald Trump as their next president — again. The decision will have 
 	<a href="https://heatmap.news/politics/donald-trump-2024-climate-energy">monumental consequences</a> for the renewables transition, energy prices, and environmental issues. But it was not the only race of this election cycle.
 </p><p>
 	Heatmap has been keeping tabs on 36 of the most important climate elections, from seats in the House and Senate down to local ballot measures and attorneys general. Though this is far from an exhaustive list of races that will touch the climate this year, we hope it’ll help you piece together how and where climate-related issues are resonating with voters around the country.
@@ -2265,7 +3168,8 @@ date: 2024-11-05, from: Heatmap News
 </p><p>
 <em><em>Opportunity: Requiring that federal reserves received by the state for alternative and renewable energy production off its coast go toward protecting the state’s oceanfronts</em></em>
 </p><p>
-<em>Status: </em>🟢<em> Passed</em></p><p>
+<em>Status: </em>🟢<em> Passed</em>
+</p><p>
 	Louisiana voters opted to require that federal reserve revenue raised from renewable energy production in federal waters off its coast go into a fund that supports 
 	<a href="https://www.axios.com/local/new-orleans/2024/10/15/louisiana-election-constitutional-amendment-explainer" rel="noopener noreferrer" target="_blank"><u>coastal restoration projects</u></a>, including the construction of levees and protection of barrier islands. (Federal revenues received by oil and gas in the state already support this fund.) The Coastal Protection and Restoration Fund has been around since Hurricane Katrina and Rita in 2005, but most of its money came from damages paid after the Deepwater Horizon oil spill, and those funds will be exhausted <a href="https://parlouisiana.org/wp-content/uploads/2024/10/PAR-Guide-to-the-2024-Constitutional-Amendments.pdf" rel="noopener noreferrer" target="_blank"><u>by the end of 2031</u></a>. Proponents argued the amendment is necessary to protect Louisiana’s coasts from worsening storms and rising sea levels, though opponents said it’s more important to keep the funds flexible for any legislative priorities that may arise.
 </p><h2 class="rm-anchors" id="michigan">Michigan</h2><p>
@@ -2314,10 +3218,10 @@ date: 2024-11-05, from: Heatmap News
 </p><p>
 <em><em>Republican Rep. Anthony D’Esposito* vs. Democrat Laura Gillen</em></em>
 </p><p>
-<em><em>Status: Pending</em></em>
+<em>Status: </em>🔵<em> </em><em><em>Democrat Laura Gillen wins</em></em>
 </p><p>
-	New York’s 4th Congressional District, representing the southern part of Nassau County, is the second-wealthiest in the state and pulled for Joe Biden by more than 14 points in 2020. But it’s currently being represented by 
-	<a href="https://punchbowl.news/article/election-2024/ny-gop-embraces-trump-msg-rally-stirs-outage/" rel="noopener noreferrer" target="_blank"><u>Trump ally</u></a> Anthony D’Esposito, who’s opposed local offshore wind projects as being “<a href="https://desposito.house.gov/media/press-releases/rep-despositos-statement-equinors-proposed-offshore-wind-project-3-18-23" rel="noopener noreferrer" target="_blank"><u>landscape-altering</u></a>” while at the same time <a href="https://thehill.com/policy/energy-environment/3925794-house-passes-gop-led-energy-package-touted-as-partys-top-priority/" rel="noopener noreferrer" target="_blank"><u>helping to expand</u></a> offshore drilling. Gillen previously lost to D’Esposito in 2022, but this time, she’s <a href="https://nylcv.org/candidate/laura-gillen/" rel="noopener noreferrer" target="_blank"><u>played up her experience</u></a> helping Hempstead recover from Hurricane Sandy and pushed for the protection of the district’s coastlines.
+	Gillen unseated D’Esposito in New York’s 4th Congressional District, which represents the southern part of Nassau County and is the second-wealthiest in the state. A 
+	<a href="https://punchbowl.news/article/election-2024/ny-gop-embraces-trump-msg-rally-stirs-outage/" rel="noopener noreferrer" target="_blank">Trump ally</a>, D’Esposito had opposed local offshore wind projects as being “<a href="https://desposito.house.gov/media/press-releases/rep-despositos-statement-equinors-proposed-offshore-wind-project-3-18-23" rel="noopener noreferrer" target="_blank">landscape-altering</a>” and had <a href="https://thehill.com/policy/energy-environment/3925794-house-passes-gop-led-energy-package-touted-as-partys-top-priority/" rel="noopener noreferrer" target="_blank">helped to expand</a> offshore drilling. Gillen previously lost to D’Esposito in 2022, but this time, she had <a href="https://nylcv.org/candidate/laura-gillen/" rel="noopener noreferrer" target="_blank">played up her experience</a> helping Hempstead recover from Hurricane Sandy and pushed for the protection of the district’s coastlines.
 </p><p>
 <em><strong><em>New York’s 17th Congressional District</em></strong></em>
 </p><p>
@@ -2361,10 +3265,8 @@ date: 2024-11-05, from: Heatmap News
 </p><p>
 <em><em>Opportunity: Electing Independent Elena Evans to the commission</em></em>
 </p><p>
-<em><em>Status: Pending</em></em>
-</p><p>
-	There are three open seats on Montana’s PSC, but unlike in Arizona, most attention is on flipping incumbent Republican Jennifer Fielder’s seat for Elena Evans, a geologist and political Independent. The race focuses 
-	<a href="https://heatmap.news/politics/public-utilities-arizona-montana-louisiana" target="_self"><u>on energy affordability</u></a>, especially after the Republican commission okayed a 28% rate increase for Northwestern Energy, the biggest utility in the state, last year. Evans has said she’d look closer at building climate resiliency into the state’s grid; Fielder <a href="https://montanafreepress.org/2024/10/01/independent-candidate-challenges-incumbent-republican-for-montana-utility-board-seat/" rel="noopener noreferrer" target="_blank"><u>has said</u></a> it isn’t her place to weigh in on climate as a utility regulator.
+<em><em>Status: 🟡<em> Failed</em></em></em></p><p>
+	The three open seats on Montana’s PSC remained in Republican control, with incumbent Republican Jennifer Fielder holding out against her challenger, Elena Evans, a geologist and political Independent, who came in fourth. Their race had focused on <a href="https://heatmap.news/politics/public-utilities-arizona-montana-louisiana" rel="noopener noreferrer" target="_self">energy affordability</a>, especially after the Republican commission okayed a 28% rate increase for Northwestern Energy, the biggest utility in the state, last year. Evans had said she’d look closer at building climate resiliency into the state’s grid, while Fielder <a href="https://montanafreepress.org/2024/10/01/independent-candidate-challenges-incumbent-republican-for-montana-utility-board-seat/" rel="noopener noreferrer" target="_blank">won on the message</a> that it isn’t her place to weigh in on climate as a utility regulator.
 </p><h2 class="rm-anchors" id="nevada">Nevada</h2><p>
 <em><strong><em>U.S. Senate</em></strong></em>
 </p><p>
@@ -2392,7 +3294,8 @@ date: 2024-11-05, from: Heatmap News
 </p><p>
 <em><em>Opportunity: To directly express community opposition to offshore wind</em></em>
 </p><p>
-<em>Status: </em>🟡<em> Passed</em></p><p>
+<em>Status: </em>🟡<em> Passed</em>
+</p><p>
 	Voters in two counties on the 
 	<a href="https://heatmap.news/plus/the-fight/hotspots/offshore-wind-oregon" target="_blank">southern Oregon Coast</a> expressed overwhelming opposition to offshore wind development in their region. The November ballots in Coos and Curry counties included a non-binding question intended to take the community’s temperature on potential offshore wind projects. More than 60% of Coos County voters registered their feelings against the development of offshore wind projects, while nearly 80% of Curry County voters objected specifically to floating offshore wind.
 </p><h3>Polls close at 11 p.m. ET</h3><h2 class="rm-anchors" id="california">California</h2><p>
@@ -2400,8 +3303,10 @@ date: 2024-11-05, from: Heatmap News
 </p><p>
 <em><em>Opportunity: Authorizes $10 billion in bonds for water quality, coastal resilience projects, wildfire prevention, and climate-risk protections</em></em>
 </p><p>
-<em><em>Status: 🟢 Passed</em></em><a href="https://www.csda.net/blogs/vanessa-gonzales/2024/10/29/latest-october-poll-shows-strong-support-for-clima" rel="noopener noreferrer" target="_blank"><u><em><em></em></em></u></a></p><p>
-	Californians have approved a proposition that will issue $10 billion in bonds, which will largely go toward infrastructure projects aimed at mitigating and adapting to climate change, with at least 40% of the funds earmarked for disadvantaged communities. The bill had been backed by organizations like CALFIRE and the National Wildlife Federation and was opposed by Republicans for <a href="https://calmatters.org/commentary/2024/09/climate-bond-prop-4-debt/" rel="noopener noreferrer" target="_blank">being unfocused</a> and adding to the state deficit.
+<em>Status: </em>🟢<em> Passed</em><a href="https://www.csda.net/blogs/vanessa-gonzales/2024/10/29/latest-october-poll-shows-strong-support-for-clima" rel="noopener noreferrer" target="_blank"><u><em><em></em></em></u></a>
+</p><p>
+	Californians have approved a proposition that will issue $10 billion in bonds, which will largely go toward infrastructure projects aimed at mitigating and adapting to climate change, with at least 40% of the funds earmarked for disadvantaged communities. The bill had been backed by organizations like CALFIRE and the National Wildlife Federation and was opposed by Republicans for 
+	<a href="https://calmatters.org/commentary/2024/09/climate-bond-prop-4-debt/" rel="noopener noreferrer" target="_blank">being unfocused</a> and adding to the state deficit.
 </p><p>
 <em><strong><em>Measure GG (Berkeley)</em></strong></em>
 </p><p>

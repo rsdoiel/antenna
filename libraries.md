@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2024-11-07 08:17:52
+updated: 2024-11-08 07:49:53
 ---
 
 # libraries
 
-(date: 2024-11-07 08:17:52)
+(date: 2024-11-08 07:49:53)
+
+---
+
+## It’s a New World?  Revisiting What Universities — and Researchers, Libraries, and Publishers — Owe Democracy
+
+date: 2024-11-08, from: Scholarly Kitchen
+
+<p>In light of recent events, we revisit Karin Wulf's 2022 post which declared that universities need democracy, and vice versa, and discussed an important book which shows the 20th century history of that relationship in the United States, and offers a prescription for what we do as both are imperiled. </p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/11/08/its-a-new-world-revisiting-what-universities-and-researchers-libraries-and-publishers-owe-democracy/">It&#8217;s a New World?  Revisiting What Universities &#8212; and Researchers, Libraries, and Publishers &#8212; Owe Democracy</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2024/11/08/its-a-new-world-revisiting-what-universities-and-researchers-libraries-and-publishers-owe-democracy/>
 
 ---
 

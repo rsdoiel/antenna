@@ -1,11 +1,407 @@
 ---
 title: journalism
-updated: 2024-11-07 08:17:52
+updated: 2024-11-08 07:49:53
 ---
 
 # journalism
 
-(date: 2024-11-07 08:17:52)
+(date: 2024-11-08 07:49:53)
+
+---
+
+## We need a Wirecutter for groceries
+
+date: 2024-11-08, from: Nieman Journalism Lab
+
+A few years back, my local mom Facebook group started a weekly thread to share the best deals on groceries around town. We tried to look through supermarkets&#8217; circulars to pull out the best deals we saw. Someone started a spreadsheet comparing prices at Costco versus non-warehouse stores. The effort fizzled quickly. Why? Not because... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/11/the-krazy-coupon-lady-could-teach-news-orgs-a-thing-or-two/>
+
+---
+
+## Ysabel Jurado elected to represent CD-14
+
+date: 2024-11-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The tenants rights attorney earned 55.8% of the vote.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/08/ysabel-jurado-elected-to-represent-cd-14/">Ysabel Jurado elected to represent CD-14</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/08/ysabel-jurado-elected-to-represent-cd-14/>
+
+---
+
+## Robert Rosen, pioneering director of UCLA Film & Television Archive, dies at 84
+
+date: 2024-11-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+Robert &#8220;Bob&#8221; Rosen, founding director of the UCLA Film &#38; Television Archive and former dean of the School of Theater, Film and Television, died Oct. 2 at 84 years old. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/08/robert-rosen-pioneering-director-of-ucla-film-television-archive-dies-at-84/>
+
+---
+
+## Classifieds – November 8, 2024
+
+date: 2024-11-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/08/classifieds-date-4/">Classifieds &#8211; November 8, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/08/classifieds-date-4/>
+
+---
+
+## The college loneliness crisis
+
+date: 2024-11-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Why is it so hard for our generation to find community?</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/08/the-college-loneliness-crisis/">The college loneliness crisis</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/08/the-college-loneliness-crisis/>
+
+---
+
+## Student Health to host blood drive, CPR training at Conquest
+
+date: 2024-11-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Amid a national shortage, campus health encourages students to donate blood.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/08/student-health-to-host-blood-drive-cpr-training-at-conquest/">Student Health to host blood drive, CPR training at Conquest</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/08/student-health-to-host-blood-drive-cpr-training-at-conquest/>
+
+---
+
+## Los espacios para el Judaísmo y la Latinidad en USC
+
+date: 2024-11-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>No hay lugar para los estudiantes judíos-hispanos en el campus.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/08/los-espacios-para-el-judaismo-y-la-latinidad-en-usc/">Los espacios para el Judaísmo y la Latinidad en USC</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/08/los-espacios-para-el-judaismo-y-la-latinidad-en-usc/>
+
+---
+
+## Artistas locales combinan identidad y sostenibilidad
+
+date: 2024-11-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>LA Plaza de Cultura y Artes explora la intersección entre ecología y cultura latina.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/08/artistas-locales-combinan-identidad-y-sostenibilidad/">Artistas locales combinan identidad y sostenibilidad</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/08/artistas-locales-combinan-identidad-y-sostenibilidad/>
+
+---
+
+## SUSA: un ‘refugio hispanohablante’
+
+date: 2024-11-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Después de dificultades, los miembros del club están ampliando sus ofertas.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/08/susa-un-refugio-hispanohablante/">SUSA: un &#8216;refugio hispanohablante&#8217;</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/08/susa-un-refugio-hispanohablante/>
+
+---
+
+## Alejandro Aramburú cantante y actor, nació para actuar
+
+date: 2024-11-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>La vida y pasión de este artista estudiante es la música y su creación.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/08/alejandro-aramburu-cantante-y-actor-nacio-para-actuar/">Alejandro Aramburú cantante y actor, nació para actuar</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/08/alejandro-aramburu-cantante-y-actor-nacio-para-actuar/>
+
+---
+
+## Documental celebra la historia teatral de Puerto Rico
+
+date: 2024-11-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>'Teatro de Oro' cuenta con la participación de ex-alumnos de la Universidad.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/08/documental-celebra-la-historia-teatral-de-puerto-rico/">Documental celebra la historia teatral de Puerto Rico</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/08/documental-celebra-la-historia-teatral-de-puerto-rico/>
+
+---
+
+## ‘Coach’s Office’ captures nuances of student-athletes
+
+date: 2024-11-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Student artists created a short film that represents the struggles of humanity.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/08/coachs-office-captures-nuances-of-student-athletes/">‘Coach’s Office’ captures nuances of student-athletes</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/08/coachs-office-captures-nuances-of-student-athletes/>
+
+---
+
+## Study abroad photo contest brings the world to USC
+
+date: 2024-11-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The second annual Dornsife competition focused on city, nature and cultural sights.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/08/study-abroad-photo-contest-brings-the-world-to-usc/">Study abroad photo contest brings the world to USC</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/08/study-abroad-photo-contest-brings-the-world-to-usc/>
+
+---
+
+## Carolina Caycedo encanta en su nueva exposición
+
+date: 2024-11-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>La colombiana depicta la injusticia ambiental y la colectividad humana.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/08/carolina-caycedo-encanta-en-su-nueva-exposicion/">Carolina Caycedo encanta en su nueva exposición</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/08/carolina-caycedo-encanta-en-su-nueva-exposicion/>
+
+---
+
+## The Weekly Frame II: Election
+
+date: 2024-11-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Daily Trojan staff photographers took cameras to the campus to capture the tumultuous evening and that which followed.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/08/the-weekly-frame-ii-election/">The Weekly Frame II: Election</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/08/the-weekly-frame-ii-election/>
+
+---
+
+## Don’t wake me from my sleep, my dreams are sweet
+
+date: 2024-11-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Undocumented students are worried that a new Donald Trump presidency will uproot their lives.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/07/dont-wake-me-from-my-sleep-my-dreams-are-sweet/">Don’t wake me from my sleep, my dreams are sweet</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/07/dont-wake-me-from-my-sleep-my-dreams-are-sweet/>
+
+---
+
+## Not your music microtrend
+
+date: 2024-11-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Whether you’re into it or not, EDM is here to stay</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/07/not-your-music-microtrend/">Not your music microtrend</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/07/not-your-music-microtrend/>
+
+---
+
+## The fight to get right
+
+date: 2024-11-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>While the Olympic Games don’t come to L.A. until 2028, Black women are already competing in an extreme sport — obtaining proper hair care. </p>
+<p>The post <a href="https://dailytrojan.com/2024/11/07/the-fight-to-get-right/">The fight to get right</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/07/the-fight-to-get-right/>
+
+---
+
+## What should I eat today?
+
+date: 2024-11-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>An inspiration, a danger and something in between.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/07/what-should-i-eat-today/">What should I eat today?</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/07/what-should-i-eat-today/>
+
+---
+
+## Unofficial Icons of USC
+
+date: 2024-11-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>During midterm season, it’s difficult to find the time to appreciate the little things that make USC a place we love. Rushing between exams, we forget to watch the squirrels in Founder’s Park, treat ourselves to a blueberry matcha at Cafe Dulce or take in the new fall scents at Trader Joe’s.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/07/unofficial-icons-of-usc/">Unofficial Icons of USC</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/07/unofficial-icons-of-usc/>
+
+---
+
+## The LA Difference
+
+date: 2024-11-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Differences in California from the perspective of an out-of-state student</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/07/the-la-difference/">The LA Difference</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/07/the-la-difference/>
+
+---
+
+## Pole Vaulting Through Life
+
+date: 2024-11-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Everyone has different goals in college and I compare this to pole vault sports. Everyone has different heights of poles depending on what their goals are.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/07/pole-vaulting-through-life/">Pole Vaulting Through Life</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/07/pole-vaulting-through-life/>
+
+---
+
+## Seasons in LA
+
+date: 2024-11-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>LA weather, we only have “one season year-round” but cycle through 4 different seasons within a single day.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/07/seasons-in-la/">Seasons in LA</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/07/seasons-in-la/>
+
+---
+
+## The myth of getting better
+
+date: 2024-11-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>My brain damage is permanent. This feeling doesn’t have to be.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/07/the-myth-of-getting-better/">The myth of getting better</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/07/the-myth-of-getting-better/>
+
+---
+
+## Q&A: UCLA Health chief of breast surgery Mediget Teshome talks cancer awareness, care
+
+date: 2024-11-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Nov. 8 at 12:40 a.m.</em>
+Dr. Mediget Teshome, the newly appointed chief of breast surgery for UCLA Health, sat down with science and health editor Shaun Thomas to discuss breast cancer programs, innovative therapies and serving diverse communities. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/07/qa-ucla-health-chief-of-breast-surgery-mediget-teshome-talks-cancer-awareness-care/>
+
+---
+
+## Student Ariel Tan mixes heritage, pop culture in growing musical career
+
+date: 2024-11-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Nov. 11 at 8:35 p.m.</em>
+To reach others through music, Ariel Tan stays true to herself.
+The fourth-year Asian American studies student said she has been writing songs for most of her life. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/07/student-ariel-tan-mixes-heritage-pop-culture-in-growing-musical-career/>
+
+---
+
+## A lawsuit shut Bruin Woods down. Two years later, the reopened camp still has issues.
+
+date: 2024-11-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>Editor&#8217;s note: This article contains descriptions of hazing.</em>
+Alumnus Susan Moore can still recall a picture-perfect day on Lake Arrowhead, laughing with her closest friends while soaking up the sun on a pontoon boat. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/07/a-lawsuit-shut-bruin-woods-down-two-years-later-the-reopened-camp-still-has-issues/>
+
+---
+
+## Threads was next to useless on election night (but that’s kind of the point)
+
+date: 2024-11-07, from: Nieman Journalism Lab
+
+Where did you turn for election night news? The platform formerly known as Twitter? Bluesky? The Meta-owned Threads? Those who chose the latter hoping for timely updates about the presidential election being closely watched in the U.S. and around the world on Tuesday were disappointed. Threads users were confronted with a non-chronological feed that made... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/11/threads-was-next-to-useless-on-election-night-but-thats-kind-of-the-point/>
+
+---
+
+## Google Scholar now adds AI outlines to research papers
+
+date: 2024-11-07, from: Nieman Journalism Lab
+
+Google Search may not get a lot of love these days, but a niche Chrome extension launched in March — Google Scholar PDF Reader — counts 500,000 users who leave largely positive reviews : &#8220;A revolutionary game changer. Considering naming my first-born child after this chrome extension.&#8221; Google&#8217;s promise with the launch of the extension was... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/11/google-scholar-now-adds-ai-outlines-to-research-papers/>
 
 ---
 
@@ -109,7 +505,9 @@ The presidential debate between President-elect Donald Trump and Vice President 
 
 date: 2024-11-07, from: The Daily Bruin (UCLA Student Newspaper)
 
-Led by three co-presidents, Kate Osmundson, a fourth-year biology student, Emmy Quagliani, a fourth-year pyschobiology student, and Paige Paulsen, a fourth-year English student, the All Books and Cheese club serves as an inviting community for students to discuss books and eat cheese. 
+<em>This post was updated Nov. 7 at 9:13 p.m.</em>
+Books can pair well with not only a close-knit community but also a charcuterie board.
+Led by three co-presidents – Kate Osmundson, a fourth-year biology student; Emmy Quagliani, a fourth-year psychobiology student; and Paige Paulsen, a fourth-year English student – the All Books and Cheese club serves as an inviting community for students to discuss books and eat cheese. 
 
 <br> 
 

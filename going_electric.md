@@ -1,11 +1,455 @@
 ---
 title: going electric
-updated: 2024-11-07 08:17:53
+updated: 2024-11-08 07:49:54
 ---
 
 # going electric
 
-(date: 2024-11-07 08:17:53)
+(date: 2024-11-08 07:49:54)
+
+---
+
+## GM is retiring another gas-powered model to make room for the next-gen Chevy Bolt EV
+
+date: 2024-11-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/06/buy-chevy-bolt-ev.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/gm/">GM</a> is retiring another gas-powered car at its Kansas plant to clear room for the next-gen Chevy Bolt EV. The facility will soon house a new “family of Bolt models” as GM brings back the popular, low-cost EV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevy-bolt,general-motors,gm" data-layer-viewtype="unknown" data-post-id="388342" href="https://electrek.co/2024/11/08/gm-retiring-another-gas-car-pave-way-for-new-chevy-bolt-ev/#more-388342" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/08/gm-retiring-another-gas-car-pave-way-for-new-chevy-bolt-ev/>
+
+---
+
+## Tesla launches Cybertruck leases stating at $999 to boost demand
+
+date: 2024-11-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Tesla-Cybertruck-review-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has launched Cybertruck leases starting at $999 a month to boost demand for its electric pickup truck.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="388347" href="https://electrek.co/2024/11/08/tesla-launches-cybertruck-leases-stating-at-999-to-boost-demand/#more-388347" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/08/tesla-launches-cybertruck-leases-stating-at-999-to-boost-demand/>
+
+---
+
+## Rivian Is Still Paying For A Big Mistake
+
+date: 2024-11-08, from: Inside EVs News
+
+The promising electric SUV and truck startup gets more bad financial news in Q3.  
+
+<br> 
+
+<https://insideevs.com/news/740352/rivian-q3-financial-profit/>
+
+---
+
+## E1 shares season 2 electric boat racing calendar after Team Brady wins the inaugural championship
+
+date: 2024-11-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/E1-racing-calendar-Team-Brady.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Young <a href="https://electrek.co/guides/e1-series/">electric boat racing series E1</a> capped off its inaugural season last month with the first championship going to a team led by someone who knows how to win – Tom Brady. As we approach the new year, E1’s focus is on season 2, and it has shared the tentative racing calendar, which includes seven Grand Prix events scattered worldwide, including a race in the USA.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="e1,e1-series,electric-boat-racing,uim-e1-world-championship" data-layer-viewtype="unknown" data-post-id="388317" href="https://electrek.co/2024/11/08/e1-season-2-electric-boat-racing-calendar-team-brady-championship/#more-388317" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/08/e1-season-2-electric-boat-racing-calendar-team-brady-championship/>
+
+---
+
+## Hyundai’s upgraded 2025 IONIQ 5 starts at under $44,000 with more range and an NACS port
+
+date: 2024-11-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Hyundai-US-made-IONIQ-5-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai officially announced prices and EPA range estimates for the new 2025 IONIQ 5. The upgraded <a href="https://electrek.co/guides/hyundai-ioniq-5/">IONIQ 5</a> is Hyundai’s first EV with an NACS port, so you can charge up at Tesla’s extensive Supercharger network. With more range, features, and trim options than ever, the electric SUV is an improvement in every way.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-5" data-layer-viewtype="unknown" data-post-id="388315" href="https://electrek.co/2024/11/08/2025-hyundai-ioniq-5-starts-44k-more-range-nacs-port/#more-388315" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/08/2025-hyundai-ioniq-5-starts-44k-more-range-nacs-port/>
+
+---
+
+## It’s brutal out there: Audi to slash 4,500 jobs
+
+date: 2024-11-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Volkswagen-Audi-plant.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Following the news of sweeping cuts at Volkswagen, Nissan, and Stellantis, now VW-owned Audi announced plans to slash its workforce by 15%, with thousands of jobs on the chopping block.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="audi,audi-e-tron,volkswagen,volkswagen-group" data-layer-viewtype="unknown" data-post-id="388319" href="https://electrek.co/2024/11/08/its-brutal-out-there-audi-to-slash-4500-jobs/#more-388319" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/08/its-brutal-out-there-audi-to-slash-4500-jobs/>
+
+---
+
+## Hyundai's Ioniq 5 Is A Charging Hero. Here's How It Does On A Tesla Supercharger
+
+date: 2024-11-08, from: Inside EVs News
+
+The Tesla NACS revolution comes to the Hyundai Ioniq 5. Here's how Hyundai engineers worked to get charging speeds just right. 
+
+<br> 
+
+<https://insideevs.com/news/740270/hyundai-ioniq-5-tesla-nacs/>
+
+---
+
+## The 2025 Hyundai Ioniq 5 Starts At $43,975, XRT At $56,875
+
+date: 2024-11-08, from: Inside EVs News
+
+The refreshed, U.S.-made Ioniq 5 is eligible for a $3,750 tax credit when purchasing. It also gets a bigger battery and more range. 
+
+<br> 
+
+<https://insideevs.com/news/740292/2025-hyundai-ioniq-5-pricing-specs-features/>
+
+---
+
+## This vintage-themed electric bike and sidecar screams old-school style
+
+date: 2024-11-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/mod-easy-sidecar-sahara-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>What happens when you take perhaps the most popular sidecar electric bike in the US and combine it with vintage BMW motorcycle vibes? You get the new MOD Easy Sidecar Sahara, based on the iconic 1940s BMW R 75 Sahara.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="388243" href="https://electrek.co/2024/11/08/this-vintage-themed-electric-bike-and-sidecar-screams-old-school-style/#more-388243" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/08/this-vintage-themed-electric-bike-and-sidecar-screams-old-school-style/>
+
+---
+
+## Will Trump blow up Canada’s $50 billion EV sector?
+
+date: 2024-11-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/12/pexels-photo-2448946.jpeg?quality=82&#038;strip=all&#038;w=1500" /></div><p>Canada has secured more than $50 billion in EV-related investment over the past three years, all gearing up for US demand, with Canada’s economy “deeply intertwined” with the US – but Trump may throw a major wrench into the plan. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="canada,donald-trump" data-layer-viewtype="unknown" data-post-id="388306" href="https://electrek.co/2024/11/08/will-trump-blow-up-canadas-50-billion-ev-sector/#more-388306" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/08/will-trump-blow-up-canadas-50-billion-ev-sector/>
+
+---
+
+## Bentley to launch its first EV – a sleek urban SUV – in 2026
+
+date: 2024-11-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/02/Bentley-12-cylinder-electric.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Finally, Bentley says it has found the winning formula to giving an all-electric vehicle the Bentley stamp of approval. It’ll scream luxury and likely cost a bloody fortune. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bentley" data-layer-viewtype="unknown" data-post-id="388299" href="https://electrek.co/2024/11/08/bentley-to-launch-its-first-ev-a-sleek-urban-suv-in-2026/#more-388299" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/08/bentley-to-launch-its-first-ev-a-sleek-urban-suv-in-2026/>
+
+---
+
+## An Electric Mazda Miata Successor Is In The Works–With A Rotary Gas Engine
+
+date: 2024-11-08, from: Inside EVs News
+
+The gorgeous Iconic SP concept from last year was designed to be easily turned into a production car. 
+
+<br> 
+
+<https://insideevs.com/news/740310/mazda-miata-electric-successor-iconic-sp-concept/>
+
+---
+
+## 2026 Rivian R2 Will Get New LG Cells With 'Six Times' The Capacity
+
+date: 2024-11-08, from: Inside EVs News
+
+Korean battery giant LG Energy Solution will supply next-generation U.S. made battery packs for the Tesla Model Y rival. 
+
+<br> 
+
+<https://insideevs.com/news/740256/rivian-r2-lges-battery-deal-4695-cells/>
+
+---
+
+## LG Energy Solution to provide Rivian 4695 cylindrical batteries produced in the US for the R2
+
+date: 2024-11-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Rivian-R2-pre-orders.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Battery manufacturer LG <a href="https://electrek.co/guides/lg-energy-solutions/">Energy Solution</a> just announced that its Arizona subsidiary has signed a long-term supply agreement with US automaker Rivian for 4695 cylindrical batteries. The cells will be produced at LG Energy Solution Arizona’s new standalone US facility beginning next year and will power Rivian’s upcoming R2 BEVs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-batteries,lg-energy-solutions,rivian,rivian-r2" data-layer-viewtype="unknown" data-post-id="388239" href="https://electrek.co/2024/11/07/lg-energy-solution-to-provide-rivian-4695-cylindrical-batteries-produced-in-the-us-for-the-r2/#more-388239" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/07/lg-energy-solution-to-provide-rivian-4695-cylindrical-batteries-produced-in-the-us-for-the-r2/>
+
+---
+
+## Silicon Anode EV Batteries Are The Real Deal, But It's Complicated
+
+date: 2024-11-07, from: Inside EVs News
+
+Silicon anodes are arriving in electric vehicles soon, but they still have pros and cons.  
+
+<br> 
+
+<https://insideevs.com/news/740255/silicon-anode-batteries-advantages-evs/>
+
+---
+
+## Lucid (LCID) has funding for ‘well into 2026’ after Gravity SUV launch, record Q3
+
+date: 2024-11-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Lucids-first-Gravity.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/lucid-motors/">Lucid Motors</a> (LCID) announced it has enough funding for “well into 2026” after releasing third-quarter earnings. After its third straight quarter of record deliveries, Lucid will begin building its first electric SUV, the Gravity, later this year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-motors" data-layer-viewtype="unknown" data-post-id="388284" href="https://electrek.co/2024/11/07/lucid-lcid-has-funding-well-into-2026-after-gravity-suv/#more-388284" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/07/lucid-lcid-has-funding-well-into-2026-after-gravity-suv/>
+
+---
+
+## Mexico Is Asking Where Its Tesla Giga Factory Went
+
+date: 2024-11-07, from: Inside EVs News
+
+Two years later and Giga Mexico is still a nothing burger. Did Mexico get Musked? 
+
+<br> 
+
+<https://insideevs.com/news/740235/tesla-mexico-gigafactory-status-musk/>
+
+---
+
+## IEA: Countries need to ramp up energy efficiency to hit 2030 target
+
+date: 2024-11-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/01/processed-CC255F19-CE49-4C3B-B76C-F6B48A61D458-scaled-1.jpg?quality=82&#038;strip=all&#038;w=1500" /></div><p>Faster progress on energy efficiency is crucial if we’re going to meet the global 2030 goal, but a year after countries pledged at COP28 to double energy efficiency improvements by 2030, the International Energy Agency (IEA) says we’re still falling short.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,electric-vehicles,energy-efficiency,solar" data-layer-viewtype="unknown" data-post-id="388255" href="https://electrek.co/2024/11/07/iea-energy-efficiency-2030-target/#more-388255" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/07/iea-energy-efficiency-2030-target/>
+
+---
+
+## Rivian (RIVN) hits a road bump in third-quarter earnings, but things are looking up from here
+
+date: 2024-11-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Rivian-R2-pre-orders.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>EV maker <a href="https://electrek.co/guides/rivian/">Rivian</a> (RIVN) released its third-quarter financial earnings Thursday after the market closed. With fewer deliveries in the quarter, Rivian’s revenue missed expectations. However, the EV maker promises things are looking up from here. Here’s a breakdown of Rivian’s Q3 2024 financial earnings</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian" data-layer-viewtype="unknown" data-post-id="388251" href="https://electrek.co/2024/11/07/rivian-rivn-hits-road-bump-q3-but-things-are-looking-up/#more-388251" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/07/rivian-rivn-hits-road-bump-q3-but-things-are-looking-up/>
+
+---
+
+## You've Never Seen An Audi Like This Before
+
+date: 2024-11-07, from: Inside EVs News
+
+Audi needs some wins in China. This wagon aims to do that 764 horsepower and 435 miles of electric range. 
+
+<br> 
+
+<https://insideevs.com/news/740248/audi-e-concept-shanghai-china/>
+
+---
+
+## Xpeng Has Only Ever Made EVs. Now It Wants To Do Gas Range Extenders
+
+date: 2024-11-07, from: Inside EVs News
+
+The Chinese automaker says you won’t even be able to hear the engine running with its new Kunpeng Super Electric System. 
+
+<br> 
+
+<https://insideevs.com/news/740227/xpeng-confirms-range-extender-ev/>
+
+---
+
+## Used electric car deals are coming as lease returns expected to surge
+
+date: 2024-11-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2018/04/screen-shot-2018-04-20-at-1-42-27-pm-e1524246224767.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>We might start to get some great used electric car deals starting in 2026 as EV lease returns are expected to surge in a big way.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="evs" data-layer-viewtype="unknown" data-post-id="388237" href="https://electrek.co/2024/11/07/used-electric-car-deals-are-coming-as-lease-returns-expected-to-surge/#more-388237" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/07/used-electric-car-deals-are-coming-as-lease-returns-expected-to-surge/>
+
+---
+
+## Jackery Black Friday 50% off, Rad Power e-bike sale, exclusive EcoFlow DELTA Pro bundles $2,400 off, more
+
+date: 2024-11-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/US_1920_640.png?w=1600" /></div><p>Leading today’s Green Deals is <a href="https://9to5toys.com/2024/11/06/jackery-early-black-friday-sale-2024/">Jackery’s early Black Friday sale</a> that is taking up to 50% off power stations – both directly from its site and through its Amazon storefront – with prices starting from <a href="https://9to5toys.com/2024/11/06/jackery-early-black-friday-sale-2024/">$90</a>. Following right behind is the next iteration of Rad Power’s November sales, which is offering up to $300 in savings, and has its errand-running sidekick, the <a href="https://9to5toys.com/2024/11/07/rad-power-radrunner-plus-1699-free-gear/">RadRunner Plus Utility e-bike at $1,699</a> with a free accessory promotion, among others. Next, we have two exclusive <a href="https://9to5toys.com/2024/11/07/ecoflows-delta-pro-exclusive-bundles/">EcoFlow DELTA Pro solar generator bundles</a> that are beating out EcoFlow’s own Black Friday rates while they last, starting from <a href="https://9to5toys.com/2024/11/07/ecoflows-delta-pro-exclusive-bundles/">$1,899</a>. We also have the <a href="https://9to5toys.com/2024/11/07/greenworks-mower-trimmer-blower-combo-570/">best one-day sale to date</a> on Greenworks’ 80V 21-inch Mower, 13-inch String Trimmer, and 730 CFM Lear Blower combo that is down at a new <a href="https://9to5toys.com/2024/11/07/greenworks-mower-trimmer-blower-combo-570/">$570 low</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s early access Black Friday sales from <a href="https://9to5toys.com/2024/11/06/bluettis-early-access-black-friday-sale/">Bluetti</a>, <a href="https://9to5toys.com/2024/11/05/electric-bike-co-black-friday-special-chopper/">Electric Bike Co.</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="388207" href="https://electrek.co/2024/11/07/jackery-black-friday-rad-power-exclusive-ecoflow-bundles/#more-388207" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/07/jackery-black-friday-rad-power-exclusive-ecoflow-bundles/>
+
+---
+
+## Royal Enfield unveils new electric motorcycle – and its the perfect type
+
+date: 2024-11-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/royal-enfield-flying-flea-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Royal Enfield’s biggest announcement at EICMA 2024 – the Milan Motorcycle Show – was undoubtedly the drop of its new electric motorcycle, the Flying Flea C6 and S6.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-motorcycle" data-layer-viewtype="unknown" data-post-id="388114" href="https://electrek.co/2024/11/07/royal-enfield-unveils-new-electric-motorcycle-and-its-the-perfect-type/#more-388114" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/07/royal-enfield-unveils-new-electric-motorcycle-and-its-the-perfect-type/>
+
+---
+
+## Hyundai’s three-row IONIQ 9 SUV inches closer to big debut after revealing new US sighting
+
+date: 2024-11-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Hyundai-IONIQ-9-camo-side.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>We will finally see Hyundai’s first three-row electric SUV later this month. Ahead of its big day, The <a href="https://electrek.co/guides/hyundai/">Hyundai</a> IONIQ 9 SUV was spotted in California wearing barely any camouflage. The new sighting gives us our closest look yet.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="388194" href="https://electrek.co/2024/11/07/hyundai-ioniq-9-inches-closer-big-debut-new-us-sighting/#more-388194" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/07/hyundai-ioniq-9-inches-closer-big-debut-new-us-sighting/>
+
+---
+
+## Volvo EV owners can now charge at Tesla Superchargers
+
+date: 2024-11-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Volvo-supercharger.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Volvo Cars is opening access to Tesla Superchargers in the US and Canada for its EVs, including its new EX90 flagship SUV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="supercharger,tesla,tesla-supercharger,volvo" data-layer-viewtype="unknown" data-post-id="388196" href="https://electrek.co/2024/11/07/volvo-ev-owners-can-now-charge-at-tesla-superchargers/#more-388196" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/07/volvo-ev-owners-can-now-charge-at-tesla-superchargers/>
+
+---
+
+## Kia PV5 WKNDR EV's 'Hydro Turbine' Wheels Can Generate Electricity With Air Or Water
+
+date: 2024-11-07, from: Inside EVs News
+
+Kia’s latest off-road electric van concept showcased at SEMA stretches the boundaries of imagination. 
+
+<br> 
+
+<https://insideevs.com/news/740219/kia-pv5-wkndr-ev-van-sema/>
+
+---
+
+## Ford is the fastest-growing auto brand in Saudi Arabia ahead of upcoming overseas EV push
+
+date: 2024-11-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Ford-Saudi-Arabia.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Ford is gearing up to launch new EVs overseas as it battles for global market share. Ahead of its EV blitz, <a href="https://electrek.co/guides/ford/">Ford</a> is currently the fastest-growing auto brand in Saudi Arabia. The American automaker is laying the groundwork for “an electrified future” in The Middle East.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford" data-layer-viewtype="unknown" data-post-id="388173" href="https://electrek.co/2024/11/07/ford-is-fastest-growing-auto-brand-saudi-arabia/#more-388173" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/07/ford-is-fastest-growing-auto-brand-saudi-arabia/>
+
+---
+
+## Review: The AWD Fucare Gemini X electric moped has dual batteries and attitude
+
+date: 2024-11-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/fucare-ebike-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Fucare electric bikes <a href="https://electrek.co/2022/07/08/fucare-gemini-x-review-electric-bike/">I’ve tested in the past</a> have largely been fast and powerful machines, but always within the realm of reason. Apparently, that streak has come to an end with the new <a href="https://fucarebike.com/products/fucare-gemini-x-sport-dual-motor-ebike">Fucare Gemini X Sport Dual Motor Dual Battery</a> electric bike, which throws reason to the wind with so much power and speed that you can’t really call it much of an electric ‘bicycle’ anymore.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,review" data-layer-viewtype="unknown" data-post-id="386579" href="https://electrek.co/2024/11/07/review-the-awd-fucare-gemini-x-electric-moped-has-dual-batteries-and-attitude/#more-386579" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/07/review-the-awd-fucare-gemini-x-electric-moped-has-dual-batteries-and-attitude/>
+
+---
+
+## XPeng Motors officially launches P7+ BEV starting at $26,150 and capable of up to 441 mile range
+
+date: 2024-11-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/XPeng-P7-launch.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>As promised, <a href="https://electrek.co/guides/xpeng/">XPeng Motors</a> followed yesterday’s annual Tech Day event with the launch of its next all-electric model, the P7+. The sleek sedan arrives priced below previous pre-order numbers and is loaded with AI-centric technology while providing multiple battery chemistries to offer varying ranges.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="xpeng,xpeng-motors,xpeng-p7" data-layer-viewtype="unknown" data-post-id="388141" href="https://electrek.co/2024/11/07/xpeng-motors-launches-p7-starting-at-26100-441-mile-range/#more-388141" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/07/xpeng-motors-launches-p7-starting-at-26100-441-mile-range/>
 
 ---
 
@@ -13,7 +457,7 @@ updated: 2024-11-07 08:17:53
 
 date: 2024-11-07, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Nissan-LEAF-sales.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Nissan is in full-throttle emergency mode to save itself: the automaker is cutting 9,000 jobs, slashing production capacity, and selling off its stake in Mitsubishi Motors. The CEO is also reducing his own salary by half.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Nissan-LEAF-sales.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Nissan is in full-scale emergency mode to save itself: the automaker is cutting 9,000 jobs, slashing production capacity, and selling off its stake in Mitsubishi Motors. The CEO is also reducing his own salary by half.</p>
 
 
 

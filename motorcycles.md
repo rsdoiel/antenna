@@ -1,11 +1,97 @@
 ---
 title: motorcycles
-updated: 2024-11-07 08:17:52
+updated: 2024-11-08 07:49:53
 ---
 
 # motorcycles
 
-(date: 2024-11-07 08:17:52)
+(date: 2024-11-08 07:49:53)
+
+---
+
+## I'm Not Sure This Classifies as an ATV, Folks
+
+date: 2024-11-08, from: Ride Apart, Electric Motorcycle News
+
+Webster's dictionary defines ATV as... 
+
+<br> 
+
+<https://www.rideapart.com/news/740237/atlas-atv-for-sale/>
+
+---
+
+## Kenny Roberts To Manage MotoAmerica Talent Cup Team, Flat Track’s Not Dead
+
+date: 2024-11-08, from: Ride Apart, Electric Motorcycle News
+
+The King is back, nurturing the next generation of motorcycle talent from the US. 
+
+<br> 
+
+<https://www.rideapart.com/news/740246/kenny-roberts-team-owner-talent-cup-motoamerica/>
+
+---
+
+## Lambretta J StarWave Isn't A New Transformer, It's a Stylish Scooter
+
+date: 2024-11-08, from: Ride Apart, Electric Motorcycle News
+
+Googie gleam without the stilts, celebrating the 60th anniversary of the original Lambretta J. 
+
+<br> 
+
+<https://www.rideapart.com/news/740247/lambretta-j-starwave-125-200/>
+
+---
+
+## '3 Old Guys' Did a 5,000-mile Snowmobile Trip, Went From Minnesota to Alaska
+
+date: 2024-11-08, from: Ride Apart, Electric Motorcycle News
+
+I suddenly feel the urge to put together an expedition.  
+
+<br> 
+
+<https://www.rideapart.com/news/740233/3-old-guys-snowmobile-trip-5000-miles-alaska/>
+
+---
+
+## Sigh, Honda’s Totally Badass New EV Motorcycles Don’t Get Swappable Batteries
+
+date: 2024-11-08, from: Ride Apart, Electric Motorcycle News
+
+Not integrating the Mobile Power Pack e: is Honda’s missed opportunity of the century. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/740102/honda-ev-concepts-eicma-2024/>
+
+---
+
+## Fantic’s New Stealth Naked Streetfighter Reminds Me Of the Ducati MH900e
+
+date: 2024-11-08, from: Ride Apart, Electric Motorcycle News
+
+Its aggressive lines and overall stance conjure up images of the rare sportbike, at least for me. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/740103/fantic-stealth-125-500-debut-eicma-2024/>
+
+---
+
+## Ducati’s Baby V2 and V2S Panigale Look Way Better Than the Big V4 Does
+
+date: 2024-11-07, from: Ride Apart, Electric Motorcycle News
+
+They bring you back to a time before road bikes had winglets. We didn't know how good we had it. 
+
+<br> 
+
+<https://www.rideapart.com/news/740099/ducati-v2-v2s-panigale-specs/>
 
 ---
 
