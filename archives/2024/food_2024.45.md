@@ -1,11 +1,141 @@
 ---
 title: food
-updated: 2024-11-08 07:49:54
+updated: 2024-11-10 09:48:05
 ---
 
 # food
 
-(date: 2024-11-08 07:49:54)
+(date: 2024-11-10 09:48:05)
+
+---
+
+## The Best Gluten-Free Gifts for Everyone on Your List
+
+date: 2024-11-10, from: Bon Appetet
+
+Because the holiday season can still be fun even if you’re not eating gluten. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-gluten-free-gifts>
+
+---
+
+## The November Cook With Bon Appétit Box Upgrades Your Dinner Plans
+
+date: 2024-11-10, from: Bon Appetet
+
+The juiciest London Broil, extra-eggy fried rice with salmon, speedy lime chicken, and more recipes you'll make again and again 
+
+<br> 
+
+<https://www.bonappetit.com/story/bon-appetit-box-4>
+
+---
+
+## The Least You Can Do Is Make Me Coffee In The Morning—Buy Now From Sprudge’s Weekly Suggestions!
+
+date: 2024-11-10, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. We get asked by friends and family where to buy coffee a lot. It&#8217;s a tough question! It&#8217;s easy to lose track of just how many incredible, fresh, vibrant coffees [&#8230;] 
+
+<br> 
+
+<https://sprudge.com/the-least-you-can-do-is-make-me-coffee-in-the-morning-buy-now-from-sprudges-weekly-suggestions-258512.html>
+
+---
+
+## Slow Cooker Recipes
+
+date: 2024-11-10, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2018/01/50-Slow-Cooker-Recipes.jpg"/></div>
+<p>Who doesn?t love a slow cooker? I mean what&#8217;s not to love? You throw the ingredients in one in the morning and you have a meal waiting for you when you get home from work. In addition to cooking meals it&#8217;s great for keeping things warm, say at potluck?s, or dips at a party or...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/slow-cooker-recipes/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/slow-cooker-recipes/">Slow Cooker Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/slow-cooker-recipes/>
+
+---
+
+## 7 Pro Tips for the Best Thanksgiving Charcuterie Board
+
+date: 2024-11-09, from: Bon Appetet
+
+Rule number one: Assemble, don’t cook. 
+
+<br> 
+
+<https://www.bonappetit.com/story/thanksgiving-charcuterie-board-ideas-article>
+
+---
+
+## This Historic Recipe Subscription Is the Perfect Gift for Cooks Who Have Everything
+
+date: 2024-11-08, from: Taste of Home
+
+<p>Know a home cook that has it all? A Recipes By Mail subscription is the perfect way to surprise them—and it keeps on giving!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/recipes-by-mail-subscription/">This Historic Recipe Subscription Is the Perfect Gift for Cooks Who Have Everything</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/recipes-by-mail-subscription/>
+
+---
+
+## When Is Red Cup Day at Starbucks This Year?
+
+date: 2024-11-08, from: Taste of Home
+
+<p>Red Cup Day is a Starbucks tradition. Why hasn't the date officially been announced for 2024?</p>
+<p>The post <a href="https://www.tasteofhome.com/article/starbucks-red-cup-day-2024/">When Is Red Cup Day at Starbucks This Year?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/starbucks-red-cup-day-2024/>
+
+---
+
+## I Tried the Viral ‘Onion Boil’ Recipe and It’s Worth the Hype
+
+date: 2024-11-08, from: Taste of Home
+
+<p>If you love onions (or butter), you need to try an onion boil. It's downright delicious.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/i-tried-the-viral-onion-boil-recipe-and-its-worth-the-hype/">I Tried the Viral &#8216;Onion Boil&#8217; Recipe and It&#8217;s Worth the Hype</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/i-tried-the-viral-onion-boil-recipe-and-its-worth-the-hype/>
+
+---
+
+## Column: Understanding Brazil’s Dual Influence on the Global Coffee Market
+
+date: 2024-11-08, from: Daily Coffee News
+
+<div><img width="620" height="441" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Brazil-cafe-1-620x441.jpg" class="attachment-large size-large wp-post-image" alt="Brazil cafe" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Brazil-cafe-1-620x441.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Brazil-cafe-1-300x213.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Brazil-cafe-1-150x107.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Brazil-cafe-1-768x546.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Brazil-cafe-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>[Publisher&#8217;s note: This is Part 1 of a short series of stories by guest author Jonas Ferraresso exploring some of the intricacies of the Brazilian coffee market and Brazil&#8217;s outsize... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/11/08/column-understanding-brazils-dual-influence-on-the-global-coffee-market/>
+
+---
+
+## Weekly Coffee News: Brazil Research Farm in Danger + La Marzocco and Mohlkönig Sync
+
+date: 2024-11-08, from: Daily Coffee News
+
+<div><img width="620" height="434" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/IAC-Brazil-Coffee-620x434.jpg" class="attachment-large size-large wp-post-image" alt="IAC Brazil Coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/IAC-Brazil-Coffee-620x434.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/IAC-Brazil-Coffee-300x210.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/IAC-Brazil-Coffee-150x105.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/IAC-Brazil-Coffee-768x538.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/IAC-Brazil-Coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. São Paolo Government Considering Selling Key Research Farmland in... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/11/08/weekly-coffee-news-brazil-research-farm-in-danger-la-marzocco-and-mohlkonig-sync/>
 
 ---
 
@@ -209,7 +339,7 @@ Beautifully blooming loose leaf teas, display-worthy kettles, and self-warming m
 
 date: 2024-11-07, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Colombia-coffee-harvest-picking-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Colombia coffee harvest picking" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Colombia-coffee-harvest-picking-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Colombia-coffee-harvest-picking-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Colombia-coffee-harvest-picking-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Colombia-coffee-harvest-picking-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Colombia-coffee-harvest-picking.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Colombian coffee industry is currently in the middle of its main annual harvest. As the third largest coffee producing nation in the world, achieving a successful harvest for producers... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Colombia-coffee-harvest-picking-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Colombia coffee harvest picking" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Colombia-coffee-harvest-picking-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Colombia-coffee-harvest-picking-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Colombia-coffee-harvest-picking-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Colombia-coffee-harvest-picking-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Colombia-coffee-harvest-picking.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Colombian coffee industry is currently in the middle of its main annual harvest. As the third largest coffee producing nation in the world, achieving a successful harvest for producers... 
 
 <br> 
 
@@ -221,7 +351,7 @@ date: 2024-11-07, from: Daily Coffee News
 
 date: 2024-11-07, from: Daily Coffee News
 
-<div><img width="620" height="432" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/Odysea-Coffee-NH-bar-1-620x432.jpg" class="attachment-large size-large wp-post-image" alt="Odysea Coffee NH bar" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/Odysea-Coffee-NH-bar-1-620x432.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Odysea-Coffee-NH-bar-1-300x209.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Odysea-Coffee-NH-bar-1-150x104.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Odysea-Coffee-NH-bar-1-768x535.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Odysea-Coffee-NH-bar-1.jpg 1179w" sizes="(max-width: 620px) 100vw, 620px" /></div>With its first cafe now open in Bristol, New Hampshire, Odysea Coffee Roasters is connecting one of its founder&#8217;s roots in Honduras to another founder&#8217;s roots in New England. Occupying... 
+<div><img width="620" height="432" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/Odysea-Coffee-NH-bar-1-620x432.jpg" class="attachment-large size-large wp-post-image" alt="Odysea Coffee NH bar" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/Odysea-Coffee-NH-bar-1-620x432.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Odysea-Coffee-NH-bar-1-300x209.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Odysea-Coffee-NH-bar-1-150x104.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Odysea-Coffee-NH-bar-1-768x535.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Odysea-Coffee-NH-bar-1.jpg 1179w" sizes="(max-width: 620px) 100vw, 620px" /></div>With its first cafe now open in Bristol, New Hampshire, Odysea Coffee Roasters is connecting one of its founder&#8217;s roots in Honduras to another founder&#8217;s roots in New England. Occupying... 
 
 <br> 
 
@@ -399,7 +529,7 @@ Instead of roasting, toss your brassicas in a skillet for a quick side dish.
 
 date: 2024-11-06, from: Daily Coffee News
 
-<div><img width="620" height="497" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-brew-1-620x497.jpg" class="attachment-large size-large wp-post-image" alt="coffee brew" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-brew-1-620x497.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-brew-1-300x240.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-brew-1-150x120.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-brew-1-768x616.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-brew-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Moderate coffee and tea consumption may help protect people with high blood pressure from developing dementia, according to a major new study. Published Sept. 10 in Nature&#8217;s Scientific Reports, the... 
+<div><img width="620" height="497" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-brew-1-620x497.jpg" class="attachment-large size-large wp-post-image" alt="coffee brew" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-brew-1-620x497.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-brew-1-300x240.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-brew-1-150x120.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-brew-1-768x616.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-brew-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Moderate coffee and tea consumption may help protect people with high blood pressure from developing dementia, according to a major new study. Published Sept. 10 in Nature&#8217;s Scientific Reports, the... 
 
 <br> 
 
@@ -651,7 +781,7 @@ At Sly Fox Den Too, her restaurant in Rhode Island, chef Sherry Pocknett carries
 
 ---
 
-## 27 Best KitchenAid Black Friday Deals of 2024 to Mix It Up
+## 30 Best KitchenAid Black Friday Deals of 2024 to Mix It Up
 
 date: 2024-11-04, from: Bon Appetet
 

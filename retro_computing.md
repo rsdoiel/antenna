@@ -1,11 +1,47 @@
 ---
 title: retro computing
-updated: 2024-11-08 07:49:53
+updated: 2024-11-10 09:48:05
 ---
 
 # retro computing
 
-(date: 2024-11-08 07:49:53)
+(date: 2024-11-10 09:48:05)
+
+---
+
+## b.log 2024/11/09 - Winter is coming, That was odd, Speaking of Gloom, An expense but useful?, The Elite.
+
+date: 2024-11-09, from: Richard Murray's blog
+
+Winter is coming, That was odd, Speaking of Gloom, An expense but useful?, The Elite. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20241109>
+
+---
+
+## Expanding the MC6847: Deciphering the Interface
+
+date: 2024-11-09, from: Retro Innovations blog
+
+Having found some external fonts used with a MC6847 lowercase modification from &#8220;back in the day&#8221; (the lowerkit product from Green Mountain Micro) and converting them into ROM-burnable images, I determined a ROM font was composed of 12 bytes of font bitmap data, with 4 bytes of &#8220;padding&#8221; to align font data on 16 byte &#8230; <a href="https://www.go4retro.com/2024/11/08/expanding-the-mc6847-deciphering-the-interface/" class="more-link">Continue reading <span class="screen-reader-text">Expanding the MC6847: Deciphering the Interface</span></a> 
+
+<br> 
+
+<https://www.go4retro.com/2024/11/08/expanding-the-mc6847-deciphering-the-interface/>
+
+---
+
+## Grim Fandango
+
+date: 2024-11-08, from: Digital Antiquarian
+
+My one big regret was the PlayStation version [of Broken Sword]. No one thought it would sell, so we kept it like the PC version. In hindsight, I think if we had introduced direct control in this game, it would have been enormous. &#8212; Charles Cecil of Revolution Software, speaking from the Department of Be [&#8230;] 
+
+<br> 
+
+<https://www.filfre.net/2024/11/grim-fandango/>
 
 ---
 

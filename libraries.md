@@ -1,11 +1,48 @@
 ---
 title: libraries
-updated: 2024-11-08 07:49:53
+updated: 2024-11-10 09:48:04
 ---
 
 # libraries
 
-(date: 2024-11-08 07:49:53)
+(date: 2024-11-10 09:48:04)
+
+---
+
+## Formation of a GNSS network in space based on geodetic satellite missions
+
+date: 2024-11-10, from: ETH Zurich, recently added
+
+Müller, Lukas; Rothacher, Markus; Soja, Benedikt; Jäggi, Adrian; Arnold, Daniel 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/704477>
+
+---
+
+## Coffee Lecture: Protecting Yourself from Fraudulent Publishers
+
+date: 2024-11-09, from: ETH Zurich Research Archives
+
+Visit or Coffee Lecture on 27 November. Read more<img src="https://analytics.library.ethz.ch/piwik.php?idsite=1&amp;rec=1&amp;url=https%3A%2F%2Frc-blog.ethz.ch%2Fen%2Fcoffee-lecture-protecting-yourself-from-fraudulent-publishers%2F&amp;action_name=Coffee+Lecture%3A+Protecting+Yourself+from+Fraudulent+Publishers&amp;urlref=https%3A%2F%2Frc-blog.ethz.ch%2Fen%2Ffeed%2F" style="border:0;width:0;height:0" width="0" height="0" alt="" /> 
+
+<br> 
+
+<https://rc-blog.ethz.ch/en/coffee-lecture-protecting-yourself-from-fraudulent-publishers/>
+
+---
+
+## Accessibility in the SciELO Program: current status and future prospects – Part 1
+
+date: 2024-11-08, from: SciELO in Perspective
+
+<p>The SciELO Accessibility Interdisciplinary Working Group has been developing actions for the production and dissemination of open science with accessibility, making improvements to the sites that use the SciELO methodology, awareness-raising activities and partnerships with publishing teams. These and other practices are planned for the next four years. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://blog.scielo.org/en/2024/11/08/accessibility-in-the-scielo-program-pt-1/" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://blog.scielo.org/en/2024/11/08/accessibility-in-the-scielo-program-pt-1/">Accessibility in the SciELO Program: current status and future prospects – Part 1</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p> 
+
+<br> 
+
+<https://blog.scielo.org/en/2024/11/08/accessibility-in-the-scielo-program-pt-1/>
 
 ---
 
@@ -164,6 +201,18 @@ date: 2024-11-06, from: Crossref Blog
 <br> 
 
 <https://www.crossref.org/blog/how-good-is-your-matching/>
+
+---
+
+## Entrepreneurship Under Uncertainty: Insights into Construction Robotics
+
+date: 2024-11-06, from: ETH Zurich, recently added
+
+Walzer, Alexander N. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/704476>
 
 ---
 

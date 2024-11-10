@@ -1,11 +1,47 @@
 ---
 title: ham radio
-updated: 2024-11-08 07:49:51
+updated: 2024-11-10 09:48:02
 ---
 
 # ham radio
 
-(date: 2024-11-08 07:49:51)
+(date: 2024-11-10 09:48:02)
+
+---
+
+## 2024 ARRL Field Day Results Published
+
+date: 2024-11-08, from: Amateur Radio Relay League News
+
+<p><span>Results are published, and the numbers are in. They paint a picture of a very active 2024 ARRL Field Day. Nearly 1.3 million contacts were reported during the 24-hour event. That is up from 2023’s 1.25 million contacts. That’s likely indicative of the continued rise of Solar Cycle 25 leading up to the event, but more people also participated this year.</span></p><p><span>Entries were received from all 85 ARRL and ...</span></p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/2024-arrl-field-day-results-published>
+
+---
+
+## Rare California Island to be Activated for Armed Forces Day, First Time in 53 Years
+
+date: 2024-11-08, from: Amateur Radio Relay League News
+
+<p>On Armed Forces Day, May 1971, 53 years ago, two amateur operators working as WZ6SNI, activated San Nicolas Island, IOTA NA-066. At 61 miles, San Nicolas is the most remote of the Channel Islands off the coast of Southern California and is owned by the US Navy.</p><p></p><p>Now, weather permitting, Will Costello, WC6DX, has been authorized to be active from San Nicolas Island November 8 - 12, 2024. He is tak...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/rare-california-island-to-be-activated-for-armed-forces-day-first-time-in-53-years>
+
+---
+
+## Amateur Radio Activated for Late Season Hurricane
+
+date: 2024-11-08, from: Amateur Radio Relay League News
+
+<p>A rare November hurricane made landfall in western Cuba as a Category 3 storm Wednesday and continued to move slowly toward the northwest Thursday morning. Volunteer ham radio operators were there to provide surface reports to the National Hurricane Center in Miami.</p><p>Hurricane Rafael left Cuba’s 10 million residents without power and on Thursday afternoon was a Category 2 storm moving away from C...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/amateur-radio-activated-for-late-season-hurricane>
 
 ---
 

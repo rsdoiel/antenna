@@ -1,11 +1,301 @@
 ---
 title: home
-updated: 2024-11-08 07:49:53
+updated: 2024-11-10 09:48:04
 ---
 
 # home
 
-(date: 2024-11-08 07:49:53)
+(date: 2024-11-10 09:48:04)
+
+---
+
+## Reasons and Fixes for Drooping Amaryllis Leaves
+
+date: 2024-11-10, from: The Gardener's Path
+
+<p>Amaryllis (Hippeastrum) are prized for their large flowers, adding winter color indoors. Easily cultivated, they can sometimes suffer from environmental stress, with symptoms such as lackluster, wilting foliage and weak growth. Learn why amaryllis leaves might droop and what to do about it in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/drooping-amaryllis-leaves/">Reasons and Fixes for Drooping Amaryllis Leaves</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/drooping-amaryllis-leaves/>
+
+---
+
+## How to Make a DIY Rice Heating Pad (Microwave or Oven)
+
+date: 2024-11-09, from: Homestead and Chil
+
+<p>Do you have sore muscles, kinks, and cramps? Come learn how to make a simple, natural DIY rice heating pad in 6 easy steps! It can also be used as a cold pack. You can use recycled fabric, plus essential oils for aromatherapy!</p>
+<p>The post <a href="https://homesteadandchill.com/how-to-make-rice-heating-pad/">How to Make a DIY Rice Heating Pad (Microwave or Oven)</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/how-to-make-rice-heating-pad/>
+
+---
+
+## This Secret Mexican Surf Town Is the Best Winter Getaway
+
+date: 2024-11-09, from: Sunset Magazine - Living in the West
+
+Mexico's Riviera Nayarit is the coastal jungle escape worth booking this winter. These are the best things to do and see. 
+
+<br> 
+
+<https://www.sunset.com/travel/riviera-nayarit-travel-guide>
+
+---
+
+## CNPS Responds to the Fall 2024 Election
+
+date: 2024-11-09, from: California Native Plants Society
+
+<p>CNPS urges President Biden to designate Chuckwalla, Sáttítla, and Kw’tsán as national monuments to protect California’s native plants and biodiversity.</p>
+<p>The post <a href="https://www.cnps.org/news-releases/cnps-responds-to-the-fall-2024-election-41181">CNPS Responds to the Fall 2024 Election</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/news-releases/cnps-responds-to-the-fall-2024-election-41181>
+
+---
+
+## Immersed in a Landscape: A Field Report of the Proposed Sáttítla National Monument
+
+date: 2024-11-08, from: California Native Plants Society
+
+<p>This fall, CNPS Conservation Program joined the Pit River Nation in Northern California to tour the proposed Sáttítla National Monument, capturing the movement's collaborative effort to protect sacred lands, highlight biodiversity, and foster partnership in conservation.</p>
+<p>The post <a href="https://www.cnps.org/conservation/sattitla-national-monument-tour-41126">Immersed in a Landscape: A Field Report of the Proposed Sáttítla National Monument</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/conservation/sattitla-national-monument-tour-41126>
+
+---
+
+## Volkswagen Recalls Over 114,000 Vehicles Over Exploding Airbag Risk
+
+date: 2024-11-08, from: Family Handyman Blog
+
+<p>Is your Volkswagen affected? Find out now and learn what steps to take for a free repair.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/volkswagen-exploding-airbag-recall/">Volkswagen Recalls Over 114,000 Vehicles Over Exploding Airbag Risk</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/volkswagen-exploding-airbag-recall/>
+
+---
+
+## This Kitchen’s Ceilings Messed up Its Layout and Made It Feel Cramped—Here’s How It Was Transformed
+
+date: 2024-11-08, from: Sunset Magazine - Living in the West
+
+This Portland, Oregon, kitchen had low ceilings and outdated features. The design team created a half-vault ceiling and added new fixtures. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/kitchen-ceiling-makeover>
+
+---
+
+## This Kitchen Makeover Was Inspired by ‘Only Murders in the Building’
+
+date: 2024-11-08, from: Sunset Magazine - Living in the West
+
+This dark and nonfunctional kitchen needed an update. The owners were inspired by Steve Martin's kitchen in Only Murders in the Building. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/only-murders-in-the-building-kitchen-makeover>
+
+---
+
+## This Once-Popular Kitchen Trend Is Actually a Huge Pain—Here’s One Designer’s Solution
+
+date: 2024-11-08, from: Sunset Magazine - Living in the West
+
+This Bay Area kitchen was stuck in the past with a bad layout and outdated peninsula. It's now a functional and spacious gathering space. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/kitchen-peninsula-makeover>
+
+---
+
+## 8 Things You Need to Know Before Going to Disneyland with a Baby
+
+date: 2024-11-08, from: Sunset Magazine - Living in the West
+
+Traveling with a baby can be tough, but it helps to have a strategy, especially when you're going to Disneyland. These tricks will help. 
+
+<br> 
+
+<https://www.sunset.com/travel/how-to-visit-disneyland-with-a-baby>
+
+---
+
+## You Should Never Do THIS With Your Dishwasher Pods
+
+date: 2024-11-08, from: Family Handyman Blog
+
+<p>TikTok users love sharing cleaning hacks, but not all of the advice is good. Recently, they've been divided over where to put dishwasher pods. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/where-to-put-dishwasher-pods/">You Should Never Do THIS With Your Dishwasher Pods</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/where-to-put-dishwasher-pods/>
+
+---
+
+## We Tested the Avocado Green Mattress and It Was Like Sleeping in a Five-Star Hotel
+
+date: 2024-11-08, from: Family Handyman Blog
+
+<p>The Avocado Green mattress features zoned support, latex, coils and edge support for a restful night's sleep.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/avocado-green-mattress-review/">We Tested the Avocado Green Mattress and It Was Like Sleeping in a Five-Star Hotel</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/avocado-green-mattress-review/>
+
+---
+
+## Listed for $3M, This Sunny Manhattan Loft Is Topped With a Private Terrace
+
+date: 2024-11-08, from: Dwell
+
+Calling all bibliophiles: The three-bedroom apartment also comes with built-in, floor-to-ceiling bookshelves. 
+
+<br> 
+
+<https://www.dwell.com/article/lower-east-side-loft-rooftop-terrace-manhattan-new-york-city-real-estate-02bfdca5>
+
+---
+
+## Friday Links: November 8, 2024
+
+date: 2024-11-08, from: California Native Plants Society
+
+<p>The desert beckons visitors in the cooler months with quiet hikes, brilliant sunrises and sunsets, and a panoply of stars. This week's Links is full of desert stories, as well as a new celebration of Native American Heritage Month, thoughts of the coming wildflower season, and more.</p>
+<p>The post <a href="https://www.cnps.org/friday-links/friday-links-november-8-2024-41110">Friday Links: November 8, 2024</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/friday-links/friday-links-november-8-2024-41110>
+
+---
+
+## Before & After: Touring Midcentury Homes Was an Obsession. Then They Got to Revive One by Saul Zaik
+
+date: 2024-11-08, from: Dwell
+
+Removing a mezzanine level shrouding a skylight in the 1963 Portland residence was just the first step. 
+
+<br> 
+
+<https://www.dwell.com/article/before-and-after-mori-house-shed-architecture-and-design-japanese-interiors-ad25ee41>
+
+---
+
+## Creative DIY Uses for Flex Seal Around the House
+
+date: 2024-11-08, from: Family Handyman Blog
+
+<p>Discover some creative ways to use Flex Seal around the house.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/flex-seal-hacks/">Creative DIY Uses for Flex Seal Around the House</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/flex-seal-hacks/>
+
+---
+
+## Install a Stair Runner For A Revitalized and Safer Staircase
+
+date: 2024-11-08, from: Family Handyman Blog
+
+<p>Revive your staircase by installing a carpet runner. It's an easy weekend project that you can do with just a few basic tools. </p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-install-a-stair-runner/">Install a Stair Runner For A Revitalized and Safer Staircase</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/how-to-install-a-stair-runner/>
+
+---
+
+## Mazda Recalls Nearly 81,000 Cars – Is Yours One of Them?
+
+date: 2024-11-08, from: Family Handyman Blog
+
+<p>Own a Mazda? Find out if your car's on the recall list for a critical electrical suply unit issue that could lead to crashes.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/mazda-cx-recall/">Mazda Recalls Nearly 81,000 Cars – Is Yours One of Them?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/mazda-cx-recall/>
+
+---
+
+## Transform Your Street into a Dutch Masterpiece With This AI Tool
+
+date: 2024-11-08, from: Family Handyman Blog
+
+<p>Looking to redesign your garden paths and outdoor spaces? Take inspiration from a Dutch neighborhood as you draw up a plan.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/transform-your-street-dutch-neighborhood-ai/">Transform Your Street into a Dutch Masterpiece With This AI Tool</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/transform-your-street-dutch-neighborhood-ai/>
+
+---
+
+## How Cold Tolerant Are Christmas Cactus Plants?
+
+date: 2024-11-08, from: The Gardener's Path
+
+<p>Holiday cacti are epiphytic succulents that flower in winter, but that doesn’t mean they like cold weather. However, cool conditions are required for these colorful blooms to form. Learn more about Christmas cactus cold tolerance and what temperatures are optimal for blooming in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/christmas-cactus-cold-tolerance/">How Cold Tolerant Are Christmas Cactus Plants?</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/succulents/christmas-cactus-cold-tolerance/>
+
+---
+
+## The Garden-Obsessed Will Love These Thoughtful Gifts
+
+date: 2024-11-08, from: Sunset Magazine - Living in the West
+
+No matter your budget, these gifts will make your favorite green thumb's holiday merry and bright. Tools, gear, and self-care gifts for gardeners. 
+
+<br> 
+
+<https://www.sunset.com/home/gifts-for-gardeners>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-11-08, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -226,18 +516,6 @@ We asked the pros what they're buying for the most wonderful time of the year. T
 
 ---
 
-## Sunset.com Home Page
-
-date: 2024-11-07, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
-
----
-
 ## Sponsored – Nativo
 
 date: 2024-11-07, from: Sunset Magazine - Living in the West
@@ -254,7 +532,7 @@ date: 2024-11-07, from: Sunset Magazine - Living in the West
 
 date: 2024-11-07, from: Yard Life blog
 
-<p>If you&#x2019;re an avid gardener or just getting started, understanding your planting zone is a key step to successful planting. ... </p>
+<p>If you’re an avid gardener or just getting started, understanding your planting zone is a key step to successful planting. ... </p>
 <p class="read-more-container"><a title="Planting Zones by Zip Code: Detailed Climate Zone Table" class="read-more button" href="https://ownyardlife.com/planting-zones-by-zip-code-detailed-climate-zone-table/#more-21654" aria-label="Read more about Planting Zones by Zip Code: Detailed Climate Zone Table">Read more</a></p>
 <p>The post <a href="https://ownyardlife.com/planting-zones-by-zip-code-detailed-climate-zone-table/">Planting Zones by Zip Code: Detailed Climate Zone Table</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
  
@@ -277,15 +555,15 @@ It's easy to cook the perfect steak at home with the right gear. Professional ch
 
 ---
 
-## 8 Things You Need to Know Before Going to Disneyland with a Baby
+## Ready to Set Sail? Konga’s Newest Prefab Will Float Your Boat
 
-date: 2024-11-06, from: Sunset Magazine - Living in the West
+date: 2024-11-06, from: Dwell
 
-Traveling with a baby can be tough, but it helps to have a strategy, especially when you're going to Disneyland. These tricks will help 
+The wood-paneled, solar-powered houseboat lets you putter around your favorite body of water in Scandinavian style. 
 
 <br> 
 
-<https://www.sunset.com/travel/how-to-visit-disneyland-with-a-baby>
+<https://www.dwell.com/article/prefab-profiles-konga-float-all-electric-floating-home-b13b1799>
 
 ---
 
@@ -578,18 +856,6 @@ Candles are so 2023.
 <br> 
 
 <https://www.dwell.com/article/smart-home-fragrance-technology-pura-f677f57d>
-
----
-
-## This Secret Mexican Surf Town Is the Best Winter Getaway
-
-date: 2024-11-05, from: Sunset Magazine - Living in the West
-
-Mexico's Riviera Nayarit is the coastal jungle escape worth booking this winter. These are the best things to do and see. 
-
-<br> 
-
-<https://www.sunset.com/travel/riviera-nayarit-travel-guide>
 
 ---
 

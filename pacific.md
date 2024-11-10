@@ -1,11 +1,448 @@
 ---
 title: pacific
-updated: 2024-11-08 07:49:51
+updated: 2024-11-10 09:48:02
 ---
 
 # pacific
 
-(date: 2024-11-08 07:49:51)
+(date: 2024-11-10 09:48:02)
+
+---
+
+## Gaza mourns children killed in Israeli strike as death toll rises
+
+date: 2024-11-10, from: Hawaii Tribune Harold
+
+
+				<p>CAIRO/GAZA (Reuters) &#8212; A Gaza family sat weeping on Saturday over children killed by an Israeli strike as they were getting ready to play soccer, amid an intensified bombardment that Palestinian health authorities said has killed 44 people over the past 24 hours.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/10/nation-world-news/gaza-mourns-children-killed-in-israeli-strike-as-death-toll-rises/>
+
+---
+
+## Biden and environmental groups try to protect climate policies from Trump
+
+date: 2024-11-10, from: Hawaii Tribune Harold
+
+
+				<p>Biden administration aides are racing to award hundreds of millions of dollars in grants and finalize environmental regulations in an effort to lock in President Joe Biden&#8217;s climate agenda before Donald Trump enters the White House, said John Podesta, the president&#8217;s senior adviser on clean energy.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/10/nation-world-news/biden-and-environmental-groups-try-to-protect-climate-policies-from-trump/>
+
+---
+
+## FEMA fires employee for telling Milton relief workers to skip houses with Trump signs
+
+date: 2024-11-10, from: Hawaii Tribune Harold
+
+
+				<p>An employee with the Federal Emergency Management Agency has been fired after reports that after Hurricane Milton, the employee told relief workers in Florida to pass over houses with signs supporting Donald Trump, the agency said Saturday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/10/nation-world-news/fema-fires-employee-for-telling-milton-relief-workers-to-skip-houses-with-trump-signs/>
+
+---
+
+## Elon Musk is positioning X behind the new Trump presidency
+
+date: 2024-11-10, from: Hawaii Tribune Harold
+
+
+				<p>SAN FRANCISCO &#8212; Since Donald Trump won the presidential election, Elon Musk has gone all-in on the social network X to promote the incoming administration.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/10/nation-world-news/elon-musk-is-positioning-x-behind-the-new-trump-presidency/>
+
+---
+
+## Steves: In Berlin, keep your eye on the wall
+
+date: 2024-11-10, from: Hawaii Tribune Harold
+
+
+				<p>Whenever I visit Berlin I can&#8217;t help remembering my spooky visit to East Berlin back in 1971.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/10/features/steves-in-berlin-keep-your-eye-on-the-wall/>
+
+---
+
+## Volcano Watch: The art and science of geologic mapping
+
+date: 2024-11-10, from: Hawaii Tribune Harold
+
+
+				<p>Geologic mapping has been one of the most fundamental mandates of the U.S. Geological Survey (USGS) since its establishment in 1879. Congress created the USGS to &#8220;classify the public lands and examine the geological structure, mineral resources, and products within and outside the national domain.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/10/community/volcano-watch-the-art-and-science-of-geologic-mapping/>
+
+---
+
+## With ready orders and an energy czar, Trump plots pivot to fossil fuels
+
+date: 2024-11-10, from: Hawaii Tribune Harold
+
+
+				<p>As President-elect Donald Trump&#8217;s transition team plans his energy and environment agenda, it is relying on two seasoned former Cabinet leaders and fossil fuel lobbyists to dramatically reshape the agencies charged with protecting the nation&#8217;s air, water, climate and public lands, according to six people familiar with the matter.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/10/nation-world-news/with-ready-orders-and-an-energy-czar-trump-plots-pivot-to-fossil-fuels/>
+
+---
+
+## HECO execs brief lawmakers on wildfire mitigation efforts
+
+date: 2024-11-10, from: Hawaii Tribune Harold
+
+
+				<p>A Hawaiian Electric Co. senior vice president told lawmakers Friday the company has invested $120 million this year on &#8220;wildfire safety and resiliency measures.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/10/hawaii-news/heco-execs-brief-lawmakers-on-wildfire-mitigation-efforts/>
+
+---
+
+## Bill aims to increase number of affordable rentals
+
+date: 2024-11-10, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County could change how it defines &#8220;affordable rental,&#8221; which could raise the cost of rent for some low-income residents.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/10/hawaii-news/bill-aims-to-increase-number-of-affordable-rentals/>
+
+---
+
+## Vacation rentals bill shelved: Council decides contentious measure too complicated in current state
+
+date: 2024-11-10, from: Hawaii Tribune Harold
+
+
+				<p>A proposal by the Hawaii County Council to revamp how the county regulates short-term vacation rentals could start again from scratch.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/10/hawaii-news/vacation-rentals-bill-shelved-council-decides-contentious-measure-too-complicated-in-current-state/>
+
+---
+
+## Despite soggy end, October registers average to below average rainfall
+
+date: 2024-11-10, from: Hawaii Tribune Harold
+
+
+				<p>Low-pressure systems affecting Hawaii Island in the second half of last month gave the impression of a wetter-than-usual October, but most Big Island rain gauges logged average or slightly below-average rainfall for the month.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/10/hawaii-news/despite-soggy-end-october-registers-average-to-below-average-rainfall/>
+
+---
+
+## UH students launch genki balls to combat Ala Wai water pollution
+
+date: 2024-11-10, from: University of Hawaiʻi News
+
+<p>The activity aligns with the course’s microbiome unit and is part of a new General Education pathway focused on sustainability and climate change solutions.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/09/math-students-launch-genki-balls/"><abbr>UH</abbr> students launch genki balls to combat Ala Wai water pollution</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/09/math-students-launch-genki-balls/>
+
+---
+
+## Alameda names managing director, deputy managing director
+
+date: 2024-11-09, from: Hawaii Tribune Harold
+
+
+				<p>Mayor-elect Kimo Alameda has selected Bill Brilhante as managing director and Merrick Nishimoto as deputy managing director following his win in the Nov. 5 general election.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/09/hawaii-news/alameda-names-managing-director-deputy-managing-director/>
+
+---
+
+## Trump weighs key personnel choices, schooled by his first-term experience
+
+date: 2024-11-09, from: Hawaii Tribune Harold
+
+
+				<p>President-elect Donald Trump is not known for adherence to a disciplined and rigorous personnel selection process, but behind the scenes, his advisers and allies have been preparing lists of candidates for the most important jobs in his administration.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/trump-weighs-key-personnel-choices-schooled-by-his-first-term-experience/>
+
+---
+
+## With Trump tariffs looming, businesses try to ‘run from a moving target’
+
+date: 2024-11-09, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Rick Muskat woke up the morning after the election with an urgent task. He got his agent in China on the phone at 4:30 a.m. Beijing time and pressed him to ask their factory how many more pairs of men&#8217;s dress shoes they could make before Chinese New Year, at the end of January.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/with-trump-tariffs-looming-businesses-try-to-run-from-a-moving-target/>
+
+---
+
+## US: Iranian agents plotted to kill Trump
+
+date: 2024-11-09, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Federal prosecutors in Manhattan said Friday that Iranian plotters had discussed a plan to assassinate Donald Trump before he was reelected as president this week.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/us-iranian-agents-plotted-to-kill-trump/>
+
+---
+
+## Residents return to find homes reduced to rubble after California fire
+
+date: 2024-11-09, from: Hawaii Tribune Harold
+
+
+				<p>In the city of Camarillo, California, on Old Coach Drive, the smell of smoke lay heavy in the air. The fire that erupted this week had hopscotched around the neighborhood, leaving some homes relatively unscathed but reducing several to charred piles of wood and rubble.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/residents-return-to-find-homes-reduced-to-rubble-after-california-fire/>
+
+---
+
+## China reveals $1.4 trillion plan to bail out local governments
+
+date: 2024-11-09, from: Hawaii Tribune Harold
+
+
+				<p>TAIPEI, Taiwan &#8212; The Chinese government on Friday approved a $1.4 trillion plan to revive the economy, authorizing local governments to refinance crushing debts that have left some cities unable to pay their bills.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/china-reveals-1-4-trillion-plan-to-bail-out-local-governments/>
+
+---
+
+## Antisemitic attacks prompt emergency flights for Israeli soccer fans
+
+date: 2024-11-09, from: Hawaii Tribune Harold
+
+
+				<p>Authorities in Amsterdam on Friday were investigating what they called antisemitic attacks on Israeli soccer fans that took place amid a charged atmosphere surrounding a soccer match involving a visiting Israeli team.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/antisemitic-attacks-prompt-emergency-flights-for-israeli-soccer-fans/>
+
+---
+
+## Wave of racist texts after election prompts FBI scrutiny
+
+date: 2024-11-09, from: Hawaii Tribune Harold
+
+
+				<p>A wave of racist text messages summoning Black people to report for slavery showed up on phones across the United States, prompting the scrutiny of the FBI.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/wave-of-racist-texts-after-election-prompts-fbi-scrutiny/>
+
+---
+
+## Beyoncé, young pop sensations lead 2025 Grammy nominees
+
+date: 2024-11-09, from: Hawaii Tribune Harold
+
+
+				<p>Beyonc&#233; and Taylor Swift will face off in all top categories at the 67th annual Grammy Awards, leading a pack of nominees that also features buzzy young female stars who have dominated the pop charts over the past year.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/beyonce-young-pop-sensations-lead-2025-grammy-nominees/>
+
+---
+
+## Painting by AI-powered robot sells for $1.1 million
+
+date: 2024-11-09, from: Hawaii Tribune Harold
+
+
+				<p>A portrait of British mathematician Alan Turing sold at auction for nearly $1.1 million Thursday, a surprisingly large sum for a painting whose creator wasn&#8217;t an artist in the traditional sense, but rather a humanoid robot powered by artificial intelligence.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/painting-by-ai-powered-robot-sells-for-1-1-million/>
+
+---
+
+## India drops 36-year ban on Rushdie book, saying it can’t find the order
+
+date: 2024-11-09, from: Hawaii Tribune Harold
+
+
+				<p>Before the Iranian fatwa condemning the writer to death, before all the protests and burnings of his book and before the stabbing death of his translator, there was India&#8217;s customs notification No. 405/12/88-CUS-III.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/india-drops-36-year-ban-on-rushdie-book-saying-it-cant-find-the-order/>
+
+---
+
+## Where there’s joy in a terror bird
+
+date: 2024-11-09, from: Hawaii Tribune Harold
+
+
+				<p>HUILA, Colombia &#8212; C&#0233;sar Perdomo&#8217;s small paleontological museum, La Tormenta, is a work in progress. A bare cement structure built on a windswept platform in the Tatacoa Desert, it offers a panoramic view of shallow, craggy canyons carved from soft mudstone.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/where-theres-joy-in-a-terror-bird/>
+
+---
+
+## Fossil reveals oldest known tadpole that grew to the size of a hot dog
+
+date: 2024-11-09, from: Hawaii Tribune Harold
+
+
+				<p>The metamorphosis of a frog from baby to adult is one of nature&#8217;s most remarkable transformations. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/fossil-reveals-oldest-known-tadpole-that-grew-to-the-size-of-a-hot-dog/>
+
+---
+
+## Neglect and disrespect: Whatever happened to Tony Ramirez’s and Tony Palomo’s vision for ancestral remains
+
+date: 2024-11-09, from: Pacific Island Times
+
+New Brunswick — The recent Pacific Island Times article (August 2024) by Ron Rocky Coloma, “Piled in Shoe Boxes, Shoved into a Storage... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/neglect-and-disrespect-whatever-happened-to-tony-ramirez-s-and-tony-palomo-s-vision-for-ancestral-r>
+
+---
+
+##  Deport Air program: It’s a fair deal
+
+date: 2024-11-09, from: Pacific Island Times
+
+When rearing its ugly head, it's finally okay for me to say, “It's not really discrimination.” I’m talking about the deportation of... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/deport-air-program-it-s-a-fair-deal>
+
+---
+
+## Philippine ambassador drums up Filipino workers' interest in Guam jobs
+
+date: 2024-11-09, from: Pacific Island Times
+
+By Jinky Jorgio   Manila —Philippine Ambassador Jose Manuel Romualdez urged Filipino workers to explore the thousands of job... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/philippine-ambassador-drums-up-filipino-workers-interest-in-guam-jobs>
+
+---
+
+## UH astronomers, students: Hands-on science fun in Kona
+
+date: 2024-11-09, from: University of Hawaiʻi News
+
+<p>The free event featured hands-on demonstrations and displays related to astronomy, robotics and natural sciences.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/08/uh-astronomers-students-science-fun-in-kona/"><abbr>UH</abbr> astronomers, students: Hands-on science fun in Kona</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/08/uh-astronomers-students-science-fun-in-kona/>
+
+---
+
+## Growing Indigenous innovation, uplifting ancestral practices focus of UH conference
+
+date: 2024-11-08, from: University of Hawaiʻi News
+
+<p>The conference highlighted <abbr>UH</abbr>’s ongoing commitment to supporting community-driven research and initiatives that preserve and advance Indigenous practices.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/08/a-catalyst-for-change-indigenous-innovation/">Growing Indigenous innovation, uplifting ancestral practices focus of <abbr>UH</abbr> conference</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/08/a-catalyst-for-change-indigenous-innovation/>
+
+---
+
+## UH Alumni: Ellen Meiser authors book on the culinary industry
+
+date: 2024-11-08, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Hilo Professor Ellen Meiser interviewed more than 50 cooks and chefs for her new book.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/08/uh-alumni-ellen-meiser/"><abbr>UH</abbr> Alumni: Ellen Meiser authors book on the culinary industry</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/08/uh-alumni-ellen-meiser/>
+
+---
+
+## Shidler students thank donors for nearly $1.1M in scholarship support
+
+date: 2024-11-08, from: University of Hawaiʻi News
+
+<p>This year, the Shidler College awarded more than $1.1 million in scholarships to more than 300 deserving students.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/08/shidler-scholarship-luncheon-2024/">Shidler students thank donors for nearly $1.1<abbr>M</abbr> in scholarship support</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/08/shidler-scholarship-luncheon-2024/>
 
 ---
 
@@ -586,6 +1023,20 @@ date: 2024-11-07, from: Pacific Island Times
 
 ---
 
+## US warns no $$$ in 2024
+
+date: 2024-11-07, from: Marshal Islands Journal
+
+<p>Journal 11/13/1987 P1 Ebeye surgeon honoredEbeye’s chief surgeon Dr. Serano Salvador received the highest honor bestowed upon surgeons by being awarded a fellowship by the American College of Surgeons. P7 Marshallese inducted into servicesLate last month, a group of 40 young people from the Marshalls and Federated States of Micronesia were sworn in at a [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/us-warns-no-in-2024/">US warns no $$$ in 2024</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/us-warns-no-in-2024/>
+
+---
+
 ## Covet
 
 date: 2024-11-07, from: Hawai'i Pacific Review (HPU Literary Magazine)
@@ -763,6 +1214,20 @@ MILWAUKEE (Reuters) — In anxious conversations across the U.S. on Wednesday, m
 <br> 
 
 <https://www.mvariety.com/news/national/with-trump-win-democrats-ask-anxious-questions-about-their-neighbors-country-party-leadership/article_0957be0c-9d19-11ef-b2fa-6fb36e48be18.html>
+
+---
+
+## Meet Dr. Delson
+
+date: 2024-11-07, from: Marshal Islands Journal
+
+<p>A new Marshall Islands doctor was welcomed into the medical community for service to the RMI last week. Dr. Delson Benjamin was honored for completing his internship training program, which followed his graduation from medical university in Taiwan. He is the 12th doctor to graduate from Taiwan’s Ishou University.He was recognized by Health Secretary Francyne [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/meet-dr-delson/">Meet Dr. Delson</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/meet-dr-delson/>
 
 ---
 
@@ -960,6 +1425,34 @@ date: 2024-11-07, from: Hawaii Tribune Harold
 
 ---
 
+## Australia supports security programs
+
+date: 2024-11-07, from: Marshal Islands Journal
+
+<p>Two significant national security and organized crime courses were held in Majuro in late October, led by the Australian National University’s Pacific Security College. This course was designed to support RMI’s efforts currently underway to draft the country’s first national security strategy. In making closing remarks to the graduates, Minister of Foreign Affairs and Trade [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/australia-supports-security-programs/">Australia supports security programs</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/australia-supports-security-programs/>
+
+---
+
+## UN: Forced relocations for hundreds
+
+date: 2024-11-07, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON A United Nations Special Rapporteur on the Human Rights of Internally Displaced Persons spent 10 days visiting the Marshall Islands in October and issued a detailed report at the end of her visit. The Special Rapporteur’s report, which will be presented to the United Nations Human Rights Council in June next year, focuses [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/un-forced-relocations-for-hundreds/">UN: Forced relocations for hundreds</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/un-forced-relocations-for-hundreds/>
+
+---
+
 ## UH, Health Dept. aim to prevent suicide in high-risk groups
 
 date: 2024-11-07, from: University of Hawaiʻi News
@@ -1021,6 +1514,20 @@ date: 2024-11-06, from: University of the South Pacific (Fiji)
 <br> 
 
 <https://www.usp.ac.fj/news/engineering-students-at-usp-showcase-industry-defined-projects/>
+
+---
+
+## Kwaj workers strike sparks action
+
+date: 2024-11-06, from: Marshal Islands Journal
+
+<p>HILARY HOSIA A rare and coordinated strike by over 50 Marshallese workers at the US Army Garrison-Kwajalein Atoll last Friday and Saturday disrupted ferry service for missile range employees and has led to dismissal of two American supervisors by civilian contractor at the missile range. On Saturday, 54 Marine Department employees signed a petition to [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/kwaj-workers-strike-sparks-action/">Kwaj workers strike sparks action</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/kwaj-workers-strike-sparks-action/>
 
 ---
 

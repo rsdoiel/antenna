@@ -1,11 +1,539 @@
 ---
 title: columns
-updated: 2024-11-08 07:49:52
+updated: 2024-11-10 09:48:03
 ---
 
 # columns
 
-(date: 2024-11-08 07:49:52)
+(date: 2024-11-10 09:48:03)
+
+---
+
+## 2024-11-10 Weltensegler
+
+date: 2024-11-10, from: Alex Schroeder's Blog
+
+<h1 id="2024-11-10-weltensegler">2024-11-10 Weltensegler</h1>
+
+<p>Weil wir letzthin im <a href="https://campaignwiki.org/wiki/MontagInZ%c3%bcrich/Internet%20Office%20Hours">Internet Office Hours Podcast</a> wieder über Traveller geredet haben und davon geredet, dass wir ein kurzes, einfaches Regelwerk brauchen. <a class="account" href="https://rollenspiel.social/@hasran" title="@hasran@rollenspiel.social">@hasran</a> meinte zu Beginn der Sendung: Schreiben wir einen Traveller Klon und wann tun wir das?</p>
+
+<p>Jetzt haben wir damit angefangen. Ich habe es <a href="https://campaignwiki.org/view/weltensegler/index">Weltensegler</a> genannt.</p>
+
+<p>Unser Zielbild, für den Moment:</p>
+
+<p>Hasran: &ldquo;Als Spiel soll Weltensegler ermöglichen, eigene Welten und Abenteuer im Stile klassischer Science Fiction Literatur erlebbar zu machen.&rdquo;</p>
+
+<p>Ich: &ldquo;Weltensegler soll ein relativ kurzes 2W6 basiertes Science Fiction Rollenspiel sein, auf Deutsch, für alles von Star Wars bis Perry Rhodan, von Star Trek bis Dune.&rdquo;</p>
+
+<p>Wir sind beide grosse Fans vom ursprünglichen Classic Traveller Gerüst. Also haben wir damit mal angefangen: <a href="https://campaignwiki.org/view/weltensegler/figuren">Personagenerschaffung</a>, <a href="https://campaignwiki.org/view/weltensegler/erfahrung">Berufserfahrung</a>, <a href="https://campaignwiki.org/view/weltensegler/karriere">Karrieren</a>. Es fehlen noch ein paar Tabellen aber grundsätzlich steht schon einiges. Und wenn wir nicht weiter wissen, hilft uns <a class="account" href="https://tabletop.social/@wandererbill" title="@wandererbill@tabletop.social">@wandererbill</a> mit Traveller 5 Erfahrung. 😄</p>
+
+<p>Allerdings habe ich für mich beschlossen, dass ich für Weltensegler bei den Regeln bleiben will, die ich am Tisch schon verwendet habe. Erstaunlicherweise waren das nie die Preislisten. Viel wichtiger war der Tech Level der Welt und das wars. Ausrüstung war geschenkt, gesponsert, geklaut, aus dem Ship Locker, oder aus der Lebensgeschichte heraus gegeben. Ich glaube, ich habe als Spieler nur einmal eine Sonnenbrille für 100 Cr. gekauft, mehr nicht. Entsprechend habe ich unter Ausrüstung eine Seite für <a href="https://campaignwiki.org/view/weltensegler/feudalismus">Wirtschaft ohne Geld</a> erstellt.</p>
+
+<p>Entsprechend habe ich auch noch nie ein Schiff nach den Regeln zusammengebaut. Mal schauen, wie es bei Hasran aussieht. Ich glaube jedenfalls, dass er schon gerne Preislisten hätte.</p>
+
+<p><a class="tag" href="/search/?q=%23RSP">#RSP</a> <a class="tag" href="/search/?q=%23Traveller">#Traveller</a> <a class="tag" href="/search/?q=%23Weltensegler">#Weltensegler</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2024-11-10-weltensegler>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-11-10, from: Miguel de Icaza Mastondon feed)
+
+<p>The 400 days of genocide by the numbers:</p><p><a href="https://threadreaderapp.com/thread/1855556300232380523.html" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">threadreaderapp.com/thread/185</span><span class="invisible">5556300232380523.html</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113459790843129552>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-10, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/11/26/uncleSam.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">There's absolutely no doubt in my mind that what's missing in the two-party system in the US is that one of the parties does not own a social network. It is not represented online 7-by-24-by-12 every year, not just presidential election years. Democrats, when you lose it's because you didn't show up. It's happened three times so far, at least. We could have led here because most of the innovators in this space vote Democratic, but the leadership doesn't listen. The voters could get to know all the stars of the parties. People were right when they said they didn't know Harris. It's time to let the leaders rise from the net, not just from the insiders. This is how you do it. 
+
+<br> 
+
+<http://scripting.com/2024/11/10.html#a163202>
+
+---
+
+## The Steady Playlist
+
+date: 2024-11-10, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<br> 
+
+<https://steady.substack.com/p/the-steady-playlist>
+
+---
+
+## 
+                DOS: How much conventional memory is available to a process?
+            
+
+date: 2024-11-10, updated: 2024-11-10, from: Uninformative blog
+
+ 
+
+<br> 
+
+<https://www.uninformativ.de/blog/postings/2024-11-10/0/POSTING-en.html>
+
+---
+
+## Sunday caption contest: Wha?
+
+date: 2024-11-10, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/sunday-caption-contest-wha>
+
+---
+
+## November 8, 2024
+
+date: 2024-11-10, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/151445797/6832c2ee915bc6e2bad0db996d980eef.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/151445797/6832c2ee915bc6e2bad0db996d980eef.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/november-8-2024-bb7>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-10, from: Dave Winer's Scripting News)
+
+ChatGPT's web search can search my blog, as I do on Google, but it's way more useful. Here's a <a href="https://imgs.scripting.com/2024/11/09/chatGptWebSearch.png">screen shot</a>. We're getting there. Really nice. 
+
+<br> 
+
+<http://scripting.com/2024/11/09.html#a042214>
+
+---
+
+## Weeknotes: Nov. 2-8, 2024
+
+date: 2024-11-10, from: Tracy Durnell Blog
+
+Welp. That week happened. I&#8217;ve added in a couple extra things I appreciated this week because I think a lot of us could use some joy right now. Highlight of the week: meeting our neighbors at Diwali Looking forward to: vacation Stuff I did: 10.75 hours consulting we heard our neighbors throwing a party on [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2024/11/09/weeknotes-nov-2-8-2024/>
+
+---
+
+## November 9, 2024 
+
+date: 2024-11-10, from: Heather Cox Richardson blog
+
+&#8220;Off the Bar&#8221; is one of my favorites of my friend Peter&#8217;s photographs, and after I fiddled around with all sorts of images and captions that hinted at the chaos of these days, I threw them all out and just came back to this image of peace and quiet for tonight. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/november-9-2024>
+
+---
+
+## 2024-11-06 What a nightmare
+
+date: 2024-11-09, from: Alex Schroeder's Blog
+
+<h1 id="2024-11-06-what-a-nightmare">2024-11-06 What a nightmare</h1>
+
+<p>I really hoped that I wouldn&rsquo;t have to extend the link list on Trump I started <a href="2016-11-14_Trump">back in 2016</a> because I didn&rsquo;t understand how he could win.</p>
+
+<p>Then again, I also didn&rsquo;t understand why Bush got re-elected.
+I just read a 20 year old blog post of mine: <a href="2004-11-09_USA">2004-11-09 USA</a> where I was grappling with it.</p>
+
+<p>Trump is truly a setback for my <a href="priorities">priorities</a>.</p>
+
+<p>Fuck this timeline.</p>
+
+<p><a class="account" href="https://mstdn.social/@mattwilcox" title="@mattwilcox@mstdn.social">@mattwilcox</a> said it best:</p>
+
+<blockquote>
+<p>Fascism is the inevitable result of a society with large imbalances of personal security. Which in a capitalist society means large imbalances of wealth.</p>
+
+<p>If your society allows some people to be mega secure and untouchable, while also allowing large portions of it to feel very insecure&hellip; you will become a fascist society, eventually.</p>
+
+<p>Do not allow this. Do not allow excessive wealth stratification. It. will. Destroy. Your. Civilisation.</p>
+</blockquote>
+
+<p>The best defence against many divisive issues is to solve them.
+To leave festering wounds invites further prodding by the troll armies.
+Start small but start early, because soon the prodders are in power, prodding ever harder until it all falls apart.</p>
+
+<p>Remember that these days, all dictators are voted in.
+The elections may be a farce, but it&rsquo;s always a legal farce.
+The people in power may be the most corrupt criminals but ever and always they are the ones fighting corruption.
+It&rsquo;s just that the corruption of their enemies is always uncovered and punished whereas their own is hidden in plain sight, know to all.</p>
+
+<p>Look around at the countries around you.
+Erdoğan is still in power.
+Putin is still in power.
+Dictatorships may end eventually, but they take a fucking long time to fall.
+If it takes forty years, I won&rsquo;t be around to see it.
+It&rsquo;s hard to wait them out.</p>
+
+<p>If you meet somebody thinking about a civil war with armed militia doing this or that, I&rsquo;d say forget about all of that.
+In the real world, revolts that are not decisive inevitably lead to warlordism.
+Organised armed forces will shoot all the wanna-be resistance to bits.
+The police will beat the unarmed resistances into submission.</p>
+
+<p>I take solace in the fact that when Stalin was dying and calling for help in his office, the attendants just didn&rsquo;t listen.
+They didn&rsquo;t open the door and the fucker died alone.</p>
+
+<p><a class="tag" href="/search/?q=%23USA">#USA</a> <a class="tag" href="/search/?q=%23Politics">#Politics</a> <a class="tag" href="/search/?q=%23Trump">#Trump</a></p>
+
+<p><strong>2024-11-10</strong>. I need a place to link to <a class="account" href="https://hachyderm.io/@mekkaokereke" title="@mekkaokereke@hachyderm.io">@mekkaokereke</a> – it’s where I learn about black America. If you don’t know, start with his <a href="https://hachyderm.io/@mekkaokereke/111856915139042511">Black History Month megathread</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2024-11-06-nightmare>
+
+---
+
+## Bombs, books and generative AI: a blunt and obvious parable
+
+date: 2024-11-09, from: Shady Characters blog
+
+<p class="post-meta">
+I know, I know; these days, everyone and their five-legged, three-eyed dog is writing a piece about <abbr class="initialism">AI</abbr>. I can’t promise that this one will be more insightful or educational than any of the others, but I <em>can</em> promise that it will invoke humanity’s undimmable hubris, the atomic bomb, mad cow disease, and, to keep us on brand, books.</p><a class="more-link" href="https://shadycharacters.co.uk/2024/11/bombs-books-and-ai/">Read more →</a> 
+
+<br> 
+
+<https://shadycharacters.co.uk/2024/11/bombs-books-and-ai/>
+
+---
+
+## Future of AR is in Your Ears
+
+date: 2024-11-09, from: Om Malik blog
+
+Dennis Crowley&#160;has built his career at the intersection of emerging technologies and human behavior. Twenty years ago, as a 25-year-old inspired by Harry Potter&#8217;s Marauder&#8217;s Map, he created Dodgeball—turning text messaging into a way for friends to find each other in the city. When the iPhone emerged, he launched Foursquare, riding the convergence of GPS, &#8230; 
+
+<br> 
+
+<https://om.co/2024/11/09/future-of-ar-is-in-your-ears/>
+
+---
+
+## ChatGPT image of my life
+
+date: 2024-11-09, from: Dave Winer's Scripting News
+
+<p>I asked ChatGPT: "Based on what you know about me, draw a picture of what you think my current life looks like."</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/11/09/myLifeAsViewedByChatGPT.png"></center>Dave's life as imagined by ChatGPT.</div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2024/11/09/174937.html?title=chatgptImageOfMyLife>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-09, from: Dave Winer's Scripting News)
+
+I'd like to hear from tech vendors, asap, which ones will help American voters learn what's true independent of whatever "truth" the government wants us to believe? Who will stand with the people? A good question for all of us to ask. Ask news orgs the same question. 
+
+<br> 
+
+<http://scripting.com/2024/11/09.html#a174419>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-09, from: Dave Winer's Scripting News)
+
+I see they have a piece about the "Manosphere." <b>Stop blaming men</b>. Lose that habit now. It's toxic. 
+
+<br> 
+
+<http://scripting.com/2024/11/09.html#a150308>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-09, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/05/21/thinkUsa.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">It's worth listening to <a href="https://www.wnycstudios.org/podcasts/otm/articles/the-manosphere-celebrates-a-win-plus-m-gessen-on-how-to-survive-an-autocracy">On The Media</a>, interview with <a href="https://en.wikipedia.org/wiki/Masha_Gessen">Masha Gassen</a>, saying that the authoritarian government will want to define what's true and not. Since we now understand that most of the information flow now goes around the NYT, CNN etc -- even Fox, and largely through social web and podcasts, if that's where we're all getting our news from, and btw MSNBC are already pretty well limited in what they'll tell us (this was our beef with NYT if you recall) -- the next step is to make it impossible for us to hear what each other are saying. Now is the time to plant seeds for a defense of our speech and communication later. 
+
+<br> 
+
+<http://scripting.com/2024/11/09.html#a145637>
+
+---
+
+## New microblog with TILs
+
+date: 2024-11-09, updated: 2024-11-09, from: Julia Evans blog
+
+ 
+
+<br> 
+
+<https://jvns.ca/blog/2024/11/09/new-microblog/>
+
+---
+
+## What do we do now? | The Coffee Klatch, November 9, 2024 
+
+date: 2024-11-09, from: Robert Reich's blog
+
+With Heather Lofthouse, Michael Lahanas-Calder&#243;n, and Yours Truly, Robert Reich 
+
+<br> 
+
+<https://robertreich.substack.com/p/what-do-we-do-now-the-coffee-klatch>
+
+---
+
+## November 8, 2024
+
+date: 2024-11-09, from: Heather Cox Richardson blog
+
+Social media has been flooded today with stories of Trump voters who are shocked to learn that tariffs will raise consumer prices as reporters are covering that information. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/november-8-2024>
+
+---
+
+## ★ How It Went
+
+date: 2024-11-09, updated: 2024-11-09, from: Daring Fireball
+
+Election day, 2024. 
+
+<br> 
+
+<https://daringfireball.net/2024/11/how_it_went>
+
+---
+
+## Why Raspberry Pi for an SBC guy
+
+date: 2024-11-09, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Why Raspberry Pi for an SBC guy</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/armsom-bpi-sige7-purple-case.jpeg" alt="ArmSoM Sige7 purple enclosure"></p>
+
+<p>If anyone asks why I prefer to work with Raspberry Pis when I want to tinker on a random project, consider:</p>
+
+<p>I just spent the past hour with a brand new ArmSoM Sige7 board (<a href="https://github.com/geerlingguy/sbc-reviews/issues/56">see my debugging notes in my <code>sbc-reviews</code> repo</a>). This SBC has been on the market for months, with <a href="https://www.electronics-lab.com/armsom-sige7-review-a-rockchip-rk3588-sbc-with-dual-2-5gbe-ethernet-nvme-storage-and-triple-display-output/">glowing reviews</a> all the way back in May...</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-11-08T19:04:17-06:00" title="Friday, November 8, 2024 - 19:04" class="datetime">November 8, 2024</time>
+</span> 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2024/why-raspberry-pi-sbc-guy>
+
+---
+
+## Our Loss
+
+date: 2024-11-09, from: Dan Rather's Steady
+
+My attempt to understand and explain 
+
+<br> 
+
+<https://steady.substack.com/p/our-loss>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-08, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2021/06/14/strongman.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">BTW, there's a lot of talk about new ways to communicate that don't depend on silos that could be sold to billionaires. One way to do it is with my product <a href="https://feedland.com/">FeedLand</a>. It manages news streams for feeds you subscribe to. I think every publication should share news from feeds they depend on, experts they quote, other news sources they read. We can build our own networks this way. The advantage of this approach is that it is truly decentralized and not at all complicated to use. Here's the <a href="https://news.scripting.com/">news stream</a> I provide for readers of my blog. It's the most popular feature on the site. With FeedLand you can <a href="https://docs.feedland.com/newsproducts.md">create your own</a>. 
+
+<br> 
+
+<http://scripting.com/2024/11/08.html#a230543>
+
+---
+
+##  &#8220;The Quilt Index, originally launched in 2003, is an open access, digital... 
+
+date: 2024-11-08, updated: 2024-11-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045594-the-quilt-index-originall>
+
+---
+
+## Friday Squid Blogging: Squid-A-Rama in Des Moines
+
+date: 2024-11-08, updated: 2024-11-07, from: Bruce Schneier blog
+
+<p><a href="https://waterlandblog.com/event/squid-a-rama-will-be-at-des-moines-beach-park-on-saturday-nov-23/">Squid-A-Rama</a> will be in Des Moines at the end of the month.</p>
+<blockquote><p>Visitors will be able to dissect squid, explore fascinating facts about the species, and witness a live squid release conducted by local divers.</p></blockquote>
+<p>How are they doing a live squid release? Simple: this is Des Moines, Washington; not Des Moines, Iowa.</p>
+<p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/11/friday-squid-blogging-squid-a-rama-in-des-moines.html>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-11-08, from: Miguel de Icaza Mastondon feed)
+
+<p>From Stephanie:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113449562461549865>
+
+---
+
+## ★ It Doesn’t End
+
+date: 2024-11-08, updated: 2024-11-09, from: Daring Fireball
+
+Progress hasn’t stopped, but it’s never easy, and never without backlash. 
+
+<br> 
+
+<https://daringfireball.net/2024/11/it_doesnt_end>
+
+---
+
+##  Surreal Glitch Pulls 
+
+date: 2024-11-08, updated: 2024-11-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/surreal-glitch-pulls>
+
+---
+
+##  Climate scientists say we will exceed the 1.5°C temperature threshold for the... 
+
+date: 2024-11-08, updated: 2024-11-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045606-climate-scientists-say-we>
+
+---
+
+## November 7, 2024
+
+date: 2024-11-08, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/151392459/56306732306a47717cf9b11946eff66f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/151392459/56306732306a47717cf9b11946eff66f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/november-7-2024-828>
+
+---
+
+##  Why the Work Still Matters. In the face of a &#8220;larger-than-normal number... 
+
+date: 2024-11-08, updated: 2024-11-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045604-why-the-work-still-matter>
+
+---
+
+##  The Big Wait 
+
+date: 2024-11-08, updated: 2024-11-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/the-big-wait>
+
+---
+
+##  Laura Hazard Owen: We need a Wirecutter for groceries. &#8220;What if local... 
+
+date: 2024-11-08, updated: 2024-11-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045603-laura-hazard-owen-we-need>
+
+---
+
+##  Focus on the ball. Mesmerizing.... 
+
+date: 2024-11-08, updated: 2024-11-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045595-focus-on-the-ball-mesmeri>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-11-08, from: Miguel de Icaza Mastondon feed)
+
+<p>As always an excellent thread by <span class="h-card" translate="no"><a href="https://mastodon.social/@Pwnallthethings" class="u-url mention">@<span>Pwnallthethings</span></a></span> <a href="https://fed.brid.gy/r/https://bsky.app/profile/did:plc:ovyajbnegrir2ddtwfhijiob/post/3lah6347tts2p" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">fed.brid.gy/r/https://bsky.app</span><span class="invisible">/profile/did:plc:ovyajbnegrir2ddtwfhijiob/post/3lah6347tts2p</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113448337748185002>
+
+---
+
+##  Wolf Hall: The Mirror and the Light 
+
+date: 2024-11-08, updated: 2024-11-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/wolf-hall-the-mirror-and-the-light>
+
+---
+
+## Nvidia vs. Intel
+
+date: 2024-11-08, from: David Rosenthal's blog
+
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMPqstsWtfLASYMqdm9Zx18OV8zMInvJl3axT4qASYmp6A72o14Usk_GKXclyD0fUBGZXpQCakkOiEC-kcggp2YPdcHRPBgOuup17UoCJ84lIk_enUh0GeF1XGpyKQMkuALHWeEQnZJdQ3KK9OIAMDjUp3tjCe7eCRmIRArEY3iw6wu5qRIAEdCgkFpFQq/s1160/Dedge3d.jpg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="729" data-original-width="1160" height="126" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMPqstsWtfLASYMqdm9Zx18OV8zMInvJl3axT4qASYmp6A72o14Usk_GKXclyD0fUBGZXpQCakkOiEC-kcggp2YPdcHRPBgOuup17UoCJ84lIk_enUh0GeF1XGpyKQMkuALHWeEQnZJdQ3KK9OIAMDjUp3tjCe7eCRmIRArEY3iw6wu5qRIAEdCgkFpFQq/w200-h126/Dedge3d.jpg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://en.wikipedia.org/wiki/NV1">NV1-based Diamond Edge</a><br /> <a href="https://en.wikipedia.org/wiki/User:Swaaye">Swaaye</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC-By-SA 3.0</a></td></tr></tbody></table>
+Today <a href="https://www.bloomberg.com/news/articles/2024-11-01/nvidia-set-to-replace-intel-in-the-dow-jones-industrial-average">Nvidia replaced Intel</a> in the Dow Jones Industrial Average with a market cap of about $3.6T, about the same as Apple, as against Intel's market cap about 33 times less.<br />
+<br />
+That is a long way from Curtis Priem's kitchen table, a $2.5M A-round from Sutter Hill and Sequoia, and the NV1.<br /> 
+
+<br> 
+
+<https://blog.dshr.org/2024/11/nvidia-vs-intel.html>
 
 ---
 
@@ -61,6 +589,26 @@ date: 2024-11-08, updated: 2024-11-08, from: Jason Kittke's blog
 <br> 
 
 <https://kottke.org/24/11/0045596-in-the-three-years-since>
+
+---
+
+## Democratic mistakes
+
+date: 2024-11-08, from: Dave Winer's Scripting News
+
+<p>I've actually written a lot, but haven't wanted to publish most of it. So many reasons why the Dems lost. Maybe I should just list them.</p>
+<ol>
+<li>Biden shouldn't have run again. There would have been a primary. Given the result of the election this week, we should have found out what support each candidate had with voters. We didn't get to choose the candidate. That said Harris ran a fantastic campaign. </li>
+<li>Biden should not have shut down his campaign website. Rather than using it to raise money to feed to the media industry, they should have organized and listened, to develop new channels of communication with voters that were not dependent on journalism. Every time the Dems run a campaign, win or lose, they shut down their connection to the electorate. The voters' only role in the party was when they needed our money and our vote. <b>We were not part of governing</b>. Huge mistake. And I'm not just saying that now, I've said that about every Democratic campaign since Obama. This is probably the biggest single mistake the Dems keep making.</li>
+<li>We needed a prosecutor at the top of Justice. I don't know what Garland actually did, but I'm sure it will all be swept out by whoever is Trump's AG. </li>
+<li>Men's votes need to be sought and welcomed, specifically. So much has been done to alienate male voters, which is why so many voted for Trump. We could have had a bunch of them this year, if we had only spoken to them with respect. </li>
+</ol>
+<p>I don't know if we can reboot the Democrats as an opposition party given all these problems. Whatever comes next is going to perform very differently from the party that lost this election. If we try to do it again the same old way, it will fail even worse. I think everyone knows this by now. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2024/11/08/123049.html?title=democraticMistakes>
 
 ---
 
@@ -477,63 +1025,6 @@ PS: I bet <a href="https://www.geekwire.com/2024/jeff-bezos-congratulates-trump-
 
 ---
 
-## 2024-11-06 What a nightmare
-
-date: 2024-11-06, from: Alex Schroeder's Blog
-
-<h1 id="2024-11-06-what-a-nightmare">2024-11-06 What a nightmare</h1>
-
-<p>I really hoped that I wouldn&rsquo;t have to extend the link list on Trump I started <a href="2016-11-14_Trump">back in 2016</a> because I didn&rsquo;t understand how he could win.</p>
-
-<p>Then again, I also didn&rsquo;t understand why Bush got re-elected.
-I just read a 20 year old blog post of mine: <a href="2004-11-09_USA">2004-11-09 USA</a> where I was grappling with it.</p>
-
-<p>Trump is truly a setback for my <a href="priorities">priorities</a>.</p>
-
-<p>Fuck this timeline.</p>
-
-<p><a class="account" href="https://mstdn.social/@mattwilcox" title="@mattwilcox@mstdn.social">@mattwilcox</a> said it best:</p>
-
-<blockquote>
-<p>Fascism is the inevitable result of a society with large imbalances of personal security. Which in a capitalist society means large imbalances of wealth.</p>
-
-<p>If your society allows some people to be mega secure and untouchable, while also allowing large portions of it to feel very insecure&hellip; you will become a fascist society, eventually.</p>
-
-<p>Do not allow this. Do not allow excessive wealth stratification. It. will. Destroy. Your. Civilisation.</p>
-</blockquote>
-
-<p>The best defence against many divisive issues is to solve them.
-To leave festering wounds invites further prodding by the troll armies.
-Start small but start early, because soon the prodders are in power, prodding ever harder until it all falls apart.</p>
-
-<p>Remember that these days, all dictators are voted in.
-The elections may be a farce, but it&rsquo;s always a legal farce.
-The people in power may be the most corrupt criminals but ever and always they are the ones fighting corruption.
-It&rsquo;s just that the corruption of their enemies is always uncovered and punished whereas their own is hidden in plain sight, know to all.</p>
-
-<p>Look around at the countries around you.
-Erdoğan is still in power.
-Putin is still in power.
-Dictatorships may end eventually, but they take a fucking long time to fall.
-If it takes forty years, I won&rsquo;t be around to see it.
-It&rsquo;s hard to wait them out.</p>
-
-<p>If you meet somebody thinking about a civil war with armed militia doing this or that, I&rsquo;d say forget about all of that.
-In the real world, revolts that are not decisive inevitably lead to warlordism.
-Organised armed forces will shoot all the wanna-be resistance to bits.
-The police will beat the unarmed resistances into submission.</p>
-
-<p>I take solace in the fact that when Stalin was dying and calling for help in his office, the attendants just didn&rsquo;t listen.
-They didn&rsquo;t open the door and the fucker died alone.</p>
-
-<p><a class="tag" href="/search/?q=%23USA">#USA</a> <a class="tag" href="/search/?q=%23Politics">#Politics</a> <a class="tag" href="/search/?q=%23Trump">#Trump</a></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2024-11-06-nightmare>
-
----
-
 **@Dave Winer's Scripting News** (date: 2024-11-06, from: Dave Winer's Scripting News)
 
 Final note (I think). The pain you feel at first may abate. It did for me. I had pushed down memories of 2020 and 2021. It was a horror show, and Trump was the main character. So the first thing I had to deal with is that I don't want to remember that. Too painful. But once I realized that's not where we are right now, it's a totally different situation, that's when the creative impulse rose as the pain receded. We have one short term thing to do -- keep the campaign running, and long term we have to recognize division we add, and counteract it. We are the party that welcomes everyone regardless or race, religion, country of origin, age or gender. <i>All</i> of them. No exceptions. The election result represents big change. And it's a <a href="http://scripting.com/stories/2009/10/21/bruceSterlingAtReboot.html">good time</a> to make more changes. 
@@ -815,8 +1306,7 @@ Speaking of Musk, maybe he will temper Trump's desire for retribution. It may be
 
 **@Dave Winer's Scripting News** (date: 2024-11-06, from: Dave Winer's Scripting News)
 
-Ben Thompson wrote in his <a href="https://stratechery.com/">Stratechery</a> newsletter: "What is fascinating is how this fundamentally transforms any attempt to evaluate the Twitter acquisition. From a business perspective it’s a massive failure, and might always be: Musk paid too much for Twitter as it was, and in the intervening years the flight of advertisers from the platform has made it worth even less. From a Musk Inc. perspective, however, X played a pivotal role in ensuring that the incoming administration will do whatever Musk needs at the exact moment that SpaceX is gaining the capabilities to actually make a trip to Mars, if only the FAA in particular will give him the freedom to do so. That alone is almost certainly worth $44 billion to Musk!" I wrote in 2017, that <a href="http://scripting.com/2017/01/14/whatIfTwtrIsBoughtByARepub.html">some Repub would buy Twitter</a>, and it would merge and thus transform politics and tech. This was obvious, but for some reason I was the only one who saw it. We could have headed this off, if people would just listen. I beg you to listen to people you don't usually listen to. The NYT will never hire someone like me to write on their op-ed page, so if you only accept your input from people with legit credentials, you'll miss insights like this. We're paying a heavy price for this now. When I begged people to listen they came back with the balance sheet valuation of Twitter, but they were leaving the most important asset off the balance sheet, the dollar value of being able to elect a president. Musk <a href="http://scripting.com/2024/10/31.html#a140612">didn't</a> miss this.
- 
+Ben Thompson wrote in his <a href="https://stratechery.com/">Stratechery</a> newsletter: "What is fascinating is how this fundamentally transforms any attempt to evaluate the Twitter acquisition. From a business perspective it’s a massive failure, and might always be: Musk paid too much for Twitter as it was, and in the intervening years the flight of advertisers from the platform has made it worth even less. From a Musk Inc. perspective, however, X played a pivotal role in ensuring that the incoming administration will do whatever Musk needs at the exact moment that SpaceX is gaining the capabilities to actually make a trip to Mars, if only the FAA in particular will give him the freedom to do so. That alone is almost certainly worth $44 billion to Musk!" I wrote in 2017, that <a href="http://scripting.com/2017/01/14/whatIfTwtrIsBoughtByARepub.html">some Repub would buy Twitter</a>, and it would merge and thus transform politics and tech. This was obvious, but for some reason I was the only one who saw it. We could have headed this off, if people would just listen. I beg you to listen to people you don't usually listen to. The NYT will never hire someone like me to write on their op-ed page, so if you only accept your input from people with legit credentials, you'll miss insights like this. We're paying a heavy price for this now. When I begged people to listen they came back with the balance sheet valuation of Twitter, but they were leaving the most important asset off the balance sheet, the dollar value of being able to elect a president. Musk <a href="http://scripting.com/2024/10/31.html#a140612">didn't</a> miss this. 
 
 <br> 
 
@@ -826,8 +1316,7 @@ Ben Thompson wrote in his <a href="https://stratechery.com/">Stratechery</a> new
 
 **@Dave Winer's Scripting News** (date: 2024-11-06, from: Dave Winer's Scripting News)
 
-Speaking of Carville, <a href="https://podcasts.apple.com/us/podcast/election-day-special-edition-feat-james-carville/id1523896927?i=1000675748922">yesterday's Trippi podcast</a> with Carville as the only guest was the <b>best podcast</b> I've ever heard. I recommended it yesterday as inspirational. Now that we know the outcome of the election, it's a marker of where we were before the results were known. A world that no longer exists. But like stories written in 2016, the markers are useful to see where we once were and how we got here, and what we can learn from what happened between. I wish it had turned out the way these two great friends thought it should have. But it didn't. But there was a hint that they knew what wouldn't work this time. No spoilers.
- 
+Speaking of Carville, <a href="https://podcasts.apple.com/us/podcast/election-day-special-edition-feat-james-carville/id1523896927?i=1000675748922">yesterday's Trippi podcast</a> with Carville as the only guest was the <b>best podcast</b> I've ever heard. I recommended it yesterday as inspirational. Now that we know the outcome of the election, it's a marker of where we were before the results were known. A world that no longer exists. But like stories written in 2016, the markers are useful to see where we once were and how we got here, and what we can learn from what happened between. I wish it had turned out the way these two great friends thought it should have. But it didn't. But there was a hint that they knew what wouldn't work this time. No spoilers. 
 
 <br> 
 
@@ -985,7 +1474,7 @@ Today is Election Day, 2024.
 
 ## ★ Kottke on the Art and Power of Hypertextual Writing
 
-date: 2024-11-05, updated: 2024-11-06, from: Daring Fireball
+date: 2024-11-05, updated: 2024-11-08, from: Daring Fireball
 
 Italic and bold emphasis are information-density additives. But as Kottke observes, used deftly, hypertext links are an information-density *multiplier*. 
 

@@ -1,11 +1,35 @@
 ---
 title: craft
-updated: 2024-11-08 07:49:54
+updated: 2024-11-10 09:48:05
 ---
 
 # craft
 
-(date: 2024-11-08 07:49:54)
+(date: 2024-11-10 09:48:05)
+
+---
+
+## Investigating Old Stick Chairs
+
+date: 2024-11-10, from: Lost Arg Press blog
+
+I love books, photos and drawings, but if you want to quickly learn a lot about making and designing chairs, there is one path: Study the suckers in person every chance you get. Up close and slowly. Last week, Welsh chairmaker Chris Williams arranged for me and some friends to study four old stick chairs... 
+
+<br> 
+
+<https://blog.lostartpress.com/2024/11/10/investigating-old-stick-chairs/>
+
+---
+
+## Now Available: ‘Dutch Tool Chests’
+
+date: 2024-11-08, from: Lost Arg Press blog
+
+This one has been a long time in coming. On May 31, 2020, I announced here that I was writing a book on Dutch tool chests. Today, November, 8, 2024, &#8220;Dutch Tool Chests&#8221; is finally in our warehouse and available for order. (Surprise! – the cover is blue.) Inside the book, you&#8217;ll find in-depth instruction... 
+
+<br> 
+
+<https://blog.lostartpress.com/2024/11/08/now-available-dutch-tool-chests/>
 
 ---
 

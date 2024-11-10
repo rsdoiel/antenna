@@ -1,11 +1,144 @@
 ---
 title: motorcycles
-updated: 2024-11-08 07:49:53
+updated: 2024-11-10 09:48:04
 ---
 
 # motorcycles
 
-(date: 2024-11-08 07:49:53)
+(date: 2024-11-10 09:48:04)
+
+---
+
+## You Can Get Up to $4,000 Off Polaris Snowmobiles Right Now
+
+date: 2024-11-10, from: Ride Apart, Electric Motorcycle News
+
+Polaris' loss is your gain.  
+
+<br> 
+
+<https://www.rideapart.com/news/740377/polaris-snowmobiles-2024-stock-discounts-rebates-price-slash/>
+
+---
+
+## Christopher Bell Upset His Path To The 2024 NASCAR Cup Series Championship 4 Was Ended By Race Manipulation
+
+date: 2024-11-10, from: Kickin the Tires blog
+
+By Jerry Jordan, Editor PHOENIX, Ariz. – A usually subdued Christopher Bell was more charged up than the Interstate Battery powering his NASCAR Cup Series Toyota as he spoke to&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/christopher-bell-upset-his-path-to-the-2024-nascar-cup-series-championship-4-was-ended-by-race-manipulation/>
+
+---
+
+## NASCAR Hall of Famer Bobby Allison Passes Away at 86
+
+date: 2024-11-10, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor While the definition of ‘racer’ can be applied to many in NASCAR history, it was Bobby Allison, who passed away at the age of 86,&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/nascar-hall-of-famer-bobby-allison-passes/>
+
+---
+
+## Truex to start from Pole in final full-time start
+
+date: 2024-11-10, from: Kickin the Tires blog
+
+By Matt Courson, Staff Writer AVONDALE, Ariz. — Martin Truex Jr. won the Pole for Sunday’s NASCAR Championship Race at Phoenix Raceway in what will be his final full-time NASCAR&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/cup/truex-to-start-from-pole-in-final-full-time-start/>
+
+---
+
+## Sawalich claims Xfinity Pole
+
+date: 2024-11-09, from: Kickin the Tires blog
+
+By Matt Courson, Staff Writer AVONDALE, Ariz. — William Sawalich will start from the pole position in just his third start in Saturday’s NASCAR Xfinity Series Championship Race at Phoenix&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/xfinity/sawalich-claims-xfinity-pole/>
+
+---
+
+## Is KTM Ashamed Its New 390s Are Better For the Company Than Its Big Bikes?
+
+date: 2024-11-09, from: Ride Apart, Electric Motorcycle News
+
+Pierer cannot get out of its own way, can it? 
+
+<br> 
+
+<https://www.rideapart.com/news/740383/ktm-390-adventure-r-smc-enduro-eicma/>
+
+---
+
+## Ryan Blaney And Team Ready To Defend NASCAR Cup Series Title
+
+date: 2024-11-09, from: Kickin the Tires blog
+
+By Jerry Jordan, Editor AVONDALE, Ariz. – A week ago, Ryan Blaney was on the outside looking in and needing a win at Martinsville Speedway to advance for a chance&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/ryan-blaney-and-team-ready-to-defend-nascar-cup-series-title/>
+
+---
+
+## Mistake-free Majeski dominates for NASCAR Truck Series championship
+
+date: 2024-11-09, from: Kickin the Tires blog
+
+By Cole Cusumano, Staff Writer Ty Majeski and the No. 98 team were flawless and flat-out dominant in the NASCAR Craftsman Truck Series finale at Phoenix Raceway, leading all but&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/mistake-free-majeski-dominates-for-nascar-truck-series-championship/>
+
+---
+
+## Good Guy Pol Tarrés Has a Whole Team Helping Out In Valencia
+
+date: 2024-11-08, from: Ride Apart, Electric Motorcycle News
+
+In times of disaster, we have to help each other and that's exactly what one of the great enduro riders of our time is doing. 
+
+<br> 
+
+<https://www.rideapart.com/news/740384/pol-tarres-hero-valencia-floods/>
+
+---
+
+## You Can't Fool Me, That's No Fiat 500e!
+
+date: 2024-11-08, from: Ride Apart, Electric Motorcycle News
+
+Thank micromobility trends, co-branding exercises, and Pininfarina for the new E-Moped 500. 
+
+<br> 
+
+<https://www.rideapart.com/news/740254/fiat-500e-pininfarina-electric-scooter/>
+
+---
+
+## Spain's Wottan Rebbe 401 Retro-Style Naked Bike Is Perfect For the US Market
+
+date: 2024-11-08, from: Ride Apart, Electric Motorcycle News
+
+Priced at $4,800, it’s not a bad way to have a blast on two wheels.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/740104/wottan-rebbe-401-retro-naked-bike-eicma-2024/>
 
 ---
 

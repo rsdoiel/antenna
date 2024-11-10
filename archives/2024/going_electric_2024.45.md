@@ -1,11 +1,339 @@
 ---
 title: going electric
-updated: 2024-11-08 07:49:54
+updated: 2024-11-10 09:48:05
 ---
 
 # going electric
 
-(date: 2024-11-08 07:49:54)
+(date: 2024-11-10 09:48:05)
+
+---
+
+## Why Stellantis' STLA Medium Platform Should Make Range Champ EVs
+
+date: 2024-11-10, from: Inside EVs News
+
+The automaker tested the platform in a Peugeot E-3008, which drove from Paris to Nice at highway speed with just two charging stops. 
+
+<br> 
+
+<https://insideevs.com/news/740453/stellantis-stla-medium-long-range/>
+
+---
+
+## Why Hyundai, Samsung And Korea's Firms May Stay Ahead In The Trump Era
+
+date: 2024-11-10, from: Inside EVs News
+
+The South Korean automakers and their battery companies bet billions on America's EV race. They see a 'limited' impact now. 
+
+<br> 
+
+<https://insideevs.com/news/740458/korea-ira-ev-hyundai-trump/>
+
+---
+
+## Mack Electric LR is Wisconsin’s first electric garbage truck
+
+date: 2024-11-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/mack_electric.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>In a bid to clean up its streets in more ways than one, the city of Madison, Wisconsin has added two Class 8 electric trucks to its garbage fleet earlier this year in the form of a pair of Mack Electric LR HDEVs … and the city already has plans to add two more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-garbage-truck,mack-trucks" data-layer-viewtype="unknown" data-post-id="388497" href="https://electrek.co/2024/11/10/mack-electric-lr-is-wisconsins-first-electric-garbage-truck/#more-388497" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/10/mack-electric-lr-is-wisconsins-first-electric-garbage-truck/>
+
+---
+
+## Tesla Is Now A $1 Trillion Company
+
+date: 2024-11-09, from: Inside EVs News
+
+The stock rallied after Trump’s win. Now Tesla faces the harder task of delivering on Elon Musk’s robotaxi dreams. 
+
+<br> 
+
+<https://insideevs.com/news/740427/tesla-valuation-soars-1-trillion-trump-victory/>
+
+---
+
+## Tesla Model Y Havnby air mattress adds stars to Camp Mode
+
+date: 2024-11-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/image_c93f3f.png?w=953" /></div><p>With Camp Mode, Tesla started a new era for car campers. Quiet climate control, a multimedia entertainment display, a glass roof, and a large rear flat compartment area that easily fits most 6′ adults <a href="https://havnby.com/?ref=SETH">with a mattress</a> mean that hotels on long solo drives are now optional. It can also be a nice camping option for those who don’t want to sleep on the ground, a convenient nap spot, or a nice place to relax and (Netflix and?) chill with that special someone.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="387431" href="https://electrek.co/2024/11/09/tesla-model-y-havnby-air-mattress-adds-stars-to-camp-mode/#more-387431" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/09/tesla-model-y-havnby-air-mattress-adds-stars-to-camp-mode/>
+
+---
+
+## See The Tesla Model S Plaid Take On The Lucid Air Sapphire
+
+date: 2024-11-09, from: Inside EVs News
+
+The Model S Plaid is fitted with the $20,000 Track Package that comes with ceramic brakes and other goodies. Can it keep up? 
+
+<br> 
+
+<https://insideevs.com/news/740226/tesla-model-s-plaid-track-pack-lucid-air-sapphire/>
+
+---
+
+## 765 hp AUDI E ditches the four rings, keeps the sexy wagon aesthetic
+
+date: 2024-11-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/A244565_medium.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Audi is embracing its future in China with the launch of a new Chinese market electric sub-brand called AUDI that ditches the iconic “four rings” logo in favor of four capital letters – but one thing it hasn’t ditched is <s>AUDI</s> Audi’s sexy teutonic long-roof design language.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="audi,china,saic-motor" data-layer-viewtype="unknown" data-post-id="388456" href="https://electrek.co/2024/11/09/765-hp-audi-e-ditches-the-four-rings-keeps-the-sexy-wagon-aesthetic/#more-388456" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/09/765-hp-audi-e-ditches-the-four-rings-keeps-the-sexy-wagon-aesthetic/>
+
+---
+
+## Captain Morgan gets a hydrogen Nikola in latest DHL deal
+
+date: 2024-11-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/dhl-supply-chain-and-diageo-north-america-image-2.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Global logistics giant DHL is serving Diageo North America – the makers of Captain Morgan rum – with a new deployment of hydrogen powered Nikola semi trucks <em>and</em> a standalone hydrogen fueling station.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dhl,hydrogen,nikola-motors" data-layer-viewtype="unknown" data-post-id="388447" href="https://electrek.co/2024/11/09/captain-morgan-gets-a-hydrogen-nikola-in-latest-dhl-deal/#more-388447" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/09/captain-morgan-gets-a-hydrogen-nikola-in-latest-dhl-deal/>
+
+---
+
+## Toyota Calls California EV Rules 'Impossible'
+
+date: 2024-11-08, from: Inside EVs News
+
+A top Toyota executive is challenging California's EV "mandate." Is there really one in place? 
+
+<br> 
+
+<https://insideevs.com/news/740400/toyota-calls-california-ev-rules-impossible/>
+
+---
+
+## ‘UK-first’ intercity battery trial train outperforms diesel
+
+date: 2024-11-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Hitachi-Energy-UK-intercity-battery-train.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A “UK-first” intercity battery trial train proved that single battery technology can outperform diesel engines cost-effectively.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,electric-train,solar,hitachi,uk" data-layer-viewtype="unknown" data-post-id="388425" href="https://electrek.co/2024/11/08/uk-first-intercity-battery-trial-train-outperforms-diesel/#more-388425" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/08/uk-first-intercity-battery-trial-train-outperforms-diesel/>
+
+---
+
+## These U.S. States Desperately Need More EV Chargers
+
+date: 2024-11-08, from: Inside EVs News
+
+Here are the states that are struggling to build enough public charging points to keep up with the number of registered EVs.  
+
+<br> 
+
+<https://insideevs.com/news/740239/states-electric-car-ev-charging/>
+
+---
+
+## Podcast: Trump victory’s impact on EV market, TSLA surges, new Ioniq 5, and more
+
+date: 2024-11-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss how Trump’s victory will impact the EV market, TSLA surging, the new Ioniq 5 being a great deal, and more.</p>
+
+
+
+<p><strong><a href="https://bit.ly/3BSQwSE" target="_blank" rel="noreferrer noopener">Sponsored by ALSET Auto</a>: North America’s leader in paint protection and restyling; offering colored wraps, paint protection, window tint, ceramic coatings and more, <em>exclusively</em> on EVs.</strong></p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Electrek_11-08-24.mp3"></audio></figure>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="388409" href="https://electrek.co/2024/11/08/podcast-trump-victorys-impact-on-ev-market-tsla-surges-new-ioniq-5-and-more/#more-388409" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/08/podcast-trump-victorys-impact-on-ev-market-tsla-surges-new-ioniq-5-and-more/>
+
+---
+
+## Range Rover to launch smaller Velar electric SUV, the first to ride on JLR’s EMA platform
+
+date: 2024-11-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Range-Rover-Sport-Electric.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Jaguar Land Rover confirmed the first EV based on its new EMA platform will be here in less than two years. After the <a href="https://electrek.co/guides/range-rover/">Range Rover</a> Electric and Sport EVs, a smaller electric SUV, likely the Velar will hit the market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="jaguar-land-rover,range-rover,range-rover-electric" data-layer-viewtype="unknown" data-post-id="388414" href="https://electrek.co/2024/11/08/range-rover-launching-smaller-cheaper-velar-electric-suv/#more-388414" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/08/range-rover-launching-smaller-cheaper-velar-electric-suv/>
+
+---
+
+## China's BYD Hits The Brakes On Canadian Expansion Plans
+
+date: 2024-11-08, from: Inside EVs News
+
+Canadian officials followed the U.S.' lead, imposing a 100% tariff on Chinese-built EVs. Now, BYD's plans are on pause. 
+
+<br> 
+
+<https://insideevs.com/news/740395/byd-canada-tariffs/>
+
+---
+
+## Chinese solar giant Trina sells its Texas factory a week after it opens
+
+date: 2024-11-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Trina-Solar-Texas.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Trina Solar is selling its Texas solar panel factory as the US scrutinizes Chinese companies cashing in on Inflation Reduction Act tax breaks.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,egeb,energy-brief,solar,inflation-reduction-act,solar-power,texas" data-layer-viewtype="unknown" data-post-id="388372" href="https://electrek.co/2024/11/08/chinese-solar-giant-trina-sells-its-texas-factory-a-week-after-it-opens/#more-388372" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/08/chinese-solar-giant-trina-sells-its-texas-factory-a-week-after-it-opens/>
+
+---
+
+## You Can Now Lease A Tesla Cybertruck, But It Ain't Cheap
+
+date: 2024-11-08, from: Inside EVs News
+
+If you want to lease America's most controversial truck, be prepared to write a four-figure check every month. 
+
+<br> 
+
+<https://insideevs.com/news/740381/tesla-cybertruck-lease-offer/>
+
+---
+
+## Save $400 on MOD’s new Easy SideCar Sahara e-bike, Heybike Ranger S e-bike $999, Hiboy 2024 P6 e-bike $940, more
+
+date: 2024-11-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/MOD-Easy-SideCar-Sahara.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>It’s another day of Black Friday EV Green Deals, with MOD Bikes launching its vintage-inspired, limited-edition <a href="https://9to5toys.com/2024/11/08/mod-le-easy-sidecar-sahara-e-bike/">Easy SideCar Sahara e-bike</a> as part of its ongoing sale for <a href="https://9to5toys.com/2024/11/08/mod-le-easy-sidecar-sahara-e-bike/">$3,499</a>. Right behind it is another early Black Friday weekend sale from Heybike that has lowered costs on its <a href="https://9to5toys.com/2024/11/08/heybike-flash-sale-ranger-s-999-low/">Ranger S Folding e-bike to $999</a>, among others. Next, we have Hiboy’s early access Black Friday deals that is seeing the <a href="https://9to5toys.com/2024/11/08/hiboys-early-black-friday-p6-e-bike-940/">2024 P6 Fat-Tire e-bike</a> hit a new <a href="https://9to5toys.com/2024/11/08/hiboys-early-black-friday-p6-e-bike-940/">$940</a> low. Closing out the week is a collection of EGO Power+ <a href="https://9to5toys.com/2024/11/07/ego-power-snow-blowers-from-159/">snow blowers and snow shovels</a> that are marked down to help you prep for upcoming snowfall – all starting at <a href="https://9to5toys.com/2024/11/07/ego-power-snow-blowers-from-159/">$159</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s Black Friday savings from <a href="https://9to5toys.com/2024/11/06/jackery-early-black-friday-sale-2024/">Jackery</a>, the <a href="https://9to5toys.com/2024/11/07/ecoflows-delta-pro-exclusive-bundles/">exclusive EcoFlow</a> solar generator bundle lows, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="388384" href="https://electrek.co/2024/11/08/mod-easy-sidecar-sahara-heybike-hiboy-more/#more-388384" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/08/mod-easy-sidecar-sahara-heybike-hiboy-more/>
+
+---
+
+## Kia’s new EV4 hatch officially spotted in the US for the first time
+
+date: 2024-11-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Kias-EV4-electric-car.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia is launching its lower-priced EV4 electric sedan next year. For the first time, <a href="https://electrek.co/guides/kia/">Kia’s</a> new EV4 hatch  variant was spotted on US streets. Here’s what we know about the electric hatch so far.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev4" data-layer-viewtype="unknown" data-post-id="388392" href="https://electrek.co/2024/11/08/kias-new-ev4-hatch-officially-spotted-in-us-first-time/#more-388392" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/08/kias-new-ev4-hatch-officially-spotted-in-us-first-time/>
+
+---
+
+## Chinese-Made MG4 Dethrones Tesla, Tops Australian Sales Charts
+
+date: 2024-11-08, from: Inside EVs News
+
+Sales of the MG4 electric hatchback quadrupled in October after the model got a significant price cut. 
+
+<br> 
+
+<https://insideevs.com/news/740368/mg4-australia-sales-beats-tesla/>
+
+---
+
+## Tesla (TSLA) valuation surges to  equal next 10 biggest automakers over Trump/Musk relationship
+
+date: 2024-11-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2016/03/img_1665-e1457955946161.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla’s stock (TSLA) has surged to a $1 trillion valuation – seemingly over the assumption that the Trump and Musk relationship is going to benefit the automaker.</p>
+
+
+
+<p>The company is virtually worth more than the next 10 biggest automakers combined.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tsla-tesla-stock" data-layer-viewtype="unknown" data-post-id="388369" href="https://electrek.co/2024/11/08/tesla-tsla-valuation-equals-next-10-biggest-automakers-over-trump-musk-relationship/#more-388369" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/08/tesla-tsla-valuation-equals-next-10-biggest-automakers-over-trump-musk-relationship/>
+
+---
+
+## Mercedes is offering dealers up to $3,000 for every EV sold
+
+date: 2024-11-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Mercedes-dealers-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/mercedes-benz/">Mercedes</a> is now paying dealers up to $3,000 for every EV they sell until the end of the year. As part of its new Q4 2024 EQ Sales Challenge, the company is giving dealers a good reason to move EVs off the lot.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mercedes-benz" data-layer-viewtype="unknown" data-post-id="388364" href="https://electrek.co/2024/11/08/mercedes-offering-dealers-up-to-3000-every-ev-sold/#more-388364" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/08/mercedes-offering-dealers-up-to-3000-every-ev-sold/>
+
+---
+
+## Tesla's Trump Card: What Lies Next For Elon Musk's Company?
+
+date: 2024-11-08, from: Inside EVs News
+
+Donald Trump stormed back into office this week. Here's what it could mean for Tesla. 
+
+<br> 
+
+<https://insideevs.com/news/740371/tesla-trump-elon-musk-whats-next/>
 
 ---
 

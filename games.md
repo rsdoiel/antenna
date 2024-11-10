@@ -1,11 +1,107 @@
 ---
 title: games
-updated: 2024-11-08 07:49:52
+updated: 2024-11-10 09:48:03
 ---
 
 # games
 
-(date: 2024-11-08 07:49:52)
+(date: 2024-11-10 09:48:03)
+
+---
+
+## Arcane was always going to have a banger season 2 soundtrack
+
+date: 2024-11-10, updated: 2024-11-08, from: Polygon Website
+
+Arcane’s secret sauce has always been its soundtrack. There’s no better example of this than one of the early scenes of season 2’s first episode, as Caitlyn mourns the death of her mother. Rather than forcing grief-stricken dialogue to communicate how she’s feeling, the show cuts to a completely unique animation style, with stylized black [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/q-and-a/475440/arcane-season-2-soundtrack-original-songs-showrunner>
+
+---
+
+## Ahead of Black Friday, yearly subscriptions to Walmart Plus are 50% off
+
+date: 2024-11-10, updated: 2024-11-08, from: Polygon Website
+
+Walmart has several waves of Black Friday deals coming up, the first of which begins on Nov. 11, followed by two others happening Nov. 25 and Dec. 1. You can get three hours of early access to each of those deal waves through its website and through the Walmart app — but only by being [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/476529/walmart-plus-yearly-membership-discount-black-friday>
+
+---
+
+## Europa is chill — its story isn’t
+
+date: 2024-11-10, updated: 2024-11-08, from: Polygon Website
+
+At the risk of being entirely unrelatable: You know that music they play at the spa? That synthy, spaced-out soundscape type of stuff that isn’t exactly music, but isn’t exactly not music? The sort of playlist you can find if you take a wrong turn from your favorite lo-fi playlist? Chord after relaxing chord, interspersed [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/475583/europa-review>
+
+---
+
+## What time does FFXIV maintenance end and patch 7.1 release?
+
+date: 2024-11-10, updated: 2024-11-08, from: Polygon Website
+
+Final Fantasy 14’s first post-Dawntrail patch is on the horizon, with maintenance going down for the game for about seven hours before patch 7.1 properly launches. Below, we explain when FFXIV Dawntrail maintenance ends and some of the things you can look forward to when the patch launches. What time does FFXIV maintenance end and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/2024/6/24/476325/patch-7-1-maintenance-end-time>
+
+---
+
+## Pokémon Go Mankey Community Day guide
+
+date: 2024-11-10, updated: 2024-11-08, from: Polygon Website
+
+Pokémon Go is having a Mankey Community Day event on Sunday, Nov. 10, from 2-5 p.m. in your local time. As expected with a Community Day event, Mankey will spawn in huge numbers with a high chance for it to appear shiny. There are also several other bonuses and perks, which we’ve list out below. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/476381/mankey-community-day-shiny-primeape-annihilape>
+
+---
+
+## Marvel’s extended Thunderbolts trailer levels up the best parts of mid-tier MCU
+
+date: 2024-11-09, updated: 2024-11-10, from: Polygon Website
+
+Similar to how the early phases of the Marvel Cinematic Universe turned B- and C-list heroes into the biggest stars on the planet, the next chapter of the mega-franchise intends to pluck side characters from passable movies and iffy TV shows for a team-up movie with high potential. Marvel and Disney released a new extended [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel/476883/marvel-thunderbolts-trailer-brazil-d23>
+
+---
+
+## Heretic’s directors unpack its ambiguous ending
+
+date: 2024-11-09, updated: 2024-11-08, from: Polygon Website
+
+The ending of Scott Beck and Bryan Woods’ horror movie Heretic comes as a surprise: It’s a silent, transcendent moment after a tense, dialogue-heavy story. (End spoilers ahead, as the headline suggests.) A seemingly benign man, Mr. Reed (Hugh Grant), traps two young female Mormon missionaries in his house to test their faith and explain [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/476433/heretic-ending-explained-by-directors>
+
+---
+
+## Arcane season 2’s opening episodes show it was worth the wait
+
+date: 2024-11-09, updated: 2024-11-08, from: Polygon Website
+
+When Arcane season 2 picks up, mere moments after Jinx’s bomb has decimated the Piltover council meeting, tragedy has already struck. There’s wreckage all around, bodies appearing among the rubble as the dust begins to clear. Even for a series as somber as Arcane, it’s desolation; as one character puts it, another cruelty or so [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/476403/arcane-season-2-review-episode-act-1>
 
 ---
 

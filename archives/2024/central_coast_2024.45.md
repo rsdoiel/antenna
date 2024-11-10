@@ -1,11 +1,67 @@
 ---
 title: central coast
-updated: 2024-11-08 07:49:52
+updated: 2024-11-10 09:48:03
 ---
 
 # central coast
 
-(date: 2024-11-08 07:49:52)
+(date: 2024-11-10 09:48:03)
+
+---
+
+## Learn How Goleta Government Works at Community Academy
+
+date: 2024-11-10, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The city of Goleta’s award-winning LEAD Goleta Bilingual Community Academy is now taking applications for its January/February class. LEAD stands for Learn, Empower, Advocate and Discuss. LEAD Goleta recently received [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/learn-how-goleta-government-works-at-community-academy/">Learn How Goleta Government Works at Community Academy</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/learn-how-goleta-government-works-at-community-academy/>
+
+---
+
+## Pacifica Graduate Institute Expands Continuing Education
+
+date: 2024-11-10, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Pacifica Graduate Institute has announced the start of Pacifica Extension and International Studies (PEIS), the institute’s reimagined continuing education arm, which offers students and lifelong learners opportunities to pursue an [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/pacifica-graduate-institute-expands-continuing-education/">Pacifica Graduate Institute Expands Continuing Education</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/pacifica-graduate-institute-expands-continuing-education/>
+
+---
+
+## New Fletcher Park Playground Reflects Connection to Nature
+
+date: 2024-11-10, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The new forest-themed playground at Fletcher Park, 2200 S. College Drive in Santa Maria, is now officially open, offering children an imaginative space designed to inspire active outdoor play, the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/new-fletcher-park-playground-reflects-connection-to-nature/">New Fletcher Park Playground Reflects Connection to Nature</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/new-fletcher-park-playground-reflects-connection-to-nature/>
+
+---
+
+## Comet View
+
+date: 2024-11-10, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-POD-Mike-McQuiggan.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A view of Comet C/2023 A3 Tsuchinshan-ATLAS from the water cistern on West Camino Cielo above Santa Barbara. 24mm lens with 3 sec exposure with foreground highlighted with full moon illumination." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-POD-Mike-McQuiggan.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-POD-Mike-McQuiggan.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-POD-Mike-McQuiggan.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-POD-Mike-McQuiggan.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-POD-Mike-McQuiggan.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-POD-Mike-McQuiggan.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-POD-Mike-McQuiggan.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-POD-Mike-McQuiggan.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-POD-Mike-McQuiggan.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-POD-Mike-McQuiggan.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-POD-Mike-McQuiggan.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/102124-POD-Mike-McQuiggan.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/comet-view/">Comet View</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/comet-view/>
 
 ---
 

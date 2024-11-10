@@ -1,11 +1,311 @@
 ---
 title: science and technology
-updated: 2024-11-08 07:49:51
+updated: 2024-11-10 09:48:02
 ---
 
 # science and technology
 
-(date: 2024-11-08 07:49:51)
+(date: 2024-11-10 09:48:02)
+
+---
+
+## Everything you need to know to start fine-tuning LLMs in the privacy of your home
+
+date: 2024-11-10, updated: 2024-11-10, from: The Register (UK I.T. News)
+
+<h4>Got a modern Nvidia or AMD graphics card? Custom Llamas are only a few commands and a little data prep away</h4> <p><strong>Hands on</strong>  Large language models (LLMs) are remarkably effective at generating text and regurgitating information, but they&#39;re ultimately limited by the corpus of data they were trained on.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/10/llm_finetuning_guide/>
+
+---
+
+## Unbreakable Voyager space probes close in on a 50 year mission
+
+date: 2024-11-09, updated: 2024-11-09, from: The Register (UK I.T. News)
+
+<h4>Dwindling power and problematic communications, but the spacecraft just keeps on going</h4> <p>&#34;We&#39;re definitely going to make the 50th anniversary,&#34; says Professor Garry Hunt, one of the scientists responsible for NASA&#39;s Voyager mission, as Voyager 1 recovers from an unexpected pause in communications.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/09/voyager_closes_in_on_a/>
+
+---
+
+## Intel: Our finances are in the toilet, we're laying off 15K, but the free coffee is back!
+
+date: 2024-11-09, updated: 2024-11-09, from: The Register (UK I.T. News)
+
+<h4>Now that&#39;s a brew-haha</h4> <p>Struggling chip giant Intel has rescinded a cost-cutting plan to abolish free coffee and tea for its staff.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/09/intel_free_coffee/>
+
+---
+
+## Sols 4357–4358: Turning West
+
+date: 2024-11-08, from: NASA breaking news
+
+Earth planning date: Wednesday, Nov. 6, 2024 Sols 4357–4358: Turning West If you’ve ever driven down a road that’s in need of repaving, you’ll know that it can be an uncomfortable experience. The same is true on Mars: even at our carefully slow driving speed, the rough, rocky terrain that we’ve found ourselves in since […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4357-4358-turning-west/>
+
+---
+
+## WordPress's Automattic openly tracks websites bailing from rival WP Engine
+
+date: 2024-11-08, updated: 2024-11-08, from: The Register (UK I.T. News)
+
+<h4>The new normal</h4> <p>The feud between Automattic CEO Matt Mullenweg and rival web hosting firm WP Engine has led Automattic to create a website that lists WordPress customers who have moved their site hosting away from WP Engine and those who haven&#39;t.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/08/automattic_tracking_wpengine/>
+
+---
+
+## NASA Ames Astrogram – September/October 2024
+
+date: 2024-11-08, from: NASA breaking news
+
+TIME Recognizes the Advanced Composite Solar Sail System In October, the Advanced Composite Solar Sail System a project managed at NASA Ames, was recognized by TIME Magazine as a “Top Invention of 2024”! TIME Magazine also recognized two other NASA missions this year: Europa Clipper, and the Deep Space Optical Communications experiment.  &#160; The&#160;Advanced Composite Solar [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/nasa-ames-astrogram-september-october-2024/>
+
+---
+
+## Judge tosses publishers' copyright suit against OpenAI
+
+date: 2024-11-08, updated: 2024-11-08, from: The Register (UK I.T. News)
+
+<h4>Raw Story and AltNet allowed to amend complaint</h4> <p>A US judge has thrown out a case against ChatGPT developer OpenAI which alleged it unlawfully removed copyright management information (CMI) when building training sets for its chatbots.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/08/openai_copyright_suit_dismissed/>
+
+---
+
+## Surfer Spots an Emperor Penguin on a Beach in Australia, Thousands of Miles From Its Antarctic Home
+
+date: 2024-11-08, from: Smithsonian Magazine
+
+It's not clear how the juvenile male ended up so far north, but experts suggest he was motivated by his appetite 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/surfer-spots-an-emperor-penguin-on-a-beach-in-australia-thousands-of-miles-from-its-antarctic-home-180985421/>
+
+---
+
+## Travelers Can Now Buy a Can of '100 Percent Authentic Air' From Italy's Lake Como
+
+date: 2024-11-08, from: Smithsonian Magazine
+
+It's not the first time savvy entrepreneurs have marketed canned air to tourists. Similar products have been sold at vacation destinations for decades 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/travelers-can-now-buy-a-can-of-100-percent-authentic-air-from-italys-lake-como-180985423/>
+
+---
+
+## TSMC halts advanced chip shipments to Chinese AI companies
+
+date: 2024-11-08, updated: 2024-11-08, from: The Register (UK I.T. News)
+
+<h4>Move to suspend 7 nm and smaller processes follows US pressure</h4> <p>Semiconductor giant TSMC is expected to stop supplying chips made with 7 nm or smaller processes to customers in China that are developing AI processors or GPUs. The move is reportedly to ensure it remains compliant with US export restrictions.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/08/tsmc_chinese_ai_shipments/>
+
+---
+
+## Mozilla Foundation lays off 30% of its employees, ends advocacy for open web, privacy, and more
+
+date: 2024-11-08, from: OS News
+
+More bad news from Mozilla. The Mozilla Foundation, the nonprofit arm of the Firefox browser maker Mozilla, has laid off 30% of its employees as the organization says it faces a “relentless onslaught of change.”  Announcing the layoffs in an email to all employees on October 30, the Mozilla Foundation’s executive director Nabiha Syed confirmed that two of the foundation’s major divisions — advocacy and global programs — are “no longer a part of our structure.” ↫ Zack Whittaker at TechCrunch This means Mozilla will no longer be advocating for an open web, privacy, and related ideals, which fits right in with the organisation&#8217;s steady decline into an ad-driven effort that also happens to be making a web browser used by, I&#8217;m sorry to say, effectively nobody. I just don&#8217;t know how many more signs people need to see before realising that the future of Firefox is very much at stake, and that we&#8217;re probably only a few years away from losing the only non-big tech browser out there. This should be a much bigger concern than it seems to be to especially the Linux and BSD world, who rely heavily on Firefox, without a valid alternative to shift to once the browser&#8217;s no longer compatible with the various open source requirements enforced by Linux distributions and the BSDs. What this could also signal is that the sword of Damocles dangling above Mozilla&#8217;s head is about to come down, and that the people involved know more than we do. Google is effectively bankrolling Mozilla &#8211; for about 80% of its revenue &#8211; but that deal has come under increasing scrutiny from regulars, and Google itself, too, must be wondering why they&#8217;re wasting money supporting a browser nobody&#8217;s using. We&#8217;re very close to a web ruled by Google and Apple. If that prospect doesn&#8217;t utterly terrify you, I honestly wonder what you&#8217;re doing here, reading this. 
+
+<br> 
+
+<https://www.osnews.com/story/141100/mozilla-foundation-lays-off-30-of-its-employees-ends-advocacy-for-open-web-privacy-and-more/>
+
+---
+
+## Fedora KDE approved to become of equal status to Fedora GNOME
+
+date: 2024-11-08, from: OS News
+
+Earlier this year, a proposal was made to replace the primary edition of Fedora from the GNOME variant to the KDE variant. This proposal, while serious, was mostly intended to stir up discussion about the position of the Fedora KDE spin within the larger Fedora community, and it seems this has had its intended effect. A different, but related proposal, to make Fedora KDE equal in status to the Fedora GNOME variant, has been accepted. The original proposal read: After a few months of being live, the proposal has now been unanimously accepted, which means that starting with Fedora 42, the GNOME and KDE versions will have equal status, and thus will receive equal marketing and positioning on the website. Considering how many people really enjoy Fedora KDE, this is a great outcome, and probably the fairest way to handle the situation for a distribution as popular as Fedora. I use Fedora KDE on all my machines, so for me, this is great news. 
+
+<br> 
+
+<https://www.osnews.com/story/141098/fedora-kde-approved-to-become-of-equal-status-to-fedora-gnome/>
+
+---
+
+## Forty-Three Monkeys Are on the Loose in South Carolina After Escaping a Research Facility When a Door Was Left Unsecured
+
+date: 2024-11-08, from: Smithsonian Magazine
+
+Once the first primate made a break, the 42 others followed suit in a simple case of monkey-see, monkey-do 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/forty-three-monkeys-are-on-the-loose-in-south-carolina-after-escaping-a-research-facility-when-a-door-was-left-unsecured-180985430/>
+
+---
+
+## Chimpanzees Could Never Randomly Type the Complete Works of Shakespeare, Study Finds
+
+date: 2024-11-08, from: Smithsonian Magazine
+
+While testing the "infinite monkey theorem," mathematicians found that the odds of a chimpanzee typing even a short phrase like "I chimp, therefore I am" before the death of the universe are 1 in 10 million billion billion 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/chimpanzees-could-never-randomly-type-the-complete-works-of-shakespeare-study-finds-180985394/>
+
+---
+
+## $50M semiconductor fraudster pleads guilty to Russian chip-exporting scheme
+
+date: 2024-11-08, updated: 2024-11-08, from: The Register (UK I.T. News)
+
+<h4>And separately, alleged ex-military traitor also arrested in Frankfurt</h4> <p>The US is moving forward with its prosecution of a man who is accused of illegally shipping semiconductors to sanctioned businesses in Russia after he pleaded guilty to the multi-million-dollar scheme.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/08/50m_semiconductor_shyster_pleads_guilty/>
+
+---
+
+## NASA Named one of America’s Best Employers for Veterans
+
+date: 2024-11-08, from: NASA breaking news
+
+NASA is one of America’s Best Employers for Veterans, according to Forbes and Statista. Statista surveyed more than 24,000 military veterans – having served in the United States Armed Forces – working for companies with a minimum of 1,000 employees. Veterans were asked to share opinions about their employer on factors such as working conditions, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/careers/nasa-named-one-of-americas-best-employers-for-veterans/>
+
+---
+
+## Archaeologists Are Bewildered by a Skeleton Made From the Bones of at Least Eight People Who Died Thousands of Years Apart
+
+date: 2024-11-08, from: Smithsonian Magazine
+
+Found in a cremation cemetery in Belgium, the skeleton includes bones dating to the Neolithic period and a Roman-era skull, according to a new study 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/archaeologists-are-bewildered-by-a-skeleton-made-from-the-bones-of-at-least-eight-people-who-died-thousands-of-years-apart-180985419/>
+
+---
+
+## Hubble Captures a Galaxy with Many Lights
+
+date: 2024-11-08, from: NASA breaking news
+
+This NASA/ESA Hubble Space Telescope image features NGC 1672, a barred spiral galaxy located 49 million light-years from Earth in the constellation Dorado. This galaxy is a multi-talented light show, showing off an impressive array of different celestial lights. Like any spiral galaxy, shining stars fill its disk, giving the galaxy a beautiful glow. Along its two [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/hubble-captures-a-galaxy-with-many-lights/>
+
+---
+
+## The US government wants developers to stop using C and C++
+
+date: 2024-11-08, updated: 2024-11-08, from: The Register (UK I.T. News)
+
+<h4>Does anyone want to tell Linus Torvalds? No? I didn&#39;t think so</h4> <p><strong>Opinion</strong>  I must be a glutton for punishment. Not only was my first programming language IBM 360 Assembler, my second language was C. Programming anything in them wasn&#39;t easy. Programming safely in either is much harder.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/08/the_us_government_wants_developers/>
+
+---
+
+## Rare 'Terror Bird' Fossil Found in Colombia Reveals the Enormous Size of a Prehistoric Predator
+
+date: 2024-11-08, from: Smithsonian Magazine
+
+The bone, described two decades after its discovery, suggests the species might have grown up to 20 percent bigger than other terror birds 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/rare-terror-bird-fossil-found-in-colombia-reveals-the-enormous-size-of-a-prehistoric-predator-180985403/>
+
+---
+
+## Math, Mentorship, Motherhood: Behind the Scenes with NASA Engineers
+
+date: 2024-11-08, from: NASA breaking news
+
+Editor&#8217;s note: This article was originally published on February 22, 2024. Engineering is a huge field with endless applications. From aerospace to ergonomics, engineers play an important role in designing, building, and testing technologies all around us. We asked three engineers at NASA’s Ames Research Center in California’s Silicon Valley to share their experiences, from [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/aeronautics/math-mentorship-motherhood-nasa-engineers/>
+
+---
+
+## I Am Artemis: Joe Vermette
+
+date: 2024-11-08, from: NASA breaking news
+
+While some stand on the sidelines and witness history, others are destined to play a part in it. And then there are those who document it, bringing the people, the action, the images, the words, and the personalities to the world. U. S. Navy Reservist Public Affairs Officer and program strategic communicator for NASA’s HLS [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/i-am-artemis-joe-vermette/>
+
+---
+
+## Microsoft still not said anything about unexpected Windows Server 2025 installs
+
+date: 2024-11-08, updated: 2024-11-08, from: The Register (UK I.T. News)
+
+<h4>Affected business calls situation &#39;mindbogglingly dangerous&#39; as sysadmins reminded to check backup and restore strategies</h4> <p>Microsoft remains silent over Windows Server 2025 turning up in the guise of a security update earlier this week, much to the chagrin of affected administrators.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/08/windows_2025_surprise_install/>
+
+---
+
+## Powerful New US-Indian Satellite Will Track Earth’s Changing Surface
+
+date: 2024-11-08, from: NASA breaking news
+
+Data from NISAR will improve our understanding of such phenomena as earthquakes, volcanoes, and landslides, as well as damage to infrastructure. We don’t always notice it, but much of Earth’s surface is in constant motion. Scientists have used satellites and ground-based instruments to track land movement associated with volcanoes, earthquakes, landslides, and other phenomena. But [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/nisar/powerful-new-us-indian-satellite-will-track-earths-changing-surface/>
+
+---
+
+## NASA Kennedy’s Applied Chemistry Lab Achieves Agency First
+
+date: 2024-11-08, from: NASA breaking news
+
+NASA’s Kennedy Space Center in Florida has a long record of achievements in sustainability and recently added another to the list when the spaceport’s Applied Chemistry Lab became the first in the agency to be certified for its environmentally conscious practices. The My Green Lab Certification recognizes sustainability best practices in research facilities around the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/kennedy/ksc-sustainability/nasa-kennedys-applied-chemistry-lab-achieves-agency-first/>
 
 ---
 
@@ -69,11 +369,11 @@ This NASA/ESA Hubble Space Telescope image features NGC 1672, a barred spiral ga
 
 ---
 
-## Former SK hynix chip engineer gets 1.5 years in prison for alleged IP theft
+## Former SK hynix chip engineer gets 1.5 years in prison for IP theft
 
-date: 2024-11-08, updated: 2024-11-08, from: The Register (UK I.T. News)
+date: 2024-11-08, updated: 2024-11-10, from: The Register (UK I.T. News)
 
-<h4>Printed around 4,000 pages of tech before leaving for a job at Huawei, claims court</h4> <p>A Chinese national was sentenced to 18 months in prison and fined ₩20 million ($14,400) for allegedly stealing semiconductor manufacturing technology from SK hynix, according to a South Korean court ruling.…</p> 
+<h4>Printed around 4,000 pages of tech before leaving for a job at Huawei</h4> <p>A Chinese national was sentenced to 18 months in prison and fined ₩20 million ($14,400) for allegedly stealing semiconductor manufacturing technology from SK hynix, according to a South Korean court ruling.…</p> 
 
 <br> 
 
@@ -227,9 +527,9 @@ The current version of Windows on ARM contains Prism, Microsoft&#8217;s emulator
 
 ## Flanked by Palantir and AWS, Anthropic's Claude marches into US defense intelligence
 
-date: 2024-11-07, updated: 2024-11-07, from: The Register (UK I.T. News)
+date: 2024-11-07, updated: 2024-11-09, from: The Register (UK I.T. News)
 
-<h4>An emotionally-manipulable AI in the hands of the Pentagon and CIA? This&#39;ll surely end well</h4> <p>Palantir has announced a partnership with Anthropic and Amazon Web Services to build a cloudy Claude platform suitable for the most secure of the US government&#39;s defense and intelligence use cases.…</p> 
+<h4>An emotionally manipulable AI in the hands of the Pentagon and CIA? Cool</h4> <p>Palantir has announced a partnership with Anthropic and Amazon Web Services to build a cloudy Claude platform suitable for the most secure of the US government&#39;s defense and intelligence use cases.…</p> 
 
 <br> 
 

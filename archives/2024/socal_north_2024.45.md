@@ -1,11 +1,310 @@
 ---
 title: socal north
-updated: 2024-11-08 07:49:51
+updated: 2024-11-10 09:48:02
 ---
 
 # socal north
 
-(date: 2024-11-08 07:49:51)
+(date: 2024-11-10 09:48:02)
+
+---
+
+## For your next social media fix, try these structural engineers in LA
+
+date: 2024-11-10, updated: 2024-11-10, from: The LAist
+
+Alpha Structural has been fixing foundations and other building-related structural problems for over three decades in SoCal. The family-run business also makes some kick-ass social content. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/for-your-next-social-media-fix-try-these-structural-engineers-in-la>
+
+---
+
+## America the Brave – Honoring Our Veterans
+
+date: 2024-11-09, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin As we approach Veterans Day, take a moment to reflect upon and honor the sacrifices made by the countless men and women who have fought for our country’s freedom. These individuals have shown an unrelenting devotion to our nation and preserve America’s reputation as being the home of the free, [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/11/09/america-the-brave-honoring-our-veterans/">America the Brave &#8211; Honoring Our Veterans</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/11/09/america-the-brave-honoring-our-veterans/>
+
+---
+
+## California enacts new climate rules — which could boost gas prices
+
+date: 2024-11-09, updated: 2024-11-09, from: The LAist
+
+Experts don’t know how much gas prices may rise from the new climate rules, which give incentives for low-carbon fuels. The board ordered an annual review. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/california-enacts-new-climate-rules-which-could-boost-gas-prices>
+
+---
+
+## Protestors call for city council to officially make LA a sanctuary city
+
+date: 2024-11-09, updated: 2024-11-09, from: The LAist
+
+They want the city council to codify protections for undocumented immigrants 
+
+<br> 
+
+<https://laist.com/news/immigration-march-nov9>
+
+---
+
+## Who will control the US House? Uncalled races in Southern California play a big role
+
+date: 2024-11-09, updated: 2024-11-10, from: The LAist
+
+With Republicans winning the White House and Senate, control of the House is still too close to call, according to the Associated Press. Here's a running list of races that are still outstanding. 
+
+<br> 
+
+<https://laist.com/news/politics/who-will-control-the-house-its-down-to-these-uncalled-races>
+
+---
+
+## Having trouble sleeping? To get back on track, avoid these 5 mistakes
+
+date: 2024-11-09, updated: 2024-11-09, from: The LAist
+
+When people can't sleep, they tend to take extreme measures to correct the issue. But that only makes sleep problems worse, say experts. Here are 5 bad habits to avoid when recovering from poor sleep. 
+
+<br> 
+
+<https://laist.com/news/health/having-trouble-sleeping-to-get-back-on-track-avoid-these-5-mistakes>
+
+---
+
+## Boycott men? South Korea's 4B movement gains traction in the U.S. after Trump's win
+
+date: 2024-11-09, updated: 2024-11-09, from: The LAist
+
+After Trump's win, there are growing calls among American women to boycott men. They're drawing inspiration from 4B, a South Korean feminist movement that rejects dating, sex, marriage and childbirth. 
+
+<br> 
+
+<https://laist.com/news/boycott-men-south-koreas-4b-movement-gains-traction-in-the-u-s-after-trumps-win>
+
+---
+
+## Kevin de León concedes District 14 race to Ysabel Jurado
+
+date: 2024-11-09, updated: 2024-11-09, from: The LAist
+
+A win for Jurado adds another progressive to the L.A. City Council. 
+
+<br> 
+
+<https://laist.com/news/politics/2024-election-california-general-los-angeles-city-council-district-14-results-analysis>
+
+---
+
+## Judge threatens to hold VA in contempt for failing to follow West LA campus housing order
+
+date: 2024-11-09, updated: 2024-11-09, from: The LAist
+
+If people are found in contempt, consequences can include fines or imprisonment. VA officials say the judge is acting illegally. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/judge-carter-contempt-threat-va-west-la-campus>
+
+---
+
+## 4 SoCal women share how they’re feeling after Trump's victory over Harris
+
+date: 2024-11-09, updated: 2024-11-09, from: The LAist
+
+We spoke with women across the political spectrum. Here’s how they described the moment they found out about former president Donald Trump’s win. 
+
+<br> 
+
+<https://laist.com/news/politics/4-socal-women-share-how-theyre-feeling-after-trumps-victory-over-harris>
+
+---
+
+## McDonnell confirmed as new LAPD chief, says he won't cooperate with ICE
+
+date: 2024-11-09, updated: 2024-11-09, from: The LAist
+
+The news that Jim McDonnell had been picked to lead the Los Angeles Police Department was announced early last month. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/city-council-confirms-mcdonnell-lapd-chief-amid-protests>
+
+---
+
+## Longtime Dorsey High educator Sherlett Hendy Newbill elected to LAUSD board
+
+date: 2024-11-08, updated: 2024-11-08, from: The LAist
+
+Hendy Newbill has decades of experience as a teacher, basketball coach and administrator at her alma mater Dorsey High School. 
+
+<br> 
+
+<https://laist.com/news/education/longtime-dorsey-high-educator-sherlett-hendy-newbill-elected-to-lausd-board>
+
+---
+
+## Are behavioral health patients getting sufficient care during the Kaiser strike?
+
+date: 2024-11-08, updated: 2024-11-08, from: The LAist
+
+Kaiser says it has a plan in place to ensure care continues during the work stoppage. But the union says it doesn’t go far enough. 
+
+<br> 
+
+<https://laist.com/news/health/kaiser-mental-health-patient-care-during-strike>
+
+---
+
+## The Central Library
+
+date: 2024-11-08, from: Transiting Los Angeles
+
+Central Library is one of the most beautiful main libraries anywhere in the country. Our guide will show just a few of the many treasures it has to offer inside. 
+
+<br> 
+
+<https://transitinglosangeles.com/2024/11/08/central-library/>
+
+---
+
+## What will happen to the beloved WWII hangar in Tustin after its 'twin' burned down?
+
+date: 2024-11-08, updated: 2024-11-08, from: The LAist
+
+Any potential future use for the hangar — maintaining it or even demolishing it — will require significant funds. 
+
+<br> 
+
+<https://laist.com/news/politics/what-will-happen-to-the-last-remaining-wwii-hangar-in-tustin>
+
+---
+
+## Old Town Newhall to Shine Bright at Light Up Main Street
+
+date: 2024-11-08, from: City of Santa Clarita
+
+<p>Annual Kickoff to the Holiday Season to Take Place November 16 Step onto Main Street in Old Town Newhall and you’ll be transported to the ultimate Winter Wonderland, complete with real snow, a chance to meet Santa and of course, tens of thousands of dazzling lights to create the perfect kickoff to the holiday season. [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/11/08/old-town-newhall-to-shine-bright-at-light-up-main-street/">Old Town Newhall to Shine Bright at Light Up Main Street</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/11/08/old-town-newhall-to-shine-bright-at-light-up-main-street/>
+
+---
+
+## All Aboard the Metrolink Holiday Express Train!
+
+date: 2024-11-08, from: City of Santa Clarita
+
+<p>Join Us for the Inaugural Event at the Vista Canyon Metrolink Station Step into a world of holiday fun! The City of Santa Clarita is excited to partner with Metrolink to offer our residents a new, unique and festive activity this holiday season. On Sunday, December 15 the Holiday Express Train will come to the [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/11/08/all-aboard-the-metrolink-holiday-express-train/">All Aboard the Metrolink Holiday Express Train!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/11/08/all-aboard-the-metrolink-holiday-express-train/>
+
+---
+
+## Be Part of the Change and Volunteer for Saugus Community Beautification Day!
+
+date: 2024-11-08, from: City of Santa Clarita
+
+<p> Help us Transform Bouquet Canyon Road! Want to make a difference in your community? Gather your friends and family for a rewarding day of giving back at the City of Santa Clarita’s Community Beautification Day in Saugus! Join us on Saturday, November 23, from 9:00 a.m. to 12:00 p.m. for this cleanup and beautification day. [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/11/08/be-part-of-the-change-and-volunteer-for-saugus-community-beautification-day/">Be Part of the Change and Volunteer for Saugus Community Beautification Day! </a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/11/08/be-part-of-the-change-and-volunteer-for-saugus-community-beautification-day/>
+
+---
+
+## Avalon High celebrates Homecoming
+
+date: 2024-11-08, from: Catalina Islander
+
+Avalon High celebrated Homecoming on Saturday, complete with a homecoming ceremony to crown this year’s Homecoming Court. Decorated golf carts and costumes highlighted the event, followed by a football game, the Lancer’s final regular season game of the year. Unfortunately for the Lancers, the game ended with a 54-14 loss to Faith Baptist. But Avalon [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/avalon-high-celebrates-homecoming/>
+
+---
+
+## Avalon Beautiful is back
+
+date: 2024-11-08, from: Catalina Islander
+
+For nearly 70 years, Avalon Beautiful has worked to enhance the community we all love so much. This year we’ve elected a new Board and are excited to jump back into making a real difference with improvement projects, restoration efforts, local awards and partnering with other service organizations in town. Since 1956, Avalon Beautiful has [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/avalon-beautiful-is-back/>
+
+---
+
+## Officials discuss skate park plan
+
+date: 2024-11-08, from: Catalina Islander
+
+Community Services Manager David Hart gave the council what he called a refresher on why the skate park is being changed into a multi-use facility. He spoke during the Department Head Reports to the Tuesday, Nov. 5, City Council meeting. The council discussed the issue Tuesday night. The council took no formal action but the [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/officials-discuss-skate-park-plan/>
+
+---
+
+## Avalon to extend sewer maintenance agreement for six months
+
+date: 2024-11-08, from: Catalina Islander
+
+By Charles M. Kelly The city manager will execute a letter of understanding with PERC Water Corporation to continue maintaining the city’s wastewater system for six months. The City Council voted unanimously on Tuesday, Nov. 5, to authorize City Manager David Maistros to execute the agreement with an adjusted 3% CPI rate. “On April 18, [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/avalon-to-extend-sewer-maintenance-agreement-for-six-months/>
+
+---
+
+## Veteran’s Day ceremony Monday at Memorial Park
+
+date: 2024-11-08, from: Catalina Islander
+
+Join the city of Avalon and Avalon VFW for a Veterans Day service at 11 a.m. at Avalon’s Veterans Memorial Park on Pebbly Beach Road. Time: 11 a.m. to noon. Download QR 
+
+<br> 
+
+<https://thecatalinaislander.com/veterans-day-ceremony-monday-at-memorial-park/>
+
+---
+
+## Female Teacher Suspected of Child Molestation Arrested
+
+date: 2024-11-08, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="761" height="972" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Colleen-Jo-Matarico-copy.jpg?fit=761%2C972&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Colleen-Jo-Matarico-copy.jpg?w=761&amp;ssl=1 761w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Colleen-Jo-Matarico-copy.jpg?resize=235%2C300&amp;ssl=1 235w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Colleen-Jo-Matarico-copy.jpg?resize=400%2C511&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Colleen-Jo-Matarico-copy.jpg?resize=706%2C902&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Colleen-Jo-Matarico-copy.jpg?fit=761%2C972&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>VALLEY VILLAGE (CNS) &#8211; A 43-year-old teacher suspected of child molestation was arrested Thursday, Nov. 7, in Valley Village. Colleen Jo Matarico was booked Thursday on suspicion of lewd acts [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/11/08/female-teacher-suspected-of-child-molestation-arrested/">Female Teacher Suspected of Child Molestation Arrested</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/11/08/female-teacher-suspected-of-child-molestation-arrested/>
 
 ---
 
@@ -221,7 +520,7 @@ We're monitoring wildfires as Santa Ana winds get stronger and create dangerous 
 
 date: 2024-11-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="682" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="682" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/AP24311286952542-1-scaled.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>By Bill Barrow Associated Press WASHINGTON (AP) — Donald Trump has promised sweeping action in a second administration. The former president and now president-elect often skipped over details but through more [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/11/07/donald-trump-has-sweeping-plans-for-a-second-administration-heres-what-hes-proposed/">Donald Trump Has Sweeping Plans for a Second Administration. Here’s What He’s Proposed</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -275,7 +574,7 @@ date: 2024-11-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-11-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?w=2100&amp;ssl=1 2100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?w=2100&amp;ssl=1 2100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Measure-A_SN_02_elsol.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Jayohn Carlton recuerda vívidamente cómo era experimentar la falta de vivienda cuando era niño. Durante más de dos años, Carlton y su madre vivieron principalmente en el coche de ella, [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/11/06/se-espera-que-la-medida-a-impulse-los-servicios-para-ayudar-a-combatir-y-prevenir-la-falta-de-vivienda/">Se Espera que la Medida A Impulse los Servicios para Ayudar a Combatir y Prevenir la Falta de Vivienda</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -318,7 +617,7 @@ date: 2024-11-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-11-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/110524_Sacramento-General-Election_MG_CM_20_elsol.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Por Ryan Sabalow y Sameea KamalCalMatters Mientras que los republicanos celebraron una ola roja a nivel nacional, los votantes de California afirmaron la sólida política azul del estado, y los [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/11/06/ponte-al-dia-rapidamente-esto-es-lo-que-sucedio-con-los-resultados-de-las-elecciones-de-california-mientras-dormias/">Ponte al Día Rápidamente: Esto es lo Que Sucedió con los Resultados de las Elecciones de California Mientras Dormías</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -333,7 +632,7 @@ date: 2024-11-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-11-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="904" height="520" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?fit=904%2C520&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?w=904&amp;ssl=1 904w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?resize=300%2C173&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?resize=768%2C442&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?resize=400%2C230&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?resize=706%2C406&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?fit=904%2C520&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="904" height="520" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?fit=904%2C520&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?w=904&amp;ssl=1 904w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?resize=300%2C173&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?resize=768%2C442&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?resize=400%2C230&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?resize=706%2C406&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Screenshot-2024-11-06-at-9.13.56-PM.png?fit=904%2C520&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>La titular del Concejo Municipal de San Fernando, Victoria García, y la ex asambleísta del estado de California, Patty López, lideran actualmente entre los cinco candidatos que compiten por dos [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/11/06/victoria-garcia-y-patty-lopez-lideran-la-carrera-por-el-concejo-municipal-de-san-fernando/">Victoria García y Patty López Lideran la Carrera por el Concejo Municipal de San Fernando</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -348,7 +647,7 @@ date: 2024-11-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2024-11-07, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/20241104_MeasureG_09-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Los resultados de las semifinales de las elecciones del martes mostraron que los votantes estaban divididos casi en partes iguales sobre la Medida G, con los votos a favor liderando [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/11/06/aun-hay-que-contar-los-votos-finales-para-la-medida-g/">Aún hay que contar los votos finales para la Medida G</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -526,11 +825,11 @@ The Orange County city was poised to become the first city in California to allo
 
 ---
 
-## Still at 0% containment, Mountain Fire in Ventura continues charge toward ocean
+## Containment increases for Mountain Fire, but high winds could return this week
 
-date: 2024-11-06, updated: 2024-11-07, from: The LAist
+date: 2024-11-06, updated: 2024-11-10, from: The LAist
 
-A fast-burning fire in the mountains is being pushed by exceptionally strong and dry Santa Ana winds, burning thousands of acres, destroying homes and forcing evacuations 
+A fast-burning fire in the mountains has been pushed by exceptionally strong and dry Santa Ana winds, burning thousands of acres, destroying homes and forcing evacuations. 
 
 <br> 
 
@@ -538,11 +837,11 @@ A fast-burning fire in the mountains is being pushed by exceptionally strong and
 
 ---
 
-## What we know so far about LA and OC voter turnout in the 2024 general election
+## Vote counting goes on in LA and Orange counties despite bomb threats
 
-date: 2024-11-06, updated: 2024-11-08, from: The LAist
+date: 2024-11-06, updated: 2024-11-10, from: The LAist
 
-A look at how many showed up to vote in the Nov. 5 presidential election, either in person or by mail, and how it compares to previous elections. 
+Both L.A. and Orange county voting operations have faced bomb threats — no explosives were found in either incident. We're tracking how many voters cast their ballots in the Nov. 5 presidential election, either in person or by mail. 
 
 <br> 
 

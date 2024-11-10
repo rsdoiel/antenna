@@ -1,11 +1,248 @@
 ---
 title: writing
-updated: 2024-11-08 07:49:52
+updated: 2024-11-10 09:48:03
 ---
 
 # writing
 
-(date: 2024-11-08 07:49:52)
+(date: 2024-11-10 09:48:03)
+
+---
+
+## The Ornithologist’s Field Guide to Love by India Holton: Review by Colleen Mondor
+
+date: 2024-11-10, from: Locus Magazine
+
+<p><strong>The Ornithologist’s Field Guide to Love</strong>, India Holton (Berkley 978-0-593-54728-1, $19.00, tp, 384pp) July 2024.</p>
+<p>Romantasy is a subgenre getting considerable attention and India Holton enters the field with a new series, that is a lot of fun. The first book, <strong>The Ornithologist’s Field Guide to Love</strong>, introduces two academics, Beth Pickering and Devon Lock­ley, who specialize in the study and, if necessary, capture of thaumaturgic birds. These  <a href="https://locusmag.com/2024/11/the-ornithologists-field-guide-to-love-by-india-holton-review-by-colleen-mondor/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/11/the-ornithologists-field-guide-to-love-by-india-holton-review-by-colleen-mondor/>
+
+---
+
+## New this week
+
+date: 2024-11-09, from: IF Database News
+
+The team has been hard at work on improvements to IFDB.
+
+<p><ul>
+<li><a href="https://ifdb.org/news?item=150">Estimated Play Time</a></li>
+<li><a href="https://ifdb.org/news?item=149">JSON APIs</a></li>
+<li><a href="https://ifdb.org/news?item=148">Removed Clubs</a></li>
+</ul></p> 
+
+<br> 
+
+<https://ifdb.org/news?item=151>
+
+---
+
+## Estimated Play Time
+
+date: 2024-11-09, from: IF Database News
+
+You can now use the "Estimated Play Time" form on any game to submit a "vote" for how long it takes to finish the game.
+
+<ul>
+<li>Vote only if you've played the game.</li>
+<li>Vote on how long it would take to get to one final ending without hints or a walkthrough.</li>
+<li>Time spent away from the game doesn't count.</li>
+<li>Times don't need to be exact. Good-faith estimates are fine.</li></ul>
+
+<p>We'll display the median time vote near the top of that game's page.</p>
+
+<p><b>This feature is very, very new.</b> We've got a lot of <a href="https://github.com/iftechfoundation/ifdb/issues?q=is%3Aissue+is%3Aopen+label%3A%22estimated+play+time%22">ideas for improvements</a>, and we've got a <a href="https://intfiction.org/t/ifdb-what-are-your-thoughts-about-a-field-for-length-of-time/72064/27?u=dfabulich">public discussion going on the intfiction.org forum</a>.</p> 
+
+<br> 
+
+<https://ifdb.org/news?item=150>
+
+---
+
+## JSON APIs
+
+date: 2024-11-09, from: IF Database News
+
+Most of our <a href="https://ifdb.org/api/">IFDB API</a> endpoints now support JSON.
+
+<ul>
+    <li>You can <a href="https://ifdb.org/api/search">search for games</a> and get JSON results</li>
+    <li>You can <a href="https://ifdb.org/api/viewgame">view an individual game</a> and get JSON results (now including tags and complete, unstripped HTML!)</li>
+    <li>You can <a href="https://ifdb.org/api/taggame">tag games</a> by posting a JSON array of tags</li>
+</ul>
+
+<p>All of the old APIs still work in XML mode, but <b>JSON is the preferred format for all new code.</b> (The API to add/edit games is still XML-only, for now.)</p>
+
+<p>In addition, we deprecated the <a href="https://ifdb.org/api/gametags">gametags API</a>. You can view tags on an individual game with the <a href="https://ifdb.org/api/viewgame">viewgame API</a>, or view your own tags with the <a href="https://ifdb.org/api/search">search API</a>, like this:</p>
+
+<p><code>https://ifdb.org/search?json&tag&searchfor=tuid:<i>xxx</i>+mine:yes</code></p> 
+
+<br> 
+
+<https://ifdb.org/news?item=149>
+
+---
+
+## Removed Clubs
+
+date: 2024-11-09, from: IF Database News
+
+The IFDB "clubs" feature has been removed. Nobody was using the feature, partly because <a href="https://github.com/iftechfoundation/ifdb/issues/950">clubs didn't do very much</a>. 
+
+<br> 
+
+<https://ifdb.org/news?item=148>
+
+---
+
+## SF in Japan
+
+date: 2024-11-09, from: Locus Magazine
+
+<p class="subhead" xml:lang="en-us"></p>
+<p class="normal" xml:lang="en-us">In my previous article on Japanese science fiction, published in Locus in 2016, I likened my experience of living in Japan to Urashima Taro’s rise from his present world (eighth century) to the world of the future, with its fast-forward jumble of pop-culture iconography. This sense of Japan and its current state in science fiction is even more relevant in the wake of COVID, as these changes have only accelerated.  <a href="https://locusmag.com/2024/11/sf-in-japan/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/11/sf-in-japan/>
+
+---
+
+## Kree by Manuela Draeger: Review by Jake Casella Brookins
+
+date: 2024-11-09, from: Locus Magazine
+
+<p><strong>Kree</strong>, Manuela Draeger (University of Min­nesota Press 978-1-51791-512-4, $21.95, 280pp, tp) October 2024.</p>
+<p>Manuela Draeger’s <strong>Kree </strong>is so immedi­ately violent that I wasn’t sure it was going to be for me. Somehow, though, within just a few chapters, the novel’s mix of haunting imagery and almost humorous un­predictability grew so compelling that I found myself wanting to track down everything else the author has written. A midapocalyptic story set  <a href="https://locusmag.com/2024/11/kree-by-manuela-draeger-review-by-jake-casella-brookins/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/11/kree-by-manuela-draeger-review-by-jake-casella-brookins/>
+
+---
+
+## 2024 Ignyte Award Winners
+
+date: 2024-11-08, from: Locus Magazine
+
+<p>The Ignyte Awards Committee has announced the winners of the 2024 Ignyte Awards, which &#8220;seek to celebrate the vibrancy and diversity of the current and future landscapes of science fiction, fantasy, and horror by recognizing incredible feats in storytelling and outstanding efforts toward inclusivity of the genre.&#8221;</p>
+<div class="mynomorebulletlist">
+<p><strong>Outstanding Novel: Adult</strong></p>
+<p>WINNER: <strong style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;">The Saint of Bright Doors</strong>, Vajra Chandrasekera (Tordotcom)</p>
+<ul>
+<li><strong>To Shape a Dragon’s Breath</strong>, Moniquill Blackgoose (Del Rey)</li></ul></div> <a href="https://locusmag.com/2024/11/2024-ignyte-award-winners/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2024/11/2024-ignyte-award-winners/>
+
+---
+
+## 🔘 #224 - Concern, Influence, and Control
+
+date: 2024-11-08, from: Interesting, a blog on writing
+
+What are you going to do about it? What can you do? 
+
+<br> 
+
+<https://inneresting.substack.com/p/224-concern-influence-and-control>
+
+---
+
+## The Art of Killing Off Major Characters in your Script
+
+date: 2024-11-08, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/the-art-of-killing-off-major-characters-in-your-script" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Pulp%20Fiction.png" alt="John Travolta in 'Pulp Fiction'" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Nothing stirs the emotions like the death of a major character in a feature film or television series. Whether they’re killed off midway through a <a href="https://blog.finaldraft.com/how-watching-movies-taught-quentin-tarantino-and-can-teach-screenwriters">Quentin Tarantino</a> movie or during a pivotal episode of a TV series, these moments get people talking and debating, sometimes for years if not decades.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/the-art-of-killing-off-major-characters-in-your-script>
+
+---
+
+## Featured Friday: New Parents
+
+date: 2024-11-08, from: John August blog
+
+Weekend Read, our app for reading scripts on your phone, features a new curated collection of screenplays each week. This week, we look at stories that explore the stress, anxiety, chaos and occasional joy that comes with being a new parent. Our collection includes: Bridget Jones’s Baby by Helen Fielding and Dan Mazer and Emma [&#8230;]
+The post <a href="https://johnaugust.com/2024/featured-friday-new-parents">Featured Friday: New Parents</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2024/featured-friday-new-parents>
+
+---
+
+## GigaNotoSaurus, Diabolical Plots, and Small Wonders: Short Fiction Reviews by Charles Payseur
+
+date: 2024-11-08, from: Locus Magazine
+
+<p>GigaNotoSaurus 8/24
+Diabolical Plots 8/24
+Small Wonders 8/24</p>
+<p>The August GigaNotoSaurus story is <strong>Sarah J. Wu</strong>’s “<strong>Elves in Illinois</strong>”, which finds Linnet growing up in a small rural town that abuts a forest where fae live and hire out their services to farmers to ensure prosperous crop yields re­gardless of drought or blight. Linnet’s family is initially reluctant to pay the fees that the fae ask for  <a href="https://locusmag.com/2024/11/giganotosaurus-diabolical-plots-and-small-wonders-short-fiction-reviews-by-charles-payseur/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/11/giganotosaurus-diabolical-plots-and-small-wonders-short-fiction-reviews-by-charles-payseur/>
+
+---
+
+## Brooklyn Books and Booze
+
+date: 2024-11-08, from: Locus Magazine
+
+<p class="normal" xml:lang="en-us">Ledia Xhoga, Keith R.A. DeCandido, Katherine Silva, Catherynne M. Valente read at the Barrow&#8217;s Intense Tasting Room in Industry City, Brooklyn NY on October 15, 2024 as part of the Brooklyn Books &#38; Booze Reading series, hosted by Randee Dawn.</p>
+
+<p><strong>While you are here,</strong> please take a moment to support Locus with a one-time or recurring donation. We rely on reader donations to keep the magazine and site going, and  <a href="https://locusmag.com/2024/11/brooklyn-books-and-booze-2/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/11/brooklyn-books-and-booze-2/>
+
+---
+
+## Write On: Screenwriting Coach Lee Jessup & Literary Manager Jeff Portnoy
+
+date: 2024-11-08, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-screenwriting-coach-lee-jessup-literary-manager-jeff-portnoy" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Lee%20Jessup%20Jeff%20Portnoy.jpg" alt="Write On: Screenwriting Coach Lee Jessup &amp; Literary Manager Jeff Portnoy" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<div>
+  “The streaming bubble finally popped, and I think the tip of the spear that popped it was the double strikes we had last year and now we’re calling it the great contraction. It’s a really tough time for up-and-coming writers to break in. It’s tough for everyone, even up-and-coming agents and managers, anyone coming out to Hollywood to pursue a career. It’s one of the toughest times ever, so you need to be patient,” says literary manager Jeff Portnoy, of Bellevue Productions. &nbsp; 
+ <br> 
+ <br>On today’s podcast, guest host Lee Jessup, Hollywood’s leading screenwriting career coach and judge of the Big Break screenwriting competition, interviews Jeff Portnoy, literary manager for Bellevue Productions. They discuss the current state of the industry and how it’s affecting writers.&nbsp; 
+ <br> 
+ <br>“We’ve been encouraging a lot of new writers to focus on features at the moment and explaining how bleak the TV staffing market is right now. So if they have hopes of getting staffed, it’s very difficult right now. Typically, if we had a client who wants to write in the TV space, we’d help them get a TV agent and we, the agents and I, would go out and try to get them staffed. But agents aren’t really signing anyone below mid level right now, so they’re not taking on those up-and-coming writers,” says Portnoy.&nbsp; 
+ <br> 
+ <br>But there is hope considering business trends are always cyclical. Portnoy shares this advice about writing spec features in this climate: “You want to stand out and that comes down to your ideas. The execution has to be great. It’s about choosing ideas that really stand out in a pack – the words I like to use are loud, bold, audacious. Managers, agents, producers – we see thousands of loglines a month and if we see a logline that’s loud, audacious and bold, it’s going to stand out.” 
+ <br> 
+ <br>To hear more about the state of the industry, listen to the podcast.&nbsp; 
+</div> 
+<div> 
+ <br> 
+ <div> 
+  <div class="hs-embed-wrapper" style="position: relative; overflow: hidden; width: 100%; height: auto; padding: 0; max-width: 880px; min-width: 256px; display: block; margin: auto;"> 
+   <div class="hs-embed-content-wrapper"> 
+    <div style="position: relative; overflow: hidden; max-width: 100%; padding-bottom: 35%; margin: 0px;">  
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</div> 
+
+<br> 
+
+<https://blog.finaldraft.com/write-on-screenwriting-coach-lee-jessup-literary-manager-jeff-portnoy>
 
 ---
 
