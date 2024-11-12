@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2024-11-11 09:13:39
+updated: 2024-11-12 11:20:05
 ---
 
 # craft
 
-(date: 2024-11-11 09:13:39)
+(date: 2024-11-12 11:20:05)
+
+---
+
+## Building Chests – from “Woodworking in Estonia”
+
+date: 2024-11-12, from: Lost Arg Press blog
+
+The following is excerpted from “Woodworking in Estonia.”&#160;The author, Ants Viires, devoted his life to recording the hand-tool folkways of his country without a shred of romanticism. Viires combined personal interviews and direct observation of work habits with archaeological evidence and a thorough scouring of the literature in his country and surrounding nations. If all... 
+
+<br> 
+
+<https://blog.lostartpress.com/2024/11/12/building-chests-from-woodworking-in-estonia/>
 
 ---
 

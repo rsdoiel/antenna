@@ -1,11 +1,319 @@
 ---
 title: journalism
-updated: 2024-11-11 09:13:37
+updated: 2024-11-12 11:20:04
 ---
 
 # journalism
 
-(date: 2024-11-11 09:13:37)
+(date: 2024-11-12 11:20:04)
+
+---
+
+## Africana Studies: Past and future unite
+
+date: 2024-11-12, from: The Sundail (CSUN Student Newspaper)
+
+The CSUN African Studies Department hosted a lecture and alumni panel during this year’s Africana Studies Week, celebrating past achievements and legacies while inspiring students to build a stronger future.... 
+
+<br> 
+
+<https://sundial.csun.edu/187490/arts-entertainment/africana-studies-past-and-future-unite/>
+
+---
+
+## A List of Not-So-Mid Things We Enjoy
+
+date: 2024-11-12, from: California Tech (Caltech Student Newspaper)
+
+Unlike finals, we don’t get the week off for midterms, so this season is particularly mid. To all of you reading this article, keep pushing through! We are proud of you, and you are doing really well. The light is at the end of the tunnel, I promise. 
+
+<br> 
+
+<https://tech.caltech.edu/2024/11/non-mid-things/>
+
+---
+
+## An Interview with Tim Ryan
+
+date: 2024-11-12, from: California Tech (Caltech Student Newspaper)
+
+Caltech alum &amp; entrepreneur Tim Ryan enrolled in Caltech in 1973. Initially a physics major – his advisor the famous Richard Feynman – Tim soon found himself swept up by the then-hot field of electrical engineering&hellip; 
+
+<br> 
+
+<https://tech.caltech.edu/2024/11/tim-ryan-interview/>
+
+---
+
+## Athletics in Admissions - Open Office Hours Recap
+
+date: 2024-11-12, from: California Tech (Caltech Student Newspaper)
+
+On Monday, November 4, faculty representatives hosted open office hours for students who wanted to hear more about the changes to Caltech’s undergraduate admissions practices. These changes involved reinstating standardized testing and reducing the role of athletic recruitment in admissions. 
+
+<br> 
+
+<https://tech.caltech.edu/2024/11/athletics-admissions-recap/>
+
+---
+
+## Caltech in 2024: A Year of Milestones, Achievements, and New Frontiers
+
+date: 2024-11-12, from: California Tech (Caltech Student Newspaper)
+
+2024 has been one of the most important years for Caltech, which continues to build on its legacy of scientific discovery, innovation, and academic excellence. 
+
+<br> 
+
+<https://tech.caltech.edu/2024/11/caltech-2024-milestones/>
+
+---
+
+## Caltech Swim & Dive Wins First Dual Meet
+
+date: 2024-11-12, from: California Tech (Caltech Student Newspaper)
+
+On Saturday, November 2, Caltech Swim &amp; Dive defeated the Occidental College Panthers at De Mandel Aquatics Center. 
+
+<br> 
+
+<https://tech.caltech.edu/2024/11/swim-dive-win/>
+
+---
+
+## Caltech Y Hosts Community Service & Advocacy Fair
+
+date: 2024-11-12, from: California Tech (Caltech Student Newspaper)
+
+The Caltech Y Community Service &amp; Advocacy (CSA) Fair on Friday, November 8, 2024, drew an impressive turnout on San Pasqual Walk&hellip; 
+
+<br> 
+
+<https://tech.caltech.edu/2024/11/caltech-y-hosts/>
+
+---
+
+## Can we detect an Earth-like-Exoplanet orbiting a Sun-like-Star for signs of life?
+
+date: 2024-11-12, from: California Tech (Caltech Student Newspaper)
+
+The search for life beyond Earth is a key priority for both the public and NASA. The observation of billions of galaxies in our universe has led us to ask: “Are we alone?” “Is there life out there?” 
+
+<br> 
+
+<https://tech.caltech.edu/2024/11/earth-like-exoplanet/>
+
+---
+
+## Crossing Over: An Arts and Sciences Fusion at Caltech
+
+date: 2024-11-12, from: California Tech (Caltech Student Newspaper)
+
+Crossing Over: Art and Science at Caltech, 1920–2020 (PST ART), an expansive public exhibition, unfolds across Caltech’s campus, offering visitors a unique exploration of the intersection between art and science. 
+
+<br> 
+
+<https://tech.caltech.edu/2024/11/crossing-over-exhibit/>
+
+---
+
+## Dean's Corner: On Athletics
+
+date: 2024-11-12, from: California Tech (Caltech Student Newspaper)
+
+Since before the Institute bore its present name, athletics has played a vital role in the Caltech experience as a means of supporting students’ overall health and wellbeing. 
+
+<br> 
+
+<https://tech.caltech.edu/2024/11/deans-corner-athletics/>
+
+---
+
+## e-plegona: Red Door Cafe's Interactive Art Installation Brings Yamaha's Vision of Kando to Caltech
+
+date: 2024-11-12, from: California Tech (Caltech Student Newspaper)
+
+&ldquo;e-plegona is designed for both musicians and non-musicians to experience the joy of group play without needing musical skill. It&rsquo;s about intuitive, collaborative play that even children can enjoy.&rdquo; 
+
+<br> 
+
+<https://tech.caltech.edu/2024/11/e-plegona/>
+
+---
+
+## Engineering TESLA, a Futurist Radio-on-Stage
+
+date: 2024-11-12, from: California Tech (Caltech Student Newspaper)
+
+A vivid exploration of Tesla, his genius, and his struggles, the play takes a panoramic view of its mystifying title subject. 
+
+<br> 
+
+<https://tech.caltech.edu/2024/11/tesla-radio-stage/>
+
+---
+
+## Hand Drill Hannibal Strikes Again
+
+date: 2024-11-12, from: California Tech (Caltech Student Newspaper)
+
+In a shocking turn of events, the elusive &ldquo;Hand Drill Hannibal&rdquo; has struck again, this time pilfering hand drills from both Blacker Hovse and Page House within the last week. 
+
+<br> 
+
+<https://tech.caltech.edu/2024/11/hand-drill-hannibal/>
+
+---
+
+## History of the Other Mascot
+
+date: 2024-11-12, from: California Tech (Caltech Student Newspaper)
+
+The Turtle Club’s mascot campaign aims to help differentiate Caltech from MIT and have a mascot reflective of our campus. 
+
+<br> 
+
+<https://tech.caltech.edu/2024/11/other-mascot-history/>
+
+---
+
+## Man vs. Mannion: Casa Bianca Pizza Pie Review
+
+date: 2024-11-12, from: California Tech (Caltech Student Newspaper)
+
+I’m in scarcely any position to assess Italian-American dining for The Tech; yet, last Thursday the 26th was I appointed by Mannion himself to do this exactly at Casa Bianca Pizza Pie, in the nearby suburb of Eagle Rock. 
+
+<br> 
+
+<https://tech.caltech.edu/2024/11/man-vs-mannion-casa-bianca/>
+
+---
+
+## New Security Cameras to be Installed at Undergraduate Residence Entrances This Fall, Live Starting January
+
+date: 2024-11-12, from: California Tech (Caltech Student Newspaper)
+
+Caltech Campus Security and the Facilities Department have begun the process of installing outdoor cameras at all entrances to undergraduate housing. 
+
+<br> 
+
+<https://tech.caltech.edu/2024/11/new-security-cameras/>
+
+---
+
+## Return of Question the Quail!
+
+date: 2024-11-12, from: California Tech (Caltech Student Newspaper)
+
+A SATIRE advice column about alive, ahaha, and everything in between! 
+
+<br> 
+
+<https://tech.caltech.edu/2024/11/quail-returns/>
+
+---
+
+## Editorial Cartoon: “Single’s Day”
+
+date: 2024-11-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160;&#160; 
+
+<br> 
+
+<https://dailybruin.com/2024/11/11/editorial-cartoon-singles-day/>
+
+---
+
+## USAC recap – Nov. 5
+
+date: 2024-11-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council held its first meeting of November on Tuesday.
+USAC is the official student government representing the undergraduate student body at UCLA. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/11/usac-recap-nov-5-3/>
+
+---
+
+## Bruin to Bruin: Rudy Quan
+
+date: 2024-11-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+In this episode of &#8220;Bruin to Bruin,&#8221; host Aidan Teeger interviews UCLA freshman tennis player Rudy Quan, who discusses his journey from childhood athlete to collegiate competitor and his experience balancing academics with Division I athletics. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/11/bruin-to-bruin-rudy-quan/>
+
+---
+
+## UCLA alumnus EJ Chen’s multifaceted approach to music showcases evolving artistry
+
+date: 2024-11-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+EJ Chen is turning raw emotion into songs that resonate.
+The UCLA alumnus released his latest single, &#8220;MAKE IT QUICK,&#8221; on Oct. 25, followed by a music video on Oct. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/11/ucla-alumnus-ej-chens-multifaceted-approach-to-music-showcases-evolving-artistry/>
+
+---
+
+## Technical Difficulties: Regulations on artificial intelligence must be implemented to protect all users
+
+date: 2024-11-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+Editors&#8217; note: This article includes descriptions of suicide.
+For millions of people, artificial intelligence chatbots are more than productivity tools or software gimmicks &#8211; they are friends. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/11/technical-difficulties-regulations-on-artificial-intelligence-must-be-implemented-to-protect-all-users/>
+
+---
+
+## Second Take: Despite overlooks, nominations for 2025 Grammy Awards capture vital music projects
+
+date: 2024-11-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+For once, it seems that the Grammy nominations are mostly right.
+The nominations for the 67th Annual Grammy Awards &#8211; which will be held on Feb. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/11/second-take-despite-overlooks-nominations-for-2025-grammy-awards-capture-vital-music-projects/>
+
+---
+
+## Pierce College Library hosts misinformation workshop
+
+date: 2024-11-11, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The Pierce College Library hosted a misinformation workshop on Wednesday from 2 p.m. to 3 p.m. in the Library Classroom and was organized by Pierce</p>
+<p>The post <a href="https://theroundupnews.com/2024/11/11/pierce-college-library-hosts-misinformation-workshop/">Pierce College Library hosts misinformation workshop</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2024/11/11/pierce-college-library-hosts-misinformation-workshop/?utm_source=rss&utm_medium=rss&utm_campaign=pierce-college-library-hosts-misinformation-workshop>
+
+---
+
+## 45 universities fill the Mall for Transfer Day
+
+date: 2024-11-11, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Students were actively engaged in Pierce College’s Transfer College Fair in an attempt to learn more about the transfer process and set their eyes on</p>
+<p>The post <a href="https://theroundupnews.com/2024/11/11/45-universities-fill-the-mall-for-transfer-day/">45 universities fill the Mall for Transfer Day</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2024/11/11/45-universities-fill-the-mall-for-transfer-day/?utm_source=rss&utm_medium=rss&utm_campaign=45-universities-fill-the-mall-for-transfer-day>
 
 ---
 
@@ -42,6 +350,18 @@ Project REACH made its debut to the CSUN community on Oct. 29 with a mixer held 
 <br> 
 
 <https://sundial.csun.edu/187464/arts-entertainment/project-reach-connecting-student-influencers-and-creators-to-new-opportunities/>
+
+---
+
+## Project REACH: Connecting student influencers and creators to new opportunities
+
+date: 2024-11-11, from: The Sundail (CSUN Student Newspaper)
+
+Project REACH made its debut to the CSUN community on Oct. 29 with a mixer held in the Orchard Conference Room Students engaged as the new club introduced its members... 
+
+<br> 
+
+<https://sundial.csun.edu/187464/news/project-reach-connecting-student-influencers-and-creators-to-new-opportunities/>
 
 ---
 

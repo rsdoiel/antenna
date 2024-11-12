@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2024-11-11 09:13:38
+updated: 2024-11-12 11:20:05
 ---
 
 # retro computing
 
-(date: 2024-11-11 09:13:38)
+(date: 2024-11-12 11:20:05)
+
+---
+
+## Elsear brings super-fast Networking to Risc PC/A7000/A7000+
+
+date: 2024-11-12, from: Icon Bar, RISC OS News
+
+If you visited the Elesar stand at the London Show (it was busy all day), you would have seen some of their new Ethernet cards for Risc PC/A7000/A7000+. 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2130.html>
+
+---
+
+## Fedora KDE Approved as an Official Spin
+
+date: 2024-11-11, from: Linux Magazine
+
+<p>If you prefer the Plasma desktop environment and the Fedora distribution, you're in luck because there's now an official spin that is listed on the same level as the Fedora Workstation edition.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Fedora-KDE-Approved-as-an-Official-Spin>
 
 ---
 

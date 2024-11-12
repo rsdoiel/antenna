@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2024-11-11 09:13:37
+updated: 2024-11-12 11:20:04
 ---
 
 # games
 
-(date: 2024-11-11 09:13:37)
+(date: 2024-11-12 11:20:04)
+
+---
+
+## Dragon Age’s oddest mystery is about a crossbow named Bianca
+
+date: 2024-11-12, updated: 2024-11-12, from: Polygon Website
+
+The opening few hours of Dragon Age: The Veilguard entice old players and get new ones up to speed with the clever use of one character: Varric Tethras, scribe of heroes. As a companion in the previous two games, he’s a familiar face, and as the guy who wrote the (fictional) book, he can tell [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/477773/dragon-age-varric-crossbow-bianca-name>
+
+---
+
+## Why won’t anyone let the director of Cowboy Bebop make a movie?
+
+date: 2024-11-12, updated: 2024-11-12, from: Polygon Website
+
+More than 25 years after the debut of Cowboy Bebop, no one can stop obsessing over Cowboy Bebop. Overwatch 2 cashed in on the everlasting craze for the anime earlier this year. Then Logic dropped new merch as part of a collab with Crunchyroll. Composer Yoko Kanno continues to play for packed houses around the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/anime/477716/cowboy-bebop-director-shinichiro-watanabe-movie-update>
+
+---
+
+## ‘Chapter 1: The Curse’ case summary walkthrough, hints, and solution in Rise of the Golden Idol
+
+date: 2024-11-12, updated: 2024-11-12, from: Polygon Website
+
+“The Curse” is the first chapter in Rise of the Golden Idol, and the case summary story puzzles will ask you to bring the events of the entire chapter together. You’ll be able to complete it once you finish the “Newsflash” case. As with all of our Rise of the Golden Idol case guides, our [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/rise-golden-idol-guide/477310/chapter-1-curse-case-summary-walkthrough-solutions-answer>
+
+---
+
+## ‘Newsflash’ case walkthrough, hints, and solution in Rise of the Golden Idol
+
+date: 2024-11-12, updated: 2024-11-12, from: Polygon Website
+
+“Newsflash” is the third case of Chapter 1 in Rise of the Golden Idol. It takes place right after “Under Construction.” As with all of our Rise of the Golden Idol case guides, our goal here is to provide a hint-based experience that will lead you to the solution without automatically showing you how to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/rise-golden-idol-guide/477285/newsflash-case-walkthrough-hints-solution-answer>
+
+---
+
+## ‘Under Construction’ case walkthrough, hints, and solution in Rise of the Golden Idol
+
+date: 2024-11-12, updated: 2024-11-12, from: Polygon Website
+
+“Under Construction” is the second case of Chapter 1 in Rise of the Golden Idol, taking place right after “Academic Impact.” As with all of our Rise of the Golden Idol case guides, our goal here is to provide a hint-based experience that will lead you to the solution without automatically showing you how to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/rise-golden-idol-guide/477106/under-construction-case-walkthrough-hints-solution-answer>
+
+---
+
+## ‘Academic Impact’ case walkthrough, hints, and solution in Rise of the Golden Idol
+
+date: 2024-11-12, updated: 2024-11-12, from: Polygon Website
+
+“Academic Impact” is the first case of Chapter 1 in Rise of the Golden Idol, taking place after the “Constriction” prologue case. As with all of our Rise of the Golden Idol case guides, our goal here is to provide a hint-based experience that will lead you to the solution without automatically showing you how [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/rise-golden-idol-guide/468022/academic-impact-case-walkthrough-hints-solution-answer>
+
+---
+
+## ‘Constriction’ case walkthrough, hints, and solution in Rise of the Golden Idol
+
+date: 2024-11-12, updated: 2024-11-12, from: Polygon Website
+
+“Constriction” is a case that acts as the prologue in Rise of the Golden Idol, teaching you both how to play the game and giving you a shocking vignette to start. As with all of our Rise of the Golden Idol case guides, our goal here is to provide a hint-based experience that will lead [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/rise-golden-idol-guide/477000/constriction-case-walkthrough-hints-solution-answer>
+
+---
+
+## Pokémon TCG Pocket devs won’t say if your pack choice matters
+
+date: 2024-11-12, updated: 2024-11-12, from: Polygon Website
+
+Each day, players of Pokémon Trading Card Game Pocket log on, choose a pack of digital cards, and open it. The basic premise has led fans to collectively spend millions of real-life dollars in the game, but since its release, this core part of the app has been scrutinized by fans.&#160; To open a pack [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon/477709/tcg-pocket-devs-pack-choice>
+
+---
+
+## Fortnite’s OG map is coming back just in time for the holidays
+
+date: 2024-11-12, updated: 2024-11-12, from: Polygon Website
+
+It’s time to hit the griddy, floss, or smash your go-to victory emote — a version of OG Fortnite, the original Chapter 1 Season 1 version of the game, will return as a permanent fixture of the popular battle royale shooter, Epic announced Tuesday. The game mode will launch on Dec. 6, just in time [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/477724/fortnite-og-returns-permanently-chapter-1-map>
+
+---
+
+## Dragon&#8217;s Dogma director Hideaki Itsuno to lead PUBG Mobile dev’s new Japanese studio
+
+date: 2024-11-12, updated: 2024-11-12, from: Polygon Website
+
+Just two months after his high-profile departure from Capcom, Dragon’s Dogma franchise creator Hideaki Itsuno’s already found a new gig: running his own studio. LightSpeed Studios, the Tencent subsidiary responsible for PUBG Mobile and, apparently, some random zombie game featuring actor Will Smith, announced this morning that Itsuno will be heading up its new LightSpeed [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/477714/hideaki-itsuno-dragons-dogma-devil-may-cry-lightspeed-studios-tencent>
 
 ---
 

@@ -1,11 +1,48 @@
 ---
 title: motorcycles
-updated: 2024-11-11 09:13:38
+updated: 2024-11-12 11:20:04
 ---
 
 # motorcycles
 
-(date: 2024-11-11 09:13:38)
+(date: 2024-11-12 11:20:04)
+
+---
+
+## Watch the World’s Longest Snowmobile Backflip, If You Can Handle Tension
+
+date: 2024-11-12, from: Ride Apart, Electric Motorcycle News
+
+I felt like I was holding my breath for 20 minutes. 
+
+<br> 
+
+<https://www.rideapart.com/news/740387/worlds-longest-snowmobile-backflip-lynx/>
+
+---
+
+## The All-New Aprilia Tuono 457 Wants To Say Hello To You
+
+date: 2024-11-12, from: Ride Apart, Electric Motorcycle News
+
+It knows it’s ready to destroy the entry-level naked bike segment.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/740266/2025-aprilia-tuono-457-launch-eicma/>
+
+---
+
+## Yokohama Has a New UTV Tire, Travis Pastrana Tests It With Wheelies and Drifts
+
+date: 2024-11-12, from: Ride Apart, Electric Motorcycle News
+
+Did you expect anything less? 
+
+<br> 
+
+<https://www.rideapart.com/news/740402/yokohama-geolander-mt-side-by-side-tires-travis-pastrana-test/>
 
 ---
 

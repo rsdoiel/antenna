@@ -1,11 +1,71 @@
 ---
 title: health
-updated: 2024-11-11 09:13:39
+updated: 2024-11-12 11:20:05
 ---
 
 # health
 
-(date: 2024-11-11 09:13:39)
+(date: 2024-11-12 11:20:05)
+
+---
+
+## The mammalian Ire1 inhibitor, 4µ8C, exhibits broad anti-Aspergillus activity in vitro and in a treatment model of fungal keratitis
+
+date: 2024-11-12, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectiveThe fungal unfolded protein response consists of a two-component relay in which the ER-bound sensor, IreA, splices and activates the mRNA of the transcription factor, HacA. Previously, we demonstrated that hacA is essential for Aspergillus fumigatus virulence in a murine model of fungal keratitis (FK), suggesting the pathway could serve as a therapeutic target. Here we investigate the antifungal properties of known inhibitors of the mammalian Ire1 protein both in vitro and in a treatment model of FK.MethodsThe antifungal activity of Ire1 inhibitors was tested against conidia of several A. fumigatus isolates by a broth microdilution assay and against fungal biofilm by XTT reduction. The influence of 4μ8C on hacA mRNA splicing in A. fumigatus was assessed through gel electrophoresis and qRT-PCR of UPR regulatory genes. The toxicity and antifungal profile of 4μ8C in the cornea was assessed by applying drops to uninfected or A. fumigatus-infected corneas 3 times daily starting 4 hours post-inoculation. Corneas were evaluated daily through slit-lamp imaging and optical coherence tomography, or at endpoint through histology or fungal burden quantification via colony forming units.ResultsAmong six Ire1 inhibitors screened, the endonuclease inhibitor 4μ8C displayed the strongest antifungal profile with an apparent fungicidal action. The compound both blocked conidial germination and hyphal metabolism of A. fumigatus Af293 in the same concentration range that blocked hacA splicing and UPR gene induction (60-120 µM). Topical treatment of sham-inoculated corneas with 0.5 and 2.5 mM 4μ8C did not impact corneal clarity, but did transiently inhibit epithelialization of corneal ulcers. Relative to vehicle-treated Af293-infected corneas, treatment with 0.5 and 2.5 mM drug resulted in a 50% and >90% reduction in fungal load, respectively, the latter of which corresponded to an absence of clinical signs of infection or corneal pathology.ConclusionThe in vitro data suggest that 4μ8C displays antifungal activity against A. fumigatus through the specific inhibition of IreA. Topical application of the compound to the murine cornea can furthermore block the establishment of infection, suggesting this class of drugs can be developed as novel antifungals that improve visual outcomes in FK patients. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1477463>
+
+---
+
+## Genomic characterization of a blaKPC-2–producing IncM2 plasmid harboring transposon ΔTn6296 in Klebsiella michiganensis
+
+date: 2024-11-12, from: Frontiers in Cellular and Infection Microbiology
+
+Klebsiella michiganensis is an emerging hospital-acquired bacterial pathogen, particularly strains harboring plasmid-mediated carbapenemase genes. Here, we recovered and characterized a multidrug-resistant strain, blaKPC-2–producing Klebsiella michiganensis LS81, which was isolated from the abdominal drainage fluid of a clinical patient in China, and further characterized the co-harboring plasmid. K. michiganensis LS81 tested positive for the blaKPC-2 genes by PCR sequencing, with blaKPC-2 located on a plasmid as confirmed by S1 nuclease pulsed-field gel electrophoresis combined with Southern blotting. In the transconjugants, the blaKPC-2 genes were successfully transferred to the recipient strain E. coli EC600. Whole-genome sequencing and bioinformatics analysis confirmed that this strain belongs to sequence type 196 (ST196), with a complete genome comprising a 5,926,662bp circular chromosome and an 81,451bp IncM2 plasmid encoding blaKPC-2 (designated pLS81-KPC). The IncM2 plasmid carried multiple β-lactamase genes such as blaTEM-1B, blaCTX-M-3, and blaKPC-2 inserted in truncated Tn6296 with the distinctive core structure ISKpn27–blaKPC-2–ISKpn6. A comparison with 46 K. michiganensis genomes available in the NCBI database revealed that the closest phylogenetic relative of K. michiganensis LS81 is a clinical isolate from a wound swab in the United Kingdom. Ultimately, the pan-genomic analysis unveiled a substantial accessory genome within the strain, alongside significant genomic plasticity within the K. michiganensis species, emphasizing the necessity for continuous surveillance of this pathogen in clinical environments. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1492700>
+
+---
+
+## Assessment of Babesia ovis pathogenicity in goats: implications for transmission dynamics and host resistant
+
+date: 2024-11-12, from: Frontiers in Cellular and Infection Microbiology
+
+Babesia ovis, commonly associated with ovine babesiosis, poses a significant threat to sheep health, often resulting in severe clinical manifestations and high mortality rates. However, the impact of B. ovis on goats has remained uncertain, prompting us to investigate its pathogenicity in caprine hosts. Experimental infections using B. ovis-infected blood inoculation and infected tick infestation, were conducted on spleen-intact (n=5) and splenectomized (n=5) goats. The experimental infection was performed using fresh blood obtained from a B. ovis-infected splenectomized sheep. One spleen-intact sheep served as a control for the experimental infection with B. ovis-infected Rhipicephalus bursa ticks. While all experimentally infected sheep (#501, #575) displayed severe clinical symptoms and high parasitemia, goats exhibited resistance, showing no significant clinical manifestations or sustained parasitemia. Notably, B. ovis was detected in two spleen-intact goats via nested PCR, prompting further investigation into their role as reservoirs for tick-borne transmission. These goats were then infested with Babesia spp.-free R. bursa larvae (0.1 gr) and adults (50 females and 50 males) for transstadial and transovarial transmission experiments respectively. Results indicated that chronically B. ovis-infected spleen-intact goats are not significant sources for maintaining the tick-borne transmission cycle of the parasite. These findings highlight the differential susceptibility of goats to B. ovis infection compared to sheep and their limited role as reservoirs for parasite transmission. Understanding the role of goats in B. ovis transmission and their resistance mechanisms can inform effective control measures and reduce economic losses in affected regions. Further research into caprine babesiosis and host immunological responses is essential to fully elucidate their possible role as reservoirs of the parasite, and underlying mechanisms of host susceptibility and parasite pathogenesis. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1480347>
+
+---
+
+## Advances in the study of oral microbiota and metabolism associated fatty liver disease: a systematic review
+
+date: 2024-11-12, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectiveThe oral microbiota is the second largest microbiota in the human body and has a significant impact on human health. Recent evidence suggests that dysbiosis of the oral microbiota may be associated with the development of metabolism-associated fatty liver disease (MAFLD). This review aimed to validate the relationship between oral microbial diversity and the development of MAFLD.MethodsA systematic evaluation was performed based on PRISMA guidelines. Three independent reviewers searched for relevant literature in several databases, including PubMed/Medline, Web of Science, and Scopus, with a search date ranging from the establishment of the databases to June 2024.ResultsA total of 1278 publications were initially screened, including five cross-sectional studies, seven case-control studies, one cohort study, and one retrospective study. These studies included a total of 3335 patients with MAFLD, 254 patients with MASH, and 105 patients with liver cirrhosis. All 14 included studies concluded that there was a correlation or potential correlation between oral microbiota and MAFLD. Seven studies found that the composition of the oral microbiota in MAFLD patients differed from that of healthy controls, and specific oral bacteria may be associated with an increased incidence of MAFLD. At the phylum level, several studies found differences in the abundance of the phyla Firmicutes, Proteobacteria, and Clostridia compared to healthy controls. Additionally, a study on oral fungi found significant differences in the phyla Proteobacteria and in the genus Staphylococcus between patients with MAFLD and healthy controls. At the genus level, Porphyromonas was studied most frequently, with all 8 studies identifying infection with Porphyromonas as a significant risk factor for pathological progression in MAFLD. Furthermore, a dysbiosis in the ratio of Porphyromonas gingivalis./Porphyromonas anomalies may be an important marker of MAFLD progression.ConclusionThere is an important association between the diversity of oral microbiota composition and MAFLD. This finding suggests the importance of oral health assessment and monitoring for the prevention or intervention of MAFLD. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1491696>
+
+---
+
+## Koala ocular disease grades are defined by chlamydial load changes and increases in Th2 immune responses
+
+date: 2024-11-12, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionThis study employs bulk RNA sequencing, PCR, and ELISA assays to analyze the pathological factors affecting the outcomes of C. pecorum ocular infections in koalas. It investigates the immune responses and gene expression profiles associated with various stages of koala ocular chlamydiosis.MethodsA cohort of 114 koalas from Queensland, Australia were assessed, with 47% displaying clinical signs of ocular disease. Animals were classified into three cohorts: acute active disease (G1), chronic active disease (G2), and chronic inactive disease (G3), along with subclinical Chlamydia pecorum positive (H2) and healthy (H1) cohorts.ResultsAnalysis of clinical, microbiological, humoral immune and cellular immune biomarkers revealed varying chlamydial loads and anti-chlamydial IgG levels across disease grades, with a negative correlation observed between ocular chlamydial load and anti-chlamydial IgG. Koala ocular mucosa gene expression analysis from 27 koalas identified shared expression pathways across disease cohorts, with a significant upregulation of IFNγ expression and tryptophan metabolism in all disease stages.DiscussionThese findings help elucidate immune response dynamics and molecular pathways underlying koala ocular chlamydiosis, providing insights crucial for disease management strategies. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1447119>
 
 ---
 
