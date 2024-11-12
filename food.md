@@ -1,11 +1,35 @@
 ---
 title: food
-updated: 2024-11-12 11:20:05
+updated: 2024-11-12 14:00:26
 ---
 
 # food
 
-(date: 2024-11-12 11:20:05)
+(date: 2024-11-12 14:00:26)
+
+---
+
+## Eva Longoria’s New Cookbook is a Love Letter to Mexican Cuisine
+
+date: 2024-11-12, from: Bon Appetet
+
+In an interview with Bon Appétit, Eva Longoria shares how a move to Mexico changed the way she cooks, her Sunday meal prep gameplan, and the Mexico City bakery that makes her favorite conchas. 
+
+<br> 
+
+<https://www.bonappetit.com/story/eva-longorias-love-letter-to-mexican-cuisine>
+
+---
+
+## Rogue Ales Unwraps Santa’s Private Reserve 2024: A Festive Stout With Portland Coffee Roasters
+
+date: 2024-11-12, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Sled into the holiday season with this limited time offering crafted by two Oregon icons for the perfect Christmas beer. 
+
+<br> 
+
+<https://sprudge.com/rogue-ales-unwraps-santas-private-reserve-2024-a-festive-stout-with-portland-coffee-roasters-258733.html>
 
 ---
 

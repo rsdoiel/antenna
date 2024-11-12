@@ -1,11 +1,167 @@
 ---
 title: science and technology
-updated: 2024-11-12 11:20:03
+updated: 2024-11-12 14:00:24
 ---
 
 # science and technology
 
-(date: 2024-11-12 11:20:03)
+(date: 2024-11-12 14:00:24)
+
+---
+
+## Valve ends Steam’s support for Windows 7 and 8
+
+date: 2024-11-12, from: OS News
+
+Steam has finally stopped working on several older Windows operating systems, following a warning from Valve that it planned to drop support earlier this year. With little fanfare, Windows 7 and Windows 8 gaming on Steam is no longer possible following the most recent Steam client update on November 5. ↫ Ben Stockton at PCGamesN It&#8217;s honestly wild that Valve supported Windows 7 and 8 for this long for Steam in the first place. They&#8217;ve been out of support for a long time, and at this point in time, less than 0.3% of Steam users were using Windows 7 or 8. Investing any resources in continuing to support them would be financially irresponsible, while also aiding a tiny bit in allowing people to use such unsupported, insecure systems to this day. I&#8217;m sure at least one of you is still rocking Windows 7 or 8 as your daily driver operating system, so I&#8217;m sorry if you don&#8217;t want to hear this, but it&#8217;s really, really time to move on. Buying a Windows 10 or 11 license on eBay or whatever costs a few euros at most &#8211; if you&#8217;re not eligible for one the free upgrade programs Microsoft ran &#8211; and especially Windows 10 should run just fine on pretty much anything Windows 7 or 8 runs on. Do note that with Windows 10, though, you&#8217;ll be back in the same boat next year. 
+
+<br> 
+
+<https://www.osnews.com/story/141107/valve-ends-steams-support-for-windows-7-and-8/>
+
+---
+
+## Oral History with Karol J. Bobko
+
+date: 2024-11-12, from: NASA breaking news
+
+A veteran of three space flights, Karol J. &#8220;Bo&#8221; Bobko was selected as an astronaut in 1969 and served as a crewmember on the Skylab Medical Experiments Altitude Test (SMEAT) 56-day ground simulation in preparation for the Skylab missions. He served in various positions supporting the Apollo-Soyuz Test Project and the first Approach and Landing [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/oral-history-with-karol-j-bobko/>
+
+---
+
+## A Rare 'Otherworldly' Sculpture by Surrealist Artist Leonora Carrington Is Going to Auction
+
+date: 2024-11-12, from: Smithsonian Magazine
+
+The 1951 artwork, "La Grande Dame (The Cat Woman)," stands over six feet tall and features paintings of "hybrid creatures and lush dreamscapes" 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-rare-otherworldly-sculpture-by-surrealist-artist-leonora-carrington-is-going-to-auction-180985429/>
+
+---
+
+## Colorado Students to Connect with NASA Astronauts Aboard Space Station
+
+date: 2024-11-12, from: NASA breaking news
+
+Students from Colorado will have the opportunity to hear NASA astronauts Nick Hague and Suni Williams answer their prerecorded questions aboard the International Space Station on Thursday, Nov. 14. Watch the 20-minute space-to-Earth call at 1 p.m. EST on NASA+. Learn how to watch NASA content on various platforms, including social media. The JEKL Institute [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/colorado-students-to-connect-with-nasa-astronauts-aboard-space-station/>
+
+---
+
+## Here's what we know about the suspected Snowflake data extortionists
+
+date: 2024-11-12, updated: 2024-11-12, from: The Register (UK I.T. News)
+
+<h4>A Canadian and an American living in Turkey &#39;walk into&#39; cloud storage environments…</h4> <p>Two men allegedly compromised what&#39;s believed to be multiple organizations&#39; Snowflake-hosted cloud environments, stole sensitive data within, and extorted at least $2.5 million from at least three victims.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/12/snowflake_hackers_indictment/>
+
+---
+
+## Kibo Robot Programming Challenge Breaks New Ground in Robotics
+
+date: 2024-11-12, from: NASA breaking news
+
+On Sept. 20, 2024, four students experienced the wonder of space exploration at NASA’s Johnson Space Center in Houston, taking part in an international competition that brought their work to life aboard the International Space Station.&#160;&#160; Now in its fifth year, the Kibo Robot Programming Challenge (Kibo-RPC) continues to push the boundaries of robotics, bringing [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/kibo-robot-programming-challenge-breaks-new-ground-in-robotics/>
+
+---
+
+## These Elephants Can Use Hoses to Shower—and Even 'Sabotage' Each Other, Study Suggests
+
+date: 2024-11-12, from: Smithsonian Magazine
+
+Mary, a 54-year-old Asian elephant at the Berlin Zoo, is the “queen of showering,” but her companion Anchali seems to have figured out how to exploit that habit to play pranks 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/these-elephants-can-use-hoses-to-shower-and-even-sabotage-each-other-study-suggests-180985455/>
+
+---
+
+## Canada passes new right to repair rules with the same old problem
+
+date: 2024-11-12, updated: 2024-11-12, from: The Register (UK I.T. News)
+
+<h4>No mention of how to get the tools to bypass software locks means owner still legally beholden to OEMs</h4> <p>Digital software locks have just become flimsier in Canada with the passage of a pair of laws allowing for their bypass for repair and interoperability purposes.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/12/canada_right_to_repair/>
+
+---
+
+## Native American Seeds Flown Aboard Space Station
+
+date: 2024-11-12, from: NASA breaking news
+
+The Choctaw Heirloom Seeds investigation flew five varieties of heirloom seeds from the Choctaw Nation of Oklahoma aboard the International Space Station in early November 2023. The seeds are Isito (Choctaw Sweet Potato Squash), Tobi (Smith Peas), Tanchi Tohbi (Flour Corn), Tvnishi (Lambsquarter), and Chukfi Peas. The seeds spent six months aboard station, returning to [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/native-american-seeds-flown-aboard-space-station/>
+
+---
+
+## NASA Funds New Studies Looking at Future of Sustainable Aircraft
+
+date: 2024-11-12, from: NASA breaking news
+
+Picture yourself at an airport a few decades from now. What does your airliner look like? It’s more efficient, with lower emissions than today’s aircraft – what kinds of designs or technology make that possible? NASA is working to answer those questions by commissioning five new design studies looking to push the boundaries of possibility [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/armd/nasa-funds-new-studies-looking-at-future-of-sustainable-aircraft/>
+
+---
+
+## Father and Son Discover Rare Trove of 16th- and 17th-Century Silver Coins While Metal Detecting in a Polish Forest
+
+date: 2024-11-12, from: Smithsonian Magazine
+
+Sławomir and Szymon Milewski were searching for a Roman road when they stumbled upon the cache of coins, which is worth more than $120,000 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/father-and-son-discover-rare-trove-of-16th-and-17th-century-silver-coins-while-metal-detecting-in-a-polish-forest-180985451/>
+
+---
+
+## NASA Armstrong Builds Sensor Pod for Autonomous Flight
+
+date: 2024-11-12, from: NASA breaking news
+
+The design and build of a unique NASA pod, produced to advance computer vision for autonomous aviation, was recently completed in-house at NASA’s Armstrong Flight Research Center in Edwards, California, by using the center’s unique fabrication capabilities. The pod is called the NASA Airborne Instrumentation for Real-world Video of Urban Environments (AIRVUE). NASA Armstrong can [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasa-armstrong-builds-sensor-pod-for-autonomous-flight/>
+
+---
+
+## 'Cybersecurity issue' at Food Lion parent blamed for US grocery mayhem
+
+date: 2024-11-12, updated: 2024-11-12, from: The Register (UK I.T. News)
+
+<h4>Stores still open, but customers report delayed deliveries, invoicing issues, and more at Stop &amp; Shop and others</h4> <p>Retail giant Ahold Delhaize, which owns Food Lion and Stop &amp; Shop, among others, is confirming outages at several of its US grocery stores are being caused by an ongoing &#34;cybersecurity issue.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/12/ahold_delhaize_cybersecurity_issue_blamed/>
 
 ---
 

@@ -1,11 +1,35 @@
 ---
 title: journalism
-updated: 2024-11-12 11:20:04
+updated: 2024-11-12 14:00:25
 ---
 
 # journalism
 
-(date: 2024-11-12 11:20:04)
+(date: 2024-11-12 14:00:25)
+
+---
+
+## The New York Times tech guild’s election-week strike is over, without a contract
+
+date: 2024-11-12, from: Nieman Journalism Lab
+
+For a union considering a strike, the phrase &#8220;maximum leverage&#8221; is always top of mind. If the goal is to push management into action, the withdrawal of labor should be designed to maximize its impact on operations. If you represent longshoremen, you time a strike (and its potential economy-wide impact) to the weeks before a... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/11/the-new-york-times-tech-guilds-election-week-strike-is-over-without-a-contract/>
+
+---
+
+## I’m a journalist and I’m changing the way I read news. This is how.
+
+date: 2024-11-12, from: Nieman Journalism Lab
+
+Around 1 a.m. on July 27, 2017, I woke up, opened my politics Twitter list, and lay in the dark watching (via tweets) the Senate&#8217;s failed vote to repeal parts of the Affordable Care Act. Around 1:30 a.m., Arizona Senator John McCain cast the deciding vote to save the ACA. For the next hour and... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/11/im-a-journalist-and-im-changing-the-way-i-read-news-this-is-how/>
 
 ---
 

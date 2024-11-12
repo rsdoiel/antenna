@@ -1,11 +1,73 @@
 ---
 title: columns
-updated: 2024-11-12 11:20:03
+updated: 2024-11-12 14:00:24
 ---
 
 # columns
 
-(date: 2024-11-12 11:20:03)
+(date: 2024-11-12 14:00:24)
+
+---
+
+##  Single Line Mazes 
+
+date: 2024-11-12, updated: 2024-11-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/single-line-mazes>
+
+---
+
+##  Journalism&#8217;s fight for survival in a postliterate democracy. &#8220;The work of obtaining... 
+
+date: 2024-11-12, updated: 2024-11-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045619-journalisms-fight-for-sur>
+
+---
+
+##  &#8216;I was a fool&#8217;: Art Garfunkel describes tearful reunion with Paul Simon.... 
+
+date: 2024-11-12, updated: 2024-11-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045613-i-was-a-fool-art>
+
+---
+
+##  The Anti-Wonka Candy Factory 
+
+date: 2024-11-12, updated: 2024-11-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/the-anti-wonka-candy-factory-1>
+
+---
+
+## November 11, 2024
+
+date: 2024-11-12, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/151567301/283eaf38943562a4f1d384ac13e61e35.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/151567301/283eaf38943562a4f1d384ac13e61e35.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/november-11-2024-ea9>
 
 ---
 

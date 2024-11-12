@@ -1,11 +1,83 @@
 ---
 title: central coast
-updated: 2024-11-12 11:20:03
+updated: 2024-11-12 14:00:24
 ---
 
 # central coast
 
-(date: 2024-11-12 11:20:03)
+(date: 2024-11-12 14:00:24)
+
+---
+
+## Prescribed Burns Scheduled at Vandenberg Space Force Base
+
+date: 2024-11-12, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Vandenberg Space Force Base Fire Department has been scheduled to conduct a prescribed burn before the end of November, with the goal of reducing the risk of wildfire. Prescribed, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/prescribed-burns-scheduled-at-vandenberg-space-force-base/">Prescribed Burns Scheduled at Vandenberg Space Force Base</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/prescribed-burns-scheduled-at-vandenberg-space-force-base/>
+
+---
+
+## Santa Maria High Alpine Club Helps Spruce up Trails at Los Flores Ranch
+
+date: 2024-11-12, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Maria High School Alpine Club recently provided a day of community service for the city of Santa Maria, then enjoyed an outdoor movie night with a film that [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-maria-high-alpine-club-helps-spruce-up-trails-at-los-flores-ranch/">Santa Maria High Alpine Club Helps Spruce up Trails at Los Flores Ranch</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/santa-maria-high-alpine-club-helps-spruce-up-trails-at-los-flores-ranch/>
+
+---
+
+## Alzheimer’s Association Presents: Walk to End Alzheimer’s Santa Barbara
+
+date: 2024-11-12, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="889" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/SB-Picture-1.jpg?fit=1024%2C889&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/SB-Picture-1.jpg?w=1151&amp;ssl=1 1151w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/SB-Picture-1.jpg?resize=300%2C260&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/SB-Picture-1.jpg?resize=1024%2C889&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/SB-Picture-1.jpg?resize=768%2C667&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/SB-Picture-1.jpg?resize=400%2C347&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/SB-Picture-1.jpg?fit=1024%2C889&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Held annually in more than 600 communities nationwide, the Alzheimer's Association Walk to End Alzheimer's® is the world's largest fundraiser for Alzheimer's care, support and research</p>
+<p>The post <a href="https://www.noozhawk.com/alzheimers-association-presents-walk-to-end-alzheimers-santa-barbara/">Alzheimer&#8217;s Association Presents: Walk to End Alzheimer&#8217;s Santa Barbara</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/alzheimers-association-presents-walk-to-end-alzheimers-santa-barbara/>
+
+---
+
+## Mark Baird: Dream Deck Decisions Framed by Synthetic vs. Redwood Questions
+
+date: 2024-11-12, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110924-Trex-mb.webp?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A well-designed deck adds home value while creating space for family meals and relaxation." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110924-Trex-mb.webp?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110924-Trex-mb.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110924-Trex-mb.webp?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110924-Trex-mb.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110924-Trex-mb.webp?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110924-Trex-mb.webp?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110924-Trex-mb.webp?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110924-Trex-mb.webp?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110924-Trex-mb.webp?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110924-Trex-mb.webp?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110924-Trex-mb.webp?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110924-Trex-mb.webp?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Question: My husband and I are planning to finally build our “dream deck” off the back of our home, and want it to be an inviting area for barbecuing and a [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/mark-baird-dream-deck-decisions-framed-by-synthetic-vs-redwood-questions/">Mark Baird: Dream Deck Decisions Framed by Synthetic vs. Redwood Questions</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/mark-baird-dream-deck-decisions-framed-by-synthetic-vs-redwood-questions/>
+
+---
+
+## Tracy Beckerman: Dinner With a View … and a Naked Yoga Class
+
+date: 2024-11-12, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>“Hey, look at that,” said my husband, staring out the window. “There are people doing yoga on the roof of that building.” We were on the 20th floor of a [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/tracy-beckerman-dinner-with-a-view-and-a-naked-yoga-class/">Tracy Beckerman: Dinner With a View &#8230; and a Naked Yoga Class</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/tracy-beckerman-dinner-with-a-view-and-a-naked-yoga-class/>
 
 ---
 

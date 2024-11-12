@@ -1,11 +1,23 @@
 ---
 title: libraries
-updated: 2024-11-12 11:20:04
+updated: 2024-11-12 14:00:25
 ---
 
 # libraries
 
-(date: 2024-11-12 11:20:04)
+(date: 2024-11-12 14:00:25)
+
+---
+
+## Leviathan, by Thomas Hobbes
+
+date: 2024-11-12, from: Standard Ebooks, new releaases
+
+Hobbes explores a vision of the ideal state, in which people cede certain freedoms to a sovereign power in exchange for security and stability. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/thomas-hobbes/leviathan>
 
 ---
 
@@ -82,6 +94,18 @@ date: 2024-11-11, from: Scholarly Kitchen
 <br> 
 
 <https://scholarlykitchen.sspnet.org/2024/11/11/how-the-sdgs-are-shaping-the-research-agenda-and-what-publishers-need-to-know-and-do/>
+
+---
+
+## Machbarkeitsstudie für die Optimierung des Hauptsitzes der SV Sparkassenversicherung, Löwentorstr. 65, Stuttgart
+
+date: 2024-11-11, from: ETH Zurich, recently added
+
+Göswein, Verena; Belizario-Silva, Fernanda 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/705042>
 
 ---
 

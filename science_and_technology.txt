@@ -8,3 +8,4 @@ https://www.quantamagazine.org/feed/ "~Quanta Magazine" curl/8.5.0 (rsdoiel@gmai
 https://feeds.npr.org/423302056/rss.xml "~The Hidden Brain Podcast"
 https://www.smithsonianmag.com/rss/smart-news/ "~Smithsonian Magazine"
 https://www.osnews.com/feed/ "~OS News"
+https://magazine.caltech.edu/index?format=rss "~Caltech Magazine" curl/8.5.0

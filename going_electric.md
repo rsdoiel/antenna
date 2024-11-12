@@ -1,11 +1,119 @@
 ---
 title: going electric
-updated: 2024-11-12 11:20:05
+updated: 2024-11-12 14:00:26
 ---
 
 # going electric
 
-(date: 2024-11-12 11:20:05)
+(date: 2024-11-12 14:00:26)
+
+---
+
+## Dodge clings to gas-powered Charger despite its first electric muscle car finally arriving
+
+date: 2024-11-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Dodge-Charger-EV-discounts-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Dodge seemingly can’t let go of the gas-powered Charger even with its first electric muscle car finally arriving. A new report claims <a href="https://electrek.co/guides/dodge/">Dodge</a> is prioritizing the launch of an upcoming gas Charger model months ahead of schedule.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dodge,electric-dodge-charger" data-layer-viewtype="unknown" data-post-id="388840" href="https://electrek.co/2024/11/12/dodge-clings-to-gas-charger-as-first-ev-muscle-car-finally-arrives/#more-388840" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/12/dodge-clings-to-gas-charger-as-first-ev-muscle-car-finally-arrives/>
+
+---
+
+## Waymo now open to everyone in LA – but no new service areas
+
+date: 2024-11-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Waymo-cities-2025.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Waymo has opened up its driverless taxi service to everyone in Los Angeles, without need for an invite code or waitlist, but it still remains with the same service area it had before and doesn’t yet cover the whole area around LA.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="robotaxi,waymo" data-layer-viewtype="unknown" data-post-id="388896" href="https://electrek.co/2024/11/12/waymo-now-open-to-everyone-in-la-but-no-new-service-areas/#more-388896" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/12/waymo-now-open-to-everyone-in-la-but-no-new-service-areas/>
+
+---
+
+## All my favorite EVs, racecars, and robots from Electrify Expo Austin
+
+date: 2024-11-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/16_9_EXPO.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>From a stainless steel Tesla Optimus to an electric DeLorean, new Polestar EVs, and even a tail-sliding adventure in a Ford Mustang Mach-E Rally, the last Electrify Expo of the 2024 season had something for everyone (especially if you like Cybertrucks).</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="event,restomods,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="388848" href="https://electrek.co/2024/11/12/all-my-favorite-evs-racecars-and-robots-from-electrify-expo-austin/#more-388848" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/12/all-my-favorite-evs-racecars-and-robots-from-electrify-expo-austin/>
+
+---
+
+## Rivian And VW's $5.8B Joint Venture Will Power A Lot, Including 'Subcompact Cars'
+
+date: 2024-11-12, from: Inside EVs News
+
+It's called Rivian and VW Group Technology, LLC.  
+
+<br> 
+
+<https://insideevs.com/news/740763/rivian-vw-technologies-joint-venture/>
+
+---
+
+## Tesla celebrates milestone of 1,000 Powerwalls in a day after claiming twice as many
+
+date: 2024-11-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Tesla-1000-Powerwalls.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is celebrating the milestone of having produced 1,000 Powerwall 3s in a single day, but it raises eyebrows since the company recently claimed it could produce twice as many.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="388842" href="https://electrek.co/2024/11/12/tesla-celebrates-milestone-of-1000-powerwalls-in-a-day-after-it-claimed-it-could-twice-as-many/#more-388842" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/12/tesla-celebrates-milestone-of-1000-powerwalls-in-a-day-after-it-claimed-it-could-twice-as-many/>
+
+---
+
+## Expect more cheap Tesla vehicles from Hertz as the selloff continues
+
+date: 2024-11-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/10/Tesla-uber-hertz.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Hertz says that it will continue to sell Tesla vehicles and other EVs in masse through 2025 as it is hit by massive depreciation.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="388766" href="https://electrek.co/2024/11/12/expect-more-cheap-tesla-vehicles-from-hertz-as-the-selloff-continues/#more-388766" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/12/expect-more-cheap-tesla-vehicles-from-hertz-as-the-selloff-continues/>
+
+---
+
+## Hitachi Energy launches an AI tool to revolutionize renewable energy forecasting
+
+date: 2024-11-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/pexels-photo-95719.jpeg?quality=82&#038;strip=all&#038;w=1500" /></div><p>Hitachi Energy debuts <a href="https://www.hitachienergy.com/products-and-solutions/energy-portfolio-management/market-analysis/nostradamus-ai-energy-forecasting-software?utm_source=meltwater&amp;utm_medium=referral&amp;utm_campaign=bu:ga/ess/epm~cc:global~cn:nostradamus-ai-launch~co:awareness~ff:" target="_blank" rel="noreferrer noopener">Nostradamus AI</a>, which delivers fast, accurate renewable energy forecasts, load predictions, and market pricing insights.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="artificial-intelligence,egeb,energy-brief,solar,grid,hitachi-energy,solar-power,wind-power" data-layer-viewtype="unknown" data-post-id="388796" href="https://electrek.co/2024/11/12/hitachi-energy-ai-tool-renewable-energy-forecasting/#more-388796" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/12/hitachi-energy-ai-tool-renewable-energy-forecasting/>
 
 ---
 
@@ -173,7 +281,7 @@ Want a Porsche Taycan? On some level, of course you do. And now you have more op
 
 date: 2024-11-12, from: Inside EVs News
 
-With a starting price of $78,790, the all-new Vistiq slots between the rather popular Lyriq and much larger Escalade IQ electric SUVs 
+With a starting price of $78,790, the all-new Vistiq slots between the rather popular Lyriq and much larger Escalade IQ electric SUVs. 
 
 <br> 
 

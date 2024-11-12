@@ -1,11 +1,248 @@
 ---
 title: weather
-updated: 2024-11-12 11:20:03
+updated: 2024-11-12 14:00:24
 ---
 
 # weather
 
-(date: 2024-11-12 11:20:03)
+(date: 2024-11-12 14:00:24)
+
+---
+
+## There are no tropical cyclones at this time.
+
+date: 2024-11-12, from: Eastern Pacific Basin GIS Data
+
+No tropical cyclones as of Tue, 12 Nov 2024 21:43:05 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/>
+
+---
+
+## SPC Day 3-8 Fire Weather Outlook
+
+date: 2024-11-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 3-8 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0335 PM CST Tue Nov 12 2024
+
+Valid 141200Z - 201200Z
+
+Upper-level troughing is expected over both the East and West Coasts
+Day 3/Thursday - Day 5/Saturday, with upper-level ridging slowly
+shifting from over the central US to over portions of the eastern
+US. There is forecast uncertainty regarding how this amplified
+upper-level pattern progresses early next week, which will have
+ramifications for potential fire weather concerns in
+southern/central California and the Northeast. 
+
+...Northeast and Mid-Atlantic...
+An approaching warm front with associated cloud cover and possible
+shower activity will limit fire weather concerns across the
+Mid-Atlantic and into portions of the Northeast on Day 3/Thursday.
+However, dry/breezy conditions are likely to develop across portions
+of the Mid-Atlantic and Northeast Day 4/Friday - Day 6/Saturday.
+Given the recent drought, lack of forecast rain, and near to record
+high fire danger, 40% probabilities were expanded and introduced
+during what appears to be a multi-day fire weather episode. Some
+forecast uncertainty remains regarding forecast precipitation and
+where the greatest overlap of elevated/critical winds/RH will be,
+but confidence is increasing in at least elevated fire weather
+conditions for portions of New Jersey, eastern Pennsylvania, the
+Hudson Valley/vicinity, and southern New England late this week
+through the weekend. 
+
+...Southern/central California...
+Breezy/gusty north-northwest winds are possible in portions of
+central/southern California Day 5/Saturday into Day 7/Monday as
+multiple cold fronts sweep south and east over the region. The
+southern extent of forecast precipitation and the magnitude of these
+winds remain uncertain precluding 40% areas at this time. Confidence
+is increasing in an offshore/Santa Ana wind event mid-next week,
+which is on the edge of the outlook period. This event may start on
+Day 8/Tuesday and last multiple days. This will be monitored and if
+trends hold, probabilities will likely be added in subsequent
+extended outlooks.
+
+..Nauslar.. 11/12/2024
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/exper/fire_wx/>
+
+---
+
+## SPC - No watches are valid as of Tue Nov 12 21:42:01 UTC 2024
+
+date: 2024-11-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Tue Nov 12 21:42:01 UTC 2024. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Tue Nov 12 21:42:01 UTC 2024
+
+date: 2024-11-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Tue Nov 12 21:42:01 UTC 2024. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Nov 12, 2024 2000 UTC Day 1 Convective Outlook
+
+date: 2024-11-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0158 PM CST Tue Nov 12 2024
+
+Valid 122000Z - 131200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FOR PORTIONS OF
+THE SOUTHERN HIGH PLAINS...
+
+...SUMMARY...
+Isolated strong to severe thunderstorms may impact parts of the
+Texas South Plains and Oklahoma/Texas Panhandle vicinity into far
+southwestern Kansas this evening, possibly accompanied by some risk
+for hail and gusty winds.
+
+...20Z Update...
+The primary change to this outlook was to expand Marginal Risk
+probabilities northward into portions of far southwestern KS. Here,
+guidance consensus depicts 700-1000 J/kg MUCAPE amid elongated
+hodographs, which may support an instance or two of marginally
+severe hail with the more persistent, discrete updrafts that can
+form. Otherwise, the previous forecast (see below) remains on track.
+
+..Squitieri.. 11/12/2024
+
+.PREV DISCUSSION... /ISSUED 1024 AM CST Tue Nov 12 2024/
+
+...Southern High Plains...
+An upper-level trough over the eastern Great Basin/Four Corners at
+midday will continue eastward toward the south-central High Plains
+tonight. Gradual lee-side cyclogenesis will occur particularly late
+today into tonight, with a sharpening southern High Plains
+dryline/lee trough, with an eastward-moving Pacific cold front that
+will overtake the dryline/lee trough from west-to-east tonight.
+Modest-caliber low-level moisture return will occur
+north-northwestward across the southern High Plains, with surface
+dewpoints tending to remain limited to the upper 40s/lower 50s F
+into this evening.
+
+It still appears likely that deep convective potential across
+northwest Texas and the Oklahoma/Texas Panhandles will remain
+limited through peak heating, owing to the moisture limitations and
+a persistent capping inversion. Isolated thunderstorm development
+will become more probable after sunset as lift associated with a
+strengthening low-level jet increases, and as the surface cold front
+overtakes the lee trough.
+
+While MUCAPE is expected to remain rather weak (generally 500-1000
+J/kg or less), strong deep-layer shear will support organized
+updrafts with any sustained convection. Isolated hail appears to be
+the main threat, as thunderstorms should have a tendency to remain
+slightly elevated. But, some chance for strong/gusty winds may also
+exist. The window for severe hail should remain small in space and
+time this evening, as convection will likely grow upscale fairly
+quickly. Even so, small hail may occur farther north/east into parts
+of Kansas and Oklahoma overnight into early Wednesday morning.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html>
+
+---
+
+## SPC Nov 12, 2024 1930 UTC Day 3 Severe Thunderstorm Outlook
+
+date: 2024-11-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day3otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day3otlk.gif" border="1" alt="Day 3 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 3 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0113 PM CST Tue Nov 12 2024
+
+Valid 141200Z - 151200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Organized severe thunderstorms are not currently expected on
+Thursday.
+
+...Synopsis...
+A negatively titled shortwave trough is forecast to extend from the
+Upper Midwest into the southern Appalachians early Thursday morning.
+This trough is expected to lose amplitude as it continues eastward
+while also developing a closed mid-level circulation. This resulting
+cyclone will then likely progress across the Upper OH Valley and
+into the Mid-Atlantic by early Friday. In response to this
+evolution, surface cyclogenesis is anticipated off the Carolina
+coast, or perhaps just inland over the coastal Carolinas.
+
+Farther west, the overall upper pattern will amplify as ridging
+builds across the Plains and troughing deepens along the West Coast.
+
+...Central/Northeast Gulf Coast vicinity...
+Showers and thunderstorms will likely be ongoing over the central
+Gulf Coast early Thursday morning, as a cold front pushes eastward
+through moist and modestly buoyant warm sector in place across the
+region. Northern extent of this warm sector is expected to become
+increasingly confined throughout the day with the cooler, more
+continental airmass over the Carolinas and Mid-Atlantic remaining
+place. A strong storm or two is possible within this warm sector,
+particularly Thursday morning from southwest/southern AL into the
+western FL Panhandle, but limited buoyancy and weakening shear
+should keep any severe threat isolated, precluding the need for any
+severe probabilities with this outlook.
+
+...Coastal Carolinas...
+Uncertainty regarding the strength and location of the surface low
+expected to deepen over the region late Thursday night/early Friday
+morning limits the confidence on how far inland any favorable
+low-level moisture/buoyancy would penetrate. Current guidance
+suggests there could be a confined area along the warm front near
+the northern NC Coast where there is enough overlap between modest
+buoyancy and strong shear to support some severe potential. Given
+the limited spatial extent of this region and the general
+uncertainty regarding the overall pattern, no severe probabilities
+were introduced with this outlook. However, a small area maybe
+needed in future outlooks if forecast confidence increases.
+
+..Mosier.. 11/12/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day3otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day3otlk_1930.html>
 
 ---
 
@@ -56,42 +293,6 @@ a Critical area at this time.
 
 ---
 
-## SPC - No watches are valid as of Tue Nov 12 19:03:02 UTC 2024
-
-date: 2024-11-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Tue Nov 12 19:03:02 UTC 2024. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Tue Nov 12 19:03:02 UTC 2024
-
-date: 2024-11-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Tue Nov 12 19:03:02 UTC 2024. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
-
----
-
-## There are no tropical cyclones at this time.
-
-date: 2024-11-12, from: Eastern Pacific Basin GIS Data
-
-No tropical cyclones as of Tue, 12 Nov 2024 17:54:17 GMT 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gis/>
-
----
-
 ## NHC Atlantic Outlook
 
 date: 2024-11-12, from: Graphical Tropical Weather Outlooks
@@ -110,26 +311,6 @@ ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS N
 <br> 
 
 <https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
-
----
-
-## CPHC Central North Pacific Outlook
-
-date: 2024-11-12, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_2d0_resize.gif" alt="Central North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_7d0_resize.gif" alt="Central North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC HFOTWOCP ALL<br>TTAA00 PHFO DDHHMM<br><br>Tropical Weather Outlook<br>NWS Central Pacific Hurricane Center Honolulu HI<br>800 AM HST Tue Nov 12 2024<br><br>For the central North Pacific...between 140W and 180W:<br><br>No tropical cyclones are expected during the next 7 days.<br><br>$$<br>Forecaster TS<br>NNNN<br><br></div></div><br />
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
 
 ---
 
@@ -161,11 +342,39 @@ Forecaster Brown<br/>
 
 ---
 
+## Central North Pacific Tropical Weather Outlook
+
+date: 2024-11-12, from: Central Pacific Basin Tropical Cyclones
+
+
+<br/>
+000<br/>
+ACPN50 PHFO 121724<br/>
+TWOCP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS Central Pacific Hurricane Center Honolulu HI<br/>
+800 AM HST Tue Nov 12 2024<br/>
+<br/>
+For the central North Pacific...between 140W and 180W:<br/>
+<br/>
+No tropical cyclones are expected during the next 7 days.<br/>
+<br/>
+$$<br/>
+Forecaster TS<br/>
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
 ## There are no tropical cyclones at this time.
 
-date: 2024-11-12, from: Eastern Pacific Basin Tropical Cyclones
+date: 2024-11-12, from: Central Pacific Basin Tropical Cyclones
 
-No tropical cyclones as of Tue, 12 Nov 2024 17:54:17 GMT 
+No tropical cyclones as of Tue, 12 Nov 2024 21:43:05 GMT 
 
 <br> 
 

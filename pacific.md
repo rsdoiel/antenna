@@ -1,11 +1,24 @@
 ---
 title: pacific
-updated: 2024-11-12 11:20:02
+updated: 2024-11-12 14:00:23
 ---
 
 # pacific
 
-(date: 2024-11-12 11:20:02)
+(date: 2024-11-12 14:00:23)
+
+---
+
+## UH, Fukuoka join forces for One Health initiative
+
+date: 2024-11-12, from: University of Hawaiʻi News
+
+<p>The partnership will deliver the <abbr>UH</abbr> One Health certificate program to pharmacy students in Tsuzukiʻs network of educational institutions.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/12/one-health-initiative-fukuoka/"><abbr>UH</abbr>, Fukuoka join forces for One Health initiative</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/12/one-health-initiative-fukuoka/>
 
 ---
 

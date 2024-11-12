@@ -1,11 +1,49 @@
 ---
 title: socal north
-updated: 2024-11-12 11:20:02
+updated: 2024-11-12 14:00:23
 ---
 
 # socal north
 
-(date: 2024-11-12 11:20:02)
+(date: 2024-11-12 14:00:23)
+
+---
+
+## Whitesides takes back California's 27th Congressional District for Democrats in pivotal House race
+
+date: 2024-11-12, updated: 2024-11-12, from: The LAist
+
+The race was one of the most closely watched in the country. 
+
+<br> 
+
+<https://laist.com/news/politics/whitesides-wins-congressional-seat-27th-district>
+
+---
+
+## Taurid meteor shower to light up the night sky. Here's how you can see it
+
+date: 2024-11-12, updated: 2024-11-12, from: The LAist
+
+The North and South Taurids occur every year in September, October, and November. They may have originated from a comet that broke up about 10,000 years ago. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/taurid-meteor-shower-to-light-up-the-night-sky-heres-how-you-can-see-it>
+
+---
+
+## Sylmar Man Pleads Guilty to Using Instagram to Distribute Child Porn
+
+date: 2024-11-12, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>LOS ANGELES (CNS) &#8211; A 23-year-old Sylmar man accused of using Instagram to advertise sexually explicit photographs of local girls that he offered to sell over the internet pleaded guilty [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/11/12/sylmar-man-pleads-guilty-to-using-instagram-to-distribute-child-porn/">Sylmar Man Pleads Guilty to Using Instagram to Distribute Child Porn</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/11/12/sylmar-man-pleads-guilty-to-using-instagram-to-distribute-child-porn/>
 
 ---
 

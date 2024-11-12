@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2024-11-12 11:20:05
+updated: 2024-11-12 14:00:26
 ---
 
 # retro computing
 
-(date: 2024-11-12 11:20:05)
+(date: 2024-11-12 14:00:26)
+
+---
+
+## American Heart Association
+
+date: 2024-11-12, from: Computer ads from the Past
+
+A PSA and an Ad 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/american-heart-association>
 
 ---
 

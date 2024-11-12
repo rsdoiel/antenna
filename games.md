@@ -1,11 +1,83 @@
 ---
 title: games
-updated: 2024-11-12 11:20:04
+updated: 2024-11-12 14:00:25
 ---
 
 # games
 
-(date: 2024-11-12 11:20:04)
+(date: 2024-11-12 14:00:25)
+
+---
+
+## Where to unlock all alliance raids in FFXIV
+
+date: 2024-11-12, updated: 2024-11-12, from: Polygon Website
+
+Final Fantasy 14 has tons of optional content, including alliance raids, which are grand 24-man dungeons. If you’ve recently caught up to the main story in the game, you may want to work on unlocking these raids. Notably, most of the gear from these raids (except the last Endwalker raid) is pretty outdated, though lots [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24151320/alliance-raid-unlock-quests-starting-locations>
+
+---
+
+## Where to unlock the FFXIV Echoes of Vana&#8217;diel alliance raids
+
+date: 2024-11-12, updated: 2024-11-12, from: Polygon Website
+
+Final Fantasy 14: Dawntrail’s alliance raids are a tie-in with the other MMORPG, Final Fantasy 11. The first of three Echoes of Vana’diel alliance raids, Jeuno: The First Walk, launched alongside patch 7.1, giving players a new weekly to complete for loot. Our FFXIV Jeuno alliance raid guide explains where to unlock the Echoes of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/476999/unlock-echoes-of-vana-diel-jeuno-quest-location>
+
+---
+
+## Trump’s promised tariffs on China could damage board game and TTRPG publishers
+
+date: 2024-11-12, updated: 2024-11-12, from: Polygon Website
+
+In the wake of the U.S. election, president-elect Donald Trump’s promised tariffs have sent a wave of panic through the tabletop industry. The proposed tariffs were a fixture on Trump’s campaign trail. These taxes on goods imported from other countries could include a universal increase of up to 20% on all foreign goods, with targeted [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/477917/trump-china-tariffs-board-game-ttrpg-publishers>
+
+---
+
+## Grand Theft Auto Definitive Edition remasters just got another glow up
+
+date: 2024-11-12, updated: 2024-11-12, from: Polygon Website
+
+Rockstar Games quietly rolled out a new update for the Grand Theft Auto: The Trilogy &#8211; The Definitive Edition games on Tuesday, with a patch that more accurately restores elements of the original games. Those improvements for the Definitive Edition versions of Grand Theft Auto 3, Vice City, and San Andreas are only available for [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/477864/gta-definitive-edition-update-vice-city-san-andreas>
+
+---
+
+## Kai Cenat reclaims Twitch subscriber crown
+
+date: 2024-11-12, updated: 2024-11-12, from: Polygon Website
+
+Twitch streamer Kai Cenat is once again the most subscribed-to channel on the platform after he wrested the title back from Vtuber Ironmouse, who took the title on Sept. 30. At around 11:16 p.m. EST on Monday, Cenat blew past the record of 326,252 subs on Ironmouse’s channel. His current subscriber count — which stands [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/477803/kai-cenat-twitch-most-subscribers-record>
+
+---
+
+## The best Studio Ghibli gifts for fans
+
+date: 2024-11-12, updated: 2024-11-12, from: Polygon Website
+
+From classics like Spirited Away and My Neighbor Totoro to its latest film The Boy and the Heron, Studio Ghibli has delighted viewers of all ages with its signature animation style and heart-wrenching stories. The acclaimed Japanese studio, which was started by Hayao Miyazaki, Isao Takahata, and Toshio Suzuki, has gone on to craft some [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/23841933/studio-ghibli-gifts-toys-plushies-decor-music>
 
 ---
 

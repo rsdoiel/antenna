@@ -1,11 +1,33 @@
 ---
 title: writing
-updated: 2024-11-12 11:20:03
+updated: 2024-11-12 14:00:25
 ---
 
 # writing
 
-(date: 2024-11-12 11:20:03)
+(date: 2024-11-12 14:00:25)
+
+---
+
+## 2024 Premio Italia Winners
+
+date: 2024-11-12, from: Locus Magazine
+
+<p>Winners for the 2024 Premio Italia Awards have been announced, honoring accomplishments in the field of Italian fantasy and science fiction.</p>
+<div class="mynomorebulletlist">
+<p><strong>International Novel</strong></p>
+<ul>
+<li>WINNER: <strong>Le navi d’ossa </strong>[<strong>The Bone Ships</strong>], R.J. Barker (Meridiano Zero – Elara)</li>
+</ul>
+<ul>
+<li><strong>L’archivio dei finali alternativi </strong>[<strong>The Archive of Alternate Endings</strong>]<strong>,</strong> Lindsey Drager (Zona42)</li>
+<li><strong>The Kaiju Preservation Society</strong>, John Scalzi (Fanucci Editore)</li>
+<li><strong>Fattore Rh</strong>, Charles Stross (Mondadori)</li>
+<li><strong>Project Hail </strong></li></ul></div> <a href="https://locusmag.com/2024/11/2024-premio-italia-winners/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2024/11/2024-premio-italia-winners/>
 
 ---
 
