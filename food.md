@@ -1,15 +1,119 @@
 ---
 title: food
-updated: 2024-11-12 14:00:26
+updated: 2024-11-13 07:16:35
 ---
 
 # food
 
-(date: 2024-11-12 14:00:26)
+(date: 2024-11-13 07:16:35)
 
 ---
 
-## Eva Longoria’s New Cookbook is a Love Letter to Mexican Cuisine
+## 5 Inspiring Social Enterprise Cafes Serving Community Coffee With A Cause
+
+date: 2024-11-13, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Cafes that are serving up more than just good coffee. 
+
+<br> 
+
+<https://sprudge.com/5-inspiring-social-enterprise-cafes-serving-community-coffee-with-a-cause-254150.html>
+
+---
+
+## 4 Mezcal Types to Know
+
+date: 2024-11-13, from: Bon Appetet
+
+A new wave of hyper-regional terroir-driven agave-based spirits have arrived Stateside. Here are some of the very best bottles to try. 
+
+<br> 
+
+<https://www.bonappetit.com/story/tequila-mezcal-alternatives-to-try>
+
+---
+
+## What Makes Packaging Sustainable?
+
+date: 2024-11-13, from: The Fresh Cup
+
+<p>Single-use packaging might seem like an inevitable part of a coffee business, but learning the basics of sustainable design can help owners reduce waste and align packaging needs with their values. </p>
+<p>The post <a href="https://freshcup.com/what-makes-packaging-sustainable/">What Makes Packaging Sustainable?</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/what-makes-packaging-sustainable/>
+
+---
+
+## Spinach Enchiladas
+
+date: 2024-11-13, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/spinach-mushroom-onion-red-enchiladas/"><img title="spinach-enchiladas-small-24-5" src="https://www.isabeleats.com/wp-content/uploads/2024/10/spinach-enchiladas-small-24-5-400x600.jpg" alt="Spinach enchiladas in a baking dish topped with melted cheese, salsa verde, onions, cilantro, and sour cream or Mexican crema." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	Delicious vegetarian spinach enchiladas made with a creamy and rich spinach and mushroom filling that pairs perfectly with bright and tangy salsa verde. Perfect for an easy and comforting weeknight dinner the whole family will love. I’m always looking for more ways to incorporate veggies into my meals, and my go-to way to do this [&#8230;] 
+
+<br> 
+
+<https://www.isabeleats.com/spinach-mushroom-onion-red-enchiladas/>
+
+---
+
+## Homemade Jalapeno Cheddar Biscuits
+
+date: 2024-11-13, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/chili-pepper-recipes/breakfasts/homemade-cheddar-jalapeno-biscuits/" title="Homemade Jalapeno Cheddar Biscuits" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Jalapeno-Cheddar-Biscuits-Recipe5-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A stack of Jalapeno Cheddar Biscuits" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Jalapeno-Cheddar-Biscuits-Recipe5-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Jalapeno-Cheddar-Biscuits-Recipe5-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Jalapeno-Cheddar-Biscuits-Recipe5-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Jalapeno-Cheddar-Biscuits-Recipe5-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Jalapeno-Cheddar-Biscuits-Recipe5-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Jalapeno-Cheddar-Biscuits-Recipe5-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Jalapeno-Cheddar-Biscuits-Recipe5.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>These homemade jalapeno-cheddar biscuits are cheesy, flaky, and delicious, easy to make from scratch and perfect for quick morning breakfast or brunch!</p>
+<p>The post <a href="https://www.chilipeppermadness.com/chili-pepper-recipes/breakfasts/homemade-cheddar-jalapeno-biscuits/">Homemade Jalapeno Cheddar Biscuits</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/chili-pepper-recipes/breakfasts/homemade-cheddar-jalapeno-biscuits/>
+
+---
+
+## Uncle Nearest Whiskey Cofounder Fawn Weaver on America's Obsession with Cognac
+
+date: 2024-11-13, from: Bon Appetet
+
+Fawn Weaver, the founder of Uncle Nearest, is diving into cognac, learning French, and uncovering the forgotten history of American whiskey 
+
+<br> 
+
+<https://www.bonappetit.com/story/uncle-nearest-fawn-weaver-cognac>
+
+---
+
+## The Best Rice Cooker (2024), Reviewed by Our Experts
+
+date: 2024-11-13, from: Bon Appetet
+
+Whether you’re on a budget or want a model that’s practically sentient, there’s a rice cooker for you. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-rice-cookers>
+
+---
+
+## Crispy Smashed Potatoes With Parmesan and Herbs
+
+date: 2024-11-12, from: Bon Appetet
+
+Crispy, creamy, craggy, and delightfully simple to make. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/crispy-smashed-potatoes>
+
+---
+
+## Eva Longoria's New Cookbook is a Love Letter to Mexican Cuisine
 
 date: 2024-11-12, from: Bon Appetet
 
@@ -363,6 +467,18 @@ You’re not going to learn how to throw pottery overnight, so buy these gifts i
 
 ---
 
+## Sichuan Chicken
+
+date: 2024-11-11, from: Taste of Home
+
+Our spicy Sichuan chicken will make your mouth tingle. We toss chunks of juicy chicken breast with fiery dried red chiles, numbing Sichuan peppercorns, crisp-tender onions and colorful bell peppers. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/sichuan-chicken/>
+
+---
+
 ## The Subscale Pulls Its Weight as a Dosing Cup with Built-In Scale
 
 date: 2024-11-11, from: Daily Coffee News
@@ -437,7 +553,7 @@ date: 2024-11-11, from: Isebel Eats
 
 date: 2024-11-11, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/turkey-chili/" title="Turkey Chili Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Turkey-Chili-Recipe-BOWL1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A delicious bowl of Turkey Chili with garnish" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Turkey-Chili-Recipe-BOWL1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Turkey-Chili-Recipe-BOWL1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Turkey-Chili-Recipe-BOWL1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Turkey-Chili-Recipe-BOWL1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Turkey-Chili-Recipe-BOWL1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Turkey-Chili-Recipe-BOWL1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Turkey-Chili-Recipe-BOWL1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This turkey chili is loaded with flavor - lots of ground turkey, fire roasted tomatoes, creamy beans, and the perfect blend of spices, healthy and so good! And easy to make!</p>
+<a href="https://www.chilipeppermadness.com/recipes/turkey-chili/" title="Turkey Chili Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Turkey-Chili-Recipe-BOWL1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A delicious bowl of Turkey Chili with garnish" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Turkey-Chili-Recipe-BOWL1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Turkey-Chili-Recipe-BOWL1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Turkey-Chili-Recipe-BOWL1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Turkey-Chili-Recipe-BOWL1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Turkey-Chili-Recipe-BOWL1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Turkey-Chili-Recipe-BOWL1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Turkey-Chili-Recipe-BOWL1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This turkey chili is loaded with flavor - lots of ground turkey, fire roasted tomatoes, creamy beans, and the perfect blend of spices, healthy and so good! And easy to make!</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/turkey-chili/">Turkey Chili Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

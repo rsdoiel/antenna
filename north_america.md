@@ -1,11 +1,803 @@
 ---
 title: north america
-updated: 2024-11-12 14:00:23
+updated: 2024-11-13 07:16:32
 ---
 
 # north america
 
-(date: 2024-11-12 14:00:23)
+(date: 2024-11-13 07:16:32)
+
+---
+
+## Trump’s government overhaul plan
+
+date: 2024-11-13, from: Marketplace Morning Report
+
+<p>There are few details yet of the structure of a new entity the incoming Trump administration is calling the Department of Government Efficiency, or DOGE. But we do know Elon Musk and Vivek Ramaswamy will help run it. Plus, for the third installment of <a href="https://www.marketplace.org/collection/marketplace-morning-report-tricks-of-the-trade/">our &#8220;Tricks of the Trade&#8221; series</a>, we head over to the LA jewelry and gemstone district.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/13/mmr_20241113_MMR_2_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/trumps-government-overhaul-plan&awCollectionId=mkp-MMR"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/13/mmr_20241113_MMR_2_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/trumps-government-overhaul-plan&awCollectionId=mkp-MMR" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/trumps-government-overhaul-plan>
+
+---
+
+## Fossil Fuel Emissions Are Still Rising
+
+date: 2024-11-13, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDQ5MzQ4MS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2ODM5NTkzMX0.SSSmYtyYOs1OZo0IkNN1dUgUy69zQ6JRZmj8dbJ4sas/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p><em><strong>Current conditions: </strong>A brush fire caused major <a href="https://gothamist.com/news/brush-fire-delays-amtrak-northeast-service-in-and-out-of-penn-station?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9SRVKOvPhlIlV6NOihTyBOSFnvBnXhU1gBU4wd6o1cqptT3TC_d0aa2W3Oj04UFZ2J5j29" rel="noopener noreferrer" target="_blank">delays</a> to Amtrak journeys along the East Coast • More flood alerts have been issued for Spain as new storms loom • It’s cloudy in Washington, where President Biden will host President-elect Donald Trump at the White House today.</em></p><h2>THE TOP FIVE</h2><h3>1. Fossil fuel emissions are still going up </h3><p><strong></strong>Global fossil fuel emissions are projected to rise again this year, and there is “no sign” of a peak, <a href="https://globalcarbonbudget.org/fossil-fuel-co2-emissions-increase-again-in-2024/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9SRVKOvPhlIlV6NOihTyBOSFnvBnXhU1gBU4wd6o1cqptT3TC_d0aa2W3Oj04UFZ2J5j29" target="_blank">according to the Global Carbon Project</a>. Carbon dioxide emissions from burning oil, gas, and coal in 2024 will hit about 37.4 billion metric tons, up 0.8% from 2023. Total CO2 emissions – including from land-use changes like deforestation and wildfires – will rise to 41.6 billion metric tons, up from 40.6 billion metric tons last year. Projected emissions vary on a regional level: China’s are expected to rise by 0.2%, while U.S. emissions are expected to fall 0.6%. India’s will be up 4.6%, while the EU’s will be down by nearly 4%. Notably, emissions from land-use changes have been falling for a decade but are set to rise this year. And then there’s this sobering reminder: “Current levels of technology-based Carbon Dioxide Removal (excluding nature-based means such as reforestation) only account for about one-millionth of the CO2 emitted from fossil fuels.” The research team behind the project estimates that the 1.5 degrees Celsius target will be breached in six years.</p><p>Relatedly, in a speech at the COP29 climate summit in Baku, the Prime Minister of Albania, Edi Rama, <a href="https://www.theguardian.com/environment/live/2024/nov/13/cop-29-leaders-speak-after-report-finds-climate-pledges-not-kept-live-updates?CMP=share_btn_url&page=with%3Ablock-67345ae98f084e2f442699ed&utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9SRVKOvPhlIlV6NOihTyBOSFnvBnXhU1gBU4wd6o1cqptT3TC_d0aa2W3Oj04UFZ2J5j29#block-67345ae98f084e2f442699ed" target="_blank">asked</a>: “What does it mean for the future of the world if the biggest polluters continue as usual? What on Earth are we doing in this gathering, over and over and over, if there is no common political will on the horizon to go beyond words and unite for meaningful action?”</p><h3>2. Climate finance goal debate continues at COP</h3><p>In other news from Baku, nations have been debating the draft text for a new climate finance goal, the most anticipated initiative at this year’s conference. <em>Carbon Brief</em>’s Josh Gabbatiss <a href="https://x.com/Josh_Gabbatiss/status/1856604630865559874?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9SRVKOvPhlIlV6NOihTyBOSFnvBnXhU1gBU4wd6o1cqptT3TC_d0aa2W3Oj04UFZ2J5j29" rel="noopener noreferrer" target="_blank">reported</a> that the text had “ballooned” from 9 pages to 34. “Before there were just 3 options for what the goal would look like – now there are also 13 ‘sub-options,’” he said. A large number of developing countries <a href="https://www.climatechangenews.com/2024/11/12/cop29-bulletin-day-2-aliyev-doubles-down-on-fossil-fuels/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9SRVKOvPhlIlV6NOihTyBOSFnvBnXhU1gBU4wd6o1cqptT3TC_d0aa2W3Oj04UFZ2J5j29" rel="noopener noreferrer" target="_blank">reportedly</a> rejected the original document, asking for at least $1.3 trillion in adaptation finance and saying they don’t want to broaden the contributor base to include China and Saudi Arabia. Meanwhile, developed countries “are indicating that they don’t want to commit to providing more than $100 billion a year unless the contributor base is expanded,” <em><em>Climate Home News</em></em> <a href="https://www.climatechangenews.com/2024/11/12/cop29-bulletin-day-2-aliyev-doubles-down-on-fossil-fuels/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9SRVKOvPhlIlV6NOihTyBOSFnvBnXhU1gBU4wd6o1cqptT3TC_d0aa2W3Oj04UFZ2J5j29" rel="noopener noreferrer" target="_blank">reported</a>. A new draft text on the finance goal is expected later today.</p><h3>3. Rivian and Volkswagen finalize joint venture</h3><p>The $5 billion deal between Rivian and Volkswagen Group, announced back in June, was finalized this week. And it’s about 16% bigger than initially thought, <a href="https://techcrunch.com/2024/11/12/the-rivian-volkswagen-joint-venture-deal-is-now-up-to-5-8b/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9SRVKOvPhlIlV6NOihTyBOSFnvBnXhU1gBU4wd6o1cqptT3TC_d0aa2W3Oj04UFZ2J5j29" rel="noopener noreferrer" target="_blank">according to</a> <em>TechCrunch</em>. Volkswagen will actually invest up to $5.8 billion in the electric pickup maker through 2027. The partnership will provide an influx of capital for Rivian, while VW gets access to the EV company’s technology. The joint venture kicks off today.</p><h3>4. Exclusive: Lawsuit threatens Michigan’s permitting reform law</h3><p>The most important legal challenge for the renewables industry in America may have just been filed in Michigan, <a href="https://heatmap.news/plus/the-fight/spotlight/michigan-pa233-lawsuit-renewable-energy-permitting?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9SRVKOvPhlIlV6NOihTyBOSFnvBnXhU1gBU4wd6o1cqptT3TC_d0aa2W3Oj04UFZ2J5j29" target="_self">reported Jael Holzman in a Heatmap exclusive</a>. On Friday afternoon, about 70 towns and a handful of Michigan counties appealed the rule implementing part of a new renewable energy siting law – PA 233 – providing primary permitting authority to the Michigan Public Services Commission and usurping local approval powers in specific cases. The law was part of a comprehensive permitting package passed last year by the state legislature and seen by climate advocates as a potential model for combatting NIMBYs across the country. The appeal challenges multiple aspects of the law’s implementation, saying it went beyond statute, as well as the rulemaking procedure itself, claiming it failed to follow proper processes. “The lawsuit aims to effectively undo the law going into effect,” Holzman <a href="https://heatmap.news/plus/the-fight/spotlight/michigan-pa233-lawsuit-renewable-energy-permitting?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9SRVKOvPhlIlV6NOihTyBOSFnvBnXhU1gBU4wd6o1cqptT3TC_d0aa2W3Oj04UFZ2J5j29" rel="noopener" target="_self">explained</a>, “or at least enjoin what opponents say are the most onerous restrictions on municipalities and county governments.”</p><h3>5. Florida prepares for another potential hurricane </h3><p>Forecasters are <a href="https://weather.com/storms/hurricane/news/2024-11-12-western-caribbean-possible-tropical-storm-sara?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9SRVKOvPhlIlV6NOihTyBOSFnvBnXhU1gBU4wd6o1cqptT3TC_d0aa2W3Oj04UFZ2J5j29" rel="noopener noreferrer" target="_blank">watching</a> a tropical development in the western Caribbean that is expected to strengthen into Sara, the 18th named storm of the season and the 12th hurricane. The storm could strike Florida as a hurricane next week, <a href="https://www.accuweather.com/en/hurricane/tropical-storm-sara-likely-to-form-in-caribbean-may-threaten-florida/1712965?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9SRVKOvPhlIlV6NOihTyBOSFnvBnXhU1gBU4wd6o1cqptT3TC_d0aa2W3Oj04UFZ2J5j29" rel="noopener noreferrer" target="_blank">according to</a> AccuWeather, just weeks after Hurricanes Helene and Milton struck the state. “Should the feature become a hurricane, it would be the 12th of the season, which is a testament to the supercharged nature of the season, where the historical average is seven hurricanes,” said AccuWeather’s hurricane expert Alex DaSilva said.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="b9f65617fe4c4deb8b5755b023122280" data-rm-shortcode-name="rebelmouse-image" id="c7201" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDQ5MzQ4OS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc4MjYzNTAzNn0.vV4vDsyq8oOIRhTJESX_zf-CeOkxjZcu9KdMHfxFHWA/image.png?width=980"/>
+<small class="image-media media-photo-credit" placeholder="Add Photo Credit...">AccuWeather</small></p><h2>THE KICKER</h2><p><em><em>“There is no national security, there is no economic security, there is no global security, without climate security.”</em></em> –U.K. Prime Minister Keir Starmer <a href="https://x.com/Ben_Spencer/status/1856296781941752013?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9SRVKOvPhlIlV6NOihTyBOSFnvBnXhU1gBU4wd6o1cqptT3TC_d0aa2W3Oj04UFZ2J5j29" rel="noopener noreferrer" target="_blank">speaking</a> at COP29.</p> 
+
+<br> 
+
+<https://heatmap.news/climate/emissions-fossil-fuels-2024>
+
+---
+
+## How climate change is hitting the wine industry
+
+date: 2024-11-13, from: Marketplace Morning Report
+
+<p>From the BBC World Service: This year is on track to be the warmest on record according to the UN’s World Meteorological Organization and extreme weather is having a significant impact on the grapes grown for wine production. Plus, the electric vehicle maker Rivian has linked up with Germany&#8217;s Volkswagen. And can Bitcoin&#8217;s value continue to soar?</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/13/mmr_20241113_MMR_1_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/how-climate-change-is-hitting-the-wine-industry&awCollectionId=mkp-MMR"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/13/mmr_20241113_MMR_1_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/how-climate-change-is-hitting-the-wine-industry&awCollectionId=mkp-MMR" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/how-climate-change-is-hitting-the-wine-industry>
+
+---
+
+## Trump, China, and Climate Change: What Happens Next?
+
+date: 2024-11-13, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDQ3MDI2NC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTczNjY2ODUxMX0.TlmhqjyYAzyHH860-L2KLX_eGwjDanOl4j1za_nozhU/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">
+	The rollbacks are coming. Donald Trump’s incoming administration is expected to pull the United States out of the Paris Agreement, weaken the Environmental Protection Agency’s rules for power plants and tailpipe pollution, and — potentially — rewrite or repeal big swaths of the Inflation Reduction Act. Each of those actions would seem to provide an opening for the world’s No. 1 polluter — China — to assert global leadership and zip ahead in the next generation of clean energy technology.
+</p><p>
+	How will it respond? On this week’s episode of Shift Key, Rob and Jesse chat with <a href="https://sais.jhu.edu/users/jwalla62" target="_blank">Jeremy Wallace</a>, the A. Doak Barnett Professor of China Studies at Johns Hopkins University. Wallace, a Heatmap contributor, helps us understand how China is thinking about Trump, the current state of China’s economy, and why China sometimes flexes its climate leadership — but just as often doesn’t. Shift Key is hosted by Robinson Meyer, the founding executive editor of Heatmap, and Jesse Jenkins, a professor of energy systems engineering at Princeton University.
+</p><p>
+<strong>Subscribe to “Shift Key” and find this episode on <a href="https://podcasts.apple.com/us/podcast/shift-key-with-robinson-meyer-and-jesse-jenkins/id1728932037" target="_blank">Apple Podcasts</a>, <a href="https://open.spotify.com/show/0war1dXXCEEZNpZ3H7kRid" rel="noopener noreferrer" target="_blank">Spotify</a>, <a href="https://music.amazon.com/podcasts/d3491bb8-f4c3-429d-b622-b5d9b1329c69/shift-key-with-robinson-meyer-and-jesse-jenkins" rel="noopener noreferrer" target="_blank">Amazon</a>, or wherever you get your podcasts.</strong>
+</p><p>
+<span></span>You can also add <a href="https://feeds.acast.com/public/shows/65bac3af03341c00164bf93b" target="_blank">the show’s RSS feed</a> to your podcast app to follow us directly.
+</p><center><iframe frameborder="0" height="190px" src="https://embed.acast.com/65bac3af03341c00164bf93b/673407bf65b2afe07a4db5a8" width="100%"></iframe></center><p>
+<span></span>Here is an excerpt from our conversation:
+</p><blockquote>
+<strong>Jesse Jenkins:</strong> While we have no idea what is in Trump’s head, he does have a set of voices around him. To the degree that you can see and briefly summarize those camps, Jeremy, what, what do you … What is he going to be hearing? What are the dominant intellectual threads, or self-interested economic-motivated threads that he’s likely to hear from different parts of his coalition?<br/>
+<br/>
+<strong>Jeremy Wallace: </strong>I would say three different camps. There will be as many as different advisors, but I think summarizing it into three different camps is helpful. There’s a Lighthizer camp that … Lightizer comes out of the steel industry, and thinking about domestic steel manufacturing and national security. So that’s a camp, and that’s a tariff, tariff, tariff world. We can China decouple in order to reduce their power.<br/>
+<br/>
+There’s a Musk camp, who is probably just singular, that is simultaneously extremely kind of right-wing in its orientation, but also runs a multi-trillion-dollar company that is principally Chinese-produced, and Chinese demand — not only, by any means, but is a major portion of that business. And then there is the, there are the Wall Street billionaires that we’re talking about as Treasury Secretary, where there is an interest in continued economic relations and not destroying U.S. credibility to pay its own debts, to make sure that the economy continues to run.
+	<br/>
+<br/>
+And I think all of those would have very different views about what U.S.-China policy should be. There’s a Pentagon wing, right? There’s all kinds of other voices, as well. But I think from Trump world, I think those are probably the three principal voices that he actually cares about. And I don’t know what the right … I don’t know what the policies will be, other than my guess is that there would be a lot of cycling between those three different views.
+	</blockquote><div class="horizontal-rule">
+</div><p>
+	This episode of Shift Key is sponsored by …
+</p><p>
+<strong>Watershed</strong>’s climate data engine helps companies measure and reduce their emissions, turning the data they already have into an audit-ready carbon footprint backed by the latest climate science. Get the sustainability data you need in weeks, not months. Learn more at <a href="https://watershed.com/" rel="noopener noreferrer" target="_blank">watershed.com</a>.
+</p><p>
+	As a global leader in PV and ESS solutions, <strong>Sungrow</strong> invests heavily in research and development, constantly pushing the boundaries of solar and battery inverter technology. Discover why Sungrow is the essential component of the clean energy transition by visiting <a href="https://en.sungrowpower.com/" rel="noopener noreferrer" target="_blank">sungrowpower.com</a>.
+</p><p>
+<strong>Intersolar & Energy Storage North America</strong> is the premier U.S.-based conference and trade show focused on solar, energy storage, and EV charging infrastructure. To learn more, visit <a href="https://www.intersolar.us/" rel="noopener noreferrer" target="_blank">intersolar.us</a>.
+</p><p>
+	Music for Shift Key is by Adam Kromelow.
+</p> 
+
+<br> 
+
+<https://heatmap.news/podcast/shift-key-s2-e14-jeremy-wallace>
+
+---
+
+## Welcome to Our New Website
+
+date: 2024-11-13, updated: 2024-11-13, from: RAND blog
+
+rand.org now has a fresh look and feel, improved functionality, and enhanced performance. 
+
+<br> 
+
+<https://www.rand.org/pubs/articles/2024/welcome-to-our-new-website.html>
+
+---
+
+## US Senate Democrats rush to confirm judges before Trump takes office
+
+date: 2024-11-13, from: VOA News USA
+
+The U.S. Senate's Democratic majority began a crusade on Tuesday to confirm as many new federal judges nominated by President Joe Biden as possible to avoid leaving vacancies that Republican Donald Trump could fill after taking office on Jan. 20.
+
+
+With Republicans set to take control of the chamber on Jan. 3, the Senate on Tuesday held a confirmation vote on one of Biden's judicial nominees - former prosecutor April Perry - for the first time since Trump won the Nov. 5 presidential election. The Senate voted 51-44 in favor of her becoming a U.S. district court judge in Illinois.
+
+
+All told, Biden has announced another 30 judicial nominees who are awaiting Senate confirmation votes. Sixteen have already have been reviewed by the Senate Judiciary Committee and are awaiting a final confirmation vote by the full Senate. Another 14 nominees are awaiting committee review.
+
+
+The U.S. Constitution assigns to the Senate the power to confirm a president's nominees for life-tenured seats on the federal judiciary.
+
+
+"We are going to get as many done as we can," Democratic Senate Majority Leader Chuck Schumer said in a statement.
+
+
+Trump made 234 judicial appointments during his first four years in office, the second most of any president in a single term, and succeeded in moving the judiciary rightward - including building a 6-3 conservative majority on the U.S. Supreme Court with three appointees.
+
+
+Biden has appointed a host of liberal judges. Since the beginning of his presidency in 2021, the Senate has confirmed 214 Biden judicial nominees, including liberal Supreme Court Justice Ketanji Brown Jackson. About two-thirds were women, and the same share were racial minorities.
+
+
+Senate Democrats are under pressure to swiftly confirm the remaining nominees, along with any new picks Biden may name in the waning weeks of his presidency.
+
+
+How many nominees Senate Democrats will be able to confirm remains to be seen. Trump in a social media post on Sunday called on the Senate to halt approving Biden's nominees, saying, "Democrats are looking to ram through their Judges."
+
+
+Billionaire Trump backer Elon Musk on Tuesday wrote on social media that "activist" judicial nominees are "bad for the country." Mike Davis, a Trump ally at the conservative judicial advocacy group Article III Project, in another post urged Senate Republicans to vote down all judicial appointments until January.
+
+
+"The American people voted for monumental change," Davis wrote on social media last week. "Grind the Senate to a halt."
+
+
+Current Senate Republican leader Mitch McConnell's office declined comment. McConnell has consistently opposed Biden's nominees and, as majority leader, was instrumental in getting Trump's previous nominees confirmed.
+
+
+Trump's judicial appointees have been involved in major decisions welcomed by conservatives including Supreme Court rulings rolling back abortion rights, widening gun rights, rejecting race-conscious collegiate admissions and limiting the power of federal regulatory agencies.
+
+
+Judicial nominees require a simple majority for confirmation. Democrats currently hold a slim 51-49 majority, meaning that they can ill afford any defections or absences if Republicans show up in force to oppose Biden's nominees during the chamber's post-election "lame duck" session.
+
+
+West Virginia Senator Joe Manchin, an independent who caucuses with the Democrats, has said he would not vote for any nominee who does not garner at least one Republican vote. Must-pass legislation like a spending bill to avert a government shutdown also may consume precious time during the session.
+
+
+'Every possible nominee'
+
+
+Biden's allies have said a concerted push to confirm his remaining nominees would allow him to build on his legacy of helping to diversify a federal bench long dominated by white men.
+
+
+He is not done nominating judges. On Friday, Biden announced his first post-election nominee, Tali Farhadian Weinstein, who after unsuccessfully running in the 2021 Democratic primary to be Manhattan district attorney was picked for a job as a federal district judge in New York.
+
+
+A spokesperson for Senator Dick Durbin, the No. 2 Senate Democrat and chair of the Judiciary Committee, said in a statement that he "aims to confirm every possible nominee before the end of this Congress."
+
+
+White House spokesperson Andrew Bates on Monday noted that during Trump's first term, the Republican-controlled Senate confirmed 18 judges after Biden had won the 2020 election but before he took office.
+
+
+Pending nominees include five to the influential federal appeals courts. Republicans said before the election that they had the votes to block two of them: Adeel Mangi, who would become the first Muslim federal appellate judge, and North Carolina Solicitor General Ryan Park, who unsuccessfully defended the race-conscious admissions policies before the Supreme Court.
+
+
+There are several others nominated to serve as trial court judges like Perry, a former prosecutor now working at Chicago-headquartered GE HealthCare who would join the bench in Illinois. Biden nominated her to a judgeship in April after her prior nomination to become Chicago's top federal prosecutor was blocked by Republican Senator JD Vance.
+
+
+Vance began placing a hold on Biden's nominees to the U.S. Justice Department in 2023 after Special Counsel Jack Smith secured the first of two federal indictments against Trump, who subsequently picked the senator as his vice presidential running mate. 
+
+<br> 
+
+<https://www.voanews.com/a/us-senate-democrats-rush-to-confirm-judges-before-trump-takes-office/7862062.html>
+
+---
+
+## Biden, Israeli president stress need to end conflicts
+
+date: 2024-11-13, from: VOA News USA
+
+U.S. President Joe Biden on Tuesday hosted Israel's president while President-elect Donald Trump has separately held multiple phone calls recently with Israel's head of government, Prime Minister Benjamin Netanyahu. These parallel talks have focused on the conflicts in Gaza and Lebanon and hopes for the release of hostages held by Hamas. VOA White House correspondent Anita Powell reports from Washington. 
+
+<br> 
+
+<https://www.voanews.com/a/israeli-president-stress-need-to-end-conflicts/7862031.html>
+
+---
+
+## Hezbollah, Hamas down but not out, US says
+
+date: 2024-11-13, from: VOA News USA
+
+WASHINGTON — Israel's war against Hezbollah and Hamas, while inflicting considerable damage, has yet to strike a crippling blow to either of the Iran-backed terror groups, according to a top U.S. counterterrorism official.
+
+
+The acting director of the U.S. National Counterterrorism Center (NCTC) said Tuesday that the impact of Israeli intelligence operations, along with repeated military airstrikes and ground offensives in Lebanon and Gaza, have severely diminished the ability of both groups to launch new attacks on Israel.
+
+
+But he cautioned that both groups remain resilient, and in the case of Hezbollah, retain significant capabilities.
+
+
+"Before the conflict, they [Hezbollah] had built up unprecedented numbers of rockets and missiles and other munitions," the NCTC's Brett Holmgren told an audience in Washington, adding that the Lebanese group was starting at a "very strong point."
+
+
+And he said while Israeli strikes have decimated Hezbollah leadership, the group's ground forces in southern Lebanon "remain somewhat intact."
+
+
+Additionally, Israel's actions have done little to damage Hezbollah's reach beyond the Middle East.
+
+
+"Their external capabilities have largely been untouched," Holmgren said, noting the U.S. and its allies are on alert for any indication Hezbollah may seek to retaliate outside the region.
+
+
+Hamas' staying power
+
+
+Hamas, which touched off the war in Gaza when it launched its October 7, 2023, terror attack that killed about 1,200 mostly Israeli civilians, has also suffered greatly, according to the latest U.S. assessments.
+
+
+"Militarily, they have been significantly diminished," Holmgren said. "They're essentially morphing into an insurgent force on the ground."
+
+
+Yet despite being forced to keep a low profile and resort to hit-and-run-type tactics, U.S. intelligence sees few indications Hamas has lost its appeal.
+
+
+"Hamas has been able to recruit new members to its ranks and will likely continue its ability to do so, so long as there is not another viable political option on the ground for these disaffected young men in Gaza to turn to," Holmgren said. 
+
+
+"There has to be a more viable political actor on the ground in Gaza to give these new recruits for Hamas, to give them a better option," he added.
+
+
+Hamas, Hezbollah numbers
+
+
+Prior to Hamas' October 7 attack on Israel, U.S. intelligence estimated that the U.S.-designated terror group had between 20,000 and 25,000 fighters, though some estimates put the number at 30,000 or more, citing support from about a dozen other terror groups that had pledged to fight under the Hamas banner.
+
+
+Hezbollah, according to U.S. estimates, had about 40,000 fighters with "state-like military capabilities."
+
+
+
+
+Holmgren on Tuesday did not elaborate on how many fighters from either group had been eliminated. 
+
+
+Israeli officials, however, have said their forces have killed upward of 14,000 Hamas fighters and more than 2,550 Hezbollah fighters.
+
+
+The Israel Defense Forces earlier this month said it estimates that about 80% of Hezbollah's arsenal of medium- and short-range rockets has been destroyed.
+
+
+Health officials in Gaza have said the Israeli offensive there has killed more than 43,000 Palestinians, more than half of them women and children.  
+
+
+Lebanon's Health Ministry said more than 3,000 people have been killed during the conflict, though it does not differentiate between civilians and Hezbollah fighters.
+
+
+Terror spreading
+
+
+There are growing concerns, though, that the death tolls in Lebanon and Gaza are serving as a spark for other terror groups around the world.
+
+
+Less than a month after Hamas' October 7 attack on Israel, U.S. counterterrorism officials warned that the event had begun to galvanize other terror groups, including Islamic State and al-Qaida.
+
+
+
+
+Holmgren said it appears the Hamas attack, combined with growing political and economic turmoil, has in fact helped to reenergize other groups.
+
+
+Islamic State 
+
+
+"ISIS exploited reduced counterterrorism pressure last year to recover and to rebuild as governments shifted attention and resources to the conflict in Gaza," Holmgren said, using an acronym for the Islamic State terror group, also known as IS or Daesh.
+
+
+Central Syria, he said, had become an epicenter for IS plotting against the U.S. and the West, at large.  
+
+
+
+
+And although a series of recent operations by the U.S. and the U.S.-backed Syrian Democratic Forces have again weakened IS, the group continues to benefit from improved finances and resurgent media campaigns, Holmgren said.
+
+
+The IS affiliate in Afghanistan known as IS-Khorasan has likewise shown resilience.
+
+
+State Department officials, in a recent inspector general's report, admitted that serious questions remain about whether Afghanistan's ruling Taliban "have the will and capability to fully eliminate terrorist safe havens or control the flow of foreign terrorist fighters in and through Afghanistan."
+
+
+
+
+And although key elements of IS-Khorasan have fled Afghanistan for Pakistan, there are fears the group may be poised for a resurgence.
+
+
+"Sustained pressure will be needed to prevent the group from expanding further," Holmgren said.
+
+
+Africa
+
+
+Holmgren further warned that groups affiliating themselves with IS and al-Qaida are also seeing their fortunes rise in Africa.
+
+
+IS and al-Qaida attacks in West Africa and the Sahel alone are set to surpass more than 3,000 by the end of the year, he said, doubling the total number of attacks from 2021.
+
+
+And it could get worse.
+
+
+Holmgren said IS and al-Qaida affiliates have capitalized on turmoil in countries such as Mali, Burkina Faso and the Central African Republic, where governments have turned to the Russian military and Russian paramilitary groups to boost security.
+
+
+
+
+The situation in Africa, "if left unchecked, could become a much more acute long-term threat to U.S. interests," he said. 
+
+
+Younger terrorists
+
+
+U.S. counterterrorism analysts have also picked up on several other trends that they say bear watching.
+
+
+One is a propensity for younger people to join terror movements.
+
+
+"The rising number of juveniles engaging in terrorism is a global phenomenon, and it may well worsen in the near term as the effects of the Israel-Hamas conflict take hold," Holmgren said.
+
+
+Vulnerable young people the world over, he said, are turning to groups like IS for a sense of belonging and accomplishment.
+
+
+"A lot of the propaganda — it's easily accessible on the social media platforms" he said. "A lot of it [is in] English."
+
+
+Iran and Trump
+
+
+There is also concern about how Iran will respond to Israel's degradation of Hezbollah and Hamas, and to the reelection of former U.S. President Donald Trump.
+
+
+U.S. intelligence officials warned in the run-up to last week's election that Iran was engaged in a series of influence operations aimed at hurting Trump's chance of returning to power.
+
+
+And late last week, the U.S. shed light on another in a series of efforts by Tehran to assassinate the once and future president.
+
+
+
+
+In the short term, Holmgren said, Iran could try to leverage its proxy forces in Iraq and Syria to launch additional attacks against U.S. interests and against Israel.
+
+
+But he also expressed concern that Iran continues to play host to al-Qaida's de facto leader, Saif al-Adel.
+
+
+"I won't speculate on what the Iranian intentions are, but suffice to say, it is unhelpful with his presence there," Holmgren said Tuesday in response to a question from VOA.
+
+
+Trump transition 
+
+
+Holmgren promised Tuesday to work with the incoming Trump administration to keep the U.S. and its allies safe.
+
+
+"I look forward to engaging with the Trump administration's national security team to conduct an orderly transition and to ensure that they are ready on Day One to address a dynamic threat environment," Holmgren said.
+
+
+"The U.S. counterterrorism community will be working diligently, as they do each and every day, to keep threats at bay so that our democracy may continue to shine as a beacon of freedom and hope in the world," he added. 
+
+<br> 
+
+<https://www.voanews.com/a/hezbollah-hamas-are-down-but-not-out-us-says/7862018.html>
+
+---
+
+## At White House, Indonesia's new leader straddles US-China rivalry
+
+date: 2024-11-13, from: VOA News USA
+
+white house — President Joe Biden and President Prabowo Subianto met Tuesday at the White House, marking the 75th anniversary of U.S.-Indonesia relations, part of a multination visit by the newly inaugurated leader of Southeast Asia's largest economy.
+
+
+"I will work very hard to strengthen Indonesia and United States relationship," said Prabowo, who goes by his first name.
+
+
+Biden said he looks forward to deepening the Comprehensive Strategic Partnership, the highest level among nontreaty allies, which the two countries signed in 2023. "That includes deepening our security cooperation," he said before their meeting.
+
+
+In brief remarks to the press, Biden twice raised an issue of concern for Washington: freedom of navigation in the South China Sea. He said he wanted to strengthen the U.S. partnership with Indonesia, "by advancing [a] free and open Indo-Pacific."
+
+
+"We'll discuss, also, global challenges, including in Gaza and the South China Sea," he said.
+
+
+China's nine-dash line 
+
+
+The White House meeting came days after Prabowo's meeting with Chinese President Xi Jinping in Beijing, where Indonesia and China signed a series of agreements valued at about $10 billion and focusing on infrastructure, green energy, digital technology and agriculture.
+
+
+
+
+"In the present situation, geopolitical and geoeconomic, Indonesia and China have become very close partners in many, many fields," Prabowo said.
+
+
+One of the deals is to jointly develop fisheries, and oil and gas exploration in waters around Indonesia's Natuna Islands where China's "nine-dash line" marking its expansive claims in the South China Sea overlaps with Indonesia's Exclusive Economic Zone.
+
+
+Critics say the agreement risks implicitly validating China's territorial claims in the South China Sea, which, according to the United Nations, has no basis in international law.
+
+
+VOA asked the White House whether Biden was specifically referring to this deal in his meeting with Prabowo.
+
+
+"We continue to encourage Indonesia to work with their legal experts to make sure any agreement they make with the PRC [People's Republic of China] is in accordance with international law, especially the U.N. Convention on the Law of the Sea," said White House press secretary Karine Jean-Pierre.
+
+
+Beijing claims the major shipping route almost entirely, infringing into the EEZs of Indonesia, Vietnam, Malaysia, Brunei and the Philippines. All but Indonesia formally dispute the Chinese claim while Taiwan makes a claim to the sea similar to Beijing's.
+
+
+"It's a big deal for Indonesia," as a non-claimant country in the South China Sea dispute that supports the concept of a "free and open Indo-Pacific," said Klaus Heinrich Raditio, author on South China Sea issues and lecturer at Indonesia's Driyarkara School of Philosophy. "People will question our position," he told VOA.
+
+
+The Indonesian Foreign Ministry clarified Sunday that it remains firm in rejecting China's nine-dash line.
+
+
+
+
+Beijing's claim, Jakarta said, "does not comply" with the 1982 United Nations Convention on the Law of the Sea and "therefore has no bearing" on Indonesia's sovereignty and jurisdiction over the North Natuna Sea.
+
+
+Jakarta's agreement with Beijing highlights a "new phase of building the China-Indonesia community with a shared future," according to the joint statement.
+
+
+This reference supports "China's vision of a new global order that is anti-Western hegemony," Raditio said.
+
+
+It's unclear whether this language was an intentional signaling of a geopolitical shift or merely an overlook from a new administration eager to bolster ties with great powers. The Indonesian Embassy in Washington has not responded to VOA's queries.
+
+
+"Most likely, it is a bureaucratic mistake," Raditio said. "We put too much attention on economic cooperation. How many investments that we can attract from China? We kind of sideline other important issues."
+
+
+Prabowo's outreach to Trump 
+
+
+Just as important to Jakarta as the White House meeting is Prabowo's outreach to U.S. President-elect Donald Trump. Jakarta is gearing up for Trump's new administration that begins in January.
+
+
+"Wherever you are, I'm willing to fly to congratulate you personally, sir," Prabowo said in a call to Trump that was posted Monday on his social media.
+
+
+The Trump team has not responded to VOA's queries on the conversation.
+
+
+U.S. foreign policy under Trump "may become more transactional and more focused on elements related to U.S.-China, competition," said Andreyka Natalegawa, associate fellow for the Southeast Asia Program at the Center for Strategic and International Studies.
+
+
+"The downside risk of this as it relates to Southeast Asian countries, is that it may limit some of the decision-making space they have in their diplomatic affairs," Natalegawa said.
+
+
+Prabowo has voiced ambitions to raise Indonesia's international profile and has made early foreign policy moves, including a surprise decision to join Southeast Asia's largest economy to the BRICS bloc.
+
+
+BRICS, which stands for Brazil, Russia, India, China and South Africa, is a growing group of emerging economies seen as a counterweight to the West. In October, BRICS added Indonesia as one of the group's 13 new "partner countries."
+
+
+The move could be a shift away from the position taken by Prabowo's predecessor, Joko Widodo, who took in massive amounts of infrastructure investments from Beijing but remained mostly nonaligned geopolitically.
+
+
+The White House visit marks a milestone for Prabowo, who was barred from entering the U.S. under the Clinton, Bush and Obama administrations over his role in abducting activists of the 1998 "Reformasi" movement that ousted President Suharto, Prabowo's then father-in-law.
+
+
+The Trump administration lifted the visa ban for then-Defense Minister Prabowo, for his visit in 2020. 
+
+<br> 
+
+<https://www.voanews.com/a/at-white-house-indonesia-s-new-leader-straddles-us-china-rivalry/7862008.html>
+
+---
+
+## Indonesia’s Prabowo meets Biden after signing maritime deal with Beijing
+
+date: 2024-11-13, from: VOA News USA
+
+President Joe Biden and Indonesian President Prabowo Subianto met Tuesday at the White House to strengthen U.S.–Indonesia ties. The meeting came days after Jakarta signed a maritime agreement with Beijing that critics say could lend credibility to China’s “nine-dash line” that reflects its expansive claims in the South China Sea. White House Bureau Chief Patsy Widakuswara has this report 
+
+<br> 
+
+<https://www.voanews.com/a/indonesia-s-prabowo-meets-biden-after-signing-maritime-deal-with-beijing/7861990.html>
+
+---
+
+## Jack Teixeira, who leaked Pentagon documents, sentenced to 15 years in prison
+
+date: 2024-11-13, from: VOA News USA
+
+boston — A federal judge on Tuesday sentenced a Massachusetts Air National Guard member to 15 years in prison after he pleaded guilty to leaking highly classified military documents about the war in Ukraine. 
+
+
+Jack Teixeira pleaded guilty earlier this year to six counts of willful retention and transmission of national defense information under the Espionage Act following his arrest in the most consequential national security case in years. Brought into court wearing an orange jumpsuit, he showed no visible reaction as he was sentenced by U.S. District Judge Indira Talwani. 
+
+
+Before being sentenced, he apologized for his actions. 
+
+
+"I wanted to say I'm sorry for all the harm that I brought and caused," Texeira said, referencing the "maelstrom" he caused to friends, family, and anyone affected overseas.
+
+
+"I understand all the responsibility and consequences fall upon my shoulders alone and accept whatever that will bring," he said, standing as he addressed the judge. 
+
+
+Afterward, Teixeira hugged one of his attorneys and looked toward his family and smiled before he was led out of court. 
+
+
+The security breach raised alarm over America's ability to protect its most closely guarded secrets and forced the Biden administration to scramble to try to contain the diplomatic and military fallout. The leaks embarrassed the Pentagon, which tightened controls to safeguard classified information and disciplined members found to have intentionally failed to take required action about Teixeira's suspicious behavior. 
+
+
+Earlier in Tuesday's hearing, Assistant U.S. Attorney Jared Dolan argued that 200 months — or a little more than 16 1/2 years — was appropriate given the "historic" damage caused by Teixeira's conduct that aided adversaries of the United States and hurt the country's allies. He also said that the recommendation by prosecutors would send a message to anyone in the military who might consider similar conduct.  
+
+
+"It will be a cautionary tale for the men and women in the U.S. military," Dolan said. "They are going to be told this is what happens if you break your promise, if you betray your country. ... They will know the defendant's name. They will know the sentence the court imposes." 
+
+
+But Teixeira's attorney Michael Bachrach told the judge in court Tuesday that 11 years was sufficient. 
+
+
+"It is a significant, harsh and difficult sentence, one that will not be easy to serve," Bachrach said. "It will serve as an extreme deterrent to anyone, particularly young servicemen. That is enough to keep them deterred from committing serious conduct." 
+
+
+'His intent was to educate'
+
+
+Teixeira, of North Dighton, Massachusetts, had pleaded guilty in March to six counts of the willful retention and transmission of national defense information under the Espionage Act. That came nearly a year after he was arrested in the most consequential national security leak in years. 
+
+
+The 22-year-old admitted that he illegally collected some of the nation's most sensitive secrets and shared them with other users on the social media platform Discord. 
+
+
+When Teixeira pleaded guilty, prosecutors said they would seek a prison term at the high end of the sentencing range. But the defense wrote in their sentencing memorandum earlier that the 11 years is a "serious and adequate to account for deterrence considerations and would be essentially equal to half the life that Jack has lived thus far." 
+
+
+His attorneys described Teixeira as an autistic, isolated individual who spent most of his time online, especially with his Discord community. They said his actions, though criminal, were never meant to "harm the United States." He also had no prior criminal record. 
+
+
+"Instead, his intent was to educate his friends about world events to make certain they were not misled by misinformation," the attorneys wrote. "To Jack, the Ukraine war was his generation's World War II or Iraq, and he needed someone to share the experience with." 
+
+
+Prosecutors, though, had countered that Teixeira does not suffer from an intellectual disability that prevents him from knowing right from wrong. They argued that Teixeira's post-arrest diagnosis as having "mild, high-functioning" autism "is of questionable relevance in these proceedings." 
+
+
+
+
+Teixeira, who was part of the 102nd Intelligence Wing at Otis Air National Guard Base in Massachusetts, worked as a cyber transport systems specialist, which is essentially an information technology specialist responsible for military communications networks. He remains in the Air National Guard in an unpaid status, an Air Force official said. 
+
+
+Authorities said he first typed out classified documents he accessed and then began sharing photographs of files that bore SECRET and TOP SECRET markings. Prosecutors also said he tried to cover his tracks before his arrest, and authorities found a smashed tablet, laptop and an Xbox gaming console in a dumpster at his house. 
+
+
+The leak exposed to the world unvarnished secret assessments of Russia's war in Ukraine, including information about troop movements in Ukraine, and the provision of supplies and equipment to Ukrainian troops. Teixeira also admitted posting information about a U.S. adversary's plans to harm U.S. forces serving overseas. 
+
+<br> 
+
+<https://www.voanews.com/a/jack-teixeira-who-leaked-pentagon-documents-sentenced-to-15-years-in-prison-/7861615.html>
+
+---
+
+## Economists wonder whether Trump will follow through on campaign vows
+
+date: 2024-11-13, from: VOA News USA
+
+U.S. President-elect Donald Trump has left little question about the sort of economic policies he will pursue when he is sworn in for a second term as president in January.
+
+
+The once-and-future president has promised to extend existing tax cuts and implement new ones; to pursue a deregulation agenda, particularly when it comes to energy production; to reinstate a strong protectionist trade policy, including substantial tariffs on imports; and to undertake a "mass deportation" program that would remove a large number of the millions of undocumented immigrants currently residing in the United States.
+
+
+While there may be little doubt about the kind of policies Trump will implement, the degree to which he will pursue them is an open question.
+
+
+"The problem that all economists are dealing with is they don't know how much of what Trump said on the campaign trail to take seriously," Steven B. Kamin, a senior fellow at the conservative-leaning American Enterprise Institute, told VOA. "They don't know if he's going to do a lot of these things, or if he is, how far he'll take it."
+
+
+When it comes to tariffs, Trump has promised across-the-board 10%-20% levies on all imports, and charges of up to 60% on goods coming from China, which experts warn would be economically ruinous.
+
+
+His rhetoric about fossil fuel extraction suggests he will drive up oil and gas production, even though the U.S. is currently producing more energy than it ever has.
+
+
+On immigration, he and his advisers have vacillated between suggesting that all undocumented people will be forcibly removed and describing a much more targeted operation.
+
+
+Tax policy 
+
+
+One thing that appears certain is that Trump will work with Congress — which seems likely to be fully controlled by the Republican Party — to extend the tax cuts that became law as part of the Tax Cuts and Jobs Act, which he signed into law in 2017.
+
+
+Those tax cuts reduced the income taxes paid by many American workers and reduced taxable income by increasing the standard deduction. They also sharply cut the top business income tax bracket from 39% to 21%. Those provisions are all scheduled to expire over the next several years, some as soon as 2025, and Trump has proposed making them permanent.
+
+
+Trump has also floated the idea of other tax cuts, including further reducing the business income tax to a maximum of 15%, and making income from overtime wages, tips and Social Security payments nontaxable, all of which would reduce government revenues.
+
+
+Kamin said the stimulative impact of Trump's proposed additional tax changes would likely not be great, but the impact on the country's debt might be, because they will virtually guarantee additional government borrowing to finance deficit spending.
+
+
+"The real concern for folks that are concerned about the fiscal balance — and I'm one of them — is that by cementing in place large fiscal deficits as far as the eye can see, even in environments of strong economic activity when we should be running surpluses, that leads to increases in the debt," he said.
+
+
+"That, eventually, should lead to crowding out of private investment, rising interest rates, and more worries about the government's sustainability position," Kamin added. "But when the debt will reach a level that will be worrisome in that respect, nobody knows."
+
+
+Cost-cutting 
+
+
+In theory, some of the deficit spending made necessary by large tax cuts could be offset by a reduction in government spending, something Trump has also floated on the campaign trail.
+
+
+In particular, the president-elect has proposed creating a Department of Government Efficiency, to be headed by Elon Musk, the billionaire founder of the electric car company Tesla and the rocket builder SpaceX, and the owner of X, the social network formerly known as Twitter.
+
+
+For his part, Musk has mused that it should be possible to slash federal spending by as much as $2 trillion per year, or about 30%.
+
+
+Reductions of that magnitude would require deep cuts to a vast array of programs, including elements of the social safety net such as Social Security and federal health programs like Medicaid. However, it is unclear how Trump would persuade even a Republican Congress to enact such a wide-ranging reduction in government services.
+
+
+Immigration policy 
+
+
+If Trump follows through on a policy of mass deportation of undocumented immigrants, it is virtually certain to have a negative impact on economic sectors where they are present as laborers in significant concentrations, especially agriculture and construction, said Marcus Noland, executive vice president and director of studies at the Peterson Institute for International Economics.
+
+
+"If you take lots of people out of the labor force, you reduce the amount of output, because there's less labor available, and you raise prices," Noland told VOA.
+
+
+"These people are not distributed evenly across the United States economy," he said. "They're concentrated in agriculture and construction, so you would disrupt those sectors the most, especially if you combine it with tariffs."
+
+
+Trade policy 
+
+
+Trump's tariff proposals, especially if he follows through with his maximalist proposals from the campaign trail, could be significantly damaging. While theoretically meant to stimulate American manufacturing, Noland warned that they could have the opposite effect.
+
+
+"Some modeling that I worked on suggest that those tariff policies, instead of reviving the industrial sector, will actually reduce industrial activity in the United States," he warned.
+
+
+Blanket tariffs on imports, and especially high levies on Chinese goods, would create severe challenges for U.S. manufacturers.
+
+
+"The reason is that you would increase the price of industrial inputs, and so, the United States would become a high-cost place to produce," he said. "Investment would fall — and investment is intensive in industrial materials — so, ironically, it has the opposite effect of what its proponents say." 
+
+<br> 
+
+<https://www.voanews.com/a/economists-wonder-whether-trump-will-follow-through-on-campaign-vows/7861691.html>
+
+---
+
+## Trump, COP29 and the future of climate finance
+
+date: 2024-11-12, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p>COP29, the United Nations&#8217; annual climate summit, is underway in Azerbaijan. This year’s conference is all about how the world will pay to deal with climate change. But Donald Trump&#8217;s election victory looms large over the talks. President-elect Trump could roll back United States climate policy like he did during his first term. On the show today, Gautam Jain, senior research scholar at Columbia University&#8217;s Center on Global Energy Policy, explains why climate investment won&#8217;t come to a complete halt under the next Trump administration. Plus, he weighs in on who might fill the void in global energy transition talks.</p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>Plus, the message ExxonMobil CEO Darren Woods is sending Trump about the nation&#8217;s energy policy. And, how early is too early for Christmas lights?</p>
+<p>Here&#8217;s everything we talked about today:</p>
+<ul>
+<li><a href="https://theconversation.com/what-trump-can-do-to-reverse-us-climate-policy-and-what-he-probably-cant-change-243129" target="_blank" rel="noreferrer noopener">&#8220;What Trump can do to reverse US climate policy − and what he probably can’t change&#8221;</a> from The Conversation</li>
+<li><a href="https://www.reuters.com/business/environment/cop29-what-are-key-issues-un-climate-summit-baku-2024-11-07/?utm_source=Sailthru&amp;utm_medium=Newsletter&amp;utm_campaign=Sustainable-Switch&amp;utm_term=110824&amp;user_email=1ce2cdc1261b8a07bce48fe0ae9fd2f444656ec43737084164dd0111328b9a05&amp;lctg=636289ceb3e47cfcc20c29da" target="_blank" rel="noreferrer noopener">&#8220;COP29: What are the key issues at the UN climate summit in Baku?&#8221;</a> from Reuters</li>
+<li><a href="https://www.wsj.com/world/trump-victory-leaves-china-calling-the-shots-at-cop29-climate-negotiations-f4161f7f" target="_blank" rel="noreferrer noopener">&#8220;Trump Victory Leaves China Calling the Shots at COP29 Climate Negotiations&#8221;</a> from The Wall Street Journal</li>
+<li><a href="https://www.marketplace.org/shows/how-we-survive/burning-questions-what-are-the-climate-wins-and-setbacks-from-the-election/" target="_blank" rel="noreferrer noopener">&#8220;Burning Questions: What are the climate wins and setbacks from the election?&#8221;</a> from Marketplace</li>
+<li><a href="https://www.politico.com/news/2024/11/12/exxon-ceo-us-climate-policy-00188927" target="_blank" rel="noreferrer noopener">&#8220;Exxon chief urges stability in US climate policy, knocks carbon border tariffs&#8221;</a> from Politico</li>
+</ul>
+<p>We want to hear your answer to the Make Me Smart question. Leave us a voicemail at 508-U-B-SMART or email us at makemesmart@marketplace.org.</p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>&nbsp;</p>
+<p><!-- /wp:paragraph --></p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/11/12/mms_20241112_MMS_128.mp3?awEpisodeId=https://www.marketplace.org/shows/make-me-smart/trump-cop29-and-the-future-of-climate-finance&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/11/12/mms_20241112_MMS_128.mp3?awEpisodeId=https://www.marketplace.org/shows/make-me-smart/trump-cop29-and-the-future-of-climate-finance&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/trump-cop29-and-the-future-of-climate-finance>
+
+---
+
+## A tale of 3 Q3s
+
+date: 2024-11-12, from: Market Place
+
+<p>Financial data from three industry-leading firms tells three very different stories. Concert promoter Live Nation had a scorching-hot summer season, while car rental company Hertz fumbled an electric vehicle investment. Home Depot fell somewhere in between. Also in this episode, housing construction. Are townhouses a solution to the shortage of homes? And why does HUD take years to fund rebuilding after natural disasters?</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/11/12/pm_20241112_PM_Podcast_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace/a-tale-of-3-q3s&awCollectionId=mkp-MKP-PM"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/11/12/pm_20241112_PM_Podcast_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace/a-tale-of-3-q3s&awCollectionId=mkp-MKP-PM" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace/a-tale-of-3-q3s>
+
+---
+
+## After Trump's reelection, calls grow to renew US focus on Uyghur rights
+
+date: 2024-11-12, from: VOA News USA
+
+Washington — Following President-elect Donald Trump’s victory, leaders in the Uyghur American community are advocating for renewed U.S. attention on human rights abuses in Xinjiang in northwest China, where Uyghurs and other ethnic minorities have reportedly faced severe repression.
+
+
+Advocates urge Trump to continue his administration’s previous measures against China, citing the impact of his first-term policies on Uyghur rights.
+
+
+During Trump’s first term, his administration formally labeled China’s actions in Xinjiang as genocide, leading to sanctions on Chinese officials and entities connected with alleged abuses, including mass detentions, forced labor and sterilizations. China has consistently denied accusations of abuses against ethnic minorities, asserting its policies aim to combat extremism and terrorism.
+
+
+Nury Turkel, a senior fellow at the Hudson Institute and former chairman of the U.S. Commission on International Religious Freedom, pointed to the bipartisan support for Uyghur rights, underscoring that these concerns resonate across both U.S. legislative and executive branches.
+
+
+“[Uyghur rights] concerns extend beyond typical human rights issues. They have profound national security implications tied to America’s long-term economic and strategic security,” Turkel told VOA.
+
+
+Turkel expressed cautious optimism that Trump’s new administration will build on its previous actions, referencing the Uyghur Human Rights Policy Act and the genocide designation.
+
+
+“I am optimistic that the incoming administration will take concrete steps to address these urgent concerns affecting Uyghurs, as it had previously,” he said.
+
+
+VOA contacted the Trump campaign for a comment regarding the new administration’s plans for Uyghur rights in China but did not receive a response at the time of publication.
+
+
+Renewed calls for action
+
+
+Uyghur American leaders plan to press Trump’s administration to bolster sanctions on Chinese officials and entities involved in abuses against Uyghurs, with the hope of strengthening the U.S. response.
+
+
+“I anticipate that the Trump administration will impose additional sanctions on Chinese officials and entities responsible for atrocity crimes against the Uyghurs, potentially strengthening U.S. efforts to confront these abuses,” Turkel added.
+
+
+Rushan Abbas, executive director of the Washington-based Campaign for Uyghurs, emphasized the need for strict enforcement of the Uyghur Forced Labor Prevention Act of 2021.
+
+
+
+
+“Uyghurs are enduring a genocide, and Americans should know that addressing the genocide of Uyghurs is not just a foreign policy matter; it’s about preventing the U.S. from becoming complicit through the consumption of Chinese products tainted by forced labor,” Abbas told VOA. “[I]t’s about stopping China from using Americans’ hard-earned money to fuel their imperial ambitions and undermine the United States, and rejecting foreign intimidation on U.S. soil.”
+
+
+Salih Hudayar, prime minister of the Washington-based East Turkistan Government in Exile, echoed these sentiments, urging the Trump administration to formally recognize the region — referred to as Xinjiang by China but called East Turkistan by many Uyghurs —as an occupied nation.
+
+
+“An independent East Turkistan would directly challenge China’s ambitions for dominance across Central Asia and the Indo-Pacific, safeguarding American and broader global interests,” Hudayar told VOA. He suggested appointing a special coordinator for Uyghur issues to demonstrate U.S. support for Uyghur rights and those of other minorities in the region.
+
+
+Current policy challenges
+
+
+Despite calls for stronger actions, Uyghur American advocates remain concerned that economic and strategic interests with China may take precedence. Turkel highlighted that various advocacy groups have influenced the U.S. response to Uyghur issues in recent years.
+
+
+“Climate activists have lobbied for closer cooperation with China on environmental initiatives; pro-engagement China watchers have advocated a softer, more conciliatory approach to 'lower the temperature' in U.S.-China relations; and business interests have warned of the economic risks of escalating tensions, pushing for policies that protect U.S.-China trade relations,” he said. “These pressures have contributed to a more nuanced stance and a quieter approach to human rights and Uyghur-related policies.”
+
+
+Turkel added, “While steps like the Uyghur Forced Labor Prevention Act were commendable [during the Biden administration], the focus on Uyghur rights has often been eclipsed by broader geopolitical priorities,” pointing to how shifting U.S. economic priorities have impacted the response.
+
+
+Addressing transnational repression
+
+
+In addition to actions on Uyghur rights, Uyghur American leaders are urging the Trump administration to address transnational repression by China, specifically targeting covert operations that intimidate Uyghur Americans on U.S. soil.
+
+
+“The administration should take immediate steps to multiply the efforts to counter transnational repression by Chinese authorities, particularly targeting the presence of covert Chinese police stations and agents who monitor and intimidate Uyghur Americans and China dissidents in the U.S.,” Abbas said.
+
+
+Abbas noted Trump’s efforts in securing hostage releases in his first term, urging him to prioritize Uyghur detainees held in China.
+
+
+“China continues to detain Uyghur [American] family members and community leaders as a tactic to silence Uyghurs abroad … with many forced to self-censor to protect their families,” she said, advocating for strong U.S. efforts to secure their release and end repression tactics targeting Uyghurs in the diaspora. 
+
+<br> 
+
+<https://www.voanews.com/a/after-trump-s-reelection-calls-grow-to-renew-us-focus-on-uyghur-rights/7861590.html>
 
 ---
 
@@ -14,7 +806,7 @@ updated: 2024-11-12 14:00:23
 date: 2024-11-12, from: Heatmap News
 
 
-<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDQ5MDI4OS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc1MTAzMDE4Nn0.4xKB3Fx3LkwbPR_zaJZQMAPnPpSCbKaEAyDU73UOqv8/image.jpg?width=1245&height=700&coordinates=0%2C62%2C0%2C63"/><br/><br/><p>The most important legal challenge for the renewables industry in America may have just been filed in Michigan. </p>
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDQ5MDI4OS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc1MTAzMDE4Nn0.4xKB3Fx3LkwbPR_zaJZQMAPnPpSCbKaEAyDU73UOqv8/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>The most important legal challenge for the renewables industry in America may have just been filed in Michigan. </p>
 <p>On Friday afternoon, about 70 towns and a handful of Michigan counties appealed the rule implementing part of a new renewable energy siting law – PA 233 – providing primary permitting authority to the Michigan Public Services Commission and usurping local approval powers in specific cases, Heatmap can first report. The law was part of a comprehensive permitting package passed last year by the state legislature and <a href="https://graham.umich.edu/project/MI-energy-siting" rel="noopener noreferrer" target="_blank"><u>seen by climate advocates</u></a> as a <a href="https://www.utilitydive.com/news/states-renewable-energy-permitting-siting-incentives-wind-solar/724815/" rel="noopener noreferrer" target="_blank"><u>potential model for combatting NIMBYs</u></a> across the country.</p>
 <p>The <a href="https://mi-psc.my.site.com/sfc/servlet.shepherd/version/download/068cs00000LJypEAAT" rel="noopener noreferrer" target="_blank"><u>appeal</u></a> challenges multiple aspects of the law’s implementation, saying it went beyond statute, as well as the rulemaking procedure itself, claiming it failed to follow proper processes. The lawsuit aims to effectively undo the law going into effect, or at least enjoin what opponents say are the most onerous restrictions on municipalities and county governments. </p>
 <p>Some of the places involved in the litigation have solar, wind, or battery storage proposed in their backyards. But while it’s certainly the case that some opponents may just want to stop projects from being built, one of the attorneys behind the litigation – Michael Homier at Michigan law firm Foster Swift – told me the case represents how these laws inflame broader tensions between communities and their governments.</p>
@@ -309,13 +1101,25 @@ date: 2024-11-12, from: VOA News USA
 U.S. President-elect Donald Trump is moving quickly to fill his nascent administration with Republican officials who have been the most politically loyal to him in the four years he was out of office.
 
 
-Trump, according to various U.S. news accounts, has decided to name Florida Senator Marco Rubio as secretary of state, the country's top diplomat, and South Dakota Governor Kristi Noem as the Homeland Security chief.
+Trump, according to various U.S. news accounts, intends to nominate Florida Senator Marco Rubio as secretary of state, the country’s top diplomat, but that announcement has yet to be made.
 
 
-Both Rubio and Noem were on Trump's short list of possible vice-presidential running mates several months ago. While Trump later picked first-term Ohio Senator JD Vance, now the vice president-elect, to join him on the Republican national ticket, both Rubio and Noem remained Trump stalwarts as he easily won the election last week over Democratic Vice President Kamala Harris.
+On Tuesday night, he announced South Dakota Governor Kristi Noem as his choice for Homeland Security chief. Other Cabinet-level picks announced Tuesday night include Pete Hegseth as the head of the Department of Defense, and John Ratcliffe as the director of the CIA.
 
 
-Trump has settled on Michael Waltz, a Florida congressman, as his national security adviser. Waltz earlier this year supported a long-shot Republican legislative effort to rename Washington's international airport for Trump.
+Both Rubio and Noem were on Trump’s short list of possible vice presidential running mates several months ago. While Trump later picked first-term Ohio Senator JD Vance, now the vice president-elect, to join him on the Republican national ticket, both Rubio and Noem remained Trump stalwarts as he easily won the election last week over Democratic Vice President Kamala Harris.
+
+
+Ratcliffe was the nation’s sixth Director of National Intelligence, serving for the last eight months of the Trump administration after a rocky confirmation process. Hegseth is a veteran and a Fox News host.
+
+
+Trump also announced that billionaire businessman Elon Musk and entrepreneur and former Republican presidential candidate Vivek Ramaswamy will lead what he called the Department of Government Efficiency. The announcement said they would provide advice and guidance to “drive large-scale structural reform” of the federal government.
+
+
+Trump also announced on Tuesday that he has chosen William McGinley as White House counsel.
+
+
+Trump also has settled on Michael Waltz, a Florida congressman, as his national security adviser. Waltz earlier this year supported a long-shot Republican legislative effort to rename Washington's international airport for Trump.
 
 
 Trump on Monday also named Thomas Homan, his former acting immigration chief, to be his "border czar" to head efforts to deport undocumented migrants living in the U.S., possibly millions, back to their home countries. News accounts reported that Stephen Miller, another vocal anti-migrant adviser who served in Trump's first term, would be named as Trump's deputy chief of staff for policy.
@@ -693,98 +1497,137 @@ date: 2024-11-12, from: The Lever News
 
 ---
 
-## Biden reiterates 'ironclad' commitment to Israel  during meeting with Herzog
+## US will not cut military aid to Israel over Gaza aid
 
 date: 2024-11-12, from: VOA News USA
 
-President Joe Biden reiterated his “ironclad” defense of Israel during a Tuesday Oval Office meeting with Israel’s president – and he echoed the wish to see the return of the remaining hostages still held by militant group Hamas after more than a year of brutal conflict in Gaza. 
+The United States said Tuesday that Israel has made limited progress on increasing the flow of humanitarian aid into the Gaza Strip as Washington requested, so the Biden administration will not limit arms transfers to Israel.
+
+
+State Department deputy spokesperson Vedant Patel told reporters that "we at this time have not made an assessment that the Israelis are in violation of U.S. law."
+
+
+The administration told its ally on October 13 that it had one month to increase aid to Gaza, where the situation after 13 months of war between Israel and Hamas militants has unleashed a catastrophic humanitarian situation, or face a reduction in military aid. The deadline was Tuesday.
+
+
+“We are not giving Israel a pass," Patel said, adding that "we want to see the totality of the humanitarian situation improve, and we think some of these steps will allow the conditions for that to continue to progress."
+
+
+Secretary of State Antony Blinken met with Israel’s top national security adviser, Ron Dermer, in Washington on Monday to go over the steps that Israel has taken.
+
+
+At the United Nations, U.S. envoy Linda Thomas-Greenfield told the Security Council that Israel has taken some important steps, including restoring aid deliveries to the north, but that it must ensure its actions are “fully implemented and its improvements sustained over time.”
+
+
+“And we continue to reiterate, there must be no forcible displacement nor policy of starvation in Gaza, which would have grave implications under U.S. and international law,” she said.
+
+
+A senior U.N. human rights official said at the same meeting that the entry and distribution of aid into Gaza has fallen to “some of the lowest levels in a year” and criticized Israel’s conduct of military operations in the north.
+
+
+“All states, consistent with their obligations under international law, must therefore assess arms sales or transfers and provision of military, logistical or financial support to a party to the conflict, with a view to ending such support if this risks serious violations of international law,” Ilze Brands Kehris, U.N. assistant secretary-general for human rights, said.
+
+
+
+
+Israel denies it is limiting aid to Gaza, blaming the U.N. and aid agencies for slow distribution and Hamas for stealing it.
+
+Earlier Tuesday, eight international aid organizations said that of 19 measures of compliance with the U.S. demands, Israel failed to comply with 15 and only partially complied with four.
+
+
+"Israel not only failed to meet the U.S. criteria that would indicate support to the humanitarian response, but concurrently took actions that dramatically worsened the situation on the ground, particularly in Northern Gaza," the report said. “That situation is in an even more dire state today than a month ago.”
+
+
+Asked what grade the United Nations would give Israel, spokesperson Stephane Dujarric would not offer one, but said, “I think from what we've been telling you over the last few days and frankly much longer, it's pretty clear that we're nowhere near what we need.”
+
+
+While aid entering Gaza is insufficient overall, the U.N. Office for the Coordination of Humanitarian Affairs says it is especially bad in northern Gaza, where 85% of its attempts to coordinate aid convoys and humanitarian visits in October were denied or impeded.
+
+
+“As I brief you, Israeli authorities are blocking humanitarian assistance from entering North Gaza, where fighting continues, and around 75,000 people remain with dwindling water and food supplies,” acting humanitarian chief Joyce Msuya told the Security Council meeting.
+
+
+“Conditions of life across Gaza are unfit for human survival,” she said.
+
+
+Famine alert
+
+
+On Friday, U.N.-backed food security experts issued an urgent warning, saying there is a strong likelihood that famine is occurring or imminent in parts of northern Gaza and that immediate action is needed to avert a catastrophe.
+
+
+“By the time famine has been declared, people are already dying of hunger, with irreversible consequences that can last generations,” Rein Paulsen told the Security Council meeting. Paulsen is the director of the Office of Emergencies and Resilience at the U.N.’s Food and Agriculture Organization.
+
+
+“The window of opportunity to deliver this assistance is now, today, not tomorrow,” he said.
+
+
+Israel’s U.N. ambassador told reporters ahead of the council meeting that the report by the famine committee of the Integrated Food Security Phase Classification, or IPC as the experts are known, is “harmful propaganda” and “filled with baseless and slanderous claims” against Israel.
+
+
+“As I have said here in the past, there are agencies dedicated to real humanitarian work, and then there are those like the IPC, which prioritize smearing Israel over actually helping those in need,” Danny Danon said.
+
+
+Inside the council, he said IPC claims of imminent famine in northern Gaza are “simply false,” and that Israel facilitated over 713 trucks into the north in October. He said across Gaza, a dozen bakeries produce pita bread, and overall, Israel is allowing aid in through multiple crossing points, including the Kissufim crossing to central Gaza, which was opened on Tuesday after having been shuttered 19 years ago.
+
+
+“Are these the actions of a state wishing to cause a famine?” Danon asked.
+
+
+Palestinian envoy Riyad Mansour said Israel should allow international journalists into Gaza to see for themselves whether there is famine or not.
+
+
+“We need international media, independent media, to go and to document exactly what is happening,” Mansour told reporters. “It is genocide in northern Gaza, and we need the international media to go and tell the story.”
+
+
+In 13 months of war, Israel has allowed only a few handpicked reporters to accompany its troops into Gaza on brief tours to see the Hamas tunnels. It has also shuttered the bureau of Qatar-based news channel Al Jazeera in Israel. According to the Committee to Protect Journalists, at least 137 journalists and media workers have been killed, nearly all of them Palestinian.
+
+
+As the situation worsens, the Security Council’s 10 elected members are working on a draft resolution on the protection of civilians in the conflict and the need for an immediate cease-fire, release of hostages and scaling up of aid.
+
+
+Biden reaffirms support for Israel
+
+
+President Joe Biden reiterated his support of Israel during a Tuesday Oval Office meeting with Israel’s president and echoed the wish to see the return of the remaining hostages still held by Hamas in Gaza for more than a year.
+
+
 
 
 “My commitment to Israel is ironclad,” Biden told President Isaac Herzog during their morning meeting in the White House. “And we share a deep friendship.”
 
 
-Herzog underscored his government’s main objective: “First and foremost, we have to get the hostages back.” 
+Herzog underscored his government’s main objective: “First and foremost, we have to get the hostages back.”
 
 
-“It all starts in Tehran,” he said. “It all starts in the empire of evil, where, in Tehran, with its proxies, they are doing whatever they can to derail stability and security and peace, calling for the annihilation of the State of Israel and seeking nuclear weapons, Mr. President, this has to be a major objective all throughout your term and the next term of the next president, because we have to make sure that they cannot fulfill their evil intentions.”
+As President-elect Donald Trump begins to put his government together, his transition office announced Tuesday that former Arkansas governor Mike Huckabee is his nominee for U.S. ambassador to Israel, and real estate investor Steve Witkoff will be his special envoy to the Middle East.
 
 
-A day earlier in Washington, Herzog told a gathering of North American Jewish community groups that the Israeli administration considers incoming President Donald Trump “a champion of peace and cooperation and a great friend of Israel."
+Air strikes in Gaza, Beirut
 
 
-Washington is Israel’s top military and diplomatic supporter, and these mannered talks are happening against a backdrop of violence.  
+Israeli airstrikes killed at least 14 people in Gaza on Tuesday, Palestinian authorities said, while in Lebanon, plumes of smoke rose above Beirut’s southern suburbs less than an hour after Israeli forces told residents to evacuate.
 
 
-Israeli strikes killed at least 14 people in Gaza, Palestinian authorities said Tuesday, and plumes of smoke were rising above the southern Beirut’s suburbs less than an hour after Israeli forces told residents to evacuate. 
+A strike early Tuesday hit a house at a refugee camp in central Gaza, killing three people, according to Al-Awda Hospital, which received the casualties.
 
 
-While fighting continues, international aid groups issued a report saying Israel has not met a Tuesday deadline set by the U.S. to allow more aid into the Gaza Strip.  
+Israel's new defense minister, Israel Katz, said on X that during a meeting with military officials Tuesday, he reiterated that Israel will continue hitting Hezbollah with full force, and that there will be no cease-fire in Lebanon.
 
 
-But the Israeli military said hundreds of packages of food and water have been brought to an area in northern Gaza where it has been focusing operations. 
-
-
-
-
-Last month, the Biden administration told Israel to “surge” more food and supplies into Gaza or risk a cut in military aid. 
-
-
-The State Department said Secretary of State Antony Blinken and Israeli Minister of Strategic Affairs Ron Dermer met in Washington on Monday and “reviewed steps that Israel has taken to improve the dire humanitarian situation inside Gaza in a response to the letter sent by the secretary and Secretary of Defense [Lloyd] Austin on October 13.”
-
-
-“The secretary emphasized the importance of ensuring those changes lead to an actual improvement in the dire humanitarian situation in Gaza, including through the delivery of additional assistance to civilians throughout Gaza. The secretary further reiterated the importance that Israel take every possible step to minimize civilian harm,” said State Department spokesperson Matthew Miller in a statement on Tuesday.
-
-
-On Tuesday, a group of eight international aid organizations said that of 19 measures of compliance with the U.S. demands, Israel failed to comply with 15 and only partially complied with four. 
-
-
-"Israel not only failed to meet the U.S. criteria that would indicate support to the humanitarian response, but concurrently took actions that dramatically worsened the situation on the ground, particularly in Northern Gaza," the report said. “That situation is in an even more dire state today than a month ago.”
-
-
-The U.N. Office for the Coordination of Humanitarian Affairs said 85% of its attempts to coordinate aid convoys and humanitarian visits to northern Gaza were denied or impeded last month. 
-
-
-The office made 98 requests to Israeli authorities for authorization to go through the checkpoint along Wadi Gaza but only 15 made it, U.N. spokesman Stephane Dujarric said Monday. 
-
-
-On Monday night, the Israeli security Cabinet approved more aid for Gaza, which will increase the number of trucks that enter each day, an official familiar with the matter told The Associated Press.
-
-
-
-
-
-Airstrikes in Gaza, Beirut  
-
- 
-
-A late Monday strike killed at least 11 people in a cafeteria west of Khan Younis, according to officials at Nasser Hospital. A strike early Tuesday hit a house at a refugee camp in central Gaza, killing three people, according to al-Awda Hospital, which received the casualties. 
-
-
-Early Tuesday, the Israeli army told residents in Beirut's southern suburbs to leave immediately, warning that it would strike Hezbollah targets there. 
-
-
-"You are located near facilities and interests affiliated with Hezbollah, against which the Israel Defense Forces will act in the near future," military spokesman Avichay Adraee said in a post on X that included a map showing the buildings it would target in the Lebanese capital. 
-
-
-Less than an hour later, according to Agence France-Presse, two strikes hit the area and plumes of gray smoke were rising.  
-
-
-Witnesses told AFP gunfire could be heard in the area ahead of the strikes  warning shots by residents for people to leave following the evacuation call.
-
-
-Israel's defense minister, Israel Katz, said on X Tuesday that during a meeting with military officials, he reiterated that Israel will continue hitting Hezbollah with full force and that there will be no cease-fire. 
-
-
-The war in Gaza was triggered when Hamas-led militants stormed into southern Israel on Oct. 7, 2023, killing about 1,200 people, mostly civilians, and abducting about 250. Some 100 hostages are still inside Gaza, although about one-third of them are believed to be dead. 
+The war in Gaza was triggered when Hamas-led militants stormed into southern Israel on October 7, 2023, killing about 1,200 people, mostly civilians, and abducting about 250. Some 100 hostages are still inside Gaza, although about one-third of them are believed to be dead.
 
 
 Israel's counteroffensive has killed more than 43,000 Palestinians, more than half of them women and children, according to local health authorities. The Israeli military says the death toll includes thousands of Hamas militants.
 
 
+The war spread to Lebanon in mid-September, after months of rocket fire from Hezbollah into Israel and drone and airstrikes by Israel’s military in south Lebanon escalated. More than 3,200 Lebanese have been killed, most of them in the past six weeks.
+
+
 Both Hamas and Hezbollah have been designated as terrorist organizations by the United States.
 
 
-Some information in this report came from The Associated Press, Reuters and Agence France-Presse. 
+VOA White House correspondent Anita Powell and United Nations correspondent Margaret Besheer contributed to this report. Information from The Associated Press and Reuters was used in this report. 
 
 <br> 
 

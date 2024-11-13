@@ -1,11 +1,61 @@
 ---
 title: motorcycles
-updated: 2024-11-12 14:00:26
+updated: 2024-11-13 07:16:35
 ---
 
 # motorcycles
 
-(date: 2024-11-12 14:00:26)
+(date: 2024-11-13 07:16:35)
+
+---
+
+## Busa-Powered Car Does Drift Wheelies, No Really
+
+date: 2024-11-13, from: Ride Apart, Electric Motorcycle News
+
+The definition of "Hold my beer." 
+
+<br> 
+
+<https://www.rideapart.com/news/740751/hayabusa-powered-drift-car-wheelie/>
+
+---
+
+## Could Honda Rewire Mobility In Europe With Its Swappable Power Pack?
+
+date: 2024-11-13, from: Ride Apart, Electric Motorcycle News
+
+Serious stuff now, fun stuff later…hopefully. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/740605/honda-testing-battery-swapping-sweden/>
+
+---
+
+## Let’s Be Real, the Bimota KB998 Rimini Is Really Just A ZX-10RR On Steroids
+
+date: 2024-11-13, from: Ride Apart, Electric Motorcycle News
+
+There, I said it. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/740603/bimota-kb998-rimini-revealed-eicma-2024/>
+
+---
+
+## You're Doing What With That 55-Gallon Drum, Bearded Mechanic?
+
+date: 2024-11-13, from: Ride Apart, Electric Motorcycle News
+
+The road to DIY heaven and/or hell is paved with $15 heat guns from Harbor Freight. 
+
+<br> 
+
+<https://www.rideapart.com/news/740742/bearded-mechanic-buildoff-diy-powdercoating/>
 
 ---
 

@@ -1,11 +1,50 @@
 ---
 title: home
-updated: 2024-11-12 14:00:25
+updated: 2024-11-13 07:16:34
 ---
 
 # home
 
-(date: 2024-11-12 14:00:25)
+(date: 2024-11-13 07:16:34)
+
+---
+
+## A DIYer Builds a "Tomatovision" Cabinet to Conceal Her Flat-Screen TV
+
+date: 2024-11-13, from: Dwell
+
+Who said Tomato Girl Summer had to end? 
+
+<br> 
+
+<https://www.dwell.com/article/a-diyer-builds-a-tomatovision-cabinet-to-conceal-her-flat-screen-tv-1c51b569>
+
+---
+
+## 9 Chic Weed-Associated Home Goods That You Don’t Need to Hide
+
+date: 2024-11-13, from: Dwell
+
+Avail yourself of a stylish gravity bong (really!) or a tabletop lighter that looks like a vintage Jell-O cake. 
+
+<br> 
+
+<https://www.dwell.com/article/9-chic-weed-associated-home-goods-that-you-dont-need-to-hide-86ab5287>
+
+---
+
+## Thuja Green Giant Care and Growing Guide with Ultimate Tips
+
+date: 2024-11-13, from: Yard Life blog
+
+<p>The Thuja Green Giant, an impressive hybrid evergreen, is an ideal choice for homeowners who wish to establish a natural ... </p>
+<p class="read-more-container"><a title="Thuja Green Giant Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/thuja-green-giant-care-and-growing-guide-with-ultimate-tips/#more-21784" aria-label="Read more about Thuja Green Giant Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/thuja-green-giant-care-and-growing-guide-with-ultimate-tips/">Thuja Green Giant Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/thuja-green-giant-care-and-growing-guide-with-ultimate-tips/>
 
 ---
 
@@ -79,6 +118,18 @@ date: 2024-11-12, from: Family Handyman Blog
 
 ---
 
+## Here’s How to Save Money on Thanksgiving Dinner, According to Professional Chefs
+
+date: 2024-11-12, from: Sunset Magazine - Living in the West
+
+Hosting a Thanksgiving gathering can be costly. Professional chefs share what to splurge and save on, plus other money-saving tips. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/how-to-host-thanksgiving-on-a-budget>
+
+---
+
 ## This $1.8M Hilltop Midcentury in L.A. Just Listed for the First Time
 
 date: 2024-11-12, from: Dwell
@@ -114,6 +165,18 @@ Despite an ugly and exhausting election, our annual American design issue remind
 <br> 
 
 <https://www.dwell.com/article/in-design-we-trust-optimistic-architecture-november-december-2024-issue-c7e67214>
+
+---
+
+## Costco Just Recalled 80,000 Pounds of Butter for a Very Surprising Reason
+
+date: 2024-11-12, from: Sunset Magazine - Living in the West
+
+Costco just recalled 80,000 pounds of its Kirkland Signature butter due to a surprising reason. Find out if you need to toss out your butter. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/costco-just-recalled-80000-pounds-of-butter-for-a-very-surprising-reason>
 
 ---
 
@@ -397,6 +460,18 @@ Designed by Jérôme Peyret, the curvaceous cottage in the French countryside co
 <br> 
 
 <https://www.dwell.com/article/bubble-house-jerome-peyret-south-of-france-real-estate-79fe2f73>
+
+---
+
+## This 2,400-Square-Foot Whimsical Idaho Lake Cabin Sleeps 19
+
+date: 2024-11-11, from: Sunset Magazine - Living in the West
+
+Designer Heather Lucas wanted her Idaho lake cabin to host a lot of guests. She made strategic design choices to achieve that. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/idaho-lake-cabin>
 
 ---
 

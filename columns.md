@@ -1,11 +1,239 @@
 ---
 title: columns
-updated: 2024-11-12 14:00:24
+updated: 2024-11-13 07:16:33
 ---
 
 # columns
 
-(date: 2024-11-12 14:00:24)
+(date: 2024-11-13 07:16:33)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-13, from: Dave Winer's Scripting News)
+
+A 27-minute post-election ramble <a href="https://shownotes.scripting.com/scripting/2024/11/13/aWednesdayMorningRamble.html">podcast</a>. 
+
+<br> 
+
+<http://scripting.com/2024/11/13.html#a150024>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-11-13, from: Miguel de Icaza Mastondon feed)
+
+<p>On Biden and the Genocide:</p><p>I dislike the expression “believe them when they tell you” because it is so overused.</p><p>But maybe it is overused because our own cognitive dissonance pushes us to deny what is right in front of our eyes and we keep making up excuses</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113476210064477129>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-11-13, from: Miguel de Icaza Mastondon feed)
+
+<p>If we learned one thing out of this election is that “they are just supporting Israel for now because of the election and their hands are tied, but they will course correct later when they win” were pure mental gymnastics</p><p>They did what they meant to do</p><p>They support the genocide.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113476208499802951>
+
+---
+
+## 2024 is different from 2016
+
+date: 2024-11-13, from: Dave Winer's Scripting News
+
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/11/13/mobIncited.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">It's good to have a record of the things you posted and when you posted it. On August 12 of this year, I tweeted <a href="https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3kzjvirjq3d2q">this</a>: "When the NYT makes Trump sound like a reasonable candidate that a sane person might vote for, remember this day." I included a <a href="https://imgs.scripting.com/2024/11/13/trumpIncitesMob.png">screen shot</a> of the front page of the NYT on Jan 7, 2021. One in three Trump voters still <a href="https://x.com/froomkin/status/1856384929476624841">watch mainstream news</a>, which follows the lead of the NYT, and if they had been straight with us, perhaps enough people who like Trump's style would have realized the danger, and voted in a conservative way, ie to conserve the Constitution. Because of how they covered it, we now get to re-run the 2016 experiment all over again. </p>
+<p>But, as <a href="https://podcasts.apple.com/us/podcast/trump-won-what-now-with-heather-cox-richardson/id1583132133?i=1000676185735">Heather Cox Richardson</a> points out in Jon Stewart's weekly podcast (a must-listen) -- we have more experience too, and perhaps will know better how to deal with Trump and know that <b>his bark is often worse than his bite.</b> I have to say as the new reality sinks in, I'm not as scared as I was on Election Night last week or even Election Night in 2016. A lot of people will sell out this time who didn't before. But the problems of climate change have gotten worse in the intervening years,  and people feel it in their bones, pocketbooks and fears. You think inflation was bad? This will be far worse and it's happening now, and nothing we can do at a human scale will make it go away. </p>
+<p>We're dealing with a very unusual drought in the eastern US now. Fires are breaking out where we never used to have them. Yeah this shit is real, and even people who don't believe in science are feeling it. </p>
+<p>As someone once said, you should <a href="https://www.reddit.com/r/Stoicism/comments/xdc8t4/never_let_a_good_crisis_go_to_waste/">never waste a good crisis</a>. A lot of other people feel compelled to move. Unfortunately some are moving to the wrong place, as they always do. Making change isn't easy, but is possible, if you understand how people move. As they try to figure out what the Dem's failed at, that's it. </p>
+<p>Skate to where the <a href="https://www.reddit.com/r/RocketLeague/comments/1bvv11l/i_skate_to_where_the_puck_is_going_to_be_not/">puck will be</a>, not where it was, as another famous philosopher once said. And people don't listen to their friends, they listen to their competitors (which I said, sadly, but then put that fact to use to get various standards to fly by without debate). There is a method to human madness, in other words, imho.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2024/11/13/144132.html?title=2024IsDifferentFrom2016>
+
+---
+
+## Social media platforms should make it easier to add alternative text using an [Alt: description] syntax
+
+date: 2024-11-13, from: Chris Heilmann's blog
+
+Adding alternative texts to images on social platforms is not a &#8220;nice thing to have&#8221; but important to not lock people out. That&#8217;s why it is a shame that it is quite tricky to do it across different platforms. Personally I use Twitter, BlueSky, Mastodon and LinkedIn and the following video shows just how much [&#8230;] 
+
+<br> 
+
+<https://christianheilmann.com/2024/11/13/social-media-platforms-should-make-it-easier-to-add-alternative-text-using-an-alt-description-syntax/>
+
+---
+
+## Mapping License Plate Scanners in the US
+
+date: 2024-11-13, updated: 2024-11-12, from: Bruce Schneier blog
+
+<p><a href="https://deflock.me/">DeFlock</a> is a crowd-sourced project to <a href="https://www.404media.co/email/86114692-d4b0-4794-b1e8-ec0adedcfcfa/">map license plate scanners</a>.</p>
+<p>It only records the fixed scanners, of course. The mobile scanners on cars are not mapped.</p>
+<p>The post <a href="https://www.schneier.com/blog/archives/2024/11/mapping-license-plate-scanners-in-the-us.html">Mapping License Plate Scanners in the US</a> appeared first on <a href="https://www.schneier.com">Schneier on Security</a>.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/11/mapping-license-plate-scanners-in-the-us.html>
+
+---
+
+## November 12, 2024
+
+date: 2024-11-13, from: Heather Cox Richardson blog
+
+The backdrop for today&#8217;s news is that Republicans in the Senate will vote by secret ballot tomorrow for a new Senate majority leader. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/november-12-2024>
+
+---
+
+## 2024-11-13 A big memex
+
+date: 2024-11-13, from: Alex Schroeder's Blog
+
+<h1 id="2024-11-13-a-big-memex">2024-11-13 A big memex</h1>
+
+<p>How big are your memories? Some days they seem endless.
+Perhaps you started using an external add-on brain, a memory extender (memex) – a blog, like I did.
+It&rsquo;s about 20 years old, now.
+The <a href="archives">archives</a> show the first blog posts showed up in 2002.
+I think I copied some entries over from Meatball, at the time.
+So I&rsquo;m not entirely sure when this particular site started.</p>
+
+<p>Back then, I was big into wikis.
+I was a <a href="http://meatballwiki.org/">Meatball Wiki</a> regular.
+The <a href="https://en.wikipedia.org/wiki/Blog">history of blogs</a> show that they entered the mainstream around 2004.
+I thought they were for people who couldn&rsquo;t edit and couldn&rsquo;t collaborate.
+The text is written and then sinks to the bottom to join the forgotten posts of the past.
+Wiki pages, on the other hand, were forever!</p>
+
+<p>This site started as a wiki.
+And then something happened: I realized that the things I wanted to write under one heading changed over time.
+Sometimes I changed my mind.
+Sometimes I cared for a different aspect.
+I realized that I couldn&rsquo;t go back to edit the old pages and just replace the old words with the new words.
+I wanted to capture this slow churn.</p>
+
+<p>All of this came back to me when <a class="account" href="https://merveilles.town/@somi" title="@somi@merveilles.town">@somi</a> asked on fedi:</p>
+
+<blockquote>
+<p>for those that maintain personal wikis by hand, how do you approach it generally? Do you try and associate pages by topic? Do you maintain some sort of hierarchical table-of-contents? Maybe you tag stuff? Do you put it all in one big bag?</p>
+</blockquote>
+
+<p>Now you know what happened.
+My site started as a wiki and has drifted towards a blog.</p>
+
+<p>How it works:
+The blog posts are wiki pages starting with an ISO date.
+Links to pages that start with a date (most of them) are automatically added to the front page.</p>
+
+<p>Pages have hashtags and if these pages exist (not all hashtag pages exist) then a link from the hashtag page back to the tagged page gets added automatically.
+The result is that every hashtag page has a subset of the blog posts, gathering all the blog entries for that particular topic.</p>
+
+<p>If I write about a thing, I use hashtags.
+After a while I might think that I&rsquo;ve written so much about this topic, time to create a dedicated page for this hashtag.
+I add a list of links to existing pages with that tag and from now on pages with this hashtag get added automatically.</p>
+
+<p>Visitors (and I) can visit the hashtag page to see how my writing about the topic has evolved (or not).</p>
+
+<p>I think the big driver of this is that my memex is over twenty years old and has thousands of pages.
+Going back to old pages to update them does not works for me. 😧</p>
+
+<p>Writing more about a topic, and linking old and new does work.</p>
+
+<p><a class="tag" href="/search/?q=%23Wikis">#Wikis</a> <a class="tag" href="/search/?q=%23Blogs">#Blogs</a> <a class="tag" href="/search/?q=%23Oddmu">#Oddmu</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2024-11-13-big-memex>
+
+---
+
+## Office Hours: What influence will Elon Musk and Robert F. Kennedy Jr. really have in the Trump administration?
+
+date: 2024-11-13, from: Robert Reich's blog
+
+And what does this suggest about the rest of the Trump regime? 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-what-influence-will>
+
+---
+
+**@Jessica Smith's blog** (date: 2024-11-13, from: Jessica Smith's blog)
+
+<p>Last week, reverse-cycle air conditioning was finally installed at our place and <em>my god</em>, it&rsquo;s so much more efficient than the plug-in electric heaters we used to have to put everywhere. Judging by the last few days, we&rsquo;re going to save <em>hundreds</em> of dollars a year on power bills. More money for nappies, hooray!</p> 
+
+<br> 
+
+<https://www.jayeless.net/2024/11/reverse-cycle-air-conditioning.html>
+
+---
+
+## The Verge’s Compilation of Tech Leaders Congratulating Donald Trump
+
+date: 2024-11-13, updated: 2024-11-13, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/2024/11/6/24289649/big-tech-leaders-donald-trump-presidential-election>
+
+---
+
+## Wednesday 13 November, 2024
+
+date: 2024-11-13, from: John Naughton's online diary
+
+Night lights Walking through Upper River Court in St John’s on Monday night on my way to a lecture by Marietje Schaake I pulled out my iPhone to see how it would handle the lighting. Fairly well is my verdict. &#8230; <a href="https://memex.naughtons.org/wednesday-13-november-2024/40063/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-13-november-2024/40063/>
+
+---
+
+## The 2024 HTTP Workshop
+
+date: 2024-11-12, from: Daniel Stenberg Blog
+
+Day one. For the sixth time, this informal group of HTTP implementers and related &#8220;interested parties&#8221; unite in a room over a couple of days doing a HTTP Workshop. Nine years since that first event in Münster, Germany. If you are someone like me, obsessed with networking and HTTP in particular this is certainly the &#8230; <a href="https://daniel.haxx.se/blog/2024/11/13/the-2024-http-workshop/" class="more-link">Continue reading <span class="screen-reader-text">The 2024 HTTP Workshop</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2024/11/13/the-2024-http-workshop/>
+
+---
+
+## ★ Disambiguating iPhone Model Names That Have the ‘S’ Suffix
+
+date: 2024-11-12, updated: 2024-11-12, from: Daring Fireball
+
+Apple’s S suffix for certain iPhone models — 3GS, 4S, 5S, 6S, XS — has always been problematic in this regard. 
+
+<br> 
+
+<https://daringfireball.net/2024/11/disambiguating_iphone_model_names_that_have_the_s_suffix>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-12, from: Dave Winer's Scripting News)
+
+Update: My guess is that they haven't released enough code to run a Bluesky of your own, because all the answers from people who say they know say the same thing -- "It doesn't work that way." You <i>could</i> write your own, but if we were to do that, why use their one-off API, use a standard instead, and we might have a chance to interop with other systems in a meaningful way. I don't blame them for wanting to cash out, but I do blame them for conning people into believing it's some kind of escape. Until I hear otherwise Bluesky is a dead-end, not worth investing your hope in. If you're migrating from Twitter this is no better. Keep looking. But I promise to let you know if I get any info that changes my opinion, so if I've got it wrong, people from Bluesky, just answer the freaking question in the post at the top of this page. Thanks. 
+
+<br> 
+
+<http://scripting.com/2024/11/12.html#a224124>
 
 ---
 
@@ -18,6 +246,31 @@ date: 2024-11-12, updated: 2024-11-12, from: Jason Kittke's blog
 <br> 
 
 <https://kottke.org/24/11/single-line-mazes>
+
+---
+
+## M4 Mac mini's efficiency is incredible
+
+date: 2024-11-12, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">M4 Mac mini's efficiency is incredible</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>I had to pause some of my work getting <a href="https://github.com/geerlingguy/raspberry-pi-pcie-devices/issues/680">a current-gen AMD graphics card running on the Pi 5</a> and <a href="https://github.com/geerlingguy/sbc-reviews/issues/52">testing a 192-core AmpereOne server</a> to quickly post on the M4's efficiency.</p>
+
+<p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/m4-mac-mini-on-desk.jpg" alt="M4 Mac mini on desk"></p>
+
+<p>I expected M4 to be better than M1/M2 (I haven't personally tested M3), and I hoped it would at least match the previous total-system-power efficiency king, a tiny arm SBC with an RK3588 SoC... but I didn't expect it to jump forward <em>32%</em>. Efficiency gains on the Arm systems I test typically look like 2-5% year over year.</p>
+
+<p>The M4 mini I just bought reaches <strong>6.74 Gflops/W</strong> on the HPL benchmark.</p>
+
+<p>I can get 283 Gflops at 42W, versus 264 at 66W on my M1 Max Mac Studio (for a round 4.00 Gflops/W).</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-11-12T15:44:07-06:00" title="Tuesday, November 12, 2024 - 15:44" class="datetime">November 12, 2024</time>
+</span> 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2024/m4-mac-minis-efficiency-incredible>
 
 ---
 
@@ -85,7 +338,7 @@ date: 2024-11-12, updated: 2024-11-12, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2024-11-12, from: Dave Winer's Scripting News)
 
-If Bluesky is open source, which it <a href="https://chatgpt.com/share/673392ed-4e24-8012-8241-b4d3118d49d8">appears to be</a>, someone who has time and has experience packaging products, should create a Bluesky distribution for a few popular hosting services, so installing a new instance is as simple as it can possibly be. One click? That would be awesome. We need to have <i>thousands</i> of these running. If it really is like the web, as they say it is, then it should be like the web in every way. There are lots of websites. If you sell your website to a billionaire, that has no effect on my website. Right now we are totally vulnerable to the Bluesky folk selling their service to another country, or <i>our</i> country for that matter -- or a billionaire, or whoever. Whoever did this packaging job would deserve the Nobel Peace Prize. Anticipating the objection that Mastodon is already doing this -- it is not. Setting up and using a Mastodon instance is good for nerds. Not for poets. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/11/30/goodhumortruck.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">If Bluesky is open source, which it <a href="https://chatgpt.com/share/673392ed-4e24-8012-8241-b4d3118d49d8">appears to be</a>, someone who has time and has experience packaging products, should create a Bluesky distribution for a few popular hosting services (Digital Ocean, AWS, Google Cloud), so installing a new instance is as simple as it can possibly be. One click? That would be awesome. We need to have <i>thousands</i> of these running. If it really is like the web, as they say it is, then it should be like the web in every way. There are lots of websites. If you sell your website to a billionaire, that has no effect on my website. Right now we are totally vulnerable to the Bluesky folk selling their service to another country, or <i>our</i> country for that matter -- or a billionaire, or whoever. Whoever did this packaging job would deserve the Nobel Peace Prize. Anticipating the objection that Mastodon is already doing this -- it is not. Setting up and using a Mastodon instance is good for nerds. Not for poets. 
 
 <br> 
 
@@ -250,11 +503,25 @@ date: 2024-11-12, updated: 2024-11-12, from: Bruce Schneier blog
 
 <p>I&#8217;ve been writing about the problem with lawful-access backdoors in encryption for decades now: that as soon as you create a mechanism for law enforcement to bypass encryption, the bad guys will use it too.</p>
 <p>Turns out the same thing <a href="https://techcrunch.com/2024/11/08/fbi-says-hackers-are-sending-fraudulent-police-data-requests-to-tech-giants-to-steal-peoples-private-information/">is true</a> for non-technical backdoors:</p>
-<blockquote><p>The advisory said that the cybercriminals were successful in masquerading as law enforcement by using compromised police accounts to send emails to companies requesting user data. In some cases, the requests cited false threats, like claims of human trafficking and, in one case, that an individual would &#8220;suffer greatly or die&#8221; unless the company in question returns the requested information...</p></blockquote> 
+<blockquote>
+<p>The advisory said that the cybercriminals were successful in masquerading as law enforcement by using compromised police accounts to send emails to companies requesting user data. In some cases, the requests cited false threats, like claims of human trafficking and, in one case, that an individual would &#8220;suffer greatly or die&#8221; unless the company in question returns the requested information...</p>
+</blockquote>
+<p>The post <a href="https://www.schneier.com/blog/archives/2024/11/criminals-exploiting-fbi-emergency-data-requests.html">Criminals Exploiting FBI Emergency Data Requests</a> appeared first on <a href="https://www.schneier.com">Schneier on Security</a>.</p>
+ 
 
 <br> 
 
 <https://www.schneier.com/blog/archives/2024/11/criminals-exploiting-fbi-emergency-data-requests.html>
+
+---
+
+**@Jessica Smith's blog** (date: 2024-11-12, from: Jessica Smith's blog)
+
+<p>Finally succumbed to temptation and signed up to Bluesky. I&rsquo;m using my domain name as my handle there, i.e. <a href="https://bsky.app/profile/jayeless.net">@jayeless.net<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a>. I don&rsquo;t really anticipate it replacing Mastodon as my go-to social media given that all posts there are public and it seems more&hellip; broadcast-y&hellip; than the Fediverse, but I figured there&rsquo;s no harm using it <em>in addition</em>, to follow people with common interests and crosspost stuff I don&rsquo;t mind being public 😅 I know a bunch of you already have accounts there, so feel free to follow me, and/or tell me your handles there so I can follow you!</p> 
+
+<br> 
+
+<https://www.jayeless.net/2024/11/joined-bluesky.html>
 
 ---
 

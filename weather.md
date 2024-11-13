@@ -1,23 +1,211 @@
 ---
 title: weather
-updated: 2024-11-12 14:00:24
+updated: 2024-11-13 07:16:33
 ---
 
 # weather
 
-(date: 2024-11-12 14:00:24)
+(date: 2024-11-13 07:16:33)
+
+---
+
+## SPC - No watches are valid as of Wed Nov 13 15:03:02 UTC 2024
+
+date: 2024-11-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Wed Nov 13 15:03:02 UTC 2024. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Wed Nov 13 15:03:02 UTC 2024
+
+date: 2024-11-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Wed Nov 13 15:03:02 UTC 2024. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Nov 13, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-11-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0658 AM CST Wed Nov 13 2024
+
+Valid 131300Z - 141200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+THE LOWER MISSISSIPPI VALLEY AND COASTAL PACIFIC NORTHWEST...
+
+...SUMMARY...
+A few strong to severe thunderstorms may occur today across the
+lower Mississippi Valley, posing a risk for isolated severe gusts
+and perhaps a tornado or two. Occasional severe winds may also
+develop along parts of the coastal Pacific Northwest.
+
+...Lower Mississippi Valley...
+Rich low-level moisture will continue to stream northward today
+across parts of the lower MS Valley into the Mid-South as an upper
+trough over the Plains continues eastward towards the OH Valley.
+Primary surface low and better forcing associated with this upper
+trough are forecast to remain well north of the inland-advancing
+warm sector. Even so, scattered surface-based thunderstorms should
+develop by this afternoon as a remnant/weak surface low off the LA
+Coast moves slowly inland. Filtered daytime heating of the moist
+low-level airmass should result in modest instability developing by
+this afternoon, even though mid-level lapse rates will remain poor
+(see 12Z JAN/LIX soundings). Low-level southerly flow will not be
+overly strong across the lower MS Valley, but gradual veering and
+strengthening of winds with height through mid levels should support
+sufficient deep-layer shear for modest updraft organization.
+
+A few marginal supercells/clusters may pose an isolated threat for
+strong to damaging winds as they spread eastward across LA/MS this
+afternoon and evening. Enough low-level shear should also be present
+to foster some updraft rotation and the threat for a tornado or two,
+with an isolated severe threat potentially continuing into tonight
+across parts of southwest AL and vicinity. The warm sector will
+become increasingly pinched off with northward extent in MS and
+western TN, with convection generally expected to outpace the
+low-level moisture return. Given the expected mismatch of stronger
+forcing/shear farther north and better instability to the south,
+have opted to maintain the Marginal Risk this update, with some
+expansion based on latest guidance trends.
+
+...Coastal Pacific Northwest...
+Cold mid-level temperatures (around -24 to -26C at 500 mb) and
+modestly steepened mid-level lapse rates associated with an
+eastward-moving upper trough will help support weak instability
+today across parts of the coastal Pacific Northwest (reference 12Z
+UIL sounding). Persistent large-scale ascent across this region will
+support both low-topped cells and bands of convection moving
+eastward through this afternoon and early evening. Given the
+forecast strength of the low-level winds, some of this activity may
+occasionally produce strong to severe wind gusts, and perhaps small
+hail. Tornado potential remains unclear, as low-level flow will have
+a tendency to veer more to southwesterly through the day, which
+should limit 0-1 km SRH.
+
+..Gleason/Bentley.. 11/13/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 
 ---
 
 ## There are no tropical cyclones at this time.
 
-date: 2024-11-12, from: Eastern Pacific Basin GIS Data
+date: 2024-11-13, from: Eastern Pacific Basin GIS Data
 
-No tropical cyclones as of Tue, 12 Nov 2024 21:43:05 GMT 
+No tropical cyclones as of Wed, 13 Nov 2024 12:37:46 GMT 
 
 <br> 
 
 <https://www.nhc.noaa.gov/gis/>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2024-11-13, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL <br>TTAA00 KNHC DDHHMM CCA<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>700 AM EST Wed Nov 13 2024<br><br>Corrected to add information about High Seas Forecasts and Gale <br>warnings.<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>1. Central and Western Caribbean Sea (AL99):<br>A broad area of low pressure over the central Caribbean Sea <br>continues to produce a large area of showers and thunderstorms.  <br>Environmental conditions are conducive for development, and a <br>tropical depression is likely to form within the next couple of days <br>while the system moves slowly westward into the western Caribbean <br>Sea.  Afterward, further development is likely while the disturbance <br>meanders over the western Caribbean Sea through the weekend.  The <br>system is expected to turn slowly northwestward by early next week. <br>Interests across the western and northwestern Caribbean Sea should <br>monitor the progress of this system.  Regardless of development, <br>heavy rains are expected over Jamaica during the next day or so. For <br>more information on this system, including gale warnings, see High <br>Seas Forecasts issued by the National Weather Service. An Air Force <br>Hurricane Hunter aircraft is scheduled to investigate this system <br>later today.<br>* Formation chance through 48 hours...high...90 percent.<br>* Formation chance through 7 days...high...90 percent.<br><br />
+<br>High Seas Forecasts issued by the National Weather Service<br>can be found under AWIPS header NFDHSFAT1, WMO header FZNT01 <br>KWBC, and online at ocean.weather.gov/shtml/NFDHSFAT1.php<br><br>Forecaster Kelly<br></div></div><br />
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## Central North Pacific Tropical Weather Outlook
+
+date: 2024-11-13, from: Central Pacific Basin Tropical Cyclones
+
+
+<br/>
+000<br/>
+ACPN50 PHFO 131136<br/>
+TWOCP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS Central Pacific Hurricane Center Honolulu HI<br/>
+200 AM HST Wed Nov 13 2024<br/>
+<br/>
+For the central North Pacific...between 140W and 180W:<br/>
+<br/>
+No tropical cyclones are expected during the next 7 days.<br/>
+<br/>
+$$<br/>
+Forecaster Bohlin<br/>
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## There are no tropical cyclones at this time.
+
+date: 2024-11-13, from: Central Pacific Basin Tropical Cyclones
+
+No tropical cyclones as of Wed, 13 Nov 2024 12:37:46 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/>
+
+---
+
+## Eastern North Pacific Tropical Weather Outlook
+
+date: 2024-11-13, from: Eastern Pacific Basin Tropical Cyclones
+
+
+<br/>
+000<br/>
+ABPZ20 KNHC 131126<br/>
+TWOEP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+400 AM PST Wed Nov 13 2024<br/>
+<br/>
+For the eastern North Pacific...east of 140 degrees west longitude:<br/>
+<br/>
+Tropical cyclone formation is not expected during the next 7 days.<br/>
+<br/>
+$$<br/>
+Forecaster Kelly<br/>
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
 
 ---
 
@@ -79,30 +267,6 @@ extended outlooks.
 <br> 
 
 <https://www.spc.noaa.gov/products/exper/fire_wx/>
-
----
-
-## SPC - No watches are valid as of Tue Nov 12 21:42:01 UTC 2024
-
-date: 2024-11-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Tue Nov 12 21:42:01 UTC 2024. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Tue Nov 12 21:42:01 UTC 2024
-
-date: 2024-11-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Tue Nov 12 21:42:01 UTC 2024. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
 
 ---
 
@@ -290,95 +454,6 @@ a Critical area at this time.
 <br> 
 
 <https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2024-11-12, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>100 PM EST Tue Nov 12 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>1. Central and Western Caribbean Sea:<br>Disorganized showers and thunderstorms over the central Caribbean <br>Sea are associated with a broad area of low pressure.  <br>Environmental conditions appear conducive for development, and a <br>tropical depression is likely to form within the next two to three <br>days while the system moves slowly westward into the western <br>Caribbean Sea.  Afterward, further development is likely while the <br>disturbance meanders over the western Caribbean Sea through the <br>weekend.  The system is forecast begin moving slowly northwestward <br>by early next week.  Interests across the western and northwestern <br>Caribbean Sea should monitor the progress of this system.<br>* Formation chance through 48 hours...medium...60 percent.<br>* Formation chance through 7 days...high...90 percent.<br><br />
-<br>Forecaster Brown<br></div></div><br />
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
-
----
-
-## Eastern North Pacific Tropical Weather Outlook
-
-date: 2024-11-12, from: Eastern Pacific Basin Tropical Cyclones
-
-
-<br/>
-000<br/>
-ABPZ20 KNHC 121725<br/>
-TWOEP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS National Hurricane Center Miami FL<br/>
-1000 AM PST Tue Nov 12 2024<br/>
-<br/>
-For the eastern North Pacific...east of 140 degrees west longitude:<br/>
-<br/>
-Tropical cyclone formation is not expected during the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster Brown<br/>
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
-## Central North Pacific Tropical Weather Outlook
-
-date: 2024-11-12, from: Central Pacific Basin Tropical Cyclones
-
-
-<br/>
-000<br/>
-ACPN50 PHFO 121724<br/>
-TWOCP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS Central Pacific Hurricane Center Honolulu HI<br/>
-800 AM HST Tue Nov 12 2024<br/>
-<br/>
-For the central North Pacific...between 140W and 180W:<br/>
-<br/>
-No tropical cyclones are expected during the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster TS<br/>
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
-## There are no tropical cyclones at this time.
-
-date: 2024-11-12, from: Central Pacific Basin Tropical Cyclones
-
-No tropical cyclones as of Tue, 12 Nov 2024 21:43:05 GMT 
-
-<br> 
-
-<https://www.nhc.noaa.gov/>
 
 ---
 
@@ -594,52 +669,4 @@ cover this threat, given the potential for strong and gusty winds.
 <br> 
 
 <https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
-
----
-
-## SPC Nov 11, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-11-11, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0644 AM CST Mon Nov 11 2024
-
-Valid 111300Z - 121200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Severe thunderstorms appear unlikely through tonight.
-
-...Synopsis/Discussion...
-In mid/upper levels, troughing will cross the Great Lakes and West
-Coast regions this period, with a substantial synoptic-scale ridge
-in between, across the Great Plains.  The western trough will cross
-most of the Pacific Coast between 18-00Z today, then progress to
-near a line from GEG-BOI-ELY-PHX to Hermosillo, MX.  In the lengthy
-zone of strong large-scale ascent/cooling aloft that precedes the
-trough, isolated thunderstorms already have been noted offshore, and
-over the southwestern OR Coast.  This potential will spread inland
-today until the trough moves past at least marginally favorable
-low/middle-level moisture to support deep convection. 
-
-Elsewhere, thunder potential will be minimal, except for part of the
-central Gulf Coast from near the mouth of the Mississippi River to
-around PNS.  Isolated to widely scattered, episodic thunderstorms
-will be possible near an inverted trough and convergence zone in low
-levels, extending northeastward from the weakening, post-tropical
-remains of Rafael.  Though most of the convection will remain over
-the Gulf, isolated thunderstorms are possible in the outlook area.
-
-..Edwards/Bentley.. 11/11/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 

@@ -1,11 +1,49 @@
 ---
 title: libraries
-updated: 2024-11-12 14:00:25
+updated: 2024-11-13 07:16:34
 ---
 
 # libraries
 
-(date: 2024-11-12 14:00:25)
+(date: 2024-11-13 07:16:34)
+
+---
+
+## Guest Post – Driving Change in Ukrainian Scholarly Publishing: An Interview with Ganna Kharlamova
+
+date: 2024-11-13, from: Scholarly Kitchen
+
+<p>An interview with Ganna Kharlamova, who is working to changing the way scholarly communications and publishing are conducted in Ukraine.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/11/13/guest-post-driving-change-in-ukranian-scholarly-publishing-an-interview-with-ganna-kharlamova/">Guest Post – Driving Change in Ukrainian Scholarly Publishing: An Interview with Ganna Kharlamova</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2024/11/13/guest-post-driving-change-in-ukranian-scholarly-publishing-an-interview-with-ganna-kharlamova/>
+
+---
+
+## The Masqueraders, by Georgette Heyer
+
+date: 2024-11-13, from: Standard Ebooks, new releaases
+
+Two siblings, disguised as members of the opposite sex, navigate the intrigues of 18th-century London while falling in love with unsuspecting suitors. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/georgette-heyer/the-masqueraders>
+
+---
+
+## Learning-by-doing in Data Markets
+
+date: 2024-11-13, from: ETH Zurich, recently added
+
+Dubus, Antoine; Sand-Zantman, Wilfried 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/705153>
 
 ---
 

@@ -1,11 +1,287 @@
 ---
 title: science and technology
-updated: 2024-11-12 14:00:24
+updated: 2024-11-13 07:16:33
 ---
 
 # science and technology
 
-(date: 2024-11-12 14:00:24)
+(date: 2024-11-13 07:16:33)
+
+---
+
+## Ambitious overclocker cools Raspberry Pi 5 with liquid nitrogen
+
+date: 2024-11-13, updated: 2024-11-13, from: The Register (UK I.T. News)
+
+<h4>We do these things because we can and because we must</h4> <p>The dark arts of overclocking remain alive and well. And one master of the practice has turned their attention to the Raspberry Pi 5 with the intention of getting the diminutive computer all the way to 4 Ghz via various exotic and gloriously impractical means.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/13/raspberry_pi_4ghz/>
+
+---
+
+## quBSD: a Qubes-inspired containerization schema for FreeBSD
+
+date: 2024-11-13, from: OS News
+
+quBSD is a FreeBSD jails/bhyve wrapper which implements a Qubes inspired containerization schema. Written in shell, based on zfs, and uses the underlying FreeBSD tools. ↫ quBSD GitHub page quBSD really seems to build upon the best FreeBSD has to offer. Neat. 
+
+<br> 
+
+<https://www.osnews.com/story/141111/qubsd-a-qubes-inspired-containerization-schema-for-freebsd/>
+
+---
+
+## HPE goes Cray for Nvidia's Blackwell GPUs, crams 224 into a single cabinet
+
+date: 2024-11-13, updated: 2024-11-13, from: The Register (UK I.T. News)
+
+<h4>Meanwhile, HPE&#39;s new ProLiant servers offer choice of Gaudi, Hopper, or Instinct acceleration</h4> <p>If you thought Nvidia&#39;s 120 kW NVL72 racks were compute dense with 72 Blackwell accelerators, they have nothing on HPE Cray&#39;s latest EX systems, which will pack more than three times as many GPUs into a single cabinet.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/13/hpe_cray_ex/>
+
+---
+
+## AI's power trip will leave energy grids begging for mercy by 2027
+
+date: 2024-11-13, updated: 2024-11-13, from: The Register (UK I.T. News)
+
+<h4>Datacenter demand estimated to inflate by 160% over next two years</h4> <p>AI-driven datacenter energy demand could expand 160 percent over the next two years, leaving 40 percent of existing facilities operationally constrained by power availability from 2027.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/13/datacenter_energy_consumption/>
+
+---
+
+## Apple drops soldered storage for 2024 Mac Mini
+
+date: 2024-11-13, updated: 2024-11-13, from: The Register (UK I.T. News)
+
+<h4>iFixit teardown finds a removable SSD. Time to party like its 2010?</h4> <p><strong>Updated</strong>  The iFixit team has pulled apart Apple&#39;s new Mac Mini, revealing replaceable storage and a slightly more modular design - concessions to repairability that warrant an impressive provisional score.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/13/ifixit_mac_mini_teardown/>
+
+---
+
+## UK's Darpa clone faces tough test next spring as government considers future funding
+
+date: 2024-11-13, updated: 2024-11-13, from: The Register (UK I.T. News)
+
+<h4>With plant platforms and neural circuits on the program, Aria&#39;s leadership hope cross-party concensus continues</h4> <p>The UK&#39;s ambitious efforts to mimic the wild success of US research and security outfit DARPA has just a few months to prove its worth, a parliamentary committee heard yesterday.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/13/uks_darpa_clone_faces_tough/>
+
+---
+
+## UK government plays power broker with small modular reactor suitors
+
+date: 2024-11-13, updated: 2024-11-13, from: The Register (UK I.T. News)
+
+<h4>Four bidders chosen to submit tenders for SMR program</h4> <p>The UK government&#39;s nuclear energy agency has embarked on detailed negotiations with four shortlisted bidders to supply small modular reactors (SMRs) to bolster the country&#39;s power generation.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/13/uk_smr_tender/>
+
+---
+
+## Americans Fell in Love With Science When the Breathtaking Leonid Meteor Shower Lit Up the Skies Across the Nation
+
+date: 2024-11-13, from: Smithsonian Magazine
+
+In 1833, hundreds of thousands of shooting starts inspired songs, prophecies and a crowdsourced research paper on the origins of meteors 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/americans-fell-in-love-with-science-when-the-breathtaking-leonid-meteor-shower-lit-up-the-skies-across-nation-180985435/>
+
+---
+
+## Brit telcos to clash in high-speed mmWave spectrum showdown next year
+
+date: 2024-11-13, updated: 2024-11-13, from: The Register (UK I.T. News)
+
+<h4>Ofcom opens floodgates for turbocharged 5G in cities</h4> <p>Britain&#39;s mobile telcos will get to bid for mmWave spectrum to provide high-speed wireless services next year, according to Ofcom, which just published the final draft of the regulations governing the auction.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/13/ofcom_mmwave_spectrum_auction/>
+
+---
+
+## EU irate about geo-locked Apple IDs
+
+date: 2024-11-13, updated: 2024-11-13, from: The Register (UK I.T. News)
+
+<h4>Ever try to change your account&#39;s registered country? It&#39;s nigh impossible</h4> <p>The European Union has demanded more platform changes from Apple – this time accusing it of violating anti-geoblocking rules in several of its media services.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/13/eu_apple_id/>
+
+---
+
+## Sols 4362-4363: Plates and Polygons
+
+date: 2024-11-13, from: NASA breaking news
+
+Earth planning date: Monday, Nov. 11, 2024 After a successful 23-meter (about 75 feet) drive today in pre-planning we found ourselves in front of some rocks with a curious dark, platy topping. This is similar to material we have seen previously including over the weekend where MAHLI imaged “Buttress Tree.” This beautiful hand-lens image is […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4362-4363-plates-and-polygons/>
+
+---
+
+## The Next Full Moon Will Be the Last of Four Consecutive Supermoons
+
+date: 2024-11-13, from: NASA breaking news
+
+The Next Full Moon is a Supermoon; the Beaver, Frost, Frosty, or Snow Moon; Kartik Purnima; Loy Krathong; the Bon Om Touk (”Boat Racing Festival”) Moon, the Tazaungdaing Festival Moon; and Ill Poya. The next full Moon will be Friday afternoon, November 15, 2024, at 4:29 PM EST. This will be early Saturday morning from […] 
+
+<br> 
+
+<https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-will-be-the-last-of-four-consecutive-supermoons/>
+
+---
+
+## Southeast Asian nations revise semiconductor strategies as Trump's shadow looms
+
+date: 2024-11-13, updated: 2024-11-13, from: The Register (UK I.T. News)
+
+<h4>Korea wants to get rid of overtime cap while Japan splashes cash with vague funding</h4> <p><strong>Analysis</strong>  Multiple Southeast Asian nations – including South Korea, Japan, and Vietnam – have recently opened up on efforts to rework or amend their semiconductor strategies.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/13/southeast_asian_nations_amend_semiconductor/>
+
+---
+
+## Entrevista con Instructora de OCEANOS María Fernanda Barbarena-Arias
+
+date: 2024-11-13, from: NASA breaking news
+
+¿Cuál es tu nombre y tu rol en OCEANOS? Mi nombre es María Fernanda Barbarena-Arias. Soy una profesora asociada al Departamento de Ciencia Natural, específicamente Biología, en la Universidad Interamericana, en el Recinto Metropolitano. Para OCEANOS, soy una de las investigadoras. ¿Cuál es la importancia de un programa como OCEANOS, particularmente en Puerto Rico? OCEANOS [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/entrevista-con-instructora-de-oceanos-maria-fernanda-barbarena-arias/>
+
+---
+
+## Entrevista con Instructor de OCEANOS Roy Armstrong
+
+date: 2024-11-13, from: NASA breaking news
+
+¿Cuál es tu nombre y tu rol en OCEANOS? Mi nombre es Roy Armstrong y soy profesor del Colegio de Mayagüez en el Departamento de Ciencias Marinas y en Océanos. Yo soy el investigador principal local en la Universidad de Puerto Rico y la manera que me involucré en este proyecto fue por invitación de [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/entrevista-con-instructor-de-oceanos-roy-armstrong/>
+
+---
+
+## Entrevista con Instructor de OCEANOS Juan Torres-Pérez
+
+date: 2024-11-13, from: NASA breaking news
+
+¿Cuál es tu nombre y tu rol en OCEANOS? Mi nombre es Juan Torres Pérez. Yo soy un científico de la NASA del Centro de Investigación Ames en California particular la División de Ciencias Terrestres, la rama biofísica. Yo soy el investigador principal de OCEANOS. Océanos significa, en inglés, ‘Ocean Community Engagement and Awareness with [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/entrevista-con-instructor-de-oceanos-juan-torres-perez/>
+
+---
+
+## Admins can give thanks this November for dollops of Microsoft patches
+
+date: 2024-11-13, updated: 2024-11-13, from: The Register (UK I.T. News)
+
+<h4>Don&#39;t be a turkey – get these fixed</h4> <p><strong>Patch Tuesday</strong>  Patch Tuesday has swung around again, and Microsoft has released fixes for 89 CVE-listed security flaws in its products – including two under active attack – and reissued three more.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/13/november_patch_tuesday/>
+
+---
+
+## China's Volt Typhoon crew and its botnet surge back with a vengeance
+
+date: 2024-11-13, updated: 2024-11-13, from: The Register (UK I.T. News)
+
+<h4>Ohm, for flux sake</h4> <p>China&#39;s Volt Typhoon crew and its botnet are back, compromising old Cisco routers once again to break into critical infrastructure networks and kick off cyberattacks, according to security researchers.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/13/china_volt_typhoon_back/>
+
+---
+
+## Air National Guardsman gets 15 years after splashing classified docs on Discord
+
+date: 2024-11-13, updated: 2024-11-13, from: The Register (UK I.T. News)
+
+<h4>Jack Teixeira, 22, talked of &#39;culling the weak minded&#39; – hmm!</h4> <p>A former Air National Guard member who stole classified American military secrets, and showed them to his gaming buddies on Discord, has been sentenced to 15 years in prison.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/13/teixeira_prison_discord/>
+
+---
+
+## JPL Workforce Update
+
+date: 2024-11-12, from: NASA breaking news
+
+Workforce statement and memo to employees JPL statement issued on Nov. 12, 2024: While we have taken various measures to meet our current FY’25 budget allocation, we have reached the difficult decision to reduce the JPL workforce through layoffs. This reduction affects approximately 325 of our colleagues, an impact of about 5% of our workforce. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/jpl/jpl-workforce-update-2/>
+
+---
+
+## AWS opens cluster of 40K Trainium AI accelerators to researchers
+
+date: 2024-11-12, updated: 2024-11-12, from: The Register (UK I.T. News)
+
+<h4>Throwing novel hardware at academia. It&#39;s a tale as old as time</h4> <p>Amazon wants more people building applications and frameworks for its custom Trainium accelerators and is making up to 40,000 chips available to university researchers under a $110 million initiative announced on Tuesday.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/12/aws_trainium_researchers/>
+
+---
+
+## Oral History with R. Walter Cunningham
+
+date: 2024-11-12, from: NASA breaking news
+
+Selected for NASA’s third astronaut class in 1963, Cunningham served as the backup Lunar Module Pilot for Apollo 1. He piloted the 11-day flight of Apollo 7 in October 1968, the first manned flight test of the Apollo spacecraft. The crew executed maneuvers enabling them to practice for upcoming Apollo lunar orbit rendezvous missions and [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/oral-history-with-r-walter-cunningham/>
+
+---
+
+## Improving Steam Client stability on Linux: setenv and multithreaded environments
+
+date: 2024-11-12, from: OS News
+
+Speaking of Steam, the Linux version of Valve&#8217;s gaming platform has just received a pretty substantial set of fixes for crashes, and Timothee &#8220;TTimo&#8221; Besset, who works for Valve on Linux support, has published a blog post with more details about what kind of crashes they&#8217;ve been fixing. The&#160;Steam client update on November 5th&#160;mentions &#8220;Fixed some miscellaneous common crashes.&#8221; in the Linux notes, which I wanted to give a bit of background on. There&#8217;s more than one fix that made it in under the somewhat generic header, but the one change that made the most significant impact to Steam client stability on Linux has been a revamping of how we are approaching the&#160;setenv&#160;and&#160;getenv&#160;functions. One of my colleagues rightly dubbed&#160;setenv&#160;&#8220;the worst Linux API&#8221;. It&#8217;s such a simple, common API, available on all platforms that it was a little difficult to convince ourselves just how bad it is. I highly encourage anyone who writes software that will run on Linux at some point to&#160;read through &#8220;RachelByTheBay&#8221;&#8216;s very engaging post&#160;on the subject. ↫ Timothee &#8220;TTimo&#8221; Besset This indeed seems to be a specific Linux problem, and due to the variability in Linux systems &#8211; different distributions, extensive user customisation, and so on &#8211; debugging information was more difficult to parse than on Windows and macOS. After a lot of work grouping the debug information to try and make sense of it all, it turned out that the two functions in question were causing issues in threads other than those that used them. They had to resort to several solutions, from reducing the reliance setenv and refactoring it with exevpe, to reducing the reliance on getenv through caching, to introducing &#8220;an &#8216;environment manager&#8217; that pre-allocates large enough value buffers at startup for fixed environment variable names, before any threading has started&#8221;. It was especially this last one that had a major impact on reducing the number of crashes with Steam on Linux. Besset does note that these functions are still used far too often, but that at this point it&#8217;s out of their control because that usage comes from the libraries of the operating system, like x11, xcb, dbus, and so on. Besset also mentions that it would be much better if this issue can be addressed in glibc, and in the comments, a user by the name of Adhemerval reports that this is indeed something the glibc team is working on. 
+
+<br> 
+
+<https://www.osnews.com/story/141109/improving-steam-client-stability-on-linux-setenv-and-multithreaded-environments/>
 
 ---
 
@@ -371,9 +647,9 @@ date: 2024-11-12, updated: 2024-11-12, from: The Register (UK I.T. News)
 
 ## Fujitsu does not trust Post Office in use of Horizon data in future third-party prosecutions
 
-date: 2024-11-12, updated: 2024-11-12, from: The Register (UK I.T. News)
+date: 2024-11-12, updated: 2024-11-13, from: The Register (UK I.T. News)
 
-<h4>Europe boss also speaks of &#39;nervousness&#39; in any extension to the use of the controversial, ageing system</h4> <p>Fujitsu&#39;s Europe boss has told a public inquiry into the Post Office scandal — one of the widest miscarriages of justice in UK history — that the company does not trust the UK public body in its use of Horizon system data to support future police prosecutions.…</p> 
+<h4>Europe boss also speaks of &#39;nervousness&#39; in any extension to the use of the controversial, aging system</h4> <p>Fujitsu&#39;s Europe boss has told a public inquiry into the Post Office scandal — one of the widest miscarriages of justice in UK history — that the company does not trust the UK public body in its use of Horizon system data to support future police prosecutions.…</p> 
 
 <br> 
 
@@ -575,7 +851,7 @@ date: 2024-11-11, updated: 2024-11-11, from: The Register (UK I.T. News)
 
 ## A sit-down with Ubuntu founder Mark 'SABDFL' Shuttleworth
 
-date: 2024-11-11, updated: 2024-11-11, from: The Register (UK I.T. News)
+date: 2024-11-11, updated: 2024-11-13, from: The Register (UK I.T. News)
 
 <h4>Talking to the distro&#39;s self-appointed benevolent dictator for life about 20 years of Ubuntu</h4> <p><strong>Ubuntu Summit 2024</strong>  Canonical founder and CEO Mark Shuttleworth spoke to <em>The Reg</em> FOSS desk at Ubuntu Summit 2024 in The Hague about the Linux distribution&#39;s success, its missteps, his regrets, and what he&#39;d tell his younger self.…</p> 
 
@@ -587,7 +863,7 @@ date: 2024-11-11, updated: 2024-11-11, from: The Register (UK I.T. News)
 
 ## Australia tells tots: No TikTok till you're 16... or X, Instagram and Facebook
 
-date: 2024-11-11, updated: 2024-11-11, from: The Register (UK I.T. News)
+date: 2024-11-11, updated: 2024-11-12, from: The Register (UK I.T. News)
 
 <h4>Tech companies, not users, to be punished for violations of social media time-out</h4> <p>The Australian government has confirmed it will create legislation that bans access to social media for people under the age of 16.…</p> 
 

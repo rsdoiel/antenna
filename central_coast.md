@@ -1,11 +1,113 @@
 ---
 title: central coast
-updated: 2024-11-12 14:00:24
+updated: 2024-11-13 07:16:33
 ---
 
 # central coast
 
-(date: 2024-11-12 14:00:24)
+(date: 2024-11-13 07:16:33)
+
+---
+
+## Thar She Blows!
+
+date: 2024-11-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100324-POD-Joyce-Axilrod.jpeg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Whale watching in the Santa Barbara Channel." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100324-POD-Joyce-Axilrod.jpeg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100324-POD-Joyce-Axilrod.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100324-POD-Joyce-Axilrod.jpeg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100324-POD-Joyce-Axilrod.jpeg?resize=768%2C511&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100324-POD-Joyce-Axilrod.jpeg?resize=1536%2C1022&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100324-POD-Joyce-Axilrod.jpeg?resize=2048%2C1363&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100324-POD-Joyce-Axilrod.jpeg?resize=1200%2C799&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100324-POD-Joyce-Axilrod.jpeg?resize=1568%2C1044&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100324-POD-Joyce-Axilrod.jpeg?resize=2000%2C1331&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100324-POD-Joyce-Axilrod.jpeg?resize=400%2C266&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100324-POD-Joyce-Axilrod.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100324-POD-Joyce-Axilrod.jpeg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/thar-she-blows/">Thar She Blows!</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/thar-she-blows/>
+
+---
+
+## Santa Barbara Council OKs $96 Million Contract for New Police Station
+
+date: 2024-11-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111224-Police-Station-Kelly-Gordon-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Santa Barbara Police Chief Kelly Gordon says it was a historic moment for the City Council to approve construction of a new police headquarters." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111224-Police-Station-Kelly-Gordon-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111224-Police-Station-Kelly-Gordon-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111224-Police-Station-Kelly-Gordon-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111224-Police-Station-Kelly-Gordon-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111224-Police-Station-Kelly-Gordon-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111224-Police-Station-Kelly-Gordon-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111224-Police-Station-Kelly-Gordon-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111224-Police-Station-Kelly-Gordon-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111224-Police-Station-Kelly-Gordon-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>It&#8217;s happening. After decades of dreams, the Santa Barbara City Council voted 5-0 on Tuesday to approve a $96 million contract to build a new police station at the corner [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-council-approves-96-million-contract-for-new-police-station/">Santa Barbara Council OKs $96 Million Contract for New Police Station</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/santa-barbara-council-approves-96-million-contract-for-new-police-station/>
+
+---
+
+## Dos Pueblos Students Make Their Voices Heard During Walkout
+
+date: 2024-11-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111224-DPHS-Walkout-DG-01.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Isabel Vasquez, left, and Kassandra Chacon lead a parade of Dos Pueblos High School students to Evergreen Park in Goleta. The students walked out to express support for reproductive rights, immigration and other causes." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111224-DPHS-Walkout-DG-01.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111224-DPHS-Walkout-DG-01.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111224-DPHS-Walkout-DG-01.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111224-DPHS-Walkout-DG-01.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111224-DPHS-Walkout-DG-01.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111224-DPHS-Walkout-DG-01.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111224-DPHS-Walkout-DG-01.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111224-DPHS-Walkout-DG-01.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111224-DPHS-Walkout-DG-01.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Even though they can&#8217;t vote, they want to be heard. Students from Dos Pueblos High School held a walkout on Tuesday to bring attention to the voices of young people [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/dos-pueblos-students-make-their-voices-heard-during-walkout/">Dos Pueblos Students Make Their Voices Heard During Walkout</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/dos-pueblos-students-make-their-voices-heard-during-walkout/>
+
+---
+
+## SpaceX Rocket Set to Launch More Starlink Satellites From Vandenberg SFB
+
+date: 2024-11-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A SpaceX rocket is scheduled to launch 20 more Starlink satellites into orbit from Vandenberg Space Force Base, five days after a similar mission. Liftoff of the two-stage rocket will [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/spacex-rocket-set-to-launch-more-starlink-satellites-from-vandenberg-2/">SpaceX Rocket Set to Launch More Starlink Satellites From Vandenberg SFB</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/spacex-rocket-set-to-launch-more-starlink-satellites-from-vandenberg-2/>
+
+---
+
+## 4160 La Ladera Road, SANTA BARBARA, CA 93110
+
+date: 2024-11-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4160-La-Ladera-Road.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="4160 La Ladera Road, SANTA BARBARA, CA 93110" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4160-La-Ladera-Road.jpg?w=2400&amp;ssl=1 2400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4160-La-Ladera-Road.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4160-La-Ladera-Road.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4160-La-Ladera-Road.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4160-La-Ladera-Road.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4160-La-Ladera-Road.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4160-La-Ladera-Road.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4160-La-Ladera-Road.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4160-La-Ladera-Road.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4160-La-Ladera-Road.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4160-La-Ladera-Road.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4160-La-Ladera-Road.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Offered At $24,500,000</p>
+<p>The post <a href="https://www.noozhawk.com/4160-la-ladera-road-santa-barbara-ca-93110/">4160 La Ladera Road, SANTA BARBARA, CA 93110</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/4160-la-ladera-road-santa-barbara-ca-93110/>
+
+---
+
+## 4508 Carriage Hill Drive, SANTA BARBARA, CA 93110
+
+date: 2024-11-12, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4508-Carriage-Hill.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Mackenzie Robitaille Attachments 1:37 PM (2 hours ago) to Jasmin Hi Jasmin, Happy Tuesday. Please see our listings below. 4508 Carriage Hill Drive, SANTA BARBARA, CA 93110" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4508-Carriage-Hill.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4508-Carriage-Hill.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4508-Carriage-Hill.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4508-Carriage-Hill.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4508-Carriage-Hill.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/4508-Carriage-Hill.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Nestled in a serene community with meticulously manicured landscaping, this cherished 3 bedroom, 2 bath single level home offers peaceful, secluded living. Enter through a contemporary brick courtyard designed by [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/4508-carriage-hill-drive-santa-barbara-ca-93110/">4508 Carriage Hill Drive, SANTA BARBARA, CA 93110</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/4508-carriage-hill-drive-santa-barbara-ca-93110/>
+
+---
+
+## Lompoc Man Arrested After Shooting in Buellton
+
+date: 2024-11-12, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A Lompoc man has been arrested on suspicion of attempted murder following a shooting in Buellton Friday night. Shortly before 9 p.m. Friday, Santa Barbara County sheriff’s deputies responded to [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/lompoc-man-arrested-after-shooting-in-buellton/">Lompoc Man Arrested After Shooting in Buellton</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/lompoc-man-arrested-after-shooting-in-buellton/>
 
 ---
 

@@ -1,11 +1,169 @@
 ---
 title: journalism
-updated: 2024-11-12 14:00:25
+updated: 2024-11-13 07:16:34
 ---
 
 # journalism
 
-(date: 2024-11-12 14:00:25)
+(date: 2024-11-13 07:16:34)
+
+---
+
+## Students, industry leaders discuss AI at Tech + Society Conference 2024
+
+date: 2024-11-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA students and leaders interested in engineering, education and governance discussed future artificial intelligence solutions Oct. 25. 
+The Tech + Society Conference 2024, titled &#8220;AI: Transforming the Future,&#8221; was held by the Easton Technology Management Center at the UCLA Anderson School of Management. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/13/students-industry-leaders-discuss-ai-at-tech-society-conference-2024/>
+
+---
+
+## Students share stories, celebrate Latino culture in Día de los Muertos festivities
+
+date: 2024-11-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+As candles illuminated the D&#237;a de los Muertos altar, students, alumni and faculty gathered to exchange eerie stories and spooky legends.
+Spooky Stories in the Dark, an event hosted by the UCLA Latino Alumni Association, UCLA Black Alumni Association, Academic Advancement Program Alumni Network, Mixed Alumni Association, American Indian Alumni of UCLA, Undocumented Alumni Association of UCLA and Transfer Student Alumni Network, united Bruins for a Halloween and D&#237;a de los Muertos celebration Nov. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/13/students-share-stories-celebrate-latino-culture-in-da-de-los-muertos-festivities/>
+
+---
+
+## USG passes bills to outline speaker of the senate removal
+
+date: 2024-11-13, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Speaker of the senate Diana Carpio said the new process does not intimidate her.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/13/usg-passes-bills-to-outline-speaker-of-the-senate-removal/">USG passes bills to outline speaker of the senate removal</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/13/usg-passes-bills-to-outline-speaker-of-the-senate-removal/>
+
+---
+
+## Classifieds – November 13, 2024
+
+date: 2024-11-13, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/13/classifieds-november-13-2024/">Classifieds &#8211; November 13, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/13/classifieds-november-13-2024/>
+
+---
+
+## USC professor earns third Latin Grammy nomination
+
+date: 2024-11-13, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Juan-Pablo Contreras was nominated for best classical contemporary composition.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/13/usc-professor-earns-third-latin-grammy-nomination/">USC professor earns third Latin Grammy nomination</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/13/usc-professor-earns-third-latin-grammy-nomination/>
+
+---
+
+## University plans to cut employee benefits
+
+date: 2024-11-13, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The reductions ranged from fewer days off  to healthcare and staff tuition  assistance.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/13/university-plans-to-cut-employee-benefits/">University plans to cut employee benefits</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/13/university-plans-to-cut-employee-benefits/>
+
+---
+
+## Folt leaves behind complicated legacy
+
+date: 2024-11-13, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Notable moments from her tenure include COVID-19 and student encampments.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/13/folt-leaves-behind-complicated-legacy/">Folt leaves behind complicated legacy</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/13/folt-leaves-behind-complicated-legacy/>
+
+---
+
+## Buckle, strap or lace up
+
+date: 2024-11-13, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Winter is here, and so is your style guide. </p>
+<p>The post <a href="https://dailytrojan.com/2024/11/13/buckle-strap-or-lace-up/">Buckle, strap or lace up</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/13/buckle-strap-or-lace-up/>
+
+---
+
+## Winner Takes All: Examining Tyler, The Creator’s genre-blending discography for his greatest album
+
+date: 2024-11-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+Editor&#8217;s note: This article contains a mention of violence.
+It has been more than two weeks since Tyler, The Creator released his seventh studio album, “CHROMAKOPIA,” but the dynamic artist has been releasing unforgettable music for more than a decade. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/12/winner-takes-all-examining-tyler-the-creators-genre-blending-discography-for-his-greatest-album/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-13, from: The Daily Bruin (UCLA Student Newspaper))
+
+Jury selection for the trial concluded today at 3:30 p.m. with three alternate jurors selected. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/12/473665/>
+
+---
+
+## Two UCLA alumni to showcase thesis films at LA children’s film festival event
+
+date: 2024-11-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Nov. 12 at 8:48 p.m.</em>
+Whether it&#8217;s the heartwarming story of two young sisters or the tale of a pirate who falls in love with the moon, UCLA alumni are making their artistic voices heard at an upcoming screening. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/12/two-ucla-alumni-to-showcase-thesis-films-at-la-childrens-film-festival-event/>
+
+---
+
+## Sparking! Zero Review: What-If stories with explosive fights and challenges
+
+date: 2024-11-12, from: The Sundail (CSUN Student Newspaper)
+
+Dragon Ball Sparking! Zero is the newest addition to the long line of Dragon Ball fighting games. From signature techniques, transformations and the addition of over 180 characters, Sparking! Zero... 
+
+<br> 
+
+<https://sundial.csun.edu/187508/arts-entertainment/sparking-zero-review-what-if-stories-with-explosive-fights-and-challenges/>
 
 ---
 

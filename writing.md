@@ -1,11 +1,129 @@
 ---
 title: writing
-updated: 2024-11-12 14:00:25
+updated: 2024-11-13 07:16:34
 ---
 
 # writing
 
-(date: 2024-11-12 14:00:25)
+(date: 2024-11-13 07:16:34)
+
+---
+
+## How to Write First Lines in Novels that Grab Readers
+
+date: 2024-11-13, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/how-to-write-first-lines-in-novels-that-grab-readers>
+
+---
+
+## Scriptnotes, Episode 656: Halogencore, Transcript
+
+date: 2024-11-13, from: John August blog
+
+The original post for this episode can be found here. John August: Hey, this is John. Heads up that today’s episode has just a little bit of swearing in it. Hello and welcome. My name is John August. You’re listening to episode 656 of Scriptnotes, a podcast about screenwriting and things that are interesting to [&#8230;]
+The post <a href="https://johnaugust.com/2024/scriptnotes-episode-656-halogencore-transcript">Scriptnotes, Episode 656: Halogencore, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2024/scriptnotes-episode-656-halogencore-transcript>
+
+---
+
+## Harvey Wins 2024 Booker Prize
+
+date: 2024-11-12, from: Locus Magazine
+
+<p><strong>Orbital</strong> by Samantha Harvey (Jonathan Cape; Grove Atlantic US) is the winner of the 2024 Man Booker Prize. It depicts the lives of astronauts, and is &#8220;the first Booker Prize-winning book set in space.&#8221;</p>
+<p>This year&#8217;s shortlist also included <strong>James </strong>by Percival Everett (Mantle;Doubleday US).</p>
+<div class="mynomorebulletlist">
+<p>The £50,000 prize is &#8220;open to works by writers of any nationality, written in English and published in the UK or Ireland.&#8221; This year&#8217;s judges </p></div> <a href="https://locusmag.com/2024/11/harvey-wins-2024-booker-prize/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2024/11/harvey-wins-2024-booker-prize/>
+
+---
+
+## 2024 Prix ActuSF de l’Uchronie Winners
+
+date: 2024-11-12, from: Locus Magazine
+
+<p>ActuSF has announced the winners for the 2024 Prix de l&#8217;Uchronie. The prize is awarded to works of alternate history, written or translated into French and published between September 1, 2022 and June 30, 2023.</p>
+<p><strong>Prix Littéraire</strong></p>
+<div class="nobullets">
+<ul>
+<li>WINNER: <strong>Noblesse oblige,</strong> Maiwenn Alix (Slalom)</li>
+</ul>
+<ul>
+<li><strong>L’Affaire Crystal Singer</strong> [Singer Distance], Ethan Chatagnier, translated by Michelle Charrier (Albin Michel Imaginaire)</li>
+<li><strong>Le Huitième Registre 1. Le Silène assassiné</strong>, Alain Bergeron (Alire)</li>
+<li><strong>Protectorats, </strong>Ray </li></ul></div> <a href="https://locusmag.com/2024/11/2024-prix-actusf-de-luchronie-winners/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2024/11/2024-prix-actusf-de-luchronie-winners/>
+
+---
+
+## New Books, 12 November 2024
+
+date: 2024-11-12, from: Locus Magazine
+
+<p>Bacon, Eugen &#38; Editor), Abimbola Adelakun (Series, ed.: <b>Afro-Centered Futurisms in Our Speculative Fiction</b>
+(Bloomsbury Academic 9798765114674, $29.95, 256pp, formats: trade paperback, hardcover, ebook, 11/14/2024)</p>
+<p>Non-fiction anthology, a selection of original essays. Introduction by Suyi Davies Okungbowa. Authors including Dilman Dila, Nerine Dorman, Nuzo Onoh, Shingai Njeri Kagunda, Suyi Okungbowa, Tobi Ogundiran and Xan van Rooyen – offer boldly hybrid chapters (both creative and scholarly) that interface Afrocentric artefacts and  <a href="https://locusmag.com/2024/11/new-books-12-november-2024/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/11/new-books-12-november-2024/>
+
+---
+
+## Write On: 'Three Women' Creator Lisa Taddeo
+
+date: 2024-11-12, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-three-women-creator-lina-taddeo" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Three%20Women%20Creator%20Lisa%20Taddeo.jpg" alt="Write On: 'Three Women' Creator Lina Taddeo" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<div>
+  “One of the things that I really wanted to focus on, and I felt it immediately after meeting Lina the housewife in Indiana [played by Betty Gilpin in the show], whose husband no longer wanted to kiss her on the mouth, I felt like this woman was as important as the Queen of England, as important as Napoleon. I felt her dreams and fears are just as universal as someone who has defeated an army and the only reason we’re not hearing about her is because we have these sorts of rules in place for what possesses historical significance. And I don’t really think that that’s necessarily true,” says Lisa Taddeo, author of the book 
+ <em>Three Women</em>, on which her new TV show is based.&nbsp; 
+ <br> 
+ <br>In today’s episode, we speak to Lisa Taddeo, creator of the show 
+ <em>Three Women</em> that stars Shailene Woodley, Betty Gilpin, DeWanda Wise and Gabrielle Creevy as “ordinary” women searching for their sexual identity and fulfillment in disparate and surprising ways. The show is an intimate, often stark portrayal of forbidden female desire and the consequences of that desire – both good and bad.&nbsp; 
+ <br> 
+ <br>We also talk about writing the “female gaze” into the scripts, filming with prosthetic penises, the power the book 
+ <em>Twilight</em> has on teenage girls, and the uncanny way our mothers influence our own sexuality.&nbsp; 
+ <br> 
+ <br>“My mother made up her face every morning, even when she wasn’t going to leave the house. Who is she? My father sees her before she puts on her face as they say, so it’s not for him. Nobody is coming to the door today, so it’s not for them. It’s certainly not for me, because I see her without makeup when she washes it off at night. So, who is it for, you know? And that was a question I had but didn’t really know how to frame,” Taddeo says.&nbsp; 
+ <br> 
+ <br>To hear more about the groundbreaking show 
+ <em>Three Women</em> that’s airing on Starz, listen to the podcast.&nbsp; 
+ <br> 
+ <br> 
+ <em>Trigger warning: contains mentions of sexual explicit material, sexual assault and trauma.</em> 
+</div> 
+<div> 
+ <br> 
+ <div> 
+  <div class="hs-embed-wrapper" style="position: relative; overflow: hidden; width: 100%; height: auto; padding: 0; max-width: 880px; min-width: 256px; display: block; margin: auto;"> 
+   <div class="hs-embed-content-wrapper"> 
+    <div style="position: relative; overflow: hidden; max-width: 100%; padding-bottom: 35%; margin: 0px;">  
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</div> 
+
+<br> 
+
+<https://blog.finaldraft.com/write-on-three-women-creator-lina-taddeo>
 
 ---
 

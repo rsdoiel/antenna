@@ -1,11 +1,348 @@
 ---
 title: pacific
-updated: 2024-11-12 14:00:23
+updated: 2024-11-13 07:16:32
 ---
 
 # pacific
 
-(date: 2024-11-12 14:00:23)
+(date: 2024-11-13 07:16:32)
+
+---
+
+## Hawaii Police Department rolls out new website
+
+date: 2024-11-13, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Police Department on Tuesday launched its newly redesigned website at www.hawaiipolice.gov.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/13/hawaii-news/hawaii-police-department-rolls-out-new-website/>
+
+---
+
+## Emboldened by reelection, Trump renews bid to overturn his conviction
+
+date: 2024-11-13, from: Hawaii Tribune Harold
+
+
+				<p>President-elect Donald Trump is mounting a resurgent bid to dismiss his criminal conviction in New York in the wake of his electoral victory, hoping to clear his record of 34 felonies before returning to the White House, court records unsealed Tuesday show. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/13/nation-world-news/emboldened-by-reelection-trump-renews-bid-to-overturn-his-conviction/>
+
+---
+
+## Trump names Elon Musk to role leading government efficiency drive
+
+date: 2024-11-13, from: Hawaii Tribune Harold
+
+
+				<p>U.S. President-elect Donald Trump on Tuesday named Elon Musk to a role aimed at creating a more efficient government, handing even more influence to the world&#8217;s richest man who donated millions of dollars to helping Trump get elected. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/13/nation-world-news/trump-names-elon-musk-to-role-leading-government-efficiency-drive/>
+
+---
+
+## Feedback sought for HPP park
+
+date: 2024-11-13, from: Hawaii Tribune Harold
+
+
+				<p>Hawaiian Paradise Park residents are urged to submit feedback about a proposed new district park that will be built in the subdivision.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/13/hawaii-news/feedback-sought-for-hpp-park/>
+
+---
+
+## Who are the next leaders of the Democratic party?
+
+date: 2024-11-13, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; American presidential elections tend to be a zero-sum game for the parties and their voters. Win, and everything is great. Lose, and your party is rudderless, leaderless and powerless. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/13/nation-world-news/who-are-the-next-leaders-of-the-democratic-party/>
+
+---
+
+## Pentagon leaker Jack Teixeira sentenced to 15 years in US prison
+
+date: 2024-11-13, from: Hawaii Tribune Harold
+
+
+				<p>BOSTON &#8212; Massachusetts Air National Guard member Jack Teixeira was sentenced on Tuesday to 15 years in prison for leaking online highly classified U.S. military documents, including some related to Russia&#8217;s invasion of Ukraine. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/13/nation-world-news/pentagon-leaker-jack-teixeira-sentenced-to-15-years-in-us-prison/>
+
+---
+
+## Big bank deals could be spurred by Trump administration, executives say
+
+date: 2024-11-13, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; President-elect Donald Trump&#8217;s return to the White House could usher in a wave of bank mergers and acquisitions as the administration appoints regulators who are more open to approving larger deals, financial executives and analysts said on Tuesday. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/13/nation-world-news/big-bank-deals-could-be-spurred-by-trump-administration-executives-say/>
+
+---
+
+## Nation and world news in brief for November 13
+
+date: 2024-11-13, from: Hawaii Tribune Harold
+
+
+				<p>Driver kills 35 people in ramming attack on crowd &#0010;in China</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/13/nation-world-news/nation-and-world-news-in-brief-for-november-13/>
+
+---
+
+## Officials praise $72M grant that will bolster internet service on Hawaiian homestead lands
+
+date: 2024-11-13, from: Hawaii Tribune Harold
+
+
+				<p>A longstanding effort to increase internet connectivity in Department of Hawaiian Home Lands communities received a big boost Tuesday thanks to a $72 million grant from the federal government.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/13/hawaii-news/officials-praise-72m-grant-that-will-bolster-internet-service-on-hawaiian-homestead-lands/>
+
+---
+
+## New Jersey-New York wildfire keeps burning, fed by dry, windy conditions
+
+date: 2024-11-13, from: Hawaii Tribune Harold
+
+
+				<p>Strengthening winds and bone-dry conditions were hindering firefighters working to gain control of a stubborn wildfire burning in a forested stretch along the New York-New Jersey state border about 50 miles (80 km) northwest of New York City. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/13/nation-world-news/new-jersey-new-york-wildfire-keeps-burning-fed-by-dry-windy-conditions/>
+
+---
+
+## US judge blocks Louisiana from requiring Ten Commandments in classrooms
+
+date: 2024-11-13, from: Hawaii Tribune Harold
+
+
+				<p>A federal judge on Tuesday declared unconstitutional a Louisiana law requiring that the Ten Commandments be displayed in all public school classrooms in the state. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/13/nation-world-news/us-judge-blocks-louisiana-from-requiring-ten-commandments-in-classrooms/>
+
+---
+
+## US finds that Israel is not impeding assistance to Gaza; aid groups disagree
+
+date: 2024-11-13, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Joe Biden&#8217;s administration has concluded that Israel is not currently impeding assistance to Gaza and therefore is not violating U.S. law, the State Department said on Tuesday, even as Washington acknowledged the humanitarian situation remained dire in the Palestinian enclave. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/13/nation-world-news/us-finds-that-israel-is-not-impeding-assistance-to-gaza-aid-groups-disagree/>
+
+---
+
+## Trump picks Kristi Noem for homeland security secretary
+
+date: 2024-11-13, from: Hawaii Tribune Harold
+
+
+				<p>(Reuters) &#8212; U.S. President-elect Donald Trump on Tuesday nominated South Dakota Governor Kristi Noem to serve as the next homeland security secretary, choosing a staunch ally who has little experience on the national security stage. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/13/nation-world-news/trump-picks-kristi-noem-for-homeland-security-secretary/>
+
+---
+
+## Justin Welby resigns as Archbishop of Canterbury over child abuse scandal
+
+date: 2024-11-13, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; Archbishop of Canterbury Justin Welby, the spiritual leader of Anglicans worldwide, resigned &#8220;in sorrow&#8221; on Tuesday, saying he had failed to ensure a proper investigation into allegations of abuse by a volunteer at Christian summer camps decades ago. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/13/nation-world-news/justin-welby-resigns-as-archbishop-of-canterbury-over-child-abuse-scandal/>
+
+---
+
+## Senate Democrats rush to confirm judges before Trump takes office
+
+date: 2024-11-13, from: Hawaii Tribune Harold
+
+
+				<p>The U.S. Senate&#8217;s Democratic majority began a crusade on Tuesday to confirm as many new federal judges nominated by President Joe Biden as possible to avoid leaving vacancies that Republican Donald Trump could fill after taking office on Jan. 20. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/13/nation-world-news/senate-democrats-rush-to-confirm-judges-before-trump-takes-office/>
+
+---
+
+## UH Mānoa athletes partner with Alaska Airlines
+
+date: 2024-11-13, from: University of Hawaiʻi News
+
+<p>Athletes will serve as ambassadors to share their travel experiences on Alaska Airlines and help promote Alaska/Hawaiian’s joint community-based initiatives.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/12/alaska-airlines-nil-partnership/"><abbr>UH</abbr> Mānoa athletes partner with Alaska Airlines</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/12/alaska-airlines-nil-partnership/>
+
+---
+
+## Metamorphosis: Hawaiian, Pacific and Asian dance headline Kennedy Theatre
+
+date: 2024-11-13, from: University of Hawaiʻi News
+
+<p>The dynamic dance shows features a blend of hula, ballet, martial arts, yoga and contemporary movement at Kennedy Theatre.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/12/metamorphosis-dance-kennedy-theatre/">Metamorphosis: Hawaiian, Pacific and Asian dance headline Kennedy Theatre</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/12/metamorphosis-dance-kennedy-theatre/>
+
+---
+
+## Hawaiian Word of the Week: Kula nui
+
+date: 2024-11-13, from: University of Hawaiʻi News
+
+<p>Kulanui&#8212;University, college, literally big school.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/12/hawaiian-word-of-the-week-kula-nui/">Hawaiian Word of the Week: Kula nui</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/12/hawaiian-word-of-the-week-kula-nui/>
+
+---
+
+## Annual pledge for climate finance projected to hit $170 billion by 2030 
+
+date: 2024-11-13, from: Pacific Island Times
+
+By Pacific Island Times News Staff Baku, Azerbaijan —  The multilateral development banks’ annual climate financing contributions are... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/annual-pledge-for-climate-finance-projected-to-hit-170-billion-by-2030>
+
+---
+
+## Indigenous weaver, kapa maker, carver featured at film premiere
+
+date: 2024-11-13, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> West <span aria-label="Oahu">O&#699;ahu</span> hosted the premier of The Return of Polynesia’s Treasures.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/12/indigenous-weaver-kapa-maker-carver-film-premiere/">Indigenous weaver, kapa maker, carver featured at film premiere</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/12/indigenous-weaver-kapa-maker-carver-film-premiere/>
+
+---
+
+## Phillips opens season with Big West Player of the Week honors
+
+date: 2024-11-13, from: University of Hawaiʻi News
+
+<p>Daejah Phillips averaged 15 points per game and led the Rainbow Wahine to a strong start on their Pacific Northwest road trip.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/12/phillips-opens-season-with-big-west-player-of-the-week-honors/">Phillips opens season with Big West Player of the Week honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/12/phillips-opens-season-with-big-west-player-of-the-week-honors/>
+
+---
+
+## UH’s GEAR UP Oʻahu paves path to higher education
+
+date: 2024-11-13, from: University of Hawaiʻi News
+
+<p>$8.3 million grant awarded to <abbr>UH</abbr> Mānoa program aiming to boost college readiness amongst <span aria-label="Hawaii">Hawai&#699;i</span> middle and high school students.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/12/gear-up-oahu-path-to-higher-ed/"><abbr>UH</abbr>’s GEAR UP Oʻahu paves path to higher education</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/12/gear-up-oahu-path-to-higher-ed/>
+
+---
+
+## Alexander sets Big West record with 7th Player of the Week award
+
+date: 2024-11-13, from: University of Hawaiʻi News
+
+<p>Caylen Alexander shattered the Big West record after racking up a total of 57 kills over two matches.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/12/alexander-bw-record-with-7th-award/">Alexander sets Big West record with 7th Player of the Week award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/12/alexander-bw-record-with-7th-award/>
+
+---
+
+## Tuvalu PM says annual climate fund goal must be higher than $100 billion 
+
+date: 2024-11-13, from: Pacific Island Times
+
+Tuvalu Prime Minister Feleti P. Teo is seeking climate funding reforms including a new pledge, which he said must be significantly higher th 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/tuvalu-pm-says-annual-climate-fund-goal-must-be-higher-than-100-billion>
+
+---
+
+## Guam in COR 4 at noon; GovGuam employees report to work at 1 pm 
+
+date: 2024-11-12, from: Pacific Island Times
+
+(Joint Information Center)  - Acting Gov.  Josh Tenorio and Rear Admiral Brent De Vore will place Guam and the respective military bases... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/cor-1-remains-in-effect-on-guam-tentative-plans-to-return-to-cor-4-by-noon-today>
 
 ---
 

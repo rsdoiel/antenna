@@ -1,11 +1,71 @@
 ---
 title: games
-updated: 2024-11-12 14:00:25
+updated: 2024-11-13 07:16:34
 ---
 
 # games
 
-(date: 2024-11-12 14:00:25)
+(date: 2024-11-13 07:16:34)
+
+---
+
+## Netflix just made watching a Fast and Furious marathon easy
+
+date: 2024-11-13, updated: 2024-11-13, from: Polygon Website
+
+The Fast and Furious crew are rolling into Netflix with their first five outings, which is the perfect length for a weekend-long Fast marathon. But while all five movies are more than worth watching in their own unique ways, five movies is a lot of time for even the most dedicated Fast and Furious fans [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/477189/fast-furious-netflix-movies-streaming-which-watch>
+
+---
+
+## Lego Horizon Adventures is a delightful, kid-friendly twist on Horizon Zero Dawn
+
+date: 2024-11-13, updated: 2024-11-13, from: Polygon Website
+
+Horizon Zero Dawn and Horizon Forbidden West aren’t exactly kid-friendly. Both games were rated T for Teen, and I tend to think of them as these high-minded stories about found family, billionaire greed, and environmental collapse. So, reinterpreting those stories through plasticky slapstick feels somehow disingenuous. When Lego Horizon Adventures was announced, I immediately thought, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/477760/lego-horizon-adventures-ps5-switch-pc>
+
+---
+
+## Monster Hunter is going mobile with new ‘fully featured game’ Outlanders
+
+date: 2024-11-13, updated: 2024-11-13, from: Polygon Website
+
+Capcom’s Monster Hunter franchise is getting a brand-new entry on mobile devices with Monster Hunter Outlanders, developer TiMi Studio Group and Capcom announced Tuesday. The upcoming game is described as an open-world survival game set in the Monster Hunter universe and will feature a character-collection aspect, à la Genshin Impact and another recently announced AAA [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/478302/monster-hunter-outlanders-mobile-announcement-trailer>
+
+---
+
+## The geri-action movie Thelma lets 94-year-old June Squibb play the Tom Cruise game
+
+date: 2024-11-13, updated: 2024-11-13, from: Polygon Website
+
+This feature was previously published ahead of Thelma’s theatrical release. It has been updated for the film’s streaming release. Action movies used to be the domain of younger stars: All those gunfights, car chases, death-defying stunts, and nefarious-crime-thwartings take a lot of energy and flexibility, not to mention the ability to heal up afterward. But [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/24164155/thelma-movie-preview-action-comedy>
+
+---
+
+## Where to unlock all allied society quests in FFXIV
+
+date: 2024-11-12, updated: 2024-11-12, from: Polygon Website
+
+Allied society quests are one of Final Fantasy 14’s more rewarding dailies. Formerly known as “beast tribe quests” or “tribal quests,” these quests involving helping out the other races of Eorzea by beating down baddies that might be giving them grief, or helping them rebuild an area using crafting and gathering. Below, we detail how [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24173755/tribal-quests-relations-mounts-locations-currency>
 
 ---
 

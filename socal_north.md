@@ -1,17 +1,77 @@
 ---
 title: socal north
-updated: 2024-11-12 14:00:23
+updated: 2024-11-13 07:16:32
 ---
 
 # socal north
 
-(date: 2024-11-12 14:00:23)
+(date: 2024-11-13 07:16:32)
 
 ---
 
-## Whitesides takes back California's 27th Congressional District for Democrats in pivotal House race
+## State officials asked LA residents for input on the Dodger Stadium gondola. Here are some burning questions
 
-date: 2024-11-12, updated: 2024-11-12, from: The LAist
+date: 2024-11-13, updated: 2024-11-13, from: The LAist
+
+The controversial aerial plan would connect Dodger Stadium to Union Station in downtown Los Angeles. 
+
+<br> 
+
+<https://laist.com/news/transportation/state-historic-park-dodger-stadium-gondola-project-public-input-questions>
+
+---
+
+## Meet the mind behind Long Beach Public Library’s viral Gen-Z outreach
+
+date: 2024-11-13, updated: 2024-11-13, from: The LAist
+
+Brandi O’Kelley, who runs the system’s social media, uses humor to draw more readers. 
+
+<br> 
+
+<https://laist.com/news/education/long-beach-public-library-viral-video>
+
+---
+
+## Here are the details of LAUSD's new cellphone policy
+
+date: 2024-11-13, updated: 2024-11-13, from: The LAist
+
+The district’s expectation is that when students come back from Presidents’ Day weekend in February, the rollout will be finished at every school. 
+
+<br> 
+
+<https://laist.com/news/education/los-angeles-unified-lausd-cellphone-social-media-policy-february>
+
+---
+
+## Santa Ana rejects ballot measure that would have allowed non-US citizens to vote
+
+date: 2024-11-13, updated: 2024-11-13, from: The LAist
+
+Santa Ana would have been the first city in California to allow non-U.S. citizens to vote in city council and mayoral races. 
+
+<br> 
+
+<https://laist.com/news/politics/santa-ana-voters-reject-ballot-measure-non-us-citizens-to-vote>
+
+---
+
+## Democrats nab 2 wins in tight SoCal races that could decide if the House goes red or blue
+
+date: 2024-11-12, updated: 2024-11-13, from: The LAist
+
+With Republicans just two seats away from snagging control of the House, three historically tight SoCal races were in play. Now all eyes are on the tightening Michelle Steel vs. Derek Tran race. 
+
+<br> 
+
+<https://laist.com/news/politics/2024-california-general-election-house-garcia-whitesides-steel-tran-min-baugh>
+
+---
+
+## Whitesides takes back California's 27th Congressional District for Democrats in pivotal race
+
+date: 2024-11-12, updated: 2024-11-13, from: The LAist
 
 The race was one of the most closely watched in the country. 
 
@@ -85,7 +145,7 @@ Wind advisories end today.
 
 ## AirTalk Host Larry Mantle's favorite LA books of 2024 (perfect for gift giving!)
 
-date: 2024-11-12, updated: 2024-11-12, from: The LAist
+date: 2024-11-12, updated: 2024-11-13, from: The LAist
 
 Each book on this list offers insight into Southern California. 
 
