@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2024-11-13 17:07:27
+updated: 2024-11-14 08:24:09
 ---
 
 # libraries
 
-(date: 2024-11-13 17:07:27)
+(date: 2024-11-14 08:24:09)
+
+---
+
+## Kitchen Essentials: An Interview with Anita Bandrowski of SciCrunch
+
+date: 2024-11-14, from: Scholarly Kitchen
+
+<p>In today's post is a Kitchen Essentials interview, Anita Bandrowski, CEO and Co-founder of SciCrunch, talks to Alice Meadows about what they do and why it's important, her thoughts on  working in scholarly infrastructure, and more...</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/11/14/kiitchen-essentials-an-interview-with-anita-bandrowski-of-scicrunch/">Kitchen Essentials: An Interview with Anita Bandrowski of SciCrunch</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2024/11/14/kiitchen-essentials-an-interview-with-anita-bandrowski-of-scicrunch/>
 
 ---
 

@@ -1,11 +1,23 @@
 ---
 title: home
-updated: 2024-11-13 17:07:27
+updated: 2024-11-14 08:24:10
 ---
 
 # home
 
-(date: 2024-11-13 17:07:27)
+(date: 2024-11-14 08:24:10)
+
+---
+
+## How They Pulled It Off: A Modern, Sculptural Staircase  Grows in Brooklyn
+
+date: 2024-11-14, from: Dwell
+
+The clients initially wanted Corten steel. Instead, Lea Architecture used wood to elevate the stairs into a design centerpiece of the three-story duplex. 
+
+<br> 
+
+<https://www.dwell.com/article/how-they-pulled-it-off-a-modern-sculptural-staircase-grows-in-brooklyn-8e23ae8a>
 
 ---
 
@@ -41,7 +53,7 @@ date: 2024-11-13, from: Family Handyman Blog
 
 date: 2024-11-13, from: Dwell
 
-Artists Miriam Nabarro and Simon Quinn call on Cooke Fawcett Architects to sensitively adapt a historic Hampshire site into a home with a workshop and art studio. 
+Artists Miriam Nabarro and Simon Quinn call on Cooke Fawcett Architects to sensitively adapt a historic Hampshire site into a home with a standalone workshop and art studio. 
 
 <br> 
 
@@ -184,6 +196,18 @@ Get a Seattle cook's recipes for juniper-and-herb roast turkey, apple-bacon corn
 <br> 
 
 <https://www.sunset.com/food-wine/holidays-occasions/a-chefs-holiday-feast>
+
+---
+
+## 6 Ways You Can Score Discounts on Your Next Disneyland Trip
+
+date: 2024-11-13, from: Sunset Magazine - Living in the West
+
+Visiting Disneyland can get pricey, but there are ways to save money. From gift cards to coupons, here's to save money on Disneyland tickets. 
+
+<br> 
+
+<https://www.sunset.com/travel/how-to-save-money-on-disneyland-tickets>
 
 ---
 
@@ -350,6 +374,18 @@ date: 2024-11-12, from: Family Handyman Blog
 
 ---
 
+## This Multipurpose Garden Paradise Packs in a Pool, Fire Pit, Shower, Outdoor Dining Area, and More
+
+date: 2024-11-12, from: Sunset Magazine - Living in the West
+
+This plot of land was narrow and small. See how it was turned it into a versatile space with a pool, outdoor shower, seating area, and more. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/landscaping/multipurpose-garden-design>
+
+---
+
 ## Why Male-to-Male Extension Cords Are Rare and Dangerous
 
 date: 2024-11-12, from: Family Handyman Blog
@@ -403,6 +439,18 @@ date: 2024-11-12, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/goveelife-space-heater-recall/>
+
+---
+
+## Your Spice Rack Is the Only Thing You Need to Make These Easy Vegetarian Recipes
+
+date: 2024-11-12, from: Sunset Magazine - Living in the West
+
+Erin Alderson inspires us to dive into a flavor-forward world of dried ingredients with these vegetarian recipes. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/vegetarian-pantry-staple-recipes>
 
 ---
 

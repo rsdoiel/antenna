@@ -1,11 +1,11 @@
 ---
 title: writing
-updated: 2024-11-13 17:07:26
+updated: 2024-11-14 08:24:09
 ---
 
 # writing
 
-(date: 2024-11-13 17:07:26)
+(date: 2024-11-14 08:24:09)
 
 ---
 
@@ -141,7 +141,7 @@ date: 2024-11-12, from: Locus Magazine
 
 <p>Bacon, Eugen &#38; Editor), Abimbola Adelakun (Series, ed.: <b>Afro-Centered Futurisms in Our Speculative Fiction</b>
 (Bloomsbury Academic 9798765114674, $29.95, 256pp, formats: trade paperback, hardcover, ebook, 11/14/2024)</p>
-<p>Non-fiction anthology, a selection of original essays. Introduction by Suyi Davies Okungbowa. Authors including Dilman Dila, Nerine Dorman, Nuzo Onoh, Shingai Njeri Kagunda, Suyi Okungbowa, Tobi Ogundiran and Xan van Rooyen – offer boldly hybrid chapters (both creative and scholarly) that interface Afrocentric artefacts and  <a href="https://locusmag.com/2024/11/new-books-12-november-2024/" class="read-more">...Read More </a></p> 
+<p>Non-fiction anthology, a selection of original essays. Introduction by Suyi Davies Okungbowa. Authors including Dilman Dila, Nerine Dorman, Nuzo Onoh, Shingai Njeri Kagunda, Suyi Okungbowa, Tobi Ogundiran, Aline-Mwezi Niyonsenga, Cheryl S. Ntumy, Stephen Embleton<b data-removefontsize="true" data-originalcomputedfontsize="16">, </b>and Xan van Rooyen – offer boldly hybrid chapters (both  <a href="https://locusmag.com/2024/11/new-books-12-november-2024/" class="read-more">...Read More </a></p> 
 
 <br> 
 

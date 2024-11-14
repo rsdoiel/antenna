@@ -1,11 +1,53 @@
 ---
 title: ham radio
-updated: 2024-11-13 17:07:25
+updated: 2024-11-14 08:24:08
 ---
 
 # ham radio
 
-(date: 2024-11-13 17:07:25)
+(date: 2024-11-14 08:24:08)
+
+---
+
+## RS232 meets VFC
+
+date: 2024-11-14, from: EDN Blog
+
+<img width="863" height="693" src="https://www.edn.com/wp-content/uploads/VFC232_Figure1.png?fit=863%2C693" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/VFC232_Figure1.png?w=863 863w, https://www.edn.com/wp-content/uploads/VFC232_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/VFC232_Figure1.png?w=768 768w" sizes="(max-width: 863px) 100vw, 863px" /><p>This design idea uses asynchronous RS232 to power and count pulses from a simple 10 kHz voltage-to-frequency converter.</p>
+<p>The post <a href="https://www.edn.com/rs232-meets-vfc/" data-wpel-link="internal">RS232 meets VFC</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/rs232-meets-vfc/>
+
+---
+
+## Applying AI to RF design
+
+date: 2024-11-14, from: EDN Blog
+
+<img width="840" height="630" src="https://www.edn.com/wp-content/uploads/AI-for-wireless-design_Figure4.png?fit=840%2C630" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/AI-for-wireless-design_Figure4.png?w=840 840w, https://www.edn.com/wp-content/uploads/AI-for-wireless-design_Figure4.png?w=300 300w, https://www.edn.com/wp-content/uploads/AI-for-wireless-design_Figure4.png?w=768 768w" sizes="auto, (max-width: 840px) 100vw, 840px" /><p>An in-depth interview with MathWorks shows how MATLAB has evolved to assist designers to implement AI in their wireless systems.</p>
+<p>The post <a href="https://www.edn.com/applying-ai-to-rf-design/" data-wpel-link="internal">Applying AI to RF design</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/applying-ai-to-rf-design/>
+
+---
+
+## Shift in electronic systems design reshaping EDA tools integration
+
+date: 2024-11-14, from: EDN Blog
+
+<img width="1010" height="598" src="https://www.edn.com/wp-content/uploads/Hero-image-system-design-Siemens.jpg?fit=1010%2C598" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-system-design-Siemens.jpg?w=1010 1010w, https://www.edn.com/wp-content/uploads/Hero-image-system-design-Siemens.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-system-design-Siemens.jpg?w=768 768w" sizes="auto, (max-width: 1010px) 100vw, 1010px" /><p>Systems design has been constantly evolving over the past decades, and so have toolsets that serve systems design.</p>
+<p>The post <a href="https://www.edn.com/shift-in-electronic-systems-design-reshaping-eda-tools-integration/" data-wpel-link="internal">Shift in electronic systems design reshaping EDA tools integration</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/shift-in-electronic-systems-design-reshaping-eda-tools-integration/>
 
 ---
 
@@ -13,7 +55,7 @@ updated: 2024-11-13 17:07:25
 
 date: 2024-11-13, from: EDN Blog
 
-<img width="1400" height="1606" src="https://www.edn.com/wp-content/uploads/pcb_removed-6.jpg?fit=1400%2C1606" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/pcb_removed-6.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/pcb_removed-6.jpg?w=262 262w, https://www.edn.com/wp-content/uploads/pcb_removed-6.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/pcb_removed-6.jpg?w=893 893w, https://www.edn.com/wp-content/uploads/pcb_removed-6.jpg?w=1339 1339w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>Blood oxygenation level and body temperature are all key indicators of health. This time, our engineer tackles a device for the latter.</p>
+<img width="1400" height="1606" src="https://www.edn.com/wp-content/uploads/pcb_removed-6.jpg?fit=1400%2C1606" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/pcb_removed-6.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/pcb_removed-6.jpg?w=262 262w, https://www.edn.com/wp-content/uploads/pcb_removed-6.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/pcb_removed-6.jpg?w=893 893w, https://www.edn.com/wp-content/uploads/pcb_removed-6.jpg?w=1339 1339w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /><p>Blood oxygenation level and body temperature are all key indicators of health. This time, our engineer tackles a device for the latter.</p>
 <p>The post <a href="https://www.edn.com/taking-a-peek-inside-an-infrared-thermometer/" data-wpel-link="internal">Taking a peek inside an infrared thermometer</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

@@ -1,11 +1,414 @@
 ---
 title: pacific
-updated: 2024-11-13 17:07:25
+updated: 2024-11-14 08:24:08
 ---
 
 # pacific
 
-(date: 2024-11-13 17:07:25)
+(date: 2024-11-14 08:24:08)
+
+---
+
+## 500 Sails plots a course for its future
+
+date: 2024-11-14, updated: 2024-11-14, from: Marianas Variety
+
+WITH an entire decade of experience under its hulls, 500 Sails is set to continue sailing into new horizons as a nonprofit organization.  Incorporated in 2014, 500 Sails has since set up a boatyard facility in Lower Base to locally fabricate sailing canoes, among other notable accomplishments. In Susupe, it has the Guma Sakman—literally “canoe house” in Chamorro—where their completed canoes are stored in between programmatic activities. On top of that are many community activities that build on the group’s original vision to revive the seafaring traditions of the islands.To celebrate its 10-year milestone, 500 Sails hosted a celebratory gala last November 15 at the Crowne Plaza Resort Saipan.  According to the organization’s CEO, Milton “Junior” Coleman, “big dreams” moving forward for the organization include building the sailing capacity of island residents, voyages well beyond the Saipan Lagoon, and creating around 20 new canoes—all in support of 500 Sails’ strategic mission to “revive, promote, and preserve the maritime cultural traditions of the Marianas Islands through community engagement in canoe culture values and activities.”  In a November 13 interview, Coleman told Marianas Variety that 500 Sails is connecting with organizations in the CNMI and beyond in order to encourage more island residents to sail these waters.For example, the Northern Marianas College announced on November 8 that it was offering the Basic Traditional Seamanship Lalayak Certificate Program starting November 23.  The 10-week course teaches participants to sail Chamorro canoes and offers “both historical insights and hands-on skills that have guided seafarers for generations,” a news release states.500 Sails is organizing programs in order to create more large canoes that can be used for voyages to Pagan or Taiwan, Coleman said. As part of the development of these canoes, capacity building would go hand in hand with canoe building.“That would be the ultimate goal—to continue to build skilled sailors to get the skills and learn how to operate the vessels so when the longer voyages come around we can see from a larger pool of people who may be interested in doing different legs,” he said. “We have big goals to sail to Taiwan and Japan, really reconnecting with the ancestral lands.”Coleman adds that in the near future, perhaps this coming year, 500 Sails will be testing out a double-hull canoe configuration by lashing together their leklek—or 26-foot-long canoes. The organization has four lekleks, and the results of the experiments will guide them on how to design and build large double-hulled canoes. These double-hulled vessels could be in excess of 40 feet in length and would be used for interisland transportation or cargo ferrying.Additionally, 500 Sails hopes to create enough leklek-sized canoes to support the hotel industry; plans may include giving tourists rides around the Saipan Lagoon.  As the organization turns 10, 500 Sails co-founder Emma Perez is feeling “happy, optimistic, and grateful.”  She’s looking most forward to “well-paying culturally based jobs on the water for sailors and captains on traditional sailing canoes [that offer] rides for visitors, transportation, and cargo between our Mariana Islands.”Of the various programs 500 Sails has operated in the past decade, the three she’s most proud of are the Gamsun Project, which teaches teens to swim in order to obtain lifeguard certification courses; the Sirena Project, an all-female swim class held weekly at the Guma Sakman; and Lalayak, the organization's in-house sailing course.  Coleman says that learning to sail is character development, underscoring the value of the organization’s work.“I’ve seen the value of gaining these kinds of skills to help you in other aspects of your life,” he said. “It will help you in every part of your life. …You have better focus and [will] be more appreciative of the environment and nature. And also, on a canoe, the people on board have to operate like a family. Everybody has to take care of each other, help each other out. We can use those same skills to nurture our children and strengthen our families so our voyage in life will be successful. It will make them a better person and help them be proud of our Chamorro and Carolinian heritage and just elevate all of these islands to the level that our ancestors were, where they lived in harmony with nature and they survived for a very long time because they had deep respect for this place.”Congratulations on 10 years of impacting the community, 500 Sails! 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/500-sails-plots-a-course-for-its-future/article_c9e1934a-a25b-11ef-98dd-734e74122376.html>
+
+---
+
+## The canoes of 500 Sails
+
+date: 2024-11-14, updated: 2024-11-14, from: Marianas Variety
+
+CANOES are at the heart of 500 Sails’ organization. The nonprofit was established in 2014 and has since sought to make canoes a part of the everyday lives of the people of the Marianas.According to its organizational strategic plan, 500 Sails’ name was inspired by the arrival of the Spanish galleon San Pedro in Guam in 1565. The vessel was met at sea and escorted to the coast by hundreds of Chamorro sailing canoes. An observer on the San Pedro that day wrote that he counted 400-500 canoes around the ship.500 Sails creates canoes on Saipan at its boatyard in Lower Base based on the “Anson Drawing,” which is a document that records the dimensions of one of the last known Chamorro sailing canoes, captured off the coast of Tinian in 1742 by the crew of British Commodore George Anson.500 Sails has the following vessels in its fleet:1. Che’luChe’lu is a true sakman. These days, the word sakman has come to encompass every Chamorro sailing canoe, but in the historic record it refers to oceangoing canoes that are between 40 and 50 feet long. Che’lu is 47 feet long. Her name means “sibling” in Chamorro. Her story begins in 2006 when Pete Perez, of Sakman Chamorro, Inc. on Saipan, and Mario Reyes Borja, of Che’lu, Inc. in San Diego, decided to combine their efforts to build a sakman based on the 1742 “Anson Drawing” of a Chamorro canoe. Sakman Chamorro contributed research and funding to start the build that was led by Mario Borja, an expert carpenter and engineer. The canoe was built in San Diego, California in 2011 from a redwood log, with plenty of “happy labor” from the Chamorro community there. Che’lu has participated in the Festival of the Pacific Arts and Culture in Guam in 2016 and in Hawaii in 2024. Having called San Diego, Guam, and now Saipan home, Che’lu has huge cultural and historic significance to Chamorros throughout the Marianas and the Diaspora.2. NeniNeni is 500 Sails’ first locally built canoe and the first Chamorro sailing canoe on Saipan for hundreds of years. She is 26 feet long with a main hull and outrigger hull made of fiberglass lashed to bamboo spars. In Micronesia, canoes are traditionally made of lemmai and other wood, but 500 Sails wanted to build many canoes fast and economically, so the decision was made to use modern materials. Neni was mostly fabricated in New Zealand by a 500 Sails crew from Saipan and Guam under the direction of yacht builder Derek Kelsall. After the canoe was completed on Saipan, Neni was carried into the water by island youth where she touched water for the first time, alongside the Carolinian canoe Makalili Teenager. Neni was sailed for the first time by the crew that built her. The word "neni" means "baby" in Chamorro. She's 500 Sails' "first-born child."3. Richard SemanRichard Seman is named after the late former lawmaker and Secretary of the Department of Lands and Natural Resources. Mr. Seman was an early supporter of 500 Sails and helped the organization secure the warehouse in Lower Base that houses the 500 Sails boatyard. He also secured the Guma Sakman, 500 Sails' canoe house, on the beach at Civic Center. When Mr. Seman passed away suddenly and unexpectedly, the organization named its second locally built canoe in his honor. Richard Seman has the distinction of being the first 500 Sails canoe fabricated entirely on Saipan. The 500 Sails Boatyard that Mr. Seman helped secure has been the birthplace of all subsequent canoes in the fleet.4. Anaguan500 Sails’ third 26-foot canoe, Anaguan, was commissioned by the Indigenous Affairs Office and named to honor the ancient village of Anaguan that once stood near the shore in Garapan. The remains of 700 Chamorro individuals were unearthed at the Anaguan village site during the construction of Imperial Pacific International’s casino. When the remains of the villagers were reinterred, the community held an hours-long burial ceremony, after which Anaguan was among four Chamorro canoes that symbolically sailed from the shore with the spirts of the deceased.5. Aunty ObaThe 26-foot-long canoe Aunty Oba is named after the late Jacoba Seman, who lived near the shoreline in Susupe, just north of the Guma Sakman. Ms. Seman was also known as “Oba.” When she passed, her family requested the new canoe be named in her honor. This beautiful canoe features a red stripe painted beneath its gunwale and black and red ocean motifs that are based on pottery designs from the pre-Latte Era of Marianas history. The motifs call to mind ocean waves. Her outrigger is also painted black, white, and red—the colors of Chamorro canoes, according to historical records. On both mata of Aunty Oba (the front part of the canoe) is an illustration of a Chamorro woman—from the oldest known drawn portrait of a Chamorro. Sailors on Aunty Oba have remarked that the canoe picks up speed whenever they pass Aunty Oba’s house!6. Dee Dee500 Sails transitioned into a new phase of building with Dee Dee, their first 15-foot canoe—one that can easily be sailed by one person. Chamorros were noted in the historic record as having specific models of canoes of various lengths. Dee Dee’s design is based on the description of a small Chamorro sailing canoe called a “duding.” The canoe is named in memory of the late Deloris Perez, the mother of the boat’s designer and builder, Pete Perez.7. AnimuyiAnimuyi is the second “duding” built by 500 Sails. The canoe was commissioned by James and Penelope Hofschneider, who share the canoe for use in 500 Sails’ community programs. Like Aunty Oba, Animuyi’s hull is beautifully painted. Animuyi also has some design changes that grew from experience in sailing Dee Dee. The canoe was displayed for a time in the lobby of the Bank of Saipan as part of an exhibit of Chamorro and Carolinian maritime traditions, followed by a public ceremony that ended with members of the canoe sailing community carrying Animuyi to the lagoon for her launch.8. Den Yo PoviDen YoPovi is 500 Sails’ newest “duding.” It is owned by long-time 500 Sails volunteer and lifelong peskadot and talayeru, Jeremiah Benavente. The canoe reflects his Chamorro and Native American heritage. Like her predecessors, Den Yo Povi is a Chamorro-designed vessel; however, Benavente personally painted the canoe with designs and motifs that reflect his mother’s Hopi heritage. In his mother’s language, Den Yo Povi means “blue spruce blossom.”9. MikaelaMikaela is 500 Sail’s first Carolinian canoe. Its builder is master navigator Mario Benito, of Poluwat. He and his family members, alongside 500 Sails staff, crafted Mikaela. At 22 feet long, Mikaela follows the design lines of the voyaging canoe Mikael that was built by Mario’s grandfather. Mikaela’s hull and outrigger are built of modern fiberglass materials, while its spars, mast, and boom are made of wood. Mikaela was launched just in time to join the 13th Festival of the Pacific Arts and Culture in Hawaii.10. LadahaoLadahao's journey into the 500 Sails fleet is unique. This 41-foot canoe is made of aviation plywood and fiberglass and was fabricated in 1968 in Chicago, Illinois. At that time, the boat’s name was Roberta L. It was fabricated by steelworkers who wanted to win a 330-mile yacht race in the Great Lakes. Upon researching fast boat designs, they came across the Anson Drawing, built the canoe, and entered the canoe in the race. With a top speed of over 30 miles per hour, Roberta L beat the second-place boat by five hours. Nearly 50 years later, the canoe showed up for sale on Craigslist. The owner agreed to donate the canoe to 500 Sails so that it could be restored and sailed in Chamorro waters. After the restoration, the canoe got a second, Chamorro name, Ladahao, after a Chamorro Magalahi, or chief, on Saipan who was noted for his valor in the Chamorro-Spanish Wars. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/the-canoes-of-500-sails/article_d84b8ac8-a23b-11ef-af45-db0a7f652717.html>
+
+---
+
+## SBDC professionals highlighted in Guam Business Journal’s 40 Under Forty
+
+date: 2024-11-14, updated: 2024-11-14, from: Marianas Variety
+
+(CNMI SBDC) — Three professionals from the CNMI Small Business Development Center at Northern Marianas College were recently highlighted in Guam Business Journal’s 40 Under Forty, a competitive list of young leaders selected amongst a diverse group from across the region. CNMI SBDC’s Charlene M. Ogo, Mercilynn K. Palec, and Roman M. Tudela were included in their fourth edition and were recognized and acknowledged at GBJ’s 40 Under Forty Gala. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/sbdc-professionals-highlighted-in-guam-business-journal-s-40-under-forty/article_299deee2-a292-11ef-bcbd-0b92c0c71abc.html>
+
+---
+
+## CMI class without walls
+
+date: 2024-11-14, from: Marshal Islands Journal
+
+<p>If you thought that lectures are only given in a classroom setting in the Marshall Islands, then think again. Instructor Kendal Romany and a group of College of the Marshall Islands students took it to the oceanside during low tide and went through their class assignment. The assignment was to collect rocks and sediments and [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/cmi-class-without-walls/">CMI class without walls</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/cmi-class-without-walls/>
+
+---
+
+## CIA agent accused of leaking top secret documents about Israeli military plans detained on Guam
+
+date: 2024-11-14, from: Pacific Island Times
+
+A U.S. government official charged with leaking top-secret documents related to Israel’s plans to retaliate against Iran for a missile attac 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/cia-gent-detained-on-guam>
+
+---
+
+## Sign up now for Kona’s Christmas Parade
+
+date: 2024-11-14, from: Hawaii Tribune Harold
+
+
+				<p>The annual Kailua Kona Community Christmas Parade is coming up on Saturday, Dec. 14, from 5 p.m. to 7 pm.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/14/community/sign-up-now-for-konas-christmas-parade/>
+
+---
+
+## Hilo Woman’s Club holds Rummage Sale
+
+date: 2024-11-14, from: Hawaii Tribune Harold
+
+
+				<p>The Hilo Woman&#8217;s Club will be hosting a Rummage Sale from 7 a.m. to 12 p.m. this Saturday at their clubhouse in Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/14/community/hilo-womans-club-holds-rummage-sale/>
+
+---
+
+## ‘Coffee With a Cop’ events this month
+
+date: 2024-11-14, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Police Department invites the public to join officers for two &#8220;Coffee With a Cop&#8221; events in North and South Kohala this month.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/14/community/coffee-with-a-cop-events-this-month/>
+
+---
+
+## More than 100 vendors will be at Puna Hongwanji craft fair: Free event is this Saturday in Keaau
+
+date: 2024-11-14, from: Hawaii Tribune Harold
+
+
+				<p>The Puna Hongwanji Mission is having its fifth Winter Craft Fair from 9 a.m. to 3 p.m. this Saturday on the temple grounds at 14-692 Old Volcano Road in Keaau. Entry is free.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/14/community/more-than-100-vendors-will-be-at-puna-hongwanji-craft-fair-free-event-is-this-saturday-in-keaau/>
+
+---
+
+## Trump, Biden discuss Ukraine and Middle East in ‘cordial’ White House meeting
+
+date: 2024-11-14, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. President-elect Donald Trump and President Joe Biden, longtime political rivals, discussed Ukraine and the Middle East on Wednesday in a cordial meeting designed to demonstrate a smooth transfer of power despite deep disagreements over policy. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/14/nation-world-news/trump-biden-discuss-ukraine-and-middle-east-in-cordial-white-house-meeting/>
+
+---
+
+## ‘Devious’ new deep sea creature hid its identity from scientists
+
+date: 2024-11-14, from: Hawaii Tribune Harold
+
+
+				<p>Bruce Robison, a marine biologist, has long used robotic vehicles to explore the Monterey Canyon off California &#8212; a gargantuan rift of the Pacific seabed that descends rapidly from coastal shallows to a depth of more than 2 miles. In early 2000, he stumbled on a strange creature he had never seen before.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/14/nation-world-news/devious-new-deep-sea-creature-hid-its-identity-from-scientists/>
+
+---
+
+## Spaniards brace for fresh storms two weeks after deadly Valencia floods
+
+date: 2024-11-14, from: Hawaii Tribune Harold
+
+
+				<p>VALENCIA/MALAGA &#8212; Spaniards braced for further heavy rain and storms on Wednesday, just two weeks after rain and flash floods prompted rivers to overflow in Valencia and other parts of Spain killing more than 200 people and destroying homes and property. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/14/nation-world-news/spaniards-brace-for-fresh-storms-two-weeks-after-deadly-valencia-floods/>
+
+---
+
+## ‘Ukulele & Slack Key Guitar Festival this weekend
+
+date: 2024-11-14, from: Hawaii Tribune Harold
+
+
+				<p>WAIMEA &#8212; Kahilu Theatre will present its 22nd Annual &#8216;Ukulele &#38;Slack Key Guitar Festival on Friday and Saturday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/14/entertainment/ukulele-slack-key-guitar-festival-this-weekend/>
+
+---
+
+## Nation and world news in brief for November 14
+
+date: 2024-11-14, from: Hawaii Tribune Harold
+
+
+				<p>Taliban carries out public execution in sports stadium in Afghanistan</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/14/nation-world-news/nation-and-world-news-in-brief-for-november-14/>
+
+---
+
+## Senate Republicans pick insider John Thune as their next leader
+
+date: 2024-11-14, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. Senate Republicans elected John Thune to lead the chamber next year, opting for a well-regarded insider and shrugging off a public pressure campaign by supporters of Donald Trump to pick a loyalist to the president-elect. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/14/nation-world-news/senate-republicans-pick-insider-john-thune-as-their-next-leader/>
+
+---
+
+## GOP clinches control of House, solidifying hold on Congress after sweeping Trump win
+
+date: 2024-11-14, from: Hawaii Tribune Harold
+
+
+				<p>Republicans secured a majority in the House of Representatives, clinching total control of Congress alongside President-elect Donald Trump&#8217;s sweeping win of the White House and the Senate.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/14/nation-world-news/gop-clinches-control-of-house-solidifying-hold-on-congress-after-sweeping-trump-win/>
+
+---
+
+## Kea‘au to get health center
+
+date: 2024-11-14, from: Hawaii Tribune Harold
+
+
+				<p>Hilo Benioff Medical Center is planning to build an outpatient clinic on approximately nine acres of land in Kea&#8216;au.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/14/hawaii-news/keaau-to-get-health-center/>
+
+---
+
+## Bill regarding home repairs passes
+
+date: 2024-11-14, from: Hawaii Tribune Harold
+
+
+				<p>Small-scale home repairs could become easier to make if Mayor Mitch Roth signs a bill that exempts repair projects below a certain cost from needing a building permit.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/14/hawaii-news/bill-regarding-home-repairs-passes/>
+
+---
+
+## ‘Never heard of him:’ surprise and questions greet Trump’s defense secretary pick
+
+date: 2024-11-14, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President-elect Donald Trump&#8217;s selection of Pete Hegseth as U.S. defense secretary was met on Wednesday with surprise at the Pentagon and bewilderment among some European allies, but some Republican lawmakers rallied around the Fox News host. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/14/nation-world-news/never-heard-of-him-surprise-and-questions-greet-trumps-defense-secretary-pick/>
+
+---
+
+## Legislature leadership positions announced
+
+date: 2024-11-14, from: Hawaii Tribune Harold
+
+
+				<p>Some Big Island elected lawmakers will fill out leadership seats in the state House of Representatives and Senate during the 2025 legislative session,which begins in January.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/14/hawaii-news/legislature-leadership-positions-announced/>
+
+---
+
+## Waimea man charged with firearms, drug offenses
+
+date: 2024-11-14, from: Hawaii Tribune Harold
+
+
+				<p>A 42-year-old Waimea man faces numerous drug- and firearms-related offenses stemming from a traffic stop early Friday morning in Puna.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/14/hawaii-news/waimea-man-charged-with-firearms-drug-offenses/>
+
+---
+
+## Trump taps loyalists with few qualifications for top jobs
+
+date: 2024-11-14, from: Hawaii Tribune Harold
+
+
+				<p>U.S. President-elect Donald Trump chose loyalists with little experience for several key cabinet positions on Wednesday, stunning some allies and making clear that he is serious about reshaping &#8212; and in some cases testing &#8212; America&#8217;s institutions. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/14/nation-world-news/trump-taps-loyalists-with-few-qualifications-for-top-jobs/>
+
+---
+
+## Trump’s team drawing up list of Pentagon officers to fire, sources say
+
+date: 2024-11-14, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Members of President-elect Donald Trump&#8217;s transition team are drawing up a list of military officers to be fired, potentially to include the Joint Chiefs of Staff, two sources said, in what would be an unprecedented shakeup at the Pentagon. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/14/nation-world-news/trumps-team-drawing-up-list-of-pentagon-officers-to-fire-sources-say/>
+
+---
+
+## RMI active at COP29
+
+date: 2024-11-14, from: Marshal Islands Journal
+
+<p>From President Hilda Heine to a large contingent of Marshallese youth, the Marshall Islands has been actively participating in the global climate summit, COP29, in Azerbaijan since late last week. Marshall Islands youth representative at COP29 Jewan Jamore spoke at the Global Centre for Climate Mobility side event at the the Climate Summit in Azerbaijan [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/rmi-active-at-cop29/">RMI active at COP29</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/rmi-active-at-cop29/>
+
+---
+
+## Pacific at the crossroads: 85 MPAs needed daily to safeguard marine ecosystems
+
+date: 2024-11-14, from: Pacific Island Times
+
+By Ron Rocky Coloma     A groundbreaking study conducted by Dynamic Planet and National Geographic Pristine Seas has revealed that to... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/pacific-at-the-crossroads-85-mpas-needed-daily-to-safeguard-marine-ecosystems>
+
+---
+
+## Scientists Discover World’s Largest Coral in the Solomon Islands
+
+date: 2024-11-14, from: Pacific Island Times
+
+In a stunning discovery that showcases both the power and fragility of theplanet's marine ecosystems, scientists have located what is now co 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/scientists-discover-world-s-largest-coral-in-the-solomon-islands>
+
+---
+
+## Archdiocese accepts GovGuam's offer to buy Chancery property
+
+date: 2024-11-14, from: Pacific Island Times
+
+The Archdiocese of Agaña has formally accepted the government of Guam’s offer to buy the chancery property for $2.38 million. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/archdiocese-accepts-govguam-s-offer-to-buy-chancery-property>
+
+---
+
+## Guam seeking to expand seat capacity for South Korean market 
+
+date: 2024-11-14, from: Pacific Island Times
+
+By Pacific Island Times News Staff Guam is seeking to strengthen partnerships with South Korean airlines in a bid to expand the seat... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-seeking-to-expand-seat-capacity-for-south-korean-market>
+
+---
+
+## ‘Enra’ program deluged with applicants
+
+date: 2024-11-14, from: Marshal Islands Journal
+
+<p>HILARY HOSIA If you are concerned whether you will miss out on the “Enra” registration because you are off island temporarily, well, great news: Registration will continue at Marshall Islands Social Security Administration office after the current initial two-week registration period ends. The Enra program is also known as the Universal Basic Income system, which [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/enra-program-deluged-with-applicants/">‘Enra’ program deluged with applicants</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/enra-program-deluged-with-applicants/>
+
+---
+
+## Tourism-focused packaging wins inaugural PACE innovation challenge
+
+date: 2024-11-14, from: University of Hawaiʻi News
+
+<p>The event introduced students to career opportunities with local companies and enhanced their problem-solving skills by tackling real world challenges.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/13/inaugural-innovate-808-competition/">Tourism-focused packaging wins inaugural <abbr>PACE</abbr> innovation challenge</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/13/inaugural-innovate-808-competition/>
 
 ---
 

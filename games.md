@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2024-11-13 17:07:27
+updated: 2024-11-14 08:24:09
 ---
 
 # games
 
-(date: 2024-11-13 17:07:27)
+(date: 2024-11-14 08:24:09)
+
+---
+
+## Fortnite Remix season schedule dates: When is Juice WRLD coming to Fortnite?
+
+date: 2024-11-14, updated: 2024-11-14, from: Polygon Website
+
+Understanding the Fortnite Chapter 2 Remix season schedule will let you know when your favorite Chapter 2 map will return to Fortnite and what musical icon will be featured that week. Starting with Seasons 1 and 2, the map will be updated each week to the next season (or two) in order, before concluding with [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/473857/remix-season-schedule-dates-when-does-it-end>
+
+---
+
+## Not sure what movie to watch? Leave a comment, we’ll help
+
+date: 2024-11-14, updated: 2024-11-13, from: Polygon Website
+
+We love movie recommendations here at Polygon. Whether it’s horror, sci-fi, action, comedy, thrillers, or just the best of the year, we’re always trying to introduce readers to new and exciting movies they’ll love. But now we want to find the perfect movie for you. (That’s you.) That’s why we have this regular open thread [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/477990/best-movies-watch-tonight-best-recommendations-streaming>
+
+---
+
+## What are the new map and weapon loot pool changes in Fortnite Remix’s Week 3 update?
+
+date: 2024-11-14, updated: 2024-11-14, from: Polygon Website
+
+Fortnite Remix is the revival and remix of Chapter 2 maps that are part of the shortened season and weekly refresh schedule. The month-long season started with a live event and kicked off the Remix season with The Doggfather, Snoop Dogg, and continued with the addition of one Slim Shady, Eminem. This season’s weekly updates [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/478987/remix-week-3-loot-pool-map-changes>
+
+---
+
+## Where to find helicopters in Fortnite Remix’s Week 3 update
+
+date: 2024-11-14, updated: 2024-11-14, from: Polygon Website
+
+Helicopters were unvaulted for Fortnite Remix’s Week 2 update. There are now seven helicopters you can find and pilot around the island. Update (Nov. 14, 9:30 a.m. ET): With the launch of Week 3 and the addition of Ice Isle, there’s now an eighth Choppa on the island. We’ve updated the map below. During Snoop [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/475753/remix-choppa-locations-map>
+
+---
+
+## Where is Ice Spice and Ice Isle in Fortnite Remix?
+
+date: 2024-11-14, updated: 2024-11-14, from: Polygon Website
+
+Ice Spice and Ice Isle are the Week 3 additions to Nov. 2024’s Fortnite Remix. The remixed version of Chapter 2 is highlighting a different musician each week, with a remixed Shark becoming Ice Isle and home to Ice Spice herself. Here’s where you can find Ice Spice and her POI (point of interest) Ice [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/478962/ice-spice-isle-location-remix-where-to-find>
+
+---
+
+## The best gaming chairs
+
+date: 2024-11-14, updated: 2024-11-14, from: Polygon Website
+
+The best gaming chairs provide comfort, style, and features that normal office chairs can’t match. Sure, getting one might run you a few hundred dollars more than perhaps you were expecting to pay, but the same rationale for splashing cash on a good bed works here, too. That is to say, if you’re sitting at [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-buy/23885770/best-gaming-chairs>
+
+---
+
+## The 25 best Nintendo Switch games
+
+date: 2024-11-14, updated: 2024-11-14, from: Polygon Website
+
+Looking for the best games on the Nintendo Switch? What follows is a living list of the 25 Switch games we recommend everyone play or watch — in case you’re new to the system or you’re just looking for something new to play. The Switch has been around over seven years, has sold more than [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch/2018/9/4/17549714/best-nintendo-switch-games>
+
+---
+
+## According to the Dune: Prophecy actors, the Bene Gesserit footwear is a whole thing
+
+date: 2024-11-14, updated: 2024-11-13, from: Polygon Website
+
+On stage at New York Comic Con, actress Jessica Barden shared a little secret from behind the scenes of Dune: Prophecy that she worried audiences wouldn’t get to see on screen. “The footwear was Nike Airs,” Barden laughed. “My first day on set they gave me these shoes and I was like, Whoa, the Dune [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/478774/dune-prophecy-bene-gesserit-costumes-bts-interview>
+
+---
+
+## The Dragon Quest 3 remake delivers classic RPG comfort food with an ‘HD-2D’ sheen
+
+date: 2024-11-14, updated: 2024-11-13, from: Polygon Website
+
+The Dragon Quest games have hewed to tradition over the past four decades. Series creator Yuji Horii, inspired by Ultima and Wizardry, aimed to bring role-playing games to the masses with simplicity and a smile. That same philosophy is applied to Dragon Quest 3 HD-2D Remake, a new version of the 1988 original that retains [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/478796/dragon-quest-3-hd-2d-remake>
 
 ---
 

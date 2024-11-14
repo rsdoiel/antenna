@@ -1,11 +1,87 @@
 ---
 title: food
-updated: 2024-11-13 17:07:28
+updated: 2024-11-14 08:24:11
 ---
 
 # food
 
-(date: 2024-11-13 17:07:28)
+(date: 2024-11-14 08:24:11)
+
+---
+
+## Buldak Fire Chicken With Rice Cakes
+
+date: 2024-11-14, from: Bon Appetet
+
+Bouncy rice cakes turn this spicy Korean classic into a perfect weeknight dinner. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/cheesy-buldak-fire-chicken-rice-cakes>
+
+---
+
+## Why Draft Beer Drinking Is In Decline
+
+date: 2024-11-14, from: Bon Appetet
+
+Why ordering a draft beer might soon become a thing of the past 
+
+<br> 
+
+<https://www.bonappetit.com/story/draft-beer-decline>
+
+---
+
+## GCP: 73% of Coffee from Nine Major Buyers Meets Sustainability Baseline
+
+date: 2024-11-14, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/robusta-coffee-620x414.jpg" class="attachment-large size-large wp-post-image" alt="robusta coffee" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/robusta-coffee-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/robusta-coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/robusta-coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/robusta-coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/robusta-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Approximately 73% of the green coffee purchased by nine of the world&#8217;s largest buyers in 2023 met a recognized baseline sustainability standard, according to the latest annual report from the... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/11/14/gcp-73-of-coffee-from-nine-major-buyers-meets-sustainability-baseline/>
+
+---
+
+## Trish Rothgeb: The Sprudge Twenty Interview
+
+date: 2024-11-14, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. We interview 2024 Sprudge Twenty inductee Trish Rothgeb of Wrecking Ball Coffee. 
+
+<br> 
+
+<https://sprudge.com/trish-rothgeb-the-sprudge-twenty-interview-258811.html>
+
+---
+
+## At Bogotá's Prudencia, the Four-Hour Lunch is an Art Form
+
+date: 2024-11-14, from: Bon Appetet
+
+At Prudencia, seven courses and all the time in the world are always on the menu. 
+
+<br> 
+
+<https://www.bonappetit.com/story/prudencia-restaurant-bogota-colombia-travel>
+
+---
+
+## Garlic Butter Parmesan Rice
+
+date: 2024-11-14, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2024/11/Garlic-Butter-Parmesan-Rice-1200-0957.jpg"/></div>
+<p>Rice, kicked up a few notches, with plenty of butter, garlic and parmesan! A side dish that&#8217;s the star of the meal! Rice is a staple side dish and although it can be a little boring, it&#8217;s easy to make it exciting! This garlic butter parmesan is just packed with flavour and it&#8217;s sure to...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/garlic-butter-parmesan-rice/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/garlic-butter-parmesan-rice/">Garlic Butter Parmesan Rice</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/garlic-butter-parmesan-rice/>
 
 ---
 
@@ -34,6 +110,18 @@ date: 2024-11-14, from: Taste of Home
 <br> 
 
 <https://www.tasteofhome.com/article/flavor-of-the-century/>
+
+---
+
+## Doritos Casserole
+
+date: 2024-11-13, from: Taste of Home
+
+Skip the snacking and make it a real meal with our Doritos casserole recipe. It has everything you love about nachos—like cheese, beans and sour cream—but with even more flavor. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/doritos-casserole/>
 
 ---
 
@@ -117,7 +205,7 @@ date: 2024-11-13, from: The Sprudge
 
 date: 2024-11-13, from: Daily Coffee News
 
-<div><img width="620" height="384" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/JNP-Burundi-coffee-center-620x384.png" class="attachment-large size-large wp-post-image" alt="JNP Burundi coffee center" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/JNP-Burundi-coffee-center-620x384.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/JNP-Burundi-coffee-center-300x186.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/JNP-Burundi-coffee-center-150x93.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/JNP-Burundi-coffee-center-768x476.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/JNP-Burundi-coffee-center.png 966w" sizes="(max-width: 620px) 100vw, 620px" /></div>Green coffee trading company JNP Coffee is leading the creation of a coffee academy and separate dry mill in Burundi. The academy is being designed to train to women and... 
+<div><img width="620" height="384" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/JNP-Burundi-coffee-center-620x384.png" class="attachment-large size-large wp-post-image" alt="JNP Burundi coffee center" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/JNP-Burundi-coffee-center-620x384.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/JNP-Burundi-coffee-center-300x186.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/JNP-Burundi-coffee-center-150x93.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/JNP-Burundi-coffee-center-768x476.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/JNP-Burundi-coffee-center.png 966w" sizes="(max-width: 620px) 100vw, 620px" /></div>Green coffee trading company JNP Coffee is leading the creation of a coffee academy and separate dry mill in Burundi. The academy is being designed to train to women and... 
 
 <br> 
 
@@ -153,7 +241,7 @@ date: 2024-11-13, from: The Sprudge
 
 date: 2024-11-13, from: Daily Coffee News
 
-<div><img width="620" height="429" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/Circular-Coffee-Economy-620x429.png" class="attachment-large size-large wp-post-image" alt="Circular Coffee Economy" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/Circular-Coffee-Economy-620x429.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Circular-Coffee-Economy-300x208.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Circular-Coffee-Economy-150x104.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Circular-Coffee-Economy-768x531.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Circular-Coffee-Economy.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>In its latest flagship annual report, the Coffee Development Report, the International Coffee Organization (ICO) outlines the prospects of a circular economy in coffee against the backdrop of climate change.... 
+<div><img width="620" height="429" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/Circular-Coffee-Economy-620x429.png" class="attachment-large size-large wp-post-image" alt="Circular Coffee Economy" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/Circular-Coffee-Economy-620x429.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Circular-Coffee-Economy-300x208.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Circular-Coffee-Economy-150x104.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Circular-Coffee-Economy-768x531.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Circular-Coffee-Economy.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>In its latest flagship annual report, the Coffee Development Report, the International Coffee Organization (ICO) outlines the prospects of a circular economy in coffee against the backdrop of climate change.... 
 
 <br> 
 
@@ -170,6 +258,18 @@ A new wave of hyper-regional, terroir-driven agave-based spirits have arrived St
 <br> 
 
 <https://www.bonappetit.com/story/tequila-mezcal-alternatives-to-try>
+
+---
+
+## Peppermint Espresso Martini
+
+date: 2024-11-13, from: Taste of Home
+
+Reminiscent of candy canes and cozy winter nights, this peppermint espresso martini will have you dreaming of sleigh bells and snowflakes. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/peppermint-espresso-martini/>
 
 ---
 

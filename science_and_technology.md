@@ -1,11 +1,239 @@
 ---
 title: science and technology
-updated: 2024-11-13 17:07:25
+updated: 2024-11-14 08:24:08
 ---
 
 # science and technology
 
-(date: 2024-11-13 17:07:25)
+(date: 2024-11-14 08:24:08)
+
+---
+
+## NASA Seeks Options for Future Headquarters Building
+
+date: 2024-11-14, from: NASA breaking news
+
+As the agency continues to explore for the benefit of all, NASA is in the process of searching for a new headquarters facility in Washington or the immediate surrounding area. The current NASA Headquarters lease expires in August 2028, and the agency already has evaluated multiple options including leasing or purchasing within the District of [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/hq/nasa-seeks-options-for-future-headquarters-building/>
+
+---
+
+## Broadcom makes VMware Workstation and Fusion free for everyone
+
+date: 2024-11-14, updated: 2024-11-14, from: The Register (UK I.T. News)
+
+<h4>And yes, that <em>does</em> include commercial use in production</h4> <p>Broadcom has made its desktop hypervisors freeware – even for production use. Not open source, but free stuff is still good, right?…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/14/vmware_workstation_free/>
+
+---
+
+## NASA’s Hubble Sees Aftermath of Galaxy’s Scrape with Milky Way
+
+date: 2024-11-14, from: NASA breaking news
+
+A story of survival is unfolding at the outer reaches of our galaxy, and NASA’s Hubble Space Telescope is witnessing the saga. The Large Magellanic Cloud, also called the LMC, is one of the Milky Way galaxy’s nearest neighbors. This dwarf galaxy looms large on the southern nighttime sky at 20 times the apparent diameter […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/nasas-hubble-sees-aftermath-of-galaxys-scrape-with-milky-way/>
+
+---
+
+## Telescope for NASA’s Roman Mission Complete, Delivered to Goddard
+
+date: 2024-11-14, from: NASA breaking news
+
+NASA’s Nancy Grace Roman Space Telescope is one giant step closer to unlocking the mysteries of the universe. The mission has now received its final major delivery: the Optical Telescope Assembly, which includes a 7.9-foot (2.4-meter) primary mirror, nine additional mirrors, and supporting structures and electronics. The assembly was delivered Nov. 7. to the largest [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/roman-space-telescope/telescope-for-nasas-roman-mission-complete-delivered-to-goddard/>
+
+---
+
+## Datacenters line up for 750MW of Oklo's nuclear-waste-powered small reactors
+
+date: 2024-11-14, updated: 2024-11-14, from: The Register (UK I.T. News)
+
+<h4>What was it they say? Out with the old and in with the nucleus</h4> <p>Increasingly, datacenter operators are putting their faith in the promise of miniaturized nuclear power plants – better known as small modular reactors (SMRs) – to fuel their ever-growing energy demands.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/14/datacenter_oklo_750mw/>
+
+---
+
+## Microsoft 365 Copilot goes monthly for a 5% premium and annual commitment
+
+date: 2024-11-14, updated: 2024-11-14, from: The Register (UK I.T. News)
+
+<h4>Other subscriptions also set for updates in the name of &#39;cash flow flexibility&#39;</h4> <p>Microsoft is introducing flexible billing for Microsoft 365 Copilot starting next month to spread the cost of an annual subscription. For a price.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/14/microsoft_365_copilot_monthly/>
+
+---
+
+## Fedora 41: A vast assortment, but there's something for everyone
+
+date: 2024-11-14, updated: 2024-11-14, from: The Register (UK I.T. News)
+
+<h4>It&#39;s the Heinz of Linux – but that only boasted 57 varieties</h4> <p>At the end of October, Fedora 41 came out, with more different variants than ever before: 29 by our count, not including all the architectures and download options.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/14/fedora_41_a_vast_assortment/>
+
+---
+
+## Kids' shoemaker Start-Rite trips over security again, spilling customer card info
+
+date: 2024-11-14, updated: 2024-11-14, from: The Register (UK I.T. News)
+
+<h4>Full details exposed, putting shoppers at serious risk of fraud</h4> <p><strong>Updated</strong>  Children&#39;s shoemaker Start-Rite is dealing with a nasty &#34;security incident&#34; involving customer payment card details, its second significant lapse during the past eight years.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/14/smartrite_breach/>
+
+---
+
+## NatWest blocks bevy of apps in clampdown on unmonitorable comms
+
+date: 2024-11-14, updated: 2024-11-14, from: The Register (UK I.T. News)
+
+<h4>From guidance to firm action... no more WhatsApp, Meta&#39;s Messenger, Signal, Telegram and more</h4> <p>The full list of messaging apps officially blocked by Brit banking and insurance giant NatWest Group is more extensive than WhatsApp, Meta&#39;s Messenger, and Skype – as first reported.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/14/natwest_blocks_bevy_of_apps/>
+
+---
+
+## Herman Melville's Great American Novel, 'Moby-Dick,' Only Got Mixed Reviews When It First Hit Bookstores
+
+date: 2024-11-14, from: Smithsonian Magazine
+
+The now-beloved book, which centers on a sailor seeking revenge against a sperm whale, was initially met with lukewarm sales, only achieving iconic status after the author's death 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/discover-the-origins-and-early-criticism-of-herman-melvilles-great-american-novel-moby-dick-180985272/>
+
+---
+
+## Asda security chief replaced, retailer sheds jobs during Walmart tech divorce
+
+date: 2024-11-14, updated: 2024-11-14, from: The Register (UK I.T. News)
+
+<h4>British grocer&#39;s workers called back to office as clock ticks for contractors</h4> <p>The head of tech security at Asda, the UK&#39;s third-largest food retailer, has left amid an ongoing tech divorce from US grocery giant Walmart.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/14/senior_tech_departure_asda/>
+
+---
+
+## Five Eyes infosec agencies list 2024's most exploited software flaws
+
+date: 2024-11-14, updated: 2024-11-14, from: The Register (UK I.T. News)
+
+<h4>Slack patching remains a problem – which is worrying as crooks increasingly target zero-day vulns</h4> <p>The cyber security agencies of the UK, US, Canada, Australia, and New Zealand have issued their annual list of the 15 most exploited vulnerabilities, and warned that attacks on zero-day exploits have become more common.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/14/five_eyes_2024_top_vulnerabilities/>
+
+---
+
+## Academic papers yanked after authors found to have used unlicensed software
+
+date: 2024-11-14, updated: 2024-11-14, from: The Register (UK I.T. News)
+
+<h4>Dam, the consequences</h4> <p><strong>Updated</strong>  An academic journal has retracted two papers because it determined their authors used unlicensed software.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/14/academic_papers_retracted_software_licensing/>
+
+---
+
+## Apple hit with £3 billion claim over iCloud pricing and packaging practices
+
+date: 2024-11-14, updated: 2024-11-14, from: The Register (UK I.T. News)
+
+<h4>Consumer champion Which? not amused by fruit-based giant&#39;s alleged preference for its own cloud storage service</h4> <p>UK consumer group Which? has filed a £3 billion action against Apple over alleged competition law breaches related to its iCloud service.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/14/apple_sued_icloud_uk/>
+
+---
+
+## TSMC confirms 'unexploded ordnance' removed from wafer fab construction site
+
+date: 2024-11-14, updated: 2024-11-14, from: The Register (UK I.T. News)
+
+<h4>Probably a relic of a Japanese WWII naval site</h4> <p>TSMC has confirmed that workers were evacuated from one of its construction sites in Taiwan after discovery of an unexploded bomb.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/14/tsmc_bomb_found_construction_site/>
+
+---
+
+## Starlink finally files proper paperwork to operate in India
+
+date: 2024-11-14, updated: 2024-11-14, from: The Register (UK I.T. News)
+
+<h4>Government both excited and cautious about benefits of Muskband</h4> <p>Starlink is in the process of procuring clearances for operation in India according to the nation&#39;s telecom minister, Jyotiraditya Scindia.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/14/starlink_india_again/>
+
+---
+
+## Amazon leaves Snowcone data migration boxes and older Snowball edge kit out to melt
+
+date: 2024-11-14, updated: 2024-11-14, from: The Register (UK I.T. News)
+
+<h4>Don&#39;t worry, existing users have another year to use &#39;em or lose &#39;em</h4> <p>Amazon Web Services is pulling the plug on its Snowcone data migration devices and will sunset all but the latest crop of its Snowball edge appliances.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/14/amazon_snowcone_eol/>
+
+---
+
+## Reminder: China-backed crews compromised 'multiple' US telcos in 'significant cyber espionage campaign'
+
+date: 2024-11-14, updated: 2024-11-14, from: The Register (UK I.T. News)
+
+<h4>Feds don&#39;t name Salt Typhoon, but describe Beijing band&#39;s alleged deeds</h4> <p>The US government has confirmed there was &#34;a broad and significant cyber espionage campaign&#34; conducted by China-linked snoops against &#34;multiple&#34; American telecommunications providers&#39; networks.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/14/salt_typhoon_hacked_multiple_telecom/>
+
+---
+
+## Google drastically improves quality of the Android Emulator
+
+date: 2024-11-14, from: OS News
+
+One of the things I&#8217;ve consistently heard from just about anyone involved in Android development are laments about the sorry state of the Android Emulator included in Google&#8217;s Android Studio. It seems that particularly its performance is not great, with people often resorting to third-party options or real devices. Well, it seems the Android development team at Google has taken this to heart, and has spent six months focusing almost solely on fixing up the Android Emulator. We know how critical the stability, reliability, and performance of the Android Emulator is to your everyday work as an Android developer. After listening to valuable feedback about stability, reliability, and performance, the Android Studio team took a step back from large feature work on the Android Emulator for six months and started an initiative called Project Quartz. This initiative was made up of several workstreams aimed at reducing crashes, speeding up startup time, closing out bugs, and setting up better ways to detect and prevent issues in the future. ↫ Neville Sicard-Gregory at the Android Developers Blog Steps taken include moving to a newer version of Qt for the user interface of the emulator, improving the graphics rendering system used in the Android Emulator, and adding a whole bunch of tests to their existing test suite. The end result is that the number of crashes in the Android Emulator dropped by 30%, which, if bourne out out in the real world, will have a material impact for Android developers. During the Project Quartz effort, Google also cut the number of open issues by 44%, but they do note only 17% of those were fixed during Project Quartz, with the remainder being obsoleted or previously fixed issues. If you download or update to the latest version of Android Studio, you&#8217;ll get the new and improved Android Emulator as well. 
+
+<br> 
+
+<https://www.osnews.com/story/141117/google-drastically-improves-quality-of-the-android-emulator/>
 
 ---
 
@@ -47,9 +275,9 @@ date: 2024-11-13, updated: 2024-11-13, from: The Register (UK I.T. News)
 
 ## TSMC's US operations threatened with employee discrimination class action
 
-date: 2024-11-13, updated: 2024-11-13, from: The Register (UK I.T. News)
+date: 2024-11-13, updated: 2024-11-14, from: The Register (UK I.T. News)
 
-<h4>Allegedly it&#39;s hard to get ahead at the chipmaker unless you speak Mandarin</h4> <p>Taiwan Semiconductor Manufacturing Company (TSMC) has been accused of “pervasive discrimination” against some of its workers in the USA.…</p> 
+<h4>Allegedly it&#39;s hard to get ahead at the chipmaker unless you speak Mandarin</h4> <p><strong>Updated</strong>  Taiwan Semiconductor Manufacturing Company (TSMC) has been accused of “pervasive discrimination” against some of its workers in the USA.…</p> 
 
 <br> 
 
@@ -455,7 +683,7 @@ date: 2024-11-13, updated: 2024-11-13, from: The Register (UK I.T. News)
 
 ## Apple drops soldered storage for 2024 Mac Mini
 
-date: 2024-11-13, updated: 2024-11-13, from: The Register (UK I.T. News)
+date: 2024-11-13, updated: 2024-11-14, from: The Register (UK I.T. News)
 
 <h4>iFixit teardown finds a removable SSD. Time to party like its 2010?</h4> <p><strong>Updated</strong>  The iFixit team has pulled apart Apple&#39;s new Mac Mini, revealing replaceable storage and a slightly more modular design - concessions to repairability that warrant an impressive provisional score.…</p> 
 
@@ -935,7 +1163,7 @@ date: 2024-11-12, updated: 2024-11-12, from: The Register (UK I.T. News)
 
 ## HTTP your way into Citrix's Virtual Apps and Desktops with fresh exploit code
 
-date: 2024-11-12, updated: 2024-11-12, from: The Register (UK I.T. News)
+date: 2024-11-12, updated: 2024-11-14, from: The Register (UK I.T. News)
 
 <h4>&#39;Once again, we&#39;ve lost a little more faith in the internet,&#39; researcher says</h4> <p>Researchers are publicizing a proof of concept (PoC) exploit for what they&#39;re calling an unauthenticated remote code execution (RCE) vulnerability in Citrix&#39;s Virtual Apps and Desktops.…</p> 
 

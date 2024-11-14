@@ -1,11 +1,236 @@
 ---
 title: columns
-updated: 2024-11-13 17:07:26
+updated: 2024-11-14 08:24:09
 ---
 
 # columns
 
-(date: 2024-11-13 17:07:26)
+(date: 2024-11-14 08:24:09)
+
+---
+
+##  The Threat of Trumpism Is Real. So Is the Need for Rest.... 
+
+date: 2024-11-14, updated: 2024-11-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045635-the-threat-of-trumpism-is>
+
+---
+
+## Broadcom makes VMware Workstation and Fusion free for everyone
+
+date: 2024-11-14, updated: 2024-11-14, from: Liam Proven's articles at the Register
+
+<h4>And yes, that <em>does</em> include commercial use in production</h4>
+      <p>Broadcom has made its desktop hypervisors freeware – even for production use. Not open source, but free stuff is still good, right?</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/11/14/vmware_workstation_free/>
+
+---
+
+##  Baby Evacuation Aprons 
+
+date: 2024-11-14, updated: 2024-11-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/baby-evacuation-aprons>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-14, from: Dave Winer's Scripting News)
+
+A few days ago I saw <a href="https://en.wikipedia.org/wiki/Donald_Fagen">Donald Fagen</a> at a local supermarket. I had heard he lives in the area. I didn't bother him, I imagine a star like that enjoys moments as an ordinary person, but he's anything but. I'm listening to <a href="https://www.youtube.com/watch?v=dKMCz1b2RxE">Haitian Divorce</a> this morning, grinning from ear to ear as I sing along. 
+
+<br> 
+
+<http://scripting.com/2024/11/14.html#a145834>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-14, from: Dave Winer's Scripting News)
+
+Today's song: <a href="https://www.youtube.com/watch?v=dKMCz1b2RxE">Who's this kinky so and so</a>. 
+
+<br> 
+
+<http://scripting.com/2024/11/14.html#a145754>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-14, from: Dave Winer's Scripting News)
+
+We're going to open testing for <a href="https://this.how/wordland/">WordLand</a> shortly. At first I only want developers who write great bug reports. My goal is to speed up development and reduce wear and tear on me. Once we're confident it really works as advertised, we'll open up the testing further. There will be a form you can fill out to get in the queue. The choice of the first testers will be highly subjective. 
+
+<br> 
+
+<http://scripting.com/2024/11/14.html#a144912>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-14, from: Dave Winer's Scripting News)
+
+<a href="http://scripting.com/2023/11/14.html#a144157">Last year on this day</a>: We have too many modes of writing. I just wrote a blog post that's also a tweet. Why didn't it go to my followers on all the social nets I'm on? Why do I have to use a different editor to post to each of the services? That's the point of Textcasting, btw. 
+
+<br> 
+
+<http://scripting.com/2024/11/14.html#a144814>
+
+---
+
+## Workshop season six, episode three
+
+date: 2024-11-14, from: Daniel Stenberg Blog
+
+One positive thing among many others at this version of the HTTP Workshop (day one, day two) is the fact that there have been several new faces showing up here. People who have not previously attended any HTTP Workshops. Getting fresh blood into the mix is great. A chance to maybe lower the average ago &#8230; <a href="https://daniel.haxx.se/blog/2024/11/14/workshop-season-six-episode-three/" class="more-link">Continue reading <span class="screen-reader-text">Workshop season six, episode three</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2024/11/14/workshop-season-six-episode-three/>
+
+---
+
+##  Actually not an Onion article: The Onion Says It Has Bought Infowars,... 
+
+date: 2024-11-14, updated: 2024-11-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045633-actually-not-an-onion-art>
+
+---
+
+## Fedora 41: A vast assortment, but there's something for everyone
+
+date: 2024-11-14, updated: 2024-11-14, from: Liam Proven's articles at the Register
+
+<h4>It&#39;s the Heinz of Linux – but that only boasted 57 varieties</h4>
+      <p>At the end of October, Fedora 41 came out, with more different variants than ever before: 29 by our count, not including all the architectures and download options.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/11/14/fedora_41_a_vast_assortment/>
+
+---
+
+## New iOS Security Feature Makes It Harder for Police to Unlock Seized Phones
+
+date: 2024-11-14, updated: 2024-11-13, from: Bruce Schneier blog
+
+<p><a href="https://gizmodo.com/iphones-seized-by-cops-are-rebooting-and-no-ones-sure-why-2000522048">Everybody</a> <a href="https://www.theverge.com/2024/11/9/24292092/ios-18-security-inactivity-reboot-police-complain-unlocking-iphone-difficult">is</a> <a href="https://www.macrumors.com/2024/11/07/ios-18-forcing-reboots-law-enforcement/">reporting</a> <a href="https://gizmodo.com/cops-have-less-time-to-break-into-iphones-thanks-to-ios-18-1-security-measure-2000522523">about</a> <a href="https://www.404media.co/police-freak-out-at-iphones-mysteriously-rebooting-themselves-locking-cops-out/">a</a> new security iPhone security feature with iOS 18: if the phone hasn&#8217;t been used for a few days, it automatically goes into its &#8220;Before First Unlock&#8221; state and has to be rebooted.</p>
+<p>This is a really good security feature. But various police departments don&#8217;t like it, because it makes it harder for them to unlock suspects&#8217; phones.</p>
+<p>The post <a href="https://www.schneier.com/blog/archives/2024/11/new-ios-security-feature-makes-it-harder-for-police-to-unlock-seized-phones.html">New iOS Security Feature Makes It Harder for Police to Unlock Seized Phones</a> appeared first on <a href="https://www.schneier.com">Schneier on Security</a>.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/11/new-ios-security-feature-makes-it-harder-for-police-to-unlock-seized-phones.html>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-11-14, from: Miguel de Icaza Mastondon feed)
+
+<p>New source of inspiration just dropped!</p><p><a href="https://www.apple.com/newsroom/2024/11/final-cut-pro-11-begins-a-new-chapter-for-video-editing-on-mac/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">apple.com/newsroom/2024/11/fin</span><span class="invisible">al-cut-pro-11-begins-a-new-chapter-for-video-editing-on-mac/</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113481188095992580>
+
+---
+
+## 2024-11-13 A big memex
+
+date: 2024-11-14, from: Alex Schroeder's Blog
+
+<h1 id="2024-11-13-a-big-memex">2024-11-13 A big memex</h1>
+
+<p>How big are your memories? Some days they seem endless.
+Perhaps you started using an external add-on brain, a memory extender (memex) – a blog, like I did.
+It&rsquo;s about 20 years old, now.
+The <a href="archives">archives</a> show the first blog posts showed up in 2002.
+I think I copied some entries over from Meatball, at the time.
+So I&rsquo;m not entirely sure when this particular site started.</p>
+
+<p>Back then, I was big into wikis.
+I was a <a href="http://meatballwiki.org/">Meatball Wiki</a> regular.
+The <a href="https://en.wikipedia.org/wiki/Blog">history of blogs</a> show that they entered the mainstream around 2004.
+I thought they were for people who couldn&rsquo;t edit and couldn&rsquo;t collaborate.
+The text is written and then sinks to the bottom to join the forgotten posts of the past.
+Wiki pages, on the other hand, were forever!</p>
+
+<p>This site started as a wiki.
+And then something happened: I realized that the things I wanted to write under one heading changed over time.
+Sometimes I changed my mind.
+Sometimes I cared for a different aspect.
+I realized that I couldn&rsquo;t go back to edit the old pages and just replace the old words with the new words.
+I wanted to capture this slow churn.</p>
+
+<p>All of this came back to me when <a class="account" href="https://merveilles.town/@somi" title="@somi@merveilles.town">@somi</a> asked on fedi:</p>
+
+<blockquote>
+<p>for those that maintain personal wikis by hand, how do you approach it generally? Do you try and associate pages by topic? Do you maintain some sort of hierarchical table-of-contents? Maybe you tag stuff? Do you put it all in one big bag?</p>
+</blockquote>
+
+<p>Now you know what happened.
+My site started as a wiki and has drifted towards a blog.</p>
+
+<p>How it works:
+The blog posts are wiki pages starting with an ISO date.
+These pages are automatically added to the front page.</p>
+
+<p>Pages have hashtags and if a page with that name exists (not all hashtag pages exist) then a link from the hashtag page back to the tagged blog post gets added automatically.
+The result is that every hashtag page has a subset of my blog posts, gathering all the blog posts for that particular topic.</p>
+
+<p>If I write about a thing, I use hashtags.
+After a while I might think that I&rsquo;ve written so much about this topic, time to create a dedicated page for this hashtag.
+I add a list of links to existing pages with that tag and from now on pages with this hashtag get added automatically.</p>
+
+<p>Visitors (and I) can visit the hashtag page to see how my writing about the topic has evolved (or not).</p>
+
+<p>I think the big driver of this is that my memex is over twenty years old and has thousands of pages.
+Going back to old pages to update them does not works for me. 😧</p>
+
+<p>Writing more about a topic, and linking old and new does work.</p>
+
+<p><a class="tag" href="/search/?q=%23Wikis">#Wikis</a> <a class="tag" href="/search/?q=%23Blogs">#Blogs</a> <a class="tag" href="/search/?q=%23Oddmu">#Oddmu</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2024-11-13-big-memex>
+
+---
+
+## There was no mandate for Trump. There was no red shift. There was only a blue abandonment
+
+date: 2024-11-14, from: Robert Reich's blog
+
+The real mandate is for Democrats to stand for a fairer economy. 
+
+<br> 
+
+<https://robertreich.substack.com/p/there-was-no-red-shift-there-was>
+
+---
+
+## November 13, 2024 
+
+date: 2024-11-14, from: Heather Cox Richardson blog
+
+Republican senators today elected John Thune of South Dakota to be the next Senate majority leader. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/november-13-2024>
 
 ---
 
@@ -25,7 +250,7 @@ date: 2024-11-14, updated: 2024-11-14, from: Daring Fireball
 
 date: 2024-11-13, from: Robert Reich's blog
 
-The nomination is really Trump&#8217;s loyalty test of Senate Republicans: If they go along, there&#8217;s nothing they won&#8217;t go along with. 
+The nomination is really Trump&#8217;s loyalty test of Senate Republicans: If they go along, there&#8217;s nothing they won&#8217;t agree to. 
 
 <br> 
 
@@ -57,7 +282,7 @@ date: 2024-11-13, updated: 2024-11-13, from: Jason Kittke's blog
 
 ---
 
-##  Jon Baptiste Hears Green Day for the First Time 
+##  Jon Batiste Hears Green Day for the First Time 
 
 date: 2024-11-13, updated: 2024-11-13, from: Jason Kittke's blog
 
@@ -242,8 +467,7 @@ date: 2024-11-13, updated: 2024-11-13, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2024-11-13, from: Dave Winer's Scripting News)
 
-I am working on a text editor for WordPress using MediumEditor, but I save the text in Markdown and when I reload the Markdown text I regenerate the HTML. I think the social web should exchange Markdown as the canonical form of web text. It has the right set of features, it's <a href="http://scripting.com/2022/08/25/210902.html">Just Enough HTML</a>.
- 
+I am working on a text editor for WordPress using MediumEditor, but I save the text in Markdown and when I reload the Markdown text I regenerate the HTML. I think the social web should exchange Markdown as the canonical form of web text. It has the right set of features, it's <a href="http://scripting.com/2022/08/25/210902.html">Just Enough HTML</a>. 
 
 <br> 
 
@@ -368,68 +592,6 @@ The backdrop for today&#8217;s news is that Republicans in the Senate will vote 
 <br> 
 
 <https://heathercoxrichardson.substack.com/p/november-12-2024>
-
----
-
-## 2024-11-13 A big memex
-
-date: 2024-11-13, from: Alex Schroeder's Blog
-
-<h1 id="2024-11-13-a-big-memex">2024-11-13 A big memex</h1>
-
-<p>How big are your memories? Some days they seem endless.
-Perhaps you started using an external add-on brain, a memory extender (memex) – a blog, like I did.
-It&rsquo;s about 20 years old, now.
-The <a href="archives">archives</a> show the first blog posts showed up in 2002.
-I think I copied some entries over from Meatball, at the time.
-So I&rsquo;m not entirely sure when this particular site started.</p>
-
-<p>Back then, I was big into wikis.
-I was a <a href="http://meatballwiki.org/">Meatball Wiki</a> regular.
-The <a href="https://en.wikipedia.org/wiki/Blog">history of blogs</a> show that they entered the mainstream around 2004.
-I thought they were for people who couldn&rsquo;t edit and couldn&rsquo;t collaborate.
-The text is written and then sinks to the bottom to join the forgotten posts of the past.
-Wiki pages, on the other hand, were forever!</p>
-
-<p>This site started as a wiki.
-And then something happened: I realized that the things I wanted to write under one heading changed over time.
-Sometimes I changed my mind.
-Sometimes I cared for a different aspect.
-I realized that I couldn&rsquo;t go back to edit the old pages and just replace the old words with the new words.
-I wanted to capture this slow churn.</p>
-
-<p>All of this came back to me when <a class="account" href="https://merveilles.town/@somi" title="@somi@merveilles.town">@somi</a> asked on fedi:</p>
-
-<blockquote>
-<p>for those that maintain personal wikis by hand, how do you approach it generally? Do you try and associate pages by topic? Do you maintain some sort of hierarchical table-of-contents? Maybe you tag stuff? Do you put it all in one big bag?</p>
-</blockquote>
-
-<p>Now you know what happened.
-My site started as a wiki and has drifted towards a blog.</p>
-
-<p>How it works:
-The blog posts are wiki pages starting with an ISO date.
-Links to pages that start with a date (most of them) are automatically added to the front page.</p>
-
-<p>Pages have hashtags and if these pages exist (not all hashtag pages exist) then a link from the hashtag page back to the tagged page gets added automatically.
-The result is that every hashtag page has a subset of the blog posts, gathering all the blog entries for that particular topic.</p>
-
-<p>If I write about a thing, I use hashtags.
-After a while I might think that I&rsquo;ve written so much about this topic, time to create a dedicated page for this hashtag.
-I add a list of links to existing pages with that tag and from now on pages with this hashtag get added automatically.</p>
-
-<p>Visitors (and I) can visit the hashtag page to see how my writing about the topic has evolved (or not).</p>
-
-<p>I think the big driver of this is that my memex is over twenty years old and has thousands of pages.
-Going back to old pages to update them does not works for me. 😧</p>
-
-<p>Writing more about a topic, and linking old and new does work.</p>
-
-<p><a class="tag" href="/search/?q=%23Wikis">#Wikis</a> <a class="tag" href="/search/?q=%23Blogs">#Blogs</a> <a class="tag" href="/search/?q=%23Oddmu">#Oddmu</a></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2024-11-13-big-memex>
 
 ---
 

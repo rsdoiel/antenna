@@ -1,11 +1,256 @@
 ---
 title: journalism
-updated: 2024-11-13 17:07:27
+updated: 2024-11-14 08:24:09
 ---
 
 # journalism
 
-(date: 2024-11-13 17:07:27)
+(date: 2024-11-14 08:24:09)
+
+---
+
+## Former Chancellor Dr. Diane Van Hook files wrongful termination lawsuit versus College District
+
+date: 2024-11-14, from: The Canyon News (COC Student Newspaper)
+
+<p>From college leader to legal adversary, former Chancellor Dr. Diane Van Hook&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/dr-diane-van-hook-lawsuit/">Former Chancellor Dr. Diane Van Hook files wrongful termination lawsuit versus College District</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/dr-diane-van-hook-lawsuit/>
+
+---
+
+## Classifieds – November 14, 2024
+
+date: 2024-11-14, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/14/classifieds-november-14-2024/">Classifieds &#8211; November 14, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/14/classifieds-november-14-2024/>
+
+---
+
+## Broken Hearts Club mends LA souls
+
+date: 2024-11-14, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Students put together a concert of heartbreak led by USC musicians at The Mint.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/14/broken-hearts-club-mends-la-souls/">Broken Hearts Club mends LA souls</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/14/broken-hearts-club-mends-la-souls/>
+
+---
+
+## Soju and skewers: Dan Sung Sa is a Korean pocha escape
+
+date: 2024-11-14, from: The Daily Trojan (USC Student Newspaper)
+
+<p> Yogurt cocktails and grilled bar food can be found at Dan Sung Sa in Koreatown. </p>
+<p>The post <a href="https://dailytrojan.com/2024/11/14/soju-and-skewers-dan-sung-sa-is-a-korean-pocha-escape/">Soju and skewers: Dan Sung Sa is a Korean pocha escape</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/14/soju-and-skewers-dan-sung-sa-is-a-korean-pocha-escape/>
+
+---
+
+## Natural History Museum opens public wing, community hub
+
+date: 2024-11-14, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Angelenos will not require tickets to experience the museum’s Welcome Center.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/14/natural-history-museum-opens-public-wing-community-hub/">Natural History Museum opens public wing, community hub</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/14/natural-history-museum-opens-public-wing-community-hub/>
+
+---
+
+## Students honor Native American Heritage Month
+
+date: 2024-11-14, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The event had performances of traditional bird songs and informational booths.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/14/students-honor-native-american-heritage-month/">Students honor Native American Heritage Month</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/14/students-honor-native-american-heritage-month/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-14, from: The Daily Bruin (UCLA Student Newspaper))
+
+Michael Machat, attorney for Rodriguez, asked Holbrook why his daughter was not taken to a pediatrician immediately. Holbook said by the time he and Kim were made aware, it had been too long. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/13/473835/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-14, from: The Daily Bruin (UCLA Student Newspaper))
+
+Holbrook said he received an email – which had also been sent to other individuals – from Rodriguez on Dec. 13, 2023, apologizing for his behavior not being of &#8220;best practice.&#8221; 
+
+<br> 
+
+<https://dailybruin.com/2024/11/13/473833/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-14, from: The Daily Bruin (UCLA Student Newspaper))
+
+Kim is not currently suing UCLA, saying she is &#8220;focused on the criminal trial&#8221; and justice being served. Kim&#8217;s husband, Andrew Holbrook, said on the witness stand that they have discussed the possibility of suing UCLA with civil attorney Danielle De Smeth. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/13/473831/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-14, from: The Daily Bruin (UCLA Student Newspaper))
+
+Kim said her daughter first mentioned Rodriguez touching and hitting her Jan. 13, nearly a month after receiving a call from Alicia Minor Brown – director of early care and education – on Dec. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/13/473829/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-14, from: The Daily Bruin (UCLA Student Newspaper))
+
+Amid her daughter&#8217;s behavioral changes, Kim said she decided to record an interaction of her daughter being upset when her father was seeking to change her clothes, saying she could see her daughter becoming visibly upset. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/13/473827/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-14, from: The Daily Bruin (UCLA Student Newspaper))
+
+Shirley Kim was asked by her attorney, Jennifer Waxler, on the details of how her daughter – one of the accusing children in the case – was prepared for trial. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/13/473825/>
+
+---
+
+## UC Board of Regents Health Committee reviews state of UC Health, plans for future
+
+date: 2024-11-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+SAN FRANCISCO &#8211; Members of the UC Board of Regents Health Services Committee discussed the state of the UC Health system and its impact on the California community during its November meeting. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/13/uc-board-of-regents-health-committee-reviews-state-of-uc-health-plans-for-future/>
+
+---
+
+## LAPD report finds police failed to coordinate amid Palestine solidarity encampment
+
+date: 2024-11-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+A draft LAPD report Nov. 5 found policing agencies failed to coordinate in response to the UCLA Palestine solidarity encampment.
+The report, written by then-Interim Chief of Police Dominic Choi, reviewed the role LAPD played in the police response to protests at UCLA between April 24 and May 7. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/13/lapd-report-finds-police-failed-to-coordinate-amid-palestine-solidarity-encampment/>
+
+---
+
+## Art exhibit review: ‘Exploring the Alps’ expresses wide range of mediums but fails to reach its peak
+
+date: 2024-11-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Getty Center&#8217;s look at an iconic mountain range presents a clever historical angle but leaves something to be desired.
+&#8220;Exploring the Alps&#8221; opened Tuesday at the Los Angeles art museum and will be on show until April 27, 2025. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/13/art-exhibit-review-exploring-the-alps-expresses-wide-range-of-mediums-but-fails-to-reach-its-peak/>
+
+---
+
+## Like A Dragon: Yakuza review—A mixed bag and distorted dragon
+
+date: 2024-11-14, from: The Sundail (CSUN Student Newspaper)
+
+Amazon Prime Video’s Like A Dragon: Yakuza may share a title with the popular video game series, but the adaption feels unfamiliar to fans. Through the six episodes that this... 
+
+<br> 
+
+<https://sundial.csun.edu/187593/arts-entertainment/like-a-dragon-yakuza-review-a-mixed-bag-and-distorted-dragon/>
+
+---
+
+## Republican Party projected to have a majority in the US House of Representatives
+
+date: 2024-11-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+Republicans have won a majority in the United States House of Representatives, the Associated Press projected.
+The AP called the race in Arizona’s 6th Congressional District in favor of Rep. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/13/republican-party-projected-to-have-a-majority-in-the-us-house-of-representatives/>
+
+---
+
+## North Westwood Neighborhood Council recap – Oct. 8
+
+date: 2024-11-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+The North Westwood Neighborhood Council, the neighborhood council representing UCLA and Westwood Village, met Oct. 8.
+NWWNC meetings are held on the first Wednesday of every month at UCLA’s Weyburn Terrace and are open to the public. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/13/north-westwood-neighborhood-council-recap-oct-8/>
+
+---
+
+## Persian Perspectives Today: Tara Grammy
+
+date: 2024-11-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+Listen to series host and Podcasts contributor Megan Vahdat sit down with actress, writer and producer Tara Grammy to discuss her viral sketches, famous impressions and involvement in the Zan, Zendegi, Azadi movement. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/13/persian-perspectives-today-tara-grammy/>
+
+---
+
+## Trump chooses UCLA alumnus William McGinley as White House counsel
+
+date: 2024-11-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+President-elect Donald Trump appointed William McGinley &#8211; a UCLA alumnus &#8211; as his White House counsel.
+McGinley, who graduated from UCLA with a history degree in 1992, has also held the role of White House Cabinet secretary in Trump&#8217;s first administration and general counsel to the National Republican Senatorial Committee. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/13/trump-chooses-ucla-alumnus-william-mcginley-as-white-house-counsel/>
 
 ---
 

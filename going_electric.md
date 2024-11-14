@@ -1,11 +1,131 @@
 ---
 title: going electric
-updated: 2024-11-13 17:07:28
+updated: 2024-11-14 08:24:10
 ---
 
 # going electric
 
-(date: 2024-11-13 17:07:28)
+(date: 2024-11-14 08:24:10)
+
+---
+
+## You're Less Likely To Get Rear-Ended By An Electric Car
+
+date: 2024-11-14, from: Inside EVs News
+
+But you're more likely to be rear-ended in one. 
+
+<br> 
+
+<https://insideevs.com/news/740902/less-likely-rear-ended-ev/>
+
+---
+
+## Kia stands by its 1.6 million EV sales goal with new affordable models driving demand
+
+date: 2024-11-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Kia-EV-sales-goal-2030.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>As rivals like Ford and Toyota are pulling back major electric vehicle initiatives, Kia is plowing ahead as it looks to secure a leadership role. <a href="https://electrek.co/guides/kia/">Kia</a> is standing by its EV sales goal of 1.6 million models by 2030. With new low-cost EVs like the EV3 rolling out, Kia is already seeing strong demand.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia" data-layer-viewtype="unknown" data-post-id="389139" href="https://electrek.co/2024/11/14/kia-stands-by-major-ev-sales-goal-with-new-affordable-models/#more-389139" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/14/kia-stands-by-major-ev-sales-goal-with-new-affordable-models/>
+
+---
+
+## China's Xiaomi Just Smashed Another Tesla Record
+
+date: 2024-11-14, from: Inside EVs News
+
+Plus, China's CATL would build a U.S. plant (if allowed) and Stellantis bets big on synthetic graphite. 
+
+<br> 
+
+<https://insideevs.com/news/740918/xiaomi-su7-100000-tesla-cm/>
+
+---
+
+## We’ll See Jaguar’s More Upmarket, Pure Electric Face In December
+
+date: 2024-11-14, from: Inside EVs News
+
+Jaguar is going through major changes that will reposition the brand further upmarket as a Bentley rival. 
+
+<br> 
+
+<https://insideevs.com/news/740808/jaguar-reborn-ev-concept-december/>
+
+---
+
+## Beta Technologies founder completes first test flight in its production-intent eCTOL [Video]
+
+date: 2024-11-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Beta-test-flight-eCTOL-mountains.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>All-electric aircraft developer <a href="https://electrek.co/guides/beta-technologies/">BETA Technologies</a> has shared another important milestone in bringing its first two vessels to market. Most recently, BETA’s founder, CEO, and test pilot Kyle Clark took the production version of its ALIA eCTOL up for its first flight, as seen in the video below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="beta-technologies,ectol,electric-plane" data-layer-viewtype="unknown" data-post-id="389129" href="https://electrek.co/2024/11/14/beta-technologies-founder-completes-first-test-flight-in-its-production-intent-ectol-video/#more-389129" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/14/beta-technologies-founder-completes-first-test-flight-in-its-production-intent-ectol-video/>
+
+---
+
+## We'll See An Updated Sony-Honda Afeela Prototype At CES
+
+date: 2024-11-14, from: Inside EVs News
+
+The screen-filled electric sedan is still on track to start deliveries in 2026. Is this how Japan Inc. can keep up with China's EVs? 
+
+<br> 
+
+<https://insideevs.com/news/740919/sony-honda-afeela-ces-2025/>
+
+---
+
+## EV And PHEV Sales Set A New Record Last Month
+
+date: 2024-11-14, from: Inside EVs News
+
+Year-to-date, global electrified vehicle sales shot up 24% in October, surpassing the previous record set in September. 
+
+<br> 
+
+<https://insideevs.com/news/740980/ev-phev-sales-record-october-2024/>
+
+---
+
+## ‘He Doesn’t Know How To Make A Battery’: China’s CATL Chief Blasts Elon Musk
+
+date: 2024-11-14, from: Inside EVs News
+
+CATL is the largest battery manufacturer in the world. Its founder and chairman, Robin Zeng, disagrees with Musk on several topics. 
+
+<br> 
+
+<https://insideevs.com/news/740941/he-doesnt-know-how-to-make-battery-musk-blasted-catl-chief/>
+
+---
+
+## Loren McDonald stops by Quick Charge to discuss EV charging, Paren, and more
+
+date: 2024-11-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/jo_loren-1125x633-1.jpg?quality=82&#038;strip=all&#038;w=1125" /></div><p>Leading electric vehicle analyst, author, and industry thought leaders Loren McDonald and Bill Ferro stop by <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em> to discuss EV Adoption’s acquisition by Paren, the “crisis” of EV charging reliability, and the real state of the EV market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-adoption,quick-charge" data-layer-viewtype="unknown" data-post-id="389117" href="https://electrek.co/2024/11/13/loren-mcdonald-stops-by-quick-charge-to-discuss-ev-charging-paren-and-more/#more-389117" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/13/loren-mcdonald-stops-by-quick-charge-to-discuss-ev-charging-paren-and-more/>
 
 ---
 

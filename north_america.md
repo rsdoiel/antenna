@@ -1,11 +1,602 @@
 ---
 title: north america
-updated: 2024-11-13 17:07:24
+updated: 2024-11-14 08:24:07
 ---
 
 # north america
 
-(date: 2024-11-13 17:07:24)
+(date: 2024-11-14 08:24:07)
+
+---
+
+## EU fines Meta $840 million over abusive practices benefiting Facebook Marketplace
+
+date: 2024-11-14, from: VOA News USA
+
+Brussels — The European Commission on Thursday fined Meta Platforms $840.24 million over abusive practices benefiting Facebook Marketplace, it said in a statement, confirming an earlier report by Reuters.
+
+
+"The European Commission has fined Meta ... for breaching EU antitrust rules by tying its online classified ads service Facebook Marketplace to its personal social network Facebook and by imposing unfair trading conditions on other online classified ads service providers," the European Commission said.
+
+
+Meta said it will appeal the decision, but in the meantime, it will comply and will work quickly and constructively to launch a solution which addresses the points raised.
+
+
+The move by the European Commission comes two years after it accused the U.S. tech giant of giving its classified ads service Facebook Marketplace an unfair advantage by bundling the two services together.
+
+
+The European Union opened formal proceedings into possible anticompetitive conduct of Facebook in June, 2021, and in December, 2022, raised concerns that Meta ties its dominant social network Facebook to its online classified ad services.
+
+
+Facebook launched Marketplace in 2016 and expanded into several European countries a year later.
+
+
+The EU decision argues that Meta imposes Facebook Marketplace on people who use Facebook in an illegal "tie" but Meta said that argument ignores the fact that Facebook users can choose whether to engage with Marketplace, and many do not.
+
+
+Meta said the Commission claimed that Marketplace had the potential to hinder the growth of large incumbent online marketplaces in the EU but could not find any evidence of harm to competitors.
+
+
+Companies risk fines of as much as 10% of their global turnover for EU antitrust violations. 
+
+<br> 
+
+<https://www.voanews.com/a/eu-fines-meta-840-million-over-abusive-practices-benefiting-facebook-marketplace/7863767.html>
+
+---
+
+## Foreign acquisition of US Steel faces cooler temperatures after presidential election
+
+date: 2024-11-14, from: VOA News USA
+
+Before the U.S. presidential election, President Joe Biden and former President Donald Trump opposed a Japanese company’s planned $14 billion purchase of U.S. Steel, a once-iconic pillar of America’s industrial age. With the election over, there are indications that the deal may go through. VOA Chief National Correspondent Steve Herman went to Braddock, Pennsylvania, to gauge local sentiment to the acquisition. Videographer: Adam Greenbaum 
+
+<br> 
+
+<https://www.voanews.com/a/foreign-acquisition-of-us-steel-faces-cooler-temperatures-after-presidential-election/7863743.html>
+
+---
+
+## Satirical news site The Onion buys Alex Jones' Infowars with help from Sandy Hook families
+
+date: 2024-11-14, from: VOA News USA
+
+The satirical news publication The Onion won the bidding for Alex Jones' Infowars at a bankruptcy auction, backed by families of Sandy Hook Elementary School shooting victims whom Jones owes more than $1 billion in defamation judgments for calling the massacre a hoax, the families announced Thursday. 
+
+
+"The dissolution of Alex Jones' assets and the death of Infowars is the justice we have long awaited and fought for," Robbie Parker, whose daughter Emilie was killed in the 2012 shooting in Connecticut, said in a statement provided by his lawyers. 
+
+
+The sale price was not immediately disclosed. 
+
+
+Jones confirmed The Onion's acquisition of Infowars in a social media video Thursday and said he planned to file legal challenges to stop it. An email message seeking comment was sent to Infowars. 
+
+
+It was not immediately clear what The Onion planned to do with the conspiracy theory platform, including its website, social media accounts, studio in Austin, Texas, trademarks and video archive. The Chicago-based Onion did not immediately return emails seeking comment Thursday. 
+
+
+Sealed bids for the private auction were opened Wednesday. Both supporters and detractors of Jones had expressed interest in buying Infowars. The other bidders have not been disclosed. 
+
+
+The Onion, a satirical site that manages to persuade people to believe the absurd, bills itself as "the world's leading news publication, offering highly acclaimed, universally revered coverage of breaking national, international, and local news events" and says it has 4.3 trillion daily readers. 
+
+
+Jones has been saying on his show that if his detractors bought Infowars, he would move his daily broadcasts and product sales to a new studio, websites and social media accounts that he has already set up. He also said that if his supporters won the bidding, he could stay on the Infowars platforms. 
+
+
+Relatives of many of the 20 children and six educators killed in the shooting Jones and his company for defamation and emotional distress for repeatedly saying on his show that the shooting in Newtown, Connecticut, was a hoax staged by crisis actors to spur more gun control. Parents and children of many of the victims testified that they were traumatized by Jones' conspiracies and threats by his followers. 
+
+
+The lawsuits were filed in Connecticut and Texas. Lawyers for the families in the Connecticut lawsuit said they worked with The Onion to try to acquire Infowars. 
+
+<br> 
+
+<https://www.voanews.com/a/satirical-news-site-the-onion-buys-alex-jones-infowars-with-help-from-sandy-hook-families-/7863746.html>
+
+---
+
+## Climate Finance Must Reach $1 Trillion a Year
+
+date: 2024-11-14, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDUwMDE1My9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTczOTM2MjAzNX0.B40AWmUkRN9rbp0IeA00dV_mVkJPYr-MJ263vWAWq_Y/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p><em><strong>Current conditions: </strong>Smog in India has obscured views of the towering Taj Mahal • Thousands of people have evacuated Málaga, Spain, due to extreme flooding • Most of the U.S. will experience higher-than-average temperatures through the end of the week.</em></p><h2>THE TOP FIVE</h2><h3>1. Economists say poor nations need $1 trillion a year in climate finance</h3><p>Developing nations will need at least $1 trillion a year in climate finance by 2030, growing to $1.3 trillion by 2035, according to <a href="https://www.lse.ac.uk/granthaminstitute/wp-content/uploads/2024/11/Raising-ambition-and-accelerating-delivery-of-climate-finance_Third-IHLEG-report.pdf?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8ofZnQ1EclmXdHRZIBBv64ytMGPWqbxVoin-uERnhl2kn-9ykT0oZJwdY_VbaJOGFN2lZN" rel="noopener noreferrer" target="_blank">new analysis</a> from economists with the Independent High-Level Expert Group on Climate Finance. The study was released as negotiators continue to hammer out a new climate finance goal at COP29. The current funding goal – $100 billion per year – was agreed in 2009. Meanwhile, Brazil unveiled its new Nationally Determined Contribution (NDC) yesterday. The country aims to cut emissions between 59% and 67% by 2035 compared to 2005 levels and “gradually replace” the use of fossil fuels. But as <em><em>Climate Home News</em></em> <a href="https://www.climatechangenews.com/2024/11/13/cop29-day-three-new-finance-text-and-banks-170bn-projection/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8ofZnQ1EclmXdHRZIBBv64ytMGPWqbxVoin-uERnhl2kn-9ykT0oZJwdY_VbaJOGFN2lZN" rel="noopener noreferrer" target="_blank">reported</a>, “the South American nation is also planning to increase oil and gas production by 36% by the same year.” The U.S. is <a href="https://www.politico.eu/article/us-donald-trump-new-climate-target-2035-paris-agreement/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8ofZnQ1EclmXdHRZIBBv64ytMGPWqbxVoin-uERnhl2kn-9ykT0oZJwdY_VbaJOGFN2lZN" rel="noopener noreferrer" target="_blank">expected</a> to announce its new NDC at the climate summit.</p><h3>2. Warming projections for 2100 remain stagnant</h3><p>A new <a href="https://climateactiontracker.org/documents/1277/CAT_2024-11-14_GlobalUpdate_COP29.pdf?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8ofZnQ1EclmXdHRZIBBv64ytMGPWqbxVoin-uERnhl2kn-9ykT0oZJwdY_VbaJOGFN2lZN" rel="noopener noreferrer" target="_blank">report</a> published this morning finds that projections for temperature increases through 2100 remain stagnant for the third year in a row. The research group Climate Action Tracker found that the world is likely to warm by 2.7 degrees Celsius (4.9 degrees Fahrenheit) by the end of the century. But there’s a 50% chance the number could be lower – or higher. By 2030, temperatures are now expected to rise somewhere between 1.9 and 2.6 degrees Celsius (3.4 and 4.7 degrees Fahrenheit), a slight uptick thanks to “minimal progress” from governments in strengthening emissions targets. “Mixed signals from the political space are canceling each other out and clearly hindering progress in climate action,” the report said. “COP29 must be an enabling COP, delivering concrete outcomes to translate the pledges made last year into real-world, real-economy results.”</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="a3bb14666aa79eb32d065cfbbf83144e" data-rm-shortcode-name="rebelmouse-image" id="85446" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDUwMDE2MC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc1MDIzOTY2OH0.FirgR-wc0qf1BZi-WJ9B_AsF5kydraxEx2RLvCdLwCQ/image.png?width=980"/>
+<small class="image-media media-photo-credit" placeholder="Add Photo Credit...">Climate Action Tracker</small></p><h3>3. Hochul to revive NYC congestion pricing plan</h3><p>New York Gov. Kathy Hochul will re-introduce a plan to introduce <a href="https://heatmap.news/climate/new-york-congestion-pricing?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8ofZnQ1EclmXdHRZIBBv64ytMGPWqbxVoin-uERnhl2kn-9ykT0oZJwdY_VbaJOGFN2lZN" rel="noopener" target="_self">congestion pricing</a> for vehicles traveling into Lower Manhattan, but the fees will be significantly lower than those in the original proposal: $9 compared to $15. The plan could be fast-tracked for approval by next week and could go into effect before January,<em><em> The New York Times</em></em> <a href="https://www.nytimes.com/2024/11/13/nyregion/congestion-pricing-nine-dollars.html?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8ofZnQ1EclmXdHRZIBBv64ytMGPWqbxVoin-uERnhl2kn-9ykT0oZJwdY_VbaJOGFN2lZN" rel="noopener noreferrer" target="_blank">reported</a>, “a time frame that aims to pre-empt [President-elect Donald] Trump’s vows to kill the program.”</p><h3>4. Storm Sara takes aim at Central America</h3><p>The storm system <a href="https://weather.com/storms/hurricane/news/2024-11-14-tropical-depression-nineteen-tropical-storm-sara-forecast-tracker?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8ofZnQ1EclmXdHRZIBBv64ytMGPWqbxVoin-uERnhl2kn-9ykT0oZJwdY_VbaJOGFN2lZN" rel="noopener noreferrer" target="_blank">churning</a> in the Caribbean is expected to become Tropical Storm Sara today and poses a “catastrophic risk to lives and property” in Honduras, Belize, and Nicaragua. Areas in Central America with steep terrain “are especially vulnerable to flooding,” AccuWeather chief meteorologist Jon Porter <a href="https://corporate.accuweather.com/newsroom/severe-weather-advisories/severe-weather-advisory-november-13-2024-2/?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8ofZnQ1EclmXdHRZIBBv64ytMGPWqbxVoin-uERnhl2kn-9ykT0oZJwdY_VbaJOGFN2lZN" rel="noopener noreferrer" target="_blank">said</a>. Tropical storm and hurricane alerts have been issued for the region. The National Hurricane Center <a href="https://www.nhc.noaa.gov/graphics_at4.shtml?key_messages&utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8ofZnQ1EclmXdHRZIBBv64ytMGPWqbxVoin-uERnhl2kn-9ykT0oZJwdY_VbaJOGFN2lZN" rel="noopener noreferrer" target="_blank">warns</a> of dangerous flash flooding and mudslides. The storm could strengthen into a hurricane by the weekend, though its trajectory is uncertain and Floridians are advised to keep an eye on the situation.</p><p class="shortcode-media shortcode-media-rebelmouse-image">
+<img alt="" class="rm-shortcode" data-rm-shortcode-id="6dcc27636deea8d902f7e0993432f8ab" data-rm-shortcode-name="rebelmouse-image" id="392f4" loading="lazy" src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDUwMDE2My9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTc4MzI3MzAyOH0.6a_vF2scLiZgWLJ_7zuiypwlBotnhBbwPFgzEPkSFmE/image.png?width=980"/>
+<small class="image-media media-photo-credit" placeholder="Add Photo Credit...">NOAA and NHC</small></p><h3>5. Tesla issues 6th recall for Cybertruck</h3><p>Tesla issued another <a href="https://static.nhtsa.gov/odi/rcl/2024/RCLRPT-24V832-7628.PDF?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8ofZnQ1EclmXdHRZIBBv64ytMGPWqbxVoin-uERnhl2kn-9ykT0oZJwdY_VbaJOGFN2lZN" rel="noopener noreferrer" target="_blank">recall</a> for the Cybertruck this week due to a fault with the drive inverter that “may cause it to stop producing torque. If the inverter stops producing torque, the driver loses the ability to apply torque to the vehicle using the accelerator pedal resulting in a loss of propulsion, which may increase the risk of a collision.” This is the Cybertruck’s sixth recall, and it applies to about 2,400 trucks. This particular fault can’t be fixed with a software update, so vehicles have to be serviced and the inverter replaced.</p><h2>THE KICKER</h2><p>Researchers have <a href="https://www.nationalgeographic.com/environment/article/world-largest-coral-colony-discovery?utm_campaign=heatmap_am&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8ofZnQ1EclmXdHRZIBBv64ytMGPWqbxVoin-uERnhl2kn-9ykT0oZJwdY_VbaJOGFN2lZN" rel="noopener noreferrer" target="_blank">discovered</a> the world’s largest known coral colony in the Solomon Islands. Measuring 111 feet wide, 105 feet long, and 18 feet tall, the mega coral is estimated to be at least 300 years old. Its location deep down in cool waters may help protect it from rising temperatures.</p> 
+
+<br> 
+
+<https://heatmap.news/climate/cop29-climate-finance-trillion>
+
+---
+
+## Dawn patrol at the fish market
+
+date: 2024-11-14, from: Marketplace Morning Report
+
+<p>At Marketplace, it&#8217;s our job to explain how marketplaces work. This week, we&#8217;re turning from traditional stock and financial markets to the in-person kind. For the fourth installment of <a href="https://www.marketplace.org/collection/marketplace-morning-report-tricks-of-the-trade/">our new &#8220;Tricks of the Trade&#8221; series</a>, we wake up in the wee small hours to see what&#8217;s fresh at San Pedro Harbor&#8217;s fish markets. Plus, we&#8217;ll look at why the cost of driving is going up.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/14/mmr_20241114_MMR_2_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace-morning-report%2Fdawn-patrol-at-the-fish-market&awCollectionId=mkp-MMR"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/14/mmr_20241114_MMR_2_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace-morning-report%2Fdawn-patrol-at-the-fish-market&awCollectionId=mkp-MMR" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/dawn-patrol-at-the-fish-market>
+
+---
+
+## Will Peru’s new Chinese-built megaport change Pacific power dynamics?
+
+date: 2024-11-14, from: Marketplace Morning Report
+
+<p>From the BBC World Service: The ribbon-cutting is taking place today at the Port of Chancay — a Chinese-built megaport on Peru’s Pacific coast, that could transform regional trade. But will those investments come with any geopolitical risks? Plus, we hear from the first recipients of climate change compensation.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/14/mmr_20241114_MMR_1_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace-morning-report%2Fwill-perus-new-chinese-built-megaport-change-pacific-power-dynamics&awCollectionId=mkp-MMR"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/14/mmr_20241114_MMR_1_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace-morning-report%2Fwill-perus-new-chinese-built-megaport-change-pacific-power-dynamics&awCollectionId=mkp-MMR" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/will-perus-new-chinese-built-megaport-change-pacific-power-dynamics>
+
+---
+
+## Facing Trump’s return, South Korea tees up for alliance strains
+
+date: 2024-11-14, from: VOA News USA
+
+Seoul, South Korea — Following U.S. President-elect Donald Trump’s electoral victory, world leaders have scrambled to secure calls and send delegations to strengthen ties with his team.
+
+
+South Korean President Yoon Suk Yeol is taking a different approach: golf practice.
+
+
+South Korean presidential officials confirmed to VOA that Yoon recently took up golf for the first time in eight years, specifically to prepare for diplomacy with Trump, who is known for bonding with world leaders over the sport.
+
+
+It’s part of a broader response to the return of Trump, whose unpredictable "America First" approach poses unique economic and security challenges to South Korea.
+
+
+The task may be especially difficult for Yoon, a conservative who leaned hard into a values-based alliance with the United States under President Joe Biden, pressing North Korea on human rights and projecting military strength.
+
+
+Now, Yoon must contend with Trump, a famously transactional leader who has advocated for friendlier ties with North Korean leader Kim Jong Un and dismissed U.S.-South Korea military drills as costly "war games."
+
+
+Trump has also consistently questioned the value of the seven-decade alliance, even hinting at a U.S. troop withdrawal if South Korea does not pay more.
+
+
+Economic concerns add to South Korea’s unease, as officials worry Trump’s talk of imposing tariffs, and a renewed U.S.-China trade war could destabilize its export-driven economy.
+
+
+Trump’s win has prompted soul-searching in South Korea, with many left-leaning commentators lamenting what they see as an over-reliance on an increasingly unreliable ally.
+
+
+"Trump’s reelection heralds a tectonic shift in the U.S.-led international order, which South Korea has been largely dependent on for the past 70 years," read a recent opinion piece in the prominent Hankyoreh newspaper.
+
+
+It warned that the Yoon administration, after having "placed all its eggs in the South Korea-U.S. alliance basket," will now "witness the devastating consequences of such blind belief."
+
+
+Many conservative South Korean commentators also expressed concerns about the future of alliance, even while noting that Trump presents unique opportunities.
+
+
+An editorial in the Chosun Ilbo, South Korea’s largest newspaper, said if Trump demands an excessive increase in defense cost-sharing, South Korea "could negotiate for independent nuclear armament in return."
+
+
+Cost-sharing woes
+
+
+Defense burden-sharing could become the first major alliance test once Trump returns – just as it was throughout his first term.
+
+
+Just one day before Trump’s reelection, the United States and South Korea finalized a new agreement for Seoul to pay $1.19 billion in 2026 to support U.S. troops – an 8.3% increase from the previous year.
+
+
+
+
+The six-year deal was widely seen as an attempt to "Trump-proof" the alliance. However, some analysts worry it may have the opposite effect, possibly prompting Trump to overturn the agreement unilaterally or impose new financial demands.
+
+
+For example, Trump could require that South Korea cover costs for joint military exercises or the visits of "strategic assets," such as bombers and aircraft carriers, said Park Won-gon, a professor at Seoul’s Ewha University.
+
+
+Such exercises and deployments were recently expanded – a key reassurance for South Korea, which relies on the U.S. nuclear umbrella for protection against nuclear-armed North Korea.
+
+
+If Trump demanded payment for these activities, Park said, it would "inevitably weaken the overall framework of extended deterrence."
+
+
+Abandonment concerns
+
+
+Trump has long been a critic of U.S.-South Korea military exercises, even scaling them back unexpectedly after his first summit with Kim in 2018. Many in South Korea now worry he could pursue renewed diplomacy with Pyongyang that sidelines Seoul’s security interests.
+
+
+During his first term, Trump reserved his strongest criticism for North Korea’s intercontinental ballistic missile launches, which threaten the U.S. mainland, while downplaying short-range tests that pose a more immediate risk to South Korea.
+
+
+Analysts also fear that Trump and Kim could resume talks that highlight their warm relations and project diplomatic progress, without advancing denuclearization in any meaningful way.
+
+
+"In that case, North Korea will be recognized as a de facto nuclear state, which is a development that South Korea will find difficult to accept," wrote Lee Sang-hyun, a senior research fellow at Seoul’s Sejong Institute, in an analysis of Trump’s reelection.
+
+
+Louder nuclear calls
+
+
+These concerns have emboldened voices within South Korea calling for an independent nuclear arsenal – a proposal that has moved into the mainstream under Yoon’s administration.
+
+
+The latest high-profile figure to embrace the idea is Park Jin, who served as Yoon’s foreign minister until earlier this year. In an interview this week with a South Korean news outlet, Park stated that South Korea must "seriously consider all possible security options, including potentially acquiring nuclear capabilities," if Trump resumes threats to withdraw U.S. troops.
+
+
+South Korea’s nuclear armament also has gained traction in U.S. policy circles, particularly with a growing number of former Trump officials. Trump himself even proposed the idea during his first presidential campaign, though not as president.
+
+
+But significant barriers remain. Such a move would likely provoke a strong reaction from North Korea and China, potentially endangering South Korea’s security during any "breakout" period. Additionally, South Korea could face severe economic sanctions if it decided to go nuclear.
+
+
+Golf diplomacy
+
+
+Together, these challenges present a major diplomatic test for Yoon, who hopes that spending time on the golf course with Trump will offer a chance to address them one on one.
+
+
+Such an approach would emulate that of Japan’s late former Prime Minister Shinzo Abe, who formed a close bond with Trump and tried to smooth bilateral frictions, in part by playing golf.
+
+
+It’s a strategy that makes sense, according to Park, the Seoul-based professor, who stressed the importance of personal relationships and proactive engagement when dealing with Trump.
+
+
+"For Trump, it’s all about who he listens to," Park said. "He tends to repeat what those close to him feed him, so we need to leverage close relationships to convey our stance." 
+
+<br> 
+
+<https://www.voanews.com/a/facing-trump-s-return-south-korea-tees-up-for-alliance-strains/7863495.html>
+
+---
+
+## Trump picks former rival Marco Rubio for secretary of state
+
+date: 2024-11-14, from: VOA News USA
+
+washington — U.S. President-elect Donald Trump announced on Wednesday he is nominating Republican Senator Marco Rubio, a senior member of both the foreign relations and intelligence committees and former political rival, to be secretary of state. 
+
+
+"He will be a strong Advocate for our Nation, a true friend to our Allies, and a fearless Warrior who will never back down to our adversaries," Trump said in a statement. 
+
+
+Rubio, 53, is known as a China hawk, an outspoken critic of Cuba's Communist government and a strong backer of Israel. In the past, he has advocated for a more assertive U.S. foreign policy with respect to America's geopolitical foes, although recently his views have aligned more closely with those of Trump's "America First" approach to foreign policy. 
+
+
+In April, Rubio was one of 15 Republican senators to vote against a big military aid package to help Ukraine resist Russia and support other U.S. partners, including Israel. Trump has been critical of Democratic President Joe Biden's continuing military assistance for Ukraine as it fights Russia's invasion. 
+
+
+Rubio has said in recent interviews that Kyiv needs to seek a negotiated settlement with Russia rather than focus on regaining all of the territory that Moscow has taken in the last decade. 
+
+
+On the Gaza war, Rubio — like Trump — has been staunchly behind Israel, calling Hamas a terrorist organization that must be eliminated and saying America's role is to resupply Israel with the military materials needed to finish the job. 
+
+
+Rubio is a top Senate China hawk, and Beijing imposed sanctions on him in 2020 over his stance on Hong Kong's democracy protests. This could create difficulties for any attempts to maintain the Biden administration's effort to keep up diplomatic engagement with Beijing to avoid an unintended conflict. 
+
+
+Among other things, Rubio shepherded an act through Congress that gave Washington a new tool to bar Chinese imports over China's treatment of Uyghur Muslims and has also pushed a bill that would decertify Hong Kong's U.S. economic and trade offices. 
+
+
+Rubio had also become a strong Trump backer, after harshly criticizing him when he ran against the former real estate developer for president in 2016. 
+
+
+The three-term Republican senator should easily win confirmation in the Senate, where Trump's Republicans will hold at least a 52-48 majority starting in January. 
+
+
+Democratic Senator Mark Warner, chairman of the intelligence committee, quickly issued a statement praising the choice of Rubio, the panel's vice chairman. 
+
+
+"I have worked with Marco Rubio for more than a decade on the Intelligence Committee, particularly closely in the last couple of years in his role as Vice Chairman, and while we don't always agree, he is smart, talented, and will be a strong voice for American interests around the globe," Warner said in a statement. 
+
+
+Rubio, the son of immigrants from Cuba, will be the first Latino to serve as America's top diplomat. 
+
+<br> 
+
+<https://www.voanews.com/a/7863414.html>
+
+---
+
+## Republicans win 218 US House seats, giving Trump's party control of government
+
+date: 2024-11-14, from: VOA News USA
+
+WASHINGTON  — Republicans have won enough seats to control the U.S. House, completing the party’s sweep into power and securing their hold on U.S. government alongside President-elect Donald Trump.
+
+
+A House Republican victory in Arizona, alongside a win in slow-counting California earlier Wednesday, gave the GOP the 218 House victories that make up the majority. Republicans earlier gained control of the Senate from Democrats.
+
+
+With hard-fought yet thin majorities, Republican leaders are envisioning a mandate to upend the federal government and swiftly implement Trump’s vision for the country.
+
+
+The incoming president has promised to carry out the country’s largest-ever deportation operation, extend tax breaks, punish his political enemies, seize control of the federal government’s most powerful tools and reshape the U.S. economy. The GOP election victories ensure that Congress will be onboard for that agenda, and Democrats will be almost powerless to check it.
+
+
+When Trump was elected president in 2016, Republicans also swept Congress, but he still encountered Republican leaders resistant to his policy ideas, as well as a Supreme Court with a liberal majority. Not this time.
+
+
+When he returns to the White House, Trump will be working with a Republican Party that has been completely transformed by his “Make America Great Again" movement and a Supreme Court dominated by conservative justices, including three that he appointed.
+
+
+Trump rallied House Republicans at a Capitol Hill hotel Wednesday morning, marking his first return to Washington since the election.
+
+
+"I suspect I won’t be running again unless you say, 'He’s good, we got to figure something else,'" Trump said to the room full of lawmakers who laughed in response.
+
+
+House Speaker Mike Johnson, who with Trump's endorsement won the Republican Conference's nomination to stay on as speaker next year, has talked of taking a “blowtorch” to the federal government and its programs, eyeing ways to overhaul even popular programs championed by Democrats in recent years. The Louisiana Republican, an ardent conservative, has pulled the House Republican Conference closer to Trump during the campaign season as they prepare an “ambitious” 100-day agenda.
+
+
+"Republicans in the House and Senate have a mandate," Johnson said earlier this week. "The American people want us to implement and deliver that ‘America First’ agenda."
+
+
+Trump's allies in the House are already signaling they will seek retribution for the legal troubles Trump faced while out of office. The incoming president on Wednesday said he would nominate Rep. Matt Gaetz, a fierce loyalist, for attorney general.
+
+
+
+
+Meanwhile, Rep. Jim Jordan, the chair of the powerful House Judiciary Committee, has said Republican lawmakers are "not taking anything off the table" in their plans to investigate special counsel Jack Smith, even as Smith is winding down two federal investigations into Trump for plotting to overturn the results of the 2020 presidential election and hoarding classified documents at his Mar-a-Lago estate.
+
+
+Still, with a few races still uncalled the Republicans may hold the majority by just a few seats as the new Congress begins. Trump's decision to pull from the House for posts in his administration — Reps. Gaetz, Mike Waltz and Elise Stefanik so far — could complicate Johnson's ability to maintain a majority in the early days of the new Congress.
+
+
+Gaetz submitted his resignation Wednesday, effective immediately. Johnson said he hoped the seat could be filled by the time the new Congress convenes January 3. Replacements for members of the House require special elections, and the congressional districts held by the three departing members have been held by Republicans for years.
+
+
+With the thin majority, a highly functioning House is also far from guaranteed. The past two years of Republican House control were defined by infighting as hardline conservative factions sought to gain influence and power by openly defying their party leadership. While Johnson — at times with Trump's help — largely tamed open rebellions against his leadership, the right wing of the party is ascendant and ambitious on the heels of Trump's election victory.
+
+
+The Republican majority also depends on a small group of lawmakers who won tough elections by running as moderates. It remains to be seen whether they will stay onboard for some of the most extreme proposals championed by Trump and his allies.
+
+
+House Democratic Leader Hakeem Jeffries, meanwhile, is trying to keep Democrats relevant to any legislation that passes Congress, an effort that will depend on Democratic leaders unifying over 200 members, even as the party undergoes a postmortem of its election losses.
+
+
+In the Senate, GOP leaders, fresh off winning a convincing majority, are already working with Trump to confirm his Cabinet picks. Sen. John Thune of South Dakota won an internal election Wednesday to replace Sen. Mitch McConnell, the longest serving party leader in Senate history.
+
+
+Thune in the past has been critical of Trump but praised the incoming president during his leadership election bid.
+
+
+"This Republican team is united. We are on one team," Thune said. "We are excited to reclaim the majority and to get to work with our colleagues in the House to enact President Trump’s agenda."
+
+
+The GOP’s Senate majority of 53 seats also ensures that Republicans will have breathing room when it comes to confirming Cabinet posts, or Supreme Court justices if there is a vacancy. Not all those confirmations are guaranteed. Republicans were incredulous Wednesday when the news hit Capitol Hill that Trump would nominate Gaetz as his attorney general. Even close Trump allies in the Senate distanced themselves from supporting Gaetz, who had been facing a House Ethics Committee investigation into allegations of sexual misconduct and illicit drug use.
+
+
+Still, Trump on Sunday demanded that any Republican leader must allow him to make administration appointments without a vote while the Senate is in recess. Such a move would be a notable shift in power away from the Senate, yet all the leadership contenders quickly agreed to the idea. Democrats could potentially fight such a maneuver.
+
+
+Meanwhile, Trump's social media supporters, including Elon Musk, the world's richest man, clamored against picking a traditional Republican to lead the Senate chamber. Thune worked as a top lieutenant to McConnell, who once called the former president a "despicable human being" in his private notes.
+
+
+However, McConnell made it clear that on Capitol Hill the days of Republican resistance to Trump are over. 
+
+<br> 
+
+<https://www.voanews.com/a/republicans-win-218-us-house-seats-giving-trump-s-party-control-of-government-/7863427.html>
+
+---
+
+## At APEC and G20, Biden faces leaders worried about US policy changes
+
+date: 2024-11-14, from: VOA News USA
+
+White House   — In what will likely be his farewell appearance on the world stage, President Joe Biden faces a daunting question: what to tell world leaders wondering about potential changes in U.S. policies when President-elect Donald Trump returns to the White House with his America First agenda.
+
+
+Biden is set to depart for Peru and Brazil Thursday for two major economic summits.
+
+
+Biden is scheduled to spend Friday and Saturday in Lima with leaders of the Asia-Pacific Economic Cooperation forum, made up of 21 member economies that promote free trade in the region.
+
+
+He will be in Rio de Janeiro on Monday and Tuesday to meet with leaders of the world's 20 largest economies at the Group of 20 summit.
+
+
+On the way to Rio from Lima, Biden will make a brief stop at Manaus for a climate-focused engagement in Brazil's state of Amazonas.
+
+
+In his meetings, Biden must face allies and partners who four years ago may have been skeptical about his "America is back" message and the durability of U.S. global commitments. These leaders saw Trump, during his first term, act to withdraw the U.S. from the Paris Climate Accord and threaten to pull out of NATO.
+
+
+Uncertainties about future U.S. policy will complicate efforts to reach an agenda on issues of global concern such as trade, poverty and debt alleviation, climate change, sustainable development, and green energy.
+
+
+"There will be a lot of combination of lamenting, speculation, guessing about what we'll see coming first in terms of policies out of the campaign and how countries are best able to position themselves," said Victor Cha, president of the Geopolitics and Foreign Policy Department at the Center for Strategic and International Studies.
+
+
+'America's allies are vital'
+
+
+To these leaders, Biden's message is that "America's allies are vital to America's national security," said national security adviser Jake Sullivan, who previewed the trip to reporters on Wednesday.
+
+
+"They make us stronger. They multiply our capability. They take a burden off of our shoulders. They contribute to our common causes," Sullivan said. He underscored that Biden would be attending the APEC summit when U.S. alliances in the region were at an "all-time high," with bolstered ties with Japan, Korea, Australia and the Philippines.
+
+
+Biden will hold a trilateral meeting on the sidelines of APEC with President Yoon Suk Yeol of South Korea and Prime Minister Shigeru Ishiba of Japan to "discuss the importance of institutionalizing" the progress made so that it carries forward through the transition to the new administration, Sullivan said.
+
+
+Whatever the questions surrounding the next administration, Biden will emphasize his faith in the "ideals of American engagement around the world," said Josh Lipsky, senior director of the Atlantic Council's GeoEconomics Center.
+
+
+"He believes it is in the best interest of both America and the world for it to continue," Lipsky said. "And not one election or one president can undercut that, from his perspective."
+
+
+Biden's agenda
+
+
+In Rio de Janeiro, Biden will "demonstrate the strong value proposition of the United States to developing countries and lead the G20 to work together to address shared global challenges," the White House said.
+
+
+He is expected to hold bilateral meetings with summit hosts Peruvian President Dina Boluarte and Brazilian President Luiz Inácio Lula da Silva.
+
+
+In Lima, he is set to support Peru's initiative to expand APEC's economic inclusion efforts to empower workers in the informal economy, said Matt Murray, U.S. senior official for APEC.
+
+
+In Rio, he will focus on workers' rights and clean economic growth and attend the launch of the Global Alliance Against Hunger and Poverty, Lula's initiative aimed at accelerating global efforts to reduce hunger and poverty by 2030.
+
+
+In Manaus, Biden will make history as the first sitting U.S. president to visit the Brazilian Amazon. There, he will deliver remarks on climate conservation and engage Indigenous leaders working to preserve the rainforest.
+
+
+Symbolic and short-lived
+
+
+Many of Biden's efforts will be mostly symbolic and short-lived, as the incoming U.S. administration could bring dramatically different priorities on global welfare programs and climate change.
+
+
+Analysts say that while the world has watched U.S. leadership swing from Republican to Democratic and back again in recent years, Chinese President Xi Jinping will seek to project an image of stability as he exerts his vision of China's increased role on the global stage.
+
+
+In Peru, Xi will inaugurate a $1.3 billion megaport, part of China's infrastructure investment program that has bought him influence in various parts of the world.
+
+
+Beijing has increased diplomatic engagement in the region, with Xi visiting 11 Latin American countries since becoming president, according to Chinese state news agency Xinhua. Summit hosts Peru and Brazil are set to honor him with state visits this month.
+
+
+A meeting between Biden and Xi, likely their last during Biden's term, is scheduled in Lima for Saturday. The meeting comes as Trump appoints ardent China critics in key foreign policy positions, moves that could lead to a more confrontational U.S. posture toward Beijing.
+
+
+Whatever the next administration decides, it's going to need to find ways to manage the "tough, complicated relationship" between the U.S. and China, a senior official said when asked what Biden might tell Xi to expect from the incoming administration.
+
+
+Nike Ching contributed to this report. 
+
+<br> 
+
+<https://www.voanews.com/a/at-apec-and-g20-biden-faces-leaders-worried-about-us-policy-changes/7863428.html>
+
+---
+
+## Conservative lawyer Ted Olson, former US solicitor general, dies at 84
+
+date: 2024-11-14, from: VOA News USA
+
+washington — Former U.S. Solicitor General Ted Olson, one of the country's best-known conservative lawyers who served two Republican presidents and successfully argued on behalf of same-sex marriage, died Wednesday. He was 84.
+
+
+The law firm Gibson Dunn, where Olson had practiced since 1965, announced his death on its website. No cause of death was given.
+
+
+Olson was at the center of some of the biggest cases of recent decades, including a win on behalf of George W. Bush in the 2000 Florida presidential election recount dispute that went before the U.S. Supreme Court.
+
+
+"Even in a town full of lawyers, Ted's career as a litigator was particularly prolific," said Mitch McConnell, the longtime Senate Republican leader. "More importantly, I count myself among so many in Washington who knew Ted as a good and decent man."
+
+
+Bush made Olson his solicitor general, a post the lawyer held from 2001 to 2004. Olson had previously served in the Justice Department as an assistant attorney general during President Ronald Reagan's first term in the early 1980s.
+
+
+During his career, Olson argued 65 cases before the Supreme Court, according to Gibson Dunn.
+
+
+"They weren't just little cases," said Theodore Boutrous, a partner at the law firm who worked with Olson for 37 years. "Many of them were big, blockbuster cases that helped shape our society."
+
+
+Those included the Citizens United v. Federal Election Commission, a 2010 case that eliminated many limits on political giving, and a successful challenge to the Trump administration's decision to rescind the Deferred Action for Childhood Arrivals program.
+
+
+"He's the greatest lawyer I've ever worked with or seen in action," said Boutrous, who worked so closely with Olson that they were known at Gibson Dunn as "the two Teds." "He was an entertaining and forceful advocate who could go toe to toe with the Supreme Court justices in a way few lawyers could. They respected him so much."
+
+
+One of Olson's most prominent cases put him at odds with many fellow conservatives. After California adopted a ban on same-sex marriage in 2008, Olson joined forces with former adversary David Boies, who had represented Democrat Al Gore in the presidential election case, to represent California couples seeking the right to marry.
+
+
+During closing arguments, Olson contended that tradition or fears of harm to heterosexual unions were legally insufficient grounds to discriminate against same-sex couples.
+
+
+"It is the right of individuals, not an indulgence to be dispensed by the state," Olson said. "The right to marry, to choose to marry, has never been tied to procreation."
+
+
+A federal judge in California ruled in 2010 that the state's ban violated the U.S. Constitution. The U.S. Supreme Court let that decision stand in 2013.
+
+
+"This is the most important thing I've ever done, as an attorney or a person," Olson later said in a documentary film about the marriage case.
+
+
+He told The Associated Press in 2014 that the marriage case was important because it "involves tens of thousands of people in California, but really millions of people throughout the United States and beyond that to the world."
+
+
+His decision to join the case added a prominent conservative voice to the rapidly shifting views on same-sex marriage across the country.
+
+
+Boies remembered Olson as a giant in legal circles who "left the law, our country, and each of us better than he found us. Few people are a hero to those that know them well. Ted was a hero to those who knew him best."
+
+
+Olson's personal life also intersected tragically with the nation's history when his third wife, well-known conservative legal analyst Barbara Olson, died on September 11, 2001. She was a passenger on American Airlines Flight 77, which crashed into the Pentagon.
+
+
+His other high-profile clients have included quarterback Tom Brady during the "Deflategate" scandal of 2016 and technology company Apple in a legal battle with the FBI over unlocking the phone of a shooter who killed 14 people in San Bernardino, California, in 2015.
+
+
+The range of his career and his stature on the national stage were unmatched, said Barbara Becker, managing partner of Gibson Dunn.
+
+
+In a statement, she described Olson as "a titan of the legal profession and one of the most extraordinary and eloquent advocates of our time." 
+
+<br> 
+
+<https://www.voanews.com/a/ted-olson-former-us-solicitor-general-and-conservative-lawyer-dies-at-84-/7863357.html>
+
+---
+
+## FBI raids Polymarket CEO's home, seizing phone, electronics
+
+date: 2024-11-14, from: VOA News USA
+
+NEW YORK — Federal law enforcement agents raided the downtown New York home of Polymarket CEO Shayne Coplan on Wednesday, seizing his phone and electronics, the company confirmed.
+
+
+The early morning raid of Coplan's SoHo apartment followed last week's presidential election, in which bettors on Polymarket, an offshore, crypto-fueled election gambling website, had for weeks put Donald Trump's odds drastically higher than those of Vice President Kamala Harris, in sharp divergence from opinion polls.
+
+
+Coplan, Polymarket's 26-year-old founder, was roused from his bed at 6 a.m. by FBI agents demanding he give them his electronic devices.
+
+
+The DOJ is investigating Polymarket for allegedly allowing U.S.-based users to bet on the site, Bloomberg News reported Wednesday evening.
+
+
+Polymarket declined to comment on those allegations, but a spokesperson said the FBI raid was "obvious political retribution by the outgoing administration against Polymarket for providing a market that correctly called the 2024 presidential election."
+
+
+The company told Reuters that Coplan had not been arrested or taken into custody.
+
+
+The FBI declined to comment. The Department of Justice and the White House did not respond to requests for comment on the raid.
+
+
+In the run-up to the presidential election, the site gained widespread attention for the way it placed Trump's odds high above those of Harris, when opinion polls had for months shown the race in a dead heat.
+
+
+Polymarket, which does not allow trading in the U.S., also gained scrutiny after a mystery French trader, known as the Polymarket whale, made large bets on Trump winning the election.
+
+
+The trader's huge wagers came in tandem with a dramatic rise in Trump's chances on the exchanges.
+
+
+He walked away with more than $46 million in profit.
+
+
+Last week, France's gambling regulator said it was examining whether Polymarket complies with French laws. 
+
+<br> 
+
+<https://www.voanews.com/a/fbi-raids-polymarket-ceo-s-home-seizing-phone-electronics/7863348.html>
 
 ---
 
@@ -408,7 +999,7 @@ He was reportedly under consideration to run the Department of Veterans Affairs 
 date: 2024-11-13, from: Heatmap News
 
 
-<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDQ4OTcxMC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3NDAxNTA0MH0.KXQMa3LwtMmHfjTKbY516nuztwixSuoUiAY-EghDp-4/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">A mere two years ago, climate world was awash in optimism as the tax credits in the recently passed Inflation Reduction Act and other Biden-era legislation opened up exciting opportunities for climate tech companies. Now, Trump has said he wants to repeal the IRA in its entirety and “terminate” all of its unspent funds. So what becomes of the crop of startups that were either born directly out of or buoyed by IRA incentives and other positive policy developments?</p><p>Let’s take a look at a few examples. First there’s Crux, a marketplace for the transferable clean energy tax credits unlocked by the IRA. There’s also Watershed, a $1.8 billion software startup that helps businesses track and reduce their carbon emissions. And there’s <a href="https://heatmap.news/sparks/quilt-heat-pump-on-sale-date" target="_self"><u>Quilt</u></a>, which makes a sleek, small, and expensive electric heat pump.</p><p>If they’re worried about what will happen to their business under a Republican trifecta, they’re certainly not talking about it. In the week since the election I've gotten used to hearing a couple primary refrains. One: Everyone obviously wants to create and invest in tech that can weather changing political tides and compete on market fundamentals alone. And two: Red states disproportionately benefit from the IRA. </p><p>Crux, for example, generates revenue by charging transaction fees for the tax credits that are bought and sold on its platform, thus tying its business model to these tax credits’ continued existence. Since the startup began facilitating transactions last year, however, CEO Alfred Johnson told me the market has been dominated by credits associated with solar, wind, and advanced manufacturing, none of which are thought to be at a particularly high risk of deletion.</p><p>Who knows with Trump, though. There’s certainly no doubt that the priorities of his administration will be quite different from those of Biden’s, and that gives rise to a lot of what-ifs. For example: If Trump guts the Department of Energy overall, eliminating or hollowing out the Loan Programs Office and the Office of Clean Energy Demonstrations, presumably far less clean tech requiring huge infrastructure investment will get built. And that will mean fewer tax credits to trade.</p><p>Johnson agrees, calling this “a real cause for concern” for emergent technologies overall. So essentially, Johnson is banking on there being<em> </em>enough<em> </em>bipartisan support for enough<em> </em>tax credits and enough new project buildout that the market keeps humming right along, even as specific energy priorities change </p><p>“The number of times that Trump has talked about nuclear energy or domestic manufacturing as big objectives of his campaign and administration is extremely high,” Johnson noted. “And transferability is already the mechanism by which you'll drive additional dollars into those markets.”</p><p>And then there’s Watershed, the unicorn software company founded in 2019 on the premise that global corporate sustainability reporting was on a steady upwards trajectory, driven by pressure from customers and investors as well as impending regulations, including domestic <a href="https://watershed.com/blog/understanding-the-secs-new-carbon-disclosure-recommendations" rel="noopener noreferrer" target="_blank"><u>climate disclosure rules</u></a> from the Securities and Exchange Commission. Now, it seems relatively safe to say that under Trump, those (already long-delayed) rules will probably never <a href="https://www.esgdive.com/news/the-esg-climate-rules-at-stake-under-a-second-trump-presidency/732294/" rel="noopener noreferrer" target="_blank"><u>see the light of day</u></a>.</p><p>Watershed co-founder Taylor Francis told me that’s not as big a problem as you might expect for a company that makes its money selling emissions-tracking software to large companies. Why not? Europe and California, mostly. Each has its own respective reporting requirements that will go into effect in the next few years, he explained. In the EU, it’s the <a href="https://finance.ec.europa.eu/capital-markets-union-and-financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en" rel="noopener noreferrer" target="_blank"><u>Corporate Sustainability Reporting Directive</u></a>, which applies to all medium-to-large companies in the region, plus any non-EU companies with over €150 million in annual revenue there, while <a href="https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB253" rel="noopener noreferrer" target="_blank"><u>California’s climate disclosure law</u></a> applies to any company doing business in the state that has at least $1 billion in global revenue.</p><p>“It is very hard to think about any large company that does not fall into one of those two buckets,” Francis told me. “And those things are unconnected from who's in the White House.” Though the SEC rules would have been a boon to Watershed’s business, Francis said that since they’re already stuck in court <a href="https://www.esgdive.com/news/10-republican-states-challenge-final-sec-climate-disclosure-rule/709763/" rel="noopener noreferrer" target="_blank"><u>due to challenges</u></a> from Republican-led states, the company wasn’t banking on federal climate disclosure policy to be enacted under <em><em>either</em></em> administration. </p><p>A tax credit that <a href="https://www.irs.gov/credits-deductions/energy-efficient-home-improvement-credit" rel="noopener noreferrer" target="_blank"><u>supports residential energy efficiency</u></a> could be in real danger though. This credit makes things such as insulation, energy-efficient windows, and heating and cooling systems such as heat pumps more affordable for homeowners. And that, of course, could be bad news for companies working in these spaces, including Quilt, which seeks to create “<a href="https://heatmap.news/technology/heat-pump-gradient-quilt-electric-air" target="_self"><u>the Tesla of heat pumps</u></a>.” The current credit allows homeowners to claim up to $2,000 on the purchase of their heat pump, but Quilt’s CEO Paul Lambert told me that he doesn’t think this has made any real difference in consumer uptake thus far. </p><p>“It's a nice-to-have,” he said of the tax credit. “But if you asked me, ‘How many Quilt customers would not have purchased Quilt had that not existed?’ I think the answer is zero.” Right now this high-performance heat pump is only available in San Francisco, where many tech enthusiasts have both money to spend and an entrepreneurial attitude when it comes to early adoption. And while the upfront costs of heat pumps are high, they eventually pay for themselves in energy savings — though Lambert also acknowledged that as the company expands into more markets, it will encounter more price-sensitive customers who may be put off by the high sticker price.</p><p>Even if the energy efficiency tax credit gets nixed, heat pump adoption could still be aided by another IRA provision, the <a href="https://www.energy.gov/save/rebates" rel="noopener noreferrer" target="_blank"><u>Home Energy Rebates Program</u></a>, which provides low- to moderate-income households with savings of up to $8,000 on heat pumps alone, with additional money available for other electric appliances. These programs are state-administered, and only 10 states plus Washington D.C. have launched their programs so far. Once money gets disbursed, it will get much trickier for Trump to eliminate these programs. But the many states that are still preparing their applications or awaiting approval could be at risk of getting their funding pulled. </p><p>Lambert chooses to see the bright side of an increased reliance on state and local level policy. “A lot of states are going to feel like they need to step up and pick up the ball where it may have been dropped,” he told me, also noting that “a lot of the rebates we’re benefiting from now at a local level and state level were made in reaction to the first Trump presidency.”</p><p>It’s an optimistic sentiment that I’ve heard from investors, as well — that there’s nothing as energizing as a climate foe in the White House to motivate states and even philanthropists to pick up the slack. But at the end of the day, there’s also nothing that quite replaces the hundreds of billions the IRA poured into energy and climate initiatives, and the trillions that it’s set to unlock in <a href="https://home.treasury.gov/news/featured-stories/memorandum-from-deputy-secretary-wally-adeyemo-inflation-reduction-act-year-1#:~:text=Our%20strategy%2C%20by%20contrast%2C%20uses,America%20for%20renewable%20energy%20technology." rel="noopener noreferrer" target="_blank"><u>additional funding</u></a> for renewable energy technologies.</p> 
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDQ4OTcxMC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3NDAxNTA0MH0.KXQMa3LwtMmHfjTKbY516nuztwixSuoUiAY-EghDp-4/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">A mere two years ago, climate world was awash in optimism as the tax credits in the recently passed Inflation Reduction Act and other Biden-era legislation opened up exciting opportunities for climate tech companies. Now, Trump has said he wants to repeal the IRA in its entirety and “terminate” all of its unspent funds. So what becomes of the crop of startups that were either born directly out of or buoyed by IRA incentives and other positive policy developments?</p><p>Let’s take a look at a few examples. First there’s Crux, a marketplace for the transferable clean energy tax credits unlocked by the IRA. There’s also Watershed, a $1.8 billion software startup that helps businesses track and reduce their carbon emissions. And there’s <a href="https://heatmap.news/sparks/quilt-heat-pump-on-sale-date" target="_self"><u>Quilt</u></a>, which makes a sleek, small, and expensive electric heat pump.</p><p>If they’re worried about what will happen to their business under a Republican trifecta, they’re certainly not talking about it. In the week since the election I've gotten used to hearing a couple primary refrains. One: Everyone obviously wants to create and invest in tech that can weather changing political tides and compete on market fundamentals alone. And two: Red states disproportionately benefit from the IRA. </p><p>Crux, for example, generates revenue by charging transaction fees for the tax credits that are bought and sold on its platform, thus tying its business model to these tax credits’ continued existence. Since the startup began facilitating transactions last year, however, CEO Alfred Johnson told me the market has been dominated by credits associated with solar, wind, and advanced manufacturing, none of which are thought to be at a particularly high risk of deletion.</p><p>Who knows with Trump, though. There’s certainly no doubt that the priorities of his administration will be quite different from those of Biden’s, and that gives rise to a lot of what-ifs. For example: If Trump guts the Department of Energy overall, eliminating or hollowing out the Loan Programs Office and the Office of Clean Energy Demonstrations, presumably far less clean tech requiring huge infrastructure investment will get built. And that will mean fewer tax credits to trade.</p><p>Johnson agrees, calling this “a real cause for concern” for emergent technologies overall. So essentially, Johnson is banking on there being<em> </em>enough<em> </em>bipartisan support for enough<em> </em>tax credits and enough new project buildout that the market keeps humming right along, even as specific energy priorities change.</p><p>“The number of times that Trump has talked about nuclear energy or domestic manufacturing as big objectives of his campaign and administration is extremely high,” Johnson noted. “And transferability is already the mechanism by which you'll drive additional dollars into those markets.”</p><p>And then there’s Watershed, the unicorn software company founded in 2019 on the premise that global corporate sustainability reporting was on a steady upwards trajectory, driven by pressure from customers and investors as well as impending regulations, including domestic <a href="https://watershed.com/blog/understanding-the-secs-new-carbon-disclosure-recommendations" rel="noopener noreferrer" target="_blank"><u>climate disclosure rules</u></a> from the Securities and Exchange Commission. Now, it seems relatively safe to say that under Trump, those (already long-delayed) rules will probably never <a href="https://www.esgdive.com/news/the-esg-climate-rules-at-stake-under-a-second-trump-presidency/732294/" rel="noopener noreferrer" target="_blank"><u>see the light of day</u></a>.</p><p>Watershed co-founder Taylor Francis told me that’s not as big a problem as you might expect for a company that makes its money selling emissions-tracking software to large companies. Why not? Europe and California, mostly. Each has its own respective reporting requirements that will go into effect in the next few years, he explained. In the EU, it’s the <a href="https://finance.ec.europa.eu/capital-markets-union-and-financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en" rel="noopener noreferrer" target="_blank"><u>Corporate Sustainability Reporting Directive</u></a>, which applies to all medium-to-large companies in the region, plus any non-EU companies with over €150 million in annual revenue there, while <a href="https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB253" rel="noopener noreferrer" target="_blank"><u>California’s climate disclosure law</u></a> applies to any company doing business in the state that has at least $1 billion in global revenue.</p><p>“It is very hard to think about any large company that does not fall into one of those two buckets,” Francis told me. “And those things are unconnected from who's in the White House.” Though the SEC rules would have been a boon to Watershed’s business, Francis said that since they’re already stuck in court <a href="https://www.esgdive.com/news/10-republican-states-challenge-final-sec-climate-disclosure-rule/709763/" rel="noopener noreferrer" target="_blank"><u>due to challenges</u></a> from Republican-led states, the company wasn’t banking on federal climate disclosure policy to be enacted under <em><em>either</em></em> administration. </p><p>A tax credit that <a href="https://www.irs.gov/credits-deductions/energy-efficient-home-improvement-credit" rel="noopener noreferrer" target="_blank"><u>supports residential energy efficiency</u></a> could be in real danger though. This credit makes things such as insulation, energy-efficient windows, and heating and cooling systems such as heat pumps more affordable for homeowners. And that, of course, could be bad news for companies working in these spaces, including Quilt, which seeks to create “<a href="https://heatmap.news/technology/heat-pump-gradient-quilt-electric-air" target="_self"><u>the Tesla of heat pumps</u></a>.” The current credit allows homeowners to claim up to $2,000 on the purchase of their heat pump, but Quilt’s CEO Paul Lambert told me that he doesn’t think this has made any real difference in consumer uptake thus far. </p><p>“It's a nice-to-have,” he said of the tax credit. “But if you asked me, ‘How many Quilt customers would not have purchased Quilt had that not existed?’ I think the answer is zero.” Right now this high-performance heat pump is only available in San Francisco, where many tech enthusiasts have both money to spend and an entrepreneurial attitude when it comes to early adoption. And while the upfront costs of heat pumps are high, they eventually pay for themselves in energy savings — though Lambert also acknowledged that as the company expands into more markets, it will encounter more price-sensitive customers who may be put off by the high sticker price.</p><p>Even if the energy efficiency tax credit gets nixed, heat pump adoption could still be aided by another IRA provision, the <a href="https://www.energy.gov/save/rebates" rel="noopener noreferrer" target="_blank"><u>Home Energy Rebates Program</u></a>, which provides low- to moderate-income households with savings of up to $8,000 on heat pumps alone, with additional money available for other electric appliances. These programs are state-administered, and only 10 states plus Washington D.C. have launched their programs so far. Once money gets disbursed, it will get much trickier for Trump to eliminate these programs. But the many states that are still preparing their applications or awaiting approval could be at risk of getting their funding pulled. </p><p>Lambert chooses to see the bright side of an increased reliance on state and local level policy. “A lot of states are going to feel like they need to step up and pick up the ball where it may have been dropped,” he told me, also noting that “a lot of the rebates we’re benefiting from now at a local level and state level were made in reaction to the first Trump presidency.”</p><p>It’s an optimistic sentiment that I’ve heard from investors, as well — that there’s nothing as energizing as a climate foe in the White House to motivate states and even philanthropists to pick up the slack. But at the end of the day, there’s also nothing that quite replaces the hundreds of billions the IRA poured into energy and climate initiatives, and the trillions that it’s set to unlock in <a href="https://home.treasury.gov/news/featured-stories/memorandum-from-deputy-secretary-wally-adeyemo-inflation-reduction-act-year-1#:~:text=Our%20strategy%2C%20by%20contrast%2C%20uses,America%20for%20renewable%20energy%20technology." rel="noopener noreferrer" target="_blank"><u>additional funding</u></a> for renewable energy technologies.</p> 
 
 <br> 
 

@@ -1,11 +1,113 @@
 ---
 title: central coast
-updated: 2024-11-13 17:07:26
+updated: 2024-11-14 08:24:08
 ---
 
 # central coast
 
-(date: 2024-11-13 17:07:26)
+(date: 2024-11-14 08:24:08)
+
+---
+
+## Fall Falls
+
+date: 2024-11-14, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100424-POD-Paul-Bielaczyc.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Upper Tahquamenon Falls in Paradise, Michigan." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100424-POD-Paul-Bielaczyc.jpg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100424-POD-Paul-Bielaczyc.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100424-POD-Paul-Bielaczyc.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100424-POD-Paul-Bielaczyc.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100424-POD-Paul-Bielaczyc.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100424-POD-Paul-Bielaczyc.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100424-POD-Paul-Bielaczyc.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100424-POD-Paul-Bielaczyc.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100424-POD-Paul-Bielaczyc.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100424-POD-Paul-Bielaczyc.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100424-POD-Paul-Bielaczyc.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/100424-POD-Paul-Bielaczyc.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/fall-falls/">Fall Falls</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/fall-falls/>
+
+---
+
+## Goleta’s Search for Temporary Home for Library May Have a Surprise Ending
+
+date: 2024-11-14, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-Goleta-Library-Temporary-Building-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The City of Goleta has identified a commercial office building at 6500 Hollister Ave. as a potential temporary site for the Goleta Public Library." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-Goleta-Library-Temporary-Building-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-Goleta-Library-Temporary-Building-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-Goleta-Library-Temporary-Building-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-Goleta-Library-Temporary-Building-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-Goleta-Library-Temporary-Building-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-Goleta-Library-Temporary-Building-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-Goleta-Library-Temporary-Building-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-Goleta-Library-Temporary-Building-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-Goleta-Library-Temporary-Building-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>What a plot twist. A new character has emerged in the suspenseful story of the Goleta Public Library, and it just might turn into the protagonist the community was hoping [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/goletas-search-for-temporary-home-for-library-may-have-a-happy-ending/">Goleta&#8217;s Search for Temporary Home for Library May Have a Surprise Ending</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/goletas-search-for-temporary-home-for-library-may-have-a-happy-ending/>
+
+---
+
+## Conflict Erupts at Santa Barbara School Board Meeting Over Evangelical Club
+
+date: 2024-11-14, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-school-board-6-RC.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The Santa Barbara school board meeting on Tuesday included heated public comment about the Good News Club, an evangelical fellowship club for elementary students. Board president Wendy Sims-Moten eventually stopped the meeting." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-school-board-6-RC.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-school-board-6-RC.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-school-board-6-RC.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-school-board-6-RC.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-school-board-6-RC.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-school-board-6-RC.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-school-board-6-RC.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-school-board-6-RC.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-school-board-6-RC.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Chaos broke out at the Santa Barbara school board meeting on Tuesday over the Good News Club, an evangelical fellowship club for elementary students. The public comment period led to [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/conflict-erupts-at-santa-barbara-school-board-meeting-over-evangelical-club/">Conflict Erupts at Santa Barbara School Board Meeting Over Evangelical Club</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/conflict-erupts-at-santa-barbara-school-board-meeting-over-evangelical-club/>
+
+---
+
+## Vandenberg Alerts Net 20,000 Subscribers as Falcon Rocket Blasts Off
+
+date: 2024-11-14, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-Falcon-launch-Udkow.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A Falcon 9 rocket blasts off from Vandenberg Space Force Base on Wednesday night." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-Falcon-launch-Udkow.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-Falcon-launch-Udkow.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-Falcon-launch-Udkow.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-Falcon-launch-Udkow.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-Falcon-launch-Udkow.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-Falcon-launch-Udkow.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-Falcon-launch-Udkow.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-Falcon-launch-Udkow.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-Falcon-launch-Udkow.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>As SpaceX continues its quick pace of missions from Vandenberg Space Force Base, a new email and text notification system launched in the summer has drawn thousands of subscribers. On [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/vandenberg-alerts-net-20000-subscribers-as-another-falcon-rocket-blasts-off/">Vandenberg Alerts Net 20,000 Subscribers as Falcon Rocket Blasts Off</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/vandenberg-alerts-net-20000-subscribers-as-another-falcon-rocket-blasts-off/>
+
+---
+
+## Santa Barbara County Jail Inmate Dies in Apparent Suicide
+
+date: 2024-11-14, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>An inmate at the Santa Barbara County Main Jail died on Wednesday in an apparent suicide, according to the Santa Barbara County Sheriff’s Office. The inmate, who had been housed [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-county-jail-inmate-dies-in-apparent-suicide/">Santa Barbara County Jail Inmate Dies in Apparent Suicide</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/santa-barbara-county-jail-inmate-dies-in-apparent-suicide/>
+
+---
+
+## Santa Barbara Laugh Festival Takes Center Stage All Week to Help Nonprofits
+
+date: 2024-11-14, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-Comedy-A-Luis-Moro-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A. Luis Moro is hosting the third annual Santa Barbara Laugh Festival all week in Santa Barbara." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-Comedy-A-Luis-Moro-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-Comedy-A-Luis-Moro-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-Comedy-A-Luis-Moro-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-Comedy-A-Luis-Moro-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-Comedy-A-Luis-Moro-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-Comedy-A-Luis-Moro-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-Comedy-A-Luis-Moro-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-Comedy-A-Luis-Moro-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111324-Comedy-A-Luis-Moro-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The election is over. Let&#8217;s laugh. The third annual Laugh Festival hits Santa Barbara at the perfect time, but for A. Luis Moro, it&#8217;s just the latest effort to bring [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/its-no-joke-santa-barbara-laugh-festival-takes-center-stage/">Santa Barbara Laugh Festival Takes Center Stage All Week to Help Nonprofits</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/its-no-joke-santa-barbara-laugh-festival-takes-center-stage/>
+
+---
+
+## Lompoc Man Arrested in Connection with Stabbing Last Week
+
+date: 2024-11-14, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A Lompoc man was arrested Wednesday on suspicion of attempted murder days after a stabbing sent the victim to the hospital. Lompoc police officers and other emergency personnel responded to [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/lompoc-man-arrested-in-connection-with-stabbing-last-week/">Lompoc Man Arrested in Connection with Stabbing Last Week</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/lompoc-man-arrested-in-connection-with-stabbing-last-week/>
 
 ---
 

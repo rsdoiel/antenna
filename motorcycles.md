@@ -1,11 +1,86 @@
 ---
 title: motorcycles
-updated: 2024-11-13 17:07:28
+updated: 2024-11-14 08:24:10
 ---
 
 # motorcycles
 
-(date: 2024-11-13 17:07:28)
+(date: 2024-11-14 08:24:10)
+
+---
+
+## Can’t Afford A Ducati Streetfighter V2? Moto Morini’s Corsaro Might Be For You
+
+date: 2024-11-14, from: Ride Apart, Electric Motorcycle News
+
+The Corsaro wants to shake up the middleweight naked bike segment. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/740780/moto-morini-corsaro-launched-eicma-2024/>
+
+---
+
+## Voge's DS800 Rally Is China’s Middle Finger To the Middleweight ADV Segment
+
+date: 2024-11-14, from: Ride Apart, Electric Motorcycle News
+
+“If you can make it, we can make it better”- Voge, probably. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/740604/voge-ds800-rally-launch-eicma-2024/>
+
+---
+
+## MotoGP’s Valencia Auction Is Tone-Deaf at Best, Borderline Sham at Worst
+
+date: 2024-11-14, from: Ride Apart, Electric Motorcycle News
+
+They couldn't have picked a worse bike to auction. But maybe the folks at Dorna didn't pick it, which points to the real issue. 
+
+<br> 
+
+<https://www.rideapart.com/news/740772/motogp-valencia-auction-moto2-bike/>
+
+---
+
+## F1 Only Has to Clear Some Pesky European Antitrust Rules to Finally Buy MotoGP
+
+date: 2024-11-14, from: Ride Apart, Electric Motorcycle News
+
+Liberty Media says it's secured the funding to purchase Dorna.  
+
+<br> 
+
+<https://www.rideapart.com/news/740752/liberty-media-formula-1-motogp-purchase-antitrust-rules/>
+
+---
+
+## New Fantic Imola Looks Like a Padawan Superbike Rider’s Dream Come True
+
+date: 2024-11-14, from: Ride Apart, Electric Motorcycle News
+
+The Imola sportbike has gone from concept to reality, and is ready to hit the track. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/740474/fantic-imola-sportbike-launched-eicma/>
+
+---
+
+## KTM Is Doing So Badly, It's Probably Going to Be Sold
+
+date: 2024-11-14, from: Ride Apart, Electric Motorcycle News
+
+Things are looking dire for the brand.  
+
+<br> 
+
+<https://www.rideapart.com/news/740888/ktm-pierer-ag-sold-sell-off-revenue/>
 
 ---
 
