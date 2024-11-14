@@ -1,11 +1,269 @@
 ---
 title: north america
-updated: 2024-11-14 08:24:07
+updated: 2024-11-14 13:46:23
 ---
 
 # north america
 
-(date: 2024-11-14 08:24:07)
+(date: 2024-11-14 13:46:23)
+
+---
+
+## Trump taps senator, former rival Marco Rubio as his top diplomat
+
+date: 2024-11-14, from: VOA News USA
+
+WASHINGTON — President-elect Donald Trump’s choice to serve as the next U.S. secretary of state is Marco Rubio, a Florida Republican who has been in the Senate since 2011 and serves on the chamber’s foreign relations and intelligence committees.
+
+
+Trump, in a statement Wednesday, called Rubio a highly respected leader and a very powerful voice for freedom who “will be a strong Advocate for our Nation, a true friend to our Allies, and a fearless Warrior who will never back down to our adversaries.”
+
+
+Rubio, vice chairman of the Senate Select Committee on Intelligence and a senior member of the Committee on Foreign Relations, is regarded as intelligent, ambitious and well-liked by Senate colleagues of both parties.
+
+
+If Rubio, who is 53 and the son of Cuban immigrants, is confirmed by his Senate colleagues, he would become the first Latino secretary of state. In that role, he would be tasked with helping to implement Trump’s “America First” foreign policy.
+
+
+After Russia’s full-scale invasion of Ukraine in 2022, Rubio was a vocal supporter of Kyiv. More recently, he has called for negotiations to end the conflict and voted in April against a $95 billion military aid package for the Ukrainians.
+
+
+Rubio is a strong supporter of Israel, in line with Trump’s stance. He has exhibited a tough stance toward authoritarian regimes in Cuba, Nicaragua and Venezuela, as well as toward the communist leadership in Beijing.
+
+
+In response, China has banned the senator from entering the country — something that likely will change if Rubio is confirmed as secretary of state.
+
+
+Some leading Democrats in Congress, who will be the opposition party in January, are making positive comments about the Republican.
+
+
+“I've got a good relationship with Marco, and I think Marco is very capable,” Democratic Senator Mark Kelly, who has served on the intelligence committee with Rubio, told VOA after Rubio’s name was circulated in media reports.
+
+
+On social media, Democratic Senator John Fetterman called Rubio “a strong choice,” adding that he looks forward to voting for his confirmation.
+
+
+“Compared to some of the other names that were floating around, people who really don't have any experience in foreign policy, I think this is a pretty good one,” former Republican Congressman Adam Kinzinger said on CNN before Trump’s official announcement.
+
+
+In choosing members for his Cabinet and senior White House staff, Trump is generally emphasizing loyalty rather than experience. Rubio campaigned for Trump during this year’s presidential election.
+
+
+The two had been rivals in the Republican presidential primary eight years ago. Trump had repeatedly belittled the senator, while Rubio questioned the New York real estate investor’s qualification for the presidency, calling Trump “a con man,” deemed him dangerous and someone who could not be trusted with the launch codes for nuclear weapons.
+
+
+
+
+After Trump won the party’s nomination and the presidency, the relationship warmed. But Rubio did not side with Trump when he refused to accept defeat at the hands of Democratic Party candidate Joe Biden four years ago. After Trump’s supporters stormed the U.S. Capitol on Jan. 6, 2021, Rubio condemned the violence, calling the attackers “unpatriotic” and “un-American” “low-lives.”
+
+
+Earlier this year, Trump considered Rubio, a behind-the-scenes campaign foreign policy adviser, as his running mate before selecting Republican Senator JD Vance.
+
+
+Should Rubio take the job, he would have to vacate his Senate seat. A successor would then be selected by Florida Governor Ron DeSantis.
+
+
+Among the candidates being promoted by influential Republicans for the Senate seat is Lara Trump, co-chair of the Republican National Committee and Trump’s daughter-in-law.
+
+
+VOA Pentagon Correspondent Carla Babb contributed to this report. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-taps-senator-former-rival-marco-rubio-as-his-top-diplomat/7864302.html>
+
+---
+
+##  The Populist Paradox Of Matt Gaetz 
+
+date: 2024-11-14, from: The Lever News
+
+ Monopoly expert Matt Stoller unpacks the surprising antitrust record of Trump’s controversial attorney general pick.  
+
+<br> 
+
+<https://www.levernews.com/lever-time-premium-the-populist-paradox-of-matt-gaetz-2/>
+
+---
+
+## The EPA Stalled and Then a Fix for New Mexico Oil and Gas Pollution Evaporated
+
+date: 2024-11-14, from: Capital and Main
+
+<p>Trump election likely marks the end of a federal response to worsening air pollution in the Permian Basin.</p>
+<p>The post <a href="https://capitalandmain.com/the-epa-stalled-and-then-a-fix-for-new-mexico-oil-and-gas-pollution-evaporated">The EPA Stalled and Then a Fix for New Mexico Oil and Gas Pollution Evaporated</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/the-epa-stalled-and-then-a-fix-for-new-mexico-oil-and-gas-pollution-evaporated>
+
+---
+
+## Elon Musk Is Getting What He Wants
+
+date: 2024-11-14, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDUwMjM2NS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2MTMxMTcxM30.ybcS6sM4BKJOEK-ehDEVxb9ptkOruKHyCtshUAEi-9E/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p>
+	The Trump administration is hoping to kill the $7,500 tax credit for electric vehicle buyers, according to <a href="https://www.reuters.com/business/autos-transportation/trumps-transition-team-aims-kill-biden-ev-tax-credit-2024-11-14/" rel="noopener noreferrer" target="_blank"><u>a </u><u><em><em>Reuters</em></em></u><u> report</u></a> citing two anonymous sources within the Trump transition team.
+</p><p>
+	That aspiration isn’t totally unexpected — President-elect Donald Trump <a href="https://www.reuters.com/world/us/trump-says-he-would-consider-ending-7500-electric-vehicle-credit-2024-08-19/" rel="noopener noreferrer" target="_blank"><u>flirted</u></a> with ending the EV tax credit throughout the campaign. But it’s nonetheless our first post-election sense of how the Trump administration plans to pursue the Republican tax package that is expected to be the centerpiece of its legislating agenda.
+</p><p>
+	If the EV tax credit is repealed, it would deal a significant setback to the American auto industry’s attempts to make the transition to electric vehicles. General Motors, Ford, and other legacy automakers have invested billions of dollars to build EV factories and battery plants in order to prepare for an electric future. The Alliance for Automotive Innovation, the automaking industry’s trade group, <a href="https://www.eenews.net/articles/auto-trade-group-to-gop-tax-writers-keep-bidens-ev-credits/" rel="noopener noreferrer" target="_blank"><u>has privately lobbied</u></a> lawmakers to keep all of the Biden administration’s subsidies for EV production.
+</p><p>
+	GM and Ford aren’t doing this just for the climate. They’re trying to compete with European and East Asian automakers that are transitioning to EVs — and will continue to transition, regardless of policy changes within the United States. BYD, the Chinese company that exclusively makes EVs, <a href="https://electrek.co/2024/11/11/in-a-first-byd-to-soon-topple-ford-on-deliveries/" rel="noopener noreferrer" target="_blank"><u>is on track this year</u></a> to sell more cars globally than Ford. That’s the <em><em>entire Ford line-up</em></em>, not just EVs. China has reached its commanding position in the EV industry partly by offering EV consumers and companies more than $200 billion in subsidies, according to <a href="https://www.csis.org/blogs/trustee-china-hand/chinese-ev-dilemma-subsidized-yet-striking" rel="noopener noreferrer" target="_blank"><u>an analysis</u></a> from the Center for Strategic and International Studies.
+</p><p>
+	The rollback would also be a setback for Tesla and Rivian, the two highest-profile American EV-only companies. Yet according to the same <em><em>Reuters </em></em>report, Tesla <a href="https://heatmap.news/electric-vehicles/musk-trump-tesla-tax-credits" target="_self"><u>supports</u></a> the plan to repeal the tax credit. Elon Musk has <a href="https://qz.com/elon-musk-tesla-ev-tax-credits-trump-biden-ira-mexico-1851603389" rel="noopener noreferrer" target="_blank"><u>asserted</u></a> in interviews that because Tesla has more experience building EVs than any other company, it would suffer least from the subsidy’s disappearance. (As the country’s No. 1 EV seller, Tesla has also likely benefited from EV tax credits — in their current and pre-Biden forms — more than any other company.) Repeal is part of Musk’s hypothesized plan to turn Tesla into <a href="https://heatmap.news/electric-vehicles/musk-trump-tesla-tax-credits" target="_self"><u>a de facto monopoly</u></a>, controlling the entire American EV industry.
+</p><p>
+	Rivian shares have fallen 11% today, while Tesla’s are down just 5%. Ford and GM are trading flat.
+</p><p>
+The new GOP majorities in Congress hope to extend their 2017 package of tax cuts, which <a href="https://taxpolicycenter.org/taxvox/those-making-450000-and-would-get-nearly-half-benefit-extending-tcja" rel="noopener noreferrer" target="_blank"><u>mostly benefit</u></a> wealthy Americans. One way to pay for those tax cuts could be to repeal the tax incentives in the Inflation Reduction Act, President Joe Biden’s landmark climate law. The news today, then, is mostly a sign that the battle lines are being drawn in the auto industry: Much of the auto industry wants to keep the full slate of EV subsidies. Tesla wants to take them down.
+</p> 
+
+<br> 
+
+<https://heatmap.news/sparks/trump-kill-ev-tax-credit>
+
+---
+
+## The Low-Tech Way To Make EV Charging Better
+
+date: 2024-11-14, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDUwMjI1OS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc0NTg2OTUyOH0.Uoh5_ydhdQcx0ROD2I7LSvOXDbtMqRfDhG4qrdasJpU/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">We’ve got a high-speed charging problem.</p>
+<p>Without readily available high-speed charging, people will never let go of their range anxiety fears and buy electric; but unless you have people in EVs willing to pay to charge their cars, there’s no reason to build the chargers. The Biden administration thought it could solve the problem with money — that is, a big, federally funded build-out of chargers that can fill an EV’s battery in 20 to 30 minutes. But even breaking ground has been a slog. Years after Congress first approved giving billions of dollars to states so they could fill out America’s EV-charging corridors, <a href="https://www.nytimes.com/2023/12/23/us/politics/electric-vehicle-chargers-network.html" rel="noopener noreferrer" target="_blank"><u>few</u></a> projects have made it all the way through the bureaucratic process to the point of construction. </p>
+<p>The grant money from Biden’s laws is <a href="https://highways.dot.gov/newsroom/biden-harris-administration-announces-623-million-grants-continue-building-out-electric" rel="noopener noreferrer" target="_blank"><u>still</u></a> flowing, and more high-speed chargers are in the pipeline. But federal dollars are likely to dry up in a Trump presidency that promises to attack climate achievements like the Inflation Reduction Act.</p>
+<p>Things aren’t that much rosier in private industry. Trump’s ally Elon Musk built out the best EV charging network at Tesla and then opened it to other automakers. This year, though, he fired the Supercharger team amid mass layoffs. Now, at the moment Musk has Trump’s ear, EV charging simply <a href="https://heatmap.news/electric-vehicles/tesla-supercharger-slowdown" target="_self"><u>doesn’t seem that important</u></a> to him. And while groups of other car manufacturers have come together to promise more fast-charging stations of their own, those plans may be reconsidered in a more hostile climate for EVs.</p>
+<p>If you’re feeling like charging gloom is a death knell for the EV revolution, I would ask you to remember one thing: This isn’t the way most people charge their cars. </p>
+<p>Yes, you need DC fast chargers to take a road trip down the highway. And for those who can’t charge at home or at work, public high-speed charging becomes the default option — you’re not going to park at Whole Foods long enough to put on 200 miles. But a future with high levels of American EV adoption will be one in which most charging happens slowly, at Level 2 chargers in people’s garages, in parking lots, and on the <a href="https://lalights.lacity.org/connected-infrastructure/ev_stations.html" rel="noopener noreferrer" target="_blank"><u>sides of public streets</u></a>. Expanding our focus to low-tech EV charging, then, is one way to make Americans more confident about ditching gas, even during the coming Trump era redux.</p>
+<p>For one thing, lower-tech solutions are more affordable. As the Society of Automotive Engineers <a href="https://sustainablecareers.sae.org/article/ac-charging-is-important/" rel="noopener noreferrer" target="_blank"><u>notes</u></a>, slower AC chargers are much cheaper for cities or businesses to install compared to the <a href="https://propertymanagerinsider.com/how-much-do-commercial-dc-fast-chargers-cost/#:~:text=DC%20Fast%20Chargers%20Cost%20%2428%2C000%20to%20%24140%2C000%20Installed&text=Approximate%20installation%20costs%20increase%20significantly,NetWorked%20350kW%20DCFC%20%E2%80%93%20%24140%2C000" rel="noopener noreferrer" target="_blank"><u>tens</u></a> or <a href="https://www.sciencedirect.com/science/article/pii/S2213624X23000238#:~:text=The%20CALeVIP%20(2021)%20cost%20data,California%20Energy%20Commission%2C%202022)." rel="noopener noreferrer" target="_blank"><u>hundreds</u></a> of thousands of dollars for DC fast chargers. Appropriate electrical infrastructure already exists in many places — street lights, for example, use a 277-volt standard that could be repurposed for slow EV charging. All you need to do is run wires down to street level so cars can plug in. </p>
+<p>You probably won’t fill up your car’s battery on streetside slow chargers. On my Tesla Model 3, this charging speed adds, at most, about 30 miles of driving range per hour. (That’s why home and office charging is so appealing: the eight hours you spend sleeping or working is about enough to fill up the battery.) Yet a world of ubiquitous Level 2 plugs would add peace of mind. Think of it like plugging in your phone at a bar or at the airport. Sometimes, a little extra juice is just what you need to get by. </p>
+<p>Seeing these plugs everywhere would help drivers feel like it’s not an emergency every time the car gets a little low, and the big charging depot (where there might be a line of cars, anyway) is miles away. Slow chargers also put less pressure on our already-creaking electrical grid compared to DC fast-chargers, which unleash upwards of 350 kilowatts at once. They’re also considered to be better for the long-term health of a battery because fast-charging leads to <a href="https://www.youtube.com/watch?v=qYJk1Qljwgg&t=1s" rel="noopener noreferrer" target="_blank"><u>faster degradation</u></a>, though by how much is <a href="https://www.recurrentauto.com/research/impacts-of-fast-charging" rel="noopener noreferrer" target="_blank"><u>not clear</u></a>.</p>
+<p>“Slow plugs everywhere” isn’t a perfect solution. A few <a href="https://lalights.lacity.org/connected-infrastructure/ev_stations.html" rel="noopener noreferrer" target="_blank"><u>streetside plugs</u></a> exist in my part of Los Angeles, but you’d need a lot to make a difference; it’s not until such plugs are the norm rather than the exception that you’d have a good chance of grabbing a spot when you need it. Plus, infrastructure left out on the street is susceptible to vandalism as well as normal wear and tear. That’s why some places in Europe have embraced the “<a href="https://www.thewattcar.com/home/byoc-could-bring-your-own-cable-ever-take-off-in-the-us" rel="noopener noreferrer" target="_blank"><u>bring your own cable</u></a>” approach to such chargers so cords are not left on the sidewalk, sitting in the rain and getting in the way. </p>
+<p>Despite the challenges, slow charging offers states and cities miffed by Trump’s election a low-tech way to make themselves more EV-friendly. They could also use the power of the legislative pen to mandate that apartment buildings and condominium developments install plugs in their parking lots, for example. Then, blue state residents and urban dwellers — the very people most likely to want EVs to fight climate change, but least likely to have the ability to put in their own home plugs – can buy an EV without also buying a lifestyle of inconvenience.</p>
+<p>Fast-charging still matters a lot. The rapid <a href="https://www.reddit.com/r/dataisbeautiful/comments/1duy2zr/growth_of_ev_fast_charging_network_in_the_usa_oc/" rel="noopener noreferrer" target="_blank"><u>growth</u></a> of DC stations over the past decade has created a country where nearly all the major interstate highways have enough plugs for EV drivers to get by. Many more are needed in cities, along state highways, and near far-flung destinations like the National Parks before most people will be confident an electric vehicle can take them anywhere they want to go.</p>
+<p>As the refrain goes, though, most people do the vast majority of their driving within a few miles of their homes. If a rollout of slow plugs makes it possible for them to steal a few electrons while they go about their lives, American confidence in EVs will rise. </p> 
+
+<br> 
+
+<https://heatmap.news/electric-vehicles/slow-charging>
+
+---
+
+##  The Biden Reforms That Will Be First To Go 
+
+date: 2024-11-14, from: The Lever News
+
+ Thanks to Republican deregulatory frenzy and Democratic gambles, many key consumer-protection initiatives could soon be wiped away.  
+
+<br> 
+
+<https://www.levernews.com/the-biden-reforms-that-will-be-first-to-go/>
+
+---
+
+##  LIVE EVENT AT 8 P.M. ET TONIGHT: Will The Democratic Party Finally Change? 
+
+date: 2024-11-14, from: The Lever News
+
+ Tonight at 8 p.m. ET, join David Sirota, Rep. Ro Khanna, and Thomas Frank for a live discussion on the future of the Democratic Party.  
+
+<br> 
+
+<https://www.levernews.com/live-event-at-8-p-m-et-tonight-will-the-democratic-party-finally-change-2/>
+
+---
+
+## Senator John Hickenlooper on Renewable Energy in a Trump 2.0 Era
+
+date: 2024-11-14, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDUwMjAxNy9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc0OTkzMDIzN30.ZReDC83e4jKxaI0WzlvXcwK3hm7uvdDMHz6A-rBTQXQ/image.jpg?width=900&height=410&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">This week we’re talking to Senator John Hickenlooper of Colorado who joined me yesterday at Heatmap’s Election Post-Game event in Washington, D.C., for a spirited chat about the 2024 election, permitting, and support for renewable energy in a Trump 2.0 era. We also talked about beer and The Fray, but we’ll spare you those details. The following is an abridged version of our conversation. </p>
+<p><strong>So you’ve said in your time in the Senate there needs to be a “business plan” for climate change. What’s the business plan now that Trump is going to be president again? </strong></p>
+<p>I said from the moment I got to Washington that I could not understand how we got so far down the road without any kind of plan. No one has mapped it out – and at this point it has to change – but there’s no sense of a plan.</p>
+<p>Right now we have to look at the possibility of dramatic rollbacks from a lot of legislation that got passed in 2023. The Inflation Reduction Act, the largest financial commitment to addressing climate change in the history of the world. I think the CHIPS and Science Act has a lot of stuff in it that over time is going to have dramatic benefits in terms of addressing climate. Rolling back those efforts for the simple purpose of giving another tax break to the publicly traded stocks of America doesn’t seem constructive. </p>
+<p>One thing that’ll make that difficult is many of the people who worked so hard to elect Donald Trump are receiving those benefits and those jobs. A lot of those tax credits are being spent in red states. </p>
+<p>Faced with that rollback, which I think is really an interruption and which slows down the momentum – you want to disrupt the business plan, you want to throw a wrench in the gears, one way to do that is to create unpredictability. That anything agreed to [isn’t] going to stay the same for more than two years. </p>
+<p><strong>I’ve heard the argument a lot before, the past few years, that a lot of the money being spent is going to red states. Why was that not an election winning argument in these states? </strong></p>
+<p>My impression is people basically felt that the elites – Democrats and Republican elites – are looking down on them. They’re being judged by a woke culture. They’re being bossed around. Well over 2/3rds of the people who start business aren’t doing it to make a lot of money. They’re doing it because they can’t stand having a boss. They’re doing it because they want to be in control of their lives, their job, their work, their hours, their mission. And we Democrats did a piss poor disappointing job of communicating that way. </p>
+<p>There’s a whole bunch of reasons why this happened like it did. Hearing the war stories the past couple of days, the kinds of ads that were used as a way of taking down Democrats were pretty outrageous. </p>
+<p><strong>What’s to come with permitting reform? </strong></p>
+<p>I think we’re seeing an alignment of self interest around permitting reform. Most of the large environmental organizations recognize that if we’re going to successfully address climate change, we’ve got to get transmission lines – you can’t spend 20 years permitting transmission lines. We’ve got to go faster. The time, sense of urgency we have, is not really sufficient. The same thing is true about critical minerals. We’re going to need so much of them and we haven’t really identified where they’re going to come from. </p>
+<p>The bill that’s sitting there right now, I think we can get that passed. I’m not saying we’re going to. But I’m saying we have a very good chance of Republicans and Democrats lining up and saying, <em><em>alright I don’t like a lot of this, but we need it. </em></em></p>
+<p><strong>So you think the first place people are going to go is the Manchin-Barrasso bill? </strong></p>
+<p>Yeah I think in the short-term I think that’s where they’re going to give their best shot. </p>
+<p>Both sides have certain parts of that bill they are really unhappy with, and they modified certain parts of it, so [we’ll] come back from recess and everyone’ll [be] taking a fresh look at it and say well I still don’t like this but it’s not as bad as it was before. </p>
+<p><strong>There’s some worry in some corners of climate advocacy spaces that they’ll have less of an ear from members of Congress in light of the election results. In listening to more progressive environmentalists who’ve been critical of the bill, is listening to them a politically smart idea? Practically smart idea?</strong></p>
+<p>I don’t think it’s a smart idea politically or practically because I do feel this sense of urgency that we’ve got to go now. </p>
+<p>With the Barrasso-Manchin bill, we’re still going to have to do all this work. We’re just going to do it in six months or a year or two years down the road and it takes us further and further away from dealing with the issue. The costs are asymptotic. </p>
+<p><strong>What climate gains will be made this Congress aside from permitting reform? </strong></p>
+<p>I think this great transition’s going to continue. It might slow down a little bit. </p>
+<p>There is genuine factual basis that this transition makes sense on so many levels. Politically, it’s not something you want to talk about. But we as a country have to move in that direction. Maybe talk a little less, do a little more? I heard that advice in the musical Hamilton – talk less, smile more. We have to do the opposite, do more and smile less. </p>
+<p><strong>What do you mean by the transition being something you don’t want to talk about? </strong></p>
+<p>As you’re describing the cost of waiting for people, they can get into the nits and gnats where they can go back to who they represent and say <em><em>hey, there’s a problem. </em></em>The same thing happens when we talk about it. Try to talk about the issues in the broadest, most fundamental ways, because that’s the hardest way for it to be attacked. Just having the broad statement is going to be more effective with a large group of people. </p>
+<p><strong>So I asked if progress will be made on climate in Congress besides permitting and you didn’t say yes…</strong></p>
+<p>No, I’ll say yes. The great thing about the Inflation Reduction Act is that it put a lot of things in play. Carbon capture, there’s a bunch of research projects and a couple of implementations in red states where they are making great progress in terms of how they can get carbon out of the air in an increasingly cost-effective way. I haven’t seen it make any kind of economic sense, but that doesn’t mean they aren’t going to get there. Hydrogen is a huge thing. Looking at some of the new nuclear reactors, where they’re looking at types of fusion reactors, small and large. Climate change is not going to allow us to go and pick out our favorite treats.</p> 
+
+<br> 
+
+<https://heatmap.news/plus/the-fight/qa/senator-john-hickenlooper-permitting-reform-ira>
+
+---
+
+## Quick changes expected by President-elect Trump
+
+date: 2024-11-14, from: VOA News USA
+
+Donald Trump may not be moving into the White House until January, but he is laying the groundwork and making domestic policy plans for the next four years. VOA’s Senior Washington Correspondent Carolyn Presutti has our story. VOA footage by Henry Hernandez. 
+
+<br> 
+
+<https://www.voanews.com/a/quick-changes-expected-by-president-elect-trump-/7864089.html>
+
+---
+
+## Nothing Is Safe from Trump
+
+date: 2024-11-14, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDUwMTk5NS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4NzIxNTQxNH0.iO4FuLc29cjy5uexjpaKMoy8jjfN3Xefe9avW2VRfnk/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p><strong>1. Forget about the IRA </strong>– As the dust has settled post-election, it’s becoming clearer far more than the IRA is at stake in the coming Trump 2.0 administration – namely, whether what people expect in the normal course of governing will resume at all. </p><ul><li>Case in point: Massachusetts electeds just learned they will not be able to complete talks on new offshore <a href="https://commonwealthbeacon.org/energy/offshore-wind-contracts-put-off-again-until-after-trump-takes-office/" target="_blank"><u>wind procurement contracts</u></a> until after Trump takes office. Will any of these projects even be able to pursue federal permits?<br/></li><li>Or take statutes and agencies once considered sacrosanct. Overnight, <em><em>The </em></em><a href="https://www.washingtonpost.com/business/2024/11/13/elon-musk-government-efficiency-congress-budget-law/" target="_blank"><u><em><em>Washington Post</em></em></u></a> reported Trump may seek to unilaterally cut programs with expired authorizations. That <a href="https://www.cbo.gov/publication/60580" target="_blank"><u>includes</u></a> the Energy Policy Act of 2005 – and the statute creating NOAA.<br/></li><li>I covered Trump from the day he was sworn in, with most of my time spent in Congress. And I’ve kept tabs with some in his braintrust over the years. So I can tell you confidently: expect the unexpected, and don’t count on your permits.</li></ul><p><strong>2. Money and time </strong>– Biden agencies are (predictably) starting to get rules out the door to wrap up whatever they can before Trump takes office. </p><ul><li>The EPA just finished its <a href="https://www.epa.gov/newsreleases/epa-finalizes-rule-reduce-wasteful-methane-emissions-and-drive-innovation-oil-and-gas" target="_blank"><u>methane flaring rule</u></a> and the BLM put out a new <a href="https://www.blm.gov/press-release/interior-department-proposes-strengthened-protections-greater-sage-grouse-habitat" target="_blank"><u>proposed sage grouse strategy</u></a>. Heatmap previously <a href="https://heatmap.news/economy/final-hydrogen-tax-credit-45v" target="_self"><u>reported</u></a> the IRA’s hydrogen tax credit will also get this treatment.<br/></li><li>I’d expect the Energy Department to also get as many contracts and dollars out of the door so they can’t be impounded or rescinded. My vibe checks with lobbyist friends indicate they believe all bets are off once Trump 2.0 begins.</li><li>Are there any regulations or financing decisions you’re watching for in the final days? Give us a holler.</li></ul><p><strong>3. California counter-weight</strong> – California regulators just <a href="https://calmatters.org/environment/climate-change/2024/11/california-fuels-standard-gas-prices-climate-change/" target="_blank">approved updates</a> to their fuel standard that will accelerate adoption of lower-emissions cars. </p><ul><li>The state is also convening a <a href="https://www.gov.ca.gov/2024/11/07/special-session-ca-values/" rel="noopener noreferrer" target="_blank"><u>special legislative session</u></a> to consider additional measures to prepare for legal and regulatory challenges from Trump 2.0, including climate. The last Trump administration had sought to undo the state’s EPA waiver allowing stricter vehicle emissions <a href="https://www.thecentersquare.com/california/article_c3be549a-a1e2-11ef-a910-df5e546cf7cc.html" rel="noopener noreferrer" target="_blank"><u>standards than federal ones</u></a>.</li></ul><p><strong>4. Compensation fund </strong>– East Coast states this week announced they would select BrownGreer and the Carbon Trust to help <a href="https://www.nacleanenergy.com/wind/browngreer-in-partnership-with-the-carbon-trust-selected-to-lead-the-design-and-development-of-offshore-wind-fisheries-compensation-fund" rel="noopener noreferrer" target="_blank">create a compensation fund</a> for fishermen impacted by offshore wind. </p><ul><li>The fund is intended to give money that can offset the costs of any reduction in fish stocks or fishing periods from developing offshore wind. </li><li>Commercial and recreational fishing entrepreneurs will help manage the fund. So will offshore wind companies, though a list of industry participants has not been announced. </li></ul> 
+
+<br> 
+
+<https://heatmap.news/plus/the-fight/policy-watch/trump-energy-policy-act-noaa>
+
+---
+
+## The Renewable Energy Project Trump Might Kill on Day 1
+
+date: 2024-11-14, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDUwMTk3MS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2ODc1MTg2NX0.ClmAvaSpLY503k5V_W5Ugq6sG_AFpdT6Mu9snXdWwvE/image.jpg?width=1200&height=886&coordinates=0%2C0%2C0%2C0"/><br/><br/><p><strong>1. Magic Valley, Idaho </strong>– Sen. Jim Risch, one of the state’s loudest opponents of the Lava Ridge wind farm, said he believes Donald Trump will stop the project on Day 1.</p><ul><li>In a newly-aired interview with <a href="https://www.ktvb.com/video/news/local/208/whats-next-for-lava-ridge-wind-project-following-trumps-election/277-d33c5c07-81e3-458f-b047-595da3b807f1" target="_blank"><u>TV outlet KTVB</u></a>, Risch said the matter has been presented to the incoming president and that the proposal from LS Energy would be targeted by an order similar to Biden’s stopping the Keystone XL oil pipeline.</li><li>“When Biden took office, he walked in there [and] signed an executive order and that was the end of the Keystone pipeline. When Donald Trump walks into that president’s room, waiting for him is going to be a keystone pipeline-like executive order that says Lava Ridge ain’t no more.”</li><li>Lava Ridge has faced fierce backlash for a long time, for cultural and environmental reasons. That’s why we at Heatmap put it at the very top of our list of 10 at-risk projects to watch in the energy transition.</li><li>The Bureau of Land Management released a federal environmental review for Lava Ridge in June and it sliced the project’s scope in half, from 400 turbines to a little north of 200. The next and final step would be a record of decision formally approving it but it’s unclear when – or if – the record of decision for the wind project may be released before Trump leaves office.</li><li>Keep an eye out for more reporting on this potential move.</li></ul><p><strong>2. Hardin County, Kentucky</strong> – Lightsource, a subsidiary of bp, is going to the mat against a chapter of prominent anti-renewables network Citizens for Responsible Solar over a project in the small Kentucky city of Elizabethtown.</p><ul><li>Lightsource is vying to build the 128-megawatt Telesto solar farm in Hardin despite a planning commission that <a href="https://www.wdrb.com/news/permit-denied-for-proposed-solar-farm-in-hardin-county/article_d81a2da0-7996-11ec-af5f-7fd1ff05025a.html" target="_blank"><u>is hostile to solar</u></a>. Their apparent solution? Build it entirely on private land owned by individuals requesting annexations from their city government.</li><li>Telesto’s backers have tried a charm offensive that’s included <a href="https://kentuckysheartland.com/the-scoop/" target="_blank"><u>local media interviews</u></a> and <a href="https://hardinchamber.com/telesto-solar-pledges-1-million-new-community-fund-for-hardin-county/" target="_blank"><u>selected local donations</u></a>.</li><li>But right now I’m skeptical of the project’s odds in the short term for two reasons: city administrative staff have recommended <a href="https://static1.squarespace.com/static/621e6f5563bb27214819255f/t/67223c4fc049f953b885aec9/1730296911769/City+Staff+Memo+to+City+Council.pdf" target="_blank"><u>against the annexation</u></a> and Citizens for Responsible Solar is mobilizing its members.</li><li>“URGENT PLEA! We need to fill the room,” Hardin County Citizens for Responsible Solar posted to <a href="https://www.facebook.com/share/p/U8qALPwyzzF724SW/" target="_blank"><u>Facebook this week</u></a>.</li><li>A decision on annexation by the city council is expected as soon as next week.</li></ul><p><strong>3. Allegany County, New York </strong>– I’m keeping close tabs on a new solar-farmland fight in upstate New York between a plant nursery and a 3.7 megawatt SolAmerica solar farm.</p><ul> <li>The small town of Amity has approved the project. And until now, Allegany County <a href="https://spectrumlocalnews.com/nys/buffalo/news/2023/05/19/massive-new-solar-facility-coming-to-allegany-county" target="_blank"><u>has been</u></a> receiving new solar farms with little backlash.</li><li>But its location offers a sympathetic picture. It’s close to a small business – and overlapping with prime farmland. So it is drawing attention from columnists and its county legislator, Gretchen Hanchett, who <a href="https://wellsvillesun.com/blog/2024/11/12/not-in-my-river-valley-solar-development-targets-prime-farm-land/" target="_blank"><u>weighed in yesterday</u></a> asking local politicians to “balance the interests of property owners on both sides.”</li><li>This is the kind of political momentum that has led to new county-level restrictions in the past, so now Allegany’s on ordinance watch. Hanchett told a farmer in a county legislature meeting in August that they “have the support of this legislature in trying to find solutions” to solar and farmland conflicts.</li><li>“There’s a lot to learn in protecting our food supply and our small farmers,” Hanchett said, per <a href="https://www.alleganyco.gov/wp-content/uploads/08.07.24-Resource-Management-Minutes.pdf" target="_blank"><u>meeting minutes</u></a> from the gathering.</li></ul><p><em><em>Here’s what else I’m keeping tabs on…</em></em></p><p><strong>In Indiana</strong>, a Cobia Solar project that would use 7,000 acres seems to <a href="https://wrbiradio.com/solar-petition-up-for-further-consideration-next-month/" rel="noopener noreferrer" target="_blank"><u>face an uphill battle</u></a> to local permits. </p><p><strong>In Maryland</strong>, the county of Dorchester is <a href="https://www.myeasternshoremd.com/dorchester_star/news/dorchester-county-council-passes-solar-legislation-says-more-may-be-coming/article_49b0e1b8-9bd4-11ef-84e7-231784904fa2.html" rel="noopener noreferrer" target="_blank"><u>enacting new restrictions</u></a> on solar development after facing <a href="https://www.myeasternshoremd.com/dorchester_star/news/county-council-tables-solar-bill/article_f1206624-dcb4-11ee-a693-e3bea99aea58.html" rel="noopener noreferrer" target="_blank"><u>initial opposition</u></a> from the Solar Energy Industries Association and RWE Clean Energy. </p><p><strong>In Virginia,</strong> planners in South Boston have <a href="https://www.yourgv.com/news/town_of_south_boston/planners-recommend-rejection-of-proposed-solar-project-in-south-boston/article_9eac37b4-9d3f-11ef-87de-a7f197f0e090.html" rel="noopener noreferrer" target="_blank"><u>recommended rejecting</u></a> a 10 megawatt solar and storage project proposed by Cenergy Power. </p><p><strong>In Missouri</strong>, an Evergy solar farm proposed at a Kansas City airport is taking much longer than initially anticipated <a href="https://flatlandkc.org/news-issues/mums-the-word-on-the-solar-farm-at-kansas-city-airport/" rel="noopener noreferrer" target="_blank"><u>per press reports</u></a>. </p><p><strong>In New Jersey,</strong> anti-wind activists are adopting a new strategy to kill the Atlantic Shores offshore wind farm: forcing the state bureaucracy into a <a href="https://www.streetinsider.com/Press+Releases/NJ+Coalition+Demands+Full+Accounting+of+All+Costs+Associated+with+Controversial+Atlantic+Shores+South+Offshore+Wind+Project/23957499.html" rel="noopener noreferrer" target="_blank"><u>new cost-benefit analysis</u></a>.</p><strong>In Oregon</strong>, anti-offshore wind activists are celebrating Donald Trump’s <a href="https://kobi5.com/news/us-and-world-news/oregon-anti-wind-farm-group-celebrates-trumps-win-255987/" target="_blank"><u>win at the ballot box</u></a>.<div></div> 
+
+<br> 
+
+<https://heatmap.news/plus/the-fight/hotspots/lava-ridge-wind-trump-executive-order>
+
+---
+
+## Trade partners evaluate options with Trump administration on the way
+
+date: 2024-11-14, from: Marketplace Morning Report
+
+<p>Republicans will lead the House of Representatives, the Senate and the executive branch, giving President-elect Donald Trump considerable leeway to push through his tax, immigration and trade agendas. It also means the biggest U.S. trading partners need to adjust. &#8220;Marketplace Morning Report&#8221; host David Brancaccio spoke with The Economist&#8217;s editor-in-chief, Zanny Minton Beddoes, about what&#8217;s to come. Also on today&#8217;s program, an FBI raid on the home of Polymarket&#8217;s CEO and a new congestion pricing plan for New York City.</p>
+<p>&nbsp;</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/14/mmr_20241114_MMR_3_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace-morning-report%2Ftrade-partners-evaluate-options-with-trump-administration-on-the-way&awCollectionId=mkp-MMR"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/14/mmr_20241114_MMR_3_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace-morning-report%2Ftrade-partners-evaluate-options-with-trump-administration-on-the-way&awCollectionId=mkp-MMR" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/trade-partners-evaluate-options-with-trump-administration-on-the-way>
 
 ---
 
@@ -307,82 +565,104 @@ Rubio, the son of immigrants from Cuba, will be the first Latino to serve as Ame
 
 ---
 
-## Republicans win 218 US House seats, giving Trump's party control of government
+## Republicans to control White House, Congress in early 2025
 
 date: 2024-11-14, from: VOA News USA
 
-WASHINGTON  — Republicans have won enough seats to control the U.S. House, completing the party’s sweep into power and securing their hold on U.S. government alongside President-elect Donald Trump.
+Republicans are set to take full control of the U.S. government by the third week in January, with President-elect Donald Trump in the White House and the party holding majorities in the Senate and now the House of Representatives, where late vote counting put it over the top on Wednesday.
 
 
-A House Republican victory in Arizona, alongside a win in slow-counting California earlier Wednesday, gave the GOP the 218 House victories that make up the majority. Republicans earlier gained control of the Senate from Democrats.
+"Republicans in the House and Senate have a mandate," newly reelected House Speaker Mike Johnson said earlier this week. "The American people want us to implement and deliver that 'America First' agenda" espoused by Trump.
 
 
-With hard-fought yet thin majorities, Republican leaders are envisioning a mandate to upend the federal government and swiftly implement Trump’s vision for the country.
+Trump will be sworn in as the country’s 47th president on January 20, two weeks after the new Congress has been seated.
 
 
-The incoming president has promised to carry out the country’s largest-ever deportation operation, extend tax breaks, punish his political enemies, seize control of the federal government’s most powerful tools and reshape the U.S. economy. The GOP election victories ensure that Congress will be onboard for that agenda, and Democrats will be almost powerless to check it.
+Trump, 78, campaigned on a sweeping agenda that Democrats will be largely powerless to stop unless there are a handful of Republican defectors in Congress on any specific issue that would undercut the party’s slim majorities in both chambers.
 
 
-When Trump was elected president in 2016, Republicans also swept Congress, but he still encountered Republican leaders resistant to his policy ideas, as well as a Supreme Court with a liberal majority. Not this time.
+Republicans will have a 53-47 edge in the Senate, and the tie-breaking vote of Vice President-elect JD Vance in the event of a 50-50 stalemate on any legislative proposal. Republicans have secured at least 218 seats in the 435-member House, pending the outcome of nine undecided elections for two-year terms. The party won a seat in the southwestern state of Arizona on Wednesday to cement its majority.
 
 
-When he returns to the White House, Trump will be working with a Republican Party that has been completely transformed by his “Make America Great Again" movement and a Supreme Court dominated by conservative justices, including three that he appointed.
+During his bid to win a second nonconsecutive four-year term, Trump called for the massive deportation of millions of undocumented migrants living in the United States to their home countries, an extension and expansion of 2017 tax cuts that are set to expire at the end of 2025, further deregulation of businesses, a curb on climate controls and prosecution of his political opponents, people he calls “the enemy within.”
 
 
-Trump rallied House Republicans at a Capitol Hill hotel Wednesday morning, marking his first return to Washington since the election.
+Senator John Thune of South Dakota, newly elected by his fellow Republicans as the Senate majority leader, said, "This Republican team is united. We are on one team. We are excited to reclaim the majority and to get to work with our colleagues in the House to enact President Trump's agenda."
 
 
-"I suspect I won’t be running again unless you say, 'He’s good, we got to figure something else,'" Trump said to the room full of lawmakers who laughed in response.
+Cabinet nominees
 
 
-House Speaker Mike Johnson, who with Trump's endorsement won the Republican Conference's nomination to stay on as speaker next year, has talked of taking a “blowtorch” to the federal government and its programs, eyeing ways to overhaul even popular programs championed by Democrats in recent years. The Louisiana Republican, an ardent conservative, has pulled the House Republican Conference closer to Trump during the campaign season as they prepare an “ambitious” 100-day agenda.
-
-
-"Republicans in the House and Senate have a mandate," Johnson said earlier this week. "The American people want us to implement and deliver that ‘America First’ agenda."
-
-
-Trump's allies in the House are already signaling they will seek retribution for the legal troubles Trump faced while out of office. The incoming president on Wednesday said he would nominate Rep. Matt Gaetz, a fierce loyalist, for attorney general.
+Trump has swiftly named an array of political loyalists to key Cabinet positions. They remained as vocal supporters during his four years out of office, and most of them are likely to win quick Senate approval after confirmation hearings, as is the bipartisan tradition in Congress when a new president takes office. They will replace officials President Joe Biden selected after he defeated Trump in the 2020 election.
 
 
 
 
-Meanwhile, Rep. Jim Jordan, the chair of the powerful House Judiciary Committee, has said Republican lawmakers are "not taking anything off the table" in their plans to investigate special counsel Jack Smith, even as Smith is winding down two federal investigations into Trump for plotting to overturn the results of the 2020 presidential election and hoarding classified documents at his Mar-a-Lago estate.
+Trump has also called on Senate Republican leaders to allow him to make “recess appointments,” which could occur when the chamber is not in session and would erase the need for time-consuming and often contentious confirmation hearings.
 
 
-Still, with a few races still uncalled the Republicans may hold the majority by just a few seats as the new Congress begins. Trump's decision to pull from the House for posts in his administration — Reps. Gaetz, Mike Waltz and Elise Stefanik so far — could complicate Johnson's ability to maintain a majority in the early days of the new Congress.
+Despite the likelihood that most of his nominees will be approved, Trump this week named three who immediately drew disparaging assessments from several Democrats and some Republicans for their perceived lack of credentials.
 
 
-Gaetz submitted his resignation Wednesday, effective immediately. Johnson said he hoped the seat could be filled by the time the new Congress convenes January 3. Replacements for members of the House require special elections, and the congressional districts held by the three departing members have been held by Republicans for years.
+They are Florida Congressman Matt Gaetz as attorney general; Tulsi Gabbard, a former Democratic congresswoman turned Republican, as director of national intelligence; and Pete Hegseth, a former junior military officer and Fox News host as defense secretary.
 
 
-With the thin majority, a highly functioning House is also far from guaranteed. The past two years of Republican House control were defined by infighting as hardline conservative factions sought to gain influence and power by openly defying their party leadership. While Johnson — at times with Trump's help — largely tamed open rebellions against his leadership, the right wing of the party is ascendant and ambitious on the heels of Trump's election victory.
+The blowback presages tough confirmation fights for the three in the Senate, which reviews the appointments of top-level officials and then votes to confirm them, or on occasion, rejects the nominations of incoming presidents and forces the White House to make another choice.
 
 
-The Republican majority also depends on a small group of lawmakers who won tough elections by running as moderates. It remains to be seen whether they will stay onboard for some of the most extreme proposals championed by Trump and his allies.
+Controversial Matt Gaetz
 
 
-House Democratic Leader Hakeem Jeffries, meanwhile, is trying to keep Democrats relevant to any legislation that passes Congress, an effort that will depend on Democratic leaders unifying over 200 members, even as the party undergoes a postmortem of its election losses.
+The appointment of Gaetz, 42, could prove particularly problematic, with some senators openly questioning whether he can win a 51-vote majority to become the government’s top law enforcement position. A House ethics committee probe was in the final stages of investigating whether he engaged in sexual misconduct and illicit drug use when he announced his resignation from the chamber late Wednesday, ending the probe.
 
 
-In the Senate, GOP leaders, fresh off winning a convincing majority, are already working with Trump to confirm his Cabinet picks. Sen. John Thune of South Dakota won an internal election Wednesday to replace Sen. Mitch McConnell, the longest serving party leader in Senate history.
 
 
-Thune in the past has been critical of Trump but praised the incoming president during his leadership election bid.
+The Justice Department he hopes to lead had already decided not to pursue criminal charges. Gaetz has denied all wrongdoing.
 
 
-"This Republican team is united. We are on one team," Thune said. "We are excited to reclaim the majority and to get to work with our colleagues in the House to enact President Trump’s agenda."
+On NBC’s “Meet the Press NOW,” John Bolton, one of Trump’s first-term national security advisers who since has become a vocal critic, said Gaetz’s appointment “must be the worst nomination for a Cabinet position in American history.”
 
 
-The GOP’s Senate majority of 53 seats also ensures that Republicans will have breathing room when it comes to confirming Cabinet posts, or Supreme Court justices if there is a vacancy. Not all those confirmations are guaranteed. Republicans were incredulous Wednesday when the news hit Capitol Hill that Trump would nominate Gaetz as his attorney general. Even close Trump allies in the Senate distanced themselves from supporting Gaetz, who had been facing a House Ethics Committee investigation into allegations of sexual misconduct and illicit drug use.
+Bolton added that Gabbard’s nomination was “hilarious” and “second worst.”
 
 
-Still, Trump on Sunday demanded that any Republican leader must allow him to make administration appointments without a vote while the Senate is in recess. Such a move would be a notable shift in power away from the Senate, yet all the leadership contenders quickly agreed to the idea. Democrats could potentially fight such a maneuver.
+“I don’t think it’s a serious nomination for the attorney general,” said Republican Senator Lisa Murkowski of Alaska. “This one was not on my bingo card.”
 
 
-Meanwhile, Trump's social media supporters, including Elon Musk, the world's richest man, clamored against picking a traditional Republican to lead the Senate chamber. Thune worked as a top lieutenant to McConnell, who once called the former president a "despicable human being" in his private notes.
+Republican Senator Susan Collins of Maine said she was “shocked” that Trump chose Gaetz, while another Republican senator, Kevin Cramer of North Dakota, questioned whether Gaetz could be confirmed, adding, “I need to think about that one.”
 
 
-However, McConnell made it clear that on Capitol Hill the days of Republican resistance to Trump are over. 
+An incoming freshman Democratic senator, Andrew Kim, said he did not need to consider more information at a confirmation hearing to know that he would vote against Gaetz.
+
+
+Gaetz is also disliked by some Republican colleagues for his leading role last year in a successful effort to oust a fellow Republican, Kevin McCarthy, from his job as House speaker, the lead position in the chamber and second in line to the presidency after the vice president.
+
+
+Trump heralded his nomination of Gaetz, newly elected to a fifth term in the House, saying he had “distinguished himself in Congress through his focus on achieving desperately needed reform at the Department of Justice” and would “root out systemic corruption” at the agency.
+
+
+Gabbard and Hegseth
+
+
+Gabbard, 43, has been attacked for her lack of direct experience in intelligence and accused of disseminating pro-Russian disinformation. If confirmed, she will be tasked with overseeing 18 U.S. intelligence agencies. She won over Trump with her switch from being a one-time Democratic House member from Hawaii to changing parties and staunchly advocating for his election.
+
+
+She prepped Trump for his only debate against Vice President Kamala Harris, the Democrat he defeated in the November 5 election.
+
+
+
+
+Critics have assailed Hegseth, a 44-year-old decorated former military officer, as someone who lacks managerial experience in the military or business world. A weekend anchor on Fox News, he has voiced his opinions on military operations, including his opposition to women serving in combat roles, saying they lack as much physical strength as men. He has lobbied Trump to pardon military service members accused of war crimes.
+
+
+Hegseth is certain to face near universal opposition from Senate Democrats voting on his confirmation, and some Republicans are expressing concern.
+
+
+The president-elect’s first choices for high-level positions in his nascent administration have won broad acceptance from fellow Republicans, including his co-campaign manager Susie Wiles as White House chief of staff, Senator Marco Rubio of Florida as secretary of state and Representative Mike Waltz of Florida as national security adviser.
+
+
+Trump returned triumphantly to Washington on Wednesday, pledging a smooth transition of power in January as he met for two hours at the White House with Biden, his longtime political rival. 
 
 <br> 
 
@@ -639,7 +919,11 @@ The Trump campaign confirmed the breach in a statement to VOA. Separately, a per
 The Chinese Embassy in Washington at the time dismissed the U.S. hacking allegations as disinformation, calling the U.S. "the origin and the biggest perpetrator of cyberattacks."
 
 
-The embassy has yet to respond to the latest FBI and CISA allegations.
+Embassy spokesperson Liu Pengyu on Thursday rejected the latest U.S. statements as disinformation.
+
+
+
+“China firmly opposes the U.S.'s smear attacks against China without any factual basis,” he said in an email. “We hope that relevant parties will adopt a professional and responsible attitude when characterizing cyber incidents, basing their conclusions on sufficient evidence rather than unfounded speculation and accusations.”
 
 
 U.S. intelligence agencies warned for months that foreign adversaries were using a combination of cyberattacks and influence operations to meddle with the November 5 U.S. presidential election.
@@ -1323,7 +1607,7 @@ Adrianna Zhang from VOA Mandarin Service contributed to this story and some mate
 
 ---
 
-## We Talked to the Guy Making Those Anti-Elon Musk Bumper Stickers
+## Tesla Owners Buying Up ‘Insane’ Number of Anti-Elon Musk Bumper Stickers
 
 date: 2024-11-13, from: Heatmap News
 

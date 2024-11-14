@@ -1,11 +1,117 @@
 ---
 title: columns
-updated: 2024-11-14 08:24:09
+updated: 2024-11-14 13:46:24
 ---
 
 # columns
 
-(date: 2024-11-14 08:24:09)
+(date: 2024-11-14 13:46:24)
+
+---
+
+##  The Violin. &#8220;A stack of hundred-year-old photos lead to the discovery of... 
+
+date: 2024-11-14, updated: 2024-11-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045626-the-violin-a-stack-of>
+
+---
+
+##  Strata: Layered Watercolor Gradients 
+
+date: 2024-11-14, updated: 2024-11-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/strata-layered-watercolor-gradients>
+
+---
+
+##  This is how David Copperfield made the Statue of Liberty disappear on... 
+
+date: 2024-11-14, updated: 2024-11-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045639-this-is-how-david-copperf>
+
+---
+
+##  First Trailer for Star Wars From 1976 
+
+date: 2024-11-14, updated: 2024-11-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/first-trailer-for-star-wars-from-1976-1>
+
+---
+
+##  I&#8217;ve seen a lot of these bouncing ball videos (balls double until... 
+
+date: 2024-11-14, updated: 2024-11-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045638-ive-seen-a-lot-of>
+
+---
+
+## The Onion Buys Alex Jones’s Infowars in Bankruptcy Auction
+
+date: 2024-11-14, updated: 2024-11-14, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.nbcnews.com/news/us-news/onion-wins-alex-jones-infowars-bankruptcy-auction-rcna179936>
+
+---
+
+## Is the (US) Internet Really Slowing?
+
+date: 2024-11-14, from: Om Malik blog
+
+Given our ever-increasing digital lives, what I am about to say makes little sense — recently released numbers show that there might be a historic slowdown in internet traffic growth. Three of the largest content delivery networks (CDNs) — Akamai, Fastly, and Edgio — indicated this when talking to investors after reporting their most recent &#8230; 
+
+<br> 
+
+<https://om.co/2024/11/14/is-the-us-internet-really-slowing/>
+
+---
+
+##  The Guardian on why they&#8217;re not posting on Twitter anymore. &#8220;The benefits&#8230;are... 
+
+date: 2024-11-14, updated: 2024-11-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045634-the-guardian-on-why-theyr>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-14, from: Dave Winer's Scripting News)
+
+I've been having a one-sided discussion with Bluesky asking they make their product less vulnerable to takeover by tech bros, and I can't tell if they're doing anything about it. They must be conflicted, on the one hand, they clearly could sell there service now for a lot of money, but when they do that they must know they're selling us out. 
+
+<br> 
+
+<http://scripting.com/2024/11/14.html#a163640>
 
 ---
 
@@ -43,6 +149,16 @@ date: 2024-11-14, updated: 2024-11-14, from: Jason Kittke's blog
 <br> 
 
 <https://kottke.org/24/11/baby-evacuation-aprons>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-14, from: Dave Winer's Scripting News)
+
+BTW, start thinking of WordPress as a highly networked, deployed, debugged, widely supported <b>network operating system</b>. It meets all the criteria. It also has storage. And can publish. And unlike other social web systems, it is textcasting-ready since it comes from the world of blogging where we competed to give writers the features they needed. We can build lots of apps on this foundation. 
+
+<br> 
+
+<http://scripting.com/2024/11/14.html#a151203>
 
 ---
 
@@ -90,7 +206,7 @@ We're going to open testing for <a href="https://this.how/wordland/">WordLand</a
 
 date: 2024-11-14, from: Daniel Stenberg Blog
 
-One positive thing among many others at this version of the HTTP Workshop (day one, day two) is the fact that there have been several new faces showing up here. People who have not previously attended any HTTP Workshops. Getting fresh blood into the mix is great. A chance to maybe lower the average ago &#8230; <a href="https://daniel.haxx.se/blog/2024/11/14/workshop-season-six-episode-three/" class="more-link">Continue reading <span class="screen-reader-text">Workshop season six, episode three</span> <span class="meta-nav">&#8594;</span></a> 
+One positive thing among many others at this version of the HTTP Workshop (day one, day two) is the fact that there have been several new faces showing up here. People who have not previously attended any HTTP Workshops. Getting fresh blood into the mix is great. A chance to maybe lower the average age &#8230; <a href="https://daniel.haxx.se/blog/2024/11/14/workshop-season-six-episode-three/" class="more-link">Continue reading <span class="screen-reader-text">Workshop season six, episode three</span> <span class="meta-nav">&#8594;</span></a> 
 
 <br> 
 

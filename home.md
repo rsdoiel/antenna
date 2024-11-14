@@ -1,11 +1,119 @@
 ---
 title: home
-updated: 2024-11-14 08:24:10
+updated: 2024-11-14 13:46:26
 ---
 
 # home
 
-(date: 2024-11-14 08:24:10)
+(date: 2024-11-14 13:46:26)
+
+---
+
+## 400,000 GM Trucks Recalled Over Risk of Wheels Locking Up
+
+date: 2024-11-14, from: Family Handyman Blog
+
+<p>GM is just the latest in a slew of automotive companies that is recalling some of their cars and trucks. Over 400,000 vehicles are impacted.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/gm-trucks-transmission-recall/">400,000 GM Trucks Recalled Over Risk of Wheels Locking Up</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/gm-trucks-transmission-recall/>
+
+---
+
+## In London, a Houseboat With Ancient Moorings Hits the Market for £650K
+
+date: 2024-11-14, from: Dwell
+
+Set on the sandy shoreline where the Mayflower set sail for the US in 1620, Dunregan House comes with four bedrooms, skyline views, and a private parking space. 
+
+<br> 
+
+<https://www.dwell.com/article/dunregan-houseboat-floating-home-london-real-estate-cec4a01e>
+
+---
+
+## 10 Basic Woodworking Lessons You Should’ve Learned In Shop Class
+
+date: 2024-11-14, from: Family Handyman Blog
+
+<p>Woodworking is easy to learn, but be sure you understand these basic tasks before you start making cuts. </p>
+<p>The post <a href="https://www.familyhandyman.com/list/woodworking-basics/">10 Basic Woodworking Lessons You Should&#8217;ve Learned In Shop Class</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/woodworking-basics/>
+
+---
+
+## 26 Silent Signs That Your House Has a Serious Problem
+
+date: 2024-11-14, from: Family Handyman Blog
+
+<p>Your house can't talk, but it can give you hints of failure, if you pay attention. Learn what your house is telling you with these signs.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/home-repairs-leaks-fire-risks/">26 Silent Signs That Your House Has a Serious Problem</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/home-repairs-leaks-fire-risks/>
+
+---
+
+## The Secret to Walking On Ice Without Slipping Is So Simple
+
+date: 2024-11-14, from: Family Handyman Blog
+
+<p>Walking on ice is difficult, and if done incorrectly it can be dangerous. But we've got advice on how to navigate ice safely. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-to-walk-on-ice-without-falling/">The Secret to Walking On Ice Without Slipping Is So Simple</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/how-to-walk-on-ice-without-falling/>
+
+---
+
+## Safely Remove a Broken Light Bulb From the Socket
+
+date: 2024-11-14, from: Family Handyman Blog
+
+<p>Broken bulb stuck in the socket? We have multiple methods to help.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/remove-a-broken-light-bulb/">Safely Remove a Broken Light Bulb From the Socket</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/remove-a-broken-light-bulb/>
+
+---
+
+## Terra-Cotta Shingles Cover a Multigenerational Home in Melbourne
+
+date: 2024-11-14, from: Dwell
+
+The owners chose the rhythmic cladding to complement a mahogany tree on the property. 
+
+<br> 
+
+<https://www.dwell.com/article/mahogany-house-r-architecture-multigenerational-living-biophilic-design-78b47407>
+
+---
+
+## How to Winterize Queen Palms
+
+date: 2024-11-14, from: The Gardener's Path
+
+<p>Queen palms (Syagrus romanzoffiana) are true palms suitable for cultivation in Zones 9 and above. In colder regions, these palms will require protection from freezing temperatures using techniques like mulching, wrapping the tree, or moving potted specimens inside. Learn how to winterize queen palms in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/landscape-trees/winterize-queen-palms/">How to Winterize Queen Palms</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/landscape-trees/winterize-queen-palms/>
 
 ---
 
@@ -13,11 +121,59 @@ updated: 2024-11-14 08:24:10
 
 date: 2024-11-14, from: Dwell
 
-The clients initially wanted Corten steel. Instead, Lea Architecture used wood to elevate the stairs into a design centerpiece of the three-story duplex. 
+The clients initially wanted Cor-Ten steel. Instead, Lea Architecture used wood to elevate the stairs into a design centerpiece of the three-story duplex. 
 
 <br> 
 
 <https://www.dwell.com/article/how-they-pulled-it-off-a-modern-sculptural-staircase-grows-in-brooklyn-8e23ae8a>
+
+---
+
+## This 2,400-Square-Foot Whimsical Idaho Lake Cabin Sleeps 19
+
+date: 2024-11-14, from: Sunset Magazine - Living in the West
+
+Designer Heather Lucas wanted her Idaho lake cabin to host a lot of guests. She made strategic design choices to achieve that. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/idaho-lake-cabin>
+
+---
+
+## These Are the Gifts Foodies Will Love This Holiday Season
+
+date: 2024-11-14, from: Sunset Magazine - Living in the West
+
+Lean on local makers to put together a better holiday spread. These indulgent food gifts will satisfy everyone on your list. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/best-food-gifts>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-11-14, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## This Is the Biggest Holiday Travel Mistake You Can Possibly Make
+
+date: 2024-11-14, from: Sunset Magazine - Living in the West
+
+Travel Expert and Two-Time Emmy Award-Winning TV Host Samantha Brown shares her tips on how to navigate your holiday travels. 
+
+<br> 
+
+<https://www.sunset.com/travel/holiday-travel-tips>
 
 ---
 
@@ -345,18 +501,6 @@ Mexico's Riviera Nayarit is the coastal jungle escape worth booking this winter.
 <br> 
 
 <https://www.sunset.com/travel/riviera-nayarit-travel-guide>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-11-13, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 
@@ -775,18 +919,6 @@ Designed by Jérôme Peyret, the curvaceous cottage in the French countryside co
 
 ---
 
-## This 2,400-Square-Foot Whimsical Idaho Lake Cabin Sleeps 19
-
-date: 2024-11-11, from: Sunset Magazine - Living in the West
-
-Designer Heather Lucas wanted her Idaho lake cabin to host a lot of guests. She made strategic design choices to achieve that. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/home-tours/idaho-lake-cabin>
-
----
-
 ## Tired of Raking Leaves? Plant These Trees Instead
 
 date: 2024-11-11, from: Family Handyman Blog
@@ -864,18 +996,6 @@ Dwell's creative director handpicks her favorite titles for different types of d
 <br> 
 
 <https://www.dwell.com/article/the-best-design-books-for-everyone-on-your-gift-list-bcbeae47>
-
----
-
-## These Are the Gifts Foodies Will Love This Holiday Season
-
-date: 2024-11-11, from: Sunset Magazine - Living in the West
-
-Lean on local makers to put together a better holiday spread. These indulgent food gifts will satisfy everyone on your list. 
-
-<br> 
-
-<https://www.sunset.com/lifestyle/shopping/best-food-gifts>
 
 ---
 

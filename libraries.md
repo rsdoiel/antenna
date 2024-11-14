@@ -1,11 +1,24 @@
 ---
 title: libraries
-updated: 2024-11-14 08:24:09
+updated: 2024-11-14 13:46:25
 ---
 
 # libraries
 
-(date: 2024-11-14 08:24:09)
+(date: 2024-11-14 13:46:25)
+
+---
+
+## Accessibility in the SciELO Program: current status and future prospects – Part 2
+
+date: 2024-11-14, from: SciELO in Perspective
+
+<p>The SciELO Accessibility Interdisciplinary Working Group has been developing actions for the production and dissemination of open science with accessibility, making improvements to the sites that use the SciELO methodology, awareness-raising activities and partnerships with publishing teams. These and other practices are planned for the next four years. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://blog.scielo.org/en/2024/11/14/accessibility-in-the-scielo-program-pt-2/" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://blog.scielo.org/en/2024/11/14/accessibility-in-the-scielo-program-pt-2/">Accessibility in the SciELO Program: current status and future prospects – Part 2</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p> 
+
+<br> 
+
+<https://blog.scielo.org/en/2024/11/14/accessibility-in-the-scielo-program-pt-2/>
 
 ---
 

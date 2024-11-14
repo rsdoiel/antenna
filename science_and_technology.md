@@ -1,11 +1,275 @@
 ---
 title: science and technology
-updated: 2024-11-14 08:24:08
+updated: 2024-11-14 13:46:24
 ---
 
 # science and technology
 
-(date: 2024-11-14 08:24:08)
+(date: 2024-11-14 13:46:24)
+
+---
+
+## Tesla Cybertruck, a paragon of reliability, recalled again
+
+date: 2024-11-14, updated: 2024-11-14, from: The Register (UK I.T. News)
+
+<h4>And there&#39;s no OTA patching your way out of faulty drive inverter MOSFETs</h4> <p>The Tesla Cybertruck is closing in on an average of a recall every two months this year, as it notified the NHTSA last week of a sixth fix that can&#39;t be software patched away.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/14/tesla_cybertruck_recalled_mosfets/>
+
+---
+
+## NASA Awards Contract for NOAA’s Space Weather Program
+
+date: 2024-11-14, from: NASA breaking news
+
+NASA, on behalf of the National Oceanic and Atmospheric Administration (NOAA), has selected Southwest Research Institute of San Antonio to build three coronagraphs for the Lagrange 1 Series project, part of NOAA’s Space Weather Next program. Once operational, the coronagraphs will provide critical data to NOAA’s Space Weather Prediction Center, which issues forecasts, warnings, and [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-space-weather-program/>
+
+---
+
+## See How Modern Artists Obsessed With Death and Darkness Looked to Medieval Gothic Artworks for Inspiration
+
+date: 2024-11-14, from: Smithsonian Magazine
+
+A new exhibition in Helsinki spotlights the Gothic themes and influences that connected works by renowned late 19th- and early 20th-century artists 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/see-how-modern-artists-obsessed-with-death-and-darkness-looked-to-medieval-gothic-artworks-for-inspiration-180985410/>
+
+---
+
+## NASA Johnson Invites Proposals to Lease Vibration Test Facility
+
+date: 2024-11-14, from: NASA breaking news
+
+Nov. 14, 2024 NASA Johnson Invites Proposals to Lease Vibration Test Facility NASA’s Johnson Space Center is seeking proposals for the use of its historic, but underused, Vibration and Acoustic Test Facility.&#160;Prospective tenants must submit facility walk-through requests by Monday, Nov. 18. Final proposals are due by 12 p.m. EST Monday, Dec. 16, and must [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-johnson-invites-proposals-to-lease-vibration-test-facility/>
+
+---
+
+## NASA, Peru Agree to Study Potential Sounding Rocket Campaign
+
+date: 2024-11-14, from: NASA breaking news
+
+NASA and Peru’s National Commission for Aerospace Research and Development (CONIDA) laid the groundwork for a potential multi-year scientific rocket launch campaign in the South American country. Both countries signed a non-binding memorandum of understanding Thursday that includes safety training, a joint feasibility study for the potential campaign, and technical assistance for CONIDA on sounding [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-peru-agree-to-study-potential-sounding-rocket-campaign/>
+
+---
+
+## See Staggering Photos of the World's Largest Coral, Newly Discovered by Scientists in the Pacific Ocean
+
+date: 2024-11-14, from: Smithsonian Magazine
+
+The enormous organism is bigger than a blue whale and made up of millions of genetically identical, tiny animals called polyps 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/see-staggering-photos-of-the-worlds-largest-coral-newly-discovered-by-scientists-in-the-pacific-ocean-180985474/>
+
+---
+
+## Cybercriminal devoid of boundaries gets 10-year prison sentence
+
+date: 2024-11-14, updated: 2024-11-14, from: The Register (UK I.T. News)
+
+<h4>Serial extortionist of medical facilities stooped to cavernous lows in search of small payouts</h4> <p>A rampant cybercrook and repeat attacker of medical facilities in the US is being sentenced to a decade in prison, around seven years after the first of his many crimes.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/14/cybercriminal_devoid_of_boundaries_gets/>
+
+---
+
+## South Pole Safety: Designing the NASA Lunar Rescue System
+
+date: 2024-11-14, from: NASA breaking news
+
+In the unforgiving lunar environment, the possibility of an astronaut crewmember becoming incapacitated due to unforeseen circumstances (injury, medical emergency, or a mission-related accident) is a critical concern, starting with the upcoming Artemis III mission, where two astronaut crewmembers will explore the Lunar South Pole. The Moon&#8217;s surface is littered with rocks ranging from 0.15 [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/south-pole-safety-designing-the-nasa-lunar-rescue-system/>
+
+---
+
+## NASA Leadership Hosts Future-Focused Dialogues with Kennedy Employees
+
+date: 2024-11-14, from: NASA breaking news
+
+NASA Deputy Administrator Pam Melroy (front center left) discusses NASA 2040 on Wednesday, Nov. 13, 2024, the agency&#8217;s strategic initiative for aligning workforce, infrastructure, and technologies to meet the needs of the future with various groups of employees at the agency&#8217;s Kennedy Space Center in Florida. The initiative launched in June 2023 to implement meaningful [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasa-leadership-hosts-future-focused-dialogues-with-kennedy-employees/>
+
+---
+
+## How a Team of Gophers Restored Mount St. Helens After Its Catastrophic Eruption With Less Than a Day of Digging
+
+date: 2024-11-14, from: Smithsonian Magazine
+
+After the volcanic eruption of 1980, scientists released the burrowing rodents for only a brief time, but their activities left a remarkably enduring impact, according to a new study 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/how-a-team-of-gophers-restored-mount-st-helens-after-its-catastrophic-eruption-with-less-than-a-day-of-digging-180985459/>
+
+---
+
+## Microsoft finally releases a direct-download Windows 11 on Arm ISO
+
+date: 2024-11-14, updated: 2024-11-14, from: The Register (UK I.T. News)
+
+<h4>Good news for supporting Windows on Arm devices and adding new ones</h4> <p>Microsoft is making ISO images of Windows 11 on Arm available at last, years after the hardware architecture made its debut.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/14/windows_11_arm_iso/>
+
+---
+
+## Precision Pointing Goes the Distance on NASA Experiment
+
+date: 2024-11-14, from: NASA breaking news
+
+One year ago today, the future of space communications arrived at Earth as a beam of light from a NASA spacecraft nearly 10 million miles away. That’s 40 times farther than our Moon. That’s like using a laser pointer to track a moving dime from a mile away. That’s pretty precise. That laser — transmitted [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/precision-pointing-goes-the-distance-on-nasa-experiment/>
+
+---
+
+## Wreck of World War II Ship Known as the 'Dancing Mouse' Discovered at the Bottom of the Indian Ocean
+
+date: 2024-11-14, from: Smithsonian Magazine
+
+The USS "Edsall," a 314-foot-long destroyer, fought off Japanese forces for more than an hour before sinking beneath the surface on March 1, 1942 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/wreck-of-world-war-ii-ship-known-as-the-dancing-mouse-discovered-at-the-bottom-of-the-indian-ocean-180985468/>
+
+---
+
+## 55 Years Ago: Apollo 12 Launches
+
+date: 2024-11-14, from: NASA breaking news
+
+The Apollo 12 spacecraft launches from NASA’s Kennedy Space Center in Florida in this image from Nov. 14, 1969, with astronauts Charles Conrad Jr., Richard F. Gordon Jr., and Alan L. Bean aboard. During liftoff, the Saturn V rocket which carried the Apollo capsule was struck twice by lightning. On Nov. 19, 1969, the lunar [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/55-years-ago-apollo-12-launches/>
+
+---
+
+## 55 Years Ago: Apollo 12 Makes a Pinpoint Landing on the Moon
+
+date: 2024-11-14, from: NASA breaking news
+
+In November 1969, Apollo 12 astronauts Commander Charles “Pete” Conrad, Command Module Pilot (CMP) Richard F. Gordon, and Lunar Module Pilot (LMP) Alan L. Bean completed the second crewed lunar landing mission. Conrad and Bean achieved a pinpoint landing in the Ocean of Storms within walking distance of the Surveyor 3 spacecraft that landed there [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/history/55-years-ago-apollo-12-makes-a-pinpoint-landing-on-the-moon/>
+
+---
+
+## SpaceX Starship moved to launchpad for 6th flight test
+
+date: 2024-11-14, updated: 2024-11-14, from: The Register (UK I.T. News)
+
+<h4>Yes, the heat shield has been tweaked. But there&#39;s also a banana for scale</h4> <p>SpaceX has transported its Starship spacecraft to the launchpad in preparation for a scheduled flight test on November 18.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/14/spacex_starship_flight_test/>
+
+---
+
+## NASA and Forest Service Use Balloon to Help Firefighters Communicate
+
+date: 2024-11-14, from: NASA breaking news
+
+NASA is participating in a collaborative effort to use high-altitude balloons to improve real-time communications among firefighters battling wildland fires. &#160; The rugged and often remote locations where wildland fires burn mean cell phone service is often limited, making communication between firefighters and command posts difficult. &#160; The flight testing of the Strategic Tactical Radio [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/ames/nasa-and-forest-service-use-balloon-to-help-firefighters-communicate/>
+
+---
+
+## NASA’s EMIT Will Explore Diverse Science Questions on Extended Mission
+
+date: 2024-11-14, from: NASA breaking news
+
+The imaging spectrometer measures the colors of light reflected from Earth’s surface to study fields such as agriculture, hydrology, and climate science. Observing our planet from the International Space Station since July 2022, NASA’s EMIT (Earth Surface Mineral Dust Source Investigation) mission is beginning its next act. At first the imaging spectrometer was solely aimed [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/emit/nasas-emit-will-explore-diverse-science-questions-on-extended-mission/>
+
+---
+
+## See the Full Beaver Moon on Friday, the Last Dazzling Supermoon of 2024
+
+date: 2024-11-14, from: Smithsonian Magazine
+
+November's spectacle closes out a series of four big and bright full moons that have captivated sky watchers since late summer 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/see-the-full-beaver-moon-on-friday-the-last-dazzling-supermoon-of-2024-180985469/>
+
+---
+
+## AI PCs flood the market. Their makers hope someone wants them
+
+date: 2024-11-14, updated: 2024-11-14, from: The Register (UK I.T. News)
+
+<h4>Despite 49% surge in shipments, buyers seem unconvinced</h4> <p>Warehouses in the IT channel are stocking up with AI-capable PCs - industry watcher Canalys claims these made up 20 percent of all shipments during Q3 2024, amounting to some 13.3 million units worldwide.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/14/ai_pc_shipments/>
+
+---
+
+## Historians Say They've Solved the Mystery of a Curious 100-Year-Old Contraption Discovered in Storage
+
+date: 2024-11-14, from: Smithsonian Magazine
+
+Staffers at the Dorchester County Historical Society in Maryland were baffled by the unusual machine, so they asked the public for help in determining its purpose 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/historians-say-theyve-solved-the-mystery-of-a-curious-100-year-old-contraption-discovered-in-storage-180985415/>
+
+---
+
+## Qualcomm's Windows on Arm push would be great – if only it ran all your software
+
+date: 2024-11-14, updated: 2024-11-14, from: The Register (UK I.T. News)
+
+<h4>Until compatibility issues are properly addressed, it&#39;ll never stand up to x86</h4> <p><strong>Analysis</strong>  Qualcomm has set its sights on Arm-based Windows laptops, which, in theory, offer notable advantages. The company&#39;s Arm-powered Snapdragon processors promise exceptional battery life that puts x86 machines to shame, fanless designs, and integrated 5G connectivity that leave Intel and AMD looking dated. By betting on a mobile and connected world, Qualcomm aims to position Arm-based Windows laptops as the future.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/14/qualcomm_pc_strategy/>
 
 ---
 
@@ -61,7 +325,7 @@ NASA’s Nancy Grace Roman Space Telescope is one giant step closer to unlocking
 
 date: 2024-11-14, updated: 2024-11-14, from: The Register (UK I.T. News)
 
-<h4>What was it they say? Out with the old and in with the nucleus</h4> <p>Increasingly, datacenter operators are putting their faith in the promise of miniaturized nuclear power plants – better known as small modular reactors (SMRs) – to fuel their ever-growing energy demands.…</p> 
+<h4>Out with the old, in with the nucleus ... if ever finished</h4> <p>Increasingly, datacenter operators are putting their faith in the promise of miniaturized nuclear power plants – better known as small modular reactors (SMRs) – to fuel their ever-growing energy demands.…</p> 
 
 <br> 
 
@@ -165,11 +429,11 @@ date: 2024-11-14, updated: 2024-11-14, from: The Register (UK I.T. News)
 
 ---
 
-## Apple hit with £3 billion claim over iCloud pricing and packaging practices
+## Apple hit with £3 billion claim of ripping off 40 million UK iCloud users
 
 date: 2024-11-14, updated: 2024-11-14, from: The Register (UK I.T. News)
 
-<h4>Consumer champion Which? not amused by fruit-based giant&#39;s alleged preference for its own cloud storage service</h4> <p>UK consumer group Which? has filed a £3 billion action against Apple over alleged competition law breaches related to its iCloud service.…</p> 
+<h4>Consumer champion Which? not amused by fruit-based giant&#39;s alleged preference for its own cloud storage</h4> <p>UK consumer group Which? has filed a £3 billion action against Apple over alleged competition law breaches related to its iCloud service.…</p> 
 
 <br> 
 
@@ -263,7 +527,7 @@ date: 2024-11-14, updated: 2024-11-14, from: The Register (UK I.T. News)
 
 ## Here's how a Trump presidency could change the tech industry
 
-date: 2024-11-13, updated: 2024-11-13, from: The Register (UK I.T. News)
+date: 2024-11-13, updated: 2024-11-14, from: The Register (UK I.T. News)
 
 <h4>Anything could happen in the next half ... decade</h4> <p><strong>Kettle</strong>  Despite countless warnings that the US presidential election would lead to a months-long battle, with a decisive win by Donald Trump and his party, we can immediately look ahead to how the next four years of Republican rule might change the tech industry.…</p> 
 
@@ -323,7 +587,7 @@ A new exhibition at the author's home in Chawton, which has never previously dis
 
 ## NASA's Jet Propulsion Laboratory to eject hundreds more workers
 
-date: 2024-11-13, updated: 2024-11-13, from: The Register (UK I.T. News)
+date: 2024-11-13, updated: 2024-11-14, from: The Register (UK I.T. News)
 
 <h4>Budget constraints result in &#39;painful but necessary adjustments&#39;</h4> <p>NASA&#39;s Jet Propulsion Laboratory (JPL) will need to lose hundreds more workers as managers seek to meet the current FY&#39;25 budget allocation.…</p> 
 

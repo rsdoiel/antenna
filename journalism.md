@@ -1,11 +1,76 @@
 ---
 title: journalism
-updated: 2024-11-14 08:24:09
+updated: 2024-11-14 13:46:25
 ---
 
 # journalism
 
-(date: 2024-11-14 08:24:09)
+(date: 2024-11-14 13:46:25)
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-14, from: The Daily Bruin (UCLA Student Newspaper))
+
+Michael Machat, Rodriguez&#8217;s attorney, asked about a blue stick Child B said they were hit with by Rodriguez. Child B&#8217;s father said their child told them they, in addition to other students, were hit in the head. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/14/473884/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-14, from: The Daily Bruin (UCLA Student Newspaper))
+
+Child B&#8217;s father also testified about changes in their child&#8217;s behavior during the time they were in Rodriguez&#8217;s classroom. The parent said their child became fearful of strangers and scared at bedtime that &#8220;bad guys were going to come get her.&#8221; The father added that Child B would clench up and squirm away when they cleaned the child&#8217;s genitals during bath time. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/14/473882/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-14, from: The Daily Bruin (UCLA Student Newspaper))
+
+Child B&#8217;s father testified about asking their child about Rodriguez. The father said they had a conversation with Child B on Feb. 24 in which they asked if anyone had ever put their finger in the child&#8217;s butt, accompanied by a hand motion described as putting a finger in the anus. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/14/473876/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-14, from: The Daily Bruin (UCLA Student Newspaper))
+
+Child B, one of Rodriguez’s students at UCLA, was called to the stand. When the 4-year-old was asked how she felt about Rodriguez, she said, &#8220;Not good.&#8221; Child B added that &#8220;He did bad things to me&#8221; and &#8220;poked me in the butt.&#8221;
+Rodriguez’s representative came to the stand next to ask Child B about her friends at UCLA. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/14/473864/>
+
+---
+
+## The Onion adds a new layer, buying Alex Jones’ Infowars and turning it into a parody of itself
+
+date: 2024-11-14, from: Nieman Journalism Lab
+
+Maybe it&#8217;s not such an odd pairing? After all, The Onion and Infowars both publish a lot of fake information. Both are known for their coverage of national tragedies. They both reach audiences who want to have a laugh at a world being presented to them through a very particular lens. Both have been the... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/11/the-onion-adds-a-new-layer-buying-alex-jones-infowars-and-turning-it-into-a-parody-of-itself/>
+
+---
+
+## Among apps vying to replace Twitter, Bluesky may have the news and innovation edge
+
+date: 2024-11-14, from: Nieman Journalism Lab
+
+Even before the U.S. election sped up an exodus from the Elon Musk-owned site, X had reportedly lost one-fifth of its active users in the U.S. and one-third in the U.K.. Bluesky seems to have the juice to win over some of those fleeing users — especially journalists and others interested in news and current... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/11/among-apps-vying-to-replace-twitter-bluesky-may-have-the-news-and-innovation-edge/>
 
 ---
 
@@ -95,7 +160,8 @@ date: 2024-11-14, from: The Daily Trojan (USC Student Newspaper)
 
 **@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-14, from: The Daily Bruin (UCLA Student Newspaper))
 
-Michael Machat, attorney for Rodriguez, asked Holbrook why his daughter was not taken to a pediatrician immediately. Holbook said by the time he and Kim were made aware, it had been too long. 
+<em>Editor&#8217;s note: This post was updated on Nov. 14 at 10:17 a.m. to provide retroactive anonymity to a source due to privacy concerns. </em>
+Michael Machat, attorney for Rodriguez, asked Child A&#8217;s father why his daughter was not taken to a pediatrician immediately. 
 
 <br> 
 
@@ -105,7 +171,8 @@ Michael Machat, attorney for Rodriguez, asked Holbrook why his daughter was not 
 
 **@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-14, from: The Daily Bruin (UCLA Student Newspaper))
 
-Holbrook said he received an email – which had also been sent to other individuals – from Rodriguez on Dec. 13, 2023, apologizing for his behavior not being of &#8220;best practice.&#8221; 
+<em>Editor’s note:&#160;This post was updated on Nov. 14 at 10:17 a.m. to provide retroactive anonymity to a source due to privacy concerns.</em>
+Child A&#8217;s father said he received an email – which had also been sent to other individuals – from Rodriguez on Dec. 
 
 <br> 
 
@@ -115,7 +182,8 @@ Holbrook said he received an email – which had also been sent to other individ
 
 **@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-14, from: The Daily Bruin (UCLA Student Newspaper))
 
-Kim is not currently suing UCLA, saying she is &#8220;focused on the criminal trial&#8221; and justice being served. Kim&#8217;s husband, Andrew Holbrook, said on the witness stand that they have discussed the possibility of suing UCLA with civil attorney Danielle De Smeth. 
+<em>Editor’s note:&#160;This post was updated on Nov. 14 at 10:17 a.m. to provide retroactive anonymity to a source due to privacy concerns.</em>
+Child A&#8217;s mother is not currently suing UCLA, saying she is &#8220;focused on the criminal trial&#8221; and justice being served. 
 
 <br> 
 
@@ -125,7 +193,8 @@ Kim is not currently suing UCLA, saying she is &#8220;focused on the criminal tr
 
 **@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-14, from: The Daily Bruin (UCLA Student Newspaper))
 
-Kim said her daughter first mentioned Rodriguez touching and hitting her Jan. 13, nearly a month after receiving a call from Alicia Minor Brown – director of early care and education – on Dec. 
+<em>Editor’s note:&#160;This post was updated on Nov. 14 at 10:17 a.m. to provide retroactive anonymity to a source due to privacy concerns.</em>
+Child A&#8217;s mother said her daughter first mentioned Rodriguez touching and hitting her Jan. 
 
 <br> 
 
@@ -135,7 +204,8 @@ Kim said her daughter first mentioned Rodriguez touching and hitting her Jan. 13
 
 **@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-14, from: The Daily Bruin (UCLA Student Newspaper))
 
-Amid her daughter&#8217;s behavioral changes, Kim said she decided to record an interaction of her daughter being upset when her father was seeking to change her clothes, saying she could see her daughter becoming visibly upset. 
+<em>Editor’s note:&#160;This post was updated on Nov. 14 at 10:17 a.m. to provide retroactive anonymity to a source due to privacy concerns.</em>
+Amid her daughter&#8217;s behavioral changes, Child A&#8217;s mother said she decided to record an interaction of her daughter being upset when her father was seeking to change her clothes, saying she could see her daughter becoming visibly upset. 
 
 <br> 
 
@@ -145,7 +215,8 @@ Amid her daughter&#8217;s behavioral changes, Kim said she decided to record an 
 
 **@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-14, from: The Daily Bruin (UCLA Student Newspaper))
 
-Shirley Kim was asked by her attorney, Jennifer Waxler, on the details of how her daughter – one of the accusing children in the case – was prepared for trial. 
+<em>Editor’s note:&#160;This post was updated on Nov. 14 at 10:17 a.m. to provide retroactive anonymity to a source due to privacy concerns.</em>
+Child A&#8217;s mother was asked by her attorney, Jennifer Waxler, on the details of how her daughter – one of the accusing children in the case – was prepared for trial. 
 
 <br> 
 
@@ -169,8 +240,8 @@ SAN FRANCISCO &#8211; Members of the UC Board of Regents Health Services Committ
 
 date: 2024-11-14, from: The Daily Bruin (UCLA Student Newspaper)
 
-A draft LAPD report Nov. 5 found policing agencies failed to coordinate in response to the UCLA Palestine solidarity encampment.
-The report, written by then-Interim Chief of Police Dominic Choi, reviewed the role LAPD played in the police response to protests at UCLA between April 24 and May 7. 
+<em>This post was updated Nov. 14 at 9:53 a.m..</em>
+A draft LAPD report Nov. 5 found policing agencies failed to coordinate in response to the UCLA Palestine solidarity encampment. 
 
 <br> 
 

@@ -1,11 +1,81 @@
 ---
 title: ham radio
-updated: 2024-11-14 08:24:08
+updated: 2024-11-14 13:46:24
 ---
 
 # ham radio
 
-(date: 2024-11-14 08:24:08)
+(date: 2024-11-14 13:46:24)
+
+---
+
+## Current shunt probes feature RF isolation
+
+date: 2024-11-14, from: EDN Blog
+
+<img width="800" height="462" src="https://www.edn.com/wp-content/uploads/Tektronix-TICP-probes.jpg?fit=800%2C462" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Tektronix-TICP-probes.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Tektronix-TICP-probes.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Tektronix-TICP-probes.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>TICP Series IsoVu current probes from Tektronix provide complete galvanic RF isolation between the measurement system and DUT.</p>
+<p>The post <a href="https://www.edn.com/current-shunt-probes-feature-rf-isolation/" data-wpel-link="internal">Current shunt probes feature RF isolation</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/current-shunt-probes-feature-rf-isolation/>
+
+---
+
+## Application processors optimize industrial control
+
+date: 2024-11-14, from: EDN Blog
+
+<img width="800" height="441" src="https://www.edn.com/wp-content/uploads/NXP-i.MX-94.jpg?fit=800%2C441" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/NXP-i.MX-94.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/NXP-i.MX-94.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/NXP-i.MX-94.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>NXP’s i.MX 94 family of application processors combines communications, safety, and real-time control functions into a single SoC. </p>
+<p>The post <a href="https://www.edn.com/application-processors-optimize-industrial-control/" data-wpel-link="internal">Application processors optimize industrial control</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/application-processors-optimize-industrial-control/>
+
+---
+
+## Microchip launches broad IGBT 7 portfolio
+
+date: 2024-11-14, from: EDN Blog
+
+<img width="800" height="445" src="https://www.edn.com/wp-content/uploads/Microchip-IGBT-7.jpg?fit=800%2C445" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Microchip-IGBT-7.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Microchip-IGBT-7.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Microchip-IGBT-7.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p> IGBT 7 devices from Microchip offer power system designers a wide selection of current and voltage ranges, topologies, and package types.</p>
+<p>The post <a href="https://www.edn.com/microchip-launches-broad-igbt-7-portfolio/" data-wpel-link="internal">Microchip launches broad IGBT 7 portfolio</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/microchip-launches-broad-igbt-7-portfolio/>
+
+---
+
+## Portable test gear enables mmWave signal analysis
+
+date: 2024-11-14, from: EDN Blog
+
+<img width="800" height="474" src="https://www.edn.com/wp-content/uploads/Keysight_VDI.jpg?fit=800%2C474" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Keysight_VDI.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Keysight_VDI.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Keysight_VDI.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Select Tektronix FieldFox handheld analyzers now cover frequencies up to 170 GHz for mmWave signal analysis. </p>
+<p>The post <a href="https://www.edn.com/portable-test-gear-enables-mmwave-signal-analysis/" data-wpel-link="internal">Portable test gear enables mmWave signal analysis</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/portable-test-gear-enables-mmwave-signal-analysis/>
+
+---
+
+## Renesas expands line of programmable mixed-signal ICs
+
+date: 2024-11-14, from: EDN Blog
+
+<img width="800" height="450" src="https://www.edn.com/wp-content/uploads/Renesas-AnalogPAK-SLG47011.jpg?fit=800%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Renesas-AnalogPAK-SLG47011.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Renesas-AnalogPAK-SLG47011.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Renesas-AnalogPAK-SLG47011.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Renesas has launched the AnalogPAK series of programmable mixed-signal ICs, including a 14-bit SAR ADC with a programmable gain amplifier.</p>
+<p>The post <a href="https://www.edn.com/renesas-expands-line-of-programmable-mixed-signal-ics/" data-wpel-link="internal">Renesas expands line of programmable mixed-signal ICs</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/renesas-expands-line-of-programmable-mixed-signal-ics/>
 
 ---
 
@@ -13,7 +83,7 @@ updated: 2024-11-14 08:24:08
 
 date: 2024-11-14, from: EDN Blog
 
-<img width="863" height="693" src="https://www.edn.com/wp-content/uploads/VFC232_Figure1.png?fit=863%2C693" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/VFC232_Figure1.png?w=863 863w, https://www.edn.com/wp-content/uploads/VFC232_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/VFC232_Figure1.png?w=768 768w" sizes="(max-width: 863px) 100vw, 863px" /><p>This design idea uses asynchronous RS232 to power and count pulses from a simple 10 kHz voltage-to-frequency converter.</p>
+<img width="863" height="693" src="https://www.edn.com/wp-content/uploads/VFC232_Figure1.png?fit=863%2C693" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/VFC232_Figure1.png?w=863 863w, https://www.edn.com/wp-content/uploads/VFC232_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/VFC232_Figure1.png?w=768 768w" sizes="auto, (max-width: 863px) 100vw, 863px" /><p>This design idea uses asynchronous RS232 to power and count pulses from a simple 10 kHz voltage-to-frequency converter.</p>
 <p>The post <a href="https://www.edn.com/rs232-meets-vfc/" data-wpel-link="internal">RS232 meets VFC</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

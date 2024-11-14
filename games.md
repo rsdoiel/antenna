@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2024-11-14 08:24:09
+updated: 2024-11-14 13:46:25
 ---
 
 # games
 
-(date: 2024-11-14 08:24:09)
+(date: 2024-11-14 13:46:25)
+
+---
+
+## Hasbro sued in investor suit for allegedly lying about overpurchased inventory after pandemic demand
+
+date: 2024-11-14, updated: 2024-11-14, from: Polygon Website
+
+A self-described “investor rights law firm” filed a lawsuit Wednesday alleging that Hasbro, the tabletop gaming and toy company, misrepresented its excessive inventory to investors, something the firm says is a violation of federal securities laws. Polygon reached out to Hasbro for comment and has yet to hear back. Bernstein Litowitz Berger &#38; Grossmann (the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/479315/hasbro-investor-lawsuit-pandemic-inventory>
+
+---
+
+## Kai Cenat got the VA behind GTA 5’s Franklin to sit in on his stream
+
+date: 2024-11-14, updated: 2024-11-14, from: Polygon Website
+
+Kai Cenat’s Mafiathon 2, a “subathon” where he streams non-stop to garner as many Twitch subscribers as possible, has already become a massive cultural moment. Cenat reclaimed the world record for most subscribers on Twitch on Nov. 11 and the stream continues to go strong 14 days in. On Wednesday, Shawn Fonteno, the voice of Franklin from Grand [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/twitch/478985/kai-cenat-franklin-mafiathon-gta-5>
+
+---
+
+## GTA Online update for the week of November 14
+
+date: 2024-11-14, updated: 2024-11-14, from: Polygon Website
+
+The weekly GTA Online update for Nov. 14, 2024, is live with reward events, discounts, prizes, and a the Doomsday Heist. Our GTA Online weekly update guide will tell you everything happening in Los Santos this week. GTA Online special events This week’s Heist is the Doomsday Heist. You’ll need to head to Maze Bank [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gta-online-guides/479170/november-14-weekly-update-events-heist-challenge>
+
+---
+
+## Finally, Dimension 20 fans can Never Stop Blowing Up at their own home tables
+
+date: 2024-11-14, updated: 2024-11-14, from: Polygon Website
+
+It would be low-hanging rhetorical fruit to say that Never Stop Blowing Up, Dimension 20’s “’80s Action Movie Meets Jumanji” actual play game, was the most explosive season in the history of the show. But it remains true: Game master Brennan Lee Mulligan and castmembers Rekha Shankar, Ify Nwadiwe, Isabella Roland, Alex Song-Xia, and Ally [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/478584/dimension-20-never-stop-blowing-up-rules-system-official>
+
+---
+
+## The Magnus Archives RPG based on the cult-classic podcast goes on sale 
+
+date: 2024-11-14, updated: 2024-11-14, from: Polygon Website
+
+The highly-anticipated Magnus Archives Roleplaying Game is finally available for purchase. Based on the cult-classic podcast, the tabletop RPG hit (virtual) shelves earlier this month after raising over $2 million dollars during its crowdfunding campaign in late 2023. Anyone can purchase the physical edition through Monte Cook Games’ website, with the PDF for sale on [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/478911/magnus-archives-rpg-monte-cook-games-where-to-buy>
+
+---
+
+## Unreal, Unreal Tournament free on Internet Archive
+
+date: 2024-11-14, updated: 2024-11-14, from: Polygon Website
+
+Unreal, the first-person shooter that introduced Unreal Engine to the world, and its multiplayer-focused follow-up Unreal Tournament have been preserved via the Internet Archive and are freely available for download with the blessing of developer Epic Games. Old Unreal first shared the news with its longstanding community of diehard Unreal fans on October 29 and, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/479060/unreal-tournament-epic-games-internet-archive-free>
+
+---
+
+## All Astro Bot speedrun DLC levels and bots
+
+date: 2024-11-14, updated: 2024-11-14, from: Polygon Website
+
+A series of free speedrun levels DLC were added to Astro Bot across Oct. and Nov. 2024. Each week for five weeks, a new speedrun level was added to the game, complete with online leaderboards and two additional special bots to find, adding 10 to your overall roster — and bringing the total bot count [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/astro-bot-guides/466172/speedrun-dlc-levels-update-time-schedule>
+
+---
+
+## According to the Dune: Prophecy actors, the Bene Gesserit footwear is a whole thing
+
+date: 2024-11-14, updated: 2024-11-14, from: Polygon Website
+
+On stage at New York Comic Con, actress Jessica Barden shared a little secret from behind the scenes of Dune: Prophecy that she worried audiences wouldn’t get to see on screen. “The footwear was Nike Airs,” Barden laughed. “My first day on set they gave me these shoes and I was like, Whoa, the Dune [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/478774/dune-prophecy-bene-gesserit-costumes-bts-interview>
+
+---
+
+## Get 3 months of Xbox Game Pass Ultimate for 40% off for today only
+
+date: 2024-11-14, updated: 2024-11-14, from: Polygon Website
+
+If you’ve been waiting to renew your Game Pass Ultimate subscription, wait no longer. For one day only, Woot is currently offering a massive 40% discount on Game Pass subscriptions. Just use code TWENTY at checkout, and you’ll be able to pick up three-month subscriptions for $29.19 (was $49.99), or a single month for just [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/479055/xbox-game-pass-ultimate-sale-woot>
+
+---
+
+## Death of the Reprobate combines potty humor with high art
+
+date: 2024-11-14, updated: 2024-11-14, from: Polygon Website
+
+Reprobate, a word whose archaic meaning in the Calvinist tradition is “a person damned to hell,” is the perfect mindset to embody in a game where you play as an absolute bastard.&#160;&#160; In Death of the Reprobate, I assume the role of a young tyrant named Malcolm the Shit. His father, Immortal John, is dying. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/478882/death-of-the-reprobate-art-game-potty-humor>
 
 ---
 
@@ -90,18 +210,6 @@ Looking for the best games on the Nintendo Switch? What follows is a living list
 <br> 
 
 <https://www.polygon.com/nintendo-switch/2018/9/4/17549714/best-nintendo-switch-games>
-
----
-
-## According to the Dune: Prophecy actors, the Bene Gesserit footwear is a whole thing
-
-date: 2024-11-14, updated: 2024-11-13, from: Polygon Website
-
-On stage at New York Comic Con, actress Jessica Barden shared a little secret from behind the scenes of Dune: Prophecy that she worried audiences wouldn’t get to see on screen. “The footwear was Nike Airs,” Barden laughed. “My first day on set they gave me these shoes and I was like, Whoa, the Dune [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/tv/478774/dune-prophecy-bene-gesserit-costumes-bts-interview>
 
 ---
 

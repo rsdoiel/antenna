@@ -1,11 +1,76 @@
 ---
 title: pacific
-updated: 2024-11-14 08:24:08
+updated: 2024-11-14 13:46:24
 ---
 
 # pacific
 
-(date: 2024-11-14 08:24:08)
+(date: 2024-11-14 13:46:24)
+
+---
+
+## Ethnomusicology pioneer receives Korean presidential award
+
+date: 2024-11-14, from: University of Hawaiʻi News
+
+<p>The award recognizes excellence in research and scholarship and contribution to the Republic of Korea’s cultural organizations and the academic community.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/14/ethnomusicology-pioneer-receives-korean-presidential-award/">Ethnomusicology pioneer receives Korean presidential award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/14/ethnomusicology-pioneer-receives-korean-presidential-award/>
+
+---
+
+## Majuro five are still alive
+
+date: 2024-11-14, from: Marshal Islands Journal
+
+<p>Journal 11/20/1987 P1 Majuro five still aliveMajuro’s five incumbents head the list of vote getters in the final but unofficial vote count for all Mauro election wards. The unofficial results showed President Amata Kabua at the top, Hemos Jack was second, while Phillip Muller and Tony deBrum were a close third and fourth. Henry Samuel [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/majuro-five-are-still-alive/">Majuro five are still alive</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/majuro-five-are-still-alive/>
+
+---
+
+## UH Alumni 13 of PBN 40 Under 40 honorees
+
+date: 2024-11-14, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> alumni on the 40 under 40 are impressive business professionals.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/14/alumni-pbn-40-under-40/"><abbr>UH</abbr> Alumni 13 of <abbr>PBN</abbr> 40 Under 40 honorees</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/14/alumni-pbn-40-under-40/>
+
+---
+
+## Raiatea Helm concert to benefit Hawaiian music students at Windward CC
+
+date: 2024-11-14, from: University of Hawaiʻi News
+
+<p>The fundraiser aims to provide scholarships for students at Windward <abbr>CC</abbr>’s Hawaiian Music Institute.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/14/raiatea-helm-concert-hawaiian-music-students/">Raiatea Helm concert to benefit Hawaiian music students at Windward <abbr>CC</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/14/raiatea-helm-concert-hawaiian-music-students/>
+
+---
+
+## A-Okay
+
+date: 2024-11-14, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Court Ludwick In the wooden swing, in our backyard, in the darkest part of summer right before my seventh-grade year, my mother suddenly grabs me. She grabs the smallest part of my wrist, twisting hard so this fragile underbelly &#8230; <a href="https://hawaiipacificreview.org/2024/11/14/a-okay/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://hawaiipacificreview.org/2024/11/14/a-okay/>
 
 ---
 
@@ -320,6 +385,20 @@ date: 2024-11-14, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2024/11/14/nation-world-news/trumps-team-drawing-up-list-of-pentagon-officers-to-fire-sources-say/>
+
+---
+
+## Police ID two killed in weekend traffic crash
+
+date: 2024-11-14, from: Hawaii Tribune Harold
+
+
+				<p>Police have identified two individuals killed in a two-vehicle collision early Saturday morning in Volcano as 48-year-old Joanna Graves and 54-year-old David Makizuru, both of Volcano.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/14/hawaii-news/police-id-two-killed-in-weekend-traffic-crash/>
 
 ---
 

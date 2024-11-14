@@ -1,11 +1,71 @@
 ---
 title: food
-updated: 2024-11-14 08:24:11
+updated: 2024-11-14 13:46:27
 ---
 
 # food
 
-(date: 2024-11-14 08:24:11)
+(date: 2024-11-14 13:46:27)
+
+---
+
+## 30 Best KitchenAid Black Friday Deals of 2024 to Mix It Up
+
+date: 2024-11-14, from: Bon Appetet
+
+The best early deals on the best stand mixers from Amazon, Walmart, and Best Buy. 
+
+<br> 
+
+<https://www.bonappetit.com/story/kitchenaid-mixer-black-friday-11-14-2024>
+
+---
+
+## 31 Early Black Friday Kitchen Deals BA Editors Are Shopping (2024)
+
+date: 2024-11-14, from: Bon Appetet
+
+Up to 50% off on Staub Dutch ovens, cookware sets, air fryers, and more 
+
+<br> 
+
+<https://www.bonappetit.com/story/black-friday-kitchen-deals-11-14-2024>
+
+---
+
+## Shop All-Clad's Factory Seconds Sale: Editor-Favorite Pans at a Discount
+
+date: 2024-11-14, from: Bon Appetet
+
+Shop the pots, pans, and appliances Bon Appétit editors love—at unbeatable prices. 
+
+<br> 
+
+<https://www.bonappetit.com/story/all-clad-factory-seconds-sale-11-14-2024>
+
+---
+
+## The Best Whiskey Glasses (2024) Whether You Take Yours Neat or on the Rocks
+
+date: 2024-11-14, from: Bon Appetet
+
+This is how you should take your sips and drams. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-whiskey-glasses>
+
+---
+
+## With Eyes on Coffee, Pouches.com Makes Global Launch
+
+date: 2024-11-14, from: Daily Coffee News
+
+<div><img width="620" height="428" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/p2-1-620x428.jpg" class="attachment-large size-large wp-post-image" alt="p2" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/p2-1-620x428.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/p2-1-300x207.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/p2-1-150x104.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/p2-1-768x530.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/p2-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new flexible packaging company from Germany called Pouches.com just launched with global aspirations and a focus on the coffee industry.&#160; Promising start-to-finish online design and ordering for plastic pouches... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/11/14/with-eyes-on-coffee-pouches-com-makes-global-launch/>
 
 ---
 
@@ -21,11 +81,11 @@ Bouncy rice cakes turn this spicy Korean classic into a perfect weeknight dinner
 
 ---
 
-## Why Draft Beer Drinking Is In Decline
+## Why Draft Beer Drinking Is in Decline
 
 date: 2024-11-14, from: Bon Appetet
 
-Why ordering a draft beer might soon become a thing of the past 
+Why ordering a draft beer might soon become a thing of the past. 
 
 <br> 
 
@@ -37,7 +97,7 @@ Why ordering a draft beer might soon become a thing of the past
 
 date: 2024-11-14, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/robusta-coffee-620x414.jpg" class="attachment-large size-large wp-post-image" alt="robusta coffee" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/robusta-coffee-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/robusta-coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/robusta-coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/robusta-coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/robusta-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Approximately 73% of the green coffee purchased by nine of the world&#8217;s largest buyers in 2023 met a recognized baseline sustainability standard, according to the latest annual report from the... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/robusta-coffee-620x414.jpg" class="attachment-large size-large wp-post-image" alt="robusta coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/robusta-coffee-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/robusta-coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/robusta-coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/robusta-coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/robusta-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Approximately 73% of the green coffee purchased by nine of the world&#8217;s largest buyers in 2023 met a recognized baseline sustainability standard, according to the latest annual report from the... 
 
 <br> 
 
@@ -217,7 +277,7 @@ date: 2024-11-13, from: Daily Coffee News
 
 date: 2024-11-13, from: Daily Coffee News
 
-<div><img width="620" height="434" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/Cafe-de-Arts-roastery-1-620x434.jpg" class="attachment-large size-large wp-post-image" alt="Cafe de Arts roastery" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/Cafe-de-Arts-roastery-1-620x434.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Cafe-de-Arts-roastery-1-300x210.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Cafe-de-Arts-roastery-1-150x105.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Cafe-de-Arts-roastery-1-768x538.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Cafe-de-Arts-roastery-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Waukesha, Wisconsin-based coffee company Cafe De Arts Roastery recently expanded its capacity with the installation of a customized 30-kilogram-capacity machine from Turkish company Oriks Coffee Roasters. The company is using... 
+<div><img width="620" height="434" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/Cafe-de-Arts-roastery-1-620x434.jpg" class="attachment-large size-large wp-post-image" alt="Cafe de Arts roastery" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/Cafe-de-Arts-roastery-1-620x434.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Cafe-de-Arts-roastery-1-300x210.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Cafe-de-Arts-roastery-1-150x105.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Cafe-de-Arts-roastery-1-768x538.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Cafe-de-Arts-roastery-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Waukesha, Wisconsin-based coffee company Cafe De Arts Roastery recently expanded its capacity with the installation of a customized 30-kilogram-capacity machine from Turkish company Oriks Coffee Roasters. The company is using... 
 
 <br> 
 

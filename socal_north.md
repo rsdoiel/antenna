@@ -1,11 +1,73 @@
 ---
 title: socal north
-updated: 2024-11-14 08:24:07
+updated: 2024-11-14 13:46:23
 ---
 
 # socal north
 
-(date: 2024-11-14 08:24:07)
+(date: 2024-11-14 13:46:23)
+
+---
+
+## Meet the (likely) new LA City Council members
+
+date: 2024-11-14, updated: 2024-11-14, from: The LAist
+
+A look at who they are and what’s next for L.A.’s city government. 
+
+<br> 
+
+<https://laist.com/news/politics/meet-the-likely-new-la-city-council-members>
+
+---
+
+## California schools brace for Trump’s attacks on immigrants, trans students and ‘woke’ curriculum
+
+date: 2024-11-14, updated: 2024-11-14, from: The LAist
+
+As Trump targets immigrants and trans students, California schools prepare to fight education policy changes. 
+
+<br> 
+
+<https://laist.com/news/california-schools-brace-for-trumps-attacks-on-immigrants-trans-students-and-woke-curriculum>
+
+---
+
+## Building Bridges – Port of Hueneme and Port of Paita Sign Memorandum of Understanding to Establish a Sister Port Relationship
+
+date: 2024-11-14, from: Port Hueneme
+
+<p>Download Press Release Contact: Letitia Austin Public &#38; Government Relations Manager laustin@portofh.org &#160; &#160; [PORT HUENEME, CA] – The Port of Hueneme, California and the Port of Paita, Peru are&#8230;</p>
+<p>The post <a href="https://www.portofhueneme.org/building-bridges-hueneme-and-paita/">Building Bridges &#8211; Port of Hueneme and Port of Paita Sign Memorandum of Understanding to Establish a Sister Port Relationship</a> appeared first on <a href="https://www.portofhueneme.org">The Port of Hueneme</a>.</p>
+ 
+
+<br> 
+
+<https://www.portofhueneme.org/building-bridges-hueneme-and-paita/>
+
+---
+
+## As California taps pandemic stockpile for bird flu, officials keep close eye on spending
+
+date: 2024-11-14, updated: 2024-11-14, from: The LAist
+
+It’s the latest reminder of the state’s struggle to remain prepared amid multibillion-dollar deficits. 
+
+<br> 
+
+<https://laist.com/news/health/california-taps-pandemic-stockpile-for-bird-flu>
+
+---
+
+## Cool conditions ahead of the weekend to bring chance of showers and snow over local mountains
+
+date: 2024-11-14, updated: 2024-11-14, from: The LAist
+
+Temperatures to drop 10 to 12 degrees below normal tomorrow. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/cool-conditions-ahead-of-the-weekend-bringing-chance-of-showers-and-snow-over-local-mountains>
 
 ---
 
@@ -21,7 +83,7 @@ A new wing at the Natural History Museum, Vulture Fest hosts TV reunions in Holl
 
 ---
 
-## Tips on school choice as LAUSD’s eChoices application window closes
+## LAUSD's eChoices application window closes soon. Here are some tips to help
 
 date: 2024-11-14, updated: 2024-11-14, from: The LAist
 

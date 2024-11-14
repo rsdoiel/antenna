@@ -1,15 +1,159 @@
 ---
 title: going electric
-updated: 2024-11-14 08:24:10
+updated: 2024-11-14 13:46:26
 ---
 
 # going electric
 
-(date: 2024-11-14 08:24:10)
+(date: 2024-11-14 13:46:26)
 
 ---
 
-## You're Less Likely To Get Rear-Ended By An Electric Car
+## China powers up the world’s largest open-sea offshore solar farm
+
+date: 2024-11-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/China-Energy-offshore-solar-farm.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>China’s CHN Energy has connected the first solar units from its 1-gigawatt (GW) offshore solar farm – the world’s first and largest of its kind – to the grid. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,egeb,energy-brief,solar,solar-power" data-layer-viewtype="unknown" data-post-id="389205" href="https://electrek.co/2024/11/14/china-worlds-largest-open-sea-offshore-solar-farm/#more-389205" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/14/china-worlds-largest-open-sea-offshore-solar-farm/>
+
+---
+
+## Kia is teasing a new EV model for the US: Here’s what to expect
+
+date: 2024-11-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Kias-EV3-US.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>At least one new <a href="https://electrek.co/guides/kia/">Kia EV </a>model will be revealed at next week’s LA Auto Show. Kia is teasing the new EV ahead of the event, claiming it wants to make “it very clear” that the company is charging ahead in the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia" data-layer-viewtype="unknown" data-post-id="389190" href="https://electrek.co/2024/11/14/kia-teasing-new-ev-model-for-us-what-to-expect/#more-389190" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/14/kia-teasing-new-ev-model-for-us-what-to-expect/>
+
+---
+
+## Save $700 on new & old Rad Power e-bikes in Black Friday sale, Segway ZT3 Pro e-scooter deals, GoTrax Everest dirt bike, more
+
+date: 2024-11-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Lifestyle_1-min-1.png?w=1600" /></div><p>We’ve got some great Green Deals for you today, led by <a href="https://9to5toys.com/2024/11/14/rad-powers-2024-black-friday-sale/">Rad Power’s official 2024 Black Friday sale</a> that is running through the rest of the month and offering up to $500 discounts on veteran e-bikes, free extra battery promotions on the newest models, and plenty of accessory discounts up to 30% – all starting from <a href="https://9to5toys.com/2024/11/14/rad-powers-2024-black-friday-sale/">$1,099</a>. Right behind it is Segway’s latest <a href="https://9to5toys.com/2024/11/13/segway-zt3-pro-e-scooter-from-1100/">ZT3 Pro</a> All-Terrain Electric Scooter that has two differing offers – the first being a $200 discount while the second gives you a free Lumina power station, starting from <a href="https://9to5toys.com/2024/11/13/segway-zt3-pro-e-scooter-from-1100/">$1,100</a>. We have the return of the all-time lowest price on <a href="https://9to5toys.com/2024/11/14/gotrax-everest-e-dirt-bike-4000-today/">GoTrax’s Everest</a> Electric Dirt Bike at <a href="https://9to5toys.com/2024/11/14/gotrax-everest-e-dirt-bike-4000-today/">$4,000</a> for today only, as well as new low prices on Worx’s M 20V and L 20V <a href="https://9to5toys.com/2024/11/14/worx-landroid-lows-from-540/">Landroid Robotic Lawn Mowers</a> that start from <a href="https://9to5toys.com/2024/11/14/worx-landroid-lows-from-540/">$540</a>. Lastly, Walmart’s early Black Friday sale has discounted a selection of Greenworks equipment, with the <a href="https://9to5toys.com/2024/11/13/greenworks-60v-16-inch-chainsaw-new-139-low/">60V 16-inch Cordless Electric Chainsaw</a> hitting a new <a href="https://9to5toys.com/2024/11/13/greenworks-60v-16-inch-chainsaw-new-139-low/">$139</a> low. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s $600 off Black Friday deal on <a href="https://9to5toys.com/2024/11/13/heybikes-cityrun-e-bike-999-low/">Heybike’s Cityrun e-bike</a>, or the other low prices from <a href="https://9to5toys.com/2024/11/13/amazon-has-engwes-e26-dual-suspension-all-terrain-e-bike-hitting-a-new-849-low-reg-1399/">ENGWE</a>, <a href="https://9to5toys.com/2024/11/12/segways-ninebot-e22-360/">Segway Ninebot</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="389173" href="https://electrek.co/2024/11/14/save-700-on-new-old-rad-power-e-bikes-in-black-friday-sale-segway-zt3-pro-e-scooter-deals-gotrax-everest-dirt-bike-more/#more-389173" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/14/save-700-on-new-old-rad-power-e-bikes-in-black-friday-sale-segway-zt3-pro-e-scooter-deals-gotrax-everest-dirt-bike-more/>
+
+---
+
+## Trump Transition Team Aims To Gut The $7,500 EV Tax Credit: Report
+
+date: 2024-11-14, from: Inside EVs News
+
+According to a new report, the move is supported by Tesla and an energy-policy transition team with deep ties to Big Oil. 
+
+<br> 
+
+<https://insideevs.com/news/741046/trump-ev-tax-credit-kill/>
+
+---
+
+## Tesla supports killing $7,500 EV tax credit – going directly against its mission
+
+date: 2024-11-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2016/03/img_1665-e1457955946161.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla reportedly supports the Trump administration’s plan to kill the $7,500 federal tax credit for electric vehicles – something in direct contradiction to Tesla’s original mission to accelerate the entire industry’s transition to electric transport.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="389179" href="https://electrek.co/2024/11/14/tesla-supports-killing-7500-ev-tax-credit-going-directly-against-its-mission/#more-389179" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/14/tesla-supports-killing-7500-ev-tax-credit-going-directly-against-its-mission/>
+
+---
+
+## Electreon and Xos to deploy wireless charging for commercial EV deliveries like UPS in Michigan
+
+date: 2024-11-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Michigan-wireless-EV-charging-UPS.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The State of Michigan has announced a new partnership with wireless EV charging specialist Electreon and Commercial EV manufacturer <a href="https://electrek.co/guides/xos/">Xos, Inc</a>. Together, the companies have secured funding from the state to expand wireless charging availability for commercial vehicles, including UPS trucks in Detroit. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electreon,michigan,ups,xos" data-layer-viewtype="unknown" data-post-id="389159" href="https://electrek.co/2024/11/14/electreon-xos-wireless-charging-commercial-ev-deliveries-ups-michigan/#more-389159" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/14/electreon-xos-wireless-charging-commercial-ev-deliveries-ups-michigan/>
+
+---
+
+## Here’s our first look at Jaguar’s new luxury electric 4-door GT [Images]
+
+date: 2024-11-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Jaguars-electric-GT.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The iconic British luxury automaker is undergoing a major brand overhaul. With its official debut around the corner, <a href="https://electrek.co/guides/jaguar/">Jaguar’s</a> electric 4-door GT, the first of its new series, was spotted testing on British roads. The new images give us a closer look at what we can expect from the revamped Jag brand.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="jaguar" data-layer-viewtype="unknown" data-post-id="389150" href="https://electrek.co/2024/11/14/first-look-jaguars-new-luxury-electric-gt-images/#more-389150" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/14/first-look-jaguars-new-luxury-electric-gt-images/>
+
+---
+
+## This Is Jaguar's New Six-Figure EV
+
+date: 2024-11-14, from: Inside EVs News
+
+Even though it's still camouflaged, Jaguar's first high-end EV already looks promising. 
+
+<br> 
+
+<https://insideevs.com/news/741020/jaguar-new-expensive-ev/>
+
+---
+
+## Tesla pushes end-to-end neural networks for highway driving, but only for newer vehicles
+
+date: 2024-11-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has pushed a new (Supervised) Full Self-Driving update with the promised end-to-end neural networks for highway driving.</p>
+
+
+
+<p>However, it’s only for newer vehicles.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="389146" href="https://electrek.co/2024/11/14/tesla-pushes-end-to-end-neural-networks-for-highway-driving-but-only-for-newer-vehicles/#more-389146" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/14/tesla-pushes-end-to-end-neural-networks-for-highway-driving-but-only-for-newer-vehicles/>
+
+---
+
+## Why You're Less Likely To Get Rear-Ended By An Electric Car
 
 date: 2024-11-14, from: Inside EVs News
 
@@ -37,6 +181,22 @@ date: 2024-11-14, from: Electrek Feed
 
 ---
 
+## Kia stands by major EV sales goal with new affordable models driving demand
+
+date: 2024-11-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Kia-EV-sales-goal-2030.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>As rivals like Ford and Toyota are pulling back major electric vehicle initiatives, Kia is plowing ahead as it looks to secure a leadership role. <a href="https://electrek.co/guides/kia/">Kia</a> is standing by its EV sales goal of 1.6 million models by 2030. With new low-cost EVs like the EV3 rolling out, Kia is already seeing strong demand.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia" data-layer-viewtype="unknown" data-post-id="389139" href="https://electrek.co/2024/11/14/kia-major-ev-sales-goal-new-affordable-models/#more-389139" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/14/kia-major-ev-sales-goal-new-affordable-models/>
+
+---
+
 ## China's Xiaomi Just Smashed Another Tesla Record
 
 date: 2024-11-14, from: Inside EVs News
@@ -58,6 +218,22 @@ Jaguar is going through major changes that will reposition the brand further upm
 <br> 
 
 <https://insideevs.com/news/740808/jaguar-reborn-ev-concept-december/>
+
+---
+
+## Here’s every electric vehicle that currently qualifies for the US federal tax credit in 2024
+
+date: 2024-11-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/11/Electric-vehicle-tax-credits-2024.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>As sales of electric vehicles continue to grow in 2024, many new and prospective customers have questions about qualifying for a <a href="https://electrek.co/guides/ev-federal-tax-credit/">federal tax credit</a> on electric vehicles. Whether your vehicle qualifies or not is a simple yes or no question, but the amount you may qualify for varies by household due to a number of different factors. Luckily, we have compiled everything you need to know about tax credits for your new or current electric vehicle into one place.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="160594" href="https://electrek.co/2024/11/14/which-electric-vehicles-qualify-us-federal-tax-credit-ev-2024/#more-160594" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/14/which-electric-vehicles-qualify-us-federal-tax-credit-ev-2024/>
 
 ---
 

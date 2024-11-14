@@ -1,11 +1,79 @@
 ---
 title: writing
-updated: 2024-11-14 08:24:09
+updated: 2024-11-14 13:46:25
 ---
 
 # writing
 
-(date: 2024-11-14 08:24:09)
+(date: 2024-11-14 13:46:25)
+
+---
+
+## New Book Releases For 11/12/2024, Come By YouTube For A Watch!
+
+date: 2024-11-14, from: Locus Magazine
+
+<p>Top new Science Fiction, Fantasy, and Horror releases for the week of 11/12/2024! We&#8217;re super excited to tell you about them, so come on by our YouTube channel to discover some new books for your TBR pile! While you&#8217;re there, why not give the video and like and subscribe to support our work and keep up-to-date with future uploads.</p>
+<div class="jetpack-video-wrapper"></div> <a href="https://locusmag.com/2024/11/new-book-releases-for-11-12-2024-come-by-youtube-for-a-watch/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2024/11/new-book-releases-for-11-12-2024-come-by-youtube-for-a-watch/>
+
+---
+
+## ‘Heretic’ and Religion in Horror
+
+date: 2024-11-14, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/heretic-and-religion-in-horror" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Heretic.png" alt="Hugh Grant in 'Heretic'" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Warning: spoilers ahead!<br><br>Why does it seem like so many horror stories have religion as part of the narrative? In everything from <em>Bram Stoker’s Dracula</em> to 2024’s <em>The Deliverance</em>, demons and devils are always seeming to pop into the horror genre, with priests and true believers usually the ones to save the day.&nbsp;</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/heretic-and-religion-in-horror>
+
+---
+
+## 2024 Wonderland Awards Winners
+
+date: 2024-11-14, from: Locus Magazine
+
+<p>BizarroCon has announced the winners for the 2024 Wonderland Book Awards for Excellence in Bizarro Fiction.</p>
+<p><strong>Best Novel</strong></p>
+<ul>
+<li>WINNER: <strong>Edenville</strong>, Sam Rebelein (William Morrow)</li>
+</ul>
+<ul>
+<li><strong>The Last Night to Kill Nazis</strong>, David Agranoff (CLASH)</li>
+<li><strong>Elogona</strong>, Samantha Kolesnik (WeirdPunk )</li>
+<li><strong>Glass Children</strong>, Carlton Mellick III (Eraserhead)</li>
+<li><strong>Soft Targets</strong>, Carson Winter (Tenebrous)</li>
+</ul>
+<p><strong>Best Collection</strong></p>
+<ul>
+<li>WINNER: <strong>All I Want is to Take Shrooms and Listen to the Color of </strong></li></ul> <a href="https://locusmag.com/2024/11/2024-wonderland-awards-winners/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2024/11/2024-wonderland-awards-winners/>
+
+---
+
+## Beneath Ceaseless Skies, Lightspeed, and Worlds of Possibility: Short Fiction Reviews by Charles Payseur
+
+date: 2024-11-14, from: Locus Magazine
+
+<p>Beneath Ceaseless Skies 8/8/24, 8/22/24
+Lightspeed 8/24
+Worlds of Possibility 8/24</p>
+<p><strong>J.A. Prentice </strong>returns to Beneath Ceaseless Skies with August’s “<strong>An Isle in a Sea of Ghosts</strong>”, which finds Kreisa on a journey to try and save her brother from a spell that changes him into a different animal every day. After two years, she has gone through almost everything she can think of, and her brother has  <a href="https://locusmag.com/2024/11/beneath-ceaseless-skies-lightspeed-and-worlds-of-possibility-short-fiction-reviews-by-charles-payseur/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/11/beneath-ceaseless-skies-lightspeed-and-worlds-of-possibility-short-fiction-reviews-by-charles-payseur/>
 
 ---
 
