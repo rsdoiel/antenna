@@ -1,11 +1,139 @@
 ---
 title: food
-updated: 2024-11-13 07:16:35
+updated: 2024-11-13 17:07:28
 ---
 
 # food
 
-(date: 2024-11-13 07:16:35)
+(date: 2024-11-13 17:07:28)
+
+---
+
+## Factor75 Review: We Tried the Healthy Two-Minute Meal Service
+
+date: 2024-11-14, from: Taste of Home
+
+<p>Factor shops, preps, cooks and delivers fresh meals to your door—just heat and eat! Read our thoughts after testing for this Factor75 review.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/factor75-review/">Factor75 Review: We Tried the Healthy Two-Minute Meal Service</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/factor75-review/>
+
+---
+
+## This Major Brand Just Revealed Its ‘Flavor of the Century’
+
+date: 2024-11-14, from: Taste of Home
+
+<p>In honor of its 100th anniversary, Torani is gifting us the "Flavor of the Century."</p>
+<p>The post <a href="https://www.tasteofhome.com/article/flavor-of-the-century/">This Major Brand Just Revealed Its &#8216;Flavor of the Century&#8217;</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/flavor-of-the-century/>
+
+---
+
+## The Best Eggnog You Can Buy at the Store: A Taste Test
+
+date: 2024-11-13, from: Bon Appetet
+
+Find out which ready-made carton poured out the most comfort and cheer. 
+
+<br> 
+
+<https://www.bonappetit.com/story/great-eggnog-taste-test>
+
+---
+
+## Burger King Just Revealed an Advent Calendar—But Its Contents Are a Secret
+
+date: 2024-11-13, from: Taste of Home
+
+<p>Burger King's first-ever Advent calendar will drop on November 22.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/burger-king-advent-calendar/">Burger King Just Revealed an Advent Calendar—But Its Contents Are a Secret</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/burger-king-advent-calendar/>
+
+---
+
+## Cashew Chicken
+
+date: 2024-11-13, from: Taste of Home
+
+<span style="font-weight: 400;">This quick cashew chicken recipe is great as a weeknight timesaver that you won’t find yourself compromising on flavor. If you’ve never cooked with nuts before, prepare for a pleasant surprise. They really bring the best out of the chicken breast. </span> 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/cashew-chicken-with-ginger/>
+
+---
+
+## Uncle Nearest Whiskey Cofounder Fawn Weaver on America's Obsession with Cognac
+
+date: 2024-11-13, from: Bon Appetet
+
+Fawn Weaver, founder of Uncle Nearest, is diving into cognac, learning French, and uncovering the forgotten history of American whiskey 
+
+<br> 
+
+<https://www.bonappetit.com/story/uncle-nearest-fawn-weaver-cognac>
+
+---
+
+## McDonald’s Just Snuck Its Holiday Pie Back on the Menu
+
+date: 2024-11-13, from: Taste of Home
+
+<p>McDonald's Holiday Pie has secretly made its way back on the menu, and we can't wait to take a big ol' bite out of that sweet, colorful seasonal dessert.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/mcdonalds-holiday-pie-2024/">McDonald&#8217;s Just Snuck Its Holiday Pie Back on the Menu</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/mcdonalds-holiday-pie-2024/>
+
+---
+
+## Geimori, Less Static: A New Zero Retention Grinder Is On Kickstarter
+
+date: 2024-11-13, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. The Geimori is a features-heavy new grinder by Wirsh. 
+
+<br> 
+
+<https://sprudge.com/geimori-less-static-a-new-zero-retention-grinder-is-on-kickstarter-258727.html>
+
+---
+
+## With USAID Support, JNP Coffee Establishing Burundi Coffee Academy and Dry Mill
+
+date: 2024-11-13, from: Daily Coffee News
+
+<div><img width="620" height="384" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/JNP-Burundi-coffee-center-620x384.png" class="attachment-large size-large wp-post-image" alt="JNP Burundi coffee center" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/JNP-Burundi-coffee-center-620x384.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/JNP-Burundi-coffee-center-300x186.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/JNP-Burundi-coffee-center-150x93.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/JNP-Burundi-coffee-center-768x476.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/JNP-Burundi-coffee-center.png 966w" sizes="(max-width: 620px) 100vw, 620px" /></div>Green coffee trading company JNP Coffee is leading the creation of a coffee academy and separate dry mill in Burundi. The academy is being designed to train to women and... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/11/13/with-usaid-support-jnp-coffee-establishing-burundi-coffee-academy-and-dry-mill/>
+
+---
+
+## In Wisconsin, Cafe De Arts Now Serves Oriks Roasting Equipment
+
+date: 2024-11-13, from: Daily Coffee News
+
+<div><img width="620" height="434" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/Cafe-de-Arts-roastery-1-620x434.jpg" class="attachment-large size-large wp-post-image" alt="Cafe de Arts roastery" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/Cafe-de-Arts-roastery-1-620x434.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Cafe-de-Arts-roastery-1-300x210.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Cafe-de-Arts-roastery-1-150x105.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Cafe-de-Arts-roastery-1-768x538.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Cafe-de-Arts-roastery-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Waukesha, Wisconsin-based coffee company Cafe De Arts Roastery recently expanded its capacity with the installation of a customized 30-kilogram-capacity machine from Turkish company Oriks Coffee Roasters. The company is using... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/11/13/in-wisconsin-cafe-de-arts-now-serves-oriks-roasting-equipment/>
 
 ---
 
@@ -21,11 +149,23 @@ date: 2024-11-13, from: The Sprudge
 
 ---
 
+## ICO Flagship Development Report: Policy Makers Should Support Circularity
+
+date: 2024-11-13, from: Daily Coffee News
+
+<div><img width="620" height="429" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/Circular-Coffee-Economy-620x429.png" class="attachment-large size-large wp-post-image" alt="Circular Coffee Economy" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/Circular-Coffee-Economy-620x429.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Circular-Coffee-Economy-300x208.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Circular-Coffee-Economy-150x104.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Circular-Coffee-Economy-768x531.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Circular-Coffee-Economy.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>In its latest flagship annual report, the Coffee Development Report, the International Coffee Organization (ICO) outlines the prospects of a circular economy in coffee against the backdrop of climate change.... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/11/13/ico-flagship-development-report-policy-makers-should-support-circularity/>
+
+---
+
 ## 4 Mezcal Types to Know
 
 date: 2024-11-13, from: Bon Appetet
 
-A new wave of hyper-regional terroir-driven agave-based spirits have arrived Stateside. Here are some of the very best bottles to try. 
+A new wave of hyper-regional, terroir-driven agave-based spirits have arrived Stateside. Here are some of the very best bottles to try. 
 
 <br> 
 
@@ -44,6 +184,22 @@ date: 2024-11-13, from: The Fresh Cup
 <br> 
 
 <https://freshcup.com/what-makes-packaging-sustainable/>
+
+---
+
+## Thanksgiving Breakfast Recipes
+
+date: 2024-11-13, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2017/11/Thanksgiving-Breakfast-Recipes.jpg"/></div>
+<p>Start Thanksgiving off on the right foot with one of these tasty breakfast/brunch recipes! Thanksgiving is right around the corner that means that it&#8217;s time to roundup some Thanksgiving recipes starting with recipes for breakfast! Instead of rushing through breakfast on Thanksgiving, spend a bit time on it, make something a bit fancier and share...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/thanksgiving-breakfast-recipes/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/thanksgiving-breakfast-recipes/">Thanksgiving Breakfast Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/thanksgiving-breakfast-recipes/>
 
 ---
 
@@ -74,18 +230,6 @@ date: 2024-11-13, from: Chili Pepper Madness
 <br> 
 
 <https://www.chilipeppermadness.com/chili-pepper-recipes/breakfasts/homemade-cheddar-jalapeno-biscuits/>
-
----
-
-## Uncle Nearest Whiskey Cofounder Fawn Weaver on America's Obsession with Cognac
-
-date: 2024-11-13, from: Bon Appetet
-
-Fawn Weaver, the founder of Uncle Nearest, is diving into cognac, learning French, and uncovering the forgotten history of American whiskey 
-
-<br> 
-
-<https://www.bonappetit.com/story/uncle-nearest-fawn-weaver-cognac>
 
 ---
 
@@ -177,7 +321,7 @@ Compact coffee makers, breakfast-themed puzzles, and other cheap gifts that are 
 
 date: 2024-11-12, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/EUDR-620x414.jpg" class="attachment-large size-large wp-post-image" alt="EUDR" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/EUDR-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/EUDR-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/EUDR-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/EUDR-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/EUDR.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The largest political party in the European Union, the European People&#8217;s Party (EPP), is behind a proposal to further delay the implementation of landmark European deforestation-free legislation (EUDR) affecting coffee... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/EUDR-620x414.jpg" class="attachment-large size-large wp-post-image" alt="EUDR" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/EUDR-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/EUDR-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/EUDR-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/EUDR-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/EUDR.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The largest political party in the European Union, the European People&#8217;s Party (EPP), is behind a proposal to further delay the implementation of landmark European deforestation-free legislation (EUDR) affecting coffee... 
 
 <br> 
 
@@ -189,7 +333,7 @@ date: 2024-11-12, from: Daily Coffee News
 
 date: 2024-11-12, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/Geimori-grinder-GU78-GU64-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Geimori grinder GU78 GU64" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/Geimori-grinder-GU78-GU64-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Geimori-grinder-GU78-GU64-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Geimori-grinder-GU78-GU64-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Geimori-grinder-GU78-GU64-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Geimori-grinder-GU78-GU64.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>With striking design and innovative anti-static features, a new brand of coffee grinders called Geimori is making its way towards the high-end home and light commercial markets. The Geimori GU78... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/Geimori-grinder-GU78-GU64-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Geimori grinder GU78 GU64" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/Geimori-grinder-GU78-GU64-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Geimori-grinder-GU78-GU64-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Geimori-grinder-GU78-GU64-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Geimori-grinder-GU78-GU64-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Geimori-grinder-GU78-GU64.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>With striking design and innovative anti-static features, a new brand of coffee grinders called Geimori is making its way towards the high-end home and light commercial markets. The Geimori GU78... 
 
 <br> 
 
@@ -213,7 +357,7 @@ Including subscription gifts that don't need to arrive on the actual day, virtua
 
 date: 2024-11-12, from: Daily Coffee News
 
-<div><img width="620" height="416" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Pomarrosa-Coffee-1-620x416.jpg" class="attachment-large size-large wp-post-image" alt="Pomarrosa Coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Pomarrosa-Coffee-1-620x416.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Pomarrosa-Coffee-1-300x201.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Pomarrosa-Coffee-1-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Pomarrosa-Coffee-1-768x515.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Pomarrosa-Coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new small-batch roasting company in Denver called Pomarrosa Coffee Lab (Instagram) is extending a family legacy in coffee that spans more than three decades and touches three generations. Pomarossa... 
+<div><img width="620" height="416" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/Pomarrosa-Coffee-1-620x416.jpg" class="attachment-large size-large wp-post-image" alt="Pomarrosa Coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/Pomarrosa-Coffee-1-620x416.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Pomarrosa-Coffee-1-300x201.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Pomarrosa-Coffee-1-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Pomarrosa-Coffee-1-768x515.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/Pomarrosa-Coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new small-batch roasting company in Denver called Pomarrosa Coffee Lab (Instagram) is extending a family legacy in coffee that spans more than three decades and touches three generations. Pomarossa... 
 
 <br> 
 
@@ -438,6 +582,18 @@ Sugared cranberries add special holiday sparkle and dazzle to desserts, cocktail
 <br> 
 
 <https://www.tasteofhome.com/recipes/sugared-cranberries/>
+
+---
+
+## French Apple Cake
+
+date: 2024-11-11, from: Taste of Home
+
+With just a few simple ingredients and your favorite baking apples, you'll have a delicious cake on the table in no time. Here's how to make this impressive French apple cake. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/french-apple-cake/>
 
 ---
 

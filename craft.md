@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2024-11-13 07:16:35
+updated: 2024-11-13 17:07:29
 ---
 
 # craft
 
-(date: 2024-11-13 07:16:35)
+(date: 2024-11-13 17:07:29)
+
+---
+
+## Waiting for the Monsoon — A Lecture & Film by Charllotte Kwon
+
+date: 2024-11-13, updated: 2024-11-13, from: Maiwa blog (weaving and textiles)
+
+ 
+
+<br> 
+
+<https://maiwahandprints.blogspot.com/2024/11/waiting-for-monsoon-lecture-film-by.html>
 
 ---
 

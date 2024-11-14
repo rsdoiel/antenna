@@ -1,11 +1,137 @@
 ---
 title: central coast
-updated: 2024-11-13 07:16:33
+updated: 2024-11-13 17:07:26
 ---
 
 # central coast
 
-(date: 2024-11-13 07:16:33)
+(date: 2024-11-13 17:07:26)
+
+---
+
+## Prescribed Burns Taking Place This Week in Lompoc, Santa Ynez Valleys
+
+date: 2024-11-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Smoke due to a prescribed burn underway Wednesday at Vandenberg Space Force Base prompted concerns from residents around the Lompoc and Santa Ynez valleys, and it&#8217;s one of several planned [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/prescribed-burns-taking-place-this-week-in-lompoc-santa-ynez-valleys/">Prescribed Burns Taking Place This Week in Lompoc, Santa Ynez Valleys</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/prescribed-burns-taking-place-this-week-in-lompoc-santa-ynez-valleys/>
+
+---
+
+## Festive Store Windows Will Enhance Goleta Holiday Parade
+
+date: 2024-11-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>With Old Town Goleta’s holiday lights up and illuminating for the first time, the city is asking local businesses to make Hollister Avenue even more festive by participating in the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/goleta-holiday-parade-window-decorating-contest-returns/">Festive Store Windows Will Enhance Goleta Holiday Parade</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/goleta-holiday-parade-window-decorating-contest-returns/>
+
+---
+
+## Dear Annie: Navigating Social Exclusion as a Widow
+
+date: 2024-11-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Dear Reader: Many of you wrote in regarding the newly widowed woman who stopped receiving invitations to couples’ gatherings. A great number of you shared similar experiences. Below are a [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/dear-annie-navigating-social-exclusion-as-a-widow/">Dear Annie: Navigating Social Exclusion as a Widow</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/dear-annie-navigating-social-exclusion-as-a-widow/>
+
+---
+
+## Rep. Carbajal Tours Montecito Wastewater Treatment Plant
+
+date: 2024-11-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Congressman Salud Carbajal visited the Montecito Sanitary District recently to look at critical infrastructure and environmental initiatives aimed at strengthening community resilience, enhancing water quality, and supporting sustainable growth. The [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/rep-carbajal-tours-montecito-wastewater-treatment/">Rep. Carbajal Tours Montecito Wastewater Treatment Plant</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/rep-carbajal-tours-montecito-wastewater-treatment/>
+
+---
+
+## Christmas Tree Fundraiser to Benefit Eco-Agriculture Education Program
+
+date: 2024-11-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Sustainably harvested white and red silver-tipped fir trees from Northern California will be for sale, 10 a.m.-4 p.m. Sunday, Dec. 1 during Christmas On The Ranch at Farm Supply Company, [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/christmas-tree-fundraiser-to-benefit-eco-agriculture-education-program/">Christmas Tree Fundraiser to Benefit Eco-Agriculture Education Program</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/christmas-tree-fundraiser-to-benefit-eco-agriculture-education-program/>
+
+---
+
+## Free Household Hazardous Waste Collection Set Nov. 16 at SBCC
+
+date: 2024-11-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The city of Santa Barbara&#8217;s Clean Community Division, in partnership with MarBorg Industries, will conduct a free Household Hazardous Waste (HHW) Collection event, 9 a.m.-1 p.m. Saturday, Nov. 16 at [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/free-household-hazardous-waste-collection-set-for-nov-16/">Free Household Hazardous Waste Collection Set Nov. 16 at SBCC</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/free-household-hazardous-waste-collection-set-for-nov-16/>
+
+---
+
+## Public Asked to Weigh in on Unmet Transit Needs
+
+date: 2024-11-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Barbara County Association of Governments (SBCAG) and the cities of Lompoc and Santa Maria will host a series of annual listening sessions through December on unmet transit needs. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/public-asked-to-weigh-in-on-unmet-transit-needs/">Public Asked to Weigh in on Unmet Transit Needs</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/public-asked-to-weigh-in-on-unmet-transit-needs/>
+
+---
+
+## Adrien Brody, Guy Pearce to Receive Film Festival’s Vanguard Award
+
+date: 2024-11-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Two cinema icons, Adrien Brody and Guy Pearce, will receive the Cinema Vanguard Award at the 40th annual Santa Barbara International Film Festival (SBIFF). Spotlighting their performances in Brady Corbet’s [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/adrien-brody-guy-pearce-to-receive-film-festivals-cinema-vanguard-award/">Adrien Brody, Guy Pearce to Receive Film Festival’s Vanguard Award</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/adrien-brody-guy-pearce-to-receive-film-festivals-cinema-vanguard-award/>
+
+---
+
+## Goleta Water District Marks 80th Anniversary
+
+date: 2024-11-13, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Goleta Water District, on Nov. 7, celebrated the 80th anniversary of its founding by a vote of the people in 1944. The anniversary was marked with a ribbon cutting [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/goleta-water-district-marks-80th-anniversary/">Goleta Water District Marks 80th Anniversary</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/goleta-water-district-marks-80th-anniversary/>
 
 ---
 

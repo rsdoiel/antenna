@@ -1,11 +1,227 @@
 ---
 title: home
-updated: 2024-11-13 07:16:34
+updated: 2024-11-13 17:07:27
 ---
 
 # home
 
-(date: 2024-11-13 07:16:34)
+(date: 2024-11-13 17:07:27)
+
+---
+
+## Skechers and John Deere Team Up to Create Tough Footwear for Any Outdoor Task
+
+date: 2024-11-13, from: Family Handyman Blog
+
+<p>Skechers x John Deere is the latest shoe collab we didn’t know we needed.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/skechers-john-deere/">Skechers and John Deere Team Up to Create Tough Footwear for Any Outdoor Task</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/skechers-john-deere/>
+
+---
+
+## Is Your Honda at Risk? 1.4 Million Cars Investigated for Engine Problems
+
+date: 2024-11-13, from: Family Handyman Blog
+
+<p>Last year Honda recalled hundreds of thousands of vehicles due to engine failure and this year they may have to recall more. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/honda-vehicles-investigated-engine-failure-risk/">Is Your Honda at Risk? 1.4 Million Cars Investigated for Engine Problems</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/honda-vehicles-investigated-engine-failure-risk/>
+
+---
+
+## My House: They Said Farewell to London and Moved Into a 17th-Century Water Mill
+
+date: 2024-11-13, from: Dwell
+
+Artists Miriam Nabarro and Simon Quinn call on Cooke Fawcett Architects to sensitively adapt a historic Hampshire site into a home with a workshop and art studio. 
+
+<br> 
+
+<https://www.dwell.com/article/my-house-mill-house-and-makers-workshop-cooke-fawcett-architects-d9d3a29a>
+
+---
+
+## An Arthur Erickson Gem Seeks $8M After a Thoughtful Remodel
+
+date: 2024-11-13, from: Dwell
+
+Built in 1972, the concrete home steps down a steep, wooded hillside in West Vancouver and features four levels that open to the outdoors. 
+
+<br> 
+
+<https://www.dwell.com/article/helmut-and-hildegard-eppich-house-arthur-erickson-vancouver-real-estate-7990592d>
+
+---
+
+## Electrolux Washer and Dryer Review: I Can Confirm This Set Works as Great as It Looks
+
+date: 2024-11-13, from: Family Handyman Blog
+
+<p>In this Electrolux washer and dryer review, an editor details why the 600 Series set beats her previous machines.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/electrolux-washer-and-dryer-review/">Electrolux Washer and Dryer Review: I Can Confirm This Set Works as Great as It Looks</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/electrolux-washer-and-dryer-review/>
+
+---
+
+## Sifting Through Samsung Washer and Dryer Reviews? Here’s a Homeowner’s Honest Take
+
+date: 2024-11-13, from: Family Handyman Blog
+
+<p>Our Samsung washer and dryer review gives a first-hand look at this popular laundry set for pet owners.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/samsung-washer-and-dryer-reviews/">Sifting Through Samsung Washer and Dryer Reviews? Here&#8217;s a Homeowner&#8217;s Honest Take</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/samsung-washer-and-dryer-reviews/>
+
+---
+
+## When and How to Repot African Violets
+
+date: 2024-11-13, from: The Gardener's Path
+
+<p>African violets are low-profile, flowering perennials with a clumping growth habit that thrive outdoors in Zones 11 to 12. Indoors, they are lovely houseplants, and prefer bright, indirect sunlight, and moisture-retentive, well-draining potting soil. Learn when and how to repot African violets in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/houseplants/repot-african-violets/">When and How to Repot African Violets</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/houseplants/repot-african-violets/>
+
+---
+
+## California Agricultural Neighbors report highlights next steps for building proactive food safety culture in Salinas Valley
+
+date: 2024-11-13, from: Calfifornia Dept. Aggriculture blog
+
+CDFA and the Monterey County Farm Bureau are announcing the joint release of the report “California Agricultural Neighbors: Building a Proactive Food Safety Culture.” California Agricultural Neighbors (CAN) was formed in January 2021 to bring together members of the Salinas &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28405">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28405>
+
+---
+
+## All the Thanksgiving Recipes You Need, from Turkey to Pie (and Beyond)
+
+date: 2024-11-13, from: Sunset Magazine - Living in the West
+
+From turkeys to side dishes to pies, we've rounded up all the Thanksgiving recipes you'll need—including vegetarian and vegan options. Happy feasting! 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/best-thanksgiving-recipes>
+
+---
+
+## From Classic to Unexpected, These Thanksgiving Turkey Recipes Are Total Winners
+
+date: 2024-11-13, from: Sunset Magazine - Living in the West
+
+Roasted or grilled, smoked or brined, our very best Thanksgiving turkey recipes will be instant classics on your holiday table. Bonus: gravy recipes! 
+
+<br> 
+
+<https://www.sunset.com/food-wine/holidays-occasions/thanksgiving-turkey-recipes>
+
+---
+
+## You Won’t Miss out on Anything This Thanksgiving with These Gluten-Free Recipes
+
+date: 2024-11-13, from: Sunset Magazine - Living in the West
+
+Are you gluten-free or have guests who are? These gluten-free Thanksgiving recipes will ensure no one will miss out on their holiday favorites. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/holidays-occasions/gluten-free-thanksgiving-recipes>
+
+---
+
+## 8 Pumpkin Pie Recipes to Fall For
+
+date: 2024-11-13, from: Sunset Magazine - Living in the West
+
+Pumpkin pie is the quintessential autumn treat. Find the best recipes here for your Thanksgiving dessert or a sweet ending to a fall dinner. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/pumpkin-pie-recipes>
+
+---
+
+## Thanksgiving Day Menus That Are Far From Traditional
+
+date: 2024-11-13, from: Sunset Magazine - Living in the West
+
+Feasts big and small celebrate the flavors of the West, from a traditional ranch feast to island fare and vegetarian delights 
+
+<br> 
+
+<https://www.sunset.com/food-wine/holidays-occasions/thanksgiving-menus-recipes>
+
+---
+
+## A Chef’s Holiday Feast
+
+date: 2024-11-13, from: Sunset Magazine - Living in the West
+
+Get a Seattle cook's recipes for juniper-and-herb roast turkey, apple-bacon cornbread stuffing, and more 
+
+<br> 
+
+<https://www.sunset.com/food-wine/holidays-occasions/a-chefs-holiday-feast>
+
+---
+
+## Vegetarian holiday menu
+
+date: 2024-11-13, from: Sunset Magazine - Living in the West
+
+Everyone can love this holiday meal from a chef at Greens, San Francisco's landmark restaurant 
+
+<br> 
+
+<https://www.sunset.com/food-wine/holidays-occasions/vegetarian-holiday-menu>
+
+---
+
+## There’s a Hidden Fire Hazard in Your Bathroom You Might Be Ignoring
+
+date: 2024-11-13, from: Family Handyman Blog
+
+<p>In the bathroom we're usually preoccupied with the plumbing. But danger lies above. Here's how to prevent your vent fan from starting a house fire.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/bathroom-exhaust-fan-fire-hazard/">There&#8217;s a Hidden Fire Hazard in Your Bathroom You Might Be Ignoring</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/bathroom-exhaust-fan-fire-hazard/>
+
+---
+
+## These Are the Biggest Thanksgiving Mistakes to Avoid
+
+date: 2024-11-13, from: Sunset Magazine - Living in the West
+
+Mishaps are expected when preparing a Thanksgiving meal. Chefs share the most common Thanksgiving mistakes and what to do instead. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/common-thanksgiving-mistakes>
 
 ---
 
@@ -33,6 +249,18 @@ Avail yourself of a stylish gravity bong (really!) or a tabletop lighter that lo
 
 ---
 
+## An Expansion Cracks Open a Dark London Townhouse
+
+date: 2024-11-13, from: Dwell
+
+Cramped rooms in a three-story family residence become double-height living spaces awash in light. 
+
+<br> 
+
+<https://www.dwell.com/article/taper-house-merrett-houmoller-architects-victorian-renovation-d846eaa2>
+
+---
+
 ## Thuja Green Giant Care and Growing Guide with Ultimate Tips
 
 date: 2024-11-13, from: Yard Life blog
@@ -45,6 +273,66 @@ date: 2024-11-13, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/thuja-green-giant-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## Here’s How to Save Money on Thanksgiving Dinner, According to Professional Chefs
+
+date: 2024-11-13, from: Sunset Magazine - Living in the West
+
+Hosting a Thanksgiving gathering can be costly. Professional chefs share what to splurge and save on, plus other money-saving tips. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/how-to-host-thanksgiving-on-a-budget>
+
+---
+
+## Check in, Learn to Surf: These Beach Hotels Will Teach You How on Your Next Vacation
+
+date: 2024-11-13, from: Sunset Magazine - Living in the West
+
+Check in and learn how to surf. New programming at surf hotels in the West gives surfers of all skill levels a chance to learn. 
+
+<br> 
+
+<https://www.sunset.com/travel/outdoor-adventure/surf-hotels-laguna-surf-lodge>
+
+---
+
+## What to Do on Oahu, According to a Local Surfer
+
+date: 2024-11-13, from: Sunset Magazine - Living in the West
+
+Expert advice on the best spots to visit to Oahu, Hawaii's North Shore, from a shave ice spot to surf lessons to a feel-good cafe. 
+
+<br> 
+
+<https://www.sunset.com/travel/insider-guides/north-shore-oahu-things-to-do>
+
+---
+
+## This Secret Mexican Surf Town Is the Best Winter Getaway
+
+date: 2024-11-13, from: Sunset Magazine - Living in the West
+
+Mexico's Riviera Nayarit is the coastal jungle escape worth booking this winter. These are the best things to do and see. 
+
+<br> 
+
+<https://www.sunset.com/travel/riviera-nayarit-travel-guide>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-11-13, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -115,18 +403,6 @@ date: 2024-11-12, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/goveelife-space-heater-recall/>
-
----
-
-## Here’s How to Save Money on Thanksgiving Dinner, According to Professional Chefs
-
-date: 2024-11-12, from: Sunset Magazine - Living in the West
-
-Hosting a Thanksgiving gathering can be costly. Professional chefs share what to splurge and save on, plus other money-saving tips. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/how-to-host-thanksgiving-on-a-budget>
 
 ---
 
@@ -369,18 +645,6 @@ Look to your backyard for your next floral arrangement. We're sharing Thanksgivi
 <br> 
 
 <https://www.sunset.com/home-garden/flowers-plants/thanksgiving-centerpieces-from-the-garden>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-11-12, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

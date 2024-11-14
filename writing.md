@@ -1,11 +1,76 @@
 ---
 title: writing
-updated: 2024-11-13 07:16:34
+updated: 2024-11-13 17:07:26
 ---
 
 # writing
 
-(date: 2024-11-13 07:16:34)
+(date: 2024-11-13 17:07:26)
+
+---
+
+## 2024 TAFF Nominations Open
+
+date: 2024-11-14, from: Locus Magazine
+
+<p>The 2024 Trans-Atlantic Fan Fund (TAFF), which &#8220;will send a European fan to the 2025 Worldcon in Seattle,&#8221; is open for nominations until December 20, 2024.</p>
+<p>TAFF &#8220;was created in 1953 for the purpose of providing funds to bring well-known and popular [science fiction] fans familiar to those on both sides of the ocean across the Atlantic. Since that time TAFF has regularly brought North American fans to European conventions  <a href="https://locusmag.com/2024/11/2024-taff-nominations-open/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/11/2024-taff-nominations-open/>
+
+---
+
+## Clarion West Virtual Workshops
+
+date: 2024-11-13, from: Locus Magazine
+
+<p>Clarion West has announced that their next six-week workshop will be held virtually instead of in-person, and will run June 22-August 2, 2025. The new format is &#8220;designed to give students more time to write, additional lecture time with instructors, and more experimentation with workshopping models.&#8221; The instructors will be Maurice Broaddus, Malka Older, Diana Pho, and Martha Wells. Applications open on December 1, 2024 and close February 15, 2025. <a href="https://locusmag.com/2024/11/clarion-west-virtual-workshops/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/11/clarion-west-virtual-workshops/>
+
+---
+
+## 🪙 Which project should I write?
+
+date: 2024-11-13, from: Interesting, a blog on writing
+
+Maybe all of them? 
+
+<br> 
+
+<https://inneresting.substack.com/p/which-project-should-i-write>
+
+---
+
+## How To Be a Screenwriter in 5 Basic Steps
+
+date: 2024-11-13, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-to-be-a-screenwriter-in-5-basic-steps" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/How%20To%20Write%20A%20Screenplay.png" alt="How to be a screenwriter" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Maybe you’re a fan of movies, TV series or various streaming content and have thought: ‘I’d like to write stuff like this. I’d like to be a screenwriter.’ Well, it’s only natural to want to take part in something you enjoy, and the prospect of getting paid to do so would no doubt be a dream job.&nbsp;<br><br>But is it a dream job or just a dream?<br><br>Being a screenwriter or scriptwriter is a real profession, and although there is a lot of competition for screenwriting jobs, thousands of people still manage to do it. In fact, thanks to an ever-growing global marketplace, there are increasing opportunities for people who know how to write for the screen.<br><br>Just like any vocation, screenwriting is a learned skill and there are definite steps you can take to become a professional screenwriter. I myself am a professional screenwriter, and I’ve been working in the film and television industry for two decades now.&nbsp;<br><br>Using my own experience — as well as things I’ve heard over the years from screenwriting friends and colleagues — I’ve created some basic steps an aspiring screenwriter can do to become a professional.<br><br>Below are <span style="font-weight: bold;">5 Basic Steps</span> that can put you on the right path:</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/how-to-be-a-screenwriter-in-5-basic-steps>
+
+---
+
+## Deep Dream: Science Fiction Exploring the Fu­ture of Art edited by Indrapramit Das: Review by Niall Harrison
+
+date: 2024-11-13, from: Locus Magazine
+
+<p><strong>Deep Dream: Science Fiction Exploring the Fu­ture of Art</strong>, Indrapramit Das, ed. (The MIT Press 978-0-26254-908-0, 229pp, $24.95, tp). October 2024. Cover art by Diana Scherer.</p>
+<p>Of the ten stories collected in <strong>Deep Dream </strong>that aim to, as editor Indrapramit Das has it, “both embody and visualize the future of art,” only one offers an explicit definition of what art might be. Many millennia in the future, the twinned  <a href="https://locusmag.com/2024/11/deep-dream-science-fiction-exploring-the-future-of-art-edited-by-indrapramit-das-review-by-niall-harrison/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/11/deep-dream-science-fiction-exploring-the-future-of-art-edited-by-indrapramit-das-review-by-niall-harrison/>
 
 ---
 

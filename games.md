@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2024-11-13 07:16:34
+updated: 2024-11-13 17:07:27
 ---
 
 # games
 
-(date: 2024-11-13 07:16:34)
+(date: 2024-11-13 17:07:27)
+
+---
+
+## Pokémon TCG Pocket will get limited trading in 2025, but new booster packs this year
+
+date: 2024-11-13, updated: 2024-11-13, from: Polygon Website
+
+Pokémon Trading Card Game Pocket players will get to trade “certain cards” come 2025, the Pokémon TCG Pocket operations team announced Wednesday. After launching in late October, Pokémon TCG Pocket has been a wild hit: The game has reportedly made more than $12 million across more than 10 million downloads. Opening booster packs, collecting cards, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/478922/pokemon-tcg-pocket-trading-new-booster-packs-coming>
+
+---
+
+## Dropout offers discounted Dimension 20 tickets after pricing controversy
+
+date: 2024-11-13, updated: 2024-11-13, from: Polygon Website
+
+If you failed your Ticketmaster check on tickets to Dimension 20’s sold-out Madison Square Garden show, you now have a chance to reroll. Fans of Dropout’s flagship actual play can now enter a lottery for reduced-price Dimensioneer tickets by visiting their website. Earlier this year, the independent streamer announced it’d be doing what no actual [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/actual-play/478844/dimension-20-dimensioneer-lottery-tickets-how-to-get>
+
+---
+
+## ‘Chapter 2: The Pursuit’ case summary walkthrough, hints, and solution in Rise of the Golden Idol
+
+date: 2024-11-13, updated: 2024-11-13, from: Polygon Website
+
+“The Pursuit” is the second chapter in Rise of the Golden Idol, and the case summary story puzzles will ask you to bring the events of the entire chapter together. You’ll be able to complete it once you finish the “Going Once!” case. As with all of our Rise of the Golden Idol case guides, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/rise-golden-idol-guide/478217/chapter-2-pursuit-case-summary-walkthrough-hints-solution-answer>
+
+---
+
+## ‘Going Once!’ case walkthrough, hints, and solution in Rise of the Golden Idol
+
+date: 2024-11-13, updated: 2024-11-13, from: Polygon Website
+
+“Going Once!” is the fourth case of Chapter 2 in Rise of the Golden Idol. It takes place right after “Blockbuster Release.” As with all of our Rise of the Golden Idol case guides, our goal here is to provide a hint-based experience that will lead you to the solution without automatically showing you how [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/rise-golden-idol-guide/478219/going-once-case-walkthrough-hints-solution-answer>
+
+---
+
+## ‘Blockbuster Release’ case walkthrough, hints, and solution in Rise of the Golden Idol
+
+date: 2024-11-13, updated: 2024-11-13, from: Polygon Website
+
+“Blockbuster Release” is the third case of Chapter 2 in Rise of the Golden Idol. It takes place right after “Behind Bars.” As with all of our Rise of the Golden Idol case guides, our goal here is to provide a hint-based experience that will lead you to the solution without automatically showing you how [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/rise-golden-idol-guide/478218/blockbuster-release-case-walkthrough-hints-solution-answer>
+
+---
+
+## ‘Behind Bars’ case walkthrough, hints, and solution in Rise of the Golden Idol
+
+date: 2024-11-13, updated: 2024-11-13, from: Polygon Website
+
+“Behind Bars” is the second case of Chapter 2 in Rise of the Golden Idol. It takes place right after “Garden Retreat.” As with all of our Rise of the Golden Idol case guides, our goal here is to provide a hint-based experience that will lead you to the solution without automatically showing you how [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/rise-golden-idol-guide/478216/behind-bars-case-walkthrough-hints-solution-answer>
+
+---
+
+## ‘Garden Retreat’ case walkthrough, hints, and solution in Rise of the Golden Idol
+
+date: 2024-11-13, updated: 2024-11-13, from: Polygon Website
+
+“Garden Retreat” is the first case in Chapter 2 of Rise of the Golden Idol, available right after you complete “The Curse, Chapter 1” summary case. As with all of our Rise of the Golden Idol case guides, our goal here is to provide a hint-based experience that will lead you to the solution without [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/rise-golden-idol-guide/477519/garden-retreat-case-walkthrough-hints-solution-answer>
+
+---
+
+## Dragon Age: The Veilguard lets me flirt like I have some freaking chill
+
+date: 2024-11-13, updated: 2024-11-13, from: Polygon Website
+
+BioWare RPGS have earned a reputation for expansive world-building, complex characters, and difficult choices. And that’s not to mention the Mass Effect and Dragon Age franchises’ knack for building on science fiction and fantasy tropes and remixing them into full-fledged advancements of those genres. But it should not be forgotten that BioWare is also lauded [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/478221/dragon-age-veilguard-flirting-romance>
+
+---
+
+## Scott Pilgrim and his precious little box sets have never been cheaper
+
+date: 2024-11-13, updated: 2024-11-13, from: Polygon Website
+
+To commemorate the 20th anniversary of Scott Pilgrim’s adventures in the far-off land of Canada and his triumph over the seven evil exes, Oni Press released a pair of box sets this summer that contains the complete Scott Pilgrim series authored by Bryan Lee O’Malley. Originally $249.99, we’re here to tell you that both of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/478700/scott-pilgrim-box-set-amazon-sale>
+
+---
+
+## Digital gift cards for Xbox, PlayStation, Fortnite, and more are 10% off at Amazon
+
+date: 2024-11-13, updated: 2024-11-13, from: Polygon Website
+
+With the holidays looming on the horizon, it’s time to start thinking about gifts. If your loved ones enjoy gaming, you should check out Amazon’s current deal for digital gaming gift cards, which are great stocking stuffers. Right now, Prime members can save 10% on a variety of gift cards at several cash amount denominations, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/sales-guide/478535/gaming-gift-cards-amazon-prime-sale>
 
 ---
 

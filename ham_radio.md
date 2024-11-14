@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2024-11-13 07:16:33
+updated: 2024-11-13 17:07:25
 ---
 
 # ham radio
 
-(date: 2024-11-13 07:16:33)
+(date: 2024-11-13 17:07:25)
+
+---
+
+## Taking a peek inside an infrared thermometer
+
+date: 2024-11-13, from: EDN Blog
+
+<img width="1400" height="1606" src="https://www.edn.com/wp-content/uploads/pcb_removed-6.jpg?fit=1400%2C1606" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/pcb_removed-6.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/pcb_removed-6.jpg?w=262 262w, https://www.edn.com/wp-content/uploads/pcb_removed-6.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/pcb_removed-6.jpg?w=893 893w, https://www.edn.com/wp-content/uploads/pcb_removed-6.jpg?w=1339 1339w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>Blood oxygenation level and body temperature are all key indicators of health. This time, our engineer tackles a device for the latter.</p>
+<p>The post <a href="https://www.edn.com/taking-a-peek-inside-an-infrared-thermometer/" data-wpel-link="internal">Taking a peek inside an infrared thermometer</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/taking-a-peek-inside-an-infrared-thermometer/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2024-11-13 07:16:33
 
 date: 2024-11-12, from: EDN Blog
 
-<img width="1064" height="626" src="https://www.edn.com/wp-content/uploads/Peltzoscillator_Figure2.png?fit=1064%2C626" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Peltzoscillator_Figure2.png?w=1064 1064w, https://www.edn.com/wp-content/uploads/Peltzoscillator_Figure2.png?w=300 300w, https://www.edn.com/wp-content/uploads/Peltzoscillator_Figure2.png?w=768 768w, https://www.edn.com/wp-content/uploads/Peltzoscillator_Figure2.png?w=1024 1024w" sizes="(max-width: 1064px) 100vw, 1064px" /><p>Slapping together an extraordinarily simple low frequency sinewave oscillator powered by a single AAA cell. </p>
+<img width="1064" height="626" src="https://www.edn.com/wp-content/uploads/Peltzoscillator_Figure2.png?fit=1064%2C626" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Peltzoscillator_Figure2.png?w=1064 1064w, https://www.edn.com/wp-content/uploads/Peltzoscillator_Figure2.png?w=300 300w, https://www.edn.com/wp-content/uploads/Peltzoscillator_Figure2.png?w=768 768w, https://www.edn.com/wp-content/uploads/Peltzoscillator_Figure2.png?w=1024 1024w" sizes="auto, (max-width: 1064px) 100vw, 1064px" /><p>Slapping together an extraordinarily simple low frequency sinewave oscillator powered by a single AAA cell. </p>
 <p>The post <a href="https://www.edn.com/simple-5-component-oscillator-works-below-0-8v/" data-wpel-link="internal">Simple 5-component oscillator works below 0.8V</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

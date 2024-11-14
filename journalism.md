@@ -1,11 +1,163 @@
 ---
 title: journalism
-updated: 2024-11-13 07:16:34
+updated: 2024-11-13 17:07:27
 ---
 
 # journalism
 
-(date: 2024-11-13 07:16:34)
+(date: 2024-11-13 17:07:27)
+
+---
+
+## Q&A: Weike Wang talks ‘Rental House’ themes of family chaos, navigating relationships
+
+date: 2024-11-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+This December, Weike Wang is bringing a story of cultural diversity and familial tension to bookshelves.
+Wang is the author of “Joan is Okay” and “Chemistry,” the latter of which she won the 2018 PEN/Hemingway Award and a Whiting award for. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/13/qa-weike-wang-talks-rental-house-themes-of-family-chaos-navigating-relationships/>
+
+---
+
+## UC Board of Regents recommends tuition increase for out-of-state students
+
+date: 2024-11-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+SAN FRANCISCO — A UC Board of Regents committee recommended tuition hikes for nonresident students Wednesday.&#160;
+The board is holding its bimonthly meeting Tuesday to Thursday at UC San Francisco. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/13/uc-board-of-regents-recommends-tuition-increase-for-out-of-state-students/>
+
+---
+
+## SEVENTEEN shines at BMO Stadium
+
+date: 2024-11-13, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The K-pop group performed on Saturday and Sunday evenings.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/13/seventeen-shines-at-bmo-stadium/">SEVENTEEN shines at BMO Stadium</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/13/seventeen-shines-at-bmo-stadium/>
+
+---
+
+## Gallery: Rex Orange County kicks off 8-night run at Orpheum Theatre
+
+date: 2024-11-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+On Nov. 3, English singer-songwriter Rex Orange County performed an intimate show to open his first of eight shows at the Orpheum Theatre in downtown Los Angeles. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/13/gallery-rex-orange-county-kicks-off-8-night-run-at-orpheum-theatre/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-13, from: The Daily Bruin (UCLA Student Newspaper))
+
+In opening statements, the defense noted Rodriguez&#8217;s 25 years at ECE Krieger Center. They argued the December 15th incident involved a student asking for a &#8220;light massage&#8221; and that Rodriguez removed himself when asked. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/13/473743/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-13, from: The Daily Bruin (UCLA Student Newspaper))
+
+Opening statements begin this morning with the prosecution stating Rodriguez was seen &#8220;laying on top of (a Student)&#8221; December 15, 2023. The prosecution then showed pictures of the three-year-old children during their off-site interviews for the trial. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/13/473741/>
+
+---
+
+## The Guardian won’t post on X anymore — but isn’t deleting its accounts there, at least for now
+
+date: 2024-11-13, from: Nieman Journalism Lab
+
+The Guardian said Wednesday that it will no longer post on X, saying it is &#8220;a toxic media platform&#8221; and &#8220;its owner, Elon Musk, has been able to use its influence to shape political discourse.” The news organization does not, however, appear to be deleting or locking its accounts there. Instead, The Guardian&#8217;s X accounts... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/11/the-guardian-wont-post-on-x-anymore-but-isnt-deleting-its-accounts-there-at-least-for-now/>
+
+---
+
+## New Faculty Connections Dining Program offers a ‘neutral space’ for building community
+
+date: 2024-11-13, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>The Marketplace and Tiger Cooler teem with students, whether in line for pasta made to order or hovering over the conveyor belt of bagels popping from the toaster. What is not often in sight is the college&#8217;s faculty — that is, until President Tom Stritikus recently announced the implementation of the Faculty Connections Dining Program. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/11/13/new-faculty-connections-dining-program-offers-a-neutral-space-for-building-community/2913798">New Faculty Connections Dining Program offers a &#8216;neutral space&#8217; for building community</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/news/2024/11/13/new-faculty-connections-dining-program-offers-a-neutral-space-for-building-community/2913798>
+
+---
+
+## CD-14 residents react to Ysabel Jurado’s City Council election victory
+
+date: 2024-11-13, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>After representing the district since 2020, Kevin de León conceded to Ysabel Jurado in the race for City Councilmember of LA&#8217;s City Council District 14. According to the LA County Registrar, by Nov. 11, Jurado received 57.13% of the vote, while de León received the remaining 42.87%. In a district that includes the communities of Boyle Heights, University Hills [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/community/2024/11/13/cd-14-residents-react-to-ysabel-jurados-city-council-election-victory/2913791">CD-14 residents react to Ysabel Jurado&#8217;s City Council election victory</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/community/2024/11/13/cd-14-residents-react-to-ysabel-jurados-city-council-election-victory/2913791>
+
+---
+
+## ‘The saddest I’ve ever seen campus’: students react to the presidential election
+
+date: 2024-11-13, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>After months of buildup to the election, The Associated Press called the 2024 presidential election for former President Donald Trump at 2:34 a.m. Nov. 6. Students woke up Wednesday morning to headlines announcing the historic decision. In the days that followed, reactions across campus varied. In a Nov. 5 email to the student body, President [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/11/13/the-saddest-ive-ever-seen-campus-students-react-to-the-presidential-election/2913801">‘The saddest I&#8217;ve ever seen campus’: students react to the presidential election</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/news/2024/11/13/the-saddest-ive-ever-seen-campus-students-react-to-the-presidential-election/2913801>
+
+---
+
+## Fall production of ‘Poor Clare’ draws attention to social issues past and present
+
+date: 2024-11-13, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>The Occidental Theater department held their fall production of “Poor Clare” for four days, Nov. 7-10, in Keck Theatre. The play is set in Assisi, Italy in 1211 and follows a noblewoman named Clare as her worldview shifts after meeting a man named Francis. Written by Chiara Atik, “Poor Clare” is a modern take on the true stories [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/uncategorized/2024/11/13/fall-production-of-poor-clare-draws-attention-to-social-issues-past-and-present/2913787">Fall production of &#8216;Poor Clare&#8217; draws attention to social issues past and present</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/uncategorized/2024/11/13/fall-production-of-poor-clare-draws-attention-to-social-issues-past-and-present/2913787>
+
+---
+
+## What should journalists do when the facts don’t matter?
+
+date: 2024-11-13, from: Nieman Journalism Lab
+
+Most people agree that actual facts matter — in such activities as debate, discussion, and reporting. Once facts are gathered, verified, and distributed, informed decision-making can proceed in such important exercises as voting. But what happens when important, verified facts are published and broadcast widely, yet the resulting impact proves underwhelming — or even meaningless?... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/11/what-should-journalists-do-when-the-facts-dont-matter/>
 
 ---
 
@@ -146,7 +298,7 @@ Jury selection for the trial concluded today at 3:30 p.m. with three alternate j
 
 date: 2024-11-13, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Nov. 12 at 8:48 p.m.</em>
+<em>This post was updated Nov. 13 at 10:58 a.m.</em>
 Whether it&#8217;s the heartwarming story of two young sisters or the tale of a pirate who falls in love with the moon, UCLA alumni are making their artistic voices heard at an upcoming screening. 
 
 <br> 

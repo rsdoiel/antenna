@@ -1,11 +1,407 @@
 ---
 title: science and technology
-updated: 2024-11-13 07:16:33
+updated: 2024-11-13 17:07:25
 ---
 
 # science and technology
 
-(date: 2024-11-13 07:16:33)
+(date: 2024-11-13 17:07:25)
+
+---
+
+## All bark, no bite? Musk's DOGE unlikely to have any real power
+
+date: 2024-11-14, updated: 2024-11-14, from: The Register (UK I.T. News)
+
+<h4>&#39;Department of Government Efficiency&#39; expected to do little more than suggest changes, Congress will still decide</h4> <p><strong>Comment</strong>  Well, it&#39;s official(ish): US president-elect Donald Trump has made good on a campaign promise to appoint Elon Musk to the head of &#34;the Department of Government Efficiency&#34; – or DOGE. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/14/all_bark_no_bite_musks/>
+
+---
+
+## ShrinkLocker ransomware scrambled your files? Free decryption tool to the rescue
+
+date: 2024-11-14, updated: 2024-11-14, from: The Register (UK I.T. News)
+
+<h4>Plus: CISA&#39;s ScubaGear dives deep to fix M365 misconfigs</h4> <p>Bitdefender has released a free decryption tool that can unlock data encrypted by the ShrinkLocker ransomware.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/14/shrinklocker_ransomware_decryptor/>
+
+---
+
+## Here's how a Trump presidency could change the tech industry
+
+date: 2024-11-13, updated: 2024-11-13, from: The Register (UK I.T. News)
+
+<h4>Anything could happen in the next half ... decade</h4> <p><strong>Kettle</strong>  Despite countless warnings that the US presidential election would lead to a months-long battle, with a decisive win by Donald Trump and his party, we can immediately look ahead to how the next four years of Republican rule might change the tech industry.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/13/president_trump_tech/>
+
+---
+
+## TSMC's US operations threatened with employee discrimination class action
+
+date: 2024-11-13, updated: 2024-11-13, from: The Register (UK I.T. News)
+
+<h4>Allegedly it&#39;s hard to get ahead at the chipmaker unless you speak Mandarin</h4> <p>Taiwan Semiconductor Manufacturing Company (TSMC) has been accused of “pervasive discrimination” against some of its workers in the USA.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/13/tsmc_usa_putative_employee_lawsuit/>
+
+---
+
+## The Secretive Spaceplane of the U.S. Space Force Conducts First-of-Its-Kind Maneuvers
+
+date: 2024-11-13, from: Smithsonian Magazine
+
+Called aerobraking, the technique allows the highly classified craft to change orbit without using propellant—and some are wondering why the agency has let us in on this news 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-secretive-spaceplane-of-the-us-space-force-conducts-first-of-its-kind-maneuvers-180985425/>
+
+---
+
+## Data broker amasses 100M+ records on people – then someone snatches, sells it
+
+date: 2024-11-13, updated: 2024-11-13, from: The Register (UK I.T. News)
+
+<h4>We call this lead degeneration</h4> <p>What&#39;s claimed to be more than 183 million records of people&#39;s contact details and employment info has been stolen or otherwise obtained from a data broker and put up for sale by a miscreant.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/13/demandscience_data/>
+
+---
+
+## See Rare First-Edition Copies of Jane Austen's Novels at the Cottage Where She Wrote and Revised Them
+
+date: 2024-11-13, from: Smithsonian Magazine
+
+A new exhibition at the author's home in Chawton, which has never previously displayed all six first-edition books together, is part of preparations for the author's 250th birthday celebrations 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/see-rare-first-edition-copies-of-jane-austens-novels-at-the-cottage-where-she-wrote-and-revised-them-180985427/>
+
+---
+
+## NASA's Jet Propulsion Laboratory to eject hundreds more workers
+
+date: 2024-11-13, updated: 2024-11-13, from: The Register (UK I.T. News)
+
+<h4>Budget constraints result in &#39;painful but necessary adjustments&#39;</h4> <p>NASA&#39;s Jet Propulsion Laboratory (JPL) will need to lose hundreds more workers as managers seek to meet the current FY&#39;25 budget allocation.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/13/nasas_jet_propulsion_laboratory_layoffs/>
+
+---
+
+## NASA Administrator to Visit, Sign Agreement with Peru’s Space Agency
+
+date: 2024-11-13, from: NASA breaking news
+
+Continuing his engagement to deepen international collaboration and promote the peaceful use of space, NASA Administrator Bill Nelson will travel to Lima on Wednesday. Nelson will meet with Maj. Gen. Roberto Melgar Sheen, director of Peru’s National Commission for Aerospace Research and Development (CONIDA) Thursday, Nov. 14, and sign a non-binding memorandum of understanding to [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-administrator-to-visit-sign-agreement-with-perus-space-agency/>
+
+---
+
+## .NET 9 released
+
+date: 2024-11-13, from: OS News
+
+Today, we are excited to announce the launch of .NET 9, the most productive, modern, secure, intelligent, and performant release of .NET yet. It’s the result of another year of effort on the part of thousands of developers from around the world. This new release includes thousands of performance, security, and functional improvements. You will find sweeping enhancements across the entire .NET stack from the programming languages, developer tools, and workloads enabling you to build with a unified platform and easily infuse your apps with AI. ↫ .NET Team at the .Net Blog All I know is that these are very important words, and a very important release, for thousands and thousands of unknown developers slaving away in obscurity, creating, maintaining, and fixing endless amounts of corporate software very few of us ever actually get to see very often. They toil away for meager pay in the 21st century version of the coal mines of the 19th century, without any recognition, appreciation, or applause. They work long hours, make their way through the urban planning hell that is modern America, and come home to make some gruel and drink water from lead pipes, waiting for the sweet relief of what little sleep they manage to get, only to do it all over again the next day. &#8230;I may have a bit of a skewed perception of reality for most IT people. In all seriousness, .NET is a hugely popular set of tools and frameworks, and while it&#8217;s probably not the most sexy topic in the tech world, any new release matters to a ton of people. .NET 9.0. This new version&#8217;s main focus seems to be performance, with over 1000 performance-related changes tot he various components that make up .NET. In a blog post about these performance improvements, Stephen Toub explains in great detail what some of the improvements are, and where the benefits lie. Of course, there&#8217;s an insane amount of talk about &#8220;AI&#8221; features in .NET 9, and apparently .NET MAUI is seeing a surge in popularity on Android, if you believe Microsoft (&#8220;30$&#8221; increase in &#8220;developer usage&#8221; means little when you don&#8217;t provide a baseline). .NET MAUI is Microsoft&#8217;s cross-platform framework for building applications for Android, iOS, macOS, and Windows. Among other things, .NET MAUI 9 provides more access to platform-native features, as well as benefiting from some of the performance improvements. There&#8217;s also a paragraph about .NET 9 development on Windows, just in case you thought the .NET team forgot Windows existed. With .NET 9, your Windows apps will have access to the latest OS features and capabilities while ensuring they are more performant and accessible than ever before. Whether you are starting a new modern app with WinUI 3 and the Windows App SDK or modernizing your existing WPF and WinForms applications, your Windows apps run best on .NET 9. We have been collaborating closely with the Windows developer community to bring features that you have been requesting. This includes Native AOT support for WinUI 3 for smaller and more performant apps, modern theming enhancements with Fluent UI for WPF, and WinForms gets a boost with a new Dark Mode, modern icon APIs, and improved asynchronous API access with Control.InvokeAsync. ↫ .NET Team at the .Net Blog There&#8217;s way more on top of all of this, from changes to the languages .NET uses to new releases of the various developer tools, like Visual Studio. 
+
+<br> 
+
+<https://www.osnews.com/story/141114/net-9-released/>
+
+---
+
+## A Caribbean Spacewalk
+
+date: 2024-11-13, from: NASA breaking news
+
+In this photo taken on Sept. 16, 1993, NASA astronauts James H. Newman (left), and Carl E. Walz evaluate procedures and gear for an upcoming Hubble Space Telescope servicing mission with the Caribbean Sea and part of the Bahama Islands chain in view. Newman and Walz’s spacewalk, part of the STS-51 mission, lasted seven hours, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/a-caribbean-spacewalk/>
+
+---
+
+## How to See the Stunning Leonid Meteor Shower This Weekend
+
+date: 2024-11-13, from: Smithsonian Magazine
+
+Though the nearly full moon will likely outshine some of these speedy meteors, you may still be able to catch a glimpse of bright fireballs and low Earth-grazers 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/how-to-see-the-stunning-leonid-meteor-shower-this-weekend-180985466/>
+
+---
+
+## Scientists Are Using CT Scanners to Reveal the Secrets of More Than Two Dozen Ancient Egyptian Mummies
+
+date: 2024-11-13, from: Smithsonian Magazine
+
+For the first time, researchers were able to see inside the mummies in the Chicago Field Museum's collections. Their findings paint a more comprehensive picture of ancient Egyptian life 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/scientists-are-using-ct-scanners-to-reveal-the-secrets-of-more-than-two-dozen-ancient-egyptian-mummies-180985454/>
+
+---
+
+## Snowflake opens chat-driven access to enterprise and third-party data
+
+date: 2024-11-13, updated: 2024-11-13, from: The Register (UK I.T. News)
+
+<h4>Cortex-powered front end for easier access to insights across multiple sources</h4> <p>Snowflake is set to preview a new platform it claims will help organizations build chatbots that can serve up data from its own analytics systems and those external to the cloud data platform vendor.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/13/snowflake_intelligence/>
+
+---
+
+## Ransomware fiends boast they've stolen 1.4TB from US pharmacy network
+
+date: 2024-11-13, updated: 2024-11-13, from: The Register (UK I.T. News)
+
+<h4>American Associated Pharmacies yet to officially confirm infection</h4> <p>American Associated Pharmacies (AAP) is the latest US healthcare organization to have had its data stolen and encrypted by cyber-crooks, it is feared.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/13/embargo_ransomware_breach_aap/>
+
+---
+
+## Voyager 2 Measured a Rare Anomaly When It Flew Past Uranus, Skewing Our Knowledge of the Planet for 40 Years, Study Suggests
+
+date: 2024-11-13, from: Smithsonian Magazine
+
+The roughly six-hour flyby in 1986 revealed Uranus' protective magnetic field was strangely empty. Now, researchers say that the data could have been affected by a solar wind event 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/voyager-2-measured-a-rare-anomaly-when-it-flew-past-uranus-skewing-our-knowledge-of-the-planet-for-40-years-study-suggests-180985456/>
+
+---
+
+## AMD axes 4% of staff while staring hungrily at AI, servers
+
+date: 2024-11-13, updated: 2024-11-13, from: The Register (UK I.T. News)
+
+<h4>LLM, LLM on the wall, who will be laid off first of all?</h4> <p>AMD has confirmed plans to cut approximately four percent of its global workforce - about 1,000 jobs out of a total headcount of roughly 26,000.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/13/amd_confirms_layoffs/>
+
+---
+
+## Hear the Bells of Paris' Notre-Dame Cathedral Ring Out for the First Time in More Than Five Years
+
+date: 2024-11-13, from: Smithsonian Magazine
+
+The cathedral has been under renovation since 2019, when it was badly damaged in a fire. Crews are testing the bells before the historic structure reopens on December 8 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/hear-the-bells-of-paris-notre-dame-cathedral-ring-out-for-the-first-time-in-more-than-five-years-180985457/>
+
+---
+
+## Entrevista con Instructor de OCEANOS Samuel Suleiman
+
+date: 2024-11-13, from: NASA breaking news
+
+¿Cuál es tu nombre y tu rol en OCEANOS? Mi nombre es Samuel Suleiman. Soy director ejecutivo de la Sociedad Ambiente Marino, una organización sin fines de lucro que se dedica a la conservación de las costas y los arrecifes en Puerto Rico desde hace más de 25 años. Trabajo en este gran proyecto de [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/entrevista-con-instructor-de-oceanos-samuel-suleiman/>
+
+---
+
+## Microsoft slips Task Manager and processor count fixes into Patch Tuesday
+
+date: 2024-11-13, updated: 2024-11-13, from: The Register (UK I.T. News)
+
+<h4>Sore about cores no more</h4> <p>Microsoft has resolved two issues vexing Windows 11 24H2 and Windows Server 2025 users among the many security updates that emerged on Patch Tuesday.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/13/microsoft_task_manager_patch_tuesday/>
+
+---
+
+## Astronomers Find Early Fast-Feeding Black Hole Using NASA Telescopes
+
+date: 2024-11-13, from: NASA breaking news
+
+A rapidly feeding black hole at the center of a dwarf galaxy in the early universe, shown in this artist’s concept, may hold important clues to the evolution of supermassive black holes in general. Using data from NASA&#8217;s James Webb Space Telescope and Chandra X-ray Observatory,&#160;a team of astronomers discovered this low-mass supermassive black hole [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/chandra/astronomers-find-early-fast-feeding-black-hole-using-nasa-telescopes/>
+
+---
+
+## California's last nuclear plant turns to generative AI for filing and finding the fine print
+
+date: 2024-11-13, updated: 2024-11-13, from: The Register (UK I.T. News)
+
+<h4>Diablo Canyon gets nifty new tech to … speed up document retrieval?</h4> <p>A California startup is deploying what it says is the first commercial installation of generative AI at a US nuclear power plant, but don&#39;t get too excited (or worried) about what it&#39;s going to be doing quite yet – it&#39;s a pretty run-of-the-mill use in an enterprise environment.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/13/nuclear_plant_generative_ai/>
+
+---
+
+## NASA Glenn Chief Counsel Named to CSU Law Hall of Fame
+
+date: 2024-11-13, from: NASA breaking news
+
+Cleveland State University (CSU) inducted Callista Puchmeyer, chief counsel at NASA’s Glenn Research Center in Cleveland, into the CSU College of Law Hall of Fame during a ceremony on Nov. 1.&#160;&#160; Puchmeyer provides expert legal advice to NASA Glenn’s center director and other senior leaders. She also manages Glenn’s Office of the General Counsel, a [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-chief-counsel-named-to-csu-law-hall-of-fame/>
+
+---
+
+## NASA Encourages Careers in STEM During Event
+
+date: 2024-11-13, from: NASA breaking news
+
+NASA’s Glenn Research Center in Cleveland supported this year&#8217;s STEM Goes Red for Girls event at Great Lakes Science Center on Oct. 21. The program provides seventh and eighth grade students exposure to some of Greater Cleveland’s leading STEM companies. The event also featured a hands-on exhibitor fair, speed mentoring, and educational classes.&#160; Hosted by [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/nasa-encourages-careers-in-stem-during-event/>
+
+---
+
+## NASA Glenn Employees Named AIAA Associate Fellows
+
+date: 2024-11-13, from: NASA breaking news
+
+The American Institute of Aeronautics and Astronautics (AIAA) has named two distinguished engineers at NASA’s Glenn Research Center in Cleveland AIAA Associate Fellows.&#160;&#160; The grade of Associate Fellow recognizes individuals who have accomplished or overseen important engineering or scientific work, done original work of outstanding merit, or have otherwise made outstanding contributions to the arts, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/nasa-glenn-employees-named-aiaa-associate-fellows/>
+
+---
+
+## The Cosmos Teems with Complex Organic Molecules
+
+date: 2024-11-13, from: Quanta Magazine
+
+Wherever astronomers look, they see life’s raw materials.            <p>The post <a href="https://www.quantamagazine.org/the-cosmos-teems-with-complex-organic-molecules-20241113/" target="_blank">The Cosmos Teems with Complex Organic Molecules</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/the-cosmos-teems-with-complex-organic-molecules-20241113/>
+
+---
+
+## Nvidia's MLPerf submission shows B200 offers up to 2.2x training performance of H100
+
+date: 2024-11-13, updated: 2024-11-13, from: The Register (UK I.T. News)
+
+<h4>Is Huang leaving even more juice on the table by opting for mid-tier Blackwell part? Signs point to yes</h4> <p><strong>Analysis</strong>  Nvidia offered the first look at how its upcoming Blackwell accelerators stack up against the venerable H100 in real-world training workloads, claiming up to 2.2x higher performance.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/13/nvidia_b200_performance/>
+
+---
+
+## Watch a Starlink Satellite Plummet Through the Atmosphere in Videos Captured Last Weekend
+
+date: 2024-11-13, from: Smithsonian Magazine
+
+The fireball—one of many decommissioned satellites from SpaceX's internet service—was spotted by dozens of people across at least four states, and many mistook it for a meteor 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/watch-a-starlink-satellite-plummet-through-the-atmosphere-in-videos-captured-last-weekend-180985447/>
+
+---
+
+## NASA Data Helps International Community Prepare for Sea Level Rise
+
+date: 2024-11-13, from: NASA breaking news
+
+The information will help people who live in coastal areas prepare for impacts caused by rising sea levels. Earth’s ocean is rising, disrupting livelihoods and infrastructure in coastal communities around the world. Agencies and organizations are working to prepare people as their world changes around them, and NASA information is helping these efforts. The agency’s [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/earth/oceans/nasa-data-helps-international-community-prepare-for-sea-level-rise/>
+
+---
+
+## Mozilla's Firefox browser turns 20. Does it still matter?
+
+date: 2024-11-13, updated: 2024-11-13, from: The Register (UK I.T. News)
+
+<h4>A former exec believes in the non-profit&#39;s mission, says the battle lines have changed</h4> <p>Mozilla&#39;s Firefox browser clocked its second decade over the weekend, an event celebrated by Mozilla Corporation CEO Laura Chambers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/13/mozillas_firefox_browser/>
+
+---
+
+## NASA Welcomes Denmark as Newest Artemis Accords Signatory
+
+date: 2024-11-13, from: NASA breaking news
+
+Following a signing ceremony Wednesday in Denmark’s capital city, Copenhagen, NASA embraced Denmark as the 48th nation to commit to the safe and responsible exploration of space that benefits humanity. “We welcome Denmark’s signing of the Artemis Accords today,” said NASA Administrator Bill Nelson. “Denmark, as a founding member of the European Space Agency (ESA), [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-welcomes-denmark-as-newest-artemis-accords-signatory/>
+
+---
+
+## Harriet Tubman Just Became a One-Star General, More Than 150 Years After Serving With the Union Army
+
+date: 2024-11-13, from: Smithsonian Magazine
+
+The celebrated Underground Railroad conductor received posthumous recognition for her service as a spy, scout, nurse and cook during the Civil War 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/harriet-tubman-just-became-a-one-star-general-more-than-150-years-after-serving-with-the-union-army-180985458/>
+
+---
+
+## Wearable Tech for Space Station Research
+
+date: 2024-11-13, from: NASA breaking news
+
+Science in Space Nov 2024 Many of us wear devices that count our steps, measure our heart rate, track sleep patterns, and more. This information can help us make healthy decisions – research shows the devices encourage people to move more, for example – and could flag possible problems, such as an irregular heartbeat. Wearable [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/station/iss-research/wearable-tech-for-space-station-research/>
 
 ---
 
@@ -37,7 +433,7 @@ quBSD is a FreeBSD jails/bhyve wrapper which implements a Qubes inspired contain
 
 date: 2024-11-13, updated: 2024-11-13, from: The Register (UK I.T. News)
 
-<h4>Meanwhile, HPE&#39;s new ProLiant servers offer choice of Gaudi, Hopper, or Instinct acceleration</h4> <p>If you thought Nvidia&#39;s 120 kW NVL72 racks were compute dense with 72 Blackwell accelerators, they have nothing on HPE Cray&#39;s latest EX systems, which will pack more than three times as many GPUs into a single cabinet.…</p> 
+<h4>Meanwhile, new ProLiant servers offer choice of Gaudi, Hopper, Instinct acceleration</h4> <p>If you thought Nvidia&#39;s 120 kW NVL72 racks were compute dense with 72 Blackwell accelerators, they have nothing on HPE Cray&#39;s latest EX systems, which will pack more than three times as many GPUs into a single cabinet.…</p> 
 
 <br> 
 
@@ -97,7 +493,7 @@ date: 2024-11-13, updated: 2024-11-13, from: The Register (UK I.T. News)
 
 date: 2024-11-13, from: Smithsonian Magazine
 
-In 1833, hundreds of thousands of shooting starts inspired songs, prophecies and a crowdsourced research paper on the origins of meteors 
+In 1833, hundreds of thousands of shooting stars inspired songs, prophecies and a crowdsourced research paper on the origins of meteors 
 
 <br> 
 
@@ -229,7 +625,7 @@ date: 2024-11-13, updated: 2024-11-13, from: The Register (UK I.T. News)
 
 date: 2024-11-13, updated: 2024-11-13, from: The Register (UK I.T. News)
 
-<h4>Jack Teixeira, 22, talked of &#39;culling the weak minded&#39; – hmm!</h4> <p>A former Air National Guard member who stole classified American military secrets, and showed them to his gaming buddies on Discord, has been sentenced to 15 years in prison.…</p> 
+<h4>22-year-old talked of &#39;culling the weak minded&#39; – hmm!</h4> <p>A former Air National Guard member who stole classified American military secrets, and showed them to his gaming buddies on Discord, has been sentenced to 15 years in prison.…</p> 
 
 <br> 
 
@@ -277,7 +673,7 @@ Selected for NASA’s third astronaut class in 1963, Cunningham served as the ba
 
 date: 2024-11-12, from: OS News
 
-Speaking of Steam, the Linux version of Valve&#8217;s gaming platform has just received a pretty substantial set of fixes for crashes, and Timothee &#8220;TTimo&#8221; Besset, who works for Valve on Linux support, has published a blog post with more details about what kind of crashes they&#8217;ve been fixing. The&#160;Steam client update on November 5th&#160;mentions &#8220;Fixed some miscellaneous common crashes.&#8221; in the Linux notes, which I wanted to give a bit of background on. There&#8217;s more than one fix that made it in under the somewhat generic header, but the one change that made the most significant impact to Steam client stability on Linux has been a revamping of how we are approaching the&#160;setenv&#160;and&#160;getenv&#160;functions. One of my colleagues rightly dubbed&#160;setenv&#160;&#8220;the worst Linux API&#8221;. It&#8217;s such a simple, common API, available on all platforms that it was a little difficult to convince ourselves just how bad it is. I highly encourage anyone who writes software that will run on Linux at some point to&#160;read through &#8220;RachelByTheBay&#8221;&#8216;s very engaging post&#160;on the subject. ↫ Timothee &#8220;TTimo&#8221; Besset This indeed seems to be a specific Linux problem, and due to the variability in Linux systems &#8211; different distributions, extensive user customisation, and so on &#8211; debugging information was more difficult to parse than on Windows and macOS. After a lot of work grouping the debug information to try and make sense of it all, it turned out that the two functions in question were causing issues in threads other than those that used them. They had to resort to several solutions, from reducing the reliance setenv and refactoring it with exevpe, to reducing the reliance on getenv through caching, to introducing &#8220;an &#8216;environment manager&#8217; that pre-allocates large enough value buffers at startup for fixed environment variable names, before any threading has started&#8221;. It was especially this last one that had a major impact on reducing the number of crashes with Steam on Linux. Besset does note that these functions are still used far too often, but that at this point it&#8217;s out of their control because that usage comes from the libraries of the operating system, like x11, xcb, dbus, and so on. Besset also mentions that it would be much better if this issue can be addressed in glibc, and in the comments, a user by the name of Adhemerval reports that this is indeed something the glibc team is working on. 
+Speaking of Steam, the Linux version of Valve&#8217;s gaming platform has just received a pretty substantial set of fixes for crashes, and Timothee &#8220;TTimo&#8221; Besset, who works for Valve on Linux support, has published a blog post with more details about what kind of crashes they&#8217;ve been fixing. The&#160;Steam client update on November 5th&#160;mentions &#8220;Fixed some miscellaneous common crashes.&#8221; in the Linux notes, which I wanted to give a bit of background on. There&#8217;s more than one fix that made it in under the somewhat generic header, but the one change that made the most significant impact to Steam client stability on Linux has been a revamping of how we are approaching the&#160;setenv&#160;and&#160;getenv&#160;functions. One of my colleagues rightly dubbed&#160;setenv&#160;&#8220;the worst Linux API&#8221;. It&#8217;s such a simple, common API, available on all platforms that it was a little difficult to convince ourselves just how bad it is. I highly encourage anyone who writes software that will run on Linux at some point to&#160;read through &#8220;RachelByTheBay&#8221;&#8216;s very engaging post&#160;on the subject. ↫ Timothee &#8220;TTimo&#8221; Besset This indeed seems to be a specific Linux problem, and due to the variability in Linux systems &#8211; different distributions, extensive user customisation, and so on &#8211; debugging information was more difficult to parse than on Windows and macOS. After a lot of work grouping the debug information to try and make sense of it all, it turned out that the two functions in question were causing issues in threads other than those that used them. They had to resort to several solutions, from reducing the reliance on setenv and refactoring it with exevpe, to reducing the reliance on getenv through caching, to introducing &#8220;an &#8216;environment manager&#8217; that pre-allocates large enough value buffers at startup for fixed environment variable names, before any threading has started&#8221;. It was especially this last one that had a major impact on reducing the number of crashes with Steam on Linux. Besset does note that these functions are still used far too often, but that at this point it&#8217;s out of their control because that usage comes from the libraries of the operating system, like x11, xcb, dbus, and so on. Besset also mentions that it would be much better if this issue can be addressed in glibc, and in the comments, a user by the name of Adhemerval reports that this is indeed something the glibc team is working on. 
 
 <br> 
 

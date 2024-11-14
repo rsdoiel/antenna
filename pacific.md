@@ -1,11 +1,51 @@
 ---
 title: pacific
-updated: 2024-11-13 07:16:32
+updated: 2024-11-13 17:07:25
 ---
 
 # pacific
 
-(date: 2024-11-13 07:16:32)
+(date: 2024-11-13 17:07:25)
+
+---
+
+## EU’s expanding RMI links
+
+date: 2024-11-13, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON The European Union and the Marshall Islands have a strong and nuanced relationship that goes far beyond aid provided to this nation, the European Union ambassador told the Journal on her first visit to Majuro last month. Ambassador Barbara Plinkert has been the EU’s representative to the RMI and multiple Pacific Island countries [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/eus-expanding-rmi-links/">EU’s expanding RMI links</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/eus-expanding-rmi-links/>
+
+---
+
+## Applications open: UH Mānoa cohort built on embracing Native Hawaiian values
+
+date: 2024-11-13, from: University of Hawaiʻi News
+
+<p>The weeklong program by the Native Hawaiian Place of Learning Advancement Office immerses participants in activities that emphasize cultural practices and values.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/13/applications-open-uh-manoa-embracing-native-hawaiian-values/">Applications open: <abbr>UH</abbr> Mānoa cohort built on embracing Native Hawaiian values</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/13/applications-open-uh-manoa-embracing-native-hawaiian-values/>
+
+---
+
+## Image of the Week: After the storm
+
+date: 2024-11-13, from: University of Hawaiʻi News
+
+<p>This week’s image is by Nikki Chun from the <abbr>UH</abbr> Mānoa Office of Admissions.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/13/image-of-the-week-after-the-storm/">Image of the Week: After the storm</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/13/image-of-the-week-after-the-storm/>
 
 ---
 
@@ -219,6 +259,34 @@ date: 2024-11-13, from: Hawaii Tribune Harold
 
 ---
 
+## Two arrested for stabbings at Kona bar
+
+date: 2024-11-13, from: Hawaii Tribune Harold
+
+
+				<p>A Kailua-Kona couple has been arrested and charged with numerous offenses following a double-stabbing that occurred Saturday night during an incident involving multiple people outside a bar in Kona.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/13/hawaii-news/two-arrested-in-stabbing-incident-at-kona-bar/>
+
+---
+
+## Police investigating possible drowning in Kealakekua Bay
+
+date: 2024-11-13, from: Hawaii Tribune Harold
+
+
+				<p>Big Island police are investigating the possible drowning death of a 29-year-old woman found in Kealakekua Bay on Sunday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/13/hawaii-news/police-investigating-possible-drowning-in-kealakekua-bay/>
+
+---
+
 ## UH Mānoa athletes partner with Alaska Airlines
 
 date: 2024-11-13, from: University of Hawaiʻi News
@@ -245,12 +313,12 @@ The post <a href="https://www.hawaii.edu/news/2024/11/12/metamorphosis-dance-ken
 
 ---
 
-## Hawaiian Word of the Week: Kula nui
+## Hawaiian Word of the Week: Kulanui
 
 date: 2024-11-13, from: University of Hawaiʻi News
 
 <p>Kulanui&#8212;University, college, literally big school.</p>
-The post <a href="https://www.hawaii.edu/news/2024/11/12/hawaiian-word-of-the-week-kula-nui/">Hawaiian Word of the Week: Kula nui</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2024/11/12/hawaiian-word-of-the-week-kula-nui/">Hawaiian Word of the Week: Kulanui</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <br> 
 
@@ -274,7 +342,7 @@ By Pacific Island Times News Staff Baku, Azerbaijan —  The multilateral devel
 
 date: 2024-11-13, from: University of Hawaiʻi News
 
-<p><abbr>UH</abbr> West <span aria-label="Oahu">O&#699;ahu</span> hosted the premier of The Return of Polynesia’s Treasures.</p>
+<p><abbr>UH</abbr> West <span aria-label="Oahu">O&#699;ahu</span> hosted the premier of <em>The Return of Polynesia’s Treasures</em>.</p>
 The post <a href="https://www.hawaii.edu/news/2024/11/12/indigenous-weaver-kapa-maker-carver-film-premiere/">Indigenous weaver, kapa maker, carver featured at film premiere</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <br> 

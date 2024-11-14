@@ -1,11 +1,287 @@
 ---
 title: columns
-updated: 2024-11-13 07:16:33
+updated: 2024-11-13 17:07:26
 ---
 
 # columns
 
-(date: 2024-11-13 07:16:33)
+(date: 2024-11-13 17:07:26)
+
+---
+
+## Bill Atkinson Has Pancreatic Cancer
+
+date: 2024-11-14, updated: 2024-11-14, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.facebook.com/bill.atkinson.9862/posts/pfbid02qwih6yMYUTsx3VmVXM8zbE1Ss6hoGsJkqowAdmeUqupBDG6RRXBndJyrJfyLSRSJl>
+
+---
+
+## Matt Gaetz as AG would be laughable if it weren’t so horrific and dangerous
+
+date: 2024-11-13, from: Robert Reich's blog
+
+The nomination is really Trump&#8217;s loyalty test of Senate Republicans: If they go along, there&#8217;s nothing they won&#8217;t go along with. 
+
+<br> 
+
+<https://robertreich.substack.com/p/matt-gaetz-as-ag-is-laughable-if>
+
+---
+
+##  Is the love song dying? Or has the definition broadened? The Pudding... 
+
+date: 2024-11-13, updated: 2024-11-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045632-is-the-love-song-dying>
+
+---
+
+##  I&#8217;m a journalist and I&#8217;m changing the way I read news. This... 
+
+date: 2024-11-13, updated: 2024-11-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045631-im-a-journalist-and-im>
+
+---
+
+##  Jon Baptiste Hears Green Day for the First Time 
+
+date: 2024-11-13, updated: 2024-11-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/jon-baptiste-hears-green-day-for-the-first-time>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-13, from: Dave Winer's Scripting News)
+
+There isn’t a single social web network that I like pouring my creativity into. I feel like I’m being used not appreciated. There’s nothing in it for me. I had a similar feeling for Twitter, but they were the only one. Now there are a bunch, and I honestly don't care about any of them, esp now that the election is over. I think this whole idea of feeding the greed of a bunch of tech people is over. If there's a good place to gather, with a small number of people I relate to as people, then I'm up for that, but none of these services meet that need. 
+
+<br> 
+
+<http://scripting.com/2024/11/13.html#a215556>
+
+---
+
+## The 2024 Workshop, day two
+
+date: 2024-11-13, from: Daniel Stenberg Blog
+
+The fun continues. See day one. In an office building close to the Waterloo station in London, around 40 persons again sat down at this giant table forming a big square that made it possible for us all to see each other. One by one there were brief presentations done with follow-up discussions. The discussions &#8230; <a href="https://daniel.haxx.se/blog/2024/11/13/the-2024-workshop-day-two/" class="more-link">Continue reading <span class="screen-reader-text">The 2024 Workshop, day two</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2024/11/13/the-2024-workshop-day-two/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-11-13, from: Miguel de Icaza Mastondon feed)
+
+<p>It’s 4:28 pm, I can still squeeze another espresso</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113477769387982752>
+
+---
+
+##  Oooh, Casey Johnston is coming out with a &#8220;memoir and manifesto&#8221; about... 
+
+date: 2024-11-13, updated: 2024-11-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045629-oooh-casey-johnston-is-co>
+
+---
+
+## November 12, 2024
+
+date: 2024-11-13, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/151616563/24b501448789b86c58069734ce40b5c7.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/151616563/24b501448789b86c58069734ce40b5c7.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/november-12-2024-44b>
+
+---
+
+##  Huge if true: &#8220;Triangles were long believed to be related to squares,... 
+
+date: 2024-11-13, updated: 2024-11-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045627-huge-if-true-triangles-we>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-11-13, from: Miguel de Icaza Mastondon feed)
+
+<p>In Mexico we have a beautiful expression:</p><p>“A falta de pan, tortillas”</p><p>And a modern era follow up:</p><p>“Y de tortillas, totopos”</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113477381334642709>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-11-13, from: Miguel de Icaza Mastondon feed)
+
+<p>No person of authority deserves the benefit of the doubt.</p><p>Ever.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113477378286699433>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-11-13, from: Miguel de Icaza Mastondon feed)
+
+<p>Depends.</p><p>If you are Mexican/nahuatl: “sho-got”<br />If you Galician, “Jho-got”<br />If you are Brazilian, “sho-got-eh”<br />If you are American, “Zo-got”<br />If you are Spaniard, “exo-got”<br />If you speak Arabic, شوقوت<br /><a href="https://mastodon.social/@khalidabuhakmeh/113476868927955908" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@khalidabuhakm</span><span class="invisible">eh/113476868927955908</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113477357929033648>
+
+---
+
+##  A New View of the Aftermath of JFK&#8217;s Assassination 
+
+date: 2024-11-13, updated: 2024-11-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/a-new-view-of-the-aftermath-of-jfks-assassination>
+
+---
+
+##  Hey, it&#8217;s the Microscope Museum, featuring &#8216;scopes from the early 1800s to... 
+
+date: 2024-11-13, updated: 2024-11-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045614-hey-its-the-microscope-mu>
+
+---
+
+##  What Will You Do? &#8220;What will you do if men in uniforms... 
+
+date: 2024-11-13, updated: 2024-11-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045615-what-will-you-do-what>
+
+---
+
+## Are you the nerd of the year??
+
+date: 2024-11-13, from: Dave Winer's Scripting News
+
+<p>Whenever you ask for something with Bluesky they tell you about how a user account is like a website, you just have to make it work a certain way, that some devs have mastered, and I guess I could too, but right now all my attention is focused on WordPress and getting it to work well with ActivityPub so my editor can get directly into the Mastodon network and possibly with Threads too. </p>
+<p>But what about Bluesky which is growing like a weed now??</p>
+<p>It might be easy for the right person.</p>
+<ol>
+<li>Come up with an interface that makes it so that a WordPress blog is just a user on the Bluesky network.</li>
+<li>They have a nice API, I've just spent a year implementing on top of it. I imagine for someone who knows both WordPress and Bluesky this might be a weekend project? </li>
+<li>Do it, and blow our minds! There's a lot of content out there in WordPress and a lot of people publish on it.  </li>
+<li>And the best part of it is that it totally drives adoption of <a href="https://textcasting.org/">textcasting</a> which is my not so hidden agenda. <span class="spOldSchoolEmoji">😄</span></li>
+<li>And for the people who are starting to think it's only an ActivityPub thing, think again. </li>
+</ol>
+<p>If you do this you might not win the Nobel Peace Prize but you will be Nerd of the Year in my book! </p>
+ 
+
+<br> 
+
+<http://scripting.com/2024/11/13/172337.html?title=areYouTheNerdOfTheYear>
+
+---
+
+##  Erin McKean goes down a rabbit hole of WWII resistance diaries, &#8220;dipping... 
+
+date: 2024-11-13, updated: 2024-11-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045624-erin-mckean-goes-down-a>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-13, from: Dave Winer's Scripting News)
+
+I am working on a text editor for WordPress using MediumEditor, but I save the text in Markdown and when I reload the Markdown text I regenerate the HTML. I think the social web should exchange Markdown as the canonical form of web text. It has the right set of features, it's <a href="http://scripting.com/2022/08/25/210902.html">Just Enough HTML</a>.
+ 
+
+<br> 
+
+<http://scripting.com/2024/11/13.html#a162740>
+
+---
+
+##  10,946: a Year-Long Post-It Note Animation 
+
+date: 2024-11-13, updated: 2024-11-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/10946-a-year-long-post-it-note-animation>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-13, from: Dave Winer's Scripting News)
+
+ChatGPT can't remember my coding conventions. It always falls back to using features of JavaScript I told it not to use. I indent my code according to the way it works in an outliner, so I can't use their code without having to manually modify it. I haven't forgotten that I'm the human and it's the computer. Its memory is supposed to be perfect. And I am a paying customer, btw. 
+
+<br> 
+
+<http://scripting.com/2024/11/13.html#a153855>
+
+---
+
+##  Kenji López-Alt Returns From Beef Dimension With New Sear Method Beyond Human... 
+
+date: 2024-11-13, updated: 2024-11-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045623-kenji-lopez-alt-returns-f>
 
 ---
 

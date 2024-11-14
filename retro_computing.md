@@ -1,11 +1,47 @@
 ---
 title: retro computing
-updated: 2024-11-13 07:16:35
+updated: 2024-11-13 17:07:28
 ---
 
 # retro computing
 
-(date: 2024-11-13 07:16:35)
+(date: 2024-11-13 17:07:28)
+
+---
+
+## b.log 2024/11/13 - Frozen stuff.
+
+date: 2024-11-13, from: Richard Murray's blog
+
+Frozen stuff. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20241113>
+
+---
+
+## Linux Sees Massive Performance Increase from a Single Line of Code
+
+date: 2024-11-13, from: Linux Magazine
+
+<p>With one line of code, Intel was able to increase the performance of the Linux kernel by 4,000 percent.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Linux-Sees-Massive-Performance-Increase-from-a-Single-Line-of-Code>
+
+---
+
+## MacWorld Interviews Apple CEO John Sculley (1987)
+
+date: 2024-11-13, from: Computer ads from the Past
+
+They discuss the future of Apple, personal computing, and the Mac II 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/macworld-interviews-apple-ceo-john>
 
 ---
 

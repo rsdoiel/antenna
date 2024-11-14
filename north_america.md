@@ -1,24 +1,818 @@
 ---
 title: north america
-updated: 2024-11-13 07:16:32
+updated: 2024-11-13 17:07:24
 ---
 
 # north america
 
-(date: 2024-11-13 07:16:32)
+(date: 2024-11-13 17:07:24)
 
 ---
 
-## Trump’s government overhaul plan
+## Suspected Chinese hack of US telecoms reveals broader plot
 
-date: 2024-11-13, from: Marketplace Morning Report
+date: 2024-11-14, from: VOA News USA
 
-<p>There are few details yet of the structure of a new entity the incoming Trump administration is calling the Department of Government Efficiency, or DOGE. But we do know Elon Musk and Vivek Ramaswamy will help run it. Plus, for the third installment of <a href="https://www.marketplace.org/collection/marketplace-morning-report-tricks-of-the-trade/">our &#8220;Tricks of the Trade&#8221; series</a>, we head over to the LA jewelry and gemstone district.</p>
+washington — A hack of U.S. telecommunications systems linked to China that initially appeared to focus on the American presidential campaigns goes much deeper, according to investigators, and is likely part of a vast effort by Beijing to spy on the United States.
+
+
+The FBI and the U.S. Cybersecurity and Infrastructure Security Agency warned on Wednesday that the breach first detected late last month has now “revealed a broad and significant cyber espionage campaign.”
+
+
+The two agencies said in a statement that their investigation has confirmed Chinese-linked hackers compromised the networks of multiple U.S. telecommunication companies, gaining access to a potential treasure trove of information.
+
+
+Specifically, they said the hackers would have been able to access customer call records and infiltrate the private communications of a select number of government officials and politicians.
+
+
+Additionally, the hackers appear to have been able to copy information requested by U.S. law enforcement as a result of court orders.
+
+
+“We expect our understanding of these compromises to grow as the investigation continues,” the FBI and CISA said.
+
+
+“We encourage any organization that believes it might be a victim to engage its local FBI field office or CISA,” they added.
+
+
+The two agencies first announced they were investigating a breach of U.S. telecommunications systems in late October, less than two weeks before U.S. voters cast their ballots in nationwide elections.
+
+
+
+
+Word of the breach followed a report by The New York Times that Chinese hackers were thought to have broken into telecommunications networks to target the campaign of President-elect Donald Trump — including phones used by Trump and Vice President-elect JD Vance.
+
+
+The Trump campaign confirmed the breach in a statement to VOA. Separately, a person familiar with the investigation told VOA that people affiliated with the campaign of Vice President Kamala Harris were also targeted.
+
+
+The Chinese Embassy in Washington at the time dismissed the U.S. hacking allegations as disinformation, calling the U.S. "the origin and the biggest perpetrator of cyberattacks."
+
+
+The embassy has yet to respond to the latest FBI and CISA allegations.
+
+
+U.S. intelligence agencies warned for months that foreign adversaries were using a combination of cyberattacks and influence operations to meddle with the November 5 U.S. presidential election.
+
+
+
+
+In addition, reports issued by private cybersecurity firms indicated a significant uptick in activity by actors linked to Russia, China and Iran.
+
+
+
+
+All three nations have repeatedly denied accusations of election meddling.
+
+
+U.S. agencies, led by CISA and the FBI, have long warned that China-linked hackers have burrowed into U.S. computer systems and networks, in some cases hiding for years.
+
+
+The China-linked group, known as Volt Typhoon, has been "positioning itself to launch destructive cyberattacks that would jeopardize the physical safety of Americans," according to an advisory issued in February.
+
+
+
+
+"What we've found to date is likely the tip of the iceberg," CISA Director Jen Easterly said in a statement at the time. 
+
+<br> 
+
+<https://www.voanews.com/a/suspected-chinese-hack-of-us-telecoms-reveals-broader-plot/7863318.html>
+
+---
+
+## US court overturns 1983 Beirut bombing victims' $1.68B judgment against Iran bank
+
+date: 2024-11-14, from: VOA News USA
+
+new york — A U.S. appeals court on Wednesday threw out a $1.68 billion judgment against Iran's central bank that had been won by family members of troops killed and injured in the 1983 bombing of the U.S. Marine Corps barracks in Beirut. 
+
+
+The 2nd U.S. Circuit Court of Appeals in Manhattan said a lower court judge should have addressed questions of state law before ruling against Bank Markazi and Luxembourg intermediary Clearstream Banking, a unit of Deutsche Boerse. 
+
+
+In a 3-0 decision, the panel also rejected a claim that a 2019 federal law designed to make it easier to seize Iranian assets held outside the United States waived Bank Markazi's sovereign immunity. 
+
+
+That law "neither abrogates Bank Markazi's jurisdictional immunity nor provides an independent grant of subject matter jurisdiction," Circuit Judge Robert Sack wrote. 
+
+ 
+
+The court returned the case to U.S. District Loretta Preska, in Manhattan to address state law questions in the 11-year-old case, and whether the case can proceed in Bank Markazi's absence. 
+
+
+Bombing victims sought to hold Iran liable for providing material support for the October 23, 1983, suicide attack that killed 241 U.S. service members, by seizing bond proceeds held by Clearstream in a blocked account on Bank Markazi's behalf. 
+
+
+Bank Markazi claimed immunity under the Foreign Sovereign Immunities Act, which generally shields foreign governments from liability in U.S. courts. 
+
+
+Lawyers for the plaintiffs did not immediately respond to requests for comment. Bank Markazi's and Clearstream's lawyers did not immediately respond to similar requests. 
+
+
+Iran, other U.S.-designated sponsors of terrorism, and banks accused of providing services to terrorists face thousands of claims in U.S. courts by victims and their families. It is often difficult for these claimants to collect judgments. 
+
+
+In the Bank Markazi case, the plaintiffs sued in 2013 to partially satisfy a $2.65 billion default judgment they had won against Iran in 2007. 
+
+
+Another judge dismissed the case in 2015, but the 2nd Circuit Court revived it in 2017. 
+
+
+Then in 2020, the U.S. Supreme Court ordered a fresh review in light of the 2019 law, which then-President Donald Trump signed as part of the National Defense Authorization Act. 
+
+
+The plaintiffs have said they hold more than $4 billion of judgments against Iran and have been unable to collect for decades. 
+
+
+The case is Peterson et al v. Bank Markazi et al, 2nd U.S. Circuit Court of Appeals, No. 15-690. 
+
+<br> 
+
+<https://www.voanews.com/a/beirut-bombing-victims-1-68-billion-iran-judgment-overturned-by-us-appeals-court-/7863044.html>
+
+---
+
+## All inflation is local
+
+date: 2024-11-13, from: Market Place
+
+<p>The national inflation rate doesn&#8217;t give a full picture of rising prices. Some places have it better than others. In this episode, housing costs have driven inflation down in some places, and kept rates above the average in others. Plus: Will China have to pay its fair share in the clean energy transition? Are Americans in better shape to pay off debt than before the pandemic? And, does anyone really need an AI shopping assistant?</p>
  
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/13/mmr_20241113_MMR_2_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/trumps-government-overhaul-plan&awCollectionId=mkp-MMR"></source>
-</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/13/mmr_20241113_MMR_2_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/trumps-government-overhaul-plan&awCollectionId=mkp-MMR" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/11/13/pm_20241113_PM_Podcast_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace%2Fall-inflation-is-local&awCollectionId=mkp-MKP-PM"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/11/13/pm_20241113_PM_Podcast_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace%2Fall-inflation-is-local&awCollectionId=mkp-MKP-PM" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace/all-inflation-is-local>
+
+---
+
+## Iran ready for possible oil export curbs after Trump election
+
+date: 2024-11-13, from: VOA News USA
+
+Dubai, United Arab Emirates — Iran has made plans to sustain its oil production and exports and is ready for possible oil restrictions from a Trump administration in the U.S., Oil Minister Mohsen Paknejad said on Wednesday, according to the oil ministry's news website Shana. 
+
+
+In 2018, then-U.S. President Donald Trump withdrew from a 2015 nuclear pact with Iran and re-imposed sanctions that hurt Iran's oil sector, with production dropping to 2.1 million barrels per day, or bpd, during his presidency. 
+
+
+"Required measures have been taken. I will not go into detail but our colleagues within the oil sector have taken measures to deal with the restrictions that will occur and there is no reason to be concerned," Paknejad said. 
+
+
+In recent years, Iranian oil production has rebounded to around 3.2 million barrels per day according to the Organization of the Petroleum Exporting Countries, of which Iran is a member. 
+
+
+Iranian oil exports have climbed this year to near multi-year highs of 1.7 million bpd despite U.S. sanctions.  
+
+
+Chinese refiners buy most of its supply. Beijing says it doesn't recognize unilateral U.S. sanctions. 
+
+<br> 
+
+<https://www.voanews.com/a/iran-ready-for-possible-oil-export-curbs-after-trump-election/7863028.html>
+
+---
+
+## Can Trump claw back climate money?
+
+date: 2024-11-13, from: Market Place, Make me Smart
+
+<p>President Biden&#8217;s hallmark Inflation Reduction Act set aside nearly $150 billion for various climate projects. But not all of that money has been spent, and President-elect Trump has vowed to take it back. The question, is how much money is leftover? Kimberly explains why it&#8217;s taken years to get the money out the door. Plus, we&#8217;ll unpack some gains in women&#8217;s sports and wage growth.</p>
+<p>Here&#8217;s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.axios.com/2024/11/13/carbon-emissions-fossil-fuels-record-high" target="_blank" rel="noreferrer noopener">&#8220;Carbon emissions from fossil fuels hit record highs in 2024: report&#8221;</a> from Axios</li>
+<li><a href="https://www.washingtonpost.com/climate-environment/interactive/2024/snow-forecast-trends-climate-change/" target="_blank" rel="noreferrer noopener">&#8220;Dreaming of snow this winter? Look up the forecast in your area.&#8221;</a> from The Washington Post</li>
+<li><a href="https://globalcarbonbudget.org/fossil-fuel-co2-emissions-increase-again-in-2024/" target="_blank" rel="noreferrer noopener">&#8220;Fossil fuel CO2 emissions increase again in 2024&#8221;</a> from the Global Carbon Project</li>
+<li><a href="https://www.politico.com/news/2024/11/12/trump-return-white-house-how-much-biden-climate-money-safe-00188928" target="_blank" rel="noreferrer noopener">&#8220;The mystery number that’s key to whether Biden’s spending survives&#8221;</a> from Politico</li>
+<li><a href="https://apnews.com/article/womens-pro-baseball-league-2026-e572ee8481c4e0ba3f2b611eaf47f9cd" target="_blank" rel="noreferrer noopener">&#8220;Women&#8217;s baseball players could soon have a league of their own again&#8221;</a> from AP News</li>
+<li><a href="https://x.com/byHeatherLong/status/1856696575914852665" target="_blank" rel="noreferrer noopener">Tweet</a> from The Washington Post&#8217;s Heather Long about wage growth</li>
+</ul>
+<p>Got a question for the hosts about the election, Trump’s next presidency and the U.S. economy? Email us at makemesmart@marketplace.org or leave us a voicemail at 508-U-B-SMART.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/11/13/mms_20241113_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fcan-trump-claw-back-climate-money&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/11/13/mms_20241113_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fcan-trump-claw-back-climate-money&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/can-trump-claw-back-climate-money>
+
+---
+
+## Biden assures Trump of smooth transfer of power at Oval Office meeting
+
+date: 2024-11-13, from: VOA News USA
+
+President-elect Donald Trump returned to the seat of American power Wednesday, visiting both Congress and the White House and laying out his vision as he readies for his second term. President Joe Biden hosted Trump in the Oval Office, where he promised a smooth transfer of power. VOA’s Anita Powell reports from the White House. Kim Lewis contributed. 
+
+<br> 
+
+<https://www.voanews.com/a/biden-assures-trump-of-smooth-transfer-of-power-at-oval-office-meeting/7862969.html>
+
+---
+
+## US overdose deaths down, giving experts hope for enduring decline
+
+date: 2024-11-13, from: VOA News USA
+
+NEW YORK — The decline in U.S. drug overdose deaths appears to have continued this year, giving experts hope the nation is seeing sustained improvement in the persistent epidemic. 
+
+
+There were about 97,000 overdose deaths in the 12-month period that ended June 30, according to provisional Centers for Disease Control and Prevention data released Wednesday. That's down 14% from the estimated 113,000 for the previous 12-month period. 
+
+
+"This is a pretty stunning and rapid reversal of drug overdose mortality numbers," said Brandon Marshall, a Brown University researcher who studies overdose trends. 
+
+
+Overdose death rates began steadily climbing in the 1990s because of opioid painkillers, followed by waves of deaths led by other opioids like heroin and — more recently — illicit fentanyl. Provisional data had indicated a slight decline for 2023, and the tally released Wednesday showed that the downward trend has kept going. 
+
+
+Of course, there have been moments in the last several years when U.S. overdose deaths seemed to have plateaued or even started to go down, only to rise again, Marshall noted. 
+
+
+"This seems to be substantial and sustained," Marshall said. "I think there's real reason for hope here." 
+
+
+Experts aren't certain about the reasons for the decline, but they cite a combination of possible factors. 
+
+
+One is COVID-19. In the worst days of the pandemic, addiction treatment was hard to get, and people were socially isolated — with no one around to help if they overdosed. 
+
+
+"During the pandemic we saw such a meteoric rise in drug overdose deaths that it's only natural we would see a decrease," said Farida Ahmad of the CDC's National Center for Health Statistics. 
+
+
+Still, overdose deaths are well above what they were at the beginning of the COVID-19 pandemic. 
+
+
+The recent numbers could represent the fruition of years of efforts to increase the availability of the overdose-reversing drug naloxone, and addiction treatments such as buprenorphine, said Erin Winstanley, a University of Pittsburgh professor who researches drug overdose trends. 
+
+
+Marshall said such efforts likely are being aided by money from settlements of opioid-related lawsuits, brought by state, local and Native American governments against drugmakers, wholesalers and pharmacies. Settlement funds have been rolling out to small towns and big cities across the U.S., and some have started spending the money on naloxone and other measures. 
+
+
+Some experts have wondered about changes in the drug supply. Xylazine, a sedative, has been increasingly detected in illegally manufactured fentanyl, and experts are sorting out exactly how it's affecting overdoses. 
+
+
+In the latest CDC data, overdose death reports are down in 45 states. Increases occurred in Alaska, Nevada, Oregon, Utah and Washington. 
+
+
+The most dramatic decreases were seen in North Carolina and Ohio, but CDC officials voiced a note of caution. Some jurisdictions have had lags in getting death records to federal statisticians — particularly North Carolina, where death investigations have slowed because of understaffing at the state medical examiner's office. The CDC made estimates to try to account for incomplete death records, but the decline in some places may ultimately turn out not to be as dramatic as initial numbers suggest. 
+
+
+Another limitation of the provisional data is that it doesn't detail what's happening in different groups of people. Recent research noted the overdose deaths in Black and Native Americans have been growing disproportionately larger. 
+
+
+"We really need more data from the CDC to learn whether these declines are being experienced in all racial ethnic subgroups," Marshall said. 
+
+<br> 
+
+<https://www.voanews.com/a/us-overdose-deaths-down-giving-experts-hope-for-enduring-decline/7862958.html>
+
+---
+
+## Birth control, abortion pill requests surge since Trump election
+
+date: 2024-11-13, from: VOA News USA
+
+Hours after Donald Trump was elected president for the second time, Dr. Clayton Alfonso had two messages from patients seeking to replace their IUDs. Over the next few days, three women inquired about getting their tubes tied.
+
+
+All of them said the election was the reason they were making these choices now.
+
+
+Requests for long-term birth control and permanent sterilizations have surged across the nation since the election, doctors told The Associated Press. And companies that sell emergency contraception and abortion pills say they're seeing significant spikes in requests from people who are stockpiling the medications — one saw a 966% increase in sales of emergency contraception from the week before in the 60 hours after the election.
+
+
+"I saw this bump after the Trump election in 2016" and after Roe vs. Wade was overturned in 2022, said Alfonso, an OB-GYN at Duke University in North Carolina. "But the patients seem more afraid this time."
+
+
+Although anti-abortion advocates are pressing Trump for more restrictions on abortion pills, it's unclear what — if much — will be done regarding access to contraceptives of any kind during the second Trump administration. Trump told a Pittsburgh television station in May that he was open to supporting regulations on contraception. But after media reports on the interview, he wrote on his social media platform Truth Social that he "has never and will never" advocate for restricting birth control and other contraceptives.
+
+
+Alfonso said his patients want to replace still-effective IUDs and "restart" the 3-to-12-year clock on them before the inauguration. He also said the women are particularly concerned about IUDs, which have been attacked by abortion opponents who believe life begins when an egg is fertilized. Experts believe the devices work mostly by blocking fertilization, but also may make it harder for a fertilized egg to implant in the womb.
+
+
+A patient who requested a tubal ligation Tuesday told Alfonso she doesn't want kids and is "just absolutely terrified of either forced pregnancy or inability to access contraception."
+
+
+Pittsburgh OB-GYN and abortion provider Dr. Grace Ferguson said more of her patients are scheduling IUD insertions or stockpiling emergency contraception, telling her upfront that it's "because of the upcoming administration change."
+
+
+One patient, Mara Zupko, said she wants prescription emergency contraception since she's on the cusp of the weight limit for Plan B, the most well-known over-the-counter type. Her husband is getting a vasectomy.
+
+
+"We always kind of teetered on whether we wanted children or not," said Zupko, 27. "But as the world has become scarier and scarier, we realized we didn't want to bring a child into that environment. And I also have several health risks."
+
+
+Women are also turning to companies that sell emergency contraception online or offer abortion pills mifepristone and misoprostol through telehealth — something that's been happening even before the election, but that some companies say has accelerated.
+
+
+A study earlier this year showed the abortion pill supplier Aid Access received about 48,400 requests from across the U.S. for so-called "advance provision" pills from September 2021 through April 2023 — with requests highest right after news leaked about Roe being overturned but before the formal announcement. Other research found that more women had their tubes tied post-Roe, with the biggest increases in states that ban abortion.
+
+
+Mifepristone has a shelf life of about five years and misoprostol around two years, according to Plan C, an organization that provides information about medical abortions. Plan B typically has a shelf life of four years.
+
+
+Telehealth company Wisp saw orders for abortion pills spike 600% between Election Day and the following day. And between Nov. 6 and 11, the company saw a 460% increase in sales of its emergency contraception and birth control offerings.
+
+
+At Gen Z-focused Winx Health, which sells emergency contraception called Restart, company leaders saw a 966% increase in sales in the 60 hours following the election compared with the week before. Sales of "value packs" of Restart — four doses instead of one — were up more than 7,000% in the past week.
+
+
+"Morning after pills" are legal in all states, but Winx co-founder Cynthia Plotch said many people seem confused about what emergency contraception is compared to abortion pills. In a 2023 poll by the health policy research organization KFF, a majority of responders said they know these two things aren't the same, but only 27% reported knowing emergency contraceptive pills cannot end a pregnancy.
+
+
+Doctors agree confusion around morning after pills may explain some of the stockpiling. But Alfonso at Duke suspects most people are doing this for the same reason they are seeking longer-term methods of birth control: to avoid abortion by preventing pregnancy in the first place.
+
+
+Alfonso predicts the birth control and abortion pill surge may level out like it did in 2016 and 2022. If the new administration "is not focused on health care right away," he said, "then I think it'll go to the back of people's minds until it picks up in the media." 
+
+<br> 
+
+<https://www.voanews.com/a/birth-control-abortion-pill-requests-surge-since-trump-election/7862869.html>
+
+---
+
+## Trump's unexpected pick for Pentagon chief is decorated veteran, Fox News host
+
+date: 2024-11-13, from: VOA News USA
+
+Pentagon — President-elect Donald Trump has made a largely unexpected pick to run the world’s largest military, nominating Fox News host and decorated veteran Pete Hegseth to be defense secretary.
+
+
+Trump has picked someone who has no previous experience in government or in running a large business. But the Army National Guard officer and “Fox and Friends” weekend host has raised his profile through hinting at several changes to the Defense Department.
+
+
+Hegseth has said he opposes diversity, equity and inclusion programs, or DEI, which he has called “woke.” He has questioned the role of women in combat positions, all of which were opened to women by Secretary of Defense Ash Carter in January 2016. Since then, women have earned positions as Green Berets, Army Rangers and Navy combat-craft crewman after completing the same grueling tests as men.
+
+
+Hegseth, a graduate of Princeton and Harvard, authored the book “The War on Warriors,” which blames the military’s DEI programs for its recruiting crisis.
+
+
+“There just aren’t enough lesbians from San Francisco who want to join the 82nd Airborne. Not only do the lesbians not join, but those very same ads turn off the young, patriotic, Christian men who have traditionally filled our ranks,” he wrote.
+
+
+The nominee has also hinted he could target military leaders, including Chairman of the Joint Chiefs of Staff General C.Q. Brown, to push out those who have supported DEI programs.
+
+
+“First of all, you’ve got to fire the chairman of the Joint Chiefs" and "any general that was involved, any general, admiral, whatever," he told podcast host Shawn Ryan earlier this year.
+
+
+Hegseth served tours of duty in Iraq, Afghanistan and Guantanamo Bay as an infantry officer and has pushed to make the U.S. military more lethal.
+
+
+He received two Bronze Stars, two Army Commendation Medals and the National Defense Service Medal with a Bronze Service Star. 
+
+
+Trump has praised his pick as “tough, smart and a true believer in ‘America First.’” 
+
+
+Hegseth’s nomination will need to be confirmed by a Senate majority. Republicans currently hold the majority by at least three seats.
+
+
+One former Pentagon official, who spoke to VOA on condition of anonymity to discuss a nomination before a Senate vote, praised Hegseth’s dedication to American troops and veterans.
+
+
+“He will fight for them because he really cares,” the former official said.
+
+
+Other national security officials, who also spoke to VOA on condition of anonymity, said they were surprised by the pick.
+
+
+After Congressman Mike Waltz of Florida was chosen to be Trump’s national security adviser, many had expected the secretary of defense position to be filled by one of the established national security heavy-hitters in the Republican party, such as U.S. Representative Mike Rogers of Alabama, who chairs the House Armed Services committee, or a Senate Armed Services committee member such as Joni Ernst of Iowa or Tom Cotton of Arkansas. Both are veterans.
+
+
+The Defense Department oversees more than 2.5 million active-duty and National Guard troops and has a budget that is expected to exceed $800 billion this year.
+
+
+Trump had a rocky relationship with defense secretaries in his first administration. His first secretary of defense, retired General Jim Mattis, resigned in protest of Trump’s treatment of allies and his decision to withdraw all U.S. troops from Syria. His other Senate-confirmed secretary of defense, Mark Esper, has called the president-elect “unfit for office.”
+
+
+Ahead of the election, Trump told podcaster Joe Rogan that his “biggest mistake” in his first term was appointing "bad people," including "neocons.”
+
+
+Hegseth was the executive director for Concerned Veterans for America, a group funded by the Koch brothers that advocated greater privatization of the Department of Veterans Affairs.
+
+
+He was reportedly under consideration to run the Department of Veterans Affairs in the first Trump administration. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-s-unexpected-pick-for-pentagon-chief-is-decorated-veteran-fox-news-host/7862840.html>
+
+---
+
+## Climate Tech Companies Plan For Survival Under Trump
+
+date: 2024-11-13, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDQ4OTcxMC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3NDAxNTA0MH0.KXQMa3LwtMmHfjTKbY516nuztwixSuoUiAY-EghDp-4/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">A mere two years ago, climate world was awash in optimism as the tax credits in the recently passed Inflation Reduction Act and other Biden-era legislation opened up exciting opportunities for climate tech companies. Now, Trump has said he wants to repeal the IRA in its entirety and “terminate” all of its unspent funds. So what becomes of the crop of startups that were either born directly out of or buoyed by IRA incentives and other positive policy developments?</p><p>Let’s take a look at a few examples. First there’s Crux, a marketplace for the transferable clean energy tax credits unlocked by the IRA. There’s also Watershed, a $1.8 billion software startup that helps businesses track and reduce their carbon emissions. And there’s <a href="https://heatmap.news/sparks/quilt-heat-pump-on-sale-date" target="_self"><u>Quilt</u></a>, which makes a sleek, small, and expensive electric heat pump.</p><p>If they’re worried about what will happen to their business under a Republican trifecta, they’re certainly not talking about it. In the week since the election I've gotten used to hearing a couple primary refrains. One: Everyone obviously wants to create and invest in tech that can weather changing political tides and compete on market fundamentals alone. And two: Red states disproportionately benefit from the IRA. </p><p>Crux, for example, generates revenue by charging transaction fees for the tax credits that are bought and sold on its platform, thus tying its business model to these tax credits’ continued existence. Since the startup began facilitating transactions last year, however, CEO Alfred Johnson told me the market has been dominated by credits associated with solar, wind, and advanced manufacturing, none of which are thought to be at a particularly high risk of deletion.</p><p>Who knows with Trump, though. There’s certainly no doubt that the priorities of his administration will be quite different from those of Biden’s, and that gives rise to a lot of what-ifs. For example: If Trump guts the Department of Energy overall, eliminating or hollowing out the Loan Programs Office and the Office of Clean Energy Demonstrations, presumably far less clean tech requiring huge infrastructure investment will get built. And that will mean fewer tax credits to trade.</p><p>Johnson agrees, calling this “a real cause for concern” for emergent technologies overall. So essentially, Johnson is banking on there being<em> </em>enough<em> </em>bipartisan support for enough<em> </em>tax credits and enough new project buildout that the market keeps humming right along, even as specific energy priorities change </p><p>“The number of times that Trump has talked about nuclear energy or domestic manufacturing as big objectives of his campaign and administration is extremely high,” Johnson noted. “And transferability is already the mechanism by which you'll drive additional dollars into those markets.”</p><p>And then there’s Watershed, the unicorn software company founded in 2019 on the premise that global corporate sustainability reporting was on a steady upwards trajectory, driven by pressure from customers and investors as well as impending regulations, including domestic <a href="https://watershed.com/blog/understanding-the-secs-new-carbon-disclosure-recommendations" rel="noopener noreferrer" target="_blank"><u>climate disclosure rules</u></a> from the Securities and Exchange Commission. Now, it seems relatively safe to say that under Trump, those (already long-delayed) rules will probably never <a href="https://www.esgdive.com/news/the-esg-climate-rules-at-stake-under-a-second-trump-presidency/732294/" rel="noopener noreferrer" target="_blank"><u>see the light of day</u></a>.</p><p>Watershed co-founder Taylor Francis told me that’s not as big a problem as you might expect for a company that makes its money selling emissions-tracking software to large companies. Why not? Europe and California, mostly. Each has its own respective reporting requirements that will go into effect in the next few years, he explained. In the EU, it’s the <a href="https://finance.ec.europa.eu/capital-markets-union-and-financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en" rel="noopener noreferrer" target="_blank"><u>Corporate Sustainability Reporting Directive</u></a>, which applies to all medium-to-large companies in the region, plus any non-EU companies with over €150 million in annual revenue there, while <a href="https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB253" rel="noopener noreferrer" target="_blank"><u>California’s climate disclosure law</u></a> applies to any company doing business in the state that has at least $1 billion in global revenue.</p><p>“It is very hard to think about any large company that does not fall into one of those two buckets,” Francis told me. “And those things are unconnected from who's in the White House.” Though the SEC rules would have been a boon to Watershed’s business, Francis said that since they’re already stuck in court <a href="https://www.esgdive.com/news/10-republican-states-challenge-final-sec-climate-disclosure-rule/709763/" rel="noopener noreferrer" target="_blank"><u>due to challenges</u></a> from Republican-led states, the company wasn’t banking on federal climate disclosure policy to be enacted under <em><em>either</em></em> administration. </p><p>A tax credit that <a href="https://www.irs.gov/credits-deductions/energy-efficient-home-improvement-credit" rel="noopener noreferrer" target="_blank"><u>supports residential energy efficiency</u></a> could be in real danger though. This credit makes things such as insulation, energy-efficient windows, and heating and cooling systems such as heat pumps more affordable for homeowners. And that, of course, could be bad news for companies working in these spaces, including Quilt, which seeks to create “<a href="https://heatmap.news/technology/heat-pump-gradient-quilt-electric-air" target="_self"><u>the Tesla of heat pumps</u></a>.” The current credit allows homeowners to claim up to $2,000 on the purchase of their heat pump, but Quilt’s CEO Paul Lambert told me that he doesn’t think this has made any real difference in consumer uptake thus far. </p><p>“It's a nice-to-have,” he said of the tax credit. “But if you asked me, ‘How many Quilt customers would not have purchased Quilt had that not existed?’ I think the answer is zero.” Right now this high-performance heat pump is only available in San Francisco, where many tech enthusiasts have both money to spend and an entrepreneurial attitude when it comes to early adoption. And while the upfront costs of heat pumps are high, they eventually pay for themselves in energy savings — though Lambert also acknowledged that as the company expands into more markets, it will encounter more price-sensitive customers who may be put off by the high sticker price.</p><p>Even if the energy efficiency tax credit gets nixed, heat pump adoption could still be aided by another IRA provision, the <a href="https://www.energy.gov/save/rebates" rel="noopener noreferrer" target="_blank"><u>Home Energy Rebates Program</u></a>, which provides low- to moderate-income households with savings of up to $8,000 on heat pumps alone, with additional money available for other electric appliances. These programs are state-administered, and only 10 states plus Washington D.C. have launched their programs so far. Once money gets disbursed, it will get much trickier for Trump to eliminate these programs. But the many states that are still preparing their applications or awaiting approval could be at risk of getting their funding pulled. </p><p>Lambert chooses to see the bright side of an increased reliance on state and local level policy. “A lot of states are going to feel like they need to step up and pick up the ball where it may have been dropped,” he told me, also noting that “a lot of the rebates we’re benefiting from now at a local level and state level were made in reaction to the first Trump presidency.”</p><p>It’s an optimistic sentiment that I’ve heard from investors, as well — that there’s nothing as energizing as a climate foe in the White House to motivate states and even philanthropists to pick up the slack. But at the end of the day, there’s also nothing that quite replaces the hundreds of billions the IRA poured into energy and climate initiatives, and the trillions that it’s set to unlock in <a href="https://home.treasury.gov/news/featured-stories/memorandum-from-deputy-secretary-wally-adeyemo-inflation-reduction-act-year-1#:~:text=Our%20strategy%2C%20by%20contrast%2C%20uses,America%20for%20renewable%20energy%20technology." rel="noopener noreferrer" target="_blank"><u>additional funding</u></a> for renewable energy technologies.</p> 
+
+<br> 
+
+<https://heatmap.news/technology/trump-climate-tech>
+
+---
+
+## US Senate Republicans choose Senator John Thune as majority leader
+
+date: 2024-11-13, from: VOA News USA
+
+U.S. Senate Republicans on Wednesday chose Senator John Thune to serve as majority leader when they retake control of the chamber next year.  
+
+
+In a secret ballot, the South Dakota senator beat Senators John Cornyn and Rick Scott to assume the mantle of Republican leadership that Mitch McConnell has held for the past 18 years.
+
+
+Thune told reporters the November 5 election was a mandate from the American people “to work with this president on an agenda that unwinds a lot of the damage of the Biden Harris Schumer agenda and puts in place new policies that will move our country forward in a different direction.”  
+
+
+The 63-year-old Thune was elected to the Senate in 2004 and currently holds the Number 2 spot in Republican leadership, serving as minority whip. He is perceived as a more mainstream choice than Scott, a hard-line conservative and close ally of President-elect Donald Trump.
+
+
+McConnell said in a statement that Thune’s “election is a clear endorsement of a consummate leader. The confidence our colleagues have placed in John’s legislative experience and political skill is well deserved.”
+
+
+Thune received 23 votes to Cornyn’s 15 and Scott’s 13. He will serve as Senate majority leader for at least the next two years.
+
+
+Republicans will hold at least 52 seats in the 100-person U.S. Senate. Votes in the Pennsylvania Senate race are still being counted.
+
+
+“I look forward to working with him,” current Senate Majority Leader Chuck Schumer said in a statement.  “We’ve done many bipartisan things here in the Senate together and I hope that continues. As you know, I strongly believe that bipartisanship is the best and often the only way to get things done in the Senate.”
+
+
+Trump has floated the idea of bypassing the normal hearing process for Cabinet appointees, a significant departure from the Constitutional role of the U.S. Senate.
+
+
+“The Senate has an advise and consent role in the Constitution, so we will do everything we can to process his nominations quickly and get them installed in their position so they can begin to implement his agenda,” Thune told reporters after his election.
+
+
+Trump endorsed Speaker of the House Mike Johnson on Wednesday, saying he should serve as leader in the 119th Congress. With vote counting still underway in some states, Republicans hold a slim majority over Democrats in the U.S. House of Representatives.
+
+
+Trump also had a unified government, with Republican control of both the Senate and the House, during the first two years of his first term as president. 
+
+<br> 
+
+<https://www.voanews.com/a/us-senate-republicans-choose-senator-john-thune-as-majority-leader/7862664.html>
+
+---
+
+##  Political Betting Hits The Jackpot With Trump 
+
+date: 2024-11-13, from: The Lever News
+
+ Booming political gambling markets are poised to win big under a Trump administration, despite mounting concerns about the dangers of wagering on American democracy.  
+
+<br> 
+
+<https://www.levernews.com/political-betting-hits-the-jackpot-with-trump/>
+
+---
+
+## Biden, Xi to meet in Lima on sidelines of APEC summit in Peru
+
+date: 2024-11-13, from: VOA News USA
+
+U.S. President Joe Biden and Chinese President Xi Jinping will meet November 16 on the sidelines of the 2024 Asia Pacific Economic Cooperation, or APEC summit in Lima, Peru, the White House announced Wednesday.
+
+
+The meeting follows the leaders' last in-person engagement a year ago on the sidelines of the APEC summit in California, and their 2022 meeting in Bali on the sidelines of the G20 summit.
+
+
+Biden and Xi are expected to revisit areas of cooperation, particularly the resumption of military-to-military contacts, efforts to combat the global fentanyl crisis and nascent work to deal with the risks of Artificial Intelligence, or AI, a senior administration said in a briefing with reporters Wednesday.
+
+
+The U.S. president will also express "deep concern" over Beijing's support for Moscow's war against Ukraine, and the deployment of North Korean troops to aid Russia, said the official, who requested anonymity to speak on the upcoming meeting. The official said Biden will also reiterate his "longstanding concern" over China's "unfair trade policies and non-market economic practices" that hurt American workers.
+
+
+The official added Biden will raise Chinese cyber-attack efforts on U.S. civilian critical infrastructure as well as Beijing's increased military activities around Taiwan and the South China Sea while also underscoring the importance of respect for human rights.
+
+
+The meeting is likely to be the last between Biden and Xi ahead of the incoming administration of Donald Trump in January. The president-elect has appointed ardent China critics in key foreign policy positions that could lead to a more confrontational U.S. posture toward Beijing. They include Republican Congressman Mike Waltz as Trump's pick for national security adviser and Senator Marco Rubio as secretary of state.
+
+
+Whatever the next administration decides, they're going to need to find ways to manage the "tough, complicated relationship" between the U.S. and China, the official said in response to a question from VOA.
+
+
+"Russia, cross-strait issues, the South China Sea and cyber are areas the next administration is going to need to think about carefully, because those are areas of deep policy difference with China, and I don't expect that will disappear," the official said.
+
+
+Xi is also likely anticipating what the Trump administration plans to do about global trade, particularly whether he will enact promises to impose steep tariffs on all Chinese goods. 
+
+<br> 
+
+<https://www.voanews.com/a/biden-xi-to-meet-in-lima-on-sidelines-of-apec-summit-in-peru/7862589.html>
+
+---
+
+## Biden, Trump pledge peaceful transfer of power in January
+
+date: 2024-11-13, from: VOA News USA
+
+U.S. President-elect Donald Trump returned triumphantly to Washington on Wednesday, pledging a smooth transition of power in January as he met for two hours at the White House with his longtime political rival, President Joe Biden.
+
+
+"It was a substantive meeting," White House spokeswoman Karine Jean-Pierre told reporters. "They discussed important national security and domestic policy issues facing the nation and the world."
+
+
+Biden invited Trump for the traditional visit — a show of the coming Jan. 20 peaceful transfer of power in American democracy between the current U.S. leader and the incoming chief executive. It was Trump’s first visit to the White House since his first presidential term ended in January 2021.
+
+
+The two men sat in front of a roaring fireplace in the Oval Office ahead of their private talks and traded niceties in a peaceful tableau.
+
+
+“I'm looking forward to having a smooth transition and we're looking forward to talking about some of that today,” Biden said.
+
+
+“Thank you very much,” Trump replied. “Politics is tough and in many cases it's not a very nice world. It is a nice world today and I appreciate very much a transition so smooth — it will be as smooth as it can get — and I very much appreciate that, Joe. Thank you.”
+
+
+“You're welcome,” Biden responded.
+
+
+Watch related video by Anita Powell:
+
+
+
+
+First lady Jill Biden joined her husband in greeting the president-elect upon his arrival at the White House. The White House said she gave Trump a handwritten letter of congratulations for his wife, Melania, and expressed her team’s readiness to assist with the transition.
+
+
+The former first lady, who lived in the White House from 2017 to 2021 during her husband’s first presidency, did not accompany him to Washington and has not indicated whether she plans to move into the White House again when he takes office.
+
+
+Biden, a Democrat, had sought to defeat Trump, a Republican, for a second time in the Nov. 5 election, but ended his campaign in July after faltering badly in a debate against Trump. Biden quickly endorsed Vice President Kamala Harris to succeed him, but Trump swept through seven political battleground states in the election and easily defeated her.
+
+
+When Biden defeated Trump in 2020, Trump offered no White House invitation to meet him ahead of the inauguration and left Washington two hours before Biden’s swearing-in on the steps of the U.S. Capitol.
+
+
+Trump, who to this day claims falsely that he was cheated out of winning the 2020 election by vote fraud, was the first president to not witness his successor’s inauguration since Andrew Johnson skipped the swearing-in of Ulysses S. Grant in 1869. Biden has said he plans to attend Trump’s inauguration.
+
+
+
+
+Trump also met with Republican lawmakers in the House of Representatives. Republicans hold a narrow majority in the chamber in the current Congress and are nearing a slight majority control in the Congress set to be sworn in Jan. 3, but the outcome of more than a dozen House elections remains uncertain.
+
+
+Trump has moved quickly to fill his nascent administration with Republican officials who have been the most politically loyal to him in the four years he has been out of office.
+
+
+In his latest announcements Wednesday, Trump named Florida Senator Marco Rubio as secretary of state, the country’s top diplomat; Florida Representative Matt Gaetz as attorney general, the top law enforcement position in the government, and Tulsi Gabbard, a former Hawaii Democratic congresswoman turned Republican advocate for the president-elect, as director of national intelligence.
+
+
+On Tuesday, Trump named Pete Hegseth, a Fox News host and a veteran of the wars in Iraq and Afghanistan, to be his next defense secretary.
+
+
+The choice of Hegseth was outside the norm of those usually named as the Pentagon leader. But he was a vocal supporter of Trump during his first term, embracing his “America First” agenda of trying to withdraw U.S. troops from abroad and often taking up the cause of combat veterans accused of war crimes.
+
+
+Trump has also announced South Dakota Governor Kristi Noem as his choice for Homeland Security chief and picked John Ratcliffe as the director of the Central Intelligence Agency.
+
+
+Both Rubio and Noem were on Trump’s short list of possible vice presidential running mates several months ago. While Trump later picked first-term Ohio Senator JD Vance, now the vice president-elect, to join him on the Republican national ticket, both Rubio and Noem remained Trump stalwarts as he won the election.
+
+
+Ratcliffe was the nation’s sixth director of national intelligence, serving for the last eight months of the Trump administration after a rocky confirmation process.
+
+
+
+
+Trump also announced that billionaire businessman Elon Musk and entrepreneur and former Republican presidential candidate Vivek Ramaswamy will lead what Trump called the Department of Government Efficiency. The announcement said they would provide advice and guidance to “drive large-scale structural reform” of the federal government.
+
+
+The acronym for the new agency, DOGE, is a nod to Musk’s favorite cryptocurrency, dogecoin.
+
+
+Other notable picks by Trump include William McGinley as White House counsel, Florida congressman Michael Waltz as national security adviser and Thomas Homan, Trump’s former acting immigration chief, to be “border czar” to head efforts to deport undocumented migrants, possibly millions of them, who are living in the United States. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-to-meet-with-biden-at-white-house-/7862534.html>
+
+---
+
+## October inflation numbers meet forecast
+
+date: 2024-11-13, from: Marketplace Morning Report
+
+<p>According to the latest CPI numbers out on Wednesday, prices rose 0.2% in October and were 2.6% higher than they were a year ago. But wage growth continues to outpace inflation. As Americans are seeing a rise in disposable income, we&#8217;ll look at how it&#8217;s helping drive a significant improvement in consumer confidence and spending. Also on the show, we&#8217;ll explain the role federal income tax has traditionally played in the federal budget.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/13/mmr_20241113_MMR_3_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace-morning-report%2Foctober-inflation-numbers-meet-forecast&awCollectionId=mkp-MMR"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/13/mmr_20241113_MMR_3_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace-morning-report%2Foctober-inflation-numbers-meet-forecast&awCollectionId=mkp-MMR" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/october-inflation-numbers-meet-forecast>
+
+---
+
+## Future uncertain for Chinese migrants without US visa under Trump
+
+date: 2024-11-13, from: VOA News USA
+
+Austin, Texas — The price of entering the U.S. through the southern border is 250,000 yuan or close to $35,000, said Xiao Jing, a woman in her 30s who is to paying that amount to try to enter the U.S. without a visa. She is using a pseudonym due to the sensitivity of the issue.
+
+
+"I was introduced by an acquaintance who had been successful [entering the U.S. illegally through the southern border] to help me apply for a Japanese visa and arrange the pickup service after I arrive in Mexico," she told VOA. The person who will pick her up in Mexico will then help her cross into the U.S.
+
+
+Xiao worked as a clerk in a small company in the Chinese city of Chongqing. But because of China’s economic downturn in recent years, she said her boss first defaulted on wages, then laid off many people, including her.
+
+
+"At my age, it's hard to find a job, and I don't like the political atmosphere in the country," she said.
+
+
+If she applied for a U.S. visa, Xiao said, she would have to wait for an interview and her assets and income would be scrutinized. She chose plan B: obtaining a visa to Japan, then buying a plane ticket, although she has not decided to which city.
+
+
+"My agent [for helping to get a travel visa] told me that if I was afraid, I should stay in China. But I still want to give it a try,” she told VOA.
+
+
+A woman who only calls herself “Lisa” is a China-based “agent” who is helping Chinese migrants with their attempts to cross into the U.S. without documentation. Because of her work, she does not want to give her real name and be identified by the police.
+
+
+She told VOA she received an unusually large number of inquiries from people in China in the past few days, and she advised them to get on the road as soon as possible and enter the U.S. before President-elect Donald Trump takes office.
+
+
+One of Trump’s top campaign promises was to make it tougher for migrants to enter the United States unlawfully.
+
+
+"The day I take office, the migrant invasion ends, and the restoration of our country begins,” said Trump in a October 31 campaign rally in Henderson, Nevada.
+
+
+
+
+He also singled out migrants from China during an April 13 speech in Schnecksville, Pennsylvania, describing them as “military age and they mostly are men. And it sounds like to me, are they trying to build a little army in our country?”
+
+
+Lisa said people from China have not stopped wanting to enter the U.S., because China’s economy and lack of freedom of speech have not improved.
+
+
+She has created several Telegram groups that discuss illegal immigration. Lisa said the membership of those chat groups has been increasing daily.
+
+
+Lisa said, currently, the Chinese have had no problems entering Mexico. She showed VOA the entry stamps in the passport pages of several of her clients.
+
+
+Her recommended route is to fly to Tijuana, Mexico, and climb the border wall into San Diego, California. San Diego is also close to Los Angeles, where there is a large Chinese population. She observed that it is more difficult to enter the U.S. now, and people are kept in immigration detention centers longer than a year ago.
+
+
+
+
+Wang Zhongwei, a 33-year-old asylum-seeker and activist, well-known among the Chinese migrants, told VOA that people had been discussing new routes through either Cuba or Bolivia for months, but very few people were able to reach the U.S. via these routes.
+
+
+"I have not been in contact with anyone taking this route through Cuba, and we are now in contact with a much smaller group of people [who are trying to come to the U.S. through the southern border] than before. Almost everyone who entered the country flew from Japan to Mexico and then crossed the wall into the U.S.," he told VOA.
+
+
+Guo Bin from Guangxi Province arrived in the U.S. through the southern border last year with his 12-year-old daughter. He said in the last two to three months, fewer people have tried to take the journey from China through Turkey, then Ecuador and then up through Central America and Mexico to the U.S.
+
+
+
+
+Guo has been listening to the chatter on social media channels within the communities of Chinese migrants who have crossed or attempted to cross the U.S. southern border.
+
+
+"The people who entered the U.S. border now are the ones stranded on the road in the past two or three months, not the ones who just set off from China. Many people are now stranded in Mexico, Ecuador or Turkey. Some have run out of money halfway through, and some have been deceived by snakeheads [human traffickers], so they have to stay in the local area and work and continue the journey after getting enough money by working for a few months,” he said.
+
+
+The number of migrants from China that U.S. border agents have encountered at the southern border has been declining since December 2023 when it reached close to 6,000 people. In September, the number of Chinese encounters dropped to just over 1,300, according to U.S. Customs and Border Protection statistics.
+
+
+
+
+The December high is consistent with overall undocumented migrant numbers described by the Biden administration as “the highest level of encounters between ports of entry in history.”
+
+
+In June, Biden issued an executive order that temporarily restricted asylum eligibility at the U.S.-Mexico border whenever the number of migrants crossing unlawfully or without authorization reaches a daily average of 2,500.
+
+
+The Mexican government has also stepped up its border enforcement with checkpoints on major roads and increased patrols of border crossings into the U.S.
+
+
+
+
+Guo said comments on social media from the Chinese migrant community revealed some of the Chinese who did manage to enter the U.S. without visas were deported.
+
+
+"Some of them were [repatriated] because they are members of the Communist Party, and they might not pass the interview," Guo said.
+
+
+In July, the U.S. announced the first large charter flight since 2018, deporting Chinese nationals to China.
+
+
+“We will continue to enforce our immigration laws and remove individuals without a legal basis to remain in the United States,” Secretary of Homeland Security Alejandro Mayorkas said. “People should not believe the lies of smugglers.”
+
+
+News of Trump’s election victory has frightened many Chinese migrants in the U.S., Wang told VOA.
+
+
+"The moment the election results came out, the immigrant group’s chats turned into heated discussions, and many people began to worry. I'm a little worried about what the new policy will be,” he said.
+
+
+Trump's “rhetoric of mass deportations has affected all those who have not gotten legal status, including those who crossed the southern border illegally and those who came with a legal visa and now apply for asylum,” Wang said.
+
+
+Asylum applications typically have two steps: a pretrial hearing with an average waiting time of about three years and an individual hearing with a waiting time of less than five years.
+
+
+At present, Wang has passed the pretrial hearing, and his personal hearing is scheduled for February. His case is moving relatively faster and smoother than other Chinese migrants, said immigration lawyers, but he does not know what changes may occur under the new Trump administration.
+
+
+Adrianna Zhang from VOA Mandarin Service contributed to this story and some material in this report came from Reuters. 
+
+<br> 
+
+<https://www.voanews.com/a/uncertain-future-for-chinese-migrants-without-us-visa-under-trump/7862477.html>
+
+---
+
+## We Talked to the Guy Making Those Anti-Elon Musk Bumper Stickers
+
+date: 2024-11-13, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDQ4ODYxOC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc3NDkyNTA4OH0.Xx_-NaRfSnB7pHstvyZomDE0FlyptY8GlS-OCZ-ViJo/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">Tesla is ubiquitous. Following Election Day, the company’s shares broke the $1 trillion mark, making the electric vehicle manufacturer more valuable <a href="https://fortune.com/2024/11/11/elon-musk-donald-trump-election-tesla-auto-industry-carmakers-market-value/" rel="noopener noreferrer" target="_blank"><u>than the next 15 automakers </u><u><em><em>combined</em></em></u></a>. Much of that is because Elon Musk’s company is likely to <a href="https://www.reuters.com/markets/us/how-musks-clout-with-trump-could-enrich-his-companies-2024-11-06/" rel="noopener noreferrer" target="_blank"><u>benefit</u></a> from its CEO having President-elect Donald Trump’s ear. But it’s also because Teslas are good EVs — the Model Y is <a href="https://heatmap.news/decarbonize-your-life/best-electric-cars" target="_self"><u>one of Heatmap’s top picks</u></a> for someone who wants to make a stress-free switch away from gasoline.</p>
+<p>The problem is, well, <em><em>Elon</em></em>. Though 35% of respondents to a Heatmap poll last winter said the controversial and erratic executive made them <a href="https://heatmap.news/electric-vehicles/elon-musk-tesla-poll-ev-buyers" target="_self"><u>more likely</u></a> to want to purchase a Tesla, there are plenty of people who wouldn’t be caught dead in an EV that in any way benefits the newly minted <a href="https://www.cnbc.com/2024/11/11/the-stock-market-is-about-to-do-something-rarely-seen-in-its-history.html" rel="noopener noreferrer" target="_blank"><u>government efficiency crusader</u></a>. </p>
+<p>But what about all those people who purchased Teslas before Musk went full MAGA? For them, there’s a solution in the form of bumper stickers produced by Matthew Hiller of Waikiki, Hawaii. Hiller’s side hustle, <a href="https://madpufferstickers.com/" rel="noopener noreferrer" target="_blank"><u>Mad Puffer Stickers</u></a>, gives Tesla owners a way to disavow the company’s CEO in the form of a <a href="https://www.etsy.com/listing/1547763541/no-elon-4-inch-round-vinyl-window-cling?click_key=1e0746b421336feafcc78313b9a5e077e7206d10%3A1547763541&click_sum=d42dc0ec&ref=shop_home_feat_3&frs=1" rel="noopener noreferrer" target="_blank"><u>no Elon</u></a> sticker, an <a href="https://www.etsy.com/listing/1772721753/new-anti-elon-tesla-club-die-cut-static?click_key=afa235402c41aeea8df76727dc55e1e53f4104e1%3A1772721753&click_sum=a8cf5edc&ref=shop_home_feat_1&frs=1&bes=1" rel="noopener noreferrer" target="_blank"><u>Anti-Elon Tesla Club</u></a> sticker, or one that spells it all out: “<a href="https://www.etsy.com/listing/1384790275/tesla-owner-bumper-sticker-i-bought-this?click_key=96c2ccd60462f11056c18d5b8f60f7f124ab3b9d%3A1384790275&click_sum=df0202bd&ref=shop_home_feat_2&frs=1&bes=1" rel="noopener noreferrer" target="_blank"><u>I bought this before we knew Elon was crazy</u></a>.” As you might expect, business is booming.</p>
+<p>Last night, I caught up with Hiller about his unexpected success. Our conversation has been edited and condensed for clarity. </p>
+<p><strong>How did you begin making anti-Elon Musk stickers?</strong></p>
+<p>I started making stickers on my own before the Elon sticker. I work at an aquarium, so I did a lot of fish stickers. I always had an interest in making stickers — I knew how to make them, and how to put the designs and cute phrases on them.</p>
+<p>The point came in maybe February or January of 2023. I had been wanting to buy a Tesla, but at that point, I started to notice how far off the rails Elon had been going. When he bought Twitter, he started extreme censoring of information, taking verification marks off <em><em>The New York Times</em></em> and things like that to sow discontent, disinformation, and push his agenda. And it was ugly. I couldn’t believe this man was using his power like this, and I immediately did not want to support him in any way. I figured, there’s no way <em><em>I’m</em></em> buying a Tesla — but there have got to be so many people who are so embarrassed to be repping him on the streets driving their Teslas and who want to completely disavow this guy. Because I know I would want to sell mine immediately after I saw what he was doing.</p>
+<p>So I made the first sticker, which said, “I bought this before we knew Elon was crazy.” I printed up a very small run at first and just threw it in my shop. It took a while for the first sale, but after it got rolling, some people started posting pictures. It <a href="https://www.reddit.com/r/me_irl/comments/169m9i7/me_irl/" rel="noopener noreferrer" target="_blank"><u>went viral</u></a> a couple of times and I would see a burst of sales, and then it would quiet down. I would be selling five to seven a day, and then suddenly, there would be 50 a day because someone else talked about it on Reddit. </p>
+<p>And now, at this point, it’s gone insane.</p>
+<p><strong>Have your sales gone up since the election?</strong></p>
+<p>Absolutely. Unbelievably. </p>
+<p>There were major points when the sales spiked beyond anything that had happened before. The first time was when Elon went on stage with Trump at one of the rallies, and that solidified what everybody already knew: that he was in the tank for Trump, and he was going to put his full fortune behind getting the guy elected. </p>
+<p>Then after the election, there was another huge bunch of sales because people were like, “Oh my God, this guy is now going to have a part in this government.” This was so in-your-face and so disgusting — he’s just filling Trump’s coffers with his money in exchange for position and power and influence. And it showed in the sales that other people thought so, too: I must have sold probably 250 or 300 that day, and it’s been steady ever since. I can barely keep up. My full-time job is at the aquarium, and I come home and pack stickers until 11 p.m. It’s just me and my wife doing it all.</p>
+<p><strong>Can you give me a ballpark of how many you’ve sold?</strong></p>
+<p>Definitely over 10,000. I think today we’re at about 180 [per day] — and that’s across all my stickers, not just the anti-Elon sticker. But it’s been around 100-plus every day for weeks now. It’s rough.</p>
+<p><strong>Which is the most popular design?</strong></p>
+<p>The most popular is the OG, the “I bought this before we knew Elon was crazy.” It’s the only one that I have that is a traditional long bumper sticker, rectangular. And I’m a little upset that it’s the most popular because it’s the hardest one to ship because of the odd-size envelopes. For all the other ones, it’s easier. But that’s the most popular one by far.</p>
+<p>It’s currently the <a href="https://www.amazon.com/Best-Sellers-Bumper-Stickers/zgbs/automotive/268880011" rel="noopener noreferrer" target="_blank"><u>No. 4 best-selling bumper sticker on Amazon</u></a>. It had been #1 at a few different points. At one point it was beating both Trump and Kamala stickers. And I was like, “That’s insane. People hate Elon more than they love Trump or Kamala?”</p>
+<p><strong>Have you sold to any Cybertruck owners, as far as you’re aware?</strong></p>
+<p>I have no idea. I don’t think so — I mean, everyone knew he was crazy by the time the Cybertruck came out. People buying the Cybertruck are all in.</p>
+<p><strong>I </strong><a href="https://www.instagram.com/p/CtXwN-ipQXc/?img_index=1" rel="noopener noreferrer" target="_blank"><u><strong>saw on Instagram</strong></u></a><strong> that you dropped off some stickers at a Tesla dealership?</strong></p>
+<p>That was a while ago. I didn’t take stickers; I believe I had a key chain at that point. I dropped them around the store just for the heck of it, to try to drum up some interest in anti-Elon sentiment. Maybe it’d find the right person, you never know. I wish I had more time to focus on social media, but I just don’t.</p>
+<p><strong>Do you have any more anti-Elon sticker design plans?</strong></p>
+<p>There’s one that’s a little more general, and it just says, “<a href="https://www.etsy.com/listing/1822683937/no-more-billionaires-bumper-sticker-anti?click_key=f7747edd938ca8dab83c03fd8b792675cc063f0e%3A1822683937&click_sum=62bc04f1&ref=shop_home_active_19&frs=1" rel="noopener noreferrer" target="_blank"><u>No more billionaires</u></a>.” Elon is the main problem: He’s probably the worst billionaire, but he’s not the only problem. So maybe that sticker will end up on a Tesla, too.</p>
+<p><strong>Will you keep making your fish stickers now that your anti-Elon business has taken off?</strong></p>
+<p>Yeah. I have the ideas banked, I just don’t bother printing them at this point. There’s no point — I’m swamped with what I’ve got. But yeah, absolutely. If I have a really good one, I’ll print it for the aquarium, but not my own personal store. At this point, I’m all Elon, all the time.</p> 
+
+<br> 
+
+<https://heatmap.news/electric-vehicles/anti-elon-bumper-sticker-tesla>
+
+---
+
+## US government worker charged with leaking classified documents on Israel's plans to strike Iran
+
+date: 2024-11-13, from: VOA News USA
+
+Washington — A man who worked for the U.S. government has been charged with leaking classified information assessing Israel's earlier plans to attack Iran, according to court papers filed Wednesday.
+
+
+The man, identified as Asif William Rahman, was arrested by the FBI this week in Cambodia and was due to make his first court appearance in Guam.
+
+
+He was indicted last week in U.S. court in Virginia on two counts of willful transmission of national defense information — felony charges that can can carry significant prison sentences.
+
+
+It was not immediately clear whether Rahman had a lawyer or which federal agency employed him, but officials say he had top secret security clearance.
+
+
+The charges stem from the documents, attributed to the National Geospatial-Intelligence Agency and National Security Agency, appearing last month on a channel of the Telegram messaging app. The documents noted that Israel was still moving military assets in place to conduct a military strike in response to Iran's blistering ballistic missile attack on Oct. 1.
+
+
+Israel carried out a retaliatory attack on multiple sites in Iran in late October.
+
+
+The documents were sharable within the "Five Eyes," which are the United States, Britain, Canada, New Zealand and Australia.
+
+
+The New York Times was first to report his arrest. 
+
+<br> 
+
+<https://www.voanews.com/a/us-government-worker-charged-with-leaking-classified-documents-on-israel-s-plans-to-strike-iran/7862391.html>
+
+---
+
+## The glitz and glamor market
+
+date: 2024-11-13, from: Marketplace Morning Report
+
+<p>At Marketplace, it&#8217;s our job to explain how marketplaces work. This week, we&#8217;re turning from traditional stock and financial markets to the in-person kind. As part of <a href="https://www.marketplace.org/collection/marketplace-morning-report-tricks-of-the-trade/">our &#8220;Tricks of the Trade&#8221; series</a>, we&#8217;re heading to five different markets in LA. Today, we&#8217;re visiting the LA jewelry and gemstone district. But first, we&#8217;ll look at a new entity the incoming Trump administration is calling the Department of Government Efficiency.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/13/mmr_20241113_MMR_2_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace-morning-report%2Ftrumps-government-overhaul-plan&awCollectionId=mkp-MMR"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/13/mmr_20241113_MMR_2_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace-morning-report%2Ftrumps-government-overhaul-plan&awCollectionId=mkp-MMR" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/marketplace-morning-report/trumps-government-overhaul-plan>
 
@@ -47,8 +841,8 @@ date: 2024-11-13, from: Marketplace Morning Report
  
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/13/mmr_20241113_MMR_1_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/how-climate-change-is-hitting-the-wine-industry&awCollectionId=mkp-MMR"></source>
-</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/13/mmr_20241113_MMR_1_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/how-climate-change-is-hitting-the-wine-industry&awCollectionId=mkp-MMR" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/13/mmr_20241113_MMR_1_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace-morning-report%2Fhow-climate-change-is-hitting-the-wine-industry&awCollectionId=mkp-MMR"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/13/mmr_20241113_MMR_1_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace-morning-report%2Fhow-climate-change-is-hitting-the-wine-industry&awCollectionId=mkp-MMR" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/marketplace-morning-report/how-climate-change-is-hitting-the-wine-industry>
 
@@ -696,8 +1490,8 @@ date: 2024-11-12, from: Market Place, Make me Smart
  
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/11/12/mms_20241112_MMS_128.mp3?awEpisodeId=https://www.marketplace.org/shows/make-me-smart/trump-cop29-and-the-future-of-climate-finance&awCollectionId=mkp-MMsmrt"></source>
-</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/11/12/mms_20241112_MMS_128.mp3?awEpisodeId=https://www.marketplace.org/shows/make-me-smart/trump-cop29-and-the-future-of-climate-finance&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/11/12/mms_20241112_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Ftrump-cop29-and-the-future-of-climate-finance&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/11/12/mms_20241112_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Ftrump-cop29-and-the-future-of-climate-finance&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/make-me-smart/trump-cop29-and-the-future-of-climate-finance>
 
@@ -711,8 +1505,8 @@ date: 2024-11-12, from: Market Place
  
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/11/12/pm_20241112_PM_Podcast_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace/a-tale-of-3-q3s&awCollectionId=mkp-MKP-PM"></source>
-</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/11/12/pm_20241112_PM_Podcast_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace/a-tale-of-3-q3s&awCollectionId=mkp-MKP-PM" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/11/12/pm_20241112_PM_Podcast_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace%2Fa-tale-of-3-q3s&awCollectionId=mkp-MKP-PM"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/11/12/pm_20241112_PM_Podcast_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace%2Fa-tale-of-3-q3s&awCollectionId=mkp-MKP-PM" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/marketplace/a-tale-of-3-q3s>
 
@@ -1242,8 +2036,8 @@ date: 2024-11-12, from: Marketplace Morning Report
  
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/12/mmr_20241112_MMR_3_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/climate-change-is-front-of-mind-for-homebuyers&awCollectionId=mkp-MMR"></source>
-</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/12/mmr_20241112_MMR_3_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/climate-change-is-front-of-mind-for-homebuyers&awCollectionId=mkp-MMR" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/12/mmr_20241112_MMR_3_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace-morning-report%2Fclimate-change-is-front-of-mind-for-homebuyers&awCollectionId=mkp-MMR"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/12/mmr_20241112_MMR_3_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace-morning-report%2Fclimate-change-is-front-of-mind-for-homebuyers&awCollectionId=mkp-MMR" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/marketplace-morning-report/climate-change-is-front-of-mind-for-homebuyers>
 
@@ -1404,8 +2198,8 @@ date: 2024-11-12, from: Marketplace Morning Report
  
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/12/mmr_20241112_MMR_2_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/a-different-kind-of-wall-street-is-blooming&awCollectionId=mkp-MMR"></source>
-</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/12/mmr_20241112_MMR_2_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/a-different-kind-of-wall-street-is-blooming&awCollectionId=mkp-MMR" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/12/mmr_20241112_MMR_2_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace-morning-report%2Fa-different-kind-of-wall-street-is-blooming&awCollectionId=mkp-MMR"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/12/mmr_20241112_MMR_2_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace-morning-report%2Fa-different-kind-of-wall-street-is-blooming&awCollectionId=mkp-MMR" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/marketplace-morning-report/a-different-kind-of-wall-street-is-blooming>
 
@@ -1466,8 +2260,8 @@ date: 2024-11-12, from: Marketplace Morning Report
  
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/12/mmr_20241112_MMR_1_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/shell-wins-appeal-in-landmark-emissions-case&awCollectionId=mkp-MMR"></source>
-</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/12/mmr_20241112_MMR_1_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/shell-wins-appeal-in-landmark-emissions-case&awCollectionId=mkp-MMR" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/12/mmr_20241112_MMR_1_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace-morning-report%2Fshell-wins-appeal-in-landmark-emissions-case&awCollectionId=mkp-MMR"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/12/mmr_20241112_MMR_1_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace-morning-report%2Fshell-wins-appeal-in-landmark-emissions-case&awCollectionId=mkp-MMR" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/marketplace-morning-report/shell-wins-appeal-in-landmark-emissions-case>
 
@@ -1771,8 +2565,8 @@ date: 2024-11-12, from: Market Place, Make me Smart
  
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/11/11/mms_20241111_MMS_128.mp3?awEpisodeId=https://www.marketplace.org/shows/make-me-smart/a-crisis-without-a-solution&awCollectionId=mkp-MMsmrt"></source>
-</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/11/11/mms_20241111_MMS_128.mp3?awEpisodeId=https://www.marketplace.org/shows/make-me-smart/a-crisis-without-a-solution&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/11/11/mms_20241111_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fa-crisis-without-a-solution&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2024/11/11/mms_20241111_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fa-crisis-without-a-solution&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/make-me-smart/a-crisis-without-a-solution>
 
@@ -1786,8 +2580,8 @@ date: 2024-11-11, from: Market Place
  
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/11/11/pm_20241111_PM_Podcast_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace/what-does-the-crypto-industry-want&awCollectionId=mkp-MKP-PM"></source>
-</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/11/11/pm_20241111_PM_Podcast_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace/what-does-the-crypto-industry-want&awCollectionId=mkp-MKP-PM" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/11/11/pm_20241111_PM_Podcast_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace%2Fwhat-does-the-crypto-industry-want&awCollectionId=mkp-MKP-PM"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/pm/2024/11/11/pm_20241111_PM_Podcast_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace%2Fwhat-does-the-crypto-industry-want&awCollectionId=mkp-MKP-PM" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/marketplace/what-does-the-crypto-industry-want>
 
@@ -2405,8 +3199,8 @@ date: 2024-11-11, from: Marketplace Morning Report
  
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/11/mmr_20241111_MMR_3_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/are-you-shopping-veteran-owned-businesses-this-holiday-season&awCollectionId=mkp-MMR"></source>
-</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/11/mmr_20241111_MMR_3_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/are-you-shopping-veteran-owned-businesses-this-holiday-season&awCollectionId=mkp-MMR" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/11/mmr_20241111_MMR_3_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace-morning-report%2Fare-you-shopping-veteran-owned-businesses-this-holiday-season&awCollectionId=mkp-MMR"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/11/mmr_20241111_MMR_3_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace-morning-report%2Fare-you-shopping-veteran-owned-businesses-this-holiday-season&awCollectionId=mkp-MMR" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/marketplace-morning-report/are-you-shopping-veteran-owned-businesses-this-holiday-season>
 
@@ -2572,8 +3366,8 @@ date: 2024-11-11, from: Marketplace Morning Report
  
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/11/mmr_20241111_MMR_2_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/marketplace-goes-to-a-marketplace&awCollectionId=mkp-MMR"></source>
-</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/11/mmr_20241111_MMR_2_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/marketplace-goes-to-a-marketplace&awCollectionId=mkp-MMR" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/11/mmr_20241111_MMR_2_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace-morning-report%2Fmarketplace-goes-to-a-marketplace&awCollectionId=mkp-MMR"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/11/mmr_20241111_MMR_2_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace-morning-report%2Fmarketplace-goes-to-a-marketplace&awCollectionId=mkp-MMR" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/marketplace-morning-report/marketplace-goes-to-a-marketplace>
 
@@ -2587,8 +3381,8 @@ date: 2024-11-11, from: Marketplace Morning Report
  
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/11/mmr_20241111_Marketplace_Morning_Report_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/can-singles-day-lift-chinas-economy&awCollectionId=mkp-MMR"></source>
-</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/11/mmr_20241111_Marketplace_Morning_Report_64.mp3?awEpisodeId=https://www.marketplace.org/shows/marketplace-morning-report/can-singles-day-lift-chinas-economy&awCollectionId=mkp-MMR" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/11/mmr_20241111_Marketplace_Morning_Report_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace-morning-report%2Fcan-singles-day-lift-chinas-economy&awCollectionId=mkp-MMR"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/11/mmr_20241111_Marketplace_Morning_Report_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace-morning-report%2Fcan-singles-day-lift-chinas-economy&awCollectionId=mkp-MMR" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/marketplace-morning-report/can-singles-day-lift-chinas-economy>
 

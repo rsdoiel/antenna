@@ -1,11 +1,35 @@
 ---
 title: motorcycles
-updated: 2024-11-13 07:16:35
+updated: 2024-11-13 17:07:28
 ---
 
 # motorcycles
 
-(date: 2024-11-13 07:16:35)
+(date: 2024-11-13 17:07:28)
+
+---
+
+## Honda Recalls Some Gold Wings Because Crankshaft Bolt Could Break
+
+date: 2024-11-13, from: Ride Apart, Electric Motorcycle News
+
+Sudden engine stalling is both unfun and potentially dangerous. 
+
+<br> 
+
+<https://www.rideapart.com/news/740766/honda-gold-wing-recall-crankshaft-bolt/>
+
+---
+
+## Watch an Insane DIY Electric Toddler’s Balance Bike Break Speed Limits
+
+date: 2024-11-13, from: Ride Apart, Electric Motorcycle News
+
+There are infinite ways this could end in catastrophe.  
+
+<br> 
+
+<https://www.rideapart.com/news/740750/diy-electric-toddler-bike/>
 
 ---
 

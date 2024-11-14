@@ -1,23 +1,95 @@
 ---
 title: socal north
-updated: 2024-11-13 07:16:32
+updated: 2024-11-13 17:07:25
 ---
 
 # socal north
 
-(date: 2024-11-13 07:16:32)
+(date: 2024-11-13 17:07:25)
 
 ---
 
-## State officials asked LA residents for input on the Dodger Stadium gondola. Here are some burning questions
+## LA has a new community dinosaur! But don’t mispronounce its name: Gnatalie.
 
 date: 2024-11-13, updated: 2024-11-13, from: The LAist
 
-The controversial aerial plan would connect Dodger Stadium to Union Station in downtown Los Angeles. 
+The Natural History Museum has a new “front porch” — a 75,000-square-foot exhibition space that’s free and open to the public starting Sunday. 
 
 <br> 
 
-<https://laist.com/news/transportation/state-historic-park-dodger-stadium-gondola-project-public-input-questions>
+<https://laist.com/news/education/natural-history-museum-new-dinosaur-commons-gnatalie>
+
+---
+
+## Trump’s proposed tariffs, especially on China and Mexico, could hit California hard
+
+date: 2024-11-13, updated: 2024-11-13, from: The LAist
+
+Trump has threatened new, higher tariffs on two of California’s biggest trade partners, China and Mexico. The state’s workers and economy could feel the most impact. 
+
+<br> 
+
+<https://laist.com/news/politics/trumps-proposed-tariffs-especially-on-china-and-mexico-could-hit-california-hard>
+
+---
+
+## Democrat Levin holds onto San Diego and Orange County-area House seat
+
+date: 2024-11-13, updated: 2024-11-13, from: The LAist
+
+Republicans had hoped to flip the seat after Levin turned it Democratic in 2018. The seat covers coastal north San Diego County and parts of southern Orange County. 
+
+<br> 
+
+<https://laist.com/news/politics/democrat-levin-wins-49th-district-house-seat>
+
+---
+
+## Why no one spent more than Google to lobby California officials this summer
+
+date: 2024-11-13, updated: 2024-11-13, from: The LAist
+
+Google spent $10.7 million on lobbying the Legislature and governor between July 1 and Sept. 30, far more than ever before. 
+
+<br> 
+
+<https://laist.com/news/politics/why-no-one-spent-more-than-google-to-lobby-california-officials-this-summer>
+
+---
+
+## Scott Schmerelson reelected to LAUSD school board
+
+date: 2024-11-13, updated: 2024-11-13, from: The LAist
+
+Former principal Scott Schmerelson will retain his seat on the Los Angeles Unified Board of Education, representing Board District 3 in the West San Fernando Valley. 
+
+<br> 
+
+<https://laist.com/news/education/2024-board-district-3-election-results-scott-schmerelson-electio-dan-chang>
+
+---
+
+## JPL announces another round of layoffs
+
+date: 2024-11-13, updated: 2024-11-13, from: The LAist
+
+JPL said the cuts would affect about 325 employees, or roughly 5% of its workforce. 
+
+<br> 
+
+<https://laist.com/news/jpl-announces-another-round-of-layoffs-2024>
+
+---
+
+## Warmest day of the week followed by chance of showers in the coming days
+
+date: 2024-11-13, updated: 2024-11-13, from: The LAist
+
+Warm and dry conditions today. Don't forget to moisturize. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/warmest-day-of-the-week-followed-by-chance-of-showers-in-the-coming-days>
 
 ---
 
@@ -30,6 +102,18 @@ Brandi O’Kelley, who runs the system’s social media, uses humor to draw more
 <br> 
 
 <https://laist.com/news/education/long-beach-public-library-viral-video>
+
+---
+
+## State officials asked LA residents for input on the Dodger Stadium gondola. Here are some burning questions
+
+date: 2024-11-13, updated: 2024-11-13, from: The LAist
+
+The controversial aerial plan would connect Dodger Stadium to Union Station in downtown Los Angeles. 
+
+<br> 
+
+<https://laist.com/news/transportation/state-historic-park-dodger-stadium-gondola-project-public-input-questions>
 
 ---
 

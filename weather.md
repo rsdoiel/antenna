@@ -1,19 +1,31 @@
 ---
 title: weather
-updated: 2024-11-13 07:16:33
+updated: 2024-11-13 17:07:26
 ---
 
 # weather
 
-(date: 2024-11-13 07:16:33)
+(date: 2024-11-13 17:07:26)
 
 ---
 
-## SPC - No watches are valid as of Wed Nov 13 15:03:02 UTC 2024
+## SPC - No MDs are in effect as of Thu Nov 14 01:01:01 UTC 2024
 
-date: 2024-11-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-11-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Wed Nov 13 15:03:02 UTC 2024. 
+No Mesoscale Discussions are in effect as of Thu Nov 14 01:01:01 UTC 2024. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC - No watches are valid as of Thu Nov 14 01:01:01 UTC 2024
+
+date: 2024-11-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Thu Nov 14 01:01:01 UTC 2024. 
 
 <br> 
 
@@ -21,15 +33,223 @@ No watches are valid as of Wed Nov 13 15:03:02 UTC 2024.
 
 ---
 
-## SPC - No MDs are in effect as of Wed Nov 13 15:03:02 UTC 2024
+## SPC Nov 14, 2024 0100 UTC Day 1 Convective Outlook
 
-date: 2024-11-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-11-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Wed Nov 13 15:03:02 UTC 2024. 
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0647 PM CST Wed Nov 13 2024
+
+Valid 140100Z - 141200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+THE CENTRAL GULF COAST AND ALONG PARTS OF THE WEST COAST...
+
+...SUMMARY...
+Isolated severe thunderstorms, associated with a marginal threat for
+tornadoes and wind damage, will be possible across the central Gulf
+Coast this evening. Isolated severe gusts will also be possible
+along parts of the West Coast.
+
+...Central Gulf Coast...
+A mid-level trough, evident on water vapor imagery, is moving into
+the Ark-La-Tex. Further to the east, a lead shortwave trough is
+moving through the central Gulf Coast states, where a moist airmass
+is in place. Surface dewpoints across the central Gulf Coast region
+range from the mid 70s F near the coast to the mid 60s F over much
+of southwestern Alabama. Scattered thunderstorms are ongoing near
+the moist axis. The stronger cells are expected to move
+northeastward across far southern Mississippi and into southwest
+Alabama this evening. RAP forecasts soundings in far southwest
+Alabama at 03Z have MLCAPE near 750 J/kg, 0-6 km shear in the 35 to
+40 knot range, and some directional shear in the low to mid-levels.
+This should be sufficient for a marginal severe threat this evening.
+A potential for isolated severe gusts may exist with semi-organized
+line segments. A marginal tornado threat will also be possible with
+the more discrete rotating cells.
+
+...West Coast...
+A mid-level trough is evident on water vapor imagery over southwest
+Oregon and northern California. Mid-level moisture associated with
+the trough, large-scale ascent and steep lapse rates are
+contributing to thunderstorm potential along the coast of northern
+California, Oregon and Washington. Some of the storms may become
+strong enough to mix low-level winds of about 35 to 40 knots down to
+the surface. A few gusts could approach severe limits this evening.
+
+..Broyles.. 11/14/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
 
 <br> 
 
-<https://www.spc.noaa.gov/products/md/>
+<https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html>
+
+---
+
+## There are no tropical cyclones at this time.
+
+date: 2024-11-13, from: Eastern Pacific Basin GIS Data
+
+No tropical cyclones as of Wed, 13 Nov 2024 23:55:02 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/>
+
+---
+
+## Eastern Pacific Tropical Weather Outlook
+
+date: 2024-11-13, from: Eastern Pacific Tropical Weather Outlook
+
+ <br />
+ 004 <br />
+ ABPZ20 KNHC 132340<br />
+ TWOEP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS National Hurricane Center Miami FL<br />
+ 400 PM PST Wed Nov 13 2024<br />
+ <br />
+ For the eastern North Pacific...east of 140 degrees west longitude:<br />
+ <br />
+ Tropical cyclone formation is not expected during the next 7 days.<br />
+ <br />
+ $$<br />
+ Forecaster Bucci<br />
+ <br />
+  
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2024-11-13, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>700 PM EST Wed Nov 13 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active systems:<br>The National Hurricane Center is issuing advisories on Potential <br>Tropical Cyclone Nineteen, located over the central Caribbean Sea.<br><br>Tropical cyclone formation is not expected in the next 7 days.<br><br>&&<br>Public Advisories on Potential Tropical Cyclone Nineteen are issued <br>under WMO header WTNT34 KNHC and under AWIPS header MIATCPAT4.<br>Forecast/Advisories on Potential Tropical Cyclone Nineteen are <br>issued under WMO header WTNT24 KNHC and under AWIPS header <br>MIATCMAT4.<br><br>$$<br>Forecaster Bucci<br>NNNN<br><br></div></div><br />
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## Central Pacific Tropical Weather Outlook
+
+date: 2024-11-13, from: Central Pacific Tropical Weather Outlook
+
+ <br />
+ 295 <br />
+ ACPN50 PHFO 132336<br />
+ TWOCP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS Central Pacific Hurricane Center Honolulu HI<br />
+ 200 PM HST Wed Nov 13 2024<br />
+ <br />
+ For the central North Pacific...between 140W and 180W:<br />
+ <br />
+ No tropical cyclones are expected during the next 7 days.<br />
+ <br />
+ $$<br />
+ Forecaster TS<br />
+ <br />
+  
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## SPC Day 3-8 Fire Weather Outlook
+
+date: 2024-11-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 3-8 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0311 PM CST Wed Nov 13 2024
+
+Valid 151200Z - 211200Z
+
+Fire weather concerns are anticipated across parts of the country
+through the extended period - particularly across portions of the
+Northeast and southern California coast where active wildfires have
+been noted over the past several days. Long-range ensemble guidance
+depicts an active upper-level regime through the middle of next
+week, characterized by the passage of highly amplified upper waves
+across the country. Widespread precipitation chances will accompany
+these waves with recent ensemble guidance suggesting most locations
+will see at least some chance for wetting precipitation over the
+next week. Two exceptions to this are the New England region and
+southern CA/lower CO River Valley where rain chances are minimal
+during the D3-8 period. Despite seasonal temperatures, continued
+rain shortfalls should promote drying fuels. 
+
+...D3/Fri to Sun/D5 - New England...
+The passage of a cold front late D2/Thursday into D3/Friday will
+establish an offshore flow regime along the New England coast. Cool,
+but dry, continental air filtering into the region should promote
+diurnal RH reductions into the 30-40% range (though possibly as low
+as 25% for some locations). Although winds are not expected to be
+overly strong given a gradually weakening pressure gradient,
+somewhat breezy conditions coupled with the drying trend and
+receptive fuels will promote fire concerns for the late week and
+into the weekend. 
+
+...D3/Fri - Arizona/New Mexico...
+An amplifying upper trough across the West Coast will support
+widespread pressure falls across the greater Four Corners with an
+attendant mass response across AZ and NM. Latest deterministic and
+ensemble guidance show strong signals for 15-25% RH and 20-30 mph
+southwest winds across eastern AZ into west/southwest NM where
+10-hour fuels remain dry after several days of limited rainfall.
+While ERCs remain somewhat low (generally below the 60th
+percentile), drying of fine fuels through the remainder of the week
+should support a fire concern. 
+
+...D7/Tue to D8/Wed - Southern California...
+Long-range ensemble guidance has begun to show a signal for an
+offshore flow event during the early/middle part of the upcoming
+work week. Both the GEFS and ECENS show reasonably good agreement in
+an unseasonably strong (1040-1045 mb) surface high building across
+the northern Great Basin/northern Rockies in the wake of a strong
+upper trough. This signal suggests that offshore pressure gradients
+may be sufficiently strong to support critical wind speeds off the
+terrain of the southern CA coast. Given antecedent receptive fuels
+(as evident by ongoing large fires) and the anticipated downslope
+warming/drying, critical fire weather conditions appear possible
+during the D7/Tue to D8/Wed period.
+
+..Moore.. 11/13/2024
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/exper/fire_wx/>
 
 ---
 
@@ -105,168 +325,6 @@ should limit 0-1 km SRH.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
-## There are no tropical cyclones at this time.
-
-date: 2024-11-13, from: Eastern Pacific Basin GIS Data
-
-No tropical cyclones as of Wed, 13 Nov 2024 12:37:46 GMT 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gis/>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2024-11-13, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL <br>TTAA00 KNHC DDHHMM CCA<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>700 AM EST Wed Nov 13 2024<br><br>Corrected to add information about High Seas Forecasts and Gale <br>warnings.<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>1. Central and Western Caribbean Sea (AL99):<br>A broad area of low pressure over the central Caribbean Sea <br>continues to produce a large area of showers and thunderstorms.  <br>Environmental conditions are conducive for development, and a <br>tropical depression is likely to form within the next couple of days <br>while the system moves slowly westward into the western Caribbean <br>Sea.  Afterward, further development is likely while the disturbance <br>meanders over the western Caribbean Sea through the weekend.  The <br>system is expected to turn slowly northwestward by early next week. <br>Interests across the western and northwestern Caribbean Sea should <br>monitor the progress of this system.  Regardless of development, <br>heavy rains are expected over Jamaica during the next day or so. For <br>more information on this system, including gale warnings, see High <br>Seas Forecasts issued by the National Weather Service. An Air Force <br>Hurricane Hunter aircraft is scheduled to investigate this system <br>later today.<br>* Formation chance through 48 hours...high...90 percent.<br>* Formation chance through 7 days...high...90 percent.<br><br />
-<br>High Seas Forecasts issued by the National Weather Service<br>can be found under AWIPS header NFDHSFAT1, WMO header FZNT01 <br>KWBC, and online at ocean.weather.gov/shtml/NFDHSFAT1.php<br><br>Forecaster Kelly<br></div></div><br />
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
-
----
-
-## Central North Pacific Tropical Weather Outlook
-
-date: 2024-11-13, from: Central Pacific Basin Tropical Cyclones
-
-
-<br/>
-000<br/>
-ACPN50 PHFO 131136<br/>
-TWOCP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS Central Pacific Hurricane Center Honolulu HI<br/>
-200 AM HST Wed Nov 13 2024<br/>
-<br/>
-For the central North Pacific...between 140W and 180W:<br/>
-<br/>
-No tropical cyclones are expected during the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster Bohlin<br/>
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
-## There are no tropical cyclones at this time.
-
-date: 2024-11-13, from: Central Pacific Basin Tropical Cyclones
-
-No tropical cyclones as of Wed, 13 Nov 2024 12:37:46 GMT 
-
-<br> 
-
-<https://www.nhc.noaa.gov/>
-
----
-
-## Eastern North Pacific Tropical Weather Outlook
-
-date: 2024-11-13, from: Eastern Pacific Basin Tropical Cyclones
-
-
-<br/>
-000<br/>
-ABPZ20 KNHC 131126<br/>
-TWOEP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS National Hurricane Center Miami FL<br/>
-400 AM PST Wed Nov 13 2024<br/>
-<br/>
-For the eastern North Pacific...east of 140 degrees west longitude:<br/>
-<br/>
-Tropical cyclone formation is not expected during the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster Kelly<br/>
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
-## SPC Day 3-8 Fire Weather Outlook
-
-date: 2024-11-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 3-8 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0335 PM CST Tue Nov 12 2024
-
-Valid 141200Z - 201200Z
-
-Upper-level troughing is expected over both the East and West Coasts
-Day 3/Thursday - Day 5/Saturday, with upper-level ridging slowly
-shifting from over the central US to over portions of the eastern
-US. There is forecast uncertainty regarding how this amplified
-upper-level pattern progresses early next week, which will have
-ramifications for potential fire weather concerns in
-southern/central California and the Northeast. 
-
-...Northeast and Mid-Atlantic...
-An approaching warm front with associated cloud cover and possible
-shower activity will limit fire weather concerns across the
-Mid-Atlantic and into portions of the Northeast on Day 3/Thursday.
-However, dry/breezy conditions are likely to develop across portions
-of the Mid-Atlantic and Northeast Day 4/Friday - Day 6/Saturday.
-Given the recent drought, lack of forecast rain, and near to record
-high fire danger, 40% probabilities were expanded and introduced
-during what appears to be a multi-day fire weather episode. Some
-forecast uncertainty remains regarding forecast precipitation and
-where the greatest overlap of elevated/critical winds/RH will be,
-but confidence is increasing in at least elevated fire weather
-conditions for portions of New Jersey, eastern Pennsylvania, the
-Hudson Valley/vicinity, and southern New England late this week
-through the weekend. 
-
-...Southern/central California...
-Breezy/gusty north-northwest winds are possible in portions of
-central/southern California Day 5/Saturday into Day 7/Monday as
-multiple cold fronts sweep south and east over the region. The
-southern extent of forecast precipitation and the magnitude of these
-winds remain uncertain precluding 40% areas at this time. Confidence
-is increasing in an offshore/Santa Ana wind event mid-next week,
-which is on the edge of the outlook period. This event may start on
-Day 8/Tuesday and last multiple days. This will be monitored and if
-trends hold, probabilities will likely be added in subsequent
-extended outlooks.
-
-..Nauslar.. 11/12/2024
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/exper/fire_wx/>
 
 ---
 
