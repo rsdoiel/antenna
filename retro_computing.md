@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2024-11-14 13:46:26
+updated: 2024-11-15 07:10:17
 ---
 
 # retro computing
 
-(date: 2024-11-14 13:46:26)
+(date: 2024-11-15 07:10:17)
+
+---
+
+## Desktop Designer
+
+date: 2024-11-14, from: C64 OS Blog
+
+ <img src='https://s3.amazonaws.com/com.c64os.resources/weblog/desktopdesigner/icon_desktopdesigner.png'> C64 OS v1.07 is currently in beta testing. It will hopefully be released soon, and is another free system update to all licensed users of Version 1.0 and up. A whole pile of cool new things are coming in v1.07. However, today I wanted to talk about something a little less well known, but nonetheless I think is pretty cool. It's a new Application that I created for C64 OS called Desktop Designer. In the very first release of C64 OS, version 1.0, there was a handful of tools included for creating different types of image data that C64 OS consumes. For instance, there was (and still is) a set of two programs found in the //os/desktop/ directory for creating desktop backdrops. How they work is very basic. You load and run screenedit. It clears the screen and installs a very simple listener for PETSCII control characters. It supports one two invert the characters on the screen, one to reload the screen from a filename that you specify, and another to save the screen to that filename by invo. . .  
+
+<br> 
+
+<https://www.c64os.com/post/desktopdesigner>
 
 ---
 

@@ -1,11 +1,287 @@
 ---
 title: science and technology
-updated: 2024-11-14 13:46:24
+updated: 2024-11-15 07:10:15
 ---
 
 # science and technology
 
-(date: 2024-11-14 13:46:24)
+(date: 2024-11-15 07:10:15)
+
+---
+
+## How Public Key Cryptography Really Works, Using Only Simple Math
+
+date: 2024-11-15, from: Quanta Magazine
+
+The security system that underlies the internet makes use of a curious fact: You can broadcast part of your encryption to make your information much more secure.            <p>The post <a href="https://www.quantamagazine.org/how-public-key-cryptography-really-works-20241115/" target="_blank">How Public Key Cryptography Really Works, Using Only Simple Math</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/how-public-key-cryptography-really-works-20241115/>
+
+---
+
+## Bitfinex burglar bags 5 years behind bars for Bitcoin heist
+
+date: 2024-11-15, updated: 2024-11-15, from: The Register (UK I.T. News)
+
+<h4>A nervous wait for rapper wife who also faces a stint in the clink</h4> <p>The US is sending the main figure behind the 2016 intrusion at crypto exchange Bitfinex to prison for five years after he stole close to 120,000 Bitcoin.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/15/bitfinix_intruder_sentenced/>
+
+---
+
+## These Fossil Teeth From an 11-Year-Old Reveal Clues to Why Humans Developed an Unusually Long Childhood
+
+date: 2024-11-15, from: Smithsonian Magazine
+
+Roughly 1.77-million-year-old teeth show that slow development in hominids may have had an earlier start than previously thought, according to a new study 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/these-fossil-teeth-from-an-11-year-old-reveal-clues-to-why-humans-developed-an-unusually-long-childhood-180985475/>
+
+---
+
+## Microsoft Exchange update fixes security flaws, breaks other stuff
+
+date: 2024-11-15, updated: 2024-11-15, from: The Register (UK I.T. News)
+
+<h4>Flawed patch stops on-premises, hybrid server transport rules in their tracks for some</h4> <p>Microsoft is pausing the rollout of an Exchange security update after it became clear that the patch could break transport rules for some customers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/15/microsoft_exchange_buggy_patch/>
+
+---
+
+## Hubble Takes a Look at Tangled Galaxies
+
+date: 2024-11-15, from: NASA breaking news
+
+This NASA/ESA Hubble Space Telescope image depicts the cosmic tangle that is MCG+05-31-045, a pair of interacting galaxies located 390 million light-years away and a part of the Coma galaxy cluster. The Coma Cluster is a particularly rich cluster that contains over a thousand known galaxies. Amateur astronomers can easily spot several of these in […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-takes-a-look-at-tangled-galaxies/>
+
+---
+
+## Historians Thought This Was a Medieval Site Linked to King Arthur. It Turned Out to Be a Mysterious Monument Built 4,000 Years Earlier
+
+date: 2024-11-15, from: Smithsonian Magazine
+
+Researchers have excavated King Arthur's Hall, a rectangular enclosure in southwest England, and determined that it dates to at least 3000 B.C.E. 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/historians-thought-this-was-a-medieval-site-linked-to-king-arthur-it-turned-out-to-be-a-mysterious-monument-built-4000-years-earlier-180985470/>
+
+---
+
+## UK energy watchdog slaps down Capita's £130M smart meter splurge
+
+date: 2024-11-15, updated: 2024-11-15, from: The Register (UK I.T. News)
+
+<h4>Regulator finds poor planning and overuse of consultants added to costs in ailing rollout</h4> <p>UK energy regulator Ofgem is set to disallow current and projected costs of nearly £130 million ($165 million) accrued by Data Communications Company (DCC), the Capita-owned monopoly responsible for the UK&#39;s smart meter platform.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/15/ofgem_smart_meter_capita/>
+
+---
+
+## O2's AI granny knits tall tales to waste scam callers' time
+
+date: 2024-11-15, updated: 2024-11-15, from: The Register (UK I.T. News)
+
+<h4>Brit mobile network&#39;s Daisy has time, patience, and plenty of yarns to spin</h4> <p>Watch out, scammers. O2 has created a new weapon in the fight against fraud: an AI granny that will keep you talking until you get bored and give up.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/15/o2_ai_granny/>
+
+---
+
+## Inside the Brutal Murders That Inspired a Foundational Work in the True Crime Genre
+
+date: 2024-11-15, from: Smithsonian Magazine
+
+Truman Capote's "In Cold Blood" documented the killings of a family of four in rural Kansas on this day in 1959 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/inside-the-brutal-murders-that-inspired-a-foundational-work-in-the-true-crime-genre-180985238/>
+
+---
+
+## The National Museum of Computing reboots Bletchley Park's H Block
+
+date: 2024-11-15, updated: 2024-11-15, from: The Register (UK I.T. News)
+
+<h4>Tunny and Colossus galleries re-roofed</h4> <p>The National Museum of Computing has unveiled renovations to keep out the rain and smartening up H block as celebrations take place to mark the 80th anniversary of the Colossus II computer.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/15/the_national_museum_of_computing/>
+
+---
+
+## That hardware will be more reliable if you stop stabbing it all day
+
+date: 2024-11-15, updated: 2024-11-15, from: The Register (UK I.T. News)
+
+<h4>Knives and lasers don&#39;t mix … until they do</h4> <p><strong>On Call</strong>  By the end of the working week, many a tech support worker feels like bashing the hardware with which they work. Which is why <i>The Register</i> each Friday offers a less aggressive outlet for any workplace frustrations that have accumulated, in the form of a fresh instalment of On Call – the reader-contributed column in which you share tech support tales.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/15/on_call/>
+
+---
+
+## EU stings Meta for nearly a billion bucks over competition-trampling Facebook Marketplace
+
+date: 2024-11-15, updated: 2024-11-15, from: The Register (UK I.T. News)
+
+<h4>Mark Z does not like this</h4> <p>The European Union has fined Facebook parent Meta €797.72 million ($843 million) for antitrust violations connected to its online classified service Facebook Marketplace. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/15/eu_fines_meta_798m/>
+
+---
+
+## Microsoft Power Pages misconfigurations exposing sensitive data
+
+date: 2024-11-15, updated: 2024-11-15, from: The Register (UK I.T. News)
+
+<h4>NHS supplier that leaked employee info fell victim to fiddly access controls that can leave databases dangling online</h4> <p>Private businesses and public-sector organizations are unwittingly exposing millions of people&#39;s sensitive information to the public internet because they misconfigure Microsoft’s Power Pages website creation problem.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/15/microsoft_power_pages_misconfigurations/>
+
+---
+
+## Google decides Europe's political ad rules are too hard to implement at scale
+
+date: 2024-11-15, updated: 2024-11-15, from: The Register (UK I.T. News)
+
+<h4>Will stop accepting ads instead before TTPA comes into force</h4> <p>Google has decided the European Union&#39;s Regulation on Transparency and Targeting of Political Advertising will be so hard to comply with it&#39;s better off not trying.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/15/google_stops_eu_political_ads/>
+
+---
+
+## Airbus A380 flew for 300 hours with meter-long tool left inside engine
+
+date: 2024-11-15, updated: 2024-11-15, from: The Register (UK I.T. News)
+
+<h4>Emails and tool-tracking software weren&#39;t heeded, but nothing scary happened - except to the nylon tool</h4> <p>An Airbus A380 operated by Australian airline Qantas clocked over 290 hours of flight time despite a tool having been left inside one of its engines, according to a report from the Australian Transport Safety Bureau.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/15/tool_found_in_a380_engine/>
+
+---
+
+## Lenovo China clones the ThinkPad X1 Carbon with an old, slow, local x86
+
+date: 2024-11-15, updated: 2024-11-15, from: The Register (UK I.T. News)
+
+<h4>Four-core crawler can’t beat current – or ancient – AMDs or Intels</h4> <p>Lenovo&#39;s Chinese operation has created a premium laptop based around a slow and out-of-date x86-compatible processor – but at least it&#39;s locally designed.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/15/lenovo_china_slow_laptop/>
+
+---
+
+## WP Engine revs Automattic lawsuit with antitrust claim
+
+date: 2024-11-15, updated: 2024-11-15, from: The Register (UK I.T. News)
+
+<h4>Revised sueball over WordPress brawl tries Sherman Antitrust Act on for size</h4> <p>WP Engine, a hosting provider for websites running open source WordPress software, has revised its legal complaint against rival Automattic and its CEO Matthew Mullenweg to include antitrust allegations.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/15/wp_engine_antitrust_automattic_lawsuit/>
+
+---
+
+## Aging and Fragility Biomarkers are Altered by Spaceflight
+
+date: 2024-11-14, from: NASA breaking news
+
+Spaceflight accelerates the symptoms of aging in astronaut bodies by inducing genomic instability, mitochondrial dysfunction, and increased inflammation. This is the first study to comprehensively examine biomarkers and pathways associated with spaceflight and terrestrial aging, frailty, and sarcopenia. Main Findings: Impact: This work reveals the need for a frailty index to monitor development of frailty-related [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/aging-and-fragility-biomarkers-are-altered-by-spaceflight/>
+
+---
+
+## Congress ponders underwater alien civilizations, human hybrids, and other unexplained stuff
+
+date: 2024-11-14, updated: 2024-11-14, from: The Register (UK I.T. News)
+
+<h4>Because life&#39;s not weird enough in the United States these days</h4> <p><strong>Video</strong>  The US government has known about aliens since the 1940s, but kept the truth from us all, according to testimony offered at a Wednesday session of the House Committee on Oversight and Accountability.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/14/congress_uap_hearings/>
+
+---
+
+## Startup’s “AI” tool spams GitHub repositories with bogus commits, without consent
+
+date: 2024-11-14, from: OS News
+
+Update: that was quick! GitHub banned the &#8220;AI&#8221; company&#8217;s account. Only GitHub gets to spam AI on GitHub, thank you very much. Most of the time, products with &#8220;AI&#8221; features just elicit sighs, especially when the product category in question really doesn&#8217;t need to have anything to do with &#8220;AI&#8221; in any way, shape, or form. More often than not, though, such features are not only optional and easily ignorable, and we can always simply choose not to buy or use said products in the first place. I mean, over the last few days I&#8217;ve migrated my Pixel 8 Pro from stock Google Android to GrapheneOS as the final part of my platform transition away from big tech, and Google&#8217;s insistence on shoving &#8220;AI&#8221; into everything certainly helped in spurring this along. But what are you supposed to do if an &#8220;AI&#8221; product forces itself upon you? What if you can&#8217;t run away from it? What if, one day, you open your GitHub repository and see a bunch of useless PRs from an &#8220;AI&#8221; bot who claims to help you fix issues, without you asking it to do so? Well, that&#8217;s what&#8217;s happening to a bunch of GitHub users who were unpleasantly surprised to see garbage, useless merge requests from a random startup testing out some &#8220;AI&#8221; tool that attempts to automatically &#8216;fix&#8217; open issues on GitHub. The proposed &#8216;fixes&#8217; are accompanied by a disclaimer: Disclaimer: The commit was created by Latta AI and you should never copy paste this code before you check the correctness of generated code. Solution might not be complete, you should use this code as an inspiration only. This issue was tried to solve for free by Latta AI &#8211;&#160;https://latta.ai/ourmission If you no longer want Latta AI to attempt solving issues on your repository, you can block this account. ↫ Example of a public open issue with the &#8220;AI&#8221; spam Let me remind you: this tool, called &#8220;Latta AI&#8221;, is doing all of this unprompted, without consent, and the commits generally seem bogus and useless, too, in that they don&#8217;t actually fix any of the issues. To make matters worse, your GitHub repository will then automatically appear as part of its marketing &#8211; again without any consent or permission from the owners of the GitHub projects in question. Clicking through to the GitHub repositories listed on the front page will reveal a lot about how developers are responding: they&#8217;re not amused. Every link I clicked on had Latta AI&#8217;s commit and comment marked as spam, abuse, or just outright deleted. We&#8217;re talking public open issues here, so it&#8217;s not like developers aren&#8217;t looking for input and possible fixes from third parties &#8211; they just want that input and those possible fixes to come from real humans, not some jank code generator that&#8217;s making us destroy the planet even faster. This is what the future of &#8220;AI&#8221; really looks like. It&#8217;s going to make spam even easier to make, even more pervasive, and even cheaper, and it&#8217;s going to infest everything. Nothing will be safe from these monkeys on typewriters, and considering what the spread of misinformation by human-powered troll farms can do, I don&#8217;t think we&#8217;re remotely ready for what &#8220;AI&#8221; is going to mean for our society. I can assure you lying about brown people eating cats and dogs will be remembered as quaint before this nonsense is over. 
+
+<br> 
+
+<https://www.osnews.com/story/141134/startups-ai-tool-spams-github-repositories-with-bogus-commits-without-consent/>
+
+---
+
+## Fortinet patches VPN app flaw that could give rogue users, malware a privilege boost
+
+date: 2024-11-14, updated: 2024-11-14, from: The Register (UK I.T. News)
+
+<h4>Plus a bonus hard-coded local API key</h4> <p>A now-patched, high-severity bug in Fortinet&#39;s FortiClient VPN application potentially allows a low-privilege rogue user or malware on a vulnerable Windows system to gain higher privileges from another user, execute code and possibly take over the box, and delete log files.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/14/fortinet_vpn_authentication_bypass_bug/>
+
+---
+
+## La NASA y Perú acuerdan estudiar una posible campaña de lanzamiento de cohetes sonda
+
+date: 2024-11-14, from: NASA breaking news
+
+Read this release in English&#160;here. La NASA y la Comisión Nacional de Investigación y Desarrollo Aeroespacial del Perú (CONIDA) sentaron las bases para una posible campaña de varios años de duración para el lanzamiento de pequeños cohetes científicos desde Perú, conjuntamente con Estados Unidos. Ambos países firmaron el jueves un memorando de entendimiento no vinculante [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/la-nasa-y-peru-acuerdan-estudiar-una-posible-campana-de-lanzamiento-de-cohetes-sonda/>
+
+---
+
+## Meet the Space Ops Team: Diana Oglesby
+
+date: 2024-11-14, from: NASA breaking news
+
+Diana Oglesby&#8217;s love for NASA began long before she started working for the agency. A native of Decatur, Texas, Oglesby knew at the age of eight that she would make NASA her future destination. That dream became a reality when Oglesby joined the agency, first as an intern and later as a NASA full-time employee, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/somd/meet-the-space-ops-team-diana-oglesby/>
 
 ---
 
@@ -61,7 +337,7 @@ Nov. 14, 2024 NASA Johnson Invites Proposals to Lease Vibration Test Facility NA
 
 date: 2024-11-14, from: NASA breaking news
 
-NASA and Peru’s National Commission for Aerospace Research and Development (CONIDA) laid the groundwork for a potential multi-year scientific rocket launch campaign in the South American country. Both countries signed a non-binding memorandum of understanding Thursday that includes safety training, a joint feasibility study for the potential campaign, and technical assistance for CONIDA on sounding [&#8230;] 
+Lee esta nota de prensa en español&#160;aquí. NASA and Peru’s National Commission for Aerospace Research and Development (CONIDA) laid the groundwork for a potential multi-year scientific rocket launch campaign in the South American country. Both countries signed a non-binding memorandum of understanding Thursday that includes safety training, a joint feasibility study for the potential campaign, [&#8230;] 
 
 <br> 
 
@@ -402,6 +678,18 @@ date: 2024-11-14, updated: 2024-11-14, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2024/11/14/senior_tech_departure_asda/>
+
+---
+
+## Five Eyes infosec agencies list 2023's most exploited software flaws
+
+date: 2024-11-14, updated: 2024-11-15, from: The Register (UK I.T. News)
+
+<h4>Slack patching remains a problem – which is worrying as crooks increasingly target zero-day vulns</h4> <p>The cyber security agencies of the UK, US, Canada, Australia, and New Zealand have issued a list of the 15 most exploited vulnerabilities in 2023, and warned that attacks on zero-day exploits have become more common.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/14/five_eyes_2023_top_vulnerabilities/>
 
 ---
 
@@ -899,9 +1187,9 @@ Science in Space Nov 2024 Many of us wear devices that count our steps, measure 
 
 ## Ambitious overclocker cools Raspberry Pi 5 with liquid nitrogen
 
-date: 2024-11-13, updated: 2024-11-13, from: The Register (UK I.T. News)
+date: 2024-11-13, updated: 2024-11-15, from: The Register (UK I.T. News)
 
-<h4>We do these things because we can and because we must</h4> <p>The dark arts of overclocking remain alive and well. And one master of the practice has turned their attention to the Raspberry Pi 5 with the intention of getting the diminutive computer all the way to 4 Ghz via various exotic and gloriously impractical means.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>Pi supremo Eben Upton tells the Reg: &#39;I love this sort of thing&#39;</h4> <p><strong>Updated</strong>  The dark arts of overclocking remain alive and well. And one master of the practice has turned their attention to the Raspberry Pi 5 with the intention of getting the diminutive computer all the way to 4 Ghz via various exotic and gloriously impractical means.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 
@@ -1297,7 +1585,7 @@ Picture yourself at an airport a few decades from now. What does your airliner l
 
 date: 2024-11-12, from: Smithsonian Magazine
 
-Sławomir and Szymon Milewski were searching for a Roman road when they stumbled upon the cache of coins, which is worth more than $120,000 
+Sławomir and Szymon Milewski were searching for an ancient road when they stumbled upon the cache of coins, which is worth more than $120,000 
 
 <br> 
 

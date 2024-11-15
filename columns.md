@@ -1,11 +1,144 @@
 ---
 title: columns
-updated: 2024-11-14 13:46:24
+updated: 2024-11-15 07:10:15
 ---
 
 # columns
 
-(date: 2024-11-14 13:46:24)
+(date: 2024-11-15 07:10:15)
+
+---
+
+## AMD Radeon PRO W7700 running on Raspberry Pi
+
+date: 2024-11-15, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">AMD Radeon PRO W7700 running on Raspberry Pi</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/pi-5-amd-radeon-pro-w7700-workstation-graphics-card.jpg" alt="Raspberry Pi 5 with AMD Radeon PRO W7700 graphics card"></p>
+
+<p>After <em>years</em> of work among a bunch of people in the Pi community (special callout to Coreforge!), we finally have multiple generations of AMD graphics cards working on the Raspberry Pi 5.</p>
+
+<p>We <a href="TODO">recently got Polaris-era GPUs working</a> (like the RX460), but in the past month we've gotten 6000 and 7000-series GPUs up and running. And many parts of the driver work at full performance—well, as much as can be had on the Raspberry Pi's single PCIe Gen 3 lane (8 GT/sec)!</p>
+
+<p>I've been testing tons of modern AAA games, like Doom Eternal and Crysis Remastered, and can get 10-15 fps at 4K with Ray Tracing on, or 15-20 fps at 4K. Dropping down to 1080p is not enough to overcome the Pi's CPU bottleneck—only at resolutions under 720p does the Pi's CPU and the single PCIe lane not seem to get in the way <em>quite</em> as much.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-11-15T09:00:36-06:00" title="Friday, November 15, 2024 - 09:00" class="datetime">November 15, 2024</time>
+</span> 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2024/amd-radeon-pro-w7700-running-on-raspberry-pi>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-15, from: Dave Winer's Scripting News)
+
+I added a screen shot to the <a href="https://this.how/wordland/">WordLand placeholder page</a>. 
+
+<br> 
+
+<http://scripting.com/2024/11/15.html#a145211>
+
+---
+
+## Good Essay on the History of Bad Password Policies
+
+date: 2024-11-15, updated: 2024-11-14, from: Bruce Schneier blog
+
+<p>Stuart Schechter makes some <a href="https://stuartschechter.org/posts/password-history/">good points</a> on the history of bad password policies:</p>
+<blockquote><p>Morris and Thompson&#8217;s work brought much-needed data to highlight a problem that lots of people suspected was bad, but that had not been studied scientifically. Their work was a big step forward, if not for two mistakes that would impede future progress in improving passwords for decades.</p>
+<p>First, was Morris and Thompson&#8217;s confidence that their solution, a password policy, would fix the underlying problem of weak passwords. They incorrectly assumed that if they prevented the specific categories of weakness that they had noted, that the result would be something strong. After implementing a requirement that password have multiple characters sets or more total characters, they wrote:...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/11/good-essay-on-the-history-of-bad-password-policies.html>
+
+---
+
+## Total control
+
+date: 2024-11-15, from: Robert Reich's blog
+
+If Trump aims to turn America into a police state, these are the officials he will utilize. After only 10 days as president-elect, he appears to be on his way. 
+
+<br> 
+
+<https://robertreich.substack.com/p/total-control>
+
+---
+
+## Mike Tyson Slaps Jake Paul in Face During Weigh-In
+
+date: 2024-11-15, updated: 2024-11-15, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.espn.com/boxing/story/_/id/42397251/mike-tyson-slaps-jake-paul-face-final-staredown>
+
+---
+
+## November 14, 2024 
+
+date: 2024-11-15, from: Heather Cox Richardson blog
+
+Two snapshots today illustrate the difference between the economic&#8212;and therefore the societal&#8212;visions of the Biden-Harris administration and of the incoming Trump administration. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/november-14-2024>
+
+---
+
+## November 13, 2024
+
+date: 2024-11-15, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/151679360/564e3292d80bff2f348b4f6820176ef8.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/151679360/564e3292d80bff2f348b4f6820176ef8.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/november-13-2024-f53>
+
+---
+
+## Wait. Who? For What?
+
+date: 2024-11-15, from: Dan Rather's Steady
+
+Trump&#8217;s Cabinet nominees may be the most unqualified in history 
+
+<br> 
+
+<https://steady.substack.com/p/wait-who-for-what>
+
+---
+
+## Friday 15 November, 2024
+
+date: 2024-11-15, from: John Naughton's online diary
+
+Sunset in a wing mirror Seen while driving on a Summer evening in West Cork, many years ago. Quote of the Day I have a foreboding of an America in my children&#8217;s or grandchildren&#8217;s time – when the United States &#8230; <a href="https://memex.naughtons.org/friday-15-november-2024/40075/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-15-november-2024/40075/>
+
+---
+
+## Trump wants Robert F. Kennedy Jr. to be Health Secretary. OMG. Really? 
+
+date: 2024-11-14, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/trump-wants-robert-f-kennedy-jr-to>
 
 ---
 
@@ -164,7 +297,7 @@ BTW, start thinking of WordPress as a highly networked, deployed, debugged, wide
 
 **@Dave Winer's Scripting News** (date: 2024-11-14, from: Dave Winer's Scripting News)
 
-A few days ago I saw <a href="https://en.wikipedia.org/wiki/Donald_Fagen">Donald Fagen</a> at a local supermarket. I had heard he lives in the area. I didn't bother him, I imagine a star like that enjoys moments as an ordinary person, but he's anything but. I'm listening to <a href="https://www.youtube.com/watch?v=dKMCz1b2RxE">Haitian Divorce</a> this morning, grinning from ear to ear as I sing along. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2022/10/31/camel.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">A few days ago I saw <a href="https://en.wikipedia.org/wiki/Donald_Fagen">Donald Fagen</a> at a local supermarket. I had heard he lives in the area. I didn't bother him, I imagine a star like that enjoys moments as an ordinary person, but he's anything but. I'm listening to <a href="https://www.youtube.com/watch?v=dKMCz1b2RxE">Haitian Divorce</a> this morning, grinning from ear to ear as I sing along. 
 
 <br> 
 
@@ -245,7 +378,6 @@ date: 2024-11-14, updated: 2024-11-13, from: Bruce Schneier blog
 
 <p><a href="https://gizmodo.com/iphones-seized-by-cops-are-rebooting-and-no-ones-sure-why-2000522048">Everybody</a> <a href="https://www.theverge.com/2024/11/9/24292092/ios-18-security-inactivity-reboot-police-complain-unlocking-iphone-difficult">is</a> <a href="https://www.macrumors.com/2024/11/07/ios-18-forcing-reboots-law-enforcement/">reporting</a> <a href="https://gizmodo.com/cops-have-less-time-to-break-into-iphones-thanks-to-ios-18-1-security-measure-2000522523">about</a> <a href="https://www.404media.co/police-freak-out-at-iphones-mysteriously-rebooting-themselves-locking-cops-out/">a</a> new security iPhone security feature with iOS 18: if the phone hasn&#8217;t been used for a few days, it automatically goes into its &#8220;Before First Unlock&#8221; state and has to be rebooted.</p>
 <p>This is a really good security feature. But various police departments don&#8217;t like it, because it makes it harder for them to unlock suspects&#8217; phones.</p>
-<p>The post <a href="https://www.schneier.com/blog/archives/2024/11/new-ios-security-feature-makes-it-harder-for-police-to-unlock-seized-phones.html">New iOS Security Feature Makes It Harder for Police to Unlock Seized Phones</a> appeared first on <a href="https://www.schneier.com">Schneier on Security</a>.</p>
  
 
 <br> 
@@ -690,7 +822,6 @@ date: 2024-11-13, updated: 2024-11-12, from: Bruce Schneier blog
 
 <p><a href="https://deflock.me/">DeFlock</a> is a crowd-sourced project to <a href="https://www.404media.co/email/86114692-d4b0-4794-b1e8-ec0adedcfcfa/">map license plate scanners</a>.</p>
 <p>It only records the fixed scanners, of course. The mobile scanners on cars are not mapped.</p>
-<p>The post <a href="https://www.schneier.com/blog/archives/2024/11/mapping-license-plate-scanners-in-the-us.html">Mapping License Plate Scanners in the US</a> appeared first on <a href="https://www.schneier.com">Schneier on Security</a>.</p>
  
 
 <br> 
@@ -1057,11 +1188,7 @@ date: 2024-11-12, updated: 2024-11-12, from: Bruce Schneier blog
 
 <p>I&#8217;ve been writing about the problem with lawful-access backdoors in encryption for decades now: that as soon as you create a mechanism for law enforcement to bypass encryption, the bad guys will use it too.</p>
 <p>Turns out the same thing <a href="https://techcrunch.com/2024/11/08/fbi-says-hackers-are-sending-fraudulent-police-data-requests-to-tech-giants-to-steal-peoples-private-information/">is true</a> for non-technical backdoors:</p>
-<blockquote>
-<p>The advisory said that the cybercriminals were successful in masquerading as law enforcement by using compromised police accounts to send emails to companies requesting user data. In some cases, the requests cited false threats, like claims of human trafficking and, in one case, that an individual would &#8220;suffer greatly or die&#8221; unless the company in question returns the requested information...</p>
-</blockquote>
-<p>The post <a href="https://www.schneier.com/blog/archives/2024/11/criminals-exploiting-fbi-emergency-data-requests.html">Criminals Exploiting FBI Emergency Data Requests</a> appeared first on <a href="https://www.schneier.com">Schneier on Security</a>.</p>
- 
+<blockquote><p>The advisory said that the cybercriminals were successful in masquerading as law enforcement by using compromised police accounts to send emails to companies requesting user data. In some cases, the requests cited false threats, like claims of human trafficking and, in one case, that an individual would &#8220;suffer greatly or die&#8221; unless the company in question returns the requested information...</p></blockquote> 
 
 <br> 
 

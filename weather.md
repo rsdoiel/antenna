@@ -1,43 +1,19 @@
 ---
 title: weather
-updated: 2024-11-14 13:46:25
+updated: 2024-11-15 07:10:15
 ---
 
 # weather
 
-(date: 2024-11-14 13:46:25)
-
----
-
-## SPC - No watches are valid as of Thu Nov 14 21:33:01 UTC 2024
-
-date: 2024-11-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Thu Nov 14 21:33:01 UTC 2024. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Thu Nov 14 21:33:01 UTC 2024
-
-date: 2024-11-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Thu Nov 14 21:33:01 UTC 2024. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
+(date: 2024-11-15 07:10:15)
 
 ---
 
 ## There are no tropical cyclones at this time.
 
-date: 2024-11-14, from: Eastern Pacific Basin GIS Data
+date: 2024-11-15, from: Eastern Pacific Basin GIS Data
 
-No tropical cyclones as of Thu, 14 Nov 2024 21:23:15 GMT 
+No tropical cyclones as of Fri, 15 Nov 2024 14:53:50 GMT 
 
 <br> 
 
@@ -47,7 +23,7 @@ No tropical cyclones as of Thu, 14 Nov 2024 21:23:15 GMT
 
 ## NHC Atlantic Outlook
 
-date: 2024-11-14, from: Graphical Tropical Weather Outlooks
+date: 2024-11-15, from: Graphical Tropical Weather Outlooks
 
 
 <br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
@@ -56,12 +32,123 @@ date: 2024-11-14, from: Graphical Tropical Weather Outlooks
 <img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
 <br /><br />
 <div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>100 PM EST Thu Nov 14 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active systems:<br>The National Hurricane Center is issuing advisories on recently <br>upgraded Tropical Storm Sara, located near northeastern Honduras. <br><br>Tropical cyclone formation is not expected in the next 7 days.<br><br>&&<br>Public Advisories on Tropical Storm Sara are issued under WMO header <br>WTNT34 KNHC and under AWIPS header MIATCPAT4.<br>Forecast/Advisories on Tropical Storm Sara are issued under WMO <br>header WTNT24 KNHC and under AWIPS header MIATCMAT4.<br><br>$$<br>Forecaster Brown<br>NNNN<br><br></div></div><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>700 AM EST Fri Nov 15 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br><br>Active systems:<br>The National Hurricane Center is issuing advisories on Tropical <br>Storm Sara, located near the northern coast of Honduras. <br><br>Tropical cyclone formation is not expected during the next 7 days.<br><br>$$<br>Forecaster Kelly<br>NNNN<br><br></div></div><br />
  
 
 <br> 
 
 <https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## SPC - No watches are valid as of Fri Nov 15 14:42:01 UTC 2024
+
+date: 2024-11-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Fri Nov 15 14:42:01 UTC 2024. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Fri Nov 15 14:42:01 UTC 2024
+
+date: 2024-11-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Fri Nov 15 14:42:01 UTC 2024. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Nov 15, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-11-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0640 AM CST Fri Nov 15 2024
+
+Valid 151300Z - 161200Z
+
+...NO THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Thunderstorm potential should remain low today.
+
+...Synopsis and Discussion...
+Convection producing lightning is expected to remain offshore from
+the NC/SC Coast today, as an upper trough continues eastward over
+the western Atlantic. Across the western CONUS, an amplified upper
+trough/low is forecast to persist through the period while moving
+slowly eastward. While cold mid-level temperatures will accompany
+this feature and an occasional lightning flash may occur from parts
+of CA into the Great Basin, low-level moisture and instability
+should remain quite limited. Accordingly, overall thunderstorm
+potential appears less than 10 percent.
+
+..Gleason/Kerr.. 11/15/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## CPHC Central North Pacific Outlook
+
+date: 2024-11-15, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_2d0_resize.gif" alt="Central North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_7d0_resize.gif" alt="Central North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC HFOTWOCP ALL<br>TTAA00 PHFO DDHHMM<br><br>Tropical Weather Outlook<br>NWS Central Pacific Hurricane Center Honolulu HI<br>200 AM HST Fri Nov 15 2024<br><br>For the central North Pacific...between 140W and 180W:<br><br>No tropical cyclones are expected during the next 7 days.<br><br>$$<br>Forecaster Bohlin/Walsh<br>NNNN<br><br></div></div><br />
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## Eastern North Pacific Tropical Weather Outlook
+
+date: 2024-11-15, from: Eastern Pacific Basin Tropical Cyclones
+
+
+<br/>
+000<br/>
+ABPZ20 KNHC 151133<br/>
+TWOEP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+400 AM PST Fri Nov 15 2024<br/>
+<br/>
+For the eastern North Pacific...east of 140 degrees west longitude:<br/>
+<br/>
+Tropical cyclone formation is not expected during the next 7 days.<br/>
+<br/>
+$$<br/>
+Forecaster Kelly<br/>
+ 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
 
 ---
 
@@ -292,111 +379,6 @@ precluding any buoyancy.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
-
----
-
-## Central North Pacific Tropical Weather Outlook
-
-date: 2024-11-14, from: Central Pacific Basin Tropical Cyclones
-
-
-<br/>
-000<br/>
-ACPN50 PHFO 141706<br/>
-TWOCP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS Central Pacific Hurricane Center Honolulu HI<br/>
-800 AM HST Thu Nov 14 2024<br/>
-<br/>
-For the central North Pacific...between 140W and 180W:<br/>
-<br/>
-No tropical cyclones are expected during the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster Tsamous<br/>
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
-## Eastern North Pacific Tropical Weather Outlook
-
-date: 2024-11-14, from: Eastern Pacific Basin Tropical Cyclones
-
-
-<br/>
-000<br/>
-ABPZ20 KNHC 141705<br/>
-TWOEP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS National Hurricane Center Miami FL<br/>
-1000 AM PST Thu Nov 14 2024<br/>
-<br/>
-For the eastern North Pacific...east of 140 degrees west longitude:<br/>
-<br/>
-Tropical cyclone formation is not expected during the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster Brown<br/>
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
-## SPC Nov 14, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-11-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0650 AM CST Thu Nov 14 2024
-
-Valid 141300Z - 151200Z
-
-...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
-COASTAL NORTH CAROLINA...
-
-...SUMMARY...
-Isolated strong to severe thunderstorms posing a risk for gusty
-winds and perhaps a tornado may occur across parts of coastal North
-Carolina this evening/tonight.
-
-...Coastal Carolinas...
-A pronounced upper trough will continue eastward today from the
-OH/TN Valleys and Midwest towards the southern Mid-Atlantic. As this
-occurs, a weak surface/coastal low will develop in response across
-the eastern Carolinas this afternoon/evening and adjacent coastal
-waters tonight. Most guidance suggests this surface low will remain
-very near/along the immediate coast, or just offshore. Recent RAP
-runs are a notable exception, showing a slightly more inland track.
-Regardless, sufficient low-level moisture and related weak
-boundary-layer instability should be present by this evening across
-parts of coastal NC and the Outer Banks. Any surface-based
-convection that can be sustained tonight in the favorably sheared
-environment may pose an isolated threat for strong to severe wind
-gusts, and perhaps a tornado. Greater severe potential remains
-evident just offshore and over the Gulf Stream, but there still
-appears to be enough severe potential over land to maintain the
-Marginal Risk with this update.
-
-..Gleason/Bentley.. 11/14/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 
 ---
 

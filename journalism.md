@@ -1,11 +1,226 @@
 ---
 title: journalism
-updated: 2024-11-14 13:46:25
+updated: 2024-11-15 07:10:16
 ---
 
 # journalism
 
-(date: 2024-11-14 13:46:25)
+(date: 2024-11-15 07:10:16)
+
+---
+
+## Classifieds – November 15, 2024
+
+date: 2024-11-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/15/classifieds-november-15-2024/">Classifieds &#8211; November 15, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/15/classifieds-november-15-2024/>
+
+---
+
+## I’m the Anton Ego of music
+
+date: 2024-11-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Songs take me to places beyond reality.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/15/im-the-anton-ego-of-music/">I’m the Anton Ego of music</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/15/im-the-anton-ego-of-music/>
+
+---
+
+## USC ‘Yellow Jackets’ are seen handing out coupons to students
+
+date: 2024-11-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Students and other security ambassadors were surprised about coupon distribution. </p>
+<p>The post <a href="https://dailytrojan.com/2024/11/15/usc-yellow-jackets-are-seen-handing-out-coupons-to-students/">USC ‘Yellow Jackets’ are seen handing out coupons to students</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/15/usc-yellow-jackets-are-seen-handing-out-coupons-to-students/>
+
+---
+
+## The Weekly Frame II: Filmed on Campus
+
+date: 2024-11-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>It is not uncommon for a student to pass by an HBO set on the way to class or stumble into the same spot where BoJack Horseman and Vance Waggoner found themselves while students rushed to get Dole Whip at Parkside Restaurant. </p>
+<p>The post <a href="https://dailytrojan.com/2024/11/15/the-weekly-frame-ii-filmed-on-campus/">The Weekly Frame II: Filmed on Campus</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/15/the-weekly-frame-ii-filmed-on-campus/>
+
+---
+
+## USC faces $114,000 federal complaint for animal experimentation
+
+date: 2024-11-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Researchers’ neglect led to the euthanization of three rabbits after eye surgery.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/15/usc-faces-114000-federal-complaint-for-animal-experimentation/">USC faces $114,000 federal complaint for animal experimentation</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/15/usc-faces-114000-federal-complaint-for-animal-experimentation/>
+
+---
+
+## Bruxie brings the crunch to lunch at USC
+
+date: 2024-11-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The chain opened a new location at USC Village on Wednesday.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/15/bruxie-brings-the-crunch-to-lunch-at-usc/">Bruxie brings the crunch to lunch at USC</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/15/bruxie-brings-the-crunch-to-lunch-at-usc/>
+
+---
+
+## UC Regents approve new spending plans, review financial performance
+
+date: 2024-11-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+SAN FRANCISCO &#8211; The UC Board of Regents approved an over $20 million budget increase for a UCLA electricity project Wednesday.
+The increase was approved at the UC Board of Regents&#8217; bimonthly meeting, held Tuesday to Thursday at UC San Francisco. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/14/uc-regents-approve-new-spending-plans-review-financial-performance/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-15, from: The Daily Bruin (UCLA Student Newspaper))
+
+The teacher spoke about a Dec. 15 incident where she saw Rodriguez with his upper body on Child A&#8217;s chest during nap time. She said when she saw it happening she &#8220;had to figure out if I was going to pull him off of her.&#8221; The teacher added that Rodriguez was agitated and red-faced afterward, throwing the metal cots in the room as he put them away, and he said to Child A, &#8220;I&#8217;m sorry &#8230; It won&#8217;t happen again.&#8221; The teacher said it scared her. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/14/473945/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-15, from: The Daily Bruin (UCLA Student Newspaper))
+
+Another teacher at the Krieger Center who worked in the same room as Rodriguez beginning Nov. 17 2023 testified about the logistics at the center, including the requirements to work there, what a typical day looks like, how many teachers were in each room and what the classroom looked like. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/14/473942/>
+
+---
+
+## UC Regents discuss new student opportunities, policies to promote inclusion
+
+date: 2024-11-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+SAN FRANCISCO &#8211; The UC Board of Regents introduced new academic opportunities and discussed diversity across the University at its Wednesday meeting. 
+The board held its bimonthly meeting Tuesday to Thursday at UC San Francisco. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/14/uc-regents-discuss-new-student-opportunities-policies-to-promote-inclusion/>
+
+---
+
+## Full Wireless Service outage at UPC, remote offices planned for Thursday
+
+date: 2024-11-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The outage will begin at 10 p.m. and last approximately four hours as Information Technology Services conducts network maintenance.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/14/full-wireless-service-outage-at-upc-remote-offices-planned-for-thursday/">Full Wireless Service outage at UPC, remote offices planned for Thursday</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/14/full-wireless-service-outage-at-upc-remote-offices-planned-for-thursday/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-15, from: The Daily Bruin (UCLA Student Newspaper))
+
+Child B&#8217;s mother testified, expanding on the father&#8217;s testimony on the emotional and behavioral changes in their child. The mother added that her child developed mouth sores that the mother believes were stress ulcers. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/14/473907/>
+
+---
+
+## Pride Center’s Days After: A Community Dialogue and Election Debrief
+
+date: 2024-11-14, from: The Sundail (CSUN Student Newspaper)
+
+After the 2024 election, the CSUN Pride Center, alongside the Student Union DREAM Center and Veterans Resource Center, hosted Days After: A Community Dialogue. The departments collaborated to support students... 
+
+<br> 
+
+<https://sundial.csun.edu/187658/news/pride-centers-days-after-a-community-dialogue-and-election-debrief/>
+
+---
+
+## Saxophonists play through contemporary scales, interactive modes at fall recital
+
+date: 2024-11-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+This fall, UCLA musicians will perform saxophone pieces ranging from classical to contemporary.
+Taking place Sunday, the UCLA Herb Alpert School of Music&#8217;s Fall Saxophone Studio Recital promises an unconventional blend of 20th- and 21st-century compositions. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/14/saxophonists-play-through-contemporary-scales-interactive-modes-at-fall-recital/>
+
+---
+
+## Be kind to your mind by using CSUN’s wellness services
+
+date: 2024-11-14, from: The Sundail (CSUN Student Newspaper)
+
+With finals approaching, students may struggle with mounting stress and the risk of falling behind, as the pressure begins to impact their daily routines. CSUN offers free mental health and... 
+
+<br> 
+
+<https://sundial.csun.edu/187651/news/be-kind-to-your-mind-by-using-csuns-wellness-services/>
+
+---
+
+## The Surge in Indices Trading: Why More Investors are Turning to Global Markets
+
+date: 2024-11-14, from: The Sundail (CSUN Student Newspaper)
+
+As global markets continue to evolve, indices trading has emerged as one of the most popular avenues for traders seeking diversified and strategic exposure. Trading indices allows investors to gain... 
+
+<br> 
+
+<https://sundial.csun.edu/187620/sundialbrandstudio/sundial-marketplace/the-surge-in-indices-trading-why-more-investors-are-turning-to-global-markets/>
+
+---
+
+## The Third Annual Bike Fest: A Day of Fun and Community
+
+date: 2024-11-14, from: The Sundail (CSUN Student Newspaper)
+
+The third annual Bike Fest was a success, drawing participants of all ages to a day filled with excitement and community spirit. Families and friends gathered to join in the... 
+
+<br> 
+
+<https://sundial.csun.edu/187614/uncategorized/the-third-annual-bike-fest-a-day-of-fun-and-community/>
 
 ---
 
@@ -266,7 +481,7 @@ The Getty Center&#8217;s look at an iconic mountain range presents a clever hist
 
 date: 2024-11-14, from: The Sundail (CSUN Student Newspaper)
 
-Amazon Prime Video’s Like A Dragon: Yakuza may share a title with the popular video game series, but the adaption feels unfamiliar to fans. Through the six episodes that this... 
+Amazon Prime Video’s Like A Dragon: Yakuza may share a title with the popular video game series, but the adaption feels unfamiliar to its namesake. Through the six episodes that... 
 
 <br> 
 

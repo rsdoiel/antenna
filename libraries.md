@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2024-11-14 13:46:25
+updated: 2024-11-15 07:10:16
 ---
 
 # libraries
 
-(date: 2024-11-14 13:46:25)
+(date: 2024-11-15 07:10:16)
+
+---
+
+## The Difficulties of Reproducing a Scientific Experiment
+
+date: 2024-11-15, from: Scholarly Kitchen
+
+<p>Reproducing an experiment is harder than you might think.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/11/15/the-difficulties-of-reproducing-a-scientific-experiment/">The Difficulties of Reproducing a Scientific Experiment</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2024/11/15/the-difficulties-of-reproducing-a-scientific-experiment/>
 
 ---
 

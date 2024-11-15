@@ -1,11 +1,95 @@
 ---
 title: writing
-updated: 2024-11-14 13:46:25
+updated: 2024-11-15 07:10:16
 ---
 
 # writing
 
-(date: 2024-11-14 13:46:25)
+(date: 2024-11-15 07:10:16)
+
+---
+
+## Time Magazine’s Must-Read Books of 2024
+
+date: 2024-11-15, from: Locus Magazine
+
+<p>Time magazine has released a list of 100 Must-Read Books of 2024. Works of genre interest include:</p>
+<div class="mynomorebulletlist">
+<div>
+<ul>
+<li class="line-clamp-4 leading-7 text-time-black font-zilla-slab text-[1.3125rem] font-medium tracking-wide"><strong>Ghostroots</strong>, ’Pemi Aguda (Norton)</li>
+<li class="line-clamp-4 leading-7 text-time-black font-zilla-slab text-[1.3125rem] font-medium tracking-wide"><strong>The Book Censor&#8217;s Library</strong>, Bothayna Al-Essa (Restless)</li>
+<li class="line-clamp-4 leading-7 text-time-black font-zilla-slab text-[1.3125rem] font-medium tracking-wide"><strong>Beautyland</strong>, Marie-Helene Bertino (Farrar, Straus, Giroux)</li>
+<li class="line-clamp-4 leading-7 text-time-black font-zilla-slab text-[1.3125rem] font-medium tracking-wide"><strong>Your Utopia</strong>, Bora Chung (Algonquin)</li>
+<li class="line-clamp-4 leading-7 text-time-black font-zilla-slab text-[1.3125rem] font-medium tracking-wide"><strong>You Glow in the Dark</strong>, Liliana Colanzi (New Directions)</li>
+<li class="line-clamp-4 leading-7 text-time-black font-zilla-slab text-[1.3125rem] font-medium tracking-wide"><strong>A Sunny Place for Shady People</strong>, Mariana Enríquez (Hogarth)</li>
+<li class="line-clamp-4 leading-7 text-time-black font-zilla-slab text-[1.3125rem] font-medium tracking-wide"><strong>James</strong>, Percival Everett (Doubleday)</li>
+<li class="line-clamp-4 leading-7 text-time-black font-zilla-slab text-[1.3125rem] font-medium tracking-wide"><strong>The Bright </strong></li></ul></div></div> <a href="https://locusmag.com/2024/11/time-magazines-must-read-books-of-2024/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2024/11/time-magazines-must-read-books-of-2024/>
+
+---
+
+## 2024 Fishing Fortress Awards Winners
+
+date: 2024-11-15, from: Locus Magazine
+
+<p>The winners of the second Fishing Fortress Science Fiction Awards, honoring the best in Chinese SF writing, were announced on November 9, 2024.</p>
+<p><strong>Sci-Fi Master Achievement</strong></p>
+<div class="nobullets">
+<ul>
+<li>Han Song</li>
+</ul>
+<p><strong>Sci-Fi Promoter Achievement</strong></p>
+<ul>
+<li>San Feng</li>
+</ul>
+<p><strong>Sci-Fi Educator Achievement</strong></p>
+<ul>
+<li>Li Guangyi</li>
+</ul>
+<p><strong>Sci-Fi Publisher Achievement</strong></p>
+<ul>
+<li>Yang Feng</li>
+</ul>
+<p><strong>Sci-Fi Translator Achievement</strong></p>
+<ul>
+<li>Li Keqin</li>
+</ul>
+<p><strong>Sci-Fi Academy Award</strong></p>
+<ul>
+<li>Yan Feng</li>
+</ul>
+</div>
+<div class="nobullets">
+<p><strong>Marco Polo Award</strong></p>
+<ul>
+<li>Francesco Verso</li>
+</ul>
+<p><strong>Best Novel</strong></p>
+<ul>
+<li><strong>Once Upon a Time in Nanjing</strong>, Tianrui Shuofu</li>
+</ul>
+<p><strong>Best </strong></p></div> <a href="https://locusmag.com/2024/11/2024-fishing-fortress-awards-winners/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2024/11/2024-fishing-fortress-awards-winners/>
+
+---
+
+## Scriptnotes, Episode 657: Deadpool with Ryan Reynolds, Transcript
+
+date: 2024-11-14, from: John August blog
+
+The original post for this episode can be found here. John August: Hey, this is John. Today’s episode has even more swearing than usual, so if you’re in a car with your kids, this is a standard warning about that. Hello and welcome. My name is John August. Craig Mazin: My name is Craig Mazin. [&#8230;]
+The post <a href="https://johnaugust.com/2024/scriptnotes-episode-657-deadpool-with-ryan-reynolds-transcript">Scriptnotes, Episode 657: Deadpool with Ryan Reynolds, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2024/scriptnotes-episode-657-deadpool-with-ryan-reynolds-transcript>
 
 ---
 

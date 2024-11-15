@@ -1,11 +1,469 @@
 ---
 title: pacific
-updated: 2024-11-14 13:46:24
+updated: 2024-11-15 07:10:14
 ---
 
 # pacific
 
-(date: 2024-11-14 13:46:24)
+(date: 2024-11-15 07:10:14)
+
+---
+
+## Underground fuel tanks at Halepohaku need to be replaced
+
+date: 2024-11-15, from: Hawaii Tribune Harold
+
+
+				<p>Construction could begin at Halepohaku in January as part of a year-long project to remove a potentially leaky fuel system.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/15/hawaii-news/underground-fuel-tanks-at-halepohaku-need-to-be-replaced/>
+
+---
+
+## Trump picks RFK Jr. to be head of Health and Human Services Dept.
+
+date: 2024-11-15, from: Hawaii Tribune Harold
+
+
+				<p>President-elect Donald Trump said Thursday that he would nominate Robert F. Kennedy Jr. to lead the Department of Health and Human Services &#8212; setting up a debate over whether Kennedy, whose vaccine skepticism and unorthodox views about medicine make public health officials deeply uneasy, can be confirmed.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/15/nation-world-news/trump-picks-rfk-jr-to-be-head-of-health-and-human-services-dept/>
+
+---
+
+## The investigations into Matt Gaetz: What to know
+
+date: 2024-11-15, from: Hawaii Tribune Harold
+
+
+				<p>President-elect Donald Trump&#8217;s announcement that he will nominate Matt Gaetz to be attorney general has resurrected questions about Justice Department and House ethics investigations into Gaetz&#8217;s conduct and whether he had sex with a 17-year-old girl who was being paid for her services. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/15/nation-world-news/the-investigations-into-matt-gaetz-what-to-know/>
+
+---
+
+## Norway apologizes for forced assimilation of Sami and other minorities
+
+date: 2024-11-15, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; For more than a century, Norway forcibly suppressed the language and culture of Indigenous people and other minority groups, including removing children from their parents, in a system of &#8220;Norwegianization&#8221; whose devastation continues to be felt. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/15/nation-world-news/norway-apologizes-for-forced-assimilation-of-sami-and-other-minorities/>
+
+---
+
+## Kawamoto pool closure drags on
+
+date: 2024-11-15, from: Hawaii Tribune Harold
+
+
+				<p>A Hilo pool closed in October will remain so indefinitely as Hawaii County repairs faulty equipment.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/15/hawaii-news/kawamoto-pool-closure-drags-on/>
+
+---
+
+## Spy world vexed by Trump choice of Gabbard as US intelligence chief
+
+date: 2024-11-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President-elect Donald Trump&#8217;s choice of Tulsi Gabbard as U.S. intelligence chief has sent shockwaves through the national security establishment, adding to concerns that the sprawling intelligence community will become increasingly politicized. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/15/nation-world-news/spy-world-vexed-by-trump-choice-of-gabbard-as-us-intelligence-chief/>
+
+---
+
+## Red Flag Warning in effect today for parts of the island
+
+date: 2024-11-15, from: Hawaii Tribune Harold
+
+
+				<p>The National Weather Service has issued a Red Flag Warning which is in effect today from 10 a.m. to 6 p.m. in for the following districts: North Kohala, South Kohala, North Kona, Hawaii Island Interior, Ka&#8216;u.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/15/hawaii-news/red-flag-warning-in-effect-today-for-parts-of-the-island/>
+
+---
+
+## Kona Coffee Cupping champions crowned
+
+date: 2024-11-15, from: Hawaii Tribune Harold
+
+
+				<p>The 2024 Kona Coffee Cultural Festival celebrated the best of Kona&#8217;s world-renowned coffee this past week, culminating in the highly anticipated Kona Coffee Cupping Competition.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/15/community/kona-coffee-cupping-champions-crowned/>
+
+---
+
+## DOE: Benioffs have given $2.5M to projects by Hawaii teachers
+
+date: 2024-11-15, from: Hawaii Tribune Harold
+
+
+				<p>HONOLULU &#8211; The state Department of Education announced Wednesday that, with the support of philanthropists and longtime Big Island residents Lynne and Marc Benioff, chair and CEO of Salesforce, it has distributed $2.5 million to qualifying DonorsChoose projects by Hawaii&#8217;s public school teachers.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/15/community/doe-benioffs-have-given-2-5m-to-projects-by-hawaii-teachers/>
+
+---
+
+## Public invited to meetings about county’s Hazard Mitigation Plan
+
+date: 2024-11-15, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County is inviting residents to participate in two upcoming public meetings to review the initial findings of the Hazard Mitigation Plan Update.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/15/community/public-invited-to-meetings-about-countys-hazard-mitigation-plan/>
+
+---
+
+## Nation and world news in brief for November 15
+
+date: 2024-11-15, from: Hawaii Tribune Harold
+
+
+				<p>US Postal Service warns it must &#0010;continue cost cuts or risk bailout</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/15/nation-world-news/nation-and-world-news-in-brief-for-november-15/>
+
+---
+
+## No joke: the Onion parody website buys Alex Jones’ Infowars out of bankruptcy
+
+date: 2024-11-15, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Like a headline lifted from the Onion, the parody news website is buying conspiracy theorist Alex Jones&#8217; Infowars in a bankruptcy auction.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/15/nation-world-news/no-joke-the-onion-parody-website-buys-alex-jones-infowars-out-of-bankruptcy/>
+
+---
+
+## Americans have regained modest trust in scientists, survey finds
+
+date: 2024-11-15, from: Hawaii Tribune Harold
+
+
+				<p>For the first time since the start of the coronavirus pandemic, the public&#8217;s trust in scientists has improved, according to a survey published Thursday by the Pew Research Center. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/15/nation-world-news/americans-have-regained-modest-trust-in-scientists-survey-finds/>
+
+---
+
+## HICHC hosts Health Care Career Expo
+
+date: 2024-11-15, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Island&#8217;s health care sector is facing a critical staffing shortage, and local job-seekers are being presented with an exciting opportunity to address this challenge head-on.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/15/community/hichc-hosts-health-care-career-expo/>
+
+---
+
+## Whipps to retain current cabinet, names Oilouch as Justice Minister
+
+date: 2024-11-15, from: Island Times
+
+<figure><img width="400" height="576" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/whipps.jpg?fit=400%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/whipps.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/whipps.jpg?resize=208%2C300&amp;ssl=1 208w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/whipps.jpg?fit=400%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73855" data-permalink="https://islandtimes.org/whipps-to-retain-current-cabinet-names-oilouch-as-justice-minister/whipps-7/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/whipps.jpg?fit=400%2C576&amp;ssl=1" data-orig-size="400,576" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1715164497&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.12&quot;,&quot;iso&quot;:&quot;320&quot;,&quot;shutter_speed&quot;:&quot;0.0166&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="whipps" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/whipps.jpg?fit=208%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/whipps.jpg?fit=400%2C576&amp;ssl=1" /></figure>
+<p>President Surangel Whipps Jr. announced plans to retain his current cabinet ministers in his upcoming administration, with Vice President-elect Raynold &#8220;Arnold&#8221; Oilouch slated to lead the Ministry of Justice. The announcement was made at a recent press conference, confirming continuity in key government positions. Whipps affirmed that Oilouch, as Vice President-elect, will also serve as [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/whipps-to-retain-current-cabinet-names-oilouch-as-justice-minister/">Whipps to retain current cabinet, names Oilouch as Justice Minister</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/whipps-to-retain-current-cabinet-names-oilouch-as-justice-minister/>
+
+---
+
+## Whipps anticipates minimal impact on Palau under Trump administration
+
+date: 2024-11-15, from: Island Times
+
+<figure><img width="780" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?fit=780%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?w=1951&amp;ssl=1 1951w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?resize=229%2C300&amp;ssl=1 229w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?resize=780%2C1024&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?resize=768%2C1008&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?resize=1171%2C1536&amp;ssl=1 1171w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?resize=1561%2C2048&amp;ssl=1 1561w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?resize=1200%2C1575&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?resize=1568%2C2058&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?resize=2000%2C2624&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?resize=400%2C525&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?resize=706%2C926&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?fit=780%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73772" data-permalink="https://islandtimes.org/president-whipps-calls-for-unity-after-projected-election-win/20241028_093629/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?fit=1951%2C2560&amp;ssl=1" data-orig-size="1951,2560" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;3.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1730108189&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;18.6&quot;,&quot;iso&quot;:&quot;1000&quot;,&quot;shutter_speed&quot;:&quot;0.0153&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20241028_093629" data-image-description="" data-image-caption="&lt;p&gt;Pres. Surangel S. Whipps Jr.&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?fit=229%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?fit=780%2C1024&amp;ssl=1" /></figure>
+<p>President Surangel Whipps Jr. does not expect substantial changes to Palau’s relationship with the United States under the administration of President Donald Trump. While acknowledging the potential for shifts in U.S. policy, Whipps suggests Palau&#8217;s existing ties and aid arrangements with the U.S. will likely remain stable under the Compact of Free Association (COFA). “Federal [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/whipps-anticipates-minimal-impact-on-palau-under-trump-administration/">Whipps anticipates minimal impact on Palau under Trump administration</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/whipps-anticipates-minimal-impact-on-palau-under-trump-administration/>
+
+---
+
+## New Government Service Center Nears Completion in Koror
+
+date: 2024-11-15, from: Island Times
+
+<figure><img width="600" height="404" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/new-capitol.jpg?fit=600%2C404&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/new-capitol.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/new-capitol.jpg?resize=300%2C202&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/new-capitol.jpg?resize=400%2C269&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/new-capitol.jpg?fit=600%2C404&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73851" data-permalink="https://islandtimes.org/73850-2/new-capitol/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/new-capitol.jpg?fit=600%2C404&amp;ssl=1" data-orig-size="600,404" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.7&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1730211616&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.3&quot;,&quot;iso&quot;:&quot;12&quot;,&quot;shutter_speed&quot;:&quot;0.0016&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="new capitol" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/new-capitol.jpg?fit=300%2C202&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/new-capitol.jpg?fit=600%2C404&amp;ssl=1" /></figure>
+<p>After nearly three years of construction, a new government building in Koror designed to streamline public services is set to open soon. “All we are waiting for to complete the project is the furniture to furnish the building,” said Minister of Public Infrastructure Charles Obichang, updating on the facility&#8217;s readiness. The purpose of the new [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/73850-2/">New Government Service Center Nears Completion in Koror</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/73850-2/>
+
+---
+
+## Palau joins International Law Enforcement dialogue at INTERPOL’s 92nd Assembly in Glasgow
+
+date: 2024-11-15, from: Island Times
+
+<figure><img width="1024" height="696" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/AG-Rengiil-Minister-Aitaro-and-NSC-Anson-at-92nd-Interpol-Assembly.jpeg?fit=1024%2C696&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/AG-Rengiil-Minister-Aitaro-and-NSC-Anson-at-92nd-Interpol-Assembly.jpeg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/AG-Rengiil-Minister-Aitaro-and-NSC-Anson-at-92nd-Interpol-Assembly.jpeg?resize=300%2C204&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/AG-Rengiil-Minister-Aitaro-and-NSC-Anson-at-92nd-Interpol-Assembly.jpeg?resize=1024%2C696&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/AG-Rengiil-Minister-Aitaro-and-NSC-Anson-at-92nd-Interpol-Assembly.jpeg?resize=768%2C522&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/AG-Rengiil-Minister-Aitaro-and-NSC-Anson-at-92nd-Interpol-Assembly.jpeg?resize=1200%2C816&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/AG-Rengiil-Minister-Aitaro-and-NSC-Anson-at-92nd-Interpol-Assembly.jpeg?resize=400%2C272&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/AG-Rengiil-Minister-Aitaro-and-NSC-Anson-at-92nd-Interpol-Assembly.jpeg?resize=706%2C480&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/AG-Rengiil-Minister-Aitaro-and-NSC-Anson-at-92nd-Interpol-Assembly.jpeg?fit=1024%2C696&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73834" data-permalink="https://islandtimes.org/palau-joins-international-law-enforcement-dialogue-at-interpols-92nd-assembly-in-glasgow/ag-rengiil-minister-aitaro-and-nsc-anson-at-92nd-interpol-assembly/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/AG-Rengiil-Minister-Aitaro-and-NSC-Anson-at-92nd-Interpol-Assembly.jpeg?fit=1249%2C849&amp;ssl=1" data-orig-size="1249,849" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="AG Rengiil, Minister Aitaro and NSC Anson at 92nd Interpol Assembly" data-image-description="" data-image-caption="&lt;p&gt;AG Rengiil, Minister Aitaro and  NSC Anson at 92nd Interpol Assembly &lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/AG-Rengiil-Minister-Aitaro-and-NSC-Anson-at-92nd-Interpol-Assembly.jpeg?fit=300%2C204&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/AG-Rengiil-Minister-Aitaro-and-NSC-Anson-at-92nd-Interpol-Assembly.jpeg?fit=780%2C530&amp;ssl=1" /></figure>
+<p>Palau attended the 92nd session of the INTERPOL General Assembly for the first time from November 4 to 7, 2024, in Glasgow, United Kingdom. Palau was represented at the General Assembly by State Minister Gustav Aitaro, Attorney General Ernestine Rengill, and National Security Coordinator Jennifer Anson. &#160;Anson noted that this was the first time Palau [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-joins-international-law-enforcement-dialogue-at-interpols-92nd-assembly-in-glasgow/">Palau joins International Law Enforcement dialogue at INTERPOL’s 92nd Assembly in Glasgow</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-joins-international-law-enforcement-dialogue-at-interpols-92nd-assembly-in-glasgow/>
+
+---
+
+## Portia Franz Kesolei wins Ngaremlengui seat on fifth attempt
+
+date: 2024-11-15, from: Island Times
+
+<figure><img width="600" height="755" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/PORTIA.jpg?fit=600%2C755&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/PORTIA.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/PORTIA.jpg?resize=238%2C300&amp;ssl=1 238w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/PORTIA.jpg?resize=400%2C503&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/PORTIA.jpg?fit=600%2C755&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73827" data-permalink="https://islandtimes.org/portia-franz-kesolei-wins-ngaremlengui-seat-on-fifth-attempt/portia/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/PORTIA.jpg?fit=600%2C755&amp;ssl=1" data-orig-size="600,755" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PORTIA" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/PORTIA.jpg?fit=238%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/PORTIA.jpg?fit=600%2C755&amp;ssl=1" /></figure>
+<p>By Summer Kennard In a heartfelt reflection of her political journey, a long-time candidate for Ngaremlengui State, Portia Franz Kesolei, expressed her deep commitment to public service and the lessons learned along the way. &#8220;My dedication to serve Ngaremlengui has never wavered,&#8221; she shared. &#8220;When I set my mind to something, I want to see [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/portia-franz-kesolei-wins-ngaremlengui-seat-on-fifth-attempt/">Portia Franz Kesolei wins Ngaremlengui seat on fifth attempt</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/portia-franz-kesolei-wins-ngaremlengui-seat-on-fifth-attempt/>
+
+---
+
+## Brisbane hosts Disinfo Pacific Regional conference on information integrity
+
+date: 2024-11-15, from: Island Times
+
+<figure><img width="1024" height="748" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/Brisbane-Hosts-Disinfo-.jpg?fit=1024%2C748&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/Brisbane-Hosts-Disinfo-.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/Brisbane-Hosts-Disinfo-.jpg?resize=300%2C219&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/Brisbane-Hosts-Disinfo-.jpg?resize=1024%2C748&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/Brisbane-Hosts-Disinfo-.jpg?resize=768%2C561&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/Brisbane-Hosts-Disinfo-.jpg?resize=1200%2C876&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/Brisbane-Hosts-Disinfo-.jpg?resize=400%2C292&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/Brisbane-Hosts-Disinfo-.jpg?resize=706%2C516&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/Brisbane-Hosts-Disinfo-.jpg?fit=1024%2C748&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73841" data-permalink="https://islandtimes.org/brisbane-hosts-disinfo-pacific-regional-conference-on-information-integrity/brisbane-hosts-disinfo/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/Brisbane-Hosts-Disinfo-.jpg?fit=1249%2C912&amp;ssl=1" data-orig-size="1249,912" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Brisbane Hosts Disinfo" data-image-description="" data-image-caption="&lt;p&gt;Participants of the Disinfo Pacific conference gathered in Brisbane to address the critical challenges of misinformation and promote information integrity across the Pacific region.&lt;br /&gt;
+(PC:Griffith University)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/Brisbane-Hosts-Disinfo-.jpg?fit=300%2C219&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/Brisbane-Hosts-Disinfo-.jpg?fit=780%2C570&amp;ssl=1" /></figure>
+<p>Brisbane, Australia &#8211; The Disinfo Pacific conference, held on November 11 and 12 at Griffith University’s SouthBank campus, brought together delegates from Australia, New Zealand, and the Pacific region to discuss the importance of information integrity. The event focused on three critical areas: democracy and elections, climate crisis, and public health. The conference commenced with [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/brisbane-hosts-disinfo-pacific-regional-conference-on-information-integrity/">Brisbane hosts Disinfo Pacific Regional conference on information integrity</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/brisbane-hosts-disinfo-pacific-regional-conference-on-information-integrity/>
+
+---
+
+## Peleliu State’s upcoming election to include Major Constitutional changes
+
+date: 2024-11-15, from: Island Times
+
+<figure><img width="600" height="395" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/04/peliliu.jpg?fit=600%2C395&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/04/peliliu.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/04/peliliu.jpg?resize=300%2C198&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/04/peliliu.jpg?resize=400%2C263&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/04/peliliu.jpg?fit=600%2C395&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="63374" data-permalink="https://islandtimes.org/peleliu-state-seeks-budget-assistance-from-the-national-government/peliliu-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/04/peliliu.jpg?fit=600%2C395&amp;ssl=1" data-orig-size="600,395" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="peliliu" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/04/peliliu.jpg?fit=300%2C198&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/04/peliliu.jpg?fit=600%2C395&amp;ssl=1" /></figure>
+<p>Peleliu State voters will have the opportunity to amend their constitution alongside electing a governor and legislators in the 15th General Election, scheduled for December 3, 2024. Among the proposed amendments are changes to the size and composition of the legislature, the role of the state’s traditional chiefs, and regulations regarding military facilities on the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/peleliu-states-upcoming-election-to-include-major-constitutional-changes/">Peleliu State’s upcoming election to include Major Constitutional changes</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/peleliu-states-upcoming-election-to-include-major-constitutional-changes/>
+
+---
+
+## Koror animal shelter struggles to offer veterinary care without licensed vet
+
+date: 2024-11-15, from: Island Times
+
+<p>KOROR, Palau — The Koror Animal Shelter in Ngemelachl is grappling with a severe shortage in veterinary services due to a lack of a licensed veterinarian. Despite registering approximately 374 dogs last year, the shelter has been unable to provide essential medical care for over a year, impacting its ability to serve both animals and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/koror-animal-shelter-struggles-to-offer-veterinary-care-without-licensed-vet/">Koror animal shelter struggles to offer veterinary care without licensed vet</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/koror-animal-shelter-struggles-to-offer-veterinary-care-without-licensed-vet/>
+
+---
+
+## Ucheldikes Natus Misech wins Angaur governorship, plans constitutional reforms
+
+date: 2024-11-15, from: Island Times
+
+<p>By: Eustoria Marie Borja ANGUAR — Ucheldikes Natus Misech secured victory in the Anguar gubernatorial election, leading with 108 votes. Incumbent Steven R. Salii received 83 votes, while challenger Warren Fukuichi garnered 56 votes. According to the Palau Election Commission&#8217;s unofficial results for the Anguar State 22nd General Election on Nov. 5, 2024, there were [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ucheldikes-natus-misech-wins-angaur-governorship-plans-constitutional-reforms/">Ucheldikes Natus Misech wins Angaur governorship, plans constitutional reforms</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/ucheldikes-natus-misech-wins-angaur-governorship-plans-constitutional-reforms/>
+
+---
+
+## High school students Summit 2024 in  Japan, successfully concluded
+
+date: 2024-11-15, from: Island Times
+
+<figure><img width="1024" height="901" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/EBHS-PR-GRP-1.jpg?fit=1024%2C901&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/EBHS-PR-GRP-1.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/EBHS-PR-GRP-1.jpg?resize=300%2C264&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/EBHS-PR-GRP-1.jpg?resize=1024%2C901&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/EBHS-PR-GRP-1.jpg?resize=768%2C676&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/EBHS-PR-GRP-1.jpg?resize=1200%2C1056&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/EBHS-PR-GRP-1.jpg?resize=400%2C352&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/EBHS-PR-GRP-1.jpg?resize=706%2C621&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/EBHS-PR-GRP-1.jpg?fit=1024%2C901&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73823" data-permalink="https://islandtimes.org/high-school-students-summit-2024-in-japan-successfully-concluded/ebhs-pr-grp-1/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/EBHS-PR-GRP-1.jpg?fit=1249%2C1099&amp;ssl=1" data-orig-size="1249,1099" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1731508031&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="EBHS PR GRP 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/EBHS-PR-GRP-1.jpg?fit=300%2C264&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/EBHS-PR-GRP-1.jpg?fit=780%2C686&amp;ssl=1" /></figure>
+<p>Emmaus Bethania High School (EBHS) students, who were selected as the Youth Ambassadors from Palau to participate in the High School Students Summit on “World Tsunami Awareness Day” in Kumamoto, Japan, safely returned to Palau with a renewed understanding on disaster preparedness and community resilience. EBHS students, Mr. McWayne Ingais, Ms. Lara Kunihiro, Ms. Jireh-Lynn [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/high-school-students-summit-2024-in-japan-successfully-concluded/">High school students Summit 2024 in  Japan, successfully concluded</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/high-school-students-summit-2024-in-japan-successfully-concluded/>
+
+---
+
+## NO FEAR IN LOVE
+
+date: 2024-11-15, from: Island Times
+
+<figure><img width="400" height="378" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=400%2C378&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?resize=300%2C284&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=400%2C378&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="65054" data-permalink="https://islandtimes.org/intimacy-gone-bad-2/womens-corner-1-7/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=400%2C378&amp;ssl=1" data-orig-size="400,378" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=300%2C284&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=400%2C378&amp;ssl=1" /></figure>
+<p>The jaws of power are always opened to devour, and her arm is always stretched out, if possible, to destroy the freedom of thinking, speaking, and writing.&#8221; ~John Adams It&#8217;s taken most of my adult life to exercise freedom to be critical in my thinking. And to listen actively. I have learned so much.&#160; My [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/no-fear-in-love/">NO FEAR IN LOVE</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/no-fear-in-love/>
+
+---
+
+## National Geographic scientists discover ‘world’s largest’ coral on expedition to Solomon Islands
+
+date: 2024-11-15, from: Island Times
+
+<p>By&#160;Doug Dingwall&#160;and Solomon Islands reporter&#160;Chrisnrita Aumanu-Leong In short:&#160; (ABC-Australia) Scientists on an expedition to Solomon Islands say they have discovered the world&#8217;s largest coral, eclipsing previous record holders found in American Samoa. The giant standalone coral is 34 metres wide, 32 metres in diameter and 5.5 metres high.&#160; Scientists on the National Geographic expedition say [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/national-geographic-scientists-discover-worlds-largest-coral-on-expedition-to-solomon-islands/">National Geographic scientists discover &#8216;world&#8217;s largest&#8217; coral on expedition to Solomon Islands</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/national-geographic-scientists-discover-worlds-largest-coral-on-expedition-to-solomon-islands/>
+
+---
+
+## Climate finance promises must be kept, Commonwealth Secretary-General tells COP29
+
+date: 2024-11-15, from: Island Times
+
+<p>BAKU (COMSEC) &#8212; Commonwealth countries must unite and use their collective voice to demand that climate finance promises are kept preventing human suffering, the Commonwealth Secretary-General, Patricia Scotland said at COP29 in Baku Tuesday. At an event to highlight the upcoming launch of the Pacific Resilience Facility (PRF), the Secretary-General said that Commonwealth member states [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/climate-finance-promises-must-be-kept-commonwealth-secretary-general-tells-cop29/">Climate finance promises must be kept, Commonwealth Secretary-General tells COP29</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/climate-finance-promises-must-be-kept-commonwealth-secretary-general-tells-cop29/>
+
+---
+
+## TMC sets June 2025 for Nauru-backed seafloor mining application
+
+date: 2024-11-15, from: Island Times
+
+<p>NEW YORK(GLOBAL NEWSWIRE/PACNEWS) &#8212; TMC, the metals company focused on seafloor battery metal exploration, has set 27 June 2025, as the target date for submitting its ISA exploitation application, backed by its subsidiary Nauru Ocean Resources Inc (NORI) and Nauru Government.  This timing follows consultations with the ISA to clarify the submission and review process [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/tmc-sets-june-2025-for-nauru-backed-seafloor-mining-application/">TMC sets June 2025 for Nauru-backed seafloor mining application</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/tmc-sets-june-2025-for-nauru-backed-seafloor-mining-application/>
+
+---
+
+## Kremlin says reports Donald Trump had phone call with Vladimir Putin ‘pure fiction’
+
+date: 2024-11-15, from: Island Times
+
+<p>By Emily Clark in Washington DC In short: (ABC-Australia) Donald Trump is reported to have called Vladimir Putin and discussed the war in Ukraine, urging the Russian president not to escalate the conflict. But, in an unusual move, Kremlin spokesman Dmitry Peskov said no such call had taken place. &#160;&#160; What&#8217;s next? Trump and Joe Biden will [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/kremlin-says-reports-donald-trump-had-phone-call-with-vladimir-putin-pure-fiction/">Kremlin says reports Donald Trump had phone call with Vladimir Putin &#8216;pure fiction&#8217;</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/kremlin-says-reports-donald-trump-had-phone-call-with-vladimir-putin-pure-fiction/>
+
+---
+
+## UH tech workforce development events draw hundreds
+
+date: 2024-11-15, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> is aiming to grow the state’s tech workforce in partnership with industry.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/14/uh-tech-workforce-development/"><abbr>UH</abbr> tech workforce development events draw hundreds</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/14/uh-tech-workforce-development/>
+
+---
+
+## POCCA Assessment Report Launched at COP29: Media Briefing
+
+date: 2024-11-14, from: University of the South Pacific (Fiji)
+
+<p>The successful launch of the Pacific Ocean and Climate Crisis Assessment (POCCA) Report, the result...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/pocca-assessment-report-launched-at-cop29-media-briefing/">POCCA Assessment Report Launched at COP29: Media Briefing</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/pocca-assessment-report-launched-at-cop29-media-briefing/>
+
+---
+
+## NAVFAC: Guam can handle up to $5B worth of projects a year
+
+date: 2024-11-14, from: Pacific Island Times
+
+By Mar-Vic Cagurangan Guam can execute between $4 billion and $5 billion worth of projects a year to support the military operations on... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/navfac-guam-can-handle-up-to-5b-worth-of-projects-a-year>
 
 ---
 
@@ -107,6 +565,30 @@ date: 2024-11-14, updated: 2024-11-14, from: Marianas Variety
 <br> 
 
 <https://www.mvariety.com/business/business_news/sbdc-professionals-highlighted-in-guam-business-journal-s-40-under-forty/article_299deee2-a292-11ef-bcbd-0b92c0c71abc.html>
+
+---
+
+## Ex-police officer among 8 inmates granted parole
+
+date: 2024-11-14, updated: 2024-11-14, from: Marianas Variety
+
+FORMER Police Officer Raymond Saralu was among the eight inmates granted parole by the CNMI Board of Parole on Thursday. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/ex-police-officer-among-8-inmates-granted-parole/article_ea0613dc-a272-11ef-9004-e7c2fa69aecb.html>
+
+---
+
+## Lawyer: Judge’s participation in political campaign warrants recusal
+
+date: 2024-11-14, updated: 2024-11-14, from: Marianas Variety
+
+ATTORNEY Keith Chambers has respectfully asked Superior Court Presiding Judge Robert C. Naraja to recuse himself from the contempt of Legislature case against Shayne B. Villanueva because the judge has publicly endorsed the reelection campaign of Rep. Ralph Naraja Yumul, his nephew. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/lawyer-judge-s-participation-in-political-campaign-warrants-recusal/article_21e1d25e-a27e-11ef-a173-bf36278bcc7b.html>
 
 ---
 
@@ -399,6 +881,48 @@ date: 2024-11-14, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2024/11/14/hawaii-news/police-id-two-killed-in-weekend-traffic-crash/>
+
+---
+
+## Police ID two killed in weekend traffic crash
+
+date: 2024-11-14, from: Hawaii Tribune Harold
+
+
+				<p>Police have identified two individuals killed in a two-vehicle collision early Saturday morning in Volcano as 48-year-old Joanna Graves and 54-year-old David Makizuru, both of Volcano.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/14/hawaii-news/police-id-two-killed-in-weekend-traffic-crash-2/>
+
+---
+
+## Master of Hawaiian dance Vicky Holt Takamine awarded the Gish Prize
+
+date: 2024-11-14, from: Hawaii Tribune Harold
+
+
+				<p>Vicky Holt Takamine, a master teacher of traditional Hawaiian dance, was awarded the 31st annual Dorothy and Lillian Gish Prize, the Gish Prize Trust announced Wednesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/14/hawaii-news/master-of-hawaiian-dance-vicky-holt-takamine-awarded-the-gish-prize/>
+
+---
+
+## Red Flag Warning in effect Friday for parts of the island
+
+date: 2024-11-14, from: Hawaii Tribune Harold
+
+
+				<p>The National Weather Service has issued a Red Flag Warning effective Friday from 10 a.m. to 6 p.m. in the evening for the following districts: North Kohala, South Kohala, North Kona, Hawaii Island Interior, Ka&#8216;u.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/14/hawaii-news/red-flag-warning-in-effect-friday-for-parts-of-the-island/>
 
 ---
 
@@ -1189,7 +1713,7 @@ date: 2024-11-12, from: Hawaii Tribune Harold
 
 date: 2024-11-12, from: Island Times
 
-<figure><img width="780" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?fit=780%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?w=1951&amp;ssl=1 1951w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?resize=229%2C300&amp;ssl=1 229w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?resize=780%2C1024&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?resize=768%2C1008&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?resize=1171%2C1536&amp;ssl=1 1171w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?resize=1561%2C2048&amp;ssl=1 1561w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?resize=1200%2C1575&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?resize=1568%2C2058&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?resize=2000%2C2624&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?resize=400%2C525&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?resize=706%2C926&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?fit=780%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73772" data-permalink="https://islandtimes.org/president-whipps-calls-for-unity-after-projected-election-win/20241028_093629/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?fit=1951%2C2560&amp;ssl=1" data-orig-size="1951,2560" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;3.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1730108189&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;18.6&quot;,&quot;iso&quot;:&quot;1000&quot;,&quot;shutter_speed&quot;:&quot;0.0153&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20241028_093629" data-image-description="" data-image-caption="&lt;p&gt;Pres. Surangel S. Whipps Jr.&lt;/p&gt;
+<figure><img width="780" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?fit=780%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?w=1951&amp;ssl=1 1951w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?resize=229%2C300&amp;ssl=1 229w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?resize=780%2C1024&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?resize=768%2C1008&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?resize=1171%2C1536&amp;ssl=1 1171w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?resize=1561%2C2048&amp;ssl=1 1561w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?resize=1200%2C1575&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?resize=1568%2C2058&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?resize=2000%2C2624&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?resize=400%2C525&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?resize=706%2C926&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?fit=780%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="73772" data-permalink="https://islandtimes.org/president-whipps-calls-for-unity-after-projected-election-win/20241028_093629/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?fit=1951%2C2560&amp;ssl=1" data-orig-size="1951,2560" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;3.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1730108189&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;18.6&quot;,&quot;iso&quot;:&quot;1000&quot;,&quot;shutter_speed&quot;:&quot;0.0153&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20241028_093629" data-image-description="" data-image-caption="&lt;p&gt;Pres. Surangel S. Whipps Jr.&lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?fit=229%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/11/20241028_093629-scaled.jpg?fit=780%2C1024&amp;ssl=1" /></figure>
 <p>KOROR, Palau – President Surangel S. Whipps Jr., expressing gratitude to the people of Palau, has delivered a message of unity and optimism after securing a lead of over 1,000 votes in the 2024 presidential race. The incumbent, poised for a second term, emphasized his commitment to continuing Palau&#8217;s progress and addressing key issues facing [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/president-whipps-calls-for-unity-after-projected-election-win/">President Whipps Calls for Unity After Projected Election Win</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>

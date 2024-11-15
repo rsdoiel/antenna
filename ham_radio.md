@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2024-11-14 13:46:24
+updated: 2024-11-15 07:10:14
 ---
 
 # ham radio
 
-(date: 2024-11-14 13:46:24)
+(date: 2024-11-15 07:10:14)
+
+---
+
+## Startups eye opportunities amid analog industry consolidation
+
+date: 2024-11-15, from: EDN Blog
+
+<img width="1725" height="1272" src="https://www.edn.com/wp-content/uploads/Fig-1-Transceiver-chip-Orca.jpg?fit=1725%2C1272" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-1-Transceiver-chip-Orca.jpg?w=1725 1725w, https://www.edn.com/wp-content/uploads/Fig-1-Transceiver-chip-Orca.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-1-Transceiver-chip-Orca.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-1-Transceiver-chip-Orca.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Fig-1-Transceiver-chip-Orca.jpg?w=1536 1536w" sizes="(max-width: 1725px) 100vw, 1725px" /><p>The recent analog industry consolidation is creating new opportunities for startups in areas like AI and ASSPs.</p>
+<p>The post <a href="https://www.edn.com/startups-eye-opportunities-amid-analog-industry-consolidation/" data-wpel-link="internal">Startups eye opportunities amid analog industry consolidation</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/startups-eye-opportunities-amid-analog-industry-consolidation/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2024-11-14 13:46:24
 
 date: 2024-11-14, from: EDN Blog
 
-<img width="800" height="462" src="https://www.edn.com/wp-content/uploads/Tektronix-TICP-probes.jpg?fit=800%2C462" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Tektronix-TICP-probes.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Tektronix-TICP-probes.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Tektronix-TICP-probes.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>TICP Series IsoVu current probes from Tektronix provide complete galvanic RF isolation between the measurement system and DUT.</p>
+<img width="800" height="462" src="https://www.edn.com/wp-content/uploads/Tektronix-TICP-probes.jpg?fit=800%2C462" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Tektronix-TICP-probes.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Tektronix-TICP-probes.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Tektronix-TICP-probes.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>TICP Series IsoVu current probes from Tektronix provide complete galvanic RF isolation between the measurement system and DUT.</p>
 <p>The post <a href="https://www.edn.com/current-shunt-probes-feature-rf-isolation/" data-wpel-link="internal">Current shunt probes feature RF isolation</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
@@ -79,12 +93,12 @@ date: 2024-11-14, from: EDN Blog
 
 ---
 
-## RS232 meets VFC
+## RS-232 meets voltage-to-frequency converter
 
 date: 2024-11-14, from: EDN Blog
 
-<img width="863" height="693" src="https://www.edn.com/wp-content/uploads/VFC232_Figure1.png?fit=863%2C693" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/VFC232_Figure1.png?w=863 863w, https://www.edn.com/wp-content/uploads/VFC232_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/VFC232_Figure1.png?w=768 768w" sizes="auto, (max-width: 863px) 100vw, 863px" /><p>This design idea uses asynchronous RS232 to power and count pulses from a simple 10 kHz voltage-to-frequency converter.</p>
-<p>The post <a href="https://www.edn.com/rs232-meets-vfc/" data-wpel-link="internal">RS232 meets VFC</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+<img width="863" height="693" src="https://www.edn.com/wp-content/uploads/VFC232_Figure1.png?fit=863%2C693" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/VFC232_Figure1.png?w=863 863w, https://www.edn.com/wp-content/uploads/VFC232_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/VFC232_Figure1.png?w=768 768w" sizes="auto, (max-width: 863px) 100vw, 863px" /><p>This design idea uses asynchronous RS-232 to power and count pulses from a simple 10-kHz voltage-to-frequency converter (VFC).</p>
+<p>The post <a href="https://www.edn.com/rs232-meets-vfc/" data-wpel-link="internal">RS-232 meets voltage-to-frequency converter</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
 <br> 

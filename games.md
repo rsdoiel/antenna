@@ -1,11 +1,47 @@
 ---
 title: games
-updated: 2024-11-14 13:46:25
+updated: 2024-11-15 07:10:16
 ---
 
 # games
 
-(date: 2024-11-14 13:46:25)
+(date: 2024-11-15 07:10:16)
+
+---
+
+## The 42 best movies on Netflix right now
+
+date: 2024-11-15, updated: 2024-11-15, from: Polygon Website
+
+What’s the best movie I can watch on Netflix? We’ve all asked ourselves this question, only to spend the next 15 minutes scrolling through the streaming service’s oddly specific genre menus and getting overwhelmed by the constantly shifting trend menus. Netflix’s huge catalog of movies continues to expand day by day, week by week, month [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/21266801/best-movies-on-netflix>
+
+---
+
+## Final Fantasy is in trouble. Does Metaphor: ReFantazio show it the way?
+
+date: 2024-11-15, updated: 2024-11-15, from: Polygon Website
+
+As Polygon’s newly minted awards pundit, I’ve seen something pretty interesting transpire over the past month or so. When I started ranking contenders for The Game Awards’ top prize, Game of the Year, I identified Final Fantasy 7 Rebirth as the frontrunner. It was a big game in a storied series and a favored genre, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/analysis/479366/final-fantasy-7-rebirth-vs-metaphor-refantazio>
+
+---
+
+## The biggest Pathfinder bundle we’ve ever seen is just $30
+
+date: 2024-11-14, updated: 2024-11-14, from: Polygon Website
+
+One year ago, Paizo remastered its core rulebooks for Pathfinder, which updated the second edition ruleset with a collection of changes to terminology and aesthetics to improve the overall experience. Similar to what we’re currently seeing with the 2024 editions of the D&#38;D Player’s Handbook and Dungeon Master’s Guide. To commemorate this auspicious occasion, Humble [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/479306/pathfinder-second-edition-anniversary-bundle-humble-sale>
 
 ---
 
@@ -47,9 +83,9 @@ The weekly GTA Online update for Nov. 14, 2024, is live with reward events, disc
 
 ## Finally, Dimension 20 fans can Never Stop Blowing Up at their own home tables
 
-date: 2024-11-14, updated: 2024-11-14, from: Polygon Website
+date: 2024-11-14, updated: 2024-11-15, from: Polygon Website
 
-It would be low-hanging rhetorical fruit to say that Never Stop Blowing Up, Dimension 20’s “’80s Action Movie Meets Jumanji” actual play game, was the most explosive season in the history of the show. But it remains true: Game master Brennan Lee Mulligan and castmembers Rekha Shankar, Ify Nwadiwe, Isabella Roland, Alex Song-Xia, and Ally [&#8230;] 
+It would be low-hanging rhetorical fruit to say that Never Stop Blowing Up, Dimension 20’s “’80s Action Movie Meets Jumanji” actual play game, was the most explosive season in the history of the show. But it remains true: Game master Brennan Lee Mulligan and castmembers Rekha Shankar, Ify Nwadiwe, Isabella Roland, Jacob Wysocki, Alex Song-Xia, [&#8230;] 
 
 <br> 
 

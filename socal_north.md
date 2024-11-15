@@ -1,11 +1,119 @@
 ---
 title: socal north
-updated: 2024-11-14 13:46:23
+updated: 2024-11-15 07:10:14
 ---
 
 # socal north
 
-(date: 2024-11-14 13:46:23)
+(date: 2024-11-15 07:10:14)
+
+---
+
+## LA voters approved billions for housing and homelessness. Leaders of a new agency told us their spending plans
+
+date: 2024-11-15, updated: 2024-11-15, from: The LAist
+
+The tax, which at last count had more than 57% of L.A. voters' support, is projected to raise about $1.1 million dollars per year. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/la-voters-approved-billions-for-housing-and-homelessness-leaders-of-a-new-agency-told-us-their-spending-plans>
+
+---
+
+## Why I think this ghost kitchen is poised to be the next best LA restaurant
+
+date: 2024-11-15, updated: 2024-11-15, from: The LAist
+
+III Mas doesn't have a fancy restaurant right now, but its food is making waves. 
+
+<br> 
+
+<https://laist.com/news/food/why-i-think-this-ghost-kitchen-is-poised-to-be-the-next-best-la-restaurant>
+
+---
+
+## Help! We've booked our vacation rental, but what do I bring to cook our holiday meal?
+
+date: 2024-11-15, updated: 2024-11-15, from: The LAist
+
+Many of us will be heading out of town for the holidays, but our vacation-rental kitchens are often low on essentials 
+
+<br> 
+
+<https://laist.com/news/food/help-weve-booked-our-vacation-rental-but-what-do-i-bring-to-cook-our-holiday-meal>
+
+---
+
+## Alone in the city for Thanksgiving? Try these welcoming Friendsgiving events
+
+date: 2024-11-15, updated: 2024-11-15, from: The LAist
+
+Flying solo and want to celebrate the holiday? Toss social anxiety out the window, we’ve got a round-up of “Friendsgiving” events you can go to alone. 
+
+<br> 
+
+<https://laist.com/news/food/alone-for-thanksgiving-try-these-welcoming-friendsgiving-events>
+
+---
+
+## New analysis by LA city controller says at least $513M meant to help the homeless went unspent
+
+date: 2024-11-15, updated: 2024-11-15, from: The LAist
+
+The office attributed its findings of unspent funds to “a sluggish, inefficient [city] approach that is incompatible with timely spending.” 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/new-analysis-by-la-city-controller-says-at-least-513m-meant-to-help-the-homeless-went-unspent>
+
+---
+
+## Michelle Steel's lead continues to drop in highly watched 45th District House race
+
+date: 2024-11-15, updated: 2024-11-15, from: The LAist
+
+GOP Rep. Michelle Steel's lead over Derek Tran fell to 236 votes in one of the last remaining House races to be called. 
+
+<br> 
+
+<https://laist.com/news/politics/tran-steel-lead-45th-district-house-race>
+
+---
+
+## Next round of federal rebates for home energy upgrades are open. Here's how to find out if you’re eligible
+
+date: 2024-11-15, updated: 2024-11-15, from: The LAist
+
+Qualifying single-family homes, condominiums and properties with four or fewer units can get up to $8,000 for heat pump HVACs. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/federal-rebates-home-energy-upgrades-eligible>
+
+---
+
+## Facing a half-billion-dollar budget shortfall, UC increases tuition for new nonresident students
+
+date: 2024-11-14, updated: 2024-11-15, from: The LAist
+
+The University of California anticipates more than a $500 million budget gap next summer, so it’s increasing tuition by at least $3,402 for new nonresident students next fall. 
+
+<br> 
+
+<https://laist.com/news/education/uc-faces-half-billion-dollar-budget-shortfall-and-eyes-tuition-increase-for-new-nonresident-students>
+
+---
+
+## How a Trump administration could affect California’s housing crisis
+
+date: 2024-11-14, updated: 2024-11-14, from: The LAist
+
+CalMatters spoke to state housing experts to gauge the possible effect of a second Trump administration on California’s housing crisis. 
+
+<br> 
+
+<https://laist.com/news/how-a-trump-administration-could-affect-californias-housing-crisis>
 
 ---
 
@@ -85,7 +193,7 @@ A new wing at the Natural History Museum, Vulture Fest hosts TV reunions in Holl
 
 ## LAUSD's eChoices application window closes soon. Here are some tips to help
 
-date: 2024-11-14, updated: 2024-11-14, from: The LAist
+date: 2024-11-14, updated: 2024-11-15, from: The LAist
 
 We can’t tell you which schools to apply to, but we can share advice from parents who’ve been there before. 
 

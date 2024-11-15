@@ -1,11 +1,127 @@
 ---
 title: going electric
-updated: 2024-11-14 13:46:26
+updated: 2024-11-15 07:10:18
 ---
 
 # going electric
 
-(date: 2024-11-14 13:46:26)
+(date: 2024-11-15 07:10:18)
+
+---
+
+## Make No Mistake: Killing The EV Tax Credit Hurts Tesla Too
+
+date: 2024-11-15, from: Inside EVs News
+
+Suddenly, Tesla CEO Elon Musk says he's anti-subsidies. He may want to double-check his own balance sheet. 
+
+<br> 
+
+<https://insideevs.com/news/741135/tesla-ev-tax-credit-end/>
+
+---
+
+## Baidu- and Geely-backed JiYue brand unveils ROBO X EV that goes 0-100 km/h in under 1.9 sec
+
+date: 2024-11-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/JiYue-ROBO-X-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/jiyue/">JiYue,</a> a Chinese EV brand focused on delivering all-electric “robocars” to the masses, has unveiled its latest model, and it’s quite a deviation from its previous EVs—but in the best way. Earlier today, JiYue launched the ROBO X supercar, designed for high-speed racing. By high speed, we mean 0-100 km/h acceleration in under 1.9 seconds. My mouth is watering. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="baidu,geely,jiyue,jiyue-robo-x" data-layer-viewtype="unknown" data-post-id="389287" href="https://electrek.co/2024/11/15/baidu-geely-jiyue-unveils-robo-x-ev-that-goes-0-100-km-h-under-1-9-sec/#more-389287" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/15/baidu-geely-jiyue-unveils-robo-x-ev-that-goes-0-100-km-h-under-1-9-sec/>
+
+---
+
+## Wheel-E Podcast: Solar moped, XPedition 2.0, LiveWire scooter, more
+
+date: 2024-11-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes the launch of the Lectric XPedition 2.0, Yamaha e-bikes pulling out of North America, LiveWire unveils an electric scooter concept, PNY readying its cargo e-scooters for pilot testing, Royal Enfield’s first electric motorcycle, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="wheel-e-podcast" data-layer-viewtype="unknown" data-post-id="389282" href="https://electrek.co/2024/11/15/wheel-e-podcast-solar-moped-xpedition-2-0-livewire-scooter-more/#more-389282" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/15/wheel-e-podcast-solar-moped-xpedition-2-0-livewire-scooter-more/>
+
+---
+
+## EV Drivers In Australia Are Being Deployed For Natural Disaster Help
+
+date: 2024-11-15, from: Inside EVs News
+
+With summer storms expected to hit the Land Down Under in the coming months, EVs with vehicle-to-load are being put to good use. 
+
+<br> 
+
+<https://insideevs.com/news/741138/ev-v2l-australia-natural-disaster-help-pilot/>
+
+---
+
+## Tesla’s Latest Supercharger Update Brings Big Speed Improvements
+
+date: 2024-11-15, from: Inside EVs News
+
+The V4 Cabinet enables Tesla’s latest Supercharger stalls to deliver over 1 Megawatt of power. Just not for the Model 3, Model Y, Model S and Model X. 
+
+<br> 
+
+<https://insideevs.com/news/741083/tesla-v4-supercharger-cabinet-speed/>
+
+---
+
+## A 100-MW solar farm just broke ground in Wisconsin
+
+date: 2024-11-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/apple-river-feature-image.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>National Grid Renewables has broken ground on its 100 MW <a href="https://nationalgridrenewables.com/projects/apple-river-solar-project/" target="_blank" rel="noreferrer noopener">Apple River Solar Project</a> in Polk County, Wisconsin. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,solar-power,xcel-energy" data-layer-viewtype="unknown" data-post-id="389265" href="https://electrek.co/2024/11/14/a-100-mw-solar-farm-just-broke-ground-in-wisconsin/#more-389265" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/14/a-100-mw-solar-farm-just-broke-ground-in-wisconsin/>
+
+---
+
+## Tesla announces 500 kW charging as it finally delivers V4 Supercharger cabinets
+
+date: 2024-11-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Tesla-V4-Cabinet.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has announced that it will finally deliver 500 kW charging as it is about to install its long-awaited V4 Supercharger cabinets.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-supercharger" data-layer-viewtype="unknown" data-post-id="389220" href="https://electrek.co/2024/11/14/tesla-announces-500-kw-charging-as-it-finally-delivers-v4-supercharger-cabinets/#more-389220" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/14/tesla-announces-500-kw-charging-as-it-finally-delivers-v4-supercharger-cabinets/>
+
+---
+
+## Hyundai is launching an AI-powered EV next year to keep pace in China
+
+date: 2024-11-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Hyundai-AI-powered-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai has a new secret weapon it’s about ready to unleash. To revamp the brand in China and counter BYD’s surge, <a href="https://electrek.co/guides/hyundai/">Hyundai</a> is launching a new AI-powered EV next year. The new model will be Hyundai’s first dedicated electric car for the world’s largest EV market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="389215" href="https://electrek.co/2024/11/14/hyundai-launching-ai-powered-ev-keep-pace-china/#more-389215" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/14/hyundai-launching-ai-powered-ev-keep-pace-china/>
 
 ---
 

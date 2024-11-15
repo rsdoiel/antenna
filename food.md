@@ -1,11 +1,117 @@
 ---
 title: food
-updated: 2024-11-14 13:46:27
+updated: 2024-11-15 07:10:18
 ---
 
 # food
 
-(date: 2024-11-14 13:46:27)
+(date: 2024-11-15 07:10:18)
+
+---
+
+## Fazenda Ambiental Fortaleza Now Exports Their Coffee By Sailboat
+
+date: 2024-11-15, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Sail the caffeinated seas. 
+
+<br> 
+
+<https://sprudge.com/fazenda-ambiental-fortaleza-now-exports-their-coffee-by-sailboat-258829.html>
+
+---
+
+## Specialty Coffee for the Community: The Central American Cafes Serving Farm-to-Cup Coffee
+
+date: 2024-11-15, from: The Fresh Cup
+
+<p>Historically, coffee traveled from producing countries in the Global South to consuming countries in the Global North. But increasingly, coffee producers are opening cafes that prioritize their own communities—and changing the wider coffee industry in the process.</p>
+<p>The post <a href="https://freshcup.com/specialty-coffee-for-the-community-the-central-american-cafes-serving-farm-to-cup-coffee/">Specialty Coffee for the Community: The Central American Cafes Serving Farm-to-Cup Coffee</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/specialty-coffee-for-the-community-the-central-american-cafes-serving-farm-to-cup-coffee/>
+
+---
+
+## Brussels Sprouts Stir-Fry and More Recipes We Made This Week
+
+date: 2024-11-15, from: Bon Appetet
+
+Like gochujang-butter-braised tofu and pumpkin muffins. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-november-2024>
+
+---
+
+## Mexican Oregano
+
+date: 2024-11-15, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/mexican-oregano/"><img title="mexican-oregano-24-small-2" src="https://www.isabeleats.com/wp-content/uploads/2020/01/mexican-oregano-24-small-2-400x600.jpg" alt="Mexican oregano dried whole leaves in a small white ramekin." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	What is Mexican oregano? And do you really need it in addition to regular oregano in your pantry? When it comes to adding a punch of flavor to your dishes, Mexican oregano stands out as a vibrant, distinctive herb that’s more than just a spice rack staple. Learn all about Mexican oregano, including its flavor, [&#8230;] 
+
+<br> 
+
+<https://www.isabeleats.com/mexican-oregano/>
+
+---
+
+## Smothered Pork Chops Recipe
+
+date: 2024-11-15, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/smothered-pork-chops/" title="Smothered Pork Chops Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Smothered-Pork-Chops-Recipe-PAN1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Smothered Pork Chops in a pan, ready to serve" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Smothered-Pork-Chops-Recipe-PAN1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Smothered-Pork-Chops-Recipe-PAN1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Smothered-Pork-Chops-Recipe-PAN1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Smothered-Pork-Chops-Recipe-PAN1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Smothered-Pork-Chops-Recipe-PAN1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Smothered-Pork-Chops-Recipe-PAN1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/10/Smothered-Pork-Chops-Recipe-PAN1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>These smothered pork chops are generously spiced with a Creole blend, seared, then simmered in a rich, flavorful gravy for a delicious taste of the south.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/smothered-pork-chops/">Smothered Pork Chops Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/smothered-pork-chops/>
+
+---
+
+## The 6 Best Meal Delivery Services for Families (2024)
+
+date: 2024-11-15, from: Bon Appetet
+
+Because those kids aren’t going to feed themselves. 
+
+<br> 
+
+<https://www.bonappetit.com/story/the-6-best-meal-delivery-services-for-families-2024>
+
+---
+
+## Sticky Toffee Pudding
+
+date: 2024-11-14, from: Bon Appetet
+
+Skip the fuss of individual servings; this sheet cake sticky toffee pudding is cozier, easier, and, dare we say, far more festive. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/classic-sticky-toffee-pudding>
+
+---
+
+## I Tried a Pickle-Brined Turkey—Here’s What I Really Thought
+
+date: 2024-11-14, from: Taste of Home
+
+<p>If brining a turkey in salt water creates a tender, juicy bird, could a turkey brined in pickle juice be even better?</p>
+<p>The post <a href="https://www.tasteofhome.com/article/pickle-brined-turkey/">I Tried a Pickle-Brined Turkey—Here’s What I Really Thought</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/pickle-brined-turkey/>
 
 ---
 
@@ -383,7 +489,7 @@ date: 2024-11-13, from: Isebel Eats
 
 date: 2024-11-13, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/chili-pepper-recipes/breakfasts/homemade-cheddar-jalapeno-biscuits/" title="Homemade Jalapeno Cheddar Biscuits" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Jalapeno-Cheddar-Biscuits-Recipe5-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A stack of Jalapeno Cheddar Biscuits" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Jalapeno-Cheddar-Biscuits-Recipe5-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Jalapeno-Cheddar-Biscuits-Recipe5-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Jalapeno-Cheddar-Biscuits-Recipe5-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Jalapeno-Cheddar-Biscuits-Recipe5-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Jalapeno-Cheddar-Biscuits-Recipe5-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Jalapeno-Cheddar-Biscuits-Recipe5-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Jalapeno-Cheddar-Biscuits-Recipe5.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>These homemade jalapeno-cheddar biscuits are cheesy, flaky, and delicious, easy to make from scratch and perfect for quick morning breakfast or brunch!</p>
+<a href="https://www.chilipeppermadness.com/chili-pepper-recipes/breakfasts/homemade-cheddar-jalapeno-biscuits/" title="Homemade Jalapeno Cheddar Biscuits" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Jalapeno-Cheddar-Biscuits-Recipe5-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A stack of Jalapeno Cheddar Biscuits" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Jalapeno-Cheddar-Biscuits-Recipe5-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Jalapeno-Cheddar-Biscuits-Recipe5-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Jalapeno-Cheddar-Biscuits-Recipe5-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Jalapeno-Cheddar-Biscuits-Recipe5-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Jalapeno-Cheddar-Biscuits-Recipe5-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Jalapeno-Cheddar-Biscuits-Recipe5-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Jalapeno-Cheddar-Biscuits-Recipe5.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>These homemade jalapeno-cheddar biscuits are cheesy, flaky, and delicious, easy to make from scratch and perfect for quick morning breakfast or brunch!</p>
 <p>The post <a href="https://www.chilipeppermadness.com/chili-pepper-recipes/breakfasts/homemade-cheddar-jalapeno-biscuits/">Homemade Jalapeno Cheddar Biscuits</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

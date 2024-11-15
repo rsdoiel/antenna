@@ -1,11 +1,51 @@
 ---
 title: home
-updated: 2024-11-14 13:46:26
+updated: 2024-11-15 07:10:17
 ---
 
 # home
 
-(date: 2024-11-14 13:46:26)
+(date: 2024-11-15 07:10:17)
+
+---
+
+## Corona Pruners Review: We Tried It and Were Not Impressed
+
+date: 2024-11-15, from: Family Handyman Blog
+
+<p>We tested the Corona pruners and were left with tired hands and messy cuts. Here's why we can't recommend this pair.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/corona-pruners-review/">Corona Pruners Review: We Tried It and Were Not Impressed</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/corona-pruners-review/>
+
+---
+
+## Pictorial Essay: From Foggy Forest to Sandhills
+
+date: 2024-11-14, from: California Native Plants Society
+
+<p>Take a journey through the Santa Cruz Mountains, where foggy redwood forests give way to sandhills and wind-lashed coastal scrub intermingles with ribbons of riparian forests. </p>
+<p>The post <a href="https://www.cnps.org/flora-magazine/pictorial-essay-from-foggy-forest-to-sandhills-41221">Pictorial Essay: From Foggy Forest to Sandhills</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/flora-magazine/pictorial-essay-from-foggy-forest-to-sandhills-41221>
+
+---
+
+## These Are the Best Trader Joe’s Products to Try in November
+
+date: 2024-11-14, from: Sunset Magazine - Living in the West
+
+Trader Joe’s has some pretty delicious and unique new items to amp up your hosting this year, while keeping things under budget. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/trader-joes-november-products-2024>
 
 ---
 
@@ -20,6 +60,66 @@ date: 2024-11-14, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/gm-trucks-transmission-recall/>
+
+---
+
+## Here’s How to Save Money on Thanksgiving Dinner, According to Professional Chefs
+
+date: 2024-11-14, from: Sunset Magazine - Living in the West
+
+Hosting a Thanksgiving gathering can be costly. Professional chefs share what to splurge and save on, plus other money-saving tips. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/how-to-host-thanksgiving-on-a-budget>
+
+---
+
+## How to Use Your Credit Card Points for Holiday Travel, According to an Expert at The Points Guy
+
+date: 2024-11-14, from: Sunset Magazine - Living in the West
+
+The Points Guy’s leading expert on credit cards and loyalty programs shares tips on planning your holiday travel like a pro. 
+
+<br> 
+
+<https://www.sunset.com/travel/travel-tips/using-points-miles-for-holiday-travel>
+
+---
+
+## The Ultimate Kid-Friendly Carlsbad Guide for Your Next Legoland Visit
+
+date: 2024-11-14, from: Sunset Magazine - Living in the West
+
+Tips for a stress-free visit to Legoland plus best places to see and stay when you want to venture outside of the park. 
+
+<br> 
+
+<https://www.sunset.com/travel/travel-tips/kid-friendly-guide-to-san-diego-legoland>
+
+---
+
+## 7 Thanksgiving Centerpieces That You Can Plant in Your Garden Afterwards
+
+date: 2024-11-14, from: Sunset Magazine - Living in the West
+
+Look to your backyard for your next floral arrangement. We're sharing Thanksgiving centerpiece ideas you can plant in your garden. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/flowers-plants/thanksgiving-centerpieces-from-the-garden>
+
+---
+
+## This Multipurpose Garden Paradise Packs in a Pool, Fire Pit, Shower, Outdoor Dining Area, and More
+
+date: 2024-11-14, from: Sunset Magazine - Living in the West
+
+This plot of land was narrow and small. See how it was turned it into a versatile space with a pool, outdoor shower, seating area, and more. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/landscaping/multipurpose-garden-design>
 
 ---
 
@@ -456,18 +556,6 @@ date: 2024-11-13, from: Yard Life blog
 
 ---
 
-## Here’s How to Save Money on Thanksgiving Dinner, According to Professional Chefs
-
-date: 2024-11-13, from: Sunset Magazine - Living in the West
-
-Hosting a Thanksgiving gathering can be costly. Professional chefs share what to splurge and save on, plus other money-saving tips. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/how-to-host-thanksgiving-on-a-budget>
-
----
-
 ## Check in, Learn to Surf: These Beach Hotels Will Teach You How on Your Next Vacation
 
 date: 2024-11-13, from: Sunset Magazine - Living in the West
@@ -515,18 +603,6 @@ date: 2024-11-12, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/project/how-to-clean-windshield-wiper-blades/>
-
----
-
-## This Multipurpose Garden Paradise Packs in a Pool, Fire Pit, Shower, Outdoor Dining Area, and More
-
-date: 2024-11-12, from: Sunset Magazine - Living in the West
-
-This plot of land was narrow and small. See how it was turned it into a versatile space with a pool, outdoor shower, seating area, and more. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/landscaping/multipurpose-garden-design>
 
 ---
 
@@ -825,18 +901,6 @@ With the final season of Yellowstone airing on November 10, Western wear experts
 <br> 
 
 <https://www.sunset.com/lifestyle/yellowstone-fashion-get-the-look>
-
----
-
-## 7 Thanksgiving Centerpieces That You Can Plant in Your Garden Afterwards
-
-date: 2024-11-12, from: Sunset Magazine - Living in the West
-
-Look to your backyard for your next floral arrangement. We're sharing Thanksgiving centerpiece ideas you can plant in your garden. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/flowers-plants/thanksgiving-centerpieces-from-the-garden>
 
 ---
 

@@ -1,11 +1,71 @@
 ---
 title: health
-updated: 2024-11-14 13:46:26
+updated: 2024-11-15 07:10:17
 ---
 
 # health
 
-(date: 2024-11-14 13:46:26)
+(date: 2024-11-15 07:10:17)
+
+---
+
+## Periodontal bacteria influence systemic diseases through the gut microbiota
+
+date: 2024-11-15, from: Frontiers in Cellular and Infection Microbiology
+
+Many systemic diseases, including Alzheimer disease (AD), diabetes mellitus (DM) and cardiovascular disease, are associated with microbiota dysbiosis. The oral and intestinal microbiota are directly connected anatomically, and communicate with each other through the oral-gut microbiome axis to establish and maintain host microbial homeostasis. In addition to directly, periodontal bacteria may also be indirectly involved in the regulation of systemic health and disease through the disturbed gut. This paper provides evidence for the role of periodontal bacteria in systemic diseases via the oral-gut axis and the far-reaching implications of maintaining periodontal health in reducing the risk of many intestinal and parenteral diseases. This may provide insight into the underlying pathogenesis of many systemic diseases and the search for new preventive and therapeutic strategies. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1478362>
+
+---
+
+## Modulation of metabolic pathways and EndMT inhibition by a traditional Chinese herbal formula in the treatment of high-risk infections
+
+date: 2024-11-15, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundHerbal products have long been utilized as remedies for various disease conditions, including infections. This study investigates the therapeutic mechanism of a traditional Chinese herbal combination in treating high-risk HPV infections.MethodsThe herbal formula was prepared using common herbs: dry Millettia speciosa, Guanzhong (a spermatophyte), Sarsaparilla, White Fruit, and Cockscomb Flower. Eight female patients diagnosed with high-risk HPV were enrolled from January to September 2023 at Shenzhen Hospital of Beijing University of Traditional Chinese Medicine. Cervicovaginal secretions were collected before and after treatment with the herbal remedy and analyzed using non-targeted metabolomics techniques. In vitro studies were conducted using HeLa cells to determine the optimal effective concentration of the remedy, assessed via the CCK8 method. The proliferation and migration of HeLa cells were evaluated using Transwell assays. Quantitative PCR was employed to measure mRNA levels of endothelial-to-mesenchymal transition (EndMT) markers, including VE-Cadherin, eNOS, α-SMA, and Snail.ResultsIn vivo, significant alterations in cervicovaginal secretion metabolites post-treatment were observed through PCA, OPLS-DA, and volcano plot analyses. KEGG enrichment analysis highlighted crucial signaling pathways such as arginine and proline metabolism, purine metabolism, glycerophospholipid metabolism, and phenylalanine metabolism, indicating the herbal combination’s systemic effects on patients. In vitro experiments demonstrated a dose-dependent reduction in HeLa cell proliferation and migration, confirmed by scratch and Transwell assays. Additionally, qPCR analysis revealed down-regulation of α-SMA and Snail, and up-regulation of VE-Cadherin and eNOS, suggesting inhibition of EndMT in HeLa cells.ConclusionThe traditional Chinese herbal combination modulates key metabolic pathways in vivo and inhibits EndMT in vitro, while reducing HeLa cell proliferation and migration. These findings highlight its potential as a therapeutic approach for managing HPV infections, bridging traditional practices with scientific research. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1497965>
+
+---
+
+## Application of metagenomic next-generation sequencing in the diagnosis of infectious diseases
+
+date: 2024-11-15, from: Frontiers in Cellular and Infection Microbiology
+
+Metagenomic next-generation sequencing (mNGS) is a transformative approach in the diagnosis of infectious diseases, utilizing unbiased high-throughput sequencing to directly detect and characterize microbial genomes from clinical samples. This review comprehensively outlines the fundamental principles, sequencing workflow, and platforms utilized in mNGS technology. The methodological backbone involves shotgun sequencing of total nucleic acids extracted from diverse sample types, enabling simultaneous detection of bacteria, viruses, fungi, and parasites without prior knowledge of the infectious agent. Key advantages of mNGS include its capability to identify rare, novel, or unculturable pathogens, providing a more comprehensive view of microbial communities compared to traditional culture-based methods. Despite these strengths, challenges such as data analysis complexity, high cost, and the need for optimized sample preparation protocols remain significant hurdles. The application of mNGS across various systemic infections highlights its clinical utility. Case studies discussed in this review illustrate its efficacy in diagnosing respiratory tract infections, bloodstream infections, central nervous system infections, gastrointestinal infections, and others. By rapidly identifying pathogens and their genomic characteristics, mNGS facilitates timely and targeted therapeutic interventions, thereby improving patient outcomes and infection control measures. Looking ahead, the future of mNGS in infectious disease diagnostics appears promising. Advances in bioinformatics tools and sequencing technologies are anticipated to streamline data analysis, enhance sensitivity and specificity, and reduce turnaround times. Integration with clinical decision support systems promises to further optimize mNGS utilization in routine clinical practice. In conclusion, mNGS represents a paradigm shift in the field of infectious disease diagnostics, offering unparalleled insights into microbial diversity and pathogenesis. While challenges persist, ongoing technological advancements hold immense potential to consolidate mNGS as a pivotal tool in the armamentarium of modern medicine, empowering clinicians with precise, rapid, and comprehensive pathogen detection capabilities. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1458316>
+
+---
+
+## Editorial: Value of a multidisciplinary approach for modern diagnosis of infectious diseases
+
+date: 2024-11-15, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1514207>
+
+---
+
+## Chinese herbal medicine, Tongxieyaofang, alleviates diarrhea via gut microbiota remodeling: evidence from network pharmacology and full-length 16S rRNA gene sequencing
+
+date: 2024-11-15, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundTongxieyaofang (TXYF) was a traditional Chinese medicine (TCM) formula for the treatment of diarrhea with liver stagnation and spleen deficiency syndrome, but the potential targets and mechanisms have not been fully clarified. This study aims to explore the potential mechanisms of TXYF in alleviating diarrhea using network pharmacology and full-length 16S rRNA gene sequencing.MethodsNetwork pharmacology was applied to identify bioactive compounds and potential targets involved in the role of TXYF in alleviating diarrhea. Meanwhile, a model of diarrhea with liver stagnation and spleen deficiency syndrome was constructed by intragastric administration of Folium senna extract combined with restraint and tail pinch stress. The effect of TXYF on intestinal mucosal microbiota of diarrhea mice was analyzed by full-length 16S rRNA gene sequencing.ResultsNetwork pharmacology analysis showed that kaempferol, wogonin, naringenin, and nobiletin were compounds associated with the efficacy of TXYF. TXYF may alleviate diarrhea via multiple BPs and pathways, including TNF signaling pathway, IL-17 signaling pathway, and Toll-like receptor signaling pathway, which are involved in TCM-gut microbiota-host interactions. Then, we found that TXYF administration reshaped the diversity and composition of the intestinal mucosal microbial community of diarrhea mice. Lactobacillus, primarily Lactobacillus johnsonii, was enriched by the administration of TXYF.  After TXYF administration, the abundance of Lactobacillus, particularly Lactobacillus johnsonii, was enriched.ConclusionOral administration of TXYF may alleviate diarrhea through remodeling intestinal mucosal microbiota. Promoting the colonization of beneficial commensal bacteria in the intestinal mucosa through gut microbiota-host interactions may be a potential mechanism of TXYF in the treatment of diarrhea. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1502373>
 
 ---
 

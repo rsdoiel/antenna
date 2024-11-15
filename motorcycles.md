@@ -1,11 +1,73 @@
 ---
 title: motorcycles
-updated: 2024-11-14 13:46:26
+updated: 2024-11-15 07:10:17
 ---
 
 # motorcycles
 
-(date: 2024-11-14 13:46:26)
+(date: 2024-11-15 07:10:17)
+
+---
+
+## A Burnt Triumph Runs, and It's a Good Lesson On Getting Out Of Your Comfort Zone
+
+date: 2024-11-15, from: Ride Apart, Electric Motorcycle News
+
+Like Michael Jordan once said, you miss 100 percent of the shots you don't take. 
+
+<br> 
+
+<https://www.rideapart.com/news/740912/crispy-triumph-project-bike-runs/>
+
+---
+
+## I Think I Could Beat Can-Am's Best In The Showdown It Just Had
+
+date: 2024-11-15, from: Ride Apart, Electric Motorcycle News
+
+Come on, Can-Am, I was right down the street.  
+
+<br> 
+
+<https://www.rideapart.com/news/740914/can-am-great-off-road-showdown-lia-block-travis-pastrana-cowboy-cerrone/>
+
+---
+
+## A Wire Trap Nearly Took a Rider's Head Off, Others Chimed In With Similar Stories
+
+date: 2024-11-15, from: Ride Apart, Electric Motorcycle News
+
+I can't believe how common these deadly traps are. 
+
+<br> 
+
+<https://www.rideapart.com/news/740896/wire-booby-trap-dirt-bike-motorcyclist-common/>
+
+---
+
+## This Limited Edition BMW Motorcycle Goes Crazy With Carbon, Won't Come to the US
+
+date: 2024-11-15, from: Ride Apart, Electric Motorcycle News
+
+Only 54 examples of this carbon-clad machine will ever see the light of day.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/740781/bmw-m1000rr-champion-edition-crazy-carbon/>
+
+---
+
+## This New Dual Sport Motorcycles Looks Like It Belongs On the Moon
+
+date: 2024-11-15, from: Ride Apart, Electric Motorcycle News
+
+Or on the set of some sci-fi outer space movie.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/740471/fb-mondial-mud452-adventure-bike-eicma/>
 
 ---
 
