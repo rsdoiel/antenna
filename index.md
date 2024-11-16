@@ -3,7 +3,7 @@
 
 > An experiment in personal news aggregation
 
-The goal of the Antenna is to provide a means I can quickly scan new content on the web I might be interested in reading. In essence Antenna is a [Linklog](https://en.wikipedia.org/wiki/Linklog). A list of feeds is aggregated into a collection of items and presented in descending date order. Most lists aggregate by the week since I don't always have time to read. The [Snapshots](snapshots/) list is aggregated by the day. The following lists are available. All items link back to their origin sites for actual reading.
+The Antenna is designed to provide  me a way to quickly scan new content on the web I might be interested in reading. In essence Antenna is a [Linklog](https://en.wikipedia.org/wiki/Linklog). A list of feeds is aggregated into a collection of items and presented in descending date order. Most lists aggregate by the week since I don't always have time to read. The [Snapshots](snapshots/) list is aggregated by the day. The following lists are available. All items link back to their origin sites for actual reading.
 
 Collection                                          Description of Posts                                               list
 ---------------------------------                   --------------------------------------------------------------     --------------------------------
