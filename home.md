@@ -1,11 +1,211 @@
 ---
 title: home
-updated: 2024-11-15 07:10:17
+updated: 2024-11-16 09:07:01
 ---
 
 # home
 
-(date: 2024-11-15 07:10:17)
+(date: 2024-11-16 09:07:01)
+
+---
+
+## Rare Plant of the Month: Soft salty bird’s-beak
+
+date: 2024-11-15, from: California Native Plants Society
+
+<p>With a California Rare Plant Rank of 1B.2, soft salty bird’s-beak is an unusual plant with an unusual name. Find out more about it!</p>
+<p>The post <a href="https://www.cnps.org/rare-plants/rare-plant-of-the-month-soft-salty-birds-beak-41242">Rare Plant of the Month: Soft salty bird&#8217;s-beak</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/rare-plants/rare-plant-of-the-month-soft-salty-birds-beak-41242>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-11-15, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## Friday Links: November 15, 2024
+
+date: 2024-11-15, from: California Native Plants Society
+
+<p>This week we're drinking in stories of hope and perseverance—the Pit River Nation's long quest to protect Sáttítla; the persistence of a rare buckwheat; the dawning recognition of an ancient species; how nature heals and inspires; and so much more. </p>
+<p>The post <a href="https://www.cnps.org/friday-links/friday-links-november-15-2024-41294">Friday Links: November 15, 2024</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/friday-links/friday-links-november-15-2024-41294>
+
+---
+
+## When Natural Disasters Threaten Modernist Icons
+
+date: 2024-11-15, from: Dwell
+
+A destructive hurricane season in western Florida has stewards of the regional Sarasota School style reckoning with how to preserve its relics—or if they even should, amid the intensifying climate crisis. 
+
+<br> 
+
+<https://www.dwell.com/article/sarasota-school-of-architecture-hurricane-recovery-preservation-sarasota-modern-d8c5e7c9>
+
+---
+
+## The Best Travel Gifts for Every Adventurer in Your Life
+
+date: 2024-11-15, from: Sunset Magazine - Living in the West
+
+Got an adventurer on your gift list? Our editors picked the best travel gifts. These finds can elevate their explorations, no matter where they are. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/best-travel-gifts>
+
+---
+
+## The Silver Lake Home of a Richard Neutra Protégé Just Listed for $3.4M
+
+date: 2024-11-15, from: Dwell
+
+Architect Richard Holme built his 1979 residence after working in the offices of Neutra, A. Quincy Jones, and Carl Maston. 
+
+<br> 
+
+<https://www.dwell.com/article/richard-holme-residence-silver-lake-los-angeles-real-estate-21301021>
+
+---
+
+## Some Say It Was a Bakery. Now It’s a Family’s Loftlike Home Brimming With Vintage Decor
+
+date: 2024-11-15, from: Dwell
+
+The 124-year-old building was converted to apartments in the ’70s but now has open-plan spaces filled with names like Nakashima, Eileen Gray, and Knoll. 
+
+<br> 
+
+<https://www.dwell.com/article/capitol-hill-renovation-nicole-lanteri-design-architrave-pc-architects-4d169d41>
+
+---
+
+## Why Do We Keep Developing in Climate Disaster Zones?
+
+date: 2024-11-15, from: Dwell
+
+Affordable real estate in the Sun Belt continues to attract buyers under a false sense of security. For experts, the burning question is how—or if—we can build housing ethically in at-risk areas. 
+
+<br> 
+
+<https://www.dwell.com/article/why-do-we-keep-developing-in-climate-disaster-zones-0ad47352>
+
+---
+
+## Do You Know Why Cars Have a Glow in the Dark Handle Inside the Trunk?
+
+date: 2024-11-15, from: Family Handyman Blog
+
+<p>Your car has plenty of safety features you may not even realize are there... but this one is sure to catch your eye.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/glow-in-the-dark-handle-in-trunk/">Do You Know Why Cars Have a Glow in the Dark Handle Inside the Trunk?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/glow-in-the-dark-handle-in-trunk/>
+
+---
+
+## How the West Was Fun: Pioneertown’s Red Dog Saloon Serves up Western Nostalgia and Craft Cocktails
+
+date: 2024-11-15, from: Sunset Magazine - Living in the West
+
+An easy drive from L.A., Pioneertown is a former movie set anchored by joints like the Red Dog Saloon, which mix Western nostalgia with craft cocktails. 
+
+<br> 
+
+<https://www.sunset.com/travel/culinary-travel/red-dog-saloon-pioneertown>
+
+---
+
+## Heading to Joshua Tree? Stock up on Snacks and Booze at These Roadside Stops
+
+date: 2024-11-15, from: Sunset Magazine - Living in the West
+
+An insider's road trip guide to Joshua Tree for the best places to stop for sips and snacks, plus made-to-order sourdough. 
+
+<br> 
+
+<https://www.sunset.com/travel/road-trips/joshua-tree-road-trip-guide>
+
+---
+
+## The Desert’s Best-Kept Secret Is This Breathtaking Preserve Near Joshua Tree
+
+date: 2024-11-15, from: Sunset Magazine - Living in the West
+
+Hike without the crowds at Pioneertown Mountains Preserve, the California desert's best-kept secret. 
+
+<br> 
+
+<https://www.sunset.com/travel/california-desert-pioneertown>
+
+---
+
+## 45 of the Best Hardy Perennials for Cold Regions
+
+date: 2024-11-15, from: The Gardener's Path
+
+<p>For those in super chilly climates like Zones 3 and below, the choice of hardy perennials can be a bit limited. We present some excellent options, from flowers like tulips, phlox, and poppies to woody shrubs like elderberries and hydrangeas. Discover 45 of the best hardy perennials in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/best-hardy-perennials/">45 of the Best Hardy Perennials for Cold Regions</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/best-hardy-perennials/>
+
+---
+
+## How to Enjoy a Joshua Tree Camping Experience Without the Park Crowds
+
+date: 2024-11-15, from: Sunset Magazine - Living in the West
+
+Avoid Joshua Tree National Park crowds with these nearby camping alternatives. 
+
+<br> 
+
+<https://www.sunset.com/travel/wild-lands/joshua-tree-camping-national-park-alternatives>
+
+---
+
+## The Ultimate Insider Guide to Joshua Tree and the High Desert
+
+date: 2024-11-15, from: Sunset Magazine - Living in the West
+
+A local shares her tips on what to do, eat, drink, and see in Joshua Tree and the other High Desert communities. 
+
+<br> 
+
+<https://www.sunset.com/travel/insider-guides/what-do-in-joshua-tree-high-desert>
+
+---
+
+## This Is the Biggest Holiday Travel Mistake You Can Possibly Make
+
+date: 2024-11-15, from: Sunset Magazine - Living in the West
+
+Travel Expert and Two-Time Emmy Award-Winning TV Host Samantha Brown shares her tips on how to navigate your holiday travels. 
+
+<br> 
+
+<https://www.sunset.com/travel/holiday-travel-tips>
 
 ---
 
@@ -250,30 +450,6 @@ Lean on local makers to put together a better holiday spread. These indulgent fo
 <br> 
 
 <https://www.sunset.com/lifestyle/shopping/best-food-gifts>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-11-14, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
-
----
-
-## This Is the Biggest Holiday Travel Mistake You Can Possibly Make
-
-date: 2024-11-14, from: Sunset Magazine - Living in the West
-
-Travel Expert and Two-Time Emmy Award-Winning TV Host Samantha Brown shares her tips on how to navigate your holiday travels. 
-
-<br> 
-
-<https://www.sunset.com/travel/holiday-travel-tips>
 
 ---
 
@@ -1133,4 +1309,32 @@ date: 2024-11-10, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/flowers/drooping-amaryllis-leaves/>
+
+---
+
+## How to Make a DIY Rice Heating Pad (Microwave or Oven)
+
+date: 2024-11-09, from: Homestead and Chil
+
+<p>Do you have sore muscles, kinks, and cramps? Come learn how to make a simple, natural DIY rice heating pad in 6 easy steps! It can also be used as a cold pack. You can use recycled fabric, plus essential oils for aromatherapy!</p>
+<p>The post <a href="https://homesteadandchill.com/how-to-make-rice-heating-pad/">How to Make a DIY Rice Heating Pad (Microwave or Oven)</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/how-to-make-rice-heating-pad/>
+
+---
+
+## CNPS Responds to the Fall 2024 Election
+
+date: 2024-11-09, from: California Native Plants Society
+
+<p>CNPS urges President Biden to designate Chuckwalla, Sáttítla, and Kw’tsán as national monuments to protect California’s native plants and biodiversity.</p>
+<p>The post <a href="https://www.cnps.org/news-releases/cnps-responds-to-the-fall-2024-election-41181">CNPS Responds to the Fall 2024 Election</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/news-releases/cnps-responds-to-the-fall-2024-election-41181>
 

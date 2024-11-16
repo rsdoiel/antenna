@@ -1,11 +1,161 @@
 ---
 title: writing
-updated: 2024-11-15 07:10:16
+updated: 2024-11-16 09:07:00
 ---
 
 # writing
 
-(date: 2024-11-15 07:10:16)
+(date: 2024-11-16 09:07:00)
+
+---
+
+## Scriptnotes, Episode 658: Advice Show, Transcript
+
+date: 2024-11-15, from: John August blog
+
+The original post for this episode can be found here. Craig Mazin: Hi. Today’s episode features an enormous amount of profane language, and not for any reason. I just felt like cursing. If you have kids in the car or anybody that doesn’t enjoy that sort of thing, earmuffs on. John August: Hello, and welcome. [&#8230;]
+The post <a href="https://johnaugust.com/2024/scriptnotes-episode-658-advice-show-transcript">Scriptnotes, Episode 658: Advice Show, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2024/scriptnotes-episode-658-advice-show-transcript>
+
+---
+
+##  #225 - Try to Imagine a Better World
+
+date: 2024-11-15, from: Interesting, a blog on writing
+
+Go ahead. Give it a shot. 
+
+<br> 
+
+<https://inneresting.substack.com/p/225-try-to-imagine-a-better-world>
+
+---
+
+## Revived Class Action Against McGraw Hill: the Importance of Publishing Contracts
+
+date: 2024-11-15, from: Author's Union blog
+
+At the heart of the Flynn v. McGraw Hill case is a breach of contract claim. The plaintiffs argue that McGraw Hill's royalty deductions for maintaining its online system violated the terms of the agreement. Central to the argument is the publisher’s promise to 'publish at its own expense.' This case serves as a prime example of how important it is to scrutinize the details of a publishing agreement, where the devil often lies. 
+
+<br> 
+
+<https://www.authorsalliance.org/2024/11/15/revived-class-action-against-mcgraw-hill-the-importance-of-publishing-contracts/>
+
+---
+
+## Featured Friday: Modern Anxieties
+
+date: 2024-11-15, from: John August blog
+
+Weekend Read, our app for reading scripts on your phone, features a new curated collection of screenplays each week. This week, we look at works that were made in response to the uncertainties of this current moment, and the myriad of ways writers can reflect and critique the world they live in. Our collection includes: [&#8230;]
+The post <a href="https://johnaugust.com/2024/featured-friday-modern-anxieties">Featured Friday: Modern Anxieties</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2024/featured-friday-modern-anxieties>
+
+---
+
+## 2025 Andrew Carnegie Medals Shortlists
+
+date: 2024-11-15, from: Locus Magazine
+
+<p>The American Library Association (ALA) has announced the shortlists for the 2025 Andrew Carnegie Medals for Excellence for &#8220;the best fiction and nonfiction books for adult readers published in the U.S. in the previous year&#8221; with three fiction and three non-fiction titles.</p>
+<p>The fiction shortlist includes <strong>James </strong>by occasional SF writer Percival Everett (Knopf). The non-fiction list includes <strong>Challenger: A True Story of Heroism and Disaster on the Edge of </strong> <a href="https://locusmag.com/2024/11/2025-andrew-carnegie-medals-shortlists/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/11/2025-andrew-carnegie-medals-shortlists/>
+
+---
+
+## Write On: 'A Real Pain' with Writer/Director Jesse Eisenberg
+
+date: 2024-11-15, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-a-real-pain-with-writer-director-and-star-jesse-eisenberg" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20A%20Real%20Pain%20%20Jesse%20Eisenberg.jpg" alt="Write On Podcast with 'A Real Pain' Writer, Director, and Star Jesse Eisenberg" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<div>
+  “What I wanted to do with this movie was take this interesting relationship that I have been exploring over the course of my writing, over 20 years, and this dynamic, and set it against the backdrop of something so objectively worse than anything the characters are going through. I wanted to put this funny, fraught relationship that seems like the stakes are quite high – are these two people going to continue on together? Against the backdrop of stakes that are so much higher, we can put their relationship into perspective,” says Jesse Eisenberg, writer/director and star of the new buddy movie 
+ <em>A Real Pain</em> that takes place on a holocaust tour of Poland. &nbsp; 
+ <br> 
+ <br>In this episode of the Write On podcast, Eisenberg talks about spending years trying to get this particular story just right, how it was personal to him, what it was like to shoot at a concentration camp and the great advice his producer Emma Stone gave him. He also shares his criteria for writing a road trip/buddy movie. 
+ <br> 
+ <br>“It has to have an original quality to justify it as a movie. I read so many scripts as an actor and I’ve written so many things, that [a script] has to have two things: it has to be specific enough to feel real and personal. There are just so many movies in this road trip/buddy movie genre, if it doesn’t feel specific I think an audience can sniff it out immediately. The other thing is to make it feel new, to have a new reason to tell this story so it doesn’t feel like something I’ve seen 10,000 other times,” says Eisenberg. &nbsp; &nbsp; 
+ <br> 
+ <br>Listen to the podcast to learn more.&nbsp; 
+</div> 
+<div> 
+ <br> 
+ <div> 
+  <div class="hs-embed-wrapper" style="position: relative; overflow: hidden; width: 100%; height: auto; padding: 0; max-width: 880px; min-width: 256px; display: block; margin: auto;"> 
+   <div class="hs-embed-content-wrapper"> 
+    <div style="position: relative; overflow: hidden; max-width: 100%; padding-bottom: 35%; margin: 0px;">  
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</div> 
+
+<br> 
+
+<https://blog.finaldraft.com/write-on-a-real-pain-with-writer-director-and-star-jesse-eisenberg>
+
+---
+
+## B&N Book of the Year Winners
+
+date: 2024-11-15, from: Locus Magazine
+
+<p><strong>James </strong>by Percival Everett (Knopf) is the winner of the Barnes and Noble Book of the Year 2024, and fantasy novel <strong>Impossible Creatures </strong>by Katherine Rundell (Random House Children&#8217;s Books) is the winner for Children&#8217;s Book of the Year.</p>
+<p>Shortlisted titles are nominated by Barnes and Noble booksellers. The winner was announced on November 15, 2024.</p>
+<p>For more, see the Barnes and Noble website.</p>
+
+<p><strong>While you are here,</strong> please take  <a href="https://locusmag.com/2024/11/bn-book-of-the-year-winners/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/11/bn-book-of-the-year-winners/>
+
+---
+
+## The City in Glass by Nghi Vo: Review by Liz Bourke
+
+date: 2024-11-15, from: Locus Magazine
+
+<p><strong>The City in Glass</strong>, Nghi Vo (Tordotcom 978-1-25037-682-4, 224pp, $24.99, hc) October 2024.</p>
+<p>Nghi Vo has a Hugo Award and a Crawford Award to her credit for <strong>The Empress of Salt and Fortune</strong>, the opening novella in the Singing Hills Cycle, as well as an Ignyte for <strong>Into the Riverlands</strong>. <strong>The City in Glass</strong>, her latest work – a short novel – is unrelated to her  <a href="https://locusmag.com/2024/11/the-city-in-glass-by-nghi-vo-review-by-liz-bourke/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/11/the-city-in-glass-by-nghi-vo-review-by-liz-bourke/>
+
+---
+
+## People & Publishing Roundup, November 2024
+
+date: 2024-11-15, from: Locus Magazine
+
+<div></div>
+<div class="catheader"><strong>MILESTONES</strong></div>
+
+<p><strong>ROY GRAHAM, K ARSE­NAULT RIVERA</strong>, and <strong>SASCHA STRONACH </strong>are now represent­ed by Arley Sorg of kt literary.</p>
+<p><strong>LAURA BLACKWELL </strong>is now represented by Jake Lovell of Sandra Dijkstra Literary Agency.</p>
+<div></div>
+<div class="catheader"><strong>AWARDS</strong></div>
+
+<p><strong>JOHN HORNOR JACOBS </strong>received the Heasley Prize for Fiction, presented October 22, 2024 at his alma mater, Lyon College in AR.</p>
+<div class="catheader"><strong>BOOKS SOLD</strong></div>
+
+<p><strong>TIM LEBBON </strong>sold folk horror novel <strong>Secret Lives of the Dead </strong>to Cath Trechman  <a href="https://locusmag.com/2024/11/people-publishing-roundup-november-2024/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/11/people-publishing-roundup-november-2024/>
 
 ---
 
@@ -580,4 +730,123 @@ date: 2024-11-10, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2024/11/the-ornithologists-field-guide-to-love-by-india-holton-review-by-colleen-mondor/>
+
+---
+
+## New this week
+
+date: 2024-11-09, from: IF Database News
+
+The team has been hard at work on improvements to IFDB.
+
+<p><ul>
+<li><a href="https://ifdb.org/news?item=150">Estimated Play Time (now searchable!)</a></li>
+<li><a href="https://ifdb.org/news?item=149">JSON APIs</a></li>
+<li><a href="https://ifdb.org/news?item=148">Removed Clubs</a></li>
+</ul></p> 
+
+<br> 
+
+<https://ifdb.org/news?item=151>
+
+---
+
+## Estimated Play Time (now searchable!)
+
+date: 2024-11-09, from: IF Database News
+
+You can now use the "Estimated Play Time" form on any game to submit a "vote" for how long it takes to finish the game.
+
+<ul>
+<li>Vote only if you've played the game.</li>
+<li>Vote on how long it would take to get to one final ending without hints or a walkthrough.</li>
+<li>Time spent away from the game doesn't count.</li>
+<li>Times don't need to be exact. Good-faith estimates are fine.</li></ul>
+
+<p>We'll display the median time vote near the top of that game's page.</p>
+
+<p>(EDIT: Nov 15) You can also search for games by play time using the new <b>playtime:</b> search filter. For example, here's <a href="https://ifdb.org/search?searchbar=playtime%3A6h-">a list of games that have an estimated play time of six hours or more</a>.</p>
+
+<p><b>playtime:<i>minimum-maximum</i></b> lists games with an estimated 
+          play time in the given range. After each number, use <b>h</b> for hours 
+          or <b>m</b> for minutes. For example, <b>playtime:2h15m-3h</b> shows games 
+          with an estimated play time of anywhere from 2 hours and 15 minutes to 3 
+          hours. Hours may include decimals (for example, <b>3.5h</b>). 
+          <b>playtime:1.5h-</b> lists games with an estimated play time of at least 1 
+          and a half hours. <b>playtime:-45m</b> lists games with an estimated play time 
+          of 45 minutes or less. <b>playtime:1h</b> searches for games with an 
+          estimated play time of 1 hour. <b>playtime:</b> with no text after it searches 
+          for games with no estimated play time.
+
+
+
+       </p>
+
+<p><b>This feature is very, very new.</b> We've got a lot of <a href="https://github.com/iftechfoundation/ifdb/issues?q=is%3Aissue+is%3Aopen+label%3A%22estimated+play+time%22">ideas for improvements</a>, and we've got a <a href="https://intfiction.org/t/ifdb-what-are-your-thoughts-about-a-field-for-length-of-time/72064/27?u=dfabulich">public discussion going on the intfiction.org forum</a>.</p> 
+
+<br> 
+
+<https://ifdb.org/news?item=150>
+
+---
+
+## JSON APIs
+
+date: 2024-11-09, from: IF Database News
+
+Most of our <a href="https://ifdb.org/api/">IFDB API</a> endpoints now support JSON.
+
+<ul>
+    <li>You can <a href="https://ifdb.org/api/search">search for games</a> and get JSON results</li>
+    <li>You can <a href="https://ifdb.org/api/viewgame">view an individual game</a> and get JSON results (now including tags and complete, unstripped HTML!)</li>
+    <li>You can <a href="https://ifdb.org/api/taggame">tag games</a> by posting a JSON array of tags</li>
+</ul>
+
+<p>All of the old APIs still work in XML mode, but <b>JSON is the preferred format for all new code.</b> (The API to add/edit games is still XML-only, for now.)</p>
+
+<p>In addition, we deprecated the <a href="https://ifdb.org/api/gametags">gametags API</a>. You can view tags on an individual game with the <a href="https://ifdb.org/api/viewgame">viewgame API</a>, or view your own tags with the <a href="https://ifdb.org/api/search">search API</a>, like this:</p>
+
+<p><code>https://ifdb.org/search?json&tag&searchfor=tuid:<i>xxx</i>+mine:yes</code></p> 
+
+<br> 
+
+<https://ifdb.org/news?item=149>
+
+---
+
+## Removed Clubs
+
+date: 2024-11-09, from: IF Database News
+
+The IFDB "clubs" feature has been removed. Nobody was using the feature, partly because <a href="https://github.com/iftechfoundation/ifdb/issues/950">clubs didn't do very much</a>. 
+
+<br> 
+
+<https://ifdb.org/news?item=148>
+
+---
+
+## SF in Japan
+
+date: 2024-11-09, from: Locus Magazine
+
+<p class="subhead" xml:lang="en-us"></p>
+<p class="normal" xml:lang="en-us">In my previous article on Japanese science fiction, published in Locus in 2016, I likened my experience of living in Japan to Urashima Taro’s rise from his present world (eighth century) to the world of the future, with its fast-forward jumble of pop-culture iconography. This sense of Japan and its current state in science fiction is even more relevant in the wake of COVID, as these changes have only accelerated.  <a href="https://locusmag.com/2024/11/sf-in-japan/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/11/sf-in-japan/>
+
+---
+
+## Kree by Manuela Draeger: Review by Jake Casella Brookins
+
+date: 2024-11-09, from: Locus Magazine
+
+<p><strong>Kree</strong>, Manuela Draeger (University of Min­nesota Press 978-1-51791-512-4, $21.95, 280pp, tp) October 2024.</p>
+<p>Manuela Draeger’s <strong>Kree </strong>is so immedi­ately violent that I wasn’t sure it was going to be for me. Somehow, though, within just a few chapters, the novel’s mix of haunting imagery and almost humorous un­predictability grew so compelling that I found myself wanting to track down everything else the author has written. A midapocalyptic story set  <a href="https://locusmag.com/2024/11/kree-by-manuela-draeger-review-by-jake-casella-brookins/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/11/kree-by-manuela-draeger-review-by-jake-casella-brookins/>
 

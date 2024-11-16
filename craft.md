@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2024-11-15 07:10:18
+updated: 2024-11-16 09:07:02
 ---
 
 # craft
 
-(date: 2024-11-15 07:10:18)
+(date: 2024-11-16 09:07:02)
+
+---
+
+## New to Maiwa! Mumbai Block Printed Bedding — The Best of Artisan Cloth
+
+date: 2024-11-15, updated: 2024-11-15, from: Maiwa blog (weaving and textiles)
+
+ 
+
+<br> 
+
+<https://maiwahandprints.blogspot.com/2024/11/new-to-maiwa-mumbai-block-printed.html>
 
 ---
 

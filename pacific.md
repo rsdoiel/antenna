@@ -1,11 +1,61 @@
 ---
 title: pacific
-updated: 2024-11-15 07:10:14
+updated: 2024-11-16 09:06:58
 ---
 
 # pacific
 
-(date: 2024-11-15 07:10:14)
+(date: 2024-11-16 09:06:58)
+
+---
+
+## UH program expands genomics education for diverse Hawaiʻi students
+
+date: 2024-11-15, from: University of Hawaiʻi News
+
+<p>The new program is aimed to develop a diverse pipeline of talent equipped with cutting-edge skills in genomics research.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/15/genomics-ed-program-launched/"><abbr>UH</abbr> program expands genomics education for diverse Hawaiʻi students</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/15/genomics-ed-program-launched/>
+
+---
+
+## UH researchers help protect 5 Hawaiʻi national parks
+
+date: 2024-11-15, from: University of Hawaiʻi News
+
+<p>Ryan Perroy and Seth Quintus received a $1.15 million grant from the National Park Service to complete the study.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/15/uh-researchers-protect-hawaii-national-parks/"><abbr>UH</abbr> researchers help protect 5 Hawaiʻi national parks</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/15/uh-researchers-protect-hawaii-national-parks/>
+
+---
+
+## New Technology Provides Hope for Patient with AFib
+
+date: 2024-11-15, updated: 2024-11-15, from: Marianas Variety
+
+(BPT) - Sponsored by Boston Scientific 
+
+<br> 
+
+<https://www.mvariety.com/online_features/senior_living/new-technology-provides-hope-for-patient-with-afib/article_4b239b90-8da0-5bf4-9578-c926b7584197.html>
+
+---
+
+## 4 cookbooks to inspire your holiday meals
+
+date: 2024-11-15, updated: 2024-11-15, from: Marianas Variety
+
+(BPT) - Cooking is so much more than just heating up something for dinner. It's about feeding your family, gathering in the kitchen while sauces are simmering and talking about the day, and showing love through the meals we make for the people we hold dear. On holidays, all of that is taken up a notch! Many of us grew up with favorite holiday dishes passed from grandmothers on down. But holiday cooking is also about making new traditions. Why not try something new this year? 
+
+<br> 
+
+<https://www.mvariety.com/online_features/senior_living/4-cookbooks-to-inspire-your-holiday-meals/article_e42ff612-a090-5d69-9c14-a29650c0bd87.html>
 
 ---
 
@@ -202,6 +252,20 @@ date: 2024-11-15, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2024/11/15/community/hichc-hosts-health-care-career-expo/>
+
+---
+
+## Residents asked to prepare for power, water shutdowns amidst Red Flag Warning
+
+date: 2024-11-15, from: Hawaii Tribune Harold
+
+
+				<p>Hawaiian Electric customers on the Big Island are advised to prepare for potential power and water shutdowns today as wildfire risk runs high on the island.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/15/hawaii-news/residents-asked-to-prepare-for-power-water-shutdowns-amidst-red-flag-warning/>
 
 ---
 
@@ -467,6 +531,18 @@ By Mar-Vic Cagurangan Guam can execute between $4 billion and $5 billion worth o
 
 ---
 
+## SunBriteTV Celebrates 20th Anniversary With Remarkable Holiday Savings
+
+date: 2024-11-14, updated: 2024-11-14, from: Marianas Variety
+
+(BPT) - SunBriteTV, creators of the world’s first all-weather TV for outdoor use, celebrates its 20th anniversary this November. To commemorate delivering a safe, worry-free entertainment experience for two decades, SunBrite is offering world-class savings this winter. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/tech_talk_and_innovation/sunbritetv-celebrates-20th-anniversary-with-remarkable-holiday-savings/article_50733016-2923-59e4-88ae-91bcd598c817.html>
+
+---
+
 ## Ethnomusicology pioneer receives Korean presidential award
 
 date: 2024-11-14, from: University of Hawaiʻi News
@@ -494,6 +570,18 @@ date: 2024-11-14, from: Marshal Islands Journal
 
 ---
 
+## 3 reasons why your business should ditch paper checks
+
+date: 2024-11-14, updated: 2024-11-16, from: Marianas Variety
+
+(BPT) - By Mary Kay Bowman, EVP, GM of Payments and Financial Services at BILL 
+
+<br> 
+
+<https://www.mvariety.com/online_features/tech_talk_and_innovation/3-reasons-why-your-business-should-ditch-paper-checks/article_59f53bbe-a65e-5ff8-81e1-635d79b81e75.html>
+
+---
+
 ## UH Alumni 13 of PBN 40 Under 40 honorees
 
 date: 2024-11-14, from: University of Hawaiʻi News
@@ -504,6 +592,18 @@ The post <a href="https://www.hawaii.edu/news/2024/11/14/alumni-pbn-40-under-40/
 <br> 
 
 <https://www.hawaii.edu/news/2024/11/14/alumni-pbn-40-under-40/>
+
+---
+
+## Move Over Santa: Carter’s S’Auntie Claus Chloe Bailey Has Every Carter's Kid on Her Nice List
+
+date: 2024-11-14, updated: 2024-11-16, from: Marianas Variety
+
+(BPT) - This season we’re teaming up with singer and actress Chloe Bailey to fulfill some ultimate holiday wish lists. Drop your child's letter to S’Auntie Claus here now through November 29, and, while you wait, shop holiday picks from all four of our brands. (Psst ... share your gift list with your favorite gift-givers, too!) 
+
+<br> 
+
+<https://www.mvariety.com/online_features/fashion_beauty_fitness/move-over-santa-carter-s-s-auntie-claus-chloe-bailey-has-every-carters-kid-on/article_f9572ef4-be08-543b-817b-804fcf097e0e.html>
 
 ---
 
@@ -952,7 +1052,7 @@ By Ron Rocky Coloma     A groundbreaking study conducted by Dynamic Planet and
 
 ---
 
-## Scientists Discover World’s Largest Coral in the Solomon Islands
+## Scientists discover world’s largest Coral in the Solomon Islands
 
 date: 2024-11-14, from: Pacific Island Times
 
@@ -2484,4 +2584,271 @@ The post <a href="https://www.hawaii.edu/news/2024/11/09/math-students-launch-ge
 <br> 
 
 <https://www.hawaii.edu/news/2024/11/09/math-students-launch-genki-balls/>
+
+---
+
+## Sports’ highs and lows 
+
+date: 2024-11-09, from: Pacific Island Times
+
+Bridgman, MI -- Ever since I was a kid, growing up in Holly, Michigan, baseball has meant the world to me.  During the lazy days of... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/sports-highs-and-lows>
+
+---
+
+## Cil, a great gift to the world
+
+date: 2024-11-09, from: Pacific Island Times
+
+We know that life is fleeting. We know death can knock any time. But when it does so unexpectedly, we are knocked off our feet. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/cil-a-great-gift-to-the-world>
+
+---
+
+## Be kind to yourself and other life hacks
+
+date: 2024-11-09, from: Pacific Island Times
+
+Manila—Be kind to yourself. The world is cruel enough. Of the dozens of life hacks that I read about almost daily, my favorite is the one... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/be-kind-to-yourself-and-other-life-hacks>
+
+---
+
+## Alameda names managing director, deputy managing director
+
+date: 2024-11-09, from: Hawaii Tribune Harold
+
+
+				<p>Mayor-elect Kimo Alameda has selected Bill Brilhante as managing director and Merrick Nishimoto as deputy managing director following his win in the Nov. 5 general election.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/09/hawaii-news/alameda-names-managing-director-deputy-managing-director/>
+
+---
+
+## Trump weighs key personnel choices, schooled by his first-term experience
+
+date: 2024-11-09, from: Hawaii Tribune Harold
+
+
+				<p>President-elect Donald Trump is not known for adherence to a disciplined and rigorous personnel selection process, but behind the scenes, his advisers and allies have been preparing lists of candidates for the most important jobs in his administration.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/trump-weighs-key-personnel-choices-schooled-by-his-first-term-experience/>
+
+---
+
+## With Trump tariffs looming, businesses try to ‘run from a moving target’
+
+date: 2024-11-09, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Rick Muskat woke up the morning after the election with an urgent task. He got his agent in China on the phone at 4:30 a.m. Beijing time and pressed him to ask their factory how many more pairs of men&#8217;s dress shoes they could make before Chinese New Year, at the end of January.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/with-trump-tariffs-looming-businesses-try-to-run-from-a-moving-target/>
+
+---
+
+## US: Iranian agents plotted to kill Trump
+
+date: 2024-11-09, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Federal prosecutors in Manhattan said Friday that Iranian plotters had discussed a plan to assassinate Donald Trump before he was reelected as president this week.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/us-iranian-agents-plotted-to-kill-trump/>
+
+---
+
+## Residents return to find homes reduced to rubble after California fire
+
+date: 2024-11-09, from: Hawaii Tribune Harold
+
+
+				<p>In the city of Camarillo, California, on Old Coach Drive, the smell of smoke lay heavy in the air. The fire that erupted this week had hopscotched around the neighborhood, leaving some homes relatively unscathed but reducing several to charred piles of wood and rubble.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/residents-return-to-find-homes-reduced-to-rubble-after-california-fire/>
+
+---
+
+## China reveals $1.4 trillion plan to bail out local governments
+
+date: 2024-11-09, from: Hawaii Tribune Harold
+
+
+				<p>TAIPEI, Taiwan &#8212; The Chinese government on Friday approved a $1.4 trillion plan to revive the economy, authorizing local governments to refinance crushing debts that have left some cities unable to pay their bills.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/china-reveals-1-4-trillion-plan-to-bail-out-local-governments/>
+
+---
+
+## Antisemitic attacks prompt emergency flights for Israeli soccer fans
+
+date: 2024-11-09, from: Hawaii Tribune Harold
+
+
+				<p>Authorities in Amsterdam on Friday were investigating what they called antisemitic attacks on Israeli soccer fans that took place amid a charged atmosphere surrounding a soccer match involving a visiting Israeli team.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/antisemitic-attacks-prompt-emergency-flights-for-israeli-soccer-fans/>
+
+---
+
+## Wave of racist texts after election prompts FBI scrutiny
+
+date: 2024-11-09, from: Hawaii Tribune Harold
+
+
+				<p>A wave of racist text messages summoning Black people to report for slavery showed up on phones across the United States, prompting the scrutiny of the FBI.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/wave-of-racist-texts-after-election-prompts-fbi-scrutiny/>
+
+---
+
+## Beyoncé, young pop sensations lead 2025 Grammy nominees
+
+date: 2024-11-09, from: Hawaii Tribune Harold
+
+
+				<p>Beyonc&#233; and Taylor Swift will face off in all top categories at the 67th annual Grammy Awards, leading a pack of nominees that also features buzzy young female stars who have dominated the pop charts over the past year.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/beyonce-young-pop-sensations-lead-2025-grammy-nominees/>
+
+---
+
+## Painting by AI-powered robot sells for $1.1 million
+
+date: 2024-11-09, from: Hawaii Tribune Harold
+
+
+				<p>A portrait of British mathematician Alan Turing sold at auction for nearly $1.1 million Thursday, a surprisingly large sum for a painting whose creator wasn&#8217;t an artist in the traditional sense, but rather a humanoid robot powered by artificial intelligence.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/painting-by-ai-powered-robot-sells-for-1-1-million/>
+
+---
+
+## India drops 36-year ban on Rushdie book, saying it can’t find the order
+
+date: 2024-11-09, from: Hawaii Tribune Harold
+
+
+				<p>Before the Iranian fatwa condemning the writer to death, before all the protests and burnings of his book and before the stabbing death of his translator, there was India&#8217;s customs notification No. 405/12/88-CUS-III.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/india-drops-36-year-ban-on-rushdie-book-saying-it-cant-find-the-order/>
+
+---
+
+## Where there’s joy in a terror bird
+
+date: 2024-11-09, from: Hawaii Tribune Harold
+
+
+				<p>HUILA, Colombia &#8212; C&#0233;sar Perdomo&#8217;s small paleontological museum, La Tormenta, is a work in progress. A bare cement structure built on a windswept platform in the Tatacoa Desert, it offers a panoramic view of shallow, craggy canyons carved from soft mudstone.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/where-theres-joy-in-a-terror-bird/>
+
+---
+
+## Fossil reveals oldest known tadpole that grew to the size of a hot dog
+
+date: 2024-11-09, from: Hawaii Tribune Harold
+
+
+				<p>The metamorphosis of a frog from baby to adult is one of nature&#8217;s most remarkable transformations. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/fossil-reveals-oldest-known-tadpole-that-grew-to-the-size-of-a-hot-dog/>
+
+---
+
+## Neglect and disrespect: Whatever happened to Tony Ramirez’s and Tony Palomo’s vision for ancestral remains
+
+date: 2024-11-09, from: Pacific Island Times
+
+New Brunswick — The recent Pacific Island Times article (August 2024) by Ron Rocky Coloma, “Piled in Shoe Boxes, Shoved into a Storage... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/neglect-and-disrespect-whatever-happened-to-tony-ramirez-s-and-tony-palomo-s-vision-for-ancestral-r>
+
+---
+
+##  Deport Air program: It’s a fair deal
+
+date: 2024-11-09, from: Pacific Island Times
+
+When rearing its ugly head, it's finally okay for me to say, “It's not really discrimination.” I’m talking about the deportation of... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/deport-air-program-it-s-a-fair-deal>
+
+---
+
+## Philippine ambassador drums up Filipino workers' interest in Guam jobs
+
+date: 2024-11-09, from: Pacific Island Times
+
+By Jinky Jorgio   Manila —Philippine Ambassador Jose Manuel Romualdez urged Filipino workers to explore the thousands of job... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/philippine-ambassador-drums-up-filipino-workers-interest-in-guam-jobs>
+
+---
+
+## UH astronomers, students: Hands-on science fun in Kona
+
+date: 2024-11-09, from: University of Hawaiʻi News
+
+<p>The free event featured hands-on demonstrations and displays related to astronomy, robotics and natural sciences.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/08/uh-astronomers-students-science-fun-in-kona/"><abbr>UH</abbr> astronomers, students: Hands-on science fun in Kona</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/08/uh-astronomers-students-science-fun-in-kona/>
 

@@ -1,11 +1,316 @@
 ---
 title: columns
-updated: 2024-11-15 07:10:15
+updated: 2024-11-16 09:06:59
 ---
 
 # columns
 
-(date: 2024-11-15 07:10:15)
+(date: 2024-11-16 09:06:59)
+
+---
+
+##  Haymarket Books is giving away 10 free ebooks that meet this moment... 
+
+date: 2024-11-15, updated: 2024-11-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045654-haymarket-books-is-giving>
+
+---
+
+## Going Local With Open Networks
+
+date: 2024-11-15, from: Doc Searls (at Harvard), New Old Blog
+
+If you&#8217;re tired of moaning (or celebrating) the after-effects of the U.S. election, or how all of us seem trapped inside the captive markets of Amazon, Apple, Alphabet, Microsoft, Meta, and other feudal powers, take in a talk about something constructive that&#8217;s nowhere near any of that, but serves as a model for economies and [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2024/11/15/going-local-with-open-networks/>
+
+---
+
+## Friday Squid Blogging: Female Gonatus Onyx Squid Carrying Her Eggs
+
+date: 2024-11-15, updated: 2024-11-07, from: Bruce Schneier blog
+
+<p>Fantastic <a href="https://boingboing.net/2024/11/01/this-squid-swimming-with-her-undulating-egg-sack-is-a-sight-to-behold.html">video</a> of a female <i>Gonatus onyx</i> squid swimming while carrying her egg sack.</p>
+<p>An <a href="https://www.schneier.com/blog/archives/2024/01/friday-squid-blogging-footage-of-black-eyed-squid-brooding-her-eggs.html">earlier related post</a>.</p>
+<p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/11/friday-squid-blogging-female-gonatus-onyx-squid-carrying-her-eggs.html>
+
+---
+
+##  Jason Koebler at 404 Media: The Great Migration to Bluesky Gives Me... 
+
+date: 2024-11-15, updated: 2024-11-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045653-jason-koebler-at-404-medi>
+
+---
+
+## November 14, 2024
+
+date: 2024-11-15, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/151721911/6cb005d498e732a3c751318508568651.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/151721911/6cb005d498e732a3c751318508568651.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/november-14-2024-d4f>
+
+---
+
+##  This is an astute observation about the conservative sense of permanent resentment:... 
+
+date: 2024-11-15, updated: 2024-11-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045652-this-is-a-canny-observati>
+
+---
+
+## 2024-11-15 Episode 52
+
+date: 2024-11-15, from: Alex Schroeder's Blog
+
+<h1 id="2024-11-15-episode-52">2024-11-15 Episode 52</h1>
+
+<p>In this episode I talk about the two-headed Ettin!</p>
+
+<p><a href="/podcast/52-halberds-and-helmets.mp3">52-halberds-and-helmets.mp3</a></p>
+
+<p>Links:</p>
+
+<ul>
+<li>&ldquo;Fighting machines of <em>death by club</em>. Sometimes the bickering heads can provide for an interesting conversation. … Ettins are one of the monsters that can be found outside of small villages. I felt they made an excellent monster for a campaign start: probably easy to avoid, easy to placate, but always an annoyance and eventually an opportunity for payback.&rdquo; – <a href="2016-11-02_Ettin">2016-11-02 Ettin</a></li>
+<li><a href="Halberds_and_Helmets">Halberds and Helmets</a>: my homebrew rules with links to the PDF files</li>
+</ul>
+
+<p><a class="tag" href="/search/?q=%23Halberds_and_Helmets_Podcast">#Halberds and Helmets Podcast</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2024-11-15-episode-52>
+
+---
+
+## 2024-11-15 Episode 51
+
+date: 2024-11-15, from: Alex Schroeder's Blog
+
+<h1 id="2024-11-15-episode-51">2024-11-15 Episode 51</h1>
+
+<p>I wanted to talk about Halberds &amp; Helmets but I ended up talking about 2d6 systems and how to model armour and shields. Oh no!</p>
+
+<p>It seems to me that I keep coming back to this because I want something out of it and I&rsquo;m not getting it and I&rsquo;m also not getting any closer.</p>
+
+<p><a href="/podcast/51-halberds-and-helmets.mp3">51-halberds-and-helmets.mp3</a></p>
+
+<p>Links:</p>
+
+<ul>
+<li><a href="Halberds_and_Helmets">Halberds and Helmets</a>, based on <em>Labyrinth Lord</em>, an old school fantasy RPG</li>
+<li><a href="Halberts">Halberts</a> &amp; <a href="Knives">Knives</a>, my minimal 2d6-based Fantasy Traveller games based on the German <em>Helmbarten</em></li>
+<li><a href="2022-02-10_No_armour_in_Helmbarten!">2022-02-10 No armour in Helmbarten!</a>, where I argue that Helmbarten has no armour at all</li>
+<li><a href="2019-03-19_Metal_Armour">2019-03-19 Metal Armour</a>, where I discuss other benefits of armour for Halberds &amp; Helmets</li>
+</ul>
+
+<p><a class="tag" href="/search/?q=%23Halberds_and_Helmets_Podcast">#Halberds and Helmets Podcast</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2024-11-15-episode-51>
+
+---
+
+##  Scientists have found an individual coral colony that&#8217;s large enough to be... 
+
+date: 2024-11-15, updated: 2024-11-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045648-scientists-have-found-an->
+
+---
+
+##  Let&#8217;s Build a Massive Meta McDonald&#8217;s in Times Square 
+
+date: 2024-11-15, updated: 2024-11-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/lets-build-a-massive-meta-mcdonalds-in-times-square-1>
+
+---
+
+##  You&#8217;ll soon be able to watch your local PBS station & PBS... 
+
+date: 2024-11-15, updated: 2024-11-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045646-youll-soon-be-able-to>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-15, from: Dave Winer's Scripting News)
+
+Today's song: <a href="https://www.youtube.com/watch?v=1PhAaYuY1NY">Tea for two and two for tea</a>. 
+
+<br> 
+
+<http://scripting.com/2024/11/15.html#a182100>
+
+---
+
+##  &#8220;&#8230;trans posters were the earliest adopters of Bluesky and were able to... 
+
+date: 2024-11-15, updated: 2024-11-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045647-trans-posters-were-the-ea>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-15, from: Dave Winer's Scripting News)
+
+When I was a boy my mother would sometimes say if I didn't stop belching I wouldn't be able to stop. 
+
+<br> 
+
+<http://scripting.com/2024/11/15.html#a181717>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-15, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/11/15/idiocracy.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Why Repubs won? They campaigned in a new way that the Dems apparently didn't notice (neither did I, not claiming to be better). Repubs were more creative and improvisational. They didn't worry what Jake Tapper or Ezra Klein would think, so came off as more genuine. It's a TV show, acting and <a href="https://en.wikipedia.org/wiki/Suspension_of_disbelief">suspension of disbelief</a> are what count. It has nothing to do with anything else. Sorry it has to be that way but that's how it is. I don't think they hate women btw, they would have voted for <a href="https://en.wikipedia.org/wiki/Roseanne_Barr">Roseanne Barr</a> or <a href="https://en.wikipedia.org/wiki/Melissa_McCarthy">Melissa McCarthy</a>. Maybe <a href="https://en.wikipedia.org/wiki/Chris_Rock">Chris Rock</a>, they probably would have <i>really</i> liked <a href="https://en.wikipedia.org/wiki/Will_Smith">Will Smith</a>. <a href="https://en.wikipedia.org/wiki/Idiocracy">Idiocracy</a> was incredibly <a href="https://www.google.com/search?q=prescient">prescient</a>. No joke. 
+
+<br> 
+
+<http://scripting.com/2024/11/15.html#a180939>
+
+---
+
+##  Today&#8217;s Google Doodle is a celebration of the kayak, illustrated by Inuit... 
+
+date: 2024-11-15, updated: 2024-11-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045645-todays-google-doodle-is-a>
+
+---
+
+## Photoshop FOSS alternative GNU Image Manipulation Program 3.0 nearly here
+
+date: 2024-11-15, updated: 2024-11-15, from: Liam Proven's articles at the Register
+
+<h4>Nearly 21 years since version 2.0</h4>
+      <p>Version 3.0 of the GNU Image Manipulation Program (GIMP) is nearly ready for release. It has important new and long-awaited abilities – and you can try it now.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/11/15/gimp_30_release/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-15, from: Dave Winer's Scripting News)
+
+I predict that people will come to appreciate features that Mastodon has that the other twitter-like social web services don't. 
+
+<br> 
+
+<http://scripting.com/2024/11/15.html#a170136>
+
+---
+
+##  Might As Well Face It, You&#8217;re Addicted to Running 
+
+date: 2024-11-15, updated: 2024-11-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/might-as-well-face-it-youre-addicted-to-running>
+
+---
+
+## ‘Here’s Why I Decided to Buy “InfoWars”’
+
+date: 2024-11-15, updated: 2024-11-15, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://theonion.com/heres-why-i-decided-to-buy-infowars/>
+
+---
+
+## LXQt packs Wayland punch with 2.1 release
+
+date: 2024-11-15, updated: 2024-11-15, from: Liam Proven's articles at the Register
+
+<h4>The lightest mainstream Linux desktop joins the tiny handful that support X.org replacement</h4>
+      <p>LXQt 2.1 is the latest release of the lightweight Qt-based desktop used in Lubuntu – but this version has a significant edge over its rivals.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/11/15/lxqt_21/>
+
+---
+
+##  A report from the American Immigration Council on Trump&#8217;s mass deportation plan.... 
+
+date: 2024-11-15, updated: 2024-11-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045642-a-report-from-the-america>
+
+---
+
+##  Fake Bear Commits Insurance Fraud 
+
+date: 2024-11-15, updated: 2024-11-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/fake-bear-commits-insurance-fraud>
 
 ---
 
@@ -19,7 +324,7 @@ date: 2024-11-15, from: Jeff Geerling blog
 
 <p>After <em>years</em> of work among a bunch of people in the Pi community (special callout to Coreforge!), we finally have multiple generations of AMD graphics cards working on the Raspberry Pi 5.</p>
 
-<p>We <a href="TODO">recently got Polaris-era GPUs working</a> (like the RX460), but in the past month we've gotten 6000 and 7000-series GPUs up and running. And many parts of the driver work at full performance—well, as much as can be had on the Raspberry Pi's single PCIe Gen 3 lane (8 GT/sec)!</p>
+<p>We <a href="https://www.jeffgeerling.com/blog/2024/use-external-gpu-on-raspberry-pi-5-4k-gaming">recently got Polaris-era GPUs working</a> (like the RX460), but in the past month we've gotten 6000 and 7000-series GPUs up and running. And many parts of the driver work at full performance—well, as much as can be had on the Raspberry Pi's single PCIe Gen 3 lane (8 GT/sec)!</p>
 
 <p>I've been testing tons of modern AAA games, like Doom Eternal and Crysis Remastered, and can get 10-15 fps at 4K with Ray Tracing on, or 15-20 fps at 4K. Dropping down to 1080p is not enough to overcome the Pi's CPU bottleneck—only at resolutions under 720p does the Pi's CPU and the single PCIe lane not seem to get in the way <em>quite</em> as much.</p></div>
       <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
@@ -1639,4 +1944,215 @@ date: 2024-11-10, from: Heather Cox Richardson blog
 <br> 
 
 <https://heathercoxrichardson.substack.com/p/november-9-2024>
+
+---
+
+## 2024-11-06 What a nightmare
+
+date: 2024-11-09, from: Alex Schroeder's Blog
+
+<h1 id="2024-11-06-what-a-nightmare">2024-11-06 What a nightmare</h1>
+
+<p>I really hoped that I wouldn&rsquo;t have to extend the link list on Trump I started <a href="2016-11-14_Trump">back in 2016</a> because I didn&rsquo;t understand how he could win.</p>
+
+<p>Then again, I also didn&rsquo;t understand why Bush got re-elected.
+I just read a 20 year old blog post of mine: <a href="2004-11-09_USA">2004-11-09 USA</a> where I was grappling with it.</p>
+
+<p>Trump is truly a setback for my <a href="priorities">priorities</a>.</p>
+
+<p>Fuck this timeline.</p>
+
+<p><a class="account" href="https://mstdn.social/@mattwilcox" title="@mattwilcox@mstdn.social">@mattwilcox</a> said it best:</p>
+
+<blockquote>
+<p>Fascism is the inevitable result of a society with large imbalances of personal security. Which in a capitalist society means large imbalances of wealth.</p>
+
+<p>If your society allows some people to be mega secure and untouchable, while also allowing large portions of it to feel very insecure&hellip; you will become a fascist society, eventually.</p>
+
+<p>Do not allow this. Do not allow excessive wealth stratification. It. will. Destroy. Your. Civilisation.</p>
+</blockquote>
+
+<p>The best defence against many divisive issues is to solve them.
+To leave festering wounds invites further prodding by the troll armies.
+Start small but start early, because soon the prodders are in power, prodding ever harder until it all falls apart.</p>
+
+<p>Remember that these days, all dictators are voted in.
+The elections may be a farce, but it&rsquo;s always a legal farce.
+The people in power may be the most corrupt criminals but ever and always they are the ones fighting corruption.
+It&rsquo;s just that the corruption of their enemies is always uncovered and punished whereas their own is hidden in plain sight, know to all.</p>
+
+<p>Look around at the countries around you.
+Erdoğan is still in power.
+Putin is still in power.
+Dictatorships may end eventually, but they take a fucking long time to fall.
+If it takes forty years, I won&rsquo;t be around to see it.
+It&rsquo;s hard to wait them out.</p>
+
+<p>If you meet somebody thinking about a civil war with armed militia doing this or that, I&rsquo;d say forget about all of that.
+In the real world, revolts that are not decisive inevitably lead to warlordism.
+Organised armed forces will shoot all the wanna-be resistance to bits.
+The police will beat the unarmed resistances into submission.</p>
+
+<p>I take solace in the fact that when Stalin was dying and calling for help in his office, the attendants just didn&rsquo;t listen.
+They didn&rsquo;t open the door and the fucker died alone.</p>
+
+<p><a class="tag" href="/search/?q=%23USA">#USA</a> <a class="tag" href="/search/?q=%23Politics">#Politics</a> <a class="tag" href="/search/?q=%23Trump">#Trump</a></p>
+
+<p><strong>2024-11-10</strong>. I need a place to link to <a class="account" href="https://hachyderm.io/@mekkaokereke" title="@mekkaokereke@hachyderm.io">@mekkaokereke</a> – it’s where I learn about black America. If you don’t know, start with his <a href="https://hachyderm.io/@mekkaokereke/111856915139042511">Black History Month megathread</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2024-11-06-nightmare>
+
+---
+
+## Bombs, books and generative AI: a blunt and obvious parable
+
+date: 2024-11-09, from: Shady Characters blog
+
+<p class="post-meta">
+I know, I know; these days, everyone and their five-legged, three-eyed dog is writing a piece about <abbr class="initialism">AI</abbr>. I can’t promise that this one will be more insightful or educational than any of the others, but I <em>can</em> promise that it will invoke humanity’s undimmable hubris, the atomic bomb, mad cow disease, and, to keep us on brand, books.</p><a class="more-link" href="https://shadycharacters.co.uk/2024/11/bombs-books-and-ai/">Read more →</a> 
+
+<br> 
+
+<https://shadycharacters.co.uk/2024/11/bombs-books-and-ai/>
+
+---
+
+## Future of AR is in Your Ears
+
+date: 2024-11-09, from: Om Malik blog
+
+Dennis Crowley&#160;has built his career at the intersection of emerging technologies and human behavior. Twenty years ago, as a 25-year-old inspired by Harry Potter&#8217;s Marauder&#8217;s Map, he created Dodgeball—turning text messaging into a way for friends to find each other in the city. When the iPhone emerged, he launched Foursquare, riding the convergence of GPS, &#8230; 
+
+<br> 
+
+<https://om.co/2024/11/09/future-of-ar-is-in-your-ears/>
+
+---
+
+## ChatGPT image of my life
+
+date: 2024-11-09, from: Dave Winer's Scripting News
+
+<p>I asked ChatGPT: "Based on what you know about me, draw a picture of what you think my current life looks like."</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/11/09/myLifeAsViewedByChatGPT.png"></center>Dave's life as imagined by ChatGPT.</div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2024/11/09/174937.html?title=chatgptImageOfMyLife>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-09, from: Dave Winer's Scripting News)
+
+I'd like to hear from tech vendors, asap, which ones will help American voters learn what's true independent of whatever "truth" the government wants us to believe? Who will stand with the people? A good question for all of us to ask. Ask news orgs the same question. 
+
+<br> 
+
+<http://scripting.com/2024/11/09.html#a174419>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-09, from: Dave Winer's Scripting News)
+
+I see they have a piece about the "Manosphere." <b>Stop blaming men</b>. Lose that habit now. It's toxic. 
+
+<br> 
+
+<http://scripting.com/2024/11/09.html#a150308>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-09, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/05/21/thinkUsa.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">It's worth listening to <a href="https://www.wnycstudios.org/podcasts/otm/articles/the-manosphere-celebrates-a-win-plus-m-gessen-on-how-to-survive-an-autocracy">On The Media</a>, interview with <a href="https://en.wikipedia.org/wiki/Masha_Gessen">Masha Gassen</a>, saying that the authoritarian government will want to define what's true and not. Since we now understand that most of the information flow now goes around the NYT, CNN etc -- even Fox, and largely through social web and podcasts, if that's where we're all getting our news from, and btw MSNBC are already pretty well limited in what they'll tell us (this was our beef with NYT if you recall) -- the next step is to make it impossible for us to hear what each other are saying. Now is the time to plant seeds for a defense of our speech and communication later. 
+
+<br> 
+
+<http://scripting.com/2024/11/09.html#a145637>
+
+---
+
+## New microblog with TILs
+
+date: 2024-11-09, updated: 2024-11-09, from: Julia Evans blog
+
+ 
+
+<br> 
+
+<https://jvns.ca/blog/2024/11/09/new-microblog/>
+
+---
+
+## What do we do now? | The Coffee Klatch, November 9, 2024 
+
+date: 2024-11-09, from: Robert Reich's blog
+
+With Heather Lofthouse, Michael Lahanas-Calder&#243;n, and Yours Truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/151394978/64ca204c9dcf2345a4366075d30fcf0e.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/151394978/64ca204c9dcf2345a4366075d30fcf0e.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/what-do-we-do-now-the-coffee-klatch>
+
+---
+
+## November 8, 2024
+
+date: 2024-11-09, from: Heather Cox Richardson blog
+
+Social media has been flooded today with stories of Trump voters who are shocked to learn that tariffs will raise consumer prices as reporters are covering that information. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/november-8-2024>
+
+---
+
+## ★ How It Went
+
+date: 2024-11-09, updated: 2024-11-11, from: Daring Fireball
+
+Election day, 2024. 
+
+<br> 
+
+<https://daringfireball.net/2024/11/how_it_went>
+
+---
+
+## Why Raspberry Pi for an SBC guy
+
+date: 2024-11-09, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Why Raspberry Pi for an SBC guy</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/armsom-bpi-sige7-purple-case.jpeg" alt="ArmSoM Sige7 purple enclosure"></p>
+
+<p>If anyone asks why I prefer to work with Raspberry Pis when I want to tinker on a random project, consider:</p>
+
+<p>I just spent the past hour with a brand new ArmSoM Sige7 board (<a href="https://github.com/geerlingguy/sbc-reviews/issues/56">see my debugging notes in my <code>sbc-reviews</code> repo</a>). This SBC has been on the market for months, with <a href="https://www.electronics-lab.com/armsom-sige7-review-a-rockchip-rk3588-sbc-with-dual-2-5gbe-ethernet-nvme-storage-and-triple-display-output/">glowing reviews</a> all the way back in May...</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-11-08T19:04:17-06:00" title="Friday, November 8, 2024 - 19:04" class="datetime">November 8, 2024</time>
+</span> 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2024/why-raspberry-pi-sbc-guy>
+
+---
+
+## Our Loss
+
+date: 2024-11-09, from: Dan Rather's Steady
+
+My attempt to understand and explain 
+
+<br> 
+
+<https://steady.substack.com/p/our-loss>
 

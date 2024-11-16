@@ -1,11 +1,49 @@
 ---
 title: journalism
-updated: 2024-11-15 07:10:16
+updated: 2024-11-16 09:07:00
 ---
 
 # journalism
 
-(date: 2024-11-15 07:10:16)
+(date: 2024-11-16 09:07:00)
+
+---
+
+## Editorial Cartoon: “That Used to Be Us”
+
+date: 2024-11-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160;&#160; 
+
+<br> 
+
+<https://dailybruin.com/2024/11/15/editorial-cartoon-that-used-to-be-us/>
+
+---
+
+## DREAM Center shows Undocumented students a pathway to Grad School
+
+date: 2024-11-15, from: The Sundail (CSUN Student Newspaper)
+
+With the end of the semester coming soon, the University Student Union (USU) DREAM Center held a Graduate School Exploration Workshop in the East Conference Center’s Tujunga Room on Nov.... 
+
+<br> 
+
+<https://sundial.csun.edu/187785/arts-entertainment/dream-center-shows-undocumented-students-a-pathway-to-grad-school/>
+
+---
+
+## One fatality in McClintock and Jefferson collision, LAPD says
+
+date: 2024-11-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The intersection between McClintock Avenue and Jefferson Boulevard was closed for over three hours Friday morning.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/15/traffic-rerouted-at-mcclintock-and-jefferson-after-collision/">One fatality in McClintock and Jefferson collision, LAPD says</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/15/traffic-rerouted-at-mcclintock-and-jefferson-after-collision/>
 
 ---
 
@@ -1276,4 +1314,195 @@ As families gathered with their loved ones on the night of Nov. 1, “Miccaihuit
 <br> 
 
 <https://sundial.csun.edu/187392/arts-entertainment/annual-miccaihuitl-event-connects-loved-ones-with-family-and-community/>
+
+---
+
+## Good night from the Rose Bowl
+
+date: 2024-11-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Rose Bowl is winding down at the end of a historic win for UCLA football and a homecoming to remember for the Bruin faithful.&#160;
+We hope tonight’s coverage kept you entertained, and we hope you’ll celebrate a momentous triumph for UCLA.&#160;
+With that, we’ll see you next for UCLA’s annual rivalry matchup against USC on Nov. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/08/good-night-from-the-rose-bowl/>
+
+---
+
+## Wrap to come
+
+date: 2024-11-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+We’re out speaking to the players and coach DeShaun Foster right now, but senior staffer Cece Schmitz is working on tonight’s wrap which will be up shortly.&#160;
+Be sure to take a read of her piece for a full recap and analysis of tonight’s win.&#160; 
+
+<br> 
+
+<https://dailybruin.com/2024/11/08/wrap-to-come/>
+
+---
+
+## By the numbers
+
+date: 2024-11-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+Iowa 17, UCLA 20
+Total yards: UCLA 415 &#124; Iowa 265
+Well, there you have it, UCLA football has earned its first win at the Rose Bowl in 2024, and is now on a three-game winning streak heading to Seattle next week.&#160;
+&#160;
+<strong>UCLA&#160;</strong>
+Quarterback Ethan Garbers: 21/34, 204 passing yards, 2 interceptions
+Running back T.J. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/08/by-the-numbers-2/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-09, from: The Daily Bruin (UCLA Student Newspaper))
+
+As the game ends, I want to point out one thing – I called it.
+Actually, we all did.
+All five of this week’s DB Sports predictors had UCLA ahead of Iowa, despite being unfavored to do so. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/08/473440/>
+
+---
+
+## That’s game
+
+date: 2024-11-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA clinches its first win of the season at the Rose Bowl with a 20-17 decision over Iowa.&#160;
+DeShaun Foster has secured his first home win as head coach of his alma mater.&#160; 
+
+<br> 
+
+<https://dailybruin.com/2024/11/08/thats-game/>
+
+---
+
+## Crunch time
+
+date: 2024-11-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+We’re nearing the crunch in this game, UCLA maintaining its 20-17 lead.&#160;
+On the third-and-8, Garbers slings it into the hands of wide receiver Titus Mokiao-Atimalala who snags the nine-yard pass on the right.&#160;
+We’re into a two-minute timeout, after which UCLA will continue from the Iowa 29-yard line. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/08/crunch-time/>
+
+---
+
+## Niki Prongos on crutches
+
+date: 2024-11-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA’s offensive lineman Niki Prongos took a big hit early in the game, and was helped off the field while grasping his knee. He entered the medical tent and is now on crutches.&#160;
+No further details as of now. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/08/niki-prongos-on-crutches/>
+
+---
+
+## UCLA for 3
+
+date: 2024-11-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+Quarterback Ethan Garbers connects with wide receiver Kwazi Gilmer to get the first down for UCLA. Gilmer pushes his way inside the red zone after a well-executed sling from Garbers to his young receiver.&#160;
+On the second down, Garbers hands it off to running back Keegan Jones who stiff-arms Iowa’s defensive lineman Devan Kennedy, maneuvers through the backfield and gets UCLA to the goal line.&#160;
+But after failing to convert on the third-and-goal, kicker Mateen Bhaghani drills the 27-yard attempt to retake the lead.&#160;
+<strong>Iowa 17, UCLA 20 &#124; Q4 4:51</strong>
+(Brianna Carlson/Daily Bruin staff) 
+
+<br> 
+
+<https://dailybruin.com/2024/11/08/ucla-for-3/>
+
+---
+
+## Season-high figures in Pasadena
+
+date: 2024-11-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+Attendance at the Rose Bowl sits at 53,467 for tonight’s matchup against Iowa – over 10,000 more than UCLA’s last home game against Minnesota in October, when the team was riding a four-game losing streak.&#160;
+As this season continues on an upward trajectory, the Bruin faithful rides with it. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/08/season-high-figures-in-pasadena/>
+
+---
+
+## Touchdown
+
+date: 2024-11-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+We are all square again.&#160;
+Iowa quarterback Jackson Stratton hands the ball off to running back Kamari Moulton, whose 1-yard rush punches the ball in for the Hawkeye touchdown after a 13-play, 61-yard drive.&#160;
+Kicker Drew Stevens secures the PAT kick.&#160;
+<strong>Iowa 17, UCLA 17 &#124; Q4 11:29</strong> 
+
+<br> 
+
+<https://dailybruin.com/2024/11/08/touchdown-3/>
+
+---
+
+## End of quarter 3
+
+date: 2024-11-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+Iowa 10, UCLA 17
+Total yards: Iowa 239 &#124; UCLA 309
+We’ve got just 15 minutes left to play here at the Rose Bowl, and following a completely silent third quarter from both teams, the scoreboard hasn’t changed since halftime. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/08/end-of-quarter-3/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-09, from: The Daily Bruin (UCLA Student Newspaper))
+
+Iowa matches Bhaghani’s field goal with a 57-yarder of its own, but it’s nullified as a flag goes up on the field. UCLA’s defensive back Bryan Addison commits a personal foul that yields 15 yards and automatic first down for Iowa.&#160; 
+
+<br> 
+
+<https://dailybruin.com/2024/11/08/473410/>
+
+---
+
+## A Hawkeye switch-up
+
+date: 2024-11-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+Iowa – who has been playing its second-string quarterback Brendan Sullivan with QB1 Cade McNamara’s injury –&#160;has now sent in a new field general to take the reins with three minutes remaining in the third quarter.&#160;
+Jackson Stratton enters after Sullivan was sacked three times, threw two picks and lost a fumble. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/08/a-hawkeye-switch-up/>
+
+---
+
+## Men’s basketball in action
+
+date: 2024-11-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+While it’s been all eyes on the homecoming game at the Rose Bowl, UCLA men’s basketball has just tipped off against New Mexico in Henderson, Nevada.&#160;
+The Bruins are down 21-13 with 12 minutes left in the first half – tune in on CBS Sports Network for the stream. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/08/mens-basketball-in-action/>
 

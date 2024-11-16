@@ -1,11 +1,243 @@
 ---
 title: going electric
-updated: 2024-11-15 07:10:18
+updated: 2024-11-16 09:07:02
 ---
 
 # going electric
 
-(date: 2024-11-15 07:10:18)
+(date: 2024-11-16 09:07:02)
+
+---
+
+## The Eastern US’s first CFI-funded EV charging hub comes online
+
+date: 2024-11-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/deefield-MA-cfi-charging-station.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>The first EV charging hub funded by the <a href="https://www.transportation.gov/rural/grant-toolkit/charging-and-fueling-infrastructure-grant-program" target="_blank" rel="noreferrer noopener">Charging and Fueling Infrastructure</a> (CFI) Program in the Eastern US is now online in Deerfield, Massachusetts. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dc-fast-charging,egeb,energy-brief,ev-chargers,solar,president-biden" data-layer-viewtype="unknown" data-post-id="389395" href="https://electrek.co/2024/11/15/eastern-us-first-cfi-funded-ev-charging-hub/#more-389395" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/15/eastern-us-first-cfi-funded-ev-charging-hub/>
+
+---
+
+## Kia’s new low-cost EV4 was just spotted in the US for the first time
+
+date: 2024-11-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Kia-EV4-Europe.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia’s upcoming <a href="https://electrek.co/guides/kia-ev4/">EV4 electric sedan</a> was just spotted testing in the US for the first time. The low-cost EV is expected to make its big debut by the end of the year. Here’s a look at the new model.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev4" data-layer-viewtype="unknown" data-post-id="389394" href="https://electrek.co/2024/11/15/kias-new-low-cost-ev4-spotted-in-us-first-time/#more-389394" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/15/kias-new-low-cost-ev4-spotted-in-us-first-time/>
+
+---
+
+## Tesla Tops Fatal Accident Rates In New Study
+
+date: 2024-11-15, from: Inside EVs News
+
+NHTSA data indicates that the Tesla Model Y is one of the most dangerous cars, but not for the reasons you think. 
+
+<br> 
+
+<https://insideevs.com/news/741185/tesla-fatal-accident-rates-new-study-report/>
+
+---
+
+## The 2025 Lexus RZ Gets Competitive Via A Substantial Price Cut
+
+date: 2024-11-15, from: Inside EVs News
+
+The 2025 Lexus RZ300e is only about $900 more than the 2024 Toyota BZ4X. 
+
+<br> 
+
+<https://insideevs.com/news/741187/2025-lexus-rz-price-cut/>
+
+---
+
+## Nissan unveils sleek new N7 electric sedan to reverse slumping sales in China
+
+date: 2024-11-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Nissan-N7-EV-unveil.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Nissan introduced its newest EV, a sleek all-electric sedan, at the Guangzhou Auto Show this week. The N7 is the first <a href="https://electrek.co/guides/nissan/">Nissan</a> electric vehicle under its new strategy to spark life back into the brand in China.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nissan" data-layer-viewtype="unknown" data-post-id="389365" href="https://electrek.co/2024/11/15/nissan-unveils-new-n7-ev-sedan-reverse-sales-slump-china/#more-389365" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/15/nissan-unveils-new-n7-ev-sedan-reverse-sales-slump-china/>
+
+---
+
+## Podcast: Trump moves to kill $7,500 tax credit, deep Tesla discounts, Cadillac Vistiq, and more
+
+date: 2024-11-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Trump moving to kill the $7,500 tax credit, deep Tesla and Ford discounts, the new Cadillac Vistiq, and more.</p>
+
+
+
+<p><em>Today’s episode is sponsored by LiTime, a prominent brand with 15 years of experience in renewable energy storage, specifically focusing on renewable LiFePO4 Lithium batteries.</em> <em>Now through December 15, LiTime is offering up to 60% off its products during its Black Friday Sale.</em><br><em><a href="https://bit.ly/LiTime2024BlackFriday" target="_blank" rel="noreferrer noopener">Learn more here</a></em>.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Electrek_11-15-24.mp3"></audio></figure>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="389324" href="https://electrek.co/2024/11/15/podcast-trump-moves-to-kill-7500-tax-credit-deep-tesla-discounts-cadillac-vistiq-and-more/#more-389324" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/15/podcast-trump-moves-to-kill-7500-tax-credit-deep-tesla-discounts-cadillac-vistiq-and-more/>
+
+---
+
+## Save exclusive $1,568 on EcoFlow DELTA Pro Ultra, Velotric Black Friday e-bike additions, Anker SOLIX + Heybike flash sales, more
+
+date: 2024-11-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/3_9_1024x.jpeg?quality=82&#038;strip=all&#038;w=1200" /></div><p>It should be no surprise that we’re closing out the week with another great lineup of Black Friday Green Deals. Leading the official sales is the exclusive discount our readers are getting on the <a href="https://9to5toys.com/2024/11/15/exclusive-ecoflow-delta-pro-ultra-4230-low/">EcoFlow DELTA Pro Ultra</a> Home-Backup Station at a new <a href="https://9to5toys.com/2024/11/15/exclusive-ecoflow-delta-pro-ultra-4230-low/">$4,230</a> low. Coming up right behind it we have <a href="https://9to5toys.com/2024/11/15/velotric-early-black-friday-e-bikes-and-accessories/">Velotric’s early Black Friday changeup</a> that is adding two more e-bikes to the savings event while also offering an “add three, get 30% off” promotion for accessories – all starting at <a href="https://9to5toys.com/2024/11/15/velotric-early-black-friday-e-bikes-and-accessories/">$1,099</a>. We’ve also got two weekend flash sales, the first being several Anker <a href="https://9to5toys.com/2024/11/15/ankers-latest-solix-flash-sale-f3800-solar-generator-4369/">SOLIX solar generator and home-backup bundles</a> at new low prices and starting from <a href="https://9to5toys.com/2024/11/15/ankers-latest-solix-flash-sale-f3800-solar-generator-4369/">$1,399</a>. The other is a second chance at <a href="https://shareasale.com/m-pr.cfm?merchantid=132695&amp;userid=4001386&amp;productid=1325536470&amp;afftrack=">Heybike’s Ranger S</a> Folding e-bike for <a href="https://shareasale.com/m-pr.cfm?merchantid=132695&amp;userid=4001386&amp;productid=1325536470&amp;afftrack=">$999</a>, as well as some price reductions. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s long-awaited <a href="https://9to5toys.com/2024/11/14/rad-powers-2024-black-friday-sale/">Rad Power Black Friday sale</a> that has increased savings up to $700 on new and old e-bikes alike, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="389342" href="https://electrek.co/2024/11/15/exclusive-ecoflow-delta-pro-ultra-velotric-anker-solix-heybike/#more-389342" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/15/exclusive-ecoflow-delta-pro-ultra-velotric-anker-solix-heybike/>
+
+---
+
+## Lucid (LCID) CEO claims EV maker is ‘most immune’ if Trump cuts the tax credit
+
+date: 2024-11-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Lucid-outpacing-rivals.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>If you ask <a href="https://electrek.co/guides/lucid-motors/">Lucid</a> (Lucid) CEO Peter Rawlinson, the company is the “most immune” EV maker if President-elect Donald Trump cuts the federal tax credit for electric cars. Despite the claim, Lucid’s stock is hitting a new all-time low at under $2 a share.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-motors" data-layer-viewtype="unknown" data-post-id="389339" href="https://electrek.co/2024/11/15/lucid-lcid-most-immune-ev-maker-trump-cuts-tax-credit/#more-389339" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/15/lucid-lcid-most-immune-ev-maker-trump-cuts-tax-credit/>
+
+---
+
+## What Happens If Trump Blows Up The EV Tax Credit
+
+date: 2024-11-15, from: Inside EVs News
+
+Killing the $7,500 credit would deal a major blow to EV buyers and manufacturers. But trashing it won't be easy.  
+
+<br> 
+
+<https://insideevs.com/news/741174/trump-ev-credit-what-happens/>
+
+---
+
+## Lexus cuts RZ electric SUV prices by over $10,000 with its new entry-level 2025 model
+
+date: 2024-11-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Lexus-RZ-prices-2025-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The all-electric luxury electric SUV is getting significantly cheaper. <a href="https://electrek.co/guides/lexus/">Lexus </a>launched a new entry-level 2025 RZ trim with starting prices over $10,000 less than last year’s model. And you get just as much driving range.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lexus,lexus-rz-450e" data-layer-viewtype="unknown" data-post-id="389322" href="https://electrek.co/2024/11/15/lexus-cuts-rz-electric-suv-prices-by-over-10000-2025/#more-389322" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/15/lexus-cuts-rz-electric-suv-prices-by-over-10000-2025/>
+
+---
+
+## Killing The IRA's Tax Credit Is a Big Win For China
+
+date: 2024-11-15, from: Inside EVs News
+
+The IRA's $7,500 is designed to incentivize U.S. EV supply chain investment. Without it, it's not clear if our EV supply chain will get off the ground.  
+
+<br> 
+
+<https://insideevs.com/news/741162/ira-killing-credit-china-win/>
+
+---
+
+## EV Stocks Plunge As Trump Plans To Kill Incentives
+
+date: 2024-11-15, from: Inside EVs News
+
+Plus, Hyundai is bracing for a second Trump presidency and Cruise is charged with criminal penalty from the Justice Department. 
+
+<br> 
+
+<https://insideevs.com/news/741167/ev-stocks-plunge-as-trump-plans-to-kill-incentives/>
+
+---
+
+## Geely’s Zeekr Will Take Over Lynk & Co To Chase BYD
+
+date: 2024-11-15, from: Inside EVs News
+
+There is some overlap between the two brands, and Geely wants to eliminate internal competition and overlap to improve sales. 
+
+<br> 
+
+<https://insideevs.com/news/741120/zeeker-will-take-over-lynk/>
+
+---
+
+## Tesla adds 3 months of free Supercharging and Full Self-Driving to its end-of-year deals
+
+date: 2024-11-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/01/TEsla-TSLA-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is adding new incentives to convince people to buy its vehicles by the end of the year: 3 months of free Supercharging and Full Self-Driving.</p>
+
+
+
+<p>Those are being added to FSD transfers, discounts, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="389310" href="https://electrek.co/2024/11/15/tesla-adds-3-months-of-free-supercharging-and-full-self-driving-to-its-end-of-year-deals/#more-389310" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/15/tesla-adds-3-months-of-free-supercharging-and-full-self-driving-to-its-end-of-year-deals/>
+
+---
+
+## Ford is offering big EV discounts to close out the year
+
+date: 2024-11-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Ford-free-EV-charger.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>To close out the year strong, <a href="https://electrek.co/guides/ford/">Ford</a> is offering more ways to save on its electric vehicles. Ford introduced a new year-end sales event with significant discounts on its top-selling EV models, the F-150 Lightning and Mustang Mach-E. Here’s how you can score some savings.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford,ford-f-150-lightning,ford-f150-lightning,ford-mach-e" data-layer-viewtype="unknown" data-post-id="389290" href="https://electrek.co/2024/11/15/ford-offering-big-ev-discounts-close-out-the-year/#more-389290" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/15/ford-offering-big-ev-discounts-close-out-the-year/>
 
 ---
 
@@ -42,6 +274,10 @@ date: 2024-11-15, from: Electrek Feed
 date: 2024-11-15, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes the launch of the Lectric XPedition 2.0, Yamaha e-bikes pulling out of North America, LiveWire unveils an electric scooter concept, PNY readying its cargo e-scooters for pilot testing, Royal Enfield’s first electric motorcycle, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Wheel-E_11-15-24.mp3"></audio></figure>
 
 
 
@@ -409,7 +645,7 @@ CATL is the largest battery manufacturer in the world. Its founder and chairman,
 
 date: 2024-11-14, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/jo_loren-1125x633-1.jpg?quality=82&#038;strip=all&#038;w=1125" /></div><p>Leading electric vehicle analyst, author, and industry thought leaders Loren McDonald and Bill Ferro stop by <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em> to discuss EV Adoption’s acquisition by Paren, the “crisis” of EV charging reliability, and the real state of the EV market.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/jo_loren-1125x633-1.jpg?quality=82&#038;strip=all&#038;w=1125" /></div><p>Leading electric vehicle analyst, author, and industry thought leaders Loren McDonald and Bill Ferro stop by <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em> to discuss EV Adoption’s acquisition by <a href="https://www.paren.app/">Paren</a>, the “crisis” of EV charging reliability, and the real state of the EV market.</p>
 
 
 
@@ -1616,4 +1852,76 @@ date: 2024-11-10, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2024/11/10/mack-electric-lr-is-wisconsins-first-electric-garbage-truck/>
+
+---
+
+## Tesla Is Now A $1 Trillion Company
+
+date: 2024-11-09, from: Inside EVs News
+
+The stock rallied after Trump’s win. Now Tesla faces the harder task of delivering on Elon Musk’s robotaxi dreams. 
+
+<br> 
+
+<https://insideevs.com/news/740427/tesla-valuation-soars-1-trillion-trump-victory/>
+
+---
+
+## Tesla Model Y Havnby air mattress adds stars to Camp Mode
+
+date: 2024-11-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/image_c93f3f.png?w=953" /></div><p>With Camp Mode, Tesla started a new era for car campers. Quiet climate control, a multimedia entertainment display, a glass roof, and a large rear flat compartment area that easily fits most 6′ adults <a href="https://havnby.com/?ref=SETH">with a mattress</a> mean that hotels on long solo drives are now optional. It can also be a nice camping option for those who don’t want to sleep on the ground, a convenient nap spot, or a nice place to relax and (Netflix and?) chill with that special someone.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="387431" href="https://electrek.co/2024/11/09/tesla-model-y-havnby-air-mattress-adds-stars-to-camp-mode/#more-387431" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/09/tesla-model-y-havnby-air-mattress-adds-stars-to-camp-mode/>
+
+---
+
+## See The Tesla Model S Plaid Take On The Lucid Air Sapphire
+
+date: 2024-11-09, from: Inside EVs News
+
+The Model S Plaid is fitted with the $20,000 Track Package that comes with ceramic brakes and other goodies. Can it keep up? 
+
+<br> 
+
+<https://insideevs.com/news/740226/tesla-model-s-plaid-track-pack-lucid-air-sapphire/>
+
+---
+
+## 765 hp AUDI E ditches the four rings, keeps the sexy wagon aesthetic
+
+date: 2024-11-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/A244565_medium.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Audi is embracing its future in China with the launch of a new Chinese market electric sub-brand called AUDI that ditches the iconic “four rings” logo in favor of four capital letters – but one thing it hasn’t ditched is <s>AUDI</s> Audi’s sexy teutonic long-roof design language.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="audi,china,saic-motor" data-layer-viewtype="unknown" data-post-id="388456" href="https://electrek.co/2024/11/09/765-hp-audi-e-ditches-the-four-rings-keeps-the-sexy-wagon-aesthetic/#more-388456" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/09/765-hp-audi-e-ditches-the-four-rings-keeps-the-sexy-wagon-aesthetic/>
+
+---
+
+## Captain Morgan gets a hydrogen Nikola in latest DHL deal
+
+date: 2024-11-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/dhl-supply-chain-and-diageo-north-america-image-2.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Global logistics giant DHL is serving Diageo North America – the makers of Captain Morgan rum – with a new deployment of hydrogen powered Nikola semi trucks <em>and</em> a standalone hydrogen fueling station.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dhl,hydrogen,nikola-motors" data-layer-viewtype="unknown" data-post-id="388447" href="https://electrek.co/2024/11/09/captain-morgan-gets-a-hydrogen-nikola-in-latest-dhl-deal/#more-388447" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/09/captain-morgan-gets-a-hydrogen-nikola-in-latest-dhl-deal/>
 

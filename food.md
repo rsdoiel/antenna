@@ -1,11 +1,115 @@
 ---
 title: food
-updated: 2024-11-15 07:10:18
+updated: 2024-11-16 09:07:02
 ---
 
 # food
 
-(date: 2024-11-15 07:10:18)
+(date: 2024-11-16 09:07:02)
+
+---
+
+## Burger King Just Dropped a Menu Item That No One Expected
+
+date: 2024-11-15, from: Taste of Home
+
+<p>Burger King is about to become the biggest dill in fast food.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/burger-king-pickle-fries/">Burger King Just Dropped a Menu Item That No One Expected</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/burger-king-pickle-fries/>
+
+---
+
+## 8 Best Fast-Food Kids Meals, Ranked
+
+date: 2024-11-15, from: Taste of Home
+
+<p>We ordered and tested fast-food kids meals from eight different chains to find out which ones were the most delicious and the best value.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/best-fast-food-kids-meals/">8 Best Fast-Food Kids Meals, Ranked</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/best-fast-food-kids-meals/>
+
+---
+
+## 53 Thanksgiving Food Ideas for an Unforgettable Feast
+
+date: 2024-11-15, from: Bon Appetet
+
+Your best Thanksgiving dinner ever is just a few recipes away. 
+
+<br> 
+
+<https://www.bonappetit.com/recipes/holidays-recipes/slideshow/best-thanksgiving-recipes>
+
+---
+
+## People Are Using This Secret Ingredient for Sweet Potato Pie​
+
+date: 2024-11-15, from: Taste of Home
+
+<p>This secret ingredient for sweet potato pie is making the rounds online. It works!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/secret-ingredient-for-sweet-potato-pie/">People Are Using This Secret Ingredient for Sweet Potato Pie​</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/secret-ingredient-for-sweet-potato-pie/>
+
+---
+
+## Chick-fil-A Just Brought Back Its Most Popular Milkshake Flavor
+
+date: 2024-11-15, from: Taste of Home
+
+<p>The Chick-fil-A Peppermint Milkshake is coming home for the holidays.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/chick-fil-a-peppermint-milkshake-2024/">Chick-fil-A Just Brought Back Its Most Popular Milkshake Flavor</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/chick-fil-a-peppermint-milkshake-2024/>
+
+---
+
+## The Best Sparkling Water Maker (2024), According to Years of Testing
+
+date: 2024-11-15, from: Bon Appetet
+
+This is how you transform a bad rosé into something bubbly and palatable. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-soda-makers>
+
+---
+
+## Best Toasters (2024), Reviewed by Our Experts
+
+date: 2024-11-15, from: Bon Appetet
+
+Because maybe you don't actually need that toaster oven, maybe you just want toast. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-toasters>
+
+---
+
+## Weekly Coffee News: No-Strings Coffee Grant + Vastly Different World Views on Cup Waste
+
+date: 2024-11-15, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-shop-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee shop" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-shop-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-shop-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-shop-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-shop-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/coffee-shop.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News! Subscribe here for all the latest coffee industry news. Also, check out the latest career opportunities at CoffeeIndustryJobs.com. Honeycomb Credit Offering $1,500 Grant to US Coffee Businesses... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/11/15/weekly-coffee-news-no-strings-coffee-grant-vastly-different-world-views-on-cup-waste/>
 
 ---
 
@@ -127,7 +231,7 @@ The best early deals on the best stand mixers from Amazon, Walmart, and Best Buy
 
 ---
 
-## 31 Early Black Friday Kitchen Deals BA Editors Are Shopping (2024)
+## 33 Early Black Friday Kitchen Deals BA Editors Are Shopping (2024)
 
 date: 2024-11-14, from: Bon Appetet
 
@@ -167,7 +271,7 @@ This is how you should take your sips and drams.
 
 date: 2024-11-14, from: Daily Coffee News
 
-<div><img width="620" height="428" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/p2-1-620x428.jpg" class="attachment-large size-large wp-post-image" alt="p2" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/p2-1-620x428.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/p2-1-300x207.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/p2-1-150x104.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/p2-1-768x530.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/p2-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new flexible packaging company from Germany called Pouches.com just launched with global aspirations and a focus on the coffee industry.&#160; Promising start-to-finish online design and ordering for plastic pouches... 
+<div><img width="620" height="428" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/p2-1-620x428.jpg" class="attachment-large size-large wp-post-image" alt="p2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/p2-1-620x428.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/p2-1-300x207.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/p2-1-150x104.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/p2-1-768x530.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/p2-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new flexible packaging company from Germany called Pouches.com just launched with global aspirations and a focus on the coffee industry.&#160; Promising start-to-finish online design and ordering for plastic pouches... 
 
 <br> 
 
@@ -371,7 +475,7 @@ date: 2024-11-13, from: The Sprudge
 
 date: 2024-11-13, from: Daily Coffee News
 
-<div><img width="620" height="384" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/JNP-Burundi-coffee-center-620x384.png" class="attachment-large size-large wp-post-image" alt="JNP Burundi coffee center" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/JNP-Burundi-coffee-center-620x384.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/JNP-Burundi-coffee-center-300x186.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/JNP-Burundi-coffee-center-150x93.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/JNP-Burundi-coffee-center-768x476.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/JNP-Burundi-coffee-center.png 966w" sizes="(max-width: 620px) 100vw, 620px" /></div>Green coffee trading company JNP Coffee is leading the creation of a coffee academy and separate dry mill in Burundi. The academy is being designed to train to women and... 
+<div><img width="620" height="384" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/JNP-Burundi-coffee-center-620x384.png" class="attachment-large size-large wp-post-image" alt="JNP Burundi coffee center" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/JNP-Burundi-coffee-center-620x384.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/JNP-Burundi-coffee-center-300x186.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/JNP-Burundi-coffee-center-150x93.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/JNP-Burundi-coffee-center-768x476.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/JNP-Burundi-coffee-center.png 966w" sizes="(max-width: 620px) 100vw, 620px" /></div>Green coffee trading company JNP Coffee is leading the creation of a coffee academy and separate dry mill in Burundi. The academy is being designed to train to women and... 
 
 <br> 
 
@@ -1034,4 +1138,40 @@ date: 2024-11-10, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/slow-cooker-recipes/>
+
+---
+
+## Thanksgiving Charcuterie Board Ideas From Our Food Director
+
+date: 2024-11-09, from: Bon Appetet
+
+Rule number one: Assemble, don’t cook. 
+
+<br> 
+
+<https://www.bonappetit.com/story/thanksgiving-charcuterie-board-ideas-article>
+
+---
+
+## Shirley Temple
+
+date: 2024-11-09, from: Taste of Home
+
+This classic treat isn't only for the kids! Get reacquainted with the fizzy, cherry-topped Shirley Temple drink recipe. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/shirley-temple/>
+
+---
+
+## Spaghetti Squash Alfredo
+
+date: 2024-11-09, from: Taste of Home
+
+Our spaghetti squash Alfredo has an indulgent and creamy Parmesan-garlic sauce served over healthy squash "noodles." 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/spaghetti-squash-alfredo/>
 

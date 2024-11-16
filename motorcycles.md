@@ -1,11 +1,35 @@
 ---
 title: motorcycles
-updated: 2024-11-15 07:10:17
+updated: 2024-11-16 09:07:01
 ---
 
 # motorcycles
 
-(date: 2024-11-15 07:10:17)
+(date: 2024-11-16 09:07:01)
+
+---
+
+## Tough Choices at KTM, As Temporary Production Halt Planned
+
+date: 2024-11-15, from: Ride Apart, Electric Motorcycle News
+
+Around 1,000 employees won't need to report to work  after the New Year. 
+
+<br> 
+
+<https://www.rideapart.com/news/741178/ktm-production-temporary-halt-2025/>
+
+---
+
+## Husqvarna’s Winter Collection Feels Like a Joke, but I’d Absolutely Wear It
+
+date: 2024-11-15, from: Ride Apart, Electric Motorcycle News
+
+It's so wrong, it's right. 
+
+<br> 
+
+<https://www.rideapart.com/news/740909/husqvarna-winter-collection-funny/>
 
 ---
 
@@ -58,7 +82,7 @@ Only 54 examples of this carbon-clad machine will ever see the light of day.
 
 ---
 
-## This New Dual Sport Motorcycles Looks Like It Belongs On the Moon
+## This New Dual Sport Motorcycle Looks Like It Belongs On the Moon
 
 date: 2024-11-15, from: Ride Apart, Electric Motorcycle News
 
@@ -388,4 +412,52 @@ By Matt Courson, Staff Writer AVONDALE, Ariz. — Martin Truex Jr. won the Pole 
 <br> 
 
 <https://kickinthetires.net/nascar/cup/truex-to-start-from-pole-in-final-full-time-start/>
+
+---
+
+## Sawalich claims Xfinity Pole
+
+date: 2024-11-09, from: Kickin the Tires blog
+
+By Matt Courson, Staff Writer AVONDALE, Ariz. — William Sawalich will start from the pole position in just his third start in Saturday’s NASCAR Xfinity Series Championship Race at Phoenix&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/xfinity/sawalich-claims-xfinity-pole/>
+
+---
+
+## Is KTM Ashamed Its New 390s Are Better For the Company Than Its Big Bikes?
+
+date: 2024-11-09, from: Ride Apart, Electric Motorcycle News
+
+Pierer cannot get out of its own way, can it? 
+
+<br> 
+
+<https://www.rideapart.com/news/740383/ktm-390-adventure-r-smc-enduro-eicma/>
+
+---
+
+## Ryan Blaney And Team Ready To Defend NASCAR Cup Series Title
+
+date: 2024-11-09, from: Kickin the Tires blog
+
+By Jerry Jordan, Editor AVONDALE, Ariz. – A week ago, Ryan Blaney was on the outside looking in and needing a win at Martinsville Speedway to advance for a chance&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/ryan-blaney-and-team-ready-to-defend-nascar-cup-series-title/>
+
+---
+
+## Mistake-free Majeski dominates for NASCAR Truck Series championship
+
+date: 2024-11-09, from: Kickin the Tires blog
+
+By Cole Cusumano, Staff Writer Ty Majeski and the No. 98 team were flawless and flat-out dominant in the NASCAR Craftsman Truck Series finale at Phoenix Raceway, leading all but&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/mistake-free-majeski-dominates-for-nascar-truck-series-championship/>
 

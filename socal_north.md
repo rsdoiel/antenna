@@ -1,23 +1,136 @@
 ---
 title: socal north
-updated: 2024-11-15 07:10:14
+updated: 2024-11-16 09:06:58
 ---
 
 # socal north
 
-(date: 2024-11-15 07:10:14)
+(date: 2024-11-16 09:06:58)
 
 ---
 
-## LA voters approved billions for housing and homelessness. Leaders of a new agency told us their spending plans
+## Trump promised the 'largest deportation' in US history. Here's how he might start
 
 date: 2024-11-15, updated: 2024-11-15, from: The LAist
 
-The tax, which at last count had more than 57% of L.A. voters' support, is projected to raise about $1.1 million dollars per year. 
+Andrew Selee of the Migration Policy Institute tells NPR that President-elect Donald Trump could begin his focus on newer arrivals and other immigrants on shaky legal grounds. 
 
 <br> 
 
-<https://laist.com/news/housing-homelessness/la-voters-approved-billions-for-housing-and-homelessness-leaders-of-a-new-agency-told-us-their-spending-plans>
+<https://laist.com/news/politics/trump-promised-the-largest-deportation-in-us-history-heres-how-he-might-start>
+
+---
+
+## ‘A pivotal moment?’ Why many Latino voters in California chose Trump
+
+date: 2024-11-15, updated: 2024-11-15, from: The LAist
+
+In part due to economic and border security concerns, Latinos in California appear to have moved toward Donald Trump. But that doesn’t necessarily mean they’re abandoning the Democratic Party. 
+
+<br> 
+
+<https://laist.com/news/politics/why-many-latino-voters-in-california-chose-trump>
+
+---
+
+## UCLA’s response to campus protests was inefficient, unclear, and occasionally chaotic, audit finds
+
+date: 2024-11-15, updated: 2024-11-15, from: The LAist
+
+The five-month investigation makes a series of recommendations for university officials and the campus police department. 
+
+<br> 
+
+<https://laist.com/news/education/ucla-response-campus-protest-audit-police>
+
+---
+
+## NTSB issues preliminary report on fatal October plane crash
+
+date: 2024-11-15, from: Catalina Islander
+
+The National Transportation Safety Board last week released the preliminary report on the October plane crash that claimed five lives on Catalina Island. Another year or two may pass before the NTSB issues a final report. According to the NTSB preliminary report, the manager of the Airport in the Sky advised the pilot against taking [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/ntsb-issues-preliminary-report-on-fatal-october-plane-crash/>
+
+---
+
+## Avalon honors those who have served
+
+date: 2024-11-15, from: Catalina Islander
+
+The Catalina community gathered at Veteran’s Memorial Park on Monday to share their gratitude for those who have served America in the armed forces. Mayor Anni Marshall started the event by leading the group in the Pledge of Allegiance. Joe Sampson sang the National Anthem and Pastor Enrique Dominguez provided the invocation. Dominguez also shared [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/avalon-honors-those-who-have-served/>
+
+---
+
+## Violin Teacher Arrested for Alleged Lewd Acts with a Minor in Northridge
+
+date: 2024-11-15, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="847" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/violin.jpeg?fit=847%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/violin.jpeg?w=1528&amp;ssl=1 1528w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/violin.jpeg?resize=248%2C300&amp;ssl=1 248w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/violin.jpeg?resize=847%2C1024&amp;ssl=1 847w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/violin.jpeg?resize=768%2C929&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/violin.jpeg?resize=1270%2C1536&amp;ssl=1 1270w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/violin.jpeg?resize=1200%2C1451&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/violin.jpeg?resize=400%2C484&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/violin.jpeg?resize=706%2C854&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/violin.jpeg?fit=847%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>NORTHRIDGE (CNS) &#8211; A 72-year-old violin teacher suspected of lewd acts with a minor at his Northridge residence was arrested today. Konstantin Yedigaraov was booked on suspicion of lewd acts [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/11/15/violin-teacher-arrested-for-alleged-lewd-acts-with-a-minor-in-northridge/">Violin Teacher Arrested for Alleged Lewd Acts with a Minor in Northridge</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/11/15/violin-teacher-arrested-for-alleged-lewd-acts-with-a-minor-in-northridge/>
+
+---
+
+## CI Health to discuss about suicide prevention
+
+date: 2024-11-15, from: Catalina Islander
+
+Courtesy of Catalina Island Health Catalina Island Health has launched a free monthly Community Health Talk. The goal of these talks – or presentations – is to provide island residents additional information on a particular health subject. Its second installment takes place Saturday, Nov. 23, from 11 a.m. to noon in the council chambers at [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/ci-health-to-discuss-about-suicide-prevention/>
+
+---
+
+## Sheriff’s Log: Nov. 7 to Nov. 13, 2024
+
+date: 2024-11-15, from: Catalina Islander
+
+The following is the Avalon’s Sheriff’s Stations significant incidents report for the period of Nov. 7 to Nov. 13, 2024. All suspects are presumed innocent until proven guilty in a court of law. Many people who are arrested do not get prosecuted in the first place and many who are prosecuted do not get convicted. [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/sheriffs-log-nov-7-to-nov-13-2024/>
+
+---
+
+## At long last, Tiana's Bayou Adventure opens at Disneyland
+
+date: 2024-11-15, updated: 2024-11-15, from: The LAist
+
+Disney closed Splash Mountain after it drew criticism for basing the ride off the 1946 movie Song of the South. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/at-long-last-tianas-bayou-adventure-opens-at-disneyland>
+
+---
+
+## “They Call It Puppy Love” – Sammy Clarita Is Back With a New Book and a New Look!
+
+date: 2024-11-15, from: City of Santa Clarita
+
+<p>Be on the Lookout for the City’s Favorite Mascot! The popular I Found Sammy Clarita campaign is back and Sammy Clarita has a new look and a new book. The City of Santa Clarita’s favorite four-legged mascot has released the fifth edition of Sammy Stories! In this story book, Sammy is on a mission to [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/11/15/they-call-it-puppy-love-sammy-clarita-is-back-with-a-new-book-and-a-new-look/">“They Call It Puppy Love&#8221; &#8211; Sammy Clarita Is Back With a New Book and a New Look!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/11/15/they-call-it-puppy-love-sammy-clarita-is-back-with-a-new-book-and-a-new-look/>
 
 ---
 
@@ -30,6 +143,18 @@ III Mas doesn't have a fancy restaurant right now, but its food is making waves.
 <br> 
 
 <https://laist.com/news/food/why-i-think-this-ghost-kitchen-is-poised-to-be-the-next-best-la-restaurant>
+
+---
+
+## LA voters approved billions for housing and homelessness. Leaders of a new agency told us their spending plans
+
+date: 2024-11-15, updated: 2024-11-15, from: The LAist
+
+The tax, which at last count had more than 57% of L.A. voters' support, is projected to raise about $1.1 million dollars per year. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/la-voters-approved-billions-for-housing-and-homelessness-leaders-of-a-new-agency-told-us-their-spending-plans>
 
 ---
 
@@ -69,11 +194,11 @@ The office attributed its findings of unspent funds to “a sluggish, inefficien
 
 ---
 
-## Michelle Steel's lead continues to drop in highly watched 45th District House race
+## Michelle Steel and Derek Tran separated by 58 votes in 45th District House race
 
-date: 2024-11-15, updated: 2024-11-15, from: The LAist
+date: 2024-11-15, updated: 2024-11-16, from: The LAist
 
-GOP Rep. Michelle Steel's lead over Derek Tran fell to 236 votes in one of the last remaining House races to be called. 
+GOP Rep. Michelle Steel's lead over Derek Tran narrowed further Friday in one of the last remaining House races to be called. 
 
 <br> 
 
@@ -219,7 +344,7 @@ Here’s how it will work, and how you can get involved.
 
 date: 2024-11-14, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Veterans-Day-Parade_SN_10-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Veterans-Day-Parade_SN_10-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Veterans-Day-Parade_SN_10-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Veterans-Day-Parade_SN_10-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Veterans-Day-Parade_SN_10-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Veterans-Day-Parade_SN_10-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Veterans-Day-Parade_SN_10-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Veterans-Day-Parade_SN_10-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Veterans-Day-Parade_SN_10-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Veterans-Day-Parade_SN_10-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Veterans-Day-Parade_SN_10-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Veterans-Day-Parade_SN_10-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Veterans-Day-Parade_SN_10-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Veterans-Day-Parade_SN_10-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Veterans-Day-Parade_SN_10-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Veterans-Day-Parade_SN_10-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Veterans-Day-Parade_SN_10-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Veterans-Day-Parade_SN_10-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Veterans-Day-Parade_SN_10-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Veterans-Day-Parade_SN_10-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Veterans-Day-Parade_SN_10-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Veterans-Day-Parade_SN_10-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Veterans-Day-Parade_SN_10-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Veterans-Day-Parade_SN_10-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Veterans-Day-Parade_SN_10-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Veterans-Day-Parade_SN_10-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Veterans-Day-Parade_SN_10-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Veterans-Day-Parade_SN_10-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Veterans-Day-Parade_SN_10-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Veterans-Day-Parade_SN_10-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Para Edward Landin y aproximadamente otros 700 veteranos de los Estados Unidos en el valle y sus alrededores, el lunes 11 de noviembre fue un día especial para ellos y [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/11/13/un-superviviente-de-cancer-es-nombrado-gran-mariscal-del-desfile-del-dia-de-los-veteranos-de-sfv/">Un Superviviente de Cáncer es Nombrado Gran Mariscal del Desfile del Día de los Veteranos de SFV</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -759,4 +884,126 @@ Alpha Structural has been fixing foundations and other building-related structur
 <br> 
 
 <https://laist.com/news/los-angeles-activities/for-your-next-social-media-fix-try-these-structural-engineers-in-la>
+
+---
+
+## America the Brave – Honoring Our Veterans
+
+date: 2024-11-09, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin As we approach Veterans Day, take a moment to reflect upon and honor the sacrifices made by the countless men and women who have fought for our country’s freedom. These individuals have shown an unrelenting devotion to our nation and preserve America’s reputation as being the home of the free, [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/11/09/america-the-brave-honoring-our-veterans/">America the Brave &#8211; Honoring Our Veterans</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/11/09/america-the-brave-honoring-our-veterans/>
+
+---
+
+## California enacts new climate rules — which could boost gas prices
+
+date: 2024-11-09, updated: 2024-11-09, from: The LAist
+
+Experts don’t know how much gas prices may rise from the new climate rules, which give incentives for low-carbon fuels. The board ordered an annual review. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/california-enacts-new-climate-rules-which-could-boost-gas-prices>
+
+---
+
+## Protestors call for city council to officially make LA a sanctuary city
+
+date: 2024-11-09, updated: 2024-11-09, from: The LAist
+
+They want the city council to codify protections for undocumented immigrants 
+
+<br> 
+
+<https://laist.com/news/immigration-march-nov9>
+
+---
+
+## Who will control the US House? Uncalled races in Southern California play a big role
+
+date: 2024-11-09, updated: 2024-11-11, from: The LAist
+
+With Republicans winning the White House and Senate, control of the House is still too close to call, according to the Associated Press. Here's a running list of races that are still outstanding. 
+
+<br> 
+
+<https://laist.com/news/politics/who-will-control-the-house-its-down-to-these-uncalled-races>
+
+---
+
+## Having trouble sleeping? To get back on track, avoid these 5 mistakes
+
+date: 2024-11-09, updated: 2024-11-09, from: The LAist
+
+When people can't sleep, they tend to take extreme measures to correct the issue. But that only makes sleep problems worse, say experts. Here are 5 bad habits to avoid when recovering from poor sleep. 
+
+<br> 
+
+<https://laist.com/news/health/having-trouble-sleeping-to-get-back-on-track-avoid-these-5-mistakes>
+
+---
+
+## Boycott men? South Korea's 4B movement gains traction in the U.S. after Trump's win
+
+date: 2024-11-09, updated: 2024-11-09, from: The LAist
+
+After Trump's win, there are growing calls among American women to boycott men. They're drawing inspiration from 4B, a South Korean feminist movement that rejects dating, sex, marriage and childbirth. 
+
+<br> 
+
+<https://laist.com/news/boycott-men-south-koreas-4b-movement-gains-traction-in-the-u-s-after-trumps-win>
+
+---
+
+## Kevin de León concedes District 14 race to Ysabel Jurado
+
+date: 2024-11-09, updated: 2024-11-09, from: The LAist
+
+A win for Jurado adds another progressive to the L.A. City Council. 
+
+<br> 
+
+<https://laist.com/news/politics/2024-election-california-general-los-angeles-city-council-district-14-results-analysis>
+
+---
+
+## Judge threatens to hold VA in contempt for failing to follow West LA campus housing order
+
+date: 2024-11-09, updated: 2024-11-09, from: The LAist
+
+If people are found in contempt, consequences can include fines or imprisonment. VA officials say the judge is acting illegally. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/judge-carter-contempt-threat-va-west-la-campus>
+
+---
+
+## 4 SoCal women share how they’re feeling after Trump's victory over Harris
+
+date: 2024-11-09, updated: 2024-11-09, from: The LAist
+
+We spoke with women across the political spectrum. Here’s how they described the moment they found out about former president Donald Trump’s win. 
+
+<br> 
+
+<https://laist.com/news/politics/4-socal-women-share-how-theyre-feeling-after-trumps-victory-over-harris>
+
+---
+
+## McDonnell confirmed as new LAPD chief, says he won't cooperate with ICE
+
+date: 2024-11-09, updated: 2024-11-09, from: The LAist
+
+The news that Jim McDonnell had been picked to lead the Los Angeles Police Department was announced early last month. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/city-council-confirms-mcdonnell-lapd-chief-amid-protests>
 

@@ -1,11 +1,71 @@
 ---
 title: ham radio
-updated: 2024-11-15 07:10:14
+updated: 2024-11-16 09:06:59
 ---
 
 # ham radio
 
-(date: 2024-11-15 07:10:14)
+(date: 2024-11-16 09:06:59)
+
+---
+
+## YouTube Telethon to Raise Money for ARRL Teachers Institute on Wireless Technology
+
+date: 2024-11-15, from: Amateur Radio Relay League News
+
+<p>The ARRL Teachers Institute on Wireless Technology is growing next year, and a number of social media stars are coming together to help it happen. On Saturday, November 30, a live fundraiser telethon is set to take place on the Ham Radio Crash Course YouTube channel. Host Josh Nass, KI6NAZ, will be joined by several web-famous hams to talk radio and raise money. The proceeds benefit the ARRL Ed...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/youtube-telethon-to-raise-money-for-arrl-teachers-institute-on-wireless-technology-1>
+
+---
+
+## 2024 ARRL Board of Directors Election Results
+
+date: 2024-11-15, from: Amateur Radio Relay League News
+
+<p>ARRL® The National Association for Amateur Radio® announces the results of the 2024 ARRL Division elections.</p><p>In the ARRL New England Division, Tom Frenaye, K1KI (1,593 votes), of West Suffeld, Connecticut, was declared the winner, defeating current Director Fred Kemmerer, AB1OC (1,452 votes).</p><p></p><p>Frenaye has previously served on the ARRL Board of Directors in several capacities, including as Director...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/2024-arrl-board-of-directors-election-results>
+
+---
+
+## NCVEC Question Pool Committee Removes Two Pool Questions From Use
+
+date: 2024-11-15, from: Amateur Radio Relay League News
+
+<p>The National Conference of Volunteer Examiner Coordinators (NCVEC) Question Pool Committee (QPC) has removed one Extra Class pool question and one General Class pool question from use. Both Extra pool question <b>E2A13</b> and General pool question <b>G8C01</b> have been deleted from use on examinations as the two questions each have more than one correct answer. The deleted questions must be removed from ex...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/ncvec-question-pool-committee-removes-two-pool-questions-from-use>
+
+---
+
+## ARRL November Sweepstakes Phone November 16–18
+
+date: 2024-11-15, from: Amateur Radio Relay League News
+
+ 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-november-sweepstakes-phone-november-16-18>
+
+---
+
+## The K7RA Solar Update
+
+date: 2024-11-15, from: Amateur Radio Relay League News
+
+<p>Only five new sunspot groups emerged this week. First was on<br />November 7, next on November 9, two more on November 11, and another<br />on November 13.<br /><br />Average daily sunspot number declined from 193.4 to 141.6, while<br />average daily solar flux went from 248.4 to 203.7.<br /><br />Predicted solar flux is 145 on November 15-16, 155 on November<br />17-18, then 145 on November 19, 140 November 20-21, then 235, 240,<br />255 and 260 ...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/the-k7ra-solar-update-853>
 
 ---
 

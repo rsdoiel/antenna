@@ -1,11 +1,71 @@
 ---
 title: games
-updated: 2024-11-15 07:10:16
+updated: 2024-11-16 09:07:00
 ---
 
 # games
 
-(date: 2024-11-15 07:10:16)
+(date: 2024-11-16 09:07:00)
+
+---
+
+## Deadpool &#038; Wolverine, Twisters, Netflix’s Emilia Pérez, and every movie new to streaming
+
+date: 2024-11-15, updated: 2024-11-14, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. This week, Deadpool &#38; Wolverine, the 34th film in the Marvel Cinematic Universe and starring Ryan Reynolds and Hugh Jackman, arrives on Disney Plus following its [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/475713/new-movies-watch-streaming-deadpool-wolverine-netflix-emilia-perez-twisters>
+
+---
+
+## Critical Role’s fake romantasy novel Tusk Love to be real novel in 2025
+
+date: 2024-11-15, updated: 2024-11-15, from: Polygon Website
+
+Fans of Critical Role’s second campaign are in for a spicy treat. Penguin Random House announced it will publish the tabletop media empire’s newest novel, Tusk Love. The fictional smutty romance that started off as an inside joke on the popular actual play has taken on a new, very real, life thanks to their partnership [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/books/480565/critical-role-tusk-love-romantasy-novel-2025>
+
+---
+
+## This Diablo 4 deal is summoning Black Friday early
+
+date: 2024-11-15, updated: 2024-11-15, from: Polygon Website
+
+Vessel of Hatred is the health potion that Diablo 4 needed to get back on its feet. The inaugural expansion for Blizzard’s action RPG launched Oct. 7 and introduced a host of new content and quality-of-life updates, including a new region, a new class, hirelings, a reworked leveling system, and more. If you’ve been on [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/480432/diablo-4-vessel-of-hatred-expansion-sale-black-friday>
+
+---
+
+## Genshin Impact codes for November 2024
+
+date: 2024-11-15, updated: 2024-11-15, from: Polygon Website
+
+Genshin Impact is one of Hoyoverse’s many games, which means that there are tons of codes revealed via social media channels to redeem in exchange for free loot. These codes can reward a plethora of goods, from food that’ll buff or heal your characters to the premium currency, Primogems. Below we list out the currently [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/genshin-impact-guides/479183/codes-redeem-redemption-gift-primogems>
+
+---
+
+## Disney reportedly pulls Marvel’s Moon Girl and Devil Dinosaur episode over trans athlete story
+
+date: 2024-11-15, updated: 2024-11-15, from: Polygon Website
+
+An unreleased episode of Marvel animated series Moon Girl and Devil Dinosaur won’t air on Disney Channel over its politically sensitive LGBTQ themes, people who worked on the show say. The episode is about the recurring character Brooklyn, a trans classmate of Lunella Lafayette (aka Moon Girl), competing in a girl’s volleyball game and a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/479614/disney-reportedly-pulls-marvels-moon-girl-and-dinosaur-episode-over-trans-athlete-story>
 
 ---
 
@@ -774,4 +834,40 @@ Pokémon Go is having a Mankey Community Day event on Sunday, Nov. 10, from 2-5 
 <br> 
 
 <https://www.polygon.com/pokemon-go-guide/476381/mankey-community-day-shiny-primeape-annihilape>
+
+---
+
+## Marvel’s extended Thunderbolts trailer levels up the best parts of mid-tier MCU
+
+date: 2024-11-09, updated: 2024-11-10, from: Polygon Website
+
+Similar to how the early phases of the Marvel Cinematic Universe turned B- and C-list heroes into the biggest stars on the planet, the next chapter of the mega-franchise intends to pluck side characters from passable movies and iffy TV shows for a team-up movie with high potential. Marvel and Disney released a new extended [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel/476883/marvel-thunderbolts-trailer-brazil-d23>
+
+---
+
+## Heretic’s directors unpack its ambiguous ending
+
+date: 2024-11-09, updated: 2024-11-08, from: Polygon Website
+
+The ending of Scott Beck and Bryan Woods’ horror movie Heretic comes as a surprise: It’s a silent, transcendent moment after a tense, dialogue-heavy story. (End spoilers ahead, as the headline suggests.) A seemingly benign man, Mr. Reed (Hugh Grant), traps two young female Mormon missionaries in his house to test their faith and explain [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/476433/heretic-ending-explained-by-directors>
+
+---
+
+## Arcane season 2’s opening episodes show it was worth the wait
+
+date: 2024-11-09, updated: 2024-11-08, from: Polygon Website
+
+When Arcane season 2 picks up, mere moments after Jinx’s bomb has decimated the Piltover council meeting, tragedy has already struck. There’s wreckage all around, bodies appearing among the rubble as the dust begins to clear. Even for a series as somber as Arcane, it’s desolation; as one character puts it, another cruelty or so [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/476403/arcane-season-2-review-episode-act-1>
 

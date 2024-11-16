@@ -1,11 +1,225 @@
 ---
 title: science and technology
-updated: 2024-11-15 07:10:15
+updated: 2024-11-16 09:06:59
 ---
 
 # science and technology
 
-(date: 2024-11-15 07:10:15)
+(date: 2024-11-16 09:06:59)
+
+---
+
+## NASA Receives 14th Consecutive ‘Clean’ Financial Audit Opinion
+
+date: 2024-11-15, from: NASA breaking news
+
+For the 14th consecutive year, NASA received an unmodified, or “clean,” opinion from an external auditor on its fiscal year 2024 financial statements. The rating is the best possible audit opinion, certifying that NASA’s financial statements conform with Generally Accepted Accounting Principles for federal agencies and accurately present the agency’s financial position. The audit opinion [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-receives-14th-consecutive-clean-financial-audit-opinion/>
+
+---
+
+## Mystery Palo Alto Networks hijack-my-firewall zero-day now officially under exploit
+
+date: 2024-11-15, updated: 2024-11-15, from: The Register (UK I.T. News)
+
+<h4>Yank access to management interface, stat</h4> <p>A critical zero-day vulnerability in Palo Alto Networks&#39; firewall management interface that can allow an unauthenticated attacker to remotely execute code is now officially under active exploitation.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/15/palo_alto_networks_firewall_zeroday/>
+
+---
+
+## ChatGPT or Shakespeare? Readers Couldn't Tell the Difference—and Even Preferred A.I.-Generated Verse
+
+date: 2024-11-15, from: Smithsonian Magazine
+
+A new study suggests people might like chatbot-produced poems for their simple and straightforward images, emotions and themes 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/chatgpt-or-shakespeare-readers-couldnt-tell-the-difference-and-even-preferred-ai-generated-verse-180985480/>
+
+---
+
+## Before the Titanic Sank, a Cheerful Passenger Wrote in a Postcard That He Was 'Leaving for the Land of Stars and Stripes'
+
+date: 2024-11-15, from: Smithsonian Magazine
+
+A handwritten note by Richard William Smith, a British businessman who perished in the disaster, is heading to the auction block, where it could sell for up to $12,600 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/before-the-titanic-sank-a-cheerful-passenger-wrote-in-a-postcard-that-he-was-leaving-for-the-land-of-stars-and-stripes-180985479/>
+
+---
+
+## Keyboard robbers steal 171K customers' data from AnnieMac mortgage house
+
+date: 2024-11-15, updated: 2024-11-15, from: The Register (UK I.T. News)
+
+<h4>Names and social security numbers of folks looking for the biggest loan of their lives exposed</h4> <p>A major US mortgage lender has told customers looking to make the biggest financial transaction of their lives that an intruder broke into its systems and saw data belonging to 171,000 of them.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/15/anniemac_data_breach/>
+
+---
+
+## NASA Addresses Rumors About Health of Starliner Astronaut on the International Space Station—Again
+
+date: 2024-11-15, from: Smithsonian Magazine
+
+The space agency’s chief health and medical officer refutes claims that Suni Williams, who is on the unexpectedly extended Boeing Starliner mission, appears unhealthily thin 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/nasa-addresses-rumors-about-health-of-starliner-astronaut-on-the-international-space-station-again-180985478/>
+
+---
+
+## NASA Goddard Lidar Team Receives Center Innovation Award for Advancements
+
+date: 2024-11-15, from: NASA breaking news
+
+NASA researchers Guan Yang, Jeff Chen, and their team received the 2024 Innovator of The Year Award at the agency’s Goddard Space Flight Center in Greenbelt, Maryland, for their exemplary work on a lidar system enhanced with artificial intelligence and other technologies. Like a laser-based version of sonar, lidar and its use in space exploration [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/technology/goddard-tech/nasa-goddard-lidar-team-receives-center-innovation-award-for-advancements/>
+
+---
+
+## Google Gemini tells grad student to 'please die' while helping with his homework
+
+date: 2024-11-15, updated: 2024-11-15, from: The Register (UK I.T. News)
+
+<h4>First true sign of AGI – blowing a fuse with a frustrating user?</h4> <p>When you&#39;re trying to get homework help from an AI model like Google Gemini, the last thing you&#39;d expect is for it to call you &#34;a stain on the universe&#34; that should &#34;please die,&#34; yet here we are, assuming the conversation published online this week is accurate.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/15/google_gemini_prompt_bad_response/>
+
+---
+
+## Six Ways Supercomputing Advances Our Understanding of the Universe
+
+date: 2024-11-15, from: NASA breaking news
+
+At NASA, high-end computing is essential for many agency missions. This technology helps us advance our understanding of the universe – from our planet to the farthest reaches of the cosmos. Supercomputers enable projects across diverse research, such as making discoveries about the Sun’s activity that affects technologies in space and life on Earth, building [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/>
+
+---
+
+## These Mysterious 12,000-Year-Old Pebbles May Be Early Evidence of Wheel-Like Tools, Archaeologists Say
+
+date: 2024-11-15, from: Smithsonian Magazine
+
+Researchers in Israel suggest the roughly donut-shaped artifacts could be spindle whorls, representing one of the oldest examples of rotational technology 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/these-mysterious-12000-year-old-pebbles-may-be-early-evidence-of-wheel-like-tools-archaeologists-say-180985471/>
+
+---
+
+**@NASA breaking news** (date: 2024-11-15, from: NASA breaking news)
+
+Terms of Service NASA’s “MISSION: All Systems GO!” Participant Terms and Conditions NASA’s MISSION: All Systems GO! is a set of images, videos, certificates and related materials (the “Materials”) intended for use by healthcare providers to assist in reducing the anxieties of children and other patients facing difficult treatment protocols for cancer and other maladies [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/749791/>
+
+---
+
+## Photoshop FOSS alternative GNU Image Manipulation Program 3.0 nearly here
+
+date: 2024-11-15, updated: 2024-11-15, from: The Register (UK I.T. News)
+
+<h4>Nearly 21 years since version 2.0</h4> <p>Version 3.0 of the GNU Image Manipulation Program (GIMP) is nearly ready for release. It has important new and long-awaited abilities – and you can try it now.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/15/gimp_30_release/>
+
+---
+
+## Two Years Ago: Artemis I Liftoff
+
+date: 2024-11-15, from: NASA breaking news
+
+In this photo, NASA’s SLS (Space Launch System) rocket, carrying the Orion spacecraft, lifts off the pad at Launch Complex 39B at the agency’s Kennedy Space Center in Florida at 1:47 a.m. EST on Nov. 16, 2022. Set on a path to the Moon, this officially began the&#160;Artemis I mission. Since the completion of Orion’s [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/two-years-ago-artemis-i-liftoff/>
+
+---
+
+## Pompeii Introduces New Limits on Daily Visitors to Protect the Ancient City From Overtourism
+
+date: 2024-11-15, from: Smithsonian Magazine
+
+A maximum of 20,000 people will be allowed to enter each day in an effort to protect the historic site in Italy, where misbehaving tourists are becoming a persistent problem 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/pompeii-introduces-new-limits-on-daily-visitors-to-protect-the-ancient-city-from-overtourism-180985465/>
+
+---
+
+## PureDarwin intends to make Apple’s Darwin usable with a MATE desktop, future custom desktop environment, and more
+
+date: 2024-11-15, from: OS News
+
+Remember Darwin? It&#8217;s the core of Apple&#8217;s macOS, and the company has always &#8211; sometimes intermittently &#8211; released its source code as open source. Not much ever really happens with Darwin, and any attempts at building a usable operating system on top of Darwin have failed. There was OpenDarwin, which at one point could run a GNOME desktop, but in 2006 it shut itself down, stating: Over the past few years, OpenDarwin has become a mere hosting facility for Mac OS X related projects. The original notions of developing the Mac OS X and Darwin sources has not panned out. Availability of sources, interaction with Apple representatives, difficulty building and tracking sources, and a lack of interest from the community have all contributed to this. Administering a system to host other people&#8217;s projects is not what the remaining OpenDarwin contributors had signed up for and have been doing this thankless task far longer than they expected. It is time for OpenDarwin to go dark. ↫ OpenDarwin announcement from 2006 (archived) Any other attempts at making Darwin work as a standalone operating system were further frustrated by the fact that Apple stopped releasing bootable Darwin images, so Darwin never amounted to much more than Apple throwing some code over the fence every now and then for some cheap goodwill among the few people who still believe Apple cares about open source. However, the dream is still alive &#8211; the idea that you could use Darwin to build a general purpose operating system, perhaps one with some semblance of compatibility with macOS software, is an attractive one. Enter PureDarwin. This project has been around for a while now, releasing an X11-capable build of Darwin somewhere in 2015, followed long, long after that by a CLI-only build in 2020. A few days ago, the project announced an ambitious change in direction, with a plan and roadmap for turning PureDarwin into a general purpose operating system. The PureDarwin project, originally created to bring Apple’s open-source Darwin OS to more people, is heading in a fresh new direction with some clear short-term and long-term goals. These new plans are all about breathing new life into PureDarwin. In the short term, we&#8217;re focused on getting some solid basics in place with graphical interfaces using MATE Desktop and LightDM, so users can get a functional and accessible experience sooner rather than later. Looking further down the line, the long-term goals—shown in some early wireframes—are about creating a fully featured, polished desktop experience that’s easy to use and visually appealing. Plus, a new versioning system will make it clear how PureDarwin is progressing independently from Apple’s Darwin updates, making it easier for everyone to keep track. This refreshed direction sets PureDarwin up to grow from its roots into a user-centered operating system. ↫ PureDarwin announcement These plans and roadmap sound quite well thought-out to me. I especially like that they first focus on getting a solid MATE desktop running before shifting to building a more custom desktop environment, as this makes it much easier &#8211; relatively speaking &#8211; to get people up and running with Darwin. Once Darwin with MATE is halfway usable, it can serve its job as a development platform for the more custom desktop environment they have planned. It won&#8217;t surprise you, by the way, that the sketches for the custom desktop environment are very Apple-y. As part of the goals of creating a usable MATE desktop and then a more custom desktop environment, a whole bunch of low-level things need to be handled. All the kexts (drivers) required for Darwin to boot need to be built, and CoreFoundation needs to be updated, a process that was already under way. On top of that, the project wants to focus on getting Wayland to work, make Darwin buildable under BSD/Linux, and develop an installer. Beyond those goals, the project has an even bigger, tentative ambition: API compatibility with macOS. They make it very clear they&#8217;re not at all focused on this right now, and consider it more of a pie-in-the-sky goal for the the distant future. It&#8217;s an interesting ambition we&#8217;ve seen tried various times before, and it surely won&#8217;t be even remotely easy to get it to a level where it could do much more than run some command-line utilities. Darling, a similar project to run macOS binaries on Linux in the style of Wine, has only recently been able to run some small, very basic GUI applications. I like all of these goals, and especially getting it to a state where you can download a Darwin ISO running MATE should be entirely realistic to achieve in a short timeframe. A custom desktop environment is a lot more work of course, all depending on how much they intend to reuse from the Linux graphics and desktop stack. Anything beyond that, and it becomes much murkier, obviously. As always, it&#8217;s all going to come down to just how many active and enthusiastic contributors they can attract, and more importantly retain once the initial excitement of this announcement wears off. 
+
+<br> 
+
+<https://www.osnews.com/story/141138/puredarwin-intends-to-make-apples-darwin-usable-with-a-mate-desktop-future-custom-desktop-environment-and-more/>
+
+---
+
+## NASA Satellites Reveal Abrupt Drop in Global Freshwater Levels
+
+date: 2024-11-15, from: NASA breaking news
+
+Earth’s total amount of freshwater dropped abruptly starting in May 2014 and has remained low ever since. 
+
+<br> 
+
+<https://science.nasa.gov/earth/nasa-satellites-reveal-abrupt-drop-in-global-freshwater-levels/>
+
+---
+
+## LXQt packs Wayland punch with 2.1 release
+
+date: 2024-11-15, updated: 2024-11-15, from: The Register (UK I.T. News)
+
+<h4>The lightest mainstream Linux desktop joins the tiny handful that support X.org replacement</h4> <p>LXQt 2.1 is the latest release of the lightweight Qt-based desktop used in Lubuntu – but this version has a significant edge over its rivals.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/15/lxqt_21/>
+
+---
+
+## Musk also wants to fight Microsoft in legal grudge match with OpenAI
+
+date: 2024-11-15, updated: 2024-11-15, from: The Register (UK I.T. News)
+
+<h4>House of GPT says suit is &#39;baseless and overreaching&#39;</h4> <p>Elon Musk has added Microsoft and the venture capitalist Reid Hoffman to the list of defendants in his long-running legal dispute with OpenAI. The ChatGPT maker called the claim &#34;baseless and overreaching.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/15/musk_openai_amended_complaint/>
 
 ---
 
@@ -157,7 +371,7 @@ date: 2024-11-15, updated: 2024-11-15, from: The Register (UK I.T. News)
 
 date: 2024-11-15, updated: 2024-11-15, from: The Register (UK I.T. News)
 
-<h4>NHS supplier that leaked employee info fell victim to fiddly access controls that can leave databases dangling online</h4> <p>Private businesses and public-sector organizations are unwittingly exposing millions of people&#39;s sensitive information to the public internet because they misconfigure Microsoft’s Power Pages website creation problem.…</p> 
+<h4>NHS supplier that leaked employee info fell victim to fiddly access controls that can leave databases dangling online</h4> <p>Private businesses and public-sector organizations are unwittingly exposing millions of people&#39;s sensitive information to the public internet because they misconfigure Microsoft’s Power Pages website creation program.…</p> 
 
 <br> 
 
@@ -177,9 +391,9 @@ date: 2024-11-15, updated: 2024-11-15, from: The Register (UK I.T. News)
 
 ---
 
-## Airbus A380 flew for 300 hours with meter-long tool left inside engine
+## Airbus A380 flew for 300 hours with metre-long tool left inside engine
 
-date: 2024-11-15, updated: 2024-11-15, from: The Register (UK I.T. News)
+date: 2024-11-15, updated: 2024-11-16, from: The Register (UK I.T. News)
 
 <h4>Emails and tool-tracking software weren&#39;t heeded, but nothing scary happened - except to the nylon tool</h4> <p>An Airbus A380 operated by Australian airline Qantas clocked over 290 hours of flight time despite a tool having been left inside one of its engines, according to a report from the Australian Transport Safety Bureau.…</p> 
 
@@ -767,9 +981,9 @@ date: 2024-11-14, updated: 2024-11-14, from: The Register (UK I.T. News)
 
 ## Reminder: China-backed crews compromised 'multiple' US telcos in 'significant cyber espionage campaign'
 
-date: 2024-11-14, updated: 2024-11-14, from: The Register (UK I.T. News)
+date: 2024-11-14, updated: 2024-11-16, from: The Register (UK I.T. News)
 
-<h4>Feds don&#39;t name Salt Typhoon, but describe Beijing band&#39;s alleged deeds</h4> <p>The US government has confirmed there was &#34;a broad and significant cyber espionage campaign&#34; conducted by China-linked snoops against &#34;multiple&#34; American telecommunications providers&#39; networks.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>Feds don&#39;t name Salt Typhoon, but describe Beijing band&#39;s alleged deeds</h4> <p><strong>Updated</strong>  The US government has confirmed there was &#34;a broad and significant cyber espionage campaign&#34; conducted by China-linked snoops against &#34;multiple&#34; American telecommunications providers&#39; networks.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 
@@ -791,7 +1005,7 @@ One of the things I&#8217;ve consistently heard from just about anyone involved 
 
 ## All bark, no bite? Musk's DOGE unlikely to have any real power
 
-date: 2024-11-14, updated: 2024-11-14, from: The Register (UK I.T. News)
+date: 2024-11-14, updated: 2024-11-15, from: The Register (UK I.T. News)
 
 <h4>&#39;Department of Government Efficiency&#39; expected to do little more than suggest changes, Congress will still decide</h4> <p><strong>Comment</strong>  Well, it&#39;s official(ish): US president-elect Donald Trump has made good on a campaign promise to appoint Elon Musk to the head of &#34;the Department of Government Efficiency&#34; – or DOGE. …</p> 
 
@@ -815,7 +1029,7 @@ date: 2024-11-14, updated: 2024-11-14, from: The Register (UK I.T. News)
 
 ## Here's how a Trump presidency could change the tech industry
 
-date: 2024-11-13, updated: 2024-11-14, from: The Register (UK I.T. News)
+date: 2024-11-13, updated: 2024-11-15, from: The Register (UK I.T. News)
 
 <h4>Anything could happen in the next half ... decade</h4> <p><strong>Kettle</strong>  Despite countless warnings that the US presidential election would lead to a months-long battle, with a decisive win by Donald Trump and his party, we can immediately look ahead to how the next four years of Republican rule might change the tech industry.…</p> 
 
@@ -2154,4 +2368,28 @@ date: 2024-11-10, updated: 2024-11-10, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2024/11/10/llm_finetuning_guide/>
+
+---
+
+## Unbreakable Voyager space probes close in on a 50 year mission
+
+date: 2024-11-09, updated: 2024-11-09, from: The Register (UK I.T. News)
+
+<h4>Dwindling power and problematic communications, but the spacecraft just keeps on going</h4> <p>&#34;We&#39;re definitely going to make the 50th anniversary,&#34; says Professor Garry Hunt, one of the scientists responsible for NASA&#39;s Voyager mission, as Voyager 1 recovers from an unexpected pause in communications.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/09/voyager_closes_in_on_a/>
+
+---
+
+## Intel: Our finances are in the toilet, we're laying off 15K, but the free coffee is back!
+
+date: 2024-11-09, updated: 2024-11-09, from: The Register (UK I.T. News)
+
+<h4>Now that&#39;s a brew-haha</h4> <p>Struggling chip giant Intel has rescinded a cost-cutting plan to abolish free coffee and tea for its staff.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/09/intel_free_coffee/>
 
