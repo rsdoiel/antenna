@@ -1,11 +1,63 @@
 ---
 title: pacific
-updated: 2024-11-18 07:34:01
+updated: 2024-11-18 15:43:14
 ---
 
 # pacific
 
-(date: 2024-11-18 07:34:01)
+(date: 2024-11-18 15:43:14)
+
+---
+
+## $500K to broaden AI program for equitable healthcare access
+
+date: 2024-11-18, from: University of Hawaiʻi News
+
+<p>The program will expand nationwide, offering a concierge platform and specialized <abbr>AI</abbr> resources.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/18/ai-for-equitable-healthcare-access/">$500K to broaden <abbr>AI</abbr> program for equitable healthcare access</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/18/ai-for-equitable-healthcare-access/>
+
+---
+
+## Hilo native returns home to build statewide engineering pipeline
+
+date: 2024-11-18, from: University of Hawaiʻi News
+
+<p>The new pre-engineering pathway program allows students to begin their engineering studies at <abbr>UH</abbr> Hilo before transferring to <abbr>UH</abbr> Mānoa to complete their degrees.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/18/trevor-shimokusu-engineer/">Hilo native returns home to build statewide engineering pipeline</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/18/trevor-shimokusu-engineer/>
+
+---
+
+## Celebrating Student Production Studios
+
+date: 2024-11-18, from: HIKI NŌ ON PBS HAWAIʻI
+
+<p>In this episode of HIKI NŌ on PBS Hawai‘i, learn about the different kinds of production studios at schools on Oʻahu and Kauaʻi and revisit some memorable stories from our archives. We visit Honowai Elementary School’s new recording studio at their campus on Oʻahu and discover how far their program has come. Waiʻanae High School [&#8230;]</p>
+<p>The post <a href="https://www.pbshawaii.org/celebrating-student-production-studios/">Celebrating Student Production Studios</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/celebrating-student-production-studios/>
+
+---
+
+## Self-Portrait With Wellbutrin & Pig Roast
+
+date: 2024-11-18, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Connor Donovan We don’t speak of it anymore: the hilltop bonfires holding natural light, bottlenecking the cans &#38; burning them green. The cathedral clock tower above us like a jaundiced eye. Being passed an apple packed with burnt nubs &#8230; <a href="https://hawaiipacificreview.org/2024/11/18/self-portrait-with-wellbutrin-pig-roast/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://hawaiipacificreview.org/2024/11/18/self-portrait-with-wellbutrin-pig-roast/>
 
 ---
 

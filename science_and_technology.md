@@ -1,11 +1,347 @@
 ---
 title: science and technology
-updated: 2024-11-18 07:34:01
+updated: 2024-11-18 15:43:14
 ---
 
 # science and technology
 
-(date: 2024-11-18 07:34:01)
+(date: 2024-11-18 15:43:14)
+
+---
+
+## Google is reportedly killing Chrome OS in favour of Android
+
+date: 2024-11-18, from: OS News
+
+Mishaal Rahman, who has a history of being right about Google and Android-related matters, is reporting that Google is intending to standardise its consumer operating system efforts onto a single platform: Android. To better compete with the iPad as well as manage engineering resources more effectively, Google wants to unify its operating system efforts. Instead of merging Android and Chrome OS into a new operating system like rumors suggested in the past, however, a source told me that Google is instead working on fully migrating Chrome OS over to Android. While we don’t know what this means for the Chrome OS or Chromebook brands, we did hear that Google wants future “Chromebooks” to ship with the Android OS in the future. That’s why I believe that Google’s rumored new Pixel Laptop will run a new version of desktop Android as opposed to the Chrome OS that you’re likely familiar with. ↫ Mishaal Rahman at Android Authority The fact both Chrome OS and Android exist, and are competing with each other in some segments &#8211; most notably tablets &#8211; hasn&#8217;t done either operating system any favours. I doubt many people even know Chrome OS tablets are a thing, and I doubt many people would say Android tablets are an objectively better choice than an iPad. I personally definitely prefer Android on tablets over iOS on tablets, but I fully recognise that for 95% of tablet buyers, the iPad is the better, and often also more affordable, choice. Google has been struggling with Android on tablets for about as long as they&#8217;ve existed, and now it seems that the company is going to focus all of its efforts on just Android, leaving Chrome OS to slowly be consumed and replaced by it. In June, Google already announced it was going to replace both the kernel and several subsystems in Chrome OS with their Android counterparts, and now they&#8217;re also building a new version of Chrome for Android with extensions supports &#8211; to match Chrome on Chrome OS &#8211; as well as a terminal application for Android that gives access to a local Linux virtual machine, much like is available on Chrome OS. As mentioned, laptops running Android will also be making an entrance, including a Pixel laptop straight from Google. The next big update for Android 15 contains a ton of new proper windowing features, and there&#8217;s more coming: improved keyboard and mouse support, as well as external monitors, virtual desktops, and a lot more. As anyone who has ever attempted to run Android on a desktop or laptop knows, there&#8217;s definitely a ton of work Google needs to do to make Android palatable to consumers on that front. Of course, this being Google, any of these rumours or plans could change at any time without any sense of logic behind it, as managers fulfill their quotas, get promoted, or leave the company. 
+
+<br> 
+
+<https://www.osnews.com/story/141154/google-is-reportedly-killing-chrome-os-in-favour-of-android/>
+
+---
+
+## Critical 9.8-rated VMware vCenter RCE bug exploited after patch fumble
+
+date: 2024-11-18, updated: 2024-11-18, from: The Register (UK I.T. News)
+
+<h4>If you didn&#39;t fix this a month ago, your to-do list probably needs a reshuffle</h4> <p>Two VMware vCenter server bugs, including a critical heap-overflow vulnerability that leads to remote code execution (RCE), have been exploited in attacks after Broadcom’s first attempt to fix the flaws fell short.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/18/vmware_vcenter_rce_exploited/>
+
+---
+
+## Sols 4366–4367: One of Those Days on Mars (Sulfate-Bearing Unit to the West of Upper Gediz Vallis)
+
+date: 2024-11-18, from: NASA breaking news
+
+Earth planning date: Friday, Nov. 15, 2024 The Monday plan and drive had executed successfully, so the team had high hopes for APXS and MAHLI data on several enticing targets in the rover’s workspace. Alas, it was not to be: The challenging terrain had resulted in an awkwardly perched wheel at the end of the […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4366-4367-one-of-those-days-on-mars-sulfate-bearing-unit-to-the-west-of-upper-gediz-vallis/>
+
+---
+
+## Endangered Sierra Nevada Yellow-Legged Frogs Are Making a Comeback
+
+date: 2024-11-18, from: Smithsonian Magazine
+
+Scientists are celebrating the recovery of the species in Yosemite National Park, where they were decimated by the introduction of non-native fish and the deadly amphibian chytrid fungus 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/endangered-sierra-nevada-yellow-legged-frogs-are-making-a-comeback-180985489/>
+
+---
+
+## Judges not impressed by Amazon, SpaceX's attempt to have NLRB declared unconstitutional
+
+date: 2024-11-18, updated: 2024-11-18, from: The Register (UK I.T. News)
+
+<h4>Big Tech&#39;s big war on American labor watchdog stumbles... bigly</h4> <p>Amazon and SpaceX argued in court today that the US National Labor Relations Board (NLRB) is an unconstitutional body – but a three-judge panel didn&#39;t seem particularly enamored of their arguments.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/18/appeals_court_amazon_spacex_nlrb/>
+
+---
+
+## Part Ojibwe, All NASA: Linda Spuler’s Role in Protecting Johnson Space Center
+
+date: 2024-11-18, from: NASA breaking news
+
+Linda Spuler, emergency manager at NASA’s Johnson Space Center in Houston, believes that everyone has a story. “Our stories highlight what we have in common, but they also make us each unique,” she said.  Spuler has worked at Johnson for over 32 years, spending most of her career in Center Operations. Her story has involved [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/part-ojibwe-all-nasa-linda-spulers-role-in-protecting-johnson-space-center/>
+
+---
+
+## New Statue Honoring Civil Rights Activist John Lewis Unveiled in His Home State of Alabama
+
+date: 2024-11-18, from: Smithsonian Magazine
+
+The life-sized bronze sculpture of the congressman joins statues of Martin Luther King Jr. and Rosa Parks in the Equal Justice Initiative's Legacy Plaza in Montgomery 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/new-statue-honoring-civil-rights-activist-john-lewis-unveiled-in-his-home-state-of-alabama-180985491/>
+
+---
+
+## T-Mobile US 'monitoring' China's 'industry-wide attack' amid fresh security breach fears
+
+date: 2024-11-18, updated: 2024-11-18, from: The Register (UK I.T. News)
+
+<h4>Un-carrier said to be among those hit by Salt Typhoon, including AT&amp;T, Verizon</h4> <p>T-Mobile US said it is &#34;monitoring&#34; an &#34;industry-wide&#34; cyber-espionage campaign against American networks – amid fears Chinese government-backed spies compromised the un-carrier among with various other telecommunications providers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/18/tmobile_us_attack_salt_typhoon/>
+
+---
+
+## The Far Side of the Moon Was Volcanically Active, New Studies Confirm
+
+date: 2024-11-18, from: Smithsonian Magazine
+
+Scientists analyzed the first and only rock samples from the region, which were brought back to Earth as part of a recent Chinese mission 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/new-studies-confirm-that-the-far-side-of-the-moon-was-volcanically-active-180985490/>
+
+---
+
+## iOS 18.1 will reboot iPhones to a locked state after 72 hours of inactivity
+
+date: 2024-11-18, from: OS News
+
+In recent weeks, law enforcement in the United States discovered, to their dismay, that iPhones were automatically rebooting themselves after a few days of inactivity, thereby denying them access to the contents of these phones. After a lot of speculation online, Jiska Classen dove into this story to find out what was going on, and through reverse-engineering they discovered that this was a new security feature built by Apple as part of iOS 18.1, to further make stolen iPhones useless for both thieves as well as law enforcement officers. It&#8217;s a rather clever feature. The Secure Enclave Processor inside the iPhone keeps track of when the phone was last unlocked, and if that period exceeds 72 hours, the SEP will inform a kernel module. This kernel module will then, in turn, tell the phone to gracefully reboot, meaning no data is lost in this process. If the phone for whatever reason does not reboot and remains powered on, the module will assume the phone&#8217;s been tampered with somehow and kernel-panic. Interestingly, if the reboot takes place properly, an analytics report stating how long the phone was not unlocked will be sent to Apple. The reason this is such a powerful feature is that a locked iPhone is entirely useless to anyone who doesn&#8217;t have the right code or biometrics to unlock it. Everything on the device is encrypted, and only properly unlocking it will decrypt the phone&#8217;s contents; in fact, a locked phone can&#8217;t even join a Wi-Fi network, because the stored passwords are encrypted (and I&#8217;m assuming that a locked phone does not provide access to any methods of joining an open network either). When you have a SIM card without any pincode, the iPhone will connect to the cellular network, but any notifications or calls coming in will effectively be empty, since incoming phone numbers can&#8217;t be linked to any of the still-encrypted contacts, and while the phone can tell it&#8217;s received notifications, it can&#8217;t show you any of their contents. A thief who&#8217;s now holding this phone can&#8217;t do much with it if it locks itself like this after a few days, and law enforcement won&#8217;t be able to access the phone either. This is a big deal in places where arrests based purely on skin colour or ethnicity or whatever are common, like in the United States (and in Europe too, just to a far lesser degree), or in places where people have to fear the authorities for other reasons, like in totalitarian dictatorships like Russia, China or Iran, where any hint of dissent can end you in harsh prisons. Apple is always at the forefront with features such as these, with Google and Android drunkenly stumbling into the open door a year later with copies that take ages to propagate through the Android user base. I&#8217;m legitimately thankful for Apple raising awareness of the need of features such as these &#8211; even if they&#8217;re too cowardly to enable them in places like China &#8211; as it&#8217;s quite clear a lot more people need to start caring about these things, with recent developments and all. 
+
+<br> 
+
+<https://www.osnews.com/story/141151/ios-18-1-will-reboot-iphones-to-a-locked-state-after-72-hours-of-inactivity/>
+
+---
+
+## NASA to Provide Coverage of Progress 90 Launch, Space Station Docking
+
+date: 2024-11-18, from: NASA breaking news
+
+NASA will provide live launch and docking coverage of a Roscosmos cargo spacecraft delivering nearly three tons of food, fuel, and supplies to the Expedition 72 crew aboard the International Space Station. The unpiloted Progress 90 spacecraft is scheduled to launch at 7:22 a.m. EST (5:22 p.m. Baikonur time) Thursday, Nov. 21, on a Soyuz [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-to-provide-coverage-of-progress-90-launch-space-station-docking/>
+
+---
+
+## A 35,000-Year-Old Saber-Toothed Cub Was Unearthed in Siberia—and It Still Had Its Whiskers and Claws
+
+date: 2024-11-18, from: Smithsonian Magazine
+
+The frozen kitten, discovered in 2020, has stunned scientists with its remarkably well-preserved body 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-35000-year-old-saber-toothed-kitten-was-unearthed-in-siberiaand-it-still-had-its-whiskers-and-claws-180985488/>
+
+---
+
+## Musk, America PAC sued for allegedly rigging $1M election prize
+
+date: 2024-11-18, updated: 2024-11-18, from: The Register (UK I.T. News)
+
+<h4>This was pretty inevitable after its lawyers admitted in court that the giveaway wasn&#39;t random</h4> <p>Elon Musk and his America PAC have been sued for allegedly lying about their $1 million election lottery after letting slip in a court hearing earlier this month that it wasn&#39;t as random as Musk suggested. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/18/musk_america_pac_sued/>
+
+---
+
+## Station Science Top News: Nov. 15, 2024
+
+date: 2024-11-18, from: NASA breaking news
+
+Anthocyanins protect seeds in space After exposure to space outside the International Space Station, purple-pigmented rice seeds rich in anthocyanin had higher germination rates than non-pigmented white rice seeds. This result suggests that anthocyanin, a flavonoid known to protect plants from UV irradiation, could help preserve seed viability on future space missions. Plants are key [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-15-2024/>
+
+---
+
+## November Transformer of the Month: Ariel Vargas
+
+date: 2024-11-18, from: NASA breaking news
+
+When Ariel Vargas joined NASA in 2023, he knew he wanted to make an impact. Despite his relatively short tenure, he has earned the reputation of a Digital Transformer in his work as a Network and ICAM (Identity, Credential, and Access Management) Service Integrator at Johnson Space Center (JSC). No matter the task at hand, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/november-transformer-of-the-month-ariel-vargas/>
+
+---
+
+## First Nations Launch Winners Watch Crew-7 Launch
+
+date: 2024-11-18, from: NASA breaking news
+
+In this image from Aug. 26, 2023, participants from the 14th First Nations Launch High-Power Rocket Competition watch NASA’s SpaceX Crew-7 launch at the agency’s Kennedy Space Center in Florida. Students and advisors from University of Washington, University of Colorado-Boulder, and an international team from Queens University – the 2023 First Nations Launch grand prize [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/first-nations-launch-winners-watch-crew-7-launch/>
+
+---
+
+## Nvidia's latest Blackwell boards pack 4 GPUs, 2 Grace CPUs, and suck down 5.4 kW
+
+date: 2024-11-18, updated: 2024-11-18, from: The Register (UK I.T. News)
+
+<h4>You can now glue four H200 PCIe cards together too</h4> <p><strong>SC24</strong>  Nvidia&#39;s latest HPC and AI chip is a massive single board computer packing four Blackwell GPUs, 144 Arm Neoverse cores, up to 1.3 terabytes of HBM, and a scorching 5.4 kilowatt TDP.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/18/nvidia_gb200_nvl4/>
+
+---
+
+## 15 Years Ago: STS-129 Delivers Cargo on the Third Utilization and Logistics Flight
+
+date: 2024-11-18, from: NASA breaking news
+
+On Nov. 16, 2009, space shuttle Atlantis began its 31st trip into space, on the third Utilization and Logistics Flight (ULF3) mission to the International Space Station, the 31st shuttle flight to the orbiting lab. During the 11-day mission, the six-member STS-129 crew worked with the six-person Expedition 21 crew during seven days of docked [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/history/15-years-ago-sts-129-delivers-cargo-on-the-third-utilization-and-logistics-flight/>
+
+---
+
+## Nvidia continues its quest to shoehorn AI into everything, including HPC
+
+date: 2024-11-18, updated: 2024-11-18, from: The Register (UK I.T. News)
+
+<h4>GPU giant contends that a little fuzzy math can speed up fluid dynamics, drug discovery</h4> <p><strong>SC24</strong>  Nvidia on Monday unveiled several new tools and frameworks for augmenting real-time fluid dynamics simulations, computational chemistry, weather forecasting, and drug development with everyone&#39;s favorite buzzword: AI.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/18/nvidia_ai_hpc/>
+
+---
+
+## Ancient Roman Gladiators Were Huge Celebrities Who Even Had Their Own Merch
+
+date: 2024-11-18, from: Smithsonian Magazine
+
+A tiny gladiator figurine was used as a handle on a 2,000-year-old copper folding knife found in an English river, suggesting that popular fascination with the ancient fighters reached the edges of the empire 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/ancient-roman-gladiators-were-huge-celebrities-who-even-had-their-own-merch-180985481/>
+
+---
+
+## NASA’s Curiosity Mars Rover Takes a Last Look at Mysterious Sulfur
+
+date: 2024-11-18, from: NASA breaking news
+
+The rover captured a 360-degree panorama before leaving Gediz Vallis channel, a feature it’s been exploring for the past year. NASA’s Curiosity rover is preparing for the next leg of its journey, a monthslong trek to a formation called the boxwork, a set of weblike patterns on Mars’ surface that stretches for miles. It will [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-takes-a-last-look-at-mysterious-sulfur/>
+
+---
+
+## NASA Selects New Leader of Space Technology
+
+date: 2024-11-18, from: NASA breaking news
+
+Clayton P. Turner will serve as the associate administrator of the Space Technology Mission Directorate (STMD) at the agency’s headquarters in Washington, NASA Administrator Bill Nelson announced Monday. His appointment is effective immediately. Turner has served as the acting associate administrator of STMD since July. In this role, Turner will continue to oversee executive leadership, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-selects-new-leader-of-space-technology/>
+
+---
+
+## LLNL's El Capitan surpasses Frontier with 1.74 exaFLOPS performance
+
+date: 2024-11-18, updated: 2024-11-18, from: The Register (UK I.T. News)
+
+<h4>Uncle Sam tops supercomputer charts, while China recides from public view</h4> <p><strong>SC24</strong>  Lawrence Livermore National Lab&#39;s (LLNL) El Capitan system has ended Frontier&#39;s 2.5-year reign as the number one ranked supercomputer on the Top500, setting a new high water mark for high-performance computing (HPC).…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/18/top500_el_capitan/>
+
+---
+
+## Hollywood Techniques Help NASA Visualize Supercomputing Data
+
+date: 2024-11-18, from: NASA breaking news
+
+Captivating images and videos can bring data to life. NASA’s Scientific Visualization Studio (SVS) produces visualizations, animations, and images to help scientists tell stories of their research and make science more approachable and engaging. Using the Discover supercomputer at the Center for Climate Simulation at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, visualizers use [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/ames/hollywood-techniques-help-nasa-visualize-supercomputing-data/>
+
+---
+
+## NASA wants ideas on how to haul injured moonwalkers
+
+date: 2024-11-18, updated: 2024-11-18, from: The Register (UK I.T. News)
+
+<h4>$45K says you can do it without a lunar rover</h4> <p>How do you rescue an injured crew member on the lunar surface? NASA is looking for ideas, and a share of a $45,000 prize pot is up for grabs.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/18/nasa_injured_astronaut_transport/>
+
+---
+
+## This Forgotten Sculpture Was Used as a Doorstop in a Scotland Shed. It Turned Out to Be a Masterpiece Worth Millions
+
+date: 2024-11-18, from: Smithsonian Magazine
+
+The marble bust was made by the celebrated sculptor Edmé Bouchardon nearly 300 years ago. After a small town purchased it in the 1930s, it was lost for decades 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/this-forgotten-sculpture-was-used-as-a-doorstop-in-a-scotland-shed-it-turned-out-to-be-a-masterpiece-worth-millions-180985463/>
+
+---
+
+## Sweden's 'Doomsday Prep for Dummies' guide hits mailboxes today
+
+date: 2024-11-18, updated: 2024-11-18, from: The Register (UK I.T. News)
+
+<h4>First in six years is nearly three times the size of the older, pre-NATO version</h4> <p>Residents of Sweden are to receive a handy new guide this week that details how to prepare for various types of crisis situations or wartime should geopolitical events threaten the country.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/18/sweden_updates_war_guide/>
+
+---
+
+## Australian Zoo Asks Residents to Capture the World’s Most Venomous Spider: the Deadly Sydney Funnel-Web
+
+date: 2024-11-18, from: Smithsonian Magazine
+
+The Australian Reptile Park’s annual callout is crucial to creating life-saving antivenom 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/australian-zoo-asks-residents-to-capture-the-worlds-most-venomous-spider-the-deadly-sydney-funnel-web-180985483/>
 
 ---
 
@@ -121,7 +457,7 @@ Version 6.12 of the Linux kernel has been released. The main feature consists of
 
 date: 2024-11-18, from: Smithsonian Magazine
 
-After her detainment on this day in in 1872, Anthony was found guilty by a federal court. She refused to pay her "unjust" $100 fine 
+After her detainment on this day in 1872, Anthony was found guilty by a federal court. She refused to pay her "unjust" $100 fine 
 
 <br> 
 
@@ -189,7 +525,7 @@ date: 2024-11-18, updated: 2024-11-18, from: The Register (UK I.T. News)
 
 ---
 
-## Weekends were a mistake says Infosys co-founder Narayama Murthy
+## Weekends were a mistake, says Infosys co-founder Narayama Murthy
 
 date: 2024-11-18, updated: 2024-11-18, from: The Register (UK I.T. News)
 
@@ -225,9 +561,9 @@ date: 2024-11-18, updated: 2024-11-18, from: The Register (UK I.T. News)
 
 ---
 
-## US, China, agree machines must not be allowed to control nuclear weapons
+## US, China agree machines must not be allowed to control nuclear weapons
 
-date: 2024-11-17, updated: 2024-11-17, from: The Register (UK I.T. News)
+date: 2024-11-17, updated: 2024-11-18, from: The Register (UK I.T. News)
 
 <h4>PLUS: LG struts catwalk in stretchy screen; Samsung’s strike nears end; Vietnam warns Chinese e-commerce players; and more</h4> <p><strong>ASIA IN BRIEF</strong>  President Xi Jinping of China and President Joe Biden of the USA have pledged to continue working together to ensure AI does not harm humanity.…</p> 
 

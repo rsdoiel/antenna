@@ -1,15 +1,27 @@
 ---
 title: columns
-updated: 2024-11-18 07:34:02
+updated: 2024-11-18 15:43:14
 ---
 
 # columns
 
-(date: 2024-11-18 07:34:02)
+(date: 2024-11-18 15:43:14)
 
 ---
 
-##  This Week 
+## Carl Sagan on Books
+
+date: 2024-11-18, from: Om Malik blog
+
+There seems to be an open season on books. It is such a&#160;shame&#160;that even the so-called educated people don&#8217;t see the bigger picture. Books, in a way, are a&#160;means&#160;to build on collective human history. Our new-fangled &#8220;AI&#8221; is the sum of all books, though even its purveyors are not able to grok this&#160;reality. If not &#8230; 
+
+<br> 
+
+<https://om.co/2024/11/18/carl-sagan-on-books/>
+
+---
+
+##  Christian Right Lobbies To Overturn Second Law Of Thermodynamics. &#8220;What do these... 
 
 date: 2024-11-18, updated: 2024-11-18, from: Jason Kittke's blog
 
@@ -17,11 +29,11 @@ date: 2024-11-18, updated: 2024-11-18, from: Jason Kittke's blog
 
 <br> 
 
-<https://kottke.org/24/11/this-week>
+<https://kottke.org/24/11/0045620-christian-right-lobbies-t>
 
 ---
 
-##  You might be able to fit an entire orange in your mouth.... 
+##  The trailer for Mission: Impossible – The Final Reckoning. Tom Cruise&#8230;still running.... 
 
 date: 2024-11-18, updated: 2024-11-18, from: Jason Kittke's blog
 
@@ -29,56 +41,105 @@ date: 2024-11-18, updated: 2024-11-18, from: Jason Kittke's blog
 
 <br> 
 
-<https://kottke.org/24/11/0045650-you-might-be-able-to>
+<https://kottke.org/24/11/0045662-the-trailer-for-mission-i>
 
 ---
 
-## Bluesky feature request
+##  Less Uniform Social Media Experiences 
 
-date: 2024-11-18, from: Dave Winer's Scripting News
+date: 2024-11-18, updated: 2024-11-18, from: Jason Kittke's blog
 
-<p>I posted a <a href="https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3lb46hc76n22p">feature request</a> on Bluesky that has gotten a lot of flow. </p>
-<ul>
-<li>Bluesky devs..</li>
-<li>How about a compromise. </li>
-<li>Support inbound RSS.</li>
-<li>Let me enter the URL of an RSS feed in settings. </li>
-<li>I'll ping a fixed location when the feed updates.</li>
-<li>Would allow the same flow to go to other systems. </li>
-<li>This would help a lot. </li>
-<li>PS: I'll help.</li>
-</ul>
-<p><b>Discussion</b></p>
-<ul>
-<li>Imagine a Bluesky-like network that you could post to through any blogging tool that can create an RSS feed. Imagine the new tools that could be created. All of a sudden a whole world of writing tools opens up.</li>
-<li>It should happen faster than the proprietary format that Bluesky defined, because RSS is so well understood in the developer world. Lots of software out there for reading and writing. I have a couple of toolkits of my own, for JavaScript, MIT licensed. In use in deployed software so they work pretty well. (Knock wood.) </li>
-<li>Also it would create an incentive for competitors to follow suit, and if they do we suddenly have a strong and simple and broadly understood basis for interop. It's a brilliant competitive move, if they really intend to give users choice, to not lock them in. It challenges their competitors to follow suit. I don't doubt that Mastodon would do it. And Threads might even do it if they're feeling competitive with Bluesky. They've already chosen ActivityPub as a basis for interop, but that's been slow to develop. RSS is so simple and well understood it should take a small fraction of the time to adapt.</li>
-<li>Bluesky has already pioneered in providing excellent outbound RSS support. I helped them do it, a while back, before the huge onslaught of users. </li>
-<li>The fact that so many users loved the idea is enough to have made it worthwhile to suggest it. But I wouldn't be tremendously surprised if they actually did it. </li>
-</ul>
  
 
 <br> 
 
-<http://scripting.com/2024/11/18/142716.html?title=blueskyFeatureRequest>
+<https://kottke.org/24/11/less-uniform-social-media-experiences>
 
 ---
 
-## Feedback on sez.us sign up
+## Can We “SEO “AI?
 
-date: 2024-11-18, from: Dave Winer's Scripting News
+date: 2024-11-18, from: Om Malik blog
 
-<p>Why I haven't created an account on <a href="https://sez.us/">sez.us</a> yet. </p>
-<ul>
-<li>They ask for my first and last name before I sign up. Ask for that info later, after I've created an account. I gave it a fake name to get to the next screen.</li>
-<li>Then they ask for my phone number. That's when I hit the back button. I already get too much spam on my phone, and the filters aren't good there. I am happy to provide an email address as my identifier as I do on all other systems. Later, if I become a regular user, I don't mind providing the phone number as part of 2-factor identity, but not up front.</li>
-<li>Also I don't like white on black letters. It's hard for me to read. All the competitive systems use black on white background. Offer it as an option if it's important to you, but please default to black on white.</li>
-</ul>
+If you can’t beat them, compromise them. The “them” being AI platforms such as ChatGPT and Claude. Ed Sussman, a former lawyer, and his company Citate.ai are pioneering ways to influence how AI chatbots perceive and present information. Their approach isn’t about hacking AI systems but rather systematically shaping the web content that feeds these &#8230; 
+
+<br> 
+
+<https://om.co/2024/11/18/can-we-seo-ai/>
+
+---
+
+##  90 seconds of Miss Piggy absolutely roasting Martha Stewart. &#8220;Oh, how obsessive!&#8221;... 
+
+date: 2024-11-18, updated: 2024-11-18, from: Jason Kittke's blog
+
  
 
 <br> 
 
-<http://scripting.com/2024/11/18/141735.html?title=feedbackOnSezusSignUp>
+<https://kottke.org/24/11/0045663-90-seconds-of-miss-piggy>
+
+---
+
+## November 17, 2024
+
+date: 2024-11-18, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/151837411/f681d162c0158ac631ed8d6152613903.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/151837411/f681d162c0158ac631ed8d6152613903.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/november-17-2024-31d>
+
+---
+
+##  If you need a refresher, here&#8217;s the official 2-minute recap of Severance... 
+
+date: 2024-11-18, updated: 2024-11-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045664-if-you-need-a-refresher>
+
+---
+
+##  What Is The Most Surprising Predator Prey Relationship? 
+
+date: 2024-11-18, updated: 2024-11-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/what-is-the-most-surprising-predator-prey-relationship>
+
+---
+
+##  &#8220;In 2018, Nerds products brought in $40 million in sales. In the... 
+
+date: 2024-11-18, updated: 2024-11-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045655-in-2018-nerds-products-br>
+
+---
+
+##  Roxane Gay: &#8220;To suggest we should yield even a little to Mr.... 
+
+date: 2024-11-18, updated: 2024-11-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045661-roxane-gay-to-suggest-we>
 
 ---
 
@@ -129,11 +190,118 @@ We imagine the grass to be greener and our prospects to be better, elsewhere.</p
 
 <p>If you&rsquo;re looking to get started, I&rsquo;d be happy to help.</p>
 
+<p>Some more notes: The Mastodon Client protocol is wholly separate from the typical ActivityPub server-to-server protocol and not the same as the rarely implemented ActivityPub server-to-client protocol.
+It&rsquo;s limited, but good enough for a large number of applications.</p>
+
+<p>The two main uses I have seen:</p>
+
+<ul>
+<li>separate user interface implementations, be it new front-ends on the web or apps on phones and desktops</li>
+<li>bots</li>
+</ul>
+
+<p>The ability to do all that without a corporation forcing you to only use official apps so that they can spy on you or monetize you (forcing you to watch the ads) is a great boon.
+In addition to that, some servers have very different web front-ends and some servers (like the one I use, GoToSocial), have no web front-end for reading and posting.
+This has reduced the burden on developers considerably.</p>
+
 <p><a class="tag" href="/search/?q=%23Fediverse">#Fediverse</a></p> 
 
 <br> 
 
 <https://alexschroeder.ch/view/2024-11-18-small-instance>
+
+---
+
+##  Trump&#8217;s Historically Small Victory 
+
+date: 2024-11-18, updated: 2024-11-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/trumps-historically-small-victory>
+
+---
+
+## Most of 2023’s Top Exploited Vulnerabilities Were Zero-Days
+
+date: 2024-11-18, updated: 2024-11-18, from: Bruce Schneier blog
+
+<p>Zero-day vulnerabilities are <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-317a">more commonly used</a>, according to the Five Eyes:</p>
+<blockquote><p><strong>Key Findings</strong></p>
+<p>In 2023, malicious cyber actors exploited more zero-day vulnerabilities to compromise enterprise networks compared to 2022, allowing them to conduct cyber operations against higher-priority targets. In 2023, the majority of the most frequently exploited vulnerabilities were initially exploited as a zero-day, which is an increase from 2022, when less than half of the top exploited vulnerabilities were exploited as a zero-day.</p>
+<p>Malicious cyber actors continue to have the most success exploiting vulnerabilities within two years after public disclosure of the vulnerability. The utility of these vulnerabilities declines over time as more systems are patched or replaced. Malicious cyber actors find less utility from zero-day exploits when international cybersecurity efforts reduce the lifespan of zero-day vulnerabilities...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/11/most-of-2023s-top-exploited-vulnerabilities-were-zero-days.html>
+
+---
+
+##  This Week 
+
+date: 2024-11-18, updated: 2024-11-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/this-week>
+
+---
+
+##  You might be able to fit an entire orange in your mouth.... 
+
+date: 2024-11-18, updated: 2024-11-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/11/0045650-you-might-be-able-to>
+
+---
+
+## Bluesky feature request
+
+date: 2024-11-18, from: Dave Winer's Scripting News
+
+<p>I posted a <a href="https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3lb46hc76n22p">feature request</a> on Bluesky that has gotten a lot of flow. </p>
+<ul>
+<li>Bluesky devs.. How about a compromise. Support inbound RSS. Let me enter the URL of an RSS feed in settings. I'll ping a fixed location when the feed updates. Would allow the same flow to go to other systems. This would help a lot. </li>
+</ul>
+<p><b>Discussion</b></p>
+<ul>
+<li><img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/11/nakedJenToday.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Imagine a Bluesky-like network that you could post to through any blogging tool that can create an RSS feed. Imagine the new tools that could be created. All of a sudden a whole world of writing tools opens up.</li>
+<li>It should happen faster than the proprietary format that Bluesky defined, because RSS is so well understood in the developer world. Lots of software out there for reading and writing. I have a couple of toolkits of my own, for JavaScript, MIT licensed. In use in deployed software so they work pretty well. (Knock wood.) </li>
+<li>Also it would create an incentive for competitors to follow suit, and if they do we suddenly have a strong and simple and broadly understood basis for interop. It's a brilliant competitive move, if they really intend to give users choice, to not lock them in. It challenges their competitors to follow suit. I don't doubt that Mastodon would do it. And Threads might even do it if they're feeling competitive with Bluesky. They've already chosen ActivityPub as a basis for interop, but that's been slow to develop. RSS is so simple and well understood it should take a small fraction of the time to adapt.</li>
+<li>Bluesky has already pioneered in providing excellent outbound RSS support. I helped them do it, a while back, before the huge onslaught of users. </li>
+<li>The fact that so many users loved the idea is enough to have made it worthwhile to suggest it. But I wouldn't be tremendously surprised if they actually did it. </li>
+</ul>
+ 
+
+<br> 
+
+<http://scripting.com/2024/11/18/142716.html?title=blueskyFeatureRequest>
+
+---
+
+## Feedback on sez.us sign up
+
+date: 2024-11-18, from: Dave Winer's Scripting News
+
+<p>Why I haven't created an account on <a href="https://sez.us/">sez.us</a> yet. </p>
+<ul>
+<li>They ask for my first and last name before I sign up. Ask for that info later, after I've created an account. I gave it a fake name to get to the next screen.</li>
+<li>Then they ask for my phone number. That's when I hit the back button. I already get too much spam on my phone, and the filters aren't good there. I am happy to provide an email address as my identifier as I do on all other systems. Later, if I become a regular user, I don't mind providing the phone number as part of 2-factor identity, but not up front.</li>
+<li>Also I don't like white on black letters. It's hard for me to read. All the competitive systems use black on white background. Offer it as an option if it's important to you, but please default to black on white.</li>
+</ul>
+ 
+
+<br> 
+
+<http://scripting.com/2024/11/18/141735.html?title=feedbackOnSezusSignUp>
 
 ---
 
@@ -300,7 +468,7 @@ The Editor Paul Webster is retiring as the Editor of the Observer after a long s
 
 ## [Sponsor] Upgraded
 
-date: 2024-11-17, updated: 2024-11-17, from: Daring Fireball
+date: 2024-11-17, updated: 2024-11-18, from: Daring Fireball
 
  
 

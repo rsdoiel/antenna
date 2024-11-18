@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2024-11-18 07:34:03
+updated: 2024-11-18 15:43:15
 ---
 
 # libraries
 
-(date: 2024-11-18 07:34:03)
+(date: 2024-11-18 15:43:15)
 
 ---
 
@@ -18,6 +18,20 @@ Baune, Konstantin; Broedel, Johannes; Im, Egor; Lisitsyn, Artyom; Zerbini, Feder
 <br> 
 
 <http://hdl.handle.net/20.500.11850/700705>
+
+---
+
+## Day in Review (November 18–21)
+
+date: 2024-11-18, from: Association of Research Libraries News
+
+<p>Last Updated on November 18, 2024, 3:21 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, November 19 &#124; Wednesday, November 20 &#124; Thursday,...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-november-18-21/">Day in Review (November 18–21)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/day-in-review/day-in-review-november-18-21/>
 
 ---
 
@@ -35,12 +49,12 @@ date: 2024-11-18, from: Scholarly Kitchen
 
 ---
 
-## Day in Review (November 2)
+## Day in Review (November 4)
 
 date: 2024-11-18, from: Association of Research Libraries News
 
-<p>Last Updated on November 18, 2024, 1:10 am ET Sign up to receive the Day in Review by email. Note: Day in Review will be on hiatus starting tomorrow, Tuesday,...</p>
-<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-november-2/">Day in Review (November 2)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+<p>Last Updated on November 18, 2024, 1:58 pm ET Sign up to receive the Day in Review by email. Note: Day in Review will be on hiatus starting tomorrow, Tuesday,...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-november-2/">Day in Review (November 4)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
 <br> 

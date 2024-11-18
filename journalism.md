@@ -1,11 +1,47 @@
 ---
 title: journalism
-updated: 2024-11-18 07:34:03
+updated: 2024-11-18 15:43:15
 ---
 
 # journalism
 
-(date: 2024-11-18 07:34:03)
+(date: 2024-11-18 15:43:15)
+
+---
+
+## Trump’s new FCC nominee promises to bring Project 2025-style governance to media
+
+date: 2024-11-18, from: Nieman Journalism Lab
+
+In September, I went through all the proposals from Project 2025 — the Heritage Foundation&#8217;s policy blueprint for a second Trump term — that would have a direct impact on the media. At the time, of course, candidate Donald Trump took pains to say that he wasn&#8217;t behind Project 2025, that he barely knew anyone... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/11/trumps-new-fcc-nominee-promises-to-bring-project-2025-style-governance-to-media/>
+
+---
+
+## How Understanding Different Wellness Practices Enhances Student Life
+
+date: 2024-11-18, from: The Sundail (CSUN Student Newspaper)
+
+(Source: Pexels) Being a student is hard enough on a good day. With the stresses of life, school, and planning for the future, it can all add up and young... 
+
+<br> 
+
+<https://sundial.csun.edu/187829/sundialbrandstudio/sundial-marketplace/how-understanding-different-wellness-practices-enhances-student-life/>
+
+---
+
+## Two-thirds of news influencers are men — and most have never worked for a news organization
+
+date: 2024-11-18, from: Nieman Journalism Lab
+
+There&#8217;s always Monday morning quarterbacking after an election and, in the past two weeks, an incredible number of takes have invoked a podcaster by the name of Joe Rogan. A new Pew Research Center report focuses on news influencers on social media — including Rogan — and the Americans who say they regularly get their... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/11/two-thirds-of-news-influencers-are-men-and-most-have-never-worked-for-a-news-organization/>
 
 ---
 

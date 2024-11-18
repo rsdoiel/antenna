@@ -1,11 +1,651 @@
 ---
 title: north america
-updated: 2024-11-18 07:34:01
+updated: 2024-11-18 15:43:13
 ---
 
 # north america
 
-(date: 2024-11-18 07:34:01)
+(date: 2024-11-18 15:43:13)
+
+---
+
+## US House panel to consider releasing report on Trump's attorney general nominee
+
+date: 2024-11-18, from: VOA News USA
+
+The U.S. House of Representatives Ethics Committee is set to meet Wednesday to decide whether to release its investigative report on former Representative Matt Gaetz, who was accused of sexual misconduct and illicit drug use before he was picked by President-elect Donald Trump to be attorney general in his new administration.
+
+
+Several U.S. senators, Democrats and Republicans alike, are demanding that the report be released so they can consider the scope of Gaetz’s background as they undertake their constitutionally mandated role of confirming or rejecting a new president’s Cabinet nominees.
+
+
+Last Wednesday, Trump named Gaetz, 42, a Republican congressman from Florida for eight years, to become the country’s top law enforcement official. Hours later, Gaetz resigned from Congress, even though he had just been reelected to a fifth term. His resignation ended the House Ethics Committee’s investigation, which had been nearing a conclusion.
+
+
+But it remained uncertain whether the panel would divulge what conclusions it had reached.
+
+
+The committee, with five Democrats and five Republicans, had been looking into allegations that Gaetz had a sexual relationship with a 17-year-old girl and used drugs illicitly. Gaetz has denied the allegations. The Justice Department, which Gaetz hopes to lead, investigated the case but declined last year to bring any charges.
+
+
+House Speaker Mike Johnson, who leads the narrow Republican majority in the chamber, has contended that no ethics report should be made public because Gaetz is no longer a member of Congress. However, there have been instances where that has occurred in the past.
+
+
+Johnson told CNN on Sunday that senators reviewing the Gaetz nomination as the country’s top law enforcement official will “have a vigorous review and vetting process,” but that they did not need to see the House Ethics Committee’s report. Some senators have suggested they could move to subpoena it if it is not turned over to them voluntarily.
+
+
+Republican Senator Markwayne Mullin on Sunday told NBC's "Meet the Press" that the panel should share its report with the Senate.
+
+
+"The Senate should have access to that," Mullin said. "Should it be released to the public or not? That I guess will be part of the negotiations."
+
+
+Gaetz is one of several Trump appointees to his Cabinet who do not have the credentials normally seen in candidates for high-level government jobs.
+
+
+Over the weekend, a lawyer for another Trump choice, Pete Hegseth, a 44-year-old Fox News host named to be defense secretary, revealed that Hegseth several years ago paid an undisclosed amount to a woman who accused him of sexual assault in 2017 to avert the threat of what he viewed as a baseless lawsuit becoming public.
+
+
+Trump has stood by his Cabinet nominees, refusing to withdraw their nominations. But the controversies surrounding Gaetz, Hegseth and others could threaten their confirmations by the Senate to be in Trump’s Cabinet.
+
+
+The president-elect also has sought — with little success so far — to get the Senate, in Republican control come January when he takes office, to agree to recess at times so he could name and install his Cabinet members without the need for contentious and time-consuming confirmation hearings. 
+
+<br> 
+
+<https://www.voanews.com/a/7868504.html>
+
+---
+
+## Why Climate Conservatives Are Excited About Trump 2.0
+
+date: 2024-11-18, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDUyMjk5My9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc2NTY2MjE1Nn0.H1p9MzqLfxyY1xy5svZTXKIrtFXufVYFrho8ARo8rWs/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">When the American people elected Donald Trump as the 47th president of the United States earlier this month, a large portion of climate world went into a tailspin. In the groggy reckoning of Wednesday morning, <em><em>MIT Technology Review </em></em><a href="https://www.technologyreview.com/2024/11/06/1106712/trumps-win-is-a-tragic-loss-for-climate-progress/?utm_medium=tr_social&utm_source=reddit&utm_campaign=site_visitor.unpaid.engagement" rel="noopener noreferrer" target="_blank"><u>deemed</u></a> the outcome a “tragic loss for climate progress;” the next day, a <em><em>Guardian</em></em> columnist reminded readers that “Trump has pledged to wage war on planet Earth.” Arielle Samuelson, <a href="https://heated.world/p/15c-is-dead-the-climate-fight-isnt" rel="noopener noreferrer" target="_blank"><u>writing for </u><u><em><em>Heated</em></em></u></a>, reported that given the incoming administration’s <a href="https://climate.law.columbia.edu/content/president-trump-announces-withdrawal-paris-agreement-0" rel="noopener noreferrer" target="_blank"><u>history</u></a> and <a href="https://www.npr.org/2024/11/13/nx-s1-5181963/trump-promises-more-drilling-in-the-u-s-to-boost-fossil-fuel-production" rel="noopener noreferrer" target="_blank"><u>intentions</u></a>, the goal of limiting global warming to 1.5 degrees above preindustrial levels was “dead” (although to be fair, that has likely been the case for <a href="https://www.reuters.com/sustainability/climate-energy/despite-cop28-deal-fossil-fuels-15c-goal-likely-out-reach-2023-12-14/" rel="noopener noreferrer" target="_blank"><u>some time</u></a>).</p><p>But to that segment of the population who approach issues of energy, the environment, and climate change from the right, the post-election mood ranged from cautiously optimistic to jubilant. “The biggest thing we’re excited about is the momentum around this next year and the next administration,” Stephen Perkins, a conservative strategist and the chief operating officer of the American Conservation Coalition, told me.</p><p>What Trump <a href="https://heatmap.news/technology/trump-climate-tech" target="_self"><u>will or won’t do</u></a> in office remains an open question (the picture is getting <a href="https://heatmap.news/sparks/trump-kill-ev-tax-credit" target="_self"><u>clearer</u></a> by the day, however, and we’re <a href="https://heatmap.news/politics/chris-wright-energy" target="_self"><u>tracking it closely</u></a> here at Heatmap). But while Trump 1.0 rolled back <a href="https://www.nytimes.com/interactive/2020/climate/trump-environment-rollbacks-list.html" rel="noopener noreferrer" target="_blank"><u>more than a hundred</u></a> environmental rules and regulations and Trump 2.0 could, <a href="https://www.carbonbrief.org/analysis-trump-election-win-could-add-4bn-tonnes-to-us-emissions-by-2030/" rel="noopener noreferrer" target="_blank"><u>by one estimate</u></a>, add enough carbon dioxide equivalent to the atmosphere by 2030 that it would negate all the savings from clean energy over the past five years, many in the conservative climate sphere believe that <a href="https://republicen.org/climate-change" rel="noopener noreferrer" target="_blank"><u>regulations</u></a> have hamstrung the clean energy economy and that an <a href="https://heatmap.news/politics/rnc-energy-all-of-the-above" target="_self"><u>“all-of-the-above” approach</u></a> could <a href="https://heatmap.news/climate/lng-exports-pause-biden-emissions" target="_self"><u>help to lower global emissions</u></a> by transitioning coal-reliant countries to U.S.-produced liquified natural gas, which <a href="https://www.scientificamerican.com/article/coal-is-bad-for-the-environment-is-liquified-natural-gas-any-better/#:~:text=It%20found%20that%20LNG%20emitted,supply%20chain%20were%200.7%20percent." rel="noopener noreferrer" target="_blank"><u>expels less greenhouse gas</u></a> and other pollutants when it’s burned.</p><p>What is the first priority on the conservative climate wishlist for the Trump administration? Far and away, it’s clearing red tape. Perkins pointed out that one of Elon Musk’s first tweets when it became clear Republicans would take back the White House on election night was the promise that “<a href="https://x.com/elonmusk/status/1854023551575322959" rel="noopener noreferrer" target="_blank"><u>soon, you will be free to build again</u></a>.”</p><p>“I give it a 99% to 100% chance we’re going to see permitting reform,” Heather Reams, the president of the center-right group Citizens for Responsible Energy Solutions, told me from her hotel room at COP29.</p><p>Nick Loris, the vice president of public policy at C3 Solutions, a nonpartisan public policy group that advocates for free-market solutions to climate, environment, and energy problems, echoed that prediction. “I’m most excited about a renewed and more aggressive push for permitting reform,” he told me, explaining that the election “affords the opportunity for Republicans in both the House and the Senate to come together with even more ambitious plans to reduce red tape in all forms of energy — and I really hope it is for <em><em>all</em></em> forms of energy, not just for selected technologies and resources that Republicans tend to like.”</p><p>There was also consensus on the value of clearing the path for the export of LNG, which marks one of the more significant ideological breaks of the climate right with the climate left. “I think there’s going to be an immediate push [by the Trump administration] to reduce the pause on liquified natural gas exports,” Loris predicted. (The pause <a href="https://www.nytimes.com/2024/07/01/climate/federal-judge-biden-gas-exports.html" rel="noopener noreferrer" target="_blank"><u>ended in July</u></a> and the Department of Energy <a href="https://www.spglobal.com/commodityinsights/en/market-insights/latest-news/lng/090324-us-doe-grants-lng-export-permit-for-altamira-lng-first-since-permitting-pause" rel="noopener noreferrer" target="_blank"><u>resumed</u></a> issuing export permits in September, but Trump is <a href="https://www.reuters.com/business/energy/us-lng-developers-see-trump-win-lifting-pall-over-expansions-2024-11-07/" rel="noopener noreferrer" target="_blank"><u>expected</u></a> to expedite the process.) Reams said she expects that during his first 100 days in office, Trump will reverse Biden’s methane emissions fee, which “some considered punitive,” and that she was looking for him to prioritize “protecting fracking, interstate pipelines, [and] exports of crude oil and other petroleum products.” As she explained, “displacing coal or dirtier forms of natural gas with higher life cycle emissions in place of using the U.S. LNG that has lower life cycle emissions” will ultimately help global emissions “go down.” (Others have argued that <a href="https://heatmap.news/climate/lng-exports-pause-biden-emissions" target="_self"><u>LNG is far worse</u></a> over its lifespan than coal.)</p><p>Other items on the conservative climate wishlist include reforming regulations governing the mining of critical minerals to ensure a more reliable, <a href="https://heatmap.news/economy/resolution-copper-mine" target="_self"><u>less risky schedule</u></a> for opening new mines and creating a domestic supply chain for the clean energy build-out; accelerating geothermal development and <a href="https://grist.org/cop29/nuclear-power-trump-biden/" rel="noopener noreferrer" target="_blank"><u>taking the baton</u></a> from the Biden administration on nuclear energy; and a general streamlining of government programs. “Part of the near-term goal is going to be having an understanding from within the Department of Energy of what’s not working and why isn’t the money flowing out the door in a faster, in a more efficient way?” said Loris of C3 Solutions, citing what he perceived to be the DOE’s lack of urgency on <a href="https://www.energy.gov/ne/haleu-availability-program" rel="noopener noreferrer" target="_blank"><u>the commercial high-assay, low-enriched uranium program</u></a>, a key part of establishing a domestic nuclear supply chain.</p><p>Spending in the form of <a href="https://heatmap.news/ideas/ira-tax-credits" target="_self"><u>clean energy tax credits</u></a> and incentives presents a thornier problem for the climate right to navigate. Reams told me that all the tax credits in the Inflation Reduction Act will be “up for grabs” as the Trump administration readies its plan to <a href="https://heatmap.news/politics/republicans-ira-climate-law" target="_self"><u>preserve and extend</u></a> its 2017 tax cuts, and that each must be defended on its merits. “The Trump tax credits expire at the end of 2025, so if you’re looking at one or the other, that’s really the value proposition: Do you want green tax credits, or do you want $2,000 more in your pocket each year per household?” Reams said. “It’s hard to say you want a tax credit for clean energy without understanding the benefits to your household.” Perkins of the ACC added that he doesn’t object to clean energy investments, <em><em>per se</em></em> — “red districts overwhelmingly stand to benefit” from such programs, he said — but rather the concern from the right relates “everything else that gets looped into those bills,” such as opposition to IRA provisions <a href="https://thehill.com/policy/energy-environment/4885124-republicans-inflation-reduction-act-energy-tax-credits/" rel="noopener noreferrer" target="_blank"><u>connected to prescription drug prices</u></a>. No one made any promises against pruning.</p><p>On other issues, some Republican climate and energy groups break with the Trump administration entirely. “We are very much going to be pushing back on the extensive and aggressive use of tariffs that might come from this administration, which could not just run counter to the administration’s promise to reduce costs for families and businesses but also stymie the deployment of cleaner energy sources as well,” Loris told me of C3 Solution’s plans.</p><p><a href="https://republicen.org/about" rel="noopener noreferrer" target="_blank"><u>RepublicEN</u></a>, an education- and communication-oriented group that positions itself as the “EcoRight” answer to the environmental Left, broke with the incoming administration more completely, publishing a series of <a href="https://republicen.org/blog/climate-week-en-review-november-15-2024" rel="noopener noreferrer" target="_blank"><u>tepid blog posts</u></a> in the election’s aftermath. <a href="https://heatmap.news/politics/bob-inglis-republican-climate-change" target="_self"><u>Bob Inglis</u></a>, the group’s executive director and a former South Carolina Republican congressman, told me that he believes a “substantial percentage of Trump voters” support climate policies and might serve as a local-level bulwark against any climate-unfriendly policies — if “those constituents are visible and audible to their members of Congress.” He’s optimistic that the Republican Party has largely moved on from its “dark days” of climate denialism, and that the next four years might see more reaching across the aisle in pursuit of a common goal.</p><p>Is such a thing even possible in this day and age? Inglis hesitated. “I surely hope so,” he finally said. He believes Republicans can “breathe easier now” that they’ve had such resounding electoral wins. “The water’s coming up here in Charleston,” he added. “Let’s do something about it.”</p><p>If there was one hope I heard across the board from conservative proponents of climate action, however, it was this: that there should be more compromise between the parties on the issues they agree are important. “As much as some people in the climate space may view this as a challenging time for bipartisanship, we actually think it is <em><em>the</em></em> moment for bipartisanship,” Perkins told me. “We’re going to see some incredible things done over the next four years.”</p> 
+
+<br> 
+
+<https://heatmap.news/climate/conservative-climate-trump>
+
+---
+
+## Jury selection begins in human smuggling case after deaths of Indian family at Canada-US border
+
+date: 2024-11-18, from: VOA News USA
+
+fergus falls, minnesota — Nearly three years after a couple from India and their two young children froze to death while trying to cross the border from Canada into the U.S., two men went on trial Monday on human smuggling charges, accused of being part of a criminal network that stretched around the world.
+
+
+Prosecutors say Indian national Harshkumar Ramanlal Patel, 29, ran part of the scheme and recruited Steve Shand, 50, of Florida, to shuttle migrants across the border. Both men have pleaded not guilty in federal court in Minnesota. They're standing trial before U.S. District Judge John Tunheim, with proceedings expected to last about five days. They each face four counts related to human smuggling.
+
+
+On January 19, 2022, Shand was allegedly waiting in a truck for 11 migrants, including the family of four from the village of Dingucha in Gujarat state. Prosecutors say 39-year-old Jagdish Patel; his wife, Vaishaliben, who was in her mid-30s; the couple's 11-year-old daughter, Vihangi; and 3-year-old son, Dharmik, died after spending hours wandering fields in blizzard conditions as the wind chill reached minus 36 degrees Fahrenheit (minus 38 Celsius).
+
+
+Prosecutors say when Jagdish Patel's body was found, he was holding Dharmik, who was wrapped in a blanket.
+
+
+Before jury selection began Monday morning, defense attorneys objected to prosecutors’ plan to show seven photos of the frozen bodies of Jagdish Patel and his family, including close-up images of the children.
+
+
+Shand's attorney, Aaron Morrison, said the heart-wrenching images could cause “extreme prejudice to the jury” and asked for the photos to be removed as evidence.
+
+
+Prosecutors argued the photos were necessary to show the family was not adequately prepared by Shand and Harshkumar Patel for the frigid conditions.
+
+
+Tunheim allowed the images to remain evidence.
+
+
+Patel is a common Indian surname and the victims were not related to Harshkumar Patel. Federal prosecutors say Harshkumar Patel and Shand were part of an operation that scouted clients in India, got them Canadian student visas, arranged transportation and smuggled them into the U.S., mostly through Washington state or Minnesota.
+
+
+The U.S. Border Patrol arrested more than 14,000 Indians on the Canadian border in the year ending this Sept. 30. By 2022, the Pew Research Center estimates more than 725,000 Indians were living illegally in the U.S., behind only Mexicans and El Salvadorans.
+
+
+Harshkumar Patel’s attorney, Thomas Leinenweber, told The Associated Press that his client came to America to escape poverty and build a better life for himself and now "stands unjustly accused of participating in this horrible crime. He has faith in the justice system of his adopted country and believes that the truth will come out at the trial.” Attorneys for Shand did not return messages.
+
+
+Court documents filed by prosecutors show Patel was in the U.S. illegally after being refused a U.S. visa at least five times, and that he recruited Shand at a casino near their homes in Deltona, Florida, just north of Orlando.
+
+
+Over a five-week period, court documents say, Patel and Shand often communicated about the bitter cold as they smuggled five groups of Indians over a quiet stretch of border. One night in December 2021, Shand messaged Patel that it was “cold as hell” while waiting to pick up one group, the documents say.
+
+
+“They going to be alive when they get here?” he allegedly wrote.
+
+During the last trip in January, Shand had messaged Patel, saying: “Make sure everyone is dressed for the blizzard conditions, please,” according to prosecutors.
+
+
+Prosecutors say Shand told investigators that Patel paid him about $25,000 for the five trips.
+
+
+Jagdish Patel grew up in Dingucha. He and his family lived with his parents. The couple were schoolteachers, according to local news reports.
+
+
+Satveer Chaudhary is a Minneapolis-based immigration attorney who has helped migrants exploited by motel owners, many of them Gujaratis. He said smugglers and shady business interests promised many migrants an American dream that doesn’t exist when they arrive.
+
+
+“The promises of the almighty dollar lead many people to take unwarranted risks with their own dignity, and as we’re finding out here, their own lives,” Chaudhary said. 
+
+<br> 
+
+<https://www.voanews.com/a/jury-selection-begins-in-human-smuggling-case-after-deaths-of-indian-family-at-canada-us-border-/7868376.html>
+
+---
+
+## Biden seeks nearly $100 billion in emergency aid after Hurricanes Helene, Milton
+
+date: 2024-11-18, from: VOA News USA
+
+WASHINGTON — President Joe Biden is requesting nearly $100 billion in emergency disaster aid after Hurricanes Helene and Milton, and other natural disasters, telling lawmakers that the money is "urgently needed." 
+
+
+The letter Monday to House Speaker Mike Johnson comes as lawmakers meet during a lame-duck session to finish key priorities before making way for a new Congress and the incoming Trump administration. Biden said he has met firsthand with those harmed by the storms and he heard what residents and businesses needed from the federal government. 
+
+
+"Additional resources are critical to continue to support these communities," Biden said. 
+
+
+The largest share of the money, about $40 billion, would go to the main disaster relief fund at the Federal Emergency Management Agency. Biden said the fund would face a shortfall this budget year without additional money. He said that would not only affect the agency's ability to provide lifesaving assistance to survivors, but also would slow recovery efforts from prior disasters. 
+
+
+An additional $24 billion would help farmers that have experienced crop or livestock losses, and $12 billion would go toward community development block grants administered by the Department of Housing and Urban Development. 
+
+
+Some $8 billion more would help rebuild and repair highways and bridges in more than 40 states and territories. The administration is also seeking $4 billion for long-term water system upgrades to mitigate future damage from natural disasters. Several other agencies would also receive emergency funds if Congress agrees to the request. 
+
+
+Lawmakers were expecting a hefty number from the administration. Johnson, a Republican from Louisiana, said Congress will evaluate the request and "we'll make sure we deliver for the hurricane victims and the people that have suffered from that." 
+
+
+The Senate Appropriations Committee is expected to hear Wednesday from the heads of several of the government agencies that would receive funding through Biden's request. It's possible that emergency aid could be attached to any spending bill designed to keep federal agencies operating after current funding expires Dec. 20. 
+
+
+Biden noted that Congress had provided more than $90 billion in aid after Hurricane Katrina nearly two decades ago, and more than $50 billion after Hurricane Sandy in 2013. He urged Congress to take "immediate action." 
+
+
+"Just as the Congress acted then, it is our sworn duty now to deliver the necessary resources to ensure that everyone in communities reeling from Hurricanes Helene and Milton — and those still recovering from previous disasters — have the Federal resources they need and deserve," Biden wrote. 
+
+<br> 
+
+<https://www.voanews.com/a/biden-seeks-nearly-100-billion-in-emergency-aid-after-hurricanes-helene-milton/7868385.html>
+
+---
+
+## Teenage Buddhist lama marks last birthday in US before joining monastery in Himalayas
+
+date: 2024-11-18, from: VOA News USA
+
+ISANTI, Minn. — The young Buddhist lama sat on a throne near an altar decorated with flowers, fruits and golden statues of the Buddha, watching the celebrations of his 18th birthday in silence, with a faint smile. 
+
+
+Jalue Dorje knew it would be the last big party before he joins a monastery in the Himalayan foothills -- thousands of kilometers from his home in a Minneapolis suburb, where he grew up like a typical American teen playing football and listening to rap music. 
+
+
+But this was not an ordinary coming-of-age celebration. It was an enthronement ceremony for an aspiring spiritual leader who from an early age was recognized by the Dalai Lama and other Tibetan Buddhist leaders as a reincarnated lama. 
+
+
+From the stage, he saw it all: The young women in white long bearded masks who danced, jumping acrobatically and twirling colorful sticks to wish him luck in a tradition reserved for dignitaries. The banging of drums. The procession of hundreds – from children to elderly -- who lined up to bow to him and present him with a "khata" -- the white Tibetan ceremonial scarves that symbolize auspiciousness. 
+
+
+
+
+From a throne reserved for lamas, he smelled the aroma of Tibetan dishes prepared by his mother over sleepless nights. He heard the monks with shaved heads, in maroon and gold robes like his own, chant sacred mantras. Behind them, his shaggy-haired high school football teammates sang "Happy Birthday" before he cut the first slice of cake. 
+
+
+One of his buddies gave him shaker bottles for hydrating during training at the gym; another, a gift card to eat at Chipotle Mexican Grill. 
+
+
+"I was in awe!" Dorje recalled later. "Usually, I'd be at the monk section looking up to whomever was celebrating. But that night it was for me." 
+
+
+
+
+Watching Monday Night Football and memorizing ancient Buddhist prayers 
+
+
+Since the Dalai Lama's recognition, Dorje has spent much of his life training to become a monk, memorizing sacred scriptures, practicing calligraphy and learning the teachings of Buddha. 
+
+
+After graduation in 2025, he'll head to northern India to join the Mindrolling Monastery, more than 11,500 kilometers from his home in Columbia Heights. 
+
+
+Following several years of contemplation and ascetism, he hopes to return to America to teach in the Minnesota Buddhist community. His goal is "to become a leader of peace," following the example of the Dalai Lama, Nelson Mandela and Gandhi. 
+
+
+"There's going to be a lot of sacrifice involved," Dorje said. But he's not new to sacrifices. 
+
+
+He remembered all the early mornings reciting ancient prayers and memorizing Buddhist scriptures, often rewarded by his dad with Pokémon cards. 
+
+
+"As a child, even on the weekend, you're like: 'Why don't I get to sleep more? Why can't I get up and watch cartoons like other kids.' But my dad always told me that it's like planting a seed," he said, "and one day it's going to sprout." 
+
+
+It all began with the process of identifying a lama, which is based on spiritual signs and visions. Dorje was about four months old when he was identified by Kyabje Trulshik Rinpoche, a venerated master of Tibetan Buddhism and leader of the Nyingma lineage. He was later confirmed by several lamas as the eighth Terchen Taksham Rinpoche — the first one was born in 1655. 
+
+
+After the Dalai Lama recognized him at age 2, Dorje's parents took him to meet the spiritual leader of Tibetan Buddhism when he visited Wisconsin in 2010. 
+
+
+The Dalai Lama cut a lock of Dorje's hair in a ceremony and advised his parents to let their son stay in the U.S. to perfect his English before sending him to a monastery. 
+
+
+Dorje is fluent in English and Tibetan. He grew up reading the manga graphic novel series "Buddha," and is an avid sports fan. He roots for the Timberwolves in basketball, Real Madrid in soccer, and the Atlanta Falcons in football. He even keeps a rookie card of wide receiver Drake London pasted to the back of his phone, which he carried wrapped in his robes during his party. 
+
+
+
+
+On the football field, playing as a left guard, his teammates praised his positivity, often reminding them to have fun and keep losses in perspective. 
+
+
+"It's someone to look up to," said Griffin Hogg, 20, a former player who took Dorje under his wing. He said they learned from each other and credits Dorje with helping him find his spirituality. "I'm more of a relaxed person after getting to know him and understanding his own journey." 
+
+
+While Dorje tries to never miss Monday Night Football, he's always there to help with any event hosted by the local Tibetan community, one of the largest in the United States. 
+
+
+"He has one foot in the normal high school life. And he has one foot in this amazing Tibetan culture that we have in the state of Minnesota," said Kate Thomas, one of his tutors and the teachings coordinator at Minneapolis' Bodhicitta Sangha Heart of Enlightenment Institute. 
+
+
+"You can see that he's comfortable playing a role of sitting on a throne, of participating and being honored as a respected person in his community, as a religious figure. And yet, as soon as he has the opportunity, he wants to go and hang out with his high school buddies," she said. "That's testimony to his flexibility, his openness of mind." 
+
+
+
+
+Listening to rap and making Tibetans proud 
+
+
+For years, he has followed the same routine. He wakes up to recite sacred texts and then attends school, followed by football practice. He returns home for tutoring about Tibetan history and Buddhism. Then he might practice calligraphy or run on a treadmill while listening to BossMan Dlow, Rod Wave and other rappers. 
+
+
+Although he was officially enthroned in 2019 in India, an estimated 1,000 people gathered at the Tibetan American Foundation of Minnesota for his recent ceremony. 
+
+
+"He unites us – Jalue is always here for us," said Zenden Ugen, 21, a family friend and neighbor who performed Tibetan dances at the event. 
+
+
+"I wish him the best in life because being born and not being able to choose your life must be very hard," Ugen said. "But he has a responsibility and him being able to take on that responsibility, I'm very inspired by him. I just hope he keeps being who he is." 
+
+
+Dorje's proud uncle, Tashi Lama, saw him grow up and become a Buddhist master. 
+
+
+"He's somebody who's going to be a leader, who's going to teach compassion and peace and love and harmony among living beings," he said about his nephew, often referred to as "Rinpoche" -- a Tibetan word that means "precious one." 
+
+<br> 
+
+<https://www.voanews.com/a/teenage-buddhist-lama-celebrates-last-birthday-in-us-before-joining-monastery-in-himalayas/7868372.html>
+
+---
+
+## Cracks in G20 consensus over Ukraine as US ramps up aid
+
+date: 2024-11-18, from: VOA News USA
+
+RIO DE JANEIRO — With just two months remaining in President Joe Biden’s administration, the U.S. is ramping up financial, military and diplomatic support for Kyiv’s effort to defend itself against Russian aggression.
+
+
+At the G20 summit in Rio de Janeiro, Brazil, where Biden and leaders of 20 of the world’s largest economies are meeting, U.S. officials are pushing for the “strongest possible” language on Ukraine, deputy national security adviser John Finer told VOA during a briefing Monday.
+
+
+Western diplomats have renewed their push for stronger criticism on Moscow following Russia’s weekend airstrike, its largest on Ukrainian territory in months.
+
+
+They’ve also warned on increased Russian war efforts that could have a destabilizing effect beyond Europe. Earlier this month, the U.S. and Ukraine announced that North Korea has sent more than 10,000 troops to help Moscow reclaim territory seized by Ukraine in Russia’s Kursk region.
+
+
+
+
+The final joint leaders’ statement is still being negotiated but a draft seen by VOA and other versions circulating on social media suggest it will only include broad language underscoring U.N. principles and the need to respect peace in Ukraine and Gaza.
+
+
+Finer acknowledges that finding a consensus on global conflicts is elusive given the diversity of the G20. In addition to mostly like-minded countries of the G7, the G20 also includes Russia, China and nations of the Global South.
+
+
+“We'll see where it lands,” he said.
+
+
+Ever since the G20 2022 summit in Bali, held months after Moscow’s invasion of Ukraine, the global grouping has faced challenges hammering out a response to the conflict.  
+
+
+Long-range missiles authorized
+
+
+The U.S. has been surging its military assistance to Kyiv. It is also authorizing Ukraine to use American-supplied long-range missiles to strike inside Russia, according to media reports quoting officials who spoke on condition of anonymity.
+
+
+Finer declined to confirm but said it is “consistent” with the U.S. approach of tailoring its response to meet developments on the ground to “allow the Ukrainians to continue to defend their territory and their sovereignty.”
+
+
+
+
+On Monday, Kremlin spokesperson Dmitry Peskov said that if true, authorization for Kyiv to strike inside Russia with U.S. long-range missiles, “will mark a qualitatively new round of tensions and level of Washington's involvement in the Ukraine conflict.”
+
+
+Last week in Brussels, U.S. Secretary of State Antony Blinken sought to reassure European allies that Biden is “committed to making sure that every dollar we have at our disposal will be pushed out the door between now and January 20,” the date of President-elect Donald Trump’s inauguration.
+
+
+Trump has been critical of using American taxpayer’s money to help Kyiv. Without providing details, Trump often boasts he can swiftly end the war, even before he takes office — a statement that many in Europe fear would mean forcing Ukraine to capitulate.
+
+
+Earlier this month, Ukrainian President Volodymyr Zelenskyy said he wants a “just end” to the war and that a swift end “means losses.” On Saturday he told Ukrainian public radio that under the Trump administration, “the war will end faster.”
+
+
+“This is their approach, the promise to their country,” he said. “And for them, it is also very important.”
+
+
+Climate change, poverty alleviation
+
+
+G20 host Brazil has worked to keep the focus of talks away from global conflicts and more on issues raised at the ongoing U.N. conference on climate change in Azerbaijan, and on accelerating efforts to reduce global hunger and poverty — an initiative championed by summit host President Luiz Inacio Lula da Silva.
+
+
+Lula’s approach to resist pressures from the G7 and the rest of the G20 on Ukraine and Gaza reflects Brazil’s strategy of “multi-alignment” in an increasingly fragmented global landscape, said Bruna Santos, director at the Wilson Center’s Brazil Institute.
+
+
+However, “neutrality risks alienating all sides in an increasingly polarized world,” Santos told VOA.
+
+
+Aside from divisions on global conflicts, negotiators in Rio have been struggling to find consensus on shared language on climate financing, said diplomatic sources who spoke with VOA on condition of anonymity to discuss ongoing negotiations.
+
+
+Western nations have been pushing for China and wealthy Middle Eastern countries to join them in contributing to global funds for climate change mitigation — a proposal resisted by Brazil and other member countries of the Global South.
+
+
+Another Lula proposal, a 2% tax on the super-rich that Brazil says can potentially generate up to $250 billion per year to help the world’s poor, has also met new resistance.
+
+
+Argentinian right-wing President Javier Milei rejected the proposal after visiting Trump at his Florida residence, the first foreign leader to visit the president-elect. 
+
+<br> 
+
+<https://www.voanews.com/a/cracks-in-g20-consensus-over-ukraine-as-us-ramps-up-aid/7868375.html>
+
+---
+
+## US sanctions group that builds illegal West Bank settlements, with close ties to Israeli government
+
+date: 2024-11-18, from: VOA News USA
+
+Washington — The U.S. on Monday imposed sanctions on organizations and firms involved in illegal settlement development in the occupied West Bank, including a well-established decades-old group that has close ties with Israeli leadership. 
+
+
+Treasury sanctioned Amana, the largest organization involved in illegal settlement development in the West Bank, and its subsidiary Binyanei Bar Amana Ltd. Already sanctioned by Britain and Canada, Amana is one of the major funders and supporters of unauthorized settlements in the Israeli-occupied West Bank. Peace Now, a settlement tracking group, says its assets are valued at around 600 million Israeli shekels, or about $160 million, and that it has a yearly budget stretching into tens of millions of shekels. 
+
+
+Amana, which is based in the West Bank and has no known connection to the U.S. appliance maker, over the past few years has underwritten loans, signed contracts, bought equipment and funded infrastructure projects for new settlements, according to Peace Now. The settlements, small farming outposts, have become some of the primary drivers of violence and displacement of Palestinians living in the West Bank. 
+
+
+Additionally, the State Department imposed diplomatic sanctions on Eyal Hari Yehuda Co., which provides construction logistics to sanctioned groups, as well as company owner Itamar Yehuda Levi. The co-founder of the already sanctioned nonprofit group Hashomer Yosh, Shabtai Koshlevsky, and Israeli citizen Zohar Sabah, who has perpetrated acts of violence on Palestinians, also were hit with sanctions. 
+
+
+The penalties come as settlers in the territory celebrate the incoming Trump administration, believing it will likely take a more favorable approach to the settlements. During his first term, Trump took unprecedented steps to support Israel's territorial claims, including recognizing Jerusalem as its capital and moving the U.S. Embassy there, and recognizing Israel's annexation of the Golan Heights. 
+
+
+Treasury's Deputy Secretary Wally Adeyemo said the U.S. "remains committed to holding accountable those who seek to facilitate these destabilizing activities, which threaten the stability of the West Bank, Israel, and the wider region." 
+
+
+Among other things, the sanctions deny the people and firms access to any property or financial assets held in the U.S. and prevent U.S. companies and citizens from doing business with them. 
+
+
+In February, President Joe Biden issued an executive order that targets Israeli settlers in the West Bank who have been accused of attacking Palestinians and Israeli peace activists in the occupied territory. That order is used to justify the financial penalties against the companies and men. 
+
+
+In response, Texans for Israel, a Christian nonprofit, Israeli nonprofit Regavim and others in August sued the Biden administration in Amarillo, Texas, over its sanctions against Israeli extremists in the West Bank. 
+
+
+Eitay Mack, a human rights lawyer who has spent years campaigning for the sanctions on violent West Bank settlers, said the sanctions on Amana were "an earthquake for the settlement project and especially the shepherds farms." He called on the U.S. to extend the sanctions now to firebrand Israeli Finance Minister Bezalel Smotrich and National Security Minister Itamar Ben-Gvir, also a far-right settler in Prime Minister Benjamin Netanyahu's Cabinet. 
+
+
+Amana's leadership has appeared at pro-settlement events alongside Cabinet members. Peace Now says the group's secretary-general, Zeev Hever, was greeted by Smotrich at a June conference where Smotrich laid out his plans for the West Bank. 
+
+
+Violence against Palestinians and their displacement have only picked up since the Israel-Hamas war began on Oct. 7, 2023. Around 8,000 Palestinians have been displaced in the West Bank during that time and over 700 killed, according to the U.N. Office for the Coordination of Humanitarian Affairs and Palestinian health officials. 
+
+
+The Associated Press previously reported that the sanctions measures have had minimal impact, instead emboldening settlers as attacks and land-grabs escalate, according to Palestinians in the West Bank, local rights groups and sanctioned Israelis who spoke to AP. Additionally, Smotrich has previously vowed to intervene on sanctioned settlers' behalf. 
+
+
+Israel captured the West Bank along with east Jerusalem and the Gaza Strip in the 1967 Mideast war. The Palestinians want those territories for their hoped-for future state. 
+
+
+Settlement growth and construction have been promoted by successive Israeli governments stretching back decades, but it has exploded under Netanyahu's far-right coalition, which has settlers in key Cabinet posts. There are now well over 100 settlements and 500,000 Israeli settlers sprawling across the territory from north to south — a reality, rights groups say, dimming any hopes for an eventual two-state solution. 
+
+
+State Department spokesman Matthew Miller said "we once again call on the Government of Israel to take action and hold accountable those responsible for or complicit in violence, forced displacement, and the dispossession of private land. The United States will continue to promote accountability for those who further destabilize conditions in the West Bank and support extremist violence in the region." 
+
+<br> 
+
+<https://www.voanews.com/a/us-sanctions-group-that-builds-illegal-west-bank-settlements-with-close-ties-to-israeli-government/7868246.html>
+
+---
+
+## For Ukraine, US approval of long-range missiles marks strategic shift
+
+date: 2024-11-18, from: VOA News USA
+
+Warsaw — Many in Ukraine see the Biden administration’s decision to allow Ukraine to use U.S.-supplied long-range missiles to strike targets inside Russian territory as a turning point in the war but welcome it with a mix of gratitude and frustration. 
+
+
+"Strikes are not made with words," President Volodymyr Zelenskyy said in his nightly address. "The missiles will speak for themselves." 
+
+
+His tone reflects the high stakes involved in this decision, which comes as Ukraine braces for intensified Russian offensives following the reported deployment of 12,000 North Korean troops to bolster Moscow’s efforts. 
+
+
+
+
+Ukrainian officials and analysts see the U.S. authorization as a crucial move, allowing Ukraine to target key military installations in Russia, particularly in the Kursk region, where new threats are emerging. However, Andriy Zagorodnyuk, former Minister of Defense (2019–2020) and adviser to the government, said the delay in granting such permissions has cost Ukraine dearly. 
+
+
+"Ukraine has been asking for this for years, not months," Zagorodnyuk told VOA. "The administration’s fear of escalation led to an overcautious approach. This reactive, piecemeal strategy — responding to Russian provocations rather than implementing a comprehensive plan — has not brought us closer to resolving the war. Instead, it has allowed Russia to escalate further."  
+
+
+Critical stage 
+
+
+The decision follows an escalation of Russian missile and drone attacks on Ukraine’s civilian infrastructure, yet the timing raises questions about the long-term strategy of Western allies. 
+
+
+
+
+Mark Voyger, director of the master's program in Global Management at American University Kyiv, emphasized the operational and psychological importance of the decision. "Operationally, these missiles can target Russian storage facilities, command centers, and even North Korean troops preparing for offensive actions," Voyger explained.  
+
+
+"Better late than never, the time for inaction and ... psychological [self-constraint] due to some presumed fear of escalation is over." Voyger highlighted the risks of delay. "This decision should have been made earlier to save lives and give Ukraine a stronger hand on the battlefield. The reactive approach only emboldens Russia to escalate further." 
+
+
+Zagorodnyuk echoed these sentiments, warning that the U.S. policy of incremental aid has hindered Ukraine’s ability to gain the upper hand. "This piecemeal strategy, like doing little steps, step by step, as a reaction [to] some escalation from Russia's side, is, first of all, escalatory itself. And secondly, [it] is not bringing us to any resolution of the war. Because we [are] essentially supporting Russia escalating the war.” 
+
+
+Russian reaction 
+
+
+Moscow condemned the U.S. decision as an escalation of U.S. involvement in the war and warned of serious consequences. 
+
+
+"If such a decision was really formulated and brought to the attention of the Kyiv regime, then, of course, this is a qualitatively new round of tension and a qualitatively new situation in terms of the involvement of the United States in this conflict," Kremlin spokesperson Dmitry Peskov told Russian media.  
+
+
+Russian state media have amplified narratives accusing the U.S. of directly fueling the conflict, potentially laying the groundwork for further rhetorical or military escalations. 
+
+
+US leadership transition 
+
+
+The approaching U.S. transfer of power adds another layer of uncertainty.  
+
+
+There are fears in Kyiv that Washington’s critical support will be reversed, following President-elect Donald Trump’s campaign promises to end the war quickly with no clear outline of a strategy. 
+
+
+"Unlike [U.S. President Joe] Biden, Trump immediately announced his ultimate goal to stop the war. The question is — how is he going to do that?" Zagorodnyuk said. While Ukrainians would welcome an end to the war, “some people suggest all kinds of concessions from Ukraine,” which he said, “is not going to stop the war." 
+
+
+In a VOA interview, Voyger added that the Biden administration’s timing of this decision might reflect concerns about securing support for Ukraine before a potential political shift. "If a new administration pulls back on military aid or restricts Ukraine’s ability to strike, it could significantly weaken Ukraine’s position on the battlefield and at the negotiating table," he said. 
+
+
+Stopping the war 
+
+
+Both analysts agree that stopping the war needs a robust and proactive Western strategy. This includes providing Ukraine with sufficient long-range missiles, expanding the scope of permissible targets, and ensuring consistent support regardless of political changes in Washington.  
+
+
+"The West needs to empower Ukraine to not just defend itself, but to achieve the operational success that forces Russia to reconsider its aggression,” Voyger said. 
+
+
+Zagorodnyuk agrees the only way to force Russian President Vladimir Putin into serious negotiations is to put him in a position where he risks losing not just on the battlefield but also his hold on power. "The ideal situation for Ukraine would be that NATO allies, and first of all the United States, would provide us with the means to reach the effect [of] Putin [and Russia] losing its operations.   
+
+
+“Ukraine can successfully do a series of counteroffensive operations [that] would bring Putin to a situation where he would understand that unless he stops the war, he would be losing tremendously, and that would impact his regime and his power.” 
+
+<br> 
+
+<https://www.voanews.com/a/for-ukraine-us-approval-of-long-range-missiles-marks-strategic-shift/7868197.html>
+
+---
+
+## Why Mass Deportations Would Cripple California’s Economy
+
+date: 2024-11-18, from: Capital and Main
+
+<p>Mythology aside, nearly 2 million undocumented immigrants are the backbone of some industries, and pay billions in taxes for services they will never receive. </p>
+<p>The post <a href="https://capitalandmain.com/why-mass-deportations-would-cripple-californias-economy">Why Mass Deportations Would Cripple California’s Economy</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/why-mass-deportations-would-cripple-californias-economy>
+
+---
+
+## Pentagon rejects Kremlin criticism of US-fueled escalation in Ukraine
+
+date: 2024-11-18, from: VOA News USA
+
+Pentagon — The Pentagon dismissed a new round of Russian accusations that the United States is pushing the war in Ukraine into ever more dangerous territory as “reckless” rhetoric, calling out Moscow and its allies for escalating tensions.
+
+
+U.S. defense officials Monday declined to confirm media reports that President Joe Biden has decided to allow Kyiv to use Washington-supplied, long-range missiles to strike deeper inside Russian territory. But they said Moscow has no grounds for any complaints.
+
+
+"What's adding fuel to the fire is the fact that DPRK [Democratic People’s Republic of Korea] soldiers are now entering a fight,” said Pentagon deputy press secretary Sabrina Singh, in response to a question from VOA.
+
+
+"We're talking about North Korean soldiers being used to take sovereign territory, Ukrainian sovereign territory, and continue to push this war forward,” Singh said. “That certainly we view as escalatory."
+
+
+The U.S. estimates that there are at least 11,000 North Koreans troops moving into the Kursk region in southern Russia, which Ukraine captured in a surprise attack in August and still holds. 
+
+
+
+
+Singh said Monday, “We have every expectation that they would be engaging in combat operations.” 
+
+
+Kremlin spokesperson Dmitry Peskov slammed the reported U.S. decision on long-range missiles earlier Monday, saying it marks a "new spiral of tensions and a qualitatively new situation from the point of view of the U.S.'s engagement in the conflict.”
+
+
+Peskov claimed that Western countries supplying long-range weapons also provide targeting services to Kyiv. "This fundamentally changes the modality of their involvement in the conflict," Peskov said.
+
+
+Russian President Vladimir Putin did not comment publicly, but Peskov referred journalists to a Putin statement in September, in which he said allowing Ukraine to target Russia would significantly raise the stakes in the conflict.
+
+
+It would change "the very nature of the conflict dramatically," Putin said at the time. "This will mean that NATO countries — the United States and European countries — are at war with Russia."  
+
+
+Singh, however, pushed back, calling the Russian threats “reckless.”
+
+
+"Any type of nuclear saber rattling is incredibly dangerous,” she said, adding, "It's something that we're going to continue to monitor, but we haven't seen any changes to their [nuclear] posture."
+
+
+Russian officials have previously suggested that increased support for Ukraine by the U.S. and NATO could allow Moscow to respond with nuclear weapons.
+
+
+Until now, the United States had allowed Ukraine to deploy shorter-range American weapons, like the High Mobility Artillery Rocket Systems the U.S. donated in the first months of the war, to hit Russian targets over the border from Ukraine's Kharkiv region. The range of these rockets was around 80 kilometers, but the Biden decision will allow the use of Army Tactical Missile System, or ATACMS, rockets that can reach targets of up to about 300 kilometers.
+
+
+
+
+Ukrainian President Volodymyr Zelenskyy had lobbied Washington for months to be allowed to use the longer-range rockets against military targets deep inside Russia, contending they were needed to hit rocket arsenals and other weaponry being stored by Russia before their use targeting Ukraine’s cities and electrical grids.
+
+
+Biden, until now, had resisted allowing use of the longer-range missiles for fear it would escalate the war and tensions with the U.S.-led NATO military alliance. But North Korea’s deployment of troops to fight alongside Moscow’s forces alarmed Washington.
+
+
+ATACMS are long-range guided missiles produced by U.S. aerospace and defense company Lockheed Martin. The missiles carry a 227-kilogram fragmentation warhead and are tough to intercept due to their high speed.
+
+
+The rockets are fitted with a specialized GPS and carry cluster munitions. When the clusters open in the air, hundreds of bomblets are released rather than a single warhead.
+
+
+Whether the Biden decision to supply the missiles — and how many — remains in place when President-elect Donald Trump takes office January 20 is uncertain. Trump has expressed skepticism about continued U.S. support for Ukraine, declining during a September political debate to say that he wanted Ukraine to win the war.
+
+
+Trump has claimed he would broker an end to the war before he takes office but not said how he would accomplish that.
+
+
+The president-elect has not commented publicly on the Biden decision to supply Ukraine with the longer-range missiles, but his son, Donald Trump Jr., quickly criticized it.
+
+
+“The Military Industrial Complex seems to want to make sure they get World War 3 going before my father has a chance to create peace and save lives,” he said on social media.
+
+
+Biden’s policy shift came as a Russian ballistic missile with cluster munitions on Sunday evening struck a residential area of Sumy, a city in northern Ukraine, killing 11 people, including two children, and injuring 84 others.
+
+
+
+
+On Monday, another Russian missile attack started fires in two apartment blocks in Odesa, in southern Ukraine. At least eight people were killed and 18 were injured, including a child, regional Gov. Oleh Kiper said.
+
+
+The Sumy attack on Sunday followed a massive Russian bombardment of Ukraine’s power infrastructure earlier in the day.
+
+
+Zelenskyy said Ukraine and its allies should focus on “really forcing Russia to end the war.”  
+
+
+“Today marked one of the largest and most dangerous Russian attacks in the entire war — 210 drones and missiles launched simultaneously — including hypersonic and aeroballistic ones,” Zelenskyy said in his nightly address on Sunday.
+
+
+Some material in this report came from The Associated Press and Agence France-Presse. 
+
+<br> 
+
+<https://www.voanews.com/a/kremlin-says-biden-s-missile-decision-escalates-tensions-in-war-with-ukraine/7868041.html>
+
+---
+
+## Spirit Airlines will keep flying amid bankruptcy protection
+
+date: 2024-11-18, from: Marketplace Morning Report
+
+<p>There&#8217;s news today Spirit Airlines has filed for protection from its creditors, after years of losses and a failed merger. But the airline promises tickets are still good and schedules remain unchanged. Also on the program, we continue our discussion of angel investors with Loretta McCarthy, co-CEO and managing partner of Golden Seeds Venture Fund, a network that connects investors with startups founded by women.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/18/mmr_20241118_MMR_Podcast_3_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace-morning-report%2Fspirit-airlines-will-keep-flying-amid-bankruptcy-protection&awCollectionId=mkp-MMR"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/11/18/mmr_20241118_MMR_Podcast_3_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace-morning-report%2Fspirit-airlines-will-keep-flying-amid-bankruptcy-protection&awCollectionId=mkp-MMR" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/spirit-airlines-will-keep-flying-amid-bankruptcy-protection>
+
+---
+
+## Biden’s Climate Law Can’t Die. Wall Street Loves It Too Much.
+
+date: 2024-11-18, from: Heatmap News
+
+
+<img src="https://heatmap.news/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NDUyMjE0MC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4MDg0MzEyNH0.dEdYklCaNpkg91O8Y0kVze7rfDIq6ZRUKEn4WKI5sK4/image.jpg?width=1200&height=800&coordinates=0%2C0%2C0%2C0"/><br/><br/><p class="drop-caps">The optimistic case for the Inflation Reduction Act — even under a Trump presidency, even with a Republican trifecta in Washington — rests on a “public investment first” view of climate policy. Public investment in the clean energy economy is not merely a second-best policy option to carbon pricing or other punitive regulations, the argument goes, but instead the first-best option in the marathon of politically durable decarbonization. </p><p>I am an outspoken proponent of this view. Public investment provides and encourages investment to drive down the cost of clean energy technologies, make them more market-competitive, and thereby reduces emissions by permanently shifting demand away from fossil fuel-dependent ones. Public investment in clean energy technologies can also create the conditions for new constituencies to gain political clout and defend their role in the economy, and for further policy ambition in the future. </p><p>The first major sign that public investment under the IRA might prove durable came in August, when a group of 18 House Republicans wrote to Speaker Mike Johnson in support of the clean energy tax credits that are the cornerstone of the legislation, emphasizing the job creation benefits of the policy. Even the American Petroleum Institute and U.S. Chamber of Commerce said back in May that <a href="https://www.texasstandard.org/stories/biden-inflation-reduction-act-american-petroleum-institute-chamber-commerce-trump/" rel="noopener noreferrer" target="_blank"><u>they would support the IRA</u></a> under a Trump presidency. Driving down costs? Check. New constituencies? Check.</p><p>It’s tempting to see this glimmer of change in favor of clean energy incentives as the consequence of groundswell political support, as voters see benefits arrive in their communities. Journalist Kate Aronoff calls this “pool party politics," named after the New Deal’s <a href="https://newrepublic.com/article/174860/public-doesnt-know-well-inflation-reduction-act-working" rel="noopener noreferrer" target="_blank"><u>high-visibility spending on public pools</u></a> which curried popular favor in the 1930s. The IRA’s benefits do <a href="https://cleantechnica.com/2024/08/14/two-years-in-the-ira-has-benefitted-gop-districts-red-states-the-most/" rel="noopener noreferrer" target="_blank"><u>tilt heavily toward red districts</u></a>, so it would be nice to imagine that Republican elected officials are hearing bottom-up support and dutifully reflecting constituent interest — democracy in action.</p><p>Let’s call that the optimist’s view. My view, which one might call the “cynical optimist’s,” is that politicians — red or blue — are often more responsive to the concentrated interests and influence of lobbyists and donors than the electorate. The IRA may have gained popularity in Congress, including among Republicans, as financial and corporate interests — “capital” — started becoming IRA fans. Tim Sahay of the Net Zero Policy Lab at Johns Hopkins has called the IRA’s tax credits a “<a href="https://x.com/70sBachchan/status/1683076054028546049" rel="noopener noreferrer" target="_blank"><u>bottomless mimosa bar</u></a>” for the financial market, and bankers are swanning up to get smashed on unlimited tax incentives for clean energy investment.</p><p>I favor the cynical optimist’s view because I believe it to be a more accurate picture of why the IRA is good politics. The “cynical” part recognizes that capital exerts disproportionate influence over the political process; the “optimist” part celebrates that the IRA is a powerful vehicle to appeal to their economic values. Bottomless mimosa bars aren’t just booze giveaways — they work by bringing in new customers who then stay and pay for their meals. Reformulating the interests of capital through public investment is a pragmatic and necessary antidote to the inertia of the incumbent fossil fuel industry. </p><p>A great example of the IRA gaining new types of fans is its program of expanded, transferable clean energy tax credits. Not only do these tax credits redirect tax revenue toward clean energy investment, making more projects economically justifiable, they may also develop their own market momentum. I advise <a href="https://www.buildwithbasis.com/" rel="noopener noreferrer" target="_blank"><u>Basis Climate</u></a>, a platform for clean energy tax credit transfers, and when I asked co-founder Erik Underwood to tell me who is actually buying these tax credits, he told me it has mostly been savvy business people focused on minimizing their tax payments. Many of these buyers have never or only marginally participated in renewable energy deployment previously. </p><p>The tax credit transfer market has grown to <a href="https://www.esgtoday.com/nasdaq-provides-access-to-ira-clean-energy-tax-credit-market-in-collaboration-with-sustainable-fintech-crux/" rel="noopener noreferrer" target="_blank"><u>$20 billion to 25 billion</u></a> in a mere 20 months. By comparison, voluntary carbon markets have for decades attempted to enable green projects by creating a market for tradeable credits, yet the market is expected to reach just <a href="https://about.bnef.com/blog/mega-boost-for-carbon-offsets-market-seen-from-sbti-easing/" rel="noopener noreferrer" target="_blank"><u>$2 billion</u></a> <em><em>globally </em></em>in 2024.</p><p>In other words, the market for clean energy tax buyers has vastly expanded the base of corporates benefiting from and supporting clean energy projects, led by transactional people who want to avoid paying taxes. Now, there are tax-hating business types of all political colors, but one can already see that the politics of the IRA are shaping up differently than, say, a pollution tax that steadily gets harsher over time. </p><p>All that said, it is important not to overstate the case in favor of the IRA’s durability. Those 18 House Republicans are down to no more than <a href="https://heatmap.news/sparks/house-republicans-ira" target="_self"><u>14 post-election</u></a>, and the remainder may find that falling in line with the President <a href="https://www.pnas.org/doi/10.1073/pnas.2309072120" rel="noopener noreferrer" target="_blank"><u>politically safer</u></a> were he to mount a full-scale attack on the IRA. They and corporate America may also love clean energy tax credits in the abstract but happily give them up to <a href="https://thehill.com/business/4984127-trump-tax-cut-proposal-republicans/" rel="noopener noreferrer" target="_blank"><u>pay for a juicy tax cut for the wealthy</u></a>.</p><p>Still, the most clearly durable part of the IRA are the <a href="https://www.cleaninvestmentmonitor.org/reports/tallying-the-two-year-impact-of-the-inflation-reduction-act" rel="noopener noreferrer" target="_blank"><u>$78 billion in public spending</u></a> and whopping $493 billion in business and consumer energy investment that it has already catalyzed as of June 2024, an estimated 71% increase in private investment from the two years before the IRA. That investment won’t be undone with policy change, and it will radically change the economics of many clean energy technologies. It also lays the foundation for later policymaking, as distant as that possibility may now feel. By creating an expanded tent of clean economy interests, the “carrot” of public investment may also help future politicians and their constituencies find “stick” policies more feasible. Penalties on high-carbon products — from gas cars to steel — become much more palatable if they are merely driving substitution to other technologies that compete on price and quality, than if they’re just making the only serviceable option more expensive.</p><p>This more nuanced telling of the politics, though, means you don’t need a star-eyed, <em><em>Mr. Smith Goes to Washington</em></em> view of the American political process to see how the IRA is delivering political dividends. Whatever the fate of the IRA come January, the longer the benefits flow — to communities and to capitalists — the more difficult it will be to roll back the tide.</p> 
+
+<br> 
+
+<https://heatmap.news/ideas/ira-tax-credits>
 
 ---
 

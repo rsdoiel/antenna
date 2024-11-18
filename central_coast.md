@@ -1,11 +1,98 @@
 ---
 title: central coast
-updated: 2024-11-18 07:34:02
+updated: 2024-11-18 15:43:14
 ---
 
 # central coast
 
-(date: 2024-11-18 07:34:02)
+(date: 2024-11-18 15:43:14)
+
+---
+
+## Holiday Meals, Helpful Resources Offered for Families in Need
+
+date: 2024-11-18, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Rescue Mission Alliance Central Coast will kick off its Thanksgiving Week of Hope on Nov. 21 with an outreach at Santa Maria Foursquare Church, where Thanksgiving Meals in a Box [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/holiday-meals-helpful-resources-offered-for-families-in-need/">Holiday Meals, Helpful Resources Offered for Families in Need</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/holiday-meals-helpful-resources-offered-for-families-in-need/>
+
+---
+
+## Organic Soup Kitchen Prescribes to Nutrition as Path to Good Health
+
+date: 2024-11-18, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Organic Soup Kitchen hosted a sold-out Farm to Table event at the Cabrillo Pavilion recently to celebrate its 15th anniversary, and to raise funds for nutrition and food security in [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/organic-soup-kitchen-marks-15-years-supporting-nutrition-for-good-health/">Organic Soup Kitchen Prescribes to Nutrition as Path to Good Health</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/organic-soup-kitchen-marks-15-years-supporting-nutrition-for-good-health/>
+
+---
+
+## Athletes of the Week 11/18
+
+date: 2024-11-18, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="672" height="654" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Screenshot-2024-11-18-at-2.18.10-PM.png?fit=672%2C654&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Screenshot-2024-11-18-at-2.18.10-PM.png?w=672&amp;ssl=1 672w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Screenshot-2024-11-18-at-2.18.10-PM.png?resize=300%2C292&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Screenshot-2024-11-18-at-2.18.10-PM.png?resize=400%2C389&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Screenshot-2024-11-18-at-2.18.10-PM.png?fit=672%2C654&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Click here for the full story on this week&#8217;s Athletes of the Week.</p>
+<p>The post <a href="https://www.noozhawk.com/athletes-of-the-week-11-18/">Athletes of the Week 11/18</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/athletes-of-the-week-11-18/>
+
+---
+
+## Discover Solvang Theaterfest: A Cultural Gem Enriching the Santa Ynez Valley Through the Performing Arts
+
+date: 2024-11-18, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="575" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Photo-1.jpg?fit=1024%2C575&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Photo-1.jpg?w=1500&amp;ssl=1 1500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Photo-1.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Photo-1.jpg?resize=1024%2C575&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Photo-1.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Photo-1.jpg?resize=1200%2C674&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Photo-1.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Photo-1.jpg?fit=1024%2C575&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The nonprofit aims to connect and enrich the community while encouraging the understanding, learning and appreciation of diverse ideas and cultures</p>
+<p>The post <a href="https://www.noozhawk.com/discover-solvang-theaterfest-a-cultural-gem-enriching-the-santa-ynez-valley-through-the-performing-arts/">Discover Solvang Theaterfest: A Cultural Gem Enriching the Santa Ynez Valley Through the Performing Arts</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/discover-solvang-theaterfest-a-cultural-gem-enriching-the-santa-ynez-valley-through-the-performing-arts/>
+
+---
+
+## Virtual Meeting Looks at Design of Housing Units at North Branch Jail
+
+date: 2024-11-18, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The county invites interested community members to attend a virtual meeting, 2:30 p.m. Thursday, Dec. 4 to learn about the design and development of new housing units associated with the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/virtual-meeting-looks-at-design-of-housing-units-at-north-branch-jail/">Virtual Meeting Looks at Design of Housing Units at North Branch Jail</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/virtual-meeting-looks-at-design-of-housing-units-at-north-branch-jail/>
+
+---
+
+## New Beginnings: Empowering Communities with Counseling, Shelter, and Life-Changing Support
+
+date: 2024-11-18, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/IMG_2633-1-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/IMG_2633-1-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/IMG_2633-1-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/IMG_2633-1-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/IMG_2633-1-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/IMG_2633-1-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/IMG_2633-1-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/IMG_2633-1-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/IMG_2633-1-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/IMG_2633-1-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/IMG_2633-1-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/IMG_2633-1-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/IMG_2633-1-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>New Beginnings has been serving the community since the late 1960s, when a group of forward-thinking psychiatrists recognized the critical need for accessible mental health care</p>
+<p>The post <a href="https://www.noozhawk.com/new-beginnings-empowering-communities-with-counseling-shelter-and-life-changing-support/">New Beginnings: Empowering Communities with Counseling, Shelter, and Life-Changing Support</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/new-beginnings-empowering-communities-with-counseling-shelter-and-life-changing-support/>
 
 ---
 

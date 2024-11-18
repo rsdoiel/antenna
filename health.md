@@ -1,11 +1,23 @@
 ---
 title: health
-updated: 2024-11-18 07:34:04
+updated: 2024-11-18 15:43:16
 ---
 
 # health
 
-(date: 2024-11-18 07:34:04)
+(date: 2024-11-18 15:43:16)
+
+---
+
+## People’s CDC COVID-19 Weather Report
+
+date: 2024-11-18, from: People's CDC
+
+This is the People's CDC bi-weekly update for November 18, 2024! This Weather Report from the People’s CDC sheds light on the ongoing COVID situation in the US. 
+
+<br> 
+
+<https://peoplescdc.org/2024/11/18/peoples-cdc-covid-19-weather-report-86/>
 
 ---
 

@@ -1,11 +1,139 @@
 ---
 title: food
-updated: 2024-11-18 07:34:04
+updated: 2024-11-18 15:43:16
 ---
 
 # food
 
-(date: 2024-11-18 07:34:04)
+(date: 2024-11-18 15:43:16)
+
+---
+
+## People Are Making Glitter Deviled Eggs for Christmas
+
+date: 2024-11-18, from: Taste of Home
+
+<p>On TikTok, a recipe for glitter deviled eggs has gained a lot of attention.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/glitter-deviled-eggs-for-christmas/">People Are Making Glitter Deviled Eggs for Christmas</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/glitter-deviled-eggs-for-christmas/>
+
+---
+
+## Kit Kat Just Changed the Shape of Its Bars for the Holidays
+
+date: 2024-11-18, from: Taste of Home
+
+<p>Break me off a piece of that Christmas Kit Kat bar!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/kit-kat-santa/">Kit Kat Just Changed the Shape of Its Bars for the Holidays</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/kit-kat-santa/>
+
+---
+
+## People Are Using This Green Bean Casserole Secret Ingredient
+
+date: 2024-11-18, from: Taste of Home
+
+<p>Use this secret ingredient and friends will beg you to bring a green bean casserole to every holiday gathering.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/green-bean-casserole-secret-ingredient/">People Are Using This Green Bean Casserole Secret Ingredient</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/green-bean-casserole-secret-ingredient/>
+
+---
+
+## Turkey Stir-Fry
+
+date: 2024-11-18, from: Taste of Home
+
+The lean turkey strips soak up all the flavors in this easy-to-prepare turkey stir-fry. It’s a great way for increasing your veggie intake too. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/turkey-stir-fry/>
+
+---
+
+## Bhutila Fire Hot Sauce Review
+
+date: 2024-11-18, from: Pepper Scale
+
+Are you ready to ignite your taste buds with an explosion of heat and flavor? Step up to Bhutila Fire Hot Sauce by Chile Lengua Del Fuego. This sauce offers a tantalizing fusion of citrusy and smoky notes, featuring four distinct chili peppers that deliver ... <p class="read-more-container"><a title="Bhutila Fire Hot Sauce Review" class="read-more button" href="https://pepperscale.com/bhutila-fire-hot-sauce/#more-101390" aria-label="Read more about Bhutila Fire Hot Sauce Review">Read more</a></p> 
+
+<br> 
+
+<https://pepperscale.com/bhutila-fire-hot-sauce/>
+
+---
+
+## 11 Best Gifts Under $25
+
+date: 2024-11-18, from: Bon Appetet
+
+Affordable gifts like zesty seasonings, perky chocolates, and stylish home decor. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-gifts-under-25>
+
+---
+
+## The Coffee Manufactory Gets A Fresh Rebrand
+
+date: 2024-11-18, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. A new look Coffee Manufactury's retail bags. 
+
+<br> 
+
+<https://sprudge.com/the-coffee-manufactory-gets-a-fresh-rebrand-248253.html>
+
+---
+
+## A Brief Guide to Wonderful Colombian Coffees at Bogotá’s El Dorado Airport
+
+date: 2024-11-18, from: Daily Coffee News
+
+<div><img width="620" height="461" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/Varietale-5-1-620x461.jpg" class="attachment-large size-large wp-post-image" alt="Varietale 5" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/Varietale-5-1-620x461.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Varietale-5-1-300x223.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Varietale-5-1-150x111.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Varietale-5-1-768x570.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Varietale-5-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Throughout the world, airport coffee tends to be like traveling back in time 20 years. The coffee itself is often anonymous, over-roasted and begging for milk and sugar&#160;— maybe even... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/11/18/a-brief-guide-to-wonderful-colombian-coffees-at-bogotas-el-dorado-airport/>
+
+---
+
+## Organic Carrots Sold at Trader Joe’s, Target and Other Stores Recalled After E. Coli Outbreak
+
+date: 2024-11-18, from: Taste of Home
+
+<p>Following a deadly E. coli outbreak, Grimmway Farms is recalling multiple brands of organic carrots.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/organic-carrot-recall-november-2024/">Organic Carrots Sold at Trader Joe’s, Target and Other Stores Recalled After E. Coli Outbreak</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/organic-carrot-recall-november-2024/>
+
+---
+
+## Can You Trust Companies That Say Their Plastic Products are Recyclable? US Regulators May Crack Down on Deceptive Claims
+
+date: 2024-11-18, from: Daily Coffee News
+
+<div><img width="620" height="405" src="https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-pod-recycling-620x405.jpg" class="attachment-large size-large wp-post-image" alt="coffee pod recycling" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-pod-recycling-620x405.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-pod-recycling-300x196.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-pod-recycling-150x98.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-pod-recycling-768x501.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/09/coffee-pod-recycling.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Plastic is a fast-growing segment of U.S. municipal solid waste, and most of it ends up in the environment.&#160;Just 9%&#160;of plastic collected in municipal solid waste was recycled as of... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/11/18/can-you-trust-companies-that-say-their-plastic-products-are-recyclable-us-regulators-may-crack-down-on-deceptive-claims/>
 
 ---
 
@@ -13,7 +141,7 @@ updated: 2024-11-18 07:34:04
 
 date: 2024-11-18, from: Daily Coffee News
 
-<div><img width="620" height="467" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/Leaves-n-Beans-coffee-Peoria-roaster-620x467.jpg" class="attachment-large size-large wp-post-image" alt="Leaves n Beans coffee Peoria roaster" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/Leaves-n-Beans-coffee-Peoria-roaster-620x467.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Leaves-n-Beans-coffee-Peoria-roaster-300x226.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Leaves-n-Beans-coffee-Peoria-roaster-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Leaves-n-Beans-coffee-Peoria-roaster-768x578.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Leaves-n-Beans-coffee-Peoria-roaster.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Leaves &#8216;n Beans Coffee is gaining traction in Peoria, Illinois, moving its roastery and headquarters into a 7,600-square-foot space formerly occupied by a K-Mart tire center. The company&#8217;s existing Diedrich... 
+<div><img width="620" height="467" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/Leaves-n-Beans-coffee-Peoria-roaster-620x467.jpg" class="attachment-large size-large wp-post-image" alt="Leaves n Beans coffee Peoria roaster" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/Leaves-n-Beans-coffee-Peoria-roaster-620x467.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Leaves-n-Beans-coffee-Peoria-roaster-300x226.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Leaves-n-Beans-coffee-Peoria-roaster-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Leaves-n-Beans-coffee-Peoria-roaster-768x578.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Leaves-n-Beans-coffee-Peoria-roaster.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Leaves &#8216;n Beans Coffee is gaining traction in Peoria, Illinois, moving its roastery and headquarters into a 7,600-square-foot space formerly occupied by a K-Mart tire center. The company&#8217;s existing Diedrich... 
 
 <br> 
 

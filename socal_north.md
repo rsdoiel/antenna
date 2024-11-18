@@ -1,11 +1,148 @@
 ---
 title: socal north
-updated: 2024-11-18 07:34:01
+updated: 2024-11-18 15:43:13
 ---
 
 # socal north
 
-(date: 2024-11-18 07:34:01)
+(date: 2024-11-18 15:43:13)
+
+---
+
+## Covered California starts offering health care to DACA immigrants. Will Trump’s win deter them?
+
+date: 2024-11-18, updated: 2024-11-18, from: The LAist
+
+California immigrants with DACA status are newly eligible to buy insurance through the Affordable Care Act. Donald Trump’s election creates uncertainty about the future of the program. 
+
+<br> 
+
+<https://laist.com/news/health/covered-california-health-care-daca-immigrants-trump>
+
+---
+
+## Long Beach Opera announces 2025 season celebrating queer composer Pauline Oliveros
+
+date: 2024-11-18, updated: 2024-11-18, from: The LAist
+
+The season begins on Dec.15 with Earth Ears: A Sonic Ritual at Angels Gate Cultural Center. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/long-beach-opera-announces-2025-season-celebrating-queer-composer-pauline-oliveros>
+
+---
+
+## 1 LACo Resident Dies, Another Sickened in E. Coli Outbreak From Organic Carrots
+
+date: 2024-11-18, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="638" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Carrots_-_Daucus_carota_subsp._sativus-scaled.jpg?fit=1024%2C638&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Carrots_-_Daucus_carota_subsp._sativus-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Carrots_-_Daucus_carota_subsp._sativus-scaled.jpg?resize=300%2C187&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Carrots_-_Daucus_carota_subsp._sativus-scaled.jpg?resize=1024%2C638&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Carrots_-_Daucus_carota_subsp._sativus-scaled.jpg?resize=768%2C479&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Carrots_-_Daucus_carota_subsp._sativus-scaled.jpg?resize=1536%2C957&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Carrots_-_Daucus_carota_subsp._sativus-scaled.jpg?resize=2048%2C1276&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Carrots_-_Daucus_carota_subsp._sativus-scaled.jpg?resize=1200%2C748&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Carrots_-_Daucus_carota_subsp._sativus-scaled.jpg?resize=1568%2C977&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Carrots_-_Daucus_carota_subsp._sativus-scaled.jpg?resize=2000%2C1246&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Carrots_-_Daucus_carota_subsp._sativus-scaled.jpg?resize=400%2C249&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Carrots_-_Daucus_carota_subsp._sativus-scaled.jpg?resize=706%2C440&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Carrots_-_Daucus_carota_subsp._sativus-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/11/Carrots_-_Daucus_carota_subsp._sativus-scaled.jpg?fit=1024%2C638&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ANGELES (CNS) &#8211; One Los Angeles County resident has died and at least one other has been sickened in a multi-state E. coli outbreak tied to organic carrots, health [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/11/18/1-laco-resident-dies-another-sickened-in-e-coli-outbreak-from-organic-carrots/">1 LACo Resident Dies, Another Sickened in E. Coli Outbreak From Organic Carrots</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/11/18/1-laco-resident-dies-another-sickened-in-e-coli-outbreak-from-organic-carrots/>
+
+---
+
+## Number of red-tagged homes in Rancho Palos Verdes rises to 18
+
+date: 2024-11-18, updated: 2024-11-18, from: The LAist
+
+Land movement. however, has slowed to an average of 3.3 inches a week 
+
+<br> 
+
+<https://laist.com/news/red-tagged-homes-rancho-palos-verdes>
+
+---
+
+## Celebrate the Opening of the New Bouquet Canyon Trail!
+
+date: 2024-11-18, from: City of Santa Clarita
+
+<p>Join Us at Central Park for the Newest Trail Addition! After months of development, the Bouquet Canyon Trail in Saugus is ready to open! Join members of the Santa Clarita City Council, the Santa Clarita Valley Bicycle Coalition and the community for a ribbon-cutting ceremony on Monday, November 25 at 10:00 a.m. at Central Park, [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/11/18/celebrate-the-opening-of-the-new-bouquet-canyon-trail/">Celebrate the Opening of the New Bouquet Canyon Trail!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/11/18/celebrate-the-opening-of-the-new-bouquet-canyon-trail/>
+
+---
+
+## Trump promised to ‘end’ offshore wind. What will that mean for California’s big bet?
+
+date: 2024-11-18, updated: 2024-11-18, from: The LAist
+
+Trump’s promise to block the offshore wind industry could threaten the state's renewable energy goals, potentially cutting off federal funding. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/trump-offshore-wind-california-big-bet>
+
+---
+
+## The USPS will honor Betty White with her own stamp in 2025
+
+date: 2024-11-18, updated: 2024-11-18, from: The LAist
+
+Having received hundreds to thousands of fan mail each week, it's only fitting to honor White with a postage stamp. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/the-usps-will-honor-betty-white-with-her-own-stamp-in-2025>
+
+---
+
+## Freezing conditions expected tonight for some parts of the Southland
+
+date: 2024-11-18, updated: 2024-11-18, from: The LAist
+
+Weak Santa Ana winds will continue for some valleys, mountains and highway corridors. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/freezing-conditions-expected-later-tonight-for-some-parts-of-the-southland>
+
+---
+
+## Dear LAist: Why do some elections have more votes than others?
+
+date: 2024-11-18, updated: 2024-11-18, from: The LAist
+
+We look at what undervoting means and how it can affect elections. 
+
+<br> 
+
+<https://laist.com/news/politics/california-general-election-2024-undervoting-los-angeles-orange-county-propositions-senate>
+
+---
+
+## Best things to do this week in LA and SoCal: Nov. 18 - 21
+
+date: 2024-11-18, updated: 2024-11-18, from: The LAist
+
+'Back to the Future: The Musical,' Rogue Artists Puppets at the Autry, Christina Tosi at Grand Central Market, and more of the best things to do. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-this-week-los-angeles-southern-california-nov-18-21>
+
+---
+
+## How do you save a rainforest? Leave it alone
+
+date: 2024-11-18, updated: 2024-11-18, from: The LAist
+
+Research shows that, instead of replanting rainforests, allowing them to bounce back naturally would store loads of carbon. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/save-rainforest-leave-alone>
 
 ---
 
@@ -35,9 +172,9 @@ The word "squaw" was declared derogatory by the Department of Interior in 2021. 
 
 ---
 
-## How conservationists found a rare flower called the Saints' Daisy after 60 years
+## Missing for 60 years, how a rare daisy was rediscovered on a Southern California island
 
-date: 2024-11-17, updated: 2024-11-17, from: The LAist
+date: 2024-11-17, updated: 2024-11-18, from: The LAist
 
 The plant was last seen in 1965 on Santa Cruz Island — one of the few places it's known to have existed in California. 
 
