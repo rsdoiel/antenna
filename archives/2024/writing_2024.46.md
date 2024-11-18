@@ -1,11 +1,37 @@
 ---
 title: writing
-updated: 2024-11-16 10:05:03
+updated: 2024-11-17 16:11:25
 ---
 
 # writing
 
-(date: 2024-11-16 10:05:03)
+(date: 2024-11-17 16:11:25)
+
+---
+
+## The Bog Wife by Kay Chronister: Review by Jake Casella Brookins
+
+date: 2024-11-17, from: Locus Magazine
+
+<p><strong>The Bog Wife</strong>, Kay Chronister (Counterpoint 978-1-64009-662-2, $28.00, 336pp, hc) October 2024. Cover by Nicole Caputo.</p>
+<p>Isolated on their West Virginia estate, the five Haddesley siblings have a troubled and trou­bling relationship with their magical heritage. Charlie, the next in line to be patriarch, has been severely injured by a falling tree, and doubts his ability to fulfill his part of the bargain with the bog that supports and  <a href="https://locusmag.com/2024/11/the-bog-wife-by-kay-chronister-review-by-jake-casella-brookins/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/11/the-bog-wife-by-kay-chronister-review-by-jake-casella-brookins/>
+
+---
+
+## Crypt of the Moon Spider by Nathan Ballingrud: Review by Gabino Iglesias
+
+date: 2024-11-16, from: Locus Magazine
+
+<p><strong>Crypt of the Moon Spider</strong>, Nathan Ballingrud (Nightfire 978-1-25029-173-8, $17.99, 85pp, tp) August 2024. Cover by Sam Araya.</p>
+<p>Nathan Ballingrud is one of the finest purveyors of speculative fiction working today, and <strong>Crypt of the Moon Spider</strong>, the first book in what will be The Lunar Gothic Trilogy, further cements him as one of the strongest voices in the field. Wonderfully atmospheric and very strange, <strong>Crypt of the </strong> <a href="https://locusmag.com/2024/11/crypt-of-the-moon-spider-by-nathan-ballingrud-review-by-gabino-iglesias/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/11/crypt-of-the-moon-spider-by-nathan-ballingrud-review-by-gabino-iglesias/>
 
 ---
 
@@ -730,123 +756,4 @@ date: 2024-11-10, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2024/11/the-ornithologists-field-guide-to-love-by-india-holton-review-by-colleen-mondor/>
-
----
-
-## New this week
-
-date: 2024-11-09, from: IF Database News
-
-The team has been hard at work on improvements to IFDB.
-
-<p><ul>
-<li><a href="https://ifdb.org/news?item=150">Estimated Play Time (now searchable!)</a></li>
-<li><a href="https://ifdb.org/news?item=149">JSON APIs</a></li>
-<li><a href="https://ifdb.org/news?item=148">Removed Clubs</a></li>
-</ul></p> 
-
-<br> 
-
-<https://ifdb.org/news?item=151>
-
----
-
-## Estimated Play Time (now searchable!)
-
-date: 2024-11-09, from: IF Database News
-
-You can now use the "Estimated Play Time" form on any game to submit a "vote" for how long it takes to finish the game.
-
-<ul>
-<li>Vote only if you've played the game.</li>
-<li>Vote on how long it would take to get to one final ending without hints or a walkthrough.</li>
-<li>Time spent away from the game doesn't count.</li>
-<li>Times don't need to be exact. Good-faith estimates are fine.</li></ul>
-
-<p>We'll display the median time vote near the top of that game's page.</p>
-
-<p>(EDIT: Nov 15) You can also search for games by play time using the new <b>playtime:</b> search filter. For example, here's <a href="https://ifdb.org/search?searchbar=playtime%3A6h-">a list of games that have an estimated play time of six hours or more</a>.</p>
-
-<p><b>playtime:<i>minimum-maximum</i></b> lists games with an estimated 
-          play time in the given range. After each number, use <b>h</b> for hours 
-          or <b>m</b> for minutes. For example, <b>playtime:2h15m-3h</b> shows games 
-          with an estimated play time of anywhere from 2 hours and 15 minutes to 3 
-          hours. Hours may include decimals (for example, <b>3.5h</b>). 
-          <b>playtime:1.5h-</b> lists games with an estimated play time of at least 1 
-          and a half hours. <b>playtime:-45m</b> lists games with an estimated play time 
-          of 45 minutes or less. <b>playtime:1h</b> searches for games with an 
-          estimated play time of 1 hour. <b>playtime:</b> with no text after it searches 
-          for games with no estimated play time.
-
-
-
-       </p>
-
-<p><b>This feature is very, very new.</b> We've got a lot of <a href="https://github.com/iftechfoundation/ifdb/issues?q=is%3Aissue+is%3Aopen+label%3A%22estimated+play+time%22">ideas for improvements</a>, and we've got a <a href="https://intfiction.org/t/ifdb-what-are-your-thoughts-about-a-field-for-length-of-time/72064/27?u=dfabulich">public discussion going on the intfiction.org forum</a>.</p> 
-
-<br> 
-
-<https://ifdb.org/news?item=150>
-
----
-
-## JSON APIs
-
-date: 2024-11-09, from: IF Database News
-
-Most of our <a href="https://ifdb.org/api/">IFDB API</a> endpoints now support JSON.
-
-<ul>
-    <li>You can <a href="https://ifdb.org/api/search">search for games</a> and get JSON results</li>
-    <li>You can <a href="https://ifdb.org/api/viewgame">view an individual game</a> and get JSON results (now including tags and complete, unstripped HTML!)</li>
-    <li>You can <a href="https://ifdb.org/api/taggame">tag games</a> by posting a JSON array of tags</li>
-</ul>
-
-<p>All of the old APIs still work in XML mode, but <b>JSON is the preferred format for all new code.</b> (The API to add/edit games is still XML-only, for now.)</p>
-
-<p>In addition, we deprecated the <a href="https://ifdb.org/api/gametags">gametags API</a>. You can view tags on an individual game with the <a href="https://ifdb.org/api/viewgame">viewgame API</a>, or view your own tags with the <a href="https://ifdb.org/api/search">search API</a>, like this:</p>
-
-<p><code>https://ifdb.org/search?json&tag&searchfor=tuid:<i>xxx</i>+mine:yes</code></p> 
-
-<br> 
-
-<https://ifdb.org/news?item=149>
-
----
-
-## Removed Clubs
-
-date: 2024-11-09, from: IF Database News
-
-The IFDB "clubs" feature has been removed. Nobody was using the feature, partly because <a href="https://github.com/iftechfoundation/ifdb/issues/950">clubs didn't do very much</a>. 
-
-<br> 
-
-<https://ifdb.org/news?item=148>
-
----
-
-## SF in Japan
-
-date: 2024-11-09, from: Locus Magazine
-
-<p class="subhead" xml:lang="en-us"></p>
-<p class="normal" xml:lang="en-us">In my previous article on Japanese science fiction, published in Locus in 2016, I likened my experience of living in Japan to Urashima Taro’s rise from his present world (eighth century) to the world of the future, with its fast-forward jumble of pop-culture iconography. This sense of Japan and its current state in science fiction is even more relevant in the wake of COVID, as these changes have only accelerated.  <a href="https://locusmag.com/2024/11/sf-in-japan/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2024/11/sf-in-japan/>
-
----
-
-## Kree by Manuela Draeger: Review by Jake Casella Brookins
-
-date: 2024-11-09, from: Locus Magazine
-
-<p><strong>Kree</strong>, Manuela Draeger (University of Min­nesota Press 978-1-51791-512-4, $21.95, 280pp, tp) October 2024.</p>
-<p>Manuela Draeger’s <strong>Kree </strong>is so immedi­ately violent that I wasn’t sure it was going to be for me. Somehow, though, within just a few chapters, the novel’s mix of haunting imagery and almost humorous un­predictability grew so compelling that I found myself wanting to track down everything else the author has written. A midapocalyptic story set  <a href="https://locusmag.com/2024/11/kree-by-manuela-draeger-review-by-jake-casella-brookins/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2024/11/kree-by-manuela-draeger-review-by-jake-casella-brookins/>
 

@@ -1,11 +1,179 @@
 ---
 title: socal north
-updated: 2024-11-16 10:05:02
+updated: 2024-11-17 16:11:23
 ---
 
 # socal north
 
-(date: 2024-11-16 10:05:02)
+(date: 2024-11-17 16:11:23)
+
+---
+
+## A derogatory term for Native women will be removed from place names across California
+
+date: 2024-11-17, updated: 2024-11-17, from: The LAist
+
+The word "squaw" was declared derogatory by the Department of Interior in 2021. Since then, hundreds of geographic features have been renamed with input from local tribes and Indigenous communities. 
+
+<br> 
+
+<https://laist.com/news/a-derogatory-term-for-native-women-will-be-removed-from-place-names-across-california>
+
+---
+
+## How conservationists found a rare flower called the Saints' Daisy after 60 years
+
+date: 2024-11-17, updated: 2024-11-17, from: The LAist
+
+The plant was last seen in 1965 on Santa Cruz Island — one of the few places it's known to have existed in California. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/saints-daisy-flower-found-60-years-later>
+
+---
+
+## Why there's new hope for Sierra Nevada bighorn sheep to make a comeback
+
+date: 2024-11-17, updated: 2024-11-17, from: The LAist
+
+The endangered species suffered steep declines during the winter of 2022-2023, but fared better this past year. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/sierra-nevada-bighorn-sheep-endangered-species-recovery>
+
+---
+
+## Democrat Derek Tran pulls ahead of GOP's Michelle Steel by 36 votes in the 45th House District
+
+date: 2024-11-17, updated: 2024-11-17, from: The LAist
+
+The change in leading candidate came after days of GOP Rep. Steel's lead declining. It's one of the last Congressional races not yet called. 
+
+<br> 
+
+<https://laist.com/news/politics/tran-steel-lead-45th-district-house-race>
+
+---
+
+## San Clemente surf shop is collecting boards for Native Mexican youth
+
+date: 2024-11-16, updated: 2024-11-16, from: The LAist
+
+The Hobie Surf Shop is collecting like-new surfboards in a drive for the young people living along the Baja Coast. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/san-clemente-surf-shop-is-collecting-boards-for-native-mexican-youth>
+
+---
+
+## From Charlie Chaplin to 'We Are The World,' this Hollywood studio has seen it all
+
+date: 2024-11-16, updated: 2024-11-17, from: The LAist
+
+The storied Henson Studio lot on La Brea is under contract with singer John Mayer and director McG. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/charlie-chaplin-we-are-the-world-hollywood-henson-studio>
+
+---
+
+## Go Fact Yourself quiz for November 16
+
+date: 2024-11-16, updated: 2024-11-16, from: The LAist
+
+Our celebrity panelists Barry Sonnefeld and Jackie Tohn go head to head this week on their knowledge of the Golden Oldies (or Olden Goldies) and Jewish food. Think you might know more than they do? Go Fact Yourself! 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-november-16>
+
+---
+
+## If you ‘sea’ something, say something: Prepare for climate change by photographing king tides this weekend
+
+date: 2024-11-16, updated: 2024-11-16, from: The LAist
+
+Climate change will bring higher sea levels and changes to our coastline, and king tides are key to understanding them before they happen. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/photographing-king-tides-climate-change>
+
+---
+
+## Tips for catching this weekend’s Beaver supermoon
+
+date: 2024-11-16, updated: 2024-11-16, from: The LAist
+
+The Beaver supermoon is reaching its peak this weekend, converging with other celestial events. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/tips-for-catching-this-weekends-beaver-supermoon>
+
+---
+
+## Some immigrants in LA County struggle with post-election fear, anxiety. Here's where to seek help
+
+date: 2024-11-16, updated: 2024-11-16, from: The LAist
+
+Community organizers say there are resources available to help people deal with anxieties and fears, including a directory of mental health professionals who work with the undocumented community. 
+
+<br> 
+
+<https://laist.com/news/health/immigrants-la-county-post-election-mental-health>
+
+---
+
+## Climate and environmental action used to be bipartisan. What happened?
+
+date: 2024-11-16, updated: 2024-11-16, from: The LAist
+
+We speak with conservative climate advocates in SoCal about bridging the partisan divide. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/climate-environment-action-bipartisan-trump>
+
+---
+
+## After LAist investigation, high-profile nonprofit refunds Orange County $275K in taxpayer funds for work never completed
+
+date: 2024-11-16, updated: 2024-11-16, from: The LAist
+
+The contracted work on mental health equity was supposed to be performed by the longtime partner — now wife — of a top aide to disgraced former county Supervisor Andrew Do. County officials cited LAist reporting in their demand for the money to be returned. 
+
+<br> 
+
+<https://laist.com/news/politics/high-profile-nonprofit-refunds-orange-county-275k-in-taxpayer-funds-for-work-never-completed>
+
+---
+
+## Huntington Beach scores early legal victory in its voter ID battle
+
+date: 2024-11-16, updated: 2024-11-16, from: The LAist
+
+Huntington Beach says it will not be intimidated by Sacramento. 
+
+<br> 
+
+<https://laist.com/news/politics/huntington-beach-scores-early-legal-victory-in-its-voter-id-battle>
+
+---
+
+## LAUSD wants to change how the state fines school districts for transitional kindergarten violations
+
+date: 2024-11-16, updated: 2024-11-16, from: The LAist
+
+The district was fined over $8 million for some of its schools having too many students per class and not enough adults per student in the 2022-23 school year. 
+
+<br> 
+
+<https://laist.com/news/education/lausd-california-fines-school-districts-for-transitional-kindergarten-violations>
 
 ---
 
@@ -191,18 +359,6 @@ The office attributed its findings of unspent funds to “a sluggish, inefficien
 <br> 
 
 <https://laist.com/news/housing-homelessness/new-analysis-by-la-city-controller-says-at-least-513m-meant-to-help-the-homeless-went-unspent>
-
----
-
-## Michelle Steel and Derek Tran separated by 58 votes in 45th District House race
-
-date: 2024-11-15, updated: 2024-11-16, from: The LAist
-
-GOP Rep. Michelle Steel's lead over Derek Tran narrowed further Friday in one of the last remaining House races to be called. 
-
-<br> 
-
-<https://laist.com/news/politics/tran-steel-lead-45th-district-house-race>
 
 ---
 
@@ -884,126 +1040,4 @@ Alpha Structural has been fixing foundations and other building-related structur
 <br> 
 
 <https://laist.com/news/los-angeles-activities/for-your-next-social-media-fix-try-these-structural-engineers-in-la>
-
----
-
-## America the Brave – Honoring Our Veterans
-
-date: 2024-11-09, from: City of Santa Clarita
-
-<p>By City Manager Ken Striplin As we approach Veterans Day, take a moment to reflect upon and honor the sacrifices made by the countless men and women who have fought for our country’s freedom. These individuals have shown an unrelenting devotion to our nation and preserve America’s reputation as being the home of the free, [&#8230;]</p>
-<p>The post <a href="https://santaclarita.gov/blog/2024/11/09/america-the-brave-honoring-our-veterans/">America the Brave &#8211; Honoring Our Veterans</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<br> 
-
-<https://santaclarita.gov/blog/2024/11/09/america-the-brave-honoring-our-veterans/>
-
----
-
-## California enacts new climate rules — which could boost gas prices
-
-date: 2024-11-09, updated: 2024-11-09, from: The LAist
-
-Experts don’t know how much gas prices may rise from the new climate rules, which give incentives for low-carbon fuels. The board ordered an annual review. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/california-enacts-new-climate-rules-which-could-boost-gas-prices>
-
----
-
-## Protestors call for city council to officially make LA a sanctuary city
-
-date: 2024-11-09, updated: 2024-11-09, from: The LAist
-
-They want the city council to codify protections for undocumented immigrants 
-
-<br> 
-
-<https://laist.com/news/immigration-march-nov9>
-
----
-
-## Who will control the US House? Uncalled races in Southern California play a big role
-
-date: 2024-11-09, updated: 2024-11-11, from: The LAist
-
-With Republicans winning the White House and Senate, control of the House is still too close to call, according to the Associated Press. Here's a running list of races that are still outstanding. 
-
-<br> 
-
-<https://laist.com/news/politics/who-will-control-the-house-its-down-to-these-uncalled-races>
-
----
-
-## Having trouble sleeping? To get back on track, avoid these 5 mistakes
-
-date: 2024-11-09, updated: 2024-11-09, from: The LAist
-
-When people can't sleep, they tend to take extreme measures to correct the issue. But that only makes sleep problems worse, say experts. Here are 5 bad habits to avoid when recovering from poor sleep. 
-
-<br> 
-
-<https://laist.com/news/health/having-trouble-sleeping-to-get-back-on-track-avoid-these-5-mistakes>
-
----
-
-## Boycott men? South Korea's 4B movement gains traction in the U.S. after Trump's win
-
-date: 2024-11-09, updated: 2024-11-09, from: The LAist
-
-After Trump's win, there are growing calls among American women to boycott men. They're drawing inspiration from 4B, a South Korean feminist movement that rejects dating, sex, marriage and childbirth. 
-
-<br> 
-
-<https://laist.com/news/boycott-men-south-koreas-4b-movement-gains-traction-in-the-u-s-after-trumps-win>
-
----
-
-## Kevin de León concedes District 14 race to Ysabel Jurado
-
-date: 2024-11-09, updated: 2024-11-09, from: The LAist
-
-A win for Jurado adds another progressive to the L.A. City Council. 
-
-<br> 
-
-<https://laist.com/news/politics/2024-election-california-general-los-angeles-city-council-district-14-results-analysis>
-
----
-
-## Judge threatens to hold VA in contempt for failing to follow West LA campus housing order
-
-date: 2024-11-09, updated: 2024-11-09, from: The LAist
-
-If people are found in contempt, consequences can include fines or imprisonment. VA officials say the judge is acting illegally. 
-
-<br> 
-
-<https://laist.com/news/housing-homelessness/judge-carter-contempt-threat-va-west-la-campus>
-
----
-
-## 4 SoCal women share how they’re feeling after Trump's victory over Harris
-
-date: 2024-11-09, updated: 2024-11-09, from: The LAist
-
-We spoke with women across the political spectrum. Here’s how they described the moment they found out about former president Donald Trump’s win. 
-
-<br> 
-
-<https://laist.com/news/politics/4-socal-women-share-how-theyre-feeling-after-trumps-victory-over-harris>
-
----
-
-## McDonnell confirmed as new LAPD chief, says he won't cooperate with ICE
-
-date: 2024-11-09, updated: 2024-11-09, from: The LAist
-
-The news that Jim McDonnell had been picked to lead the Los Angeles Police Department was announced early last month. 
-
-<br> 
-
-<https://laist.com/news/criminal-justice/city-council-confirms-mcdonnell-lapd-chief-amid-protests>
 

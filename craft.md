@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2024-11-16 10:05:06
+updated: 2024-11-17 16:11:27
 ---
 
 # craft
 
-(date: 2024-11-16 10:05:06)
+(date: 2024-11-17 16:11:27)
+
+---
+
+## LAP Open Wire, Nov. 16, 2024
+
+date: 2024-11-16, from: Lost Arg Press blog
+
+Update: Comments are now closed. Join us again on Dec. 14. If you have a woodworking question, post it in the comments below. Chris and I are holding Open Wire today between now and 5 p.m. Eastern and will do out best to answer everyone (in between finishing a chair and a tool chest –... 
+
+<br> 
+
+<https://blog.lostartpress.com/2024/11/16/lap-open-wire-nov-16-2024/>
 
 ---
 

@@ -1,11 +1,167 @@
 ---
 title: science and technology
-updated: 2024-11-16 10:05:03
+updated: 2024-11-17 16:11:24
 ---
 
 # science and technology
 
-(date: 2024-11-16 10:05:03)
+(date: 2024-11-17 16:11:24)
+
+---
+
+## US, China, agree machines must not be allowed to control nuclear weapons
+
+date: 2024-11-17, updated: 2024-11-17, from: The Register (UK I.T. News)
+
+<h4>PLUS: LG struts catwalk in stretchy screen; Samsung’s strike nears end; Vietnam warns Chinese e-commerce players; and more</h4> <p><strong>ASIA IN BRIEF</strong>  President Xi Jinping of China and President Joe Biden of the USA have pledged to continue working together to ensure AI does not harm humanity.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/17/asia_tech_news_roundup/>
+
+---
+
+## Will passkeys ever replace passwords? Can they?
+
+date: 2024-11-17, updated: 2024-11-17, from: The Register (UK I.T. News)
+
+<h4>Here&#39;s why they really should</h4> <p><strong>Systems Approach</strong>  I have been playing around with passkeys, or as they are formally known, discoverable credentials.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/17/passkeys_passwords/>
+
+---
+
+## How the Groundbreaking Suez Canal Forever Transformed the World's Shipping Routes
+
+date: 2024-11-17, from: Smithsonian Magazine
+
+The massive global shortcut linking the Mediterranean and Red Seas took ten years to dig through the Isthmus of Suez and was built on the path of an ancient canal 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/how-the-groundbreaking-suez-canal-forever-transformed-the-worlds-shipping-routes-180985273/>
+
+---
+
+## AI poetry out-humans humans as readers prefer bots to bards
+
+date: 2024-11-17, updated: 2024-11-17, from: The Register (UK I.T. News)
+
+<h4>Uncultured swine prone to believe complexity of verse is machine-generated babble</h4> <p>A study in the US has found that readers can&#39;t tell the difference between poems written by famous poets and those written by AI aping their style. To make matters worse – for anyone fostering a love of literature at least – research subjects tend to like AI poetry more than they do verse from human poets.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/17/ai_poetry_study/>
+
+---
+
+## Free Towns OS: an open source recreation of FM Towns OS
+
+date: 2024-11-17, from: OS News
+
+A few weeks ago I linked to a story by Misty De Meo, in which they explored what happened to the various eccentric Japanese PC platforms. One of the platforms mentioned was FM Towns, made by Fujitsu, which came with its own graphical operating system from the era of Windows 3.x. I had never heard of this one before, but it looks incredibly interesting, with some unique UI ideas I&#8217;d love to explore, if only I could read Japanese. Since learning Japanese is a serious life-long commitment, I can safely say that&#8217;s not going to happen. It seems I&#8217;m not the only one interested in FM Towns, as a new project called Free Towns OS (or Tsugaru OS in Japanese) aims to provide an open source replacement for the Free Towns operating system. The goal of this project is to write a copyright-free FM Towns OS to run free games and the re-released games, or why not a brand-new game for FM Towns. without concerns of violating copyrights of the files included in the original Towns OS. Let&#8217;s see how far we can go! But, so far so good. Now Tsugaru OS is capable of running the three probably the most popular free games, Panic Ball 2, VSGP, and Sky Duel. All playable without single file from the original Towns OS. ↫ Free Towns OS GitHub page That&#8217;s a pretty good milestone already. The project aims to eventually also be able to run on real hardware instead of just emulators, but further than that, it&#8217;s difficult for me to extract more information from the descriptions since not every paragraph has been translated to English just yet. Finding English information on FM Towns OS in general is hard, so I&#8217;m also not entirely sure just how much the project has already been able to recreate. I definitely hope this effort attracts more interest, hopefully also from outside of Japan so we can get a translated version people outside of Japan can use. 
+
+<br> 
+
+<https://www.osnews.com/story/141145/free-towns-os-an-open-source-recreation-of-fm-towns-os/>
+
+---
+
+## Microsoft finally publishes ISO for Windows on ARM
+
+date: 2024-11-17, from: OS News
+
+This option is for users that want to create a Windows 11 on Arm virtual machine on supported hardware using an ISO file or to install Windows 11 on Arm directly without a DVD or USB flash drive.  The ISO file can also be used to manually create bootable installation media (USB flash drive) to install Windows 11 on Arm, but it may be necessary to include drivers from the device manufacturer for the installation media to be successfully bootable. This download is a multi-edition ISO which uses your product key to unlock the correct edition. ↫ Windows on ARM ISO download Oddly enough, up until now, Microsoft hadn&#8217;t published a Windows 11 on ARM ISO yet. With this new ISO, ARM users can do a fresh install, and create Windows on ARM virtual machines. Not the biggest news in the world, but it&#8217;s a little bit surprising it&#8217;s taken them this long to publish this ISO file. 
+
+<br> 
+
+<https://www.osnews.com/story/141142/microsoft-finally-publishes-iso-for-windows-on-arm/>
+
+---
+
+## NASA and Microsoft intro Earth Copilot to tame satellite data overload
+
+date: 2024-11-16, updated: 2024-11-16, from: The Register (UK I.T. News)
+
+<h4>Proof of concept allows geospatial datasets to be conversationally queried</h4> <p>Speculation over where Microsoft would take the Copilot brand next can now end thanks to the announcement of Earth Copilot in partnership with NASA.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/16/microsoft_nasa_earth_copilot/>
+
+---
+
+## Rust haters, unite! Fil-C aims to Make C Great Again
+
+date: 2024-11-16, updated: 2024-11-16, from: The Register (UK I.T. News)
+
+<h4>It&#39;s memory-safe, with a few caveats</h4> <p>Developers looking to continue working in the C and C++ programming languages amid the global push to promote memory-safe programming now have another option that doesn&#39;t involve learning Rust.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/16/rusthaters_unite_filc/>
+
+---
+
+## Discover the Origins of a Psychedelic Drug Synthesized by a Swiss Chemist Who Claimed It 'Found and Called Me'
+
+date: 2024-11-16, from: Smithsonian Magazine
+
+Five years after he created LSD in a lab on this day in 1938, Albert Hofmann accidentally underwent the first acid trip in human history, experiencing a kaleidoscope of colors and images in a sleepy Swiss city 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/discover-the-origins-of-a-psychedelic-drug-synthesized-by-a-swiss-chemist-who-claimed-it-found-and-called-me-180985208/>
+
+---
+
+## Swiss cheesed off as postal service used to spread malware
+
+date: 2024-11-16, updated: 2024-11-16, from: The Register (UK I.T. News)
+
+<h4>QR codes arrive via an age-old delivery system</h4> <p>Switzerland&#39;s National Cyber Security Centre (NCSC) has issued an alert about malware being spread via the country&#39;s postal service.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/16/swiss_malware_qr/>
+
+---
+
+## Bloke behind Helix Bitcoin launderette jailed for three years, hands over $400M
+
+date: 2024-11-16, updated: 2024-11-16, from: The Register (UK I.T. News)
+
+<h4>Digital money laundering pays, until it doesn&#39;t</h4> <p>An Ohio man, who operated the Grams dark-web search engine and the Helix cryptocurrency money-laundering service associated with it, has been sentenced to three years in prison.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/16/helix_bitcoin_mixer/>
+
+---
+
+## Massive Half-Life 2 20th Anniversary Update is here
+
+date: 2024-11-16, from: OS News
+
+Valve has been holding on to a special surprise for Half-Life 2 fans to celebrate the game crossing its 20th birthday. Today, the company shipped the 20th Anniversary Update for the iconic Gordon Freeman adventure from 2004, combining the base experience and all episodes into one, bringing developer commentary, Steam Workshop support, and much more. Adding to all that, the game is completely free to claim on Steam right now too. ↫ Pulasthi Ariyasinghe at NeoWin Valve even made a nice web page with fun animated characters for it (they&#8217;re just video loops). Definitely a nice surprise for those of us who&#8217;ve already played the game a million times, and for those of us who haven&#8217;t yet for some reason and can now claim the game for free. This update also fixes some more bugs, adds a ton of new graphics settings, allows you to choose between different styles for certain visual effects, aim assist for controller users has been massively updated, and so much more. For a 20 year old game, such a free update is not something that happens very often, so good on Valve for doing this. I can barely believe it&#8217;s been 20 years, and that we still have no conclusion or even continuation to the story that so abruptly ended with Episode Two. I honestly doubt we&#8217;ll ever going to see a Half-Life 3 or even an Episode Three, simply because at this point the expectations would be so bonkers high there&#8217;s no way Valve could meet them. On top of that, why waste time, money, and possibly reputation and goodwill on Half-Life 3, when you can just sit on the couch and watch the Steam gravy train roll into the station? Because that&#8217;s a hell of a lot of gravy. 
+
+<br> 
+
+<https://www.osnews.com/story/141140/massive-half-life-2-20th-anniversary-update-is-here/>
+
+---
+
+## Letting chatbots run robots ends as badly as you'd expect
+
+date: 2024-11-16, updated: 2024-11-16, from: The Register (UK I.T. News)
+
+<h4>LLM-controlled droids easily jailbroken to perform mayhem, researchers warn</h4> <p>Science fiction author Isaac Asimov proposed three laws of robotics, and you&#39;d never know it from the behavior of today&#39;s robots or those making them.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/16/chatbots_run_robots/>
 
 ---
 
@@ -2368,28 +2524,4 @@ date: 2024-11-10, updated: 2024-11-10, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2024/11/10/llm_finetuning_guide/>
-
----
-
-## Unbreakable Voyager space probes close in on a 50 year mission
-
-date: 2024-11-09, updated: 2024-11-09, from: The Register (UK I.T. News)
-
-<h4>Dwindling power and problematic communications, but the spacecraft just keeps on going</h4> <p>&#34;We&#39;re definitely going to make the 50th anniversary,&#34; says Professor Garry Hunt, one of the scientists responsible for NASA&#39;s Voyager mission, as Voyager 1 recovers from an unexpected pause in communications.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2024/11/09/voyager_closes_in_on_a/>
-
----
-
-## Intel: Our finances are in the toilet, we're laying off 15K, but the free coffee is back!
-
-date: 2024-11-09, updated: 2024-11-09, from: The Register (UK I.T. News)
-
-<h4>Now that&#39;s a brew-haha</h4> <p>Struggling chip giant Intel has rescinded a cost-cutting plan to abolish free coffee and tea for its staff.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2024/11/09/intel_free_coffee/>
 

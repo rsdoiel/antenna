@@ -1,11 +1,203 @@
 ---
 title: going electric
-updated: 2024-11-16 10:05:05
+updated: 2024-11-17 16:11:27
 ---
 
 # going electric
 
-(date: 2024-11-16 10:05:05)
+(date: 2024-11-17 16:11:27)
+
+---
+
+## The Mercedes CLA EV Will Have Both Tesla NACS And CCS Plugs
+
+date: 2024-11-17, from: Inside EVs News
+
+Both charging ports will be on the same side of the car under the same charging flap. 
+
+<br> 
+
+<https://insideevs.com/news/741249/nacs-ccs-mercedes-cla-ev/>
+
+---
+
+## The New Mercedes-Benz CLA Aims For Lucid-Beating Efficiency
+
+date: 2024-11-17, from: Inside EVs News
+
+Mercedes claims the CLA can achieve 5.2 miles per kWh, beating the Lucid Air to become the most efficient EV on sale. 
+
+<br> 
+
+<https://insideevs.com/news/741191/cla-preview-ev-efficent-sale/>
+
+---
+
+## Reyes Beverage Group adds 29 Freightliner electric semi trucks to California fleet
+
+date: 2024-11-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/reyes_MAIN.jpeg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Daimler Truck North America has helped alcohol distributor Reyes Beverage Group deploy fully 29 zero-emission Freightliner eCascadia Class 8 electric semi trucks in its California delivery fleet.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="daimler-trucks,electric-semi-truck,freightliner" data-layer-viewtype="unknown" data-post-id="389530" href="https://electrek.co/2024/11/17/reyes-beverage-group-adds-29-freightliner-electric-semi-trucks-to-california-fleet/#more-389530" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/17/reyes-beverage-group-adds-29-freightliner-electric-semi-trucks-to-california-fleet/>
+
+---
+
+## Enwin Utilities adds $1 million Terex electric bucket truck to fleet [video]
+
+date: 2024-11-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/enwin_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Windsor, Ontario utility says it’s driving towards a more sustainable future after adding a dozen new electric vehicles to its fleet – including a state-of-the-art, 55-foot Terex electric bucket truck.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-utility,international" data-layer-viewtype="unknown" data-post-id="389497" href="https://electrek.co/2024/11/17/enwin-utilities-adds-1-million-terex-electric-bucket-truck-to-fleet-video/#more-389497" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/17/enwin-utilities-adds-1-million-terex-electric-bucket-truck-to-fleet-video/>
+
+---
+
+## Ford F-150 Lightning, Mustang Mach-E End-Of-Year Deals Are Outrageous
+
+date: 2024-11-17, from: Inside EVs News
+
+How about 0% financing or $10,500 lease discounts, plus a free home charger and installation? 
+
+<br> 
+
+<https://insideevs.com/news/741241/ford-eoy-deals-mustang-lightning/>
+
+---
+
+## Damen sets a world record for most powerful electric tugboat
+
+date: 2024-11-17, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/safeen_1_MAIN.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Built by Damen Shipyards and the first fully electric tugboat to be deployed in the Middle East, the new RSD-E Tug 2513 Bu Tinah put in its record-breaking performance took place at Khalifa Port during ADIPEC, the world’s largest energy conference.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-boats,marine-electrification" data-layer-viewtype="unknown" data-post-id="389483" href="https://electrek.co/2024/11/17/damen-sets-a-world-record-for-most-powerful-electric-tugboat/#more-389483" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/17/damen-sets-a-world-record-for-most-powerful-electric-tugboat/>
+
+---
+
+## New Kubota KATR farm robot concept wins CES innovation award
+
+date: 2024-11-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/kubota_katr_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Kubota says its new KATR farm tractor concept raises the bar in autonomous, zero-emission farming – and it looks like they’ve convinced others, too. The robot just won “Best of Innovation” at the CES Innovation Awards.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="autonomous,farming,robots" data-layer-viewtype="unknown" data-post-id="389463" href="https://electrek.co/2024/11/16/new-kubota-katr-farm-robot-concept-wins-ces-innovation-award/#more-389463" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/16/new-kubota-katr-farm-robot-concept-wins-ces-innovation-award/>
+
+---
+
+## Owlet’s prototype sits between a moped and a bike and is a hoot to ride
+
+date: 2024-11-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/P1044400-e1730234807221.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>We got to ride a pre-production model of a striking new e-bike/e-moped, the Owlet One, with lots of power in a small package.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,owlet-bikes" data-layer-viewtype="unknown" data-post-id="383649" href="https://electrek.co/2024/11/16/owlets-prototype-sits-between-a-moped-and-a-bike-and-is-a-hoot-to-ride/#more-383649" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/16/owlets-prototype-sits-between-a-moped-and-a-bike-and-is-a-hoot-to-ride/>
+
+---
+
+## New CMC 65L tracked aerial lift is perfect for indoor adventures
+
+date: 2024-11-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/cmc_65l_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>CMC North America’s new, electric 65L tracked aerial lift is perfect for working indoors, lifting two workers and 500 lbs. of material to heights of over 65 feet – previously unheard of reach for a unit this size.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="crane,electric-construction-equipment" data-layer-viewtype="unknown" data-post-id="389446" href="https://electrek.co/2024/11/16/new-cmc-65l-tracked-aerial-lift-is-perfect-for-indoor-adventures/#more-389446" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/16/new-cmc-65l-tracked-aerial-lift-is-perfect-for-indoor-adventures/>
+
+---
+
+## Fisker Ocean One-Year Owner Review: It Still Works Great After 11,000 Miles
+
+date: 2024-11-16, from: Inside EVs News
+
+With barely used Ocean EVs selling for under $30,000, would you be tempted to get a car from a bankrupt automaker? 
+
+<br> 
+
+<https://insideevs.com/news/741155/fisker-ocean-owner-review-one-year/>
+
+---
+
+## China’s 3GW Gobi Desert solar farm can power 2 million households
+
+date: 2024-11-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/CHN-Energy-Gobi-solar-farm.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>China just connected its largest single-capacity solar farm built on a former coal mining area, which is in the Gobi Desert, to the grid.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,egeb,energy-brief,solar,solar-power" data-layer-viewtype="unknown" data-post-id="389362" href="https://electrek.co/2024/11/16/china-3gw-gobi-desert-solar-farm-can-power-2m-households/#more-389362" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/16/china-3gw-gobi-desert-solar-farm-can-power-2m-households/>
+
+---
+
+## These EVs And Hybrids Could Lose Their Tax Credit Under Trump
+
+date: 2024-11-16, from: Inside EVs News
+
+The $7,500 EV tax credit's days may be numbered. So you should act fast to get the best deal on an EV.  
+
+<br> 
+
+<https://insideevs.com/news/741188/ev-tax-credit-buy-now/>
+
+---
+
+## What makes a Honda a Honda? Prologue engineers help us find out!
+
+date: 2024-11-16, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Screenshot-2024-11-15-at-7.40.32 PM.png?w=1600" /></div><p><a href="https://www.youtube.com/@ElectrekDaily"></a></p>
+
+
+
+<p>On today’s informative episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, we’ve got Honda engineers John Hwang and Emilio Sanchez to talk us through some of the things that make the GM Ultium-based Honda Prologue EV feel like a real Honda, and why that matters.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="acura-zdx,honda-prologue,quick-charge" data-layer-viewtype="unknown" data-post-id="389422" href="https://electrek.co/2024/11/15/what-makes-a-honda-a-honda-prologue-engineers-help-us-find-out/#more-389422" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/15/what-makes-a-honda-a-honda-prologue-engineers-help-us-find-out/>
 
 ---
 
@@ -1852,76 +2044,4 @@ date: 2024-11-10, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2024/11/10/mack-electric-lr-is-wisconsins-first-electric-garbage-truck/>
-
----
-
-## Tesla Is Now A $1 Trillion Company
-
-date: 2024-11-09, from: Inside EVs News
-
-The stock rallied after Trump’s win. Now Tesla faces the harder task of delivering on Elon Musk’s robotaxi dreams. 
-
-<br> 
-
-<https://insideevs.com/news/740427/tesla-valuation-soars-1-trillion-trump-victory/>
-
----
-
-## Tesla Model Y Havnby air mattress adds stars to Camp Mode
-
-date: 2024-11-09, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/image_c93f3f.png?w=953" /></div><p>With Camp Mode, Tesla started a new era for car campers. Quiet climate control, a multimedia entertainment display, a glass roof, and a large rear flat compartment area that easily fits most 6′ adults <a href="https://havnby.com/?ref=SETH">with a mattress</a> mean that hotels on long solo drives are now optional. It can also be a nice camping option for those who don’t want to sleep on the ground, a convenient nap spot, or a nice place to relax and (Netflix and?) chill with that special someone.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="387431" href="https://electrek.co/2024/11/09/tesla-model-y-havnby-air-mattress-adds-stars-to-camp-mode/#more-387431" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2024/11/09/tesla-model-y-havnby-air-mattress-adds-stars-to-camp-mode/>
-
----
-
-## See The Tesla Model S Plaid Take On The Lucid Air Sapphire
-
-date: 2024-11-09, from: Inside EVs News
-
-The Model S Plaid is fitted with the $20,000 Track Package that comes with ceramic brakes and other goodies. Can it keep up? 
-
-<br> 
-
-<https://insideevs.com/news/740226/tesla-model-s-plaid-track-pack-lucid-air-sapphire/>
-
----
-
-## 765 hp AUDI E ditches the four rings, keeps the sexy wagon aesthetic
-
-date: 2024-11-09, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/A244565_medium.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Audi is embracing its future in China with the launch of a new Chinese market electric sub-brand called AUDI that ditches the iconic “four rings” logo in favor of four capital letters – but one thing it hasn’t ditched is <s>AUDI</s> Audi’s sexy teutonic long-roof design language.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="audi,china,saic-motor" data-layer-viewtype="unknown" data-post-id="388456" href="https://electrek.co/2024/11/09/765-hp-audi-e-ditches-the-four-rings-keeps-the-sexy-wagon-aesthetic/#more-388456" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2024/11/09/765-hp-audi-e-ditches-the-four-rings-keeps-the-sexy-wagon-aesthetic/>
-
----
-
-## Captain Morgan gets a hydrogen Nikola in latest DHL deal
-
-date: 2024-11-09, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/dhl-supply-chain-and-diageo-north-america-image-2.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Global logistics giant DHL is serving Diageo North America – the makers of Captain Morgan rum – with a new deployment of hydrogen powered Nikola semi trucks <em>and</em> a standalone hydrogen fueling station.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="dhl,hydrogen,nikola-motors" data-layer-viewtype="unknown" data-post-id="388447" href="https://electrek.co/2024/11/09/captain-morgan-gets-a-hydrogen-nikola-in-latest-dhl-deal/#more-388447" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2024/11/09/captain-morgan-gets-a-hydrogen-nikola-in-latest-dhl-deal/>
 

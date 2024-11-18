@@ -1,11 +1,221 @@
 ---
 title: columns
-updated: 2024-11-16 10:05:03
+updated: 2024-11-17 16:11:25
 ---
 
 # columns
 
-(date: 2024-11-16 10:05:03)
+(date: 2024-11-17 16:11:25)
+
+---
+
+## 2024-11-17 Everything is slow and I don't know why
+
+date: 2024-11-17, from: Alex Schroeder's Blog
+
+<h1 id="2024-11-17-everything-is-slow-and-i-don-t-know-why">2024-11-17 Everything is slow and I don&rsquo;t know why</h1>
+
+<p>When I try to log into the server using SSH it takes a long time. Why is that?
+<code>iotop</code> doesn&rsquo;t show anything suspicious. And yet, since Saturday 18:00, <code>munin</code>
+shows that something is up.</p>
+
+<p><img loading="lazy" src="2024-11-17-slow-1.jpg" alt="System CPU goes up. Everything goes up!" />
+<img loading="lazy" src="2024-11-17-slow-2.jpg" alt="Disk IO goes up." />
+<img loading="lazy" src="2024-11-17-slow-3.jpg" alt="Throughput per device starts to be weird." />
+<img loading="lazy" src="2024-11-17-slow-4.jpg" alt="Utilisation per device goes up to 50%." /></p>
+
+<p>I rebooted the server. &ldquo;Have you tried turning it off and on again?&rdquo; 🤷</p>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a></p>
+
+<p>And that seems to have worked.
+I wonder what I did back then.</p>
+
+<p><img loading="lazy" src="2024-11-17-slow-5.jpg" alt="Saturday 18:00 shows users connecting (me). Doing something. Who knows what." /></p>
+
+<p>I was clearly doing something!</p>
+
+<p>Here&rsquo;s what I noticed: I uploaded a new version of the Norn bot, which had an error. I replaced it.
+Was systemd spawning it again and again, spamming the journal? Is that what caused the problem?</p>
+
+<p>This is very strange.</p>
+
+<p>But… rebooting helped!</p>
+
+<p><strong>2024-11-18</strong>. Or did it? The initial connect to the web server still seems to take a second or five. Once the initial handshake is done, the site serves quickly. So what could it be? The problem seen above really is gone.</p>
+
+<p><img loading="lazy" src="2024-11-17-slow-6.jpg" alt="CPU is back to normal, lots of idle time." />
+<img loading="lazy" src="2024-11-17-slow-7.jpg" alt="Disk utilization is back to normal, nearly 0." /></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2024-11-17-slow>
+
+---
+
+## [Sponsor] Upgraded
+
+date: 2024-11-17, updated: 2024-11-17, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://getupgraded.com/home-vp1/?utm_source=daringfireball>
+
+---
+
+## Netflix Claims 60 Million Households Streamed Mike Tyson vs. Jake Paul Fight Friday Night, Straining Quality to Breaking Point for Many
+
+date: 2024-11-17, updated: 2024-11-17, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://deadline.com/2024/11/tyson-paul-fight-glitches-netflix-1236178632/>
+
+---
+
+## Trump’s “First Buddy” is in deep shit 
+
+date: 2024-11-17, from: Robert Reich's blog
+
+If you&#8217;re advising a president-elect, you don&#8217;t publicly push him to do what you want. That&#8217;s true of any president-elect. It&#8217;s even truer of Trump. 
+
+<br> 
+
+<https://robertreich.substack.com/p/trumps-first-buddy-is-in-deep-shit>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-17, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2019/12/24/santa.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://en.wikipedia.org/wiki/Joe_Trippi">Joe Trippi</a> posted a <a href="https://x.com/JoeTrippi/status/1858125833967206782">video</a> to his new <a href="https://sez.us/">sez.us</a> service where <a href="https://x.com/JoeTrippi/status/1858125833967206782">Pete Buttigieg explains</a> what the Russians have done to the US. I see it that way too. When <a href="https://www.wnyc.org/story/bob-woodward-on-ukraine-the-middle-east--the-election/">Brian Lehrer asked</a> a few weeks ago how the US got so divided of his guest Bob Woodward (a fascinating time capsule, recorded before the election) they both missed it. We were divided by an enemy that is on the cusp of destroying the US without launching a single nuke. Putin didn't have to invade Ukraine. I guess even he didn't think his plan would succeed so spectacularly. BTW, I don't think Trippi's network is the answer, but maybe it is. I wish I had had a chance to create the system he was using, we would make a good team. Anyway we need to be further along than his offering is. The right system would allow me to control my presence with only <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a>, in and out. Maybe not for everyone, to start, but it would allow us to start building. It's why I have been lobbying for inbound and outbound RSS as a back-end for all these networks. With the rise of Bluesky in the last couple of weeks (things are happening that fast now) we may have a new shot at it because Masto and Threads are certainly feeling it, and when people feel competed-with they are more open to new thinking. 
+
+<br> 
+
+<http://scripting.com/2024/11/17.html#a152212>
+
+---
+
+## When Truth is Funnier Than Fiction
+
+date: 2024-11-17, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<br> 
+
+<https://steady.substack.com/p/when-truth-is-funnier-than-fiction>
+
+---
+
+## Sunday caption contest: The Takeover
+
+date: 2024-11-17, from: Robert Reich's blog
+
+And last week's winner 
+
+<br> 
+
+<https://robertreich.substack.com/p/sunday-caption-contest-the-takeover>
+
+---
+
+## November 16, 2024 
+
+date: 2024-11-17, from: Heather Cox Richardson blog
+
+One of President-elect Trump&#8217;s campaign pledges was to eliminate the Department of Education. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/november-16-2024>
+
+---
+
+## After the Election: Swimming in the Sea of Disinformation.
+
+date: 2024-11-16, from: James Fallows, Substack
+
+&#8220;It really is nothing new, but you are watching it happen in your own time and not in a book.&#8221; Writers and thinkers on where the denial of reality can lead. 
+
+<br> 
+
+<https://fallows.substack.com/p/after-the-election-swimming-in-the>
+
+---
+
+## November 15, 2024
+
+date: 2024-11-16, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/151754934/dab853461067746cc8f986bc57229ede.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/151754934/dab853461067746cc8f986bc57229ede.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/november-15-2024-8d9>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-16, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2022/04/15/theEggman.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://anderegg.ca/2024/11/15/maybe-bluesky-has-won">Excellent piece</a> on how Bluesky leaves users with the impression that it's open and decentralized in ways it is not. If it's bought by someone who wants to use it the way Musk has, they can, without any recourse by the users. As they said in the old days, if you're getting something for free, you're the product, not the customer. We helped Musk build a way to excercise political power against our interests. You may think Bluesky is a way of fixing that, but it probably isn't. They're digging a deep hole, probably too deep to climb out of at this point. They did some innovative stuff, perhaps. But they ended up at the same place, it appears, as Twitter did. 
+
+<br> 
+
+<http://scripting.com/2024/11/16.html#a200617>
+
+---
+
+## The Redstream Media
+
+date: 2024-11-16, from: Doc Searls (at Harvard), New Old Blog
+
+To identify the microphones in that river, here&#8217;s Apple: That river began with the copious red pissings of Rush Limbaugh. Now eight Rushians comprise most of the News Commentary flow on Apple Podcasts, and much of the whole podcast watershed as well. (None are so skilled as Rush, but that&#8217;s another story.) It&#8217;s not much different [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2024/11/16/the-redstream-media/>
+
+---
+
+## What’s your excuse for not using the web share API?
+
+date: 2024-11-16, from: Chris Heilmann's blog
+
+The WebShare API is so easy to use, it is a crime people don&#8217;t use it more. Instead, we have tons of dead &#8220;share on $thing&#8221; buttons on the web. Many of which spy on your users and lots of them that started as WordPress plugins but now are security concerns. Instead of guessing how [&#8230;] 
+
+<br> 
+
+<https://christianheilmann.com/2024/11/16/whats-your-excuse-for-not-using-the-web-share-api/>
+
+---
+
+## How to stop Trump | The Coffee Klatch, November 16, 2024
+
+date: 2024-11-16, from: Robert Reich's blog
+
+With Heather Lofthouse and Yours Truly 
+
+<br> 
+
+<https://robertreich.substack.com/p/how-to-stop-trump-the-coffee-klatch>
+
+---
+
+## November 15, 2024 
+
+date: 2024-11-16, from: Heather Cox Richardson blog
+
+Three years ago today, President Joe Biden signed into law the Infrastructure Investment and Jobs Act, more popularly known as the Bipartisan Infrastructure Act. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/november-15-2024>
 
 ---
 
@@ -1944,215 +2154,4 @@ date: 2024-11-10, from: Heather Cox Richardson blog
 <br> 
 
 <https://heathercoxrichardson.substack.com/p/november-9-2024>
-
----
-
-## 2024-11-06 What a nightmare
-
-date: 2024-11-09, from: Alex Schroeder's Blog
-
-<h1 id="2024-11-06-what-a-nightmare">2024-11-06 What a nightmare</h1>
-
-<p>I really hoped that I wouldn&rsquo;t have to extend the link list on Trump I started <a href="2016-11-14_Trump">back in 2016</a> because I didn&rsquo;t understand how he could win.</p>
-
-<p>Then again, I also didn&rsquo;t understand why Bush got re-elected.
-I just read a 20 year old blog post of mine: <a href="2004-11-09_USA">2004-11-09 USA</a> where I was grappling with it.</p>
-
-<p>Trump is truly a setback for my <a href="priorities">priorities</a>.</p>
-
-<p>Fuck this timeline.</p>
-
-<p><a class="account" href="https://mstdn.social/@mattwilcox" title="@mattwilcox@mstdn.social">@mattwilcox</a> said it best:</p>
-
-<blockquote>
-<p>Fascism is the inevitable result of a society with large imbalances of personal security. Which in a capitalist society means large imbalances of wealth.</p>
-
-<p>If your society allows some people to be mega secure and untouchable, while also allowing large portions of it to feel very insecure&hellip; you will become a fascist society, eventually.</p>
-
-<p>Do not allow this. Do not allow excessive wealth stratification. It. will. Destroy. Your. Civilisation.</p>
-</blockquote>
-
-<p>The best defence against many divisive issues is to solve them.
-To leave festering wounds invites further prodding by the troll armies.
-Start small but start early, because soon the prodders are in power, prodding ever harder until it all falls apart.</p>
-
-<p>Remember that these days, all dictators are voted in.
-The elections may be a farce, but it&rsquo;s always a legal farce.
-The people in power may be the most corrupt criminals but ever and always they are the ones fighting corruption.
-It&rsquo;s just that the corruption of their enemies is always uncovered and punished whereas their own is hidden in plain sight, know to all.</p>
-
-<p>Look around at the countries around you.
-Erdoğan is still in power.
-Putin is still in power.
-Dictatorships may end eventually, but they take a fucking long time to fall.
-If it takes forty years, I won&rsquo;t be around to see it.
-It&rsquo;s hard to wait them out.</p>
-
-<p>If you meet somebody thinking about a civil war with armed militia doing this or that, I&rsquo;d say forget about all of that.
-In the real world, revolts that are not decisive inevitably lead to warlordism.
-Organised armed forces will shoot all the wanna-be resistance to bits.
-The police will beat the unarmed resistances into submission.</p>
-
-<p>I take solace in the fact that when Stalin was dying and calling for help in his office, the attendants just didn&rsquo;t listen.
-They didn&rsquo;t open the door and the fucker died alone.</p>
-
-<p><a class="tag" href="/search/?q=%23USA">#USA</a> <a class="tag" href="/search/?q=%23Politics">#Politics</a> <a class="tag" href="/search/?q=%23Trump">#Trump</a></p>
-
-<p><strong>2024-11-10</strong>. I need a place to link to <a class="account" href="https://hachyderm.io/@mekkaokereke" title="@mekkaokereke@hachyderm.io">@mekkaokereke</a> – it’s where I learn about black America. If you don’t know, start with his <a href="https://hachyderm.io/@mekkaokereke/111856915139042511">Black History Month megathread</a></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2024-11-06-nightmare>
-
----
-
-## Bombs, books and generative AI: a blunt and obvious parable
-
-date: 2024-11-09, from: Shady Characters blog
-
-<p class="post-meta">
-I know, I know; these days, everyone and their five-legged, three-eyed dog is writing a piece about <abbr class="initialism">AI</abbr>. I can’t promise that this one will be more insightful or educational than any of the others, but I <em>can</em> promise that it will invoke humanity’s undimmable hubris, the atomic bomb, mad cow disease, and, to keep us on brand, books.</p><a class="more-link" href="https://shadycharacters.co.uk/2024/11/bombs-books-and-ai/">Read more →</a> 
-
-<br> 
-
-<https://shadycharacters.co.uk/2024/11/bombs-books-and-ai/>
-
----
-
-## Future of AR is in Your Ears
-
-date: 2024-11-09, from: Om Malik blog
-
-Dennis Crowley&#160;has built his career at the intersection of emerging technologies and human behavior. Twenty years ago, as a 25-year-old inspired by Harry Potter&#8217;s Marauder&#8217;s Map, he created Dodgeball—turning text messaging into a way for friends to find each other in the city. When the iPhone emerged, he launched Foursquare, riding the convergence of GPS, &#8230; 
-
-<br> 
-
-<https://om.co/2024/11/09/future-of-ar-is-in-your-ears/>
-
----
-
-## ChatGPT image of my life
-
-date: 2024-11-09, from: Dave Winer's Scripting News
-
-<p>I asked ChatGPT: "Based on what you know about me, draw a picture of what you think my current life looks like."</p>
-<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/11/09/myLifeAsViewedByChatGPT.png"></center>Dave's life as imagined by ChatGPT.</div></p>
- 
-
-<br> 
-
-<http://scripting.com/2024/11/09/174937.html?title=chatgptImageOfMyLife>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-11-09, from: Dave Winer's Scripting News)
-
-I'd like to hear from tech vendors, asap, which ones will help American voters learn what's true independent of whatever "truth" the government wants us to believe? Who will stand with the people? A good question for all of us to ask. Ask news orgs the same question. 
-
-<br> 
-
-<http://scripting.com/2024/11/09.html#a174419>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-11-09, from: Dave Winer's Scripting News)
-
-I see they have a piece about the "Manosphere." <b>Stop blaming men</b>. Lose that habit now. It's toxic. 
-
-<br> 
-
-<http://scripting.com/2024/11/09.html#a150308>
-
----
-
-**@Dave Winer's Scripting News** (date: 2024-11-09, from: Dave Winer's Scripting News)
-
-<img class="imgRightMargin" src="https://imgs.scripting.com/2020/05/21/thinkUsa.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">It's worth listening to <a href="https://www.wnycstudios.org/podcasts/otm/articles/the-manosphere-celebrates-a-win-plus-m-gessen-on-how-to-survive-an-autocracy">On The Media</a>, interview with <a href="https://en.wikipedia.org/wiki/Masha_Gessen">Masha Gassen</a>, saying that the authoritarian government will want to define what's true and not. Since we now understand that most of the information flow now goes around the NYT, CNN etc -- even Fox, and largely through social web and podcasts, if that's where we're all getting our news from, and btw MSNBC are already pretty well limited in what they'll tell us (this was our beef with NYT if you recall) -- the next step is to make it impossible for us to hear what each other are saying. Now is the time to plant seeds for a defense of our speech and communication later. 
-
-<br> 
-
-<http://scripting.com/2024/11/09.html#a145637>
-
----
-
-## New microblog with TILs
-
-date: 2024-11-09, updated: 2024-11-09, from: Julia Evans blog
-
- 
-
-<br> 
-
-<https://jvns.ca/blog/2024/11/09/new-microblog/>
-
----
-
-## What do we do now? | The Coffee Klatch, November 9, 2024 
-
-date: 2024-11-09, from: Robert Reich's blog
-
-With Heather Lofthouse, Michael Lahanas-Calder&#243;n, and Yours Truly, Robert Reich 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/151394978/64ca204c9dcf2345a4366075d30fcf0e.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/151394978/64ca204c9dcf2345a4366075d30fcf0e.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://robertreich.substack.com/p/what-do-we-do-now-the-coffee-klatch>
-
----
-
-## November 8, 2024
-
-date: 2024-11-09, from: Heather Cox Richardson blog
-
-Social media has been flooded today with stories of Trump voters who are shocked to learn that tariffs will raise consumer prices as reporters are covering that information. 
-
-<br> 
-
-<https://heathercoxrichardson.substack.com/p/november-8-2024>
-
----
-
-## ★ How It Went
-
-date: 2024-11-09, updated: 2024-11-11, from: Daring Fireball
-
-Election day, 2024. 
-
-<br> 
-
-<https://daringfireball.net/2024/11/how_it_went>
-
----
-
-## Why Raspberry Pi for an SBC guy
-
-date: 2024-11-09, from: Jeff Geerling blog
-
-<span class="field field--name-title field--type-string field--label-hidden">Why Raspberry Pi for an SBC guy</span>
-
-            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/armsom-bpi-sige7-purple-case.jpeg" alt="ArmSoM Sige7 purple enclosure"></p>
-
-<p>If anyone asks why I prefer to work with Raspberry Pis when I want to tinker on a random project, consider:</p>
-
-<p>I just spent the past hour with a brand new ArmSoM Sige7 board (<a href="https://github.com/geerlingguy/sbc-reviews/issues/56">see my debugging notes in my <code>sbc-reviews</code> repo</a>). This SBC has been on the market for months, with <a href="https://www.electronics-lab.com/armsom-sige7-review-a-rockchip-rk3588-sbc-with-dual-2-5gbe-ethernet-nvme-storage-and-triple-display-output/">glowing reviews</a> all the way back in May...</p></div>
-      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
-<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-11-08T19:04:17-06:00" title="Friday, November 8, 2024 - 19:04" class="datetime">November 8, 2024</time>
-</span> 
-
-<br> 
-
-<https://www.jeffgeerling.com/blog/2024/why-raspberry-pi-sbc-guy>
-
----
-
-## Our Loss
-
-date: 2024-11-09, from: Dan Rather's Steady
-
-My attempt to understand and explain 
-
-<br> 
-
-<https://steady.substack.com/p/our-loss>
 

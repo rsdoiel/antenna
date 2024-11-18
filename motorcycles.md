@@ -1,11 +1,49 @@
 ---
 title: motorcycles
-updated: 2024-11-16 10:05:05
+updated: 2024-11-17 16:11:26
 ---
 
 # motorcycles
 
-(date: 2024-11-16 10:05:05)
+(date: 2024-11-17 16:11:26)
+
+---
+
+## GALLERY: NASCAR’s Auto Club Speedway Stuck In Time
+
+date: 2024-11-17, from: Kickin the Tires blog
+
+Photos by Jerry Jordan/Kickin&#8217; the Tires 
+
+<br> 
+
+<https://kickinthetires.net/nascar/gallery-nascars-auto-club-speedway-stuck-in-time/>
+
+---
+
+## Rieju’s Xplora ADV Looks a Whole Lot Like the Honda Africa Twin
+
+date: 2024-11-17, from: Ride Apart, Electric Motorcycle News
+
+The new ADV looks like it's designed to be more of an on-road machine, though. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/740921/rieju-xplora-adventure-bike-africa-twin-lookalike/>
+
+---
+
+## Yamaha Wants More Electric Off-Roaders, So It Invested In a French EV Company
+
+date: 2024-11-16, from: Ride Apart, Electric Motorcycle News
+
+Yamaha wants to boost its presence in the off-road EV scene, particularly in racing.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/740920/yamaha-investment-electric-motion-french-ev-company/>
 
 ---
 
@@ -412,52 +450,4 @@ By Matt Courson, Staff Writer AVONDALE, Ariz. — Martin Truex Jr. won the Pole 
 <br> 
 
 <https://kickinthetires.net/nascar/cup/truex-to-start-from-pole-in-final-full-time-start/>
-
----
-
-## Sawalich claims Xfinity Pole
-
-date: 2024-11-09, from: Kickin the Tires blog
-
-By Matt Courson, Staff Writer AVONDALE, Ariz. — William Sawalich will start from the pole position in just his third start in Saturday’s NASCAR Xfinity Series Championship Race at Phoenix&#8230;  
-
-<br> 
-
-<https://kickinthetires.net/nascar/xfinity/sawalich-claims-xfinity-pole/>
-
----
-
-## Is KTM Ashamed Its New 390s Are Better For the Company Than Its Big Bikes?
-
-date: 2024-11-09, from: Ride Apart, Electric Motorcycle News
-
-Pierer cannot get out of its own way, can it? 
-
-<br> 
-
-<https://www.rideapart.com/news/740383/ktm-390-adventure-r-smc-enduro-eicma/>
-
----
-
-## Ryan Blaney And Team Ready To Defend NASCAR Cup Series Title
-
-date: 2024-11-09, from: Kickin the Tires blog
-
-By Jerry Jordan, Editor AVONDALE, Ariz. – A week ago, Ryan Blaney was on the outside looking in and needing a win at Martinsville Speedway to advance for a chance&#8230;  
-
-<br> 
-
-<https://kickinthetires.net/nascar/ryan-blaney-and-team-ready-to-defend-nascar-cup-series-title/>
-
----
-
-## Mistake-free Majeski dominates for NASCAR Truck Series championship
-
-date: 2024-11-09, from: Kickin the Tires blog
-
-By Cole Cusumano, Staff Writer Ty Majeski and the No. 98 team were flawless and flat-out dominant in the NASCAR Craftsman Truck Series finale at Phoenix Raceway, leading all but&#8230;  
-
-<br> 
-
-<https://kickinthetires.net/nascar/mistake-free-majeski-dominates-for-nascar-truck-series-championship/>
 

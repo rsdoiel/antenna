@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2024-11-16 10:05:04
+updated: 2024-11-17 16:11:25
 ---
 
 # games
 
-(date: 2024-11-16 10:05:04)
+(date: 2024-11-17 16:11:25)
+
+---
+
+## The best movies of 2024 so far
+
+date: 2024-11-17, updated: 2024-11-17, from: Polygon Website
+
+Awards season approaches, but don’t tell that to the year in movies — they’ve been on a hot streak all year long. There have been standout genre movies, early awards contenders, crowd-pleasing blockbuster fare, and everything in between so far this year. The last stretch of the year is going to be jam-packed with even [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/24064917/best-movies-2024>
+
+---
+
+## Deadpool &#038; Wolverine’s VFX lead is scheming for a Spider-Man/Deadpool team-up
+
+date: 2024-11-17, updated: 2024-11-15, from: Polygon Website
+
+Now that the Deadpool movie rights are back in Marvel Studios’ hands and Deadpool has joined the Marvel Cinematic Universe (sorta, kinda, in an elliptical way), one fan is hoping for a specific hero crossover. Wētā FX’s&#160;Daniel Macarin, who was part of the VFX tech team on 2016’s Deadpool and became the VFX supervisor on [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel/479888/deadpool-wolverine-spider-man-crossover-vfx-interview>
+
+---
+
+## Pokémon TCG Pocket&#8217;s true challenge lies in multi-lingual card collection
+
+date: 2024-11-17, updated: 2024-11-15, from: Polygon Website
+
+Chasing down super rare cards is just one way to approach card collecting. Depending on their interests, players can focus on tracking down cards from a certain artist or period of time — or build a collection around a single favorite Pokémon. As I play Pokémon Trading Card Game Pocket, I’ve enjoyed building a collection [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon/477707/tcg-pocket-alternate-language-cards>
+
+---
+
+## Half-Life 2 turns 20, gets a big update, documentary, and 100% off sale price
+
+date: 2024-11-16, updated: 2024-11-16, from: Polygon Website
+
+Just like it did with the original Half-Life last year – celebrating the seminal first-person shooter’s 25th anniversary with a major update, a documentary, and a 100% off sale – Valve is celebrating the arguably even more influential Half-Life 2’s 20th anniversary with, you guessed it, an update, a documentary, and a 100% off sale.&#160; [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/480665/half-life-2-update-20-anniversary>
+
+---
+
+## The best of Arcane’s League of Legends (and Riot Games) Easter eggs in season 2
+
+date: 2024-11-16, updated: 2024-11-16, from: Polygon Website
+
+There are a lot of reasons to like Arcane, Netflix’s animated series set in the world of League of Legends: the dazzling animation, the creative use of original music, the compelling relationships. But one of the more impressive things about the show to me is how restrained it is about throwing in references and Easter [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/476294/arcane-lol-easter-egg-season-2-league-show>
+
+---
+
+## Tetris Forever is an incomplete tribute to the best game of all time
+
+date: 2024-11-16, updated: 2024-11-15, from: Polygon Website
+
+Tetris is Tetris. It’s basically perfect, and it always has been. This is abundantly clear when you load up the first playable game in the new interactive documentary and retro game compilation Tetris Forever: the original Tetris, as it was on the Electronika 60 computer that was already old-fashioned when Alexey Pajitnov wrote the game [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/479590/tetris-forever-playable-documentary-compilation>
+
+---
+
+## The best sci-fi movies to watch on Netflix this November
+
+date: 2024-11-16, updated: 2024-11-16, from: Polygon Website
+
+Another month, another batch of exciting new releases in theaters to look forward to! Gladiator II, Wicked Part I, Moana 2, and more all slated to be released by the end of November. But what about a new sci-fi flick, or at the very least a good one to watch from the comfort of your [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/476063/best-sci-fi-movies-watch-netflix-november-2024>
+
+---
+
+## Game Awards confirms Elden Ring DLC (and any DLC) is GOTY eligible
+
+date: 2024-11-16, updated: 2024-11-16, from: Polygon Website
+
+This coming Monday, the Game Awards 2024 will announce its list of nominees, selected from ballots submitted by video game publications, including a ballot from us here at Polygon. Today, Geoff Keighley and company have issued a clarification on nominees’ eligibility. Although previously, the rules did not explicitly forbid video game DLCs and expansions from [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/awards/480437/tgas-game-awards-elden-ring-dlc-goty-rules-change>
+
+---
+
+## Dune: Prophecy’s Bene Gesserit witches are both familiar and unrecognizable
+
+date: 2024-11-16, updated: 2024-11-15, from: Polygon Website
+
+The premise of Dune: Prophecy, the latest sci-fi/fantasy lit juggernaut to hit the Max streaming service, is that it’s a show about the rise of the Bene Gesserit order. That is, the secretive sect of all-female psychic eugenicists, advisors, educators, and mistresses to the spacefaring noble houses out of the pages of Frank Herbert’s Dune, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/479311/dune-prophecy-bene-gesserit-sisterhood-voice-explainer-history>
 
 ---
 
@@ -834,40 +942,4 @@ Pokémon Go is having a Mankey Community Day event on Sunday, Nov. 10, from 2-5 
 <br> 
 
 <https://www.polygon.com/pokemon-go-guide/476381/mankey-community-day-shiny-primeape-annihilape>
-
----
-
-## Marvel’s extended Thunderbolts trailer levels up the best parts of mid-tier MCU
-
-date: 2024-11-09, updated: 2024-11-10, from: Polygon Website
-
-Similar to how the early phases of the Marvel Cinematic Universe turned B- and C-list heroes into the biggest stars on the planet, the next chapter of the mega-franchise intends to pluck side characters from passable movies and iffy TV shows for a team-up movie with high potential. Marvel and Disney released a new extended [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/marvel/476883/marvel-thunderbolts-trailer-brazil-d23>
-
----
-
-## Heretic’s directors unpack its ambiguous ending
-
-date: 2024-11-09, updated: 2024-11-08, from: Polygon Website
-
-The ending of Scott Beck and Bryan Woods’ horror movie Heretic comes as a surprise: It’s a silent, transcendent moment after a tense, dialogue-heavy story. (End spoilers ahead, as the headline suggests.) A seemingly benign man, Mr. Reed (Hugh Grant), traps two young female Mormon missionaries in his house to test their faith and explain [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/horror/476433/heretic-ending-explained-by-directors>
-
----
-
-## Arcane season 2’s opening episodes show it was worth the wait
-
-date: 2024-11-09, updated: 2024-11-08, from: Polygon Website
-
-When Arcane season 2 picks up, mere moments after Jinx’s bomb has decimated the Piltover council meeting, tragedy has already struck. There’s wreckage all around, bodies appearing among the rubble as the dust begins to clear. Even for a series as somber as Arcane, it’s desolation; as one character puts it, another cruelty or so [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/impressions/476403/arcane-season-2-review-episode-act-1>
 

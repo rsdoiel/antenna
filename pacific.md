@@ -1,11 +1,475 @@
 ---
 title: pacific
-updated: 2024-11-16 10:05:02
+updated: 2024-11-17 16:11:24
 ---
 
 # pacific
 
-(date: 2024-11-16 10:05:02)
+(date: 2024-11-17 16:11:24)
+
+---
+
+## 500 Sails marks a decade of operation
+
+date: 2024-11-17, updated: 2024-11-17, from: Marianas Variety
+
+500 Sails celebrated its first decade as a nonprofit organization with a fundraising gala on Friday, Nov. 15 at Crowne Plaza Resort. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/500-sails-marks-a-decade-of-operation/article_49f18b9a-a4b3-11ef-b511-c3b076ef3938.html>
+
+---
+
+## All contestants win in Kagman singing competition
+
+date: 2024-11-17, updated: 2024-11-17, from: Marianas Variety
+
+ALL four contestants in the Voice of the Marianas Foundation's Harmony in the Community singing contest brought home $100 each after winning the competition at Kagman Community Center on Saturday. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/all-contestants-win-in-kagman-singing-competition/article_96389314-a49e-11ef-8ec8-cba1e6bb8db3.html>
+
+---
+
+## Kilili offices in NMI will be open through Dec. 13
+
+date: 2024-11-17, updated: 2024-11-17, from: Marianas Variety
+
+THE offices of outgoing U.S. Congressman Gregorio Kilili Camacho Sablan on Saipan, Tinian and Rota will remain open to the public through Dec. 13, 2024. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/kilili-offices-in-nmi-will-be-open-through-dec-13/article_d90713b0-a4a2-11ef-8227-2f278493e49a.html>
+
+---
+
+## Judge Naraja recuses self from Villanueva case
+
+date: 2024-11-17, updated: 2024-11-17, from: Marianas Variety
+
+SUPERIOR Court Presiding Judge Roberto C. Naraja on Friday, Nov. 15, recused himself from Shayne Villanueva’s contempt of Legislature case. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/judge-naraja-recuses-self-from-villanueva-case/article_ebc22870-a47d-11ef-89dd-234c357ad1d2.html>
+
+---
+
+## HPAI detected in Hawaii: Temporary ban on poultry and egg imports to protect CNMI flocks
+
+date: 2024-11-17, updated: 2024-11-17, from: Marianas Variety
+
+(DNLR) — The CNMI Department of Land and Natural Resources, Division of Animal Health, is enacting immediate measures to protect local poultry and wildlife from the risk of Highly Pathogenic Avian Influenza or HPAI, following its recent detection in Hawaii. As HPAI can spread rapidly through migratory birds and the movement of poultry, these proactive steps aim to prevent the virus from reaching our shores. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/hpai-detected-in-hawaii-temporary-ban-on-poultry-and-egg-imports-to-protect-cnmi-flocks/article_3fef336a-a4e3-11ef-9603-5fd620d7dec4.html>
+
+---
+
+## Faha Digital Media calls on CNMI storytellers for film proposals
+
+date: 2024-11-17, updated: 2024-11-17, from: Marianas Variety
+
+FAHA Digital Media is officially soliciting proposals in the form of regrant applications by CNMI-based/resident storytellers to conceptualize, develop, create, produce and film three-piece film series (each film shall be at least three minutes and up to five minutes long) or one short film (up to 15 minutes long) that showcase the unique life, culture, history, language, and/or nature of the Northern Marianas. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/faha-digital-media-calls-on-cnmi-storytellers-for-film-proposals/article_989da500-a4e3-11ef-936b-6fd2c03cae6c.html>
+
+---
+
+## Amata welcomes historic nomination for American Samoa
+
+date: 2024-11-17, updated: 2024-11-17, from: Marianas Variety
+
+WASHINGTON, D.C. (Office of the American Samoa Congressional Delegate) — U.S. Congresswoman Uifa’atali Amata is welcoming the announcement that President-elect Trump will nominate former Congresswoman Tulsi Gabbard, who was born in American Samoa and represented Hawaii in Congress, to be director of national intelligence, a position in the cabinet of the President of the United States. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/amata-welcomes-historic-nomination-for-american-samoa/article_5f763cb4-a4e4-11ef-a0fb-77e6a5e2ee0f.html>
+
+---
+
+## Spy world vexed by Trump choice of Gabbard as US intelligence chief
+
+date: 2024-11-17, updated: 2024-11-17, from: Marianas Variety
+
+WASHINGTON (Reuters) — President-elect Donald Trump’s choice of Tulsi Gabbard as U.S. intelligence chief has sent shockwaves through the national security establishment, adding to concerns that the sprawling intelligence community will become increasingly politicized. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/spy-world-vexed-by-trump-choice-of-gabbard-as-us-intelligence-chief/article_88c9a5b4-a4e5-11ef-933f-df3d45f772b7.html>
+
+---
+
+## Democrats draw up an entirely new anti-Trump battle plan
+
+date: 2024-11-17, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Locked out of power next year, Democrats are hatching plans to oppose President-elect Donald Trump that look nothing like the liberal &#8220;resistance&#8221; of 2017.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/17/nation-world-news/democrats-draw-up-an-entirely-new-anti-trump-battle-plan/>
+
+---
+
+## County provides update on Highway 137
+
+date: 2024-11-17, from: Hawaii Tribune Harold
+
+
+				<p>Work to restore the lava-covered Highway 137 remains on schedule, despite a minor snag.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/17/hawaii-news/county-provides-update-on-highway-137/>
+
+---
+
+## Gov. Green calls Kennedy’s choice as HHS leader ‘insane’
+
+date: 2024-11-17, from: Hawaii Tribune Harold
+
+
+				<p>Gov. Josh Green has &#8220;severe reservations&#8221; and is strongly criticizing President-elect Donald Trump&#8217;s choice of Robert F. Kennedy Jr. to lead the Department of Health and Human Services.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/17/hawaii-news/gov-green-calls-kennedys-choice-as-hhs-leader-insane/>
+
+---
+
+## Puna man, woman charged with animal cruelty
+
+date: 2024-11-17, from: Hawaii Tribune Harold
+
+
+				<p>A man and woman, both from Puna, face criminal charges after allegedly leaving a dog alone inside a car in a Kona parking lot earlier this month.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/17/hawaii-news/puna-man-woman-charged-with-animal-cruelty/>
+
+---
+
+## Musk wants to slash $2 trillion in federal spending. Is that possible?
+
+date: 2024-11-17, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President-elect Donald Trump has vowed to cut wasteful government spending, fire what he considers rogue bureaucrats and overhaul federal agencies once he is back in power.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/17/nation-world-news/musk-wants-to-slash-2-trillion-in-federal-spending-is-that-possible/>
+
+---
+
+## Pompeii: Italy’s frozen-in-time Roman city
+
+date: 2024-11-17, from: Hawaii Tribune Harold
+
+
+				<p>I love exploring the world of ancient Rome, with its grand architecture, fascinating culture, and stories of larger-than-life leaders. But since many of the 2,000-year-old empire&#8217;s landmarks are reduced to ruins, it can be hard to make sense of the stones and rubble left behind.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/17/features/pompeii-italys-frozen-in-time-roman-city/>
+
+---
+
+## Volcano Watch: ʻAilaʻau or Kualoloa? Hawaiian chants suggest lava flow name change
+
+date: 2024-11-17, from: Hawaii Tribune Harold
+
+
+				<p>Native Hawaiian oral traditions record a rich history of the changing volcanic landscape in Hawai&#8216;i. Interweaving cultural knowledge with scientific disciplines can provide a more complete understanding of past events, including the largest known lava flow eruption of Kilauea. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/17/features/volcano-watch-%ca%bbaila%ca%bbau-or-kualoloa-hawaiian-chants-suggest-lava-flow-name-change/>
+
+---
+
+## Panned in Washington, Trump’s cabinet picks thrill many of his voters
+
+date: 2024-11-17, from: Hawaii Tribune Harold
+
+
+				<p>To his detractors, President-elect Donald J. Trump&#8217;s Cabinet looks like a rogues&#8217; gallery of people with dubious credentials and questionable judgment.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/17/nation-world-news/panned-in-washington-trumps-cabinet-picks-thrill-many-of-his-voters/>
+
+---
+
+## Israel strikes near Beirut as two medics killed in South Lebanon
+
+date: 2024-11-17, from: Hawaii Tribune Harold
+
+
+				<p>TEL AVIV, Israel &#8212; The Israeli military pressed on Saturday with its dayslong bombing campaign targeting an area near Beirut dominated by Hezbollah, the Lebanese Shiite militia, while in the country&#8217;s south, Israeli airstrikes killed two paramedics, according to Lebanon&#8217;s Health Ministry.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/17/nation-world-news/israel-strikes-near-beirut-as-two-medics-killed-in-south-lebanon/>
+
+---
+
+## The social aspect of betel chewing in Micronesia
+
+date: 2024-11-17, from: Pacific Island Times
+
+Did you know that betel nut chewing was a social activity that played an impor tant part in the daily lives of the early Micronesians?... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/the-social-aspect-of-betel-chewing-in-micronesia>
+
+---
+
+## Bookshelf: Onedera's new book reveals the untold stories of pre-war Japanese immigrants on Guam
+
+date: 2024-11-17, from: Pacific Island Times
+
+While most Guam wartime stories are told from the point of view of CHamoru survivors and American marines, Peter R. Onedera flips the narrat 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/bookshelf-onedera-s-new-book-reveals-the-untold-stories-of-pre-war-japanese-immigrants-on-guam>
+
+---
+
+## Red Hill Crisis: Pentagon reports detail poor recordkeeping across Oahu fueling operations
+
+date: 2024-11-16, from: Hawaii Tribune Harold
+
+
+				<p>On Thursday the Pentagon&#8217;s Inspector General office released long-awaited reports on the Navy&#8217;s fuel and water systems on Oahu.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/16/hawaii-news/red-hill-crisis-pentagon-reports-detail-poor-recordkeeping-across-oahu-fueling-operations/>
+
+---
+
+## How Harris’ effort to neutralize immigration as a campaign issue failed
+
+date: 2024-11-16, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Vice President Kamala Harris campaigned for the presidency on the toughest immigration platform of any Democrat in decades: She vowed to continue the Biden administrations&#8217;s crackdown on asylum and to impose order on the southern border. She championed her record as a border-state prosecutor and her support of a bipartisan border bill that failed after former President Donald Trump urged Republicans to reject it.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/16/nation-world-news/how-harris-effort-to-neutralize-immigration-as-a-campaign-issue-failed/>
+
+---
+
+## With initial cabinet picks, Trump takes on biggest foes
+
+date: 2024-11-16, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President-elect Donald Trump is wasting little time in taking on the three governmental institutions that most frustrated his political ambitions during his first term and making clear he will not brook resistance in his second.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/16/nation-world-news/with-initial-cabinet-picks-trump-takes-on-biggest-foes/>
+
+---
+
+## Why Kennedy sees an ‘epidemic’ of chronic disease among children
+
+date: 2024-11-16, from: Hawaii Tribune Harold
+
+
+				<p>Robert F. Kennedy Jr., now President-elect Donald Trump&#8217;s pick to lead the Department of Health and Human Services, has for years called attention to what he considers an &#8220;epidemic&#8221; of chronic disease that has left America&#8217;s children among the sickest in the developed world.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/16/nation-world-news/why-kennedy-sees-an-epidemic-of-chronic-disease-among-children/>
+
+---
+
+## US judge strikes down Biden overtime pay rule
+
+date: 2024-11-16, from: Hawaii Tribune Harold
+
+
+				<p>(Reuters) &#8212; A federal judge in Texas on Friday permanently blocked a Biden administration rule that would have made about 4 million more salaried U.S. workers eligible for overtime pay.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/16/nation-world-news/us-judge-strikes-down-biden-overtime-pay-rule/>
+
+---
+
+## A tiny gladiator uncovered in England tells of the reach of Roman celebrity
+
+date: 2024-11-16, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; The tiny copper gladiator stands ready for battle, decked out in a helmet and armor, an elaborate shield held in front as if bracing for his opponent&#8217;s blows.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/16/nation-world-news/a-tiny-gladiator-uncovered-in-england-tells-of-the-reach-of-roman-celebrity/>
+
+---
+
+## Trump wants to kill the EV tax credit. Here’s what to know.
+
+date: 2024-11-16, from: Hawaii Tribune Harold
+
+
+				<p>President-elect Donald Trump&#8217;s transition team is exploring a series of steps to make it more difficult for electric vehicles to be competitive with gasoline-powered ones, culminating with the elimination of a $7,500 tax credit for people who buy EVs, according to three people with direct knowledge of the plans.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/16/nation-world-news/trump-wants-to-kill-the-ev-tax-credit-heres-what-to-know/>
+
+---
+
+## Trudeau issued a plea to Taylor Swift: Please come. She did.
+
+date: 2024-11-16, from: Hawaii Tribune Harold
+
+
+				<p>TORONTO &#8212; It began with a polite plea on social media from the leader of Canada.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/16/nation-world-news/trudeau-issued-a-plea-to-taylor-swift-please-come-she-did/>
+
+---
+
+## Musk and Trump, a bond made in merch
+
+date: 2024-11-16, from: Hawaii Tribune Harold
+
+
+				<p>The bond between Elon Musk and President-elect Donald Trump is built not only on their shared interests in limited government, social media and golf, but also, it seems, on their common affinity for merch.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/16/features/musk-and-trump-a-bond-made-in-merch/>
+
+---
+
+## Tropical Gardening: Hawaii without palms is like Egypt without dates
+
+date: 2024-11-16, from: Hawaii Tribune Harold
+
+
+				<p>We just returned from two months of adventures from Italy to Tunisia and Egypt. It was exploration into the past from the Egyptian Empire to the Roman Empire and everything in between. Many experiences altered the stereotypes we had and others reinforced concerns of how challenges farmers there and Hawaii have in common.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/16/features/tropical-gardening-hawaii-without-palms-is-like-egypt-without-dates/>
+
+---
+
+## Police arrest 18 for DUI
+
+date: 2024-11-16, from: Hawaii Tribune Harold
+
+
+				<p>During the week of Nov. 4-10, Hawaii Island police arrested 18 motorists for DUI.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/16/hawaii-news/police-arrest-18-for-dui-17/>
+
+---
+
+## Eisenhower fellows to study Hawaiʻi transportation challenges
+
+date: 2024-11-16, from: University of Hawaiʻi News
+
+<p>The award aims to encourage students to pursue careers in transportation and research, helping to develop the next generation of transportation professionals.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/15/eisenhower-fellowship-awardees/">Eisenhower fellows to study Hawaiʻi transportation challenges</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/15/eisenhower-fellowship-awardees/>
+
+---
+
+## $50K national grant allows The Mānoa Mirror to expand local news coverage
+
+date: 2024-11-16, from: University of Hawaiʻi News
+
+<p>The free, online and mobile-accessible program enables students to write about a variety of stories.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/15/press-forward-donation-manoa-mirror/">$50<abbr>K</abbr> national grant allows The Mānoa Mirror to expand local news coverage</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/15/press-forward-donation-manoa-mirror/>
+
+---
+
+## Jaycee Nolan speaks social media
+
+date: 2024-11-16, from: The Husk
+
+The business owner from Palau was named a Soho House creative fellow 
+
+<br> 
+
+<https://thehusk.substack.com/p/jaycee-nolan-speaks-social-media>
+
+---
+
+## Seamount named in honor of Earth sciences professor Jasper Konter
+
+date: 2024-11-16, from: University of Hawaiʻi News
+
+<p>Konter Ridge is an 89 <abbr>km</abbr> long chain of seamounts on the ocean floor, straddling a zone across the equatorial Pacific about 35 <abbr>km</abbr> wide.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/15/seamount-named-in-honor-jasper-konter/">Seamount named in honor of Earth sciences professor Jasper Konter</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/15/seamount-named-in-honor-jasper-konter/>
+
+---
+
+## UH-mazing holiday recipes: Libby’s Ribby Roast
+
+date: 2024-11-16, from: University of Hawaiʻi News
+
+<p><span aria-label="Hawaii">Hawai&#699;i</span> <abbr>CC</abbr>'s Katie Young Yamanaka shares her mother Libby Young's rib roast.</p>
+The post <a href="https://www.hawaii.edu/news/2024/11/15/uh-mazing-holiday-recipes-libbys-ribby-roast/"><abbr>UH</abbr>-mazing holiday recipes: Libby’s Ribby Roast</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/11/15/uh-mazing-holiday-recipes-libbys-ribby-roast/>
 
 ---
 
@@ -19,6 +483,20 @@ The post <a href="https://www.hawaii.edu/news/2024/11/15/genomics-ed-program-lau
 <br> 
 
 <https://www.hawaii.edu/news/2024/11/15/genomics-ed-program-launched/>
+
+---
+
+## The Pacific Ocean and Climate Crisis Assessment Report successfully launched at COP29
+
+date: 2024-11-15, from: University of the South Pacific (Fiji)
+
+<p>The volume one of Pacific Island and Climate Crisis Assessment (POCCA) report – a product...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/the-pacific-ocean-and-climate-crisis-assessment-report-successfully-launched-at-cop29/">The Pacific Ocean and Climate Crisis Assessment Report successfully launched at COP29</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/the-pacific-ocean-and-climate-crisis-assessment-report-successfully-launched-at-cop29/>
 
 ---
 
@@ -64,7 +542,7 @@ date: 2024-11-15, updated: 2024-11-15, from: Marianas Variety
 date: 2024-11-15, from: Hawaii Tribune Harold
 
 
-				<p>Construction could begin at Halepohaku in January as part of a year-long project to remove a potentially leaky fuel system.</p>
+				<p>A project to remove old underground fuel tanks at Halepohaku could begin in January.</p>
 			 
 
 <br> 
@@ -2584,271 +3062,4 @@ The post <a href="https://www.hawaii.edu/news/2024/11/09/math-students-launch-ge
 <br> 
 
 <https://www.hawaii.edu/news/2024/11/09/math-students-launch-genki-balls/>
-
----
-
-## Sports’ highs and lows 
-
-date: 2024-11-09, from: Pacific Island Times
-
-Bridgman, MI -- Ever since I was a kid, growing up in Holly, Michigan, baseball has meant the world to me.  During the lazy days of... 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/sports-highs-and-lows>
-
----
-
-## Cil, a great gift to the world
-
-date: 2024-11-09, from: Pacific Island Times
-
-We know that life is fleeting. We know death can knock any time. But when it does so unexpectedly, we are knocked off our feet. 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/cil-a-great-gift-to-the-world>
-
----
-
-## Be kind to yourself and other life hacks
-
-date: 2024-11-09, from: Pacific Island Times
-
-Manila—Be kind to yourself. The world is cruel enough. Of the dozens of life hacks that I read about almost daily, my favorite is the one... 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/be-kind-to-yourself-and-other-life-hacks>
-
----
-
-## Alameda names managing director, deputy managing director
-
-date: 2024-11-09, from: Hawaii Tribune Harold
-
-
-				<p>Mayor-elect Kimo Alameda has selected Bill Brilhante as managing director and Merrick Nishimoto as deputy managing director following his win in the Nov. 5 general election.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/11/09/hawaii-news/alameda-names-managing-director-deputy-managing-director/>
-
----
-
-## Trump weighs key personnel choices, schooled by his first-term experience
-
-date: 2024-11-09, from: Hawaii Tribune Harold
-
-
-				<p>President-elect Donald Trump is not known for adherence to a disciplined and rigorous personnel selection process, but behind the scenes, his advisers and allies have been preparing lists of candidates for the most important jobs in his administration.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/trump-weighs-key-personnel-choices-schooled-by-his-first-term-experience/>
-
----
-
-## With Trump tariffs looming, businesses try to ‘run from a moving target’
-
-date: 2024-11-09, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; Rick Muskat woke up the morning after the election with an urgent task. He got his agent in China on the phone at 4:30 a.m. Beijing time and pressed him to ask their factory how many more pairs of men&#8217;s dress shoes they could make before Chinese New Year, at the end of January.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/with-trump-tariffs-looming-businesses-try-to-run-from-a-moving-target/>
-
----
-
-## US: Iranian agents plotted to kill Trump
-
-date: 2024-11-09, from: Hawaii Tribune Harold
-
-
-				<p>NEW YORK &#8212; Federal prosecutors in Manhattan said Friday that Iranian plotters had discussed a plan to assassinate Donald Trump before he was reelected as president this week.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/us-iranian-agents-plotted-to-kill-trump/>
-
----
-
-## Residents return to find homes reduced to rubble after California fire
-
-date: 2024-11-09, from: Hawaii Tribune Harold
-
-
-				<p>In the city of Camarillo, California, on Old Coach Drive, the smell of smoke lay heavy in the air. The fire that erupted this week had hopscotched around the neighborhood, leaving some homes relatively unscathed but reducing several to charred piles of wood and rubble.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/residents-return-to-find-homes-reduced-to-rubble-after-california-fire/>
-
----
-
-## China reveals $1.4 trillion plan to bail out local governments
-
-date: 2024-11-09, from: Hawaii Tribune Harold
-
-
-				<p>TAIPEI, Taiwan &#8212; The Chinese government on Friday approved a $1.4 trillion plan to revive the economy, authorizing local governments to refinance crushing debts that have left some cities unable to pay their bills.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/china-reveals-1-4-trillion-plan-to-bail-out-local-governments/>
-
----
-
-## Antisemitic attacks prompt emergency flights for Israeli soccer fans
-
-date: 2024-11-09, from: Hawaii Tribune Harold
-
-
-				<p>Authorities in Amsterdam on Friday were investigating what they called antisemitic attacks on Israeli soccer fans that took place amid a charged atmosphere surrounding a soccer match involving a visiting Israeli team.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/antisemitic-attacks-prompt-emergency-flights-for-israeli-soccer-fans/>
-
----
-
-## Wave of racist texts after election prompts FBI scrutiny
-
-date: 2024-11-09, from: Hawaii Tribune Harold
-
-
-				<p>A wave of racist text messages summoning Black people to report for slavery showed up on phones across the United States, prompting the scrutiny of the FBI.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/wave-of-racist-texts-after-election-prompts-fbi-scrutiny/>
-
----
-
-## Beyoncé, young pop sensations lead 2025 Grammy nominees
-
-date: 2024-11-09, from: Hawaii Tribune Harold
-
-
-				<p>Beyonc&#233; and Taylor Swift will face off in all top categories at the 67th annual Grammy Awards, leading a pack of nominees that also features buzzy young female stars who have dominated the pop charts over the past year.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/beyonce-young-pop-sensations-lead-2025-grammy-nominees/>
-
----
-
-## Painting by AI-powered robot sells for $1.1 million
-
-date: 2024-11-09, from: Hawaii Tribune Harold
-
-
-				<p>A portrait of British mathematician Alan Turing sold at auction for nearly $1.1 million Thursday, a surprisingly large sum for a painting whose creator wasn&#8217;t an artist in the traditional sense, but rather a humanoid robot powered by artificial intelligence.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/painting-by-ai-powered-robot-sells-for-1-1-million/>
-
----
-
-## India drops 36-year ban on Rushdie book, saying it can’t find the order
-
-date: 2024-11-09, from: Hawaii Tribune Harold
-
-
-				<p>Before the Iranian fatwa condemning the writer to death, before all the protests and burnings of his book and before the stabbing death of his translator, there was India&#8217;s customs notification No. 405/12/88-CUS-III.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/india-drops-36-year-ban-on-rushdie-book-saying-it-cant-find-the-order/>
-
----
-
-## Where there’s joy in a terror bird
-
-date: 2024-11-09, from: Hawaii Tribune Harold
-
-
-				<p>HUILA, Colombia &#8212; C&#0233;sar Perdomo&#8217;s small paleontological museum, La Tormenta, is a work in progress. A bare cement structure built on a windswept platform in the Tatacoa Desert, it offers a panoramic view of shallow, craggy canyons carved from soft mudstone.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/where-theres-joy-in-a-terror-bird/>
-
----
-
-## Fossil reveals oldest known tadpole that grew to the size of a hot dog
-
-date: 2024-11-09, from: Hawaii Tribune Harold
-
-
-				<p>The metamorphosis of a frog from baby to adult is one of nature&#8217;s most remarkable transformations. </p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2024/11/09/nation-world-news/fossil-reveals-oldest-known-tadpole-that-grew-to-the-size-of-a-hot-dog/>
-
----
-
-## Neglect and disrespect: Whatever happened to Tony Ramirez’s and Tony Palomo’s vision for ancestral remains
-
-date: 2024-11-09, from: Pacific Island Times
-
-New Brunswick — The recent Pacific Island Times article (August 2024) by Ron Rocky Coloma, “Piled in Shoe Boxes, Shoved into a Storage... 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/neglect-and-disrespect-whatever-happened-to-tony-ramirez-s-and-tony-palomo-s-vision-for-ancestral-r>
-
----
-
-##  Deport Air program: It’s a fair deal
-
-date: 2024-11-09, from: Pacific Island Times
-
-When rearing its ugly head, it's finally okay for me to say, “It's not really discrimination.” I’m talking about the deportation of... 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/deport-air-program-it-s-a-fair-deal>
-
----
-
-## Philippine ambassador drums up Filipino workers' interest in Guam jobs
-
-date: 2024-11-09, from: Pacific Island Times
-
-By Jinky Jorgio   Manila —Philippine Ambassador Jose Manuel Romualdez urged Filipino workers to explore the thousands of job... 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/philippine-ambassador-drums-up-filipino-workers-interest-in-guam-jobs>
-
----
-
-## UH astronomers, students: Hands-on science fun in Kona
-
-date: 2024-11-09, from: University of Hawaiʻi News
-
-<p>The free event featured hands-on demonstrations and displays related to astronomy, robotics and natural sciences.</p>
-The post <a href="https://www.hawaii.edu/news/2024/11/08/uh-astronomers-students-science-fun-in-kona/"><abbr>UH</abbr> astronomers, students: Hands-on science fun in Kona</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2024/11/08/uh-astronomers-students-science-fun-in-kona/>
 

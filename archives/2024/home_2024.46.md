@@ -1,11 +1,78 @@
 ---
 title: home
-updated: 2024-11-16 10:05:05
+updated: 2024-11-17 16:11:26
 ---
 
 # home
 
-(date: 2024-11-16 10:05:05)
+(date: 2024-11-17 16:11:26)
+
+---
+
+## When and How to Fertilize Dracaena
+
+date: 2024-11-17, from: The Gardener's Path
+
+<p>Part of caring for delightful dracaena plants is knowing when and how to fertilize them properly. From stately dragon trees growing in the landscape to ever-popular snake plants potted indoors, they need regular food to stay healthy and grow well. Learn how to fertilize dracaena in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/houseplants/fertilize-dracaena/">When and How to Fertilize Dracaena</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/houseplants/fertilize-dracaena/>
+
+---
+
+## How to Use Your Credit Card Points for Holiday Travel, According to an Expert at The Points Guy
+
+date: 2024-11-17, from: Sunset Magazine - Living in the West
+
+The Points Guy’s leading expert on credit cards and loyalty programs shares tips on planning your holiday travel like a pro. 
+
+<br> 
+
+<https://www.sunset.com/travel/travel-tips/using-points-miles-for-holiday-travel>
+
+---
+
+## This Multipurpose Garden Paradise Packs in a Pool, Fire Pit, Shower, Outdoor Dining Area, and More
+
+date: 2024-11-17, from: Sunset Magazine - Living in the West
+
+This plot of land was narrow and small. See how it was turned it into a versatile space with a pool, outdoor shower, seating area, and more. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/landscaping/multipurpose-garden-design>
+
+---
+
+## 5 Easy Simmer Pot Recipes: How to Make Stovetop Potpourri
+
+date: 2024-11-16, from: Homestead and Chil
+
+<p>Come learn how to make your home smell amazing with these 5 easy simmer pot recipes for any season. Use natural aromatic ingredients like citrus, apples, herbs and spices to make homemade stovetop potpourri. </p>
+<p>The post <a href="https://homesteadandchill.com/simmer-pot-recipes-homemade-stovetop-potpourri/">5 Easy Simmer Pot Recipes: How to Make Stovetop Potpourri</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/simmer-pot-recipes-homemade-stovetop-potpourri/>
+
+---
+
+## Zinnia Flowers Care and Growing Guide with Ultimate Tips
+
+date: 2024-11-16, from: Yard Life blog
+
+<p>Zinnias, beloved for their fast-growing and vibrant blooms, are the epitome of beauty and resilience in the gardening world. These ... </p>
+<p class="read-more-container"><a title="Zinnia Flowers Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/zinnia-flowers-care-and-growing-guide-with-ultimate-tips/#more-21794" aria-label="Read more about Zinnia Flowers Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/zinnia-flowers-care-and-growing-guide-with-ultimate-tips/">Zinnia Flowers Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/zinnia-flowers-care-and-growing-guide-with-ultimate-tips/>
 
 ---
 
@@ -275,18 +342,6 @@ Hosting a Thanksgiving gathering can be costly. Professional chefs share what to
 
 ---
 
-## How to Use Your Credit Card Points for Holiday Travel, According to an Expert at The Points Guy
-
-date: 2024-11-14, from: Sunset Magazine - Living in the West
-
-The Points Guy’s leading expert on credit cards and loyalty programs shares tips on planning your holiday travel like a pro. 
-
-<br> 
-
-<https://www.sunset.com/travel/travel-tips/using-points-miles-for-holiday-travel>
-
----
-
 ## The Ultimate Kid-Friendly Carlsbad Guide for Your Next Legoland Visit
 
 date: 2024-11-14, from: Sunset Magazine - Living in the West
@@ -308,18 +363,6 @@ Look to your backyard for your next floral arrangement. We're sharing Thanksgivi
 <br> 
 
 <https://www.sunset.com/home-garden/flowers-plants/thanksgiving-centerpieces-from-the-garden>
-
----
-
-## This Multipurpose Garden Paradise Packs in a Pool, Fire Pit, Shower, Outdoor Dining Area, and More
-
-date: 2024-11-14, from: Sunset Magazine - Living in the West
-
-This plot of land was narrow and small. See how it was turned it into a versatile space with a pool, outdoor shower, seating area, and more. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/landscaping/multipurpose-garden-design>
 
 ---
 
@@ -1309,32 +1352,4 @@ date: 2024-11-10, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/flowers/drooping-amaryllis-leaves/>
-
----
-
-## How to Make a DIY Rice Heating Pad (Microwave or Oven)
-
-date: 2024-11-09, from: Homestead and Chil
-
-<p>Do you have sore muscles, kinks, and cramps? Come learn how to make a simple, natural DIY rice heating pad in 6 easy steps! It can also be used as a cold pack. You can use recycled fabric, plus essential oils for aromatherapy!</p>
-<p>The post <a href="https://homesteadandchill.com/how-to-make-rice-heating-pad/">How to Make a DIY Rice Heating Pad (Microwave or Oven)</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
- 
-
-<br> 
-
-<https://homesteadandchill.com/how-to-make-rice-heating-pad/>
-
----
-
-## CNPS Responds to the Fall 2024 Election
-
-date: 2024-11-09, from: California Native Plants Society
-
-<p>CNPS urges President Biden to designate Chuckwalla, Sáttítla, and Kw’tsán as national monuments to protect California’s native plants and biodiversity.</p>
-<p>The post <a href="https://www.cnps.org/news-releases/cnps-responds-to-the-fall-2024-election-41181">CNPS Responds to the Fall 2024 Election</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
- 
-
-<br> 
-
-<https://www.cnps.org/news-releases/cnps-responds-to-the-fall-2024-election-41181>
 

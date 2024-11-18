@@ -1,11 +1,35 @@
 ---
 title: libraries
-updated: 2024-11-16 10:05:04
+updated: 2024-11-17 16:11:26
 ---
 
 # libraries
 
-(date: 2024-11-16 10:05:04)
+(date: 2024-11-17 16:11:26)
+
+---
+
+## Schottky-Kronecker forms and hyperelliptic polylogarithms
+
+date: 2024-11-22, from: ETH Zurich, recently added
+
+Baune, Konstantin; Broedel, Johannes; Im, Egor; Lisitsyn, Artyom; Zerbini, Federico 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/700705>
+
+---
+
+## These Old Shades, by Georgette Heyer
+
+date: 2024-11-16, from: Standard Ebooks, new releaases
+
+A duke takes in a young boy, only to discover that the boy is actually a noblewoman in disguise. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/georgette-heyer/these-old-shades>
 
 ---
 
@@ -234,6 +258,18 @@ alt="A whiteboard showing post-it notes from the second workshop." width="40%">
 
 ---
 
+## Learning from Cyberattacks
+
+date: 2024-11-14, from: Internet Archive Blog
+
+The Wayback Machine, Archive.org, Archive-it.org, and OpenLibrary.org came up in stages over the week after cyberattacks with some of the contributor features coming up over the last couple of weeks.&#160; [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2024/11/14/learning-from-cyberattacks/>
+
+---
+
 ## Accessibility in the SciELO Program: current status and future prospects – Part 2
 
 date: 2024-11-14, from: SciELO in Perspective
@@ -311,6 +347,18 @@ Hobbes explores a vision of the ideal state, in which people cede certain freedo
 
 ---
 
+## Vanishing Culture: Archiving Community Care Work Online
+
+date: 2024-11-12, from: Internet Archive Blog
+
+The following guest post from researcher Amanda Gray Rendón is part of our Vanishing Culture series, highlighting the power and importance of preservation in our digital age. Read more essays online or download the full report now. When [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2024/11/12/vanishing-culture-archiving-community-care-work-online/>
+
+---
+
 ## Short Fiction, by E. M. Forster
 
 date: 2024-11-12, from: Standard Ebooks, new releaases
@@ -334,6 +382,18 @@ date: 2024-11-12, from: Scholarly Kitchen
 <br> 
 
 <https://scholarlykitchen.sspnet.org/2024/11/12/green-open-access-free-for-authors-but-at-a-cost-for-readers/>
+
+---
+
+## We Want to Decentralize the DWeb Movement
+
+date: 2024-11-12, from: Internet Archive Blog
+
+I remember back in 2019, when the handful of dreamers organizing “DWeb Camp” were imagining the potential impact of this event. We dreamed big: to inspire and re-energize people around [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2024/11/12/we-want-to-decentralize-the-dweb-movement/>
 
 ---
 
@@ -408,16 +468,4 @@ Müller, Lukas; Rothacher, Markus; Soja, Benedikt; Jäggi, Adrian; Arnold, Danie
 <br> 
 
 <http://hdl.handle.net/20.500.11850/704477>
-
----
-
-## Coffee Lecture: Protecting Yourself from Fraudulent Publishers
-
-date: 2024-11-09, from: ETH Zurich Research Archives
-
-Visit or Coffee Lecture on 27 November. Read more<img src="https://analytics.library.ethz.ch/piwik.php?idsite=1&amp;rec=1&amp;url=https%3A%2F%2Frc-blog.ethz.ch%2Fen%2Fcoffee-lecture-protecting-yourself-from-fraudulent-publishers%2F&amp;action_name=Coffee+Lecture%3A+Protecting+Yourself+from+Fraudulent+Publishers&amp;urlref=https%3A%2F%2Frc-blog.ethz.ch%2Fen%2Ffeed%2F" style="border:0;width:0;height:0" width="0" height="0" alt="" /> 
-
-<br> 
-
-<https://rc-blog.ethz.ch/en/coffee-lecture-protecting-yourself-from-fraudulent-publishers/>
 
