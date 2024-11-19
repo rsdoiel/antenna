@@ -8,6 +8,7 @@
 HTML_PAGES=$(shell ls -1 *.md | sed -E "s/.md/.html/")
 
 build: $(HTML_PAGES)
+	git add .
 
 %.html: %.md
 	pandoc -f markdown -t html5 \
