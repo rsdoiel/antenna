@@ -1,11 +1,93 @@
 ---
 title: writing
-updated: 2024-11-18 16:54:32
+updated: 2024-11-19 12:51:37
 ---
 
 # writing
 
-(date: 2024-11-18 16:54:32)
+(date: 2024-11-19 12:51:37)
+
+---
+
+## Estimated play time votes are now publicly attributed to you
+
+date: 2024-11-19, from: IF Database News
+
+<p>When we first launched the new <a href="https://ifdb.org/news?item=150">estimated play time</a> feature, each player's votes for a time were private and anonymous. But we have improvements planned that won't work well with anonymity, so we've decided to change our approach and to publicly attribute time votes to the player who posts them, just like reviews and ratings.
+
+<details><summary>Here's how the transition will work.</summary>
+<ul>
+<li>All 373 existing time votes are temporarily marked "Anonymous."</li>
+<li>All <i>new</i> time votes will link to the user who posted them, like this: "8h30m — <a href="https://ifdb.org/showuser?id=oyrrw74upu8n2dds">Dan Fabulich</a></li>
+<li>We'll email all 34 users who have submitted time votes, asking their permission to link their votes to their user name. (The email will include a list of your existing time votes.)</li>
+<li>If you decide that you're not comfortable linking your time votes to your user name, we'll delete your time votes from IFDB. (You'll still have your private copy in email, so you can always repost them at any time, but, if you do, the time votes will be publicly attributable to you.)</li>
+<li>After 30 days, on or around December 19, we'll delete any time votes from users who haven't granted us permission to link them publicly.</li>
+<li>After December 19, all existing time votes will be publicly attributed to the user who posted them.</li>
+</ul>
+
+<p>If you have questions, please reach out to us at <a href="mailto:ifdbadmin@ifdb.org">ifdbadmin@ifdb.org</a>.</details> 
+
+<br> 
+
+<https://ifdb.org/news?item=152>
+
+---
+
+## How Long Should My Movie Script Be?
+
+date: 2024-11-19, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-long-should-my-movie-script-be" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/How%20Long%20Should%20My%20Movie%20Script%20Be.png" alt="How Long Should My Movie Script Be?" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>‘How long should my movie script be?’ is a question many beginner screenwriters ask, and it’s an important one because it can impact your <a href="https://blog.finaldraft.com/3-must-ask-questions-before-you-write-a-sellable-script">script’s marketability</a>.&nbsp;<br><br>Below I explain why script size matters, reveal the ideal page range, and give tips on how to stay within that range.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/how-long-should-my-movie-script-be>
+
+---
+
+## Clueless (Encore)
+
+date: 2024-11-19, from: John August blog
+
+John and Craig analyze the iconic 1995 comedy Clueless, and why they’re majorly, totally, butt crazy in love with it. A contemporary adaptation of Jane Austen’s Emma set in Beverly Hills, Clueless follows protagonist Cher as she tries to do ‘good’ through make-over montages and match-making attempts. We discuss how the movie sets up the [&#8230;]
+The post <a href="https://johnaugust.com/2024/clueless-encore">Clueless (Encore)</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2024/clueless-encore>
+
+---
+
+## The Repeat Room by Jesse Ball: Review by Ian Mond
+
+date: 2024-11-19, from: Locus Magazine
+
+<p><strong>The Repeat Room</strong>, Jesse Ball (Catapult 978-1-64622-140-0, 256pp, $27.00, hc) Cover by Sara Wood. September 2024.</p>
+<p>I first came across Jesse Ball back in 2007 when his debut, <strong>Samedi the Deafness</strong>, was shortlisted for the Believer Book Award (a terrific prize that introduced me to authors as varied as Bennett Sims, Keith Ridgway, Valeria Luiselli, and Danielle Dutton. I miss it&#8230; and the magazine). I bought the novel  <a href="https://locusmag.com/2024/11/the-repeat-room-by-jesse-ball-review-by-ian-mond/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/11/the-repeat-room-by-jesse-ball-review-by-ian-mond/>
+
+---
+
+## New Books, 19 November 2024
+
+date: 2024-11-19, from: Locus Magazine
+
+<p>Anderson, Kevin J.: <b>Horror and Dark Fantasy Stories, Volume 2</b>
+(WordFire Press 9781680577198, $18.99, 332pp, formats: trade paperback, hardcover, ebook, 11/19/2024)</p>
+<p>Second volume of horror and dark fantasy stories in Anderson&#8217;s short story series, with stories about ancient gods and unleashed demons, resurrected rock stars and bloodthirsty drums, haunted trains, the boogeyman, as well as Bela Lugosi and the real Vlad the Impaler.</p>
+<p>&#160;</p>
+<p>Ashta, Lucía: <b>Ride and Die</b>
+(Podium  <a href="https://locusmag.com/2024/11/new-books-19-november-2024/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/11/new-books-19-november-2024/>
 
 ---
 

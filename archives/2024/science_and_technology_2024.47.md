@@ -1,11 +1,359 @@
 ---
 title: science and technology
-updated: 2024-11-18 16:54:31
+updated: 2024-11-19 12:51:36
 ---
 
 # science and technology
 
-(date: 2024-11-18 16:54:31)
+(date: 2024-11-19 12:51:36)
+
+---
+
+## See Every Nook and Cranny of St. Peter's Basilica With This New, Stunningly Accurate 3D Replica
+
+date: 2024-11-19, from: Smithsonian Magazine
+
+Microsoft and the Vatican used artificial intelligence to virtually recreate the historic Vatican City church 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-vaticans-ai-generated-st-peters-basilica-visitors-to-explore-unforeseen-angles-of-the-church-180985502/>
+
+---
+
+## America's drinking water systems have a hard-to-swallow cybersecurity problem
+
+date: 2024-11-19, updated: 2024-11-19, from: The Register (UK I.T. News)
+
+<h4>More than 100 million rely on systems rife with vulnerabilities, says EPA OIG</h4> <p>Nearly a third of US residents are served by drinking water systems with cybersecurity shortcomings, the Environmental Protection Agency&#39;s Office of Inspector General found in a recent study – and the agency lacks its own system to track potential attacks. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/19/us_drinking_water_systems_cybersecurity/>
+
+---
+
+## FLTK 1.4.0 brings Wayland support
+
+date: 2024-11-19, from: OS News
+
+FLTK 1.4.0 has been released. This new version of the Fast Light Toolkit contains some major improvements, such as Wayland support on both Linux and FreeBSD. X11 and Wayland are both supported by default, and applications using FLTK will launch using Wayland if available, and otherwise fall back to starting with X11. This new release also brings HiDPI support on Linux and Windows, and improves said support on macOS. Those are the headline features, but there&#8217;s more changes here, of course, as well as the usual round of bugfixes. Right after the release of 1.4.0, a quick bugfix release, version 1.4.0-1, was released to address an issue in 1.4.0 &#8211; a build error on a single test program on Windows, when using Visual Studio. Not exactly a major bug, but great to see the team fix it so rapidly. 
+
+<br> 
+
+<https://www.osnews.com/story/141163/fltk-1-4-0-brings-wayland-support/>
+
+---
+
+## Northwestern University Takes Top Honors in BIG Idea Lunar Inflatables Challenge
+
+date: 2024-11-19, from: NASA breaking news
+
+Following eight months of intense research, design, and prototyping, six university teams presented their “Inflatable Systems for Lunar Operations” concepts to a panel of judges at NASA’s 2024 Breakthrough, Innovative and Game-Changing (BIG) Idea Challenge forum.&#160; The challenge, funded by NASA&#8217;s Space Technology Mission Directorate and Office of STEM Engagement, seeks novel ideas from higher [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/northwestern-university-takes-top-honors-in-big-idea-lunar-inflatables-challenge/>
+
+---
+
+## Super Insulation Requires Super Materials
+
+date: 2024-11-19, from: NASA breaking news
+
+NASA researchers helped create an insulation coating that blocks heat and sunlight  
+
+<br> 
+
+<https://www.nasa.gov/technology/tech-transfer-spinoffs/super-insulation-requires-super-materials/>
+
+---
+
+## Microsoft breaks timezones in Settings and calls on an unlikely ally for help
+
+date: 2024-11-19, updated: 2024-11-19, from: The Register (UK I.T. News)
+
+<h4>Control Panel hobbles to the rescue!</h4> <p>As its Ignite conference kicks off, Microsoft is admitting there is another known issue with Windows 11 24H2. If you try to change the time zone, you might find it a challenge.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_breaks_timezones_in_settings/>
+
+---
+
+## New 3D Bioprinter Could Build Replicas of Human Organs, Offering a Boost for Drug Discovery
+
+date: 2024-11-19, from: Smithsonian Magazine
+
+The invention uses light, sound and bubbles to quickly create copies of soft tissue that might one day support testing individualized therapies for cancer and other diseases 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/new-3d-bioprinter-could-build-replicas-of-human-organs-offering-a-boost-for-drug-discovery-180985460/>
+
+---
+
+## Microsoft Fabric promises transactions, analytics on one database service
+
+date: 2024-11-19, updated: 2024-11-19, from: The Register (UK I.T. News)
+
+<h4>Windows giant also improving Iceberg support after throwing lot in with Delta Parquet</h4> <p><strong>Ignite</strong>  <a target="_blank" href="https://www.theregister.com/YourLinkHere">theregister.com</a>…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_data_platform_fabric_upgrade/>
+
+---
+
+## Bob Swap Builds Bridges With ‘Science Diplomacy’
+
+date: 2024-11-19, from: NASA breaking news
+
+Associate Director for Mission Planning, Earth Sciences, and environmental scientist Robert J. “Bob” Swap makes a difference by putting knowledge into action. Name: Robert J. “Bob” SwapTitle: Associate Director for Mission Planning, Earth SciencesOrganization: Earth Science Division (Code 610) What do you do and what is most interesting about your role here at Goddard? I [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/people-of-nasa/goddard-people/bob-swap-builds-bridges-with-science-diplomacy/>
+
+---
+
+## Supermicro hot-swaps auditor in hope of dodging Nasdaq delisting
+
+date: 2024-11-19, updated: 2024-11-19, from: The Register (UK I.T. News)
+
+<h4>Server maker tries accounting reboot amid reports of customers bailing</h4> <p>Server maker Supermicro has appointed a new independent auditor and submitted a compliance plan to the Nasdaq stock exchange to avoid being delisted amid reports it is losing customers because of uncertainty over its future.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/19/supermicro_new_auditor_nasdaq/>
+
+---
+
+## An Ancient Tablet Inscribed With Nine of the Ten Commandments From the Book of Exodus Is for Sale
+
+date: 2024-11-19, from: Smithsonian Magazine
+
+The marble slab, which dates to between 300 and 500 C.E., is the oldest-known stone tablet inscribed with the Commandments. Nobody recognized its significance until decades after its discovery 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/an-ancient-tablet-inscribed-with-nine-of-the-ten-commandments-from-the-book-of-exodus-is-for-sale-180985473/>
+
+---
+
+## Palo Alto Networks tackles firewall-busting zero-days with critical patches
+
+date: 2024-11-19, updated: 2024-11-19, from: The Register (UK I.T. News)
+
+<h4>Amazing that these two bugs got into a production appliance, say researchers</h4> <p>Palo Alto Networks (PAN) finally released a CVE identifier and patch for the zero-day exploit that caused such a fuss last week.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/19/palo_alto_networks_patches/>
+
+---
+
+## Microsoft goes thin client with $349 Windows 365 Link mini PC
+
+date: 2024-11-19, updated: 2024-11-19, from: The Register (UK I.T. News)
+
+<h4>Just as good as Apple at making squat boxes, but this one doesn&#39;t do very much</h4> <p><strong>Ignite</strong>  Microsoft is having a go at the terminal market with a device purpose-built to connect to Windows 365, imaginatively named &#34;Windows 365 Link.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_windows_365_link/>
+
+---
+
+## Database warhorse SQL Server 2025 goes all-in on AI
+
+date: 2024-11-19, updated: 2024-11-19, from: The Register (UK I.T. News)
+
+<h4>Better locking, improved query optimization, and... Copilot</h4> <p><strong>Ignite</strong>  A new version of Microsoft&#39;s database warhorse, SQL Server, is on the way, with some useful improvements squeezed between the inevitable artificial intelligence additions.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_sql_server_2025/>
+
+---
+
+## Microsoft unleashes autonomous Copilot AI agents in public preview
+
+date: 2024-11-19, updated: 2024-11-19, from: The Register (UK I.T. News)
+
+<h4>They can learn, adapt, and make decisions – but don&#39;t worry, they&#39;re not coming for <i>your</i> job</h4> <p><strong>Ignite</strong>  Microsoft has fresh tools out designed to help businesses build software agents powered by foundation models – overenthusiastically referred to as artificial intelligence, or AI.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/19/microsoft_autonomous_copilot_ai/>
+
+---
+
+## NASA Engineer Carries Indigenous Roots into New Aviation Era
+
+date: 2024-11-19, from: NASA breaking news
+
+Growing up outside of Philadelphia, Abigail Reigner spent most of her childhood miles away from where her family called home, and where there was little trace of her Native American tribe and culture. Belonging to the Comanche Nation that resides in Lawton, Oklahoma, Reigner’s parents made every effort to keep her connected to her Indigenous [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/nasa-engineer-carries-indigenous-roots-into-new-aviation-era/>
+
+---
+
+## See the Dazzling Diamond Necklace With Possible Ties to Marie Antoinette That Just Sold for $4.8 Million
+
+date: 2024-11-19, from: Smithsonian Magazine
+
+Some of the gems may have featured in a royal scandal known as the "affair of the diamond necklace" that damaged the French queen’s reputation in 1785 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/see-the-dazzling-diamond-necklace-with-possible-ties-to-marie-antoinette-that-just-sold-for-48-million-180985484/>
+
+---
+
+## Crook breaks into AI biz, points $250K wire payment at their own account
+
+date: 2024-11-19, updated: 2024-11-19, from: The Register (UK I.T. News)
+
+<h4>Fastidious attacker then tidied up email trail behind them</h4> <p>A Maryland AI company has confirmed to the Securities and Exchange Commission (SEC) that it lost $250,000 to a misdirected wire payment.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/19/ilearningengines_bec_scam/>
+
+---
+
+## Europe glances Russia's way after Baltic Sea data cables severed
+
+date: 2024-11-19, updated: 2024-11-19, from: The Register (UK I.T. News)
+
+<h4>Probe continues into disruption affecting Germany, Sweden, Finland, Lithuania</h4> <p><strong>Updated</strong>  Two optical fiber internet cables under the Baltic Sea appear to have been deliberately broken, Germany and Finland confirmed, prompting fresh concerns over possible Russian interference with technology infrastructure.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/19/baltic_sea_cables_cut/>
+
+---
+
+## Northern Ireland schools ditch £485M Fujitsu deal after less than a year
+
+date: 2024-11-19, updated: 2024-11-19, from: The Register (UK I.T. News)
+
+<h4>&#39;Mutual agreement&#39; sees end of contract</h4> <p><strong>Updated</strong>  Fujitsu and a UK public authority have ended a £485 million ($613 million) contract the pair announced in the weeks following a national scandal around the Post Office computer system implemented by the Japanese tech services giant.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/19/northern_ireland_schools_fujitsu/>
+
+---
+
+## Abraham Lincoln's Legendary Gettysburg Address Promised 'Government of the People, by the People, for the People'
+
+date: 2024-11-19, from: Smithsonian Magazine
+
+The president's humble speech, delivered on this day in 1863, was filled with profound reverence for the Union's ideals—and the men who died fighting for them 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/abraham-lincolns-legendary-gettysburg-address-promised-government-of-the-people-by-the-people-for-the-people-180985477/>
+
+---
+
+## Windows 95 setup was three programs in a trench coat, Microsoft vet reveals
+
+date: 2024-11-19, updated: 2024-11-19, from: The Register (UK I.T. News)
+
+<h4>MS-DOS, a minimal Windows 3.1, and finally the teal delight of Windows 95 awaited installers</h4> <p>Microsoft veteran Raymond Chen has settled once and for all the question of why the Windows 95 setup program went on a tour of GUIs before finally introducing the user to the concept of the Start Menu.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/19/chen_windows_95_setup/>
+
+---
+
+## iOS 18 added secret and smart security feature that reboots iThings after three days
+
+date: 2024-11-19, updated: 2024-11-19, from: The Register (UK I.T. News)
+
+<h4>Security researcher&#39;s reverse engineering effort reveals undocumented reboot timer that will make life harder for attackers</h4> <p>Apple&#39;s latest mobile operating system, iOS 18, appears to have added an undocumented security feature that reboots devices if they’re not used for 72 hours.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/19/ios_18_secret_reboot/>
+
+---
+
+## Why did Windows 95 setup use three operating systems?
+
+date: 2024-11-19, from: OS News
+
+Way back in April of this year, I linked to a question and answer about why some parts of the Windows 98 installer looked older than the other parts. It turns out that in between the MS-DOS (the blue part) and Windows 98 parts of the installation process, the installer boots into a small version of Windows 3.1. Raymond Chen posted an article detailing this process for Windows 95, and why, exactly, Microsoft had to resort to splitting the installer between MS-DOS, Windows 3.1, and Windows 95. The answer is, as always, backwards compatibility. Since Windows 95 could be installed from MS-DOS, Windows 3.1, and Windows 95 (to fix an existing installation), the installer needed to be able to work on all three. The easiest solution would be to write the installer as an MS-DOS program, since that works on all three of these starting points, but that would mean an ugly installer, even though Windows 95 was supposed to be most people&#8217;s first experience with a graphical user interface. This is why Microsoft ended up with the tiered installation process &#8211; to support all possible starting points in the most graphical way possible. Chen also mentions another fun fact that is somewhat related to this: the first version of Excel for Windows was shipped with a version of the Windows 2.1 runtime, so that even people without Windows could still run Excel. Even back then, Microsoft took backwards compatibility seriously, and made sure people who hadn&#8217;t upgraded from MS-DOS to Windows 2.x yet &#8211; meaning, everyone &#8211; could still enjoy the spreadsheet lifestyle. I say we pass some EU law forcing Microsoft to bring this back. The next version of Excel should contain whatever is needed to run it on MS-DOS. Make it happen, Brussels. 
+
+<br> 
+
+<https://www.osnews.com/story/141161/why-did-windows-95-setup-use-three-operating-systems/>
+
+---
+
+## Citrix gives its Platform a polish with enhanced management tools
+
+date: 2024-11-19, updated: 2024-11-19, from: The Register (UK I.T. News)
+
+<h4>Admins promised they can get stuff done with fewer clicks this year … or maybe next</h4> <p>Citrix has delivered a little of what it promised in March, when it bundled its software into a &#34;Platform,&#34; in the form of new management tools and a revamped user interface.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/19/citrix_platform_updates/>
+
+---
+
+## Robot runs marathon in South Korea, apparently the first time this has happened
+
+date: 2024-11-19, updated: 2024-11-19, from: The Register (UK I.T. News)
+
+<h4>Finishing in 4:19:52 makes it a SlowBot - although it did finish without a battery top-up</h4> <p>The South Korean Advanced Institute of Science and Technology has forced one of its robo-dogs to run a marathon.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/19/robo_dogs_marathons/>
+
+---
+
+## Hardware barn denies that .004 seconds of facial recognition violated privacy
+
+date: 2024-11-19, updated: 2024-11-19, from: The Register (UK I.T. News)
+
+<h4>Claims it was just spotting shoppers who threatened staff at Bluey&#39;s favorite big box store</h4> <p>Australian hardware chain Bunnings Warehouse will challenge a ruling by local regulators who found it violated shoppers&#39; privacy by checking their identities with facial recognition tech.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/19/facial_recognition_privacy_appeal_bunnings_australia/>
+
+---
+
+## India slaps Meta with five-year ban on sharing info from WhatsApp for ads
+
+date: 2024-11-19, updated: 2024-11-19, from: The Register (UK I.T. News)
+
+<h4>Shouldn&#39;t have abused messaging dominance, Zuck</h4> <p>India&#39;s Competition Commission has slapped Meta with a five-year ban on using info collected from WhatsApp to help with advertising on its other platforms.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/19/india_whatsapp_data_sharing_sanctions/>
+
+---
+
+## Trump's pick to run the FCC has told us what he plans: TikTok ban, space broadband, and Section 230 reform
+
+date: 2024-11-19, updated: 2024-11-19, from: The Register (UK I.T. News)
+
+<h4>Loathes Big Tech and is not at all keen on net neutrality</h4> <p>President-elect Donald Trump has announced his choice for head of the United States Federal Communications Commission: a current commissioner, Brendan Carr, whom Trump appointed last time he was in there White House.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/19/brendan_carr_fcc/>
 
 ---
 
@@ -299,7 +647,7 @@ Clayton P. Turner will serve as the associate administrator of the Space Technol
 
 ## LLNL's El Capitan surpasses Frontier with 1.74 exaFLOPS performance
 
-date: 2024-11-18, updated: 2024-11-18, from: The Register (UK I.T. News)
+date: 2024-11-18, updated: 2024-11-19, from: The Register (UK I.T. News)
 
 <h4>Uncle Sam tops supercomputer charts, while China recides from public view</h4> <p><strong>SC24</strong>  Lawrence Livermore National Lab&#39;s (LLNL) El Capitan system has ended Frontier&#39;s 2.5-year reign as the number one ranked supercomputer on the Top500, setting a new high water mark for high-performance computing (HPC).…</p> 
 

@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2024-11-18 16:54:35
+updated: 2024-11-19 12:51:37
 ---
 
 # libraries
 
-(date: 2024-11-18 16:54:35)
+(date: 2024-11-19 12:51:37)
 
 ---
 
@@ -18,6 +18,20 @@ Baune, Konstantin; Broedel, Johannes; Im, Egor; Lisitsyn, Artyom; Zerbini, Feder
 <br> 
 
 <http://hdl.handle.net/20.500.11850/700705>
+
+---
+
+## Is it Over Now (Social Media Version)?
+
+date: 2024-11-19, from: Scholarly Kitchen
+
+<p>In 2023 we twice assessed the social media landscape and with the explosion of Bluesky over the last weeks it seemed a good time to reassess.  How do Chefs use social media differently now, and what are they seeing as platforms of choice or opportunity?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/11/19/is-it-over-now-social-media-version/">Is it Over Now (Social Media Version)?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2024/11/19/is-it-over-now-social-media-version/>
 
 ---
 

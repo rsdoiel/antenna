@@ -1,11 +1,59 @@
 ---
 title: health
-updated: 2024-11-18 16:54:36
+updated: 2024-11-19 12:51:38
 ---
 
 # health
 
-(date: 2024-11-18 16:54:36)
+(date: 2024-11-19 12:51:38)
+
+---
+
+## Corrigendum: Characteristics of the vaginal microbiota and vaginal metabolites in women with cervical dysplasia
+
+date: 2024-11-19, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1527287>
+
+---
+
+## Corrigendum: Research progress of traditional Chinese medicine on the treatment of diarrhea by regulating intestinal microbiota and its metabolites based on renal-intestinal axis
+
+date: 2024-11-19, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1524374>
+
+---
+
+## SarZ inhibits the hemolytic activity through regulation of phenol soluble modulins in Staphylococcus epidermidis
+
+date: 2024-11-19, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundStaphylococcus epidermidis is an important conditionally pathogenic bacterium. SarZ, belonging to the SarA family protein, has been demonstrated in S. aureus to promote the expression of invasive virulence factors while inhibiting biofilm formation. However, the regulatory role of SarZ on S. epidermidis virulence is not completely understood.ResultsIn this study, we successfully deleted the sarZ gene by allelic replacement in S. epidermidis. The sarZ mutant strain exhibited remarkably increased hemolytic activity and drastically impaired biofilm formation, suggesting that SarZ is key regulator of virulence in S. epidermidis. Through butanol extraction of the spent medium and HPLC-MS/MS analysis, production of phenol soluble modulins (PSMs) possessing cytolytic effect was found to be elevated significantly in the mutant. Subsequent qRT-PCR experiments demonstrated that expression of the psm genes, especially the β-type, was upregulated dramatically in the mutant. Meanwhile, transcription of icaA gene responsible for biofilm formation was sharply diminished. The sarZ psmβ double mutant was further generated and displayed a significantly decreased hemolytic activity compared with the sarZ mutant. EMSA assays implied that recombinant SarZ protein can directly bind to the promoter regions of the psmβ and ica operon. DNase I footprinting assays further pinpointed two SarZ-binding sites on the psmβ operon promoter.ConclusionTaken together, the results confirmed that SarZ is a pivotal regulator of virulence in S. epidermidis and might respectively regulate the hemolytic activity and biofilm formation mainly by directly controlling the transcription of psm genes, particularly the β-type, and the ica operon. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1476287>
+
+---
+
+## Unveiling the hidden link: elevated platelets and T cell subsets in 5% of moderate COVID-19 patients 48 days post-onset
+
+date: 2024-11-19, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionPlatelets are hyperactived during acute COVID-19, promoting clotting and modulating immune-cell responses. Immune thrombocytopenia in adults can manifest as an uncommon complication resulting from various viral infections or as a rare adverse event associated with vaccination. However, their role in convalescent COVID-19 patients remains underexplored. This study examines platelet dynamics early in the pandemic, 48 days post-symptom onset, in unvaccinated patients.MethodsThis longitudinal study included 298 unvaccinated COVID-19 patients (17 mild, 281 moderate) from multiple centers. Clinical evaluations and peripheral lymphocyte subset analyses via flow cytometry were conducted upon admission and on day 48 post-symptom onset (DPSO 48).ResultsAt DPSO 48, 5.3% of moderate COVID-19 patients exhibited high platelet counts (>300×109/L), associated with elevated total T-cells (26.4%), CD4 T-cells (24.4%), CD8 T-cells (36.9%), and Tregs (33.9%) compared to patients with normal platelet counts. However, the CD4/CD8 T-cell ratio and T-cell subset frequencies remained unaffected, indicating ongoing T-cell homeostasis restoration. Additionally, a significant positive correlation (r=0.636, p=0.03) was found between platelet counts and B cells in patients with elevated platelet counts.DiscussionPlatelets may play a pivotal role in immune regulation during the recovery phase of COVID-19. Targeting platelets and their secreted mediators could improve immune balance in patients with immune disorders, highlighting a potential therapeutic approach for enhancing recovery in post-COVID-19 patients. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1498491>
 
 ---
 

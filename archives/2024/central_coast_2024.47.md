@@ -1,11 +1,142 @@
 ---
 title: central coast
-updated: 2024-11-18 16:54:31
+updated: 2024-11-19 12:51:36
 ---
 
 # central coast
 
-(date: 2024-11-18 16:54:31)
+(date: 2024-11-19 12:51:36)
+
+---
+
+## A Legacy of Compassion: How ASAP Cats Is Giving Santa Barbara’s Cats a Second Chance
+
+date: 2024-11-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="771" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/ASAP-CATS-3-1-scaled.jpg?fit=1024%2C771&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="ASAP Cats mascot, Basil." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/ASAP-CATS-3-1-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/ASAP-CATS-3-1-scaled.jpg?resize=300%2C226&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/ASAP-CATS-3-1-scaled.jpg?resize=1024%2C771&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/ASAP-CATS-3-1-scaled.jpg?resize=768%2C578&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/ASAP-CATS-3-1-scaled.jpg?resize=1536%2C1157&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/ASAP-CATS-3-1-scaled.jpg?resize=2048%2C1542&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/ASAP-CATS-3-1-scaled.jpg?resize=400%2C301&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/ASAP-CATS-3-1-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/ASAP-CATS-3-1-scaled.jpg?resize=1200%2C904&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/ASAP-CATS-3-1-scaled.jpg?resize=1568%2C1181&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/ASAP-CATS-3-1-scaled.jpg?resize=2000%2C1506&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/ASAP-CATS-3-1-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/ASAP-CATS-3-1-scaled.jpg?fit=1024%2C771&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Since 1989, ASAP Cats has been providing shelter, veterinary care, behavioral support, adopter and foster services, feline education, and community outreach</p>
+<p>The post <a href="https://www.noozhawk.com/a-legacy-of-compassion-how-asap-cats-is-giving-santa-barbaras-cats-a-second-chance/">A Legacy of Compassion: How ASAP Cats Is Giving Santa Barbara’s Cats a Second Chance</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/a-legacy-of-compassion-how-asap-cats-is-giving-santa-barbaras-cats-a-second-chance/>
+
+---
+
+## Tracy Beckerman: A Golden Retriever’s Guide to Small Talk
+
+date: 2024-11-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>We didn’t know it when we got him, of course. He didn’t reveal this talent to us right away. He would vocalize occasionally in dog-speak, but no one really had [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/tracy-beckerman-a-golden-retrievers-guide-to-small-talk/">Tracy Beckerman: A Golden Retriever’s Guide to Small Talk</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/tracy-beckerman-a-golden-retrievers-guide-to-small-talk/>
+
+---
+
+## Giving Back Through the Arts: UCSB Arts & Lectures’ 65 Years of Community Engagement
+
+date: 2024-11-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="629" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Alivin-Ailey_MAIN-IMAGE-Members-of-AAADT.-Photo-by-Dario-Calmese_horiz-1-scaled.jpg?fit=1024%2C629&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Alvin Ailey American Dance Theater" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Alivin-Ailey_MAIN-IMAGE-Members-of-AAADT.-Photo-by-Dario-Calmese_horiz-1-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Alivin-Ailey_MAIN-IMAGE-Members-of-AAADT.-Photo-by-Dario-Calmese_horiz-1-scaled.jpg?resize=300%2C184&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Alivin-Ailey_MAIN-IMAGE-Members-of-AAADT.-Photo-by-Dario-Calmese_horiz-1-scaled.jpg?resize=1024%2C629&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Alivin-Ailey_MAIN-IMAGE-Members-of-AAADT.-Photo-by-Dario-Calmese_horiz-1-scaled.jpg?resize=768%2C472&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Alivin-Ailey_MAIN-IMAGE-Members-of-AAADT.-Photo-by-Dario-Calmese_horiz-1-scaled.jpg?resize=1536%2C943&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Alivin-Ailey_MAIN-IMAGE-Members-of-AAADT.-Photo-by-Dario-Calmese_horiz-1-scaled.jpg?resize=2048%2C1258&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Alivin-Ailey_MAIN-IMAGE-Members-of-AAADT.-Photo-by-Dario-Calmese_horiz-1-scaled.jpg?resize=1200%2C737&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Alivin-Ailey_MAIN-IMAGE-Members-of-AAADT.-Photo-by-Dario-Calmese_horiz-1-scaled.jpg?resize=1568%2C963&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Alivin-Ailey_MAIN-IMAGE-Members-of-AAADT.-Photo-by-Dario-Calmese_horiz-1-scaled.jpg?resize=2000%2C1228&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Alivin-Ailey_MAIN-IMAGE-Members-of-AAADT.-Photo-by-Dario-Calmese_horiz-1-scaled.jpg?resize=400%2C246&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Alivin-Ailey_MAIN-IMAGE-Members-of-AAADT.-Photo-by-Dario-Calmese_horiz-1-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Alivin-Ailey_MAIN-IMAGE-Members-of-AAADT.-Photo-by-Dario-Calmese_horiz-1-scaled.jpg?fit=1024%2C629&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>UCSB Arts &#038; Lectures presents more than 100 events annually, from critically-acclaimed concerts and dance performances by world-renowned artists to talks by groundbreaking authors and film series at UCSB and Santa Barbara-area venues</p>
+<p>The post <a href="https://www.noozhawk.com/giving-back-through-the-arts-ucsb-arts-lectures-65-years-of-community-engagement/">Giving Back Through the Arts: UCSB Arts &amp; Lectures’ 65 Years of Community Engagement</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/giving-back-through-the-arts-ucsb-arts-lectures-65-years-of-community-engagement/>
+
+---
+
+## Cuyama Valley Farm Tied to Carrot Recall, E. Coli Outbreak
+
+date: 2024-11-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>A California carrot grower with farms on the Central Coast is linked to a national outbreak of E. coli, according to the U.S. Centers for Disease Control and Prevention. The [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/cuyama-valley-farm-tied-to-carrot-recall-e-coli-outbreak/">Cuyama Valley Farm Tied to Carrot Recall, E. Coli Outbreak</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/cuyama-valley-farm-tied-to-carrot-recall-e-coli-outbreak/>
+
+---
+
+## Snow in the Forecast for Holiday Tree Lighting at Paseo Nuevo
+
+date: 2024-11-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Snowfall is predicted for Paseo Nuevo’s annual Holiday Tree Lighting, Dec. 1, and the community is invited to join Santa Barbara Mayor Rowse, DJ Darla Bea, and Santa Claus at [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/snow-in-the-forecast-for-holiday-tree-lighting-at-paseo-nuevo/">Snow in the Forecast for Holiday Tree Lighting at Paseo Nuevo</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/snow-in-the-forecast-for-holiday-tree-lighting-at-paseo-nuevo/>
+
+---
+
+## Gold Card Ceremony Season Begins at United Boys & Girls Clubs
+
+date: 2024-11-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="556" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111824-BGCSBC-2000.gif?fit=1024%2C556&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="UBGC Buellton Club kids receive their Gold Cards at City Hall. (Courtesy photo)" decoding="async" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The United Boys &#38; Girls Clubs of Santa Barbara County (UBGC) has announced the opening of this year’s Gold Card Ceremony season, starting with an event last week at Buellton [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/gold-card-ceremony-season-begins-at-united-boys-girls-clubs/">Gold Card Ceremony Season Begins at United Boys &amp; Girls Clubs</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/gold-card-ceremony-season-begins-at-united-boys-girls-clubs/>
+
+---
+
+## Sunset on the Upper Eastside
+
+date: 2024-11-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102524-POD-Stephen-Fountain.webp?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Sunset at Alice Keck Memorial Park on Santa Barbara’s Upper Eastside." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102524-POD-Stephen-Fountain.webp?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102524-POD-Stephen-Fountain.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102524-POD-Stephen-Fountain.webp?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102524-POD-Stephen-Fountain.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102524-POD-Stephen-Fountain.webp?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102524-POD-Stephen-Fountain.webp?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102524-POD-Stephen-Fountain.webp?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102524-POD-Stephen-Fountain.webp?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102524-POD-Stephen-Fountain.webp?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102524-POD-Stephen-Fountain.webp?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102524-POD-Stephen-Fountain.webp?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/102524-POD-Stephen-Fountain.webp?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/sunset-on-the-upper-eastside/">Sunset on the Upper Eastside</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/sunset-on-the-upper-eastside/>
+
+---
+
+## Groundbreaking Ceremony Celebrates Construction of Santa Barbara Police Station
+
+date: 2024-11-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111824-Police-Chief-Kelly-Gordon-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Santa Barbara Police Chief Kelly Gordon says the community deserves a new police station." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111824-Police-Chief-Kelly-Gordon-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111824-Police-Chief-Kelly-Gordon-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111824-Police-Chief-Kelly-Gordon-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111824-Police-Chief-Kelly-Gordon-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111824-Police-Chief-Kelly-Gordon-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111824-Police-Chief-Kelly-Gordon-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111824-Police-Chief-Kelly-Gordon-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111824-Police-Chief-Kelly-Gordon-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111824-Police-Chief-Kelly-Gordon-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Dreams do come true. After decades of disappointment, the City of Santa Barbara is finally building a new police headquarters. &#8220;I am just really excited to be able to lead [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/groundbreaking-ceremony-celebrates-construction-of-santa-barbara-police-station/">Groundbreaking Ceremony Celebrates Construction of Santa Barbara Police Station</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/groundbreaking-ceremony-celebrates-construction-of-santa-barbara-police-station/>
+
+---
+
+## Santa Barbara Plans Overhaul of Milpas Street to Improve Safety
+
+date: 2024-11-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111824-Milpas-Street-Rendering-Courtesy.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Proposed changes for Milpas Street in Santa Barbara include adding lighting, extending curbs and widening sidewalks to help improve safety." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111824-Milpas-Street-Rendering-Courtesy.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111824-Milpas-Street-Rendering-Courtesy.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111824-Milpas-Street-Rendering-Courtesy.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111824-Milpas-Street-Rendering-Courtesy.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111824-Milpas-Street-Rendering-Courtesy.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111824-Milpas-Street-Rendering-Courtesy.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111824-Milpas-Street-Rendering-Courtesy.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111824-Milpas-Street-Rendering-Courtesy.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/111824-Milpas-Street-Rendering-Courtesy.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Milpas Street in Santa Barbara is getting a makeover. The city&#8217;s Parks &#38; Recreation Commission is set to meet Wednesday to talk about adding lighting, extending curbs and widening sidewalks [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-plans-overhaul-of-milpas-street-to-improve-safety/">Santa Barbara Plans Overhaul of Milpas Street to Improve Safety</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/santa-barbara-plans-overhaul-of-milpas-street-to-improve-safety/>
 
 ---
 

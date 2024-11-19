@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2024-11-18 16:54:36
+updated: 2024-11-19 12:51:38
 ---
 
 # retro computing
 
-(date: 2024-11-18 16:54:36)
+(date: 2024-11-19 12:51:38)
+
+---
+
+## New Bywater BASIC Interpreter
+
+date: 2024-11-19, from: FreeDOS News
+
+<div class="markdown_content"><p>If you are interested in BASIC programming, you may like to know that a new release of bwBASIC is available. From the <a class="" href="https://sourceforge.net/p/bwbasic/news/2024/11/bwbasic-330-released/">announcement</a>, this release is "mainly just bug fixes from the last 7 years. But there are new makefiles for new environments too. A prebuilt Win32 x86 executable is provided too." You can download it from <a class="" href="https://sourceforge.net/projects/bwbasic/">Bywater BASIC</a> at SourceForge.</p></div> 
+
+<br> 
+
+<https://sourceforge.net/p/freedos/news/2024/11/new-bywater-basic-interpreter/>
+
+---
+
+## A loss for BASIC programmers
+
+date: 2024-11-19, from: FreeDOS News
+
+<div class="markdown_content"><p>We were sad to learn that Thomas Kurtz, co-inventor (with John Kemeny) of the BASIC programming language, <a class="" href="https://computerhistory.org/blog/in-memoriam-thomas-e-kurtz-1928-2024/" rel="nofollow">recently passed away</a> on November 12. Many of us got our start with computers by programming in BASIC. My early days of computing were on the Apple II computer, and I taught myself how to write programs in AppleSoft BASIC. Later, my family replaced the Apple with an IBM PC, and I learned IBM BASICA and GW-BASIC -- and much later, QBASIC on MS-DOS 5. BASIC holds a special place for many DOS programmers, and this is a deeply felt loss.</p></div> 
+
+<br> 
+
+<https://sourceforge.net/p/freedos/news/2024/11/a-loss-for-basic-programmers/>
 
 ---
 

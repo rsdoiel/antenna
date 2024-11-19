@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2024-11-18 16:54:37
+updated: 2024-11-19 12:51:39
 ---
 
 # craft
 
-(date: 2024-11-18 16:54:37)
+(date: 2024-11-19 12:51:39)
+
+---
+
+## 20% OFF ALL WORKSHOPS ONE MORE TIME! – Maiwa School of Textiles 20 Year Anniversary  —  Registration Opens December 9th at 9am Pacific Time
+
+date: 2024-11-19, updated: 2024-11-19, from: Maiwa blog (weaving and textiles)
+
+ 
+
+<br> 
+
+<https://maiwahandprints.blogspot.com/2024/11/20-off-all-workshops-one-more-time.html>
 
 ---
 

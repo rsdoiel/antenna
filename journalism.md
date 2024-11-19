@@ -1,11 +1,210 @@
 ---
 title: journalism
-updated: 2024-11-18 16:54:33
+updated: 2024-11-19 12:51:37
 ---
 
 # journalism
 
-(date: 2024-11-18 16:54:33)
+(date: 2024-11-19 12:51:37)
+
+---
+
+## The Green Line creates local news for the people turning away from “big-J journalism”
+
+date: 2024-11-19, from: Nieman Journalism Lab
+
+Toronto-based local news site The Green Line doesn’t just want to inform its audience; it aspires to improve their lives. The Green Line describes its mission as investigating “the way Torontonians live to report on solutions, actions, and resources that help you become happier in our city.” Launched in April 2022 and named for a... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/11/the-green-line-creates-local-news-for-the-people-turning-away-from-big-j-journalism/>
+
+---
+
+## Classifieds – November 19, 2024
+
+date: 2024-11-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/19/classifieds-november-19-2024/">Classifieds &#8211; November 19, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/19/classifieds-november-19-2024/>
+
+---
+
+## Hecuba, Tommy left unguarded at night for Conquest
+
+date: 2024-11-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Trojan Knights, along with Helenes, must leave watch by 11:30 p.m. every day.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/19/hecuba-tommy-left-unguarded-at-night-for-conquest/">Hecuba, Tommy left unguarded at night for Conquest</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/19/hecuba-tommy-left-unguarded-at-night-for-conquest/>
+
+---
+
+## The best stand-up comedy of 2024
+
+date: 2024-11-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Celebrating the greatest comedic minds of the year.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/19/the-best-stand-up-comedy-of-2024/">The best stand-up comedy of 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/19/the-best-stand-up-comedy-of-2024/>
+
+---
+
+## ‘CHROMAKOPIA’ invades Camp Flog Gnaw
+
+date: 2024-11-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Tyler, The Creator's music festival swept across the Dodger Stadium grounds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/19/chromakopia-invades-camp-flog-gnaw/">&#8216;CHROMAKOPIA&#8217; invades Camp Flog Gnaw</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/19/chromakopia-invades-camp-flog-gnaw/>
+
+---
+
+## Students react to outcomes of California ballot measures
+
+date: 2024-11-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Students expressed concern and confusion about the future of California politics.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/19/students-react-to-outcomes-of-california-ballot-measures/">Students react to outcomes of California ballot measures</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/19/students-react-to-outcomes-of-california-ballot-measures/>
+
+---
+
+## Bruin to Bruin: Jeffrey Schwartz
+
+date: 2024-11-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+Contributor Aidan Teeger sits down with Dr. Jeffrey Schwartz, a pioneering UCLA psychiatrist, to discuss his groundbreaking work combining mindfulness practices with neuroscience to treat obsessive-compulsive disorder and develop the &#8220;four-step method.&#8221; Through decades of research, he demonstrated how mental health practices can physically rewire the brain. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/18/bruin-to-bruin-jeffrey-schwartz-2/>
+
+---
+
+## Bruin to Bruin: Jeffrey Schwartz
+
+date: 2024-11-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+Contributor Aidan Teeger sits down with Dr. Jeffrey Schwartz, a pioneering UCLA psychiatrist, to discuss his groundbreaking work combining mindfulness practices with neuroscience to treat obsessive-compulsive disorder and develop the &#8220;four-step method.&#8221; Through decades of research, he demonstrated how mental health practices can physically rewire the brain. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/18/bruin-to-bruin-jeffrey-schwartz/>
+
+---
+
+## Camp Flog Gnaw wraps up its weekend with first-time performers, festival favorites
+
+date: 2024-11-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+As the final chords echoed across the Los Angeles skyline, Camp Flog Gnaw wrapped up its second day symphony with eclectic sounds and surprises.
+Tyler, The Creator&#8217;s annual music festival transformed Dodger Stadium on Sunday  into a playground of musical diversity. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/18/camp-flog-gnaw-wraps-up-its-weekend-with-first-time-performers-festival-favorites/>
+
+---
+
+## USAC recap – Nov. 12
+
+date: 2024-11-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council held its second meeting of November on Tuesday.
+USAC is the official student government that represents the undergraduate student body at UCLA. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/18/usac-recap-nov-12-4/>
+
+---
+
+## How situationships are ruining your dating life
+
+date: 2024-11-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Situationships have changed the way we think about finding love.</p>
+<p>The post <a href="https://dailytrojan.com/2024/11/18/how-situationships-are-ruining-your-dating-life/">How situationships are ruining your dating life</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/11/18/how-situationships-are-ruining-your-dating-life/>
+
+---
+
+## UCLA alumnus Kristin Hanggi presents emotional, complex musical about family
+
+date: 2024-11-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+Kristin Hanggi is preparing to strike audiences&#8217; hearts with her new musical, &#8220;It&#8217;s All Your Fault, Tyler Price!&#8221;
+Hanggi is a winner of the UCLA Theater, Film and Television Distinguished Alumni Award and produced the musical with composer Ben Decter. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/18/ucla-alumnus-kristin-hanggi-presents-emotional-complex-musical-about-family/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-19, from: The Daily Bruin (UCLA Student Newspaper))
+
+The defense presented images including one email from Child A&#8217;s mother to Mary Freund as well as four photos from visits to the school featuring a blue stick, the bathrooms and the loft structure on which children play. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/18/474155/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-19, from: The Daily Bruin (UCLA Student Newspaper))
+
+During Child B&#8217;s forensic interview, they had difficulty remembering the names and appearances of their teachers but said the teachers do wear gloves while helping children in the bathroom. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/18/474153/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-19, from: The Daily Bruin (UCLA Student Newspaper))
+
+In their interview, Child A said they understand that Rodriguez left work because he did something wrong. They detailed their experience being laid upon by Rodriguez during naptime as well as his touching of their private parts on five occasions on the same day. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/18/474151/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-19, from: The Daily Bruin (UCLA Student Newspaper))
+
+Jennifer Abrams Waxler, attorney for The People of the State of California, showed recordings of Child A&#8217;s, Child B&#8217;s and Child C&#8217;s individual forensic interviews at Stuart House – the Los Angeles County District Attorney&#8217;s Office&#8217;s center for child sexual abuse treatment – which took place Jan. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/18/474149/>
 
 ---
 

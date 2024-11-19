@@ -1,11 +1,347 @@
 ---
 title: going electric
-updated: 2024-11-18 16:54:37
+updated: 2024-11-19 12:51:39
 ---
 
 # going electric
 
-(date: 2024-11-18 16:54:37)
+(date: 2024-11-19 12:51:39)
+
+---
+
+## Stellantis unveils new Frame Platform for Jeep and Ram EVs, unlocking up to 500 miles range
+
+date: 2024-11-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Rams-first-electric-pickup-overseas.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Stellantis launched its newest EV platform on Tuesday. The new STLA Frame Platform will first underpin upcoming <a href="https://electrek.co/guides/jeep/">Jeep</a> and Ram EV models. According to Stellantis, it aims to provide “best-in-class capabilities,” including up to 500 miles range.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="jeep,ram-trucks,stellantis" data-layer-viewtype="unknown" data-post-id="389868" href="https://electrek.co/2024/11/19/jeep-ram-evs-gain-new-frame-platform-500-miles-range/#more-389868" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/19/jeep-ram-evs-gain-new-frame-platform-500-miles-range/>
+
+---
+
+## Extended-Range EVs Are The Next Big Thing. Will Drivers Plug Them In?
+
+date: 2024-11-19, from: Inside EVs News
+
+Automakers won’t say how plug-in hybrid owners behave. Is assuming EREV owners will plug in just magical thinking? 
+
+<br> 
+
+<https://insideevs.com/news/741555/erev-plug-in-scout-charging/>
+
+---
+
+## SkyDrive to bring more eVTOL air taxi services to South Carolina, home to its US headquarters
+
+date: 2024-11-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/SkyDrive-South-Carolina-eVTOL.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Japanese eVTOL developer SkyDrive continues to grow its order books and is now expanding potential air taxi operations in South Carolina, a state it chose as its US base last year. <a href="https://electrek.co/guides/skydrive/">SkyDrive</a> has signed a Memorandum of Understanding with one of the state’s largest private jet charter companies, which includes purchasing up to ten SKYDRIVE eVTOL aircraft.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="evtol,skydrive,south-carolina" data-layer-viewtype="unknown" data-post-id="389872" href="https://electrek.co/2024/11/19/skydrive-to-bring-evtol-air-taxi-services-south-carolina-home-us/#more-389872" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/19/skydrive-to-bring-evtol-air-taxi-services-south-carolina-home-us/>
+
+---
+
+## Lectric launches XPeak 2.0 e-bikes with $365 in free gear, Save $1,700 with Samsung Bespoke Black Friday appliance deals, more
+
+date: 2024-11-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Lectric-XPeak-2.0-High-Step-e-bike-2.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Today’s Green Deals are being led by yet another new Lectric release, as the brand launches its <a href="https://9to5toys.com/2024/11/19/lectric-launches-xpeak-2-0-e-bikes-1399/">XPeak 2.0 Off-Road e-bikes</a> for pre-order with $365 in free gear – all starting from the first-generation’s <a href="https://9to5toys.com/2024/11/19/lectric-launches-xpeak-2-0-e-bikes-1399/">$1,399 </a>price tag. Next we have Black Friday savings on <a href="https://9to5toys.com/2024/11/18/samsungs-bespoke-washer-dryer-black-friday-sale/">Samsung’s Bespoke AI Combo</a> All-in-One Electric Washer and Ventless Heat Pump Dryer starting from <a href="https://9to5toys.com/2024/11/18/samsungs-bespoke-washer-dryer-black-friday-sale/">$1,700</a>, along with an array of other Bespoke smart appliance deals. NIU has begun its full Black Friday event on its KQi series e-scooters, with the <a href="https://9to5toys.com/2024/11/18/nius-full-black-friday-sale-increases-savings/">KQi3 Max Electric Kick Scooter</a> back at its <a href="https://9to5toys.com/2024/11/18/nius-full-black-friday-sale-increases-savings/">$599</a> low. Lastly, we’re seeing the second-ever discount on <a href="https://9to5toys.com/2024/11/19/govee-smart-electric-composter-at-260/">Govee’s new Smart Electric Composter</a> that has dropped the price down to <a href="https://9to5toys.com/2024/11/19/govee-smart-electric-composter-at-260/">$260</a>. Plus, all the best hangover Green Deals from last week are in the links at the bottom of the page, like yesterday’s Black Friday savings on UGREEN’s three <a href="https://9to5toys.com/2024/11/18/ugreen-powerroam-black-friday-lows/">PowerRoam stations</a>, Segway <a href="https://9to5toys.com/2024/11/18/segways-early-black-friday-s-max-490-low/">Ninebot e-scooters</a>, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="389812" href="https://electrek.co/2024/11/19/lectric-xpeak-2-0-e-bikes-samsung-bespoke-black-friday-more/#more-389812" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/19/lectric-xpeak-2-0-e-bikes-samsung-bespoke-black-friday-more/>
+
+---
+
+## Arizona is getting 200 MW of Tesla battery storage to meet rising energy demand
+
+date: 2024-11-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/12/Tesla-Megapack.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Arizona’s grid is getting a huge 200 MW Tesla lithium-ion battery energy storage system to support the state’s growing energy demand.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="arizona,battery-storage,egeb,energy-brief,solar,grid,tesla-megapack" data-layer-viewtype="unknown" data-post-id="389807" href="https://electrek.co/2024/11/19/arizona-tesla-battery-storage/#more-389807" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/19/arizona-tesla-battery-storage/>
+
+---
+
+## Nuro expands L4 autonomous vehicle operations following several technical advancements
+
+date: 2024-11-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Nuro-autonomous-vehicle-driving.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Autonomous vehicle developer <a href="https://electrek.co/guides/nuro/">Nuro</a> has announced it is significantly expanding the capabilities of its zero-occupant vehicles. Powered by the company’s AI-enabled Nuro Driver system, these Level 4 autonomous vehicles are now operational in two states, expanding in both deployment and capabilities on the road.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="autonomous-vehicle,last-mile-delivery-evs,nuro" data-layer-viewtype="unknown" data-post-id="389816" href="https://electrek.co/2024/11/19/nuro-expands-l4-autonomous-vehicle-operations/#more-389816" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/19/nuro-expands-l4-autonomous-vehicle-operations/>
+
+---
+
+## NIO (NIO) eyes rapid overseas expansion as low-cost Onvo EV brand carves out a new market
+
+date: 2024-11-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/NIO-overseas-expansion.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>NIO (NYSE: NIO) plans to expand into 25 overseas markets by the end of next year. With its new lower-cost Onvo brand already driving demand, <a href="https://electrek.co/guides/nio/">NIO</a> expects to play a much bigger role in the global EV market. Will we see NIO’s electric vehicles launch in the US? Europe?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nio,nio-onvo" data-layer-viewtype="unknown" data-post-id="389814" href="https://electrek.co/2024/11/19/nio-eyes-rapid-overseas-expansion-new-onvo-ev-boosts-sales/#more-389814" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/19/nio-eyes-rapid-overseas-expansion-new-onvo-ev-boosts-sales/>
+
+---
+
+## Europe To China: Want Subsidies? Hand Over Your Technology
+
+date: 2024-11-19, from: Inside EVs News
+
+China's joint venture program is being applied in reverse as the EU demands cutting-edge battery tech. 
+
+<br> 
+
+<https://insideevs.com/news/741554/eu-china-jv-transfer-future/>
+
+---
+
+## Kia EV9 U.S. Production Slows Amid Stricter IRA Rules
+
+date: 2024-11-19, from: Inside EVs News
+
+Kia's electric family hauler hits a production bump as it prepares for stringent IRA rules for 2025. 
+
+<br> 
+
+<https://insideevs.com/news/741550/kia-ev9-production-slows-down-in-the-us/>
+
+---
+
+## Tesla gives exclusive Optimus robot and Cybercab preview to Kim Kardashian
+
+date: 2024-11-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Tesla-Optimus-gold-kim-k.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has evidently given an exclusive look at its Optimus robot and its new Cybercab to none other than Kim Kardashian.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="389808" href="https://electrek.co/2024/11/19/tesla-gives-exclusive-optimus-robot-and-cybercab-preview-to-kim-kardashian/#more-389808" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/19/tesla-gives-exclusive-optimus-robot-and-cybercab-preview-to-kim-kardashian/>
+
+---
+
+## Lectron May Be Producing More NACS To CCS Adapters Than Tesla
+
+date: 2024-11-19, from: Inside EVs News
+
+Ford's NACS adapter supplier, Lectron, has ramped up production to improve EV owners' access to Tesla Superchargers. 
+
+<br> 
+
+<https://insideevs.com/news/741543/lectron-12000-nacs-ccs-adapters-tesla-supercharger-access/>
+
+---
+
+## Is Nissan launching its sleek new N7 electric car overseas?
+
+date: 2024-11-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Nissan-N7-overseas.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/nissan/">Nissan</a> introduced its stylish new N7 electric sedan in China last week, but will it eventually be available overseas?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nissan" data-layer-viewtype="unknown" data-post-id="389766" href="https://electrek.co/2024/11/19/nissan-launching-sleek-new-n7-ev-overseas/#more-389766" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/19/nissan-launching-sleek-new-n7-ev-overseas/>
+
+---
+
+## EVgo to add up to 480 new EV fast chargers at Meijer locations across the Midwest
+
+date: 2024-11-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/EV-chargers-Meijer.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>US charging network <a href="https://electrek.co/guides/evgo/">EVgo</a> has announced an expanded partnership with supermarket chain Meijer to install up to 480 new fast chargers at store locations across the Midwestern United States. Meijer has already installed EV chargers at over a third of its store locations.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-chargers,ev-charging,ev-charging-stations,evgo" data-layer-viewtype="unknown" data-post-id="389747" href="https://electrek.co/2024/11/19/evgo-to-add-480-ev-fast-chargers-meijer-locations-across-midwest/#more-389747" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/19/evgo-to-add-480-ev-fast-chargers-meijer-locations-across-midwest/>
+
+---
+
+## 2025 GMC Sierra EV Denali first look: more (460!) miles and power
+
+date: 2024-11-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/image_38b3fb.png?w=1232" /></div><p>GMC’s third EV truck, if you count the Hummer and the Hummer SUV as two separate trucks, is the Sierra EV. The luxury pickup debuted as a $100K 2024 model 1 last year and got some modest upgrades for 2025. GMC flew us to the hills above Silicon Valley to check it out.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="389671" href="https://electrek.co/2024/11/19/2025-gmc-sierra-ev-denali-first-look-more-miles-and-power/#more-389671" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/19/2025-gmc-sierra-ev-denali-first-look-more-miles-and-power/>
+
+---
+
+## Check out Jaguar’s new look for its +$100,000 ultra-luxury EV lineup
+
+date: 2024-11-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Jaguars-new-look.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The British luxury automaker is undergoing its most significant transformation in <span style="margin: 0px; padding: 0px;">its 90-year </span>history. <a href="https://electrek.co/guides/jaguar/">Jaguar’s</a> new look captures the brand’s signature design as it shifts to an all-electric luxury EV lineup.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="jaguar,jaguar-land-rover" data-layer-viewtype="unknown" data-post-id="389736" href="https://electrek.co/2024/11/19/jaguars-new-look-100k-ultra-luxury-ev-lineup/#more-389736" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/19/jaguars-new-look-100k-ultra-luxury-ev-lineup/>
+
+---
+
+## China's 'Smart Cars' Are Coming For Tesla
+
+date: 2024-11-19, from: Inside EVs News
+
+Plus, Xiaomi is laughing all the way to the bank and the $25,000 EV dream is dying. 
+
+<br> 
+
+<https://insideevs.com/news/741429/china-smart-cars-tesla-cm/>
+
+---
+
+## VinFast starts US deliveries of its VF9 3-row SUV, and we got a quick drive in it
+
+date: 2024-11-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Photo-1-e1732048105764.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>VinFast delivered its first VF9 vehicles to customers in Los Angeles yesterday, kicking off US deliveries of the new 3-row electric SUV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="vinfast,vinfast-vf-9" data-layer-viewtype="unknown" data-post-id="389664" href="https://electrek.co/2024/11/19/vinfast-starts-us-deliveries-of-its-vf9-3-row-suv-and-we-got-a-quick-drive-in-it/#more-389664" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/19/vinfast-starts-us-deliveries-of-its-vf9-3-row-suv-and-we-got-a-quick-drive-in-it/>
+
+---
+
+## The Dannar MPS Is A 500 KWH Remote-Controlled Battery. And Everything Else You Could Imagine
+
+date: 2024-11-19, from: Inside EVs News
+
+Ever wondered what an American-made, all-electric Unimog could look like? 
+
+<br> 
+
+<https://insideevs.com/news/741520/dannar-mps-ev-platform/>
+
+---
+
+## Jaguar Has A New Logo
+
+date: 2024-11-19, from: Inside EVs News
+
+It’s a little more complicated than that, though. Here’s why. 
+
+<br> 
+
+<https://insideevs.com/news/741505/jaguar-new-logo/>
+
+---
+
+## Xiaomi raises delivery target yet again for its new EV, as ‘demand surges’
+
+date: 2024-11-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Ford-CEO-Chinese-EV-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>China’s Xiaomi has reported a 30.5% growth in third-quarter revenue for its EV business, with the company also bumping up its yearly delivery target for the SU7 series EVs to 130,000 units.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="389730" href="https://electrek.co/2024/11/19/xiaomi-raises-delivery-target-yet-again-for-its-new-ev-as-demand-surges/#more-389730" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/19/xiaomi-raises-delivery-target-yet-again-for-its-new-ev-as-demand-surges/>
+
+---
+
+## Lectric eBikes launches updated XPeak 2.0 off-road e-bike for a killer price
+
+date: 2024-11-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/lectric-xpeak-2.0-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Phoenix-based electric bike maker <a href="https://lectricebikes.sjv.io/vnANkv">Lectric Ebikes</a> has been on a tear lately, launching updated versions of its wildly popular electric bicycle models. The latest in a string of affordably priced updates is the new Lectric XPeak off-road e-bike, packing a surprising amount of tech and upgrades for a surprisingly low price <a href="https://lectricebikes.sjv.io/kOj61L">of just $1,399</a>. And to sweeten the deal even further, the launch promotion includes over $300 in free accessories, too.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="389659" href="https://electrek.co/2024/11/19/lectric-ebikes-launches-updated-xpeak-off-road-e-bike-for-a-killer-price/#more-389659" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/19/lectric-ebikes-launches-updated-xpeak-off-road-e-bike-for-a-killer-price/>
+
+---
+
+## The Base Tesla Model Y Lease Price Is Now The Same As The Base Model 3
+
+date: 2024-11-19, from: Inside EVs News
+
+That’s even though the Model Y RWD costs $2,500 more than the Model 3 RWD when purchasing with cash. 
+
+<br> 
+
+<https://insideevs.com/news/741454/tesla-model-y-lease-same-price-model-3/>
+
+---
+
+## A Mercedes-Benz CLA EV Prototype Drove 2,309 Miles In 24 Hours–A New Record
+
+date: 2024-11-19, from: Inside EVs News
+
+Thanks to its maximum charging rate of 320 kW, the prototype stopped for short, 10-minute charging breaks. 
+
+<br> 
+
+<https://insideevs.com/news/741445/mercedes-cla-ev-endurance-record-2309-miles-24-hours/>
 
 ---
 

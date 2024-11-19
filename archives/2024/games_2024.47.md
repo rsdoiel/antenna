@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2024-11-18 16:54:33
+updated: 2024-11-19 12:51:37
 ---
 
 # games
 
-(date: 2024-11-18 16:54:33)
+(date: 2024-11-19 12:51:37)
+
+---
+
+## Experience the best of the Telltale Games catalog for $12
+
+date: 2024-11-19, updated: 2024-11-19, from: Polygon Website
+
+If you’ve missed the opportunity to play some of Telltale Games adventure titles, you can currently pick up some of their best work from Humble for just $12. While this bundle unfortunately doesn’t feature the amazing Tales from the Borderlands — which you can currently pick up separately from Fanatical at 13% off — it [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/481537/telltale-games-humble-bundle-walking-dead-sale>
+
+---
+
+## Wicked unabashedly caters to people who like musicals and no one else (for the better)
+
+date: 2024-11-19, updated: 2024-11-19, from: Polygon Website
+
+For too long, musical theater fans have suffered from movie adaptations that really try hard not to be musicals. This hasn’t always been the case, but in recent years, marketing has hidden song and dance sequences in what seems like a convoluted effort to get people who don’t like musicals to see a musical (which [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/481398/wicked-movie-review-musical>
+
+---
+
+## At least the live-action How to Train Your Dragon nails one big thing
+
+date: 2024-11-19, updated: 2024-11-19, from: Polygon Website
+
+Like many live-action adaptations of beloved animated movies, How to Train Your Dragon has an uphill battle ahead. But the first trailer proves it’s one very big thing right: Toothless the dragon looks good. Instead of opting for a hyper-realistic dragon devoid of all cuteness, it seems the filmmakers know exactly what it is that [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/trailer/481562/how-train-your-dragon-live-action-trailer-toothless>
+
+---
+
+## DC Heroes RPG returns for 40th anniversary Kickstarter campaign
+
+date: 2024-11-19, updated: 2024-11-19, from: Polygon Website
+
+DC Heroes, the tabletop role-playing game that’s been out of print since 1993, is getting a revised edition to celebrate the game’s 40th anniversary. On Monday, Cryptozoic Entertainment launched a crowdfunding campaign to bring the iconic TTRPG out of the archives and back to the table. The campaign, which is in collaboration with Warner Bros. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/481257/dc-heroes-rpg-40th-anniversary-kickstarter>
+
+---
+
+## Star Wars Jedi: Survivor, Silent Hill 2 devs acknowledge PS5 Pro graphics issues
+
+date: 2024-11-19, updated: 2024-11-19, from: Polygon Website
+
+The biggest selling point of the PlayStation 5 Pro was its ability to produce unparalleled visuals on a game console, but after almost two weeks of complaints about graphical glitches in games like Star Wars Jedi: Survivor and the Silent Hill 2 remake, developers are finally starting to respond. “We’re aware of issues with Star [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/481527/ps5-pro-star-wars-jedi-survivor-silent-hill-2>
+
+---
+
+## How to get Double XP tokens in Black Ops 6
+
+date: 2024-11-19, updated: 2024-11-19, from: Polygon Website
+
+Double XP tokens, a Call of Duty staple to help players level up faster, are harder to source than ever in Black Ops 6. Compared to most games, where there are a variety of in-game ways to unlock tokens, Black Ops 6 mainly relies on external campaigns or giveaways for those all-important accelerated XP gains. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/black-ops-6-guides/470189/double-xp-tokens-promo-promotion-how-to-get>
+
+---
+
+## When does Ranked Play release in Black Ops 6?
+
+date: 2024-11-19, updated: 2024-11-19, from: Polygon Website
+
+Ranked Play is coming to Black Ops 6 this week, with new features, rewards, and a couple new restrictions to consider before you jump in. Here’s when Black Ops 6 Ranked Play releases in your time zone, how to unlock Ranked Play, and what to expect in Black Ops 6’s version of ranked. Black Ops [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/black-ops-6-guides/481450/ranked-play-unlock-rewards-release>
+
+---
+
+## Overwatch 2’s new hero Hazard revealed, playable this weekend
+
+date: 2024-11-19, updated: 2024-11-19, from: Polygon Website
+
+Overwatch 2’s next hero is Hazard, a muscular Scottish tank with a prickly punk attitude, Blizzard Entertainment revealed Tuesday. Hazard is coming to Overwatch 2 in December’s season 14, but players will get their hands on the new tank-class hero during a weekend playtest running this weekend, Nov. 22-25. Hazard’s hero reveal trailer presents him [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/481443/overwatch-2-new-hero-hazard-tank-release-date>
+
+---
+
+## How Helltides work in Diablo 4 and how to spend Aberrant Cinders
+
+date: 2024-11-19, updated: 2024-11-19, from: Polygon Website
+
+Helltides are one of the coolest endgame features in Diablo 4, giving you a reason to explore the areas of Diablo 4 you’ve already visited many times before — such as The Fractured Peaks or Scosglen. Even better, Helltides are an excellent source for loot, and you can spend special currencies for a chance at [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/diablo-4-guides/23755699/helltides-aberrant-cinders>
+
+---
+
+## Should you choose Seasonal Realm or Eternal Realm in Diablo 4?
+
+date: 2024-11-19, updated: 2024-11-19, from: Polygon Website
+
+Diablo 4 Vessel of Hatred DLC is here, alongside season 6, and when you first boot up the game to select a character, you’ll have more to choose from than just your class and hairstyle. Once you’re ready to jump into the game, you’ll need to make one final decision: Do you want to play [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/diablo-4-guides/23800830/seasonal-eternal-realm-choice>
 
 ---
 

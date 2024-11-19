@@ -1,11 +1,83 @@
 ---
 title: socal north
-updated: 2024-11-18 16:54:30
+updated: 2024-11-19 12:51:36
 ---
 
 # socal north
 
-(date: 2024-11-18 16:54:30)
+(date: 2024-11-19 12:51:36)
+
+---
+
+## Too young to vote, but not to care: Three LA high schoolers navigate the election’s aftermath
+
+date: 2024-11-19, updated: 2024-11-19, from: The LAist
+
+Students are already thinking about how they’ll make a difference during Donald Trump’s presidency. 
+
+<br> 
+
+<https://laist.com/news/education/2024-election-los-angeles-teenagers-react-harris-trump>
+
+---
+
+## Lobbying activity this past summer cost a record-breaking $168 million. Here’s what we know
+
+date: 2024-11-19, updated: 2024-11-19, from: The LAist
+
+Between the summer session of the California Legislature featuring hot topics like AI regulation and money for journalism. 
+
+<br> 
+
+<https://laist.com/news/politics/lobbying-activity-this-past-summer-cost-a-record-breaking-168-million-heres-what-we-know>
+
+---
+
+## Is it the flu or is it COVID? One at-home test can tell you
+
+date: 2024-11-19, updated: 2024-11-19, from: The LAist
+
+If you've got a fever, cough, aches and pains, and you're wondering, "What virus got me this time?" Now you can find out, without taking a trip to the doctor. 
+
+<br> 
+
+<https://laist.com/news/health/flu-covid-at-home-tests>
+
+---
+
+## Southland to warm up slightly for the next few days ahead of wet weekend
+
+date: 2024-11-19, updated: 2024-11-19, from: The LAist
+
+Weak Santa Ana winds will continue for some valleys, mountains and highway corridors. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/southland-warms-up-slightly-for-the-next-few-days>
+
+---
+
+## Yes, LA's mountain lions are trying to avoid us. Here's why
+
+date: 2024-11-19, updated: 2024-11-19, from: The LAist
+
+New research reveals that mountain lions are more nocturnal in areas with higher recreational activity like hiking and biking. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-area-mountain-lions-adjust-their-activity-to-avoid-humans-study-finds>
+
+---
+
+## Democrat Derek Tran's lead over GOP's Michelle Steel grows to 102 votes in the 45th House District
+
+date: 2024-11-19, updated: 2024-11-19, from: The LAist
+
+Tran grows his lead after Steel took the early lead after Election Day. It's one of the last Congressional races not yet called. 
+
+<br> 
+
+<https://laist.com/news/politics/democrat-derek-tran-gop-michelle-steel-45th-house-district>
 
 ---
 
