@@ -1,11 +1,23 @@
 ---
 title: columns
-updated: 2024-11-18 16:12:33
+updated: 2024-11-18 16:54:32
 ---
 
 # columns
 
-(date: 2024-11-18 16:12:33)
+(date: 2024-11-18 16:54:32)
+
+---
+
+## Puppet Master-in-Chief
+
+date: 2024-11-19, from: Dan Rather's Steady
+
+Trump turns the screws on the speaker 
+
+<br> 
+
+<https://steady.substack.com/p/puppet-master-in-chief>
 
 ---
 

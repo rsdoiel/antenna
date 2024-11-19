@@ -1,11 +1,71 @@
 ---
 title: north america
-updated: 2024-11-18 16:12:32
+updated: 2024-11-18 16:54:29
 ---
 
 # north america
 
-(date: 2024-11-18 16:12:32)
+(date: 2024-11-18 16:54:29)
+
+---
+
+## US Sudan envoy meets army chief Burhan on first visit
+
+date: 2024-11-19, from: VOA News USA
+
+dubai/washington  — The U.S. special envoy to Sudan traveled to the African country for the first time on Monday to seek an increase in the flow of aid to millions of people in need and an end to a devastating war.
+
+
+Tom Perriello, who was named Washington's envoy for Sudan in February, traveled to Port Sudan on the Red Sea coast, the de facto capital for the army-led government.
+
+
+It marked the first visit to the country by a senior U.S. official since the war between the Sudanese Armed Forces and the paramilitary Rapid Support Forces (RSF) broke out in April 2023 and the U.S. embassy was evacuated.
+
+
+"We feel an enormous amount of urgency to end this crisis and to ensure that we can ... help to get food and medicine and life-saving support to the 20 million people plus that are in need," a State Department official said before the trip.
+
+
+The U.N. says more than 25 million people — half of Sudan's population — need aid as famine has taken hold in one region and more than 11 million people have fled their homes.
+
+
+Perriello met with Sudan's army chief Abdel Fattah al-Burhan as well as humanitarian, government and tribal leaders, a statement by the country's sovereign council said.
+
+
+In a meeting the council said was "lengthy, comprehensive, and frank," the two men discussed ways to deliver humanitarian aid and a political process to end the war.
+
+
+"The U.S. envoy presented several suggestions which the head of the sovereign council agreed to," the statement said.
+
+
+U.S.-mediated talks in Geneva earlier this year failed to achieve progress toward a cease-fire as the army refused to attend, but did secure promises from the warring parties to improve aid access.
+
+
+The war erupted more than a year ago amid a power struggle between the army and the RSF ahead of a planned transition to civilian rule.
+
+
+Perriello discussed "the need to cease fighting, enable unhindered humanitarian access, including through localized pauses in the fighting to allow for the delivery of emergency relief supplies, and commit to a civilian government," a State Department statement said.
+
+
+While the U.S. would continue to pursue a more comprehensive cease-fire and negotiations, "right now, I think there's a really key opportunity to build on the expansion of humanitarian aid," the State Department official said, highlighting the need for relief corridors to the most battle-ravaged areas including al-Fashir, Sennar and parts of the capital Khartoum.
+
+
+Sudan's sovereign council said last week it would extend a temporary opening of the Adre border crossing with Chad, which aid agencies say is a vital corridor for food and other supplies to areas of the Darfur and Kordofan regions at risk of famine.
+
+
+The State Department official said Washington was concerned that the number of foreign actors beginning to engage in the conflict was growing, adding that there has been an increased number of mercenary fighters from the Sahel arriving to fight with the RSF as well as other actors, including Russia and Iran, playing a role with the army.
+
+
+The visit came as the RSF continues revenge attacks in eastern El Gezira state and a campaign to take over the army's last Darfur stronghold, al-Fashir.
+
+
+In a news conference in Nairobi, an RSF representative said they were still open to peace but doubted the army's willingness.
+
+
+"They do not listen to any language but that of the rifle, and so we will continue to talk to them in the language they understand," said Brigadier General Omar Hamdan. 
+
+<br> 
+
+<https://www.voanews.com/a/us-sudan-envoy-meets-army-chief-burhan-on-first-visit-/7868525.html>
 
 ---
 

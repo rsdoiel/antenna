@@ -1,11 +1,25 @@
 ---
 title: central coast
-updated: 2024-11-18 16:12:33
+updated: 2024-11-18 16:54:31
 ---
 
 # central coast
 
-(date: 2024-11-18 16:12:33)
+(date: 2024-11-18 16:54:31)
+
+---
+
+## Santa Barbara Talks: SBIFF’s Roger Durling on Timothée Chalamet, New Film Center
+
+date: 2024-11-19, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Actor Timothée Chalamet, the star of the highly acclaimed Bob Dylan biopic, will be coming to the Santa Barbara International Film Festival next year in the lead up to the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-barbara-talks-sbiffs-roger-durling-on-timothee-chalamet-new-film-center/">Santa Barbara Talks: SBIFF&#8217;s Roger Durling on Timothée Chalamet, New Film Center</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/santa-barbara-talks-sbiffs-roger-durling-on-timothee-chalamet-new-film-center/>
 
 ---
 

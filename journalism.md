@@ -1,11 +1,31 @@
 ---
 title: journalism
-updated: 2024-11-18 16:12:34
+updated: 2024-11-18 16:54:33
 ---
 
 # journalism
 
-(date: 2024-11-18 16:12:34)
+(date: 2024-11-18 16:54:33)
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-19, from: The Daily Bruin (UCLA Student Newspaper))
+
+Another teacher at the Krieger Center who worked with Rodriguez beginning December 1, 2024, said Child A approached her while crying and without the leggings she wore in the morning. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/18/474146/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-11-19, from: The Daily Bruin (UCLA Student Newspaper))
+
+Sally Wilson – who has worked as a nurse practitioner at the Santa Monica UCLA Treatment Center in the Rape Treatment Center division for 22 years – was added to the witness list. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/18/474144/>
 
 ---
 
@@ -50,7 +70,7 @@ There&#8217;s always Monday morning quarterbacking after an election and, in the
 date: 2024-11-18, from: The Daily Bruin (UCLA Student Newspaper)
 
 Come January 2025, UCLA will have a Latinx Success Center.
-In December 2020, then-Chancellor Gene Block and then-Executive Vice Chancellor and Provost Emily Carter announced the university&#8217;s plans to achieve federal Hispanic-Serving Institution status by 2025. 
+In December 2020, then-Chancellor Gene Block and then-Executive Vice Chancellor and Provost Emily Carter announced the university’s plans to achieve federal Hispanic-Serving Institution status by 2025. 
 
 <br> 
 

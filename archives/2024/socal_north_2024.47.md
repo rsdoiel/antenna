@@ -1,11 +1,23 @@
 ---
 title: socal north
-updated: 2024-11-18 16:12:32
+updated: 2024-11-18 16:54:30
 ---
 
 # socal north
 
-(date: 2024-11-18 16:12:32)
+(date: 2024-11-18 16:54:30)
+
+---
+
+## Trump’s mass deportation plan requires help from police and sheriff's deputies. Will he get that in SoCal?
+
+date: 2024-11-19, updated: 2024-11-19, from: The LAist
+
+California law largely prohibits cooperation between local police and federal immigration authorities. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-mass-deportations-southern-california-police-and-sheriffs>
 
 ---
 
