@@ -33,16 +33,16 @@ md_files = $(addsuffix .md,$(section_names))
 
 html_files = $(addsuffix .html,$(section_names))
 
-build: harvest markdown html archives index.html about.html README.html CITATION.cff dump
+build: harvest markdown html archives index.html forcecast.html about.html README.html CITATION.cff dump
 
 world: build snapshots
 
-california: harvest markdown html archives index.html about.html README.html CITATION.cff dump
+california: harvest markdown html archives index.html forecasts.html about.html README.html CITATION.cff dump
 
 snapshots: .FORCE
 	cd snapshots && make
 
-website: markdown html archives index.html about.html README.html 
+website: markdown html archives index.html forecasts.html about.html README.html 
 
 harvest: $(section_names)
 
@@ -142,11 +142,11 @@ dump: .FORCE
 load: .FORCE
 	./sql_to_skimmer.bash
 
-archives: mk_archives.bash archive_index.tmpl archive_year.tmpl
+archives: mk_archives.bash archive_index.tmpl archive_year.tmpl .FORCE
 	./mk_archives.bash      
 	cd archives/$(YEAR) && make
 	cd archives && make
-	git add archives
+	git add archives archives/$(YEAR)
 	
 
 pagefind: .FORCE
@@ -208,6 +208,13 @@ index.html: .FORCE
 		--lua-filter=links-to-html.lua \
 		--template front_page.tmpl \
 		index.md >index.html
+
+forecasts.html: .FORCE
+	@echo '' | pandoc --metadata title="The $(PROJECT)" \
+		--lua-filter=links-to-html.lua \
+		--template front_page.tmpl \
+		forecasts.md >forecasts.html
+		
 
 search.html: .FORCE
 	@echo '' | pandoc --metadata title="$(PROJECT) Search" \
