@@ -35,7 +35,7 @@ TXT
 
 mk_archive_for_feed "SoCal North" "socal_north"
 mk_archive_for_feed "Pacific" "pacific"
-mk_archive_for_feed "Central Cost" "centeral_cost"
+mk_archive_for_feed "Central Cost" "central_coast"
 mk_archive_for_feed "Home, Garden & Urban Farm" "home"
 mk_archive_for_feed "Good Eats, Healthy Eats" "food"
 mk_archive_for_feed "Columns" "columns"
