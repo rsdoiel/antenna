@@ -24,6 +24,7 @@ Collection                                          Description of Posts        
 [Craft](craft.html)                                 Craft and Design                                                   [craft.txt](craft.txt)
 [Writing](writing.html)                             Writing and Writing Tools                                          [writing.txt](writing.txt)
 [Snapshots](snapshots/)                             A Sometimes daily aggregation                                      [snapshots/news.txt](snapshots/news.txt)
+[Weather Forecasts](forecasts.html)                 [NOAA's](https://weather.gov), selected forecast pages
 [Weather](weather.html)                             [NOAA's](https://noaa.gov) and [weather.gov](https://weather.gov)  [weather.txt](weather.txt)
 
 
