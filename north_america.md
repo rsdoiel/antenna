@@ -1,11 +1,79 @@
 ---
 title: north america
-updated: 2024-12-01 14:20:16
+updated: 2024-12-01 14:38:54
 ---
 
 # north america
 
-(date: 2024-12-01 14:20:16)
+(date: 2024-12-01 14:38:54)
+
+---
+
+## Trump nominates former aide Kash Patel to head FBI
+
+date: 2024-12-01, from: VOA News USA
+
+Donald Trump’s nomination of Kash Patel, a loyalist of the U.S. president-elect, to be director of the Federal Bureau of Investigation has added to the list of Trump’s unconventional appointments to top-level jobs in his nascent administration.
+
+
+Trump named Patel, 44, to lead the country’s top criminal investigative agency on late Saturday, saying he “is a brilliant lawyer, investigator, and ‘America First’ fighter who has spent his career exposing corruption, defending justice, and protecting the American people.”
+
+
+Patel held three defense, intelligence and national security posts in the first Trump administration but has endeared himself to the incoming chief executive by vowing to clean out the “deep state” at the FBI. He also said he would launch a campaign of retribution against Trump’s adversaries, including FBI agents who have investigated the once-and-future president, journalists and others. 
+
+
+During his first term, Trump suggested naming Patel as the deputy FBI director, but then-Attorney General William Barr, now a Trump critic, said the appointment would only occur “over my dead body.” 
+
+
+Patel has vowed to close the FBI headquarters in Washington and dispatch many of its agents across the country to fight crime, not launch more intelligence-gathering operations.
+
+
+Trump’s first hurdle in installing Patel as the FBI director is that there already is an FBI director, Christopher Wray, who was appointed by Trump and whose 10-year term extends to 2027.  
+
+
+Trump would have to fire Wray or Wray would have to resign before Patel could take over. FBI directors are appointed to decade-long terms by design, so that their tenures and investigative directives are not subject to the political whims of the moment. But Trump already fired one FBI director, James Comey, in 2017, before naming Wray. 
+
+
+Trump says the FBI is “badly broken” and has “lost the confidence of America.” 
+
+
+Patel faces a Senate confirmation hearing and is likely to face tough questioning about how he would run the agency and oversee its more than 10,000 criminal investigative agents and another 25,000 staff members.  
+
+
+Patel’s appointment comes on top of other unconventional Trump appointments: vaccine skeptic Robert F. Kennedy Jr. to oversee the health and human services department, talk show host Pete Hegseth, a decorated military officer with scant managerial experience, to be the Pentagon chief, and Tulsi Gabbard, a Democratic-congresswoman-turned-staunch-Trump-defender, as director of national intelligence. 
+
+
+Trump’s first nominee to be attorney general, former Congressman Matt Gaetz, dropped out after eight days as he faced widespread scrutiny of his alleged sexual misconduct and illicit drug use; charges Gaetz has denied.   
+
+
+Some Republican senators praised Patel’s appointment. Republicans will hold a 53-47 majority in the Senate next year, meaning Patel could lose the support of three senators and still be confirmed, with Vice President-elect JD Vance casting the decisive tie-breaking vote if needed. 
+
+
+Senator Bill Hagerty, a Tennessee Republican, told NBC’s “Meet the Press” that Patel "represents the type of change that we need to see in the FBI. ... The entire agency needs to be cleaned out." 
+
+
+“There are serious problems at the FBI,” Hagerty said. “The American public knows it. They expect to see sweeping change, and Kash Patel's just the type of person to do it."  
+
+Another Republican senator, Ted Cruz of Texas, said Patel was a "very strong nominee" and he thought Patel would be confirmed. 
+
+
+"All of the weeping and gnashing of teeth, all the people pulling their hair out, are exactly the people who are dismayed about having a real reformer come into the FBI," Cruz told CBS' "Face the Nation." 
+
+
+A third Republican, Senator Mike Rounds of South Dakota, said, "Every president wants people that are loyal to themselves." But he called Wray "a very good man,” adding, "I don't have any complaints about the way that he's done his job right now." 
+
+
+Democrats are almost certain to oppose the nomination. 
+
+
+Senator Chris Murphy told NBC, "Patel's only qualification is that he agrees with Donald Trump that the Department of Justice should punish, lock up and intimidate Donald Trump's political opponents." 
+
+
+Some material in this report came from The Associated Press. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-nominates-former-aide-kash-patel-to-head-fbi/7883356.html>
 
 ---
 

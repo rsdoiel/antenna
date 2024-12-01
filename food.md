@@ -1,11 +1,23 @@
 ---
 title: food
-updated: 2024-12-01 14:21:00
+updated: 2024-12-01 14:38:58
 ---
 
 # food
 
-(date: 2024-12-01 14:21:00)
+(date: 2024-12-01 14:38:58)
+
+---
+
+## 103 Cyber Monday Kitchen Deals BA Editors Are Shopping (2024)
+
+date: 2024-12-01, from: Bon Appetet
+
+Up to 50% off on Staub Dutch ovens, cookware sets, air fryers, and more. 
+
+<br> 
+
+<https://www.bonappetit.com/story/black-friday-kitchen-deals-12-1-2024>
 
 ---
 
@@ -138,6 +150,22 @@ Fruity olive oil means this fudgy cake will stay moist for days.
 <br> 
 
 <https://www.bonappetit.com/recipe/chocolate-olive-oil-cake>
+
+---
+
+## Holiday Cookie Guide
+
+date: 2024-12-01, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2017/12/Holiday-Cookie-Recipes.jpg"/></div>
+<p>The best cookies, bars, and treats for you holiday cookie platter! These classic, traditional and new cookie recipes are all super easy to make! I can&#8217;t believe that the Holidays are upon us already and that means that it is time to start thinking about Holiday cookie baking! You can never have too many cookies...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/21-cookies-for-holidays/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/21-cookies-for-holidays/">Holiday Cookie Guide</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/21-cookies-for-holidays/>
 
 ---
 
@@ -337,7 +365,7 @@ Our absolute favorite machine for beginners is on sale now for Black Friday. Buy
 
 ---
 
-## 6 Best Air Fryer Cyber Monday Deals 2024 for Crispy Everything
+## 6 Best Air Fryer Black Friday Deals 2024 for Crispy Everything
 
 date: 2024-11-29, from: Bon Appetet
 

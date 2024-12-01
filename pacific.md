@@ -1,11 +1,25 @@
 ---
 title: pacific
-updated: 2024-12-01 14:20:31
+updated: 2024-12-01 14:38:55
 ---
 
 # pacific
 
-(date: 2024-12-01 14:20:31)
+(date: 2024-12-01 14:38:55)
+
+---
+
+## Todu Guam hires new psychiatrist, offers brain stimulation therapy for depression 
+
+date: 2024-12-01, from: Pacific Island Times
+
+
+
+Scientists are still learning about how regions of the brain are electrically connected. “While we're learning what normal electrical func 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/todu-guam-hires-new-psychiatrist-offers-brain-stimulation-treatment-for-depression>
 
 ---
 

@@ -1,11 +1,41 @@
 ---
 title: central coast
-updated: 2024-12-01 14:20:40
+updated: 2024-12-01 14:38:55
 ---
 
 # central coast
 
-(date: 2024-12-01 14:20:40)
+(date: 2024-12-01 14:38:55)
+
+---
+
+## Judy Foreman: Finding Purpose Through Pain Fuels Santa Barbara Athlete’s Paralympic Dream
+
+date: 2024-12-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/1-120124-Kyle-McKittrick-Wheelchair-image1.webp?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="As part of his rehabilitation after a 2018 motorcycle crash that left him quadraplegic, Kyle McKittrick began looking into adaptive sports and discovered wheelchair rugby. He’s become so adept at it that he now plays for a Las Vegas team and is setting his sights on the 2018 Los Angeles Paralympic Games." decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/1-120124-Kyle-McKittrick-Wheelchair-image1.webp?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/1-120124-Kyle-McKittrick-Wheelchair-image1.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/1-120124-Kyle-McKittrick-Wheelchair-image1.webp?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/1-120124-Kyle-McKittrick-Wheelchair-image1.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/1-120124-Kyle-McKittrick-Wheelchair-image1.webp?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/1-120124-Kyle-McKittrick-Wheelchair-image1.webp?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/1-120124-Kyle-McKittrick-Wheelchair-image1.webp?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/1-120124-Kyle-McKittrick-Wheelchair-image1.webp?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/1-120124-Kyle-McKittrick-Wheelchair-image1.webp?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/1-120124-Kyle-McKittrick-Wheelchair-image1.webp?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/1-120124-Kyle-McKittrick-Wheelchair-image1.webp?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/12/1-120124-Kyle-McKittrick-Wheelchair-image1.webp?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Kyle McKittrick was living an active Santa Barbara life in 2018 — working construction, bartending at Pierre Lafond in Montecito, hiking with his dog and playing multiple sports. Then a [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/judy-foreman-finding-purpose-through-pain-fuels-santa-barbara-athletes-paralympic-dream/">Judy Foreman: Finding Purpose Through Pain Fuels Santa Barbara Athlete’s Paralympic Dream</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/judy-foreman-finding-purpose-through-pain-fuels-santa-barbara-athletes-paralympic-dream/>
+
+---
+
+## Dennis Mammana: Jupiter Returns, Bringing Winter’s Greatest Sky Show
+
+date: 2024-12-01, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="769" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/dem112624adAP.webp?fit=1024%2C769&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Jupiter reaches its opposition point this week, meaning it will appear opposite the sun." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/dem112624adAP.webp?w=1800&amp;ssl=1 1800w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/dem112624adAP.webp?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/dem112624adAP.webp?resize=1024%2C769&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/dem112624adAP.webp?resize=768%2C577&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/dem112624adAP.webp?resize=1536%2C1154&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/dem112624adAP.webp?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/dem112624adAP.webp?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/dem112624adAP.webp?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/dem112624adAP.webp?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/dem112624adAP.webp?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/dem112624adAP.webp?resize=1568%2C1178&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/dem112624adAP.webp?fit=1024%2C769&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>I don’t know why, but I always miss the planet Jupiter when it’s not in our evening sky. Sure, we’ve now got dazzling Venus lighting up our western sky at [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/dennis-mammana-jupiter-returns-bringing-winters-greatest-sky-show/">Dennis Mammana: Jupiter Returns, Bringing Winter’s Greatest Sky Show</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/dennis-mammana-jupiter-returns-bringing-winters-greatest-sky-show/>
 
 ---
 

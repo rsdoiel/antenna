@@ -1,11 +1,83 @@
 ---
 title: games
-updated: 2024-12-01 14:20:47
+updated: 2024-12-01 14:38:56
 ---
 
 # games
 
-(date: 2024-12-01 14:20:47)
+(date: 2024-12-01 14:38:56)
+
+---
+
+## These are the best Black Friday deals we’ve seen on gaming monitors
+
+date: 2024-12-01, updated: 2024-12-01, from: Polygon Website
+
+There’s no time like Black Friday for PC gamers looking to make their yearly upgrades. If a gaming monitor is on your list or a wishlist you’re shopping for — be it an excessively curved ultrawide 1440p OLED, a 27-inch flat 1080p display, and anything in between — you were right to wait. We found [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/black-friday/487708/best-gaming-monitor-deals>
+
+---
+
+## You can still save up to 90% on Hulu, Disney Plus, and more streaming services
+
+date: 2024-12-01, updated: 2024-12-01, from: Polygon Website
+
+Even though Black Friday is over, most of the big TV show and movie streaming services are offering discounted subscriptions through the weekend into Cyber Monday. Paramount Plus, Hulu, Peacock, Disney Plus, and Max are significantly cheaper per month for both new and returning subscribers who are looking for things to watch over the chill [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/black-friday/485706/streaming-deals-hulu-max-peacock-paramount>
+
+---
+
+## The best gaming deals of Black Friday are still going strong
+
+date: 2024-12-01, updated: 2024-12-01, from: Polygon Website
+
+Black Friday may have come and gone, but some of the best deals from last week are still going strong throughout this weekend, leading into Cyber Monday. What follows are the best gaming deals broken down by each of the most popular platforms: Nintendo Switch, Xbox Series X, PlayStation 5, as well as the diverse [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/black-friday/475504/best-gaming-deals-video-games>
+
+---
+
+## I&#8217;ve sorted through thousands of Black Friday deals, these are the very best that are still available
+
+date: 2024-12-01, updated: 2024-12-01, from: Polygon Website
+
+While the sun has set on Black Friday, there are still plenty of awesome deals kicking around if you’re planning to get your shopping done ahead of Cyber Monday. While Amazon certainly has the lion’s share of deals this year, we’ve rounded up the best discounts from across the internet on games, toys, movies, books, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/black-friday/475492/best-deals-games-movies-toys>
+
+---
+
+## The best Black Friday board game deals we&#8217;ve seen in years are still available
+
+date: 2024-12-01, updated: 2024-12-01, from: Polygon Website
+
+Sharing board games with friends and loved ones is always a highlight of the holiday season for me. Taking one of my favorite, obscure board games down off the shelf and teaching it to someone new is how the hobby grows, after all. This holiday season you can literally give that joy away with an [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/black-friday/475495/best-board-game-deals>
+
+---
+
+## 3 entire Brandon Sanderson series are on sale this Black Friday
+
+date: 2024-12-01, updated: 2024-12-01, from: Polygon Website
+
+Prolific is an appropriate word to describe Brandon Sanderson’s output. He’s published dozens upon dozens of fantasy and science-fiction books (please, don’t make me count), and is one of the most well-known authors working in the genres. Now, thanks to Amazon’s Black Friday deals, it’s a perfect time to finally get into Brandon Sanderson books [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/black-friday/486578/brandson-sanderson-book-deals-mistborn-stormlight-archive>
 
 ---
 
@@ -66,54 +138,6 @@ As the opening scenes of Gints Zilbalodis’ gorgeous, wordless Latvian animated
 <br> 
 
 <https://www.polygon.com/what-to-watch/486661/flow-vs-legend-of-hei-best-animated-double-feature>
-
----
-
-## The best Black Friday board game deals we&#8217;ve seen in years are still available
-
-date: 2024-12-01, updated: 2024-12-01, from: Polygon Website
-
-Sharing board games with friends and loved ones is always a highlight of the holiday season for me. Taking one of my favorite, obscure board games down off the shelf and teaching it to someone new is how the hobby grows, after all. This holiday season you can literally give that joy away with an [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/black-friday/475495/best-board-game-deals>
-
----
-
-## These are the best Black Friday deals we’ve seen on gaming monitors
-
-date: 2024-12-01, updated: 2024-12-01, from: Polygon Website
-
-There’s no time like Black Friday for PC gamers looking to make their yearly upgrades. If a gaming monitor is on your list or a wishlist you’re shopping for — be it an excessively curved ultrawide 1440p OLED, a 27-inch flat 1080p display, and anything in between — you were right to wait. We found [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/black-friday/487708/best-gaming-monitor-deals>
-
----
-
-## The best gaming deals of Black Friday are still going strong
-
-date: 2024-12-01, updated: 2024-12-01, from: Polygon Website
-
-Black Friday may have come and gone, but some of the best deals from last week are still going strong throughout this weekend, leading into Cyber Monday. What follows are the best gaming deals broken down by each of the most popular platforms: Nintendo Switch, Xbox Series X, PlayStation 5, as well as the diverse [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/black-friday/475504/best-gaming-deals-video-games>
-
----
-
-## I&#8217;ve sorted through thousands of Black Friday deals, these are the very best that are still available
-
-date: 2024-12-01, updated: 2024-12-01, from: Polygon Website
-
-While the sun has set on Black Friday, there are still plenty of awesome deals kicking around if you’re planning to get your shopping done ahead of Cyber Monday. While Amazon certainly has the lion’s share of deals this year, we’ve rounded up the best discounts from across the internet on games, toys, movies, books, [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/black-friday/475492/best-deals-games-movies-toys>
 
 ---
 
@@ -330,18 +354,6 @@ The Game Awards is celebrating its 10th anniversary this year. But for a full de
 <br> 
 
 <https://www.polygon.com/awards/486729/2004-spike-tv-video-game-awards-vgas-snoop-dogg>
-
----
-
-## Save up to 90% on Hulu, Disney Plus, and more streaming services for Black Friday
-
-date: 2024-11-29, updated: 2024-11-29, from: Polygon Website
-
-Just in time for Black Friday, most of the big TV show and movie streaming services are offering discounted subscriptions. Paramount Plus, Hulu, Peacock, Disney Plus, and Max are significantly cheaper per month for both new and returning subscribers who are looking for things to watch over the chill holiday period. If you want a [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/black-friday/485706/streaming-deals-hulu-max-peacock-paramount>
 
 ---
 

@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2024-12-01 14:20:54
+updated: 2024-12-01 14:38:57
 ---
 
 # retro computing
 
-(date: 2024-12-01 14:20:54)
+(date: 2024-12-01 14:38:57)
+
+---
+
+## b.log 2024/12/01 - Advent Calendars 2024, It was the other man, Poor Celebrations, Stew pizza, Advertising fail, Lidl air fryer, Composing music.
+
+date: 2024-12-01, from: Richard Murray's blog
+
+Advent Calendars 2024, It was the other man, Poor Celebrations, Stew pizza, Advertising fail, Lidl air fryer, Composing music. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20241201>
 
 ---
 

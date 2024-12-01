@@ -1,17 +1,27 @@
 ---
 title: columns
-updated: 2024-12-01 14:20:43
+updated: 2024-12-01 14:38:56
 ---
 
 # columns
 
-(date: 2024-12-01 14:20:43)
+(date: 2024-12-01 14:38:56)
 
 ---
 
 **@Dave Winer's Scripting News** (date: 2024-12-01, from: Dave Winer's Scripting News)
 
-One way to help RSS-based podcasts is to promote individual episodes from the past. Sometimes shows are done, but the archive contains good stuff. Not everything is based on current events. Music, art, history for example.
+I'm using the term "RSS-based podcasts" in place of "podcasts" to make sure whoever reads it knows to ask the question of other "podcasts," are you RSS-based? The best answer is to encourage YouTube et al to just connect their "podcasts" to RSS and everyone's happy. Like "organic cheeseburgers." :-) 
+
+<br> 
+
+<http://scripting.com/2024/12/01.html#a213715>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-01, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/11/27/rssClub.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">One way to help <i>RSS-based podcasts</i> is to promote individual episodes from the past. Sometimes shows are done, but the archive contains good stuff. Not everything is based on current events. Music, art, history for example. Also bring the feed out from hiding. At least the nerdy people should understand how this stuff works. One of the big crimes was when the browser makers tried to hide the feeds. I like to be able to lift the hood even if I don't understand what I'm looking at.
  
 
 <br> 

@@ -1,19 +1,19 @@
 ---
 title: weather
-updated: 2024-12-01 14:20:46
+updated: 2024-12-01 14:38:56
 ---
 
 # weather
 
-(date: 2024-12-01 14:20:46)
+(date: 2024-12-01 14:38:56)
 
 ---
 
-## The Central North Pacific hurricane season runs from June 1st through November 30th.
+## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
 
-date: 2024-12-02, from: Central Pacific Basin Tropical Cyclones
+date: 2024-12-02, from: Eastern Pacific Basin Tropical Cyclones
 
-The Central North Pacific hurricane season runs from June 1st through November 30th. 
+The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
 
 <br> 
 
@@ -21,9 +21,83 @@ The Central North Pacific hurricane season runs from June 1st through November 3
 
 ---
 
+## SPC - No watches are valid as of Sun Dec  1 22:08:01 UTC 2024
+
+date: 2024-12-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Sun Dec  1 22:08:01 UTC 2024. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Sun Dec  1 22:08:01 UTC 2024
+
+date: 2024-12-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Sun Dec  1 22:08:01 UTC 2024. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## There are no tropical cyclones at this time.
+
+date: 2024-12-01, from: Eastern Pacific Basin GIS Data
+
+No tropical cyclones as of Sun, 01 Dec 2024 21:47:53 GMT 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gis/>
+
+---
+
+## SPC Day 3-8 Fire Weather Outlook
+
+date: 2024-12-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 3-8 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0321 PM CST Sun Dec 01 2024
+
+Valid 031200Z - 091200Z
+
+On Day 3/Tuesday, an expansive surface high will shift southeastward
+from the Middle MS Valley into the Southeast. On the southeastern
+periphery of this feature, a modest pressure gradient will promote
+locally breezy northerly surface winds amid a dry antecedent air
+mass across portions of southern FL. While locally elevated
+fire-weather conditions are possible (given modestly receptive
+fuels), the potential for critical conditions appears low. 
+
+Thereafter, fire-weather concerns should be minimal across the CONUS
+through the extended forecast period, as northwesterly flow aloft
+persists from the northern Rockies into the Southeast -- limiting
+the overlap of warm/dry/breezy conditions.
+
+..Weinman.. 12/01/2024
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/exper/fire_wx/>
+
+---
+
 ## SPC Day 2 Fire Weather Outlook
 
-date: 2024-12-01, from: NOAA Weather Forecasts
+date: 2024-12-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 2 Fire Weather Outlook  
@@ -71,30 +145,6 @@ introduce Elevated highlights on this outlook.
 <br> 
 
 <https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
-
----
-
-## SPC - No watches are valid as of Sun Dec  1 19:57:02 UTC 2024
-
-date: 2024-12-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Sun Dec  1 19:57:02 UTC 2024. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Sun Dec  1 19:57:02 UTC 2024
-
-date: 2024-12-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Sun Dec  1 19:57:02 UTC 2024. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
 
 ---
 
@@ -194,18 +244,6 @@ northward throughout the period.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day3otlk_1930.html>
-
----
-
-## There are no tropical cyclones at this time.
-
-date: 2024-12-01, from: Eastern Pacific Basin GIS Data
-
-No tropical cyclones as of Sun, 01 Dec 2024 17:07:54 GMT 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gis/>
 
 ---
 
@@ -380,33 +418,19 @@ thunderstorms inland is expected to remain low.
 
 ---
 
-## Central Pacific Tropical Weather Outlook
+## CPHC Central North Pacific Outlook
 
-date: 2024-12-01, from: Central Pacific Tropical Weather Outlook
+date: 2024-12-01, from: Graphical Tropical Weather Outlooks
 
- <br />
- 000<br />
- ACPN50 PHFO 010534<br />
- TWOCP <br />
- <br />
- Tropical Weather Outlook<br />
- NWS Central Pacific Hurricane Center Honolulu HI<br />
- 800 PM HST Sat Nov 30 2024<br />
- <br />
- For the central North Pacific...between 140W and 180W:<br />
- <br />
- No tropical cyclones are expected during the next 7 days.<br />
- <br />
- The 2024 central North Pacific hurricane season officially ends <br />
- today, November 30. As such, this is the final routine Tropical <br />
- Weather Outlook for the 2024 season in general, and for this <br />
- forecaster in particular. Routine issuance of the Tropical Weather <br />
- Outlook will resume on June 1, 2025. During the off-season, Special <br />
- Tropical Weather Outlooks will be issued as conditions warrant. <br />
- <br />
- $$<br />
- Forecaster Powell<br />
-  
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_2d0_resize.gif" alt="Central North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_7d0_resize.gif" alt="Central North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC HFOTWOCP ALL<br>TTAA00 PHFO DDHHMM<br><br>Tropical Weather Outlook<br>NWS Central Pacific Hurricane Center Honolulu HI<br>800 PM HST Sat Nov 30 2024<br><br>For the central North Pacific...between 140W and 180W:<br><br>No tropical cyclones are expected during the next 7 days.<br><br>The 2024 central North Pacific hurricane season officially ends <br>today, November 30. As such, this is the final routine Tropical <br>Weather Outlook for the 2024 season in general, and for this <br>forecaster in particular. Routine issuance of the Tropical Weather <br>Outlook will resume on June 1, 2025. During the off-season, Special <br>Tropical Weather Outlooks will be issued as conditions warrant. <br><br>$$<br>Forecaster Powell<br>NNNN<br><br></div></div><br />
+ 
 
 <br> 
 
@@ -414,33 +438,34 @@ date: 2024-12-01, from: Central Pacific Tropical Weather Outlook
 
 ---
 
-## Eastern Pacific Tropical Weather Outlook
+## Eastern North Pacific Tropical Weather Outlook
 
-date: 2024-12-01, from: Eastern Pacific Tropical Weather Outlook
+date: 2024-12-01, from: Eastern Pacific Basin Tropical Cyclones
 
- <br />
- 000<br />
- ABPZ20 KNHC 010500<br />
- TWOEP <br />
- <br />
- Tropical Weather Outlook<br />
- NWS National Hurricane Center Miami FL<br />
- 1000 PM PST Sat Nov 30 2024<br />
- <br />
- For the eastern North Pacific...east of 140 degrees west longitude:<br />
- <br />
- Tropical cyclone formation is not expected during the next 7 days.<br />
- <br />
- This is the last regularly scheduled Tropical Weather Outlook of <br />
- the 2024 eastern North Pacific Hurricane Season.  Routine issuance <br />
- of the Tropical Weather Outlook will resume on May 15, 2025. During <br />
- the off-season, Special Tropical Weather Outlooks will be issued as <br />
- conditions warrant.<br />
- <br />
- $$<br />
- Forecaster Beven<br />
- <br />
-  
+
+<br/>
+000<br/>
+ABPZ20 KNHC 010500<br/>
+TWOEP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+1000 PM PST Sat Nov 30 2024<br/>
+<br/>
+For the eastern North Pacific...east of 140 degrees west longitude:<br/>
+<br/>
+Tropical cyclone formation is not expected during the next 7 days.<br/>
+<br/>
+This is the last regularly scheduled Tropical Weather Outlook of <br/>
+the 2024 eastern North Pacific Hurricane Season.  Routine issuance <br/>
+of the Tropical Weather Outlook will resume on May 15, 2025. During <br/>
+the off-season, Special Tropical Weather Outlooks will be issued as <br/>
+conditions warrant.<br/>
+<br/>
+$$<br/>
+Forecaster Beven<br/>
+<br/>
+ 
 
 <br> 
 

@@ -1,11 +1,11 @@
 ---
 title: socal north
-updated: 2024-12-01 14:20:29
+updated: 2024-12-01 14:38:54
 ---
 
 # socal north
 
-(date: 2024-12-01 14:20:29)
+(date: 2024-12-01 14:38:54)
 
 ---
 
@@ -21,7 +21,7 @@ It's time to discuss one of the perennial debates of the holiday season. Are rea
 
 ---
 
-## Street Symphony’s festival hopes to hopes to bring joy and music to Skid Row – and they need volunteers
+## Street Symphony’s festival hopes to bring joy and music to Skid Row – and they need volunteers
 
 date: 2024-12-01, updated: 2024-12-01, from: The LAist
 
@@ -121,7 +121,7 @@ The Earworm Eraser is a 40-second audio track specifically designed to banish "J
 
 ## Here's why bird flu fears are intensifying
 
-date: 2024-11-30, updated: 2024-11-30, from: The LAist
+date: 2024-11-30, updated: 2024-12-01, from: The LAist
 
 Efforts to contain the virus are falling short. A teenager in Canada is in critical condition after an unexplained infection. And the arrival of flu season has scientists on edge. 
 
