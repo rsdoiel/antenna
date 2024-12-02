@@ -131,7 +131,8 @@ https://ocelot.ca/blog/feed/ "~Ocelot SQL GUI blog"
 https://odysseygamesco.com/feed/ "~Odyssey Games blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://onefoottsunami.com/feed/atom/ "~One Foot Tsunami"
 https://ooh.directory/blog/feeds/posts.xml "~ooh.directory blog"
-https://openrss.org/rss "~Open RSS Blog"
+# failed to respond 2024-12-02, RSD
+#https://openrss.org/rss "~Open RSS Blog"
 https://optimism.substack.com/feed "~Howard Weaver Blog"
 https://p1k3.com/feed "~p1k3.com community feed"
 https://passo.uno/index.xml "~Blog by Fabrizio Ferri-Benedetti"
@@ -168,7 +169,8 @@ https://thorstenball.com/atom.xml "~Thurston Ball blog"
 #https://tilde.news/rss "~Tilde.news"
 https://tilde.zone/@tomasino.rss "~Tomosino's Mastodon feed"
 https://timkellogg.me/blog/atom.xml "~Tom Kellog blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
-https://timwright.org/blog/feed/ "~Tim Wright's blog (met at USC)"  curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+## Tim appears to have dropped his RSS feed from blog, last post is dated May 30, 2023 (may not be blogging now)
+#https://timwright.org/blog/feed/ "~Tim Wright's blog (met at USC)"  curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://tink.uk/feed.xml "~Tink's blog"
 https://tinyclouds.org/feed "~Ryan Dahl's blog"
 https://transitinglosangeles.com/feed/ "~Transiting Los Angeles"
