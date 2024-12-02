@@ -1,11 +1,213 @@
 ---
 title: columns
-updated: 2024-12-02 07:05:14
+updated: 2024-12-02 12:15:21
 ---
 
 # columns
 
-(date: 2024-12-02 07:05:14)
+(date: 2024-12-02 12:15:21)
+
+---
+
+## The Talk Show: ‘A Good Duck Butt’
+
+date: 2024-12-02, updated: 2024-12-02, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://daringfireball.net/thetalkshow/2024/12/02/ep-415>
+
+---
+
+##  My friend Youngna is a wonderful writer and observer and I loved... 
+
+date: 2024-12-02, updated: 2024-12-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045763-my-friend-youngna-is-a>
+
+---
+
+##  When a Telescope Is a National-Security Risk. The Vera Rubin Observatory is... 
+
+date: 2024-12-02, updated: 2024-12-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045758-when-a-telescope-is-a>
+
+---
+
+## 2024-12-02 Rollenspieladvent: Das Rollenspielsetting
+
+date: 2024-12-02, from: Alex Schroeder's Blog
+
+<h1 id="2024-12-02-rollenspieladvent-das-rollenspielsetting">2024-12-02 Rollenspieladvent: Das Rollenspielsetting</h1>
+
+<p><a class="account" href="https://rollenspiel.social/@HeyeBodo" title="@HeyeBodo@rollenspiel.social">@HeyeBodo</a> stellt auf fedi jeden Tag eine Frage zum Rollenspielsetting. Die darf man dann beantworten. Da ich schon lange nichts mehr auf Deutsch hier auf dem Blog geschrieben habe, werde ich die Gelegenheit wahrnehmen, das hier zu tun. Allerdings habe ich vor, alles auf dieser Seite zu sammeln. Das wird für die Leser, die dem Blog via einem Feed folgen, wahrscheinlich etwas seltsam, denn heute gibt es nur Antworten auf die ersten zwei Tage. Mir fällt leider auch keine andere Lösung ein, denn irgendwie will ich auch nicht jeden Tag eine Seite schreiben.</p>
+
+<h2 id="welchen-geografischen-maßstab-hat-oder-strebst-du-für-dein-setting-an">Welchen geografischen Maßstab hat oder strebst Du für Dein Setting an?</h2>
+
+<p>Eine typische Karte, wie ich sie vorbereiten würde, ist von Ost nach West ca. 30 Tagesreisen breit und von Nord nach Süd ca. 10–20 Tagesreisen hoch. Das sieht ästhetisch gut aus, bietet Platz für ein paar Städte, Magiertürme, Monsterlager, Bauernhöfe, versteckte Siedlungen, und so weiter. Ein paar Seen, ein oder zwei Gebirge mit Pässen und Handelsrouten, viele Flüsse. Ich weigere mich, eine genau Grösse anzugeben und behaupte einfach, ein Feld auf der Karte ist eine Tagesreise. Wenn es keine Wege gibt, behaupte ich manchmal, dass eine Tagesreise vielleicht nur 5–10km sind. Klar kann man als trainierter Legionär auf einer römischen Strasse vielleicht ab und zu einen 50km Marsch machen, oder 30km weit ziehen, aber in einem Tal, wo die Talwände steil und von Bächen zerklüftet sind, wo der Talboden versumpft und wild ist, wo das Wasser überall steht und fliesst, das Unterholz im Wald dicht ist, weil die Wisente immer wieder Lichtungen reissen und es keine richtige Forstwirtschaft gibt, kann ich mir nicht vorstellen, dass Leute mit 20–30kg Ausrüstung pro Person mehr als ein paar Kilometer weit kommen. Ich schliesse da von mir auf andere. 😅</p>
+
+<p>Und damit kommen wir zum nächsten Thema, angenommen, ein Feld ist 10km und dann ist eine Karte von 30×20 ungefähr so gross wie die ganze Schweiz.</p>
+
+<blockquote>
+<p>Die Ausdehnung der Schweiz beträgt von Norden nach Süden 220km und von Osten nach Westen 348km. … Die Schweiz gliedert sich in drei geografische Zonen: die Alpen mit einem Anteil von etwa 58% der Gesamtfläche, das Mittelland mit rund 31% und der Jura mit 11%. 48 Schweizer Berge sind über 4000 m hoch.  Obwohl Gebirge insgesamt 70% des Staatsgebietes einnehmen, lebt in diesem Gebiet nur ein Viertel der Bevölkerung. &ndash; <a href="https://www.eda.admin.ch/aboutswitzerland/de/home/umwelt/geografie/geografie---fakten-und-zahlen.html">Geografie – Fakten und Zahlen</a>, Eidgenössisches Departement für
+auswärtige Angelegenheiten (EDA)</p>
+</blockquote>
+
+<p>In diesem Gebiet gibt es 26 Kantone und entsprechend 26 grössere Orte und ein Vielfaches an Burgen. An jedem Talausgang hat es eine Burg. In grösseren Tälern hat es mehrere Burgen. Wenn wir jetzt von 30×20 Feldern ausgehen, von denen 58% Gebirge sind, bleiben 348 Felder für die 26 Kantone oder im Durchschnitt 13 Felder pro Kanton.</p>
+
+<p>Jetzt bin ich selber überrascht, wie überdimensioniert und leer meine Karten sind. Da muss viel, viel mehr rein!</p>
+
+<h2 id="wovon-ist-dein-setting-inspiriert">Wovon ist Dein Setting inspiriert?</h2>
+
+<p>Meine Welt ist vor allem von der Umwelt inspiriert, in der ich lebe. Die Berge, Täler und Hügel, in denen ich selber herumlaufe, inspirieren mich für mein Spiel. Ich versuche natürlich mir vorzustellen, wie es früher aussah, vor den Flussbegradigungen, vor der Trockenlegung der Sümpfe, vor dem Strassenbau. Und somit ist klar, dass all diese Vorstellungen aus der Vergangenheit irgendwie kollidieren und kollabieren müssen. Das Resultat ist unrealistisch und weltfremd, und doch vertraut genug.</p>
+
+<p>Die Monster und Menschen sind in vielem wohl von Conan und dem Herr der Ringe bestimmt. Die Elfen sind eher keine Elben, sondern irgendwo zwischen der Elfenwelt und Elric von Melniboné angesiedelt; die Orks irgendwo zwischen Mordor und Skyrim; die Halblinge bei den Hobbits; die Goblins in Moria; die Bäume in Fangorn; die Götter stammen aus der nordischen Tradition (Odin, Thor, Loki), aber auch aus dem Zweistromland (Ishtar, Marduk, Pazuzu), Griechenland (Hekate) oder aus Ägypten (Thot, Ra, Set), aus Hyperborea (ebenfalls Set) und aus D&amp;D (Orcus).</p>
+
+<p><a class="tag" href="/search/?q=%23RSP">#RSP</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2024-11-28-rollenspieladvent>
+
+---
+
+## Steep Discounts on M3 MacBook Air Models at Amazon
+
+date: 2024-12-02, updated: 2024-12-02, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.amazon.com/dp/B0DLHQGGN5?tag=df-amzn-20>
+
+---
+
+## Visual details from the California coast
+
+date: 2024-12-02, from: Tracy Durnell Blog
+
+Cool things I saw on my road trip up the California coast. Patterns Exterior details Interior details 
+
+<br> 
+
+<https://tracydurnell.com/2024/12/02/visual-details-california-coast/>
+
+---
+
+##  Playing Music With Barcode Scanners 
+
+date: 2024-12-02, updated: 2024-12-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/playing-music-with-barcode-scanners>
+
+---
+
+## Raspberry Pi boosts Pi 5 performance with SDRAM tuning
+
+date: 2024-12-02, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Raspberry Pi boosts Pi 5 performance with SDRAM tuning</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><strong>tl;dr</strong> Raspberry Pi engineers tweaked SDRAM timings and other memory settings on the Pi, resulting in a 10-20% speed boost at the default 2.4 GHz clock. I of course had to test overclocking, which got me a <em>32%</em> speedup at 3.2 GHz! Changes may roll out in a firmware update for all Pi 5 and Pi 4 users soon.</p>
+
+<p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/pi-5-overclock-desk-mess.jpeg" alt="Raspberry Pi 5 with SDRAM tweaks applied on desk"></p>
+
+<p>My quest for the <a href="https://browser.geekbench.com/v6/cpu/search?dir=desc&amp;q=Raspberry+Pi+5+Model+B&amp;sort=score">world record Geekbench 6 score on a Pi 5</a> continues, as a couple months ago <a href="https://www.martinrowan.co.uk/2024/09/raspberry-pi-5-overclocking-to-beat-geekbench-record/">Martin Rowan</a> used cooling and <a href="https://www.jeffgeerling.com/blog/2024/numa-emulation-speeds-pi-5-and-other-improvements">NUMA emulation tricks</a> to beat my then-record score.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-12-02T11:19:21-06:00" title="Monday, December 2, 2024 - 11:19" class="datetime">December 2, 2024</time>
+</span> 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2024/raspberry-pi-boosts-pi-5-performance-sdram-tuning>
+
+---
+
+## Intel CEO Pat Gelsinger Forced Out by Board
+
+date: 2024-12-02, updated: 2024-12-02, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.bloomberg.com/news/articles/2024-12-02/intel-ceo-pat-gelsinger-retires-amid-chipmaker-s-turnaround-plan>
+
+---
+
+##  Madeleine Riffaud, hero of the French Resistance, has died at the age... 
+
+date: 2024-12-02, updated: 2024-12-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045761-madeleine-riffaud-hero-of>
+
+---
+
+## California’s Top Broadband Cities
+
+date: 2024-12-02, from: Om Malik blog
+
+Last week, I wrote about a study conducted by TRG Datacenters that assessed the digital quality of life across U.S. cities by measuring metrics such as download speed, number of internet service providers, and customer ratings. I had some follow-up questions, so I requested access to the underlying data from the folks at TRG. I &#8230; 
+
+<br> 
+
+<https://om.co/2024/12/02/californias-top-broadband-cities/>
+
+---
+
+##  (Metaphorical) lessons learned from building wood fires, including &#8220;the most important ingredient... 
+
+date: 2024-12-02, updated: 2024-12-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045760-metaphorical-lessons-lear>
+
+---
+
+##  After 37 years, the 80s fashion trend of wearing salmon as hats... 
+
+date: 2024-12-02, updated: 2024-12-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045759-after-37-years-the-80s>
+
+---
+
+##  Always Interesting: “52 Things I Learned in 2024” 
+
+date: 2024-12-02, updated: 2024-12-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/always-interesting-52-things-i-learned-in-2024>
 
 ---
 

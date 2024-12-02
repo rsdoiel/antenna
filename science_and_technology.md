@@ -1,11 +1,143 @@
 ---
 title: science and technology
-updated: 2024-12-02 07:05:13
+updated: 2024-12-02 12:15:21
 ---
 
 # science and technology
 
-(date: 2024-12-02 07:05:13)
+(date: 2024-12-02 12:15:21)
+
+---
+
+## 'Brain Rot,' the Scourge of the Chronically Online, Becomes Oxford's 2024 Word of the Year
+
+date: 2024-12-02, from: Smithsonian Magazine
+
+The term refers to "the supposed deterioration of a person's mental or intellectual state" that's linked to spending extensive stretches of time scrolling through low-quality content 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/brain-rot-the-scourge-of-the-chronically-online-becomes-oxfords-2024-word-of-year-180985560/>
+
+---
+
+## A 65,000-Year-Old Hearth Reveals Evidence That Neanderthals Produced Tar for Stone Tools in Iberia
+
+date: 2024-12-02, from: Smithsonian Magazine
+
+While Neanderthals have been found to create glue-like substances with other materials, this finding, if confirmed, would be the first sign of Neanderthals burning the rockrose plant to make tar 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-65000-year-old-hearth-reveals-evidence-that-neanderthals-produced-tar-for-stone-tools-in-iberia-180985536/>
+
+---
+
+## OpenAI denies it is building ad biz model into its platform
+
+date: 2024-12-02, updated: 2024-12-02, from: The Register (UK I.T. News)
+
+<h4>Chief financial officer admits &#39;we&#39;re open to exploring other revenue streams in the future&#39;</h4> <p>OpenAI has ruled out running adverts on its platforms, for now at least, Chief Financial Officer Sarah Friar has told <em>The Register</em>.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/02/openai_mulls_other_revenue_streams/>
+
+---
+
+## You Are Now Arriving at ‘Pico Turquino’
+
+date: 2024-12-02, from: NASA breaking news
+
+Earth planning date: Monday, Nov. 18, 2024 Perseverance has been continuing its sightseeing tour of the Jezero crater rim, with this week’s travel itinerary including an up-close look at “Pico Turquino.” Here, the team hopes to investigate the history recorded in this approximately 200-meter-long region (about 656 feet) of exposed outcrop. Such rocks may reveal […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/you-are-now-arriving-at-pico-turquino/>
+
+---
+
+## What’s Up: December 2024 Skywatching Tips from NASA
+
+date: 2024-12-02, from: NASA breaking news
+
+Catch December’s Celestial Highlights! This month, Venus dazzles as the “Evening Star,” Jupiter reaches its brightest for the year, and the Geminid meteor shower peaks under challenging moonlit skies. Skywatching Highlights All Month – Planet Visibility: December 3-5 – Venus and the Moon: Look southwest after sunset to see a beautiful pairing. On December 4, […] 
+
+<br> 
+
+<https://science.nasa.gov/solar-system/skywatching/whats-up-december-2024-skywatching-tips-from-nasa/>
+
+---
+
+## You Can Actually Smell the Incense, Rainy Meadows and Musty Cloth in These Pre-Raphaelite Paintings
+
+date: 2024-12-02, from: Smithsonian Magazine
+
+At an exhibition in England, curators have placed artworks alongside diffusers that dispense carefully crafted fragrances, which visitors can trigger by pushing a button 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/you-can-actually-smell-the-incense-rainy-meadows-and-musty-cloth-in-these-pre-raphaelite-paintings-180985553/>
+
+---
+
+## Apple's backwards design mistake and the reversed capacitor
+
+date: 2024-12-02, updated: 2024-12-02, from: The Register (UK I.T. News)
+
+<h4>It&#39;s true – the Mac LC III really did have it installed the wrong way round</h4> <p>Did Apple really fit a capacitor backward on the Mac LC III? A multimeter-wielding retro fan has confirmed that, yes – somebody made a mistake decades ago, and a capacitor ended up installed the wrong way.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/02/apples_design_reversed_capacitor/>
+
+---
+
+## Musk seeks injunction to stop OpenAI morphing into for-profit company
+
+date: 2024-12-02, updated: 2024-12-02, from: The Register (UK I.T. News)
+
+<h4>Politics, electric cars, rockets, and social media not enough to keep some individuals busy</h4> <p>Elon Musk has filed for an injunction against OpenAI co-founder and CEO Sam Altman, broadly designed to prevent the GenAI poster child from shifting towards an entirely for-profit business.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/02/musk_openai_injunction/>
+
+---
+
+## NASA to Cover its 31st SpaceX Resupply Mission Station Departure
+
+date: 2024-12-02, from: NASA breaking news
+
+NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft departs the International Space Station on Thursday, Dec. 5, for its return to Earth. NASA’s live coverage of undocking and departure begins at 10:50 a.m. EST on NASA+. Learn how to watch NASA content through a [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-to-cover-its-31st-spacex-resupply-mission-station-departure/>
+
+---
+
+## Fish Have a Brain Microbiome. Could Humans Have One Too?
+
+date: 2024-12-02, from: Quanta Magazine
+
+The discovery that other vertebrates have healthy, microbial brains is fueling the still controversial possibility that we might have them as well.            <p>The post <a href="https://www.quantamagazine.org/fish-have-a-brain-microbiome-could-humans-have-one-too-20241202/" target="_blank">Fish Have a Brain Microbiome. Could Humans Have One Too?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/fish-have-a-brain-microbiome-could-humans-have-one-too-20241202/>
+
+---
+
+## Experience the Launch of NASA’s SpaceX Crew-10 Mission
+
+date: 2024-12-02, from: NASA breaking news
+
+Digital content creators are invited to register to attend the launch of NASA’s SpaceX Crew-10 mission to carry astronauts to the International Space Station for a science expedition mission as part of NASA’s Commercial Crew Program. This will be the 14th time a SpaceX Dragon spacecraft launched by a Falcon 9 rocket takes crews to [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-10-mission/>
 
 ---
 
@@ -13,7 +145,7 @@ updated: 2024-12-02 07:05:13
 
 date: 2024-12-02, updated: 2024-12-02, from: The Register (UK I.T. News)
 
-<h4>80486 processor lead architect leaves company after largest quarterly loss in company&#39;s history</h4> <p><strong>Breaking</strong>  Intel has confirmed the sudden departure of chief executive Pat Gelsinger, in a move intended to restore investor confidence in the ailing Silicon Valley giant following a year of turmoil.…</p> 
+<h4>80486 processor lead architect leaves x86 giant after largest quarterly loss in its history</h4> <p>Intel has confirmed the sudden departure of chief executive Pat Gelsinger, in a move intended to restore investor confidence in the ailing Silicon Valley giant following a year of turmoil.…</p> 
 
 <br> 
 

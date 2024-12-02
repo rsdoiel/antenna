@@ -1,11 +1,193 @@
 ---
 title: journalism
-updated: 2024-12-02 07:05:15
+updated: 2024-12-02 12:15:22
 ---
 
 # journalism
 
-(date: 2024-12-02 07:05:15)
+(date: 2024-12-02 12:15:22)
+
+---
+
+## Flippers and Fun Mixer: The Power of Pinball at CSUN
+
+date: 2024-12-02, from: The Sundail (CSUN Student Newspaper)
+
+The University Student Union Games Room hosts a variety of consoles, PC’s and games that students can enjoy in between classes. Throughout November, the room introduced two new additions to... 
+
+<br> 
+
+<https://sundial.csun.edu/188244/arts-entertainment/flippers-and-fun-mixer-the-power-of-pinball-at-csun/>
+
+---
+
+## DIY Christmas Ornaments
+
+date: 2024-12-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2024/12/02/diy-christmas-ornaments/>
+
+---
+
+## Bruin to Bruin: From American Idol to Westwood – A Conversation with Ava August
+
+date: 2024-12-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+In this episode of &#8220;Bruin to Bruin,&#8221; host Aidan Teeger interviews Ava August, a freshman at UCLA and an accomplished singer-songwriter who has already appeared on American Idol and The Voice. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/02/bruin-to-bruin-from-american-idol-to-westwood-a-conversation-with-ava-august/>
+
+---
+
+## Chromakopia Album Review and Camp Flog Gnaw 2024
+
+date: 2024-12-02, from: The Sundail (CSUN Student Newspaper)
+
+Tens of thousands of people gathered outside the gates of the Dodger Stadium as security and staff frantically acted to maintain an organized crowd. Instead, this was an event curated... 
+
+<br> 
+
+<https://sundial.csun.edu/188231/arts-entertainment/chromakopia-album-review-and-camp-flog-gnaw-2024/>
+
+---
+
+## Exploring the Future of Medical Imaging: Trends in Radiology Technology
+
+date: 2024-12-02, from: The Sundail (CSUN Student Newspaper)
+
+Image source: https://shorturl.at/FopUJ &#160; Radiology technology is evolving faster than ever.  Innovations like advanced imaging techniques and portable devices are redefining how healthcare providers diagnose and treat patients. These advancements... 
+
+<br> 
+
+<https://sundial.csun.edu/188230/sundialbrandstudio/sundial-marketplace/exploring-the-future-of-medical-imaging-trends-in-radiology-technology/>
+
+---
+
+## Cultivating Local Knowledge’s First Seed Swap Preview: Learning and Exchanging
+
+date: 2024-12-02, from: The Sundail (CSUN Student Newspaper)
+
+Cultivating Local Knowledge (CLK) is a project that seeks to enrich CSUN students and the San Fernando Valley community by sharing ecological knowledge. The initiative uses gardening and plant cultivation... 
+
+<br> 
+
+<https://sundial.csun.edu/188225/news/cultivating-local-knowledges-first-seed-swap-preview-learning-and-exchanging/>
+
+---
+
+## Adaptive Learning Materials: Revolutionizing Personalized Education
+
+date: 2024-12-02, from: The Sundail (CSUN Student Newspaper)
+
+Adaptive learning materials are changing the way you think about education by offering tools that adapt to your needs. These materials use technology to create content that fits you like... 
+
+<br> 
+
+<https://sundial.csun.edu/188220/sundialbrandstudio/sundial-marketplace/adaptive-learning-materials-revolutionizing-personalized-education/>
+
+---
+
+## Practicing Practical Spending: 7 Tips for Success
+
+date: 2024-12-02, from: The Sundail (CSUN Student Newspaper)
+
+Many Americans will face financial hardship at some point in their lives. Recent data from the Federal Reserve suggests that over a quarter of Americans are struggling financially and may... 
+
+<br> 
+
+<https://sundial.csun.edu/188213/sundialbrandstudio/sundial-marketplace/practicing-practical-spending-7-tips-for-success/>
+
+---
+
+## How to Make Your Budget Stick
+
+date: 2024-12-02, from: The Sundail (CSUN Student Newspaper)
+
+What is the 50/30/20 Rule of Money? If you find yourself in a position where you are struggling with your budget, you are not alone! Sticking to a budget is... 
+
+<br> 
+
+<https://sundial.csun.edu/188210/sundialbrandstudio/sundial-marketplace/how-to-make-your-budget-stick/>
+
+---
+
+## How To Navigate Legal Streams In Collegiate Life?
+
+date: 2024-12-02, from: The Sundail (CSUN Student Newspaper)
+
+IMG Source &#8211; https://rb.gy/qxstu1 &#160; While college life does come with its share of fun, freedom, and adventures, it is also a time of responsibilities, and with most young students... 
+
+<br> 
+
+<https://sundial.csun.edu/188204/sundialbrandstudio/independent-legal-guide/how-to-navigate-legal-streams-in-collegiate-life/>
+
+---
+
+## Medical Malpractice: Common Injuries You Could Sustain
+
+date: 2024-12-02, from: The Sundail (CSUN Student Newspaper)
+
+imagesource Medical malpractice is a distressing reality for those who place their trust in healthcare providers, expecting professional care and attention. Although most medical treatments are performed without issue, a... 
+
+<br> 
+
+<https://sundial.csun.edu/188200/sundialbrandstudio/independent-legal-guide/medical-malpractice-common-injuries-you-could-sustain/>
+
+---
+
+## Framed prints as unique holiday gifts: Capture and display your favorite college moments or add personality to your space with framed prints
+
+date: 2024-12-02, from: The Sundail (CSUN Student Newspaper)
+
+Personalized gifts have become increasingly popular among college students, offering a unique and thoughtful way to celebrate special moments. Framed prints serve as a perfect gift option, encapsulating cherished memories... 
+
+<br> 
+
+<https://sundial.csun.edu/188197/sundialbrandstudio/sundial-marketplace/framed-prints-as-unique-holiday-gifts-capture-and-display-your-favorite-college-moments-or-add-personality-to-your-space-with-framed-prints/>
+
+---
+
+## College of the Canyons, students stepped into the shoes of early humans through a unique hands-on experience
+
+date: 2024-12-02, from: The Canyon News (COC Student Newspaper)
+
+<p>At College of the Canyons, history is more than something you study;&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/anthro-survivor/">College of the Canyons, students stepped into the shoes of early humans through a unique hands-on experience</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/anthro-survivor/>
+
+---
+
+## Passion for STEM blasts off at Exploring Your Universe Fair
+
+date: 2024-12-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+Over 10,000 K-12 students, UCLA undergraduates, graduate students and professors gathered at the Court of Sciences on Nov. 5 for the 2024 Exploring Your Universe Fair. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/02/passion-for-stem-blasts-off-at-exploring-your-universe-fair/>
+
+---
+
+## News outlets push vertical video to the homepage
+
+date: 2024-12-02, from: Nieman Journalism Lab
+
+You’ve probably noticed that when you open your favorite news site or app, there’s a lot more video. When Wired had six reporters follow a robotaxi from autonomous car company Waymo around San Francisco, for example, associate director of social Evy Kwong took vertical smartphone videos and interspersed them through the piece. In a story... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/news-outlets-push-vertical-video-to-the-homepage/>
 
 ---
 

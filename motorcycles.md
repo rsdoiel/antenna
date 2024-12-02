@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2024-12-02 07:05:15
+updated: 2024-12-02 12:15:23
 ---
 
 # motorcycles
 
-(date: 2024-12-02 07:05:15)
+(date: 2024-12-02 12:15:23)
+
+---
+
+## KTM's MotoGP Program On Pause, Comes on the Heels of Near Bankruptcy
+
+date: 2024-12-02, from: Ride Apart, Electric Motorcycle News
+
+Not the death knell; at least, not yet. 
+
+<br> 
+
+<https://www.rideapart.com/news/742949/ktm-motogp-program-paused-insolvency-bankruptcy/>
 
 ---
 

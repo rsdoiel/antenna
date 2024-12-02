@@ -1,35 +1,11 @@
 ---
 title: food
-updated: 2024-12-02 07:05:16
+updated: 2024-12-02 12:15:24
 ---
 
 # food
 
-(date: 2024-12-02 07:05:16)
-
----
-
-## 517 Coffee Expands its Area in Lansing with Roastery and Bar
-
-date: 2024-12-02, from: Daily Coffee News
-
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/517-Coffee-Lansing-lounge-620x414.jpg" class="attachment-large size-large wp-post-image" alt="517 Coffee Lansing lounge" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/517-Coffee-Lansing-lounge-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/517-Coffee-Lansing-lounge-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/517-Coffee-Lansing-lounge-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/517-Coffee-Lansing-lounge-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/517-Coffee-Lansing-lounge.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Michigan&#8217;s 517 517 Coffee Company is ringing in the arrival of its new coffee bar inside its newly acquired roastery in Lansing. The coffee company took over a coffee production... 
-
-<br> 
-
-<https://dailycoffeenews.com/2024/12/02/517-coffee-expands-its-area-in-lansing-with-roastery-and-bar/>
-
----
-
-## New Jersey Gets More Brews from Bleu Coffee
-
-date: 2024-12-02, from: Daily Coffee News
-
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/Bleu-Coffee-Montclair-NJ-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Bleu Coffee Montclair NJ 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/Bleu-Coffee-Montclair-NJ-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Bleu-Coffee-Montclair-NJ-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Bleu-Coffee-Montclair-NJ-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Bleu-Coffee-Montclair-NJ-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Bleu-Coffee-Montclair-NJ-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>New Jersey&#8217;s got the Bleus — three of them to be exact — with the opening of Jamaica-focused Bleu Coffee&#8216;s latest cafe in the township of Montclair. Just steps from... 
-
-<br> 
-
-<https://dailycoffeenews.com/2024/12/02/new-jersey-gets-more-brews-from-bleu-coffee/>
+(date: 2024-12-02 12:15:24)
 
 ---
 
@@ -42,6 +18,200 @@ Up to 50% off on Staub Dutch ovens, cookware sets, air fryers, and more.
 <br> 
 
 <https://www.bonappetit.com/story/cyber-monday-kitchen-deals-12-2-2024>
+
+---
+
+## Best Air Fryers (2024), Reviewed By Our Experts
+
+date: 2024-12-02, from: Bon Appetet
+
+Here’s what our editors recommend for crunchy fries, crispy chicken skin, blistered veggies, and more. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/best-air-fryers>
+
+---
+
+## Klatch Coffee Introduces Ready-To-Go Espresso
+
+date: 2024-12-02, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Ready-To-Go Espresso is Klatch Coffee's all-new bottled, ready-to-use premium espresso concentrate. 
+
+<br> 
+
+<https://sprudge.com/klatch-coffee-introduces-ready-to-go-espresso-260424.html>
+
+---
+
+## Inaugural Oakland Coffee Market Happening December 14
+
+date: 2024-12-02, from: Daily Coffee News
+
+<div><img width="620" height="480" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Oakland-Coffee-Market-1.jpg" class="attachment-large size-large wp-post-image" alt="Oakland Coffee Market" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Oakland-Coffee-Market-1.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Oakland-Coffee-Market-1-300x232.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Oakland-Coffee-Market-1-150x116.jpg 150w" sizes="(max-width: 620px) 100vw, 620px" /></div>It&#8217;s well established that coffee stuff is the only gift worth giving. Luckily for people in the Bay Area, a new in-person popup market called the Oakland Coffee Market is... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/02/inaugural-oakland-coffee-market-happening-december-14/>
+
+---
+
+## 16 Best Air Fryer Cyber Monday Deals 2024 for Crispy Everything
+
+date: 2024-12-02, from: Bon Appetet
+
+Looking for the best deals on air fryers from Breville, Ninja, Cosori, and more? We’ve got you covered. 
+
+<br> 
+
+<https://www.bonappetit.com/story/air-fryers-cyber-monday-12-2-2024>
+
+---
+
+## Best Yeti Cyber Monday Deals (2024), Up to 30% Off Cups and Coolers
+
+date: 2024-12-02, from: Bon Appetet
+
+The elite cooler maker really does have a few discounts this year 
+
+<br> 
+
+<https://www.bonappetit.com/story/yeti-cyber-monday-deals>
+
+---
+
+## 72 Kitchen Appliance Deals to Shop on Cyber Monday 2024
+
+date: 2024-12-02, from: Bon Appetet
+
+Save big on shiny new refrigerators, microwaves that air fry, smart induction ranges, and more. 
+
+<br> 
+
+<https://www.bonappetit.com/story/appliance-deals-cyber-monday-2024>
+
+---
+
+## The Sprudge Guide To Coffee In Kyoto For 2024
+
+date: 2024-12-02, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Where to drink coffee in Kyoto, Japan. 
+
+<br> 
+
+<https://sprudge.com/the-sprudge-guide-to-coffee-in-kyoto-for-2024-259457.html>
+
+---
+
+## The Only Good Indoor Pizza Oven Is Almost $200 Off for Cyber Monday
+
+date: 2024-12-02, from: Bon Appetet
+
+No countertop oven can do what the Ooni Volt can. 
+
+<br> 
+
+<https://www.bonappetit.com/story/ooni-volt-cyber-monday-sale>
+
+---
+
+## Celebrating a Momentous Year for Bon Appétit
+
+date: 2024-12-02, from: Bon Appetet
+
+Editor-in-Chief Jamila Robinson reflects on the many things to celebrate this year. 
+
+<br> 
+
+<https://www.bonappetit.com/story/jamila-letter-decjan-2024>
+
+---
+
+## Roaster Maker Sivetz Opens Showroom and HQ in Oregon
+
+date: 2024-12-02, from: Daily Coffee News
+
+<div><img width="620" height="423" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/Sivetz-620x423.jpg" class="attachment-large size-large wp-post-image" alt="Sivetz" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/Sivetz-620x423.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Sivetz-300x205.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Sivetz-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Sivetz.jpg 640w" sizes="(max-width: 620px) 100vw, 620px" /></div>Fluid-bed roaster maker Sivetz just opened a dedicated showroom and headquarters in Hood River, Oregon, about an hour&#8217;s drive east of Portland. The showroom represents the latest milestone for the... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/02/roaster-maker-sivetz-opens-showroom-and-hq-in-oregon/>
+
+---
+
+## 47 KitchenAid Cyber Monday Deals Up to 35% Off (2024)
+
+date: 2024-12-02, from: Bon Appetet
+
+The best early deals on the best stand mixers from Amazon, Walmart, and Best Buy. 
+
+<br> 
+
+<https://www.bonappetit.com/story/kitchenaid-mixer-cyber-monday-12-2-2024>
+
+---
+
+## Stanley Is Dropping a New ‘Scarlet Tinsel’ Tumbler for Cyber Monday
+
+date: 2024-12-02, from: Taste of Home
+
+<p>And it's all we want for Christmas!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/stanley-scarlet-tinsel/">Stanley Is Dropping a New ‘Scarlet Tinsel’ Tumbler for Cyber Monday</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/stanley-scarlet-tinsel/>
+
+---
+
+## 54 Cyber Monday Coffee Maker Deals, Up to 30% Off
+
+date: 2024-12-02, from: Bon Appetet
+
+The only thing better than getting a new coffee maker is getting one that's very on sale. 
+
+<br> 
+
+<https://www.bonappetit.com/story/coffee-deals-cyber-monday>
+
+---
+
+## I Need Thanksgiving Recipe Inspiration: Part Two
+
+date: 2024-12-02, from: Bon Appetet
+
+On this episode of Dinner SOS, Chris, Kendra and Shilpa return to answer more listener questions on how to save your Thanksgiving menus. 
+
+<br> 
+
+<https://www.bonappetit.com/story/i-need-thanksgiving-recipe-inspiration-part-two>
+
+---
+
+## 517 Coffee Expands its Area in Lansing with Roastery and Bar
+
+date: 2024-12-02, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/517-Coffee-Lansing-lounge-620x414.jpg" class="attachment-large size-large wp-post-image" alt="517 Coffee Lansing lounge" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/517-Coffee-Lansing-lounge-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/517-Coffee-Lansing-lounge-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/517-Coffee-Lansing-lounge-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/517-Coffee-Lansing-lounge-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/517-Coffee-Lansing-lounge.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Michigan&#8217;s 517 Coffee Company is ringing in the arrival of its new coffee bar inside its newly acquired roastery in Lansing. The coffee company took over a coffee production facility... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/02/517-coffee-expands-its-area-in-lansing-with-roastery-and-bar/>
+
+---
+
+## New Jersey Gets More Brews from Bleu Coffee
+
+date: 2024-12-02, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/Bleu-Coffee-Montclair-NJ-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Bleu Coffee Montclair NJ 1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/Bleu-Coffee-Montclair-NJ-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Bleu-Coffee-Montclair-NJ-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Bleu-Coffee-Montclair-NJ-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Bleu-Coffee-Montclair-NJ-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Bleu-Coffee-Montclair-NJ-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>New Jersey&#8217;s got the Bleus — three of them to be exact — with the opening of Jamaica-focused Bleu Coffee&#8216;s latest cafe in the township of Montclair. Just steps from... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/02/new-jersey-gets-more-brews-from-bleu-coffee/>
 
 ---
 
@@ -71,7 +241,7 @@ Dress up dinner with a little sparkle, cheer, and a soupçon of camp.
 
 ---
 
-## Which Champagne is Best? A Taste Test of Veuve Cliquot, Bollinger, Moét and More
+## Which Champagne is Best? A Taste Test of Veuve Cliquot, Bollinger, Moét, and More
 
 date: 2024-12-02, from: Bon Appetet
 
@@ -107,18 +277,6 @@ Deals on cookies, coffee, and wellness products—delivered straight to your doo
 
 ---
 
-## 48 KitchenAid Cyber Monday Deals to Mix It Up (2024)
-
-date: 2024-12-02, from: Bon Appetet
-
-The best early deals on the best stand mixers from Amazon, Walmart, and Best Buy. 
-
-<br> 
-
-<https://www.bonappetit.com/story/kitchenaid-mixer-cyber-monday-12-2-2024>
-
----
-
 ## 23 Best Nespresso Cyber Monday Deals 2024
 
 date: 2024-12-02, from: Bon Appetet
@@ -128,18 +286,6 @@ Plus we help you make sense of all the machines that are on sale today.
 <br> 
 
 <https://www.bonappetit.com/story/nespresso-cyber-monday-12-2-2024>
-
----
-
-## 11 Best Air Fryer Cyber Monday Deals 2024 for Crispy Everything
-
-date: 2024-12-02, from: Bon Appetet
-
-Looking for the best deals on air fryers from Breville, Ninja, Cosori, and more? We’ve got you covered. 
-
-<br> 
-
-<https://www.bonappetit.com/story/air-fryers-cyber-monday-12-2-2024>
 
 ---
 
@@ -192,42 +338,6 @@ The best ice is nugget ice and the best nugget ice maker is the GE Profile Opal.
 <br> 
 
 <https://www.bonappetit.com/story/ge-opal-nugget-ice-maker-black-friday-2024>
-
----
-
-## 65 Kitchen Appliance Deals to Shop on Cyber Monday 2024
-
-date: 2024-12-02, from: Bon Appetet
-
-Save big on shiny new refrigerators, microwaves that air fry, smart induction ranges, and more. 
-
-<br> 
-
-<https://www.bonappetit.com/story/appliance-deals-cyber-monday-2024>
-
----
-
-## Best Yeti Cyber Monday Deals (2024), Up to 30% Off Cups and Coolers
-
-date: 2024-12-02, from: Bon Appetet
-
-The elite cooler maker really does have a few discounts this year 
-
-<br> 
-
-<https://www.bonappetit.com/story/yeti-cyber-monday-deals>
-
----
-
-## 30 Cyber Monday Coffee Maker Deals, Up to 30% Off
-
-date: 2024-12-02, from: Bon Appetet
-
-The only thing better than getting a new coffee maker is getting one that's very on sale. 
-
-<br> 
-
-<https://www.bonappetit.com/story/coffee-deals-cyber-monday>
 
 ---
 

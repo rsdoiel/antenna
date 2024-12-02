@@ -1,11 +1,96 @@
 ---
 title: pacific
-updated: 2024-12-02 07:05:13
+updated: 2024-12-02 12:15:20
 ---
 
 # pacific
 
-(date: 2024-12-02 07:05:13)
+(date: 2024-12-02 12:15:20)
+
+---
+
+## December 2024 anniversaries
+
+date: 2024-12-02, from: University of Hawaiʻi News
+
+<p>The University of <span aria-label="Hawaii">Hawai&#699;i</span> celebrates December 2024 faculty and staff anniversaries.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/02/december-2024-anniversaries/">December 2024 anniversaries</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/02/december-2024-anniversaries/>
+
+---
+
+## On the Interpretation of Dreams
+
+date: 2024-12-02, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Daniel Webre The dreams were never the scary part. It was Allison’s interpretations. Even these weren’t terrifying in a conventional manner. It’s just that Allison’s mind could make connections no one else would ever think of, and though most &#8230; <a href="https://hawaiipacificreview.org/2024/12/02/on-the-interpretation-of-dreams/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://hawaiipacificreview.org/2024/12/02/on-the-interpretation-of-dreams/>
+
+---
+
+## Philippines’ Marcos says presence of Russian submarine ‘very worrisome’
+
+date: 2024-12-02, updated: 2024-12-02, from: Marianas Variety
+
+MANILA (Reuters) — President Ferdinand Marcos Jr. said on Monday the presence of a Russian attack submarine in the Philippines' exclusive economic zone in the South China Sea was "very worrisome." 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/philippines-marcos-says-presence-of-russian-submarine-very-worrisome/article_1577e84c-b097-11ef-bc0d-1f296847f43d.html>
+
+---
+
+## Migrant arrests at US borders with Mexico and Canada fell in November, senior official says
+
+date: 2024-12-02, updated: 2024-12-02, from: Marianas Variety
+
+WASHINGTON (Reuters) — The number of migrants caught illegally crossing the U.S. borders with Mexico and Canada fell in November, a senior U.S. border official told Reuters, part of a months-long trend that undercuts President-elect Donald Trump's claim illegal immigration is out of control. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/migrant-arrests-at-us-borders-with-mexico-and-canada-fell-in-november-senior-official-says/article_d5b17542-b097-11ef-b74d-7b082151a473.html>
+
+---
+
+## Oil rises on upbeat China data, shaky Israel-Lebanon ceasefire
+
+date: 2024-12-02, updated: 2024-12-02, from: Marianas Variety
+
+(Reuters) — Oil prices rose on Monday, supported by strong factory activity in China, the world's second-largest oil consumer, and escalating tensions in the Middle East, where Israel resumed attacks on Lebanon despite a ceasefire deal. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/oil-rises-on-upbeat-china-data-shaky-israel-lebanon-ceasefire/article_33d66060-b098-11ef-accb-9bd836633377.html>
+
+---
+
+## Park, Pagaduan, Cao top Pacifica’s 11th Annual Art Contest
+
+date: 2024-12-02, updated: 2024-12-02, from: Marianas Variety
+
+ANOTHER successful year of supporting the arts for Pacifica Insurance Underwriters Inc. with a total of 108 entries during this year’s 11th Annual Pacifica Art Contest or PAC. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/park-pagaduan-cao-top-pacifica-s-11th-annual-art-contest/article_9b6834d4-b06a-11ef-b4ab-9b92a64d7481.html>
+
+---
+
+## ‘Moana 2’ sails to a record $221 million opening as Hollywood celebrates a moviegoing feast
+
+date: 2024-12-02, updated: 2024-12-02, from: Marianas Variety
+
+NEW YORK (AP) — Christmas came early at the box office this year. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/moana-2-sails-to-a-record-221-million-opening-as-hollywood-celebrates-a-moviegoing-feast/article_33842fbc-b09c-11ef-8744-0f18b2daffea.html>
 
 ---
 
@@ -104,6 +189,20 @@ date: 2024-12-02, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2024/12/02/nation-world-news/dondald-trump-picks-loyalist-kash-patel-to-head-fbi/>
+
+---
+
+## Pahoa man critically hurt in Kona crash
+
+date: 2024-12-02, from: Hawaii Tribune Harold
+
+
+				<p>A 19-year-old Pahoa man sustained critical injuries in a two-vehicle collision in North Kona on Sunday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/02/hawaii-news/pahoa-man-critically-hurt-in-kona-crash/>
 
 ---
 

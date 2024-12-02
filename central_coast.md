@@ -1,11 +1,153 @@
 ---
 title: central coast
-updated: 2024-12-02 07:05:14
+updated: 2024-12-02 12:15:21
 ---
 
 # central coast
 
-(date: 2024-12-02 07:05:14)
+(date: 2024-12-02 12:15:21)
+
+---
+
+## Unity Shoppe: Over 100 Years of Empowering Santa Barbara’s Vulnerable Communities
+
+date: 2024-12-02, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="630" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Screenshot-2024-02-12-090150.png?fit=1024%2C630&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Screenshot-2024-02-12-090150.png?w=1141&amp;ssl=1 1141w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Screenshot-2024-02-12-090150.png?resize=300%2C185&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Screenshot-2024-02-12-090150.png?resize=1024%2C630&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Screenshot-2024-02-12-090150.png?resize=768%2C473&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Screenshot-2024-02-12-090150.png?resize=400%2C246&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Screenshot-2024-02-12-090150.png?fit=1024%2C630&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The nonprofit is committed to providing resources, such as groceries, clothing, and other essentials, to Santa Barbara County residents impacted by temporary conditions of poverty, life transitions, natural disasters, or health crises</p>
+<p>The post <a href="https://www.noozhawk.com/unity-shoppe-over-100-years-of-empowering-santa-barbaras-vulnerable-communities/">Unity Shoppe: Over 100 Years of Empowering Santa Barbara’s Vulnerable Communities</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/unity-shoppe-over-100-years-of-empowering-santa-barbaras-vulnerable-communities/>
+
+---
+
+## Authorities Release Name of Motorcyclist Killed in Highway 154 Crash
+
+date: 2024-12-02, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Authorities have released the name of the motorcyclist who was killed early Friday in a crash on Highway 154 near the top of San Marcos Pass. The victim was Otoniel [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/authorities-release-name-of-motorcyclist-killed-in-highway-154-crash/">Authorities Release Name of Motorcyclist Killed in Highway 154 Crash</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/authorities-release-name-of-motorcyclist-killed-in-highway-154-crash/>
+
+---
+
+## Mary Hunt: Epsom Salt the Frugal Fix-All You Didn’t Know You Needed
+
+date: 2024-12-02, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Let’s talk about one of the most underrated items in your bathroom cabinet: Epsom salt. It’s cheap, it’s unassuming and it has more uses than a Swiss Army Knife at [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/mary-hunt-epsom-salt-the-frugal-fix-all-you-didnt-know-you-needed/">Mary Hunt: Epsom Salt the Frugal Fix-All You Didn’t Know You Needed</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/mary-hunt-epsom-salt-the-frugal-fix-all-you-didnt-know-you-needed/>
+
+---
+
+## Poetry Reading, Book Signing by Local Writers at Chaucer’s
+
+date: 2024-12-02, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Chaucer&#8217;s Books in Santa Barbara will host poets David Starkey (“You, Caravaggio”)  and Catherine Abbey Hodges (“Empty Me Full”)  for a reading and book signing 6 p.m. Tuesday, Dec. 10. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/poetry-reading-book-signing-by-local-writers-at-chaucers/">Poetry Reading, Book Signing by Local Writers at Chaucer&#8217;s</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/poetry-reading-book-signing-by-local-writers-at-chaucers/>
+
+---
+
+## Discover Wood Glen: Santa Barbara’s First Non-Profit Senior Living Community
+
+date: 2024-12-02, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Veterans.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Veterans.jpg?w=2016&amp;ssl=1 2016w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Veterans.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Veterans.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Veterans.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Veterans.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Veterans.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Veterans.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Veterans.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Veterans.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Veterans.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Veterans.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Veterans.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/Veterans.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A local non-profit dedicated to operating a welcoming, tranquil, and compassionate environment with dedicated staff who ensure quality care and support services for independent and assisted living</p>
+<p>The post <a href="https://www.noozhawk.com/discover-wood-glen-santa-barbaras-first-non-profit-senior-living-community/">Discover Wood Glen: Santa Barbara’s First Non-Profit Senior Living Community</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/discover-wood-glen-santa-barbaras-first-non-profit-senior-living-community/>
+
+---
+
+## Santa Ynez Valley Humane & DAWG Take Home Harvest Cup
+
+date: 2024-12-02, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>For the second consecutive year, the Santa Ynez Valley Humane Society &#38; DAWG has captured the Harvest Cup at the annual SYV Scarecrow Fest, sponsored by the Solvang Chamber of [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-ynez-valley-humane-dawg-take-home-harvest-cup/">Santa Ynez Valley Humane &amp; DAWG Take Home Harvest Cup</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/santa-ynez-valley-humane-dawg-take-home-harvest-cup/>
+
+---
+
+## Holiday Magic Car Parade Making Its Way to Montecito
+
+date: 2024-12-02, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Montecito Association’s Holiday Magic Car Parade &#38; Sip &#38; Shop will take place Saturday, Dec. 14. The event starts with a Sip &#38; Shop event, 3-5 p.m. in the [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/holiday-magic-car-parade-making-its-way-to-montecito/">Holiday Magic Car Parade Making Its Way to Montecito</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/holiday-magic-car-parade-making-its-way-to-montecito/>
+
+---
+
+## CAMA Elects Peggy Anderson to Board of Directors
+
+date: 2024-12-02, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Community Arts Music Association of Santa Barbara, Inc. (CAMA) has elected Peggy Anderson to its Board of Directors. Anderson has been a supporter of CAMA since moving to Santa Barbara [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/cama-elects-peggy-anderson-to-board-of-directors/">CAMA Elects Peggy Anderson to Board of Directors</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/cama-elects-peggy-anderson-to-board-of-directors/>
+
+---
+
+## Lompoc Police Get $30,200 Grant for Bicycle, Pedestrian Safety
+
+date: 2024-12-02, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Office of Traffic Safety Awards $30,200 Grant to the Lompoc Police Department for Bicycle and Pedestrian Safety Program The Lompoc Police Department has received a grant from the California Office [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/lompoc-police-get-30200-grant-for-bike-pedestrian-safety/">Lompoc Police Get $30,200 Grant for Bicycle, Pedestrian Safety</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/lompoc-police-get-30200-grant-for-bike-pedestrian-safety/>
+
+---
+
+## Vikings of Solvang Party Brings Holiday Joy to Special Needs Kids
+
+date: 2024-12-02, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Vikings of Solvang will host the 46th Annual Special Needs Kids&#8217; Christmas Party, a community tradition that brings joy, gratitude, and the spirit of giving to hundreds of children [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/vikings-of-solvang-party-brings-holiday-joy-to-special-needs-kids/">Vikings of Solvang Party Brings Holiday Joy to Special Needs Kids</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/vikings-of-solvang-party-brings-holiday-joy-to-special-needs-kids/>
 
 ---
 

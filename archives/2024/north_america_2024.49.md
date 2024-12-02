@@ -1,11 +1,261 @@
 ---
 title: north america
-updated: 2024-12-02 07:05:12
+updated: 2024-12-02 12:15:20
 ---
 
 # north america
 
-(date: 2024-12-02 07:05:12)
+(date: 2024-12-02 12:15:20)
+
+---
+
+## EV industry hoping for continued growth under Trump
+
+date: 2024-12-02, from: VOA News USA
+
+Electric vehicle manufacturers are hoping for continued growth under President-elect Donald Trump, especially as Tesla CEO Elon Musk now appears to be one of his top advisers. Genia Dulot has our story from the Los Angeles Auto Show. 
+
+<br> 
+
+<https://www.voanews.com/a/ev-industry-hoping-for-continued-growth-under-trump/7884506.html>
+
+---
+
+##  How Democrats Learned To Love Losing 
+
+date: 2024-12-02, from: The Lever News
+
+ The Democratic Party has embraced a cult of powerlessness — and now they’re taking down hugely popular antitrust policy along with it.  
+
+<br> 
+
+<https://www.levernews.com/how-democrats-learned-to-love-losing/>
+
+---
+
+## Striking Kaiser Therapists Say Thousands of Appointments Likely to Be Cancelled
+
+date: 2024-12-02, from: Capital and Main
+
+<p>A union complaint filed with California regulators says a leaked internal memo shows Kaiser intended to break its own rules and state law, leaving patients without care during the ongoing strike.</p>
+<p>The post <a href="https://capitalandmain.com/striking-kaiser-therapists-say-thousands-of-appointments-likely-to-be-cancelled">Striking Kaiser Therapists Say Thousands of Appointments Likely to Be Cancelled</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/striking-kaiser-therapists-say-thousands-of-appointments-likely-to-be-cancelled>
+
+---
+
+## US unveils fresh export curbs targeting China's chip sector
+
+date: 2024-12-02, from: VOA News USA
+
+Washington — The United States announced new export restrictions Monday taking aim at China's ability to make advanced semiconductors — used in weapon systems and artificial intelligence  as competition intensifies between the world's two biggest economies.
+
+ 
+
+"The United States has taken significant steps to protect our technology from being used by our adversaries in ways that threaten our national security," said White House national security adviser Jake Sullivan in a statement.
+
+ 
+
+He added that Washington will keep working with allies and partners to "to proactively and aggressively safeguard our world-leading technologies and know-how."
+
+ 
+
+The latest rules include a restriction of exports to 140 companies, including Chinese chip firms Piotech and SiCarrier Technology.
+
+ 
+
+They also impact Naura Technology Group, which makes chip production equipment, according to the Commerce Department.
+
+ 
+
+"We are constantly talking to our allies and partners as well as reassessing and updating our controls," added Under Secretary of Commerce for industry and security Alan Estevez.
+
+ 
+
+The latest announcement also includes controls on two dozen types of chipmaking equipment and three kinds of software tools for developing or producing semiconductors. 
+
+<br> 
+
+<https://www.voanews.com/a/us-unveils-fresh-export-curbs-targeting-china-chip-sector/7884193.html>
+
+---
+
+## The (new) reality of retail returns
+
+date: 2024-12-02, from: Marketplace Morning Report
+
+<p>Maybe it broke, maybe it doesn&#8217;t fit, or maybe we realized we don&#8217;t need a Godzilla-shaped humidifier — whatever the reason, returns are expensive for stores, and they’re cracking down. Some 81% of retailers started charging customers for at least one of their return options last year. We&#8217;ll hear more. Plus, the dollar swings after Trump threatens tariffs, and a shipbuilder in Northern Ireland files for bankruptcy.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/12/02/mmr_20241202_MMR_Podcast_3_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace-morning-report%2Fthe-new-reality-of-retail-returns&awCollectionId=mkp-MMR"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/morning_report/2024/12/02/mmr_20241202_MMR_Podcast_3_64.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmarketplace-morning-report%2Fthe-new-reality-of-retail-returns&awCollectionId=mkp-MMR" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/the-new-reality-of-retail-returns>
+
+---
+
+## Analysts say Biden’s first trip to Africa should’ve come earlier in presidency
+
+date: 2024-12-02, from: VOA News USA
+
+Nairobi — After promising to visit Africa two years ago at the U.S. Africa summit in Washington, President Joe Biden makes his first presidential trip to the continent where he is visiting Angola with a quick stop in Cabo Verde. Analysts in Africa say the trip should’ve come sooner and some are asking why Angola is the primary destination – given its troubling human rights record.
+
+
+White House officials say President Joe Biden is looking forward to visiting the continent after a promise he made in 2022. But some analysts tell VOA that Biden’s trip, which comes weeks before he steps down, would’ve had more weight if he had done it earlier.  
+
+
+Louw Nel, senior political analyst for Oxford Economics Africa, spoke to VOA from South Africa. 
+
+
+“I think his trip is less significant than it would’ve been otherwise just because of the fact that he withdrew as presidential candidate and, of course, now [is] not returning for a second term. So, it really feels like an afterthought to his presidency,” said Nel. 
+
+
+After a short stop in the island nation of Cabo Verde off Africa’s northwestern coast, President Biden heads south to Angola.  
+
+
+There, officials say he plans to focus on U.S. leadership on trade, investment, and infrastructure in Africa. He’ll also recognize Angola’s President João Lourenço’s regional leadership and global partnership on trade, security, and health. 
+
+
+
+
+More importantly, President Biden will highlight one of his signature initiatives, the investment of the Lobito Corridor — a regional railway project linking natural resource-rich areas stretching from the Angolan port of Lobito to the Democratic Republic of Congo and Zambia.  
+
+
+The corridor is part of a wider joint effort between multiple partners aimed at closing the infrastructure gap in growing economies around the world, officials say.  
+
+
+Dr. Frances Brown, special assistant to the president and senior director for African Affairs at the National Security Council, speaking about the broader benefits associated with the project. 
+
+
+“What I found really notable about the Lobito Corridor is that it isn’t just about a railroad or critical minerals. It’s also about the communities that are strengthened along the way, it’s about more access to education, it’s about agricultural products moving to market, and it’s about increases in digital connectivity,” said Brown.
+
+
+Last year, U.S.-Angola trade totaled approximately $1.77 billion, making Angola America’s fourth-largest trade partner in Sub-Saharan Africa. 
+
+
+Angola has vast mineral deposits and is Africa’s third largest oil producer. But according to Amnesty International, the country’s natural resource wealth has not translated to prosperity for most of its people, resulting in numerous peaceful protests against poverty, unemployment and high cost of living.  
+
+
+Nel says some Angolans may see a benefit with this Biden visit. 
+
+
+“Many ordinary Angolans will recognize that Angola desperately needs to diversify its economy, and this is an enormous opportunity to do so, to move away from oil and gas and bolster other parts of the economy and it has massive potential,” said Nel.  
+
+
+But others including human rights campaigners and opposition parties, Nel says, will feel aggrieved by President Biden’s visit because they see the Lourenco administration as being rewarded despite growing concerns about the shrinking space for independent civil society organizations and freedom of expression.  
+
+
+In a new report, Amnesty International said that anyone who publicly criticizes the Lourenço government risks arrest. And “if human rights are central to President Biden’s foreign policy, then he must demand Angola’s government immediately …free arbitrarily detained government critics.”   
+
+
+Adriano Nuvunga, who runs the Center for Democracy and Human Rights in Mozambique, echoes that sentiment.  
+
+
+“I commend the people of Angola and president Lourenço for hosting President Biden. It means a lot for the people of Angola. While I commend them, I would also want to encourage President Biden to ask those tough questions to President João Lourenço," said Nuvunga. "We have a number of human rights defenders in Angola that are detained unjustly, unfairly for doing nothing. They are languishing in jails, some of them in critical conditions,” said Nuvunga.  
+
+
+Nuvunga hopes that this could be addressed during this trip. 
+
+<br> 
+
+<https://www.voanews.com/a/analysts-say-biden-s-first-trip-to-africa-should-ve-come-earlier-in-presidency-/7884103.html>
+
+---
+
+## Chief of ICC lashes out at US and Russia over threats, accusations
+
+date: 2024-12-02, from: VOA News USA
+
+The Hague, Netherlands — The president of the International Criminal Court lashed out at the United States and Russia for interfering with its investigations, calling attacks on the court "appalling."
+
+
+"The court is being threatened with draconian economic sanctions by another permanent member of the Security Council as if it was a terrorist organization," Judge Tomoko Akane said in her address to the institution's annual meeting, which opened on Monday.
+
+
+Akane was referring to remarks made by U.S. Sen. Lindsey Graham, whose Republican party will control both branches of Congress in January, and who called the court a "dangerous joke" and urged Congress to sanction its prosecutor. "To any ally, Canada, Britain, Germany, France, if you try to help the ICC, we're going to sanction you," Graham said on Fox News.
+
+
+Graham was angered by an announcement last month that judges had granted a request from the court's chief prosecutor Karim Khan to issue arrest warrants for Israeli Prime Minister Benjamin Netanyahu, his former defense minister and Hamas' military chief for crimes against humanity in connection with the nearly 14-month war in Gaza.
+
+
+This marks the first time the global court of justice calls out a sitting leader of a major Western ally.
+
+
+ICC faces challenges on arrest warrants
+
+
+Graham's threat isn't seen as just empty words. President-elect Donald Trump sanctioned the court's previous prosecutor, Fatou Bensouda, with a travel ban and asset freeze for investigating American troops and intelligence officials in Afghanistan.
+
+
+Akane on Monday also had harsh words for Russia. "Several elected officials are being subjected to arrest warrants from a permanent member of the Security Council," she said. Moscow issued warrants for Khan and others in response to the investigation into Putin.
+
+
+The Assembly of States Parties, which represents the ICC's 124 member countries, will convene its 23rd conference to elect committee members and approve the court's budget against a backdrop of unfavorable headlines.
+
+
+The ICC was established in 2002 as the world's permanent court of last resort to prosecute individuals responsible for the most heinous atrocities — war crimes, crimes against humanity, genocide and the crime of aggression. The court only becomes involved when nations are unable or unwilling to prosecute those crimes on their territory. To date, 124 countries have signed on to the Rome Statute, which created the institution. Those who have not include Israel, Russia and China.
+
+
+The ICC has no police force and relies on member states to execute arrest warrants.
+
+
+The decision to warrant issues for Netanyahu and Israel's ex-Defense Minister Yoav Gallant has been denounced by critics of the court and given only milquetoast approval by many of its supporters, a stark contrast to the robust backing of an arrest warrant for Russian President Vladimir Putin last year over war crimes in Ukraine.
+
+
+U.S. President Joe Biden called the warrants for Netanyahu and the former defense minister "outrageous" and vowed to stand with Israel. A year ago, Biden called the warrant for Putin "justified" and said the Russian president had committed war crimes. The U.S. is not an ICC member country.
+
+
+France said it would "respect its obligations" but would need to consider Netanyahu's possible immunities. When the warrant for Putin was announced, France said it would "lend its support to the essential work" of the court.
+
+
+Another member country, Austria, begrudgingly acknowledged it would arrest Netanyahu but called the warrants "utterly incomprehensible." Italy called them "wrong" but said it would be obliged to arrest him. Germany said it would study the decision. Member Hungary has said it would stand with Israel instead of the court.
+
+
+Global security expert Janina Dill worried that such responses could undermine global justice efforts. "It really has the potential to damage not just the court, but international law," she told The Associated Press.
+
+
+Milena Sterio, an expert in international law at Cleveland State University, told the AP that sanctions against the court could affect a number of people who contribute to the court's work, such as international human rights lawyer Amal Clooney. Clooney advised the current prosecutor on his request for the warrants for Netanyahu and others.
+
+
+"Sanctions are a huge burden," Sterio said.
+
+
+Accusations against Khan
+
+
+Also hanging heavy over the meeting in The Hague are the internal pressures that Khan faces. In October, the AP reported the 54-year-old British lawyer is facing allegations he tried to coerce a female aide into a sexual relationship and groped her.
+
+
+Two co-workers in whom the woman confided reported the alleged misconduct in May to the court's independent watchdog, which says it interviewed the woman and ended its inquiry after five days when she opted against filing a formal complaint. Khan was never questioned. He has denied the claims.
+
+
+The Assembly of States Parties has announced it will launch an external probe into the allegations. It's not clear if the investigation will be addressed during the meeting.
+
+
+Khan took the floor after Akane. He didn't address the accusations against him or the threats against the court directly, other than to say the institution was facing "unprecedented challenges."
+
+
+Instead he highlighted his office's recent request for an arrest warrant against the head of Myanmar's military government and said he planned to request warrants related to Afghanistan and Sudan in the coming months.
+
+
+Late last week, six countries including France, Luxembourg and Mexico asked Khan's office to look into possible crimes in Afghanistan since the Taliban took control in 2021. While Khan isn't obligated to open an investigation in response to such a request, historically court prosecutors have done so.
+
+
+The court, which has long faced accusations of ineffectiveness, will have no trials pending after two conclude in December. While it has issued a number of arrest warrants in recent months, many high-profile suspects remain at large.
+
+
+Member states don't always act. Mongolia refused to arrest Putin when he visited in September. Sudan's former President Omar al-Bashir is wanted by the ICC over accusations related to the conflict in Darfur, but his country has refused to hand him over. Last week, Khan requested a warrant for the head of Myanmar's military regime, Senior Gen. Min Aung Hlaing, for attacks against the country's Rohingya Muslim minority. Judges have yet to decide on that request.
+
+
+"It becomes very difficult to justify the court's existence," Sterio said. 
+
+<br> 
+
+<https://www.voanews.com/a/chief-of-icc-lashes-out-at-us-and-russia-over-threats-accusations/7884096.html>
 
 ---
 
@@ -65,6 +315,18 @@ date: 2024-12-02, from: Marketplace Morning Report
 
 ---
 
+## Trump and Prabowo Should Enhance Economic Ties to Counter China
+
+date: 2024-12-02, updated: 2024-12-02, from: RAND blog
+
+New trade and investment deals with the United States could help Indonesia counter future Chinese influence. 
+
+<br> 
+
+<https://www.rand.org/pubs/commentary/2024/12/trump-and-prabowo-should-enhance-economic-ties-to-counter.html>
+
+---
+
 ## Big Ten fines Michigan and Ohio State $100,000 each for postgame melee
 
 date: 2024-12-02, from: VOA News USA
@@ -107,44 +369,74 @@ The scuffle was one of many that broke out Saturday in rivalry games across the 
 
 ---
 
-## Biden pardons son Hunter
+## Biden pardons son Hunter for gun, tax offenses
 
 date: 2024-12-02, from: VOA News USA
 
-Washington — U.S. President Joe Biden announced Sunday he pardoned his son Hunter, who was facing sentencing this month in two federal cases.
+Washington — U.S. President Joe Biden has pardoned his son Hunter, who was facing sentencing this month for gun and tax offenses and could have been imprisoned for years.   
 
 
-Biden had previously pledged not to take such action, but in a statement Sunday he said the move was in response to what he called selective and unfair prosecution.
+Biden had for months pledged not to pardon his 54-year-old son, a lawyer who for years was caught up in cocaine addiction as his life spiraled out of control. 
 
 
-“The charges in his cases came about only after several of my political opponents in Congress instigated them to attack me and oppose my election,” Biden said.
+But the president said in a statement late Sunday that Hunter Biden’s prosecution was selective and politically motivated, aimed at undercutting his reelection campaign before he dropped out of the race in July for another four-year term. 
 
 
-Hunter Biden was convicted of three felonies in June for a 2018 gun purchase.  Prosecutors said he falsely claimed on a federal form to not be illegally using or addicted to drugs.
+“The charges in his cases came about only after several of my political opponents in Congress instigated them to attack me and oppose my election,” Biden said.  
 
 
-He also pled guilty in a case where he was accused of failing to pay at least $1.4 million in taxes.
+Hunter Biden was convicted of three felonies in June for a 2018 gun purchase. Prosecutors said he falsely claimed on a federal form to not be illegally using or addicted to drugs.  
 
 
-The president’s action Sunday pardoned Hunter Biden in both cases, as well as any offense he “has committed or may have committed or taken part” between January 1, 2014 to January 1, 2024.
+He also pleaded guilty to nine federal tax charges in a case where he was accused of failing to pay at least $1.4 million in taxes.  
 
 
-"I have admitted and taken responsibility for my mistakes during the darkest days of my addiction – mistakes that have been exploited to publicly humiliate and shame me and my family for political sport," Hunter Biden said in a statement.
+He faced up to 17 years in federal prison in the tax case during a scheduled sentencing hearing in Los Angeles on December 16, although sentencing experts said that most likely as a first-time offender, he would have served no more than 36 months behind bars. 
 
 
-President Biden said in his statement that he hopes “Americans will understand why a father and a president would come to this decision.”
+Hunter Biden was facing a stiffer maximum sentence, 25 years, in the gun case but was more likely, based on precedent in similar cases, to be handed a much shorter sentence, perhaps up to 16 months during a hearing scheduled in Delaware for December 13. 
 
 
-“For my entire career I have followed a simple principle: just tell the American people the truth. They’ll be fair-minded. Here’s the truth: I believe in the justice system, but as I have wrestled with this, I also believe raw politics has infected this process and it led to a miscarriage of justice – and once I made this decision this weekend, there was no sense in delaying it further,” Biden said.
+The president’s action Sunday pardoned Hunter Biden in both cases, as well as any offense he “has committed or may have committed or taken part” from Jan. 1, 2014, to Jan. 1, 2024.   
 
 
-President-elect Donald Trump criticized the move, calling it “such an abuse and miscarriage of justice.”
+Hunter Biden said in a statement, "I have admitted and taken responsibility for my mistakes during the darkest days of my addiction – mistakes that have been exploited to publicly humiliate and shame me and my family for political sport." 
 
 
-Trump, in the late stages of his first term in office, pardoned Charles Kushner, the father of his son-in-law Jared Kushner. Other Trump pardons included his former national security adviser, Michael Flynn, former campaign manager Paul Manafort, former chief strategist Steve Bannon and campaign aide George Papadopoulos.
+The president said in his statement that he hopes “Americans will understand why a father and a president would come to this decision.”   
 
 
-Some information for this story was provided by The Associated Press and Reuters 
+“For my entire career I have followed a simple principle: just tell the American people the truth. They’ll be fair-minded. Here’s the truth: I believe in the justice system, but as I have wrestled with this, I also believe raw politics has infected this process and it led to a miscarriage of justice – and once I made this decision this weekend, there was no sense in delaying it further,” Biden said.  
+
+
+President-elect Donald Trump criticized the move, calling it “such an abuse and miscarriage of justice” compared to hundreds of Trump supporters who have been imprisoned after being convicted for an array of offenses stemming from the rioting at the U.S. Capitol on Jan. 6, 2021, while they tried to block Congress from certifying that Biden had defeated Trump’s reelection bid in the 2020 campaign. 
+
+
+Trump has said he will consider pardoning many of the rioters when he takes power again on January 20 after winning the November presidential election. Some of the rioters have already served their sentences, but many are still in prison for years to come, while other trials have yet to occur. 
+
+
+Trump, in the late stages of his first term in office, pardoned Charles Kushner, the father of his son-in-law Jared Kushner, who was convicted on tax offenses and other charges. On Saturday, Trump said he intends to nominate the elder Kushner to be the U.S. ambassador to France. 
+
+
+Trump also pardoned one of his former national security advisers, Michael Flynn, former campaign manager Paul Manafort, former chief strategist Steve Bannon and campaign aide George Papadopoulos, among others.  
+
+
+Reactions to President Biden pardoning his son varied across the U.S. political landscape and not always predictably along political party lines as is usually the case when contentious decisions are announced. 
+
+
+Jared Polis, the Democratic governor of Colorado, said that while he understood the “natural desire” of Biden wanting to help his son, he said, “I am disappointed that he put his family ahead of the country. This is a bad precedent that could be abused by later presidents and will sadly tarnish his reputation.” 
+
+
+Greg Stanton, a Democratic congressman from Arizona, said, “I respect President Biden, but I think he got this one wrong. This wasn’t a politically motivated prosecution. Hunter committed felonies and was convicted by a jury of his peers." 
+
+
+Chuck Grassley, a Republican senator from Iowa, posted on X that he was “shocked” by the pardon because the elder Biden “said many, many times he wouldn’t & I believed him. Shame on me."  
+
+
+But Eric Holder, a Democrat who was the U.S. attorney general under former President Barack Obama, said the president’s son was only prosecuted because his last name was Biden. He said no U.S. attorney “would have charged this case given the underlying facts.” 
+
+
+Some information for this story was provided by The Associated Press and Reuters. 
 
 <br> 
 
@@ -625,7 +917,7 @@ date: 2024-12-01, from: The Lever News
 
 date: 2024-12-01, from: VOA News USA
 
-WASHINGTON — When U.S. President Joe Biden visits Angola on Wednesday, he will put into focus his legacy infrastructure project aimed at securing crucial supply chains on the African continent. Called the Lobito Corridor, the project is the centerpiece of his administration’s strategy to counter China’s clout in global development.
+WASHINGTON — When U.S. President Joe Biden visits Angola this week, he will put into focus his legacy infrastructure project aimed at securing crucial supply chains on the African continent. Called the Lobito Corridor, the project is the centerpiece of his administration’s strategy to counter China’s clout in global development.
 
 
 The Lobito Corridor is a $5 billion investment across multiple sectors that is intended to revitalize and extend the 1,300-kilometer Benguela railway line. It will connect the 120-year-old Angolan port of Lobito on the Atlantic Ocean to the Democratic Republic of Congo, and in its second phase, to Zambia.

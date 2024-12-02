@@ -1,11 +1,23 @@
 ---
 title: games
-updated: 2024-12-02 07:05:14
+updated: 2024-12-02 12:15:22
 ---
 
 # games
 
-(date: 2024-12-02 07:05:14)
+(date: 2024-12-02 12:15:22)
+
+---
+
+## Amazon’s board game deals are Cyber Monday standouts
+
+date: 2024-12-02, updated: 2024-12-02, from: Polygon Website
+
+Cyber Monday deals are back with a vengeance this year, discounting loads of board games both new and old. One of the biggest board game launches of the last five years, Ticket to Ride: Legends of the West, is now 25% off. It brought together original designer Alan R. Moon and Rob Daviau, creator of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/cyber-monday/475663/best-board-game-deals>
 
 ---
 
@@ -13,11 +25,107 @@ updated: 2024-12-02 07:05:14
 
 date: 2024-12-02, updated: 2024-12-02, from: Polygon Website
 
-For Cyber Monday, there are plenty of Lego deals to go around, with discounts of up to 40% on some of our favorite sets, including Lego D&#38;D Minifigs, the Lego Razor Crest, and the Lego Star Destroyer. If you’re looking to expand your Lego collection, and spend time with friends and family building stuff together [&#8230;] 
+For Cyber Monday, there are plenty of Lego deals to go around, with discounts of up to 40% on some of our favorite sets, including Lego D&#38;D Minifigs, the Lego Razor Crest, and the Lego Perseverance Rover. If you’re looking to expand your Lego collection, and spend time with friends and family building stuff together [&#8230;] 
 
 <br> 
 
 <https://www.polygon.com/cyber-monday/475668/best-lego-deals>
+
+---
+
+## This Lego Darth Vader deal is a real Cyber Monday treat
+
+date: 2024-12-02, updated: 2024-12-02, from: Polygon Website
+
+Lego’s tribute to the dark lord of the Sith is currently discounted to its lowest price ever for Cyber Monday. Right now, you can pick up the 834-piece Lego Darth Vader helmet for just $48.98 at Walmart (was $79.99). This is the first time Lord Vader has been available as a dedicated Lego set, and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/cyber-monday/488835/lego-star-wars-darth-vader-deal>
+
+---
+
+## These Cyber Monday ornament deals are just in time for holiday shopping
+
+date: 2024-12-02, updated: 2024-12-02, from: Polygon Website
+
+As much as I love festive lights, Christmas music, and the smell of pine trees, my favorite part of the holiday season is decorating the tree with the mishmash of ornaments I’ve collected over the years. If you’re looking to build your own collection — or find the perfect gift for a loved one to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/cyber-monday/486583/best-hallmark-christmas-ornaments>
+
+---
+
+## How to beat Night Rose in Fortnite Chapter 6 Season 1
+
+date: 2024-12-02, updated: 2024-12-02, from: Polygon Website
+
+Night Rose is one of the big bads from Fortnite Chapter 6 Season 1. If you want to take her on and earn her medallion, you’ll need to seek her out and defeat her in a multi-phase battle. Below we explain where to find Night Rose and how to beat her in Fortnite. Where to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/489075/night-rose-boss-location-how-to-beat>
+
+---
+
+## Where to find sprites and sprite shrines in Fortnite Chapter 6 Season 1
+
+date: 2024-12-02, updated: 2024-12-02, from: Polygon Website
+
+Sprites are a key feature in Fortnite Chapter 6 Season 1, “Demon Hunters.” Along with the titular demons (oni), you’ll find sprites and sprite shrines around the island. Our Fortnite Chapter 6 Season 1 guide will tell you how to use sprites, where to find sprite shines, and how to collect boons (perks associated with [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/488261/sprites-shrine-locations-map-chapter-6>
+
+---
+
+## Star Wars’ Skeleton Crew, Creature Commandos, and more new TV this week
+
+date: 2024-12-02, updated: 2024-11-27, from: Polygon Website
+
+Welcome to December, when it’s the most wonderful time of the year: Dark enough to stay inside and watch TV for a longer evening. (I’m kidding —&#160;like, I’m not, I love TV, but I also love the holiday season!) If the start of the season is making you itch for a good animated offering and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/481283/new-tv-netflix-star-wars-skeleton-crew-creature-commandos-superman-lois>
+
+---
+
+## 6 movies that made Michelle Yeoh one of the great action stars
+
+date: 2024-12-02, updated: 2024-12-02, from: Polygon Website
+
+Michelle Yeoh is having another moment, and we’re all better for it. After winning an Oscar for her turn in Everything Everywhere All At Once, Yeoh is now starring in the musical sensation Wicked. She also somewhat recently brought her movie star charisma and considerable action movie bona fides into new roles in Shang-Chi and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/23013092/michelle-yeoh-best-movies-action-martial-arts>
+
+---
+
+## Hunter x Hunter fighting game apparently too extreme for Australia
+
+date: 2024-12-02, updated: 2024-12-02, from: Polygon Website
+
+Hunter x Hunter Nen x Impact was refused an age rating in Australia by the Department of Infrastructure, Transport, Regional Development, Communications, and the Arts’ Classification Board on Nov. 18, banning the upcoming fighting game from releasing in the country in all but name. According to the Classification Board’s website, Nen x Impact’s current “Refused [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/489089/hunter-x-hunter-nen-x-impact-refused-classification-australia-ban-rating>
+
+---
+
+## Where is Godzilla in Fortnite Chapter 6 Season 1?
+
+date: 2024-12-02, updated: 2024-12-02, from: Polygon Website
+
+Godzilla is coming to Fortnite in Chapter 6 Season 1, ready to stomp on everything (and look extremely weird wearing Kicks while doing so). Compared to previous seasonal skins, like Solid Snake, Geralt of Rivia, and Wolverine, Godzilla’s intimidating frame doesn’t quite transpose to a vaguely humanoid frame. But the character’s signature chonkiness (Fortnite’s Godzilla [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/488786/godzilla-release-date-battle-pass-skin>
 
 ---
 
@@ -66,18 +174,6 @@ We did it, folks! Cyber Monday is here, the final day of the pre-holiday sales-a
 <br> 
 
 <https://www.polygon.com/cyber-monday/475665/best-mtg-deals-magic-gathering>
-
----
-
-## Amazon’s board game deals are Cyber Monday standouts
-
-date: 2024-12-02, updated: 2024-12-02, from: Polygon Website
-
-Cyber Monday deals are back with a vengeance this year, discounting loads of board games both new and old. One of the biggest board game launches of the last five years, Ticket to Ride: Legends of the West, is now 25% off. It brought together original designer Alan R. Moon and Rob Daviau, creator of [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/cyber-monday/475663/best-board-game-deals>
 
 ---
 
@@ -186,18 +282,6 @@ Medallions are back in Fortnite Chapter 6 Season 1, after being added way back i
 <br> 
 
 <https://www.polygon.com/fortnite-guide/488271/medallion-locations-chapter-6>
-
----
-
-## Where to find sprites and sprite shrines in Fortnite Chapter 6 Season 1
-
-date: 2024-12-01, updated: 2024-12-01, from: Polygon Website
-
-Sprites are a key feature in Fortnite Chapter 6 Season 1, “Demon Hunters.” Along with the titular demons (oni), you’ll find sprites and sprite shrines around the island. Our Fortnite Chapter 6 Season 1 guide will tell you how to use sprites, where to find sprite shines, and how to collect boons (perks associated with [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/fortnite-guide/488261/sprites-shrine-locations-map-chapter-6>
 
 ---
 

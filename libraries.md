@@ -1,11 +1,37 @@
 ---
 title: libraries
-updated: 2024-12-02 07:05:15
+updated: 2024-12-02 12:15:22
 ---
 
 # libraries
 
-(date: 2024-12-02 07:05:15)
+(date: 2024-12-02 12:15:22)
+
+---
+
+## The Viaduct Murder, by Ronald A. Knox
+
+date: 2024-12-02, from: Standard Ebooks, new releaases
+
+A foursome of friends out golfing try to unravel the mystery surrounding a corpse found on the links. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/ronald-a-knox/the-viaduct-murder>
+
+---
+
+## Archive Staff Favorites 2024: Things We Think You’ll Love This Holiday Season
+
+date: 2024-12-02, from: Internet Archive Blog
+
+As deep-cuts in the Archive go, these staff-recommended resources are ones you won’t want to miss! Time off over the holidays? Need a little break while visiting family? Sourcing recommendations [&#8230;] 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://archive.org/details/adventures_sherlockholmes_1007_librivox/adventuresherlockholmes_01_doyle.mp3"></source>
+</audio> <a href="https://archive.org/details/adventures_sherlockholmes_1007_librivox/adventuresherlockholmes_01_doyle.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://blog.archive.org/2024/12/02/staff-favorites-this-holiday-season/>
 
 ---
 

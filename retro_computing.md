@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2024-12-02 07:05:16
+updated: 2024-12-02 12:15:23
 ---
 
 # retro computing
 
-(date: 2024-12-02 07:05:16)
+(date: 2024-12-02 12:15:23)
+
+---
+
+## Archive 27:3 has landed
+
+date: 2024-12-02, from: Icon Bar, RISC OS News
+
+Archive 27:3 has landed in our inbox and should be landing on your doormats shortly... Let us know when you hear the thud! 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2138.html>
 
 ---
 
