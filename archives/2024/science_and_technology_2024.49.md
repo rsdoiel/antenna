@@ -1,11 +1,335 @@
 ---
 title: science and technology
-updated: 2024-12-02 12:15:21
+updated: 2024-12-03 07:05:34
 ---
 
 # science and technology
 
-(date: 2024-12-02 12:15:21)
+(date: 2024-12-03 07:05:34)
+
+---
+
+## Gelsinger departs Intel with $9.7M handshake
+
+date: 2024-12-03, updated: 2024-12-03, from: The Register (UK I.T. News)
+
+<h4>CEO&#39;s severance pales in comparison to Musk&#39;s billion-dollar Tesla battle</h4> <p>Outgoing Intel chief executive Pat Gelsinger is set to receive severance pay of around $9.7 million following his departure from the chip giant.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/03/gelsinger_intel_severance/>
+
+---
+
+## Intel board kicks out CEO, launches new budget desktop GPUs
+
+date: 2024-12-03, from: OS News
+
+This is a bit of an odd few days for Intel. Mere days after the board ousted its CEO Pat Gelsinger, once heralded as the chip giant&#8217;s messiah, they&#8217;re today launching two brand new desktop graphics cards. They&#8217;re aimed at the more budget-oriented consumer, and might very well be the last discrete graphics cards Intel makes, since this is one of the product lines on the chopping block. Intel’s next — and possibly last — desktop graphics cards will begin arriving in just 10 days.&#160;Right on cue, the company has announced the budget $249 Arc B580 and $219 Arc B570, shipping December 13th and January 16th, respectively, as the “best-in-class performance per dollar” options in the GPU market. They’re based on the same Xe2 “Battlemage” GPU architecture you’ll find in Intel’s Lunar Lake laptop chips but with more than double the graphics cores, up to 12GB of dedicated video memory, and up to 190W of power compared to their limited laptop forms — enough power to see the B580 slightly beat Nvidia’s $299 RTX 4060 and AMD’s $269 RX 7600, according to Intel’s benchmarks, but sometimes still trading blows. ↫ Sean Hollister at The Verge As for Gelsinger&#8217;s dismissal, it seems the board forced him out after being frustrated with the slow progress the company was making in its turnaround. The fact that a finance person and a marketing person will together be interim CEOs seems to indicate the board is more interested in quick profit than a long-term turnaround, and with companies like Qualcomm being interesting in acquiring Intel, the board&#8217;s short-term mentality might be winning out, and ousting Gelsinger is just paving the way for selling off parts of Intel until there&#8217;s nothing left. Who knows, I might be reading way too much into all of this, but it feels like expecting an organisation as complex as a high-end processor makers to turn itself around in just a few years is incredibly shortsighted, and you&#8217;d think board members at Intel would understand that. If the goal is to maintain Intel as a separate, profitable entity making some of the world&#8217;s fastest processors, you&#8217;re going to need to give a CEO and leadership team more than just a few years to turn the ship around. Within a few years we&#8217;ll know the board&#8217;s true intentions, but I wouldn&#8217;t be surprised to see Intel being sold for parts over the coming years. 
+
+<br> 
+
+<https://www.osnews.com/story/141256/intel-board-kicks-out-ceo-launches-new-budget-desktop-gpus/>
+
+---
+
+## $373M ASML chipmaker shrinks to $228 – but it's made of Lego
+
+date: 2024-12-03, updated: 2024-12-03, from: The Register (UK I.T. News)
+
+<h4>What to buy the techie who has everything?</h4> <p>If you thought $373 million was a little bit beyond your budget to get your hands on the latest chipmaking machines, ASML will let you have one for just $228 – provided you don&#39;t mind it being made of Lego.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/03/asml_lego_twinscan/>
+
+---
+
+## Severity of the risk facing the UK is widely underestimated, NCSC annual review warns
+
+date: 2024-12-03, updated: 2024-12-03, from: The Register (UK I.T. News)
+
+<h4>National cyber emergencies increased threefold this year</h4> <p>The number of security threats in the UK that hit the country&#39;s National Cyber Security Centre&#39;s (NCSC) maximum severity threshold has tripled compared to the previous 12 months.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/03/ncsc_annual_review/>
+
+---
+
+## UK government spends another £1B on cloud migration and services
+
+date: 2024-12-03, updated: 2024-12-03, from: The Register (UK I.T. News)
+
+<h4>New framework set to help public sector orgs move on amid lock-in fears</h4> <p>The UK government has awarded a contract worth up to £1 billion ($1.3 billion) to get tech services companies to help various bodies and departments make the leap to the cloud.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/03/uk_gov_cloud_services/>
+
+---
+
+## The World's Deadliest Industrial Disaster Exposed 500,000 People to Toxic Gas and Claimed Thousands of Lives
+
+date: 2024-12-03, from: Smithsonian Magazine
+
+A web of technical failures, human errors and corporate malpractice in Bhopal, India, culminated in an unthinkable tragedy on this day in 1984 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-worlds-deadliest-industrial-disaster-exposed-500000-people-to-toxic-gas-and-claimed-thousands-of-lives-180985434/>
+
+---
+
+## Interview with Luke Sollitt
+
+date: 2024-12-03, from: NASA breaking news
+
+Let’s begin by Inquiring into your early years, your childhood, where you were born, where you grew up, what your family was like? Do you have siblings? What did your parents do, and how young were you when you developed an interest in what has become your career? I was born in Boston. My mom [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/interview-with-luke-sollitt/>
+
+---
+
+## Asda hits the brakes on tech tweaks to avoid festive fiasco
+
+date: 2024-12-03, updated: 2024-12-03, from: The Register (UK I.T. News)
+
+<h4>Stability essential ahead of Christmas trading amid ongoing Walmart divorce</h4> <p>The UK&#39;s third-largest retailer has accelerated plans for a system freeze during the busy Christmas period as it grapples with a long-running tech divorce from its previous owner.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/03/asda_festive_system_freeze/>
+
+---
+
+## GitHub's boast that Copilot produces high-quality code challenged
+
+date: 2024-12-03, updated: 2024-12-03, from: The Register (UK I.T. News)
+
+<h4>We&#39;re shocked – shocked – that Microsoft&#39;s study of its own tools might not be super-rigorous</h4> <p>GitHub&#39;s claim that the quality of programming code written with its Copilot AI model is &#34;significantly more functional, readable, reliable, maintainable, and concise,&#34; has been challenged by software developer Dan Cîmpianu.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/03/github_copilot_code_quality_claims/>
+
+---
+
+## FreeBSD 14.2 released
+
+date: 2024-12-03, from: OS News
+
+FreeBSD 14.2 has been released, and as the version number suggests, this isn&#8217;t a major release with huge changes. Still, it does bring support for downloading and installing necessary firmware packages after installation, the latest versions of OpenZFS and OpenSSL, and much more. FreeBSD 14.2 is available for the main architectures it supports &#8211; x86, PowerPC/POWER, ARM, and RISC-V, and can be downloaded from the usual location. 
+
+<br> 
+
+<https://www.osnews.com/story/141254/freebsd-14-2-released/>
+
+---
+
+## Russia gives life sentence to Hydra dark web kingpin after seizing a ton of drugs
+
+date: 2024-12-03, updated: 2024-12-03, from: The Register (UK I.T. News)
+
+<h4>No exaggeration – literally a ton. Plus, 15 co-conspirators also put behind bars</h4> <p>A Russian court has handed a life sentence to the head of the infamous online drugs souk Hydra, and 15 of his co-conspirators will also spend many years behind bars.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/03/russia_hydra_sentencing/>
+
+---
+
+## GenAI comes for jobs once considered 'safe' from automation
+
+date: 2024-12-03, updated: 2024-12-03, from: The Register (UK I.T. News)
+
+<h4>Specialty in cognitive non-routine tasks means high-skilled city workers affected</h4> <p>Jobs in geographical areas and scope once thought to be at low risk of automation are soon to be the most affected by generative AI, according to the Organization for Economic Co-operation and Development (OECD).…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/03/ai_oecd_report/>
+
+---
+
+## NASA's Solar Dynamics Observatory datacenter flooded, offline until 2025
+
+date: 2024-12-03, updated: 2024-12-03, from: The Register (UK I.T. News)
+
+<h4>Burst water pipe blots out the Sun – or at least the data about it collected from two probes</h4> <p>Servers that store data collected by two NASA solar observation satellites are down – and the space agency doesn&#39;t know when they&#39;ll resume operations – after a four-inch chilled water pipe burst at the facility that houses them.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/03/nasa_sdo_outage/>
+
+---
+
+## Data on 760K workers from Xerox, Nokia, BofA, Morgan Stanley and more dumped online
+
+date: 2024-12-03, updated: 2024-12-03, from: The Register (UK I.T. News)
+
+<h4>Yet another result of the MOVEit mess</h4> <p>Hundreds of thousands of employees from major corporations including Xerox, Nokia, Koch, Bank of America, Morgan Stanley and others appear to be the latest victims in a massive data breach linked to last year&#39;s attacks on file transfer tool MOVEit.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/03/760k_xerox_nokia_bofa_morgan/>
+
+---
+
+## AWS unveils cloud security IR service for a mere $7K a month
+
+date: 2024-12-03, updated: 2024-12-03, from: The Register (UK I.T. News)
+
+<h4>Tap into the infinite scalability... of pricing</h4> <p><strong>Re:Invent</strong>  Amazon Web Services has a new incident response service that combines automation and people to protect customers&#39; AWS accounts - at a hefty price.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/03/amazon_cloud_security_incident_response/>
+
+---
+
+## Biden administration bars China from buying HBM chips critical for AI accelerators
+
+date: 2024-12-03, updated: 2024-12-03, from: The Register (UK I.T. News)
+
+<h4>140 Middle Kingdom firms added to US trade blacklist</h4> <p>The Biden administration has announced restrictions limiting the export of memory critical to the production of AI accelerators and banning sales to more than a hundred entities.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/03/biden_hbm_china_export_ban/>
+
+---
+
+## 4375-4381: A Stuffed Holiday Plan
+
+date: 2024-12-02, from: NASA breaking news
+
+Earth planning date: Monday, Nov. 25, 2024 Today we planned a mammoth seven-sol plan, to cover the U.S. Thanksgiving holiday period. Unfortunately, our weekend drive ended a little early and we didn’t receive all of our needed confirmation imagery. At 7 feet high and weighing about 2,000 pounds, the rover itself is as big as […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/4375-4381-a-stuffed-holiday-plan/>
+
+---
+
+## Employee sues Apple over 'spying' claims tied to mandatory devices
+
+date: 2024-12-02, updated: 2024-12-02, from: The Register (UK I.T. News)
+
+<h4>Cupertino&#39;s walled garden &#39;is a prison yard&#39; claims plaintiff</h4> <p>Suing your employer while remaining employed is a risky play, but one Apple ad tech manager is trying it – claiming that the iGiant is forcing staff to expose their personal data and threatening them with pay clawbacks over non-compliance.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/02/employee_sues_apple_spying/>
+
+---
+
+## NASA Experts Share Inspiring Stories of Perseverance to Students
+
+date: 2024-12-02, from: NASA breaking news
+
+In celebration of National Aviation History Month, experts from NASA’s Armstrong Flight Research Center in Edwards, California, spoke with middle school students during a recent event hosted by NASA’s California Office of STEM Engagement. NASA Armstrong employees shared stories about the center’s role in aviation history and current research projects while also talking about their [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/armstrong/nasa-experts-share-inspiring-stories-of-perseverance-to-students/>
+
+---
+
+## Sols 4732-4735: I’ll Zap You, My Pretty, and Your Pebble Too
+
+date: 2024-12-02, from: NASA breaking news
+
+Earth planning date: Friday, Nov. 22, 2024 For more than a year, NASA’s Curiosity rover has been climbing through layers of sulfate-rich rock in Gale Crater, where alternating thick light- and dark-toned bands are visible by satellite. After a successful 24.55-meter drive (about 81 feet), Curiosity traversed across a light-toned band into a dark-toned one, […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4732-4735-ill-zap-you-my-pretty-and-your-pebble-too/>
+
+---
+
+## Cost of Gelsinger's ambition proves too much for Intel
+
+date: 2024-12-02, updated: 2024-12-02, from: The Register (UK I.T. News)
+
+<h4>At least he&#39;ll have company as he joins 15K colleagues headed for the door</h4> <p><strong>Comment</strong>  Pat Gelsinger is out as Intel CEO, cutting short his nearly four-year crusade to revitalize the beleaguered chipmaker.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/02/intel_gelsinger_leave/>
+
+---
+
+## Oh, good. Supermicro board probe clears server slinger of misconduct claims
+
+date: 2024-12-02, updated: 2024-12-02, from: The Register (UK I.T. News)
+
+<h4>But hunts for a fresh CFO &#39;in light of rapid recent growth&#39;</h4> <p>Supermicro said an independent special committee formed earlier this year at the request of the server maker&#39;s board found no evidence of corporate misconduct or fraud.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/02/super_micro_no_misconduct/>
+
+---
+
+## Footprints Reveal Two Early Human Species Walked the Same Lakeshore in Kenya 1.5 Million Years Ago
+
+date: 2024-12-02, from: Smithsonian Magazine
+
+A new, “mind-blowing” discovery reveals evidence that Homo erectus and Paranthropus boisei stepped at the same site within days—or hours—of each other 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/footprints-reveal-two-early-human-species-walked-the-same-lakeshore-in-kenya-15-million-years-ago-180985561/>
+
+---
+
+## A Mission at Home and at Work: Caregivers at Johnson Navigate Dual Role With Community Supports
+
+date: 2024-12-02, from: NASA breaking news
+
+Many team members at NASA&#8217;s Johnson Space Center in Houston may recognize Alicia Baker as the talented flutist in the Hispanic Employee Resource Group’s Mariachi Celestial band. Or, they may have worked with Baker in her role as a spacesuit project manager, testing NASA’s prototype spacesuits and preparing Johnson’s test chambers to evaluate vendor spacesuits. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/a-mission-at-home-and-at-work-caregivers-at-johnson-navigate-dual-role-with-community-supports/>
+
+---
+
+## Bluesky keeps growing, and so do its problems
+
+date: 2024-12-02, updated: 2024-12-02, from: The Register (UK I.T. News)
+
+<h4>Impersonators, harmful content and AI scraping are up, too</h4> <p>It&#39;s undoubtedly a good time to be upstart social media network Bluesky given its rapid growth in the wake of the US presidential election, but questions of moderation and compliance matters are growing along with the influx of humans seeking bluer pastures. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/02/bluesky_growing_problems/>
+
+---
+
+## Technicians Install Gateway’s Fuel Tanks
+
+date: 2024-12-02, from: NASA breaking news
+
+Technicians guide the equipment that will house Gateway’s xenon and liquid fuel tanks in this photo from July 1, 2024. The tanks are part of Gateway’s Power and Propulsion Element, which will make the lunar space station the most powerful solar electric spacecraft ever flown. Once fully assembled and launched to lunar orbit, the Power and [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/technicians-install-gateways-fuel-tanks/>
+
+---
+
+## Expedition 71 Astronauts to Discuss Mission in NASA Welcome Home Event
+
+date: 2024-12-02, from: NASA breaking news
+
+Dec. 2, 2024 RELEASE: J24-015 Expedition 71 Astronauts to Discuss Mission in NASA Welcome Home Event Four NASA astronauts will participate in a welcome home ceremony at Space Center Houston after recently returning from a mission aboard the International Space Station. NASA astronauts Matthew Dominick, Mike Barratt, Jeanette Epps, and Tracy C. Dyson will share [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/expedition-71-astronauts-to-discuss-mission-in-nasa-welcome-home-event/>
 
 ---
 
@@ -35,7 +359,7 @@ While Neanderthals have been found to create glue-like substances with other mat
 
 ## OpenAI denies it is building ad biz model into its platform
 
-date: 2024-12-02, updated: 2024-12-02, from: The Register (UK I.T. News)
+date: 2024-12-02, updated: 2024-12-03, from: The Register (UK I.T. News)
 
 <h4>Chief financial officer admits &#39;we&#39;re open to exploring other revenue streams in the future&#39;</h4> <p>OpenAI has ruled out running adverts on its platforms, for now at least, Chief Financial Officer Sarah Friar has told <em>The Register</em>.…</p> 
 
@@ -297,9 +621,9 @@ date: 2024-12-02, updated: 2024-12-02, from: The Register (UK I.T. News)
 
 ---
 
-## Broadcom loses another big customer: UK fintech cloud Beeks Group, and most of its 20,000 VMs
+## Broadcom loses another big VMware customer: UK fintech cloud Beeks Group, and most of its 20,000 VMs
 
-date: 2024-12-02, updated: 2024-12-02, from: The Register (UK I.T. News)
+date: 2024-12-02, updated: 2024-12-03, from: The Register (UK I.T. News)
 
 <h4>A massively increased bill was one motive, but customers went cold on Virtzilla, and OpenNebula proved more efficient</h4> <p>Broadcom has lost another significant customer after UK-based cloud operator Beeks Group decided to adopt the open source OpenNebula stack.…</p> 
 

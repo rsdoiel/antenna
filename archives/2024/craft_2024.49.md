@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2024-12-02 12:15:24
+updated: 2024-12-03 07:05:37
 ---
 
 # craft
 
-(date: 2024-12-02 12:15:24)
+(date: 2024-12-03 07:05:37)
+
+---
+
+## 2024 Anarchist’s Gift Guide: Day 7
+
+date: 2024-12-03, from: Lost Arg Press blog
+
+Day 7: Purified/refined Linseed Oil Finishing has gotten a lot easier here now that we have switched to raw linseed oil that has been purified/refined. These oils are lighter than your hardware store linseed oil, they dry fast and they don’t have any heavy metallic driers. You can use them on their own or in... 
+
+<br> 
+
+<https://blog.lostartpress.com/2024/12/03/2024-anarchists-gift-guide-day-7/>
 
 ---
 

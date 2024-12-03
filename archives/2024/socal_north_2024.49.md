@@ -1,11 +1,97 @@
 ---
 title: socal north
-updated: 2024-12-02 12:15:20
+updated: 2024-12-03 07:05:34
 ---
 
 # socal north
 
-(date: 2024-12-02 12:15:20)
+(date: 2024-12-03 07:05:34)
+
+---
+
+## Los Angeles County offers free digital skills classes
+
+date: 2024-12-03, updated: 2024-12-03, from: The LAist
+
+Complete 8 hours and you may get a free laptop. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-county-offers-free-digital-skills-classes>
+
+---
+
+## Public Invited to Ribbon Cutting Ceremony for the Valencia Community Center
+
+date: 2024-12-02, from: City of Santa Clarita
+
+<p>Join us as we open the third Community Center in Santa Clarita! The City of Santa Clarita is excited to invite the community to the ribbon cutting ceremony of the new Valencia Community Center! Join us on Monday, December 9 at 10:00 a.m. at Valencia Summit Park (26147 McBean Parkway – the former YMCA building) [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/12/02/public-invited-to-ribbon-cutting-ceremony-for-the-valencia-community-center/">Public Invited to Ribbon Cutting Ceremony for the Valencia Community Center</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/12/02/public-invited-to-ribbon-cutting-ceremony-for-the-valencia-community-center/>
+
+---
+
+## Landlords are using AI to raise rents — and California cities are leading the pushback
+
+date: 2024-12-02, updated: 2024-12-02, from: The LAist
+
+California and federal prosecutors have accused software company RealPage of enriching itself ”at the expense of renters who pay inflated prices.” 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/landlords-are-using-ai-to-raise-rents-and-california-cities-are-leading-the-pushback>
+
+---
+
+## Do you know what’s in your drugs? LA County libraries can help you find out
+
+date: 2024-12-02, updated: 2024-12-02, from: The LAist
+
+Thirteen locations in the library system are offering free fentanyl test strips. 
+
+<br> 
+
+<https://laist.com/news/health/los-angeles-drugs-fentanyl-test-naloxone-narcan-harm-reduction>
+
+---
+
+## Top Democrats say they won’t just ‘Trump-proof’ California — they’ll make it affordable again
+
+date: 2024-12-02, updated: 2024-12-02, from: The LAist
+
+Gov. Newsom wants the California Legislature to prepare for the Trump administration, but its leaders also say they heard voters’ message on lowering the cost of living. 
+
+<br> 
+
+<https://laist.com/news/politics/top-democrats-say-they-wont-just-trump-proof-california-theyll-make-it-affordable-again>
+
+---
+
+## California birth centers are shutting down. A lawmaker has a new plan to help them
+
+date: 2024-12-02, updated: 2024-12-02, from: The LAist
+
+Birth centers are midwife-run facilities that deliver babies outside of hospitals. They have struggled to stay in business in part because of strict state licensing requirements. 
+
+<br> 
+
+<https://laist.com/news/health/california-birth-centers-are-shutting-down-a-lawmaker-has-a-new-plan-to-help-them>
+
+---
+
+## The 50 best albums of 2024
+
+date: 2024-12-02, updated: 2024-12-02, from: The LAist
+
+You can't always know that it's a great year for new music while it's happening, but there was a sense from the very start of 2024 that we were in for a ride. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/50-best-albums-2024>
 
 ---
 
@@ -87,7 +173,7 @@ The Dandy Warhols at the Moroccan Lounge, holiday lights galore, a Jeopardy! bar
 
 ## 'Opportunity of a lifetime': Nathan Hochman to be sworn in Tuesday as LA County district attorney
 
-date: 2024-12-02, updated: 2024-12-02, from: The LAist
+date: 2024-12-02, updated: 2024-12-03, from: The LAist
 
 Hochman will replace DA George Gascón, known as the godfather of progressive prosecutors. 
 

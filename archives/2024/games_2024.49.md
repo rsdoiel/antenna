@@ -1,23 +1,131 @@
 ---
 title: games
-updated: 2024-12-02 12:15:22
+updated: 2024-12-03 07:05:35
 ---
 
 # games
 
-(date: 2024-12-02 12:15:22)
+(date: 2024-12-03 07:05:35)
 
 ---
 
-## Amazon’s board game deals are Cyber Monday standouts
+## The best music biopic of the year is now on Netflix and has all the energy of a real concert film
 
-date: 2024-12-02, updated: 2024-12-02, from: Polygon Website
+date: 2024-12-03, updated: 2024-12-02, from: Polygon Website
 
-Cyber Monday deals are back with a vengeance this year, discounting loads of board games both new and old. One of the biggest board game launches of the last five years, Ticket to Ride: Legends of the West, is now 25% off. It brought together original designer Alan R. Moon and Rob Daviau, creator of [&#8230;] 
+You don’t have enough Irish-language hip-hop in your life. That’s just a simple fact. But thankfully, Netflix has added the most interesting and unique music biopic of the year to help fill in that gap for you.  Kneecap follows the semi-mythical origins of the Irish-language rap group of the same name. The film starts out [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/486523/kneecap-netflix-movie-rap-irish-watch-streaming>
+
+---
+
+## A missing piece of NES history is finally coming to Switch
+
+date: 2024-12-03, updated: 2024-12-03, from: Polygon Website
+
+Perhaps the most significant Nintendo game that’s never previously been rereleased is finally coming to the Switch. The 1989 NES version of Tetris will be added to Nintendo Switch Online’s NES collection on Dec. 12. NES Tetris was released a few months after its slightly more famous sibling, also developed by Nintendo: the iconic Game [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/489871/nes-tetris-nintendo-switch-online-announcement>
+
+---
+
+## Critical Reflex’s focus on horror has led to some of the year’s best, weirdest games
+
+date: 2024-12-03, updated: 2024-12-03, from: Polygon Website
+
+While some game genres are swelling to larger and larger sizes, encompassing vast open worlds stuffed full of optional side quests, horror games have remained a smaller subset of games as a whole. The horror genre is naturally resistant to an overly long campaign, as even the most terrifying enemies and bewildering scenarios lose their [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/489612/critical-reflex-horror-games-buckshot-roulette-threshold-mouthwashing>
+
+---
+
+## When does Black Ops 6 season 1 Reloaded release?
+
+date: 2024-12-03, updated: 2024-12-02, from: Polygon Website
+
+Season 1 Reloaded is coming to Black Ops 6 this week, and will bring with it a host of new modes, maps, weapons, and perks. Below, we’ll walk you through when season 1 Reloaded releases in Black Ops 6 — broken down by time zone — and what you can expect from this mid-season update. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/black-ops-6-guides/489234/bo6-season-1-reloaded-release-time-date-est-pst-bst>
+
+---
+
+## I’ve found the best Cyber Monday deals you can still get
+
+date: 2024-12-03, updated: 2024-12-03, from: Polygon Website
+
+Black Friday and Cyber Monday are things of the past, but it’s just another day in Cyber Week, meaning there are still plenty of amazing deals hanging on for a little while longer. If you’re still searching for a bargain or two to wrap up any wish lists that you’re shopping for, we’ve collected dozens [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/cyber-monday/485487/best-deals-still-available>
+
+---
+
+## Can Sableye be shiny in Pokémon Go?
+
+date: 2024-12-03, updated: 2024-12-02, from: Polygon Website
+
+Sableye, the darkness Pokémon from Hoenn, can be found in the wild in Pokémon Go. Yes, Sableye can be shiny in Pokémon Go! Unfortunately, even with its Mega Evolution, Sableye won’t see much use in the game. It is a great shiny, though. The swap from the red rubies to the green emeralds is giving [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/488809/can-sableye-be-shiny-mega>
+
+---
+
+## Infinity Nikki, one of 2024&#8217;s most hyped upcoming games, will be available for pre-download starting Tuesday
+
+date: 2024-12-03, updated: 2024-12-02, from: Polygon Website
+
+Infinity Nikki, the highly anticipated RPG that combines open-world exploration with a dress-up game, is almost here. Created by the Singapore-based studio Infold Games, Infinity Nikki is the next installment in the dress-up game series known as Nikki. It will be available to pre-download starting Tuesday, but officially launches on Thursday. The game is set [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/488890/infinity-nikki-infold-games-story-trailer-pre-download>
+
+---
+
+## What time does Infinity Nikki release?
+
+date: 2024-12-03, updated: 2024-12-03, from: Polygon Website
+
+Infinity Nikki is the fifth installment in the Nikki series by Infold Games and Papergames. Infinity Nikki is a dress-up game with a heavy emphasis on functional fashion. The outfits you wear will not only change your appearance, but literally change how you explore the dazzling scenery and vast world. Gather as many outfits as [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/infinity-nikki-guides/485803/release-time-preload>
+
+---
+
+## Don’t miss out as Amazon’s Cyber Monday board game deals wrap up
+
+date: 2024-12-03, updated: 2024-12-03, from: Polygon Website
+
+The clock is ticking down on Cyber Monday deals for board games (and everything else), so start clearing out a place on your bookshelves and get ready for some entertainment this holiday season and next year. For instance, instead of feeling disappointed that Bloodborne never got a PS5 remaster (sure would’ve been a nice holiday [&#8230;] 
 
 <br> 
 
 <https://www.polygon.com/cyber-monday/475663/best-board-game-deals>
+
+---
+
+## Our favorite Cyber Monday deals are still going strong
+
+date: 2024-12-03, updated: 2024-12-03, from: Polygon Website
+
+Editor’s note: Cyber Monday is over, so we’re no longer updating this post. However, many deals aren&#8217;t over yet, and you can see all of the best Cyber Monday deals still happening right now. Cyber Monday is beginning to wrap up, but there’s still some time left to take advantage of excellent deals on some [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/cyber-monday/475658/best-deals-games-books-movies-toys>
 
 ---
 
@@ -126,18 +234,6 @@ Godzilla is coming to Fortnite in Chapter 6 Season 1, ready to stomp on everythi
 <br> 
 
 <https://www.polygon.com/fortnite-guide/488786/godzilla-release-date-battle-pass-skin>
-
----
-
-## I found the best Cyber Monday deals on all the stuff you love
-
-date: 2024-12-02, updated: 2024-12-02, from: Polygon Website
-
-Black Friday is over, but we’re not dwelling on it. After all, Cyber Monday is here with some excellent deals on some of our favorite games, books, toys, Blu-rays, and other accessories to help you cross some names off of your holiday shopping list. Amazon is the best place to find many of the best [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/cyber-monday/475658/best-deals-games-books-movies-toys>
 
 ---
 

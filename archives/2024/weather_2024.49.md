@@ -1,11 +1,82 @@
 ---
 title: weather
-updated: 2024-12-02 12:15:21
+updated: 2024-12-03 07:05:35
 ---
 
 # weather
 
-(date: 2024-12-02 12:15:21)
+(date: 2024-12-03 07:05:35)
+
+---
+
+## SPC - No watches are valid as of Tue Dec  3 13:06:01 UTC 2024
+
+date: 2024-12-03, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Tue Dec  3 13:06:01 UTC 2024. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Tue Dec  3 13:06:01 UTC 2024
+
+date: 2024-12-03, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Tue Dec  3 13:06:01 UTC 2024. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Dec 3, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-12-03, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0659 AM CST Tue Dec 03 2024
+
+Valid 031300Z - 041200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Isolated thunderstorms are possible along the south Texas Coast, but
+severe thunderstorms are not expected.
+
+...Discussion including South Texas...
+A persistent longwave trough over the eastern CONUS will be
+reinforced by an amplifying and southeastward-digging upper trough
+over the Canadian Prairies toward the Upper Midwest and Great Lakes
+through tonight. A continued prevalence of surface high pressure and
+cool/stable continental trajectories will considerably limit and
+spatially confine thunderstorm potential. Across Deep South Texas,
+weak mid-level height rises are expected, with persistent weak
+low-level ascent and moistening near a coastal boundary, further
+influenced by strengthening southeasterly low-level flow/warm
+advection late today and tonight. Elevated convection over inland
+areas on the cool side of the boundary may produce occasional
+lightning, potentially in a northward-expanding fashion tonight.
+Modest surface-based destabilization may develop inland along the
+immediate coast late this afternoon into tonight, but low-level SRH
+and lapse rates/parcel accelerations are expected to remain weak,
+and thus severe thunderstorms are unlikely.
+
+..Guyer/Broyles.. 12/03/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 
 ---
 
@@ -55,30 +126,6 @@ through the end of the period.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html>
-
----
-
-## SPC - No watches are valid as of Mon Dec  2 19:50:01 UTC 2024
-
-date: 2024-12-02, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Mon Dec  2 19:50:01 UTC 2024. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Mon Dec  2 19:50:01 UTC 2024
-
-date: 2024-12-02, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Mon Dec  2 19:50:01 UTC 2024. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
 
 ---
 
@@ -176,6 +223,30 @@ flashes possible throughout the afternoon and overnight.
 
 ---
 
+## CPHC Central North Pacific Outlook
+
+date: 2024-12-02, from: Graphical Tropical Weather Outlooks
+
+The Central North Pacific hurricane season runs from June 1st through November 30th. 
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## The Central North Pacific hurricane season runs from June 1st through November 30th.
+
+date: 2024-12-02, from: Central Pacific Basin Tropical Cyclones
+
+The Central North Pacific hurricane season runs from June 1st through November 30th. 
+
+<br> 
+
+<https://www.nhc.noaa.gov/>
+
+---
+
 ## SPC Dec 2, 2024 1730 UTC Day 2 Convective Outlook
 
 date: 2024-12-02, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -240,18 +311,6 @@ The Eastern North Pacific hurricane season runs from May 15th through November 3
 <br> 
 
 <https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
-## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
-
-date: 2024-12-02, from: Eastern Pacific Basin Tropical Cyclones
-
-The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
-
-<br> 
-
-<https://www.nhc.noaa.gov/>
 
 ---
 
@@ -354,45 +413,6 @@ through the end of the period.
 
 ---
 
-## SPC Dec 2, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-12-02, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0650 AM CST Mon Dec 02 2024
-
-Valid 021300Z - 031200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Severe thunderstorms are not expected through tonight.
-
-...Discussion...
-Longwave troughing will remain prevalent over the East with
-continued surface high pressure and mostly dry/stable conditions
-east of the Rockies. This scenario will considerably limit deep
-convective potential. A couple of lightning flashes could occur
-across parts of Deep South Texas, in conjunction with relatively
-rich low-level moisture and weak but persistent forcing for ascent.
-Low-topped convective snow bands, potentially including a couple of
-lightning flashes, are also expected over portions of the Great
-Lakes today.
-
-..Guyer/Broyles.. 12/02/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
 ## NHC Atlantic Outlook
 
 date: 2024-12-02, from: Graphical Tropical Weather Outlooks
@@ -440,24 +460,4 @@ the overlap of warm/dry/breezy conditions.
 <br> 
 
 <https://www.spc.noaa.gov/products/exper/fire_wx/>
-
----
-
-## CPHC Central North Pacific Outlook
-
-date: 2024-12-01, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_2d0_resize.gif" alt="Central North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_7d0_resize.gif" alt="Central North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC HFOTWOCP ALL<br>TTAA00 PHFO DDHHMM<br><br>Tropical Weather Outlook<br>NWS Central Pacific Hurricane Center Honolulu HI<br>800 PM HST Sat Nov 30 2024<br><br>For the central North Pacific...between 140W and 180W:<br><br>No tropical cyclones are expected during the next 7 days.<br><br>The 2024 central North Pacific hurricane season officially ends <br>today, November 30. As such, this is the final routine Tropical <br>Weather Outlook for the 2024 season in general, and for this <br>forecaster in particular. Routine issuance of the Tropical Weather <br>Outlook will resume on June 1, 2025. During the off-season, Special <br>Tropical Weather Outlooks will be issued as conditions warrant. <br><br>$$<br>Forecaster Powell<br>NNNN<br><br></div></div><br />
- 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
 

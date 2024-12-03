@@ -1,11 +1,161 @@
 ---
 title: food
-updated: 2024-12-02 12:15:24
+updated: 2024-12-03 07:05:37
 ---
 
 # food
 
-(date: 2024-12-02 12:15:24)
+(date: 2024-12-03 07:05:37)
+
+---
+
+## Today Is Your Final Day To Vote For Semi-Finals At The 2nd Annual Sprudge Design Awards
+
+date: 2024-12-03, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Voting ends tonight at midnight. 
+
+<br> 
+
+<https://sprudge.com/today-is-your-final-day-to-vote-for-semi-finals-at-the-2nd-annual-sprudge-design-awards-260429.html>
+
+---
+
+## 131 Cyber Monday Kitchen Deals You Can Still Shop on Tuesday (2024)
+
+date: 2024-12-03, from: Bon Appetet
+
+Up to 50% off on Staub Dutch ovens, cookware sets, air fryers, and more. 
+
+<br> 
+
+<https://www.bonappetit.com/story/cyber-monday-kitchen-deals-12-3-2024>
+
+---
+
+## Roast Summit Heading to Melbourne in March
+
+date: 2024-12-03, from: Daily Coffee News
+
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/Roast-Summit-Melbourne-620x349.jpg" class="attachment-large size-large wp-post-image" alt="Roast Summit Melbourne" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/Roast-Summit-Melbourne-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Roast-Summit-Melbourne-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Roast-Summit-Melbourne-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Roast-Summit-Melbourne-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Roast-Summit-Melbourne.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Roast magazine, which has published educational content for coffee roasters for over 20 years, will reach a new audience in Australia with the first-ever international Roast Summit.&#160; The two-day networking... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/03/roast-summit-heading-to-melbourne-in-march/>
+
+---
+
+## This 11 Foot Tall, 3,200 Shot Super Latte Is Now The World’s Largest
+
+date: 2024-12-03, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. There's a new World's Largest Iced Latte in town. 
+
+<br> 
+
+<https://sprudge.com/this-11-foot-tall-3200-shot-super-latte-is-now-the-worlds-largest-260440.html>
+
+---
+
+## 19 Best Air Fryer Cyber Monday Deals 2024 for Crispy Everything
+
+date: 2024-12-03, from: Bon Appetet
+
+Looking for the best deals on air fryers from Breville, Ninja, Cosori, and more? We’ve got you covered. 
+
+<br> 
+
+<https://www.bonappetit.com/story/air-fryers-cyber-monday-12-2-2024>
+
+---
+
+## Costco Just Recalled 10,800 Cartons of Its Kirkland-Brand Eggs
+
+date: 2024-12-02, from: Taste of Home
+
+<p>The producer has recalled thousands of Kirkland Signature organic eggs due to salmonella concerns.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/costco-egg-recall-december-2024/">Costco Just Recalled 10,800 Cartons of Its Kirkland-Brand Eggs</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/costco-egg-recall-december-2024/>
+
+---
+
+## 47 KitchenAid Cyber Monday Deals Up to 35% Off (2024)
+
+date: 2024-12-02, from: Bon Appetet
+
+The best early deals on the best stand mixers from Amazon, Walmart, and Best Buy. 
+
+<br> 
+
+<https://www.bonappetit.com/story/kitchenaid-mixer-cyber-monday-12-2-2024>
+
+---
+
+## The Best Nontoxic Cookware, Tested by Our Experts
+
+date: 2024-12-02, from: Bon Appetet
+
+We wade through the marketing terms to talk about the nonstick cookware you should—or shouldn't—actually be buying. 
+
+<br> 
+
+<https://www.bonappetit.com/story/the-best-nontoxic-cookware-tested-by-our-experts>
+
+---
+
+## Best Yeti Cyber Monday Deals (2024), Up to 30% Off Cups and Coolers
+
+date: 2024-12-02, from: Bon Appetet
+
+The elite cooler maker really does have a few discounts this year 
+
+<br> 
+
+<https://www.bonappetit.com/story/yeti-cyber-monday-deals>
+
+---
+
+## Vegetable Medleys Sold at Walmart, Other Retailers Recalled Due to Risk of E. Coli
+
+date: 2024-12-02, from: Taste of Home
+
+<p>The potentially contaminated vegetable medleys were sold at Walmart, Alberts Organics and Sprouts Farmers Market.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/vegetable-medley-recall-december-2024/">Vegetable Medleys Sold at Walmart, Other Retailers Recalled Due to Risk of E. Coli</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/vegetable-medley-recall-december-2024/>
+
+---
+
+## Cucumbers Recalled in 26 States Following a Major Salmonella Outbreak
+
+date: 2024-12-02, from: Taste of Home
+
+<p>Following an outbreak that resulted in 18 hospitalizations, grocery stores are pulling SunFed cucumbers off the shelf.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/cucumber-recall-december-2024/">Cucumbers Recalled in 26 States Following a Major Salmonella Outbreak</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/cucumber-recall-december-2024/>
+
+---
+
+## Best Bread Knife of 2024 to Cut Your Sourdough, Sandwiches & More
+
+date: 2024-12-02, from: Bon Appetet
+
+Bring on the crust. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-bread-knives>
 
 ---
 
@@ -33,51 +183,15 @@ Here’s what our editors recommend for crunchy fries, crispy chicken skin, blis
 
 ---
 
-## Klatch Coffee Introduces Ready-To-Go Espresso
-
-date: 2024-12-02, from: The Sprudge
-
-<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Ready-To-Go Espresso is Klatch Coffee's all-new bottled, ready-to-use premium espresso concentrate. 
-
-<br> 
-
-<https://sprudge.com/klatch-coffee-introduces-ready-to-go-espresso-260424.html>
-
----
-
 ## Inaugural Oakland Coffee Market Happening December 14
 
 date: 2024-12-02, from: Daily Coffee News
 
-<div><img width="620" height="480" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Oakland-Coffee-Market-1.jpg" class="attachment-large size-large wp-post-image" alt="Oakland Coffee Market" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Oakland-Coffee-Market-1.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Oakland-Coffee-Market-1-300x232.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Oakland-Coffee-Market-1-150x116.jpg 150w" sizes="(max-width: 620px) 100vw, 620px" /></div>It&#8217;s well established that coffee stuff is the only gift worth giving. Luckily for people in the Bay Area, a new in-person popup market called the Oakland Coffee Market is... 
+<div><img width="620" height="480" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Oakland-Coffee-Market-1.jpg" class="attachment-large size-large wp-post-image" alt="Oakland Coffee Market" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Oakland-Coffee-Market-1.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Oakland-Coffee-Market-1-300x232.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Oakland-Coffee-Market-1-150x116.jpg 150w" sizes="(max-width: 620px) 100vw, 620px" /></div>It&#8217;s well established that coffee stuff is the only gift worth giving. Luckily for people in the Bay Area, a new in-person popup market called the Oakland Coffee Market is... 
 
 <br> 
 
 <https://dailycoffeenews.com/2024/12/02/inaugural-oakland-coffee-market-happening-december-14/>
-
----
-
-## 16 Best Air Fryer Cyber Monday Deals 2024 for Crispy Everything
-
-date: 2024-12-02, from: Bon Appetet
-
-Looking for the best deals on air fryers from Breville, Ninja, Cosori, and more? We’ve got you covered. 
-
-<br> 
-
-<https://www.bonappetit.com/story/air-fryers-cyber-monday-12-2-2024>
-
----
-
-## Best Yeti Cyber Monday Deals (2024), Up to 30% Off Cups and Coolers
-
-date: 2024-12-02, from: Bon Appetet
-
-The elite cooler maker really does have a few discounts this year 
-
-<br> 
-
-<https://www.bonappetit.com/story/yeti-cyber-monday-deals>
 
 ---
 
@@ -121,7 +235,7 @@ No countertop oven can do what the Ooni Volt can.
 
 date: 2024-12-02, from: Bon Appetet
 
-Editor-in-Chief Jamila Robinson reflects on the many things to celebrate this year. 
+Editor in Chief Jamila Robinson reflects on the many things to celebrate this year. 
 
 <br> 
 
@@ -138,18 +252,6 @@ date: 2024-12-02, from: Daily Coffee News
 <br> 
 
 <https://dailycoffeenews.com/2024/12/02/roaster-maker-sivetz-opens-showroom-and-hq-in-oregon/>
-
----
-
-## 47 KitchenAid Cyber Monday Deals Up to 35% Off (2024)
-
-date: 2024-12-02, from: Bon Appetet
-
-The best early deals on the best stand mixers from Amazon, Walmart, and Best Buy. 
-
-<br> 
-
-<https://www.bonappetit.com/story/kitchenaid-mixer-cyber-monday-12-2-2024>
 
 ---
 
@@ -183,7 +285,7 @@ The only thing better than getting a new coffee maker is getting one that's very
 
 date: 2024-12-02, from: Bon Appetet
 
-On this episode of Dinner SOS, Chris, Kendra and Shilpa return to answer more listener questions on how to save your Thanksgiving menus. 
+On this episode of Dinner SOS, Chris, Kendra, and Shilpa return to answer more listener questions on how to save your Thanksgiving menus. 
 
 <br> 
 
@@ -195,7 +297,7 @@ On this episode of Dinner SOS, Chris, Kendra and Shilpa return to answer more li
 
 date: 2024-12-02, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/517-Coffee-Lansing-lounge-620x414.jpg" class="attachment-large size-large wp-post-image" alt="517 Coffee Lansing lounge" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/517-Coffee-Lansing-lounge-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/517-Coffee-Lansing-lounge-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/517-Coffee-Lansing-lounge-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/517-Coffee-Lansing-lounge-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/517-Coffee-Lansing-lounge.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Michigan&#8217;s 517 Coffee Company is ringing in the arrival of its new coffee bar inside its newly acquired roastery in Lansing. The coffee company took over a coffee production facility... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/517-Coffee-Lansing-lounge-620x414.jpg" class="attachment-large size-large wp-post-image" alt="517 Coffee Lansing lounge" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/517-Coffee-Lansing-lounge-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/517-Coffee-Lansing-lounge-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/517-Coffee-Lansing-lounge-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/517-Coffee-Lansing-lounge-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/517-Coffee-Lansing-lounge.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Michigan&#8217;s 517 Coffee Company is ringing in the arrival of its new coffee bar inside its newly acquired roastery in Lansing. The coffee company took over a coffee production facility... 
 
 <br> 
 
@@ -212,6 +314,30 @@ date: 2024-12-02, from: Daily Coffee News
 <br> 
 
 <https://dailycoffeenews.com/2024/12/02/new-jersey-gets-more-brews-from-bleu-coffee/>
+
+---
+
+## The Price Of Commodity Coffee Nears An All-Time High
+
+date: 2024-12-02, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. It's the highest it has been in 47 years. 
+
+<br> 
+
+<https://sprudge.com/the-price-of-commodity-coffee-nears-an-all-time-high-260415.html>
+
+---
+
+## Klatch Coffee Introduces Ready-To-Go Espresso
+
+date: 2024-12-02, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Ready-To-Go Espresso is Klatch Coffee's all-new bottled, ready-to-use premium espresso concentrate. 
+
+<br> 
+
+<https://sprudge.com/klatch-coffee-introduces-ready-to-go-espresso-260424.html>
 
 ---
 
@@ -277,7 +403,7 @@ Deals on cookies, coffee, and wellness products—delivered straight to your doo
 
 ---
 
-## 23 Best Nespresso Cyber Monday Deals 2024
+## 24 Best Nespresso Cyber Monday Deals 2024
 
 date: 2024-12-02, from: Bon Appetet
 

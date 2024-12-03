@@ -1,11 +1,68 @@
 ---
 title: writing
-updated: 2024-12-02 12:15:22
+updated: 2024-12-03 07:05:35
 ---
 
 # writing
 
-(date: 2024-12-02 12:15:22)
+(date: 2024-12-03 07:05:35)
+
+---
+
+## Support Authors Alliance!
+
+date: 2024-12-03, from: Author's Union blog
+
+As we end the year, I&#8217;m writing to ask for your financial support by giving toward our end-of-year campaign (click here to donate online). In May, Authors Alliance marked its&#160;10th anniversary. We’ve experienced tremendous support and enthusiasm for our work over the last decade, and your collaboration has been an important part of our success. [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2024/12/03/support-authors-alliance/>
+
+---
+
+## Sheriff Wins 2024 Rotsler Award
+
+date: 2024-12-02, from: Locus Magazine
+
+<p>España Sheriff is the winner of the 2024 Rotsler Award for &#8220;long-time wonder-working with graphic art in amateur publications of the science fiction community.&#8221; The award was announced during Loscon 50, held November 29 &#8211; December 1, 2024 at the Marriott Los Angeles Airport Hotel in Los Angeles CA.</p>
+<p>The award was established in 1998 by the Southern California Institute for Fan Interests, Inc. The winner receives a $300 honorarium.  <a href="https://locusmag.com/2024/12/sheriff-wins-2024-rotsler-award/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/sheriff-wins-2024-rotsler-award/>
+
+---
+
+## Clarion 2025 Instructors
+
+date: 2024-12-02, from: Locus Magazine
+
+<p>The Clarion Workshop in San Diego CA has announced the instructors for its 2025 session: Elizabeth Bear, Premee Mohamed, Cadwell Turnbull, Annalee Newitz, Jedediah Berry, and GennaRose Nethercott. Jac Jemc is faculty director.</p>
+<p>The workshop will be held June 29, 2025 – August 9, 2025 at UC San Diego. Applications for the workshop opened on December 1, 2024 and close February 15, 2025.</p>
+<div class="mynomorebulletlist">
+
+<p><strong>While you are here,</strong> please take a </p></div> <a href="https://locusmag.com/2024/12/clarion-2025-instructors/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2024/12/clarion-2025-instructors/>
+
+---
+
+## 2025 Dragon Awards Nominations Open
+
+date: 2024-12-02, from: Locus Magazine
+
+<p>Nominations are now open for the 2025 Dragon Awards, presented by Dragon Con. &#8220;There is no qualification for submitting nominations or voting – no convention fees or other memberships are needed.&#8221; Voting closes July 19, 2025.</p>
+<div class="mynomorebulletlist">
+<p>For last year&#8217;s winners, see our prior post. For more information about nominations and to vote, see the official Dragon Awards page.</p>
+
+<p><strong>While you are here,</strong> please take a moment to support Locus with </p></div> <a href="https://locusmag.com/2024/12/2025-dragon-awards-nominations-open/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2024/12/2025-dragon-awards-nominations-open/>
 
 ---
 

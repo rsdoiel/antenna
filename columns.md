@@ -1,11 +1,231 @@
 ---
 title: columns
-updated: 2024-12-02 12:15:21
+updated: 2024-12-03 07:05:35
 ---
 
 # columns
 
-(date: 2024-12-02 12:15:21)
+(date: 2024-12-03 07:05:35)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-03, from: Dave Winer's Scripting News)
+
+We're <a href="https://bsky.app/profile/pfefferle.org/post/3lcfkqqlcfk2j">looking</a> for a <a href="https://www.google.com/search?q=site%3Ascripting.com+%22Busy+Developer%27s+Guide%22">Busy Developer's Guide</a> to Bluesky's feed format. 
+
+<br> 
+
+<http://scripting.com/2024/12/03.html#a132136>
+
+---
+
+## 2024-12-02 Rollenspieladvent: Das Rollenspielsetting
+
+date: 2024-12-03, from: Alex Schroeder's Blog
+
+<h1 id="2024-12-02-rollenspieladvent-das-rollenspielsetting">2024-12-02 Rollenspieladvent: Das Rollenspielsetting</h1>
+
+<p><a class="account" href="https://rollenspiel.social/@HeyeBodo" title="@HeyeBodo@rollenspiel.social">@HeyeBodo</a> stellt auf fedi jeden Tag eine Frage zum Rollenspielsetting. Die darf man dann beantworten. Da ich schon lange nichts mehr auf Deutsch hier auf dem Blog geschrieben habe, werde ich die Gelegenheit wahrnehmen, das hier zu tun. Allerdings habe ich vor, alles auf dieser Seite zu sammeln. Das wird für die Leser, die dem Blog via einem Feed folgen, wahrscheinlich etwas seltsam, denn heute gibt es nur Antworten auf die ersten zwei Tage. Mir fällt leider auch keine andere Lösung ein, denn irgendwie will ich auch nicht jeden Tag eine Seite schreiben.</p>
+
+<h2 id="welchen-geografischen-maßstab-hat-oder-strebst-du-für-dein-setting-an">Welchen geografischen Maßstab hat oder strebst Du für Dein Setting an?</h2>
+
+<p>Eine typische Karte, wie ich sie vorbereiten würde, ist von Ost nach West ca. 30 Tagesreisen breit und von Nord nach Süd ca. 10–20 Tagesreisen hoch. Das sieht ästhetisch gut aus, bietet Platz für ein paar Städte, Magiertürme, Monsterlager, Bauernhöfe, versteckte Siedlungen, und so weiter. Ein paar Seen, ein oder zwei Gebirge mit Pässen und Handelsrouten, viele Flüsse. Ich weigere mich, eine genau Grösse anzugeben und behaupte einfach, ein Feld auf der Karte ist eine Tagesreise. Wenn es keine Wege gibt, behaupte ich manchmal, dass eine Tagesreise vielleicht nur 5–10km sind. Klar kann man als trainierter Legionär auf einer römischen Strasse vielleicht ab und zu einen 50km Marsch machen, oder 30km weit ziehen, aber in einem Tal, wo die Talwände steil und von Bächen zerklüftet sind, wo der Talboden versumpft und wild ist, wo das Wasser überall steht und fliesst, das Unterholz im Wald dicht ist, weil die Wisente immer wieder Lichtungen reissen und es keine richtige Forstwirtschaft gibt, kann ich mir nicht vorstellen, dass Leute mit 20–30kg Ausrüstung pro Person mehr als ein paar Kilometer weit kommen. Ich schliesse da von mir auf andere. 😅</p>
+
+<p>Und damit kommen wir zum nächsten Thema, angenommen, ein Feld ist 10km und dann ist eine Karte von 30×20 ungefähr so gross wie die ganze Schweiz.</p>
+
+<blockquote>
+<p>Die Ausdehnung der Schweiz beträgt von Norden nach Süden 220km und von Osten nach Westen 348km. … Die Schweiz gliedert sich in drei geografische Zonen: die Alpen mit einem Anteil von etwa 58% der Gesamtfläche, das Mittelland mit rund 31% und der Jura mit 11%. 48 Schweizer Berge sind über 4000 m hoch.  Obwohl Gebirge insgesamt 70% des Staatsgebietes einnehmen, lebt in diesem Gebiet nur ein Viertel der Bevölkerung. &ndash; <a href="https://www.eda.admin.ch/aboutswitzerland/de/home/umwelt/geografie/geografie---fakten-und-zahlen.html">Geografie – Fakten und Zahlen</a>, Eidgenössisches Departement für
+auswärtige Angelegenheiten (EDA)</p>
+</blockquote>
+
+<p>In diesem Gebiet gibt es 26 Kantone und entsprechend 26 grössere Orte und ein Vielfaches an Burgen. An jedem Talausgang hat es eine Burg. In grösseren Tälern hat es mehrere Burgen. Wenn wir jetzt von 30×20 Feldern ausgehen, von denen 58% Gebirge sind, bleiben 348 Felder für die 26 Kantone oder im Durchschnitt 13 Felder pro Kanton.</p>
+
+<p>Jetzt bin ich selber überrascht, wie überdimensioniert und leer meine Karten sind. Da muss viel, viel mehr rein!</p>
+
+<h2 id="wovon-ist-dein-setting-inspiriert">Wovon ist Dein Setting inspiriert?</h2>
+
+<p>Meine Welt ist vor allem von der Umwelt inspiriert, in der ich lebe. Die Berge, Täler und Hügel, in denen ich selber herumlaufe, inspirieren mich für mein Spiel. Ich versuche natürlich mir vorzustellen, wie es früher aussah, vor den Flussbegradigungen, vor der Trockenlegung der Sümpfe, vor dem Strassenbau. Und somit ist klar, dass all diese Vorstellungen aus der Vergangenheit irgendwie kollidieren und kollabieren müssen. Das Resultat ist unrealistisch und weltfremd, und doch vertraut genug.</p>
+
+<p>Die Monster und Menschen sind in vielem wohl von Conan und dem Herr der Ringe bestimmt. Die Elfen sind eher keine Elben, sondern irgendwo zwischen der Elfenwelt und Elric von Melniboné angesiedelt; die Orks irgendwo zwischen Mordor und Skyrim; die Halblinge bei den Hobbits; die Goblins in Moria; die Bäume in Fangorn; die Götter stammen aus der nordischen Tradition (Odin, Thor, Loki), aber auch aus dem Zweistromland (Ishtar, Marduk, Pazuzu), Griechenland (Hekate) oder aus Ägypten (Thot, Ra, Set), aus Hyperborea (ebenfalls Set) und aus D&amp;D (Orcus).</p>
+
+<h2 id="wie-würdest-du-den-technologischen-entwicklungsstand-innerhalb-deines-settings-beschreiben">Wie würdest Du den technologischen Entwicklungsstand innerhalb Deines Settings beschreiben?</h2>
+
+<p>In meiner Fantasy gibt es abgestürzte Raumschiffe, Laserpistolen, Pistolen, Gewehre, Astralsegler, fliegende Schiffe, und so weiter, aber ungleich verteilt. Aus Sicht der Spielenden ist ein Plattenpanzer mit Schild die beste Rüstung. Hochwertige Rüstungen gibt es, doch dann sind es Prunkstücke, die mehr kosten, aber nicht mehr nützen. Fantastische Technologie gibt es im Rahmen von &ldquo;Golem Rüstungen&rdquo;, die dann einem Plattenpanzer +2 und Schild +2 entsprechen und mit einer passenden Energiequelle dann zu Plattenpanzer +4 und Schild +4 gesteigert werden könnten. Ich kann mich allerdings nicht erinnern, dass dies jemand am Tisch je geschafft hat. Die Laserpistolen sind sehr einfach gehalten: Ein Schuss macht 1W6 Schaden wie eine Schusswaffe, Trefferwurf normal durch Geschicklichkeit beeinflusst, Nachladen unnötig. Schaden liegt in der Grössenordnung von einem magischen Geschoss. Eine Plasmakanone funktioniert wie ein Bitzschlag und und macht 5W6 Schaden entlang einer Linie, ein Granatwerfer wie ein Feuerball und macht 5W6 Schaden im Zielgebiet, Rettungswurf gegen Drachenodem für halben Schaden. Das könnten genau so gut Zauberstäbe mit Ladungen sein. So lässt sich alles entweder mit Technik oder Magie erklären und es macht keinen grossen Unterschied, da es die Rolle eines Technikers für die Spielenden nicht als Klasse gibt. In dem Sinne ist alle Technik verloren gegangene und wiederentdeckte Technik, die nicht wirklich beherrscht ist, die wie Magie verwendet wird.</p>
+
+<p>Auch die Zeitgeschichte ist mir egal. Bei aller Technologie von Waffen, Rüstungen, Schiffstypen, Sprengkörpern und so weiter wird frisch und fröhlich durcheinander gemischt. Die technologischen Unterschiede von Hopliten und Conquistadores, zwischen Kataphrakten und Rittern, zwischen Skythen, Mongolen und Hunnen, zwischen Vikingern und Reisläufern, Landsknechten und Legionären interessiert mich nicht richtig.</p>
+
+<p>Gespielt wird in einer Fantasiewelt, in der man keinen Sprengstoff und kein Pulver kaufen kann. Die Schiffe sind aus Holz und von Segelkraft betrieben. Kohleindustrie und Stahlindustrie gibt es nicht, also gibt es keine Schiesswaffen und kein Dampfmaschinen, also auch keine Eisenbahn, keinen Zeppelin, kein Flugzeug. Es gibt keinen Wilden Westen, kein kolonialen Weltreiche, kein Zeitalter der Entdeckungen. In diesem Sinne ist auch der Kapitalismus als &ldquo;Finanztechnologie&rdquo; nicht entdeckt.</p>
+
+<p><a class="tag" href="/search/?q=%23RSP">#RSP</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2024-11-28-rollenspieladvent>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-12-03, from: Miguel de Icaza Mastondon feed)
+
+<p>Wake up babe, a new Roy Casagranda just dropped</p><p><a href="https://www.youtube.com/watch?v=8bb8Z4j7h7A" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">youtube.com/watch?v=8bb8Z4j7h7</span><span class="invisible">A</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113589036413504479>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-03, from: Dave Winer's Scripting News)
+
+BTW, another thing journalism is getting wrong, the FBI is <a href="https://www.theatlantic.com/magazine/archive/2022/12/j-edgar-hoover-fbi-influence/671900/?gift=f35zZN0v_gDFE8xNwlQAHecEiPqEe5Dt3lYjNlWgAmg&utm_source=twitter&utm_medium=social&utm_campaign=social">not the squeaky clean</a> organization they present it as. 
+
+<br> 
+
+<http://scripting.com/2024/12/03.html#a125809>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-03, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/08/13/trafficUptight.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">President Biden <a href="https://en.wikipedia.org/wiki/Hunter_Biden#Pardon_of_criminal_offenses">pardoned</a> his son. I have no problem with that, because his son was accused as a proxy for his father. If there is any legitimate use of presidential pardons, this is it. Perhaps relatives of the president should also be immune from prosecution. Does anyone really think <a href="https://en.wikipedia.org/wiki/Hunter_Biden">Hunter Biden</a> would have been tried for such petty crimes if he weren't Biden's son? The journalists, as always, have equated two <a href="https://www.npr.org/2024/11/11/nx-s1-5181960/can-trump-pardon-as-promised-people-convicted-in-connection-with-the-jan-6-attack">very different</a> things. They're playing their own game, trying to self-pardon in a way, to avoid being a target for the incoming administration, which we're all scared of, and I guess that's the point, to scare us. 
+
+<br> 
+
+<http://scripting.com/2024/12/03.html#a124843>
+
+---
+
+## Algorithms Are Coming for Democracy—but It’s Not All Bad
+
+date: 2024-12-03, updated: 2024-11-27, from: Bruce Schneier blog
+
+<p>In 2025, AI is poised to <a href="https://www.wired.com/story/generative-ai-global-elections/">change every aspect of democratic politics</a>&#8212;but it won&#8217;t necessarily be for the worse.</p>
+<p>India&#8217;s prime minister, Narendra Modi, has used AI to translate his speeches for his multilingual electorate in real time, demonstrating how AI can help diverse democracies to be more inclusive. AI avatars were used by presidential candidates in South Korea in electioneering, enabling them to provide answers to thousands of voters&#8217; questions simultaneously. We are also starting to see <a href="https://www.brennancenter.org/our-work/research-reports/generative-ai-political-advertising">AI tools</a> aid fundraising and get-out-the-vote efforts. AI techniques are starting to augment more traditional polling methods, helping campaigns get cheaper and faster data. And congressional candidates have started using AI robocallers to engage voters on issues. In 2025, these trends will continue. AI doesn&#8217;t need to be superior to human experts to augment the labor of an overworked canvasser, or to write ad copy similar to that of a junior campaign staffer or volunteer. Politics is competitive, and any technology that can bestow an advantage, or even just garner attention, will be used...</p> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/12/algorithms-are-coming-for-democracy-but-its-not-all-bad.html>
+
+---
+
+## Pardon me
+
+date: 2024-12-03, from: Robert Reich's blog
+
+President Biden&#8217;s pardon of his son Hunter is understandable, but it inadvertently gives Trump ammunition 
+
+<br> 
+
+<https://robertreich.substack.com/p/pardon-me>
+
+---
+
+## December 2, 2024 
+
+date: 2024-12-03, from: Heather Cox Richardson blog
+
+Last night, Jane Mayer of the New Yorker reported that Trump&#8217;s choice for secretary of defense, Fox News Channel weekend host Pete Hegseth, had been forced to leave previous leadership positions at the advocacy groups Veterans for Freedom and Concerned Veterans for America because of serious allegations of &#8220;financial mismanagement, sexual impropriety, and personal misconduct.&#8221; 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/december-2-2024>
+
+---
+
+## Gist of Go: Channels
+
+date: 2024-12-03, from: Anton Zhiyanov blog
+
+A multi-purpose concurrency tool. 
+
+<br> 
+
+<https://antonz.org/go-concurrency/channels/>
+
+---
+
+## Indiana or Bust: Day 1
+
+date: 2024-12-03, from: Matt Haughey blog
+
+<p>I hit the road this morning around 9am, and just pulled off 40 miles into Utah for the night. After driving 12 hours and 742 miles, I&apos;m about a third of the way to Indiana (total is ~2,250mi). Everything is ahead of schedule because I&apos;m</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/indiana-or-bust-day-1/>
+
+---
+
+## No need to email me about Cisco AnyConnect
+
+date: 2024-12-03, from: Daniel Stenberg Blog
+
+My name and email address can be found in the VPN client application made by Cisco called AnyConnect. They are present there as part of the curl license, because this product &#8211; like thousands of others &#8211; uses libcurl. My name appears in many products. Apparently, people often have problems finding an appropriate address to &#8230; <a href="https://daniel.haxx.se/blog/2024/12/03/no-need-to-email-me-about-cisco-anyconnect/" class="more-link">Continue reading <span class="screen-reader-text">No need to email me about Cisco AnyConnect</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2024/12/03/no-need-to-email-me-about-cisco-anyconnect/>
+
+---
+
+## December 1, 2024
+
+date: 2024-12-03, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/152489515/0d6a685b861a0b193c6f4dc6297ebb9f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/152489515/0d6a685b861a0b193c6f4dc6297ebb9f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/december-1-2024-525>
+
+---
+
+## The Night Watch.
+
+date: 2024-12-03, from: James Fallows, Substack
+
+&#8216;In a real dark night of the soul, it is always three o'clock in the morning.&#8217; That was F. Scott Fitzgerald, in words I think about at 3 am. 
+
+<br> 
+
+<https://fallows.substack.com/p/the-night-watch>
+
+---
+
+## Google Search Is Already in Decline
+
+date: 2024-12-02, updated: 2024-12-02, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.wsj.com/tech/googling-is-for-old-people-thats-a-problem-for-google-5188a6ed>
+
+---
+
+##  Libertarian Reluctantly Calls Fire Department. &#8220;Although the community would do better to... 
+
+date: 2024-12-02, updated: 2024-12-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045757-libertarian-reluctantly-c>
+
+---
+
+##  Musical Skiers 
+
+date: 2024-12-02, updated: 2024-12-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/musical-skiers>
 
 ---
 
@@ -42,43 +262,6 @@ date: 2024-12-02, updated: 2024-12-02, from: Jason Kittke's blog
 <br> 
 
 <https://kottke.org/24/12/0045758-when-a-telescope-is-a>
-
----
-
-## 2024-12-02 Rollenspieladvent: Das Rollenspielsetting
-
-date: 2024-12-02, from: Alex Schroeder's Blog
-
-<h1 id="2024-12-02-rollenspieladvent-das-rollenspielsetting">2024-12-02 Rollenspieladvent: Das Rollenspielsetting</h1>
-
-<p><a class="account" href="https://rollenspiel.social/@HeyeBodo" title="@HeyeBodo@rollenspiel.social">@HeyeBodo</a> stellt auf fedi jeden Tag eine Frage zum Rollenspielsetting. Die darf man dann beantworten. Da ich schon lange nichts mehr auf Deutsch hier auf dem Blog geschrieben habe, werde ich die Gelegenheit wahrnehmen, das hier zu tun. Allerdings habe ich vor, alles auf dieser Seite zu sammeln. Das wird für die Leser, die dem Blog via einem Feed folgen, wahrscheinlich etwas seltsam, denn heute gibt es nur Antworten auf die ersten zwei Tage. Mir fällt leider auch keine andere Lösung ein, denn irgendwie will ich auch nicht jeden Tag eine Seite schreiben.</p>
-
-<h2 id="welchen-geografischen-maßstab-hat-oder-strebst-du-für-dein-setting-an">Welchen geografischen Maßstab hat oder strebst Du für Dein Setting an?</h2>
-
-<p>Eine typische Karte, wie ich sie vorbereiten würde, ist von Ost nach West ca. 30 Tagesreisen breit und von Nord nach Süd ca. 10–20 Tagesreisen hoch. Das sieht ästhetisch gut aus, bietet Platz für ein paar Städte, Magiertürme, Monsterlager, Bauernhöfe, versteckte Siedlungen, und so weiter. Ein paar Seen, ein oder zwei Gebirge mit Pässen und Handelsrouten, viele Flüsse. Ich weigere mich, eine genau Grösse anzugeben und behaupte einfach, ein Feld auf der Karte ist eine Tagesreise. Wenn es keine Wege gibt, behaupte ich manchmal, dass eine Tagesreise vielleicht nur 5–10km sind. Klar kann man als trainierter Legionär auf einer römischen Strasse vielleicht ab und zu einen 50km Marsch machen, oder 30km weit ziehen, aber in einem Tal, wo die Talwände steil und von Bächen zerklüftet sind, wo der Talboden versumpft und wild ist, wo das Wasser überall steht und fliesst, das Unterholz im Wald dicht ist, weil die Wisente immer wieder Lichtungen reissen und es keine richtige Forstwirtschaft gibt, kann ich mir nicht vorstellen, dass Leute mit 20–30kg Ausrüstung pro Person mehr als ein paar Kilometer weit kommen. Ich schliesse da von mir auf andere. 😅</p>
-
-<p>Und damit kommen wir zum nächsten Thema, angenommen, ein Feld ist 10km und dann ist eine Karte von 30×20 ungefähr so gross wie die ganze Schweiz.</p>
-
-<blockquote>
-<p>Die Ausdehnung der Schweiz beträgt von Norden nach Süden 220km und von Osten nach Westen 348km. … Die Schweiz gliedert sich in drei geografische Zonen: die Alpen mit einem Anteil von etwa 58% der Gesamtfläche, das Mittelland mit rund 31% und der Jura mit 11%. 48 Schweizer Berge sind über 4000 m hoch.  Obwohl Gebirge insgesamt 70% des Staatsgebietes einnehmen, lebt in diesem Gebiet nur ein Viertel der Bevölkerung. &ndash; <a href="https://www.eda.admin.ch/aboutswitzerland/de/home/umwelt/geografie/geografie---fakten-und-zahlen.html">Geografie – Fakten und Zahlen</a>, Eidgenössisches Departement für
-auswärtige Angelegenheiten (EDA)</p>
-</blockquote>
-
-<p>In diesem Gebiet gibt es 26 Kantone und entsprechend 26 grössere Orte und ein Vielfaches an Burgen. An jedem Talausgang hat es eine Burg. In grösseren Tälern hat es mehrere Burgen. Wenn wir jetzt von 30×20 Feldern ausgehen, von denen 58% Gebirge sind, bleiben 348 Felder für die 26 Kantone oder im Durchschnitt 13 Felder pro Kanton.</p>
-
-<p>Jetzt bin ich selber überrascht, wie überdimensioniert und leer meine Karten sind. Da muss viel, viel mehr rein!</p>
-
-<h2 id="wovon-ist-dein-setting-inspiriert">Wovon ist Dein Setting inspiriert?</h2>
-
-<p>Meine Welt ist vor allem von der Umwelt inspiriert, in der ich lebe. Die Berge, Täler und Hügel, in denen ich selber herumlaufe, inspirieren mich für mein Spiel. Ich versuche natürlich mir vorzustellen, wie es früher aussah, vor den Flussbegradigungen, vor der Trockenlegung der Sümpfe, vor dem Strassenbau. Und somit ist klar, dass all diese Vorstellungen aus der Vergangenheit irgendwie kollidieren und kollabieren müssen. Das Resultat ist unrealistisch und weltfremd, und doch vertraut genug.</p>
-
-<p>Die Monster und Menschen sind in vielem wohl von Conan und dem Herr der Ringe bestimmt. Die Elfen sind eher keine Elben, sondern irgendwo zwischen der Elfenwelt und Elric von Melniboné angesiedelt; die Orks irgendwo zwischen Mordor und Skyrim; die Halblinge bei den Hobbits; die Goblins in Moria; die Bäume in Fangorn; die Götter stammen aus der nordischen Tradition (Odin, Thor, Loki), aber auch aus dem Zweistromland (Ishtar, Marduk, Pazuzu), Griechenland (Hekate) oder aus Ägypten (Thot, Ra, Set), aus Hyperborea (ebenfalls Set) und aus D&amp;D (Orcus).</p>
-
-<p><a class="tag" href="/search/?q=%23RSP">#RSP</a></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2024-11-28-rollenspieladvent>
 
 ---
 
@@ -139,7 +322,7 @@ date: 2024-12-02, from: Jeff Geerling blog
 
 ---
 
-## Intel CEO Pat Gelsinger Forced Out by Board
+## Intel CEO Pat Gelsinger Retires; Bloomberg Reports He Was Forced Out by Board
 
 date: 2024-12-02, updated: 2024-12-02, from: Daring Fireball
 
@@ -345,8 +528,7 @@ I'm using the term "RSS-based podcasts" in place of "podcasts" to make sure whoe
 
 **@Dave Winer's Scripting News** (date: 2024-12-01, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2023/11/27/rssClub.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">One way to help <i>RSS-based podcasts</i> is to promote individual episodes from the past. Sometimes shows are done, but the archive contains good stuff. Not everything is based on current events. Music, art, history for example. Also bring the feed out from hiding. At least the nerdy people should understand how this stuff works. One of the big crimes was when the browser makers tried to hide the feeds. I like to be able to lift the hood even if I don't understand what I'm looking at.
- 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/11/27/rssClub.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">One way to help <i>RSS-based podcasts</i> is to promote individual episodes from the past. Sometimes shows are done, but the archive contains good stuff. Not everything is based on current events. Music, art, history for example. Also bring the feed out from hiding. At least the nerdy people should understand how this stuff works. One of the big crimes was when the browser makers tried to hide the feeds. I like to be able to lift the hood even if I don't understand what I'm looking at. 
 
 <br> 
 

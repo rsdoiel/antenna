@@ -1,11 +1,37 @@
 ---
 title: libraries
-updated: 2024-12-02 12:15:22
+updated: 2024-12-03 07:05:36
 ---
 
 # libraries
 
-(date: 2024-12-02 12:15:22)
+(date: 2024-12-03 07:05:36)
+
+---
+
+## Chefs’ Selections: Best Books Read and Favorite Cultural Creations During 2024, Part 2
+
+date: 2024-12-03, from: Scholarly Kitchen
+
+<p>The beginning of the holiday season means it’s time for our annual list of our favorite books read (and other cultural creations experienced) during the year. Part 2 today.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/12/03/chefs-selections-best-books-read-and-favorite-cultural-creations-during-2024-part-2/">Chefs&#8217; Selections: Best Books Read and Favorite Cultural Creations During 2024, Part 2</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2024/12/03/chefs-selections-best-books-read-and-favorite-cultural-creations-during-2024-part-2/>
+
+---
+
+## It’s the Finals Countdown! Fall 2024
+
+date: 2024-12-03, from: CSUN Library Blog, Cited
+
+<div><img width="300" height="200" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2024/12/finals-countdown-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2024/12/finals-countdown-300x200.jpg 300w, https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2024/12/finals-countdown-768x512.jpg 768w, https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2024/12/finals-countdown.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" /></div>Activities and resources at the CSUN University Library from December 3 through December 17, 2024 Don’t let Finals stress get you down. Whether you need&#8230; 
+
+<br> 
+
+<https://library.csun.edu/blogs/cited/2024/12/03/its-the-finals-countdown-fall-2024/>
 
 ---
 

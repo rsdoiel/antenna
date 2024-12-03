@@ -1,11 +1,71 @@
 ---
 title: health
-updated: 2024-12-02 12:15:23
+updated: 2024-12-03 07:05:37
 ---
 
 # health
 
-(date: 2024-12-02 12:15:23)
+(date: 2024-12-03 07:05:37)
+
+---
+
+## Nonhuman primate models of pediatric viral diseases
+
+date: 2024-12-03, from: Frontiers in Cellular and Infection Microbiology
+
+Infectious diseases are the leading cause of death in infants and children under 5 years of age. In utero exposure to viruses can lead to spontaneous abortion, preterm birth, congenital abnormalities or other developmental defects, often resulting in lifelong health sequalae. The underlying biological mechanisms are difficult to study in humans due to ethical concerns and limited sample access. Nonhuman primates (NHP) are closely related to humans, and pregnancy and immune ontogeny in infants are very similar to humans. Therefore, NHP are a highly relevant model for understanding fetal and postnatal virus-host interactions and to define immune mechanisms associated with increased morbidity and mortality in infants. We will discuss NHP models of viruses causing congenital infections, respiratory diseases in early life, and HIV. Cytomegalovirus (CMV) remains the most common cause of congenital defects worldwide. Measles is a vaccine-preventable disease, yet measles cases are resurging. Zika is an example of an emerging arbovirus with devastating consequences for the developing fetus and the surviving infant. Among the respiratory viruses, we will discuss influenza and Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2). We will finish with HIV as an example of a lifelong infection without a cure or vaccine. The review will highlight (i) the impact of viral infections on fetal and infant immune development, (ii) how differences in infant and adult immune responses to infection alter disease outcome, and emphasize the invaluable contribution of pediatric NHP infection models to the design of effective treatment and prevention strategies, including vaccines, for human infants. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1493885>
+
+---
+
+## The efficacy of a nitric oxide-releasing formulation on nares isolated Methicillin-Resistant Staphylococcus aureus in porcine wound infection model
+
+date: 2024-12-03, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundThe colonization of Staphylococcus aureus (SA) acquired in nosocomial infections may develop acute and chronic infections such as Methicillin-Resistant Staphylococcus aureus (MRSA) in the nose. As a commensal microorganism with the ability to form a biofilm, SA can dwell on the skin, nostrils, throat, perineum, and axillae of healthy humans. Nitric oxide (NO) is an unstable gas with various molecular functions and has antimicrobial properties which are converted into many potential treatments.MethodsMethicillin-Resistant Staphylococcus aureus MRSA BAA1686 isolated from nasal infection was used in a porcine wound infection model. Deep partial-thickness wounds (10mm x 7mm x 0.5mm) were made on three animals using a specialized electrokeratome. All wounds were inoculated and then covered with polyurethane film dressings for biofilm formation. After 48 hours, three wounds were recovered from each animal for baseline enumeration. The remaining wounds were randomly assigned to six treatment groups and treated once daily. The treatment groups are as follows: NO topical ointments concentrations of 0.3, 0.9 and 1.8%, Vehicle Ointment, Mupirocin 2%, and Untreated Control. Microbiological recoveries were conducted on day 4 and day 7.ResultsThe greatest efficacy observed from the NO formulations against MRSA BAA1686 was the 1.8% concentration. This agent was able to reduce more than 99% of bacterial counts when compared to Baseline, Vehicle Ointment, and Untreated Control wounds on both assessment days. Mupirocin 2% was the overall best treatment against MRSA BAA1686 on both assessment days, with a significant reduction (p ≤ 0.05) of 4.70 ± 0.13 Log CFU/mL from day 4 to day 7.ConclusionsOverall, the positive control Mupirocin 2% was the most effective in eliminating MRSA BAA1686 throughout the study. This experiment demonstrated a downward trend from the highest concentration of NO topical ointment formulations to the lowest concentrations on both assessment days (0.3% - 1.8%). Out of all NO topical ointments, the highest concentration (1.8%) was the most effective with the potential to be an alternative treatment against a MRSA nasal strain biofilm. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1501360>
+
+---
+
+## Resistome in the indoor dust samples from workplaces and households: a pilot study
+
+date: 2024-12-03, from: Frontiers in Cellular and Infection Microbiology
+
+The antibiotic resistance genes (ARGs) limit the susceptibility of bacteria to antimicrobials, representing a problem of high importance. Current research on the presence of ARGs in microorganisms focuses mainly on humans, livestock, hospitals, or wastewater. However, the spectrum of ARGs in the dust resistome in workplaces and households has gone relatively unexplored. This pilot study aimed to analyze resistome in indoor dust samples from participants’ workplaces (a pediatric hospital, a maternity hospital, and a research center) and households and compare two different approaches to the ARGs analysis; high-throughput quantitative PCR (HT-qPCR) and whole metagenome shotgun sequencing (WMGS). In total, 143 ARGs were detected using HT-qPCR, with ARGs associated with the macrolides, lincosamides, and streptogramin B (MLSB) phenotype being the most abundant, followed by MDR (multi-drug resistance) genes, and genes conferring resistance to aminoglycosides. A higher overall relative quantity of ARGs was observed in indoor dust samples from workplaces than from households, with the pediatric hospital being associated with the highest relative quantity of ARGs. WMGS analysis revealed 36 ARGs, of which five were detected by both HT-qPCR and WMGS techniques. Accordingly, the efficacy of the WMGS approach to detect ARGs was lower than that of HT-qPCR. In summary, our pilot data revealed that indoor dust in buildings where people spend most of their time (workplaces, households) can be a significant source of antimicrobial-resistant microorganisms, which may potentially pose a health risk to both humans and animals. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1484100>
+
+---
+
+## Cell-free supernatant of Lactobacillus gasseri 1A-TV shows a promising activity to eradicate carbapenem-resistant Klebsiella pneumoniae colonization
+
+date: 2024-12-03, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundThe use of beneficial bacteria like Lactobacillus spp. is a potential innovative approach to fight antibiotic-resistant pathogens. Klebsiella pneumoniae is one of the most concerning multi drug-resistant (MDR) pathogens, and its ability to colonize the human gut is considered to be the main reason for recurrent infections in critically ill patients.MethodsIn this study, Lactobacillus gasseri 1A-TV, already described for its probiotic activity, was characterized at the genomic level. Moreover, its cell-free supernatant (CFS) was tested for antimicrobial activity against extended-spectrum β-lactamase (ESBL)- and carbapenemase (KPC)-producing K. pneumoniae clinical isolates.ResultsWhole-genome sequencing showed that the L. gasseri 1A-TV genome was of 2,018,898 bp in size with 34.9% GC content, containing 1,937 putative protein coding sequences, 55 tRNA, and 4 rRNA detected by RAST and classified in 20 functional groups by Cluster of Orthologous Genes (COG). BAGEL4 (BActeriocin GEnome minimal tooL) and the antiSMASH 7.0 pipeline identified two bacteriocin biosynthetic gene clusters (BBGCs), namely, BBGC1 that comprises two class IIc bacteriocins including gassericin A-like bacteriocin, and BBGC2 carrying the class III bacteriocin helveticin J. Strikingly, 1A-TV CFS inhibited the growth of all K. pneumoniae isolates only after 8 h of incubation, showing a bactericidal effect at 24 h and interfering, even at lower concentrations, with the biofilm production of biofilm-producer strains independently of a bactericidal effect. NMR analysis of CFS identified and quantified several metabolites involved in carbohydrate metabolism and amino acid metabolism, and organic acids like ethanol, lactate, acetate, and succinate. Finally, in vitro assays of 1A-TV showed significant co-aggregation effects against carbapenem-resistant K. pneumoniae, namely, strains 1, 2, 3, and 7.ConclusionsOur findings highlight the antimicrobial activity of 1A-TV as a probiotic candidate or its CFS as a natural bioproduct active against MDR K. pneumoniae strains, underlining the importance of novel therapeutic strategies for prevention and control of ESBL- and carbapenemase-producing K. pneumoniae colonization. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1471107>
+
+---
+
+## Urinary microbiome profiling as a non-invasive tool for identifying biomarkers in systemic lupus erythematosus and lupus nephritis
+
+date: 2024-12-03, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionBacteriome alterations have been implicated in the pathogenesis of systemic lupus erythematosus (SLE). However, the relationship between SLE and the urinary microbiome remains underexplored. This study aimed to characterize the urinary microbiome of SLE patients using 16S rRNA sequencing and to investigate its correlations with clinical parameters through integrative analyses.MethodsUrine sediment samples were collected from individuals with SLE and lupus nephritis (LN) (n = 20), SLE without LN (n = 22), and healthy controls (HCs) (n = 23). DNA was extracted and subjected to 16S rRNA sequencing to profile the urinary microbiome. Receiver operating characteristic (ROC) curve analysis was conducted to evaluate the diagnostic efficacy of urinary microbiota, while Spearman’s correlation analysis was employed to identify links between specific microbial taxa and clinical parameters. Functional predictions of bacterial roles were performed using Picrust2.ResultsThe urinary microbiota diagnostic model exhibited excellent performance in distinguishing SLE patients from HCs. Spearman’s analysis revealed significant correlations between the urinary microbiome and clinical parameters. Specifically, Sphingomonas and Lachnospiraceae genera showed positive correlations with vitamin D levels, cylinderuria, and proteinuria, while Pedobacter, Aquabacterium, Delftia, and Achromobacter displayed negative correlations with proteinuria and albumin-to-creatinine ratio (ACR). Functional predictions indicated that the urinary microbiome might influence immune regulation through modulation of signaling pathways and metabolic processes.DiscussionOur study is the first to reveal dysbiosis in the urinary microbiome of patients with SLE. Certain bacterial taxa in the urinary microbiome were identified as potential diagnostic biomarkers for SLE. Furthermore, the functional implications of these bacterial communities suggest their involvement in immune modulation, highlighting the potential for further investigation into their roles in SLE pathogenesis and diagnosis. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1364333>
 
 ---
 

@@ -1,11 +1,461 @@
 ---
 title: pacific
-updated: 2024-12-02 12:15:20
+updated: 2024-12-03 07:05:34
 ---
 
 # pacific
 
-(date: 2024-12-02 12:15:20)
+(date: 2024-12-03 07:05:34)
+
+---
+
+## Police believe missing Hawaii woman is in Mexico. No evidence of foul play, sources say
+
+date: 2024-12-03, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; Hannah Kobayashi is believed to be in Mexico, authorities say.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/03/hawaii-news/police-believe-missing-hawaii-woman-is-in-mexico-no-evidence-of-foul-play-sources-say/>
+
+---
+
+## Servco acquires Big Island Toyota
+
+date: 2024-12-03, from: Hawaii Tribune Harold
+
+
+				<p>Servco Pacific Inc. on Sunday acquired Big Island Toyota&#8217;s Hilo and Kona locations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/03/hawaii-news/servco-acquires-big-island-toyota/>
+
+---
+
+## Roth touts savings following arbitration with HGEA
+
+date: 2024-12-03, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County has reached a &#8220;significant arbitration outcome&#8221; with a government workers&#8217; union over COVID-19 hazard pay, outgoing Mayor Mitch Roth announced Monday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/03/hawaii-news/roth-touts-savings-following-arbitration-with-hgea/>
+
+---
+
+## Trump wants to shake up health care. Many Americans don’t mind.
+
+date: 2024-12-03, from: Hawaii Tribune Harold
+
+
+				<p>As a nature-loving physical therapist in Boulder, Colorado, Colin O&#8217;Banion shops at farmers markets, grows organic squash in his backyard and thought he could never vote for Donald Trump.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/03/nation-world-news/trump-wants-to-shake-up-health-care-many-americans-dont-mind/>
+
+---
+
+## Alameda, others sworn in during inauguration in West Hawaii
+
+date: 2024-12-03, from: Hawaii Tribune Harold
+
+
+				<p>Hundreds were in attendance Monday, including Gov. Josh Green and Lt. Gov. Sylvia Luke, as Mayor Kimo Alameda, Prosecutor Kelden Waltjen and the nine County Council members were inaugurated at the Kaleiopapa Convention Center on the grounds of the Outrigger Kona Resort and Spa in Keauhou.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/03/hawaii-news/alameda-others-sworn-in-during-inauguration-in-west-hawaii/>
+
+---
+
+## Russia and Iran pledge support for Syria’s Assad against advancing rebels
+
+date: 2024-12-03, from: Hawaii Tribune Harold
+
+
+				<p>CAIRO &#8212; Syrian President Bashar Assad&#8217;s staunchest allies, Russia and Iran, pledged unconditional support to his government Monday, sending warplanes and voicing diplomatic support as his forces attempted to repel a startling rebel advance in his country&#8217;s northwest.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/03/nation-world-news/russia-and-iran-pledge-support-for-syrias-assad-against-advancing-rebels/>
+
+---
+
+## US Supreme Court wrestles with FDA denial of flavored vape products
+
+date: 2024-12-03, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. Supreme Court examined on Monday the U.S. Food and Drug Administration&#8217;s refusal to let two e-cigarette companies sell flavored vape products that regulators consider a health risk to youths, while the lawyer for the businesses suggested President-elect Donald Trump could steer a different course.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/03/nation-world-news/us-supreme-court-wrestles-with-fda-denial-of-flavored-vape-products/>
+
+---
+
+## Hezbollah and Israel trade strikes, further testing cease-fire
+
+date: 2024-12-03, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; Hezbollah fired at Israeli-controlled territory Monday for the first time since a cease-fire was reached last week, prompting Israel to launch a wave of airstrikes in Lebanon, as each side blamed the other for violating the tenuous truce.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/03/nation-world-news/hezbollah-and-israel-trade-strikes-further-testing-cease-fire/>
+
+---
+
+## Elon Musk’s $50 billion Tesla pay can’t be reinstated, Delaware judge rules
+
+date: 2024-12-03, from: Hawaii Tribune Harold
+
+
+				<p>A Delaware judge Monday affirmed an earlier ruling that rescinded a giant pay package that Tesla had awarded its CEO, Elon Musk.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/03/nation-world-news/elon-musks-50-billion-tesla-pay-cant-be-reinstated-delaware-judge-rules/>
+
+---
+
+## Biden targets China’s chip industry with wider trade bans
+
+date: 2024-12-03, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Biden administration announced Monday broader restrictions on advanced technology that can be sent to China, in an effort to prevent the country from developing its own advanced chips for military equipment and artificial intelligence.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/03/nation-world-news/biden-targets-chinas-chip-industry-with-wider-trade-bans/>
+
+---
+
+## 5 women win reparations from Belgium for crimes under colonial rule
+
+date: 2024-12-03, from: Hawaii Tribune Harold
+
+
+				<p>A court in Brussels ruled on Monday that five mixed-race women, now in their 70s and 80s, were owed reparations from Belgium for crimes the state had committed against them under colonial rule in Belgian Congo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/03/nation-world-news/5-women-win-reparations-from-belgium-for-crimes-under-colonial-rule/>
+
+---
+
+## Let’s Talk Food: Foods of Australia
+
+date: 2024-12-03, from: Hawaii Tribune Harold
+
+
+				<p>My son Reid had to work in Sydney, Australia, so at the end of his work week, he had planned to take a few days off so he could show me around and meet up with some of his fellow workers.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/03/features/lets-talk-food-foods-of-australia/>
+
+---
+
+## Hawaii crime boss Miske found dead at detention center
+
+date: 2024-12-03, from: Hawaii Tribune Harold
+
+
+				<p>Honolulu businessman Michael J. Miske Jr., 50, was found dead Sunday at the Federal Detention Center in Honolulu, where he had been held since his arrest in 2020 and was awaiting sentencing in January.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/03/hawaii-news/hawaii-crime-boss-miske-found-dead-at-detention-center/>
+
+---
+
+## Pahoa man critically hurt in Kona traffic crash
+
+date: 2024-12-03, from: Hawaii Tribune Harold
+
+
+				<p>A 19-year-old Pahoa man sustained critical injuries in a two-vehicle collision in North Kona on Sunday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/03/hawaii-news/pahoa-man-critically-hurt-in-kona-traffic-crash/>
+
+---
+
+## US military beefing up border infrastructure around FSM
+
+date: 2024-12-03, from: Pacific Island Times
+
+The U.S. Department of Defense is seeking to secure the Federated States of Micronesia’s borders, lining up several projects throughout the  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/us-military-beefing-up-border-infrastructure-throughout-fsm>
+
+---
+
+## Court Decision Delays Results of Peleliu Constitutional Amendments Vote
+
+date: 2024-12-03, from: Island Times
+
+<figure><img width="1024" height="576" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?resize=1200%2C674&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="74214" data-permalink="https://islandtimes.org/hands-on-animal-care-sparks-medical-science-interest-in-students/special1/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?fit=1249%2C702&amp;ssl=1" data-orig-size="1249,702" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="special1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?fit=780%2C439&amp;ssl=1" /></figure>
+<p>The results of the 15th Peleliu State General Election vote on constitutional amendments will remain undisclosed until the court resolves a legal challenge questioning the validity of the process that placed the proposed changes on the ballot. The election, held today, also determines the next governor and members of the state legislature. Incumbent Governor Dr. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/court-decision-delays-results-of-peleliu-constitutional-amendments-vote/">Court Decision Delays Results of Peleliu Constitutional Amendments Vote</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/court-decision-delays-results-of-peleliu-constitutional-amendments-vote/>
+
+---
+
+## Closing the Gaps
+
+date: 2024-12-03, from: Island Times
+
+<p>Breast Cancer Screening Challenges in Palau By:&#160; Samantha Iyar KOROR, Palau — A recent report from the Palau Hybrid Survey 2023 has spotlighted significant gaps in breast cancer screening and non-communicable disease (NCD) management in the Pacific island nation. The findings underscore the urgent need for increased awareness and consistent healthcare access to improve early [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/closing-the-gaps/">Closing the Gaps</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/closing-the-gaps/>
+
+---
+
+## Persons with Disabilities Showcase skills and talent at Mini Day Market
+
+date: 2024-12-03, from: Island Times
+
+<p>By: Eustoria Marie Borja Koror, Palau — In celebration of International Day of Persons with Disabilities, Ngermalk Island will host a Mini Day Market on Tuesday, December 3, 2024, from 10 a.m. to 3 p.m. The event promises to spotlight the entrepreneurial talents of persons with disabilities in Palau through diverse booths selling locally made [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/persons-with-disabilities-showcase-skills-and-talent-at-mini-day-market/">Persons with Disabilities Showcase skills and talent at Mini Day Market</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/persons-with-disabilities-showcase-skills-and-talent-at-mini-day-market/>
+
+---
+
+## Hands-On Animal Care sparks Medical Science interest in students
+
+date: 2024-12-03, from: Island Times
+
+<figure><img width="600" height="898" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/disabilities1.jpg?fit=600%2C898&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/disabilities1.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/disabilities1.jpg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/disabilities1.jpg?resize=400%2C599&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/disabilities1.jpg?fit=600%2C898&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="74211" data-permalink="https://islandtimes.org/hands-on-animal-care-sparks-medical-science-interest-in-students/disabilities1/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/disabilities1.jpg?fit=600%2C898&amp;ssl=1" data-orig-size="600,898" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="disabilities1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/disabilities1.jpg?fit=200%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/disabilities1.jpg?fit=600%2C898&amp;ssl=1" /></figure>
+<p>By Eustoria Marie Borja KOROR, Palau — Mindszenty High School students delved into the world of medical science through interactive skills labs designed to teach practical animal care and medical techniques. Led by the Osebelel a Charm Animal Care and Learning Center, the sessions held on September 3, 6, and 19 aimed to inspire young [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/hands-on-animal-care-sparks-medical-science-interest-in-students/">Hands-On Animal Care sparks Medical Science interest in students</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/hands-on-animal-care-sparks-medical-science-interest-in-students/>
+
+---
+
+## Peleliu and Ngardmau set for Key elections today
+
+date: 2024-12-03, from: Island Times
+
+<figure><img width="1024" height="316" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/states.jpg?fit=1024%2C316&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/states.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/states.jpg?resize=300%2C93&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/states.jpg?resize=1024%2C316&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/states.jpg?resize=768%2C237&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/states.jpg?resize=1200%2C371&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/states.jpg?resize=400%2C124&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/states.jpg?resize=706%2C218&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/states.jpg?fit=1024%2C316&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="74207" data-permalink="https://islandtimes.org/peleliu-and-ngardmau-set-for-key-elections-today/states/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/states.jpg?fit=1249%2C386&amp;ssl=1" data-orig-size="1249,386" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="states" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/states.jpg?fit=300%2C93&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/states.jpg?fit=780%2C241&amp;ssl=1" /></figure>
+<p>Ngardmau is conducting its 11th General Election, while Peleliu is holding its 15th General Election today. Both regions are on the brink of significant political change as they prepare to cast their votes. In Ngardmau, the focus is on a runoff election to fill the seat left vacant by Vice Speaker Lucio Ngiraiwet, who has [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/peleliu-and-ngardmau-set-for-key-elections-today/">Peleliu and Ngardmau set for Key elections today</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/peleliu-and-ngardmau-set-for-key-elections-today/>
+
+---
+
+## PSS H.I. Remeliik II, tackles illegal fishing, supports election and conducts medical evacuations
+
+date: 2024-12-03, from: Island Times
+
+<figure><img width="878" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/PSS.jpg?fit=878%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/PSS.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/PSS.jpg?resize=257%2C300&amp;ssl=1 257w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/PSS.jpg?resize=878%2C1024&amp;ssl=1 878w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/PSS.jpg?resize=768%2C896&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/PSS.jpg?resize=1200%2C1400&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/PSS.jpg?resize=400%2C467&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/PSS.jpg?resize=706%2C824&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/PSS.jpg?fit=878%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="74203" data-permalink="https://islandtimes.org/pss-h-i-remeliik-ii-tackles-illegal-fishing-supports-election-and-conducts-medical-evacuations/minister-payne-media-release-template-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/PSS.jpg?fit=1249%2C1457&amp;ssl=1" data-orig-size="1249,1457" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Southall, Ben&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;Minister Payne Media Release Template&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Minister Payne Media Release Template" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/PSS.jpg?fit=257%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/PSS.jpg?fit=780%2C910&amp;ssl=1" /></figure>
+<p>(02 December 2024) Marine Law’s Guardian Class Patrol Boat, PSS H.I. Remeliik II, delivered and supported by Australia&#8217;s Pacific Maritime Security Program, has conducted several successful patrols to tackle Illegal, Unregulated and Unreported (IUU) Fishing within Palau&#8217;s EEZ. Participating in the Pacific Islands Forum Fisheries Agency (FAA) Operation Island Chief in August, PSS H.I. Remeliik [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pss-h-i-remeliik-ii-tackles-illegal-fishing-supports-election-and-conducts-medical-evacuations/">PSS H.I. Remeliik II, tackles illegal fishing, supports election and conducts medical evacuations</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/pss-h-i-remeliik-ii-tackles-illegal-fishing-supports-election-and-conducts-medical-evacuations/>
+
+---
+
+## Palau to Succeed Samoa as Pacific Chair of AOSIS Presidency
+
+date: 2024-12-03, from: Island Times
+
+<p>BUSAN (SPREP) &#8212; Samoa’s tenure as Chair of the Alliance of Small Island States (AOSIS) is finishing at the end of 2024. The influential negotiating bloc of 39 small island developing states countries from the Pacific Islands, the Caribbean region, and the African Atlantic Ocean, Indian Ocean and the South China Seas, will be headed [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-to-succeed-samoa-as-pacific-chair-of-aosis-presidency/">Palau to Succeed Samoa as Pacific Chair of AOSIS Presidency</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-to-succeed-samoa-as-pacific-chair-of-aosis-presidency/>
+
+---
+
+## Palau and Marshall Islands Sign MOU to Advance U.S. Tuna Treaty Amendments
+
+date: 2024-12-03, from: Island Times
+
+<p>SUVA, Fiji (Dec. 2, 2024) — The Republic of Palau and the Marshall Islands have taken a step forward in the implementation of the 2024 amendments to the U.S. Tuna Treaty by signing a Memorandum of Understanding (MOU) on Friday. The agreement, signed by Palau’s Minister of Agriculture, Fisheries and Environment Steven Victor and Marshall [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-and-marshall-islands-sign-mou-to-advance-u-s-tuna-treaty-amendments/">Palau and Marshall Islands Sign MOU to Advance U.S. Tuna Treaty Amendments</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-and-marshall-islands-sign-mou-to-advance-u-s-tuna-treaty-amendments/>
+
+---
+
+## Taiwan president’s plan to stop over in Hawaii, Guam angers Beijing
+
+date: 2024-12-03, from: Island Times
+
+<p>TAIPEI/BEIJING (AFP) &#8212; China insists democratic self-ruled Taiwan is part of its territory and opposes any international recognition of the island. Lai will depart Saturday for a visit to the Marshall Islands, Tuvalu and Palau &#8212; the only Pacific Island nations among Taiwan&#8217;s 12 remaining allies. It will be Lai&#8217;s first overseas trip since taking [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/taiwan-presidents-plan-to-stop-over-in-hawaii-guam-angers-beijing/">Taiwan president&#8217;s plan to stop over in Hawaii, Guam angers Beijing</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/taiwan-presidents-plan-to-stop-over-in-hawaii-guam-angers-beijing/>
+
+---
+
+## Guam’s battle against climate change
+
+date: 2024-12-03, from: Pacific Island Times
+
+Guam's location exposes it to one of climate change's most tangible threats, such as the rising sea levels.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-s-battle-against-climate-change>
+
+---
+
+## ‘Respect our sovereignty': Palau tells China ahead of Taiwanese president’s Pacific tour
+
+date: 2024-12-03, from: Pacific Island Times
+
+By Harry Pearl (BenarNews) -- President Surangel Whipps Jr. on Monday urged China to respect Palau’s sovereignty and international law,... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/respect-our-sovereignty-palau-tells-china-ahead-of-taiwanese-president-s-pacific-tour>
+
+---
+
+## US: Lai’s layover visit on Guam no excuse for China’s provocation
+
+date: 2024-12-03, from: Pacific Island Times
+
+“We see no justification for a private, routine and unofficial transit to be used as a pretext for provocation,” the spokesperson said in an 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/us-lai-s-layover-visit-on-guamno-excuse-for-china-s-provocation>
+
+---
+
+## UH expands free ‘earn and learn’ teacher apprenticeship program
+
+date: 2024-12-03, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> will be expanding a teacher apprenticeship program to Honolulu <abbr>CC</abbr>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/02/uh-expands-free-teacher-apprenticeship-program/"><abbr>UH</abbr> expands free ‘earn and learn’ teacher apprenticeship program</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/02/uh-expands-free-teacher-apprenticeship-program/>
+
+---
+
+## Hula icon Vicky Holt Takamine honored prestigious Gish Prize
+
+date: 2024-12-03, from: University of Hawaiʻi News
+
+<p>Retired <abbr>UH</abbr> dance lecturer and revered kumu hula Vicky Holt Takamine earned one of the most highly regarded arts honors in the world.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/02/vicky-holt-takamine-gish-prize/">Hula icon Vicky Holt Takamine honored prestigious Gish Prize</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/02/vicky-holt-takamine-gish-prize/>
+
+---
+
+## Christmas gifts for the island from #47
+
+date: 2024-12-02, from: Pacific Island Times
+
+Christmas season is upon us. Most of us spend some time wondering what to put under the Christmas tree and how to keep that information from 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/christmas-gifts-for-the-island-from-47>
+
+---
+
+## Surangel Whipps Jr.’s decisive victory amid political headwinds
+
+date: 2024-12-02, from: Pacific Island Times
+
+President Surangel Whipps Jr.’s reelection for a second consecutive term represents both a significant personal victory and a potential poli 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/surangel-whipps-jr-s-decisive-victory-amid-political-headwinds>
+
+---
+
+## Double-reed dreams come true for UH Mānoa musicians
+
+date: 2024-12-02, from: University of Hawaiʻi News
+
+<p>A <abbr>UH</abbr> Mānoa double reed quartet performed at a notable conference attended by world-class musicians.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/02/double-reed-dreams-come-true/">Double-reed dreams come true for <abbr>UH</abbr> Mānoa musicians</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/02/double-reed-dreams-come-true/>
+
+---
+
+## UH Mānoa Provost Bruno awarded for commitment to student success
+
+date: 2024-12-02, from: University of Hawaiʻi News
+
+<p>Bruno received the 2024 <abbr>NASPA</abbr> Region <abbr title="roman numeral six">VI</abbr> President's Award for his leadership and dedication to fostering student success and well-being.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/02/bruno-wins-naspa-president-award/"><abbr>UH</abbr> Mānoa Provost Bruno awarded for commitment to student success</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/02/bruno-wins-naspa-president-award/>
 
 ---
 

@@ -1,11 +1,221 @@
 ---
 title: journalism
-updated: 2024-12-02 12:15:22
+updated: 2024-12-03 07:05:35
 ---
 
 # journalism
 
-(date: 2024-12-02 12:15:22)
+(date: 2024-12-03 07:05:35)
+
+---
+
+## Classifieds – December 3, 2024
+
+date: 2024-12-03, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/12/03/classifieds-december-3-2024/">Classifieds &#8211; December 3, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/12/03/classifieds-december-3-2024/>
+
+---
+
+## Theta Xi fraternity comes back from six-year ban
+
+date: 2024-12-03, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The fraternity said it will avoid previous hazing as well as illegal drinking issues.</p>
+<p>The post <a href="https://dailytrojan.com/2024/12/03/theta-xi-fraternity-comes-back-from-six-year-ban/">Theta Xi fraternity comes back from six-year ban</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/12/03/theta-xi-fraternity-comes-back-from-six-year-ban/>
+
+---
+
+## ‘English Teacher’ displays a comedic masterclass
+
+date: 2024-12-03, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Brian Jordan Alvarez’s marketing techniques draw attention to the greatest show of the year. </p>
+<p>The post <a href="https://dailytrojan.com/2024/12/03/english-teacher-displays-a-comedic-masterclass/">&#8216;English Teacher&#8217; displays a comedic masterclass</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/12/03/english-teacher-displays-a-comedic-masterclass/>
+
+---
+
+## Carrie Z wears her personality on her musical sleeve
+
+date: 2024-12-03, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The artist makes her mark at USC with single “20-sth” and the promise for more.</p>
+<p>The post <a href="https://dailytrojan.com/2024/12/03/carrie-z-wears-her-personality-on-her-musical-sleeve/">Carrie Z wears her personality on her musical sleeve</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/12/03/carrie-z-wears-her-personality-on-her-musical-sleeve/>
+
+---
+
+## Architecture Dean Brett Steele seeks to connect students to LA
+
+date: 2024-12-03, from: The Daily Trojan (USC Student Newspaper)
+
+<p> Steele wants to get ahead of technological innovations shaping architecture field.</p>
+<p>The post <a href="https://dailytrojan.com/2024/12/03/architecture-dean-brett-steele-seeks-to-connect-students-to-la/">Architecture Dean Brett Steele seeks to connect students to LA</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/12/03/architecture-dean-brett-steele-seeks-to-connect-students-to-la/>
+
+---
+
+## Office of Fraternity and Sorority Life releases Chapter Performance Report
+
+date: 2024-12-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA’s Office of Fraternity and Sorority Life released its latest performance report this quarter, detailing membership, academic performance, service hours, conduct and dollars raised for philanthropy efforts among Greek life organizations for the 2023-2024 academic year. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/02/office-of-fraternity-and-sorority-life-releases-chapter-performance-report/>
+
+---
+
+## ‘It’s about empowerment’: 39th Annual CSUN Powwow celebrates tradition
+
+date: 2024-12-03, from: The Sundail (CSUN Student Newspaper)
+
+Smiling faces held plates of frybread tacos as families ready their children in traditional regalia ahead of their time to dance in the center of the circle. All of this... 
+
+<br> 
+
+<https://sundial.csun.edu/188264/news/its-about-empowerment-39th-annual-csun-powwow-celebrates-tradition/>
+
+---
+
+## College of the Canyons professor teams up with Media Department for exciting new collaboration
+
+date: 2024-12-03, from: The Canyon News (COC Student Newspaper)
+
+<p>The Valley is an eight-episode miniseries that focuses on Free, a 19-year-old&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/the-valley/">College of the Canyons professor teams up with Media Department for exciting new collaboration</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/the-valley/>
+
+---
+
+## Photos of the Semester
+
+date: 2024-12-03, from: The Daily Trojan (USC Student Newspaper)
+
+<p>As the semester came to a close, Photo Editor Henry Kofman had the tough job of taking a look back at all the photos taken to pick the best of the best. Ultimately, he selected 15 images as the Fall 2024 “Photos of the Semester.” These images capture the holistic views that the photo section holds to capture news in a truthful way, to create images and to build full and fascinating stories through the still image.</p>
+<p>The post <a href="https://dailytrojan.com/2024/12/02/photos-of-the-semester/">Photos of the Semester</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/12/02/photos-of-the-semester/>
+
+---
+
+## Gallery: Camp Flog Gnaw celebrates its 10th iteration
+
+date: 2024-12-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+Tyler, The Creators’, Camp Flog Gnaw returns to Dodger Stadium for a weekend filled with performances from an array of artists, including several Los Angeles locals. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/02/gallery-camp-flog-gnaw-celebrates-its-10th-iteration/>
+
+---
+
+## The Beat ‘SC tailgate and rally
+
+date: 2024-12-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+On the Wednesday before the big game, hundreds of UCLA students, fans, and alumni gathered in Wilson Plaza for the Beat &#8217;SC tailgate and rally. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/02/the-beat-sc-tailgate-and-rally/>
+
+---
+
+## Judge declares mistrial after hung jury in trial of former UCLA child care teacher
+
+date: 2024-12-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+A judge declared a mistrial Monday after jurors were hung on 11 misdemeanor counts against a former UCLA Early Care and Education Center teacher.
+Christopher Rodriguez, the defendant, faced prosecution for sexual battery, false imprisonment, battery, willful cruelty to a child, sexual penetration with foreign object and intimate touch against a person’s will for sexual arousal.&#160;
+Following an almost month-long trial, the jury’s foreperson told judge Liliana Gonzalez that further deliberation would be pointless, as the jury would still be hung on all 11 counts against Rodriguez, who worked at various UCLA ECE centers, including the Krieger Center and University Village, for nearly 25 years.&#160;
+Rodriguez was arrested in February on five misdemeanor charges and was charged further in May after another child victim reported inappropriate sexual touching at a UCLA ECE classroom.&#160;
+[Related: Former UCLA child care teacher charged with sexual battery, cruelty to a child]
+The UCLA ECE centers provide care for children ages two months to six years for UCLA-affiliated families. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/02/judge-declares-mistrial-after-hung-jury-in-trial-of-former-ucla-child-care-teacher/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2024-12-03, from: The Daily Bruin (UCLA Student Newspaper))
+
+At around 4:00 p.m., the court declared a mistrial in the case of Christopher Rodriguez due to a hung jury. The jury was unable to reach a unanimous verdict after deliberation. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/02/475643/>
+
+---
+
+## UCPD searches for 2 individuals suspected of Strathmore Drive residential burglary
+
+date: 2024-12-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCPD is searching for two individuals suspected of an off-campus burglary.
+According to a crime alert sent Monday morning, two people entered a residence on the 10900 block of Strathmore Drive around 3:45 a.m. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/02/ucpd-searches-for-2-individuals-suspected-of-strathmore-drive-residential-burglary/>
+
+---
+
+## Second Take: Powerful messaging of Westwood’s anonymous ‘I’m gay’ tags classifies them as art
+
+date: 2024-12-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+Whether they are intended to be art, a series of proclamations or just a practical joke, the &#8220;I&#8217;m Gay&#8221; tags have come to brighten up the Westwood community. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/02/second-take-powerful-messaging-of-westwoods-anonymous-im-gay-tags-classifies-them-as-art/>
+
+---
+
+## Ü Inose: CSUN Alum and Japanese Filmmaker
+
+date: 2024-12-02, from: The Sundail (CSUN Student Newspaper)
+
+Before working as assistant director on films like “Shin Godzilla”, “Bullet Train” and “F9: The Fast Saga”, Ü Inose, a Japanese filmmaker, graduated from California State University, Northridge in 2007.... 
+
+<br> 
+
+<https://sundial.csun.edu/188256/arts-entertainment/u-inose-csun-alum-and-japanese-filmmaker/>
 
 ---
 

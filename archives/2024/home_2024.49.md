@@ -1,11 +1,79 @@
 ---
 title: home
-updated: 2024-12-02 12:15:22
+updated: 2024-12-03 07:05:36
 ---
 
 # home
 
-(date: 2024-12-02 12:15:22)
+(date: 2024-12-03 07:05:36)
+
+---
+
+## 23 Hostess Gifts to Bring to Your Next Holiday Party
+
+date: 2024-12-03, from: Sunset Magazine - Living in the West
+
+Don't show up empty-handed to your next holiday party. These hostess gift ideas will be much appreciated and get you invited back. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/entertaining/hostess-gift-ideas>
+
+---
+
+## 225,000+ Hyundai Cars Recalled Over Backup Cam Defect
+
+date: 2024-12-02, from: Family Handyman Blog
+
+<p>We all love our backup cameras, but not when they're not working. Hyundai is recalling thousands of vehicles over faulty backup cams. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/hyundai-backup-camera-recall/">225,000+ Hyundai Cars Recalled Over Backup Cam Defect</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/hyundai-backup-camera-recall/>
+
+---
+
+## Struggling to Water Your Christmas Tree? Try This Simple Trick
+
+date: 2024-12-02, from: Family Handyman Blog
+
+<p>Keeping your tree hydrated can be a challenge but this Christmas tree watering hack will keep it fresher and safer all season long!</p>
+<p>The post <a href="https://www.familyhandyman.com/article/christmas-tree-watering-hack/">Struggling to Water Your Christmas Tree? Try This Simple Trick</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/christmas-tree-watering-hack/>
+
+---
+
+## Tips for Storing Your Garden Hose During the Winter
+
+date: 2024-12-02, from: Family Handyman Blog
+
+<p>Garden hoses aren't cheap, so you don't want to damage yours by leaving it outside all winter. Here's how to keep it in good shape for the spring.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/hose-storage-in-winter/">Tips for Storing Your Garden Hose During the Winter</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/hose-storage-in-winter/>
+
+---
+
+## Reset a Tripped Circuit Breaker in Minutes: A Step-by-Step Guide
+
+date: 2024-12-02, from: Family Handyman Blog
+
+<p>Already a pro at resetting a breaker? Teach your family and friends with this handy guide.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-to-reset-circuit-breaker/">Reset a Tripped Circuit Breaker in Minutes: A Step-by-Step Guide</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/how-to-reset-circuit-breaker/>
 
 ---
 
@@ -35,6 +103,30 @@ date: 2024-12-02, from: Dwell
 
 ---
 
+## These Are the Best Deals to Score on Travel Tuesday, Hands Down
+
+date: 2024-12-02, from: Sunset Magazine - Living in the West
+
+These are the best Travel Tuesday deals on right now, from discounted flights to cheap rental car bookings and more. 
+
+<br> 
+
+<https://www.sunset.com/travel/travel-tuesday-best-travel-deals>
+
+---
+
+## Travel the West
+
+date: 2024-12-02, from: Sunset Magazine - Living in the West
+
+The West is cities and small towns, national parks and wine country, natural wonders and manmade amusements. We have all the tips, guides, ideas, and road-trip routes you need to plan an adventure! 
+
+<br> 
+
+<https://www.sunset.com/travel>
+
+---
+
 ## An ’80s Gem by Charles Gwathmey Seeks $8M in Rural Connecticut
 
 date: 2024-12-02, from: Dwell
@@ -44,6 +136,18 @@ Set on 41 private acres, the sculptural home revolves around a massive double-he
 <br> 
 
 <https://www.dwell.com/article/1980s-home-charles-gwathmey-kent-connecticut-real-estate-3bbd0807>
+
+---
+
+## Food and Drink
+
+date: 2024-12-02, from: Sunset Magazine - Living in the West
+
+Delicious recipes, food and wine pairings, and more ways to savor the West. 
+
+<br> 
+
+<https://www.sunset.com/food-wine>
 
 ---
 
@@ -70,6 +174,54 @@ date: 2024-12-02, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/succulents/grow-tiger-tooth-aloe/>
+
+---
+
+## The Best Travel Gifts for Every Adventurer in Your Life
+
+date: 2024-12-02, from: Sunset Magazine - Living in the West
+
+Got an adventurer on your gift list? Our editors picked the best travel gifts. These finds can elevate their explorations, no matter where they are. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/best-travel-gifts>
+
+---
+
+## These Holiday Travel Hacks Will Keep You Stress-Free (and They’re Mostly Under $90)
+
+date: 2024-12-02, from: Sunset Magazine - Living in the West
+
+Holiday travel can be pretty stressful, but there are hacks that will make it easier. These are the products we love for holiday travel. 
+
+<br> 
+
+<https://www.sunset.com/travel/travel-tips/best-products-for-holiday-travel>
+
+---
+
+## These 5 Books Will Inspire Your Inner Wild
+
+date: 2024-12-02, from: Sunset Magazine - Living in the West
+
+These reads released this year will inspire readers with wanderlust. They make for the perfect gift for the adventurer in your life. 
+
+<br> 
+
+<https://www.sunset.com/travel/wild-lands/best-travel-adventure-books>
+
+---
+
+## This Travel Tuesday Is Going to Be the Biggest in History—Here’s How to Score the Best Deals
+
+date: 2024-12-02, from: Sunset Magazine - Living in the West
+
+The desire for experiences over things has made Travel Tuesday more popular than ever. Here's how to find the best deals. 
+
+<br> 
+
+<https://www.sunset.com/travel/travel-tuesday-tips>
 
 ---
 

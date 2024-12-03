@@ -1,11 +1,363 @@
 ---
 title: going electric
-updated: 2024-12-02 12:15:23
+updated: 2024-12-03 07:05:37
 ---
 
 # going electric
 
-(date: 2024-12-02 12:15:23)
+(date: 2024-12-03 07:05:37)
+
+---
+
+## Tesla Won't Sell You A V2L Adapter, But These Companies Will
+
+date: 2024-12-03, from: Inside EVs News
+
+Tesla couldn't be bothered by adding V2L to its cars, so companies are taking it into their own hands. 
+
+<br> 
+
+<https://insideevs.com/news/742948/tesla-model-v2l-power-adapter/>
+
+---
+
+## Elon Musk Will Not Get A $100 Billion Pay Package For Christmas
+
+date: 2024-12-03, from: Inside EVs News
+
+Plus, Stellantis gets a $7.5 billion loan for building batteries, and GM backs out of its nearly-completed battery plant. 
+
+<br> 
+
+<https://insideevs.com/news/742984/judge-reject-musk-pay-package/>
+
+---
+
+## Tesla sales rise in China thanks to incentives, can it save its quarter?
+
+date: 2024-12-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-china-export-event.jpg?quality=82&#038;strip=all&#038;w=1407" /></div><p>Tesla sales are rising in China thanks to incentives put in place by the automaker on top of state incentives going away by the end of the year.</p>
+
+
+
+<p>Is enough to save Tesla’s quarter and its whole year?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="391946" href="https://electrek.co/2024/12/03/tesla-sales-rise-in-china-thanks-to-incentives-can-it-save-its-quarter/#more-391946" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/03/tesla-sales-rise-in-china-thanks-to-incentives-can-it-save-its-quarter/>
+
+---
+
+## This new EV sounds like a French perfume but offers a massive 460-mile range
+
+date: 2024-12-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/2581915-kb40gc9yxb-whr.jpeg?quality=82&#038;strip=all&#038;w=1200" /></div><p>French luxury brand DS is slowly releasing details on its sleek new all-electric model, the brand’s flagship EV, all bottled up in a name reminiscent of French perfume, the DS N°8. Even better, it offers a stellar range of up to 466 miles.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="citroen,stellantis" data-layer-viewtype="unknown" data-post-id="391940" href="https://electrek.co/2024/12/03/ds-n8-is-a-stunning-new-ev-with-a-massive-460-mile-range/#more-391940" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/03/ds-n8-is-a-stunning-new-ev-with-a-massive-460-mile-range/>
+
+---
+
+## I just bought an electric bike I don’t need and won’t use. Here’s why
+
+date: 2024-12-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/lectric-xp-lite-2-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Today I bought an electric bike that I don’t need and that I will never ride. But this isn’t about me. It’s about the company that makes the bike. More specifically, it’s about how today, on Giving Tuesday, the e-bike company Lectric eBikes is setting an example not just for the entire e-bike industry, but for modern capitalism as a whole with a philanthropic program that speaks to the core of the company’s values.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="391147" href="https://electrek.co/2024/12/03/i-just-bought-an-electric-bike-i-dont-need-and-wont-use-heres-why/#more-391147" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/03/i-just-bought-an-electric-bike-i-dont-need-and-wont-use-heres-why/>
+
+---
+
+## Aptera Needs Your Money To Bring Its Solar EV To The Market–Again
+
+date: 2024-12-03, from: Inside EVs News
+
+The American startup needs roughly $60 million to get the first production units off the assembly line. 
+
+<br> 
+
+<https://insideevs.com/news/743053/aptera-crowdfunding-campaign-again-production/>
+
+---
+
+## Solar E-Clipse 2.0 review: A lightweight 60 mph street-legal motorcycle for under 6k
+
+date: 2024-12-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/DSC07264.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>At the moment, not too many companies can deliver a Street-legal dual-sport motorcycle at entry-level prices. So when Solar Scooter, a UK-based company, asked us to review their 60 mph fully street-legal electric motorcycle, I had to see what this bike was about. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="391557" href="https://electrek.co/2024/12/03/solar-e-clipse-2-0-review-a-lightweight-60-mph-street-legal-motorcycle-for-under-6k/#more-391557" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/03/solar-e-clipse-2-0-review-a-lightweight-60-mph-street-legal-motorcycle-for-under-6k/>
+
+---
+
+## Ford Puma Gen-E: Mustang Mach-E’s Little Brother With Up To 233 Miles Of Range
+
+date: 2024-12-03, from: Inside EVs News
+
+The electric crossover is smaller than the discontinued first-generation Chevrolet Bolt EUV. 
+
+<br> 
+
+<https://insideevs.com/news/742709/ford-puma-gen-e-electric-specs-range-battery/>
+
+---
+
+## Tesla Cybertuck Line Workers Told To Stay Home: ‘No Need To Report To Work’
+
+date: 2024-12-03, from: Inside EVs News
+
+It looks like there’s a demand problem for the electric pickup that allegedly had millions of reservations before going on sale. 
+
+<br> 
+
+<https://insideevs.com/news/743007/tesla-cybertruck-assembly/>
+
+---
+
+## Tesla shuts down Cybertruck production for 3 days at critical time for the company
+
+date: 2024-12-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/Tesla-Cybertruck-production-April-2024.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has told Cybertruck production employees not to report to work for the next three days, in another sign of demand issues for the vehicle that once touted millions of preorders. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="391930" href="https://electrek.co/2024/12/02/tesla-shuts-down-cybertruck-production-for-3-days-at-critical-time-for-the-company/#more-391930" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/02/tesla-shuts-down-cybertruck-production-for-3-days-at-critical-time-for-the-company/>
+
+---
+
+## Cybertruck discounts, VW worker walk offs, Stellantis’ CEO fired – it’s only Monday!
+
+date: 2024-12-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/ct-deals.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Cybertruck may have come off the line strong, but it’s already burned through its million-plus reservation list and Tesla is starting to pull demand levers with discounts, leases, referrals, and more. Will it be enough to help spur sales? All this and major waves at VW and Stellantis on today’s thrilling episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-deals,quick-charge,tesla-cybertruck,volkswagen" data-layer-viewtype="unknown" data-post-id="391903" href="https://electrek.co/2024/12/02/cybertruck-discounts-vw-worker-walk-offs-stellantis-ceo-fired-its-only-monday/#more-391903" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/02/cybertruck-discounts-vw-worker-walk-offs-stellantis-ceo-fired-its-only-monday/>
+
+---
+
+## Jaguar’s Electric Comeback Is Big And Bold. But Time Is Running Out
+
+date: 2024-12-03, from: Inside EVs News
+
+The Jaguar Type 00 Concept is a $120,000 bold bet on EV power, but this brand is already on its ninth life. Can it pull off a comeback? 
+
+<br> 
+
+<https://insideevs.com/news/742967/jaguar-type-00-business/>
+
+---
+
+## Jaguar Has Your Attention. Now The Type 00 Aims To Hit Reset
+
+date: 2024-12-03, from: Inside EVs News
+
+Jag's next move may be the inflection point for an EV renaissance, with at least 430 miles of range and 575 hp. Or an epitaph. 
+
+<br> 
+
+<https://insideevs.com/news/742957/jaguar-type-00-design/>
+
+---
+
+## Judge shuts down Tesla’s attempt to reinstate Elon Musk’s giant CEO pay package
+
+date: 2024-12-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Elon-Musk-Game-of-Thrones.webp?w=1500" /></div><p>The judge ruling over Elon Musk’s ~$55 billion CEO pay package, which some Tesla shareholders claimed was obtained without following proper governance rules, has decided to reject Tesla’s attempt to reinstate it with a shareholder vote.</p>
+
+
+
+<p>Delaware Supreme Court could be next.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="391888" href="https://electrek.co/2024/12/02/judge-shuts-down-teslas-attempt-to-reinstate-elon-musks-giant-ceo-pay-package/#more-391888" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/02/judge-shuts-down-teslas-attempt-to-reinstate-elon-musks-giant-ceo-pay-package/>
+
+---
+
+## Tesla's FSD Can Finally Park, Though Sometimes It Aims For The Sidewalk
+
+date: 2024-12-02, from: Inside EVs News
+
+Tesla's "Full Self-Driving" system can now back out of and find a parking spot, but it's far from flawless. 
+
+<br> 
+
+<https://insideevs.com/news/742973/tesla-fsd-new-version-improvements/>
+
+---
+
+## Q4 2024 update: 12,000 more US EV charging ports in 3 months
+
+date: 2024-12-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Kentucky-NEVI-first-charger.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://driveelectric.gov/">US Joint Office of Energy and Transportation</a>’s Q4 2024 update reports an increase of around 12,000 EV charging ports in the last three months – here’s the lowdown.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dc-fast-charging,department-of-energy,department-of-transportation,ev-chargers,president-biden" data-layer-viewtype="unknown" data-post-id="391865" href="https://electrek.co/2024/12/02/q4-2024-update-12000-more-us-ev-charging-ports-in-3-months/#more-391865" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/02/q4-2024-update-12000-more-us-ev-charging-ports-in-3-months/>
+
+---
+
+## GM is selling its stake in one of its four EV battery plants: Here’s why
+
+date: 2024-12-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Chevy-Equinox-EV-deliveries.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/gm/">GM</a> announced plans to sell its stake in the nearly completed Lansing, Michigan, EV battery plant to joint venture partner LG Energy Solution. The Lansing facility is one of four planned GM plants to open in the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="general-motors,gm,ultium-cells" data-layer-viewtype="unknown" data-post-id="391869" href="https://electrek.co/2024/12/02/gm-selling-stake-one-of-four-ev-battery-plants-heres-why/#more-391869" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/02/gm-selling-stake-one-of-four-ev-battery-plants-heres-why/>
+
+---
+
+## BYD Plans On Going The Distance In Europe
+
+date: 2024-12-02, from: Inside EVs News
+
+An exclusive interview with our Italian counterpart revealed that the brand sees tariffs, and a slowing European market as mere temporary setbacks.  
+
+<br> 
+
+<https://insideevs.com/news/742961/byd-distance-video-stella-li/>
+
+---
+
+## Porsche Boxster and Cayman EVs will deliver that ‘real sports car’ feel with motorsports DNA
+
+date: 2024-12-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/03/Porsche-Boxster-EV-video.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/porsche/">Porsche</a> promises the Boxster and Cayman EVs will deliver that “real sports car feeling” with advanced new tech. The upcoming electric sports cars will feature superior performance, braking, and handling with DNA from Porsche’s title-winning Formula E team.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="porsche" data-layer-viewtype="unknown" data-post-id="391825" href="https://electrek.co/2024/12/02/porsche-boxster-cayman-evs-real-sports-cars-racing-dna/#more-391825" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/02/porsche-boxster-cayman-evs-real-sports-cars-racing-dna/>
+
+---
+
+## TELO’s tiny electric truck gets a configurator and a $41k base price
+
+date: 2024-12-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Screenshot-2024-12-02-at-12.55.30PM.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>TELO, an electric truck startup based in Silicon Valley that is designing a tiny electric truck for the US market, has released a configurator for its vehicles, with design updates and a lower-than-expected base price… but don’t get too excited yet, because production is still many months away.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-pickup-trucks,telo" data-layer-viewtype="unknown" data-post-id="391760" href="https://electrek.co/2024/12/02/telos-tiny-electric-truck-gets-a-configurator-and-a-41k-base-price/#more-391760" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/02/telos-tiny-electric-truck-gets-a-configurator-and-a-41k-base-price/>
+
+---
+
+## (Solar) power to the people! Aptera re-opens its crowdfunding program
+
+date: 2024-12-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Aptera-investment-solar-EV.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>We hinted at it last month, and it’s now official – <a href="https://electrek.co/guides/aptera/">Aptera Motors</a> has re-opened its crowdfunding program, giving fans and believers in the startup’s solar electric vehicle technology the opportunity to invest and help it reach scaled production.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="aptera,solar-electric-vehicles" data-layer-viewtype="unknown" data-post-id="391835" href="https://electrek.co/2024/12/02/solar-power-people-aptera-re-opens-its-crowdfunding-program/#more-391835" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/02/solar-power-people-aptera-re-opens-its-crowdfunding-program/>
+
+---
+
+## Tesla decreases lease prices on Cybertruck
+
+date: 2024-12-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Tesla-Cybertruck-lease-prices.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has decreased its lease prices on Cybertruck, which has proven much more difficult to sell than its giant backlog led to believe.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="391822" href="https://electrek.co/2024/12/02/tesla-decreases-lease-prices-on-cybertruck/#more-391822" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/02/tesla-decreases-lease-prices-on-cybertruck/>
+
+---
+
+## The US slaps anti-dumping tariffs on Southeast Asian solar panels
+
+date: 2024-12-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Dalton-Factory-Overview-scaled-e1697642778849.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The US has imposed new anti-dumping tariffs on solar panels imported from Southeast Asia, tightening restrictions on Chinese manufacturers accused of using these countries to avoid fair trade rules.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,president-biden,solar-power,tariffs" data-layer-viewtype="unknown" data-post-id="391789" href="https://electrek.co/2024/12/02/us-anti-dumping-tariffs-southeast-asia-solar-panels/#more-391789" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/02/us-anti-dumping-tariffs-southeast-asia-solar-panels/>
+
+---
+
+## Fisker Ocean Owner Review: $69,012 To $13,500 In One Year
+
+date: 2024-12-02, from: Inside EVs News
+
+Fisker owners have to deal with massive financial losses, an unfinished car and plenty of unfulfilled promises. 
+
+<br> 
+
+<https://insideevs.com/news/742945/fisker-ocean-owner-review-depreciation/>
 
 ---
 
@@ -93,11 +445,11 @@ date: 2024-12-02, from: Electrek Feed
 
 date: 2024-12-02, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/maryan-ivasyk-96K8W3m3aKA-unsplash-e1733167010963.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>More good news from EV mecca Norway, with November numbers showing more than 10,000 EVs were newly registered, bringing its tally to a truly impressive 93.6% of all new car registrations, showing that it’s EV transition is almost complete.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/maryan-ivasyk-96K8W3m3aKA-unsplash-e1733167010963.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>More good news from EV mecca Norway, with November numbers showing more than 10,000 EVs were newly registered, bringing its tally to a truly impressive 93.6% of all new car registrations, showing that its EV transition is almost complete.</p>
 
 
 
- <a data-layer-pagetype="post" data-layer-postcategory="norway,tesl" data-layer-viewtype="unknown" data-post-id="391733" href="https://electrek.co/2024/12/02/norway-breaks-another-ev-record-nearly-completing-its-ev-transition/#more-391733" class="more-link">more…</a> 
+ <a data-layer-pagetype="post" data-layer-postcategory="norway,tesla" data-layer-viewtype="unknown" data-post-id="391733" href="https://electrek.co/2024/12/02/norway-breaks-another-ev-record-nearly-completing-its-ev-transition/#more-391733" class="more-link">more…</a> 
 
 <br> 
 
@@ -209,7 +561,7 @@ date: 2024-12-02, from: Electrek Feed
 
 ---
 
-## Jeep and Dodge-owned Stellantis CEO steps down, shares drop
+## Jeep and Dodge owner Stellantis CEO steps down, shares drop
 
 date: 2024-12-02, from: Electrek Feed
 
