@@ -41,7 +41,6 @@ california: harvest markdown html archives index.html forecasts.html about.html 
 
 snapshots: .FORCE
 	cd snapshots && make
-	git add snapshots/*.md snapshots/*.html
 
 website: markdown html archives index.html forecasts.html about.html README.html 
 

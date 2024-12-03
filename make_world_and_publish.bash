@@ -6,5 +6,6 @@ fi
 PATH="${HOME}/bin:/usr/local/bin:/usr/bin"
 export PATH
 echo $PATH
-make world
+make build
+make snapshots
 make publish
