@@ -1,17 +1,473 @@
 ---
 title: science and technology
-updated: 2024-12-03 07:05:34
+updated: 2024-12-04 07:05:44
 ---
 
 # science and technology
 
-(date: 2024-12-03 07:05:34)
+(date: 2024-12-04 07:05:44)
+
+---
+
+## The AI Pioneer With Provocative Plans for Humanity
+
+date: 2024-12-04, from: Quanta Magazine
+
+While some fret about technology’s social impacts, Raj Reddy still believes in the power of artificial intelligence to improve lives.            <p>The post <a href="https://www.quantamagazine.org/the-ai-pioneer-with-provocative-plans-for-humanity-20241204/" target="_blank">The AI Pioneer With Provocative Plans for Humanity</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/the-ai-pioneer-with-provocative-plans-for-humanity-20241204/>
+
+---
+
+## Lagniappe for December 2024
+
+date: 2024-12-04, from: NASA breaking news
+
+Explore Lagniappe for December 2024 featuring: Gator Speaks Do you have time for a quick story? Recently, your ol‘ friend Gator had the chance to help his family move. This move was not the same as going to the Moon or Mars like NASA’s planned Artemis adventure, but it felt similar. The move brought friends, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-december-2024/>
+
+---
+
+## NASA Attorney Enjoys Serving Others and Contributing to the Team Mission
+
+date: 2024-12-04, from: NASA breaking news
+
+NASA attorney Jeff Renshaw’s work has primarily revolved around two things: serving others and solving problems. The New Orleans native retired as an U.S. Air Force judge advocate following more than two decades of service. Renshaw now has worked for more than eight years as an attorney advisor at NASA’s Stennis Space Center near Bay [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/jeff-renshaw-enjoys-serving-others/>
+
+---
+
+## Microsoft says premature patch could make Windows Recall forget how to work
+
+date: 2024-12-04, updated: 2024-12-04, from: The Register (UK I.T. News)
+
+<h4>Installed the final non-security preview update of 2024? Best not hop onto the Dev Channel</h4> <p>Microsoft has pinned down why some eager Windows Insiders could not persuade the Recall preview to save any snapshots. It&#39;s all down to a pesky non-security preview.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/04/microsoft_update_recall_bug/>
+
+---
+
+## White Sands Test Facility Encourages Locals to Leave Their Footprint on the Space Industry
+
+date: 2024-12-04, from: NASA breaking news
+
+At the edge of Las Cruces, New Mexico, surrounded by miles of sunbaked earth, NASA’s White Sands Test Facility (WSTF) is quietly shaping the future. There is no flash, no fanfare — the self-contained facility operates as it has since 1962, humbly and in relative obscurity. Yet as New Mexico’s space industry skyrockets amid intensifying [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/white-sands-test-facility-encourages-locals-to-leave-their-footprint-on-the-space-industry/>
+
+---
+
+## Elementary OS 8 'Circe' conjures Wayland magic
+
+date: 2024-12-04, updated: 2024-12-04, from: The Register (UK I.T. News)
+
+<h4>Based on Ubuntu 24.04, more accessibility, still looks great</h4> <p>Elementary OS 8 &#34;Circe&#34; is here, based on Ubuntu 24.04, with Wayland support in the Pantheon desktop.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/04/elementary_os_8/>
+
+---
+
+## Microsoft: we’re not lowering the Windows 11 system requirements
+
+date: 2024-12-04, from: OS News
+
+If you were secretly hoping Microsoft would lower the system requirements for Windows 11 so you could upgrade your or your family&#8217;s Windows 10 machines to Windows 11, you&#8217;re going to be in for some bad news. In a blog post, Microsoft detailed that its most stringent Windows 11 requirement &#8211; the Trusted Platform Module (TPM) 2.0 &#8211; is here to stay and crucial to the future of Windows. By instituting TPM 2.0 as a non-negotiable standard for the future of Windows, we elevate the security benchmark. It allows you and us to better align with the growing need for formidable data protection in the modern digital sphere.  In conclusion, TPM 2.0 is not just a recommendation—it’s a necessity for maintaining a secure and future-proof IT environment with Windows 11. And it’s an important part of the larger Zero Trust strategy, alongside Secure Boot, Credential Guard, and Windows Hello for Business. ↫ Steven Hosking at the Windows IT Pro Blog So no, if you had the hope Microsoft would lower Windows 11&#8217;s system requirements in the face of the oncoming end of support deadline for the 60% of Windows users still using Windows 10, your hope has just been dashed. A more likely outcome here is that as the deadline grows closer, Microsoft will extend the deadline by another year, and if needed another, because leaving 60% of users without security updates and little to no path to upgrade is not going to be a good look for the marketing and legal departments. If you really do want to upgrade to Windows 11, there&#8217;s a few options. There&#8217;s the enterprise-focused Windows 11 LTSC 2024 release, which does not require a TPM 2.0, regarding it as an optional feature instead. On top of that, LTSC is much more bare-bones, shipping without much of the stuff many of us more nerdy users aren&#8217;t interested in anyway. The big downside is that getting your hands on a legal copy of LTSC will be difficult, as it&#8217;s only available to volume licensing customers, which you most likely are not. Of course, you shouldn&#8217;t give a shit about Microsoft&#8217;s rules, so you can always use unapproved methods of getting a license. Another option is the one I took for my parts-bin Windows 11 PC which I only use for League of Legends: I bought a cheap TPM 2.0 module from eBay, slotted it into my motherboard, and was on my merry way. Due to League of Legends&#8217; required rootkit, a TPM 2.0 module is needed, so a few euros and days waiting later, I was ready to go. Do make sure you get the right type of TPM 2.0 module for your motherboard, as they&#8217;re not universally compatible. The final option is to use one of the few remaining ways to circumvent Windows 11&#8217;s system requirements, which are sadly dwindling with every major update. Right now that means using a tool like Flyby11, which uses the Windows Server installer to bypass Windows 11&#8217;s system requirements. We&#8217;ll have to wait and see for how long that trick remains possible. 
+
+<br> 
+
+<https://www.osnews.com/story/141263/microsoft-were-not-lowering-the-windows-11-system-requirements/>
+
+---
+
+## SAP legacy ERP users wise to ignore offer of single leap to the cloud
+
+date: 2024-12-04, updated: 2024-12-04, from: The Register (UK I.T. News)
+
+<h4>Multi-stage journey preferred in high-risk switch, says user group chair</h4> <p>According to the chair of the SAP UK and Ireland user group, users of its legacy on-prem ERP systems are set to upgrade their software before they move to the cloud, eschewing the vendor&#39;s preferred method as a first step.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/04/sap_legacy_erp_cloud/>
+
+---
+
+## An Abandoned Merchant Ship Was Discovered Floating in the Atlantic in 1872. The Mystery of Its Missing Crew Was Never Solved
+
+date: 2024-12-04, from: Smithsonian Magazine
+
+Speculation about what happened to the "Mary Celeste," found empty on this day in 1872, was so rife that even famed author Arthur Conan Doyle wrote a sensational short story about it 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/an-abandoned-merchant-ship-was-discovered-floating-in-the-atlantic-1872-the-mystery-its-missing-crew-never-solved-180985547/>
+
+---
+
+## Fresh releases of Xfce, Mint, Cinnamon desktops out in time for the holidays
+
+date: 2024-12-04, updated: 2024-12-04, from: The Register (UK I.T. News)
+
+<h4>Cinnamon 6.4 is already out and Xfce 4.20 is very nearly ready</h4> <p>Fancy spending time refreshing your setup over the holidays? Two of the more popular Windows-style FOSS desktops are about to drop new point releases, one for higher-end machines and one for lower-end kit.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/04/xfce_mint_cinnamon/>
+
+---
+
+## Eurocops take down 'secure' criminal chat system known as Matrix
+
+date: 2024-12-04, updated: 2024-12-04, from: The Register (UK I.T. News)
+
+<h4>They took the red pill</h4> <p><strong>Updated</strong>  French and Dutch police have taken down the Matrix chat app, which was designed by criminals for criminals to be a secure encrypted messaging tool.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/04/eurocop_crack_matrix/>
+
+---
+
+## Musk and Trump to fall out in 2025, predicts analyst
+
+date: 2024-12-04, updated: 2024-12-04, from: The Register (UK I.T. News)
+
+<h4>Differing China tech policy agendas will send bromance into &#39;it&#39;s complicated&#39; status</h4> <p><strong>Canalys Forums APAC</strong>  The CEO and founder of channel-centric analyst house Canalys has predicted that the alliance between president-elect Donald Trump and aspiring oligarch Elon Musk will unravel in 2025, putting Tesla&#39;s ability to execute on full self-driving vehicles at risk.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/04/musk_trump_china_agenda/>
+
+---
+
+## £1B lawsuit targets Microsoft for allegedly overcharging Windows customers on other clouds
+
+date: 2024-12-04, updated: 2024-12-04, from: The Register (UK I.T. News)
+
+<h4>Yes, we&#39;ve been over this before - several times, in fact</h4> <p>Microsoft has been sued in the UK to the tune of more than £1 billion over claims Redmond has been overcharging businesses for Windows Server licenses used on competing cloud platforms. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/04/lawsuit_microsoft_windows/>
+
+---
+
+## Binance accused of tax evasion by India's finance department
+
+date: 2024-12-04, updated: 2024-12-04, from: The Register (UK I.T. News)
+
+<h4>Minister reveals 17 crypto players owe $100 million – with Binance the baddest of the bad</h4> <p>India&#39;s Finance Ministry has alleged crypto exchange Binance evaded almost $85 million in tax – the vast majority of around $96 million it claims digi-dollar outfits haven&#39;t paid.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/04/india_binance_crypto_tax_evasion/>
+
+---
+
+## RISC-V's AI champion just scored $693M cash infusion
+
+date: 2024-12-04, updated: 2024-12-04, from: The Register (UK I.T. News)
+
+<h4>Architecture may be good for more than cut-rate SoCs and high-volume microcontrollers after all</h4> <p>RISC-V chip designer Tenstorrent has won $693 million of investment – an endorsement of its plans to use the permissively licensed instruction set architecture for workloads like AI.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/04/riscv_ai_champion_investment/>
+
+---
+
+## FTC scolds two data brokers for allegedly selling your location to the meter
+
+date: 2024-12-04, updated: 2024-12-04, from: The Register (UK I.T. News)
+
+<h4>&#39;Where we go is who we are&#39; totally isn&#39;t a creepy ad slogan at all</h4> <p>The FTC has reached a settlement with two data brokerages over allegations they harvested precise location data that shows when people entered hospitals, places of worship, and even attended protests supporting the late George Floyd.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/04/ftc_data_brokers/>
+
+---
+
+## AWS says AI could disrupt everything – and hopes it will do just that to Windows
+
+date: 2024-12-04, updated: 2024-12-04, from: The Register (UK I.T. News)
+
+<h4>Cloud colossus reckons it can clarify hallucinations, get your apps off Microsoft&#39;s OS at pleasing speed</h4> <p><strong>re:Invent</strong>  Amazon Web Services CEO Matt Garman opened the cloud computing service&#39;s 13th annual re:Invent conference by observing: &#34;Generative AI has the potential to disrupt every single industry out there.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/04/amazon_leans_into_ai/>
+
+---
+
+## Perfect 10 directory traversal vuln hits SailPoint's IAM solution
+
+date: 2024-12-03, updated: 2024-12-03, from: The Register (UK I.T. News)
+
+<h4>20-year-old info disclosure class bug still pervades security software</h4> <p>It&#39;s time to rev up those patch engines after SailPoint disclosed a perfect 10/10 severity vulnerability in its identity and access management (IAM) platform IdentityIQ.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/03/sailpoint_identityiq_vulnerability/>
+
+---
+
+## Convert NTFS to Btrfs and boot Windows off Btrfs
+
+date: 2024-12-03, from: OS News
+
+Ntfs2btrfs is a tool which does in-place conversion of Microsoft&#8217;s NTFS filesystem to the open-source filesystem Btrfs, much as btrfs-convert does for ext2. The original image is saved as a reflink copy at image/ntfs.img, and if you want to keep the conversion you can delete this to free up space. ↫ Mark Harmstone An amazing piece of software that works on both Linux and Windows, and even, as described above, comes with the option of undoing the conversion if you so desire and haven&#8217;t removed the original image yet. Its developer, Mark Harmstone, of course stresses that while he thinks the tool is quite stable, he obviously makes no guarantees or claims about its stability. In other words, please don&#8217;t use this on sensitive data or in a production environment. What makes this tool even more amazing is that you can combine it with two of Harmstone&#8217;s other tools to really pull some rabbits out of your hat. First, there&#8217;s his Btrfs driver for Windows, which, as the name implies, allows Windows to work with Btrfs-formatted drives. Second, and here&#8217;s where things get really spicy, there&#8217;s Quibble, his custom bootloader consisting of open source reimplementations of Windows&#8217; own bootloader. Using these three tools together you can, if you&#8217;re lucky, boot and run Windows off a Btrfs drive. That&#8217;s quite cool, and while perhaps not particularly useful due to its experimental nature, it&#8217;s still an awesome weekend project. 
+
+<br> 
+
+<https://www.osnews.com/story/141259/convert-ntfs-to-btrfs-and-boot-windows-off-btrfs/>
+
+---
+
+## Eating Seaweed Could Make Cows Less Gassy, Slashing Methane Emissions From Grazing by Nearly 40 Percent
+
+date: 2024-12-03, from: Smithsonian Magazine
+
+A new study finds that feeding seaweed pellets to grazing beef cattle dramatically reduces their greenhouse gas emissions 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/eating-seaweed-could-make-cows-less-gassy-slashing-methane-emissions-from-grazing-by-nearly-40-percent-180985575/>
+
+---
+
+## Outlook is poor for those still on Windows Mail, Calendar, People apps by end of year
+
+date: 2024-12-03, updated: 2024-12-03, from: The Register (UK I.T. News)
+
+<h4>We&#39;re sure you&#39;ll learn to love the new Outlook for Windows app</h4> <p>Microsoft is preparing to kill off the old Windows Mail, Calendar, and People apps by the end of this month and shift users to the Outlook for Windows app.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/03/windows_mail_calendar_support/>
+
+---
+
+## This Mysterious Gold Pendant Featuring a Misspelled Inscription Is an Early Medieval Imitation of a Roman Coin
+
+date: 2024-12-03, from: Smithsonian Magazine
+
+A metal detectorist in England discovered the unusual piece of jewelry, which was likely made in the late fifth or early sixth century C.E. 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/this-mysterious-gold-pendant-featuring-misspelled-inscriptions-is-an-early-medieval-imitation-of-a-roman-coin-180985566/>
+
+---
+
+## The Secret to the Rise of Dinosaurs Could Be Hidden in an Unlikely Place: Their Poop
+
+date: 2024-12-03, from: Smithsonian Magazine
+
+In a new study, scientists examined bromalites, including fossilized feces and vomit, to reveal prehistoric diets and reconstruct the timeline of how dinosaurs established dominion over the world 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-secret-to-the-rise-of-dinosaurs-could-be-hidden-in-an-unlikely-place-their-poop-180985562/>
+
+---
+
+## Pope Francis Signed These Two Bottles of Bourbon to Support Charities in Kentucky
+
+date: 2024-12-03, from: Smithsonian Magazine
+
+Earlier this year, a priest from Lexington brought the spirits to the Vatican to get the pope's autograph. They will soon be sold at auction, where they could raise up to $20,000 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/pope-francis-signed-these-two-bottles-of-bourbon-to-support-charities-in-kentucky-180985556/>
+
+---
+
+## SOHO, the two-year mission that forgot to retire, finally faces sunset
+
+date: 2024-12-03, updated: 2024-12-04, from: The Register (UK I.T. News)
+
+<h4>Probe may not make it to 30 as funding runs out and replacement is launched</h4> <p>ESA and NASA&#39;s Solar and Heliospheric Observatory (SOHO) is approaching what could be its final year of operations as it hits the 29th anniversary of its launch.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/03/soho_29_years/>
+
+---
+
+## Major energy contractor reports 'limited' access to IT after ransomware locks files
+
+date: 2024-12-03, updated: 2024-12-03, from: The Register (UK I.T. News)
+
+<h4>ENGlobal customers include the Pentagon as well as major oil and gas producers</h4> <p>American energy contractor ENGlobal disclosed that access to its IT systems remains limited following a ransomware infection in late November.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/03/us_energy_contractor_englobal_ransomware/>
+
+---
+
+## Astronaut Suni Williams and Astrobee
+
+date: 2024-12-03, from: NASA breaking news
+
+In this picture from Nov. 15, 2024, Astronaut Suni Williams imitates the tentacle-like arms of the Astrobee robotic free-flyer in the foreground. Astrobee robots help astronauts reduce time they spend on routine duties, leaving them to focus more on the things that only humans can do. Working autonomously or via remote control by astronauts, flight [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/astronaut-suni-williams-and-astrobee/>
+
+---
+
+## ¿Por qué cultivamos plantas en el espacio?
+
+date: 2024-12-03, from: NASA breaking news
+
+Hay muchas razones por las cuales cultivamos diversos tipos de plantas en el espacio. Las plantas proveen alimentación y bienestar psicológico a los astronautas y ayudan a reciclar el aire de la Estación Espacial Internacional, pero hay muchos otros beneficios asociados con esta actividad. Jorge Sotomayor, gerente de investigaciones de la Estación Espacial Internacional, te [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/station/iss-research/por-que-cultivamos-plantas-en-el-espacio/>
+
+---
+
+## Sols 4382-4383: Team Work, Dream Work
+
+date: 2024-12-03, from: NASA breaking news
+
+Earth planning date: Monday, Dec. 2, 2024 Today, after a weeklong holiday break, the team was eager to take a look at Curiosity’s new workspace. After driving 51 meters (about 167 feet) alongside Texoli butte (pictured) we had a whole host of new rocks to examine, and it was one of those curiously perfect planning […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4382-4383-team-work-dream-work/>
+
+---
+
+## Amazon promises 4x faster AI silicon in 2025, turns Trainium2 loose on the net
+
+date: 2024-12-03, updated: 2024-12-04, from: The Register (UK I.T. News)
+
+<h4>Tens of thousands of AWS’ Trn2 instances to fuel Anthropic&#39;s next-gen models</h4> <p><strong>Re:Invent</strong>  Amazon Web Services teased its next gen AI accelerator dubbed Trainium3 at re:Invent on Tuesday, which it says will deliver 4x higher performance than its predecessor when it arrives late next year.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/03/amazon_ai_chip/>
+
+---
+
+## AWS introduces S3 Tables, a new bucket type for data analytics
+
+date: 2024-12-03, updated: 2024-12-04, from: The Register (UK I.T. News)
+
+<h4>One of the most significant API changes since S3 was launched, AWS VP tells us</h4> <p><strong>Re:Invent</strong>  There are two important changes to AWS&#39;s ubiquitous S3 storage service arriving soon: first, a new Table bucket type aimed at data analytics; and second, a previewed metadata feature that uses S3 tables to enable fast query of S3 data.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/03/aws_introduces_s3_tables/>
+
+---
+
+## NASA Builds Bridges at Bayou Classic
+
+date: 2024-12-03, from: NASA breaking news
+
+NASA was on full display during the 51st Annual Bayou Classic Fan Fest activity on Nov. 30, hosting an informational booth and interacting with event participants. Kicking off the Fan Fest on stage were Ken Newton, director of the NASA Shared Services Center Service Delivery Directorate; Pam Covington, director of the NASA Stennis Office of [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/building-bridges-at-bayou-classic/>
+
+---
+
+## A Mysterious Shipwreck Rests Just 20 Feet Below the Surface. It May Be Connected to Vasco da Gama's Final Voyage
+
+date: 2024-12-03, from: Smithsonian Magazine
+
+Researchers think a coral-covered vessel discovered off the Kenyan coast could be the "São Jorge," a galleon that sank 500 years ago 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-mysterious-shipwreck-rests-just-20-feet-below-the-surface-it-may-be-connected-to-vasco-da-gamas-final-voyage-180985563/>
+
+---
+
+## Judge again cans Musk's record-setting $56B Tesla package
+
+date: 2024-12-03, updated: 2024-12-03, from: The Register (UK I.T. News)
+
+<h4>&#39;Even if a stockholder vote could have a ratifying effect, it could not do so here,&#39; says Delaware Chancellor</h4> <p>Elon Musk&#39;s controversial $56 billion Tesla compensation package, voided by a Delaware court in January and reinstated by shareholder vote in June, has failed to move Judge Kathaleen McCormick to reverse her original decision, rendering Musk&#39;s pay package void yet again. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/03/musks_tesla_pay_package/>
+
+---
+
+## Towards Autonomous Surface Missions on Ocean Worlds
+
+date: 2024-12-03, from: NASA breaking news
+
+Through advanced autonomy testbed programs, NASA is setting the groundwork for one of its top priorities—the search for signs of life and potentially habitable bodies in our solar system and beyond. The prime destinations for such exploration are bodies containing liquid water, such as Jupiter’s moon Europa and Saturn’s moon Enceladus. Initial missions to the […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/towards-autonomous-surface-missions-on-ocean-worlds/>
+
+---
+
+## NASA-Led Team Links Comet Water to Earth’s Oceans
+
+date: 2024-12-03, from: NASA breaking news
+
+Scientists find that cometary dust affects interpretation of spacecraft measurements, reopening the case for comets as potential sources of water for early Earth.  
+
+<br> 
+
+<https://science.nasa.gov/solar-system/comets/nasa-led-team-links-comet-water-to-earths-oceans/>
+
+---
+
+## Coming Spring 2025: Planetary Defenders Documentary
+
+date: 2024-12-03, from: NASA breaking news
+
+ow would humanity respond if we discovered an asteroid headed for Earth? NASA’s Planetary Defenders is a gripping documentary that follows the dedicated scientists involved in the high-stakes world of asteroid detection and planetary defense. 
+
+<br> 
+
+<https://science.nasa.gov/science-research/planetary-science/planetary-defense/planetary-defenders/>
+
+---
+
+## Are Copilot+ PCs really the fastest Windows PCs? X and Copilot don't think so
+
+date: 2024-12-03, updated: 2024-12-03, from: The Register (UK I.T. News)
+
+<h4>Microsoft marketing skewered by X platform users... and its own chatbot</h4> <p><strong>Opinion</strong>  Microsoft&#39;s recent post on X that Copilot+ PCs are &#34;the fastest, most intelligent Windows PCs ever&#34; is being rebuffed by the platform&#39;s context panel and the software vendor&#39;s own chatbot.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/03/are_copilot_pcs_fastest_windows_boxes/>
 
 ---
 
 ## Gelsinger departs Intel with $9.7M handshake
 
-date: 2024-12-03, updated: 2024-12-03, from: The Register (UK I.T. News)
+date: 2024-12-03, updated: 2024-12-04, from: The Register (UK I.T. News)
 
 <h4>CEO&#39;s severance pales in comparison to Musk&#39;s billion-dollar Tesla battle</h4> <p>Outgoing Intel chief executive Pat Gelsinger is set to receive severance pay of around $9.7 million following his departure from the chip giant.…</p> 
 
@@ -25,7 +481,7 @@ date: 2024-12-03, updated: 2024-12-03, from: The Register (UK I.T. News)
 
 date: 2024-12-03, from: OS News
 
-This is a bit of an odd few days for Intel. Mere days after the board ousted its CEO Pat Gelsinger, once heralded as the chip giant&#8217;s messiah, they&#8217;re today launching two brand new desktop graphics cards. They&#8217;re aimed at the more budget-oriented consumer, and might very well be the last discrete graphics cards Intel makes, since this is one of the product lines on the chopping block. Intel’s next — and possibly last — desktop graphics cards will begin arriving in just 10 days.&#160;Right on cue, the company has announced the budget $249 Arc B580 and $219 Arc B570, shipping December 13th and January 16th, respectively, as the “best-in-class performance per dollar” options in the GPU market. They’re based on the same Xe2 “Battlemage” GPU architecture you’ll find in Intel’s Lunar Lake laptop chips but with more than double the graphics cores, up to 12GB of dedicated video memory, and up to 190W of power compared to their limited laptop forms — enough power to see the B580 slightly beat Nvidia’s $299 RTX 4060 and AMD’s $269 RX 7600, according to Intel’s benchmarks, but sometimes still trading blows. ↫ Sean Hollister at The Verge As for Gelsinger&#8217;s dismissal, it seems the board forced him out after being frustrated with the slow progress the company was making in its turnaround. The fact that a finance person and a marketing person will together be interim CEOs seems to indicate the board is more interested in quick profit than a long-term turnaround, and with companies like Qualcomm being interesting in acquiring Intel, the board&#8217;s short-term mentality might be winning out, and ousting Gelsinger is just paving the way for selling off parts of Intel until there&#8217;s nothing left. Who knows, I might be reading way too much into all of this, but it feels like expecting an organisation as complex as a high-end processor makers to turn itself around in just a few years is incredibly shortsighted, and you&#8217;d think board members at Intel would understand that. If the goal is to maintain Intel as a separate, profitable entity making some of the world&#8217;s fastest processors, you&#8217;re going to need to give a CEO and leadership team more than just a few years to turn the ship around. Within a few years we&#8217;ll know the board&#8217;s true intentions, but I wouldn&#8217;t be surprised to see Intel being sold for parts over the coming years. 
+This is a bit of an odd few days for Intel. Mere days after the board ousted its CEO Pat Gelsinger, once heralded as the chip giant&#8217;s messiah, they&#8217;re today launching two brand new desktop graphics cards. They&#8217;re aimed at the more budget-oriented consumer, and might very well be the last discrete graphics cards Intel makes, since this is one of the product lines on the chopping block. Intel’s next — and possibly last — desktop graphics cards will begin arriving in just 10 days.&#160;Right on cue, the company has announced the budget $249 Arc B580 and $219 Arc B570, shipping December 13th and January 16th, respectively, as the “best-in-class performance per dollar” options in the GPU market. They’re based on the same Xe2 “Battlemage” GPU architecture you’ll find in Intel’s Lunar Lake laptop chips but with more than double the graphics cores, up to 12GB of dedicated video memory, and up to 190W of power compared to their limited laptop forms — enough power to see the B580 slightly beat Nvidia’s $299 RTX 4060 and AMD’s $269 RX 7600, according to Intel’s benchmarks, but sometimes still trading blows. ↫ Sean Hollister at The Verge As for Gelsinger&#8217;s dismissal, it seems the board forced him out after being frustrated with the slow progress the company was making in its turnaround. The fact that a finance person and a marketing person will together be interim CEOs seems to indicate the board is more interested in quick profit than a long-term turnaround, and with companies like Qualcomm being interested in acquiring Intel, the board&#8217;s short-term mentality might be winning out, and ousting Gelsinger is just paving the way for selling off parts of Intel until there&#8217;s nothing left. Who knows, I might be reading way too much into all of this, but it feels like expecting an organisation as complex as a high-end processor makers to turn itself around in just a few years is incredibly shortsighted, and you&#8217;d think board members at Intel would understand that. If the goal is to maintain Intel as a separate, profitable entity making some of the world&#8217;s fastest processors, you&#8217;re going to need to give a CEO and leadership team more than just a few years to turn the ship around. Within a few years we&#8217;ll know the board&#8217;s true intentions, but I wouldn&#8217;t be surprised to see Intel being sold for parts over the coming years. 
 
 <br> 
 
@@ -167,7 +623,7 @@ date: 2024-12-03, updated: 2024-12-03, from: The Register (UK I.T. News)
 
 ## Data on 760K workers from Xerox, Nokia, BofA, Morgan Stanley and more dumped online
 
-date: 2024-12-03, updated: 2024-12-03, from: The Register (UK I.T. News)
+date: 2024-12-03, updated: 2024-12-04, from: The Register (UK I.T. News)
 
 <h4>Yet another result of the MOVEit mess</h4> <p>Hundreds of thousands of employees from major corporations including Xerox, Nokia, Koch, Bank of America, Morgan Stanley and others appear to be the latest victims in a massive data breach linked to last year&#39;s attacks on file transfer tool MOVEit.…</p> 
 
@@ -193,7 +649,7 @@ date: 2024-12-03, updated: 2024-12-03, from: The Register (UK I.T. News)
 
 date: 2024-12-03, updated: 2024-12-03, from: The Register (UK I.T. News)
 
-<h4>140 Middle Kingdom firms added to US trade blacklist</h4> <p>The Biden administration has announced restrictions limiting the export of memory critical to the production of AI accelerators and banning sales to more than a hundred entities.…</p> 
+<h4>140 Middle Kingdom firms added to US trade blacklist</h4> <p><strong>Updated</strong>  The Biden administration has announced restrictions limiting the export of memory critical to the production of AI accelerators and banning sales to more than a hundred entities.…</p> 
 
 <br> 
 

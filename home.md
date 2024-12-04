@@ -1,11 +1,352 @@
 ---
 title: home
-updated: 2024-12-03 07:05:36
+updated: 2024-12-04 07:05:45
 ---
 
 # home
 
-(date: 2024-12-03 07:05:36)
+(date: 2024-12-04 07:05:45)
+
+---
+
+## 20 Types of Cosmos Flowers for Your Garden with Pictures
+
+date: 2024-12-04, from: Yard Life blog
+
+<p>Cosmos flowers are a gardener’s favorite, known for their delicate blooms, feathery foliage, and easy-growing nature. Originating from Mexico and ... </p>
+<p class="read-more-container"><a title="20 Types of Cosmos Flowers for Your Garden with Pictures" class="read-more button" href="https://ownyardlife.com/20-types-of-cosmos-flowers-for-your-garden-with-pictures/#more-21940" aria-label="Read more about 20 Types of Cosmos Flowers for Your Garden with Pictures">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/20-types-of-cosmos-flowers-for-your-garden-with-pictures/">20 Types of Cosmos Flowers for Your Garden with Pictures</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/20-types-of-cosmos-flowers-for-your-garden-with-pictures/>
+
+---
+
+## GM Recalls Thousands of Trucks to Fix Tailgate Safety Risk
+
+date: 2024-12-03, from: Family Handyman Blog
+
+<p>GM has announced a recall of several of its vehicles due to a tailgate issue that interferes with their security. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/gm-truck-tailgate-recall/">GM Recalls Thousands of Trucks to Fix Tailgate Safety Risk</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/gm-truck-tailgate-recall/>
+
+---
+
+## Video — Secretary Ross kicks off Healthy Soils Week
+
+date: 2024-12-03, from: Calfifornia Dept. Aggriculture blog
+
+Healthy Soils Week is underway! We’re celebrating the incredible role that soil plays in California’s sustainable agriculture. This year’s theme, “A Circular Economy for Healthy Soils,” spotlights how transforming waste into valuable resources can strengthen soil health for generations to &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28429">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28429>
+
+---
+
+## New members join California State Board of Food and Agriculture
+
+date: 2024-12-03, from: Calfifornia Dept. Aggriculture blog
+
+ 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28431>
+
+---
+
+## Disneyland Plans to Double the Size of This Popular Area of the Park
+
+date: 2024-12-03, from: Sunset Magazine - Living in the West
+
+Disneyland has officially submitted plans to the city of Anaheim to double the size of the Marvel-themed area in Disney California Adventure. 
+
+<br> 
+
+<https://www.sunset.com/travel/disneyland-avengers-campus-expansion>
+
+---
+
+## This $8M Cliff May Ranch House in the Pacific Palisades Is a Rare Find
+
+date: 2024-12-03, from: Dwell
+
+With a spacious courtyard, pitched shiplap ceilings, and terra-cotta floors, the residence is a prime example of the architect’s trademark style. 
+
+<br> 
+
+<https://www.dwell.com/article/cliff-may-midcentury-home-pacific-palisades-los-angeles-real-estate-4a87745d>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-12-03, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## How an Architect Restored His 1966 Seattle Home (While Also Paying Tribute to His Father)
+
+date: 2024-12-03, from: Sunset Magazine - Living in the West
+
+Architect Steve Hoedemaker's house was a doubly personal endeavor because it had a slight connection to his father. See how he updated the 1960s house. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/seattle-house-renovation-hoedemaker-pfeiffer>
+
+---
+
+## The Owners of These Refreshed Saltbox Homes in Newfoundland Have to Hike or Boat In
+
+date: 2024-12-03, from: Dwell
+
+No roads lead to the set of residences in remote Canada, modernized with steel roofs, window boxes, surprising swaths of color, and more. 
+
+<br> 
+
+<https://www.dwell.com/article/burdens-point-residence-reflect-architecture-historic-renovation-saltbox-homes-7ef5f5d2>
+
+---
+
+## 10 Hacks To Make Holiday Decorating Cheaper and Easier
+
+date: 2024-12-03, from: Family Handyman Blog
+
+<p>These cheap holiday hacks will make gift-wrapping and decorating a lot easier during the stressful holiday season.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/10-hacks-to-make-holiday-decorating-cheaper-and-easier/">10 Hacks To Make Holiday Decorating Cheaper and Easier</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/10-hacks-to-make-holiday-decorating-cheaper-and-easier/>
+
+---
+
+## Ways To Increase the Heat From Your Wood-Burning Fireplace
+
+date: 2024-12-03, from: Family Handyman Blog
+
+<p>Don't let your woodpile go up in smoke. Here's how to increase the efficiency of your fireplace or wood stove with maintenance, wood choice and more.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/how-to-get-more-heat-from-fireplace/">Ways To Increase the Heat From Your Wood-Burning Fireplace</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/how-to-get-more-heat-from-fireplace/>
+
+---
+
+## A Guide to Space Heater Safety
+
+date: 2024-12-03, from: Family Handyman Blog
+
+<p>Learn essential tips for space heater safety to keep your home and loved ones safe.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/are-space-heaters-safe/">A Guide to Space Heater Safety</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/are-space-heaters-safe/>
+
+---
+
+## These Features Are What New Home Buyers Wants Most In a House
+
+date: 2024-12-03, from: Family Handyman Blog
+
+<p>Whether you're buying, selling or just looking, these are the features that new home buyers say are most important to them. </p>
+<p>The post <a href="https://www.familyhandyman.com/list/these-features-are-what-new-home-buyers-wants-most-in-a-house/">These Features Are What New Home Buyers Wants Most In a House</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/these-features-are-what-new-home-buyers-wants-most-in-a-house/>
+
+---
+
+## Design Forward: 4 Must-Know Interior Trends for 2025
+
+date: 2024-12-03, from: Family Handyman Blog
+
+<p>If you're looking for interior design trends for 2025 you've come to the right place. We've listened to the experts about what's coming. </p>
+<p>The post <a href="https://www.familyhandyman.com/list/interior-design-trends-for-2025/">Design Forward: 4 Must-Know Interior Trends for 2025</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/interior-design-trends-for-2025/>
+
+---
+
+## How to Grow and Care for Concrete Leaf Plant (Titanopsis)
+
+date: 2024-12-03, from: The Gardener's Path
+
+<p>Concrete leaf plants aka Titanopsis are bumpy-leaved succulent plants that blend in with the rocky ground in their native habitats. These mimicry plants, also known as living stones, are fascinating as well as being easy to cultivate. Learn how to grow and care for concrete leaf plants in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/grow-titanopsis/">How to Grow and Care for Concrete Leaf Plant (Titanopsis)</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/succulents/grow-titanopsis/>
+
+---
+
+## A 1970s Topanga Canyon Retreat Gets a Dreamy Mountain Update, Lists for $4.1M
+
+date: 2024-12-03, from: Dwell
+
+This wooded retreat is a tranquil getaway with high ceilings, walls of glass, sweeping views of the Santa Monica Mountains, and plenty of outdoor space. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-70s-timbers-topanga-canyon-real-estate-1c5fe8b2>
+
+---
+
+## A Sunny Villa on the Island of Mauritius Seeks $3.8M
+
+date: 2024-12-03, from: Dwell
+
+Contemporary sophistication meets timeless charm on this historic 200-year-old estate. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-sugar-estate-grand-baie-real-estate-86beb36a-fd81368e>
+
+---
+
+## The Garden-Obsessed Will Love These Thoughtful Gifts
+
+date: 2024-12-03, from: Sunset Magazine - Living in the West
+
+No matter your budget, these gifts will make your favorite green thumb's holiday merry and bright. Tools, gear, and other gifts for gardeners. 
+
+<br> 
+
+<https://www.sunset.com/home/gifts-for-gardeners>
+
+---
+
+## These Are the Gifts Foodies Will Love This Holiday Season
+
+date: 2024-12-03, from: Sunset Magazine - Living in the West
+
+Lean on local makers to put together a better holiday spread. These indulgent food gifts will satisfy everyone on your list. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/best-food-gifts>
+
+---
+
+## The Winners of the 2024 Sunset International Wine Competition
+
+date: 2024-12-03, from: Sunset Magazine - Living in the West
+
+After tasting hundreds of wines for the 2024 Sunset International Wine competition, the judges have named the winners. See them here. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/sunset-international-wine-competition-2024-winners>
+
+---
+
+## Gold Winners of the 2024 Sunset International Wine Competition
+
+date: 2024-12-03, from: Sunset Magazine - Living in the West
+
+These are the judges' picks for the Gold Winners of the 2024 Sunset International Wine Competition. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/gold-winners-2024-sunset-international-wine-competition>
+
+---
+
+## Double Gold Winners of the 2024 Sunset International Wine Competition
+
+date: 2024-12-03, from: Sunset Magazine - Living in the West
+
+These are the Double Gold winners of West’s hottest wine competition, the 2024 Sunset International Wine Competition 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/double-gold-winners-2024-sunset-international-wine-competition>
+
+---
+
+## Best of Class Winners of the 2024 Sunset International Wine Competition
+
+date: 2024-12-03, from: Sunset Magazine - Living in the West
+
+The judges have named the Best of Class winners of the Sunset International Wine Competition after tasting hundreds of bottles of wine. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/best-of-class-winners-2024-sunset-international-winter-competition>
+
+---
+
+## The Best Wines to Drink Right Now—Read Our 2024 Wine Issue to Find Out
+
+date: 2024-12-03, from: Sunset Magazine - Living in the West
+
+In our 2024 Wine Issue, we're celebrating the winners of the Sunset International Wine Competition. Plus, touring wineries and tasting rooms. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/2024-wine-issue>
+
+---
+
+## 6 Ways Caring for Your Houseplants Can Be a Form of Self-Care
+
+date: 2024-12-03, from: Sunset Magazine - Living in the West
+
+Plant care is more than just a task—it’s a way to nurture ourselves and find moments of calm in our busy stress-filled lives. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/flowers-plants/houseplant-self-care-routine>
+
+---
+
+## A Small Galley Kitchen Goes from Dark and Dated to Bright and Airy
+
+date: 2024-12-03, from: Sunset Magazine - Living in the West
+
+The dated and dark kitchen in a Laurel Canyon house had a very small footprint. It was transformed into a warm, roomy, and light-filled space. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/laurel-canyon-galley-kitchen-makeover>
+
+---
+
+## These Are the Best Deals to Score on Travel Tuesday, Hands Down
+
+date: 2024-12-03, from: Sunset Magazine - Living in the West
+
+These are the best Travel Tuesday deals on right now, from discounted flights to cheap rental car bookings and more. 
+
+<br> 
+
+<https://www.sunset.com/travel/travel-tuesday-best-travel-deals>
 
 ---
 
@@ -100,18 +441,6 @@ date: 2024-12-02, from: Dwell
 <br> 
 
 <https://www.dwell.com/article/rental-revamp-unreal-real-apartment-malak-mehta-the-mindful-scapes-eindhoven-netherlands-0b904f06>
-
----
-
-## These Are the Best Deals to Score on Travel Tuesday, Hands Down
-
-date: 2024-12-02, from: Sunset Magazine - Living in the West
-
-These are the best Travel Tuesday deals on right now, from discounted flights to cheap rental car bookings and more. 
-
-<br> 
-
-<https://www.sunset.com/travel/travel-tuesday-best-travel-deals>
 
 ---
 
@@ -234,18 +563,6 @@ The Lodge at Marconi has been home to many history-making moments, both good and
 <br> 
 
 <https://www.sunset.com/travel/hotels/lodge-at-marconi-renovation>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-12-02, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

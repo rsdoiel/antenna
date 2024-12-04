@@ -1,11 +1,47 @@
 ---
 title: craft
-updated: 2024-12-03 07:05:37
+updated: 2024-12-04 07:05:47
 ---
 
 # craft
 
-(date: 2024-12-03 07:05:37)
+(date: 2024-12-04 07:05:47)
+
+---
+
+## 2024 Anarchist’s Gift Guide: Day 8
+
+date: 2024-12-04, from: Lost Arg Press blog
+
+Day 8: Torrington Brushes: Glue Brushes &#38; Chip Brushes Another big step forward for our shop this year has been switching to Torrington brushes for gluing and for our chip brushes. Torrington is a small Florida company that makes excellent brushes and carries some really good imported ones. We are eager to try other brushes... 
+
+<br> 
+
+<https://blog.lostartpress.com/2024/12/04/2024-anarchists-gift-guide-day-8/>
+
+---
+
+## Campaign Furniture – Rugged & Simple
+
+date: 2024-12-03, from: Lost Arg Press blog
+
+The following is the preface of “Campaign Furniture,” by Christopher Schwarz. For almost 200 years, simple and sturdy pieces of campaign furniture were used by people all over the globe, yet this remarkable furniture style is now almost unknown to most woodworkers and furniture designers. “Campaign Furniture” seeks to restore this style to its proper... 
+
+<br> 
+
+<https://blog.lostartpress.com/2024/12/03/campaign-furniture-rugged-simple/>
+
+---
+
+## Unboxing the Supply Kit – 20% Off All Workshops One More Time! Celebrating 20 Years – Maiwa School of Textiles — Registration Opens December 9th at 9am Pacific Time
+
+date: 2024-12-03, updated: 2024-12-03, from: Maiwa blog (weaving and textiles)
+
+ 
+
+<br> 
+
+<https://maiwahandprints.blogspot.com/2024/12/unboxing-supply-kit-20-off-all.html>
 
 ---
 

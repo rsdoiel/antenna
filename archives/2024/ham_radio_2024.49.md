@@ -1,11 +1,39 @@
 ---
 title: ham radio
-updated: 2024-12-03 07:05:34
+updated: 2024-12-04 07:05:43
 ---
 
 # ham radio
 
-(date: 2024-12-03 07:05:34)
+(date: 2024-12-04 07:05:43)
+
+---
+
+## Walmart’s onn. FHD streaming stick: Still Android TV, but less thick
+
+date: 2024-12-04, from: EDN Blog
+
+<img width="1400" height="1724" src="https://www.edn.com/wp-content/uploads/open_overview-4.jpg?fit=1400%2C1724" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/open_overview-4.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/open_overview-4.jpg?w=244 244w, https://www.edn.com/wp-content/uploads/open_overview-4.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/open_overview-4.jpg?w=832 832w, https://www.edn.com/wp-content/uploads/open_overview-4.jpg?w=1247 1247w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>While the SoC supplier is the same between this and an earlier sibling system, there are notable variations between the designs.</p>
+<p>The post <a href="https://www.edn.com/walmarts-onn-fhd-streaming-stick-still-android-tv-but-less-thick/" data-wpel-link="internal">Walmart’s onn. FHD streaming stick: Still Android TV, but less thick</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/walmarts-onn-fhd-streaming-stick-still-android-tv-but-less-thick/>
+
+---
+
+## Pat Gelsinger: Return of the engineer CEO that wasn’t
+
+date: 2024-12-03, from: EDN Blog
+
+<img width="480" height="320" src="https://www.edn.com/wp-content/uploads/Fig-2-Pat-Gelsinger-Intel.jpg?fit=480%2C320" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Fig-2-Pat-Gelsinger-Intel.jpg?w=480 480w, https://www.edn.com/wp-content/uploads/Fig-2-Pat-Gelsinger-Intel.jpg?w=300 300w" sizes="auto, (max-width: 480px) 100vw, 480px" /><p>EDN's story published on 4 November 2024 offered a blueprint of Pat Gelsinger's inevitable ouster at Intel.</p>
+<p>The post <a href="https://www.edn.com/pat-gelsinger-return-of-the-engineer-ceo-that-wasnt/" data-wpel-link="internal">Pat Gelsinger: Return of the engineer CEO that wasn’t</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/pat-gelsinger-return-of-the-engineer-ceo-that-wasnt/>
 
 ---
 
@@ -13,7 +41,7 @@ updated: 2024-12-03 07:05:34
 
 date: 2024-12-03, from: EDN Blog
 
-<img width="929" height="704" src="https://www.edn.com/wp-content/uploads/HDR-Single-to-Diff-Amp_Figure6.png?fit=929%2C704" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/HDR-Single-to-Diff-Amp_Figure6.png?w=929 929w, https://www.edn.com/wp-content/uploads/HDR-Single-to-Diff-Amp_Figure6.png?w=300 300w, https://www.edn.com/wp-content/uploads/HDR-Single-to-Diff-Amp_Figure6.png?w=768 768w" sizes="(max-width: 929px) 100vw, 929px" /><p>Converting a single-ended signal to differential with an active circuit: a Class A/B output that operates from a single positive supply.</p>
+<img width="929" height="704" src="https://www.edn.com/wp-content/uploads/HDR-Single-to-Diff-Amp_Figure6.png?fit=929%2C704" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/HDR-Single-to-Diff-Amp_Figure6.png?w=929 929w, https://www.edn.com/wp-content/uploads/HDR-Single-to-Diff-Amp_Figure6.png?w=300 300w, https://www.edn.com/wp-content/uploads/HDR-Single-to-Diff-Amp_Figure6.png?w=768 768w" sizes="auto, (max-width: 929px) 100vw, 929px" /><p>Converting a single-ended signal to differential with an active circuit: a Class A/B output that operates from a single positive supply.</p>
 <p>The post <a href="https://www.edn.com/single-supply-single-ended-input-to-pseudo-class-a-b-differential-output-amp/" data-wpel-link="internal">Single-supply single-ended input to pseudo class A/B differential output amp</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

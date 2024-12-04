@@ -1,11 +1,146 @@
 ---
 title: motorcycles
-updated: 2024-12-03 07:05:36
+updated: 2024-12-04 07:05:46
 ---
 
 # motorcycles
 
-(date: 2024-12-03 07:05:36)
+(date: 2024-12-04 07:05:46)
+
+---
+
+## Honda’s Special Edition X-ADV Scoot Looks Like a Post-Apocalyptic Pikachu
+
+date: 2024-12-04, from: Ride Apart, Electric Motorcycle News
+
+Honda specifically designed it with steampunk and dystopian styling elements. You know, ‘coz it looks good on Instagram. 
+
+<br> 
+
+<https://www.rideapart.com/news/742988/honda-xadv-special-edition-post-apocalyptic-pikachu/>
+
+---
+
+## Sick, This Ducati Panigale V4 S Can Be Yours For Under $200
+
+date: 2024-12-04, from: Ride Apart, Electric Motorcycle News
+
+Some assembly required.  
+
+<br> 
+
+<https://www.rideapart.com/news/742972/lego-ducati-panigale-v4-s/>
+
+---
+
+## Ex-MotoGP Racer Successfully Sues Three Sports Bodies After Catastrophic Injuries
+
+date: 2024-12-04, from: Ride Apart, Electric Motorcycle News
+
+The amount is yet to be determined, but it should be substantial considering the damages.  
+
+<br> 
+
+<https://www.rideapart.com/news/743031/shane-byrne-wins-high-court-lawsuit/>
+
+---
+
+## Royal Enfield’s Scram 440 Is the Missed Opportunity Of the Century, In My Opinion
+
+date: 2024-12-04, from: Ride Apart, Electric Motorcycle News
+
+With such a solid platform with the Himalayan 450, why is RE sticking to the Scram 411’s archaic roots?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/742987/royal-enfield-scram-440-missed-opportunity/>
+
+---
+
+## Ola’s Swappable Batteries Are the Future of Urban Mobility
+
+date: 2024-12-04, from: Ride Apart, Electric Motorcycle News
+
+Practically speaking, this is the best path forward for two-wheeled electric urban mobility. 
+
+<br> 
+
+<https://www.rideapart.com/news/743058/ola-electric-scooters-swappable-batteries/>
+
+---
+
+## Polaris Wants a UTV That Parks Itself In Your Truck
+
+date: 2024-12-03, from: Ride Apart, Electric Motorcycle News
+
+I mean, everyone hates loading, right? 
+
+<br> 
+
+<https://www.rideapart.com/news/742951/polaris-autonomous-utv-patent/>
+
+---
+
+## EV Dirt Bike Brand Niu Won't Make You Endure a Dealership, Thank God
+
+date: 2024-12-03, from: Ride Apart, Electric Motorcycle News
+
+Good, because haggling is my least favorite thing to do. 
+
+<br> 
+
+<https://www.rideapart.com/news/742944/niu-electric-dirt-bike-xqi3-direct-to-consumer-dealership/>
+
+---
+
+## Sorry, Taking a Honda Ruckus Across Washington's BDR Was Never a Good Idea
+
+date: 2024-12-03, from: Ride Apart, Electric Motorcycle News
+
+Turns out not all bikes can be adventure bikes—even if you try your best. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/742834/honda-ruckus-washington-bdr-bad-idea/>
+
+---
+
+## Make Time For 'Motorcycle Mary,' a Film About the Legendary Rider We Just Lost
+
+date: 2024-12-03, from: Ride Apart, Electric Motorcycle News
+
+She sadly passed just one day before its ESPN premiere, but her legacy is forever. 
+
+<br> 
+
+<https://www.rideapart.com/news/742968/motorcycle-mary-mcgee-documentary-video/>
+
+---
+
+## Feds Sue Colorado Cult Over Barbed Wire Fencing on Public Land
+
+date: 2024-12-03, from: Ride Apart, Electric Motorcycle News
+
+Who could've seen that coming? 
+
+<br> 
+
+<https://www.rideapart.com/news/742940/government-sues-colorado-cult-barbed-wire-fencing-public-land/>
+
+---
+
+## The New BMW F 900 R Looks Like It Was Made For Captain America
+
+date: 2024-12-03, from: Ride Apart, Electric Motorcycle News
+
+Don't worry, it's also available in more discreet colorways.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/742833/2025-bmw-f900r-f900xr-launch/>
 
 ---
 

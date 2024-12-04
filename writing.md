@@ -1,11 +1,97 @@
 ---
 title: writing
-updated: 2024-12-03 07:05:35
+updated: 2024-12-04 07:05:44
 ---
 
 # writing
 
-(date: 2024-12-03 07:05:35)
+(date: 2024-12-04 07:05:44)
+
+---
+
+## Write Now with Scrivener, Episode no. 45: Jean Kwok, Author of The Leftover Woman
+
+date: 2024-12-04, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/write-now-with-scrivener-episode-no-45-jean-kwok-author-of-the-leftover-woman>
+
+---
+
+## NPR’s Best Books of 2024
+
+date: 2024-12-03, from: Locus Magazine
+
+<p>NPR has published a list of &#8220;Books We Love&#8221; in 2024, compiled by NPR journalists and associated critics. The full list of 350 books includes an extensive Sci Fi, Fantasy, and Speculative Fiction category, with numerous other works of interest on the list as a whole.</p>
+Sci Fi, Fantasy and Speculative Fiction
+<ul>
+<li><strong>The Bad Ones</strong>, Melissa Albert (Flatiron)</li>
+<li><strong>Fledgling: The Keeper&#8217;s Records of Revolution</strong>, S.K. Ali (Kokila)</li>
+<li><strong>The </strong></li></ul> <a href="https://locusmag.com/2024/12/nprs-best-books-of-2024/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2024/12/nprs-best-books-of-2024/>
+
+---
+
+## 5 Ways To Find a Screenwriting Manager
+
+date: 2024-12-03, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/5-ways-to-find-a-screenwriting-manager" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/5%20Ways%20To%20Find%20a%20Screenwriting%20Manager%20%20%281%29.png" alt="5 Ways To Find a Screenwriting Manager" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Many beginner screenwriters wonder how to get an <a href="https://blog.finaldraft.com/the-differences-between-an-agent-and-a-manager">agent or manager</a> to represent them.&nbsp;<br><br>Agents are a little trickier to get at the early stages, so it’s advisable for a beginner screenwriter to shoot for a manager first: most managers are open to reading <a href="https://blog.finaldraft.com/what-is-a-spec-script">spec scripts</a> and developing talent. Managers are generally viewed as “a filtering system” in <a href="https://blog.finaldraft.com/5-ways-screenwriters-can-adapt-to-the-marketplace">the screenplay marketplace</a>, so a screenplaywriter with a manager — especially one with a good track record — will be taken more seriously and agents are more likely to take on a writer client with a manager than one without (although there are <a href="https://blog.finaldraft.com/5-things-i-did-to-become-a-professional-screenwriter">some exceptions</a>). &nbsp;<br><br>If you think you have <a href="https://blog.finaldraft.com/3-must-ask-questions-before-you-write-a-sellable-script">a marketable script</a> or a decent writing sample and you’re ready to take that next step, here are <span style="font-weight: bold;">5 ways a screenwriter can find a manager</span>:</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/5-ways-to-find-a-screenwriting-manager>
+
+---
+
+## The One with Justin Kuritzkes
+
+date: 2024-12-03, from: John August blog
+
+John welcomes playwright, novelist and screenwriter Justin Kuritzkes to discuss having his first two movies &#8212; Challengers and Queer &#8212; produced a single year. After charting his journey from playwright to screenwriter, we compare two drafts of Challengers to look at how the story changed during a hasty development, including crafting that iconic three-way. We [&#8230;]
+The post <a href="https://johnaugust.com/2024/the-one-with-justin-kuritzkes">The One with Justin Kuritzkes</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2024/the-one-with-justin-kuritzkes>
+
+---
+
+## New Books, 3 December 2024
+
+date: 2024-12-03, from: Locus Magazine
+
+<p>Adamson, Glenn: <b>A Century of Tomorrows: How Imagining the Future Shapes the Present</b>
+(Bloomsbury USA 9781639730230, $32.99, 352pp, formats: hardcover, ebook, 12/03/2024)</p>
+<p>Non-fiction, a look at the cultural history of futurology, and how trying to foresee the future influences the culture of its time. From scientists and futurologists such as Buckminster Fuller to authors including Octavia Butler, Ursula K. Le Guin, Shulamith Firestone and Sun Ra.</p>
+<p>&#160;</p>
+<p>Amplitude: <b>The Art </b> <a href="https://locusmag.com/2024/12/new-books-3-december-2024/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/new-books-3-december-2024/>
+
+---
+
+## The Tapestry of Time by Kate Heartfield: Review by Gary K. Wolfe
+
+date: 2024-12-03, from: Locus Magazine
+
+<p><strong>The Tapestry of Time</strong>, Kate Heartfield (Harper Voyager 978-0-00-856781-1, £16.99, 384pp, hc) October 2024.</p>
+<p>Sometimes a trope seems so familiar that it begins to feel like a tire that’s lost its tread, even though it’s still fun to drive on. The Nazi preoccupation with occult powers has itself been a preoccupation for writers from all over the spectrum – horror (F. Paul Wilson, Robert McCammon), fantasy (Katherine Kurtz, Ian  <a href="https://locusmag.com/2024/12/the-tapestry-of-time-by-kate-heartfield-review-by-gary-k-wolfe/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/the-tapestry-of-time-by-kate-heartfield-review-by-gary-k-wolfe/>
 
 ---
 

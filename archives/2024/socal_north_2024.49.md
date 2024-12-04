@@ -1,19 +1,175 @@
 ---
 title: socal north
-updated: 2024-12-03 07:05:34
+updated: 2024-12-04 07:05:43
 ---
 
 # socal north
 
-(date: 2024-12-03 07:05:34)
+(date: 2024-12-04 07:05:43)
 
 ---
 
-## Los Angeles County offers free digital skills classes
+## High schools moved on from college for all. Will Trump come through for job training?
+
+date: 2024-12-04, updated: 2024-12-04, from: The LAist
+
+Career and technical education has strong bipartisan support. But some education experts fear its growth may come at the expense of college preparation programs. 
+
+<br> 
+
+<https://laist.com/news/education/high-schools-college-for-all-trump-job-training>
+
+---
+
+## Mild temperatures today ahead of a warmup into the weekend
+
+date: 2024-12-04, updated: 2024-12-04, from: The LAist
+
+Low clouds will continue until the afternoon. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/mild-temperatures-today-ahead-of-a-warmup-into-the-weekend>
+
+---
+
+## Hollywood’s flopping. Send in the clowns!
+
+date: 2024-12-04, updated: 2024-12-04, from: The LAist
+
+A peculiar figure is reigning supreme in the shadow of the mainstream entertainment industry: clowns! We explore why. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/hollywood-clowns-los-angeles-clowning-ai>
+
+---
+
+## Finding family services is hard. How South LA built a one-stop shop for people with young kids
+
+date: 2024-12-04, updated: 2024-12-04, from: The LAist
+
+Families in crisis have to knock on multiple doors to find services, often getting turned away before they can find help. In South L.A., 42 organizations are working together to make sure families are taken care of. 
+
+<br> 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/partners-children-south-los-angeles-housing-child-care-intake>
+
+---
+
+## West Hills man posing as royal faces federal fraud charges after allegedly using money to buy luxury cars and thrones
+
+date: 2024-12-04, updated: 2024-12-04, from: The LAist
+
+The DOJ allege he used the $5.9 million raised fraudulently to buy luxury cars and thrones. 
+
+<br> 
+
+<https://laist.com/news/man-posing-as-royal-faces-federal-fraud-charges-used-money-to-buy-luxury-cars-and-thrones>
+
+---
+
+## Hochman takes oath as LA County's new DA; vows to reject 'extreme' policies
+
+date: 2024-12-04, updated: 2024-12-04, from: The LAist
+
+Nathan Hochman succeeds George Gascón, known as the godfather of progressive prosecutors. 
+
+<br> 
+
+<https://laist.com/news/politics/nathan-hochman-takes-oath-of-office-la-county-district-attorney>
+
+---
+
+## Ontario man arrested for allegedly sending arms, military items to North Korea
+
+date: 2024-12-03, updated: 2024-12-04, from: The LAist
+
+The Department of Justice complaint alleges the 41-year-old man concealed guns, ammo and military devices in shipping containers that were sent out of Long Beach. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/ontario-man-arrested-for-allegedly-sending-arms-military-items-to>
+
+---
+
+## LA and OC certify November election results
+
+date: 2024-12-03, updated: 2024-12-04, from: The LAist
+
+Turnout was down, voting in person was up. 
+
+<br> 
+
+<https://laist.com/news/politics/oc-certifies-november-election-results>
+
+---
+
+## The fight against medical debt is pivoting to the states after Trump's election
 
 date: 2024-12-03, updated: 2024-12-03, from: The LAist
 
-Complete 8 hours and you may get a free laptop. 
+Patient and consumer advocates fear a new Trump administration will scale back federal efforts to expand financial protections for patients and shield them from debt. 
+
+<br> 
+
+<https://laist.com/news/health/the-fight-against-medical-debt-is-pivoting-to-the-states-after-trumps-election>
+
+---
+
+## Orange County supervisors approve outside audit of county contracts after Andrew Do scandal
+
+date: 2024-12-03, updated: 2024-12-03, from: The LAist
+
+The audit, which will cover contracts between January 2019 and August 2024, will be more limited in scope than what was first proposed. 
+
+<br> 
+
+<https://laist.com/news/politics/orange-county-supervisors-approve-outside-audit-of-county-contracts-after-andrew-do-scandal>
+
+---
+
+## After dismal year for financial aid, FAFSA is (mostly) back on track
+
+date: 2024-12-03, updated: 2024-12-03, from: The LAist
+
+The U.S. Department of Education expects to get 1 million financial aid applications from students across the country by Tuesday. 
+
+<br> 
+
+<https://laist.com/news/education/fafsa-financial-aid-2025-update-million-applications>
+
+---
+
+## California has a new Legislature — while votes are still being counted
+
+date: 2024-12-03, updated: 2024-12-03, from: The LAist
+
+A bill would give county election offices more resources and guidance to speed up the notoriously slow vote count in California. State legislators take the oath office before the results are certified. 
+
+<br> 
+
+<https://laist.com/news/politics/california-has-a-new-legislature-while-votes-are-still-being-counted>
+
+---
+
+## Californians pay billions for power companies’ wildfire prevention efforts. Are they cost-effective?
+
+date: 2024-12-03, updated: 2024-12-03, from: The LAist
+
+After utility equipment sparked tragic wildfires, PG&E, SCE and SDG&E received state approval to collect $27 billion from ratepayers. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/californians-pay-billions-for-power-companies-wildfire-prevention-efforts>
+
+---
+
+## Taking free LA County digital skills classes could land you a laptop
+
+date: 2024-12-03, updated: 2024-12-03, from: The LAist
+
+The program is aimed at closing a digital divide when it comes to access to the internet. 
 
 <br> 
 
@@ -137,7 +293,7 @@ date: 2024-12-02, from: City of Santa Clarita
 
 ## Your Amazon delivery driver doesn't actually work for Amazon. A union drive in Southern California is challenging that
 
-date: 2024-12-02, updated: 2024-12-02, from: The LAist
+date: 2024-12-02, updated: 2024-12-03, from: The LAist
 
 A legal battle with national implications is shaking out with drivers in the city of Industry, Palmdale and Victorville as they challenge the tech giant’s delivery model. 
 

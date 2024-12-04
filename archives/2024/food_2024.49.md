@@ -1,11 +1,181 @@
 ---
 title: food
-updated: 2024-12-03 07:05:37
+updated: 2024-12-04 07:05:46
 ---
 
 # food
 
-(date: 2024-12-03 07:05:37)
+(date: 2024-12-04 07:05:46)
+
+---
+
+## Fresh Cup’s 2024 Coffee Gift Guide
+
+date: 2024-12-04, from: The Fresh Cup
+
+<p>Wondering what to get your favorite caffeine tinkerer, latte sipper, or espresso slinger this holiday season? We’ve sourced 2024 coffee gift recommendations from our team of experts.</p>
+<p>The post <a href="https://freshcup.com/fresh-cups-2024-coffee-gift-guide/">Fresh Cup’s 2024 Coffee Gift Guide</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/fresh-cups-2024-coffee-gift-guide/>
+
+---
+
+## Champurrado
+
+date: 2024-12-04, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/champurrado/"><img title="champurrado-24-small-9" src="https://www.isabeleats.com/wp-content/uploads/2024/11/champurrado-24-small-9-400x600.jpg" alt="Champurrado recipe in a mug ready to drink." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	Champurrado is a rich and creamy Mexican drink made from Mexican chocolate, masa harina, and piloncillo. It’s traditionally served during Christmas and New Year&#8217;s and is perfect when paired with a pan dulce or some tamales! If you love cozy and warm drinks like this one, you’ve got to try my ponche, atole, and rompope! [&#8230;] 
+
+<br> 
+
+<https://www.isabeleats.com/champurrado/>
+
+---
+
+## Root Beer Float
+
+date: 2024-12-04, from: Taste of Home
+
+It's easy to make a root beer float at home. Ours is cool and creamy, with the perfect ratio of ice cream to root beer. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/root-beer-float-recipe/>
+
+---
+
+## This Beloved Pasta Shape Will Return After a Year-Long Hiatus
+
+date: 2024-12-03, from: Taste of Home
+
+<p>Ronzoni Pastina is beloved by Italian American home cooks—and it's finally returning to stores.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/ronzoni-pastina/">This Beloved Pasta Shape Will Return After a Year-Long Hiatus</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/ronzoni-pastina/>
+
+---
+
+## Pepsi Just Dropped a Christmas-Inspired Soda for the Holidays
+
+date: 2024-12-03, from: Taste of Home
+
+<p>It's time to get gingerbread-y for this brand-new flavor.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/gingerbread-pepsi-2024/">Pepsi Just Dropped a Christmas-Inspired Soda for the Holidays</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/gingerbread-pepsi-2024/>
+
+---
+
+## Simonelli Group Acquires Drip Coffee Machine Maker 3Temp
+
+date: 2024-12-03, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/3Temp-620x414.jpg" class="attachment-large size-large wp-post-image" alt="3Temp" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/3Temp-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/3Temp-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/3Temp-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/3Temp-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/3Temp.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Italian coffee equipment conglomerate Simonelli Group, owner of the Victoria Arduino and Nuova Simonelli brands, has acquired Swedish drip coffee machine maker 3Temp. For Simonelli Group, whose portfolio of brands... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/03/simonelli-group-acquires-drip-coffee-machine-maker-3temp/>
+
+---
+
+## Oscar Mayer Just Brought Back Its Iconic ‘My Bologna’ Jingle
+
+date: 2024-12-03, from: Taste of Home
+
+<p>You could win $50 to spend on groceries for singing the jingle, and that's no baloney.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/oscar-mayer-bologna-song/">Oscar Mayer Just Brought Back Its Iconic &#8216;My Bologna&#8217; Jingle</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/oscar-mayer-bologna-song/>
+
+---
+
+## The USDA Just Issued a Health Alert About Mortadella—Here’s Why
+
+date: 2024-12-03, from: Taste of Home
+
+<p>Normally, mortadella is from Italy—but some products may have been illegally imported from Ecuador.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/mortadella-recall-december-2024/">The USDA Just Issued a Health Alert About Mortadella—Here&#8217;s Why</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/mortadella-recall-december-2024/>
+
+---
+
+## Study: Coffee Drinking May Increase ‘Healthspan’ by Nearly Two Years
+
+date: 2024-12-03, from: Daily Coffee News
+
+<div><img width="620" height="411" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/drinking-coffee-620x411.jpg" class="attachment-large size-large wp-post-image" alt="drinking coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/drinking-coffee-620x411.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/drinking-coffee-300x199.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/drinking-coffee-150x99.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/drinking-coffee-768x509.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/drinking-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A major academic review of coffee-and-health-related literature over the past two decades found that regular moderate coffee consumption is associated with decreased all-cause mortality and chronic diseases. Key Findings Regular... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/03/study-coffee-drinking-may-increase-healthspan-by-nearly-two-years/>
+
+---
+
+## Perfect Stocking Stuffer Ideas for “That Person” on Your List
+
+date: 2024-12-03, from: Bon Appetet
+
+Hint: For us, it always comes back to food. 
+
+<br> 
+
+<https://www.bonappetit.com/story/stocking-stuffer-ideas>
+
+---
+
+## Little Victories Coffee Opens Another Winner in Ottawa
+
+date: 2024-12-03, from: Daily Coffee News
+
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/Little-Victories-Coffee-Ottawa-cafe-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Little Victories Coffee Ottawa cafe" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/Little-Victories-Coffee-Ottawa-cafe-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Little-Victories-Coffee-Ottawa-cafe-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Little-Victories-Coffee-Ottawa-cafe-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Little-Victories-Coffee-Ottawa-cafe-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Little-Victories-Coffee-Ottawa-cafe.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Ottawa, Ontario-based coffee roaster and retailer Little Victories opened its third location earlier this year, just three blocks away from its existing locus in the bustling downtown core. With a... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/03/little-victories-coffee-opens-another-winner-in-ottawa/>
+
+---
+
+## Roastar Unveils Enhanced Design Lab Interface, Revolutionizing Custom Packaging Design
+
+date: 2024-12-03, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Introducing the Roastar Design Lab Interface. 
+
+<br> 
+
+<https://sprudge.com/roastar-unveils-enhanced-design-lab-interface-revolutionizing-custom-packaging-design-260450.html>
+
+---
+
+## La Coop Coffee Returns to DC with Flagship Roastery Cafe
+
+date: 2024-12-03, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/La-Coop-Coffee-DC-bar-620x414.jpg" class="attachment-large size-large wp-post-image" alt="La Coop Coffee DC bar" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/La-Coop-Coffee-DC-bar-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/La-Coop-Coffee-DC-bar-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/La-Coop-Coffee-DC-bar-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/La-Coop-Coffee-DC-bar-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/La-Coop-Coffee-DC-bar.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Washington D.C.-based La Coop Coffee has a homecoming for the holidays with the opening of its flagship roastery cafe in the Manor Park neighborhood, just blocks away from its first... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/03/la-coop-coffee-returns-to-dc-with-flagship-roastery-cafe/>
 
 ---
 
@@ -33,11 +203,25 @@ Up to 50% off on Staub Dutch ovens, cookware sets, air fryers, and more.
 
 ---
 
+## Stanley Quencher ProTour: This New Leak-Proof Tumbler Solves a BIG Problem
+
+date: 2024-12-03, from: Taste of Home
+
+<p>The Stanley Quencher ProTour is Stanley's foray into leakproof tumblers. Here's everything to know about this Quencher successor. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/stanley-quencher-protour/">Stanley Quencher ProTour: This New Leak-Proof Tumbler Solves a BIG Problem</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/stanley-quencher-protour/>
+
+---
+
 ## Roast Summit Heading to Melbourne in March
 
 date: 2024-12-03, from: Daily Coffee News
 
-<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/Roast-Summit-Melbourne-620x349.jpg" class="attachment-large size-large wp-post-image" alt="Roast Summit Melbourne" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/Roast-Summit-Melbourne-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Roast-Summit-Melbourne-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Roast-Summit-Melbourne-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Roast-Summit-Melbourne-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Roast-Summit-Melbourne.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Roast magazine, which has published educational content for coffee roasters for over 20 years, will reach a new audience in Australia with the first-ever international Roast Summit.&#160; The two-day networking... 
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/Roast-Summit-Melbourne-620x349.jpg" class="attachment-large size-large wp-post-image" alt="Roast Summit Melbourne" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/Roast-Summit-Melbourne-620x349.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Roast-Summit-Melbourne-300x169.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Roast-Summit-Melbourne-150x84.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Roast-Summit-Melbourne-768x432.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Roast-Summit-Melbourne.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Roast magazine, which has published educational content for coffee roasters for over 20 years, will reach a new audience in Australia with the first-ever international Roast Summit.&#160; The two-day networking... 
 
 <br> 
 
@@ -99,7 +283,7 @@ The best early deals on the best stand mixers from Amazon, Walmart, and Best Buy
 
 date: 2024-12-02, from: Bon Appetet
 
-We wade through the marketing terms to talk about the nonstick cookware you should—or shouldn't—actually be buying. 
+We wade through the marketing terms to talk about the nonstick cookware you should—or shouldn’t—actually be buying. 
 
 <br> 
 
@@ -187,7 +371,7 @@ Here’s what our editors recommend for crunchy fries, crispy chicken skin, blis
 
 date: 2024-12-02, from: Daily Coffee News
 
-<div><img width="620" height="480" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Oakland-Coffee-Market-1.jpg" class="attachment-large size-large wp-post-image" alt="Oakland Coffee Market" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Oakland-Coffee-Market-1.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Oakland-Coffee-Market-1-300x232.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Oakland-Coffee-Market-1-150x116.jpg 150w" sizes="(max-width: 620px) 100vw, 620px" /></div>It&#8217;s well established that coffee stuff is the only gift worth giving. Luckily for people in the Bay Area, a new in-person popup market called the Oakland Coffee Market is... 
+<div><img width="620" height="480" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Oakland-Coffee-Market-1.jpg" class="attachment-large size-large wp-post-image" alt="Oakland Coffee Market" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Oakland-Coffee-Market-1.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Oakland-Coffee-Market-1-300x232.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Oakland-Coffee-Market-1-150x116.jpg 150w" sizes="(max-width: 620px) 100vw, 620px" /></div>It&#8217;s well established that coffee stuff is the only gift worth giving. Luckily for people in the Bay Area, a new in-person popup market called the Oakland Coffee Market is... 
 
 <br> 
 
@@ -247,7 +431,7 @@ Editor in Chief Jamila Robinson reflects on the many things to celebrate this ye
 
 date: 2024-12-02, from: Daily Coffee News
 
-<div><img width="620" height="423" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/Sivetz-620x423.jpg" class="attachment-large size-large wp-post-image" alt="Sivetz" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/Sivetz-620x423.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Sivetz-300x205.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Sivetz-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Sivetz.jpg 640w" sizes="(max-width: 620px) 100vw, 620px" /></div>Fluid-bed roaster maker Sivetz just opened a dedicated showroom and headquarters in Hood River, Oregon, about an hour&#8217;s drive east of Portland. The showroom represents the latest milestone for the... 
+<div><img width="620" height="423" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/Sivetz-620x423.jpg" class="attachment-large size-large wp-post-image" alt="Sivetz" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/Sivetz-620x423.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Sivetz-300x205.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Sivetz-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Sivetz.jpg 640w" sizes="(max-width: 620px) 100vw, 620px" /></div>Fluid-bed roaster maker Sivetz just opened a dedicated showroom and headquarters in Hood River, Oregon, about an hour&#8217;s drive east of Portland. The showroom represents the latest milestone for the... 
 
 <br> 
 

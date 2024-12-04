@@ -1,11 +1,347 @@
 ---
 title: journalism
-updated: 2024-12-03 07:05:35
+updated: 2024-12-04 07:05:45
 ---
 
 # journalism
 
-(date: 2024-12-03 07:05:35)
+(date: 2024-12-04 07:05:45)
+
+---
+
+## New USG leadership takes form at senate
+
+date: 2024-12-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>During the meeting the new president, vice president and two senators were sworn in.</p>
+<p>The post <a href="https://dailytrojan.com/2024/12/04/new-usg-leadership-takes-form-at-senate/">New USG leadership takes form at senate</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/12/04/new-usg-leadership-takes-form-at-senate/>
+
+---
+
+## Quality Time
+
+date: 2024-12-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2024/12/04/quality-time/">Quality Time</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/12/04/quality-time/>
+
+---
+
+## An Annenberg professor’s newspaper will help local news
+
+date: 2024-12-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Boyle Heights Beat will be used as a prototype for a new local news initiative.</p>
+<p>The post <a href="https://dailytrojan.com/2024/12/04/boyle-heights-beat/">An Annenberg professor&#8217;s newspaper will help local news</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/12/04/boyle-heights-beat/>
+
+---
+
+## Language keeps students connected to their cultures
+
+date: 2024-12-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC students find solace and struggle while using their cultural languages.</p>
+<p>The post <a href="https://dailytrojan.com/2024/12/04/student-cultural-languages/">Language keeps students connected to their cultures</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/12/04/student-cultural-languages/>
+
+---
+
+## Read this book with this album: Winter Edition
+
+date: 2024-12-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Fully commit to a winter read with the the perfect cute companion album.</p>
+<p>The post <a href="https://dailytrojan.com/2024/12/04/read-this-book-with-this-album-winter-edition/">Read this book with this album: Winter Edition</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/12/04/read-this-book-with-this-album-winter-edition/>
+
+---
+
+## Reclaiming Togvaangar for a new generation
+
+date: 2024-12-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>People should use endangered language phrases in their day to day life.</p>
+<p>The post <a href="https://dailytrojan.com/2024/12/04/reclaiming-togvaangar/">Reclaiming Togvaangar for a new generation</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/12/04/reclaiming-togvaangar/>
+
+---
+
+## Reader’s Circle connects students with incarcerated writers
+
+date: 2024-12-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The program's volunteers provide feedback and teach classes to writers in prison.</p>
+<p>The post <a href="https://dailytrojan.com/2024/12/04/readers-circle-volunteers/">Reader&#8217;s Circle connects students with incarcerated writers</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/12/04/readers-circle-volunteers/>
+
+---
+
+## Podcasts resonate louder than words
+
+date: 2024-12-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The growing medium is redefining how people connect, learn and listen.</p>
+<p>The post <a href="https://dailytrojan.com/2024/12/04/rise-of-podcasts/">Podcasts resonate louder than words</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/12/04/rise-of-podcasts/>
+
+---
+
+## Fashionista dupe alert
+
+date: 2024-12-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Why does being creative feel so difficult — and inauthentic — recently?</p>
+<p>The post <a href="https://dailytrojan.com/2024/12/04/fashionista-dupe-alert/">Fashionista dupe alert</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/12/04/fashionista-dupe-alert/>
+
+---
+
+## USC artists advocate without words
+
+date: 2024-12-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Creatives reflect on how their physical mediums convey what words cannot.</p>
+<p>The post <a href="https://dailytrojan.com/2024/12/04/usc-artists-advocate/">USC artists advocate without words</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/12/04/usc-artists-advocate/>
+
+---
+
+## California partners with hardware firm for AI education in community colleges
+
+date: 2024-12-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+California is collaborating with an artificial intelligence company to further integrate AI into the lives of community college students, educators and workers. 
+Gov. Gavin Newsom and NVIDIA CEO Jensen Huang signed an initiative this August to form a partnership between the California government and NVIDIA, an AI hardware supplier. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/03/california-partners-with-hardware-firm-for-ai-education-in-community-colleges/>
+
+---
+
+## USAC recap – Nov. 26
+
+date: 2024-12-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council held its final meeting of November virtually Nov. 26.
+USAC is the official student government representing the undergraduate student body at UCLA. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/03/usac-recap-nov-26-3/>
+
+---
+
+## Arts and crafts popularity builds, offering entrepreneurial chances for students
+
+date: 2024-12-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+The growing popularity of arts and crafts allows Bruins to reap the activities&#8217; financial and emotional benefits.
+Over half of the United States adult population participate in arts and crafts &#8211; from traditional mediums such as drawing, pottery and knitting to modern practices like digital art and game design &#8211; according to a 2022 National Endowment for the Arts survey. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/03/arts-and-crafts-popularity-builds-offering-entrepreneurial-chances-for-students/>
+
+---
+
+## Ella Gibson strikes a chord, harmonizing creativity and education at UCLA
+
+date: 2024-12-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+Ella Gibson is bringing her creativity as a singer-songwriter to UCLA and beyond.
+The second-year music industry student released her latest single, “Compass,” in July, along with a music video she directed. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/03/ella-gibson-strikes-a-chord-harmonizing-creativity-and-education-at-ucla/>
+
+---
+
+## Book review: Bill Clinton memoir “Citizen” spotlights former president’s life after office
+
+date: 2024-12-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+Bill Clinton’s memoir, “Citizen: My Life After the White House,” is an informative and heartfelt read for those curious about the life of a former president. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/03/book-review-bill-clinton-memoir-citizen-spotlights-former-presidents-life-after-office/>
+
+---
+
+## USA Judicial Board to hear antisemitism case against Cultural Affairs commissioner
+
+date: 2024-12-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Dec. 3 at 6:07 p.m.</em>
+The USA Judicial Board will hear a case for the first time in at least two years. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/03/usa-judicial-board-to-hear-antisemitism-case-against-cultural-affairs-commissioner/>
+
+---
+
+## Editorial Cartoon: “Day in the Life of a College Student”
+
+date: 2024-12-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2024/12/03/editorial-cartoon-day-in-the-life-of-a-college-student/>
+
+---
+
+## Editorial Cartoon: “Major Alphabet Soup”
+
+date: 2024-12-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2024/12/03/editorial-cartoon-major-alphabet-soup/>
+
+---
+
+## Editorial Cartoon: “Locked In”
+
+date: 2024-12-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2024/12/03/editorial-cartoon-locked-in-2/>
+
+---
+
+## Editorial Cartoon: “Midterm Season”
+
+date: 2024-12-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2024/12/03/editorial-cartoon-midterm-season/>
+
+---
+
+## Editorial Cartoon: “LinkedIn Park”
+
+date: 2024-12-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2024/12/03/editorial-cartoon-linkedin-park/>
+
+---
+
+## There’s now a way for journalists to verify their Bluesky accounts through their employers (while still keeping control of them)
+
+date: 2024-12-03, from: Nieman Journalism Lab
+
+It used to be a big debate: Who owns a reporter&#8217;s social media account — the reporter or their employer? Okay, so it&#8217;s not much of a debate anymore. When David Fahrenthold moved from The Washington Post to The New York Times, there wasn&#8217;t really much question that his Twitter followers would follow him. These... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/theres-now-a-way-for-journalists-to-verify-their-bluesky-accounts-through-their-employers-while-still-keeping-control-of-them/>
+
+---
+
+## Build your own Thanksgiving!
+
+date: 2024-12-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2024/12/03/build-your-own-thanksgiving/>
+
+---
+
+## Backpacking Club at UCLA invites Bruins of all backgrounds to venture into nature
+
+date: 2024-12-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+Bruins hoping to experience nature outside Westwood &#8211; from Big Sur to Joshua Tree and Yosemite &#8211; need look no further than the Backpacking Club at UCLA. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/03/backpacking-club-at-ucla-invites-bruins-of-all-backgrounds-to-venture-into-nature/>
+
+---
+
+## CSUN Powwow Celebrates Native Culture for 39th Year
+
+date: 2024-12-03, from: The Sundail (CSUN Student Newspaper)
+
+The American Indian Studies Department welcomed over a thousand people to the University Library Lawn on the final day of Native American Heritage Month. With the help of sixty student... 
+
+<br> 
+
+<https://sundial.csun.edu/188276/featured/csun-powwow-celebrates-native-culture-for-39th-year/>
+
+---
+
+## Tuning out TV news might be behind the decline in media trust. (No, really!)
+
+date: 2024-12-03, from: Nieman Journalism Lab
+
+A new wide-ranging study finds that trust in news has fallen further in countries where television news use has declined, as well as in countries where more people are turning to social media for news. Richard Fletcher, director of research at the Reuters Institute for the Study of Journalism (RISJ), and co-authors analyzed data from... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/tuning-out-tv-news-might-be-behind-the-decline-in-media-trust-no-really/>
 
 ---
 

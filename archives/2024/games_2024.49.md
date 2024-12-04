@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2024-12-03 07:05:35
+updated: 2024-12-04 07:05:45
 ---
 
 # games
 
-(date: 2024-12-03 07:05:35)
+(date: 2024-12-04 07:05:45)
+
+---
+
+## PlayStation says ‘thanks for making us money, guys’ with its 30th anniversary Partner Awards
+
+date: 2024-12-04, updated: 2024-12-04, from: Polygon Website
+
+Since getting into the video game awards beat with GOTY Watch this year, I’ve been learning about all sorts of obscure, back-slapping awards events from around the video game industry — like last week’s TIGA Awards, handed out by the U.K. game industry’s trade body (Best Legal Services 2024: Lee &#38; Thompson LLP). But the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/490546/playstation-partner-awards-2024-hoyoverse-cat>
+
+---
+
+## What time does Infinity Nikki release?
+
+date: 2024-12-04, updated: 2024-12-04, from: Polygon Website
+
+Infinity Nikki is the fifth installment in the Nikki series by Infold Games and Papergames. Infinity Nikki is a dress-up game with a heavy emphasis on functional fashion. The outfits you wear will not only change your appearance, but literally change how you explore the dazzling scenery and vast world. Gather as many outfits as [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/infinity-nikki-guides/485803/release-time-preload>
+
+---
+
+## What time does Fortnite OG release?
+
+date: 2024-12-04, updated: 2024-12-03, from: Polygon Website
+
+Fortnite OG is returning to Fortnite with its OG map and its OG loot pool this week. Fortnite OG will be a permanent game mode allowing you to relive the glory days of Chapter 1 at nostalgic locations like Tomato Town, Pleasant Park, and Greasy Grove. Drop in, abuse the double pump, and explore what [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/487214/og-release-time-when-coming-back>
+
+---
+
+## Fantasian Neo Dimension is remarkable but flawed
+
+date: 2024-12-04, updated: 2024-12-03, from: Polygon Website
+
+Thirty hours into my Fantasian Neo Dimension playthrough, I found myself in a surreal landscape, a twisted amalgamation dotted by ghostly white corruption known as Mechteria. My Dimengeon device, a contraption that allows me to “bank” monster encounters, was nearly overflowing, so I had to take out over 40 enemies in a single battle. I [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/489934/fantasian-neo-dimension-review>
+
+---
+
+## Ubisoft shutting down XDefiant in 2025, laying off half of its team
+
+date: 2024-12-04, updated: 2024-12-04, from: Polygon Website
+
+Ubisoft will shut down its free-to-play shooter XDefiant, Ubisoft announced Tuesday. Servers will remain on until June 3, 2025, but the game will no longer be offered for download, and player registration will be closed. Despite the sunsetting, XDefiant players will get access to its third-season content sometime in the “near future.” Nearly 300 people [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/490491/ubsioft-xdefiant-shutting-down>
+
+---
+
+## What time does Marvel Rivals release in your time zone?
+
+date: 2024-12-04, updated: 2024-12-03, from: Polygon Website
+
+Marvel Rivals mixes the hero shooter genre with the world’s most famous and infamous comic book heroes and villains. Players can take control of the likes of Captain America, Spider-Man, Moon Knight, and more to take on a multiversal threat in this third-person Overwatch-like. Here’s&#160;when Marvel Rivals releases, including a breakdown based on your time [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel-rivals-guide/485109/release-time-date-est-pst-bst>
+
+---
+
+## When does Indiana Jones release in early access, and is it on Game Pass?
+
+date: 2024-12-04, updated: 2024-12-03, from: Polygon Website
+
+Indiana Jones and the Great Circle sees the titular hero swing back into the video games following a long hiatus (assuming we ignore his Fortnite appearance). The Xbox and PC release is being staggered out across two dates, with an early access period on Friday, Dec. 6, ahead of the full launch on Monday, Dec. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/indiana-jones-great-circle-guide/486012/release-time-early-access-game-pass>
+
+---
+
+## The Game Awards&#8217; fan-voted game of the year nominees find room for snubs
+
+date: 2024-12-03, updated: 2024-12-03, from: Polygon Website
+
+Critics, journalists, and industry folk aren’t the only ones who get to vote on the best game of the year at The Game Awards. The Players’ Voice category, which seeks to recognize players’ favorite game of the year, is exclusively voted on by fans. TGA announced the 30 nominees for round one, which you can [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/490163/game-awards-game-year-fan-vote-players-voice>
+
+---
+
+## PlayStation CEO says ‘preserving the human touch’ is vital as AI proliferates
+
+date: 2024-12-03, updated: 2024-12-03, from: Polygon Website
+
+Speaking with the BBC, PlayStation co-CEO Hermen Hulst refused to go all-in on the hype of so-called artificial intelligence slowly worming its way into other tech industries. “I suspect there will be a dual demand in gaming: one for AI-driven innovative experiences and another for handcrafted, thoughtful content,” Hulst said. “Striking the right balance between [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/ai-artificial-intelligence/490113/playstation-ceo-herman-hulst-human-touch-game-development-ai>
 
 ---
 
@@ -90,18 +198,6 @@ Infinity Nikki, the highly anticipated RPG that combines open-world exploration 
 <br> 
 
 <https://www.polygon.com/news/488890/infinity-nikki-infold-games-story-trailer-pre-download>
-
----
-
-## What time does Infinity Nikki release?
-
-date: 2024-12-03, updated: 2024-12-03, from: Polygon Website
-
-Infinity Nikki is the fifth installment in the Nikki series by Infold Games and Papergames. Infinity Nikki is a dress-up game with a heavy emphasis on functional fashion. The outfits you wear will not only change your appearance, but literally change how you explore the dazzling scenery and vast world. Gather as many outfits as [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/infinity-nikki-guides/485803/release-time-preload>
 
 ---
 

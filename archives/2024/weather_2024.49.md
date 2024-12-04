@@ -1,19 +1,19 @@
 ---
 title: weather
-updated: 2024-12-03 07:05:35
+updated: 2024-12-04 07:05:44
 ---
 
 # weather
 
-(date: 2024-12-03 07:05:35)
+(date: 2024-12-04 07:05:44)
 
 ---
 
-## SPC - No watches are valid as of Tue Dec  3 13:06:01 UTC 2024
+## SPC - No watches are valid as of Wed Dec  4 13:32:01 UTC 2024
 
-date: 2024-12-03, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-12-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Tue Dec  3 13:06:01 UTC 2024. 
+No watches are valid as of Wed Dec  4 13:32:01 UTC 2024. 
 
 <br> 
 
@@ -21,11 +21,11 @@ No watches are valid as of Tue Dec  3 13:06:01 UTC 2024.
 
 ---
 
-## SPC - No MDs are in effect as of Tue Dec  3 13:06:01 UTC 2024
+## SPC - No MDs are in effect as of Wed Dec  4 13:32:01 UTC 2024
 
-date: 2024-12-03, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-12-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Tue Dec  3 13:06:01 UTC 2024. 
+No Mesoscale Discussions are in effect as of Wed Dec  4 13:32:01 UTC 2024. 
 
 <br> 
 
@@ -33,42 +33,47 @@ No Mesoscale Discussions are in effect as of Tue Dec  3 13:06:01 UTC 2024.
 
 ---
 
-## SPC Dec 3, 2024 1300 UTC Day 1 Convective Outlook
+## SPC Dec 4, 2024 1300 UTC Day 1 Convective Outlook
 
-date: 2024-12-03, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-12-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-0659 AM CST Tue Dec 03 2024
+0658 AM CST Wed Dec 04 2024
 
-Valid 031300Z - 041200Z
+Valid 041300Z - 051200Z
 
 ...NO SEVERE THUNDERSTORM AREAS FORECAST...
 
 ...SUMMARY...
-Isolated thunderstorms are possible along the south Texas Coast, but
-severe thunderstorms are not expected.
+Scattered thunderstorms are expected from North/East Texas to the
+ArkLaMiss today and tonight. Severe thunderstorms are not currently
+expected.
 
-...Discussion including South Texas...
-A persistent longwave trough over the eastern CONUS will be
-reinforced by an amplifying and southeastward-digging upper trough
-over the Canadian Prairies toward the Upper Midwest and Great Lakes
-through tonight. A continued prevalence of surface high pressure and
-cool/stable continental trajectories will considerably limit and
-spatially confine thunderstorm potential. Across Deep South Texas,
-weak mid-level height rises are expected, with persistent weak
-low-level ascent and moistening near a coastal boundary, further
-influenced by strengthening southeasterly low-level flow/warm
-advection late today and tonight. Elevated convection over inland
-areas on the cool side of the boundary may produce occasional
-lightning, potentially in a northward-expanding fashion tonight.
-Modest surface-based destabilization may develop inland along the
-immediate coast late this afternoon into tonight, but low-level SRH
-and lapse rates/parcel accelerations are expected to remain weak,
-and thus severe thunderstorms are unlikely.
+...East/Southeast Texas to southwest Louisiana...
+Widely scattered elevated thunderstorms have developed through the
+early morning hours across east-central/parts of North Texas, with
+persistent convection also off the coast of South Texas near a weak
+surface wave, and into the maritime warm sector where a narrow zone
+of near 70F/lower 70s F dewpoints reside. Some northward inland
+advancement of the Texas coastal front is expected today with a
+related increase in low-level moisture. However, low-level lapse
+rates are expected to remain weak due to semi-persistent multi-layer
+cloud cover and muted heating. 
 
-..Guyer/Broyles.. 12/03/2024
+While low-level SRH is currently weak per 12z observed soundings and
+regional WSR-88D VWP data, it is expected to increase within the
+zone of warm advection, particularly near the inland-advancing
+frontal boundary, coincident with modest surface-based
+destabilization this afternoon along the middle/upper Texas coast,
+and eventually southwest Louisiana this evening. While a few weakly
+rotating storms could occur offshore, current thinking is that the
+supercell and related tornado/wind potential will remain limited
+inland, largely due to the poor low-level lapse rates and weak
+parcel accelerations.
+
+..Guyer/Broyles.. 12/04/2024
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
@@ -77,6 +82,43 @@ and thus severe thunderstorms are unlikely.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## SPC Day 2 Fire Weather Outlook
+
+date: 2024-12-04, from: NOAA Weather Forecasts
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0146 AM CST Wed Dec 04 2024
+
+Valid 051200Z - 061200Z
+
+...NO CRITICAL AREAS...
+
+...Synopsis...
+A midlevel trough will continue to advance eastward across the
+Northeast on D2 - Thursday as cold upstream air infiltrates the
+eastern half of the CONUS. Across the western US, a weak midlevel
+trough will remain over the Southwest with upstream surface high
+pressure encouraging locally dry/breezy offshore flow across
+southern CA. Some locally Elevated fire weather conditions will be
+possible, though areas will remain isolated with sparse availability
+of fuels. This will preclude the need to add areas at this time.
+
+..Thornton.. 12/04/2024
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
 
 ---
 
@@ -126,48 +168,6 @@ through the end of the period.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html>
-
----
-
-## SPC Day 2 Fire Weather Outlook
-
-date: 2024-12-02, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0128 PM CST Mon Dec 02 2024
-
-Valid 031200Z - 041200Z
-
-...NO CRITICAL AREAS...
-
-The previous forecast (see below) remains on track, and no changes
-were made with this update.
-
-..Weinman.. 12/02/2024
-
-.PREV DISCUSSION... /ISSUED 0232 AM CST Mon Dec 02 2024/
-
-...Synopsis...
-Surface high pressure will continue overspread the southeast
-quadrant of the U.S. as a mid-level shortwave trough traverses the
-eastern CONUS tomorrow (Tuesday). Overall cool or moist surface
-conditions will be present over most areas, resulting in relatively
-quiescent fire weather conditions. The southern Florida Peninsula
-may still experience dry 5-10 mph sustained northwesterly surface
-winds amid 25-35 percent RH during the afternoon. However, marginal
-fuel receptiveness precludes fire weather highlights this outlook.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
 
 ---
 

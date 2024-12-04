@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2024-12-03 07:05:36
+updated: 2024-12-04 07:05:46
 ---
 
 # retro computing
 
-(date: 2024-12-03 07:05:36)
+(date: 2024-12-04 07:05:46)
+
+---
+
+## Armbian 24.11 Released with Expanded Hardware Support
+
+date: 2024-12-03, from: Linux Magazine
+
+<p>If you've been waiting for Armbian to support OrangePi 5 Max and Radxa ROCK 5B+, the wait is over.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Armbian-24.11-Released-with-Expanded-Hardware-Support>
+
+---
+
+## SUSE Renames Several Products for Better Name Recognition
+
+date: 2024-12-03, from: Linux Magazine
+
+<p>SUSE has been a very powerful player in the European market, but it knows it must branch out to gain serious traction. Will a name change do the trick?</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/SUSE-Renames-Several-Products-for-Better-Name-Recognition>
 
 ---
 

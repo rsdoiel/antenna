@@ -1,11 +1,441 @@
 ---
 title: pacific
-updated: 2024-12-03 07:05:34
+updated: 2024-12-04 07:05:43
 ---
 
 # pacific
 
-(date: 2024-12-03 07:05:34)
+(date: 2024-12-04 07:05:43)
+
+---
+
+## Hilo’s Palace Theater has a ‘fan plan’
+
+date: 2024-12-04, from: Hawaii Tribune Harold
+
+
+				<p>Downtown Hilo&#8217;s historic Palace Theater has a multitude of human fans. The Friends of the Palace Theater are now asking for community kokua to install two energy-efficient, ultra-quiet industrial ceiling fans in the auditorium.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/04/hawaii-news/hilos-palace-theater-has-a-fan-plan/>
+
+---
+
+## Investigation into forced adoptions from Ukraine points finger at Putin
+
+date: 2024-12-04, from: Hawaii Tribune Harold
+
+
+				<p>President Vladimir Putin of Russia and senior Kremlin officials &#8220;intentionally and directly&#8221; authorized a program of coerced fostering and adoption of Ukrainian children during the war in Ukraine, according to a Yale University report released Tuesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/04/nation-world-news/investigation-into-forced-adoptions-from-ukraine-points-finger-at-putin/>
+
+---
+
+## Harbor dredging project pau
+
+date: 2024-12-04, from: Hawaii Tribune Harold
+
+
+				<p>Boaters are in deep water at last after a months-long dredging project at Wailoa Small Boat Harbor in Hilo wrapped up last week.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/04/hawaii-news/harbor-dredging-project-pau/>
+
+---
+
+## South Korea’s president backs down from martial law: What to know
+
+date: 2024-12-04, from: Hawaii Tribune Harold
+
+
+				<p>President Yoon Suk Yeol of South Korea backed away from his surprise declaration of martial law hours after the decision drove thousands of protesters into the streets and prompted calls for him to resign. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/04/nation-world-news/south-koreas-president-backs-down-from-martial-law-what-to-know/>
+
+---
+
+## New mayor suspends plan to charge admission at Hilo zoo
+
+date: 2024-12-04, from: Hawaii Tribune Harold
+
+
+				<p>The Pana&#8216;ewa Rainforest Zoo in Hilo will not start charging admission fees after all.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/04/hawaii-news/new-mayor-suspends-plan-to-charge-admission-at-hilo-zoo/>
+
+---
+
+## Public’s help sought to solve December 2023 homicide
+
+date: 2024-12-04, from: Hawaii Tribune Harold
+
+
+				<p>One year after a Hilo man was found shot to death on a farm, the Hawaii Police Department is still seeking answers.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/04/hawaii-news/publics-help-sought-to-solve-december-2023-homicide/>
+
+---
+
+## Kash Patel has plan to remake the FBI into a tool of Trump
+
+date: 2024-12-04, from: Hawaii Tribune Harold
+
+
+				<p>&#8220;Fire the top ranks of the FBI.&#8221; Encourage Congress to demand testimony exposing &#8220;every single bit of filth and corruption&#8221; at the agency, and withhold its funding &#8220;until the documents come in.&#8221; Prosecute leakers and journalists. Replace the national security workforce with &#8220;people who won&#8217;t undermine the president&#8217;s agenda.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/04/nation-world-news/kash-patel-has-plan-to-remake-the-fbi-into-a-tool-of-trump/>
+
+---
+
+## US labor market steadily cooling amid higher job openings, low layoffs
+
+date: 2024-12-04, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. job openings increased solidly in October while layoffs dropped by the most in 1-1/2 years, suggesting the labor market continued to slow in an orderly fashion. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/04/nation-world-news/us-labor-market-steadily-cooling-amid-higher-job-openings-low-layoffs/>
+
+---
+
+## Indiana man looks out his window and finds 2 babies left in a ditch
+
+date: 2024-12-04, from: Hawaii Tribune Harold
+
+
+				<p>Robert Deane was waiting for a package Monday at his home in Indianapolis when he looked out the window on the chilly, 27-degree afternoon. He noticed something unusual across the street.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/04/nation-world-news/indiana-man-looks-out-his-window-and-finds-2-babies-left-in-a-ditch/>
+
+---
+
+## Ukraine pushes NATO membership as allies sidestep invite call
+
+date: 2024-12-04, from: Hawaii Tribune Harold
+
+
+				<p>BRUSSELS &#8212; Ukraine declared it would not settle for anything less than NATO membership to guarantee its future security, as the alliance sidestepped Kyiv&#8217;s call for an immediate invitation at a foreign ministers&#8217; meeting on Tuesday. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/04/nation-world-news/ukraine-pushes-nato-membership-as-allies-sidestep-invite-call/>
+
+---
+
+## A final, whimsical holiday for the Bidens
+
+date: 2024-12-04, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; While unveiling the official holiday decorations Monday, Jill Biden said she wanted to make the White House &#8220;come alive&#8221; for her last Christmas as first lady.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/04/nation-world-news/a-final-whimsical-holiday-for-the-bidens/>
+
+---
+
+## Nation and world news in brief for December 4
+
+date: 2024-12-04, from: Hawaii Tribune Harold
+
+
+				<p>Trump urges judge to dismiss hush money case due &#0010;to election victory</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/04/nation-world-news/nation-and-world-news-in-brief-for-december-4/>
+
+---
+
+## UH-mazing Recipes: Pinakbet
+
+date: 2024-12-04, from: University of Hawaiʻi News
+
+<p><span aria-label="Hawaii">Hawai&#699;i</span> Community College’s Tori Hiro shares her family’s recipe for the traditional Filipino dish: pinakbet.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/03/uh-mazing-recipes-pinakbet/"><abbr>UH</abbr>-mazing Recipes: Pinakbet</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/03/uh-mazing-recipes-pinakbet/>
+
+---
+
+## Project to transform heart of UH Mānoa campus set to begin
+
+date: 2024-12-04, from: University of Hawaiʻi News
+
+<p>The project on McCarthy Mall consists of the construction of an interdisciplinary learning center and significant upgrades to the iconic tree-lined mall and the Paradise Palms Food Court.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/03/project-to-transform-heart-of-uh-manoa-campus/">Project to transform heart of <abbr>UH</abbr> Mānoa campus set to begin</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/03/project-to-transform-heart-of-uh-manoa-campus/>
+
+---
+
+## Women’s volleyball dominates Big West honors
+
+date: 2024-12-04, from: University of Hawaiʻi News
+
+<p>Caylen Alexander, Kate Lang, Tayli Ikenaga, Miliana Sylvester, Jacyn Bamis and Tali Hakas recognized for their outstanding performances.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/03/womens-volleyball-dominates-bw/">Women’s volleyball dominates Big West honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/03/womens-volleyball-dominates-bw/>
+
+---
+
+## UH Hilo student newspaper wins national awards
+
+date: 2024-12-04, from: University of Hawaiʻi News
+
+<p><em>Ke Kalahea</em> battled against a thousand other collegiate media outlets nationwide and earned multiple awards.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/03/uh-hilo-student-newspaper-awards/"><abbr>UH</abbr> Hilo student newspaper wins national awards</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/03/uh-hilo-student-newspaper-awards/>
+
+---
+
+## Football head coach Chang receives 1-year extension
+
+date: 2024-12-04, from: University of Hawaiʻi News
+
+<p>Coach Timmy Chang received a one-year extension through the 2026 season following a strong third year, to build and recruit to the team.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/03/football-chang-1-year-extension/">Football head coach Chang receives 1-year extension</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/03/football-chang-1-year-extension/>
+
+---
+
+## 6 Football Warriors recognized on Mountain West, Stone named to 1st team
+
+date: 2024-12-04, from: University of Hawaiʻi News
+
+<p>Cam Stone was named to the first team; Lucas Borrow, Ka‘ena Decambra, Peter Manuma, Elijah Palmer and Elijah Robinson received honorable mention.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/03/6-football-on-mw-stone-to-1st-team/">6 Football Warriors recognized on Mountain West, Stone named to 1st team</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/03/6-football-on-mw-stone-to-1st-team/>
+
+---
+
+## VB Rainbow Wahine to face TCU in NCAA Tournament
+
+date: 2024-12-04, from: University of Hawaiʻi News
+
+<p>The team begins its <abbr>NCAA</abbr> Tournament journey on December 5, facing <abbr>TCU</abbr> in Eugene, Oregon.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/03/vb-wahine-tcu-ncaa-tournament/"><abbr>VB</abbr> Rainbow Wahine to face <abbr>TCU</abbr> in <abbr>NCAA</abbr> Tournament</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/03/vb-wahine-tcu-ncaa-tournament/>
+
+---
+
+## Women’s VB captures 5th consecutive Big West title
+
+date: 2024-12-04, from: University of Hawaiʻi News
+
+<p>The Rainbow Wahine earned the Big West’s automatic <abbr>NCAA</abbr> Tournament bid with a 25-19, 25-19, 27-29 and 25-22 victory.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/03/vb-captures-5th-big-west/">Women’s <abbr>VB</abbr> captures 5th consecutive Big West title</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/03/vb-captures-5th-big-west/>
+
+---
+
+## Belyakov, Ostrowski sweep Big West Athlete of the Week awards
+
+date: 2024-12-03, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> swimmers Catherine Belyakov and Karol Ostrowski earned Big West Athlete of the Week honors this week.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/03/belyakov-ostrowski/">Belyakov, Ostrowski sweep Big West Athlete of the Week awards</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/03/belyakov-ostrowski/>
+
+---
+
+## Freshman QB Alejado honored after impressive records
+
+date: 2024-12-03, from: University of Hawaiʻi News
+
+<p>Micah Alejado set <abbr>UH</abbr> freshman records for passing yard and touchdowns in a game.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/03/freshman-qb-alejado-honored-after-impressive-records/">Freshman <abbr>QB</abbr> Alejado honored after impressive records</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/03/freshman-qb-alejado-honored-after-impressive-records/>
+
+---
+
+## Could Gen Z be Guam’s next toolbelt generation?
+
+date: 2024-12-03, from: Pacific Island Times
+
+In the face of the perennial labor crunch, Guam Community College is tapping the Gen Z crowd for a possible solution. GCC’s $1.3 million You 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/could-gen-z-be-guam-s-next-toolbelt-generation>
+
+---
+
+## Bridging the Pacific islands
+
+date: 2024-12-03, from: Pacific Island Times
+
+  For our nations, where distance and limited resources present constant challenges, efficient and accurate communication enables us to brid 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/bridging-the-pacific-islands>
+
+---
+
+## The tide rising under Trump’s feet
+
+date: 2024-12-03, from: Pacific Island Times
+
+Reducing carbon emissions is probably not a policy objective. Increasing them might be. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/the-tide-rising-under-trump-s-feet>
+
+---
+
+## Taiwan to provide ‘preferential loan’ for purchase of new planes for Marshall Islands
+
+date: 2024-12-03, updated: 2024-12-04, from: Marianas Variety
+
+MAJURO — Taiwan will underwrite the purchase of two new airplanes for the national airline of the Marshall Islands, Taiwan President Lai Ching-te told the Marshall Islands while visiting Majuro Tuesday this week. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/taiwan-to-provide-preferential-loan-for-purchase-of-new-planes-for-marshall-islands/article_29ba513e-b149-11ef-9e0e-074a7bb52b74.html>
+
+---
+
+## ‘Respect our sovereignty’: Palau tells China
+
+date: 2024-12-03, updated: 2024-12-04, from: Marianas Variety
+
+KOROR (BenarNews/Pacnews) — Palau President Surangel Whipps Jr. on Monday urged China to respect Palau’s sovereignty and international law, just days ahead of a contentious visit by Taiwanese President Lai Ching-te. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/respect-our-sovereignty-palau-tells-china/article_411a0634-b14a-11ef-a6ba-1be518263a3b.html>
+
+---
+
+## Celebrate the holidays at Crowne Plaza Resort Saipan
+
+date: 2024-12-03, updated: 2024-12-04, from: Marianas Variety
+
+THE holiday season is upon us, and Crowne Plaza Resort Saipan invites you to celebrate with a variety of festive dining experiences and exciting events. From holiday-inspired meals at The Terrace to Saipan’s ultimate New Year’s Eve Countdown Party, we have curated the perfect way to make this holiday season truly special for you and your loved ones to enjoy. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/celebrate-the-holidays-at-crowne-plaza-resort-saipan/article_5b2b00c6-b14c-11ef-ab2a-ab01c74a9633.html>
+
+---
+
+## Fuel oil smuggling network rakes in $1 billion for Iran and its proxies
+
+date: 2024-12-03, updated: 2024-12-04, from: Marianas Variety
+
+DUBAI (Reuters) — A sophisticated fuel oil smuggling network that some experts believe generates at least $1 billion a year for Iran and its proxies has flourished in Iraq since Prime Minister Mohammed Shia al-Sudani took office in 2022, five sources with knowledge of the matter told Reuters. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/fuel-oil-smuggling-network-rakes-in-1-billion-for-iran-and-its-proxies/article_ab673d86-b186-11ef-9a48-63beb98f5325.html>
+
+---
+
+## Red flags at Grotto, 7 other Saipan sites
+
+date: 2024-12-03, updated: 2024-12-04, from: Marianas Variety
+
+THE Bureau of Environmental and Coastal Quality analyzes water samples collected from Saipan’s Grotto Cave this week. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/red-flags-at-grotto-7-other-saipan-sites/article_f800fea6-b141-11ef-a524-97f46b387d60.html>
+
+---
+
+## NMC board chair appointed to serve on national committee
+
+date: 2024-12-03, updated: 2024-12-04, from: Marianas Variety
+
+(NMC) — Northern Marianas College Board of Regents Chair Charles Cepeda has been appointed to the Member Communications and Education Committee of the Association of Community College Trustees. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/nmc-board-chair-appointed-to-serve-on-national-committee/article_f0a25db4-b144-11ef-a499-0bd4f46cb371.html>
+
+---
+
+## Scheduled power service interruptions on Dec. 5, 6, and 10
+
+date: 2024-12-03, updated: 2024-12-04, from: Marianas Variety
+
+(Commonwealth Utilities Corporation) — There will be scheduled power service interruptions on Dec. 5, 6, and 10, 2024. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/scheduled-power-service-interruptions-on-dec-5-6-and-10/article_c17c5270-b143-11ef-b2b3-8f0fedd570ee.html>
+
+---
+
+## Saipan to host creative workshops for National Scrollathon Project
+
+date: 2024-12-03, updated: 2024-12-04, from: Marianas Variety
+
+THE Northern Marianas Humanities Council is inviting the public to participate in a collaborative art session with the creators of the National Scrollathon Project, Humanities Council Program Coordinator Leeani Saralu said. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/saipan-to-host-creative-workshops-for-national-scrollathon-project/article_48b86ba0-b150-11ef-9c30-d705e4c36fb9.html>
 
 ---
 
@@ -202,6 +632,34 @@ date: 2024-12-03, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2024/12/03/hawaii-news/pahoa-man-critically-hurt-in-kona-traffic-crash/>
+
+---
+
+## Hawaii Marines first to get ‘ship-killing’ missile launcher
+
+date: 2024-12-03, from: Hawaii Tribune Harold
+
+
+				<p>Marines on Oahu are the first in their service to officially receive a new &#8220;ship-killing&#8221; missile system they hope will give American forces an edge in the Pacific.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/03/hawaii-news/hawaii-marines-first-to-get-ship-killing-missile-launcher/>
+
+---
+
+## Witnesses sought for hit-and-run incident in HVNP
+
+date: 2024-12-03, from: Hawaii Tribune Harold
+
+
+				<p>A bicyclist was severely injured after being struck by a vehicle this morning in a hit-and-run incident within Hawaii Volcanoes National Park.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/03/hawaii-news/witnesses-sought-for-hit-and-run-incident-in-hvnp/>
 
 ---
 
