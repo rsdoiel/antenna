@@ -1,11 +1,309 @@
 ---
 title: home
-updated: 2024-12-04 07:05:45
+updated: 2024-12-05 07:05:47
 ---
 
 # home
 
-(date: 2024-12-04 07:05:45)
+(date: 2024-12-05 07:05:47)
+
+---
+
+## My DIY Outdoor Shower Cost $1,000 and Makes Me Feel Like a Million Bucks—Year-Round
+
+date: 2024-12-05, from: Dwell
+
+With just a few days’ work and materials (mostly) from the local hardware store, my backyard’s newest addition is a real upgrade. 
+
+<br> 
+
+<https://www.dwell.com/article/my-diy-outdoor-shower-cost-dollar1000-and-makes-me-feel-like-a-million-bucksyear-round-be99cca9>
+
+---
+
+## Before & After: A Family (Quite Literally) Fills the Walls of Their Midcentury Home With Memories
+
+date: 2024-12-05, from: Dwell
+
+Los Angeles firm Chet Architecture crafts a deeply personal hillside home packed with primary colors—including a custom mural that now holds an even deeper meaning. 
+
+<br> 
+
+<https://www.dwell.com/article/before-and-after-wrightwood-midcentury-renovation-chet-architecture-studio-city-0e61ef16>
+
+---
+
+## The Avocado Organic Latex Mattress Topper Is the Non-Toxic Stuff Dreams Are Made Of
+
+date: 2024-12-05, from: Family Handyman Blog
+
+<p>The Avocado mattress topper drastically improved our tester's sleep quality. We think it'll improve yours, too, so go ahead and treat yourself.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/avocado-mattress-topper-review/">The Avocado Organic Latex Mattress Topper Is the Non-Toxic Stuff Dreams Are Made Of</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/avocado-mattress-topper-review/>
+
+---
+
+## 5 Best Cooling Mattress Toppers, Tested and Reviewed
+
+date: 2024-12-05, from: Family Handyman Blog
+
+<p>From memory foam to smart toppers, we tested the best cooling mattress toppers on the market. Here are our top five picks.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/best-cooling-mattress-topper/">5 Best Cooling Mattress Toppers, Tested and Reviewed</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/best-cooling-mattress-topper/>
+
+---
+
+## Changing Your Car’s Air Filter: How and When To Do It
+
+date: 2024-12-04, from: Family Handyman Blog
+
+<p>Protect your engine and improve its performance by learning how to change the air filter in your car with this step-by-step project.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-change-car-air-filter/">Changing Your Car&#8217;s Air Filter: How and When To Do It</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/how-to-change-car-air-filter/>
+
+---
+
+## Do You Know What That Little Button on Your Seat Belt Is For?
+
+date: 2024-12-04, from: Family Handyman Blog
+
+<p>Discover the purpose of a seat belt stop button and why it’s essential for convenience and safety. Learn where it’s located, what happens if it breaks, and how to replace it easily.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/seat-belt-stop-button/">Do You Know What That Little Button on Your Seat Belt Is For?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/seat-belt-stop-button/>
+
+---
+
+## Almost Everything in This 1930s Flat Was Custom-Designed by Its Owner
+
+date: 2024-12-04, from: Dwell
+
+After restoring its floors and rearranging walls, Adam Wiercinski designed a coffee table, sofa, shelving, and much more for his apartment in Poland. 
+
+<br> 
+
+<https://www.dwell.com/article/authors-apartment-wiercinski-studio-renovated-apartment-custom-furnishings-4848ed55>
+
+---
+
+## Here’s How to Make Your Outdoor Holiday Lighting and Decor More Sustainable
+
+date: 2024-12-04, from: Sunset Magazine - Living in the West
+
+Why not give your outdoor decor a sustainable sparkle? You don’t have to sacrifice holiday magic to make an eco-conscious impact either. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/landscaping/sustainable-holiday-decor>
+
+---
+
+## Is This $8.8M Apartment the Most Colorful Home in Manhattan?
+
+date: 2024-12-04, from: Dwell
+
+Spanning the entire 29th level of the Siena building, the four-bedroom flat is dripping in psychedelic hues from floor to ceiling. 
+
+<br> 
+
+<https://www.dwell.com/article/colorful-apartment-siena-condo-lenox-hill-manhattan-real-estate-1b73e8d2>
+
+---
+
+## How to Grow and Care for Poinsettia Plants
+
+date: 2024-12-04, from: The Gardener's Path
+
+<p>When a bright poinsettia arrives in your home for the winter months, it’s time to celebrate! Not sure how to keep your plant happy? Whether you enjoy it just through the holidays, or you want to keep it as one of your cherished houseplants, your poinsettia needs proper care – and a little understanding. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/houseplants/grow-poinsettia/">How to Grow and Care for Poinsettia Plants</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/houseplants/grow-poinsettia/>
+
+---
+
+## These Cleaning Secrets from Hotel Housekeeping Professionals Will Have Your Home Holiday-Ready
+
+date: 2024-12-04, from: Sunset Magazine - Living in the West
+
+Get your home ready for holiday season guests with these expert tips from housekeeping professionals at the best luxury hotels. 
+
+<br> 
+
+<https://www.sunset.com/travel/hotels/hotel-housekeeping-cleaning-tips>
+
+---
+
+## These Are the Gifts Foodies Will Love This Holiday Season
+
+date: 2024-12-04, from: Sunset Magazine - Living in the West
+
+Lean on local makers to put together a better holiday spread. These indulgent food gifts will satisfy everyone on your list. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/best-food-gifts>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-12-04, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## The Garden-Obsessed Will Love These Thoughtful Gifts
+
+date: 2024-12-04, from: Sunset Magazine - Living in the West
+
+No matter your budget, these gifts will make your favorite green thumb's holiday merry and bright. Tools, gear, and other gifts for gardeners. 
+
+<br> 
+
+<https://www.sunset.com/home/gifts-for-gardeners>
+
+---
+
+## The Wellness Gifts That Will Optimize Your Whole Life
+
+date: 2024-12-04, from: Sunset Magazine - Living in the West
+
+We've come a long way when it comes to wellness products. There are so many high-tech devices that can help you live a healthier life. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/wellness-gifts>
+
+---
+
+## 18 Gifts That Were Practically Made for Design Enthusiasts
+
+date: 2024-12-04, from: Sunset Magazine - Living in the West
+
+Get the design enthusiast in your life these stylish and useful design gifts, from kitchen goods to accessories. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/design-gifts>
+
+---
+
+## The Most Unique Advent Calendars from Companies Across the West
+
+date: 2024-12-04, from: Sunset Magazine - Living in the West
+
+The countdown has begun, so why not mark every day leading up to Dec. 25 with a treat? These advent calendars will get you in the spirit. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/best-advent-calendars>
+
+---
+
+## 23 Hostess Gifts to Bring to Your Next Holiday Party
+
+date: 2024-12-04, from: Sunset Magazine - Living in the West
+
+Don't show up empty-handed to your next holiday party. These hostess gift ideas will be much appreciated and get you invited back. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/entertaining/hostess-gift-ideas>
+
+---
+
+## How to Use Your Credit Card Points for Holiday Travel, According to an Expert at The Points Guy
+
+date: 2024-12-04, from: Sunset Magazine - Living in the West
+
+The Points Guy’s leading expert on credit cards and loyalty programs shares tips on planning your holiday travel like a pro. 
+
+<br> 
+
+<https://www.sunset.com/travel/travel-tips/using-points-miles-for-holiday-travel>
+
+---
+
+## 6 Secret Ways to Find Cheap Flights
+
+date: 2024-12-04, from: Sunset Magazine - Living in the West
+
+Knowing how to find cheap last-minute flights is a bit of a game of roulette, especially when it comes to summer travel. Here's how to do it. 
+
+<br> 
+
+<https://www.sunset.com/travel/how-to-find-cheap-last-minute-flights>
+
+---
+
+## This Travel Tuesday Is Going to Be the Biggest in History—Here’s How to Score the Best Deals
+
+date: 2024-12-04, from: Sunset Magazine - Living in the West
+
+The desire for experiences over things has made Travel Tuesday more popular than ever. Here's how to find the best deals. 
+
+<br> 
+
+<https://www.sunset.com/travel/travel-tuesday-tips>
+
+---
+
+## These Are the Worst Times to Travel This Thanksgiving
+
+date: 2024-12-04, from: Sunset Magazine - Living in the West
+
+Thanksgiving travel can be a doozy, but if you avoid certain times and leave at certain times you can make it easier on you. 
+
+<br> 
+
+<https://www.sunset.com/travel/worst-times-to-travel-on-thanksgiving-2024>
+
+---
+
+## You Can See the Northern Lights on Thanksgiving and Black Friday. Here’s How.
+
+date: 2024-12-04, from: Sunset Magazine - Living in the West
+
+Experts predict a celestial spectacle that will kick off the holiday season. Here's how to view the Northern Lights this weekend. 
+
+<br> 
+
+<https://www.sunset.com/travel/how-to-see-northern-lights-thanksgiving>
+
+---
+
+## These Are the Best Deals to Score on Travel Tuesday, Hands Down
+
+date: 2024-12-04, from: Sunset Magazine - Living in the West
+
+These are the best Travel Tuesday deals on right now, from discounted flights to cheap rental car bookings and more. 
+
+<br> 
+
+<https://www.sunset.com/travel/travel-tuesday-best-travel-deals>
 
 ---
 
@@ -74,7 +372,7 @@ Disneyland has officially submitted plans to the city of Anaheim to double the s
 
 ---
 
-## This $8M Cliff May Ranch House in the Pacific Palisades Is a Rare Find
+## This $7M Cliff May Ranch House in the Pacific Palisades Is a Rare Find
 
 date: 2024-12-03, from: Dwell
 
@@ -83,18 +381,6 @@ With a spacious courtyard, pitched shiplap ceilings, and terra-cotta floors, the
 <br> 
 
 <https://www.dwell.com/article/cliff-may-midcentury-home-pacific-palisades-los-angeles-real-estate-4a87745d>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-12-03, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 
@@ -218,6 +504,18 @@ This wooded retreat is a tranquil getaway with high ceilings, walls of glass, sw
 
 ---
 
+## Wake Up in a Winter Wonderland With This Chic Swiss Chalet for Sale
+
+date: 2024-12-03, from: Dwell
+
+Inside, find a hidden spa with a hammam and jacuzzi. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-luxe-chalet-zermatt-real-estate-8dbd1f60>
+
+---
+
 ## A Sunny Villa on the Island of Mauritius Seeks $3.8M
 
 date: 2024-12-03, from: Dwell
@@ -227,30 +525,6 @@ Contemporary sophistication meets timeless charm on this historic 200-year-old e
 <br> 
 
 <https://www.dwell.com/article/sothebys-international-sugar-estate-grand-baie-real-estate-86beb36a-fd81368e>
-
----
-
-## The Garden-Obsessed Will Love These Thoughtful Gifts
-
-date: 2024-12-03, from: Sunset Magazine - Living in the West
-
-No matter your budget, these gifts will make your favorite green thumb's holiday merry and bright. Tools, gear, and other gifts for gardeners. 
-
-<br> 
-
-<https://www.sunset.com/home/gifts-for-gardeners>
-
----
-
-## These Are the Gifts Foodies Will Love This Holiday Season
-
-date: 2024-12-03, from: Sunset Magazine - Living in the West
-
-Lean on local makers to put together a better holiday spread. These indulgent food gifts will satisfy everyone on your list. 
-
-<br> 
-
-<https://www.sunset.com/lifestyle/shopping/best-food-gifts>
 
 ---
 
@@ -335,30 +609,6 @@ The dated and dark kitchen in a Laurel Canyon house had a very small footprint. 
 <br> 
 
 <https://www.sunset.com/home-garden/home-tours/laurel-canyon-galley-kitchen-makeover>
-
----
-
-## These Are the Best Deals to Score on Travel Tuesday, Hands Down
-
-date: 2024-12-03, from: Sunset Magazine - Living in the West
-
-These are the best Travel Tuesday deals on right now, from discounted flights to cheap rental car bookings and more. 
-
-<br> 
-
-<https://www.sunset.com/travel/travel-tuesday-best-travel-deals>
-
----
-
-## 23 Hostess Gifts to Bring to Your Next Holiday Party
-
-date: 2024-12-03, from: Sunset Magazine - Living in the West
-
-Don't show up empty-handed to your next holiday party. These hostess gift ideas will be much appreciated and get you invited back. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/entertaining/hostess-gift-ideas>
 
 ---
 
@@ -539,18 +789,6 @@ These reads released this year will inspire readers with wanderlust. They make f
 <br> 
 
 <https://www.sunset.com/travel/wild-lands/best-travel-adventure-books>
-
----
-
-## This Travel Tuesday Is Going to Be the Biggest in History—Here’s How to Score the Best Deals
-
-date: 2024-12-02, from: Sunset Magazine - Living in the West
-
-The desire for experiences over things has made Travel Tuesday more popular than ever. Here's how to find the best deals. 
-
-<br> 
-
-<https://www.sunset.com/travel/travel-tuesday-tips>
 
 ---
 

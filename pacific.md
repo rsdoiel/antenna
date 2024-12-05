@@ -1,11 +1,525 @@
 ---
 title: pacific
-updated: 2024-12-04 07:05:43
+updated: 2024-12-05 07:05:45
 ---
 
 # pacific
 
-(date: 2024-12-04 07:05:43)
+(date: 2024-12-05 07:05:45)
+
+---
+
+## Nation and world news in brief for December 5
+
+date: 2024-12-05, from: Hawaii Tribune Harold
+
+
+				<p>Democrat wins &#0010;final House seat, setting up narrower GOP edge</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/05/nation-world-news/nation-and-world-news-in-brief-for-december-5/>
+
+---
+
+## Meet Lamb Chop, America’s hottest dog toy
+
+date: 2024-12-05, from: Hawaii Tribune Harold
+
+
+				<p>Most toys that cross Foxie&#8217;s path rarely last. Rope toys are torn to shreds. Squeaky ones fall silent in her paws. Stuffies lose their eyes and ears once Foxie&#8217;s 12-pound frame gets hold of them.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/05/nation-world-news/meet-lamb-chop-americas-hottest-dog-toy/>
+
+---
+
+## Trump’s Pentagon nominee Hegseth gets tepid welcome from some Senate Republicans
+
+date: 2024-12-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President-elect Donald Trump&#8217;s embattled pick to lead the U.S. Department of Defense, Pete Hegseth, met with a lukewarm response from some Senate Republicans on Wednesday over allegations about his personal and professional life.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/05/nation-world-news/trumps-pentagon-nominee-hegseth-gets-tepid-welcome-from-some-senate-republicans/>
+
+---
+
+## Trump picks Musk ally Jared Isaacman to head NASA
+
+date: 2024-12-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. President-elect Donald Trump on Wednesday tapped Jared Isaacman to lead NASA, selecting a billionaire private astronaut and business associate of Elon Musk to oversee an agency closely linked to the SpaceX founder&#8217;s business. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/05/nation-world-news/trump-picks-musk-ally-jared-isaacman-to-head-nasa/>
+
+---
+
+## UnitedHealth executive killed in Manhattan in targeted attack
+
+date: 2024-12-05, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Brian Thompson, the CEO of UnitedHealth&#8217;s insurance unit, was killed on Wednesday morning outside a Midtown Manhattan hotel in what police described as a targeted attack by a gunman lying in wait for him.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/05/nation-world-news/unitedhealth-executive-killed-in-manhattan-in-targeted-attack/>
+
+---
+
+## China just showed Washington how it plans to fight the next trade war
+
+date: 2024-12-05, from: Hawaii Tribune Harold
+
+
+				<p>BEIJING &#8212; When President-elect Donald Trump fired the opening shots in a trade war during his first term, Chinese officials often took days to respond, and Chinese businesses followed every threat with alarm.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/05/nation-world-news/china-just-showed-washington-how-it-plans-to-fight-the-next-trade-war/>
+
+---
+
+## French far right joins forces with left to topple government
+
+date: 2024-12-05, from: Hawaii Tribune Harold
+
+
+				<p>Far-right leader Marine Le Pen teamed up with a left-wing coalition to topple the French government, pitching the country into a prolonged period of turbulence that&#8217;s likely to further unsettle investors.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/05/nation-world-news/french-far-right-joins-forces-with-left-to-topple-government/>
+
+---
+
+## Charity dinner raises $50K for mediation center
+
+date: 2024-12-05, from: Hawaii Tribune Harold
+
+
+				<p>At the 2024 Annual Recognition Dinner &#38;Auction on Nov. 17, Jennifer Zelko-Schlueter was awarded the &#8220;Peacemaker Award&#8221; by Ku&#8216;ikahi Mediation Center, and Judge M. Kanani Laubach was awarded the &#8220;Meritorious Service Award&#8221; by the Hawaii County Bar Association.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/05/community/charity-dinner-raises-50k-for-mediation-center/>
+
+---
+
+## Public invited to Waimea Christmas parade
+
+date: 2024-12-05, from: Hawaii Tribune Harold
+
+
+				<p>The 64th Waimea Twilight Christmas Parade is this Saturday from 6 p.m. to 7:15 p.m.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/05/community/public-invited-to-waimea-christmas-parade/>
+
+---
+
+## Hilo Christmas Lights Parade winners announced
+
+date: 2024-12-05, from: Hawaii Tribune Harold
+
+
+				<p>The Hilo community&#8217;s holiday spirit was on full display last Saturday as nearly 70 groups and organizations took part in the 2024 Hilo Christmas Lights Parade.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/05/community/hilo-christmas-lights-parade-winners-announced/>
+
+---
+
+## Artist confronts gun violence in EHCC exhibit
+
+date: 2024-12-05, from: Hawaii Tribune Harold
+
+
+				<p>Compassion and empathy in the face of pain and death inform the work of Honolulu-based artist Deborah Nehmad, whose works are on view at the East Hawaii Cultural Center from this Saturday to Jan. 31, 2025, with an opening at 6 p.m. on Friday. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/05/community/artist-confronts-gun-violence-in-ehcc-exhibit/>
+
+---
+
+## South Korea’s turmoil is the latest threat to a three-way Pacific alliance
+
+date: 2024-12-05, from: Hawaii Tribune Harold
+
+
+				<p>TOKYO &#8212; When President Yoon Suk Yeol of South Korea visited the White House last year, he charmed the Washington establishment by singing Don McLean&#8217;s &#8220;American Pie.&#8221; When he flew to Tokyo to usher in a new era of conciliation with Japan, it was a genial visit, with the prime minister treating Yoon to &#8220;omurice,&#8221; a Japanese dish the South Korean leader likes. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/05/nation-world-news/south-koreas-turmoil-is-the-latest-threat-to-a-three-way-pacific-alliance/>
+
+---
+
+## New Island Naturals project ‘moving slowly’
+
+date: 2024-12-05, from: Hawaii Tribune Harold
+
+
+				<p>A new flagship location for Island Naturals in Hilo is still a ways off.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/05/hawaii-news/new-island-naturals-project-moving-slowly/>
+
+---
+
+## Kurtistown man accused of multiple firearms offenses
+
+date: 2024-12-05, from: Hawaii Tribune Harold
+
+
+				<p>A judge on Wednesday denied a request by a 39-year-old Kurtistown man facing firearms and domestic violence charges to be released from custody without posting cash bail.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/05/hawaii-news/kurtistown-man-accused-of-multiple-firearms-offenses/>
+
+---
+
+## Supreme Court inclined to uphold Tennessee law on transgender care
+
+date: 2024-12-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Members of the Supreme Court&#8217;s conservative majority seemed ready Wednesday to uphold a Tennessee law denying transition care to transgender youth, with some of them saying that judgments about contested scientific evidence should be made by legislatures rather than judges.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/05/nation-world-news/supreme-court-inclined-to-uphold-tennessee-law-on-transgender-care/>
+
+---
+
+## How to protect Kahalu‘u Bay? Public invited to provide feedback about ecosystem restoration study
+
+date: 2024-12-05, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Island residents are invited to discuss how best to preserve the fragile coral ecosystems of Kahalu&#8216;u Bay.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/05/hawaii-news/how-to-protect-kahaluu-bay-public-invited-to-provide-feedback-about-ecosystem-restoration-study/>
+
+---
+
+## Inmates to trial on drug charges
+
+date: 2024-12-05, from: Marshal Islands Journal
+
+<p>Two Majuro prison inmates, accused of illegal possession and sale of drugs, will be heading to separate trials following their preliminary hearings in the High Court late last month. Lennon Tami Declaro — also known as Tommy Declaro — and Ranson Riklon were charged together by the Attorney General’s office earlier this year following a [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/inmates-to-trial-on-drug-charges/">Inmates to trial on drug charges</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/inmates-to-trial-on-drug-charges/>
+
+---
+
+## Lai vows to buck totalitarianism, drums up support for Taiwan’s democracy
+
+date: 2024-12-05, from: Pacific Island Times
+
+Vowing to resist an authoritarian takeover, President Lai Ching-te on Thursday said Taiwan is banking on its “solid-rock partnership” with t 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/lai-vows-to-buck-totalitarianism-drums-up-support-for-taiwan-s-democracy>
+
+---
+
+## Podcast details Rongelap evacuation
+
+date: 2024-12-05, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON As a prelude to the 40th anniversary of the evacuation of Rongelap Islanders to Mejatto Island in Kwajalein in 1985, Radio New Zealand and ABC Radio Australia have produced a five-part podcast that details the Rongelap story — in the context of “The Last Voyage of the Rainbow Warrior,” the name of the [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/podcast-details-rongelap-evacuation/">Podcast details Rongelap evacuation</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/podcast-details-rongelap-evacuation/>
+
+---
+
+## Appointment of the Pro-Chancellor and Chair of Council
+
+date: 2024-12-05, from: University of the South Pacific (Fiji)
+
+<p>The Acting Pro-Chancellor and Chair of Council, Emeritus Professor Pat Walsh announces that The University...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/appointment-of-the-pro-chancellor-and-chair-of-council-2/">Appointment of the Pro-Chancellor and Chair of Council</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/appointment-of-the-pro-chancellor-and-chair-of-council-2/>
+
+---
+
+## Buzzing with skills: Kauaʻi CC carpentry class helps expand bee production
+
+date: 2024-12-05, from: University of Hawaiʻi News
+
+<p><span aria-label="Kauai">Kaua&#699;i</span> <abbr>CC</abbr>’s apiary is one of the few disease-free honeybee sites left in the state</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/04/kauai-cc-carpentry-class-helps-expand-bee-production/">Buzzing with skills: Kauaʻi <abbr>CC</abbr> carpentry class helps expand bee production</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/04/kauai-cc-carpentry-class-helps-expand-bee-production/>
+
+---
+
+## 300 students celebrate Hawaiian independence at Kauaʻi CC
+
+date: 2024-12-04, from: University of Hawaiʻi News
+
+<p>L&#257; <span aria-label="KUokoa">K&#363;&#699;oko&#699;a</span> at <span aria-label="Kauai">Kaua&#699;i</span> <abbr>CC</abbr> commemorated the independence of the Kingdom of <span aria-label="Hawaii">Hawai&#699;i</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/04/students-celebrate-hawaiian-independence/">300 students celebrate Hawaiian independence at Kauaʻi <abbr>CC</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/04/students-celebrate-hawaiian-independence/>
+
+---
+
+## Warm welcome for Taiwan Pres. Lai
+
+date: 2024-12-04, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON Friendship and a welcoming spirit was on full display Tuesday for the visit of Taiwan President Lai Ching-te. The red carpet airport greeting — featuring a hug of welcome between Lai and President Hilda Heine, CMI students singing, Marshallese and Taiwanese holding banners and signs of welcome, and a police honor guard — [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/warm-welcome-for-taiwan-pres-lai/">Warm welcome for Taiwan Pres. Lai</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/warm-welcome-for-taiwan-pres-lai/>
+
+---
+
+## Student’s study of groundwater takes her from Hawaiʻi to Galapagos
+
+date: 2024-12-04, from: University of Hawaiʻi News
+
+<p>Undergraduate student Aaliyah Thomas was selected for an immersive research internship experience in the Galapagos Islands.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/04/aaliyah-thomas/">Student’s study of groundwater takes her from Hawaiʻi to Galapagos</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/04/aaliyah-thomas/>
+
+---
+
+## Cancer researcher honored for advancing oncology care
+
+date: 2024-12-04, from: University of Hawaiʻi News
+
+<p>Christa Braun-Inglis has expanded the role of Advanced Practice Providers in clinical trial studies, particularly for underserved communities.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/04/braun-inglis-mary-pazdur-award/">Cancer researcher honored for advancing oncology care</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/04/braun-inglis-mary-pazdur-award/>
+
+---
+
+## Addressing Guam’s housing crisis: A breaking point or a blueprint for change?
+
+date: 2024-12-04, from: Pacific Island Times
+
+By 2025, Guam will face a demand for 9,908 additional housing units, driven by population growth, pent-up demand and hidden homelessness, ac 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/addressing-guam-s-housing-crisis-a-breaking-point-or-a-blueprint-for-change>
+
+---
+
+## King-Hinds: CNMI-US relations must be a two-way street
+
+date: 2024-12-04, from: Pacific Island Times
+
+By Bryan Manabat   Saipan —Kimberlyn King-Hinds, the CNMI’s delegate-elect, is set to enter the halls of the U.S. Congress at a critical... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/king-hinds-cnmi-us-relations-must-be-a-two-way-street>
+
+---
+
+## COFA? What’s in it?
+
+date: 2024-12-04, from: Pacific Island Times
+
+Under COFA, which went into effect in 1986, the U.S. provided grant assistance worth $1.54 billion to the FSM between FY1987 and FY2003. Dur 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/cofa-what-s-in-it>
+
+---
+
+## The fabric of American life
+
+date: 2024-12-04, from: Pacific Island Times
+
+Charlottesville, VA — Living in over a dozen different places in my lifetime has given me a unique perspective on the world. Three of... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/the-fabric-of-american-life>
+
+---
+
+## Image of the Week: Poinsettias
+
+date: 2024-12-04, from: University of Hawaiʻi News
+
+<p>This week’s image is from <abbr>UH</abbr> Mānoa's Bobo Chow.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/04/image-of-the-week-poinsettias/">Image of the Week: Poinsettias</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/04/image-of-the-week-poinsettias/>
+
+---
+
+## Bus driver training at Leeward CC addresses critical shortage
+
+date: 2024-12-04, from: University of Hawaiʻi News
+
+<p>A new bus driver training class begins on January 13 at Leeward <abbr>CC</abbr>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/04/bus-driver-training-leeward-cc/">Bus driver training at Leeward <abbr>CC</abbr> addresses critical shortage</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/04/bus-driver-training-leeward-cc/>
+
+---
+
+## Amata takes part in Jeffries’ delegation to Barbados
+
+date: 2024-12-04, updated: 2024-12-05, from: Marianas Variety
+
+WASHINGTON, D.C. (Office of the American Samoa Congressional Delegate) — U.S. Congresswoman Uifa’atali Amata took part in a 10-member Congressional Delegation to Barbados, following Thanksgiving Day, at the invitation of Democratic Leader Hakeem Jeffries of New York, in which members of Congress joined the people of Barbados in commemorating their 58th Independence Day, and honored the legacy of historic Barbadian-American Congresswoman Shirley Chisholm on what would have been her 100th birthday. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/amata-takes-part-in-jeffries-delegation-to-barbados/article_3a8f3538-b207-11ef-b41f-436cce4a0dac.html>
+
+---
+
+## Saipan Community School to host annual Christmas band concert today
+
+date: 2024-12-04, updated: 2024-12-05, from: Marianas Variety
+
+(SCS) — Saipan Community School invites the community to join us for an evening of festive music at our Annual Christmas Band Concert, taking place today, Thursday, Dec. 5, at 6 p.m. at the Saipan Community Chapel. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/saipan-community-school-to-host-annual-christmas-band-concert-today/article_3ae87fd4-b212-11ef-aea7-6b91a5a82c81.html>
+
+---
+
+## Yap’s WWII historical sites get a facelift; US and Japanese Navy personnel assist with restoration
+
+date: 2024-12-04, updated: 2024-12-05, from: Marianas Variety
+
+YAP (Yap Visitors Bureau) — As part of its commitment to historical preservation and cultural exchange, the Yap Visitors Bureau recently collaborated with the Japanese Navy and U.S. Navy Seabees on a significant cleanup and restoration initiative at key World War II heritage sites. This initiative started back in July when the Seabees based in Yap gave the sites around Colonia and at the old airstrip a major facelift. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/yap-s-wwii-historical-sites-get-a-facelift-us-and-japanese-navy-personnel-assist-with/article_ebd5d5b2-b212-11ef-b12c-4f9db9702657.html>
+
+---
+
+## NMC nursing graduate Yi Huang Jenkins passes NCLEX-RN
+
+date: 2024-12-04, updated: 2024-12-05, from: Marianas Variety
+
+(NMC) — Northern Marianas College 2024 nursing graduate Yi Huang Jenkins has joined the long list of NMC students who have passed the National Council Licensure Examination for Registered Nurses or NCLEX-RN. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/nmc-nursing-graduate-yi-huang-jenkins-passes-nclex-rn/article_537d65fe-b20e-11ef-b977-c798bf37989c.html>
+
+---
+
+## Zaji accuses former BOOST officials of ‘racketeering’
+
+date: 2024-12-04, updated: 2024-12-05, from: Marianas Variety
+
+IN response to the federal court dismissing his second amended complaint, Zaji Zajradhara filed another amended lawsuit against former officials of the Building Optimism, Opportunities, and Stability Together or BOOST program, alleging violations of the Racketeer Influenced and Corrupt Organizations Act. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/zaji-accuses-former-boost-officials-of-racketeering/article_5435be12-b243-11ef-9b5e-db94a19fce6d.html>
+
+---
+
+## Commonwealth Recorder’s Office proposes uniform marriage documentation
+
+date: 2024-12-04, updated: 2024-12-05, from: Marianas Variety
+
+(CNMI Judiciary) — On Nov. 26 and 27, 2024, Commonwealth Recorder Kelsey G. Aldan, together with justices and judges, met with the Saipan Mayor Ramon B. Camacho, Rota Mayor Aubrey M. Hocog, Tinian and Aguiguan Mayor Edwin P. Aldan, and the Northern Islands Mayor Valentino N. Taisacan to propose a standardized form for marriage application, licensing, and recordation. Special Assistant to the Lieutenant Governor Henry S. Hofschneider, representing the Governor and the Lt. Governor, also attended the meeting. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/commonwealth-recorder-s-office-proposes-uniform-marriage-documentation/article_15577c50-b20f-11ef-9944-236332b85550.html>
+
+---
+
+## CPA rescinds airport rate hike
+
+date: 2024-12-04, updated: 2024-12-05, from: Marianas Variety
+
+THE Commonwealth Ports Authority board of directors, in a special meeting on Wednesday, unanimously voted to adopt CPA Resolution 2024-5, re-implementing the rates that were in place at Francisco C. Ada/Saipan International Airport prior to Oct. 1, 2023. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/cpa-rescinds-airport-rate-hike/article_05e33956-b21b-11ef-937b-03e720256b1e.html>
+
+---
+
+## Minor assaults man with brass knuckles
+
+date: 2024-12-04, updated: 2024-12-05, from: Marianas Variety
+
+POLICE arrested three intoxicated young men, including a minor, who assaulted another man with brass knuckles, Assistant Chief of Police Simon Manacop said. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/minor-assaults-man-with-brass-knuckles/article_e4bdcd40-b242-11ef-9641-9b73be491643.html>
 
 ---
 
@@ -174,6 +688,33 @@ date: 2024-12-04, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2024/12/04/nation-world-news/nation-and-world-news-in-brief-for-december-4/>
+
+---
+
+## DHHL project goes to developer with ties to the agency’s leader
+
+date: 2024-12-04, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Hawaiian Home Lands has selected a developer with ties to the agency&#8217;s leader to build out a big part of a homestead community on Hawaii Island.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/04/hawaii-news/dhhl-project-goes-to-developer-with-ties-to-the-agencys-leader/>
+
+---
+
+## Hawaiian Word of the Week: Kēkēmapa
+
+date: 2024-12-04, from: University of Hawaiʻi News
+
+<p>Kēkēmapa&#8212;December.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/03/hawaiian-word-of-the-week-kekemapa/">Hawaiian Word of the Week: Kēkēmapa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/03/hawaiian-word-of-the-week-kekemapa/>
 
 ---
 

@@ -1,11 +1,276 @@
 ---
 title: socal north
-updated: 2024-12-04 07:05:43
+updated: 2024-12-05 07:05:45
 ---
 
 # socal north
 
-(date: 2024-12-04 07:05:43)
+(date: 2024-12-05 07:05:45)
+
+---
+
+## Potential for advisory level wind gusts over mountains and below passes tonight into Friday
+
+date: 2024-12-05, updated: 2024-12-05, from: The LAist
+
+Less cloudy today than Wednesday. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/potential-for-advisory-level-wind-gusts-over-mountains-and-below-passes-tonight-into-friday>
+
+---
+
+## Residents ‘See Something and Say Something’ But SFPD is Slow to Respond
+
+date: 2024-12-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?resize=768%2C511&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?resize=1536%2C1023&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?resize=1200%2C799&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?resize=1568%2C1044&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?resize=400%2C266&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?resize=706%2C470&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>With information provided to the San Fernando Valley Sun/el Sol Since San Fernando resident Edward Perales, a convicted felon, was released on a reduced bail last week, he has been [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/04/residents-see-something-and-say-something-but-sfpd-is-slow-to-respond/">Residents ‘See Something and Say Something’ But SFPD is Slow to Respond</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/04/residents-see-something-and-say-something-but-sfpd-is-slow-to-respond/>
+
+---
+
+## Trabajando Para Aumentar y Mejorar los Espacios Verdes en Todo el Valle
+
+date: 2024-12-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="474" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241204_212209898-scaled-e1733378177333.jpg?fit=1024%2C474&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241204_212209898-scaled-e1733378177333.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241204_212209898-scaled-e1733378177333.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241204_212209898-scaled-e1733378177333.jpg?fit=1024%2C474&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241204_212209898-scaled-e1733378177333.jpg?fit=1024%2C474&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Antes de la temporada navideña, un momento para que las familias se reúnan, se inauguró un nuevo parque recreativo de 50 acres en el corazón de Porter Ranch que ofrece [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/04/trabajando-para-aumentar-y-mejorar-los-espacios-verdes-en-todo-el-valle/">Trabajando Para Aumentar y Mejorar los Espacios Verdes en Todo el Valle</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/04/trabajando-para-aumentar-y-mejorar-los-espacios-verdes-en-todo-el-valle/>
+
+---
+
+## El Concejo Municipal de San Fernando Continúa con las Audiencias Públicas Sobre la Propuesta de Ordenanza de Vivienda
+
+date: 2024-12-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="576" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/3118_1495060050559.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/3118_1495060050559.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/3118_1495060050559.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/3118_1495060050559.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/3118_1495060050559.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/3118_1495060050559.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/3118_1495060050559.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/3118_1495060050559.jpg?resize=1568%2C882&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/3118_1495060050559.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/3118_1495060050559.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/07/3118_1495060050559.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Durante una reciente reunión del Concejo Municipal de San Fernando, los concejales, los residentes y el personal de la ciudad discutieron una ordenanza propuesta que establecería una “zona de superposición [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/04/el-concejo-municipal-de-san-fernando-continua-con-las-audiencias-publicas-sobre-la-propuesta-de-ordenanza-de-vivienda/">El Concejo Municipal de San Fernando Continúa con las Audiencias Públicas Sobre la Propuesta de Ordenanza de Vivienda</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/04/el-concejo-municipal-de-san-fernando-continua-con-las-audiencias-publicas-sobre-la-propuesta-de-ordenanza-de-vivienda/>
+
+---
+
+## Horóscopo
+
+date: 2024-12-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Holiday Mathis (Creators.com) ARIES (21 de mar &#8211; 19 de abr) Alguien tratará de impresionarte esta semana, pero verás directamente a través de cualquier exhibición de posesiones o privilegios, [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/04/horoscopo-192/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/04/horoscopo-192/>
+
+---
+
+## EVENTOS Locales – Semana de 5 de diciembre, 2024
+
+date: 2024-12-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Viernes, Diciembre 6 Iluminación del Arbol de Sherman Oaks Galleria 15301 Ventura Blvd. Sherman Oaks 6 p.m. – 8 p.m. ¡Fotos GRATIS con Papá Noel! ¡Únase a nosotros para disfrutar [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/04/eventos-locales-semana-de-5-de-deciembre-2024/">EVENTOS Locales &#8211; Semana de 5 de diciembre, 2024</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/04/eventos-locales-semana-de-5-de-deciembre-2024/>
+
+---
+
+## El Concejo de Los Ángeles Adopta la Ordenanza de ‘Ciudad Santuario’
+
+date: 2024-12-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Jose HerreraCity News Service LOS ÁNGELES (CNS) &#8211; El Concejo Municipal de Los Ángeles adoptó formalmente una ordenanza de “ciudad santuario” el miércoles 4 de diciembre, prohibiendo el uso [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/04/el-concejo-de-los-angeles-adopta-la-ordenanza-de-ciudad-santuario/">El Concejo de Los Ángeles Adopta la Ordenanza de ‘Ciudad Santuario’</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/04/el-concejo-de-los-angeles-adopta-la-ordenanza-de-ciudad-santuario/>
+
+---
+
+## Los Supervisores del Condado de Los Ángeles Avanzan Hacia la Financiación Directa de los Servicios para Personas Sin Hogar
+
+date: 2024-12-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="640" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/Screenshot-2024-12-03-at-11.58.20%E2%80%AFAM.jpg?fit=1024%2C640&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>La semana pasada, la Junta de Supervisores del Condado de Los Ángeles votó para explorar cómo podría reducir el presupuesto y los deberes de la Autoridad de Servicios para Personas [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/04/los-supervisores-del-condado-de-los-angeles-avanzan-hacia-la-financiacion-directa-de-los-servicios-para-personas-sin-hogar/">Los Supervisores del Condado de Los Ángeles Avanzan Hacia la Financiación Directa de los Servicios para Personas Sin Hogar</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/04/los-supervisores-del-condado-de-los-angeles-avanzan-hacia-la-financiacion-directa-de-los-servicios-para-personas-sin-hogar/>
+
+---
+
+## La Junta de Supervisores de LA Co Aprueba un Grupo de Trabajo para Supervisar la Implementación de la Medida G
+
+date: 2024-12-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Después de la aprobación por un estrecho margen de la Medida G en las elecciones presidenciales de 2024, la Junta de Supervisores del Condado de Los Ángeles aprobó por unanimidad [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/04/la-junta-de-supervisores-de-la-co-aprueba-un-grupo-de-trabajo-para-supervisar-la-implementacion-de-la-medida-g/">La Junta de Supervisores de LA Co Aprueba un Grupo de Trabajo para Supervisar la Implementación de la Medida G</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/04/la-junta-de-supervisores-de-la-co-aprueba-un-grupo-de-trabajo-para-supervisar-la-implementacion-de-la-medida-g/>
+
+---
+
+## Tomando las Riendas de la Diputada Electa Rivas, la Senadora Menjívar Presenta una Proposición de Ley para Frenar la Silicosis
+
+date: 2024-12-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>La senadora estatal Caroline Menjivar está siguiendo los pasos de la congresista electa Luz Rivas para asumir el esfuerzo de proteger a los trabajadores de la fabricación de piedra de [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/04/tomando-las-riendas-de-la-diputada-electa-rivas-la-senadora-menjivar-presenta-una-proposicion-de-ley-para-frenar-la-silicosis/">Tomando las Riendas de la Diputada Electa Rivas, la Senadora Menjívar Presenta una Proposición de Ley para Frenar la Silicosis  </a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/04/tomando-las-riendas-de-la-diputada-electa-rivas-la-senadora-menjivar-presenta-una-proposicion-de-ley-para-frenar-la-silicosis/>
+
+---
+
+## México y Canadá se Distancian tras las Amenazas de Aranceles de Trump
+
+date: 2024-12-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/AP24323558655381.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/AP24323558655381.jpg?w=2100&amp;ssl=1 2100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/AP24323558655381.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/AP24323558655381.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/AP24323558655381.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/AP24323558655381.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/AP24323558655381.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/AP24323558655381.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/AP24323558655381.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/AP24323558655381.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/AP24323558655381.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/AP24323558655381.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/AP24323558655381.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/AP24323558655381.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Associated Press CIUDAD DE MÉXICO (AP) — La amenaza del presidente electo de Estados Unidos, Donald Trump, de imponer aranceles a sus vecinos no solo generó preocupación en México y [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/04/mexico-y-canada-se-distancian-tras-las-amenazas-de-aranceles-de-trump/">México y Canadá se Distancian tras las Amenazas de Aranceles de Trump</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/04/mexico-y-canada-se-distancian-tras-las-amenazas-de-aranceles-de-trump/>
+
+---
+
+## Citing LAist's reporting, an OC congressman raises alarm about misuse of taxpayer funds
+
+date: 2024-12-05, updated: 2024-12-05, from: The LAist
+
+Orange County Board of Supervisors Chair Don Wagner said he shared the concerns regarding funds granted to the nonprofit Mind OC. 
+
+<br> 
+
+<https://laist.com/news/politics/oc-congressman-concerns-taxpayer-funds-mind-oc>
+
+---
+
+## Janet Nguyen sworn in as Orange County supervisor to fill seat left vacant by Andrew Do
+
+date: 2024-12-05, updated: 2024-12-05, from: The LAist
+
+Nguyen was able to take office weeks early to fill the vacancy caused Do’s resignation. 
+
+<br> 
+
+<https://laist.com/news/politics/janet-nguyen-sworn-in-as-orange-county-supervisor-to-fill-seat-left-vacant-by-andrew-do>
+
+---
+
+## All Raw Farm milks recalled over bird flu — but can you actually get the virus by drinking it?
+
+date: 2024-12-05, updated: 2024-12-05, from: The LAist
+
+An infectious disease expert explains how viral load, and how it’s ingested, can all play a role. 
+
+<br> 
+
+<https://laist.com/news/health/raw-milk-cream-recall-bird-flu-raw-farms-unpasturized-dairy>
+
+---
+
+## Los Angeles formally adopts sanctuary city law. Here's what that means
+
+date: 2024-12-05, updated: 2024-12-05, from: The LAist
+
+The council initially approved the ordinance on Nov. 19, but made some minor language changes, requiring a second vote. 
+
+<br> 
+
+<https://laist.com/news/politics/los-angeles-sanctuary-city-law>
+
+---
+
+## Got a fireplace? Keep it cold, much of SoCal under wood burning ban
+
+date: 2024-12-04, updated: 2024-12-04, from: The LAist
+
+The ban also includes wax or paper fire logs. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/got-a-fireplace-keep-it-cold-much-of-socal-under-wood-burning-ban>
+
+---
+
+## California Bill Would Protect Schools, Child Care Centers From Immigration Raids
+
+date: 2024-12-04, updated: 2024-12-04, from: The LAist
+
+California lawmaker says President-elect Donald Trump’s pledge to deport undocumented immigrants has created fear for students and families. 
+
+<br> 
+
+<https://laist.com/news/education/california-bill-would-protect-schools-child-care-centers-from-immigration-raids>
+
+---
+
+## Black California students want more support. A new law names colleges that serve them best
+
+date: 2024-12-04, updated: 2024-12-05, from: The LAist
+
+A new California law creates a Black-Serving Institution designation for colleges and universities that excel in supporting student success. 
+
+<br> 
+
+<https://laist.com/news/education/black-california-students-want-more-support-a-new-law-names-colleges-that-serve-them-best>
+
+---
+
+## Naples seawall needs replacing. Long Beach is looking for $125 million to do so
+
+date: 2024-12-04, updated: 2024-12-04, from: The LAist
+
+The wall protects some of Long Beach’s toniest homes from tidewaters. With no cash for repairs, the city could ask property owners to foot the bill. 
+
+<br> 
+
+<https://laist.com/news/naples-seawall-needs-replacing-long-beach-is-looking-for-125-million-to-do-so>
+
+---
+
+## Mild temperatures today ahead of a warmer weekend
+
+date: 2024-12-04, updated: 2024-12-04, from: The LAist
+
+Low clouds will continue until the afternoon. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/mild-temperatures-today-ahead-of-a-warmup-into-the-weekend>
 
 ---
 
@@ -18,18 +283,6 @@ Career and technical education has strong bipartisan support. But some education
 <br> 
 
 <https://laist.com/news/education/high-schools-college-for-all-trump-job-training>
-
----
-
-## Mild temperatures today ahead of a warmup into the weekend
-
-date: 2024-12-04, updated: 2024-12-04, from: The LAist
-
-Low clouds will continue until the afternoon. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/mild-temperatures-today-ahead-of-a-warmup-into-the-weekend>
 
 ---
 

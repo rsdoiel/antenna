@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2024-12-04 07:05:46
+updated: 2024-12-05 07:05:48
 ---
 
 # retro computing
 
-(date: 2024-12-04 07:05:46)
+(date: 2024-12-05 07:05:48)
+
+---
+
+## Latest Cinnamon Desktop Releases with a Bold New Look
+
+date: 2024-12-04, from: Linux Magazine
+
+<p>Just in time for the holidays, the developer of the Cinnamon desktop has shipped a new release to help spice up your eggnog with new features and a new look.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Latest-Cinnamon-Desktop-Releases-with-a-Bold-New-Look>
 
 ---
 

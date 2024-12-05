@@ -1,11 +1,308 @@
 ---
 title: columns
-updated: 2024-12-04 07:05:44
+updated: 2024-12-05 07:05:46
 ---
 
 # columns
 
-(date: 2024-12-04 07:05:44)
+(date: 2024-12-05 07:05:46)
+
+---
+
+## Raw Computer Power (with apologies to Guy Kewney)
+
+date: 2024-12-05, from: Liam on Linux
+
+First Unix box I ever touched, in my first job, here on the Isle of Man 36Y ago.<br /><br />It was a demo machine, but my employers, CSL Delta, never sold any AFAIK. It sat there, running but unused, all day every day. Our one had a mono text display on it, and no graphics ability that I know of.<br /><br />I played around, I wrote "Hello, world!" in C and compiled it and it took me a while to find that the result wasn't called "hello" or "hello.exe" or anything but "a.out".<br /><br />If I had the knowledge then, I'd have written a Mandelbrot generator or something and had it sit there cranking them out -- but I was not skilled enough. It was not networked to our office network, but it had a synchronous modem allowing it to access some IBM online service which we used to look up tech support info.<br /><br />Synchronous modem comms, or serial comms, are very different indeed to the familiar Unix asynchronous serial comms used on RS-232 connections for terminals and things. Sync comms are a mainframe thing, more than a microcomputer thing.<br /><br /><a href="https://wiki.radioreference.com/index.php/Asynchronous_vs_Sy">https://wiki.radioreference.com/index.php/Asynchronous_vs_Sy</a>...<br /><br />That modem was a very specialised bit of kit that cost more than a whole PC -- when PCs cost many thousands each -- and it couldn't talk to anything else except remote IBM mainframes, basically.<br /><br />The RT/PC felt more powerful than a high-end IBM PC compatible of the time, but only marginally. It had a bit of the feeling of Windows NT about 6-7 years later: when you were typing away and you did something demanding, the hard disk cranked up and you could hear, and even feel the vibrations, that the machine was working hard, but it stayed responding to you the same as ever. It's a bit hard to describe because all modern OSes work like this, but it was not normal in the 1980s.<br /><br />Then, OSes didn't multitask or they did it badly, and things like hard disk controllers of the time took over the CPU completely when reading or writing. So on MS-DOS, or PC-DOS or OS/2 1.x or DR Concurrent DOS, when you typed commands or interacted with programs, the computer responded right away as fast as it could. But if you gave a command that made the machine work hard, like asked for a print preview or a spell-check of a multi-page document, or sorted a spreadsheet of thousands of rows, or asked it to draw a graph from hundreds of points of data, the computer locked up on you. The hard disks span up, you heard the read/write heads chattering away as it worked, but it was no longer listening to you and anything you pressed or typed was lost. Or, worse, buffered, and when it was done, then it tried to do those commands, and quite possibly did something very much not what you wanted, like deleted loads of work.<br /><br />(Decades later something similar happened with cooling fans, and now that's going away too. But with hearing the fans spin up, there's a hysteresis: it takes time, and tens of billions of CPU cycles, for the CPU to heat up, so the fans come on later, and maybe stay on for a while after it's done. A PC locking up as the hard disk went crazy was immediate.)<br /><br />The RT/PC was a Unix box. It didn't do that. No idea how much RAM or disk ours had: maybe 4MB if that, perhaps 100-200MB disk. A lot for 1988! But if I did, say,<br /><br />cd / ls -laR<br /><br />... then it would sit there for several minutes with the HDD chuntering away, listing files to screen... but what was remarkable was that you could switch to another virtual console and it stayed perfectly responsive as if nothing were happening. That hard disk was SCSI of course, so it didn't use loads of CPU under heavy disk load.<br /><br />The machine always felt a little slower, a little less responsive than DOS, but it never slowed down even when working hard. You had the feeling of sitting behind the wheel of a Rolls Royce with some massive engine there, but pulling a massive weight, so it didn't accelerate or brake fast, but could just keep accelerating slowly and steadily 'til you ran out of road... and you'd make an impressively large crater.<br /><br />We sold a lot of IBM PS/2 machines with Xenix, and it was a Unix too and felt the same... but limited by the puny I/O buses of even high-end 1980s IBM PS/2 kit, so it sssslllloooowwwweeeedddd way down doing that big directory listing.<br /><br />Whereas contemporary PC OSes responded quicker but just locked up when working hard. This included Windows 2, 3.x, 95, 98 and ME, and also OS/2 1.x, 2.x, and Warp. The kernels did not support multithreading and background I/O very well, so it didn't matter that the hardware didn't either.<br /><br />Then Windows NT 4.0 came along, and it did. Suddenly the hardware mattered. But if you had a Pentium 1 machine, with an Intel Triton chipset on the motherboard, there was an innocent looking driver floppy in the box. On that was a busmastering DMA driver for the Intel PIIX EIDE controller. Install it on Win9x and it could see a CD-ROM on the PATA bus. Handy but not world-shattering.<br /><br />Install it on an NT machine and once the kernel booted, the sound of the hard disk changed because the kernel was now using busmastering to load stuff from disk into RAM. As the machine booted the mouse pointer kept moving smoothly, with no jerkiness. When the login screen appeared it blinked onto the screen and you could press Ctrl-Alt-Del and start typing and your username appeared slowly but smoothly. The stars representing your password, the same.<br /><br />It suddenly had that "massive computer power being used to keep the machine responsive" feeling of an RT/PC the decade before. Like that PIIX driver had made the machine's £100 cheapo IDE disk into a £400 SCSI disk.<br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&ditemid=93060" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/> comments 
+
+<br> 
+
+<https://liam-on-linux.dreamwidth.org/93060.html>
+
+---
+
+## Tokyo, Japan
+
+date: 2024-12-05, from: mrusme blog
+
+"Tokyo, formerly Edo, historically Tokio, and officially the Tokyo Metropolis,
+is the capital and largest city of Japan. Its metropolitan area is the most
+populous in the world, with an estimated 37.468 million residents. Its
+metropolitan area is the largest in size and the most populous, with an area
+of 13,452 square kilometers and its city proper has a population of 13.99
+million people. Located at the head of Tokyo Bay, the prefecture forms part of
+the Kantō region on the central Pacific coast of Japan's main island of
+Honshu. Tokyo is the political and economic center of the country, as well as
+the seat of the Emperor of Japan and the national government." 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/travel/japan/tokyo-2024/>
+
+---
+
+## Wubuntu: The lovechild of Windows and Linux nobody asked for
+
+date: 2024-12-05, updated: 2024-12-05, from: Liam Proven's articles at the Register
+
+<h4>A third-party Kubuntu remix with a severe identity crisis</h4>
+      <p>Wubuntu is a stripped-down Kubuntu, with custom themes and additional tools to make it look (a lot) and work (superficially) like Windows 11.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/12/05/wubuntu/>
+
+---
+
+## The difference between loyalty and subservience
+
+date: 2024-12-05, from: Robert Reich's blog
+
+Trump&#8217;s picks are submissive hacks whose cringeworthy subservience to him will bring down his administration &#8212; and possibly America 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-difference-between-loyalty-and>
+
+---
+
+## December 4, 2024 
+
+date: 2024-12-05, from: Heather Cox Richardson blog
+
+In 1883, as the Republican Party moved into full-throated support for the industrialists who were concentrating the nation&#8217;s wealth into their own hands while factory workers stayed above the poverty line only by working 12 hours a day, seven days a week, Yale sociologist William Graham Sumner responded to those worried about the extremes of wealth and poverty in the country with his book 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/december-4-2024>
+
+---
+
+## Indiana or Bust: Day 3
+
+date: 2024-12-05, from: Matt Haughey blog
+
+<p>I drove about 550 miles today, across Nebraska on a sunny clear day that was so unseasonably warm I took my jacket off once when I was outside. I trekked into Lincoln and Omaha before I decided to solve yesterday&apos;s lingering question of whether I should head to</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/indiana-or-bust-day-3/>
+
+---
+
+## From the Department of Bringing Receipts to the Interview
+
+date: 2024-12-05, updated: 2024-12-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://stanfordreview.org/levin-interview/amp/>
+
+---
+
+## Jeff Bezos on Trump’s Second Term: ‘I’m Actually Very Optimistic This Time Around’
+
+date: 2024-12-05, updated: 2024-12-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/2024/12/4/24313549/bezos-trump-optimistic-dealbook-summit-doge>
+
+---
+
+## Tapping the Brakes
+
+date: 2024-12-05, from: Dan Rather's Steady
+
+Senators aren&#8217;t rubber-stamping Trump&#8217;s nominees 
+
+<br> 
+
+<https://steady.substack.com/p/tapping-the-brakes>
+
+---
+
+##  Ken Burns&#8217; Documentary on Leonardo da Vinci 
+
+date: 2024-12-05, updated: 2024-12-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/ken-burns-documentary-on-leonardo-da-vinci>
+
+---
+
+## Shame on Google for Their Description of Google Messages’s Encryption Support
+
+date: 2024-12-04, updated: 2024-12-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://play.google.com/store/apps/details?id=com.google.android.apps.messaging>
+
+---
+
+##  Rob Stephenson is currently visiting and photographing all 350 neighborhoods in NYC.... 
+
+date: 2024-12-04, updated: 2024-12-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045713-rob-stephenson-is-current>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2024-12-04, from: Ryan Gantz Bluesky feed)
+
+yep we out here
+
+now speed running the arab spring
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.bsky.social/post/3lciydne5ls2n>
+
+---
+
+## Glow Blogs Advent 24
+
+date: 2024-12-04, from: John's World Wide Wall Display
+
+I’d be delighted to hear from others using H5P in Glow Blogs and am alway interested to talk to anyone about these topics. 
+
+<br> 
+
+<https://johnjohnston.info/blog/glow-blogs-advent-24/>
+
+---
+
+##  The War on Poverty Is Over. Rich People Won. &#8220;Why do so... 
+
+date: 2024-12-04, updated: 2024-12-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045778-the-war-on-poverty-is>
+
+---
+
+## U.S. Officials Urge Americans to Use Encrypted Apps, for Texting and Calls, in Wake of Chinese Infiltration of Our Unencryped Telecom Network
+
+date: 2024-12-04, updated: 2024-12-04, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.nbcnews.com/tech/security/us-officials-urge-americans-use-encrypted-apps-cyberattack-rcna182694>
+
+---
+
+##  Jesus, this story about an IVF clinic mix-up&#8230; &#8220;Two couples in California... 
+
+date: 2024-12-04, updated: 2024-12-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045779-jesus-this-story-about-a>
+
+---
+
+## December 3, 2024
+
+date: 2024-12-04, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/152580804/b197656f09622f65723b693e0c603d6f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/152580804/b197656f09622f65723b693e0c603d6f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/december-3-2024-3f2>
+
+---
+
+##  The 2024 Kottke Holiday Gift Guide 
+
+date: 2024-12-04, updated: 2024-12-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/2024-kottke-holiday-gift-guide>
+
+---
+
+## A behind the scenes of how I create an edition of the WeAreDevelopers Dev Digest – 3 hours in 1 minute speedrun
+
+date: 2024-12-04, from: Chris Heilmann's blog
+
+I write a newsletter every week at https://wearedevelopers.com/newsletter with 150k subscribers. Today I recorded the 3 hours I spent putting the current edition together. Here it is sped up to one minute. I use my browser, lots of copy + paste and VS Code. 
+
+<br> 
+
+<https://christianheilmann.com/2024/12/04/a-behind-the-scenes-of-how-i-create-an-edition-of-the-wearedevelopers-dev-digest-3-hours-in-1-minute-speedrun/>
+
+---
+
+##  Bloomberg Businessweek&#8217;s Jealousy List for 2024, &#8220;We&#8217;ve asked our editors & contributors... 
+
+date: 2024-12-04, updated: 2024-12-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045773-bloomberg-businessweeks-j>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-04, from: Dave Winer's Scripting News)
+
+I am definitely the last person to hear about <a href="https://www.listennotes.com/">ListenNotes search engine</a> for podcasts. It's incredible. Just starting to explore its capabilities. 
+
+<br> 
+
+<http://scripting.com/2024/12/04.html#a154316>
+
+---
+
+##  A universal &#8220;Plug and Charge&#8221; framework for EV charging is rolling out... 
+
+date: 2024-12-04, updated: 2024-12-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045772-a-universal-plug-and-char>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-04, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/11/27/rssClub.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I filled out the <a href="https://this.how/podcasting/">Podcast Ideas page</a> I started as a placeholder on Nov 30. If you have a friend who works on a podcast client, please send them a pointer to this <a href="https://this.how/podcasting/">piece</a>, or link to it from your social web accounts on Mastodon, Bluesky, Threads or via your blog. Let's nurture and feed new features to the open podcast world, ones that helps creators and influencers build new networks that can only work outside of the silos. It's time to start moving the market again, it's been stagnant for far too long. 
+
+<br> 
+
+<http://scripting.com/2024/12/04.html#a150941>
 
 ---
 

@@ -1,11 +1,35 @@
 ---
 title: craft
-updated: 2024-12-04 07:05:47
+updated: 2024-12-05 07:05:49
 ---
 
 # craft
 
-(date: 2024-12-04 07:05:47)
+(date: 2024-12-05 07:05:49)
+
+---
+
+## A Collection of Mid-18th-century French Tools
+
+date: 2024-12-05, from: Lost Arg Press blog
+
+Several weeks ago I came across an illustrated collection of tools held by Bibliothèque et Archives nationales du Québec (BAnQ). The approximate date of the collection is 1740, which pre-dates Roubo’s “l’art du Menuisier.”  The collection, acquired in 1970, includes 84 illustrations. In the BAnQ’s description it is noted the illustrations may be from a... 
+
+<br> 
+
+<https://blog.lostartpress.com/2024/12/05/a-collection-of-mid-18th-century-french-tools/>
+
+---
+
+## 2024 Anarchist’s Gift Guide: Day 9
+
+date: 2024-12-05, from: Lost Arg Press blog
+
+Day 9: Infinity Stamps If you want a fantastic logo stamp, contact Infinity Stamps. The company’s designers will create a stamp for you based on a sketch or whatever else you have, or you can send a vector file. Infinity is fast and great to deal with. Chris has three (or it is four?) stamps... 
+
+<br> 
+
+<https://blog.lostartpress.com/2024/12/05/2024-anarchists-gift-guide-day-9/>
 
 ---
 

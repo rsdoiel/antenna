@@ -1,11 +1,37 @@
 ---
 title: libraries
-updated: 2024-12-04 07:05:45
+updated: 2024-12-05 07:05:47
 ---
 
 # libraries
 
-(date: 2024-12-04 07:05:45)
+(date: 2024-12-05 07:05:47)
+
+---
+
+## Access to Science & Scholarship: An Interview with Amy Brand of MIT Press
+
+date: 2024-12-05, from: Scholarly Kitchen
+
+<p>On September 20, 2024, MIT Press hosted a workshop, Access to Science &#38; Scholarship:  An Evidence Base to Support the Future of Open Research Policy. I interviewed Amy Brand to discuss the goals and outcomes of the workshop.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/12/05/access-to-science-scholarship-an-interview-with-mit-presss-amy-brand/">Access to Science &#038; Scholarship: An Interview with Amy Brand of MIT Press</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2024/12/05/access-to-science-scholarship-an-interview-with-mit-presss-amy-brand/>
+
+---
+
+## Data Collection for Inkube: An all-in-one solution for neuron culturing, electrophysiology, and fluidic exchange
+
+date: 2024-12-05, from: ETH Zurich, recently added
+
+Maurer, Benedikt 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/705950>
 
 ---
 
@@ -51,7 +77,7 @@ A murder at a country house embroils its weekend guests in an international regi
 
 date: 2024-12-03, from: Association of Research Libraries News
 
-<p>Last Updated on December 3, 2024, 4:01 pm ET Sign up to receive the Day in Review by email. Jump to: Wednesday, December 4 &#124; Thursday, December 5 Tuesday, December...</p>
+<p>Last Updated on December 4, 2024, 4:40 pm ET Sign up to receive the Day in Review by email. Jump to: Wednesday, December 4 &#124; Thursday, December 5 Tuesday, December...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-december-3-5/">Day in Review (December 3–5)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

@@ -1,11 +1,205 @@
 ---
 title: food
-updated: 2024-12-04 07:05:46
+updated: 2024-12-05 07:05:48
 ---
 
 # food
 
-(date: 2024-12-04 07:05:46)
+(date: 2024-12-05 07:05:48)
+
+---
+
+## Coffee Gift Guides 2024: Coffee Box Sets, Gift Packs, And Brewers
+
+date: 2024-12-05, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. A very gift set gift guide. 
+
+<br> 
+
+<https://sprudge.com/coffee-gift-guides-2024-coffee-box-sets-gift-packs-and-brewers-260786.html>
+
+---
+
+## New Investment Firm Sojourner Acquires Hawaii Coffee Company
+
+date: 2024-12-05, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Sojourner-coffee-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Sojourner coffee" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Sojourner-coffee-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Sojourner-coffee-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Sojourner-coffee-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Sojourner-coffee-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Sojourner-coffee.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A private investment firm led by the past chairman of Canada&#8217;s Kicking Horse Coffee made an undisclosed investment in Honolulu-based Hawaii Coffee Company, one of the largest coffee roasting and... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/05/new-investment-firm-sojourner-acquires-hawaii-coffee-company/>
+
+---
+
+## 3 New Coffee Kickstarters To Kick Off Your Holiday Season
+
+date: 2024-12-05, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Coffee gear ahoy! 
+
+<br> 
+
+<https://sprudge.com/3-new-coffee-kickstarters-to-kick-off-your-holiday-season-260778.html>
+
+---
+
+## The Best Trader Joe’s Christmas Items for 2024, Ranked
+
+date: 2024-12-05, from: Taste of Home
+
+<p>It's the best time of year to share a good treat with family and friends. Here are the best Trader Joe's Christmas items to stock up on for seasonal snacking.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/trader-joes-christmas-2024/">The Best Trader Joe&#8217;s Christmas Items for 2024, Ranked</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/trader-joes-christmas-2024/>
+
+---
+
+## Sweet Potato Beef Stew
+
+date: 2024-12-05, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2024/12/Sweet-Potato-Beef-Stew-1200-0854.jpg"/></div>
+<p>A fall harvest beef stew with sweet potatoes and a hint of apples and cinnamon. With the cooling weather I have been craving more hearty stews like this fall harvest inspired beef stew! This is a pretty basic beef stew with beef and potatoes in a broth where some of the potatoes are replaced with...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/sweet-potato-beef-stew/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/sweet-potato-beef-stew/">Sweet Potato Beef Stew</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/sweet-potato-beef-stew/>
+
+---
+
+## Parsnips With Spiced Peanuts and Garlic Yogurt
+
+date: 2024-12-05, from: Bon Appetet
+
+A simple stovetop method brings out the best in this earthy root veg. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/parsnips-spiced-peanuts-garlic-yogurt>
+
+---
+
+## Bacon Gravy
+
+date: 2024-12-05, from: Taste of Home
+
+This bacon gravy recipe is so good that you'll want to eat it with a spoon (no biscuits required)! With its crispy bacon bits and creamy consistency, it makes any breakfast perfectly indulgent. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/bacon-gravy/>
+
+---
+
+## Curried Lentil Soup With Coconut and Tomatoes
+
+date: 2024-12-04, from: Bon Appetet
+
+A creamy, curried soup you can make on a weeknight, no sweat. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/curried-lentil-tomato-and-coconut-soup>
+
+---
+
+## This HexClad Skillet Is the Best Piece of Cookware to Buy in 2024
+
+date: 2024-12-04, from: Taste of Home
+
+<p>There's a lot to love about this trendy pan. Here's why HexClad earned our "Best Cookware of 2024" award. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/best-of-2024-hexclad-skillet/">This HexClad Skillet Is the Best Piece of Cookware to Buy in 2024</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/best-of-2024-hexclad-skillet/>
+
+---
+
+## McDonald’s Just Dropped Christmas Sweaters That You Need to See
+
+date: 2024-12-04, from: Taste of Home
+
+<p>You'll do anything but grimace in McDonald's sweaters fit for an ugly Christmas sweater party.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/mcdonalds-holiday-sweaters-2024/">McDonald&#8217;s Just Dropped Christmas Sweaters That You Need to See</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/mcdonalds-holiday-sweaters-2024/>
+
+---
+
+## The Best Kitchen Products We Tested in 2024, According to Taste of Home Editors
+
+date: 2024-12-04, from: Taste of Home
+
+<p>After testing over 1,500 products in 2024, these are the best of the best. </p>
+<p>The post <a href="https://www.tasteofhome.com/collection/best-kitchen-products-2024/">The Best Kitchen Products We Tested in 2024, According to &lt;i&gt;Taste of Home&lt;/i&gt; Editors</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/best-kitchen-products-2024/>
+
+---
+
+## The Bissell Steam Shot Is BACK and Better Than Ever
+
+date: 2024-12-04, from: Taste of Home
+
+<p>Bissell recalled the Steam Shot last year. Now, the new Bissell Steam Shot OmniReach is here—and it's affordable, safer and just as effective!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/bissell-steam-shot-omnireach/">The Bissell Steam Shot Is BACK and Better Than Ever</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/bissell-steam-shot-omnireach/>
+
+---
+
+## Ghost Farming: A Scathing New Report Alleges Harmful Labor Practices At Coffee Farms In Yunnan
+
+date: 2024-12-04, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. A loophole that allows brands like Starbucks and Nestle to sell "laundered" coffee as ethical. 
+
+<br> 
+
+<https://sprudge.com/ghost-farming-a-scathing-new-report-alleges-harmful-labor-practices-at-coffee-farms-in-yunnan-260713.html>
+
+---
+
+## Labor Violations Alleged in Starbucks and Nestlé Supply Chains in China
+
+date: 2024-12-04, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/green-coffee-620x414.jpg" class="attachment-large size-large wp-post-image" alt="green coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/green-coffee-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/green-coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/green-coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/green-coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/green-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Independent field investigations in China&#8217;s Yunnan Province found labor violations at coffee farms that supply coffees purchased and certified as sustainable by coffee giants Starbucks and Nestlé, according to a... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/04/labor-violations-alleged-in-starbucks-and-nestle-supply-chains-in-china/>
+
+---
+
+## A Cell-Cultured Coffee Movement is Rapidly Advancing
+
+date: 2024-12-04, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/Yeretzian-2_lab-620x414.jpeg" class="attachment-large size-large wp-post-image" alt="Prof. Charan Yeretzian" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/Yeretzian-2_lab-620x414.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Yeretzian-2_lab-300x200.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Yeretzian-2_lab-150x100.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Yeretzian-2_lab-768x512.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Yeretzian-2_lab.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Traditional coffee, or farm-grown coffee, is struggling to keep pace with the demands of modern consumption. With global demand expected to continue rising through 2050 and beyond, the strain on... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/04/a-cell-cultured-coffee-movement-is-rapidly-advancing/>
 
 ---
 
@@ -83,7 +277,7 @@ date: 2024-12-03, from: Taste of Home
 
 date: 2024-12-03, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/3Temp-620x414.jpg" class="attachment-large size-large wp-post-image" alt="3Temp" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/3Temp-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/3Temp-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/3Temp-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/3Temp-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/3Temp.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Italian coffee equipment conglomerate Simonelli Group, owner of the Victoria Arduino and Nuova Simonelli brands, has acquired Swedish drip coffee machine maker 3Temp. For Simonelli Group, whose portfolio of brands... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/3Temp-620x414.jpg" class="attachment-large size-large wp-post-image" alt="3Temp" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/3Temp-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/3Temp-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/3Temp-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/3Temp-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/3Temp.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Italian coffee equipment conglomerate Simonelli Group, owner of the Victoria Arduino and Nuova Simonelli brands, has acquired Swedish drip coffee machine maker 3Temp. For Simonelli Group, whose portfolio of brands... 
 
 <br> 
 
@@ -123,7 +317,7 @@ date: 2024-12-03, from: Taste of Home
 
 date: 2024-12-03, from: Daily Coffee News
 
-<div><img width="620" height="411" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/drinking-coffee-620x411.jpg" class="attachment-large size-large wp-post-image" alt="drinking coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/drinking-coffee-620x411.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/drinking-coffee-300x199.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/drinking-coffee-150x99.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/drinking-coffee-768x509.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/drinking-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A major academic review of coffee-and-health-related literature over the past two decades found that regular moderate coffee consumption is associated with decreased all-cause mortality and chronic diseases. Key Findings Regular... 
+<div><img width="620" height="411" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/drinking-coffee-620x411.jpg" class="attachment-large size-large wp-post-image" alt="drinking coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/drinking-coffee-620x411.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/drinking-coffee-300x199.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/drinking-coffee-150x99.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/drinking-coffee-768x509.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/drinking-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A major academic review of coffee-and-health-related literature over the past two decades found that regular moderate coffee consumption is associated with decreased all-cause mortality and chronic diseases. Key Findings Regular... 
 
 <br> 
 
@@ -147,7 +341,7 @@ Hint: For us, it always comes back to food.
 
 date: 2024-12-03, from: Daily Coffee News
 
-<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/Little-Victories-Coffee-Ottawa-cafe-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Little Victories Coffee Ottawa cafe" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/Little-Victories-Coffee-Ottawa-cafe-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Little-Victories-Coffee-Ottawa-cafe-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Little-Victories-Coffee-Ottawa-cafe-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Little-Victories-Coffee-Ottawa-cafe-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Little-Victories-Coffee-Ottawa-cafe.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Ottawa, Ontario-based coffee roaster and retailer Little Victories opened its third location earlier this year, just three blocks away from its existing locus in the bustling downtown core. With a... 
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/Little-Victories-Coffee-Ottawa-cafe-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Little Victories Coffee Ottawa cafe" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/Little-Victories-Coffee-Ottawa-cafe-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Little-Victories-Coffee-Ottawa-cafe-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Little-Victories-Coffee-Ottawa-cafe-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Little-Victories-Coffee-Ottawa-cafe-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Little-Victories-Coffee-Ottawa-cafe.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Ottawa, Ontario-based coffee roaster and retailer Little Victories opened its third location earlier this year, just three blocks away from its existing locus in the bustling downtown core. With a... 
 
 <br> 
 

@@ -1,11 +1,443 @@
 ---
 title: science and technology
-updated: 2024-12-04 07:05:44
+updated: 2024-12-05 07:05:46
 ---
 
 # science and technology
 
-(date: 2024-12-04 07:05:44)
+(date: 2024-12-05 07:05:46)
+
+---
+
+## How Is Cell Death Essential to Life?
+
+date: 2024-12-05, from: Quanta Magazine
+
+Cells in our bodies are constantly dying — and these countless tiny deaths are essential to human health and multicellular life itself. In this episode, co-host Steven Strogatz speaks with cellular biologist Shai Shaham about what makes a cell “alive” and the latest developments in understanding how and why cells die.            <p>The post <a href="https://www.quantamagazine.org/how-is-cell-death-essential-to-life-20241205/" target="_blank">How Is Cell Death Essential to Life?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/how-is-cell-death-essential-to-life-20241205/>
+
+---
+
+## Wish there was a benchmark for ML safety? Allow us to AILuminate you...
+
+date: 2024-12-05, updated: 2024-12-05, from: The Register (UK I.T. News)
+
+<h4>Very much a 1.0 – but it&#39;s a solid start</h4> <p>MLCommons, an industry-led AI consortium, on Wednesday introduced AILuminate – a benchmark for assessing the safety of large language models in products.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/05/mlcommons_ai_safety_benchmark/>
+
+---
+
+## Vodafone and Three permitted to tie the knot – if they promise to behave
+
+date: 2024-12-05, updated: 2024-12-05, from: The Register (UK I.T. News)
+
+<h4>Merger will create third large operator in UK mobile market</h4> <p>Vodafone and Three&#39;s proposed merger has been cleared by the UK&#39;s competition watchdog, as long as the pair commit to certain conditions. The move will create a third large-scale mobile operator, with the expectation this will offer greater competition for BT/EE and Virgin Media O2 (VMO2).…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/05/cma_vodafone_three_approved/>
+
+---
+
+## British hospitals hit by cyberattacks still battling to get systems back online
+
+date: 2024-12-05, updated: 2024-12-05, from: The Register (UK I.T. News)
+
+<h4>Children&#39;s hospital and cardiac unit say criminals broke in via shared &#39;digital gateway service&#39;</h4> <p>Both National Health Service trusts that oversee the various hospitals hit by separate cyberattacks last week have confirmed they&#39;re still in the process of restoring systems.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/05/hospital_cyberattack/>
+
+---
+
+## Did Venus Have Oceans? This Surprising New Study Suggests Not, a Theory That Could Upend the Search for Extraterrestrial Life
+
+date: 2024-12-05, from: Smithsonian Magazine
+
+The astronomers behind the research looked to the output from the nearby planet's toxic volcanoes for clues 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/did-venus-have-oceans-surprising-new-study-suggests-not-theory-could-upend-180985579/>
+
+---
+
+## BT Group confirms attackers tried to break into Conferencing division
+
+date: 2024-12-05, updated: 2024-12-05, from: The Register (UK I.T. News)
+
+<h4>Sensitive data allegedly stolen from US subsidiary following Black Basta post</h4> <p>BT Group confirmed it is dealing with an attempted attack on one of its legacy business units after the Black Basta ransomware group claimed they broke in.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/05/bt_group_confirms_attempted_attack/>
+
+---
+
+## How an Extreme Combination of Fog and Air Pollution Brought London to a Standstill and Resulted in Thousands of Fatalities
+
+date: 2024-12-05, from: Smithsonian Magazine
+
+On this day in 1952, buses stood still, cars were abandoned in the street, and residents couldn't see even a few feet in front of themselves as the lethal Great Smog descended on the city 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/how-an-extreme-combination-of-fog-and-air-pollution-brought-london-to-a-standstill-and-resulted-in-thousands-of-fatalities-180985515/>
+
+---
+
+## Wubuntu: The lovechild of Windows and Linux nobody asked for
+
+date: 2024-12-05, updated: 2024-12-05, from: The Register (UK I.T. News)
+
+<h4>A third-party Kubuntu remix with a severe identity crisis</h4> <p>Wubuntu is a stripped-down Kubuntu, with custom themes and additional tools to make it look (a lot) and work (superficially) like Windows 11.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/05/wubuntu/>
+
+---
+
+## Ransomware hangover, Putin grudge blamed for vodka maker's bankruptcy
+
+date: 2024-12-05, updated: 2024-12-05, from: The Register (UK I.T. News)
+
+<h4>Stoli Group on the rocks in the US</h4> <p>Two US subsidiaries of alcohol giant Stoli Group filed for bankruptcy protection this week over financial difficulties exacerbated by an August ransomware attack.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/05/putin_ransomware_stoli_group/>
+
+---
+
+## Google DeepMind touts AI model for 'better' global weather forecasting
+
+date: 2024-12-05, updated: 2024-12-05, from: The Register (UK I.T. News)
+
+<h4>Bases predictions on historical data, instead of solving physics equations</h4> <p>Google DeepMind researchers claim they’ve used machine learning to devise a model that can deliver better 15-day weather forecasts and requires only modest quantities of compute resources to produce its predictions.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/05/google_deepmind_weather_model/>
+
+---
+
+## Temporary printable tattoos could be the future of EEGs
+
+date: 2024-12-05, updated: 2024-12-05, from: The Register (UK I.T. News)
+
+<h4>Boffins&#39; big brainwave of using custom skullcaps to capture, er, more brainwaves</h4> <p>Eggheads in the US are said to have created an easier, faster, and just-as-reliable but much cooler way to measure brain activity than the bulky, wire-ridden caps used today: Printable, temporary &#34;e-tattoos.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/05/brain_boffins_eeg_tattoos/>
+
+---
+
+## China encourages local orgs to seek alternatives to US silicon
+
+date: 2024-12-05, updated: 2024-12-05, from: The Register (UK I.T. News)
+
+<h4>Which could be in short supply as Beijing bans rare earth exports</h4> <p>Four of China&#39;s top industry bodies have published advice suggesting members source fewer semiconductors from US silicon slingers, because supply chain issues caused by sanctions mean they are &#34;no longer secure and reliable.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/05/china_stop_buying_us_chips_advice/>
+
+---
+
+## Chinese clouds target small and medium enterprises in APAC in search of growth
+
+date: 2024-12-05, updated: 2024-12-05, from: The Register (UK I.T. News)
+
+<h4>Smaller buyers see deep discounts and suddenly worry less about regulatory issues</h4> <p><strong>Canalys Forums APAC</strong>  Chinese cloud vendors are undercutting their US counterparts on price and making inroads into the Asian small and medium business market, according to analyst firm Canalys.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/05/chinese_cloud_vendor_apac_prices/>
+
+---
+
+## Broadcom makes U-turn on plan to serve top 2,000 VMware customers itself
+
+date: 2024-12-05, updated: 2024-12-05, from: The Register (UK I.T. News)
+
+<h4>Now wants to work with 500 and lean more on partners to defend against migrations – which Dell says are on the cards</h4> <p><strong>Canalys Forums APAC</strong>  Broadcom has revised its strategy to work directly with the top 2,000 &#34;strategic&#34; VMware users, and will instead focus on just 500 – a move that Canalys chief analyst Alastair Edwards described as &#34;a U-turn.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/05/vmware_user_migration_plans/>
+
+---
+
+## NATO tests aquatic drones to protect cables, coastlines
+
+date: 2024-12-05, updated: 2024-12-05, from: The Register (UK I.T. News)
+
+<h4>Floating the idea of a robot navy</h4> <p>NATO is testing hardware for a potential force that would operate unmanned surface vessels (USV) to patrol the coastal waters of member states and also help protect undersea cables from attack.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/05/nato_navy_drone/>
+
+---
+
+## T-Mobile US CSO: Spies jumped from one telco to another in a way 'I've not seen in my career'
+
+date: 2024-12-05, updated: 2024-12-05, from: The Register (UK I.T. News)
+
+<h4>Security chief talks to El Reg as Feds urge everyone to use encrypted chat</h4> <p><strong>interview</strong>  While Chinese-government-backed spies maintained access to US telecommunications providers&#39; networks for months – and in some cases still haven&#39;t been booted out – T-Mobile US thwarted successful attacks on its systems &#34;within a single-digit number of days,&#34; according to the carrier&#39;s security boss Jeff Simon.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/05/tmobile_cso_telecom_attack/>
+
+---
+
+## Fission impossible? Meta wants up to 4GW of American atomic power for AI
+
+date: 2024-12-04, updated: 2024-12-05, from: The Register (UK I.T. News)
+
+<h4>Facebook titan targets early 2030s for reactor deployment</h4> <p>Meta believes it will need one to four gigawatts of nuclear power, in additional to the energy it already consumes, to fuel its AI ambitions. As such, it will put out a request for proposals (RFP) to find developers capable of supplying that level of electricity in the United States by early 2030.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/04/meta_us_nuclear_power/>
+
+---
+
+## NASA Flips Efficient Wing Concept for Testing
+
+date: 2024-12-04, from: NASA breaking news
+
+Upside down can be right side up. That’s what NASA researchers determined for tests of an efficient wing concept that could be part of the agency’s answer to making future aircraft sustainable. Research from NASA’s Advanced Air Transport Technology project involving a 10-foot model could help NASA engineers validate the concept of the Transonic Truss-Braced [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/armstrong/nasa-flips-efficient-wing-concept-for-testing/>
+
+---
+
+## Trump wants SpaceX customer Jared Isaacman as next NASA boss
+
+date: 2024-12-04, updated: 2024-12-04, from: The Register (UK I.T. News)
+
+<h4>Billionaire space tourist and mate of Elon pledges Americans will get to Mars</h4> <p>President-elect Donald Trump has nominated Jared Isaacman, a notable SpaceX customer, as head of NASA.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/04/trump_nasa_boss/>
+
+---
+
+## Hidden Entrance to a Mysterious Ancient Temple Found Tucked Away in an Egyptian Cliff Face
+
+date: 2024-12-04, from: Smithsonian Magazine
+
+Researchers have been carefully excavating the artifacts and decorative reliefs found at the 2,100-year-old site in the ancient city of Athribis 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/hidden-entrance-to-a-mysterious-ancient-temple-found-tucked-away-in-an-egyptian-cliff-face-180985580/>
+
+---
+
+## Amazon accused of cheating low-income Prime users out of two-day deliveries
+
+date: 2024-12-04, updated: 2024-12-04, from: The Register (UK I.T. News)
+
+<h4>Lawsuit says e-commerce giant cut two zip codes from its own fleet without telling residents</h4> <p>Amazon has trouble in the US capital, where the city&#39;s attorney general alleged in a lawsuit filed today that the company excluded two postal zip codes from its fastest Prime delivery service without informing customers. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/04/washington_dc_amazon_prime/>
+
+---
+
+## The Best Books of 2024, as Chosen by Smithsonian Scholars
+
+date: 2024-12-04, from: Smithsonian Magazine
+
+Staff at the Institution pick their favorite reads of the year, including riveting memoirs, fascinating true histories and fun fiction 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-best-books-of-2024-as-chosen-by-smithsonian-scholars-180985583/>
+
+---
+
+## I am Artemis: Mike Lauer
+
+date: 2024-12-04, from: NASA breaking news
+
+Mike Lauer, an engineer who works for the Aerojet Rocketdyne segment of L3Harris Technologies, found his career inspiration in science fiction, but for the perspective it takes to execute complex space programs, he draws on real-world experience. Growing up, Lauer spent many cold winter nights in the basement of his Sioux Falls, South Dakota, home, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/i-am-artemis-mike-lauer/>
+
+---
+
+## Directivos de la NASA ofrecerán información actualizada sobre Artemis
+
+date: 2024-12-04, from: NASA breaking news
+
+Read this release in English&#160;here. El administrador de la NASA, Bill Nelson, y otros directivos darán una rueda de prensa el jueves 5 de diciembre a la 1 p.m. EST (hora del este de EE.UU.) en la sede de la agencia en Washington para proporcionar información sobre la campaña Artemis de la agencia. El evento [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/directivos-de-la-nasa-ofreceran-informacion-actualizada-sobre-artemis/>
+
+---
+
+## The Arctic Could Have Its First 'Ice-Free' Day by as Early as 2027
+
+date: 2024-12-04, from: Smithsonian Magazine
+
+In a new study, scientists used climate models to predict the alarming milestone 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-arctic-could-have-its-first-ice-free-day-by-as-early-as-2027-180985582/>
+
+---
+
+## NASA Leadership to Provide Update on Artemis Campaign
+
+date: 2024-12-04, from: NASA breaking news
+
+Lee esta nota de prensa en español&#160;aquí. NASA Administrator Bill Nelson and leadership will hold a news conference at 1 p.m. EST, Thursday, Dec. 5, at the agency’s headquarters in Washington to provide a briefing about the agency’s Artemis campaign. Watch the media event on&#160;NASA+. Learn how to&#160;stream NASA content&#160;through a variety of platforms, including [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-leadership-to-provide-update-on-artemis-campaign/>
+
+---
+
+## Microsoft confirms there will be no U-turn on Windows 11 hardware requirements
+
+date: 2024-12-04, updated: 2024-12-04, from: The Register (UK I.T. News)
+
+<h4>TPM 2.0 &#39;non-negotiable&#39; for latest OS, says software giant</h4> <p>Microsoft is not backing down on the hardware requirements for Windows 11, stating that the Trusted Platform Module (TPM) is essential for the operating system, even if it is not part of the minimum requirements for Windows Server 2025.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/04/microsoft_windows_11_tpm/>
+
+---
+
+## X-Rays Reveal a Tiny 19th-Century Beetle Embedded in a Paul Gauguin Painting
+
+date: 2024-12-04, from: Smithsonian Magazine
+
+A new analysis of the artist's "The Little Cat" has uncovered a wealth of new information about the strange artwork—including the one-millimeter-long creature 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/x-rays-reveal-a-tiny-19th-century-beetle-embedded-in-a-paul-gauguin-painting-180985570/>
+
+---
+
+## Europe's Vega C rocket cleared for launch tonight, first since 2022
+
+date: 2024-12-04, updated: 2024-12-04, from: The Register (UK I.T. News)
+
+<h4>Nozzle woes in the past for continent&#39;s new launcher</h4> <p>Arianespace&#39;s Vega C is set to make a return to flight this evening, almost two years to the day after a second-stage failure doomed its previous launch.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/04/arianespace_vega_c_launch/>
+
+---
+
+## See the Sombrero Galaxy Like Never Before, as the James Webb Telescope Captures It in Unprecedented Detail
+
+date: 2024-12-04, from: Smithsonian Magazine
+
+The mid-infrared light image shows astronomical features that can’t be seen with visible light cameras or in previous infrared views—and in this shot, the galaxy doesn’t look much like a Sombrero anymore 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/see-the-sombrero-galaxy-like-never-before-as-the-james-webb-telescope-captures-it-in-unprecedented-detail-180985568/>
+
+---
+
+## NASA’s C-20A Studies Extreme Weather Events
+
+date: 2024-12-04, from: NASA breaking news
+
+On a changing planet, where phenomena like severe hurricanes, landslides, and wildfires are becoming more severe, scientists need data to assess and model disaster impacts and to potentially make predictions about hazards. NASA’s C-20A aircraft is a significant asset that can carry key instruments for understanding the science behind these phenomena.&#160; Based at NASA’s Armstrong [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/armstrong/nasas-c-20a-studies-extreme-weather-events/>
+
+---
+
+## 2024 AGU Fall Meeting Hyperwall Schedule
+
+date: 2024-12-04, from: NASA breaking news
+
+NASA Science at AGU Fall Meeting Hyperwall Schedule, December 9-12, 2024 Join NASA in the Exhibit Hall (Booth #719) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. ***Copies of the 2025 NASA Science Calendar will be distributed at the NASA Exhibit at the start of each day.*** MONDAY, DECEMBER 9  3:20 – 3:40 PM From […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/earth-science/2024-agu-fall-meeting-hyperwall-schedule/>
+
+---
+
+## Microsoft learned of fresh antitrust probe from the news
+
+date: 2024-12-04, updated: 2024-12-04, from: The Register (UK I.T. News)
+
+<h4>Never mind our alleged cheating of customers – you guys are a bunch of leakers, Redmond tells watchdog</h4> <p>Microsoft isn&#39;t happy about an antitrust investigation reportedly kicked off by the FTC recently, but not for the reason you might think: Redmond&#39;s mad that it found out about the probe by reading the news. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/04/microsoft_ftc_antitrust_leak/>
+
+---
+
+## A New Subway System in Greece Is Decorated With the Artifacts Unearthed During Its Construction
+
+date: 2024-12-04, from: Smithsonian Magazine
+
+An ancient marble thoroughfare and shards of classical pottery are on display in the city of Thessaloniki's new underground "archaeo-stations" 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-new-subway-system-in-greece-is-decorated-with-the-artifacts-unearthed-during-its-construction-180985571/>
+
+---
+
+## Cops arrest suspected admin of German-language crime bazaar
+
+date: 2024-12-04, updated: 2024-12-04, from: The Register (UK I.T. News)
+
+<h4>Drugs, botnets, forged docs, and more generated fortune for platform sellers</h4> <p>German authorities say they have again shut down the perhaps unwisely named Crimenetwork platform and arrested a suspected admin.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/04/germany_crimenetwork_arrest/>
+
+---
+
+## Expanded AI Model with Global Data Enhances Earth Science Applications
+
+date: 2024-12-04, from: NASA breaking news
+
+NASA, IBM, and Forschungszentrum Jülich have released an expanded version of the open-source Prithvi Geospatial artificial intelligence (AI) foundation model to support a broader range of geographical applications. Now, with the inclusion of global data, the foundation model can support tracking changes in land use, monitoring disasters, and predicting crop yields worldwide.  The Prithvi Geospatial […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/ai-geospatial-model-earth/>
 
 ---
 
@@ -215,9 +647,9 @@ date: 2024-12-04, updated: 2024-12-04, from: The Register (UK I.T. News)
 
 ## Perfect 10 directory traversal vuln hits SailPoint's IAM solution
 
-date: 2024-12-03, updated: 2024-12-03, from: The Register (UK I.T. News)
+date: 2024-12-03, updated: 2024-12-05, from: The Register (UK I.T. News)
 
-<h4>20-year-old info disclosure class bug still pervades security software</h4> <p>It&#39;s time to rev up those patch engines after SailPoint disclosed a perfect 10/10 severity vulnerability in its identity and access management (IAM) platform IdentityIQ.…</p> 
+<h4>20-year-old info disclosure class bug still pervades security software</h4> <p><strong>Updated</strong>  It&#39;s time to rev up those patch engines after SailPoint disclosed a perfect 10/10 severity vulnerability in its identity and access management (IAM) platform IdentityIQ.…</p> 
 
 <br> 
 

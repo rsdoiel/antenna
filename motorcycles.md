@@ -1,11 +1,96 @@
 ---
 title: motorcycles
-updated: 2024-12-04 07:05:46
+updated: 2024-12-05 07:05:48
 ---
 
 # motorcycles
 
-(date: 2024-12-04 07:05:46)
+(date: 2024-12-05 07:05:48)
+
+---
+
+## Decide Where To Put This Stupid Twin-Turbo Hayabusa V8, Then Buy It
+
+date: 2024-12-05, from: Ride Apart, Electric Motorcycle News
+
+More horsepower than a 9-year-old Lamborghini Aventador, and just listen to it. 
+
+<br> 
+
+<https://www.rideapart.com/news/743205/twin-turbo-hayabusa-v8-engine-project/>
+
+---
+
+## Segway Assembles Team and Motorcycle to Not Race the Dakar Rally
+
+date: 2024-12-05, from: Ride Apart, Electric Motorcycle News
+
+It's not technically a race, but we'll get to see what a Segway motorcycle can do. 
+
+<br> 
+
+<https://www.rideapart.com/news/743180/segway-mission-1000-dakar-motorcycle-2025/>
+
+---
+
+## Can-Am's New EV Motorcycles Could Become $4,000 More Expensive Come January 20th
+
+date: 2024-12-05, from: Ride Apart, Electric Motorcycle News
+
+Are you ready to drop nearly $20,000 on these machines?  
+
+<br> 
+
+<https://www.rideapart.com/news/743260/can-am-origin-pulse-ev-motorcycle-mexico-canada-tariff-trump/>
+
+---
+
+## Continental Overhauls TKC80 Dual-Sport Tire, Now Stronger Than Ever Before
+
+date: 2024-12-05, from: Ride Apart, Electric Motorcycle News
+
+A new manufacturing process is said to improve performance and durability.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/743001/2025-continental-tkc80-dual-sport-tires/>
+
+---
+
+## Is This Under $300 Pit Bike the Sketchiest New Two-Wheeler You Can Buy?
+
+date: 2024-12-04, from: Ride Apart, Electric Motorcycle News
+
+Maybe not if you're the eight-year-old it's meant for? 
+
+<br> 
+
+<https://www.rideapart.com/news/743119/cheapest-internet-pit-bike-test/>
+
+---
+
+## Honda Issues Recall and Stop Sale On Some Africa Twins Due To Software Issue
+
+date: 2024-12-04, from: Ride Apart, Electric Motorcycle News
+
+Affected bikes could have their engines hesitate unexpectedly, clearly something no rider wants. 
+
+<br> 
+
+<https://www.rideapart.com/news/743101/honda-africa-twin-software-recall/>
+
+---
+
+## New Jersey Is Closing Public Land Trails, Local Off-Roaders and Residents Are Pissed
+
+date: 2024-12-04, from: Ride Apart, Electric Motorcycle News
+
+Complaints about the plan have, apparently, been ignored. 
+
+<br> 
+
+<https://www.rideapart.com/news/743094/new-jersey-dep-wharton-state-forest-closures-ohv/>
 
 ---
 

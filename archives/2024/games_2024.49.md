@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2024-12-04 07:05:45
+updated: 2024-12-05 07:05:47
 ---
 
 # games
 
-(date: 2024-12-04 07:05:45)
+(date: 2024-12-05 07:05:47)
+
+---
+
+## The 50 best video games of 2024
+
+date: 2024-12-05, updated: 2024-12-05, from: Polygon Website
+
+2024 could be mistaken, at first blush, as a down year for video games. The AAA publishers that once dominated the industry produced comparatively few offerings, with entries in popular franchises like Assassin’s Creed and Grand Theft Auto held for 2025. Nintendo didn’t release the successor to the aging Switch. And neither Microsoft nor Sony [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-play/24078256/best-video-games-2024>
+
+---
+
+## What is the gameplay like in Infinity Nikki?
+
+date: 2024-12-05, updated: 2024-12-05, from: Polygon Website
+
+You’ll start Infinity Nikki in a pretty straightforward story, but at its core, it’s a gacha mobile game. That means Infinity Nikki comes with all the expected systems: rolling for outfits, stamina that replenishes over time but has a cap, and some kind of upgrading system. However, as you play, you may wonder what the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/infinity-nikki-guides/490201/gameplay-loop-leveling-equips-upgrades>
+
+---
+
+## How to get more clothes in Infinity Nikki
+
+date: 2024-12-05, updated: 2024-12-05, from: Polygon Website
+
+Clothes make the world go ‘round in Infinity Nikki. Nikki is a stylist, meaning that she’ll need a diverse closet of gear that you’ll be able to set her up in. Whether you’re looking for clothes to take on styling duels or you just want to set up Nikki in a variety of cute outfits, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/infinity-nikki-guides/490048/where-to-get-clothes-shops-free-unlock-sketches>
+
+---
+
+## Infinity Nikki codes for December 2024
+
+date: 2024-12-05, updated: 2024-12-05, from: Polygon Website
+
+Infinity Nikki has codes to redeem that give you goodies, just like many other modern mobile games on the market. You won’t want to miss out on using these codes, since they expire and they actually give some pretty good loot, like premium currency. Below we list all the active codes in Infinity Nikki for [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/infinity-nikki-guides/490118/codes-list-redeem-diamonds-revelation-crystals>
+
+---
+
+## 10 beginner’s tips to know before starting Infinity Nikki
+
+date: 2024-12-05, updated: 2024-12-04, from: Polygon Website
+
+Infinity Nikki is the comfy open-world mobile game that Nikki fans have been waiting for. Even if you’re not into the previous Nikki games, there’s a lot that this big world has to offer if you love collecting items, exploring huge landscapes, or just dressing up in cute outfits. If you’re not familiar with the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/infinity-nikki-guides/489467/beginners-tips-tricks-whimstars-builds>
+
+---
+
+## Terror Camp is a fandom-led, thriller-inspired conference you shouldn’t miss
+
+date: 2024-12-05, updated: 2024-12-05, from: Polygon Website
+
+In early October, a certain sector of the internet blew up over an incredible revelation: DNA analysis had identified skeletal remains from the 1845 Franklin expedition as belonging to Captain James Fitzjames. Also, judging by knife marks on the skeleton’s mandible, it seems as if the surviving crew had cannibalized his face. The identification of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/culture/491123/terror-camp-conference-sign-up>
+
+---
+
+## A newly surfaced Hawkeye deleted scene is a defining moment for the Marvel hero
+
+date: 2024-12-04, updated: 2024-12-04, from: Polygon Website
+
+Of all the superheroes in the original lineup, I wouldn’t expect Hawkeye to have one of the most interesting backstories. But as it turns out, he’s not just an Average Dude with a Wife and Kids — he and his mom were criminals who traveled around the country robbing convenience stores.&#160; A new deleted scene, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/491092/hawkeye-season-1-deleted-scene-young-clint-barton>
+
+---
+
+## Where to find the elusive updated 2024 Dungeons &#038; Dragons character sheet
+
+date: 2024-12-04, updated: 2024-12-04, from: Polygon Website
+
+For all the claims of backward compatibility, there have been a lot of hiccups in the transition from Dungeons &#38; Dragons 5e to the updated 2024 version. D&#38;D Beyond, the official virtual compendium, has become the de facto front page for the game since Wizards of the Coast acquired the site in 2022, but (anecdotally, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dnd-dungeons-dragons/491005/2024-character-sheet-where-to-find>
+
+---
+
+## Indie game Ikeelya dares to ask: What if an assassin loved designing breakfast nooks?
+
+date: 2024-12-04, updated: 2024-12-04, from: Polygon Website
+
+Do what you love, they say, and you’ll never work a day in your life. In the indie game Ikeelya, I’m doing that by balancing my day job as a patient, relentless assassin with my true love — crafting cozy living rooms. Ikeelya mixes the joy of browsing an Ikea catalog with the pressure of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/490131/ikeelya-indie-sniper-interior-decoration-game>
+
+---
+
+## This $18 Free League TTRPG bundle blows Cyber Monday deals out of the water
+
+date: 2024-12-04, updated: 2024-12-04, from: Polygon Website
+
+Through Dec. 19, you can buy a huge bundle of TTRPGs from Free League Publishing for just $18 at Humble. This bundle includes a total of 29 core rulebooks and supplements for some of its best games, including Tales from the Loop, Coriolis, Twilight: 2000, Mutant: Year Zero, Dragonbane, Forbidden Lands, and Symbaroum. So long [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/490588/free-league-ttrpg-tabletop-rpg-publishing-humble-bundle>
 
 ---
 
