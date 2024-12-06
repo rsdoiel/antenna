@@ -1,11 +1,86 @@
 ---
 title: motorcycles
-updated: 2024-12-05 07:05:48
+updated: 2024-12-06 07:05:08
 ---
 
 # motorcycles
 
-(date: 2024-12-05 07:05:48)
+(date: 2024-12-06 07:05:08)
+
+---
+
+## This New Small-Displacement Chinese Adventure Bike Could Be A Big Deal
+
+date: 2024-12-06, from: Ride Apart, Electric Motorcycle News
+
+Morbidelli’s T502X might just give birth to a wide range of capable, small-displacement ADV bikes. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/743299/morbidelli-t502x-unveiled-potential-big-deal/>
+
+---
+
+## A Snowmobile Tour Guide Caused a Bison Stampede in Yellowstone National Park
+
+date: 2024-12-06, from: Ride Apart, Electric Motorcycle News
+
+What an idiot.  
+
+<br> 
+
+<https://www.rideapart.com/news/743418/snowmobile-tour-guide-bison-stampede-yellowstone/>
+
+---
+
+## Would You Ride This Weird Solar-Powered Electric Scooter?
+
+date: 2024-12-06, from: Ride Apart, Electric Motorcycle News
+
+Maybe if it was the only way to get around after the end of the world.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/743297/otherlab-lightfoot-solar-powered-escooter/>
+
+---
+
+## I Can't Believe Someone Actually Built This Lil Guy
+
+date: 2024-12-06, from: Ride Apart, Electric Motorcycle News
+
+Wait, no, I totally can. 
+
+<br> 
+
+<https://www.rideapart.com/news/743293/ibishu-pigeon-honda-gyro-build/>
+
+---
+
+## Chase Briscoe Confident After Advancing to Round of 12
+
+date: 2024-12-06, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor BRISTOL, Tenn – Chase Briscoe kept Stewart-Haas Racing’s championship hopes in their final season alive after advancing to the Round of 12 with a top-10&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/briscoe-confident-advancing-round-of-12/>
+
+---
+
+## The EU Is Pushing For Stricter E-Scooter Safety Standards
+
+date: 2024-12-05, from: Ride Apart, Electric Motorcycle News
+
+E-scooters have been around for a while now, so why is the EU only acting now?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/742989/eu-scooter-safety-standards-recommended/>
 
 ---
 

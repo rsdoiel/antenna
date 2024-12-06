@@ -1,11 +1,47 @@
 ---
 title: craft
-updated: 2024-12-05 07:05:49
+updated: 2024-12-06 07:05:09
 ---
 
 # craft
 
-(date: 2024-12-05 07:05:49)
+(date: 2024-12-06 07:05:09)
+
+---
+
+## Psst: Need a ‘Shorty’ Benchcrafted Split-top Roubo?
+
+date: 2024-12-06, from: Lost Arg Press blog
+
+A few years back, we decided we had too many benches in our shop, so I hired movers to transport and get my &#8220;Gluebo&#8221; into my basement. (Its weight almost killed us moving it from my former workplace to Lost Art Press in 2017.) Then we decided we had too few benches, and that we... 
+
+<br> 
+
+<https://blog.lostartpress.com/2024/12/06/psst-need-a-shorty-benchcrafted-split-top-roubo/>
+
+---
+
+## 2024 Anarchist’s Gift Guide: Day 10
+
+date: 2024-12-06, from: Lost Arg Press blog
+
+Day 10: GRIP 9&#8220; Stainless Steel Pry Bar I can’t tell you how often I grab this thin pry bar from Chris’s tool chest in a panic to remove moulding and other small pieces without damaging them, and I don’t know what else. But I grab it a lot. I have one at home that... 
+
+<br> 
+
+<https://blog.lostartpress.com/2024/12/06/anarchists-gift-guide-day-10/>
+
+---
+
+## Robes, Wraps, Shimoga Shirts - Maiwa Clothing — Elevated Comfort
+
+date: 2024-12-05, updated: 2024-12-05, from: Maiwa blog (weaving and textiles)
+
+ 
+
+<br> 
+
+<https://maiwahandprints.blogspot.com/2024/12/robes-wraps-shimoga-shirts-maiwa.html>
 
 ---
 

@@ -1,11 +1,411 @@
 ---
 title: going electric
-updated: 2024-12-05 07:05:48
+updated: 2024-12-06 07:05:08
 ---
 
 # going electric
 
-(date: 2024-12-05 07:05:48)
+(date: 2024-12-06 07:05:08)
+
+---
+
+## California’s long-delayed $2,000 e-bike rebates are finally here
+
+date: 2024-12-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/ride1up-roadster-V3-header-e-bike.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>California has been <a href="https://electrek.co/2023/01/21/californias-electric-bike-rebates-updates/">attempting for years</a> to roll out an incentive program for electric bicycles, with the project continuously delayed due to <a href="https://electrek.co/2024/08/01/what-went-so-horribly-wrong-with-californias-e-bike-incentive-program/">funding and mismanagement issues</a>. Now we’ve finally received word that the long-awaited program is set to begin before the end of the year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="392574" href="https://electrek.co/2024/12/06/californias-long-delayed-2000-e-bike-rebates-are-finally-here/#more-392574" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/06/californias-long-delayed-2000-e-bike-rebates-are-finally-here/>
+
+---
+
+## New ad for Dodge Charger Daytona EV rips into ‘soulless,’ ‘lame’ rivals
+
+date: 2024-12-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Stellantis_Dodge_Charger_Daytona.jpeg?quality=82&#038;strip=all&#038;w=1500" /></div><p>Dodge has just released a new ad for its all-electric Charger Daytona that sticks true to its engine-revving, muscle-car roots while ripping into EV rivals as “weak” and “soulless sleep pods.” Is it enough to convert its muscle-car fanbase?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dodge,electric-dodge-charger,stellantis" data-layer-viewtype="unknown" data-post-id="392546" href="https://electrek.co/2024/12/06/new-dodge-charger-daytona-ev-ad-rips-into-soulless-lame-rivals/#more-392546" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/06/new-dodge-charger-daytona-ev-ad-rips-into-soulless-lame-rivals/>
+
+---
+
+## Porsche 718 Boxster and Cayman EVs will be late, and here’s why
+
+date: 2024-12-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/03/Porsche-Boxster-EV-video.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The electric Porsche 718 lineup is set to launch next year, bidding farewell to the gas-powered 718 Cayman and 718 Boxster. But that plan has hit a major snag in the fallout over Swedish battery maker Northvolt filing for bankruptcy.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="northvolt,porsche,volkswagen" data-layer-viewtype="unknown" data-post-id="392539" href="https://electrek.co/2024/12/06/porsche-718-boxster-and-cayman-evs-will-be-late-and-heres-why/#more-392539" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/06/porsche-718-boxster-and-cayman-evs-will-be-late-and-heres-why/>
+
+---
+
+## ‘Game Changer’: Honda Solid-State EVs With 620 Miles Of Range Coming This Decade
+
+date: 2024-12-06, from: Inside EVs News
+
+Honda claims its future EVs will even go as far as 776 miles on a full charge after 2040. There is one big issue, though. 
+
+<br> 
+
+<https://insideevs.com/news/743468/honda-solid-state-ev-620-miles/>
+
+---
+
+## Lion Electric lays off half its staff, looks to Groupe Mach for a bailout
+
+date: 2024-12-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/AL-MY25-LionC-photo-241018.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Electric school bus maker Lion Electric has suspended manufacturing at its Joliet, Illinois facility after laying off nearly four hundred workers – more than half its global employees. The company hopes Canadian real estate developers Groupe Mach can save the day.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-school-buses,illinois,the-lion-electric-co" data-layer-viewtype="unknown" data-post-id="392528" href="https://electrek.co/2024/12/05/lion-electric-lays-off-half-its-staff-looks-to-mach-for-a-bailout/#more-392528" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/05/lion-electric-lays-off-half-its-staff-looks-to-mach-for-a-bailout/>
+
+---
+
+## China ducks EV tariffs, Tesla column stalks return, and an electric Cobra
+
+date: 2024-12-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/welcome-back.jpg?quality=82&#038;strip=all&#038;w=1280" /></div><p>On today’s exciting episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, you can get steering column stalks on your Tesla, the Honda Prologue becomes the best-selling GM Ultium-based EV, a new electric Cobra surfaces, and more!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,honda-prologue,quick-charge,tesla" data-layer-viewtype="unknown" data-post-id="392522" href="https://electrek.co/2024/12/05/china-ducks-ev-tariffs-tesla-column-stalks-return-and-an-electric-cobra/#more-392522" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/05/china-ducks-ev-tariffs-tesla-column-stalks-return-and-an-electric-cobra/>
+
+---
+
+## Lucid (LCID) just built its first Gravity electric SUV for delivery
+
+date: 2024-12-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Lucids-first-Gravity.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Lucid Motors (LCID) is celebrating a massive accomplishment after the first <a href="https://electrek.co/guides/lucid-gravity/">Gravity electric SUV</a> rolled off the production line at its Casa Grande plant in Arizona on Thursday.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-gravity,lucid-motors" data-layer-viewtype="unknown" data-post-id="392506" href="https://electrek.co/2024/12/05/lucid-lcid-just-built-first-gravity-electric-suv/#more-392506" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/05/lucid-lcid-just-built-first-gravity-electric-suv/>
+
+---
+
+## Texas opens its first federally funded NEVI EV fast charging station
+
+date: 2024-12-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/happy-texas-NEVI-fast-charging-station.jpg?quality=82&#038;strip=all&#038;w=1424" /></div><p>The Joint Office of Energy and Transportation today announced the opening of Texas’s first EV fast charging station funded by the National Electric Vehicle Infrastructure (<a href="https://afdc.energy.gov/laws/12744">NEVI</a>) Formula Program.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dc-fast-charging,ev-charging,ev-charging-stations,president-biden,texas" data-layer-viewtype="unknown" data-post-id="392499" href="https://electrek.co/2024/12/05/texas-nevi-ev-charging-station/#more-392499" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/05/texas-nevi-ev-charging-station/>
+
+---
+
+## Tesla Plaid-powered Cobra is insanely fast and light for an EV monster
+
+date: 2024-12-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Tesla-Model-S-Plaid-powered-cobra.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A bunch of maniacs managed to put the powertrain, motors and battery pack, of a Tesla Model S Plaid in a Cobra kit. The result is a scary fast, and light (for an EV), EV monster.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="392497" href="https://electrek.co/2024/12/05/tesla-plaid-powered-cobra-is-insanely-fast-and-light-for-an-ev-monster/#more-392497" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/05/tesla-plaid-powered-cobra-is-insanely-fast-and-light-for-an-ev-monster/>
+
+---
+
+## Honda Prologue and Hyundai’s IONIQ 5 are now among the top five most leased EVs
+
+date: 2024-12-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/most-leased-EVs.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://electrek.co/guides/honda-prologue/">Honda Prologue</a> and Hyundai IONIQ 5 are now some of the most leased EVs in the US. After introducing hefty discounts, the electric SUVs trailed only the Tesla Model 3 and Model Y in the third quarter.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="honda-prologue,hyundai-ioniq-5" data-layer-viewtype="unknown" data-post-id="392467" href="https://electrek.co/2024/12/05/honda-prologue-hyundai-ioniq-5-most-leased-evs/#more-392467" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/05/honda-prologue-hyundai-ioniq-5-most-leased-evs/>
+
+---
+
+## QuantumScape checks last item off its 2024 to-do list, enabling higher sample volumes of first commercial solid-state battery
+
+date: 2024-12-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Quantumscape-production-B-Samples.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Solid-state battery developer <a href="https://electrek.co/guides/quantumscape/">QuantumScape</a> shared another critical milestone today: its “Cobra” separator production process has been developed, delivered, installed, and is ready for initial separator processing. The achievement was the last item on QuantumScape’s list of goals for 2024, putting it on track to produce a higher volume of samples of its flagship commercial solid-state battery, the QSE-5.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="quantumscape,solid-state-batteries,solid-state-battery" data-layer-viewtype="unknown" data-post-id="392477" href="https://electrek.co/2024/12/05/quantumscape-higher-sample-volumes-commercial-solid-state-battery/#more-392477" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/05/quantumscape-higher-sample-volumes-commercial-solid-state-battery/>
+
+---
+
+## These new Texas homes come with free backup batteries
+
+date: 2024-12-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Lennar_Battery-4079.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Select Lennar communities in Austin and Dallas-Fort Worth, Texas, come with Base Power home backup batteries – for free – when homeowners sign up for Base’s monthly electricity service.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,home-energy-storage,smart-energy-home,texas" data-layer-viewtype="unknown" data-post-id="392455" href="https://electrek.co/2024/12/05/texas-homes-come-with-free-backup-batteries/#more-392455" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/05/texas-homes-come-with-free-backup-batteries/>
+
+---
+
+## Battery-Swapping Nio Has Big Plans. Maybe Even For America
+
+date: 2024-12-05, from: Inside EVs News
+
+China's Nio plans on entering 25 more markets by the end of 2025, and it’s considering partnerships too. What about the U.S.? 
+
+<br> 
+
+<https://insideevs.com/news/743422/nio-usa-launch-interview/>
+
+---
+
+## Heybike deals now even better with up to $600 off e-bikes, Worx Landroid 1/4-acre mower at new $539 low, e-scooters, more
+
+date: 2024-12-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Heybike-Ranger-S-Folding-e-bike.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>With Christmas right around the corner, we’ve already seen switches to new holiday sales during December’s first week. Today’s Green Deals is led by another early Christmas sale, this one coming from Heybike that is increasing savings by $100 across a few e-bike models, with the <a href="https://9to5toys.com/2024/12/04/heybike-early-christmas-sale-deals-from-999/">Ranger S Folding e-bike</a> retaining its <a href="https://9to5toys.com/2024/12/04/heybike-early-christmas-sale-deals-from-999/">$999</a> Black Friday low that we saw at the tail-end of the seasonal sale. Coming right behind it is <a href="https://9to5toys.com/2024/12/05/worxs-landroid-m-20v-robotic-lawn-mower-handles-up-to-1-4-acre-of-yard-duties-at-a-new-539-low-reg-900/">Worx’s Landroid M 20V</a> Robotic Lawn Mower hitting a new <a href="https://9to5toys.com/2024/12/05/worxs-landroid-m-20v-robotic-lawn-mower-handles-up-to-1-4-acre-of-yard-duties-at-a-new-539-low-reg-900/">$539</a> low and UGREEN’s <a href="https://9to5toys.com/2024/12/05/ugreen-powerroam-1200-495-amazon-low/">PowerRoam 1200 and PowerRoam 2200</a> Portable Power Stations dropping to their Amazon lows starting from <a href="https://9to5toys.com/2024/12/05/ugreen-powerroam-1200-495-amazon-low/">$495</a>. Lastly, we have <a href="https://9to5toys.com/2024/12/04/hoverfly-gxl-max-electric-scooter-new-360/">Hoverfly’s GXL Max Electric Scooter</a> offering a non-bank-breaking new low price of <a href="https://9to5toys.com/2024/12/04/hoverfly-gxl-max-electric-scooter-new-360/">$360</a> for commuters on a budget, as well as a video review of <a href="https://www.youtube.com/watch?v=6d-gQfdnwo8">Ottolock’s SIDEKICK</a> Folding e-bike lock too. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2024/12/03/hiboy-early-christmas-p7-e-bike-800-low/">early Christmas Hiboy EV sale</a>, and more. You’ll also find all the hangover Green Deals from Black Friday/Cyber Monday sales collected together in <a href="https://electrek.co/2024/12/02/cyber-monday-green-deals/">our dedicated shopping hub</a> for you.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="392427" href="https://electrek.co/2024/12/05/heybike-early-sale-ranger-s-folding-e-bike-worx-landroid-e-scooters-more/#more-392427" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/05/heybike-early-sale-ranger-s-folding-e-bike-worx-landroid-e-scooters-more/>
+
+---
+
+## Jeep, Dodge maker developing lithium-sulfur EV batteries promising to cut costs in half
+
+date: 2024-12-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Jeep-EV-batteries.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/jeep/">Jeep</a> and Dodge owner Stellantis announced a new partnership on Thursday to develop new EV batteries with “game-changing” energy density. Stellantis said the new batteries are expected to unlock significantly more range and 50% faster charging speeds. Even better, they’re expected to cost less than half the price per kWh of current battery tech.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dodge,jeep,ram-trucks,stellantis" data-layer-viewtype="unknown" data-post-id="392445" href="https://electrek.co/2024/12/05/jeep-ram-maker-developing-new-ev-batteries-cut-costs-in-half/#more-392445" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/05/jeep-ram-maker-developing-new-ev-batteries-cut-costs-in-half/>
+
+---
+
+## Tesla (TSLA) Megapacks will power France’s new largest battery system
+
+date: 2024-12-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/04/Megapack_Mosslanding-1-e1714486362120.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla (TSLA) has secured a massive new Megapack order that will power France’s new largest energy storage system.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-megapack" data-layer-viewtype="unknown" data-post-id="392429" href="https://electrek.co/2024/12/05/tesla-tsla-megapacks-will-power-frances-new-largest-battery-system/#more-392429" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/05/tesla-tsla-megapacks-will-power-frances-new-largest-battery-system/>
+
+---
+
+## Chevrolet Equinox EV: How Much Does It Cost To Charge It?
+
+date: 2024-12-05, from: Inside EVs News
+
+It costs less than half as much to "fuel" per mile compared to the gas-powered Equinox. 
+
+<br> 
+
+<https://insideevs.com/news/743378/chevy-equinox-ev-charging-costs/>
+
+---
+
+## Waymo is expanding robotaxi services to Miami, beginning operations in early 2025
+
+date: 2024-12-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Robotaxi-Miami-Waymo.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>As promised, robotaxi developer <a href="https://electrek.co/guides/waymo/">Waymo</a> is expanding its Waymo One service to new US cities. The latest on its service map is Miami, which will see a start of robotaxi testing operations next year before Waymo opens up public rides to all customers. ¡Hasta pronto, Miami!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="autonomous-vehicle,miami,robotaxi,waymo,waymo-one" data-layer-viewtype="unknown" data-post-id="392416" href="https://electrek.co/2024/12/05/waymo-expanding-robotaxi-services-miami-early-2025/#more-392416" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/05/waymo-expanding-robotaxi-services-miami-early-2025/>
+
+---
+
+## BYD gains a foothold in Japan after landing a new deal to use EVs as mobile power sources
+
+date: 2024-12-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/BYD-EVs-Japan.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/byd/">BYD</a> secured a new deal with the Japanese government to use its EVs as mobile power sources. China’s EV giant looks to gain a foothold in Japan, which has been historically ruthless for foreign automakers to crack.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,japan" data-layer-viewtype="unknown" data-post-id="392374" href="https://electrek.co/2024/12/05/byd-lands-new-deal-evs-mobile-power-sources-japan/#more-392374" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/05/byd-lands-new-deal-evs-mobile-power-sources-japan/>
+
+---
+
+## Ford EV Sales Reach New Monthly Record In November
+
+date: 2024-12-05, from: Inside EVs News
+
+Ford sold a record number of Mustang Mach-Es and F-150 Lightnings in November. 
+
+<br> 
+
+<https://insideevs.com/news/743395/ford-ev-sales-set-a-new-monthly-record/>
+
+---
+
+## Formula E’s new all-wheel drive formula car races this Saturday for the first time
+
+date: 2024-12-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/S0G_0794_rT3HqAaT_20241108100551-2048x2048-1-e1733341198357.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Formula E’s 11th season starts on Saturday in Sao Paulo, Brazil, and includes the debut of the new Gen3 EVO car – which iterates on the original Gen3 car by activating the front motor, giving more grip and even faster acceleration than a Formula One car.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="formula-e" data-layer-viewtype="unknown" data-post-id="392145" href="https://electrek.co/2024/12/05/formula-es-new-all-wheel-drive-formula-car-races-this-saturday-for-the-first-time/#more-392145" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/05/formula-es-new-all-wheel-drive-formula-car-races-this-saturday-for-the-first-time/>
+
+---
+
+## Tesla created a market for aftermarket steering wheel stalks – for real
+
+date: 2024-12-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Tesla-stalk-aftermarket.webp?w=1280" /></div><p>With its latest stalkless vehicles, Tesla has literally created a market for aftermarket drive stalks that attach to your steering wheel.</p>
+
+
+
+<p>The first products are here.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="392385" href="https://electrek.co/2024/12/05/tesla-created-a-market-for-aftermarket-steering-wheel-stalks-for-real/#more-392385" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/05/tesla-created-a-market-for-aftermarket-steering-wheel-stalks-for-real/>
+
+---
+
+## The cheapest Polestar 3 electric SUV is now made in the US with up to 350 miles range
+
+date: 2024-12-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Polestar-first-electric-SUV-US.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The most affordable, longest-range Polestar 3 luxury electric SUV model is now officially made in the US. The <a href="https://electrek.co/guides/polestar-3/">Polestar 3</a> Long range Single motor is available to order for under $70,000 with up to 350 miles range.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="polestar,polestar-3" data-layer-viewtype="unknown" data-post-id="392391" href="https://electrek.co/2024/12/05/cheapest-polestar-3-with-350-mi-range-now-made-in-us/#more-392391" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/05/cheapest-polestar-3-with-350-mi-range-now-made-in-us/>
+
+---
+
+## The EV Industry Is Gearing Up To Fight Donald Trump
+
+date: 2024-12-05, from: Inside EVs News
+
+Plus, Waymo's ridership has gone way, way up, and things are going very, very bad for GM in China. 
+
+<br> 
+
+<https://insideevs.com/news/743292/trump-us-ev-industry-fight/>
+
+---
+
+## EV Reliability Improved In 2024. It Still Lags Behind Hybrids And ICE
+
+date: 2024-12-05, from: Inside EVs News
+
+Plug-in hybrids still fare the worst when it comes to reliability, although they too are improving. 
+
+<br> 
+
+<https://insideevs.com/news/743394/consumer-reports-reliability-survey-evs/>
+
+---
+
+## The pope has a sweet, new ride – and it’s all-electric from Mercedes-Benz
+
+date: 2024-12-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/electric-g-an-papst-2-w1920xh1080-cutout.jpeg?quality=82&#038;strip=all&#038;w=1600" /></div><p><br>Pope Francis has officially gone electric, with Mercedez-Benz delivering the first-ever battery-powered popemobile to the Vatican – a reworked version of the G-Class SUV, bathed in white with special tweaks for lots of handwaving to the crowd. Check it out. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mercedes-benz" data-layer-viewtype="unknown" data-post-id="392383" href="https://electrek.co/2024/12/05/the-pope-has-a-sweet-new-ride-and-its-all-electric-from-mercedes-benz/#more-392383" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/05/the-pope-has-a-sweet-new-ride-and-its-all-electric-from-mercedes-benz/>
 
 ---
 
@@ -69,6 +469,26 @@ date: 2024-12-05, from: Electrek Feed
 
 ---
 
+## Priority Bicycles launches new 28 MPH Priority Current Plus mid-drive Gates belt e-bike
+
+date: 2024-12-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/priority-current-plus-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Priority Current has spent years as the flagship electric bike produced by Manhattan-based Priority Bicycles. Now the company has just unveiled the next-generation model, known as the <a href="https://www.avantlink.com/click.php?tool_type=cl&amp;merchant_id=1d722773-d301-4e39-a018-1a3be7d8566a&amp;website_id=d8cb501a-c5ae-4e37-bc97-8c54add0467e&amp;url=https%3A%2F%2Fwww.prioritybicycles.com%2Fproducts%2Fcurrentplus">Priority Current Plus</a>. </p>
+
+
+
+<p>It retains a lot of what made the original such a success, including an extremely torquey mid-drive motor, Gates carbon belt drive, and Class 3 operation with speeds of up to 28 mph (45 km/h). But now there are also plenty of new features offered on the Current Plus – all without a price increase.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="392147" href="https://electrek.co/2024/12/05/priority-bicycles-launches-new-28-mph-priority-current-plus-mid-drive-gates-belt-e-bike/#more-392147" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/05/priority-bicycles-launches-new-28-mph-priority-current-plus-mid-drive-gates-belt-e-bike/>
+
+---
+
 ## GM And EVgo Built 2,000 Public EV Fast Chargers
 
 date: 2024-12-05, from: Inside EVs News
@@ -81,11 +501,11 @@ Last year, GM and EVgo had 1,000 co-branded public fast chargers. Now, that numb
 
 ---
 
-## Ford to build EV plant next to one the world’s largest sources of nickel
+## Ford to build EV plant near one of the world’s largest sources of nickel
 
 date: 2024-12-05, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/02/Ford-EV-pickup-platform.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After losing ground in China and Europe, Ford looks to expand in a market full of untapped potential for electric vehicles – Indonesia. The automaker is investing in an EV plant in Indonesia – the world’s largest producer of nickel – setting up shop in the same country as its joint venture $4.5 billion nickel processing project.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/02/Ford-EV-pickup-platform.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After losing ground in China and Europe, Ford looks to expand in a market full of untapped potential for electric vehicles – Indonesia. The automaker is investing in an EV plant in Indonesia – the world’s largest producer of nickel – setting up shop close to its $4.5 billion nickel processing project.</p>
 
 
 
@@ -97,7 +517,7 @@ date: 2024-12-05, from: Electrek Feed
 
 ---
 
-## The Nissan Ariya Needs An Extra Plastic Piece To Use Tesla Superchargers
+## The Nissan Ariya Needs An Extra Plastic Piece To Use Tesla Superchargers (Updated)
 
 date: 2024-12-05, from: Inside EVs News
 

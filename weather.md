@@ -1,23 +1,121 @@
 ---
 title: weather
-updated: 2024-12-05 07:05:46
+updated: 2024-12-06 07:05:07
 ---
 
 # weather
 
-(date: 2024-12-05 07:05:46)
+(date: 2024-12-06 07:05:07)
 
 ---
 
-## SPC - No watches are valid as of Thu Dec  5 14:52:02 UTC 2024
+## SPC - No watches are valid as of Fri Dec  6 14:39:02 UTC 2024
 
-date: 2024-12-05, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-12-06, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Thu Dec  5 14:52:02 UTC 2024. 
+No watches are valid as of Fri Dec  6 14:39:02 UTC 2024. 
 
 <br> 
 
 <https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Fri Dec  6 14:39:02 UTC 2024
+
+date: 2024-12-06, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Fri Dec  6 14:39:02 UTC 2024. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Dec 6, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-12-06, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0654 AM CST Fri Dec 06 2024
+
+Valid 061300Z - 071200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Severe thunderstorms are not expected. Isolated weak thunderstorms
+are possible today from southeast Arizona and southern New Mexico to
+East Texas.
+
+...Discussion...
+Rising heights are expected today over much of the northern tier and
+eastern seaboard in the wake of an exiting prominent upper-level
+trough, while a slow-moving upper low persists over southern
+portions of Arizona/New Mexico and northwest Mexico. A few
+thunderstorms will be possible near/east of this upper low,
+potentially including parts of southeast Arizona, southern New
+Mexico, and far west Texas within a marginally unstable environment.
+Modestly increasing warm advection/elevated moisture transport into
+tonight should lead to an increase in elevated convection across
+Texas, some of which will be capable of lightning, particularly
+across central/north-central Texas tonight.
+
+..Guyer/Broyles.. 12/06/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## SPC Day 2 Fire Weather Outlook
+
+date: 2024-12-06, from: NOAA Weather Forecasts
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0138 AM CST Fri Dec 06 2024
+
+Valid 071200Z - 081200Z
+
+...NO CRITICAL AREAS...
+
+...Synopsis...
+Limited fire weather concerns are expected for Saturday across the
+country, though localized concerns are possible within the higher
+terrain of the southern CA coast. The persistent offshore flow
+regime over southern CA is expected to slowly abate through the day
+Saturday as the upper trough currently over southern AZ ejects into
+the southern Plains, resulting in weakening low to mid-level flow
+across the region. Areas of elevated fire weather conditions
+(featuring 15-25 mph winds and 15-20% RH) will likely be ongoing at
+the start of the period within the higher terrain, but should become
+more isolated after 18 UTC. While similar wind/RH conditions are
+possible early Saturday compared to today (Friday), latest high-res
+guidance suggests the overall coverage of such conditions should be
+more limited, which precludes highlights at this time, though trends
+will continue to be monitored.
+
+..Moore.. 12/06/2024
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
 
 ---
 
@@ -72,101 +170,6 @@ LAT...LON   42997377 41897358 41397393 41027426 40917449 40917488
 <br> 
 
 <https://www.spc.noaa.gov/products/md/md2250.html>
-
----
-
-## SPC Dec 5, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-12-05, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0655 AM CST Thu Dec 05 2024
-
-Valid 051300Z - 061200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Severe thunderstorms are not expected through tonight.
-
-...Discussion...
-An upper trough will continue to shift quickly east-northeastward
-today over the Lower Great Lakes and Northeast, with a secondary
-speed max/clipper-type wave spreading southeastward over
-Manitoba/northern Ontario toward the Upper Great Lakes tonight. Over
-the Southwest, an upper low will remain quasi-stationary over the
-southern Arizona and northwest Mexico vicinity.
-
-Along the middle Gulf Coast, a few isolated elevated thunderstorms
-may still occur early today, but the overall convective potential is
-expected to dwindle as a cold front continues south-southeastward
-into the northern Gulf of Mexico. Elsewhere, isolated lightning
-flashes could occur tonight with a potential increase in elevated
-convection across far West Texas/far southern New Mexico in advance
-of an upper low over northwest Mexico, and possibly near the Deep
-South Texas coast. Severe storms are unlikely in each of these
-scenarios as overall buoyancy will be limited.
-
-..Guyer/Broyles.. 12/05/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
-## SPC - No MDs are in effect as of Wed Dec  4 13:32:01 UTC 2024
-
-date: 2024-12-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Wed Dec  4 13:32:01 UTC 2024. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
-
----
-
-## SPC Day 2 Fire Weather Outlook
-
-date: 2024-12-04, from: NOAA Weather Forecasts
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0146 AM CST Wed Dec 04 2024
-
-Valid 051200Z - 061200Z
-
-...NO CRITICAL AREAS...
-
-...Synopsis...
-A midlevel trough will continue to advance eastward across the
-Northeast on D2 - Thursday as cold upstream air infiltrates the
-eastern half of the CONUS. Across the western US, a weak midlevel
-trough will remain over the Southwest with upstream surface high
-pressure encouraging locally dry/breezy offshore flow across
-southern CA. Some locally Elevated fire weather conditions will be
-possible, though areas will remain isolated with sparse availability
-of fuels. This will preclude the need to add areas at this time.
-
-..Thornton.. 12/04/2024
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
 
 ---
 
@@ -350,18 +353,6 @@ throughout the period.
 
 ---
 
-## NHC Eastern North Pacific Outlook
-
-date: 2024-12-02, from: Graphical Tropical Weather Outlooks
-
-The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
-
-<br> 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
 ## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
 
 date: 2024-12-02, from: Eastern Pacific Basin GIS Data
@@ -508,4 +499,38 @@ the overlap of warm/dry/breezy conditions.
 <br> 
 
 <https://www.spc.noaa.gov/products/exper/fire_wx/>
+
+---
+
+## Eastern Pacific Tropical Weather Outlook
+
+date: 2024-12-01, from: Eastern Pacific Tropical Weather Outlook
+
+ <br />
+ 000<br />
+ ABPZ20 KNHC 010500<br />
+ TWOEP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS National Hurricane Center Miami FL<br />
+ 1000 PM PST Sat Nov 30 2024<br />
+ <br />
+ For the eastern North Pacific...east of 140 degrees west longitude:<br />
+ <br />
+ Tropical cyclone formation is not expected during the next 7 days.<br />
+ <br />
+ This is the last regularly scheduled Tropical Weather Outlook of <br />
+ the 2024 eastern North Pacific Hurricane Season.  Routine issuance <br />
+ of the Tropical Weather Outlook will resume on May 15, 2025. During <br />
+ the off-season, Special Tropical Weather Outlooks will be issued as <br />
+ conditions warrant.<br />
+ <br />
+ $$<br />
+ Forecaster Beven<br />
+ <br />
+  
+
+<br> 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
 

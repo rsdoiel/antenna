@@ -1,11 +1,800 @@
 ---
 title: pacific
-updated: 2024-12-05 07:05:45
+updated: 2024-12-06 07:05:05
 ---
 
 # pacific
 
-(date: 2024-12-05 07:05:45)
+(date: 2024-12-06 07:05:05)
+
+---
+
+## ‘A Christmas Carol: The Musical’ starts Saturday
+
+date: 2024-12-06, from: Hawaii Tribune Harold
+
+
+				<p>The Hilo Community Players this month will present &#8220;A Christmas Carol: The Musical,&#8221; a heartwarming holiday production running Dec. 6 to Dec. 22 at the AOF Building, located at 280 Keawe St. in downtown Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/06/community/a-christmas-carol-the-musical-starts-saturday/>
+
+---
+
+## Keauhou Shopping Center hosts Christmas events
+
+date: 2024-12-06, from: Hawaii Tribune Harold
+
+
+				<p>Keauhou Shopping Center is helping Kailua-Kona shoppers get into the holiday spirit with three Christmas events in December.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/06/community/keauhou-shopping-center-hosts-christmas-events/>
+
+---
+
+## UH Hilo students place first programming contest
+
+date: 2024-12-06, from: Hawaii Tribune Harold
+
+
+				<p>A team of computer science students at the University of Hawaii at Hilo participated in the Association for Computing Machinery&#8217;s Intercollegiate Programming Contest on Nov. 16 and won the Division II site championship award.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/06/community/uh-hilo-students-place-first-programming-contest/>
+
+---
+
+## ‘Photos with Santa’ at Hilo Tractor Supply
+
+date: 2024-12-06, from: Hawaii Tribune Harold
+
+
+				<p>Tractor Supply in Hilo will spread holiday cheer this weekend with its &#8220;Photos with Santa&#8221; event.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/06/community/photos-with-santa-at-hilo-tractor-supply/>
+
+---
+
+## Kindergartners are ‘critical but stable’ a day after a California school shooting
+
+date: 2024-12-06, from: Hawaii Tribune Harold
+
+
+				<p>OROVILLE, Calif. &#8212; The two kindergartners, close friends, had left their classroom together at the Feather River Adventist School for a simple trip to the restroom. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/06/nation-world-news/kindergartners-are-critical-but-stable-a-day-after-a-california-school-shooting/>
+
+---
+
+## Elon Musk brings Trump’s government efficiency push to Capitol Hill
+
+date: 2024-12-06, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON -Billionaire Elon Musk and former presidential candidate Vivek Ramaswamy met on Thursday with Republican lawmakers whose support they will need to win the sweeping spending cuts that President-elect Donald Trump has asked them to find. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/06/nation-world-news/elon-musk-brings-trumps-government-efficiency-push-to-capitol-hill/>
+
+---
+
+## South Korean general gives a confused account of a failed crackdown
+
+date: 2024-12-06, from: Hawaii Tribune Harold
+
+
+				<p>SEOUL, South Korea &#8212; South Korea&#8217;s military &#8212; agents of terror and violence in the 1970s and &#8217;80s &#8212; spent decades scrupulously cleaning up its image to become what many people in the country came to see as a modern and disciplined force.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/06/nation-world-news/south-korean-general-gives-a-confused-account-of-a-failed-crackdown/>
+
+---
+
+## Bitcoin storms above $100,000 as Trump 2.0 fuels crypto euphoria
+
+date: 2024-12-06, from: Hawaii Tribune Harold
+
+
+				<p>(Reuters) &#8212; Bitcoin catapulted above $100,000 for the first time on Thursday, a milestone hailed even by sceptics as a coming-of-age for digital assets as investors bet on a friendly U.S. administration to cement the place of cryptocurrencies in financial markets. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/06/nation-world-news/bitcoin-storms-above-100000-as-trump-2-0-fuels-crypto-euphoria/>
+
+---
+
+## Press Club luncheon to honor retired Judge Foley
+
+date: 2024-12-06, from: Hawaii Tribune Harold
+
+
+				<p>The Big Island Press Club is holding a special Torch of Light holiday luncheon at 11:30 a.m. to 2 p.m. Saturday, Dec. 14, at Pueo&#8217;s Osteria in Waikoloa Village.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/06/community/press-club-luncheon-to-honor-retired-judge-foley/>
+
+---
+
+## Strong quake strikes off California, tsunami warning canceled
+
+date: 2024-12-06, from: Hawaii Tribune Harold
+
+
+				<p>SAN FRANCISCO &#8212; A powerful earthquake of magnitude 7 hit off the coast of a sparsely populated area of northern California on Thursday, prompting coastal towns to evacuate low-lying areas amid a tsunami warning that was later canceled. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/06/nation-world-news/strong-quake-strikes-off-california-tsunami-warning-canceled/>
+
+---
+
+## Dozens killed in Israeli strikes on Gaza; Amnesty calls Israel’s actions ‘genocide’
+
+date: 2024-12-06, from: Hawaii Tribune Harold
+
+
+				<p>CAIRO/GAZA &#8212; The Israeli military killed at least 39 Palestinians in strikes across the Gaza Strip overnight, medics said on Thursday, including at least 20 in an attack that set ablaze tents sheltering displaced families in a crowded camp. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/06/nation-world-news/dozens-killed-in-israeli-strikes-on-gaza-amnesty-calls-israels-actions-genocide/>
+
+---
+
+## Syrian rebels capture key city of Hama in fresh blow to Assad
+
+date: 2024-12-06, from: Hawaii Tribune Harold
+
+
+				<p>AMMAN/BEIRUT &#8212; Syrian rebels captured the city of Hama on Thursday, a major victory in a week-old lightning advance across northern Syria and a devastating new blow to President Bashar al-Assad and his Russian and Iranian allies. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/06/nation-world-news/syrian-rebels-capture-key-city-of-hama-in-fresh-blow-to-assad/>
+
+---
+
+## NASA Artemis moon missions delayed until 2026 and 2027
+
+date: 2024-12-06, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; NASA on Thursday postponed a mission to send four astronauts around the moon and back to Earth until April 2026. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/06/nation-world-news/nasa-artemis-moon-missions-delayed-until-2026-and-2027/>
+
+---
+
+## Utility work to close one lane of Hawaii Belt Road in Kona
+
+date: 2024-12-06, from: Hawaii Tribune Harold
+
+
+				<p>Hawaiian Electric crews will replace a utility pole on Hawaii Belt Road (Highway 19) in Kona on Monday, Dec. 9, and Wednesday, Dec. 11.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/06/hawaii-news/utility-work-to-close-one-lane-of-hawaii-belt-road-in-kona/>
+
+---
+
+## Judge dismisses sex assault charges against Maui firefighter
+
+date: 2024-12-06, from: Hawaii Tribune Harold
+
+
+				<p>A Maui judge on Tuesday dismissed the case of a Maui Fire Department battalion chief accused of sexually assaulting a girl younger than 14.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/06/hawaii-news/judge-dismisses-sex-assault-charges-against-maui-firefighter/>
+
+---
+
+## Secret Service chief touts reforms after Trump assassination attempts
+
+date: 2024-12-06, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. Secret Service&#8217;s acting director told a U.S. House of Representatives panel on Thursday that he has overhauled the agency&#8217;s security practices after a gunman shot President-elect Donald Trump in July. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/06/nation-world-news/secret-service-chief-touts-reforms-after-trump-assassination-attempts/>
+
+---
+
+## 1975 Kalapana earthquake offers insights about Kilauea
+
+date: 2024-12-06, from: Hawaii Tribune Harold
+
+
+				<p>A nearly 50-year-old earthquake fundamentally changed the evolution of Kilauea, scientists at the University of Hawaii say.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/06/hawaii-news/1975-kalapana-earthquake-offers-insights-about-kilauea/>
+
+---
+
+## Images of unmasked suspect emerge as police track CEO’s killer
+
+date: 2024-12-06, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Security-camera images of a man wearing a hooded jacket and an easy smile. A fake ID. A cellphone found on a Manhattan sidewalk. Bullets marked with the words &#8220;deny&#8221; and &#8220;delay.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/06/nation-world-news/images-of-unmasked-suspect-emerge-as-police-track-ceos-killer/>
+
+---
+
+## Torrent of hate for health insurance industry follows CEO’s killing
+
+date: 2024-12-06, from: Hawaii Tribune Harold
+
+
+				<p>The fatal shooting Wednesday of a top UnitedHealthcare executive, Brian Thompson, on a New York City sidewalk has unleashed a torrent of morbid glee from patients and others who say they have had negative experiences with health insurance companies at some of the hardest times of their lives. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/06/nation-world-news/torrent-of-hate-for-health-insurance-industry-follows-ceos-killing/>
+
+---
+
+## Nation and world news in brief for December 6
+
+date: 2024-12-06, from: Hawaii Tribune Harold
+
+
+				<p>US defense &#0010;secretary scraps South Korea trip after martial &#0010;law attempt </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/12/06/nation-world-news/nation-and-world-news-in-brief-for-december-6/>
+
+---
+
+## Australian defence vessel (ADV) reliant-inaugural visit to Palau
+
+date: 2024-12-06, from: Island Times
+
+<figure><img width="600" height="801" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/aussie3.jpg?fit=600%2C801&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/aussie3.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/aussie3.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/aussie3.jpg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/aussie3.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/aussie3.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/aussie3.jpg?resize=400%2C534&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/aussie3.jpg?fit=600%2C801&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="74281" data-permalink="https://islandtimes.org/australian-defence-vessel-adv-reliant-inaugural-visit-to-palau/aussie3-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/aussie3.jpg?fit=600%2C801&amp;ssl=1" data-orig-size="600,801" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="aussie3" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/aussie3.jpg?fit=225%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/aussie3.jpg?fit=600%2C801&amp;ssl=1" /></figure>
+<p>3 December 2024&#8211; His Excellency Surangel Whipps Jr, several senior government members, humanitarian agencies and media were invited aboard the Australian Defence Vessel (ADV) Reliant on Tuesday 26 November. The ADV Reliant bolsters Australia’s capacity to provide support to Pacific Island countries and to respond quickly in times of crisis. Australia works closely with the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/australian-defence-vessel-adv-reliant-inaugural-visit-to-palau/">Australian defence vessel (ADV) reliant-inaugural visit to Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/australian-defence-vessel-adv-reliant-inaugural-visit-to-palau/>
+
+---
+
+## Operation Christmas Drop scheduled to deliver aid to Palau
+
+date: 2024-12-06, from: Island Times
+
+<p>KOROR, Palau — Operation Christmas Drop, the U.S. Department of Defense’s longest-running humanitarian airlift operation, will take place in Palau from Dec. 8 to 12, delivering supplies to remote island communities. The operation is conducted by the U.S. Air Force and Japan Air Self-Defense Force, in partnership with the Philippine Air Force, Royal Australian Air [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/operation-christmas-drop-scheduled-to-deliver-aid-to-palau/">Operation Christmas Drop scheduled to deliver aid to Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/operation-christmas-drop-scheduled-to-deliver-aid-to-palau/>
+
+---
+
+## Palau’s Health Ministry hosts Free Movie night and health screening
+
+date: 2024-12-06, from: Island Times
+
+<p>By: Samantha Iyar KOROR, Palau — The Ministry of Health and Human Services (MHHS) Communicable Disease Unit, in collaboration with CAT and the United States Marine Corps Environmental Detachment (USMCED), is inviting the community to a unique “Movie Night &#38; Health Screening” event on Friday, Dec. 6, 2024. The event, scheduled from 5 p.m. to [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palaus-health-ministry-hosts-free-movie-night-and-health-screening/">Palau’s Health Ministry hosts Free Movie night and health screening</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palaus-health-ministry-hosts-free-movie-night-and-health-screening/>
+
+---
+
+## Pacific Fisheries Managers advance electronic monitoring standards, but fail on transshipment
+
+date: 2024-12-06, from: Island Times
+
+<p>SUVA (PEW TRUSTS) &#8212; The Western and Central Pacific Fisheries Commission (WCPFC) ended Tuesday with some important progress on electronic monitoring, but went another year without updating how it manages transshipment, or the transfer of catch from a fishing vessel to a carrier vessel.Dave Gershman, a senior officer for The Pew Charitable Trusts’ international fisheries [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pacific-fisheries-managers-advance-electronic-monitoring-standards-but-fail-on-transshipment/">Pacific Fisheries Managers advance electronic monitoring standards, but fail on transshipment</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/pacific-fisheries-managers-advance-electronic-monitoring-standards-but-fail-on-transshipment/>
+
+---
+
+## Papua New Guinea Budget 2025
+
+date: 2024-12-06, from: Island Times
+
+<p>Government exempts GST on basic items PORT MORESBY (RNZ PACIFIC) &#8212; In its latest Budget the Papua New Guinea government is introducing exemptions on consumption tax on a number of basic items. EMTV reports Treasurer Ian Ling-Stuckey, who announced the K28 billion (US$7.03 billion) Budget themed &#8216;Securing PNG in 2025 and Beyond&#8217;, said this will [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/papua-new-guinea-budget-2025-government-exempts-gst-on-basic-items/">Papua New Guinea Budget 2025</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/papua-new-guinea-budget-2025-government-exempts-gst-on-basic-items/>
+
+---
+
+## Vanuatu’s landmark case at ICJ seeks to hold polluting nations responsible for climate change
+
+date: 2024-12-06, from: Island Times
+
+<p>AMSTERDAM (RNZ PACIFIC) &#8212; Vanuatu&#8217;s special envoy to climate change says their case to the International Court of Justice (ICJ) is based on the argument that those harming the climate are breaking international law. The case seeks an advisory opinion from the Court on the legal responsibilities of countries in relation to climate change, and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/vanuatus-landmark-case-at-icj-seeks-to-hold-polluting-nations-responsible-for-climate-change/">Vanuatu&#8217;s landmark case at ICJ seeks to hold polluting nations responsible for climate change</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/vanuatus-landmark-case-at-icj-seeks-to-hold-polluting-nations-responsible-for-climate-change/>
+
+---
+
+## Albanese wants to China-proof the Pacific, but Nauru is driving a hard bargain
+
+date: 2024-12-06, from: Island Times
+
+<p>CANBERRA (SMH) &#8212; The Albanese government hopes to end the year with a major foreign policy victory by signing a landmark pact with Nauru aimed at preventing China from gaining a security foothold in the Pacific. The deal with Nauru, home to Australia’s offshore detention centre, comes after months of secretive talks with the tiny [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/albanese-wants-to-china-proof-the-pacific-but-nauru-is-driving-a-hard-bargain/">Albanese wants to China-proof the Pacific, but Nauru is driving a hard bargain</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/albanese-wants-to-china-proof-the-pacific-but-nauru-is-driving-a-hard-bargain/>
+
+---
+
+## Korean diaspora in Australia left in shock over declaration of martial law
+
+date: 2024-12-06, from: Island Times
+
+<p>By Erin Handley (ABC-Australia) Korean Australians awoke in disbelief to the news that martial law had been declared — and swiftly revoked — in their home country overnight. &#8220;This is unbelievable and very poor judgement of the president,&#8221; said Jay Song, an associate professor from Australian National University. &#8220;This is just embarrassing. &#8220;What is he [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/korean-diaspora-in-australia-left-in-shock-over-declaration-of-martial-law/">Korean diaspora in Australia left in shock over declaration of martial law</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/korean-diaspora-in-australia-left-in-shock-over-declaration-of-martial-law/>
+
+---
+
+## Ngardmau and Peleliu elections encounter ties and legal delays
+
+date: 2024-12-06, from: Island Times
+
+<p>By: Eustoria Marie Borja The 2024 elections in Ngardmau and Peleliu States have highlighted procedural challenges, with Ngardmau heading to a third election following two ties, and Peleliu dealing with a tied legislative race and delayed certification of contested amendments. Ngardmau Delegate Race Heads to Third Election Ngardmau’s 11th General Election has yet to determine [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ngardmau-and-peleliu-elections-encounter-ties-and-legal-delays/">Ngardmau and Peleliu elections encounter ties and legal delays</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/ngardmau-and-peleliu-elections-encounter-ties-and-legal-delays/>
+
+---
+
+## Palau suspends Bangladeshi worker recruitment over Labor concerns
+
+date: 2024-12-06, from: Island Times
+
+<p>By: Eustoria Marie Borja KOROR, Palau — The Ministry of Human Resources, Culture, Tourism, and Development (HRCTD) has announced a suspension on hiring non-resident workers from Bangladesh, citing workforce challenges and labor law compliance issues. The directive, issued by Minister Ngirabelas Tmetuchl on Nov. 25, takes effect Dec. 2, 2024. The Ministry outlined several concerns [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-suspends-bangladeshi-worker-recruitment-over-labor-concerns/">Palau suspends Bangladeshi worker recruitment over Labor concerns</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-suspends-bangladeshi-worker-recruitment-over-labor-concerns/>
+
+---
+
+## Ad Hoc Art Center’s festive workshops inspire Young Artists
+
+date: 2024-12-06, from: Island Times
+
+<p>By: Eustoria Marie Borja KOROR – The Ad Hoc Art Center is inviting young artists to celebrate the holiday season through its Christmas-themed workshops this December. Following the success of their first workshop since the departure of a previous instructor, the center is gearing up for another round of creative engagement at Palau Community College, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ad-hoc-art-centers-festive-workshops-inspire-young-artists/">Ad Hoc Art Center’s festive workshops inspire Young Artists</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/ad-hoc-art-centers-festive-workshops-inspire-young-artists/>
+
+---
+
+## Amazing ocean sighting
+
+date: 2024-12-06, from: Island Times
+
+<figure><img width="1024" height="640" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/Amazing-ocean-sighting.jpg?fit=1024%2C640&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/Amazing-ocean-sighting.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/Amazing-ocean-sighting.jpg?resize=300%2C188&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/Amazing-ocean-sighting.jpg?resize=1024%2C640&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/Amazing-ocean-sighting.jpg?resize=768%2C480&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/Amazing-ocean-sighting.jpg?resize=1200%2C750&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/Amazing-ocean-sighting.jpg?resize=400%2C250&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/Amazing-ocean-sighting.jpg?resize=706%2C441&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/Amazing-ocean-sighting.jpg?fit=1024%2C640&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="74308" data-permalink="https://islandtimes.org/amazing-ocean-sighting/amazing-ocean-sighting/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/Amazing-ocean-sighting.jpg?fit=1249%2C781&amp;ssl=1" data-orig-size="1249,781" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;7.1&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;E2-F6&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1732707793&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;27&quot;,&quot;iso&quot;:&quot;3200&quot;,&quot;shutter_speed&quot;:&quot;0.00625&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Amazing ocean sighting" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/Amazing-ocean-sighting.jpg?fit=300%2C188&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/Amazing-ocean-sighting.jpg?fit=780%2C488&amp;ssl=1" /></figure>
+<p>First nautiloids spotted from E/V Nautilus on last dive of season! OET witnesses four Palau nautilus individuals: first sightings of nautiloids from E/V Nautilus after 1000+ ROV dives over the last 15 years of operations (Koror, Palau,– December 3, 2024) — During a remotely operated vehicle (ROV) dive in the German Channel in Palau, the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/amazing-ocean-sighting/">Amazing ocean sighting</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/amazing-ocean-sighting/>
+
+---
+
+## Palauan Divers blessed with sSightings of Five Mantas after call to Earth Beach Clean-Up + Dive
+
+date: 2024-12-06, from: Island Times
+
+<figure><img width="1024" height="589" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/dive-club1.jpg?fit=1024%2C589&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/dive-club1.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/dive-club1.jpg?resize=300%2C172&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/dive-club1.jpg?resize=1024%2C589&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/dive-club1.jpg?resize=768%2C441&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/dive-club1.jpg?resize=1200%2C690&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/dive-club1.jpg?resize=400%2C230&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/dive-club1.jpg?resize=706%2C406&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/dive-club1.jpg?fit=1024%2C589&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="74298" data-permalink="https://islandtimes.org/palauan-divers-blessed-with-ssightings-of-five-mantas-after-call-to-earth-beach-clean-up-dive/20241123_pp_pr_diveclub/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/dive-club1.jpg?fit=1249%2C718&amp;ssl=1" data-orig-size="1249,718" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;20241123_PP_PR_DiveClub&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20241123_PP_PR_DiveClub" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/dive-club1.jpg?fit=300%2C172&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/dive-club1.jpg?fit=780%2C449&amp;ssl=1" /></figure>
+<p>On November 23, 2024, members of the Palau Pledge Dive Club and the Palau High School Sports Club gathered for a Beach Clean-up and Dive Event to promote sustainability and ocean conservation. Supported by the Embassy of France to the Philippines and Micronesia, this event was part of CNN’s global Call to Earth Initiative, showcasing [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palauan-divers-blessed-with-ssightings-of-five-mantas-after-call-to-earth-beach-clean-up-dive/">Palauan Divers blessed with sSightings of Five Mantas after call to Earth Beach Clean-Up + Dive</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palauan-divers-blessed-with-ssightings-of-five-mantas-after-call-to-earth-beach-clean-up-dive/>
+
+---
+
+## Phase 2 launch of Project Olangch
+
+date: 2024-12-06, from: Island Times
+
+<figure><img width="985" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/Phase-2-launch-of-Project-Olangch.jpg?fit=985%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/Phase-2-launch-of-Project-Olangch.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/Phase-2-launch-of-Project-Olangch.jpg?resize=289%2C300&amp;ssl=1 289w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/Phase-2-launch-of-Project-Olangch.jpg?resize=985%2C1024&amp;ssl=1 985w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/Phase-2-launch-of-Project-Olangch.jpg?resize=768%2C798&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/Phase-2-launch-of-Project-Olangch.jpg?resize=1200%2C1247&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/Phase-2-launch-of-Project-Olangch.jpg?resize=400%2C416&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/Phase-2-launch-of-Project-Olangch.jpg?resize=706%2C734&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/Phase-2-launch-of-Project-Olangch.jpg?fit=985%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="74294" data-permalink="https://islandtimes.org/phase-2-launch-of-project-olangch/phase-2-launch-of-project-olangch/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/Phase-2-launch-of-Project-Olangch.jpg?fit=1249%2C1298&amp;ssl=1" data-orig-size="1249,1298" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Phase 2 launch of Project Olangch" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/Phase-2-launch-of-Project-Olangch.jpg?fit=289%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/Phase-2-launch-of-Project-Olangch.jpg?fit=780%2C811&amp;ssl=1" /></figure>
+<p>5 December 2024&#8211; Project Olangch has been transformative for Palau’s health system, which is now one of the most digitised health systems in the Pacific region and more advanced than many higher-resourced settings. With support from the Australian Government since 2020, Beyond Essential Systems (BES) has worked with Belau National Hospital (BNH) to roll out [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/phase-2-launch-of-project-olangch/">Phase 2 launch of Project Olangch</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/phase-2-launch-of-project-olangch/>
+
+---
+
+## Palau adopts Comprehensive National Water Policy to address Water Security and Equity
+
+date: 2024-12-06, from: Island Times
+
+<figure><img width="1024" height="551" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/palau-water.jpg?fit=1024%2C551&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/palau-water.jpg?w=1408&amp;ssl=1 1408w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/palau-water.jpg?resize=300%2C162&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/palau-water.jpg?resize=1024%2C551&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/palau-water.jpg?resize=768%2C413&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/palau-water.jpg?resize=1200%2C646&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/palau-water.jpg?resize=400%2C215&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/palau-water.jpg?resize=706%2C380&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/palau-water.jpg?fit=1024%2C551&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="74288" data-permalink="https://islandtimes.org/?attachment_id=74288" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/palau-water.jpg?fit=1408%2C758&amp;ssl=1" data-orig-size="1408,758" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Desiree Ngirameked&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="palau water" data-image-description="" data-image-caption="&lt;p&gt;Representatives of various bureaus, ministries, join President Whipps Jr. and PPUC CEO Kyota at the signing of the Palau Water Policy.&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/palau-water.jpg?fit=300%2C162&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/palau-water.jpg?fit=780%2C420&amp;ssl=1" /></figure>
+<p>, Palau —President Surangel Whipps Jr. signed the National Water Policy on Dec. 4, 2024 aimed at ensuring sustainable water resource management and improving access to clean water and sanitation services across Palau. The policy addresses critical challenges, including water security, climate change, and equitable service delivery, with an emphasis on underserved communities.The policy was [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-adopts-comprehensive-national-water-policy-to-address-water-security-and-equity/">Palau adopts Comprehensive National Water Policy to address Water Security and Equity</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-adopts-comprehensive-national-water-policy-to-address-water-security-and-equity/>
+
+---
+
+## Taiwan’s President Lai Strengthens Pacific Ties with Palau Visit
+
+date: 2024-12-06, from: Island Times
+
+<figure><img width="600" height="548" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/President-Lai.jpg?fit=600%2C548&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/President-Lai.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/President-Lai.jpg?resize=300%2C274&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/President-Lai.jpg?resize=400%2C365&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/President-Lai.jpg?fit=600%2C548&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="74324" data-permalink="https://islandtimes.org/?attachment_id=74324" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/President-Lai.jpg?fit=600%2C548&amp;ssl=1" data-orig-size="600,548" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Ngewakl Soaladaob&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;Untitled design - 1&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Untitled design &#8211; 1" data-image-description="" data-image-caption="&lt;p&gt;Taiwan President Lai Ching-Te &lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/President-Lai.jpg?fit=300%2C274&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/President-Lai.jpg?fit=600%2C548&amp;ssl=1" /></figure>
+<p>KOROR, Palau — Taiwan President Lai Ching-Te arrived in Palau on Thursday, marking the final stop of his Pacific tour, which included visits to the Marshall Islands, Tuvalu, Hawaii, Guam, and Palau. President Lai received a warm welcome at Palau International Airport, where all six members of President Surangel Whipps Jr.&#8217;s Cabinet, Republic of China [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/taiwans-president-lai-strengthens-pacific-ties-with-palau-visit/">Taiwan&#8217;s President Lai Strengthens Pacific Ties with Palau Visit</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/taiwans-president-lai-strengthens-pacific-ties-with-palau-visit/>
+
+---
+
+## UH fall 2024 commencement schedule
+
+date: 2024-12-06, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> four-year campuses and <span aria-label="Kapiolani">Kapi&#699;olani</span> Community College will celebrate their mid-year commencement ceremonies.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/05/fall-2024-commencement-schedule/"><abbr>UH</abbr> fall 2024 commencement schedule</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/05/fall-2024-commencement-schedule/>
+
+---
+
+## Taiwan president’s visit to Guam stokes fears of being targeted by China
+
+date: 2024-12-06, from: Island Times
+
+<p>China condemned President Lai&#8217;s U.S. stopovers and warned against any official interactions and support for Taiwanese independence. By: Mar-Vic Cagurangan 2024.12.05 Hagatna, Guam (Benar News) Taiwanese President Lai Ching-te’s visit to Guam to strengthen ties has raised residents&#8217; fears of the U.S. territory being further targeted in escalating tensions between Washington and Beijing. Lai is [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/taiwan-presidents-visit-to-guam-stokes-fears-of-being-targeted-by-china/">Taiwan president&#8217;s visit to Guam stokes fears of being targeted by China</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/taiwan-presidents-visit-to-guam-stokes-fears-of-being-targeted-by-china/>
+
+---
+
+## UH Alumni: Kelly Tolar expands Coconut Ave boutique venture
+
+date: 2024-12-05, from: University of Hawaiʻi News
+
+<p>Tolar earned degrees from <span aria-label="Hawaii">Hawai&#699;i</span> <abbr>CC</abbr> and <abbr>UH</abbr> Mānoa before launching her lifestyle store.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/05/uh-alumni-kelly-tolar/"><abbr>UH</abbr> Alumni: Kelly Tolar expands Coconut Ave boutique venture</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/05/uh-alumni-kelly-tolar/>
+
+---
+
+## UH-mazing Recipes: Chef Roy Yamaguchi’s momʻs green beans
+
+date: 2024-12-05, from: University of Hawaiʻi News
+
+<p>Culinary Institute of the Pacific Director Chef Roy Yamaguchi shares his mom’s green beans.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/05/recipes-chef-roy-yamaguchi-mom-green-beans/"><abbr>UH</abbr>-mazing Recipes: Chef Roy Yamaguchi’s momʻs green beans</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/05/recipes-chef-roy-yamaguchi-mom-green-beans/>
+
+---
+
+## Arakawa named D2 All-West Region Player of the Year
+
+date: 2024-12-05, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Hilo senior forward Teani Arakawa named the 2024 Division 2 <abbr>CCA</abbr> Women’s Soccer West Region Player of the Year for the second season in a row.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/05/arakawa-d2-all-west-region-player-of-the-year/">Arakawa named <abbr>D2</abbr> All-West Region Player of the Year</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/05/arakawa-d2-all-west-region-player-of-the-year/>
+
+---
+
+## Pearls bring in the bucks
+
+date: 2024-12-05, from: Marshal Islands Journal
+
+<p>Journal 12/11/1987 P3 PII’s Kramer re-elected Chamber headNew officers were elected to the Marshall Islands Association of Chambers of Commerce last Thursday. Jerry Kramer of Pacific International Inc. was elected president of the Chamber. Sam Leon of Candise Rental was elected vice president, Pat Muno of the Hairport is secretary, and independent businessman Mike Case [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/pearls-bring-in-the-bucks/">Pearls bring in the bucks</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/pearls-bring-in-the-bucks/>
+
+---
+
+## 3 UH Hilo women’s volleyball players named to All-PacWest Team
+
+date: 2024-12-05, from: University of Hawaiʻi News
+
+<p>Taylor Tullo, Tani Hoke and Samara Cruz were selected to the 2024 Women’s Volleyball All-PacWest Second Team.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/05/uh-hilo-womens-volleyball-all-pacwest-team/">3 <abbr>UH</abbr> Hilo women’s volleyball players named to All-PacWest Team</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/05/uh-hilo-womens-volleyball-all-pacwest-team/>
+
+---
+
+## 5 Rainbow Wahine soccer players named All-West Region
+
+date: 2024-12-05, from: University of Hawaiʻi News
+
+<p>Nalani Damacion, Jacey Jicha, Kennedy Justin, Alice Davidson and Brynn Mitchell earned United Soccer Coaches All-West Region honors.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/05/rainbow-wahine-soccer-all-west-region/">5 Rainbow Wahine soccer players named All-West Region</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/05/rainbow-wahine-soccer-all-west-region/>
+
+---
+
+## Post-election rumination
+
+date: 2024-12-05, from: Pacific Island Times
+
+Ordinarily, in a lousy economy, the party in power is usually punished by the electorate in a midterm election. In the CNMI’s case, however, 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/post-election-rumination>
+
+---
+
+## Researchers map stress evolution at Kīlauea volcano
+
+date: 2024-12-05, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> researchers uncovered 120 years of K&#299;lauea volcano data, revealing how the 1975 Kalapana earthquake reshaped stress and deformation patterns.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/05/stress-evolution-kilauea/">Researchers map stress evolution at Kīlauea volcano</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/05/stress-evolution-kilauea/>
+
+---
+
+## Memories
+
+date: 2024-12-05, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Fabiana Martínez If men learn this, it will implant forgetfulness in their souls; they will cease to exercise memory because they rely on that which is written, calling things to remembrance no longer from within themselves, but by means &#8230; <a href="https://hawaiipacificreview.org/2024/12/05/memories/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://hawaiipacificreview.org/2024/12/05/memories/>
+
+---
+
+## Naked Fish dishes and drinks you have to try!
+
+date: 2024-12-05, updated: 2024-12-05, from: Marianas Variety
+
+AS Naked Fish Bar &amp; Grill regulars are sure to tell you, the food and drink offerings at the Garapan restaurant are a critical reason the establishment has reached its milestone of two decades in operation. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/naked-fish-dishes-and-drinks-you-have-to-try/article_023ba1de-b2cb-11ef-9462-43f4bf71f2c2.html>
+
+---
+
+## CPA’s Tebuteb stresses need for clear distinction between board and management duties
+
+date: 2024-12-05, updated: 2024-12-05, from: Marianas Variety
+
+COMMONWEALTH Ports Authority Board Chair Ramon A. Tebuteb on Wednesday reiterated the importance of “delineating” the duties of the board and management. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/cpa-s-tebuteb-stresses-need-for-clear-distinction-between-board-and-management-duties/article_4370f738-b2eb-11ef-a0ec-1b62c104b8f1.html>
+
+---
+
+## Going forward
+
+date: 2024-12-05, updated: 2024-12-05, from: Marianas Variety
+
+Construction of Northern Marianas College’s flagship student center is ongoing, with workers now focused on the upper levels of the building. The project is funded by the U.S. Department of Education with additional funding support from FEMA and the U.S. Department of the Interior’s Office of Insular Affairs. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/going-forward/article_a1f4f0e4-b2e5-11ef-9b21-bba30d0a23b9.html>
+
+---
+
+## 30 students compete in Moot Court championship
+
+date: 2024-12-05, updated: 2024-12-05, from: Marianas Variety
+
+THIRTY students from three high schools are participating in this year’s CNMI Supreme Court Moot Court championship at the Guma’ Hustisia in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/30-students-compete-in-moot-court-championship/article_114dbf30-b2ea-11ef-9636-a3a2f1bba5a1.html>
+
+---
+
+## Governor nominates Jackson to CPA board
+
+date: 2024-12-05, updated: 2024-12-05, from: Marianas Variety
+
+GOVERNOR Arnold I. Palacios on Wednesday nominated Bridge Capital Vice President Bart Jackson to the Commonwealth Ports Authority board of directors. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/governor-nominates-jackson-to-cpa-board/article_2e2c57a4-b2e7-11ef-8fe4-035aa6c0cc53.html>
+
+---
+
+## Naked Fish turns 20: ‘Always good vibes there’
+
+date: 2024-12-05, updated: 2024-12-05, from: Marianas Variety
+
+NAKED Fish Bar &amp; Grill celebrates two decades of operation in the CNMI this week and, according to its owner, Joe Guerrero, the Garapan hot spot is looking to honor its longstanding goal of providing “good food, with good friends, coming together to have a good time.” 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/naked-fish-turns-20-always-good-vibes-there/article_30eed8ee-b2c5-11ef-8c4e-53c23a28029b.html>
+
+---
+
+## Trump’s Pentagon nominee Hegseth gets tepid welcome from some Senate Republicans
+
+date: 2024-12-05, updated: 2024-12-05, from: Marianas Variety
+
+WASHINGTON (Reuters) — President-elect Donald Trump's embattled pick to lead the U.S. Department of Defense, Pete Hegseth, met with a lukewarm response from some Senate Republicans on Wednesday over allegations about his personal and professional life. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-s-pentagon-nominee-hegseth-gets-tepid-welcome-from-some-senate-republicans/article_346a1e4a-b313-11ef-a175-4b4ec063f42a.html>
+
+---
+
+## South Korea's Yoon replaces defense minister as impeachment vote looms
+
+date: 2024-12-05, updated: 2024-12-05, from: Marianas Variety
+
+SEOUL (Reuters) — South Korean opposition lawmakers said on Thursday they would vote this weekend to impeach President Yoon Suk Yeol over his botched attempt to impose martial law, while the defense minister blamed for recommending the move resigned. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/south-koreas-yoon-replaces-defense-minister-as-impeachment-vote-looms/article_bd2c76ca-b312-11ef-ad7c-934d1b89d1a1.html>
+
+---
+
+## Governor, NMI senators meet with Taiwan president
+
+date: 2024-12-05, updated: 2024-12-05, from: Marianas Variety
+
+AHEAD of Gov. Arnold I. Palacios’ off-island trip to join Guam leaders in a luncheon meeting with Taiwan President Lai Ching-te, Sen. Celina R. Babauta introduced Senate Commemorative Resolution 23-8, extending “sincere congratulations” to Lai’s “historic election.” 
+
+<br> 
+
+<https://www.mvariety.com/news/local/governor-nmi-senators-meet-with-taiwan-president/article_72eb190e-b2d6-11ef-b060-27e6d5bdfe13.html>
+
+---
+
+## Mayor RB meets with Precinct 2 residents
+
+date: 2024-12-05, updated: 2024-12-05, from: Marianas Variety
+
+SAIPAN Mayor Ramon B. Camacho held the first public village meeting on Wednesday in the William S. Reyes Elementary School cafeteria in Chalan Kanoa from 6 p.m. to 7:30 p.m. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/mayor-rb-meets-with-precinct-2-residents/article_873cbd66-b2ce-11ef-862a-3bc717c0d874.html>
+
+---
+
+## Media madness for Taiwan visit
+
+date: 2024-12-05, from: Marshal Islands Journal
+
+<p>It’s no problem to get media attention when you bring your own with you. That’s what Taiwan President Lai Ching-te did. Flying in on a China Airlines charter flight, there were almost as many incoming media people as Taiwan government officials with the president. The lineup of cameras at the Nitijela and other events during [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/media-madness-for-taiwan-visit/">Media madness for Taiwan visit</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/media-madness-for-taiwan-visit/>
 
 ---
 
@@ -1220,7 +2009,7 @@ The U.S. Department of Defense is seeking to secure the Federated States of Micr
 
 date: 2024-12-03, from: Island Times
 
-<figure><img width="1024" height="576" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?resize=1200%2C674&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="74214" data-permalink="https://islandtimes.org/hands-on-animal-care-sparks-medical-science-interest-in-students/special1/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?fit=1249%2C702&amp;ssl=1" data-orig-size="1249,702" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="special1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?fit=780%2C439&amp;ssl=1" /></figure>
+<figure><img width="1024" height="576" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?resize=1200%2C674&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="74214" data-permalink="https://islandtimes.org/hands-on-animal-care-sparks-medical-science-interest-in-students/special1/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?fit=1249%2C702&amp;ssl=1" data-orig-size="1249,702" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="special1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/12/special1.jpg?fit=780%2C439&amp;ssl=1" /></figure>
 <p>The results of the 15th Peleliu State General Election vote on constitutional amendments will remain undisclosed until the court resolves a legal challenge questioning the validity of the process that placed the proposed changes on the ballot. The election, held today, also determines the next governor and members of the state legislature. Incumbent Governor Dr. [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/court-decision-delays-results-of-peleliu-constitutional-amendments-vote/">Court Decision Delays Results of Peleliu Constitutional Amendments Vote</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  

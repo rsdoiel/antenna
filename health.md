@@ -1,11 +1,83 @@
 ---
 title: health
-updated: 2024-12-05 07:05:48
+updated: 2024-12-06 07:05:08
 ---
 
 # health
 
-(date: 2024-12-05 07:05:48)
+(date: 2024-12-06 07:05:08)
+
+---
+
+## Synergistic efficacy of phage Henu10 with antibiotics against Shigella dysenteriae with insight into phage resistance and fitness trade-offs
+
+date: 2024-12-06, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionThe irrational use of antibiotics has facilitated the emergence of multidrug- resistant Shigella spp., undermining the effectiveness of the currently available antibiotics. Consequently, there is an urgent need to explore new approaches, with phage therapy emerging as a promising alternative.MethodsIn this study, we isolated a phage targeting Shigella dysenteriae from sewage samples using DLA methold, designated Henu10. The morphology, biological characteristics, genomic composition, and phylogenetic relationships of Henu10 were thoroughly characterized. To investigate the trade-off relationship between phage resistance and bacterial fitness, phage Henu10-resistant strains R6 and R11 were identified using continuous passage and bidirectional validation methods.ResultsPhage-resistant strains R6 and R11 exhibited impaired adsorption, increased sensitivity to temperature and pH stress, heightened susceptibility to certain antibiotics (such as ciprofloxacin and kanamycin), reduced biofilm-forming capacity, and diminished colonization ability in vivo compared to the wild-type strain.DiscussionThese results indicate that phage Henu10 may effectively control the pathogenic bacteria associated with S. dysenteriae, representing a promising new therapeutic option for treating S. dysenteriae infections. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1499325>
+
+---
+
+## Unravelling the mechanisms causing murepavadin resistance in Pseudomonas aeruginosa: lipopolysaccharide alterations and its consequences
+
+date: 2024-12-06, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionMurepavadin is an antimicrobial peptide (AMP) in clinical development that selectively targets Pseudomonas aeruginosa LptD and whose resistance profile remains unknown. We aimed to explore genomic modifications and consequences underlying murepavadin and/or colistin susceptibility.MethodsTo define genomic mechanisms underlying resistance, we performed two approaches: 1) a genome-wide association study (GWAS) in a P. aeruginosa clinical collection (n=496), considering >0.25 mg/L as tentative cut-off of murepavadin acquired resistance; 2) a paired genomic comparison in a subset of 5 isolates and their isogenic murepavadin-resistant mutants obtained in vitro. Lipid-A composition, immunogenicity and cathelicidin and indolicidin effects on bacterial growth were also tested in this last subset of isolates. Murepavadin MICs were determined in ΔlpxL1 and ΔlpxL2 knock-out mutants obtained from a auxotroph PAO1 derivative.ResultsGWAS revealed a missense variant (A→G p.Thr260Ala in the hisJ gene) associated with murepavadin resistance although both resistant and susceptible strains harbored it (21% and 12% respectively, OR=1.92, p=0.012 in χ² test). Among the isolate subset, murepavadin-resistant mutants with deletions in lpxL1 and lpxL2 genes showed lower abundance of hexa-acylated lipid-A (m/z 1616, 1632). 4-aminoarabinose addition was found only in colistin-resistant isolates but not in the other ones, irrespective of murepavadin susceptibility. Accordingly, ΔlpxL1 and ΔlpxL2 mutants exhibited higher murepavadin MICs than parental PAO1 auxotroph strain (2 and 4 vs 0.5 mg/L respectively). Lipopolysaccharide from murepavadin-resistant mutants triggered lower inflammatory responses in human monocytes. Those with lpxL mutations and hexa-acylated lipid-A loss also exhibited greater growth reduction when exposed to host-derived AMPs cathelicidin and indolicidin.DiscussionHigh murepavadin-resistance seems to be linked to lpxL1 and lpxL2 mutations and lower hexa-acylated lipid-A, corresponding to lower inflammatory induction and higher susceptibility to host-derived AMPs. Although GWAS identified one variant associated with the murepavadin-resistant phenotype, data revealed that there was no unique single genetic event underlying this phenotype. Our study provides insight into the mechanisms underlying murepavadin susceptibility. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1446626>
+
+---
+
+## Overexpression of KPC contributes to ceftazidime-avibactam heteroresistance in clinical isolates of carbapenem-resistant Klebsiella pneumoniae
+
+date: 2024-12-06, from: Frontiers in Cellular and Infection Microbiology
+
+Ceftazidime–avibactam (CZA) is one of the effective antibiotics used for the treatment of carbapenem-resistant Klebsiella pneumoniae (CRKP) infections, but its resistance rate has increased recently. Previous studies have focused on the mechanisms of CZA resistance, while its heteroresistance in CRKP remains poorly understood. This study aimed to investigate the characteristics and mechanisms of CZA heteroresistance in CRKP isolates. A total of 311 CRKP clinical strains were collected in China from 2020 to 2022. The MICs of CZA and other antibiotics against K. pneumoniae were determined by broth microdilution method. The occurrence of CZA heteroresistance in CRKP was evaluated with population analysis profiling (PAP) and their characteristics were detected by polymerase chain reaction (PCR). The underlying mechanism of CZA heteroresistance in CRKP strains was investigated by molecular sequencing, whole genome sequencing (WGS), quantitative real-time PCR (qRT-PCR), and in vitro functional experiments. Strategies for preventing the emergence of CZA heteroresistance and alternative treatment options for strains exhibiting CZA heteroresistance were further explored. Thirty-four (12.4%) CZA-susceptible CRKP isolates were found to exhibit heteroresistance to CZA. All heteroresistant strains belonged to KPC-2 (97.1%) or KPC-3 (2.9%). The dominant multilocus sequence typing (MLST) was ST11 (64.7%) and the prevalent capsular serotypes were KL47 (38.2%) and KL64 (32.4%). Imipenem-relebactam and meropenem-vaborbactam still exhibited excellent antimicrobial activity against the resistant subpopulations of CZA heteroresistant strains. No significant mutations were found in KPC, OmpK35/36, PBP2/3, and LamB in resistant subpopulations. The relative expression and copy number of blaKPC were significantly upregulated in 47.1% and 35.3% of the resistant subpopulations compared with their parental strains, respectively. Silencing blaKPC expression significantly decreased the CZA MIC in resistant subpopulations with high blaKPC expression and hindered the emergence of CZA heteroresistance in their parental strains. Moreover, increasing the avibactam concentration to 8 or 16 mg/L or combining CZA with 0.5 × MIC tigecycline significantly suppressed the formation of CZA heteroresistance (P<0.05). In conclusion, we identified the occurrence of CZA heteroresistance in CRKP in China, which was attributed to the overexpression of KPC. Increasing the concentration of avibactam or combining CZA with tigecycline could effectively prevent the development of CZA heteroresistance in CRKP isolates. Besides, imipenem-relebactam and meropenem-vaborbactam may serve as alternative therapeutic options when clinical isolates with CZA heteroresistance are detected. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1450530>
+
+---
+
+## Influence of indigenous non-Saccharomyces yeast strains on the physicochemical and sensory properties of wine fermentation: a promising approach to enhancing wine quality
+
+date: 2024-12-06, from: Frontiers in Cellular and Infection Microbiology
+
+This study explores the potential of indigenous non-Saccharomyces yeasts isolated from Vitis vinifera L. grape skins to improve the quality of regional wines by enhancing their physicochemical and sensory characteristics. Five promising yeast strains were identified at different stages of fermentation: Hanseniaspora opuntiae (J1Y-T1), H. guilliermondii (Y5P-T5), H. uvarum (JF3-T1N), Pichia kudriavzevii (Y8P-T8), and Starmerella bacillaris (WMP4-T4). Among these, H. uvarum and S. bacillaris were particularly noteworthy due to their superior alcohol production, achieving levels of 8.16 ± 0.05% and 8.04 ± 0.04% (v/v), respectively, and demonstrating higher alcohol tolerance even in later fermentation stages. Hanseniaspora uvarum also showed exceptional resilience, with a half-life of 3.34 ± 0.03 days and a Km value of 1.0200 ± 0.0100 mol L⁻¹, achieving the highest biomass even in the later stages of fermentation. High-Performance Liquid Chromatography analysis revealed that while tartaric acid levels remained constant, malic acid content decreased, and acetic acid was produced by all strains. Solid-Phase Microextraction-Gas Chromatography Mass Spectrometry identified ethyl acetate as the dominant volatile compound, with H. uvarum producing the highest concentration (43.411 ± 1.602%), contributing to a fruitier aroma and flavor. The combined attributes of H. uvarum higher alcohol content, enhanced fruity notes, improved clarity, lower acetic acid (0.52 ± 0.03 g L⁻¹), and significant residual sugar (162.37 ± 2.48 g L⁻¹) make it a promising candidate for improving the overall quality of regional wines. Incorporating H. uvarum into mixed starter cultures with specific Saccharomyces strains could further optimize the wine fermentation process. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1495177>
+
+---
+
+## Structural proteins of human coronaviruses: what makes them different?
+
+date: 2024-12-06, from: Frontiers in Cellular and Infection Microbiology
+
+Following COVID-19 outbreak with its unprecedented effect on the entire world, the interest to the coronaviruses increased. The causative agent of the COVID-19, severe acute respiratory syndrome coronavirus – 2 (SARS-CoV-2) is one of seven coronaviruses that is pathogenic to humans. Others include SARS-CoV, MERS-CoV, HCoV-HKU1, HCoV-OC43, HCoV-NL63 and HCoV-229E. The viruses differ in their pathogenicity. SARS-CoV, MERS-CoV, and SARS-CoV-2 are capable to spread rapidly and cause epidemic, while HCoV-HKU1, HCoV-OC43, HCoV-NL63 and HCoV-229E cause mild respiratory disease. The difference in the viral behavior is due to structural and functional differences. All seven human coronaviruses possess four structural proteins: spike, envelope, membrane, and nucleocapsid. Spike protein with its receptor binding domain is crucial for the entry to the host cell, where different receptors on the host cell are recruited by different viruses. Envelope protein plays important role in viral assembly, and following cellular entry, contributes to immune response. Membrane protein is an abundant viral protein, contributing to the assembly and pathogenicity of the virus. Nucleocapsid protein encompasses the viral RNA into ribonucleocapsid, playing important role in viral replication. The present review provides detailed summary of structural and functional characteristics of structural proteins from seven human coronaviruses, and could serve as a practical reference when pathogenic human coronaviruses are compared, and novel treatments are proposed. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1458383>
+
+---
+
+## Clostridium butyricum, a future star in sepsis treatment
+
+date: 2024-12-06, from: Frontiers in Cellular and Infection Microbiology
+
+Sepsis is a systemic inflammatory response syndrome of multiorgan failure caused by dysregulation of the host response to infection and is a major cause of death in critically ill patients. In recent years, with the continuous development of sequencing technology, the intestinal microecology of this disease has been increasingly studied. The gut microbiota plays a host-protective role mainly through the maintenance of normal immune function and the intestinal barrier. Recent evidence suggests that intestinal flora dysbiosis plays a crucial role in sepsis. Clostridium butyricum (C. butyricum), which has been used as a probiotic in poultry feed since its discovery, has been found to play a potential protective role in intestinal infections, inflammatory bowel disease (IBD), colorectal cancer, and other diseases in recent studies. In this review, we continue to focus on the important role and mechanism of C. butyricum as a probiotic in human diseases, especially intestinal diseases. Additionally, we evaluate the research progress of C. butyricum in treatment of sepsis to identify more therapeutic targets for the clinical treatment of sepsis. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1484371>
 
 ---
 

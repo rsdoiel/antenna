@@ -1,11 +1,47 @@
 ---
 title: retro computing
-updated: 2024-12-05 07:05:48
+updated: 2024-12-06 07:05:08
 ---
 
 # retro computing
 
-(date: 2024-12-05 07:05:48)
+(date: 2024-12-06 07:05:08)
+
+---
+
+## RingBind reaches version 0.20
+
+date: 2024-12-06, from: RiscOS Story
+
+And there&#8217;s now a beta version of the Impression User Manual in Bound format Chris Hall has made available a new version of RingBind. The application offers an alternative way to view user manuals and other publications on screen, making them look like ring-bound manuals, as though open on your desk &#8211; provided they have first been converted to the Bound format (and file-type). With version 0.20, a few bugs have been corrected, and the software now correctly implements page-to-page links &#8211; so rather than thumb (in a virtual manner)&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2024/ringbind-version-0-20/>
+
+---
+
+## TIB now on Bluesky
+
+date: 2024-12-06, from: Icon Bar, RISC OS News
+
+TIB now has a social media account on Bluesky! 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2137.html>
+
+---
+
+## Archive Edition 27:3 reviewed
+
+date: 2024-12-06, from: Icon Bar, RISC OS News
+
+Archive Magazine 27:3 was released this week. 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2140.html>
 
 ---
 

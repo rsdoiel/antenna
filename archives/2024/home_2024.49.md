@@ -1,11 +1,329 @@
 ---
 title: home
-updated: 2024-12-05 07:05:47
+updated: 2024-12-06 07:05:08
 ---
 
 # home
 
-(date: 2024-12-05 07:05:47)
+(date: 2024-12-06 07:05:08)
+
+---
+
+## The 7 Safest Space Heaters: Tested and Reviewed
+
+date: 2024-12-05, from: Family Handyman Blog
+
+<p>We tested 12 electric space heaters. These are the seven safest space heaters to keep you warm all winter long.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/safest-space-heaters/">The 7 Safest Space Heaters: Tested and Reviewed</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/safest-space-heaters/>
+
+---
+
+## Healthy Soils Week — Farm Tour in Yolo County for State Legislative Staff and Stakeholders
+
+date: 2024-12-05, from: Calfifornia Dept. Aggriculture blog
+
+In honor of Healthy Soils Week (December 2-6), CDFA joined legislators, their staff members, and stakeholders for a tour of farms in Yolo County to see greenhouse gas-reducing healthy soil practices in action. Farmers who have received healthy soils grants &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28449">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28449>
+
+---
+
+## The Bissell Little Green Machine Is the Best Cleaning Appliance of 2024
+
+date: 2024-12-05, from: Family Handyman Blog
+
+<p>Messes are inevitable, and the best cleaning products are essential. The Bissell Little Green Machine is our favorite.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/bissell-best-of-2024/">The Bissell Little Green Machine Is the Best Cleaning Appliance of 2024</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/bissell-best-of-2024/>
+
+---
+
+## The Best Products We Tested in 2024, According to Family Handyman Editors
+
+date: 2024-12-05, from: Family Handyman Blog
+
+<p>From bedding to power tools and appliances, here are the best products we tested in 2024.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/best-products-2024/">The Best Products We Tested in 2024, According to &lt;i&gt;Family Handyman&lt;/i&gt; Editors</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/best-products-2024/>
+
+---
+
+## Volkswagen Hybrids Recalled Over Fire Risk — Is Yours On the List?
+
+date: 2024-12-05, from: Family Handyman Blog
+
+<p>If you drive an Audi, your car may be on the list.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/volkswagen-audi-hybrid-recall/">Volkswagen Hybrids Recalled Over Fire Risk — Is Yours On the List?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/volkswagen-audi-hybrid-recall/>
+
+---
+
+## How To Get Rid of Mold on Unfinished Wood
+
+date: 2024-12-05, from: Family Handyman Blog
+
+<p>Harmful mold can quickly spread if left unchecked. Learn how to clean mold off wood, whether it's finished or unfinished, with this expert-approved process.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-get-rid-of-mold-on-unfinished-wood/">How To Get Rid of Mold on Unfinished Wood</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/how-to-get-rid-of-mold-on-unfinished-wood/>
+
+---
+
+## These $5.9K Cedar Hot Tubs Let You Soak in the Views
+
+date: 2024-12-05, from: Dwell
+
+Designed with sustainability and simplicity in mind, these wood-fired tubs connect you to the natural world. 
+
+<br> 
+
+<https://www.dwell.com/article/woodfired-cedar-hot-tubs-alumitubs-e01d7798>
+
+---
+
+## 6 Ways Caring for Your Houseplants Can Be a Form of Self-Care
+
+date: 2024-12-05, from: Sunset Magazine - Living in the West
+
+Plant care is more than just a task—it’s a way to nurture ourselves and find moments of calm in our busy stress-filled lives. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/flowers-plants/houseplant-self-care-routine>
+
+---
+
+## How "Star Trek" Helped Make Midcentury-Modern the Signature Sci-Fi Aesthetic
+
+date: 2024-12-05, from: Dwell
+
+The celestial franchise’s vision of the future, ripe with designs of the era like Ox chairs and Bodum tea cups, launched a space-age-style look that still dominates the genre. 
+
+<br> 
+
+<https://www.dwell.com/article/how-star-trek-helped-make-midcentury-modern-the-signature-sci-fi-aesthetic-b9dccaad>
+
+---
+
+## Easy Elderberry Gummies Recipe (How to Make Elderberry Gummies)
+
+date: 2024-12-05, from: Homestead and Chil
+
+<p>Follow our easy step-by-step elderberry gummies recipe to turn nutrient-rich elderberry syrup into homemade gummies for natural immune support. They're delicious, fun, and easy to make! Plus, the kids will love these healthy and adorable little snacks.</p>
+<p>The post <a href="https://homesteadandchill.com/homemade-elderberry-gummies-recipe/">Easy Elderberry Gummies Recipe (How to Make Elderberry Gummies)</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/homemade-elderberry-gummies-recipe/>
+
+---
+
+## Why a No-Subscription Home Security System Might Be Perfect for You
+
+date: 2024-12-05, from: Family Handyman Blog
+
+<p>Monthly fees for professional security monitoring just add to your bills. Here we discuss whether skipping the subscription is a good idea.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/no-subscription-home-security-system/">Why a No-Subscription Home Security System Might Be Perfect for You</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/no-subscription-home-security-system/>
+
+---
+
+## Why Tesla Cybertrucks Struggle In Snowy Conditions
+
+date: 2024-12-05, from: Family Handyman Blog
+
+<p>Elon Musk once boasted Tesla's electric vehicles are "apocalypse-proof," so surely they can handle a little snow... right?</p>
+<p>The post <a href="https://www.familyhandyman.com/article/are-tesla-cybertrucks-good-in-snow/">Why Tesla Cybertrucks Struggle In Snowy Conditions</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/are-tesla-cybertrucks-good-in-snow/>
+
+---
+
+## One of Lloyd Wright’s Final Homes Hits the Market in Malibu for $5.5M
+
+date: 2024-12-05, from: Dwell
+
+Famed film composer David Newman is selling the 6,830-square-foot residence, which is set on 1.6 acres and includes a movie theater and a creative studio. 
+
+<br> 
+
+<https://www.dwell.com/article/lloyd-wright-home-composer-david-newman-malibu-park-real-estate-f6a8ac79>
+
+---
+
+## This London Renovation’s Corrugated Cladding Is Sneakily as Green as Its Painted Trim
+
+date: 2024-12-05, from: Dwell
+
+Just like the Cor-Ten steel it mimics, hemp fiber paneling wrapping the home’s extension will change color and texture over time. 
+
+<br> 
+
+<https://www.dwell.com/article/verdant-house-extension-can-sustainable-renovation-hemp-cladding-70e48e26>
+
+---
+
+## How to Care for Phalaenopsis Orchids After Flowering
+
+date: 2024-12-05, from: The Gardener's Path
+
+<p>After your moth orchid (Phalaenopsis) has finished blooming, it needs some maintenance to stay healthy. Whether you want to encourage the plant to rebloom on the same stem or help it to produce a new one, you'll need to address the stalk. Learn about how to care for Phalaenopsis after flowering in this guide. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/phalaenopsis-after-flowering/">How to Care for Phalaenopsis Orchids After Flowering</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/phalaenopsis-after-flowering/>
+
+---
+
+## How They Pulled It Off: Converting a Medieval Barn Into a Home—Without Breaking Preservation Code
+
+date: 2024-12-05, from: Dwell
+
+A couple tasked a transatlantic team of designers with making a nearly windowless space feel like a loft while steering clear of its thick limestone walls. 
+
+<br> 
+
+<https://www.dwell.com/article/how-they-pulled-it-off-converting-a-medieval-barn-into-a-homewithout-breaking-preservation-code-d3727d61>
+
+---
+
+## Forget the Christmas Tree, Here’s the Ultimate Guide to Holiday Decorating with Houseplants
+
+date: 2024-12-05, from: Sunset Magazine - Living in the West
+
+This holiday season, think outside the box with your greenery decor. The team at Rolling Greens trades out traditional boughs for botanicals. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/flowers-plants/decorating-with-houseplants-for-the-holidays>
+
+---
+
+## This A-Frame Alternative Is the Absolute Grooviest Winter Mountain Retreat
+
+date: 2024-12-05, from: Sunset Magazine - Living in the West
+
+This groovy 1970s chalet done in the Gambrel style is a must-book for snow season, especially for A-Frame lovers. 
+
+<br> 
+
+<https://www.sunset.com/travel/sunrise-chalet-lake-arrowhead-mountain-cabin>
+
+---
+
+## These Are the Holiday Treats You Don’t Want to Skip at Disneyland This Year
+
+date: 2024-12-05, from: Sunset Magazine - Living in the West
+
+Tis the season for enjoying festive bites and treats, and it’s especially true at Disneyland. Here are all the holiday offerings this year. 
+
+<br> 
+
+<https://www.sunset.com/travel/disneyland-holiday-food-2024>
+
+---
+
+## Everything You Need to Know About Celebrating the Holidays at Disneyland
+
+date: 2024-12-05, from: Sunset Magazine - Living in the West
+
+It's the merriest time of year, especially at the Disneyland Resort. From parades to fireworks, there's a lot going on at the park right now. 
+
+<br> 
+
+<https://www.sunset.com/travel/holidays-at-disneyland-2024>
+
+---
+
+## The Internet Is Losing Its Mind Over This New ‘It’ Flower
+
+date: 2024-12-05, from: Sunset Magazine - Living in the West
+
+Everything you need to know about the viral “daffodahlia” flower, which looks like it's part-daffodil, part-dahlia. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/flowers-plants/daffodahlia-flower>
+
+---
+
+## You Need a Cool-Weather Garden Tool Kit. Here’s What Should Be Inside It.
+
+date: 2024-12-05, from: Sunset Magazine - Living in the West
+
+There are certain gardening tools that come in handy during the winter season. We're sharing the must-have gear for cooler months. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/winter-gardening-tools>
+
+---
+
+## The Garden-Obsessed Will Love These Thoughtful Gifts
+
+date: 2024-12-05, from: Sunset Magazine - Living in the West
+
+No matter your budget, these gifts will make your favorite green thumb's holiday merry and bright. Tools, gear, and other gifts for gardeners. 
+
+<br> 
+
+<https://www.sunset.com/home/gifts-for-gardeners>
+
+---
+
+## 10 Things Gardeners Need to Do Before Winter Hits
+
+date: 2024-12-05, from: Sunset Magazine - Living in the West
+
+Before winter begins, there are some things you need to prep your garden to protect it in the colder months and get it ready for spring. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/early-winter-garden-tasks>
+
+---
+
+## Here’s How to Make Your Outdoor Holiday Lighting and Decor More Sustainable
+
+date: 2024-12-05, from: Sunset Magazine - Living in the West
+
+Why not give your outdoor decor a sustainable sparkle? You don’t have to sacrifice holiday magic to make an eco-conscious impact either. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/landscaping/sustainable-holiday-decor>
 
 ---
 
@@ -18,6 +336,102 @@ With just a few days’ work and materials (mostly) from the local hardware stor
 <br> 
 
 <https://www.dwell.com/article/my-diy-outdoor-shower-cost-dollar1000-and-makes-me-feel-like-a-million-bucksyear-round-be99cca9>
+
+---
+
+## Why Pantone Went with a Simple Neutral for Its 2025 Color of the Year
+
+date: 2024-12-05, from: Sunset Magazine - Living in the West
+
+Pantone just announced its 2025 Color of the Year and its a simple, yet rich brown: Mocha Mousse. See why they chose the hue. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/mocha-mousse-2025-pantone-color-of-the-year>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-12-05, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## The Best Wines to Drink Right Now—Read Our 2024 Wine Issue to Find Out
+
+date: 2024-12-05, from: Sunset Magazine - Living in the West
+
+In our 2024 Wine Issue, we're celebrating the winners of the Sunset International Wine Competition. Plus, touring wineries and tasting rooms. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings/2024-wine-issue>
+
+---
+
+## 23 Hostess Gifts to Bring to Your Next Holiday Party
+
+date: 2024-12-05, from: Sunset Magazine - Living in the West
+
+Don't show up empty-handed to your next holiday party. These hostess gift ideas will be much appreciated and get you invited back. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/entertaining/hostess-gift-ideas>
+
+---
+
+## Your Home Could Use a Refresh with Fall’s Hottest Color Palette—Here’s How to Do It
+
+date: 2024-12-05, from: Sunset Magazine - Living in the West
+
+Pinterest just named blues and greens as the colors of fall. Interior designers share how to incorpoate the hues into your home this fall. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/pinterest-fall-2024-color-palette>
+
+---
+
+## These Entertaining Finds Will Get You Through the Whole Holiday Season
+
+date: 2024-12-05, from: Sunset Magazine - Living in the West
+
+For an stress-free holiday hosting season, it helps to have the right essentials. These are the holiday entertaining finds to shop. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/holiday-entertaining-finds>
+
+---
+
+## The Only Holiday Decor Worth Shopping This Year, According to Designers
+
+date: 2024-12-05, from: Sunset Magazine - Living in the West
+
+We asked the pros what they're buying for the most wonderful time of the year. They shared with us their holiday decor must-haves. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/holiday-decor-shopping-picks>
+
+---
+
+## Interior Designers Say These Holiday Tablescape Ideas Are Trending
+
+date: 2024-12-05, from: Sunset Magazine - Living in the West
+
+It's time to set the table for your holiday parties. Interior designers share the holiday tablescape trends that are popular right now. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/holiday-tablescape-trends>
 
 ---
 
@@ -101,15 +515,15 @@ After restoring its floors and rearranging walls, Adam Wiercinski designed a cof
 
 ---
 
-## Here’s How to Make Your Outdoor Holiday Lighting and Decor More Sustainable
+## The 5 Holiday Styling Tricks Everyone Needs to Know
 
 date: 2024-12-04, from: Sunset Magazine - Living in the West
 
-Why not give your outdoor decor a sustainable sparkle? You don’t have to sacrifice holiday magic to make an eco-conscious impact either. 
+Learn how to sleigh your styling this season with holiday houseplant decorating tips that are unique and wow-worthy. 
 
 <br> 
 
-<https://www.sunset.com/home-garden/landscaping/sustainable-holiday-decor>
+<https://www.sunset.com/home-garden/design/holiday-plant-styling-tricks>
 
 ---
 
@@ -163,30 +577,6 @@ Lean on local makers to put together a better holiday spread. These indulgent fo
 
 ---
 
-## Sunset.com Home Page
-
-date: 2024-12-04, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
-
----
-
-## The Garden-Obsessed Will Love These Thoughtful Gifts
-
-date: 2024-12-04, from: Sunset Magazine - Living in the West
-
-No matter your budget, these gifts will make your favorite green thumb's holiday merry and bright. Tools, gear, and other gifts for gardeners. 
-
-<br> 
-
-<https://www.sunset.com/home/gifts-for-gardeners>
-
----
-
 ## The Wellness Gifts That Will Optimize Your Whole Life
 
 date: 2024-12-04, from: Sunset Magazine - Living in the West
@@ -220,18 +610,6 @@ The countdown has begun, so why not mark every day leading up to Dec. 25 with a 
 <br> 
 
 <https://www.sunset.com/lifestyle/shopping/best-advent-calendars>
-
----
-
-## 23 Hostess Gifts to Bring to Your Next Holiday Party
-
-date: 2024-12-04, from: Sunset Magazine - Living in the West
-
-Don't show up empty-handed to your next holiday party. These hostess gift ideas will be much appreciated and get you invited back. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/entertaining/hostess-gift-ideas>
 
 ---
 
@@ -504,6 +882,30 @@ This wooded retreat is a tranquil getaway with high ceilings, walls of glass, sw
 
 ---
 
+## Extend Your Stay...Permanently With This W Boston Penthouse Asking $4.1M
+
+date: 2024-12-03, from: Dwell
+
+Enjoy all the perks of a hotel like a concierge, valet, restaurant and cleaning services, and more. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-w-hotel-boston-real-estate-a5a8ef0f-c39b8328>
+
+---
+
+## A Modern Villa in Verbania Comes With Panoramic Lake Views and a Spa
+
+date: 2024-12-03, from: Dwell
+
+Bucolic life gets a fresh look in the Piedmont region of northwest Italy. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-spa-villa-verbania-real-estate-b2ae7537>
+
+---
+
 ## Wake Up in a Winter Wonderland With This Chic Swiss Chalet for Sale
 
 date: 2024-12-03, from: Dwell
@@ -573,30 +975,6 @@ The judges have named the Best of Class winners of the Sunset International Wine
 <br> 
 
 <https://www.sunset.com/food-wine/wine-pairings/best-of-class-winners-2024-sunset-international-winter-competition>
-
----
-
-## The Best Wines to Drink Right Now—Read Our 2024 Wine Issue to Find Out
-
-date: 2024-12-03, from: Sunset Magazine - Living in the West
-
-In our 2024 Wine Issue, we're celebrating the winners of the Sunset International Wine Competition. Plus, touring wineries and tasting rooms. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/wine-pairings/2024-wine-issue>
-
----
-
-## 6 Ways Caring for Your Houseplants Can Be a Form of Self-Care
-
-date: 2024-12-03, from: Sunset Magazine - Living in the West
-
-Plant care is more than just a task—it’s a way to nurture ourselves and find moments of calm in our busy stress-filled lives. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/flowers-plants/houseplant-self-care-routine>
 
 ---
 

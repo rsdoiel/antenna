@@ -1,11 +1,386 @@
 ---
 title: journalism
-updated: 2024-12-05 07:05:47
+updated: 2024-12-06 07:05:07
 ---
 
 # journalism
 
-(date: 2024-12-05 07:05:47)
+(date: 2024-12-06 07:05:07)
+
+---
+
+## ‘The Midnight Dreary’ immerses audience in reimagining of Edgar Allen Poe classics
+
+date: 2024-12-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Audience participation, death-like animations and betrayal in a dimly lit tavern all came together in &#8220;The Midnight Dreary&#8221; &#8211; a play inspired by the writings of Edgar Allan Poe. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/05/the-midnight-dreary-immerses-audience-in-reimagining-of-edgar-allen-poe-classics/>
+
+---
+
+## Bruins Around the World celebrates cultural diversity with student organizations
+
+date: 2024-12-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Cultural clubs, performers and students gathered to celebrate UCLA&#8217;s diversity Nov. 19 for the Bruins Around the World event.
+Bruins Around the World is a joint initiative between the Undergraduate Students Association Council Office of the International Student Representative and UCLA Residential Life. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/05/bruins-around-the-world-celebrates-cultural-diversity-with-student-organizations/>
+
+---
+
+## Landmark Properties proposes new apartment building to expand housing in Westwood
+
+date: 2024-12-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+A new 12-story apartment building could be coming to Westwood.
+Landmark Properties, the creators of The Mark, proposed an 84-unit apartment building in Westwood, dubbed &#8220;The Metropolitan,&#8221; on Oct. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/05/landmark-properties-proposes-new-apartment-building-to-expand-housing-in-westwood/>
+
+---
+
+## Service, therapy animals on campus improve student wellness, create community
+
+date: 2024-12-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Animals &#8211; whether personal pets or service animals &#8211; can be seen around campus.
+While UCLA&#8217;s residential pet policy only allows fish in tanks under 10 gallons, the school&#8217;s accommodation services allow students with disabilities to live with service and emotional support animals. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/05/service-therapy-animals-on-campus-improve-student-wellness-create-community/>
+
+---
+
+## One person detained following explosive device threat in Sproul Cove
+
+date: 2024-12-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Dec. 5 at 10:29 p.m.</em>
+One person was detained at Sproul Cove on Thursday evening after they threatened to use an explosive device, prompting building-wide evacuations.&#160;
+UCPD issued a statement on the social media platform X just before 9 p.m. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/05/one-person-detained-following-explosive-device-threat-in-sproul-cove/>
+
+---
+
+## National Student Data Corps creates accessible data science community for students
+
+date: 2024-12-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+In the National Student Data Corps at UCLA, students aim to create an inclusive community for students exploring data science.
+NSDC was created in 2022 when one of its founders noticed a large number of students were unable to get into data science organizations, said Milla Nielsen, a fourth-year statistics and data science student and co-president of NSDC. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/05/national-student-data-corps-creates-accessible-data-science-community-for-students/>
+
+---
+
+## Q&A: UCLA Health Chief Data Officer Albert Duntugan talks AI integration in health care
+
+date: 2024-12-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Albert Duntugan, the chief data officer of UCLA Health, sat down with Daily Bruin science and health editor Shaun Thomas to discuss UCLA&#8217;s Health&#8217;s plans to integrate artificial intelligence in its current health care network. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/05/qa-ucla-health-chief-data-officer-albert-duntugan-talks-ai-integration-in-health-care/>
+
+---
+
+## Students express discontent on changes in ASUCLA meal swipe exchange hours
+
+date: 2024-12-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Around 10:50 a.m. in the Charles E. Young Research Library, the line for Cafe 451 steadily grew as students waited for the clock to hit 11 a.m. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/05/students-express-discontent-on-changes-in-asucla-meal-swipe-exchange-hours/>
+
+---
+
+## Q&A: Costume designer Deborah Nadoolman Landis talks career, impact of work
+
+date: 2024-12-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Piece by piece, Deborah Nadoolman Landis is curating culture through cloth.
+From designing the costumes for iconic films such as &#8220;National Lampoon&#8217;s Animal House&#8221; and &#8220;The Blues Brothers&#8221; to earning an Academy Award nomination for her work on &#8220;Coming to America,&#8221; Landis has tailored her niche for the art of costuming while pursuing a professional career in academia. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/05/qa-costume-designer-deborah-nadoolman-landis-talks-career-impact-of-work/>
+
+---
+
+## Christopher Boone named new dean of Price School of Public Policy
+
+date: 2024-12-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Office of the Provost's announcement marks the conclusion of a five-month search.</p>
+<p>The post <a href="https://dailytrojan.com/2024/12/05/christopher-boone-named-new-dean-of-price-school-of-public-policy/">Christopher Boone named new dean of Price School of Public Policy</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/12/05/christopher-boone-named-new-dean-of-price-school-of-public-policy/>
+
+---
+
+## Band Mostly Kosher shares klezmer rock music and Jewish culture with UCLA
+
+date: 2024-12-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+On Nov. 20, Mostly Kosher brought its unique flair of klezmer rock to UCLA.
+The band &#8211; which focuses on traditional klezmer music with modern genres ranging from jazz and Latin to rock and folk &#8211; played a concert at Lani Hall on Nov. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/05/band-mostly-kosher-shares-klezmer-rock-music-and-jewish-culture-with-ucla/>
+
+---
+
+## Here’s What to Do If Walmart Rejected Your Employment Application Due to a Background Check Error
+
+date: 2024-12-05, from: The Sundail (CSUN Student Newspaper)
+
+Being denied a job at Walmart because of a background check can feel overwhelming, especially if you know there’s been a mistake. Whether you applied to stock shelves, run a... 
+
+<br> 
+
+<https://sundial.csun.edu/188360/sundialbrandstudio/independent-legal-guide/heres-what-to-do-if-walmart-rejected-your-employment-application-due-to-a-background-check-error/>
+
+---
+
+## Comic: Getting back up
+
+date: 2024-12-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Life after graduation still scares me a little.</p>
+<p>The post <a href="https://dailytrojan.com/2024/12/05/getting-back-up/">Comic: Getting back up</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/12/05/getting-back-up/>
+
+---
+
+## Boosting Brain Power: How Plant-Based Supplements Are Shaping Student Success
+
+date: 2024-12-05, from: The Sundail (CSUN Student Newspaper)
+
+Image Source: Microsoft Designer In a world of endless deadlines, studying marathons, and exams around every corner, students are always searching for ways to stay sharp. Plant-based supplements may hold... 
+
+<br> 
+
+<https://sundial.csun.edu/188357/sundialbrandstudio/sundial-marketplace/boosting-brain-power-how-plant-based-supplements-are-shaping-student-success/>
+
+---
+
+## Godzilla vs. my attention span … FIGHT!
+
+date: 2024-12-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Understanding media overconsumption as censorship 70 years post-Gojira.</p>
+<p>The post <a href="https://dailytrojan.com/2024/12/05/223963/">Godzilla vs. my attention span … FIGHT!</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/12/05/223963/>
+
+---
+
+## Persian Perspectives Today: Building bridges between Tehran and television with Yasmin Vossoughian
+
+date: 2024-12-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Listen to series host and podcasts contributor Megan Vahdat sit down with MSNBC national correspondent Yasmin Vossoughian to discuss her experiences covering the 2024 presidential election and the importance of dismantling harmful stereotypes about Iranians. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/05/persian-perspectives-today-building-bridges-between-tehran-and-television-with-yasmin-vossoughian/>
+
+---
+
+## UCPD arrests individual suspected of scooter theft, sexual battery against a minor
+
+date: 2024-12-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UCLA Police Department arrested a person Thursday suspected of scooter theft and sexual battery against a minor.
+According to a statement posted on the social media platform X, UCPD said it recovered two scooters and brass knuckles after the arrest around 2:45 a.m., but it is still investigating whether the suspect is linked to three other scooter thefts. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/05/ucpd-arrests-individual-suspected-of-scooter-theft-sexual-battery-against-a-minor/>
+
+---
+
+## Young journalists will reimagine a better press
+
+date: 2024-12-05, from: Nieman Journalism Lab
+
+As a journalism professor, I often talk with students about the purpose of journalism in a liberal democracy — which I assume the United States to be, at least aspirationally. I start by explaining what I mean by liberal democracy. It&#8217;s a form of governance in which decisions are made based on the will of... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/young-journalists-will-reimagine-a-better-press/>
+
+---
+
+## Journalists explain legislative procedure
+
+date: 2024-12-05, from: Nieman Journalism Lab
+
+This will be the year journalism finally explains arcane legislative rules to the public — for national, state, and local government. Most people find talk of clotures, filibusters, committee votes, bill reconciliation, the legislative calendar, and beyond absolutely boring. If civic-affairs news is the broccoli of American journalism, then coverage of legislative procedure is the... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/journalists-explain-legislative-procedure/>
+
+---
+
+## The publisher is always right
+
+date: 2024-12-05, from: Nieman Journalism Lab
+
+The business model that sustained newsrooms for the last century is over, and we&#8217;re left with the rich buying up newspapers like hometown sports teams. This sort of saviorism isn&#8217;t just unacceptable — it&#8217;s disastrous. We&#8217;ve watched The Washington Post, owned by billionaire Jeff Bezos, layoff staff in the name of profitability — followed by... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/the-publisher-is-always-right/>
+
+---
+
+## Impact investment enters the chat
+
+date: 2024-12-05, from: Nieman Journalism Lab
+
+2024 was the year when the industry finally admitted that silver-bullet revenue solutions don&#8217;t exist. Advertising alone isn&#8217;t enough, membership models are promising but require scale and resources, and philanthropic giving — while growing — is finite. And so we&#8217;ve seen the rise in Europe of media-adjacent businesses. We&#8217;ve been delivered remarkable case studies in... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/impact-investment-enters-the-chat/>
+
+---
+
+## Divergent paths for journalism’s future with AI
+
+date: 2024-12-05, from: Nieman Journalism Lab
+
+When it comes to AI, journalism as a profession seems to be caught between the extremes of hope and disillusionment. Attitudes on the role and impact of AI on journalism tend to veer from fears about robots replacing journalists to hopes that machines could boost quality journalism. The media industry is at a critical juncture... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/divergent-paths-for-journalisms-future-with-ai/>
+
+---
+
+## Newsrooms reinvent their political journalism
+
+date: 2024-12-05, from: Nieman Journalism Lab
+
+In traditional newsrooms, political journalists tend to be those who call the shots. Even in the absence of statistics, it&#8217;s safe to bet that the majority of editors-in-chief used to cover politics before rising to the top job. This has shaped pretty much all of journalism. The “he said, she said” variety of news coverage... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/newsrooms-reinvent-their-political-journalism/>
+
+---
+
+## AI companies grapple with what it means to be creators of news
+
+date: 2024-12-05, from: Nieman Journalism Lab
+
+As generative AI creeps further into news delivery, discovery, and consumption, both the media and the tech industries will increasingly find themselves in a strange new digital landscape where tech giants aren&#8217;t just aggregators of journalism, but creators of it. The media and tech industries, frequently to the dismay of both, are deeply and inextricably... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/ai-companies-grapple-with-what-it-means-to-be-creators-of-news/>
+
+---
+
+## The year newsrooms tackle their structural issues
+
+date: 2024-12-05, from: Nieman Journalism Lab
+
+When readers encounter clunky apps, disjointed digital experiences, or headlines optimized for clicks rather than clarity, they’re experiencing something deeper than bad design. These flaws reveal the structural cracks within modern newsrooms — the tension between their form and their function. Having tried almost everything else, I think 2025 is when publishers start to address... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/the-year-newsrooms-tackle-their-structural-issues/>
+
+---
+
+## AI inspires innovation in journalism education
+
+date: 2024-12-05, from: Nieman Journalism Lab
+
+Ten years ago, I submitted my first Nieman Lab prediction, in which I made the provocation that product management would be the new model for journalism. I am encouraged by the thriving news product community that has emerged over the past decade. However, journalism education, with few exceptions, has not comprehensively responded to support this... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/ai-inspires-innovation-in-journalism-education/>
+
+---
+
+## Influencers become journalists
+
+date: 2024-12-05, from: Nieman Journalism Lab
+
+Last year here, I predicted TV reporters would become influencers. I asserted that in being encouraged by stations to use social media to build brands and bring in viewership, reporters would experience something we call influencer creep — how being on social mandates one act like an influencer, even if they don&#8217;t necessarily think of... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/influencers-become-journalists/>
+
+---
+
+## Communities relearn the habits of local news
+
+date: 2024-12-05, from: Nieman Journalism Lab
+
+One of the things that’s lost when the last reporter is laid off and a local newspaper stops publishing is a sort of community muscle memory. In May 2023, I started as the editor of Brookline.News, a startup, nonprofit news site in Brookline, Massachusetts. It had been about a year since the long-time local newspaper... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/communities-relearn-the-habits-of-local-news/>
+
+---
+
+## The print revival comes to news
+
+date: 2024-12-05, from: Nieman Journalism Lab
+
+We&#8217;ve seen a swathe of print magazine launches, relaunches and frequency increases this year, leading to the general acceptance that there is something of a print revival. This has generally been confined to magazines as readers turn to trusted expertise and seek physical reading experiences. There&#8217;s no question daily newspapers will continue their decline, but... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/the-print-revival-comes-to-news/>
+
+---
+
+## Dow Jones negotiates AI usage agreements with nearly 4,000 news publishers
+
+date: 2024-12-05, from: Nieman Journalism Lab
+
+In October, Dow Jones filed a lawsuit against the generative AI startup Perplexity. The publisher accused the AI search engine of “a massive amount of illegal copying of publishers’ copyrighted work.” The claim echoed similar accusations by Forbes and the New York Post earlier this year. Perplexity’s response was swift and dismissive. “[Dow Jones] prefers... 
+
+<br> 
+
+<https://www.niemanlab.org/2024/12/dow-jones-negotiates-ai-usage-agreements-with-nearly-4000-news-publishers/>
 
 ---
 
@@ -216,7 +591,6 @@ Heart of the Brain – a brain cancer advocacy and fundraising organization – 
 
 date: 2024-12-05, from: The Daily Trojan (USC Student Newspaper)
 
-<p>Editors wrestle with the future of copy editing amid the rise of generative AI and newsroom layoffs.</p>
 <p>The post <a href="https://dailytrojan.com/2024/12/04/copy-that-copy-desk/">Copy that, copy desk</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
@@ -282,12 +656,12 @@ date: 2024-12-04, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## Democracy is dying in darkness
+## Houston, the media has a problem
 
 date: 2024-12-04, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Journalism is already losing. It will lose more under Donald Trump.</p>
-<p>The post <a href="https://dailytrojan.com/2024/12/04/democracy-is-dying-in-darkness/">Democracy is dying in darkness</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2024/12/04/democracy-is-dying-in-darkness/">Houston, the media has a problem</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <br> 
@@ -310,12 +684,12 @@ date: 2024-12-04, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## A confession about the politics of fire and loss.
+## LA 2052
 
 date: 2024-12-04, from: The Daily Trojan (USC Student Newspaper)
 
 <p>A confession about the politics of fire and loss.</p>
-<p>The post <a href="https://dailytrojan.com/2024/12/04/a-confession-about-the-politics-of-fire-and-loss/">A confession about the politics of fire and loss.</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2024/12/04/a-confession-about-the-politics-of-fire-and-loss/">LA 2052</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <br> 

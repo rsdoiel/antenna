@@ -1,11 +1,191 @@
 ---
 title: food
-updated: 2024-12-05 07:05:48
+updated: 2024-12-06 07:05:09
 ---
 
 # food
 
-(date: 2024-12-05 07:05:48)
+(date: 2024-12-06 07:05:09)
+
+---
+
+## Weekly Coffee News: Margin Calls on Traders + Host Arabia Launch
+
+date: 2024-12-06, from: Daily Coffee News
+
+<div><img width="620" height="450" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-sacks-620x450.jpg" class="attachment-large size-large wp-post-image" alt="coffee sacks" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-sacks-620x450.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-sacks-300x218.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-sacks-150x109.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-sacks-768x557.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-sacks.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Report: Traders Who Bet On Coffee Prices to Come... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/06/weekly-coffee-news-margin-calls-on-traders-host-arabia-launch/>
+
+---
+
+## Peppermint Mocha
+
+date: 2024-12-06, from: Taste of Home
+
+Our peppermint mocha recipe comes together in a snap and is the perfect way to add festivity and cheer to a winter morning. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/peppermint-mocha/>
+
+---
+
+## The 20 Best Recipes of 2024
+
+date: 2024-12-06, from: Bon Appetet
+
+From chicken cabbage salad to fudgy weed brownies. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/best-recipes-2024>
+
+---
+
+## Broccoli Cheddar Soup and More Recipes We Made This Week
+
+date: 2024-12-06, from: Bon Appetet
+
+Like skillet chicken thighs and sour cream pancakes. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-december-2024>
+
+---
+
+## Chocolate Mousse for a Party
+
+date: 2024-12-06, from: Bon Appetet
+
+If there’s a more chic dessert move, we do not know it. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/chocolate-mousse-for-a-party>
+
+---
+
+## Atole de Nuez
+
+date: 2024-12-06, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/atole-de-nuez/"><img title="atole-de-nuez-small-8" src="https://www.isabeleats.com/wp-content/uploads/2024/12/atole-de-nuez-small-8-400x600.jpg" alt="Atole de nuez in a mug with a cinnamon stick." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	Atole de Nuez is a traditional Mexican drink made from toasted pecans, cinnamon, piloncillo, milk, and a little cornstarch for a thick and delicious consistency. Enjoy this warm treat on its own, or pair it with your favorite pan dulce! If you love cold-weather drinks like this one, try my champurrado, atole de galletas María, [&#8230;] 
+
+<br> 
+
+<https://www.isabeleats.com/atole-de-nuez/>
+
+---
+
+## Chili Crisp Shrimp Recipe
+
+date: 2024-12-06, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/chili-crisp-shrimp/" title="Chili Crisp Shrimp Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chili-Crisp-Shrimp-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Chili Crisp Shrimp in a pan" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chili-Crisp-Shrimp-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chili-Crisp-Shrimp-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chili-Crisp-Shrimp-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chili-Crisp-Shrimp-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chili-Crisp-Shrimp-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chili-Crisp-Shrimp-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Chili-Crisp-Shrimp-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Chili Crisp Shrimp combines succulent shrimp with spicy, crunchy chili crisp, a bold and flavorful dish that's quick and easy to make, a great app or meal!</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/chili-crisp-shrimp/">Chili Crisp Shrimp Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/chili-crisp-shrimp/>
+
+---
+
+## Chi-Chi’s Is About to Make a Comeback—Here’s What We Know
+
+date: 2024-12-05, from: Taste of Home
+
+<p>Chi-Chi's, a beloved name from the '80s and '90s, is ready to return to the restaurant scene.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/chi-chis-comeback/">Chi-Chi&#8217;s Is About to Make a Comeback—Here&#8217;s What We Know</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/chi-chis-comeback/>
+
+---
+
+## Pop-Tarts Just Brought Back This Flavor By Popular Demand
+
+date: 2024-12-05, from: Taste of Home
+
+<p>It would be an absolute cin-namon not to try this frosted Pop-Tarts flavor.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/cinnamon-roll-pop-tarts/">Pop-Tarts Just Brought Back This Flavor By Popular Demand</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/cinnamon-roll-pop-tarts/>
+
+---
+
+## Martha Stewart’s Marley Spoon Is the Best Meal Kit Service of 2024
+
+date: 2024-12-05, from: Taste of Home
+
+<p>Dinner prep has never been easier—or more flavorful. Here's why Marley Spoon earned our "Best Meal Kit of 2024" award.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/best-of-2024-marley-spoon/">Martha Stewart&#8217;s Marley Spoon Is the Best Meal Kit Service of 2024</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/best-of-2024-marley-spoon/>
+
+---
+
+## I Need to Join BA's Bake Club
+
+date: 2024-12-05, from: Bon Appetet
+
+On this episode of Dinner SOS, Jesse and Shilpa take over to tell us about Bake Club. 
+
+<br> 
+
+<https://www.bonappetit.com/story/i-need-to-join-bas-bake-club>
+
+---
+
+## Peppermint Hot Chocolate
+
+date: 2024-12-05, from: Taste of Home
+
+Round out a cozy December evening with two mugs of peppermint hot chocolate. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/peppermint-hot-chocolate-2-recipe/>
+
+---
+
+## 18 Gifts for Your Friend Who Wants to Be More Organized in 2025
+
+date: 2024-12-05, from: Bon Appetet
+
+Organization presents can be genuinely beautiful objects—not just passive-aggressive reminders to get your life in order. 
+
+<br> 
+
+<https://www.bonappetit.com/story/organization-gifts>
+
+---
+
+## Does Drinking Coffee While Pregnant Cause ADHD? Our Study Shows There’s No Strong Link
+
+date: 2024-12-05, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/10/pixabay-drinking-coffee-620x414.jpg" class="attachment-large size-large wp-post-image" alt="pixabay drinking coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/10/pixabay-drinking-coffee-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/10/pixabay-drinking-coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/10/pixabay-drinking-coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/10/pixabay-drinking-coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/10/pixabay-drinking-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>International guidelines&#160;recommend people limit how much coffee they drink during pregnancy. Consuming caffeine – a stimulant – while pregnant&#160;has been linked&#160;to how the baby’s brain develops. Some&#160;studies have shown increased... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/05/does-drinking-coffee-while-pregnant-cause-adhd-our-study-shows-theres-no-strong-link/>
 
 ---
 
@@ -25,7 +205,7 @@ date: 2024-12-05, from: The Sprudge
 
 date: 2024-12-05, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Sojourner-coffee-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Sojourner coffee" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Sojourner-coffee-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Sojourner-coffee-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Sojourner-coffee-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Sojourner-coffee-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Sojourner-coffee.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A private investment firm led by the past chairman of Canada&#8217;s Kicking Horse Coffee made an undisclosed investment in Honolulu-based Hawaii Coffee Company, one of the largest coffee roasting and... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Sojourner-coffee-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Sojourner coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Sojourner-coffee-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Sojourner-coffee-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Sojourner-coffee-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Sojourner-coffee-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Sojourner-coffee.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A private investment firm led by the past chairman of Canada&#8217;s Kicking Horse Coffee made an undisclosed investment in Honolulu-based Hawaii Coffee Company, one of the largest coffee roasting and... 
 
 <br> 
 
@@ -183,7 +363,7 @@ date: 2024-12-04, from: The Sprudge
 
 date: 2024-12-04, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/green-coffee-620x414.jpg" class="attachment-large size-large wp-post-image" alt="green coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/green-coffee-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/green-coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/green-coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/green-coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/green-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Independent field investigations in China&#8217;s Yunnan Province found labor violations at coffee farms that supply coffees purchased and certified as sustainable by coffee giants Starbucks and Nestlé, according to a... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/green-coffee-620x414.jpg" class="attachment-large size-large wp-post-image" alt="green coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/green-coffee-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/green-coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/green-coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/green-coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/green-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Independent field investigations in China&#8217;s Yunnan Province found labor violations at coffee farms that supply coffees purchased and certified as sustainable by coffee giants Starbucks and Nestlé, according to a... 
 
 <br> 
 
@@ -195,7 +375,7 @@ date: 2024-12-04, from: Daily Coffee News
 
 date: 2024-12-04, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/Yeretzian-2_lab-620x414.jpeg" class="attachment-large size-large wp-post-image" alt="Prof. Charan Yeretzian" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/Yeretzian-2_lab-620x414.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Yeretzian-2_lab-300x200.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Yeretzian-2_lab-150x100.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Yeretzian-2_lab-768x512.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Yeretzian-2_lab.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Traditional coffee, or farm-grown coffee, is struggling to keep pace with the demands of modern consumption. With global demand expected to continue rising through 2050 and beyond, the strain on... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/11/Yeretzian-2_lab-620x414.jpeg" class="attachment-large size-large wp-post-image" alt="Prof. Charan Yeretzian" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/11/Yeretzian-2_lab-620x414.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Yeretzian-2_lab-300x200.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Yeretzian-2_lab-150x100.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Yeretzian-2_lab-768x512.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/11/Yeretzian-2_lab.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Traditional coffee, or farm-grown coffee, is struggling to keep pace with the demands of modern consumption. With global demand expected to continue rising through 2050 and beyond, the strain on... 
 
 <br> 
 
@@ -849,7 +1029,7 @@ The best ice is nugget ice and the best nugget ice maker is the GE Profile Opal.
 
 date: 2024-12-02, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/vaca-frita/" title="Vaca Frita (Cuban Fried Beef)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Cuban-Vaca-Frita-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Cuban fried beef (Vaca Frita) on a plate served over white rice" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Cuban-Vaca-Frita-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Cuban-Vaca-Frita-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Cuban-Vaca-Frita-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Cuban-Vaca-Frita-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Cuban-Vaca-Frita-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Cuban-Vaca-Frita-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Cuban-Vaca-Frita-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Vaca frita is a Cuban recipe of cooked shredded beef marinated in juicy citrus, then fried with onions until nice and crispy, delicious with white rice.</p>
+<a href="https://www.chilipeppermadness.com/recipes/vaca-frita/" title="Vaca Frita (Cuban Fried Beef)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Cuban-Vaca-Frita-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Cuban fried beef (Vaca Frita) on a plate served over white rice" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Cuban-Vaca-Frita-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Cuban-Vaca-Frita-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Cuban-Vaca-Frita-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Cuban-Vaca-Frita-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Cuban-Vaca-Frita-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Cuban-Vaca-Frita-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Cuban-Vaca-Frita-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Vaca frita is a Cuban recipe of cooked shredded beef marinated in juicy citrus, then fried with onions until nice and crispy, delicious with white rice.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/vaca-frita/">Vaca Frita (Cuban Fried Beef)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

@@ -1,11 +1,95 @@
 ---
 title: ham radio
-updated: 2024-12-05 07:05:45
+updated: 2024-12-06 07:05:06
 ---
 
 # ham radio
 
-(date: 2024-12-05 07:05:45)
+(date: 2024-12-06 07:05:06)
+
+---
+
+## Wireless combo modules offer global connectivity
+
+date: 2024-12-05, from: EDN Blog
+
+<img width="800" height="449" src="https://www.edn.com/wp-content/uploads/Silicon-Labs-SiWx917Y.jpg?fit=800%2C449" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Silicon-Labs-SiWx917Y.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Silicon-Labs-SiWx917Y.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Silicon-Labs-SiWx917Y.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Silicon Labs’ SiWx917Y series of Wi-Fi 6 and Bluetooth LE 5.4 modules provides plug-and-play simplicity with global RF certifications.</p>
+<p>The post <a href="https://www.edn.com/wireless-combo-modules-offer-global-connectivity/" data-wpel-link="internal">Wireless combo modules offer global connectivity</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/wireless-combo-modules-offer-global-connectivity/>
+
+---
+
+## MPU controls multi-axis motors in real time
+
+date: 2024-12-05, from: EDN Blog
+
+<img width="800" height="416" src="https://www.edn.com/wp-content/uploads/Renesas-RZ_T2H.jpg?fit=800%2C416" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Renesas-RZ_T2H.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Renesas-RZ_T2H.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Renesas-RZ_T2H.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Renesas’s RZ/T2H microprocessor, its most advanced for industrial equipment, enables precise control of robot motors with up to nine axes. </p>
+<p>The post <a href="https://www.edn.com/mpu-controls-multi-axis-motors-in-real-time/" data-wpel-link="internal">MPU controls multi-axis motors in real time</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/mpu-controls-multi-axis-motors-in-real-time/>
+
+---
+
+## Tiny Hall element delivers InAs sensitivity
+
+date: 2024-12-05, from: EDN Blog
+
+<img width="700" height="459" src="https://www.edn.com/wp-content/uploads/Asahi-HQ0A11.jpg?fit=700%2C459" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Asahi-HQ0A11.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Asahi-HQ0A11.jpg?w=300 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /><p>The HQ0A11, an indium arsenide (InAs) Hall element from AKM, is the smallest and thinnest in the company’s high-sensitivity lineup.</p>
+<p>The post <a href="https://www.edn.com/tiny-hall-element-delivers-inas-sensitivity/" data-wpel-link="internal">Tiny Hall element delivers InAs sensitivity</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/tiny-hall-element-delivers-inas-sensitivity/>
+
+---
+
+## Shunt monitors detect vehicle currents
+
+date: 2024-12-05, from: EDN Blog
+
+<img width="700" height="455" src="https://www.edn.com/wp-content/uploads/Diodes-ZXCT18xQ.jpg?fit=700%2C455" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Diodes-ZXCT18xQ.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Diodes-ZXCT18xQ.jpg?w=300 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /><p>ZXCT18xQ automotive current shunt monitors from Diodes measure small sense voltages across common-mode voltages up to 26 V.</p>
+<p>The post <a href="https://www.edn.com/shunt-monitors-detect-vehicle-currents/" data-wpel-link="internal">Shunt monitors detect vehicle currents</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/shunt-monitors-detect-vehicle-currents/>
+
+---
+
+## Portable 5G transmitter streams live video
+
+date: 2024-12-05, from: EDN Blog
+
+<img width="700" height="470" src="https://www.edn.com/wp-content/uploads/VisiLink.jpg?fit=700%2C470" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/VisiLink.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/VisiLink.jpg?w=300 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /><p>DragonFly V 5G is Vislink’s bonded cellular miniature transmitter with 5G connectivity and HD video streaming capabilities.</p>
+<p>The post <a href="https://www.edn.com/portable-5g-transmitter-streams-live-video/" data-wpel-link="internal">Portable 5G transmitter streams live video</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/portable-5g-transmitter-streams-live-video/>
+
+---
+
+## ∆Vbe bread dough incubator
+
+date: 2024-12-05, from: EDN Blog
+
+<img width="892" height="729" src="https://www.edn.com/wp-content/uploads/DoughCubator_Figure1.png?fit=892%2C729" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/DoughCubator_Figure1.png?w=892 892w, https://www.edn.com/wp-content/uploads/DoughCubator_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/DoughCubator_Figure1.png?w=768 768w" sizes="auto, (max-width: 892px) 100vw, 892px" /><p>Woodward’s engineering recipe using William’s ∆Vbe theory to control the temperature of batches of rising dough.</p>
+<p>The post <a href="https://www.edn.com/%e2%88%86vbe-bread-dough-incubator/" data-wpel-link="internal">∆Vbe bread dough incubator</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/%e2%88%86vbe-bread-dough-incubator/>
 
 ---
 
@@ -13,7 +97,7 @@ updated: 2024-12-05 07:05:45
 
 date: 2024-12-04, from: EDN Blog
 
-<img width="1400" height="1724" src="https://www.edn.com/wp-content/uploads/open_overview-4.jpg?fit=1400%2C1724" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/open_overview-4.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/open_overview-4.jpg?w=244 244w, https://www.edn.com/wp-content/uploads/open_overview-4.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/open_overview-4.jpg?w=832 832w, https://www.edn.com/wp-content/uploads/open_overview-4.jpg?w=1247 1247w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>While the SoC supplier is the same between this and an earlier sibling system, there are notable variations between the designs.</p>
+<img width="1400" height="1724" src="https://www.edn.com/wp-content/uploads/open_overview-4.jpg?fit=1400%2C1724" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/open_overview-4.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/open_overview-4.jpg?w=244 244w, https://www.edn.com/wp-content/uploads/open_overview-4.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/open_overview-4.jpg?w=832 832w, https://www.edn.com/wp-content/uploads/open_overview-4.jpg?w=1247 1247w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /><p>While the SoC supplier is the same between this and an earlier sibling system, there are notable variations between the designs.</p>
 <p>The post <a href="https://www.edn.com/walmarts-onn-fhd-streaming-stick-still-android-tv-but-less-thick/" data-wpel-link="internal">Walmart’s onn. FHD streaming stick: Still Android TV, but less thick</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

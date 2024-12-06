@@ -1,11 +1,457 @@
 ---
 title: columns
-updated: 2024-12-05 07:05:46
+updated: 2024-12-06 07:05:06
 ---
 
 # columns
 
-(date: 2024-12-05 07:05:46)
+(date: 2024-12-06 07:05:06)
+
+---
+
+## Detecting Pegasus Infections
+
+date: 2024-12-06, updated: 2024-12-05, from: Bruce Schneier blog
+
+<p><a href="https://arstechnica.com/security/2024/12/1-phone-scanner-finds-seven-pegasus-spyware-infections/">This tool</a> seems to do a pretty good job.</p>
+<blockquote><p>The company&#8217;s Mobile Threat Hunting feature uses a combination of malware signature-based detection, heuristics, and machine learning to look for anomalies in iOS and Android device activity or telltale signs of spyware infection. For paying iVerify customers, the tool regularly checks devices for potential compromise. But the company also offers a free version of the feature for anyone who downloads the iVerify Basics app for $1. These users can walk through steps to generate and send a special diagnostic utility file to iVerify and receive analysis within hours. Free users can use the tool once a month. iVerify&#8217;s infrastructure is built to be privacy-preserving, but to run the Mobile Threat Hunting feature, users must enter an email address so the company has a way to contact them if a scan turns up spyware&#8212;as it did in the seven recent Pegasus discoveries...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/12/detecting-pegasus-infections.html>
+
+---
+
+## How Trump could bring on a second civil war
+
+date: 2024-12-06, from: Robert Reich's blog
+
+With his plans to use the military to root out undocumented immigrants and to use the Justice Department and FBI to punish his political enemies 
+
+<br> 
+
+<https://robertreich.substack.com/p/are-we-heading-toward-a-second-civil>
+
+---
+
+## December 5, 2024 
+
+date: 2024-12-06, from: Heather Cox Richardson blog
+
+Yesterday a gunman assassinated the chief executive officer of UnitedHealthcare, Brian Thompson, as he arrived at a meeting of investors in New York City. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/december-5-2024>
+
+---
+
+## Rock-solid curl on video
+
+date: 2024-12-06, from: Daniel Stenberg Blog
+
+On December 5 2024 I held a brief webinar explaining the ideas and concepts behind Rock-solid curl, and I figured I would just share the video here: See also: rock-solid.curl.dev 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2024/12/06/rock-solid-curl-on-video/>
+
+---
+
+## Indiana or Bust: Day 4 (finale)
+
+date: 2024-12-06, from: Matt Haughey blog
+
+<p>Today I covered about 400 miles, going from Iowa to the St. Louis Gateway Arch, then on to my final destination of Terre Haute. Over the past four days I&apos;ve driven through 9 states total that covered about 2300 miles.</p><p>Iowa is the heartland of America, and when</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/indiana-or-bust-day-4-finale/>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2024-12-06, from: Ryan Gantz Bluesky feed)
+
+why, if I were a French noble in the 1780s, I would simply remind commoners about the sanctity of life, and how important it is to be kind 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.bsky.social/post/3lcm6v5lhes2l>
+
+---
+
+## Festivitas — Holiday Lights for Your Mac Menu Bar and Dock
+
+date: 2024-12-06, updated: 2024-12-06, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://festivitas.app/>
+
+---
+
+## ‘Appeasement in the New Age of Trump’, MSNBC Edition
+
+date: 2024-12-06, updated: 2024-12-06, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theatlantic.com/politics/archive/2024/12/appeasement-new-age-trump/680871/?gift=f35zZN0v_gDFE8xNwlQAHaR_aG-uEILvzAygwDvOvHo>
+
+---
+
+## Owner Patrick Soon-Shiong Is Tanking the LA Times’s Credibility
+
+date: 2024-12-06, updated: 2024-12-06, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.status.news/p/los-angeles-times-patrick-soon-shiong>
+
+---
+
+## Friday 6 December, 2024
+
+date: 2024-12-06, from: John Naughton's online diary
+
+Fine cuts This huge rock is probably a glacial erratic that we encountered on a lakeside walk in Kerry. Note, though, the sharpness of the edges on the fragments. A stonemason would be proud of those cuts. Quote of the &#8230; <a href="https://memex.naughtons.org/friday-6-december-2024/40167/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-6-december-2024/40167/>
+
+---
+
+##  Looney Tunes Backgrounds 
+
+date: 2024-12-06, updated: 2024-12-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/looney-tunes-backgrounds>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-05, from: Dave Winer's Scripting News)
+
+<a href="https://shownotes.scripting.com/scripting/2024/12/05/dontGiveHimAnyIdeas.html">17-minute podcast</a> I recorded on Tuesday after hearing that the president of South Korea had declared martial law. 
+
+<br> 
+
+<http://scripting.com/2024/12/05.html#a231426>
+
+---
+
+## Foundations of Biological Evolution: More Results & More Surprises
+
+date: 2024-12-05, from: Stephen Wolfram blog
+
+<span class="thumbnail"><img width="128" height="108" src="https://content.wolfram.com/sites/43/2024/12/bioevel-icon-1.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></span>This is a follow-on to Why Does Biological Evolution Work? A Minimal Model for Biological Evolution and Other Adaptive Processes [May 3, 2024]. Even More from an Extremely Simple Model A few months ago I introduced an extremely simple &#8220;adaptive cellular automaton&#8221; model that seems to do remarkably well at capturing the essence of what&#8217;s [&#8230;] 
+
+<br> 
+
+<https://writings.stephenwolfram.com/2024/12/foundations-of-biological-evolution-more-results-more-surprises/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-05, from: Dave Winer's Scripting News)
+
+<a href="https://bsky.app/profile/chuck.kilroy.tech/post/3lclb5vffhs2k">Chuck Shotton</a>: "Posting a video to YouTube is infinitely easier for a lot of people than understanding how to publish a podcast." <i>True.</i> 
+
+<br> 
+
+<http://scripting.com/2024/12/05.html#a225519>
+
+---
+
+##  Indivisible: A Practical Guide to Democracy on the Brink. &#8220;This guide outlines... 
+
+date: 2024-12-05, updated: 2024-12-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045788-indivisible-a-practical-g>
+
+---
+
+##  You don&#8217;t actually have to stay on Twitter. &#8220;There are many better... 
+
+date: 2024-12-05, updated: 2024-12-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045789-you-dont-actually-have-to>
+
+---
+
+## What’s Good for the Goose, AI Training Edition
+
+date: 2024-12-05, updated: 2024-12-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theinformation.com/articles/openais-latest-rivals-are-getting-help-from-openai>
+
+---
+
+## 2024-12-02 Rollenspieladvent: Das Rollenspielsetting
+
+date: 2024-12-05, from: Alex Schroeder's Blog
+
+<h1 id="2024-12-02-rollenspieladvent-das-rollenspielsetting">2024-12-02 Rollenspieladvent: Das Rollenspielsetting</h1>
+
+<p><a class="account" href="https://rollenspiel.social/@HeyeBodo" title="@HeyeBodo@rollenspiel.social">@HeyeBodo</a> stellt auf fedi jeden Tag eine Frage zum Rollenspielsetting. Die darf man dann beantworten. Da ich schon lange nichts mehr auf Deutsch hier auf dem Blog geschrieben habe, werde ich die Gelegenheit wahrnehmen, das hier zu tun. Allerdings habe ich vor, alles auf dieser Seite zu sammeln. Das wird für die Leser, die dem Blog via einem Feed folgen, wahrscheinlich etwas seltsam, denn heute gibt es nur Antworten auf die ersten zwei Tage. Mir fällt leider auch keine andere Lösung ein, denn irgendwie will ich auch nicht jeden Tag eine Seite schreiben.</p>
+
+<p><a class="tag" href="/search/?q=%23RSP">#RSP</a></p>
+
+<h2 id="welchen-geografischen-maßstab-hat-oder-strebst-du-für-dein-setting-an">Welchen geografischen Maßstab hat oder strebst Du für Dein Setting an?</h2>
+
+<p>Eine typische Karte, wie ich sie vorbereiten würde, ist von Ost nach West ca. 30 Tagesreisen breit und von Nord nach Süd ca. 10–20 Tagesreisen hoch. Das sieht ästhetisch gut aus, bietet Platz für ein paar Städte, Magiertürme, Monsterlager, Bauernhöfe, versteckte Siedlungen, und so weiter. Ein paar Seen, ein oder zwei Gebirge mit Pässen und Handelsrouten, viele Flüsse. Ich weigere mich, eine genau Grösse anzugeben und behaupte einfach, ein Feld auf der Karte ist eine Tagesreise. Wenn es keine Wege gibt, behaupte ich manchmal, dass eine Tagesreise vielleicht nur 5–10km sind. Klar kann man als trainierter Legionär auf einer römischen Strasse vielleicht ab und zu einen 50km Marsch machen, oder 30km weit ziehen, aber in einem Tal, wo die Talwände steil und von Bächen zerklüftet sind, wo der Talboden versumpft und wild ist, wo das Wasser überall steht und fliesst, das Unterholz im Wald dicht ist, weil die Wisente immer wieder Lichtungen reissen und es keine richtige Forstwirtschaft gibt, kann ich mir nicht vorstellen, dass Leute mit 20–30kg Ausrüstung pro Person mehr als ein paar Kilometer weit kommen. Ich schliesse da von mir auf andere. 😅</p>
+
+<p>Und damit kommen wir zum nächsten Thema, angenommen, ein Feld ist 10km und dann ist eine Karte von 30×20 ungefähr so gross wie die ganze Schweiz.</p>
+
+<blockquote>
+<p>Die Ausdehnung der Schweiz beträgt von Norden nach Süden 220km und von Osten nach Westen 348km. … Die Schweiz gliedert sich in drei geografische Zonen: die Alpen mit einem Anteil von etwa 58% der Gesamtfläche, das Mittelland mit rund 31% und der Jura mit 11%. 48 Schweizer Berge sind über 4000 m hoch.  Obwohl Gebirge insgesamt 70% des Staatsgebietes einnehmen, lebt in diesem Gebiet nur ein Viertel der Bevölkerung. &ndash; <a href="https://www.eda.admin.ch/aboutswitzerland/de/home/umwelt/geografie/geografie---fakten-und-zahlen.html">Geografie – Fakten und Zahlen</a>, Eidgenössisches Departement für
+auswärtige Angelegenheiten (EDA)</p>
+</blockquote>
+
+<p>In diesem Gebiet gibt es 26 Kantone und entsprechend 26 grössere Orte und ein Vielfaches an Burgen. An jedem Talausgang hat es eine Burg. In grösseren Tälern hat es mehrere Burgen. Wenn wir jetzt von 30×20 Feldern ausgehen, von denen 58% Gebirge sind, bleiben 348 Felder für die 26 Kantone oder im Durchschnitt 13 Felder pro Kanton.</p>
+
+<p>Jetzt bin ich selber überrascht, wie überdimensioniert und leer meine Karten sind. Da muss viel, viel mehr rein!</p>
+
+<h2 id="wovon-ist-dein-setting-inspiriert">Wovon ist Dein Setting inspiriert?</h2>
+
+<p>Meine Welt ist vor allem von der Umwelt inspiriert, in der ich lebe. Die Berge, Täler und Hügel, in denen ich selber herumlaufe, inspirieren mich für mein Spiel. Ich versuche natürlich mir vorzustellen, wie es früher aussah, vor den Flussbegradigungen, vor der Trockenlegung der Sümpfe, vor dem Strassenbau. Und somit ist klar, dass all diese Vorstellungen aus der Vergangenheit irgendwie kollidieren und kollabieren müssen. Das Resultat ist unrealistisch und weltfremd, und doch vertraut genug.</p>
+
+<p>Die Monster und Menschen sind in vielem wohl von Conan und dem Herr der Ringe bestimmt. Die Elfen sind eher keine Elben, sondern irgendwo zwischen der Elfenwelt und Elric von Melniboné angesiedelt; die Orks irgendwo zwischen Mordor und Skyrim; die Halblinge bei den Hobbits; die Goblins in Moria; die Bäume in Fangorn; die Götter stammen aus der nordischen Tradition (Odin, Thor, Loki), aber auch aus dem Zweistromland (Ishtar, Marduk, Pazuzu), Griechenland (Hekate) oder aus Ägypten (Thot, Ra, Set), aus Hyperborea (ebenfalls Set) und aus D&amp;D (Orcus).</p>
+
+<h2 id="wie-würdest-du-den-technologischen-entwicklungsstand-innerhalb-deines-settings-beschreiben">Wie würdest Du den technologischen Entwicklungsstand innerhalb Deines Settings beschreiben?</h2>
+
+<p>In meiner Fantasy gibt es abgestürzte Raumschiffe, Laserpistolen, Pistolen, Gewehre, Astralsegler, fliegende Schiffe, und so weiter, aber ungleich verteilt. Aus Sicht der Spielenden ist ein Plattenpanzer mit Schild die beste Rüstung. Hochwertige Rüstungen gibt es, doch dann sind es Prunkstücke, die mehr kosten, aber nicht mehr nützen. Fantastische Technologie gibt es im Rahmen von &ldquo;Golem Rüstungen&rdquo;, die dann einem Plattenpanzer +2 und Schild +2 entsprechen und mit einer passenden Energiequelle dann zu Plattenpanzer +4 und Schild +4 gesteigert werden könnten. Ich kann mich allerdings nicht erinnern, dass dies jemand am Tisch je geschafft hat. Die Laserpistolen sind sehr einfach gehalten: Ein Schuss macht 1W6 Schaden wie eine Schusswaffe, Trefferwurf normal durch Geschicklichkeit beeinflusst, Nachladen unnötig. Schaden liegt in der Grössenordnung von einem magischen Geschoss. Eine Plasmakanone funktioniert wie ein Bitzschlag und und macht 5W6 Schaden entlang einer Linie, ein Granatwerfer wie ein Feuerball und macht 5W6 Schaden im Zielgebiet, Rettungswurf gegen Drachenodem für halben Schaden. Das könnten genau so gut Zauberstäbe mit Ladungen sein. So lässt sich alles entweder mit Technik oder Magie erklären und es macht keinen grossen Unterschied, da es die Rolle eines Technikers für die Spielenden nicht als Klasse gibt. In dem Sinne ist alle Technik verloren gegangene und wiederentdeckte Technik, die nicht wirklich beherrscht ist, die wie Magie verwendet wird.</p>
+
+<p>Auch die Zeitgeschichte ist mir egal. Bei aller Technologie von Waffen, Rüstungen, Schiffstypen, Sprengkörpern und so weiter wird frisch und fröhlich durcheinander gemischt. Die technologischen Unterschiede von Hopliten und Conquistadores, zwischen Kataphrakten und Rittern, zwischen Skythen, Mongolen und Hunnen, zwischen Vikingern und Reisläufern, Landsknechten und Legionären interessiert mich nicht richtig.</p>
+
+<p>Gespielt wird in einer Fantasiewelt, in der man keinen Sprengstoff und kein Pulver kaufen kann. Die Schiffe sind aus Holz und von Segelkraft betrieben. Kohleindustrie und Stahlindustrie gibt es nicht, also gibt es keine Schiesswaffen und kein Dampfmaschinen, also auch keine Eisenbahn, keinen Zeppelin, kein Flugzeug. Es gibt keinen Wilden Westen, kein kolonialen Weltreiche, kein Zeitalter der Entdeckungen. In diesem Sinne ist auch der Kapitalismus als &ldquo;Finanztechnologie&rdquo; nicht entdeckt.</p>
+
+<h2 id="was-ist-in-deinem-setting-unter-einem-monster-zu-verstehen">Was ist in  Deinem Setting unter einem „Monster“ zu verstehen?</h2>
+
+<p>In den D&amp;D-artigen Spielen vermischen sich Dinge: Auf der einen Seite sind Monster Konsequenzen für soziale Rätsel, wo es um etwas geht, weil die Gewaltbereitschaft der Gegner allen Gesprächen, so lustig und geblödelt sie auch daherkommen, jeder Zeit in Mord und Totschlag umschlagen können. Bildlich sind diese Monster menschenähnlich, damit auch geredet werden kann. Überhaupt ist mir wichtig, dass die Monster reden wollen. Ich tendiere dazu, Regeln zu ignorieren, die das erschweren.</p>
+
+<p>Die zweite Sorte Monster sind Monster, die den Mainstreamalpträumen entspringen. Kraken, Spinnen, Würmer. Hier gibt es alles von Körperhorror, Gestaltwandlern, Chimären, Fleischmagie und mehr. Hier gibt es auch Zwischenstufen. Auch diese Monster reden, aber es unterstreicht mehr den Alptraum. Wovon reden denn Harpyien, Ghule, Matikore und Trolle ausser vom ewigen Leben und wie alles verflucht ist? Hier gibt es dann auch eine Traumlogik, wo man nicht immer eine rationale Diskussion führen kann.</p>
+
+<p>Wenn ich Traveller spiele, dann sind die erste Sorte Monster immer Menschen und die zweite Sorte Monster immer Maschinen oder Institution, Organisationen, Firmen, Staaten, Prozesse, Gerichte, Polizei und Militär – auch hier geht es ins Alptraum-artige: Hoffnungslosigkeit, lange Zeiträume, unmenschliche Bedingungen, Entfernungen, Zeiten, kafkaeske Komplikationen, faschistisches Gedankengut, Gewaltspiralen, Krieg – das sind die Alpträume, mit denen man nicht mehr rational diskutieren kann, weil die Gegenseite auch kein menschliches Werteversändnis mehr hat.</p>
+
+<h2 id="welche-konflikte-gibt-es-in-deinem-setting">Welche Konflikte gibt es in Deinem Setting?</h2>
+
+<p>Meistens hat es latente Kolonialsituation oder soziale Ungerechtigkeit, sei es die Feudalherrschaft, Theokratie, Plutokratie, Kleptokratie oder ähnliche Konflikte. Das sind verhärtete Fronten, welche nur mit einer grossen Kampagne umgestossen werden können – und das soll man auch dürfen aber auch lassen dürfen. Wenn es einen Krieg gibt, dann ist er weit weg und man sieht nur die Flüchtenden, Desertierenden, Maraudierenden, das Elend und die Verzweiflung aus der Ferne.</p>
+
+<p>Wenn der Krieg zu aktiv ist, dann entsteht der Wunsch, einzugreifen und Einfluss auf Schlachten und Ereignisse zu haben, als sei man Hauptfigur in einem Film. Aber so will ich das fast nie spielen. Also braucht es eine angespannte Lage, die aber ohne Einflussnahme der Spieler statisch bleibt. Nur so kann ich eine Sandbox leiten. Wenn wir dann mal 30 Spielabende gespielt haben, darf es Änderungen geben, vielleicht eine Massenschlacht, eine Änderung der Machtverhältnisse. Aber der Krieg selber steht nicht im Zentrum des Spiels.</p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2024-11-28-rollenspieladvent>
+
+---
+
+##  An unidentified disease (&#8220;Disease X&#8221;) in the Democratic Republic of Congo has... 
+
+date: 2024-12-05, updated: 2024-12-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045791-an-unidentified-disease-d>
+
+---
+
+##  Vintage Hand-Drawn VHS Labels 
+
+date: 2024-12-05, updated: 2024-12-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/vintage-hand-drawn-vhs-labels>
+
+---
+
+##  32 Rules for Flying Now. Like: &#8220;This should go without saying, but... 
+
+date: 2024-12-05, updated: 2024-12-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045776-32-rules-for-flying-now>
+
+---
+
+##  Reminder: Christopher Nolan&#8217;s Interstellar is playing at IMAX screens around the country... 
+
+date: 2024-12-05, updated: 2024-12-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045785-reminder-christopher-nola>
+
+---
+
+## December 4, 2024
+
+date: 2024-12-05, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/152627070/7be21cad80f53a727c4287034672141d.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/152627070/7be21cad80f53a727c4287034672141d.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/december-4-2024-088>
+
+---
+
+**@John's World Wide Wall Display** (date: 2024-12-05, from: John's World Wide Wall Display)
+
+That is the way the Google Cookie Crumbles. A good example for my class to look past the first results. 
+
+<br> 
+
+<https://johnjohnston.info/blog/the-way-the-cookie-crumbles/>
+
+---
+
+##  The average brightness of car headlights on US roads has doubled since... 
+
+date: 2024-12-05, updated: 2024-12-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045783-the-average-brightness-of>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-05, from: Dave Winer's Scripting News)
+
+Looking for more excellent <a href="https://this.how/wordland/">WordLand</a> bug report writers. <span class="spOldSchoolEmoji">😄</span> 
+
+<br> 
+
+<http://scripting.com/2024/12/05.html#a180019>
+
+---
+
+## FreeBSD 14.2 wants to woo Docker fans, but still struggles with Wi-Fi
+
+date: 2024-12-05, updated: 2024-12-05, from: Liam Proven's articles at the Register
+
+<h4>Another buzzword box ticked: OSI-compliant containers</h4>
+      <p>FreeBSD 14.2, the latest point release of the most widely used of the BSDs, brings some new features to tempt Docker fans.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/12/05/freebsd_142/>
+
+---
+
+##  Any Suggestions for the Gift Guide? 
+
+date: 2024-12-05, updated: 2024-12-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/any-suggestions-for-the-gift-guide>
+
+---
+
+##  You Have Not Died of Dysentery. &#8220;It&#8217;s a version of Oregon Trail... 
+
+date: 2024-12-05, updated: 2024-12-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045781-you-have-not-died-of>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-05, from: Dave Winer's Scripting News)
+
+As if in response to Dom's idea, overnight, via email Leslie Joyce sends a <a href="https://audiofiction.co.uk/releases.php">link to a feed</a> containing first episodes of new fiction podcasts. First comment, how useful! I love this idea as a user. And second, how innovative! I love this idea as a media hacker, what a clever use of RSS. I've added it to my blogroll and to my <a href="http://scripting.com/publicfolder/feedland/subscriptionLists/podcasts.opml">shared list</a> of podcast feeds. 
+
+<br> 
+
+<http://scripting.com/2024/12/05.html#a153816>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-05, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2010/09/13/iLoveRss.gif" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Dom Christie has an <a href="https://github.com/scripting/Scripting-News/issues/313#issuecomment-2520524443">interesting idea</a> related to <a href="https://this.how/podcasting/">listening lists</a>. Aggregate all the shows from all the feeds in a list into a single feed. This seems brilliant because it reduces the implementation in the client to almost nothing, just rebuild a feed periodically, it could be done entirely in the client app. But it also could be something users could share with other users, sort of a meta-channel. I think it's brilliant with the caveat that sometimes when you implement it you find something that makes it more complex than it seems at first. This is the second idea I've heard that the initial listening lists idea spawned. I think there's a lot of unexplored possibilities here. 
+
+<br> 
+
+<http://scripting.com/2024/12/05.html#a153203>
+
+---
+
+## AmpereOne: Cores are the new MHz
+
+date: 2024-12-05, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">AmpereOne: Cores are the new MHz</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><em>Cores</em> are the new megahertz, at least for enterprise servers. We've gone quickly from 32, to 64, to 80, to 128, and now to 192-cores on a single CPU socket!</p>
+
+<p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/ampereone-hero-open.jpeg" alt="AmpereOne A192-32X open"></p>
+
+<p>Amazon built <a href="https://www.aboutamazon.com/news/aws/graviton4-aws-cloud-computing-chip">Graviton 4</a>, Google built <a href="https://cloud.google.com/blog/products/compute/introducing-googles-new-arm-based-cpu">Axiom</a>, but if you want <em>your own</em> massive Arm server, Ampere's the only game in town. And fastest Arm CPU in the <em>world</em> is inside the box pictured above.</p>
+
+<p>It has 192 custom Arm cores running at 3.2 Gigahertz, and in <em>some</em> benchmarks, it stays in the ring with AMD's fastest EPYC chip, the 9965 "Turin Dense", which <em>also</em> has 192 cores.</p>
+
+<p>High-core-count servers are the cutting edge in datacenters, and they're so insane, most software <em>doesn't even know how to handle it</em>. <code>btop</code> has to go full screen on the CPU graph just to fit all the cores:</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-12-05T09:12:27-06:00" title="Thursday, December 5, 2024 - 09:12" class="datetime">December 5, 2024</time>
+</span> 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2024/ampereone-cores-are-new-mhz>
+
+---
+
+##  A playlist of the 100 most streamed songs on Spotify. The current... 
+
+date: 2024-12-05, updated: 2024-12-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045777-a-playlist-of-the-100>
 
 ---
 
@@ -200,9 +646,9 @@ date: 2024-12-04, updated: 2024-12-04, from: Jason Kittke's blog
 
 ---
 
-## U.S. Officials Urge Americans to Use Encrypted Apps, for Texting and Calls, in Wake of Chinese Infiltration of Our Unencryped Telecom Network
+## U.S. Officials Urge Americans to Use Encrypted Apps, for Texting and Calls, in Wake of Chinese Infiltration of Our Unencrypted Telecom Network
 
-date: 2024-12-04, updated: 2024-12-04, from: Daring Fireball
+date: 2024-12-04, updated: 2024-12-05, from: Daring Fireball
 
  
 
@@ -1181,51 +1627,6 @@ We're <a href="https://bsky.app/profile/pfefferle.org/post/3lcfkqqlcfk2j">lookin
 
 ---
 
-## 2024-12-02 Rollenspieladvent: Das Rollenspielsetting
-
-date: 2024-12-03, from: Alex Schroeder's Blog
-
-<h1 id="2024-12-02-rollenspieladvent-das-rollenspielsetting">2024-12-02 Rollenspieladvent: Das Rollenspielsetting</h1>
-
-<p><a class="account" href="https://rollenspiel.social/@HeyeBodo" title="@HeyeBodo@rollenspiel.social">@HeyeBodo</a> stellt auf fedi jeden Tag eine Frage zum Rollenspielsetting. Die darf man dann beantworten. Da ich schon lange nichts mehr auf Deutsch hier auf dem Blog geschrieben habe, werde ich die Gelegenheit wahrnehmen, das hier zu tun. Allerdings habe ich vor, alles auf dieser Seite zu sammeln. Das wird für die Leser, die dem Blog via einem Feed folgen, wahrscheinlich etwas seltsam, denn heute gibt es nur Antworten auf die ersten zwei Tage. Mir fällt leider auch keine andere Lösung ein, denn irgendwie will ich auch nicht jeden Tag eine Seite schreiben.</p>
-
-<h2 id="welchen-geografischen-maßstab-hat-oder-strebst-du-für-dein-setting-an">Welchen geografischen Maßstab hat oder strebst Du für Dein Setting an?</h2>
-
-<p>Eine typische Karte, wie ich sie vorbereiten würde, ist von Ost nach West ca. 30 Tagesreisen breit und von Nord nach Süd ca. 10–20 Tagesreisen hoch. Das sieht ästhetisch gut aus, bietet Platz für ein paar Städte, Magiertürme, Monsterlager, Bauernhöfe, versteckte Siedlungen, und so weiter. Ein paar Seen, ein oder zwei Gebirge mit Pässen und Handelsrouten, viele Flüsse. Ich weigere mich, eine genau Grösse anzugeben und behaupte einfach, ein Feld auf der Karte ist eine Tagesreise. Wenn es keine Wege gibt, behaupte ich manchmal, dass eine Tagesreise vielleicht nur 5–10km sind. Klar kann man als trainierter Legionär auf einer römischen Strasse vielleicht ab und zu einen 50km Marsch machen, oder 30km weit ziehen, aber in einem Tal, wo die Talwände steil und von Bächen zerklüftet sind, wo der Talboden versumpft und wild ist, wo das Wasser überall steht und fliesst, das Unterholz im Wald dicht ist, weil die Wisente immer wieder Lichtungen reissen und es keine richtige Forstwirtschaft gibt, kann ich mir nicht vorstellen, dass Leute mit 20–30kg Ausrüstung pro Person mehr als ein paar Kilometer weit kommen. Ich schliesse da von mir auf andere. 😅</p>
-
-<p>Und damit kommen wir zum nächsten Thema, angenommen, ein Feld ist 10km und dann ist eine Karte von 30×20 ungefähr so gross wie die ganze Schweiz.</p>
-
-<blockquote>
-<p>Die Ausdehnung der Schweiz beträgt von Norden nach Süden 220km und von Osten nach Westen 348km. … Die Schweiz gliedert sich in drei geografische Zonen: die Alpen mit einem Anteil von etwa 58% der Gesamtfläche, das Mittelland mit rund 31% und der Jura mit 11%. 48 Schweizer Berge sind über 4000 m hoch.  Obwohl Gebirge insgesamt 70% des Staatsgebietes einnehmen, lebt in diesem Gebiet nur ein Viertel der Bevölkerung. &ndash; <a href="https://www.eda.admin.ch/aboutswitzerland/de/home/umwelt/geografie/geografie---fakten-und-zahlen.html">Geografie – Fakten und Zahlen</a>, Eidgenössisches Departement für
-auswärtige Angelegenheiten (EDA)</p>
-</blockquote>
-
-<p>In diesem Gebiet gibt es 26 Kantone und entsprechend 26 grössere Orte und ein Vielfaches an Burgen. An jedem Talausgang hat es eine Burg. In grösseren Tälern hat es mehrere Burgen. Wenn wir jetzt von 30×20 Feldern ausgehen, von denen 58% Gebirge sind, bleiben 348 Felder für die 26 Kantone oder im Durchschnitt 13 Felder pro Kanton.</p>
-
-<p>Jetzt bin ich selber überrascht, wie überdimensioniert und leer meine Karten sind. Da muss viel, viel mehr rein!</p>
-
-<h2 id="wovon-ist-dein-setting-inspiriert">Wovon ist Dein Setting inspiriert?</h2>
-
-<p>Meine Welt ist vor allem von der Umwelt inspiriert, in der ich lebe. Die Berge, Täler und Hügel, in denen ich selber herumlaufe, inspirieren mich für mein Spiel. Ich versuche natürlich mir vorzustellen, wie es früher aussah, vor den Flussbegradigungen, vor der Trockenlegung der Sümpfe, vor dem Strassenbau. Und somit ist klar, dass all diese Vorstellungen aus der Vergangenheit irgendwie kollidieren und kollabieren müssen. Das Resultat ist unrealistisch und weltfremd, und doch vertraut genug.</p>
-
-<p>Die Monster und Menschen sind in vielem wohl von Conan und dem Herr der Ringe bestimmt. Die Elfen sind eher keine Elben, sondern irgendwo zwischen der Elfenwelt und Elric von Melniboné angesiedelt; die Orks irgendwo zwischen Mordor und Skyrim; die Halblinge bei den Hobbits; die Goblins in Moria; die Bäume in Fangorn; die Götter stammen aus der nordischen Tradition (Odin, Thor, Loki), aber auch aus dem Zweistromland (Ishtar, Marduk, Pazuzu), Griechenland (Hekate) oder aus Ägypten (Thot, Ra, Set), aus Hyperborea (ebenfalls Set) und aus D&amp;D (Orcus).</p>
-
-<h2 id="wie-würdest-du-den-technologischen-entwicklungsstand-innerhalb-deines-settings-beschreiben">Wie würdest Du den technologischen Entwicklungsstand innerhalb Deines Settings beschreiben?</h2>
-
-<p>In meiner Fantasy gibt es abgestürzte Raumschiffe, Laserpistolen, Pistolen, Gewehre, Astralsegler, fliegende Schiffe, und so weiter, aber ungleich verteilt. Aus Sicht der Spielenden ist ein Plattenpanzer mit Schild die beste Rüstung. Hochwertige Rüstungen gibt es, doch dann sind es Prunkstücke, die mehr kosten, aber nicht mehr nützen. Fantastische Technologie gibt es im Rahmen von &ldquo;Golem Rüstungen&rdquo;, die dann einem Plattenpanzer +2 und Schild +2 entsprechen und mit einer passenden Energiequelle dann zu Plattenpanzer +4 und Schild +4 gesteigert werden könnten. Ich kann mich allerdings nicht erinnern, dass dies jemand am Tisch je geschafft hat. Die Laserpistolen sind sehr einfach gehalten: Ein Schuss macht 1W6 Schaden wie eine Schusswaffe, Trefferwurf normal durch Geschicklichkeit beeinflusst, Nachladen unnötig. Schaden liegt in der Grössenordnung von einem magischen Geschoss. Eine Plasmakanone funktioniert wie ein Bitzschlag und und macht 5W6 Schaden entlang einer Linie, ein Granatwerfer wie ein Feuerball und macht 5W6 Schaden im Zielgebiet, Rettungswurf gegen Drachenodem für halben Schaden. Das könnten genau so gut Zauberstäbe mit Ladungen sein. So lässt sich alles entweder mit Technik oder Magie erklären und es macht keinen grossen Unterschied, da es die Rolle eines Technikers für die Spielenden nicht als Klasse gibt. In dem Sinne ist alle Technik verloren gegangene und wiederentdeckte Technik, die nicht wirklich beherrscht ist, die wie Magie verwendet wird.</p>
-
-<p>Auch die Zeitgeschichte ist mir egal. Bei aller Technologie von Waffen, Rüstungen, Schiffstypen, Sprengkörpern und so weiter wird frisch und fröhlich durcheinander gemischt. Die technologischen Unterschiede von Hopliten und Conquistadores, zwischen Kataphrakten und Rittern, zwischen Skythen, Mongolen und Hunnen, zwischen Vikingern und Reisläufern, Landsknechten und Legionären interessiert mich nicht richtig.</p>
-
-<p>Gespielt wird in einer Fantasiewelt, in der man keinen Sprengstoff und kein Pulver kaufen kann. Die Schiffe sind aus Holz und von Segelkraft betrieben. Kohleindustrie und Stahlindustrie gibt es nicht, also gibt es keine Schiesswaffen und kein Dampfmaschinen, also auch keine Eisenbahn, keinen Zeppelin, kein Flugzeug. Es gibt keinen Wilden Westen, kein kolonialen Weltreiche, kein Zeitalter der Entdeckungen. In diesem Sinne ist auch der Kapitalismus als &ldquo;Finanztechnologie&rdquo; nicht entdeckt.</p>
-
-<p><a class="tag" href="/search/?q=%23RSP">#RSP</a></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2024-11-28-rollenspieladvent>
-
----
-
 **@Miguel de Icaza Mastondon feed** (date: 2024-12-03, from: Miguel de Icaza Mastondon feed)
 
 <p>Wake up babe, a new Roy Casagranda just dropped</p><p><a href="https://www.youtube.com/watch?v=8bb8Z4j7h7A" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">youtube.com/watch?v=8bb8Z4j7h7</span><span class="invisible">A</span></a></p> 
@@ -1620,7 +2021,7 @@ date: 2024-12-02, from: Matt Haughey blog
 
 date: 2024-12-02, from: Doc Searls (at Harvard), New Old Blog
 
-That&#8217;s what Charlie Schweik and friends will be talking about in the next salon in the Beyond the Web series at Indiana University, hosted by the Ostrom Workshop and the Hamilton Lugar School of Global and International Studies. The salon will be held at the latter for locals and on Zoom for the world, at Noon Eastern time on Wednesday, [&#8230;] 
+That&#8217;s what Charlie Schweik and friends will be talked about in the Beyond the Web series at Indiana University, hosted by the Ostrom Workshop and the Hamilton Lugar School of Global and International Studies. The salon was held at the latter for locals and on Zoom for the world, at Noon Eastern time on Wednesday, December 4th. (Upcoming salons are [&#8230;] 
 
 <br> 
 

@@ -1,11 +1,469 @@
 ---
 title: science and technology
-updated: 2024-12-05 07:05:46
+updated: 2024-12-06 07:05:06
 ---
 
 # science and technology
 
-(date: 2024-12-05 07:05:46)
+(date: 2024-12-06 07:05:06)
+
+---
+
+## NASA’s ASTRO CAMP – and its Impact – Continues to Grow in FY2024
+
+date: 2024-12-06, from: NASA breaking news
+
+When it comes to NASA’s ASTRO CAMP®, the numbers – and impact – of the initiative to help students across the nation and world learn about NASA and STEM (science, technology, engineering, and mathematics) just continue to grow and grow and grow. As in recent years, the NASA ASTRO CAMP®&#160;Community Partners (ACCP) program surpassed previous [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/stennis/astro-camp-impact-continues-to-grow-fy2024/>
+
+---
+
+## Intel aims to reinvent itself as foundry focus sharpens amid leadership shake-up
+
+date: 2024-12-06, updated: 2024-12-06, from: The Register (UK I.T. News)
+
+<h4>Interim chief David Zinsner claims core strategy intact, will stay the course to contract manufacturer</h4> <p>Intel wants to be &#34;the western provider of leading-edge silicon,&#34; according to interim co-chief executive David Zinsner, but needs a successful products division for this to be possible.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/06/intel_foundry_focus/>
+
+---
+
+## Banan-OS: a hobby operating system in C++
+
+date: 2024-12-06, from: OS News
+
+This is my hobby operating system written in C++. Currently supports x86_64 and i686 architectures. ↫ Banan-OS git page A hobby operating system as a learning experience, but for once not written in Rust, which in and of itself makes it more unique than you&#8217;d think. Despite being mostly a one-person hobby project, it&#8217;s ticked quite a few boxes already: SMP, network stack, copy-on-write memory, ELF loading, NVME and ATA support, PS/2 and USB peripheral support, a basic GUI, and a lot more. Contributions are welcomed, too. 
+
+<br> 
+
+<https://www.osnews.com/story/141279/banan-os-a-hobby-operating-system-in-c/>
+
+---
+
+## Badass Russian techie outsmarts FSB, flees Putinland all while being tracked with spyware
+
+date: 2024-12-06, updated: 2024-12-06, from: The Register (UK I.T. News)
+
+<h4>Threatened with life in prison, Kyiv charity worker gives middle finger to state spies</h4> <p>A Russian programmer defied the Federal Security Service (FSB) by publicizing the fact his phone was infected with spyware after being confiscated by authorities.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/06/badass_russian_techie_outsmarts_fsb/>
+
+---
+
+## Hubble Spots a Spiral in the Celestial River
+
+date: 2024-12-06, from: NASA breaking news
+
+The subject of this NASA/ESA Hubble Space Telescope image is NGC 1637, a spiral galaxy located 38 million light-years from Earth in the constellation Eridanus, the River. This image comes from an observing program dedicated to studying star formation in nearby galaxies. Stars form in cold, dusty gas clouds that collapse under their own gravity. […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-spots-a-spiral-in-the-celestial-river/>
+
+---
+
+## Europe's largest local authority settles on ERP budget 5x original estimate
+
+date: 2024-12-06, updated: 2024-12-06, from: The Register (UK I.T. News)
+
+<h4>Schools taken out of scope, but £108M plan still dwarfs initial £20M</h4> <p>Europe&#39;s largest local authority has settled on a £108 million ($137 million) bill for its disastrous replacement of SAP with Oracle until 2026, five times the sum initially predicted and five years late.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/06/birmingham_erp_budget/>
+
+---
+
+## German Archaeologists Discovered the Iconic Bust of Nefertiti in an Ancient Egyptian Sculptor’s Studio. Find Out Why Their Discovery Is Now One of Archaeology’s Most Controversial
+
+date: 2024-12-06, from: Smithsonian Magazine
+
+For over a century, ever since the bust was found on this day in 1912, the world has debated who should rightfully own this work of timeless beauty 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/german-archaeologists-discovered-the-iconic-bust-of-nefertiti-in-an-ancient-egyptian-sculptors-studio-find-out-why-their-discovery-is-now-one-of-archaeologys-most-controversial-180985565/>
+
+---
+
+## Veteran Microsoft engineer shares some enterprise support tips
+
+date: 2024-12-06, updated: 2024-12-06, from: The Register (UK I.T. News)
+
+<h4>How to tell a customer they&#39;re an idiot without telling them they&#39;re an idiot</h4> <p>Microsoft veteran Raymond Chen revealed another product support trick from within the corridors of Microsoft. This time, it&#39;s not about blowing on connectors but about avoiding casting some embarrassing shade on a customer&#39;s purchasing decisions.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/06/raymond_chen_support_desk_advice/>
+
+---
+
+## NASA finds Orion heatshield cracks won't cook Artemis II crew
+
+date: 2024-12-06, updated: 2024-12-06, from: The Register (UK I.T. News)
+
+<h4>Lunar flights therefore set for seven-month delay and change re-entry approach, but redesign not needed</h4> <p>NASA&#39;s investigation into damage found on the heatshield of the Artemis Mission&#39;s Orion module two years ago has concluded that the technique used to re-enter Earth’s atmosphere meant gas became trapped in the shield&#39;s outer ablative material, causing concerning cracks.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/06/nasa_orion_heatshield_investigation/>
+
+---
+
+## No, I can't help – you called the wrong helpdesk, in the wrong place, for the wrong platform
+
+date: 2024-12-06, updated: 2024-12-06, from: The Register (UK I.T. News)
+
+<h4>Call the boss instead. He&#39;s not a big fan of sleep</h4> <p><strong>On Call</strong>  Welcome once again to On Call, <i>The Register</i>&#39;s reader-contributed column in which each Friday we share your tales of fun and frolics at the frontline of tech support.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/06/on_call/>
+
+---
+
+## PoC exploit chains Mitel MiCollab 0-day, auth-bypass bug to access sensitive files
+
+date: 2024-12-06, updated: 2024-12-06, from: The Register (UK I.T. News)
+
+<h4>Still unpatched 100+ days later, watchTowr says</h4> <p>A zero-day arbitrary file read vulnerability in Mitel MiCollab can be chained with a now-patched critical bug in the same platform to give attackers access to sensitive files on vulnerable instances. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/06/mitel_micollab_0day/>
+
+---
+
+## Huawei handed 2,596,148,429,267,413,
+<br>
+814,265,248,164,610,048 IPv6 addresses
+
+date: 2024-12-06, updated: 2024-12-06, from: The Register (UK I.T. News)
+
+<h4>That&#39;s 2.56 decillion of them, destined for use in CDNs and the cloud – and APNIC needed 83 decillion more to handle the request</h4> <p>Huawei has been allocated 2.56 decillion IPv6 addresses by regional internet registry the Asia Pacific Network Information Center (APNIC). That&#39;s a lot.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/06/apnic_huawei_ipv6/>
+
+---
+
+## Microsoft: Another Chinese cyberspy crew targeting US critical orgs 'as of yesterday'
+
+date: 2024-12-06, updated: 2024-12-06, from: The Register (UK I.T. News)
+
+<h4>Redmond threat intel maven talks explains this persistent pain to <i>The Reg</i></h4> <p>A Chinese government-linked group that Microsoft tracks as Storm-0227 yesterday started targeting critical infrastructures organisations and US government agencies, according to Redmond&#39;s threat intel team.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/06/chinese_cyberspy_us_data/>
+
+---
+
+## Solana blockchain's popular web3.js npm package backdoored to steal keys, funds
+
+date: 2024-12-05, updated: 2024-12-05, from: The Register (UK I.T. News)
+
+<h4>Damage likely limited to those running bots with private key access</h4> <p>Malware-poisoned versions of the widely used JavaScript library @solana/web3.js were distributed via the npm package registry, according to an advisory issued Wednesday by project maintainer Steven Luscher.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/05/solana_javascript_sdk_compromised/>
+
+---
+
+## NASA to Test Technology for X-59’s Unique Shock Wave Measurements
+
+date: 2024-12-05, from: NASA breaking news
+
+NASA will soon test advancements made on a key tool for measuring the unique “sonic thumps” that its quiet supersonic X-59 research aircraft will make while flying. A shock-sensing probe is a cone-shaped air data probe developed with specific features to capture the unique shock waves the X-59 will produce. Researchers at NASA’s Armstrong Flight [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasa-to-test-technology-for-x-59s-unique-shock-wave-measurements/>
+
+---
+
+## NASA Invites Media to Administrator Flight in Electra Hybrid-Electric Aircraft
+
+date: 2024-12-05, from: NASA breaking news
+
+NASA Administrator Bill Nelson will fly in aircraft manufacturer Electra’s EL2 Goldfinch experimental prototype aircraft on Sunday, Dec. 8. Members of the media are invited to speak with Nelson and Electra leaders just prior to the flight at 11:45 a.m. EST at Manassas Regional Airport in Manassas, Virginia. Electra designed the experimental aircraft with the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-invites-media-to-administrator-flight-in-electra-hybrid-electric-aircraft/>
+
+---
+
+## 10 Years Ago: Orion Flies its First Mission
+
+date: 2024-12-05, from: NASA breaking news
+
+A new American human-rated spacecraft made its first foray into space on Dec. 5, 2014. Under contract to NASA, Lockheed Martin builds Orion as the vehicle to take American astronauts back to the Moon and eventually beyond. Orion’s overall shape harkens back to the Apollo Command and Service Modules, but using today’s technology is a [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/10-years-ago-orion-flies-its-first-mission/>
+
+---
+
+## Day after nuclear power vow, Meta announces largest-ever datacenter powered by fossil fuels
+
+date: 2024-12-05, updated: 2024-12-05, from: The Register (UK I.T. News)
+
+<h4>Louisiana facility&#39;s three natural gas turbine plants to churn out 2,262 MW</h4> <p>Richland Parish, an idyllic rural area in northeast Louisiana, USA, is set to host a gigantic new Meta datacenter.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/05/meta_largestever_datacenter/>
+
+---
+
+## Space Station Trajectory Data
+
+date: 2024-12-05, from: NASA breaking news
+
+International Space Station trajectory data is now available to the public! This data, called an ephemeris, is generated by the ISS Trajectory Operations and Planning Officer (TOPO) flight controllers in the Mission Control Center at NASA’s Johnson Space Center. NASA is providing this information for use by the general public. 
+
+<br> 
+
+<https://www.nasa.gov/general/space-station-trajectory-data/>
+
+---
+
+## How do I Spot The Station?
+
+date: 2024-12-05, from: NASA breaking news
+
+What does all this sighting information mean? Important:&#160;The International Space Station orbits with an inclination of 51.6 degrees. This means that, as it orbits, the farthest north and south of the Equator it will ever go is 51.6 degrees latitude. If you live north or south of 51.6 degrees, the ISS will never go directly [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/how-do-i-spot-the-station/>
+
+---
+
+## Spot the Station Frequently Asked Questions
+
+date: 2024-12-05, from: NASA breaking news
+
+Why is the space station up there? The space station is Earth&#8217;s only microgravity laboratory. This football field-sized platform hosts a plethora of science and technology experiments that are continuously being conducted by crew members, or are automated. Research aboard the orbiting laboratory holds benefits for life back on Earth, as well as for future [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/spot-the-station-frequently-asked-questions/>
+
+---
+
+## Altman to Musk: Don't go full supervillain – that's so un-American
+
+date: 2024-12-05, updated: 2024-12-05, from: The Register (UK I.T. News)
+
+<h4>OpenAI chief says he doesn&#39;t think Elon will unleash political powers to zap AI competition</h4> <p>OpenAI boss Sam Altman has expressed hope that Elon Musk won&#39;t use his political clout to hurt his competitors, describing such activity as &#34;un-American.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/05/altman_musk_unamerican/>
+
+---
+
+## What Is Mocha Mousse, the First-Ever Shade of Brown Chosen as Pantone's Color of the Year?
+
+date: 2024-12-05, from: Smithsonian Magazine
+
+The 2025 hue is an "evocative soft brown" that was selected to suggest the rich flavor of a piece of chocolate or a cup of hot coffee 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/what-is-mocha-mousse-the-first-ever-shade-of-brown-chosen-as-pantones-color-of-the-year-180985588/>
+
+---
+
+## VEKOS: the Verified Experimental Kernel Operating System
+
+date: 2024-12-05, from: OS News
+
+VEKOS is an experimental operating system written in Rust that focuses on verification and security at its core. This is the first alpha release (v0.0.1) that demonstrates the basic architecture and key features of the system. ↫ VEKOS GitHub page Hobby and experimental operating systems written in Rust are not exactly a novel concept, but that doesn&#8217;t mean each new one that comes up isn&#8217;t cool. This one is still in its very early stages, but focuses on something quite interesting: every filesystem and memory operation is cryptographically verified using a proof system. It&#8217;s already got basic file system operations, signal handling and a scheduler, a shell, and more. Contributions are welcomed. 
+
+<br> 
+
+<https://www.osnews.com/story/141276/vekos-the-verified-experimental-kernel-operating-system/>
+
+---
+
+## Hundreds of Sea Turtles With Hypothermia Are Washing Up in Cape Cod, Cold-Stunned as Temperatures Drop
+
+date: 2024-12-05, from: Smithsonian Magazine
+
+New England Aquarium staff and volunteers are treating the reptiles, which have gotten trapped after venturing north earlier in the year. Experts say climate change is leading more turtles to get stranded in the bay 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/hundreds-of-sea-turtles-with-hypothermia-are-washing-up-in-cape-cod-cold-stunned-as-temperatures-drop-180985585/>
+
+---
+
+## Canada commits $1.4B to sovereign compute infrastructure as it joins the AI arms race
+
+date: 2024-12-05, updated: 2024-12-05, from: The Register (UK I.T. News)
+
+<h4>Project includes hundreds of millions of loonies for a national supercomputing facility</h4> <p>Canada is one of the latest nations to catch the sovereign AI bug and plans to invest $2 billion CAD ($1.42 billion USD) to bolster the nation&#39;s domestic compute capacity by funding the development of new datacenters and computing infrastructure north of the 49th parallel.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/05/canada_ai_funding/>
+
+---
+
+## HarmonyOS Next gets container tool to run Android applications
+
+date: 2024-12-05, from: OS News
+
+HarmonyOS Next, the new version of Huawei&#8217;s mobile operating system, runs on a brand new microkernel, uses a new, homegrown programming language, and most notably in this duopolistic world, does not run Android applications. This won&#8217;t be much of an issue inside China, where Huawei can more easily make sure the most important Chinese applications are supported and ported over, but outside of China that might pose some problems, especially for Chinese tourists visiting other countries. It turns out there&#8217;s a solution for this, called 出境易 (as Android Authority notes, this seems to translate to something like &#8220;Easy Abroad&#8221;), which is basically a containerised Android runtime using microG. It comes with its own built-in application store filled with a number of popular Android applications, and runs them on HarmonyOS Next. The tool is called 出境易, which roughly translates to “Easy Abroad.” It’s apparently designed to aid Chinese tourists who travel abroad. The tool seems to create a container for Android apps to run in, which is not a new concept but is surprising to see pop up so quickly for the new operating system. When installed, the tool lets you install a number of Android apps from its self-contained app store, including Facebook, Instagram, Discord, Reddit, YouTube, Google Search, Google Maps, Uber, Chrome, Gmail, Spotify, Disney Plus, Netflix, Steam, and more. These Android apps show up in a folder in the home screen but they cannot be dragged out of the folder.  An early hands-on of the tool from YouTuber LL Techview shows that it works surprisingly well. Android apps launch quickly, run pretty smoothly, and even appear in the recents menu. It’s even possible to sign into your Google Account to use apps like Google Search and Gmail. ↫ Mishaal Rahman at Android Authority There are limitations, of course, and they&#8217;re roughly the same as the ones found on any device running microG instead of Google Play Services &#8211; something I just wrote about in my review of /e/OS on a FairPhone 5: certain banking applications won&#8217;t work, anything that hooks too deeply into Play Services won&#8217;t run, that sort of stuff. On top of that, this tool also brings in some limitations of its own, like only whitelisted application being supported, notifications not working properly, and a few other issues. This all feels very similar to what Jolla and Sailfish tried to do way back in 2014. Running Android applications as a side hustle was jank back then and I feel like it&#8217;s probably going to be jank today. Even just running Play Services in a restrictive sandbox &#8211; like I do with GrapheneOS on my daily driver, a Pixel 8 Pro &#8211; presents some issues, and microG adds even more compatibility issues on top. Putting all of this in a container will surely add an additional layer of jank, like it did on Sailfish OS. Regardless, I&#8217;m 100% down with trying to get my hands on a HarmonyOS Next device if they ever become available in some form here in Sweden, as I feel like a review of what is the most serious attempt at breaking the Android-iOS duopoly in over a decade is something that belongs here on OSNews. If that time ever comes, I might set up another fundraiser to get it done. 
+
+<br> 
+
+<https://www.osnews.com/story/141273/harmonyos-next-gets-container-tool-to-run-android-applications/>
+
+---
+
+## 2024 NESC Technical Update
+
+date: 2024-12-05, from: NASA breaking news
+
+Annual Report of NESC Technical Activities On behalf of the NASA Engineering and Safety Center (NESC), I am pleased to provide you with the 2024 NESC Technical Update. This annual report summarizes the technical work, engineering advancements, and knowledge capture efforts we made in FY24. With support provided by members of our NASA community from across [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/nesc/2024-nesc-technical-update/>
+
+---
+
+## A brief introduction to OCI containers on FreeBSD
+
+date: 2024-12-05, from: OS News
+
+14.2-RELEASE now includes OCI-compatible images, and the Podman toolkit on FreeBSD is ready to use them, on both amd64 and arm64 systems. ↫ Dave Cottlehuber This article from Dave Cottlehuber goes into more detail about the OCI-compatible FreeBSD images and how to use them. 
+
+<br> 
+
+<https://www.osnews.com/story/141271/a-brief-introduction-to-oci-containers-on-freebsd/>
+
+---
+
+## A Pod of Orcas Learned to Target and Feast on Whale Sharks, the Largest Fish in the Sea
+
+date: 2024-12-05, from: Smithsonian Magazine
+
+Photos and videos of the apex predators reveal how they engage in coordinated hunts in Mexican waters to take down juvenile whale sharks 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-pod-of-orcas-learned-to-target-and-feast-on-whale-sharks-the-largest-fish-in-the-sea-180985573/>
+
+---
+
+## La NASA comparte resultados del escudo térmico de Orion, actualiza las misiones Artemis
+
+date: 2024-12-05, from: NASA breaking news
+
+Read this release in English&#160;here. Mediante la campaña Artemis, la NASA llevará a los siguientes astronautas estadounidenses y al primer astronauta internacional a la región del Polo Sur de la Luna. El jueves, la NASA anunció las últimas actualizaciones de sus planes de exploración lunar. Un grupo de expertos examinó los resultados de la investigación [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/la-nasa-comparte-resultados-del-escudo-termico-de-orion-actualiza-las-misiones-artemis/>
+
+---
+
+## Windows 11 24H2 rolls out to more devices – with a growing list of known issues
+
+date: 2024-12-05, updated: 2024-12-05, from: The Register (UK I.T. News)
+
+<h4>Compatibility holds persist as gamers face black screens</h4> <p>Windows 11 24H2 is set to hit more users as the Microsoft operating system enters a &#34;new stage of availability.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/05/microsoft_windows_roll_out/>
+
+---
+
+## A Little Boy Found a Strange Stone on the Beach. Archaeologists Told Him It Was a Neanderthal's Hand Ax
+
+date: 2024-12-05, from: Smithsonian Magazine
+
+The artifact is now on display at a museum in southern England. Experts say the find is "so rare that most qualified archaeologists would never find one themselves" 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/a-little-boy-found-a-strange-stone-on-the-beach-archaeologists-told-him-it-was-a-neanderthals-hand-ax-180985578/>
+
+---
+
+## FreeBSD 14.2 wants to woo Docker fans, but still struggles with Wi-Fi
+
+date: 2024-12-05, updated: 2024-12-05, from: The Register (UK I.T. News)
+
+<h4>Another buzzword box ticked: OCI-compliant containers</h4> <p>FreeBSD 14.2, the latest point release of the most widely used of the BSDs, brings some new features to tempt Docker fans.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/05/freebsd_142/>
+
+---
+
+## Look Up for a Dazzling View of Jupiter This Weekend as It Shines Its Brightest of the Year
+
+date: 2024-12-05, from: Smithsonian Magazine
+
+On December 7, the “king of planets” will line up with the Earth and sun in an event known as opposition. It will be visible all night and offer prime viewing, especially through binoculars or a telescope 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/look-up-for-a-dazzling-view-of-jupiter-this-weekend-as-it-shines-its-brightest-of-the-year-180985584/>
+
+---
+
+## Arianespace's Vega C delayed after gantry throws a tantrum
+
+date: 2024-12-05, updated: 2024-12-05, from: The Register (UK I.T. News)
+
+<h4>Euro rocket stuck on the ground for another day</h4> <p>The return to flight of Arianespace&#39;s Vega C has been delayed due to a &#34;mechanical issue&#34; with the mobile gantry.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/05/arianespace_vega_c_delay/>
+
+---
+
+## No, Orcas Probably Aren't Reviving the 'Dead Salmon Hat' Trend, Despite a Viral Photo, Experts Say. Here's Why
+
+date: 2024-12-05, from: Smithsonian Magazine
+
+A recent photo of an orca swimming with a salmon on its head has fueled speculation that the fad, first observed in the 1980s, has re-emerged off the coast of Washington state. But some experts are less eager to jump to that conclusion 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/no-orcas-probably-arent-reviving-the-dead-salmon-hat-trend-despite-a-viral-photo-experts-say-heres-why-180985559/>
+
+---
+
+## See Inside Notre-Dame Cathedral in These Breathtaking Images of Its Newly Unveiled Interior
+
+date: 2024-12-05, from: Smithsonian Magazine
+
+The historic church was devastated by a fire in 2019. After five years of painstaking work, it's finally scheduled to reopen to the public this weekend 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/see-inside-notre-dame-cathedral-in-these-breathtaking-images-of-its-newly-unveiled-interior-180985576/>
 
 ---
 
@@ -47,9 +505,9 @@ date: 2024-12-05, updated: 2024-12-05, from: The Register (UK I.T. News)
 
 ## British hospitals hit by cyberattacks still battling to get systems back online
 
-date: 2024-12-05, updated: 2024-12-05, from: The Register (UK I.T. News)
+date: 2024-12-05, updated: 2024-12-06, from: The Register (UK I.T. News)
 
-<h4>Children&#39;s hospital and cardiac unit say criminals broke in via shared &#39;digital gateway service&#39;</h4> <p>Both National Health Service trusts that oversee the various hospitals hit by separate cyberattacks last week have confirmed they&#39;re still in the process of restoring systems.…</p> 
+<h4>Children&#39;s hospital and cardiac unit say criminals broke in via shared &#39;digital gateway service&#39;</h4> <p><strong>Updated</strong>  Both National Health Service trusts that oversee the various hospitals hit by separate cyberattacks last week have confirmed they&#39;re still in the process of restoring systems.…</p> 
 
 <br> 
 
@@ -141,11 +599,11 @@ date: 2024-12-05, updated: 2024-12-05, from: The Register (UK I.T. News)
 
 ---
 
-## China encourages local orgs to seek alternatives to US silicon
+## Beijing wants Chinese outfits to seek alternatives to US silicon
 
 date: 2024-12-05, updated: 2024-12-05, from: The Register (UK I.T. News)
 
-<h4>Which could be in short supply as Beijing bans rare earth exports</h4> <p>Four of China&#39;s top industry bodies have published advice suggesting members source fewer semiconductors from US silicon slingers, because supply chain issues caused by sanctions mean they are &#34;no longer secure and reliable.&#34;…</p> 
+<h4>And American components may be in short supply as Middle Kingdom bans rare earth exports</h4> <p>Four of China&#39;s top industry bodies have published advice suggesting members source fewer semiconductors from US silicon slingers, because supply chain issues caused by sanctions mean they are &#34;no longer secure and reliable.&#34;…</p> 
 
 <br> 
 
@@ -191,7 +649,7 @@ date: 2024-12-05, updated: 2024-12-05, from: The Register (UK I.T. News)
 
 ## T-Mobile US CSO: Spies jumped from one telco to another in a way 'I've not seen in my career'
 
-date: 2024-12-05, updated: 2024-12-05, from: The Register (UK I.T. News)
+date: 2024-12-05, updated: 2024-12-06, from: The Register (UK I.T. News)
 
 <h4>Security chief talks to El Reg as Feds urge everyone to use encrypted chat</h4> <p><strong>interview</strong>  While Chinese-government-backed spies maintained access to US telecommunications providers&#39; networks for months – and in some cases still haven&#39;t been booted out – T-Mobile US thwarted successful attacks on its systems &#34;within a single-digit number of days,&#34; according to the carrier&#39;s security boss Jeff Simon.…</p> 
 
@@ -323,7 +781,7 @@ Lee esta nota de prensa en español&#160;aquí. NASA Administrator Bill Nelson a
 
 ## Microsoft confirms there will be no U-turn on Windows 11 hardware requirements
 
-date: 2024-12-04, updated: 2024-12-04, from: The Register (UK I.T. News)
+date: 2024-12-04, updated: 2024-12-05, from: The Register (UK I.T. News)
 
 <h4>TPM 2.0 &#39;non-negotiable&#39; for latest OS, says software giant</h4> <p>Microsoft is not backing down on the hardware requirements for Windows 11, stating that the Trusted Platform Module (TPM) is essential for the operating system, even if it is not part of the minimum requirements for Windows Server 2025.…</p> 
 
@@ -503,7 +961,7 @@ At the edge of Las Cruces, New Mexico, surrounded by miles of sunbaked earth, NA
 
 ## Elementary OS 8 'Circe' conjures Wayland magic
 
-date: 2024-12-04, updated: 2024-12-04, from: The Register (UK I.T. News)
+date: 2024-12-04, updated: 2024-12-05, from: The Register (UK I.T. News)
 
 <h4>Based on Ubuntu 24.04, more accessibility, still looks great</h4> <p>Elementary OS 8 &#34;Circe&#34; is here, based on Ubuntu 24.04, with Wayland support in the Pantheon desktop.…</p> 
 
@@ -551,7 +1009,7 @@ Speculation about what happened to the "Mary Celeste," found empty on this day i
 
 ## Fresh releases of Xfce, Mint, Cinnamon desktops out in time for the holidays
 
-date: 2024-12-04, updated: 2024-12-04, from: The Register (UK I.T. News)
+date: 2024-12-04, updated: 2024-12-05, from: The Register (UK I.T. News)
 
 <h4>Cinnamon 6.4 is already out and Xfce 4.20 is very nearly ready</h4> <p>Fancy spending time refreshing your setup over the holidays? Two of the more popular Windows-style FOSS desktops are about to drop new point releases, one for higher-end machines and one for lower-end kit.…</p> 
 
@@ -575,7 +1033,7 @@ date: 2024-12-04, updated: 2024-12-04, from: The Register (UK I.T. News)
 
 ## Musk and Trump to fall out in 2025, predicts analyst
 
-date: 2024-12-04, updated: 2024-12-04, from: The Register (UK I.T. News)
+date: 2024-12-04, updated: 2024-12-05, from: The Register (UK I.T. News)
 
 <h4>Differing China tech policy agendas will send bromance into &#39;it&#39;s complicated&#39; status</h4> <p><strong>Canalys Forums APAC</strong>  The CEO and founder of channel-centric analyst house Canalys has predicted that the alliance between president-elect Donald Trump and aspiring oligarch Elon Musk will unravel in 2025, putting Tesla&#39;s ability to execute on full self-driving vehicles at risk.…</p> 
 
@@ -635,7 +1093,7 @@ date: 2024-12-04, updated: 2024-12-04, from: The Register (UK I.T. News)
 
 ## AWS says AI could disrupt everything – and hopes it will do just that to Windows
 
-date: 2024-12-04, updated: 2024-12-04, from: The Register (UK I.T. News)
+date: 2024-12-04, updated: 2024-12-05, from: The Register (UK I.T. News)
 
 <h4>Cloud colossus reckons it can clarify hallucinations, get your apps off Microsoft&#39;s OS at pleasing speed</h4> <p><strong>re:Invent</strong>  Amazon Web Services CEO Matt Garman opened the cloud computing service&#39;s 13th annual re:Invent conference by observing: &#34;Generative AI has the potential to disrupt every single industry out there.&#34;…</p> 
 

@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2024-12-05 07:05:47
+updated: 2024-12-06 07:05:07
 ---
 
 # games
 
-(date: 2024-12-05 07:05:47)
+(date: 2024-12-06 07:05:07)
+
+---
+
+## The 43 best movies on Netflix right now
+
+date: 2024-12-06, updated: 2024-12-06, from: Polygon Website
+
+What’s the best movie I can watch on Netflix? We’ve all asked ourselves this question, only to spend the next 15 minutes scrolling through the streaming service’s oddly specific genre menus and getting overwhelmed by the constantly shifting trend menus. Netflix’s huge catalog of movies continues to expand day by day, week by week, month [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/21266801/best-movies-on-netflix>
+
+---
+
+## The 43 best movies on Netflix right now
+
+date: 2024-12-06, updated: 2024-12-05, from: Polygon Website
+
+What’s the best movie I can watch on Netflix? We’ve all asked ourselves this question, only to spend the next 15 minutes scrolling through the streaming service’s oddly specific genre menus and getting overwhelmed by the constantly shifting trend menus. Netflix’s huge catalog of movies continues to expand day by day, week by week, month [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/488985/best-movies-on-netflix>
+
+---
+
+## What is the Fortnite OG map and weapon loot pool?
+
+date: 2024-12-06, updated: 2024-12-06, from: Polygon Website
+
+Fortnite OG sees Fortnite travel seven years into the past — bringing back its original map and weapon loot pool. Debuting in Dec. 2024, the dedicated and permanent mode sees nostalgic point-of-interests and weapons from Chapter 1 Season 1 return, while new takes on classic skins appear in the dedicated Fortnite OG battle pass. Here’s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/492032/og-map-weapon-loot-pool>
+
+---
+
+## Critical Role reveals Daggerheart cover and limited edition box set
+
+date: 2024-12-06, updated: 2024-12-06, from: Polygon Website
+
+Darrington Press, the publishing imprint of actual play titan Critical Role, has revealed the cover for its upcoming tabletop role-playing game Daggerheart. The TTRPG, set to be released in Spring 2025, takes the found family adventuring dynamics for which the cast of Critical Role is best known and mechanizes them in a narrative-forward, d12-based system.&#160; [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/critical-role/491937/critical-role-reveals-daggerheart-cover-limited-edition-box-set>
+
+---
+
+## The secret sauce behind Creature Commandos’ Bride was Harley Quinn
+
+date: 2024-12-06, updated: 2024-12-05, from: Polygon Website
+
+James Gunn’s Creature Commandos, the wildest version of the Suicide Squad to hit the screen yet, isn’t Dean Lorey’s first trip to the DC Comics adaptation rodeo. The showrunner cut his teeth as a producer on Powerless, a writer on iZombie, and most recently as showrunner on Kite Man: Hell Yeah! But his biggest success [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dc/491080/creature-commandos-bride-of-frankenstein-harley-quinn>
+
+---
+
+## Finally, The Witcher 3’s Gwent will be playable in real life
+
+date: 2024-12-06, updated: 2024-12-05, from: Polygon Website
+
+Gwent, the popular digital trading card game that came to life as an in-game activity in The Witcher 3: Wild Hunt, has proven popular with fans over the years. While CD Projekt Red no longer supports the standalone spinoff, Gwent: The Witcher Card Game (players have done that themselves since 2023), Hachette Boardgames will attempt [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/491425/the-witcher-3-gwent-physical-version-announcement-release-date-price>
+
+---
+
+## League of Legends trading card game will bring teamfights to the real world
+
+date: 2024-12-06, updated: 2024-12-06, from: Polygon Website
+
+Between the finale of Arcane, the new Teamfight Tactics set, and a new League of Legends season starting soon, it’s been a big couple of months for the world of Runeterra. And it’s getting even bigger. On Thursday, Riot announced League is jumping into the real world again, this time with a physical card game [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/490418/league-legends-card-game-tcg-riot-games-project-k>
+
+---
+
+## All Team-Up abilities in Marvel Rivals and how to do them
+
+date: 2024-12-06, updated: 2024-12-05, from: Polygon Website
+
+Team-Up abilities are thematically appropriate moves in Marvel Rivals, allowing two or more heroes from the Marvel Universe to pair up and kick ass as a group. These unique effects can be extremely powerful, and can even change the tide of battle if you know what you’re doing. In this Marvel Rivals guide, we’ll walk [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel-rivals-guide/491013/team-up-abilities-list-all>
+
+---
+
+## All Marvel Rivals maps and modes for quick play and competitive
+
+date: 2024-12-06, updated: 2024-12-05, from: Polygon Website
+
+Marvel Rivals is a competitive game set in the multiverse, so it’s fitting that you play on a number of different maps. At launch, there are eight maps in Marvel Rivals, all inspired by locations from the Marvel Comics universe. You’ll play three modes across those maps. Developer NetEase Games says it will add more [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel-rivals-guide/491015/maps-modes-list-all-quick-play-competitive>
+
+---
+
+## What is the Marvel Rivals roadmap?
+
+date: 2024-12-06, updated: 2024-12-05, from: Polygon Website
+
+The roadmap for Marvel Rivals details what to expect next from the ongoing competitive romp through Marvel’s multiverse. At the moment, the official Marvel Rivals roadmap is pretty light on details, though developer NetEase Games says the launch slate of heroes, maps, and modes is just the beginner of what you can expect. In this [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel-rivals-guide/491017/roadmap-new-heroes-season-schedule>
 
 ---
 

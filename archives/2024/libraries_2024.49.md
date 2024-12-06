@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2024-12-05 07:05:47
+updated: 2024-12-06 07:05:07
 ---
 
 # libraries
 
-(date: 2024-12-05 07:05:47)
+(date: 2024-12-06 07:05:07)
+
+---
+
+## Filling the Gap: SSP Launches a Global Compensation Benchmarking Study for Scholarly Communications Professionals and Organizations
+
+date: 2024-12-06, from: Scholarly Kitchen
+
+<p>The Society for Scholarly Publishing (SSP) is launching a new global Compensation and Benefits Benchmarking Study to fill a long-standing gap in the industry</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/12/06/filling-the-gap-ssp-launches-a-global-compensation-benchmarking-study-for-scholarly-communications-professionals-and-organizations/">Filling the Gap: SSP Launches a Global Compensation Benchmarking Study for Scholarly Communications Professionals and Organizations</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2024/12/06/filling-the-gap-ssp-launches-a-global-compensation-benchmarking-study-for-scholarly-communications-professionals-and-organizations/>
 
 ---
 
@@ -32,6 +46,103 @@ Maurer, Benedikt
 <br> 
 
 <http://hdl.handle.net/20.500.11850/705950>
+
+---
+
+## Summary of the environmental impact of Crossref
+
+date: 2024-12-05, from: Crossref Blog
+
+<p>In June 2022, we wrote a blog post “<a href="https://www.crossref.org/blog/rethinking-staff-travel-meetings-and-events/" target="_blank">Rethinking staff travel, meetings, and events</a>” outlining our new approach to staff travel, meetings, and events with the goal of not going back to ‘normal’ after the pandemic. We took into account three key areas:</p>
+<ol>
+<li>The environment and climate change</li>
+<li>Inclusion</li>
+<li>Work/life balance</li>
+</ol>
+<p>We are aware that many of our members are also interested in minimizing their impacts on the environment, and we are overdue for an update on meeting our own commitments, so here goes our summary for the year 2023!</p>
+<p>To be honest, the picture is mixed. On the positive side, we are traveling less and differently compared with 2019. Most of our events have been online, with some regional in-person ones, reducing our carbon footprint and increasing inclusivity with more people attending Crossref events. On the negative side, it hasn’t been easy to collect the data and figure out the best tools for calculating emissions, and we certainly haven’t captured all of our carbon emissions. Our approach has been to not let the perfect be the enemy of the good and we’ve focused on our largest source of carbon emissions - air travel.</p>
+<h3 id="some-of-the-positive-things">Some of the positive things:</h3>
+<ul>
+<li>We have maintained our strategic approach to consider environmental, inclusion, and work/life balance issues when we plan travel and to make the most of in-person events by focusing on those that involve interaction, such as listening and learning from our members and users, deepening relationships, co-creating, and forming new alliances</li>
+<li>Crossref Annual Meetings and community updates have been online and in different time zones.</li>
+<li>Crossref board meetings have been reduced from three in-person meetings per year to one face-to-face and two online meetings per year.</li>
+<li>We had an optional all-staff in-person meeting in June 2023 (and this year too).</li>
+<li>For the in-person board and staff meetings, we have selected locations that minimize the overall amount of travel and maximize direct flights.</li>
+<li>We have maintained our country focus for in-person local meetings supported by regional Ambassadors.</li>
+<li>We met our goal of keeping total travel and meeting expenses below 60% of 2019 costs even though we have more staff and membership growth has continued. The amount of money spent is a rough proxy for our carbon impact.</li>
+<li>We no longer have an office in Oxford and will not renew the lease on our Lynnfield, MA office, so we will have no physical offices by the end of 2024. This is not a large carbon emission reduction and is more a result of being a “distributed first” organization with staff in 11 different countries.</li>
+<li>We recorded data on staff travel (flights, trains, cars, hotels) for 2023 to use as a baseline for comparison with future years. In 2023 the carbon emissions from travel and meetings was about 105 tCO2e.</li>
+<li>We used tools provided by Amazon Web Services (AWS) and Zoom to estimate the impact of these services. In 2023 this was 0.266 tCO2e for AWS and .1 tCO2e for Zoom.</li>
+</ul>
+<h3 id="some-challenges">Some challenges</h3>
+<ul>
+<li>Compiling data is difficult and time-consuming for a small organization</li>
+<li>There are many different calculators and metrics to use and it’s difficult to decide which to use and how much detail to go into</li>
+<li>We haven’t yet estimated the carbon footprint of staff home working</li>
+<li>We were able to calculate the emissions from AWS but not our data center</li>
+<li>We didn’t estimate the emissions from our offices. We had a small office in Oxford until November 2023, and we have an office near Boston - we won’t be renewing the lease in 2025 so won’t have any offices.</li>
+</ul>
+<h3 id="total-travel-and-meetings-spending">Total travel and meetings spending</h3>
+<table>
+<thead>
+<tr>
+<th>Year</th>
+<th>Amount</th>
+<th>Percentage of 2019</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2019 actuals</td>
+<td>$585,482</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>2020 actuals</td>
+<td>$91,700</td>
+<td>16%</td>
+</tr>
+<tr>
+<td>2021 actuals</td>
+<td>$19,066</td>
+<td>3%</td>
+</tr>
+<tr>
+<td>2022 actuals</td>
+<td>$74,416</td>
+<td>13%</td>
+</tr>
+<tr>
+<td>2023 actuals</td>
+<td>$305,737</td>
+<td>52%</td>
+</tr>
+<tr>
+<td>2024 budget</td>
+<td>$333,500</td>
+<td>56%</td>
+</tr>
+</tbody>
+</table>
+<p>We have recorded carbon emissions from travel at about 105 tCO2e, so we will compare 2023 with future years. Now that we have started collecting travel data, it will be easier—staff can do it as they travel throughout the year.</p>
+<p>Our Executive Director, Ed Pentz, looked at his personal and work flights and the carbon emissions in 2019 were 18 tCO2e and in 2023 were 2.7 tCO2e so this is a big change in the right direction.</p>
+<h3 id="hosting-services">Hosting services</h3>
+<p>We use AWS for hosting our REST APIs, Crossref Metadata Search, the website, and Labs projects. Our main metadata registry is still in a data center, which is not included in this calculation. For 2023 Amazon reports Crossref’s carbon emissions were 0.216 tCO2e compared with 0.266 tCO2e in 2022. Crossref is planning to move out of the data center and fully to AWS by the end of 2024 so this will increase our AWS usage and therefore our emissions from related activities will increase. Compared to travel, the footprint from AWS is minimal.</p>
+<h3 id="online-meetings">Online meetings</h3>
+<p>As a distributed, remote-first organization Crossref is a heavy Zoom user –– it’s essential for staff and for engaging with our community. However, Zoom doesn’t provide tools or estimates of the carbon impact of Zoom meetings. We used <a href="https://www.utilitybidder.co.uk/business-electricity/zoom-emissions/" target="_blank">a tool provided by Utility Bidder</a>, which makes a lot of estimates and assumptions. In 2023 Crossref had almost 800,000 meeting minutes. This translated into an average of 1.92 kg of CO2 emissions per week, or 100 kg per year.</p>
+<p>Some studies have estimated that turning off video reduces the carbon footprint of meetings. However, this can be a false savings since video is often important for creating a connection and having a productive meeting, and a Zoom meeting with video is still much, much better than traveling, particularly if flying is involved.</p>
+<h3 id="tools-we-used">Tools we used</h3>
+<p>In order to calculate emissions for flights and train journeys, we chose to use <a href="https://www.carbonfootprint.com/calculator.aspx" target="_blank">Carbon Calculator</a>. We didn’t calculate emissions from hotel stays but looked at the <a href="https://www.hotelfootprints.org/" target="_blank">Hotel Footprinting tools</a> and may add hotels to calculations in the future.</p>
+<h3 id="offsetting">Offsetting</h3>
+<p>We don’t offset our emissions from travel or other operations and don’t have plans to do this. <a href="https://en.wikipedia.org/wiki/Carbon_offsets_and_credits#Assuring_quality_and_determining_value" target="_blank">Offsetting emissions is problematic in a number of different ways</a> so we don’t feel confident in doing it.</p>
+<p>We did tree-planting as a “thank you” for the time of respondents in our metadata survey. Intended as an alternative to more commercial types of incentives rather than off-setting for our emissions, this resulted in 921 trees planted for the <a href="https://ecologi.com/projects/restoring-degraded-land-in-ethiopia" target="_blank">Gewocha Forest, Ethiopia</a> via Ecologi.</p>
+<h3 id="wrapping-up">Wrapping up</h3>
+<p>Moving forward, we’ve learned a lot over the last couple of years. Collecting accurate data is challenging and time-consuming, especially for a small organization. For us, this has been a new lens for viewing our activities, and it remains a true learning journey and we have made permanent changes. In 2024 and beyond we are going to continue to follow our travel, meetings, and events policies that we announced in 2022. We will continue to capture our air travel emissions, and in 2025 we will more accurately capture train journeys and hotel stays. We will also continue calculating our Zoom and AWS emissions as best as we can. What we&rsquo;ve learnt in the process of capturing and calculating our 2023 emissions helped us set things up to enable more prompt reporting on these impacts in the future.</p>
+<p>We expect that many of our members and our community at large assess their environmental impact or are embarking on similar projects, to understand and curb emissions. We’re keen to discuss this and learn together to reduce our environmental impact as an organization.</p> 
+
+<br> 
+
+<https://www.crossref.org/blog/summary-of-the-environmental-impact-of-crossref/>
 
 ---
 
@@ -400,4 +511,16 @@ Agrawal, Dhruv; Buhmann, Jakob; Borer, Dominik; Sumner, Robert W.; Guay, Martin
 <br> 
 
 <http://hdl.handle.net/20.500.11850/708432>
+
+---
+
+## Funding R&D Cooperation Between Firms and Universities - The Effectiveness of the Innosuisse Model
+
+date: 2024-12-01, from: ETH Zurich, recently added
+
+Hulfeld, Florian; Spescha, Andrin; Wörter, Martin 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/708831>
 

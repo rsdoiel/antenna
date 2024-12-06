@@ -1,11 +1,184 @@
 ---
 title: socal north
-updated: 2024-12-05 07:05:45
+updated: 2024-12-06 07:05:05
 ---
 
 # socal north
 
-(date: 2024-12-05 07:05:45)
+(date: 2024-12-06 07:05:05)
+
+---
+
+## Should US citizens in mixed-status families submit a FAFSA?
+
+date: 2024-12-06, updated: 2024-12-06, from: The LAist
+
+Families have voiced concerns about how their personal data might be used under a second Trump administration. 
+
+<br> 
+
+<https://laist.com/news/education/mixed-status-fafsa-cadaa-financial-aid-undocumented-trump-administration>
+
+---
+
+## From SoCal to Cuba: The Cal State Long Beach jazz ensemble bringing its unique rhythms to the Caribbean
+
+date: 2024-12-06, updated: 2024-12-06, from: The LAist
+
+Pacific Standard Time vocal jazz ensemble prepares for their cultural exchange trip to Cuba. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/cal-state-long-beach-jazz-ensemble-caribbean>
+
+---
+
+## Actor Issa Rae opens new restaurant in South LA
+
+date: 2024-12-06, updated: 2024-12-06, from: The LAist
+
+Located along the Slauson Corridor, Somerville is designed to be “a tribute to South Central L.A.’s Golden Age.” 
+
+<br> 
+
+<https://laist.com/news/food/actor-issa-rae-opens-new-restaurant-in-south-la>
+
+---
+
+## Andrew Do is out, Janet Nguyen is in. What does that mean for District 1 in Orange County?
+
+date: 2024-12-06, updated: 2024-12-06, from: The LAist
+
+Nguyen says she wants to restore public trust and prioritize efficiency. 
+
+<br> 
+
+<https://laist.com/news/politics/andrew-do-is-out-janet-nguyen-is-in-what-does-that-mean-for-district-1-in-orange-county>
+
+---
+
+## Cheap Fast Easts visits Alhambra to find tasty bites on a budget
+
+date: 2024-12-06, updated: 2024-12-06, from: The LAist
+
+We travel to the San Gabriel Valley to try bargain-priced Thai lunch combos, Northern Chinese pan-fried dumplings, and Malaysian brunch. 
+
+<br> 
+
+<https://laist.com/news/food/cheap-fast-easts-visits-alhambra-to-find-tasty-bites-on-a-budget>
+
+---
+
+## When it comes to bagels, LA is eating New York’s breakfast
+
+date: 2024-12-06, updated: 2024-12-06, from: The LAist
+
+“We make the food grandma would make with a full sleeve of tats and septum piercing," says the owner of Belle’s Bagels. 
+
+<br> 
+
+<https://laist.com/news/food/when-it-comes-to-bagels-la-is-eating-new-yorks-breakfast>
+
+---
+
+## LA officials say more city staff is needed to target thousands of illegal vacation rentals
+
+date: 2024-12-06, updated: 2024-12-06, from: The LAist
+
+The city estimates 7,500 homes are being illegally rented through online booking platforms. Here’s how they plan to crack down before the Olympics. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/la-city-officials-illegal-vacation-rentals>
+
+---
+
+## What would really happen if a tsunami hit the Bay Area?
+
+date: 2024-12-05, updated: 2024-12-05, from: The LAist
+
+You may have seen a tsunami hit San Francisco in a movie, but what would it really be like? 
+
+<br> 
+
+<https://laist.com/news/climate-environment/what-would-really-happen-if-a-tsunami-hit-the-bay-area>
+
+---
+
+## How Potential Medicaid Cuts Could Play Out in California
+
+date: 2024-12-05, updated: 2024-12-05, from: The LAist
+
+As Donald Trump prepares to reenter the White House with a Republican-controlled Congress, health officials and community advocates in California worry that large-scale Medicaid cuts could be enacted as soon as next year. More than 60% of California’s $161 billion Medi-Cal budget comes from Washington. 
+
+<br> 
+
+<https://laist.com/news/how-potential-medicaid-cuts-could-play-out-in-california>
+
+---
+
+## How sweet! A daily dose of dark chocolate may cut your risk of diabetes
+
+date: 2024-12-05, updated: 2024-12-05, from: The LAist
+
+A new study finds people who eat a small, daily serving of dark chocolate have a reduced risk of developing Type 2 diabetes. People who ate milk chocolate did not have a lower risk. Here's why. 
+
+<br> 
+
+<https://laist.com/news/health/how-sweet-a-daily-dose-of-dark-chocolate-may-cut-your-risk-of-diabetes>
+
+---
+
+## 5 things Californians should know about tsunamis
+
+date: 2024-12-05, updated: 2024-12-05, from: The LAist
+
+What would it take for a tsunami to hit the California coast? 
+
+<br> 
+
+<https://laist.com/news/climate-environment/5-things-californians-should-know-about-tsunamis>
+
+---
+
+## A 7.0 magnitude earthquake struck near Humboldt, causing damage and power outages
+
+date: 2024-12-05, updated: 2024-12-06, from: The LAist
+
+Shaking was likely felt as far away as Santa Maria and briefly prompted a tsunami warning. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/earthquake-tsunami-humboldt-coast>
+
+---
+
+## LAPD Presence Reported on Brand Blvd. in San Fernando
+
+date: 2024-12-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241205_172159207-modified-scaled.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241205_172159207-modified-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241205_172159207-modified-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241205_172159207-modified-scaled.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241205_172159207-modified-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241205_172159207-modified-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241205_172159207-modified-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241205_172159207-modified-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241205_172159207-modified-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241205_172159207-modified-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241205_172159207-modified-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241205_172159207-modified-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241205_172159207-modified-scaled.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241205_172159207-modified-scaled.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241205_172159207-modified-scaled.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241205_172159207-modified-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241205_172159207-modified-scaled.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>There was heavy police activity led by the Los Angeles Police Department (LAPD) reported near the intersection of Brand Boulevard and Kewen Street in the City of San Fernando this [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2024/12/05/lapd-presence-reported-on-brand-blvd-in-san-fernando/">LAPD Presence Reported on Brand Blvd. in San Fernando</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2024/12/05/lapd-presence-reported-on-brand-blvd-in-san-fernando/>
+
+---
+
+## Disney’s Frozen Comes to Life at The Cube!
+
+date: 2024-12-05, from: City of Santa Clarita
+
+<p>By Councilwoman Marsha McLean The holidays are here, sparking feelings of joy, magic and closeness as we spend time with the ones we love—and what better way to create lasting memories with your family than bundling up in your coziest jackets, throwing on your warmest scarves and gliding along the ice at the local ice-skating [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/12/05/disneys-frozen-comes-to-life-at-the-cube/">Disney’s Frozen Comes to Life at The Cube!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/12/05/disneys-frozen-comes-to-life-at-the-cube/>
 
 ---
 
@@ -25,7 +198,7 @@ Less cloudy today than Wednesday.
 
 date: 2024-12-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="682" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?resize=768%2C511&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?resize=1536%2C1023&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?resize=1200%2C799&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?resize=1568%2C1044&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?resize=400%2C266&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?resize=706%2C470&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="682" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?resize=768%2C511&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?resize=1536%2C1023&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?resize=1200%2C799&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?resize=1568%2C1044&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?resize=400%2C266&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?resize=706%2C470&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/EP-photo.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>With information provided to the San Fernando Valley Sun/el Sol Since San Fernando resident Edward Perales, a convicted felon, was released on a reduced bail last week, he has been [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/12/04/residents-see-something-and-say-something-but-sfpd-is-slow-to-respond/">Residents ‘See Something and Say Something’ But SFPD is Slow to Respond</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  

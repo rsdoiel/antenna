@@ -1,11 +1,65 @@
 ---
 title: writing
-updated: 2024-12-05 07:05:46
+updated: 2024-12-06 07:05:07
 ---
 
 # writing
 
-(date: 2024-12-05 07:05:46)
+(date: 2024-12-06 07:05:07)
+
+---
+
+## 2025 Joyce Carol Oates Award Longlist
+
+date: 2024-12-05, from: Locus Magazine
+
+<p><strong></strong>The 2025 Joyce Carol Oates Prize has announced its 33-title longlist. The award honors &#8220;mid-career authors in fiction,&#8221; and the winner receives a $50,000 prize and a residence at the University of California, Berkeley and/or Bay Area. The award is given by the New Literary Project. The 2025 longlist features several works of genre interest, including:</p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>Beautyland</strong>, Marie-Helene Bertino (FSG)</li>
+<li><strong>Dead in Long Beach, California</strong>, Venita Blackburn (MCD)</li></ul></div> <a href="https://locusmag.com/2024/12/2025-joyce-carol-oates-award-longlist/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2024/12/2025-joyce-carol-oates-award-longlist/>
+
+---
+
+## YouTube Video Is Up! Check Out The Top New Releases For 12/03/2024!
+
+date: 2024-12-05, from: Locus Magazine
+
+<p>It&#8217;s the start of December and we&#8217;re back for another week of exciting new releases, this time for the week of 12/03/2024! We&#8217;ll be back every week with another video chalk full of the best SF, Fantasy, and Horror titles for you to check out! Why not swing by our YouTube channel and subscribe to support our week, we really do appreciate it! We here at Locus Magazine hope you&#8217;re  <a href="https://locusmag.com/2024/12/youtube-video-is-up-check-out-the-top-new-releases-for-12-03-2024/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/youtube-video-is-up-check-out-the-top-new-releases-for-12-03-2024/>
+
+---
+
+## The Year’s Top Tales of Space and Time 4 edited by Allan Kaster: Review by Alexandra Pierce
+
+date: 2024-12-05, from: Locus Magazine
+
+<p><strong>The Year’s Top Tales of Space and Time 4</strong>, Al­lan Kaster, ed. (Infinivox 978-1-88461-258-9, 276pp, $18.99, tp). Cover by Maurizio Manzieri. September 2024.</p>
+<p>Allan Kaster’s fourth edition of <strong>The Year’s Top Tales of Space and Time </strong>collects 14 stories, almost all of which originally appeared in familiar periodicals – including Analog Science Fiction and Fact, Asimov’s Sci­ence Fiction, Clarkesworld – and one anthology, <strong>Life Beyond Us</strong>. Some of  <a href="https://locusmag.com/2024/12/the-years-top-tales-of-space-and-time-4-edited-by-allan-kaster-review-by-alexandra-pierce/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/the-years-top-tales-of-space-and-time-4-edited-by-allan-kaster-review-by-alexandra-pierce/>
+
+---
+
+## City of Dancing Gargoyles by Tara Campbell: Review by Ian Mond
+
+date: 2024-12-05, from: Locus Magazine
+
+<p><strong>City of Dancing Gargoyles</strong>, Tara Campbell (Santa Fe Writers Project 978-1-95163-139-0, $16.95, 280pp, tp) September 2024.</p>
+<p>What struck me about Tara Campbell’s 2019 collection, <strong>Midnight at the Or­ganporium</strong>, was the breadth of her imagination and the way she switched between surrealism, revisionist fairytales, and horror. Her story ‘‘Speculum Crede’’ about a very odd work picnic (an understatement) still makes me smile. Campbell’s second novel, <strong>City of Danc­ing Gargoyles </strong> <a href="https://locusmag.com/2024/12/city-of-dancing-gargoyles-by-tara-campbell-review-by-ian-mond/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2024/12/city-of-dancing-gargoyles-by-tara-campbell-review-by-ian-mond/>
 
 ---
 
