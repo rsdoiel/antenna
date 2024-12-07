@@ -1,11 +1,347 @@
 ---
 title: science and technology
-updated: 2024-12-06 07:05:06
+updated: 2024-12-07 07:05:27
 ---
 
 # science and technology
 
-(date: 2024-12-06 07:05:06)
+(date: 2024-12-07 07:05:27)
+
+---
+
+## Micropatchers share 1-instruction fix for NTLM hash leak flaw in Windows 7+
+
+date: 2024-12-06, updated: 2024-12-07, from: The Register (UK I.T. News)
+
+<h4>Microsoft&#39;s OS sure loves throwing your creds at remote systems</h4> <p><strong>Updated</strong>  Acros Security claims to have found an unpatched bug in Microsoft Windows 7 and onward that can be exploited to steal users&#39; OS account credentials.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/06/opatch_zeroday_microsoft/>
+
+---
+
+## EXiGY: let’s make shareware again
+
+date: 2024-12-06, from: OS News
+
+EXiGY rolls up the all of the above experiences into a single package: make games the way they were made in the mid-90s, by dragging and dropping objects into a window, programming some behaviour into those objects, and clicking the Run button. It&#8217;s like ZZT with tile graphics instead of ASCII. Want to send your little game to some friends? Click the Gift button to package all of the files up, and send your friend the .XGY file. EXiGY is about making it fun to create games again. ↫ Chris on the Exigy website I fell in love with this the second I saw it come by on Mastodon. Chris &#8211; I don&#8217;t know the author&#8217;s full name so I&#8217;ll stick with Chris &#8211; has been working on this for the past year, and it&#8217;s not out quite yet. Still, the feature list is packed, and on the linked website, they intend to post development updates so we can keep up with the goings-on. This seems like an incredibly cool project and I&#8217;d love to play around with it when Chris deems it ready for release. 
+
+<br> 
+
+<https://www.osnews.com/story/141289/exigy-lets-make-shareware-again/>
+
+---
+
+## RISC-V Redox runs on x86-64 Redox
+
+date: 2024-12-06, from: OS News
+
+Every time a new Redox monthly report comes out, I&#8217;m baffled by the fact we&#8217;ve apparently rounded another month. They just keep on coming and going, don&#8217;t they? And I even turned 40 this 1 December, so it hits even harder this time. I&#8217;m now as old as I remember my parents were in some of my oldest memories, and now I&#8217;ve got two kids of my own. Wild. Time isn&#8217;t supposed to move this fast, and I strongly advise the Redox team to stop this madness. Anyway, this month also saw the release of the 4th alpha of system76&#8217;s new COSMIC Linux desktop environment, and the parts of COSMIC available on Redox were updated to reflect that. This past months also saw a major milestone: the RISC-V version of Redox running in an emulator on the x86-64 version of Redox. That&#8217;s quite the feat, and highlights just how capable Redox has become in such a short time. There&#8217;s also the usual list of kernel, driver, and relibc improvements, as well as additional Rust programs ported to Redox. Also highlighted in this report: a video detailing how to build Redox under Windows Subsystem for Linux. This could be a great avenue for operating system developers who use Windows to get their feet wet at building Redox on their own systems. 
+
+<br> 
+
+<https://www.osnews.com/story/141287/risc-v-redox-runs-on-x86-64-redox/>
+
+---
+
+## Sols 4384-4385: Leaving the Bishop Quad
+
+date: 2024-12-06, from: NASA breaking news
+
+Earth planning date: Wednesday, Dec. 4, 2024 As the Curiosity rover climbs west toward the broad saddle separating Gediz Vallis from its neighboring canyon on the slopes of Mount Sharp, the rover is also approaching the edge of its current geological quadrangle or “quad” map on Mars. The current quad, designated “Bishop,” has meant that […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4384-4385-leaving-the-bishop-quad/>
+
+---
+
+## Facing sale or ban, TikTok tossed under national security bus by appeals court
+
+date: 2024-12-06, updated: 2024-12-07, from: The Register (UK I.T. News)
+
+<h4>Video slinger looks to Supremes for salvation, though anything could happen under Trump</h4> <p>A US federal appeals court has rejected a challenge to the law that prevents popular apps that collect data on Americans from being controlled by a foreign adversary.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/06/appeals_court_backs_tiktok_ban/>
+
+---
+
+## NASA Accelerates Space Exploration, Earth Science for All in 2024
+
+date: 2024-12-06, from: NASA breaking news
+
+With a look back at 2024, NASA is celebrating its many innovative and inspiring accomplishments this year including for the first time, landing new science and technology on the Moon with an American company, pushing the boundaries of exploration by launching a new mission to study Jupiter’s icy moon Europa; maintaining 24 years of continuous [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-accelerates-space-exploration-earth-science-for-all-in-2024/>
+
+---
+
+## Vanir: open-source security patch validation
+
+date: 2024-12-06, from: OS News
+
+Today, we are announcing the availability of Vanir, a new open-source security patch validation tool. Introduced at Android Bootcamp in April, Vanir gives Android platform developers the power to quickly and efficiently scan their custom platform code for missing security patches and identify applicable available patches. Vanir significantly accelerates patch validation by automating this process, allowing OEMs to ensure devices are protected with critical security updates much faster than traditional methods. This strengthens the security of the Android ecosystem, helping to keep Android users around the world safe. ↫ Google Security Blog Google makes it clear this tool can easily be adapted for other avenues too &#8211; it&#8217;s not locked into only working with Android and Java/C/C++. Since it&#8217;s now open source, anyone can contribute to it and make it compatible &#8211; for lack of a better term &#8211; with other platforms and programming languages as well. 
+
+<br> 
+
+<https://www.osnews.com/story/141285/vanir-open-source-security-patch-validation/>
+
+---
+
+## Boeing busted by employee over plans to surveil workers, quickly reverses course
+
+date: 2024-12-06, updated: 2024-12-06, from: The Register (UK I.T. News)
+
+<h4>Crashing stock, plummeting reputation, but yeah, of course, let&#39;s focus on office usage</h4> <p>Boeing has paused its efforts to install and use employee-monitoring sensors, including at its office in Everett, Washington, after media inquiries followed an employee&#39;s leak of the plans. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/06/boeing_employee_surveillance/>
+
+---
+
+## Researchers Thought They Found Amelia Earhart's Missing Plane. It Turned Out to Be a Plane-Shaped Pile of Rocks
+
+date: 2024-12-06, from: Smithsonian Magazine
+
+Months after capturing a promising sonar image, they learned that the blurry object was nothing more than a rock formation that resembled the aviator's Lockheed 10-E Electra aircraft 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/researchers-thought-they-found-amelia-earharts-missing-plane-it-turned-out-to-be-a-plane-shaped-pile-of-rocks-180985603/>
+
+---
+
+## NASA Pushes Back America's Return to the Moon to 2027, With the Next Artemis Program Flight Slated for 2026
+
+date: 2024-12-06, from: Smithsonian Magazine
+
+The space agency's decision comes after an investigation into the Orion spacecraft's heat shield, which suffered damage during the Artemis 1 test mission in 2022 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/nasa-pushes-back-astronauts-return-to-the-moon-to-2027-with-the-next-artemis-program-flight-slated-for-2026-180985602/>
+
+---
+
+## NASA Awards Operations, Services, Maintenance, and Infrastructure Contract
+
+date: 2024-12-06, from: NASA breaking news
+
+NASA has selected Nova Space Solutions, LLC of Anchorage, Alaska, to provide operations, services, maintenance, and infrastructure support for NASA’s Stennis Space Center near Bay St. Louis, Mississippi, and NASA’s Michoud Assembly Facility in New Orleans. The Combined Operations, Services, Maintenance, and Infrastructure Contract is a cost-plus-incentive-fee, firm-fixed-price, and indefinite-delivery/indefinite-quantity contract that has a value [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-awards-operations-services-maintenance-and-infrastructure-contract/>
+
+---
+
+## Lunar Autonomy Challenge: Selected Teams
+
+date: 2024-12-06, from: NASA breaking news
+
+Congratulations to the selected teams and their schools who will participate in the Lunar Autonomy Challenge! 31&#160;teams&#160;were selected for the qualifying&#160;round,&#160;engaging&#160;229&#160;students from colleges and universities in&#160;15&#160;states. Teams will now move on to a Qualifying Round where they will virtually explore and map the lunar surface using a digital twin of NASA’s lunar mobility robot, the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/lunar-autonomy-challenge-selected-teams/>
+
+---
+
+## NASA JPL Unveils the Dr. Edward Stone Exploration Trail
+
+date: 2024-12-06, from: NASA breaking news
+
+A series of plaques stretching through the heart of the agency’s Jet Propulsion Laboratory offers highlights of the space explorer’s career and the Voyager mission he led. Family members, colleagues, and local dignitaries gathered on Friday, Dec. 6, at NASA’s Jet Propulsion Laboratory in Southern California for the unveiling of a memorial honoring Ed Stone, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/voyager-program/nasa-jpl-unveils-the-dr-edward-stone-exploration-trail/>
+
+---
+
+## OpenAI to charge $200 per month for ChatGPT Pro
+
+date: 2024-12-06, updated: 2024-12-06, from: The Register (UK I.T. News)
+
+<h4>How much AI does one subscriber need?</h4> <p>OpenAI says it will charge $200 per month for ChatGPT Pro, a new premium tier that costs ten times the Plus subscription price.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/06/openai_unveils_chatgpt_pro_for/>
+
+---
+
+## Orange Lava, Blue Lagoon
+
+date: 2024-12-06, from: NASA breaking news
+
+Lava encroaches on the Blue Lagoon, a popular tourist destination in Iceland, in this Nov. 24, 2024, Landsat 9 image overlaid with an infrared signal. The infrared signal helps distinguish the lava’s heat signature. A volcanic fissure burst open on Iceland’s&#160;Reykjanes peninsula four days prior, heralded by a series of earthquakes. A plume of gas, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/orange-lava-blue-lagoon/>
+
+---
+
+## Scientists Release Five Hawaiian Crows on Maui, Giving the Imperiled Birds a Second Chance—on a New Island
+
+date: 2024-12-06, from: Smithsonian Magazine
+
+Only about 110 individuals of the species, called ʻalalā, are left in the world, making them the most endangered crows on Earth 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/scientists-release-five-hawaiian-crows-on-maui-giving-the-imperiled-birds-a-second-chance-on-a-new-island-180985589/>
+
+---
+
+## La NASA identifica causa de pérdida de material del escudo térmico de Orion de Artemis I
+
+date: 2024-12-06, from: NASA breaking news
+
+Read this story in English here. Tras extensos análisis y pruebas, la NASA ha identificado la causa técnica de la pérdida imprevista de material carbonizado en el escudo térmico de la nave espacial Orion de Artemis I. Los ingenieros determinaron que, cuando Orion regresaba de su misión sin tripulación alrededor de la Luna, los gases [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/es/la-nasa-identifica-causa-de-perdida-de-material-del-escudo-termico-de-orion-de-artemis-i/>
+
+---
+
+## NASA’s IXPE Details Shapes of Structures at Newly Discovered Black Hole
+
+date: 2024-12-06, from: NASA breaking news
+
+NASA’s IXPE (Imaging X-ray Polarimetry Explorer) has helped astronomers better understand the shapes of structures essential to a black hole – specifically, the disk of material swirling around it, and the shifting plasma region called the corona. The stellar-mass black hole, part of the binary system Swift J1727.8-1613, was discovered in the summer of 2023 [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/ixpe/nasas-ixpe-details-shapes-of-structures-at-newly-discovered-black-hole/>
+
+---
+
+## NASA, USAID Launch SERVIR Central American Hub
+
+date: 2024-12-06, from: NASA breaking news
+
+SERVIR, NASA’s flagship partnership with the U.S. Agency for International Development (USAID), launched a new regional center, or hub, in Central America on Dec. 3. The new hub is in partnership with the Tropical Agricultural Research and Higher Education Center in Turrialba, Costa Rica, and is supported by the USAID Central America and Mexico Regional [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/servir/nasa-usaid-launch-servir-central-american-hub/>
+
+---
+
+## Salt Typhoon forces FCC's hand on making telcos secure their networks
+
+date: 2024-12-06, updated: 2024-12-06, from: The Register (UK I.T. News)
+
+<h4>Proposal pushes stricter infosec safeguards after Chinese state baddies expose vulns</h4> <p>The head of America&#39;s Federal Communications Commission (FCC) wants to force telecoms operators to tighten network security in the wake of the Salt Typhoon revelations, and to submit an annual report detailing measures taken.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/06/salt_typhoon_fcc_proposal/>
+
+---
+
+## This 300-Year-Old Stradivarius Violin Could Become the Most Expensive Musical Instrument Ever Sold at Auction
+
+date: 2024-12-06, from: Smithsonian Magazine
+
+Crafted by the renowned violin maker Antonio Stradivari in 1714, the rare instrument is expected to sell for between $12 and $18 million 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/this-300-year-old-stradivarius-violin-could-become-the-most-expensive-musical-instrument-ever-sold-at-auction-180985599/>
+
+---
+
+## Brighten Your Day With These 15 Photos of Beautiful Balloons From Around the World
+
+date: 2024-12-06, from: Smithsonian Magazine
+
+Lift your spirits with these airy images from the Smithsonian Magazine Photo Contest 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/brighten-your-day-with-beautiful-balloons-from-around-the-world-180985590/>
+
+---
+
+## AI and analytics converge in new generation Amazon SageMaker
+
+date: 2024-12-06, updated: 2024-12-06, from: The Register (UK I.T. News)
+
+<h4>Calling everything SageMaker is confusing – but a new name would have been worse says AWS</h4> <p><strong>re:Invent</strong>  Amazon has introduced a new generation of SageMaker at the re:Invent conference in Las Vegas, bringing together analytics and AI, though with some confusion thanks to the variety of services that bear the SageMaker name.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/06/sagemaker_unified_studio_preview/>
+
+---
+
+## The Ten Best Books About Travel of 2024
+
+date: 2024-12-06, from: Smithsonian Magazine
+
+These top titles of the year whisk readers away on adventures and remind us of the many wonders in this world 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/the-ten-best-books-about-travel-of-2024-180985594/>
+
+---
+
+## Mozilla announces massive rebrand that mentions Firefox exactly once
+
+date: 2024-12-06, from: OS News
+
+Mozilla isn’t just another tech company — we’re a global crew of activists, technologists and builders, all working to keep the internet free, open and accessible. For over 25 years, we’ve championed the idea that the web should be for everyone, no matter who you are or where you’re from. Now, with a brand refresh, we’re looking ahead to the next 25 years (and beyond), building on our work and developing new tools to give more people the control to shape their online experiences. ↫ Lindsey Lionheart O’Brien at the Mozilla blog I have no clue about marketing and branding and what investments in those things cost, but all I could think about while reading this massive pile of marketing wank is that the name &#8220;Firefox&#8221; only occurs once. How many Firefox bugs could&#8217;ve been squashed with the money spent on this rebrand literally nobody is going to care about because nobody uses Firefox as it is? Is a new logo and accompanying verbal diarrea really what&#8217;s going to turn this sinking ship around? I&#8217;ve already made my choice, and I&#8217;ve left Firefox behind on all my machines, opting for an entirely different browser instead. I&#8217;m writing about that experience as we speak, so you&#8217;ll have to wait a bit longer to find out what choice I made, but rest assured I know I&#8217;m not the only one who is leaving Firefox behind after two decades of loyal service, and I doubt an expensive new logo is going to change anybody&#8217;s mind. 
+
+<br> 
+
+<https://www.osnews.com/story/141283/mozilla-announces-massive-rebrand-that-mentions-firefox-exactly-once/>
+
+---
+
+## Exotic New Superconductors Delight and Confound
+
+date: 2024-12-06, from: Quanta Magazine
+
+Three new species of superconductivity were spotted this year, illustrating the myriad ways electrons can join together to form a frictionless quantum soup.            <p>The post <a href="https://www.quantamagazine.org/exotic-new-superconductors-delight-and-confound-20241206/" target="_blank">Exotic New Superconductors Delight and Confound</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/exotic-new-superconductors-delight-and-confound-20241206/>
+
+---
+
+## Visitors Can See the View From Henry I's Tower at Corfe Castle for the First Time in Nearly Four Centuries
+
+date: 2024-12-06, from: Smithsonian Magazine
+
+Located in southern England, the king's quarters haven't been open to the public since the castle's destruction during the English Civil War in the 1640s 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/visitors-can-see-the-view-from-henry-is-tower-at-corfe-castle-for-the-first-time-in-nearly-four-centuries-180985581/>
+
+---
+
+## Vega-C finally launches ESA's next Sentinel satellite
+
+date: 2024-12-06, updated: 2024-12-06, from: The Register (UK I.T. News)
+
+<h4>Return to flight almost two years since the previous endeavor failed</h4> <p>Arianespace has finally managed to return the Vega-C to flight carrying a Sentinel payload for the European Space Agency (ESA).…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/12/06/vegac_launch/>
 
 ---
 
@@ -133,7 +469,7 @@ date: 2024-12-06, updated: 2024-12-06, from: The Register (UK I.T. News)
 
 date: 2024-12-06, updated: 2024-12-06, from: The Register (UK I.T. News)
 
-<h4>Still unpatched 100+ days later, watchTowr says</h4> <p>A zero-day arbitrary file read vulnerability in Mitel MiCollab can be chained with a now-patched critical bug in the same platform to give attackers access to sensitive files on vulnerable instances. …</p> 
+<h4>Still unpatched 100+ days later, watchTowr says</h4> <p><strong>updated</strong>  A zero-day arbitrary file read vulnerability in Mitel MiCollab can be chained with a now-patched critical bug in the same platform to give attackers access to sensitive files on vulnerable instances. …</p> 
 
 <br> 
 
@@ -159,7 +495,7 @@ date: 2024-12-06, updated: 2024-12-06, from: The Register (UK I.T. News)
 
 date: 2024-12-06, updated: 2024-12-06, from: The Register (UK I.T. News)
 
-<h4>Redmond threat intel maven talks explains this persistent pain to <i>The Reg</i></h4> <p>A Chinese government-linked group that Microsoft tracks as Storm-0227 yesterday started targeting critical infrastructures organisations and US government agencies, according to Redmond&#39;s threat intel team.…</p> 
+<h4>Redmond threat intel maven talks explains this persistent pain to <i>The Reg</i></h4> <p>A Chinese government-linked group that Microsoft tracks as Storm-2077 has been actively targeting critical organizations and US government agencies as of yesterday, according to Redmond&#39;s threat intel team.…</p> 
 
 <br> 
 
@@ -169,9 +505,9 @@ date: 2024-12-06, updated: 2024-12-06, from: The Register (UK I.T. News)
 
 ## Solana blockchain's popular web3.js npm package backdoored to steal keys, funds
 
-date: 2024-12-05, updated: 2024-12-05, from: The Register (UK I.T. News)
+date: 2024-12-05, updated: 2024-12-07, from: The Register (UK I.T. News)
 
-<h4>Damage likely limited to those running bots with private key access</h4> <p>Malware-poisoned versions of the widely used JavaScript library @solana/web3.js were distributed via the npm package registry, according to an advisory issued Wednesday by project maintainer Steven Luscher.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>Damage likely limited to those running bots with private PKI access</h4> <p>Malware-poisoned versions of the widely used JavaScript library @solana/web3.js were distributed via the npm package registry, according to an advisory issued Wednesday by project maintainer Steven Luscher.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 
@@ -409,7 +745,7 @@ The artifact is now on display at a museum in southern England. Experts say the 
 
 ## FreeBSD 14.2 wants to woo Docker fans, but still struggles with Wi-Fi
 
-date: 2024-12-05, updated: 2024-12-05, from: The Register (UK I.T. News)
+date: 2024-12-05, updated: 2024-12-06, from: The Register (UK I.T. News)
 
 <h4>Another buzzword box ticked: OCI-compliant containers</h4> <p>FreeBSD 14.2, the latest point release of the most widely used of the BSDs, brings some new features to tempt Docker fans.…</p> 
 
@@ -649,9 +985,9 @@ date: 2024-12-05, updated: 2024-12-05, from: The Register (UK I.T. News)
 
 ## T-Mobile US CSO: Spies jumped from one telco to another in a way 'I've not seen in my career'
 
-date: 2024-12-05, updated: 2024-12-06, from: The Register (UK I.T. News)
+date: 2024-12-05, updated: 2024-12-07, from: The Register (UK I.T. News)
 
-<h4>Security chief talks to El Reg as Feds urge everyone to use encrypted chat</h4> <p><strong>interview</strong>  While Chinese-government-backed spies maintained access to US telecommunications providers&#39; networks for months – and in some cases still haven&#39;t been booted out – T-Mobile US thwarted successful attacks on its systems &#34;within a single-digit number of days,&#34; according to the carrier&#39;s security boss Jeff Simon.…</p> 
+<h4>Security chief talks to El Reg as Feds urge everyone to use encrypted chat</h4> <p><strong>Interview</strong>  While Chinese-government-backed spies maintained access to US telecommunications providers&#39; networks for months – and in some cases still haven&#39;t been booted out – T-Mobile US thwarted successful attacks on its systems &#34;within a single-digit number of days,&#34; according to the carrier&#39;s security boss Jeff Simon.…</p> 
 
 <br> 
 
@@ -2084,4 +2420,52 @@ date: 2024-12-01, updated: 2024-12-01, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2024/12/01/uk_workplace_ai/>
+
+---
+
+## Cryptocurrency policy under Trump: Lots of promises, few concrete plans
+
+date: 2024-11-30, updated: 2024-11-30, from: The Register (UK I.T. News)
+
+<h4>Pro-crypto lawmakers are in, but will that translate to action? Doubt it</h4> <p><strong>Analysis</strong>  The 2024 presidential election tipped the United States into a new era of uncertainty, but one thing&#39;s for sure: The crypto industry was triumphant. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/30/cryptocurrency_policy_trump/>
+
+---
+
+## NASA's X-59 plane is aiming for a sonic thump, not a boom
+
+date: 2024-11-30, updated: 2024-11-30, from: The Register (UK I.T. News)
+
+<h4>Pilot James &#39;Clue&#39; Less is ready to take to the skies</h4> <p><strong>Feature</strong>  Sitting in the hangar of Lockheed Martin&#39;s famous Palmdale, California Skunk Works facility is one of the oddest aircraft ever to take shape: the X-59 that&#39;s looking to revive supersonic travel over land.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/30/nasa_x59_aircraft/>
+
+---
+
+## When London's Iconic Crystal Palace Burned to the Ground in a Devastating Fire
+
+date: 2024-11-30, from: Smithsonian Magazine
+
+Three years before World War II, on this day in 1936, an inferno marked the symbolic end of the global hegemony of the British Empire 
+
+<br> 
+
+<https://www.smithsonianmag.com/smart-news/when-londons-iconic-crystal-palace-burned-to-the-ground-in-a-devastating-fire-180985408/>
+
+---
+
+## RansomHub claims to net data hat-trick against Bologna FC
+
+date: 2024-11-30, updated: 2024-11-30, from: The Register (UK I.T. News)
+
+<h4>Crooks say they have stolen sensitive files on managers and players</h4> <p>Italian professional football club Bologna FC is allegedly a recent victim of the RansomHub cybercrime gang, according to the group&#39;s dark web postings.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2024/11/30/bologna_fc_ransomhub/>
 

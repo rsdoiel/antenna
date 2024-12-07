@@ -1,11 +1,85 @@
 ---
 title: ham radio
-updated: 2024-12-06 07:05:06
+updated: 2024-12-07 07:05:27
 ---
 
 # ham radio
 
-(date: 2024-12-06 07:05:06)
+(date: 2024-12-07 07:05:27)
+
+---
+
+## The K7RA Solar Update
+
+date: 2024-12-06, from: Amateur Radio Relay League News
+
+<p><span>Solar activity seems to have dropped dramatically from a recent peak.<span>  </span>Are we over the cycle peak and headed down again?<span>  </span>Too early to say. </span></p><p><span>Daily average sunspot numbers this week sank to 120.1. </span></p><p><span>Predicted solar flux is 175 on December 6 to 8, 170 on December 9 and 10, 175 on December 11 and 12, and 205 on December 13 to 17. </span></p><p><span>Predicted planetary A index is 8 on December 6 and 7, 5 on December to ...</span></p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/the-k7ra-solar-update-856>
+
+---
+
+## 2025 Youth on the Air Camp Application Period Open
+
+date: 2024-12-06, from: Amateur Radio Relay League News
+
+<p>Applications are now being accepted for campers interested in attending the 2025 Youth on the Air Camp. Licensed amateur radio operators, ages 15 through 25, who want to attend are encouraged to apply online at YouthOnTheAir.org. The camp is scheduled to take place June 15 - 20, 2025, in Thornton (Denver), Colorado and the Denver Radio Club, an ARRL Affiliated Club, is the local host.</p><p></p><p>The curren...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/2025-youth-on-the-air-camp-application-period-open>
+
+---
+
+## Get on the Air in December with ARRL 160- and 10-Meter Contests
+
+date: 2024-12-06, from: Amateur Radio Relay League News
+
+<p>December brings two ARRL-sponsored single-band contests. The ARRL 160-Meter Contest begins Friday, December 6 at 2200 UTC and concludes on Sunday, December 8 at 1559 UTC. Stations in the US (including Alaska, Hawaii, and US possessions) and Canada can contact any station; stations located overseas can only contact US and Canadian stations. Contacts may be made using the CW mode only. See the co...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/get-on-the-air-in-december-with-arrl-160-and-10-meter-contests>
+
+---
+
+## $41,000+ Raised by Donors, YouTubers, for ARRL Teachers Institute
+
+date: 2024-12-06, from: Amateur Radio Relay League News
+
+<p>A YouTube telethon to raise money for the ARRL Teachers Institute on Wireless Technology was a resounding success. More than $21,000 was contributed during the livestream, which unlocked another $20,000 that donors had set out as a challenge gift. ARRL Director of Development Kevin Beal, K8EAL, says that upped the ante. “It's quite clear that even with the generosity of the donors in attendance...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/41-000-raised-by-donors-youtubers-for-arrl-teachers-institute>
+
+---
+
+## Register for 25th Annual SKYWARN Recognition Day, December 7
+
+date: 2024-12-06, from: Amateur Radio Relay League News
+
+<p>The 25th Annual SKYWARNTM Recognition Day (SRD) is Saturday, December 7. SRD recognizes the work of amateur and non-ham SKYWARN storm spotters in keeping their communities safe during severe weather. Trained spotters provide observations of “ground truth” to regional National Weather Service (NWS) offices. </p><p></p><p>While meteorologists have advanced remote sensing data like radar, satellite, and weather...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/register-for-25th-annual-skywarn-recognition-day-december-7>
+
+---
+
+## Beauty is in the eye of the beholder
+
+date: 2024-12-06, from: EDN Blog
+
+<img width="596" height="261" src="https://www.edn.com/wp-content/uploads/Beauty.png?fit=596%2C261" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Beauty.png?w=596 596w, https://www.edn.com/wp-content/uploads/Beauty.png?w=300 300w" sizes="(max-width: 596px) 100vw, 596px" /><p>A delightfully nostalgic occasion where John Dunn notices a “beauty mark” in an old power audio amplifier with power tetrode tubes.</p>
+<p>The post <a href="https://www.edn.com/beauty-is-in-the-eye-of-the-beholder/" data-wpel-link="internal">Beauty is in the eye of the beholder  </a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/beauty-is-in-the-eye-of-the-beholder/>
 
 ---
 
@@ -13,7 +87,7 @@ updated: 2024-12-06 07:05:06
 
 date: 2024-12-05, from: EDN Blog
 
-<img width="800" height="449" src="https://www.edn.com/wp-content/uploads/Silicon-Labs-SiWx917Y.jpg?fit=800%2C449" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Silicon-Labs-SiWx917Y.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Silicon-Labs-SiWx917Y.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Silicon-Labs-SiWx917Y.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Silicon Labs’ SiWx917Y series of Wi-Fi 6 and Bluetooth LE 5.4 modules provides plug-and-play simplicity with global RF certifications.</p>
+<img width="800" height="449" src="https://www.edn.com/wp-content/uploads/Silicon-Labs-SiWx917Y.jpg?fit=800%2C449" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Silicon-Labs-SiWx917Y.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Silicon-Labs-SiWx917Y.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Silicon-Labs-SiWx917Y.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Silicon Labs’ SiWx917Y series of Wi-Fi 6 and Bluetooth LE 5.4 modules provides plug-and-play simplicity with global RF certifications.</p>
 <p>The post <a href="https://www.edn.com/wireless-combo-modules-offer-global-connectivity/" data-wpel-link="internal">Wireless combo modules offer global connectivity</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

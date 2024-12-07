@@ -1,11 +1,299 @@
 ---
 title: going electric
-updated: 2024-12-06 07:05:08
+updated: 2024-12-07 07:05:30
 ---
 
 # going electric
 
-(date: 2024-12-06 07:05:08)
+(date: 2024-12-07 07:05:30)
+
+---
+
+## Record Hybrid Sales Helped Boost 'Green' Car Sales In Q3
+
+date: 2024-12-06, from: Inside EVs News
+
+EV sales also grew compared to last quarter, but their market share shrank slightly. 
+
+<br> 
+
+<https://insideevs.com/news/743562/record-hybrid-sales-boost-electrified/>
+
+---
+
+## The US’s largest solar + storage project gets the green light
+
+date: 2024-12-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/shutterstock_1864821442-1536x1152-1.jpg?quality=82&#038;strip=all&#038;w=1536" /></div><p>The US’s largest proposed solar and storage project, the 2.4 gigawatt (GW) Sunstone Solar, just got the go-ahead from Oregon regulators.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,egeb,energy-brief,solar,oregon,solar-power" data-layer-viewtype="unknown" data-post-id="392690" href="https://electrek.co/2024/12/06/us-largest-solar-storage-project-gets-the-green-light/#more-392690" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/06/us-largest-solar-storage-project-gets-the-green-light/>
+
+---
+
+## Hyundai’s three-row IONIQ 9 electric SUV looks even better on the road [Video]
+
+date: 2024-12-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Hyundais-new-IONIQ-9.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The wait is over: Hyundai’s new IONIQ 9 SUV is finally here. The three-row <a href="https://electrek.co/guides/hyundai-ioniq-9/">IONIQ 9</a> promises to “redefine EV mobility” with its sleek, futuristic design and tech-loaded interior. If the new electric SUV caught your eye after its debut, wait until you see it on the road.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-9" data-layer-viewtype="unknown" data-post-id="392680" href="https://electrek.co/2024/12/06/hyundais-new-ioniq-9-suv-looks-better-on-road-video/#more-392680" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/06/hyundais-new-ioniq-9-suv-looks-better-on-road-video/>
+
+---
+
+## This Chinese tech giant sold more EVs than Toyota, and it just launched 6 months ago
+
+date: 2024-12-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Chinese-EVs-Toyota-Xiaomi-SU7.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Chinese automakers are emerging as a true threat in the global EV market as they expand overseas for growth. For the first time, half of the top ten global EV sales leaders were from China. While BYD is quickly catching up to Tesla, Chinese tech giant <a href="https://electrek.co/guides/xiaomi/">Xiaomi</a> sold more EVs than Toyota after launching its first model in April.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="xiaomi" data-layer-viewtype="unknown" data-post-id="392633" href="https://electrek.co/2024/12/06/chinese-tech-giant-sold-more-evs-toyota-just-6-months/#more-392633" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/06/chinese-tech-giant-sold-more-evs-toyota-just-6-months/>
+
+---
+
+## Those awesome USPS EVs might be jeopardized by Donald Trump’s stupidity
+
+date: 2024-12-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/09/Oshkosh-USPS.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The USPS’ upcoming electric vehicles, which promise more reliability and comfort for drivers, cost savings for the agency, and cleaner air for communities nationwide, might be in jeopardy, according to a report from <em>Reuters</em>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="usps" data-layer-viewtype="unknown" data-post-id="392635" href="https://electrek.co/2024/12/06/those-awesome-usps-evs-might-be-jeopardized-by-donald-trumps-stupidity/#more-392635" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/06/those-awesome-usps-evs-might-be-jeopardized-by-donald-trumps-stupidity/>
+
+---
+
+## Podcast: big charging news, Tesla FSD v13, Audi A6 first drive, Climatize CEO interview, and more
+
+date: 2024-12-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss big charging news, Tesla FSD v13, our Audi A6 first drive, an interview with Climatize’s CEO, and more.</p>
+
+
+
+<p><em>Today’s show is sponsored by Climatize – a platform that allows investors to fund solar energy, EV, and energy efficiency projects across the US while earning up to 10% annually. Be sure to use referral code EV2025 to get $25 in investment credit once you complete your onboarding process. <a href="https://bit.ly/49dXpLg" target="_blank" rel="noreferrer noopener">Learn more here.</a></em></p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="392650" href="https://electrek.co/2024/12/06/podcast-big-charging-news-tesla-fsd-v13-audi-a6-first-drive-climatize-ceo-interview-and-more/#more-392650" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/06/podcast-big-charging-news-tesla-fsd-v13-audi-a6-first-drive-climatize-ceo-interview-and-more/>
+
+---
+
+## This Tiny Electric Pickup Has A Not-So-Tiny Price Tag
+
+date: 2024-12-06, from: Inside EVs News
+
+The pint-sized Telo EV starts at $41,520 and can reach almost $50,000 in dual-motor long-range guise. 
+
+<br> 
+
+<https://insideevs.com/news/743532/telo-mt1-pricing-announced/>
+
+---
+
+## EcoFlow early Christmas takes 55% off power stations, Rad Power RadCity 5 Plus e-bike returns to market at $1,499, more
+
+date: 2024-12-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Frame_128720346_16c7accc-a8e5-488c-8099-9431d5e795e7.png?w=1600" /></div><p>Today’s Green Deals are featuring two big early Christmas sales, the first of which is coming from <a href="https://9to5toys.com/2024/12/06/ecoflow-early-christmas-sale-from-45/">EcoFlow</a> through most of the month with up to 55% in savings that are continuing and beating out Black Friday rates, like the <a href="https://9to5toys.com/2024/12/06/ecoflow-early-christmas-sale-from-45/">DELTA 3 Plus</a> Portable Power Station that starts at a <a href="https://9to5toys.com/2024/12/06/ecoflow-early-christmas-sale-from-45/">$649</a> low, with many others. Riding up behind it is <a href="https://9to5toys.com/2024/12/05/rad-power-early-christmas-sale-deals-from-1399/">Rad Power’s early holiday</a> savings with e-bike price cuts, free gear and extra battery promos, accessory discounts – and even the return of the <a href="https://9to5toys.com/2024/12/05/rad-power-early-christmas-sale-deals-from-1399/">RadCity 5 Plus</a> Step-Through Commuter e-bike at <a href="https://9to5toys.com/2024/12/05/rad-power-early-christmas-sale-deals-from-1399/">$1,499</a>. We also spotted some new and returning low rates on four <a href="https://9to5toys.com/2024/12/05/goal-zero-lows-four-yeti-stations-from-336/">Goal Zero Yeti</a> Portable Power Stations starting from <a href="https://9to5toys.com/2024/12/05/goal-zero-lows-four-yeti-stations-from-336/">$336</a>, while the budget-friendly <a href="https://9to5toys.com/2024/12/06/worx-40v-20-inch-snow-blower-300-2024-low/">Worx 40V 20-inch</a> Cordless Electric PowerShare Snow Blower drops back to the <a href="https://9to5toys.com/2024/12/06/worx-40v-20-inch-snow-blower-300-2024-low/">$300</a> 2024 low. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2024/12/04/heybike-early-christmas-sale-deals-from-999/">early holiday sale from Heybike</a>, and more. You’ll also find all the hangover Green Deals from Black Friday/Cyber Monday sales collected together in <a href="https://electrek.co/2024/12/02/cyber-monday-green-deals/">our dedicated shopping hub</a> for you.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="392637" href="https://electrek.co/2024/12/06/ecoflow-early-christmas-sale-rad-power-more/#more-392637" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/06/ecoflow-early-christmas-sale-rad-power-more/>
+
+---
+
+## EVs and hybrids hit a record high in US sales in Q3 2024
+
+date: 2024-12-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Electric-vehicles-5K.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>EV and hybrid sales are steadily increasing in the US, reaching an all-time high in Q3 2024, according to the US Energy Information Administration (<a href="https://www.eia.gov/" target="_blank" rel="noreferrer noopener">EIA</a>). </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles,ev-sales,hybrid,plug-in-hybrid,q3,tesla" data-layer-viewtype="unknown" data-post-id="392627" href="https://electrek.co/2024/12/06/evs-hybrids-hit-a-record-high-in-us-sales-q3-2024/#more-392627" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/06/evs-hybrids-hit-a-record-high-in-us-sales-q3-2024/>
+
+---
+
+## Tesla Robotaxi Will Have 50% Fewer Parts Than Model 3
+
+date: 2024-12-06, from: Inside EVs News
+
+That's one way to get the price below $30,000. 
+
+<br> 
+
+<https://insideevs.com/news/743506/tesla-robotaxi-cybercab-half-parts/>
+
+---
+
+## Don’t miss out on these EV lease deals for under $200 this December
+
+date: 2024-12-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Hyundai-IONIQ-5-tax-credit.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Who said you had to break the bank to drive an electric vehicle? Several EV lease deals are available this December for under $200 per month, but the savings may not last long. Here are some of the best <a href="https://electrek.co/guides/ev-lease/">EVs to consider leasing</a> this month.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-lease" data-layer-viewtype="unknown" data-post-id="392588" href="https://electrek.co/2024/12/06/december-ev-lease-deals-under-200/#more-392588" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/06/december-ev-lease-deals-under-200/>
+
+---
+
+## The VinFast VF6 Heads To Europe. It Could Undercut Chinese EVs
+
+date: 2024-12-06, from: Inside EVs News
+
+Vinfast sees the VF6 as an important car to "democratize EVs" by making them smaller and more affordable. 
+
+<br> 
+
+<https://insideevs.com/news/743519/vinfast-vf6-european-sales-announcement/>
+
+---
+
+## Tesla Leans Hard On The Tax Credits That Elon Musk Wants To Cut
+
+date: 2024-12-06, from: Inside EVs News
+
+Tesla doesn't seem on track to meet its 2024 sales targets. Now it's leaning hard on holiday lease deals and offers to meet its goals. 
+
+<br> 
+
+<https://insideevs.com/news/743523/tesla-holiday-ev-deals-musk-pushes-end-credits/>
+
+---
+
+## Archer formalizes agreements in UAE as it looks to become the first to fly commercial eVTOLs in the region
+
+date: 2024-12-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/11/Archer-UAE-eVTOL.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>eVTOL developer Archer Aviation has solidified an existing partnership in the Abu Dhabi region of the United Arab Emirates (UAE). Today, the company announced a new multi-party collaboration agreement with key UAE and Abu Dhabi entities in order to establish evTOL air taxi operations in that area of the Middle East. In doing so, <a href="https://electrek.co/guides/archer-aviation/">Archer</a> would become the first eVTOL network to begin commercial air taxi flights in Abu Dhabi and intends to do so “as soon as possible.”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="air-taxi,archer-aviation,evtol,middle-east,uae" data-layer-viewtype="unknown" data-post-id="392595" href="https://electrek.co/2024/12/06/archer-formalizes-agreements-uae-become-first-to-fly-commercial-evtols/#more-392595" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/06/archer-formalizes-agreements-uae-become-first-to-fly-commercial-evtols/>
+
+---
+
+## JackRabbit’s OG micro e-bike is going for a killer price ahead of discontinuation
+
+date: 2024-12-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/jackrabbit-og-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>If you’ve been on the fence about getting one of JackRabbit’s quirky little micro e-bikes, then this is probably the best deal you’re ever going to find on a JackRabbit OG.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,electric-scooter" data-layer-viewtype="unknown" data-post-id="392601" href="https://electrek.co/2024/12/06/jackrabbits-og-micro-e-bike-is-going-for-a-killer-price-ahead-of-discontinuation/#more-392601" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/06/jackrabbits-og-micro-e-bike-is-going-for-a-killer-price-ahead-of-discontinuation/>
+
+---
+
+## Volkswagen to move production of ID. Buzz out of Germany
+
+date: 2024-12-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/VW-ID.-Buzz-Pomelo-Yellow-Exterior-Static-©-Sam-Dobbins-2024-1646-Enhanced-NR.jpg?quality=82&#038;strip=all&#038;w=1499" /></div><p>As Volkswagen is in turmoil on its home turf in Germany with massive labor strikes, the company looks to be relocating manufacturing of its ID. Buzz retro-style minivan EV out of the country.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="id-buzz,volkswagen,volkswagen-id-buzz" data-layer-viewtype="unknown" data-post-id="392604" href="https://electrek.co/2024/12/06/volkswagen-to-move-production-of-id-buzz-out-of-germany/#more-392604" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/06/volkswagen-to-move-production-of-id-buzz-out-of-germany/>
+
+---
+
+## Rivian dominates owner satisfaction, Tesla comes third
+
+date: 2024-12-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Rivians-Q3-2024-earnings-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Rivian leads the industry in owner satisfaction, with Tesla coming in third — making it two all-electric automakers in the top three.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian,tesla" data-layer-viewtype="unknown" data-post-id="392572" href="https://electrek.co/2024/12/06/rivian-dominates-owner-satisfaction-tesla-comes-third/#more-392572" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/06/rivian-dominates-owner-satisfaction-tesla-comes-third/>
+
+---
+
+## Toyota is delaying the launch of its next wave of EVs again
+
+date: 2024-12-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Lexus-RZ-prices-2025-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The promised ultra-efficient next-gen Toyota EV models will not hit the market in 2026 as expected. <a href="https://electrek.co/guides/toyota/">Toyota</a> is delaying the launch of its next wave of EVs as it introduces new tech that promises to cut costs and speed up production.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lexus,toyota" data-layer-viewtype="unknown" data-post-id="392565" href="https://electrek.co/2024/12/06/toyota-delaying-launch-next-wave-evs-again/#more-392565" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/12/06/toyota-delaying-launch-next-wave-evs-again/>
+
+---
+
+## Six EV SUVs Were Driven Until They Died. The Winner Was Clear
+
+date: 2024-12-06, from: Inside EVs News
+
+Mat Watson of CarWow pushed crossovers from Porsche, Polestar, Ford, Tesla, Audi and Kia to their limits.  
+
+<br> 
+
+<https://insideevs.com/news/743442/ev-range-test-carwow-suv/>
 
 ---
 
@@ -1906,4 +2194,73 @@ date: 2024-12-01, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2024/11/30/renault-e-tech-t-semi-truck-gets-600-km-range-for-25-logs-19-million-miles/>
+
+---
+
+## Tesla, Two Other Brands' EV Sales Are Most Driven By Tax Credits
+
+date: 2024-11-30, from: Inside EVs News
+
+The modern EV tax credit system may be on the way out when President Trump returns, but it has some surprising winners and losers. 
+
+<br> 
+
+<https://insideevs.com/news/742782/tesla-ev-tax-credit-jdpower-study/>
+
+---
+
+## This Hellcat Is A Tesla Model S Plaid Underneath: 'It Fits Perfect'
+
+date: 2024-11-30, from: Inside EVs News
+
+The BoostedBoiz are at it again with another Tesla body swap, and you don't want to rev on this at a stoplight.
+ 
+
+<br> 
+
+<https://insideevs.com/news/742777/tesla-hellcat-boosted-boiz/>
+
+---
+
+## $400 million electric heavy equipment order from China is biggest ever (so far)
+
+date: 2024-11-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/xcmg-bergbau-2.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Australian mining company Fortescue is making headlines again, after it placed a huge, $400 million order for over 100 new electric equipment assets with Chinese heavy equipment company XCMG (Xuzhou Construction Machinery Group). The deal is the largest single equipment export deal in XCMG’s history.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,fortescue,mining" data-layer-viewtype="unknown" data-post-id="391498" href="https://electrek.co/2024/11/30/400-million-electric-heavy-equipment-order-from-china-is-biggest-ever-so-far/#more-391498" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/30/400-million-electric-heavy-equipment-order-from-china-is-biggest-ever-so-far/>
+
+---
+
+## MKBHD Has A Crush On The Polestar 3, But He Wouldn’t Buy One
+
+date: 2024-11-30, from: Inside EVs News
+
+The content creator says there is a big difference between the Polestar 3’s highs and lows. 
+
+<br> 
+
+<https://insideevs.com/news/742749/mkbhd-polestar-3-crush-review/>
+
+---
+
+## BMW plans to switch Regensburg plant logistics fleet to hydrogen
+
+date: 2024-11-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/bmw_hydrogen-forklift.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Bavarian automaker BMW has announced plans to convert the intralogistics fleet at its Regensburg plant from battery to hydrogen power, with FCEV forklift and tugger trucks set to replace the entirety of its existing fleet by 2030.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bmw,hydrogen" data-layer-viewtype="unknown" data-post-id="391482" href="https://electrek.co/2024/11/30/bmw-plans-to-switch-regensburg-plant-logistics-fleet-to-hydrogen/#more-391482" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2024/11/30/bmw-plans-to-switch-regensburg-plant-logistics-fleet-to-hydrogen/>
 

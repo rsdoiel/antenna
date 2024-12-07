@@ -1,11 +1,35 @@
 ---
 title: libraries
-updated: 2024-12-06 07:05:07
+updated: 2024-12-07 07:05:28
 ---
 
 # libraries
 
-(date: 2024-12-06 07:05:07)
+(date: 2024-12-07 07:05:28)
+
+---
+
+## Quicksand, by Nella Larsen
+
+date: 2024-12-06, from: Standard Ebooks, new releaases
+
+A young biracial woman struggles to find her place in a society that refuses to fully accept her, navigating the suffocating racial and social expectations of 1920s America while seeking personal identity and freedom. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/nella-larsen/quicksand>
+
+---
+
+## The Mirror of the Sea, by Joseph Conrad
+
+date: 2024-12-06, from: Standard Ebooks, new releaases
+
+An autobiographical memoir on Joseph Conrad’s maritime experiences and his relationship with the sea. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/joseph-conrad/the-mirror-of-the-sea>
 
 ---
 
@@ -188,7 +212,7 @@ A murder at a country house embroils its weekend guests in an international regi
 
 date: 2024-12-03, from: Association of Research Libraries News
 
-<p>Last Updated on December 4, 2024, 4:40 pm ET Sign up to receive the Day in Review by email. Jump to: Wednesday, December 4 &#124; Thursday, December 5 Tuesday, December...</p>
+<p>Last Updated on December 6, 2024, 2:13 pm ET Sign up to receive the Day in Review by email. Note: Day in Review will be on hiatus until Wednesday, December 11. ...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-december-3-5/">Day in Review (December 3–5)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
@@ -523,4 +547,28 @@ Hulfeld, Florian; Spescha, Andrin; Wörter, Martin
 <br> 
 
 <http://hdl.handle.net/20.500.11850/708831>
+
+---
+
+## The Man of Destiny, by George Bernard Shaw
+
+date: 2024-11-30, from: Standard Ebooks, new releaases
+
+Napoleon engages in a battle of wits to reclaim some stolen letters. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/george-bernard-shaw/the-man-of-destiny>
+
+---
+
+## The Maid of Sker, by R. D. Blackmore
+
+date: 2024-11-30, from: Standard Ebooks, new releaases
+
+An old Welsh fisherman spends years seeking the true identity of a shipwrecked infant he has adopted. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/r-d-blackmore/the-maid-of-sker>
 

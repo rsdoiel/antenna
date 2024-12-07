@@ -1,11 +1,49 @@
 ---
 title: pacific
-updated: 2024-12-06 07:05:05
+updated: 2024-12-07 07:05:26
 ---
 
 # pacific
 
-(date: 2024-12-06 07:05:05)
+(date: 2024-12-07 07:05:26)
+
+---
+
+## UH students honored at National Diversity in STEM Conference
+
+date: 2024-12-06, from: University of Hawaiʻi News
+
+<p>National <abbr>STEM</abbr> honorees included students from <abbr>UH</abbr> Mānoa, <abbr>UH</abbr> Hilo, <span aria-label="Kapiolani">Kapi&#699;olani</span> <abbr>CC</abbr> and Leeward <abbr>CC</abbr>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/06/uh-students-national-diversity-stem/"><abbr>UH</abbr> students honored at National Diversity in <abbr>STEM</abbr> Conference</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/06/uh-students-national-diversity-stem/>
+
+---
+
+## UH Rainbow Wahine volleyball falls to TCU in NCAA first round
+
+date: 2024-12-06, from: University of Hawaiʻi News
+
+<p>The <abbr>UH</abbr> Mānoa women's volleyball team's season came to an end on December 5, with a 25-17, 25-18, 25-22 loss to Texas Christian University.</p>
+The post <a href="https://www.hawaii.edu/news/2024/12/06/uh-falls-to-tcu-ncaa-first-round/"><abbr>UH</abbr> Rainbow Wahine volleyball falls to <abbr>TCU</abbr> in <abbr>NCAA</abbr> first round</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2024/12/06/uh-falls-to-tcu-ncaa-first-round/>
+
+---
+
+##  The power of incumbency: The result of congressional race is consistent with Guam’s voting pattern
+
+date: 2024-12-06, from: Pacific Island Times
+
+   Historically, Guam voters have preferred the incumbent staying in Congress for many years. Madeleine Bordallo served from 2003 to 2019. R 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/the-power-of-incumbency-result-of-congressional-race-consistent-with-guam-s-voting-pattern>
 
 ---
 
@@ -548,6 +586,18 @@ date: 2024-12-06, from: Island Times
 
 ---
 
+## Less stress. More magic. Holiday hosting made simple.
+
+date: 2024-12-05, updated: 2024-12-05, from: Marianas Variety
+
+(BPT) - It's December. And you know what that means. It's time to finish that list and check it twice. Nobody is feeling the holiday bustle quite like the host. From buying the gifts to wrapping the gifts, and preparing the food to setting the table, the host is busy making the magic happen. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/senior_living/less-stress-more-magic-holiday-hosting-made-simple/article_14d6687f-520b-5511-a6bc-5e5f61ab1295.html>
+
+---
+
 ## UH Alumni: Kelly Tolar expands Coconut Ave boutique venture
 
 date: 2024-12-05, from: University of Hawaiʻi News
@@ -558,6 +608,30 @@ The post <a href="https://www.hawaii.edu/news/2024/12/05/uh-alumni-kelly-tolar/"
 <br> 
 
 <https://www.hawaii.edu/news/2024/12/05/uh-alumni-kelly-tolar/>
+
+---
+
+## Driving professional impact: 5 ways rising leaders use AI
+
+date: 2024-12-05, updated: 2024-12-05, from: Marianas Variety
+
+(BPT) - Generative AI is everywhere, especially in the workplace. In fact, many aspiring leaders in the workplace are excited about the widespread adoption of AI and recognize it as a valuable tool for their careers. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/tech_talk_and_innovation/driving-professional-impact-5-ways-rising-leaders-use-ai/article_df86500a-2037-50a9-a48b-87a99d97782a.html>
+
+---
+
+## More than 4 out of 5 (81%) shoppers plan to buy a gift card this year
+
+date: 2024-12-05, updated: 2024-12-05, from: Marianas Variety
+
+(BPT) - For nearly two decades, gift cards have been the most requested holiday gift, according to the National Retail Federation. And research shows that consumers plan to purchase even more gift cards this year than they did last year. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/seasonal/more-than-4-out-of-5-81-shoppers-plan-to-buy-a-gift-card-this/article_3bb6d9dd-ccbf-5227-abcb-41af73d4839c.html>
 
 ---
 
@@ -649,6 +723,30 @@ The post <a href="https://www.hawaii.edu/news/2024/12/05/stress-evolution-kilaue
 <br> 
 
 <https://www.hawaii.edu/news/2024/12/05/stress-evolution-kilauea/>
+
+---
+
+## Early Detection and Management of Feline Diabetes: What Cat Owners Need to Know
+
+date: 2024-12-05, updated: 2024-12-06, from: Marianas Variety
+
+(BPT) - During National Diabetes Month, Elanco is raising awareness about an often-overlooked disease — feline diabetes. With approximately 600,000 cats in the U.S. diagnosed with diabetes in their lifetime, and cases on the rise, Bexacat™ (bexagliflozin tablets), an innovative treatment, is changing the landscape of feline diabetes care.[1],[2] 
+
+<br> 
+
+<https://www.mvariety.com/online_features/pets/early-detection-and-management-of-feline-diabetes-what-cat-owners-need-to-know/article_e5f8e61d-7675-58be-b20f-b936bd79d5df.html>
+
+---
+
+## Why Gift Cards Are the Ultimate Holiday Gift: Tips for Thoughtful and Safe Gifting
+
+date: 2024-12-05, updated: 2024-12-05, from: Marianas Variety
+
+(BPT) - Gift cards remain the most requested gift for 18 years in a row, according to the National Retail Federation. Their appeal is simple: they offer flexibility, convenience, and the joy of letting recipients choose exactly what they want. This holiday season, many will rely on gift cards to brighten their loved ones' celebrations. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/seasonal/why-gift-cards-are-the-ultimate-holiday-gift-tips-for-thoughtful-and-safe-gifting/article_286fd8e4-be8b-50fc-bf6a-c524ca3d3526.html>
 
 ---
 
@@ -2755,4 +2853,170 @@ Marshall Islands President Hilda Heine has issued a call to action to address th
 <br> 
 
 <https://www.pacificislandtimes.com/post/the-time-to-act-is-now-marshall-islands-leader-raises-the-alarm-on-escalating-non-communicable-di>
+
+---
+
+## Musk’s slashing of the federal budget faces big hurdles
+
+date: 2024-11-30, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; These are frenzied times for the nascent Department of Government Efficiency.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/30/nation-world-news/musks-slashing-of-the-federal-budget-faces-big-hurdles/>
+
+---
+
+## Hoping for allies among Trump’s health picks, pharma faces hostility
+
+date: 2024-11-30, from: Hawaii Tribune Harold
+
+
+				<p>Drug company executives had hoped that a second Trump administration would be staffed by friendly health policy officials who would reduce regulation and help their industry boom.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/30/nation-world-news/hoping-for-allies-among-trumps-health-picks-pharma-faces-hostility/>
+
+---
+
+## Holiday shopping season separates winning retailers from losers
+
+date: 2024-11-30, from: Hawaii Tribune Harold
+
+
+				<p>Shoppers are heading into the Black Friday weekend unsure how wide to open their wallets, retailers say, with many still feeling the squeeze of inflation and also worried that tariffs could make things even more expensive if they wait too long to buy.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/30/nation-world-news/holiday-shopping-season-separates-winning-retailers-from-losers/>
+
+---
+
+## Republicans built an ecosystem of influencers. Some Democrats want one, too.
+
+date: 2024-11-30, from: Hawaii Tribune Harold
+
+
+				<p>Zackory Kirk, an influencer based in Atlanta who goes by the name The Zactivist and has more than 220,000 followers on Instagram, TikTok and other platforms, has been churning out mostly progressive content for more than four years.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/30/nation-world-news/republicans-built-an-ecosystem-of-influencers-some-democrats-want-one-too/>
+
+---
+
+## Israel warns residents on both sides of Lebanon border to stay away
+
+date: 2024-11-30, from: Hawaii Tribune Harold
+
+
+				<p>TEL AVIV, Israel &#8212; The Israeli military issued new warnings to residents on both sides of the Israel-Lebanon border on Friday, telling them not to return to their homes, as the fragile U.S.-brokered ceasefire between Israel and Hezbollah appeared to largely hold despite another Israeli strike in southern Lebanon.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/30/nation-world-news/israel-warns-residents-on-both-sides-of-lebanon-border-to-stay-away/>
+
+---
+
+## Killer whales hunt and feast on the largest fish on Earth
+
+date: 2024-11-30, from: Hawaii Tribune Harold
+
+
+				<p>Off Baja California in Mexico, a killer whale named after an Aztec emperor is leading his pod on routine takedowns of the largest fish in the sea: whale sharks.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/30/nation-world-news/killer-whales-hunt-and-feast-on-the-largest-fish-on-earth/>
+
+---
+
+## Uganda landslide death toll rises to 17
+
+date: 2024-11-30, from: Hawaii Tribune Harold
+
+
+				<p>KAMPALA (Reuters) &#8212; The death toll from a landslide triggered by heavy rain in eastern Uganda has climbed to 17, a government spokesperson said on Friday, with more than 100 others missing. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/30/nation-world-news/uganda-landslide-death-toll-rises-to-17/>
+
+---
+
+## Protests erupt in Georgia as it pulls back from pro-Western path
+
+date: 2024-11-30, from: Hawaii Tribune Harold
+
+
+				<p>TBILISI, Georgia &#8212; Thousands of people demonstrated in front of the parliament building in the Georgian capital, Tbilisi, for a second day Friday after the government announced that the country had suspended its bid to join the European Union for four years.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/30/nation-world-news/protests-erupt-in-georgia-as-it-pulls-back-from-pro-western-path/>
+
+---
+
+## Trudeau flies to Mar-a-Lago to see Trump amid tariff concerns
+
+date: 2024-11-30, from: Hawaii Tribune Harold
+
+
+				<p>TORONTO &#8212; Prime Minister Justin Trudeau of Canada went to Florida on Friday night to see President-elect Donald Trump at Mar-a-Lago, two officials with direct knowledge of the visit said, after a threat by Trump to impose across-the-board tariffs on goods from Canada and Mexico on Day 1 of his second term.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/30/nation-world-news/trudeau-flies-to-mar-a-lago-to-see-trump-amid-tariff-concerns/>
+
+---
+
+## California man to reunite with family 25 years after he ‘vanished with no trace’
+
+date: 2024-11-30, from: Hawaii Tribune Harold
+
+
+				<p>For years, Marcella Nasseri searched for the remains of her brother, who she believed had died after he mysteriously disappeared in Doyle, California, 25 years ago.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/30/nation-world-news/california-man-to-reunite-with-family-25-years-after-he-vanished-with-no-trace/>
+
+---
+
+## Tropical Gardening: Nature heralds glad tidings of Christmas
+
+date: 2024-11-30, from: Hawaii Tribune Harold
+
+
+				<p>Short cool days make conditions ideal for colorful poinsettias and its close relative <em>Euphorbia leucocephala</em> sometimes called Snow on the Mountain. Our holiday season usually begins with Halloween and extends to Easter, but it is also the time for colds, flu bugs, pneumonia, and even variants of Covid. This means we need to be a little careful of large crowds like wild parties around New Year&#8217;s Eve. Perhaps a safer endeavor would be to focus on enjoying the fresh air of our gardens!</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2024/11/30/features/tropical-gardening-nature-heralds-glad-tidings-of-christmas/>
+
+---
+
+## Pacific takes stock of ‘disappointing’ COP29 climate summit
+
+date: 2024-11-30, from: Pacific Island Times
+
+Delegates tell of frantic negotiations, diplomatic intrigue and frustrated ambitions at the annual UN meeting in Baku, Azerbaijan By Sera... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/pacific-takes-stock-of-disappointing-cop29-climate-summit>
 

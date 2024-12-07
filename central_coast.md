@@ -1,11 +1,11 @@
 ---
 title: central coast
-updated: 2024-12-06 07:05:06
+updated: 2024-12-07 07:05:27
 ---
 
 # central coast
 
-(date: 2024-12-06 07:05:06)
+(date: 2024-12-07 07:05:27)
 
 ---
 
@@ -602,4 +602,163 @@ date: 2024-12-01, from: Newshawk, the freshest news in Santa Barbara County
 <br> 
 
 <https://www.noozhawk.com/santa-barbara-school-district-leaders-meet-with-governor-on-cell-phone-policy/>
+
+---
+
+## Ladies Night In Presents Holiday Hostess With the Mostest
+
+date: 2024-11-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Santa Maria Recreation and Parks Department will offer Holiday Hostess with the Mostest, a festive Ladies Night In event, 6-8 p.m. Friday, Dec. 13 at Elwin Mussell Center, 510 [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/ladies-night-in-presents-holiday-hostess-with-mostest/">Ladies Night In Presents Holiday Hostess With the Mostest</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/ladies-night-in-presents-holiday-hostess-with-mostest/>
+
+---
+
+## James Dulley: How to Use French Polish to Restore Your Cherry Woodwork
+
+date: 2024-11-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="682" height="1024" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/plo112124adAP.webp?fit=682%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="French polish" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/plo112124adAP.webp?w=1199&amp;ssl=1 1199w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/plo112124adAP.webp?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/plo112124adAP.webp?resize=682%2C1024&amp;ssl=1 682w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/plo112124adAP.webp?resize=768%2C1153&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/plo112124adAP.webp?resize=1023%2C1536&amp;ssl=1 1023w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/plo112124adAP.webp?resize=400%2C601&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/plo112124adAP.webp?fit=682%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Dear James: My old house has gorgeous natural cherry woodwork. I plan to refinish with natural French polish finish. Will it hold up? And what is the best way to [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/james-dulley-how-to-use-french-polish-to-restore-your-cherry-woodwork-to-original-glory/">James Dulley: How to Use French Polish to Restore Your Cherry Woodwork</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/james-dulley-how-to-use-french-polish-to-restore-your-cherry-woodwork-to-original-glory/>
+
+---
+
+## SpaceX Carries Starshield, Starlink Satellites from Vandenberg SFB
+
+date: 2024-11-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/113024-SpaceX-NRO-Starlink1-cont-2000.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="A Falcon 9 rocket blasts off from Vandenberg Space Force Base early Saturday for a mission to deliver a National Reconnaissance Office payload and 20 Starlink satellites." decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/113024-SpaceX-NRO-Starlink1-cont-2000.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/113024-SpaceX-NRO-Starlink1-cont-2000.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/113024-SpaceX-NRO-Starlink1-cont-2000.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/113024-SpaceX-NRO-Starlink1-cont-2000.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/113024-SpaceX-NRO-Starlink1-cont-2000.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/113024-SpaceX-NRO-Starlink1-cont-2000.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/113024-SpaceX-NRO-Starlink1-cont-2000.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/113024-SpaceX-NRO-Starlink1-cont-2000.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/113024-SpaceX-NRO-Starlink1-cont-2000.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The fifth Falcon 9 rocket launch of November from Vandenberg Space Force Base early Saturday also marked the fifth delivery to expand the nation&#8217;s spy satellite agency’s largest constellation. The [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/spacex-carries-starshield-starlink-satellites-from-vandenberg-sfb/">SpaceX Carries Starshield, Starlink Satellites from Vandenberg SFB</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/spacex-carries-starshield-starlink-satellites-from-vandenberg-sfb/>
+
+---
+
+## Project Helps Women Veterans Help Themselves and Horses
+
+date: 2024-11-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The Horse Project Santa Barbara has opened applications to Better with Horses for Woman Veterans who have served in the U.S. military. The 10-week program, which begins in March, is [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/project-helps-women-veterans-help-themselves-and-horses/">Project Helps Women Veterans Help Themselves and Horses</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/project-helps-women-veterans-help-themselves-and-horses/>
+
+---
+
+## Groundbreaking Signals Start of Lompoc’s New Radio System
+
+date: 2024-11-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>The city of Lompoc will host a community groundbreaking ceremony to mark a major investment in public safety technology. The event will be at 10 a.m. Thursday, Dec. 12, at [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/groundbreaking-signals-start-of-lompocs-new-radio-system/">Groundbreaking Signals Start of Lompoc&#8217;s New Radio System</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/groundbreaking-signals-start-of-lompocs-new-radio-system/>
+
+---
+
+## Santa Maria Parade of Lights Sparks Traffic Detours
+
+date: 2024-11-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Downtown Santa Maria will see road closures and traffic detours Saturday afternoon and night, Dec. 7 due to the annual Christmas Parade of Lights. The parade is scheduled to start [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/santa-maria-parade-of-lights-to-spark-traffic-detours/">Santa Maria Parade of Lights Sparks Traffic Detours</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/santa-maria-parade-of-lights-to-spark-traffic-detours/>
+
+---
+
+## RV Owners in Lompoc Urged to Ensure Proper Vehicle Permits
+
+date: 2024-11-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<p>Lompoc is advising recreation vehicle owners in the city to ensure their RVs are properly permitted. Lompoc police have begun issuing parking tickets for RVs without proper city permits in [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/rv-owners-in-lompoc-urged-to-ensure-proper-vehicle-permits/">RV Owners in Lompoc Urged to Ensure Proper Vehicle Permits</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/rv-owners-in-lompoc-urged-to-ensure-proper-vehicle-permits/>
+
+---
+
+## Morning at Shoreline Park
+
+date: 2024-11-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110524-POD-Katherine-Wetzel.webp?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Morning at Santa Barbara’s Shoreline Park." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110524-POD-Katherine-Wetzel.webp?w=2500&amp;ssl=1 2500w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110524-POD-Katherine-Wetzel.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110524-POD-Katherine-Wetzel.webp?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110524-POD-Katherine-Wetzel.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110524-POD-Katherine-Wetzel.webp?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110524-POD-Katherine-Wetzel.webp?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110524-POD-Katherine-Wetzel.webp?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110524-POD-Katherine-Wetzel.webp?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110524-POD-Katherine-Wetzel.webp?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110524-POD-Katherine-Wetzel.webp?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110524-POD-Katherine-Wetzel.webp?w=2340&amp;ssl=1 2340w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/110524-POD-Katherine-Wetzel.webp?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The post <a href="https://www.noozhawk.com/morning-at-shoreline-park/">Morning at Shoreline Park</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/morning-at-shoreline-park/>
+
+---
+
+## Driver Hospitalized After Rollover Crash in Downtown Santa Barbara
+
+date: 2024-11-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/112924-Figueroa-Street-Crash-ph-2000.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="One person was taken to the hospital Friday night following a rollover crash on the 400 block of East Figueroa Street in downtown Santa Barbara." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/112924-Figueroa-Street-Crash-ph-2000.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/112924-Figueroa-Street-Crash-ph-2000.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/112924-Figueroa-Street-Crash-ph-2000.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/112924-Figueroa-Street-Crash-ph-2000.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/112924-Figueroa-Street-Crash-ph-2000.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/112924-Figueroa-Street-Crash-ph-2000.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/112924-Figueroa-Street-Crash-ph-2000.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/112924-Figueroa-Street-Crash-ph-2000.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/112924-Figueroa-Street-Crash-ph-2000.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>One person was taken to the hospital Friday night following a rollover crash in downtown Santa Barbara. City firefighters were dispatched shortly before 7 p.m. to the incident on the 400 [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/driver-hospitalized-after-rollover-crash-in-downtown-santa-barbara/">Driver Hospitalized After Rollover Crash in Downtown Santa Barbara</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/driver-hospitalized-after-rollover-crash-in-downtown-santa-barbara/>
+
+---
+
+## Louise Lowry Davis Center in Santa Barbara Set to Reopen After $1.85M Renovation
+
+date: 2024-11-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/112924-Louise-Lowry-Davis-Center-1-JM.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The Louise Lowry Davis Center in Santa Barbara is set to reopen next week after a long closure." decoding="async" loading="lazy" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/112924-Louise-Lowry-Davis-Center-1-JM.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/112924-Louise-Lowry-Davis-Center-1-JM.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/112924-Louise-Lowry-Davis-Center-1-JM.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/112924-Louise-Lowry-Davis-Center-1-JM.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/112924-Louise-Lowry-Davis-Center-1-JM.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/112924-Louise-Lowry-Davis-Center-1-JM.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/112924-Louise-Lowry-Davis-Center-1-JM.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/112924-Louise-Lowry-Davis-Center-1-JM.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/112924-Louise-Lowry-Davis-Center-1-JM.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>After four years, the Louise Lowry Davis Center in Santa Barbara is poised to reopen. The City of Santa Barbara will host a ribbon-cutting ceremony at 10:30 a.m. on Thursday. [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/louise-lowry-davis-center-in-santa-barbara-to-reopen-after-1-85-million-renovation/">Louise Lowry Davis Center in Santa Barbara Set to Reopen After $1.85M Renovation</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/louise-lowry-davis-center-in-santa-barbara-to-reopen-after-1-85-million-renovation/>
+
+---
+
+## Pickleball Coach Visits SLO Prison to Teach Inmates the Game — and Build Camaraderie
+
+date: 2024-11-30, from: Newshawk, the freshest news in Santa Barbara County
+
+<figure><img width="960" height="540" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/112924-SLO_pickleballatCMC53947.jpg?fit=960%2C540&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/112924-SLO_pickleballatCMC53947.jpg?w=960&amp;ssl=1 960w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/112924-SLO_pickleballatCMC53947.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/112924-SLO_pickleballatCMC53947.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/112924-SLO_pickleballatCMC53947.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/11/112924-SLO_pickleballatCMC53947.jpg?fit=960%2C540&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The fastest-growing sport in the United States has reached San Luis Obispo’s only prison. On a mid-November morning inside the California Men’s Colony gymnasium, two courts were packed with 25 [&#8230;]</p>
+<p>The post <a href="https://www.noozhawk.com/pickleball-coach-visits-slo-prison-to-teach-inmates-the-game-and-build-camaraderie/">Pickleball Coach Visits SLO Prison to Teach Inmates the Game — and Build Camaraderie</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
+ 
+
+<br> 
+
+<https://www.noozhawk.com/pickleball-coach-visits-slo-prison-to-teach-inmates-the-game-and-build-camaraderie/>
 

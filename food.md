@@ -1,11 +1,213 @@
 ---
 title: food
-updated: 2024-12-06 07:05:09
+updated: 2024-12-07 07:05:30
 ---
 
 # food
 
-(date: 2024-12-06 07:05:09)
+(date: 2024-12-07 07:05:30)
+
+---
+
+## This 3-Ingredient Recipe for Candied Cranberries Is Pure Christmas Magic
+
+date: 2024-12-06, from: Taste of Home
+
+<p>Get ready to crave these candied cranberries all Christmas long.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/candied-cranberries/">This 3-Ingredient Recipe for Candied Cranberries Is Pure Christmas Magic</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/candied-cranberries/>
+
+---
+
+## Pizza Hut Just Revealed Its First Location with a Drive-Thru
+
+date: 2024-12-06, from: Taste of Home
+
+<p>It's not delivery, it's a drive-thru!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/pizza-hut-drive-thru/">Pizza Hut Just Revealed Its First Location with a Drive-Thru</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/pizza-hut-drive-thru/>
+
+---
+
+## Drew Barrymore Furniture Is Here! 10 Home Finds We’re Shopping ASAP
+
+date: 2024-12-06, from: Taste of Home
+
+<p>Drew Barrymore furniture is attractive, budget-friendly and sturdy. Here are our favorite pieces, including those tested by editors.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/drew-barrymore-furniture/">Drew Barrymore Furniture Is Here! 10 Home Finds We&#8217;re Shopping ASAP</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/drew-barrymore-furniture/>
+
+---
+
+## McDonald’s President Just Confirmed the Return of Snack Wraps
+
+date: 2024-12-06, from: Taste of Home
+
+<p>Snack Wraps are making a triumphant return to McDonald's in 2025.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/mcdonalds-snack-wraps-back-2025/">McDonald&#8217;s President Just Confirmed the Return of Snack Wraps</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/mcdonalds-snack-wraps-back-2025/>
+
+---
+
+## Sovda Bulks Up with Launch of the Precision Silo
+
+date: 2024-12-06, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Sovda-Precision-Silo-620x414.png" class="attachment-large size-large wp-post-image" alt="Sovda Precision Silo" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Sovda-Precision-Silo-620x414.png 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Sovda-Precision-Silo-300x200.png 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Sovda-Precision-Silo-150x100.png 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Sovda-Precision-Silo-768x512.png 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Sovda-Precision-Silo.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Professional roastery equipment maker Sovda is launching the Precision Silo, a 4,800-kilogram-capacity green coffee storage, loading and blending machine. Divided into eight chambers, each with 600-kilogram capacity, the Precision Silo... 
+
+<br> 
+
+<https://dailycoffeenews.com/2024/12/06/sovda-bulks-up-with-launch-of-the-precision-silo/>
+
+---
+
+## Outstanding Design Achievement: Vessels Finalists
+
+date: 2024-12-06, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. The finalists for the 2024/2025 Sprudge Design Awards Outstanding Design Achievement: Vessels category. 
+
+<br> 
+
+<https://sprudge.com/outstanding-design-achievement-vessels-finalists-260465.html>
+
+---
+
+## Outstanding Design Achievement: Goods And Garments Finalists
+
+date: 2024-12-06, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. The finalists for the 2024/2025 Sprudge Design Awards Outstanding Design Achievement: Goods and Garments category. 
+
+<br> 
+
+<https://sprudge.com/outstanding-design-achievement-goods-and-garments-finalists-260464.html>
+
+---
+
+## Best Coffee Photograph Of The Year Finalists
+
+date: 2024-12-06, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. The finalists for the 2024/2025 Sprudge Design Awards Best Coffee Photograph Of The Year Finalists category. 
+
+<br> 
+
+<https://sprudge.com/best-coffee-photograph-of-the-year-finalists-260528.html>
+
+---
+
+## Outstanding Design Achievement: Pastry
+
+date: 2024-12-06, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. The finalists for the 2024/2025 Sprudge Design Awards Outstanding Design Achievement: Pastry category. 
+
+<br> 
+
+<https://sprudge.com/outstanding-design-achievement-pastry-260475.html>
+
+---
+
+## Best Home Coffee Design Of The Year Finalists
+
+date: 2024-12-06, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. The finalists for the 2024/2025 Sprudge Design Awards Best Home Coffee Design Of The Year category. 
+
+<br> 
+
+<https://sprudge.com/best-home-coffee-design-of-the-year-finalists-260599.html>
+
+---
+
+## Outstanding Design Achievement: Event Exhibition Finalists
+
+date: 2024-12-06, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. The finalists for the 2024/2025 Sprudge Design Awards Outstanding Design Achievement: Event Exhibition category. 
+
+<br> 
+
+<https://sprudge.com/outstanding-design-achievement-event-exhibition-finalists-260463.html>
+
+---
+
+## Outstanding Packaging: Seasonal Or Limited Edition Finalists
+
+date: 2024-12-06, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. The finalists for the 2024/2025 Sprudge Design Awards Outstanding Packaging: Seasonal or Limited Edition category. 
+
+<br> 
+
+<https://sprudge.com/outstanding-packaging-seasonal-or-limited-edition-finalists-260506.html>
+
+---
+
+## Outstanding Designer Finalists
+
+date: 2024-12-06, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. The finalists for the 2024/2025 Sprudge Design Awards Outstanding Designer category. 
+
+<br> 
+
+<https://sprudge.com/outstanding-designer-finalists-260540.html>
+
+---
+
+## Outstanding Design Agency Finalists
+
+date: 2024-12-06, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. The finalists for the 2024/2025 Sprudge Design Awards Outstanding Design Agency category. 
+
+<br> 
+
+<https://sprudge.com/outstanding-design-agency-finalists-260474.html>
+
+---
+
+## Sprudge Design Awards Finalist Voting Form
+
+date: 2024-12-06, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Cast your ballot in the Second Annual Sprudge Design Awards! We&#8217;re excited to celebrate excellence in coffee design with our annual awards program. This year&#8217;s finalists represent the best in [&#8230;] 
+
+<br> 
+
+<https://sprudge.com/sprudge-design-awards-finalist-voting-form-260937.html>
+
+---
+
+## I Tried Dolly Parton’s Chardonnay—Here’s My Honest Review
+
+date: 2024-12-06, from: Taste of Home
+
+<p>Is the new Dolly Parton wine as light and uplifting as her iconic blonde hair?</p>
+<p>The post <a href="https://www.tasteofhome.com/article/dolly-parton-chardonnay-review/">I Tried Dolly Parton&#8217;s Chardonnay—Here&#8217;s My Honest Review</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/dolly-parton-chardonnay-review/>
 
 ---
 
@@ -13,7 +215,7 @@ updated: 2024-12-06 07:05:09
 
 date: 2024-12-06, from: Daily Coffee News
 
-<div><img width="620" height="450" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-sacks-620x450.jpg" class="attachment-large size-large wp-post-image" alt="coffee sacks" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-sacks-620x450.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-sacks-300x218.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-sacks-150x109.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-sacks-768x557.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-sacks.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Report: Traders Who Bet On Coffee Prices to Come... 
+<div><img width="620" height="450" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-sacks-620x450.jpg" class="attachment-large size-large wp-post-image" alt="coffee sacks" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-sacks-620x450.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-sacks-300x218.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-sacks-150x109.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-sacks-768x557.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/coffee-sacks.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Report: Traders Who Bet On Coffee Prices to Come... 
 
 <br> 
 
@@ -30,6 +232,20 @@ Our peppermint mocha recipe comes together in a snap and is the perfect way to a
 <br> 
 
 <https://www.tasteofhome.com/recipes/peppermint-mocha/>
+
+---
+
+## Punch Cards, Points, and Perks: Which Coffee Loyalty Programs Work Best?
+
+date: 2024-12-06, from: The Fresh Cup
+
+<p>Stamp cards are just the beginning. Beyond rewarding patrons, these four loyalty program options offer business owners room to experiment—and the opportunity to deepen customer engagement.</p>
+<p>The post <a href="https://freshcup.com/punch-cards-points-and-perks-which-coffee-loyalty-programs-work-best/">Punch Cards, Points, and Perks: Which Coffee Loyalty Programs Work Best?</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/punch-cards-points-and-perks-which-coffee-loyalty-programs-work-best/>
 
 ---
 
@@ -205,7 +421,7 @@ date: 2024-12-05, from: The Sprudge
 
 date: 2024-12-05, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Sojourner-coffee-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Sojourner coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Sojourner-coffee-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Sojourner-coffee-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Sojourner-coffee-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Sojourner-coffee-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Sojourner-coffee.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A private investment firm led by the past chairman of Canada&#8217;s Kicking Horse Coffee made an undisclosed investment in Honolulu-based Hawaii Coffee Company, one of the largest coffee roasting and... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2024/12/Sojourner-coffee-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Sojourner coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2024/12/Sojourner-coffee-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Sojourner-coffee-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Sojourner-coffee-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Sojourner-coffee-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2024/12/Sojourner-coffee.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A private investment firm led by the past chairman of Canada&#8217;s Kicking Horse Coffee made an undisclosed investment in Honolulu-based Hawaii Coffee Company, one of the largest coffee roasting and... 
 
 <br> 
 
@@ -1196,4 +1412,64 @@ date: 2024-12-01, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/21-cookies-for-holidays/>
+
+---
+
+## 87 Black Friday Kitchen Deals BA Editors Are Shopping (2024)
+
+date: 2024-11-30, from: Bon Appetet
+
+Up to 50% off on Staub Dutch ovens, cookware sets, air fryers, and more. 
+
+<br> 
+
+<https://www.bonappetit.com/story/black-friday-kitchen-deals-11-29-2024>
+
+---
+
+## 43 Best KitchenAid Black Friday Deals of 2024 to Mix It Up
+
+date: 2024-11-30, from: Bon Appetet
+
+The best early deals on the best stand mixers from Amazon, Walmart, and Best Buy. 
+
+<br> 
+
+<https://www.bonappetit.com/story/kitchenaid-mixer-black-friday-11-28-2024>
+
+---
+
+## Greek Yogurt Cheesecake
+
+date: 2024-11-30, from: Taste of Home
+
+Whether dressing it up with toppings or savoring it plain, Greek yogurt cheesecake is pure indulgence. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/greek-yogurt-cheesecake/>
+
+---
+
+## 23 Best Nespresso Cyber Monday Deals 2024
+
+date: 2024-11-30, from: Bon Appetet
+
+Plus we help you make sense of all the machines that are on sale today. 
+
+<br> 
+
+<https://www.bonappetit.com/story/nespresso-black-friday-2024>
+
+---
+
+## 31 Black Friday Meal Kit Deals (And Subscription Deals) for a Gift That Keeps on Giving
+
+date: 2024-11-30, from: Bon Appetet
+
+Deals on cookies, coffee, and cleaning supplies—delivered straight to your door. 
+
+<br> 
+
+<https://www.bonappetit.com/story/subscriptions-black-friday-11-29-2024>
 

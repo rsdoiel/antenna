@@ -1,11 +1,35 @@
 ---
 title: motorcycles
-updated: 2024-12-06 07:05:08
+updated: 2024-12-07 07:05:29
 ---
 
 # motorcycles
 
-(date: 2024-12-06 07:05:08)
+(date: 2024-12-07 07:05:29)
+
+---
+
+## Only Cops Are Allowed to Ride Honda’s Beloved NT1100 in the US
+
+date: 2024-12-06, from: Ride Apart, Electric Motorcycle News
+
+Yes, this is Europe's best-selling sport-touring motorcycle. No, you can't have one unless you're a cop. 
+
+<br> 
+
+<https://www.rideapart.com/news/743307/honda-nt1100-us-police-bike/>
+
+---
+
+## Watch the Largest 2-Stroke Pit Bike Conversion Ever Pull Power Wheelies
+
+date: 2024-12-06, from: Ride Apart, Electric Motorcycle News
+
+I could listen to this all day, but I wouldn't say the same about riding it. 
+
+<br> 
+
+<https://www.rideapart.com/news/743372/2-stroke-kawasaki-400-pit-bike/>
 
 ---
 
@@ -387,4 +411,40 @@ And Lynx.
 <br> 
 
 <https://www.rideapart.com/news/742364/ski-doo-brp-500000-snowmobiles-produced/>
+
+---
+
+## Gallery: NHRA Puts On A Show At Pomona Raceway
+
+date: 2024-11-30, from: Kickin the Tires blog
+
+Photos by Jerry Jordan/Kickin&#8217; the Tires 
+
+<br> 
+
+<https://kickinthetires.net/nhra/gallery-nhra-puts-on-a-show-at-pomona-raceway/>
+
+---
+
+## BMW Does BMW Things, Runs Red Light, Clobbers Motorcycle Rider
+
+date: 2024-11-30, from: Ride Apart, Electric Motorcycle News
+
+Some traffic saw this guy and stopped, but this rider wasn't so lucky. 
+
+<br> 
+
+<https://www.rideapart.com/news/742366/bmw-driver-runs-red-light/>
+
+---
+
+## Lawsuit Documents: 23XI Racing And Team FRM File 2nd Temporary Injunction Against NASCAR
+
+date: 2024-11-30, from: Kickin the Tires blog
+
+By Jerry Jordan, Editor 
+
+<br> 
+
+<https://kickinthetires.net/nascar/lawsuit-documents-23xi-racing-and-team-frm-file-2nd-temporary-injunction-against-nascar/>
 

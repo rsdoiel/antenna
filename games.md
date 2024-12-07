@@ -1,11 +1,95 @@
 ---
 title: games
-updated: 2024-12-06 07:05:07
+updated: 2024-12-07 07:05:28
 ---
 
 # games
 
-(date: 2024-12-06 07:05:07)
+(date: 2024-12-07 07:05:28)
+
+---
+
+## Speak No Evil, Beetlejuice 2, Netflix’s That Christmas, and every movie new to streaming
+
+date: 2024-12-06, updated: 2024-12-05, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. This week, Speak No Evil, the new horror thriller starring James McAvoy and Scoot McNairy, comes to streaming on Peacock. That’s not all, though; Smile 2 [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/486856/new-movies-watch-streaming-speak-no-evil-beetlejuice-beetlejuice-netflix-that-christmas>
+
+---
+
+## All Strange Inscription photo locations in Indiana Jones and the Great Circle
+
+date: 2024-12-06, updated: 2024-12-06, from: Polygon Website
+
+“Collect photographs of inscriptions” is an objective you’ll get in Indiana Jones and the Great Circle as part of “The Stolen Cat Mummy.” These are the four Strange Inscriptions that were marked on Crescenzo’s Map. Our Indiana Jones and the Great Circle guide will show you how to photograph the inscriptions and where to find [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/indiana-jones-great-circle-guide/492394/strange-inscriptions-photo-locations-vatican>
+
+---
+
+## Where to find the Belvedere Courtyard chest code in Indiana Jones and the Great Circle
+
+date: 2024-12-06, updated: 2024-12-06, from: Polygon Website
+
+The Belvedere Courtyard locked chest shows up early Indiana Jones and the Great Circle, during “The Stolen Cat Mummy.” You’ll have through the courtyard on your way to the Vatican Post Office to pick up a camera. Our Indiana Jones and the Great Circle chest guide will show you where to find the Belvedere Courtyard [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/indiana-jones-great-circle-guide/492305/belvedere-courtyard-chest-code-combination-location>
+
+---
+
+## How to solve the ‘Bulls of Blood’ puzzle in Indiana Jones and the Great Circle
+
+date: 2024-12-06, updated: 2024-12-06, from: Polygon Website
+
+“Bulls of Blood” is an optional mystery puzzle you can find in Indiana Jones and the Great Circle during “The Stolen Cat Mummy.” It’s very easy to miss, but you can find it in the Castel Sant’Angelo on your way to meet Father Antonio. Our Indiana Jones and the Great Circle guide will show you [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/indiana-jones-great-circle-guide/492189/bulls-of-blood-castel-santangelo>
+
+---
+
+## Where to find the items left to pack in Indiana Jones and the Great Circle
+
+date: 2024-12-06, updated: 2024-12-06, from: Polygon Website
+
+Early in Indiana Jones and the Great Circle, you’ll be tasked with packing Indy’s suitcase for his globetrotting trip as part of “The Adventure Begins.” There’s no puzzle to it — all four items are out in the open — but it’s only your second time searching for clues and a couple are easy to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/indiana-jones-great-circle-guide/492061/suitcase-item-locations-office-adventure-begins>
+
+---
+
+## How to solve the ‘House of God’ puzzle in Indiana Jones and the Great Circle
+
+date: 2024-12-06, updated: 2024-12-06, from: Polygon Website
+
+“House of God” is a mystery you’ll find in Indiana Jones and the Great Circle while looking for the four Strange Inscriptions to photograph. It’s a quick puzzle box on one of the upper floors around the Vatican’s Belvedere Courtyard. Our Indiana Jones and the Great Circle guide will show you how to reach the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/indiana-jones-great-circle-guide/492471/house-of-god-puzzle-solution-how-to-solve-mystery>
+
+---
+
+## How to solve the Sacred Wounds puzzle in Indiana Jones and the Great Circle
+
+date: 2024-12-06, updated: 2024-12-06, from: Polygon Website
+
+You’ll find the Sacred Wounds puzzle in Indiana Jones and the Great Circle while exploring the Underworld below Nicholas the Fifth’s tower in the Vatican. You’ll reach it after finding and photographing the four Strange Inscriptions for Father Antonio. Our Indiana Jones and the Great Circle guide will show you how to find the Sacred [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/indiana-jones-great-circle-guide/492530/sacred-wounds-puzzle-solution-how-to-solve>
 
 ---
 
@@ -822,4 +906,112 @@ Using a raid schedule helps you work out which creatures to save your raid passe
 <br> 
 
 <https://www.polygon.com/pokemon-go-guide/24168766/raid-schedule-legendary-mega-shadow-five-star>
+
+---
+
+## Star Wars Outlaws is $30 off during Black Friday
+
+date: 2024-11-30, updated: 2024-11-29, from: Polygon Website
+
+Star Wars Outlaws is a game that both embraces the core aesthetics and elements of Star Wars, but throws in a few fun curveballs. Despite its rough launch, with some flaws around stealth and combat especially, Ubisoft has been patching the game and smoothing out these issues, which makes it easier to recommend during its [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/black-friday/487398/star-wars-outlaws-ps5-xbox-deal>
+
+---
+
+## Wicked tackled ‘one of the most difficult things you can do in CG’
+
+date: 2024-11-30, updated: 2024-11-28, from: Polygon Website
+
+From plucky talking bears to motion-capture apes, from Avatar’s sentient space whales to Toho’s relentless Godzilla, computer generated creatures take center stage in movies more and more often these days. If there’s a big-budget film coming out, you’ll likely find a mountainous sandworm or a sound-hunting alien in it. The growth of visual effects technology [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/486388/wicked-behind-the-scenes-animal-effects-dillamond-chistery>
+
+---
+
+## Is Arcane canon in League of Legends? It’s a complicated question
+
+date: 2024-11-30, updated: 2024-11-27, from: Polygon Website
+
+I’ve been playing League of Legends since the game’s earliest days. I read the Journal of Justice, an in-universe publication from back when the League of Legends was a giant fighting arena for nations to settle political disputes. I witnessed the setting’s first big retcon in 2014, and the successive comics, events, novellas, and cinematics. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/486499/is-arcane-canon-league-of-legends-lore-riot-narrative>
+
+---
+
+## Every version of The Lord of the Rings is discounted for Black Friday
+
+date: 2024-11-30, updated: 2024-11-30, from: Polygon Website
+
+The most sumptuous versions of works published by J.R.R. Tolkien are currently discounted for Black Friday, with some editions on sale for as much as 55% off. Even if you never intend to read them, any of these tomes would look great on your shelf. The illustrated versions of The Lord of the Rings, The [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/black-friday/486573/lord-of-the-rings-hobbit-book-deal-lotr>
+
+---
+
+## The Black Friday Magic: The Gathering deals worth shopping before they sell out
+
+date: 2024-11-30, updated: 2024-11-30, from: Polygon Website
+
+Thanksgiving has come and gone for this year, which means it’s time to commandeer the kitchen table (or whatever large surface you might have) for Magic: The Gathering. Whether you’re a fan — or buying gifts for one — Black Friday has brought discounts across its entire multiformat and multiversal catalog. Highlights include deals from [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/black-friday/475501/best-mtg-deals-magic-gathering>
+
+---
+
+## D&#038;D’s Black Friday deals include 10% off the 2024 core rulebooks
+
+date: 2024-11-30, updated: 2024-11-30, from: Polygon Website
+
+Given Dungeons &#38; Dragon’s first 2024 core rulebook only launched a few months ago, we honestly weren’t sure what to expect around Black Friday. Our worries were all for naught, it seems, as Wizards of the Coast is having a Black Friday sale on all things D&#38;D — including 10% off both the 2024 Player’s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/black-friday/485330/best-dungeons-dragons-dnd-deals>
+
+---
+
+## Some of my favorite sets are part of Lego’s Black Friday deals
+
+date: 2024-11-30, updated: 2024-11-30, from: Polygon Website
+
+Lego isn’t exactly a cheap hobby, but it’s sure worth the cost to get the chance to build stuff with family and friends. Thankfully, Black Friday supplies deals for the kid in us all, with some great sets discounted up to 40%. I’m thrilled to see that some of our favorites are on sale, including [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/black-friday/475580/best-lego-deals>
+
+---
+
+## Takanashi Kiara has become a master of potty talk and pop stardom
+
+date: 2024-11-30, updated: 2024-11-27, from: Polygon Website
+
+Takanashi Kiara is not like other girls.&#160; The cliche applies to her in a literal sense. She’s a Vtuber, a term for a content creator who streams using an anime avatar. When Kiara appears on a stream, viewers watch a bubbly anime girl with bright orange hair and blue highlights. Kiara, the character, is a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/culture/486334/takanashi-kiara-hololive-vtuber-interview>
+
+---
+
+## The best horror to watch on Netflix this December
+
+date: 2024-11-30, updated: 2024-11-27, from: Polygon Website
+
+We’ve made it to the final month of 2024, and for many people, that means holiday traditions, family gatherings, and time off work that should be filled with movies on the couch. So to help you figure out how to spend your Netflix hours this month, we’ve picked out a list of some of the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/486118/best-horror-movies-netflix-watch-december-2024>
 

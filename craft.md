@@ -1,11 +1,11 @@
 ---
 title: craft
-updated: 2024-12-06 07:05:09
+updated: 2024-12-07 07:05:30
 ---
 
 # craft
 
-(date: 2024-12-06 07:05:09)
+(date: 2024-12-07 07:05:30)
 
 ---
 
@@ -150,4 +150,30 @@ Day 5: Hans Karlsson &#38; Jason Lonon Scorps/Inshaves Good scorps/inshaves are 
 <br> 
 
 <https://blog.lostartpress.com/2024/12/01/2024-anarchists-gift-guide-day-5/>
+
+---
+
+## Last Day to Order for Christmas Delivery: Dec. 15
+
+date: 2024-11-30, from: Lost Arg Press blog
+
+Dec. 15 is the last day to place an order with Lost Art Press and be assured that it will arrive in time for Christmas.&#160; Our storefront will be open during weekdays up until Dec. 24. We are currently setting up the new storefront at 407 Madison Ave. Until that comes on line, we have... 
+
+<br> 
+
+<https://blog.lostartpress.com/2024/11/30/last-day-to-order-for-christmas-delivery-dec-15/>
+
+---
+
+## 96. Rocky Mountain Archtop Guitar Festival and the New Blue Guitars
+
+date: 2024-11-30, from: Luthier on Luthier with Michael Bashkin
+
+<div>Episode 96 of Luthier on Luthier is a collection of interviews from the 2024 Rocky Mountain Archtop Guitar Festival, sponsored by Henriksen Amplifiers. <br /> <br /> At the show, Cris Mirabella, Tyler Wells, and Maegan Wells each presented their guitars to the new Blue Guitars Collection. </div> <div> </div> <div>I sit down with each of them to hear their thoughts on the instruments and their construction.</div> <div> </div> <div>There is also a bonus interview with George Leach of the Phoenix Guitar Company, who just published a new book on guitar building. </div> <div> </div> <div>Patreon supporters: You can listen to the 2024 Blue Guitars presentation ceremony hosted Linda Manzer and Tom Ribbecke. Join us at <a href= "https://www.patreon.com/luthieronluthier">https://www.patreon.com/luthieronluthier</a> to hear the whole thing.</div> <div> </div> <div><strong>Links</strong></div> <div> </div> <div><a id="m_-7376045236234653344LPlnk692794" href= "https://theblueguitars.com/" target="_blank" rel="noopener" data-saferedirecturl= "https://www.google.com/url?q=https://theblueguitars.com/&source=gmail&ust=1733070215729000&usg=AOvVaw2LgFFBU1qRj0Qshw4ClD8C"> https://theblueguitars.com/</a></div> <div><a id="m_-7376045236234653344LPlnk324950" href= "https://www.lhtguitars.com/home-2" target="_blank" rel="noopener" data-saferedirecturl= "https://www.google.com/url?q=https://www.lhtguitars.com/home-2&source=gmail&ust=1733070215729000&usg=AOvVaw1ZXFAt31Rp21PNOMuE_2ss"> https://www.lhtguitars.com/<wbr />home-2</a></div> <div><a id="m_-7376045236234653344LPlnk198863" href= "https://www.mirabellaguitars.com/" target="_blank" rel="noopener" data-saferedirecturl= "https://www.google.com/url?q=https://www.mirabellaguitars.com/&source=gmail&ust=1733070215729000&usg=AOvVaw3HgJSx02PD8rue_RhtIsLe"> https://www.mirabellaguitars.<wbr />com/</a></div> <div><a id="m_-7376045236234653344LPlnk204029" href= "https://www.maegenwellsguitars.com/" target="_blank" rel= "noopener" data-saferedirecturl= "https://www.google.com/url?q=https://www.maegenwellsguitars.com/&source=gmail&ust=1733070215729000&usg=AOvVaw3MFLBjnToatmRC1X-x7-JP"> https://www.<wbr />maegenwellsguitars.com/</a></div> <div><a id="m_-7376045236234653344LPlnk787004" href= "https://www.phoenixguitarco.com/" target="_blank" rel="noopener" data-saferedirecturl= "https://www.google.com/url?q=https://www.phoenixguitarco.com/&source=gmail&ust=1733070215729000&usg=AOvVaw0l6uzPWzt7_J8STxVvGGw5"> https://www.phoenixguitarco.<wbr />com/</a></div> <p>Luthier on Luthier is hosted by Michael Bashkin of <a href= "https://www.bashkinguitars.com">Bashkin Guitars</a> and brought to you by the <a href= "https://shop.fretboardjournal.com/products/fretboard-journal-annual-subscription"> Fretboard Journal</a>. This episode is sponsored by <a href= "https://www.dreamguitars.com/">Dream Guitars</a> and <a href= "https://www.stewmac.com/?irclickid=VA-TmuXZ%3AxyPUn0Ut-05ZTupUkHUPAzGE2bmy00&utm_source=3755630&utm_medium=Impact&utm_campaign=3755630&utm_content=Online%20Tracking%20Link_1303370&irgwc=1&partner=Fretboard%20Journal&mpid=3755630&group="> StewMac</a>.</p> <p>Want to support Luthier on Luthier? <a href= "https://www.patreon.com/luthieronluthier">Join our Patreon</a> to get access to exclusive photos and content from Michael and his builds.</p> 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://traffic.libsyn.com/secure/luthieronluthier/LOL96.mp3?dest-id=480616"></source>
+</audio> <a href="https://traffic.libsyn.com/secure/luthieronluthier/LOL96.mp3?dest-id=480616" target="_blank">download audio/mpeg</a><br> 
+
+<https://luthieronluthier.libsyn.com/96-rocky-mountain-archtop-guitar-festival-and-the-new-blue-guitars>
 

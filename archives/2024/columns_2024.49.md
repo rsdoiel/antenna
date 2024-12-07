@@ -1,11 +1,278 @@
 ---
 title: columns
-updated: 2024-12-06 07:05:06
+updated: 2024-12-07 07:05:27
 ---
 
 # columns
 
-(date: 2024-12-06 07:05:06)
+(date: 2024-12-07 07:05:27)
+
+---
+
+## Times New Dumbass
+
+date: 2024-12-06, updated: 2024-12-06, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://timesnewdumbass.co/>
+
+---
+
+## Dithering
+
+date: 2024-12-06, updated: 2024-12-06, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://dithering.fm/>
+
+---
+
+## Plutocracies Thrive in Darkness
+
+date: 2024-12-06, from: Dan Rather's Steady
+
+Musk and the monied class are taking over 
+
+<br> 
+
+<https://steady.substack.com/p/plutocracies-thrive-in-darkness>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-06, from: Dave Winer's Scripting News)
+
+2018: I’m not picky about where I get new ideas. 
+
+<br> 
+
+<http://scripting.com/2024/12/06.html#a231440>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-06, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/06/02/siliconValley.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">As Trump's cabinet takes shape it's as if the cast of HBO's <a href="https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)">Silicon Valley</a> is taking over the US government. I'm glad to be alive. I really liked the show, it was incredible satire having lived through pretty much the whole thing, I swear some of the scenes felt like they were set in my backyard at the <a href="https://www.google.com/maps/place/425+Manzanita+Way,+Woodside,+CA+94062/@37.4190819,-122.2456472,17z/data=!3m1!4b1!4m6!3m5!1s0x808fa43ed53c41a9:0xbcf014b623ad584!8m2!3d37.4190819!4d-122.2456472!16s%2Fg%2F11kpj_zwpw?entry=ttu&g_ep=EgoyMDI0MTIwNC4wIKXMDSoASAFQAw%3D%3D">hacienda</a> in Woodside or at one of our <a href="https://www.google.com/maps/place/117+Easy+St,+Mountain+View,+CA+94043/@37.39296,-122.0678463,3a,75y,128.51h,107.93t/data=!3m7!1e1!3m5!1s_FgEwcZML_dZkN15oLSF3Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-17.927596927889255%26panoid%3D_FgEwcZML_dZkN15oLSF3Q%26yaw%3D128.5051923633588!7i16384!8i8192!4m6!3m5!1s0x808fb73b44beac6f:0x75582b6a9e573bd9!8m2!3d37.3923621!4d-122.0675319!16s%2Fg%2F11b8v422sp?entry=ttu&g_ep=EgoyMDI0MTIwNC4wIKXMDSoASAFQAw%3D%3D">offices</a>, esp in the early days of <a href="http://scripting.com/davenet/">DaveNet</a> and this blog or the early days of TechCrunch. 
+
+<br> 
+
+<http://scripting.com/2024/12/06.html#a223059>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-06, from: Dave Winer's Scripting News)
+
+When Bluesky was experiencing its huge post-election surge, it was exciting because lots of users were experiencing the surge in followers and engagement. It was exhilirating. That has slowed to nothing now, no more engagement there than on Threads, Masto or Twitter. The character limit on Bluesky being considerably less than the others makes it harder to rekindle interest imho. And btw the euphoria being gone is neither good or bad, it just is. 
+
+<br> 
+
+<http://scripting.com/2024/12/06.html#a222841>
+
+---
+
+## Friday Squid Blogging: Safe Quick Undercarriage Immobilization Device
+
+date: 2024-12-06, updated: 2024-12-04, from: Bruce Schneier blog
+
+<p>Fifteen years ago I <a href="https://www.schneier.com/blog/archives/2009/01/friday_squid_bl_166.html">blogged</a> about a different SQUID. Here&#8217;s an <a href="https://www.dhs.gov/archive/squid-long-and-sticky-arms-law">update</a>:</p>
+<blockquote><p>Fleeing drivers are a common problem for law enforcement. They just won’t stop unless persuaded­&#8212;persuaded by bullets, barriers, spikes, or snares. Each option is risky business. Shooting up a fugitive’s car is one possibility. But what if children or hostages are in it? Lay down barriers, and the driver might swerve into a school bus. Spike his tires, and he might fishtail into a van­&#8212;if the spikes stop him at all. Existing traps, made from elastic, may halt a Hyundai, but they’re no match for a Hummer. In addition, officers put themselves at risk of being run down while setting up the traps...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2024/12/friday-squid-blogging-safe-quick-undercarriage-immobilization-device.html>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-06, from: Dave Winer's Scripting News)
+
+ChatGPT is also a tutor. I'm learning new ways of coding SQL through drill and it's also improving my JavaScript code. It's infinitely impatient. It does make mistakes, but that's also good for the drill, catching the mistakes is instructive too. And in programming you always have to be looking for errors, because you'll almost always find them. "Runs the first time" is a rare occurrence, no matter who wrote the code." 
+
+<br> 
+
+<http://scripting.com/2024/12/06.html#a220057>
+
+---
+
+##  A Bluesky starter pack of major news outlets that have joined the... 
+
+date: 2024-12-06, updated: 2024-12-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045801-a-bluesky-starter-pack-of>
+
+---
+
+##  This Is What The Internet&#8217;s For 
+
+date: 2024-12-06, updated: 2024-12-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/this-is-what-the-internets-for>
+
+---
+
+##  404 Media, reporting on 404&#8217;d media: big health insurance companies are removing... 
+
+date: 2024-12-06, updated: 2024-12-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045803-404-media-reporting-on-40>
+
+---
+
+## December 5, 2024
+
+date: 2024-12-06, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/152673712/d4e208889f2097f800db428829e83fe6.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/152673712/d4e208889f2097f800db428829e83fe6.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/december-5-2024-8bb>
+
+---
+
+## ★ Don’t Throw the Baby Out With the Generative AI Bullshit Bathwater
+
+date: 2024-12-06, updated: 2024-12-07, from: Daring Fireball
+
+If I had wanted to write a column about presidential pardons, I’d find ChatGPT’s assistance a far better starting point than I’d have gotten through any general web search. But to quote Reagan: “Trust, but verify.” 
+
+<br> 
+
+<https://daringfireball.net/2024/12/dont_throw_the_baby_out_with_the_generative_ai_bullshit_bathwater>
+
+---
+
+##  98-Year-Old Dick Van Dyke Stars in Lovely New Coldplay Video 
+
+date: 2024-12-06, updated: 2024-12-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/dick-van-dyke-coldplay-video>
+
+---
+
+##  “The sound of traffic and a uniform sea of barley have been... 
+
+date: 2024-12-06, updated: 2024-12-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045793-the-sound-of-traffic-and>
+
+---
+
+##  The Collapse of Self-Worth in the Digital Age. &#8220;We&#8217;ve been cored like... 
+
+date: 2024-12-06, updated: 2024-12-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045784-the-collapse-of-self-wort>
+
+---
+
+##  After almost 25 years, Paul Krugman is retiring as a NYT opinion... 
+
+date: 2024-12-06, updated: 2024-12-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045800-after-almost-25-years-pau>
+
+---
+
+##  NASA&#8217;s Rocket Engine Fireplace 
+
+date: 2024-12-06, updated: 2024-12-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/nasas-rocket-engine-fireplace>
+
+---
+
+## I got the ADHD, too
+
+date: 2024-12-06, from: Dave Rupert blog
+
+<p>This month I got my official diagnosis for Adult ADHD. It’s fun to share experiences with <a href="https://bradfrost.com/blog/post/my-adhd-diagnosis-process/">friends</a>. While ADHD presents some new waters to navigate, it isn’t exactly news to me. Thanks to Dr. TikTok, I’ve suspected this outcome for a few years now. It’s nice to have a proper diagnosis though. If I’m struggling to focus or feeling overwhelmed, I know the probable root cause is how my brain processes dopamine and norepinephrine impacting my executive function.</p>
+<p>There are different flavors of ADHD, so I can only describe my experience:</p>
+<ul>
+<li>I crave “optimal stimulation” – 1 task = too little. 3-5 tasks = perfect, ideal. 6+ tasks = uh-oh, all the spinning plates come crashing down.</li>
+<li>I experience periods of hyperfocus – I often will lock in on an interesting problem and work for hours and forget to eat.</li>
+<li>Difficulty with tasks when overwhelmed – When overwhelmed (which is always, I have some generalized anxiety too), I’m unable to summon focus for even the smallest of tasks.</li>
+<li>Sensitivity to messy environments – Related to optimal stimulation, cluttered and messy environments (a common ADHD issue) creates a feeling of overwhelm for me.</li>
+<li>Sensory-seeking behaviors and fidgeting (classic restless leg syndrome)</li>
+<li>I don’t have the hyperactive part of ADHD.</li>
+<li>I’m pretty attentive and a good listener… until I’m not.</li>
+</ul>
+<p>I’ve developed a lot of coping and masking strategies over the years that have allowed me to maintain a decent level of productivity. In my 20s I used to manage this by brute force and caffeine. But now that I’m in my 40s with a lot more responsibilities and spinning plates, I feel the reins slipping a bit. To help with this, I’m trying out a non-stimulant sNRI medication that tries to repair that norepinephrine processing. It takes a week or so to fully activate so it’s not an instant fix, and to be honest I don’t quite know what to expect. I’m excited to see if it makes a difference but even if it doesn’t I’m happy to be on a journey.</p>
+<p>Anyways, cheers to unique brains.</p> 
+
+<br> 
+
+<https://daverupert.com/2024/12/adhd/>
+
+---
+
+##  &#8220;subtle foreshadowing&#8221; — I laughed unbelievably hard at this, just absolutely gasping... 
+
+date: 2024-12-06, updated: 2024-12-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/24/12/0045787-subtle-foreshadowing-i-la>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-06, from: Dave Winer's Scripting News)
+
+I'm getting a new <a href="https://www.google.com/search?q=site%3Ascripting.com+%22apple+watch%22">Apple Watch</a> today, the latest model. My current watch, which I wear all the time (except when it's charging) is a 5th gen. The new one is 10th. I had to upgrade because there's a Tesla watch app out now that won't run on my old watch. It's the most rational add-on for the car. A must-have. 
+
+<br> 
+
+<http://scripting.com/2024/12/06.html#a151018>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-12-06, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2022/05/08/teslaModelY.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I drive a <a href="https://www.google.com/search?q=site%3Ascripting.com+tesla">Tesla Model Y</a>, the best car I've ever owned. I wish Elon Musk wasn't associated with it. If there were a good alternative to the Tesla, I would divest in a minute. I could afford to do it and would welcome the opportunity. 
+
+<br> 
+
+<http://scripting.com/2024/12/06.html#a150415>
 
 ---
 
@@ -82,7 +349,7 @@ why, if I were a French noble in the 1780s, I would simply remind commoners abou
 
 ## Festivitas — Holiday Lights for Your Mac Menu Bar and Dock
 
-date: 2024-12-06, updated: 2024-12-06, from: Daring Fireball
+date: 2024-12-06, updated: 2024-12-07, from: Daring Fireball
 
  
 
@@ -365,7 +632,7 @@ Looking for more excellent <a href="https://this.how/wordland/">WordLand</a> bug
 
 date: 2024-12-05, updated: 2024-12-05, from: Liam Proven's articles at the Register
 
-<h4>Another buzzword box ticked: OSI-compliant containers</h4>
+<h4>Another buzzword box ticked: OCI-compliant containers</h4>
       <p>FreeBSD 14.2, the latest point release of the most widely used of the BSDs, brings some new features to tempt Docker fans.</p> 
 
 <br> 
@@ -2254,4 +2521,153 @@ Cas Mudde, a political scientist who specializes in extremism and democracy, obs
 <br> 
 
 <https://heathercoxrichardson.substack.com/p/november-30-2024>
+
+---
+
+## Wabi-Sabi of Vintage Digicams
+
+date: 2024-11-30, from: Om Malik blog
+
+When reading this story about the growing popularity of vintage digital cameras in Wired, I was reminded of this quote by Don Draper from the television series Mad Men: “Nostalgia &#8211; its delicate, but potent. Teddy told me that in Greek nostalgia literally means “the pain from an old wound.” It’s a twinge in your &#8230; 
+
+<br> 
+
+<https://om.co/2024/11/30/wabi-sabi-of-vintage-digicams/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-30, from: Dave Winer's Scripting News)
+
+I wasn't clear enough <a href="http://scripting.com/2024/11/29.html#a133619">yesterday</a>. We're losing the word "podcast" very quickly. It's coming to mean video interviews on YouTube mostly. Our only hope is upgrading the open platform in a way that stimulates the imagination of creators, and there's no time to waste. If you make a podcast client, it's time to start collaborating with competitors and people who create RSS-based podcasts to take advantage of the open platforms, otherwise having a podcast will mean getting approved by Google, Apple, Spotify, Amazon etc. And they, as we know, are nuzzling up to the new government, who will want to impose severe limits. This isn't a casual <a href="http://scripting.com/2024/11/29.html#a133619">request</a>, it's <i>urgent.</i> 
+
+<br> 
+
+<http://scripting.com/2024/11/30.html#a161924>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-30, from: Dave Winer's Scripting News)
+
+I've been working on a <a href="https://this.how/bingeworthy/#1732982916000">reboot of Bingeworthy</a> over the last few days. 
+
+<br> 
+
+<http://scripting.com/2024/11/30.html#a161338>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-30, from: Dave Winer's Scripting News)
+
+Today's song: <a href="https://www.youtube.com/watch?v=Qa4An7uzPeg">I guess the lord must be in New York City</a>. 
+
+<br> 
+
+<http://scripting.com/2024/11/30.html#a160255>
+
+---
+
+## 2024-11-15 Episode 51
+
+date: 2024-11-30, from: Alex Schroeder's Blog
+
+<h1 id="2024-11-15-episode-51">2024-11-15 Episode 51</h1>
+
+<p>I wanted to talk about Halberds &amp; Helmets but I ended up talking about 2d6 systems and how to model armour and shields. Oh no!</p>
+
+<p>It seems to me that I keep coming back to this because I want something out of it and I&rsquo;m not getting it and I&rsquo;m also not getting any closer.</p>
+
+<p><a href="/podcast/51-halberds-and-helmets.mp3">51-halberds-and-helmets.mp3</a></p>
+
+<p>Links:</p>
+
+<ul>
+<li><a href="Halberds_and_Helmets">Halberds and Helmets</a>, based on <em>Labyrinth Lord</em>, an old school fantasy RPG</li>
+<li><a href="Halberts">Halberts</a> &amp; <a href="Knives">Knives</a>, my minimal 2d6-based Fantasy Traveller games based on the German <em>Helmbarten</em></li>
+<li><a href="2022-02-10_No_armour_in_Helmbarten!">2022-02-10 No armour in Helmbarten!</a>, where I argue that Helmbarten has no armour at all</li>
+<li><a href="2019-03-19_Metal_Armour">2019-03-19 Metal Armour</a>, where I discuss other benefits of armour for Halberds &amp; Helmets</li>
+</ul>
+
+<p><a class="tag" href="/search/?q=%23Halberds_and_Helmets_Podcast">#Halberds and Helmets Podcast</a></p>
+
+<p><strong>2024-11-30</strong>. More about armour:</p>
+
+<blockquote>
+<p>Instead, where real armors evolve against <em>threats</em>, fictional armors evolve as a visual language, borrowing the design elements of <em>other fictional armors</em> far more often than they dip into their own historical exemplars, with the result that the whole thing sort of devours itself. … That solution – small metal plates connected to each other, rather than a backing – we call <strong>lamellar armor</strong> and it was <em>very common</em> in a wide range of cultures, but it has very little purchase in modern fantasy or science fiction armor designs, I think primarily because it was not included in the <em>Dungeons and Dragons</em> armor system. Nevertheless, lamellar armor was quite common in a wide range of cultures: we see it in the Near East, in Europe, in China and in Japan. &ndash; <a href="https://acoup.blog/2024/11/29/collections-the-problem-with-sci-fi-body-armor/">Collections: The Problem with Sci-Fi Body Armor</a>, by Bret Devereaux</p>
+</blockquote> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2024-11-15-episode-51>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-11-30, from: Dave Winer's Scripting News)
+
+<a href="https://this.how/podcasting/">Heres's where</a> I'll post ideas to help podcasting stay open. 
+
+<br> 
+
+<http://scripting.com/2024/11/30.html#a140119>
+
+---
+
+## This is NOT Trump’s America! | The Coffee Klatch, November 30, 2024
+
+date: 2024-11-30, from: Robert Reich's blog
+
+With Heather Lofthouse and Yours Truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/152211259/c9dad5c2a2883c82c6947c88014b0fd9.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/152211259/c9dad5c2a2883c82c6947c88014b0fd9.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/this-is-not-trumps-america-the-coffee>
+
+---
+
+## ChatGPT is two today
+
+date: 2024-11-30, from: John Naughton's online diary
+
+So I thought I&#8217;d ask it a question. Me: Today is your second birthday. If you could feel how do you think you’d feel about being two years old. This is a serious question so please don’t be flippant. ChatGPT: &#8230; <a href="https://memex.naughtons.org/chatgpt-is-two-today/40141/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/chatgpt-is-two-today/40141/>
+
+---
+
+## November 29, 2024 
+
+date: 2024-11-30, from: Heather Cox Richardson blog
+
+In 2008, Congress passed and President George W. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/november-29-2024>
+
+---
+
+## Weeknotes: Nov. 23-29, 2024
+
+date: 2024-11-30, from: Tracy Durnell Blog
+
+Highlight of the week: having a couple total lounge days Looking forward to: long weekend! Stuff I did: 9.5 hours consulting &#8212; wrapped up one of my projects took Thursday and Friday off work big fridge purge after the power outage ordered a new fridge! We have a 15-20 year old side by side and are excited [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2024/11/29/weeknotes-nov-23-29-2024/>
+
+---
+
+## Lessons learned from burning things.
+
+date: 2024-11-30, updated: 2024-11-30, from: Anil Dash blog
+
+ 
+
+<br> 
+
+<https://anildash.com/2024/11/30/making-fire/>
 

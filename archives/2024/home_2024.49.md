@@ -1,11 +1,415 @@
 ---
 title: home
-updated: 2024-12-06 07:05:08
+updated: 2024-12-07 07:05:29
 ---
 
 # home
 
-(date: 2024-12-06 07:05:08)
+(date: 2024-12-07 07:05:29)
+
+---
+
+## In the Field: Mapping the Central Coast
+
+date: 2024-12-06, from: California Native Plants Society
+
+<p>The Central Coast is a hotspot of biological diversity within a state that belongs to one of the world’s 36 biodiversity hotspots. This dynamic creates a host of microhabitats, which weave a unique floral tapestry of plants, both common and rare, unlike anywhere else in California.</p>
+<p>The post <a href="https://www.cnps.org/in-the-field/in-the-field-mapping-the-central-coast-41403">In the Field: Mapping the Central Coast</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/in-the-field/in-the-field-mapping-the-central-coast-41403>
+
+---
+
+## Over 300,000 RAM Trucks Recalled Over Dangerous Brake Defect
+
+date: 2024-12-06, from: Family Handyman Blog
+
+<p>RAM trucks are being recalled for a risky brake defect. Find out if your truck is on the list and how to get it fixed for free. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/stellantis-ram-truck-brakes-recall/">Over 300,000 RAM Trucks Recalled Over Dangerous Brake Defect</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/stellantis-ram-truck-brakes-recall/>
+
+---
+
+## Garden Path Ideas That Are Easy, Cheap and Low-Maintenance
+
+date: 2024-12-06, from: Family Handyman Blog
+
+<p>Here are three kinds of affordable garden paths you can build in a weekend. All you'll need are a few simple tools and some elbow grease. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/garden-path-ideas-affordable-easy/">Garden Path Ideas That Are Easy, Cheap and Low-Maintenance</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/garden-path-ideas-affordable-easy/>
+
+---
+
+## 13 Retro Car Features We’re Nostalgic For
+
+date: 2024-12-06, from: Family Handyman Blog
+
+<p>From 8-tracks to curb feelers, we miss many of the cool features from the 1950s, '60s, '70s, '80s, and even the '90s that made driving fun but no longer exist in today's vehicles.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/old-car-features/">13 Retro Car Features We’re Nostalgic For</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/old-car-features/>
+
+---
+
+## The Sounds of a Creek Fill This $1.4M Midcentury in North Vancouver
+
+date: 2024-12-06, from: Dwell
+
+Architect Fred Hollingsworth designed the woodsy residence, which was built in 1950 and has been owned by the same family ever since. 
+
+<br> 
+
+<https://www.dwell.com/article/fred-hollingsworth-forster-creek-house-midcentury-north-vancouver-real-estate-fb645730>
+
+---
+
+## Hotels, Inns, and More
+
+date: 2024-12-06, from: Sunset Magazine - Living in the West
+
+Staying in the right hotels can make or break a vacation. Get our recommendations for great bargains, most unique sleeps, coastal stays, and more Western accommodations. 
+
+<br> 
+
+<https://www.sunset.com/travel/hotels>
+
+---
+
+## Travel the West
+
+date: 2024-12-06, from: Sunset Magazine - Living in the West
+
+The West is cities and small towns, national parks and wine country, natural wonders and manmade amusements. We have all the tips, guides, ideas, and road-trip routes you need to plan an adventure! 
+
+<br> 
+
+<https://www.sunset.com/travel>
+
+---
+
+## Family
+
+date: 2024-12-06, from: Sunset Magazine - Living in the West
+
+Inspiration for family living: designing, cooking, traveling, and more with kids in tow. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/family>
+
+---
+
+## Wellness
+
+date: 2024-12-06, from: Sunset Magazine - Living in the West
+
+Everyday inspiration for balanced, healthy living. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/wellness>
+
+---
+
+## Budget Breakdown: Three Friends Build a $940K Home Near Joshua Tree That Breaks With Boho Vibes
+
+date: 2024-12-06, from: Dwell
+
+The dark-green outpost in Landers, California, is now on the market at $1.4M, objets d’art and high desert views included. 
+
+<br> 
+
+<https://www.dwell.com/article/budget-breakdown-goat-mountain-house-brian-ware-joshua-tree-modernist-home-ae000028>
+
+---
+
+## 8 Must-Know Tips to Drought-Proof Your Lawn
+
+date: 2024-12-06, from: Family Handyman Blog
+
+<p>Prepare your lawn to withstand the next drought with these simple, effective tips.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/how-to-drought-proof-your-lawn/">8 Must-Know Tips to Drought-Proof Your Lawn</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/how-to-drought-proof-your-lawn/>
+
+---
+
+## Gifts & Shopping
+
+date: 2024-12-06, from: Sunset Magazine - Living in the West
+
+One-of-a-kind gifts to spread holiday cheer, including picks for everyone on your list, from gardeners and travelers to parents and pets. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping>
+
+---
+
+## Lifestyle
+
+date: 2024-12-06, from: Sunset Magazine - Living in the West
+
+Lifestyle ideas and inspiration for every life stage, from gift guides and gear recommendations to wedding planning, living with kids and pets, and saving for home remodels. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle>
+
+---
+
+## Outdoor Living
+
+date: 2024-12-06, from: Sunset Magazine - Living in the West
+
+Update your outdoor living areas with our design and decorating tips on patios, decks, sheds, and more. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/outdoor-living>
+
+---
+
+## Flowers & Plants
+
+date: 2024-12-06, from: Sunset Magazine - Living in the West
+
+The very best flowers and plants for your garden's climate zone. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/plants>
+
+---
+
+## Landscaping
+
+date: 2024-12-06, from: Sunset Magazine - Living in the West
+
+Get landscaping ideas and inspiration from our gardening experts to design your own backyard or garden oasis. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/landscaping>
+
+---
+
+## Garden Basics
+
+date: 2024-12-06, from: Sunset Magazine - Living in the West
+
+Learn how to start your own home garden with our gardening experts&apos; tips and tutorials 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics>
+
+---
+
+## Decorating & Design
+
+date: 2024-12-06, from: Sunset Magazine - Living in the West
+
+Transform your home with our decorating tips, including ideas for small spaces, DIY projects, home design, and more. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design>
+
+---
+
+## Home Tours
+
+date: 2024-12-06, from: Sunset Magazine - Living in the West
+
+Take a peek at our favorite homes around the West, from modern cabins to mid-century ranch houses 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours>
+
+---
+
+## Home & Garden
+
+date: 2024-12-06, from: Sunset Magazine - Living in the West
+
+Great home and garden design ideas, from decorating and DIY projects to landscaping and edible gardening tips from Sunset magazine. 
+
+<br> 
+
+<https://www.sunset.com/home-garden>
+
+---
+
+## Wine & Drinks
+
+date: 2024-12-06, from: Sunset Magazine - Living in the West
+
+Pair wine like a pro with our wine guide. Find the best wine for every meal, including burgers, pizza, steak, and more 
+
+<br> 
+
+<https://www.sunset.com/food-wine/wine-pairings>
+
+---
+
+## Recipes
+
+date: 2024-12-06, from: Sunset Magazine - Living in the West
+
+Search Sunset's collection of great recipes for every occasion. From quick weekday meals to indulgent holiday menus, we share the best in Western cooking. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant>
+
+---
+
+## Food and Drink
+
+date: 2024-12-06, from: Sunset Magazine - Living in the West
+
+Delicious recipes, food and wine pairings, and more ways to savor the West. 
+
+<br> 
+
+<https://www.sunset.com/food-wine>
+
+---
+
+## A Couple Was So Obsessed with Teal and Blue That They Bathed Their Entire Condo in the Colors
+
+date: 2024-12-06, from: Sunset Magazine - Living in the West
+
+A couple loved the blue and teal so much that they made it the whole color palette of their condo. It's now a tranquil space. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/blue-palette-mission-district-condo>
+
+---
+
+## Sunset.com Home Page
+
+date: 2024-12-06, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## Ocean Views Abound in This Open and Airy Coastal Modern Home
+
+date: 2024-12-06, from: Sunset Magazine - Living in the West
+
+Serendipity and smart design converge in a Southern Californian coastal home renovation project, in which ocean views take center stage. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/ocean-views-socal-coastal-home-renovation>
+
+---
+
+## Watch What Happens Inside Your Dishwasher When You Run It
+
+date: 2024-12-06, from: Family Handyman Blog
+
+<p>Dishwashers are a kitchen miracle, but do you know exactly what happens inside your dishwasher when it cleans your dishes?</p>
+<p>The post <a href="https://www.familyhandyman.com/article/what-happens-inside-dishwasher-video/">Watch What Happens Inside Your Dishwasher When You Run It</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/what-happens-inside-dishwasher-video/>
+
+---
+
+## A Brentwood Family Home Was Too Dark and Had a Bad Layout—Now It’s Light, Airy, and Functional for Three Generations
+
+date: 2024-12-06, from: Sunset Magazine - Living in the West
+
+A family's Brentwood home was too dark and didn't have a good layout flow. Designer Linda Hayslett turned it into a bright and airy space. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/brentwood-family-home-remodel>
+
+---
+
+## How to Encourage Poinsettia Plants to Rebloom
+
+date: 2024-12-06, from: The Gardener's Path
+
+<p>Poinsettias aka Christmas flowers are a classic part of holiday decor with their bright red bracts and deep green leaves. Did you know that with a bit of effort you can encourage these tropical plants to rebloom next year? Learn how to set up the right conditions for poinsettia to bloom in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/houseplants/poinsettia-rebloom/">How to Encourage Poinsettia Plants to Rebloom</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/houseplants/poinsettia-rebloom/>
+
+---
+
+## Honda Recalls Over 200,000 SUVs Over Defect That Could Cause Fires
+
+date: 2024-12-06, from: Family Handyman Blog
+
+<p>A fuel system defect in certain Honda Pilot and Passport models could increase the risk of fire in a crash. Learn which vehicles are affected, why this is happening, and how to stay safe.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/honda-pilot-passport-fuel-leak-recall/">Honda Recalls Over 200,000 SUVs Over Defect That Could Cause Fires</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/honda-pilot-passport-fuel-leak-recall/>
+
+---
+
+## The Gocheer Dehumidifier Is the Best Home Product We Tested in 2024
+
+date: 2024-12-06, from: Family Handyman Blog
+
+<p>A dehumidifier is necessary for keeping your home comfortable. This Gocheer model is quiet and compact enough to fit on a nightstand.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/gocheer-dehumidifier-best-of-2024/">The Gocheer Dehumidifier Is the Best Home Product We Tested in 2024</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/gocheer-dehumidifier-best-of-2024/>
+
+---
+
+## 7 Holiday Gift Ideas for Native Plant Lovers
+
+date: 2024-12-05, from: California Native Plants Society
+
+<p>Shopping for the holidays is now easier and more sustainable with the CNPS guide to 7 gifts for native plant lovers.</p>
+<p>The post <a href="https://www.cnps.org/life-with-plants/7-eco-friendly-holiday-gift-ideas-41384">7 Holiday Gift Ideas for Native Plant Lovers</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/life-with-plants/7-eco-friendly-holiday-gift-ideas-41384>
 
 ---
 
@@ -348,18 +752,6 @@ Pantone just announced its 2025 Color of the Year and its a simple, yet rich bro
 <br> 
 
 <https://www.sunset.com/home-garden/design/mocha-mousse-2025-pantone-color-of-the-year>
-
----
-
-## Sunset.com Home Page
-
-date: 2024-12-05, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 
@@ -894,6 +1286,18 @@ Enjoy all the perks of a hotel like a concierge, valet, restaurant and cleaning 
 
 ---
 
+## This $3.5M Net-Zero Home in Boulder Has Sweeping Views and Thoughtful Details
+
+date: 2024-12-03, from: Dwell
+
+Who doesn’t want to live on a street named Old Sunshine Trail? 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-sunshine-canyon-boulder-real-estate-a0dffefa>
+
+---
+
 ## A Modern Villa in Verbania Comes With Panoramic Lake Views and a Spa
 
 date: 2024-12-03, from: Dwell
@@ -1072,18 +1476,6 @@ date: 2024-12-02, from: Dwell
 
 ---
 
-## Travel the West
-
-date: 2024-12-02, from: Sunset Magazine - Living in the West
-
-The West is cities and small towns, national parks and wine country, natural wonders and manmade amusements. We have all the tips, guides, ideas, and road-trip routes you need to plan an adventure! 
-
-<br> 
-
-<https://www.sunset.com/travel>
-
----
-
 ## An ’80s Gem by Charles Gwathmey Seeks $8M in Rural Connecticut
 
 date: 2024-12-02, from: Dwell
@@ -1093,18 +1485,6 @@ Set on 41 private acres, the sculptural home revolves around a massive double-he
 <br> 
 
 <https://www.dwell.com/article/1980s-home-charles-gwathmey-kent-connecticut-real-estate-3bbd0807>
-
----
-
-## Food and Drink
-
-date: 2024-12-02, from: Sunset Magazine - Living in the West
-
-Delicious recipes, food and wine pairings, and more ways to savor the West. 
-
-<br> 
-
-<https://www.sunset.com/food-wine>
 
 ---
 
@@ -1217,4 +1597,19 @@ date: 2024-12-01, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/succulents/yellow-leaves-yucca/>
+
+---
+
+## 20 Types of Bluebell Flowers with Pictures and Names
+
+date: 2024-11-30, from: Yard Life blog
+
+<p>Bluebell flowers are admired worldwide for their enchanting bell-shaped blooms, vibrant colors, and symbolic meanings. In this guide, we’ll explore ... </p>
+<p class="read-more-container"><a title="20 Types of Bluebell Flowers with Pictures and Names" class="read-more button" href="https://ownyardlife.com/20-types-of-bluebell-flowers-with-pictures-and-names/#more-21911" aria-label="Read more about 20 Types of Bluebell Flowers with Pictures and Names">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/20-types-of-bluebell-flowers-with-pictures-and-names/">20 Types of Bluebell Flowers with Pictures and Names</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/20-types-of-bluebell-flowers-with-pictures-and-names/>
 

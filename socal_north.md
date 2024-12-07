@@ -1,11 +1,217 @@
 ---
 title: socal north
-updated: 2024-12-06 07:05:05
+updated: 2024-12-07 07:05:26
 ---
 
 # socal north
 
-(date: 2024-12-06 07:05:05)
+(date: 2024-12-07 07:05:26)
+
+---
+
+## Applications Now Being Accepted for City’s Planning Commissioner Position
+
+date: 2024-12-06, from: City of Santa Clarita
+
+<p>The City of Santa Clarita encourages interested and qualified residents to apply for an unscheduled vacancy position on the City’s Planning Commission as a result of Patsy Ayala’s election to the District 1 seat on the Santa Clarita City Council. The unexpired term ends December 31, 2026. The Planning Commission advises the City Council on [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/12/06/applications-now-being-accepted-for-citys-planning-commissioner-position-2/">Applications Now Being Accepted for City&#8217;s Planning Commissioner Position</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/12/06/applications-now-being-accepted-for-citys-planning-commissioner-position-2/>
+
+---
+
+## Warm and dry weather this weekend
+
+date: 2024-12-06, updated: 2024-12-06, from: The LAist
+
+Friday and Saturday to be the warmest days of the week. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/warm-and-dry-weather-this-weekend>
+
+---
+
+## Why we see unhealthy air over the holidays
+
+date: 2024-12-06, updated: 2024-12-06, from: The LAist
+
+Wildfires, fireworks, and fireplaces can have a serious impact on air quality in SoCal. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/unhealthy-air-socal-holidays-explained>
+
+---
+
+## Slingshot spiders rely on good vibrations to catch supper
+
+date: 2024-12-06, updated: 2024-12-06, from: The LAist
+
+The tiny ray spider uses launches its web to grab its prey out of the air. Though common practice in the superhero world, this ability is actually unusual in spiders. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/slingshot-spiders-rely-on-good-vibrations-to-catch-supper>
+
+---
+
+## Avalon captures CIF-SS championship
+
+date: 2024-12-06, from: Catalina Islander
+
+It might have been fate. It may have been divine intervention. It was definitely something from within. Something took over the Avalon High football team this year and it propelled a group of boys over the top this year, as the Lancers captured the second CIF-SS Eight-man Football Championship in school history. As the 100-year [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/avalon-captures-cif-ss-championship/>
+
+---
+
+## Upcoming programs at Avalon Public Library
+
+date: 2024-12-06, from: Catalina Islander
+
+For the Islander Creation Station. Tuesday, Dec. 10 at 4 p.m.: Join us to make your own wooden model airplane! Loteria! Tuesday, Dec. 10 at 6 p.m.: Come learn how to play the wonderful Mexican Bingo game Loteria! Candy for prizes! Ages 11 and up Everything You Ever Wanted to Know About Catalina But Are [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/upcoming-programs-at-avalon-public-library/>
+
+---
+
+## Community set to honor Lolo Saldana
+
+date: 2024-12-06, from: Catalina Islander
+
+If smiles were currency, Lolo Saldana left this earth having earned a fortune in goodwill. Remarkably, Lolo seemingly achieved so much with the mere power of good intentions, love of country, and living with a humble heart. Lolo passed away on Dec. 1 after living an enchanted life of 95 years. “Lolo is already being [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/community-set-to-honor-lolo-saldana/>
+
+---
+
+## Avalon approves plan to build kids park
+
+date: 2024-12-06, from: Catalina Islander
+
+By Charles M. Kelly The City Council recently approved a proposal to buy and build Avalon Kids Park. The money would be reallocated to the project from Avalon’s Capital Improvement Funds that came from Prop. 68 to enhance park infrastructure, according to the Nov. 19 staff report by Community Services Manager David Hart. Avalon will [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/avalon-approves-plan-to-build-kids-park/>
+
+---
+
+## Threat prompts California legislators, staffers to evacuate state Capitol
+
+date: 2024-12-06, updated: 2024-12-06, from: The LAist
+
+The Office of the Secretary of the Senate says law enforcement is working to determine the threat’s credibility. 
+
+<br> 
+
+<https://laist.com/news/politics/california-state-capitol-evacuated-threat>
+
+---
+
+## Harbor Activity Report November 2024
+
+date: 2024-12-06, from: Catalina Islander
+
+Courtesy of Avalon Harbor Department This Thanksgiving weekend was beautiful (minus the Small Craft Advisory on Thanksgiving night!). We had the pleasure of two visiting yacht clubs, Shoreline (18 boats) and Horizon. We very much appreciate the off-season visits. The weather was interesting: This November saw the coldest high temperature since 2011, the coldest low [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/harbor-activity-report-november-2024/>
+
+---
+
+## Did your county back Trump more this time than in 2020?
+
+date: 2024-12-06, updated: 2024-12-06, from: The LAist
+
+President-elect Donald Trump increased his vote share in 45 of 58 counties in the 2024 California election results. 
+
+<br> 
+
+<https://laist.com/news/did-your-county-back-trump-more-this-time-than-in-2020>
+
+---
+
+## How is California’s big plan to get help for people living with mental illness going in LA? Depends on who you ask
+
+date: 2024-12-06, updated: 2024-12-06, from: The LAist
+
+One year in, L.A. County has received about 15% of the petitions it was projected to have during the first six months of CARE Court. 
+
+<br> 
+
+<https://laist.com/news/health/how-is-californias-big-plan-to-get-help-for-people-living-with-mental-illness-going-in-la-depends-on-who-you-ask>
+
+---
+
+## It’s time to get rid of those Thanksgiving leftovers in your fridge
+
+date: 2024-12-06, updated: 2024-12-07, from: The LAist
+
+Experts say stick with USDA rules: four days then dump; but here’s how to make your next holiday leftovers last. 
+
+<br> 
+
+<https://laist.com/news/food/get-rid-of-those-thanksgiving-leftovers-in-your-fridge>
+
+---
+
+## NASA delays Artemis II human moon mission once again as it wraps up heat shield investigation
+
+date: 2024-12-06, updated: 2024-12-06, from: The LAist
+
+The mission to take four astronauts on a trip around the moon and back, previously targeting a launch at the end of 2025, has been delayed until at least April 2026. 
+
+<br> 
+
+<https://laist.com/news/nasa-delays-artemis-ii-human-moon-mission-once-again-as-it-wraps-up-heat-shield-investigation>
+
+---
+
+## California's first wireless charging road is coming to UCLA. Here's how it'll work
+
+date: 2024-12-06, updated: 2024-12-06, from: The LAist
+
+As part of an almost $20 million grant, UCLA will install the state's first electric charging roadway that will allow its BruinBus fleet to charge on the go. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/californias-first-wireless-charging-road-is-coming-to-ucla-heres-what-to-expect>
+
+---
+
+## Andrew Do is out, Janet Nguyen is in. What does that mean for District 1 in Orange County?
+
+date: 2024-12-06, updated: 2024-12-06, from: The LAist
+
+Nguyen says she wants to restore public trust and prioritize efficiency. 
+
+<br> 
+
+<https://laist.com/news/politics/andrew-do-is-out-janet-nguyen-is-in-what-does-that-mean-for-district-1-in-orange-county>
+
+---
+
+## Actor Issa Rae opens new restaurant in South LA
+
+date: 2024-12-06, updated: 2024-12-06, from: The LAist
+
+Located along the Slauson Corridor, Somerville is designed to be “a tribute to South Central L.A.’s Golden Age.” 
+
+<br> 
+
+<https://laist.com/news/food/actor-issa-rae-opens-new-restaurant-in-south-la>
 
 ---
 
@@ -30,30 +236,6 @@ Pacific Standard Time vocal jazz ensemble prepares for their cultural exchange t
 <br> 
 
 <https://laist.com/news/arts-and-entertainment/cal-state-long-beach-jazz-ensemble-caribbean>
-
----
-
-## Actor Issa Rae opens new restaurant in South LA
-
-date: 2024-12-06, updated: 2024-12-06, from: The LAist
-
-Located along the Slauson Corridor, Somerville is designed to be “a tribute to South Central L.A.’s Golden Age.” 
-
-<br> 
-
-<https://laist.com/news/food/actor-issa-rae-opens-new-restaurant-in-south-la>
-
----
-
-## Andrew Do is out, Janet Nguyen is in. What does that mean for District 1 in Orange County?
-
-date: 2024-12-06, updated: 2024-12-06, from: The LAist
-
-Nguyen says she wants to restore public trust and prioritize efficiency. 
-
-<br> 
-
-<https://laist.com/news/politics/andrew-do-is-out-janet-nguyen-is-in-what-does-that-mean-for-district-1-in-orange-county>
 
 ---
 
@@ -158,7 +340,7 @@ Shaking was likely felt as far away as Santa Maria and briefly prompted a tsunam
 date: 2024-12-05, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 <figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241205_172159207-modified-scaled.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241205_172159207-modified-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241205_172159207-modified-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241205_172159207-modified-scaled.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241205_172159207-modified-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241205_172159207-modified-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241205_172159207-modified-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241205_172159207-modified-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241205_172159207-modified-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241205_172159207-modified-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241205_172159207-modified-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241205_172159207-modified-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241205_172159207-modified-scaled.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241205_172159207-modified-scaled.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241205_172159207-modified-scaled.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241205_172159207-modified-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2024/12/PXL_20241205_172159207-modified-scaled.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>There was heavy police activity led by the Los Angeles Police Department (LAPD) reported near the intersection of Brand Boulevard and Kewen Street in the City of San Fernando this [&#8230;]</p>
+<p>There was heavy police activity led by the Los Angeles Police Department (LAPD) reported near the intersection of Brand Boulevard and Kewen Street in the City of San Fernando at [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2024/12/05/lapd-presence-reported-on-brand-blvd-in-san-fernando/">LAPD Presence Reported on Brand Blvd. in San Fernando</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
 
@@ -179,6 +361,18 @@ date: 2024-12-05, from: City of Santa Clarita
 <br> 
 
 <https://santaclarita.gov/blog/2024/12/05/disneys-frozen-comes-to-life-at-the-cube/>
+
+---
+
+## Best things to do this weekend in LA and SoCal: Dec. 6 - 8
+
+date: 2024-12-05, updated: 2024-12-06, from: The LAist
+
+Tree lightings around town, the MLS Cup Final, VinylFest, a celebration of Alan Turing at Caltech, and more. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-this-weekend-los-angeles-southern-california-dec-6-8>
 
 ---
 
@@ -619,7 +813,7 @@ date: 2024-12-02, from: City of Santa Clarita
 
 ## Landlords are using AI to raise rents — and California cities are leading the pushback
 
-date: 2024-12-02, updated: 2024-12-02, from: The LAist
+date: 2024-12-02, updated: 2024-12-06, from: The LAist
 
 California and federal prosecutors have accused software company RealPage of enriching itself ”at the expense of renters who pay inflated prices.” 
 
@@ -906,4 +1100,102 @@ The country's premier museum about the Japanese American experience is undergoin
 <br> 
 
 <https://laist.com/news/japanese-american-national-museum-janm-closes>
+
+---
+
+## Monday likely to bring busy Thanksgiving return traffic, AAA says
+
+date: 2024-11-30, updated: 2024-12-01, from: The LAist
+
+Increased holiday traffic is projected for Sunday afternoon and evening, and Monday morning’s rush hour may also be busier due to return travelers, according to AAA. 
+
+<br> 
+
+<https://laist.com/news/transportation/sunday-and-monday-could-bring-busy-thanksgiving-return-traffic-says-aaa>
+
+---
+
+## Shop Local, Eat Local This Holiday Season­
+
+date: 2024-11-30, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin As the holiday season unfolds, it’s the ideal time to emphasize the importance of supporting our local businesses. By choosing to shop and dine within our community, you’re making a direct impact on our City’s economy. Every purchase helps create jobs, boost tax revenue and enhance the overall quality of [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/11/30/shop-local-eat-local-this-holiday-season/">Shop Local, Eat Local This Holiday Season­</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2024/11/30/shop-local-eat-local-this-holiday-season/>
+
+---
+
+## The price America paid for its first big immigration crackdown
+
+date: 2024-11-30, updated: 2024-11-30, from: The LAist
+
+The Chinese Exclusion Act is widely considered to be the first significant crackdown on immigration in American history. 
+
+<br> 
+
+<https://laist.com/news/the-price-america-paid-for-its-first-big-immigration-crackdown>
+
+---
+
+## All I want for Christmas is ... help getting this song out of my head
+
+date: 2024-11-30, updated: 2024-11-30, from: The LAist
+
+The Earworm Eraser is a 40-second audio track specifically designed to banish "Jingle Bells," "All I Want For Christmas Is You" and other much-too-catchy seasonal tunes. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/all-i-want-for-christmas-is-help-getting-this-song-out-of-my-head>
+
+---
+
+## Here's why bird flu fears are intensifying
+
+date: 2024-11-30, updated: 2024-12-01, from: The LAist
+
+Efforts to contain the virus are falling short. A teenager in Canada is in critical condition after an unexplained infection. And the arrival of flu season has scientists on edge. 
+
+<br> 
+
+<https://laist.com/news/health/heres-why-bird-flu-fears-are-intensifying>
+
+---
+
+## Let's do good: Toy drives, volunteering opportunities and more in LA this holiday season
+
+date: 2024-11-30, updated: 2024-11-30, from: The LAist
+
+As we enter the last month of 2024, here's a list of events — from toy drives to fundraisers to volunteering opportunities — to give back to our communities. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/lets-do-good-toy-drives-volunteering-opportunities-and-more-in-la-this-holiday-season>
+
+---
+
+## It's Shop Local Saturday. Here's why that matters to local businesses
+
+date: 2024-11-30, updated: 2024-11-30, from: The LAist
+
+There’s just something special about shopping IRL this time of the year. 
+
+<br> 
+
+<https://laist.com/news/its-shop-local-saturday-heres-why-that-matters-to-local-businesses>
+
+---
+
+## Unstoppable invasion: How did mussels sneak into California, despite decades of state shipping rules?
+
+date: 2024-11-30, updated: 2024-11-30, from: The LAist
+
+Most ships discharging ballast water into California waters are inspected, but state officials have tested the water of only 16 ships. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/how-did-mussels-sneak-into-california-despite-decades-of-state-shipping-rules>
 

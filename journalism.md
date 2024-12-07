@@ -1,19 +1,71 @@
 ---
 title: journalism
-updated: 2024-12-06 07:05:07
+updated: 2024-12-07 07:05:28
 ---
 
 # journalism
 
-(date: 2024-12-06 07:05:07)
+(date: 2024-12-07 07:05:28)
 
 ---
 
-## ‘The Midnight Dreary’ immerses audience in reimagining of Edgar Allen Poe classics
+## Gov. Newsom announces plan to expand film and television tax credit program
 
 date: 2024-12-06, from: The Daily Bruin (UCLA Student Newspaper)
 
-Audience participation, death-like animations and betrayal in a dimly lit tavern all came together in &#8220;The Midnight Dreary&#8221; &#8211; a play inspired by the writings of Edgar Allan Poe. 
+Gov. Gavin Newsom proposed an extension to California’s existing film and television tax credit program.
+In October, Newsom announced a proposal to expand California’s film and television tax credit program to $750 million. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/06/gov-newsom-announces-plan-to-expand-film-and-television-tax-credit-program/>
+
+---
+
+## AI and the Future of Work: Collaboration, Not Competition
+
+date: 2024-12-06, from: The Sundail (CSUN Student Newspaper)
+
+The Soraya at CSUN recently hosted an event focused on artificial intelligence (AI) and its influence on the workforce. On Nov.19th united alumni, students and professionals, enthusiastic to learn about... 
+
+<br> 
+
+<https://sundial.csun.edu/188373/news/ai-and-the-future-of-work-collaboration-not-competition/>
+
+---
+
+## Second Take: Increased consumerism, shifting trends around holiday decor steal Christmas spirit
+
+date: 2024-12-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Fewer people than usual are rockin&#8217; around the Christmas tree this season, with many halls remaining undecked.
+From stockings to ornaments, holiday decorating is a staple of the winter months. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/06/second-take-increased-consumerism-shifting-trends-around-holiday-decor-steal-christmas-spirit/>
+
+---
+
+## High-profile Menendez brothers conviction to be resentenced in January
+
+date: 2024-12-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+This article contains mentions of sexual abuse that may be disturbing to some readers.
+Los Angeles District Attorney George Gascón asked a judge to resentence Erik and Lyle Menendez in October. 
+
+<br> 
+
+<https://dailybruin.com/2024/12/06/high-profile-menendez-brothers-conviction-to-be-resentenced-in-january/>
+
+---
+
+## ‘The Midnight Dreary’ immerses audience in reimagining of Edgar Allan Poe classics
+
+date: 2024-12-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Dec. 6 at 3:14 p.m.</em>
+Audience participation, death-like animations and betrayal in a dimly lit tavern all came together in “The Midnight Dreary” – a play inspired by the writings of Edgar Allan Poe. 
 
 <br> 
 
@@ -64,7 +116,7 @@ While UCLA&#8217;s residential pet policy only allows fish in tanks under 10 gal
 
 date: 2024-12-06, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Dec. 5 at 10:29 p.m.</em>
+<em>This post was updated Dec. 6 at 1:46 p.m.</em>
 One person was detained at Sproul Cove on Thursday evening after they threatened to use an explosive device, prompting building-wide evacuations.&#160;
 UCPD issued a statement on the social media platform X just before 9 p.m. 
 
@@ -1207,6 +1259,186 @@ A new wide-ranging study finds that trust in news has fallen further in countrie
 
 ---
 
+## An Interview with Stuart Weitzman
+
+date: 2024-12-03, from: California Tech (Caltech Student Newspaper)
+
+If you&rsquo;re craving a culinary trip to Hong Kong and Macau without the airfare, HK Macau Bistro in San Gabriel offers a flavor-packed detour. With tables fashioned from mahjong tiles and walls adorned with street signs straight out of Kowloon, the vibe here screams retro nostalgia with a side of quirky charm. The food? A mixed bag of divine delights and comforting mediocrity. 
+
+<br> 
+
+<https://tech.caltech.edu/2024/12/03/interview-with-stuart-weitzman/>
+
+---
+
+## ASCIT Board of Directors Propose New Bylaws Amendments
+
+date: 2024-12-03, from: California Tech (Caltech Student Newspaper)
+
+In our annual review of the ASCIT Bylaws, ASCIT Board of Directors has decided to propose the following amendments. These propositions have been approved unanimously by the Board of Directors, and we now bring them to the undergraduate students to be voted into action. 
+
+<br> 
+
+<https://tech.caltech.edu/2024/12/03/ascit-board-of-directors-propose/>
+
+---
+
+## Ballads of East and West at The Huntington
+
+date: 2024-12-03, from: California Tech (Caltech Student Newspaper)
+
+In “The Ballad of East and West,” Rudyard Kipling states that “East is East, and West is West, and never the twain shall meet.” On the contrary, Raqib Shaw demonstrates how art can unite the two with striking effect. 
+
+<br> 
+
+<https://tech.caltech.edu/2024/12/03/ballads-of-east-and-west/>
+
+---
+
+## Caltech Isn't for Everyone
+
+date: 2024-12-03, from: California Tech (Caltech Student Newspaper)
+
+I&rsquo;m Antonio. I matriculated as a Caltech undergraduate in 2019. I will not graduate. 
+
+<br> 
+
+<https://tech.caltech.edu/2024/12/03/caltech-isnt-for-everyone/>
+
+---
+
+## Caltech Ranks 111th in 2025 FIRE Free Speech College Rankings
+
+date: 2024-12-03, from: California Tech (Caltech Student Newspaper)
+
+In a recent national survey of 257 colleges and universities, Caltech ranked overall 111th. 92 Caltech undergrads were surveyed on a number of questions including how often they felt the need to “self-censor,” their comfort expressing their views on different topics, and administrative support. 
+
+<br> 
+
+<https://tech.caltech.edu/2024/12/03/caltech-ranks/>
+
+---
+
+## I Know I Don’t Know
+
+date: 2024-12-03, from: California Tech (Caltech Student Newspaper)
+
+Well yes, I am more than sure that all of you have already heard of Socrates, Plato, Aristotle, the masters of ancient classical philosophy. There would not have been a beginning without them and none of the greatest philosophers, even of the contemporary age, would have managed to develop a single concrete idea, think of Immanuel Kant who still criticized Plato during the period of the Enlightenment (1750). 
+
+<br> 
+
+<https://tech.caltech.edu/2024/12/03/i-know-i_dont-know/>
+
+---
+
+## JPL Faces November Layoffs, Third Round This Year
+
+date: 2024-12-03, from: California Tech (Caltech Student Newspaper)
+
+On November 13, JPL laid off 325 employees, or 5% of its workforce. 
+
+<br> 
+
+<https://tech.caltech.edu/2024/12/03/jpl-faces-november-layoffs/>
+
+---
+
+## Local Holiday Events in Pasadena
+
+date: 2024-12-03, from: California Tech (Caltech Student Newspaper)
+
+On November 13, JPL laid off 325 employees, or 5% of its workforce. 
+
+<br> 
+
+<https://tech.caltech.edu/2024/12/03/local-holiday-event-pasadena/>
+
+---
+
+## Man vs. Mannion: HK Macau Bistro
+
+date: 2024-12-03, from: California Tech (Caltech Student Newspaper)
+
+If you&rsquo;re craving a culinary trip to Hong Kong and Macau without the airfare, HK Macau Bistro in San Gabriel offers a flavor-packed detour. With tables fashioned from mahjong tiles and walls adorned with street signs straight out of Kowloon, the vibe here screams retro nostalgia with a side of quirky charm. The food? A mixed bag of divine delights and comforting mediocrity. 
+
+<br> 
+
+<https://tech.caltech.edu/2024/12/03/man-vs-mannion/>
+
+---
+
+## Meet Dr. Saeromi Kim, the new Director of Counseling Services at SWS
+
+date: 2024-12-03, from: California Tech (Caltech Student Newspaper)
+
+“I struggled in college so there is a personal connection for me, to be there for students who are struggling,” says Dr. Saeromi Kim, Caltech’s new Director of Counseling Services at Student Wellness Services (SWS). Dr. Kim, who uses she/they pronouns and is of Korean-Venezuelan ethnic backgrounds, came to Caltech after 13 years of counseling experience at UCLA. She herself has faced mental health and identity issues in college, as well as had to navigate the issues involved with being queer and an immigrant. 
+
+<br> 
+
+<https://tech.caltech.edu/2024/12/03/meet-dr-saeromi-kim/>
+
+---
+
+## Question the Quail – December 3, 2024
+
+date: 2024-12-03, from: California Tech (Caltech Student Newspaper)
+
+<strong>A SATIRE advice column about alive, ahaha, and everything in between!</strong> 
+
+<br> 
+
+<https://tech.caltech.edu/2024/12/03/question-the-quail/>
+
+---
+
+## Regarding the A in STEAM
+
+date: 2024-12-03, from: California Tech (Caltech Student Newspaper)
+
+This past summer I was walking on campus when in a window I saw something I would not expect to see at a technical school &ndash; a flyer with the following poem printed on it: <em>I don’t care how God-damn smart / these guys are: I’m bored. / It’s been raining like hell all day long / and there’s nothing to do</em> 
+
+<br> 
+
+<https://tech.caltech.edu/2024/12/03/regarding-the-a-in-steam/>
+
+---
+
+## Sleeping (Again)
+
+date: 2024-12-03, from: California Tech (Caltech Student Newspaper)
+
+Hi! It’s me again, your sleeper buddy who has been hung up on the Getting Better Sleep Workshop by SWS ever since it happened. But it doesn’t stop there – now my YouTube algorithm has been suggesting videos about sleep too. And honestly? I’ll take it. I am now invested in getting better sleep, and hopefully you are along for the ride. 
+
+<br> 
+
+<https://tech.caltech.edu/2024/12/03/sleeping-again/>
+
+---
+
+## This Moment in Time: A Celebration of Ephemerality
+
+date: 2024-12-03, from: California Tech (Caltech Student Newspaper)
+
+At the beginning of the fall term, the Caltech Pond Bridge was transformed by artist Lita Albuquerque into a gold foil installation — the largest she has made to date — dubbed <em>This Moment in Time</em>. It’s part of a larger art exhibit at Caltech called <strong>Crossing Over: Art and Science at Caltech</strong>. Apparently, some people couldn’t wait until December 15th to walk over the bridge, which has been gradually sullied with footprints over the course of the term. This came as somewhat of a disappointment to Albuquerque. 
+
+<br> 
+
+<https://tech.caltech.edu/2024/12/03/this-moment-in-time/>
+
+---
+
+## Where is the CHASE Report?
+
+date: 2024-12-03, from: California Tech (Caltech Student Newspaper)
+
+The Committee on House Assessment, Support, and Experience (CHASE) was formed in Spring 2023 and “charged by the Vice President for Student Affairs Kevin Gilmartin to develop strategic recommendations to ensure that the undergraduate houses remain supportive living and learning environments, where current and future Caltech students can thrive and succeed,” according to an email sent to undergraduates last spring. 
+
+<br> 
+
+<https://tech.caltech.edu/2024/12/03/chase-report/>
+
+---
+
 ## Classifieds – December 3, 2024
 
 date: 2024-12-03, from: The Daily Trojan (USC Student Newspaper)
@@ -1377,6 +1609,20 @@ At around 4:00 p.m., the court declared a mistrial in the case of Christopher Ro
 <br> 
 
 <https://dailybruin.com/2024/12/02/475643/>
+
+---
+
+## Comic: Getting back up
+
+date: 2024-12-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Life after graduation still scares me a little.</p>
+<p>The post <a href="https://dailytrojan.com/2024/12/02/getting-back-up/">Comic: Getting back up</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/12/02/getting-back-up/>
 
 ---
 
@@ -1599,6 +1845,19 @@ You’ve probably noticed that when you open your favorite news site or app, the
 
 ---
 
+## Copy that, copy desk
+
+date: 2024-12-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2024/12/01/copy-that-copy-desk/">Copy that, copy desk</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/12/01/copy-that-copy-desk/>
+
+---
+
 ## Illuminate Education faces lawsuit alleging failure to keep user data in the dark
 
 date: 2024-12-02, from: The Daily Bruin (UCLA Student Newspaper)
@@ -1636,6 +1895,20 @@ date: 2024-12-01, from: The Canyon News (COC Student Newspaper)
 <br> 
 
 <https://canyonsnews.com/bonchon-santa-clarita/>
+
+---
+
+## Letter from the editor
+
+date: 2024-12-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>As I begin to mourn everything I’m about to leave behind at USC, I know by far the greatest loss will be saying goodbye to the people at the Daily Trojan. </p>
+<p>The post <a href="https://dailytrojan.com/2024/12/01/letter-from-the-editor-5/">Letter from the editor</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2024/12/01/letter-from-the-editor-5/>
 
 ---
 
@@ -1688,4 +1961,69 @@ Advertised with 100 flyers around New York City, the first competition took plac
 <br> 
 
 <https://dailybruin.com/2024/11/30/second-take-lookalike-contests-bring-social-connections-offline-demystify-celebrity-beauty/>
+
+---
+
+## Residents enjoying the Newhall Thanksgiving community dinner
+
+date: 2024-11-30, from: The Canyon News (COC Student Newspaper)
+
+<p>With the holiday season blowing its way into the Santa Clarita Valley,&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/community-thanksgiving/">Residents enjoying the Newhall Thanksgiving community dinner</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/community-thanksgiving/>
+
+---
+
+## This Week: Nov. 29
+
+date: 2024-11-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+In this episode of &#8220;This Week&#8221; by Daily Bruin Podcasts, learn about important campus safety updates, including recent developments in a Saxon Suites assault case and UCPD reports. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/30/this-week-nov-29/>
+
+---
+
+## UCLA participates in Big Ten, Abbott’s nationwide competition for blood donations
+
+date: 2024-11-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Dec. 1 at 11:08 p.m.</em>
+The UCLA Blood &#38; Platelet Center is rallying community members in a race against time, with its Big Ten blood donation competition set to conclude Dec. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/29/ucla-participates-in-big-ten-abbotts-nationwide-competition-for-blood-donations/>
+
+---
+
+## USAC Cultural Affairs Commissioner faces allegation of antisemitic discrimination
+
+date: 2024-11-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated</em> <em>Dec. 1 at 11 p.m.</em>
+A Jewish student filed a discrimination complaint against the Undergraduate Students Association Council Cultural Affairs Commissioner on Monday. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/29/usac-cultural-affairs-commissioner-faces-allegation-of-antisemitic-discrimination/>
+
+---
+
+## UCLA study finds impact of culturally divisive conflict on American public schools
+
+date: 2024-11-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+A recent UCLA study found that cultural and political conflict is costing American public schools more than just time.
+American school districts have spent roughly $3.2 billion toward resolving tensions over how political issues are taught in educational spaces in the 2023-2024 school year, according to the study. 
+
+<br> 
+
+<https://dailybruin.com/2024/11/29/ucla-study-finds-impact-of-culturally-divisive-conflict-on-american-public-schools/>
 
